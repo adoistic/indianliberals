@@ -49,6 +49,12 @@ summary: |-
   Masani also asks Raju to follow up with Dr. R. C. Cooper regarding advertising revenue. He explains that additional funds are needed to bring a larger number of delegates to the National Convention, presenting this as necessary to safeguard the Swatantra ideals. The letter therefore combines internal party coordination, fundraising, and preparations for a national gathering.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to S. V. Raju, dated June 14, 1974, discusses the Swatantra Party's immediate organisational and political concerns. Masani refers to a resolution adopted by the General Council on June 10 and expresses the view that the Swatantra Party has been saved. He asks Raju to consult Mr. Munshi or Mr. Madhu Mehta about the General Council meeting and report the reaction of the party's leader, identified in the letter as “MRM.”
+
+Masani also asks Raju to follow up with Dr. R. C. Cooper regarding advertising revenue. He explains that additional funds are needed to bring a larger number of delegates to the National Convention, presenting this as necessary to safeguard the Swatantra ideals. The letter therefore combines internal party coordination, fundraising, and preparations for a national gathering.
+
 ## Key points
 
 - Masani writes to S. V. Raju on June 14, 1974, from the Swatantra Jyoti office.

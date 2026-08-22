@@ -50,6 +50,12 @@ summary: |-
   Masani asks the officer to take account of his previous letters and reiterates that the vehicle was sold by the Swatantra Party to Tata Services Limited as far back as 3 May 1967. The letter is an administrative representation seeking correction of the vehicle's ownership or registration record and cessation of demands directed to Masani.
 ---
 
+## Summary
+
+This single-page letter, dated 19 March 1985, is M. R. Masani's follow-up to the Regional Transport Officer in Bombay concerning vehicle MRA-4024. Masani states that he has again received a demand notice requiring inspection of the vehicle, despite earlier correspondence explaining that it is not in his possession or ownership.
+
+Masani asks the officer to take account of his previous letters and reiterates that the vehicle was sold by the Swatantra Party to Tata Services Limited as far back as 3 May 1967. The letter is an administrative representation seeking correction of the vehicle's ownership or registration record and cessation of demands directed to Masani.
+
 ## Key points
 
 - The letter is dated 19th March, 1985 and addressed to the Regional Transport Officer, Bombay.

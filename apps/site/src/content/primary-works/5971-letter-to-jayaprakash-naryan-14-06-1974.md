@@ -51,6 +51,12 @@ summary: |-
   Masani asks whether Narayan wants Hanumantha Rao to discuss plans for the training programme or instead expects Narayan to remain in Patna and organise a camp. He notes that the organisers had decided to conduct two ten-day courses, under the name of a local work organisation rather than the Leslie Sawhny Programme itself. Narayan is expected to arrange accommodation, while the programme will cover discussion leaders’ fees and participants’ food costs. The page is an administrative exchange focused on coordinating a democratic training initiative.
 ---
 
+## Summary
+
+In this letter dated June 14, 1974, M. R. Masani writes to Jayaprakash Narayan about arrangements for the Leslie Sawhny Programme of Training for Democracy. Masani explains that an earlier telegram has gone astray, that he is trying to send Mr. Hanumantha Rao from Guntur to Patna, and that Rao may not be able to arrive by June 17. He proposes sending further information by messenger and hopes to send someone from Bombay the following week.
+
+Masani asks whether Narayan wants Hanumantha Rao to discuss plans for the training programme or instead expects Narayan to remain in Patna and organise a camp. He notes that the organisers had decided to conduct two ten-day courses, under the name of a local work organisation rather than the Leslie Sawhny Programme itself. Narayan is expected to arrange accommodation, while the programme will cover discussion leaders’ fees and participants’ food costs. The page is an administrative exchange focused on coordinating a democratic training initiative.
+
 ## Key points
 
 - Masani reports that Narayan’s earlier telegram has apparently been lost in the post.

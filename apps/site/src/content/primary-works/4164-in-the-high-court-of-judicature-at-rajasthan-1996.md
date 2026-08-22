@@ -58,6 +58,12 @@ summary: |-
   The petition’s substantive argument is that “Socialist” is undefined, politically manipulable, and inconsistent with constitutional protections for individual dignity, liberty, property, and natural rights. It contrasts Marxist socialism—described through references to Lenin, Stalin, Engels, and Marx—with the Indian Constitution’s commitment to democratic freedoms, and argues that the Constitution does not commit India to any particular economic order. It also invokes judicial review, constitutionalism, the basic structure of the Constitution, and the danger of an enlarged regulatory state. The appended affidavit states that Kulish is the petitioner, that the petition was prepared under his instructions, and that its contents are true to his personal knowledge.
 ---
 
+## Summary
+
+This 1996 writ petition by Karpoor Chandra Kulish before the Rajasthan High Court challenges the inclusion of the word “Socialist” in the Preamble to the Constitution of India. The petition reproduces the Preamble as it stood in 1949 and after the Forty-Second Amendment, then argues that the amendment was enacted during the Emergency, when opposition leaders were imprisoned and Parliament no longer represented the national will. It presents the addition as an abuse of parliamentary power and asks the Court to strike the word from the Preamble under Article 226.
+
+The petition’s substantive argument is that “Socialist” is undefined, politically manipulable, and inconsistent with constitutional protections for individual dignity, liberty, property, and natural rights. It contrasts Marxist socialism—described through references to Lenin, Stalin, Engels, and Marx—with the Indian Constitution’s commitment to democratic freedoms, and argues that the Constitution does not commit India to any particular economic order. It also invokes judicial review, constitutionalism, the basic structure of the Constitution, and the danger of an enlarged regulatory state. The appended affidavit states that Kulish is the petitioner, that the petition was prepared under his instructions, and that its contents are true to his personal knowledge.
+
 ## Key points
 
 - The petitioner seeks a writ striking the word “Socialist” from the Preamble to the Constitution of India.

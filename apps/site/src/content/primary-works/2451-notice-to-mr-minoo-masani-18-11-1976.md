@@ -53,6 +53,12 @@ summary: |-
   The accompanying bill identifies the vehicle as subject to yearly regular taxation and records a grand total of Rs. 1,275.00, including Rs. 864.00 in tax and Rs. 210.00 in penalty, alongside additional listed charges. The notice gives the recipient seven days to comply, offers the option of compounding the offence under rule 19 of the B.M.V. Tax Rules, 1959, and asks that proof of any prior payment be supplied immediately.
 ---
 
+## Summary
+
+This two-page document is a Regional Transport Office, Bombay, notice dated 18 November 1976, addressed to Minoo Masani concerning unpaid motor-vehicle tax for vehicle M.R.G. 2347. It states that the tax had remained unpaid from February 1976 onward and warns that non-payment could lead to prosecution under section 16 of the B.M.V. Tax Act, 1958, as well as recovery of the arrears as land revenue under section 12.
+
+The accompanying bill identifies the vehicle as subject to yearly regular taxation and records a grand total of Rs. 1,275.00, including Rs. 864.00 in tax and Rs. 210.00 in penalty, alongside additional listed charges. The notice gives the recipient seven days to comply, offers the option of compounding the offence under rule 19 of the B.M.V. Tax Rules, 1959, and asks that proof of any prior payment be supplied immediately.
+
 ## Key points
 
 - The notice was issued by the Regional Transport Office, Bombay, on 18 November 1976.

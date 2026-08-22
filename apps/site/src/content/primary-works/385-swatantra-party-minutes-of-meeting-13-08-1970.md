@@ -57,6 +57,12 @@ summary: |-
   The minutes also allocate prospective speakers for parliamentary business on scheduled-caste reports, floods in Assam, the West Bengal budget, supplementary demands, railway matters, a Supreme Court jurisdiction bill, homeopathy, agricultural produce cess, Soviet cartographic activity, the land-grab movement, cotton-trade nationalisation, relief for central-government employees, drug prices, and law and order in Delhi. Finally, the party nominates Viren Shah and M. K. Mohta to a Company Affairs consultative committee, records that the next General Body meeting will be held on 20 August 1970, and identifies R. K. Amin as secretary and signatory.
 ---
 
+## Summary
+
+These two-page minutes record a Swatantra Party General Body meeting held at Parliament House on 13 August 1970. The meeting opened with obituary references to S. Basant Singh, described as a party leader from Punjab, followed by two minutes of silence. Members then briefly discussed the land-grab movement and appointed Prof. N. G. Ranga, Prof. R. K. Amin, K. M. Koushik, Prof. M. Ruthnaswamy, and D. N. Patodia to prepare a party draft for circulation to spokesmen, members, and the National Executive.
+
+The minutes also allocate prospective speakers for parliamentary business on scheduled-caste reports, floods in Assam, the West Bengal budget, supplementary demands, railway matters, a Supreme Court jurisdiction bill, homeopathy, agricultural produce cess, Soviet cartographic activity, the land-grab movement, cotton-trade nationalisation, relief for central-government employees, drug prices, and law and order in Delhi. Finally, the party nominates Viren Shah and M. K. Mohta to a Company Affairs consultative committee, records that the next General Body meeting will be held on 20 August 1970, and identifies R. K. Amin as secretary and signatory.
+
 ## Key points
 
 - The General Body met at 10 a.m. in Room No. 50, Parliament House, on 13 August 1970.

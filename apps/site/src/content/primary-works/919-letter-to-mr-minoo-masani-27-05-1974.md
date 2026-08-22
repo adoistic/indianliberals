@@ -49,6 +49,12 @@ summary: |-
   The sender reports that the merger proposal has been critically debated in the magazine's last two issues and that several letters opposing the merger have appeared. The second page continues the sender's argument and appeals to Masani in connection with the party's future, but the scan is upside down and the sender's signature or name is not visible.
 ---
 
+## Summary
+
+This handwritten letter, dated 27 May 1974 and addressed to M. R. Masani, discusses the proposed merger of the Swatantra Party with another party under the broader objective of party polarisation. The unidentified sender explains that they are a member of the party's General Council and have served the party since its inception, including through Tamil Fortnightly, described as an effective link and mouthpiece among Swatantra workers in Tamil Nadu.
+
+The sender reports that the merger proposal has been critically debated in the magazine's last two issues and that several letters opposing the merger have appeared. The second page continues the sender's argument and appeals to Masani in connection with the party's future, but the scan is upside down and the sender's signature or name is not visible.
+
 ## Key points
 
 - The letter is dated 27 May 1974 and addressed to M. R. Masani.

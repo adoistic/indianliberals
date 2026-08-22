@@ -58,6 +58,12 @@ summary: |-
   The committee also fixed Jaipur as the venue for the first meeting of the elected General Council and adopted resolutions on Malaysia, food scarcity and rising prices, the proposed minting of coins bearing Jawaharlal Nehru’s effigy, and the recent Indo-Soviet agreement on aid. The latter resolutions express a strongly anti-communist foreign-policy position, while the food-price resolution attributes scarcity and inflation to Congress government policies and deficit financing. The later proceedings focus on reorganising the Bihar unit, expelling Kamakhya Narayan Singh and Shyam Sunder Prasad for alleged indiscipline and disloyalty, establishing a Central Office branch in Patna, and requesting an inquiry into corruption allegations involving Orissa ministers.
 ---
 
+## Summary
+
+These minutes record the meeting of the Swatantra Party’s Central Organising Committee held in Bombay on 30 September 1964 at Sir Homi Mody’s residence. The committee approved the previous meeting’s minutes, recorded condolences, considered Organisation Sub-Committee recommendations, and dealt with membership applications, disciplinary cases, state-unit organisation, and representation on the General Council. It approved a formula of three representatives for the first 200 enrolled workers and one additional representative for every further 100, producing a proposed total of 150 representatives on the basis of 21,395 enrolments.
+
+The committee also fixed Jaipur as the venue for the first meeting of the elected General Council and adopted resolutions on Malaysia, food scarcity and rising prices, the proposed minting of coins bearing Jawaharlal Nehru’s effigy, and the recent Indo-Soviet agreement on aid. The latter resolutions express a strongly anti-communist foreign-policy position, while the food-price resolution attributes scarcity and inflation to Congress government policies and deficit financing. The later proceedings focus on reorganising the Bihar unit, expelling Kamakhya Narayan Singh and Shyam Sunder Prasad for alleged indiscipline and disloyalty, establishing a Central Office branch in Patna, and requesting an inquiry into corruption allegations involving Orissa ministers.
+
 ## Key points
 
 - The Central Organising Committee met in Bombay on 30 September 1964, with Prof. N. G. Ranga in the chair and a wide representation of party leaders and state units.

@@ -49,6 +49,12 @@ summary: |-
   The notes then turn to organisational mechanics. They distinguish internal from external work, assign the secretary a central role in day-to-day administration, and outline responsibilities such as correspondence, fundraising, promotion, calling and conducting meetings, keeping minutes, and implementing decisions. Meeting procedure includes advance notice with the date, time, place, agenda, and supporting papers; clear allocation of responsibility; quorum and punctuality; the ordering of trivial, unifying, and divisive matters; resolutions; and the management of differences and dissent. The final page briefly identifies external promotion, coordination with similar organisations, and fundraising through subscriptions and donations. No author, year, or expanded institutional name is printed; “LSP” appears only in the session heading.
 ---
 
+## Summary
+
+These four-page typed session notes, headed “Techniques of Organising Institutions,” present practical guidance for building and running membership organisations. The notes begin with the motivation to organise around a “felt need,” giving bank depositors’ and telephone subscribers’ associations and a political party as examples. They stress that organisations should avoid vague objectives, rivalry, and an “Oh what’s the use” attitude; instead, organisers should define a clear objective, accept the risk of failure, and secure the necessary human and financial resources.
+
+The notes then turn to organisational mechanics. They distinguish internal from external work, assign the secretary a central role in day-to-day administration, and outline responsibilities such as correspondence, fundraising, promotion, calling and conducting meetings, keeping minutes, and implementing decisions. Meeting procedure includes advance notice with the date, time, place, agenda, and supporting papers; clear allocation of responsibility; quorum and punctuality; the ordering of trivial, unifying, and divisive matters; resolutions; and the management of differences and dissent. The final page briefly identifies external promotion, coordination with similar organisations, and fundraising through subscriptions and donations. No author, year, or expanded institutional name is printed; “LSP” appears only in the session heading.
+
 ## Key points
 
 - Organisation should begin with a felt need and a willingness to act rather than an attitude of futility.

@@ -58,6 +58,12 @@ summary: |-
   The proposed political strategy combines advocacy of production and wealth creation with targeted action on poverty, prices, and princely privileges. The paper urges the party to popularise slogans such as “More production, more prosperity” and “Creation first, distribution second,” while developing a Charter of Demand on prices and seeking a negotiated settlement over privy purses. In Parliament, the party should cooperate with the government when it takes the right position, offer constructive alternatives, introduce bills and amendments, and criticise measures that violate democratic values. If constitutional methods prove inadequate on issues seriously affecting people’s lives, the paper says the party should consider peaceful mass resistance.
 ---
 
+## Summary
+
+Madhu Mehta’s three-page programme responds to the Swatantra Party’s disappointing performance in the mid-term elections. It argues that ending the party would weaken Indian democracy by removing the only genuine opposition with an alternative set of principles and policies. Mehta calls for an honest reappraisal of the party’s policies and conduct, a younger leadership, new office-bearers, stronger mass action, and a clearer effort to explain the party’s programme directly to the people.
+
+The proposed political strategy combines advocacy of production and wealth creation with targeted action on poverty, prices, and princely privileges. The paper urges the party to popularise slogans such as “More production, more prosperity” and “Creation first, distribution second,” while developing a Charter of Demand on prices and seeking a negotiated settlement over privy purses. In Parliament, the party should cooperate with the government when it takes the right position, offer constructive alternatives, introduce bills and amendments, and criticise measures that violate democratic values. If constitutional methods prove inadequate on issues seriously affecting people’s lives, the paper says the party should consider peaceful mass resistance.
+
 ## Key points
 
 - The Swatantra Party’s poor electoral performance is presented as a crisis requiring renewal rather than dissolution.

@@ -49,6 +49,12 @@ summary: |-
   The telegram form identifies the Indian Posts and Telegraphs Department, but no date or year is visible. The second scanned page is a reversed image of the message rather than additional content.
 ---
 
+## Summary
+
+This two-page English telegram from C. Rajagopalachari (signed “RAJAJI”) is addressed to Minoo Masani in New Delhi. Its message concerns the position of Desai and the response of the National Executive: if Desai does not resign as advised, the executive is said to have no course except to consider expulsion and decide the matter after full and free debate. The document therefore records an internal party-political intervention emphasizing both disciplinary action and deliberative procedure.
+
+The telegram form identifies the Indian Posts and Telegraphs Department, but no date or year is visible. The second scanned page is a reversed image of the message rather than additional content.
+
 ## Key points
 
 - The telegram is addressed to Minoo Masani at 2 Tughlak Road, New Delhi.

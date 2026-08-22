@@ -49,6 +49,12 @@ summary: |-
   The writer specifies that the Bihar Party should meanwhile receive only its routine monthly remittance of Rs. 2,475, noting that the August and September payments had already been made directly to Raja Saheb so that he could pay premiums to the New India Assurance Co. Ltd. The letter also proposes an in-kind settlement concerning campaign jeeps: Raja Saheb would retain one-fifth of the jeeps covered by the credit, while four-fifths would be returned to the Swatantra Party's Centre, with financial adjustments for any fractional jeep.
 ---
 
+## Summary
+
+This letter, dated 2 August 1961 and addressed to the Treasurer of the Swatantra Party, records arrangements concerning credit obtained for Raja Saheb of Ramgarh from the Central Bank. It proposes monthly instalments of Rs. 20,000 toward repayment of the loan, with those payments set off against amounts otherwise due to the Bihar Party from a previously guaranteed sum of Rs. 5 lakhs. The letter asks that the entire credit be repaid before further remittances are made for constituencies financially endorsed by the Parliamentary Sub-Committee, ideally by the end of November 1961.
+
+The writer specifies that the Bihar Party should meanwhile receive only its routine monthly remittance of Rs. 2,475, noting that the August and September payments had already been made directly to Raja Saheb so that he could pay premiums to the New India Assurance Co. Ltd. The letter also proposes an in-kind settlement concerning campaign jeeps: Raja Saheb would retain one-fifth of the jeeps covered by the credit, while four-fifths would be returned to the Swatantra Party's Centre, with financial adjustments for any fractional jeep.
+
 ## Key points
 
 - The letter is dated 2 August 1961 and addressed to the Treasurer of the Swatantra Party.

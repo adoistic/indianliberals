@@ -47,6 +47,10 @@ summary: |-
   In this two-page letter dated 2 February 1963, M. R. Masani briefs C. Rajagopalachari (“Rajaji”) on discussions in Delhi and Bombay concerning the leadership crisis in the Bihar unit of the Swatantra Party. Masani reports that efforts to avoid a schism should preserve the Party’s authority, prestige, and integrity, while describing the Raja of Ramgarh’s appeal against the Madras decision and the allegations made by his supporters.
 ---
 
+## Summary
+
+In this two-page letter dated 2 February 1963, M. R. Masani briefs C. Rajagopalachari (“Rajaji”) on discussions in Delhi and Bombay concerning the leadership crisis in the Bihar unit of the Swatantra Party. Masani reports that efforts to avoid a schism should preserve the Party’s authority, prestige, and integrity, while describing the Raja of Ramgarh’s appeal against the Madras decision and the allegations made by his supporters.
+
 ## Key points
 
 - Masani recounts discussions in Delhi with Ranga and other political colleagues about the Bihar dispute.

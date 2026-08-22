@@ -51,6 +51,12 @@ summary: |-
   The main request concerns Ranganathan's son, R. R. Jatagopalan, who has applied for a clerical post at the Bank of India in Madras. Ranganathan asks Raju to use his influence to help secure an interview and appointment, citing his son's imminent B.A. completion and training in economics, mathematics, and statistics. He closes by suggesting that Raju could convey the request to Masani if necessary, apologising for the inconvenience and expressing hope that the assistance will help his son serve the publication "Charvakya".
 ---
 
+## Summary
+
+This three-page handwritten letter, dated 10 March 1974 and addressed to S. V. Raju in Bombay, combines political inquiry with a personal request. R. Ranganathan refers to the party's disappointing performance in the Uttar Pradesh elections and the unexpectedly poor result in Orissa, asking Raju to provide constituency-wise polling figures if available. The letter also mentions that Ranganathan has joined Minoo Masani "as planned."
+
+The main request concerns Ranganathan's son, R. R. Jatagopalan, who has applied for a clerical post at the Bank of India in Madras. Ranganathan asks Raju to use his influence to help secure an interview and appointment, citing his son's imminent B.A. completion and training in economics, mathematics, and statistics. He closes by suggesting that Raju could convey the request to Masani if necessary, apologising for the inconvenience and expressing hope that the assistance will help his son serve the publication "Charvakya".
+
 ## Key points
 
 - The writer seeks constituency-wise polling figures for the party's Uttar Pradesh and Orissa election performances.

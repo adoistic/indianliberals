@@ -48,6 +48,12 @@ summary: |-
   The document records an editorial and political exchange within the Congress (O) context. It does not include the attached article or manifesto, so the substance of either text cannot be assessed from this page.
 ---
 
+## Summary
+
+This one-page confidential letter from C. Rajagopalachari to Minoo Masani, dated 25 June 1970, transmits an advance galley of Rajagopalachari’s article for the 4 July 1970 issue of Swarajya and asks Masani to review it. The letter also comments on Masani’s draft manifesto for the Congress (O) party, suggesting that it may correspond to Nijalingappa’s speech at the party’s A.I.C.C. meeting and therefore might not be issued immediately as a separate manifesto.
+
+The document records an editorial and political exchange within the Congress (O) context. It does not include the attached article or manifesto, so the substance of either text cannot be assessed from this page.
+
 ## Key points
 
 - Rajagopalachari sends Masani an advance galley of an article intended for Swarajya’s 4 July 1970 issue.

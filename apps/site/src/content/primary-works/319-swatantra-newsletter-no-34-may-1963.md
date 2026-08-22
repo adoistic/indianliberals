@@ -62,3 +62,9 @@ summary: |-
   
   The parliamentary extracts extend these concerns to defence preparedness, transport, heavy industry, the railways, home affairs, and the Orissa budget. Regional reports document Swatantra Party meetings, electoral victories, membership activity, and campaigns against prohibition, gold controls, centralised planning, and restrictions on speech. The issue engages directly with Jawaharlal Nehru, Morarji Desai, Vallabhbhai Patel, Milton Friedman, and other political figures in debates over socialism, Communism, taxation, national security, and constitutional government.
 ---
+
+## Summary
+
+Issue No. 34 of the Swatantra Newsletter, dated May 1963 and issued for private circulation by the Swatantra Party's Central Office in Bombay, presents the party's criticism of the Union Budget alongside reports on by-elections, parliamentary speeches, regional organisation, and state-level political activity. Its central arguments are that high taxation, economic planning, public-sector expansion, and administrative overreach are weakening industrial growth, private investment, and individual liberty. The issue also advocates opposition unity against the Congress and Communist parties, criticises corruption and political patronage, and links fiscal policy to national defence and democratic accountability.
+
+The parliamentary extracts extend these concerns to defence preparedness, transport, heavy industry, the railways, home affairs, and the Orissa budget. Regional reports document Swatantra Party meetings, electoral victories, membership activity, and campaigns against prohibition, gold controls, centralised planning, and restrictions on speech. The issue engages directly with Jawaharlal Nehru, Morarji Desai, Vallabhbhai Patel, Milton Friedman, and other political figures in debates over socialism, Communism, taxation, national security, and constitutional government.

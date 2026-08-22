@@ -47,6 +47,10 @@ summary: |-
   This one-page English telegram from Minoo Masani to Mr. T. Sadasivan, dated Bombay, May 27, 1974, concerns Masani’s travel plans and an attempted meeting in Madras. Masani says he has been unable to reach Sadasivan by telephone and is arriving in Madras by Indian Airlines flight IC171 at 18:20.
 ---
 
+## Summary
+
+This one-page English telegram from Minoo Masani to Mr. T. Sadasivan, dated Bombay, May 27, 1974, concerns Masani’s travel plans and an attempted meeting in Madras. Masani says he has been unable to reach Sadasivan by telephone and is arriving in Madras by Indian Airlines flight IC171 at 18:20.
+
 ## Key points
 
 - The document is marked “EXPRESS” and takes the form of a clipped block-capital telegram.

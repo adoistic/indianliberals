@@ -57,6 +57,12 @@ summary: |-
   The minutes further note a brief discussion of the Rules Committee report on procedures for Constitution Amendment Bills. The committee decided to table an amendment proposing that existing Rule 155 should continue to prevail, and suggested that the party Leader and Deputy Leader represent it on the proposed Committee on Election Laws. M. K. Mohta and B. N. Antani were also asked to speak on the General and Railway Appropriation Bills respectively. The document is an administrative record rather than an authored argument.
 ---
 
+## Summary
+
+These minutes record a meeting of the Swatantra Party Executive Committee held at the party's Parliamentary Office in New Delhi on 10 December 1970. The committee decided to circulate a sub-committee report on the powers of the Governor for discussion at the following week's meeting. It also assigned members to speak on issues including the Communist Party (Marxist) resolution concerning West Bengal, the country's sugar position, establishing a jute mill in Orissa, drug prices, the death of Deen Dayal Upadhyaya, and prohibition.
+
+The minutes further note a brief discussion of the Rules Committee report on procedures for Constitution Amendment Bills. The committee decided to table an amendment proposing that existing Rule 155 should continue to prevail, and suggested that the party Leader and Deputy Leader represent it on the proposed Committee on Election Laws. M. K. Mohta and B. N. Antani were also asked to speak on the General and Railway Appropriation Bills respectively. The document is an administrative record rather than an authored argument.
+
 ## Key points
 
 - The Swatantra Party Executive Committee met on 10 December 1970 at its Parliamentary Office in New Delhi.

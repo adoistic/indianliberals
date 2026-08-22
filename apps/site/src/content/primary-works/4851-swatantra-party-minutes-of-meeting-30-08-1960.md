@@ -64,6 +64,12 @@ summary: |-
   The minutes also set out the party’s immediate political and organisational agenda. The Executive condemned deteriorating law and order in West Bengal, Kerala, and Orissa; warned of Communist infiltration; defended press freedom; expressed concern for Sardar Darshan Singh Pheruman’s indefinite fast; and called for relief during floods in Bihar and elsewhere. It established procedures for party-election tribunals and representation, confirmed a fifteen-year programme for gradually eliminating reserved seats, postponed the mid-term report, and deferred reconstitution of party committees until the new National Executive. Annexures provide electoral data and statements arguing that the central political choice was between liberal democracy and totalitarian communism, while advocating a broad National Democratic Front.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party National Executive’s meeting in New Delhi on 30 August 1969. The Executive confirmed earlier minutes, deferred a report on linguistic states, considered disciplinary cases involving K. M. Munshi and Rajasthan legislators, arranged for N. Dandekar’s medical leave, and reviewed the presidential election. It thanked C. D. Deshmukh for standing as the party-backed candidate, while adopting a resolution that attributed his defeat largely to defections and the transfer of second-preference votes to V. V. Giri.
+
+The minutes also set out the party’s immediate political and organisational agenda. The Executive condemned deteriorating law and order in West Bengal, Kerala, and Orissa; warned of Communist infiltration; defended press freedom; expressed concern for Sardar Darshan Singh Pheruman’s indefinite fast; and called for relief during floods in Bihar and elsewhere. It established procedures for party-election tribunals and representation, confirmed a fifteen-year programme for gradually eliminating reserved seats, postponed the mid-term report, and deferred reconstitution of party committees until the new National Executive. Annexures provide electoral data and statements arguing that the central political choice was between liberal democracy and totalitarian communism, while advocating a broad National Democratic Front.
+
 ## Key points
 
 - The National Executive met in New Delhi on 30 August 1969 under Prof. N. G. Ranga and recorded condolences for the death of Sardar Ram Singh.

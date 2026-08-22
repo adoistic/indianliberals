@@ -49,6 +49,12 @@ summary: |-
   Vajpayee is particularly concerned that Chaudhary Charan Singh's public justification of the decision refers to his informal discussions with Ranga in a way that could suggest Ranga indirectly approved the BKD's action. He encloses a Times of India clipping and a press statement of his own, noting that he felt strongly about what Charan Singh and his party had done. The letter closes with a request for an early reply while Vajpayee is hospitalised at the All India Institute of Medical Sciences with a suspected stomach ulcer.
 ---
 
+## Summary
+
+In this letter dated June 1, 1969, A. B. Vajpayee writes to Prof. N. G. Ranga about the Bharatiya Kranti Dal's decision to end talks with the Swatantra Party. Vajpayee says he was surprised by the decision because colleagues had described the talks as generally satisfactory, and asks Ranga for his party's reaction to the BKD's position.
+
+Vajpayee is particularly concerned that Chaudhary Charan Singh's public justification of the decision refers to his informal discussions with Ranga in a way that could suggest Ranga indirectly approved the BKD's action. He encloses a Times of India clipping and a press statement of his own, noting that he felt strongly about what Charan Singh and his party had done. The letter closes with a request for an early reply while Vajpayee is hospitalised at the All India Institute of Medical Sciences with a suspected stomach ulcer.
+
 ## Key points
 
 - Vajpayee apologises for missing the previous week's talks and reports that participants had described them as satisfactory.

@@ -58,6 +58,12 @@ summary: |-
   In the rendered pages, Masani distinguishes democratic discipline from authoritarian obedience and presents civic participation, ethical leadership, and grassroots political organisation as necessary conditions for a functioning democracy. He criticises socialism, planning, and the permit-licence raj for concentrating economic and political power and encouraging corruption. His practical proposal is the consolidation of democratic forces—including the Swatantra Party, Jan Sangh, and other anti-Communist and anti-Congress groups—into a broader national democratic alternative. He closes by defending constitutional democracy despite its imperfections, invoking Winston Churchill’s judgment that democracy is preferable to every alternative.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that India’s democratic crisis stems less from the constitutional form of government than from the conduct, structure, and credibility of its political parties. Writing after two decades of independence, he describes public disillusionment with elections and politicians, declining standards of public life, defections, unstable governments, and the Congress Party’s loss of popular legitimacy. He attributes these problems to weak leadership, excessive concentration of power, political opportunism, and the absence of disciplined, principled parties capable of governing or opposing effectively.
+
+In the rendered pages, Masani distinguishes democratic discipline from authoritarian obedience and presents civic participation, ethical leadership, and grassroots political organisation as necessary conditions for a functioning democracy. He criticises socialism, planning, and the permit-licence raj for concentrating economic and political power and encouraging corruption. His practical proposal is the consolidation of democratic forces—including the Swatantra Party, Jan Sangh, and other anti-Communist and anti-Congress groups—into a broader national democratic alternative. He closes by defending constitutional democracy despite its imperfections, invoking Winston Churchill’s judgment that democracy is preferable to every alternative.
+
 ## Key points
 
 - Masani links public disenchantment with Indian politics to low standards of political conduct, unstable governments, defections, and weak party organisation.

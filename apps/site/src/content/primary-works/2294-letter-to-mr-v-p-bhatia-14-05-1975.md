@@ -51,6 +51,12 @@ summary: |-
   The main issue is the handling of correspondence addressed to the Swatantra Party. Subramanian rejects the suggestion that letters addressed to the Bharatiya Lok Dal are being received or opened by Swatantra Party staff, but states that letters sent to the party’s former national headquarters are being forwarded to its new headquarters in Madras. He alleges that Bhatia’s office has previously opened and failed to forward letters intended for the Swatantra Party, and asks that such correspondence be promptly handed over. The letter closes with a request that an outstanding payment owed to the Swatantra Party since September 1974 be settled without further delay.
 ---
 
+## Summary
+
+This untitled letter, dated May 14, 1975, is written by K. H. Subramanian of the Swatantra Party’s Maharashtra Department to V. P. Bhatia of the Bharatiya Lok Dal. Subramanian explains that Bhatia’s earlier letter, addressed to Girish Munshi, has been forwarded because Munshi is out of Bombay and the reply is overdue.
+
+The main issue is the handling of correspondence addressed to the Swatantra Party. Subramanian rejects the suggestion that letters addressed to the Bharatiya Lok Dal are being received or opened by Swatantra Party staff, but states that letters sent to the party’s former national headquarters are being forwarded to its new headquarters in Madras. He alleges that Bhatia’s office has previously opened and failed to forward letters intended for the Swatantra Party, and asks that such correspondence be promptly handed over. The letter closes with a request that an outstanding payment owed to the Swatantra Party since September 1974 be settled without further delay.
+
 ## Key points
 
 - The letter is dated May 14, 1975, and is signed by K. H. Subramanian on Swatantra Party, Maharashtra Department letterhead.

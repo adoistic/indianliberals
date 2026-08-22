@@ -52,6 +52,12 @@ summary: |-
   The communication is issued from 53 North Avenue, New Delhi, and is signed by D. N. Patodia as Secretary. It is an internal party-management directive focused on maintaining party coordination and consent in parliamentary committee work.
 ---
 
+## Summary
+
+This untitled Swatantra Party Parliamentary Office circular, dated July 25, 1968, instructs all party members not to agree to serve on select or joint committees without prior permission from the party. It explains that the instruction responds to proposals for several select committees on private members’ bills and to amendments being introduced to government bills without the party being informed in advance.
+
+The communication is issued from 53 North Avenue, New Delhi, and is signed by D. N. Patodia as Secretary. It is an internal party-management directive focused on maintaining party coordination and consent in parliamentary committee work.
+
 ## Key points
 
 - The circular is dated July 25, 1968, and issued by the Swatantra Party Parliamentary Office in New Delhi.

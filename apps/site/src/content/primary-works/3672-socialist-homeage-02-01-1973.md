@@ -51,6 +51,10 @@ summary: |-
   This one-page English newspaper clipping, datelined New Delhi, Jan. 1, reports that the national ad hoc committee of the Socialist Party mourned the death of C. Rajagopalachari (Rajaji) and paid tribute to him as an elder statesman. It also records the committee’s condolences for the deaths of three socialist workers: Leeladhar Shah of Bombay, Ayesha Deshpande of Poona, and the eminent trade-union leader Vasavada. The source publication and year are not identified on the clipping; the item is attributed to PTI.
 ---
 
+## Summary
+
+This one-page English newspaper clipping, datelined New Delhi, Jan. 1, reports that the national ad hoc committee of the Socialist Party mourned the death of C. Rajagopalachari (Rajaji) and paid tribute to him as an elder statesman. It also records the committee’s condolences for the deaths of three socialist workers: Leeladhar Shah of Bombay, Ayesha Deshpande of Poona, and the eminent trade-union leader Vasavada. The source publication and year are not identified on the clipping; the item is attributed to PTI.
+
 ## Key points
 
 - The clipping is headed “Socialist homage” and datelined New Delhi, Jan. 1.

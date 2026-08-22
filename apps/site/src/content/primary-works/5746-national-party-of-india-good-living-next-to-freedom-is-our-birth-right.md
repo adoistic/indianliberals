@@ -62,6 +62,12 @@ summary: |-
   The manifesto calls for compulsory sterilisation of married men after three children, abolition of existing state boundaries and division of India into five zones, replacement of regional languages by Hindi and English, and a uniform code of morals and ethics. It proposes confiscating unaccounted property, limiting personal gold holdings to 100 grams, resolving civil disputes through an accelerated written procedure without oral evidence or appeal, banning strikes and other labour agitation, requiring adults to plant and maintain fruit trees, and providing every schoolchild with a free meal and a quarter litre of milk. The final page is a membership declaration, including a Rs. 24 annual subscription for the year ending 31 December 1979.
 ---
 
+## Summary
+
+This four-page manifesto presents the National Party of India’s programme under the slogan “Good living, next to freedom, is our birthright”. It argues that India’s abundant natural resources and human capacity have not translated into adequate living standards, and proposes two-room housing for every family and a minimum monthly income of Rs. 500 for each earning member. The programme combines population control, national integration, administrative centralisation, a common moral code, and aggressive anti-corruption measures.
+
+The manifesto calls for compulsory sterilisation of married men after three children, abolition of existing state boundaries and division of India into five zones, replacement of regional languages by Hindi and English, and a uniform code of morals and ethics. It proposes confiscating unaccounted property, limiting personal gold holdings to 100 grams, resolving civil disputes through an accelerated written procedure without oral evidence or appeal, banning strikes and other labour agitation, requiring adults to plant and maintain fruit trees, and providing every schoolchild with a free meal and a quarter litre of milk. The final page is a membership declaration, including a Rs. 24 annual subscription for the year ending 31 December 1979.
+
 ## Key points
 
 - The manifesto links political freedom to material security, especially housing and minimum income.

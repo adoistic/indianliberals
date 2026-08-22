@@ -59,6 +59,12 @@ summary: |-
   Masani’s economic case rests on the importance of private profit and capital formation. He cites figures on declining industrial profitability and stagnant savings, contrasts India’s progressive taxation with Britain’s relief for earners, and argues that fiscal policy should leave resources with citizens rather than divert them into inefficient public projects. In the second speech, he extends this critique to inflation, rising civil expenditure, state-sector projects, nuclear power, and defence priorities, while proposing reduced civil expenditure, labour-intensive development, lower taxation, more efficient tax collection, less state capital outlay, and greater reliance on foreign equity rather than foreign loans. He closes by arguing that the Budget lacks a current democratic mandate and that voters may reject its underlying planning policies at the next election.
 ---
 
+## Summary
+
+This compilation contains two Lok Sabha speeches by Minoo Masani on the Finance Bill, 1961: one delivered on 20 April and a separately headed speech delivered on 15 March. Across both speeches, Masani argues that India’s tax burden is already excessive and that the Budget’s direct and indirect taxation will discourage saving, investment, industrial growth, and individual initiative. He challenges the Finance Minister’s presentation of the Swatantra Party’s commitment to freedom, insisting that party members are free to dissent outside its fundamental principles and Statement of Policy.
+
+Masani’s economic case rests on the importance of private profit and capital formation. He cites figures on declining industrial profitability and stagnant savings, contrasts India’s progressive taxation with Britain’s relief for earners, and argues that fiscal policy should leave resources with citizens rather than divert them into inefficient public projects. In the second speech, he extends this critique to inflation, rising civil expenditure, state-sector projects, nuclear power, and defence priorities, while proposing reduced civil expenditure, labour-intensive development, lower taxation, more efficient tax collection, less state capital outlay, and greater reliance on foreign equity rather than foreign loans. He closes by arguing that the Budget lacks a current democratic mandate and that voters may reject its underlying planning policies at the next election.
+
 ## Key points
 
 - Masani criticises the Finance Bill’s higher surcharge and indirect taxes as burdens on earners, consumers, small producers, and the poor.

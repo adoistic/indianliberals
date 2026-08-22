@@ -62,6 +62,10 @@ summary: |-
   In the rendered pages, M. R. Masani presents the March 1977 election as India’s “second revolution”: a peaceful, ballot-box overthrow of Indira Gandhi’s Emergency regime and a restoration of democratic government under Jayaprakash Narayan’s moral leadership. He recounts the Allahabad High Court judgment against Gandhi’s 1971 election, her refusal to resign, the arrests of opposition leaders on the night of June 25–26, 1975, censorship of the press, and the suppression of dissent. Masani characterizes the Emergency as authoritarian rather than fully totalitarian, and argues that its reversibility depended on citizens, courts, journalists, and political activists who continued to assert legality and freedom.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani presents the March 1977 election as India’s “second revolution”: a peaceful, ballot-box overthrow of Indira Gandhi’s Emergency regime and a restoration of democratic government under Jayaprakash Narayan’s moral leadership. He recounts the Allahabad High Court judgment against Gandhi’s 1971 election, her refusal to resign, the arrests of opposition leaders on the night of June 25–26, 1975, censorship of the press, and the suppression of dissent. Masani characterizes the Emergency as authoritarian rather than fully totalitarian, and argues that its reversibility depended on citizens, courts, journalists, and political activists who continued to assert legality and freedom.
+
 ## Key points
 
 - The March 1977 election is described as a peaceful democratic revolution that ended the Emergency government.

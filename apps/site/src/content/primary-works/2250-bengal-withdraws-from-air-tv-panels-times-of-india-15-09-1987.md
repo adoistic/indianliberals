@@ -48,6 +48,10 @@ summary: |-
   This Times of India News Service report describes the West Bengal government's decision to withdraw its nominees from advisory committees associated with All India Radio and Doordarshan. State Information Minister Mr. Buddhadeb Bhattacharya said the decision reflected the government's objection to the way local news was being presented and to what it regarded as distortion and selective blackout of important events by the broadcasting agencies.
 ---
 
+## Summary
+
+This Times of India News Service report describes the West Bengal government's decision to withdraw its nominees from advisory committees associated with All India Radio and Doordarshan. State Information Minister Mr. Buddhadeb Bhattacharya said the decision reflected the government's objection to the way local news was being presented and to what it regarded as distortion and selective blackout of important events by the broadcasting agencies.
+
 ## Key points
 
 - The West Bengal government withdrew its nominees from advisory committees connected with All India Radio and Doordarshan.

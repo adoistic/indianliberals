@@ -46,6 +46,10 @@ summary: |-
   Dated 13 November 1963, this confidential office letter from M. R. Masani thanks Messrs. M.L. Dahanukar & Co. (Private) Ltd. for a contribution of Rs. 5,000. The funds were earmarked for activities connected with the Constitution Amendment, and Masani acknowledges receipt of the contribution.
 ---
 
+## Summary
+
+Dated 13 November 1963, this confidential office letter from M. R. Masani thanks Messrs. M.L. Dahanukar & Co. (Private) Ltd. for a contribution of Rs. 5,000. The funds were earmarked for activities connected with the Constitution Amendment, and Masani acknowledges receipt of the contribution.
+
 ## Key points
 
 - The letter is dated 13th November, 1963.

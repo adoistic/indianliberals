@@ -52,6 +52,12 @@ summary: |-
   The letter maintains that office-bearers holding party properties and assets are bound by the direction of the State Council of the Maharashtra Swatantra Party. Because the recipients remain dissatisfied, Munshi proposes referring the dispute to an eminent third person acceptable to both sides for arbitration. He identifies four issues for determination: whether the properties are held subject to an obligation annexed to ownership, whether office-bearers can apply them to purposes other than the party’s governing principles, what rectification may be needed, and any incidental issues. A postscript notes that he is attending to a separate matter involving Sassoon J. David & Co.
 ---
 
+## Summary
+
+This two-page letter, dated March 8, 1977, is Girish K. Munshi’s reply to K. H. Subramanian, L. H. Sampat, and S. V. Raju concerning a dispute over the Swatantra Party’s principles, properties, and assets. Munshi, writing after consultation with “Parmanandji,” acknowledges that the party was founded on principles associated with Rajaji, Masani, and others, but argues that political parties may revise their principles as circumstances change and that party principles are therefore not immutable.
+
+The letter maintains that office-bearers holding party properties and assets are bound by the direction of the State Council of the Maharashtra Swatantra Party. Because the recipients remain dissatisfied, Munshi proposes referring the dispute to an eminent third person acceptable to both sides for arbitration. He identifies four issues for determination: whether the properties are held subject to an obligation annexed to ownership, whether office-bearers can apply them to purposes other than the party’s governing principles, what rectification may be needed, and any incidental issues. A postscript notes that he is attending to a separate matter involving Sassoon J. David & Co.
+
 ## Key points
 
 - The letter responds to a recorded dispute involving the Swatantra Party’s principles and assets.

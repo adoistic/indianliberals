@@ -51,6 +51,12 @@ summary: |-
   The document is an internal party communication focused on organisational unity and decision-making during a leadership crisis. It is signed by a person whose handwritten name appears to read “Rajanathan,” although the signature is not sufficiently clear for definitive identification.
 ---
 
+## Summary
+
+This single-page English letter, dated 4 April 1968 and addressed to N. Dandekar, M.P., the Swatantra Party's General Secretary, requests an emergency meeting of the party's General Council. The stated purpose is to discuss Mr. Masani's resignation from the National Executive and Central Parliamentary Board and to decide how the party might close ranks and work together again under the leadership of its senior figures.
+
+The document is an internal party communication focused on organisational unity and decision-making during a leadership crisis. It is signed by a person whose handwritten name appears to read “Rajanathan,” although the signature is not sufficiently clear for definitive identification.
+
 ## Key points
 
 - The letter requests an emergency meeting of the Swatantra Party's General Council.

@@ -60,6 +60,12 @@ summary: |-
   The enclosed article, “India’s Swatantra Party,” examines the party’s origins, leadership, doctrine, social composition, electoral performance, and political dilemmas after the 1962 general election. It presents Swatantra as a secular, constitutionalist, anti-statist, economically liberal alternative to Congress socialism, while stressing the tensions created by its dependence on princes, landlords, regional notables, and conservative alliances. The article’s central concern is whether a party committed to individual initiative, property rights, limited government, and judicial review can also become a genuinely progressive liberal movement. Its conclusion is qualified: Swatantra is neither simply communal nor fascist, but its organizational weakness, elite social base, accommodation with illiberal forces, and silence on traditionalism threaten its liberal potential.
 ---
 
+## Summary
+
+The document opens with C. Rajagopalachari’s letter of 28 July 1964 to M. R. Masani, enclosing Howard L. Erdman’s article on the Swatantra Party. Rajagopalachari says that Erdman has recorded some of the party’s alleged falsehoods but has, on balance, given it faint praise. He objects particularly to the criticism that statism must be opposed only moderately, arguing that the party cannot attack Hitler “in a moderate way” while confronting an uneducated electorate and an unscrupulous political machine.
+
+The enclosed article, “India’s Swatantra Party,” examines the party’s origins, leadership, doctrine, social composition, electoral performance, and political dilemmas after the 1962 general election. It presents Swatantra as a secular, constitutionalist, anti-statist, economically liberal alternative to Congress socialism, while stressing the tensions created by its dependence on princes, landlords, regional notables, and conservative alliances. The article’s central concern is whether a party committed to individual initiative, property rights, limited government, and judicial review can also become a genuinely progressive liberal movement. Its conclusion is qualified: Swatantra is neither simply communal nor fascist, but its organizational weakness, elite social base, accommodation with illiberal forces, and silence on traditionalism threaten its liberal potential.
+
 ## Key points
 
 - Rajagopalachari’s covering letter forwards Erdman’s assessment of the Swatantra Party to M. R. Masani and asks whether the article should be left unanswered.

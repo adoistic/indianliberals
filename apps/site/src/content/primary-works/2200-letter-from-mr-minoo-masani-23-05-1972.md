@@ -49,6 +49,12 @@ summary: |-
   Masani also encloses the text of his remarks at the party's recent General Council meeting, though the enclosed speech itself is not visible on this page. The document therefore records a brief exchange about political rumours, personal conviction, and fidelity to party principles rather than presenting the substance of Masani's speech.
 ---
 
+## Summary
+
+In this letter dated 23 May 1972, M. R. Masani replies to Mr. M. C. Zainidar about rumours concerning Masani's position. He denies having followed a dubious example attributed to “Prof. Ranga” and asks why Zainidar would have allowed such a report to affect his own adherence to what Masani calls “very sound principles.”
+
+Masani also encloses the text of his remarks at the party's recent General Council meeting, though the enclosed speech itself is not visible on this page. The document therefore records a brief exchange about political rumours, personal conviction, and fidelity to party principles rather than presenting the substance of Masani's speech.
+
 ## Key points
 
 - The letter is dated 23 May 1972 and is addressed to Mr. M. C. Zainidar.

@@ -50,6 +50,10 @@ summary: |-
   This Statesman report from Madras describes the Swatantra Party’s preparations to join the Congress (O)-led Front and to contest the coming Lok Sabha election. M. R. Masani says the Front’s co-ordinating committee will begin work in Delhi on January 15 to settle seat adjustments among its four constituents; N. Dandekar and Dr R. C. Cooper are identified as the Swatantra Party’s representatives.
 ---
 
+## Summary
+
+This Statesman report from Madras describes the Swatantra Party’s preparations to join the Congress (O)-led Front and to contest the coming Lok Sabha election. M. R. Masani says the Front’s co-ordinating committee will begin work in Delhi on January 15 to settle seat adjustments among its four constituents; N. Dandekar and Dr R. C. Cooper are identified as the Swatantra Party’s representatives.
+
 ## Key points
 
 - The Congress (O)-led Front’s co-ordinating committee was scheduled to begin functioning in Delhi on January 15.

@@ -60,6 +60,12 @@ summary: |-
   Masani defends the possibility of a temporary, patriotic military government with a pragmatic economic programme if the alternative is a Communist takeover, though he says democracy should be restored within a defined period. He attacks Communist infiltration, Congress’s alleged abandonment of Gandhian principles, inflationary planning, and the failures of the Soviet model. The interview also turns autobiographical: Masani recounts his movement from aggressive socialism to anti-Marxism, his association with Jayaprakash Narayan, his refusal to become a political “stooge” under Nehru, his modest lifestyle, and his continuing commitment to free speech, states’ rights, and political alternatives. The final rendered page is an unrelated advertisement, not part of the interview.
 ---
 
+## Summary
+
+This March 1974 interview presents Minoo Masani as a liberal critic of Indira Gandhi, Congress, Marxism, collectivism, and state capitalism. Masani argues that India is undergoing a historical crisis caused by centralized economic management and authoritarian political methods, but remains optimistic that the country will eventually reject the “Sukarno-Nkrumah-Allende complex” and survive as a free society. He describes himself as a radical rather than a conservative, while insisting that liberal capitalism and Marxism are the only coherent alternatives and that there is no viable middle path.
+
+Masani defends the possibility of a temporary, patriotic military government with a pragmatic economic programme if the alternative is a Communist takeover, though he says democracy should be restored within a defined period. He attacks Communist infiltration, Congress’s alleged abandonment of Gandhian principles, inflationary planning, and the failures of the Soviet model. The interview also turns autobiographical: Masani recounts his movement from aggressive socialism to anti-Marxism, his association with Jayaprakash Narayan, his refusal to become a political “stooge” under Nehru, his modest lifestyle, and his continuing commitment to free speech, states’ rights, and political alternatives. The final rendered page is an unrelated advertisement, not part of the interview.
+
 ## Key points
 
 - Masani presents liberalism as an alternative to Marxism, collectivism, and state capitalism.

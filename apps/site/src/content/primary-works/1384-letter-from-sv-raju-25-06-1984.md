@@ -50,6 +50,12 @@ summary: |-
   The correspondence also discusses the Naxalite movement, the circulation of Minoo Masani’s articles in Hindi, and books by Prof. Brij Narayan. Zamindar’s handwritten letter describes political anarchy, the absence of alternative leadership, the continuing bitterness caused by the Punjab crisis, and fears of retaliatory violence. He reports that his articles on the Punjab crisis and an “invitation to disaster” have been syndicated by the Sarvodaya Press Service but have attracted little reaction. The pages document a liberal political network concerned with party decline, economic policy, public disorder, political violence, and the dissemination of liberal writing.
 ---
 
+## Summary
+
+This three-page letter, dated June 25, 1984, is S. V. Raju’s reply to N. C. Zamindar after returning from a four-year stay in Saudi Arabia. Raju agrees that India lacks a credible political alternative and reflects on the decline of the Swatantra Party, noting that some former supporters now regard it as a mistake. He argues that although the government has adopted some economic policies closer to those advocated by the party, the change is insufficient, and he invites Zamindar to write occasionally for Freedom First.
+
+The correspondence also discusses the Naxalite movement, the circulation of Minoo Masani’s articles in Hindi, and books by Prof. Brij Narayan. Zamindar’s handwritten letter describes political anarchy, the absence of alternative leadership, the continuing bitterness caused by the Punjab crisis, and fears of retaliatory violence. He reports that his articles on the Punjab crisis and an “invitation to disaster” have been syndicated by the Sarvodaya Press Service but have attracted little reaction. The pages document a liberal political network concerned with party decline, economic policy, public disorder, political violence, and the dissemination of liberal writing.
+
 ## Key points
 
 - S. V. Raju had recently returned from a four-year stay in Saudi Arabia.

@@ -49,6 +49,12 @@ summary: |-
   The letter is brief and offers no detailed account of the election, its causes, or the political circumstances surrounding the defeat. Its significance lies in the emotional and political alarm expressed by a senior Supreme Court advocate, who fears that the country may be led into an unforeseeable crisis.
 ---
 
+## Summary
+
+This two-page English letter from U. M. Trivedi to Minoo Masani is dated 11 March 1970. Trivedi responds to Masani's defeat with intense personal distress, describing it as a calamity whose consequences for the country are impossible to predict.
+
+The letter is brief and offers no detailed account of the election, its causes, or the political circumstances surrounding the defeat. Its significance lies in the emotional and political alarm expressed by a senior Supreme Court advocate, who fears that the country may be led into an unforeseeable crisis.
+
 ## Key points
 
 - The letter is dated 11 March 1970 and is addressed to Minoo Masani.

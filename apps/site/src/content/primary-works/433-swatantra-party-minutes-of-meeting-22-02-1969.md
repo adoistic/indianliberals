@@ -53,6 +53,12 @@ summary: |-
   The members resolved to oppose M. R. Pai’s bill and government amendments that would remove a constitutional provision requiring ratification of amendments concerning Fundamental Rights by 50 per cent of State Assemblies. They also discussed the Members Salaries and Allowances Report, supporting referral of the bill to a person with judicial background while leaving MPs freedom of action if the party’s preferred proposal was not accepted. Finally, the meeting considered C. C. Desai’s bill on reservation of seats for Scheduled Castes and Scheduled Tribes in the Lok Sabha and State Assemblies, deciding to seek Rajaji’s advice before taking a final position.
 ---
 
+## Summary
+
+These minutes record a General Body meeting of the Swatantra Party held on 21 February 1969 at Parliament House, New Delhi, and issued by the party’s Parliamentary Office on 22 February. The attendance list includes senior party figures, including Minoo Masani, Piloo Mody, R. K. Amin, C. C. Desai, and D. N. Patodia, who signed as Secretary. The meeting focused on the party’s parliamentary position and immediate legislative strategy.
+
+The members resolved to oppose M. R. Pai’s bill and government amendments that would remove a constitutional provision requiring ratification of amendments concerning Fundamental Rights by 50 per cent of State Assemblies. They also discussed the Members Salaries and Allowances Report, supporting referral of the bill to a person with judicial background while leaving MPs freedom of action if the party’s preferred proposal was not accepted. Finally, the meeting considered C. C. Desai’s bill on reservation of seats for Scheduled Castes and Scheduled Tribes in the Lok Sabha and State Assemblies, deciding to seek Rajaji’s advice before taking a final position.
+
 ## Key points
 
 - The General Body meeting took place on 21 February 1969 at Parliament House, with the minutes issued the following day.

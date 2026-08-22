@@ -53,6 +53,12 @@ summary: |-
   The report also records Gayatri Devi's claims that the election had been fought on communal, caste, and religious lines. She rejected the idea that the influence of Jaipur's ruling house had declined, arguing instead that Swatantra voters had failed to turn out. The clipping does not identify the newspaper title, date, or a human byline.
 ---
 
+## Summary
+
+This one-page Express News Service report from Jaipur covers allegations by Gayatri Devi, identified in the clipping as the Maharani, concerning the conduct of the Dausa election. Speaking at a conference convened to examine the Swatantra Party's defeat, she alleged that Congress had used government officials and vehicles, as well as other transport, to bring voters to polling booths, while her party had refrained from doing so because it regarded such practices as contrary to the rules.
+
+The report also records Gayatri Devi's claims that the election had been fought on communal, caste, and religious lines. She rejected the idea that the influence of Jaipur's ruling house had declined, arguing instead that Swatantra voters had failed to turn out. The clipping does not identify the newspaper title, date, or a human byline.
+
 ## Key points
 
 - Gayatri Devi addressed a conference examining the Swatantra Party's defeat in the Dausa poll.

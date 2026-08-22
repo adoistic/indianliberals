@@ -50,6 +50,12 @@ summary: |-
   Raju recommends John F. Kennedy’s Profiles in Courage and suggests that the party consider concrete proposals for training young people in liberal principles. He proposes taking the matter up through the Leslie Sawhny Programme of Training for Democracy. The rendered page contains the complete one-page letter; no printed title is supplied.
 ---
 
+## Summary
+
+In this letter dated September 11, 1974, S. V. Raju responds to B. D. Pandey’s claim that his vote was immaterial. Raju rejects that view, noting that fifty-three ideologically committed party members opposed a decision they regarded as unworthy of the trust placed in the party’s authorities. The letter therefore presents dissent and voting as meaningful elements of party politics and liberal political responsibility.
+
+Raju recommends John F. Kennedy’s Profiles in Courage and suggests that the party consider concrete proposals for training young people in liberal principles. He proposes taking the matter up through the Leslie Sawhny Programme of Training for Democracy. The rendered page contains the complete one-page letter; no printed title is supplied.
+
 ## Key points
 
 - S. V. Raju writes to B. D. Pandey from Bombay on September 11, 1974.

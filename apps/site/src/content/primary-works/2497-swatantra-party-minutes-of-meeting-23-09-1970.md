@@ -52,6 +52,10 @@ summary: |-
   These draft minutes record the meeting of the Executive Committee of the Swatantra Party's Bombay Region held on 23 September 1970. The record lists those present and absent, confirms the minutes of the previous meeting, and assigns follow-up work to the office and general secretaries. The committee discusses collecting funds and enrolling members for a forthcoming National Convention, finalising the Bombay Regional Parliamentary Board, and organising a workers' shibir in Mahim.
 ---
 
+## Summary
+
+These draft minutes record the meeting of the Executive Committee of the Swatantra Party's Bombay Region held on 23 September 1970. The record lists those present and absent, confirms the minutes of the previous meeting, and assigns follow-up work to the office and general secretaries. The committee discusses collecting funds and enrolling members for a forthcoming National Convention, finalising the Bombay Regional Parliamentary Board, and organising a workers' shibir in Mahim.
+
 ## Key points
 
 - The meeting was chaired by Lalchand Hirachand, with party office-bearers and regional members present.

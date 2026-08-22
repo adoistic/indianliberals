@@ -51,6 +51,12 @@ summary: |-
   Masani proposes giving the Prime Minister a concise note outlining constructive measures to follow devaluation. He says the note would create a useful record, strengthen their position in later parliamentary debates, and help them educate the public. He encloses a draft in duplicate, seeks Ranga’s approval and comments by 21 June, and notes that he will travel to Delhi on the morning of 22 June. The letter closes with plans to meet Rajagopalachari in Madras on 2 July.
 ---
 
+## Summary
+
+In this one-page express-delivery letter dated 16 June 1965, M. R. Masani informs C. Rajagopalachari that the Prime Minister has agreed to meet Masani and Prof. Ranga on 22 June at 5:00 p.m. Masani asks Rajagopalachari to pass the appointment information to Ranga, who is expected to see Rajagopalachari in Madras en route to Delhi.
+
+Masani proposes giving the Prime Minister a concise note outlining constructive measures to follow devaluation. He says the note would create a useful record, strengthen their position in later parliamentary debates, and help them educate the public. He encloses a draft in duplicate, seeks Ranga’s approval and comments by 21 June, and notes that he will travel to Delhi on the morning of 22 June. The letter closes with plans to meet Rajagopalachari in Madras on 2 July.
+
 ## Key points
 
 - The letter is dated 16 June 1965 and marked “EXPRESS DELIVERY.”

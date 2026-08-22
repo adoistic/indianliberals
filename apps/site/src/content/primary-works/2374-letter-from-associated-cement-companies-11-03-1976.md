@@ -47,6 +47,12 @@ summary: |-
   The company confirms that, because it purchased the vehicle in May 1967, neither the Swatantra Party nor M. R. Masani is liable for those taxes. It further states that the vehicle has since been transferred to Mangalam ACC Ltd., Lakheri Cement Works, and now bears Rajasthan registration number RJG 1543. The letter has no named individual signatory; it closes on behalf of the company’s Operations & Rehabilitation Division and includes a handwritten archival annotation.
 ---
 
+## Summary
+
+This one-page English letter, dated 11 March 1976, was issued by the Operations & Rehabilitation Division of The Associated Cement Companies, Limited, from Bombay, to the Swatantra Party. It concerns Jeep No. MRA-4095, which had been registered in the name of M. R. Masani and was subject to demands for vehicle taxes covering July 1967 to 1970 from the Collector and Regional Transport Office, Bombay.
+
+The company confirms that, because it purchased the vehicle in May 1967, neither the Swatantra Party nor M. R. Masani is liable for those taxes. It further states that the vehicle has since been transferred to Mangalam ACC Ltd., Lakheri Cement Works, and now bears Rajasthan registration number RJG 1543. The letter has no named individual signatory; it closes on behalf of the company’s Operations & Rehabilitation Division and includes a handwritten archival annotation.
+
 ## Key points
 
 - The letter is dated 11 March 1976 and was sent from The Associated Cement Companies, Limited, in Bombay.

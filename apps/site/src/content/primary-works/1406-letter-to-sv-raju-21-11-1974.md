@@ -48,6 +48,10 @@ summary: |-
   This two-page letter, dated 21 November 1974 and signed by V. S. Srikumar, is addressed to S. V. Raju. Srikumar thanks Raju for arranging with M. R. Masani a public meeting in Madras on 12 December 1974, noting that both men had independently been considering the same initiative. He encloses an invitation to a representatives' meeting intended to create a committee to publicise the ideals of the Bihar movement and, if necessary, prepare for a similar movement in Tamil Nadu.
 ---
 
+## Summary
+
+This two-page letter, dated 21 November 1974 and signed by V. S. Srikumar, is addressed to S. V. Raju. Srikumar thanks Raju for arranging with M. R. Masani a public meeting in Madras on 12 December 1974, noting that both men had independently been considering the same initiative. He encloses an invitation to a representatives' meeting intended to create a committee to publicise the ideals of the Bihar movement and, if necessary, prepare for a similar movement in Tamil Nadu.
+
 ## Key points
 
 - Srikumar acknowledges Raju's letter and the planned Madras meeting of 12 December 1974.

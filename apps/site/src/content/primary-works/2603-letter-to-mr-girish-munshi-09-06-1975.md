@@ -50,6 +50,12 @@ summary: |-
   Srikumar discusses the political calculations surrounding Kamaraj Nadar and possible cooperation between Congress(R) and Congress(O) to oppose the DMK and AIADMK in Tamil Nadu. He suggests that money and power would be available to Kamaraj through an arrangement with Congress(R), but says the unnamed woman involved is hesitant because she is unsure whether Congress(R) and Congress(O), acting together, could defeat the AIADMK. The writer characterizes this as a strategy of “Wait and See,” while noting that Kamaraj's stance is creating confusion and criticism among those seeking a Congress(R)-led alliance. The letter closes without resolving the issue and promises further detail.
 ---
 
+## Summary
+
+This letter, dated 9 June 1975 and written on All India Swatantra Party letterhead from Madras, is addressed to Girish Munshi, the party's general secretary. V. S. Srikumar acknowledges Munshi's letter of 7 June and promises a detailed response within a day or two.
+
+Srikumar discusses the political calculations surrounding Kamaraj Nadar and possible cooperation between Congress(R) and Congress(O) to oppose the DMK and AIADMK in Tamil Nadu. He suggests that money and power would be available to Kamaraj through an arrangement with Congress(R), but says the unnamed woman involved is hesitant because she is unsure whether Congress(R) and Congress(O), acting together, could defeat the AIADMK. The writer characterizes this as a strategy of “Wait and See,” while noting that Kamaraj's stance is creating confusion and criticism among those seeking a Congress(R)-led alliance. The letter closes without resolving the issue and promises further detail.
+
 ## Key points
 
 - The letter is dated 9 June 1975 and was sent from the Swatantra Party office in Madras.

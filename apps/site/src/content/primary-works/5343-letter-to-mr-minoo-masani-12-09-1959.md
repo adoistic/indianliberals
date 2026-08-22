@@ -47,6 +47,12 @@ summary: |-
   Trikha invites Masani to visit Meerut and explains that he is trying to form an All India Youth Swatantra Party to advance the work and cause of the Swatantra Party. He proposes discussing detailed plans in future correspondence. The letter is signed by B. R. Trikha and bears no printed title.
 ---
 
+## Summary
+
+This single-page letter, written from the District Courts in Meerut and dated 12 September 1959, is addressed to Minoo Masani. B. R. Trikha thanks Masani for replying to an earlier letter and reports that party membership in Meerut is increasing day by day, alongside growing sympathy from the wider public.
+
+Trikha invites Masani to visit Meerut and explains that he is trying to form an All India Youth Swatantra Party to advance the work and cause of the Swatantra Party. He proposes discussing detailed plans in future correspondence. The letter is signed by B. R. Trikha and bears no printed title.
+
 ## Key points
 
 - The letter is dated 12 September 1959 and originates from the District Courts, Meerut.

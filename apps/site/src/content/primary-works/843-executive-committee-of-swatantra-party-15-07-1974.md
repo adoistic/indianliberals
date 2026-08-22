@@ -51,6 +51,12 @@ summary: |-
   The agenda covers confirmation of the minutes of the previous meeting, a report on the Swatantra Party's National Convention held in Delhi on 4–5 August 1974, and any other matters permitted by the Chairman. A postscript specifically invites Maharashtra delegates who attended the Delhi convention to attend and share their impressions.
 ---
 
+## Summary
+
+This one-page circular, dated 7 August 1974, announces a meeting of the Executive Committee of the Swatantra Party, Maharashtra, to be held at the party office in Sassoon Building, Bombay, on Saturday, 17 August 1974, at 2:00 p.m. The notice is issued by P. Narayan, Office Secretary, and requests members to attend.
+
+The agenda covers confirmation of the minutes of the previous meeting, a report on the Swatantra Party's National Convention held in Delhi on 4–5 August 1974, and any other matters permitted by the Chairman. A postscript specifically invites Maharashtra delegates who attended the Delhi convention to attend and share their impressions.
+
 ## Key points
 
 - The circular is dated 7 August 1974.

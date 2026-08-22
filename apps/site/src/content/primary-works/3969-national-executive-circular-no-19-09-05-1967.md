@@ -51,6 +51,12 @@ summary: |-
   The circular sets out five agenda items: confirmation of the previous minutes; creation of a sub-committee to consider modifications to the Party's 1964 election procedure and issues arising during elections; review of the Party's functioning in Parliament and State Assemblies; review of the political situation and the Party's policy and strategy; and any other business permitted by the Chair. It is signed for N. Dandeker, Officiating General Secretary.
 ---
 
+## Summary
+
+This one-page English circular, issued by the Swatantra Party Central Office on 9 May 1967, announces the next meeting of the Party's National Executive in New Delhi on 20–21 May 1967. It specifies the venue, Vithalbhai Patel Bhavan, and the meeting times.
+
+The circular sets out five agenda items: confirmation of the previous minutes; creation of a sub-committee to consider modifications to the Party's 1964 election procedure and issues arising during elections; review of the Party's functioning in Parliament and State Assemblies; review of the political situation and the Party's policy and strategy; and any other business permitted by the Chair. It is signed for N. Dandeker, Officiating General Secretary.
+
 ## Key points
 
 - The National Executive meeting is scheduled for New Delhi on 20 May 1967, with a continuation on 21 May.

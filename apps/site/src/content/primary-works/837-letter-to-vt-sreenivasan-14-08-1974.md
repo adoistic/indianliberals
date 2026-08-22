@@ -49,6 +49,10 @@ summary: |-
   In this one-page letter dated August 14, 1974, M. R. Masani writes to V. T. Sreenivasan of the Indian Liberal Group in Bangalore. Masani acknowledges having received Sreenivasan’s letter to the press and states that he generally agrees with its emphasis, noting that the same emphasis was also Rajaji’s. The letter offers no further explanation of the issue under discussion.
 ---
 
+## Summary
+
+In this one-page letter dated August 14, 1974, M. R. Masani writes to V. T. Sreenivasan of the Indian Liberal Group in Bangalore. Masani acknowledges having received Sreenivasan’s letter to the press and states that he generally agrees with its emphasis, noting that the same emphasis was also Rajaji’s. The letter offers no further explanation of the issue under discussion.
+
 ## Key points
 
 - The letter is dated August 14, 1974.

@@ -49,6 +49,12 @@ summary: |-
   The letter also records negotiations over Singh's parliamentary seat and proposed organisational responsibilities in Uttar Pradesh. Singh would not insist on a second-bench seat if given a suitable position in the U.P. Party, identified as regional organiser for the Agra, Meerut, and Rohilkhand divisions. Gowd presents Singh as influential because of his father's background and his reputation as a strong public speaker, noting his successful 1967 election against Mahavir Tyagi. Singh reportedly hoped to secure at least 50 assembly seats for the Party in the coming mid-term poll and proposed enrolling a large number of workers.
 ---
 
+## Summary
+
+This letter, dated July 3, 1968, reports on a meeting with independent Lok Sabha member Yashpal Singh about joining the sender's parliamentary group. Gowd describes Singh as willing to follow the Party's discipline, align his speeches with its programme, and accept directions on important parliamentary questions. Singh had previously been an associate member and was now prepared to become a full-fledged “life worker” of the Party.
+
+The letter also records negotiations over Singh's parliamentary seat and proposed organisational responsibilities in Uttar Pradesh. Singh would not insist on a second-bench seat if given a suitable position in the U.P. Party, identified as regional organiser for the Agra, Meerut, and Rohilkhand divisions. Gowd presents Singh as influential because of his father's background and his reputation as a strong public speaker, noting his successful 1967 election against Mahavir Tyagi. Singh reportedly hoped to secure at least 50 assembly seats for the Party in the coming mid-term poll and proposed enrolling a large number of workers.
+
 ## Key points
 
 - The letter concerns recruiting independent Lok Sabha member Yashpal Singh into the sender's parliamentary group.

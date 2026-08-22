@@ -49,6 +49,10 @@ summary: |-
   This one-page English letter, dated 12 May 1975, was sent from the Swatantra Party National Headquarters in Madras by Joint Secretary V. S. Srikumar to S. V. Raju. Srikumar acknowledges receiving Raju’s letter to Sri Budh Prakash and expresses hope that Budh Prakash will provide a detailed response about reviving the party in Himachal Pradesh.
 ---
 
+## Summary
+
+This one-page English letter, dated 12 May 1975, was sent from the Swatantra Party National Headquarters in Madras by Joint Secretary V. S. Srikumar to S. V. Raju. Srikumar acknowledges receiving Raju’s letter to Sri Budh Prakash and expresses hope that Budh Prakash will provide a detailed response about reviving the party in Himachal Pradesh.
+
 ## Key points
 
 - The letter is dated 12 May 1975 and was issued from the Swatantra Party National Headquarters in Madras.

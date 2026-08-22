@@ -49,6 +49,12 @@ summary: |-
   The letter reports that fundraising is continuing and that major contributions require individual meetings, while describing the overall response as encouraging. It also instructs that requests for subventions from Regional Committees be routed through the sender via the Central office; the sender says the committees’ requirements are listed on an accompanying sheet. The page does not identify the sender, the Party, or the speech’s subject.
 ---
 
+## Summary
+
+This single-page letter, dated 19 October 1959, is addressed to Mr. S. Y. Krishnaswamy. The unidentified sender acknowledges Krishnaswamy’s letters and sends him a typed script of a speech delivered the previous week, together with a statement of funds disbursed on behalf of the Party’s Central Committee.
+
+The letter reports that fundraising is continuing and that major contributions require individual meetings, while describing the overall response as encouraging. It also instructs that requests for subventions from Regional Committees be routed through the sender via the Central office; the sender says the committees’ requirements are listed on an accompanying sheet. The page does not identify the sender, the Party, or the speech’s subject.
+
 ## Key points
 
 - The letter is dated 19 October 1959 and addressed to Mr. S. Y. Krishnaswamy.

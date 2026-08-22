@@ -54,6 +54,12 @@ summary: |-
   Masani separately sends Jain a booklet titled "THE JUDICIARY IN PERIL," concerning alleged injustice to Justice J. P. Mitter of the Calcutta High Court. He asks Jain to ensure that C. L. Narasimha Reddy and Lok Nath Mishra, members of a joint committee on the Constitution (15th Amendment) Bill, read the booklet and use its material to oppose what he calls improper constitutional amendments. The document records a practical programme of parliamentary intervention linking press freedom, protection from executive detention, judicial independence, and constitutionalism.
 ---
 
+## Summary
+
+Dated 18 January 1963, this one-page letter from M. R. Masani to A. P. Jain asks Jain to bring several civil-liberties and constitutional issues before Parliament. Masani forwards papers concerning warnings issued to the editors of Current and the Organiser under the Defence of India Act, and requests an adjournment motion concerning the arrest of Dharampal and two other young men in Delhi. He also proposes an amendment to the official motion on the Colombo proposals, asking Parliament to reject it and state its reasons.
+
+Masani separately sends Jain a booklet titled "THE JUDICIARY IN PERIL," concerning alleged injustice to Justice J. P. Mitter of the Calcutta High Court. He asks Jain to ensure that C. L. Narasimha Reddy and Lok Nath Mishra, members of a joint committee on the Constitution (15th Amendment) Bill, read the booklet and use its material to oppose what he calls improper constitutional amendments. The document records a practical programme of parliamentary intervention linking press freedom, protection from executive detention, judicial independence, and constitutionalism.
+
 ## Key points
 
 - Masani forwards papers about Defence of India Act warnings issued to the editors of Current and the Organiser.

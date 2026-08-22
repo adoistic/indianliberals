@@ -50,6 +50,12 @@ summary: |-
   The article criticises Doordarshan director-general Bhaskar Ghosh’s claim that the issue must be decided by higher authorities because Doordarshan is an attached government office. It contends that the organising committee’s letter, sent in July, gave Doordarshan sufficient time to formulate a policy, and concludes that the broadcaster’s failure to do so reflects poor foresight. The second rendered page contains only an unrelated advertisement fragment and no further article text.
 ---
 
+## Summary
+
+This Times of India editorial argues that an avoidable dispute has arisen over Doordarshan’s refusal to share advertising revenue from its live telecast of the Reliance World Cup of Cricket. The organising committee claims that Doordarshan should pay nine per cent of the Rs 40 crore it expects to earn from advertisements, while Doordarshan and the government maintain that its revenues are transferred to the Consolidated Fund of India rather than treated as commercial profits.
+
+The article criticises Doordarshan director-general Bhaskar Ghosh’s claim that the issue must be decided by higher authorities because Doordarshan is an attached government office. It contends that the organising committee’s letter, sent in July, gave Doordarshan sufficient time to formulate a policy, and concludes that the broadcaster’s failure to do so reflects poor foresight. The second rendered page contains only an unrelated advertisement fragment and no further article text.
+
 ## Key points
 
 - The article describes the revenue-sharing dispute surrounding Doordarshan’s telecast of the Reliance World Cup of Cricket.

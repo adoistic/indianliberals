@@ -48,6 +48,10 @@ summary: |-
   This Times of India report, dated 6 January 1971, describes efforts to bring the Swatantra Party into an electoral alliance with Congress (O) leaders. S. Nijalingappa says he is meeting Morarji Desai and Minoo Masani to discuss cooperation, while M. R. Pai expresses confidence that Swatantra will join. The proposed alliance is presented as a way to defeat the ruling Congress and prevent a division of opposition votes.
 ---
 
+## Summary
+
+This Times of India report, dated 6 January 1971, describes efforts to bring the Swatantra Party into an electoral alliance with Congress (O) leaders. S. Nijalingappa says he is meeting Morarji Desai and Minoo Masani to discuss cooperation, while M. R. Pai expresses confidence that Swatantra will join. The proposed alliance is presented as a way to defeat the ruling Congress and prevent a division of opposition votes.
+
 ## Key points
 
 - Congress (O) leaders S. Nijalingappa, Morarji Desai, and Minoo Masani are reported to be discussing an alliance with Swatantra.

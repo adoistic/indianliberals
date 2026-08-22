@@ -51,6 +51,12 @@ summary: |-
   The second page, continuing the discussion in the rendered pages, sets out criteria for selecting future candidates. Prabhu prioritises close contact with electorates, evidence of study and service, relevant professional and administrative experience, personal integrity, and caution about caste affiliation, political popularity, financial competence, and last-minute candidacies. In the rendered pages, the essay closes with an appeal for the Party to preserve its principles and allow power and public service to follow from democratic organisation rather than treating office as the primary objective.
 ---
 
+## Summary
+
+In the rendered pages, J. N. Lobo Prabhu presents the Swatantra Party as an emerging political force whose image rests on opposition to Congress, resistance to socialist policy, and defence of property rights, including tenancy rights. The essay argues that the Party's reputation is also shaped by the Orissa Government's administrative record and by the conduct of its parliamentary representatives, whom Prabhu describes as decorous, attentive to sectional interests, and capable of improving bureaucratic service. In the rendered pages, Swatantra is consequently framed as a coalition of constitutional, conservative, and economically liberal elements rather than simply as a party of property-holders.
+
+The second page, continuing the discussion in the rendered pages, sets out criteria for selecting future candidates. Prabhu prioritises close contact with electorates, evidence of study and service, relevant professional and administrative experience, personal integrity, and caution about caste affiliation, political popularity, financial competence, and last-minute candidacies. In the rendered pages, the essay closes with an appeal for the Party to preserve its principles and allow power and public service to follow from democratic organisation rather than treating office as the primary objective.
+
 ## Key points
 
 - The rendered pages attribute the Swatantra Party's political image to opposition to Congress and to the socialist turn of the Jan Sangh.

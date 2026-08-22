@@ -52,6 +52,12 @@ summary: |-
   The recorded decisions concern parliamentary procedure and party coordination. Members agreed that two bills should first be referred to a Select Committee for detailed scrutiny, and that Minoo Masani and other speakers should take up the Budget. The minutes also record approval of nominations to the Public Accounts and Estimates Committees, followed by a vote of thanks to the chair. Kapur Singh signs as secretary.
 ---
 
+## Summary
+
+This one-page office record documents a Swatantra Party meeting held in Parliament House on Tuesday, 3 March 1964. Chaired by Prof. N. G. Ranga, the meeting brought together party figures including Minoo Masani, Himmat Singhji, Kunwarani Vijayaraje, B. N. Singh, C. L. N. Reddy, P. K. Ghosh, Purushottam Bheel, Yashpal Singh, Krishnapal Singh, M. Ruthnaswamy, J. K. P. N. Singh, and P. K. Deo.
+
+The recorded decisions concern parliamentary procedure and party coordination. Members agreed that two bills should first be referred to a Select Committee for detailed scrutiny, and that Minoo Masani and other speakers should take up the Budget. The minutes also record approval of nominations to the Public Accounts and Estimates Committees, followed by a vote of thanks to the chair. Kapur Singh signs as secretary.
+
 ## Key points
 
 - A Swatantra Party meeting in Parliament was held on 3 March 1964.

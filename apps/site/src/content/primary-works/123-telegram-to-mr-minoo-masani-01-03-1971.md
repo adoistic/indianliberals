@@ -49,6 +49,12 @@ summary: |-
   The body of the wire consists of a four-word good-wishes message from a supporter who signs off as 'Rana Advocate'. As a document, it is a piece of ephemera rather than an argumentative text: it is preserved in the Masani papers as one of the campaign-season telegrams sent to the Swatantra leader by well-wishers in Saurashtra during the closing days of the poll.
 ---
 
+## Summary
+
+This single-page Indian Posts and Telegraphs Department message form (No. 00056) carries a one-line congratulatory telegram addressed to Minoo Masani at the Swatantra Party office in Rajkot. It was filed at Gondal (station code 'Gdl', office of origin numbered 24) on 1 March 1971 and received at 12:40, coinciding with the run-up to the March 1971 general election in which Masani stood on the Swatantra ticket from the Rajkot constituency.
+
+The body of the wire consists of a four-word good-wishes message from a supporter who signs off as 'Rana Advocate'. As a document, it is a piece of ephemera rather than an argumentative text: it is preserved in the Masani papers as one of the campaign-season telegrams sent to the Swatantra leader by well-wishers in Saurashtra during the closing days of the poll.
+
 ## Key points
 
 - A one-page Indian Posts and Telegraphs Department telegram form, serial number 00056, bearing a 'Buy National Savings Certificates — Invest Wisely' postal-service overprint.

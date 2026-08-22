@@ -49,6 +49,10 @@ summary: |-
   This one-page English office record, headed “RAJASTHAN” and numbered 1839, lists 16 contacts with their addresses and brief political remarks. The entries document efforts to build support for SP, apparently the Swatantra Party, including invitations to a forthcoming convention, requests for literature, and reports of local citizens wishing to join or assist the party.
 ---
 
+## Summary
+
+This one-page English office record, headed “RAJASTHAN” and numbered 1839, lists 16 contacts with their addresses and brief political remarks. The entries document efforts to build support for SP, apparently the Swatantra Party, including invitations to a forthcoming convention, requests for literature, and reports of local citizens wishing to join or assist the party.
+
 ## Key points
 
 - The document records contacts across Rajasthan, including Jaipur, Jodhpur, Ajmer, Kota, Bhilwara, Sri Ganganagar, and other locations.

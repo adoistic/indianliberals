@@ -49,6 +49,12 @@ summary: |-
   The telegram form identifies New Delhi as the origin and carries Indian Posts and Telegraphs Department markings. The visible date stamp is incomplete, and no unambiguous year is printed; the circled “1899” appears to be an archival mark rather than a date.
 ---
 
+## Summary
+
+This one-page English telegram from M. R. Masani concerns a no-confidence motion. Masani tells the recipient that details have been sent both to them and to Dandekar, and says he is writing again on the 26th. The document is a brief piece of parliamentary and party-political correspondence rather than a substantive policy argument.
+
+The telegram form identifies New Delhi as the origin and carries Indian Posts and Telegraphs Department markings. The visible date stamp is incomplete, and no unambiguous year is printed; the circled “1899” appears to be an archival mark rather than a date.
+
 ## Key points
 
 - M. R. Masani is identified as the sender.

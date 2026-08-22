@@ -50,6 +50,12 @@ summary: |-
   The committee further discussed the allocation of rent, telephone, and electricity expenses; staffing economies, including retaining one secretary rather than two; and the temporary employment of a clerk. It authorised arrangements for an “anti-inflation” day in Bombay on 18 September 1960, including city-wide small meetings and a large public meeting, with Sir Homi Mody, A. D. Shroff, M. R. Masani, K. M. Munshi, and M. J. Vaidya named in connection with the programme. The record ends after assigning responsibility for venues, handbills, posters, and printing.
 ---
 
+## Summary
+
+This two-page English office record documents a meeting of the Swatantra Party’s Organising Committee of Greater Bombay held on 18 August 1960. Chaired by M. J. Vaidya, the committee confirmed the previous minutes, approved accounts for a subscription dinner and the Sunderbai Hall public session, and addressed outstanding bills and deficits of Rs. 600 and Rs. 264. It also tightened administrative procedures by requiring future printing work to be referred to Sir Homi Mody and by reviewing expenditure connected with Rajaji’s Bombay visit.
+
+The committee further discussed the allocation of rent, telephone, and electricity expenses; staffing economies, including retaining one secretary rather than two; and the temporary employment of a clerk. It authorised arrangements for an “anti-inflation” day in Bombay on 18 September 1960, including city-wide small meetings and a large public meeting, with Sir Homi Mody, A. D. Shroff, M. R. Masani, K. M. Munshi, and M. J. Vaidya named in connection with the programme. The record ends after assigning responsibility for venues, handbills, posters, and printing.
+
 ## Key points
 
 - The Organising Committee of Greater Bombay met on 18 August 1960 in the Party office.

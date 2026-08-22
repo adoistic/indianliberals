@@ -54,6 +54,12 @@ summary: |-
   The minutes also address party administration and parliamentary coordination. They record objections to members’ absence from Executive meetings, dissatisfaction with seating arrangements, proposals for senior leaders to brief newer members, and the creation of a sub-committee comprising Mr. Mody, Mr. Patodia, and Prof. R. K. Amin to instruct the Executive Secretary on preparing daily briefs. The final discussion concerns whether to boycott a Select Committee examining the Nath Pai Bill on Fundamental Rights. Although some members argued that participation could influence other members and permit dissent to be recorded, the meeting reaffirmed the earlier decision to boycott the committee.
 ---
 
+## Summary
+
+This three-page memorandum records the Swatantra Party Parliamentary Office General Body meeting held in Parliament House on 30 June 1967, with Prof. N. G. Ranga in the chair. The minutes note the Leader’s regret that some members would be unable to speak during the session because parliamentary demands might be guillotined, and commend new members for their performance in the House. They then document the party’s position on parliamentary consultative committees, recommending statutory committees for major ministries and proportional representation for the remaining committees. Members were advised to boycott committees if the minimum demands were rejected by the Minister for Parliamentary Affairs, while railway zonal committees were explicitly excluded from this position.
+
+The minutes also address party administration and parliamentary coordination. They record objections to members’ absence from Executive meetings, dissatisfaction with seating arrangements, proposals for senior leaders to brief newer members, and the creation of a sub-committee comprising Mr. Mody, Mr. Patodia, and Prof. R. K. Amin to instruct the Executive Secretary on preparing daily briefs. The final discussion concerns whether to boycott a Select Committee examining the Nath Pai Bill on Fundamental Rights. Although some members argued that participation could influence other members and permit dissent to be recorded, the meeting reaffirmed the earlier decision to boycott the committee.
+
 ## Key points
 
 - The General Body meeting took place on 30 June 1967 at Parliament House and was chaired by Prof. N. G. Ranga.

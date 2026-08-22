@@ -51,6 +51,12 @@ summary: |-
   The report says Munshi made these remarks while speaking on “The Emergency and its Implications” at the weekly luncheon meeting of the Bombay Rotary Club at the Taj Mahal Hotel, Apollo Bunder. The clipping is headed “Indian Express” and bears a handwritten date reading “26/6/65”; no printed publication date is visible.
 ---
 
+## Summary
+
+This one-page English newspaper clipping reports K. M. Munshi's call for continuing the Emergency. Identified as a Swatantra Party leader, Munshi argues that the Emergency should be retained because China might otherwise launch another attack and the nation would need to remain militarily prepared.
+
+The report says Munshi made these remarks while speaking on “The Emergency and its Implications” at the weekly luncheon meeting of the Bombay Rotary Club at the Taj Mahal Hotel, Apollo Bunder. The clipping is headed “Indian Express” and bears a handwritten date reading “26/6/65”; no printed publication date is visible.
+
 ## Key points
 
 - K. M. Munshi is identified as a Swatantra Party leader.

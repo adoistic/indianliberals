@@ -49,6 +49,12 @@ summary: |-
   Jamindar considers an unnamed author's book inadequate for Indian readers, refers to files sent to the Bombay office for the University, and apologises for being unable to investigate the matter because his records are in disorder and he is confined to his home. A postscript reports the deaths or whereabouts of several other people and suggests that Shri Dwivedi may be able to help. The card is handwritten in English, with printed Hindi and English postal text.
 ---
 
+## Summary
+
+This two-page personal letter, dated 25 February 1985 and sent from Indore by N. C. Jamindar to S. V. Raju in Bombay, discusses Raju's thesis on the history of the Swatantra Party. Jamindar says he has not forgotten Raju, reports that he has made enquiries about him in Bombay, and encourages him to write a complete history of the party from its beginnings.
+
+Jamindar considers an unnamed author's book inadequate for Indian readers, refers to files sent to the Bombay office for the University, and apologises for being unable to investigate the matter because his records are in disorder and he is confined to his home. A postscript reports the deaths or whereabouts of several other people and suggests that Shri Dwivedi may be able to help. The card is handwritten in English, with printed Hindi and English postal text.
+
 ## Key points
 
 - The letter is dated 25 February 1985 and is addressed to S. V. Raju.

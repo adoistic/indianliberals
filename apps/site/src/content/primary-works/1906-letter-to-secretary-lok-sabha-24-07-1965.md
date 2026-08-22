@@ -52,6 +52,12 @@ summary: |-
   Signed by M. R. Masani and N. Dandekar, the letter requests that the motion be placed on the Lok Sabha’s agenda at its first sitting. It also authorises the Secretary to make any necessary modification to conform the resolution to the normal procedural form. The document records the signatories’ division numbers as 448 and 464.
 ---
 
+## Summary
+
+This one-page letter, dated 24 July 1965 and addressed to the Secretary of the Lok Sabha, gives formal notice of a no-confidence motion against the Council of Ministers. The proposed resolution is stated in the precise form: the House has no confidence in the Council of Ministers.
+
+Signed by M. R. Masani and N. Dandekar, the letter requests that the motion be placed on the Lok Sabha’s agenda at its first sitting. It also authorises the Secretary to make any necessary modification to conform the resolution to the normal procedural form. The document records the signatories’ division numbers as 448 and 464.
+
 ## Key points
 
 - The document is dated 24 July 1965 and addressed to the Secretary of the Lok Sabha.

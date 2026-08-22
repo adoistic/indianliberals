@@ -50,6 +50,10 @@ summary: |-
   This one-page English-language institutional list, dated 1966, identifies the honorary presidents of the Congress for Cultural Freedom. It names Benedetto Croce, John Dewey, Theodore Heuss, Jacques Maritain, Jayaprakash Narayan, Reinhold Niebuhr, and Leopold Senghor. The document contains no author byline, explanatory text, organisational details, or biographical information beyond the heading and names.
 ---
 
+## Summary
+
+This one-page English-language institutional list, dated 1966, identifies the honorary presidents of the Congress for Cultural Freedom. It names Benedetto Croce, John Dewey, Theodore Heuss, Jacques Maritain, Jayaprakash Narayan, Reinhold Niebuhr, and Leopold Senghor. The document contains no author byline, explanatory text, organisational details, or biographical information beyond the heading and names.
+
 ## Key points
 
 - The document is headed “HONORARY PRESIDENTS OF THE CONGRESS FOR CULTURAL FREEDOM - 1966.”

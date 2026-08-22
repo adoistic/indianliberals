@@ -47,6 +47,10 @@ summary: |-
   This single-page handwritten office letter, dated 18 September 1972, asks the recipient to adopt a regular practice concerning the dispatch of notices and related communications to members. The surviving text indicates that these should be sent under “certificate of posting.” The recipient’s name appears to begin “Mr. Kher…,” while the signatory’s name and full designation are not reliably legible.
 ---
 
+## Summary
+
+This single-page handwritten office letter, dated 18 September 1972, asks the recipient to adopt a regular practice concerning the dispatch of notices and related communications to members. The surviving text indicates that these should be sent under “certificate of posting.” The recipient’s name appears to begin “Mr. Kher…,” while the signatory’s name and full designation are not reliably legible.
+
 ## Key points
 
 - The document is a brief internal administrative letter dated 18 September 1972.

@@ -49,6 +49,12 @@ summary: |-
   The meetings are scheduled for July 29 and 30 on the fifth floor of Kasturi Building, Jamsetji Tata Road, with sessions in the morning and afternoon. Masani emphasizes that Mody’s attendance throughout would be important, but the letter does not specify the Convention’s agenda or the substance of the decisions and materials under discussion.
 ---
 
+## Summary
+
+This one-page English letter, dated July 28, 1959, is from M. R. Masani of the Swatantra Party’s Bombay office to Sir Homi Mody. Masani informs Mody that C. Rajagopalachari (“Rajaji”) and several others will hold informal discussions to make decisions and prepare material for an upcoming Convention.
+
+The meetings are scheduled for July 29 and 30 on the fifth floor of Kasturi Building, Jamsetji Tata Road, with sessions in the morning and afternoon. Masani emphasizes that Mody’s attendance throughout would be important, but the letter does not specify the Convention’s agenda or the substance of the decisions and materials under discussion.
+
 ## Key points
 
 - M. R. Masani wrote the letter from the Swatantra Party’s Bombay office on July 28, 1959.

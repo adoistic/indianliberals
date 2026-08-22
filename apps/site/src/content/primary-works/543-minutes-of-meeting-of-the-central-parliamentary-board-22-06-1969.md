@@ -51,6 +51,10 @@ summary: |-
   These three pages are the complete draft minutes of the Swatantra Party's Central Parliamentary Board meeting held at Kalki Buildings, Madras, on June 22, 1969. The record lists the attendees and confirms the minutes of the Board's previous meeting before reviewing the Party's losses in one Lok Sabha and two Gujarat Assembly by-elections. The Board criticized K. M. Munshi's intervention in the Banas-Kantha by-election and considered internal leadership developments in the Uttar Pradesh and Bihar legislative groups, including whether to support or join coalition governments involving the BKD.
 ---
 
+## Summary
+
+These three pages are the complete draft minutes of the Swatantra Party's Central Parliamentary Board meeting held at Kalki Buildings, Madras, on June 22, 1969. The record lists the attendees and confirms the minutes of the Board's previous meeting before reviewing the Party's losses in one Lok Sabha and two Gujarat Assembly by-elections. The Board criticized K. M. Munshi's intervention in the Banas-Kantha by-election and considered internal leadership developments in the Uttar Pradesh and Bihar legislative groups, including whether to support or join coalition governments involving the BKD.
+
 ## Key points
 
 - The Board recorded losses in all three by-elections that had previously been won by the Party in the 1967 general elections.

@@ -51,6 +51,12 @@ summary: |-
   Masani supports amendments Nos. 112 and 113. Amendment No. 112 would exempt from capital-gains tax increases realized when heirs are compelled to sell property to pay estate duty, and would permit payment in kind—through shares, factories, or immovable property—at a fair value where liquid cash is unavailable. Drawing on British practice, he presents these measures as protections against distress sales. Amendment No. 113 seeks to delete the enhanced estate-duty rates. The extract closes with a denunciation of the government's allegedly destructive and vindictive fiscal policy.
 ---
 
+## Summary
+
+In this two-page extract from his 18 April 1964 Lok Sabha speech, Minoo Masani argues that the Finance Bill's proposed estate-duty regime would make it increasingly difficult to own and transmit substantial property. He emphasizes the combined burden of estate duty and capital-gains tax, arguing that this could eliminate major estates, penalize middle-class homeowners whose property had appreciated, and leave heirs without sufficient cash to meet tax demands.
+
+Masani supports amendments Nos. 112 and 113. Amendment No. 112 would exempt from capital-gains tax increases realized when heirs are compelled to sell property to pay estate duty, and would permit payment in kind—through shares, factories, or immovable property—at a fair value where liquid cash is unavailable. Drawing on British practice, he presents these measures as protections against distress sales. Amendment No. 113 seeks to delete the enhanced estate-duty rates. The extract closes with a denunciation of the government's allegedly destructive and vindictive fiscal policy.
+
 ## Key points
 
 - Masani contends that estate duty and capital-gains tax together could make the inheritance of appreciated property financially impossible.

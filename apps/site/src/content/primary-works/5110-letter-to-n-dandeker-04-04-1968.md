@@ -51,6 +51,12 @@ summary: |-
   The letter urges the party to reach an appropriate decision, close ranks, and resume united work under the leadership of its senior figures. Ganapaiah suggests holding the discussion at Bhubaneswar, allowing two or three days for deliberation, while noting that party members will be occupied with the Bijapur by-election until April 21.
 ---
 
+## Summary
+
+This single-page letter, dated April 4, 1968, is from N. K. Ganapaiah to N. Dandekar, the General Secretary of the Swatantra Party. Ganapaiah requests an emergency meeting of the Party’s General Council to discuss the situation arising from Minoo Masani’s resignation from the National Executive and the Central Parliamentary Board.
+
+The letter urges the party to reach an appropriate decision, close ranks, and resume united work under the leadership of its senior figures. Ganapaiah suggests holding the discussion at Bhubaneswar, allowing two or three days for deliberation, while noting that party members will be occupied with the Bijapur by-election until April 21.
+
 ## Key points
 
 - The letter is dated April 4, 1968, and was sent from Sakleshpur Post, Hassan District.

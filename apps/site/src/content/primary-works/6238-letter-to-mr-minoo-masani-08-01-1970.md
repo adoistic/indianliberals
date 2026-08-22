@@ -44,6 +44,10 @@ summary: |-
   This one-page English letter, dated January 8, 1970, is addressed to Mr. M. R. Masani at the Swatantra Party national headquarters in Bombay. Bhalabhai V. Patel, writing as President of the Ahmedabad Junior Chamber, acknowledges Masani’s January 5 letter and expresses pleasure that he will accept the Chamber’s invitation to visit Ahmedabad and speak to its members.
 ---
 
+## Summary
+
+This one-page English letter, dated January 8, 1970, is addressed to Mr. M. R. Masani at the Swatantra Party national headquarters in Bombay. Bhalabhai V. Patel, writing as President of the Ahmedabad Junior Chamber, acknowledges Masani’s January 5 letter and expresses pleasure that he will accept the Chamber’s invitation to visit Ahmedabad and speak to its members.
+
 ## Key points
 
 - The letter is dated January 8, 1970.

@@ -48,6 +48,12 @@ summary: |-
   The page contains extensive handwritten annotations: additional names, corrections or substitutions, underlining, and other marginal notes. The printed document carries no visible date, issuer, publisher, or organisational heading beyond the reference to the General Council. The record therefore documents an effort to convene an emergency political meeting, but its institutional context and the purpose of the meeting cannot be established from this page alone.
 ---
 
+## Summary
+
+This untitled one-page English office record lists individuals who have called for an Emergency Meeting of the General Council. The typed list is organised by region or state, including Bombay, Gujarat, Himachal Pradesh, Madras, Maharashtra, Mysore, Orissa, Punjab, Rajasthan, Uttar Pradesh, and West Bengal. It names 39 numbered individuals, including legislators and other public figures, but does not identify the organisation whose General Council is involved.
+
+The page contains extensive handwritten annotations: additional names, corrections or substitutions, underlining, and other marginal notes. The printed document carries no visible date, issuer, publisher, or organisational heading beyond the reference to the General Council. The record therefore documents an effort to convene an emergency political meeting, but its institutional context and the purpose of the meeting cannot be established from this page alone.
+
 ## Key points
 
 - The document is a typed list of people who called for an Emergency Meeting of the General Council.

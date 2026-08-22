@@ -50,6 +50,12 @@ summary: |-
   The letter presents Swatantra less as an office-seeking electoral machine than as a movement committed to educating voters about freedom and liberal principles. Sreenivasan compares those principles with the policies of West Germany's Social Democratic Party, credits Rajaji's emphasis on voter education, and argues that state-level liberal parties should continue their educational work even if they do not participate in the proposed merger. A handwritten note addressed to Minoo Masani asks for his reaction. The page is the complete letter, but it does not provide further correspondence or evidence of Masani's response.
 ---
 
+## Summary
+
+In this letter dated Bangalore, 6 August 1974, V. T. Sreenivasan argues that C. Rajagopalachari would have opposed the Swatantra Party's reported decision to dissolve itself and merge into the new Bharat Lok Dal. Sreenivasan maintains that the merger would compromise Swatantra's principles by joining parties whose leaders did not accept its opposition to statism, government controls, and the ruling Congress's Marxist-oriented policies.
+
+The letter presents Swatantra less as an office-seeking electoral machine than as a movement committed to educating voters about freedom and liberal principles. Sreenivasan compares those principles with the policies of West Germany's Social Democratic Party, credits Rajaji's emphasis on voter education, and argues that state-level liberal parties should continue their educational work even if they do not participate in the proposed merger. A handwritten note addressed to Minoo Masani asks for his reaction. The page is the complete letter, but it does not provide further correspondence or evidence of Masani's response.
+
 ## Key points
 
 - The letter reports that the Swatantra Party's National Convention decided to dissolve the party and merge it into Bharat Lok Dal.

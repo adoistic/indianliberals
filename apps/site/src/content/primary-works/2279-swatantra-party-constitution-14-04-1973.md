@@ -53,6 +53,12 @@ summary: |-
   The Constitution creates a tiered organisational structure of Primary Units, District Committees, State or Regional Councils, a General Council, and a National Executive. It specifies representation, office-bearer roles, quorum, election tribunals, co-options, election cycles, national and state conventions, rule-making powers, and amendment procedures. Appendix A provides voting procedures, including secret ballots, scrutiny by appointed scrutineers, single non-transferable voting for specified committee elections, proportional representation for higher councils, and rules for invalid ballots. The rendered pages contain the complete 12-page booklet, including the appendix.
 ---
 
+## Summary
+
+This 1973 edition sets out the Constitution of the Swatantra Party as amended on April 14, 1973, by the Sixth National Convention at Rajajinagar, Madras. It defines the Party’s objective as implementing the principles adopted by its 1959 Preparatory Convention and establishes rules for membership, party work, subscriptions, financial accounting, and disciplinary action. Membership is open to adults who subscribe in writing to the Party’s principles, pay the prescribed fee, and are not members of another political party; eligible party work includes enrolment, campaigning, grievance redress, fundraising, literature, study circles, and administrative responsibilities.
+
+The Constitution creates a tiered organisational structure of Primary Units, District Committees, State or Regional Councils, a General Council, and a National Executive. It specifies representation, office-bearer roles, quorum, election tribunals, co-options, election cycles, national and state conventions, rule-making powers, and amendment procedures. Appendix A provides voting procedures, including secret ballots, scrutiny by appointed scrutineers, single non-transferable voting for specified committee elections, proportional representation for higher councils, and rules for invalid ballots. The rendered pages contain the complete 12-page booklet, including the appendix.
+
 ## Key points
 
 - The document records amendments adopted on April 14, 1973, at the Swatantra Party’s Sixth National Convention.

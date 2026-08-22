@@ -51,6 +51,12 @@ summary: |-
   Aiyer’s second letter, dated September 27 and addressed to R. S. Rao, states that he and S. V. Raju are jointly editing a volume on fundamental rights, with particular reference to the Twenty-fourth and Twenty-fifth Constitutional Amendment Bills. Aiyer asks Rao for permission to reproduce passages from The Bank Nationalisation Case and the Constitution, explaining that Rao’s views would provide the volume with necessary balance. Because the scan combines these two letters and does not show a printed title or publication context, its precise documentary scope remains uncertain.
 ---
 
+## Summary
+
+The rendered scan contains correspondence signed by S. P. Aiyer in 1971, but appears to combine two separate letters. In the letter dated October 26, Aiyer writes from Jawaharlal Nehru University’s School of International Studies to S. V. Raju. He discusses having time to revise essays for a forthcoming Macmillan volume, missing the social atmosphere of his Bombay university, and sending greetings to mutual acquaintances. The remainder concerns publication arrangements: whether Agarwal has appeared, approval from newspapers, delivery of a typescript by October 31, and the goal of publishing the book by January.
+
+Aiyer’s second letter, dated September 27 and addressed to R. S. Rao, states that he and S. V. Raju are jointly editing a volume on fundamental rights, with particular reference to the Twenty-fourth and Twenty-fifth Constitutional Amendment Bills. Aiyer asks Rao for permission to reproduce passages from The Bank Nationalisation Case and the Constitution, explaining that Rao’s views would provide the volume with necessary balance. Because the scan combines these two letters and does not show a printed title or publication context, its precise documentary scope remains uncertain.
+
 ## Key points
 
 - The scan appears to contain two separate letters written by S. P. Aiyer in September and October 1971.

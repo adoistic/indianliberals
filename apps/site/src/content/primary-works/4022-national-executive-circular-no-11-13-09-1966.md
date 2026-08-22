@@ -54,6 +54,12 @@ summary: |-
   The circular presents two possible bases for calculating state representation: verified membership figures from 31 July 1964, or more current figures for Workers and Life Workers in good standing as of 10 September 1966. Masani recommends the first option because the figures have been verified, because a ceiling of 200 delegates per state would provide ample representation, and because some State Units may not submit reliable figures. The annexure lists Workers, Life Workers, Life Members, General Council seats, and proposed delegate quotas for twelve State Units.
 ---
 
+## Summary
+
+This three-page Swatantra Party National Executive circular, dated 13 September 1966 and signed by General Secretary M. R. Masani, concerns preparations for the Party’s National Convention, scheduled for 16–17 November 1966 at Sapru Hall, New Delhi. It asks Party units to approve arrangements for delegate quotas, the method of selecting delegates, and a delegate fee of Rs. 5 per person.
+
+The circular presents two possible bases for calculating state representation: verified membership figures from 31 July 1964, or more current figures for Workers and Life Workers in good standing as of 10 September 1966. Masani recommends the first option because the figures have been verified, because a ceiling of 200 delegates per state would provide ample representation, and because some State Units may not submit reliable figures. The annexure lists Workers, Life Workers, Life Members, General Council seats, and proposed delegate quotas for twelve State Units.
+
 ## Key points
 
 - The National Convention is fixed for 16–17 November 1966 at Sapru Hall, New Delhi.

@@ -51,6 +51,12 @@ summary: |-
   The second page records a resolution moved by K. P. Singh Deo, M.P., and unanimously adopted by the Swatantra Party’s General Council. It expresses sympathy for cyclone victims in Orissa, whose suffering was compounded by a three-year drought, and appeals to the Central Government for financial and material assistance. Proposed measures include loans to agriculturists, house-building equipment, accelerated relief works, and reconstruction of wells, tanks, and medium-scale irrigation works. The resolution also calls on the public and Swatantra Party members to contribute to the Orissa Chief Minister’s Relief Fund.
 ---
 
+## Summary
+
+This two-page archival item combines a newspaper clipping about Minoo Masani’s resignation from the Swatantra Party’s National Executive and Central Parliamentary Board with a formal Swatantra Party resolution on relief for victims of a cyclone in Orissa. The clipping reports that Masani resigned after party legislators in Gujarat allegedly supported Congress candidates in a Rajya Sabha election, which he regarded as a breach of the party’s constitution and an indication of political demoralisation. It also reproduces parts of his letter, in which he urges the party to recover its progressive and independent character and calls for stronger support for party discipline and effectiveness.
+
+The second page records a resolution moved by K. P. Singh Deo, M.P., and unanimously adopted by the Swatantra Party’s General Council. It expresses sympathy for cyclone victims in Orissa, whose suffering was compounded by a three-year drought, and appeals to the Central Government for financial and material assistance. Proposed measures include loans to agriculturists, house-building equipment, accelerated relief works, and reconstruction of wells, tanks, and medium-scale irrigation works. The resolution also calls on the public and Swatantra Party members to contribute to the Orissa Chief Minister’s Relief Fund.
+
 ## Key points
 
 - The associated newspaper clipping reports Minoo Masani’s resignation from the Swatantra Party’s National Executive and Central Parliamentary Board.

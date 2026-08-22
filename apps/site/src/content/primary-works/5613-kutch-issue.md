@@ -52,6 +52,12 @@ summary: |-
   The resolution, moved by Mr. P. K. Deo and unanimously adopted by the General Council, expresses concern about growing interference by the Centre in the functioning of state governments. It specifically criticizes the use of the Governor’s office to install minority governments in the states, framing the issue as one of federal balance and constitutional governance.
 ---
 
+## Summary
+
+This two-page archival document combines a newspaper clipping on the Kutch issue with a resolution of the Swatantra Party General Council. The clipping reports demands for clarification and party coordination, including references to Minoo Masani and Mr. Dandekar, and discusses the party’s position on electoral alliances and related political questions. Because the clipping is faint and partly obscured, several details cannot be read with confidence.
+
+The resolution, moved by Mr. P. K. Deo and unanimously adopted by the General Council, expresses concern about growing interference by the Centre in the functioning of state governments. It specifically criticizes the use of the Governor’s office to install minority governments in the states, framing the issue as one of federal balance and constitutional governance.
+
 ## Key points
 
 - The document includes a newspaper clipping headed “Kutch issue” and “request Masani.”

@@ -49,6 +49,10 @@ summary: |-
   In this June 4, 1999 letter on Freedom First letterhead, S. V. Raju writes to Mohan Singh Raghav about constitutional litigation concerning petitions filed by Mr. Kulish in the Rajasthan High Court. The petitions challenge the inclusion of the words “socialism” and “secularism” in the Preamble, and Raju asks whether there have been any hearings or developments since their previous correspondence.
 ---
 
+## Summary
+
+In this June 4, 1999 letter on Freedom First letterhead, S. V. Raju writes to Mohan Singh Raghav about constitutional litigation concerning petitions filed by Mr. Kulish in the Rajasthan High Court. The petitions challenge the inclusion of the words “socialism” and “secularism” in the Preamble, and Raju asks whether there have been any hearings or developments since their previous correspondence.
+
 ## Key points
 
 - The letter is dated June 4, 1999, and is signed by S. V. Raju.

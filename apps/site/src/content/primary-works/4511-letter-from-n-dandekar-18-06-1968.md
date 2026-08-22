@@ -49,6 +49,12 @@ summary: |-
   Taking the circumstances into account, the National Executive orders Patel’s immediate debarment from holding any office in the Party for two years. The letter is signed by N. Dandekar, General Secretary, and copies are marked to H. M. Patel and Ratilal Ukabhai Patel for necessary action.
 ---
 
+## Summary
+
+This one-page letter, dated June 18, 1968, informs Bhagwanjibhai Patel that the Swatantra Party’s National Executive has accepted a committee report and the comments of the Gujarat State Executive concerning allegations of anti-Party activity. The letter states that Patel had worked against the Party’s candidate in the Rajkot Parliamentary Constituency during the 1967 general election.
+
+Taking the circumstances into account, the National Executive orders Patel’s immediate debarment from holding any office in the Party for two years. The letter is signed by N. Dandekar, General Secretary, and copies are marked to H. M. Patel and Ratilal Ukabhai Patel for necessary action.
+
 ## Key points
 
 - The document is a June 18, 1968 letter from N. Dandekar to Bhagwanjibhai Patel.

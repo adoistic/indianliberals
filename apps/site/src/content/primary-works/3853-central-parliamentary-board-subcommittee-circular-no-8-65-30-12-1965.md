@@ -53,6 +53,12 @@ summary: |-
   The circular places the recommendation in the context of the previous General Election: the constituency had then been contested for the Party by Mr. Harihar Das, who is described as having since been nominated for the Bhanjanagar Parliamentary Constituency. The letter notes that Das had lost to a Congress candidate by approximately 25,000 votes, requests approval of Praharaj's nomination, and treats silence by 15 January as absence of objection. A brief biographical sketch of Praharaj is mentioned as enclosed, but it is not included in the rendered page.
 ---
 
+## Summary
+
+This one-page Swatantra Party Central Parliamentary Board Sub-Committee circular, dated 30 December 1965, records the Party's recommendation of Mr. Yatiraj Praharaj as its prospective candidate for the Chhatrapur Parliamentary Constituency. M. R. Masani states that he and Mr. Dandekar interviewed Praharaj in New Delhi and found him suitable.
+
+The circular places the recommendation in the context of the previous General Election: the constituency had then been contested for the Party by Mr. Harihar Das, who is described as having since been nominated for the Bhanjanagar Parliamentary Constituency. The letter notes that Das had lost to a Congress candidate by approximately 25,000 votes, requests approval of Praharaj's nomination, and treats silence by 15 January as absence of objection. A brief biographical sketch of Praharaj is mentioned as enclosed, but it is not included in the rendered page.
+
 ## Key points
 
 - The document is Circular No. 8/65 of the Swatantra Party's Central Parliamentary Board Sub-Committee.

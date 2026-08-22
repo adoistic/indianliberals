@@ -52,6 +52,12 @@ summary: |-
   Masani invokes the Parliamentary Board’s statement, particularly paragraph 12, as a basis for close scrutiny of the regulations. He also asks Ranga for clarification about a correction reportedly sent to The Times of India in response to Masani’s telegram, noting that neither the published correction nor the promised copy has reached him. The page is a single item of correspondence and does not include further context about the bill or its subsequent fate.
 ---
 
+## Summary
+
+In this letter dated November 15, 1962, Minoo Masani writes to Professor N. G. Ranga about the Defence of India Ordinance, promulgated by the President on October 26. Masani is concerned that the Ordinance contains far-reaching provisions that could remove citizens’ individual liberty and fundamental rights. He asks Ranga to monitor the proposed bill to replace the Ordinance and ensure that any restrictions go no further than the defence effort requires.
+
+Masani invokes the Parliamentary Board’s statement, particularly paragraph 12, as a basis for close scrutiny of the regulations. He also asks Ranga for clarification about a correction reportedly sent to The Times of India in response to Masani’s telegram, noting that neither the published correction nor the promised copy has reached him. The page is a single item of correspondence and does not include further context about the bill or its subsequent fate.
+
 ## Key points
 
 - Masani writes on November 15, 1962, while Parliament’s session may end on November 23.

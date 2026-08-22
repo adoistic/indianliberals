@@ -52,6 +52,12 @@ summary: |-
   The notice argues that the Swatantra Party’s principles and policies remain valid and that government policies based on them could have avoided the country’s present critical situation. It also doubts that a new party formed around a vague general programme could function cohesively, especially while the Congress (O) and Jan Sangh continued to exist separately. The resolution concludes that dissolving Swatantra would be premature and records Shri Parmanand Kapur as proposer and Shri Munchu as seconder.
 ---
 
+## Summary
+
+This one-page notice presents a resolution for the Swatantra Party’s Seventh National Convention, scheduled for 4–5 August 1974 in New Delhi. It rejects a proposal that the Swatantra Party dissolve alongside six other parties to facilitate the creation of a new political party. The resolution emphasizes that Swatantra is the only national party among the seven proposed for dissolution, while the others are confined to particular states or regions.
+
+The notice argues that the Swatantra Party’s principles and policies remain valid and that government policies based on them could have avoided the country’s present critical situation. It also doubts that a new party formed around a vague general programme could function cohesively, especially while the Congress (O) and Jan Sangh continued to exist separately. The resolution concludes that dissolving Swatantra would be premature and records Shri Parmanand Kapur as proposer and Shri Munchu as seconder.
+
 ## Key points
 
 - The notice concerns a proposed resolution for the Swatantra Party’s Seventh National Convention in New Delhi on 4–5 August 1974.

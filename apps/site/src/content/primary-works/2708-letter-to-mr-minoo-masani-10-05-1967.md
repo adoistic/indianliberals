@@ -46,6 +46,10 @@ summary: |-
   This one-page official letter, dated 10 May 1967 and written from Bhubaneswar, records Orissa Chief Minister R. N. Singh Deo's proposal to appoint C. H. Bhabha as chairman of an Evaluation Committee for the state's projects. Singh Deo asks M. R. Masani to ascertain Bhabha's willingness to serve and the terms and conditions he would expect.
 ---
 
+## Summary
+
+This one-page official letter, dated 10 May 1967 and written from Bhubaneswar, records Orissa Chief Minister R. N. Singh Deo's proposal to appoint C. H. Bhabha as chairman of an Evaluation Committee for the state's projects. Singh Deo asks M. R. Masani to ascertain Bhabha's willingness to serve and the terms and conditions he would expect.
+
 ## Key points
 
 - The letter is addressed to M. R. Masani and dated 10 May 1967.

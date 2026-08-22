@@ -50,6 +50,12 @@ summary: |-
   Masani also responds to Rajagopalachari’s October 30 letter and its enclosure to Dandekar. He argues that, if Rajagopalachari and Munshi agree, the best course is to abandon any proposed change in the party presidency and allow Ranga to continue. Masani explains that he would be unable to resist colleagues who proposed him for president if Ranga withdrew, because his non-election could be misunderstood; allowing Ranga to continue, he concludes, would preserve continuity and avoid developments injurious to the party.
 ---
 
+## Summary
+
+In this confidential letter dated November 2, 1967, M. R. Masani writes to C. Rajagopalachari about the forthcoming Swatantra Party General Council meeting in Delhi. Masani says he is seeking colleagues’ acceptance of his decision to withdraw from the General Secretaryship, partly to prevent an embarrassing demonstration or pressure at the meeting.
+
+Masani also responds to Rajagopalachari’s October 30 letter and its enclosure to Dandekar. He argues that, if Rajagopalachari and Munshi agree, the best course is to abandon any proposed change in the party presidency and allow Ranga to continue. Masani explains that he would be unable to resist colleagues who proposed him for president if Ranga withdrew, because his non-election could be misunderstood; allowing Ranga to continue, he concludes, would preserve continuity and avoid developments injurious to the party.
+
 ## Key points
 
 - Masani hopes Rajagopalachari will be well enough to attend the Swatantra Party General Council meeting in Delhi on November 25 and 26.

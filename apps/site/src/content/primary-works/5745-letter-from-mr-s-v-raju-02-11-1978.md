@@ -51,6 +51,12 @@ summary: |-
   Raju provides contact times and directs volunteers to report to Ramachandran's election office near Matunga Post Office at 8 a.m. on polling day. The one-page document is a practical mobilisation letter concerning local electoral organisation; no broader political programme or policy argument is presented.
 ---
 
+## Summary
+
+In this typed letter dated November 2, 1978, S. V. Raju asks a political associate to support S. Ramachandran, a former secretary of the Bombay Regional Unit of the Swatantra Party who is contesting the forthcoming Bombay municipal elections as a Janata Party candidate from Matunga. The requested assistance includes manning polling booths and serving as a polling or counting agent on election day, November 8.
+
+Raju provides contact times and directs volunteers to report to Ramachandran's election office near Matunga Post Office at 8 a.m. on polling day. The one-page document is a practical mobilisation letter concerning local electoral organisation; no broader political programme or policy argument is presented.
+
 ## Key points
 
 - The letter is dated November 2, 1978, and is signed by S. V. Raju.

@@ -49,6 +49,12 @@ summary: |-
   Patel also acknowledges Masani’s decision to resign as party secretary, describing it as a commendable precedent at a time when officeholders are often reluctant to give up their positions. He asks Masani to support his inclusion in the National Executive, which the General Council is scheduled to elect in Delhi later that month.
 ---
 
+## Summary
+
+In this letter dated November 10, 1967, Chandra­kant Patel thanks M. R. Masani for congratulating him on his election to the General Council of the Swatantra Party. Patel recalls his role in the previous General Election campaign for Pashabhai and reports that a recent membership drive enrolled more than 700 new party members.
+
+Patel also acknowledges Masani’s decision to resign as party secretary, describing it as a commendable precedent at a time when officeholders are often reluctant to give up their positions. He asks Masani to support his inclusion in the National Executive, which the General Council is scheduled to elect in Delhi later that month.
+
 ## Key points
 
 - Patel writes to thank M. R. Masani for congratulating him on his election to the Swatantra Party’s General Council.

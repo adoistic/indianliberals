@@ -50,6 +50,12 @@ summary: |-
   The report adds that the Swatantra Party had not participated in or intervened as a party in the South Bombay campaign. It therefore says that the question of the party supporting George Fernandes or any other candidate did not arise.
 ---
 
+## Summary
+
+This short Indian Express report records a statement by Swatantra Party chief M. R. Masani concerning the South Bombay election. Masani said that individual party members were free to vote according to their own preferences.
+
+The report adds that the Swatantra Party had not participated in or intervened as a party in the South Bombay campaign. It therefore says that the question of the party supporting George Fernandes or any other candidate did not arise.
+
 ## Key points
 
 - M. R. Masani is identified as chief of the Swatantra Party.

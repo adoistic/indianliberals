@@ -54,6 +54,12 @@ summary: |-
   Masani’s reported policy proposals include severing diplomatic relations with the Chinese communist regime, referring the matter to the United Nations so that China could be identified as the aggressor, seeking military and material assistance under the United Nations, settling the Kashmir dispute, recognising the Dalai Lama as head of a Free Tibetan Government, and banning the Communist Party of India to isolate what the statement calls the “Fifth Column.” With the military phase temporarily over, the communication calls for concentration on politics so that democratic India can prevail in the continuing struggle against communist China. The document is explicitly marked both “For favour of publication” and “Not for publication”; no year is printed.
 ---
 
+## Summary
+
+This three-page press communication, dated Bombay, December 6, reports M. R. Masani’s address to the Rotary Club of North Bombay as General Secretary of the Swatantra Party. It presents the Chinese attack on India in September as having produced some political gains despite military losses: public education about international communism, recognition of true and false friends, national solidarity and integration, the removal of V. K. Krishna Menon from the Cabinet, a weakening of the cult of personality, greater awareness of the need for friendship with Pakistan, and a national will to victory.
+
+Masani’s reported policy proposals include severing diplomatic relations with the Chinese communist regime, referring the matter to the United Nations so that China could be identified as the aggressor, seeking military and material assistance under the United Nations, settling the Kashmir dispute, recognising the Dalai Lama as head of a Free Tibetan Government, and banning the Communist Party of India to isolate what the statement calls the “Fifth Column.” With the military phase temporarily over, the communication calls for concentration on politics so that democratic India can prevail in the continuing struggle against communist China. The document is explicitly marked both “For favour of publication” and “Not for publication”; no year is printed.
+
 ## Key points
 
 - Masani’s Rotary Club address is presented as a balance sheet of India’s gains and losses after the September Chinese attack.

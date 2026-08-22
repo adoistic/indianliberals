@@ -52,3 +52,9 @@ summary: |-
   
   In the rendered pages, the publication attacks what it presents as authoritarian, communal, or politically evasive tendencies while contrasting them with democratic and constitutional commitments. The pages also contain material on Morarji Desai, Mahatma Gandhi, Jawaharlal Nehru, and other public figures, alongside cartoons portraying political conflict and “direct action.” The masthead, editorial roster, and any formal contents page were not visible.
 ---
+
+## Summary
+
+This two-page English periodical extract is the February 13, 1971, “Thirteenth Anniversary Special” of BLITZ, identified as Special No. Four and printed as pages 27–28. The visible material is strongly polemical and combines political commentary, cartoons, and short exchanges or interviews. Its subjects include the Rashtriya Swayamsevak Sangh (RSS), the Congress, Hindu communalism, constitutional politics, press freedom, and the relationship between socialism, nationalism, and democratic action.
+
+In the rendered pages, the publication attacks what it presents as authoritarian, communal, or politically evasive tendencies while contrasting them with democratic and constitutional commitments. The pages also contain material on Morarji Desai, Mahatma Gandhi, Jawaharlal Nehru, and other public figures, alongside cartoons portraying political conflict and “direct action.” The masthead, editorial roster, and any formal contents page were not visible.

@@ -47,6 +47,12 @@ summary: |-
   The letter records rent of Rs. 387.54 and electricity charges of Rs. 108.87, producing a combined total of Rs. 396.41. Under an existing arrangement, the recipient's 40% share is calculated as Rs. 198.56. The four rendered PDF pages are substantially duplicated scans of the same correspondence.
 ---
 
+## Summary
+
+This English-language letter, dated March 13, 1975, is written on Swatantra Party Maharashtra letterhead by P. Narayan, identified as Office Secretary. Addressed to the Executive Secretary of the Bharatiya Lok Dal in Bombay 1, it provides the party office's rent and electricity charges for February 1975.
+
+The letter records rent of Rs. 387.54 and electricity charges of Rs. 108.87, producing a combined total of Rs. 396.41. Under an existing arrangement, the recipient's 40% share is calculated as Rs. 198.56. The four rendered PDF pages are substantially duplicated scans of the same correspondence.
+
 ## Key points
 
 - The letter is dated March 13, 1975, and is issued on Swatantra Party Maharashtra letterhead.

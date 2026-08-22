@@ -55,6 +55,12 @@ summary: |-
   Masani also criticised the proposed four-party alliance as lacking a common programme, while outlining Swatantra’s priorities: radical change in agriculture, consumer and other industries, and heavy industrialisation. The report further records his opposition to foodgrain restrictions, price controls, and excessive decontrol, as well as his criticism of the Government’s handling of the hijacking of an Indian plane by Pakistani hijackers. On Kashmir, he rejected the idea that India should accept a Pakistani solution and referred to C. Rajagopalachari’s personal rather than party position. The article ends with Masani’s call for a joint declaration by the four parties and a recollection of his earlier socialist convictions.
 ---
 
+## Summary
+
+This newspaper report from New Delhi records Minoo Masani’s prediction that the Prime Minister’s electoral strategy would fail. Speaking for the Swatantra Party, Masani argued that the Lok Sabha elections had produced political disunity, with too many candidates and no clearly defined alternative alliance. He discussed the Swatantra Party’s inability to support particular candidates, including a Jan Sangh candidate in Bombay, and questioned whether his party would back Congress (O) candidates who were not supporting Swatantra nominees.
+
+Masani also criticised the proposed four-party alliance as lacking a common programme, while outlining Swatantra’s priorities: radical change in agriculture, consumer and other industries, and heavy industrialisation. The report further records his opposition to foodgrain restrictions, price controls, and excessive decontrol, as well as his criticism of the Government’s handling of the hijacking of an Indian plane by Pakistani hijackers. On Kashmir, he rejected the idea that India should accept a Pakistani solution and referred to C. Rajagopalachari’s personal rather than party position. The article ends with Masani’s call for a joint declaration by the four parties and a recollection of his earlier socialist convictions.
+
 ## Key points
 
 - Minoo Masani predicted that the Prime Minister’s electoral gamble would fail.

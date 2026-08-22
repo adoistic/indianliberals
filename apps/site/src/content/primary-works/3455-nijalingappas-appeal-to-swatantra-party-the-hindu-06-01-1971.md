@@ -50,6 +50,12 @@ summary: |-
   Nijalingappa said the proposed front would meet in New Delhi on January 15 and 16 to formulate a common programme, while a Parliamentary Board would select candidates. He stated that the front would support Swatantra Party candidates where appropriate and reported that discussions were under way with Minoo Masani and other leaders. The article also records uncertainty over whether S. K. Patil would remain with Congress (O), and notes that Masani had declined to make a statement before the Swatantra Party’s executive and parliamentary board meetings in Madras.
 ---
 
+## Summary
+
+The article reports that S. Nijalingappa, president of the Organisation Congress (Congress (O)), appealed for a united electoral “front” involving the Swatantra Party, the Bharatiya Jana Sangh, and the Praja Socialist Party. Speaking at a press conference in Bombay, he said the front should oppose the Communist parties and suggested that the parties concerned would contest elections jointly, including the forthcoming Lok Sabha election.
+
+Nijalingappa said the proposed front would meet in New Delhi on January 15 and 16 to formulate a common programme, while a Parliamentary Board would select candidates. He stated that the front would support Swatantra Party candidates where appropriate and reported that discussions were under way with Minoo Masani and other leaders. The article also records uncertainty over whether S. K. Patil would remain with Congress (O), and notes that Masani had declined to make a statement before the Swatantra Party’s executive and parliamentary board meetings in Madras.
+
 ## Key points
 
 - S. Nijalingappa called for an electoral front comprising Congress (O), the Swatantra Party, the Bharatiya Jana Sangh, and the Praja Socialist Party.

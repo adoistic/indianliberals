@@ -47,6 +47,10 @@ summary: |-
   In this letter dated September 10, 1974, S. V. Raju replies to Mohan Lal Jatav from Bombay regarding Jatav's reported decision to join the BLD. Raju says that, if the report is true, further discussion would serve little purpose because Jatav has already made up his mind; if it is false, he asks Jatav to clarify so he can address other aspects of the letter.
 ---
 
+## Summary
+
+In this letter dated September 10, 1974, S. V. Raju replies to Mohan Lal Jatav from Bombay regarding Jatav's reported decision to join the BLD. Raju says that, if the report is true, further discussion would serve little purpose because Jatav has already made up his mind; if it is false, he asks Jatav to clarify so he can address other aspects of the letter.
+
 ## Key points
 
 - The letter is dated September 10, 1974, and was sent from Bombay.

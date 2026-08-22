@@ -51,6 +51,10 @@ summary: |-
   These draft minutes record the Swatantra Party Bombay Regional Council meeting held on 2 November 1970. They list the members present, confirm the previous meeting's minutes, review arrangements for democracy and workers' training programmes, discuss office premises, and report on worker participation at the forthcoming National Convention. A membership table records totals across Bombay South, Bombay Central South, Bombay Central, Bombay North West, and Bombay North East, with a combined total of 1,430 members.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Bombay Regional Council meeting held on 2 November 1970. They list the members present, confirm the previous meeting's minutes, review arrangements for democracy and workers' training programmes, discuss office premises, and report on worker participation at the forthcoming National Convention. A membership table records totals across Bombay South, Bombay Central South, Bombay Central, Bombay North West, and Bombay North East, with a combined total of 1,430 members.
+
 ## Key points
 
 - The Bombay Regional Council met at the Party office on 2 November 1970, chaired by Lalchand Hirachand.

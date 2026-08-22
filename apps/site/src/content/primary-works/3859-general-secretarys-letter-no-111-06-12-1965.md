@@ -50,6 +50,10 @@ summary: |-
   This one-page Swatantra Party circular, dated December 6, 1965, announces that G. Latchanna, president of the party's Andhra Pradesh unit and a member of its National Executive, has been asked to advise on developing party work among Backward Classes and other under-privileged sections of society. The letter frames this work as part of an effort to intensify the party's activities among these groups.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated December 6, 1965, announces that G. Latchanna, president of the party's Andhra Pradesh unit and a member of its National Executive, has been asked to advise on developing party work among Backward Classes and other under-privileged sections of society. The letter frames this work as part of an effort to intensify the party's activities among these groups.
+
 ## Key points
 
 - The document is General Secretary's Letter No. 111 from the Swatantra Party Central Office.

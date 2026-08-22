@@ -50,6 +50,12 @@ summary: |-
   The list includes both party candidates and several explicitly identified as independent candidates to be supported. The document provides no publication date, place, individual author, or formal imprint beyond the Swatantra Party heading. It is a candidate-selection record rather than an argument or programme, so the rendered pages contain no discussion of policy, ideology, or electoral strategy beyond the party's organisational role in recommending candidates.
 ---
 
+## Summary
+
+This five-page administrative document lists candidates selected for recommendation by the Swatantra Party's Central Parliamentary Board for Gujarat State Assembly seats. It is organised by parliamentary constituency, assembly seat, and recommended candidate, covering constituencies across Gujarat including Patan, Mehsana, Dohad, Godhra, Broach, Baroda, Jamnagar, Ahmedabad City, Banaskantha, Rajkot, Kutch, Kaira, Anand, Surat, and Bhavnagar.
+
+The list includes both party candidates and several explicitly identified as independent candidates to be supported. The document provides no publication date, place, individual author, or formal imprint beyond the Swatantra Party heading. It is a candidate-selection record rather than an argument or programme, so the rendered pages contain no discussion of policy, ideology, or electoral strategy beyond the party's organisational role in recommending candidates.
+
 ## Key points
 
 - The document is headed "Swatantra Party" and identifies the Central Parliamentary Board as the approving body.

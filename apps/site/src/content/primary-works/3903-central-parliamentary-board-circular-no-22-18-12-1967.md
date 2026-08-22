@@ -53,6 +53,10 @@ summary: |-
   This three-page Swatantra Party circular, dated December 18, 1967, informs party colleagues that its only MLA in the West Bengal Legislative Assembly, Rajendra Singh Singhi, has accepted Dr. P. C. Ghosh’s invitation to join the West Bengal cabinet as a Minister of State. N. Dandekar recounts that Singhi had previously resisted pressure from both the United Front government and the Congress Party, but accepted the offer after discussions in Calcutta on December 2–3. The circular argues that the party should accept the decision in practice, despite having preferred President’s Rule, because cooperation with the minority government may prevent the return of the communist-dominated United Front government.
 ---
 
+## Summary
+
+This three-page Swatantra Party circular, dated December 18, 1967, informs party colleagues that its only MLA in the West Bengal Legislative Assembly, Rajendra Singh Singhi, has accepted Dr. P. C. Ghosh’s invitation to join the West Bengal cabinet as a Minister of State. N. Dandekar recounts that Singhi had previously resisted pressure from both the United Front government and the Congress Party, but accepted the offer after discussions in Calcutta on December 2–3. The circular argues that the party should accept the decision in practice, despite having preferred President’s Rule, because cooperation with the minority government may prevent the return of the communist-dominated United Front government.
+
 ## Key points
 
 - The circular announces Rajendra Singh Singhi’s decision to join Dr. P. C. Ghosh’s West Bengal cabinet.

@@ -60,6 +60,12 @@ summary: |-
   The talk then traces an Indian liberal tradition through the early Indian National Congress and figures including Dadabhai Naoroji, Pherozeshah Mehta, Mahadev Govind Ranade, Gopal Krishna Gokhale, Srinivasa Shastri, and H. N. Kunzru. Raju argues that these reformers valued social reform and education before independence, contrasting their constitutional approach with Gandhi's later reliance on agitation, satyagraha, and hartals. In discussing liberalisation, he uses China to show that market-oriented economic policy can coexist with authoritarian political control, and India to argue that economic reform has not produced a genuinely liberal society. He concludes by recalling the Swatantra Party's liberal parliamentary record and defending the Indian Constitution as a surviving liberal document. The final rendered page is an attached 2008 email exchange concerning the invitation to give the talk.
 ---
 
+## Summary
+
+In these notes for a talk to the Rotary Club of Cuffe Parade, S. V. Raju distinguishes liberalism from liberalisation. Liberalism is presented as a philosophy concerned with limited government, individual freedom, human dignity, tolerance, human rights, social justice, and the rule of law; liberalisation, by contrast, is described as a process of economic engineering. Raju stresses that support for free markets does not automatically make someone liberal, and that liberalism is not reducible to economics or governance.
+
+The talk then traces an Indian liberal tradition through the early Indian National Congress and figures including Dadabhai Naoroji, Pherozeshah Mehta, Mahadev Govind Ranade, Gopal Krishna Gokhale, Srinivasa Shastri, and H. N. Kunzru. Raju argues that these reformers valued social reform and education before independence, contrasting their constitutional approach with Gandhi's later reliance on agitation, satyagraha, and hartals. In discussing liberalisation, he uses China to show that market-oriented economic policy can coexist with authoritarian political control, and India to argue that economic reform has not produced a genuinely liberal society. He concludes by recalling the Swatantra Party's liberal parliamentary record and defending the Indian Constitution as a surviving liberal document. The final rendered page is an attached 2008 email exchange concerning the invitation to give the talk.
+
 ## Key points
 
 - The notes define liberalism as a philosophy and liberalisation as an economic-engineering process.

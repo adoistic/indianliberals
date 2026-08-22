@@ -47,6 +47,12 @@ summary: |-
   Talpade assures Masani that his letter will be placed before Fazalbhoy on his return. The second rendered page is the accompanying inland-letter envelope addressed to Masani at the Swatantra Party's Bombay office; no further substantive correspondence is visible.
 ---
 
+## Summary
+
+This two-page 1963 correspondence consists of a typed office letter from S. R. Talpade, Deputy Secretary of the All India Instrument Manufacturers & Dealers Association, to M. R. (Minoo) Masani, General Secretary of the Swatantra Party. Dated 16 August 1963, it acknowledges receipt of Masani's letter of 27 July 1963 and explains that Y. A. Fazalbhoy is out of India but expected to return in the second week of September.
+
+Talpade assures Masani that his letter will be placed before Fazalbhoy on his return. The second rendered page is the accompanying inland-letter envelope addressed to Masani at the Swatantra Party's Bombay office; no further substantive correspondence is visible.
+
 ## Key points
 
 - The letter is dated 16 August 1963 and was sent from Bombay.

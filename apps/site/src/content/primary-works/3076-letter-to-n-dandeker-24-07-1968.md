@@ -48,6 +48,12 @@ summary: |-
   The writer informs N. Dandeker that he was told there would be no objection to Singh sitting on any bench assigned to him if the Leader and others agreed. The letter recommends that Singh's admission be considered favourably, citing his influence in Uttar Pradesh and in a state by-election. The document is a narrowly focused piece of internal party correspondence; no further context about the Party's identity or the outcome of the proposal appears on the page.
 ---
 
+## Summary
+
+This typed letter, dated July 24, 1968, is addressed to Shri N. Dandeker and reports a conversation with Shri Yashpal Singh at the signatory's residence the previous night. Singh is described as seeking admission to the Party and offering to contribute Rs. 5,000, while undertaking to work full-time for the Party. The letter presents these terms in connection with a possible seat on the second bench and a Party-in-charge role involving three divisions and a vehicle.
+
+The writer informs N. Dandeker that he was told there would be no objection to Singh sitting on any bench assigned to him if the Leader and others agreed. The letter recommends that Singh's admission be considered favourably, citing his influence in Uttar Pradesh and in a state by-election. The document is a narrowly focused piece of internal party correspondence; no further context about the Party's identity or the outcome of the proposal appears on the page.
+
 ## Key points
 
 - The letter is dated July 24, 1968, and addressed to Shri N. Dandeker.

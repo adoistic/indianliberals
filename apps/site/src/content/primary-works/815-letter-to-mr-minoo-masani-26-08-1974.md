@@ -48,6 +48,12 @@ summary: |-
   Pasricha proposes that the account might be a joint effort, while recognizing that Masani may wish to preserve his independence to criticize the material. He suggests that “Mr. Raju” might also be able to help if Masani does not have a comprehensive file. The page shows no further historical account of the Swatantra Party beyond this request for documentary and personal recollections.
 ---
 
+## Summary
+
+In this one-page letter dated 26 August 1974, Lt. Col. H. R. Pasricha writes to M. R. Masani on the eve of the announced dissolution of the Swatantra Party. He characterizes the party's brief history as eventful and asks Masani for notes on the circumstances that led to its creation and the developments that followed, offering to write a suitable epitaph for the party.
+
+Pasricha proposes that the account might be a joint effort, while recognizing that Masani may wish to preserve his independence to criticize the material. He suggests that “Mr. Raju” might also be able to help if Masani does not have a comprehensive file. The page shows no further historical account of the Swatantra Party beyond this request for documentary and personal recollections.
+
 ## Key points
 
 - The letter is dated 26 August 1974 and anticipates the Swatantra Party's imminent dissolution.

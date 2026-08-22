@@ -49,6 +49,10 @@ summary: |-
   This seven-page file contains a series of near-identical administrative letters dated May 9, 1975, signed by S. V. Raju as Joint Secretary of the Swatantra Party. Addressed to organisations and institutions in India and abroad, the letters acknowledge the recipients' periodic sending of literature and notify them of a change of address for future correspondence.
 ---
 
+## Summary
+
+This seven-page file contains a series of near-identical administrative letters dated May 9, 1975, signed by S. V. Raju as Joint Secretary of the Swatantra Party. Addressed to organisations and institutions in India and abroad, the letters acknowledge the recipients' periodic sending of literature and notify them of a change of address for future correspondence.
+
 ## Key points
 
 - All seven visible letters are dated May 9, 1975.

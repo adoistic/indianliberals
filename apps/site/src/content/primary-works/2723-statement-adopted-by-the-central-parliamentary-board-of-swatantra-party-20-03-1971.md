@@ -63,6 +63,12 @@ summary: |-
   The statement sets out the party's intended parliamentary role after the election. It says the Swatantra Party's smaller group must uphold democracy and individual liberty, resist authoritarian tendencies—including attempts to restrict press freedom, weaken the Supreme Judiciary, or undermine Fundamental Rights—and support government measures that promote prosperity and a free society. It therefore presents the party as a determined but non-factional opposition. The rendered pages do not include material beyond this concluding statement.
 ---
 
+## Summary
+
+This two-page statement, adopted by the Central Parliamentary Board of the Swatantra Party on 20 March 1971, responds to the party's poor performance in the parliamentary elections and accepts the popular verdict while disputing the claim that the Prime Minister and her party received a mandate to amend the Constitution. It argues that the electoral system distorted popular support through disproportionate representation: the ruling party secured seats with far fewer votes per member than the Swatantra Party. The statement also attributes the Democratic Front's defeat partly to the absence of a common programme and criticises the Front's earlier indecision over a united opposition platform.
+
+The statement sets out the party's intended parliamentary role after the election. It says the Swatantra Party's smaller group must uphold democracy and individual liberty, resist authoritarian tendencies—including attempts to restrict press freedom, weaken the Supreme Judiciary, or undermine Fundamental Rights—and support government measures that promote prosperity and a free society. It therefore presents the party as a determined but non-factional opposition. The rendered pages do not include material beyond this concluding statement.
+
 ## Key points
 
 - The Central Parliamentary Board accepts the election result despite the Swatantra Party's major electoral losses.

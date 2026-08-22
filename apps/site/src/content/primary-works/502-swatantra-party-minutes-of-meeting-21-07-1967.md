@@ -53,6 +53,12 @@ summary: |-
   The minutes also record several organisational and policy matters. The committee approved a monthly subscription payment for S. Xavier, asked Shri Meghrajji to withdraw a Constitution Amendment Bill that might cause confusion with Mr. Nath Pai’s Bill, and discussed R. K. Amin’s letter concerning the government’s language policy. The record states that the party supported developing all Indian languages while retaining English as a medium of education. In response to a question about dissent in party committees, it was agreed that members could have their views recorded when the party’s ideology was seriously compromised.
 ---
 
+## Summary
+
+This two-page office record documents a meeting of the Swatantra Party Executive Committee held on July 21, 1967, in the Party Committee Room at Parliament House, New Delhi. It lists six members present and assigns speakers to parliamentary business, including the Tea (Amendment) Bill, the Standards of Weights and Measures Bill, scheduled-caste and scheduled-tribe reports, the Finance Bill, and amendments to the Finance Bill.
+
+The minutes also record several organisational and policy matters. The committee approved a monthly subscription payment for S. Xavier, asked Shri Meghrajji to withdraw a Constitution Amendment Bill that might cause confusion with Mr. Nath Pai’s Bill, and discussed R. K. Amin’s letter concerning the government’s language policy. The record states that the party supported developing all Indian languages while retaining English as a medium of education. In response to a question about dissent in party committees, it was agreed that members could have their views recorded when the party’s ideology was seriously compromised.
+
 ## Key points
 
 - The Executive Committee meeting took place on Friday, July 21, 1967, at Parliament House, New Delhi.

@@ -57,6 +57,10 @@ summary: |-
   This English-language occasional paper, issued by the Swatantra Party (Maharashtra) in January 1995, combines a press note with a writ petition, affidavit materials, and a draft amendment. It reports the party’s challenge before the Bombay High Court to Section 29(A)(5) of the Representation of the People Act, 1951, which required political associations seeking registration to declare true faith and allegiance to the principles of socialism, secularism, democracy, and the sovereignty, unity, and integrity of India. The press note also records that the court did not grant interim relief directing the Election Commission to allot a common symbol, but ordered an expedited hearing in view of the forthcoming 1996 Lok Sabha elections.
 ---
 
+## Summary
+
+This English-language occasional paper, issued by the Swatantra Party (Maharashtra) in January 1995, combines a press note with a writ petition, affidavit materials, and a draft amendment. It reports the party’s challenge before the Bombay High Court to Section 29(A)(5) of the Representation of the People Act, 1951, which required political associations seeking registration to declare true faith and allegiance to the principles of socialism, secularism, democracy, and the sovereignty, unity, and integrity of India. The press note also records that the court did not grant interim relief directing the Election Commission to allot a common symbol, but ordered an expedited hearing in view of the forthcoming 1996 Lok Sabha elections.
+
 ## Key points
 
 - The petition challenges the requirement that registered political parties declare allegiance to the principle of socialism.

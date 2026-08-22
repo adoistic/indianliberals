@@ -48,6 +48,12 @@ summary: |-
   The letter records the transmission of two enclosures: a copy of Masani's opening remarks at the Preparatory Convention of the Swatantra Party held in Bombay, and the party's Statement of Principles. The page therefore documents a piece of correspondence connected to the formation and public presentation of the Swatantra Party; the enclosures themselves are not included in the rendered page.
 ---
 
+## Summary
+
+This single-page English letter, dated 17 September 1959, is addressed to Mr. S. Anand in New Delhi. Miss B. S. Mirza, writing as secretary to M. R. Masani, acknowledges Anand's earlier letter and conveys Masani's appreciation for the sentiments and good wishes expressed in it.
+
+The letter records the transmission of two enclosures: a copy of Masani's opening remarks at the Preparatory Convention of the Swatantra Party held in Bombay, and the party's Statement of Principles. The page therefore documents a piece of correspondence connected to the formation and public presentation of the Swatantra Party; the enclosures themselves are not included in the rendered page.
+
 ## Key points
 
 - The letter is dated 17 September 1959 and addressed to Mr. S. Anand.

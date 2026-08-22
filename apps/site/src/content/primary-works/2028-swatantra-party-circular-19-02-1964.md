@@ -53,6 +53,12 @@ summary: |-
   The document is an internal administrative notice rather than an argument or policy essay. It records the Swatantra Party's stated position on official or public engagement with the Soviet delegation and is signed by Kapur Singh in his capacity as Secretary. No formal title beyond the heading "CIRCULAR" is printed.
 ---
 
+## Summary
+
+This one-page English circular, issued by the Swatantra Party Parliamentary Office in New Delhi on February 19, 1964, communicates a party decision concerning an upcoming visit by a Soviet Parliamentary Delegation. It instructs the recipient that the party will not participate in any functions organised in connection with the delegation's visit to Delhi.
+
+The document is an internal administrative notice rather than an argument or policy essay. It records the Swatantra Party's stated position on official or public engagement with the Soviet delegation and is signed by Kapur Singh in his capacity as Secretary. No formal title beyond the heading "CIRCULAR" is printed.
+
 ## Key points
 
 - The document is a circular from the Swatantra Party Parliamentary Office.

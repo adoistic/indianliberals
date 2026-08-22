@@ -46,6 +46,10 @@ summary: |-
   This two-page Swatantra Party office circular, dated July 23, 1974, corrects the meeting date announced in Circular No. 121. Issued from the party’s national headquarters in Bombay, it states that the next National Executive meeting will be held on Sunday, August 4, 1974, rather than the incorrectly typed Saturday, August 4. The circular confirms that the agenda remains unchanged.
 ---
 
+## Summary
+
+This two-page Swatantra Party office circular, dated July 23, 1974, corrects the meeting date announced in Circular No. 121. Issued from the party’s national headquarters in Bombay, it states that the next National Executive meeting will be held on Sunday, August 4, 1974, rather than the incorrectly typed Saturday, August 4. The circular confirms that the agenda remains unchanged.
+
 ## Key points
 
 - The document is National Executive Circular No. 121(a), issued by the Swatantra Party national headquarters.

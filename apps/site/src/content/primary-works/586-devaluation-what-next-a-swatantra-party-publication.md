@@ -59,6 +59,12 @@ summary: |-
   Masani’s central criticism is that devaluation was less a carefully chosen economic remedy than a bargain made to secure foreign aid and preserve the Fourth Five-Year Plan. He compares the country to an insolvent debtor and attacks the Second, Third, and proposed Fourth Plans for excessive emphasis on heavy industry, deficit financing, foreign borrowing, public-sector waste, taxation, and pervasive controls. In place of the existing policy, he calls for fiscal restraint, reduced taxation, selective imports of essential raw materials and maintenance equipment, postponement or recasting of the Fourth Plan, and the dismantling of import licensing and foreign-exchange controls. He closes by warning that without such changes the rupee could fall further and that economic failure might ultimately require a change of government.
 ---
 
+## Summary
+
+In this speech, delivered to the Progressive Group in Bombay on 15 June 1966, M. R. Masani explains devaluation as a recognition that the rupee had already lost value in international markets. He distinguishes the official claim that the rupee was devalued by 36.5 per cent from the roughly 57.5 per cent increase in the rupee cost of foreign currency. Masani argues that the policy was presented as a necessary response to inflation, declining exports, exhausted foreign-exchange reserves, and the loss of tourist earnings, but contends that these conditions resulted from earlier government policies.
+
+Masani’s central criticism is that devaluation was less a carefully chosen economic remedy than a bargain made to secure foreign aid and preserve the Fourth Five-Year Plan. He compares the country to an insolvent debtor and attacks the Second, Third, and proposed Fourth Plans for excessive emphasis on heavy industry, deficit financing, foreign borrowing, public-sector waste, taxation, and pervasive controls. In place of the existing policy, he calls for fiscal restraint, reduced taxation, selective imports of essential raw materials and maintenance equipment, postponement or recasting of the Fourth Plan, and the dismantling of import licensing and foreign-exchange controls. He closes by warning that without such changes the rupee could fall further and that economic failure might ultimately require a change of government.
+
 ## Key points
 
 - Devaluation is presented as an official acknowledgment of the rupee's prior loss of value rather than an entirely new economic event.

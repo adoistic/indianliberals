@@ -48,6 +48,10 @@ summary: |-
   This one-page Deccan Herald report, dated 15 May 1968, records Swatantra Party leader M. R. Masani's resignation from the party's Central Parliamentary Board and National Executive. In a letter to General Secretary N. Dandekar, Masani said he had decided to adhere to the action he had taken after resigning from party bodies in April, following the conduct of some Swatantra Party members during the Gujarat elections to the Rajya Sabha.
 ---
 
+## Summary
+
+This one-page Deccan Herald report, dated 15 May 1968, records Swatantra Party leader M. R. Masani's resignation from the party's Central Parliamentary Board and National Executive. In a letter to General Secretary N. Dandekar, Masani said he had decided to adhere to the action he had taken after resigning from party bodies in April, following the conduct of some Swatantra Party members during the Gujarat elections to the Rajya Sabha.
+
 ## Key points
 
 - M. R. Masani resigned from the Swatantra Party's Central Parliamentary Board and National Executive.

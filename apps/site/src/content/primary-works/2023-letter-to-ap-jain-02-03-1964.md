@@ -53,6 +53,12 @@ summary: |-
   The letter also passes along material for other Swatantra Party members to use in parliamentary debate. These additional matters concern alleged authoritarian conduct at the Vishwa-Bharati and Shantiniketan authorities, Bombay Port Trust tenders for dock expansion, the manufacture of motor cars and trucks, direct trade by the Handicrafts and Handloom Export Corporation, the working of the State Trading Corporation and Life Insurance Corporation, and flaws in the Employees’ Provident Scheme. The document records a programme of parliamentary scrutiny focused on administrative arbitrariness, public-sector performance, trade policy, transport, education, and government employment conditions.
 ---
 
+## Summary
+
+This one-page typed letter, dated March 2, 1964, is addressed to Mr. A.P. Jain at the Swatantra Party Parliamentary Group Office in New Delhi. The unidentified sender outlines proposed cut motions on the demands for grants of five ministries: External Affairs, Home Affairs, Education, Transport, and Finance. The proposed interventions challenge China policy, censorship of George Patterson’s book Delhi Vs Peking, the nationalisation of textbooks, inadequate road and road-transport development, and hardships faced by government employees in “C” class cities.
+
+The letter also passes along material for other Swatantra Party members to use in parliamentary debate. These additional matters concern alleged authoritarian conduct at the Vishwa-Bharati and Shantiniketan authorities, Bombay Port Trust tenders for dock expansion, the manufacture of motor cars and trucks, direct trade by the Handicrafts and Handloom Export Corporation, the working of the State Trading Corporation and Life Insurance Corporation, and flaws in the Employees’ Provident Scheme. The document records a programme of parliamentary scrutiny focused on administrative arbitrariness, public-sector performance, trade policy, transport, education, and government employment conditions.
+
 ## Key points
 
 - The letter is dated March 2, 1964, and was sent from 57 Lodi Estate, New Delhi, to Mr. A.P. Jain at the Swatantra Party Parliamentary Group Office.

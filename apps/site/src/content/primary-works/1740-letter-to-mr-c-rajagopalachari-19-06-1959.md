@@ -56,6 +56,12 @@ summary: |-
   Sodhians attacks Jawaharlal Nehru’s advocacy of cooperative farming, the Food Grains Corporation, and the public sector, arguing that these policies encourage state mismanagement and disregard practical agricultural and business knowledge. He criticizes the appointment of inexperienced officials and politically connected individuals to public-sector companies, and alleges that Congress leaders suppress disagreement. The letter then turns to the formation of the Swatantra Party: Sodhians congratulates Rajaji, Minoo Masani, and Prof. N. G. Ranga, offers to assist with its organization and funding, and urges a program to oppose Congress policies. He closes by recalling his opposition to the Lucknow Pact, expressing Punjabi grievances after Partition, and describing himself as a displaced person receiving no assistance from the Nehru government.
 ---
 
+## Summary
+
+In this five-page letter dated June 19, 1959, Sirdar P. S. Sodhians writes to C. Rajagopalachari (“Rajaji”) from New Delhi, recalling his work in the independence movement, his role in the political awakening of Sikhs, and his involvement in Punjab’s food policy and cooperative institutions. He presents himself as an economist and former public figure with experience in price control, economic planning, and oil prospecting, and contrasts that experience with what he regards as the incompetence of contemporary ministers and officials.
+
+Sodhians attacks Jawaharlal Nehru’s advocacy of cooperative farming, the Food Grains Corporation, and the public sector, arguing that these policies encourage state mismanagement and disregard practical agricultural and business knowledge. He criticizes the appointment of inexperienced officials and politically connected individuals to public-sector companies, and alleges that Congress leaders suppress disagreement. The letter then turns to the formation of the Swatantra Party: Sodhians congratulates Rajaji, Minoo Masani, and Prof. N. G. Ranga, offers to assist with its organization and funding, and urges a program to oppose Congress policies. He closes by recalling his opposition to the Lucknow Pact, expressing Punjabi grievances after Partition, and describing himself as a displaced person receiving no assistance from the Nehru government.
+
 ## Key points
 
 - Sodhians describes his long involvement in the independence movement, Congress politics, Sikh political organization, and public life.

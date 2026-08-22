@@ -54,6 +54,12 @@ summary: |-
   The committee further agreed to partition the premises shared by the Swatantra Party, the Adult Education Institute, and the Rajaji Foundation, with expenses to be divided equally between the party and the Adult Education Institute. Finally, it considered the Election Commission's notification on registration of political parties before 14 August 1989 and agreed to seek recognition of the Swatantra Party, Maharashtra, as a regional party; S. V. Raju was authorised to pursue the matter.
 ---
 
+## Summary
+
+This one-page set of minutes records the Swatantra Party, Maharashtra Executive Committee meeting held on 22 June 1989. The committee confirmed the previous minutes, discussed legal action concerning premises at 143 Mahatma Gandhi Road, and assigned L. R. Sampat and Nitin Raut to obtain independent legal opinions on Rent Act matters. It also addressed the alleged illegal occupation of party premises by Ratansinh Rajda and the Afternoon, and unauthorised electricity tapping by the Afternoon.
+
+The committee further agreed to partition the premises shared by the Swatantra Party, the Adult Education Institute, and the Rajaji Foundation, with expenses to be divided equally between the party and the Adult Education Institute. Finally, it considered the Election Commission's notification on registration of political parties before 14 August 1989 and agreed to seek recognition of the Swatantra Party, Maharashtra, as a regional party; S. V. Raju was authorised to pursue the matter.
+
 ## Key points
 
 - The meeting was held on 22 June 1989 at the Swatantra Party office in Maharashtra.

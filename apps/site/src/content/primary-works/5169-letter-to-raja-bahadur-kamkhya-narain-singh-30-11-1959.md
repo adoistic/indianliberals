@@ -47,6 +47,12 @@ summary: |-
   Masani says he is looking forward to seeing Singh at the meeting and suggests that they may then discuss the matters Singh had raised in his earlier letter. The page contains no further account of those matters, and no title, publisher, or place of publication is printed.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to Raja Bahadur Kamakhya Narain Singh is dated 30 November 1959. Masani acknowledges Singh’s letters of 18 and 20 November and refers to an invitation from Madras to attend a Central Organizing Committee meeting in Hyderabad on 9 and 10 December.
+
+Masani says he is looking forward to seeing Singh at the meeting and suggests that they may then discuss the matters Singh had raised in his earlier letter. The page contains no further account of those matters, and no title, publisher, or place of publication is printed.
+
 ## Key points
 
 - The letter is dated 30 November 1959.

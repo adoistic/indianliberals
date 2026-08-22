@@ -50,6 +50,10 @@ summary: |-
   This two-page English-language institutional record documents the educational eligibility and examination results of Vinod Raju. Page 1 is a provisional certificate issued by the Maharashtra State Board of Secondary and Higher Secondary Education, Pune Divisional Board, for admission to the first year of Junior College (Higher Secondary Standard XI). It states that the named candidate is eligible for provisional admission to a recognised institution, subject to submission of specified documents and later issuance of a final eligibility certificate.
 ---
 
+## Summary
+
+This two-page English-language institutional record documents the educational eligibility and examination results of Vinod Raju. Page 1 is a provisional certificate issued by the Maharashtra State Board of Secondary and Higher Secondary Education, Pune Divisional Board, for admission to the first year of Junior College (Higher Secondary Standard XI). It states that the named candidate is eligible for provisional admission to a recognised institution, subject to submission of specified documents and later issuance of a final eligibility certificate.
+
 ## Key points
 
 - The document records provisional eligibility for admission to First Year of Junior College, Higher Secondary Standard XI.

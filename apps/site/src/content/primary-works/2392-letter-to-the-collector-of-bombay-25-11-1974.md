@@ -51,6 +51,12 @@ summary: |-
   Raju asks the Collector to pursue the matter with V. P. Bhattia, identified as the former Executive Secretary of the Swatantra Party National Headquarters and the custodian of the relevant records. The letter is a narrowly administrative request concerning the clarification and settlement of outstanding tax records; no broader political or economic argument is developed.
 ---
 
+## Summary
+
+In this one-page letter dated 25 November 1974, S. V. Raju writes to the Collector of Bombay regarding the recovery of motor vehicle tax dues connected with jeeps formerly owned by the Swatantra Party. Raju states that the vehicles were bought by the party, believes they have since been sold, and recalls that the tax authorities were informed accordingly.
+
+Raju asks the Collector to pursue the matter with V. P. Bhattia, identified as the former Executive Secretary of the Swatantra Party National Headquarters and the custodian of the relevant records. The letter is a narrowly administrative request concerning the clarification and settlement of outstanding tax records; no broader political or economic argument is developed.
+
 ## Key points
 
 - The letter is dated 25 November 1974 and addressed to the Collector of Bombay.

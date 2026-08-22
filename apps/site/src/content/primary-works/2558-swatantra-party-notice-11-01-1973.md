@@ -50,6 +50,12 @@ summary: |-
   The listed agenda covers confirmation of the minutes of the previous meeting held on November 13, 1972; forthcoming municipal elections; and any other business permitted by the Chairman. The notice is signed by P. Narayan, identified as Office Secretary.
 ---
 
+## Summary
+
+This one-page English office notice, dated January 11, 1973, invites members to a meeting of the Swatantra Party Bombay Region Executive Committee. The meeting was scheduled for January 17, 1973, at 6:15 p.m. at the party office in Sassoon Building, 143 Mahatma Gandhi Road, Bombay-1.
+
+The listed agenda covers confirmation of the minutes of the previous meeting held on November 13, 1972; forthcoming municipal elections; and any other business permitted by the Chairman. The notice is signed by P. Narayan, identified as Office Secretary.
+
 ## Key points
 
 - The document is a meeting notice issued on January 11, 1973.

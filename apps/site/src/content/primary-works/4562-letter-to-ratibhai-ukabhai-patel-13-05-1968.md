@@ -48,6 +48,12 @@ summary: |-
   Masani also encloses a copy of his letter to Mr. Dandeker, in which he declines to withdraw his resignation and explains his reasons. He says that the letter is likely to be released to the press and may already have been published by the time Patel receives it. Handwritten annotations appear beside this passage and in the margin; their full wording is not consistently legible in the scan.
 ---
 
+## Summary
+
+In this one-page letter dated 13 May 1968, M. R. Masani thanks Ratibhai Ukabhai Patel for letters dated 17, 29, and 30 April and for the enclosures sent with them. Masani dismisses a report from Delhi in Jan Satta as “the usual mischief” and advises Patel not to take it seriously.
+
+Masani also encloses a copy of his letter to Mr. Dandeker, in which he declines to withdraw his resignation and explains his reasons. He says that the letter is likely to be released to the press and may already have been published by the time Patel receives it. Handwritten annotations appear beside this passage and in the margin; their full wording is not consistently legible in the scan.
+
 ## Key points
 
 - Masani acknowledges Patel’s letters of 17, 29, and 30 April and their accompanying enclosures.

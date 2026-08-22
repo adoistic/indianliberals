@@ -50,6 +50,12 @@ summary: |-
   Masani argues that the subsequent decision to deny Vaidya the nomination, allegedly after more than twenty Gujarat legislators joined the Congress Party to defeat the party's candidate, represents a breach of faith and a broader deterioration of democratic standards within the party. Accepting personal responsibility for having pledged the party's word, he tenders his resignation from the National Executive and Central Parliamentary Board, while affirming his support for Dandekar's work as General Secretary. The page records an internal party crisis centered on promises, discipline, defections, and political accountability.
 ---
 
+## Summary
+
+In this letter dated March 29, 1968, M. R. Masani writes to N. Dandekar about the Swatantra Party's losses in the Gujarat elections and the resignations of Bhailalbhai Patel and Jaideepsinghji Baria from party leadership in the state legislature. Masani recounts a 1966 agreement under which the Gujarat Independent Progressive Group supported the party's candidate, Dr. Beharilal Amr... [name incomplete in the rendered text], in exchange for a commitment that Babubhai Vaidya would receive the party's Rajya Sabha nomination in 1968. He states that the Central Parliamentary Board formally confirmed this commitment in Bombay.
+
+Masani argues that the subsequent decision to deny Vaidya the nomination, allegedly after more than twenty Gujarat legislators joined the Congress Party to defeat the party's candidate, represents a breach of faith and a broader deterioration of democratic standards within the party. Accepting personal responsibility for having pledged the party's word, he tenders his resignation from the National Executive and Central Parliamentary Board, while affirming his support for Dandekar's work as General Secretary. The page records an internal party crisis centered on promises, discipline, defections, and political accountability.
+
 ## Key points
 
 - Masani addresses the Swatantra Party's post-election crisis in Gujarat and the resignations of two state party leaders.

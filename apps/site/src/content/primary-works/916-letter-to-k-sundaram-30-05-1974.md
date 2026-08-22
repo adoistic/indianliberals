@@ -53,6 +53,12 @@ summary: |-
   Masani rejects, however, the proposal to dissolve the Swatantra Party merely to create a new grouping of Charan Singh, Biju Patnaik, Rajnarayan, Dr. Ram Subah Singh, and Balraj Madhok. He argues that excluding the Jan Sangh and Congress would preserve divided opposition votes and allow the Prime Minister’s party to benefit. He instead favours either dissolution for the specific purpose of strengthening Jayaprakash Narayan or postponement until a more comprehensive opposition consolidation nearer the 1976 parliamentary elections. The letter also asks Sundaram to consider the implications of dissolution for the party’s state-level properties and funds, and requests that treasurer Chitra S. Narayanaswamy defer his resignation until the national questions are settled.
 ---
 
+## Summary
+
+In this letter dated 30 May 1974, M. R. Masani writes to K. Sundaram ahead of the Swatantra Party General Council meeting scheduled for 9–10 June, where dissolution of the party is to be considered. Masani says he is not opposed to dissolution if it would strengthen Jayaprakash Narayan’s non-party People’s Action or produce a broad consolidation of non-Marxist parties, including the Jan Sangh and Congress (O), to challenge what he calls the British electoral system’s distortion of Indian politics.
+
+Masani rejects, however, the proposal to dissolve the Swatantra Party merely to create a new grouping of Charan Singh, Biju Patnaik, Rajnarayan, Dr. Ram Subah Singh, and Balraj Madhok. He argues that excluding the Jan Sangh and Congress would preserve divided opposition votes and allow the Prime Minister’s party to benefit. He instead favours either dissolution for the specific purpose of strengthening Jayaprakash Narayan or postponement until a more comprehensive opposition consolidation nearer the 1976 parliamentary elections. The letter also asks Sundaram to consider the implications of dissolution for the party’s state-level properties and funds, and requests that treasurer Chitra S. Narayanaswamy defer his resignation until the national questions are settled.
+
 ## Key points
 
 - Masani anticipates a decisive Swatantra Party meeting on whether to dissolve the party.

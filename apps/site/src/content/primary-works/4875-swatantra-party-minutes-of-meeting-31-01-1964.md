@@ -57,6 +57,12 @@ summary: |-
   The meeting considered and passed, with amendments, draft resolutions recommended by the Central Organising Committee. The listed subjects covered condolence, international relations and defence, termination of the Emergency, electoral reform, electoral understandings, a Swatantra alternative, state monopoly of banking, an independent non-political board for licences and permits, the Constitution (17th Amendment) Bill, amendments to the party constitution, the General Secretary's report, and states' rights. The meeting then adjourned until the following morning. The pages record the agenda and procedural outcomes but do not include the texts of the attached resolutions or any substantive debate.
 ---
 
+## Summary
+
+These three pages comprise the draft minutes of the Swatantra Party General Council meeting held at the West End Hotel on January 31, 1964, at 3 p.m., chaired by Prof. M. G. Ranga. The record begins with an extensive attendance list organised by state, followed by attendees present by special invitation. It confirms the minutes of the previous meeting held in Bombay on February 10, 1963, and records decisions to co-opt additional members to the General Council at the requests of the Rajasthan and Uttar Pradesh units.
+
+The meeting considered and passed, with amendments, draft resolutions recommended by the Central Organising Committee. The listed subjects covered condolence, international relations and defence, termination of the Emergency, electoral reform, electoral understandings, a Swatantra alternative, state monopoly of banking, an independent non-political board for licences and permits, the Constitution (17th Amendment) Bill, amendments to the party constitution, the General Secretary's report, and states' rights. The meeting then adjourned until the following morning. The pages record the agenda and procedural outcomes but do not include the texts of the attached resolutions or any substantive debate.
+
 ## Key points
 
 - The General Council meeting took place at the West End Hotel on January 31, 1964, at 3 p.m., with Prof. M. G. Ranga in the chair.

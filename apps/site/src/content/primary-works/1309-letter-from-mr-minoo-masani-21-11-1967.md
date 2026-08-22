@@ -50,6 +50,12 @@ summary: |-
   Masani also asks that N. Dandekar's name be appended to the question, since Dandekar wishes to join him in tabling it. The rendered pages contain only this parliamentary procedural request; they do not state the subject matter of the question itself.
 ---
 
+## Summary
+
+This two-page letter, dated 21 November 1967, is from M. R. Masani to the Secretary of the Lok Sabha. Masani follows up on his 20 November letter to the Speaker concerning Short Notice Question No. 55, addressed to the Minister of External Affairs, and requests that the question be placed at the top of the list for the Minister's answers on Monday, 27 November.
+
+Masani also asks that N. Dandekar's name be appended to the question, since Dandekar wishes to join him in tabling it. The rendered pages contain only this parliamentary procedural request; they do not state the subject matter of the question itself.
+
 ## Key points
 
 - The letter is dated 21 November 1967 and addressed to the Secretary of the Lok Sabha.

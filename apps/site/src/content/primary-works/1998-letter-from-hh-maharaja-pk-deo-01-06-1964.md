@@ -50,6 +50,12 @@ summary: |-
   The letter also raises an internal financial and equal-treatment issue. Deo states that office records show Sardar Kapur Singh in arrears of Rs. 140 in party contributions, while paying only Rs. 20 per month compared with Rs. 40 for others. He calls for the earlier decision to be reconsidered and argues that members claiming equal privileges should contribute equally to the party fund. A handwritten note on the second page records that a copy was sent to M. R. Masani.
 ---
 
+## Summary
+
+This two-page English letter, dated 1 June 1964 and signed by H.H. Maharaja P.K. Deo, is addressed to the Leader of the Swatantra Party in Parliament. Deo objects to the conduct of S. Kapur Singh, the secretary of the party’s parliamentary group, who expressed condolences on behalf of the Akali Party during obituary references to the recently deceased Prime Minister. Deo argues that the Akali members had joined the Swatantra Party and warns that such actions could encourage other members elected under different party symbols to claim similar standing, ultimately weakening the Swatantra presence in Parliament.
+
+The letter also raises an internal financial and equal-treatment issue. Deo states that office records show Sardar Kapur Singh in arrears of Rs. 140 in party contributions, while paying only Rs. 20 per month compared with Rs. 40 for others. He calls for the earlier decision to be reconsidered and argues that members claiming equal privileges should contribute equally to the party fund. A handwritten note on the second page records that a copy was sent to M. R. Masani.
+
 ## Key points
 
 - Deo protests S. Kapur Singh’s expression of condolences on behalf of the Akali Party in Parliament.

@@ -54,6 +54,12 @@ summary: |-
   The members' views reveal a sharp division. Several opposed merger unless other parties accepted Swatantra's principles, warning that the party might lose its identity or be compromised by alliances with regional parties such as BKD, SSP, and Utkal Congress. Others supported merger as necessary in the prevailing political situation, or accepted it in principle while urging caution. The meeting concluded by directing that a summary of the discussion be prepared for the National Executive, which might refer the matter to the General Council.
 ---
 
+## Summary
+
+These four-page minutes record an urgent meeting of the Swatantra Party, Maharashtra, held in Bombay on 27 April 1974 to consider a proposed merger with other democratic parties. The meeting followed a National Executive resolution exploring the possibility of a two-party system in India and press reports that eight parties, including Swatantra, had agreed to merge. Madhu Mehta clarified that no immediate merger had been decided and that the press reports were inaccurate; instead, Piloo Mody was to consult Charan Singh and others about a minimum common programme for cooperation.
+
+The members' views reveal a sharp division. Several opposed merger unless other parties accepted Swatantra's principles, warning that the party might lose its identity or be compromised by alliances with regional parties such as BKD, SSP, and Utkal Congress. Others supported merger as necessary in the prevailing political situation, or accepted it in principle while urging caution. The meeting concluded by directing that a summary of the discussion be prepared for the National Executive, which might refer the matter to the General Council.
+
 ## Key points
 
 - The Maharashtra State Council met urgently to discuss a proposed merger of the Swatantra Party with other democratic parties.

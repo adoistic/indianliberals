@@ -53,6 +53,12 @@ summary: |-
   The writer proposes practical remedies, including circulating party literature in local languages, appointing full-time organisers, activating local offices, and requiring party leaders to tour widely and meet ordinary people. The letter concludes that, if the party cannot revive itself, its leadership should consider merging with another party committed to democratic principles. The Gujarati pages appear to continue the discussion of party organisation, leadership, elections, and the need for renewed public engagement, but the handwriting and date are less fully legible.
 ---
 
+## Summary
+
+This untitled bilingual correspondence from the Surat Swatantra Party consists of an English handwritten letter dated 25 March 1974 and a Gujarati letter on party letterhead, apparently addressed to M. R. Masani. The English letter argues that the party failed to consolidate the support it received in the 1967 elections: its leaders did not strengthen party organisation, build local units, or maintain contact with the public. It attributes the party’s weakening position in Gujarat and Orissa to organisational neglect and the absence of sustained political work.
+
+The writer proposes practical remedies, including circulating party literature in local languages, appointing full-time organisers, activating local offices, and requiring party leaders to tour widely and meet ordinary people. The letter concludes that, if the party cannot revive itself, its leadership should consider merging with another party committed to democratic principles. The Gujarati pages appear to continue the discussion of party organisation, leadership, elections, and the need for renewed public engagement, but the handwriting and date are less fully legible.
+
 ## Key points
 
 - The letter reflects on the Swatantra Party’s strong public support in the 1967 elections and its subsequent organisational decline.

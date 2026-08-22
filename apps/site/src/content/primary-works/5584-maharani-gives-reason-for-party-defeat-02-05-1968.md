@@ -49,6 +49,12 @@ summary: |-
   The clipping further records allegations of ballot-box tampering and complaints receiving no justice from the ruling party. Gayatri Devi said Congress had fought the elections on the basis of casteism, with ministers courting voters from their own castes and communities. In response to a question about whether the defeat reflected declining influence of the House of Jaipur, she rejected that interpretation. The clipping does not identify the newspaper, its author, or a printed publication date; the handwritten date on the archival sheet is uncertain.
 ---
 
+## Summary
+
+This one-page English newspaper clipping reports remarks by Maharani Gayatri Devi at a press conference in Jaipur about the Swatantra Party’s defeat in two Rajasthan by-elections. She attributed the losses primarily to inadequate resources, poor organisation, too few workers and vehicles, and difficulties getting voters to polling stations. She also alleged that Congress benefited from government vehicles, drivers and officials, and that pressure had been placed on volunteers not to support opposition candidates.
+
+The clipping further records allegations of ballot-box tampering and complaints receiving no justice from the ruling party. Gayatri Devi said Congress had fought the elections on the basis of casteism, with ministers courting voters from their own castes and communities. In response to a question about whether the defeat reflected declining influence of the House of Jaipur, she rejected that interpretation. The clipping does not identify the newspaper, its author, or a printed publication date; the handwritten date on the archival sheet is uncertain.
+
 ## Key points
 
 - Maharani Gayatri Devi attributed the Swatantra Party’s defeat in two Rajasthan by-elections to poor organisation and insufficient resources.

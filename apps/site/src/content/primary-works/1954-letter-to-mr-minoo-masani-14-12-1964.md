@@ -51,6 +51,12 @@ summary: |-
   The letter also addresses parliamentary arrangements for the Gold Control Bill. Since Minoo Masani preferred to speak at the consideration stage rather than nominate himself to the Select Committee, the Party proposes nominating Mr. Solanki to the committee. Jain notes that the final decision would be taken at the Party's executive committee meeting on 14 December. A postscript records that a copy of P. K. Deo's speech on the production of motor cars was enclosed.
 ---
 
+## Summary
+
+This untitled letter, dated 14 December 1964 and signed by A.P. Jain of the Swatantra Party Parliamentary Office, explains the Party's position during debate on Prakash Vir Shastri's bill concerning Articles 370, 356, and 352 of the Constitution. Jain states that the Party leadership believed the Government was already considering amendments to the provisions relating to Kashmir and therefore concluded that it would not be advisable for Swatantra Party members to vote against the Bill. He clarifies that the Party's members had left the House before the vote, despite press reports describing unanimity among all parties.
+
+The letter also addresses parliamentary arrangements for the Gold Control Bill. Since Minoo Masani preferred to speak at the consideration stage rather than nominate himself to the Select Committee, the Party proposes nominating Mr. Solanki to the committee. Jain notes that the final decision would be taken at the Party's executive committee meeting on 14 December. A postscript records that a copy of P. K. Deo's speech on the production of motor cars was enclosed.
+
 ## Key points
 
 - The letter is dated 14 December 1964 and is addressed to Minoo Masani.

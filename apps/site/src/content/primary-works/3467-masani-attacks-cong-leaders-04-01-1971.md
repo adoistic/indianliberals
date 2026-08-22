@@ -52,6 +52,12 @@ summary: |-
   In the continuation, Masani says he lacks authority to accept the proposal on behalf of his party and will place it before the Swatantra Party’s national executive in Madras on January 13. He rejects the suggestion that Morarji Desai caused Congress (O)’s allegedly indecisive position, identifies the SSP as responsible for the proposal, and describes his discussions with opposition leaders as disappointing. The clippings also contain unrelated brief reports on an Indian delegation to a Congress of Orientalists, an embassy appointment, a Tamil Nadu legislative prorogation, housing in Jaipur, criticism of socialist slogans, and a communication course for block officers.
 ---
 
+## Summary
+
+This 3 January 1971 National Herald report describes M. R. Masani’s opposition to a proposed electoral alliance involving the Swatantra Party, Congress (O), and the Jana Sangh. Masani argues that Swatantra’s established position is to provide a democratic alternative to the government and that any alliance should rest on a concrete programme and an agreed candidate in each constituency, rather than on a merely electoral arrangement.
+
+In the continuation, Masani says he lacks authority to accept the proposal on behalf of his party and will place it before the Swatantra Party’s national executive in Madras on January 13. He rejects the suggestion that Morarji Desai caused Congress (O)’s allegedly indecisive position, identifies the SSP as responsible for the proposal, and describes his discussions with opposition leaders as disappointing. The clippings also contain unrelated brief reports on an Indian delegation to a Congress of Orientalists, an embassy appointment, a Tamil Nadu legislative prorogation, housing in Jaipur, criticism of socialist slogans, and a communication course for block officers.
+
 ## Key points
 
 - M. R. Masani criticizes Congress (O) leaders over a proposed opposition alliance.

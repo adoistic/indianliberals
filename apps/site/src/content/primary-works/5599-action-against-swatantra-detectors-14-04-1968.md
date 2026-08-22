@@ -52,6 +52,12 @@ summary: |-
   The report says the party’s executive also decided to seek an explanation from Shri M. R. Masani and appealed to him to resign from the party’s top post. It records an exchange between Masani and the party leadership, notes that the executive condemned defections in Gujarat and Madhya Pradesh, and reports that the Swatantra Party rejected a legislative measure concerning the functioning of an insurance company as unjustified interference. The article further says the party planned to appeal to insurers, the public, and insurance agents to defend their rights.
 ---
 
+## Summary
+
+This Free Press Journal news report, dated April 15, 1968, describes disciplinary action proposed by the Swatantra Party’s National Executive against party members associated with electoral defections. The action targets Shri C. C. Desai for sponsoring Shri Mahida’s candidacy for the Rajya Sabha, which allegedly contributed to the defeat of the official party candidate, and Shri Chandrakant Parikh, identified as the polling agent in that contest.
+
+The report says the party’s executive also decided to seek an explanation from Shri M. R. Masani and appealed to him to resign from the party’s top post. It records an exchange between Masani and the party leadership, notes that the executive condemned defections in Gujarat and Madhya Pradesh, and reports that the Swatantra Party rejected a legislative measure concerning the functioning of an insurance company as unjustified interference. The article further says the party planned to appeal to insurers, the public, and insurance agents to defend their rights.
+
 ## Key points
 
 - The Swatantra Party’s National Executive unanimously recommended disciplinary proceedings against members connected with Shri Mahida’s Rajya Sabha candidacy.

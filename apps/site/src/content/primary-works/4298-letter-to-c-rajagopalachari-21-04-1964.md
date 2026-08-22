@@ -52,6 +52,12 @@ summary: |-
   Masani also discusses Kashmir, forwarding Rajagopalachari’s article “Am I Wrong?” to Sheikh Abdullah and criticizing the Government’s release of Abdullah and its conformist position on accession. He explains a decision with Ranga to postpone a C.O.C. meeting until June, and describes his restraint during the Finance Bill debate after his parliamentary group advised him not to raise the Kashmir issue unless challenged. The letter closes with disappointment over the Arupukottai by-election and concern for Rajagopalachari’s health.
 ---
 
+## Summary
+
+In this letter dated 21 April 1964, Minoo Masani thanks C. Rajagopalachari for recent communications and describes them as encouraging amid the pressure of the Finance Bill and parliamentary business. He reports that an assistant professor in North India has decided to join the Swatantra Party partly because of the line Masani and Rajagopalachari have taken, presenting this as evidence that their political position is attracting support.
+
+Masani also discusses Kashmir, forwarding Rajagopalachari’s article “Am I Wrong?” to Sheikh Abdullah and criticizing the Government’s release of Abdullah and its conformist position on accession. He explains a decision with Ranga to postpone a C.O.C. meeting until June, and describes his restraint during the Finance Bill debate after his parliamentary group advised him not to raise the Kashmir issue unless challenged. The letter closes with disappointment over the Arupukottai by-election and concern for Rajagopalachari’s health.
+
 ## Key points
 
 - Masani writes from 57 Lodhi Estate, New Delhi, on 21 April 1964, to C. Rajagopalachari.

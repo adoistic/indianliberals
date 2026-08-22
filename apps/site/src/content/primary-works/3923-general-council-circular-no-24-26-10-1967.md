@@ -55,6 +55,12 @@ summary: |-
   The circular also handles the practical administration of attendance. Members are asked to notify the Delhi Pradesh unit of their attendance and arrival details, including air or rail travel, accommodation, and return travel. The enclosures provide an attendance and travel questionnaire and a return-journey reservation form requesting destination, route, class, seats or berths, fare, and ticket information. The document is signed by N. Dandeker as Officiating General Secretary.
 ---
 
+## Summary
+
+Dated October 26, 1967, this Swatantra Party Central Office circular congratulates newly elected General Council members and announces the Council's forthcoming meeting at Vitthalbhai Patel Bhavan, New Delhi, on November 25–26. The meeting's agenda includes confirming earlier minutes, electing national office-bearers and 20 members of the National Executive, reviewing party organisation, considering current national and international problems and the Party's position on them, and taking up other matters referred by the outgoing Executive or permitted by the Chair.
+
+The circular also handles the practical administration of attendance. Members are asked to notify the Delhi Pradesh unit of their attendance and arrival details, including air or rail travel, accommodation, and return travel. The enclosures provide an attendance and travel questionnaire and a return-journey reservation form requesting destination, route, class, seats or berths, fare, and ticket information. The document is signed by N. Dandeker as Officiating General Secretary.
+
 ## Key points
 
 - The circular is dated October 26, 1967 and issued by the Swatantra Party Central Office in Bombay.

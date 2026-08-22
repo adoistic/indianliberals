@@ -48,6 +48,12 @@ summary: |-
   Masani says Rajaji will receive a copy of the letter to Dandekar around that time, together with an advance copy of the version being sent to members of the General Council. He adds that these materials will provide the documentation Rajaji may need, looks forward to seeing him on 1 June after his return, and closes with a personal expression of concern and encouragement.
 ---
 
+## Summary
+
+This untitled letter, dated 6 May 1968, is from M. R. Masani to C. Rajagopalachari (“Rajaji”). Masani informs Rajaji that he is leaving for Europe on 8 May and explains that, because the Haryana elections are scheduled for 13 and 14 May, he will delay sending his letter to N. Dandekar and arranging its publication until 15 May, in order to avoid adverse repercussions at the polls.
+
+Masani says Rajaji will receive a copy of the letter to Dandekar around that time, together with an advance copy of the version being sent to members of the General Council. He adds that these materials will provide the documentation Rajaji may need, looks forward to seeing him on 1 June after his return, and closes with a personal expression of concern and encouragement.
+
 ## Key points
 
 - The letter is dated 6 May 1968 and is addressed to C. Rajagopalachari.

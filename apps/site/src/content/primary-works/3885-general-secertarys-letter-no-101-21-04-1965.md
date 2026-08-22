@@ -51,6 +51,12 @@ summary: |-
   The letter also proposes a panel of translators paid by assignment rather than salary, with the Central Office bearing translation costs. It asks State units to provide information about functioning district committees so that leaflet supplies can be allocated accordingly. Short leaflets would be supplied free of cost, while the cost of larger booklets would be shared 25 percent by the Central Office and 75 percent by the State, subject to a maximum initial print order of 10,000 copies.
 ---
 
+## Summary
+
+In this letter dated 21 April 1965, Swatantra Party General Secretary M. R. Masani sets out a plan for translating and distributing party literature in regional languages. The proposal distinguishes between short, topical two-page leaflets for broad public circulation and longer booklets devoted to parliamentary speeches or fundamental policy questions. Regional units are invited to identify useful subjects and submit English-language material for consideration by the Central Office's Publicity Wing.
+
+The letter also proposes a panel of translators paid by assignment rather than salary, with the Central Office bearing translation costs. It asks State units to provide information about functioning district committees so that leaflet supplies can be allocated accordingly. Short leaflets would be supplied free of cost, while the cost of larger booklets would be shared 25 percent by the Central Office and 75 percent by the State, subject to a maximum initial print order of 10,000 copies.
+
 ## Key points
 
 - The Publicity Wing proposes publishing short leaflets and longer policy or parliamentary booklets.

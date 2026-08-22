@@ -53,6 +53,12 @@ summary: |-
   Dandekar distinguishes between an earlier political-level discussion invited by the Prime Minister, which the party declined, and the proposed discussion with the Planning Commission. Raju reports that, in Dandekar’s view, boycotting the former does not necessarily require boycotting the latter, and says he is passing these views on to Ranga ji as well.
 ---
 
+## Summary
+
+In this one-page letter dated July 18, 1968, S. V. Raju writes to Minoo Masani about whether the Swatantra Party should accept an invitation from the Planning Commission. Raju relays N. Dandekar’s view that the decision should be postponed until it can be discussed at the party’s parliamentary group meeting in Delhi on July 22.
+
+Dandekar distinguishes between an earlier political-level discussion invited by the Prime Minister, which the party declined, and the proposed discussion with the Planning Commission. Raju reports that, in Dandekar’s view, boycotting the former does not necessarily require boycotting the latter, and says he is passing these views on to Ranga ji as well.
+
 ## Key points
 
 - The letter concerns a Swatantra Party decision about an invitation involving the Planning Commission.

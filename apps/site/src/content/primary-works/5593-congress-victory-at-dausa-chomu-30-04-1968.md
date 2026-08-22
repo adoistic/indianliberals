@@ -49,6 +49,12 @@ summary: |-
   The report adds that Congress led Swatantra by a narrow margin in the Assembly poll, while noting that the contest involved prominent members of a princely family. It describes the results as a setback for the Swatantra Party in the Jaipur region and briefly compares the Congress and Swatantra vote totals. The clipping is a single news report; no newspaper masthead or publication title is visible.
 ---
 
+## Summary
+
+This English newspaper report, datelined Jaipur, April 29, reports Congress victories in both the Dausa parliamentary constituency and the Chomu Assembly constituency, seats previously held by the Swatantra Party. It attributes the Dausa result to Mr Nawal Kishore Sharma of Congress, who defeated a Swatantra candidate by a margin of 6,327 votes, and reports that the Congress candidate Mr Ram Kishore defeated the Swatantra-backed independent candidate at Chomu by 3,800 votes.
+
+The report adds that Congress led Swatantra by a narrow margin in the Assembly poll, while noting that the contest involved prominent members of a princely family. It describes the results as a setback for the Swatantra Party in the Jaipur region and briefly compares the Congress and Swatantra vote totals. The clipping is a single news report; no newspaper masthead or publication title is visible.
+
 ## Key points
 
 - Congress won both the Dausa parliamentary seat and the Chomu Assembly seat.

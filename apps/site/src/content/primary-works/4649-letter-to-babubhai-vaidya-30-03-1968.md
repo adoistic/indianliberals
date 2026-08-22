@@ -47,6 +47,12 @@ summary: |-
   The letter requests that Vaidya come immediately to 2 Tughlaq Road, New Delhi 11. The document does not state a title, publisher, or institutional letterhead; it preserves the typed message, date, “confirmation copy” notation, and handwritten signature.
 ---
 
+## Summary
+
+This single-page typed confirmation copy, dated 30 March 1968, is addressed to Babubhai Vaidya in Rajkot and signed “MASANI.” The writer asks Vaidya to comment on allegations made by interested parties that he has been conducting propaganda against the Swatantra Party and is a communist.
+
+The letter requests that Vaidya come immediately to 2 Tughlaq Road, New Delhi 11. The document does not state a title, publisher, or institutional letterhead; it preserves the typed message, date, “confirmation copy” notation, and handwritten signature.
+
 ## Key points
 
 - The document is a one-page confirmation copy of a political letter.

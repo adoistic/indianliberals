@@ -54,6 +54,12 @@ summary: |-
   The remainder of the letter provides practical instructions for attendance. It identifies H. P. Nanda as chairman of the Convention Committee, explains hotel and free Dharmashala accommodation, gives deadlines and procedures for rail and air reservations, and describes reception arrangements at Delhi Junction, New Delhi Station, and the airport. Only duly accredited delegates may attend; the enclosures supply a hotel-rate list, a return-journey reservation form, and a specimen authorisation form. The Central Office was to operate temporarily in New Delhi from December 5 through December 13, 1966.
 ---
 
+## Summary
+
+This letter from M. R. Masani, General Secretary of the Swatantra Party, communicates arrangements for the party’s National Convention in New Delhi on December 12–13, 1966. It sets out the schedule: a closed session on the Secretary’s report on party organisation, an inaugural session, an open session to consider the draft Election Manifesto and resolutions, and a public meeting at Ramlila Grounds. Delegates are instructed to submit proposed amendments and resolutions by specified November deadlines.
+
+The remainder of the letter provides practical instructions for attendance. It identifies H. P. Nanda as chairman of the Convention Committee, explains hotel and free Dharmashala accommodation, gives deadlines and procedures for rail and air reservations, and describes reception arrangements at Delhi Junction, New Delhi Station, and the airport. Only duly accredited delegates may attend; the enclosures supply a hotel-rate list, a return-journey reservation form, and a specimen authorisation form. The Central Office was to operate temporarily in New Delhi from December 5 through December 13, 1966.
+
 ## Key points
 
 - The Swatantra Party’s National Convention was scheduled for December 12–13, 1966, in New Delhi.

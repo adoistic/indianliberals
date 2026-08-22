@@ -52,6 +52,12 @@ summary: |-
   The principal business was a resolution concerning Current Account No. 29302 of the Swatantra Party, Maharashtra, held with the Union Bank of India’s Bombay Samachar Marg Branch. The resolution authorises the account to be operated by any two of the four named committee members. The meeting then concluded with a vote of thanks to the chair. Handwritten signatures appear at the foot of the document.
 ---
 
+## Summary
+
+These two pages are draft minutes of a special meeting of the Executive Committee of the Swatantra Party, Maharashtra, held on 16 November 1993 at the party office at 143 Mahatma Gandhi Road, Bombay. The record identifies J. Venkiteswaran as chair and lists L. R. Sampat, S. V. Raju, and K. H. Subramaniam as present.
+
+The principal business was a resolution concerning Current Account No. 29302 of the Swatantra Party, Maharashtra, held with the Union Bank of India’s Bombay Samachar Marg Branch. The resolution authorises the account to be operated by any two of the four named committee members. The meeting then concluded with a vote of thanks to the chair. Handwritten signatures appear at the foot of the document.
+
 ## Key points
 
 - The document records a special meeting of the Swatantra Party, Maharashtra Executive Committee held on 16 November 1993.

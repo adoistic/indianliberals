@@ -49,6 +49,12 @@ summary: |-
   The letter outlines a Bihar State Convention to be held at Hazaribagh in mid-December, preceded and followed by a tour and enrolment drive. It also seeks an early meeting to discuss concrete steps for work in Chotanagpur and asks Masani to help place the Jharkhand problem in its proper perspective. The sender's handwritten signature is not securely legible, and no typed name identifies the author.
 ---
 
+## Summary
+
+This single-page English letter, dated 20 October 1959 and written from Kameshwar House, Patna, reports plans for an organisational campaign in Bihar after the rainy season. The sender asks M. R. Masani to contribute the energy and experience gained from his tour of the Continent.
+
+The letter outlines a Bihar State Convention to be held at Hazaribagh in mid-December, preceded and followed by a tour and enrolment drive. It also seeks an early meeting to discuss concrete steps for work in Chotanagpur and asks Masani to help place the Jharkhand problem in its proper perspective. The sender's handwritten signature is not securely legible, and no typed name identifies the author.
+
 ## Key points
 
 - The letter is dated 20 October 1959 and is addressed to Sri M. R. Masani.

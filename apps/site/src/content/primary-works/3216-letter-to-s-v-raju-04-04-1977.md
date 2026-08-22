@@ -45,6 +45,10 @@ summary: |-
   This one-page letter, dated April 4, 1977, is from M. R. Masani to S. V. Raju. Masani acknowledges Raju’s April 1 letter and notes that Parmanand Kejriwal and Girish Munshi have made a similar request. In response to their unanimous request, Masani agrees to act as arbitrator.
 ---
 
+## Summary
+
+This one-page letter, dated April 4, 1977, is from M. R. Masani to S. V. Raju. Masani acknowledges Raju’s April 1 letter and notes that Parmanand Kejriwal and Girish Munshi have made a similar request. In response to their unanimous request, Masani agrees to act as arbitrator.
+
 ## Key points
 
 - The letter is dated April 4, 1977, and was written from Masani’s Bombay address.

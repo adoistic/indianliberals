@@ -49,6 +49,10 @@ summary: |-
   This one-page Times of India report, dated New Delhi March 20, 1971, describes the Swatantra Party's decision not to form a parliamentary bloc or front with its alliance partners. M. R. Masani, speaking after a meeting of the party's Central Parliamentary Board, said the idea of a bloc was no longer worth pursuing and instructed Swatantra members to function independently while articulating the party's distinct policies. The report notes that the board rejected a merger with the Jana Sangh and Samyukta Socialist Party, although it allowed cooperation on particular issues.
 ---
 
+## Summary
+
+This one-page Times of India report, dated New Delhi March 20, 1971, describes the Swatantra Party's decision not to form a parliamentary bloc or front with its alliance partners. M. R. Masani, speaking after a meeting of the party's Central Parliamentary Board, said the idea of a bloc was no longer worth pursuing and instructed Swatantra members to function independently while articulating the party's distinct policies. The report notes that the board rejected a merger with the Jana Sangh and Samyukta Socialist Party, although it allowed cooperation on particular issues.
+
 ## Key points
 
 - The Swatantra Party decided against forming a parliamentary bloc or front with its alliance partners.

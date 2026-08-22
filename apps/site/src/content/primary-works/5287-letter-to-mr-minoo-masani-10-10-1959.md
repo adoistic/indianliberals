@@ -48,6 +48,12 @@ summary: |-
   The letter also asks Masani to arrange the dispatch of Hindi-language materials to Dwivedi and refers to forthcoming party activity or tours involving places including Agra, Bhopal, Madras, and Nagpur. The writer signs only as “Ranga,” whose full identity is not established in the rendered pages.
 ---
 
+## Summary
+
+This handwritten letter, dated 10 October 1959 and sent from Nidubrolu to M. R. Masani, concerns recruitment for the newly formed Swatantra Party. The writer reports that Dr. D. N. Dwivedi, described as an advocate from Hyderabad, has offered to join the party and is presented as a valuable acquisition.
+
+The letter also asks Masani to arrange the dispatch of Hindi-language materials to Dwivedi and refers to forthcoming party activity or tours involving places including Agra, Bhopal, Madras, and Nagpur. The writer signs only as “Ranga,” whose full identity is not established in the rendered pages.
+
 ## Key points
 
 - The letter is dated 10 October 1959 and originates from Nidubrolu.

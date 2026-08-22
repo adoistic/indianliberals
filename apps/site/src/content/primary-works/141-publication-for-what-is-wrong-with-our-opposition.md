@@ -56,6 +56,12 @@ summary: |-
   In the rendered pages, Masani attributes this failure to fragmentation among opposition groups, whose ideological differences prevent the emergence of a durable United Opposition Front. He contrasts non-Communist parties’ positions on China, international affairs, and economic policy with those of the Communists, and presents the Swatantra Party as the principal defender of individual liberty, competitive free enterprise, and resistance to statist collectivism. The essay concludes, in the rendered pages, by calling for improved party organisation, disciplined cadres, and correction of deficiencies among party functionaries; the supplied scan includes printed pages 1, 2, and 4, with page 3 absent.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that an effective opposition is a basic requirement of parliamentary democracy. He assigns it two functions: scrutinising government policy and conduct, and presenting itself as an alternative government capable of winning a public mandate. He contends that India’s opposition parties perform the first function to a considerable extent but have failed to offer a credible alternative to the Congress government.
+
+In the rendered pages, Masani attributes this failure to fragmentation among opposition groups, whose ideological differences prevent the emergence of a durable United Opposition Front. He contrasts non-Communist parties’ positions on China, international affairs, and economic policy with those of the Communists, and presents the Swatantra Party as the principal defender of individual liberty, competitive free enterprise, and resistance to statist collectivism. The essay concludes, in the rendered pages, by calling for improved party organisation, disciplined cadres, and correction of deficiencies among party functionaries; the supplied scan includes printed pages 1, 2, and 4, with page 3 absent.
+
 ## Key points
 
 - Masani defines an effective opposition as both a critic of government and an alternative government.

@@ -48,6 +48,10 @@ summary: |-
   This three-page English-language reference document is a numbered directory of 34 business houses and industrialists in Bombay City. Each entry identifies an individual, associated firm, address, and business activity. The listings cover grain, cotton, salt, spice, paper, iron and steel, bullion, coal, machinery, automobiles, engineering, insurance, sugar, textiles, metalware, jewellery, and import-export businesses.
 ---
 
+## Summary
+
+This three-page English-language reference document is a numbered directory of 34 business houses and industrialists in Bombay City. Each entry identifies an individual, associated firm, address, and business activity. The listings cover grain, cotton, salt, spice, paper, iron and steel, bullion, coal, machinery, automobiles, engineering, insurance, sugar, textiles, metalware, jewellery, and import-export businesses.
+
 ## Key points
 
 - The directory contains 34 numbered business listings across three printed pages.

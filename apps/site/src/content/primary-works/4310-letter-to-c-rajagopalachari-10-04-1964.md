@@ -53,6 +53,12 @@ summary: |-
   Masani proposes two alternatives: convening the Parliamentary Board or Central Organising Committee to reach a binding collective decision, or having Rajagopalachari, Masani, and like-minded colleagues speak repeatedly in support of their position while allowing dissenters the same freedom of expression. He prefers continued public advocacy, while acknowledging that divergent voices could embarrass the party. The letter also seeks Rajagopalachari’s advice on Masani’s forthcoming parliamentary speech, including whether to support Abdullah’s statement and criticise the present Prime Minister and leadership as incapable of meeting the challenges facing India.
 ---
 
+## Summary
+
+In this two-page letter dated April 10, 1964, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about an emerging dispute within the Swatantra Party over its position on Kashmir. Masani criticises what he sees as attempts by Andhra politicians to exploit Rajagopalachari, refers to press coverage of Piloo Mody’s repudiation of Gayatri Devi’s statement, and worries that public disagreement is undermining the party’s agreed foreign-policy position. He argues that the party as a whole must clarify whether it supports a particular formula for resolving the Kashmir question.
+
+Masani proposes two alternatives: convening the Parliamentary Board or Central Organising Committee to reach a binding collective decision, or having Rajagopalachari, Masani, and like-minded colleagues speak repeatedly in support of their position while allowing dissenters the same freedom of expression. He prefers continued public advocacy, while acknowledging that divergent voices could embarrass the party. The letter also seeks Rajagopalachari’s advice on Masani’s forthcoming parliamentary speech, including whether to support Abdullah’s statement and criticise the present Prime Minister and leadership as incapable of meeting the challenges facing India.
+
 ## Key points
 
 - Masani seeks Rajagopalachari’s guidance on a Swatantra Party dispute concerning Kashmir.

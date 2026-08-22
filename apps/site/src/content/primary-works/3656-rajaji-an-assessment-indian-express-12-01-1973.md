@@ -52,6 +52,12 @@ summary: |-
   The accompanying clipping, by Sol Sanders, presents a biographical and political assessment of Rajagopalachari shortly after his death. It contrasts Rajaji with Harry Truman while emphasizing their shared independence, political conviction, and resistance to prevailing orthodoxies. The article discusses Rajaji’s views on Indian politics, socialism, nuclear weapons, world government, economic development, industrialisation, urban congestion, and the dangers of “anti-progress” rhetoric. These materials document both the Swatantra Party’s efforts to preserve a record of Rajaji’s final public period and a contemporary liberal interpretation of his political legacy.
 ---
 
+## Summary
+
+This two-page English document combines a January 6, 1973 administrative letter from S. V. Raju, Executive Secretary of the Swatantra Party, with an Indian Express clipping dated January 12, 1973, titled “Rajaji—an assessment.” The letter asks the newspaper’s circulation manager to supply four copies of issues published between December 20, when C. Rajagopalachari was admitted to hospital, and January 4, for the party’s forthcoming National Convention. It is written from the Swatantra Party’s national headquarters in Bombay.
+
+The accompanying clipping, by Sol Sanders, presents a biographical and political assessment of Rajagopalachari shortly after his death. It contrasts Rajaji with Harry Truman while emphasizing their shared independence, political conviction, and resistance to prevailing orthodoxies. The article discusses Rajaji’s views on Indian politics, socialism, nuclear weapons, world government, economic development, industrialisation, urban congestion, and the dangers of “anti-progress” rhetoric. These materials document both the Swatantra Party’s efforts to preserve a record of Rajaji’s final public period and a contemporary liberal interpretation of his political legacy.
+
 ## Key points
 
 - S. V. Raju writes from Swatantra Party headquarters in Bombay on January 6, 1973.

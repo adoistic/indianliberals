@@ -46,6 +46,12 @@ summary: |-
   The letter is purely administrative and courteous: Srinivasan expresses hope that Rajagopalachari will be able to use the enclosed transcript and records that one enclosure is attached. No substantive argument or political position is presented in the visible page.
 ---
 
+## Summary
+
+This one-page typed letter from the Bombay Region office is addressed to C. Rajagopalachari (“Rajaji”) and signed by K. S. Srinivasan, identified as Office Secretary. Dated 19 February 1965, it forwards a transcription of a speech Rajagopalachari delivered at Chowpathy on 14 February.
+
+The letter is purely administrative and courteous: Srinivasan expresses hope that Rajagopalachari will be able to use the enclosed transcript and records that one enclosure is attached. No substantive argument or political position is presented in the visible page.
+
 ## Key points
 
 - The document is a typed office letter on Bombay Region letterhead.

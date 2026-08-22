@@ -49,6 +49,12 @@ summary: |-
   The extract presents the party's position as opposed to delivering Kashmir to Pakistan while also arguing that an acceptable formula must be found quickly. Singh reports that Punjabi public opinion was beginning to understand this position and concludes that the unresolved Kashmir question should not cause further delay.
 ---
 
+## Summary
+
+This one-page extract from Sardar Basant Singh's letter, dated May 20, 1964, recounts discussions in Chandigarh with advocates connected with petitions before the High Court. Singh says he explained the Swatantra Party's viewpoint on the Kashmir issue and found that the advocates welcomed the statement issued by the party's Parliamentary Board after its recent meeting in Madras.
+
+The extract presents the party's position as opposed to delivering Kashmir to Pakistan while also arguing that an acceptable formula must be found quickly. Singh reports that Punjabi public opinion was beginning to understand this position and concludes that the unresolved Kashmir question should not cause further delay.
+
 ## Key points
 
 - The letter is dated May 20, 1964, and is presented as an extract.

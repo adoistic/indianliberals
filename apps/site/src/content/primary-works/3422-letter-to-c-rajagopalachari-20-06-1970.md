@@ -51,6 +51,12 @@ summary: |-
   Masani also discusses the practical and political difficulties of reorganising groups in Gujarat and elsewhere, while ruling out any major deviation such as attempts to topple a friendly government. He asks Rajagopalachari to advise on how the National Executive or General Council should formulate the decision concerning Rajagopalachari’s political choice. The letter closes by praising Rajagopalachari’s advocacy of a “Grand Alliance” and noting that the largest opposition party has taken the first step toward it.
 ---
 
+## Summary
+
+This letter, dated June 30, 1970, records M. P. Masani’s report to C. Rajagopalachari after a visit to Delhi and a press conference. Masani describes Morarji Desai’s difficulty in piloting a resolution, continuing Gujarati dissatisfaction with the AICC decision, and proposed conventions in Madras and Delhi to consolidate opposition forces. He says that the three opposition parties have so far agreed in principle to form a bloc in Parliament along the lines announced at the press conference.
+
+Masani also discusses the practical and political difficulties of reorganising groups in Gujarat and elsewhere, while ruling out any major deviation such as attempts to topple a friendly government. He asks Rajagopalachari to advise on how the National Executive or General Council should formulate the decision concerning Rajagopalachari’s political choice. The letter closes by praising Rajagopalachari’s advocacy of a “Grand Alliance” and noting that the largest opposition party has taken the first step toward it.
+
 ## Key points
 
 - Masani reports on his Delhi visit, press conference, and conversations with Morarji Desai and Rajaji.

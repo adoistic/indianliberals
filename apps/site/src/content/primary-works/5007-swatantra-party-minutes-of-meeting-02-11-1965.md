@@ -54,6 +54,12 @@ summary: |-
   The Executive Committee minutes set out the party's planned parliamentary interventions. Members were assigned to speak on the Kerala Proclamation, a bill concerning a unitary government, India's withdrawal from the Commonwealth, railway employment, taxation-law amendments, drought conditions, external publicity, Banaras Hindu University and Nehru University legislation, and the Patents Bill. The records therefore present the party primarily as a parliamentary organisation coordinating leadership, legislative speaking roles, and public communication.
 ---
 
+## Summary
+
+These office minutes record two Swatantra Party meetings held in New Delhi on 2 and 4 November 1965. The General Body meeting reviewed the party's parliamentary work, noting both the breadth of its speeches and the limited press coverage they received. It also elected office-bearers for 1965–66 in the Lok Sabha and Rajya Sabha, and constituted executive committees for both chambers. C. Rajagopalachari and K. M. Munshi attended as special invitees, while Professor N. G. Ranga reported that he had been invited to the Commonwealth Parliamentary Conference in Wellington.
+
+The Executive Committee minutes set out the party's planned parliamentary interventions. Members were assigned to speak on the Kerala Proclamation, a bill concerning a unitary government, India's withdrawal from the Commonwealth, railway employment, taxation-law amendments, drought conditions, external publicity, Banaras Hindu University and Nehru University legislation, and the Patents Bill. The records therefore present the party primarily as a parliamentary organisation coordinating leadership, legislative speaking roles, and public communication.
+
 ## Key points
 
 - The 2 November 1965 General Body meeting was held at Bharatiya Vidya Bhavan, New Delhi.

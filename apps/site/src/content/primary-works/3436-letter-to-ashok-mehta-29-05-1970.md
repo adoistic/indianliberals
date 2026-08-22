@@ -45,6 +45,12 @@ summary: |-
   Masani notes that he has incorporated some of the drafting that he and Mehta had undertaken jointly. The letter is accompanied by an enclosure, but the enclosed draft is not legible or substantively available on the rendered page.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to Ashok Mehta is dated May 29, 1970. Masani explains that he and Morerjibhai had discussed a draft that morning and that, because Mehta could not join them in Bombay, he is sending the text that emerged from their discussion.
+
+Masani notes that he has incorporated some of the drafting that he and Mehta had undertaken jointly. The letter is accompanied by an enclosure, but the enclosed draft is not legible or substantively available on the rendered page.
+
 ## Key points
 
 - The letter is dated May 29, 1970 and is signed by M. R. Masani.

@@ -50,6 +50,12 @@ summary: |-
   The writer attributes the party's present position to Masani's efforts and reports having received a letter from the addressee urging him to attend a meeting. He replies that he hopes to attend and closes with good wishes for the addressee and his friends. The signature appears to read C. P. Pathik, Advocate, but remains uncertain.
 ---
 
+## Summary
+
+This handwritten letter from Moradabad, dated 5 April 1968, addresses a friend about political developments described as a reorganisation involving the party's national executive and parliamentary wing. The writer says that the party's friends are disturbed by the situation and expresses strong personal and political loyalty to M. R. Masani, whom he calls their leader and best friend.
+
+The writer attributes the party's present position to Masani's efforts and reports having received a letter from the addressee urging him to attend a meeting. He replies that he hopes to attend and closes with good wishes for the addressee and his friends. The signature appears to read C. P. Pathik, Advocate, but remains uncertain.
+
 ## Key points
 
 - The letter discusses a political reorganisation involving the party's national executive and parliamentary wing.

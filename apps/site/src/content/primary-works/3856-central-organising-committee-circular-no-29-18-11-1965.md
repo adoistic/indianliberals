@@ -49,6 +49,12 @@ summary: |-
   The listed corrections include changing “Resolution” to “Resolutions,” replacing “in” with “an,” substituting “implications” for a misprinted word, changing “draft” to “Drafting,” and moving a paragraph on page four to follow the list of persons present. The circular closes with an apology for the errors and inconvenience caused.
 ---
 
+## Summary
+
+This one-page Swatantra Party Central Organising Committee Circular No. 29, dated November 18, 1965, is a covering letter from Executive Secretary S. V. Raju concerning the draft minutes of a National Executive meeting held in New Delhi on November 1. It asks recipients to correct several typographical and layout errors in their copies of the minutes.
+
+The listed corrections include changing “Resolution” to “Resolutions,” replacing “in” with “an,” substituting “implications” for a misprinted word, changing “draft” to “Drafting,” and moving a paragraph on page four to follow the list of persons present. The circular closes with an apology for the errors and inconvenience caused.
+
 ## Key points
 
 - The document is Central Organising Committee Circular No. 29 of the Swatantra Party.

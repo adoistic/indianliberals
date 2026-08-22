@@ -54,6 +54,12 @@ summary: |-
   The attached affidavit, sworn by Joint Secretary V. S. Srikumar, argues that the Swatantra Party remained a legally constituted national political party and that neither its National Executive nor its party convention possessed authority to dissolve it. It alleges that Piloo Mody, after becoming party president following the death of C. Rajagopalachari (“Rajaji”), attempted to dissolve Swatantra and merge it with other parties to form Bharatiya Lok Dal. The petitioners contend that this action lacked authority, that the Election Commission failed to provide proper notice or hear opposing party members, and that its order violated natural justice and the Election Symbol Order of 1968. They seek a writ of certiorari under Article 226 of the Constitution to quash the order and stay its operation.
 ---
 
+## Summary
+
+This untitled letter, dated 28 January 1975 and issued from the Swatantra Party’s Madras headquarters, forwards to General Secretary Girish Munshi a copy of a writ petition and affidavit concerning the freezing of the party’s “STAR” electoral symbol by the Chief Election Commissioner’s order of 3 January 1975. The letter says the petition was expected to be heard by Justice M. M. Ismail on 30 January.
+
+The attached affidavit, sworn by Joint Secretary V. S. Srikumar, argues that the Swatantra Party remained a legally constituted national political party and that neither its National Executive nor its party convention possessed authority to dissolve it. It alleges that Piloo Mody, after becoming party president following the death of C. Rajagopalachari (“Rajaji”), attempted to dissolve Swatantra and merge it with other parties to form Bharatiya Lok Dal. The petitioners contend that this action lacked authority, that the Election Commission failed to provide proper notice or hear opposing party members, and that its order violated natural justice and the Election Symbol Order of 1968. They seek a writ of certiorari under Article 226 of the Constitution to quash the order and stay its operation.
+
 ## Key points
 
 - A Swatantra Party headquarters letter dated 28 January 1975 forwards legal papers to General Secretary Girish Munshi.

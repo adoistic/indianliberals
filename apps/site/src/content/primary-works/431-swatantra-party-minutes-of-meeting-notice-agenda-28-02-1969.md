@@ -51,6 +51,12 @@ summary: |-
   The agenda comprised consideration of the general political situation in the country, consideration of the Budget proposals, and any other item. The notice is signed by D. N. Patodia in the capacity of Secretary. The document records the meeting's proposed business but does not contain minutes or any account of the meeting itself.
 ---
 
+## Summary
+
+This one-page English notice, issued by the Swatantra Party Parliamentary Office in New Delhi on February 28, 1969, announces a meeting of the party's General Body in Parliament. The meeting was scheduled for 9:30 a.m. on Monday, March 3, 1969, in Room No. 50 on the first floor of Parliament House, New Delhi, and members were requested to attend.
+
+The agenda comprised consideration of the general political situation in the country, consideration of the Budget proposals, and any other item. The notice is signed by D. N. Patodia in the capacity of Secretary. The document records the meeting's proposed business but does not contain minutes or any account of the meeting itself.
+
 ## Key points
 
 - The Swatantra Party Parliamentary Office issued the notice from 53 North Avenue, New Delhi.

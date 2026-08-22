@@ -51,6 +51,12 @@ summary: |-
   The letter stresses that the meeting is important and that recipients are expected to attend without fail, asking them to cancel other engagements if necessary and to be present in Bhubaneswar from the morning of 9 February. It also authorises organisers to include travel expenses to Bhubaneswar and return in their February monthly travelling-allowance bills. The circular is signed by M. R. Masani as General Secretary, with a note explaining that it was dictated by him and signed on his behalf during his absence.
 ---
 
+## Summary
+
+This one-page English circular, issued by the Swatantra Party Central Office in Bombay on 28 January 1966, is addressed exclusively to Orissa field organisers. It announces a meeting in Bhubaneswar on Wednesday, 9 February, for prospective parliamentary candidates and parliamentary constituency organisers to meet Mr. N. Dandekar, the party’s Joint Secretary.
+
+The letter stresses that the meeting is important and that recipients are expected to attend without fail, asking them to cancel other engagements if necessary and to be present in Bhubaneswar from the morning of 9 February. It also authorises organisers to include travel expenses to Bhubaneswar and return in their February monthly travelling-allowance bills. The circular is signed by M. R. Masani as General Secretary, with a note explaining that it was dictated by him and signed on his behalf during his absence.
+
 ## Key points
 
 - The circular is addressed specifically to Orissa field organisers.

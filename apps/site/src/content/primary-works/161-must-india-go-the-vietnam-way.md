@@ -62,6 +62,12 @@ summary: |-
   Masani’s central warning is that India could follow the path of Vietnam if communist forces are allowed to establish guerrilla bases and exploit political disorder, especially in Bengal and Assam. He links the Naxalbari uprising to a longer Communist strategy associated with Moscow and Peking, and warns against both Communist infiltration and indiscriminate anti-Communist alliances. His proposed alternative is a “Government of Democratic Unity”: a coalition of democratic parties, excluding the Communists and totalitarians, united around nationalism, constitutional democracy, and a pragmatic programme of administration. The speech closes with a warning that unless political leaders act quickly, parliamentary democracy may give way to military or other authoritarian rule.
 ---
 
+## Summary
+
+In this speech, delivered at Sapru House, New Delhi, on 27 July 1967, M. R. Masani argues that India is facing a democratic, economic, and security crisis. He describes declining public standards, parliamentary indiscipline, corruption, party defections, economic nationalism, taxation, inflation, and an expanding state role as symptoms of political failure. The Congress Party is presented as exhausted and unwilling to learn from its electoral setbacks, while the opposition is criticized for inconsistency and for allowing party calculations to override constitutional responsibility.
+
+Masani’s central warning is that India could follow the path of Vietnam if communist forces are allowed to establish guerrilla bases and exploit political disorder, especially in Bengal and Assam. He links the Naxalbari uprising to a longer Communist strategy associated with Moscow and Peking, and warns against both Communist infiltration and indiscriminate anti-Communist alliances. His proposed alternative is a “Government of Democratic Unity”: a coalition of democratic parties, excluding the Communists and totalitarians, united around nationalism, constitutional democracy, and a pragmatic programme of administration. The speech closes with a warning that unless political leaders act quickly, parliamentary democracy may give way to military or other authoritarian rule.
+
 ## Key points
 
 - Masani portrays India’s economic condition, public morality, international position, and parliamentary conduct as seriously deteriorated.

@@ -47,6 +47,12 @@ summary: |-
   The file also contains an enclosed letter dated January 10, 1975, on the letterhead of Patel Cotton Company Limited, Bombay. Jehangir P. Patel thanks M.R. Masani for support for an unspecified shared cause and asks him to convey thanks to Farook Mulla and M.R.V. Murthy for donations made through him. The third rendered page is a faint reverse or related page with handwritten address notes; its underlying typed text is not legible.
 ---
 
+## Summary
+
+This three-page English correspondence file records M.R. Masani’s donation of Rs. 100 to the JP Fund for Bihar. In a letter dated January 15, 1975, Masani tells R.V. Murthy that he has made the payment and encloses token receipt No. 601. The letter is signed “M.R. Masani” and addressed to Murthy at Ratan Lodge, King Circle, Bombay 19.
+
+The file also contains an enclosed letter dated January 10, 1975, on the letterhead of Patel Cotton Company Limited, Bombay. Jehangir P. Patel thanks M.R. Masani for support for an unspecified shared cause and asks him to convey thanks to Farook Mulla and M.R.V. Murthy for donations made through him. The third rendered page is a faint reverse or related page with handwritten address notes; its underlying typed text is not legible.
+
 ## Key points
 
 - M.R. Masani writes to R.V. Murthy on January 15, 1975.

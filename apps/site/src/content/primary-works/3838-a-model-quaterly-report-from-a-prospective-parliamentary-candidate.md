@@ -56,6 +56,12 @@ summary: |-
   The report presents constituency politics as a combination of routine administration and intensive local mobilisation. Party workers tour villages, recruit and supervise organisers, prepare for Assembly and Gram Panchayat elections, respond to Panchayat delimitation, and challenge Congress-aligned officeholders through no-confidence motions and complaints about corruption or misappropriation. The account repeatedly stresses party unity, vigilance, local leadership, personal contact with workers, and the need to counter Congress influence. It also reports visits by senior Swatantra Party figures, including Rajya Sabha member Sundarmani Patel, who addressed workers on party aims, sacrifice, corruption, and the need for sustained organisation.
 ---
 
+## Summary
+
+This report records the organisation, finances, staffing, touring, and electoral work of the Swatantra Party's three-member committee for the Balangir Parliamentary Constituency during May–July 1965. The committee approves monthly expenditure, appoints paid and honorary workers, establishes reporting procedures, supports constituency and block-level offices, arranges party flags and signboards, and considers publishing a weekly district newspaper. It also coordinates with the party's General Secretary in Bombay and seeks contributions from neighbouring constituencies for shared organisational expenses.
+
+The report presents constituency politics as a combination of routine administration and intensive local mobilisation. Party workers tour villages, recruit and supervise organisers, prepare for Assembly and Gram Panchayat elections, respond to Panchayat delimitation, and challenge Congress-aligned officeholders through no-confidence motions and complaints about corruption or misappropriation. The account repeatedly stresses party unity, vigilance, local leadership, personal contact with workers, and the need to counter Congress influence. It also reports visits by senior Swatantra Party figures, including Rajya Sabha member Sundarmani Patel, who addressed workers on party aims, sacrifice, corruption, and the need for sustained organisation.
+
 ## Key points
 
 - The Balangir three-member committee approves expenditure and formalises quarterly reporting to the Swatantra Party's central leadership.

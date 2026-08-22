@@ -49,6 +49,12 @@ summary: |-
   The enclosure concerns a financial dispute involving Michael. Solanki asks Jain to have Michael's outstanding rent cleared, arguing that the amount has continued to increase and that Jain had assumed responsibility for deducting it from Michael's salary. Solanki also objects to Jain's claim for Rs. 475 for a party and appeals to Masani for intervention. The correspondence thus records both internal party communication and a personal dispute over rent, salary deductions, and reimbursement.
 ---
 
+## Summary
+
+This two-page correspondence, dated February 2, 1965, consists of a typed letter from A. B. Jain of the Swatantra Party Parliamentary Office to Minoo Masani, enclosing a handwritten letter from P. Solanki. Jain asks Masani to indicate when he will arrive, noting that Sardar Kapur Singh has an urgent matter to discuss with him concerning Punjab politics.
+
+The enclosure concerns a financial dispute involving Michael. Solanki asks Jain to have Michael's outstanding rent cleared, arguing that the amount has continued to increase and that Jain had assumed responsibility for deducting it from Michael's salary. Solanki also objects to Jain's claim for Rs. 475 for a party and appeals to Masani for intervention. The correspondence thus records both internal party communication and a personal dispute over rent, salary deductions, and reimbursement.
+
 ## Key points
 
 - A. B. Jain writes from the Swatantra Party Parliamentary Office in New Delhi on February 2, 1965.

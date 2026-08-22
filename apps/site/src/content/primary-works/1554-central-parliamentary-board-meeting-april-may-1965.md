@@ -58,3 +58,7 @@ ai:
 summary: |-
   This April–May 1965 issue of the Swatantra Newsletter reports on the party’s preparations for the 1967 elections, its organisational restructuring, and its criticism of Congress government. The Central Parliamentary Board’s procedures for selecting parliamentary and assembly candidates emphasise advance planning, constituency research, candidate character, local acceptability, and scrutiny by state and central bodies. Reports from Kerala, Bombay, Mysore, Orissa, Uttar Pradesh, Bihar, and other state units present the party as a decentralised but increasingly coordinated opposition force, while the General Council’s resolutions address food policy, taxation, the press, corruption inquiries, Nagaland, and communist expansion in Southeast Asia.
 ---
+
+## Summary
+
+This April–May 1965 issue of the Swatantra Newsletter reports on the party’s preparations for the 1967 elections, its organisational restructuring, and its criticism of Congress government. The Central Parliamentary Board’s procedures for selecting parliamentary and assembly candidates emphasise advance planning, constituency research, candidate character, local acceptability, and scrutiny by state and central bodies. Reports from Kerala, Bombay, Mysore, Orissa, Uttar Pradesh, Bihar, and other state units present the party as a decentralised but increasingly coordinated opposition force, while the General Council’s resolutions address food policy, taxation, the press, corruption inquiries, Nagaland, and communist expansion in Southeast Asia.

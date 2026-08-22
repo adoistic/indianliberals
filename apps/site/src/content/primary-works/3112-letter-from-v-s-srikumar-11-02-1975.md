@@ -52,6 +52,12 @@ summary: |-
   The remainder of the letter concerns organisational and financial mobilisation. Srikumar describes attempts by G. K. Sundaram to secure continued financial support from industrialists and businesspeople, criticises Piloo Mody's refusal to hand over party records and furniture, and asks Raju to coordinate with Girish Munshi. He also urges outreach to party workers and supporters in Rajasthan, Gujarat, Delhi, Madhya Pradesh, and Uttar Pradesh, including efforts to rebuild the party on firmer foundations. The second rendered page is an accompanying inland-letter-card envelope and contains no additional substantive correspondence.
 ---
 
+## Summary
+
+This letter, dated 11 February 1975 and written by V. S. Srikumar in his capacity as Joint Secretary of the Swatantra Party, reports to S. V. Raju on efforts to challenge an Election Commission order. Srikumar says that a certified copy of the order, obtained through Lt. Col. Pasricha and Mr. Raghavan of Lakshmi Mills' Delhi office, has been filed in the Madras High Court in support of a writ petition, with the party seeking an interim stay.
+
+The remainder of the letter concerns organisational and financial mobilisation. Srikumar describes attempts by G. K. Sundaram to secure continued financial support from industrialists and businesspeople, criticises Piloo Mody's refusal to hand over party records and furniture, and asks Raju to coordinate with Girish Munshi. He also urges outreach to party workers and supporters in Rajasthan, Gujarat, Delhi, Madhya Pradesh, and Uttar Pradesh, including efforts to rebuild the party on firmer foundations. The second rendered page is an accompanying inland-letter-card envelope and contains no additional substantive correspondence.
+
 ## Key points
 
 - The letter is dated 11 February 1975 and is signed by V. S. Srikumar as Joint Secretary of the Swatantra Party.

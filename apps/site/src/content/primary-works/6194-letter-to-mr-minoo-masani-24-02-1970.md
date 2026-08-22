@@ -45,6 +45,12 @@ summary: |-
   Raju asks Masani to clarify the publication decision and says he is reviewing the minutes closely, expecting few further changes. He also encloses a letter concerning Mr. Datta’s complaint, promises to check whether Masani’s letter appeared in the Ahmedabad edition of the Times of India, and says he has forwarded Masani’s cover letter to Dr. Cooper. The page includes handwritten annotations and Raju’s signature.
 ---
 
+## Summary
+
+In this letter dated February 24, 1970, S. V. Raju acknowledges receipt of Minoo Masani’s airfreight packet containing corrected minutes. He addresses an apparent uncertainty over whether the minutes should be issued immediately, noting that Masani’s recent letters give different indications: one says the minutes should await a joint discussion with Dr. Cooper, while another calls for urgent action.
+
+Raju asks Masani to clarify the publication decision and says he is reviewing the minutes closely, expecting few further changes. He also encloses a letter concerning Mr. Datta’s complaint, promises to check whether Masani’s letter appeared in the Ahmedabad edition of the Times of India, and says he has forwarded Masani’s cover letter to Dr. Cooper. The page includes handwritten annotations and Raju’s signature.
+
 ## Key points
 
 - Raju confirms receipt of Masani’s airfreight packet and corrected minutes.

@@ -47,6 +47,12 @@ summary: |-
   The report says Masani regarded disciplinary action against six party members, including supporters of his candidacy, as further justification for his decision. It also presents his concern that the Swatantra Party was developing the same cynicism about its sincerity and the same contempt for the electorate that he associated with the Congress Party. He concluded that, in these circumstances, he could do more for the party's democratic processes by staying outside its Executive and Parliamentary Board. The clipping also contains a separate notice about a proposed old-age ashram in Naini Tal, but its main report concerns Masani's resignation.
 ---
 
+## Summary
+
+This newspaper report, datelined New Delhi, May 15, 1968, states that M. R. Masani had rejected an appeal from the Swatantra Party's Central Parliamentary Board and National Executive to withdraw his resignation. Masani had offered to resign from both bodies in early April after some Swatantra Party candidates in the Gujarat Rajya Sabha elections were reportedly sponsored by the party's national leadership despite the state unit's opposition.
+
+The report says Masani regarded disciplinary action against six party members, including supporters of his candidacy, as further justification for his decision. It also presents his concern that the Swatantra Party was developing the same cynicism about its sincerity and the same contempt for the electorate that he associated with the Congress Party. He concluded that, in these circumstances, he could do more for the party's democratic processes by staying outside its Executive and Parliamentary Board. The clipping also contains a separate notice about a proposed old-age ashram in Naini Tal, but its main report concerns Masani's resignation.
+
 ## Key points
 
 - M. R. Masani declined an appeal to withdraw his resignation from the Swatantra Party's Central Parliamentary Board and National Executive.

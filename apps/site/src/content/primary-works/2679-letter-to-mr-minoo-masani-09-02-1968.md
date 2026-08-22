@@ -47,6 +47,12 @@ summary: |-
   The Chief Minister confirms that the visitors will be treated as state guests and that arrangements are being made for their stay. He explains that the Orissa Assembly's Budget Session will require him to remain at headquarters, but says that a meeting with Mr. Dan can be arranged after the Consul-General's arrival.
 ---
 
+## Summary
+
+This single-page official letter, dated 9 February 1968, is written by R. N. Singh Deo, Chief Minister of Orissa State, to M. R. Masani, M.P. Singh Deo acknowledges Masani's letter concerning the proposed visit to Orissa of the Consul-General for South Viet Nam and his wife on 21 February 1968.
+
+The Chief Minister confirms that the visitors will be treated as state guests and that arrangements are being made for their stay. He explains that the Orissa Assembly's Budget Session will require him to remain at headquarters, but says that a meeting with Mr. Dan can be arranged after the Consul-General's arrival.
+
 ## Key points
 
 - The letter is dated 9 February 1968 and is issued from Bhubaneswar on Orissa State Chief Minister letterhead.

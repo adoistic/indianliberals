@@ -54,6 +54,12 @@ summary: |-
   The committee agreed to concentrate the manifesto on four problems: slum clearance, housing and water supply; transport; unemployment; and industrial diffusion. The page therefore records an urban and employment-focused electoral agenda, but does not include the draft manifesto itself or the committee's detailed policy proposals.
 ---
 
+## Summary
+
+This one-page Swatantra Party office record documents a sub-committee meeting held at the Party's office on 26 October 1971 to draft a manifesto for the forthcoming Assembly elections. K. H. Subramaniam served as convener; five other members attended, while leave was granted to R. V. Murthy and P. M. Shah. The record notes that Subramaniam's draft was read aloud and would be finalized, with slight modifications, for presentation to the Executive Committee of the Bombay Region on 29 October 1971.
+
+The committee agreed to concentrate the manifesto on four problems: slum clearance, housing and water supply; transport; unemployment; and industrial diffusion. The page therefore records an urban and employment-focused electoral agenda, but does not include the draft manifesto itself or the committee's detailed policy proposals.
+
 ## Key points
 
 - A Swatantra Party sub-committee met on 26 October 1971 to draft a manifesto for the ensuing Assembly elections.

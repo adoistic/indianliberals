@@ -49,6 +49,12 @@ summary: |-
   The writer adds that the same letter has been forwarded to S. V. Krishnaswamy in Trivandrum. The document bears a handwritten signature followed by “for S.Y. Krishnaswamy,” but it does not clearly identify the signatory. No substantive policy argument is included in the page shown.
 ---
 
+## Summary
+
+This one-page English office letter, dated 6 September 1959 and written on Swatantra Party letterhead in Madras, informs Sir Homy Modi about a communication concerning the party's position. The writer explains that S. V. Krishnaswamy is away in Trivandrum and that, on Rajaji's advice, a copy of a letter from Raghavendra Pratap Singh, M.L.A., of Uttar Pradesh is being sent to keep the recipient informed.
+
+The writer adds that the same letter has been forwarded to S. V. Krishnaswamy in Trivandrum. The document bears a handwritten signature followed by “for S.Y. Krishnaswamy,” but it does not clearly identify the signatory. No substantive policy argument is included in the page shown.
+
 ## Key points
 
 - The letter is dated 6 September 1959 and issued from 105 Armenian Street, G. T. Madras.

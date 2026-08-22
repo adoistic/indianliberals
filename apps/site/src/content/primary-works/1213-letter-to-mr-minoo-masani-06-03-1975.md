@@ -47,6 +47,12 @@ summary: |-
   The letter then turns to tactics. Munshi refers to L. K. Advani's speech at Delhi, reported in the previous day's newspapers, which called for the National Alternative to be institutionalised, and notes Masani's own objection that Piloo Mody's suggested manner of doing so is wrong. Munshi reports that he has advised a Mr. Sundaram, in the present context, to contact Advani after consulting the Swatantra Legislators in Tamil Nadu. He argues that Swatantra should seize the opening for a dialogue with the Jana Sangh now that JP has publicly blessed the Jana Sangh in his Janasangh meeting speech at Delhi, and asks Masani for his reactions.
 ---
 
+## Summary
+
+This is a one-page typed letter from Girish Munshi, writing on Swatantra Party (Maharashtra) letterhead from the Sassoon Building in Bombay, to Minoo Masani on 6 March 1975. Munshi tells Masani that his thesis at the Swatantra Party's National Convention — that Jayaprakash Narayan would emerge as the spearhead of a "National Alternative" to the Congress — has been vindicated by JP's public trajectory.
+
+The letter then turns to tactics. Munshi refers to L. K. Advani's speech at Delhi, reported in the previous day's newspapers, which called for the National Alternative to be institutionalised, and notes Masani's own objection that Piloo Mody's suggested manner of doing so is wrong. Munshi reports that he has advised a Mr. Sundaram, in the present context, to contact Advani after consulting the Swatantra Legislators in Tamil Nadu. He argues that Swatantra should seize the opening for a dialogue with the Jana Sangh now that JP has publicly blessed the Jana Sangh in his Janasangh meeting speech at Delhi, and asks Masani for his reactions.
+
 ## Key points
 
 - Correspondence from Girish Munshi (Swatantra Party, Maharashtra) to Minoo Masani, dated 6 March 1975, on Swatantra Party letterhead at 143 Mahatma Gandhi Road, Bombay.

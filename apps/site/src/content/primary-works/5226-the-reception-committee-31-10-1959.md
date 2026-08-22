@@ -48,6 +48,12 @@ summary: |-
   The accompanying programme schedules a prayer, an address by the Reception Committee Chairman, the inauguration, Masani's presidential address, the Secretary's report, speeches by Rajaji and V. P. Menon, an afternoon session, resolutions, and the President's concluding remarks. The pages document the convention's organisation and named participants, but contain no speeches, resolutions, or substantive statement of policy.
 ---
 
+## Summary
+
+This two-page English-language document is an invitation and programme for the Madras District Swatantra Party Convention, held on 31 October 1959. The Reception Committee invites attendance at the inaugural session at the C.S.I. A.A. Grounds, behind Moore Market, Madras; Mr. M. R. Masani, M.P., is listed as president and Prof. N. G. Ranga, M.P., as inaugurator.
+
+The accompanying programme schedules a prayer, an address by the Reception Committee Chairman, the inauguration, Masani's presidential address, the Secretary's report, speeches by Rajaji and V. P. Menon, an afternoon session, resolutions, and the President's concluding remarks. The pages document the convention's organisation and named participants, but contain no speeches, resolutions, or substantive statement of policy.
+
 ## Key points
 
 - The document invites recipients to the inaugural session of the Madras District Swatantra Party Convention.

@@ -48,6 +48,12 @@ summary: |-
   Masani advises Narayan to consult Dr. Soonswalla in Bombay, whom he describes as a bright and capable young doctor, and suggests obtaining an honest, cautious medical opinion. He asks Narayan to inform him of his plans so that an appointment can be arranged with the surgeon. The second page preserves a Times of India clipping dated March 16, 1974, reporting that “JP has gland trouble” and that doctors had attended him.
 ---
 
+## Summary
+
+In this letter dated March 18, 1974, M. R. Masani writes to Jayaprakash Narayan about Narayan’s reported illness and recommends that he consider surgery for an enlarged prostate. Masani refers to his own earlier experience, explains that the modern procedure—trans-urethral resection—is painless, and notes that recovery is generally quicker, while cautioning that relatively few Indian surgeons are proficient in it and that not every case responds to the procedure.
+
+Masani advises Narayan to consult Dr. Soonswalla in Bombay, whom he describes as a bright and capable young doctor, and suggests obtaining an honest, cautious medical opinion. He asks Narayan to inform him of his plans so that an appointment can be arranged with the surgeon. The second page preserves a Times of India clipping dated March 16, 1974, reporting that “JP has gland trouble” and that doctors had attended him.
+
 ## Key points
 
 - Masani’s letter is dated March 18, 1974, and addressed to Jayaprakash Narayan at Kadam Kuan, Patna 3.

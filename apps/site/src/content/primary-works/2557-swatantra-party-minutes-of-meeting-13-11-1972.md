@@ -50,6 +50,10 @@ summary: |-
   These minutes record the Swatantra Party Bombay Region Executive Committee meeting held on 13 November 1972. With the President and Vice-Presidents absent, Shantilal L. Thar chaired the meeting. The committee noted poor attendance, a precarious financial position, difficulty recruiting members, and the Party’s limited public impact. It urged stronger efforts to mobilise opposition to rising prices and to launch a movement or agitation against government policy.
 ---
 
+## Summary
+
+These minutes record the Swatantra Party Bombay Region Executive Committee meeting held on 13 November 1972. With the President and Vice-Presidents absent, Shantilal L. Thar chaired the meeting. The committee noted poor attendance, a precarious financial position, difficulty recruiting members, and the Party’s limited public impact. It urged stronger efforts to mobilise opposition to rising prices and to launch a movement or agitation against government policy.
+
 ## Key points
 
 - The committee discussed weak attendance and proposed that the President write to members who had not been attending meetings.

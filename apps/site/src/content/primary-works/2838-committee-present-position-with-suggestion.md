@@ -51,6 +51,12 @@ summary: |-
   The suggestions propose specific replacements or additions for several committees, including M. R. Masani for the Business Advisory Committee, S. A. Matin for the Committee on petitions, J. H. Imam for the Committee on subordinate legislation, Professor N. G. Ranga for the General Purposes Committee, Ram Garib for the House Committee, and M. S. Sughandhi for the Rules Committee. Other entries recommend “No change.” The document bears a circled number, “2838,” but no visible title, author, date, publisher, or issuing body.
 ---
 
+## Summary
+
+This untitled, single-page office memorandum lists twelve committees alongside their present membership status and suggested appointments. Most committees are marked “No member,” while M. R. Masani is shown as serving on the Privileges Committee and Rules Committee and as a special invitee to the Business Advisory Committee.
+
+The suggestions propose specific replacements or additions for several committees, including M. R. Masani for the Business Advisory Committee, S. A. Matin for the Committee on petitions, J. H. Imam for the Committee on subordinate legislation, Professor N. G. Ranga for the General Purposes Committee, Ram Garib for the House Committee, and M. S. Sughandhi for the Rules Committee. Other entries recommend “No change.” The document bears a circled number, “2838,” but no visible title, author, date, publisher, or issuing body.
+
 ## Key points
 
 - The page is a tabular committee-position memorandum rather than a conventional authored publication.

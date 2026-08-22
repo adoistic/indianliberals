@@ -50,6 +50,12 @@ summary: |-
   The record also reports correspondence concerning the Bihar State President’s proposed travel to Madras, notices issued for meetings of the Parliamentary Board and Organisation Sub-Committee, and the status of the new State Executive Committee established under the July 22 resolution. Because the committee’s competence had been challenged and the new executive had not been allowed to function, the matter was referred to the General Council for decision. The Central Organising Committee was scheduled to meet in Bombay on February 9, followed by a General Council meeting on February 10; the Central Office was also to circulate the appeal and a corrective statement to Council members in advance.
 ---
 
+## Summary
+
+This two-page English office record reviews organisational developments in Bihar following a July 1962 meeting. It discusses alleged non-compliance with a resolution adopted jointly by the Organisation Sub-Committee and Parliamentary Board, as well as an appeal to the Party’s General Council by members of the Bihar State unit. The Sub-Committee considers the appeal to repeat allegations made in the State President’s report and to contain attacks on the Party’s Vice-President and General Secretary.
+
+The record also reports correspondence concerning the Bihar State President’s proposed travel to Madras, notices issued for meetings of the Parliamentary Board and Organisation Sub-Committee, and the status of the new State Executive Committee established under the July 22 resolution. Because the committee’s competence had been challenged and the new executive had not been allowed to function, the matter was referred to the General Council for decision. The Central Organising Committee was scheduled to meet in Bombay on February 9, followed by a General Council meeting on February 10; the Central Office was also to circulate the appeal and a corrective statement to Council members in advance.
+
 ## Key points
 
 - The Organisation Sub-Committee reviewed Bihar’s organisational situation after a July 1962 meeting.

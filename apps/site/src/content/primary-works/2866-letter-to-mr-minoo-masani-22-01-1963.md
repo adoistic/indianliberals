@@ -49,6 +49,12 @@ summary: |-
   The letter also records that the book titled "The Judiciary in Peril" had been circulated to members of the Joint Select Committee on the Constitution (15th Amendment) Bill. The document therefore offers a brief contemporary glimpse of parliamentary procedure, opposition coordination, constitutional amendment deliberations, and concern with the judiciary.
 ---
 
+## Summary
+
+This typed letter from A.P. Jain to M.R. Masani, dated January 22, 1963, addresses parliamentary business concerning an adjournment motion and the Colombo proposals. Jain explains that the requested motion could not be admitted because Shri Dharam Pal and others had already been released, and reports that the government had not moved a resolution or amendment on the Colombo proposals after consulting opposition leaders. He notes that Prof. Ranga would open the debate, followed by P.K. Deo the next day.
+
+The letter also records that the book titled "The Judiciary in Peril" had been circulated to members of the Joint Select Committee on the Constitution (15th Amendment) Bill. The document therefore offers a brief contemporary glimpse of parliamentary procedure, opposition coordination, constitutional amendment deliberations, and concern with the judiciary.
+
 ## Key points
 
 - A.P. Jain writes to M.R. Masani from New Delhi on January 22, 1963.

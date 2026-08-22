@@ -49,6 +49,10 @@ summary: |-
   This one-page English circular, issued by the Swatantra Party Central Office in Bombay on 12 October 1966, communicates an administrative change concerning Workers Cards. S. V. Raju, identified as Executive Secretary, informs party recipients that the earlier instruction suspending the cards has been revoked.
 ---
 
+## Summary
+
+This one-page English circular, issued by the Swatantra Party Central Office in Bombay on 12 October 1966, communicates an administrative change concerning Workers Cards. S. V. Raju, identified as Executive Secretary, informs party recipients that the earlier instruction suspending the cards has been revoked.
+
 ## Key points
 
 - The document is Central Office Circular No. 55, dated 12 October 1966.

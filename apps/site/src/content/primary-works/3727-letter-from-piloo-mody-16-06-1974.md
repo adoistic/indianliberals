@@ -58,6 +58,12 @@ summary: |-
   Mody presents a broad, non-Congress, non-Marxist, non-Communist national alternative as the practical response. He distinguishes the proposed formation from a conventional merger: existing parties would be dissolved and replaced by a new party built around a consensus programme, while allowing regional variation, individual opinion, and decentralisation. The letter reports that seven parties had begun the process, with nine involved at the time of writing and two more considering participation; it also identifies several further regional and national parties as potential participants. Mody acknowledges resistance within Swatantra, particularly from Tamil Nadu and Delhi units, but asks members to study the draft programme and constitution before deciding.
 ---
 
+## Summary
+
+In this letter dated June 16, 1974, Piloo Mody explains the Swatantra Party's move toward creating a two-party political system in India. He argues that democratic institutions—including Parliament, the judiciary, the press, fundamental rights, public opinion, and opposition parties—have been severely weakened, creating the danger of dictatorship. In his view, the absence of a credible national alternative has also undermined free and fair elections and blocked legitimate political protest.
+
+Mody presents a broad, non-Congress, non-Marxist, non-Communist national alternative as the practical response. He distinguishes the proposed formation from a conventional merger: existing parties would be dissolved and replaced by a new party built around a consensus programme, while allowing regional variation, individual opinion, and decentralisation. The letter reports that seven parties had begun the process, with nine involved at the time of writing and two more considering participation; it also identifies several further regional and national parties as potential participants. Mody acknowledges resistance within Swatantra, particularly from Tamil Nadu and Delhi units, but asks members to study the draft programme and constitution before deciding.
+
 ## Key points
 
 - Mody attributes the erosion of Indian democracy to the weakening of constitutional institutions, the press, fundamental rights, and opposition parties.

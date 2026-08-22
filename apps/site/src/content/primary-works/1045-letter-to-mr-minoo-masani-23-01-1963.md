@@ -49,6 +49,12 @@ summary: |-
   Having already wired N. G. Ranga to suggest that Swatantra members should be given a free vote on the Socialist Party's amendment when it comes up the following day, Rajaji asks Masani to telephone Ranga to close the loop. The wire closes with a terse compliment on Masani's 'excellent letter' to the press. The document is a characteristic Rajaji telegram — clipped, tactical, and preoccupied with holding a united opposition line against Nehru's handling of the border settlement.
 ---
 
+## Summary
+
+This one-page confirmation copy of an express telegram from C. Rajagopalachari to Minoo Masani, dated 23 January 1963, reports on Swatantra Party parliamentary tactics in the aftermath of the Sino-Indian border war. Rajaji tells Masani that the party's parliamentary group has been 'outmanoeuvred' by the Prime Minister into not moving its own amendment rejecting the Colombo Proposals — the six-nation peace formula floated to mediate the China-India border dispute.
+
+Having already wired N. G. Ranga to suggest that Swatantra members should be given a free vote on the Socialist Party's amendment when it comes up the following day, Rajaji asks Masani to telephone Ranga to close the loop. The wire closes with a terse compliment on Masani's 'excellent letter' to the press. The document is a characteristic Rajaji telegram — clipped, tactical, and preoccupied with holding a united opposition line against Nehru's handling of the border settlement.
+
 ## Key points
 
 - One-page express telegram (confirmation copy) from C. Rajagopalachari at 60 Bazlullah Road, Madras 17 to Minoo Masani at 143 Mahatma Gandhi Road, Bombay 1, dated 23 January 1963.

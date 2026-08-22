@@ -50,6 +50,12 @@ summary: |-
   The sender expresses satisfaction that the Swatantra Party is gaining widespread support and argues that those associated with it should ensure that it develops into a responsible organisation capable of influencing the course of events. The page contains no legible sender name or signature; the handwritten mark near the closing cannot be securely identified.
 ---
 
+## Summary
+
+This one-page English letter, dated 21 August 1959, is addressed to Mr. Ruttonchund Master. The unidentified sender thanks him for letters conveying his views on current events and apologises for being unable to respond to them individually.
+
+The sender expresses satisfaction that the Swatantra Party is gaining widespread support and argues that those associated with it should ensure that it develops into a responsible organisation capable of influencing the course of events. The page contains no legible sender name or signature; the handwritten mark near the closing cannot be securely identified.
+
 ## Key points
 
 - The letter is dated 21 August 1959 and addressed to Mr. Ruttonchund Master.

@@ -50,6 +50,10 @@ summary: |-
   This single-page English statement, issued in 1967 by R. N. Singh Deo, then Chief Minister of Orissa, repudiates newspaper reports about his alleged comments on the political situation in West Bengal. Singh Deo says that journalists questioned him while he was travelling from Calcutta to Bombay on 9 November, but that he declined to comment.
 ---
 
+## Summary
+
+This single-page English statement, issued in 1967 by R. N. Singh Deo, then Chief Minister of Orissa, repudiates newspaper reports about his alleged comments on the political situation in West Bengal. Singh Deo says that journalists questioned him while he was travelling from Calcutta to Bombay on 9 November, but that he declined to comment.
+
 ## Key points
 
 - The document is a formal contradiction of press reports attributed to R. N. Singh Deo.

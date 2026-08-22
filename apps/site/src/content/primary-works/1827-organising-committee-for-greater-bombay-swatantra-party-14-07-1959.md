@@ -51,6 +51,12 @@ summary: |-
   The minutes focus on preparing the party's August 1–2 Bombay Convention. They specify the subjects for discussion—including party principles, organisational structure, membership and enrolment, and an interim executive and secretariat—appoint subcommittees for hospitality, publicity, volunteers, and transport, and arrange a public meeting addressed by C. Rajagopalachari. The record also reports Bombay's initial contribution of Rs. 10,000 to party funds, a current balance of about Rs. 3,000, and the date of the next organising-committee meeting.
 ---
 
+## Summary
+
+This three-page Swatantra Party office record consists of a July 14, 1959 meeting notice and the minutes of the Greater Bombay Organising Committee meeting held on July 13. The notice requests attendance at the next committee meeting, while the minutes list the participants, confirm the previous minutes, record arrangements for a new office, and establish a finance and budgets subcommittee.
+
+The minutes focus on preparing the party's August 1–2 Bombay Convention. They specify the subjects for discussion—including party principles, organisational structure, membership and enrolment, and an interim executive and secretariat—appoint subcommittees for hospitality, publicity, volunteers, and transport, and arrange a public meeting addressed by C. Rajagopalachari. The record also reports Bombay's initial contribution of Rs. 10,000 to party funds, a current balance of about Rs. 3,000, and the date of the next organising-committee meeting.
+
 ## Key points
 
 - A July 14, 1959 notice calls the Greater Bombay Organising Committee to meet on July 20.

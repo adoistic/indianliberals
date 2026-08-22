@@ -48,6 +48,12 @@ summary: |-
   Jamnadas cautions that the newspaper need not be a venture of the party. Instead, he recommends an independent, limited concern, which he believes could also serve other fields. He apologises for repeating the request but says the urgency of the need compels him to do so. The letter also refers approvingly to Rajaji’s position regarding English-language newspapers.
 ---
 
+## Summary
+
+In this handwritten letter dated 15 August 1959, N. C. Jamnadas thanks “Sir Modi” for assistance and comments on the likely relocation of headquarters to Bombay. The main subject is the need for a serious Hindi newspaper: Jamnadas agrees that English-language newspapers are adequately served, but argues that Hindi lacks even one good “general views” paper. He proposes filling this gap as a public service.
+
+Jamnadas cautions that the newspaper need not be a venture of the party. Instead, he recommends an independent, limited concern, which he believes could also serve other fields. He apologises for repeating the request but says the urgency of the need compels him to do so. The letter also refers approvingly to Rajaji’s position regarding English-language newspapers.
+
 ## Key points
 
 - The letter is dated 15 August 1959 and was sent from Juni Indore, Indore City, to Sir Modi in Bombay.

@@ -51,6 +51,12 @@ summary: |-
   The reports also describe competing leadership manoeuvres. Dahyabhai Patel is said to have support for the chairmanship, while some party members call for structural changes and others reject them. Comparisons are drawn with the Bihar unit, and Ashoka Mehta’s earlier departure for Congress is invoked as an example of party liquidation. The second report records the executive committee’s decision to empower H. M. Patel to present the Gujarat unit’s position and its view that Masani’s conduct contributed to the defeat of the party’s official candidate. The document is a translation of reports from Jan Satta and Bombay Samachar; no translator or issuing office is identified.
 ---
 
+## Summary
+
+This two-page translated clipping reports internal conflict in the Gujarat unit of the Swatantra Party in May 1968. The immediate dispute concerns Minoo Masani’s proposal to establish an ad hoc committee for Gujarat after the party’s defeat in the Rajya Sabha elections. Party leaders, including Bhailalbhai Patel and H. M. Patel, oppose the proposal and accuse Masani of undermining the state organisation; one report describes him as a supposed Congress sympathiser or “spy” within the Swatantra Party.
+
+The reports also describe competing leadership manoeuvres. Dahyabhai Patel is said to have support for the chairmanship, while some party members call for structural changes and others reject them. Comparisons are drawn with the Bihar unit, and Ashoka Mehta’s earlier departure for Congress is invoked as an example of party liquidation. The second report records the executive committee’s decision to empower H. M. Patel to present the Gujarat unit’s position and its view that Masani’s conduct contributed to the defeat of the party’s official candidate. The document is a translation of reports from Jan Satta and Bombay Samachar; no translator or issuing office is identified.
+
 ## Key points
 
 - Minoo Masani proposed an ad hoc committee for the Gujarat Swatantra Party after the party’s Rajya Sabha election defeat.

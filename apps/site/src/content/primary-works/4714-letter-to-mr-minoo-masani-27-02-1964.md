@@ -50,6 +50,12 @@ summary: |-
   Rajagopalachari maintains that the Swatantra Party must depend on the public appeal of its principles and promises rather than on inherited mass support. He nevertheless suggests that Erdman has failed to account for the possibility that Congress’s inability to deliver on its promises may shape popular reaction to Swatantra’s message.
 ---
 
+## Summary
+
+In this letter dated 27 February 1964, C. Rajagopalachari responds to Howard Erdman’s study of the Swatantra Party, which he describes as a severely adverse assessment of the party’s prospects. Rajagopalachari accepts that Erdman has identified and corrected factual errors and false allegations, but argues that the report’s mass-plebiscite test underestimates a new party whose support is not inherited from an established political tradition.
+
+Rajagopalachari maintains that the Swatantra Party must depend on the public appeal of its principles and promises rather than on inherited mass support. He nevertheless suggests that Erdman has failed to account for the possibility that Congress’s inability to deliver on its promises may shape popular reaction to Swatantra’s message.
+
 ## Key points
 
 - Rajagopalachari is replying to Howard Erdman’s study of the Swatantra Party.

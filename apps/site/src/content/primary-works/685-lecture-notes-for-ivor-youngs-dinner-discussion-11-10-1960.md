@@ -50,6 +50,12 @@ summary: |-
   The notes then outline Young's professional background and responsibilities. He had been with Urwick Orr & Partners for about ten years, after working as a physicist, and advised large concerns on policy formation and implementation. He and colleagues were known as the "7 Figure Boys" because they advised clients with turnovers in the millions of pounds. Young was also responsible for the firm's overseas operations in the Eastern Hemisphere and was travelling between Colombo, Hong Kong, Singapore, Beirut, and Cyprus via India. Pages 4–6 contain handwritten notes on apparently separate subjects; their relationship to the typed dinner-discussion notes cannot be established from the rendered pages.
 ---
 
+## Summary
+
+These notes introduce Ivor Young and the international management-consulting firm Urwick Orr & Partners ahead of Young's dinner-discussion at Bombay's Taj Mahal Hotel on October 11, 1960. The typed pages describe the firm's origins under Lt. Col. Urwick, its recent leadership in the European Management Consultants' Association, and its scale: approximately 250 consultants working in or across 31 countries. The firm is presented as a comprehensive source of management knowledge and experience, with work spanning government departments, small businesses, large corporations, police forces, airlines, and tea plantations.
+
+The notes then outline Young's professional background and responsibilities. He had been with Urwick Orr & Partners for about ten years, after working as a physicist, and advised large concerns on policy formation and implementation. He and colleagues were known as the "7 Figure Boys" because they advised clients with turnovers in the millions of pounds. Young was also responsible for the firm's overseas operations in the Eastern Hemisphere and was travelling between Colombo, Hong Kong, Singapore, Beirut, and Cyprus via India. Pages 4–6 contain handwritten notes on apparently separate subjects; their relationship to the typed dinner-discussion notes cannot be established from the rendered pages.
+
 ## Key points
 
 - The document is a set of lecture notes prepared for Ivor Young's dinner-discussion at the Taj Mahal Hotel, Bombay, on October 11, 1960.

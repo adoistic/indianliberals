@@ -46,6 +46,10 @@ summary: |-
   Dated October 14, 1966, this one-page General Secretary's Letter from the Swatantra Party reports that C. Rajagopalachari (Rajaji) was recovering but had been advised to take complete rest. Because the party considered his presence essential to its National Convention, the letter announces that the convention would be held at Sapru House in New Delhi on December 12 and 13, rather than on November 16 and 17.
 ---
 
+## Summary
+
+Dated October 14, 1966, this one-page General Secretary's Letter from the Swatantra Party reports that C. Rajagopalachari (Rajaji) was recovering but had been advised to take complete rest. Because the party considered his presence essential to its National Convention, the letter announces that the convention would be held at Sapru House in New Delhi on December 12 and 13, rather than on November 16 and 17.
+
 ## Key points
 
 - M. R. Masani writes as General Secretary of the Swatantra Party.

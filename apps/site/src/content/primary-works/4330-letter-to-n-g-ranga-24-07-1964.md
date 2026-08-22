@@ -51,6 +51,12 @@ summary: |-
   Masani addresses the organisational difficulties of holding elections in states without functioning or recognised party units, particularly Madhya Pradesh, Bengal, Assam, and Delhi. He argues that neither the Constitution nor the Central Organising Committee’s decision could presently enable elections for representation from those states, and that existing arrangements should proceed without further intervention. He proposes rebuilding party organisation at district or state level, including planning with the Maharaja of Devgad-Baria in Madhya Pradesh, while allowing worthwhile individuals to be co-opted into the General Council. He adds that Bihar will be scrutinised under the same rules as other state units, alongside the forthcoming Munshi Report.
 ---
 
+## Summary
+
+In this two-page letter dated July 24, 1964, M. R. Masani replies to Prof. N. G. Ranga about a circular on election procedure. He says he is incorporating Ranga’s suggestions where they do not conflict with the Constitution, and notes that Rajaji has approved a revised circular with additional improvements and clarifications. The circular was expected to be issued by July 31 following a meeting of state secretaries in Bombay.
+
+Masani addresses the organisational difficulties of holding elections in states without functioning or recognised party units, particularly Madhya Pradesh, Bengal, Assam, and Delhi. He argues that neither the Constitution nor the Central Organising Committee’s decision could presently enable elections for representation from those states, and that existing arrangements should proceed without further intervention. He proposes rebuilding party organisation at district or state level, including planning with the Maharaja of Devgad-Baria in Madhya Pradesh, while allowing worthwhile individuals to be co-opted into the General Council. He adds that Bihar will be scrutinised under the same rules as other state units, alongside the forthcoming Munshi Report.
+
 ## Key points
 
 - Masani responds to Ranga’s suggestions on a circular governing election procedure.

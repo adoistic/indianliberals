@@ -51,6 +51,10 @@ summary: |-
   This one-page institutional financial statement records the Swatantra Party's receipts and payments for the period 1 June to 22 September 1959. Issued from the party's Bombay Office on letterhead identifying Dr. Rustom C. Cooper as honorary treasurer, it presents a tabulated account with total payments and receipts of Rs. 1,11,219.81 each.
 ---
 
+## Summary
+
+This one-page institutional financial statement records the Swatantra Party's receipts and payments for the period 1 June to 22 September 1959. Issued from the party's Bombay Office on letterhead identifying Dr. Rustom C. Cooper as honorary treasurer, it presents a tabulated account with total payments and receipts of Rs. 1,11,219.81 each.
+
 ## Key points
 
 - The account covers the period from 1 June 1959 to 22 September 1959.

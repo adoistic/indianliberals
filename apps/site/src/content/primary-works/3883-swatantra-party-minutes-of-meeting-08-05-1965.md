@@ -54,6 +54,12 @@ summary: |-
   The principal organisational decision was to begin internal party elections as constituencies met minimum enrolment requirements. Forty-three constituencies were authorised to hold constituency committee elections between May 15 and June 15; Ranchi, the only district then qualified for district-level elections, was instructed to hold them by June 30. District elections would follow when at least half of a district’s constituency committees had been elected, and state-level elections when at least half of the districts had elected committees. The committee also discussed outreach by its members, monthly meetings, and whether former Bihar parliamentarians who had left the party should be readmitted; it agreed that readmission should require a written apology.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party’s Bihar Advisory Committee meeting held in Patna on May 8, 1965. The committee reviewed the previous meeting’s minutes, heard Dahyabhai V. Patel’s report on tours of North Bihar and Chota Nagpur, and examined district-by-district progress in enrolling party workers. District organisers were asked to report on ongoing work and intensify efforts where enrolment was unsatisfactory. The attached table records 316 constituencies, total enrolment of 1,212 workers, 43 constituencies with enrolment of 20 or more, and 69 with enrolment below 20.
+
+The principal organisational decision was to begin internal party elections as constituencies met minimum enrolment requirements. Forty-three constituencies were authorised to hold constituency committee elections between May 15 and June 15; Ranchi, the only district then qualified for district-level elections, was instructed to hold them by June 30. District elections would follow when at least half of a district’s constituency committees had been elected, and state-level elections when at least half of the districts had elected committees. The committee also discussed outreach by its members, monthly meetings, and whether former Bihar parliamentarians who had left the party should be readmitted; it agreed that readmission should require a written apology.
+
 ## Key points
 
 - The Bihar Advisory Committee met at the Palace Hotel, Patna, on May 8, 1965, under the chairmanship of M. R. Masani.

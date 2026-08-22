@@ -50,6 +50,12 @@ summary: |-
   The letter presses Masani to seek the restoration of a monthly payment of Rs. 25,000 intended to help organise parliamentary units. Narain states that the Bihar party has already committed itself to parliamentary organisers across different units and warns that any interruption of central financial assistance would damage the party’s prestige and reduce its candidates’ chances of success. He asks Masani to place the request before the Central Organising Committee and communicate its decision to the Bihar Party before the end of the month.
 ---
 
+## Summary
+
+This single-page letter, dated August 19, 1961, is sent from the Swatantra Party Bihar office in Patna by the apparent signer Ramakrishna Narain to M. R. Masani, the Swatantra Party of India’s general secretary. Narain encloses a copy of the proceedings of an emergent meeting of the Bihar State Swatantra Party Working Committee held on August 17, 1961.
+
+The letter presses Masani to seek the restoration of a monthly payment of Rs. 25,000 intended to help organise parliamentary units. Narain states that the Bihar party has already committed itself to parliamentary organisers across different units and warns that any interruption of central financial assistance would damage the party’s prestige and reduce its candidates’ chances of success. He asks Masani to place the request before the Central Organising Committee and communicate its decision to the Bihar Party before the end of the month.
+
 ## Key points
 
 - The letter is dated August 19, 1961, and was issued from the Swatantra Party Bihar office in Chhaju Bagh, Patna.

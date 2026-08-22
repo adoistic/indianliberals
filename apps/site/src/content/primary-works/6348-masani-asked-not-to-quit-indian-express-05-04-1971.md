@@ -50,6 +50,12 @@ summary: |-
   Kalyani rejected the idea that Masani was responsible for the party’s electoral debacle. Instead, he attributed the defeat to the appeal of the socialist slogans advanced by Prime Minister Indira Gandhi, which he said had harmed other parties as well. The clipping is attributed to Express News Service and contains no named individual byline.
 ---
 
+## Summary
+
+This one-page Indian Express report, dated 5 April 1971, records an appeal from workers of the Saurashtra unit of the Swatantra Party urging M. R. Masani not to resign as party president after the party’s poor Lok Sabha election performance. Rajkot Swatantra leader Pramod Kalyani argued that Masani’s continued leadership would benefit the party and that a strong opposition was necessary for democracy to survive.
+
+Kalyani rejected the idea that Masani was responsible for the party’s electoral debacle. Instead, he attributed the defeat to the appeal of the socialist slogans advanced by Prime Minister Indira Gandhi, which he said had harmed other parties as well. The clipping is attributed to Express News Service and contains no named individual byline.
+
 ## Key points
 
 - Saurashtra Swatantra Party workers urged M. R. Masani not to resign as party president.

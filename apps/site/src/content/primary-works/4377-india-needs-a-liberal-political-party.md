@@ -63,6 +63,12 @@ summary: |-
   Raju defines the party’s core commitments as individual freedom and liberty in relation to the state and society, dignity, and the Rule of Law. Economically, he endorses the principle that “the business of the State is government, not business,” while allowing a substantial public role in law and order, national security, primary education, primary health care, drinking water, and infrastructure. He rejects a state monopoly over social services and argues that private organizations should also participate. The address concludes with practical proposals for the ILG: drafting a policy platform and identifying and training leaders motivated by public values rather than private gain.
 ---
 
+## Summary
+
+In this convention address, S. V. Raju argues that India needs a political party explicitly grounded in liberal principles. He presents the Indian Liberal Group (ILG) as an organization that should not itself become a party, but should act as a “midwife” to the creation of one. The proposed party would seek to carry liberal positions into Parliament and state legislatures, responding to what Raju describes as political opportunism, personality-centered parties, criminalisation, and weak accountability in governance.
+
+Raju defines the party’s core commitments as individual freedom and liberty in relation to the state and society, dignity, and the Rule of Law. Economically, he endorses the principle that “the business of the State is government, not business,” while allowing a substantial public role in law and order, national security, primary education, primary health care, drinking water, and infrastructure. He rejects a state monopoly over social services and argues that private organizations should also participate. The address concludes with practical proposals for the ILG: drafting a policy platform and identifying and training leaders motivated by public values rather than private gain.
+
 ## Key points
 
 - Raju calls for the formation of a new political party based on liberal principles and values.

@@ -48,6 +48,10 @@ summary: |-
   This one-page letter, dated February 19, 1968, was sent from Raj Bhavan, Calcutta, on the letterhead of the Governor of West Bengal to Shri M. R. Masani, M.P. The sender thanks Masani for a kind telegram and its expressed sentiments, and acknowledges the goodwill and recognition received from an esteemed leader.
 ---
 
+## Summary
+
+This one-page letter, dated February 19, 1968, was sent from Raj Bhavan, Calcutta, on the letterhead of the Governor of West Bengal to Shri M. R. Masani, M.P. The sender thanks Masani for a kind telegram and its expressed sentiments, and acknowledges the goodwill and recognition received from an esteemed leader.
+
 ## Key points
 
 - The letter is dated February 19, 1968, and issued from Raj Bhavan, Calcutta.

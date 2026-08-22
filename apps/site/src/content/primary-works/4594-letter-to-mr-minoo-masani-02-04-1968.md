@@ -51,6 +51,12 @@ summary: |-
   The attached correspondence is more confrontational. Pandey explains his calculations concerning transfers of preferential votes and challenges the interpretation that his nomination alongside Bhanu Pratap Singh made him a “dummy”; he says he was instead treated as a “rebel.” He states that the party’s High Command distrusts his sincere actions and warns that, if his deductions are correct, he will reconsider continuing in a party whose High Command frustrates those actions at the president’s insistence. The accompanying memorandum sets out numerical transfers among candidates and parties, arguing that particular voting patterns affected the election of Ram Ghulam, R. C. Shukla, Virendra Shah, Saidul Hasan, and Shanti Devi.
 ---
 
+## Summary
+
+This 2 April 1968 correspondence from K. D. R. Pandey, General Secretary of the Swatantra Party Uttar Pradesh, to Minoo Masani includes a covering letter, an attached letter to N. Dandekar, and a detailed memorandum on voting patterns in Uttar Pradesh legislative elections. Pandey says he is sending the material for Masani’s personal use and reports that he has learned of criticism of the party’s electoral conduct. He expresses hope that the Swatantra Party will soon recognize the need for reform and that Masani will return to party affairs.
+
+The attached correspondence is more confrontational. Pandey explains his calculations concerning transfers of preferential votes and challenges the interpretation that his nomination alongside Bhanu Pratap Singh made him a “dummy”; he says he was instead treated as a “rebel.” He states that the party’s High Command distrusts his sincere actions and warns that, if his deductions are correct, he will reconsider continuing in a party whose High Command frustrates those actions at the president’s insistence. The accompanying memorandum sets out numerical transfers among candidates and parties, arguing that particular voting patterns affected the election of Ram Ghulam, R. C. Shukla, Virendra Shah, Saidul Hasan, and Shanti Devi.
+
 ## Key points
 
 - The document is dated 2 April 1968 and is issued on Swatantra Party Uttar Pradesh letterhead from Lucknow.

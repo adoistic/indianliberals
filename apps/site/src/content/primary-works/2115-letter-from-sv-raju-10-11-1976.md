@@ -45,6 +45,10 @@ summary: |-
   In this letter dated November 10, 1976, S. V. Raju writes to the Divisional Engineer Telephones (Museum), Bombay 1, regarding telephone no. 271578. He disputes a bill of Rs. 714.20 dated November 1, 1976, arguing that the charge is inconsistent with the very small number of subscriber trunk dialling (STD) calls made from the telephone.
 ---
 
+## Summary
+
+In this letter dated November 10, 1976, S. V. Raju writes to the Divisional Engineer Telephones (Museum), Bombay 1, regarding telephone no. 271578. He disputes a bill of Rs. 714.20 dated November 1, 1976, arguing that the charge is inconsistent with the very small number of subscriber trunk dialling (STD) calls made from the telephone.
+
 ## Key points
 
 - The letter is dated November 10, 1976, and is signed by S. V. Raju as Joint Secretary.

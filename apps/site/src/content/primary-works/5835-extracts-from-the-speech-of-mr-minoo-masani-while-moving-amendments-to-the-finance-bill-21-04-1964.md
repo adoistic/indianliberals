@@ -51,6 +51,12 @@ summary: |-
   Masani also attacks the proposed dividend tax as indiscriminate and arbitrary, claiming that it penalises companies regardless of the size of their dividend and undermines the use of profits as a measure of efficiency. Finally, he opposes Amendment No. 85, which would raise the effective tax on private limited companies substantially when charitable trusts hold at least 75 per cent of their capital. He argues that the amendment penalises both charitable and non-charitable shareholders, strikes at private charity, and expands the government’s monopoly over social provision.
 ---
 
+## Summary
+
+In this extract from his 21 April 1964 Lok Sabha speech, M. R. Masani urges the House to reject three Finance Bill provisions. He objects first to raising the corporation tax on “Section 23-A companies” from 50 to 60 per cent, arguing that these are small, middle-class-owned companies in which ownership and enterprise are more widely distributed. In his view, the additional levy discourages precisely the forms of private investment that should be encouraged.
+
+Masani also attacks the proposed dividend tax as indiscriminate and arbitrary, claiming that it penalises companies regardless of the size of their dividend and undermines the use of profits as a measure of efficiency. Finally, he opposes Amendment No. 85, which would raise the effective tax on private limited companies substantially when charitable trusts hold at least 75 per cent of their capital. He argues that the amendment penalises both charitable and non-charitable shareholders, strikes at private charity, and expands the government’s monopoly over social provision.
+
 ## Key points
 
 - Masani opposes raising corporation tax on Section 23-A companies from 50 to 60 per cent.

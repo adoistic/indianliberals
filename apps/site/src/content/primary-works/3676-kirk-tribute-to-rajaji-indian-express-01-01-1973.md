@@ -50,6 +50,12 @@ summary: |-
   The message also emphasizes Rajagopalachari’s personal qualities: his devotion to spiritual values, concern for the individual, and influence on modern India. The clipping contains no byline, and the visible text is limited to Kirk’s tribute and closing expression of sympathy.
 ---
 
+## Summary
+
+This one-page Indian Express clipping, dated 1 January 1973, reports a condolence message from New Zealand Prime Minister Norman Kirk to C. R. Krishnaswami, the son of C. Rajagopalachari (Rajaji). Kirk presents Rajagopalachari as an unusually accomplished Indian politician, statesman, and philosopher.
+
+The message also emphasizes Rajagopalachari’s personal qualities: his devotion to spiritual values, concern for the individual, and influence on modern India. The clipping contains no byline, and the visible text is limited to Kirk’s tribute and closing expression of sympathy.
+
 ## Key points
 
 - The clipping reproduces a condolence message from New Zealand Prime Minister Norman Kirk.

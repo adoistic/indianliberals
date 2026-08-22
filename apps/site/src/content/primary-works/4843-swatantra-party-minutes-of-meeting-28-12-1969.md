@@ -56,6 +56,12 @@ summary: |-
   The minutes define the Board’s principal functions as guiding the party’s parliamentary and legislative groups, selecting candidates for the Lok Sabha and Rajya Sabha, and approving candidates for state legislatures. The Executive deferred a detailed statement on the party’s political attitude until its next meeting, raised concerns about confusion between the Rising Sun and Star election symbols, and reaffirmed that no action concerning the Gujarat government should be taken without prior approval from the Central Parliamentary Board. The meeting also assigned members to prepare policy papers on transport and communications, unemployment, food and agriculture, irrigation and rural electrification, and housing, and discussed extending party organisation into areas where it was weak or absent.
 ---
 
+## Summary
+
+These draft minutes record the first meeting of the newly elected Swatantra Party National Executive, held in Madras on 28 December 1969 under the chairmanship of M. R. Masani. The document lists the attendees, notes Rajaji’s congratulations, and records agreement that the party’s Vice-Presidents and Joint Secretaries should consult the President or General Secretary before making press statements on matters of national importance. The Executive also constituted a Central Parliamentary Board composed of party leaders from Parliament and several state assemblies.
+
+The minutes define the Board’s principal functions as guiding the party’s parliamentary and legislative groups, selecting candidates for the Lok Sabha and Rajya Sabha, and approving candidates for state legislatures. The Executive deferred a detailed statement on the party’s political attitude until its next meeting, raised concerns about confusion between the Rising Sun and Star election symbols, and reaffirmed that no action concerning the Gujarat government should be taken without prior approval from the Central Parliamentary Board. The meeting also assigned members to prepare policy papers on transport and communications, unemployment, food and agriculture, irrigation and rural electrification, and housing, and discussed extending party organisation into areas where it was weak or absent.
+
 ## Key points
 
 - The newly elected National Executive met in Madras on 28 December 1969, with M. R. Masani in the chair.

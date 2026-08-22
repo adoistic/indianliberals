@@ -50,6 +50,12 @@ summary: |-
   The letter also provides brief political and legal updates: it notes that Latchanna has not appeared in Hyderabad for several months, describes a poorly attended BJS meeting at Tenali, and refers to legal proceedings involving Piloo Mody, including two suits in the City Civil Court and a possible High Court case. Kumar asks Raju to keep him informed about these developments and about Minoo Masani’s efforts on behalf of the Swatantra Party. The second rendered page is the reverse of the inland letter card and contains no additional substantive correspondence.
 ---
 
+## Summary
+
+This untitled Swatantra Party letter, dated 24 February 1975 and signed by Joint Secretary V. S. Kumar, is addressed to S. V. Raju. Kumar acknowledges Raju’s efforts to write to party friends in Rajasthan and Gujarat, and proposes extending similar organisational work in Andhra Pradesh. He reports contacts with Sri Pantulu and parties in Nellore and Chittoor, particularly around bringing workers into the Bharatiya Jana Sangh (BJS) and organising them into committees at different levels.
+
+The letter also provides brief political and legal updates: it notes that Latchanna has not appeared in Hyderabad for several months, describes a poorly attended BJS meeting at Tenali, and refers to legal proceedings involving Piloo Mody, including two suits in the City Civil Court and a possible High Court case. Kumar asks Raju to keep him informed about these developments and about Minoo Masani’s efforts on behalf of the Swatantra Party. The second rendered page is the reverse of the inland letter card and contains no additional substantive correspondence.
+
 ## Key points
 
 - The letter acknowledges S. V. Raju’s outreach to Swatantra Party contacts in Rajasthan and Gujarat.

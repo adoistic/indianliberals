@@ -46,6 +46,10 @@ summary: |-
   This one-page official letter, dated 17 November 1970 from Shillong, is written by Williamson A. Sangma in his capacity as Chief Minister of Meghalaya to Minoo Masani. Sangma thanks Masani for his sympathy with Meghalaya's demand to become a full-fledged state and expresses confidence in Masani's support for legislation implementing that decision.
 ---
 
+## Summary
+
+This one-page official letter, dated 17 November 1970 from Shillong, is written by Williamson A. Sangma in his capacity as Chief Minister of Meghalaya to Minoo Masani. Sangma thanks Masani for his sympathy with Meghalaya's demand to become a full-fledged state and expresses confidence in Masani's support for legislation implementing that decision.
+
 ## Key points
 
 - The letter is dated 17 November 1970 and issued from Shillong on the Chief Minister of Meghalaya's letterhead.

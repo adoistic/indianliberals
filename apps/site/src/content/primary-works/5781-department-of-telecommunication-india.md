@@ -53,6 +53,12 @@ summary: |-
   The Swatantra Party requests that the Election Commission not allot the star to the Samata Party and asks that the symbol be frozen until the party's registration case in the Bombay High Court is finally settled. The scan includes a typed confirmatory copy and a handwritten duplicate; the final rendered page is an apparently unrelated page from Freedom First and is not part of the telegram.
 ---
 
+## Summary
+
+This untitled 1996 telegram from the Swatantra Party, Maharashtra, addressed to Chief Election Commissioner T. N. Seshan, objects to the Samata Party's reported application to reserve the star as its electoral symbol. The message argues that the star is already associated with the Swatantra Party and is publicly identified with opposition to socialism and statism.
+
+The Swatantra Party requests that the Election Commission not allot the star to the Samata Party and asks that the symbol be frozen until the party's registration case in the Bombay High Court is finally settled. The scan includes a typed confirmatory copy and a handwritten duplicate; the final rendered page is an apparently unrelated page from Freedom First and is not part of the telegram.
+
 ## Key points
 
 - The telegram was sent by the Swatantra Party, Maharashtra, to Chief Election Commissioner T. N. Seshan.

@@ -54,6 +54,12 @@ summary: |-
   The substantive discussion focuses on state enterprises, inflation, prices, and business responsibility. The notes anticipate Dr. Das’s review of state enterprises while questioning the efficiency of public-sector steel production and linking price rises to wasteful investment in low-return state enterprises and to basic government policies. They reject the idea that controls alone can stop inflation, while also assigning businessmen and traders responsibility for avoiding anti-social practices. The notes propose that commercial and trade associations establish vigilance organisations for voluntary discipline, potentially led by an industrialist such as J. R. D. Tata. Handwritten annotations are present throughout, including comments on security, controversy, and the “price line.”
 ---
 
+## Summary
+
+These two pages are typed lecture notes dated 26 October 1962 for an introduction to “Dr. Das” at the Forum of Free Enterprise. They sketch Dr. Das’s background as a Bengali novelist, journalist, former Secretary to the Bengal Government, Presidency College and LSE alumnus, and former Indian Civil Service officer who later became Director-General of the Employers’ Federation of India. The notes also list his books, including “Public Sector in India,” “Industrial Enterprises in India,” and “Essays in Applied Economics.”
+
+The substantive discussion focuses on state enterprises, inflation, prices, and business responsibility. The notes anticipate Dr. Das’s review of state enterprises while questioning the efficiency of public-sector steel production and linking price rises to wasteful investment in low-return state enterprises and to basic government policies. They reject the idea that controls alone can stop inflation, while also assigning businessmen and traders responsibility for avoiding anti-social practices. The notes propose that commercial and trade associations establish vigilance organisations for voluntary discipline, potentially led by an industrialist such as J. R. D. Tata. Handwritten annotations are present throughout, including comments on security, controversy, and the “price line.”
+
 ## Key points
 
 - The document is dated 26 October 1962 and introduces an unidentified “Dr. Das” under the auspices of the Forum of Free Enterprise.

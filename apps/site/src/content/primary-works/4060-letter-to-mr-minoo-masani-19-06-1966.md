@@ -54,6 +54,12 @@ summary: |-
   In the enclosed note, Shenoy defines three objectives of devaluation: eliminating the black market in foreign exchange, restoring exporters’ full rupee earnings, and shifting production from the domestic market toward exports. He links India’s balance-of-payments crisis to inflation, import-substitution policies, and the resulting movement of resources away from export industries. He criticizes export duties as obstructing the necessary production shift, disputes claims that devaluation itself will cause a broad rise in consumer prices, and defends the World Bank’s role in pressing India to devalue. The document ends by warning that without a substantial increase in exports, India’s external-debt difficulties will persist.
 ---
 
+## Summary
+
+This 18 June 1966 letter from B. R. Shenoy to M. R. Masani encloses a note titled “DEVALUATION OF THE RUPEE,” written for press reporters met the previous day. The letter itself is brief; its substantive content is the two-page enclosure, which welcomes devaluation as preferable to continued overvaluation but argues that the chosen rate does not go far enough and that new export duties will reduce its benefits.
+
+In the enclosed note, Shenoy defines three objectives of devaluation: eliminating the black market in foreign exchange, restoring exporters’ full rupee earnings, and shifting production from the domestic market toward exports. He links India’s balance-of-payments crisis to inflation, import-substitution policies, and the resulting movement of resources away from export industries. He criticizes export duties as obstructing the necessary production shift, disputes claims that devaluation itself will cause a broad rise in consumer prices, and defends the World Bank’s role in pressing India to devalue. The document ends by warning that without a substantial increase in exports, India’s external-debt difficulties will persist.
+
 ## Key points
 
 - The letter, dated 18 June 1966, sends M. R. Masani an enclosed note on rupee devaluation.

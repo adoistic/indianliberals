@@ -50,6 +50,12 @@ summary: |-
   The writer then explains concern about retaining support for a particular candidate, apparently a Singh who had the backing of his party and the writer. The letter refers to a personal letter sent to another senior figure and to subsequent discussions, but several names and passages are difficult to decipher. The document is signed or attributed as “Ranga”; the year is not visible.
 ---
 
+## Summary
+
+This untitled handwritten letter, written on Rajya Sabha letterhead from New Delhi and addressed to Minoo Masani, discusses the election of a Delhi Speaker. The writer reports that the matter was discussed with other political figures and that those involved felt the election should be kept separate from a broader political issue or party alignment.
+
+The writer then explains concern about retaining support for a particular candidate, apparently a Singh who had the backing of his party and the writer. The letter refers to a personal letter sent to another senior figure and to subsequent discussions, but several names and passages are difficult to decipher. The document is signed or attributed as “Ranga”; the year is not visible.
+
 ## Key points
 
 - The letter is addressed to Minoo Masani and written on Rajya Sabha letterhead from New Delhi.

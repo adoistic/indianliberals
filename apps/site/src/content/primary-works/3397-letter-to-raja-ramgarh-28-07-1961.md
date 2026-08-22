@@ -46,6 +46,12 @@ summary: |-
   A closing note records that a similar telegram was sent to c/o Bokaro & Ramgarh Ltd. at 22 Chittaranjan Avenue, Calcutta. The page does not print a formal title, publisher, full sender name, or explicit recipient name beyond “Raja Ramgarh”.
 ---
 
+## Summary
+
+This one-page English telegram, dated 28th July 1961, is addressed to Raja Ramgarh at Ramgarh House, Patna, and bears the sender line “— MASANI —”. Its clipped message states that credit has been arranged and that an early visit to Bombay is desirable. The telegram gives the Bombay address “143 Mahatma Gandhi Road, Bombay” and includes a reference number, “26887”.
+
+A closing note records that a similar telegram was sent to c/o Bokaro & Ramgarh Ltd. at 22 Chittaranjan Avenue, Calcutta. The page does not print a formal title, publisher, full sender name, or explicit recipient name beyond “Raja Ramgarh”.
+
 ## Key points
 
 - The document is a one-page English telegram marked “EXPRESS”.

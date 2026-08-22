@@ -55,6 +55,12 @@ summary: |-
   The correspondence also covers parliamentary tactics for the forthcoming Lok Sabha session. Amin proposes an impeachment resolution against the President over the U.P. proclamation and urges Masani to support a no-confidence motion. The letters additionally consider a possible black-flag demonstration on President V. V. Giri’s return from Eastern Europe. Masani’s reply discusses travel plans and participation in the proposed October 15 demonstration. The file ends with a brief confirmation telegram and related logistical correspondence; no broader policy programme or outcome of the proposed actions is included in the pages seen.
 ---
 
+## Summary
+
+This six-page English correspondence file, dated 3–6 October 1970, records Swatantra Party discussions among R. K. Amin, M. R. Masani, and A. P. Jain during a period of opposition mobilisation against the Indira Gandhi government. The letters discuss proposed demonstrations in Delhi and Lucknow concerning the Uttar Pradesh proclamation, the possibility that party leaders should lead processions and court arrest, and the party’s role in issuing public statements denouncing Mrs. Gandhi.
+
+The correspondence also covers parliamentary tactics for the forthcoming Lok Sabha session. Amin proposes an impeachment resolution against the President over the U.P. proclamation and urges Masani to support a no-confidence motion. The letters additionally consider a possible black-flag demonstration on President V. V. Giri’s return from Eastern Europe. Masani’s reply discusses travel plans and participation in the proposed October 15 demonstration. The file ends with a brief confirmation telegram and related logistical correspondence; no broader policy programme or outcome of the proposed actions is included in the pages seen.
+
 ## Key points
 
 - R. K. Amin reports on cross-party discussions held at S. Nijalingappa’s house and proposes joint demonstrations in Delhi.

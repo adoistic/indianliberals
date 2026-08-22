@@ -51,6 +51,12 @@ summary: |-
   The attached note records repeated correspondence with the Regional Transport Office over unpaid vehicle tax, despite Masani's assertion that the vehicle never belonged to him personally and was never in his possession. It lists demands and bills received between 1976 and 1986, Masani's repeated replies and protests, and his complaint that the R.T.O. continued to involve the Collector's office unnecessarily. In the covering letter, Masani asks that the matter be treated as closed while offering to show Sinha the complete file, which he says documents years of harassment caused by official incompetence and negligence.
 ---
 
+## Summary
+
+This 17 March 1987 letter from M. R. Masani to A. P. Sinha concerns vehicle MRG 2347 and encloses a detailed note tracing its ownership and registration history. Masani explains that the vehicle belonged to the Swatantra Party during the 1971 general elections, was registered in his name because he was then party president, and was used by Piloo Mody for election campaigning in Godhra, Gujarat. After the election, the party sold the vehicle to Mody, who retained it in Godhra for constituency work.
+
+The attached note records repeated correspondence with the Regional Transport Office over unpaid vehicle tax, despite Masani's assertion that the vehicle never belonged to him personally and was never in his possession. It lists demands and bills received between 1976 and 1986, Masani's repeated replies and protests, and his complaint that the R.T.O. continued to involve the Collector's office unnecessarily. In the covering letter, Masani asks that the matter be treated as closed while offering to show Sinha the complete file, which he says documents years of harassment caused by official incompetence and negligence.
+
 ## Key points
 
 - The letter is dated 17 March 1987 and is addressed to A. P. Sinha, Collector of Bombay and Bombay Suburban Districts.

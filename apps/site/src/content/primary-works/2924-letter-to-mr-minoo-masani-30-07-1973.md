@@ -53,6 +53,12 @@ summary: |-
   Instead, the letter proposes an alternative leadership made up of respected citizens who have not been damaged by electoral politics. This proposed National Citizens Front would bring together people from industry, trade, business, the professions, and civic life; formulate practical policies; coordinate with representative organisations; mobilise consumers through constitutional agitation; and pressure government to respond. The writer distinguishes the Front from a party because it would not put forward its own candidates, except by supporting selected candidates during presidential elections. The final page proposes an exploratory meeting in Bombay and names several possible participants, but the document contains no sender’s name, signature, or formal title.
 ---
 
+## Summary
+
+This three-page typed letter, dated July 30, 1973 and addressed to Minoo Masani, argues that India’s worsening economic crisis and widespread public distrust cannot be addressed by simply merging existing opposition parties or creating another conventional party. The writer describes shortages of essentials and fears that a larger political explosion is approaching, while maintaining that established parties are too compromised by their identities, policies, and rivalries to inspire confidence.
+
+Instead, the letter proposes an alternative leadership made up of respected citizens who have not been damaged by electoral politics. This proposed National Citizens Front would bring together people from industry, trade, business, the professions, and civic life; formulate practical policies; coordinate with representative organisations; mobilise consumers through constitutional agitation; and pressure government to respond. The writer distinguishes the Front from a party because it would not put forward its own candidates, except by supporting selected candidates during presidential elections. The final page proposes an exploratory meeting in Bombay and names several possible participants, but the document contains no sender’s name, signature, or formal title.
+
 ## Key points
 
 - The writer rejects the idea that merging existing opposition parties would restore public confidence.

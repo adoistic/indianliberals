@@ -53,6 +53,12 @@ summary: |-
   In the rendered page, Masani describes the ongoing ceasefire and negotiations as an opportunity to rebuild trust. He supports talks with underground leaders, recognition of legitimate local aspirations, and an eventual political arrangement that gives Nagaland meaningful autonomy while preserving India's unity and security. He warns that prolonged military operations could deepen alienation, and concludes that peace requires patience, withdrawal of exceptional powers, and a settlement accepted by the Naga people.
 ---
 
+## Summary
+
+In the rendered page, M. R. Masani argues for a constructive settlement of the Nagaland conflict within the Indian Union rather than either unconditional independence or a purely coercive military response. He presents Nagaland as part of India's “vast family” of diverse races, religions, and cultures, while insisting that constitutional guarantees, civil rights, and political accommodation must be taken seriously. The article rejects the idea that Naga society is primitive and stresses the region's capacity for self-government and democratic development.
+
+In the rendered page, Masani describes the ongoing ceasefire and negotiations as an opportunity to rebuild trust. He supports talks with underground leaders, recognition of legitimate local aspirations, and an eventual political arrangement that gives Nagaland meaningful autonomy while preserving India's unity and security. He warns that prolonged military operations could deepen alienation, and concludes that peace requires patience, withdrawal of exceptional powers, and a settlement accepted by the Naga people.
+
 ## Key points
 
 - Masani frames the Nagaland issue as a constitutional and political problem, not only a security problem.

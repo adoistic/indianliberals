@@ -48,6 +48,14 @@ summary: |-
   The hotel asks Madras Telephones to refund the disputed four-minute overcharge so that the difference can be returned to Masani, requests an early reply, and copies the letter to Masani at 148, Mahatma Gandhi Road, Bombay 400 023. A marginal note adds that the hotel will pass on any reply and regrets the inconvenience caused.
 ---
 
+## Summary
+
+A single-page administrative letter dated 9 December 1975, sent on Connemara Hotel (Madras) letterhead by the Asst. Manager, Front Office to the Accounts Officer, Revenue Department, Madras Telephones. It documents a billing dispute over a trunk call booked that morning from Room No. 162 by Mr. M. R. Masani of the Swatantra Party.
+
+The hotel operator booked a call to Bombay telephone number 361884 at 8.00 a.m.; it was connected at 8.10 a.m. under Ticket No. X172 and billed at Rs. 60/- for six minutes. On checking out an hour later, Masani insisted he had spoken for only two minutes, paid the Rs. 60/- under protest, and asked the hotel to take the matter up with the exchange. He had also spoken directly to the exchange operator without receiving a satisfactory answer.
+
+The hotel asks Madras Telephones to refund the disputed four-minute overcharge so that the difference can be returned to Masani, requests an early reply, and copies the letter to Masani at 148, Mahatma Gandhi Road, Bombay 400 023. A marginal note adds that the hotel will pass on any reply and regrets the inconvenience caused.
+
 ## Key points
 
 - Letter on Connemara Hotel (Binny Road, Madras-600 002) letterhead, dated 9 December 1975, to the Accounts Officer, Revenue Department, Madras Telephones.

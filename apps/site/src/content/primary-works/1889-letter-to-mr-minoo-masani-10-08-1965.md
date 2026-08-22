@@ -51,6 +51,12 @@ summary: |-
   The letter also outlines possible parliamentary responses to reported Pakistani infiltration in Jammu and Kashmir, including an adjournment motion, a calling-attention notice, or discussion following a government statement. Jain says the party should plan its strategy in light of other parties’ attitudes. The second rendered page is an envelope addressed to Masani and contains no additional substantive correspondence.
 ---
 
+## Summary
+
+This 10 August 1965 letter from A.P. Jain, written on Swatantra Party Parliamentary Office letterhead, reports that the party has secured first priority for a no-confidence motion under the new parliamentary rules. Jain tells Minoo Masani that Professor Ranga has suggested a parliamentary party meeting for 16 August and recommends Monday morning to maximize attendance.
+
+The letter also outlines possible parliamentary responses to reported Pakistani infiltration in Jammu and Kashmir, including an adjournment motion, a calling-attention notice, or discussion following a government statement. Jain says the party should plan its strategy in light of other parties’ attitudes. The second rendered page is an envelope addressed to Masani and contains no additional substantive correspondence.
+
 ## Key points
 
 - A.P. Jain reports securing first priority for the Swatantra Party’s no-confidence motion.

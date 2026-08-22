@@ -57,6 +57,12 @@ summary: |-
   Masani also contrasts Swatantra’s ideological campaign and avoidance of personal attacks with what he calls Congress’s personal smear campaign and alleged attempts to intimidate sections of the public. The note discusses allegations involving Gujarat Home Minister Rasiklal Parikh, including the reported late-night visit to a Muslim businessman and police activity during the Rajkot by-election. Masani says the allegations were substantially correct, urges Parikh to resign and submit to an inquiry, and invokes British public-life standards and John Kenneth Galbraith’s resignation as an example. The final section is explicitly marked “Not for publication.”
 ---
 
+## Summary
+
+This two-page Swatantra Party press note, issued from Bombay on June 4, 1963, records M. R. Masani’s account of the party’s electoral victory in Gujarat. Masani attributes the shift from a 41,000-seat Congress majority the previous year to a 14,000-seat Swatantra majority to a broader change in public opinion, citing high taxes and prices, the Gold Control Order, neglect of national defence, and dissatisfaction with the Congress administration’s conduct. He presents the result as a warning that Congress must change its policies or leave office.
+
+Masani also contrasts Swatantra’s ideological campaign and avoidance of personal attacks with what he calls Congress’s personal smear campaign and alleged attempts to intimidate sections of the public. The note discusses allegations involving Gujarat Home Minister Rasiklal Parikh, including the reported late-night visit to a Muslim businessman and police activity during the Rajkot by-election. Masani says the allegations were substantially correct, urges Parikh to resign and submit to an inquiry, and invokes British public-life standards and John Kenneth Galbraith’s resignation as an example. The final section is explicitly marked “Not for publication.”
+
 ## Key points
 
 - Masani links Swatantra’s Gujarat victory to a marked electoral shift away from Congress.

@@ -47,6 +47,12 @@ summary: |-
   Masani returns a bill dated 1 February 1985 concerning car No. MRG-2347, stating that he neither owns nor possesses the vehicle and that the bill was sent to him in error. The letter records the enclosed bill as the sole attachment and is signed by Masani.
 ---
 
+## Summary
+
+This one-page typed copy of a registered letter, dated 13 February 1985, is addressed by M. R. Masani to the Regional Transport Officer in Bombay. Masani objects that the office has repeatedly sent him bills unrelated to him, despite his earlier requests for correction.
+
+Masani returns a bill dated 1 February 1985 concerning car No. MRG-2347, stating that he neither owns nor possesses the vehicle and that the bill was sent to him in error. The letter records the enclosed bill as the sole attachment and is signed by Masani.
+
 ## Key points
 
 - The document is a copy of a registered letter dated 13 February 1985.

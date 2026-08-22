@@ -52,6 +52,12 @@ summary: |-
   The report rejects an appeal circulated by Bihar party members, arguing that it misrepresented the facts, challenged the bona fides of party bodies, and made serious allegations against Munshi and the General Secretary. It states that the matter was referred to the General Council because the relevant committees could not consider it in the absence of the State President, and criticises the appeal for turning an internal party matter into public propaganda. The document is undated and has no named individual author; the events described occurred primarily in 1961–1962.
 ---
 
+## Summary
+
+This two-page report of the Swatantra Party Organisation Sub-Committee addresses an organisational dispute within the Bihar unit concerning the division of the unit for general-election purposes and the implementation of an award made by K. M. Munshi. It recounts decisions taken by the Central Organising Committee, the Parliamentary Sub-Committee, and joint party meetings in Madras, Bangalore, Agra, and Bombay between October 1961 and March 1962. The report maintains that the Munshi award was a temporary electoral measure, that subsequent directions were issued to facilitate its implementation, and that the State President's working committee was ultimately dissolved and replaced with an interim committee.
+
+The report rejects an appeal circulated by Bihar party members, arguing that it misrepresented the facts, challenged the bona fides of party bodies, and made serious allegations against Munshi and the General Secretary. It states that the matter was referred to the General Council because the relevant committees could not consider it in the absence of the State President, and criticises the appeal for turning an internal party matter into public propaganda. The document is undated and has no named individual author; the events described occurred primarily in 1961–1962.
+
 ## Key points
 
 - The report responds to an appeal challenging the decision concerning representation of the Swatantra Party's Bihar unit.

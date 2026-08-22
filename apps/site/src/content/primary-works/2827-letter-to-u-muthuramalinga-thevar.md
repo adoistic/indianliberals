@@ -48,6 +48,10 @@ summary: |-
   This one-page English letter, dated “Madurai 3-62,” is from U. Muthuramalinga Thevar, identified in the sender block as an elected member of the Aruppukkottai–Madurai parliamentary constituency, to the Speaker of the Parliament of India in New Delhi. The letter concerns Thevar’s recent association with the Swatantra Party.
 ---
 
+## Summary
+
+This one-page English letter, dated “Madurai 3-62,” is from U. Muthuramalinga Thevar, identified in the sender block as an elected member of the Aruppukkottai–Madurai parliamentary constituency, to the Speaker of the Parliament of India in New Delhi. The letter concerns Thevar’s recent association with the Swatantra Party.
+
 ## Key points
 
 - The document is a formal letter addressed to the Speaker of the Parliament of India.

@@ -56,6 +56,12 @@ summary: |-
   The constitution defines the party’s objectives, membership categories, subscription rules, primary units, district committees, state or regional councils, the General Council, and the National Executive. It establishes a hierarchical but representative organisational structure, with proportional representation used for several bodies and specified powers for elected executives. The election procedure then sets a 1967 timetable running from worker enrolment and register verification through primary, district, state, and General Council elections, culminating in the election and assumption of office of a new National Executive on December 1, 1967. It also details electoral rolls, returning officers, secret ballots, eligibility, nominations, counting, and representation formulas.
 ---
 
+## Summary
+
+This Swatantra Party circular, issued from the Central Office on June 28, 1967, encloses the party’s “Procedure for Party Elections (1967)” and a constitution amended at the Fourth National Convention in New Delhi on December 12, 1966. The covering letter instructs state and regional organisations to follow the election procedure closely, arrange translations without departing from the English text, and complete the verification of membership registers and subscription accounts before participating in elections.
+
+The constitution defines the party’s objectives, membership categories, subscription rules, primary units, district committees, state or regional councils, the General Council, and the National Executive. It establishes a hierarchical but representative organisational structure, with proportional representation used for several bodies and specified powers for elected executives. The election procedure then sets a 1967 timetable running from worker enrolment and register verification through primary, district, state, and General Council elections, culminating in the election and assumption of office of a new National Executive on December 1, 1967. It also details electoral rolls, returning officers, secret ballots, eligibility, nominations, counting, and representation formulas.
+
 ## Key points
 
 - The document is General Secretary’s Letter No. 157, dated June 28, 1967, from the Swatantra Party Central Office in Bombay.

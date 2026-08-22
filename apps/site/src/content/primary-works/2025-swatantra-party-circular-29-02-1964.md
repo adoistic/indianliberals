@@ -52,6 +52,10 @@ summary: |-
   This two-page English circular, issued by the Swatantra Party Parliamentary Office in New Delhi on February 29, 1964, announces a meeting of the party's parliamentary members to discuss the party's attitude toward the Budget. The meeting was scheduled for March 3, 1964, at the Committee Room in Central Hall, Parliament House.
 ---
 
+## Summary
+
+This two-page English circular, issued by the Swatantra Party Parliamentary Office in New Delhi on February 29, 1964, announces a meeting of the party's parliamentary members to discuss the party's attitude toward the Budget. The meeting was scheduled for March 3, 1964, at the Committee Room in Central Hall, Parliament House.
+
 ## Key points
 
 - The circular announces a Swatantra Party parliamentary meeting on March 3, 1964.

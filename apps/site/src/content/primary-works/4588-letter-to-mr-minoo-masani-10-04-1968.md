@@ -49,6 +49,12 @@ summary: |-
   The typed letter dated April 5 is addressed to C. Rajagopalachari (“Rajaji”) and concerns resignations by Masani, Maharaja Madho Singhji, and Pujya Bhaikaka. It urges Rajaji to use his influence to withdraw the resignations, convene an emergency General Council meeting, restore party discipline, and prevent the Swatantra Party from being weakened by internal conflict. The letters offer a personal view of party-management concerns surrounding the Swatantra Party in Gujarat in 1968, but the file provides no formal title or author byline beyond the sender’s letterhead and signature.
 ---
 
+## Summary
+
+This four-page correspondence file contains two letters written from Gondal in April 1968 by Kusum Kumari C. Joshi, who signs as “Kusum.” The handwritten letter dated April 10 is addressed to Minoo Masani after what the writer calls his “adventure,” expressing shock and admiration while discussing his absence from a forthcoming meeting, invitations to political colleagues, and arrangements for visits and meals. It also refers to an emergency meeting of the General Council and to Morarji Desai’s personal visit and invitation.
+
+The typed letter dated April 5 is addressed to C. Rajagopalachari (“Rajaji”) and concerns resignations by Masani, Maharaja Madho Singhji, and Pujya Bhaikaka. It urges Rajaji to use his influence to withdraw the resignations, convene an emergency General Council meeting, restore party discipline, and prevent the Swatantra Party from being weakened by internal conflict. The letters offer a personal view of party-management concerns surrounding the Swatantra Party in Gujarat in 1968, but the file provides no formal title or author byline beyond the sender’s letterhead and signature.
+
 ## Key points
 
 - The file consists of two English-language letters from Gondal dated April 5 and April 10, 1968.

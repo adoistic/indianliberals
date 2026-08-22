@@ -52,6 +52,12 @@ summary: |-
   The article presents Rajaji as a major figure in India’s freedom struggle, closely associated with Mahatma Gandhi and distinguished as the last and only Indian Governor-General of India. It also comments on the respect he commanded in Tamil Nadu politics and suggests that M. G. Ramachandran’s expulsion from the DMK might lead him to seek Rajaji’s blessings. The visible clipping contains no author byline or verified publication imprint; handwritten annotations identify the source as “March of Nation,” but that identification is not confirmed by the printed text.
 ---
 
+## Summary
+
+This undated-byline newspaper clipping, printed on 6 January 1973 under the headline “VETERAN,” is a brief obituary tribute to Chakravarti Rajagopalachari (Rajaji), who had recently died after completing his ninety-fourth year. It recalls his continuing public engagement, noting that he remained politically alert and active almost to the end of his life.
+
+The article presents Rajaji as a major figure in India’s freedom struggle, closely associated with Mahatma Gandhi and distinguished as the last and only Indian Governor-General of India. It also comments on the respect he commanded in Tamil Nadu politics and suggests that M. G. Ramachandran’s expulsion from the DMK might lead him to seek Rajaji’s blessings. The visible clipping contains no author byline or verified publication imprint; handwritten annotations identify the source as “March of Nation,” but that identification is not confirmed by the printed text.
+
 ## Key points
 
 - The clipping marks the death of C. Rajagopalachari after he completed his ninety-fourth year.

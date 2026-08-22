@@ -49,6 +49,10 @@ summary: |-
   In this one-page letter dated May 15, 1972, D. N. Patodia writes to M. R. Masani about a letter circulated by N. Dandekar proposing the resignation of all members of the National Executive and the re-election of the entire committee, including its president. Patodia notes that the proposal has generated controversy among members of the National Executive and asks Masani for his views before taking any action.
 ---
 
+## Summary
+
+In this one-page letter dated May 15, 1972, D. N. Patodia writes to M. R. Masani about a letter circulated by N. Dandekar proposing the resignation of all members of the National Executive and the re-election of the entire committee, including its president. Patodia notes that the proposal has generated controversy among members of the National Executive and asks Masani for his views before taking any action.
+
 ## Key points
 
 - The letter is dated May 15, 1972, and is signed by D. N. Patodia.

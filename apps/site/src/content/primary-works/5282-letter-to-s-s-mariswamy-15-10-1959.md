@@ -50,6 +50,12 @@ summary: |-
   The letter records Masani's overlapping political and organisational commitments during the early period of the Swatantra Party. It is a concise piece of correspondence concerning constitutional and legislative business, party activity, and scheduling; no broader policy argument is developed in the page shown.
 ---
 
+## Summary
+
+In this letter dated 13 October 1959, M. R. Masani informs S. S. Mariswamy that he is leaving for Delhi to attend a Select Committee meeting on the Companies Amendment Bill. He thanks Mariswamy for inviting him to the Tiruchi Convention on 8 November but explains that he cannot remain in Madras for the intervening week because of a planned visit to C. Rajagopalachari and a prior commitment to attend the Swatantra Party Convention in Coorg.
+
+The letter records Masani's overlapping political and organisational commitments during the early period of the Swatantra Party. It is a concise piece of correspondence concerning constitutional and legislative business, party activity, and scheduling; no broader policy argument is developed in the page shown.
+
 ## Key points
 
 - The letter is dated 13 October 1959 and is signed by M. R. Masani.

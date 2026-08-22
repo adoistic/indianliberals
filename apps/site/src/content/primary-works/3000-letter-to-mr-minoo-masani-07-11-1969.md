@@ -51,6 +51,12 @@ summary: |-
   The enclosed 31 October 1969 note from the Swatantra Party Parliamentary Office records the absence of standing arrangements for ministers to consult Party office-bearers. It describes a recent dispute over the National Shipping Board's inclusion of H. Ajmal Khan in a delegation to African countries without prior consultation, and proposes that ministers contact the Party Leader, Deputy Leader, or a designated secretary when information or guidance is needed during the recess.
 ---
 
+## Summary
+
+This two-page Swatantra Party correspondence concerns arrangements for communication between government ministers and the Party during the parliamentary off-session. The covering letter from the Party's central office in Bombay to M. R. Masani explains that N. Dandeker is abroad and asks Masani to deal with the enclosed note at the next Party meeting in Parliament.
+
+The enclosed 31 October 1969 note from the Swatantra Party Parliamentary Office records the absence of standing arrangements for ministers to consult Party office-bearers. It describes a recent dispute over the National Shipping Board's inclusion of H. Ajmal Khan in a delegation to African countries without prior consultation, and proposes that ministers contact the Party Leader, Deputy Leader, or a designated secretary when information or guidance is needed during the recess.
+
 ## Key points
 
 - The central office sends M. R. Masani a note addressed to N. Dandeker.

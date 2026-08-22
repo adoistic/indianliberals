@@ -47,6 +47,12 @@ summary: |-
   The list covers publications from Andhra, Assam, Bihar, Bombay, Delhi, Gujarat, Himachal Pradesh, Kerala, Madhya Pradesh, Madras, Maharashtra, Mysore, Orissa, Punjab, Rajasthan, Uttar Pradesh, and West Bengal. It records publications in English, Hindi, Telugu, Urdu, Assamese, Gujarati, Marathi, Malayalam, Tamil, Kannada, Oriya, Punjabi, and Bengali. The document contains no visible author, date, publisher, or explanatory notes beyond the directory listings.
 ---
 
+## Summary
+
+This seven-page reference document is a numbered mailing list of Indian newspapers and periodicals. It groups titles geographically by state or region and identifies whether each publication is a daily, weekly, fortnightly, or tri-weekly. Each entry generally supplies the publication's name, postal address, and language of publication.
+
+The list covers publications from Andhra, Assam, Bihar, Bombay, Delhi, Gujarat, Himachal Pradesh, Kerala, Madhya Pradesh, Madras, Maharashtra, Mysore, Orissa, Punjab, Rajasthan, Uttar Pradesh, and West Bengal. It records publications in English, Hindi, Telugu, Urdu, Assamese, Gujarati, Marathi, Malayalam, Tamil, Kannada, Oriya, Punjabi, and Bengali. The document contains no visible author, date, publisher, or explanatory notes beyond the directory listings.
+
 ## Key points
 
 - The document is a mailing list rather than an argumentative or literary work.

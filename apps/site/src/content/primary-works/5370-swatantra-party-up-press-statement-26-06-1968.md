@@ -50,6 +50,10 @@ summary: |-
   This one-page press statement, issued by the Swatantra Party Uttar Pradesh in Lucknow on 26 June 1968 and signed by its president Bhanu Pratap Singh, expresses disappointment at the breakdown of merger talks between the Swatantra Party and RLD leaders. Singh argues that Charan Singh’s proposal to create a broad-based democratic party by merging non-Marxist and non-communal parties merits renewed consideration.
 ---
 
+## Summary
+
+This one-page press statement, issued by the Swatantra Party Uttar Pradesh in Lucknow on 26 June 1968 and signed by its president Bhanu Pratap Singh, expresses disappointment at the breakdown of merger talks between the Swatantra Party and RLD leaders. Singh argues that Charan Singh’s proposal to create a broad-based democratic party by merging non-Marxist and non-communal parties merits renewed consideration.
+
 ## Key points
 
 - The statement records surprise and unhappiness at the abrupt end of merger discussions.

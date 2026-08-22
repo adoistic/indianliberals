@@ -53,6 +53,12 @@ summary: |-
   The affidavit records service on the Union of India’s Legal Department in Bombay, the Chief Election Commissioner, and the Secretary of the Election Commission of India in New Delhi. It states that respondents 2 and 3 received the Rule NISI and petition on 18 February 1995, while respondent 1 was served on 9 February 1995. Attached registered-post acknowledgement cards and postal stamps document delivery to the Election Commission and the Sheriff of Bombay. The document concludes that service on respondents 1 to 3 was duly effected and was affirmed at Bombay in March 1995.
 ---
 
+## Summary
+
+This seven-page court filing is an affidavit of service in Writ Petition No. 14 of 1995 before the High Court of Judicature at Bombay. The petition is identified as having been brought by Swatantra Party and another against the Union of India and others. S.B. Rane and S.W. Bhadale, described as Bailiffs of the Sheriff of Bombay, affirm that the petitioners applied for service of Rule NISI and the petition on the respondents.
+
+The affidavit records service on the Union of India’s Legal Department in Bombay, the Chief Election Commissioner, and the Secretary of the Election Commission of India in New Delhi. It states that respondents 2 and 3 received the Rule NISI and petition on 18 February 1995, while respondent 1 was served on 9 February 1995. Attached registered-post acknowledgement cards and postal stamps document delivery to the Election Commission and the Sheriff of Bombay. The document concludes that service on respondents 1 to 3 was duly effected and was affirmed at Bombay in March 1995.
+
 ## Key points
 
 - The document is an affidavit of service filed in Writ Petition No. 14 of 1995 before the Bombay High Court.

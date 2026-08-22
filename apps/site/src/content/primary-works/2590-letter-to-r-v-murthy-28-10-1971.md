@@ -54,6 +54,12 @@ summary: |-
   The manifesto addresses housing, transport, unemployment, and city development. It proposes a specialist Housing Authority, subsidised rents and purchases for weaker sections, action against real-estate speculation, an integrated metropolitan transport body, and possible water transport along Bombay’s western seafront. On unemployment, it advocates rural public-works programmes, industrial dispersal beyond Bombay, vocational training, adult education, and student participation. Its city-development section supports the Twin City Project and concludes with an appeal for voters to elect Swatantra legislators to prevent further urban degradation. The pages also show extensive handwritten editorial amendments and comments to the typed draft.
 ---
 
+## Summary
+
+This 28 October 1971 covering letter from K. H. Subramaniam of the Swatantra Party (Bombay Region) asks R. V. Murthy and Raphet to review an enclosed draft election manifesto and return suggestions in time for a party meeting. The enclosure, titled “Election Manifesto,” presents the Bombay Region’s proposals for the forthcoming Maharashtra Assembly elections and frames the city’s problems as urgent threats requiring constructive, practical remedies.
+
+The manifesto addresses housing, transport, unemployment, and city development. It proposes a specialist Housing Authority, subsidised rents and purchases for weaker sections, action against real-estate speculation, an integrated metropolitan transport body, and possible water transport along Bombay’s western seafront. On unemployment, it advocates rural public-works programmes, industrial dispersal beyond Bombay, vocational training, adult education, and student participation. Its city-development section supports the Twin City Project and concludes with an appeal for voters to elect Swatantra legislators to prevent further urban degradation. The pages also show extensive handwritten editorial amendments and comments to the typed draft.
+
 ## Key points
 
 - The covering letter, dated 28 October 1971, circulates a draft manifesto for review before a party meeting.

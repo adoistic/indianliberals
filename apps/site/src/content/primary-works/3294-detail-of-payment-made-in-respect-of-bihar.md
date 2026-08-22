@@ -48,6 +48,12 @@ summary: |-
   The statement gives a total of Rs. 2,80,000. Handwritten annotations appear beside several dates, including “16th June” and “4th Oct,” and a circled handwritten figure appears near the heading. No author, issuing organisation, publisher, place, or document year is printed on the page.
 ---
 
+## Summary
+
+This single-page English financial statement records payments made in respect of “Bihar Credit.” It lists dated entries from September 1961 through October 1962, with most individual payments shown as Rs. 20,000 and a combined Rs. 40,000 entry for May and June.
+
+The statement gives a total of Rs. 2,80,000. Handwritten annotations appear beside several dates, including “16th June” and “4th Oct,” and a circled handwritten figure appears near the heading. No author, issuing organisation, publisher, place, or document year is printed on the page.
+
 ## Key points
 
 - The document is titled “Statement showing details of payment made in respect of Bihar Credit.”

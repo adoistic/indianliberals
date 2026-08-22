@@ -53,6 +53,12 @@ summary: |-
   The letter instead presents MPs’ foreign visits as a legitimate means of representing India’s viewpoint and culture abroad. It argues that the foreign-exchange cost should be attributed primarily to the government’s own responsibility for maintaining diplomatic and official travel, while noting that some senior party members have travelled abroad without difficulty. The writer concludes that the decision was taken without consulting members who were directly concerned and warns that refusing such invitations could undermine party loyalty by appearing to deny members opportunities available to others.
 ---
 
+## Summary
+
+This letter, dated 15 November 1965 and addressed to the Central Committee of the Swatantra Party, challenges the party elders’ decision not to accept government invitations for Members of Parliament to join delegations visiting foreign countries. The writer identifies two stated reasons—interference with diplomatic personnel and waste of foreign exchange—but argues that neither justifies a blanket refusal. The letter criticises the diplomatic service as inefficient and overly concerned with luxury and ease, citing an allegation that an ambassador met a parliamentary delegation in a drunken state.
+
+The letter instead presents MPs’ foreign visits as a legitimate means of representing India’s viewpoint and culture abroad. It argues that the foreign-exchange cost should be attributed primarily to the government’s own responsibility for maintaining diplomatic and official travel, while noting that some senior party members have travelled abroad without difficulty. The writer concludes that the decision was taken without consulting members who were directly concerned and warns that refusing such invitations could undermine party loyalty by appearing to deny members opportunities available to others.
+
 ## Key points
 
 - The letter objects to the Swatantra Party leadership’s refusal to accept government invitations for MPs to join foreign delegations.

@@ -48,6 +48,10 @@ summary: |-
   This one-page English express telegram, sent by Minoo Masani from Bombay on 6 June 1966, is addressed to Prime Minister Indira Gandhi at her New Delhi residence. Masani accepts Gandhi's invitation to meet in Delhi and proposes bringing a colleague.
 ---
 
+## Summary
+
+This one-page English express telegram, sent by Minoo Masani from Bombay on 6 June 1966, is addressed to Prime Minister Indira Gandhi at her New Delhi residence. Masani accepts Gandhi's invitation to meet in Delhi and proposes bringing a colleague.
+
 ## Key points
 
 - The document is an express telegram and confirmation copy by post.

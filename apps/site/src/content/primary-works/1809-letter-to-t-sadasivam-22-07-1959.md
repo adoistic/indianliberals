@@ -48,6 +48,12 @@ summary: |-
   The sender adds that retirement from the Tatas has not left them without commitments, but promises to write when circumstances warrant it, including to comment on particular policy positions adopted by Sadasivam. The visible page contains no signature name, so the sender cannot be identified from the document itself.
 ---
 
+## Summary
+
+This one-page letter, dated 22 July 1959, is addressed to Mr. T. Sadasivam. The unidentified sender apologises for the delayed acknowledgement of Sadasivam’s 30 June letter and says that, although they had previously read Swarajya only occasionally, its association with Rajaji and support for the Swatantra Party has prompted them to become a more regular reader. The sender congratulates Sadasivam on taking over the paper and wishes him success under his management.
+
+The sender adds that retirement from the Tatas has not left them without commitments, but promises to write when circumstances warrant it, including to comment on particular policy positions adopted by Sadasivam. The visible page contains no signature name, so the sender cannot be identified from the document itself.
+
 ## Key points
 
 - The letter is dated 22 July 1959 and addressed to Mr. T. Sadasivam.

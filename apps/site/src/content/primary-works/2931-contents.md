@@ -54,6 +54,12 @@ summary: |-
   The contents indicate that the dossier brings together both electoral review and organisational reflection. Its listed contributors include the President, Minoo Masani, Dr. Cooper, National Headquarters, the Andhra Unit, Madhu Mehta, Ghorpade, N. Parthasarathy, B. S. Gopalakrishnan, and Taneja. The page does not provide the dossier's title, date, publisher, document pagination, or the substantive text of any listed item.
 ---
 
+## Summary
+
+The rendered page is a contents sheet for an English-language Swatantra Party dossier. It lists twelve items comprising a President's report to the General Council, two tabulated statements on the Party's electoral performance, correspondence, a resignation letter, and internal notes and proposals on the Party's future, organisation, policies, and programme.
+
+The contents indicate that the dossier brings together both electoral review and organisational reflection. Its listed contributors include the President, Minoo Masani, Dr. Cooper, National Headquarters, the Andhra Unit, Madhu Mehta, Ghorpade, N. Parthasarathy, B. S. Gopalakrishnan, and Taneja. The page does not provide the dossier's title, date, publisher, document pagination, or the substantive text of any listed item.
+
 ## Key points
 
 - The sole rendered page is a contents sheet headed “CONTENTS.”

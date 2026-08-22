@@ -48,6 +48,12 @@ summary: |-
   The second letter, dated November 17, 1970, is addressed to the Regional Transport Officer, Bombay (Recovery), and identifies the purchasers of four vehicles. It states that vehicle MRA 4092 was sold to Maharani Gayatri Devi of Jaipur, MRA 4095 to Maharaje P. K. Deo of Orissa, and MRA 4096 and 4096 [as printed] to the Associated Cement Companies, Bombay. Together, the pages document an effort to correct vehicle-registration and land-revenue records across several jurisdictions. The PDF appears to be a compound document containing letters from different dates, both marked “TRUE COPY.”
 ---
 
+## Summary
+
+This two-page archival item combines two related administrative letters signed by V.P. Bhatt. The first, dated August 12, 1974, is addressed to the Collector of Bombay and concerns a notice demanding land revenue for vehicles registered in the name of Minocher Rustom Masani. Bhatt explains that the vehicles had been purchased in January 1967, subsequently sent to West Bengal and Jaipur, and sold to other parties; he asks the Collector to verify the records with the Regional Transport Officer and withdraw the demand if nothing is due in Bombay.
+
+The second letter, dated November 17, 1970, is addressed to the Regional Transport Officer, Bombay (Recovery), and identifies the purchasers of four vehicles. It states that vehicle MRA 4092 was sold to Maharani Gayatri Devi of Jaipur, MRA 4095 to Maharaje P. K. Deo of Orissa, and MRA 4096 and 4096 [as printed] to the Associated Cement Companies, Bombay. Together, the pages document an effort to correct vehicle-registration and land-revenue records across several jurisdictions. The PDF appears to be a compound document containing letters from different dates, both marked “TRUE COPY.”
+
 ## Key points
 
 - The item contains two separate office letters dated November 17, 1970 and August 12, 1974.

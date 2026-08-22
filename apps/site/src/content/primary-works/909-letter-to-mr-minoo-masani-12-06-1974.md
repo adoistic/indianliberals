@@ -50,6 +50,12 @@ summary: |-
   Mody argues that a broader political combination could create public hope and credibility, even if it weakened the distinctive appeal of its component parties. He rejects a proposed interim arrangement or “common programme for Unity in Action,” which he says would reproduce internal quarrels instead of building a functioning party. The letter closes by urging Masani to join the effort and by presenting political renewal as urgent. The pages also link the cleansing of Indian politics to electoral education and, more controversially, social ostracization.
 ---
 
+## Summary
+
+In this two-page letter dated June 12, 1974, Piloo Mody responds to Minoo Masani’s doubts about forming a new political party. Mody distinguishes the proposed initiative from earlier attempts to unite only “like-minded” partners: its purpose, he argues, is to bring together non-Congress, non-Communist, and non-Marxist parties into a new alternative. He acknowledges that ideological homogeneity will remain impossible, but treats that difficulty as manageable rather than disqualifying.
+
+Mody argues that a broader political combination could create public hope and credibility, even if it weakened the distinctive appeal of its component parties. He rejects a proposed interim arrangement or “common programme for Unity in Action,” which he says would reproduce internal quarrels instead of building a functioning party. The letter closes by urging Masani to join the effort and by presenting political renewal as urgent. The pages also link the cleansing of Indian politics to electoral education and, more controversially, social ostracization.
+
 ## Key points
 
 - Mody argues that the proposed new party differs from earlier alliances because it seeks to eliminate all non-Congress, non-Communist, and non-Marxist parties as separate political vehicles.

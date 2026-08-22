@@ -48,6 +48,12 @@ summary: |-
   The report identifies three proposals under consideration: requiring the State Parliamentary Executive to resign and fresh party elections to be held; taking disciplinary action against the rebels; or limiting such action to those who supported the opposing candidate, M. N. Mahida, rather than the party nominee. Mahida's position is that those who defied the party mandate should apologise before being pardoned. The Parliamentary Board is also reported to be considering the wider political situation in West Bengal, Bihar, Uttar Pradesh and Punjab. The clipping carries the generic credit “From Our Special Correspondent”; no newspaper title or named byline is visible.
 ---
 
+## Summary
+
+This newspaper report, dated New Delhi, April 13, 1968, describes an unresolved internal crisis in the Swatantra Party following the defeat of its official candidate from Gujarat in a recent Rajya Sabha election. Members of the party's Central Parliamentary Board are divided over whether disciplinary action should be taken against Gujarat MLAs accused of defying the party mandate. Several leaders, including H. M. Patel and Dayabhai Patel, argue that the offending legislators should face discipline, while others oppose immediate action and seek a compromise.
+
+The report identifies three proposals under consideration: requiring the State Parliamentary Executive to resign and fresh party elections to be held; taking disciplinary action against the rebels; or limiting such action to those who supported the opposing candidate, M. N. Mahida, rather than the party nominee. Mahida's position is that those who defied the party mandate should apologise before being pardoned. The Parliamentary Board is also reported to be considering the wider political situation in West Bengal, Bihar, Uttar Pradesh and Punjab. The clipping carries the generic credit “From Our Special Correspondent”; no newspaper title or named byline is visible.
+
 ## Key points
 
 - The Swatantra Party's Central Parliamentary Board met in New Delhi to address a Gujarat electoral crisis.

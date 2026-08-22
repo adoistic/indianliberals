@@ -51,6 +51,12 @@ summary: |-
   Masani explains that he has given Prasad a letter to C. H. Mehta, Minister of State for Home Affairs, as a possible means of securing access to JP. After consulting Shanti Bhushan, Masani recommends that, if an interview is denied, a habeas corpus petition should be filed in the Delhi High Court, since JP was arrested in Delhi and part of the cause of action arose there. The letter closes with an urgent request that Prasad contact Tarkunde immediately upon reaching Delhi.
 ---
 
+## Summary
+
+In this letter dated June 30, 1975, M. R. Masani writes to V. M. Tarkunde about disturbing reports that Jayaprakash Narayan ("JP") and Morarji Desai are on hunger strike and may be receiving inadequate food. Masani attributes the uncertainty to press censorship and asks Tarkunde to help arrange an interview between JP and his brother, Rajeshwar Prasad, who is travelling to Delhi.
+
+Masani explains that he has given Prasad a letter to C. H. Mehta, Minister of State for Home Affairs, as a possible means of securing access to JP. After consulting Shanti Bhushan, Masani recommends that, if an interview is denied, a habeas corpus petition should be filed in the Delhi High Court, since JP was arrested in Delhi and part of the cause of action arose there. The letter closes with an urgent request that Prasad contact Tarkunde immediately upon reaching Delhi.
+
 ## Key points
 
 - Masani reports rumours that Jayaprakash Narayan and Morarji Desai are on hunger strike and may be dangerously underfed.

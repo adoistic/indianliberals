@@ -53,6 +53,10 @@ summary: |-
   This one-page office record contains the minutes of the Swatantra Party's Parliamentary General Body meeting held in Parliament House, New Delhi, on 31 July 1967. It records the attendance of 14 party members and reports discussion of the procedure used to nominate Prof. R. K. Amin for a Tehran tour. The Leader explained that, because the party had been offered only one seat, Amin had been nominated quickly in consultation with the Deputy Leader; the meeting authorised the Executive Committee to make such nominations in future.
 ---
 
+## Summary
+
+This one-page office record contains the minutes of the Swatantra Party's Parliamentary General Body meeting held in Parliament House, New Delhi, on 31 July 1967. It records the attendance of 14 party members and reports discussion of the procedure used to nominate Prof. R. K. Amin for a Tehran tour. The Leader explained that, because the party had been offered only one seat, Amin had been nominated quickly in consultation with the Deputy Leader; the meeting authorised the Executive Committee to make such nominations in future.
+
 ## Key points
 
 - The General Body meeting was held at 6:00 p.m. on Monday, 31 July 1967, in Room No. 62 of Parliament House, New Delhi.

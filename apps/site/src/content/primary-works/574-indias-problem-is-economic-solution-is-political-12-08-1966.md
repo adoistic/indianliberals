@@ -56,6 +56,12 @@ summary: |-
   Masani's proposed alternative is a substantial reduction in direct and indirect taxation, an end to deficit financing, restraint in public expenditure, more carefully limited foreign borrowing, dismantling of licensing and import controls, and a greater role for private investment and competition. He presents these measures as part of the Swatantra Party's programme and concludes that economic reform depends on political change: a government willing to abandon centralized planning, reduce state monopolies, and restore public confidence in democratic institutions.
 ---
 
+## Summary
+
+In this two-page political forum article, M. R. Masani argues that India's immediate crisis is economic but that its remedy must be political. He attributes the crisis to prolonged fiscal irresponsibility, inflation, devaluation, excessive taxation, industrial and agricultural neglect, foreign-loan dependence, and the expansion of an inefficient state sector. The article treats the June 1966 devaluation as a moment of reckoning and criticizes the government's Fourth Plan for pursuing unrealistic targets while diverting resources into unproductive public enterprises.
+
+Masani's proposed alternative is a substantial reduction in direct and indirect taxation, an end to deficit financing, restraint in public expenditure, more carefully limited foreign borrowing, dismantling of licensing and import controls, and a greater role for private investment and competition. He presents these measures as part of the Swatantra Party's programme and concludes that economic reform depends on political change: a government willing to abandon centralized planning, reduce state monopolies, and restore public confidence in democratic institutions.
+
 ## Key points
 
 - Masani presents the June 1966 devaluation as evidence that India's economic difficulties can no longer be concealed.

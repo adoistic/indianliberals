@@ -51,6 +51,12 @@ summary: |-
   The document focuses on the scale and composition of planned investment, the weak contribution of the state sector to industrial production, and the financing gap confronting the Third Plan. It records an uncovered resource gap of Rs. 3,200 crores against promised credit of only Rs. 375 crores, while citing an Economist assessment that the plan depended on something closer to an act of faith than a conventional banking proposition. Additional notes question state-sector autonomy, report Delhi pressure on directors in Ranchi, and point to possible openings for private participation in oil exploration and fertiliser production.
 ---
 
+## Summary
+
+These three pages comprise a short briefing prepared for the 15 February 1961 meeting of the British Group of the Liberal International. The notes compare the Second and Third Five-Year Plans, stating that national output during the Second Plan grew by less than 4 percent annually while population growth absorbed roughly half of that increase. The Third Plan is described as targeting 5 percent annual growth, or approximately 3 percent growth in output per head.
+
+The document focuses on the scale and composition of planned investment, the weak contribution of the state sector to industrial production, and the financing gap confronting the Third Plan. It records an uncovered resource gap of Rs. 3,200 crores against promised credit of only Rs. 375 crores, while citing an Economist assessment that the plan depended on something closer to an act of faith than a conventional banking proposition. Additional notes question state-sector autonomy, report Delhi pressure on directors in Ranchi, and point to possible openings for private participation in oil exploration and fertiliser production.
+
 ## Key points
 
 - The Second Plan is said to have produced annual national-output growth of under 4 percent, with output per head rising by only about 2 percent.

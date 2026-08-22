@@ -49,6 +49,12 @@ summary: |-
   The letter is a formal administrative invitation and provides no substantive discussion of policy or parliamentary proceedings. It is signed by Ram Subhag Singh, whose handwritten note also asks Masani to write to him. The document records an instance of inter-party parliamentary coordination in 1967.
 ---
 
+## Summary
+
+This one-page letter, dated March 20, 1967, is written from the Minister of Communications and Parliamentary Affairs in New Delhi to Shri M. R. Masani, M.P., leader of the Swatantra Party in the Lok Sabha. It invites Masani to attend a meeting of leaders of various parliamentary groups with the Prime Minister, scheduled for Monday, March 27, 1967, at 4:00 p.m. in Room No. 9 of Parliament House.
+
+The letter is a formal administrative invitation and provides no substantive discussion of policy or parliamentary proceedings. It is signed by Ram Subhag Singh, whose handwritten note also asks Masani to write to him. The document records an instance of inter-party parliamentary coordination in 1967.
+
 ## Key points
 
 - The letter is dated March 20, 1967, and originates from New Delhi.

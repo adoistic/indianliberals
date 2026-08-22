@@ -54,6 +54,12 @@ summary: |-
   The minutes record that the Maharashtra council opposed dissolution by an overwhelming majority, with N. K. Jagtap as the sole dissenting voter, and elected delegates to the forthcoming National Convention in Delhi. The appended resolution argues that the Swatantra Party's principles remain valid, criticises the proposed new party's vague programme, warns that the continued existence of Congress and the Jan Sangh would undermine a two-party system, and requests that the matter be reconsidered before the convention. It further states that, if dissolution were nevertheless carried, the Maharashtra unit would retain the party's identity, message, and flag.
 ---
 
+## Summary
+
+These draft minutes record the 6 July 1974 meeting of the Maharashtra State Council of the Swatantra Party at its Bombay office. They list the members and invitees present, note that heavy rains disrupted train services, confirm the previous meeting's minutes, and report discussion of the proposal to dissolve the Swatantra Party in order to help form a new national political party. Piloo Mody presents the case for creating a broader national alternative to the ruling Congress, while M. R. Masani argues that dissolving the Swatantra Party would not serve that purpose.
+
+The minutes record that the Maharashtra council opposed dissolution by an overwhelming majority, with N. K. Jagtap as the sole dissenting voter, and elected delegates to the forthcoming National Convention in Delhi. The appended resolution argues that the Swatantra Party's principles remain valid, criticises the proposed new party's vague programme, warns that the continued existence of Congress and the Jan Sangh would undermine a two-party system, and requests that the matter be reconsidered before the convention. It further states that, if dissolution were nevertheless carried, the Maharashtra unit would retain the party's identity, message, and flag.
+
 ## Key points
 
 - The Maharashtra State Council met in Bombay on 6 July 1974 with members, invitees, and Piloo Mody present as a special guest.

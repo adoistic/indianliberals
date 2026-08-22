@@ -51,6 +51,10 @@ summary: |-
   This ten-page English-language legal-document packet records proceedings connected with Swatantra Party writ petition no. 14 of 1995 before the High Court of Bombay. The petition is identified as being against the Union of India and other respondents, with the Election Commission of India represented among the respondents. The opening court form and subsequent notices show Rajiv Patil, Advocate High Court, acting for the petitioners.
 ---
 
+## Summary
+
+This ten-page English-language legal-document packet records proceedings connected with Swatantra Party writ petition no. 14 of 1995 before the High Court of Bombay. The petition is identified as being against the Union of India and other respondents, with the Election Commission of India represented among the respondents. The opening court form and subsequent notices show Rajiv Patil, Advocate High Court, acting for the petitioners.
+
 ## Key points
 
 - The matter is identified as Swatantra Party writ petition no. 14 of 1995.

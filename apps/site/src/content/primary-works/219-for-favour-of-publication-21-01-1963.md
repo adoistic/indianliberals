@@ -55,6 +55,12 @@ summary: |-
   M. R. Masani makes the most detailed case against accepting the Colombo proposals as a basis for negotiations after India's military defeat. He invokes Parliament's earlier unanimous resolution, criticises what he describes as a return to appeasement, and cites Nikita Khrushchev's 1959 statement that conferences reflect the established balance of forces produced by victory or capitulation. The note closes by recording the participation of K. M. Munshi and Madhu Mehta, with Mehta proposing a vote of thanks. The document is a press note rather than a formally titled or authored essay.
 ---
 
+## Summary
+
+This two-page Swatantra Party press note, issued from the Bombay Region on 21 January 1963, reports speeches at a public meeting at K. C. College Hall concerning India's response to Chinese aggression and the Colombo proposals. Piloo Mody presents the conflict as ideological, warning that China seeks to turn India into a “Peking Satellite” and that enemy propaganda is undermining national morale. Sir Homi Mody argues that the Government's apparent willingness to negotiate conflicts with its earlier position and risks compromising India's honour and interests.
+
+M. R. Masani makes the most detailed case against accepting the Colombo proposals as a basis for negotiations after India's military defeat. He invokes Parliament's earlier unanimous resolution, criticises what he describes as a return to appeasement, and cites Nikita Khrushchev's 1959 statement that conferences reflect the established balance of forces produced by victory or capitulation. The note closes by recording the participation of K. M. Munshi and Madhu Mehta, with Mehta proposing a vote of thanks. The document is a press note rather than a formally titled or authored essay.
+
 ## Key points
 
 - Piloo Mody frames the India-China conflict as ideological and accuses China of seeking to make India a satellite.

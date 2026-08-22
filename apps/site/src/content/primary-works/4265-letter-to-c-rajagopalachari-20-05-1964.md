@@ -48,6 +48,12 @@ summary: |-
   Masani objects to the demanding schedule proposed for Tuesday, 30 June, which would combine a General Council meeting, a Rotary Club address, another General Council meeting, and an evening address to the Indian Council of World Affairs. He proposes moving the ICWA talk to the evening of Wednesday, 1 July, and asks Rajagopalachari to confirm that change. The letter is a practical exchange about coordinating political and public engagements rather than a statement of policy or ideology.
 ---
 
+## Summary
+
+In this letter dated 20 May 1964, Minoo Masani writes to C. Rajagopalachari (“Rajaji”) about arrangements for Rajagopalachari’s Bombay programme from 28 June to 2 July. Masani confirms that a public meeting under the auspices of the Swatantra Party is scheduled for Monday, 29 June, at 6:15 p.m.
+
+Masani objects to the demanding schedule proposed for Tuesday, 30 June, which would combine a General Council meeting, a Rotary Club address, another General Council meeting, and an evening address to the Indian Council of World Affairs. He proposes moving the ICWA talk to the evening of Wednesday, 1 July, and asks Rajagopalachari to confirm that change. The letter is a practical exchange about coordinating political and public engagements rather than a statement of policy or ideology.
+
 ## Key points
 
 - The letter is dated 20 May 1964 and is addressed to C. Rajagopalachari, whom Masani calls Rajaji.

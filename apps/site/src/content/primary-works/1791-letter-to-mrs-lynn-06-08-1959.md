@@ -53,6 +53,12 @@ summary: |-
   The letter also proposes a reorganization of the approximately 24-member committee into four specialized sub-committees covering membership enrollment, lectures and propaganda, fundraising and programs, and newspaper publicity. It recommends quarterly targets and written reports, weekly coordination meetings, the use of volunteers, a monthly news letter funded partly through business-house advertising, and the appointment of a full-time paid party organizer.
 ---
 
+## Summary
+
+This 6 August 1959 letter from R. C. Cooper, Honorary Treasurer of the Swatantra Party, asks Mrs. D. Lynn to correct the draft minutes of a committee meeting. Cooper objects to wording that presents an approximate 50 percent allocation of Bombay-collected donations to the Party Centre as an official committee decision, arguing that no definite decision had been taken and that the matter should be discussed when M. R. Masani, A. D. Shroff, and Sir H. P. Mody are present.
+
+The letter also proposes a reorganization of the approximately 24-member committee into four specialized sub-committees covering membership enrollment, lectures and propaganda, fundraising and programs, and newspaper publicity. It recommends quarterly targets and written reports, weekly coordination meetings, the use of volunteers, a monthly news letter funded partly through business-house advertising, and the appointment of a full-time paid party organizer.
+
 ## Key points
 
 - Cooper asks that draft minutes be amended so that an unconfirmed donation-allocation statement is not treated as a committee decision.

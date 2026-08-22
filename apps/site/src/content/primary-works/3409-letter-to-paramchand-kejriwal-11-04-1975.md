@@ -46,6 +46,10 @@ summary: |-
   This untitled English-language letter, dated 11 April 1975, was issued on Swatantra Party Maharashtra letterhead from Bombay and signed by P. Narayan. It is addressed to Shri Parmanand Kejriwal. The letter states that, following instructions from Shri Girish Munshi, the sender is forwarding a copy of a draft plaint originally prepared by Mr. Mhalvi of Eastley Lam & Co., for Kejriwal's perusal and possible onward transmission.
 ---
 
+## Summary
+
+This untitled English-language letter, dated 11 April 1975, was issued on Swatantra Party Maharashtra letterhead from Bombay and signed by P. Narayan. It is addressed to Shri Parmanand Kejriwal. The letter states that, following instructions from Shri Girish Munshi, the sender is forwarding a copy of a draft plaint originally prepared by Mr. Mhalvi of Eastley Lam & Co., for Kejriwal's perusal and possible onward transmission.
+
 ## Key points
 
 - The document is a one-page typed office letter dated 11 April 1975.

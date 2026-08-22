@@ -53,6 +53,10 @@ summary: |-
   This two-page organisational note, dated February 7, 1963, revises the timetable for enrolling members and electing Party committees. It records that an earlier schedule was postponed after requests from State Units, shifting the membership-enrolment deadline to November 30, 1962, and setting revised dates for elections at primary, district, State, and national levels. The note also records instructions concerning membership registers, enrolment, and the remittance of the Centre’s contribution.
 ---
 
+## Summary
+
+This two-page organisational note, dated February 7, 1963, revises the timetable for enrolling members and electing Party committees. It records that an earlier schedule was postponed after requests from State Units, shifting the membership-enrolment deadline to November 30, 1962, and setting revised dates for elections at primary, district, State, and national levels. The note also records instructions concerning membership registers, enrolment, and the remittance of the Centre’s contribution.
+
 ## Key points
 
 - The Central Organising Committee originally scheduled membership enrolment to close on September 30, 1962, with committee elections to follow between October and December.

@@ -49,6 +49,10 @@ summary: |-
   Dated 3 March 1967, this one-page General Secretary’s Letter from the Swatantra Party Central Office instructs party contacts to complete the election of office-bearers and members of their legislative groups in the various state legislatures as quickly as possible. M. R. Masani asks recipients to convene early meetings to elect each Legislature Group’s leader and other office-bearers, and to report the results to the Central Office promptly.
 ---
 
+## Summary
+
+Dated 3 March 1967, this one-page General Secretary’s Letter from the Swatantra Party Central Office instructs party contacts to complete the election of office-bearers and members of their legislative groups in the various state legislatures as quickly as possible. M. R. Masani asks recipients to convene early meetings to elect each Legislature Group’s leader and other office-bearers, and to report the results to the Central Office promptly.
+
 ## Key points
 
 - The letter is General Secretary’s Letter No. 146, issued by the Swatantra Party Central Office on 3 March 1967.

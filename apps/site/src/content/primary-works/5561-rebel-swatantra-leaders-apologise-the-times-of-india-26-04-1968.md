@@ -49,6 +49,10 @@ summary: |-
   This Times of India report, dated 26 April 1968, describes an internal dispute in the Swatantra Party's Gujarat unit. Rebel leaders had been accused of leading a revolt during the previous month's biennial elections to the Rajya Sabha and were understood to have apologised for their conduct.
 ---
 
+## Summary
+
+This Times of India report, dated 26 April 1968, describes an internal dispute in the Swatantra Party's Gujarat unit. Rebel leaders had been accused of leading a revolt during the previous month's biennial elections to the Rajya Sabha and were understood to have apologised for their conduct.
+
 ## Key points
 
 - The report concerns disciplinary proceedings within the Swatantra Party.

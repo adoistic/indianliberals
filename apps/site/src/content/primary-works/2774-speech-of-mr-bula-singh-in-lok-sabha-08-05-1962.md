@@ -54,6 +54,12 @@ summary: |-
   The speech frames the government’s stated commitment to socialism as a path toward financial disorder and state control rather than equitable distribution of wealth. Singh objects particularly to a proposed five-percent increase in corporate taxation, arguing that it would discourage industrial production and capital accumulation. In its concluding section, the speech links economic policy to individual rights, political concentration, and the alleged mistreatment and misrepresentation of Sikh people by Congress rulers. Singh appeals for greater understanding of Sikh grievances and for recognition of their contribution to national integration.
 ---
 
+## Summary
+
+This four-page English transcript records Bula Singh’s Lok Sabha speech of 8 May 1962 on the general budget. Singh argues that the deficit budget and proposed taxation do not accurately reflect the country’s economic condition, and attacks the Finance Minister, Morarji Desai, for relying on statistics while failing to address the consequences of dearness allowances and rising expenditure. He presents the proposed fresh taxes as economically damaging, likely to burden ordinary citizens, retard production, increase unemployment, and undermine financial stability.
+
+The speech frames the government’s stated commitment to socialism as a path toward financial disorder and state control rather than equitable distribution of wealth. Singh objects particularly to a proposed five-percent increase in corporate taxation, arguing that it would discourage industrial production and capital accumulation. In its concluding section, the speech links economic policy to individual rights, political concentration, and the alleged mistreatment and misrepresentation of Sikh people by Congress rulers. Singh appeals for greater understanding of Sikh grievances and for recognition of their contribution to national integration.
+
 ## Key points
 
 - Singh treats the general budget as a test of the country’s economic condition and calls for its scientific analysis.

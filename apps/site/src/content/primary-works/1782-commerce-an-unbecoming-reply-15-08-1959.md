@@ -51,3 +51,7 @@ ai:
 summary: |-
   This issue of Commerce, dated Bombay, 15 August 1959, presents three articles concerned with political opposition, transport administration, and co-operative development. “An Unbecoming Reply” criticises Jawaharlal Nehru’s response to the emerging Swatantra Party and argues that democratic opposition should be treated as legitimate rather than as an interruption to national progress. “Road Transport” examines the burdens imposed by railway and road-transport policy, while “Mysore Conference on Co-operation” reports arguments for village-level co-operation, agricultural credit, and improved rural production.
 ---
+
+## Summary
+
+This issue of Commerce, dated Bombay, 15 August 1959, presents three articles concerned with political opposition, transport administration, and co-operative development. “An Unbecoming Reply” criticises Jawaharlal Nehru’s response to the emerging Swatantra Party and argues that democratic opposition should be treated as legitimate rather than as an interruption to national progress. “Road Transport” examines the burdens imposed by railway and road-transport policy, while “Mysore Conference on Co-operation” reports arguments for village-level co-operation, agricultural credit, and improved rural production.

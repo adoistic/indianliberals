@@ -43,6 +43,10 @@ summary: |-
   This single-page letter, dated 27 March 1968, was sent by D. N. Patodia from his New Delhi office as a Member of Parliament (Lok Sabha) to Minoo Masani. Patodia states that he is enclosing two copies of Masani's speech delivered in Calcutta on 26 February 1968 at the inauguration of the All-India Bank Depositors' Association.
 ---
 
+## Summary
+
+This single-page letter, dated 27 March 1968, was sent by D. N. Patodia from his New Delhi office as a Member of Parliament (Lok Sabha) to Minoo Masani. Patodia states that he is enclosing two copies of Masani's speech delivered in Calcutta on 26 February 1968 at the inauguration of the All-India Bank Depositors' Association.
+
 ## Key points
 
 - The item is a letter dated 27 March 1968.

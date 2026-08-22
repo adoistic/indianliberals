@@ -53,6 +53,12 @@ summary: |-
   Srikumar accepts the need for a strong national opposition but rejects what he describes as a heterogeneous coalition of regional, communal, factional, personal, independent, and socialist parties united only by a minimum programme. He argues that such a grouping would lack ideological coherence, discipline, and a credible governing programme. Instead, he calls for the Swatantra Party to remain intact and become the rallying point for a two-party system, while bringing like-minded non-socialists into its fold. The letter closes by reproducing a Tamil Nadu General Council resolution welcoming a federation of parties based on common principles and programmes, provided the identity and organisation of the Swatantra Party are preserved.
 ---
 
+## Summary
+
+In this four-page letter dated 11 July 1974, V. S. Srikumar responds to Piloo Mody’s proposal to create a new national alternative to Indira Gandhi’s Congress. Srikumar argues that the Swatantra Party’s dissolution was not authorised by the party’s national executive and criticises the haste with which a group of leaders began forming a replacement party without consulting party units, workers, or the National General Council. He presents the issue as one of organisational legitimacy as well as political strategy.
+
+Srikumar accepts the need for a strong national opposition but rejects what he describes as a heterogeneous coalition of regional, communal, factional, personal, independent, and socialist parties united only by a minimum programme. He argues that such a grouping would lack ideological coherence, discipline, and a credible governing programme. Instead, he calls for the Swatantra Party to remain intact and become the rallying point for a two-party system, while bringing like-minded non-socialists into its fold. The letter closes by reproducing a Tamil Nadu General Council resolution welcoming a federation of parties based on common principles and programmes, provided the identity and organisation of the Swatantra Party are preserved.
+
 ## Key points
 
 - Srikumar disputes the authority of the Swatantra Party leadership to dissolve the party and form a new organisation without wider consultation.

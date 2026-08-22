@@ -46,6 +46,10 @@ summary: |-
   This two-page correspondence concerns a notice from the Lok Sabha Secretariat regarding a column by M.R. Masani published in The Statesman on March 15, 1992. In his letter of March 8, Cushrow Irani tells Masani that the Speaker’s office has requested the newspaper’s comments and says he will follow whatever position Masani takes. The letter frames the matter as a question requiring coordination between the columnist and the newspaper.
 ---
 
+## Summary
+
+This two-page correspondence concerns a notice from the Lok Sabha Secretariat regarding a column by M.R. Masani published in The Statesman on March 15, 1992. In his letter of March 8, Cushrow Irani tells Masani that the Speaker’s office has requested the newspaper’s comments and says he will follow whatever position Masani takes. The letter frames the matter as a question requiring coordination between the columnist and the newspaper.
+
 ## Key points
 
 - Cushrow Irani’s March 8 letter encloses a notice from the Lok Sabha Secretariat concerning one of Masani’s columns.

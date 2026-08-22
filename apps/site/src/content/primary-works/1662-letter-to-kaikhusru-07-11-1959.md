@@ -48,6 +48,12 @@ summary: |-
   The letter also makes a direct financial appeal. After noting that Kaikhusru's brother Ratan has already made a substantial donation, the writer asks Kaikhusru to contribute more and anticipates support from another brother, Roman, and his firm. The writer concludes that although the party's support has so far been satisfactory, considerably more funding is needed to implement its programme.
 ---
 
+## Summary
+
+This typed letter, dated 7 November 1959, asks Kaikhusru to support the newly formed Swatantra Party. The writer argues that the need for an effective opposition to the Congress has become increasingly clear over the preceding two or three years, and says that the party's policies and programmes have been widely publicised and are likely to accord with the recipient's views.
+
+The letter also makes a direct financial appeal. After noting that Kaikhusru's brother Ratan has already made a substantial donation, the writer asks Kaikhusru to contribute more and anticipates support from another brother, Roman, and his firm. The writer concludes that although the party's support has so far been satisfactory, considerably more funding is needed to implement its programme.
+
 ## Key points
 
 - The letter is dated 7 November 1959 and is addressed to “Kaiku.”

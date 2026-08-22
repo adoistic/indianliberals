@@ -50,6 +50,12 @@ summary: |-
   The notice requests the recipients' attendance and is signed by D. Lynn, identified as the party's honorary secretary. It is an administrative communication rather than an argumentative or programmatic political text.
 ---
 
+## Summary
+
+This one-page English-language office notice, issued from the Swatantra Party's Bombay office on 31 August 1959, announces a meeting of the party's Organising Committee. The meeting was scheduled for Thursday, 3 September, at 6:30 p.m. at the Swatantra Party office in Sassoon Building, 143 Mahatma Gandhi Road, Bombay.
+
+The notice requests the recipients' attendance and is signed by D. Lynn, identified as the party's honorary secretary. It is an administrative communication rather than an argumentative or programmatic political text.
+
 ## Key points
 
 - The document is a meeting notice issued on Swatantra Party letterhead.

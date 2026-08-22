@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated 3 April 1968, is from M. Dhanukkodi to N. Dandekar, M.P., General Secretary of the Swatantra Party. Dhanukkodi requests an emergency meeting of the party’s General Council to discuss Mr. Masani’s resignation from the Central Executive and the Central Parliamentary Board.
 ---
 
+## Summary
+
+This one-page letter, dated 3 April 1968, is from M. Dhanukkodi to N. Dandekar, M.P., General Secretary of the Swatantra Party. Dhanukkodi requests an emergency meeting of the party’s General Council to discuss Mr. Masani’s resignation from the Central Executive and the Central Parliamentary Board.
+
 ## Key points
 
 - The letter is dated 3 April 1968 and addressed to N. Dandekar, M.P.

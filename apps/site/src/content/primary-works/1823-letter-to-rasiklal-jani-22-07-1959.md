@@ -50,6 +50,12 @@ summary: |-
   The handwritten letters also show Jani seeking political or organisational involvement and referring to A. D. Shroff. The packet therefore captures both personal economic insecurity and the practical limitations of political and business networks in Bombay during 1958–59. All nine rendered pages were available; no additional material is missing from this digitised packet.
 ---
 
+## Summary
+
+This bilingual correspondence packet documents Rasiklal Jani's unsuccessful efforts in 1958–59 to obtain employment or assistance from Sir Homi Mody. Jani's handwritten Gujarati letters describe his qualifications, experience, and attempts to secure work connected with the cotton trade; the typed replies, issued by Mody's secretary on Tata Sons Limited letterhead, explain that Mody is unable to help. One reply says that Jani's qualifications and experience would make it difficult for anyone outside the cotton trade to find him a job, while later correspondence states that the newly formed party cannot yet make use of his services.
+
+The handwritten letters also show Jani seeking political or organisational involvement and referring to A. D. Shroff. The packet therefore captures both personal economic insecurity and the practical limitations of political and business networks in Bombay during 1958–59. All nine rendered pages were available; no additional material is missing from this digitised packet.
+
 ## Key points
 
 - Rasiklal Jani wrote repeatedly to Sir Homi Mody seeking employment or professional assistance.

@@ -47,6 +47,10 @@ summary: |-
   This one-page English telegram from Minoo Masani to Jayaprakash Narayan is dated 21 October 1974 and addressed from Patna 3. Masani asks for Narayan’s travel programme and proposes meeting him in Delhi on 1 November before Narayan continues to Patna.
 ---
 
+## Summary
+
+This one-page English telegram from Minoo Masani to Jayaprakash Narayan is dated 21 October 1974 and addressed from Patna 3. Masani asks for Narayan’s travel programme and proposes meeting him in Delhi on 1 November before Narayan continues to Patna.
+
 ## Key points
 
 - The document is a typed telegram or confirmation copy dated 21 October 1974.

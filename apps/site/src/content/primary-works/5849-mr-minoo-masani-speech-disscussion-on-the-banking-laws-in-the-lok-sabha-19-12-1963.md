@@ -56,6 +56,12 @@ summary: |-
   Masani's central objections concern the concentration of power in the Reserve Bank and the Government. He argues that the Bill would enable the Reserve Bank to dismiss bank directors, officers, and employees without adequate procedural safeguards; burden the institution with bureaucracy; and restrict non-banking companies from carrying on banking-related work. He portrays these provisions as threats to managerial discretion, labour protections, depositor confidence, economic decentralisation, and the rule of law. He proposes either referring the Bill to a Select Committee or postponing it pending a high-level inquiry into the banking industry. The speech concludes by contrasting the Bill's centralising tendency with Gandhi's and Jai Prakash Narayan's advocacy of decentralised economic power.
 ---
 
+## Summary
+
+In this 19 December 1963 Lok Sabha speech, M. R. Masani opposes the Banking Laws (Miscellaneous Provisions) Bill, arguing that it would weaken rather than strengthen India's banking system. He defines banks as institutions that mobilise savings, invest resources in productive activity, and provide credit to entrepreneurs and farmers. He defends the existing mixed structure of Indian banking, including private banks, small shareholders, depositors, and Reserve Bank regulation, while acknowledging that abuses and malefactors should be dealt with individually rather than through sweeping intervention.
+
+Masani's central objections concern the concentration of power in the Reserve Bank and the Government. He argues that the Bill would enable the Reserve Bank to dismiss bank directors, officers, and employees without adequate procedural safeguards; burden the institution with bureaucracy; and restrict non-banking companies from carrying on banking-related work. He portrays these provisions as threats to managerial discretion, labour protections, depositor confidence, economic decentralisation, and the rule of law. He proposes either referring the Bill to a Select Committee or postponing it pending a high-level inquiry into the banking industry. The speech concludes by contrasting the Bill's centralising tendency with Gandhi's and Jai Prakash Narayan's advocacy of decentralised economic power.
+
 ## Key points
 
 - Masani presents banks as mechanisms for mobilising savings, financing productive investment, and extending credit to entrepreneurs and farmers.

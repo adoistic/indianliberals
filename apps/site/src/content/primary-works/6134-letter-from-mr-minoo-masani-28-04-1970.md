@@ -49,6 +49,12 @@ summary: |-
   The letter further discusses the completion and distribution of a brochure on J. S. Mill. Masani asks that distribution arrangements be made before his return to Bombay and recommends that the list of business friends who should receive the party's literature be included. The document is practical correspondence concerning party publications, travel, and outreach; no broader political argument is developed on the page.
 ---
 
+## Summary
+
+This one-page letter, dated 28 April 1970 and written by M. R. Masani from the Swatantra Party's National Headquarters in Bombay, is addressed to S. V. Raju. Masani reports on the progress of printing a newsletter and arranges to receive a packet from C. R. Irani during a forthcoming visit. He also asks Raju to begin preparing a note on Gujarat once the newsletter work is completed.
+
+The letter further discusses the completion and distribution of a brochure on J. S. Mill. Masani asks that distribution arrangements be made before his return to Bombay and recommends that the list of business friends who should receive the party's literature be included. The document is practical correspondence concerning party publications, travel, and outreach; no broader political argument is developed on the page.
+
 ## Key points
 
 - Masani writes to S. V. Raju about the progress of printing a newsletter.

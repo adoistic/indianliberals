@@ -49,6 +49,12 @@ summary: |-
   Masani proposes sending Narayan light, non-political reading material through the Deputy Commissioner and asks Narayan to arrange a fortnightly personal meeting. He offers to travel to Chandigarh despite the expense and difficulty, while acknowledging Narayan’s restricted circumstances and the official procedures governing contact with him.
 ---
 
+## Summary
+
+This single-page letter, dated July 17, 1975, is from M. R. Masani to Jayaprakash Narayan, whom Masani addresses as “JP.” Masani says he learned of Narayan’s health from his brother, Rajeshwar, and recalls that the two corresponded when Narayan was detained in Lahore by the British in 1943. He expresses hope that the present government will follow that precedent and allow the letter to reach its recipient.
+
+Masani proposes sending Narayan light, non-political reading material through the Deputy Commissioner and asks Narayan to arrange a fortnightly personal meeting. He offers to travel to Chandigarh despite the expense and difficulty, while acknowledging Narayan’s restricted circumstances and the official procedures governing contact with him.
+
 ## Key points
 
 - The letter is dated July 17, 1975, and is addressed by M. R. Masani to Jayaprakash Narayan.

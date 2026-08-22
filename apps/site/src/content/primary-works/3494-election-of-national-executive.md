@@ -49,6 +49,12 @@ summary: |-
   The document does not identify the organisation, date, issuer, or author. The second page is an unfilled expenditure and payment form, apparently part of the same administrative file, but its relationship to the executive roster cannot be established from the visible pages.
 ---
 
+## Summary
+
+This two-page administrative record, headed “ELECTION OF NATIONAL EXECUTIVE,” records the election of office-bearers and members of a national executive for a two-year term. The visible roster names Prof. N. G. Ranga as president; four vice-presidents, including K. M. Munshi and Gayatri Devi; M. R. Masani as general secretary; three treasurers; N. Dandekar as joint secretary; and a larger group of executive members.
+
+The document does not identify the organisation, date, issuer, or author. The second page is an unfilled expenditure and payment form, apparently part of the same administrative file, but its relationship to the executive roster cannot be established from the visible pages.
+
 ## Key points
 
 - The General Council elected office-bearers and members of a National Executive for the next two years.

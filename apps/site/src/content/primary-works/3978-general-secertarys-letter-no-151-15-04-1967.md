@@ -49,6 +49,10 @@ summary: |-
   In this one-page letter dated 15 April 1967, M. R. Masani informs a correspondent that he is taking two months' leave as General Secretary of the Swatantra Party to enter hospital and undergo an operation. Although the National Executive had approved the leave, circumstances led him to accept an additional appointment as Chairman of the Public Accounts Committee in response to the wishes of the Executive Committee of the party's Parliamentary Party.
 ---
 
+## Summary
+
+In this one-page letter dated 15 April 1967, M. R. Masani informs a correspondent that he is taking two months' leave as General Secretary of the Swatantra Party to enter hospital and undergo an operation. Although the National Executive had approved the leave, circumstances led him to accept an additional appointment as Chairman of the Public Accounts Committee in response to the wishes of the Executive Committee of the party's Parliamentary Party.
+
 ## Key points
 
 - Masani's leave as General Secretary was approved at a National Executive meeting in Delhi on 15 March.

@@ -55,6 +55,12 @@ summary: |-
   In the rendered page, Masani positions the Swatantra Party as a constitutional and economic “middle ground” between Congress-style interventionism and more radical socialist or communist alternatives. He calls for the removal of excessive controls, protection of individual rights and liberties, and a minimum programme capable of bringing opposition parties together without erasing their ideological differences. The article closes by defending the party’s liberal position against charges of being outdated or reactionary, invoking Carlos Romulo’s claim that Swatantra was “the only outstanding liberal in Asia.”
 ---
 
+## Summary
+
+In the rendered page, M. R. Masani argues that the Delhi government has been indecisive and unable to take necessary decisions on the country’s basic economic problems. He presents the 1971 election mandate as too “blanket” to establish a clear programme for constitutional change, and warns that attempts to weaken fundamental rights would threaten democracy. The article criticises the government’s continuation of policies associated with planning, controls, nationalisation, unemployment and inflation, using rural income and employment figures to argue that these policies have failed to deliver broad prosperity.
+
+In the rendered page, Masani positions the Swatantra Party as a constitutional and economic “middle ground” between Congress-style interventionism and more radical socialist or communist alternatives. He calls for the removal of excessive controls, protection of individual rights and liberties, and a minimum programme capable of bringing opposition parties together without erasing their ideological differences. The article closes by defending the party’s liberal position against charges of being outdated or reactionary, invoking Carlos Romulo’s claim that Swatantra was “the only outstanding liberal in Asia.”
+
 ## Key points
 
 - Masani describes the Delhi government as indecisive and argues that essential economic decisions have been postponed.

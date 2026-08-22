@@ -51,6 +51,12 @@ summary: |-
   The document introduces a category of associate delegates so that states can send larger contingents. Delegates have full participation rights, while associate delegates may speak only with the President's permission and cannot vote. Both categories are charged a fee of Rs 10, to be collected by the National Headquarters Camp Office on the eve of the convention. The page does not print a publication year; it records the convention date and uses June 30, 1971, as the reference date for membership figures.
 ---
 
+## Summary
+
+This one-page Swatantra Party administrative circular sets out delegate quotas and fees for the party's Sixth National Convention in Madras, scheduled for April 14 and 15. Delegate quotas are calculated from each state's enrolment as of June 30, 1971, at a rate of one delegate for every ten Workers or Life Workers, subject to a maximum of 200 delegates. The circular also specifies minimum allocations for states whose enrolment figures are unavailable, including Assam, Bihar, Haryana, Madhya Pradesh, West Bengal, and the Union Territories.
+
+The document introduces a category of associate delegates so that states can send larger contingents. Delegates have full participation rights, while associate delegates may speak only with the President's permission and cannot vote. Both categories are charged a fee of Rs 10, to be collected by the National Headquarters Camp Office on the eve of the convention. The page does not print a publication year; it records the convention date and uses June 30, 1971, as the reference date for membership figures.
+
 ## Key points
 
 - The circular concerns the Swatantra Party's Sixth National Convention in Madras on April 14 and 15.

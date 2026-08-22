@@ -47,6 +47,10 @@ summary: |-
   This one-page English office letter, dated September 21, 1974, is signed by Girish Munshi, General Secretary of the Swatantra Party Maharashtra. Written after the formation of the Bharatiya Lok Dal (BLD), it asks the recipient to clarify whether they remain with the Swatantra Party or have chosen to join the BLD.
 ---
 
+## Summary
+
+This one-page English office letter, dated September 21, 1974, is signed by Girish Munshi, General Secretary of the Swatantra Party Maharashtra. Written after the formation of the Bharatiya Lok Dal (BLD), it asks the recipient to clarify whether they remain with the Swatantra Party or have chosen to join the BLD.
+
 ## Key points
 
 - The letter is dated September 21, 1974.

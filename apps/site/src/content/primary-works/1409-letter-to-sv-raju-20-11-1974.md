@@ -48,6 +48,12 @@ summary: |-
   The letter also asks whether Raju has spoken with Girish Munshi about convening a National Executive meeting. Srikumar proposes inviting M. R. Masani to deliver a lecture during Rajaji's birthday and second death anniversary celebrations in December 1974, and asks Raju to encourage Munshi to make a trip to Madras before 25 December. The page records practical networking and organizational activity among liberal and allied political figures; no formal title or legible full signature is visible.
 ---
 
+## Summary
+
+This single-page letter from V. S. Srikumar to S. V. Raju, dated 20 November 1974, discusses efforts to organize support for the Rajaji Foundation and the wider liberal political movement. Srikumar reports that the foundation was started by an older freedom fighter, Mr. Dalavai, whose current reputation he regards as weak, and says that little had been accomplished beyond holding a meeting, printing letterheads, and sending circulars. He also describes an initiative by the Madras District Swatantra Party to support Jayaprakash Narayan's movement in Bihar through a preliminary meeting with Jan Sangh and a local party, followed by a larger meeting intended to form a committee above party politics.
+
+The letter also asks whether Raju has spoken with Girish Munshi about convening a National Executive meeting. Srikumar proposes inviting M. R. Masani to deliver a lecture during Rajaji's birthday and second death anniversary celebrations in December 1974, and asks Raju to encourage Munshi to make a trip to Madras before 25 December. The page records practical networking and organizational activity among liberal and allied political figures; no formal title or legible full signature is visible.
+
 ## Key points
 
 - Srikumar thanks Raju for sending letters written on behalf of M. R. Masani to people in three states.

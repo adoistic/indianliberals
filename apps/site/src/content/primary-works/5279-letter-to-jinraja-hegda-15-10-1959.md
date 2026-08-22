@@ -45,6 +45,10 @@ summary: |-
   This single-page handwritten letter on Lok Sabha stationery is addressed to a recipient whose name appears to be “Jinraja Hegde,” although the reading is uncertain. The date at the upper right begins “15/10/,” but the year cannot be confirmed from the scan. The letter appears to apologize for being unable to return or provide something, with references that may include a collection and a confirmation; several words and lines are heavily crossed out or difficult to decipher.
 ---
 
+## Summary
+
+This single-page handwritten letter on Lok Sabha stationery is addressed to a recipient whose name appears to be “Jinraja Hegde,” although the reading is uncertain. The date at the upper right begins “15/10/,” but the year cannot be confirmed from the scan. The letter appears to apologize for being unable to return or provide something, with references that may include a collection and a confirmation; several words and lines are heavily crossed out or difficult to decipher.
+
 ## Key points
 
 - The document is a personal letter written in English on Lok Sabha stationery.

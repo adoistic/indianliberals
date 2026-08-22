@@ -50,6 +50,12 @@ summary: |-
   The letter limits the Central Office's declaration of a vacancy to three circumstances: a member's resignation from the party or General Council, expulsion or disqualification by decision of the National Executive, or death. The document is therefore an administrative communication focused on internal party governance and the allocation of authority between the Central Office and State Councils.
 ---
 
+## Summary
+
+This one-page Swatantra Party Central Office letter, dated 4 June 1966 and signed by General Secretary M. R. Masani, sets out the procedure for filling vacancies on the party's General Council. It records a National Executive decision permitting concerned State Councils to fill declared vacancies either at a duly convened meeting or by circulating the matter to all State Council members.
+
+The letter limits the Central Office's declaration of a vacancy to three circumstances: a member's resignation from the party or General Council, expulsion or disqualification by decision of the National Executive, or death. The document is therefore an administrative communication focused on internal party governance and the allocation of authority between the Central Office and State Councils.
+
 ## Key points
 
 - The National Executive considered the filling of General Council vacancies at its Bombay meeting on 26 and 29 May 1966.

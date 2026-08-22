@@ -49,6 +49,12 @@ summary: |-
   Yadav adds that the last Assembly election contested by Ch. Shaib was in 1974, when Piloo Mody came to campaign for the party. The second rendered page is the addressed envelope for the letter. The document therefore offers a brief personal recollection and a negative archival finding rather than a substantive account of the Swatantra Party.
 ---
 
+## Summary
+
+This 15 March 1985 letter from Squadron Leader S. K. Yadav to S. V. Raju responds to a request for material on Ch. Layaq Singh ji and the Swatantra Party. Yadav identifies himself as Ch. Shaib’s younger brother and reports that Shaib died in November 1976. He says that a search of Shaib’s papers found only routine correspondence, with no documents concerning party policy or the party’s history and achievements.
+
+Yadav adds that the last Assembly election contested by Ch. Shaib was in 1974, when Piloo Mody came to campaign for the party. The second rendered page is the addressed envelope for the letter. The document therefore offers a brief personal recollection and a negative archival finding rather than a substantive account of the Swatantra Party.
+
 ## Key points
 
 - The letter is dated 15 March 1985 and was sent from Ornawar House, Shikohabad, Uttar Pradesh.

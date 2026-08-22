@@ -49,6 +49,12 @@ summary: |-
   Masani requests the draft so he can assess whether it is suitable for distribution to members of the General Council. He stresses that no material should be distributed at Bangalore except through the Central Office, and explains that revisions may be necessary; otherwise, the proposal should be abandoned because a lengthy passage on parliamentary activities already appears in the G. S. Report.
 ---
 
+## Summary
+
+In this letter dated January 21, 1964, Minoo Masani asks A. P. Jain whether he has prepared a draft report on the work of the Swatantra Party's Parliamentary Group, which was to be presented in Bangalore. Masani notes that Prof. Ranga had asked Jain to send the draft and says that he was informed of the request the previous day in Rajkot, but had not received it.
+
+Masani requests the draft so he can assess whether it is suitable for distribution to members of the General Council. He stresses that no material should be distributed at Bangalore except through the Central Office, and explains that revisions may be necessary; otherwise, the proposal should be abandoned because a lengthy passage on parliamentary activities already appears in the G. S. Report.
+
 ## Key points
 
 - The letter is dated January 21, 1964, and is signed by M. R. Masani.

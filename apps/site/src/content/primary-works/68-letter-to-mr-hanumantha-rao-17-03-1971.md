@@ -48,6 +48,12 @@ summary: |-
   Masani says he is arranging for the party's National Executive and General Council to meet in the second half of April. He expects that, by then, the relevant data will be available and “the dust will have settled.” The letter does not identify the specific crisis or provide further details about the proposed reassessment.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to G. Hanumantha Rao is dated 17 March 1971. Masani acknowledges Rao's letter of 11 March and agrees that the situation is “all very bad,” requiring a serious reassessment by the party.
+
+Masani says he is arranging for the party's National Executive and General Council to meet in the second half of April. He expects that, by then, the relevant data will be available and “the dust will have settled.” The letter does not identify the specific crisis or provide further details about the proposed reassessment.
+
 ## Key points
 
 - The letter is dated 17 March 1971 and is addressed to G. Hanumantha Rao.

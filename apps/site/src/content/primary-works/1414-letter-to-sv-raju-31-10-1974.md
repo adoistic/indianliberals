@@ -50,6 +50,12 @@ summary: |-
   The substantive purpose of the correspondence is organisational: Srikumar asks Raju to confirm whether he has been able to compile lists of National General Council members sympathetic to the party from the various states. He requests prompt notice of any difficulties and asks for alternative suggestions for obtaining the information. The second rendered page shows the addressed inland-letter form and party return address; it contains no additional substantive correspondence.
 ---
 
+## Summary
+
+This letter, dated 31 October 1974, was sent by V. S. Srikumar, Secretary of the Madras District Swatantra Party, to S. V. Raju in Bombay. Srikumar expresses concern that Raju has not replied to letters dated 28 September and 21 October and that telephone calls to Raju's home have reached only an engaged line.
+
+The substantive purpose of the correspondence is organisational: Srikumar asks Raju to confirm whether he has been able to compile lists of National General Council members sympathetic to the party from the various states. He requests prompt notice of any difficulties and asks for alternative suggestions for obtaining the information. The second rendered page shows the addressed inland-letter form and party return address; it contains no additional substantive correspondence.
+
 ## Key points
 
 - The letter is dated 31 October 1974 and is issued on Madras District Swatantra Party letterhead.

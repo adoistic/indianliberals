@@ -42,6 +42,10 @@ summary: |-
   “REMINDER I” is a typed letter from Girish Munshi to Piloo Mody, dated January 29, 1975, concerning unpaid rent for a share of a property at Lodhi Estate, New Delhi. Munshi refers to an earlier letter dated January 15, 1975, and states that the rent has been in arrears since September.
 ---
 
+## Summary
+
+“REMINDER I” is a typed letter from Girish Munshi to Piloo Mody, dated January 29, 1975, concerning unpaid rent for a share of a property at Lodhi Estate, New Delhi. Munshi refers to an earlier letter dated January 15, 1975, and states that the rent has been in arrears since September.
+
 ## Key points
 
 - The letter is dated January 29, 1975.

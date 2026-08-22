@@ -48,6 +48,12 @@ summary: |-
   The report says party General Secretary N. Dandekar had asked Masani to withdraw his resignation in view of disciplinary action initiated against Mr. Mahida and five others who were said to have supported the opposing candidature. Masani rejected this rationale, describing the disciplinary action as an “eye-wash.” He argued that the episode reflected cynicism about the sanctity of a pledged word and contempt for the electorate, and that remaining outside the party's executive and parliamentary bodies would allow him to do more for democratic processes.
 ---
 
+## Summary
+
+This 16 May 1968 The Hindu report states that M. R. Masani had withdrawn his appeal against resigning from the Swatantra Party's Parliamentary Board and National Executive, making his resignation final. The dispute followed the Gujarat Rajya Sabha elections, in which some Swatantra legislators reportedly opposed the party-backed candidate and helped another candidate win.
+
+The report says party General Secretary N. Dandekar had asked Masani to withdraw his resignation in view of disciplinary action initiated against Mr. Mahida and five others who were said to have supported the opposing candidature. Masani rejected this rationale, describing the disciplinary action as an “eye-wash.” He argued that the episode reflected cynicism about the sanctity of a pledged word and contempt for the electorate, and that remaining outside the party's executive and parliamentary bodies would allow him to do more for democratic processes.
+
 ## Key points
 
 - M. R. Masani withdrew his appeal against resignation from the Swatantra Party's Parliamentary Board and National Executive.

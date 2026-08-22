@@ -51,3 +51,7 @@ ai:
 summary: |-
   This 24 March 1992 issue of The Economic Times Calcutta brings together political commentary, economic reporting and theatre criticism. The first page examines the deterioration of parliamentary practice and the political and economic implications of IMF and World Bank conditionalities. The Gallery section on pages 2–3 reviews the Sangeet Natak Akademi's Natya Samaroh, focusing on the quality of regional-language theatre, the difficulties of presenting it to predominantly Hindi-speaking Delhi audiences, and the tension between folk traditions and institutional cultural programming.
 ---
+
+## Summary
+
+This 24 March 1992 issue of The Economic Times Calcutta brings together political commentary, economic reporting and theatre criticism. The first page examines the deterioration of parliamentary practice and the political and economic implications of IMF and World Bank conditionalities. The Gallery section on pages 2–3 reviews the Sangeet Natak Akademi's Natya Samaroh, focusing on the quality of regional-language theatre, the difficulties of presenting it to predominantly Hindi-speaking Delhi audiences, and the tension between folk traditions and institutional cultural programming.

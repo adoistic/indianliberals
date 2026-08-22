@@ -48,6 +48,12 @@ summary: |-
   The page records a brief exchange within the Swatantra Party’s organisational and political activity. It does not reproduce the enclosed note or the earlier account, so the substance of the reported “sad story” cannot be determined from this letter alone.
 ---
 
+## Summary
+
+In this express-delivery letter dated June 25, 1964, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about an enclosed note received from Zamindar. The note concerns the Swatantra Party in Madhya Pradesh and is presented as supplementing an earlier account Masani had circulated to members of the General Council.
+
+The page records a brief exchange within the Swatantra Party’s organisational and political activity. It does not reproduce the enclosed note or the earlier account, so the substance of the reported “sad story” cannot be determined from this letter alone.
+
 ## Key points
 
 - The letter is dated June 25, 1964, and marked for express delivery.

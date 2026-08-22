@@ -46,6 +46,10 @@ summary: |-
   This untitled, single-page English office record is headed “Presidents and Secretaries of Primary Units.” It lists local organisational units in Bombay and identifies the president and secretary for each, together with their postal addresses. The units named are Colaba, Dhobi Talao, Walkeshwar, Mazagon, Matunga, Mahim, Bandra, Santa Cruz, Vile Parle, and Kurla.
 ---
 
+## Summary
+
+This untitled, single-page English office record is headed “Presidents and Secretaries of Primary Units.” It lists local organisational units in Bombay and identifies the president and secretary for each, together with their postal addresses. The units named are Colaba, Dhobi Talao, Walkeshwar, Mazagon, Matunga, Mahim, Bandra, Santa Cruz, Vile Parle, and Kurla.
+
 ## Key points
 
 - The document is an administrative roster of presidents and secretaries of primary units.

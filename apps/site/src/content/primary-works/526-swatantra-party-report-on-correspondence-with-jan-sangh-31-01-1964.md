@@ -53,6 +53,12 @@ summary: |-
   The later correspondence focuses on specific points of friction: the Bhilwara by-election, public criticism of Minoo Masani’s position on Sheikh Abdullah and Kashmir, allegations attributed to Balraj Madhok, and disturbances at a Swatantra Forum meeting in Calcutta. The report concludes with the Swatantra Party’s expression of distress that the Jan Sangh had withdrawn an allegation of bad faith and used the unavailability of the Delimitation Commission’s report as a reason not to proceed with discussions. The document is undated, although its correspondence runs from January through June and refers to the 1964 Bangalore convention and future 1967 elections.
 ---
 
+## Summary
+
+This confidential Swatantra Party report records correspondence with the Jan Sangh following the party’s Third National Convention in Bangalore. The exchanges concern the possibility of an electoral understanding between the two opposition parties, including cooperation in by-elections and the 1967 general elections, coordination between their parliamentary and state units, and mechanisms for avoiding contests between them. The report presents the Swatantra Party as repeatedly seeking a practical central arrangement while noting delays, non-responses, and disagreements over the scope of prior commitments.
+
+The later correspondence focuses on specific points of friction: the Bhilwara by-election, public criticism of Minoo Masani’s position on Sheikh Abdullah and Kashmir, allegations attributed to Balraj Madhok, and disturbances at a Swatantra Forum meeting in Calcutta. The report concludes with the Swatantra Party’s expression of distress that the Jan Sangh had withdrawn an allegation of bad faith and used the unavailability of the Delimitation Commission’s report as a reason not to proceed with discussions. The document is undated, although its correspondence runs from January through June and refers to the 1964 Bangalore convention and future 1967 elections.
+
 ## Key points
 
 - The report reviews Swatantra–Jan Sangh correspondence after the Third National Convention in Bangalore.

@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated 10 November 1967, is written by R. M. Seshadri, I.C.S. (Retd.), advocate, from Madras, to M. R. Masani, M.P. Seshadri thanks Masani for a letter dated 7 November and discusses two legal-political matters: K. T. Kosalram’s decision to take a matter to the Supreme Court, and a pending judgment concerning Swatantra MLA Sri Cheemaichami.
 ---
 
+## Summary
+
+This one-page letter, dated 10 November 1967, is written by R. M. Seshadri, I.C.S. (Retd.), advocate, from Madras, to M. R. Masani, M.P. Seshadri thanks Masani for a letter dated 7 November and discusses two legal-political matters: K. T. Kosalram’s decision to take a matter to the Supreme Court, and a pending judgment concerning Swatantra MLA Sri Cheemaichami.
+
 ## Key points
 
 - The letter is dated 10 November 1967 and addressed to M. R. Masani, M.P.

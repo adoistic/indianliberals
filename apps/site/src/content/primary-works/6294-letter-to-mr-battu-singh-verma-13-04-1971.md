@@ -44,6 +44,10 @@ summary: |-
   This single-page office letter, dated April 13, 1971, is addressed to Mr. Battu Singh Verma at Vill. Kandiapura, P.O. Sarigara, District Bijnor. E. C. Cooper, identified as General Secretary, acknowledges Verma’s letter of April 4 concerning Mr. Minoo Masani’s resignation and states that a copy has been forwarded to Masani for his response. The letter contains no further explanation of the resignation or its circumstances.
 ---
 
+## Summary
+
+This single-page office letter, dated April 13, 1971, is addressed to Mr. Battu Singh Verma at Vill. Kandiapura, P.O. Sarigara, District Bijnor. E. C. Cooper, identified as General Secretary, acknowledges Verma’s letter of April 4 concerning Mr. Minoo Masani’s resignation and states that a copy has been forwarded to Masani for his response. The letter contains no further explanation of the resignation or its circumstances.
+
 ## Key points
 
 - The letter is dated April 13, 1971.

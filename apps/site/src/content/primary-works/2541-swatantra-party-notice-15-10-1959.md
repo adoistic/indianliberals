@@ -49,6 +49,12 @@ summary: |-
   The notice is signed “(Mrs) D. Lynn,” identified as the party’s Honorary Secretary. No substantive policy argument, agenda, attendee list, or further information about the organising committee appears on the rendered page.
 ---
 
+## Summary
+
+This single-page English office notice, issued on Swatantra Party letterhead from its Bombay office on 15 October 1959, announces a meeting of the Organising Committee. The meeting was scheduled for Thursday, 29 October 1959, at 6 p.m., and recipients are earnestly requested to attend.
+
+The notice is signed “(Mrs) D. Lynn,” identified as the party’s Honorary Secretary. No substantive policy argument, agenda, attendee list, or further information about the organising committee appears on the rendered page.
+
 ## Key points
 
 - The document is a formal meeting notice issued on Swatantra Party letterhead.

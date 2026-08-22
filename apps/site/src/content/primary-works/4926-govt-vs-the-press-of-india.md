@@ -54,6 +54,12 @@ summary: |-
   Under the headings “Code of Ethics” and “Control of leading newspapers,” Irani describes an officially sponsored editorial code, pressure on the Indian Express Group, government influence over newspaper boards, and attempts to remove or transfer senior journalists. He then discusses the consolidation of the Press Trust of India and United News of India into a government-controlled news agency, the economic pressure created by newsprint pricing, and the broader danger to civil liberties. The essay concludes by rejecting the argument that India’s poverty or distinctive circumstances justify restrictions on freedom, and invokes Aleksandr Solzhenitsyn’s warning that people accustomed to freedom may lose the will to defend it.
 ---
 
+## Summary
+
+In this May 1976 essay, C R Irani argues that press censorship under the Emergency has not meaningfully receded but has shifted from government censors to newspaper editors. He contends that emergency orders and the Prevention of Publication of Objectionable Matter Act are designed to make criticism of those exercising political power increasingly difficult. The essay also challenges the government's claim that press freedom is threatened primarily by proprietors, arguing that the government's own conduct provides the more serious threat.
+
+Under the headings “Code of Ethics” and “Control of leading newspapers,” Irani describes an officially sponsored editorial code, pressure on the Indian Express Group, government influence over newspaper boards, and attempts to remove or transfer senior journalists. He then discusses the consolidation of the Press Trust of India and United News of India into a government-controlled news agency, the economic pressure created by newsprint pricing, and the broader danger to civil liberties. The essay concludes by rejecting the argument that India’s poverty or distinctive circumstances justify restrictions on freedom, and invokes Aleksandr Solzhenitsyn’s warning that people accustomed to freedom may lose the will to defend it.
+
 ## Key points
 
 - Censorship is presented as continuing under Emergency powers, even where it is described as “voluntary.”

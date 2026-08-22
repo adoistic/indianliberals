@@ -48,6 +48,12 @@ summary: |-
   Masani also refers to a draft statement based on Narayan's essay in the Indian Express, asks whether Narayan received a copy, and says he will discuss it with him before speaking in Palitana. The letter acknowledges the receipt of a registered copy containing draft chapter four. Handwritten annotations add references to sending material back with comments and to an article on Galbraith, but their full context is not clear.
 ---
 
+## Summary
+
+In this letter dated 11 October 1972, Minoo Masani thanks Jayaprakash Narayan for correspondence from Patna and says that Narayan's letters will be useful in discussions with a group of businessmen in Bombay. Masani has reviewed a draft sent to Acharya Kripalani, but finds it neither fresh nor likely to serve its intended purpose, arguing that it does not offer a real solution to the problems at issue.
+
+Masani also refers to a draft statement based on Narayan's essay in the Indian Express, asks whether Narayan received a copy, and says he will discuss it with him before speaking in Palitana. The letter acknowledges the receipt of a registered copy containing draft chapter four. Handwritten annotations add references to sending material back with comments and to an article on Galbraith, but their full context is not clear.
+
 ## Key points
 
 - Masani thanks Jayaprakash Narayan for a letter sent from Patna.

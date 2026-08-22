@@ -50,6 +50,12 @@ summary: |-
   Masani argues that whether he remains inside or outside the Executive will make little difference unless the party responds to the challenge. He also clarifies that an earlier letter circulated through Shivappa was meant only to prevent misunderstandings about Shivappa’s claimed advisory role in Mysore affairs, not to imply that Shivappa spoke for Masani and his colleagues. The document is a one-page item of party correspondence, with no broader political programme or subsequent developments visible.
 ---
 
+## Summary
+
+In this confidential letter dated 1 April 1968, Minoo Masani responds to V. T. Sreenivasan’s concerns about the Swatantra Party’s internal crisis. Masani agrees that a smaller group of principled legislators is preferable to a larger group lacking character, but explains that this disagreement is precisely why he resigned from the National Executive and Central Parliamentary Board. He says the resignation was intended as a Gandhian challenge to stimulate the party’s conscience and strengthen N. Dandekar’s position as General Secretary after the Gujarat debacle.
+
+Masani argues that whether he remains inside or outside the Executive will make little difference unless the party responds to the challenge. He also clarifies that an earlier letter circulated through Shivappa was meant only to prevent misunderstandings about Shivappa’s claimed advisory role in Mysore affairs, not to imply that Shivappa spoke for Masani and his colleagues. The document is a one-page item of party correspondence, with no broader political programme or subsequent developments visible.
+
 ## Key points
 
 - Masani endorses the principle that political parties need members of character rather than merely large numbers of legislators.

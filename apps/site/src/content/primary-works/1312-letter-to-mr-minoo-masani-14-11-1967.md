@@ -48,6 +48,10 @@ summary: |-
   This two-page scan contains a letter dated November 14, 1967, from Deputy Prime Minister Morarji Desai in New Delhi to M. R. Masani. Desai responds to Masani's reference to diplomatic appointments being made by the Ministry of External Affairs. He states that he knows nothing about the appointments and therefore does not consider it necessary to express an opinion on them.
 ---
 
+## Summary
+
+This two-page scan contains a letter dated November 14, 1967, from Deputy Prime Minister Morarji Desai in New Delhi to M. R. Masani. Desai responds to Masani's reference to diplomatic appointments being made by the Ministry of External Affairs. He states that he knows nothing about the appointments and therefore does not consider it necessary to express an opinion on them.
+
 ## Key points
 
 - The letter is dated November 14, 1967, and was sent from New Delhi.

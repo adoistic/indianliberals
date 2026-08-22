@@ -46,6 +46,10 @@ summary: |-
   This one-page English letter, dated 5 April 1968, is from Wahidur Rahman to N. Dandeker, the General Secretary of the Swatantra Party. Rahman requests an emergency meeting of the party's General Council to discuss the situation arising from Minoo Masani's resignation from the National Executive and the Central Parliamentary Board.
 ---
 
+## Summary
+
+This one-page English letter, dated 5 April 1968, is from Wahidur Rahman to N. Dandeker, the General Secretary of the Swatantra Party. Rahman requests an emergency meeting of the party's General Council to discuss the situation arising from Minoo Masani's resignation from the National Executive and the Central Parliamentary Board.
+
 ## Key points
 
 - The letter is dated 5 April 1968 and addressed to N. Dandeker, M.P.

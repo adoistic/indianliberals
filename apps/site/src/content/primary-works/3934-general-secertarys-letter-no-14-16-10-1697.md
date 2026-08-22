@@ -55,6 +55,12 @@ summary: |-
   The letter also reiterates the Party's opposition to monopolies and monopolistic practices in both the public and private sectors, while asking its parliamentary group to assess the Monopolies Bill on its merits and in light of Party policy. On language and education, it supports university autonomy, parental choice over the language of instruction, and parents' freedom to choose schools rather than being confined by the neighbourhood-school concept. The document records a coordinated parliamentary position rather than a developed policy argument.
 ---
 
+## Summary
+
+Dated October 16, 1967, this one-page letter from N. Dandekar, Officiating General Secretary of the Swatantra Party, conveys guidance approved by the Party's Central Parliamentary Board and National Executive for the next session of Parliament. It asks the Party's MPs to oppose any extension of the Reserve Bank of India's powers that would interfere with the autonomous working of commercial banks, and to reject the proposed nationalisation of general insurance.
+
+The letter also reiterates the Party's opposition to monopolies and monopolistic practices in both the public and private sectors, while asking its parliamentary group to assess the Monopolies Bill on its merits and in light of Party policy. On language and education, it supports university autonomy, parental choice over the language of instruction, and parents' freedom to choose schools rather than being confined by the neighbourhood-school concept. The document records a coordinated parliamentary position rather than a developed policy argument.
+
 ## Key points
 
 - The Central Parliamentary Board reviewed the Swatantra Party's recent parliamentary performance and anticipated issues for the next session.

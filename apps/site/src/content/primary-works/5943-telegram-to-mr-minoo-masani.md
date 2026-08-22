@@ -46,6 +46,12 @@ summary: |-
   The document contains no printed title, sender address, year, or formal salutation. “JP” is not expanded on the page, and the sender’s full identity cannot be established from the telegram alone.
 ---
 
+## Summary
+
+This single-page English telegram, sent through the Indian Posts and Telegraphs Department, is addressed to Minoo Masani at 148 M. G. Road, Bombay. Its message records that “JP” is in Patna on the 22nd and 23rd of December and ends with the apparent sender name “Radhakrishna.”
+
+The document contains no printed title, sender address, year, or formal salutation. “JP” is not expanded on the page, and the sender’s full identity cannot be established from the telegram alone.
+
 ## Key points
 
 - The document is an official Indian Posts and Telegraphs Department telegram form.

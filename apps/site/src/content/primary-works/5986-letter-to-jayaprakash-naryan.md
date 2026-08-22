@@ -46,6 +46,12 @@ summary: |-
   The message asks whether Narayan can meet him there on Saturday evening or at any time on Sunday, and requests that Narayan reply by wire. The document records a proposed meeting and travel arrangements rather than a substantive political argument.
 ---
 
+## Summary
+
+This single-page English express telegram, sent from Bombay on April 22, 1974, is signed “MASANI” and addressed to Jayaprakash Narayan in Patna. The sender reports that he is planning to reach Madras on Saturday the twenty-seventh and expects to stay at the Connemara Hotel.
+
+The message asks whether Narayan can meet him there on Saturday evening or at any time on Sunday, and requests that Narayan reply by wire. The document records a proposed meeting and travel arrangements rather than a substantive political argument.
+
 ## Key points
 
 - The document is an express telegram addressed to Jayaprakash Narayan.

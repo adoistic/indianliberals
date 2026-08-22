@@ -55,6 +55,12 @@ summary: |-
   The letter’s central constitutional argument is that the Governor would be crucial in any West Bengal crisis: he must act as the President’s representative and preserve the legal link between Bengal and the Union. It questions Dhawan’s suitability on the grounds of his alleged support for Soviet policies and his published views on China’s occupation of Tibet. The writer therefore asks the Acting President to exercise discretion under Article 155 rather than accept ministerial advice automatically, while also claiming that appointing Dhawan would be unfair to both Dhawan and West Bengal.
 ---
 
+## Summary
+
+This two-page letter, dated July 30, 1969, is addressed to the Acting President of India and urges caution over the proposed appointment of Shri S. S. Dhawan as Governor of West Bengal. The unidentified Member of Parliament argues that law and order has deteriorated under the Communist-dominated United Front Ministry, which the letter portrays as willing to use governmental power against the Constitution. The writer connects the situation to West Bengal’s border with China and Pakistan, citing Communist support for subversive movements, the Telangana and Naxalbari uprisings, and separatist rhetoric within the state.
+
+The letter’s central constitutional argument is that the Governor would be crucial in any West Bengal crisis: he must act as the President’s representative and preserve the legal link between Bengal and the Union. It questions Dhawan’s suitability on the grounds of his alleged support for Soviet policies and his published views on China’s occupation of Tibet. The writer therefore asks the Acting President to exercise discretion under Article 155 rather than accept ministerial advice automatically, while also claiming that appointing Dhawan would be unfair to both Dhawan and West Bengal.
+
 ## Key points
 
 - The letter warns of deteriorating law and order in West Bengal under the Communist-dominated United Front Ministry.

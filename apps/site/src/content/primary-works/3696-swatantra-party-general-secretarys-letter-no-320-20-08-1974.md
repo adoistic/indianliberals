@@ -53,6 +53,12 @@ summary: |-
   The Convention considered two competing resolutions: one rejecting dissolution and one approving it. The anti-dissolution resolution received 53 votes, while the dissolution resolution received 407 votes, with one delegate neutral. A statewise table records the voting pattern of 484 delegates. The attached resolutions endorse the formation of the Bharatiya Lok Dal (The People’s Party of India), excluding the ruling Congress and Communist parties, and authorise President Piloo Mody to implement the Party’s dissolution and merger. The final attached notice presents the opposing case: that Swatantra’s principles remain valid, that a broad coalition would lack policy clarity, and that retaining Congress and Jan Sangh as separate parties would undermine the goal of a two-party system.
 ---
 
+## Summary
+
+Dated August 20, 1974, this General Secretary’s Letter No. 320 reports on the Swatantra Party’s Seventh National Convention, held in New Delhi on August 4–5 to decide the Party’s future. It describes the proposal to create a National Alternative by bringing together opposition parties, the circulation of a draft programme, and the General Council’s decision that the question of dissolution should be settled by the National Convention. The letter also records debates over press access and secret voting, with the Convention ultimately choosing a show of hands.
+
+The Convention considered two competing resolutions: one rejecting dissolution and one approving it. The anti-dissolution resolution received 53 votes, while the dissolution resolution received 407 votes, with one delegate neutral. A statewise table records the voting pattern of 484 delegates. The attached resolutions endorse the formation of the Bharatiya Lok Dal (The People’s Party of India), excluding the ruling Congress and Communist parties, and authorise President Piloo Mody to implement the Party’s dissolution and merger. The final attached notice presents the opposing case: that Swatantra’s principles remain valid, that a broad coalition would lack policy clarity, and that retaining Congress and Jan Sangh as separate parties would undermine the goal of a two-party system.
+
 ## Key points
 
 - The letter reports the Swatantra Party’s Seventh National Convention and its decision on dissolution.

@@ -49,6 +49,12 @@ summary: |-
   The agenda covers confirmation of the minutes of the December 12, 1973 meeting, matters arising, party activities at different levels, a report on the election to the Bombay Central Parliamentary constituency, party-office housing, consideration of resolutions adopted at the General Council’s Lucknow meeting, a proposed workers’ camp at Versova, finance, and other matters with the chair’s permission. Page 2 provides a handwritten Hindi rendering of the notice and agenda. The typed notice is signed by P. Narayan as Office Secretary.
 ---
 
+## Summary
+
+This two-page Swatantra Party, Bombay Region circular, dated January 10, 1974, announces a State Executive Committee meeting to be held at the party office in Sassoon Building, Bombay, on January 19, 1974. The notice explains that the proposed meeting at Osmanabad was relocated because there was insufficient response from members to travel there, and it invites recipients to attend.
+
+The agenda covers confirmation of the minutes of the December 12, 1973 meeting, matters arising, party activities at different levels, a report on the election to the Bombay Central Parliamentary constituency, party-office housing, consideration of resolutions adopted at the General Council’s Lucknow meeting, a proposed workers’ camp at Versova, finance, and other matters with the chair’s permission. Page 2 provides a handwritten Hindi rendering of the notice and agenda. The typed notice is signed by P. Narayan as Office Secretary.
+
 ## Key points
 
 - The circular is dated January 10, 1974, and is issued on Swatantra Party, Bombay Region letterhead.

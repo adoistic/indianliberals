@@ -49,6 +49,12 @@ summary: |-
   Masani argues that the proposed approach could avert a split while providing a dignified response consistent with the country's immediate needs. He expresses hope that Dandekar will support it. The letter notes an enclosed copy of the resolution, but that enclosure is not present in the rendered page.
 ---
 
+## Summary
+
+In this letter dated July 17, 1974, M. R. Masani writes to N. Dandekar about a resolution proposed for the Swatantra Party's National Convention in Delhi on August 4 and 5. Masani presents the resolution as a compromise between the faction led by Piloo Mody, which favoured a new "hotchpotch" party, and party members who opposed dissolving the Swatantra Party.
+
+Masani argues that the proposed approach could avert a split while providing a dignified response consistent with the country's immediate needs. He expresses hope that Dandekar will support it. The letter notes an enclosed copy of the resolution, but that enclosure is not present in the rendered page.
+
 ## Key points
 
 - Masani's letter is dated July 17, 1974 and addressed to N. Dandekar.

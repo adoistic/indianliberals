@@ -48,6 +48,12 @@ summary: |-
   The writer nevertheless expresses gratitude for the recipient’s kindness in asking whether he could help, reports that he has received a good response to a communication, and hopes to return to Bombay in October. He says he will try to meet the recipient briefly before leaving for Dungarpur, and closes by stating his belief in the Swatantra Party. The signature begins “Lakshman,” but the remainder is not securely legible.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 14 August 1959 and written from the Hyde Park Hotel in London, is addressed to “Sir Homi.” The writer apologises for a delayed reply and explains that a previous letter appears to have caused a misunderstanding; he says he had not written to the recipient and had not asked him to arrange for the writer to come to Bombay.
+
+The writer nevertheless expresses gratitude for the recipient’s kindness in asking whether he could help, reports that he has received a good response to a communication, and hopes to return to Bombay in October. He says he will try to meet the recipient briefly before leaving for Dungarpur, and closes by stating his belief in the Swatantra Party. The signature begins “Lakshman,” but the remainder is not securely legible.
+
 ## Key points
 
 - The letter is dated 14 August 1959 and was written from the Hyde Park Hotel, Knightsbridge, London.

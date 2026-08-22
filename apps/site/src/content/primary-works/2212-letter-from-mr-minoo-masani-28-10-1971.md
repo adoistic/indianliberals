@@ -49,6 +49,12 @@ summary: |-
   Despite these conflicts, Masani says he has arranged to attend the Swatantra Party General Council meeting in Baroda on Saturday, 6 November. He expects to miss the other two meetings, though he will try to attend one of them if circumstances become easier. The letter documents practical coordination within the Swatantra Party and its associated democratic-training activities.
 ---
 
+## Summary
+
+In this one-page letter dated 28 October 1971, M. R. Masani replies to H. M. Patel's invitation to attend several meetings in Baroda. Masani explains that the dates are inconvenient because he has promised to be in Nasik for the first Leslie Sawhny Programme of Training for Democracy course, where he is serving as Honorary Secretary, and because he also has an unavoidable engagement in Bombay on Friday, 5 November.
+
+Despite these conflicts, Masani says he has arranged to attend the Swatantra Party General Council meeting in Baroda on Saturday, 6 November. He expects to miss the other two meetings, though he will try to attend one of them if circumstances become easier. The letter documents practical coordination within the Swatantra Party and its associated democratic-training activities.
+
 ## Key points
 
 - Masani writes to H. M. Patel on 28 October 1971 from Bombay.

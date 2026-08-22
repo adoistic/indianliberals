@@ -49,6 +49,10 @@ summary: |-
   This one-page Swatantra Party circular, dated September 6, 1967, concerns arrangements for the National Executive Meeting in Madras scheduled for September 29–30. Executive Secretary S. V. Raju asks recipients to inform the party office by September 12 whether they need hotel accommodation and whether they require return reservations by train or plane.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated September 6, 1967, concerns arrangements for the National Executive Meeting in Madras scheduled for September 29–30. Executive Secretary S. V. Raju asks recipients to inform the party office by September 12 whether they need hotel accommodation and whether they require return reservations by train or plane.
+
 ## Key points
 
 - The circular is issued by the Swatantra Party Central Office in Bombay.

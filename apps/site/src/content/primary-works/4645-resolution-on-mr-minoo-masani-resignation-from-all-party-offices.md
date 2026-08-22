@@ -46,6 +46,10 @@ summary: |-
   This one-page resolution records a state convention's concern over M. R. Masani's resignation from all official posts in the party. Adopted at Pali on 30 March, the resolution asks the National Executive to create circumstances that would allow Masani to continue leading the party.
 ---
 
+## Summary
+
+This one-page resolution records a state convention's concern over M. R. Masani's resignation from all official posts in the party. Adopted at Pali on 30 March, the resolution asks the National Executive to create circumstances that would allow Masani to continue leading the party.
+
 ## Key points
 
 - The document is a formal resolution adopted by a state convention at Pali.

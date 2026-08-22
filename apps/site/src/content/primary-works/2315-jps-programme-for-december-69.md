@@ -43,6 +43,10 @@ summary: |-
   This single-page office itinerary records Jayaprakash Narayan's planned movements for December 1969 and a tentative schedule for January 1970. The December programme is centered on Patna, with visits to Badshah Khan, Sokhodeora, Lakhisarai, Varanasi, Sitabdiara, Calcutta, Bombay, Marathwada, Hyderabad, Poona, and Pachmarhi. It also notes travel by plane from Calcutta to Bombay and an international seminar in Delhi.
 ---
 
+## Summary
+
+This single-page office itinerary records Jayaprakash Narayan's planned movements for December 1969 and a tentative schedule for January 1970. The December programme is centered on Patna, with visits to Badshah Khan, Sokhodeora, Lakhisarai, Varanasi, Sitabdiara, Calcutta, Bombay, Marathwada, Hyderabad, Poona, and Pachmarhi. It also notes travel by plane from Calcutta to Bombay and an international seminar in Delhi.
+
 ## Key points
 
 - The sheet lists Jayaprakash Narayan's programme for December 1969.

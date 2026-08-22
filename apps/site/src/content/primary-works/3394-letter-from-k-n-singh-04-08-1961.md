@@ -48,6 +48,12 @@ summary: |-
   The letter states that the advance is repayable on demand, with monthly instalments of Rs. 20,000 commencing in the current month, in addition to interest. Singh also undertakes to maintain comprehensive insurance on the vehicles with New India Assurance Ltd. for the duration of the advance. The document ends with a handwritten signature reading “K N Singh.”
 ---
 
+## Summary
+
+This two-page letter, dated Bombay, 4 August 1961, is addressed to The Central Bank of India, Ltd. K. N. Singh acknowledges an advance of Rs. 4 lakhs secured by the hypothecation of 33 jeep vehicles and undertakes to preserve the bank’s exclusive rights over those vehicles. The writer agrees not to sell, mortgage, charge, lien, or otherwise encumber any of them without the bank’s prior written consent.
+
+The letter states that the advance is repayable on demand, with monthly instalments of Rs. 20,000 commencing in the current month, in addition to interest. Singh also undertakes to maintain comprehensive insurance on the vehicles with New India Assurance Ltd. for the duration of the advance. The document ends with a handwritten signature reading “K N Singh.”
+
 ## Key points
 
 - The letter is dated Bombay, 4 August 1961, and addressed to The Central Bank of India, Ltd.

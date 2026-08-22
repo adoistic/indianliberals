@@ -47,6 +47,10 @@ summary: |-
   This undated, single-page English letter on Swatantra Party letterhead is signed by S. Y. Krishnaswamy from 106 Armenian Street, George Town, Madras. Addressed to Sir Homi Modi in Bombay, it responds to a short published account of Modi's speech in Bombay, which Krishnaswamy says reads well and answers the major criticisms directed at the Party.
 ---
 
+## Summary
+
+This undated, single-page English letter on Swatantra Party letterhead is signed by S. Y. Krishnaswamy from 106 Armenian Street, George Town, Madras. Addressed to Sir Homi Modi in Bombay, it responds to a short published account of Modi's speech in Bombay, which Krishnaswamy says reads well and answers the major criticisms directed at the Party.
+
 ## Key points
 
 - The document is a personal letter written on Swatantra Party letterhead.

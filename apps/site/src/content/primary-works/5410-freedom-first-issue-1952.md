@@ -52,6 +52,12 @@ summary: |-
   Narayan directly challenges dialectical materialism and other materialist philosophies, arguing that they provide no rational incentive for deliberate goodness. He does not claim that materialists are necessarily vicious or that all non-materialists are good; rather, he maintains that goodness requires going beyond matter and referring the individual to an objective purpose outside the self. Human beings are described as socio-organic, acquiring their moral character through social conditioning, while the conduct of elites determines the direction and fate of society. The visible article ends by presenting transcendence of materialism as the condition for the individual to become an end in himself.
 ---
 
+## Summary
+
+In “Incentives for Goodness,” Jayaprakash Narayan asks how goodness can be sustained in a modern society where religious faith has weakened and materialism has become dominant. He argues that social reconstruction cannot succeed without the moral reconstruction of individuals, especially the elites who shape society. Scientific and technological progress may make it easier to build institutions, but it cannot supply the inner discipline or ethical purpose required to prevent struggles for power, privilege, and spoils from destroying them.
+
+Narayan directly challenges dialectical materialism and other materialist philosophies, arguing that they provide no rational incentive for deliberate goodness. He does not claim that materialists are necessarily vicious or that all non-materialists are good; rather, he maintains that goodness requires going beyond matter and referring the individual to an objective purpose outside the self. Human beings are described as socio-organic, acquiring their moral character through social conditioning, while the conduct of elites determines the direction and fate of society. The visible article ends by presenting transcendence of materialism as the condition for the individual to become an end in himself.
+
 ## Key points
 
 - The article contrasts earlier religiously grounded incentives to goodness with the moral uncertainty of a materialist society.

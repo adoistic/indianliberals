@@ -48,6 +48,12 @@ summary: |-
   The attachment, headed “Donations received by cheque,” lists 33 companies and industrial or commercial concerns, including Tata Sons, Tata Industries and Associated Companies, Indian Iron & Steel, Larsen & Toubro, and several textile, construction, engineering, insurance, and automobile firms. The visible pages document administrative correspondence and donor records; they do not explain the party, the intended use of the funds, or the amounts contributed.
 ---
 
+## Summary
+
+This two-page English letter, dated February 8, 1964, is from M. R. Masani to Charat Ram. Masani acknowledges Ram’s letter of February 4 and expresses pleasure at learning of his intention, apparently concerning contributions to a party. He encloses a list of companies that had contributed by cheque and notes that he cannot confirm whether every contribution was recorded on the balance sheet, although larger companies such as those in the Tata Group had done so.
+
+The attachment, headed “Donations received by cheque,” lists 33 companies and industrial or commercial concerns, including Tata Sons, Tata Industries and Associated Companies, Indian Iron & Steel, Larsen & Toubro, and several textile, construction, engineering, insurance, and automobile firms. The visible pages document administrative correspondence and donor records; they do not explain the party, the intended use of the funds, or the amounts contributed.
+
 ## Key points
 
 - The letter is dated February 8, 1964, and is signed by M. R. Masani.

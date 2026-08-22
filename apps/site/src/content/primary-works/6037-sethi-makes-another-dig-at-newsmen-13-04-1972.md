@@ -52,6 +52,12 @@ summary: |-
   The clipping presents Sethi as dismissive of journalists, quoting him as calling reporters “time-servers” who might move to another newspaper. It also reports his apparent threat to restrict journalists and photographers from reaching the site of Jayaprakash Narayan’s impending surrender ceremony at Jaura in Morena district. No author byline is visible; the item is attributed to “The Times of India” News Service.
 ---
 
+## Summary
+
+This English-language Times of India news report, dated 13 April 1972 and filed from Gwalior, describes Madhya Pradesh Chief Minister P. C. Sethi’s latest criticism of newspaper reporters. The report says Sethi objected to what he regarded as a local newspaper’s distortion of events and, at a press conference, theatrically moved away a copy of the paper.
+
+The clipping presents Sethi as dismissive of journalists, quoting him as calling reporters “time-servers” who might move to another newspaper. It also reports his apparent threat to restrict journalists and photographers from reaching the site of Jayaprakash Narayan’s impending surrender ceremony at Jaura in Morena district. No author byline is visible; the item is attributed to “The Times of India” News Service.
+
 ## Key points
 
 - The report is dated 13 April 1972 and is filed from Gwalior.

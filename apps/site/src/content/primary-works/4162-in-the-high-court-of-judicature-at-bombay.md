@@ -54,6 +54,12 @@ summary: |-
   The handwritten order records that counsel for the petitioner referred to Supreme Court decisions from 1976 onward concerning the amendment of the Constitution and the Preamble. It states that the question had not yet been finally decided by the Supreme Court, characterises the issue as one of public importance relating to constitutional interpretation, admits the case, and directs that notice issue to the respondents. The pages do not include the petition's substantive grounds, the respondents' reply, or a final judgment.
 ---
 
+## Summary
+
+This three-page English court filing is an S.B. Civil Writ Petition filed in the High Court of Judicature for Rajasthan at the Jaipur Bench. The caption identifies Kapoor Chandra Kulish as petitioner and the Union of India, through the Cabinet Secretary, as respondent. The petition is expressly brought under Article 226 of the Constitution of India and concerns the Preamble to the Constitution.
+
+The handwritten order records that counsel for the petitioner referred to Supreme Court decisions from 1976 onward concerning the amendment of the Constitution and the Preamble. It states that the question had not yet been finally decided by the Supreme Court, characterises the issue as one of public importance relating to constitutional interpretation, admits the case, and directs that notice issue to the respondents. The pages do not include the petition's substantive grounds, the respondents' reply, or a final judgment.
+
 ## Key points
 
 - The document is an S.B. Civil Writ Petition before the Rajasthan High Court's Jaipur Bench.

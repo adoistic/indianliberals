@@ -55,6 +55,12 @@ summary: |-
   Mody then defines the Swatantra Party positively, as a movement for democratic freedom, social justice, and efficient and honest administration. His central criticism is that Congress dominance has weakened liberty and constitutional protections: a single party’s overwhelming legislative majority, the influence of a few individuals, the dilution of the right to property through the Fourth Amendment, ordinances, and pervasive regulatory legislation have produced what he calls “the dictatorship of a chosen oligarchy ruling in the name of the people.” The closing pages connect this constitutional critique to economic priorities, condemning grandiose projects and an “outmoded philosophy” that leaves basic public needs unmet.
 ---
 
+## Summary
+
+In this speech delivered at a Swatantra Party public meeting on July 6, 1959, Sir Homi Mody presents the size of the gathering as evidence of public disillusionment with the Congress government and of continuing respect for C. Rajagopalachari (“Rajaji”). He rejects the description of Rajaji as merely an “Elder Statesman,” portraying him instead as intellectually acute, courageous, patriotic, and willing to challenge prevailing demands for self-denial in the name of building a socialist society.
+
+Mody then defines the Swatantra Party positively, as a movement for democratic freedom, social justice, and efficient and honest administration. His central criticism is that Congress dominance has weakened liberty and constitutional protections: a single party’s overwhelming legislative majority, the influence of a few individuals, the dilution of the right to property through the Fourth Amendment, ordinances, and pervasive regulatory legislation have produced what he calls “the dictatorship of a chosen oligarchy ruling in the name of the people.” The closing pages connect this constitutional critique to economic priorities, condemning grandiose projects and an “outmoded philosophy” that leaves basic public needs unmet.
+
 ## Key points
 
 - Mody interprets the large public gatherings as evidence of growing dissatisfaction with the ruling Congress Party.

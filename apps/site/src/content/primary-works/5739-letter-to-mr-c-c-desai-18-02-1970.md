@@ -49,6 +49,12 @@ summary: |-
   The letter says the report described a persistent departure from basic Party policies and repeated instances of indiscipline. After discussion, the National Executive unanimously decided to ask Desai for an explanation and requested that he send it to Party headquarters by 10 March. An attached note is mentioned but is not included in the rendered page.
 ---
 
+## Summary
+
+This single-page letter, dated 18 February 1970, is addressed to Mr. C. C. Desai, MP, and signed by a General Secretary identified in the typed signature block as H. C. Cooper. It records the National Executive's consideration of a report concerning Desai's activities and his election to Parliament in March 1967.
+
+The letter says the report described a persistent departure from basic Party policies and repeated instances of indiscipline. After discussion, the National Executive unanimously decided to ask Desai for an explanation and requested that he send it to Party headquarters by 10 March. An attached note is mentioned but is not included in the rendered page.
+
 ## Key points
 
 - The letter is dated February 18, 1970, and addressed to Mr. C. C. Desai, MP.

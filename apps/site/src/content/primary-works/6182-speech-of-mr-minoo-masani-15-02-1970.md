@@ -63,6 +63,12 @@ summary: |-
   Masani then turns inward to the Swatantra Party. He says the party must demonstrate greater dynamism and discipline, communicate its liberal principles more effectively, and organise consumers, farmers, shareholders, bank depositors, radio listeners, and parents. The speech presents Swatantra as a party of radical change against state capitalism, monopoly, planning, controls, and the Permit-Licence-Raj, while also defending modernisation, minority equality, farmers’ property, and constructive political organisation. He invokes Mahatma Gandhi as a model of practical mass organisation and concludes by asking Bombay workers to build broad, non-party movements around consumer and depositor rights.
 ---
 
+## Summary
+
+In this speech inaugurating the Bombay Regional Party convention, Minoo Masani argues that India’s political standards and democratic institutions have deteriorated, citing political violence in West Bengal, the conduct of the Union government, and what he presents as growing disregard for constitutional norms. He contrasts this decline with the Supreme Court’s bank-nationalisation judgment, which he praises as a reaffirmation of the Constitution, property rights, and individual rights against executive overreach. Masani also urges the opposition to replace the government in Delhi, but acknowledges that no single party can do so alone and calls for a minimum programme bringing democratic opposition groups together.
+
+Masani then turns inward to the Swatantra Party. He says the party must demonstrate greater dynamism and discipline, communicate its liberal principles more effectively, and organise consumers, farmers, shareholders, bank depositors, radio listeners, and parents. The speech presents Swatantra as a party of radical change against state capitalism, monopoly, planning, controls, and the Permit-Licence-Raj, while also defending modernisation, minority equality, farmers’ property, and constructive political organisation. He invokes Mahatma Gandhi as a model of practical mass organisation and concludes by asking Bombay workers to build broad, non-party movements around consumer and depositor rights.
+
 ## Key points
 
 - Masani criticises the decline of public standards, democratic practice, and law and order in India.

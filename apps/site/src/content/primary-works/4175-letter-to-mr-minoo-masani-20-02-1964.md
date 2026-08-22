@@ -48,6 +48,12 @@ summary: |-
   Rajagopalachari encloses a draft article and asks Masani to suggest additions, deletions, or other revisions before he prints it in Swarajya. The page does not include the enclosed article, so its subject and argument cannot be assessed from the rendered material.
 ---
 
+## Summary
+
+This single-page letter, dated 20 February 1964, is from C. Rajagopalachari to M. R. Masani in New Delhi. Rajagopalachari acknowledges Masani's letter of 18 February and his copy of a letter to “Commerce,” expressing satisfaction that Masani had written to that publication or organisation.
+
+Rajagopalachari encloses a draft article and asks Masani to suggest additions, deletions, or other revisions before he prints it in Swarajya. The page does not include the enclosed article, so its subject and argument cannot be assessed from the rendered material.
+
 ## Key points
 
 - The document is a personal letter from C. Rajagopalachari dated 20 February 1964.

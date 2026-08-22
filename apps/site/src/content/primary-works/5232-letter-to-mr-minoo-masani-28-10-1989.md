@@ -50,6 +50,12 @@ summary: |-
   The letter also encloses a draft for Rs. 240 toward Masani’s return air passage and asks him to accept it. The letterhead date appears to read 28 October 1959; the filename’s 1989 date is not supported by the rendered document. The signatory’s name and designation are handwritten and remain subject to review.
 ---
 
+## Summary
+
+This single-page English letter, issued on the letterhead of the Swatantra Party’s South Kanara District Unit in Mangalore, thanks M. R. Masani for travelling to Mangalore to deliver an inaugural address despite his other engagements. The signatory, apparently H. U. Shetty, writes on behalf of the Reception Committee and invites Masani to return for a more leisurely visit to local “mofussil centres.”
+
+The letter also encloses a draft for Rs. 240 toward Masani’s return air passage and asks him to accept it. The letterhead date appears to read 28 October 1959; the filename’s 1989 date is not supported by the rendered document. The signatory’s name and designation are handwritten and remain subject to review.
+
 ## Key points
 
 - The South Kanara District Unit of the Swatantra Party writes from Hampankatta, Mangalore.

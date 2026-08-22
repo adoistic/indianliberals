@@ -53,6 +53,12 @@ summary: |-
   The letter reports that the convention rejected a motion opposing dissolution by 53 votes to 407, while approving the dissolution resolution by 407 votes to 53, with one neutral delegate. A state-wise voting table and delegate breakdown show the geographical distribution of the decision, with 484 delegates attending. The attached resolutions frame dissolution as part of the proposed formation of a new party, Bharatiya Lok Dal, while allowing members who did not join the new organisation to continue non-partisan activity under another name. The documents also include a dissenting resolution arguing that Swatantra's principles remained valid and that dissolution would not produce a genuinely national alternative.
 ---
 
+## Summary
+
+Dated August 20, 1974, General Secretary's Letter No. 320 reports on the Swatantra Party's Seventh National Convention, held in New Delhi on August 4–5 to decide whether the party should dissolve. The letter explains that the party's General Council had welcomed efforts to form a National Alternative but reserved the final decision for a national convention. It also records procedural disputes over press access, secret voting, and the conduct of the convention's deliberations.
+
+The letter reports that the convention rejected a motion opposing dissolution by 53 votes to 407, while approving the dissolution resolution by 407 votes to 53, with one neutral delegate. A state-wise voting table and delegate breakdown show the geographical distribution of the decision, with 484 delegates attending. The attached resolutions frame dissolution as part of the proposed formation of a new party, Bharatiya Lok Dal, while allowing members who did not join the new organisation to continue non-partisan activity under another name. The documents also include a dissenting resolution arguing that Swatantra's principles remained valid and that dissolution would not produce a genuinely national alternative.
+
 ## Key points
 
 - The letter records the Swatantra Party's Seventh National Convention in New Delhi on August 4–5, 1974.

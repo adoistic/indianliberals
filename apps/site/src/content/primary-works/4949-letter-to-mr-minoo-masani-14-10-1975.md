@@ -48,6 +48,12 @@ summary: |-
   The proposed feature would ask around a dozen book-lovers to identify three or four books they had enjoyed most during the year and explain why. Malhotra requests that contributors provide each book’s full title, publisher, and price, confirm whether they will participate, and submit their contribution by 15 November. No actual book recommendations or discussion of the books appears on the rendered page.
 ---
 
+## Summary
+
+This one-page English letter, written on The Times of India, Bombay letterhead and dated 14 October 1975, is signed by Inder Malhotra and addressed to M. R. Masani. Malhotra invites Masani to contribute approximately 500 words to a year-end special feature on books.
+
+The proposed feature would ask around a dozen book-lovers to identify three or four books they had enjoyed most during the year and explain why. Malhotra requests that contributors provide each book’s full title, publisher, and price, confirm whether they will participate, and submit their contribution by 15 November. No actual book recommendations or discussion of the books appears on the rendered page.
+
 ## Key points
 
 - The letter is dated 14 October 1975 and bears The Times of India, Bombay letterhead.

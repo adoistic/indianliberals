@@ -55,6 +55,12 @@ summary: |-
   Masani distinguishes the legal question from the question of political and moral propriety: even if the Supreme Court were later to reverse the judgment, Gandhi’s decision not to resign had already damaged her credibility and dignity. The essay links this crisis to the Gujarat election defeat, economic mismanagement, unemployment, India’s international reputation, and the weakening of political institutions. It closes by defending the independence of the Indian judiciary and invoking the slow but inexorable movement of history against personality cults and political expediency.
 ---
 
+## Summary
+
+In “The Mills of History,” H. R. Masani argues that Indira Gandhi should have resigned as Prime Minister after the Allahabad High Court verdict rather than remain in office while appealing. The essay presents resignation as the ethically and politically proper response, criticising the lawyers and political advisers who persuaded her to stay. It stresses that the Court rejected not only evidence from P. N. Haksar and Yashpal Kapoor but also important parts of Gandhi’s own testimony, while noting that the judgment remained subject to appeal.
+
+Masani distinguishes the legal question from the question of political and moral propriety: even if the Supreme Court were later to reverse the judgment, Gandhi’s decision not to resign had already damaged her credibility and dignity. The essay links this crisis to the Gujarat election defeat, economic mismanagement, unemployment, India’s international reputation, and the weakening of political institutions. It closes by defending the independence of the Indian judiciary and invoking the slow but inexorable movement of history against personality cults and political expediency.
+
 ## Key points
 
 - Masani argues that Indira Gandhi missed an opportunity to resign after the Allahabad High Court verdict and thereby preserve public respect.

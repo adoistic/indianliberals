@@ -63,6 +63,12 @@ summary: |-
   The manifesto presents the Swatantra Party as a defender of constitutional government, individual freedom, private property, press freedom, and the rule of law. It argues for a mixed economy in which government supplies infrastructure, utilities, research, agricultural support, and essential heavy industry while private enterprise remains autonomous and competitive. Its programme calls for secure property rights and compensation, higher agricultural production led by peasant proprietors, protection for tenants and landless labourers, incentives for industry, restricted state enterprise, moderate taxation, administrative integrity, and anti-corruption institutions such as the Lokpal and Lokayukt. It closes by grounding national progress in individual self-interest, public service, and the principle of Dharma.
 ---
 
+## Summary
+
+This six-page document consists of a 22 November 1971 covering letter from Swatantra Party General Secretary Madhu Mehta, followed by the party’s election manifesto for the February 1972 Assembly elections. The letter asks recipients to publicise the manifesto and provide a verbatim translation into the relevant state language. The manifesto, adopted at the party’s General Council meeting in Baroda on 6 November 1971, attacks the ruling Congress government for constitutional amendments, restrictions on fundamental rights, proposed press legislation, state control of communications, inflation, unemployment, and inadequate responses to floods and droughts.
+
+The manifesto presents the Swatantra Party as a defender of constitutional government, individual freedom, private property, press freedom, and the rule of law. It argues for a mixed economy in which government supplies infrastructure, utilities, research, agricultural support, and essential heavy industry while private enterprise remains autonomous and competitive. Its programme calls for secure property rights and compensation, higher agricultural production led by peasant proprietors, protection for tenants and landless labourers, incentives for industry, restricted state enterprise, moderate taxation, administrative integrity, and anti-corruption institutions such as the Lokpal and Lokayukt. It closes by grounding national progress in individual self-interest, public service, and the principle of Dharma.
+
 ## Key points
 
 - The covering letter encloses and seeks publicity for a Swatantra Party election manifesto adopted in Baroda on 6 November 1971.

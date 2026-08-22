@@ -49,6 +49,12 @@ summary: |-
   The enclosed principles present trusteeship as a route from the existing capitalist order toward an egalitarian society without assuming that the owning class is beyond moral reform. They subordinate private ownership to social welfare, reject the use of wealth for selfish purposes, propose limits on maximum incomes alongside minimum living wages, and argue that production should be determined by social necessity rather than personal whim or greed.
 ---
 
+## Summary
+
+This three-page English-language document, dated 20 August 1959, consists of a typed letter addressed to Raja Hutheesing, a handwritten note referring to an article on trusteeship, and an enclosed list of five principles attributed to Gandhian economic thought. The correspondence expresses hope that the recipients will live up to the concept of trusteeship and points the reader to an article by Pyarelal, “The Last Phase,” in volume II of a source identified in the handwriting as “Harijan.”
+
+The enclosed principles present trusteeship as a route from the existing capitalist order toward an egalitarian society without assuming that the owning class is beyond moral reform. They subordinate private ownership to social welfare, reject the use of wealth for selfish purposes, propose limits on maximum incomes alongside minimum living wages, and argue that production should be determined by social necessity rather than personal whim or greed.
+
 ## Key points
 
 - The document is dated 20 August 1959 and includes a typed letter addressed to Raja Hutheesing.

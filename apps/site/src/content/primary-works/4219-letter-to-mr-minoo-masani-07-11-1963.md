@@ -49,6 +49,12 @@ summary: |-
   Rajagopalachari asks Masani to consider the enclosed material carefully and either discuss it when they meet or write back with his reaction. The letter itself does not reproduce the enclosure, which is noted as consisting of four sheets; consequently, the political forecast being referred to cannot be assessed from this page alone.
 ---
 
+## Summary
+
+This single-page letter, dated 7 November 1963, is written by C. Rajagopalachari from his Madras address to M. R. Masani, then General Secretary of the Swatantra Party in Bombay. Rajagopalachari says he is enclosing a letter from an unnamed gentleman in Ambala whose forecast and counsel he considers thoughtful and sincere, although pessimistic and frightened.
+
+Rajagopalachari asks Masani to consider the enclosed material carefully and either discuss it when they meet or write back with his reaction. The letter itself does not reproduce the enclosure, which is noted as consisting of four sheets; consequently, the political forecast being referred to cannot be assessed from this page alone.
+
 ## Key points
 
 - The letter was written by C. Rajagopalachari on 7 November 1963.

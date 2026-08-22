@@ -46,6 +46,12 @@ summary: |-
   Masani adds that he will bear the recipient's advice in mind and do his very best. He closes by expressing his pleasure at the prospect of meeting if he is in Bombay when the recipient next visits, and offers New Year greetings.
 ---
 
+## Summary
+
+Dated January 2, 1970, this brief personal letter from Minoo Masani responds to a December 29 letter and New Year felicitations from the Maharaja Saheb of Idar. Masani says that what he really needs is sympathy and good wishes, rather than congratulations.
+
+Masani adds that he will bear the recipient's advice in mind and do his very best. He closes by expressing his pleasure at the prospect of meeting if he is in Bombay when the recipient next visits, and offers New Year greetings.
+
 ## Key points
 
 - The letter is dated January 2, 1970.

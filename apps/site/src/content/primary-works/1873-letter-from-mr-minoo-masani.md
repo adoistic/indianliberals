@@ -55,6 +55,12 @@ summary: |-
   The letter also urges resistance to provisions in the Official Secrets (Amendment) Bill and the Unlawful Associations Bill that would encroach on civil liberties and fundamental rights. It calls for opposition to any postponement of Assembly elections in Orissa and to extending President’s Rule in Kerala. The National Executive reiterates the party’s opposition to manufacturing nuclear weapons and records a position against a constitutional amendment that would curtail states’ rights and the federal structure. It concludes by listing resolutions on the economic situation, foreign policy in the context of the recent conflict with Pakistan, detention cases, and the exploitation of the present crises. The document is marked “Draft”; its date and formal recipient are not visible, and page 4 contains handwritten approval or circulation annotations.
 ---
 
+## Summary
+
+This four-page draft letter from Swatantra Party General Secretary M. R. Masani communicates decisions taken by the Central Parliamentary Board and the National Executive to the party’s MPs and MLAs. It records the Board’s satisfaction with the party’s parliamentary work and instructs legislators to consult the parliamentary leadership before committing themselves to joint initiatives, signing public appeals, or attending conferences and delegations organised by other parties or groups. The letter specifically addresses opposition to the manufacture of nuclear weapons and directs party members to oppose India’s withdrawal from the Commonwealth.
+
+The letter also urges resistance to provisions in the Official Secrets (Amendment) Bill and the Unlawful Associations Bill that would encroach on civil liberties and fundamental rights. It calls for opposition to any postponement of Assembly elections in Orissa and to extending President’s Rule in Kerala. The National Executive reiterates the party’s opposition to manufacturing nuclear weapons and records a position against a constitutional amendment that would curtail states’ rights and the federal structure. It concludes by listing resolutions on the economic situation, foreign policy in the context of the recent conflict with Pakistan, detention cases, and the exploitation of the present crises. The document is marked “Draft”; its date and formal recipient are not visible, and page 4 contains handwritten approval or circulation annotations.
+
 ## Key points
 
 - The Central Parliamentary Board reviewed the party’s work in both Houses of Parliament and expressed satisfaction with its performance.

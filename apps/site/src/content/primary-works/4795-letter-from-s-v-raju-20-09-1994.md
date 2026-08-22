@@ -50,6 +50,12 @@ summary: |-
   The visible page is a brief political communication rather than a substantive policy essay. Its argument is limited to characterizing the enclosed Swatantra Party documents; the enclosures themselves are not included in this item.
 ---
 
+## Summary
+
+This one-page letter from S. V. Raju to Mr. Raju Patil, dated September 20, 1994, encloses copies of the Swatantra Party's “Statement of Policy” and “Statement of Principles.” Raju explains that although the documents do not explicitly reject socialism, their overall position rejects statism, which he presents as another name for socialism.
+
+The visible page is a brief political communication rather than a substantive policy essay. Its argument is limited to characterizing the enclosed Swatantra Party documents; the enclosures themselves are not included in this item.
+
 ## Key points
 
 - The letter is dated September 20, 1994 and is addressed to Mr. Raju Patil at the Bombay High Court.

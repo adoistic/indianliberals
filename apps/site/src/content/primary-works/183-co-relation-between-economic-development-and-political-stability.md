@@ -50,6 +50,10 @@ summary: |-
   M.R. Masani examines whether economic development and political stability are necessarily connected. He argues that neither term is unambiguous: stability can describe free democratic government or oppressive regimes, while development can mean broad economic welfare or growth achieved through exploitation. The examples of the Soviet Union, Communist China, and rapidly developing Asian countries are used to show that prosperity, poverty, freedom, and authoritarianism do not align in one simple pattern. The essay rejects any essential two-way causal relationship, but identifies political stability as a necessary precondition for sustained economic progress.
 ---
 
+## Summary
+
+M.R. Masani examines whether economic development and political stability are necessarily connected. He argues that neither term is unambiguous: stability can describe free democratic government or oppressive regimes, while development can mean broad economic welfare or growth achieved through exploitation. The examples of the Soviet Union, Communist China, and rapidly developing Asian countries are used to show that prosperity, poverty, freedom, and authoritarianism do not align in one simple pattern. The essay rejects any essential two-way causal relationship, but identifies political stability as a necessary precondition for sustained economic progress.
+
 ## Key points
 
 - Political stability is valuable when grounded in freedom and democracy, but stability under tyranny or slavery is not desirable.

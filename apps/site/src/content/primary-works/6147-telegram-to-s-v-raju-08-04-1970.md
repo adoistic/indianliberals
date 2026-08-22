@@ -50,6 +50,12 @@ summary: |-
   No sender, author, title, or place of dispatch is printed. The image preserves the telegram form, pasted message strips, handwritten annotations, and a receipt stamp, but not enough context to identify the event or the person who sent the message.
 ---
 
+## Summary
+
+This one-page English telegram, sent through Indian Posts and Telegraphs and received on 8 April 1970, is addressed to S. V. Raju. Its clipped message asks that an invitation be dispatched to members of the Gujarat State Party and refers to boarding on the 6th; the destination and some surrounding words are difficult to read from the surviving strips. The document therefore records a brief piece of party-related organisational coordination rather than a developed political argument.
+
+No sender, author, title, or place of dispatch is printed. The image preserves the telegram form, pasted message strips, handwritten annotations, and a receipt stamp, but not enough context to identify the event or the person who sent the message.
+
 ## Key points
 
 - The document is a one-page telegram rather than a conventional letter or essay.

@@ -51,6 +51,12 @@ summary: |-
   Arya now reports that Raju may be able to arrange only Rs. 5,000, leaving the Delhi Pradesh office unable to meet half of the convention's estimated Rs. 20,000 expenditure. Because Arya says he cannot borrow money and repay it later, he proposes cancelling the convention and asking the Prime Minister to arrange it elsewhere if the funds cannot be secured.
 ---
 
+## Summary
+
+This one-page letter, dated July 15, 1974, is written by the Swatantra Party Delhi Pradesh office to S. V. Raju about arranging the Party's National Convention. The apparent signatory, M. R. Arya, explains that the convention was agreed to only after Mr. Bhatia assured him that Raju would arrange approximately Rs. 10,000 toward its expenses and confirmed that proposal by telephone.
+
+Arya now reports that Raju may be able to arrange only Rs. 5,000, leaving the Delhi Pradesh office unable to meet half of the convention's estimated Rs. 20,000 expenditure. Because Arya says he cannot borrow money and repay it later, he proposes cancelling the convention and asking the Prime Minister to arrange it elsewhere if the funds cannot be secured.
+
 ## Key points
 
 - The letter concerns the financing and organisation of the Swatantra Party's National Convention.

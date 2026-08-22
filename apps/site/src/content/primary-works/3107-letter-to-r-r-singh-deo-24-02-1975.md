@@ -50,6 +50,12 @@ summary: |-
   The letter also recalls Raju’s longstanding regard for the deceased, whom he says he had known since 1962. Raju notes that, despite recent differences over the dissolution of the Swatantra Party, he would have considered it an honour to visit him in hospital had he known of his illness. The document is primarily a personal condolence letter, with party politics appearing as biographical context.
 ---
 
+## Summary
+
+This one-page English letter, dated February 24, 1975, was written by S. V. Raju on Swatantra Party Maharashtra letterhead to R. R. Singh Deo. Raju expresses his shock at learning by radio of the death of Singh Deo’s father, identified as Maharajasaheb of Patna, and offers condolences to the recipient and his family.
+
+The letter also recalls Raju’s longstanding regard for the deceased, whom he says he had known since 1962. Raju notes that, despite recent differences over the dissolution of the Swatantra Party, he would have considered it an honour to visit him in hospital had he known of his illness. The document is primarily a personal condolence letter, with party politics appearing as biographical context.
+
 ## Key points
 
 - S. V. Raju writes to R. R. Singh Deo on February 24, 1975.

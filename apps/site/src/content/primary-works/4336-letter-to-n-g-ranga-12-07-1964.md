@@ -50,6 +50,12 @@ summary: |-
   The accompanying letter from Ranga describes meetings with approximately 100 Swatantra Party workers in Dohad and 75 in Hyderabad. It reports that Sardar Basant Singh presented the party’s Kashmir position persuasively, while Masani advocated friendship with Pakistan and a rational, non-emotional approach to the issue. The correspondence also discusses a proposed effort to recruit independent Madhya Pradesh MLAs: Ranga states that 15 to 19 of the 45 independents may join the party by the September session and asks Rajagopalachari to write to sympathetic contacts in Rewa. The pages document internal party mobilisation and foreign-policy advocacy, but do not establish the outcome of these efforts.
 ---
 
+## Summary
+
+This three-page letter, dated 12 July 1964, is C. Rajagopalachari’s response to N. G. Ranga on Kashmir, Pakistan, and the Swatantra Party’s political strategy. Rajagopalachari argues that a conciliatory approach to Kashmir and Pakistan should become a bold contribution to national political psychology, even if it does not produce immediate results. He declines to write to Madhya Pradesh legislators whom he does not know personally, preferring to rely first on the party’s public appeal and on Minoo Masani and Maharaja of Baria’s preliminary organising work.
+
+The accompanying letter from Ranga describes meetings with approximately 100 Swatantra Party workers in Dohad and 75 in Hyderabad. It reports that Sardar Basant Singh presented the party’s Kashmir position persuasively, while Masani advocated friendship with Pakistan and a rational, non-emotional approach to the issue. The correspondence also discusses a proposed effort to recruit independent Madhya Pradesh MLAs: Ranga states that 15 to 19 of the 45 independents may join the party by the September session and asks Rajagopalachari to write to sympathetic contacts in Rewa. The pages document internal party mobilisation and foreign-policy advocacy, but do not establish the outcome of these efforts.
+
 ## Key points
 
 - Rajagopalachari endorses a conciliatory approach to Kashmir and Pakistan as a contribution to India’s political outlook.

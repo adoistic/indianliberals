@@ -50,6 +50,12 @@ summary: |-
   The letter also reports an internal party dispute involving Prof. Ranga and Mr. Mahida. Reddy says that representations were made against Mahida’s continuation as a secretary, resulting in his initial non-election, but that the matter was ultimately settled by allowing Mahida to remain in the position. The document is a personal political communication focused on parliamentary conduct and party administration.
 ---
 
+## Summary
+
+This one-page letter, dated 17 November 1962 from Delhi, is addressed by Lok Sabha Member of Parliament C. L. Narasimha Reddy to Minoo Masani. Reddy thanks Masani for advocating on behalf of young men and comments on a parliamentary debate concerning the war situation, explaining that he chose not to speak so that other members could participate.
+
+The letter also reports an internal party dispute involving Prof. Ranga and Mr. Mahida. Reddy says that representations were made against Mahida’s continuation as a secretary, resulting in his initial non-election, but that the matter was ultimately settled by allowing Mahida to remain in the position. The document is a personal political communication focused on parliamentary conduct and party administration.
+
 ## Key points
 
 - The letter is dated 17 November 1962 and was sent from Delhi.

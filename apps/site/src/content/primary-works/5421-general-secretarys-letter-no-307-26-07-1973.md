@@ -53,6 +53,12 @@ summary: |-
   The letter instructs state offices to hold flag-hoisting ceremonies, invite speakers to address the party, and ask members attending the meetings to pledge renewed sincerity to the party and uphold the ideals for which Rajaji founded it. Its immediate purpose is organisational mobilisation and reaffirmation of the party's founding legacy.
 ---
 
+## Summary
+
+This one-page urgent letter, dated July 25, 1973, is General Secretary's Letter No. 307 from the Swatantra Party national headquarters in Bombay. Signed by Madhu Mehta, it asks party units to organise public observances for the Swatantra Party's fourteenth anniversary on August 1, marking the party's founding in 1959.
+
+The letter instructs state offices to hold flag-hoisting ceremonies, invite speakers to address the party, and ask members attending the meetings to pledge renewed sincerity to the party and uphold the ideals for which Rajaji founded it. Its immediate purpose is organisational mobilisation and reaffirmation of the party's founding legacy.
+
 ## Key points
 
 - The document is marked urgent and dated July 25, 1973.

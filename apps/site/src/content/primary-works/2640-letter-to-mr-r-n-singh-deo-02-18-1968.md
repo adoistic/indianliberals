@@ -51,6 +51,12 @@ summary: |-
   The attached Government of Orissa documents supply the administrative itinerary and circulation details. They record domestic travel between Bhubaneswar, Calcutta, Delhi, and Bangalore, followed by departure for Frankfurt on 3 August and a West Germany tour from 4 to 21 August, with the detailed programme to be arranged by the West German Government. The documents also show the extensive distribution of the tour information among Indian government offices, Orissa officials, political contacts, and German diplomatic representatives. The packet does not include records of the visit itself or of any meetings that resulted from Masani’s introductions.
 ---
 
+## Summary
+
+This six-page English correspondence packet records M. R. Masani’s efforts in July–August 1968 to facilitate R. N. Singh Deo’s official visit to West Germany and subsequent visit to London. In letters dated 31 July to Gottfried Wust of the Friedrich Naumann Foundation and Vernon Dawson of Liberal International, Masani identifies Singh Deo as Orissa’s Chief Minister and a member of the Swatantra Party’s National Executive, provides his travel dates, and asks the recipients to help arrange meetings. In a letter dated 2 August to Singh Deo, Masani confirms that he has written to Wust and Dawson and recommends contacting them during the European trip.
+
+The attached Government of Orissa documents supply the administrative itinerary and circulation details. They record domestic travel between Bhubaneswar, Calcutta, Delhi, and Bangalore, followed by departure for Frankfurt on 3 August and a West Germany tour from 4 to 21 August, with the detailed programme to be arranged by the West German Government. The documents also show the extensive distribution of the tour information among Indian government offices, Orissa officials, political contacts, and German diplomatic representatives. The packet does not include records of the visit itself or of any meetings that resulted from Masani’s introductions.
+
 ## Key points
 
 - Masani wrote three letters dated 31 July and 2 August 1968 concerning R. N. Singh Deo’s European travel.

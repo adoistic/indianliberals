@@ -49,6 +49,12 @@ summary: |-
   The letter states that copies of Masani's opening remarks at the party's preparatory convention in Bombay and the party's Statement of Principles are being sent by mail. It is a brief administrative and introductory communication; no further details of the party's programme or principles are included on the page.
 ---
 
+## Summary
+
+This one-page English letter, dated 17 September 1959 and written from Bombay, acknowledges N. C. Mishra's interest in the formation of the Swatantra Party. Signed by Miss B. S. Mirza as secretary to M. R. Masani, it conveys Masani's appreciation and explains that he is currently in the United Kingdom.
+
+The letter states that copies of Masani's opening remarks at the party's preparatory convention in Bombay and the party's Statement of Principles are being sent by mail. It is a brief administrative and introductory communication; no further details of the party's programme or principles are included on the page.
+
 ## Key points
 
 - The letter is dated 17 September 1959 and addressed from Bombay.

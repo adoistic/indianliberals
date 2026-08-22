@@ -45,6 +45,10 @@ summary: |-
   This one-page letter, dated February 23, 1990, is written by L. K. Advani from his New Delhi residence to S. V. Raju, editor of Freedom First. Advani acknowledges Raju’s letter of January 30, 1990, and the accompanying January 1990 issue of the journal.
 ---
 
+## Summary
+
+This one-page letter, dated February 23, 1990, is written by L. K. Advani from his New Delhi residence to S. V. Raju, editor of Freedom First. Advani acknowledges Raju’s letter of January 30, 1990, and the accompanying January 1990 issue of the journal.
+
 ## Key points
 
 - The document is dated February 23, 1990.

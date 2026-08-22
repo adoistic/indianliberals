@@ -50,6 +50,12 @@ summary: |-
   The second page is a rejection letter dated May 23, 1968, from Personnel & Productivity Services in Bombay. Addressed “Dear Sir,” it acknowledges an application responding to an advertisement for a Chartered Accountant, explains that other applicants’ qualifications and experience more closely matched the organisation’s needs, and advises the applicant to submit a fresh application for any future advertised post. The author and recipient are not clearly identified; the handwritten signature is only partly legible.
 ---
 
+## Summary
+
+This two-page archival file combines a newspaper clipping and a typed business letter. The clipping, headed “Swatantra paid penalty for lack of effort in Rajasthan,” reports on the Swatantra Party’s poor performance in Rajasthan and attributes its defeat to inadequate organisation, weak campaigning, factional disagreements, and insufficient polling-day effort. It also records criticism of the Congress campaign and disputes concerning ballot boxes and election arrangements, while naming several regional political figures, including Maharani Gayatri Devi and Bhairon Singh Shekhawat.
+
+The second page is a rejection letter dated May 23, 1968, from Personnel & Productivity Services in Bombay. Addressed “Dear Sir,” it acknowledges an application responding to an advertisement for a Chartered Accountant, explains that other applicants’ qualifications and experience more closely matched the organisation’s needs, and advises the applicant to submit a fresh application for any future advertised post. The author and recipient are not clearly identified; the handwritten signature is only partly legible.
+
 ## Key points
 
 - A newspaper clipping reports that the Swatantra Party paid an electoral penalty for inadequate effort in Rajasthan.

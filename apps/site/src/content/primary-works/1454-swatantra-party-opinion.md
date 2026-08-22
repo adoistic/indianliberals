@@ -52,6 +52,10 @@ summary: |-
   This legal opinion examines whether the Swatantra Party’s National Convention had authority to dissolve or wind up the Party under its written constitution. It notes that the constitution empowers the National Convention to amend the constitution, subject to specified procedures: recommendation by the General Council or a proposal by 200 members, a three-fourths majority of delegates present and voting, and 30 days’ notice to the National Executive. It observes, however, that the constitution contains no express provision for dissolution.
 ---
 
+## Summary
+
+This legal opinion examines whether the Swatantra Party’s National Convention had authority to dissolve or wind up the Party under its written constitution. It notes that the constitution empowers the National Convention to amend the constitution, subject to specified procedures: recommendation by the General Council or a proposal by 200 members, a three-fourths majority of delegates present and voting, and 30 days’ notice to the National Executive. It observes, however, that the constitution contains no express provision for dissolution.
+
 ## Key points
 
 - The opinion distinguishes between a constitutional power to amend the Party constitution and a power to dissolve the Party.

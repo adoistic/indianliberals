@@ -53,6 +53,12 @@ summary: |-
   The two attached guideline pages define the journal's editorial purpose and outline questions for the proposed article. They ask contributors to define the right to information, assess its constitutional or legal basis and practical accessibility, examine limits such as censorship and national security, and consider democratic control, social and economic equity, public participation, and government disclosure. The guidelines also state that Liberal Times promotes individual freedom, self-reliance, autonomy, human rights, and the rule of law, and provide readership, formatting, style, submission, and copyright requirements. The document does not contain Raju's requested article; it records the request and supplies the journal's editorial brief.
 ---
 
+## Summary
+
+This three-page English-language document is a letter dated 28 December 1998 from Nupur Hasija of the Friedrich-Naumann-Stiftung's India and Regional Office to S. V. Raju of Freedom First. Hasija thanks Raju for an article on public services submitted to Liberal Times and requests a further 2,500–3,000-word article for the journal's first 1999 issue, whose theme is “Right to Information.” The proposed article is to approach the issue “from liberals point of view” and was intended as a possible cover story, with a requested submission date of 1 February 1999.
+
+The two attached guideline pages define the journal's editorial purpose and outline questions for the proposed article. They ask contributors to define the right to information, assess its constitutional or legal basis and practical accessibility, examine limits such as censorship and national security, and consider democratic control, social and economic equity, public participation, and government disclosure. The guidelines also state that Liberal Times promotes individual freedom, self-reliance, autonomy, human rights, and the rule of law, and provide readership, formatting, style, submission, and copyright requirements. The document does not contain Raju's requested article; it records the request and supplies the journal's editorial brief.
+
 ## Key points
 
 - Nupur Hasija writes to S. V. Raju on 28 December 1998 on behalf of the Friedrich-Naumann-Stiftung.

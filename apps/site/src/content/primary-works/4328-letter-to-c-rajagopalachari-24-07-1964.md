@@ -47,6 +47,12 @@ summary: |-
   Masani presents the book as educationally valuable and as a resource for those seeking to provide the country with “correct” leadership. He says that Noorani and the publishers are keen to secure Rajagopalachari’s foreword, and notes that he has arranged for galley proofs to be sent so that Rajagopalachari can review them more easily than a typescript.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to C. Rajagopalachari, dated 24 July 1964, asks Rajagopalachari to write a short foreword to A. G. Noorani’s forthcoming book on the Kashmir Problem. Masani explains that P. C. Manaktala & Co. is publishing the book and that a circulated background paper consists of extracts from it.
+
+Masani presents the book as educationally valuable and as a resource for those seeking to provide the country with “correct” leadership. He says that Noorani and the publishers are keen to secure Rajagopalachari’s foreword, and notes that he has arranged for galley proofs to be sent so that Rajagopalachari can review them more easily than a typescript.
+
 ## Key points
 
 - Masani writes to C. Rajagopalachari on 24 July 1964.

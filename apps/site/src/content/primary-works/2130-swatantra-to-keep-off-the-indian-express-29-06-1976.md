@@ -48,6 +48,12 @@ summary: |-
   The report also records the party’s opposition to proposals to take over land held by religious institutions. The meeting was presided over by B. Ganesan, identified as president of the Tamil Nadu unit. No author or reporter byline is printed in the clipping.
 ---
 
+## Summary
+
+This newspaper report, published in The Indian Express on 29 June 1976, states that the Swatantra Party had decided not to join or merge with any other political party. Meeting in Sirkali, Tamil Nadu, the party’s executive, general council, and workers resolved to function independently while cooperating with other democratic parties on the basis of a workable programme.
+
+The report also records the party’s opposition to proposals to take over land held by religious institutions. The meeting was presided over by B. Ganesan, identified as president of the Tamil Nadu unit. No author or reporter byline is printed in the clipping.
+
 ## Key points
 
 - The Swatantra Party decided against joining or merging with another political party.

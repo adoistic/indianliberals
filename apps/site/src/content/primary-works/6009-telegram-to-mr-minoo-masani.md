@@ -45,6 +45,10 @@ summary: |-
   This one-page English telegram, sent from Varanasi to Minoo Masani in Bombay, reports on Jayaprakash Narayan’s medical condition. It states that a carbuncle on J. P.’s left hand is healing and that his blood sugar is under control. The message otherwise describes his health as normal and reassures the recipient that there is no cause for anxiety. The sender’s visible signature or name appears to read “PRABHABATI,” though the reading is not fully certain.
 ---
 
+## Summary
+
+This one-page English telegram, sent from Varanasi to Minoo Masani in Bombay, reports on Jayaprakash Narayan’s medical condition. It states that a carbuncle on J. P.’s left hand is healing and that his blood sugar is under control. The message otherwise describes his health as normal and reassures the recipient that there is no cause for anxiety. The sender’s visible signature or name appears to read “PRABHABATI,” though the reading is not fully certain.
+
 ## Key points
 
 - The telegram was sent from Varanasi and addressed to Minoo Masani at 143 Mahatma Gandhi Road, Bombay.

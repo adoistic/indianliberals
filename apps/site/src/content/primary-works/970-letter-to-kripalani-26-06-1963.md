@@ -47,6 +47,12 @@ summary: |-
   Masani reports that he has telegraphed Jayaprakash Narayan at Patna to learn his movements during July, with the aim of arranging a meeting. Although he is uncertain whether Narayan will reply, Masani says he intends to continue pursuing the matter and try to bring Narayan into a conversation the following month.
 ---
 
+## Summary
+
+This one-page letter, dated June 26, 1963, is from M. R. Masani to Acharya J. B. Kripalani. Masani acknowledges Kripalani’s letter of June 19 and notes that C. Rajagopalachari (“Rajaji”) has forwarded Kripalani’s letter to him as well.
+
+Masani reports that he has telegraphed Jayaprakash Narayan at Patna to learn his movements during July, with the aim of arranging a meeting. Although he is uncertain whether Narayan will reply, Masani says he intends to continue pursuing the matter and try to bring Narayan into a conversation the following month.
+
 ## Key points
 
 - The letter is dated June 26, 1963, and is addressed to Acharya J. B. Kripalani.

@@ -53,6 +53,12 @@ summary: |-
   The minutes record two immediate decisions or reviews. The committee decided that nobody from the party should deal with the proposed strike by Central Government employees, and it briefly reviewed the outcome of the Congress Working Committee meeting held on 25 August 1969. The document closes with the secretary's authentication, signed by D. N. Patodia.
 ---
 
+## Summary
+
+This one-page office record, issued by the Swatantra Party Parliamentary Office in New Delhi, records a meeting of the party's Executive Committee held on 26 August 1969 in the Party Room of Parliament House. It lists ten members present and identifies speakers assigned to three agenda items: Banaras Hindu University, sugar policy, and the flood situation in the country.
+
+The minutes record two immediate decisions or reviews. The committee decided that nobody from the party should deal with the proposed strike by Central Government employees, and it briefly reviewed the outcome of the Congress Working Committee meeting held on 25 August 1969. The document closes with the secretary's authentication, signed by D. N. Patodia.
+
 ## Key points
 
 - The Executive Committee meeting took place on 26 August 1969 at Parliament House, New Delhi.

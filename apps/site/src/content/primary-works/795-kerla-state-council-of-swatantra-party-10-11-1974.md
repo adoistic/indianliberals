@@ -50,6 +50,12 @@ summary: |-
   The resolution reaffirms that the Swatantra Party will continue to operate in Kerala and expels K.T. Joseph, A.J. Dominic, and Johnson J. Vallikappan for what it calls misuse of their elected official positions. It also welcomes the decision of the Maharashtra and Tamil Nadu units to keep the party’s flag aloft, establishes a committee under Varkey to regulate party activity until the next organisational elections, and authorises legal measures to recover Swatantra Party properties.
 ---
 
+## Summary
+
+This one-page resolution records the Kerala State Council of the Swatantra Party’s meeting at Kottayam on 10 November 1974, chaired by advocate A.V. Varkey. The council unanimously condemns the unilateral decision by certain party office-bearers claiming to represent the Kerala unit to merge with the B.L.D., declaring the action unwarranted and undemocratic.
+
+The resolution reaffirms that the Swatantra Party will continue to operate in Kerala and expels K.T. Joseph, A.J. Dominic, and Johnson J. Vallikappan for what it calls misuse of their elected official positions. It also welcomes the decision of the Maharashtra and Tamil Nadu units to keep the party’s flag aloft, establishes a committee under Varkey to regulate party activity until the next organisational elections, and authorises legal measures to recover Swatantra Party properties.
+
 ## Key points
 
 - The Kerala State Council met in Kottayam on 10 November 1974 under the presidency of A.V. Varkey.

@@ -51,6 +51,12 @@ summary: |-
   The minutes record decisions concerning the functioning of the Secretariat. The meeting accepted the General Secretary’s offer of Mr. Wahab Azad’s services to assist members in getting the Secretariat functioning, decided to prepare a budget within the next few days, discussed personnel requirements and related details, and then terminated. The document does not print a year, title, issuing body, or publisher.
 ---
 
+## Summary
+
+This one-page English-language draft record reports a meeting of Lok Sabha office-bearers and Rajya Sabha members held at 40 Canning Lane, New Delhi, on 16 April. It lists six people present: Dahyabhai V. Patel, C. L. Narasimha Reddy, Loknath Mishra, N. Mahida, J. K. P. N. Singh, and M. R. Masani.
+
+The minutes record decisions concerning the functioning of the Secretariat. The meeting accepted the General Secretary’s offer of Mr. Wahab Azad’s services to assist members in getting the Secretariat functioning, decided to prepare a budget within the next few days, discussed personnel requirements and related details, and then terminated. The document does not print a year, title, issuing body, or publisher.
+
 ## Key points
 
 - The document is headed “Draft Minutes” and records a meeting at 40 Canning Lane, New Delhi.

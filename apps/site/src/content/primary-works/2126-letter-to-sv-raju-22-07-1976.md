@@ -52,6 +52,12 @@ summary: |-
   The letter sets out the practical arrangements for the proposed edition: the Bombay office would supply English-language party news; interested party offices would provide lists of subscribers in other states; subscriptions would be collected in advance; and the additional printing cost for the two English pages would be met through advertising at Rs. 150 per page. The writer also notes that Sundaram had agreed to cover the cost of the additional English material and that a copy of the letter was being sent to K. M. Munshi. The second rendered page is an inland-letter envelope and contains no additional substantive correspondence.
 ---
 
+## Summary
+
+This 22 July 1976 letter from the Swatantra Party’s National Headquarters in Madras is addressed to S. V. Raju and concerns the proposed publication of CHAKANYAN as a bilingual magazine. The writer reports that G. K. Sundaram had discussed the idea with Raju and that J. Ramabhadran was willing to publish two pages of party material in English, with the remainder in Tamil.
+
+The letter sets out the practical arrangements for the proposed edition: the Bombay office would supply English-language party news; interested party offices would provide lists of subscribers in other states; subscriptions would be collected in advance; and the additional printing cost for the two English pages would be met through advertising at Rs. 150 per page. The writer also notes that Sundaram had agreed to cover the cost of the additional English material and that a copy of the letter was being sent to K. M. Munshi. The second rendered page is an inland-letter envelope and contains no additional substantive correspondence.
+
 ## Key points
 
 - The letter is dated 22 July 1976 and was issued from the Swatantra Party National Headquarters in Madras.

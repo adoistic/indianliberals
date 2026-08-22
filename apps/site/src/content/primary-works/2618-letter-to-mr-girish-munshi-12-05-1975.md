@@ -53,6 +53,12 @@ summary: |-
   The writer is pessimistic about the BLD's electoral prospects in Gujarat, while noting that the candidate list had not yet been seen. The letter also informs Munshi that the General Secretary's letter and the minutes are ready for posting. The document ends with a copy notation to Girish Munshi at Matheran and is signed by V. S. Srinivasan as Joint Secretary.
 ---
 
+## Summary
+
+This two-page letter, dated 12 May 1975 and sent from the Swatantra Party's national headquarters, reports on the party's weak position in Gujarat. The writer tells K. M. Munshi that most Gujarat members have joined Chimanbhai Patel's party, while a smaller group has aligned with the BLD; party leaders in the state have also moved to the BLD. The letter argues that a Swatantra organisation could be rebuilt after the elections by retaining committed members and recruiting some stronger workers from Patel's party.
+
+The writer is pessimistic about the BLD's electoral prospects in Gujarat, while noting that the candidate list had not yet been seen. The letter also informs Munshi that the General Secretary's letter and the minutes are ready for posting. The document ends with a copy notation to Girish Munshi at Matheran and is signed by V. S. Srinivasan as Joint Secretary.
+
 ## Key points
 
 - The letter was issued by the Swatantra Party's national headquarters on 12 May 1975.

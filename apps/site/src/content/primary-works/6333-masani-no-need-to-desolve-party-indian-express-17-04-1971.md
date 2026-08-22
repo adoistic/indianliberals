@@ -49,6 +49,12 @@ summary: |-
   A second short article, headed “Rajaji sad,” reports C. Rajagopalachari's disappointment with the party's electoral outcome. Rajagopalachari is quoted as saying that attempts to bring a consolidated democratic opposition into existence had failed, and that the Swatantra Party's mission remained to fight against totalitarian tendencies and defend the Constitution.
 ---
 
+## Summary
+
+This 17 April 1971 Indian Express clipping reports that M. R. Masani argued there was no need to dissolve the Swatantra Party, despite the party's poor showing in the recent elections. At an executive meeting in Bombay, Masani reportedly said the party still had an important role to play and that its immediate task was to reassess its position and determine how it could perform a constructive role in the present situation. The report also notes plans for an ad hoc committee to examine the party's future and review its current political position.
+
+A second short article, headed “Rajaji sad,” reports C. Rajagopalachari's disappointment with the party's electoral outcome. Rajagopalachari is quoted as saying that attempts to bring a consolidated democratic opposition into existence had failed, and that the Swatantra Party's mission remained to fight against totalitarian tendencies and defend the Constitution.
+
 ## Key points
 
 - M. R. Masani rejected the view that the Swatantra Party needed to be dissolved after its electoral setback.

@@ -57,6 +57,12 @@ summary: |-
   The later agenda items address party administration and finance. The committee approved arrangements for printing English and regional membership forms, authorised publication of the party's principles and edited leaders' speeches, and approved administrative proposals. It aimed for each local unit eventually to become self-financing, while providing monthly central grants and estimating an annual budget of Rs. 1,80,000. The committee also discussed subsidising selected journals and distributing copies through party units. The record ends with decisions to support peasant organisations' individual enrolment and to issue a draft letter to regional authorities.
 ---
 
+## Summary
+
+These six pages record the proceedings of the Swatantra Party Organising Committee meeting held in Bombay on 22–23 August 1959. The committee's principal concern was building an authorised regional organisation: it reviewed proposed committees and conveners across Delhi, Madras, Bombay, Andhra, West Bengal, Mysore, Uttar Pradesh, Punjab, Madhya Pradesh, Rajasthan, Kerala, Orissa, Assam, Gujarat, Bihar and Vidarbha. The minutes show an effort to balance rapid membership enrolment with central oversight, including provisional recognition of local units, regional and sub-regional divisions, visits by party leaders, and the dispatch of membership forms.
+
+The later agenda items address party administration and finance. The committee approved arrangements for printing English and regional membership forms, authorised publication of the party's principles and edited leaders' speeches, and approved administrative proposals. It aimed for each local unit eventually to become self-financing, while providing monthly central grants and estimating an annual budget of Rs. 1,80,000. The committee also discussed subsidising selected journals and distributing copies through party units. The record ends with decisions to support peasant organisations' individual enrolment and to issue a draft letter to regional authorities.
+
 ## Key points
 
 - The committee planned authorised regional organisation for the newly formed Swatantra Party.

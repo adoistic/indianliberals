@@ -55,6 +55,12 @@ summary: |-
   The minutes also cover parliamentary strategy on the Constitution (23rd Amendment) Bill, concerning reservation of seats for Scheduled Castes and Scheduled Tribes. Members were to have freedom of vote on amendments concerning continued nomination of Anglo-Indian members to the Lok Sabha, while the Leader and Deputy Leader were given discretion over other matters. The record further notes that Swatantra Party members in the Rajya Sabha would abstain from voting on the Rajya Sabha question. Finally, M. R. Masani was designated to speak first on the Monopolies and Restrictive Trade Practices Bill, with subsequent speaking arrangements left to the party leadership.
 ---
 
+## Summary
+
+This one-page record, dated December 4, 1969, documents a meeting of the Swatantra Party’s parliamentary Executive Committee in Parliament House, New Delhi. It lists nine members present and records efforts to build a consensus among democratic opposition parties in support of Mr. Munte for election as Deputy Speaker of the Lok Sabha. The Deputy Leader was authorised to communicate the party’s position to the Prime Minister and to arrange for Dr. Ram Subhag Singh, identified as Leader of the Opposition, to represent it at a meeting with the Prime Minister.
+
+The minutes also cover parliamentary strategy on the Constitution (23rd Amendment) Bill, concerning reservation of seats for Scheduled Castes and Scheduled Tribes. Members were to have freedom of vote on amendments concerning continued nomination of Anglo-Indian members to the Lok Sabha, while the Leader and Deputy Leader were given discretion over other matters. The record further notes that Swatantra Party members in the Rajya Sabha would abstain from voting on the Rajya Sabha question. Finally, M. R. Masani was designated to speak first on the Monopolies and Restrictive Trade Practices Bill, with subsequent speaking arrangements left to the party leadership.
+
 ## Key points
 
 - The document records a December 4, 1969 meeting of the Swatantra Party parliamentary Executive Committee.

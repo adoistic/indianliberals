@@ -53,6 +53,12 @@ summary: |-
   The enclosures document the party’s administrative effort to assemble its parliamentary group. They list individuals from whom pledge forms and letters to the Speaker had been received, identify outstanding forms and letters, and note that Muthuramalinga Thevar had joined as an associate member and should also be considered for allotment. The final enclosure lists independent Lok Sabha members by name, address, and state. The document therefore offers a procedural snapshot of party organisation and parliamentary coordination rather than a statement of political doctrine.
 ---
 
+## Summary
+
+This 10 April 1962 letter from the Swatantra Party’s Bombay central office, signed by S. V. Raju, asks an unnamed independent Lok Sabha member to confirm party membership and request a seat in the parliamentary block reserved for Swatantra Party members. The recipient is instructed to sign and return an attached letter addressed to the Secretary of the Lok Sabha in New Delhi, forwarding it to Minoo Masani by 14 April.
+
+The enclosures document the party’s administrative effort to assemble its parliamentary group. They list individuals from whom pledge forms and letters to the Speaker had been received, identify outstanding forms and letters, and note that Muthuramalinga Thevar had joined as an associate member and should also be considered for allotment. The final enclosure lists independent Lok Sabha members by name, address, and state. The document therefore offers a procedural snapshot of party organisation and parliamentary coordination rather than a statement of political doctrine.
+
 ## Key points
 
 - The letter is dated 10 April 1962 and was issued on Swatantra Party Central Office letterhead from Bombay.

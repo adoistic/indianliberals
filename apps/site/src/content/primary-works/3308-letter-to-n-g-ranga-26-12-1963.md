@@ -51,6 +51,12 @@ summary: |-
   The central matter is a dispute over jeep credit. Masani advises Ranga not to correspond with Rangarh, warning that his letters could be used against the party in court. He states that the matter is now with lawyers, that Rangarh has withdrawn from the agreement, and that there is therefore no basis for further correspondence. The page includes handwritten annotations, corrections, and a signed closing.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to Prof. N. G. Ranga, dated 26 December 1963, concerns party coordination and an impending visit to Gujarat. Masani says he will contact Gujarat about the tour and is forwarding the letter through the Swatantra Party in Orissa because Ranga is expected to remain there until 2 January.
+
+The central matter is a dispute over jeep credit. Masani advises Ranga not to correspond with Rangarh, warning that his letters could be used against the party in court. He states that the matter is now with lawyers, that Rangarh has withdrawn from the agreement, and that there is therefore no basis for further correspondence. The page includes handwritten annotations, corrections, and a signed closing.
+
 ## Key points
 
 - The letter is dated 26 December 1963 and is addressed to Prof. N. G. Ranga.

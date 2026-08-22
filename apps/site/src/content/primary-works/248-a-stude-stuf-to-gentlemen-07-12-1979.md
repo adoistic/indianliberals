@@ -56,6 +56,12 @@ summary: |-
   Masani calls for a decisive turn away from State capitalism toward competitive free enterprise, limited government, and incentives for enterprise and hard work. He argues that democracy requires discipline without dictatorship, while warning that India’s immediate alternatives appear to be either extreme instability or authoritarian rule. The article closes by placing hope not in politicians or tyrants but in the “small man,” particularly the urban middle classes and small farmers, whose resilience and civic qualities may ultimately determine whether India emerges from its present decline.
 ---
 
+## Summary
+
+In this three-page article, M. R. Masani argues that India’s political prospects after the coming parliamentary elections are bleak because none of the principal political contenders is likely to address the country’s underlying problems. He attributes the crisis both to weaknesses in national character—including hero worship, personality cults, indiscipline, and reluctance to distinguish right from wrong—and to the post-Independence commitment to a controlled economy. In his view, political instability, corruption, and economic stagnation are symptoms of these deeper causes.
+
+Masani calls for a decisive turn away from State capitalism toward competitive free enterprise, limited government, and incentives for enterprise and hard work. He argues that democracy requires discipline without dictatorship, while warning that India’s immediate alternatives appear to be either extreme instability or authoritarian rule. The article closes by placing hope not in politicians or tyrants but in the “small man,” particularly the urban middle classes and small farmers, whose resilience and civic qualities may ultimately determine whether India emerges from its present decline.
+
 ## Key points
 
 - Masani predicts a bleak political outlook after the forthcoming parliamentary elections.

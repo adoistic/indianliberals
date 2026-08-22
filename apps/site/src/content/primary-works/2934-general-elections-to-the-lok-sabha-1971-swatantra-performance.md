@@ -50,6 +50,12 @@ summary: |-
   The report's principal purpose is to establish that the Swatantra Party retained recognition as a national party under the Election Commission's rule: either receiving at least 4 percent of valid votes in a state or winning one Lok Sabha seat for every twenty-five seats allotted to that state. It claims to satisfy the 4 percent threshold in Andhra, Gujarat, Orissa, Rajasthan, and Tamil Nadu, and concludes that the party therefore retained its national status.
 ---
 
+## Summary
+
+This two-page English statistical report presents the Swatantra Party's performance in the 1971 Lok Sabha general elections. Its first page tabulates seats contested, seats won, votes polled, vote percentages, and forfeiture of deposits across the states in which the party contested seats. The second page compares the party's 1971 and 1967 results, showing a decline in total seats won from 44 to 16, while recording 14,461,152 votes in 1971 and a 10.00 percent vote share.
+
+The report's principal purpose is to establish that the Swatantra Party retained recognition as a national party under the Election Commission's rule: either receiving at least 4 percent of valid votes in a state or winning one Lok Sabha seat for every twenty-five seats allotted to that state. It claims to satisfy the 4 percent threshold in Andhra, Gujarat, Orissa, Rajasthan, and Tamil Nadu, and concludes that the party therefore retained its national status.
+
 ## Key points
 
 - The report records Swatantra Party results in the 1971 Lok Sabha elections across twelve states.

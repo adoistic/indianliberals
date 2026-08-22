@@ -52,6 +52,12 @@ summary: |-
   The letter records the convention’s procedural decisions and final vote. A proposal for secret-ballot voting was rejected, and two substantive resolutions were considered: one rejecting dissolution and one approving it. The anti-dissolution resolution received 53 votes against, 406 in favour, and one neutral vote; the dissolution resolution received 407 votes in favour, 53 against, and one neutral vote. A state-by-state breakdown and the attendance figures for 484 delegates are also provided. The letter is signed by Madhu Mehta as Vice President of the Swatantra Party.
 ---
 
+## Summary
+
+This three-page office letter, dated August 20, 1974, reports on the Swatantra Party’s National Convention in New Delhi, held on August 4–5 to consider the party’s proposed dissolution. It reproduces the General Council’s earlier resolution supporting efforts to create a “National Alternative,” while insisting that the final decision should be taken by a properly convened National Convention after members had an opportunity to examine the proposed programme.
+
+The letter records the convention’s procedural decisions and final vote. A proposal for secret-ballot voting was rejected, and two substantive resolutions were considered: one rejecting dissolution and one approving it. The anti-dissolution resolution received 53 votes against, 406 in favour, and one neutral vote; the dissolution resolution received 407 votes in favour, 53 against, and one neutral vote. A state-by-state breakdown and the attendance figures for 484 delegates are also provided. The letter is signed by Madhu Mehta as Vice President of the Swatantra Party.
+
 ## Key points
 
 - The Swatantra Party’s General Council endorsed efforts to form a National Alternative but deferred the dissolution decision to a National Convention.

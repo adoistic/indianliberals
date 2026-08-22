@@ -50,6 +50,12 @@ summary: |-
   The pages document the transmission and receipt of correspondence, but the substantive telegram message is not visible or legible. The record includes postal handling fields, handwritten annotations, and a faint date associated with 23 August 1974. It should therefore be treated as an administrative communication record rather than as evidence of the telegram’s contents.
 ---
 
+## Summary
+
+This two-page English-language scanned telegram record from 1974 consists of an Indian Posts and Telegraphs Department form and its delivery acknowledgement. The reverse identifies the sender as “SWATANTRA PARTY MAHARASHTRA,” at 143 M. G. Road, Bombay, while the acknowledgement is addressed to the Chief Election Commissioner, Election Commission of India, New Delhi.
+
+The pages document the transmission and receipt of correspondence, but the substantive telegram message is not visible or legible. The record includes postal handling fields, handwritten annotations, and a faint date associated with 23 August 1974. It should therefore be treated as an administrative communication record rather than as evidence of the telegram’s contents.
+
 ## Key points
 
 - The item is a two-page scanned postal telegram form and delivery acknowledgement.

@@ -51,6 +51,12 @@ summary: |-
   A postscript, referring to a news item in the Indian Nation of Patna, suggests that Ramgarh's visit to Delhi was intended to negotiate with senior Congress members from Bihar assembled for the AICC, including the possibility of bringing other MLAs into the Congress Party. The letter is therefore a brief contemporary exchange about party leadership, legislative procedure, and possible political realignment in Bihar.
 ---
 
+## Summary
+
+In this letter dated August 31, 1964, M. R. Masani writes to C. Rajagopalachari about discussions concerning the Bihar Assembly and the leadership of their party. Masani argues that there is no genuine urgency to decide the matter before the next session: the Assembly had adjourned only on August 11, and the Speaker had not been informed that Ramgarh had ceased to be the party leader. He characterizes the talk as an attempt to obscure the real issue and says the matter can be discussed when they meet in Delhi on September 6 for the Organisation Sub-Committee meeting.
+
+A postscript, referring to a news item in the Indian Nation of Patna, suggests that Ramgarh's visit to Delhi was intended to negotiate with senior Congress members from Bihar assembled for the AICC, including the possibility of bringing other MLAs into the Congress Party. The letter is therefore a brief contemporary exchange about party leadership, legislative procedure, and possible political realignment in Bihar.
+
 ## Key points
 
 - Masani thanks Rajagopalachari for forwarding correspondence, including a letter from Munshi.

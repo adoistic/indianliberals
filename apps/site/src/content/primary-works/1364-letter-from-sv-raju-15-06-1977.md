@@ -48,6 +48,10 @@ summary: |-
   This one-page letter, dated June 15, 1977, is addressed by S. V. Raju to N. C. Zamindar. Raju reports that he met Mr. Nima with Zamindar’s letter of May 4 and had a productive discussion; Nima also met with Minoo Masani. The letter indicates that Nima will communicate Raju and Masani’s views on what former Swatantra Party members should do in the prevailing political situation.
 ---
 
+## Summary
+
+This one-page letter, dated June 15, 1977, is addressed by S. V. Raju to N. C. Zamindar. Raju reports that he met Mr. Nima with Zamindar’s letter of May 4 and had a productive discussion; Nima also met with Minoo Masani. The letter indicates that Nima will communicate Raju and Masani’s views on what former Swatantra Party members should do in the prevailing political situation.
+
 ## Key points
 
 - The letter is dated June 15, 1977, and is signed by S. V. Raju.

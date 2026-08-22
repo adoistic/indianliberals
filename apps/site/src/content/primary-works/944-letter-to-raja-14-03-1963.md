@@ -46,6 +46,10 @@ summary: |-
   This typed carbon-copy letter, dated 14 March 1963 from Bombay, is addressed to “Rajaji” (C. Rajagopalachari). Bhaishalbhai D. Patel reports that the Kaira seat is likely to be vacated following a High Court decision and proposes that Shri Mesani stand for election if Rajaji wishes it. The writer offers to arrange Mesani’s candidacy and election.
 ---
 
+## Summary
+
+This typed carbon-copy letter, dated 14 March 1963 from Bombay, is addressed to “Rajaji” (C. Rajagopalachari). Bhaishalbhai D. Patel reports that the Kaira seat is likely to be vacated following a High Court decision and proposes that Shri Mesani stand for election if Rajaji wishes it. The writer offers to arrange Mesani’s candidacy and election.
+
 ## Key points
 
 - The letter is dated Bombay, 14 March 1963.

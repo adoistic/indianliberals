@@ -50,6 +50,12 @@ summary: |-
   The letter also asks Raju to help bring Mr. Masani back into activity, arrange the return of an album and photographs, and ensure that money reaches Bhatia. It urges the Rajkot office to make better use of its articles and to involve Pramod more actively. The author’s signature is illegible, and the document’s exact title and sender cannot be established from the rendered pages.
 ---
 
+## Summary
+
+This 11 April 1974 letter from Gokul to S. V. Raju discusses the Rajkot agitation, recent political activity, and the writer’s efforts to coordinate doctors, advocates, public meetings, fasting, and local organisers. The writer reports that a largely peaceful public procession involved about 22,000 people and expresses satisfaction with the state of affairs, while criticising what is described as foolish and uninspiring leadership.
+
+The letter also asks Raju to help bring Mr. Masani back into activity, arrange the return of an album and photographs, and ensure that money reaches Bhatia. It urges the Rajkot office to make better use of its articles and to involve Pramod more actively. The author’s signature is illegible, and the document’s exact title and sender cannot be established from the rendered pages.
+
 ## Key points
 
 - The letter is dated April 11, 1974, and is addressed to S. V. Raju.

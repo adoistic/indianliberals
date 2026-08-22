@@ -56,6 +56,12 @@ summary: |-
   The later pages provide a consolidated “Consultative Committee” list, pairing 41 named members with one or more committee subjects. The document is an administrative record rather than an argumentative text: it shows the Swatantra Party organizing expertise and parliamentary consultation across a wide range of governmental departments. C. C. Desai signs the document as Secretary. No other thinkers are discussed or cited.
 ---
 
+## Summary
+
+This four-page Swatantra Party Parliamentary Office document, dated 25 May 1969, circulates a proposed membership list for the party’s consultative committees. It assigns party members and associates to portfolios including atomic energy, defence, education, external affairs, finance, food, agriculture, community development, foreign trade, health, housing, industrial development, communications, irrigation, labour, rehabilitation, petroleum, mines, planning, law, shipping, steel, tourism, and civil aviation.
+
+The later pages provide a consolidated “Consultative Committee” list, pairing 41 named members with one or more committee subjects. The document is an administrative record rather than an argumentative text: it shows the Swatantra Party organizing expertise and parliamentary consultation across a wide range of governmental departments. C. C. Desai signs the document as Secretary. No other thinkers are discussed or cited.
+
 ## Key points
 
 - The document is dated 25 May 1969 and issued from the Swatantra Party Parliamentary Office at 53 North Avenue, New Delhi.

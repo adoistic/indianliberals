@@ -43,6 +43,10 @@ summary: |-
   This one-page English letter from M. R. Masani, dated January 5, 1970, responds to Dr. D. Nanda's invitation to conferences scheduled for January 19 and 20. Masani explains that he will be away at that time and therefore cannot attend, asking Nanda to convey his regrets to the other participants.
 ---
 
+## Summary
+
+This one-page English letter from M. R. Masani, dated January 5, 1970, responds to Dr. D. Nanda's invitation to conferences scheduled for January 19 and 20. Masani explains that he will be away at that time and therefore cannot attend, asking Nanda to convey his regrets to the other participants.
+
 ## Key points
 
 - The letter is dated January 5, 1970.

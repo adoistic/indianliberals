@@ -52,6 +52,12 @@ summary: |-
   The circular asks members to comply strictly with the party's decision not to attend these meetings. No individual author or signatory is identified; the document is signed only as “Secretary.”
 ---
 
+## Summary
+
+This one-page English office circular, issued by the Swatantra Party Parliamentary Office in New Delhi on 20 December 1967, reiterates an earlier instruction dated 14 December 1967. It informs party members that opposition-party leaders have written to the Prime Minister regarding meetings of Informal Consultative Committees, and encloses a copy of that letter for members' information.
+
+The circular asks members to comply strictly with the party's decision not to attend these meetings. No individual author or signatory is identified; the document is signed only as “Secretary.”
+
 ## Key points
 
 - The document is a Swatantra Party Parliamentary Office circular dated 20 December 1967.

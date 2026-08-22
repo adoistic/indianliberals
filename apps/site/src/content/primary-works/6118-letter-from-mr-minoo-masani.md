@@ -45,6 +45,10 @@ summary: |-
   This single-page English letter from M. R. Masani is addressed to a chairman, although the recipient's name is not sufficiently legible. The visible body appears to acknowledge an invitation to an anniversary function and offers good wishes on the occasion. The document is issued from M. R. Masani's address at 143, M.G. Road, Bombay-1.
 ---
 
+## Summary
+
+This single-page English letter from M. R. Masani is addressed to a chairman, although the recipient's name is not sufficiently legible. The visible body appears to acknowledge an invitation to an anniversary function and offers good wishes on the occasion. The document is issued from M. R. Masani's address at 143, M.G. Road, Bombay-1.
+
 ## Key points
 
 - The document is a single-page typed letter in English.

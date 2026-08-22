@@ -48,6 +48,12 @@ summary: |-
   Pathak explains that he had wanted to come to Delhi but is occupied with examination work. He nevertheless says he will try to visit once he receives a definite appointment, and closes by expressing hope that Masani is keeping good health. The second rendered page shows the addressed inland-letter envelope, including the recipient's address and postal markings; it contains no additional substantive correspondence.
 ---
 
+## Summary
+
+This two-page handwritten personal letter, dated 16 May 1968 from Kullu, Agra, is addressed to M. R. Masani in New Delhi. K. K. Pathak expresses relief that Masani is firm in his decision, which Pathak presents as an example-setting course of action. The letter is strongly complimentary, describing Masani as having filled the writer's heart with admiration and devotion.
+
+Pathak explains that he had wanted to come to Delhi but is occupied with examination work. He nevertheless says he will try to visit once he receives a definite appointment, and closes by expressing hope that Masani is keeping good health. The second rendered page shows the addressed inland-letter envelope, including the recipient's address and postal markings; it contains no additional substantive correspondence.
+
 ## Key points
 
 - The letter was written from Kullu, Agra, on 16 May 1968.

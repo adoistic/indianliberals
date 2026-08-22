@@ -51,6 +51,12 @@ summary: |-
   Munshi nevertheless argues that the common programme requires “deep and clear thinking” and discussion among colleagues. He is drafting a programme and asks that copies of related correspondence and the minutes of a national executive meeting be circulated. The two enclosed letters from V. S. Srikumar, dated 22 April 1975, similarly request discussion of a draft programme prepared by Madhu Limaye and seek a considered reply to suggestions from Doraiswamy Nadar. The documents present party coordination as an organisational and electoral problem rather than as a developed statement of policy.
 ---
 
+## Summary
+
+This four-page correspondence records Swatantra Party discussions in April–May 1975 about political coordination in Gujarat and the preparation of a common minimum programme. In his letter of 9 May, Girish Munshi tells Srikumar that there is no Swatantra membership left in Gujarat at that stage, while unofficial information suggests that former Swatantra Party members and student groups have moved toward the BLD. He notes that the BLD has been allotted 14 seats and that the Janata Group, led by Morarji Desai, has finalised a minimum programme for the Gujarat elections, making it difficult for Swatantra to intervene in the campaign on its own terms.
+
+Munshi nevertheless argues that the common programme requires “deep and clear thinking” and discussion among colleagues. He is drafting a programme and asks that copies of related correspondence and the minutes of a national executive meeting be circulated. The two enclosed letters from V. S. Srikumar, dated 22 April 1975, similarly request discussion of a draft programme prepared by Madhu Limaye and seek a considered reply to suggestions from Doraiswamy Nadar. The documents present party coordination as an organisational and electoral problem rather than as a developed statement of policy.
+
 ## Key points
 
 - Girish Munshi’s letter is dated 9 May 1975 and concerns Swatantra Party coordination with other democratic opposition groups.

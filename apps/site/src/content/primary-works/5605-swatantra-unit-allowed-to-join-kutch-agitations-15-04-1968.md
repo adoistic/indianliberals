@@ -51,6 +51,10 @@ summary: |-
   This two-page English-language dossier records the Swatantra Party’s position on the Kutch agitation. A newspaper clipping reports that the party’s Gujarat unit was permitted to join the agitation, while noting that this represented a departure from the party’s usual policy of avoiding participation in agitations. The report attributes the decision to concern over the Kutch issue and describes related Gujarat political disputes, including disagreements over party candidates and allegations that party members had been framed.
 ---
 
+## Summary
+
+This two-page English-language dossier records the Swatantra Party’s position on the Kutch agitation. A newspaper clipping reports that the party’s Gujarat unit was permitted to join the agitation, while noting that this represented a departure from the party’s usual policy of avoiding participation in agitations. The report attributes the decision to concern over the Kutch issue and describes related Gujarat political disputes, including disagreements over party candidates and allegations that party members had been framed.
+
 ## Key points
 
 - The Swatantra Party’s Gujarat unit was allowed to participate in the Kutch agitation.

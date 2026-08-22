@@ -51,6 +51,12 @@ summary: |-
   In the rendered pages, Masani locates the problem less in the party's principles than in its organisation and leadership. He calls for renewed recruitment and training of workers, especially in rural areas, and urges the rank and file, younger members, and ordinary workers to demand a change in the party's leadership and methods. The essay closes by asking members to decide honestly whether the Swatantra Party still merits the people's faith and whether they can better serve the cause of freedom.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani reflects on the gap between the Swatantra Party's early promise and its disappointing political performance. Recalling the party's founding convention in Bombay in August 1959, he argues that public hopes for an alternative to the Congress Party have been frustrated by electoral defeats and by the party's failure to establish itself as a credible national governing alternative.
+
+In the rendered pages, Masani locates the problem less in the party's principles than in its organisation and leadership. He calls for renewed recruitment and training of workers, especially in rural areas, and urges the rank and file, younger members, and ordinary workers to demand a change in the party's leadership and methods. The essay closes by asking members to decide honestly whether the Swatantra Party still merits the people's faith and whether they can better serve the cause of freedom.
+
 ## Key points
 
 - Masani recalls the Swatantra Party's founding in 1959 and the hope that it would provide a national alternative to Congress.

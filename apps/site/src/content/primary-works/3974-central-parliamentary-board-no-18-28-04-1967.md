@@ -50,6 +50,12 @@ summary: |-
   The circular says that the agenda and other relevant details will be sent later, and asks recipients to make their plans accordingly. It is signed by N. Dandekar in his official capacity as Officiating General Secretary. The document is an administrative party communication rather than a substantive policy statement.
 ---
 
+## Summary
+
+This one-page English circular, issued on Swatantra Party Central Office letterhead and dated 28 April 1967, announces the next meeting of the Central Parliamentary Board. The meeting is scheduled for Saturday, 20 May, at 10 a.m. at Vithalbhai Patel Bhavan in New Delhi.
+
+The circular says that the agenda and other relevant details will be sent later, and asks recipients to make their plans accordingly. It is signed by N. Dandekar in his official capacity as Officiating General Secretary. The document is an administrative party communication rather than a substantive policy statement.
+
 ## Key points
 
 - The document is Central Parliamentary Board Circular No. 18 of the Swatantra Party.

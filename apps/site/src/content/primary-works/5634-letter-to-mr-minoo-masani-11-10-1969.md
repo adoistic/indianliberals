@@ -51,6 +51,12 @@ summary: |-
   The second page is a typed list of office-bearers and members of the Swatantra Party’s newly elected National Executive for 1967–69. It identifies Prof. N. G. Ranga as president, lists five vice-presidents, names N. Dandekar as general secretary, and records joint secretaries, treasurers, and members. The sender, recipient, date, and formal letter text are not legible on the rendered pages; the supplied archival filename identifies the apparent recipient as Minoo Masani, but that date is not visibly printed in the document.
 ---
 
+## Summary
+
+This two-page English office document concerns M. R. Masani’s resignation from the Swatantra Party’s National Executive. An attached newspaper clipping, headed “MASANI QUITS SWATANTRA EXECUTIVE,” reports that Masani resigned after an alleged breach of an assurance concerning the party’s nomination of a candidate for the Gujarat Assembly and his proposed election to the Rajya Sabha. The clipping says Masani regarded the episode as a violation of party discipline and as evidence of a broader organisational breakdown, while the party’s general secretary, N. Dandekar, disputed the account and stated that Masani had been asked to resign from the Central Parliamentary Board as well.
+
+The second page is a typed list of office-bearers and members of the Swatantra Party’s newly elected National Executive for 1967–69. It identifies Prof. N. G. Ranga as president, lists five vice-presidents, names N. Dandekar as general secretary, and records joint secretaries, treasurers, and members. The sender, recipient, date, and formal letter text are not legible on the rendered pages; the supplied archival filename identifies the apparent recipient as Minoo Masani, but that date is not visibly printed in the document.
+
 ## Key points
 
 - The attached clipping reports M. R. Masani’s departure from the Swatantra Party National Executive.

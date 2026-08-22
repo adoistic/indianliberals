@@ -52,6 +52,12 @@ summary: |-
   Masani reports that Prof. Ranga and K. M. Munshi have proposed adding to the General Council agenda a motion concerning the reconstitution of the Central Organising Committee, potentially including the removal of the junior Vice-President. He also describes the agreement of Dr. Jack Sequeira and Dr. Alvaro Furtado, leaders of the United Goans, to attend the Bangalore Convention as observers. Masani views their participation as an opportunity to explain their position and possibly build a strong Swatantra unit in Goa capable of winning representation in the next Assembly elections.
 ---
 
+## Summary
+
+In this letter dated January 23, 1964, M. R. Masani tells C. Rajagopalachari that he intends to continue pressing the Swatantra Party Convention to change the structure of its membership, despite Rajagopalachari’s pessimism. Masani says he is studying Rajagopalachari’s compromise scheme as a possible last resort, but advises maintaining the appearance of support for the unanimous decision of the Central Organising Committee until an alternative becomes necessary.
+
+Masani reports that Prof. Ranga and K. M. Munshi have proposed adding to the General Council agenda a motion concerning the reconstitution of the Central Organising Committee, potentially including the removal of the junior Vice-President. He also describes the agreement of Dr. Jack Sequeira and Dr. Alvaro Furtado, leaders of the United Goans, to attend the Bangalore Convention as observers. Masani views their participation as an opportunity to explain their position and possibly build a strong Swatantra unit in Goa capable of winning representation in the next Assembly elections.
+
 ## Key points
 
 - Masani rejects Rajagopalachari’s pessimism about persuading the Swatantra Party Convention to alter its membership structure.

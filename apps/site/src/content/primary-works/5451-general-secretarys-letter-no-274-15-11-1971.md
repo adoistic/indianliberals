@@ -51,6 +51,12 @@ summary: |-
   The letter instructs party workers and units to organise relief collection from the primary level upward. Members are asked to make cash contributions through authorised representatives; party units are urged to solicit goods such as blankets, utensils, cloth, and ready-made garments from members, sympathisers, and manufacturers; and the State Unit is encouraged to observe an "Orissa Cyclone Day" with processions and public collections. Cash and in-kind donations are to be sent directly to Ghashiram Majhi, General Secretary of the Swatantra Party in Orissa, in Bhubaneswar.
 ---
 
+## Summary
+
+Dated November 15, 1971, General Secretary's Letter No. 274 is a Swatantra Party office circular signed by Madhav Mehta. It refers to the resolution adopted at the Party's General Council meeting in Baroda on November 6 concerning the severe Orissa cyclone, whose tidal waves caused extensive loss of human life, crops, and cattle.
+
+The letter instructs party workers and units to organise relief collection from the primary level upward. Members are asked to make cash contributions through authorised representatives; party units are urged to solicit goods such as blankets, utensils, cloth, and ready-made garments from members, sympathisers, and manufacturers; and the State Unit is encouraged to observe an "Orissa Cyclone Day" with processions and public collections. Cash and in-kind donations are to be sent directly to Ghashiram Majhi, General Secretary of the Swatantra Party in Orissa, in Bhubaneswar.
+
 ## Key points
 
 - The document is General Secretary's Letter No. 274, dated November 15, 1971.

@@ -55,6 +55,12 @@ summary: |-
   The excerpts describe the documentary basis for the proposed merger, including a meeting held in New Delhi on 14 April 1974 under Charan Singh's chairmanship, subsequent resolutions approving the merger, and lists of elected legislators said to support it. The Commission rejects a claim by Girish K. Munshi concerning the Swatantra Party's Maharashtra unit, holds that the newly formed Bharatiya Lok Dal should be recognised as a National Party, and orders that the former parties' symbols be frozen. Pending a separate order reserving a symbol for the new party, it reserves the symbols "Star" for the Swatantra Party, "Haldhar" for the Bharatiya Kranti Dal in Uttar Pradesh, and "Water wheel and plough (Halchak)" for the Utkal Congress in Orissa, while directing that similarly named organisations not be registered.
 ---
 
+## Summary
+
+This institutional order, issued by the Election Commission of India on 3 January 1975, addresses two closely related matters under the Election Symbols (Reservation and Allotment) Order, 1968: a dispute among rival groups within the Bharatiya Kranti Dal (B.K.D.) and the proposed amalgamation of the Swatantra Party, B.K.D., Utkal Congress, and other political parties to form the Bharatiya Lok Dal. The Commission records that a hearing took place on 1 January 1975 and identifies representatives appearing for the parties and rival B.K.D. groups.
+
+The excerpts describe the documentary basis for the proposed merger, including a meeting held in New Delhi on 14 April 1974 under Charan Singh's chairmanship, subsequent resolutions approving the merger, and lists of elected legislators said to support it. The Commission rejects a claim by Girish K. Munshi concerning the Swatantra Party's Maharashtra unit, holds that the newly formed Bharatiya Lok Dal should be recognised as a National Party, and orders that the former parties' symbols be frozen. Pending a separate order reserving a symbol for the new party, it reserves the symbols "Star" for the Swatantra Party, "Haldhar" for the Bharatiya Kranti Dal in Uttar Pradesh, and "Water wheel and plough (Halchak)" for the Utkal Congress in Orissa, while directing that similarly named organisations not be registered.
+
 ## Key points
 
 - The order combines a dispute among three rival B.K.D. groups with the question of amalgamation into the Bharatiya Lok Dal.

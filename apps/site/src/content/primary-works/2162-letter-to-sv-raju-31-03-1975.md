@@ -55,6 +55,12 @@ summary: |-
   The remaining agenda items concern cooperation with proposals adopted by the Jan Sangh’s national conference for united democratic and non-communist political action, renewal of workers’ cards and the timing of party elections, and organisational reorganisation in Rajasthan, Gujarat, Haryana, Punjab, and Andhra Pradesh. The letter closes by leaving other organisational matters to the President and requesting positive attendance at the meeting.
 ---
 
+## Summary
+
+This two-page office letter, issued by the Swatantra Party National Headquarters in Madras on 31 March 1975, invites S. V. Raju to a National Executive meeting scheduled for 9 April 1975. The notice records an agenda focused on confirming previous minutes, considering an ad hoc committee for Uttar Pradesh, endorsing a Charter of Demands submitted to Parliament by the National Coordinating Committee for the People’s Movement under J. P. Narayan’s leadership, and strengthening the people’s movement across the country.
+
+The remaining agenda items concern cooperation with proposals adopted by the Jan Sangh’s national conference for united democratic and non-communist political action, renewal of workers’ cards and the timing of party elections, and organisational reorganisation in Rajasthan, Gujarat, Haryana, Punjab, and Andhra Pradesh. The letter closes by leaving other organisational matters to the President and requesting positive attendance at the meeting.
+
 ## Key points
 
 - The Swatantra Party National Executive meeting was scheduled for 9 April 1975 at the Local Library Authority Building, Mount Road, Madras.

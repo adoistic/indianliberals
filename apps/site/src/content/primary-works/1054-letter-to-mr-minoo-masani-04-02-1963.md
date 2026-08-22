@@ -46,6 +46,12 @@ summary: |-
   He then flags, in a single terse line, that J. P. has thrown a spanner into the works, without elaborating further. The letter closes with practical travel arrangements: Rajaji will arrive by the Viscount on the night of the 8th, as previously planned, and will stay with the Munshis. The tone is intimate, telegraphic, and internal to the Swatantra circle — a working note between two of the party's principal figures rather than a public statement.
 ---
 
+## Summary
+
+A short handwritten note from C. Rajagopalachari, written on his Madras letterhead and dated 1 February 1963 (received in Masani's office on 4 February 1963), addressed to Minoo Masani. Rajaji reports that he had not realised Masani was staying so long in Delhi, and offers a partisan reading of a recent parliamentary or party vote: on balance the 'Delhi show' went as badly as possible for the other side and as well as possible for their own, with Ranga performing admirably and the assembling of 59 votes counting as a very good show.
+
+He then flags, in a single terse line, that J. P. has thrown a spanner into the works, without elaborating further. The letter closes with practical travel arrangements: Rajaji will arrive by the Viscount on the night of the 8th, as previously planned, and will stay with the Munshis. The tone is intimate, telegraphic, and internal to the Swatantra circle — a working note between two of the party's principal figures rather than a public statement.
+
 ## Key points
 
 - Handwritten personal letter from C. Rajagopalachari to Minoo Masani, dated 1 February 1963 from 60 Bazlullah Road, Tyagarayanagar, Madras 17; received in Masani's office on 4 February 1963 (received-stamp no. 01922).

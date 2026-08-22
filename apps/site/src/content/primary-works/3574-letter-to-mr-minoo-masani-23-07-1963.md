@@ -53,6 +53,12 @@ summary: |-
   Sethna expresses support for the political work being carried on under Rajaji's leadership and acknowledges public discontent among the middle classes, working people in towns, and peasants in villages. He is nevertheless pessimistic about the electoral prospects of the opposition because of India's adult franchise, the country's roughly 500,000 villages, and the limited political knowledge he believes many rural voters possess. He closes by hoping that Masani's efforts will produce a concrete result.
 ---
 
+## Summary
+
+In this two-page letter dated 23 July 1963, D. P. Sethna thanks Minoo Masani for requesting financial support for the Swatantra Party's central office and encloses a contribution of Rs. 250. Sethna says he cannot see how the Congress government, backed by its large funds, patronage, quotas, licences, and a corrupt administration, can be dislodged soon except through internal party and government conflicts or the emergence of a coalition government.
+
+Sethna expresses support for the political work being carried on under Rajaji's leadership and acknowledges public discontent among the middle classes, working people in towns, and peasants in villages. He is nevertheless pessimistic about the electoral prospects of the opposition because of India's adult franchise, the country's roughly 500,000 villages, and the limited political knowledge he believes many rural voters possess. He closes by hoping that Masani's efforts will produce a concrete result.
+
 ## Key points
 
 - Sethna sends Rs. 250 to support the Swatantra Party's central office.

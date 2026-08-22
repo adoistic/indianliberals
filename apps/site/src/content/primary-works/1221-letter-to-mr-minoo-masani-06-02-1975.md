@@ -45,6 +45,10 @@ summary: |-
   This single-page letter, dated 6 February 1975, was written by B. D. Pandey of Gorakhpur to Minoo Masani shortly after the dissolution of the Swatantra Party. Pandey reports receiving letters from political associates in Mathura, Moradabad, and Bulandshahr, and asks Masani to advise him on the party's future direction.
 ---
 
+## Summary
+
+This single-page letter, dated 6 February 1975, was written by B. D. Pandey of Gorakhpur to Minoo Masani shortly after the dissolution of the Swatantra Party. Pandey reports receiving letters from political associates in Mathura, Moradabad, and Bulandshahr, and asks Masani to advise him on the party's future direction.
+
 ## Key points
 
 - Pandey writes to Masani about the dissolution of the Swatantra Party.

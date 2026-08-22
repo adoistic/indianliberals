@@ -48,6 +48,12 @@ summary: |-
   Pareek also asks Mirza to arrange the complete literature of her party, if available, for his study. The surviving pages therefore document an exploratory political interest and a request for party materials rather than a settled ideological commitment. The letter appears to be dated approximately 17 July 1957 and was posted from Bombay.
 ---
 
+## Summary
+
+This handwritten English letter, signed by S. L. Pareek and addressed to Miss B. S. Mirza, concerns the writer’s possible entry into political party life. Pareek says that he wishes to join a political party but has not yet decided which one; the letter explicitly mentions both Congress and the Communists as appealing options, leaving him in a difficult position.
+
+Pareek also asks Mirza to arrange the complete literature of her party, if available, for his study. The surviving pages therefore document an exploratory political interest and a request for party materials rather than a settled ideological commitment. The letter appears to be dated approximately 17 July 1957 and was posted from Bombay.
+
 ## Key points
 
 - The writer expresses a desire to join a political party.

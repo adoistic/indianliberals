@@ -51,6 +51,12 @@ summary: |-
   Masani discusses scheduling a Parliamentary Group meeting around Parliament's forthcoming session, tentatively suggesting Monday, 12 August, while accepting Sunday, 11 August, if preferred. Beyond routine business and the party's difficult financial position, he argues that a meeting of the C.O.C. and/or Parliamentary Board is needed to develop a considered approach to the problem of interpositional unity, and asks Ranga and Rajaji for their views.
 ---
 
+## Summary
+
+In this letter dated 8 June 1963, Minoo Masani thanks Professor N. G. Ranga for his letters, congratulations, and advice about thanking supporters. Masani says he has written to local and Gujarat workers but has not yet visited dignitaries, including Ranga. He also agrees to arrange representation at the Andhra State Executive Committee meeting in Guntur on 22 June, at the request of Ranga and Krishnamma.
+
+Masani discusses scheduling a Parliamentary Group meeting around Parliament's forthcoming session, tentatively suggesting Monday, 12 August, while accepting Sunday, 11 August, if preferred. Beyond routine business and the party's difficult financial position, he argues that a meeting of the C.O.C. and/or Parliamentary Board is needed to develop a considered approach to the problem of interpositional unity, and asks Ranga and Rajaji for their views.
+
 ## Key points
 
 - Masani acknowledges Ranga's letters, congratulations, and advice concerning thanks to supporters.

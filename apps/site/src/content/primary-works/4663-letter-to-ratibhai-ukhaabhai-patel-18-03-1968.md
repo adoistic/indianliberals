@@ -46,6 +46,10 @@ summary: |-
   This one-page English letter, dated 18 March 1968 and signed “MASANI,” informs Ratilal Ukabhai Patel that the parliamentary subcommittee has unanimously reaffirmed the nomination of Sudhishal Vaidya as the party’s sole candidate. It also calls on Patel and another nominee, whose name appears to be “Jibnoy” in the scan, to withdraw their nominations.
 ---
 
+## Summary
+
+This one-page English letter, dated 18 March 1968 and signed “MASANI,” informs Ratilal Ukabhai Patel that the parliamentary subcommittee has unanimously reaffirmed the nomination of Sudhishal Vaidya as the party’s sole candidate. It also calls on Patel and another nominee, whose name appears to be “Jibnoy” in the scan, to withdraw their nominations.
+
 ## Key points
 
 - The document is a typed letter dated 18 March 1968.

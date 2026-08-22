@@ -52,6 +52,12 @@ summary: |-
   The dissent rejects special discrimination against inventions in particular industries, including medicines and drugs, and opposes shortening the patent term below sixteen years. It accepts that carefully designed restrictions may be justified where unrestricted patent operation harms the public interest, but insists that intervention should be determined case by case, with clear limits and adequate compensation. The authors conclude that several clauses of the Bill violate generally accepted patent principles and that, unless substantially amended, the Bill should not be enacted.
 ---
 
+## Summary
+
+This two-page minute of dissent argues that the Joint Select Committee's reported Patents Bill would weaken the property rights and incentives needed for invention, research, industrial development, and technological progress. The authors defend the established rationale for patents: inventors and firms undertake substantial financial risks in research and in bringing products to commercial use, and a period of exclusivity provides the prospective reward that makes those risks worthwhile. They also argue that strong patent protection has accompanied rapid industrial and scientific development, citing the United States and the international exchange of patents as examples.
+
+The dissent rejects special discrimination against inventions in particular industries, including medicines and drugs, and opposes shortening the patent term below sixteen years. It accepts that carefully designed restrictions may be justified where unrestricted patent operation harms the public interest, but insists that intervention should be determined case by case, with clear limits and adequate compensation. The authors conclude that several clauses of the Bill violate generally accepted patent principles and that, unless substantially amended, the Bill should not be enacted.
+
 ## Key points
 
 - Patents are presented as compensation for the financial risks involved in research, invention, and commercial exploitation.

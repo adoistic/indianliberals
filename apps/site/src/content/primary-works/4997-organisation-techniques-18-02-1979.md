@@ -52,6 +52,12 @@ summary: |-
   The paper then offers a deliberately humorous example of how an association can be launched around a social problem, complete with a president, office-bearers, a ministerial inauguration, publicity, and no subsequent activity. Against this model, it recommends establishing need, discussing whether a separate organisation is necessary, identifying committed participants, assessing time and funds, preparing a feasibility report, deliberating on it, and only then proceeding. Guidance on existing organisations covers constitutional arrangements and office-bearers, fundraising through subscriptions, donations, souvenirs, functions, and conference fees, as well as communications through circulars, informal gatherings, and newsletters. The final visible section turns to the conduct of meetings and refers readers to attached notes.
 ---
 
+## Summary
+
+“Organisation Techniques” is a practical working paper on the formation and functioning of civic and political organisations. It distinguishes several uses of “organisation”—a firm in its entirety, an orderly individual, and an association or union—and places organisation within public life and citizenship rather than treating it simply as a management function. The paper notes that efficient executives, professionals, and businesspeople are not necessarily effective organisers of public institutions, though training or “orientation” may help. It also identifies recurring weaknesses: vague objectives, rivalry, committees that do little, burdens carried by only a few people, and organisations becoming “paper bodies” disconnected from felt needs.
+
+The paper then offers a deliberately humorous example of how an association can be launched around a social problem, complete with a president, office-bearers, a ministerial inauguration, publicity, and no subsequent activity. Against this model, it recommends establishing need, discussing whether a separate organisation is necessary, identifying committed participants, assessing time and funds, preparing a feasibility report, deliberating on it, and only then proceeding. Guidance on existing organisations covers constitutional arrangements and office-bearers, fundraising through subscriptions, donations, souvenirs, functions, and conference fees, as well as communications through circulars, informal gatherings, and newsletters. The final visible section turns to the conduct of meetings and refers readers to attached notes.
+
 ## Key points
 
 - The paper defines organisation in institutional, individual, and associational senses.

@@ -55,6 +55,12 @@ summary: |-
   The release gives a fiscal alternative: of the Rs. 332 crores added to defence expenditure, Masani argues that only Rs. 166 crores needed to be provided within India for recruitment training, additional manpower, and airfields. It claims that increased industrial production, Central Excise and Customs receipts, income-tax, corporation tax, voluntary contributions, and the Emergency War Risks Insurance Scheme could together have supplied Rs. 220 crores. The statement concludes that the Budget was driven less by defence against Chinese communism than by opposition to military assistance from democracies and an adherence to “State Capitalism.” N. Dandekar and R. V. Murthy are also reported to have spoken, while Piloo Mody presided.
 ---
 
+## Summary
+
+This one-page Swatantra Party press release, dated 8 March 1963, reports M. R. Masani’s criticism of the Union Budget at a public meeting in Bombay. Masani presents the Budget as a strategic victory for Communist China, arguing that its increased defence spending would isolate India from potential allies, burden the economy, and weaken democratic institutions and the country’s free way of life. He questions why India should finance the full defence burden when the United States, Britain, and other countries had offered military equipment and arms without cost.
+
+The release gives a fiscal alternative: of the Rs. 332 crores added to defence expenditure, Masani argues that only Rs. 166 crores needed to be provided within India for recruitment training, additional manpower, and airfields. It claims that increased industrial production, Central Excise and Customs receipts, income-tax, corporation tax, voluntary contributions, and the Emergency War Risks Insurance Scheme could together have supplied Rs. 220 crores. The statement concludes that the Budget was driven less by defence against Chinese communism than by opposition to military assistance from democracies and an adherence to “State Capitalism.” N. Dandekar and R. V. Murthy are also reported to have spoken, while Piloo Mody presided.
+
 ## Key points
 
 - M. R. Masani characterizes the Union Budget as advantageous to Communist China.

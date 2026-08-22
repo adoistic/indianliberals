@@ -53,3 +53,9 @@ summary: |-
   
   The visible pages also contain unrelated newspaper material, including a television review or promotional feature, a photo-caption panel, an advertisement, and a comic strip. The clipping is therefore not a complete newspaper issue; the article itself is visible across the supplied pages, but portions of the surrounding newspaper and some text are obscured or difficult to read.
 ---
+
+## Summary
+
+The rendered clipping is drawn from the Thursday, September 17, 1987 issue of The Afternoon Despatch & Courier. Its principal article, “Writ puts govt. in tight spot,” reports a constitutional and legal challenge to the government’s monopoly over radio and television broadcasting. The petitioners, Minoo Masani and P. C. Chatterjee, argue that citizens’ rights to freedom of speech and expression include the right to establish and operate broadcasting stations, and that the government’s exclusive control lacks adequate constitutional or statutory support.
+
+The visible pages also contain unrelated newspaper material, including a television review or promotional feature, a photo-caption panel, an advertisement, and a comic strip. The clipping is therefore not a complete newspaper issue; the article itself is visible across the supplied pages, but portions of the surrounding newspaper and some text are obscured or difficult to read.

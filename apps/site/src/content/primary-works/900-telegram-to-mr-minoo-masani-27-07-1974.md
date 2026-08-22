@@ -48,6 +48,10 @@ summary: |-
   This one-page express telegram, sent from Bombay on July 27, 1974, is signed “MASANI” and addressed to G. K. Sundram in Coimbatore. The sender accepts an invitation to speak at a convention in Madras in early August and confirms that a verbal invitation was extended in Delhi.
 ---
 
+## Summary
+
+This one-page express telegram, sent from Bombay on July 27, 1974, is signed “MASANI” and addressed to G. K. Sundram in Coimbatore. The sender accepts an invitation to speak at a convention in Madras in early August and confirms that a verbal invitation was extended in Delhi.
+
 ## Key points
 
 - The document is an express telegram dated July 27, 1974.

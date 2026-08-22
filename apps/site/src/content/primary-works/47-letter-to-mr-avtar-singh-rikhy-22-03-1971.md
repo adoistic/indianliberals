@@ -46,6 +46,12 @@ summary: |-
   Masani anticipates future visits to Delhi and invites Rikhy to share a meal with him. He also offers practical reciprocity, asking Rikhy to contact him if there is anything Masani can do and saying that he will seek Rikhy’s help for information or material when needed. The letter closes with renewed thanks and a cordial expression of friendship.
 ---
 
+## Summary
+
+In this typed letter dated 22 March 1971, M. R. Masani thanks Avtar Singh Rikhy for flowers and a card delivered to Masani’s residence in Delhi. Masani explains that the gesture moved him because he was leaving for Bombay and had recently stopped frequenting Parliament House after years of association with it. He recalls Rikhy as a loyal and helpful friend and says he will miss seeing him regularly.
+
+Masani anticipates future visits to Delhi and invites Rikhy to share a meal with him. He also offers practical reciprocity, asking Rikhy to contact him if there is anything Masani can do and saying that he will seek Rikhy’s help for information or material when needed. The letter closes with renewed thanks and a cordial expression of friendship.
+
 ## Key points
 
 - Masani writes from Delhi on 22 March 1971 while preparing to travel to Bombay.

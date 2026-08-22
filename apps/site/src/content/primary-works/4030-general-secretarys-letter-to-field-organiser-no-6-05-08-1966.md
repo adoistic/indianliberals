@@ -52,6 +52,12 @@ summary: |-
   The letter also clarifies reporting and appointment procedures. Organisers must continue submitting reports simultaneously to the Central and State Offices, with accounts routed through the President of the relevant District Unit. H. M. Patel is authorised to interview recommended field organisers on behalf of the Central Office; their remuneration and travelling allowance are to be paid by the State Unit, and newly appointed organisers must continue reporting as prescribed.
 ---
 
+## Summary
+
+This single-page internal Swatantra Party letter, dated 8 August 1966 and addressed to Gujarat organisers, records an agreement between General Secretary M. R. Masani and H. M. Patel on the organisation of constituencies and field work for prospective parliamentary candidates. It places full-time constituency organisers under the direct supervision and control of the prospective candidate and a three-man constituency committee, while retaining overall oversight for the State and Central Offices.
+
+The letter also clarifies reporting and appointment procedures. Organisers must continue submitting reports simultaneously to the Central and State Offices, with accounts routed through the President of the relevant District Unit. H. M. Patel is authorised to interview recommended field organisers on behalf of the Central Office; their remuneration and travelling allowance are to be paid by the State Unit, and newly appointed organisers must continue reporting as prescribed.
+
 ## Key points
 
 - The letter applies specifically to Gujarat organisers.

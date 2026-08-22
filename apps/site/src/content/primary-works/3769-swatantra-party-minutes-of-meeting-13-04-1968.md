@@ -56,6 +56,10 @@ summary: |-
   These draft minutes record the Swatantra Party Central Parliamentary Board meeting held in New Delhi on 13 April 1968. The Board reviewed defections from the Gujarat and Rajasthan legislatures, approved a recommendation that defecting legislators be expelled and barred from readmission for three years, and discussed procedures for introducing parliamentary Bills with prior party approval. It also considered proposed amendments to the Orissa Freedom of Religion Act and noted arrangements for implementing safeguards against misuse of the law.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Central Parliamentary Board meeting held in New Delhi on 13 April 1968. The Board reviewed defections from the Gujarat and Rajasthan legislatures, approved a recommendation that defecting legislators be expelled and barred from readmission for three years, and discussed procedures for introducing parliamentary Bills with prior party approval. It also considered proposed amendments to the Orissa Freedom of Religion Act and noted arrangements for implementing safeguards against misuse of the law.
+
 ## Key points
 
 - The Board condemned defections from the Gujarat and Rajasthan legislative parties and recommended expulsion plus a three-year bar on readmission.

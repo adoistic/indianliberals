@@ -49,6 +49,12 @@ summary: |-
   The cartoon is framed by the quotation, “The fault, dear Brutus, is not in ourselves, but in our stars.” The juxtaposition of the quotation with the two figures suggests a reflection on responsibility and fate, but the clipping does not provide enough visible context to identify the individuals or determine the specific political issue being satirised.
 ---
 
+## Summary
+
+This single-page English newspaper clipping from the Indian Express, dated 17 March 1971, consists of a political cartoon with no visible title, byline, or cartoonist credit. Two seated men face one another in conversation; the older figure gestures toward the other, while a star symbol appears above them.
+
+The cartoon is framed by the quotation, “The fault, dear Brutus, is not in ourselves, but in our stars.” The juxtaposition of the quotation with the two figures suggests a reflection on responsibility and fate, but the clipping does not provide enough visible context to identify the individuals or determine the specific political issue being satirised.
+
 ## Key points
 
 - The item is a one-page English newspaper clipping from the Indian Express.

@@ -54,6 +54,12 @@ summary: |-
   The review challenges Baxter’s interpretation of the Jana Sangh as potentially evolving into a secular nationalist party. Shah contends that the party’s persistent identification of Hindu Rashtra with Bharatiya Rashtravad, its RSS ideological leadership, and its combination of economic radicalism with cultural chauvinism make such a transformation unlikely. He also criticizes Baxter’s treatment of communalism, cow protection, alleged persecution of Hindus in Pakistan, Muslim “infiltration” into Assam, and the 1965 conflict, arguing that Baxter is sometimes unfair to the Jana Sangh on well-established facts while failing to understand the reciprocal sources of Hindu-Muslim conflict. The visible excerpt ends with Shah listing factual, analytical, and editorial shortcomings in Baxter’s book; the review’s conclusion is not shown.
 ---
 
+## Summary
+
+A. B. Shah reviews Craig Baxter’s Jana Sangh, A Biography of an Indian Political Party, the first full-length study of the Jana Sangh by a non-Indian author. Shah credits Baxter with useful empirical information on the party’s early background, electoral growth, and relationship with the RSS, including quantitative evidence of its increasing strength in Hindi-speaking areas. He argues, however, that Baxter treats biography as a largely chronological narrative and provides little analysis of Hindu and Muslim traditions or of the wider political context in which they operate.
+
+The review challenges Baxter’s interpretation of the Jana Sangh as potentially evolving into a secular nationalist party. Shah contends that the party’s persistent identification of Hindu Rashtra with Bharatiya Rashtravad, its RSS ideological leadership, and its combination of economic radicalism with cultural chauvinism make such a transformation unlikely. He also criticizes Baxter’s treatment of communalism, cow protection, alleged persecution of Hindus in Pakistan, Muslim “infiltration” into Assam, and the 1965 conflict, arguing that Baxter is sometimes unfair to the Jana Sangh on well-established facts while failing to understand the reciprocal sources of Hindu-Muslim conflict. The visible excerpt ends with Shah listing factual, analytical, and editorial shortcomings in Baxter’s book; the review’s conclusion is not shown.
+
 ## Key points
 
 - The review regards Baxter’s book as valuable for its factual and quantitative account of Jana Sangh electoral growth.

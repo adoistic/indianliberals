@@ -49,6 +49,12 @@ summary: |-
   Masani recommends avoiding a formal meeting and instead holding informal discussions among the four participants, with any decisions later circulated to the Organisation Sub-Committee for formal approval. He argues that this would prevent the meeting from becoming a quarrel over the Jeep Credit issue and disputes in Bihar, and asks Rajagopalachari to keep the relevant time free for serious discussions about the Party.
 ---
 
+## Summary
+
+In this letter dated November 7, 1963, M. R. Masani writes to C. Rajagopalachari about arranging an Organisation Sub-Committee meeting in Delhi for November 23–24. Masani notes that Munshi will be in Mathura on the morning of November 24 but can join discussions on the 23rd and the following morning. Since Paliwal is no longer a member, Ramgarh would be the only additional participant if a formal meeting were called.
+
+Masani recommends avoiding a formal meeting and instead holding informal discussions among the four participants, with any decisions later circulated to the Organisation Sub-Committee for formal approval. He argues that this would prevent the meeting from becoming a quarrel over the Jeep Credit issue and disputes in Bihar, and asks Rajagopalachari to keep the relevant time free for serious discussions about the Party.
+
 ## Key points
 
 - Masani is seeking Rajagopalachari's availability for discussions in Delhi on November 23 and 24, 1963.

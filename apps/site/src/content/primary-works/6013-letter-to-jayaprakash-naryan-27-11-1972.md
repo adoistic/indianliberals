@@ -48,6 +48,12 @@ summary: |-
   The letter encourages Narayan to write his own recollections of the year he has just completed, presenting him as someone with a story to tell and an obligation to set the record straight. It specifically asks whether he has considered returning to public life and suggests that his experience could help expose the truth about events and political developments. The sender's handwritten signature is not securely legible in the rendered page.
 ---
 
+## Summary
+
+This one-page letter, dated October 27, 1972, is addressed to Jayaprakash Narayan ("JP"). The unidentified sender expresses concern about Narayan's recent health crisis, hopes that the strain has passed, and asks him to explain what the press reports were about. The sender also refers to an earlier letter of October 2, a draft chapter of Narayan's memoirs, and an anticipated account of the period from 1939 to 1940.
+
+The letter encourages Narayan to write his own recollections of the year he has just completed, presenting him as someone with a story to tell and an obligation to set the record straight. It specifically asks whether he has considered returning to public life and suggests that his experience could help expose the truth about events and political developments. The sender's handwritten signature is not securely legible in the rendered page.
+
 ## Key points
 
 - The sender responds to press reports about Jayaprakash Narayan's health and asks for clarification.

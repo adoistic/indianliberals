@@ -48,6 +48,12 @@ summary: |-
   The letter then offers an informal assessment of political figures and manoeuvring around a proposed ad hoc committee. Pasricha reports that Piloo Mody has received the honorary title of General Secretary but may be excluded from effective control, while another politician is described as seeking influence over Mody. The closing characterises the situation as demonstrating the party's difficult circumstances. The pages document contemporary intra-party tensions, political personalities, and concerns about leadership and control, but do not identify the title or larger context of the proposed book.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 17 September 1974, is addressed to S. V. Raju and signed by Lt. Col. H. R. Pasricha. Pasricha thanks Raju for a dated letter and a reprint, explaining that the material appears useful for a proposed work. He says he wishes to avoid detailed personal correspondence and the undue introduction of personalities, focusing instead on identifying the causes of the party's failure.
+
+The letter then offers an informal assessment of political figures and manoeuvring around a proposed ad hoc committee. Pasricha reports that Piloo Mody has received the honorary title of General Secretary but may be excluded from effective control, while another politician is described as seeking influence over Mody. The closing characterises the situation as demonstrating the party's difficult circumstances. The pages document contemporary intra-party tensions, political personalities, and concerns about leadership and control, but do not identify the title or larger context of the proposed book.
+
 ## Key points
 
 - The document is a personal letter dated 17 September 1974 from Lt. Col. H. R. Pasricha to S. V. Raju.

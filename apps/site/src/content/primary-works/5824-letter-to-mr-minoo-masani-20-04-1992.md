@@ -44,6 +44,10 @@ summary: |-
   This one-page English office letter, dated April 20, 1992, was sent from The Statesman’s General Manager, Basudev Ray, to Minoo Masani. Ray acknowledges Masani’s April 16 letter and notes that Masani had already written to the Lok Sabha Secretariat, sending copies to Mr. Irani and Ray.
 ---
 
+## Summary
+
+This one-page English office letter, dated April 20, 1992, was sent from The Statesman’s General Manager, Basudev Ray, to Minoo Masani. Ray acknowledges Masani’s April 16 letter and notes that Masani had already written to the Lok Sabha Secretariat, sending copies to Mr. Irani and Ray.
+
 ## Key points
 
 - The letter is dated April 20, 1992, and issued on Statesman House letterhead in Calcutta.

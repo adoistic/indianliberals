@@ -54,6 +54,12 @@ summary: |-
   The letter records the procedural transmission of that recommendation and states that a copy of the President’s letter is enclosed for Masani’s information. No substantive details of the amendments or the Finance Bill are included on the page.
 ---
 
+## Summary
+
+This one-page administrative letter from the Lok Sabha Secretariat, dated July 24, 1967, is addressed to Shri M. R. Masani, M.P., regarding amendments to the Finance (No. 2) Bill, 1967. Deputy Secretary P. K. Patnaik informs Masani that the President has recommended moving the proposed amendments in the Lok Sabha.
+
+The letter records the procedural transmission of that recommendation and states that a copy of the President’s letter is enclosed for Masani’s information. No substantive details of the amendments or the Finance Bill are included on the page.
+
 ## Key points
 
 - The document is an official Lok Sabha Secretariat letter dated July 24, 1967.

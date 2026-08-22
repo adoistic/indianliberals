@@ -58,6 +58,12 @@ summary: |-
   The committee also approved a public meeting condemning Chinese aggression, while maintaining that the Swatantra Party itself should not adopt a specific foreign-policy position; individual members remained free to express their views. The convenors’ reports address meetings, labour policy, publicity, and constituency organisation. The final page records the creation of a political sub-committee empowered to handle urgent matters, in consultation with K. M. Munshi and A. D. Shroff.
 ---
 
+## Summary
+
+These three pages record the 3 September meeting of the Swatantra Party’s Organising Committee for Greater Bombay, chaired by M. R. Masani. The minutes document the committee’s finances, membership-drive arrangements, Gandhi Jayanti programming, and coordination with party units and organisers across Bombay and other regions. Bombay was asked to contribute Rs. 1 lakh over twelve months, while an initial cash and in-kind contribution of Rs. 5,000 was sanctioned for Rajasthan.
+
+The committee also approved a public meeting condemning Chinese aggression, while maintaining that the Swatantra Party itself should not adopt a specific foreign-policy position; individual members remained free to express their views. The convenors’ reports address meetings, labour policy, publicity, and constituency organisation. The final page records the creation of a political sub-committee empowered to handle urgent matters, in consultation with K. M. Munshi and A. D. Shroff.
+
 ## Key points
 
 - The Greater Bombay Organising Committee met on 3 September under the chairmanship of M. R. Masani.

@@ -59,6 +59,12 @@ summary: |-
   The notes object to the proposed legislation on institutional and substantive grounds. They call for an independent, quasi-judicial Monopolies Commission, broad appeal rights to the Supreme Court, and inclusion of state enterprises within the law. They reject the proposed chapter on concentration of economic power, arguing that monopoly is defined by the absence of competition rather than by size and that economies of scale and inter-connected undertakings can support, rather than obstruct, industrial development. The document further claims that existing controls on capital, imports, foreign exchange, industry, tariffs, essential commodities, and companies have constrained private enterprise and economic progress. The pages reproduce or cite Swatantra Party policy statements and resolutions from 1960, 1964, 1967, and 1968; no single date of compilation is visible.
 ---
 
+## Summary
+
+These discussion notes present the Swatantra Party’s position on monopoly legislation and the proposed Monopolies Commission. The party argues that economic policy should preserve the freedom of producers, inventors, workers, and consumers, while using safeguards against labour exploitation and unreasonable profits. It supports competition as the primary corrective to monopoly, opposes monopolies in both the public and private sectors, and insists that state enterprises must compete on equal terms rather than receive privileged positions.
+
+The notes object to the proposed legislation on institutional and substantive grounds. They call for an independent, quasi-judicial Monopolies Commission, broad appeal rights to the Supreme Court, and inclusion of state enterprises within the law. They reject the proposed chapter on concentration of economic power, arguing that monopoly is defined by the absence of competition rather than by size and that economies of scale and inter-connected undertakings can support, rather than obstruct, industrial development. The document further claims that existing controls on capital, imports, foreign exchange, industry, tariffs, essential commodities, and companies have constrained private enterprise and economic progress. The pages reproduce or cite Swatantra Party policy statements and resolutions from 1960, 1964, 1967, and 1968; no single date of compilation is visible.
+
 ## Key points
 
 - The Swatantra Party presents competitive enterprise and consumer choice as the main safeguards against monopoly.

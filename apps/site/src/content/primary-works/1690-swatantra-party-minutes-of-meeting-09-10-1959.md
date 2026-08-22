@@ -55,6 +55,12 @@ summary: |-
   The committee’s practical agenda focuses on organisation, publicity, labour outreach, fundraising, and ward-level activity. It calls for publicity for forthcoming meetings, reports that Rs. 9,100 has been collected for the 24 November effort, discusses a labour manifesto and meetings with workers in a housing colony, and approves the preparation of inexpensive pamphlets and folders. It also supports studying a Labour Contact Centre in an area with many labourers and sanctions propaganda expenses for a students’ meeting. The document is an administrative record rather than a policy essay, and its pages end while reporting on the committee’s activities.
 ---
 
+## Summary
+
+These two pages record the 9 October 1959 meeting of the Swatantra Party’s Greater Organising Committee for Greater Bombay. The minutes list the attendees, confirm the previous meeting’s minutes, record condolences on the death of Subbiah Gounder, and note reports on the party’s reception in the United Kingdom and continental Europe, as well as regional responses in northern and eastern India. The committee also considers expanding its membership to include representatives from Maharashtra and Caltex.
+
+The committee’s practical agenda focuses on organisation, publicity, labour outreach, fundraising, and ward-level activity. It calls for publicity for forthcoming meetings, reports that Rs. 9,100 has been collected for the 24 November effort, discusses a labour manifesto and meetings with workers in a housing colony, and approves the preparation of inexpensive pamphlets and folders. It also supports studying a Labour Contact Centre in an area with many labourers and sanctions propaganda expenses for a students’ meeting. The document is an administrative record rather than a policy essay, and its pages end while reporting on the committee’s activities.
+
 ## Key points
 
 - The Greater Organising Committee for Greater Bombay met on 9 October 1959 at the Swatantra Party office.

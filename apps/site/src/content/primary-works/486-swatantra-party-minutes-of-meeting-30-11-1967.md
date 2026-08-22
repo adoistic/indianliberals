@@ -54,6 +54,12 @@ summary: |-
   The record also reports discussion of the party's position on the formation of a Hill State and of the constitutional and political crisis in West Bengal. Members considered whether to support an adjournment motion concerning the Speaker's refusal to recognise the government headed by Dr. P. C. Ghosh, as well as possible impeachment motions against governors in Rajasthan, Haryana, Punjab, and West Bengal. The meeting resolved that the party should not support the adjournment motion, should criticise the government's alleged double standard, and should seek dissolution of the West Bengal Assembly, presidential rule, and a mid-term poll. No final decision was recorded on the broader subject, and the document is signed by C. C. Desai as Secretary.
 ---
 
+## Summary
+
+This one-page English-language record documents a meeting of the Swatantra Party's General Body in Parliament, held in Room No. 50, Parliament House, New Delhi, on November 30, 1967. The meeting reviewed the referral of the Essential Commodities Bill to a Select Committee, nominated D. N. Patodia to represent the party, and considered the Prime Minister's proposed reconstitution of the National Integration Council. Prof. N. G. Ranga opposed the Prime Minister assuming the council's chairmanship and taking responsibility for appointing its personnel, and the contents of his letter to the Prime Minister were read to the members.
+
+The record also reports discussion of the party's position on the formation of a Hill State and of the constitutional and political crisis in West Bengal. Members considered whether to support an adjournment motion concerning the Speaker's refusal to recognise the government headed by Dr. P. C. Ghosh, as well as possible impeachment motions against governors in Rajasthan, Haryana, Punjab, and West Bengal. The meeting resolved that the party should not support the adjournment motion, should criticise the government's alleged double standard, and should seek dissolution of the West Bengal Assembly, presidential rule, and a mid-term poll. No final decision was recorded on the broader subject, and the document is signed by C. C. Desai as Secretary.
+
 ## Key points
 
 - The document records a November 30, 1967 meeting of the Swatantra Party's General Body in Parliament.

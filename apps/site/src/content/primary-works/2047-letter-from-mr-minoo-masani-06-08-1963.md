@@ -45,6 +45,10 @@ summary: |-
   This single-page English letter from M. R. Masani, dated 6 August 1963, acknowledges an invitation from Satya Narayan Sinha, then Minister for Parliamentary Affairs, to attend a meeting with the Prime Minister. Masani accepts the invitation and confirms that he will attend the meeting at 5:30 p.m. on Sunday, 11 August.
 ---
 
+## Summary
+
+This single-page English letter from M. R. Masani, dated 6 August 1963, acknowledges an invitation from Satya Narayan Sinha, then Minister for Parliamentary Affairs, to attend a meeting with the Prime Minister. Masani accepts the invitation and confirms that he will attend the meeting at 5:30 p.m. on Sunday, 11 August.
+
 ## Key points
 
 - The letter is dated 6 August 1963.

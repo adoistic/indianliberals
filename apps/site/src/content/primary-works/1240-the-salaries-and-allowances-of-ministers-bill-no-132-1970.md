@@ -51,6 +51,12 @@ summary: |-
   Its provisions specify charges for furnished official residences, travelling and daily allowances, medical treatment, motor-car advances, and deductions for private travel and use of official transport. The Bill abolishes the general sumptuary allowance except for the Prime Minister, requires ministers to pay for benefits and amenities at prescribed rates, permits the Central Government to make implementing rules, and repeals the Salaries and Allowances of Ministers Act, 1952. The supporting statement of objects, notes on clauses, and financial memorandum present the measure as a way to make the total value and public cost of ministerial emoluments transparent while preserving approximately the existing net “take-home” position. The document is dated 2 September 1970 and estimates net additional annual expenditure at Rs. 9,850.
 ---
 
+## Summary
+
+The Salaries and Allowances of Ministers Bill, 1970, introduced in the Lok Sabha by N. Dandekar and M. R. Masani, proposes to consolidate and amend the law governing the remuneration and official benefits of Union ministers. The Bill defines “Minister” to include Deputy Ministers, sets monthly salaries of Rs. 37,500 for Ministers and Rs. 16,250 for Deputy Ministers, and provides for the taxation of their full salaries under the Income-tax Act, 1961.
+
+Its provisions specify charges for furnished official residences, travelling and daily allowances, medical treatment, motor-car advances, and deductions for private travel and use of official transport. The Bill abolishes the general sumptuary allowance except for the Prime Minister, requires ministers to pay for benefits and amenities at prescribed rates, permits the Central Government to make implementing rules, and repeals the Salaries and Allowances of Ministers Act, 1952. The supporting statement of objects, notes on clauses, and financial memorandum present the measure as a way to make the total value and public cost of ministerial emoluments transparent while preserving approximately the existing net “take-home” position. The document is dated 2 September 1970 and estimates net additional annual expenditure at Rs. 9,850.
+
 ## Key points
 
 - The Bill consolidates and amends the law relating to salaries and allowances of Union Ministers.

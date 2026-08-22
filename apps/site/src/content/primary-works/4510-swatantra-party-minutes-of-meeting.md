@@ -53,6 +53,12 @@ summary: |-
   After discussing the matter, the National Executive concluded that Patel had acted against the Party's candidate in the Rajkot Parliamentary Constituency. It held that the fact that the conduct may have occurred privately rather than publicly was immaterial, and decided to debar him from holding any Party office for two years with immediate effect. B. P. Singh recorded a dissent, arguing that the proposed action was inadequate and that Patel should be expelled.
 ---
 
+## Summary
+
+This one-page extract from the Swatantra Party's National Executive minutes records disciplinary proceedings against Mr. Bhagwanjibhai Patel. The Gujarat State Executive Committee had recommended no disciplinary action, stating that there was no direct evidence that Patel had worked against Minoo Masani's candidacy or the Party's interests, though it proposed informing him that the Party disapproved of his privately expressed opposition to Masani. A communication from Ratibhai Ukabhai Patel instead called for Bhagwanjibhai Patel's expulsion.
+
+After discussing the matter, the National Executive concluded that Patel had acted against the Party's candidate in the Rajkot Parliamentary Constituency. It held that the fact that the conduct may have occurred privately rather than publicly was immaterial, and decided to debar him from holding any Party office for two years with immediate effect. B. P. Singh recorded a dissent, arguing that the proposed action was inadequate and that Patel should be expelled.
+
 ## Key points
 
 - The Gujarat State Executive Committee recommended that no disciplinary action be taken against Bhagwanjibhai Patel.

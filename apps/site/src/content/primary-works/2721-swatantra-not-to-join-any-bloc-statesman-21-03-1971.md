@@ -55,6 +55,12 @@ summary: |-
   The report says the party reviewed the election results and rejected the claim that Prime Minister Indira Gandhi's party had received a mandate to amend the Constitution or alter its “fundamental features.” It highlights the disproportionality between the ruling party's share of the vote and its large parliamentary majority, criticises proportional representation as an alternative, and attributes the Congress victory partly to the absence of a common opposition programme. The article also reports the party's concern that failure to offer a programme had damaged its credibility and notes that the National Executive and General Council were to meet the following month to consider electoral results and organisational reorganisation.
 ---
 
+## Summary
+
+This 21 March 1971 Statesman report records the Swatantra Party's decision not to join any bloc or alliance after the Lok Sabha election. Quoting a statement issued by the party's Parliamentary Board, M. R. Masani argues that the party must preserve its independent identity and continue as a responsible opposition while defending democracy and individual liberty. The statement warns against tendencies toward authoritarianism and says the government should be pressed to safeguard a free society.
+
+The report says the party reviewed the election results and rejected the claim that Prime Minister Indira Gandhi's party had received a mandate to amend the Constitution or alter its “fundamental features.” It highlights the disproportionality between the ruling party's share of the vote and its large parliamentary majority, criticises proportional representation as an alternative, and attributes the Congress victory partly to the absence of a common opposition programme. The article also reports the party's concern that failure to offer a programme had damaged its credibility and notes that the National Executive and General Council were to meet the following month to consider electoral results and organisational reorganisation.
+
 ## Key points
 
 - The Swatantra Party rejects joining any bloc or alliance and insists on maintaining an independent political identity.

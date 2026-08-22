@@ -49,6 +49,10 @@ summary: |-
   In this handwritten letter dated July 15, 1974, Kusum Kumari Joshi writes urgently to Minoo Masani about the crisis facing the Swatantra Party. She praises Piloo Mody's past leadership but argues that the party's present officers are abandoning it at the moment of danger: they are compared to rats leaving a sinking ship, while Masani is urged to return and lead a rescue. Joshi invokes Nelson and Napoleon as examples of determined leadership and asks Masani to act courageously.
 ---
 
+## Summary
+
+In this handwritten letter dated July 15, 1974, Kusum Kumari Joshi writes urgently to Minoo Masani about the crisis facing the Swatantra Party. She praises Piloo Mody's past leadership but argues that the party's present officers are abandoning it at the moment of danger: they are compared to rats leaving a sinking ship, while Masani is urged to return and lead a rescue. Joshi invokes Nelson and Napoleon as examples of determined leadership and asks Masani to act courageously.
+
 ## Key points
 
 - Joshi addresses Minoo Masani in an urgent personal appeal.

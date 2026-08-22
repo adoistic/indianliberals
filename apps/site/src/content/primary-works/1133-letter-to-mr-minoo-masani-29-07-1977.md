@@ -43,6 +43,12 @@ summary: |-
   The letter closes with Dhun Mehta's good wishes for the success of the meeting and a postscript explaining that the notice arrived only that morning, leaving no time to write earlier. Archival annotations at the top of the sheet mark it as belonging to the "S.P. file" (Swatantra Party file) with the numeral 1133. The document is a brief piece of personal correspondence and carries no argumentative content.
 ---
 
+## Summary
+
+A one-page handwritten personal note dated 29 July 1977, sent from 24, Nepean Sea Road, Bombay-400036 by Daulat D. Mehta to Minoo Masani. Writing on behalf of her husband, Dhun Mehta, she thanks Masani for the notice about a meeting scheduled that day and conveys her husband's regrets that he cannot attend, as he has just undergone a cataract operation and is still in the Nursing Home.
+
+The letter closes with Dhun Mehta's good wishes for the success of the meeting and a postscript explaining that the notice arrived only that morning, leaving no time to write earlier. Archival annotations at the top of the sheet mark it as belonging to the "S.P. file" (Swatantra Party file) with the numeral 1133. The document is a brief piece of personal correspondence and carries no argumentative content.
+
 ## Key points
 
 - Handwritten letter dated 29 July 1977, sent from 24, Nepean Sea Road, Bombay-400036.

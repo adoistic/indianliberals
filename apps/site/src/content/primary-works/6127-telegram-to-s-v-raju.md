@@ -49,6 +49,12 @@ summary: |-
   The message specifies that the newsletter is to be published on “2 ND OR 3 RD MAY.” The document is a clipped telegram form rather than a conventional letter, and the surviving text provides no title, salutation, closing, or fuller explanation of the proposed report or newsletter.
 ---
 
+## Summary
+
+This one-page telegram, received in 1970 by “Raju Care, Surajyam, Bombay,” appears to have been sent by a person identified as “MASANI.” It asks the recipient to arrange for a news-agency report based on the sender’s newsletter.
+
+The message specifies that the newsletter is to be published on “2 ND OR 3 RD MAY.” The document is a clipped telegram form rather than a conventional letter, and the surviving text provides no title, salutation, closing, or fuller explanation of the proposed report or newsletter.
+
 ## Key points
 
 - The document is a received Indian Posts and Telegraphs Department telegram.

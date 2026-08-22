@@ -47,6 +47,10 @@ summary: |-
   This single-page letter, dated October 11, 1969, was sent from the Swatantra Party Parliamentary Office in New Delhi by A. P. Jain to Minoo Masani. Jain apologises for a delay in responding to Masani's letter of October 9, explaining that the list of delegates from the Lok Sabha Secretariat was not initially available.
 ---
 
+## Summary
+
+This single-page letter, dated October 11, 1969, was sent from the Swatantra Party Parliamentary Office in New Delhi by A. P. Jain to Minoo Masani. Jain apologises for a delay in responding to Masani's letter of October 9, explaining that the list of delegates from the Lok Sabha Secretariat was not initially available.
+
 ## Key points
 
 - The letter is dated October 11, 1969, and issued on Swatantra Party Parliamentary Office letterhead.

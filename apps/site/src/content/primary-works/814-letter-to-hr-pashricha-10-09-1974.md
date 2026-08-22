@@ -51,6 +51,12 @@ summary: |-
   Raju also mentions reports that Mohan Lal Jatav and Mewaram have joined the WID, and asks what their actual position is. The page captures a practical effort to preserve and reconstruct the Swatantra Party’s documentary history shortly after the party’s dissolution in 1974.
 ---
 
+## Summary
+
+In this letter dated September 10, 1974, S. V. Raju replies to Lt. Col. H. R. Pashricha about Pashricha’s proposal to write a brief history of the Swatantra Party. Raju agrees that the project is worthwhile but explains that the party’s principal files and papers are held at its national headquarters, while Minoo Masani’s personal correspondence may contain additional material. He points to the Delhi office’s circulars and newsletters, published from 1959 to 1971, as particularly valuable sources and encloses a copy of his own article on the party in the Journal of the Institute for Constitutional and Parliamentary Studies.
+
+Raju also mentions reports that Mohan Lal Jatav and Mewaram have joined the WID, and asks what their actual position is. The page captures a practical effort to preserve and reconstruct the Swatantra Party’s documentary history shortly after the party’s dissolution in 1974.
+
 ## Key points
 
 - Raju responds to a proposal for a brief history of the Swatantra Party.

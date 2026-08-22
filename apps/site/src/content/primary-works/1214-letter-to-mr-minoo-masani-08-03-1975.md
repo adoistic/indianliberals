@@ -52,6 +52,14 @@ summary: |-
   The letter closes with an explicit political proposition: JP can catalyse Gandhi-scale change, but someone must take the command of government in the manner of Jawaharlal Nehru, and Bharati sees that leader in Masani himself, praising his organisational skill and grasp of parliamentary affairs. Bharati mentions witnessing Masani's appeals for the JP movement in Bombay on 21 January 1975 and in Delhi on 6 March 1975, apologises for missing a chance to meet him in Bombay on 21/1/75, sends his respects to Mrs Masani, and signs off.
 ---
 
+## Summary
+
+A handwritten inland-letter-card note sent on 8 March 1975 by R. S. Bharati of Shahjahanpur, U.P., to Minoo Masani at 148 Mahatma Gandhi Road, Bombay 23. Bharati opens with warm greetings and recalls a personal exchange with Masani in Delhi shortly after the 1967 parliamentary election, in which he had teasingly asked whether Masani would be Prime Minister if Morarji Desai left the Congress; Masani's reply, the writer remembers, was that he could at best be Deputy Prime Minister — because he did not wear a dhoti.
+
+Bharati then turns to the political moment. He reads Jayaprakash Narayan's ongoing movement through the lens of Mahatma Gandhi's success — Gandhi, he argues, prevailed by making himself into what the Indian masses wanted, and JP is doing the same. He predicts that the movement's momentum, and any subsequent Janta candidates' victory, will force a fresh regrouping of Indian politicians into conservative and socialist camps, and that Masani — as one of the fathers of the conservative viewpoint in India — will again be needed to lead the conservative group.
+
+The letter closes with an explicit political proposition: JP can catalyse Gandhi-scale change, but someone must take the command of government in the manner of Jawaharlal Nehru, and Bharati sees that leader in Masani himself, praising his organisational skill and grasp of parliamentary affairs. Bharati mentions witnessing Masani's appeals for the JP movement in Bombay on 21 January 1975 and in Delhi on 6 March 1975, apologises for missing a chance to meet him in Bombay on 21/1/75, sends his respects to Mrs Masani, and signs off.
+
 ## Key points
 
 - Private, handwritten inland letter dated 8/3/75, sent by R. S. Bharati of Shahjahanpur (U.P.) to Minoo Masani in Bombay.

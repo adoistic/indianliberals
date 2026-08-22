@@ -48,6 +48,12 @@ summary: |-
   Subsequent pages list candidates for Darbhanga, Purnea, Saharsa and Muzaffarpur, followed by annexures for Orissa, Gujarat and Madhya Pradesh. Annexure F identifies persons authorised to convey approved Lok Sabha and Vidhan Sabha candidate names to electoral officers in several states, while later annexures provide constituency-level lists and note missing assembly-candidate names in Orissa. The rendered pages therefore present an administrative snapshot of candidate selection and endorsement, including incomplete lists, unattached constituencies and substitutions or alternatives, rather than an account of electoral policy or political argument.
 ---
 
+## Summary
+
+This typed office document records approved or endorsed candidates for parliamentary and assembly constituencies. The first section covers Bihar districts other than Darbhanga, Purnea and Muzaffarpur, listing candidates across Saran, Ranchi, Shahabad, Gaya, Jamshedpur, Bhagalpur, Santhal Parganas, Monghyr, Champaran, Patna, Dhanbad, Palamau and Hazaribagh. Entries distinguish parliamentary from assembly constituencies and identify reserved seats with “(Res)” or “(R)”. Several constituencies have no candidate listed, while remarks record withdrawn endorsements, pending decisions, requests for alternative candidates, and conditions attached to endorsements.
+
+Subsequent pages list candidates for Darbhanga, Purnea, Saharsa and Muzaffarpur, followed by annexures for Orissa, Gujarat and Madhya Pradesh. Annexure F identifies persons authorised to convey approved Lok Sabha and Vidhan Sabha candidate names to electoral officers in several states, while later annexures provide constituency-level lists and note missing assembly-candidate names in Orissa. The rendered pages therefore present an administrative snapshot of candidate selection and endorsement, including incomplete lists, unattached constituencies and substitutions or alternatives, rather than an account of electoral policy or political argument.
+
 ## Key points
 
 - The document lists approved or endorsed Lok Sabha and Vidhan Sabha candidates, primarily in Bihar.

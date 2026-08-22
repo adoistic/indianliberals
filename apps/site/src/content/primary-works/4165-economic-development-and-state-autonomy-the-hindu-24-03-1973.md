@@ -58,6 +58,12 @@ summary: |-
   The discussion also records a less radical position: India might remain a single interdependent economic unit while giving states a larger role within the existing framework. M. R. Masani argued that backward states were disadvantaged under the prevailing arrangement and supported rationalising the tax structure to create investment incentives. Cooper further pointed to Hong Kong and Singapore as relevant examples for Indian states, while the report concludes that a viable Indian federation might require a larger number of economically and administratively manageable states.
 ---
 
+## Summary
+
+This two-page institutional report records a seminar on economic development and state autonomy organised by the Adult Education Institute in Bombay on March 24, 1973. Most participants criticised the centralised role of the Union Government in economic planning and argued that greater state autonomy should include powers over taxation, banking, foreign exchange, foreign collaboration, and investment. The report presents Dr. R. C. Cooper's paper as the basis for discussion, including his claim that competition among states could attract capital, strengthen investment incentives, and promote economic growth.
+
+The discussion also records a less radical position: India might remain a single interdependent economic unit while giving states a larger role within the existing framework. M. R. Masani argued that backward states were disadvantaged under the prevailing arrangement and supported rationalising the tax structure to create investment incentives. Cooper further pointed to Hong Kong and Singapore as relevant examples for Indian states, while the report concludes that a viable Indian federation might require a larger number of economically and administratively manageable states.
+
 ## Key points
 
 - The seminar challenged the over-centralisation of economic planning by the Union Government.

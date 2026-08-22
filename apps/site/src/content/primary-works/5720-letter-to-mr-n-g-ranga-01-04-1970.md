@@ -48,6 +48,12 @@ summary: |-
   Singh warns that allowing expulsions based on personal dislike would leave very few people in the party. He says he would strongly oppose such a decision and notes that he has already conveyed his position to H. M. Patel, with the possibility of support from other legislators. The letter is signed “JATINDER SINGH” and marked “/true copy/”.
 ---
 
+## Summary
+
+This one-page letter, dated April 1, 1970, is from Jatinder Singh to Prof. N. G. Ranga concerning the proposed expulsion of Mr. C. C. Desai from the party. Singh reports that Desai’s reply to the show-cause notice was examined in detail and argues that Masani’s motive for removing him is unjustified. Although Singh acknowledges that Desai may have spoken to the press too hastily or out of turn, he considers those lapses insufficient to warrant extreme disciplinary action.
+
+Singh warns that allowing expulsions based on personal dislike would leave very few people in the party. He says he would strongly oppose such a decision and notes that he has already conveyed his position to H. M. Patel, with the possibility of support from other legislators. The letter is signed “JATINDER SINGH” and marked “/true copy/”.
+
 ## Key points
 
 - The letter contests the proposed expulsion of Mr. C. C. Desai from the party.

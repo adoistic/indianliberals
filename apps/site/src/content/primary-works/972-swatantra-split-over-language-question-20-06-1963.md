@@ -49,6 +49,10 @@ summary: |-
   This 20 June 1963 newspaper clipping reports a serious internal dispute in the Swatantra Party over the official-language question. It says that more than 50 party members had requested a special meeting of the party's national council to decide its position on the language of the federal government. K. M. Munshi is reported to have privately urged C. Rajagopalachari to consider the implications of opposing what the clipping calls the “so-called Hindi onslaught.”
 ---
 
+## Summary
+
+This 20 June 1963 newspaper clipping reports a serious internal dispute in the Swatantra Party over the official-language question. It says that more than 50 party members had requested a special meeting of the party's national council to decide its position on the language of the federal government. K. M. Munshi is reported to have privately urged C. Rajagopalachari to consider the implications of opposing what the clipping calls the “so-called Hindi onslaught.”
+
 ## Key points
 
 - The clipping presents the Swatantra Party as divided over the official-language issue.

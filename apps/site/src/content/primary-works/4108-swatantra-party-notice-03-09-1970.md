@@ -55,6 +55,12 @@ summary: |-
   The minutes record internal organisational work alongside political and economic campaigning. The Bombay Region discussed building Youth and Ladies Wings, mobilising students through the Fundamental Rights Front, developing a volunteer corps, expanding public-speaking classes, and preparing a National Convention in Bombay. They also describe opposition to rationing and the government takeover of the cotton trade, with plans to contact grain dealers, shopkeepers, and cotton traders. The 27 August minutes focus on election analysis, candidate selection, campaign coordination, membership drives, election-commission liaison, voter enrolment, and the creation of local sub-committees. The packet documents a party attempting to strengthen its organisation while selecting constituencies and issues for future electoral action.
 ---
 
+## Summary
+
+This English-language Swatantra Party, Bombay Region, office packet contains a meeting notice dated 3 September 1970 and draft minutes of Executive Committee meetings held on 19 and 27 August 1970. The notice sets the agenda for a forthcoming meeting, including confirmation of earlier minutes, review of the Fundamental Rights Front, arrangements for a party workers’ “Shibir,” allocation of work for the National Convention, and other business permitted by the Chair.
+
+The minutes record internal organisational work alongside political and economic campaigning. The Bombay Region discussed building Youth and Ladies Wings, mobilising students through the Fundamental Rights Front, developing a volunteer corps, expanding public-speaking classes, and preparing a National Convention in Bombay. They also describe opposition to rationing and the government takeover of the cotton trade, with plans to contact grain dealers, shopkeepers, and cotton traders. The 27 August minutes focus on election analysis, candidate selection, campaign coordination, membership drives, election-commission liaison, voter enrolment, and the creation of local sub-committees. The packet documents a party attempting to strengthen its organisation while selecting constituencies and issues for future electoral action.
+
 ## Key points
 
 - A 3 September 1970 notice convenes the Swatantra Party’s Bombay Region Executive Committee.

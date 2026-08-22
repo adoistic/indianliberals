@@ -47,6 +47,10 @@ summary: |-
   This single-page English letter from S. Y. Krishnaswamy to Homi Mody is dated only “August the 28th.” Writing from Madras, Krishnaswamy reports that he has been occupied with preparing committee proceedings and dealing with accumulated correspondence.
 ---
 
+## Summary
+
+This single-page English letter from S. Y. Krishnaswamy to Homi Mody is dated only “August the 28th.” Writing from Madras, Krishnaswamy reports that he has been occupied with preparing committee proceedings and dealing with accumulated correspondence.
+
 ## Key points
 
 - Krishnaswamy writes from Madras on August 28, with no year visible on the page.

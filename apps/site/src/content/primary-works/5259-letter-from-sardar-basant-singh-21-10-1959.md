@@ -45,6 +45,10 @@ summary: |-
   This single-page English correspondence is a confirmatory copy sent by ordinary post, dated 21 October 1959. It is headed for Sardar Basant Singh of the Swatantra Party, Patiala, and concerns the inaugural conference and convention in Mangalore on 25 October. The visible text records Masani’s apology for being unable to attend and asks that his best wishes for the event’s success be conveyed.
 ---
 
+## Summary
+
+This single-page English correspondence is a confirmatory copy sent by ordinary post, dated 21 October 1959. It is headed for Sardar Basant Singh of the Swatantra Party, Patiala, and concerns the inaugural conference and convention in Mangalore on 25 October. The visible text records Masani’s apology for being unable to attend and asks that his best wishes for the event’s success be conveyed.
+
 ## Key points
 
 - The document is marked “ORDINARY” and identified as a confirmatory copy by ordinary post.

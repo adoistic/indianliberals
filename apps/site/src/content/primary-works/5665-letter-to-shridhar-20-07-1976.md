@@ -49,6 +49,12 @@ summary: |-
   The letter then describes proposed changes to the Express Group’s board. It reports that Shri K. K. Birla was told that earlier arrangements were no longer acceptable to the Government, and that a Government-backed composition would give the Government a majority of directors, with Birla as chairman and five directors nominated by the writer. The page ends mid-sentence while introducing the Government’s main concern about the Express Group. The sender’s name is not legible on the rendered page.
 ---
 
+## Summary
+
+This single-page letter, dated July 20, 1976 and addressed “Dear Shri Dhar,” raises concerns about the relationship between the editor, proprietor, and Government in the Express Group of Newspapers. The writer says the issue has become especially serious after efforts to cooperate with the Government included terminating the services of the former Editor-in-Chief, Shri S. Mulgaokar. The letter presents the writer’s account of negotiations beginning in October 1975 with Information and Broadcasting Minister Shri V. C. Shukla, including a proposed committee of three eminent public figures to supervise the paper’s editorial policy.
+
+The letter then describes proposed changes to the Express Group’s board. It reports that Shri K. K. Birla was told that earlier arrangements were no longer acceptable to the Government, and that a Government-backed composition would give the Government a majority of directors, with Birla as chairman and five directors nominated by the writer. The page ends mid-sentence while introducing the Government’s main concern about the Express Group. The sender’s name is not legible on the rendered page.
+
 ## Key points
 
 - The writer frames the Express Group dispute as a fundamental question about the relationship between editor, proprietor, and Government.

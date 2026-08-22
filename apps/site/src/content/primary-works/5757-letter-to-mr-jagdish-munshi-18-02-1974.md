@@ -47,6 +47,10 @@ summary: |-
   This single-page letter, dated February 18, 1974, is signed “(Girishbhai)” and addressed to Shri Jagdish Munshi from the Bharatiya Vidya Bhavan office in Bombay. The writer follows up on a signature campaign seeking relief from personal income-tax obligations, specifically exemption up to Rs. 15,000 per year.
 ---
 
+## Summary
+
+This single-page letter, dated February 18, 1974, is signed “(Girishbhai)” and addressed to Shri Jagdish Munshi from the Bharatiya Vidya Bhavan office in Bombay. The writer follows up on a signature campaign seeking relief from personal income-tax obligations, specifically exemption up to Rs. 15,000 per year.
+
 ## Key points
 
 - The letter is dated February 18, 1974, and is written on Bharatiya Vidya Bhavan letterhead.

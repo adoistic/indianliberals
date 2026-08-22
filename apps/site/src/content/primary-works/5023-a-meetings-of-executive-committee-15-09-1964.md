@@ -56,6 +56,12 @@ summary: |-
   The committee also discussed two constitutional amendment Bills introduced by Yashpal Singh and Krishnapal Singh. The members were permitted to move the Bills in their individual capacities because the proposals were judged not to involve major policy issues, while the Party itself was not to be committed to supporting them. The meeting further decided that allocation of work among office-bearers would be considered when the Deputy Speaker, three Secretaries, and the Chief Whip were present, and then adjourned with a vote of thanks to the Chair. The sheet is signed by Kapur Singh as Secretary.
 ---
 
+## Summary
+
+This one-page English memorandum from the Swatantra Party Parliamentary Office records a meeting of the Party’s Executive Committee held in Committee Room, Central Hall, Parliament House, New Delhi, on 10 September 1964. The minutes list seven attendees and describe a disagreement over the seating allocated to Yashpal Singh, including an offer by C. L. Narasimha Reddy to relinquish his own seat.
+
+The committee also discussed two constitutional amendment Bills introduced by Yashpal Singh and Krishnapal Singh. The members were permitted to move the Bills in their individual capacities because the proposals were judged not to involve major policy issues, while the Party itself was not to be committed to supporting them. The meeting further decided that allocation of work among office-bearers would be considered when the Deputy Speaker, three Secretaries, and the Chief Whip were present, and then adjourned with a vote of thanks to the Chair. The sheet is signed by Kapur Singh as Secretary.
+
 ## Key points
 
 - The Executive Committee meeting took place on 10 September 1964 at Parliament House in New Delhi.

@@ -58,6 +58,12 @@ summary: |-
   Masani broadens the case against the government to its economic and foreign policies. He attributes worsening economic conditions to the Second, Third, and Fourth Plans, excessive taxation, inflation, rising prices, unemployment, and possible shortages. He portrays the government's foreign policy as subservient to the Soviet Union and criticises its handling of Tibet, Chinese aggression, and Naxalite violence in Bengal. The speech concludes by distinguishing democratic change from parliamentary 'toppling': opposition parties should present an alternative government and seek a popular mandate rather than simply remove Indira Gandhi without a viable replacement.
 ---
 
+## Summary
+
+In this speech during the Lok Sabha debate on the no-confidence motion of 28 July 1970, Minoo Masani explains why he supports the motion while rejecting what he sees as the sterile, routine use of no-confidence votes. He endorses Madhu Limaye's criticisms of the concentration of power and the bureaucratisation produced by State Socialism, arguing that nationalisation and expanding official control undermine administrative freedom and democratic accountability. Masani also invokes Gandhi's warning that Swaraj must not mean merely replacing white bureaucrats with brown ones.
+
+Masani broadens the case against the government to its economic and foreign policies. He attributes worsening economic conditions to the Second, Third, and Fourth Plans, excessive taxation, inflation, rising prices, unemployment, and possible shortages. He portrays the government's foreign policy as subservient to the Soviet Union and criticises its handling of Tibet, Chinese aggression, and Naxalite violence in Bengal. The speech concludes by distinguishing democratic change from parliamentary 'toppling': opposition parties should present an alternative government and seek a popular mandate rather than simply remove Indira Gandhi without a viable replacement.
+
 ## Key points
 
 - Masani supports the no-confidence motion because of the government's domestic and international policies, not merely because of the Kerala situation.

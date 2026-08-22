@@ -49,6 +49,12 @@ summary: |-
   Shenoy also records that he consulted Shri Ratibhai Patel, who agreed that he could withdraw. Patel reportedly mentioned that four Rajya Sabha seats would fall vacant the following year, and Shenoy asks Masani to keep him in mind at that time. The page is a single political correspondence concerning party decision-making, electoral withdrawal, and prospective parliamentary opportunities.
 ---
 
+## Summary
+
+In this letter dated 21 March 1968, B. R. Shenoy tells Minoo Masani that he has withdrawn from a political contest after receiving requests from Shri Bhaikaka and another source. Shenoy says he was authoritatively informed that party members had agreed to vote in bulk for Mr. Mahida, and that his withdrawal might help relieve the resulting tensions.
+
+Shenoy also records that he consulted Shri Ratibhai Patel, who agreed that he could withdraw. Patel reportedly mentioned that four Rajya Sabha seats would fall vacant the following year, and Shenoy asks Masani to keep him in mind at that time. The page is a single political correspondence concerning party decision-making, electoral withdrawal, and prospective parliamentary opportunities.
+
 ## Key points
 
 - The letter is dated 21 March 1968 and is sent by B. R. Shenoy from Gujarat University in Ahmedabad.

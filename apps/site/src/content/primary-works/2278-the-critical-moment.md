@@ -62,6 +62,12 @@ summary: |-
   The address endorses a practical programme: build a national party cadre, educate government officials toward pragmatic administration, fight corruption, pursue a two-party system, and secure basic electoral reform. Mody calls for cooperation with Jayaprakash Narayan’s movement while warning against surrendering politics to extremists or dictators. The central decision before the convention is whether the Swatantra Party should preserve its name and organizational identity or merge into a larger National Alternative. Mody acknowledges the personal and institutional costs of merger but concludes that it would represent not the party’s dissolution, but its transformation into a broader democratic struggle.
 ---
 
+## Summary
+
+In this presidential address to the Swatantra Party’s Seventh National Convention, Piloo Mody presents India as facing a decisive political crisis. He argues that rising prices, unemployment, shortages, corruption, injustice, and the deterioration of democratic institutions have produced public anger, particularly visible in Gujarat and Bihar. Mody attributes the crisis chiefly to the Congress government’s refusal to reform the electoral process, its use of money and state-controlled media, and its tendency to blame opposition parties and foreign agencies rather than accept responsibility. He insists that analysis must lead to action, and recounts his own extensive touring, lobbying, and public advocacy on behalf of the party’s programme.
+
+The address endorses a practical programme: build a national party cadre, educate government officials toward pragmatic administration, fight corruption, pursue a two-party system, and secure basic electoral reform. Mody calls for cooperation with Jayaprakash Narayan’s movement while warning against surrendering politics to extremists or dictators. The central decision before the convention is whether the Swatantra Party should preserve its name and organizational identity or merge into a larger National Alternative. Mody acknowledges the personal and institutional costs of merger but concludes that it would represent not the party’s dissolution, but its transformation into a broader democratic struggle.
+
 ## Key points
 
 - Mody frames 1974 as a critical moment in which India’s democratic and constitutional order is at stake.

@@ -49,6 +49,12 @@ summary: |-
   The revision is intended to ensure that the covering letter presents the enclosed material only for information and does not solicit the recipients' views. Raju is particularly concerned that the letter should not even indirectly suggest that the party has already decided to expel C. C. Desai. He asks Masani to confirm the wording by telegram so that the letters can be prepared for dispatch on Monday.
 ---
 
+## Summary
+
+This one-page letter from S. V. Raju to Minoo Masani, dated April 3, 1970, concerns a draft covering letter to Members of Parliament, Gujarat MLAs, and the Swatantra Party State Executive. Raju says he has slightly revised the draft's second paragraph and explains that the change follows a discussion with N. Dandekar and D. R. Pendse.
+
+The revision is intended to ensure that the covering letter presents the enclosed material only for information and does not solicit the recipients' views. Raju is particularly concerned that the letter should not even indirectly suggest that the party has already decided to expel C. C. Desai. He asks Masani to confirm the wording by telegram so that the letters can be prepared for dispatch on Monday.
+
 ## Key points
 
 - The letter is dated April 3, 1970, and is issued on Swatantra Party National Headquarters letterhead.

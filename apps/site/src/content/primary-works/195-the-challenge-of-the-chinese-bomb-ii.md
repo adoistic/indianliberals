@@ -57,6 +57,12 @@ summary: |-
   In the rendered pages, Masani considers three responses: appealing to world opinion and the United Nations, building an Indian bomb, and entering an interdependent security arrangement with other free Asian countries and the United States and Soviet Union. He dismisses world opinion as a weak defence, and opposes an independent Indian bomb on economic, logistical, political, and psychological grounds. His preferred solution in the rendered pages is an explicit, automatic nuclear guarantee or deterrent arrangement, which he presents as compatible with a practical understanding of non-alignment. The pages end with his argument that India must discard what he calls the “dead hand of the past” and make present security needs the basis of policy.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani assesses the political and strategic consequences of China's first nuclear explosion on 15 October 1964 against India's exposed position in Asia. He describes Pakistan, China, Nepal, Burma, Laos, Vietnam, and Indonesia as forming an increasingly hostile or unstable strategic environment, and argues that the bomb is intended primarily to intimidate China's neighbours rather than to project power across the Atlantic or Pacific. He rejects reliance on Soviet support, especially after Khrushchev's removal, and warns that non-alignment cannot mean refusing practical assistance for India's defence.
+
+In the rendered pages, Masani considers three responses: appealing to world opinion and the United Nations, building an Indian bomb, and entering an interdependent security arrangement with other free Asian countries and the United States and Soviet Union. He dismisses world opinion as a weak defence, and opposes an independent Indian bomb on economic, logistical, political, and psychological grounds. His preferred solution in the rendered pages is an explicit, automatic nuclear guarantee or deterrent arrangement, which he presents as compatible with a practical understanding of non-alignment. The pages end with his argument that India must discard what he calls the “dead hand of the past” and make present security needs the basis of policy.
+
 ## Key points
 
 - Masani places China's nuclear test within India's vulnerable strategic position after the 1962 war.

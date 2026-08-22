@@ -48,6 +48,10 @@ summary: |-
   This two-page English letter, dated 27 April 1965, was sent by A.P. Jain from the Swatantra Party Parliamentary Office in New Delhi to M.R. Masani (Minoo Masani) in Bombay. Jain reports on a meeting convened by the Minister of Parliamentary Affairs to discuss reducing the quorum for the Lok Sabha, with C.L. Narasimha Reddy attending on behalf of the Swatantra Party.
 ---
 
+## Summary
+
+This two-page English letter, dated 27 April 1965, was sent by A.P. Jain from the Swatantra Party Parliamentary Office in New Delhi to M.R. Masani (Minoo Masani) in Bombay. Jain reports on a meeting convened by the Minister of Parliamentary Affairs to discuss reducing the quorum for the Lok Sabha, with C.L. Narasimha Reddy attending on behalf of the Swatantra Party.
+
 ## Key points
 
 - The letter is dated 27 April 1965 and is issued on Swatantra Party Parliamentary Office letterhead.

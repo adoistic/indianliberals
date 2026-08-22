@@ -51,6 +51,12 @@ summary: |-
   The article contrasts the Congress campaign, which reportedly deployed more than 5,000 workers across the two constituencies for sustained voter contact, with the Swatantra Party’s smaller organisational presence. It cites the defeat of Nawal Kishore Sharma and the success of Maharaj Kumar Prithviraj Singh, while also mentioning Mr. Ranikishore Vyas. The second rendered page is an unrelated rejection letter from Personnel & Productivity Services and is not treated as part of the article.
 ---
 
+## Summary
+
+The scanned principal item is a 1 May 1968 Statesman report from Jaipur, attributed to “Our Special Representative.” It argues that the defeat of Swatantra Party candidates supported by a maharani, princes, and feudal lords in two recent Rajasthan by-elections demonstrates the declining political influence of the princely elite. The report suggests that the Swatantra Party must retain its position among the major parties through broader political work rather than relying on aristocratic influence.
+
+The article contrasts the Congress campaign, which reportedly deployed more than 5,000 workers across the two constituencies for sustained voter contact, with the Swatantra Party’s smaller organisational presence. It cites the defeat of Nawal Kishore Sharma and the success of Maharaj Kumar Prithviraj Singh, while also mentioning Mr. Ranikishore Vyas. The second rendered page is an unrelated rejection letter from Personnel & Productivity Services and is not treated as part of the article.
+
 ## Key points
 
 - The report links two Rajasthan by-election defeats to the declining influence of princes and feudal lords.

@@ -54,6 +54,12 @@ summary: |-
   Masani attributes the weakness of India's opposition to the proliferation of parties and to the first-past-the-post electoral system, which he argues produces severe distortions in representation. He cites the 1962 Lok Sabha results, in which Congress received 44.72 percent of the votes but won 72 percent of the seats, as evidence that opposition voters were underrepresented. The proposed remedy is a democratic, national, non-Communist second party with clear policies and the capacity to replace Congress. The essay presents the Swatantra Party as the only existing opposition party that meets these conditions, and discusses its preparations for the February 1967 elections, including candidate recruitment, electoral understandings with other non-Communist parties, and a commitment not to monopolize government.
 ---
 
+## Summary
+
+In this essay, M. R. Masani argues that a freely functioning opposition is essential to parliamentary democracy: elections, a constitution, and an independent judiciary are insufficient if opposition parties cannot operate effectively. He defines the opposition's two duties as criticizing the government and presenting an alternative government capable of replacing it. The essay rejects the idea of a single, unified opposition in India, describing instead a fragmented field that includes the Swatantra Party and Communist parties.
+
+Masani attributes the weakness of India's opposition to the proliferation of parties and to the first-past-the-post electoral system, which he argues produces severe distortions in representation. He cites the 1962 Lok Sabha results, in which Congress received 44.72 percent of the votes but won 72 percent of the seats, as evidence that opposition voters were underrepresented. The proposed remedy is a democratic, national, non-Communist second party with clear policies and the capacity to replace Congress. The essay presents the Swatantra Party as the only existing opposition party that meets these conditions, and discusses its preparations for the February 1967 elections, including candidate recruitment, electoral understandings with other non-Communist parties, and a commitment not to monopolize government.
+
 ## Key points
 
 - A functioning opposition is presented as indispensable to parliamentary democracy, beyond formal constitutional guarantees.

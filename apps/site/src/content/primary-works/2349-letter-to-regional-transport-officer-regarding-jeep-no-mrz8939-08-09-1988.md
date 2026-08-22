@@ -45,6 +45,10 @@ summary: |-
   In this letter dated September 8, 1988, M. R. Masani writes to the Regional Transport Officer in Bombay regarding Jeep No. MRZ 8939. He refers to an earlier letter sent on December 9, 1986, enclosing a registered-post acknowledgment, and protests what he describes as a renewed and unjustified demand from the officer’s office. Masani asks that the harassment stop and returns the disputed bill.
 ---
 
+## Summary
+
+In this letter dated September 8, 1988, M. R. Masani writes to the Regional Transport Officer in Bombay regarding Jeep No. MRZ 8939. He refers to an earlier letter sent on December 9, 1986, enclosing a registered-post acknowledgment, and protests what he describes as a renewed and unjustified demand from the officer’s office. Masani asks that the harassment stop and returns the disputed bill.
+
 ## Key points
 
 - The letter is dated September 8, 1988 and is addressed to the Regional Transport Officer in Bombay.

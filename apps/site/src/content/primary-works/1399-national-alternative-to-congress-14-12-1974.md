@@ -53,3 +53,7 @@ ai:
 summary: |-
   This 14 December 1974 issue of Point of View presents political commentary on the Bihar movement, opposition-party cooperation, and the search for a democratic alternative to Congress, alongside an international education feature on the proposed United Nations University. The visible political articles defend Jayaprakash Narayan's “total revolution” against right-communist critics, argue for electoral and educational reform, and examine whether opposition parties can move beyond temporary fronts toward a unified democratic force. A separate article by V. V. John describes the UN University as a decentralized global research network intended to address problems of peace, development, human welfare, and international cooperation.
 ---
+
+## Summary
+
+This 14 December 1974 issue of Point of View presents political commentary on the Bihar movement, opposition-party cooperation, and the search for a democratic alternative to Congress, alongside an international education feature on the proposed United Nations University. The visible political articles defend Jayaprakash Narayan's “total revolution” against right-communist critics, argue for electoral and educational reform, and examine whether opposition parties can move beyond temporary fronts toward a unified democratic force. A separate article by V. V. John describes the UN University as a decentralized global research network intended to address problems of peace, development, human welfare, and international cooperation.

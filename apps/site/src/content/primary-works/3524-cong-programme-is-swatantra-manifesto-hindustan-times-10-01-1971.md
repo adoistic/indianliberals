@@ -54,6 +54,12 @@ summary: |-
   The report presents the Congress (O) programme as an alternative to the central government, describing its purpose as consolidating democratic forces against Communist subversion and communalism. Masani said the Swatantra Party would contest the election on the agreed programme, remain open to other manifestos, and seek a broader opposition front involving Congress (O), the Jan Sangh, the Swatantra Party, and the SSP. He described the front's immediate objective as denying the Prime Minister and her government a majority and strengthening the opposition.
 ---
 
+## Summary
+
+This one-page Hindustan Times news report, datelined Madras, Jan. 9, records the Swatantra Party's acceptance of the Congress (O) resolution of June 28 as its election manifesto. M. R. Masani said a four-member committee would prepare a preamble highlighting national unity and security, constitutional liberties, democratic institutions, law and order, social and economic justice, equality of status and opportunity, and a basic minimum standard of living.
+
+The report presents the Congress (O) programme as an alternative to the central government, describing its purpose as consolidating democratic forces against Communist subversion and communalism. Masani said the Swatantra Party would contest the election on the agreed programme, remain open to other manifestos, and seek a broader opposition front involving Congress (O), the Jan Sangh, the Swatantra Party, and the SSP. He described the front's immediate objective as denying the Prime Minister and her government a majority and strengthening the opposition.
+
 ## Key points
 
 - The Swatantra Party accepted the Congress (O) resolution of June 28 as its election manifesto.

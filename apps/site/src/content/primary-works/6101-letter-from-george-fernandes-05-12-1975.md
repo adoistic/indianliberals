@@ -55,6 +55,12 @@ summary: |-
   The circular also reproduces a resolution of the Socialist International condemning mass arrests, prison conditions, press censorship, restrictions on opposition parties and trade unions, and constitutional changes made by what it calls a “rubber-stamp parliament.” Its remaining sections present rapidly changing political intelligence: cabinet reshuffles in Uttar Pradesh, alleged troop movements toward Bangladesh, the executions of Kiste Goud and Bhoomiah, and rumours concerning Indira Gandhi’s political insecurity. The issue closes by recommending Gandhi, Lohia, Subhas Chandra Bose, Lenin, Che Guevara, Fidel Castro, Mao, Jawaharlal Nehru, and John Steinbeck to underground activists, and reports arrests during the nationwide Satyagraha. The document explicitly instructs readers to “Read Translate Duplicate Circulate.”
 ---
 
+## Summary
+
+This four-page English underground political circular, signed by George Fernandes and dated December 5, 1975, attacks the Emergency government and its treatment of Jayaprakash Narayan (JP). It alleges that JP’s release from detention was misleading, that his health was being manipulated for political ends, and that the government might forge or coerce signatures concerning his purported “last wishes.” A reproduced appeal urges opposition figures to preserve evidence and prevent the authorities from exploiting JP’s death or incapacity.
+
+The circular also reproduces a resolution of the Socialist International condemning mass arrests, prison conditions, press censorship, restrictions on opposition parties and trade unions, and constitutional changes made by what it calls a “rubber-stamp parliament.” Its remaining sections present rapidly changing political intelligence: cabinet reshuffles in Uttar Pradesh, alleged troop movements toward Bangladesh, the executions of Kiste Goud and Bhoomiah, and rumours concerning Indira Gandhi’s political insecurity. The issue closes by recommending Gandhi, Lohia, Subhas Chandra Bose, Lenin, Che Guevara, Fidel Castro, Mao, Jawaharlal Nehru, and John Steinbeck to underground activists, and reports arrests during the nationwide Satyagraha. The document explicitly instructs readers to “Read Translate Duplicate Circulate.”
+
 ## Key points
 
 - The circular portrays JP’s release and medical condition as part of an alleged government effort to control the political meaning of his illness or death.

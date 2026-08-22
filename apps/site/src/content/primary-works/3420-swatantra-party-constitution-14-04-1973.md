@@ -57,6 +57,12 @@ summary: |-
   The document sets out membership subscriptions, disciplinary powers and appeal rights, proportional representation for internal councils, and procedures for electing office-bearers. It also creates State and National Election Tribunals, specifies voting and scrutiny rules, permits limited co-option, and reserves constitutional amendment to the National Convention through specified majority thresholds. The final page includes an appendix governing voting procedures for Party elections.
 ---
 
+## Summary
+
+This 1973 Swatantra Party Constitution, amended on April 14, 1973, by the Party’s Sixth National Convention in Rajajinagar, Madras, defines the Party’s name, objectives, membership rules, organisational hierarchy, electoral procedures, and amendment process. It establishes a structure running from Primary and District Units through State or Regional Councils to a General Council and National Executive.
+
+The document sets out membership subscriptions, disciplinary powers and appeal rights, proportional representation for internal councils, and procedures for electing office-bearers. It also creates State and National Election Tribunals, specifies voting and scrutiny rules, permits limited co-option, and reserves constitutional amendment to the National Convention through specified majority thresholds. The final page includes an appendix governing voting procedures for Party elections.
+
 ## Key points
 
 - The document identifies the organisation as the Swatantra Party and states its objectives, including political activity, public education, elections, and the promotion of Party principles.

@@ -57,6 +57,12 @@ summary: |-
   The trade-union minutes reaffirm the Party’s opposition to creating Swatantra-dominated unions or another centrally controlled trade-union federation. Instead, members were encouraged to build independent unions, educate workers about political exploitation, and represent workers’ economic grievances. The proposed Labour Advisory Committee was assigned functions including advising the Party on labour, gathering information, training party members in genuine trade unionism, liaising with legislators, and promoting improvements in housing, education, and medical relief. Masani’s memorandum argues that the Party’s post-election organisation was inadequate and proposes full-time organisers, earlier candidate selection, stronger links between central and state units, and a 1963 organisational budget of Rs. 250,000.
 ---
 
+## Summary
+
+This eight-page Swatantra Party Central Office compilation brings together draft minutes of the Organisation Sub-Committee meeting held in New Delhi on November 7, 1962; minutes of a Bombay trade-union workers’ meeting held on July 28–29, 1962; and M. R. Masani’s attached memorandum on party organisation, dated August 17, 1962. The Organisation Sub-Committee reviewed trade-union work, party organisation in Bihar and Punjab, a dispute involving jeep-bank credit, member enrolment, and the proposed reconstruction of state units. It approved the formation of a Labour Advisory Sub-Committee and deferred several organisational decisions until further meetings.
+
+The trade-union minutes reaffirm the Party’s opposition to creating Swatantra-dominated unions or another centrally controlled trade-union federation. Instead, members were encouraged to build independent unions, educate workers about political exploitation, and represent workers’ economic grievances. The proposed Labour Advisory Committee was assigned functions including advising the Party on labour, gathering information, training party members in genuine trade unionism, liaising with legislators, and promoting improvements in housing, education, and medical relief. Masani’s memorandum argues that the Party’s post-election organisation was inadequate and proposes full-time organisers, earlier candidate selection, stronger links between central and state units, and a 1963 organisational budget of Rs. 250,000.
+
 ## Key points
 
 - The Organisation Sub-Committee reviewed party administration across Bihar and Punjab and postponed some decisions pending further organisational meetings.

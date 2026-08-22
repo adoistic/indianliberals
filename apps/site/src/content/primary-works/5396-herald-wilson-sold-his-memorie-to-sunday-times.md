@@ -47,6 +47,12 @@ summary: |-
   The clipping presents the transaction as a humorous item about the commercial value of a former prime minister's memoirs, concluding that the payment was sufficient to reverse Wilson's financial losses. The visible source line reads "Times, August 9"; no year, byline, or formal title is printed.
 ---
 
+## Summary
+
+This untitled English newspaper clipping reports that Harold Wilson has sold his memoirs to the Sunday Times for a very large sum. It says that even Times staff were reportedly reluctant to disclose the price, while an estimate places Wilson's fee between $576,000 and $624,000.
+
+The clipping presents the transaction as a humorous item about the commercial value of a former prime minister's memoirs, concluding that the payment was sufficient to reverse Wilson's financial losses. The visible source line reads "Times, August 9"; no year, byline, or formal title is printed.
+
 ## Key points
 
 - The clipping concerns Harold Wilson's memoirs.

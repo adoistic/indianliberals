@@ -49,6 +49,12 @@ summary: |-
   In the 10 April letter, Thar says he has read Opinion’s account of the crisis and now supports Masani’s position. He expresses hope that the disagreement among Masani, Bhaikaka, and Baria will lead to “a new era of understanding,” while warning that democracy must be protected or India could follow the paths of Indonesia, Greece, and other countries. Together, the letters present party unity, democratic preservation, and continued opposition to the Congress as urgent political concerns.
 ---
 
+## Summary
+
+This archival item contains two typed letters from Shantilal L. Thar to Minoo Masani, written in Bombay on 5 and 10 April 1968. The 5 April letter responds to Masani’s resignation from the Swatantra Party’s National Executive and Central Parliamentary Board, urging him to reconcile his differences with the Gujarat unit and remain active in the party. Thar praises Masani’s parliamentary contributions, invokes C. Rajagopalachari as a fellow co-sponsor of the party, and proposes a General Council meeting to bridge the dispute.
+
+In the 10 April letter, Thar says he has read Opinion’s account of the crisis and now supports Masani’s position. He expresses hope that the disagreement among Masani, Bhaikaka, and Baria will lead to “a new era of understanding,” while warning that democracy must be protected or India could follow the paths of Indonesia, Greece, and other countries. Together, the letters present party unity, democratic preservation, and continued opposition to the Congress as urgent political concerns.
+
 ## Key points
 
 - The item consists of two letters from Shantilal L. Thar to Minoo Masani, dated 5 and 10 April 1968.

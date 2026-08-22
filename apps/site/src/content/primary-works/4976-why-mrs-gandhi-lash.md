@@ -52,6 +52,12 @@ summary: |-
   In the rendered pages, Masani also sketches the personal and political background behind Gandhi's style of rule. The article recounts her childhood as Jawaharlal Nehru's daughter, her close association with the Congress leadership, and her relationships with figures including Jayaprakash Narayan and Morarji Desai. It argues that the opposition remained divided and strategically ineffective, while Gandhi benefited from organisational control, political opportunism, and the absence of a coherent alternative. The clipping ends by questioning whether India's institutions could withstand the concentration of power represented by her leadership.
 ---
 
+## Summary
+
+In the rendered pages, Zareer Masani examines how Indira Gandhi maintained political power despite opposition, criticism of her authoritarian methods, and the Emergency-era suspension of democratic freedoms. The article presents her as a highly adaptive politician who jailed opponents, censored the press, centralised authority, and used Congress's electoral and organisational machinery to survive repeated political crises. It highlights her handling of the 1971 Bangladesh crisis, the 1975 Emergency, the 1977 electoral defeat, and her return to office in 1980.
+
+In the rendered pages, Masani also sketches the personal and political background behind Gandhi's style of rule. The article recounts her childhood as Jawaharlal Nehru's daughter, her close association with the Congress leadership, and her relationships with figures including Jayaprakash Narayan and Morarji Desai. It argues that the opposition remained divided and strategically ineffective, while Gandhi benefited from organisational control, political opportunism, and the absence of a coherent alternative. The clipping ends by questioning whether India's institutions could withstand the concentration of power represented by her leadership.
+
 ## Key points
 
 - Masani attributes Indira Gandhi's political survival to adaptability, organisational control, and a willingness to use state power against opponents.

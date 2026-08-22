@@ -54,6 +54,12 @@ summary: |-
   The committee discussed the conduct of Communist and socialist members of the Lok Sabha on November 13, when the Prime Minister was prevented from speaking. It regarded the incident as a serious threat to parliamentary democracy and resolved to raise public awareness. The committee recommended that the Parliamentary Board and National Executive consider passing a resolution condemning the behaviour of Communist, socialist, and Congress members of Parliament. The document is signed by an illegibly identified Chief Whip.
 ---
 
+## Summary
+
+This one-page record, dated November 15, 1968, documents an emergency meeting of the Swatantra Party Executive Committee held at 2.30 p.m. in Parliament House. Seven members are listed as present: M. R. Masani, Y. G. Goud, Piloo Mody, K. M. Koushik, H. Ajral Khan, Dahayalal V. Patel, and K. P. Singh Deo.
+
+The committee discussed the conduct of Communist and socialist members of the Lok Sabha on November 13, when the Prime Minister was prevented from speaking. It regarded the incident as a serious threat to parliamentary democracy and resolved to raise public awareness. The committee recommended that the Parliamentary Board and National Executive consider passing a resolution condemning the behaviour of Communist, socialist, and Congress members of Parliament. The document is signed by an illegibly identified Chief Whip.
+
 ## Key points
 
 - An emergency meeting of the Swatantra Party Executive Committee was held in Parliament House on November 15, 1968.

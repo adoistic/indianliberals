@@ -49,6 +49,12 @@ summary: |-
   The letter reflects on the apparent gap between India’s political mood and the Swatantra Party’s electoral performance. The sender remarks that the party has not appealed to the masses as much as expected, despite India having become “the Mecca of the masses,” and urges Masani to allow time for the political situation to become clearer before deciding on a course of action. The sender also notes being in Hyderabad in connection with a students’ camp at Nagarjunasagar.
 ---
 
+## Summary
+
+This handwritten letter, dated Hyderabad, 11 March 1971, is addressed to M. R. Masani in Bombay. The unidentified sender expresses sympathy over Masani's electoral defeat, calling it “really a bad luck” and noting that Rajaji was also behind his rival and did not secure the success the sender had hoped for.
+
+The letter reflects on the apparent gap between India’s political mood and the Swatantra Party’s electoral performance. The sender remarks that the party has not appealed to the masses as much as expected, despite India having become “the Mecca of the masses,” and urges Masani to allow time for the political situation to become clearer before deciding on a course of action. The sender also notes being in Hyderabad in connection with a students’ camp at Nagarjunasagar.
+
 ## Key points
 
 - The letter is dated Hyderabad, 11 March 1971, and is addressed to M. R. Masani in Bombay.

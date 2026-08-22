@@ -45,6 +45,10 @@ summary: |-
   This single-page letter from M. R. Masani to S. P. Shah is dated 3 July 1974. Masani thanks Shah for his letter of 13 June and expresses approval of the position Shah took in Delhi. He also forwards a second letter he has written to Piloo Mody in response to Mody’s communication.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani to S. P. Shah is dated 3 July 1974. Masani thanks Shah for his letter of 13 June and expresses approval of the position Shah took in Delhi. He also forwards a second letter he has written to Piloo Mody in response to Mody’s communication.
+
 ## Key points
 
 - The letter is dated 3 July 1974.

@@ -55,6 +55,12 @@ summary: |-
   Mehta also argues that joining Congress to reform it from within would be futile. Congress is described as lacking ideology and being organised around personal interest, power, patronage, and obedience to Indira Gandhi. The letter urges Swatantra members to undertake a serious organisational reconstruction, educate the public about its values, and maintain the party as a vehicle for democratic dissent. It presents Indira Gandhi’s socialism and the permit-quota-licence system as a growing threat, concluding with an exhortation to continue the struggle for the Swatantra cause.
 ---
 
+## Summary
+
+In this letter dated April 6, 1972, Madhu Mehta rejects proposals to merge or dissolve the Swatantra Party, while acknowledging that it cannot continue operating as before. Mehta argues that the party’s electoral decline after 1967 resulted from weak follow-up, inadequate grassroots organisation, poor training, internal quarrels, and insufficient contact between central and state leadership, legislators, and rank-and-file members. The letter contrasts the party’s earlier success, when respected public figures attracted popular support, with its later failure to build a durable organisation around its principles and policies.
+
+Mehta also argues that joining Congress to reform it from within would be futile. Congress is described as lacking ideology and being organised around personal interest, power, patronage, and obedience to Indira Gandhi. The letter urges Swatantra members to undertake a serious organisational reconstruction, educate the public about its values, and maintain the party as a vehicle for democratic dissent. It presents Indira Gandhi’s socialism and the permit-quota-licence system as a growing threat, concluding with an exhortation to continue the struggle for the Swatantra cause.
+
 ## Key points
 
 - Mehta disputes the claim that Swatantra’s programme failed to attract Indian voters, pointing to its strong growth between 1959 and 1967.

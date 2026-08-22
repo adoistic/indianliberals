@@ -47,6 +47,12 @@ summary: |-
   The telegram asks Rajagopalachari to reach Bombay on 29 September and indicates that he may return to Madras on 2 October. The second page reproduces the message on an Indian Posts and Telegraphs Department form, identifying the sender as Masani and the destination as Madras.
 ---
 
+## Summary
+
+This two-page English-language document is a confirmation copy of a telegram sent on 1 September 1964 by “MASANI” to C. Rajagopalachari in Madras. It reports that, because a public meeting cannot be held on a holiday, arrangements are being made for a public meeting on the eve of Gandhi Jayanti, 1 October, while a “COC meeting” is to be held on 30 September.
+
+The telegram asks Rajagopalachari to reach Bombay on 29 September and indicates that he may return to Madras on 2 October. The second page reproduces the message on an Indian Posts and Telegraphs Department form, identifying the sender as Masani and the destination as Madras.
+
 ## Key points
 
 - The document is a confirmation copy of a telegram sent on 1 September 1964.

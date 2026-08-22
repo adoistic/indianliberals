@@ -47,6 +47,12 @@ summary: |-
   The page does not reproduce the enclosed draft or Ranga’s separate letter to Rajajee; it only refers to them. The document was received on 11 June 1964, as shown by the stamped receipt.
 ---
 
+## Summary
+
+This single-page letter, dated 9 June 1964 from Nidubrolu, is addressed by Prof. N. C. Ranga to Minoo Masani. Writing on Swatantra Party letterhead, Ranga thanks Masani for his birthday wishes, asks him to consider suggestions for developing a draft, and reports that “Rajajee” is in good health. The letter is personal in tone but also points to ongoing political correspondence and organisational work within the Swatantra Party.
+
+The page does not reproduce the enclosed draft or Ranga’s separate letter to Rajajee; it only refers to them. The document was received on 11 June 1964, as shown by the stamped receipt.
+
 ## Key points
 
 - The letter is sent from Nidubrolu on 9 June 1964 by Prof. N. C. Ranga, identified on the letterhead as President of the Swatantra Party.

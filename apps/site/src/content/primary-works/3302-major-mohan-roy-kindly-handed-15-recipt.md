@@ -44,6 +44,10 @@ summary: |-
   This single handwritten English archival sheet, marked with the circled reference number 3302, records an internal legal or administrative matter. The writer appears to note that a solicitor was approached on the 23rd and that a response or request had been received approximately two weeks earlier. The note discusses allowing time to reach a settlement amicably and refers to a further meeting on the 28th involving the solicitor and committee members.
 ---
 
+## Summary
+
+This single handwritten English archival sheet, marked with the circled reference number 3302, records an internal legal or administrative matter. The writer appears to note that a solicitor was approached on the 23rd and that a response or request had been received approximately two weeks earlier. The note discusses allowing time to reach a settlement amicably and refers to a further meeting on the 28th involving the solicitor and committee members.
+
 ## Key points
 
 - The sheet is marked with the reference number 3302.

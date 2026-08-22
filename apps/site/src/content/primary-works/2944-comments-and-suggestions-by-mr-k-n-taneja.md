@@ -56,6 +56,12 @@ summary: |-
   The proposed programme combines a middle-class and small-business constituency with support for peasant proprietors, professional managers, and self-employed people. Taneja calls for less state control of economic activity, opposition to monopolistic big business, democratisation and professionalisation of private-sector management, and a greater flow of savings to agriculture except where big industry is essential for national security. He also urges the party to address inflation and the declining value of the rupee through practical public advocacy, support small businesses against large firms, and demonstrate that its programme benefits the general population rather than a privileged class.
 ---
 
+## Summary
+
+This two-page working paper, submitted by K. N. Taneja of Ahmedabad for consideration by the Swatantra Party's General Council, assesses the party's position after the elections to the Fifth Lok Sabha. It credits Indira Gandhi and Congress(R) with converting a national appeal into a decisive electoral victory, while arguing that Swatantra should abandon dependence on ex-rulers, wealthy industrialists, and narrowly anti-socialist slogans. Instead, it should present itself as an all-India party committed to removing poverty, independent of vested interests, and capable of offering a credible alternative to Congress(R).
+
+The proposed programme combines a middle-class and small-business constituency with support for peasant proprietors, professional managers, and self-employed people. Taneja calls for less state control of economic activity, opposition to monopolistic big business, democratisation and professionalisation of private-sector management, and a greater flow of savings to agriculture except where big industry is essential for national security. He also urges the party to address inflation and the declining value of the rupee through practical public advocacy, support small businesses against large firms, and demonstrate that its programme benefits the general population rather than a privileged class.
+
 ## Key points
 
 - The paper attributes Congress(R)'s electoral success partly to Indira Gandhi's nationalist public image and argues that parochial politics suffered major defeats.

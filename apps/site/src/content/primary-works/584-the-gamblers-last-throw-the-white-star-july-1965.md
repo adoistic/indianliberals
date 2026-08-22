@@ -51,3 +51,7 @@ ai:
 summary: |-
   The visible pages from The White Star, July 1965, present a set of liberal and anti-socialist arguments on Indian economic policy, state power, foreign aid, industrial planning, and political engagement. M. R. Masani's “The Gambler's Last Throw” criticises arbitrary taxation, bureaucratic economic management, excessive public expenditure, and dependence on Soviet assistance. The issue also reprints Colin Clark's “The Lure of Steel,” which challenges the belief that steel production is a prerequisite for development, and Jeremy Wolfenden's “Political Rebirth on the Campus,” which describes American university debates over Vietnam and the emergence of more politically engaged students and faculty.
 ---
+
+## Summary
+
+The visible pages from The White Star, July 1965, present a set of liberal and anti-socialist arguments on Indian economic policy, state power, foreign aid, industrial planning, and political engagement. M. R. Masani's “The Gambler's Last Throw” criticises arbitrary taxation, bureaucratic economic management, excessive public expenditure, and dependence on Soviet assistance. The issue also reprints Colin Clark's “The Lure of Steel,” which challenges the belief that steel production is a prerequisite for development, and Jeremy Wolfenden's “Political Rebirth on the Campus,” which describes American university debates over Vietnam and the emergence of more politically engaged students and faculty.

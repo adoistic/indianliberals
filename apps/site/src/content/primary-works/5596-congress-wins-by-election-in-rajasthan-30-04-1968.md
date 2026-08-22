@@ -48,6 +48,10 @@ summary: |-
   The newspaper report, datelined Jaipur, April 29, records Congress victories in two Rajasthan by-elections: the Dausa Lok Sabha seat and the Chomu Assembly seat. It presents the results as a setback for the Swatantra Party, noting that Swatantra had previously won both constituencies in the general elections and that the Dausa contest was decided by a margin of more than 6,300 votes.
 ---
 
+## Summary
+
+The newspaper report, datelined Jaipur, April 29, records Congress victories in two Rajasthan by-elections: the Dausa Lok Sabha seat and the Chomu Assembly seat. It presents the results as a setback for the Swatantra Party, noting that Swatantra had previously won both constituencies in the general elections and that the Dausa contest was decided by a margin of more than 6,300 votes.
+
 ## Key points
 
 - Congress captured the Dausa Lok Sabha and Chomu Assembly seats in Rajasthan.

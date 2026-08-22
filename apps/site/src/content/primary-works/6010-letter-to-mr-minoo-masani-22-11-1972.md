@@ -48,6 +48,12 @@ summary: |-
   The writer adds that JP is otherwise keeping normal health, with blood pressure and heart conditions described as quite good. The letter closes with a personal expression of concern for the recipient’s wellbeing and is signed “Prabhavati (Jayaprakash).” The visible pages do not establish conclusively whether Prabhavati is the author or clarify the full identity of “Minoo.”
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 22 November 1972 and written from Varanasi, is addressed to “Minoo.” The writer reports that a carbuncle has developed in JP’s left hand and explains that, because blood-sugar testing was unavailable in Ballia District, he was brought to Banaras and admitted to the B.H.U. Medical College Hospital. The letter says that his blood sugar is under control, the wound is healing rapidly, and doctors expect him to leave the hospital within five to seven days.
+
+The writer adds that JP is otherwise keeping normal health, with blood pressure and heart conditions described as quite good. The letter closes with a personal expression of concern for the recipient’s wellbeing and is signed “Prabhavati (Jayaprakash).” The visible pages do not establish conclusively whether Prabhavati is the author or clarify the full identity of “Minoo.”
+
 ## Key points
 
 - The letter is dated 22 November 1972 and was written from Varanasi.

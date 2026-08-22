@@ -55,6 +55,12 @@ summary: |-
   The letter also outlines an inspection programme for the party’s Vice-Presidents and lists R. N. Singh Deo, Prof. M. Ruthneswamy, Gayatri Devi of Jaipur, N. Dandekar, and Dahyabhai V. Patel. Their visits are presented as a means of assisting state and regional units, consulting executives, and addressing meetings of workers and the public. Finally, the letter calls for state and regional conventions to be coordinated nationally, with tentative dates supplied by March 15; it cites a similar programme organised in 1966 and notes that the Bombay Regional Convention was scheduled for February 15, 1970.
 ---
 
+## Summary
+
+Dated February 12, 1970, this General Secretary’s letter from the Swatantra Party National Headquarters follows suggestions made at the party’s first newly elected General Council meeting in Madras on December 27–28. Signed by R. C. Cooper, it asks state and regional units to help build a national panel of speakers, providing each speaker’s name, address, party position, languages, and areas of specialisation. The proposed directory is intended to support public meetings in different languages and regions, with names requested by March 20, 1970.
+
+The letter also outlines an inspection programme for the party’s Vice-Presidents and lists R. N. Singh Deo, Prof. M. Ruthneswamy, Gayatri Devi of Jaipur, N. Dandekar, and Dahyabhai V. Patel. Their visits are presented as a means of assisting state and regional units, consulting executives, and addressing meetings of workers and the public. Finally, the letter calls for state and regional conventions to be coordinated nationally, with tentative dates supplied by March 15; it cites a similar programme organised in 1966 and notes that the Bombay Regional Convention was scheduled for February 15, 1970.
+
 ## Key points
 
 - The letter records three organisational proposals arising from the Swatantra Party’s December 1969 General Council meeting.

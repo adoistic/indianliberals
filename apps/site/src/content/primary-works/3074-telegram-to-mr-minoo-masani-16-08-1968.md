@@ -47,6 +47,10 @@ summary: |-
   This one-page English telegram, received on 16 August 1968, is addressed to Minoo Masani in Bombay from New Delhi. It reports that a motion against Morarji Desai is scheduled for discussion on Monday and that a general body meeting will also be held that morning. The message further asks Masani to preside, stating that Professor Ranga has requested this because of his attitude or position. The document is an administrative communication concerning a political organisation's meeting agenda, leadership arrangements, and an apparent Hyderabad matter involving “Jain.”
 ---
 
+## Summary
+
+This one-page English telegram, received on 16 August 1968, is addressed to Minoo Masani in Bombay from New Delhi. It reports that a motion against Morarji Desai is scheduled for discussion on Monday and that a general body meeting will also be held that morning. The message further asks Masani to preside, stating that Professor Ranga has requested this because of his attitude or position. The document is an administrative communication concerning a political organisation's meeting agenda, leadership arrangements, and an apparent Hyderabad matter involving “Jain.”
+
 ## Key points
 
 - The telegram is addressed to Masani in Bombay and originates from New Delhi. It records receipt on 16 August 1968. A motion against Morarji Desai is scheduled for discussion on Monday. A general body meeting is fixed for Monday at 9:30 a.m. The meeting is intended to finalise an attitude or position. Professor Ranga requests that Masani preside.

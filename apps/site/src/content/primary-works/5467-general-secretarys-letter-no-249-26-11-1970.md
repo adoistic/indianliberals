@@ -51,6 +51,12 @@ summary: |-
   The letter uses the successful formation of a national Youth Wing as a model for organizing women. Cooper notes that more than 150 delegates attended the Youth Front's preparatory convention and asks recipients to ensure that as many women as possible from their states are included among the National Convention delegates and attend the Women's Wing meeting. Daftary is identified as the ad-hoc convenor responsible for organizing the meeting, and state contacts are asked to provide her with the names and addresses of women planning to attend.
 ---
 
+## Summary
+
+Dated November 26, 1970, this General Secretary's Letter No. 249 from Swatantra Party national headquarters announces a proposed national Women's Wing. R. C. Cooper writes that a Women's Wing meeting is scheduled for January 29 at 4 p.m. at Shanmukhananda Hall, on the eve of the party's Sixth National Convention, and explains that the meeting is being convened by Mrs. Sharayu Daftary on behalf of the Bombay Regional Unit.
+
+The letter uses the successful formation of a national Youth Wing as a model for organizing women. Cooper notes that more than 150 delegates attended the Youth Front's preparatory convention and asks recipients to ensure that as many women as possible from their states are included among the National Convention delegates and attend the Women's Wing meeting. Daftary is identified as the ad-hoc convenor responsible for organizing the meeting, and state contacts are asked to provide her with the names and addresses of women planning to attend.
+
 ## Key points
 
 - The letter is dated November 26, 1970 and is issued by the Swatantra Party's General Secretary.

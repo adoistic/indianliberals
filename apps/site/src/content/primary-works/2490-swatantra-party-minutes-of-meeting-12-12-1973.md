@@ -54,6 +54,12 @@ summary: |-
   The committee planned a “Rajaji Fortnight” from 8 to 25 December to mark C. Rajagopalachari’s first death anniversary, including a workers’ meeting at state headquarters. Other agenda items concerned closer relations with the press, organising students and labour unions, decentralising membership screening to units and districts, and the party’s position on the forthcoming Bombay Central parliamentary by-election. The committee decided not to contest independently but authorised the chairman to negotiate possible support for Mr. Bhole, an independent candidate backed by other democratic parties. It also considered forthcoming Zilla Parishad elections in Osmanabad and Parbhani and a request to use the party symbol “STAR.”
 ---
 
+## Summary
+
+These minutes record the first meeting of the Executive Committee of the Swatantra Party’s Maharashtra unit, held at the party office in Bombay on 12 December 1973. The meeting reviewed the party’s organisational position, noting that statewide membership stood at only 2,000 and urging members to recruit actively, broaden the party’s geographical base, and establish or revive district and primary units. The committee also discussed complaints concerning elections in Poona District and the Poona City Primary Unit, referring them to an Election Tribunal appointed by the national headquarters.
+
+The committee planned a “Rajaji Fortnight” from 8 to 25 December to mark C. Rajagopalachari’s first death anniversary, including a workers’ meeting at state headquarters. Other agenda items concerned closer relations with the press, organising students and labour unions, decentralising membership screening to units and districts, and the party’s position on the forthcoming Bombay Central parliamentary by-election. The committee decided not to contest independently but authorised the chairman to negotiate possible support for Mr. Bhole, an independent candidate backed by other democratic parties. It also considered forthcoming Zilla Parishad elections in Osmanabad and Parbhani and a request to use the party symbol “STAR.”
+
 ## Key points
 
 - The Maharashtra executive reviewed party membership and the condition of district and primary units.

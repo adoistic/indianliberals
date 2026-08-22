@@ -50,6 +50,12 @@ summary: |-
   Patodia specifically objects to compulsory union membership, statutory formation of unions, compulsory student representation in university bodies, and automatic deductions from tuition fees for union subscriptions. He contends that these measures could turn universities into a “political chess-board” and place substantial financial resources under partisan control. Citing an alleged Rs. 20,000 expenditure on one university-union election and a proposal to provide permanent conveyances for union office-bearers, he urges that the Bill be circulated for public opinion and revised before returning to Parliament. The rendered pages include the complete four-page scanned item: the covering letter and the separately paginated speech.
 ---
 
+## Summary
+
+This 5 April 1969 letter from D. N. Patodia to Minoo Masani transmits Patodia’s short Lok Sabha speech of 3 April on Madhu Limaye’s Bill concerning the compulsory formation of students’ unions. Patodia agrees with the Bill’s broad aim of encouraging constructive coordination between students and educational authorities, and of directing student energy toward education rather than political activity. He nevertheless argues that several provisions would make student organisations vulnerable to takeover by political parties and other outside interests.
+
+Patodia specifically objects to compulsory union membership, statutory formation of unions, compulsory student representation in university bodies, and automatic deductions from tuition fees for union subscriptions. He contends that these measures could turn universities into a “political chess-board” and place substantial financial resources under partisan control. Citing an alleged Rs. 20,000 expenditure on one university-union election and a proposal to provide permanent conveyances for union office-bearers, he urges that the Bill be circulated for public opinion and revised before returning to Parliament. The rendered pages include the complete four-page scanned item: the covering letter and the separately paginated speech.
+
 ## Key points
 
 - The letter encloses a Lok Sabha speech delivered on 3 April 1969 concerning compulsory student unions.

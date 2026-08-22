@@ -50,6 +50,12 @@ summary: |-
   Masani explains that his proposal to convert the Party into a non-party organisation is not merely an accommodation of people seeking to form a new party. He argues that changed conditions have left the existing political parties, including his own, with little future, and that the time is appropriate for non-party educational work in response to developing revolutionary conditions.
 ---
 
+## Summary
+
+In this letter dated July 15, 1974, M. R. Masani responds to Sumatilal P. Shah's proposal that the Party's National Convention be cancelled. Masani rejects cancellation as neither practical nor desirable and asks Shah to state his point of view.
+
+Masani explains that his proposal to convert the Party into a non-party organisation is not merely an accommodation of people seeking to form a new party. He argues that changed conditions have left the existing political parties, including his own, with little future, and that the time is appropriate for non-party educational work in response to developing revolutionary conditions.
+
 ## Key points
 
 - Masani rejects cancelling the Party's National Convention.

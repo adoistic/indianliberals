@@ -50,6 +50,12 @@ summary: |-
   Masani notes that these committees are expected to meet in early August to consider the issues and advises Jain to take no action on the no-confidence matter for the time being. He distinguishes this from the tabling of questions, which he says each individual member may decide independently. The letter is a concise statement about party procedure, institutional competence, and parliamentary judgment.
 ---
 
+## Summary
+
+In this letter dated June 18, 1963, M. R. Masani replies to A. P. Jain about developments concerning the India-China frontier and the possibility of a no-confidence motion. Masani stresses that neither he nor any individual can decide whether such a motion should proceed: that authority rests with the Central Organising Committee or the Parliamentary Board.
+
+Masani notes that these committees are expected to meet in early August to consider the issues and advises Jain to take no action on the no-confidence matter for the time being. He distinguishes this from the tabling of questions, which he says each individual member may decide independently. The letter is a concise statement about party procedure, institutional competence, and parliamentary judgment.
+
 ## Key points
 
 - Masani acknowledges Jain's letter of June 15, 1963, concerning developments on the India-China frontier.

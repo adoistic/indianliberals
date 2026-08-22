@@ -53,6 +53,12 @@ summary: |-
   The later tables turn to state assembly results, especially the effects of opposition alliances in Gujarat and Uttar Pradesh. They compare party performance across states and constituencies, including vote swings in alliance and non-alliance contests. Additional tables examine assembly outcomes in Orissa, Pondicherry, Manipur, and Nagaland, and calculate the Congress's vote-seat multiplier. The compilation is primarily descriptive: it provides comparative electoral evidence on party competition, alliances, regional variation, and the relationship between votes and representation. One table is identified as being drawn from an article by Stanley Heginbotham in Asian Survey; the document's own compiler and institutional provenance are not stated.
 ---
 
+## Summary
+
+This statistical report compiles voting and seat trends in Indian elections from 1952 through 1974. Its opening tables compare the Congress and other major parties in Lok Sabha elections, showing the Congress's continuing dominance alongside the gradual growth of non-Congress parties, including the CPI, CPI (Marxist), Bharatiya Jana Sangh, Swatantra, and Congress (Organisation). The tables distinguish vote share from seat share, making visible the conversion of pluralities into disproportionately large legislative majorities.
+
+The later tables turn to state assembly results, especially the effects of opposition alliances in Gujarat and Uttar Pradesh. They compare party performance across states and constituencies, including vote swings in alliance and non-alliance contests. Additional tables examine assembly outcomes in Orissa, Pondicherry, Manipur, and Nagaland, and calculate the Congress's vote-seat multiplier. The compilation is primarily descriptive: it provides comparative electoral evidence on party competition, alliances, regional variation, and the relationship between votes and representation. One table is identified as being drawn from an article by Stanley Heginbotham in Asian Survey; the document's own compiler and institutional provenance are not stated.
+
 ## Key points
 
 - The report compares Lok Sabha voting and seat trends from 1952 to 1971.

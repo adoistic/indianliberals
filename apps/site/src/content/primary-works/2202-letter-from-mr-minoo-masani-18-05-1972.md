@@ -49,6 +49,12 @@ summary: |-
   Masani notes that Patodia could attend the forthcoming meeting in Madras and, if necessary, tender his resignation there. The page also contains handwritten annotations, including a suggestion to enlist subscribers for Freedom First and a reference to page 16.
 ---
 
+## Summary
+
+In this letter dated 18 May 1972, Minoo Masani replies to D. M. Patodia's letter of 15 May concerning an internal controversy within the party. Masani says he has tried to stay out of the dispute and doubts that the proposed changes will produce significant results. He advises Patodia to follow his own instincts, while suggesting that resignation need not be submitted immediately.
+
+Masani notes that Patodia could attend the forthcoming meeting in Madras and, if necessary, tender his resignation there. The page also contains handwritten annotations, including a suggestion to enlist subscribers for Freedom First and a reference to page 16.
+
 ## Key points
 
 - Masani responds to D. M. Patodia's letter of 15 May 1972.

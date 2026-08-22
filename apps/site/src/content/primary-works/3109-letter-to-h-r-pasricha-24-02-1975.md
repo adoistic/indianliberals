@@ -50,6 +50,12 @@ summary: |-
   The letter’s second subject is a planned demonstration before Parliament on 6 March under the leadership of Jayaprakash Narayan. Raju asks Pasricha to arrange approximately 20–25 volunteers from outside Delhi to join the demonstration, presenting their participation as a symbolic expression of support for Narayan’s movement. The page also contains handwritten editorial or drafting annotations, some of which are difficult to decipher.
 ---
 
+## Summary
+
+This one-page letter, dated 24 February 1975, records S. V. Raju’s follow-up to Dr. H. R. Pasricha after a meeting in Delhi. Raju asks for a copy of the minutes of the National Executive meeting held in Bombay the previous month, noting that the minutes still need confirmation and promising to return them after making a copy.
+
+The letter’s second subject is a planned demonstration before Parliament on 6 March under the leadership of Jayaprakash Narayan. Raju asks Pasricha to arrange approximately 20–25 volunteers from outside Delhi to join the demonstration, presenting their participation as a symbolic expression of support for Narayan’s movement. The page also contains handwritten editorial or drafting annotations, some of which are difficult to decipher.
+
 ## Key points
 
 - Raju writes to H. R. Pasricha on 24 February 1975 after meeting him in Delhi.

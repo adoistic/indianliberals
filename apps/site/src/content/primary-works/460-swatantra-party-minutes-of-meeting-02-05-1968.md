@@ -56,6 +56,12 @@ summary: |-
   The minutes also allocate party speakers for forthcoming parliamentary business, including the Public Provident Fund Bill, state budgets, the Civil Defence Bill, Pondicherry legislation, and a resolution concerning diplomatic recognition of East Germany. The Committee decided to maintain a chart of speakers and advised members to resign from Consultative Committees because the Prime Minister had not accepted the Opposition leaders’ proposals, while allowing participation in railway consultative committees.
 ---
 
+## Summary
+
+This two-page English office record documents a meeting of the Swatantra Party’s Executive Committee in Parliament held on 2 May 1968 at the Party Room, Central Hall, New Delhi. It lists the members present and records administrative decisions concerning the Defection Committee, a proposed Parliamentary session in Bangalore, reported moves by members to form Bhim Sena, committee elections, and party discipline concerning joint memoranda and voting instructions.
+
+The minutes also allocate party speakers for forthcoming parliamentary business, including the Public Provident Fund Bill, state budgets, the Civil Defence Bill, Pondicherry legislation, and a resolution concerning diplomatic recognition of East Germany. The Committee decided to maintain a chart of speakers and advised members to resign from Consultative Committees because the Prime Minister had not accepted the Opposition leaders’ proposals, while allowing participation in railway consultative committees.
+
 ## Key points
 
 - The Executive Committee met on 2 May 1968 with twelve members present and P. K. Deo as a special invitee.

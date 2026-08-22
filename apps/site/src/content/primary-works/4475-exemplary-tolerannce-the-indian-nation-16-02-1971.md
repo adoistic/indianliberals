@@ -50,6 +50,10 @@ summary: |-
   “Exemplary Tolerance,” an unsigned editorial published in The Indian Nation on 16 February 1971, discusses the Masani family’s differing political choices during the Bihar elections. It praises Minoo Masani for allowing his wife and son to campaign for the Ruling Congress while he himself contested as a Swatantra Party candidate, presenting this as an example of democratic tolerance within a family. The editorial argues that political conviction should not become domestic coercion and that democratic values require individuals to exercise their own judgment.
 ---
 
+## Summary
+
+“Exemplary Tolerance,” an unsigned editorial published in The Indian Nation on 16 February 1971, discusses the Masani family’s differing political choices during the Bihar elections. It praises Minoo Masani for allowing his wife and son to campaign for the Ruling Congress while he himself contested as a Swatantra Party candidate, presenting this as an example of democratic tolerance within a family. The editorial argues that political conviction should not become domestic coercion and that democratic values require individuals to exercise their own judgment.
+
 ## Key points
 
 - The editorial praises the Masani family’s tolerance of differing political affiliations during the Bihar election.

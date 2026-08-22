@@ -50,6 +50,12 @@ summary: |-
   Jain is awaiting Masani's reply before asking the Prime Minister's Secretariat to reschedule the meeting. The letter also seeks clarification about whether “Prof Ranga” will attend a meeting with the Prime Minister and tells Masani that Ranga's programme will be known when Masani meets him in Bangalore. The second rendered page is the addressed postal envelope; no further substantive correspondence is visible.
 ---
 
+## Summary
+
+This letter, dated 10 June 1966 and written on Swatantra Party Parliamentary Office letterhead, concerns arrangements for a meeting between Minoo Masani and the Prime Minister. A. P. Jain reports that the Prime Minister had agreed to discuss the Government of India's decision on rupee devaluation on Monday, 13 June, at 5 p.m. in her South Block office, but notes that the proposed timing may conflict with Masani's commitments to the Bangalore Convention.
+
+Jain is awaiting Masani's reply before asking the Prime Minister's Secretariat to reschedule the meeting. The letter also seeks clarification about whether “Prof Ranga” will attend a meeting with the Prime Minister and tells Masani that Ranga's programme will be known when Masani meets him in Bangalore. The second rendered page is the addressed postal envelope; no further substantive correspondence is visible.
+
 ## Key points
 
 - The letter is dated 10 June 1966 and was issued from the Swatantra Party Parliamentary Office in New Delhi.

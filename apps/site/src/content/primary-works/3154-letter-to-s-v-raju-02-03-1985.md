@@ -44,6 +44,10 @@ summary: |-
   In this handwritten letter dated 2 March 1985, Minoo Masani replies to S. V. Raju’s letter of 28 February 1985. Masani welcomes Raju’s decision to prepare a booklet on Swatantra and refers to his own writings from 1963 onward. He regrets that he has no records or papers relating to those writings, but closes by wishing Raju success.
 ---
 
+## Summary
+
+In this handwritten letter dated 2 March 1985, Minoo Masani replies to S. V. Raju’s letter of 28 February 1985. Masani welcomes Raju’s decision to prepare a booklet on Swatantra and refers to his own writings from 1963 onward. He regrets that he has no records or papers relating to those writings, but closes by wishing Raju success.
+
 ## Key points
 
 - The letter is dated 2 March 1985 and is written from Munshi Sadan, Bombay.

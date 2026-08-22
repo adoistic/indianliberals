@@ -52,6 +52,12 @@ summary: |-
   He also rejects the suggestion that he should refrain from attacking Morarji Desai because Desai is regarded as a rightist. For Rajagopalachari, the substance of policy matters more than political labels: a bad budget and tyranny are objectionable whether or not the finance minister is friendly toward businessmen. The letter closes with a note of personal unease, as Rajagopalachari worries that Masani's concerns may indicate that he is associated with a political company unsuited to him.
 ---
 
+## Summary
+
+In this letter dated 29 July 1963, C. Rajagopalachari responds to Minoo Masani's suggestion that he is adopting an unduly hostile position toward V. K. Krishna Menon and should show greater appreciation for Communist ideas. Rajagopalachari rejects that characterization, insisting that his opposition to Communism is not incompatible with literary or personal courtesy.
+
+He also rejects the suggestion that he should refrain from attacking Morarji Desai because Desai is regarded as a rightist. For Rajagopalachari, the substance of policy matters more than political labels: a bad budget and tyranny are objectionable whether or not the finance minister is friendly toward businessmen. The letter closes with a note of personal unease, as Rajagopalachari worries that Masani's concerns may indicate that he is associated with a political company unsuited to him.
+
 ## Key points
 
 - Rajagopalachari denies being a dogmatic opponent of V. K. Krishna Menon.

@@ -49,6 +49,10 @@ summary: |-
   This two-page letter, dated 2 January 1975 and signed by V. S. Srikumar as Joint Secretary of the All India Swatantra Party, urges the Election Commission not to act on a resolution passed by a purported National Convention of the party. Srikumar argues that the convention's attempt to dissolve or merge the Swatantra Party into the BLD was unconstitutional and legally ineffective, while asserting that the party remained operational despite some members having defected. He reports that the party's General Council had elected G. K. Sundaram as President, Girish Munshi as General Secretary, and himself as Joint Secretary, and had moved the party's headquarters from Bombay to Madras.
 ---
 
+## Summary
+
+This two-page letter, dated 2 January 1975 and signed by V. S. Srikumar as Joint Secretary of the All India Swatantra Party, urges the Election Commission not to act on a resolution passed by a purported National Convention of the party. Srikumar argues that the convention's attempt to dissolve or merge the Swatantra Party into the BLD was unconstitutional and legally ineffective, while asserting that the party remained operational despite some members having defected. He reports that the party's General Council had elected G. K. Sundaram as President, Girish Munshi as General Secretary, and himself as Joint Secretary, and had moved the party's headquarters from Bombay to Madras.
+
 ## Key points
 
 - The letter asks the Election Commission not to freeze or reassign the Swatantra Party's star symbol, “STAR.”

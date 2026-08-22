@@ -49,6 +49,12 @@ summary: |-
   Masani recommends keeping the Gujarat dates open because they may coincide with elections, and offers to mediate “between the Kilkenny cats.” He closes by wishing Narayan satisfaction and success in 1975. The letter is practical and cordial, combining logistical planning with an apparent effort to facilitate political or organisational cooperation.
 ---
 
+## Summary
+
+In this one-page letter dated December 31, 1974, Minoo Masani writes to Jayaprakash Narayan (“J.P.”) about arrangements for a proposed visit. A tea reception in Bombay planned for January 21 has been abandoned because of difficulties, including Ramkrishna Bajaj’s request to be excused from serving as a host. Masani also refers to a report that Narayan’s three-day visit to Gujarat has been revived for July 15.
+
+Masani recommends keeping the Gujarat dates open because they may coincide with elections, and offers to mediate “between the Kilkenny cats.” He closes by wishing Narayan satisfaction and success in 1975. The letter is practical and cordial, combining logistical planning with an apparent effort to facilitate political or organisational cooperation.
+
 ## Key points
 
 - Masani informs Jayaprakash Narayan that a tea reception planned during his Bombay visit from January 21 has been abandoned.

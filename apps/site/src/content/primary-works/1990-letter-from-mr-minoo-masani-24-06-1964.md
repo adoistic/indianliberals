@@ -50,6 +50,10 @@ summary: |-
   This bilingual archival correspondence file centers on M. R. Masani’s express-delivery letter of 24 June 1964 to Dr. L. M. Singhvi. Masani asks Singhvi to communicate his decision about his future course of action after a recent discussion in Delhi involving Maharani Gayatri Devi. Masani explains that the Parliamentary Board and the Central Organising Committee of the party are due to meet in Bombay on 29 June and need an indication of Singhvi’s intentions for their planning.
 ---
 
+## Summary
+
+This bilingual archival correspondence file centers on M. R. Masani’s express-delivery letter of 24 June 1964 to Dr. L. M. Singhvi. Masani asks Singhvi to communicate his decision about his future course of action after a recent discussion in Delhi involving Maharani Gayatri Devi. Masani explains that the Parliamentary Board and the Central Organising Committee of the party are due to meet in Bombay on 29 June and need an indication of Singhvi’s intentions for their planning.
+
 ## Key points
 
 - Masani writes to Dr. L. M. Singhvi on 24 June 1964 and requests an immediate reply.

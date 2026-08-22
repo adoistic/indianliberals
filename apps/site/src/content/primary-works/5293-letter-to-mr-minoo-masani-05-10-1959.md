@@ -47,6 +47,10 @@ summary: |-
   In this letter dated Paris, 5 October 1959, Sena Segal reports to Minoo Kol, chairman of the Progressive Party in Jerusalem, on the recent Liberal International Congress in Gardone. Segal notes that M. R. Masani participated among the Indian delegates and promises to send a fuller report of the proceedings.
 ---
 
+## Summary
+
+In this letter dated Paris, 5 October 1959, Sena Segal reports to Minoo Kol, chairman of the Progressive Party in Jerusalem, on the recent Liberal International Congress in Gardone. Segal notes that M. R. Masani participated among the Indian delegates and promises to send a fuller report of the proceedings.
+
 ## Key points
 
 - The letter was sent from Paris on 5 October 1959.

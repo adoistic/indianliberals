@@ -50,6 +50,12 @@ summary: |-
   Masani presents the bill as a matter of “the greatest political and economic significance” and argues that the Swatantra Party’s position must be stated clearly and forcefully by its authorised spokesmen. The letter records a tactical intervention in parliamentary debate rather than a detailed exposition of the party’s substantive objections to the bill.
 ---
 
+## Summary
+
+In this one-page letter dated August 12, 1969, M. R. Masani writes from Parliament House, New Delhi, to Prof. N. G. Ranga, leader of the Swatantra Party in Parliament. Masani asks to speak on behalf of the party when the Monopolies Bill is discussed in the Lok Sabha, noting that N. Dandekar also wishes to speak.
+
+Masani presents the bill as a matter of “the greatest political and economic significance” and argues that the Swatantra Party’s position must be stated clearly and forcefully by its authorised spokesmen. The letter records a tactical intervention in parliamentary debate rather than a detailed exposition of the party’s substantive objections to the bill.
+
 ## Key points
 
 - M. R. Masani wrote the letter from Parliament House, New Delhi, on August 12, 1969.

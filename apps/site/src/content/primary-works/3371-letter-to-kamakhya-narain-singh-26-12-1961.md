@@ -49,6 +49,12 @@ summary: |-
   Masani declines to comment in detail on the issues raised because they are to be considered by the Sub-committee. He nevertheless reports that a sum of Rs. 22,500, representing the first instalment for three endorsed Parliamentary constituencies in Darbhanga, has already been paid to the district president. He also confirms that no further payments will be made to Darbhanga, Saharsa, or Purnea until the Sub-committee has met, and notes that Mr. Punyanand Jha has returned to his original list and position.
 ---
 
+## Summary
+
+In this letter dated 26 December 1961, M. R. Masani responds to telegrams from Shri Kamakhya Narain Singh concerning the scheduling of a meeting of the Parliamentary Sub-committee in Madras. Masani says he has contacted the President and Rajaji to identify a mutually convenient date between 5 and 10 January 1962 and promises to notify the other members once a date is fixed.
+
+Masani declines to comment in detail on the issues raised because they are to be considered by the Sub-committee. He nevertheless reports that a sum of Rs. 22,500, representing the first instalment for three endorsed Parliamentary constituencies in Darbhanga, has already been paid to the district president. He also confirms that no further payments will be made to Darbhanga, Saharsa, or Purnea until the Sub-committee has met, and notes that Mr. Punyanand Jha has returned to his original list and position.
+
 ## Key points
 
 - Masani acknowledges telegrams dated 22 and 24 December from Kamakhya Narain Singh.

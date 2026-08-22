@@ -51,6 +51,12 @@ summary: |-
   Masani cites turnout figures to qualify the result: only 54.81 per cent of electors voted, and the New Congress received 43.64 per cent of the votes cast—equivalent to 23.91 per cent of the total electorate. He also argues that the electorate rejected every fourth Indian candidate associated with the New Congress, while many voters supported other parties or did not vote at all. The article concludes with his warning that the country could face an unprecedented crisis within the next two years if expectations among the starving masses remain unfulfilled.
 ---
 
+## Summary
+
+The article reports Minoo Masani’s explanation of Indira Gandhi’s 1971 electoral victory, identifying three decisive factors: a personality cult surrounding Gandhi, the use of money power, and the absence of a convincing alternative. Speaking at a Rotary Club of Bombay meeting, Masani argues that Congress’s victory should not be read as evidence of overwhelming popular support.
+
+Masani cites turnout figures to qualify the result: only 54.81 per cent of electors voted, and the New Congress received 43.64 per cent of the votes cast—equivalent to 23.91 per cent of the total electorate. He also argues that the electorate rejected every fourth Indian candidate associated with the New Congress, while many voters supported other parties or did not vote at all. The article concludes with his warning that the country could face an unprecedented crisis within the next two years if expectations among the starving masses remain unfulfilled.
+
 ## Key points
 
 - Masani attributes Indira Gandhi’s victory to personality cult, money power, and the lack of a credible alternative.

@@ -50,6 +50,12 @@ summary: |-
   The agreement specifies deadlines, repayment obligations, title-transfer procedures, and alternative financial settlements involving the Central Bank of India Limited. It requires the first party to hand over fifteen jeeps by 18 January 1962, while the second party assumes responsibility for specified instalments or may instead pay ₹170,000 plus interest and related charges. The document also addresses vehicles already delivered to parliamentary candidates and requires both parties to complete the transaction without third-party interference.
 ---
 
+## Summary
+
+This two-page English draft memorandum of agreement, dated 1962, records an arrangement between the Rajah of Ramgarh and the Swatantra Party, represented by its Treasurer. It supersedes earlier arrangements involving the Rajah and M. R. Masani and sets out the transfer and financing of fifteen jeeps intended for Swatantra Party nominees and parliamentary candidates during the forthcoming elections.
+
+The agreement specifies deadlines, repayment obligations, title-transfer procedures, and alternative financial settlements involving the Central Bank of India Limited. It requires the first party to hand over fifteen jeeps by 18 January 1962, while the second party assumes responsibility for specified instalments or may instead pay ₹170,000 plus interest and related charges. The document also addresses vehicles already delivered to parliamentary candidates and requires both parties to complete the transaction without third-party interference.
+
 ## Key points
 
 - The document is explicitly marked “DRAFT” and is dated 1962.

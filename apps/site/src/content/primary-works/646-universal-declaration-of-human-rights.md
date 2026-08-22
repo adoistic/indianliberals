@@ -59,6 +59,12 @@ summary: |-
   Articles 13–21 address freedom of movement, asylum, nationality, marriage and family, property, thought and religion, opinion and expression, peaceful assembly and association, and participation in government through equal public service and genuine elections. Articles 22–27 set out social, economic and cultural rights, including social security, work, equal pay, trade-union membership, rest, an adequate standard of living, education, and participation in cultural and scientific life. The closing Articles 28–30 describe the social and international order necessary to realise these rights, the duties owed to the community, lawful limits protecting others and the general welfare, and the prohibition on using the Declaration to destroy its rights and freedoms.
 ---
 
+## Summary
+
+This six-page English document reproduces the Universal Declaration of Human Rights, beginning with the General Assembly’s proclamation of the Declaration as a common standard of achievement for all peoples and nations. Articles 1–12 establish universal equality and dignity, non-discrimination, the rights to life and liberty, protection from slavery and torture, recognition before the law, effective remedy, freedom from arbitrary detention, fair trial, presumption of innocence, and privacy.
+
+Articles 13–21 address freedom of movement, asylum, nationality, marriage and family, property, thought and religion, opinion and expression, peaceful assembly and association, and participation in government through equal public service and genuine elections. Articles 22–27 set out social, economic and cultural rights, including social security, work, equal pay, trade-union membership, rest, an adequate standard of living, education, and participation in cultural and scientific life. The closing Articles 28–30 describe the social and international order necessary to realise these rights, the duties owed to the community, lawful limits protecting others and the general welfare, and the prohibition on using the Declaration to destroy its rights and freedoms.
+
 ## Key points
 
 - The General Assembly presents human rights as a common standard for all peoples and nations.

@@ -52,6 +52,12 @@ summary: |-
   The May 29 letter highlights K. M. Munshi’s opposition to centralisation and his support for a federal structure, describing this as consistent with the Swatantra Party’s position. The May 25 letter discusses press coverage of the party and relays N. Dandekar’s reported view that anti-Congress postures are not always desirable, and that coalition with Congress may be appropriate where the response is sufficiently favourable and Congress is not dominated by left-wing elements or “fellow travellers.”
 ---
 
+## Summary
+
+This two-page correspondence from the Swatantra Party Parliamentary Office consists of letters signed by A. P. Jain and addressed to M. R. Masani. The leaves are dated May 29 and May 25, 1968, respectively, so their chronological order is uncertain. Jain forwards press clippings concerning the party’s positions and internal developments, asking Masani to consult them before participating in General Council deliberations.
+
+The May 29 letter highlights K. M. Munshi’s opposition to centralisation and his support for a federal structure, describing this as consistent with the Swatantra Party’s position. The May 25 letter discusses press coverage of the party and relays N. Dandekar’s reported view that anti-Congress postures are not always desirable, and that coalition with Congress may be appropriate where the response is sufficiently favourable and Congress is not dominated by left-wing elements or “fellow travellers.”
+
 ## Key points
 
 - A. P. Jain forwards newspaper clippings to M. R. Masani for use in Swatantra Party General Council deliberations.

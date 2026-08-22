@@ -50,6 +50,12 @@ summary: |-
   The pages also contain substantial handwritten annotation: a circled “3539,” arrows, insertions, strike-throughs, and a handwritten “Summary” at the foot of the second page. The visible summary figures appear to revise or count donors, advertisers, and new entries, but the handwriting and overstriking make the exact totals uncertain. No author, issuing organisation, date, place, printed title, or explanatory prose is visible.
 ---
 
+## Summary
+
+This two-page English-language office record is an untitled tabulation headed “Donor,” “Advertiser,” and “New.” It lists companies and industrial groups associated with what appears to be a contribution or advertising drive, with entries distributed across the three columns. The record includes firms such as Associated Cement Cos., Bombay Dyeing & Mfg. Co. Ltd., Tata Industries Pvt. Ltd., Walchand Group of Industries, National Rayon Corporation, and Premier Automobiles Ltd.
+
+The pages also contain substantial handwritten annotation: a circled “3539,” arrows, insertions, strike-throughs, and a handwritten “Summary” at the foot of the second page. The visible summary figures appear to revise or count donors, advertisers, and new entries, but the handwriting and overstriking make the exact totals uncertain. No author, issuing organisation, date, place, printed title, or explanatory prose is visible.
+
 ## Key points
 
 - The document consists of two typed pages arranged in three columns: “Donor,” “Advertiser,” and “New.”

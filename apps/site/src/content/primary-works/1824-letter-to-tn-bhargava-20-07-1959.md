@@ -53,6 +53,12 @@ summary: |-
   The letter argues that young men and women must seriously study the country's problems and arrive at independent judgments about their solutions. The sender closes by expressing confidence in the proposed forum's success. The sender's name is not clearly visible on the rendered page; the letterhead appears to read “THE EASTERN ECONOMIST.”
 ---
 
+## Summary
+
+This one-page letter, dated 20 July 1959 and addressed to T. N. Bhargava in Allahabad, acknowledges Bhargava, Mr. Dwivedi, and Mr. Nair's agreement with the objectives of the newly formed Swatantra Party. The writer welcomes their proposal to establish a study forum among Allahabad students and links political education with the strengthening of democratic institutions.
+
+The letter argues that young men and women must seriously study the country's problems and arrive at independent judgments about their solutions. The sender closes by expressing confidence in the proposed forum's success. The sender's name is not clearly visible on the rendered page; the letterhead appears to read “THE EASTERN ECONOMIST.”
+
 ## Key points
 
 - The writer thanks T. N. Bhargava, Mr. Dwivedi, and Mr. Nair for their letter of 10 July 1959.

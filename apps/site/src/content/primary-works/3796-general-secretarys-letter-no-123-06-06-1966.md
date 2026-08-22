@@ -53,6 +53,12 @@ summary: |-
   The letter also establishes procedures for recommending Assembly candidates. Recommendations must include the candidate’s consent and specified supporting information; State Parliamentary Boards are made responsible for careful scrutiny, while the Central Parliamentary Board may send representatives or approve unanimous recommendations by circular. The letter stresses both the need to select candidates capable of winning in 1967 and the political importance of maintaining secrecy in nominations of Scheduled Caste candidates. It concludes by assigning State Officers continuing reporting and coordination duties and promising cooperation from the Central Office.
 ---
 
+## Summary
+
+Dated June 6, 1966, this General Secretary’s Letter from the Swatantra Party Central Office records decisions of the Central Parliamentary Board on prospective parliamentary candidates, three-member constituency committees, and full-time field organisers. It places field organisers directly under the supervision of candidates and constituency committees, asks State Units to review committee composition and coordinate joint meetings, and urges them to exercise stronger leadership over constituency-level work.
+
+The letter also establishes procedures for recommending Assembly candidates. Recommendations must include the candidate’s consent and specified supporting information; State Parliamentary Boards are made responsible for careful scrutiny, while the Central Parliamentary Board may send representatives or approve unanimous recommendations by circular. The letter stresses both the need to select candidates capable of winning in 1967 and the political importance of maintaining secrecy in nominations of Scheduled Caste candidates. It concludes by assigning State Officers continuing reporting and coordination duties and promising cooperation from the Central Office.
+
 ## Key points
 
 - The Central Parliamentary Board approved proposals concerning parliamentary candidates, three-member committees, and field organisers.

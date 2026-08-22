@@ -51,6 +51,12 @@ summary: |-
   Singh Deo also attacks what he describes as the central leadership's “perverse and suicidal attitude,” arguing that it has displaced sympathy for Mrs. Nandini Satpathy and would strengthen the Communist-led Congress Party and the Communist-led Congress Government at the Centre. He further criticises the leadership for issuing untimely and impolitic letters and statements, and says it was too late to object to the State election decision to join the Orissa United Praja Party. The clipping reports only Singh Deo's response; it does not provide Masani's original remarks in full or any reply from the other parties.
 ---
 
+## Summary
+
+This Indian Express report dated 18 April 1973 records a public rebuttal by veteran Swatantra Party leader and former Orissa Chief Minister R. N. Singh Deo to M. R. Masani. Singh Deo criticises Masani's remarks at the Swatantra Party convention in Madras, particularly Masani's proposal that the party join hands with Biju Patnaik to form the Orissa Pragati Party. He argues that Masani's “rigid and puritanical stand” has weakened the party and says conditions in Orissa cannot be judged from the standpoint of more prosperous and developed Maharashtra.
+
+Singh Deo also attacks what he describes as the central leadership's “perverse and suicidal attitude,” arguing that it has displaced sympathy for Mrs. Nandini Satpathy and would strengthen the Communist-led Congress Party and the Communist-led Congress Government at the Centre. He further criticises the leadership for issuing untimely and impolitic letters and statements, and says it was too late to object to the State election decision to join the Orissa United Praja Party. The clipping reports only Singh Deo's response; it does not provide Masani's original remarks in full or any reply from the other parties.
+
 ## Key points
 
 - R. N. Singh Deo rejects M. R. Masani's criticism of the Orissa Swatantra Party.

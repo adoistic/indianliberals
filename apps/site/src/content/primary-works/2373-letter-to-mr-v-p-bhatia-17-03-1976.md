@@ -49,6 +49,10 @@ summary: |-
   In this letter dated March 17, 1976, M. R. Masani writes to V. P. Bhatia about unpaid motor-vehicle taxes on three jeeps: MRG 2184, registered in Masani’s name, and MRG 2183 and MRG 2185, registered in S. V. Raju’s name. Masani explains that the vehicles had formerly been registered in the names of Raju and Masani during their association with the Swatantra Party, and assumes they were sold after the 1971 elections. He asks Bhatia to urgently provide the purchasers’ names and addresses, the dates of sale, and copies of any correspondence notifying the Regional Transport Office and the Bombay Municipal Corporation.
 ---
 
+## Summary
+
+In this letter dated March 17, 1976, M. R. Masani writes to V. P. Bhatia about unpaid motor-vehicle taxes on three jeeps: MRG 2184, registered in Masani’s name, and MRG 2183 and MRG 2185, registered in S. V. Raju’s name. Masani explains that the vehicles had formerly been registered in the names of Raju and Masani during their association with the Swatantra Party, and assumes they were sold after the 1971 elections. He asks Bhatia to urgently provide the purchasers’ names and addresses, the dates of sale, and copies of any correspondence notifying the Regional Transport Office and the Bombay Municipal Corporation.
+
 ## Key points
 
 - Masani’s letter is dated March 17, 1976, and addressed to V. P. Bhatia.

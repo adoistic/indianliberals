@@ -52,6 +52,12 @@ summary: |-
   The statement outlines a programme centred on public education, research, and institutional exchange. It proposes brochures and books on Commonwealth affairs, lectures by Commonwealth high commissioners, research on Commonwealth history, branches across India, affiliation with similar organisations abroad, and eventually a Commonwealth House in New Delhi with research and residential facilities. The accompanying “Aims and Objects” document specifies meeting space, libraries and newspaper rooms, publications, lectures, comparative studies, student information services, cultural programmes, and funding through membership fees, donations, public collections, charity and advertising campaigns, travel programmes, and Commonwealth House membership.
 ---
 
+## Summary
+
+This two-page statement presents the Commonwealth Club of India as a non-political, non-sectarian organisation intended to strengthen understanding and friendly relations among Commonwealth peoples and countries. Its rationale is set against ideological division between the Eastern and Western blocs, the memory of the Second World War, the perceived threat of expanding Soviet power, and disagreements within the Commonwealth over issues including apartheid, the European Common Market, and British arms aid to India. The Club is described as an effort to preserve Commonwealth traditions while encouraging wider international understanding.
+
+The statement outlines a programme centred on public education, research, and institutional exchange. It proposes brochures and books on Commonwealth affairs, lectures by Commonwealth high commissioners, research on Commonwealth history, branches across India, affiliation with similar organisations abroad, and eventually a Commonwealth House in New Delhi with research and residential facilities. The accompanying “Aims and Objects” document specifies meeting space, libraries and newspaper rooms, publications, lectures, comparative studies, student information services, cultural programmes, and funding through membership fees, donations, public collections, charity and advertising campaigns, travel programmes, and Commonwealth House membership.
+
 ## Key points
 
 - The Club is defined as a non-political and non-sectarian organisation headquartered in New Delhi.

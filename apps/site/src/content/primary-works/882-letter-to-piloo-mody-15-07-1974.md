@@ -47,6 +47,10 @@ summary: |-
   In this letter dated July 15, 1974, M. R. Masani acknowledges Piloo Mody’s draft resolution and objects that Mody has sent a direct negotiation of Masani’s earlier draft rather than revising it as expected. Masani states that Mody’s proposal incorporates positions to which many participants strongly object, and concludes that his own compromise is unacceptable to Mody.
 ---
 
+## Summary
+
+In this letter dated July 15, 1974, M. R. Masani acknowledges Piloo Mody’s draft resolution and objects that Mody has sent a direct negotiation of Masani’s earlier draft rather than revising it as expected. Masani states that Mody’s proposal incorporates positions to which many participants strongly object, and concludes that his own compromise is unacceptable to Mody.
+
 ## Key points
 
 - Masani writes to Piloo Mody on July 15, 1974.

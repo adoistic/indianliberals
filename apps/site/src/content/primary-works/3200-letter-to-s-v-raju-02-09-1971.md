@@ -51,6 +51,12 @@ summary: |-
   Masani also reports that D. V. Pendse travelled to Orissa to conduct a party election. He praises Pendse's “business-like” and tactful conduct, saying that the election introduced a democratic feeling into the party. The letter closes with a request that Raju keep Masani informed about any future direction and with greetings to “Bose and Dr. Kapoor.”
 ---
 
+## Summary
+
+This handwritten letter from Minoo Masani to S. V. Raju, dated 2 September 1971, discusses arrangements and political work connected with the Swatantra Party. Masani says he has again been elected to the General Council and hopes to meet Raju at Bangalore. He is sending his friend C. H. Porshi[l] to represent him and asks Raju to assist him, including financially if necessary, since Masani cannot send money from Bangalore.
+
+Masani also reports that D. V. Pendse travelled to Orissa to conduct a party election. He praises Pendse's “business-like” and tactful conduct, saying that the election introduced a democratic feeling into the party. The letter closes with a request that Raju keep Masani informed about any future direction and with greetings to “Bose and Dr. Kapoor.”
+
 ## Key points
 
 - Masani reports that he has again been elected to the Swatantra Party's General Council.

@@ -50,6 +50,12 @@ summary: |-
   The letter encloses a brief note of the discussion and says copies are being sent to Ranga and M. R. Masani, with a request that any comments be sent directly to Rajaji. The rendered page records the correspondence and its political networking around Charan Singh, the B.K.D., the Swatantra Party, and its associates; it does not include the enclosed note describing what was discussed.
 ---
 
+## Summary
+
+This one-page letter from the Swatantra Party's central office, dated 17 June 1968, is addressed to C. Rajagopalachari (Rajaji). The writer thanks Rajaji for suggesting that Prof. N. G. Ranga and the writer meet Charan Singh before Rajaji met him, and reports that Charan Singh's cancelled visit to Madras made it possible for the three to meet in Delhi on 15 June. Charan Singh was accompanied by Mr. Gopal Shastri, described as one of the secretaries of the Bharatiya Kranti Dal (B.K.D.).
+
+The letter encloses a brief note of the discussion and says copies are being sent to Ranga and M. R. Masani, with a request that any comments be sent directly to Rajaji. The rendered page records the correspondence and its political networking around Charan Singh, the B.K.D., the Swatantra Party, and its associates; it does not include the enclosed note describing what was discussed.
+
 ## Key points
 
 - The letter is dated 17 June 1968 and is issued from the Swatantra Party's central office in Bombay.

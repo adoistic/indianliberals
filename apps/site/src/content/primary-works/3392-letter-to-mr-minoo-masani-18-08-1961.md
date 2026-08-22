@@ -50,6 +50,12 @@ summary: |-
   The letter reports that the sender has nominated a Finance Committee consisting of the two Vice-Presidents and himself. Its stated responsibility is to supervise the distribution of funds earmarked for endorsed constituencies in Bihar. The sender also notes that Masani's other instructions have been recorded for future guidance. The handwritten signature appears to read “Ramachandra Narain,” but its identification is uncertain.
 ---
 
+## Summary
+
+This single-page English letter, dated August 18, 1961, is written from the Swatantra Party Bihar office in Patna to M. R. Masani, the party's General Secretary. The sender acknowledges Masani's letter of August 10 concerning matters related to the Parliamentary Sub-Committee of the Central Organising Committee, which had met in Madras on July 30 and 31.
+
+The letter reports that the sender has nominated a Finance Committee consisting of the two Vice-Presidents and himself. Its stated responsibility is to supervise the distribution of funds earmarked for endorsed constituencies in Bihar. The sender also notes that Masani's other instructions have been recorded for future guidance. The handwritten signature appears to read “Ramachandra Narain,” but its identification is uncertain.
+
 ## Key points
 
 - The letter is dated August 18, 1961, and was sent from the Swatantra Party Bihar office in Patna.

@@ -52,6 +52,12 @@ summary: |-
   The remainder of the letter is personal and logistical. The sender reports trying to reach Maiti for news of Narayan's movements, notes that Narayan is in Delhi at the Indian Express Guest House, and discusses Narayan's plans to travel to Simla rather than Wardha. The sender asks to be kept informed and closes by noting that this is his third letter and that a response is now expected. The sender's typed name is absent and the handwritten signature is not sufficiently legible for confident identification.
 ---
 
+## Summary
+
+This single-page letter, dated 18 May 1973, thanks J. P. Narayan for sending the text of a recent article, which the sender says he had already read in the Indian Express. The sender expresses agreement with Narayan's position and describes ongoing work on a small volume linking Narayan's Lok Sabha speech with material on the relationship between law and the judiciary in theory and practice. The letter argues that the present agitation should move beyond the legal profession's immediate concerns and articulate the wider political implications of the issues in a more permanent and educational form.
+
+The remainder of the letter is personal and logistical. The sender reports trying to reach Maiti for news of Narayan's movements, notes that Narayan is in Delhi at the Indian Express Guest House, and discusses Narayan's plans to travel to Simla rather than Wardha. The sender asks to be kept informed and closes by noting that this is his third letter and that a response is now expected. The sender's typed name is absent and the handwritten signature is not sufficiently legible for confident identification.
+
 ## Key points
 
 - The sender thanks J. P. Narayan for forwarding a recent article published in the Indian Express.

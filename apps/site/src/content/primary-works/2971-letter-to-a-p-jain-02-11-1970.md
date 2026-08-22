@@ -50,6 +50,12 @@ summary: |-
   The letter also records Masani’s instruction that no action concerning the party’s representation in the Uttar Pradesh Government should be taken until the Central Parliamentary Board meets in Delhi on November 7 and reaches a decision. The document has no printed title or publisher and includes a handwritten archival marking.
 ---
 
+## Summary
+
+Dated November 2, 1970, this one-page typed letter from M. R. Masani to A. P. Jain acknowledges three letters dated October 30 and responds to Jain’s suggestions. Masani says he will not arrive until the morning of November 7, but plans to meet the press in Bombay on November 4.
+
+The letter also records Masani’s instruction that no action concerning the party’s representation in the Uttar Pradesh Government should be taken until the Central Parliamentary Board meets in Delhi on November 7 and reaches a decision. The document has no printed title or publisher and includes a handwritten archival marking.
+
 ## Key points
 
 - Masani acknowledges receipt of three letters from A. P. Jain dated October 30.

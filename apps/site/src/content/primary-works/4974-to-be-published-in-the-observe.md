@@ -54,6 +54,12 @@ summary: |-
   Masani attributes the collapse of this political equilibrium to the convergence of economic crisis, paralysis within Congress, and Jayaprakash Narayan's anti-corruption campaign. He argues that the Emergency has pre-empted an immediate uprising but driven resistance underground rather than eradicated it. Indira Gandhi, in his account, faces a dilemma: reforms require mass support and new instruments of change, yet the party, bureaucracy, military, and middle-class interests on which she relies are likely to resist genuine reform. The essay concludes that opposition in India's pluralistic society will continue to proliferate through passive resistance, slow erosion, and sudden eruption. The pages are a political analysis of the Emergency and its opposition, not a full account of the wider historical context.
 ---
 
+## Summary
+
+In this four-page typescript, Zareer Masani examines the political crisis surrounding Indira Gandhi's Emergency and argues that the suppression of opposition reflects governmental weakness rather than strength. The essay opens by distinguishing silence from consent and locates opposition in India's pluralistic social structure, where class, caste, religious, ethnic, linguistic, and regional interests cannot be permanently eliminated by repressing official opposition parties. Masani compares the Congress system to the “broad-bottom” Whig oligarchy of Walpole's England: its durability rested on national prestige, patronage, co-option, and an umbrella coalition that left the opposition fragmented and ideologically diffuse.
+
+Masani attributes the collapse of this political equilibrium to the convergence of economic crisis, paralysis within Congress, and Jayaprakash Narayan's anti-corruption campaign. He argues that the Emergency has pre-empted an immediate uprising but driven resistance underground rather than eradicated it. Indira Gandhi, in his account, faces a dilemma: reforms require mass support and new instruments of change, yet the party, bureaucracy, military, and middle-class interests on which she relies are likely to resist genuine reform. The essay concludes that opposition in India's pluralistic society will continue to proliferate through passive resistance, slow erosion, and sudden eruption. The pages are a political analysis of the Emergency and its opposition, not a full account of the wider historical context.
+
 ## Key points
 
 - The essay argues that political silence during the Emergency should not be mistaken for popular consent.

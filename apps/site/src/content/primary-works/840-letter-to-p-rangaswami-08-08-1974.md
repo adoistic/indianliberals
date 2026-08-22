@@ -52,6 +52,12 @@ summary: |-
   The writer contrasts the political appeal of socialism with the liberal and free-enterprise position associated with Swatantra and Freedom First. The closing appeals directly to Masani for guidance and asks whether the Swatantra Party can recover its presence under his leadership. The document is a complete two-page personal letter, though the handwriting and signature leave some names and sentences uncertain.
 ---
 
+## Summary
+
+This handwritten letter, dated 8 August 1974, is addressed to M. R. Masani, editor of Freedom First, and appears to be signed “Rangaswami.” The writer discusses the political future of Jayaprakash Narayan (J.P.) and the Swatantra Party, arguing that J.P. should come to the forefront of national politics and questioning what role the Swatantra Party can play as a national alternative. The letter also reflects on the party’s weakened condition and its need for effective leadership.
+
+The writer contrasts the political appeal of socialism with the liberal and free-enterprise position associated with Swatantra and Freedom First. The closing appeals directly to Masani for guidance and asks whether the Swatantra Party can recover its presence under his leadership. The document is a complete two-page personal letter, though the handwriting and signature leave some names and sentences uncertain.
+
 ## Key points
 
 - The writer urges Jayaprakash Narayan to move to the forefront of Indian politics.

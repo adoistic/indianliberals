@@ -46,6 +46,12 @@ summary: |-
   The letter is an administrative follow-up prompted by the company's audit requirements. It asks the party office to provide the missing receipt and cites the cheque number, bank, date, and the company's bank passbook as supporting details.
 ---
 
+## Summary
+
+This one-page letter, dated Bombay, 18 August 1964, is sent by Walchand & Company Private Ltd. to the General Secretary of the Swatantra Party, for the attention of Shri Minoo Masani. Its subject is a donation of Rs. 2,500 made by cheque to the party in May 1963. The company states that the cheque was collected on 7 June 1963 but that no stamped receipt had been received.
+
+The letter is an administrative follow-up prompted by the company's audit requirements. It asks the party office to provide the missing receipt and cites the cheque number, bank, date, and the company's bank passbook as supporting details.
+
 ## Key points
 
 - The letter is dated Bombay, 18 August 1964.

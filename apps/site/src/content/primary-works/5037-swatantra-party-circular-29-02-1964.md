@@ -53,6 +53,10 @@ summary: |-
   This three-page English-language archival packet from the Swatantra Party Parliamentary Office in New Delhi consists of two internal circulars and a financial statement dated 28 February–1 March 1964. The first circular announces an Executive Committee meeting scheduled for 5 March 1964 to consider cut motions relating to various ministries, a report on a meeting with the Home Minister by Prof. N. G. Ranga, M. R. Masani, and Dulyabhai V. Patel, and any other business permitted by the chair.
 ---
 
+## Summary
+
+This three-page English-language archival packet from the Swatantra Party Parliamentary Office in New Delhi consists of two internal circulars and a financial statement dated 28 February–1 March 1964. The first circular announces an Executive Committee meeting scheduled for 5 March 1964 to consider cut motions relating to various ministries, a report on a meeting with the Home Minister by Prof. N. G. Ranga, M. R. Masani, and Dulyabhai V. Patel, and any other business permitted by the chair.
+
 ## Key points
 
 - The Executive Committee meeting was scheduled for 5 March 1964 at Central Hall, Parliament House.

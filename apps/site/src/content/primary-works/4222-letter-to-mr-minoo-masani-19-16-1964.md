@@ -47,6 +47,12 @@ summary: |-
   A handwritten note on the lower half of the page refers to an evening letter, Raghavan, Ranga, and the preparation or finalisation of a memorandum. Because the handwriting is difficult to decipher, these references should be treated as provisional readings rather than a fully reliable account of the note’s contents.
 ---
 
+## Summary
+
+This single-page English letter from C. Rajagopalachari to M. R. Masani is dated 17 June 1964 and begins with a personal acknowledgment: Rajagopalachari is pleased that Masani liked his article and has just received Masani’s telegram. The letter is signed from Rajagopalachari’s Madras address and addressed to Masani in Bombay.
+
+A handwritten note on the lower half of the page refers to an evening letter, Raghavan, Ranga, and the preparation or finalisation of a memorandum. Because the handwriting is difficult to decipher, these references should be treated as provisional readings rather than a fully reliable account of the note’s contents.
+
 ## Key points
 
 - The letter is dated 17 June 1964.

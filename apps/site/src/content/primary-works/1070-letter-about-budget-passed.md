@@ -50,6 +50,12 @@ summary: |-
   He singles out the goldsmiths — a trade hit hard by the contemporaneous Gold Control regime — as a group that must not be abandoned, and he calls for "popular sympathy" to be shown to them. The closing sentence turns the appeal into a general test of the political culture: democracy, Rajaji writes, must prove it is "made of harder stuff" than passive acceptance of whatever a parliamentary majority ratifies. A pencilled Delhi delivery address on the reverse (to Mr. M. R. Masani, 45 Canning Lane, New Delhi) indicates that the letter was circulated to allies for onward publication or use.
 ---
 
+## Summary
+
+This single-page typed letter, opened with the salutation "Dear Reader" and signed in ink by C. Rajagopalachari, is a short public appeal urging continued agitation against a Budget that has just cleared Parliament. Rajaji insists that formal passage of the Budget by the Congress-majority Parliament neither closes the matter nor absolves citizens of the duty to resist what he calls the "unprecedented and intolerable tax burdens" it imposes.
+
+He singles out the goldsmiths — a trade hit hard by the contemporaneous Gold Control regime — as a group that must not be abandoned, and he calls for "popular sympathy" to be shown to them. The closing sentence turns the appeal into a general test of the political culture: democracy, Rajaji writes, must prove it is "made of harder stuff" than passive acceptance of whatever a parliamentary majority ratifies. A pencilled Delhi delivery address on the reverse (to Mr. M. R. Masani, 45 Canning Lane, New Delhi) indicates that the letter was circulated to allies for onward publication or use.
+
 ## Key points
 
 - Framed as an open "Dear Reader" letter, signed by C. Rajagopalachari, calling for continued public agitation after Parliament's passage of the Budget.

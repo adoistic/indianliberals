@@ -57,3 +57,9 @@ summary: |-
   
   The issue also presents Rajaji's personal position on nuclear disarmament, Minoo Masani's arguments about taxation and planned economic development, and an abridged Lok Sabha speech by P. K. Deo. Its appendices extend the party's critique to capital-gains taxation, defence procurement, and the Orissa government's regulation of Kendu-leaf trade, framing these disputes in terms of economic liberty, property rights, constitutional safeguards, and democratic opposition.
 ---
+
+## Summary
+
+This July 1962 issue of Swatantra Newsletter reports the Swatantra Party's opposition to excessive taxation, wasteful public expenditure, and the government's planning and Finance Bill policies. It records party meetings and campaigns in Delhi, Rajasthan, Bombay, West Bengal, Mysore, Madras, Orissa, and Punjab, alongside organisational work on membership, elections, trade-union activity, and state committees.
+
+The issue also presents Rajaji's personal position on nuclear disarmament, Minoo Masani's arguments about taxation and planned economic development, and an abridged Lok Sabha speech by P. K. Deo. Its appendices extend the party's critique to capital-gains taxation, defence procurement, and the Orissa government's regulation of Kendu-leaf trade, framing these disputes in terms of economic liberty, property rights, constitutional safeguards, and democratic opposition.

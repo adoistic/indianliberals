@@ -49,6 +49,12 @@ summary: |-
   The letter gives State Units freedom to negotiate mutual-assistance arrangements with other State parties and groups, subject to reciprocity and an explicit declaration of alignment. It proposes different manifesto arrangements for parliamentary and State Assembly candidates: Swatantra candidates for Parliament remain bound by the Party's national manifesto, while State candidates may use locally acceptable manifestos that do not conflict with it. The Central Office requests regular reports on progress and insists that publicity be avoided.
 ---
 
+## Summary
+
+This 4 June 1966 letter from M. R. Masani, General Secretary of the Swatantra Party, reports decisions of the Central Parliamentary Board concerning cooperation among democratic opposition parties. After noting that an attempted joint meeting had been postponed because of inadequate responses, the Board supports continuing bilateral talks for electoral adjustments while ruling out united fronts with non-Communist opposition parties and avoiding cooperation based on financial commitments.
+
+The letter gives State Units freedom to negotiate mutual-assistance arrangements with other State parties and groups, subject to reciprocity and an explicit declaration of alignment. It proposes different manifesto arrangements for parliamentary and State Assembly candidates: Swatantra candidates for Parliament remain bound by the Party's national manifesto, while State candidates may use locally acceptable manifestos that do not conflict with it. The Central Office requests regular reports on progress and insists that publicity be avoided.
+
 ## Key points
 
 - The Central Parliamentary Board reviewed efforts to convene a joint meeting of democratic opposition parties.

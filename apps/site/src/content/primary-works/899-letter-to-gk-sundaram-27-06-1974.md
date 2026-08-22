@@ -51,6 +51,12 @@ summary: |-
   Masani recommends a practical, orderly arrangement rather than a public spectacle: booking a hall and a few choultries to lodge delegates who cannot make their own arrangements, without providing boarding. He asks Sunderam to attend to the proposal and inform him of his next visit to Bombay, where Masani says he will contact him at the Taj Intercontinental. The page also records an enclosure consisting of a copy of a telegram, while the document itself is a signed letter.
 ---
 
+## Summary
+
+In this letter dated June 27, 1974, M. R. Masani writes to G. K. Sunderam about the proposed venue for a Swatantra Party convention. He reports that Piloo Mody is trying to bring the convention to Delhi because the party cannot be dissolved, but argues against this on the grounds that proximity to Uttar Pradesh could enable bogus voting by people who had been expelled from the party but were subsequently placed on its National Executive. Masani instead supports holding the convention in Madras, where an invitation from Mr. Devanathan and others in Delhi could be formally repeated by telegram.
+
+Masani recommends a practical, orderly arrangement rather than a public spectacle: booking a hall and a few choultries to lodge delegates who cannot make their own arrangements, without providing boarding. He asks Sunderam to attend to the proposal and inform him of his next visit to Bombay, where Masani says he will contact him at the Taj Intercontinental. The page also records an enclosure consisting of a copy of a telegram, while the document itself is a signed letter.
+
 ## Key points
 
 - Masani discusses arrangements for an impending Swatantra Party convention.

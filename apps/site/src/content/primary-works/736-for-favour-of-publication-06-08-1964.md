@@ -52,6 +52,10 @@ summary: |-
   This one-page press statement, issued by M. R. Masani as General Secretary of the Swatantra Party on August 6, 1964, urges Indian support for U.S. President Lyndon Johnson to take appropriate steps against North Vietnamese and Chinese Communist forces in Southeast Asia. It alleges Chinese-backed aggression in Laos and South Vietnam, violations of the Geneva Conventions, and the ineffectiveness of the International Control Commissions under their Indian chairmanship.
 ---
 
+## Summary
+
+This one-page press statement, issued by M. R. Masani as General Secretary of the Swatantra Party on August 6, 1964, urges Indian support for U.S. President Lyndon Johnson to take appropriate steps against North Vietnamese and Chinese Communist forces in Southeast Asia. It alleges Chinese-backed aggression in Laos and South Vietnam, violations of the Geneva Conventions, and the ineffectiveness of the International Control Commissions under their Indian chairmanship.
+
 ## Key points
 
 - Masani endorses stronger U.S. action against North Vietnamese forces and their Chinese Communist supporters.

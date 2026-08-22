@@ -57,6 +57,12 @@ summary: |-
   The note advocates postponing and recasting the Fourth Plan, sharply reducing direct and indirect taxation to increase national savings, dismantling permits, licences, and exchange and gold controls, and exposing State enterprises to free competition rather than monopoly. It also recommends negotiations with foreign creditors, relief for industrial projects stranded mid-stream, adequate imported raw materials for non-traditional exporters, withdrawal of new export duties introduced with devaluation, and abolition of import duties and surcharges on raw materials, fuel, and spare parts. The discussion records exchanges with the Prime Minister and L. K. Jha, as well as references to B. R. Shenoy, Chester Bowles, L. Sawhny, and Rajaji.
 ---
 
+## Summary
+
+Dated June 22, 1966, this policy note argues that India’s devaluation is the cumulative result of mistaken economic policies and planning decisions over the preceding decade. Signed by N. G. Ranga and M. R. Masani, it calls for an immediate declaration of policy to ensure that the sacrifices associated with devaluation are not wasted. The proposed direction includes ending inflationary policies, reducing civil and non-developmental expenditure, restricting government borrowing for non-essential purposes, and imposing fiscal discipline on Union and State governments.
+
+The note advocates postponing and recasting the Fourth Plan, sharply reducing direct and indirect taxation to increase national savings, dismantling permits, licences, and exchange and gold controls, and exposing State enterprises to free competition rather than monopoly. It also recommends negotiations with foreign creditors, relief for industrial projects stranded mid-stream, adequate imported raw materials for non-traditional exporters, withdrawal of new export duties introduced with devaluation, and abolition of import duties and surcharges on raw materials, fuel, and spare parts. The discussion records exchanges with the Prime Minister and L. K. Jha, as well as references to B. R. Shenoy, Chester Bowles, L. Sawhny, and Rajaji.
+
 ## Key points
 
 - The note attributes the economic crisis and need for devaluation to a decade of mistaken economic policies and planning.

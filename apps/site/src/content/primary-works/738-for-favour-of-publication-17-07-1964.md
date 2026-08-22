@@ -51,6 +51,10 @@ summary: |-
   This one-page press statement records remarks by M. R. Masani, General Secretary of the Swatantra Party, delivered to the Lions Club of Bombay on July 17, 1964. Masani argues that India’s attention to the Himalayan border conflict has obscured a wider Chinese Communist challenge across Southeast Asia, particularly in Laos, Viet Nam, and Malaysia. He presents these theatres as parts of a common strategic front and criticises the Indian Government for failing to assist countries resisting communist expansion.
 ---
 
+## Summary
+
+This one-page press statement records remarks by M. R. Masani, General Secretary of the Swatantra Party, delivered to the Lions Club of Bombay on July 17, 1964. Masani argues that India’s attention to the Himalayan border conflict has obscured a wider Chinese Communist challenge across Southeast Asia, particularly in Laos, Viet Nam, and Malaysia. He presents these theatres as parts of a common strategic front and criticises the Indian Government for failing to assist countries resisting communist expansion.
+
 ## Key points
 
 - Masani describes the Himalayan conflict and conflicts in Laos, Viet Nam, and Malaysia as interconnected fronts against Chinese Communist expansion.

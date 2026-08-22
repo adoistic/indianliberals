@@ -46,6 +46,10 @@ summary: |-
   This one-page English letter from S. V. Raju to P. Ramachandran acknowledges Ramachandran’s letter and refers to a recently held District Conference. Raju expresses confidence that the conference was successful and asks to receive the resolutions adopted there. He also notes that he had sent his greetings to the conference.
 ---
 
+## Summary
+
+This one-page English letter from S. V. Raju to P. Ramachandran acknowledges Ramachandran’s letter and refers to a recently held District Conference. Raju expresses confidence that the conference was successful and asks to receive the resolutions adopted there. He also notes that he had sent his greetings to the conference.
+
 ## Key points
 
 - S. V. Raju writes to Mr. P. Ramachandran.

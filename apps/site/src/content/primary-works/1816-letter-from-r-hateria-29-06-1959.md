@@ -52,6 +52,12 @@ summary: |-
   The minutes document the committee’s early organisational work: attendance and confirmation of the previous minutes; possible participation by Sir H. P. Mody and K. M. Munshi; fundraising and the search for suitable office premises; a proposed musical concert; translation of the Statement of Principles into Marathi and Gujarati; and arrangements for a national conference in Ahmedabad. The committee also planned Bombay meetings addressed by C. Rajagopalachari, a subscription dinner, the appointment of honorary city organisers, and the opening of a joint-signature current account for the Bombay Committee with the Union Bank of India. The pages present party-building as a practical exercise in recruitment, publicity, finance, events, and local administration.
 ---
 
+## Summary
+
+This three-page Swatantra Party office record combines a covering notice dated 29 June 1959 with the minutes of the Bombay Organising Committee meeting held on 23 June 1959. The notice requests attendance at the committee’s next meeting on 5 July at Geeta Mandir Hall, Bharatiya Vidya Bhavan, Chowpatty, and is signed by Miss Hateria for Raja Hutheesing, Organising Secretary.
+
+The minutes document the committee’s early organisational work: attendance and confirmation of the previous minutes; possible participation by Sir H. P. Mody and K. M. Munshi; fundraising and the search for suitable office premises; a proposed musical concert; translation of the Statement of Principles into Marathi and Gujarati; and arrangements for a national conference in Ahmedabad. The committee also planned Bombay meetings addressed by C. Rajagopalachari, a subscription dinner, the appointment of honorary city organisers, and the opening of a joint-signature current account for the Bombay Committee with the Union Bank of India. The pages present party-building as a practical exercise in recruitment, publicity, finance, events, and local administration.
+
 ## Key points
 
 - A 29 June 1959 covering letter announces the next meeting of the Swatantra Party’s Greater Bombay Organising Committee.

@@ -50,6 +50,12 @@ summary: |-
   The second page is a separate but related July 1, 1974 solicitation from Swatantra Jyoti, a Hindi fortnightly edited by H. R. Arya. It announces a special issue scheduled for August 1, 1974, describes the publication as presenting an objective analysis of national issues, and seeks a company advertisement. The letter gives circulation, distribution, advertising rates, and mechanical specifications; the documentary relationship between the two letters is not explicitly stated.
 ---
 
+## Summary
+
+This two-page archival item contains a July 2, 1974 letter from H. R. Arya of the Swatantra Party Delhi Pradesh to S. V. Raju. Arya sends five circular letters seeking advertising support to cover the expenses of the party's National Convention in New Delhi on August 4–5, 1974, asks Raju to assist through his contacts with U.P. workers, and requests payment for advertising material.
+
+The second page is a separate but related July 1, 1974 solicitation from Swatantra Jyoti, a Hindi fortnightly edited by H. R. Arya. It announces a special issue scheduled for August 1, 1974, describes the publication as presenting an objective analysis of national issues, and seeks a company advertisement. The letter gives circulation, distribution, advertising rates, and mechanical specifications; the documentary relationship between the two letters is not explicitly stated.
+
 ## Key points
 
 - H. R. Arya wrote to S. V. Raju on July 2, 1974, regarding fundraising for the Swatantra Party's forthcoming National Convention.

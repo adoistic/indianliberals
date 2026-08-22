@@ -58,6 +58,12 @@ summary: |-
   The correspondence also advances a strongly interventionist foreign-policy position. Narasimhan opposes British and American military bases in the Indian Ocean, urges India to resist foreign involvement in regional conflicts, and asks the United Nations to address Kashmir, Tibet, Pakistan, Portuguese colonial claims, and the Sino-Indian border. He proposes that Pakistan be brought into an Indian dominion and repeatedly offers himself as someone capable of taking charge of the government. Domestic proposals include age limits and term limits for ministers, free education through the tenth standard, changes to ministerial appointments, and reforms to public-sector bonus arrangements. The final rendered page is an extremely faint continuation or reverse and could not be read reliably.
 ---
 
+## Summary
+
+This 1965 correspondence dossier consists of letters signed by P. Narasimhan from Calcutta and addressed to Indian political leaders, foreign diplomatic officials, and the United Nations Security Council. Across the rendered pages, Narasimhan repeatedly challenges the government of Lal Bahadur Shastri, arguing that India’s leadership is failing to address the country’s border disputes, administrative weaknesses, corruption, education, food supply, and relations with Pakistan and China. The letters are urgent, accusatory, and often framed as warnings that the existing political leadership is endangering the country’s future.
+
+The correspondence also advances a strongly interventionist foreign-policy position. Narasimhan opposes British and American military bases in the Indian Ocean, urges India to resist foreign involvement in regional conflicts, and asks the United Nations to address Kashmir, Tibet, Pakistan, Portuguese colonial claims, and the Sino-Indian border. He proposes that Pakistan be brought into an Indian dominion and repeatedly offers himself as someone capable of taking charge of the government. Domestic proposals include age limits and term limits for ministers, free education through the tenth standard, changes to ministerial appointments, and reforms to public-sector bonus arrangements. The final rendered page is an extremely faint continuation or reverse and could not be read reliably.
+
 ## Key points
 
 - Narasimhan’s letters criticize Lal Bahadur Shastri and other ministers for weak administration, corruption, and inadequate responses to border crises.

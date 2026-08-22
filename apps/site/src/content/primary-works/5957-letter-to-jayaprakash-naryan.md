@@ -45,6 +45,10 @@ summary: |-
   This single-page English letter from Bombay, dated October 7, 1974, is from Minoo Masani to Jayaprakash Narayan (“JP”) at Kadam Kuan, Patna 3. Masani says he has just received a message and asks whether a visit to Patna on Saturday, November 2, would be convenient. The page records a brief proposed meeting and request for confirmation by telegram.
 ---
 
+## Summary
+
+This single-page English letter from Bombay, dated October 7, 1974, is from Minoo Masani to Jayaprakash Narayan (“JP”) at Kadam Kuan, Patna 3. Masani says he has just received a message and asks whether a visit to Patna on Saturday, November 2, would be convenient. The page records a brief proposed meeting and request for confirmation by telegram.
+
 ## Key points
 
 - The letter is dated October 7, 1974, and was sent from Bombay.

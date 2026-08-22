@@ -56,6 +56,10 @@ summary: |-
   S. V. Raju argues that India does not need a new public philosophy because the Constitution already provides one. He identifies the Preamble and Fundamental Rights as the country’s inherited political faith, grounded in justice, liberty, equality, fraternity, dignity, national unity, and protections including freedom, religious liberty, cultural rights, property, and constitutional remedies. He traces this philosophy to the freedom movement and to earlier Indian political thinkers and reformers, while citing Granville Austin’s account of the institutional and cultural conditions that enabled the Constitution to function.
 ---
 
+## Summary
+
+S. V. Raju argues that India does not need a new public philosophy because the Constitution already provides one. He identifies the Preamble and Fundamental Rights as the country’s inherited political faith, grounded in justice, liberty, equality, fraternity, dignity, national unity, and protections including freedom, religious liberty, cultural rights, property, and constitutional remedies. He traces this philosophy to the freedom movement and to earlier Indian political thinkers and reformers, while citing Granville Austin’s account of the institutional and cultural conditions that enabled the Constitution to function.
+
 ## Key points
 
 - The Indian Constitution, especially its Preamble and Fundamental Rights, is presented as India’s existing public philosophy.

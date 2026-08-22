@@ -67,6 +67,12 @@ summary: |-
   The state reports present taxation, inflation, land revenue, railway fares, public expenditure, and administrative failures as recurring political issues. The appendices add two extended ideological statements: C. Rajagopalachari’s “Our Mission” stresses reason, individual liberty, limited state authority, voluntary social service, and patient opposition to statism; Minoo Masani’s “Party Politics in India” discusses party organisation, candidate selection, grassroots membership, discipline, ideological labels, and electoral reform. Masani describes Swatantra as a party combining liberalism and Gandhism, with individual liberty and minimum government at its core.
 ---
 
+## Summary
+
+The issue reports internal party decisions and organisational expansion alongside a firm opposition programme. The Madras meeting extended membership enrolment, created a study group on the effects of faulty planning, reviewed the party’s parliamentary and state-assembly work, and reaffirmed opposition to the reported Soviet aircraft deal. On China, Minoo Masani argued for a more forceful response, including possible diplomatic and trade measures and regional security cooperation. The newsletter also records criticism of the DMK agitation’s methods, preparations for the Chittoor by-election, a new zonal structure in Kerala, and a proposed Labour Advisory Committee intended to connect party members with independent trade unions and workers’ grievances.
+
+The state reports present taxation, inflation, land revenue, railway fares, public expenditure, and administrative failures as recurring political issues. The appendices add two extended ideological statements: C. Rajagopalachari’s “Our Mission” stresses reason, individual liberty, limited state authority, voluntary social service, and patient opposition to statism; Minoo Masani’s “Party Politics in India” discusses party organisation, candidate selection, grassroots membership, discipline, ideological labels, and electoral reform. Masani describes Swatantra as a party combining liberalism and Gandhism, with individual liberty and minimum government at its core.
+
 ## Key points
 
 - The newsletter documents a July 1962 organisational and parliamentary meeting of the Swatantra Party in Madras.

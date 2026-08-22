@@ -52,6 +52,12 @@ summary: |-
   The clipping continues with brief reports on the Bhakra project, irrigation, power generation, and compensation for farmers whose tubewells were affected. The second page also contains unrelated market-rate and financial-news items, including Bombay kerb rates and a New York cotton futures report. No author, publication title, date, or publisher is visible.
 ---
 
+## Summary
+
+This unsigned English newspaper clipping reports that the Speaker told the Lok Sabha that the Government intended to convert consultative committees attached to various ministries into Parliamentary Committees. The proposal had become controversial over whether the proceedings of consultative committees should be raised in the House. Mr. P. K. V. Kesava Menon of the CPI questioned the decision, while Mr. D. N. Patodia objected to a reference concerning cloth prices. The Speaker also cautioned against alleging that the Government had dropped legislation against Naxalites under Communist pressure in the West Bengal Consultative Committee.
+
+The clipping continues with brief reports on the Bhakra project, irrigation, power generation, and compensation for farmers whose tubewells were affected. The second page also contains unrelated market-rate and financial-news items, including Bombay kerb rates and a New York cotton futures report. No author, publication title, date, or publisher is visible.
+
 ## Key points
 
 - The Government proposed converting ministry-linked consultative committees into Parliamentary Committees.

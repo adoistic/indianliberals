@@ -51,6 +51,12 @@ summary: |-
   Raju says that he and Minoo Masani are substantially in agreement with the draft policy statement, while retaining reservations about artificial restrictions distinguishing large-scale from small-scale industries. He recalls a November 1966 Swatantra Party National Executive meeting at which C. Rajagopalachari could not accept a position on reserving certain industries exclusively for small-scale producers. Raju concludes that the Janata Party's draft is broadly Swatantra in character, and asks whether Singh can help distribute reading material to people currently in jail.
 ---
 
+## Summary
+
+In this typed letter dated July 2, 1976, S. V. Raju writes to Bhanu Pratap Singh about political materials circulated within the Swatantra Party and discussed at its National Executive meeting in Bombay on June 29. Raju encloses the meeting's adopted resolutions and an article he wrote for the July issue of Freedom First concerning the draft policy statement circulated by Mr. Goray's Committee.
+
+Raju says that he and Minoo Masani are substantially in agreement with the draft policy statement, while retaining reservations about artificial restrictions distinguishing large-scale from small-scale industries. He recalls a November 1966 Swatantra Party National Executive meeting at which C. Rajagopalachari could not accept a position on reserving certain industries exclusively for small-scale producers. Raju concludes that the Janata Party's draft is broadly Swatantra in character, and asks whether Singh can help distribute reading material to people currently in jail.
+
 ## Key points
 
 - Raju acknowledges receiving Singh's June 26, 1976 letter and says he showed its enclosures to Minoo Masani and members of the Swatantra Party's National Executive.

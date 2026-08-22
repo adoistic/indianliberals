@@ -52,6 +52,12 @@ summary: |-
   The report presents Swatantra as opposing authoritarian tendencies, restrictions on judicial independence and Fundamental Rights, and the curtailment of press freedom. Masani also challenged the Prime Minister's interpretation of the election result, arguing that the Congress had not secured majority support when votes for the four-party alliance and other candidates were considered. The article closes by identifying the new parliamentary leadership: P. K. Deo as leader, H. M. Patel as deputy leader, Piloo Mody as secretary-cum-whip of the Lok Sabha group, and Mr. Dayabhai Patel as chairman of the entire parliamentary group.
 ---
 
+## Summary
+
+This Hindustan Times report describes the Swatantra Party's decision not to join an opposition bloc in Parliament after the 1971 election. The party's Parliamentary Board, chaired by M. R. Masani, held that policy questions should not be settled at the state level and that Swatantra should retain its distinctive approach and policies at the Centre. Masani nevertheless said state units might enter electoral alliances or work jointly with other parties in state legislatures.
+
+The report presents Swatantra as opposing authoritarian tendencies, restrictions on judicial independence and Fundamental Rights, and the curtailment of press freedom. Masani also challenged the Prime Minister's interpretation of the election result, arguing that the Congress had not secured majority support when votes for the four-party alliance and other candidates were considered. The article closes by identifying the new parliamentary leadership: P. K. Deo as leader, H. M. Patel as deputy leader, Piloo Mody as secretary-cum-whip of the Lok Sabha group, and Mr. Dayabhai Patel as chairman of the entire parliamentary group.
+
 ## Key points
 
 - The Swatantra Party decided not to function as part of an opposition bloc in Parliament.

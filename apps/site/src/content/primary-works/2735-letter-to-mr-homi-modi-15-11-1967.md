@@ -51,6 +51,12 @@ summary: |-
   In the second letter, addressed to Sardar Basant Singh, Masani distinguishes his resignation from his impending conclusion of service as Chairman of the Public Accounts Committee. He argues that, given the Party’s present situation and composition, the General Secretary’s administrative role has limited value, while a successor such as Mr. Dandeker could take over those responsibilities. Masani says he is seeking temporary release from the “burden and shackles” of day-to-day administration, while reaffirming that he would accept a suitable leadership challenge after the next elections.
 ---
 
+## Summary
+
+This two-page correspondence file contains two letters written by M. R. Masani on 15 November 1967. In the first, addressed to Sir Homi Mody, Masani explains that his decision not to continue as General Secretary is not a withdrawal from party activity. He presents it instead as a move away from administrative responsibility toward more extracurricular work through which he believes he can make a better contribution to the Swatantra Party’s future. He also indicates that he remains willing to assume an appropriate leadership role before the next General Elections at the end of 1969.
+
+In the second letter, addressed to Sardar Basant Singh, Masani distinguishes his resignation from his impending conclusion of service as Chairman of the Public Accounts Committee. He argues that, given the Party’s present situation and composition, the General Secretary’s administrative role has limited value, while a successor such as Mr. Dandeker could take over those responsibilities. Masani says he is seeking temporary release from the “burden and shackles” of day-to-day administration, while reaffirming that he would accept a suitable leadership challenge after the next elections.
+
 ## Key points
 
 - Masani frames his departure from the General Secretaryship as a change in responsibility rather than a withdrawal from party activity.

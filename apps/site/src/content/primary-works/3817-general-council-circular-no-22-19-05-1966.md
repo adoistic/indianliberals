@@ -54,6 +54,12 @@ summary: |-
   The circular also informs Council members that two confidential papers are enclosed: the General Secretary's report on organisation and a note by J. M. Lobo Prabhu on “Strategy for the General Elections.” It requests members to bring the papers to the meeting, complete an attendance questionnaire, and make arrangements for accommodation at Palm Beach High School in Darbāsha Road, Bombay, offered at Rs. 5 per day with transport to and from the meeting venue.
 ---
 
+## Summary
+
+This one-page English circular, issued by the Swatantra Party Central Office on 19 May 1966 and signed by General Secretary M. R. Masani, announces an additional agenda item for the Party's General Council meeting in Bombay on 27–28 May. The proposed constitutional change would replace the word “District” with “Parliamentary Constituency” in specified articles of the Party's Constitution, including provisions concerning parliamentary organisation and constituencies.
+
+The circular also informs Council members that two confidential papers are enclosed: the General Secretary's report on organisation and a note by J. M. Lobo Prabhu on “Strategy for the General Elections.” It requests members to bring the papers to the meeting, complete an attendance questionnaire, and make arrangements for accommodation at Palm Beach High School in Darbāsha Road, Bombay, offered at Rs. 5 per day with transport to and from the meeting venue.
+
 ## Key points
 
 - The circular adds consideration of a Central Parliamentary Board proposal to the agenda of the Swatantra Party General Council meeting.

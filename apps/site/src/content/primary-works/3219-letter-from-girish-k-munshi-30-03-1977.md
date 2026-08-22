@@ -49,6 +49,12 @@ summary: |-
   Munshi states that Masani is acceptable because he is a founder of the party, adding that he consulted Paramanandji before writing. He says the next step is to ask Masani whether he is willing to serve as arbitrator and promises to inform the recipients after hearing from him. The document does not identify the underlying dispute or the party by name.
 ---
 
+## Summary
+
+This one-page English letter, dated March 30, 1977, is written by Girish K. Munshi from the Bharatiya Vidya Bhavan in Bombay to K. H. Subramanian, L. R. Sampat, and S. V. Raju. Munshi acknowledges their March 22 letter and notes that they are prepared to accept arbitration, having proposed Minoo Masani and N. V. Murthy as possible arbitrators.
+
+Munshi states that Masani is acceptable because he is a founder of the party, adding that he consulted Paramanandji before writing. He says the next step is to ask Masani whether he is willing to serve as arbitrator and promises to inform the recipients after hearing from him. The document does not identify the underlying dispute or the party by name.
+
 ## Key points
 
 - The letter is dated March 30, 1977, and is issued on Bharatiya Vidya Bhavan letterhead in Bombay.

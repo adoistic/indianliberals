@@ -48,6 +48,12 @@ summary: |-
   The letter states that J. R. D. Tata intends to discuss Masani's proposal with his colleagues after returning from abroad. Handwritten annotations appear on the letterhead and in the body, but their full meaning is not clear from the rendered page. No title or printed page number is present.
 ---
 
+## Summary
+
+This one-page English office letter, dated 1 December 1967, was issued by Tata Industries Private Limited in Bombay and addressed to Mr. M. R. Masani. Mrs. M. Hawgood, identified as Secretary to Mr. J. R. D. Tata, acknowledges Masani's letter of 23 November on Tata's behalf.
+
+The letter states that J. R. D. Tata intends to discuss Masani's proposal with his colleagues after returning from abroad. Handwritten annotations appear on the letterhead and in the body, but their full meaning is not clear from the rendered page. No title or printed page number is present.
+
 ## Key points
 
 - The document is dated 1 December 1967.

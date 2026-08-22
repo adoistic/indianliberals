@@ -47,6 +47,10 @@ summary: |-
   This one-page letter from Piloo Mody, written on Swatantra Party Bombay Region letterhead on 11 September 1964, is addressed to C. Rajagopalachari (“Rajaji”). Mody welcomes news that the party’s Central Organising Committee will meet in Bombay on 30 September and proposes two accompanying events: a public meeting at Chowpatty and a subscription dinner to raise urgently needed funds.
 ---
 
+## Summary
+
+This one-page letter from Piloo Mody, written on Swatantra Party Bombay Region letterhead on 11 September 1964, is addressed to C. Rajagopalachari (“Rajaji”). Mody welcomes news that the party’s Central Organising Committee will meet in Bombay on 30 September and proposes two accompanying events: a public meeting at Chowpatty and a subscription dinner to raise urgently needed funds.
+
 ## Key points
 
 - Piloo Mody writes to C. Rajagopalachari from the Swatantra Party Bombay Region office in Bombay.

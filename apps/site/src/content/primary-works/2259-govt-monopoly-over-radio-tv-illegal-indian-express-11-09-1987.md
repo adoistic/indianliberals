@@ -54,6 +54,12 @@ summary: |-
   The petitioners contend that no legislation supports the government’s exclusive control of broadcast media and that the restrictions are not saved by Article 19(2). They seek a declaration that the AIR and Doordarshan monopoly is unconstitutional, as well as an order permitting independent radio and television stations in western India. The report also notes their reliance on a study by the Indian Committee for Cultural Freedom and the Indian Liberal Group concerning news dissemination and suppression.
 ---
 
+## Summary
+
+This Indian Express report, credited to Express News Service and dated Bombay, September 10, 1987, describes a petition filed in the Bombay High Court by Minoo Masani and former All India Radio director P. C. Chatterji. The petition challenges the Union Government’s monopoly over radio and television broadcasting, arguing that refusing permission for independent broadcasting stations violates the constitutional freedoms of speech and expression under Article 19(1)(a).
+
+The petitioners contend that no legislation supports the government’s exclusive control of broadcast media and that the restrictions are not saved by Article 19(2). They seek a declaration that the AIR and Doordarshan monopoly is unconstitutional, as well as an order permitting independent radio and television stations in western India. The report also notes their reliance on a study by the Indian Committee for Cultural Freedom and the Indian Liberal Group concerning news dissemination and suppression.
+
 ## Key points
 
 - Minoo Masani and P. C. Chatterji filed a petition in the Bombay High Court challenging the government’s broadcasting monopoly.

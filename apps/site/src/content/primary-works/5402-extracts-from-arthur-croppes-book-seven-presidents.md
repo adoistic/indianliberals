@@ -55,6 +55,12 @@ summary: |-
   The second page concentrates on mid-century foreign-policy and leadership judgments. It attributes claims to President Kennedy about Krishna Menon's anti-American position, India's prospects of remaining non-communist, the Kennedy administration's support for Indonesia against the Dutch in West Irian, and the Portuguese enclaves in India. It also includes characterizations of Nixon and Robert Kennedy, a quotation from Rudyard Kipling's "Gods of the Market Place," and a reference to the 1946 U.N. report. The sheet contains no byline, publisher, date, or explanation of how the extracts were selected.
 ---
 
+## Summary
+
+This two-page English extract sheet, headed as material from Arthur Croppe's book "Seven Presidents," assembles numbered quotations and reported observations about politics, public office, leadership, and international affairs. The selections range from reflections on personal freedom and individual temperament to Clemenceau's joke about the possessions useful to a politician and a general observation about the common distance between critics and holders of office.
+
+The second page concentrates on mid-century foreign-policy and leadership judgments. It attributes claims to President Kennedy about Krishna Menon's anti-American position, India's prospects of remaining non-communist, the Kennedy administration's support for Indonesia against the Dutch in West Irian, and the Portuguese enclaves in India. It also includes characterizations of Nixon and Robert Kennedy, a quotation from Rudyard Kipling's "Gods of the Market Place," and a reference to the 1946 U.N. report. The sheet contains no byline, publisher, date, or explanation of how the extracts were selected.
+
 ## Key points
 
 - The sheet presents seventeen numbered extracts from the book identified as Arthur Croppe's "Seven Presidents."

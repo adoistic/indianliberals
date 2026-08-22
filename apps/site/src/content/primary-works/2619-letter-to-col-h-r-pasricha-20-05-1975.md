@@ -48,6 +48,12 @@ summary: |-
   Raju expresses dissatisfaction with developments in Ahmedabad but proposes discussing the matter, including “behind-the-scene gossip,” when they next meet in Delhi. He asks Pasricha to continue exercising patience and encloses a copy of his contemporaneous letter to Mr. Arya, saying that it supports what Pasricha had told him during their previous meeting in Delhi. The two-page typescript is signed by Raju and has no printed title.
 ---
 
+## Summary
+
+In this letter dated May 20, 1975, S. V. Raju writes to Col. H. R. Pasricha about Pasricha's earlier letter to Girish Munshi and disputes what he considers an unduly tragic interpretation of the political situation. Raju distinguishes the circumstances from the “grand alliance,” arguing that the arrangement rests on a minimum common programme. He recalls an earlier counter-resolution in which the parties had agreed to work with other groups before subsuming their identities, a position he says was opposed by “P.M.” and ultimately vindicated.
+
+Raju expresses dissatisfaction with developments in Ahmedabad but proposes discussing the matter, including “behind-the-scene gossip,” when they next meet in Delhi. He asks Pasricha to continue exercising patience and encloses a copy of his contemporaneous letter to Mr. Arya, saying that it supports what Pasricha had told him during their previous meeting in Delhi. The two-page typescript is signed by Raju and has no printed title.
+
 ## Key points
 
 - Raju responds to Pasricha's view of a political situation that he believes has been presented too tragically.

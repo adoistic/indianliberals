@@ -45,6 +45,10 @@ summary: |-
   Dated 16 August 1968, this one-page letter from Minoo Masani to R. B. Mishra introduces Masani's friend, D. P. Tata, who was visiting Bhubaneswar. Masani asks Mishra to provide Tata with any guidance and assistance possible.
 ---
 
+## Summary
+
+Dated 16 August 1968, this one-page letter from Minoo Masani to R. B. Mishra introduces Masani's friend, D. P. Tata, who was visiting Bhubaneswar. Masani asks Mishra to provide Tata with any guidance and assistance possible.
+
 ## Key points
 
 - The letter is dated 16 August 1968.

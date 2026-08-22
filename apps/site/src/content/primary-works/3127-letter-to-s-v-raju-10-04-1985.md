@@ -53,6 +53,12 @@ summary: |-
   The page ends with notes on “Indian” and “Sri Lankan” culture and a projected conclusion. The sheet does not identify its author, recipient, date, or institutional setting; the supplied filename is not sufficient evidence for attribution.
 ---
 
+## Summary
+
+This single handwritten working sheet, headed “J27,” appears to outline a political briefing or draft letter rather than present a completed argument. Its numbered points include opposition to Howard Rodman, dealings with the Supreme Court, questions concerning reservations, foreign policy, and a criticism of the left’s language. Marginal notes also refer to an “individual” matter and to the relationship between “Sri Lanka” and the Indian subcontinent, although several words are difficult to read.
+
+The page ends with notes on “Indian” and “Sri Lankan” culture and a projected conclusion. The sheet does not identify its author, recipient, date, or institutional setting; the supplied filename is not sufficient evidence for attribution.
+
 ## Key points
 
 - The document is a handwritten outline headed “J27,” with no visible formal title or byline.

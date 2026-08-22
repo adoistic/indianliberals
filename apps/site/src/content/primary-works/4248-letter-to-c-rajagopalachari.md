@@ -42,6 +42,10 @@ summary: |-
   This single handwritten letter sheet, signed “Masani” and addressed to C. Rajagopalachari, records the sender’s response to a recent statement or piece by Rajagopalachari on the economy. The sender says they have just read it and identifies what they describe as a contradiction between two ideas, but the final wording is difficult to decipher from the handwriting.
 ---
 
+## Summary
+
+This single handwritten letter sheet, signed “Masani” and addressed to C. Rajagopalachari, records the sender’s response to a recent statement or piece by Rajagopalachari on the economy. The sender says they have just read it and identifies what they describe as a contradiction between two ideas, but the final wording is difficult to decipher from the handwriting.
+
 ## Key points
 
 - The document is a one-page handwritten letter.

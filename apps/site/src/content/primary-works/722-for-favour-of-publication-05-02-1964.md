@@ -54,6 +54,12 @@ summary: |-
   Masani further argues that the Ministry's technical objection has become untenable after the text of Bandaranaike's letter was sent to Lal Bahadur Shastri, who was handling the External Affairs portfolio. He calls on the Government to contact Bandaranaike, establish the facts, and inform Chou En-lai accordingly. The statement frames the dispute as a test of governmental candour, warning that withholding information could revive public suspicion associated with the disclosure of the occupation of Aksai Chin by Chinese Communist forces and suggest that India was again being misled in the interest of appeasing Communist China.
 ---
 
+## Summary
+
+In this one-page press statement dated Bombay, February 5, 1964, M. R. Masani challenges the Ministry of External Affairs' denial that India had assured Ceylon's Prime Minister, Sirimavo Bandaranaike, that Indian troops would not advance to the McMahon Line. Masani argues that the relevant question is not whether the Government of India formally gave the assurance, but whether the Prime Minister did so, as Bandaranaike's letter reportedly stated. He notes that the Ministry had not seen the letter and suggests that its public response improperly evaded the issue.
+
+Masani further argues that the Ministry's technical objection has become untenable after the text of Bandaranaike's letter was sent to Lal Bahadur Shastri, who was handling the External Affairs portfolio. He calls on the Government to contact Bandaranaike, establish the facts, and inform Chou En-lai accordingly. The statement frames the dispute as a test of governmental candour, warning that withholding information could revive public suspicion associated with the disclosure of the occupation of Aksai Chin by Chinese Communist forces and suggest that India was again being misled in the interest of appeasing Communist China.
+
 ## Key points
 
 - Masani disputes the Ministry of External Affairs' denial concerning an assurance to Ceylon about Indian troop movements near the McMahon Line.

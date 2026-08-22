@@ -47,6 +47,12 @@ summary: |-
   Kirza also reports that she has forwarded a copy of Khanna’s letter to the Secretary of the Swatantra Party in Bombay, who is expected to provide information about enrolment. The letter is signed by Kirza as Secretary to M. R. Masani, with a copy noted for R. V. Murthy in Bombay.
 ---
 
+## Summary
+
+In this letter dated 26 September 1959, Miss B. S. Kirza acknowledges S. P. Khanna’s letter of 21 September concerning M. R. Masani, who was abroad at the time. She says she will place Khanna’s letter before Masani on his expected return around 6 October.
+
+Kirza also reports that she has forwarded a copy of Khanna’s letter to the Secretary of the Swatantra Party in Bombay, who is expected to provide information about enrolment. The letter is signed by Kirza as Secretary to M. R. Masani, with a copy noted for R. V. Murthy in Bombay.
+
 ## Key points
 
 - The letter is dated 26 September 1959 and addressed to Mr. S. P. Khanna.

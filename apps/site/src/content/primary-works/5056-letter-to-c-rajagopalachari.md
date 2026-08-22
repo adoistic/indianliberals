@@ -49,6 +49,12 @@ summary: |-
   Thakrar also endorses K. M. Munshi’s view that the Swatantra Party is not a confederation of autonomous state units: the party is one organisation, with state units functioning as branches whose direction should be accepted from the Central Executive. He questions why notices were issued only to some members when others may be equally or more liable, and urges the Central Council to act irrespective of the seniority or public standing of those concerned. The document ends with his assurance that these views are offered in the party’s interest.
 ---
 
+## Summary
+
+This two-page letter, dated 25 May 1968 and written from Porbandar by Vasanji Kheraj Thakrar to members of the Central Council, addresses an internal disciplinary dispute in the Swatantra Party. Thakrar says he cannot attend the meeting because of unavoidable circumstances but responds to Minoo Masani’s letter, arguing that the party’s principles, prestige, and credit must take precedence over the number of its members. He supports disciplinary action against members who have acted against the party’s principles and directions, including possible expulsion after show-cause notices and hearings.
+
+Thakrar also endorses K. M. Munshi’s view that the Swatantra Party is not a confederation of autonomous state units: the party is one organisation, with state units functioning as branches whose direction should be accepted from the Central Executive. He questions why notices were issued only to some members when others may be equally or more liable, and urges the Central Council to act irrespective of the seniority or public standing of those concerned. The document ends with his assurance that these views are offered in the party’s interest.
+
 ## Key points
 
 - Vasanji Kheraj Thakrar explains that he cannot attend an important Central Council meeting because of unavoidable circumstances.

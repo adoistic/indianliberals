@@ -53,6 +53,12 @@ summary: |-
   The convention endorsed the impending formation of the Bharatiya Lok Dal, or Peoples' Party of India, and authorised party president Piloo Mody to determine whether the Swatantra Party would merge into the new organisation. It also authorised him to request that the Chief Election Commissioner freeze the Swatantra Party's electoral symbol. A separately headed notice on the third printed page rejects the proposal to dissolve the Swatantra Party, arguing that its principles remain valid, that the proposed new party lacks a sufficiently defined programme, and that the continued existence of Congress and Jan Sangh would undermine the hoped-for two-party system.
 ---
 
+## Summary
+
+This three-page English-language document records resolutions associated with the Swatantra Party's Seventh National Convention in Delhi on August 4–5, 1974. It describes the party's efforts to create a two-party system and a “National Alternative” by bringing opposition parties together, while excluding the ruling Congress and Communist parties. The document presents this alternative as a response to political confusion and as a means of offering voters a clear programme capable of addressing their aspirations.
+
+The convention endorsed the impending formation of the Bharatiya Lok Dal, or Peoples' Party of India, and authorised party president Piloo Mody to determine whether the Swatantra Party would merge into the new organisation. It also authorised him to request that the Chief Election Commissioner freeze the Swatantra Party's electoral symbol. A separately headed notice on the third printed page rejects the proposal to dissolve the Swatantra Party, arguing that its principles remain valid, that the proposed new party lacks a sufficiently defined programme, and that the continued existence of Congress and Jan Sangh would undermine the hoped-for two-party system.
+
 ## Key points
 
 - The Swatantra Party sought to build a two-party system to reduce political confusion and provide voters with a clear alternative.

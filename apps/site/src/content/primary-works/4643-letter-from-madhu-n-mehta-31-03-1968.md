@@ -48,6 +48,12 @@ summary: |-
   The enclosed letter to General Secretary N. Dandekar expands the appeal. Mehta acknowledges members’ exasperation over recent party developments, particularly in Gujarat, but argues that Masani’s departure should prompt corrective action rather than further division. Citing the approaching Haryana elections and the country’s deteriorating political situation, he urges an emergency General Council meeting instead of waiting for the National Executive’s scheduled meeting in Bhubaneswar approximately two months later.
 ---
 
+## Summary
+
+This two-page correspondence dated 31 March 1968 records Madhu N. Mehta’s response to Minoo Masani’s resignation from the National Executive and Central Parliamentary Board of the Swatantra Party. In the covering letter, Mehta asks fellow General Council members to meet immediately, discuss the circumstances of the resignation, and take decisions to restore order within the party.
+
+The enclosed letter to General Secretary N. Dandekar expands the appeal. Mehta acknowledges members’ exasperation over recent party developments, particularly in Gujarat, but argues that Masani’s departure should prompt corrective action rather than further division. Citing the approaching Haryana elections and the country’s deteriorating political situation, he urges an emergency General Council meeting instead of waiting for the National Executive’s scheduled meeting in Bhubaneswar approximately two months later.
+
 ## Key points
 
 - Madhu N. Mehta writes on 31 March 1968 about Minoo Masani’s resignation from the Swatantra Party’s National Executive and Central Parliamentary Board.

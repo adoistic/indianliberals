@@ -50,6 +50,12 @@ summary: |-
   The letter also mentions travel, a planned return to Delhi in the first week of November, and arrangements concerning elections and the selection or delegation of representatives to organisational bodies. The handwriting is difficult to decipher in several passages, so the precise names of the conference, destination, and organisations cannot be established from these pages alone.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 19 September 1969 and written from Delhi, is addressed by Member of Parliament G. Gudilingappa Goud to Minoo Masani. Goud apologises for not having been able to meet Masani during his stay in Delhi, refers to a conference and related parliamentary or organisational activity, and says that he is leaving Delhi shortly.
+
+The letter also mentions travel, a planned return to Delhi in the first week of November, and arrangements concerning elections and the selection or delegation of representatives to organisational bodies. The handwriting is difficult to decipher in several passages, so the precise names of the conference, destination, and organisations cannot be established from these pages alone.
+
 ## Key points
 
 - The letter is dated 19 September 1969 and was written from Delhi.

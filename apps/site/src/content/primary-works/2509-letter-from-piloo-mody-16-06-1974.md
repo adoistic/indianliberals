@@ -59,6 +59,12 @@ summary: |-
   Mody presents the proposed two-party system as a programme-based rather than ideologically fixed arrangement. He distinguishes it from a merger of existing parties: the plan would dissolve the old parties and create a new party based on consensus, while retaining Swatantra principles through the participation of its members. The letter describes a prospective organisation involving multiple national, regional, communal, and independent groups, with decentralisation, regional variation, and individual opinion protected through the party constitution. Mody closes by urging members to examine the enclosed draft programme, resist newspaper reports he considers misleading, and await ratification by a National Convention.
 ---
 
+## Summary
+
+In this four-page letter dated June 16, 1974, Piloo Mody explains the Swatantra Party's proposal to build a two-party system and a broad national alternative to Congress rule. He argues that democratic institutions—including Parliament, the cabinet system, the judiciary, the press, fundamental rights, and opposition parties—have been weakened, creating a danger of dictatorship. In his view, the immediate political task is to unite all non-Congress, non-Marxist, and non-Communist parties, even though the process will require persuasion and compromise.
+
+Mody presents the proposed two-party system as a programme-based rather than ideologically fixed arrangement. He distinguishes it from a merger of existing parties: the plan would dissolve the old parties and create a new party based on consensus, while retaining Swatantra principles through the participation of its members. The letter describes a prospective organisation involving multiple national, regional, communal, and independent groups, with decentralisation, regional variation, and individual opinion protected through the party constitution. Mody closes by urging members to examine the enclosed draft programme, resist newspaper reports he considers misleading, and await ratification by a National Convention.
+
 ## Key points
 
 - Mody frames the proposed two-party system as a response to the erosion of democratic institutions and the danger of impending dictatorship.

@@ -49,6 +49,12 @@ summary: |-
   Masani outlines a shared political position: he and C. Rajagopalachari are reluctant to take any action that is premature or unfair, or that might appear to exploit public concern over food. He says their position and criticisms will be stated clearly without adopting a rigid or “cut and dried” attitude. He also notes that the Parliamentary Board will meet in Delhi on the afternoon of 6 September to consider the matter. The second rendered page is an attached archival note recording receipt of the letter and a delayed reply.
 ---
 
+## Summary
+
+In this letter dated 1 September 1964, M. R. Masani writes to Acharya J. B. Kripalani about an impending meeting in Delhi and reports that Dayabhai has briefed him on their discussions. Masani explains that he cannot meet Kripalani on 5 September because of engagements in Calcutta, but expects to be occupied with meetings immediately after arriving in Delhi on 6 September.
+
+Masani outlines a shared political position: he and C. Rajagopalachari are reluctant to take any action that is premature or unfair, or that might appear to exploit public concern over food. He says their position and criticisms will be stated clearly without adopting a rigid or “cut and dried” attitude. He also notes that the Parliamentary Board will meet in Delhi on the afternoon of 6 September to consider the matter. The second rendered page is an attached archival note recording receipt of the letter and a delayed reply.
+
 ## Key points
 
 - Masani regrets that he cannot meet Kripalani in Delhi on 5 September because of prior engagements in Calcutta.

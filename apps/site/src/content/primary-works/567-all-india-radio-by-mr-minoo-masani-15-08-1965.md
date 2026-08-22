@@ -52,6 +52,12 @@ summary: |-
   Masani proposes replacing AIR’s departmental structure with an independent statutory public corporation, while allowing universities, municipalities, and cultural organizations to establish non-government radio stations. He also advocates commercial broadcasting and advertising revenue as ways to finance expanded radio and television services, arguing that the state should not subsidize entertainment for a small urban minority at the expense of the rural public. The text concludes by urging the Minister for Information and Broadcasting to pursue experimentation, rationalization, and liberalization under strong leadership.
 ---
 
+## Summary
+
+In this four-page English text headed “ALL INDIA RADIO,” Minoo Masani argues that All India Radio and television require fundamental institutional reform. Drawing on his experience as a management consultant and former parliamentarian, he criticizes AIR’s personnel policies, bureaucratic organization, outdated training, limited programming, and failure to attract capable creative staff. He calls for recruitment based on merit, better professional training, and a more lively and independent broadcasting service.
+
+Masani proposes replacing AIR’s departmental structure with an independent statutory public corporation, while allowing universities, municipalities, and cultural organizations to establish non-government radio stations. He also advocates commercial broadcasting and advertising revenue as ways to finance expanded radio and television services, arguing that the state should not subsidize entertainment for a small urban minority at the expense of the rural public. The text concludes by urging the Minister for Information and Broadcasting to pursue experimentation, rationalization, and liberalization under strong leadership.
+
 ## Key points
 
 - AIR’s weak programming, personnel policies, and bureaucratic culture are presented as interconnected failures.

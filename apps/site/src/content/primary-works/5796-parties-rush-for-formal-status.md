@@ -51,6 +51,12 @@ summary: |-
   The report divides the applicants into four broad categories: established parties such as the Congress(I), Communist Party of India, Janata Party, and Bharatiya Janata Party; regional and state-level parties; groups formed after the recent elections; and newly created organisations. It highlights disputes and overlaps involving the Dravida Munnetra Kazhagam, All-India Anna DMK, Muslim League, Assam Gana Parishad, Sikkim Sangram Parishad, and Tamil Nadu-based parties. The article also observes that some applicants may be unable to satisfy the new legal conditions, particularly those associated with separatist or explicitly religious political positions.
 ---
 
+## Summary
+
+The article reports that the Telugu Desam Party and the Congress(I) applied for registration as political parties under India's new electoral laws, amid a rush of applications before the deadline. Election Commission sources reportedly received 216 applications, including submissions from established national and regional parties, newly formed organisations, and groups seeking recognition for the first time. The article notes uncertainty about whether all applicants would meet the statutory requirements, including commitments to socialism, secularism, democracy, and India's Constitution.
+
+The report divides the applicants into four broad categories: established parties such as the Congress(I), Communist Party of India, Janata Party, and Bharatiya Janata Party; regional and state-level parties; groups formed after the recent elections; and newly created organisations. It highlights disputes and overlaps involving the Dravida Munnetra Kazhagam, All-India Anna DMK, Muslim League, Assam Gana Parishad, Sikkim Sangram Parishad, and Tamil Nadu-based parties. The article also observes that some applicants may be unable to satisfy the new legal conditions, particularly those associated with separatist or explicitly religious political positions.
+
 ## Key points
 
 - The Telugu Desam Party and Congress(I) submitted applications for registration under new electoral laws.

@@ -58,6 +58,10 @@ summary: |-
   In “The Need for a Second Republic,” Sharad Joshi argues that India’s constitutional framework was weakened because the Republic began with a socially fragmented nation and a colonial, dualistic economy, while post-independence policy deepened rather than resolved those divisions. He describes the erosion of federalism, parliamentary authority, judicial independence, and administrative accountability, presenting the concentration of power in the Prime Minister’s office as a central institutional failure. The essay also links political disintegration to economic stagnation, state intervention, licensing, planning, and policies that disadvantaged producers, particularly farmers.
 ---
 
+## Summary
+
+In “The Need for a Second Republic,” Sharad Joshi argues that India’s constitutional framework was weakened because the Republic began with a socially fragmented nation and a colonial, dualistic economy, while post-independence policy deepened rather than resolved those divisions. He describes the erosion of federalism, parliamentary authority, judicial independence, and administrative accountability, presenting the concentration of power in the Prime Minister’s office as a central institutional failure. The essay also links political disintegration to economic stagnation, state intervention, licensing, planning, and policies that disadvantaged producers, particularly farmers.
+
 ## Key points
 
 - Joshi contends that India’s institutions have been damaged by excessive centralisation and the weakening of the states.

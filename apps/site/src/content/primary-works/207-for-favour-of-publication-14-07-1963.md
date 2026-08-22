@@ -58,6 +58,12 @@ summary: |-
   The statement also defends the Swatantra Party's position on national defence, arguing that India should have resisted Chinese Communist invaders with arms and equipment supplied by countries able to provide them. It criticises the Congress government's allegedly prolonged refusal to fight the invader, while linking the party's electoral decline to high taxes and prices, the Gold Control Order, neglect of national defence, and a perceived gap between Congress professions and practice. Masani contrasts Nehru's desire to remain in office with Bhailalbhai Patel's decision to withdraw from active organisational work at age 75, and closes by citing large shifts in Congress and Swatantra vote margins as evidence of changing public opinion.
 ---
 
+## Summary
+
+This two-page Swatantra Party press statement, issued from Ahmedabad on June 14 and attributed to M. R. Masani, argues that the Congress Party has failed to learn from its electoral defeats at Amroha, Farrukhabad, and Rajkot. Masani presents Jawaharlal Nehru's reported speech in Madras as evidence that the Prime Minister has responded to defeat by blaming others rather than reconsidering government policy. He predicts that public demand for a change of government will become unmistakable in the coming months and years.
+
+The statement also defends the Swatantra Party's position on national defence, arguing that India should have resisted Chinese Communist invaders with arms and equipment supplied by countries able to provide them. It criticises the Congress government's allegedly prolonged refusal to fight the invader, while linking the party's electoral decline to high taxes and prices, the Gold Control Order, neglect of national defence, and a perceived gap between Congress professions and practice. Masani contrasts Nehru's desire to remain in office with Bhailalbhai Patel's decision to withdraw from active organisational work at age 75, and closes by citing large shifts in Congress and Swatantra vote margins as evidence of changing public opinion.
+
 ## Key points
 
 - Masani interprets Congress defeats at Amroha, Farrukhabad, and Rajkot as warnings that the party must change its policies or leave office.

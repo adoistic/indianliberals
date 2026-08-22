@@ -53,6 +53,12 @@ summary: |-
   A notice dated July 5 asks party members to send the office information about subjects likely to arise in the House, so that briefing notes can be prepared and circulated to members asked to speak. The minutes of the Executive Committee meeting held on July 4 record concerns about members’ subscription arrears, the office’s deficit, monthly account review, and the preparation of subject notes. They also discuss a proposed party delegation to Naxalbari to conduct a stop-study and report on the situation, pending consultation with Orissa Chief Minister R.N. Singh Deo. The file documents the party’s parliamentary research, internal financing, information-sharing, and immediate political coordination; it does not present a sustained policy argument.
 ---
 
+## Summary
+
+This three-page English-language file from the Swatantra Party Parliamentary Office in New Delhi contains three internal records dated July 4–5, 1967. The first, a circular signed by Secretary C.C. Desai, announces the appointment of R.V. Subramanian as a Research Assistant. Subramanian is tasked with helping the Executive Secretary collect information on subjects requested by party members, with the office seeking him a pass for the Central Hall of Parliament and eventual access to members in Parliament House.
+
+A notice dated July 5 asks party members to send the office information about subjects likely to arise in the House, so that briefing notes can be prepared and circulated to members asked to speak. The minutes of the Executive Committee meeting held on July 4 record concerns about members’ subscription arrears, the office’s deficit, monthly account review, and the preparation of subject notes. They also discuss a proposed party delegation to Naxalbari to conduct a stop-study and report on the situation, pending consultation with Orissa Chief Minister R.N. Singh Deo. The file documents the party’s parliamentary research, internal financing, information-sharing, and immediate political coordination; it does not present a sustained policy argument.
+
 ## Key points
 
 - The Swatantra Party Parliamentary Office appointed R.V. Subramanian as a Research Assistant.

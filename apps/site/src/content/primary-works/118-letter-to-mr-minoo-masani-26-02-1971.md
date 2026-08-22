@@ -49,6 +49,14 @@ summary: |-
   The document is a small but concrete artefact of how the Swatantra Party financed its 1971 campaign work: senior figures cultivated Bombay industrialists through personal channels, and unsigned pledges were treated as still open until money physically changed hands.
 ---
 
+## Summary
+
+This one-page 'Strictly Confidential' letter, typed on Swatantra Party national-headquarters stationery (Sassoon Building, 143 Mahatma Gandhi Road, Bombay 1) and dated 26 February 1971, is a brief internal update from R. C. Cooper to Minoo Masani, then travelling and addressed care of Light House, Debhar Road, Rajkot. Cooper reports back on two errands Masani had asked him to run on the party's behalf: soliciting a contribution from Soli Godrej and following up with Naval Vakil.
+
+On the Godrej approach, Cooper writes that he found him 'very sympathetic' and that Godrej has 'agreed to your suggestion' though without naming an amount; Godrej wants to meet Masani in person to hand over the funds. Cooper has told him that Masani is due back in Bombay 'on March 2 or thereabouts' and that Godrej is expecting to see him immediately on his return. On the second front, Cooper notes that he has 'twice spoke[n] to Naval Vakil' but that Vakil 'has not committed himself yet.' The letter closes with a courteous 'Wishing you the very best.'
+
+The document is a small but concrete artefact of how the Swatantra Party financed its 1971 campaign work: senior figures cultivated Bombay industrialists through personal channels, and unsigned pledges were treated as still open until money physically changed hands.
+
 ## Key points
 
 - Typed on Swatantra Party national-headquarters letterhead (Sassoon Building, 143 Mahatma Gandhi Road, Bombay 1) and marked 'Strictly Confidential', dated 26 February 1971.

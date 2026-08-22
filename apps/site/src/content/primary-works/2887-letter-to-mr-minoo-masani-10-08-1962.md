@@ -53,6 +53,12 @@ summary: |-
   Deo describes his understanding that a parliamentary party of roughly fifty members might be formed and formally recognised as the first Opposition party, while also stressing the need for cooperation with other parties. He then discusses his evidence before the National Integration Committee, distinguishing between communal organisations' freedom to operate in cultural, social, and reform fields and their exclusion from party politics. He presents this position as personal rather than formally binding on the party, and links it to Article 60 of the Swatantra Party Election Manifesto as interpreted by Professor Ratnaswamy.
 ---
 
+## Summary
+
+In this letter dated 10 August 1962, P. K. Deo writes to M. R. Masani about efforts to create a larger United National Democratic Party in the Lok Sabha. He rejects association with an organisation devoted to preserving the interests of “Hindu, Hindi and Hindustan” and sets out three proposed principles: opposition to statism and state encroachment on individual liberty and initiative; restoration and preservation of the Fundamental Rights guaranteed by the Constitution of 1950; and defence of India's territorial integrity and sovereignty against Chinese or other aggression.
+
+Deo describes his understanding that a parliamentary party of roughly fifty members might be formed and formally recognised as the first Opposition party, while also stressing the need for cooperation with other parties. He then discusses his evidence before the National Integration Committee, distinguishing between communal organisations' freedom to operate in cultural, social, and reform fields and their exclusion from party politics. He presents this position as personal rather than formally binding on the party, and links it to Article 60 of the Swatantra Party Election Manifesto as interpreted by Professor Ratnaswamy.
+
 ## Key points
 
 - The letter proposes a broader United National Democratic Party in the Lok Sabha.

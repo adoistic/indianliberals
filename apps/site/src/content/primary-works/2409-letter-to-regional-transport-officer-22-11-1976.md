@@ -48,6 +48,12 @@ summary: |-
   The letter states that the writer personally met Mr. S. R. Tracy, who advised sending a letter with the necessary information. A copy is enclosed for the recipient's records, along with five notices. The correspondence is administrative in purpose and indicates that the vehicles had been sent to different locations during the 1971 general elections. The page does not identify the signatory by name; only a handwritten signature and the designation “(EXECUTIVE SECRETARY)” are visible.
 ---
 
+## Summary
+
+This one-page English office letter, dated 22 November 1976, is addressed to the Regional Transport Officer in Bombay for the attention of Mr. Jivdvia. The writer refers to a telephone conversation concerning vehicles purchased by the Swatantra Party under various individual names, noting that the party had subsequently merged into the Bharatiya Lok Dal.
+
+The letter states that the writer personally met Mr. S. R. Tracy, who advised sending a letter with the necessary information. A copy is enclosed for the recipient's records, along with five notices. The correspondence is administrative in purpose and indicates that the vehicles had been sent to different locations during the 1971 general elections. The page does not identify the signatory by name; only a handwritten signature and the designation “(EXECUTIVE SECRETARY)” are visible.
+
 ## Key points
 
 - The letter is dated 22 November 1976 and addressed to the Regional Transport Officer, Bombay.

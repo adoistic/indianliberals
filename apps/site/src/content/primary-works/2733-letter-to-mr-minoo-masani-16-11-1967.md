@@ -49,6 +49,12 @@ summary: |-
   Singh endorses the practice of "job rotation," calling it healthy, and says Masani's new role as Chairman of the Public Accounts Committee leaves him no time to continue as General Secretary. He thanks Masani for seven years of work from the party's inception and supports Masani's recommendation that Mr. Dandekar become General Secretary for the next two years.
 ---
 
+## Summary
+
+This single-page letter, written by Lakshman Singh on Rajasthan Swatantra Party letterhead and dated 16 November 1967, responds to Minoo Masani's congratulations on Singh's election to the party's General Council and his Diwali greetings. Singh reciprocates the good wishes and comments on Masani's decision to step down as the party's General Secretary.
+
+Singh endorses the practice of "job rotation," calling it healthy, and says Masani's new role as Chairman of the Public Accounts Committee leaves him no time to continue as General Secretary. He thanks Masani for seven years of work from the party's inception and supports Masani's recommendation that Mr. Dandekar become General Secretary for the next two years.
+
 ## Key points
 
 - Lakshman Singh acknowledges Minoo Masani's congratulations on his election to the Swatantra Party's General Council.

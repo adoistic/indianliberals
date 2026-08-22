@@ -48,6 +48,12 @@ summary: |-
   The document is a brief logistical communication rather than a substantive political or policy statement. It includes Masani’s Bombay address and a confirmatory copy sent by post to Jain at 53 North Avenue, New Delhi.
 ---
 
+## Summary
+
+This one-page express telegram, dated 14 June 1966, records M. R. Masani’s arrangements for a meeting with A. P. Jain. Masani explains that the Prime Minister will be out of town from 17 to 21 June and therefore proposes fixing the meeting for 5 p.m. on 22 June, asking Jain to wire his convenience.
+
+The document is a brief logistical communication rather than a substantive political or policy statement. It includes Masani’s Bombay address and a confirmatory copy sent by post to Jain at 53 North Avenue, New Delhi.
+
 ## Key points
 
 - The document is marked “EXPRESS” and is formatted as a telegram.

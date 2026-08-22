@@ -49,6 +49,10 @@ summary: |-
   This one-page English office notice, issued by the Swatantra Party’s Bombay Region on January 11, 1973, announces a meeting of the Regional Executive Committee at the party office in Sassoon Building, 143 Mahatma Gandhi Road, Bombay-1. The meeting was scheduled for Wednesday, January 17, 1973, at 6:15 p.m., and recipients were invited to attend.
 ---
 
+## Summary
+
+This one-page English office notice, issued by the Swatantra Party’s Bombay Region on January 11, 1973, announces a meeting of the Regional Executive Committee at the party office in Sassoon Building, 143 Mahatma Gandhi Road, Bombay-1. The meeting was scheduled for Wednesday, January 17, 1973, at 6:15 p.m., and recipients were invited to attend.
+
 ## Key points
 
 - The Swatantra Party’s Bombay Region issued the notice on January 11, 1973.

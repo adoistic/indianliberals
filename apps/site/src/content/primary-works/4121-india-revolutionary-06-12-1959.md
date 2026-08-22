@@ -54,6 +54,12 @@ summary: |-
   The article focuses especially on Narayan’s proposed alternative to India’s existing political order. It describes his vision of decentralised political and economic power, village self-sufficiency, non-party government through committees, direct election based on candidates’ personal merits, and a federation of self-governing communities. The profile also reports his criticism of the Congress government, his reservations about Westernised Indian elites, and his belief that India should recover a more peaceful and decentralised political tradition rather than imitate Western blueprints or Communist China.
 ---
 
+## Summary
+
+This one-page profile, published in The Observer on December 6, 1959, presents Jayaprakash Narayan as a possible dominant figure in the next decade of Indian politics. It sketches his movement from Marxist and Gandhian influences through anti-British activism, imprisonment, leadership of the Congress Socialist Party, and later involvement in Vinoba Bhave’s voluntary land-reform movement. The profile emphasizes Narayan’s opposition to both communism and centralized party politics, while portraying him as an unusually disciplined, austere, and politically independent figure.
+
+The article focuses especially on Narayan’s proposed alternative to India’s existing political order. It describes his vision of decentralised political and economic power, village self-sufficiency, non-party government through committees, direct election based on candidates’ personal merits, and a federation of self-governing communities. The profile also reports his criticism of the Congress government, his reservations about Westernised Indian elites, and his belief that India should recover a more peaceful and decentralised political tradition rather than imitate Western blueprints or Communist China.
+
 ## Key points
 
 - Jayaprakash Narayan is presented as a possible major political influence in India’s coming decade.

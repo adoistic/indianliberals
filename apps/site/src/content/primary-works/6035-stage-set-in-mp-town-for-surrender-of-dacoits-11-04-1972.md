@@ -52,6 +52,12 @@ summary: |-
   The report presents the effort as part of a broader Sarvodaya peace mission associated with Acharya Vinoba Bhave and Jayaprakash Narayan. It discusses the role of local workers, including M. P. Sethi and S. C. Shukla, in persuading the outlaws to abandon violence. Separate sections describe individual dacoit leaders, the mission's emphasis on rehabilitation, claims that some kidnapped people were released without ransom, and Jayaprakash Narayan's discussions with Prime Minister Indira Gandhi about the surrender. The article also records scepticism about whether the dacoits' claims and promises can be verified.
 ---
 
+## Summary
+
+This one-page Times of India news report, dated 10 April 1972 from Jaura, Madhya Pradesh, describes preparations for the surrender of several dacoit groups to Sarvodaya workers. The surrender is expected to take place at meetings at the Gandhi Ashram on Friday and Sunday, with roughly 200 dacoits reportedly expected to give up their arms. The article says police have arranged to take the surrendered men into custody and escort them to a central jail at Gwalior, while acknowledging uncertainty about whether all wanted dacoits will participate.
+
+The report presents the effort as part of a broader Sarvodaya peace mission associated with Acharya Vinoba Bhave and Jayaprakash Narayan. It discusses the role of local workers, including M. P. Sethi and S. C. Shukla, in persuading the outlaws to abandon violence. Separate sections describe individual dacoit leaders, the mission's emphasis on rehabilitation, claims that some kidnapped people were released without ransom, and Jayaprakash Narayan's discussions with Prime Minister Indira Gandhi about the surrender. The article also records scepticism about whether the dacoits' claims and promises can be verified.
+
 ## Key points
 
 - A Sarvodaya peace mission is preparing for the surrender of dacoits at Jaura, Madhya Pradesh.

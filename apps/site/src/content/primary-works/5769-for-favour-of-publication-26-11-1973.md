@@ -54,6 +54,12 @@ summary: |-
   The release also lists the 20 members elected to the State Executive Committee and eight people elected to the Party's General Council. It is an administrative and electoral record of the Maharashtra unit's leadership structure rather than a statement of policy or political argument.
 ---
 
+## Summary
+
+This one-page Swatantra Party Maharashtra press release, dated November 26, 1973, announces the results of the first meeting of the newly elected Maharashtra State Council, held in Bombay on November 24. It records the election of Madhu Mehta as president, five vice presidents, Girish Munshi as general secretary, five joint secretaries, and Babubhai Ginwala as treasurer.
+
+The release also lists the 20 members elected to the State Executive Committee and eight people elected to the Party's General Council. It is an administrative and electoral record of the Maharashtra unit's leadership structure rather than a statement of policy or political argument.
+
 ## Key points
 
 - The document is a Swatantra Party Maharashtra press release dated November 26, 1973.

@@ -52,6 +52,12 @@ summary: |-
   The minutes assign D. N. Dandeker to speak for the party and leave the voting position on the West Bengal motion to the Leader's discretion. The committee also decides not to participate in discussion of Shri Shri Chand Royal's bill concerning compulsory publication of political parties' annual accounts, while naming members requested to speak on the Railway Demands for Grants. The document is signed by D. N. Patodia as Secretary.
 ---
 
+## Summary
+
+This one-page record, issued by the Swatantra Party Parliamentary Office in New Delhi on 10 March 1969, documents an Executive Committee meeting held on 7 March 1969 in the Parliament House Central Hall. It lists the members present and records the party's response to recent political developments in West Bengal, including the Governor's address, the announcement of mid-term election results, and the United Front's demand for the Governor's removal.
+
+The minutes assign D. N. Dandeker to speak for the party and leave the voting position on the West Bengal motion to the Leader's discretion. The committee also decides not to participate in discussion of Shri Shri Chand Royal's bill concerning compulsory publication of political parties' annual accounts, while naming members requested to speak on the Railway Demands for Grants. The document is signed by D. N. Patodia as Secretary.
+
 ## Key points
 
 - The Executive Committee met on 7 March 1969 at 3:00 p.m. in the Parliament House Central Hall.

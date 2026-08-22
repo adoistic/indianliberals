@@ -50,6 +50,12 @@ summary: |-
   The guidance concerns two immediate parliamentary matters: a no-confidence motion and C. C. Desai’s request for permission to introduce a Bill amending Article 334 of the Constitution. The proposed amendment sought to extend the reservation of constituencies for Scheduled Castes and Tribes. Dandeker encloses the relevant extract from the Central Parliamentary Board’s minutes and asks Ranga to ensure that the Party’s Members of Parliament follow the Board’s decisions.
 ---
 
+## Summary
+
+This one-page Swatantra Party Central Office letter, dated February 25, 1969, is addressed by General Secretary N. Dandeker to Prof. N. G. Ranga. It communicates the Central Parliamentary Board’s guidance to the Party’s parliamentary group ahead of Parliament’s Budget Session, following a Board meeting held in New Delhi on February 16.
+
+The guidance concerns two immediate parliamentary matters: a no-confidence motion and C. C. Desai’s request for permission to introduce a Bill amending Article 334 of the Constitution. The proposed amendment sought to extend the reservation of constituencies for Scheduled Castes and Tribes. Dandeker encloses the relevant extract from the Central Parliamentary Board’s minutes and asks Ranga to ensure that the Party’s Members of Parliament follow the Board’s decisions.
+
 ## Key points
 
 - The letter was issued by the Swatantra Party Central Office in Bombay on February 25, 1969.

@@ -59,6 +59,12 @@ summary: |-
   The note identifies the Swatantra Party, founded in June 1959 by Minoo Masani and C. Rajagopalachari, as liberalism’s later political comeback, prompted particularly by opposition to collectivised farming and the permit, licence, and quota system. It records the party’s rapid electoral rise, its role in coalition government in Orissa, and its efforts to uphold parliamentary standards and the liberal character of the Constitution. The second page describes the revival of the Indian Liberal Group in response to corruption, declining democratic institutions, and the absence of an organised liberal voice. It presents the Group’s workshops, 1999 Delhi symposium, organisational expansion, support for market reform, and advocacy of human and minority rights as the basis for a renewed liberal dialogue.
 ---
 
+## Summary
+
+This two-page English brief traces Indian liberalism from Ram Mohan Roy’s eighteenth-century advocacy of social reform, women’s uplift, education, and press freedom through the nineteenth-century freedom movement and the liberal phase of the Indian National Congress. It presents the Congress as initially shaped by liberals who adapted Western concepts to Indian conditions, then argues that liberal influence declined after Mahatma Gandhi’s ascendance and the Congress’s post-independence adoption of a “socialistic pattern of society” under Jawaharlal Nehru, which expanded state power.
+
+The note identifies the Swatantra Party, founded in June 1959 by Minoo Masani and C. Rajagopalachari, as liberalism’s later political comeback, prompted particularly by opposition to collectivised farming and the permit, licence, and quota system. It records the party’s rapid electoral rise, its role in coalition government in Orissa, and its efforts to uphold parliamentary standards and the liberal character of the Constitution. The second page describes the revival of the Indian Liberal Group in response to corruption, declining democratic institutions, and the absence of an organised liberal voice. It presents the Group’s workshops, 1999 Delhi symposium, organisational expansion, support for market reform, and advocacy of human and minority rights as the basis for a renewed liberal dialogue.
+
 ## Key points
 
 - The brief begins Indian liberalism with Ram Mohan Roy’s commitments to social reform, women’s uplift, education, and press freedom.

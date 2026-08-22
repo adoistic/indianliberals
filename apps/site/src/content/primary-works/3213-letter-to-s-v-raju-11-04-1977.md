@@ -49,6 +49,12 @@ summary: |-
   Masani also asks Raju to inform KH and Sampet so that they can attend. The letterhead places Masani at 148 Mahatma Gandhi Road, Bombay 400 023, while Raju's address is given as the Maharashtra Swatantra Party office at 143 Mahatma Gandhi Road, Bombay 1. The page documents organisational or party-related coordination but does not specify the matters under dispute.
 ---
 
+## Summary
+
+This untitled letter from M. R. Masani to S. V. Raju, dated April 11, 1977, arranges a preliminary discussion of disputed matters. Masani asks Raju to meet him at his office in the Army & Navy Building on April 14 at 3 p.m., and notes that he has written to Girish as well.
+
+Masani also asks Raju to inform KH and Sampet so that they can attend. The letterhead places Masani at 148 Mahatma Gandhi Road, Bombay 400 023, while Raju's address is given as the Maharashtra Swatantra Party office at 143 Mahatma Gandhi Road, Bombay 1. The page documents organisational or party-related coordination but does not specify the matters under dispute.
+
 ## Key points
 
 - The letter is dated April 11, 1977, and is signed by M. R. Masani.

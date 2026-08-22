@@ -51,6 +51,10 @@ summary: |-
   This one-page press note records remarks by M. R. Masani, General Secretary of the Swatantra Party, at a public meeting organised by Indians for Victory in Bombay. Masani warns that resuming negotiations with the Chinese Communists after their assurances and treatment of the Chinese people would show that the Indian Government had learned nothing from past events and could invite another disaster. He compares such a policy to Britain accepting an armistice from Hitler immediately after Dunkirk, and criticises the gap between the Government's thinking and public opinion.
 ---
 
+## Summary
+
+This one-page press note records remarks by M. R. Masani, General Secretary of the Swatantra Party, at a public meeting organised by Indians for Victory in Bombay. Masani warns that resuming negotiations with the Chinese Communists after their assurances and treatment of the Chinese people would show that the Indian Government had learned nothing from past events and could invite another disaster. He compares such a policy to Britain accepting an armistice from Hitler immediately after Dunkirk, and criticises the gap between the Government's thinking and public opinion.
+
 ## Key points
 
 - Masani opposes renewed negotiations with the Chinese Communists unless they first demonstrate a change in conduct.

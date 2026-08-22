@@ -53,6 +53,12 @@ summary: |-
   The letter urges a stronger campaign against the Congress and the Jan Sangh and calls for intensified political work around the Seventeenth Amendment. Masani also mentions having sent a note on Madhya Pradesh to the central office, expresses relief that Rajaji is keeping well, and asks that his regards be conveyed to Mrs. Bharathi Devi. The entire two-page document was rendered and read; the second page is an addressed envelope rather than additional correspondence.
 ---
 
+## Summary
+
+This handwritten letter from M. Masani to Acharya Ranga, dated 6 July 1964, describes organizational and financial difficulties facing the Swatantra Party in Madhya Pradesh. Masani apologizes for being unable to attend because he is suffering from asthma and says he lacks information about what the central office is doing in other districts. He reports difficulty finding good organizers and able workers, and asks how long he should continue spending his own money on party activity.
+
+The letter urges a stronger campaign against the Congress and the Jan Sangh and calls for intensified political work around the Seventeenth Amendment. Masani also mentions having sent a note on Madhya Pradesh to the central office, expresses relief that Rajaji is keeping well, and asks that his regards be conveyed to Mrs. Bharathi Devi. The entire two-page document was rendered and read; the second page is an addressed envelope rather than additional correspondence.
+
 ## Key points
 
 - Masani apologizes to Acharya Ranga for being unable to attend because of asthma.

@@ -58,6 +58,12 @@ summary: |-
   The note also proposes immediate measures to prevent devaluation from worsening economic hardship. These include assistance for industrial projects stranded mid-stream, access to imported raw materials for exporters, withdrawal of new export duties, and abolition of import duties and surcharges on raw materials, intermediate materials, fuels, and spare parts. The scan's final two pages contain a separate Swatantra Party Central Parliamentary Board note concerning organisational and financial arrangements in Gujarat; that document is not part of the titled devaluation note and is described only as a scan-level anomaly here.
 ---
 
+## Summary
+
+This June 22, 1966 position paper, signed by N. G. Ranga and M. R. Masani, argues that devaluation is only one consequence of a decade and a half of mistaken economic policy and planning. It calls for a clear end to inflationary policies, fiscal discipline by Union and State governments, reduced non-developmental expenditure, restrictions on foreign borrowing, postponement and recasting of the proposed Fourth Plan, lower taxation, and the dismantling of permits, licences, import controls, exchange controls, and Gold Control.
+
+The note also proposes immediate measures to prevent devaluation from worsening economic hardship. These include assistance for industrial projects stranded mid-stream, access to imported raw materials for exporters, withdrawal of new export duties, and abolition of import duties and surcharges on raw materials, intermediate materials, fuels, and spare parts. The scan's final two pages contain a separate Swatantra Party Central Parliamentary Board note concerning organisational and financial arrangements in Gujarat; that document is not part of the titled devaluation note and is described only as a scan-level anomaly here.
+
 ## Key points
 
 - The authors present devaluation as one aspect of a wider economic collapse caused by prolonged mistaken policies and planning.

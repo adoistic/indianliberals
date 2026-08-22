@@ -53,6 +53,10 @@ summary: |-
   In this two-page Lok Sabha speech of 14 April 1964, M. R. Masani argues that a free society requires the public to know the truth and to face government obligations without evasion. He addresses two matters involving the Home Ministry: the authenticity of letters attributed to Shri Dange held in the National Archives, and the banning of George Patterson's book, "Peking Vs. Delhi."
 ---
 
+## Summary
+
+In this two-page Lok Sabha speech of 14 April 1964, M. R. Masani argues that a free society requires the public to know the truth and to face government obligations without evasion. He addresses two matters involving the Home Ministry: the authenticity of letters attributed to Shri Dange held in the National Archives, and the banning of George Patterson's book, "Peking Vs. Delhi."
+
 ## Key points
 
 - Masani frames public access to truthful information as essential to a free society.

@@ -47,6 +47,12 @@ summary: |-
   The handwritten continuation and postscript extend this practical correspondence. They discuss arrangements involving Raju, travel and accommodation, papers and photographs, and an apparent conference or meeting connected with the N. V. [?] group. The final page is an Indian inland letter card bearing Raju’s Bombay address and additional handwritten remarks. The document is fully visible as a three-page scan, although portions of the handwriting and some proper names are difficult to decipher.
 ---
 
+## Summary
+
+This English-language personal letter, dated Bombay, May 15, 1971, is addressed to S. V. Raju and signed by A. M. Coelho. The typed opening acknowledges Raju’s previous letter, discusses his return to office on May 25, and provides updates about Dr. Cooper and Sukhilal’s travel to Delhi for a Labour Ministry-sponsored conference of trade-union leaders. The letter’s tone is informal and collegial, combining office logistics with personal greetings and travel news.
+
+The handwritten continuation and postscript extend this practical correspondence. They discuss arrangements involving Raju, travel and accommodation, papers and photographs, and an apparent conference or meeting connected with the N. V. [?] group. The final page is an Indian inland letter card bearing Raju’s Bombay address and additional handwritten remarks. The document is fully visible as a three-page scan, although portions of the handwriting and some proper names are difficult to decipher.
+
 ## Key points
 
 - The letter is dated Bombay, May 15, 1971, and addressed to S. V. Raju.

@@ -55,6 +55,12 @@ summary: |-
   Narayan calls on voters to prevent the Congress from returning to power at the Centre and to support the Janata Party or a Janata-supported candidate. He frames the election not as an ordinary party contest but as a decisive opportunity to restore democratic government, end repression, and recover the people’s political rights.
 ---
 
+## Summary
+
+In this one-page political letter dated Bombay, 22 February 1977, Jayaprakash Narayan addresses voters during the post-Emergency election. He presents the political choice as one between dictatorship and democracy, describing the Emergency as a period in which constitutional protections were dismantled, civil liberties suppressed, and dissent met with imprisonment and violence. He attributes these developments to Prime Minister Indira Gandhi and her supporters, who, he argues, sought to retain power through coercion and constitutional manipulation.
+
+Narayan calls on voters to prevent the Congress from returning to power at the Centre and to support the Janata Party or a Janata-supported candidate. He frames the election not as an ordinary party contest but as a decisive opportunity to restore democratic government, end repression, and recover the people’s political rights.
+
 ## Key points
 
 - The letter describes the period since the 1974 Gujarat Agitation as a history of governmental expression of contempt for constitutional and national values.

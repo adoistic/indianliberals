@@ -51,6 +51,12 @@ summary: |-
   The clipping presents Basavapunniah as a committed socialist whose arguments ranged across working-class politics, bourgeois nationalism, and the foundations of Marxism-Leninism. Namboodiripad’s account describes a subsequent ideological conflict: although Basavapunniah did not influence him politically at first, their exchange became part of a broader struggle within the CSP that culminated in the transformation of many Congress Socialists into Communists and the Kerala CSP bloc’s entry into the Communist movement. The article’s visible text ends with Namboodiripad’s reflection on this process; no author byline is visible.
 ---
 
+## Summary
+
+This undated-byline newspaper clipping, printed from Cochin under a UNI dateline, reviews an episode from M. S. Namboodiripad’s memoir involving Minoo Masani. It recalls a period when Namboodiripad, then a Marxist leader, was more attracted to Masani’s “present-day political antagonism” than to M. R. Masani’s colleague P. Basavapunniah. The article places the episode against the Congress Socialist Party’s early years, when Masani and Basavapunniah were joint secretaries and represented sharply different tendencies within the organisation.
+
+The clipping presents Basavapunniah as a committed socialist whose arguments ranged across working-class politics, bourgeois nationalism, and the foundations of Marxism-Leninism. Namboodiripad’s account describes a subsequent ideological conflict: although Basavapunniah did not influence him politically at first, their exchange became part of a broader struggle within the CSP that culminated in the transformation of many Congress Socialists into Communists and the Kerala CSP bloc’s entry into the Communist movement. The article’s visible text ends with Namboodiripad’s reflection on this process; no author byline is visible.
+
 ## Key points
 
 - The article recounts an episode from M. S. Namboodiripad’s memoir involving Minoo Masani and P. Basavapunniah.

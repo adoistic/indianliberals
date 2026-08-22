@@ -49,6 +49,10 @@ summary: |-
   This January 9, 1964 letter from M. R. Masani to C. Rajagopalachari encloses a current note on the Swatantra Party’s involvement in the Bihar Jeep Credit dispute. Masani explains that the Party had made payments to the Central Bank on behalf of the Raja of Ramgarh, while maintaining that it was not a party to the underlying credit transaction. The correspondence records the Party’s efforts to secure repayment, clarify its legal position, and avoid litigation.
 ---
 
+## Summary
+
+This January 9, 1964 letter from M. R. Masani to C. Rajagopalachari encloses a current note on the Swatantra Party’s involvement in the Bihar Jeep Credit dispute. Masani explains that the Party had made payments to the Central Bank on behalf of the Raja of Ramgarh, while maintaining that it was not a party to the underlying credit transaction. The correspondence records the Party’s efforts to secure repayment, clarify its legal position, and avoid litigation.
+
 ## Key points
 
 - Masani alerts Rajagopalachari that Ramgarh may seek concessions concerning the Jeep Credit matter and provides an updated documentary record.

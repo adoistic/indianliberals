@@ -56,6 +56,12 @@ summary: |-
   The record states that the party criticised the Speaker’s conduct, reiterated its demand for banning the Communist parties, and expressed disappointment that the Government of India had not acted on that demand. It supported giving the P. C. Ghosh ministry an opportunity to demonstrate its majority, while urging the Central Government to act promptly within the Constitution. The record also notes P. K. Deo’s wish to move an impeachment bill concerning Governors, and the Leader’s response that Deo could pursue or withdraw the bill in light of the Executive Committee’s decision.
 ---
 
+## Summary
+
+This one-page office record, dated 19 February 1968, reports a meeting of the Swatantra Party’s General Body in Parliament held on 16 February. It lists 33 members present and records the party’s discussion of the political situation in West Bengal, following the Speaker’s adjournment of the Assembly and the disturbances associated with the United Front members and the Governor’s opening address.
+
+The record states that the party criticised the Speaker’s conduct, reiterated its demand for banning the Communist parties, and expressed disappointment that the Government of India had not acted on that demand. It supported giving the P. C. Ghosh ministry an opportunity to demonstrate its majority, while urging the Central Government to act promptly within the Constitution. The record also notes P. K. Deo’s wish to move an impeachment bill concerning Governors, and the Leader’s response that Deo could pursue or withdraw the bill in light of the Executive Committee’s decision.
+
 ## Key points
 
 - The General Body meeting was held at 2:30 p.m. in Room No. 50 on 16 February 1968.

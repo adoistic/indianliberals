@@ -48,6 +48,12 @@ summary: |-
   The enclosure, dated 18 June 1968 and addressed to Bhagwanjibhai Patel, states that the National Executive accepted the findings and recommendations of an inquiry committee and the comments of the Gujarat State Executive Committee. It concludes that Patel had worked against the Party's candidate in the Rajkot Parliamentary Constituency during the 1967 general election. As a result, the National Executive debars him from holding any office in the Party for two years, with immediate effect. The two rendered pages comprise the catalogued letter and its enclosure.
 ---
 
+## Summary
+
+In the 19 June 1968 letter, N. Dandekar writes to M. R. Masani to transmit an enclosed letter concerning disciplinary action against Bhagwanjibhai Patel. Dandekar explains that the Swatantra Party's National Executive acted at its 30 May meeting in Madras over Patel's alleged anti-Party activity during the last general election, and includes an extract from the Executive's minutes for Masani's information.
+
+The enclosure, dated 18 June 1968 and addressed to Bhagwanjibhai Patel, states that the National Executive accepted the findings and recommendations of an inquiry committee and the comments of the Gujarat State Executive Committee. It concludes that Patel had worked against the Party's candidate in the Rajkot Parliamentary Constituency during the 1967 general election. As a result, the National Executive debars him from holding any office in the Party for two years, with immediate effect. The two rendered pages comprise the catalogued letter and its enclosure.
+
 ## Key points
 
 - N. Dandekar's 19 June 1968 letter to M. R. Masani transmits an enclosed disciplinary communication.

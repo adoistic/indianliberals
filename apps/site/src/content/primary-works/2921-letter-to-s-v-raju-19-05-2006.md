@@ -52,6 +52,12 @@ summary: |-
   The attached material presents Lalitha Venkataraman as a political scientist whose research focused on Indian party politics, elections, state governments, and federalism. It highlights her doctoral study of the Swatantra and Jana Sangh parties, research on Centre–State relations and cooperative federalism, and field-based work on the Government and Politics of Madras, 1967–68. It also lists her publications, organisational work, and 2000 visiting scholarship in the United States, where she studied American federalism and state and local government. The materials visible here do not establish the document’s printed title or provide a complete bibliographic record.
 ---
 
+## Summary
+
+This 19 May 2006 letter from S. Venkataraman to S. V. Raju reports the death of Dr. (Mrs.) Lalitha Venkataraman and asks that an obituary be published in Freedom First. The letter describes her association with C. Rajagopalachari (Rajaji), Minoo Masani, the Swatantra Party, the Rajaji Foundation, and the magazine Freedom First. It encloses photographs and biographical material documenting her academic career and liberal political associations.
+
+The attached material presents Lalitha Venkataraman as a political scientist whose research focused on Indian party politics, elections, state governments, and federalism. It highlights her doctoral study of the Swatantra and Jana Sangh parties, research on Centre–State relations and cooperative federalism, and field-based work on the Government and Politics of Madras, 1967–68. It also lists her publications, organisational work, and 2000 visiting scholarship in the United States, where she studied American federalism and state and local government. The materials visible here do not establish the document’s printed title or provide a complete bibliographic record.
+
 ## Key points
 
 - S. Venkataraman’s letter, dated 19 May 2006, notifies S. V. Raju of Dr. Lalitha Venkataraman’s death and requests publication of an obituary in Freedom First.

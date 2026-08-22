@@ -45,6 +45,10 @@ summary: |-
   This single-page letter, dated August 14, 1970, is from Dr. G. S. Dhillon, Speaker of the Lok Sabha, to M. R. Masani. Dhillon thanks Masani for his condolence letter following the death of Dhillon's brother-in-law, S. Basant Singh.
 ---
 
+## Summary
+
+This single-page letter, dated August 14, 1970, is from Dr. G. S. Dhillon, Speaker of the Lok Sabha, to M. R. Masani. Dhillon thanks Masani for his condolence letter following the death of Dhillon's brother-in-law, S. Basant Singh.
+
 ## Key points
 
 - The letter was sent from the Speaker's House, 20 Akbar Road, New Delhi.

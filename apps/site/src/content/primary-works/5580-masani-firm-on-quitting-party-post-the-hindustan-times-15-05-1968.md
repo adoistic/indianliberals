@@ -46,6 +46,10 @@ summary: |-
   This Hindustan Times report, datelined New Delhi, May 14, describes Minoo Masani’s decision to resign from his posts in the Swatantra Party. Masani wrote to party leader M. R. Masani? No—the clipping identifies the resignation as Masani’s own and reports that N. Dandekar had also decided to leave his party positions. The resignations followed disciplinary action against Swatantra members and criticism of the party’s Central Parliamentary Board, National Executive, and Gujarat organisation.
 ---
 
+## Summary
+
+This Hindustan Times report, datelined New Delhi, May 14, describes Minoo Masani’s decision to resign from his posts in the Swatantra Party. Masani wrote to party leader M. R. Masani? No—the clipping identifies the resignation as Masani’s own and reports that N. Dandekar had also decided to leave his party positions. The resignations followed disciplinary action against Swatantra members and criticism of the party’s Central Parliamentary Board, National Executive, and Gujarat organisation.
+
 ## Key points
 
 - Minoo Masani announced his resignation from Swatantra Party posts after disciplinary action against party members.

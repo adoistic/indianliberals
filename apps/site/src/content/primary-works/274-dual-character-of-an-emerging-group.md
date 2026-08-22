@@ -50,6 +50,12 @@ summary: |-
   In the rendered page, Masani argues that the Congress Socialist movement had a dual character. On one side it represented socialist development; on the other it gathered radical and militant nationalists who sought to express aspirations that Congress leadership had not adequately addressed. The page identifies nationalism and socialism as its two defining strands, and criticizes the group's reluctance to make its political and economic programme sufficiently clear. The article is visibly cut off at the bottom of the rendered clipping, so the discussion continues beyond what was available here.
 ---
 
+## Summary
+
+In the rendered page, M. R. Masani reflects on his encounters with Jawaharlal Nehru and on the formation of the Congress Socialist Group in 1934. He describes shared socialist and anti-imperialist commitments, while also emphasizing differences within the emerging group over organization, Congress strategy, and the meaning of socialism. Masani recounts correspondence with Nehru, meetings with Kamala Nehru, and the establishment of a socialist group in Bombay and later in Patna.
+
+In the rendered page, Masani argues that the Congress Socialist movement had a dual character. On one side it represented socialist development; on the other it gathered radical and militant nationalists who sought to express aspirations that Congress leadership had not adequately addressed. The page identifies nationalism and socialism as its two defining strands, and criticizes the group's reluctance to make its political and economic programme sufficiently clear. The article is visibly cut off at the bottom of the rendered clipping, so the discussion continues beyond what was available here.
+
 ## Key points
 
 - Masani recalls meeting Jawaharlal Nehru and finding substantial common ground in socialism and anti-imperialism.

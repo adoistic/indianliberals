@@ -51,6 +51,12 @@ summary: |-
   A handwritten annotation adds that if more political leaders followed Masani’s example, the country would be in better shape. The letter is typed on the Chairman’s Office letterhead of Tata Industries Private Limited and is signed by J. R. D. Tata.
 ---
 
+## Summary
+
+Dated 25 June 1968, this brief letter from J. R. D. Tata to Minoo Masani acknowledges Masani’s letter of 10 June and its enclosures. Tata endorses the position Masani has taken, expressing confidence that Masani’s perseverance will strengthen his party and help improve the country’s political atmosphere.
+
+A handwritten annotation adds that if more political leaders followed Masani’s example, the country would be in better shape. The letter is typed on the Chairman’s Office letterhead of Tata Industries Private Limited and is signed by J. R. D. Tata.
+
 ## Key points
 
 - J. R. D. Tata writes to Minoo Masani on 25 June 1968.

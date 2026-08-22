@@ -70,6 +70,12 @@ summary: |-
   The economic programme rejects collectivisation, bureaucratic management, excessive State enterprise, and controls that restrict trade and investment. It supports secure property rights, self-employed peasant-proprietors, agricultural assistance, competitive industry, free distribution, restrained taxation, sound public finance, price stability, decentralised industry, and employment-generating development. The closing principles extend this position to labour protections and collective bargaining, an independent judiciary and judicial review, protection from political pressure on officials, and freedom of opinion for party members outside the statement’s fundamental principles.
 ---
 
+## Summary
+
+This six-page statement, adopted at the Swatantra Party’s Preparatory Convention in Bombay on August 1 and 2, 1959, sets out 21 principles combining social justice with individual freedom, private initiative, and limited government. It affirms equality of opportunity without distinctions of religion, caste, occupation, or political affiliation, while arguing that the State should protect citizens and the weaker sections of society without replacing individual responsibility and enterprise with compulsion. The statement also invokes Gandhian trusteeship, faith in the people, truth, non-violence, and the preservation of spiritual and cultural values.
+
+The economic programme rejects collectivisation, bureaucratic management, excessive State enterprise, and controls that restrict trade and investment. It supports secure property rights, self-employed peasant-proprietors, agricultural assistance, competitive industry, free distribution, restrained taxation, sound public finance, price stability, decentralised industry, and employment-generating development. The closing principles extend this position to labour protections and collective bargaining, an independent judiciary and judicial review, protection from political pressure on officials, and freedom of opinion for party members outside the statement’s fundamental principles.
+
 ## Key points
 
 - The party pledges social justice and equality of opportunity regardless of religion, caste, occupation, or political affiliation.

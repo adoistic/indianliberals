@@ -52,6 +52,12 @@ summary: |-
   Masani proposes four elements for that position: welcoming Abdullah's release; welcoming talks between the Prime Minister and Abdullah following Abdullah's discussions with President Ayub; expressing hope for a summit involving the Indian Prime Minister, Ayub, and Abdullah; and endorsing three fundamentals for any settlement—India-Pakistan friendship, preservation of India's non-denominational or secular basis, and an honourable status for the people of Kashmir. He also argues that accession-related pledges to the people of Kashmir and the United Nations must be respected, while anticipating objections from Ranga and Daliyabha on grounds of discretion.
 ---
 
+## Summary
+
+In this letter dated 14 May 1964, Minoo Masani writes to C. Rajagopalachari about the political implications of Sheikh Abdullah's prospective release and visit to Pakistan. He recommends that the party prepare a clear statement on Kashmir before its June meeting in Bombay, after the Parliamentary Board has briefed members and set out the party's general approach.
+
+Masani proposes four elements for that position: welcoming Abdullah's release; welcoming talks between the Prime Minister and Abdullah following Abdullah's discussions with President Ayub; expressing hope for a summit involving the Indian Prime Minister, Ayub, and Abdullah; and endorsing three fundamentals for any settlement—India-Pakistan friendship, preservation of India's non-denominational or secular basis, and an honourable status for the people of Kashmir. He also argues that accession-related pledges to the people of Kashmir and the United Nations must be respected, while anticipating objections from Ranga and Daliyabha on grounds of discretion.
+
 ## Key points
 
 - Masani urges preparation of a definitive and comprehensive party policy on Kashmir.

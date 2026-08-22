@@ -42,6 +42,10 @@ summary: |-
   A brief personal reply from Minoo Masani (M. R. Masani) to Harihar Patel of Bhubaneswar, dated 5 May 1975 — roughly six weeks before Indira Gandhi's proclamation of Emergency. Masani acknowledges Patel's letter of 9 April and records his distress at reading a letter Patel had sent to Nabakrishna Chaudhary, adding that he shares Patel's apprehensions. He then asks whether "Nababbabu" has replied and explains that he has no plans to travel to Orissa, offering instead to alert Patel the next time he is in Delhi or Calcutta so a meeting can be arranged there. The note is dictated (initialled MRM/cal) and carries no elaboration of the political concerns hinted at, but its dating and its shared "apprehensions" place it squarely in the pre-Emergency correspondence of the Swatantra circle.
 ---
 
+## Summary
+
+A brief personal reply from Minoo Masani (M. R. Masani) to Harihar Patel of Bhubaneswar, dated 5 May 1975 — roughly six weeks before Indira Gandhi's proclamation of Emergency. Masani acknowledges Patel's letter of 9 April and records his distress at reading a letter Patel had sent to Nabakrishna Chaudhary, adding that he shares Patel's apprehensions. He then asks whether "Nababbabu" has replied and explains that he has no plans to travel to Orissa, offering instead to alert Patel the next time he is in Delhi or Calcutta so a meeting can be arranged there. The note is dictated (initialled MRM/cal) and carries no elaboration of the political concerns hinted at, but its dating and its shared "apprehensions" place it squarely in the pre-Emergency correspondence of the Swatantra circle.
+
 ## Key points
 
 - One-page typed letter from Minoo Masani to Harihar Patel at 312-Kharvel Nagar, Bhubaneswar, dated 5 May 1975.

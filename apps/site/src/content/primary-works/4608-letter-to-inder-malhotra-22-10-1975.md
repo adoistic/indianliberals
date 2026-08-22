@@ -52,6 +52,12 @@ summary: |-
   The committee treats Minoo Masani's resignation from the party's National Executive as having mitigated the damage, while expressing the hope that conditions will permit him to return to the party leadership. It calls for firm measures to restore party discipline, authorises a request to postpone proposed Ahmedabad meetings until disciplinary proceedings are completed, and demands immediate disciplinary action against Bhaganji Bhanji Patel, whom an investigation found to have worked against the party's candidates. The document is signed by Ratibhai Ukabhai Patel as General Secretary of the Rajkot Swatantra Party; the supplied filename refers to a 1975 letter, but all rendered pages visibly belong to this 1968 resolution.
 ---
 
+## Summary
+
+This undated-title organisational document, issued in Rajkot on April 15, 1968, reproduces a resolution of the Rajkot District Committee of the Swatantra Party. The resolution condemns the failure of a majority of Gujarat Legislative Assembly party members to vote for Swatantra candidate Babubhai Vaidya in the Rajya Sabha election, describing the episode as a breach of faith that damaged the party's prestige. It also notes Vaidya's Independent Progressive group's earlier contribution to electing Swatantra candidates in 1964 and 1966 and to the party's 1967 general-election campaign.
+
+The committee treats Minoo Masani's resignation from the party's National Executive as having mitigated the damage, while expressing the hope that conditions will permit him to return to the party leadership. It calls for firm measures to restore party discipline, authorises a request to postpone proposed Ahmedabad meetings until disciplinary proceedings are completed, and demands immediate disciplinary action against Bhaganji Bhanji Patel, whom an investigation found to have worked against the party's candidates. The document is signed by Ratibhai Ukabhai Patel as General Secretary of the Rajkot Swatantra Party; the supplied filename refers to a 1975 letter, but all rendered pages visibly belong to this 1968 resolution.
+
 ## Key points
 
 - The Rajkot District Committee describes the failure to elect Babubhai Vaidya to the Rajya Sabha as a serious breach of party faith.

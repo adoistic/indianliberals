@@ -55,6 +55,12 @@ summary: |-
   The statement treats the political class and parliamentary democracy as being on trial. It criticizes the Delhi government's alleged loss of public confidence, its position on West Asia, and its handling of Communist influence and insurgency in West Bengal. Masani warns that Naxalbari could become an Indian Vietnam, proposes an on-the-spot study team, and concludes by portraying both Peking- and Moscow-aligned Communist forces as threats. The document does not print a substantive title, year, publisher, or issuer.
 ---
 
+## Summary
+
+This two-page press statement, issued from Bombay on July 6 and attributed to M. R. Masani, attacks the Congress-backed and non-Congress coalition governments in several Indian states. Masani argues that Congress's continued rule would allow political drift and disorder to continue, while a coalition excluding the Communists could bring together Congress members and democratic opposition parties. He presents this as a race between political reform and the combined dangers of economic collapse and political chaos.
+
+The statement treats the political class and parliamentary democracy as being on trial. It criticizes the Delhi government's alleged loss of public confidence, its position on West Asia, and its handling of Communist influence and insurgency in West Bengal. Masani warns that Naxalbari could become an Indian Vietnam, proposes an on-the-spot study team, and concludes by portraying both Peking- and Moscow-aligned Communist forces as threats. The document does not print a substantive title, year, publisher, or issuer.
+
 ## Key points
 
 - Masani calls for an end to what he describes as “non-Congress Governments” and criticizes the Congress government's political record.

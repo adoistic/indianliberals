@@ -47,6 +47,12 @@ summary: |-
   The letter encloses Masani's opening remarks from the Swatantra Party's Preparatory Convention in Bombay, together with a copy of the party's Statement of Principles. It records the transmission of these materials but does not reproduce their contents.
 ---
 
+## Summary
+
+This one-page letter, dated 17 September 1959, is from Miss B.S. Mirza, secretary to M.R. Masani, to Dr. T.A. Koshy. It acknowledges Koshy's letter of 5 August and reports that Masani, then in the United Kingdom, was pleased by Koshy's interest in the formation of the Swatantra Party.
+
+The letter encloses Masani's opening remarks from the Swatantra Party's Preparatory Convention in Bombay, together with a copy of the party's Statement of Principles. It records the transmission of these materials but does not reproduce their contents.
+
 ## Key points
 
 - The correspondence is dated 17 September 1959.

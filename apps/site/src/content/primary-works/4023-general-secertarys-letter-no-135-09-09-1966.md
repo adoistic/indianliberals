@@ -51,6 +51,12 @@ summary: |-
   Masani explains that the information is needed for his report to the Party's National Convention in November and to establish the basis for representation at that convention. He sets a deadline of 20 September, warns that only members whose register entries and Centre's quota have been received will be recognised for these purposes, and instructs the unit not to issue cards pending further directions.
 ---
 
+## Summary
+
+Dated 9 September 1966, this two-page letter from M. R. Masani, General Secretary of the Swatantra Party, asks a state-level party unit to provide an immediate account of its membership records. The letter distinguishes between Workers Cards and Life Workers Cards and asks the recipient to reconcile cards issued, register entries, blank cards held, and outstanding records.
+
+Masani explains that the information is needed for his report to the Party's National Convention in November and to establish the basis for representation at that convention. He sets a deadline of 20 September, warns that only members whose register entries and Centre's quota have been received will be recognised for these purposes, and instructs the unit not to issue cards pending further directions.
+
 ## Key points
 
 - The letter is General Secretary's Letter No. 135, dated 9 September 1966, issued from the Swatantra Party Central Office in Bombay.

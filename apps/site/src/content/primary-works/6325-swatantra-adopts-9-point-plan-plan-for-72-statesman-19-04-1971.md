@@ -52,6 +52,12 @@ summary: |-
   The council adopted a nine-point minimum programme for 1972. In the rendered clipping, the reported priorities include employment opportunities, family planning, price reduction, rural housing, credit from nationalised banks, and reducing excise duties to lower prices. The report also records a call for the party to revise its attitude toward labour and trade unions and to participate more actively in trade-union work. The complete nine-point list is not legible or present in the rendered page.
 ---
 
+## Summary
+
+This one-page Statesman report, datelined Bombay, April 18, describes decisions of the Swatantra Party's general council in preparation for the 1972 elections. The council accepted the resignation of M. R. Masani as chairman and asked N. Dandekar, who had served as one of the five vice-presidents, to officiate as president. The report also says that the party appointed a special committee to review its policies and programmes in light of the electorate's wishes and to submit its report before June 30.
+
+The council adopted a nine-point minimum programme for 1972. In the rendered clipping, the reported priorities include employment opportunities, family planning, price reduction, rural housing, credit from nationalised banks, and reducing excise duties to lower prices. The report also records a call for the party to revise its attitude toward labour and trade unions and to participate more actively in trade-union work. The complete nine-point list is not legible or present in the rendered page.
+
 ## Key points
 
 - The Swatantra Party general council adopted a nine-point minimum programme for the 1972 elections.

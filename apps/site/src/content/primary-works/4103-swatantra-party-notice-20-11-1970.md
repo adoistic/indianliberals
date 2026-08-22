@@ -52,6 +52,12 @@ summary: |-
   The enclosed minutes cover convention logistics, accommodation and delegate financing, party-unit revitalisation, office renovation, Public Assistance Bureau accounts and staffing, vacancies in regional bodies, and pending bills. The correspondence urges regional units to nominate parliamentary candidates in anticipation of possible early elections, while the convention circular specifies its programme, delegate eligibility and quotas, deadlines for resolutions and delegate lists, and the need to represent women and youth. The final resolution expresses disappointment at the failure of Congress(O), Jan Sangh and B.K.D. to establish a parliamentary bloc, while reaffirming conditional cooperation among nationalist and democratic parties.
 ---
 
+## Summary
+
+This 12-page English-language Swatantra Party circular from the Bombay Region, dated 20 November 1970, opens with a notice for an Executive Committee meeting and includes draft minutes of the 11 November meeting, correspondence from General Secretary R. C. Cooper, National Convention materials, delegate quotas, and a resolution on consolidating nationalist and democratic forces. The packet documents the party’s internal administration as well as its preparations for the Sixth National Convention in Bombay on 30–31 January 1971.
+
+The enclosed minutes cover convention logistics, accommodation and delegate financing, party-unit revitalisation, office renovation, Public Assistance Bureau accounts and staffing, vacancies in regional bodies, and pending bills. The correspondence urges regional units to nominate parliamentary candidates in anticipation of possible early elections, while the convention circular specifies its programme, delegate eligibility and quotas, deadlines for resolutions and delegate lists, and the need to represent women and youth. The final resolution expresses disappointment at the failure of Congress(O), Jan Sangh and B.K.D. to establish a parliamentary bloc, while reaffirming conditional cooperation among nationalist and democratic parties.
+
 ## Key points
 
 - The Bombay Region Executive Committee is summoned to confirm earlier minutes, address matters arising, review convention correspondence, and consider other business.

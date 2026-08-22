@@ -61,6 +61,12 @@ summary: |-
   Its economic case attacks joint co-operative farming, low land ceilings, nationalisation, state capitalism, five-year planning and expanding administrative departments. It argues that private enterprise has produced greater wealth, employment and wages in countries such as the United States, Germany and Japan, while co-operative farming and centralized planning have failed elsewhere and in India. The pamphlet endorses C. Rajagopalachari’s leadership of the Swatantra Party, invokes advice attributed to Abraham Lincoln, and urges immediate enrolment and attendance at district conventions. The text is signed by N. K. Ganapaiah.
 ---
 
+## Summary
+
+This four-page 1959 pamphlet presents the Swatantra Party as an urgent response to what it describes as the Congress Government’s erosion of individual freedom. Under the headings “What to Do?”, “Why to Do?”, “How to do?” and “When to Do?”, it calls on agriculturists, industrialists, traders, labourers and the wider public to organize a strong opposition party and defend private initiative, private property and democratic government. The pamphlet frames state intervention and “communist” reforms as threats to citizens’ independence and warns that excessive government control will reduce people to dependent wage earners.
+
+Its economic case attacks joint co-operative farming, low land ceilings, nationalisation, state capitalism, five-year planning and expanding administrative departments. It argues that private enterprise has produced greater wealth, employment and wages in countries such as the United States, Germany and Japan, while co-operative farming and centralized planning have failed elsewhere and in India. The pamphlet endorses C. Rajagopalachari’s leadership of the Swatantra Party, invokes advice attributed to Abraham Lincoln, and urges immediate enrolment and attendance at district conventions. The text is signed by N. K. Ganapaiah.
+
 ## Key points
 
 - The pamphlet urges immediate political action to defend individual freedom against Congress policies.

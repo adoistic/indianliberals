@@ -50,6 +50,10 @@ summary: |-
   This one-page record documents a meeting of the Swatantra Party, Maharashtra Executive Committee, held on 1 February 1975 at the party office. It lists seven attendees, records leave granted to Shafii Pirzada, and notes the committee's concern over unpaid rent owed by the BLD since September 1974. The chairman was asked to send Piloo Mody another reminder urging payment through Mr. Bhatia.
 ---
 
+## Summary
+
+This one-page record documents a meeting of the Swatantra Party, Maharashtra Executive Committee, held on 1 February 1975 at the party office. It lists seven attendees, records leave granted to Shafii Pirzada, and notes the committee's concern over unpaid rent owed by the BLD since September 1974. The chairman was asked to send Piloo Mody another reminder urging payment through Mr. Bhatia.
+
 ## Key points
 
 - The Maharashtra Executive Committee met on 1 February 1975 at 3:30 p.m.

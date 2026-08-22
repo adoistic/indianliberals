@@ -44,6 +44,10 @@ summary: |-
   This one-page English compliments card carries the formal message “With the Compliments of” and identifies the sender as “Mr. N. Dandekar, M.P.” It is addressed to no named recipient on the visible page and contains no substantive argument, narrative, or publication information.
 ---
 
+## Summary
+
+This one-page English compliments card carries the formal message “With the Compliments of” and identifies the sender as “Mr. N. Dandekar, M.P.” It is addressed to no named recipient on the visible page and contains no substantive argument, narrative, or publication information.
+
 ## Key points
 
 - The item is a one-page compliments card rather than a substantive essay or pamphlet.

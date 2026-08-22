@@ -52,6 +52,12 @@ summary: |-
   Masani proposes a quiet meeting of friends to review the political situation and improve the tentative common programme. He is willing to invite Congressmen, though he doubts they will accept. The letter also frames peaceful political action as necessary but not passive: Masani argues that the world must find ways to oppose injustice and tyranny, and invokes Gandhi’s opposition to British imperialism as an example. He notes that C. Rajagopalachari (Rajaji) and he are especially interested in this question.
 ---
 
+## Summary
+
+In this letter dated 27 June 1963, Minoo Masani responds to Jayaprakash Narayan’s apparent concern about political parties. Masani acknowledges an aversion to parties but argues that, since parties exist, they can be brought together temporarily around an agreed programme. He stresses that the proposed unity is not primarily about seeking power, but about focusing public attention on policies and programmes of the government that he considers harmful and agitating for their modification or replacement.
+
+Masani proposes a quiet meeting of friends to review the political situation and improve the tentative common programme. He is willing to invite Congressmen, though he doubts they will accept. The letter also frames peaceful political action as necessary but not passive: Masani argues that the world must find ways to oppose injustice and tyranny, and invokes Gandhi’s opposition to British imperialism as an example. He notes that C. Rajagopalachari (Rajaji) and he are especially interested in this question.
+
 ## Key points
 
 - Masani accepts that political parties are an unavoidable feature of public life and proposes cooperation among them around a limited common programme.

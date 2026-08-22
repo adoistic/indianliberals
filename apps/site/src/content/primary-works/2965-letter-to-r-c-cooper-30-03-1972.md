@@ -57,6 +57,12 @@ summary: |-
   The enclosed material argues that the Swatantra Party supports social justice but rejects socialism as a means of achieving it. Rajagopalachari associates socialism with state control, reduced production, weakened incentives, heavy taxation, and threats to individual freedom, and instead stresses increased production, prudence in taxation, the rule of law, fair trials, and Gandhian ethical limits on political action. He also defends the party against claims that it serves capitalists and princes, warns that constitutional safeguards and democracy are being undermined, criticizes property ceilings and proposed public-sector automobile manufacturing, and endorses N. Dandekar’s call for the party to revive moral values while maintaining external restraints on wealthy interests.
 ---
 
+## Summary
+
+This 30 March 1972 letter from C. Rajagopalachari to Dr. R. C. Cooper encloses gallery proofs of a front-page article and “Dear Reader” paragraphs intended for the 8 April issue of Swarajya. Rajagopalachari asks Cooper to discuss all matters at the Swatantra Party’s General Council and National Executive meetings on 8 and 9 April in Bombay, while postponing final decisions until a subsequent meeting so that nothing is done hastily.
+
+The enclosed material argues that the Swatantra Party supports social justice but rejects socialism as a means of achieving it. Rajagopalachari associates socialism with state control, reduced production, weakened incentives, heavy taxation, and threats to individual freedom, and instead stresses increased production, prudence in taxation, the rule of law, fair trials, and Gandhian ethical limits on political action. He also defends the party against claims that it serves capitalists and princes, warns that constitutional safeguards and democracy are being undermined, criticizes property ceilings and proposed public-sector automobile manufacturing, and endorses N. Dandekar’s call for the party to revive moral values while maintaining external restraints on wealthy interests.
+
 ## Key points
 
 - Rajagopalachari sends Cooper proofs of material planned for Swarajya’s 8 April issue.

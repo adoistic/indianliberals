@@ -54,6 +54,12 @@ summary: |-
   The circular asks the Central Parliamentary Sub-Committee to approve the nomination by December 7, 1965, indicating that silence by that date would be treated as approval. The attached biographical particulars present Shah, aged 39, as a Bombay industrialist and office-holder in several steel and manufacturing bodies, with management training in the United States. They also highlight his participation in the 1942 Quit India movement and his work in the liberation of Junagadh, including service as a secretary of the Junagadh Rajya Praja Mandal.
 ---
 
+## Summary
+
+This two-page Swatantra Party circular, dated November 24, 1965, recommends Viren J. Shah as the party’s prospective parliamentary candidate for the Somnath constituency in Junagadh district. Signed by General Secretary M. R. Masani, it explains that Shah’s candidacy had been deferred at the Central Parliamentary Board’s October 31 meeting because preliminary work was incomplete. The Gujarat unit subsequently reported that Shah had visited the constituency, met party workers, accepted the nomination, and received district-level endorsement.
+
+The circular asks the Central Parliamentary Sub-Committee to approve the nomination by December 7, 1965, indicating that silence by that date would be treated as approval. The attached biographical particulars present Shah, aged 39, as a Bombay industrialist and office-holder in several steel and manufacturing bodies, with management training in the United States. They also highlight his participation in the 1942 Quit India movement and his work in the liberation of Junagadh, including service as a secretary of the Junagadh Rajya Praja Mandal.
+
 ## Key points
 
 - The document is a Central Parliamentary Sub-Committee circular issued by the Swatantra Party’s Central Office on November 24, 1965.

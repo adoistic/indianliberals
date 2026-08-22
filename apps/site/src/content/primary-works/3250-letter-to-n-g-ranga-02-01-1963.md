@@ -49,6 +49,12 @@ summary: |-
   Masani also asks Ranga to bring the printed copy of an appeal handed to him by the appellants in Delhi the previous November. He then confidentially relays that Kalahandi has written to Rajaji expressing dissatisfaction with discussions and decisions within the Parliamentary Group, particularly an amendment to the Prime Minister’s motion on the Colombo proposals and participation in the Republic Day procession. The page records internal party coordination and disagreement, rather than a developed public argument.
 ---
 
+## Summary
+
+This one-page personal and confidential letter, dated January 2, 1963, from M. R. Masani to Professor N. G. Ranga, discusses the apparent withdrawal of Rajaji from an undertaking concerning implementation of the Madras decision before a General Council meeting. Masani reports that Rajaji would remain in Calcutta until January 5, travel to Bihar for the opening day of the Assembly session, and reach Bombay on January 8, leading Masani to conclude that the previously agreed plan had not endured.
+
+Masani also asks Ranga to bring the printed copy of an appeal handed to him by the appellants in Delhi the previous November. He then confidentially relays that Kalahandi has written to Rajaji expressing dissatisfaction with discussions and decisions within the Parliamentary Group, particularly an amendment to the Prime Minister’s motion on the Colombo proposals and participation in the Republic Day procession. The page records internal party coordination and disagreement, rather than a developed public argument.
+
 ## Key points
 
 - Masani informs Ranga that Rajaji appears to be backing out of an undertaking related to carrying out the Madras decision.

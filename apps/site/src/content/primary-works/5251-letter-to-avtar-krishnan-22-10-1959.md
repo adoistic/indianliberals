@@ -48,6 +48,12 @@ summary: |-
   Masani adds practical instructions in case Krishan cannot attend: he should contact the Punjab organisers, identified as Sardar Nagok and Sardar Basant Singh, at the party office near Sheranwala Gate, Patiala. The letter is accompanied by a handwritten note requesting a copy be sent to Basant Singh with the original letter returned.
 ---
 
+## Summary
+
+In this letter dated 22 October 1959, M. R. Masani thanks Avtar Krishan for his interest in the Swatantra Party and urges him to attend the party’s Punjab Convention in Patiala on 25 October. Masani also asks Krishan to write to Dr. Jogindra N. Kaul, whom Krishan had referred to in his earlier letter, requesting that he attend as well.
+
+Masani adds practical instructions in case Krishan cannot attend: he should contact the Punjab organisers, identified as Sardar Nagok and Sardar Basant Singh, at the party office near Sheranwala Gate, Patiala. The letter is accompanied by a handwritten note requesting a copy be sent to Basant Singh with the original letter returned.
+
 ## Key points
 
 - Masani’s letter is dated 22 October 1959 and addressed to Avtar Krishan.

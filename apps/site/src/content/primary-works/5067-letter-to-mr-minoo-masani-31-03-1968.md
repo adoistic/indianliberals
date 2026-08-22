@@ -50,6 +50,12 @@ summary: |-
   Koppiker says that Masani’s resignation proposal has left his colleagues “completely bewildered” because Masani is their accredited representative on the two national bodies. He asks Masani to consult the Bombay Regional Council at its next meeting. In a copy to N. Dandekar, the letter also requests that Dandekar attend the meeting and convene an urgent emergency meeting of the All India General Council, preferably in Bombay, to address the dispute and restore party unity.
 ---
 
+## Summary
+
+This letter, dated 31 March 1968 and addressed to Shri M. R. Masani, M.P., responds to newspaper reports that Masani had considered resigning from the Swatantra Party’s National Executive and Central Parliamentary Board because of incidents in Gujarat. Pralhaker S. Koppiker acknowledges that Masani’s action was intended to protest indiscipline within the party, but criticizes him for not first consulting the Bombay Regional Council.
+
+Koppiker says that Masani’s resignation proposal has left his colleagues “completely bewildered” because Masani is their accredited representative on the two national bodies. He asks Masani to consult the Bombay Regional Council at its next meeting. In a copy to N. Dandekar, the letter also requests that Dandekar attend the meeting and convene an urgent emergency meeting of the All India General Council, preferably in Bombay, to address the dispute and restore party unity.
+
 ## Key points
 
 - The letter addresses reported plans by M. R. Masani to resign from the Swatantra Party’s National Executive and Central Parliamentary Board.

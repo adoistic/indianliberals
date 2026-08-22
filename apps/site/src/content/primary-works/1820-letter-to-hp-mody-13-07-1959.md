@@ -46,6 +46,10 @@ summary: |-
   This one-page English letter, dated 13 July 1959 from Gumanpura, Dungarpur, South Rajasthan, congratulates H. P. Mody on taking over as treasurer of the newly formed Swatantra Party. The writer expresses confidence that the Party's finances will now be in good hands.
 ---
 
+## Summary
+
+This one-page English letter, dated 13 July 1959 from Gumanpura, Dungarpur, South Rajasthan, congratulates H. P. Mody on taking over as treasurer of the newly formed Swatantra Party. The writer expresses confidence that the Party's finances will now be in good hands.
+
 ## Key points
 
 - The letter is dated 13 July 1959 and headed from Gumanpura, Dungarpur, South Rajasthan.

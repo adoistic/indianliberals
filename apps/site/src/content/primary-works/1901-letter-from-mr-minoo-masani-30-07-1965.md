@@ -48,6 +48,12 @@ summary: |-
   Masani adds a political qualification: although the two men are members of the Swatantra Party in Parliament, he does not regard them as among its most prominent spokesmen. He therefore advises Dawson not to present them in London as representatives of the Party, suggesting instead that any introductions take place socially.
 ---
 
+## Summary
+
+In this one-page letter dated July 30, 1965, M. R. Masani asks Vernon Dawson, Secretary General of Liberal International, to introduce two Indian parliamentarians—the Maharaja P. K. Deo of Kalahandi and T. M. Singh—to liberal contacts in London during their world tour. Masani suggests that Dawson arrange a meeting with Richard Moore and notes that the visitors are staying at the Hotel Regent Palace, with a mailing address through American Express.
+
+Masani adds a political qualification: although the two men are members of the Swatantra Party in Parliament, he does not regard them as among its most prominent spokesmen. He therefore advises Dawson not to present them in London as representatives of the Party, suggesting instead that any introductions take place socially.
+
 ## Key points
 
 - Masani writes to Vernon Dawson of Liberal International on July 30, 1965.

@@ -47,6 +47,10 @@ summary: |-
   This letter, dated 28 June 1963, is written by Dahyabhai Vallabhbhai Patel to Minoo Masani after a recent conversation and an exchange of correspondence. Patel says he has reconsidered the matter but has not changed his view concerning discussions about appointing or recommending a president involving Masani, Shri Bhailalbhai, and others. He states that he does not know who Masani means by his “colleagues” and that the issue has not been discussed informally before the party executive.
 ---
 
+## Summary
+
+This letter, dated 28 June 1963, is written by Dahyabhai Vallabhbhai Patel to Minoo Masani after a recent conversation and an exchange of correspondence. Patel says he has reconsidered the matter but has not changed his view concerning discussions about appointing or recommending a president involving Masani, Shri Bhailalbhai, and others. He states that he does not know who Masani means by his “colleagues” and that the issue has not been discussed informally before the party executive.
+
 ## Key points
 
 - The letter responds to Masani’s letter of 24 June and an enclosure sent after their conversation.

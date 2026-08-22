@@ -44,6 +44,10 @@ summary: |-
   This one-page typed letter from V. P. Bhatia to M. R. Masani, dated 5 November 1985, responds to Masani's letter of 19 October 1984. Bhatia says he has located a 1976 letter addressed to the Regional Transport Officer and considers it self-explanatory. He suggests that Masani write to the R.T.O. explaining that the vehicles had been purchased for an election and would now be difficult to locate.
 ---
 
+## Summary
+
+This one-page typed letter from V. P. Bhatia to M. R. Masani, dated 5 November 1985, responds to Masani's letter of 19 October 1984. Bhatia says he has located a 1976 letter addressed to the Regional Transport Officer and considers it self-explanatory. He suggests that Masani write to the R.T.O. explaining that the vehicles had been purchased for an election and would now be difficult to locate.
+
 ## Key points
 
 - The letter is dated 5 November 1985 and is addressed to M. R. Masani.

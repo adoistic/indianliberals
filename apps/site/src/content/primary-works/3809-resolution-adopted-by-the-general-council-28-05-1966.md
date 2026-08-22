@@ -51,6 +51,12 @@ summary: |-
   The resolution presents textbook nationalisation not merely as an administrative or economic error but as a threat to intellectual freedom. It describes centralised control as the “regimentation” of children’s minds and calls on parents to resist what it characterises as a form of mental enslavement.
 ---
 
+## Summary
+
+This one-page English-language resolution, adopted by the Swatantra Party General Council on May 28, 1966, condemns the nationalisation of school textbooks by some state governments. It argues that state control will produce poor-quality, high-cost books while eliminating choice for pupils.
+
+The resolution presents textbook nationalisation not merely as an administrative or economic error but as a threat to intellectual freedom. It describes centralised control as the “regimentation” of children’s minds and calls on parents to resist what it characterises as a form of mental enslavement.
+
 ## Key points
 
 - The Swatantra Party formally condemns the nationalisation of school textbooks by some state governments.

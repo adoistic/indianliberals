@@ -51,6 +51,12 @@ summary: |-
   The enclosed letter, dated June 26, 1974 and addressed to Swatantra Party vice-president Madhu Mehta, develops the same objection. Mahapatra argues that the convention is the party's most powerful decision-making body and asks that representation be provided under clause 16 of the party constitution so that willing party workers can participate. The pages document an internal dispute over procedural fairness, representative participation, and the party's future during the period in which dissolution was under consideration.
 ---
 
+## Summary
+
+This two-page correspondence from S. C. Mahapatra concerns the Swatantra Party's proposed statewise quota for representation at its forthcoming national convention and the possibility of dissolving the party to form a national opposition party. In his July 7, 1974 letter to S. V. Raju, Mahapatra objects to limiting representation to one delegate in every hundred and argues that party members should be allowed a meaningful discussion before such a consequential decision. He also invokes the teachings and sayings of the party's founder, C. Rajagopalachari, criticizing what he sees as the leadership's failure to remember them.
+
+The enclosed letter, dated June 26, 1974 and addressed to Swatantra Party vice-president Madhu Mehta, develops the same objection. Mahapatra argues that the convention is the party's most powerful decision-making body and asks that representation be provided under clause 16 of the party constitution so that willing party workers can participate. The pages document an internal dispute over procedural fairness, representative participation, and the party's future during the period in which dissolution was under consideration.
+
 ## Key points
 
 - Mahapatra responds to proposals for statewise representation at the Swatantra Party's forthcoming national convention.

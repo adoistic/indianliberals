@@ -49,6 +49,10 @@ summary: |-
   This single-page handwritten letter, on Forum of Free Enterprise letterhead and apparently dated 4/5/68, is addressed by M. R. Masani to C. Rajagopalachari (“Rajaji”). Masani thanks Rajaji and refers to material concerning an article or discussion associated with “Dr. B. R. Masani”; the handwriting is difficult to decipher, but the note appears to suggest that the material may be useful for discussion. The page does not present a developed argument about free enterprise.
 ---
 
+## Summary
+
+This single-page handwritten letter, on Forum of Free Enterprise letterhead and apparently dated 4/5/68, is addressed by M. R. Masani to C. Rajagopalachari (“Rajaji”). Masani thanks Rajaji and refers to material concerning an article or discussion associated with “Dr. B. R. Masani”; the handwriting is difficult to decipher, but the note appears to suggest that the material may be useful for discussion. The page does not present a developed argument about free enterprise.
+
 ## Key points
 
 - The document is a personal handwritten letter rather than a published essay or extended argument.

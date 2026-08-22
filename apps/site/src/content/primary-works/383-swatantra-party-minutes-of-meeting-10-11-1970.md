@@ -56,6 +56,12 @@ summary: |-
   The committee assigned speakers and discussed a broad parliamentary agenda: taxation, Scheduled Castes and Scheduled Tribes orders, an agricultural producers cess, iron-ore labour welfare, coal-mines conservation, rising prices and unemployment, law and order in West Bengal, and developments in Uttar Pradesh. It agreed to arrange a meeting concerning the Scheduled Castes Bill, confirmed support for Acharya Kripalani's bill on decorations and awards, and planned a meeting between Prof. Ranga and a Naga delegation. The meeting then adjourned with a vote of thanks to the chair.
 ---
 
+## Summary
+
+Dated November 10, 1970, these one-page minutes record a meeting of the Swatantra Party's Executive Committee in the Party Committee Room, Central Hall. The document lists twelve members present, including N. G. Ranga, M. R. Masani, P. K. Deo, Dahyabhai Patel, M. Muthnaswamy, D. N. Antani, K. P. Singh Deo, M. K. Nanja Gowder, N. K. Sozani, Piloo Mody, Lobo Prabhu, and R. K. Amin, who signs as secretary.
+
+The committee assigned speakers and discussed a broad parliamentary agenda: taxation, Scheduled Castes and Scheduled Tribes orders, an agricultural producers cess, iron-ore labour welfare, coal-mines conservation, rising prices and unemployment, law and order in West Bengal, and developments in Uttar Pradesh. It agreed to arrange a meeting concerning the Scheduled Castes Bill, confirmed support for Acharya Kripalani's bill on decorations and awards, and planned a meeting between Prof. Ranga and a Naga delegation. The meeting then adjourned with a vote of thanks to the chair.
+
 ## Key points
 
 - The record covers a Swatantra Party Executive Committee meeting held on November 10, 1970.

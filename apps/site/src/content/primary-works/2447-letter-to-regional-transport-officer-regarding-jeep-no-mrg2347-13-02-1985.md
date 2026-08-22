@@ -46,6 +46,12 @@ summary: |-
   He returns a bill dated 1 February 1985 concerning car No. MRG-2347, stating that he neither owns nor possesses the vehicle. The letter identifies the disputed bill as reference MRG-2347 and encloses it as stated.
 ---
 
+## Summary
+
+This one-page administrative letter, dated 13 February 1985, is a copy marked “REGISTERED A.D.” and addressed by M. R. Masani to the Regional Transport Officer in Bombay. Masani complains that the transport office has repeatedly sent him bills unrelated to him, despite earlier requests to correct the error.
+
+He returns a bill dated 1 February 1985 concerning car No. MRG-2347, stating that he neither owns nor possesses the vehicle. The letter identifies the disputed bill as reference MRG-2347 and encloses it as stated.
+
 ## Key points
 
 - The document is an untitled administrative letter dated 13 February 1985.

@@ -60,6 +60,12 @@ summary: |-
   The papers also show the practical infrastructure of parliamentary party organization. They include an interim executive committee list for the Delhi State Swatantra Party, circulars requesting monthly contributions, detailed Lok Sabha and Rajya Sabha payment tables, and statements of account. The records report a total balance of Rs. 1,053.94, total expenditure of Rs. 751.06, and total receipts of Rs. 1,805.00 as of 22 June 1962. The bundle is an office record rather than an authored political essay: its emphasis is on coordination, finance, representation, and routine parliamentary administration.
 ---
 
+## Summary
+
+This ten-page English-language archival bundle records the administrative activity of the Swatantra Party Parliamentary Group in New Delhi during May and June 1962. The minutes document joint Lok Sabha–Rajya Sabha meetings, attendance, chairs, parliamentary scheduling, procedural explanations, committee assignments, and decisions concerning the party’s name, treasury arrangements, office equipment, and stenographic support. The group also coordinated members’ participation in debates on the General Budget 1962–63 and assigned Swatantra Party speakers to ministry-wise discussions on demands for grants.
+
+The papers also show the practical infrastructure of parliamentary party organization. They include an interim executive committee list for the Delhi State Swatantra Party, circulars requesting monthly contributions, detailed Lok Sabha and Rajya Sabha payment tables, and statements of account. The records report a total balance of Rs. 1,053.94, total expenditure of Rs. 751.06, and total receipts of Rs. 1,805.00 as of 22 June 1962. The bundle is an office record rather than an authored political essay: its emphasis is on coordination, finance, representation, and routine parliamentary administration.
+
 ## Key points
 
 - The bundle records Swatantra Party Parliamentary Group meetings held in Parliament Buildings in May and June 1962.

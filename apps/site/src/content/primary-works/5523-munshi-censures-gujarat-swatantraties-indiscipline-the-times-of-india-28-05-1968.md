@@ -48,6 +48,12 @@ summary: |-
   The report quotes Munshi warning of a broader demoralisation in public life, marked by weakened loyalty to principles, morality, and democratic institutions. He objects particularly to the party's handling of a by-election in Rajya Sabha constituency elections, calling the nomination and victory of a rebel candidate a disregard for ethics and party discipline. The clipping also reports that Munshi believed C. Rajagopalachari would permit him to leave the party, although he would not resign unless Rajagopalachari agreed.
 ---
 
+## Summary
+
+This one-page Times of India report describes K. M. Munshi's criticism of indiscipline within the Gujarat unit of the Swatantra Party. In a special letter to the party's general council meeting in Madras, Munshi says the Gujarat organisation is breaking up because some members have disregarded party discipline and formed factions. He rejects the idea that the party is merely a confederacy of autonomous units, arguing that its branches must function as a single organisation under national direction.
+
+The report quotes Munshi warning of a broader demoralisation in public life, marked by weakened loyalty to principles, morality, and democratic institutions. He objects particularly to the party's handling of a by-election in Rajya Sabha constituency elections, calling the nomination and victory of a rebel candidate a disregard for ethics and party discipline. The clipping also reports that Munshi believed C. Rajagopalachari would permit him to leave the party, although he would not resign unless Rajagopalachari agreed.
+
 ## Key points
 
 - K. M. Munshi wrote to the Swatantra Party's general council expressing distress over indiscipline in its Gujarat unit.

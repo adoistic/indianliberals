@@ -51,6 +51,12 @@ summary: |-
   The enclosed question asks what steps the Central Government has taken to secure implementation in Gujarat of the Second Pay Commission's recommendations, whether it will address disparities in dearness allowance, and whether it has sought an explanation from the Gujarat Government. It contrasts Gujarat's delayed increase with Maharashtra's earlier increase and notes that Gujarat, in some cases, claims central assistance for dearness-allowance payments.
 ---
 
+## Summary
+
+In this 25 July 1963 letter, Minoo Masani asks A. P. Jain to help refine and submit a parliamentary question concerning Central Government employees in Gujarat, many of whom had supported Masani in Rajkot. Masani specifically wants the question tabled in his own name and encloses a draft prepared by the Swatantra Party.
+
+The enclosed question asks what steps the Central Government has taken to secure implementation in Gujarat of the Second Pay Commission's recommendations, whether it will address disparities in dearness allowance, and whether it has sought an explanation from the Gujarat Government. It contrasts Gujarat's delayed increase with Maharashtra's earlier increase and notes that Gujarat, in some cases, claims central assistance for dearness-allowance payments.
+
 ## Key points
 
 - Masani writes to A. P. Jain on 25 July 1963 about a proposed parliamentary question.

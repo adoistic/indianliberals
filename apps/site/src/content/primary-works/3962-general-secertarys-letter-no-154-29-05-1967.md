@@ -51,6 +51,12 @@ summary: |-
   The letter also sets out the proposed division of expenses. National Executive members would pay their own fares and accommodation costs, while the host unit would cover accommodation for some General Council members and bear the cost of the meeting hall for both National Executive and General Council meetings. It is signed by N. Dandeker as Acting General Secretary.
 ---
 
+## Summary
+
+Dated 29 May 1967, this General Secretary's Letter from the Swatantra Party Central Office conveys a proposal from the National Executive to hold meetings of the Central Parliamentary Board, National Executive, and General Council periodically in different state capitals. The letter asks state committees to discuss the proposal and notes that invitations will be recorded by the Central Office, which will coordinate with the relevant state unit when a meeting is scheduled.
+
+The letter also sets out the proposed division of expenses. National Executive members would pay their own fares and accommodation costs, while the host unit would cover accommodation for some General Council members and bear the cost of the meeting hall for both National Executive and General Council meetings. It is signed by N. Dandeker as Acting General Secretary.
+
 ## Key points
 
 - The National Executive discussed holding party meetings in various state capitals.

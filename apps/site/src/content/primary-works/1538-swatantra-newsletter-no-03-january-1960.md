@@ -56,3 +56,7 @@ ai:
 summary: |-
   The January 1960, No. 3 issue of Swatantra Newsletter presents itself as an internal communication intended to keep members, organisers, and regional offices informed of the Swatantra Party's activities. It describes the party's expanding grassroots organisation through taluka samitis, district committees, membership campaigns, public meetings, volunteer work, and the establishment or relocation of offices. Reports from Andhra, Assam, Bihar, Bombay, Gujarat, Maharashtra, Madras, Orissa, Punjab, Rajasthan, and West Bengal emphasise organisational growth and the party's appeal to farmers, traders, teachers, students, workers, and other local constituencies.
 ---
+
+## Summary
+
+The January 1960, No. 3 issue of Swatantra Newsletter presents itself as an internal communication intended to keep members, organisers, and regional offices informed of the Swatantra Party's activities. It describes the party's expanding grassroots organisation through taluka samitis, district committees, membership campaigns, public meetings, volunteer work, and the establishment or relocation of offices. Reports from Andhra, Assam, Bihar, Bombay, Gujarat, Maharashtra, Madras, Orissa, Punjab, Rajasthan, and West Bengal emphasise organisational growth and the party's appeal to farmers, traders, teachers, students, workers, and other local constituencies.

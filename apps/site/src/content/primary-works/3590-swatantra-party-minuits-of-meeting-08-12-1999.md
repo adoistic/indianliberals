@@ -51,6 +51,10 @@ summary: |-
   These minutes record a special meeting of the Executive Committee of the Swatantra Party Maharashtra, held on 8 December 1999 at the party office in Mumbai and chaired by S. V. Raju. The meeting was convened to mourn the death of the party’s General Secretary, Laxmidas R. Sampat, who had died on 7 December 1999 from a heart ailment. Following a minute’s silence, Raju and the committee commended Sampat’s work for the party, particularly his efforts handling matters connected with the party office and ensuring the party’s representation and presence.
 ---
 
+## Summary
+
+These minutes record a special meeting of the Executive Committee of the Swatantra Party Maharashtra, held on 8 December 1999 at the party office in Mumbai and chaired by S. V. Raju. The meeting was convened to mourn the death of the party’s General Secretary, Laxmidas R. Sampat, who had died on 7 December 1999 from a heart ailment. Following a minute’s silence, Raju and the committee commended Sampat’s work for the party, particularly his efforts handling matters connected with the party office and ensuring the party’s representation and presence.
+
 ## Key points
 
 - The Executive Committee meeting took place on 8 December 1999 at 143, Mahatma Gandhi Road, Mumbai.

@@ -52,6 +52,12 @@ summary: |-
   Masani also seeks reversal of a local censor's prohibition on publishing material he considers innocuous, including an article by Tarkunde on the scope of the Censorship Order, a Maharashtra Bar Council resolution urging the President to revoke the Emergency, and a report on the Madras High Court's proceedings in the Swarajya case. He closes by noting that, pending the hearing, publication of Freedom First is being suspended.
 ---
 
+## Summary
+
+In this letter dated 18 July 1975, M. R. Masani replies to B. G. Verghese that he has no plans to visit Delhi because the trip is too expensive without sufficient reason. He then reports having filed a writ petition in the Bombay High Court challenging the Maharashtra government's Censorship Order, which he says is broader than the order affecting Verghese.
+
+Masani also seeks reversal of a local censor's prohibition on publishing material he considers innocuous, including an article by Tarkunde on the scope of the Censorship Order, a Maharashtra Bar Council resolution urging the President to revoke the Emergency, and a report on the Madras High Court's proceedings in the Swarajya case. He closes by noting that, pending the hearing, publication of Freedom First is being suspended.
+
 ## Key points
 
 - Masani declines to plan a visit to Delhi because he considers the trip too expensive without adequate provocation.

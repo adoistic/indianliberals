@@ -52,6 +52,12 @@ summary: |-
   The letter permits informal contact by state units with friendly parties in their respective states, but asks them not to issue statements or pass resolutions diverging from the national position. It explains that negotiations are difficult and delicate, and requests that suggestions from state executives, councils, or conventions remain confidential and be sent to the National Executive or Central Parliamentary Board.
 ---
 
+## Summary
+
+This one-page General Secretary’s Letter No. 252, dated December 15, 1970, addresses confusion over the level at which the Swatantra Party should negotiate an electoral alliance with friendly political parties. The letter states that the party seeks an alliance or pact at the national level, not merely state-level arrangements, and rejects the idea that parties allied in one state should be permitted to oppose one another in another state. It cites the agreement of Swatantra Party President M. R. Masani and Jan Sangh President A. B. Vajpayee in support of this position.
+
+The letter permits informal contact by state units with friendly parties in their respective states, but asks them not to issue statements or pass resolutions diverging from the national position. It explains that negotiations are difficult and delicate, and requests that suggestions from state executives, councils, or conventions remain confidential and be sent to the National Executive or Central Parliamentary Board.
+
 ## Key points
 
 - The letter concerns the proper level for negotiating an electoral alliance with friendly political parties.

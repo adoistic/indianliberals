@@ -51,6 +51,12 @@ summary: |-
   Rajagopalachari urges Masani to continue expressing their considered views on Kashmir and India-Pakistan relations rather than adjust their position to current public opinion or immediate Swatantra Party interests. He argues that some issues require party interests to be set aside, that their position may ultimately strengthen the party's prestige, and that foreign policy should not become a rigid party matter. He closes by stressing the importance of preserving disagreement, friendship, and goodwill between India and Pakistan.
 ---
 
+## Summary
+
+In this letter dated 12 April 1964, C. Rajagopalachari writes to M. R. Masani after a demanding election tour in the Aruppukkottai constituency. He acknowledges Masani's letters and says he will respond more fully after considering them, enclosing an advance copy of Swarajya containing his remarks on the Kashmir issue.
+
+Rajagopalachari urges Masani to continue expressing their considered views on Kashmir and India-Pakistan relations rather than adjust their position to current public opinion or immediate Swatantra Party interests. He argues that some issues require party interests to be set aside, that their position may ultimately strengthen the party's prestige, and that foreign policy should not become a rigid party matter. He closes by stressing the importance of preserving disagreement, friendship, and goodwill between India and Pakistan.
+
 ## Key points
 
 - The letter is dated 12 April 1964 and is addressed to M. R. Masani.

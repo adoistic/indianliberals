@@ -46,6 +46,12 @@ summary: |-
   The message says that Hanumantha Rao is leaving Guntur and should reach Patna by June 20, while Arvind Deshpande is due to arrive in Patna that day at 13:10 on Indian Airlines flight IC409 from Delhi. Masani asks Narayan to arrange airport reception and suitable hotel accommodation for both travellers.
 ---
 
+## Summary
+
+This one-page express telegram from Minoo Masani to Jayaprakash Narayan, dated Bombay, June 18, 1974, concerns travel arrangements in Patna. Masani reports that an earlier telegram was not received and refers to correspondence sent on June 14 in reply to Narayan's second telegram.
+
+The message says that Hanumantha Rao is leaving Guntur and should reach Patna by June 20, while Arvind Deshpande is due to arrive in Patna that day at 13:10 on Indian Airlines flight IC409 from Delhi. Masani asks Narayan to arrange airport reception and suitable hotel accommodation for both travellers.
+
 ## Key points
 
 - The document is an express telegram sent by Minoo Masani to Jayaprakash Narayan.

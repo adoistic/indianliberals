@@ -48,6 +48,12 @@ summary: |-
   The letter also asks Raju to arrange the party’s participation in a demonstration in Bombay and to attend the Madras meeting of the National Executive Committee with other Bombay colleagues. The second rendered page is the exterior of an inland letter card bearing the recipient and Swatantra Party sender addresses; it contains no additional readable argument or correspondence.
 ---
 
+## Summary
+
+This 25 March 1975 letter from V. S. Srikumar, Joint Secretary of the Swatantra Party, to S. V. Raju concerns party finances and organisational coordination. Srikumar reports that Minoo Masani is scheduled to deliver an extension lecture in Bangalore and may stay with K. H. Srinivasan, whom the letter identifies as chairman of the Bangalore Educational Trust. He asks Raju to use this opportunity to press Srinivasan to restore funds that had been diverted from the Trust to the Bharatiya Lok Dal (BLD) and to redirect available funds to the Swatantra Party.
+
+The letter also asks Raju to arrange the party’s participation in a demonstration in Bombay and to attend the Madras meeting of the National Executive Committee with other Bombay colleagues. The second rendered page is the exterior of an inland letter card bearing the recipient and Swatantra Party sender addresses; it contains no additional readable argument or correspondence.
+
 ## Key points
 
 - The correspondence is dated 25 March 1975 and is issued on Swatantra Party National Headquarters letterhead.

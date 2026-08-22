@@ -48,6 +48,12 @@ summary: |-
   Masani also informs Rajagopalachari that notices will be issued for Swatantra Party meetings in Bombay on Sunday and Monday, 14 and 15 June. The letter is primarily logistical, linking a public talk with party-meeting arrangements; it does not develop an extended political argument.
 ---
 
+## Summary
+
+Dated 8 April 1964, this one-page letter from M. R. Masani to C. Rajagopalachari (“Rajaji”) confirms arrangements for a Rotary Club talk on 16 June. Masani notes that a formal invitation will be sent by his friend Fazal Fazalbhoy on the club’s behalf and identifies the proposed topic as “What about our neighbours?”.
+
+Masani also informs Rajagopalachari that notices will be issued for Swatantra Party meetings in Bombay on Sunday and Monday, 14 and 15 June. The letter is primarily logistical, linking a public talk with party-meeting arrangements; it does not develop an extended political argument.
+
 ## Key points
 
 - The letter is dated 8 April 1964 and is addressed to C. Rajagopalachari.

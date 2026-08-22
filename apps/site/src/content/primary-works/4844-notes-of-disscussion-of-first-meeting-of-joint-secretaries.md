@@ -51,6 +51,12 @@ summary: |-
   The notes also prepare subjects for Masani’s forthcoming press conference in Bombay, including the economic-policy decisions of the Bombay Congress, which the group says could increase unemployment and destabilise prices; the Jan Sangh’s position toward the ruling Congress and Congress in opposition; dissolution of Parliament; and a proposal to remove property from the Fundamental Rights. The second page allocates states and additional organisational duties among the joint secretaries, including preparation of background papers on economic policy, cadre training, and grassroots work.
 ---
 
+## Summary
+
+This two-page typed office record documents the first meeting of a group of joint secretaries. M. R. Masani is listed as president, R. C. Cooper as general secretary, five joint secretaries are assigned regional responsibilities, and S. V. Raju is identified as executive secretary. The meeting stresses the need for a systematic approach to publicity and research and records that Mr. Masani reported assistance from Ishwar Chandra Vidyasagar in the party’s public-relations effort.
+
+The notes also prepare subjects for Masani’s forthcoming press conference in Bombay, including the economic-policy decisions of the Bombay Congress, which the group says could increase unemployment and destabilise prices; the Jan Sangh’s position toward the ruling Congress and Congress in opposition; dissolution of Parliament; and a proposal to remove property from the Fundamental Rights. The second page allocates states and additional organisational duties among the joint secretaries, including preparation of background papers on economic policy, cadre training, and grassroots work.
+
 ## Key points
 
 - The meeting records the attendance and office-bearer roles of Masani, Cooper, the joint secretaries, and S. V. Raju.

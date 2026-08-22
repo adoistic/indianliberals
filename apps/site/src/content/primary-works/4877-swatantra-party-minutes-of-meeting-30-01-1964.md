@@ -60,6 +60,12 @@ summary: |-
   The substantive resolutions oppose a state monopoly of banking, arguing that nationalisation would damage credit, investment, and confidence in financial institutions. They call for electoral reform through an independent commission, lower election costs, mobile polling booths, reduced administrative interference, and proportional representation. On foreign policy and defence, the document condemns the government’s handling of the 1962 Chinese invasion, criticises non-alignment and appeasement, and calls for stronger regional security cooperation. The final resolutions demand an end to the Emergency and restoration of suppressed fundamental rights, while urging cooperation among democratic opposition parties and sustained organisational work against Congress rule.
 ---
 
+## Summary
+
+These draft minutes record the Central Organising Committee of the Swatantra Party meeting in Bangalore on 30 January 1964. The committee confirmed earlier minutes and prepared resolutions for the Party’s Third National Convention. The opening condolence resolutions honour Dr Rajendra Prasad, Sardar Bahadur Lal Singh, Raja Kalyan Singh of Bh inai, H. K. Baria, and Muthuramalinga Thevar, while also expressing sorrow at the assassination of President Kennedy.
+
+The substantive resolutions oppose a state monopoly of banking, arguing that nationalisation would damage credit, investment, and confidence in financial institutions. They call for electoral reform through an independent commission, lower election costs, mobile polling booths, reduced administrative interference, and proportional representation. On foreign policy and defence, the document condemns the government’s handling of the 1962 Chinese invasion, criticises non-alignment and appeasement, and calls for stronger regional security cooperation. The final resolutions demand an end to the Emergency and restoration of suppressed fundamental rights, while urging cooperation among democratic opposition parties and sustained organisational work against Congress rule.
+
 ## Key points
 
 - The minutes document a 30 January 1964 Central Organising Committee meeting of the Swatantra Party in Bangalore.

@@ -60,6 +60,12 @@ summary: |-
   The attached pages reproduce the July 23, 1966 issue of Swarajya, including Rajagopalachari’s article “Come, Let Us Save Democracy” and his article “Administrative Reforms.” These texts attack Congress rule as authoritarian and economically statist, defend civil and economic freedoms, criticise centralised planning and excessive regulation, and argue that administrative reform must follow a genuinely free and competitive economic policy. The clipping presents the 1967 elections as an opportunity to defeat the Congress Party and restore democratic government and the rule of law.
 ---
 
+## Summary
+
+This 6 August 1966 General Secretary’s Letter No. 130 from the Swatantra Party Central Office reports the Central Parliamentary Board’s decision to circulate C. Rajagopalachari’s appeal for qualified candidates to contest parliamentary elections as Swatantra Party nominees. The letter asks state and central party offices to publicise the appeal, notes that it will appear as an advertisement in major national English-language dailies on Independence Day, and urges local organisers to identify candidates able to finance their own campaigns.
+
+The attached pages reproduce the July 23, 1966 issue of Swarajya, including Rajagopalachari’s article “Come, Let Us Save Democracy” and his article “Administrative Reforms.” These texts attack Congress rule as authoritarian and economically statist, defend civil and economic freedoms, criticise centralised planning and excessive regulation, and argue that administrative reform must follow a genuinely free and competitive economic policy. The clipping presents the 1967 elections as an opportunity to defeat the Congress Party and restore democratic government and the rule of law.
+
 ## Key points
 
 - M. R. Masani circulates the Central Parliamentary Board’s appeal for Swatantra Party parliamentary candidates.

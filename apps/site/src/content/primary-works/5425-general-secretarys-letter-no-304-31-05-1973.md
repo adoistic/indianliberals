@@ -54,6 +54,12 @@ summary: |-
   The letter directs state units to organise meetings with state, district, and primary-level leaders; collect information on local problems; arrange district conferences culminating in a State Convention; publish souvenirs and collect local advertisements to fund the activity; and propose dates that can be coordinated with the General Secretary’s tour of other states. It also calls for an immediate meeting of each State Executive to mobilise district units and settle the date and venue of a regional council. No standalone title or recipient is printed, and the letter’s broader organisational follow-up beyond these two pages is not available here.
 ---
 
+## Summary
+
+This two-page Swatantra Party circular, dated May 31, 1973, is headed “General Secretary's Letter No. 304” and signed by Madhu Mehta as General Secretary. It presents India’s rapidly deteriorating political and economic situation as a crisis requiring urgent party mobilisation. The letter cites the Supreme Court’s supersession of senior judges, the appointment of a junior judge as Chief Justice, the revolt by the Provincial Armed Constabulary in Uttar Pradesh, rising prices, shortages, foodgrain nationalisation, and the spread of martial-law conditions. It argues that the Swatantra Party’s distinct policies and its defence of democratic institutions give it a special responsibility to channel public discontent through responsible political leadership rather than allowing disorder to lead to dictatorship.
+
+The letter directs state units to organise meetings with state, district, and primary-level leaders; collect information on local problems; arrange district conferences culminating in a State Convention; publish souvenirs and collect local advertisements to fund the activity; and propose dates that can be coordinated with the General Secretary’s tour of other states. It also calls for an immediate meeting of each State Executive to mobilise district units and settle the date and venue of a regional council. No standalone title or recipient is printed, and the letter’s broader organisational follow-up beyond these two pages is not available here.
+
 ## Key points
 
 - The letter describes a rapidly worsening political and economic situation in India in 1973.

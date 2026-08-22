@@ -56,6 +56,12 @@ summary: |-
   The pamphlet is sharply critical of land-ceiling legislation and the 24th, 25th, and 29th Constitutional Amendments. It argues that lower ceilings would break up economically viable farms, discourage investment, and create costly and corrupt administrative procedures involving surveys, compensation, and redistribution. It also opposes proposed urban property ceilings, warning of discrimination between urban and rural property owners, and concludes that India should encourage enterprise and incentives for production rather than impose restrictions that reduce the scope for investment and work.
 ---
 
+## Summary
+
+REAL LAND REFORMS argues that India’s urgent priorities are increased agricultural production, poverty reduction, and employment, and that these require modernisation rather than policies that penalise productive farmers. The pamphlet links food security to mechanised farming, larger economic holdings, irrigation, improved methods, and the cultivation of India’s unused agricultural land. It cites population growth, food-grain targets, land pressure, and Japan’s agricultural diversification as evidence for its case.
+
+The pamphlet is sharply critical of land-ceiling legislation and the 24th, 25th, and 29th Constitutional Amendments. It argues that lower ceilings would break up economically viable farms, discourage investment, and create costly and corrupt administrative procedures involving surveys, compensation, and redistribution. It also opposes proposed urban property ceilings, warning of discrimination between urban and rural property owners, and concludes that India should encourage enterprise and incentives for production rather than impose restrictions that reduce the scope for investment and work.
+
 ## Key points
 
 - India’s food security and poverty reduction depend on increased agricultural production and modernisation.

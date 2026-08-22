@@ -49,6 +49,12 @@ summary: |-
   Singh attributes the party's difficulties to Rajbahadur's alleged lack of organisational leadership, legal and financial disputes over party premises, and the absence of coordination among party workers and legislators. He worries that Rajbahadur may be keeping the party alive only nominally until the general elections, and asks whether the party should be rebuilt or replaced by another political platform. The letter also requests Munshi's intervention in a dispute over a party vehicle and its unpaid tax, with a copy sent to M. R. Masani for information and guidance.
 ---
 
+## Summary
+
+This confidential letter, dated 20 March 1963, reports on the condition of the Swatantra Party in Bihar and asks K. M. Munshi for advice. Janki Nandan Singh describes opposition-party conferences at Laheriasarai and Saharsa, attended by large crowds and addressed by figures including C. Rajagopalachari and Ram Manohar Lohia. He contrasts these mobilising efforts with what he sees as organisational paralysis in the Bihar legislature and party, noting that the Leader of the Opposition had attended the Assembly only three or four times in the preceding year.
+
+Singh attributes the party's difficulties to Rajbahadur's alleged lack of organisational leadership, legal and financial disputes over party premises, and the absence of coordination among party workers and legislators. He worries that Rajbahadur may be keeping the party alive only nominally until the general elections, and asks whether the party should be rebuilt or replaced by another political platform. The letter also requests Munshi's intervention in a dispute over a party vehicle and its unpaid tax, with a copy sent to M. R. Masani for information and guidance.
+
 ## Key points
 
 - Singh reports on opposition-party conferences held in Bihar in February and March 1963.

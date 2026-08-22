@@ -52,6 +52,12 @@ summary: |-
   The letter asks the recipient to report how many workers came up for renewal in 1965, in which months, and how many subscriptions were actually renewed. It also requests information about the steps taken to secure renewals and an explanation if the results were unsatisfactory, asking for an early reply.
 ---
 
+## Summary
+
+Dated 30 December 1965, this one-page letter from M. R. Masani, General Secretary of the Swatantra Party, follows up on the party's new workers' enrolment system, which had been operating for one year and nine months. Masani notes that the Central Office has received register entries for most enrolled worker-members and has collected the Centre's subscription quota, but has not received information about subscription renewals.
+
+The letter asks the recipient to report how many workers came up for renewal in 1965, in which months, and how many subscriptions were actually renewed. It also requests information about the steps taken to secure renewals and an explanation if the results were unsatisfactory, asking for an early reply.
+
 ## Key points
 
 - The Swatantra Party's new workers' enrolment system had been in operation for one year and nine months.

@@ -44,6 +44,10 @@ summary: |-
   This single-page English telegram, dated 28 August 1964, is addressed to Minoo Masani in Bombay and signed “RANGA.” The sender thanks Masani, confirms readiness to proceed to Washington, and acknowledges that return passage from London to Washington has been arranged through a third cable, with Air India London identified in the message.
 ---
 
+## Summary
+
+This single-page English telegram, dated 28 August 1964, is addressed to Minoo Masani in Bombay and signed “RANGA.” The sender thanks Masani, confirms readiness to proceed to Washington, and acknowledges that return passage from London to Washington has been arranged through a third cable, with Air India London identified in the message.
+
 ## Key points
 
 - The document is a telegram dated 28 August 1964.

@@ -45,6 +45,12 @@ summary: |-
   The typed letter, dated May 14, 1992, is addressed to Professor Datta and signed by R. Srinivasan, identified as Editor. It reports that Shri Raju remains in a nursing home but is recovering, acknowledges the delay in replying to Datta’s postcard, apologizes for the pamphlet’s page-10 omission, and promises revised copies. Srinivasan says the revised pamphlet will also be sent to Dr. Manmohan Singh and Dr. Partha Das Gupta at Raju’s suggestion, and closes by noting that the pamphlet has received a sympathetic response from many quarters.
 ---
 
+## Summary
+
+This three-page correspondence records editorial and postal follow-up surrounding a pamphlet sent to S. V. Raju and Professor Amlan Datta. In the handwritten note, the writer thanks Raju for his comments, identifies a major omission on page 10, and explains that a sentence concerning business ethics and the businessman’s role was accidentally left incomplete. The writer also asks Raju to send copies to Dr. Manmohan Singh and Dr. Partha Das Gupta, Faculty of Economics, Cambridge, and expresses hope for Raju’s recovery.
+
+The typed letter, dated May 14, 1992, is addressed to Professor Datta and signed by R. Srinivasan, identified as Editor. It reports that Shri Raju remains in a nursing home but is recovering, acknowledges the delay in replying to Datta’s postcard, apologizes for the pamphlet’s page-10 omission, and promises revised copies. Srinivasan says the revised pamphlet will also be sent to Dr. Manmohan Singh and Dr. Partha Das Gupta at Raju’s suggestion, and closes by noting that the pamphlet has received a sympathetic response from many quarters.
+
 ## Key points
 
 - The handwritten correspondence thanks S. V. Raju for comments on a pamphlet and requests further circulation of copies.

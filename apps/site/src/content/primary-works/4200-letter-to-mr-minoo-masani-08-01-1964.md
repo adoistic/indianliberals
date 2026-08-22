@@ -44,6 +44,10 @@ summary: |-
   This one-page English letter from C. Rajagopalachari, dated 8 January 1964, is addressed to M. R. Masani in Bombay. Rajagopalachari informs Masani that he is enclosing a letter from Sri N. C. Chatterjee, which he suggests may interest him. The document is signed by Rajagopalachari and bears a receipt stamp dated 13 January 1964.
 ---
 
+## Summary
+
+This one-page English letter from C. Rajagopalachari, dated 8 January 1964, is addressed to M. R. Masani in Bombay. Rajagopalachari informs Masani that he is enclosing a letter from Sri N. C. Chatterjee, which he suggests may interest him. The document is signed by Rajagopalachari and bears a receipt stamp dated 13 January 1964.
+
 ## Key points
 
 - The letter is dated 8 January 1964.

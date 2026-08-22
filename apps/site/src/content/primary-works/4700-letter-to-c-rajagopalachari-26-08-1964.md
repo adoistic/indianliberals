@@ -46,6 +46,10 @@ summary: |-
   This untitled letter, dated 22 August 1964, is from C. Rajagopalachari to M. R. Masani. Rajagopalachari acknowledges having read Masani’s letter concerning Bashirul Haque and agrees that there is widespread feeling that the party has been unnecessarily weakened. He adds that the nuances of the issue are difficult to convey through public communication and expresses hope that time will help.
 ---
 
+## Summary
+
+This untitled letter, dated 22 August 1964, is from C. Rajagopalachari to M. R. Masani. Rajagopalachari acknowledges having read Masani’s letter concerning Bashirul Haque and agrees that there is widespread feeling that the party has been unnecessarily weakened. He adds that the nuances of the issue are difficult to convey through public communication and expresses hope that time will help.
+
 ## Key points
 
 - The letter is dated 22 August 1964 and was sent from Rajagopalachari’s Madras address.

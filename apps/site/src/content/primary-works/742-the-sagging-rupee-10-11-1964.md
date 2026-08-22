@@ -57,6 +57,12 @@ summary: |-
   Masani opposes comprehensive price controls, arguing that they cannot defeat supply and demand and will distort production, generate shortages, and encourage black markets. He similarly criticizes gold-control measures, maintaining that people hold gold because the rupee is not trusted and that an “honest rupee” would be a better remedy. The essay attributes worsening inflation and deficits to the Second and Third Five Year Plans, excessive emphasis on heavy industry, deficit finance, and heavy taxation. It calls instead for balanced development that gives agriculture, consumer goods, infrastructure, and heavy industry their proper priorities, together with reduced deficit finance and taxation.
 ---
 
+## Summary
+
+In this eight-page essay, M. R. Masani argues that India’s food crisis is fundamentally a monetary and general economic crisis. The rupee’s loss of purchasing power, inflation, and the government’s planning priorities have, in his view, weakened production and undermined confidence in the currency. Masani rejects attempts to blame peasants, traders, hoarders, or profiteers for conditions that he treats as effects of deeper policy failures. He also criticizes controlled procurement and unequal price policies for forcing peasants to sell grain cheaply while industrial prices rise.
+
+Masani opposes comprehensive price controls, arguing that they cannot defeat supply and demand and will distort production, generate shortages, and encourage black markets. He similarly criticizes gold-control measures, maintaining that people hold gold because the rupee is not trusted and that an “honest rupee” would be a better remedy. The essay attributes worsening inflation and deficits to the Second and Third Five Year Plans, excessive emphasis on heavy industry, deficit finance, and heavy taxation. It calls instead for balanced development that gives agriculture, consumer goods, infrastructure, and heavy industry their proper priorities, together with reduced deficit finance and taxation.
+
 ## Key points
 
 - The food crisis is presented as a symptom of a broader monetary and economic crisis centred on the rupee.

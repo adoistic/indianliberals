@@ -48,6 +48,10 @@ summary: |-
   This two-page Swatantra Party office memo, dated 1 April 1968, is from C. R. Irani to S. V. Raju and records a copy of a telegram sent to M. R. Masani. The telegram reports that an extraordinary meeting of Bengal Party workers unanimously deplored the action of some Gujarat MLAs in flouting a Parliamentary Board directive. It urges Masani to reconsider his decision while affirming support for his commitment to party discipline and good faith.
 ---
 
+## Summary
+
+This two-page Swatantra Party office memo, dated 1 April 1968, is from C. R. Irani to S. V. Raju and records a copy of a telegram sent to M. R. Masani. The telegram reports that an extraordinary meeting of Bengal Party workers unanimously deplored the action of some Gujarat MLAs in flouting a Parliamentary Board directive. It urges Masani to reconsider his decision while affirming support for his commitment to party discipline and good faith.
+
 ## Key points
 
 - The document is an office memo from the Swatantra Party National Headquarters.

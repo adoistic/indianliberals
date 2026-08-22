@@ -51,6 +51,12 @@ summary: |-
   The secretary asks Masani to send the article to the party's East Tambaram address before 15 November 1967. The document is therefore a brief example of Swatantra Party organisational activity and of the contemporary effort to mark Rajaji's public and political legacy.
 ---
 
+## Summary
+
+This single-page English letter, issued on Swatantra Party Tirupporur Constituency letterhead, solicits an article from M. R. Masani for a souvenir celebrating C. Rajagopalachari (Rajaji)'s 90th birthday. The celebration is identified as taking place on 8 December 1967, and the requested article is to concern Rajaji.
+
+The secretary asks Masani to send the article to the party's East Tambaram address before 15 November 1967. The document is therefore a brief example of Swatantra Party organisational activity and of the contemporary effort to mark Rajaji's public and political legacy.
+
 ## Key points
 
 - The document is a typed solicitation letter on Swatantra Party Tirupporur Constituency letterhead.

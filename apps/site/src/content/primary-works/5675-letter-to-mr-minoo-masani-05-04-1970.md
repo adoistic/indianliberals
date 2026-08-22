@@ -54,6 +54,12 @@ summary: |-
   The letter proposes a short resolution declaring Desai’s explanation unacceptable and expelling him from the party for indiscipline and disloyalty. It further advises preparing a summary of the charge sheet and comments for the press, ensuring that H. M. Patel can participate if necessary, and dispatching the material to MLAs and MPs. A handwritten postscript adds logistical instructions concerning telegrams, telephone calls, and the timing of the meeting.
 ---
 
+## Summary
+
+This two-page letter, dated April 3, 1970, from S. V. Raju of the Swatantra Party’s national headquarters to Minoo Masani, reports on preparations for a party response to C. C. Desai. Raju says he has consulted Dr. Cooper and Mr. Dandekar and outlines how National Headquarters’ comments, the National Executive’s note, and C. C. Desai’s explanation should be circulated to the party’s MLAs in Gujarat and to MPs. He also recommends inviting members of the State Parliamentary Board to the discussion.
+
+The letter proposes a short resolution declaring Desai’s explanation unacceptable and expelling him from the party for indiscipline and disloyalty. It further advises preparing a summary of the charge sheet and comments for the press, ensuring that H. M. Patel can participate if necessary, and dispatching the material to MLAs and MPs. A handwritten postscript adds logistical instructions concerning telegrams, telephone calls, and the timing of the meeting.
+
 ## Key points
 
 - S. V. Raju reports consultations with Dr. Cooper and Mr. Dandekar about the party’s response to C. C. Desai.

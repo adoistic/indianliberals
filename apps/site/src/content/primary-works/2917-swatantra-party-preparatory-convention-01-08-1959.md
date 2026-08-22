@@ -66,6 +66,12 @@ summary: |-
   Masani links political freedom to economic freedom. He defends private property, freedom of choice, enterprise, and the interests of peasants, workers, professionals, and small traders, while criticising excessive taxation, bureaucratic control, licences and permits, joint or collective farming, and the concentration of political and economic power. He argues that the Swatantra Party should rely primarily on ordinary citizens and small contributions rather than big business. The address also frames the party as an uncompromising opponent of communism and as a means of preventing discontent from being channelled exclusively into Communist politics. In its concluding pages, Masani invokes C. Rajagopalachari’s leadership, Gandhi’s values, India’s cultural heritage, and universal “eternal verities.”
 ---
 
+## Summary
+
+In these opening remarks for the Swatantra Party’s preparatory convention in Bombay on August 1–2, 1959, M. R. Masani presents the party as a new national movement for democratic liberties and personal freedom. He describes its emergence as a response to the post-Independence dominance of the Congress, the absence of an effective parliamentary opposition, and what he calls the government’s “State Capitalism.” The party is meant to provide a broad-based alternative centred on individual rights rather than socialism, collectivism, or ideological conformity.
+
+Masani links political freedom to economic freedom. He defends private property, freedom of choice, enterprise, and the interests of peasants, workers, professionals, and small traders, while criticising excessive taxation, bureaucratic control, licences and permits, joint or collective farming, and the concentration of political and economic power. He argues that the Swatantra Party should rely primarily on ordinary citizens and small contributions rather than big business. The address also frames the party as an uncompromising opponent of communism and as a means of preventing discontent from being channelled exclusively into Communist politics. In its concluding pages, Masani invokes C. Rajagopalachari’s leadership, Gandhi’s values, India’s cultural heritage, and universal “eternal verities.”
+
 ## Key points
 
 - The Swatantra Party is presented as a national movement for democratic liberties, personal freedom, and normal parliamentary democracy.

@@ -50,6 +50,12 @@ summary: |-
   The sender nevertheless argues that Yashpal Singh's numerical value should not be sacrificed merely as a matter of placing him where he deserves. The letter therefore balances criticism of a troublesome colleague against the practical importance of maintaining parliamentary numbers, and asks Masani to wait until he has seen Singh function during a session before deciding.
 ---
 
+## Summary
+
+This untitled letter, written from Nidubrolu on 20 June 1963 on Lok Sabha letterhead, is addressed to Minoo Masani. The sender asks Masani to reconsider the proposed seating arrangement for their parliamentary members. Sardar Kapur Singh wants Yashpal Singh moved to the fourth bench because of dissatisfaction with his disruptive conduct and tendency to intrude on their speaking time.
+
+The sender nevertheless argues that Yashpal Singh's numerical value should not be sacrificed merely as a matter of placing him where he deserves. The letter therefore balances criticism of a troublesome colleague against the practical importance of maintaining parliamentary numbers, and asks Masani to wait until he has seen Singh function during a session before deciding.
+
 ## Key points
 
 - The letter is dated 20 June 1963 and was sent from Nidubrolu on Member of Parliament (Lok Sabha) letterhead.

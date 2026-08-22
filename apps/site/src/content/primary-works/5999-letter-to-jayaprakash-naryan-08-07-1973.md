@@ -45,6 +45,12 @@ summary: |-
   The latter part of the letter addresses employment for Rajiv Sinha. Masani says that B. P. Sinha has already written to him and that he has recommended Rajiv to Messrs. Hindustan Thompson and another advertising agency. He presents Rajiv as promising but notes that his lack of experience makes placement difficult. The page contains no formal title, publication information, or broader argument beyond this personal correspondence.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani to Jayaprakash Narayan, dated July 6, 1973, combines personal concern with practical assistance. Masani acknowledges Narayan’s poor health and apparent sense of isolation in Patna, welcomes his planned visit to Bombay from July 22 to August 2, and expresses disappointment that Narayan cannot stay with him. Masani also notes that Govindrao Deshpande has recently contacted him about Narayan’s visit and that he has offered whatever help he can provide.
+
+The latter part of the letter addresses employment for Rajiv Sinha. Masani says that B. P. Sinha has already written to him and that he has recommended Rajiv to Messrs. Hindustan Thompson and another advertising agency. He presents Rajiv as promising but notes that his lack of experience makes placement difficult. The page contains no formal title, publication information, or broader argument beyond this personal correspondence.
+
 ## Key points
 
 - Masani writes to Jayaprakash Narayan on July 6, 1973.

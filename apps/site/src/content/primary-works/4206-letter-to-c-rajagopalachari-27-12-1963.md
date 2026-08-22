@@ -45,6 +45,12 @@ summary: |-
   Masani encloses a cheque for Rs. 500/- to help meet Rajagopalachari’s immediate office expenses. He acknowledges that the payment does not restore earlier obligations or provide adequate office facilities, and proposes discussing a longer-term arrangement when they meet. The letter closes with New Year wishes and a handwritten signature.
 ---
 
+## Summary
+
+In this letter dated December 27, 1963, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about the temporary discontinuation of the allocation supporting Rajagopalachari’s office. Masani explains that the Treasury had been unable to provide funds for the Central Office, although payments have recently resumed following joint efforts by Sir Hom Mody and Masani.
+
+Masani encloses a cheque for Rs. 500/- to help meet Rajagopalachari’s immediate office expenses. He acknowledges that the payment does not restore earlier obligations or provide adequate office facilities, and proposes discussing a longer-term arrangement when they meet. The letter closes with New Year wishes and a handwritten signature.
+
 ## Key points
 
 - Masani’s letter is dated December 27, 1963, and addressed to C. Rajagopalachari.

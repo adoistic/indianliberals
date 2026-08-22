@@ -49,6 +49,12 @@ summary: |-
   Vaidya says he intends to seek permission to attend the meeting and is concerned that Patel has passed his name on to Vankaner Yuvraj Shri Digvijaysinhji rather than proposing it himself. He describes active propaganda against the Central Party Committee among Swatantra MLAs, notes that the Congress is pleased by the split and has offered its spare votes to Mahida, and expects the situation to become clearer after the 18 March meeting. The document is marked “COPY” and includes handwritten annotations concerning a copy sent to another recipient.
 ---
 
+## Summary
+
+This one-page copy of a letter dated 15 March 1968 records Babubhai P. Vaidya’s update to S. V. Raju about an internal Swatantra Party dispute over nominations for a Council of States election. Vaidya reports that the Central Parliamentary Committee has decided on the matter, while H. M. Patel is expected to convene a meeting of the party’s MLAs on 18 March and ask U. N. Mahida to withdraw his nomination.
+
+Vaidya says he intends to seek permission to attend the meeting and is concerned that Patel has passed his name on to Vankaner Yuvraj Shri Digvijaysinhji rather than proposing it himself. He describes active propaganda against the Central Party Committee among Swatantra MLAs, notes that the Congress is pleased by the split and has offered its spare votes to Mahida, and expects the situation to become clearer after the 18 March meeting. The document is marked “COPY” and includes handwritten annotations concerning a copy sent to another recipient.
+
 ## Key points
 
 - The letter updates S. V. Raju on developments concerning a Council of States election.

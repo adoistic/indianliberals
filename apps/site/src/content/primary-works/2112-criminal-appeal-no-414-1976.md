@@ -52,6 +52,12 @@ summary: |-
   The second page is Latchanna's letter to the Supreme Court Registrar, dated 29 December 1976, confirming a telegram sent on 29 November. Writing from District Jail, Secunderabad, he explains that he had received the notice late, had not arranged counsel, and sought either production before the Court or an adjournment of at least four weeks to engage a senior advocate. The document records a detained appellant's effort to secure the practical opportunity to participate in his appeal; it does not include the Court's subsequent decision.
 ---
 
+## Summary
+
+This two-page English legal correspondence concerns Criminal Appeal No. 414 of 1976 before the Supreme Court of India. The first page reproduces the Court's notice, dated 5 November 1976, regarding G. Latchanna's appeal from an Andhra Pradesh High Court judgment and order. The notice states that the appeal was listed for hearing on 6 December 1976 and asks the respondents to show cause why it should not be admitted.
+
+The second page is Latchanna's letter to the Supreme Court Registrar, dated 29 December 1976, confirming a telegram sent on 29 November. Writing from District Jail, Secunderabad, he explains that he had received the notice late, had not arranged counsel, and sought either production before the Court or an adjournment of at least four weeks to engage a senior advocate. The document records a detained appellant's effort to secure the practical opportunity to participate in his appeal; it does not include the Court's subsequent decision.
+
 ## Key points
 
 - The document concerns Criminal Appeal No. 414 of 1976 in the Supreme Court of India.

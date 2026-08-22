@@ -46,6 +46,10 @@ summary: |-
   This single-page archival document is a telegram on an Indian Posts and Telegraphs Department receiver form, routed through Madras and Bombay. The pasted message strips record a draft-related instruction and state that “CONTROL” is irrelevant, followed by the attribution-like name “RAJAJI.” No sender, addressee, salutation, or complimentary close is visible, so the document’s authorship and precise subject cannot be established from this page.
 ---
 
+## Summary
+
+This single-page archival document is a telegram on an Indian Posts and Telegraphs Department receiver form, routed through Madras and Bombay. The pasted message strips record a draft-related instruction and state that “CONTROL” is irrelevant, followed by the attribution-like name “RAJAJI.” No sender, addressee, salutation, or complimentary close is visible, so the document’s authorship and precise subject cannot be established from this page.
+
 ## Key points
 
 - The document is a single-page telegram rather than a conventional letter.

@@ -45,6 +45,10 @@ summary: |-
   This one-page letter from Charanjit Rai to Minoo Masani, dated 2 November 1967, addresses the proposed appointment of N. Dandekar as the party’s Honorary General Secretary. Rai recalls his earlier opposition to Masani’s not accepting the position for the next two years, but accepts Masani’s final decision and pledges his full cooperation, support, and assistance to Dandekar.
 ---
 
+## Summary
+
+This one-page letter from Charanjit Rai to Minoo Masani, dated 2 November 1967, addresses the proposed appointment of N. Dandekar as the party’s Honorary General Secretary. Rai recalls his earlier opposition to Masani’s not accepting the position for the next two years, but accepts Masani’s final decision and pledges his full cooperation, support, and assistance to Dandekar.
+
 ## Key points
 
 - The letter is dated 2 November 1967 and was sent from Bombay.

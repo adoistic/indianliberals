@@ -44,6 +44,10 @@ summary: |-
   This confidential letter from S. V. Raju, dated March 17, 1970, reports on a conversation with Haridhan of UNI concerning whether material about C. C. Desai had been sent to the press. Haridhan confirmed that it had been communicated and expressed surprise that it had been omitted.
 ---
 
+## Summary
+
+This confidential letter from S. V. Raju, dated March 17, 1970, reports on a conversation with Haridhan of UNI concerning whether material about C. C. Desai had been sent to the press. Haridhan confirmed that it had been communicated and expressed surprise that it had been omitted.
+
 ## Key points
 
 - The document is a confidential internal letter dated March 17, 1970.

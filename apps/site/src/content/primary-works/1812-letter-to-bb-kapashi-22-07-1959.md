@@ -47,6 +47,12 @@ summary: |-
   The letter expresses optimism about the newly formed Swatantra Party, stating that it has made a good start and appears likely to receive widespread support. The sender's name or signature is too faint to identify from the rendered page.
 ---
 
+## Summary
+
+This one-page English typescript letter, dated 22 July 1959, is addressed to Mr. B. B. Kapasi. The unidentified sender thanks Kapasi for his letter of 8 July and for enclosing a transcript of the Prime Minister's Conference, which the sender says has been read with interest.
+
+The letter expresses optimism about the newly formed Swatantra Party, stating that it has made a good start and appears likely to receive widespread support. The sender's name or signature is too faint to identify from the rendered page.
+
 ## Key points
 
 - The letter is dated 22 July 1959.

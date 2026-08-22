@@ -44,6 +44,10 @@ summary: |-
   A one-page typed thank-you note from Minoo Masani to Mr. and Mrs. I. T. Mirchandani, dated 4th March 1971, sent from Bombay on his return from Rajkot. Masani thanks the couple for having arranged a helicopter to come to his aid at Rajkot, calling it good of them to 'come to my rescue' and expressing appreciation for their help. The letter closes with a hope to see them both before long, and carries the file-clerk marking 'MRM/pav' along with the recipients' address at Mount Eminence, Off. Gamadia Road, Bombay 26.
 ---
 
+## Summary
+
+A one-page typed thank-you note from Minoo Masani to Mr. and Mrs. I. T. Mirchandani, dated 4th March 1971, sent from Bombay on his return from Rajkot. Masani thanks the couple for having arranged a helicopter to come to his aid at Rajkot, calling it good of them to 'come to my rescue' and expressing appreciation for their help. The letter closes with a hope to see them both before long, and carries the file-clerk marking 'MRM/pav' along with the recipients' address at Mount Eminence, Off. Gamadia Road, Bombay 26.
+
 ## Key points
 
 - Personal thank-you letter from Minoo Masani dated 4th March 1971, written on his return to Bombay.

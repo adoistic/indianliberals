@@ -48,6 +48,10 @@ summary: |-
   This English-language letter, dated April 2, 1968, is from Kusumkumari C. Joshi of Gondal to N. Dandekar, General Secretary of the Swatantra Party. Joshi requests that an emergency meeting of the Party’s General Council be convened to address Minoo Masani’s resignation from the National Executive and the Central Parliamentary Board.
 ---
 
+## Summary
+
+This English-language letter, dated April 2, 1968, is from Kusumkumari C. Joshi of Gondal to N. Dandekar, General Secretary of the Swatantra Party. Joshi requests that an emergency meeting of the Party’s General Council be convened to address Minoo Masani’s resignation from the National Executive and the Central Parliamentary Board.
+
 ## Key points
 
 - The letter is dated April 2, 1968, and was sent from Gondal, Gujarat State.

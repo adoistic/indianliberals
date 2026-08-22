@@ -51,6 +51,12 @@ summary: |-
   The report presents Masani’s position as a response to the 1971 election results. It reproduces the party Parliamentary Board’s criticism of the Lok Sabha election outcome as distorted by disproportionate representation, arguing that the Congress had received 189,144 fewer votes than the combined opposition but won 353 seats against the opposition’s 83. Under the subheading “Distortion,” Masani is reported as saying that the Prime Minister and her party had not secured more than 43.64 per cent of the votes polled, and that the opposition’s divided contest had allowed the Congress to win a large majority. He also defended the Swatantra Party’s decision to abandon an electoral alliance with the Communist Party of India (Marxist), describing the alliance as a failed and misdirected strategy.
 ---
 
+## Summary
+
+This 21 March 1971 Sunday Standard report records Swatantra Party president M. R. Masani’s decision that the party would not join any parliamentary bloc. Masani said the party’s members of Parliament should function independently and articulate the Swatantra Party’s distinctive approach and policies, while leaving open the possibility of a future merger with a new party if circumstances warranted it.
+
+The report presents Masani’s position as a response to the 1971 election results. It reproduces the party Parliamentary Board’s criticism of the Lok Sabha election outcome as distorted by disproportionate representation, arguing that the Congress had received 189,144 fewer votes than the combined opposition but won 353 seats against the opposition’s 83. Under the subheading “Distortion,” Masani is reported as saying that the Prime Minister and her party had not secured more than 43.64 per cent of the votes polled, and that the opposition’s divided contest had allowed the Congress to win a large majority. He also defended the Swatantra Party’s decision to abandon an electoral alliance with the Communist Party of India (Marxist), describing the alliance as a failed and misdirected strategy.
+
 ## Key points
 
 - M. R. Masani ruled out the Swatantra Party joining any parliamentary bloc.

@@ -51,6 +51,12 @@ summary: |-
   Masani contends that India’s constitutional freedoms are weakened when citizens and newspapers become deferential to political power. He criticizes the press for echoing official language, minimizing failures, and accepting the Prime Minister’s position without sufficient scrutiny, particularly during the China crisis and after the handling of the Krishna Menon controversy. The essay closes by urging the press, political parties, and the public to resist servility, preserve dissent, and defend the free way of life on which democracy depends.
 ---
 
+## Summary
+
+In this three-page essay, M. R. Masani argues that a democratic state depends on a free press to connect the people, political parties, and governmental authority. He contrasts democratic accountability with autocratic systems, where power moves from the apex without a visible link to public opinion. Newspapers may be factional, partisan, or mistaken, but their central democratic function is to bring authority under the discipline of informed public criticism.
+
+Masani contends that India’s constitutional freedoms are weakened when citizens and newspapers become deferential to political power. He criticizes the press for echoing official language, minimizing failures, and accepting the Prime Minister’s position without sufficient scrutiny, particularly during the China crisis and after the handling of the Krishna Menon controversy. The essay closes by urging the press, political parties, and the public to resist servility, preserve dissent, and defend the free way of life on which democracy depends.
+
 ## Key points
 
 - Democratic authority must be connected to public opinion through visible channels of criticism and consent.

@@ -46,6 +46,12 @@ summary: |-
   The letter closes on a note of guarded confidence: Masani writes that, thanks to Mrs. Sawhny and other friends, he expects to carry the constituency when the ballot boxes are opened on the 10th. The correspondence documents the practical logistics — and the reliance on private benefactors — of a Swatantra candidate's rural campaign in the 1971 general election.
 ---
 
+## Summary
+
+A brief typewritten thank-you letter from Minoo Masani to Mrs. Dabeh Sawhny of Somerset House, Bombay, dated 4th March 1971, on the eve of the fifth Lok Sabha election. Masani, standing from the Rajkot constituency, thanks his correspondent for arranging a helicopter that gave him six hours of flying time and let him wave to villagers in outlying settlements he would otherwise have had to neglect.
+
+The letter closes on a note of guarded confidence: Masani writes that, thanks to Mrs. Sawhny and other friends, he expects to carry the constituency when the ballot boxes are opened on the 10th. The correspondence documents the practical logistics — and the reliance on private benefactors — of a Swatantra candidate's rural campaign in the 1971 general election.
+
 ## Key points
 
 - Personal letter from Minoo Masani to Mrs. Dabeh Sawhny, 4 March 1971, sent on his return to office after campaigning in Rajkot.

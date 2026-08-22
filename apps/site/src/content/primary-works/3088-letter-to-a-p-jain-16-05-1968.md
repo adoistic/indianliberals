@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated 16 May 1968 and signed by R. K. A. Narayan, is addressed to A. P. Jain in New Delhi. Narayan asks Jain to obtain and send the Lok Sabha proceedings concerning a recent question on beef-eating, in which Jagjivan Ram had made comments that prompted controversy.
 ---
 
+## Summary
+
+This one-page letter, dated 16 May 1968 and signed by R. K. A. Narayan, is addressed to A. P. Jain in New Delhi. Narayan asks Jain to obtain and send the Lok Sabha proceedings concerning a recent question on beef-eating, in which Jagjivan Ram had made comments that prompted controversy.
+
 ## Key points
 
 - Narayan requests the relevant Lok Sabha proceedings concerning a controversial question on beef-eating.

@@ -51,6 +51,10 @@ summary: |-
   This two-page archival item documents the death and memorial rites of C. Rajagopalachari (Rajaji) in January 1973. A Times of India news clipping dated 7 January reports that Rajaji’s ashes were immersed in the Sangam at Allahabad amid mantras and the chanting of “Ram Dhun.” It describes the public procession, the attendance of local people, police, and state representatives, and the final immersion by motorboat in the Ganga.
 ---
 
+## Summary
+
+This two-page archival item documents the death and memorial rites of C. Rajagopalachari (Rajaji) in January 1973. A Times of India news clipping dated 7 January reports that Rajaji’s ashes were immersed in the Sangam at Allahabad amid mantras and the chanting of “Ram Dhun.” It describes the public procession, the attendance of local people, police, and state representatives, and the final immersion by motorboat in the Ganga.
+
 ## Key points
 
 - The Times of India clipping reports the immersion of Rajaji’s ashes at the Sangam in Allahabad.

@@ -52,6 +52,12 @@ summary: |-
   The memorandum focuses on the proposed denationalisation, or partial nationalisation reversal, of passenger transport in Orissa. It criticises the State Transport administration’s lack of transport expertise, warns that exclusive nationalisation has created legal and administrative obstacles to private operation, and argues that existing personnel may be unable to run retained routes economically. It also describes political resistance to reform, delays in the Cabinet, and public frustration, while urging the Government to implement its stated policy, develop long-distance inter-State routes, cooperate with West Bengal and Bihar, and encourage free private enterprise. The document does not include a reply or evidence of subsequent action.
 ---
 
+## Summary
+
+This five-page archival document comprises M. R. Masani’s letter of 19 November 1968 to Orissa Chief Minister H. H. Maharaja Shri R. N. Singh Deo, together with an enclosed letter and memorandum from S. K. Ganguli of the Calcutta Branch of the Indian Roads and Transport Development Association. Masani reports that little progress has been made in implementing the Orissa Government’s transport policies and asks the Chief Minister to expedite action by local officials. Ganguli’s accompanying letter describes repeated but unsuccessful attempts to secure an interview with the Chief Minister and argues that transport decisions cannot advance without intervention at the Maharaja’s level.
+
+The memorandum focuses on the proposed denationalisation, or partial nationalisation reversal, of passenger transport in Orissa. It criticises the State Transport administration’s lack of transport expertise, warns that exclusive nationalisation has created legal and administrative obstacles to private operation, and argues that existing personnel may be unable to run retained routes economically. It also describes political resistance to reform, delays in the Cabinet, and public frustration, while urging the Government to implement its stated policy, develop long-distance inter-State routes, cooperate with West Bengal and Bihar, and encourage free private enterprise. The document does not include a reply or evidence of subsequent action.
+
 ## Key points
 
 - Masani tells the Orissa Chief Minister that implementation of the Government’s transport policies has progressed very slowly.

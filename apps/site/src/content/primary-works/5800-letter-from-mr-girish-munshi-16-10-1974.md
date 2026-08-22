@@ -51,6 +51,12 @@ summary: |-
   The statement records support for government measures against smugglers, while cautioning that such measures should not merely boost the ruling party's popularity before elections. It also expresses the party's full support for the movement launched by Jayaprakash Narayan in Bihar. The document is an organizational press statement rather than a personally addressed letter, and no formal printed title or author byline appears.
 ---
 
+## Summary
+
+This single-page press statement, issued by Girish Munshi as General Secretary of the Maharashtra Swatantra Party on October 16, 1974, reports on an Executive Meeting held in Bombay on October 12. It says members welcomed the decision for the Maharashtra Swatantra Party to continue to exist, and presents the party as having moved beyond its former public image as a party of wealthy men and Maharajas.
+
+The statement records support for government measures against smugglers, while cautioning that such measures should not merely boost the ruling party's popularity before elections. It also expresses the party's full support for the movement launched by Jayaprakash Narayan in Bihar. The document is an organizational press statement rather than a personally addressed letter, and no formal printed title or author byline appears.
+
 ## Key points
 
 - The Maharashtra Swatantra Party decided to continue to exist.

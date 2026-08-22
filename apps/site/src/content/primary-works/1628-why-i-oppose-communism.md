@@ -54,3 +54,9 @@ summary: |-
   
   The rendered pages then move through Bertrand Russell’s philosophical critique, Lieut.-General Sir Brian Horrocks’s military and strategic objections, and the opening of C. D. Darlington’s scientific critique. Across these pages, the symposium connects Marxist theory with dictatorship, suppression of independent judgment, militarism, and the failure to provide humane political and social ends. The later contributions listed in the contents—including those by Sam Watson, Stephen Spender, Minoo Masani, Douglas Woodruff, Hugh Lonsdale, and Sir John Sargent—were not rendered here.
 ---
+
+## Summary
+
+This 1956 English-language symposium presents arguments against Communism from several professional perspectives, beginning with H. R. Trevor-Roper’s introduction and contributions by a philosopher, soldier, scientist, trade unionist, author, Asian writer, Roman Catholic, businessman, and educationist. In the rendered pages, Trevor-Roper frames Communism as a global political force whose appeal cannot be explained by coercion alone: it promises scientific certainty, relief from oppression, and material salvation, while its opponents must offer a better answer rather than merely expose its brutality.
+
+The rendered pages then move through Bertrand Russell’s philosophical critique, Lieut.-General Sir Brian Horrocks’s military and strategic objections, and the opening of C. D. Darlington’s scientific critique. Across these pages, the symposium connects Marxist theory with dictatorship, suppression of independent judgment, militarism, and the failure to provide humane political and social ends. The later contributions listed in the contents—including those by Sam Watson, Stephen Spender, Minoo Masani, Douglas Woodruff, Hugh Lonsdale, and Sir John Sargent—were not rendered here.

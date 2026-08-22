@@ -54,6 +54,12 @@ summary: |-
   The enclosed extract sets out the requirements and procedure for registering an association or body as a political party. It specifies the information an application must contain, including the organisation's name, headquarters, address, office-bearers, membership strength, local units, and legislative representation. The association's rules must also affirm allegiance to the Constitution of India and to socialism, secularism, and democracy, while upholding India's sovereignty, unity, and integrity. The Election Commission may request further particulars, must provide an opportunity of being heard, and has final authority to register or refuse registration. Registered parties must promptly report material changes in their organisation.
 ---
 
+## Summary
+
+This four-page file is a letter dated 14 September 1994 from the Secretariat of the Election Commission of India to Shri Venkiteswaran in Bombay. The letter responds to his earlier correspondence and telegram concerning registration under Section 29A of the Representation of the People Act, 1951. It draws attention specifically to Sections 29A(5) and 29A(7) and encloses an extract of the statutory provision for reference.
+
+The enclosed extract sets out the requirements and procedure for registering an association or body as a political party. It specifies the information an application must contain, including the organisation's name, headquarters, address, office-bearers, membership strength, local units, and legislative representation. The association's rules must also affirm allegiance to the Constitution of India and to socialism, secularism, and democracy, while upholding India's sovereignty, unity, and integrity. The Election Commission may request further particulars, must provide an opportunity of being heard, and has final authority to register or refuse registration. Registered parties must promptly report material changes in their organisation.
+
 ## Key points
 
 - The Election Commission's letter is dated 14 September 1994 and is addressed to Shri Venkiteswaran at Sassoon Building, Bombay.

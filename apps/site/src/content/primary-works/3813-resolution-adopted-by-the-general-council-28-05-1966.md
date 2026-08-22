@@ -52,6 +52,12 @@ summary: |-
   The resolution further proposes government purchases of grain at prevailing prices if removing movement restrictions does not equalise supplies and prices, with subsidised sales to poorer sections of the population. It links agricultural production problems to the consequences of the so-called Land Reforms, calling for protection against dispossession, eviction, and unfair rents, access to cooperative and other loans, and abolition of land revenue. The resolution is marked as moved by Mr. J. M. Lobo Prabhu.
 ---
 
+## Summary
+
+This one-page Swatantra Party resolution, adopted by the General Council on May 28, 1966, addresses food shortages and agricultural policy. It deplores the fact that a substantial part of the population is starving despite assistance from other countries and calls for the removal of restrictions on the movement of food grains between zones, districts, and Belt areas.
+
+The resolution further proposes government purchases of grain at prevailing prices if removing movement restrictions does not equalise supplies and prices, with subsidised sales to poorer sections of the population. It links agricultural production problems to the consequences of the so-called Land Reforms, calling for protection against dispossession, eviction, and unfair rents, access to cooperative and other loans, and abolition of land revenue. The resolution is marked as moved by Mr. J. M. Lobo Prabhu.
+
 ## Key points
 
 - The Swatantra Party General Council expresses concern that a sizeable section of the population is starving.

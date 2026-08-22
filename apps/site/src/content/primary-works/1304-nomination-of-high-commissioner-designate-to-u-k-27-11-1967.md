@@ -54,6 +54,12 @@ summary: |-
   The subsequent debate broadens into a discussion of the qualifications and political neutrality expected of Indian diplomatic representatives. Indira Gandhi defends the appointment, arguing that an envoy’s effectiveness depends on competence, policy understanding, language ability, and the capacity to strengthen links with both governments and foreign publics—not on having no controversial opinions. Members challenge the use of ambassadorial posts for patronage and ask whether defeated politicians or figures unpopular with sections of Parliament should represent India. The transcript also contains Hindi exchanges about the proposed appointment of a foreign-affairs committee and the relationship between parliamentary scrutiny and executive responsibility.
 ---
 
+## Summary
+
+This uncorrected Lok Sabha transcript records Starred Question No. 270A, answered on 27 November 1967, concerning the nomination of Shri S. S. Dhawan as High Commissioner-designate to the United Kingdom. M. R. Masani and N. Dandekar question whether Dhawan’s strongly critical comments about Britain and Indo-British relations, published in Blitz, are compatible with the diplomatic post. The government replies that the quotations were taken from separate portions of a longer article, written in the context of Kashmir and the 1965 Indo-Pakistani conflict, and that Dhawan’s appointment was made with the agreement of the British Government.
+
+The subsequent debate broadens into a discussion of the qualifications and political neutrality expected of Indian diplomatic representatives. Indira Gandhi defends the appointment, arguing that an envoy’s effectiveness depends on competence, policy understanding, language ability, and the capacity to strengthen links with both governments and foreign publics—not on having no controversial opinions. Members challenge the use of ambassadorial posts for patronage and ask whether defeated politicians or figures unpopular with sections of Parliament should represent India. The transcript also contains Hindi exchanges about the proposed appointment of a foreign-affairs committee and the relationship between parliamentary scrutiny and executive responsibility.
+
 ## Key points
 
 - The document records Lok Sabha Starred Question No. 270A on Dhawan’s nomination as High Commissioner-designate to the United Kingdom.

@@ -47,6 +47,10 @@ summary: |-
   This one-page typed telegram-style communication from M. R. Masani to C. Rajagopalachari (Rajaji), dated June 23, 1964, concerns whether to publish a memorandum. Masani argues that courtesy requires awaiting Dr. Radhakrishnan’s reply before publication, while offering an alternative: a meeting of the COC could decide the matter.
 ---
 
+## Summary
+
+This one-page typed telegram-style communication from M. R. Masani to C. Rajagopalachari (Rajaji), dated June 23, 1964, concerns whether to publish a memorandum. Masani argues that courtesy requires awaiting Dr. Radhakrishnan’s reply before publication, while offering an alternative: a meeting of the COC could decide the matter.
+
 ## Key points
 
 - Masani addresses C. Rajagopalachari at Kalki, Madras.

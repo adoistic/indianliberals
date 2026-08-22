@@ -52,6 +52,12 @@ summary: |-
   Patel also rejects Masani’s proposals for preserving Swatantra’s separate identity or converting it into a constructive service organisation. He points to the party’s financial weakness, organisational inactivity, inconsistent policy record in Orissa, and declining public credibility. Recalling the 1971 alliance and earlier discussions involving Rajaji, Piloo Mody and other leaders, Patel argues that dissolution is necessary to create a principled and electorally effective opposition. The letter closes by appealing to Masani to reconsider his opposition to the merger, which Patel presents as essential to restoring democratic political competition.
 ---
 
+## Summary
+
+In this six-page letter dated 23 July 1974, R. D. Patel urges Minoo Masani to support dissolving the Swatantra Party and forming a broader “National Alternative.” Patel argues that Swatantra began as a small group but that a stronger opposition requires merging several non-Congress, non-Communist and non-Marxist parties under a new name, flag and symbol. He maintains that cooperation with the DMK and Akalis could be useful, while an immediate association with Jansangh and Congress (O) would compromise the new party’s principles because of their support for controls, quotas, permits, socialism, cooperative and collective farming, and property ceilings.
+
+Patel also rejects Masani’s proposals for preserving Swatantra’s separate identity or converting it into a constructive service organisation. He points to the party’s financial weakness, organisational inactivity, inconsistent policy record in Orissa, and declining public credibility. Recalling the 1971 alliance and earlier discussions involving Rajaji, Piloo Mody and other leaders, Patel argues that dissolution is necessary to create a principled and electorally effective opposition. The letter closes by appealing to Masani to reconsider his opposition to the merger, which Patel presents as essential to restoring democratic political competition.
+
 ## Key points
 
 - Patel advocates dissolving the Swatantra Party to create a broader National Alternative.

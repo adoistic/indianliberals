@@ -46,6 +46,10 @@ summary: |-
   In this letter dated 6 November 1975, advocate C. T. Daru explains to Minoo Masani why he could not respond earlier and reports on the handling of recorded speeches. Daru says that only M. C. Chagla’s speeches could be transcribed because Soli Sorabji had requested the remaining tapes for use in a High Court of Bombay case concerning the prohibition of a lawyers’ meeting in Bombay.
 ---
 
+## Summary
+
+In this letter dated 6 November 1975, advocate C. T. Daru explains to Minoo Masani why he could not respond earlier and reports on the handling of recorded speeches. Daru says that only M. C. Chagla’s speeches could be transcribed because Soli Sorabji had requested the remaining tapes for use in a High Court of Bombay case concerning the prohibition of a lawyers’ meeting in Bombay.
+
 ## Key points
 
 - Daru writes to Minoo Masani from Ahmedabad on 6 November 1975.

@@ -48,6 +48,10 @@ summary: |-
   This two-page English-language Swatantra Party record comprises a July 9, 1959 invitation from (Miss) R. Hateria, acting for the Organising Secretary, requesting attendance at the next meeting of the party’s Organising Committee for Greater Bombay. The meeting was scheduled for July 13 at A. D. Shroff’s office in Bombay House, Bombay, and the letter emphasizes the recipient’s requested presence.
 ---
 
+## Summary
+
+This two-page English-language Swatantra Party record comprises a July 9, 1959 invitation from (Miss) R. Hateria, acting for the Organising Secretary, requesting attendance at the next meeting of the party’s Organising Committee for Greater Bombay. The meeting was scheduled for July 13 at A. D. Shroff’s office in Bombay House, Bombay, and the letter emphasizes the recipient’s requested presence.
+
 ## Key points
 
 - The letter is dated July 9, 1959, and is issued on Swatantra Party letterhead.

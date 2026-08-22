@@ -55,6 +55,12 @@ summary: |-
   Pages 2–3 reproduce minutes of the Swatantra Party National Executive meeting held in Bombay on 29 June 1976. The Executive rejects constitutional amendments concerning citizens’ rights, attributes the country’s difficulties to poor government and economic mismanagement rather than to the Constitution, and pledges to restore the Constitution to its original form. The minutes also address Jayaprakash Narayan’s proposed new party: Swatantra welcomes efforts to create a unified democratic, non-communist opposition but declines to dissolve unless it is satisfied with the new party’s programme and receives assurances about the character of the proposed alternative. The document further argues that free elections require withdrawal of the Emergency, restoration of fundamental rights and freedoms, and an end to censorship.
 ---
 
+## Summary
+
+This three-page English-language document begins with a 17 September 1976 letter from the All India Swatantra Party’s Madras headquarters. V. S. Srikumar, identified as Joint Secretary, announces that a committee of 16 party lawyers has been formed to examine the 44th Constitution Amendment Bill and report on its implications for the party’s principles, policies, and programme. The letter invites party colleagues to attend a special conference in Madras on 10 October 1976, while acknowledging that participants will have to bear their own travel, boarding, and lodging expenses.
+
+Pages 2–3 reproduce minutes of the Swatantra Party National Executive meeting held in Bombay on 29 June 1976. The Executive rejects constitutional amendments concerning citizens’ rights, attributes the country’s difficulties to poor government and economic mismanagement rather than to the Constitution, and pledges to restore the Constitution to its original form. The minutes also address Jayaprakash Narayan’s proposed new party: Swatantra welcomes efforts to create a unified democratic, non-communist opposition but declines to dissolve unless it is satisfied with the new party’s programme and receives assurances about the character of the proposed alternative. The document further argues that free elections require withdrawal of the Emergency, restoration of fundamental rights and freedoms, and an end to censorship.
+
 ## Key points
 
 - A 16-lawyer committee was formed to study the 44th Constitution Amendment Bill and prepare a report for the Swatantra Party.

@@ -44,6 +44,10 @@ summary: |-
   This typed letter, dated June 24, 1972, is from Sachchidanand, secretary to Jayaprakash Narayan, to M. R. Masani. Sachchidanand acknowledges Masani’s letter of June 21 and explains that it has been forwarded to Jayaprakash Narayan, who was then resting near Bangalore in Mysore State.
 ---
 
+## Summary
+
+This typed letter, dated June 24, 1972, is from Sachchidanand, secretary to Jayaprakash Narayan, to M. R. Masani. Sachchidanand acknowledges Masani’s letter of June 21 and explains that it has been forwarded to Jayaprakash Narayan, who was then resting near Bangalore in Mysore State.
+
 ## Key points
 
 - The letter is dated June 24, 1972, and addressed to M. R. Masani.

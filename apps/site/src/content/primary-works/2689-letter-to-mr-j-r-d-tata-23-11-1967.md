@@ -50,6 +50,12 @@ summary: |-
   The letter also notes that the Chief Minister's proposal refers to Tata Chemicals and TISCO, and that a copy is being sent to Dugie Savhry. The document records an early-stage exchange about industrial development, private enterprise, and possible Tata involvement in Orissa; no details of the enclosed proposals themselves are included on the rendered page.
 ---
 
+## Summary
+
+In this personal and confidential letter dated November 23, 1967, M. R. Masani writes to J. R. D. Tata about a possible initiative in Orissa intended to help balance the closing of the state's two mines. Masani encloses a letter from the Chief Minister of Orissa, along with notes on the state's industrial prospects and the proposed Talcher Industrial Complex, and asks Tata to consider whether the suggestions are feasible and how to proceed.
+
+The letter also notes that the Chief Minister's proposal refers to Tata Chemicals and TISCO, and that a copy is being sent to Dugie Savhry. The document records an early-stage exchange about industrial development, private enterprise, and possible Tata involvement in Orissa; no details of the enclosed proposals themselves are included on the rendered page.
+
 ## Key points
 
 - Masani refers to an earlier discussion with Tata about possible action in Orissa.

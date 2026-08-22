@@ -48,6 +48,12 @@ summary: |-
   Masani also discusses a possible visit to Rajkot on 15 or 16 July, while noting that the dates have not yet been settled. The letter is typed on Tata Industries Limited letterhead and signed by Masani.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani to Ratilal Ukabhai Patel, dated 28 June 1968, concerns disciplinary action against Mr. Dandeker within the party. Masani explains that Dandeker has been debarred from holding any office in the party for two years, with immediate effect, and interprets “any office” as including membership of the Dhoraji Taluka Committee, the Rajkot District Committee, and the Taluka Presidency.
+
+Masani also discusses a possible visit to Rajkot on 15 or 16 July, while noting that the dates have not yet been settled. The letter is typed on Tata Industries Limited letterhead and signed by Masani.
+
 ## Key points
 
 - Masani writes to Ratilal Ukabhai Patel on 28 June 1968.

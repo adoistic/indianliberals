@@ -50,6 +50,12 @@ summary: |-
   The document is therefore primarily a brief covering letter rather than the article itself. It establishes a connection between the publication’s editor, the contemporary Swatantra Party debate, and a response to the Prime Minister, but provides no details of the arguments in the enclosed article. The letter is addressed to Sir H. P. Mody in Bombay and is signed by Rayan as editor of “Commerce.”
 ---
 
+## Summary
+
+This one-page letter, dated 16 August 1959 and written on the letterhead of the weekly review “Commerce,” records S. V. Rayan’s transmission of an enclosed press cutting. Rayan identifies the enclosure as another article on the Swatantra Party, written to reply to statements made by the Prime Minister.
+
+The document is therefore primarily a brief covering letter rather than the article itself. It establishes a connection between the publication’s editor, the contemporary Swatantra Party debate, and a response to the Prime Minister, but provides no details of the arguments in the enclosed article. The letter is addressed to Sir H. P. Mody in Bombay and is signed by Rayan as editor of “Commerce.”
+
 ## Key points
 
 - The letter is dated 16 August 1959 and was sent from Bombay.

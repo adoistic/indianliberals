@@ -47,6 +47,12 @@ summary: |-
   In the second half of the letter Masani offers logistical help — he is willing to try and arrange a meeting with Jayaprakash when he next comes to Bombay, and even to accompany a delegation and introduce them personally if time permits. He then firmly declines the invitation to attend the meeting of the National Executive Committee, noting that since his retirement from the Presidentship of the Party in 1971 he has consistently refused such invitations from H. M. Patel and Piloo Mody, and that his reasons for staying away remain unchanged. A carbon copy is directed to Girish Munshi, General Secretary of the Swatantra Party at Bombay.
 ---
 
+## Summary
+
+Dated 14 January 1975 and addressed to V. S. Srikumar, Joint Secretary of the Swatantra Party's National Headquarters in Madras, this short typed letter is Minoo Masani's reply to Srikumar's letter of 9 January. Masani reports that during a recent visit to Benaras he had already briefed Jayaprakash Narayan about the reformist step taken by the Madras wing of the Party and the resolutions it had passed; he adds that he had suggested to Jayaprakash that, when a formal approach came from the Party's President, Sundaram should be nominated to the Co-ordination Committee on which other party leaders serve, and that Jayaprakash had indicated he would do so.
+
+In the second half of the letter Masani offers logistical help — he is willing to try and arrange a meeting with Jayaprakash when he next comes to Bombay, and even to accompany a delegation and introduce them personally if time permits. He then firmly declines the invitation to attend the meeting of the National Executive Committee, noting that since his retirement from the Presidentship of the Party in 1971 he has consistently refused such invitations from H. M. Patel and Piloo Mody, and that his reasons for staying away remain unchanged. A carbon copy is directed to Girish Munshi, General Secretary of the Swatantra Party at Bombay.
+
 ## Key points
 
 - Masani is replying to a letter of 9 January 1975 from V. S. Srikumar, Joint Secretary of the Swatantra Party at its Madras headquarters.

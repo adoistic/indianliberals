@@ -45,6 +45,12 @@ summary: |-
   The letter records a formal institutional invitation and closes with Mohanty’s handwritten signature. A received stamp indicates that it was received on 16 January 1970.
 ---
 
+## Summary
+
+This one-page English letter, dated 10 January 1970, is written by G. P. Mohanty, Principal of Kalahandi College, Bhawanipatna. Writing on behalf of the College Union, Mohanty invites M. R. Masani to attend the college’s annual cultural function on 30 January 1970 as chief guest.
+
+The letter records a formal institutional invitation and closes with Mohanty’s handwritten signature. A received stamp indicates that it was received on 16 January 1970.
+
 ## Key points
 
 - The letter is dated 10 January 1970.

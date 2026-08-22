@@ -50,6 +50,12 @@ summary: |-
   The accompanying balance sheet, dated 28 February 1978, shows a capital fund of Rs. 482.19, represented by cash on hand, cash with the Union Bank of India, and the income-and-expenditure account balance. No human author or signatory is visible on the rendered page; the document is issued under the name of Swatantra Party, Maharashtra.
 ---
 
+## Summary
+
+This one-page institutional financial statement records the Swatantra Party, Maharashtra's income and expenditure for the period September 1976 to 28 February 1978. It lists expenditure on salaries, rent and electricity, postage and telegrams, conveyance, and office expenses, alongside income from donations, rent receipts, and miscellaneous receipts. The statement reports total income and expenditure of Rs. 12,534.17 and an excess of expenditure over income of Rs. 306.58 transferred to the balance sheet.
+
+The accompanying balance sheet, dated 28 February 1978, shows a capital fund of Rs. 482.19, represented by cash on hand, cash with the Union Bank of India, and the income-and-expenditure account balance. No human author or signatory is visible on the rendered page; the document is issued under the name of Swatantra Party, Maharashtra.
+
 ## Key points
 
 - The document covers the Swatantra Party, Maharashtra's accounts from September 1976 through 28 February 1978.

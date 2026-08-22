@@ -45,6 +45,10 @@ summary: |-
   This single-page letter, dated 29 May 1964 and signed by Parmanand Kejriwal, concerns vehicles assigned to the Central Swatantra Party. Kejriwal tells Jagannath Babu that the Central Bank of India has taken possession of the party's jeeps and asks him to help the Bank recover vehicles reportedly being withheld or redirected by Raja Rangarh.
 ---
 
+## Summary
+
+This single-page letter, dated 29 May 1964 and signed by Parmanand Kejriwal, concerns vehicles assigned to the Central Swatantra Party. Kejriwal tells Jagannath Babu that the Central Bank of India has taken possession of the party's jeeps and asks him to help the Bank recover vehicles reportedly being withheld or redirected by Raja Rangarh.
+
 ## Key points
 
 - The letter is addressed to Jagannath Babu and dated 29 May 1964.

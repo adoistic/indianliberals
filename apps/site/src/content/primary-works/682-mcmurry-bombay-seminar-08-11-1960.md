@@ -54,6 +54,12 @@ summary: |-
   The planned activities include introducing contemporary instructional methods, discussing the selection, appraisal, and development of executives, addressing a supervisory-staff problem attributed to “E. G. Mithapur,” introducing three lecturers, and distributing the programme. It also records practical arrangements for coffee, lunch, and tea breaks, and invites suggestions and comments from participants. Handwritten annotations and signatures are visible, but do not establish a reliable author.
 ---
 
+## Summary
+
+This single-page seminar note outlines the McMurry Bombay Seminar held at the Taj on 8 November 1960. It presents the event as a response to Indian management's interest in learning techniques from industrially advanced countries, and describes the programme as an initiative associated with PPS and free enterprise in both the United States and India. The note emphasizes that the seminar was organized in India without assistance from Government, T.C.M., Colombo Aid, I.L.O., or a foundation.
+
+The planned activities include introducing contemporary instructional methods, discussing the selection, appraisal, and development of executives, addressing a supervisory-staff problem attributed to “E. G. Mithapur,” introducing three lecturers, and distributing the programme. It also records practical arrangements for coffee, lunch, and tea breaks, and invites suggestions and comments from participants. Handwritten annotations and signatures are visible, but do not establish a reliable author.
+
 ## Key points
 
 - The seminar was scheduled for 8 November 1960 at the Taj in Bombay.

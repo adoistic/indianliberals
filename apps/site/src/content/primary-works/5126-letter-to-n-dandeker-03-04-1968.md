@@ -49,6 +49,12 @@ summary: |-
   The letter frames the proposed meeting as a means of restoring unity within the party. It calls for an appropriate decision that would enable the Swatantra Party to close its ranks and work together again under the leadership of its respected leaders. The sender's handwritten name and signature are not sufficiently legible for reliable identification; the page does, however, identify the sender as an advocate.
 ---
 
+## Summary
+
+This single-page English letter, dated 3 April 1968, is addressed to N. Dandekar, the Swatantra Party's General Secretary, at the party's Bombay central office. The sender requests an emergency meeting of the party's General Council to discuss M. R. Masani's resignation from the National Executive and the Central Parliamentary Board.
+
+The letter frames the proposed meeting as a means of restoring unity within the party. It calls for an appropriate decision that would enable the Swatantra Party to close its ranks and work together again under the leadership of its respected leaders. The sender's handwritten name and signature are not sufficiently legible for reliable identification; the page does, however, identify the sender as an advocate.
+
 ## Key points
 
 - The letter is dated 3 April 1968 and was sent from an unidentified advocate to N. Dandekar, M.P.

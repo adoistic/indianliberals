@@ -52,6 +52,12 @@ summary: |-
   The second page records advertising revenue generated through the Swatantra Souvenir of 1961. It lists advertisers, the amount of space booked, and corresponding tariffs, including full-page, half-page, quarter-page, and multi-page advertisements. The page gives a stated total advertising revenue of Rs. 2,99,800. The document is an administrative financial record rather than an account of the party's policies or electoral programme.
 ---
 
+## Summary
+
+This two-page English office record documents financial support connected with the Swatantra Party's campaign for the 1962 General Elections. The first page lists contributions received between June 1961 and March 1962 from companies and other commercial entities, with individual amounts ranging from Rs. 1,000 to Rs. 8,00,000 and a stated total of Rs. 23,58,000.
+
+The second page records advertising revenue generated through the Swatantra Souvenir of 1961. It lists advertisers, the amount of space booked, and corresponding tariffs, including full-page, half-page, quarter-page, and multi-page advertisements. The page gives a stated total advertising revenue of Rs. 2,99,800. The document is an administrative financial record rather than an account of the party's policies or electoral programme.
+
 ## Key points
 
 - The record concerns the Swatantra Party's preparations for the General Elections of 1962.

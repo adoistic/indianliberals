@@ -53,6 +53,12 @@ summary: |-
   Masani identifies The Growing Human Family, published in 1951, as his favourite book, describing it as an elementary sociology for young people. He also discusses Reconsidered, in which he says he renounced Marxism and turned toward Gandhiji’s socio-economic thought, and his History of the Communist Party of India, written as a research project for the Institute of Pacific Relations. The interview then turns to his seventeen years at Bombay House, his work with Tata companies and J. R. D. Tata, his support for labour and the right to strike, and the origins of his consultancy firm. He presents management consultancy as a field that grew from infancy into what he calls a “managerial Revolution” in India.
 ---
 
+## Summary
+
+In this four-page question-and-answer interview, M. R. Masani describes a planned “intellectual autobiography” organized around three phases of his life: politician, writer, and management professional. He traces the political period from Civil Disobedience and imprisonment in 1933 onward, the writing period from Our India in 1940 onward, and his corporate career from joining Tata in 1941. He says that, at the time of the interview, he is on a second “vacation” from politics and working in management consultancy and writing.
+
+Masani identifies The Growing Human Family, published in 1951, as his favourite book, describing it as an elementary sociology for young people. He also discusses Reconsidered, in which he says he renounced Marxism and turned toward Gandhiji’s socio-economic thought, and his History of the Communist Party of India, written as a research project for the Institute of Pacific Relations. The interview then turns to his seventeen years at Bombay House, his work with Tata companies and J. R. D. Tata, his support for labour and the right to strike, and the origins of his consultancy firm. He presents management consultancy as a field that grew from infancy into what he calls a “managerial Revolution” in India.
+
 ## Key points
 
 - Masani frames his projected autobiography around his lives as politician, writer, and management professional.

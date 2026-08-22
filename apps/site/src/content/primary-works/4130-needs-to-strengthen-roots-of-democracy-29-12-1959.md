@@ -54,6 +54,12 @@ summary: |-
   The report links this political programme to economic and technological choices. Narayan advocates village councils with authority over local and wider economic, industrial, and social affairs, while warning that economic and industrial development without decentralisation would be meaningless. He cites the democratic experiments in Rajasthan and Andhra as potentially valuable but cautions that poorly designed decentralisation could produce harmful consequences. The article also records his criticism of parliamentary democracy's failures in several Asian countries, his rejection of both military dictatorship and Communist rule, and his call for a form of democracy grounded in basic freedoms, association, and the rule of law. The clipping ends with his argument that technological progress should serve human freedom and that democracy in India must be built from the bottom up.
 ---
 
+## Summary
+
+This newspaper report, dated December 29, 1959, describes a 75-minute address by Jayaprakash Narayan on the Sarvodaya ideal of Gram Raj. Narayan argues that democracy must be reconstructed from the village upward through self-governing institutions, rather than relying exclusively on parliamentary institutions. He presents decentralisation as necessary both for preserving genuine democracy and for enabling the maximum participation of citizens in national affairs.
+
+The report links this political programme to economic and technological choices. Narayan advocates village councils with authority over local and wider economic, industrial, and social affairs, while warning that economic and industrial development without decentralisation would be meaningless. He cites the democratic experiments in Rajasthan and Andhra as potentially valuable but cautions that poorly designed decentralisation could produce harmful consequences. The article also records his criticism of parliamentary democracy's failures in several Asian countries, his rejection of both military dictatorship and Communist rule, and his call for a form of democracy grounded in basic freedoms, association, and the rule of law. The clipping ends with his argument that technological progress should serve human freedom and that democracy in India must be built from the bottom up.
+
 ## Key points
 
 - Jayaprakash Narayan calls for self-governing institutions at every level, beginning with the village.

@@ -56,3 +56,7 @@ ai:
 summary: |-
   The December 1960 issue of Swatantra Newsletter, No. 13, records C. Rajagopalachari’s tour of Gujarat, Maharashtra, and Belgaum, presenting his speeches as a sustained defence of individual freedom, private initiative, and limited government. The reports attack Congress land-ceiling legislation, cooperative farming, excessive regulation, one-party rule, and what Rajaji describes as the corruption and administrative overreach of the ruling party. The issue also celebrates Rajaji’s 83rd birthday and reproduces tributes from figures including K. M. Munshi, Acharya Kripalani, Shri Sri Prakasa, and Homi Mody.
 ---
+
+## Summary
+
+The December 1960 issue of Swatantra Newsletter, No. 13, records C. Rajagopalachari’s tour of Gujarat, Maharashtra, and Belgaum, presenting his speeches as a sustained defence of individual freedom, private initiative, and limited government. The reports attack Congress land-ceiling legislation, cooperative farming, excessive regulation, one-party rule, and what Rajaji describes as the corruption and administrative overreach of the ruling party. The issue also celebrates Rajaji’s 83rd birthday and reproduces tributes from figures including K. M. Munshi, Acharya Kripalani, Shri Sri Prakasa, and Homi Mody.

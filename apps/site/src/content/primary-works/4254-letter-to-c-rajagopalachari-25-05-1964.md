@@ -48,6 +48,12 @@ summary: |-
   Rajagopalachari asks Birla to consider writing to The New York Times himself on the subject under discussion, arguing that such a letter would lend additional weight to Birla’s appreciation of Rajagopalachari’s efforts. The brief exchange closes with Rajagopalachari asking when Birla will return to India. The document is marked “(true copy)” and bears the archival reference number 4254.
 ---
 
+## Summary
+
+This one-page true copy records C. Rajagopalachari’s letter of 25 May 1964 from his Madras address to Shri G. D. Birla in New York. Rajagopalachari thanks Birla for a letter dated 22 May, written from London, and says that reading it heartened him.
+
+Rajagopalachari asks Birla to consider writing to The New York Times himself on the subject under discussion, arguing that such a letter would lend additional weight to Birla’s appreciation of Rajagopalachari’s efforts. The brief exchange closes with Rajagopalachari asking when Birla will return to India. The document is marked “(true copy)” and bears the archival reference number 4254.
+
 ## Key points
 
 - The letter is dated 25 May 1964 and was sent from C. Rajagopalachari’s address in Madras.

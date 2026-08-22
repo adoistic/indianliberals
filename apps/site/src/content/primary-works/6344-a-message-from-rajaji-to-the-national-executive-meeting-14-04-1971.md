@@ -53,6 +53,12 @@ summary: |-
   Rajagopalachari rejects electoral opportunism and “me-too-ism” as a means of acquiring power, insisting that a party committed to truth and educating the electorate cannot imitate other parties. He acknowledges that the Swatantra Party may have to persist without immediate success, or even wind up, but presents its mission as preventing the nation from learning about totalitarian rule through catastrophe and suffering.
 ---
 
+## Summary
+
+In this message dated 14 April 1971, C. Rajagopalachari responds to Minoo Masani’s account of the failed effort to create a consolidated democratic opposition to the ruling power in New Delhi. He argues that failure is not itself a disgrace and that the Swatantra Party’s duty remains to oppose totalitarian tendencies, defend the Constitution, and educate voters about the economic laws governing production and the dangers of voting for those in power regardless of merit.
+
+Rajagopalachari rejects electoral opportunism and “me-too-ism” as a means of acquiring power, insisting that a party committed to truth and educating the electorate cannot imitate other parties. He acknowledges that the Swatantra Party may have to persist without immediate success, or even wind up, but presents its mission as preventing the nation from learning about totalitarian rule through catastrophe and suffering.
+
 ## Key points
 
 - Rajagopalachari responds to Minoo Masani’s account of the unsuccessful attempt to consolidate democratic opposition in New Delhi.

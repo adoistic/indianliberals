@@ -47,6 +47,10 @@ summary: |-
   In this one-page office letter headed “Re : S. P. Crisis,” Minoo Masani instructs Mr. Narayan, in consultation with Mr. Raju, on a coordinated public-relations and correspondence plan. The plan includes sending an article to Hindustan Times, arranging coverage and correspondence concerning Mr. Bhattacharya and Mr. Mulgokar, delivering a letter to Mr. Dandekar, circulating copies to named individuals, and distributing press material to newspapers and journals in Bombay and elsewhere.
 ---
 
+## Summary
+
+In this one-page office letter headed “Re : S. P. Crisis,” Minoo Masani instructs Mr. Narayan, in consultation with Mr. Raju, on a coordinated public-relations and correspondence plan. The plan includes sending an article to Hindustan Times, arranging coverage and correspondence concerning Mr. Bhattacharya and Mr. Mulgokar, delivering a letter to Mr. Dandekar, circulating copies to named individuals, and distributing press material to newspapers and journals in Bombay and elsewhere.
+
 ## Key points
 
 - Masani addresses a recipient identified only as “Mr. Narayan.”

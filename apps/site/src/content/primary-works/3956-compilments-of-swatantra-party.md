@@ -56,6 +56,12 @@ summary: |-
   Cooper supports his case with comparisons of retail margins and prices for petrol, high-speed diesel, kerosene, and rationed foodgrains in Bombay and other cities. He contends that dealers’ commissions have fallen or remained fixed while prices, interest rates, establishment expenses, licensing obligations, and transport costs have risen sharply. The closing argument invites the public to judge whether the A.I.C.C.’s decision is fair to business and whether state trading in foodgrains will actually benefit India’s masses. The document is issued by the Swatantra Party Central Office in Bombay; no publication year is printed.
 ---
 
+## Summary
+
+This four-page Swatantra Party note by Dr. R. C. Cooper challenges economic provisions in the All India Congress Committee’s Ten Point Programme, particularly state trading in foodgrains and the progressive nationalisation of import and export trade. Cooper argues that these measures do not address the country’s urgent economic problems and may instead make the business community a scapegoat for failures of government policy. The note focuses especially on the proposed takeover of retail trade and asks the press to present the relevant evidence to the public.
+
+Cooper supports his case with comparisons of retail margins and prices for petrol, high-speed diesel, kerosene, and rationed foodgrains in Bombay and other cities. He contends that dealers’ commissions have fallen or remained fixed while prices, interest rates, establishment expenses, licensing obligations, and transport costs have risen sharply. The closing argument invites the public to judge whether the A.I.C.C.’s decision is fair to business and whether state trading in foodgrains will actually benefit India’s masses. The document is issued by the Swatantra Party Central Office in Bombay; no publication year is printed.
+
 ## Key points
 
 - The note criticises state trading in foodgrains and progressive nationalisation of import and export trade.

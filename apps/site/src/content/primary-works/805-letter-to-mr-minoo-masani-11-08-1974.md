@@ -51,6 +51,12 @@ summary: |-
   Pandey offers his services to a Jayaprakash Narayan-sponsored “Citizen's Council” in his area and asks whether young men from politically backward, highly populated, and impoverished eastern Uttar Pradesh could be trained in “Swatantra Economy,” noting that Masani had trained more than five thousand young men in recent months. He also praises Ram Krishnah of Matunga and S. V. Raju for speaking candidly, while contrasting his own restraint with Jawaharlal Nehru's maxim about saying the right thing at the wrong time. The page is heavily annotated by hand, but the annotations do not substantially alter the typed letter's content.
 ---
 
+## Summary
+
+This one-page letter, dated 11 August 1974 and written from Allahabadpur, Gorakhpur, by advocate B. D. Pandey to Minoo Masani, combines political apology with an offer of practical assistance. Pandey explains that although he generally supported Masani, he could not vote for him because his single vote was immaterial amid what he describes as crowd behaviour. He apologises on behalf of W. P. Walia, invoking the principle that an exception does not prove the rule.
+
+Pandey offers his services to a Jayaprakash Narayan-sponsored “Citizen's Council” in his area and asks whether young men from politically backward, highly populated, and impoverished eastern Uttar Pradesh could be trained in “Swatantra Economy,” noting that Masani had trained more than five thousand young men in recent months. He also praises Ram Krishnah of Matunga and S. V. Raju for speaking candidly, while contrasting his own restraint with Jawaharlal Nehru's maxim about saying the right thing at the wrong time. The page is heavily annotated by hand, but the annotations do not substantially alter the typed letter's content.
+
 ## Key points
 
 - B. D. Pandey writes to Minoo Masani from Allahabadpur, Gorakhpur, on 11 August 1974.

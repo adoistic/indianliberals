@@ -48,6 +48,10 @@ summary: |-
   This two-page correspondence, dated 12 November 1970, was written by M. R. Masani from the Swatantra Party president's office to K. K. Shah, then a Union minister. Masani clarifies Mrs. Albuquerque's role in the Swatantra Party, emphasizing her parliamentary liaison work, her service as N. Dandeker's parliamentary secretary, and her work during the presidential elections involving the party's candidate, C. D. Deshmukh.
 ---
 
+## Summary
+
+This two-page correspondence, dated 12 November 1970, was written by M. R. Masani from the Swatantra Party president's office to K. K. Shah, then a Union minister. Masani clarifies Mrs. Albuquerque's role in the Swatantra Party, emphasizing her parliamentary liaison work, her service as N. Dandeker's parliamentary secretary, and her work during the presidential elections involving the party's candidate, C. D. Deshmukh.
+
 ## Key points
 
 - Masani writes on Swatantra Party letterhead from New Delhi on 12 November 1970.

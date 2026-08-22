@@ -46,6 +46,12 @@ summary: |-
   The page contains no further substantive discussion, policy argument, or reference to other thinkers. It closes with Masani's signature and the complimentary phrase "Yours faithfully."
 ---
 
+## Summary
+
+This single-page English letter, dated 17 March 1971, is addressed by M. R. Masani to the Merchants Association, Gondal. Masani thanks the association for its telegram of 13 March and acknowledges its kind sentiment.
+
+The page contains no further substantive discussion, policy argument, or reference to other thinkers. It closes with Masani's signature and the complimentary phrase "Yours faithfully."
+
 ## Key points
 
 - The document is a single addressed letter dated 17 March 1971.

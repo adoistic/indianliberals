@@ -53,6 +53,12 @@ summary: |-
   The attachment, dated 16 November 1969, states that the United Independent Parliamentary Group comprises 25 Lok Sabha members. It announces that, amid a political crisis and in the absence of a viable democratic alternative to the government, the group would support the government in the interests of national stability. It places parliamentary stability, democratic freedoms, and social progress above other issues, while reserving the group’s right to judge major questions on their merits. The two pages contain inconsistent dates: the handwritten letter is dated 1968, while the attached press release is dated 1969.
 ---
 
+## Summary
+
+This two-page English archival file consists of a handwritten letter from a sender whose signature appears to read “Ram Singh” to Minoo Masani, dated 18 November 1968, followed by an attached press release. The letter says that it encloses a copy of a resolution passed by members of the United Independent Parliamentary Group and asks Masani to consider it carefully. The document’s title is not printed, and the sender’s identity remains uncertain from the handwriting.
+
+The attachment, dated 16 November 1969, states that the United Independent Parliamentary Group comprises 25 Lok Sabha members. It announces that, amid a political crisis and in the absence of a viable democratic alternative to the government, the group would support the government in the interests of national stability. It places parliamentary stability, democratic freedoms, and social progress above other issues, while reserving the group’s right to judge major questions on their merits. The two pages contain inconsistent dates: the handwritten letter is dated 1968, while the attached press release is dated 1969.
+
 ## Key points
 
 - The file is a handwritten letter addressed to Minoo Masani with an attached parliamentary press release.

@@ -49,6 +49,12 @@ summary: |-
   As an administrative artefact rather than an argumentative text, the receipt has no polemical content. Its documentary value lies in what it records: Minoo Masani — the party's founding general secretary and long its most visible parliamentary voice — was still paying monthly party subscriptions to the Maharashtra unit in early 1976, a year and a half after the Swatantra Party's formal dissolution in 1974 and during the height of the Emergency declared in June 1975. The slip bears the Hon. Treasurer's signature and preserves the letterhead, telephone number, and address of the shrinking Bombay office.
 ---
 
+## Summary
+
+This single-page document is an official Swatantra Party receipt (No. 132) issued by the party's Maharashtra Region office at Sassoon Building, 143 Mahatma Gandhi Road, Bombay-1, on 8 January 1976. It acknowledges a donation of Rs. 25/- from Mr. M. R. Masani towards the party's dues for the month of January 1976.
+
+As an administrative artefact rather than an argumentative text, the receipt has no polemical content. Its documentary value lies in what it records: Minoo Masani — the party's founding general secretary and long its most visible parliamentary voice — was still paying monthly party subscriptions to the Maharashtra unit in early 1976, a year and a half after the Swatantra Party's formal dissolution in 1974 and during the height of the Emergency declared in June 1975. The slip bears the Hon. Treasurer's signature and preserves the letterhead, telephone number, and address of the shrinking Bombay office.
+
 ## Key points
 
 - Printed receipt of the Swatantra Party, Maharashtra Region, on the party's letterhead.

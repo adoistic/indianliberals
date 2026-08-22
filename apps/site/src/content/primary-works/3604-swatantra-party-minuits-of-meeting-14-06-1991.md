@@ -56,6 +56,12 @@ summary: |-
   The principal substantive discussion concerned the party premises at 143 Mahatma Gandhi Road and electricity consumption. The committee resolved to continue two Small Causes Court suits involving Ratansinh Rajda and the Afternoon, as well as a City Civil Court suit concerning the Afternoon’s electricity use. It agreed to honour an interim court verdict allocating electricity charges between the Afternoon and the Swatantra Party, Maharashtra, on a 60/40 basis, and to permit the Afternoon to install a sub-meter. The existing electricity-sharing and monthly-donation arrangement with the Adult Education Institute was also to continue, subject to adjustments after the Afternoon paid its outstanding dues. The second page contains handwritten corrections and a dated approval notation.
 ---
 
+## Summary
+
+These two pages record the draft minutes of the Swatantra Party’s Maharashtra Executive Committee meeting held on 14 June 1991 at the party office in Bombay. J. Venkiteswaran chaired the meeting; L. R. Sampat, K. H. Subramaniam, and S. V. Raju were present, while P. N. Subramanian was granted leave of absence. The committee confirmed the previous meeting’s minutes and passed the income-and-expenditure statement and balance sheet for the year ending 31 March 1991.
+
+The principal substantive discussion concerned the party premises at 143 Mahatma Gandhi Road and electricity consumption. The committee resolved to continue two Small Causes Court suits involving Ratansinh Rajda and the Afternoon, as well as a City Civil Court suit concerning the Afternoon’s electricity use. It agreed to honour an interim court verdict allocating electricity charges between the Afternoon and the Swatantra Party, Maharashtra, on a 60/40 basis, and to permit the Afternoon to install a sub-meter. The existing electricity-sharing and monthly-donation arrangement with the Adult Education Institute was also to continue, subject to adjustments after the Afternoon paid its outstanding dues. The second page contains handwritten corrections and a dated approval notation.
+
 ## Key points
 
 - The Maharashtra Executive Committee met on 14 June 1991 at the Swatantra Party office in Bombay.

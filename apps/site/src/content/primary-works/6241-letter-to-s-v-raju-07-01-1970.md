@@ -53,6 +53,12 @@ summary: |-
   Masani encloses a revised version of his recent press-conference text and suggests publishing it as a pamphlet on the Swatantra Party's presidential statement and the country's needs in 1970. He argues that party workers need intellectual guidance, proposes a circular explaining the fundamental right to property and opposition to the Constitution (17th) Amendment, and asks Raju to arrange research on socialism and on the economic programmes of Congress and other parties. The letter also includes practical instructions about Masani's London address and requests press clippings and correspondence.
 ---
 
+## Summary
+
+In this two-page letter dated January 7, 1970, M. R. Masani writes to S. V. Raju about scheduling Swatantra Party meetings around the forthcoming Parliament session. He outlines three possible dates, asks Raju to coordinate with Dr. Cooper and Mr. Dandekar, and requests that the final decision be communicated to party members, including those in London.
+
+Masani encloses a revised version of his recent press-conference text and suggests publishing it as a pamphlet on the Swatantra Party's presidential statement and the country's needs in 1970. He argues that party workers need intellectual guidance, proposes a circular explaining the fundamental right to property and opposition to the Constitution (17th) Amendment, and asks Raju to arrange research on socialism and on the economic programmes of Congress and other parties. The letter also includes practical instructions about Masani's London address and requests press clippings and correspondence.
+
 ## Key points
 
 - Masani proposes three alternative dates for Swatantra Party and National Executive meetings in February 1970.

@@ -50,6 +50,12 @@ summary: |-
   Masani proposes using the next few months to improve the political climate and communication with Gujarat members, while acknowledging that attempts to reopen dialogue with the Centre may fail. He comments favourably on press reaction in the Hindustan Times and Statesman, criticises the Indian Express’s stance, and mentions cartoons in the Times of India and Hindustan Times. The letter closes with a personal account of his mother’s death after a prolonged illness and notice of a short trip to Bombay for party work. The document is a two-page typescript letter with a handwritten signature.
 ---
 
+## Summary
+
+In this letter dated 14 April 1970, Minoo Masani writes to C. Rajagopalachari (“Rajaji”) from New Delhi about the political crisis surrounding the Gujarat Party and the Swatantra Party. He says that fears of a national split or mass resignations have been exaggerated, and that the party’s recent action should help bring dissenting Gujarat members back into the organisation. He also describes a planned effort to use the National Executive’s decision on censure motions to negotiate with the Indicative over the party’s leadership, while noting reports of talks among Gujarat legislators in the State Assembly.
+
+Masani proposes using the next few months to improve the political climate and communication with Gujarat members, while acknowledging that attempts to reopen dialogue with the Centre may fail. He comments favourably on press reaction in the Hindustan Times and Statesman, criticises the Indian Express’s stance, and mentions cartoons in the Times of India and Hindustan Times. The letter closes with a personal account of his mother’s death after a prolonged illness and notice of a short trip to Bombay for party work. The document is a two-page typescript letter with a handwritten signature.
+
 ## Key points
 
 - Masani reassures Rajagopalachari that the Gujarat crisis has been contained and rejects talk of a wider party split or mass resignations.

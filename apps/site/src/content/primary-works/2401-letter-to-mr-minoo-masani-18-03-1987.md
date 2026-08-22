@@ -47,6 +47,12 @@ summary: |-
   The letter offers no substantive account of the vehicle dispute or of the action eventually taken. It records only that the Collector’s Office had received Masani’s correspondence and that Sinha would respond after looking into the matter. The page is printed on Government of Maharashtra letterhead and includes handwritten annotations and a signature.
 ---
 
+## Summary
+
+This one-page administrative letter, dated 18 March 1987, is written by A. P. Sinha, Collector of Bombay and Bombay Suburban District, to M. R. Masani. Its subject is “Vehicle No. MRG 2347.” Sinha acknowledges Masani’s letters of 10 and 17 March 1987 and states that the matter is being investigated.
+
+The letter offers no substantive account of the vehicle dispute or of the action eventually taken. It records only that the Collector’s Office had received Masani’s correspondence and that Sinha would respond after looking into the matter. The page is printed on Government of Maharashtra letterhead and includes handwritten annotations and a signature.
+
 ## Key points
 
 - The letter is dated 18 March 1987 and issued from the Collector's Office in Bombay.

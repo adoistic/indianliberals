@@ -47,6 +47,12 @@ summary: |-
   The visible page is an illustrated opening or cover page. No author, publisher, issuer, place, or printed publication year is shown; a circled “1968” appears to be handwritten or stamped and is not treated as publication metadata.
 ---
 
+## Summary
+
+This one-page English educational pamphlet introduces the rupee through four illustrated functions. It presents the rupee as a link between past, present, and future; a means of storing purchasing power; a measure of economic activity; and a medium that supports the exchange economy by enabling the division of labour, specialisation, mass production, and improved standards of living. The page also compares a stable rupee to a reliable yardstick used to measure cloth, stressing that its value should remain uniform and avoid wide fluctuations.
+
+The visible page is an illustrated opening or cover page. No author, publisher, issuer, place, or printed publication year is shown; a circled “1968” appears to be handwritten or stamped and is not treated as publication metadata.
+
 ## Key points
 
 - The rupee is described as a link between yesterday, today, and tomorrow.

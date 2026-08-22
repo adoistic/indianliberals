@@ -46,6 +46,10 @@ summary: |-
   In this typed letter dated February 7, 1985, M. R. Masani asks the Regional Transport Officer's Recovery Branch in Bombay to cancel a motor-vehicle tax bill for Jeep No. MRG. 2347. He states that the bill, numbered 840201 and dated December 1, 1984, covers the period from April 1984 to January 1985, despite earlier correspondence concerning the vehicle.
 ---
 
+## Summary
+
+In this typed letter dated February 7, 1985, M. R. Masani asks the Regional Transport Officer's Recovery Branch in Bombay to cancel a motor-vehicle tax bill for Jeep No. MRG. 2347. He states that the bill, numbered 840201 and dated December 1, 1984, covers the period from April 1984 to January 1985, despite earlier correspondence concerning the vehicle.
+
 ## Key points
 
 - Masani disputes a motor-vehicle tax bill issued for Jeep No. MRG. 2347.

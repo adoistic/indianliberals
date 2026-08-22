@@ -50,6 +50,12 @@ summary: |-
   The document is an official Indian Posts and Telegraphs Department telegram form. The image does not identify the decision being praised, provide a delivery date, or give a title or publication context; the message is limited to its congratulatory appeal.
 ---
 
+## Summary
+
+This single-page English telegram, sent by S. V. Raju from Madras to M. R. Masani in Bombay, conveys congratulations to friends in Maharashtra on a significant “bold decision.” Raju expresses hope that most other Indian states will follow Maharashtra’s lead, presenting the message as a brief political communication centred on state-level initiative and wider emulation.
+
+The document is an official Indian Posts and Telegraphs Department telegram form. The image does not identify the decision being praised, provide a delivery date, or give a title or publication context; the message is limited to its congratulatory appeal.
+
 ## Key points
 
 - S. V. Raju is identified as the sender.

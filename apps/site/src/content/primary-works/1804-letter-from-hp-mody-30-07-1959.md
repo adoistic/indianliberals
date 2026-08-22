@@ -50,6 +50,12 @@ summary: |-
   The typed reply, issued from the office of Sir Homi Mody, explains that the session was restricted to delegates appointed by regional organisations. Since Homi Mody was not on the Organizing Committee, the office says he could not intervene directly, though Master is given the telephone number of a secretary whom he may contact. The final page is a Swatantra Party notice inviting members of the Organising Committee to a meeting on 28 August at 5 p.m. at the party office in Bombay, to discuss preparations for the convention and receive instructions.
 ---
 
+## Summary
+
+This three-page correspondence file, dated 30 July 1959, concerns access to a Swatantra Party session at Bharatiya Vidya Bhavan. Ruttonchund Master’s handwritten letter asks for an admission card so that he can attend the session, apparently after paying or offering Rs. 5.50; he explains that he has not received a card despite seeking one through the party’s organising secretary. He also refers to the limited number of available cards and requests assistance because the session is imminent.
+
+The typed reply, issued from the office of Sir Homi Mody, explains that the session was restricted to delegates appointed by regional organisations. Since Homi Mody was not on the Organizing Committee, the office says he could not intervene directly, though Master is given the telephone number of a secretary whom he may contact. The final page is a Swatantra Party notice inviting members of the Organising Committee to a meeting on 28 August at 5 p.m. at the party office in Bombay, to discuss preparations for the convention and receive instructions.
+
 ## Key points
 
 - The file is dated 30 July 1959 and is addressed to Ruttonchund Master in Bombay.

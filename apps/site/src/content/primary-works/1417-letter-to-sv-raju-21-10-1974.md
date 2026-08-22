@@ -50,6 +50,12 @@ summary: |-
   The letter also reports correspondence with V. T. Srinivasan and Mr. Srinivasamurthy concerning the integrity and organisation of the Karnataka party unit. Srinivasan says he is trying to get them to file a suit and to reactivate the unit. Finally, he refers to a report in The Hindu that Girish Munshi had stated that the Maharashtra Swatantra Party would continue to work independently, and asks Raju to send him a copy of Munshi’s statement.
 ---
 
+## Summary
+
+This two-page document is a letter dated 21 October 1974 from V. S. Srinivasan, Secretary of the Madras District Swatantra Party, to S. V. Raju in Bombay. Srinivasan asks Raju to collect details about National Council members and executive committee members who remain aligned with the Swatantra Party. He says the information is needed to fill national-level vacancies and to begin preparations for a National Convention.
+
+The letter also reports correspondence with V. T. Srinivasan and Mr. Srinivasamurthy concerning the integrity and organisation of the Karnataka party unit. Srinivasan says he is trying to get them to file a suit and to reactivate the unit. Finally, he refers to a report in The Hindu that Girish Munshi had stated that the Maharashtra Swatantra Party would continue to work independently, and asks Raju to send him a copy of Munshi’s statement.
+
 ## Key points
 
 - The letter is dated 21 October 1974 and is sent from the Madras District Swatantra Party office to S. V. Raju in Bombay.

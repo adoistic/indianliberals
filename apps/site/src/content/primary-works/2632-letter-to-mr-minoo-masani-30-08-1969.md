@@ -48,6 +48,12 @@ summary: |-
   Singh Deo explains that Dr. Mahtab had filed a writ in the Orissa High Court and that the matter was still sub judice. On that basis, he concludes that, in the circumstances then prevailing, publication of the Mudholkar Report would not be expedient. The letter offers a brief example of executive caution in relation to pending judicial proceedings and access to official reports.
 ---
 
+## Summary
+
+This single-page personal letter, written in English from Bhubaneswar on 30 August 1969 by R. N. Singh Deo, Chief Minister of Orissa State, responds to Minoo Masani's letter of 21 January, which the sender says arrived by air freight on 25 August 1969. Singh Deo addresses the status of two investigative reports concerning Orissa: the Khanna Commission Report had already been published, while the Mudholkar Report remained unpublished.
+
+Singh Deo explains that Dr. Mahtab had filed a writ in the Orissa High Court and that the matter was still sub judice. On that basis, he concludes that, in the circumstances then prevailing, publication of the Mudholkar Report would not be expedient. The letter offers a brief example of executive caution in relation to pending judicial proceedings and access to official reports.
+
 ## Key points
 
 - The letter is dated 30 August 1969 and was sent from Bhubaneswar on Orissa State Chief Minister letterhead.

@@ -47,6 +47,12 @@ summary: |-
   The letter is practical and collegial in tone. Masani acknowledges that the account may require minor refinement, expresses confidence in Narayan’s judgment, and closes by remarking that it was good to see him in good health again. The page also identifies the enclosure as an “Enclosed Revised story” and records copies sent to Narayan at the Gandhi Peace Foundation in New Delhi.
 ---
 
+## Summary
+
+Dated 13 February 1975, this one-page letter from Minoo Masani to Jayaprakash Narayan accompanies a revised account of Narayan’s discussions with the Prime Minister in New Delhi on 6 November. Masani asks Narayan to review the enclosed sheet and return it with pencil alterations so that the report accurately reflects what was discussed.
+
+The letter is practical and collegial in tone. Masani acknowledges that the account may require minor refinement, expresses confidence in Narayan’s judgment, and closes by remarking that it was good to see him in good health again. The page also identifies the enclosure as an “Enclosed Revised story” and records copies sent to Narayan at the Gandhi Peace Foundation in New Delhi.
+
 ## Key points
 
 - Masani wrote to Jayaprakash Narayan on 13 February 1975.

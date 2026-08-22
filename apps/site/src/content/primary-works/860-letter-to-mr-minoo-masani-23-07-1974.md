@@ -49,6 +49,12 @@ summary: |-
   Dandeker instead maintains that the party’s principles and programme retain potential validity and relevance at the national level, even if the existing organisation does not. He supports Piloo Mody’s effort to join with other parties in presenting a coherent national alternative to the ruling Congress. The letter welcomes Congress’s unwillingness to participate in such an alliance but criticises the Jan Sangh’s refusal to do so.
 ---
 
+## Summary
+
+In this letter dated 23 July 1974, N. Dandeker writes to M. R. Masani about Masani’s proposed resolution on the future of the Swatantra Party, to be discussed at the Party’s National Convention in Delhi on 4–5 August. Dandeker says he “profoundly disagree[s]” with the proposal to turn the party into a non-political organisation, arguing that this would leave it politically irrelevant and expose it to ridicule. If the party truly has no future political potential, he suggests, it would be better simply to wind it up, while allowing willing state units to continue independently.
+
+Dandeker instead maintains that the party’s principles and programme retain potential validity and relevance at the national level, even if the existing organisation does not. He supports Piloo Mody’s effort to join with other parties in presenting a coherent national alternative to the ruling Congress. The letter welcomes Congress’s unwillingness to participate in such an alliance but criticises the Jan Sangh’s refusal to do so.
+
 ## Key points
 
 - Dandeker rejects Masani’s proposal to convert the Swatantra Party into a non-political organisation.

@@ -49,6 +49,10 @@ summary: |-
   This single-page English telegram from Masani to Raju requests an express-delivery note concerning Janasangh and its voting record. It also asks for a note of the proceedings of a joint meeting held at Masani's residence in Delhi on 26 May. The document is an Indian Posts and Telegraphs Department form, received on 25 February; the year is not legible on the page.
 ---
 
+## Summary
+
+This single-page English telegram from Masani to Raju requests an express-delivery note concerning Janasangh and its voting record. It also asks for a note of the proceedings of a joint meeting held at Masani's residence in Delhi on 26 May. The document is an Indian Posts and Telegraphs Department form, received on 25 February; the year is not legible on the page.
+
 ## Key points
 
 - The document is a one-page telegram issued through the Indian Posts and Telegraphs Department.

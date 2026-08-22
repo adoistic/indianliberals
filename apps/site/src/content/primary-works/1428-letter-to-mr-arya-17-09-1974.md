@@ -51,6 +51,12 @@ summary: |-
   Arya affirms a shared commitment to “morality and decency in public life” and condemns what he describes as a conspiracy involving Piloo, Madhu, and Masani. He refers to an alleged payment of Rs. 20,000, forged or photocopied papers, and efforts to swallow the small Asi premises situated in the Swatantra Party office. He also expresses disgust at the handling of Convention bills, mentions an article in Freedom First, and asks that Mohanlal Jatav remove a Star from his signboard, arguing that only people with courage and conviction have a right to it.
 ---
 
+## Summary
+
+This single-page typed letter, dated September 17, 1974, is addressed to Sewaram and signed by Mr. M.R. Arya. Arya apologises for an earlier letter that caused offence and explains that he had asked Col. Parshicha about Sewaram because he had not received any telephone calls; he had not intended to suggest that Sewaram could be purchased or influenced.
+
+Arya affirms a shared commitment to “morality and decency in public life” and condemns what he describes as a conspiracy involving Piloo, Madhu, and Masani. He refers to an alleged payment of Rs. 20,000, forged or photocopied papers, and efforts to swallow the small Asi premises situated in the Swatantra Party office. He also expresses disgust at the handling of Convention bills, mentions an article in Freedom First, and asks that Mohanlal Jatav remove a Star from his signboard, arguing that only people with courage and conviction have a right to it.
+
 ## Key points
 
 - Arya apologises for the tone and consequences of a previous letter to Sewaram.

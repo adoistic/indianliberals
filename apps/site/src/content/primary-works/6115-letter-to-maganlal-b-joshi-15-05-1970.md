@@ -47,6 +47,10 @@ summary: |-
   This untitled letter, dated 15 May 1970, is from M. R. Masani to Maganlal B. Joshi of the District Swatantra Party in Jamnagar. Masani explains that he is leaving for Delhi and will not be able to return to Jamnagar in time for the 22 May meeting planned by the Nawanagar Chamber of Commerce.
 ---
 
+## Summary
+
+This untitled letter, dated 15 May 1970, is from M. R. Masani to Maganlal B. Joshi of the District Swatantra Party in Jamnagar. Masani explains that he is leaving for Delhi and will not be able to return to Jamnagar in time for the 22 May meeting planned by the Nawanagar Chamber of Commerce.
+
 ## Key points
 
 - M. R. Masani writes to Maganlal B. Joshi on 15 May 1970.

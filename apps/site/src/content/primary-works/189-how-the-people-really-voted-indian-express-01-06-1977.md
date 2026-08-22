@@ -54,6 +54,12 @@ summary: |-
   Masani calls for a reconsideration of India's electoral system and warns that these distortions could produce popular alienation and apathy. Drawing on the report of the Committee on Electoral Reform appointed by Jayaprakash Narayan, he presents the West German mixed electoral model as a possible alternative, combining single-member constituencies with proportional representation. He also stresses that reform must preserve federal autonomy, avoid imposing Hindi on the south, and protect the constitutional balance between the Centre and the states.
 ---
 
+## Summary
+
+In this article, M. R. Masani challenges the claim that Indira Gandhi won a massive mandate in the 1971 parliamentary election. He argues that the first-past-the-post system converted a minority of votes into a large parliamentary majority: Gandhi's Congress secured about 34.54 per cent of the votes cast, while the Janata-CFD combination won more seats with a smaller vote share. Regional variations further distorted the relationship between votes and seats, especially in the north and south.
+
+Masani calls for a reconsideration of India's electoral system and warns that these distortions could produce popular alienation and apathy. Drawing on the report of the Committee on Electoral Reform appointed by Jayaprakash Narayan, he presents the West German mixed electoral model as a possible alternative, combining single-member constituencies with proportional representation. He also stresses that reform must preserve federal autonomy, avoid imposing Hindi on the south, and protect the constitutional balance between the Centre and the states.
+
 ## Key points
 
 - The article disputes the description of Indira Gandhi's 1971 victory as a massive popular mandate.

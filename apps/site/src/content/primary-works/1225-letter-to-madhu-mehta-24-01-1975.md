@@ -43,6 +43,10 @@ summary: |-
   A brief typed courtesy note from M. R. Masani to Madhu Mehta, National Convenor of the Hindustani Movement at 84-A Nepean Sea Road, Bombay. Acknowledging Mehta's letter of 18 January 1975, Masani regrets that a prior commitment prevents him from participating in a prayer meeting the Hindustani Movement had invited him to attend. The single-page letter carries the office reference 'Our Ref: 70' and closes over Masani's autograph signature with the typist's mark 'mrm/M'.
 ---
 
+## Summary
+
+A brief typed courtesy note from M. R. Masani to Madhu Mehta, National Convenor of the Hindustani Movement at 84-A Nepean Sea Road, Bombay. Acknowledging Mehta's letter of 18 January 1975, Masani regrets that a prior commitment prevents him from participating in a prayer meeting the Hindustani Movement had invited him to attend. The single-page letter carries the office reference 'Our Ref: 70' and closes over Masani's autograph signature with the typist's mark 'mrm/M'.
+
 ## Key points
 
 - Dated 24 January 1975 and filed under office reference 'Our Ref: 70'.

@@ -50,6 +50,12 @@ summary: |-
   Srikumar reports that a recent party conference drew fewer people than expected because of cyclone weather, although important people from Tamil Nadu attended. He says that a copy of the conference resolution and a report prepared by a committee of lawyers are enclosed, thanks Raju for sending Freedom First, and adds in a postscript that Masani subsequently sent him another copy. The letter is therefore a brief piece of Swatantra Party correspondence concerning party activity, political literature, and legal or constitutional concerns.
 ---
 
+## Summary
+
+This one-page letter, dated 27 October 1976, was sent by V. S. Srikumar, Joint Secretary of the Swatantra Party, to S. V. Raju. Srikumar apologises for the delay in replying and acknowledges receipt of a copy of Freedom First, praising its contents and specifically noting that Minoo Masani and others present such material in an “inimitable manner.”
+
+Srikumar reports that a recent party conference drew fewer people than expected because of cyclone weather, although important people from Tamil Nadu attended. He says that a copy of the conference resolution and a report prepared by a committee of lawyers are enclosed, thanks Raju for sending Freedom First, and adds in a postscript that Masani subsequently sent him another copy. The letter is therefore a brief piece of Swatantra Party correspondence concerning party activity, political literature, and legal or constitutional concerns.
+
 ## Key points
 
 - The letter is dated 27 October 1976 and is written from the Swatantra Party National Headquarters in Madras.

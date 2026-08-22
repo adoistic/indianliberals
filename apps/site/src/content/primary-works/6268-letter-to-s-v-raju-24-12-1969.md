@@ -44,6 +44,10 @@ summary: |-
   This single-page letter, dated November 24, 1969, from S. V. Raju to M. R. Masani, M.P., sets out logistical arrangements for Masani’s forthcoming visit to Bhubaneswar. Raju confirms a meeting on November 29 at 2:30 p.m., accommodation and local arrangements, a reserved air-conditioned berth on the Puri–Howrah Express, and Masani’s seat number (111).
 ---
 
+## Summary
+
+This single-page letter, dated November 24, 1969, from S. V. Raju to M. R. Masani, M.P., sets out logistical arrangements for Masani’s forthcoming visit to Bhubaneswar. Raju confirms a meeting on November 29 at 2:30 p.m., accommodation and local arrangements, a reserved air-conditioned berth on the Puri–Howrah Express, and Masani’s seat number (111).
+
 ## Key points
 
 - The letter confirms a meeting in Bhubaneswar on November 29 at 2:30 p.m.

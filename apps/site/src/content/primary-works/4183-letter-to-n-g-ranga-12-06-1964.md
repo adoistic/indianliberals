@@ -46,6 +46,10 @@ summary: |-
   In this letter dated June 12, 1964, M. R. Masani writes to Prof. N. G. Ranga about Piloo Mody’s possible attendance at meetings of the Swatantra Party’s Central Organising Committee and General Council in Bombay. Although Piloo Mody is not a member of either body, Masani proposes informally relaxing the normal procedure by telling him verbally that he is welcome to attend.
 ---
 
+## Summary
+
+In this letter dated June 12, 1964, M. R. Masani writes to Prof. N. G. Ranga about Piloo Mody’s possible attendance at meetings of the Swatantra Party’s Central Organising Committee and General Council in Bombay. Although Piloo Mody is not a member of either body, Masani proposes informally relaxing the normal procedure by telling him verbally that he is welcome to attend.
+
 ## Key points
 
 - The letter is dated June 12, 1964, and is signed by M. R. Masani.

@@ -56,6 +56,12 @@ summary: |-
   The minutes also cover candidate selection and internal membership organisation. The Central Parliamentary Board sought a faster process for approving Assembly candidatures, while the meeting proposed that State Parliamentary Boards submit lists of unanimously recommended candidates and reasons for their nominations. The Labour Wing’s work, a possible Hindi edition of the Labour Bulletin, membership renewal and replacement cards, constituency committees, district representation, and the reconstitution of unrepresentative committees were also considered. The meeting ended after the General Secretary reported that the National Executive had authorised State Units to dissolve and reform district committees where necessary.
 ---
 
+## Summary
+
+These three pages record the Swatantra Party’s meeting of State Unit secretaries in Bombay on 29 May 1966, chaired by General Secretary M. R. Masani. The meeting focused on improving coordination between the Central Office and State Units, synchronising state convention dates, circulating communications more effectively, obtaining regular activity reports, and encouraging exchanges of ideas and visits among state leaders. Participants also discussed the relationship between full-time Field Organisers and honorary workers, the need for training camps for party workers, and the proposed formation of a Volunteer Force based on the Swatantra Sevaks model.
+
+The minutes also cover candidate selection and internal membership organisation. The Central Parliamentary Board sought a faster process for approving Assembly candidatures, while the meeting proposed that State Parliamentary Boards submit lists of unanimously recommended candidates and reasons for their nominations. The Labour Wing’s work, a possible Hindi edition of the Labour Bulletin, membership renewal and replacement cards, constituency committees, district representation, and the reconstitution of unrepresentative committees were also considered. The meeting ended after the General Secretary reported that the National Executive had authorised State Units to dissolve and reform district committees where necessary.
+
 ## Key points
 
 - The meeting sought concrete organisational improvements and stronger coordination between State Units and the Central Office.

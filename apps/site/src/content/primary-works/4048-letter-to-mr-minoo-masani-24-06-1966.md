@@ -44,6 +44,10 @@ summary: |-
   This single-page English letter, dated June 24, 1966, was issued on Tata Industries Private Limited letterhead from Bombay. Signed by L. Sawhny, it forwards two copies of the signatory's article to M. R. Masani for onward transmission to Mrs. Indira Gandhi and Mr. L. K. Jha. The letter does not identify the article's title or subject.
 ---
 
+## Summary
+
+This single-page English letter, dated June 24, 1966, was issued on Tata Industries Private Limited letterhead from Bombay. Signed by L. Sawhny, it forwards two copies of the signatory's article to M. R. Masani for onward transmission to Mrs. Indira Gandhi and Mr. L. K. Jha. The letter does not identify the article's title or subject.
+
 ## Key points
 
 - The correspondence is dated June 24, 1966.

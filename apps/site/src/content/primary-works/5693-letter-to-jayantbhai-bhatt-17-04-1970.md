@@ -50,6 +50,12 @@ summary: |-
   The Gujarati second page appears to continue or restate the organisational communication, but its handwriting is not sufficiently legible for a reliable detailed transcription. The rendered pages therefore document an internal Swatantra Party exchange concerning disagreement or proposed changes within the party's state-level council and executive bodies, without establishing the full underlying issue.
 ---
 
+## Summary
+
+This two-page correspondence, dated 17 April 1970, is written on Ahmedabad City Swatantra Party letterhead and is addressed to the President of the All India Swatantra Party. In the English first page, Jayantbhai Bhatt acknowledges a letter concerning Mr. C. C. Desai and the composition of the State Council. Bhatt states that he and other council members agree with the recipient's views and will support them at the forthcoming meeting of the State Executive Committee on 19 April 1970.
+
+The Gujarati second page appears to continue or restate the organisational communication, but its handwriting is not sufficiently legible for a reliable detailed transcription. The rendered pages therefore document an internal Swatantra Party exchange concerning disagreement or proposed changes within the party's state-level council and executive bodies, without establishing the full underlying issue.
+
 ## Key points
 
 - The letter is dated 17 April 1970 and uses Ahmedabad City Swatantra Party letterhead.

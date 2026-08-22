@@ -46,6 +46,12 @@ summary: |-
   The letter is a brief follow-up prompted by the absence of the promised information three days after Masani's departure. It closes courteously, with Masani signing as “(M. R. Masani).”
 ---
 
+## Summary
+
+In this typed letter dated 9 October 1969, M. R. Masani writes to A. P. Jain about arrangements connected with an I.P.U. Conference in Delhi. Masani recalls Jain's promise to provide a list of delegates from friendly countries and information about the cost of hosting a dinner at the Delhi Gymkhana, the Delhi Golf Club, or Masani's residence.
+
+The letter is a brief follow-up prompted by the absence of the promised information three days after Masani's departure. It closes courteously, with Masani signing as “(M. R. Masani).”
+
 ## Key points
 
 - The letter is dated 9 October 1969 and is signed by M. R. Masani.

@@ -58,6 +58,12 @@ summary: |-
   The final page sets out planning proposals associated with the Third Plan: a self-generating and self-accelerating economy, regulation of large private production units, socially regulated prices, a national wage and salaries policy linked to productivity, use of profits for developmental schemes, productivity norms, special taxation of unearned and speculative gains, and reduction of rural and urban disparities in income and wealth. Read together, the pages frame the document's liberal critique of socialism as compatible with limited regulation and redistribution, while rejecting pervasive state ownership and uncontrolled economic power.
 ---
 
+## Summary
+
+This three-page Forum of Free Enterprise working paper, issued in 1959, combines a press-report extract attributed to Jawaharlal Nehru with an unsigned explanatory note on socialism and extracts from an official hand-out on the Third Plan. The Nehru extract argues that applying socialism or communism prematurely in underdeveloped countries such as India and Nepal would hinder growth and risk spreading poverty rather than creating wealth. The accompanying note presents socialism as an ethical response to industrial inequality but argues that state ownership tends toward state capitalism, totalitarianism, bureaucratic privilege, and the erosion of democratic freedoms. It recommends state control rather than comprehensive state ownership as a means of combining equitable distribution with maximum production.
+
+The final page sets out planning proposals associated with the Third Plan: a self-generating and self-accelerating economy, regulation of large private production units, socially regulated prices, a national wage and salaries policy linked to productivity, use of profits for developmental schemes, productivity norms, special taxation of unearned and speculative gains, and reduction of rural and urban disparities in income and wealth. Read together, the pages frame the document's liberal critique of socialism as compatible with limited regulation and redistribution, while rejecting pervasive state ownership and uncontrolled economic power.
+
 ## Key points
 
 - The paper reproduces a June 14, 1959 report stating Jawaharlal Nehru's opposition to prematurely applying socialism in underdeveloped countries.

@@ -52,6 +52,12 @@ summary: |-
   The letter then clarifies the party’s position on proposals for a larger opposition bloc in Parliament, including members of the Swatantra Party. Masani distinguishes between continued liaison and cooperation among like-minded groups and the formation of a formal party, which the Parliamentary Board had rejected for the time being. He says exploratory discussions should continue on the basis of opposition to statism and respect for the Fundamental Rights embodied in the original Constitution of 1950, with the matter to be reviewed at the Parliamentary Board meeting scheduled for September 30 and October 1.
 ---
 
+## Summary
+
+In this two-page letter dated August 16, 1962, M. R. Masani replies to H. H. Maharaja P. K. Deo of Kalahandi on frontier defence, relations with Communist China, and regional security in South and South-East Asia. Masani endorses Deo’s efforts to press the party’s position on severing diplomatic relations with China and strengthening regional security arrangements. He also addresses a dispute involving Prof. Swell, explaining that he had sought the facts before judging the incident and had written to Mr. Deng asking him to withdraw the charge against Swell.
+
+The letter then clarifies the party’s position on proposals for a larger opposition bloc in Parliament, including members of the Swatantra Party. Masani distinguishes between continued liaison and cooperation among like-minded groups and the formation of a formal party, which the Parliamentary Board had rejected for the time being. He says exploratory discussions should continue on the basis of opposition to statism and respect for the Fundamental Rights embodied in the original Constitution of 1950, with the matter to be reviewed at the Parliamentary Board meeting scheduled for September 30 and October 1.
+
 ## Key points
 
 - Masani supports pressing the party’s position for severing diplomatic relations with Communist China.

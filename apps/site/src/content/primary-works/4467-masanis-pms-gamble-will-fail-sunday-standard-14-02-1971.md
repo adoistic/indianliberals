@@ -56,6 +56,12 @@ summary: |-
   Masani distinguishes his position from both Marxism and Gandhian economics. He says Karl Marx correctly identified the dangers of appropriating the masses' economic surplus, but rejects Marxist state ownership and class politics; he also contrasts the Swatantra Party's programme of gradual reform and private enterprise with the government's more interventionist course. The article additionally records Masani's views on the Uttar Pradesh political situation, including the conduct of the Congress and the role of T. N. Singh. The clipping is a single page and contains no formal byline, although the headline and caption identify Masani.
 ---
 
+## Summary
+
+In this newspaper article, M. R. Masani argues that Prime Minister Indira Gandhi's economic and political strategy will fail. He criticises the government's continuing commitment to planning, describing the Planning Commission as an obstacle to investment and warning that expanding bureaucratic controls and nationalisation will damage economic performance. He also attacks what he presents as the government's hostility to private property and enterprise, arguing that the proposed approach would produce inefficiency rather than social justice.
+
+Masani distinguishes his position from both Marxism and Gandhian economics. He says Karl Marx correctly identified the dangers of appropriating the masses' economic surplus, but rejects Marxist state ownership and class politics; he also contrasts the Swatantra Party's programme of gradual reform and private enterprise with the government's more interventionist course. The article additionally records Masani's views on the Uttar Pradesh political situation, including the conduct of the Congress and the role of T. N. Singh. The clipping is a single page and contains no formal byline, although the headline and caption identify Masani.
+
 ## Key points
 
 - Masani predicts that the Prime Minister's economic strategy will fail.

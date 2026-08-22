@@ -46,6 +46,12 @@ summary: |-
   Masani notes that Krishnamoorthy will not be in Calcutta during that period. He says he is nevertheless in contact with Mr. Sampath Iyengar and has told him that Masani will be available to assist the group in Calcutta to whatever extent it requires. The letter closes with Masani’s signature and typed name.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to T. S. Krishnamoorthy is dated 30 November 1959. Masani acknowledges receiving Krishnamoorthy’s letter of 26 November, forwarded from Delhi, and explains that he had expected to be in Calcutta on 4, 5, and 6 December.
+
+Masani notes that Krishnamoorthy will not be in Calcutta during that period. He says he is nevertheless in contact with Mr. Sampath Iyengar and has told him that Masani will be available to assist the group in Calcutta to whatever extent it requires. The letter closes with Masani’s signature and typed name.
+
 ## Key points
 
 - The letter is dated 30 November 1959 and is addressed to T. S. Krishnamoorthy.

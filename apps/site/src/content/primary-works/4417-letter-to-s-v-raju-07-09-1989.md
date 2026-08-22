@@ -50,6 +50,12 @@ summary: |-
   The letter closes with personal news: Masani’s wife has gone to the United States, while his younger son is visiting. He sends greetings to Raju, Shri Masani, and friends, and signs himself “M. Masani.”
 ---
 
+## Summary
+
+In this handwritten letter dated 7 September 1989, Minoo Masani writes to S. V. Raju from Sanskriti Kendra in Indore. He says he is enclosing a typed copy of an article in Mainstream and briefly comments on the chaotic political situation in Madhya Pradesh. Masani describes the Janata Dal as having two parallel organisational setups and says the BJP is divided between the Patna and Saklecha groups, concluding that the political scene reflects confusion and “the worst sort.”
+
+The letter closes with personal news: Masani’s wife has gone to the United States, while his younger son is visiting. He sends greetings to Raju, Shri Masani, and friends, and signs himself “M. Masani.”
+
 ## Key points
 
 - Masani writes to S. V. Raju from Sanskriti Kendra, Indore, on 7 September 1989.

@@ -49,6 +49,12 @@ summary: |-
   Singh’s central political argument is that ideological differences should not be overstated. He maintains that Swatantra’s commitment to trusteeship and its stated adherence to Gandhi’s teachings make it difficult to reject what Charan Singh calls “Gandhian Socialism,” particularly when Rajagopalachari had himself endorsed the idea in Swarajya. Singh distinguishes this position from Marxism, while arguing that the party could accept a broad Gandhian socialist formulation without abandoning its principles. The extract ends with Mr. Dandeker’s comments, which clarify that he envisioned incorporating the BKD into Swatantra, not creating a third party that would require Swatantra’s dissolution, and proposes discussion by the party’s National Executive.
 ---
 
+## Summary
+
+This three-page extract from B. P. Singh’s June 26 letter to Mr. Dandeker argues for reconsidering a proposed merger between the Swatantra Party and the BKD. Singh expresses disappointment that, in his view, the proposal associated with Chaudhary Charan Singh had been presented as an unconditional surrender by Swatantra rather than as a merger between political organisations. He says that C. Rajagopalachari and Dandeker had not shown interest in a genuine merger of the two parties and suggests that their concern was instead the absorption of the BKD.
+
+Singh’s central political argument is that ideological differences should not be overstated. He maintains that Swatantra’s commitment to trusteeship and its stated adherence to Gandhi’s teachings make it difficult to reject what Charan Singh calls “Gandhian Socialism,” particularly when Rajagopalachari had himself endorsed the idea in Swarajya. Singh distinguishes this position from Marxism, while arguing that the party could accept a broad Gandhian socialist formulation without abandoning its principles. The extract ends with Mr. Dandeker’s comments, which clarify that he envisioned incorporating the BKD into Swatantra, not creating a third party that would require Swatantra’s dissolution, and proposes discussion by the party’s National Executive.
+
 ## Key points
 
 - B. P. Singh asks Mr. Dandeker to reconsider his position on a proposed Swatantra-BKD merger.

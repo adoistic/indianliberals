@@ -50,6 +50,12 @@ summary: |-
   The letter’s substantive concern is the opposition’s response to a no-confidence motion. Jain reports that A.K. Gopalan, on behalf of the Communist group in Parliament, has tabled a motion criticizing the government’s failure to contain rising prices and meet food requirements. He notes that the SSP, Independents, and Jan Sangh are considering a separate motion, and argues that the Swatantra Party must decide whether to join a joint opposition motion: abstention, he cautions, could effectively amount to expressing confidence in the ruling party.
 ---
 
+## Summary
+
+This one-page letter, dated 24 August 1964 and signed by A.P. Jain of the Swatantra Party Parliamentary Office, is addressed to M.R. Masani. Jain forwards a copy of Prof. Ranga’s letter to the Speaker, a list of Swatantra Party Lok Sabha members and office-bearers, and a bill for Ranga’s travel between Bombay, Udaipur, and Delhi.
+
+The letter’s substantive concern is the opposition’s response to a no-confidence motion. Jain reports that A.K. Gopalan, on behalf of the Communist group in Parliament, has tabled a motion criticizing the government’s failure to contain rising prices and meet food requirements. He notes that the SSP, Independents, and Jan Sangh are considering a separate motion, and argues that the Swatantra Party must decide whether to join a joint opposition motion: abstention, he cautions, could effectively amount to expressing confidence in the ruling party.
+
 ## Key points
 
 - A.P. Jain writes to M.R. Masani from the Swatantra Party Parliamentary Office on 24 August 1964.

@@ -52,6 +52,10 @@ summary: |-
   This untitled handwritten record lists advertisement revenue received between June 1961 and February 1962. Entries identify contributing businesses and companies, with amounts recorded beside each name; several entries are marked with ticks, and some names or amounts are crossed out or revised. The record includes references to the Swatantra Souvenir 1961 and appears to document its advertising-related receipts.
 ---
 
+## Summary
+
+This untitled handwritten record lists advertisement revenue received between June 1961 and February 1962. Entries identify contributing businesses and companies, with amounts recorded beside each name; several entries are marked with ticks, and some names or amounts are crossed out or revised. The record includes references to the Swatantra Souvenir 1961 and appears to document its advertising-related receipts.
+
 ## Key points
 
 - The document is a two-page handwritten revenue ledger rather than a conventional authored publication.

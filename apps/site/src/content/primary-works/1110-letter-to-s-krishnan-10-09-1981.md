@@ -51,6 +51,12 @@ summary: |-
   The circular presents the proposed revival as a response to what its authors describe as authoritarianism, corruption, economic disorder, personalised politics, and emerging communal and caste conflicts. It recalls C. Rajagopalachari’s role in founding the party in 1959, praises its opposition to statism and socialism, and notes that it merged with the Janata Party in 1977. The circular proposes a September 1981 meeting to assess the situation and prepare for a national-level meeting. The handwritten letter to Masani expresses a similar concern that national leadership and guidance are urgently needed, although its precise relationship to Krishnan’s letter is not established by the file.
 ---
 
+## Summary
+
+This archival file brings together a 10 September 1981 letter from S. Krishnan, a two-page circular calling for a preparatory meeting to revive the Swatantra Party, and a related handwritten letter from Tejnarain Yadav to M. R. Masani. Krishnan writes from Madras to an unnamed recipient, urging former Swatantra Party workers with “the same view” to meet and contact like-minded people across India. He encloses the circular and asks for the recipient’s views, guidance, and direct participation in the effort.
+
+The circular presents the proposed revival as a response to what its authors describe as authoritarianism, corruption, economic disorder, personalised politics, and emerging communal and caste conflicts. It recalls C. Rajagopalachari’s role in founding the party in 1959, praises its opposition to statism and socialism, and notes that it merged with the Janata Party in 1977. The circular proposes a September 1981 meeting to assess the situation and prepare for a national-level meeting. The handwritten letter to Masani expresses a similar concern that national leadership and guidance are urgently needed, although its precise relationship to Krishnan’s letter is not established by the file.
+
 ## Key points
 
 - S. Krishnan’s 10 September 1981 letter seeks support for reviving the Swatantra Party.

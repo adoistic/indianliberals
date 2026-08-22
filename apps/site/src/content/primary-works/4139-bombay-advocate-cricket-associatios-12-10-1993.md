@@ -50,6 +50,12 @@ summary: |-
   The sponsorship proposal emphasizes the publicity available to sponsors: advertising at several Bombay cricket grounds, banners along boundary lines, possible coverage in Doordarshan’s Sports Capsule, inauguration by the Chief Justice of Bombay, and attendance by famous cricketers. The remaining handwritten pages appear to be draft pleadings or case notes about respondents’ service, pension, and rule-related claims, including references to the High Court of Judicature at Bombay and an original civil jurisdiction matter. The handwritten text is difficult to read in places, and the file’s relationship between the sponsorship letter and the legal notes is not explained on the rendered pages.
 ---
 
+## Summary
+
+This seven-page file brings together a 12 October 1993 sponsorship appeal from the Bombay Advocates’ Cricket Association and handwritten legal notes concerning service matters. In the typed letter, the Association describes itself as a registered body of advocates practising in the Bombay High Court and seeks financial support for the Fifth All India Inter High Courts Cricket Tournament, scheduled to be held in Bombay from 20 November to 28 December 1993. The letter presents the tournament as a national event for advocates from State High Courts, with 18 teams expected to participate and estimated expenditure of Rs. 12 lakhs.
+
+The sponsorship proposal emphasizes the publicity available to sponsors: advertising at several Bombay cricket grounds, banners along boundary lines, possible coverage in Doordarshan’s Sports Capsule, inauguration by the Chief Justice of Bombay, and attendance by famous cricketers. The remaining handwritten pages appear to be draft pleadings or case notes about respondents’ service, pension, and rule-related claims, including references to the High Court of Judicature at Bombay and an original civil jurisdiction matter. The handwritten text is difficult to read in places, and the file’s relationship between the sponsorship letter and the legal notes is not explained on the rendered pages.
+
 ## Key points
 
 - The Bombay Advocates’ Cricket Association dated its sponsorship appeal 12 October 1993.

@@ -46,6 +46,12 @@ summary: |-
   The letter is brief and cordial, closing with Masani's wishes for success in the President's office and his handwritten signature. No substantive policy argument or other subject is visible on the page.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani, dated 9 September 1987, is addressed to President R. Venkataraman. Masani thanks the President for his prompt and courteous reply to an earlier letter.
+
+The letter is brief and cordial, closing with Masani's wishes for success in the President's office and his handwritten signature. No substantive policy argument or other subject is visible on the page.
+
 ## Key points
 
 - The letter is dated 9 September 1987.

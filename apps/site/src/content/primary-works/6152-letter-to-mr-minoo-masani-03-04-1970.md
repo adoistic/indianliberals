@@ -48,6 +48,12 @@ summary: |-
   Raju explains that this cautious wording followed a discussion with N. Dandekar and asks Masani to wire his agreement so that the covering letters can be prepared by Monday. The page records internal party correspondence and decision-making; no further background or outcome is included in the document.
 ---
 
+## Summary
+
+In this letter dated April 3, 1970, S. V. Raju writes to Minoo Masani about a draft letter to MPs, the Gujarat MLA, and the State Executive. Raju says he has revised the second paragraph to avoid suggesting that the authors have already decided to expel Mr. G. C. Desai, while still making clear that the material is being sent for information rather than to solicit the recipients’ views.
+
+Raju explains that this cautious wording followed a discussion with N. Dandekar and asks Masani to wire his agreement so that the covering letters can be prepared by Monday. The page records internal party correspondence and decision-making; no further background or outcome is included in the document.
+
 ## Key points
 
 - The letter is dated April 3, 1970, and is signed by S. V. Raju.

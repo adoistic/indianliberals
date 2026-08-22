@@ -49,6 +49,12 @@ summary: |-
   Raju informs Masani that Srikumar has confirmed a public meeting in Madras on the 8th of December, at which Masani is to be the principal speaker, with Shanti Bhushan also speaking and Subbarao likely to preside. Raju asks for Masani's confirmation of the arrangement. A second invitation is relayed from Vicaji, who asks Masani to cocktails on the same evening at 7.30 P.M. to meet a visiting director from England. The document is signed RAJU and carries the reference number 254005.
 ---
 
+## Summary
+
+A single-page typewritten note dated 26 November 1975, addressed to M. R. Masani in Calcutta and carried by Mr. Basudu Ray of the Statesman newspaper, who was travelling to Calcutta at the time. Cast in telegraphic shorthand (STOP punctuation, capitalised throughout), the note is a piece of party and lecture-circuit logistics rather than a substantive political letter.
+
+Raju informs Masani that Srikumar has confirmed a public meeting in Madras on the 8th of December, at which Masani is to be the principal speaker, with Shanti Bhushan also speaking and Subbarao likely to preside. Raju asks for Masani's confirmation of the arrangement. A second invitation is relayed from Vicaji, who asks Masani to cocktails on the same evening at 7.30 P.M. to meet a visiting director from England. The document is signed RAJU and carries the reference number 254005.
+
 ## Key points
 
 - Hand-carried note from Raju to M. R. Masani in Calcutta, entrusted to Mr. Basudu Ray of the Statesman, dated 26 November 1975.

@@ -55,6 +55,12 @@ summary: |-
   The second page extends the argument into economic and educational comparison. Taiwan is portrayed as a successful, rapidly developing society, with reported annual GNP growth of 7.7 percent, high rice yields, agricultural reform, substantial school enrollment, and opportunities for Indian agricultural and commercial exchange. By contrast, the release describes mainland China as suffering from famine, industrial underuse, military deterioration, and low morale. The document ends with a typed "Not for publication" designation and Masani's signature; the visible pages do not include the continuation, if any, of the final discussion.
 ---
 
+## Summary
+
+This two-page press release, dated Bombay, November 5, 1963, records M. R. Masani's account of conversations in Taiwan with President Chiang Kai-shek and other leaders of the Republic of China. Masani presents Taiwan's position on Tibet and the Indian border as fundamentally different from that of the communist government in Peking, emphasizing Chiang's stated support for the Tibetan people's right of self-determination and his continuing sympathy for Indian independence. The release also links Taiwan's security role in the Western Pacific to India's interests and argues that India should adopt a more realistic China policy, including severing diplomatic relations with Peking and loosening the constraints of non-alignment.
+
+The second page extends the argument into economic and educational comparison. Taiwan is portrayed as a successful, rapidly developing society, with reported annual GNP growth of 7.7 percent, high rice yields, agricultural reform, substantial school enrollment, and opportunities for Indian agricultural and commercial exchange. By contrast, the release describes mainland China as suffering from famine, industrial underuse, military deterioration, and low morale. The document ends with a typed "Not for publication" designation and Masani's signature; the visible pages do not include the continuation, if any, of the final discussion.
+
 ## Key points
 
 - Masani reports Chiang Kai-shek's reaffirmation of the Republic of China's support for Tibetan self-determination.

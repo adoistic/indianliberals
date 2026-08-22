@@ -51,6 +51,10 @@ summary: |-
   This one-page English office publication note, dated February 15, 1968, reproduces a telegram sent by several Members of Parliament to Dharam Vira, Governor of West Bengal. The signatories express distress at the manner in which Vira, described as the representative of the President of the Republic, was treated in the Bengal Assembly the previous day.
 ---
 
+## Summary
+
+This one-page English office publication note, dated February 15, 1968, reproduces a telegram sent by several Members of Parliament to Dharam Vira, Governor of West Bengal. The signatories express distress at the manner in which Vira, described as the representative of the President of the Republic, was treated in the Bengal Assembly the previous day.
+
 ## Key points
 
 - The document is a press-publication note from Parliament House, New Delhi, dated February 15, 1968.

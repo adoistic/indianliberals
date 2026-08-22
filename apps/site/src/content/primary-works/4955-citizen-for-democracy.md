@@ -52,6 +52,12 @@ summary: |-
   Dated 20 September 1975, the card gives the conference schedule, venue, RSVP address, and notice that the proceedings are open to invitees only. It is an archival event invitation rather than an authored argument or set of conference proceedings; no formal title or author byline is printed.
 ---
 
+## Summary
+
+This one-page English invitation card, issued by Citizens For Democracy (Gujarat), announces an All India Civil Liberties Conference to be held at H. K. Arts College Hall, Ashram Road, Ahmedabad, on 12 October 1975. It states that the conference will consider the contemporary situation "in the light of civil liberties" and lists two prominent legal figures: former Chief Justice of India J. C. Shah as presiding officer and former Chief Justice of the High Court of Bombay M. C. Chagla as inaugurator.
+
+Dated 20 September 1975, the card gives the conference schedule, venue, RSVP address, and notice that the proceedings are open to invitees only. It is an archival event invitation rather than an authored argument or set of conference proceedings; no formal title or author byline is printed.
+
 ## Key points
 
 - Citizens For Democracy (Gujarat) announces an All India Civil Liberties Conference in Ahmedabad.

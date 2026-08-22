@@ -49,6 +49,12 @@ summary: |-
   To initiate the process, the writers propose M. R. Masani or R. V. Murthy as possible sole arbitrators and ask Girish to indicate whether either is acceptable. The letter is signed by K. H. Subramaniam, L. R. Sampat, and S. V. Raju.
 ---
 
+## Summary
+
+This one-page letter, dated March 22, 1977, is addressed to Girish and responds to a disagreement over issues raised in an earlier letter. The signatories state that they are willing to refer the matter to the sole arbitration of a mutually acceptable person and agree to abide by the arbitrator’s decision.
+
+To initiate the process, the writers propose M. R. Masani or R. V. Murthy as possible sole arbitrators and ask Girish to indicate whether either is acceptable. The letter is signed by K. H. Subramaniam, L. R. Sampat, and S. V. Raju.
+
 ## Key points
 
 - The letter is dated March 22, 1977 and addressed to Girish.

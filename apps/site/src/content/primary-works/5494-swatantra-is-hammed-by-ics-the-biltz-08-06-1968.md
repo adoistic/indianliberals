@@ -49,6 +49,12 @@ summary: |-
   The report presents the dispute as a struggle between Masani and the party leadership over discipline, factional control, and the future direction of the Swatantra Party. It alleges that Rajaji opposed resolutions that might have enabled Masani’s return, reports Masani’s threat to remove leaders he regarded as insufficiently ethical or disciplined, and characterizes the party as increasingly divided between a newer leadership group and the older “ICS steel frame.” The clipping also cites N. Dandekar’s estimate that Masani had lost a substantial majority in the relevant vote, though the precise institutional context is difficult to establish from the newspaper layout alone.
 ---
 
+## Summary
+
+This 8 June 1968 Blitz report describes a serious internal conflict in the Swatantra Party after Minoo Masani was defeated in efforts to return to the party’s National Executive. The article says Masani had resigned from the Executive when V. N. Mahida contested his Rajya Sabha seat from Gujarat, and portrays the party’s subsequent resolutions as blocking Masani’s rehabilitation while protecting C. Rajagopalachari (Rajaji) and other senior figures.
+
+The report presents the dispute as a struggle between Masani and the party leadership over discipline, factional control, and the future direction of the Swatantra Party. It alleges that Rajaji opposed resolutions that might have enabled Masani’s return, reports Masani’s threat to remove leaders he regarded as insufficiently ethical or disciplined, and characterizes the party as increasingly divided between a newer leadership group and the older “ICS steel frame.” The clipping also cites N. Dandekar’s estimate that Masani had lost a substantial majority in the relevant vote, though the precise institutional context is difficult to establish from the newspaper layout alone.
+
 ## Key points
 
 - The article reports that Minoo Masani suffered a defeat in the Swatantra Party’s internal proceedings.

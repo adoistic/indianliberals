@@ -51,6 +51,10 @@ summary: |-
   Dated 17 January 1967, this administrative letter from Swatantra Party General Secretary M. R. Masani announces the completion of his organisational and campaign tour of North India and plans for a similar tour of the South. Masani states that he will be based in Rajkot from 5 February until the elections are over, with the party’s Central Office operating there with a skeleton staff.
 ---
 
+## Summary
+
+Dated 17 January 1967, this administrative letter from Swatantra Party General Secretary M. R. Masani announces the completion of his organisational and campaign tour of North India and plans for a similar tour of the South. Masani states that he will be based in Rajkot from 5 February until the elections are over, with the party’s Central Office operating there with a skeleton staff.
+
 ## Key points
 
 - M. R. Masani reports completing an organisational and campaign tour of North India.

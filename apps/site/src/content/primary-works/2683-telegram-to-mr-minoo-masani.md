@@ -46,6 +46,12 @@ summary: |-
   The sender is not identified on the visible form, and the date, year, and place of dispatch cannot be established from the rendered page. The document is printed on an Indian Posts and Telegraphs Department telegram form and includes the serial strip “X 2035 CA 63 BHUBANESWAR NC.”
 ---
 
+## Summary
+
+This single-sheet English telegram, sent to M. R. Masani, MP, at 2 Tughlak Road, New Delhi, concerns Masani's telegram of 31 January. The message informs him that the sender will be out of station from 5 to 7 February and identifies R. N. Singh Deo as Chief Minister.
+
+The sender is not identified on the visible form, and the date, year, and place of dispatch cannot be established from the rendered page. The document is printed on an Indian Posts and Telegraphs Department telegram form and includes the serial strip “X 2035 CA 63 BHUBANESWAR NC.”
+
 ## Key points
 
 - The document is a one-page English telegram addressed to Sri M. R. Masani, MP.

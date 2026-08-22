@@ -44,6 +44,10 @@ summary: |-
   This one-page English letter, dated 16 March 1971, is addressed to Viraj Radio in Gondal and signed by M. R. Masani. Masani acknowledges the recipient's telegram of 13 March and expresses appreciation for its sympathy and solidarity.
 ---
 
+## Summary
+
+This one-page English letter, dated 16 March 1971, is addressed to Viraj Radio in Gondal and signed by M. R. Masani. Masani acknowledges the recipient's telegram of 13 March and expresses appreciation for its sympathy and solidarity.
+
 ## Key points
 
 - The letter is dated 16 March 1971.

@@ -52,6 +52,10 @@ summary: |-
   In this letter dated April 2, 1971, M. R. Masani prepares colleagues for the Swatantra Party General Council meeting, which is to reassess the party's position and future after the General Elections. He argues that the party's immediate task is to recover its capacity to defend freedom in India through honest self-criticism, acknowledging both the courage required to continue pursuing political objectives and the courage required to admit mistakes and learn from them. He identifies two central conclusions: India needs basic political education in democratic values, free institutions, and fundamental economic principles; and opposition parties can play a decisive role only with fresh, preferably younger, leadership.
 ---
 
+## Summary
+
+In this letter dated April 2, 1971, M. R. Masani prepares colleagues for the Swatantra Party General Council meeting, which is to reassess the party's position and future after the General Elections. He argues that the party's immediate task is to recover its capacity to defend freedom in India through honest self-criticism, acknowledging both the courage required to continue pursuing political objectives and the courage required to admit mistakes and learn from them. He identifies two central conclusions: India needs basic political education in democratic values, free institutions, and fundamental economic principles; and opposition parties can play a decisive role only with fresh, preferably younger, leadership.
+
 ## Key points
 
 - Masani describes the General Council meeting as an opportunity for a searching reassessment after the party's electoral defeat.

@@ -58,6 +58,14 @@ summary: |-
   The final pages address financial arrangements for the Public Assistance Bureau, reimbursement of party-related expenses, and the allocation of National Convention delegate representation among Bombay units according to membership. The meeting also considered prospective candidates for the Lok Sabha and representation on a parliamentary board before ending with a vote of thanks to the chair. No formal author is identified; this is an institutional record issued under the Swatantra Party’s name.
 ---
 
+## Summary
+
+These draft minutes record the 25 November 1970 meeting of the Swatantra Party’s Bombay Region Executive Committee. The meeting reviewed preparations for the Party’s forthcoming National Convention, including meetings of the Convention Organising and Finance Sub-Committees, publicity, workers’ meetings, delegate accommodation, and efforts to reactivate dormant district units. The minutes also report on local organisational activity, including the enrolment of more than 250 workers, regular committee meetings, and the increasing activity of the Ladies Committee.
+
+A substantial part of the meeting concerns party administration and political communication. Members discussed the need to circulate official statements to party units, improve press reporting of the Party’s position, and convene emergency executive meetings on controversial issues. In the discussion of government-employee strikes, the minutes record a preference for public education about the Party’s position rather than an unqualified endorsement of wage demands. The committee also imposed tighter procedures for office expenditure, approved a reduced renovation budget, and established a sub-committee to scrutinise spending.
+
+The final pages address financial arrangements for the Public Assistance Bureau, reimbursement of party-related expenses, and the allocation of National Convention delegate representation among Bombay units according to membership. The meeting also considered prospective candidates for the Lok Sabha and representation on a parliamentary board before ending with a vote of thanks to the chair. No formal author is identified; this is an institutional record issued under the Swatantra Party’s name.
+
 ## Key points
 
 - The Bombay Region Executive Committee met on 25 November 1970 with Lalchand Hirachand as chair.

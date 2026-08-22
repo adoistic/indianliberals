@@ -49,6 +49,12 @@ summary: |-
   The telegram provides no substantive policy argument or discussion beyond this request. Its political significance, within the rendered pages, lies in documenting a conference-related communication involving Masani and a Mangalore district organisation.
 ---
 
+## Summary
+
+This two-page English telegram, dated 16 October 1959, records a request associated with Jinarajhegde of Mangalore to Masani in Bombay. The message asks Masani to inaugurate the Mangalore District Conference on the 25th. The document is presented both as a typed telegram copy and as an Indian Posts and Telegraphs Department form.
+
+The telegram provides no substantive policy argument or discussion beyond this request. Its political significance, within the rendered pages, lies in documenting a conference-related communication involving Masani and a Mangalore district organisation.
+
 ## Key points
 
 - The document is a two-page English telegram dated 16 October 1959.

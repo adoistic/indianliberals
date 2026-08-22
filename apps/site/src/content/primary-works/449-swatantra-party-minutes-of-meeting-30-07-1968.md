@@ -51,6 +51,12 @@ summary: |-
   The minutes report discussions with Charan Singh, identified as the leader of the BKD, concerning whether the Swatantra Party should move closer to that party. Prof. Ranga also explained demands made by Yashpal Singh, an independent Lok Sabha member, for joining Swatantra, along with the party's views on the matter. The page does not record the outcome of these discussions or any subsequent decisions.
 ---
 
+## Summary
+
+This one-page record from the Swatantra Party Parliamentary Office documents a General Body meeting held in Parliament House, New Delhi, on July 29, 1968, and dated July 30. It lists 28 members present, including Prof. N. G. Ranga, M. R. Masani, N. Dandekar, Piloo Mody, and D. N. Patodia, who signs as Secretary.
+
+The minutes report discussions with Charan Singh, identified as the leader of the BKD, concerning whether the Swatantra Party should move closer to that party. Prof. Ranga also explained demands made by Yashpal Singh, an independent Lok Sabha member, for joining Swatantra, along with the party's views on the matter. The page does not record the outcome of these discussions or any subsequent decisions.
+
 ## Key points
 
 - The meeting of the Swatantra Party's General Body in Parliament was held on July 29, 1968.

@@ -50,6 +50,10 @@ summary: |-
   In this 7 April 1974 letter, G. R. Majhi, General Secretary of the Swatantra Party’s Orissa unit, writes to M. R. Masani after the party’s defeat in the Orissa Assembly mid-term election. Majhi says he lost the Nawapara constituency by 1,600 votes and attributes the result to alleged vote-buying with money and commodities, land-allotment promises to Adivasis and Harijans, intimidation and violence, manipulation of the polling date, transport of voters, ministerial campaigning, threats to withhold development aid, and bogus voting through misuse of administrative machinery.
 ---
 
+## Summary
+
+In this 7 April 1974 letter, G. R. Majhi, General Secretary of the Swatantra Party’s Orissa unit, writes to M. R. Masani after the party’s defeat in the Orissa Assembly mid-term election. Majhi says he lost the Nawapara constituency by 1,600 votes and attributes the result to alleged vote-buying with money and commodities, land-allotment promises to Adivasis and Harijans, intimidation and violence, manipulation of the polling date, transport of voters, ministerial campaigning, threats to withhold development aid, and bogus voting through misuse of administrative machinery.
+
 ## Key points
 
 - Majhi reports a Swatantra Party defeat in the Orissa Assembly mid-term election and his own loss in Nawapara by 1,600 votes.

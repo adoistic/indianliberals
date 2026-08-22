@@ -51,6 +51,12 @@ summary: |-
   Masani nevertheless argues that the Party should give particular support to Shastri’s resolution. He says Shastri’s outlook and commitments would create more trouble than advantage for the Party, but maintains that supporting the resolution would do no harm under the prevailing political circumstances. He also notes that Rajaji had originally proposed the idea, even though the Party as a whole had not endorsed it.
 ---
 
+## Summary
+
+In this letter dated 3 August 1962, Minoo Masani writes to Maharaja P. K. Deo of Kalahandi about Prakash Vir Shastri’s non-official resolution calling for the resignation of Central and State Governments six months before the general elections. Masani explains that Shastri had previously been asked by C. Rajagopalachari (“Rajaji”), on behalf of the Central Organising Committee, to resign from the Party because his general outlook was inconsistent with the Party’s position.
+
+Masani nevertheless argues that the Party should give particular support to Shastri’s resolution. He says Shastri’s outlook and commitments would create more trouble than advantage for the Party, but maintains that supporting the resolution would do no harm under the prevailing political circumstances. He also notes that Rajaji had originally proposed the idea, even though the Party as a whole had not endorsed it.
+
 ## Key points
 
 - Masani discusses Prakash Vir Shastri’s resolution seeking the resignation of Central and State Governments six months before the general elections.

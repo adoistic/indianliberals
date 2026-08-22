@@ -49,6 +49,10 @@ summary: |-
   This single-page clipping-service sheet reproduces two reports from the Free Press Journal, Bombay, dated 3 and 4 June 1963. The catalogued right-hand report, “Swatantra chief in Gujarat resigns,” states that Bhailalbhai Patel, president of the Gujarat Swatantra Party, resigned from the presidency, reportedly because of his age. General Secretary Natvar Singh Solanki said Patel would be asked to continue until party elections, expected in about three months; the State executive was to meet at Vallabh Vidyanagar on 16 June to consider the resignation.
 ---
 
+## Summary
+
+This single-page clipping-service sheet reproduces two reports from the Free Press Journal, Bombay, dated 3 and 4 June 1963. The catalogued right-hand report, “Swatantra chief in Gujarat resigns,” states that Bhailalbhai Patel, president of the Gujarat Swatantra Party, resigned from the presidency, reportedly because of his age. General Secretary Natvar Singh Solanki said Patel would be asked to continue until party elections, expected in about three months; the State executive was to meet at Vallabh Vidyanagar on 16 June to consider the resignation.
+
 ## Key points
 
 - Bhailalbhai Patel is identified as president of the Gujarat Swatantra Party.

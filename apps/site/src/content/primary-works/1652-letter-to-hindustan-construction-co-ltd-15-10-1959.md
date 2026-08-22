@@ -50,6 +50,12 @@ summary: |-
   The remaining pages comprise administrative material related to the committee: a handwritten address for Miss Sheila Ramani, a list of confirmed members, a list of additional women to be asked, and a longer list of possible workers. The document records the party's effort to build a women's organizational structure in Bombay, but it does not set out a policy programme or describe the committee's subsequent activities.
 ---
 
+## Summary
+
+This six-page English-language archival letter, dated 15 October 1959, concerns the formation of the Swatantra Party's Ladies' Committee in Bombay. The sender, identified on an accompanying sheet as Hafeez Noorani, thanks Mrs. Gulabchand Hirachand for agreeing to join the committee and invites her to its first meeting at Bombay House on 20 October at 5 o'clock. A copy was sent to Mrs. Lynn with a request that she attend as well.
+
+The remaining pages comprise administrative material related to the committee: a handwritten address for Miss Sheila Ramani, a list of confirmed members, a list of additional women to be asked, and a longer list of possible workers. The document records the party's effort to build a women's organizational structure in Bombay, but it does not set out a policy programme or describe the committee's subsequent activities.
+
 ## Key points
 
 - The letter is dated 15 October 1959 and concerns the Swatantra Party in Bombay.

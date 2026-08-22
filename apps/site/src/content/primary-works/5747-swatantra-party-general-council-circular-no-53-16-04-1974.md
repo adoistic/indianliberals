@@ -50,6 +50,10 @@ summary: |-
   This one-page Swatantra Party circular, dated April 16, 1974, calls an urgent General Council meeting for May 1 in New Delhi. The meeting is intended to discuss and ratify a proposed merger involving the Swatantra Party, Utkal Congress, Samyukta Socialist Party (Raj Narain's Group), Muslim Majlis, Bharatiya Khetihar Sangh, Loktantrik Dal, Bharatiya Kranti Dal, and Harijan Sangharsh Samiti. The circular presents the merger as part of an effort to create a two-party system and reduce electoral confusion.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated April 16, 1974, calls an urgent General Council meeting for May 1 in New Delhi. The meeting is intended to discuss and ratify a proposed merger involving the Swatantra Party, Utkal Congress, Samyukta Socialist Party (Raj Narain's Group), Muslim Majlis, Bharatiya Khetihar Sangh, Loktantrik Dal, Bharatiya Kranti Dal, and Harijan Sangharsh Samiti. The circular presents the merger as part of an effort to create a two-party system and reduce electoral confusion.
+
 ## Key points
 
 - An urgent General Council meeting is scheduled for May 1, 1974, at Vithalbhai Patel House, New Delhi.

@@ -54,6 +54,14 @@ summary: |-
   The rest of the article surveys what Zamindar treats as symptoms of that drift: peasant violence in Bengal and Punjab, tribal violence in Uttar Pradesh, Naxalite and CPI(M) mobilisation, and the readiness of a section of Marxist opinion to justify anarchy as revolutionary. He argues that a society whose leaders no longer plan constructively, and whose ordinary citizens are pushed toward beggary rather than participation, cannot answer anarchy with more anarchy. The closing paragraphs plead that only the restoration of trust between citizens and the constitutional order, and a return to Swatantra-style principled politics, can prevent "sarvanash" (total destruction).
 ---
 
+## Summary
+
+This three-page item bundles a brief English cover letter from N. C. (Niranjan) Zamindar, an advocate in Indore, to Minoo Masani in Bombay, dated 16 August 1983, together with the Hindi article Zamindar is enclosing. In the letter Zamindar tells Masani he is sending a copy of his article "Arajkata" (Anarchy), released by the Sarvodaya Press Service and, he says, reprinted in dozens of newspapers; he notes that the piece invokes the creed of the Swatantra Party and asks Masani for his views on Swarajya-Sangam, described as the political movement of the Sarvodayans.
+
+The enclosed article, titled "अराजकता : सर्वनाश का निमंत्रण" (Anarchy: An Invitation to Destruction) and bylined Niranjan Zamindar, is a polemic against the drift toward anarchic politics in India. It recalls that in 1959 Rajaji had made a booklet of Swatantra Party principles his priority, and contrasts that with the Sarvodaya movement's turn after 1983 under Chandrashekhar, arguing that political parties and thinkers have since neglected the country's founding constitutional discipline. Zamindar cites a remark he attributes to Acharya Ramamurti on the Bihar violence — that if violence in Bihar breaks open the door and spreads across the country, the whole revolutionary and social force of the nation will be destroyed — and uses it to frame anarchy as an invitation to total ruin.
+
+The rest of the article surveys what Zamindar treats as symptoms of that drift: peasant violence in Bengal and Punjab, tribal violence in Uttar Pradesh, Naxalite and CPI(M) mobilisation, and the readiness of a section of Marxist opinion to justify anarchy as revolutionary. He argues that a society whose leaders no longer plan constructively, and whose ordinary citizens are pushed toward beggary rather than participation, cannot answer anarchy with more anarchy. The closing paragraphs plead that only the restoration of trust between citizens and the constitutional order, and a return to Swatantra-style principled politics, can prevent "sarvanash" (total destruction).
+
 ## Key points
 
 - N. C. Zamindar, an advocate writing from Bada Rawla, Juni Indore, forwards Minoo Masani a copy of his Hindi article "Arajkata" (Anarchy) on 16 August 1983.

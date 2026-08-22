@@ -53,6 +53,12 @@ summary: |-
   The motion asks the court to direct provisional registration of the petitioners as a political party without requiring compliance with Section 29-A of the Representation of the People Act. Alternatively, it seeks an interim stay restraining the respondents from insisting on that compliance. The filing also requests an early final hearing of Writ Petition No. 14 of 1995, preferably before 30 October 1995, and leaves the court free to grant any further appropriate orders. The rendered pages contain no judgment, arguments on the merits, or final decision.
 ---
 
+## Summary
+
+This four-page English court filing is a September 1995 Notice of Motion before the High Court of Judicature at Bombay in Writ Petition No. 14 of 1995. The Swatantra Party (Maharashtra), through its General Secretary L. R. Sampat, and S. V. Raju, identified as a citizen and editor of Freedom First, are named as petitioners against the Union of India, the Chief Election Commissioner of India, and the Secretary of the Election Commission of India.
+
+The motion asks the court to direct provisional registration of the petitioners as a political party without requiring compliance with Section 29-A of the Representation of the People Act. Alternatively, it seeks an interim stay restraining the respondents from insisting on that compliance. The filing also requests an early final hearing of Writ Petition No. 14 of 1995, preferably before 30 October 1995, and leaves the court free to grant any further appropriate orders. The rendered pages contain no judgment, arguments on the merits, or final decision.
+
 ## Key points
 
 - The document is a Notice of Motion No. 1995 before the Bombay High Court.

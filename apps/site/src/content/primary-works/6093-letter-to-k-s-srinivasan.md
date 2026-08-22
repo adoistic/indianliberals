@@ -49,6 +49,12 @@ summary: |-
   The surviving document consists of the letter and its addressed envelope. It offers no substantive discussion of the resolution's contents, policy, or political context beyond Rajagopalachari's expression of appreciation and support.
 ---
 
+## Summary
+
+This two-page English letter from C. Rajagopalachari, dated 10th December 1962, acknowledges a communication from K. S. Srinivasan, the Swatantra Party's office secretary in Bombay. Rajagopalachari thanks Srinivasan for conveying the Party's resolution of 8th December and responds with greetings, a blessing, and good wishes.
+
+The surviving document consists of the letter and its addressed envelope. It offers no substantive discussion of the resolution's contents, policy, or political context beyond Rajagopalachari's expression of appreciation and support.
+
 ## Key points
 
 - The letter is dated 10th December 1962.

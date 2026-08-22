@@ -55,6 +55,12 @@ summary: |-
   The continuation develops recommendations for the 1967 elections. Masani calls for advance nomination of candidates, scrutiny of their integrity and competence, stronger and more disciplined party organisation, broad-based representation, clean accounting of party funds, and resistance to political corruption and indiscipline. He argues that political parties are means rather than ends, and closes by defending democratic conviction against the idea that cynicism, disloyalty, and misuse of funds are necessary in a poor country. The supplied pages are separated by a missing intervening printed page, so the summary cannot account for material between printed pages 35 and 37.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that the 1962 General Election exposed a serious weakness in Indian democracy: the absence of an effective opposition. He rejects the claim that India’s poverty or backwardness makes one-party government desirable, pointing instead to Kenya and to the need for opposition in a developing country. The Congress’s large parliamentary majority, he contends, did not represent a comparable majority of the popular vote, while proportional representation and a more genuinely competitive party system might have produced a healthier political balance. Masani also criticises the Congress’s organisational dominance, caste and local influence, patronage, and the limited reach of the Swatantra Party’s campaign.
+
+The continuation develops recommendations for the 1967 elections. Masani calls for advance nomination of candidates, scrutiny of their integrity and competence, stronger and more disciplined party organisation, broad-based representation, clean accounting of party funds, and resistance to political corruption and indiscipline. He argues that political parties are means rather than ends, and closes by defending democratic conviction against the idea that cynicism, disloyalty, and misuse of funds are necessary in a poor country. The supplied pages are separated by a missing intervening printed page, so the summary cannot account for material between printed pages 35 and 37.
+
 ## Key points
 
 - The 1962 election failed to create an effective parliamentary opposition.

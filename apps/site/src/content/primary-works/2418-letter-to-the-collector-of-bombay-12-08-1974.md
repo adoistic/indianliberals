@@ -48,6 +48,12 @@ summary: |-
   Bhatia asks the Collector to contact the Bombay Regional Transport Office and obtain corrected records, asserting that the sender’s records show no amount due to the Bombay RTO or anyone else in Bombay. The second rendered page is an attached Municipal Corporation of Greater Bombay bill-cum-receipt for a jeep, showing a vehicle tax charge of Rs. 35 for the period July 1972 to September 1972 and bearing dated stamps and signatures.
 ---
 
+## Summary
+
+This two-page English administrative letter, dated August 12, 1974, is marked “TRUE COPY” and signed by V. P. Bhatia, Executive Secretary. Addressed to the Collector of Bombay, it responds to a demand for payment of land revenue under Section 267 of the Maharashtra Act No. XLI of 1966 concerning three vehicles registered in the name of Minocher Rustom Masani. The letter states that the vehicles had been purchased in January 1967, subsequently sent to West Bengal and Jaipur, and later sold rather than returned to Bombay.
+
+Bhatia asks the Collector to contact the Bombay Regional Transport Office and obtain corrected records, asserting that the sender’s records show no amount due to the Bombay RTO or anyone else in Bombay. The second rendered page is an attached Municipal Corporation of Greater Bombay bill-cum-receipt for a jeep, showing a vehicle tax charge of Rs. 35 for the period July 1972 to September 1972 and bearing dated stamps and signatures.
+
 ## Key points
 
 - The document is a true copy of a letter dated August 12, 1974, addressed to the Collector of Bombay.

@@ -47,6 +47,10 @@ summary: |-
   This one-page typed confirmation copy is a letter from “MASANI” in Bombay, dated 5 April 1970, addressed to “RAJU.” It instructs the recipient to dispatch invitations to members of the Gujarat State Parliamentary Board. The document therefore records a brief administrative communication concerning party-political organization; it does not provide further details about the meeting, invitees, or the board’s activities.
 ---
 
+## Summary
+
+This one-page typed confirmation copy is a letter from “MASANI” in Bombay, dated 5 April 1970, addressed to “RAJU.” It instructs the recipient to dispatch invitations to members of the Gujarat State Parliamentary Board. The document therefore records a brief administrative communication concerning party-political organization; it does not provide further details about the meeting, invitees, or the board’s activities.
+
 ## Key points
 
 - The document is a single-page typed office letter and confirmation copy.

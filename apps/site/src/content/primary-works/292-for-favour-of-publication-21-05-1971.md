@@ -55,6 +55,12 @@ summary: |-
   The note presents Masani as doubtful that the existing political parties can deliver meaningful change, citing their loss of credibility and the Gujarat and Bihar movements as warning signs. He identifies the armed forces and Jayaprakash Narayan as the only stable and hopeful factors, while preferring a Gandhian Satyagraha led by Narayan to military intervention. The document closes by assigning every citizen a role in preserving democracy and working for a prosperous India. The page is dated Bombay, May 21, but no year, publisher, or issuer is visible.
 ---
 
+## Summary
+
+This one-page press note reports M. R. Masani’s address to the Rotary Club of Bombay on “Reform or Revolution?”, alongside his appeal for an immediate end to the railway strike. Masani argues that twenty years of statist policies inspired by Marxist ideology have left India facing political, economic, and moral crises, requiring a decisive reversal of current policies rather than a minor adjustment. He supports the government’s position in disputes involving Indian Airlines and the Railways but condemns intimidation and the mistreatment of railway employees.
+
+The note presents Masani as doubtful that the existing political parties can deliver meaningful change, citing their loss of credibility and the Gujarat and Bihar movements as warning signs. He identifies the armed forces and Jayaprakash Narayan as the only stable and hopeful factors, while preferring a Gandhian Satyagraha led by Narayan to military intervention. The document closes by assigning every citizen a role in preserving democracy and working for a prosperous India. The page is dated Bombay, May 21, but no year, publisher, or issuer is visible.
+
 ## Key points
 
 - Masani appeals to trade-union leaders to call off the railway strike immediately and advocates an orderly retreat.

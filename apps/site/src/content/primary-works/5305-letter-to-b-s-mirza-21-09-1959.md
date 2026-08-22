@@ -45,6 +45,10 @@ summary: |-
   This two-page English postcard letter, dated September 21, 1959, was sent from Goswami Chowk, Bikaner (Rajasthan), to Miss B. S. Mirza. A. Goswami thanks Mirza for sending a copy of the Swatantra Party's Statement of Principles and the opening remarks of Minoo Masani. The brief exchange documents contemporary circulation of Swatantra Party materials and engagement with its political arguments.
 ---
 
+## Summary
+
+This two-page English postcard letter, dated September 21, 1959, was sent from Goswami Chowk, Bikaner (Rajasthan), to Miss B. S. Mirza. A. Goswami thanks Mirza for sending a copy of the Swatantra Party's Statement of Principles and the opening remarks of Minoo Masani. The brief exchange documents contemporary circulation of Swatantra Party materials and engagement with its political arguments.
+
 ## Key points
 
 - The document is a personal postcard letter rather than a published essay or pamphlet.

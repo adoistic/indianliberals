@@ -46,6 +46,12 @@ summary: |-
   Rajagopalachari agrees either to travel to Delhi on 5 September or to meet Masani in Madras on 2 September, but says he prefers going to Delhi because it seems unfair to ask Masani to travel to Madras every time. The letter closes with Rajagopalachari's handwritten signature and is addressed to Masani in Bombay.
 ---
 
+## Summary
+
+This single-page English letter from C. Rajagopalachari to Minoo Masani is dated 30 July 1964 and written from Rajagopalachari's address in Madras. Rajagopalachari acknowledges Masani's letter of 29 July and responds promptly regarding a possible meeting.
+
+Rajagopalachari agrees either to travel to Delhi on 5 September or to meet Masani in Madras on 2 September, but says he prefers going to Delhi because it seems unfair to ask Masani to travel to Madras every time. The letter closes with Rajagopalachari's handwritten signature and is addressed to Masani in Bombay.
+
 ## Key points
 
 - The letter is dated 30 July 1964 and was sent from Madras.

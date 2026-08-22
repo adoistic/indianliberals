@@ -52,6 +52,12 @@ summary: |-
   A second list extends the same priority treatment to twelve state- or region-specific parties, including the All Party Hill Leaders’ Conference in Assam, the Dravida Munetra Kazhakam Party in Madras, the Indian Union Muslim League and Kerala Congress State Committee in Kerala, and organisations in Goa, Nagaland, Maharashtra, Pondicherry, Punjab, and West Bengal. The circular states that the authorisation takes immediate effect and remains valid until 28 February 1967. It was signed by Dinshaw F. D. Joshi, Director of Telephone Traffic, and circulated to telephone and telegraph officials, the Chief Election Commissioner, and the listed political parties.
 ---
 
+## Summary
+
+This two-page government circular, dated 6 January 1967, authorises the booking of trunk telephone calls marked “IMPORTANT” for recognised political parties during the 1967 General Election. The authorisation applies throughout India to party presidents or chairmen and general secretaries, and, where applicable, to their regional counterparts. The first list covers eight parties, including the Indian National Congress, Communist Party of India, Praja Socialist Party, Republican Party of India, and Swatantra Party.
+
+A second list extends the same priority treatment to twelve state- or region-specific parties, including the All Party Hill Leaders’ Conference in Assam, the Dravida Munetra Kazhakam Party in Madras, the Indian Union Muslim League and Kerala Congress State Committee in Kerala, and organisations in Goa, Nagaland, Maharashtra, Pondicherry, Punjab, and West Bengal. The circular states that the authorisation takes immediate effect and remains valid until 28 February 1967. It was signed by Dinshaw F. D. Joshi, Director of Telephone Traffic, and circulated to telephone and telegraph officials, the Chief Election Commissioner, and the listed political parties.
+
 ## Key points
 
 - The Indian Posts and Telegraphs Department issued the circular on 6 January 1967 for the General Election of 1967.

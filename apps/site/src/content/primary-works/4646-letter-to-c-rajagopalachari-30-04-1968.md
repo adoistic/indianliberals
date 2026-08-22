@@ -49,6 +49,12 @@ summary: |-
   Vaidya alleges that party leaders obstructed his nomination, failed to support him after the Central Parliamentary Board selected him, excluded him from a meeting of Swatantra legislators, and portrayed his contacts with non-Swatantra MLAs as grounds for complaint. He argues that the Gujarat Swatantra Party's internal intrigues and falsehoods have damaged public confidence and warns Rajagopalachari that the party will face further disappointment unless it undertakes “large scale amputations.” The letter closes by questioning whether Swatantra can provide an alternative to the Congress in Gujarat.
 ---
 
+## Summary
+
+In this letter dated 30 April 1968, Babubhai P. Vaidya writes to C. Rajagopalachari (Rajaji) after losing the Swatantra Party's Rajya Sabha election in Gujarat, despite the party's reported strength of 57 members in the Gujarat Assembly. Vaidya presents the letter not as a post-mortem of his defeat but as an appeal to Rajagopalachari, whom he describes as an “apostle of truth and a fighter against untruth.” He attributes his defeat to opposition within the Gujarat unit, particularly from H. M. Patel and Bhailalbhai D. Patel, and recounts disputes over M. R. Masani's candidacy for the Rajkot parliamentary seat.
+
+Vaidya alleges that party leaders obstructed his nomination, failed to support him after the Central Parliamentary Board selected him, excluded him from a meeting of Swatantra legislators, and portrayed his contacts with non-Swatantra MLAs as grounds for complaint. He argues that the Gujarat Swatantra Party's internal intrigues and falsehoods have damaged public confidence and warns Rajagopalachari that the party will face further disappointment unless it undertakes “large scale amputations.” The letter closes by questioning whether Swatantra can provide an alternative to the Congress in Gujarat.
+
 ## Key points
 
 - Vaidya reports that he lost the Swatantra Party's Rajya Sabha contest in Gujarat despite the party's stated Assembly strength of 57.

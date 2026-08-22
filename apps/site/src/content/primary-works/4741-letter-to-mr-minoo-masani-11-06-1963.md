@@ -48,6 +48,12 @@ summary: |-
   The letter also addresses arrangements for a party meeting: Rajagopalachari asks Masani to choose any date in August and says that the venue may be left to Masani and Ranga. He closes by expressing deep gratitude for Masani’s victory at Rajkot. The page is a personal political correspondence document rather than a formal statement or policy essay.
 ---
 
+## Summary
+
+This one-page letter, dated 11 June 1963, is C. Rajagopalachari’s response to Minoo Masani concerning Masani’s letter of 8 June about Bhailalbhai. Rajagopalachari says he is pleased by Masani’s letter to Kripalani but cautions that they cannot expect a miracle.
+
+The letter also addresses arrangements for a party meeting: Rajagopalachari asks Masani to choose any date in August and says that the venue may be left to Masani and Ranga. He closes by expressing deep gratitude for Masani’s victory at Rajkot. The page is a personal political correspondence document rather than a formal statement or policy essay.
+
 ## Key points
 
 - Rajagopalachari writes to Minoo Masani from his Madras address on 11 June 1963.

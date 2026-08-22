@@ -55,6 +55,12 @@ summary: |-
   A substantial section discusses the legal challenge brought by Minoo Masani through Freedom First. Drawing on S. J. Sorabjee's account and the Bombay High Court judgment, it presents judicial principles limiting the censor's discretion and insists that the press must remain a forum for competing political, economic, and social ideas. The later pages catalogue telephone censorship, pressure on newspapers and editors, new press ordinances, detention and intimidation of journalists, the suppression of periodicals, government control of news agencies, and the expulsion of foreign correspondents. The brochure concludes with the P.E.N. resolution defending unhampered communication and opposing arbitrary censorship.
 ---
 
+## Summary
+
+This brochure, published by the Ministry of Information and Broadcasting in New Delhi, examines press censorship during India's Emergency beginning on 25 June 1975. It contrasts the constitutional guarantee of freedom of expression with the immediate imposition of censorship, the cutting of electricity to newspaper presses in Delhi, and the Censorship Order issued under the Defence of India Rules. The text reproduces the order's restrictions and argues that the press had previously operated with considerable freedom, including during the 1962 and 1965 emergencies.
+
+A substantial section discusses the legal challenge brought by Minoo Masani through Freedom First. Drawing on S. J. Sorabjee's account and the Bombay High Court judgment, it presents judicial principles limiting the censor's discretion and insists that the press must remain a forum for competing political, economic, and social ideas. The later pages catalogue telephone censorship, pressure on newspapers and editors, new press ordinances, detention and intimidation of journalists, the suppression of periodicals, government control of news agencies, and the expulsion of foreign correspondents. The brochure concludes with the P.E.N. resolution defending unhampered communication and opposing arbitrary censorship.
+
 ## Key points
 
 - The brochure describes the Emergency-era censorship regime introduced after 25 June 1975.

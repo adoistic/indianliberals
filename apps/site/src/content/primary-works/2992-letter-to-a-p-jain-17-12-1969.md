@@ -49,6 +49,12 @@ summary: |-
   The continuation records that, under a special arrangement, cash payment had already been made to Mrs. Singh, identified as the wife of the Maharaja of Bharatpur, for salary and allowances at Willingdon Hospital. It also states that she was given the requisite forms for reimbursement of medical expenses, particularly meeting expenses related to blood transfusion, and that prompt action would be taken to arrange reimbursement.
 ---
 
+## Summary
+
+This two-page letter from M. R. Masani to Mr. A. P. Jain, dated 17 December 1969, concerns reimbursement for eight bottles of blood supplied by the Blood Bank in Bombay. Masani explains that three bottles had been paid for in a first instalment and five in a second, both delivered to Willingdon Hospital by Mrs. Pamela Singh. He asks Jain to liaise with Mrs. Singh and arrange for the Parliament Secretariat to remit payment directly to Mrs. Leela Noolgaokar at the Bombay Blood Bank once the receipts are received.
+
+The continuation records that, under a special arrangement, cash payment had already been made to Mrs. Singh, identified as the wife of the Maharaja of Bharatpur, for salary and allowances at Willingdon Hospital. It also states that she was given the requisite forms for reimbursement of medical expenses, particularly meeting expenses related to blood transfusion, and that prompt action would be taken to arrange reimbursement.
+
 ## Key points
 
 - The letter is dated 17 December 1969 and is sent from 2 Tughlak Road, New Delhi.

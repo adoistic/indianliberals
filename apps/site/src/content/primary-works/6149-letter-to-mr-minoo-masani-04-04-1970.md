@@ -43,6 +43,10 @@ summary: |-
   This single-page English letter is dated 4 April 1970 and was sent from Bombay by a sender identified in type as “MASANI,” with a handwritten signature. It is addressed to “RAJU” in care of “SURAJYAN,” also in Bombay. The visible message is limited to the line “YOURS THIRD APPROVE COVERING LETTER,” whose wording and intended meaning are unclear.
 ---
 
+## Summary
+
+This single-page English letter is dated 4 April 1970 and was sent from Bombay by a sender identified in type as “MASANI,” with a handwritten signature. It is addressed to “RAJU” in care of “SURAJYAN,” also in Bombay. The visible message is limited to the line “YOURS THIRD APPROVE COVERING LETTER,” whose wording and intended meaning are unclear.
+
 ## Key points
 
 - The document is a one-page typed office or personal letter.

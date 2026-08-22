@@ -49,6 +49,12 @@ summary: |-
   The writer invokes Rajaji in connection with the campaign and presents the Rajkot experience as an encouraging beginning. The letter further refers to an impending election experiment and expresses hope that the effort will generate wider public support. The sender's name and signature are not legible in the rendered pages, so the author remains unidentified.
 ---
 
+## Summary
+
+This handwritten English letter, dated 31 May 1963 and addressed to Minoo Masani, reflects on the recent political campaign at Rajkot. The writer congratulates Masani on completing the task of corresponding with supporters and refers to people who helped in what is described as a historic campaign. The letter also discusses plans to write to several individuals and considers the significance of the campaign for the future of political work.
+
+The writer invokes Rajaji in connection with the campaign and presents the Rajkot experience as an encouraging beginning. The letter further refers to an impending election experiment and expresses hope that the effort will generate wider public support. The sender's name and signature are not legible in the rendered pages, so the author remains unidentified.
+
 ## Key points
 
 - The letter is dated 31 May 1963 and addressed to Minoo Masani.

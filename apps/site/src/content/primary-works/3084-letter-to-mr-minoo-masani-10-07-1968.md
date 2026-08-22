@@ -52,6 +52,12 @@ summary: |-
   The letter asks Masani to approve, sign, and return the draft motion in triplicate so that it can be submitted to the Lok Sabha. It also stresses urgency: the motion should be tabled during the week in order to secure precedence over other members’ motions. The page includes a handwritten signature and several annotations, including one identifying “Piloo Mody”; the signature itself remains somewhat difficult to read.
 ---
 
+## Summary
+
+This single-page letter, dated July 10, 1968, is written from the Swatantra Party Parliamentary Office in New Delhi to Minoo Masani, M.P. The writer, attributed in the metadata to Piloo Mody, reports having consulted others and recommends that the party table an adjournment motion in Parliament concerning reported Soviet arms aid to Pakistan.
+
+The letter asks Masani to approve, sign, and return the draft motion in triplicate so that it can be submitted to the Lok Sabha. It also stresses urgency: the motion should be tabled during the week in order to secure precedence over other members’ motions. The page includes a handwritten signature and several annotations, including one identifying “Piloo Mody”; the signature itself remains somewhat difficult to read.
+
 ## Key points
 
 - The letter is dated July 10, 1968, and is issued on Swatantra Party Parliamentary Office letterhead.

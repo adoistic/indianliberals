@@ -52,6 +52,12 @@ summary: |-
   Masani also argues that India must reduce unproductive public expenditure and reconsider the expansion of public-sector enterprises. He links economic stagnation to inflation, licensing, import restrictions, and an over-controlled economy, and points to Ludwig Erhard's post-war German reforms as an example of the benefits of economic freedom. The letter closes by connecting economic liberalisation with political democracy: Masani calls for decentralisation, freer collective bargaining, and the restoration of a free market as prerequisites for raising living standards. The page is signed by Minoo Masani and addressed to “H. M.”, evidently the Finance Minister.
 ---
 
+## Summary
+
+In this open letter, Minoo Masani urges the Finance Minister to use the Union Budget to reverse what he presents as a damaging trajectory of taxation, controls, and state expansion. He argues that high direct and indirect taxes discourage investment, encourage evasion, and burden industry, while excessive excise duties and corporate taxation undermine production. Drawing on Nani Palkhivala's budget speeches and references to tax studies, Masani calls for lower tax rates, fewer exemptions and controls, and a broader tax base rather than continued reliance on punitive rates.
+
+Masani also argues that India must reduce unproductive public expenditure and reconsider the expansion of public-sector enterprises. He links economic stagnation to inflation, licensing, import restrictions, and an over-controlled economy, and points to Ludwig Erhard's post-war German reforms as an example of the benefits of economic freedom. The letter closes by connecting economic liberalisation with political democracy: Masani calls for decentralisation, freer collective bargaining, and the restoration of a free market as prerequisites for raising living standards. The page is signed by Minoo Masani and addressed to “H. M.”, evidently the Finance Minister.
+
 ## Key points
 
 - Masani asks the Finance Minister to use the Union Budget to reverse excessive taxation and economic controls.

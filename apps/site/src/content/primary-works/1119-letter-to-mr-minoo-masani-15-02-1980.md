@@ -44,6 +44,12 @@ summary: |-
   The second half of the note announces Singh's intention to travel to Bombay after 15 March and requests that Masani let him know whether he will be in the city between 15 and 25 March, so that Singh can fix his Bombay programme accordingly. The letter is addressed to Masani at Breach Candy House, Bhulabhai Desai Road, Bombay 400026, is marked "Personal", and closes with kind regards over Singh's signature.
 ---
 
+## Summary
+
+A one-page personal letter from Govind Singh, writing on "The Palace, Maihar (M.P.)" stationery, to Minoo Masani, dated 15 February 1980. Singh reminds Masani of an earlier letter he sent on 28 January 1980 to 148, Mahatma Gandhi Road, notes that he has received no reply, and asks Masani to confirm whether that letter reached him.
+
+The second half of the note announces Singh's intention to travel to Bombay after 15 March and requests that Masani let him know whether he will be in the city between 15 and 25 March, so that Singh can fix his Bombay programme accordingly. The letter is addressed to Masani at Breach Candy House, Bhulabhai Desai Road, Bombay 400026, is marked "Personal", and closes with kind regards over Singh's signature.
+
 ## Key points
 
 - One-page personal letter dated 15 February 1980 from Govind Singh at "The Palace, Maihar (M.P.)" to Minoo Masani.

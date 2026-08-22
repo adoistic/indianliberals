@@ -52,6 +52,12 @@ summary: |-
   The minutes also record a resolution concerning future nominations to Joint Select Committees. The party resolved that, wherever possible, preference should be given to members who had not previously had an opportunity to serve, taking into account their attendance and interest in the House. The meeting concluded with a vote of thanks to the chair and was signed by C. L. Narasimha Reddy in his capacity as Chief Whip.
 ---
 
+## Summary
+
+This single-page record from the Swatantra Party Parliamentary Office documents an Executive Committee meeting held on 22 November 1965 in the Opposition Members' Room, Parliament House, New Delhi. It lists seven members present, with Prof. N. G. Ranga in the chair, and records the selection of Sardar Kapur Singh to represent the committee on the Select Committee examining the Delhi Administration Bill, 1965.
+
+The minutes also record a resolution concerning future nominations to Joint Select Committees. The party resolved that, wherever possible, preference should be given to members who had not previously had an opportunity to serve, taking into account their attendance and interest in the House. The meeting concluded with a vote of thanks to the chair and was signed by C. L. Narasimha Reddy in his capacity as Chief Whip.
+
 ## Key points
 
 - The Executive Committee meeting took place on 22 November 1965 at Parliament House, New Delhi.

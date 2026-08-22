@@ -52,6 +52,12 @@ summary: |-
   Masani maintains that the remarks were a fair comment on a matter of public interest and concludes that there is no reason for the matter to be referred to the Committee of Privileges or for any further action. The attached initiating letter asks the Speaker to permit a question of privilege concerning a newspaper report in The Statesman, which described alleged disruption during the Finance Minister’s television address about a purported World Bank “leakage” and attributed the conduct to CPI(M), left, and National Front members.
 ---
 
+## Summary
+
+This three-page English correspondence records M. R. Masani’s April 13, 1992 reply to T. S. Ahluwalia of the Lok Sabha Secretariat concerning remarks made after disorder in the Lok Sabha on February 29, 1992. Masani explains that his criticism was directed at a handful of members whose conduct he witnessed, not at the Lok Sabha as a whole. He defends the use of the word “hooliganism,” arguing that it describes noisy, rough conduct and was not a personal accusation against any particular member.
+
+Masani maintains that the remarks were a fair comment on a matter of public interest and concludes that there is no reason for the matter to be referred to the Committee of Privileges or for any further action. The attached initiating letter asks the Speaker to permit a question of privilege concerning a newspaper report in The Statesman, which described alleged disruption during the Finance Minister’s television address about a purported World Bank “leakage” and attributed the conduct to CPI(M), left, and National Front members.
+
 ## Key points
 
 - Masani’s letter is dated April 13, 1992 and is addressed to T. S. Ahluwalia, Joint Secretary, Lok Sabha Secretariat.

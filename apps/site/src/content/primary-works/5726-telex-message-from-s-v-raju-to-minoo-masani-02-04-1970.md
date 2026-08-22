@@ -50,6 +50,12 @@ summary: |-
   Raju also states that he is meeting Dandekar to finalise a draft resolution. The message is an administrative communication concerning party coordination, correspondence, and the preparation of a resolution.
 ---
 
+## Summary
+
+This single-page English telex, sent by Raju to Mr. Masani on 2 April 1970, confirms agreement with a preceding telex from Cooper. It reports that a letter to Members of Legislative Assemblies and State Executive members in Gujarat will be prepared for dispatch by 8 April, as requested.
+
+Raju also states that he is meeting Dandekar to finalise a draft resolution. The message is an administrative communication concerning party coordination, correspondence, and the preparation of a resolution.
+
 ## Key points
 
 - The document is a telex from Raju to Mr. Masani dated 2 April 1970.

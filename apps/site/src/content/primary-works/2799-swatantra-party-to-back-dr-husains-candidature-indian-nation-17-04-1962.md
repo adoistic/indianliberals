@@ -49,6 +49,12 @@ summary: |-
   The report also describes the Delhi unit’s plans to strengthen the party’s position in Parliament by encouraging members to establish themselves in the new Parliament and by coordinating the work of its legislators in Parliament and the state assemblies. Dhyabhai Patel is quoted as saying that the party would function as an organised opposition, while Maharaja Sawai Man Singh of Jaipur is reported to have attended a reception held for Swatantra Party members.
 ---
 
+## Summary
+
+This one-page clipping from the Indian Nation of Patna, dated 17 April 1962, reports that the Swatantra Party decided to support Dr. Zakir Husain for Vice-President and Sardar Hukam Singh for Speaker of the Lok Sabha. The decision was taken at a meeting attended by the party’s members of both Houses of Parliament, including N. G. Ranga and M. R. Masani.
+
+The report also describes the Delhi unit’s plans to strengthen the party’s position in Parliament by encouraging members to establish themselves in the new Parliament and by coordinating the work of its legislators in Parliament and the state assemblies. Dhyabhai Patel is quoted as saying that the party would function as an organised opposition, while Maharaja Sawai Man Singh of Jaipur is reported to have attended a reception held for Swatantra Party members.
+
 ## Key points
 
 - The Swatantra Party announced support for Dr. Zakir Husain’s vice-presidential candidature.

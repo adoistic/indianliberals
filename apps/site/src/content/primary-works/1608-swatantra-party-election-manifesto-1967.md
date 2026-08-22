@@ -70,6 +70,10 @@ summary: |-
   The Swatantra Party’s 1967 Election Manifesto presents India as being in political, economic, social, and international disarray after two decades of Congress rule. It criticizes constitutional amendments and the erosion of Fundamental Rights, inflation, taxation, debt, industrial stagnation, corruption, social division, and what it describes as an ineffective policy of non-alignment. Against proposals for greater centralisation, Statism, or dictatorship in the name of Socialism, the manifesto defends individual initiative, private enterprise, personal freedom, property, and restrained government.
 ---
 
+## Summary
+
+The Swatantra Party’s 1967 Election Manifesto presents India as being in political, economic, social, and international disarray after two decades of Congress rule. It criticizes constitutional amendments and the erosion of Fundamental Rights, inflation, taxation, debt, industrial stagnation, corruption, social division, and what it describes as an ineffective policy of non-alignment. Against proposals for greater centralisation, Statism, or dictatorship in the name of Socialism, the manifesto defends individual initiative, private enterprise, personal freedom, property, and restrained government.
+
 ## Key points
 
 - The manifesto frames the 1967 election as a choice between continued Congress rule and a Swatantra government committed to restoring civil liberties and democratic institutions.

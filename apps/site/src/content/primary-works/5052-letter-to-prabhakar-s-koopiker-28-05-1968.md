@@ -52,6 +52,12 @@ summary: |-
   Koppiker recalls that the Swatantra Party had been viewed as a liberal-democratic alternative to socialism, capable of bringing social justice to all sections of society without sectionalism, regionalism, emotionalism, or slogan-mongering. He laments that, after nearly eight years, the party is instead witnessing internal disintegration, and urges members to remove from the party’s principles any provision that permits conduct harmful to its interests. The page does not identify the specific principle or “last item” to which he objects.
 ---
 
+## Summary
+
+This one-page letter, dated 28 May 1968 and signed by P. S. Koppiker, informs the General Secretary of the Swatantra Party that Koppiker cannot attend the General Council meetings on 1 and 2 June because of medical advice. The main purpose of the letter, however, is political: Koppiker expresses concern about the party’s internal disunity and argues that discipline and organisational unity are essential to its survival and effectiveness.
+
+Koppiker recalls that the Swatantra Party had been viewed as a liberal-democratic alternative to socialism, capable of bringing social justice to all sections of society without sectionalism, regionalism, emotionalism, or slogan-mongering. He laments that, after nearly eight years, the party is instead witnessing internal disintegration, and urges members to remove from the party’s principles any provision that permits conduct harmful to its interests. The page does not identify the specific principle or “last item” to which he objects.
+
 ## Key points
 
 - Koppiker requests leave from the Swatantra Party General Council meetings scheduled for 1 and 2 June 1968.

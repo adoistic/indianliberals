@@ -62,6 +62,12 @@ summary: |-
   The address then turns to post-independence decline: political and administrative corruption, criminalisation of politics, parliamentary disorder, misuse of Article 356, and the erosion of constitutional morality. Khanna links these failures to inadequate attention to Directive Principles, education, population control, and human development, citing India’s 123rd-place ranking among 160 countries in the 1990 Human Development Index. His proposed agenda for the twenty-first century includes reawakening national conscience, building character and discipline, strengthening public opinion, reforming the electoral system, auditing party funds, and creating a work culture. The booklet also includes a covering letter and seminar title pages; no material beyond the address’s printed page 10 was present.
 ---
 
+## Summary
+
+In this keynote address delivered at the 6 March 1994 national seminar, Justice H. R. Khanna presents India’s national values through the Constitution, secularism, social tolerance, democratic discipline, and personal integrity. He argues that secularism requires the State to treat the devout, agnostic, and atheist alike, while India’s civilisational tradition is defined by assimilation, catholicity of outlook, and freedom of thought. Drawing on Gandhi, S. Radhakrishnan, and Swami Vivekananda, Khanna frames religious harmony and the fellowship of faiths as central to the Indian ideal.
+
+The address then turns to post-independence decline: political and administrative corruption, criminalisation of politics, parliamentary disorder, misuse of Article 356, and the erosion of constitutional morality. Khanna links these failures to inadequate attention to Directive Principles, education, population control, and human development, citing India’s 123rd-place ranking among 160 countries in the 1990 Human Development Index. His proposed agenda for the twenty-first century includes reawakening national conscience, building character and discipline, strengthening public opinion, reforming the electoral system, auditing party funds, and creating a work culture. The booklet also includes a covering letter and seminar title pages; no material beyond the address’s printed page 10 was present.
+
 ## Key points
 
 - The Constitution and its Directive Principles are presented as the normative foundation of national life.

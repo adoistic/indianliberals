@@ -50,6 +50,12 @@ summary: |-
   The letter asks every party unit to bring party members, sympathisers, and well-wishers, and to publicise the event using posters obtained from the party office. A handwritten Hindi translation occupies the lower portion of the page. The signer's typed name is faint and provisionally read in the metadata as P. S. Kophikar, General Secretary.
 ---
 
+## Summary
+
+This one-page Swatantra Party (Bombay Region) letter, dated 2 December 1970, invites party units to a public meeting at Sundarbai Hall, Churchgate, to celebrate C. Rajagopalachari (Rajaji)'s 93rd birthday on 8 December. The meeting is described as a tribute to Rajaji as a revered leader, elder statesman, and active guide to the party and the country; Minoo Masani and M. R. Pai are identified as speakers, while Lalchand Hirachand is to preside.
+
+The letter asks every party unit to bring party members, sympathisers, and well-wishers, and to publicise the event using posters obtained from the party office. A handwritten Hindi translation occupies the lower portion of the page. The signer's typed name is faint and provisionally read in the metadata as P. S. Kophikar, General Secretary.
+
 ## Key points
 
 - The letter is dated 2 December 1970 and concerns Rajaji's 93rd birthday celebration.

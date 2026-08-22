@@ -46,6 +46,10 @@ summary: |-
   This single-page English letter, dated 25 September 1959 and written on Swatantra Party letterhead, acknowledges K. M. Munshi’s letter of 21 September. The unidentified sender reports that, at Krishnaswamy’s request, a cheque for Rs. 2,500 was sent to Raghavendra Pratap Singh, the Swatantra Party’s treasurer in Lucknow, on 22 September.
 ---
 
+## Summary
+
+This single-page English letter, dated 25 September 1959 and written on Swatantra Party letterhead, acknowledges K. M. Munshi’s letter of 21 September. The unidentified sender reports that, at Krishnaswamy’s request, a cheque for Rs. 2,500 was sent to Raghavendra Pratap Singh, the Swatantra Party’s treasurer in Lucknow, on 22 September.
+
 ## Key points
 
 - The letter is addressed to Shri K. M. Munshi and dated 25 September 1959.

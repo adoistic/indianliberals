@@ -47,6 +47,10 @@ summary: |-
   In the rendered pages, Minoo Masani presents Jayaprakash Narayan (“JP”) through two sharply observed episodes that emphasize his political intensity, intellectual independence, and capacity for self-criticism. The first recalls a 1936 Indian National Congress session at Lucknow, where Rajendra Prasad’s criticism of Jawaharlal Nehru’s Marxist presidential address provoked JP. Masani describes JP’s irritation at a follower’s mocking remark about Prasad and his subsequent distress at having made an offensive comment about Gandhi’s conduct. Gandhi defused the incident with humour, while Masani contrasts the episode with the imagined reactions of Churchill and Nye Bevan.
 ---
 
+## Summary
+
+In the rendered pages, Minoo Masani presents Jayaprakash Narayan (“JP”) through two sharply observed episodes that emphasize his political intensity, intellectual independence, and capacity for self-criticism. The first recalls a 1936 Indian National Congress session at Lucknow, where Rajendra Prasad’s criticism of Jawaharlal Nehru’s Marxist presidential address provoked JP. Masani describes JP’s irritation at a follower’s mocking remark about Prasad and his subsequent distress at having made an offensive comment about Gandhi’s conduct. Gandhi defused the incident with humour, while Masani contrasts the episode with the imagined reactions of Churchill and Nye Bevan.
+
 ## Key points
 
 - Masani recounts JP’s reaction to Rajendra Prasad’s criticism of Nehru’s Marxist presidential address at the 1936 Congress session in Lucknow.

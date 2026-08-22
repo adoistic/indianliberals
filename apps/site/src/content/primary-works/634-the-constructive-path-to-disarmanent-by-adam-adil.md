@@ -52,6 +52,12 @@ summary: |-
   The essay further contends that Soviet resistance to disarmament reflects political, economic, and ideological insecurity, including fear of the consequences of losing military power in Eastern Europe and of Marxism's declining credibility. It cites Soviet military expenditure and Leninist arguments about the impossibility of disarmament under capitalism to characterize Soviet disarmament rhetoric as strategic "double talk." In its concluding historical argument, the essay distinguishes disarmament from arm control and calls for a world authority and international police force capable of guaranteeing states' security. It closes by invoking Gandhi and Aristotle to argue that meaningful, courageous life—not life preserved at any cost—should guide thinking about war and peace.
 ---
 
+## Summary
+
+In the six rendered pages, Adam Adil argues that nuclear disarmament must be pursued through enforceable arms control rather than through unilateral or poorly verified disarmament campaigns. The essay questions the proposed Anti-Nuclear Arms Convention in New Delhi, suggesting that its ostensibly non-partisan appeal could weaken democratic countries, assist Soviet propaganda, and treat the arms race as an isolated symptom rather than as a consequence of political and ideological conflict. Adil presents effective inspection and control as indispensable: without them, disarmament agreements could leave democracies exposed while permitting the Soviet Union to expand its military capacity covertly.
+
+The essay further contends that Soviet resistance to disarmament reflects political, economic, and ideological insecurity, including fear of the consequences of losing military power in Eastern Europe and of Marxism's declining credibility. It cites Soviet military expenditure and Leninist arguments about the impossibility of disarmament under capitalism to characterize Soviet disarmament rhetoric as strategic "double talk." In its concluding historical argument, the essay distinguishes disarmament from arm control and calls for a world authority and international police force capable of guaranteeing states' security. It closes by invoking Gandhi and Aristotle to argue that meaningful, courageous life—not life preserved at any cost—should guide thinking about war and peace.
+
 ## Key points
 
 - The essay supports the broad goal of ending nuclear weapons but questions whether the Anti-Nuclear Arms Convention would strengthen peace and freedom.

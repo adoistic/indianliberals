@@ -55,6 +55,12 @@ summary: |-
   In “English for Economy,” Rao argues that India’s financial constraints require a reassessment of spending on promoting Hindi and translating government publications into Hindi and regional languages. He contends that English provides wider access to knowledge and could serve national integration and international communication, while mother tongues should be supported principally for literary purposes. The other extracts contrast Switzerland’s stable, non-parliamentary executive with the instability and factionalism Rao associates with representative parliamentary government.
 ---
 
+## Summary
+
+This letter from P. Kodanda Rao to Minoo Masani, dated 2 September 1974, encloses materials on public expenditure, Swiss constitutional arrangements, representative government, and the role of English in India. Rao asks Masani to examine his submissions and help prevent wasteful expenditure, particularly expenditure on government publications and language promotion. The enclosures include extracts from A. V. Dicey and Max Nordau, as well as Rao’s submission “English for Economy.”
+
+In “English for Economy,” Rao argues that India’s financial constraints require a reassessment of spending on promoting Hindi and translating government publications into Hindi and regional languages. He contends that English provides wider access to knowledge and could serve national integration and international communication, while mother tongues should be supported principally for literary purposes. The other extracts contrast Switzerland’s stable, non-parliamentary executive with the instability and factionalism Rao associates with representative parliamentary government.
+
 ## Key points
 
 - Rao’s covering letter urges action against wasteful public expenditure and asks Masani to review enclosed submissions.

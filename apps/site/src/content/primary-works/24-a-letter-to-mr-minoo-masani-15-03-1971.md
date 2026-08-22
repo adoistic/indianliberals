@@ -48,6 +48,12 @@ summary: |-
   Rarewala argues that the country has been deprived of mature and wise leadership, whose absence in Parliament will remove a stabilising influence on the ruling party. He nonetheless urges Masani to continue exerting his influence, relying on his personality and standing to promote restraint and moderation, and closes by expressing hope that they will meet again soon.
 ---
 
+## Summary
+
+In this letter dated 15 March 1971, Giani Singh Rarewala writes from the Shiromani Akali Dal election office in Patiala to M. R. Masani, expressing shock and regret at Masani's electoral reverses. He says that the rejection of candidates of “national stature” has produced a sense of despair about the electorate and the country's political leadership.
+
+Rarewala argues that the country has been deprived of mature and wise leadership, whose absence in Parliament will remove a stabilising influence on the ruling party. He nonetheless urges Masani to continue exerting his influence, relying on his personality and standing to promote restraint and moderation, and closes by expressing hope that they will meet again soon.
+
 ## Key points
 
 - The letter is dated 15 March 1971 and was sent from the Shiromani Akali Dal election office in Patiala.

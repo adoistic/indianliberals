@@ -48,6 +48,12 @@ summary: |-
   The letter provides only a concise expression of support and does not reproduce or discuss the substance of the speech or the Detention Bill. The accompanying second page is the addressed inland-letter envelope; no additional argument is visible there.
 ---
 
+## Summary
+
+In this brief letter dated 20 December 1963, C. Rajagopalachari writes from Madras to M. R. Masani, then Secretary of the Swatantra Party in New Delhi. Rajagopalachari says he has read Masani's speech on the Detention Bill in the complete copy sent to him and offers his approval, calling it a “first rate speech.”
+
+The letter provides only a concise expression of support and does not reproduce or discuss the substance of the speech or the Detention Bill. The accompanying second page is the addressed inland-letter envelope; no additional argument is visible there.
+
 ## Key points
 
 - The letter is dated 20 December 1963 and sent from C. Rajagopalachari's address in Madras.

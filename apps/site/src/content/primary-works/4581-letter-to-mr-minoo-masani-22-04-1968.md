@@ -51,6 +51,12 @@ summary: |-
   The letter endorses Solanki's denial and casts doubt on Vajpayee's account or role in circulating the allegation. It is a brief piece of internal party correspondence concerning political affiliation, press reports, and the credibility of competing statements.
 ---
 
+## Summary
+
+This one-page letter, dated 22 April 1968 and issued from the Swatantra Party Central Office, addresses press reports alleging that M. Solanki had discussed joining the Jan Sangh with A. B. Vajpayee and other party members. The writer notes that Solanki has denied the allegation in a signed press statement.
+
+The letter endorses Solanki's denial and casts doubt on Vajpayee's account or role in circulating the allegation. It is a brief piece of internal party correspondence concerning political affiliation, press reports, and the credibility of competing statements.
+
 ## Key points
 
 - The letter is dated 22 April 1968 and is issued on Swatantra Party Central Office letterhead.

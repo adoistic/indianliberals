@@ -52,6 +52,12 @@ summary: |-
   The letter asks the Acting President to withhold assent under Article 111 or return the Bill for reconsideration. It argues that Parliament should not give the Bill a “fait accompli” character while the constitutional dispute is sub judice, particularly because the measure was hastily drafted and may be inconsistent with the Constitution. The writer further contends that withholding assent would cause no administrative disruption before the Supreme Court hears the petitions, and would give the Government and Parliament time to modify the scheme in light of the Court’s judgment.
 ---
 
+## Summary
+
+This untitled letter, dated 6 August 1969 and written on a Member of Parliament (Lok Sabha) letterhead, addresses the Acting President at Rashtrapati Bhavan about the Banking Companies (Acquisition and Transfer of Undertakings) Bill. The writer objects to the Bill being rushed through both Houses without reference to a Select Committee, arguing that its passage would frustrate petitions already admitted by the Supreme Court challenging both the Ordinance being replaced and the substance of the proposed nationalisation scheme.
+
+The letter asks the Acting President to withhold assent under Article 111 or return the Bill for reconsideration. It argues that Parliament should not give the Bill a “fait accompli” character while the constitutional dispute is sub judice, particularly because the measure was hastily drafted and may be inconsistent with the Constitution. The writer further contends that withholding assent would cause no administrative disruption before the Supreme Court hears the petitions, and would give the Government and Parliament time to modify the scheme in light of the Court’s judgment.
+
 ## Key points
 
 - The writer criticises the hurried passage of the Banking Companies (Acquisition and Transfer of Undertakings) Bill through both Houses of Parliament.

@@ -49,6 +49,12 @@ summary: |-
   The letter also invites Masani to attend the Sammelan's General Session in Berhampore, Murshidabad, on February 21 and 22, 1970, as a distinguished guest. Bajoria asks Masani to reserve the dates and provide his address and advice to the state's business community. The document therefore combines political congratulations with an organisational invitation from a traders' federation.
 ---
 
+## Summary
+
+This single-page letter, dated January 1, 1970, is from S.H. Bajoria, President of the Federation of Mofussil Traders' Organisations of West Bengal, to M.R. Masani. Bajoria congratulates Masani on his election as President of the Swatantra Party and expresses confidence that he will guide the party during a difficult economic and political period.
+
+The letter also invites Masani to attend the Sammelan's General Session in Berhampore, Murshidabad, on February 21 and 22, 1970, as a distinguished guest. Bajoria asks Masani to reserve the dates and provide his address and advice to the state's business community. The document therefore combines political congratulations with an organisational invitation from a traders' federation.
+
 ## Key points
 
 - S.H. Bajoria writes to M.R. Masani on January 1, 1970.

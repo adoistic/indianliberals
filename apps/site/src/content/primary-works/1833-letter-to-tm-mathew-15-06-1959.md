@@ -52,6 +52,12 @@ summary: |-
   The handwritten letter, dated 11 June 1959 and addressed to A. D. Mody in Bombay, discusses political developments in Kerala. Its writer says that Congress supporters have begun an opposition line, argues that Kerala is ready for a new political party capable of forming a ministry, and refers to Mr. Masani as someone who should be informed. The writer also mentions a possible meeting and ends with a brief personal sign-off. The envelope is addressed to A. D. Mody in Bombay and bears a Tiruvalla postmark.
 ---
 
+## Summary
+
+This three-page correspondence file from June 1959 contains a typed letter on Tata Sons Limited letterhead and a handwritten political letter, followed by the reverse of the handwritten sheet and its envelope. The typed letter, dated 15 June 1959 and addressed to T. M. Mathew in Tiruvella, acknowledges receipt of Mathew’s letter of 11 June and says it has been forwarded to Mr. Masani for consideration. The sender is not identified on the visible page.
+
+The handwritten letter, dated 11 June 1959 and addressed to A. D. Mody in Bombay, discusses political developments in Kerala. Its writer says that Congress supporters have begun an opposition line, argues that Kerala is ready for a new political party capable of forming a ministry, and refers to Mr. Masani as someone who should be informed. The writer also mentions a possible meeting and ends with a brief personal sign-off. The envelope is addressed to A. D. Mody in Bombay and bears a Tiruvalla postmark.
+
 ## Key points
 
 - The file consists of two letters dated 11 and 15 June 1959, plus an envelope.

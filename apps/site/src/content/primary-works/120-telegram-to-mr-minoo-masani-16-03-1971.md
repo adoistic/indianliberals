@@ -49,6 +49,12 @@ summary: |-
   Dated in mid-March 1971 — the eve of the fifth Lok Sabha general election — the wire reads as a partisan solidarity note to Masani, then a sitting Swatantra Party MP contesting a bruising campaign against Indira Gandhi's Congress (R). By yoking Masani's personal electoral fortunes to the survival of democracy itself, the sender frames the 1971 poll in the polemical register the Swatantra opposition adopted throughout that contest.
 ---
 
+## Summary
+
+This single-page item is a Indian Posts and Telegraphs Department telegram form, handed in at Bikaner and received in Bombay, addressed to "MASANI MP 143 M G ROAD SASOON BLDG BOMBAY" — Minoo Masani's parliamentary office in the Sassoon Building on M. G. Road. The sender, who signs off as "KARANISINGH", wires a single sentence: a prayer for a "thumping victory" for "our country and democracy" (the operator's tape reads "DAMOCRACY").
+
+Dated in mid-March 1971 — the eve of the fifth Lok Sabha general election — the wire reads as a partisan solidarity note to Masani, then a sitting Swatantra Party MP contesting a bruising campaign against Indira Gandhi's Congress (R). By yoking Masani's personal electoral fortunes to the survival of democracy itself, the sender frames the 1971 poll in the polemical register the Swatantra opposition adopted throughout that contest.
+
 ## Key points
 
 - Printed on a standard Indian Posts and Telegraphs Department form (Code 1200), bearing office stamps and a "RECEIVED" cachet.

@@ -49,6 +49,12 @@ summary: |-
   The continuation, headed “Common court may try dacoits,” reports that the Madhya Pradesh, Rajasthan and Uttar Pradesh governments might establish a common court to try the surrendered men. It also records assurances concerning legal aid, family visits and sympathetic consideration of mercy petitions, while noting that the government would not interfere with the courts. The report includes descriptions of Roop Singh’s physical abilities and of the public attention surrounding the surrender, but the clipping ends while the article is still continuing.
 ---
 
+## Summary
+
+This Times of India news report, dated 1 April 1972, describes the surrender of 82 dacoits at Jaura in Madhya Pradesh as part of Jayaprakash Narayan’s campaign in the Chambal ravines. It says the surrender followed an earlier group of 70, including the prominent dacoit leader Madhosingh, and reports that the new group included figures such as Madho Singh, Janji Singh, Kalyan Singh and Rupa. The article presents the surrender as a response to appeals by Narayan and Madhya Pradesh Chief Minister Mr. P. C. Sethi, with the government promising fair treatment.
+
+The continuation, headed “Common court may try dacoits,” reports that the Madhya Pradesh, Rajasthan and Uttar Pradesh governments might establish a common court to try the surrendered men. It also records assurances concerning legal aid, family visits and sympathetic consideration of mercy petitions, while noting that the government would not interfere with the courts. The report includes descriptions of Roop Singh’s physical abilities and of the public attention surrounding the surrender, but the clipping ends while the article is still continuing.
+
 ## Key points
 
 - Eighty-two dacoits surrendered at Jaura in Madhya Pradesh on 31 March or 1 April 1972, according to the report.

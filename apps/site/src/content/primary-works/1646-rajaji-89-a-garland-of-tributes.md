@@ -58,3 +58,9 @@ summary: |-
   
   In the rendered pages, the opening tributes connect Rajaji's political practice to Gandhian satyagraha, constitutional negotiation, civil freedom, religious and moral philosophy, and opposition to political monopolies. In the rendered pages, the volume's early essays also portray him as a practical strategist: willing to stand apart from Congress when necessary, yet committed to national freedom, public responsibility, and humane governance. The remaining essays listed in the contents, from J. B. Kripalani's “An Ideal Satyagrahi” through K. M. Munshi's “Our Bheeshmapitamahа,” were not rendered.
 ---
+
+## Summary
+
+In the rendered pages, RAJAJI 89: A Garland of Tributes presents Rajaji as a statesman whose political independence, moral seriousness, intellectual clarity, and grounding in Indian classical thought shaped his public life. In the rendered pages, contributors describe his roles in the freedom movement and post-Independence governments while emphasizing his willingness to dissent from majorities, challenge party orthodoxy, and defend democratic judgment.
+
+In the rendered pages, the opening tributes connect Rajaji's political practice to Gandhian satyagraha, constitutional negotiation, civil freedom, religious and moral philosophy, and opposition to political monopolies. In the rendered pages, the volume's early essays also portray him as a practical strategist: willing to stand apart from Congress when necessary, yet committed to national freedom, public responsibility, and humane governance. The remaining essays listed in the contents, from J. B. Kripalani's “An Ideal Satyagrahi” through K. M. Munshi's “Our Bheeshmapitamahа,” were not rendered.

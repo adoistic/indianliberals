@@ -52,6 +52,12 @@ summary: |-
   Masani attributes particular significance to Atal Bihari Vajpayee's absence from the Delhi meeting and cites the Jana Sangh's positions and recent parliamentary conduct as evidence of a persistent ideological and political distance from the Swatantra Party. He says the talks should not continue without clear evidence of a change of heart, while recommending that the B.K.D. merger question be discussed separately and pursued only through an agreed programme rather than an immediate dissolution into a single party.
 ---
 
+## Summary
+
+In this letter dated 13 June 1969, M. R. Masani writes to C. Rajagopalachari about the breakdown of talks among the Swatantra Party, Jana Sangh and B.K.D. He disputes a press release describing the first day's proceedings as “satisfactory,” arguing instead that the parties failed to agree on Kashmir and that the Jana Sangh showed little willingness to participate in a wider merger or coordinated programme.
+
+Masani attributes particular significance to Atal Bihari Vajpayee's absence from the Delhi meeting and cites the Jana Sangh's positions and recent parliamentary conduct as evidence of a persistent ideological and political distance from the Swatantra Party. He says the talks should not continue without clear evidence of a change of heart, while recommending that the B.K.D. merger question be discussed separately and pursued only through an agreed programme rather than an immediate dissolution into a single party.
+
 ## Key points
 
 - Masani challenges the public description of the talks as “satisfactory,” citing the parties' failure to agree on Kashmir.

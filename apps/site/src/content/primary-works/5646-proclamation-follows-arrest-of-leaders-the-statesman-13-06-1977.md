@@ -55,3 +55,9 @@ summary: |-
   
   The issue's visual and editorial framing is strongly critical of the Emergency: headlines such as “STUNNING BLOW TO DEMOCRACY,” “THE DARK DAYS OF PRESS CENSORSHIP,” and “JURISTS’ APPEAL FOR FRESH ELECTIONS” present the period as a crisis of democratic government, free expression, and the rule of law. The pages also contain ordinary news items, photographs, editorials, letters, advertisements, and a dated chronology extending from June 1975 into 1977. No formal bylines or table of contents are visible, so individual items cannot be reliably assigned to named authors.
 ---
+
+## Summary
+
+This English-language special edition of The Statesman, dated Delhi, June 13, 1977, documents the political and constitutional consequences of India's Emergency. Its pages assemble retrospective headlines and reports on the arrest of opposition leaders, the suspension and restriction of civil liberties, press censorship orders, judicial proceedings, constitutional amendments, parliamentary and electoral questions, and conflicts between executive power and institutional checks. Prominent coverage includes Jayaprakash Narayan's petition to the Supreme Court, challenges involving Raj Narain and Mrs. Gandhi, press-censorship debates, the MISA amendment, and calls by jurists for fresh elections.
+
+The issue's visual and editorial framing is strongly critical of the Emergency: headlines such as “STUNNING BLOW TO DEMOCRACY,” “THE DARK DAYS OF PRESS CENSORSHIP,” and “JURISTS’ APPEAL FOR FRESH ELECTIONS” present the period as a crisis of democratic government, free expression, and the rule of law. The pages also contain ordinary news items, photographs, editorials, letters, advertisements, and a dated chronology extending from June 1975 into 1977. No formal bylines or table of contents are visible, so individual items cannot be reliably assigned to named authors.

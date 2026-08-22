@@ -48,6 +48,12 @@ summary: |-
   Krishnamurthy asks Masani to provide the dates fixed for the proposed Calcutta arrangements. The second page continues with a reference to a request from “Sri Raju of Ranganatha” to come to Calcutta and discuss the convention. The letter is practical and logistical, focusing on coordination, fundraising, travel, and the planning of a party gathering.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 26 November 1959 from Tanjore and addressed to Minoo Masani, concerns arrangements for a party convention in Calcutta. T. S. Krishnamurthy recalls an earlier discussion with N. B. Ranga about collecting funds in Calcutta for their party and says that he plans to travel to Hyderabad on the 2nd, where he hopes to meet Masani.
+
+Krishnamurthy asks Masani to provide the dates fixed for the proposed Calcutta arrangements. The second page continues with a reference to a request from “Sri Raju of Ranganatha” to come to Calcutta and discuss the convention. The letter is practical and logistical, focusing on coordination, fundraising, travel, and the planning of a party gathering.
+
 ## Key points
 
 - The letter is dated 26 November 1959 and was sent from Tanjore to Minoo Masani.

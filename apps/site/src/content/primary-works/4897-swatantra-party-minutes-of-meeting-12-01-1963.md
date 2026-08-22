@@ -57,6 +57,12 @@ summary: |-
   The adjourned meeting dealt with party organisation and administration. It reviewed communications with the Raja of Ramgarh, forthcoming meetings of the Central Organising Committee and General Council, the recovery or sale of a party jeep, and the settlement of election-fund accounts. The Board also considered parliamentary group discipline, permitted R. Agnibhoj to function as an independent State Assembly member in a special case, approved support for his travel to party meetings, arranged payment and a new designation for the Group’s office secretary, and recorded appreciation for Prof. N. G. Ranga’s parliamentary expression of the party’s position on the Chinese offensive, cease-fire, and National Emergency.
 ---
 
+## Summary
+
+These draft minutes record two related meetings of the Swatantra Party’s Parliamentary Board in Madras on 12 and 13 January 1963. The Board reviewed the Chinese offensive, the cease-fire, and the National Emergency, and prepared resolutions concerning emergency powers, a proposed constitutional amendment relating to the Attorney General, and the Gold Control Order. It also discussed parliamentary discipline, including members’ participation in debate on legislation affecting secession, and procedures for admitting associate members to the Parliamentary Group.
+
+The adjourned meeting dealt with party organisation and administration. It reviewed communications with the Raja of Ramgarh, forthcoming meetings of the Central Organising Committee and General Council, the recovery or sale of a party jeep, and the settlement of election-fund accounts. The Board also considered parliamentary group discipline, permitted R. Agnibhoj to function as an independent State Assembly member in a special case, approved support for his travel to party meetings, arranged payment and a new designation for the Group’s office secretary, and recorded appreciation for Prof. N. G. Ranga’s parliamentary expression of the party’s position on the Chinese offensive, cease-fire, and National Emergency.
+
 ## Key points
 
 - The Parliamentary Board met in Madras on 12 January 1963 and reconvened on 13 January.

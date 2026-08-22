@@ -59,6 +59,12 @@ summary: |-
   The constitution establishes membership qualifications and ethical requirements, including a minimum age of eighteen, non-membership in other political or designated communal organisations, a clean recent criminal record, abstention from intoxicants for elective officeholders, and prior party service. It then lays out a tiered organisational structure—constituency, district or city, state, and national bodies—with councils, executives, conferences, parliamentary boards, elections by single transferable vote, quorum rules, amendment procedures, and regular meeting requirements. Authority is concentrated in the National Executive, while the constitution also specifies representation, financial distribution of membership fees, disciplinary powers, and procedures for filling vacancies.
 ---
 
+## Summary
+
+This six-page scan reproduces the constitution of the Bharatiya Kranti Dal, an English-language political party document with no named author, date, publisher, or place of publication visible. It defines the party's name and aims, grounding its programme broadly in Mahatma Gandhi's philosophy while advocating a democratic society free from economic, political, and social exploitation. The stated economic programme combines cooperative small-farm agriculture, decentralized and labour-intensive industry, and State ownership or control of capital-intensive activities required for defence and research. The document also calls for social equality, self-reliance, secularism, nationalism, international cooperation, and peaceful resolution of disputes.
+
+The constitution establishes membership qualifications and ethical requirements, including a minimum age of eighteen, non-membership in other political or designated communal organisations, a clean recent criminal record, abstention from intoxicants for elective officeholders, and prior party service. It then lays out a tiered organisational structure—constituency, district or city, state, and national bodies—with councils, executives, conferences, parliamentary boards, elections by single transferable vote, quorum rules, amendment procedures, and regular meeting requirements. Authority is concentrated in the National Executive, while the constitution also specifies representation, financial distribution of membership fees, disciplinary powers, and procedures for filling vacancies.
+
 ## Key points
 
 - The Bharatiya Kranti Dal presents itself as a democratic, anti-exploitation party influenced broadly by Mahatma Gandhi.

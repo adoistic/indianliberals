@@ -51,6 +51,12 @@ summary: |-
   Dandekar explains that his doubts about the Swatantra Party's survival grew after the 1969 state elections and were confirmed by the 1971 general election. Drawing on his experience of campaigning for Doshi, H. M. Patel, and Minoo Masani, and on the 1972 Matunga Assembly contest, he argues that opposition parties other than the Jan Sangh and Communists would be unable to survive unless they united as one party. He defends the use of expediency and opportunism when pursuing sound political objectives, acknowledges the Swatantra Party's unfavourable public image, and says he will support Piloo Mody's effort at the National Convention in Delhi, subject to his doctor's permission.
 ---
 
+## Summary
+
+In this letter dated 30 July 1974, N. Dandekar responds to S. V. Raju's disagreement with his proposed course for the future of the Swatantra Party. Dandekar rejects comparisons with post-election attempts by opposition parties, Odisha's pre-election common programme, and the 1971 Grand Alliance, arguing that these precedents do not establish that a merger of opposition parties would fail. He also dismisses comparisons with the Liberal Party in the United Kingdom, emphasizing the radically different political and financial circumstances of India and Britain.
+
+Dandekar explains that his doubts about the Swatantra Party's survival grew after the 1969 state elections and were confirmed by the 1971 general election. Drawing on his experience of campaigning for Doshi, H. M. Patel, and Minoo Masani, and on the 1972 Matunga Assembly contest, he argues that opposition parties other than the Jan Sangh and Communists would be unable to survive unless they united as one party. He defends the use of expediency and opportunism when pursuing sound political objectives, acknowledges the Swatantra Party's unfavourable public image, and says he will support Piloo Mody's effort at the National Convention in Delhi, subject to his doctor's permission.
+
 ## Key points
 
 - Dandekar rejects analogies between a proposed opposition-party merger and earlier coalition or alliance experiments.

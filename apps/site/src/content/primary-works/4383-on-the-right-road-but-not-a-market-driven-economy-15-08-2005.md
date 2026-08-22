@@ -52,6 +52,10 @@ summary: |-
   In the rendered pages, S. V. Raju argues that economic freedom cannot be separated from political and social freedom. He contrasts India with Zimbabwe, where he says all three dimensions of freedom have disappeared, and with China, whose capitalist economic reforms have not been accompanied by the freedom to elect rulers or organise politically. India, despite serious imperfections, retains electoral and protest freedoms that make it freer in the broader sense.
 ---
 
+## Summary
+
+In the rendered pages, S. V. Raju argues that economic freedom cannot be separated from political and social freedom. He contrasts India with Zimbabwe, where he says all three dimensions of freedom have disappeared, and with China, whose capitalist economic reforms have not been accompanied by the freedom to elect rulers or organise politically. India, despite serious imperfections, retains electoral and protest freedoms that make it freer in the broader sense.
+
 ## Key points
 
 - Raju treats political, social, and economic freedom as interconnected rather than separate categories.

@@ -46,6 +46,10 @@ summary: |-
   This single-page English letter from M. R. Masani to R. Venkata Subbarao is a logistical notice concerning Masani’s forthcoming visit to Hyderabad. Masani states that he will arrive by morning flight on 8 December at 11:50 a.m. to attend meetings of various committees, and that he will arrange his own hotel accommodation.
 ---
 
+## Summary
+
+This single-page English letter from M. R. Masani to R. Venkata Subbarao is a logistical notice concerning Masani’s forthcoming visit to Hyderabad. Masani states that he will arrive by morning flight on 8 December at 11:50 a.m. to attend meetings of various committees, and that he will arrange his own hotel accommodation.
+
 ## Key points
 
 - The letter is signed by M. R. Masani and addressed to Mr. R. Venkata Subbarao.

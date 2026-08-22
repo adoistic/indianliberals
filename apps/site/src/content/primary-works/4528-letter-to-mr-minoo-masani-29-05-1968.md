@@ -50,6 +50,12 @@ summary: |-
   The letter responds to allegations by Bhailalbhai that the writer had made a secret agreement with the Congress in exchange for being nominated chairperson of the Public Accounts Committee. It also describes changes in Gujarat opposition-party leadership: H. M. Patel is identified as president of the Gujarat unit, while Vallabhbhai Patel is described as president of Vallabh Vidyanagar. The writer says he will write to C. Rajagopalachari about the matter. The document has no printed title, and the handwritten signature is read provisionally as Purshottambhai Patel.
 ---
 
+## Summary
+
+This two-page letter, dated 29 May 1968 and written from Hindustan Tractors Limited in Bombay to Minoo Masani, discusses political developments within Gujarat and the Swatantra Party. The writer reports that a Gujarati newspaper, Loksatta, has published an interview endorsing both Masani’s position and K. M. Munshi’s position on Gujarat’s leadership. The writer also states that he is prepared, if necessary, to resign both his Swatantra Party membership and his seat in Parliament.
+
+The letter responds to allegations by Bhailalbhai that the writer had made a secret agreement with the Congress in exchange for being nominated chairperson of the Public Accounts Committee. It also describes changes in Gujarat opposition-party leadership: H. M. Patel is identified as president of the Gujarat unit, while Vallabhbhai Patel is described as president of Vallabh Vidyanagar. The writer says he will write to C. Rajagopalachari about the matter. The document has no printed title, and the handwritten signature is read provisionally as Purshottambhai Patel.
+
 ## Key points
 
 - The letter encloses a page from the Gujarati newspaper Loksatta containing an interview with the writer.

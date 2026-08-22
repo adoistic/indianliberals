@@ -48,6 +48,10 @@ summary: |-
   This four-page English-language document is a letter dated July 8, 1964, from the Swatantra Party Parliamentary Office in New Delhi. A.P. Jain writes to “Narayan,” acknowledging receipt of Narayan’s June 7 letter and explaining that a copy of the Gold Control Bill and a list of Swatantra Party parliamentary members’ addresses had already been sent by book post. Jain encloses another copy of the bill for Minoo Masani and repeats the members’ address list.
 ---
 
+## Summary
+
+This four-page English-language document is a letter dated July 8, 1964, from the Swatantra Party Parliamentary Office in New Delhi. A.P. Jain writes to “Narayan,” acknowledging receipt of Narayan’s June 7 letter and explaining that a copy of the Gold Control Bill and a list of Swatantra Party parliamentary members’ addresses had already been sent by book post. Jain encloses another copy of the bill for Minoo Masani and repeats the members’ address list.
+
 ## Key points
 
 - The document is a typed Swatantra Party Parliamentary Office letter dated July 8, 1964.

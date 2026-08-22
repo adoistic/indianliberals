@@ -46,6 +46,12 @@ summary: |-
   Masani assumes that a formal invitation will be sent to Rajagopalachari at his Madras address. The letter is a brief piece of administrative correspondence concerning the event’s date, subject, and invitation.
 ---
 
+## Summary
+
+In this one-page letter dated 8 April 1964, M. R. Masani writes to Fazal Fazalbhoy to confirm arrangements for C. Rajagopalachari’s Rotary talk. The talk is scheduled for Tuesday, 16 June, and the proposed subject is “What About Our Neighbour?”
+
+Masani assumes that a formal invitation will be sent to Rajagopalachari at his Madras address. The letter is a brief piece of administrative correspondence concerning the event’s date, subject, and invitation.
+
 ## Key points
 
 - M. R. Masani wrote the letter to Fazal Fazalbhoy on 8 April 1964.

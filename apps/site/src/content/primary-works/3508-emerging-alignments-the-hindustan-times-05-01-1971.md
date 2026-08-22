@@ -53,6 +53,12 @@ summary: |-
   The editorial argues that a common programme would give the alliance greater credibility and reduce future tensions among constituent parties, while acknowledging the difficulties created by ideological differences and Congress (O)’s unresolved identity crisis. It anticipates that the B.K.D. may cooperate with the Front outside Uttar Pradesh, while Charan Singh’s separate course and the possible electoral adjustments in several states could produce further complications. The article closes by stressing that the practical consequences of these new alignments remain uncertain, especially where seat-sharing and state-level rivalries are concerned.
 ---
 
+## Summary
+
+The editorial examines the emerging political realignments following the dissolution of the Tamil Nadu Assembly and the prospect of simultaneous Lok Sabha and state elections. It presents the proposed National Democratic Front—bringing together Congress (O), the Jana Sangh and the SSP—as a significant development, describing it as an electoral arrangement intended to field agreed candidates across the 520 Lok Sabha seats rather than as a conventional alliance. The article also discusses the possible participation of the Swatantra Party under Minoo Masani and notes C. Rajagopalachari’s efforts to bring like-minded parties together without getting trapped in the details of a minimum programme.
+
+The editorial argues that a common programme would give the alliance greater credibility and reduce future tensions among constituent parties, while acknowledging the difficulties created by ideological differences and Congress (O)’s unresolved identity crisis. It anticipates that the B.K.D. may cooperate with the Front outside Uttar Pradesh, while Charan Singh’s separate course and the possible electoral adjustments in several states could produce further complications. The article closes by stressing that the practical consequences of these new alignments remain uncertain, especially where seat-sharing and state-level rivalries are concerned.
+
 ## Key points
 
 - The dissolution of the Tamil Nadu Assembly has created pressure for general elections and additional state elections, including in West Bengal.

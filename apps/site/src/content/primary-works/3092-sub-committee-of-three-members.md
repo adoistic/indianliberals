@@ -50,6 +50,10 @@ summary: |-
   This single-page English agenda lays out party and parliamentary business for an unidentified meeting. It calls for a three-member sub-committee to examine the Home Ministry's note on defections and the suggestions made at the last Defection Committee meeting, along with nominations to committees connected with the parliamentary session in Bangalore and Rajya Sabha matters.
 ---
 
+## Summary
+
+This single-page English agenda lays out party and parliamentary business for an unidentified meeting. It calls for a three-member sub-committee to examine the Home Ministry's note on defections and the suggestions made at the last Defection Committee meeting, along with nominations to committees connected with the parliamentary session in Bangalore and Rajya Sabha matters.
+
 ## Key points
 
 - Proposes appointing a three-member sub-committee to examine the implications of suggestions on defections.

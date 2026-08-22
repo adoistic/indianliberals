@@ -51,6 +51,12 @@ summary: |-
   Masani notes that the Ordinance was valid for six weeks—from February 14 to April 2—and therefore did not create an urgent scheduling problem. He requests that the General Budget debate begin immediately after miscellaneous business on March 9 and that discussion of the Banks Nationalisation Ordinance be postponed until the Budget debate has concluded. The page does not state the Speaker’s eventual response or the subsequent parliamentary outcome.
 ---
 
+## Summary
+
+In this letter dated February 27, 1970, M. R. Masani writes from Parliament House, New Delhi, to the Speaker of the Lok Sabha to object to the proposed scheduling of discussion on the Banks Nationalisation Ordinance and Bill. He argues that the General Budget debate, scheduled to begin on March 9, is a matter of greater national importance and should not be displaced by the bank-nationalisation debate.
+
+Masani notes that the Ordinance was valid for six weeks—from February 14 to April 2—and therefore did not create an urgent scheduling problem. He requests that the General Budget debate begin immediately after miscellaneous business on March 9 and that discussion of the Banks Nationalisation Ordinance be postponed until the Budget debate has concluded. The page does not state the Speaker’s eventual response or the subsequent parliamentary outcome.
+
 ## Key points
 
 - Masani protests the Government’s proposed timing for discussion of the Banks Nationalisation Ordinance and Bill.

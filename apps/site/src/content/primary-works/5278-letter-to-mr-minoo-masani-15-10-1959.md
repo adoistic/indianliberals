@@ -49,6 +49,10 @@ summary: |-
   Dated 15 October 1959 and addressed to Minoo Masani, this handwritten letter conveys A. D. Shroff’s enthusiastic response to the formation of the Swatantra Party. Shroff calls the party the best political news since Independence, says he is eager to return to Bombay and join its ranks, and indicates that he expects to be in India during the first week of November. He also says he is extending his stay abroad by a month in order to assist the party’s work.
 ---
 
+## Summary
+
+Dated 15 October 1959 and addressed to Minoo Masani, this handwritten letter conveys A. D. Shroff’s enthusiastic response to the formation of the Swatantra Party. Shroff calls the party the best political news since Independence, says he is eager to return to Bombay and join its ranks, and indicates that he expects to be in India during the first week of November. He also says he is extending his stay abroad by a month in order to assist the party’s work.
+
 ## Key points
 
 - Shroff congratulates Minoo Masani on the formation of the Swatantra Party.

@@ -47,6 +47,12 @@ summary: |-
   The letter specifies that the Marathi form may be used for the college staff and requests that the completed forms be returned by the evening of February 22. The document carries the reference number 5752; no formal title is printed.
 ---
 
+## Summary
+
+This single-page English administrative letter, dated February 18, 1974, is written by Girish Munshi on Bharatiya Vidya Bhavan letterhead and addressed to Mr. Dhanuka. Munshi encloses forms and asks Dhanuka to obtain signatures from advocates of the City Civil Court.
+
+The letter specifies that the Marathi form may be used for the college staff and requests that the completed forms be returned by the evening of February 22. The document carries the reference number 5752; no formal title is printed.
+
 ## Key points
 
 - The letter is dated February 18, 1974, and is issued from Bharatiya Vidya Bhavan in Bombay-7.

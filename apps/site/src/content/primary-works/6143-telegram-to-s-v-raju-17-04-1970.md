@@ -48,6 +48,10 @@ summary: |-
   This one-page English telegram, received by S. V. Raju in Bombay on 17 April 1970, requests that a resolution be sent to Rajaji by airfreight, with Masani also identified in the message. The document is a short logistical communication rather than an argument or essay, and it provides no explicit sender byline.
 ---
 
+## Summary
+
+This one-page English telegram, received by S. V. Raju in Bombay on 17 April 1970, requests that a resolution be sent to Rajaji by airfreight, with Masani also identified in the message. The document is a short logistical communication rather than an argument or essay, and it provides no explicit sender byline.
+
 ## Key points
 
 - The document is an Indian Posts and Telegraphs Department telegram form.

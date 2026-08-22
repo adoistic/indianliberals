@@ -54,6 +54,12 @@ summary: |-
   The record states that although the party opposed the Seventeenth Amendment Bill as a whole, it would support amendments tabled by Dr. Singhvi and Shri Kashi Ram Gupta, with the House to be divided at the second and third readings and on all clauses and amendments. The party strongly opposed the Eighteenth Amendment Bill on the ground that it would trespass on civil liberty; Shri Masani was designated to initiate the debate and S. Kapur Singh to represent the party on a possible Select Committee. The meeting also settled voting preferences and discussed the party's Rajya Sabha nominee for the Public Undertakings Committee.
 ---
 
+## Summary
+
+This two-page internal record from the Swatantra Party Parliamentary Office documents a party meeting held on Monday, 27 April 1964, in the Central Hall committee room of Parliament House. Prof. N. G. Ranga chaired the meeting, which was attended by thirteen party members and recorded by Kapur Singh, the secretary. The minutes focus on the party's parliamentary strategy regarding the Constitution (Seventeenth Amendment) Bill, the Constitution (Eighteenth Amendment) Bill, and elections to parliamentary committees.
+
+The record states that although the party opposed the Seventeenth Amendment Bill as a whole, it would support amendments tabled by Dr. Singhvi and Shri Kashi Ram Gupta, with the House to be divided at the second and third readings and on all clauses and amendments. The party strongly opposed the Eighteenth Amendment Bill on the ground that it would trespass on civil liberty; Shri Masani was designated to initiate the debate and S. Kapur Singh to represent the party on a possible Select Committee. The meeting also settled voting preferences and discussed the party's Rajya Sabha nominee for the Public Undertakings Committee.
+
 ## Key points
 
 - The meeting took place on 27 April 1964 at Parliament House and was chaired by Prof. N. G. Ranga.

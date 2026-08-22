@@ -52,6 +52,12 @@ summary: |-
   Masani states that Swatantra’s Parliamentary Board had already rejected a merger proposal and that the party should retain its own banner and programme. He nevertheless notes the possibility of cooperation with Jan Sangh and the Praja Socialist Party on resistance to Chinese aggression and opposition to Stalinism, while distinguishing such cooperation from an alliance based on anti-minority politics. He recommends that the Lok Sabha members meet before responding to Seth’s letter and mentions that he has sent a telegram on the matter.
 ---
 
+## Summary
+
+In this letter dated 4 August 1962, Minoo Masani urges Maharajsaheb P. K. Deo and his colleagues not to attend a proposed meeting organized by Hindu Mahasabha member B. C. Seth. The meeting would discuss forming an opposition party combining Swatantra, Jan Sangh, and independent members, while opposing the Government’s secular policy and what its organizers describe as the “appeasement” of religious minorities. Masani argues that the proposal conflicts with Swatantra’s established position and risks associating the party with a communal political viewpoint.
+
+Masani states that Swatantra’s Parliamentary Board had already rejected a merger proposal and that the party should retain its own banner and programme. He nevertheless notes the possibility of cooperation with Jan Sangh and the Praja Socialist Party on resistance to Chinese aggression and opposition to Stalinism, while distinguishing such cooperation from an alliance based on anti-minority politics. He recommends that the Lok Sabha members meet before responding to Seth’s letter and mentions that he has sent a telegram on the matter.
+
 ## Key points
 
 - Masani warns against attending a proposed meeting to create a broad opposition party combining Swatantra, Jan Sangh, and independent members.

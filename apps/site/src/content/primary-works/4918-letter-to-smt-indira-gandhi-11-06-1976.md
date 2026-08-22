@@ -47,6 +47,12 @@ summary: |-
   Narayan notes that the Jayaprakash Health Fund Committee had announced that only small contributions would be accepted, declining larger donations, and had already closed the fund after it became oversubscribed. Since the dialysis machine and supplies had been purchased and sufficient money remained for future expenses, he advises Radhakrishna to return the draft. The letter frames this refusal as a matter of directing relief funds to those most in need, while expressing gratitude for Gandhi's concern for his health.
 ---
 
+## Summary
+
+In this letter dated June 11, 1976, Jayaprakash Narayan writes to Prime Minister Indira Gandhi about her contribution of ₹90,000 from the Prime Minister's Relief Fund toward the purchase of a dialysis machine for his treatment. He explains that he had consented to accepting the contribution without knowing its source, believing it would come from Gandhi's personal account, and argues that the amount should instead be returned because substantial funds had already been collected publicly for his medical care.
+
+Narayan notes that the Jayaprakash Health Fund Committee had announced that only small contributions would be accepted, declining larger donations, and had already closed the fund after it became oversubscribed. Since the dialysis machine and supplies had been purchased and sufficient money remained for future expenses, he advises Radhakrishna to return the draft. The letter frames this refusal as a matter of directing relief funds to those most in need, while expressing gratitude for Gandhi's concern for his health.
+
 ## Key points
 
 - Narayan acknowledges a ₹90,000 contribution from the Prime Minister's Relief Fund for a dialysis machine.

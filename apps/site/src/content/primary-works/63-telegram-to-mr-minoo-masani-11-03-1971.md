@@ -48,6 +48,10 @@ summary: |-
   This single-page English telegram, sent to Shri M. R. Masani at 140 Mahatma Gandhi Road, Bombay, expresses disappointment at what appears to be an unsuccessful political outcome. The sender acknowledges the difficulties Masani faced and offers solidarity, but the sender's name and the date of transmission are not legible on the rendered form.
 ---
 
+## Summary
+
+This single-page English telegram, sent to Shri M. R. Masani at 140 Mahatma Gandhi Road, Bombay, expresses disappointment at what appears to be an unsuccessful political outcome. The sender acknowledges the difficulties Masani faced and offers solidarity, but the sender's name and the date of transmission are not legible on the rendered form.
+
 ## Key points
 
 - The document is an Indian Posts and Telegraphs Department telegram form.

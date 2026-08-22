@@ -50,6 +50,12 @@ summary: |-
   The letter then turns to international affairs. Rajagopalachari argues that India's decision to seek weapons assistance from the United States against China is badly timed while Khrushchev is fighting his battle with China. He suggests that the mission may return with a setback, though another opportunity could arise later. The document is a personal letter rather than a sustained policy paper, and its readable content is confined to these congratulations, organisational references, and a brief Cold War-era assessment.
 ---
 
+## Summary
+
+In this two-page letter dated 18 July 1963, C. Rajagopalachari congratulates Minoo Masani on his public speaking, describing the Indian Express reporter in Bangalore as a first-class reporter and Masani's speech in Bangalore as first-class. He also refers warmly to their recent meeting in Madras and to the forthcoming Forum of Free Enterprise conference, noting that the Saturday meeting at the Mahratta Hall was well received and that the government's timing was especially unfortunate.
+
+The letter then turns to international affairs. Rajagopalachari argues that India's decision to seek weapons assistance from the United States against China is badly timed while Khrushchev is fighting his battle with China. He suggests that the mission may return with a setback, though another opportunity could arise later. The document is a personal letter rather than a sustained policy paper, and its readable content is confined to these congratulations, organisational references, and a brief Cold War-era assessment.
+
 ## Key points
 
 - Rajagopalachari praises the Indian Express reporter in Bangalore and Minoo Masani's speech there.

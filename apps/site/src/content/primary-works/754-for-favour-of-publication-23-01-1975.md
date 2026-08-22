@@ -57,6 +57,12 @@ summary: |-
   The remaining resolutions address food policy, electoral-roll preparation, and industrial production. The party argues that India has sufficient food-grain capacity if farmers receive adequate water, fertilisers, and improved seeds, and opposes inter-State restrictions, government procurement monopolies, and uneconomic levies on farmers. It criticises rushed electoral-roll procedures and calls for full enumeration and public notice, while attributing industrial stagnation to shortages of raw materials and working capital and to unnecessary controls over prices and distribution. The document concludes by demanding abolition of controls and quota systems that hamper production.
 ---
 
+## Summary
+
+This three-page Swatantra Party press note, issued from its national headquarters on 23 January 1975, announces five resolutions adopted by the party’s National Executive in Bombay on 22 January. The resolutions endorse Jayaprakash Narayan’s movement against corruption, nepotism, and oppression, and urge citizens to join it across partisan divisions. They also support electoral reforms proposed by a committee appointed by Narayan, arguing that safeguards for free and fair elections are necessary to restore public confidence.
+
+The remaining resolutions address food policy, electoral-roll preparation, and industrial production. The party argues that India has sufficient food-grain capacity if farmers receive adequate water, fertilisers, and improved seeds, and opposes inter-State restrictions, government procurement monopolies, and uneconomic levies on farmers. It criticises rushed electoral-roll procedures and calls for full enumeration and public notice, while attributing industrial stagnation to shortages of raw materials and working capital and to unnecessary controls over prices and distribution. The document concludes by demanding abolition of controls and quota systems that hamper production.
+
 ## Key points
 
 - The Swatantra Party pledges full cooperation with Jayaprakash Narayan’s anti-corruption movement.

@@ -49,6 +49,12 @@ summary: |-
   In the rendered pages, Masani recounts the 1965 Delhi Declaration on the social responsibilities of business and the subsequent efforts to implement it through meetings of industrialists, amendments to company articles, social objectives, and proposed social audits. He highlights examples from the Tata and Bajaj groups, including a Tata Chemicals clause committing the company to national economic development and responsibilities toward customers, employees, shareholders, society, and the local community. The essay concludes with TISCO’s proposal for an independent social audit, presenting it as a potentially influential experiment in enlightened management.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani presents Jayaprakash Narayan’s appeal to Indian business leaders to adopt Gandhi’s principle of trusteeship and acknowledge the social responsibilities of enterprise. Masani distinguishes three positions: the conventional Western view that paying taxes and producing competitively exhausts business obligations; the strict Gandhian view that treats businesspeople as trustees; and an intermediate position, which he endorses, in which morality and practical necessity require business to accept obligations to the wider community while retaining operational freedom.
+
+In the rendered pages, Masani recounts the 1965 Delhi Declaration on the social responsibilities of business and the subsequent efforts to implement it through meetings of industrialists, amendments to company articles, social objectives, and proposed social audits. He highlights examples from the Tata and Bajaj groups, including a Tata Chemicals clause committing the company to national economic development and responsibilities toward customers, employees, shareholders, society, and the local community. The essay concludes with TISCO’s proposal for an independent social audit, presenting it as a potentially influential experiment in enlightened management.
+
 ## Key points
 
 - Masani frames the essay as a response to Jayaprakash Narayan’s long campaign for business trusteeship and social responsibility.

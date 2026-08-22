@@ -48,6 +48,12 @@ summary: |-
   Ranga also discusses possible associate membership in the parliamentary party for P. K. Ghosh and Dr. B. N. Singh, alongside concerns about whether they will apologise for an earlier letter and resolve their differences with the “Raja Sahib.” He advises Masani to negotiate a reasonable formula but stresses that he is making no promises. A postscript reports that another Mishra may leave the group, which Ranga says would be “both a loss and a riddance.”
 ---
 
+## Summary
+
+This one-page letter, marked “TRUE COPY,” was written by Prof. N. G. Ranga from New Delhi to M. R. Masani on 6 April 1965. Ranga asks Masani to reconsider the timing of the Andhra and Madras conventions and to fix a date in the third or fourth week of May for the National Executive and Nellore Convention, following uncertainty about Gayatridevijee’s participation.
+
+Ranga also discusses possible associate membership in the parliamentary party for P. K. Ghosh and Dr. B. N. Singh, alongside concerns about whether they will apologise for an earlier letter and resolve their differences with the “Raja Sahib.” He advises Masani to negotiate a reasonable formula but stresses that he is making no promises. A postscript reports that another Mishra may leave the group, which Ranga says would be “both a loss and a riddance.”
+
 ## Key points
 
 - Ranga asks Masani to reschedule the Andhra and Madras conventions and to set dates for the National Executive and Nellore Convention.

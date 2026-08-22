@@ -47,6 +47,12 @@ summary: |-
   Masani states that, to his knowledge, no proposal exists to revive the party, while noting that he has taken account of Sitaraman's view on the matter. The letter is signed by Masani and includes the typist mark “MRM:vhb.”
 ---
 
+## Summary
+
+This one-page typed letter from M. R. Masani to Prof. S. Sitaraman is dated October 2, 1980. Masani acknowledges Sitaraman's letter of August 27 and responds to an apparent proposal concerning the Swatantra Party.
+
+Masani states that, to his knowledge, no proposal exists to revive the party, while noting that he has taken account of Sitaraman's view on the matter. The letter is signed by Masani and includes the typist mark “MRM:vhb.”
+
 ## Key points
 
 - The document is a one-page personal letter dated October 2, 1980.

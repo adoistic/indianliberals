@@ -49,6 +49,10 @@ summary: |-
   In this letter dated 19 April 1962, M. R. Masani asks Narendra Singh Mahida to clarify his decision regarding the election of the Deputy Speaker of the Lok Sabha. Masani distinguishes the Parliamentary Board's commitment to unanimous elections for the President, Vice-President, and Speaker from any decision about Deputy Leaders, which he says was left to the Swatantra Party groups in each House. Because the opposition parties have agreed to support Jaipal Singh, Masani argues that the Swatantra Party should join them rather than act independently.
 ---
 
+## Summary
+
+In this letter dated 19 April 1962, M. R. Masani asks Narendra Singh Mahida to clarify his decision regarding the election of the Deputy Speaker of the Lok Sabha. Masani distinguishes the Parliamentary Board's commitment to unanimous elections for the President, Vice-President, and Speaker from any decision about Deputy Leaders, which he says was left to the Swatantra Party groups in each House. Because the opposition parties have agreed to support Jaipal Singh, Masani argues that the Swatantra Party should join them rather than act independently.
+
 ## Key points
 
 - Masani writes to Narendra Singh Mahida on 19 April 1962 about the Deputy Speaker's election.

@@ -52,6 +52,10 @@ summary: |-
   In this speech from the chair to the Swatantra Party's General Council, M. R. Masani confronts the party's severe electoral setback and the collapse of a proposed opposition alliance. He argues that the party needs both the courage to return to its principles and the courage to face unpleasant facts. The 1971 results, he says, were less sweeping than commonly portrayed: Swatantra's vote share fell from 8.68 per cent in 1967 to 3.08 per cent, while its seats declined from 44 to 8, though the electoral system distorted the relationship between votes and representation. Masani attributes the defeat not simply to joining the Front but to inadequate preparation, weak organisation, insufficient funds, too few candidates, and failures of leadership.
 ---
 
+## Summary
+
+In this speech from the chair to the Swatantra Party's General Council, M. R. Masani confronts the party's severe electoral setback and the collapse of a proposed opposition alliance. He argues that the party needs both the courage to return to its principles and the courage to face unpleasant facts. The 1971 results, he says, were less sweeping than commonly portrayed: Swatantra's vote share fell from 8.68 per cent in 1967 to 3.08 per cent, while its seats declined from 44 to 8, though the electoral system distorted the relationship between votes and representation. Masani attributes the defeat not simply to joining the Front but to inadequate preparation, weak organisation, insufficient funds, too few candidates, and failures of leadership.
+
 ## Key points
 
 - Masani frames the party's crisis as requiring courage, faith in the people, and flexibility without abandoning fundamental principles.

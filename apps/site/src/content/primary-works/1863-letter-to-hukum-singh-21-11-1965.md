@@ -51,6 +51,12 @@ summary: |-
   The enclosed 3 September letter gives the allegations in greater detail. Tata claims that officials and intermediaries connected with Nanda’s office, Bombay’s Inspector General of Police Saiyed Majeedullah, and the Central Bureau of Investigation’s Director D. P. Kohly obstructed his complaints concerning Dr. Homi Shapurji Mehta. He characterizes the interception of correspondence as evidence of official corruption and challenges the failure to prosecute or suspend the officials he names. The document presents access to constitutional authorities, parliamentary oversight, and the protection of citizens’ correspondence as matters of democracy and the rule of law.
 ---
 
+## Summary
+
+This two-page correspondence consists of a 21 November 1965 letter from Maneck Edul-Behmen (alias Maneckji Eduji Tata) to Lok Sabha Speaker Hukum Singh, enclosing a true copy of the sender’s 3 September 1965 complaint. The sender alleges that registered letters addressed to Union Home Minister G. L. Nanda and to the Chief Justice of the Supreme Court were intercepted or suppressed before reaching their destinations. He asks that the enclosed letter be placed personally in Nanda’s hands and on the floor of the Lok Sabha so that the alleged conduct within the Ministry of Home Affairs can be exposed.
+
+The enclosed 3 September letter gives the allegations in greater detail. Tata claims that officials and intermediaries connected with Nanda’s office, Bombay’s Inspector General of Police Saiyed Majeedullah, and the Central Bureau of Investigation’s Director D. P. Kohly obstructed his complaints concerning Dr. Homi Shapurji Mehta. He characterizes the interception of correspondence as evidence of official corruption and challenges the failure to prosecute or suspend the officials he names. The document presents access to constitutional authorities, parliamentary oversight, and the protection of citizens’ correspondence as matters of democracy and the rule of law.
+
 ## Key points
 
 - The primary letter is dated 21 November 1965 and is addressed to Lok Sabha Speaker Hukum Singh.

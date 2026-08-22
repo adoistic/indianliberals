@@ -52,6 +52,12 @@ summary: |-
   Masani therefore advocates reliance on the U.S. nuclear umbrella, coupled with continued development of atomic energy for peaceful purposes. He argues that U.S. protection should deter a Chinese attack rather than merely promise retaliation, and calls for India and other free Asian countries to develop a mutual-security understanding with the United States. The statement also warns that changing Soviet leadership and the possible restoration of a Moscow–Peking axis make dependence on Soviet military assistance particularly risky.
 ---
 
+## Summary
+
+This single-page press statement, issued from Rajkot on November 2, 1964, reports M. R. Masani’s response to Communist China’s atomic test and the political changes in the Soviet Union. It presents India with two alternatives: develop an independent nuclear force or rely on protection from the United States. Masani rejects an Indian nuclear buildup, arguing that India could not achieve a deterrent superior to China’s without diverting resources from agriculture and industry and worsening domestic economic and political instability.
+
+Masani therefore advocates reliance on the U.S. nuclear umbrella, coupled with continued development of atomic energy for peaceful purposes. He argues that U.S. protection should deter a Chinese attack rather than merely promise retaliation, and calls for India and other free Asian countries to develop a mutual-security understanding with the United States. The statement also warns that changing Soviet leadership and the possible restoration of a Moscow–Peking axis make dependence on Soviet military assistance particularly risky.
+
 ## Key points
 
 - The statement frames Communist China’s nuclear test and Khrushchev’s fall as requiring an Indian strategic reassessment.

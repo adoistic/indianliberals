@@ -54,6 +54,12 @@ summary: |-
   The second page records a resolution moved by Mr. P.K. Deo and unanimously adopted by the Swatantra Party General Council. It criticises what the Council describes as increasing interference by the Centre in the functioning of State governments, particularly the use of the Governor’s office to install minority governments. The document therefore presents a clear federalist and constitutionalist objection to central intervention in state-level democratic government.
 ---
 
+## Summary
+
+This two-page English-language archival document combines a newspaper clipping titled “RANGA FAILS IN HIS MISSION” with a typed Swatantra Party resolution. The clipping reports on Ranga’s unsuccessful political mission in Ahmedabad and refers to disputes involving party leadership, opposition legislators, and a proposed report to the party’s central executive. The clipping is difficult to read in places, and its precise publication details are not visible.
+
+The second page records a resolution moved by Mr. P.K. Deo and unanimously adopted by the Swatantra Party General Council. It criticises what the Council describes as increasing interference by the Centre in the functioning of State governments, particularly the use of the Governor’s office to install minority governments. The document therefore presents a clear federalist and constitutionalist objection to central intervention in state-level democratic government.
+
 ## Key points
 
 - The document includes a newspaper clipping reporting that Ranga had failed in a political mission.

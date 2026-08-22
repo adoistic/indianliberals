@@ -48,6 +48,10 @@ summary: |-
   This letter, dated 9 July 1968 and addressed to N. Dandekar, concerns the Swatantra Party's strategy for the general election in Uttar Pradesh. M. R. Masani distinguishes between offering campaign advice and assuming responsibility for the campaign's decisions. He recalls an earlier informal offer to help Dandekar and B. P. Singh with campaign planning and candidate presentation, but says that the situation changed after the General Council meeting at Madras and the rejection of a resolution by “Pakida” (the name is unclear in the scan). Masani therefore declines to take a formal role in the party's administration outside the Parliamentary Group.
 ---
 
+## Summary
+
+This letter, dated 9 July 1968 and addressed to N. Dandekar, concerns the Swatantra Party's strategy for the general election in Uttar Pradesh. M. R. Masani distinguishes between offering campaign advice and assuming responsibility for the campaign's decisions. He recalls an earlier informal offer to help Dandekar and B. P. Singh with campaign planning and candidate presentation, but says that the situation changed after the General Council meeting at Madras and the rejection of a resolution by “Pakida” (the name is unclear in the scan). Masani therefore declines to take a formal role in the party's administration outside the Parliamentary Group.
+
 ## Key points
 
 - Masani responds to Dandekar's letter and enclosed material concerning the Uttar Pradesh general election.

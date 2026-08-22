@@ -51,6 +51,12 @@ summary: |-
   The document is a brief personal communication rather than a substantive political argument. Its political context is visible through the reference to the General Council and the Delhi meeting, but the letter does not specify the issues under discussion.
 ---
 
+## Summary
+
+This one-page letter from C. Rajagopalachari to Minoo Masani, dated 6 November 1967, acknowledges receipt of Masani’s letter and an enclosed copy addressed to members of the General Council. Rajagopalachari says that reading the correspondence makes him sad, while expressing hope that he will be well enough to attend the forthcoming Delhi meeting.
+
+The document is a brief personal communication rather than a substantive political argument. Its political context is visible through the reference to the General Council and the Delhi meeting, but the letter does not specify the issues under discussion.
+
 ## Key points
 
 - The letter is dated 6 November 1967 and is written on C. Rajagopalachari’s Madras letterhead.

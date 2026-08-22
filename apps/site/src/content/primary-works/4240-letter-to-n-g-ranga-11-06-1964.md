@@ -50,6 +50,12 @@ summary: |-
   Masani explains that he cannot consult Ranga promptly and therefore assumes that Ranga will agree to the change. He notes that notices have already been issued, halls booked, and C. Rajagopalachari’s public engagements arranged, making it undesirable to disrupt the existing arrangements at this stage. A carbon copy was sent to C. Rajagopalachari.
 ---
 
+## Summary
+
+In this letter dated June 11, 1964, M. R. Masani informs N. G. Ranga that Dahyabhai Patel and three other party members are travelling to the Far East. Because of their absence, Masani proposes postponing the meetings of the C.O.C. and General Council, originally fixed for June 29 and 30, until the last week of July.
+
+Masani explains that he cannot consult Ranga promptly and therefore assumes that Ranga will agree to the change. He notes that notices have already been issued, halls booked, and C. Rajagopalachari’s public engagements arranged, making it undesirable to disrupt the existing arrangements at this stage. A carbon copy was sent to C. Rajagopalachari.
+
 ## Key points
 
 - Masani writes to N. G. Ranga on June 11, 1964.

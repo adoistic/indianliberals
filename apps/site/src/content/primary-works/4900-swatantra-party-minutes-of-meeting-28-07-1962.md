@@ -55,6 +55,12 @@ summary: |-
   The meeting reaffirmed that the Swatantra Party should not establish party-dominated trade unions or another central trade-union organisation. Instead, members were encouraged to help workers create and manage independent unions, serve the working class, and resist political exploitation and domination. The conference recommended a Labour Advisory Committee to promote internal interest in labour, advise the Party’s National Executive, collect information, train members in genuine trade-union practice, help workers address housing, education, and medical needs, liaise with legislators, publish educational material, and support a full-time labour organiser. The General Secretary expressed the hope that these efforts would broaden the Party’s social base among industrial workers.
 ---
 
+## Summary
+
+These three pages record the Swatantra Party’s meeting of trade-union workers in Bombay on July 28–29, 1962. Chaired by M. R. Masani, the meeting brought together representatives and observers from unions in sectors including aviation, railways, engineering, mining, plantations, banking, steel, and petroleum. Masani opened by identifying insufficient leadership attention to labour and trade-union work and divided the discussion between the Party’s labour policy and members’ activities in the trade-union movement.
+
+The meeting reaffirmed that the Swatantra Party should not establish party-dominated trade unions or another central trade-union organisation. Instead, members were encouraged to help workers create and manage independent unions, serve the working class, and resist political exploitation and domination. The conference recommended a Labour Advisory Committee to promote internal interest in labour, advise the Party’s National Executive, collect information, train members in genuine trade-union practice, help workers address housing, education, and medical needs, liaise with legislators, publish educational material, and support a full-time labour organiser. The General Secretary expressed the hope that these efforts would broaden the Party’s social base among industrial workers.
+
 ## Key points
 
 - The meeting was held in Bombay on July 28 and 29, 1962, with M. R. Masani in the chair.

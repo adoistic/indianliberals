@@ -51,6 +51,12 @@ summary: |-
   The circular also provides practical arrangements for National Executive members and invitees, including a luncheon hosted by Treasurer Manu Amrsey and instructions for obtaining hotel and rail or air reservations. The attached four-page annexure lists accommodation options in Bombay, with daily single and double room rates, meal and breakfast arrangements, air-conditioning charges, service charges, taxes, and selected suite tariffs. The document is therefore primarily an internal party-administration notice combining meeting business with logistical information.
 ---
 
+## Summary
+
+Dated March 21, 1972, this Swatantra Party circular, signed by General Secretary Madhu Mehta, confirms that the next National Executive meeting will be held on April 8, 1972, at the C.M.A. Conference Room in Bombay. Its six-item agenda includes confirmation of the minutes of the previous meeting, business arising from them, a review of the Party's performance in recent State Assembly elections, plans for future activity and organisational strengthening, recommendations for the General Council, and other business with the Chair's permission.
+
+The circular also provides practical arrangements for National Executive members and invitees, including a luncheon hosted by Treasurer Manu Amrsey and instructions for obtaining hotel and rail or air reservations. The attached four-page annexure lists accommodation options in Bombay, with daily single and double room rates, meal and breakfast arrangements, air-conditioning charges, service charges, taxes, and selected suite tariffs. The document is therefore primarily an internal party-administration notice combining meeting business with logistical information.
+
 ## Key points
 
 - The circular is dated March 21, 1972, and announces the next National Executive meeting for April 8, 1972.

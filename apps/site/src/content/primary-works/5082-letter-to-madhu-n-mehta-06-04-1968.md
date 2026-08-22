@@ -49,6 +49,12 @@ summary: |-
   The letter is brief and procedural. It records Khanna's support for convening the council but gives no reasons for Masani's resignation, no account of the wider political dispute, and no details about the proposed meeting.
 ---
 
+## Summary
+
+This one-page letter, dated April 6, 1968, is written by G.K. Khanna to Mrs Madhu N. Mehta from the Oberoi InterContinental in New Delhi. Khanna acknowledges Mehta's circular letter of March 31 and agrees that the General Council should meet immediately to discuss Minoo Masani's resignation.
+
+The letter is brief and procedural. It records Khanna's support for convening the council but gives no reasons for Masani's resignation, no account of the wider political dispute, and no details about the proposed meeting.
+
 ## Key points
 
 - The letter is dated April 6, 1968, and was sent from New Delhi.

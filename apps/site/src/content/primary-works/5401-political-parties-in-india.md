@@ -55,6 +55,12 @@ summary: |-
   The excerpt then assesses Swatantra’s expansion, intellectual foundations, and organisational weaknesses. Its success is attributed partly to the rise of anti-Congress sentiment and improved alliances, especially in Rajasthan, Gujarat, and Orissa. The party is presented as influenced by the neo-liberal Western tradition associated with Hayek and Röpke, while retaining a stated Gandhian element. At the same time, the text criticises its weak organisation, conservative and liberal internal tensions, academic style, limited mass appeal, and reliance on ad hoc arrangements. Its concluding assessment is mixed: Swatantra is not characterised as reactionary, and its parliamentary work is credited with strengthening Indian democracy, but the party is judged to need a major organisational programme.
 ---
 
+## Summary
+
+The rendered excerpt examines the 1971 mid-term election results and the position of the Swatantra Party within India’s opposition politics. It argues that the anti-Congress alliance failed to coordinate candidate selection effectively: agreement covered only about 300 of 518 Lok Sabha constituencies, while alliance partners continued to contest against one another in more than 200 seats. The analysis suggests that better concentration of resources and more coherent electoral cooperation could have altered the distribution of seats, even though Congress (R) won 68 per cent of the seats with about 43.6 per cent of the popular vote.
+
+The excerpt then assesses Swatantra’s expansion, intellectual foundations, and organisational weaknesses. Its success is attributed partly to the rise of anti-Congress sentiment and improved alliances, especially in Rajasthan, Gujarat, and Orissa. The party is presented as influenced by the neo-liberal Western tradition associated with Hayek and Röpke, while retaining a stated Gandhian element. At the same time, the text criticises its weak organisation, conservative and liberal internal tensions, academic style, limited mass appeal, and reliance on ad hoc arrangements. Its concluding assessment is mixed: Swatantra is not characterised as reactionary, and its parliamentary work is credited with strengthening Indian democracy, but the party is judged to need a major organisational programme.
+
 ## Key points
 
 - The anti-Congress alliance reached agreement on candidates in only about 300 of the 518 Lok Sabha constituencies.

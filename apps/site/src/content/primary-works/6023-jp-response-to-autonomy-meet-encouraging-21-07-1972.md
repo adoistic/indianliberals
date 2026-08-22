@@ -51,6 +51,12 @@ summary: |-
   The report emphasizes that Narayan's proposed conference would be “entirely non-partisan.” It also notes his refusal to comment on Madhya Pradesh Chief Minister P. C. Sethi's criticism of Sarvodaya workers' role in the surrender of dacoits and of Narayan's warning against concentrating power in one hand. The clipping is a single reported news item, not a signed article.
 ---
 
+## Summary
+
+This 21 July 1972 Indian Express report records Jayaprakash Narayan's favourable response to a proposed conference on state autonomy. Narayan said the preparatory work was proceeding and that the meeting might be held by the end of September; details such as the venue and invitees were still being arranged.
+
+The report emphasizes that Narayan's proposed conference would be “entirely non-partisan.” It also notes his refusal to comment on Madhya Pradesh Chief Minister P. C. Sethi's criticism of Sarvodaya workers' role in the surrender of dacoits and of Narayan's warning against concentrating power in one hand. The clipping is a single reported news item, not a signed article.
+
 ## Key points
 
 - Jayaprakash Narayan described the response to the proposed state-autonomy conference as encouraging.

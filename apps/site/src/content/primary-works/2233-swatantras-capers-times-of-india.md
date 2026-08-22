@@ -49,6 +49,12 @@ summary: |-
   The visible section focuses on an exchange between the party president, Mr. Mody, and his predecessor, Mr. Masani. It criticizes Mody for denouncing socialism indiscriminately as an “evil,” while noting Masani's argument that labels such as “right” and “left” are meaningless and his claim that Swatantra was “more radical than the socialist establishment.” The clipping ends mid-sentence while discussing the party's alliance with discredited politicians to topple the Sapaty ministry in Cuttack; the article's continuation is not visible.
 ---
 
+## Summary
+
+“SWATANTRA'S CAPERS,” published under The Times of India's masthead, is a newspaper commentary on the Swatantra Party's political difficulties after defeat in assembly elections and subsequent setbacks. The article argues that the party's annual convention in Madras offered an opportunity to clarify its ideas and redefine its role in national politics, but that its leaders were instead carried away by their own rhetoric.
+
+The visible section focuses on an exchange between the party president, Mr. Mody, and his predecessor, Mr. Masani. It criticizes Mody for denouncing socialism indiscriminately as an “evil,” while noting Masani's argument that labels such as “right” and “left” are meaningless and his claim that Swatantra was “more radical than the socialist establishment.” The clipping ends mid-sentence while discussing the party's alliance with discredited politicians to topple the Sapaty ministry in Cuttack; the article's continuation is not visible.
+
 ## Key points
 
 - The article examines Swatantra Party leaders' recovery from electoral defeat and later political setbacks.

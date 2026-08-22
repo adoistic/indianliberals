@@ -50,6 +50,12 @@ summary: |-
   The letter argues that people such as Masani ought to be in Parliament and condemns the other parties’ alleged use of “very unfair and foul means.” It hopes that the election might still be invalidated or overturned, while closing with wishes for Masani’s return to Parliament and for the welfare, health, prosperity, position, and reputation of him and his family.
 ---
 
+## Summary
+
+This single-page letter, typed on F. P. Wadia’s Rajkot letterhead and dated 18 March 1971, addresses Minoo Masani after his defeat in a current election. Wadia, writing jointly with Aloo, expresses shock and unhappiness at the result and alleges that “dirty tactics” and betrayal by some of Masani’s own supporters contributed to the defeat.
+
+The letter argues that people such as Masani ought to be in Parliament and condemns the other parties’ alleged use of “very unfair and foul means.” It hopes that the election might still be invalidated or overturned, while closing with wishes for Masani’s return to Parliament and for the welfare, health, prosperity, position, and reputation of him and his family.
+
 ## Key points
 
 - F. P. Wadia’s letter is dated 18 March 1971 and was sent from Rajkot.

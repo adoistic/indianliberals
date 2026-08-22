@@ -50,6 +50,12 @@ summary: |-
   Masani also states that he is writing to the Chief Minister and Minister of Education of Orissa, hoping that the state government will change its policy. He suggests that the policy was inherited from the previous government, framing the dispute as an instance of state control in education that should be reconsidered.
 ---
 
+## Summary
+
+In this letter dated 20 June 1968, M. R. Masani writes to S. Mahapatra in support of Mahapatra’s appeal against the nationalisation of textbooks in Orissa. Masani says he is “in entire sympathy” with the appeal and notes that he has expressed the same position in Parliament and elsewhere. He encloses a Forum of Free Enterprise publication and a resolution adopted by the Swatantra Party’s General Council in May 1966.
+
+Masani also states that he is writing to the Chief Minister and Minister of Education of Orissa, hoping that the state government will change its policy. He suggests that the policy was inherited from the previous government, framing the dispute as an instance of state control in education that should be reconsidered.
+
 ## Key points
 
 - Masani endorses S. Mahapatra’s appeal against the nationalisation of textbooks in Orissa.

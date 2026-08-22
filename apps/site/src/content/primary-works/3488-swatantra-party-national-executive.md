@@ -51,3 +51,7 @@ ai:
 summary: |-
   The visible pages of Swatantra Souvenir 1966 document the Swatantra Party's organizational structure and leadership. They list the National Executive, including President Prof. N. G. Ranga, Vice-Presidents K. M. Munshi, M. Ruthnaswamy, and Gayatri Devi, General Secretary M. R. Masani, Joint Secretary N. Dandekar, treasurers, and members. A second section records state and regional units across India, with addresses, office-bearers, telephone numbers, and telegram addresses. The pages therefore present the party as a nationally distributed political organization with a formal central structure and regional network.
 ---
+
+## Summary
+
+The visible pages of Swatantra Souvenir 1966 document the Swatantra Party's organizational structure and leadership. They list the National Executive, including President Prof. N. G. Ranga, Vice-Presidents K. M. Munshi, M. Ruthnaswamy, and Gayatri Devi, General Secretary M. R. Masani, Joint Secretary N. Dandekar, treasurers, and members. A second section records state and regional units across India, with addresses, office-bearers, telephone numbers, and telegram addresses. The pages therefore present the party as a nationally distributed political organization with a formal central structure and regional network.

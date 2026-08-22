@@ -47,6 +47,12 @@ summary: |-
   The letter includes an internal request to M. Mehta to mail three items: the Bombay Convention Handbook, a folder titled “Who is outdated ?”, and a Swatantra Services Centre folder. It further asks that Segal be placed on the party’s mailing list for future literature. The document therefore records a modest but specific effort to circulate Swatantra Party material internationally.
 ---
 
+## Summary
+
+This one-page English letter, dated 1 December 1959, is M. R. Masani’s reply to Sam Segal at Representation Politique pour l'Europe in Paris. Masani acknowledges Segal’s letter and notes that he has already responded to Segal’s chairman, Mr. Moshe Kol, conveying reciprocal sentiments. He also says that the Bombay office will send Segal relevant literature.
+
+The letter includes an internal request to M. Mehta to mail three items: the Bombay Convention Handbook, a folder titled “Who is outdated ?”, and a Swatantra Services Centre folder. It further asks that Segal be placed on the party’s mailing list for future literature. The document therefore records a modest but specific effort to circulate Swatantra Party material internationally.
+
 ## Key points
 
 - M. R. Masani’s letter is dated 1 December 1959 and addressed to Sam Segal in Paris.

@@ -52,6 +52,12 @@ summary: |-
   Shah supports his appeal with recent political developments and conversations with Swatantra leaders. He criticises the proposed “broad-spectrum” party as shapeless and lacking clear principles, and insists that the Swatantra Party should continue to exist, explain its policies to the public, and cooperate with other democratic parties only on specific issues. Drawing on the party’s liberal ideals and on Jeremy Thorpe’s discussion of liberalism in Freedom First, Shah argues that electoral success and access to power should not displace political principle.
 ---
 
+## Summary
+
+In this letter dated 13 May 1974, Sumatilal P. Shah urges Minoo Masani to intervene urgently to prevent the Swatantra Party from dissolving and merging with a proposed new political formation. Shah argues that press reports suggest seven parties are preparing to merge, with Charan Singh expected to chair the new party and the Swatantra Party among those participating. He presents the merger as a threat to the party’s principles and as a loss for democratic pluralism in India.
+
+Shah supports his appeal with recent political developments and conversations with Swatantra leaders. He criticises the proposed “broad-spectrum” party as shapeless and lacking clear principles, and insists that the Swatantra Party should continue to exist, explain its policies to the public, and cooperate with other democratic parties only on specific issues. Drawing on the party’s liberal ideals and on Jeremy Thorpe’s discussion of liberalism in Freedom First, Shah argues that electoral success and access to power should not displace political principle.
+
 ## Key points
 
 - Shah asks Masani to act against the proposed dissolution and merger of the Swatantra Party.

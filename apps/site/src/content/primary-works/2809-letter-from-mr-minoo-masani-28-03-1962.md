@@ -47,6 +47,12 @@ summary: |-
   Masani also encloses notices for two meetings in Delhi on the afternoon of Sunday, 15 April, and asks Kapur Singh to attend if convenient. The letter is organizational in character, documenting efforts to coordinate party-building, candidate selection, and meetings in the period following the Party's formation.
 ---
 
+## Summary
+
+In this letter dated 28 March 1962, M. R. Masani writes to Sardar Kapur Singh about cooperating to build the Party both in Parliament and outside it. Masani invites Kapur Singh to attend the Candidates' Convention in Bombay on 7–8 April, describing it as an opportunity to meet Rajaji and other candidates and to learn about both successful and unsuccessful candidates.
+
+Masani also encloses notices for two meetings in Delhi on the afternoon of Sunday, 15 April, and asks Kapur Singh to attend if convenient. The letter is organizational in character, documenting efforts to coordinate party-building, candidate selection, and meetings in the period following the Party's formation.
+
 ## Key points
 
 - Masani welcomes Kapur Singh's cooperation in building the Party in Parliament and outside it.

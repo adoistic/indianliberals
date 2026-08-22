@@ -49,6 +49,12 @@ summary: |-
   The letter is a brief personal communication documenting an intended intervention in a local electoral campaign. It offers no further discussion of the candidate, the constituency, or the issues in the election.
 ---
 
+## Summary
+
+This two-page letter, dated 8 November 1978, is from Dr. H. P. Ranina to Shri S. V. Raju. Ranina explains that he has just returned from a tour of Baroda and Ahmedabad and was too late to cast his own personal vote. He regrets that, had he been in Bombay, he would have accepted Raju’s invitation to assist S. Ramachandran (Ramu), a candidate in the Matunga municipal election.
+
+The letter is a brief personal communication documenting an intended intervention in a local electoral campaign. It offers no further discussion of the candidate, the constituency, or the issues in the election.
+
 ## Key points
 
 - The letter is dated 8 November 1978 and is addressed to Shri S. V. Raju.

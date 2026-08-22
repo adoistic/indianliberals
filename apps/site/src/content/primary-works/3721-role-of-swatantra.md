@@ -51,6 +51,10 @@ summary: |-
   In this four-page document, Madhu Mehta reflects on a conversation with C. Rajagopalachari (Rajaji) shortly before Rajaji's death and asks what role the Swatantra Party should play in India's deteriorating political situation. Mehta describes widespread public anger, declining faith in democracy, student unrest, and the perceived organisational strength of the communists. He criticises the Congress for using money, influence, blackmail, and control of government resources, while also faulting the non-communist opposition for division, loss of credibility, and failure to offer a common alternative.
 ---
 
+## Summary
+
+In this four-page document, Madhu Mehta reflects on a conversation with C. Rajagopalachari (Rajaji) shortly before Rajaji's death and asks what role the Swatantra Party should play in India's deteriorating political situation. Mehta describes widespread public anger, declining faith in democracy, student unrest, and the perceived organisational strength of the communists. He criticises the Congress for using money, influence, blackmail, and control of government resources, while also faulting the non-communist opposition for division, loss of credibility, and failure to offer a common alternative.
+
 ## Key points
 
 - Mehta recalls Rajaji's advice that Swatantra must keep its flag flying and continue communicating its message across India, even after electoral defeats.

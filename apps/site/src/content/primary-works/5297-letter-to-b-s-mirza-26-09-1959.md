@@ -49,6 +49,12 @@ summary: |-
   The letter’s immediate purpose is administrative: Trikha points out that Mirza’s office posted the letter without affixing the required postal stamps, interpreting this as evidence that the office is otherwise busy with party affairs. He asks Mirza to send Masani’s current address so that he can contact him. A handwritten note in the margin reads “/S.P. stamp attached/,” and the letter is signed “B. Trikha.”
 ---
 
+## Summary
+
+This one-page English letter, dated 26 September 1959, is written from the Swatantra Party’s Meerut Office by its president, Balraj Trikha, to Miss B.S. Mirza. Trikha acknowledges Mirza’s letter of 14 September 1959, sent on behalf of M. R. Masani, and notes that it was received several days earlier.
+
+The letter’s immediate purpose is administrative: Trikha points out that Mirza’s office posted the letter without affixing the required postal stamps, interpreting this as evidence that the office is otherwise busy with party affairs. He asks Mirza to send Masani’s current address so that he can contact him. A handwritten note in the margin reads “/S.P. stamp attached/,” and the letter is signed “B. Trikha.”
+
 ## Key points
 
 - The document is a one-page Swatantra Party Meerut Office letter dated 26 September 1959.

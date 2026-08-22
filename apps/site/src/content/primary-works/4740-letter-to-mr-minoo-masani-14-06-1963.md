@@ -49,6 +49,10 @@ summary: |-
   This handwritten letter from A. D. Shroff to Minoo Masani, dated 14 June 1963, discusses political organisation and leadership. Shroff refers to Achyut Patwardhan and appears to assess the prospects of organising a political group, including the need for effective members, coordinated activity, and a stronger presence in Delhi. The letter also mentions an organisation that has recently emerged and the possibility of developing a more detailed organisational plan.
 ---
 
+## Summary
+
+This handwritten letter from A. D. Shroff to Minoo Masani, dated 14 June 1963, discusses political organisation and leadership. Shroff refers to Achyut Patwardhan and appears to assess the prospects of organising a political group, including the need for effective members, coordinated activity, and a stronger presence in Delhi. The letter also mentions an organisation that has recently emerged and the possibility of developing a more detailed organisational plan.
+
 ## Key points
 
 - The letter is addressed to Minoo Masani and dated 14 June 1963.

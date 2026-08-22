@@ -50,6 +50,12 @@ summary: |-
   The letter also encloses a complete set of amendments tabled by the Swatantra Party in the Lok Sabha concerning the Defence of India Bill, 1962. It is addressed to M. R. Masani and signed by A. P. Jain, whose printed designation is not expanded on the page.
 ---
 
+## Summary
+
+This single-page letter, dated 20 November 1962 and issued by the Swatantra Party Parliamentary Office, communicates the party's decision not to participate in Central Citizens' Committees associated directly or indirectly with the Communist Party. It records that the party's Members of Parliament have declined an invitation conveyed by the Minister of Parliamentary Affairs, and notes that a reply to Satya Narayan Sinha has been sent by “Ranga ji.”
+
+The letter also encloses a complete set of amendments tabled by the Swatantra Party in the Lok Sabha concerning the Defence of India Bill, 1962. It is addressed to M. R. Masani and signed by A. P. Jain, whose printed designation is not expanded on the page.
+
 ## Key points
 
 - The letter is dated 20 November 1962 and is issued on Swatantra Party Parliamentary Office letterhead.

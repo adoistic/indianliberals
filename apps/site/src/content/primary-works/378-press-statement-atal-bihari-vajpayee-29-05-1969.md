@@ -54,6 +54,12 @@ summary: |-
   Vajpayee defends the Jana Sangh’s participation after criticism of his absence from a meeting. He says a six-member sub-committee was empowered to negotiate, describes three rounds of talks, and stresses that any merger would depend on agreement over principles, policies, and programmes. The statement rejects the B.K.D.’s abrupt decision to close the talks as either immature or irresponsible, while affirming that the Jana Sangh will continue efforts to bring nationalist and democratic elements together.
 ---
 
+## Summary
+
+This two-page press statement, issued by Atal Bihari Vajpayee as president of the Bharatiya Jana Sangh on 29 May 1969, explains the party’s exploratory talks with Swatantra and B.K.D. leaders. It places those talks in the context of a perceived threat to national unity and democracy from disruptive forces, arguing that parties committed to nationalism and democracy should seek a common plan of action despite inter-party differences.
+
+Vajpayee defends the Jana Sangh’s participation after criticism of his absence from a meeting. He says a six-member sub-committee was empowered to negotiate, describes three rounds of talks, and stresses that any merger would depend on agreement over principles, policies, and programmes. The statement rejects the B.K.D.’s abrupt decision to close the talks as either immature or irresponsible, while affirming that the Jana Sangh will continue efforts to bring nationalist and democratic elements together.
+
 ## Key points
 
 - The Jana Sangh Working Committee identified a growing threat to national unity and democracy from disruptive forces.

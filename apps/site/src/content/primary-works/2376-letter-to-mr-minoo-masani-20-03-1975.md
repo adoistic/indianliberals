@@ -46,6 +46,10 @@ summary: |-
   This untitled letter, dated 20 March 1975, was sent by the Operations Division of The Associated Cement Companies, Limited, to M. R. Masani regarding jeep bearing registration number MRA 4096. The company states that it purchased the jeep in May 1967 and that the vehicle was then located at Chanda Cement Works in Maharashtra.
 ---
 
+## Summary
+
+This untitled letter, dated 20 March 1975, was sent by the Operations Division of The Associated Cement Companies, Limited, to M. R. Masani regarding jeep bearing registration number MRA 4096. The company states that it purchased the jeep in May 1967 and that the vehicle was then located at Chanda Cement Works in Maharashtra.
+
 ## Key points
 
 - The letter is dated 20 March 1975 and is issued from the company's Operations Division in Bombay.

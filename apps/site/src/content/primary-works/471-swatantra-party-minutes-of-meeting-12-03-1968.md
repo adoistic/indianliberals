@@ -55,6 +55,12 @@ summary: |-
   The minutes also assign Shri Parmar to speak on railway demands, leaving the party leader to determine additional speakers. The committee discussed the General Budget, with M. R. Masani, P. K. Deo, and N. K. Somani presenting their views; the record states that the committee approved the line they were likely to take. No formal title or individual author is printed, and the document is issued on the Swatantra Party Parliamentary Office letterhead.
 ---
 
+## Summary
+
+This one-page English office record from the Swatantra Party Parliamentary Office documents an Executive Committee meeting held on 7 March 1968 at Parliament House, New Delhi. It lists eight committee members and three special invitees, records the selection of N. Dandekar and C. C. Desai for the Banking Bill Select Committee, and notes that the party chose to boycott the proposed Advisory Committee on the powers of Governors and the National Integration Council.
+
+The minutes also assign Shri Parmar to speak on railway demands, leaving the party leader to determine additional speakers. The committee discussed the General Budget, with M. R. Masani, P. K. Deo, and N. K. Somani presenting their views; the record states that the committee approved the line they were likely to take. No formal title or individual author is printed, and the document is issued on the Swatantra Party Parliamentary Office letterhead.
+
 ## Key points
 
 - Records a Swatantra Party Executive Committee meeting held on 7 March 1968 in the Party Room, Central Hall, Parliament House, New Delhi.

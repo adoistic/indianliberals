@@ -51,6 +51,12 @@ summary: |-
   Masani further asks Raju to determine whether copies of a draft programme can be sent to the Madras and Mysore units, possibly through Shri Shrinivas Malvi. He stresses that the programme is only a draft and need not be final, but should provide a rough basis for discussion and preparation.
 ---
 
+## Summary
+
+In this handwritten letter dated 18 September 1974, Minoo Masani asks S. V. Raju to make inquiries in Madras about the proposed National Convention. He seeks information on whether people in Madras would approve the convention and whether November would be a more suitable time than October. He also recommends careful advance planning, including earlier meetings and communication with the various Pradesh Congress Committees, to avoid a rushed or divided convention.
+
+Masani further asks Raju to determine whether copies of a draft programme can be sent to the Madras and Mysore units, possibly through Shri Shrinivas Malvi. He stresses that the programme is only a draft and need not be final, but should provide a rough basis for discussion and preparation.
+
 ## Key points
 
 - Masani asks Raju to assess support in Madras for holding the National Convention.

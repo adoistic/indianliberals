@@ -51,6 +51,12 @@ summary: |-
   Gopal Krishna also resigns from the Joint Secretaryship of the Forum of Free Enterprise, explaining that he intends to enter the Educational Trust established by his father. The final handwritten pages appear to continue with a separate or related personal note, criticizing the party's leadership and prospects before the 1975 elections. The handwriting is difficult to decipher in places; the summary therefore treats that continuation cautiously. The entire four-page PDF was rendered, but the document has no printed title and the recipient is not fully catalogued.
 ---
 
+## Summary
+
+This confidential letter, dated 4 March 1974 and written from the Swatantra Party's Mysore State Headquarters, records G. M. Gopal Krishna's resignation from his elective party posts, including the Joint Secretaryship and state-level responsibilities, while retaining life membership. Addressed to Sri Ganapaiah, it attributes the Mysore unit's difficulties to the neglect of state affairs by senior leaders, poor attendance at the 2 December 1973 State Council meeting, internal factionalism, and the influence of individuals whom the author regards as insufficiently committed to Swatantra principles.
+
+Gopal Krishna also resigns from the Joint Secretaryship of the Forum of Free Enterprise, explaining that he intends to enter the Educational Trust established by his father. The final handwritten pages appear to continue with a separate or related personal note, criticizing the party's leadership and prospects before the 1975 elections. The handwriting is difficult to decipher in places; the summary therefore treats that continuation cautiously. The entire four-page PDF was rendered, but the document has no printed title and the recipient is not fully catalogued.
+
 ## Key points
 
 - G. M. Gopal Krishna tenders his resignation from the Swatantra Party's elective posts but retains life membership.

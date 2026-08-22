@@ -49,6 +49,12 @@ summary: |-
   Paniani explains that Government service restrictions prevent him from becoming an active party member. He argues that it would serve both the party and interested Government servants if the Government of India allowed civil servants to join the party without detriment to their office hours. The letter asks Masani to pursue the matter and expresses hope that such restrictions may eventually be removed.
 ---
 
+## Summary
+
+This two-page letter from the apparent signatory P. V. Paniani to M. R. Masani concerns Government employees who wished to participate actively in the Swatantra Party. Paniani reports attending a party meeting at Sunder Bai Hall, where Rajaji, Professor Ranga, and Shri Mody spoke, and says the meeting convinced him of the party's fundamentals.
+
+Paniani explains that Government service restrictions prevent him from becoming an active party member. He argues that it would serve both the party and interested Government servants if the Government of India allowed civil servants to join the party without detriment to their office hours. The letter asks Masani to pursue the matter and expresses hope that such restrictions may eventually be removed.
+
 ## Key points
 
 - The writer attended a Swatantra Party meeting at Sunder Bai Hall.

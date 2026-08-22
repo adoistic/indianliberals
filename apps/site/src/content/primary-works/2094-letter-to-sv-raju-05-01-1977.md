@@ -52,6 +52,12 @@ summary: |-
   The letter also addresses two practical matters. Srikumar tells Raju not to worry about an issue referred to as “Chanakya,” saying that he has not yet made his position clear. He recommends that Raju meet the Tax Recovery Officer to clarify the matter and says the officer will be provided with the correct position. The letter closes by remarking that Piloo Mody’s present attitude was unsurprising.
 ---
 
+## Summary
+
+This two-page letter, dated 5 January 1977 and sent from the Swatantra Party National Headquarters by Joint Secretary V. S. Srikumar to S. V. Raju, discusses the party's response to criticism of its Madurai conference. Srikumar says that the conference on the 44th Constitution Amendment Bill, and the resolutions passed at Madras and circulated to ministers and members of Parliament, had provoked what he calls a libellous attack on the party and its founders. He urges the Madurai conference and party committees to answer what he describes as unwarranted and false accusations.
+
+The letter also addresses two practical matters. Srikumar tells Raju not to worry about an issue referred to as “Chanakya,” saying that he has not yet made his position clear. He recommends that Raju meet the Tax Recovery Officer to clarify the matter and says the officer will be provided with the correct position. The letter closes by remarking that Piloo Mody’s present attitude was unsurprising.
+
 ## Key points
 
 - The letter responds to criticism directed at the Swatantra Party and its founders.

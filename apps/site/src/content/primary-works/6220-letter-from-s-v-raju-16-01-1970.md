@@ -45,6 +45,10 @@ summary: |-
   In this typed letter dated January 16, 1970, S. V. Raju replies to Major G. P. Mahurty, Principal of Kalahandi College, regarding an invitation for M. R. Masani to attend the college's annual function. Raju explains that Masani, who is abroad, already has engagements in Ahmedabad on January 31 and February 1, making it impossible for him to accept the invitation.
 ---
 
+## Summary
+
+In this typed letter dated January 16, 1970, S. V. Raju replies to Major G. P. Mahurty, Principal of Kalahandi College, regarding an invitation for M. R. Masani to attend the college's annual function. Raju explains that Masani, who is abroad, already has engagements in Ahmedabad on January 31 and February 1, making it impossible for him to accept the invitation.
+
 ## Key points
 
 - S. V. Raju responds to Major G. P. Mahurty's invitation concerning M. R. Masani.

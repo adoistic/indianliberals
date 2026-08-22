@@ -50,6 +50,12 @@ summary: |-
   The report then presents state-wise figures, including Andhra Pradesh, Bihar, Gujarat, Haryana, Kerala, Madhya Pradesh, Maharashtra, Rajasthan, Tamil Nadu, Uttar Pradesh, West Bengal, and Mysore. Its central concern is the rapid expansion of ministerial establishments and the associated budgetary burden, though the surviving clipping does not provide a concluding assessment. The third rendered page contains a separate, unrelated customs report and does not continue the ministerial expenditure article.
 ---
 
+## Summary
+
+This newspaper report, datelined New Delhi, August 23, examines the growth of expenditure on ministers and ministerial establishments in India over the preceding decade. Citing a UNI study, it states that the number of ministers rose from 294 in 1961 to 455 in 1970–71, while expenditure increased from approximately Rs. 1.2 crores to Rs. 2.70 crores. The comparison covers salaries, allowances, establishment costs, travelling expenses, and related amenities, with the article noting that Jammu and Kashmir and some Union Territories are excluded where data were unavailable.
+
+The report then presents state-wise figures, including Andhra Pradesh, Bihar, Gujarat, Haryana, Kerala, Madhya Pradesh, Maharashtra, Rajasthan, Tamil Nadu, Uttar Pradesh, West Bengal, and Mysore. Its central concern is the rapid expansion of ministerial establishments and the associated budgetary burden, though the surviving clipping does not provide a concluding assessment. The third rendered page contains a separate, unrelated customs report and does not continue the ministerial expenditure article.
+
 ## Key points
 
 - The report says overall expenditure on ministers at the Centre and in the states more than doubled over ten years.

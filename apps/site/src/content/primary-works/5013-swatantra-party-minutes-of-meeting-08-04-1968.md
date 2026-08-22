@@ -54,6 +54,12 @@ summary: |-
   The memorandum also allocates parliamentary speaking responsibilities. P. K. Deo was asked to speak on Prof. Hiren Mukerjee’s resolution concerning development of the Calcutta metropolitan area, while Prof. N. G. Ranga was asked to speak on Dr. Singhvi’s resolution concerning ombudsman legislation and Smt. Kamla Chaudhri’s resolution concerning the language commission. Signed by P. N. Solanki as Secretary, the document is an administrative record of party coordination and parliamentary strategy rather than a substantive policy argument.
 ---
 
+## Summary
+
+This one-page English memorandum records a meeting of the Swatantra Party Executive Committee held at Parliament House on April 8, 1965. Prof. N. G. Ranga chaired the meeting, which was attended by N. Dandekar, Krishnapal Singh, and P. K. Deo. The record documents approved nominations to a range of parliamentary committees, including the Public Accounts Committee, Estimates Committee, Business Advisory Committee, Committee on Petitions, House Committee, National Shipping Board, and Institute of Technology.
+
+The memorandum also allocates parliamentary speaking responsibilities. P. K. Deo was asked to speak on Prof. Hiren Mukerjee’s resolution concerning development of the Calcutta metropolitan area, while Prof. N. G. Ranga was asked to speak on Dr. Singhvi’s resolution concerning ombudsman legislation and Smt. Kamla Chaudhri’s resolution concerning the language commission. Signed by P. N. Solanki as Secretary, the document is an administrative record of party coordination and parliamentary strategy rather than a substantive policy argument.
+
 ## Key points
 
 - The Swatantra Party Executive Committee met on April 8, 1965, at Parliament House in New Delhi.

@@ -50,6 +50,12 @@ summary: |-
   Dated 26.8.69, the receipt records the receipt of twenty rupees. The handwritten “Received from” field appears to name “Mr. M. R. Masani,” while the handwritten account description appears to refer to expenses connected with a parliamentary party or parliamentary group. The document does not present an author, title, argument, or extended discussion.
 ---
 
+## Summary
+
+This one-page English-language receipt is an institutional office record issued by the Swatantra Party Parliamentary Group in New Delhi. The printed form is headed “SWATANTRA PARTY PARLIAMENTARY OFFICE” and identifies the issuing body as the “SWATANTRA PARTY PARLIAMENTARY GROUP.”
+
+Dated 26.8.69, the receipt records the receipt of twenty rupees. The handwritten “Received from” field appears to name “Mr. M. R. Masani,” while the handwritten account description appears to refer to expenses connected with a parliamentary party or parliamentary group. The document does not present an author, title, argument, or extended discussion.
+
 ## Key points
 
 - The document is a one-page receipt form rather than a discursive publication.

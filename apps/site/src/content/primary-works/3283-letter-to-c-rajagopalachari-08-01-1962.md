@@ -51,6 +51,12 @@ summary: |-
   Masani also encloses newspaper clippings about company donations, recommending that an Indian Express report be reproduced in Swarajya because it supports Rajaji’s earlier statement and contradicts a later statement by the Prime Minister. The letter further seeks Rajaji’s likely dates for visiting Bombay and Orissa, so that Masani can coordinate political movements and publicise Rajaji’s commitment to the Orissa people.
 ---
 
+## Summary
+
+In this letter dated 8 January 1962, Minoo Masani writes to C. Rajagopalachari (“Rajaji”) about the draft minutes of a Parliamentary Sub-committee meeting concerning the Bihar jeep credit issue. He asks Rajaji to approve the minutes, stressing the importance of preserving an accurate record of his report and Ramasrith’s assurances in case the Swatantra Party later needs to protect its interests in litigation.
+
+Masani also encloses newspaper clippings about company donations, recommending that an Indian Express report be reproduced in Swarajya because it supports Rajaji’s earlier statement and contradicts a later statement by the Prime Minister. The letter further seeks Rajaji’s likely dates for visiting Bombay and Orissa, so that Masani can coordinate political movements and publicise Rajaji’s commitment to the Orissa people.
+
 ## Key points
 
 - Masani forwards extracts from draft minutes of a Parliamentary Sub-committee meeting held on 4 and 5 January concerning the Bihar jeep credit issue.

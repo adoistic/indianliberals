@@ -49,6 +49,12 @@ summary: |-
   The letter notes that G. Ramachandran, the union's president, will preside and that Peter Alvarez, President of the All India Railwaymen's Federation, will inaugurate the open session. It also states that leaders of public opinion and labour have been invited to address the convention, and asks Masani to send a message if he cannot attend. Handwritten annotations on the page appear to discuss sending a message on behalf of Masani, but their full wording is not reliably legible.
 ---
 
+## Summary
+
+This single-page English letter, dated 5 June 1970, is an invitation from K. Venkataraman, Secretary/Treasurer of the Southern Railway Mazdoor Union (Madras), to M. R. Masani, Chairman of the Swatantra Party. It invites Masani to attend and address the open session of the union's seventh annual convention, scheduled to take place at the Damara Gopalakrishna Ramangar Railway Staff Hall in Madras Egmore from 26 to 28 June 1970.
+
+The letter notes that G. Ramachandran, the union's president, will preside and that Peter Alvarez, President of the All India Railwaymen's Federation, will inaugurate the open session. It also states that leaders of public opinion and labour have been invited to address the convention, and asks Masani to send a message if he cannot attend. Handwritten annotations on the page appear to discuss sending a message on behalf of Masani, but their full wording is not reliably legible.
+
 ## Key points
 
 - The letter is dated 5 June 1970 and was issued from the Southern Railway Mazdoor Union in Madras.

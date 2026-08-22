@@ -52,6 +52,10 @@ summary: |-
   In this letter dated June 26, 1968, Bhanu Pratap Singh writes to N. Dandeker about constituency selection, campaign visits in western districts, and the proposed merger of the Swatantra Party with Charan Singh’s BKD. Singh says he will consult Dandeker before making commitments, while noting that delaying his own visits could allow other parties to become more active.
 ---
 
+## Summary
+
+In this letter dated June 26, 1968, Bhanu Pratap Singh writes to N. Dandeker about constituency selection, campaign visits in western districts, and the proposed merger of the Swatantra Party with Charan Singh’s BKD. Singh says he will consult Dandeker before making commitments, while noting that delaying his own visits could allow other parties to become more active.
+
 ## Key points
 
 - Singh acknowledges Dandeker’s advice on selecting constituencies and candidates.

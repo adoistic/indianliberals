@@ -48,6 +48,10 @@ summary: |-
   This single-page letter from A. C. Sampath Iyengar, written on Swatantra Party, West Bengal Branch letterhead and dated 23 November 1959, concerns arrangements for an upcoming conference. Iyengar informs M. R. Masani that the proposed date has changed because the Calcutta University Institute Hall was unavailable on 27 December; he has instead secured the hall for Sunday, 3 January 1960, and paid an advance.
 ---
 
+## Summary
+
+This single-page letter from A. C. Sampath Iyengar, written on Swatantra Party, West Bengal Branch letterhead and dated 23 November 1959, concerns arrangements for an upcoming conference. Iyengar informs M. R. Masani that the proposed date has changed because the Calcutta University Institute Hall was unavailable on 27 December; he has instead secured the hall for Sunday, 3 January 1960, and paid an advance.
+
 ## Key points
 
 - Iyengar acknowledges Masani's letter of 19 November and notes that Masani will be in Calcutta from 4 to 7 December.

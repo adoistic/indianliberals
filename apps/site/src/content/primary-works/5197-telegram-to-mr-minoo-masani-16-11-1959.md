@@ -45,6 +45,10 @@ summary: |-
   This one-page English telegram, dated 16 November 1959, records a brief travel and meeting arrangement. The message states that the sender will arrive on the evening of the seventeenth and proposes fixing a meeting for the twenty-fifth if the recipient wishes.
 ---
 
+## Summary
+
+This one-page English telegram, dated 16 November 1959, records a brief travel and meeting arrangement. The message states that the sender will arrive on the evening of the seventeenth and proposes fixing a meeting for the twenty-fifth if the recipient wishes.
+
 ## Key points
 
 - The document is a typed telegram-style office record.

@@ -51,6 +51,12 @@ summary: |-
   The first correction restores the word "perquisites" (misprinted as "requisites") on page 6, line 10; the next two fix arithmetic operator misprints on page 7 (changing "(130+37)" to "(130x37)" and "(280+18)" to "(280x18)"); and the fourth is a general instruction to correct the line numbers on page 2. The sheet contains no substantive argument of its own — it functions purely as an errata slip to be read alongside the underlying Bill.
 ---
 
+## Summary
+
+This single sheet is a Lok Sabha corrigenda notice for The Salaries and Allowances of Ministers Bill, 1970, a private member's bill authored by Shri N. Dandekar, M.P. and Shri M. R. Masani, M.P. and slated to be introduced in the Lok Sabha. Issued from New Delhi on December 7, 1970 (Agrahayana 16, 1892 Saka), it lists four printer's corrections to be applied to the circulated draft of the Bill.
+
+The first correction restores the word "perquisites" (misprinted as "requisites") on page 6, line 10; the next two fix arithmetic operator misprints on page 7 (changing "(130+37)" to "(130x37)" and "(280+18)" to "(280x18)"); and the fourth is a general instruction to correct the line numbers on page 2. The sheet contains no substantive argument of its own — it functions purely as an errata slip to be read alongside the underlying Bill.
+
 ## Key points
 
 - Lok Sabha corrigenda sheet for The Salaries and Allowances of Ministers Bill, 1970.

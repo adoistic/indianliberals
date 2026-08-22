@@ -48,6 +48,12 @@ summary: |-
   The pages function as an administrative directory rather than an article, manifesto, or periodical issue. They identify titles such as Vauhini, Swatantra, Swatantra Vani, Swatantra Sandesh, Swatantra Samachar, Swatantar, Swatantra Punjab, Swatantra Pooja, Swatantra Raj, and Swatantra Patrika, and provide contact details for editors or editorial offices. No publication date, author byline, or explanatory account of the periodicals is visible.
 ---
 
+## Summary
+
+This two-page institutional listing records Swatantra Party periodicals by region, together with their publication languages, editors, and postal addresses. It covers periodicals associated with Andhra, Bihar, Mysore, Madhya Pradesh, Orissa, Punjab, Rajasthan, Uttar Pradesh, and West Bengal. The list includes Telugu, Urdu, Hindi, Kannada, Punjabi, and English-language designations, although the document itself is typed in English.
+
+The pages function as an administrative directory rather than an article, manifesto, or periodical issue. They identify titles such as Vauhini, Swatantra, Swatantra Vani, Swatantra Sandesh, Swatantra Samachar, Swatantar, Swatantra Punjab, Swatantra Pooja, Swatantra Raj, and Swatantra Patrika, and provide contact details for editors or editorial offices. No publication date, author byline, or explanatory account of the periodicals is visible.
+
 ## Key points
 
 - The document is headed "SWATANTRA PARTY PERIODICALS" and operates as an institutional directory.

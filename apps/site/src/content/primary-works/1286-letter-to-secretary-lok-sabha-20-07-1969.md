@@ -55,6 +55,12 @@ summary: |-
   The notice is addressed to the Secretary of the Lok Sabha and copies are marked to the Speaker, the Minister concerned, and the Minister of Parliamentary Affairs. The sender's name, division number, and signature are not legibly supplied; the signature block identifies the author only as “Member.”
 ---
 
+## Summary
+
+This two-page Lok Sabha notice, dated 20 July 1969, is an adjournment-motion request concerning the Government's decision to nationalise leading commercial banks. The unnamed Member asks that the House's business be adjourned so Parliament can discuss the Government's failure to provide Members with a suitable opportunity to debate the merits and drawbacks of nationalisation before the Banking Companies (Acquisition and Transfer of Undertakings) Ordinance, 1969, was brought into force.
+
+The notice is addressed to the Secretary of the Lok Sabha and copies are marked to the Speaker, the Minister concerned, and the Minister of Parliamentary Affairs. The sender's name, division number, and signature are not legibly supplied; the signature block identifies the author only as “Member.”
+
 ## Key points
 
 - The document is a formal notice of intention to move an adjournment motion in the Lok Sabha.

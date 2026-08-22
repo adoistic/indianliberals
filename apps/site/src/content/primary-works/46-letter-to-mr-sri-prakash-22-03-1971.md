@@ -49,6 +49,12 @@ summary: |-
   Masani also discloses his intention to resign as President of the Swatantra Party at its National Executive meeting in mid-April. He presents the resignation as a matter of responsibility: when things go wrong, those leading an organisation should accept accountability and make way for younger and fresher people. The letter closes with personal warmth and a promise to visit Sri Prakash in Calcutta when possible.
 ---
 
+## Summary
+
+In this letter dated 22 March 1971, M. R. Masani writes to Sri Prakash after nearly a decade without contact, expressing sympathy for the difficulties he has faced and concern about his health. Masani says he was pleased that Sri Prakash approved of his earlier remarks, while acknowledging that he himself was unhappy with Rajaji’s reaction. He interprets the election result as a setback for the country and as a return to a political phase he had believed was over.
+
+Masani also discloses his intention to resign as President of the Swatantra Party at its National Executive meeting in mid-April. He presents the resignation as a matter of responsibility: when things go wrong, those leading an organisation should accept accountability and make way for younger and fresher people. The letter closes with personal warmth and a promise to visit Sri Prakash in Calcutta when possible.
+
 ## Key points
 
 - Masani conveys sympathy for Sri Prakash’s recent difficulties and concern about his health.

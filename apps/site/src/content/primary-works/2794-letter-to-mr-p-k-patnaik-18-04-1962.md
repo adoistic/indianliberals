@@ -48,6 +48,10 @@ summary: |-
   In this letter dated 18 April 1962, M. R. Masani writes to P. K. Patnaik from Bombay after returning from travel. He provides the Swatantra Party's office-bearers in the Lok Sabha: P. K. Deo as Acting Leader, N. Mahida and Dr. B. N. Singh as Secretaries, and C. L. Narasimha Reddy as Chief Whip. Masani notes that Reddy will serve as Acting Leader during Deo's absence. The letter also reports that the party then had 26 members in the Lok Sabha. Its Secretaries have been asked to forward letters confirming the members' affiliation, signed by the respective members. The page is an administrative communication focused on the party's parliamentary organisation and membership verification.
 ---
 
+## Summary
+
+In this letter dated 18 April 1962, M. R. Masani writes to P. K. Patnaik from Bombay after returning from travel. He provides the Swatantra Party's office-bearers in the Lok Sabha: P. K. Deo as Acting Leader, N. Mahida and Dr. B. N. Singh as Secretaries, and C. L. Narasimha Reddy as Chief Whip. Masani notes that Reddy will serve as Acting Leader during Deo's absence. The letter also reports that the party then had 26 members in the Lok Sabha. Its Secretaries have been asked to forward letters confirming the members' affiliation, signed by the respective members. The page is an administrative communication focused on the party's parliamentary organisation and membership verification.
+
 ## Key points
 
 - The letter is dated 18 April 1962 and is addressed to Mr. P. K. Patnaik, Deputy Secretary of the Lok Sabha Secretariat. It lists P. K. Deo as Acting Leader of the Swatantra Party in the Lok Sabha. N. Mahida and Dr. B. N. Singh are identified as party Secretaries. C. L. Narasimha Reddy is identified as Chief Whip and is to function as Acting Leader during Deo's absence. The Swatantra Party is reported to have 26 members in the Lok Sabha.

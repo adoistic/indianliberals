@@ -56,6 +56,10 @@ summary: |-
   These three rendered pages comprise the draft minutes of a Swatantra Party Central Parliamentary Board meeting held at Vithalbhai Patel Bhavan, New Delhi, on 24 November 1968. The minutes record the confirmation of the previous meeting's proceedings, a reversal of the Board's earlier decision to oppose Atal Bihari Vajpayee's resolution concerning the full integration of Kashmir with India, and the Board's endorsement of the Parliamentary Group's position. They also note the Election Commission's withdrawal of the flower symbol from the list of free symbols, except in Assam, and discuss a possible change to the party symbol's black background.
 ---
 
+## Summary
+
+These three rendered pages comprise the draft minutes of a Swatantra Party Central Parliamentary Board meeting held at Vithalbhai Patel Bhavan, New Delhi, on 24 November 1968. The minutes record the confirmation of the previous meeting's proceedings, a reversal of the Board's earlier decision to oppose Atal Bihari Vajpayee's resolution concerning the full integration of Kashmir with India, and the Board's endorsement of the Parliamentary Group's position. They also note the Election Commission's withdrawal of the flower symbol from the list of free symbols, except in Assam, and discuss a possible change to the party symbol's black background.
+
 ## Key points
 
 - The Board confirmed the minutes of its 3 October 1968 meeting in Bhubaneswar.

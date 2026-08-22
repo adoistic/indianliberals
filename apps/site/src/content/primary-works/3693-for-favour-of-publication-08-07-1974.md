@@ -50,6 +50,12 @@ summary: |-
   The statement reports that the Maharashtra State Council met in Bombay on 6 July 1974 and, after a discussion involving Piloo Mody and M. R. Masani, adopted a resolution opposing dissolution. It further says that even if the party were dissolved at the national level, the Maharashtra unit would continue to function under the Swatantra Party name because it considered the party's principles and policies still relevant.
 ---
 
+## Summary
+
+This one-page Swatantra Party, Maharashtra statement, dated 8 July 1974, responds to press reports that party members overwhelmingly wanted to dissolve the party and form a new political organisation. It cites a statement by Girish Munshi, General Secretary of the Maharashtra State unit, disputing that account.
+
+The statement reports that the Maharashtra State Council met in Bombay on 6 July 1974 and, after a discussion involving Piloo Mody and M. R. Masani, adopted a resolution opposing dissolution. It further says that even if the party were dissolved at the national level, the Maharashtra unit would continue to function under the Swatantra Party name because it considered the party's principles and policies still relevant.
+
 ## Key points
 
 - The document is a Swatantra Party, Maharashtra press statement dated 8 July 1974.

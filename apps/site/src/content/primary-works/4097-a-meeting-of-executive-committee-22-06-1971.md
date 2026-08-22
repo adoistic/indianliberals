@@ -52,6 +52,12 @@ summary: |-
   The attached draft minutes record Executive Committee meetings held on 9 June and 19 May 1971. The 9 June meeting deferred consideration of membership in the Bombay and Maharashtra regions because several important members were absent. The 19 May meeting addressed a possible Maharashtra Legislative Council graduates’ constituency election, candidate-finding for Borivli civic by-elections, circulation of national headquarters material on the party’s minimum programme and elections, continuation of Mrs. Sharayu Daftary as convenor of the Ladies’ Wing, and the selection of returning officers. The document is an administrative record of party organisation and electoral preparation rather than a policy statement.
 ---
 
+## Summary
+
+This three-page English circular from the Swatantra Party’s Bombay Region, dated 22 June 1971, announces an Executive Committee meeting scheduled for 28 June 1971 at the party office at 143 Mahatma Gandhi Road, Bombay. Its agenda focuses on preparations for forthcoming party elections, including the formation of primary units, appointment of returning officers, election timetables, representation of primary units on the District Committee, the composition of the Regional Council and Executive Committee, and an Election Tribunal.
+
+The attached draft minutes record Executive Committee meetings held on 9 June and 19 May 1971. The 9 June meeting deferred consideration of membership in the Bombay and Maharashtra regions because several important members were absent. The 19 May meeting addressed a possible Maharashtra Legislative Council graduates’ constituency election, candidate-finding for Borivli civic by-elections, circulation of national headquarters material on the party’s minimum programme and elections, continuation of Mrs. Sharayu Daftary as convenor of the Ladies’ Wing, and the selection of returning officers. The document is an administrative record of party organisation and electoral preparation rather than a policy statement.
+
 ## Key points
 
 - A 22 June 1971 notice calls a Bombay Region Swatantra Party Executive Committee meeting for 28 June 1971.

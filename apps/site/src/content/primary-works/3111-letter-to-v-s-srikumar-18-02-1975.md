@@ -51,6 +51,12 @@ summary: |-
   Raju comments sharply on Piloo Mody's reply, calling Mody "India's Ace political joker" and arguing that a stronger letter should have been sent to him. He explains that because the Bangalore Development Department has not been paying rent regularly, Girish Munshi did not pursue the matter further, and says that legal action against Piloo Mody is the remaining option. Raju also reports that he has written to contacts in Rajasthan and Gujarat and plans to speak with Masani about K. H. Srinivasan and the Bangalore Trust funds.
 ---
 
+## Summary
+
+This one-page letter, dated February 18, 1975, is from S. V. Raju to V. S. Srikumar, joint secretary of the Swatantra Party. Raju acknowledges letters and efforts by Mr. Sundaram and Mr. Vyas to secure support in Bombay, and notes that Sundaram has written to several people there.
+
+Raju comments sharply on Piloo Mody's reply, calling Mody "India's Ace political joker" and arguing that a stronger letter should have been sent to him. He explains that because the Bangalore Development Department has not been paying rent regularly, Girish Munshi did not pursue the matter further, and says that legal action against Piloo Mody is the remaining option. Raju also reports that he has written to contacts in Rajasthan and Gujarat and plans to speak with Masani about K. H. Srinivasan and the Bangalore Trust funds.
+
 ## Key points
 
 - Raju thanks Srikumar for a February 11, 1975 letter.

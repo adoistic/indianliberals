@@ -45,6 +45,12 @@ summary: |-
   Written on Masani’s behalf, the letter conveys his thanks for the material enclosed with Kothawala’s letter and notes that he expected to return to India around 6 October. It is signed by Miss B. S. Mirza, identified as Masani’s secretary.
 ---
 
+## Summary
+
+This one-page English office letter, dated 14 September 1959, is addressed to Miss Nurgesh Kothawala in Bangalore. The sender acknowledges receipt of Kothawala’s letter of 17 August, addressed to M. R. Masani, and explains that Masani received it shortly before leaving for the United Kingdom.
+
+Written on Masani’s behalf, the letter conveys his thanks for the material enclosed with Kothawala’s letter and notes that he expected to return to India around 6 October. It is signed by Miss B. S. Mirza, identified as Masani’s secretary.
+
 ## Key points
 
 - The letter is dated 14 September 1959.

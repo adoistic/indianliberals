@@ -50,6 +50,12 @@ summary: |-
   The immediate dispute concerns amplifiers and loudspeaker horns borrowed by the Matunga Unit from the Bombay region for Mr. Dandeker's election. Subramaniam says the equipment had not been returned despite repeated reminders and written requests, and criticizes the unit's continued possession of it as an “uppish thing.” He also objects to Mr. Cama's willingness to grant the unit additional time, arguing that remaining in a post with little authority would further weaken his effectiveness. He closes by thanking Mehta and other colleagues for their consideration during his short tenure.
 ---
 
+## Summary
+
+This single-page letter, dated May 26, 1972, is addressed by K. H. Subramaniam to Madhu Mehta in his capacity as President of the Swatantra Party's Bombay Region. Subramaniam resigns from the Joint Secretaryship, explaining that he is doing so with considerable regret but under compulsion arising from circumstances he had tried to prevent.
+
+The immediate dispute concerns amplifiers and loudspeaker horns borrowed by the Matunga Unit from the Bombay region for Mr. Dandeker's election. Subramaniam says the equipment had not been returned despite repeated reminders and written requests, and criticizes the unit's continued possession of it as an “uppish thing.” He also objects to Mr. Cama's willingness to grant the unit additional time, arguing that remaining in a post with little authority would further weaken his effectiveness. He closes by thanking Mehta and other colleagues for their consideration during his short tenure.
+
 ## Key points
 
 - K. H. Subramaniam resigns from the Swatantra Party's Joint Secretaryship.

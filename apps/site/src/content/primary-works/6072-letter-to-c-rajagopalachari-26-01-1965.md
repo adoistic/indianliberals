@@ -50,6 +50,12 @@ summary: |-
   The letter presents the Swatantra Party as committed to equal citizenship regardless of religion, presumption of a citizen’s loyalty unless proved otherwise, and voluntary participation by Muslims as equal and honourable citizens rather than as electoral or political instruments. It also rejects the use of religious, linguistic, or regional identities as partisan “show-pieces,” arguing that these are matters arising from birth and cannot properly be either achievements or discredit to an individual.
 ---
 
+## Summary
+
+This one-page English letter, dated 29 January 1965 and written from the Swatantra Party's Bombay Region office, asks C. Rajagopalachari (“Rajaji”) to send a message for an upcoming public meeting in Bombay. Madhu N. Mehta sets out four points describing the party’s attitude toward Muslims and other religious minorities.
+
+The letter presents the Swatantra Party as committed to equal citizenship regardless of religion, presumption of a citizen’s loyalty unless proved otherwise, and voluntary participation by Muslims as equal and honourable citizens rather than as electoral or political instruments. It also rejects the use of religious, linguistic, or regional identities as partisan “show-pieces,” arguing that these are matters arising from birth and cannot properly be either achievements or discredit to an individual.
+
 ## Key points
 
 - The letter requests a message from C. Rajagopalachari for a Swatantra Party public meeting in Bombay.

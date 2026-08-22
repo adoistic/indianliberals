@@ -51,6 +51,10 @@ summary: |-
   These draft minutes record the Swatantra Party Central Parliamentary Board’s meeting in New Delhi on December 10, 1966, together with an adjourned meeting on December 12. The Board reviewed electoral understandings, parliamentary and assembly nominations, constituency-level disputes, appeals, campaign arrangements, and the division of responsibilities between the central and state party organisations. The record is primarily administrative, documenting decisions rather than presenting a general political programme.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Central Parliamentary Board’s meeting in New Delhi on December 10, 1966, together with an adjourned meeting on December 12. The Board reviewed electoral understandings, parliamentary and assembly nominations, constituency-level disputes, appeals, campaign arrangements, and the division of responsibilities between the central and state party organisations. The record is primarily administrative, documenting decisions rather than presenting a general political programme.
+
 ## Key points
 
 - The Board reviewed electoral understandings and candidate recommendations from state units.

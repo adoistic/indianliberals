@@ -50,6 +50,10 @@ summary: |-
   This one-page Swatantra Party circular, dated 30 November 1966, announces the next meeting of the party’s National Executive. Signed by General Secretary M. R. Masani from the party’s Bombay central office, it schedules the meeting for Sunday, 11 December, at Vithalbhai Patel House on Rafi Marg, New Delhi.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated 30 November 1966, announces the next meeting of the party’s National Executive. Signed by General Secretary M. R. Masani from the party’s Bombay central office, it schedules the meeting for Sunday, 11 December, at Vithalbhai Patel House on Rafi Marg, New Delhi.
+
 ## Key points
 
 - The document is National Executive Circular No. 16.

@@ -43,6 +43,10 @@ summary: |-
   This one-page English telegram, sent from Jaipur by “AYESHA,” is addressed to M. R. Masani at the Lok Sabha in New Delhi. It communicates that the sender expects to arrive early in the morning on 2 September and asks whether the arrangement is satisfactory.
 ---
 
+## Summary
+
+This one-page English telegram, sent from Jaipur by “AYESHA,” is addressed to M. R. Masani at the Lok Sabha in New Delhi. It communicates that the sender expects to arrive early in the morning on 2 September and asks whether the arrangement is satisfactory.
+
 ## Key points
 
 - The document is an official Government of India overseas telegram form.

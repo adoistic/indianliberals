@@ -52,6 +52,12 @@ summary: |-
   The note then examines state-level voting in Andhra Pradesh, Gujarat, Orissa, Rajasthan, and Tamil Nadu. It identifies defections, abstentions, and the failure to transfer second-preference votes to Mr. Reddy as key causes of Deshmukh's defeat. Its concluding argument is that stronger party discipline could have produced a different result: Deshmukh's first-preference supporters, had they consolidated their second preferences behind Reddy, would have secured his election by a comfortable margin. Masani assigns blame for the outcome to the Swatantra Party, Congress, and B.K.D. together.
 ---
 
+## Summary
+
+This two-page Swatantra Party note, attributed to M. R. Masani and dated 27 August 1969, reviews voting in the presidential election for the Central Parliamentary Board and National Executive. It reports that 101 Members of Parliament gave their first-preference votes to C. D. Deshmukh: 55 from the Swatantra Party, 42 from the Jan Sangh, and approximately 20 from the B.K.D. Masani argues that some members of all three parties defected even at the first-preference stage, but that the Swatantra Party's record was comparatively less unsatisfactory.
+
+The note then examines state-level voting in Andhra Pradesh, Gujarat, Orissa, Rajasthan, and Tamil Nadu. It identifies defections, abstentions, and the failure to transfer second-preference votes to Mr. Reddy as key causes of Deshmukh's defeat. Its concluding argument is that stronger party discipline could have produced a different result: Deshmukh's first-preference supporters, had they consolidated their second preferences behind Reddy, would have secured his election by a comfortable margin. Masani assigns blame for the outcome to the Swatantra Party, Congress, and B.K.D. together.
+
 ## Key points
 
 - The note records 101 parliamentary first-preference votes for C. D. Deshmukh, including 55 from Swatantra, 42 from Jan Sangh, and approximately 20 from B.K.D.

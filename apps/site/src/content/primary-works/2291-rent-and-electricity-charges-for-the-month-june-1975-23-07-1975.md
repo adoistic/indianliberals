@@ -46,6 +46,12 @@ summary: |-
   The listed rent is Rs. 394.79 and electricity is Rs. 140.72, producing a total of Rs. 535.51. The letter calculates the 40 percent share as Rs. 214.20, written out as “Rs. two hundred fourteen and paise twenty only.” The second rendered page reproduces the same financial communication in a cleaner or differently scanned version. No title, full recipient name, or additional correspondence is visible.
 ---
 
+## Summary
+
+This two-page English office letter, dated 23 July 1975 and issued on Swatantra Party, Maharashtra Vibhag letterhead, is addressed to the Executive Secretary of the Bharatiya Lok Dal at 143 M. G. Road, Bombay. Signed by P. Narayan in the capacity of Office Secretary, it reports the rent and electricity paid for June 1975 and requests reimbursement of the recipient's 40 percent share.
+
+The listed rent is Rs. 394.79 and electricity is Rs. 140.72, producing a total of Rs. 535.51. The letter calculates the 40 percent share as Rs. 214.20, written out as “Rs. two hundred fourteen and paise twenty only.” The second rendered page reproduces the same financial communication in a cleaner or differently scanned version. No title, full recipient name, or additional correspondence is visible.
+
 ## Key points
 
 - The letter is dated 23 July 1975 and uses Swatantra Party, Maharashtra Vibhag letterhead.

@@ -50,6 +50,12 @@ summary: |-
   In Patel’s letter of 22 July 1968, Patel similarly corrects Masani’s attribution of the booklet National Hara-Kiri? to A. P. Jain. Patel says Jain was unaware of information on several points and that Patel himself assembled press cuttings. He identifies the sources of several annexures, including the number of Soviet delegations to India, purges in Eastern Europe, and trade with Russia, correcting one citation from the British Intelligence Journal to the Intelligence Digest of London, July 1968. The packet therefore documents an exchange focused on authorship, sourcing, publication credit, and the presentation of Soviet-related material.
 ---
 
+## Summary
+
+This three-page correspondence packet contains two related letters exchanged by M. R. Masani and Dahyabhai V. Patel, together with an addressed envelope. In Masani’s letter of 25 July 1967, Masani corrects Patel’s belief that a booklet was the work of A. P. Jain. He explains that Jain had only told him he helped Patel get the booklet published, and criticizes its cover for failing to make clear that Soviet aid to Pakistan was the main subject rather than economic affairs generally.
+
+In Patel’s letter of 22 July 1968, Patel similarly corrects Masani’s attribution of the booklet National Hara-Kiri? to A. P. Jain. Patel says Jain was unaware of information on several points and that Patel himself assembled press cuttings. He identifies the sources of several annexures, including the number of Soviet delegations to India, purges in Eastern Europe, and trade with Russia, correcting one citation from the British Intelligence Journal to the Intelligence Digest of London, July 1968. The packet therefore documents an exchange focused on authorship, sourcing, publication credit, and the presentation of Soviet-related material.
+
 ## Key points
 
 - Masani’s 25 July 1967 letter disputes the attribution of a booklet to A. P. Jain.

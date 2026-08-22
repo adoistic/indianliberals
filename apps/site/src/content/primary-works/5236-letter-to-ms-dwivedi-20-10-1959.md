@@ -48,6 +48,12 @@ summary: |-
   Masani says he will meet Professor Ranga in Madras, together with Rajaji, on 31 October to clarify the position and promises to write again on 4 November. He encloses a handbook of the Bombay Convention as a source of practical information and copies Mrs. Lynn of the Swatantra Party for information.
 ---
 
+## Summary
+
+In this letter dated 26 October 1959, M. R. Masani acknowledges H. S. Dwivedi’s renewed interest in the Swatantra Party and his offer to work for it. Masani welcomes the offer while explaining that, because he is not a party office-bearer, he does not yet know the arrangements made in Madhya Pradesh.
+
+Masani says he will meet Professor Ranga in Madras, together with Rajaji, on 31 October to clarify the position and promises to write again on 4 November. He encloses a handbook of the Bombay Convention as a source of practical information and copies Mrs. Lynn of the Swatantra Party for information.
+
 ## Key points
 
 - Masani responds to H. S. Dwivedi’s interest in joining or working for the Swatantra Party.

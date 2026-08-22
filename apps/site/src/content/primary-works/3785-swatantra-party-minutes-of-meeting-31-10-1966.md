@@ -54,6 +54,12 @@ summary: |-
   The Board discussed the General Secretary’s proposed participation in a government-sponsored goodwill mission to North Africa, the monitoring of prospective parliamentary candidates, and the nomination of candidates in Orissa, Maharashtra, and Gujarat. It addressed an understanding with the Republican Party concerning the Patan constituency, expressed concern about the neglect of the Ahmedabad City organisation, and considered Assembly nominations from Orissa. On parliamentary business, it opposed withdrawal from the Commonwealth, urged scrutiny of the Official Secrets (Amendment) Bill and Unlawful Associations Bill from the standpoint of civil liberties and fundamental rights, and directed opposition to postponing Orissa’s elections and extending President’s Rule in Kerala.
 ---
 
+## Summary
+
+These draft minutes record a meeting of the Swatantra Party’s Central Parliamentary Board at M. R. Masani’s residence in New Delhi. The Board confirmed the previous meeting’s minutes, noted that Akali members had decided to continue associating with the Swatantra Group in Parliament, accepted Narendra Singh Mahida’s resignation, and reviewed the parliamentary group’s work. It also restated internal discipline: party members were advised not to sign public appeals or join conferences and delegations concerning public issues without permission from the party leadership.
+
+The Board discussed the General Secretary’s proposed participation in a government-sponsored goodwill mission to North Africa, the monitoring of prospective parliamentary candidates, and the nomination of candidates in Orissa, Maharashtra, and Gujarat. It addressed an understanding with the Republican Party concerning the Patan constituency, expressed concern about the neglect of the Ahmedabad City organisation, and considered Assembly nominations from Orissa. On parliamentary business, it opposed withdrawal from the Commonwealth, urged scrutiny of the Official Secrets (Amendment) Bill and Unlawful Associations Bill from the standpoint of civil liberties and fundamental rights, and directed opposition to postponing Orissa’s elections and extending President’s Rule in Kerala.
+
 ## Key points
 
 - The Central Parliamentary Board confirmed the previous meeting’s minutes and recorded organisational and membership decisions.

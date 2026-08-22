@@ -49,6 +49,12 @@ summary: |-
   Mody asks Rajagopalachari to say when he can attend both functions and suggests that, if Rajagopalachari can extend his stay until 3 October, the public meeting could be arranged at Chowpatty on Saturday the 3rd. The letter leaves the final dates to Rajagopalachari and closes with warm regards.
 ---
 
+## Summary
+
+This one-page English letter, dated 11 September 1964, is from Piloo Mody to C. Rajagopalachari (“Rajaji”) concerning an upcoming meeting of the CCO in Bombay on 30 September. Writing from the Swatantra Bombay Region, Mody proposes two associated events: a public meeting at Chowpatty and a subscription dinner to raise urgently needed funds.
+
+Mody asks Rajagopalachari to say when he can attend both functions and suggests that, if Rajagopalachari can extend his stay until 3 October, the public meeting could be arranged at Chowpatty on Saturday the 3rd. The letter leaves the final dates to Rajagopalachari and closes with warm regards.
+
 ## Key points
 
 - Piloo Mody writes to C. Rajagopalachari on 11 September 1964.

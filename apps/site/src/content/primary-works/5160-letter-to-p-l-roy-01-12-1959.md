@@ -45,6 +45,10 @@ summary: |-
   This one-page English letter, dated 1 December 1959, is from M. R. Masani to P. L. Roy. Masani explains that he has not yet been informed of the time or location of a cocktail party in Calcutta scheduled for Friday, 4 December, and says he will be available at the Great Eastern Hotel from 6:30 p.m. onward so that Roy can collect him en route.
 ---
 
+## Summary
+
+This one-page English letter, dated 1 December 1959, is from M. R. Masani to P. L. Roy. Masani explains that he has not yet been informed of the time or location of a cocktail party in Calcutta scheduled for Friday, 4 December, and says he will be available at the Great Eastern Hotel from 6:30 p.m. onward so that Roy can collect him en route.
+
 ## Key points
 
 - The letter is dated 1 December 1959.

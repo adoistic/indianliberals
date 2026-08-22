@@ -49,6 +49,10 @@ summary: |-
   In this letter dated 23 March 1971, M. R. Masani thanks S. T. Sanghavi for his sympathy regarding the election result in Rajkot. Masani broadly accepts Sanghavi’s analysis of the reasons for the defeat, but rejects the suggestion that money power was insignificant.
 ---
 
+## Summary
+
+In this letter dated 23 March 1971, M. R. Masani thanks S. T. Sanghavi for his sympathy regarding the election result in Rajkot. Masani broadly accepts Sanghavi’s analysis of the reasons for the defeat, but rejects the suggestion that money power was insignificant.
+
 ## Key points
 
 - Masani acknowledges Sanghavi’s letter and expression of sympathy after the Rajkot election.

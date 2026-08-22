@@ -56,6 +56,12 @@ summary: |-
   The documents defend parliamentary democracy, equality before the law, individual freedom, and opportunities for self-development. They argue that a gradual, coordinated opposition is more practicable than an immediate two-party system, while warning that dissolving Swatantra could destroy an established national alternative to Congress. The papers also condemn campaigns that inflame linguistic divisions in Tamil Nadu and urge the state government to protect citizens irrespective of language or region. The final letter links opposition unity to electoral arithmetic, citing Congress’s minority share of the vote and warning that prolonged one-party dominance threatens constitutional government and civil freedom.
 ---
 
+## Summary
+
+This 1974 political letter from V. S. Srikumar to M. R. Masani reports on opposition within the Tamil Nadu Swatantra Party regarding a proposed merger of seven parties. Srikumar states that approximately 80% of Swatantra workers and party units oppose dissolution and merger, while arguing that any new grouping should preserve Swatantra’s principles and programme. The enclosed resolutions call for political polarisation around clearly defined principles, opposition to state capitalism and concentrated power, and a federal-style electoral alliance involving opposition parties including Congress (O) and Jan Sangh.
+
+The documents defend parliamentary democracy, equality before the law, individual freedom, and opportunities for self-development. They argue that a gradual, coordinated opposition is more practicable than an immediate two-party system, while warning that dissolving Swatantra could destroy an established national alternative to Congress. The papers also condemn campaigns that inflame linguistic divisions in Tamil Nadu and urge the state government to protect citizens irrespective of language or region. The final letter links opposition unity to electoral arithmetic, citing Congress’s minority share of the vote and warning that prolonged one-party dominance threatens constitutional government and civil freedom.
+
 ## Key points
 
 - Srikumar estimates that at least 80% of Swatantra Party workers and units oppose the proposed merger.

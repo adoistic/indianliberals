@@ -65,6 +65,12 @@ summary: |-
   Its economic programme combines opposition to excessive state control with an active developmental role for government. The party rejects collectivised and bureaucratically managed agriculture, supports self-employed peasant proprietors, and calls for better irrigation, credit, implements, marketing, and agricultural incentives. It advocates decentralised industry, full employment, balanced industrialisation, consumer and capital-goods production, workers’ collective bargaining, and a limited regulatory state. The statement further endorses universal access to education, food, water, housing, and clothing, the rule of law, an independent judiciary, judicial review, and Gandhian commitments to truth and non-violence. The final pages also publicise the party’s organisational expansion in West Bengal and list prospective speakers and office-bearers.
 ---
 
+## Summary
+
+The Swatantra Party’s Statement of Principles, adopted at its preparatory convention in Bombay on 1–2 August 1959, presents a programme centered on social justice, individual liberty, private property, and constitutional government. It supports equal opportunity irrespective of religion, caste, occupation, or political affiliation; seeks to protect family and farm ownership; and argues that government policy should be accountable to public opinion rather than insulated from it. The statement also defends Fundamental Rights, freedom of property, trade, and occupation, compensation for compulsory acquisition, and freedom of opinion within the party.
+
+Its economic programme combines opposition to excessive state control with an active developmental role for government. The party rejects collectivised and bureaucratically managed agriculture, supports self-employed peasant proprietors, and calls for better irrigation, credit, implements, marketing, and agricultural incentives. It advocates decentralised industry, full employment, balanced industrialisation, consumer and capital-goods production, workers’ collective bargaining, and a limited regulatory state. The statement further endorses universal access to education, food, water, housing, and clothing, the rule of law, an independent judiciary, judicial review, and Gandhian commitments to truth and non-violence. The final pages also publicise the party’s organisational expansion in West Bengal and list prospective speakers and office-bearers.
+
 ## Key points
 
 - The party defines its political purpose through social justice, equality of opportunity, individual liberty, and constitutional safeguards.

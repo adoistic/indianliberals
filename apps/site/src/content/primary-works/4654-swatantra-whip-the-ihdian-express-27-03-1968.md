@@ -49,6 +49,10 @@ summary: |-
   This brief English-language news report, datelined Ahmedabad, describes a Swatantra Party directive in the Gujarat Assembly. The party issued a whip instructing its members to vote for Mr. Babubhai Vaidya in the Rajya Sabha election scheduled for Thursday.
 ---
 
+## Summary
+
+This brief English-language news report, datelined Ahmedabad, describes a Swatantra Party directive in the Gujarat Assembly. The party issued a whip instructing its members to vote for Mr. Babubhai Vaidya in the Rajya Sabha election scheduled for Thursday.
+
 ## Key points
 
 - The Swatantra Party's Gujarat Assembly unit issued a voting whip.

@@ -47,6 +47,10 @@ summary: |-
   This single-page English letter, apparently dated 5 April 1968, is from Minoo J. Shroff to N. Dandeker, General Secretary of the Swatantra Party. Shroff requests an emergency meeting of the party’s General Council to address Minoo Masani’s resignation from the National Executive and the Central Parliamentary Board.
 ---
 
+## Summary
+
+This single-page English letter, apparently dated 5 April 1968, is from Minoo J. Shroff to N. Dandeker, General Secretary of the Swatantra Party. Shroff requests an emergency meeting of the party’s General Council to address Minoo Masani’s resignation from the National Executive and the Central Parliamentary Board.
+
 ## Key points
 
 - The letter is addressed to N. Dandeker, General Secretary of the Swatantra Party.

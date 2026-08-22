@@ -55,6 +55,12 @@ summary: |-
   The minutes also record three parliamentary decisions: the Party would abstain from voting on the Aligarh Muslim University Bill, 1965; Professor Ranga would open the Party's debate on Finance Bill (No. 2), with 15 minutes allotted to him and 10 minutes to N. Dandekar; and the Party would vote against the Finance Bill. The meeting concluded with a vote of thanks to the chair.
 ---
 
+## Summary
+
+This one-page document records the minutes of a Swatantra Party Executive Committee meeting held on 27 August 1965 in the Party Committee Room, Central Hall, Parliament House, New Delhi. M. R. Masani chaired the meeting, which was attended by Dayabhai V. Patel, Sardar Kapur Singh, and Krishanpal Singh. The committee assigned Krishanpal Singh to speak on a resolution concerning a ceiling on urban property and Professor N. G. Ranga to speak on a resolution concerning agricultural prices.
+
+The minutes also record three parliamentary decisions: the Party would abstain from voting on the Aligarh Muslim University Bill, 1965; Professor Ranga would open the Party's debate on Finance Bill (No. 2), with 15 minutes allotted to him and 10 minutes to N. Dandekar; and the Party would vote against the Finance Bill. The meeting concluded with a vote of thanks to the chair.
+
 ## Key points
 
 - The Swatantra Party Executive Committee met on 27 August 1965 at Parliament House, New Delhi.

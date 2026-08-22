@@ -49,6 +49,10 @@ summary: |-
   These two pages contain the draft minutes of the Swatantra Party, Maharashtra Executive Committee meeting held on July 7, 1993, at the party office at 143 Mahatma Gandhi Road, Bombay. J. Venkiteswaran chaired the meeting; L. R. Sampat, K. H. Subramaniam, and S. V. Raju were also recorded as present. The previous meeting's minutes were read and confirmed.
 ---
 
+## Summary
+
+These two pages contain the draft minutes of the Swatantra Party, Maharashtra Executive Committee meeting held on July 7, 1993, at the party office at 143 Mahatma Gandhi Road, Bombay. J. Venkiteswaran chaired the meeting; L. R. Sampat, K. H. Subramaniam, and S. V. Raju were also recorded as present. The previous meeting's minutes were read and confirmed.
+
 ## Key points
 
 - The meeting was held on July 7, 1993, at the Swatantra Party office in Bombay.

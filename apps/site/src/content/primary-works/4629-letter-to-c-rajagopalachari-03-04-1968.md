@@ -52,6 +52,10 @@ summary: |-
   In this letter dated 3 April 1968, Minoo Masani responds to C. Rajagopalachari's views on dissent and voting within the Swatantra Party. Masani rejects the idea that freedom of opinion on matters outside the party's fundamental principles should entail freedom to vote against the party's own candidates. He invokes alleged misconduct surrounding the cases of Acharya Kripalani in Uttar Pradesh and Babubhai Vaidya in Gujarat, questions the consistency of the party's disciplinary standards, and asks whether Rajagopalachari was wrong to raise a moral issue over the election of the Speaker in Madras.
 ---
 
+## Summary
+
+In this letter dated 3 April 1968, Minoo Masani responds to C. Rajagopalachari's views on dissent and voting within the Swatantra Party. Masani rejects the idea that freedom of opinion on matters outside the party's fundamental principles should entail freedom to vote against the party's own candidates. He invokes alleged misconduct surrounding the cases of Acharya Kripalani in Uttar Pradesh and Babubhai Vaidya in Gujarat, questions the consistency of the party's disciplinary standards, and asks whether Rajagopalachari was wrong to raise a moral issue over the election of the Speaker in Madras.
+
 ## Key points
 
 - Masani expresses disappointment and disquiet about arguments attributed to Rajagopalachari.

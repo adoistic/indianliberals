@@ -50,6 +50,10 @@ summary: |-
   Dated November 16, 1970, this Swatantra Party General Secretary’s office circular announces arrangements for the party’s Sixth National Convention, to be held in Bombay on January 30–31, 1971. It lays out the preceding meetings of the Central Parliamentary Board, National Executive, General Council, and Women’s Wing, as well as the convention’s inaugural, delegates’ and political sessions. It also sets deadlines for submitting notices of resolutions and amendments to the party constitution.
 ---
 
+## Summary
+
+Dated November 16, 1970, this Swatantra Party General Secretary’s office circular announces arrangements for the party’s Sixth National Convention, to be held in Bombay on January 30–31, 1971. It lays out the preceding meetings of the Central Parliamentary Board, National Executive, General Council, and Women’s Wing, as well as the convention’s inaugural, delegates’ and political sessions. It also sets deadlines for submitting notices of resolutions and amendments to the party constitution.
+
 ## Key points
 
 - The Sixth National Convention was scheduled for Bombay on January 30 and 31, 1971.

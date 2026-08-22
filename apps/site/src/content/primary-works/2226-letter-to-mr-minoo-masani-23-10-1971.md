@@ -49,6 +49,12 @@ summary: |-
   The writer quotes or paraphrases Masani's claim that only 5 percent of the electorate voted for one side of the amendments, while 43 percent voted for the ruling party, and refers to the assertion that the ruling party had received a mandate to amend the Constitution despite this. The letter closes by asking Masani to send the relevant information at his earliest convenience and expresses appreciation for his guidance. The handwritten signature remains illegible.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 23 October 1971 and addressed to Minoo Masani, requests electoral figures concerning the current membership of the Lok Sabha. The writer asks how many votes each party polled in the mid-term elections and how many seats each party won. The request is prompted by Masani's public address in Bangalore, reported in Swarajya on 21 August 1971, in which he discussed the electoral performance of the ruling party and constitutional amendments.
+
+The writer quotes or paraphrases Masani's claim that only 5 percent of the electorate voted for one side of the amendments, while 43 percent voted for the ruling party, and refers to the assertion that the ruling party had received a mandate to amend the Constitution despite this. The letter closes by asking Masani to send the relevant information at his earliest convenience and expresses appreciation for his guidance. The handwritten signature remains illegible.
+
 ## Key points
 
 - The letter is dated 23 October 1971 and addressed to Minoo Masani.

@@ -55,3 +55,7 @@ ai:
 summary: |-
   Issue No. 28 of the Swatantra Newsletter, dated November 1962, is dominated by the party's response to the Chinese offensive and its criticism of the Government of India's policy of appeasement, non-alignment, and inadequate defence preparedness. The issue reproduces or reports statements by M. R. Masani, N. G. Ranga, K. M. Munshi, C. Rajagopalachari, N. Dandekar, and others. Their proposals include stronger defence arrangements, closer cooperation with Pakistan and other Asian countries, recognition of the Dalai Lama's government, severance of diplomatic relations with Communist China, and political accountability for the Prime Minister and Defence Minister. A message from Liberal International expresses solidarity with India.
 ---
+
+## Summary
+
+Issue No. 28 of the Swatantra Newsletter, dated November 1962, is dominated by the party's response to the Chinese offensive and its criticism of the Government of India's policy of appeasement, non-alignment, and inadequate defence preparedness. The issue reproduces or reports statements by M. R. Masani, N. G. Ranga, K. M. Munshi, C. Rajagopalachari, N. Dandekar, and others. Their proposals include stronger defence arrangements, closer cooperation with Pakistan and other Asian countries, recognition of the Dalai Lama's government, severance of diplomatic relations with Communist China, and political accountability for the Prime Minister and Defence Minister. A message from Liberal International expresses solidarity with India.

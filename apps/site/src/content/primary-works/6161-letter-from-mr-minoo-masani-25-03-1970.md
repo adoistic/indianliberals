@@ -45,6 +45,12 @@ summary: |-
   Masani adds that he has asked their friend Chatterton Irani to get in touch with Prashad and arrange an appointment, since Masani will probably be staying with Irani. A handwritten annotation beside the letter repeats the request to meet that evening. The letter is copied to C. R. Irani, Calcutta.
 ---
 
+## Summary
+
+In this typed letter dated March 25, 1970, M. R. Masani writes to Prem Prashad of Bird & Co. in Calcutta to announce that he expects to be in Calcutta on the evening of Tuesday, April 7. He says he will be travelling overnight to Bombay from Bhavnagar and asks whether Prashad could spare time that evening for a conversation.
+
+Masani adds that he has asked their friend Chatterton Irani to get in touch with Prashad and arrange an appointment, since Masani will probably be staying with Irani. A handwritten annotation beside the letter repeats the request to meet that evening. The letter is copied to C. R. Irani, Calcutta.
+
 ## Key points
 
 - The letter is dated March 25, 1970.

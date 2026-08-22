@@ -54,6 +54,12 @@ summary: |-
   Rajagopalachari explains that the Swatantra Party faces serious organisational and financial disadvantages while the ruling party enjoys the advantages of incumbency. He asks business leaders to support the creation of a genuine countervailing force against the socialist ruling party, while insisting that Swatantra seeks the welfare of the people, including poorer sections, and aims to achieve the Constitution's objectives without nullifying fundamental rights. The letter closes with a personal appeal: despite his inclination toward retirement and a nonpolitical life, Rajagopalachari says he has taken up the cause of opposition politics in the interests of parliamentary democracy and good government.
 ---
 
+## Summary
+
+In this untitled letter dated 12 June 1961, C. Rajagopalachari appeals to Dharamsey M. Khatau, chairman of the Associated Cement Companies, for financial assistance to the Swatantra Party. Rajagopalachari presents a strong opposition party as essential to parliamentary democracy: it should check the ruling party's policies, programmes, and methods in Parliament, the legislatures, and the country. He argues that the existing non-Congress parties are ineffective checks and instead push the ruling party further in the same direction.
+
+Rajagopalachari explains that the Swatantra Party faces serious organisational and financial disadvantages while the ruling party enjoys the advantages of incumbency. He asks business leaders to support the creation of a genuine countervailing force against the socialist ruling party, while insisting that Swatantra seeks the welfare of the people, including poorer sections, and aims to achieve the Constitution's objectives without nullifying fundamental rights. The letter closes with a personal appeal: despite his inclination toward retirement and a nonpolitical life, Rajagopalachari says he has taken up the cause of opposition politics in the interests of parliamentary democracy and good government.
+
 ## Key points
 
 - Rajagopalachari argues that parliamentary democracy requires an effective opposition party capable of checking the ruling party.

@@ -49,6 +49,12 @@ summary: |-
   A separate item, headed “His premonition,” recounts that Rajaji had predicted his death at least fifteen days before being admitted to the General Hospital. M. P. Somasundaram, described as a close associate, recalled Rajaji’s request that he complete a book project before his death; the report reproduces their brief exchange about the book’s projected length and publication timetable.
 ---
 
+## Summary
+
+This one-page Indian Express clipping, dated 2 January 1973, reports that the Tamil Nadu Government had decided to erect a memorial to C. Rajagopalachari (Rajaji) on a one-hectare site near the Gandhi Mantap in the Raj Bhavan estate in Madras. Chief Minister M. Karunanidhi also proposed acquiring and preserving Rajaji’s ancestral home at Thorapalli village in Dharmapuri district.
+
+A separate item, headed “His premonition,” recounts that Rajaji had predicted his death at least fifteen days before being admitted to the General Hospital. M. P. Somasundaram, described as a close associate, recalled Rajaji’s request that he complete a book project before his death; the report reproduces their brief exchange about the book’s projected length and publication timetable.
+
 ## Key points
 
 - The Tamil Nadu Government announced plans for a memorial to C. Rajagopalachari.

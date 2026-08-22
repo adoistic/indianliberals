@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated 1 December 1959, is written by A. C. Sampath Iyengar of the Swatantra Party's West Bengal Branch to M. R. Masani. Iyengar explains that Ashutosh College Hall, which he had hoped to use for a public meeting, is already booked for Sunday, 6 December. Although the college authorities can offer the hall on Saturday afternoon, that timing would not suit Masani, and no other suitable hall is available.
 ---
 
+## Summary
+
+This one-page letter, dated 1 December 1959, is written by A. C. Sampath Iyengar of the Swatantra Party's West Bengal Branch to M. R. Masani. Iyengar explains that Ashutosh College Hall, which he had hoped to use for a public meeting, is already booked for Sunday, 6 December. Although the college authorities can offer the hall on Saturday afternoon, that timing would not suit Masani, and no other suitable hall is available.
+
 ## Key points
 
 - The letter concerns arrangements for a Swatantra Party public meeting in Calcutta.

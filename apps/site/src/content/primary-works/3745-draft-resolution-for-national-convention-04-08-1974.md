@@ -53,6 +53,12 @@ summary: |-
   The resolution welcomes the proposed amalgamation of non-Congress, non-Communist political forces and specifically supports the proposed Bharatiya Lok Dal (the People's Party of India). It authorises party president Piloo Mody, in consultation with a named committee, to set the date for the merger; declares that the Swatantra Party will cease to exist and merge into the new party; and permits members who do not join the new organisation to continue non-partisan political activity. It further authorises notification of the Chief Election Commissioner regarding dissolution and requests that the Swatantra Party's electoral symbol be frozen.
 ---
 
+## Summary
+
+This two-page draft resolution, prepared for the Swatantra Party's National Convention in Delhi on August 4–5, 1974, reviews the party's efforts to create a two-party system and a broader political alternative to Congress and the Communists. It urges cooperation among opposition parties and records the General Council's view that the country's political situation requires an organised National Alternative with a clear programme capable of responding to popular aspirations.
+
+The resolution welcomes the proposed amalgamation of non-Congress, non-Communist political forces and specifically supports the proposed Bharatiya Lok Dal (the People's Party of India). It authorises party president Piloo Mody, in consultation with a named committee, to set the date for the merger; declares that the Swatantra Party will cease to exist and merge into the new party; and permits members who do not join the new organisation to continue non-partisan political activity. It further authorises notification of the Chief Election Commissioner regarding dissolution and requests that the Swatantra Party's electoral symbol be frozen.
+
 ## Key points
 
 - The National Executive had reviewed the state of the nation and endorsed efforts to overcome political fragmentation through a two-party system.

@@ -57,6 +57,12 @@ summary: |-
   The attached acceptance speech by M. R. Masani frames the Party’s task as opposing what he calls wrong economic policies, over-centralised planning, excessive controls, and the Socialist Establishment. Masani argues that the Swatantra Party must restore organisational discipline, recruit and train party workers, address neglected groups including youth, women, minorities, consumers, landlords, and agricultural labourers, and build a democratic front capable of offering clean and efficient government. The speech invokes C. Rajagopalachari’s guidance and contrasts democratic politics with totalitarian Communist doctrines; it also refers to the Congress Party’s loss of its monopoly of power and to security risks in Bengal and the North-East Frontier.
 ---
 
+## Summary
+
+These draft minutes record the first meeting of the newly elected Swatantra Party General Council, held in Madras on December 27–28, 1969. They list attendance from across India, confirm the recommended structure of the Party’s national offices, and document the election of M. R. Masani as President, R. C. Cooper as General Secretary, H. P. Manda and Lalchand Hirachand as Treasurers, five Vice-Presidents, five Joint Secretaries, and twenty members of the National Executive. The minutes also record objections concerning absent nominees and unavailable letters of consent, withdrawals, secret-ballot procedures, vote totals, and the declaration of results.
+
+The attached acceptance speech by M. R. Masani frames the Party’s task as opposing what he calls wrong economic policies, over-centralised planning, excessive controls, and the Socialist Establishment. Masani argues that the Swatantra Party must restore organisational discipline, recruit and train party workers, address neglected groups including youth, women, minorities, consumers, landlords, and agricultural labourers, and build a democratic front capable of offering clean and efficient government. The speech invokes C. Rajagopalachari’s guidance and contrasts democratic politics with totalitarian Communist doctrines; it also refers to the Congress Party’s loss of its monopoly of power and to security risks in Bengal and the North-East Frontier.
+
 ## Key points
 
 - The minutes document the Swatantra Party General Council meeting in Madras on December 27–28, 1969.

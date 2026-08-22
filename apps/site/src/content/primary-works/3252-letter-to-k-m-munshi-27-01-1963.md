@@ -47,6 +47,10 @@ summary: |-
   This one-page English telegram, marked “EXPRESS,” is a brief political communication from “MASANI” to K. M. Munshi, dated 27 January 1963. It reports that Ramgarh Maksudpur is seeking signatures from Members of Parliament in support of an appeal. The document does not identify the appeal’s subject or provide further argument, salutation, or closing.
 ---
 
+## Summary
+
+This one-page English telegram, marked “EXPRESS,” is a brief political communication from “MASANI” to K. M. Munshi, dated 27 January 1963. It reports that Ramgarh Maksudpur is seeking signatures from Members of Parliament in support of an appeal. The document does not identify the appeal’s subject or provide further argument, salutation, or closing.
+
 ## Key points
 
 - The document is an express telegram or cable-form communication.

@@ -47,6 +47,10 @@ summary: |-
   This single-page telegram, received and stamped on 5 August 1965, is addressed to M. R. Masani in Bombay. The sender, designated only as “JAIN,” reports that an earlier letter concerning a no-confidence motion has not yet been received and urgently requests that it be mailed immediately.
 ---
 
+## Summary
+
+This single-page telegram, received and stamped on 5 August 1965, is addressed to M. R. Masani in Bombay. The sender, designated only as “JAIN,” reports that an earlier letter concerning a no-confidence motion has not yet been received and urgently requests that it be mailed immediately.
+
 ## Key points
 
 - The document is a single-page telegram on an Indian Posts and Telegraphs Department form.

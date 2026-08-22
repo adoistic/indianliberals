@@ -53,6 +53,12 @@ summary: |-
   Drawing on the English decision in Re: Lead Co. Workmen’s Fund Society and the equitable jurisdiction of courts over unincorporated associations, the opinion concludes that a court might intervene in exceptional circumstances where dissolution is necessary to administer justice. It nevertheless finds that no such special circumstances are present in the Swatantra Party’s case. The final view is that the Party cannot be dissolved through the amendment procedure and can be dissolved only by a court order if the court is satisfied that dissolution is in the members’ interest. The document is dated Bombay, 31 July 1974, and bears the endorsement of Malvi Ranchhoddas and Co., Attorneys-at-law.
 ---
 
+## Summary
+
+This three-page legal opinion examines whether the Swatantra Party can be dissolved despite its constitution containing no express provision for winding up or dissolution. It first describes the Party’s constitutional framework: the constitution may be amended under Clause 19 by the National Convention, following a General Council recommendation or a proposal by 200 Party members, subject to the specified majority and notice requirements. The opinion distinguishes this power of amendment from a power to abolish the constitution or dissolve the Party.
+
+Drawing on the English decision in Re: Lead Co. Workmen’s Fund Society and the equitable jurisdiction of courts over unincorporated associations, the opinion concludes that a court might intervene in exceptional circumstances where dissolution is necessary to administer justice. It nevertheless finds that no such special circumstances are present in the Swatantra Party’s case. The final view is that the Party cannot be dissolved through the amendment procedure and can be dissolved only by a court order if the court is satisfied that dissolution is in the members’ interest. The document is dated Bombay, 31 July 1974, and bears the endorsement of Malvi Ranchhoddas and Co., Attorneys-at-law.
+
 ## Key points
 
 - The Swatantra Party constitution provides for amendment but contains no express dissolution or winding-up clause.

@@ -51,6 +51,12 @@ summary: |-
   The letter asks the party to take an appropriate decision to close its ranks and resume united work under the leadership of its senior leaders. The rendered page does not identify the writer's typed name; the handwritten signature appears to include a name followed by “JETHWANI” and “MADRAS,” but it is not fully legible.
 ---
 
+## Summary
+
+This one-page typed letter is addressed to N. Dandekar, General Secretary of the Swatantra Party, at the party's Bombay central office. The writer requests an emergency meeting of the party's General Council to address Minoo Masani's resignation from the National Executive and the Central Parliamentary Board.
+
+The letter asks the party to take an appropriate decision to close its ranks and resume united work under the leadership of its senior leaders. The rendered page does not identify the writer's typed name; the handwritten signature appears to include a name followed by “JETHWANI” and “MADRAS,” but it is not fully legible.
+
 ## Key points
 
 - The document is a one-page typed letter addressed to N. Dandekar, the Swatantra Party's General Secretary.

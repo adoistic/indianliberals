@@ -45,6 +45,10 @@ summary: |-
   This one-page letter, dated 4 April 1968, is written by Kailash Rekhi to N. Dandekar, General Secretary of the Swatantra Party. Rekhi requests an emergency meeting of the Party’s General Council to address Minoo Masani’s resignation from the National Executive and Central Parliamentary Board.
 ---
 
+## Summary
+
+This one-page letter, dated 4 April 1968, is written by Kailash Rekhi to N. Dandekar, General Secretary of the Swatantra Party. Rekhi requests an emergency meeting of the Party’s General Council to address Minoo Masani’s resignation from the National Executive and Central Parliamentary Board.
+
 ## Key points
 
 - The letter is dated 4 April 1968.

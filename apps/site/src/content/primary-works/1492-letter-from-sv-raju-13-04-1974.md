@@ -49,6 +49,12 @@ summary: |-
   Raju explains that he has recently joined Minoo Masani’s firm, Personnel and Productivity Services, and says he has little influence with nationalised banks. He nevertheless offers practical advice about employment for the recipient’s son, recommending training as a stenographer or personal secretary, where he says opportunities are good. The letter closes with a brief inquiry about party affairs in Tamil Nadu.
 ---
 
+## Summary
+
+In this personal letter dated April 13, 1974, S. V. Raju writes to J. Ramabhadran about the Swatantra Party’s poor performance in the Madhya Pradesh elections. He reports that the party lost its deposit in 208 of the 212 seats it contested and won only the seat held by the Raja of Bhadawar, whom he describes as an old-timer who organised the party’s 1961 National Convention in Agra. Raju also says that the result in Orissa was unsurprising and attributes the party’s difficulties there to its alliance with “crooks and opportunists.”
+
+Raju explains that he has recently joined Minoo Masani’s firm, Personnel and Productivity Services, and says he has little influence with nationalised banks. He nevertheless offers practical advice about employment for the recipient’s son, recommending training as a stenographer or personal secretary, where he says opportunities are good. The letter closes with a brief inquiry about party affairs in Tamil Nadu.
+
 ## Key points
 
 - Raju reports that the Swatantra Party lost its deposit in 208 of the 212 Madhya Pradesh seats it contested.

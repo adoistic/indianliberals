@@ -48,6 +48,10 @@ summary: |-
   This undated two-page letter from Russell W. Volckmann, a Ph.D. candidate at the University of California, Berkeley, to M. R. Masani outlines Volckmann’s academic background and proposed doctoral research in Orissa. His specializations include South Asian political systems, public administration, comparative analysis, and socio-economic change in developing countries. The proposed thesis examines how the introduction of a capital-intensive public-sector steel industry affects social, economic, and organizational life in the previously primarily rural district of Sundargarh.
 ---
 
+## Summary
+
+This undated two-page letter from Russell W. Volckmann, a Ph.D. candidate at the University of California, Berkeley, to M. R. Masani outlines Volckmann’s academic background and proposed doctoral research in Orissa. His specializations include South Asian political systems, public administration, comparative analysis, and socio-economic change in developing countries. The proposed thesis examines how the introduction of a capital-intensive public-sector steel industry affects social, economic, and organizational life in the previously primarily rural district of Sundargarh.
+
 ## Key points
 
 - Volckmann identifies South Asian political systems, public administration, comparative analysis, and socio-economic change as his areas of specialization.

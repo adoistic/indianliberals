@@ -52,6 +52,12 @@ summary: |-
   The minutes record the election of six members to the Executive Committee for six months and the appointment of four special invitees. The principal political business concerned the party's position on a No Confidence Motion. After detailed discussion, the meeting decided by majority that the party should abstain when the motion was put to vote in the House: 18 members supported abstention, while 15 favoured supporting the motion.
 ---
 
+## Summary
+
+This one-page document records the minutes of a Swatantra Party parliamentary meeting held in Room No. 50 of Parliament House, New Delhi, on 22 November 1967. Thirty-five members are listed as present, including Minoo Masani, N. G. Ranga, C. C. Desai, Piloo Mody, and Maharani Gayatri Devi. The meeting opened with a minute of silence for G. D. Patil, the party's member from Bijapur, Mysore, who had died suddenly; members were also asked to clear outstanding subscription arrears.
+
+The minutes record the election of six members to the Executive Committee for six months and the appointment of four special invitees. The principal political business concerned the party's position on a No Confidence Motion. After detailed discussion, the meeting decided by majority that the party should abstain when the motion was put to vote in the House: 18 members supported abstention, while 15 favoured supporting the motion.
+
 ## Key points
 
 - The meeting took place on 22 November 1967 at Parliament House, New Delhi, and the minutes were dated 23 November 1967.

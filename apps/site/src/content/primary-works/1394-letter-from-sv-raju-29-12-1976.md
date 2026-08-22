@@ -51,6 +51,12 @@ summary: |-
   Raju characterizes the Swatantra Party as “mortally wounded,” blaming not its foes but those who claimed to be its votaries. He encloses an article he wrote in Freedom First about the party’s last National Convention, while clarifying that he is not urging the recipient to join the Swatantra Party again. The letter closes with Raju’s admission that he made a mistake in trying to build up Hande, followed by the reflective line, “We all live and learn!”
 ---
 
+## Summary
+
+In this letter dated December 29, 1976, S. V. Raju congratulates the recipient on his release from detention and resignation from the DMK. Referring to a report in The Times of India, Raju notes that the detention had been described as “God's punishment for deserting Rajaji,” and says this sentence dispelled any disappointment he may have felt about the recipient’s resignation from the party.
+
+Raju characterizes the Swatantra Party as “mortally wounded,” blaming not its foes but those who claimed to be its votaries. He encloses an article he wrote in Freedom First about the party’s last National Convention, while clarifying that he is not urging the recipient to join the Swatantra Party again. The letter closes with Raju’s admission that he made a mistake in trying to build up Hande, followed by the reflective line, “We all live and learn!”
+
 ## Key points
 
 - The letter is dated December 29, 1976, and is signed by S. V. Raju.

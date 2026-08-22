@@ -51,6 +51,12 @@ summary: |-
   Ranga stresses that voting on these matters will begin on the first day of the parliamentary session, November 17, and therefore asks the recipient to arrive in Delhi one or two days early. He also calls a Swatantra Party meeting for November 16 to discuss issues of national importance, finalise the party's attitude, and decide its parliamentary strategy.
 ---
 
+## Summary
+
+This untitled letter, dated November 5, 1969, is written by N. G. Ranga from the Swatantra Party Parliamentary Office in New Delhi to an unnamed colleague. Ranga urges the recipient to follow recent political developments, which he says have serious implications for the country, including India's humiliation at the Islamic Conference at Rabat, the alleged non-payment of income tax by Jagjivan Ram, and other topical issues likely to arise in Parliament.
+
+Ranga stresses that voting on these matters will begin on the first day of the parliamentary session, November 17, and therefore asks the recipient to arrive in Delhi one or two days early. He also calls a Swatantra Party meeting for November 16 to discuss issues of national importance, finalise the party's attitude, and decide its parliamentary strategy.
+
 ## Key points
 
 - The letter is dated November 5, 1969, and is issued on Swatantra Party Parliamentary Office letterhead.

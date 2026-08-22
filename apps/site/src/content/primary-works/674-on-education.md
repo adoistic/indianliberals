@@ -54,6 +54,14 @@ summary: |-
   The rendered pages include the complete pamphlet and both annexures, but no publication year or formal pamphlet table of contents is visible. The table of contents reproduced in Annexure II belongs to the proposed pupil Progress Book, not to the pamphlet itself.
 ---
 
+## Summary
+
+In the rendered pages, B. K. Gokhale argues that post-independence India has expanded its educational infrastructure without correcting the deeper defects of its inherited examination-centred system. The note criticises the Secondary School Certificate examination for neglecting physical development, emotional formation, leadership, discipline, initiative, general knowledge and independent thinking, while rewarding memory and encouraging dependence on guides, notes, private tuition and rote learning. The author links these failures to deteriorating teaching standards, student indiscipline, overloaded curricula and the premature intellectual pressure placed on children.
+
+In the rendered pages, Gokhale proposes a broader conception of education directed toward the coordinated development of body, mind and emotions. He calls for physical health, recreation, games, good conduct and discipline to become compulsory examination subjects, with marks awarded for each. He also recommends limiting university admissions by institutional capacity and examination performance, while allowing concessions for disadvantaged groups. The accompanying annexures specify a long-term “Progress Book” recording academic achievement, conduct, physical health, games, sports and extracurricular activity from approximately age ten to twenty-one, and provide detailed marking schemes for health, games and discipline.
+
+The rendered pages include the complete pamphlet and both annexures, but no publication year or formal pamphlet table of contents is visible. The table of contents reproduced in Annexure II belongs to the proposed pupil Progress Book, not to the pamphlet itself.
+
 ## Key points
 
 - The pamphlet attributes educational underperformance and educated unemployment to defects in the examination-centred school system.

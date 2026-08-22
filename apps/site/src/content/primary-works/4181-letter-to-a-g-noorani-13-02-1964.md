@@ -44,6 +44,10 @@ summary: |-
   This one-page English letter from M. R. Masani to A. G. Noorani is dated 13 February 1964 and addressed from Bombay. Masani draws Noorani’s attention to the 15 February issue of Swarajya, which contains an item by C. Rajagopalachari (“Rajaji”) concerning Noorani’s book.
 ---
 
+## Summary
+
+This one-page English letter from M. R. Masani to A. G. Noorani is dated 13 February 1964 and addressed from Bombay. Masani draws Noorani’s attention to the 15 February issue of Swarajya, which contains an item by C. Rajagopalachari (“Rajaji”) concerning Noorani’s book.
+
 ## Key points
 
 - The document is a personal typed letter dated 13 February 1964.

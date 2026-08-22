@@ -53,6 +53,12 @@ summary: |-
   Joseph’s reply describes his continuing liberal activities in Kerala, including research on the Swatantra Party, work associated with the Centre for Liberal Studies, and plans for a women’s legal-aid cell. He mentions a Malayalam bi-monthly, apparently titled “Gosam or Liberation,” and proposes a two-day seminar for former Swatantrites and active liberals from southern states. The suggested programme would address consumerism, taxation, controls, and non-party political activity. The correspondence therefore documents efforts to preserve and reorganise a liberal tradition through publications, research, educational programmes, and networks of former Swatantra Party activists.
 ---
 
+## Summary
+
+This three-page correspondence file contains S. V. Raju’s typed letter of 11 March 1985 to Babu Joseph, followed by Joseph’s handwritten reply dated 1 March 1985. Raju thanks Joseph for writing, promises to send a questionnaire, and asks for papers relating to Joseph’s work. He refers to Minoo Masani’s account of Joseph’s centre and expresses regret that the publication “Liberation” is available only in Malayalam. He also supports convening a two-day seminar of former Swatantra Party members, despite an earlier proposal having been rejected by Masani.
+
+Joseph’s reply describes his continuing liberal activities in Kerala, including research on the Swatantra Party, work associated with the Centre for Liberal Studies, and plans for a women’s legal-aid cell. He mentions a Malayalam bi-monthly, apparently titled “Gosam or Liberation,” and proposes a two-day seminar for former Swatantrites and active liberals from southern states. The suggested programme would address consumerism, taxation, controls, and non-party political activity. The correspondence therefore documents efforts to preserve and reorganise a liberal tradition through publications, research, educational programmes, and networks of former Swatantra Party activists.
+
 ## Key points
 
 - Raju responds to Joseph’s letter and offers to send a questionnaire and relevant papers.

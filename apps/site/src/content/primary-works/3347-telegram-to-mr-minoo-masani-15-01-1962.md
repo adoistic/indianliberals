@@ -52,6 +52,10 @@ summary: |-
   This 17-page file records correspondence and supporting agreements concerning the allocation of jeeps to Swatantra Party candidates during the 1962 parliamentary campaign. A telegram from the Bihar State Swatantra Party, signed by H. R. Masani, asks Minoo Masani in Bombay to clarify how a representative is to take possession of jeeps at Patna. The reply states that the Parliamentary Board had not decided to hand over jeeps directly and that only receipts from endorsed candidates could be accepted.
 ---
 
+## Summary
+
+This 17-page file records correspondence and supporting agreements concerning the allocation of jeeps to Swatantra Party candidates during the 1962 parliamentary campaign. A telegram from the Bihar State Swatantra Party, signed by H. R. Masani, asks Minoo Masani in Bombay to clarify how a representative is to take possession of jeeps at Patna. The reply states that the Parliamentary Board had not decided to hand over jeeps directly and that only receipts from endorsed candidates could be accepted.
+
 ## Key points
 
 - A telegram dated 15 January 1962 disputes the proposed handover of jeeps to a party representative reaching Patna.

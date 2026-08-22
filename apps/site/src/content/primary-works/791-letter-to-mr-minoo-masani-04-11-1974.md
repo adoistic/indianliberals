@@ -52,6 +52,12 @@ summary: |-
   The letter places its proposal in the context of Jayaprakash Narayan's movement to save democracy and invokes work previously undertaken by Rajaji. It urges a small group of dedicated workers to convene a National Convention from 8 to 23 December, provide a lead in forming a two-party system, and participate in the movement for the dissolution of the House of the People and related programmes. The sender says a copy of the memorandum will be sent to Masani and closes by asking for information about the convention. The handwritten signature is not legible enough to establish the sender's identity.
 ---
 
+## Summary
+
+This handwritten letter, dated 4 November 1974 and sent from the Swatantra Party in Bombay to M. R. Masani, concerns a memorandum submitted to the Governor on behalf of a citizens' committee of which Masani was a member. The writer asks Masani to give attention to the issues raised in the memorandum and seeks information about an impending national convention.
+
+The letter places its proposal in the context of Jayaprakash Narayan's movement to save democracy and invokes work previously undertaken by Rajaji. It urges a small group of dedicated workers to convene a National Convention from 8 to 23 December, provide a lead in forming a two-party system, and participate in the movement for the dissolution of the House of the People and related programmes. The sender says a copy of the memorandum will be sent to Masani and closes by asking for information about the convention. The handwritten signature is not legible enough to establish the sender's identity.
+
 ## Key points
 
 - The letter is dated 4 November 1974 and is addressed to M. R. Masani in Bombay.

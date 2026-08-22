@@ -48,6 +48,12 @@ summary: |-
   Masani also proposes meeting the Wadias for a meal at Breach Candy House when they are next in Bombay. He closes by expressing particular gratitude for Aloo's attention to his nutrition, humorously suggesting that this care was sometimes excessive. The page presents a personal note of thanks rather than a political or theoretical argument.
 ---
 
+## Summary
+
+In this letter dated 15 March 1971, M. R. Masani writes to Mr. and Mrs. F. Wadia from Rajkot after returning from their hospitality. He thanks them for making him feel at home, apologises for the inconvenience caused by his irregular movements and telephone calls, and describes his intention to settle back into a normal routine.
+
+Masani also proposes meeting the Wadias for a meal at Breach Candy House when they are next in Bombay. He closes by expressing particular gratitude for Aloo's attention to his nutrition, humorously suggesting that this care was sometimes excessive. The page presents a personal note of thanks rather than a political or theoretical argument.
+
 ## Key points
 
 - The letter is dated 15 March 1971 and was written from Rajkot.

@@ -49,6 +49,12 @@ summary: |-
   Ranga also discusses the presidency, explaining that the group has decided neither to recommend names nor to encourage any party to nominate candidates. He says the Jan Sangh is not genuinely eager for a merger and lacks clearance from its chief, while neither Masani nor Charan Singh accepts the idea of a limited front. The letter closes with Ranga’s plans to travel to Andhra, where he reports severe cyclone damage, and refers to a separate letter to Indira Gandhi concerning the government’s response.
 ---
 
+## Summary
+
+In this letter dated May 27, 1969, Professor N. G. Ranga writes to C. Rajagopalachari (“Rajajee”) about negotiations to persuade the Jan Sangh to agree to a proposed political merger. Ranga reports that Atal Bihari Vajpayee had still not arrived and that Charan Singh had become annoyed with the other parties; as a result, the talks have been postponed sine die. He encloses a report of the proceedings but says it will not be released to the press, noting that Mr. Masani is dissatisfied with the outcome.
+
+Ranga also discusses the presidency, explaining that the group has decided neither to recommend names nor to encourage any party to nominate candidates. He says the Jan Sangh is not genuinely eager for a merger and lacks clearance from its chief, while neither Masani nor Charan Singh accepts the idea of a limited front. The letter closes with Ranga’s plans to travel to Andhra, where he reports severe cyclone damage, and refers to a separate letter to Indira Gandhi concerning the government’s response.
+
 ## Key points
 
 - Ranga reports that discussions aimed at securing the Jan Sangh’s agreement to a political merger have been postponed sine die.

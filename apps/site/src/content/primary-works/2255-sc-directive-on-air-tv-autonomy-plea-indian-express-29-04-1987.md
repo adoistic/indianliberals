@@ -54,6 +54,12 @@ summary: |-
   The report says a bench headed by Chief Justice R. S. Pathak, with Justice Ranganath Misra, issued notice and asked respondents to file replies by July 21. It records arguments that public broadcasting should be placed under an autonomous organisation, notes the Prasar Bharati Bill introduced in Parliament in 1979 and lapsed after the fall of the Janata Government, and describes a request for directions preventing further violations of Fundamental Rights. The article also refers to earlier committee recommendations and cases concerning electronic media, but the clipping does not report the Supreme Court’s final ruling.
 ---
 
+## Summary
+
+This one-page Express News Service report dated New Delhi, April 28, 1987, covers a Supreme Court petition seeking autonomy for All India Radio and Doordarshan. Journalist Romesh Thapar’s petition argues that radio and television, then treated as “attached offices” of the Information and Broadcasting Ministry, should be regarded as “State” entities under Article 12 and therefore subject to citizens’ Fundamental Rights. Counsel A. G. Noorani submits that the government’s control violates equality, liberty, and the constitutional right to information and argues that broadcasting frequencies are scarce public resources that must be used for public purposes rather than partisan ends.
+
+The report says a bench headed by Chief Justice R. S. Pathak, with Justice Ranganath Misra, issued notice and asked respondents to file replies by July 21. It records arguments that public broadcasting should be placed under an autonomous organisation, notes the Prasar Bharati Bill introduced in Parliament in 1979 and lapsed after the fall of the Janata Government, and describes a request for directions preventing further violations of Fundamental Rights. The article also refers to earlier committee recommendations and cases concerning electronic media, but the clipping does not report the Supreme Court’s final ruling.
+
 ## Key points
 
 - The Supreme Court issued notice on a petition seeking autonomy for All India Radio and Doordarshan.

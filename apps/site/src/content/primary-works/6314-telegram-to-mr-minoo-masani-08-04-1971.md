@@ -52,6 +52,12 @@ summary: |-
   The senders say they are “highly shocked” by the resignation and argue that Masani’s guidance remains essential to the party. They praise his view as “most democratic” and conducive to “moral uplift in public life,” while urging him to reconsider and continue as president of the Swatantra Party.
 ---
 
+## Summary
+
+This one-page English telegram, received on 8 April 1971, is addressed to M. R. Masani at Mahatma Gandhi Road, Bombay. Sent from the Swatantra Party Bombay office and signed by Pramod Kalyani and Ratibhai Patel, it responds to Masani’s resignation as party president.
+
+The senders say they are “highly shocked” by the resignation and argue that Masani’s guidance remains essential to the party. They praise his view as “most democratic” and conducive to “moral uplift in public life,” while urging him to reconsider and continue as president of the Swatantra Party.
+
 ## Key points
 
 - The document is a one-page telegram received on 8 April 1971.

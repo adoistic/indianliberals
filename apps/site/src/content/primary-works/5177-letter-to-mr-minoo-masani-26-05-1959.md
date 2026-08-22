@@ -48,6 +48,12 @@ summary: |-
   The quoted extract presents leadership as situational and group-based rather than as a fixed personal quality. Different social situations require different leadership qualities, and the group itself helps determine the kind of leadership it expects. The page does not contain a closing or visible signature, and the letter's title is not printed.
 ---
 
+## Summary
+
+This single-page letter from B. N. Rao of Rao's Tutorial College, Hyderabad, addressed to Shri Minoo Masani, M.P., comments on the contemporary controversy over Jawaharlal Nehru's leadership. Rao directs readers to an extract from Pfiffner and Presthus's Public Administration (third edition, 1953), arguing that modern social-science research has revised traditional ideas of leadership as a highly individualized skill.
+
+The quoted extract presents leadership as situational and group-based rather than as a fixed personal quality. Different social situations require different leadership qualities, and the group itself helps determine the kind of leadership it expects. The page does not contain a closing or visible signature, and the letter's title is not printed.
+
 ## Key points
 
 - The letter addresses the controversy surrounding Jawaharlal Nehru's leadership.

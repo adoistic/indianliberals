@@ -50,6 +50,12 @@ summary: |-
   The final numbered section focuses on Bihar, described as being in a particularly poor condition. Masani criticises Ramgarh for failing both to enrol workers and to permit others to do so, notes that enrolment forms have not been supplied, and warns that the Centre may soon have to act because the Bihar organisation is non-functioning. He points out that Ramgarh has nevertheless formed a ten-man Executive of his own choosing after a legislators’ meeting at Patna.
 ---
 
+## Summary
+
+This page is the concluding portion of a letter from M. R. Masani to C. Rajagopalachari, signed on printed page 33. Masani discusses the quality of candidates for 1967 and proposes caution in the Parliamentary Board’s recommendations, suggesting that cases requiring scrutiny and consultation could be referred to the President and General Secretary. He also reports encouraging responses to organisational assistance offered in Uttar Pradesh and Mysore, while asking Rajagopalachari to ensure that arrangements in Bombay are not disturbed.
+
+The final numbered section focuses on Bihar, described as being in a particularly poor condition. Masani criticises Ramgarh for failing both to enrol workers and to permit others to do so, notes that enrolment forms have not been supplied, and warns that the Centre may soon have to act because the Bihar organisation is non-functioning. He points out that Ramgarh has nevertheless formed a ten-man Executive of his own choosing after a legislators’ meeting at Patna.
+
 ## Key points
 
 - Masani urges careful scrutiny of candidates for the 1967 elections.

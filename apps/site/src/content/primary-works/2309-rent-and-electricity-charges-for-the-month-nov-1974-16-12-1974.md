@@ -44,6 +44,10 @@ summary: |-
   This one-page English office letter, dated 16 December 1974 and addressed to Bhartiya Lok Dal in Bombay, records the rent and electricity charges paid for November 1974. It itemizes rent of Rs. 381.54 and electricity charges of Rs. 136.54, for a total of Rs. 518.08.
 ---
 
+## Summary
+
+This one-page English office letter, dated 16 December 1974 and addressed to Bhartiya Lok Dal in Bombay, records the rent and electricity charges paid for November 1974. It itemizes rent of Rs. 381.54 and electricity charges of Rs. 136.54, for a total of Rs. 518.08.
+
 ## Key points
 
 - The letter is dated 16th December 1974.

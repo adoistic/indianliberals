@@ -50,6 +50,12 @@ summary: |-
   The page also criticizes state planning and taxation, asserting that roughly one-third of national income—“over 30 paise in every rupee”—is diverted to government through direct and indirect taxes, excise duties, and government borrowing. Its central visual metaphor depicts the state consuming resources, framing state investment and planning as a diversion of resources rather than a productive return.
 ---
 
+## Summary
+
+This single-page illustrated advocacy document argues that excessive money creation has produced an imbalance between the money supply and the availability of goods and services. It compares the increase in money supply between 1956 and 1974—from Rs. 2,218 crores to more than Rs. 11,000 crores, described as nearly fivefold—with the much smaller increase in national income and output, which it says merely doubled. The document links this disparity to rising prices and inflation.
+
+The page also criticizes state planning and taxation, asserting that roughly one-third of national income—“over 30 paise in every rupee”—is diverted to government through direct and indirect taxes, excise duties, and government borrowing. Its central visual metaphor depicts the state consuming resources, framing state investment and planning as a diversion of resources rather than a productive return.
+
 ## Key points
 
 - The document attributes inflation to money creation beyond the requirements of the economy.

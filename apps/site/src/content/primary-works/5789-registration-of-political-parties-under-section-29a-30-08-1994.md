@@ -49,6 +49,10 @@ summary: |-
   This three-page English-language document is a reminder letter dated August 30, 1994, from J. Venkiteswaran, President of the Swatantra Party, Maharashtra, to the Secretary of the Election Commission of India. It follows up on an earlier letter dated June 28, 1994, concerning the registration of political parties under Section 29A, and asks the Commission for an immediate reply. L. H. Sampat is identified in the letterhead as General Secretary.
 ---
 
+## Summary
+
+This three-page English-language document is a reminder letter dated August 30, 1994, from J. Venkiteswaran, President of the Swatantra Party, Maharashtra, to the Secretary of the Election Commission of India. It follows up on an earlier letter dated June 28, 1994, concerning the registration of political parties under Section 29A, and asks the Commission for an immediate reply. L. H. Sampat is identified in the letterhead as General Secretary.
+
 ## Key points
 
 - The document is dated August 30, 1994.

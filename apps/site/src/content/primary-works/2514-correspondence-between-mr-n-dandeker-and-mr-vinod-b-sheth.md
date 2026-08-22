@@ -57,6 +57,12 @@ summary: |-
   Dandekar agrees with most of Sheth’s criticisms but rejects the claim that the Swatantra Party represents a class. He presents its position as a constitutional and economic “System” combining fundamental rights, judicial supremacy, secularism, democratic institutions, private enterprise subject to safeguards against exploitation, and public enterprise concentrated mainly in public utilities. The exchange therefore centers on the party’s identity, its relationship to class interests, and the proper balance between private initiative and state provision.
 ---
 
+## Summary
+
+This two-page confidential correspondence consists of Vinod B. Sheth’s resignation letter from the Swatantra Party and N. Dandekar’s reply. Sheth describes his long service to the party, including work in its General Council and State Executive, but concludes that it has been weakened by caste- and class-based influences and by members whose personal interests conflict with the party’s survival. Although he remains committed to the party’s ideological background and to public welfare, he believes his efforts would be more useful in institutions serving disadvantaged sections of society.
+
+Dandekar agrees with most of Sheth’s criticisms but rejects the claim that the Swatantra Party represents a class. He presents its position as a constitutional and economic “System” combining fundamental rights, judicial supremacy, secularism, democratic institutions, private enterprise subject to safeguards against exploitation, and public enterprise concentrated mainly in public utilities. The exchange therefore centers on the party’s identity, its relationship to class interests, and the proper balance between private initiative and state provision.
+
 ## Key points
 
 - Vinod B. Sheth resigns after concluding that the Swatantra Party has been diverted by caste- and class-based interests.

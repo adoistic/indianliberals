@@ -49,6 +49,12 @@ summary: |-
   The extract characterises this political weakness as “unrealism, or hypocrisy, or infantilism.” It argues that demands for both dynamic economic progress and extensive economic equalisation can depress and distort production, generate inflationary wage claims, and require subsidies for uncompetitive activity. Its concluding prescription is that social democracies must learn from the “stringent but hopeful facts of economic life” and return to sound money. The page is an extract/review rather than a complete standalone work; no independent byline or title for the archival item is printed.
 ---
 
+## Summary
+
+This single-page English extract, identified as drawn from Graham Hutton's Inflation and Society and reviewed in The Economist on July 9, 1960, argues that modern democracies can combine an overambitious state programme, pressure from special interests, egalitarian demands, rising prices, and weak economic growth. It presents inflation as a consequence of democratic governments promising more collective action and welfare than voters will acceptably finance through reduced consumption, private investment, or taxation.
+
+The extract characterises this political weakness as “unrealism, or hypocrisy, or infantilism.” It argues that demands for both dynamic economic progress and extensive economic equalisation can depress and distort production, generate inflationary wage claims, and require subsidies for uncompetitive activity. Its concluding prescription is that social democracies must learn from the “stringent but hopeful facts of economic life” and return to sound money. The page is an extract/review rather than a complete standalone work; no independent byline or title for the archival item is printed.
+
 ## Key points
 
 - The extract links an overambitious state programme and special-interest mobilisation to rising prices and sluggish economic growth.

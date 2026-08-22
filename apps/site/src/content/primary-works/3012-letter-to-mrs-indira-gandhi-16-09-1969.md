@@ -51,6 +51,12 @@ summary: |-
   Masani's central objection is that establishing a new motor-car unit—whether public or private—would divert scarce foreign exchange and development resources from more urgent transport needs. He prioritizes strengthening public transport, including buses, mini-buses, scooters, motorcycles, and mass-transit systems such as the tube railway. He welcomes what he understands to be the Planning Commission's, Finance Ministry's, and Industrial Development Ministry's decision to give these priorities precedence, and urges that they not be compromised by the public controversy surrounding the car project.
 ---
 
+## Summary
+
+In this letter dated September 16, 1969, Minoo Masani writes to Prime Minister Indira Gandhi about the Government's reconsideration of a small-car project in the public sector. He argues that the controversy has become unnecessarily hardened into a matter of prestige, despite the Ministry's earlier assurances that the issue would be settled promptly.
+
+Masani's central objection is that establishing a new motor-car unit—whether public or private—would divert scarce foreign exchange and development resources from more urgent transport needs. He prioritizes strengthening public transport, including buses, mini-buses, scooters, motorcycles, and mass-transit systems such as the tube railway. He welcomes what he understands to be the Planning Commission's, Finance Ministry's, and Industrial Development Ministry's decision to give these priorities precedence, and urges that they not be compromised by the public controversy surrounding the car project.
+
 ## Key points
 
 - Masani addresses the Government's reconsideration of a small-car project in the public sector.

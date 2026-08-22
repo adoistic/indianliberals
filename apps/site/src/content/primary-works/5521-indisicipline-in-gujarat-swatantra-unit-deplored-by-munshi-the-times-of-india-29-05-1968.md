@@ -53,6 +53,12 @@ summary: |-
   Munshi also objects to reported indiscipline among Gujarat MLAs, including alleged disregard of a promise made to Babubhai Vaidya. The report describes a wider concern with party discipline, moral standards, and the danger of political demoralisation. The second rendered PDF page is a typed continuation page discussing inventories, inefficiency, theft, rejection rates, and capacity at Indian steel plants; it does not visibly continue the Gujarat Swatantra Party report and may belong to a different item.
 ---
 
+## Summary
+
+This Times of India News Service report, datelined Bombay, May 28, 1968, records K. M. Munshi’s criticism of indiscipline within the Gujarat unit of the Swatantra Party. Munshi says the party is a single national organisation rather than a federation of autonomous state units, and rejects the Gujarat members’ complaint that the national executive was interfering in state affairs. He warns that the party’s future depends on decisions taken at an impending national executive meeting and says he would not leave the party unless prevented from doing so by C. Rajagopalachari.
+
+Munshi also objects to reported indiscipline among Gujarat MLAs, including alleged disregard of a promise made to Babubhai Vaidya. The report describes a wider concern with party discipline, moral standards, and the danger of political demoralisation. The second rendered PDF page is a typed continuation page discussing inventories, inefficiency, theft, rejection rates, and capacity at Indian steel plants; it does not visibly continue the Gujarat Swatantra Party report and may belong to a different item.
+
 ## Key points
 
 - K. M. Munshi deplores indiscipline in the Gujarat unit of the Swatantra Party.

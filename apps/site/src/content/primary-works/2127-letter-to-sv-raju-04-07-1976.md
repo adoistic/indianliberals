@@ -46,6 +46,12 @@ summary: |-
   Singh states that his telephone number, 383700, remains unchanged, and closes with a conventional sign-off. The second rendered page shows the envelope addressed to Raju at Bombay; no substantive political, economic, or philosophical argument appears in the letter.
 ---
 
+## Summary
+
+This untitled English letter, dated 4 July 1976, is written by Bhanu Pratap Singh, identified on the letterhead as a Member of Parliament in the Rajya Sabha, to S. V. Raju. In a brief personal and administrative note, Singh informs Raju that he has moved from Flat No. 521 to 206, V. P. House, Rafi Marg, New Delhi-1.
+
+Singh states that his telephone number, 383700, remains unchanged, and closes with a conventional sign-off. The second rendered page shows the envelope addressed to Raju at Bombay; no substantive political, economic, or philosophical argument appears in the letter.
+
 ## Key points
 
 - The document is an untitled letter dated 4 July 1976.

@@ -52,6 +52,12 @@ summary: |-
   The writer recounts the subsequent attempts to establish whether the papers had reached Dandekar, including a discussion at a meeting of the party's Executive Committee. The letter argues that the stenographer should have informed the writer once he knew the papers had been misplaced, so that Dandekar could have been warned before speaking. The second page is an attached cover-address sheet showing correspondence sent from M. R. Masani to A. K. Roy, Comptroller and Auditor General.
 ---
 
+## Summary
+
+This two-page English letter, dated October 1, 1964, is written on the Swatantra Party Parliamentary Office letterhead and addressed to M. R. Masani. The unidentified signatory explains the mishandling of papers concerning a direct-taxation bill that were intended for N. Dandekar. The papers were passed from the office stenographer, Mr. Nair, to a messenger named Michael, but Michael apparently misplaced the relevant envelope.
+
+The writer recounts the subsequent attempts to establish whether the papers had reached Dandekar, including a discussion at a meeting of the party's Executive Committee. The letter argues that the stenographer should have informed the writer once he knew the papers had been misplaced, so that Dandekar could have been warned before speaking. The second page is an attached cover-address sheet showing correspondence sent from M. R. Masani to A. K. Roy, Comptroller and Auditor General.
+
 ## Key points
 
 - The letter is dated October 1, 1964, and uses Swatantra Party Parliamentary Office letterhead.

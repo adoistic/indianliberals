@@ -55,6 +55,12 @@ summary: |-
   The report outlines Gandhi’s position on regional needs, monetary and fiscal policy, bank nationalisation, credit allocation, and industrial development. She supported representation for state governments and regions on the boards of nationalised banks, urged industrialists to reduce consumption and build reserves for expansion and modernisation, and linked economic stability to peaceful social change. The article also records concerns from Mr. K. Eswaran of the Hindustan Chamber of Commerce, who proposed an export bank and a high-power committee to manage bank credit, while warning that bank nationalisation could slow industrial growth and deter foreign investment. Pages 2 and 4 contain unrelated stock-market and commodity material and an advertisement rather than the article.
 ---
 
+## Summary
+
+This Economic Times report from the Madras bureau describes Prime Minister Indira Gandhi’s conditional offer to relax statutory controls and regulations on industry and business. The proposed relaxation was contingent on business demonstrating greater awareness of its social obligations. Gandhi defended controls as responses to industry leaders’ inadequate appreciation of their social and financial responsibilities, while also calling for cooperation between government and business.
+
+The report outlines Gandhi’s position on regional needs, monetary and fiscal policy, bank nationalisation, credit allocation, and industrial development. She supported representation for state governments and regions on the boards of nationalised banks, urged industrialists to reduce consumption and build reserves for expansion and modernisation, and linked economic stability to peaceful social change. The article also records concerns from Mr. K. Eswaran of the Hindustan Chamber of Commerce, who proposed an export bank and a high-power committee to manage bank credit, while warning that bank nationalisation could slow industrial growth and deter foreign investment. Pages 2 and 4 contain unrelated stock-market and commodity material and an advertisement rather than the article.
+
 ## Key points
 
 - Indira Gandhi offered further relaxation of industrial controls subject to business accepting stronger social obligations.

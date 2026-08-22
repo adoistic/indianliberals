@@ -49,6 +49,12 @@ summary: |-
   The report also notes that the 12-member Praja-Socialist Party lacks a parliamentary leader after Asoka Mehta's electoral defeat. Surendranath Dwivedy is identified as the senior-most elected member and a possible leader, while Nath Pal is expected to act as the party's floor spokesman. It further reports discussions among the Praja-Socialists, Swatantra Party, Jan Sangh, and Independents about forming a united non-Congress, non-Communist opposition, with negotiations expected to be initiated by C. Rajagopalachari and Asoka Mehta. The clipping ends by naming A. K. Gopalan and Hiren Mukherji as likely Communist parliamentary leaders.
 ---
 
+## Summary
+
+This 7 March 1962 New Delhi report describes the search for parliamentary leaders after the Swatantra Party's defeat of N. G. Ranga and M. R. Masani's withdrawal from the Lok Sabha contest in Himachal Pradesh. The 22-member Swatantra Party is considering Maharaja Pratap Keshari Deo of Kalahandi, who may continue as leader of the merged Ganatantra Parishad–Swatantra unit after the two parties' merger.
+
+The report also notes that the 12-member Praja-Socialist Party lacks a parliamentary leader after Asoka Mehta's electoral defeat. Surendranath Dwivedy is identified as the senior-most elected member and a possible leader, while Nath Pal is expected to act as the party's floor spokesman. It further reports discussions among the Praja-Socialists, Swatantra Party, Jan Sangh, and Independents about forming a united non-Congress, non-Communist opposition, with negotiations expected to be initiated by C. Rajagopalachari and Asoka Mehta. The clipping ends by naming A. K. Gopalan and Hiren Mukherji as likely Communist parliamentary leaders.
+
 ## Key points
 
 - The Swatantra Party is seeking an experienced and effective Lok Sabha leader after electoral setbacks involving N. G. Ranga and M. R. Masani.

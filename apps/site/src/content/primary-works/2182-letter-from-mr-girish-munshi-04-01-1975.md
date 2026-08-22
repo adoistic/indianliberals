@@ -49,6 +49,12 @@ summary: |-
   Munshi refers to a Swatantra Party resolution passed at its General Council meeting in Madras on December 8, 1974, and seeks a meeting with Narayan during his visit to Bombay between January 21 and 26, 1975. He says he wants to offer advice on how the movement might proceed and asks Narayan to communicate a suitable time and place. A handwritten note on the second page records that the letter was approved by Mr. Paramanandji and posted to Patna, with a copy sent to Bombay.
 ---
 
+## Summary
+
+This two-page English letter, dated January 4, 1975, is addressed by Girish Munshi, identified as General Secretary, All-India, to Jayaprakash Narayan. Munshi presents Narayan's movement as a continuation of earlier Gandhian and Rajaji-led struggles against despotism, corruption, and fear, and conveys the Swatantra Party's support for it despite the party's dissolution in 1974.
+
+Munshi refers to a Swatantra Party resolution passed at its General Council meeting in Madras on December 8, 1974, and seeks a meeting with Narayan during his visit to Bombay between January 21 and 26, 1975. He says he wants to offer advice on how the movement might proceed and asks Narayan to communicate a suitable time and place. A handwritten note on the second page records that the letter was approved by Mr. Paramanandji and posted to Patna, with a copy sent to Bombay.
+
 ## Key points
 
 - The letter is dated January 4, 1975, and is addressed to Jayaprakash Narayan.

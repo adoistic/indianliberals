@@ -49,6 +49,10 @@ summary: |-
   This single-page English notice from the Swatantra Party’s Bombay Office asks recipients to attend a meeting at the party’s sixth-floor office. It specifies two meeting times—10:00 a.m. and 2:30 p.m.—on both Tuesday the 29th and Thursday the 30th of the month.
 ---
 
+## Summary
+
+This single-page English notice from the Swatantra Party’s Bombay Office asks recipients to attend a meeting at the party’s sixth-floor office. It specifies two meeting times—10:00 a.m. and 2:30 p.m.—on both Tuesday the 29th and Thursday the 30th of the month.
+
 ## Key points
 
 - The document is an office notice issued from the Swatantra Party’s Bombay Office.

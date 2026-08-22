@@ -51,6 +51,12 @@ summary: |-
   The letter focuses particularly on the propriety of Mody presiding over the convention while publicly advocating dissolution. Aravamudhan maintains that the chair should be politically neutral, notes that many party members—including the Tamil Nadu General Council—oppose dissolution, and warns that Mody’s chairmanship could inhibit frank debate. He therefore asks Mody not to occupy the chair when dissolution is discussed, suggesting that an uncommitted vice-president conduct the proceedings instead.
 ---
 
+## Summary
+
+In this letter dated 22 July 1974, T. Aravamudhan writes to Piloo Mody, President of the All India Swatantra Party, expressing surprise at reports that the Swatantra Party is to be dissolved and replaced by a new, single national party named Bharatiya Lok Dal. Aravamudhan argues that the forthcoming National Convention in New Delhi appears intended merely to formalise a decision already taken, rather than to deliberate freely on the party’s future.
+
+The letter focuses particularly on the propriety of Mody presiding over the convention while publicly advocating dissolution. Aravamudhan maintains that the chair should be politically neutral, notes that many party members—including the Tamil Nadu General Council—oppose dissolution, and warns that Mody’s chairmanship could inhibit frank debate. He therefore asks Mody not to occupy the chair when dissolution is discussed, suggesting that an uncommitted vice-president conduct the proceedings instead.
+
 ## Key points
 
 - The letter is dated 22 July 1974 and is addressed to Piloo Mody, President of the All India Swatantra Party.

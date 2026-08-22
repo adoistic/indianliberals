@@ -50,6 +50,12 @@ summary: |-
   Dastur requests that the party's documents be presented to the Department for research purposes, particularly because he assumes that the party's national headquarters will soon cease to exist. He frames the transfer as a means of preserving the Swatantra Party's documentary record for future scholars. A copy was also forwarded to S.V. Raju for information.
 ---
 
+## Summary
+
+In this one-page letter dated September 13, 1974, A.J. Dastur, Head of the Department of Civics and Politics at the University of Bombay, writes to Swatantra Party MP Piloo Mody about the party's recent developments and decisions. Dastur presents the Swatantra Party as an important subject for anyone interested in Indian politics and notes that scholars across the country have been following its evolution with considerable interest.
+
+Dastur requests that the party's documents be presented to the Department for research purposes, particularly because he assumes that the party's national headquarters will soon cease to exist. He frames the transfer as a means of preserving the Swatantra Party's documentary record for future scholars. A copy was also forwarded to S.V. Raju for information.
+
 ## Key points
 
 - The letter is dated September 13, 1974, and is issued on the University of Bombay's Department of Civics and Politics letterhead.

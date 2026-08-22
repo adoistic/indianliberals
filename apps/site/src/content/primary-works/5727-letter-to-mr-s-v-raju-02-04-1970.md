@@ -50,6 +50,12 @@ summary: |-
   The letter also discusses inviting members of Gujarat’s State Parliamentary Board to join a forthcoming meeting. It weighs the likely positions of Navin Patel, H. M. Patel, and Baria, and argues for acting promptly so that Gujarat representatives are not alienated while still maintaining pressure on the National Executive. A final section stresses the timing of an invitation and warns that excessive notice could allow resistance to be organised in Ahmedabad. The sender’s handwritten signature is not confidently legible.
 ---
 
+## Summary
+
+This single-page letter, dated 2 April 1970 and addressed to S. V. Raju, coordinates the circulation of revised text and related correspondence concerning comments on C. C. Desai’s note. The sender asks Raju to obtain missing addresses, distribute a three-column statement to Members of Parliament and Gujarat party bodies, and arrange draft letters for Dr. Cooper’s consideration.
+
+The letter also discusses inviting members of Gujarat’s State Parliamentary Board to join a forthcoming meeting. It weighs the likely positions of Navin Patel, H. M. Patel, and Baria, and argues for acting promptly so that Gujarat representatives are not alienated while still maintaining pressure on the National Executive. A final section stresses the timing of an invitation and warns that excessive notice could allow resistance to be organised in Ahmedabad. The sender’s handwritten signature is not confidently legible.
+
 ## Key points
 
 - The sender reports sending Raju revised text and a telex concerning National Headquarters’ comments on C. C. Desai’s note.

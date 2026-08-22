@@ -46,6 +46,12 @@ summary: |-
   The letter states that these references appear on pages 10–12 of an attached booklet. The booklet and the cited pages are not included in the rendered document, so the substance of the references cannot be assessed here.
 ---
 
+## Summary
+
+This single-page English letter, dated March 10, 1970, is from S. V. Raju to Mr. Hooman. Raju explains that, before leaving for Delhi, Minoo Masani asked him to send Hooman appreciative references made by Link concerning the Jan Sangh and Organiser in relation to the Communists.
+
+The letter states that these references appear on pages 10–12 of an attached booklet. The booklet and the cited pages are not included in the rendered document, so the substance of the references cannot be assessed here.
+
 ## Key points
 
 - The letter is dated March 10, 1970 and is addressed to Mr. Hooman.

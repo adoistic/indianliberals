@@ -44,6 +44,10 @@ summary: |-
   A single-page inland telex (message no. 2029, dated 28/11/75) received on Minoo Masani's behalf. The teleprinter operator flags that the incoming message is for Mr M. R. Masani and asks the recipient to convey it to Jamshedpur in case Masani is not stationed in Calcutta. The message itself, signed by Raju, confirms an air-passage itinerary for Masani: Bombay to Madras on the 8th, Madras to Calcutta on the 9th, and Calcutta to Bombay on the 11th. Raju adds that 'Sri Kumar' in Madras has been informed to put Masani up at either the Connemara or the Taj Coramandel. The document is a routine piece of travel-logistics correspondence rather than a substantive letter of opinion.
 ---
 
+## Summary
+
+A single-page inland telex (message no. 2029, dated 28/11/75) received on Minoo Masani's behalf. The teleprinter operator flags that the incoming message is for Mr M. R. Masani and asks the recipient to convey it to Jamshedpur in case Masani is not stationed in Calcutta. The message itself, signed by Raju, confirms an air-passage itinerary for Masani: Bombay to Madras on the 8th, Madras to Calcutta on the 9th, and Calcutta to Bombay on the 11th. Raju adds that 'Sri Kumar' in Madras has been informed to put Masani up at either the Connemara or the Taj Coramandel. The document is a routine piece of travel-logistics correspondence rather than a substantive letter of opinion.
+
 ## Key points
 
 - Inland telex numbered 2029, dated 28/11/75, addressed 'For Mr M R Masani'.

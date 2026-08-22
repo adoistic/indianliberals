@@ -51,6 +51,10 @@ summary: |-
   This untitled one-page administrative record, issued by the Swatantra Party Parliamentary Office in New Delhi on May 2, 1968, reports the elected office-bearers of the party's parliamentary group in the Lok Sabha and Rajya Sabha. It lists leaders, deputy leaders, secretaries, whips, chief whip, and executive committee members.
 ---
 
+## Summary
+
+This untitled one-page administrative record, issued by the Swatantra Party Parliamentary Office in New Delhi on May 2, 1968, reports the elected office-bearers of the party's parliamentary group in the Lok Sabha and Rajya Sabha. It lists leaders, deputy leaders, secretaries, whips, chief whip, and executive committee members.
+
 ## Key points
 
 - The record is dated May 2, 1968, and carries the letterhead of the Swatantra Party Parliamentary Office.

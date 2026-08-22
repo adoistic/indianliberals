@@ -49,6 +49,10 @@ summary: |-
   This one-page English letter, written by Ratibhai Patel from the Swatantra Party's Rajkot District Office to Minoo Masani on 29 April 1968, acknowledges instructions conveyed by telegram from New Delhi. Patel reports that he is forwarding two press cuttings, from Gujarat Samachar (dated 24 April 1968) and Jansatta (dated 23 April 1968).
 ---
 
+## Summary
+
+This one-page English letter, written by Ratibhai Patel from the Swatantra Party's Rajkot District Office to Minoo Masani on 29 April 1968, acknowledges instructions conveyed by telegram from New Delhi. Patel reports that he is forwarding two press cuttings, from Gujarat Samachar (dated 24 April 1968) and Jansatta (dated 23 April 1968).
+
 ## Key points
 
 - The letter is dated 29 April 1968 and was sent from the Swatantra Party's Rajkot District Office.

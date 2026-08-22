@@ -51,6 +51,12 @@ summary: |-
   The circular gives logistical instructions for attending the meeting. The State Office offers free accommodation in MLAs' quarters or dormitories, while hotel accommodation can be arranged at members' expense. Members are asked to telegraph their arrival details, accommodation requirements, and return reservations. An attached hotel list records single and double room rates for several Lucknow hotels. The second page continues a numbered list of party members and includes a separate list of past presidents; it does not contain political argument or policy discussion.
 ---
 
+## Summary
+
+General Council Circular No. 52 is an internal Swatantra Party notice dated 24 November 1973, signed by General Secretary Madhu Mehta. It congratulates newly elected General Council members and announces the first meeting of the Council, to elect office-bearers and members of the National Executive for the next two years, at Ravindra Mandap, Charbagh, opposite Lucknow Railway Station, on 15–16 December 1973.
+
+The circular gives logistical instructions for attending the meeting. The State Office offers free accommodation in MLAs' quarters or dormitories, while hotel accommodation can be arranged at members' expense. Members are asked to telegraph their arrival details, accommodation requirements, and return reservations. An attached hotel list records single and double room rates for several Lucknow hotels. The second page continues a numbered list of party members and includes a separate list of past presidents; it does not contain political argument or policy discussion.
+
 ## Key points
 
 - The document is General Council Circular No. 52 of the Swatantra Party.

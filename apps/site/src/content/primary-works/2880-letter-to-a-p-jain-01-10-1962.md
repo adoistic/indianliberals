@@ -51,6 +51,12 @@ summary: |-
   The letter also discusses Norman D. Palmer's recent book, The Indian Political System, and supplies extracts for the recipient's information. Jain contrasts Palmer's earlier description of the Swatantra Party as “communal, conservative, (and) reactionary” with what he presents as the book's later omission of any reference to communalism concerning the party. He nevertheless objects to Palmer's classification of the Jan Sangh among “Communal Parties,” including the claim that it was the most important Hindu communal party and reflected strong Brahmin influence.
 ---
 
+## Summary
+
+This one-page letter, dated 1 October 1962 and signed by A. P. Jain as Secretary of the Swatantra Party Parliamentary Office, follows up on a discussion with the recipient in Delhi. Jain encloses a draft circular for circulation to the presidents and secretaries of the party's state units, seeking approval and further action.
+
+The letter also discusses Norman D. Palmer's recent book, The Indian Political System, and supplies extracts for the recipient's information. Jain contrasts Palmer's earlier description of the Swatantra Party as “communal, conservative, (and) reactionary” with what he presents as the book's later omission of any reference to communalism concerning the party. He nevertheless objects to Palmer's classification of the Jan Sangh among “Communal Parties,” including the claim that it was the most important Hindu communal party and reflected strong Brahmin influence.
+
 ## Key points
 
 - The letter is dated 1 October 1962 and is issued from the Swatantra Party Parliamentary Office in New Delhi.

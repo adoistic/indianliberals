@@ -55,6 +55,10 @@ summary: |-
   This five-page compilation presents M. R. Masani's statements on democratic opposition politics in India between July 1970 and March 1971. In his Lok Sabha speech on the no-confidence motion, Masani distinguishes constitutional changes of government from what he calls the undemocratic practice of “toppling” governments. He argues that opposition parties should seek a popular mandate and establish a credible alternative government before removing the incumbent, rather than merely producing parliamentary instability.
 ---
 
+## Summary
+
+This five-page compilation presents M. R. Masani's statements on democratic opposition politics in India between July 1970 and March 1971. In his Lok Sabha speech on the no-confidence motion, Masani distinguishes constitutional changes of government from what he calls the undemocratic practice of “toppling” governments. He argues that opposition parties should seek a popular mandate and establish a credible alternative government before removing the incumbent, rather than merely producing parliamentary instability.
+
 ## Key points
 
 - Masani distinguishes democratic changes of government from parliamentary “toppling.”

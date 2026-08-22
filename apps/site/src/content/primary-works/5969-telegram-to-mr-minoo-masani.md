@@ -45,6 +45,12 @@ summary: |-
   The document is an Indian Posts and Telegraphs Department telegram form. Its routing line records transmission through Patna and identifies the addressee as Minoo Masani; no year is printed, so the date remains only “June 10” and “17th June.”
 ---
 
+## Summary
+
+This one-page English telegram, sent from Patna and addressed to Minoo Masani at Gandhi Road, Bombay, conveys Jayaprakash's urgency over Masani's failure to reply to two earlier telegrams. The sender asks Masani—or Hanumant Rao or someone else acting in his place—to reach Patna on the morning of June 17 and to send the world reaction to Jayaprakash's letter via the incoming liner, or to come himself.
+
+The document is an Indian Posts and Telegraphs Department telegram form. Its routing line records transmission through Patna and identifies the addressee as Minoo Masani; no year is printed, so the date remains only “June 10” and “17th June.”
+
 ## Key points
 
 - The telegram is sent by Jayaprakash from Patna to Minoo Masani in Bombay.

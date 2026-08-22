@@ -50,6 +50,10 @@ summary: |-
   This illustrated English pamphlet criticizes the Indian government’s takeover of the wholesale wheat trade in April 1973. It argues that food prices are central to India’s general price situation and that even a marginal shortfall in supplies, or disruption in their movement to market, can produce a wider rise in prices. The pamphlet presents the takeover as exceeding the government’s administrative capacity and dislocating existing food markets.
 ---
 
+## Summary
+
+This illustrated English pamphlet criticizes the Indian government’s takeover of the wholesale wheat trade in April 1973. It argues that food prices are central to India’s general price situation and that even a marginal shortfall in supplies, or disruption in their movement to market, can produce a wider rise in prices. The pamphlet presents the takeover as exceeding the government’s administrative capacity and dislocating existing food markets.
+
 ## Key points
 
 - Food prices are presented as a key determinant of India’s general price level.

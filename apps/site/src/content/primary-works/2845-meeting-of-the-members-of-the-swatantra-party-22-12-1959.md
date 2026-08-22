@@ -52,6 +52,12 @@ summary: |-
   The meeting endorsed a resolution adopted by the Party’s General Council at Hyderabad on 9 December to form a Swatantra Party group in the Lok Sabha and seek formal recognition from the Speaker. It appointed Professor M. G. Ranga as Leader, Mr. M. K. Masani as Deputy Leader, Mr. Mohamed Imam as Secretary, and Mr. S. A. Hatin as Whip. The members also approved a draft letter to the Speaker, discussed shifting Mr. Imam’s seat, and considered an invitation from Mr. G. L. Nanda to join an informal parliamentary committee on planning.
 ---
 
+## Summary
+
+This one-page institutional record reports a meeting of Swatantra Party members in Parliament House on 22 December 1959. It records the attendance of five members and notes that Mr. Masani read an extract from a letter by Professor Ranga explaining his inability to return to Delhi from Andhra.
+
+The meeting endorsed a resolution adopted by the Party’s General Council at Hyderabad on 9 December to form a Swatantra Party group in the Lok Sabha and seek formal recognition from the Speaker. It appointed Professor M. G. Ranga as Leader, Mr. M. K. Masani as Deputy Leader, Mr. Mohamed Imam as Secretary, and Mr. S. A. Hatin as Whip. The members also approved a draft letter to the Speaker, discussed shifting Mr. Imam’s seat, and considered an invitation from Mr. G. L. Nanda to join an informal parliamentary committee on planning.
+
 ## Key points
 
 - The Swatantra Party members met in Parliament House on 22 December 1959.

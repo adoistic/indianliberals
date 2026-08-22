@@ -47,6 +47,10 @@ summary: |-
   This one-page document is a printed acknowledgement receipt of the Swatantra Party's Maharashtra Region office at Sassoon Building, 143, Mahatma Gandhi Road, Bombay-1 (telephone 253085). Numbered 111 and dated 16 May 1975, it records that the party received twenty-five rupees from Mr. M. R. Masani, noted in the receipt line as being 'towards' a contribution 'for June 1975'. The pre-printed year field ('196_') has been overwritten by hand to '1975', indicating the office was still using an older stock of receipt forms. The form is signed on the Receiver's Signature line under the designation 'Hon. Treasurer', and a handwritten '1193' in the top-left margin marks the item's place in a later archival numbering scheme. As a piece of ephemera it is a small but concrete trace of Minoo Masani's continued financial and organisational engagement with the Swatantra Party's Maharashtra unit in the months after the party formally dissolved as a national entity (1974).
 ---
 
+## Summary
+
+This one-page document is a printed acknowledgement receipt of the Swatantra Party's Maharashtra Region office at Sassoon Building, 143, Mahatma Gandhi Road, Bombay-1 (telephone 253085). Numbered 111 and dated 16 May 1975, it records that the party received twenty-five rupees from Mr. M. R. Masani, noted in the receipt line as being 'towards' a contribution 'for June 1975'. The pre-printed year field ('196_') has been overwritten by hand to '1975', indicating the office was still using an older stock of receipt forms. The form is signed on the Receiver's Signature line under the designation 'Hon. Treasurer', and a handwritten '1193' in the top-left margin marks the item's place in a later archival numbering scheme. As a piece of ephemera it is a small but concrete trace of Minoo Masani's continued financial and organisational engagement with the Swatantra Party's Maharashtra unit in the months after the party formally dissolved as a national entity (1974).
+
 ## Key points
 
 - Printed acknowledgement receipt of the Swatantra Party, Maharashtra Region, issued from Sassoon Building, 143, Mahatma Gandhi Road, Bombay-1.

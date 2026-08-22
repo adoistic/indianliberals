@@ -54,6 +54,10 @@ summary: |-
   These draft minutes record the Swatantra Party Organisation Sub-Committee meeting held at the Kalki office in Madras on 13 January 1963. The document lists the attendees and records the reconstitution of the party's State Executive Committees in Orissa and Delhi, including the appointment of office-bearers and members. The Orissa committee was headed by R. N. Singh Deo, while the Delhi committee was headed by Col. H. R. Pasricha. The committee also agreed that Singh Deo should be co-opted to the Central Organising Committee.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Organisation Sub-Committee meeting held at the Kalki office in Madras on 13 January 1963. The document lists the attendees and records the reconstitution of the party's State Executive Committees in Orissa and Delhi, including the appointment of office-bearers and members. The Orissa committee was headed by R. N. Singh Deo, while the Delhi committee was headed by Col. H. R. Pasricha. The committee also agreed that Singh Deo should be co-opted to the Central Organising Committee.
+
 ## Key points
 
 - The Organisation Sub-Committee met in Madras on 13 January 1963, with Professor N. G. Ranga in the chair.

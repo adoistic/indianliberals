@@ -50,6 +50,12 @@ summary: |-
   The table records a combined representation of 133 delegates across the five Bombay areas. A note explains that the representation initially calculated on the basis of membership is 130, but that the allocation may be adjusted to reach 133 because not all areas will send their full quota. No party name, author, issuing organisation, date, or publication details are visible on the page.
 ---
 
+## Summary
+
+This single-page English administrative table sets out Bombay Region's delegate representation for a party's National Convention on the basis of membership. It lists worker and life-worker totals for Bombay South, Bombay Central South, Bombay Central, Bombay North West, and Bombay North East, along with the corresponding delegate allocation at a stated ratio of one delegate for every ten workers, life workers, or life members.
+
+The table records a combined representation of 133 delegates across the five Bombay areas. A note explains that the representation initially calculated on the basis of membership is 130, but that the allocation may be adjusted to reach 133 because not all areas will send their full quota. No party name, author, issuing organisation, date, or publication details are visible on the page.
+
 ## Key points
 
 - The document is a one-page tabulation of Bombay Region's delegate representation for a party National Convention.

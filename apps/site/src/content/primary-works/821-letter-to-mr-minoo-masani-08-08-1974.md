@@ -49,6 +49,12 @@ summary: |-
   The letter closes in a personal and collegial tone, with the writer apologising for the delayed communication and expressing hope that Masani will excuse the length or character of the letter. The document is complete as rendered, but portions of the text remain unreadable and no printed title or formal publication information is present.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 8 August 1974 and addressed to Shri Minoo Masani, discusses the Swatantra Party and related political developments. The writer refers to earlier political discussions and appears to comment on the party’s situation and prospects, while also mentioning other public figures and events; several passages are difficult to decipher because of the handwriting and image quality.
+
+The letter closes in a personal and collegial tone, with the writer apologising for the delayed communication and expressing hope that Masani will excuse the length or character of the letter. The document is complete as rendered, but portions of the text remain unreadable and no printed title or formal publication information is present.
+
 ## Key points
 
 - The document is a personal letter dated 8 August 1974 and addressed to Minoo Masani.

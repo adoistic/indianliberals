@@ -49,6 +49,10 @@ summary: |-
   This two-page handwritten telegram, sent to Shri M. R. Masani in Bombay and dated 16 January 1962, responds to an earlier telegram concerning the handling of jeeps and receipts associated with endorsed candidates. The sender says Masani's meaning is unclear and rejects the suggestion that a Parliamentary Board had decided to hand over jeeps to Masani's representative.
 ---
 
+## Summary
+
+This two-page handwritten telegram, sent to Shri M. R. Masani in Bombay and dated 16 January 1962, responds to an earlier telegram concerning the handling of jeeps and receipts associated with endorsed candidates. The sender says Masani's meaning is unclear and rejects the suggestion that a Parliamentary Board had decided to hand over jeeps to Masani's representative.
+
 ## Key points
 
 - The document is a telegram on an Indian Posts and Telegraphs Department form.

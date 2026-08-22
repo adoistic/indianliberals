@@ -50,6 +50,12 @@ summary: |-
   In the section headed “REPORT DENIED,” Dhebar denies reports that he had speculated about forthcoming changes in Bombay or sought the office of Gujarat’s chief minister. He presents the Congress as having a democratic responsibility to the country and argues that it must not become merely a parliamentary organisation focused on sustaining governmental machinery. He also refers to differences within the Congress, while declining to enter into controversy with those who hold opposing views.
 ---
 
+## Summary
+
+This one-page English newspaper clipping reports remarks by U. N. Dhebar, a former Congress president, on the dangers of political life becoming dependent on government offices and machinery. Dhebar argues that direct, day-to-day contact with the masses is preferable to relying on government service, and says political speculation about possible future offices—including the chief ministership of Gujarat—could embarrass him and indirectly weaken his position.
+
+In the section headed “REPORT DENIED,” Dhebar denies reports that he had speculated about forthcoming changes in Bombay or sought the office of Gujarat’s chief minister. He presents the Congress as having a democratic responsibility to the country and argues that it must not become merely a parliamentary organisation focused on sustaining governmental machinery. He also refers to differences within the Congress, while declining to enter into controversy with those who hold opposing views.
+
 ## Key points
 
 - U. N. Dhebar criticises the tendency of political life to revolve around government offices.

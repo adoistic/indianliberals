@@ -49,6 +49,10 @@ summary: |-
   This two-page English-language office statement, issued by the Office of the Swatantra Party Parliamentary Group in New Delhi and dated 14 September 1962, records members’ monthly contributions and outstanding balances up to 3 September 1962. It is presented as a tabular financial account rather than an authored political argument or formal publication.
 ---
 
+## Summary
+
+This two-page English-language office statement, issued by the Office of the Swatantra Party Parliamentary Group in New Delhi and dated 14 September 1962, records members’ monthly contributions and outstanding balances up to 3 September 1962. It is presented as a tabular financial account rather than an authored political argument or formal publication.
+
 ## Key points
 
 - The document is issued on the letterhead of the Office of the Swatantra Party Parliamentary Group.

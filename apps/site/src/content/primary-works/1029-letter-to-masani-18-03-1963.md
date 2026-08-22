@@ -47,6 +47,10 @@ summary: |-
   A short handwritten note from Prof. N. G. Ranga, M.P. — writing on his letterhead as President of the Swatantra Party — to Minoo Masani, dated 18 March 1963 and received on 22 March. Ranga encloses his parliamentary reply to a speech delivered in the House on Foreign Affairs and reports that the House gave the speaker a good hearing. He also checks that Masani has received the copy of his own Budget speech, noting that Morarji Desai, then Finance Minister, has made much of his own reply on that speech. The letter is essentially a parliamentary courier note between two of the Swatantra Party's leading voices, tracking the party's opposition interventions on foreign policy and the Union Budget in the same week. A pencilled annotation in the top margin files the letter under "Bihar Resolution file No. 2", and the sheet carries the Swatantra Party inward-mail stamp No. 02281.
 ---
 
+## Summary
+
+A short handwritten note from Prof. N. G. Ranga, M.P. — writing on his letterhead as President of the Swatantra Party — to Minoo Masani, dated 18 March 1963 and received on 22 March. Ranga encloses his parliamentary reply to a speech delivered in the House on Foreign Affairs and reports that the House gave the speaker a good hearing. He also checks that Masani has received the copy of his own Budget speech, noting that Morarji Desai, then Finance Minister, has made much of his own reply on that speech. The letter is essentially a parliamentary courier note between two of the Swatantra Party's leading voices, tracking the party's opposition interventions on foreign policy and the Union Budget in the same week. A pencilled annotation in the top margin files the letter under "Bihar Resolution file No. 2", and the sheet carries the Swatantra Party inward-mail stamp No. 02281.
+
 ## Key points
 
 - Handwritten personal note from Prof. N. G. Ranga to Minoo Masani on Ranga's M.P. / Swatantra Party President letterhead, dated 18-3-63.

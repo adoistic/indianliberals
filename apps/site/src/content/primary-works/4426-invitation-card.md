@@ -47,6 +47,10 @@ summary: |-
   This one-page Hindi invitation card announces a public welcome for Babu Jagjivan Ram at his residence, No. 6 Hailey Road, New Delhi. Issued in the name of the Scheduled Castes of Delhi, it expresses support for steps he has taken and invites recipients to attend his felicitation. The card does not provide a date or year.
 ---
 
+## Summary
+
+This one-page Hindi invitation card announces a public welcome for Babu Jagjivan Ram at his residence, No. 6 Hailey Road, New Delhi. Issued in the name of the Scheduled Castes of Delhi, it expresses support for steps he has taken and invites recipients to attend his felicitation. The card does not provide a date or year.
+
 ## Key points
 
 - The card celebrates Babu Jagjivan Ram.

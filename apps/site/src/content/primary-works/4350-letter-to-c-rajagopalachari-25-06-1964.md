@@ -51,6 +51,12 @@ summary: |-
   Masani encloses the draft resolution for Rajagopalachari’s comments before it is considered by the Central Organising Committee and then by the General Council. The letter records an instance of coordination among liberal political and economic actors, but the resolution itself is not included in the rendered document.
 ---
 
+## Summary
+
+In this one-page letter dated 25 June 1964, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about a proposed resolution concerning foodgrain dealers. Masani reports that he has discussed the subject with M. H. Hashem Premji, president of the Federation of Foodgrain Dealers’ Associations, and with several economists.
+
+Masani encloses the draft resolution for Rajagopalachari’s comments before it is considered by the Central Organising Committee and then by the General Council. The letter records an instance of coordination among liberal political and economic actors, but the resolution itself is not included in the rendered document.
+
 ## Key points
 
 - The letter is dated 25 June 1964 and is addressed by M. R. Masani to C. Rajagopalachari.

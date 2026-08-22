@@ -49,6 +49,12 @@ summary: |-
   Two copies seek reimbursement from different recipients on the basis of shared premises. The Bharatiya Lok Dal is charged 40 percent, or Rs. 214.28, while the Adult Education Institute is charged 10 percent for use of a cabin, or Rs. 53.57. Each statement is signed for the Office Secretary.
 ---
 
+## Summary
+
+This three-page administrative document, dated 15 January 1976, records the Swatantra Party Bombay Region’s rent and electricity expenses for December 1975 at its office in Sassoon Building, 143 Mahatma Gandhi Road, Bombay-1. It itemizes rent of Rs. 394.79 and electricity charges of Rs. 140.91, producing a total of Rs. 535.70.
+
+Two copies seek reimbursement from different recipients on the basis of shared premises. The Bharatiya Lok Dal is charged 40 percent, or Rs. 214.28, while the Adult Education Institute is charged 10 percent for use of a cabin, or Rs. 53.57. Each statement is signed for the Office Secretary.
+
 ## Key points
 
 - The document is dated 15 January 1976 and issued on Swatantra Party Bombay Region letterhead.

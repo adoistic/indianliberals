@@ -50,6 +50,12 @@ summary: |-
   Rajagopalachari states that, in managing a political party devoted to Swatantra, he places greater value on freedom than on discipline. At the same time, he warns that Masani’s departure would have consequences beyond his own position: because Masani has been central to the party, his resignation could sustain a widespread sense of disruption. The letter therefore frames the dispute as a tension between personal principle, internal party discipline, and political responsibility.
 ---
 
+## Summary
+
+In this letter dated 12 April 1968, C. Rajagopalachari responds to M. R. Masani’s letter of 10 April concerning Masani’s apparent resignation from the Swatantra Party. Rajagopalachari acknowledges Masani’s strong opposition to dishonesty but urges him not to be “cast-iron-rigid,” indicating that he understands and respects Masani’s feelings while disagreeing with his proposed course of action.
+
+Rajagopalachari states that, in managing a political party devoted to Swatantra, he places greater value on freedom than on discipline. At the same time, he warns that Masani’s departure would have consequences beyond his own position: because Masani has been central to the party, his resignation could sustain a widespread sense of disruption. The letter therefore frames the dispute as a tension between personal principle, internal party discipline, and political responsibility.
+
 ## Key points
 
 - Rajagopalachari replies to M. R. Masani’s letter of 10 April 1968.

@@ -50,6 +50,12 @@ summary: |-
   The document invokes natural justice to argue that Patel should have been given an opportunity to explain his position, but insists that the same standard must apply to Masani and the Rajkot district party committee, whom the committee also failed to interview. It further alleges that Patel breached party procedure by acting as returning officer for a Junagadh district election, stepping down during the election, and then announcing himself as a candidate for the State Council. The page presents these points as procedural and evidentiary grounds for challenging the committee’s conclusions.
 ---
 
+## Summary
+
+This one-page document, headed “Some Comments (Mekhoni’s),” criticizes an investigation into allegations made by Bhagwanjibhai Patel against Minoo Masani. It argues that the investigation committee failed to meet members of the Rajkot District Swatantra Party Committee and appears not to have considered Patel’s multiple press statements, treating his allegations as mere hearsay.
+
+The document invokes natural justice to argue that Patel should have been given an opportunity to explain his position, but insists that the same standard must apply to Masani and the Rajkot district party committee, whom the committee also failed to interview. It further alleges that Patel breached party procedure by acting as returning officer for a Junagadh district election, stepping down during the election, and then announcing himself as a candidate for the State Council. The page presents these points as procedural and evidentiary grounds for challenging the committee’s conclusions.
+
 ## Key points
 
 - The investigation committee reportedly visited Rajkot but did not meet the Rajkot District Swatantra Party Committee.

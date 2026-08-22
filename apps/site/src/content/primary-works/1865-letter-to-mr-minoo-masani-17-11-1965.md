@@ -50,6 +50,12 @@ summary: |-
   Dandekar contends that parliamentary participation could create confusion, leave delegates without the information needed to answer organised or false Pakistani propaganda, and undermine India's ambassadors and high commissioners by diminishing their local status and authority. He also stresses that the party's Kashmir position differs materially from that of other parties, while delegation leaders might require MPs to follow a line they had not fully discussed. In his view, such visits would therefore produce “the loss of very valuable foreign exchange” without sufficient diplomatic justification.
 ---
 
+## Summary
+
+In this two-page letter dated 17 November 1965, N. Dandekar explains the Swatantra Party Central Parliamentary Board's decision to advise its Members of Parliament not to join delegations visiting foreign countries to explain India's position after the recent Indo-Pakistan hostilities, particularly on Kashmir. He distinguishes these delegations from other possible parliamentary visits and argues that explaining India's foreign policy is properly the function of the Indian Foreign Service.
+
+Dandekar contends that parliamentary participation could create confusion, leave delegates without the information needed to answer organised or false Pakistani propaganda, and undermine India's ambassadors and high commissioners by diminishing their local status and authority. He also stresses that the party's Kashmir position differs materially from that of other parties, while delegation leaders might require MPs to follow a line they had not fully discussed. In his view, such visits would therefore produce “the loss of very valuable foreign exchange” without sufficient diplomatic justification.
+
 ## Key points
 
 - The Central Parliamentary Board's decision concerned delegations intended to explain India's position on the Indo-Pakistan hostilities and Kashmir.

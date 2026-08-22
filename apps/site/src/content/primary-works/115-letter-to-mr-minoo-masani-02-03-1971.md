@@ -46,6 +46,12 @@ summary: |-
   The second half of the letter turns explicitly political: Desai sends his best wishes and prayers for Masani's victory at Rajkot — the Swatantra Party stronghold Masani was contesting — and for the triumph of the Grand Alliance, the anti-Indira Gandhi coalition of Swatantra, the Jana Sangh, the SSP and Congress (O) that fought the 1971 poll. The note closes with the exhortation that if 'we' do not fail ourselves, God will not fail 'us'. Page two is the outer face of the inland letter card, bearing the postal address 'Mr. M. R. Masani, Personnel & Productivity Services, 148, Mahatma Gandhi Rd., Fort, Bombay 1' and the fifteen-paise India postage.
 ---
 
+## Summary
+
+A brief handwritten note from N. B. Desai, an advocate writing from 22 Amar Kunj, Cadell Road, Dadar, Bombay, to Minoo Masani, dated 2 March 1971. Desai thanks Masani for the letter of congratulations and best wishes Masani had sent on the occasion of Desai's sister Indu's marriage the previous month, and remarks that it was heartening to receive such a personal note while Masani was in the thick of the 1971 mid-term general election campaign.
+
+The second half of the letter turns explicitly political: Desai sends his best wishes and prayers for Masani's victory at Rajkot — the Swatantra Party stronghold Masani was contesting — and for the triumph of the Grand Alliance, the anti-Indira Gandhi coalition of Swatantra, the Jana Sangh, the SSP and Congress (O) that fought the 1971 poll. The note closes with the exhortation that if 'we' do not fail ourselves, God will not fail 'us'. Page two is the outer face of the inland letter card, bearing the postal address 'Mr. M. R. Masani, Personnel & Productivity Services, 148, Mahatma Gandhi Rd., Fort, Bombay 1' and the fifteen-paise India postage.
+
 ## Key points
 
 - Handwritten personal letter dated 2 March 1971 from N. B. Desai, an advocate based at 22 Amar Kunj, Cadell Road, Dadar, Bombay-28, to Minoo Masani.

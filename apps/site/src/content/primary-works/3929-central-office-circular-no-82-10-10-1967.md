@@ -55,6 +55,12 @@ summary: |-
   The enclosure also records the loss of multi-state recognition by the Republican Party of India and lists sixteen parties recognised in only one state or territory. The Election Commission notification dated 26 September 1967 defines recognised parties, multi-state parties, and reserved symbols; sets rules for candidates’ choice and allotment of symbols; and provides a state-by-state table of free symbols, reserved symbols, and the parties to which symbols were reserved. The rendered pages contain no substantive political argument beyond documenting the administrative and electoral-symbol framework.
 ---
 
+## Summary
+
+This eight-page English office circular from the Swatantra Party Central Office, dated 18 October 1967, forwards five copies of an Election Commission press note for the party’s information and records. The enclosed press note reports the Commission’s analysis of votes cast in the last general elections to determine which parties qualified for reserved election symbols across multiple states and Union Territories. It identifies seven multi-state parties, including the Indian National Congress, Swatantra Party, Bharatiya Jana Sangh, Samyukta Socialist Party, Communist Party of India, Communist Party of India (Marxist), and Praja Socialist Party, and lists the jurisdictions in which each qualified.
+
+The enclosure also records the loss of multi-state recognition by the Republican Party of India and lists sixteen parties recognised in only one state or territory. The Election Commission notification dated 26 September 1967 defines recognised parties, multi-state parties, and reserved symbols; sets rules for candidates’ choice and allotment of symbols; and provides a state-by-state table of free symbols, reserved symbols, and the parties to which symbols were reserved. The rendered pages contain no substantive political argument beyond documenting the administrative and electoral-symbol framework.
+
 ## Key points
 
 - The Swatantra Party circular, dated 18 October 1967, transmits five copies of an Election Commission press note.

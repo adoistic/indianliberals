@@ -48,6 +48,12 @@ summary: |-
   The article also considers the Jan Sangh’s proposed “alternative” programme, the CPI’s position toward Congress (R), and Indira Gandhi’s effort to secure an absolute majority. Noorani argues that voters are entitled to know what competing parties would jointly offer and criticises what he describes as opportunistic manoeuvring by party leaders, including attempts to exploit regional political formations. The clipping is a complete two-page newspaper article, although the periodical title and exact issue date are not visible.
 ---
 
+## Summary
+
+In this article, A. G. Noorani examines the breakdown of an electoral understanding among the Congress-O, Jan Sangh and Swatantra Party, arguing that the episode reveals a decline in political ethics. He focuses on the parties’ agreement of December 20, 1970, reportedly intended to establish a common minimum programme, adjust electoral arrangements and coordinate a joint campaign, and on the subsequent repudiation of that agreement by Minoo Masani and Atal Bihari Vajpayee. Noorani presents the reversal as a breach of faith rather than a legitimate change of political strategy.
+
+The article also considers the Jan Sangh’s proposed “alternative” programme, the CPI’s position toward Congress (R), and Indira Gandhi’s effort to secure an absolute majority. Noorani argues that voters are entitled to know what competing parties would jointly offer and criticises what he describes as opportunistic manoeuvring by party leaders, including attempts to exploit regional political formations. The clipping is a complete two-page newspaper article, although the periodical title and exact issue date are not visible.
+
 ## Key points
 
 - The article treats the collapse of a proposed Congress-O, Jan Sangh and Swatantra electoral pact as an ethical and political failure.

@@ -49,6 +49,12 @@ summary: |-
   The letter also expresses a political intention: Chatterjee says he will strive to make the Congress less arrogant and the opposition more united and effective. The page is a typed “true copy” on a Member of Parliament, Lok Sabha letterhead; no formal title or publisher is printed.
 ---
 
+## Summary
+
+This one-page letter, dated 6 January 1964 and sent from New Delhi, is addressed by N.C. Chatterjee to C. Rajagopalachari (“Rajaji”). Chatterjee thanks Rajaji for his congratulatory message after Chatterjee’s return from Burdwan, emphasizing that Rajaji’s message was especially welcome among the many he received.
+
+The letter also expresses a political intention: Chatterjee says he will strive to make the Congress less arrogant and the opposition more united and effective. The page is a typed “true copy” on a Member of Parliament, Lok Sabha letterhead; no formal title or publisher is printed.
+
 ## Key points
 
 - The letter is dated 6 January 1964 and originates from 7-B, Pusa Road, New Delhi.

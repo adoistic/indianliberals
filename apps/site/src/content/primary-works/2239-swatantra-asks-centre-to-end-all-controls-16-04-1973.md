@@ -59,6 +59,12 @@ summary: |-
   Other resolutions addressed state control over grain trade, international relations, the treatment of prisoners of war, the Andhra state reorganisation issue, the Orissa constitutional crisis, inter-State river waters, and the demand for a separate independent Tamil Nadu. The convention supported freer international trade and closer relations with India’s immediate neighbours, including an amendment concerning India’s relations with the Soviet Union. The clipping identifies no named author, newspaper, or printed year; its dateline is “MADRAS, April 15.”
 ---
 
+## Summary
+
+This single-page newspaper report from Madras covers resolutions passed at the Swatantra Party’s Sixth National Convention. The convention called for an end to economic controls, arguing that the controls imposed over the previous twenty-five years had failed to raise production and had instead produced inefficiency, corruption, and excessive bureaucracy. It urged the government to put aside ideological commitments and adopt policies that increased production, while criticising the elevation of statism and bureaucracy as guardians of consumers and ordinary citizens. The report also records the party’s opposition to socialism, which Piloo Mody described as an “opiate to intoxicate people” and as something that could be attributed to society only by force.
+
+Other resolutions addressed state control over grain trade, international relations, the treatment of prisoners of war, the Andhra state reorganisation issue, the Orissa constitutional crisis, inter-State river waters, and the demand for a separate independent Tamil Nadu. The convention supported freer international trade and closer relations with India’s immediate neighbours, including an amendment concerning India’s relations with the Soviet Union. The clipping identifies no named author, newspaper, or printed year; its dateline is “MADRAS, April 15.”
+
 ## Key points
 
 - The Swatantra Party’s Sixth National Convention passed resolutions on economic controls, production, socialism, trade, foreign policy, and federal questions.

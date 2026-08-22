@@ -44,6 +44,10 @@ summary: |-
   This one-page English office notice, issued on Swatantra Party (Bombay Office) letterhead and dated November 9, 1959, announces a meeting of the Organising Committee of Greater Bombay. The meeting was scheduled for Friday, November 13, 1959, at 6 p.m. at the party office.
 ---
 
+## Summary
+
+This one-page English office notice, issued on Swatantra Party (Bombay Office) letterhead and dated November 9, 1959, announces a meeting of the Organising Committee of Greater Bombay. The meeting was scheduled for Friday, November 13, 1959, at 6 p.m. at the party office.
+
 ## Key points
 
 - The document is an official Swatantra Party office notice.

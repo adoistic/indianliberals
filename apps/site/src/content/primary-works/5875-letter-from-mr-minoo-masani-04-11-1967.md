@@ -47,6 +47,10 @@ summary: |-
   This one-page letter from M. R. Masani, dated November 4, 1967, is addressed to the Secretary of the Swatantra Party's Tiruppur Constituency. Masani acknowledges an earlier letter announcing a souvenir to mark C. Rajagopalachari's 90th birthday on December 8, 1967.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani, dated November 4, 1967, is addressed to the Secretary of the Swatantra Party's Tiruppur Constituency. Masani acknowledges an earlier letter announcing a souvenir to mark C. Rajagopalachari's 90th birthday on December 8, 1967.
+
 ## Key points
 
 - The letter is dated November 4, 1967.

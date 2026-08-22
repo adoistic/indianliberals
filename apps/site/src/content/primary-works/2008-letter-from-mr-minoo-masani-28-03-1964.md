@@ -49,6 +49,10 @@ summary: |-
   In this letter dated 28 March 1964, M. R. Masani replies to Mr. S. K. Dey of the Ministry of Community Development and Co-operation regarding an invitation to join the Consultative Council on Panchayati Raj. Masani accepts the invitation and agrees to advise the Ministry through service on the Council.
 ---
 
+## Summary
+
+In this letter dated 28 March 1964, M. R. Masani replies to Mr. S. K. Dey of the Ministry of Community Development and Co-operation regarding an invitation to join the Consultative Council on Panchayati Raj. Masani accepts the invitation and agrees to advise the Ministry through service on the Council.
+
 ## Key points
 
 - The letter was written in New Delhi on 28 March 1964.

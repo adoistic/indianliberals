@@ -49,6 +49,12 @@ summary: |-
   The letter is personal and supportive rather than argumentative. It frames Narayan's public service in terms of democracy and human freedom, closing with the hope that he will regain his health and continue his service. The second rendered page shows the addressed envelope, which identifies Minoo Masani as the intermediary at the Bombay address.
 ---
 
+## Summary
+
+This two-page English letter, dated July 27, 1973, is written by P. G. Mavalankar from 50 Western Court, New Delhi, to Jayaprakash Narayan. Mavalankar writes that his wife Purnima, the wider Mavalankar family, and people across the country are deeply disturbed by press reports about Narayan's condition, and expresses hope for his recovery through medical care and rest.
+
+The letter is personal and supportive rather than argumentative. It frames Narayan's public service in terms of democracy and human freedom, closing with the hope that he will regain his health and continue his service. The second rendered page shows the addressed envelope, which identifies Minoo Masani as the intermediary at the Bombay address.
+
 ## Key points
 
 - The letter is dated July 27, 1973, and was sent from P. G. Mavalankar's parliamentary address in New Delhi.

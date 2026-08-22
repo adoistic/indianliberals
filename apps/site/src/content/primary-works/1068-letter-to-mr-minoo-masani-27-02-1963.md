@@ -49,6 +49,12 @@ summary: |-
   A postscript in the lower margin flags a second grievance: the Times of India of Tuesday the 27th, received the same day, does not carry their advertisement. The letter bears an incoming stamp dated 2 March 1963 with reference number 02118.
 ---
 
+## Summary
+
+This one-page handwritten note, on C. Rajagopalachari's 60 Bazlullah Road, Tyagarayanagar (Madras) letterhead and dated 27 February 1963, is a terse editorial complaint from Rajaji to Minoo Masani. Rajagopalachari reports that an article by Sri Kripalani — which his own paper had printed on the assumption that it was exclusive — has just turned up in that day's Organizer as well, so the exclusivity Masani had promised did not hold. Rajaji observes that it was fortunate he had not placed the piece on the front page.
+
+A postscript in the lower margin flags a second grievance: the Times of India of Tuesday the 27th, received the same day, does not carry their advertisement. The letter bears an incoming stamp dated 2 March 1963 with reference number 02118.
+
 ## Key points
 
 - Handwritten personal note from C. Rajagopalachari to Minoo Masani, dated 27 February 1963, on the 60 Bazlullah Road, Tyagarayanagar (Madras-17) letterhead.

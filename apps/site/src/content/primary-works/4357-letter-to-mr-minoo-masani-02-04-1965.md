@@ -49,6 +49,12 @@ summary: |-
   The letter offers a brief but pointed personal commendation, linking admiration for Masani’s parliamentary skill with concern about the strength of their political party. The precise work being praised is not identified on the page.
 ---
 
+## Summary
+
+This one-page handwritten letter from C. Rajagopalachari to Minoo Masani, dated 2 April 1965, warmly acknowledges a work or document by Masani that Rajagopalachari has just received. Rajagopalachari calls it “a masterpiece” and expresses the wish that their party were strong enough to deserve Masani’s parliamentary workmanship.
+
+The letter offers a brief but pointed personal commendation, linking admiration for Masani’s parliamentary skill with concern about the strength of their political party. The precise work being praised is not identified on the page.
+
 ## Key points
 
 - The letter is dated 2 April 1965 and is written from C. Rajagopalachari’s Madras address.

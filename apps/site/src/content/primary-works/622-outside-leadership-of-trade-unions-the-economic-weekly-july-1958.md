@@ -53,6 +53,12 @@ summary: |-
   Drawing on a tentative, non-scientific survey of 45 leaders across the AITUC, INTUC, and HMS, Punekar describes their political affiliations, language, caste, age, education, public offices, and union positions. The survey highlights extensive office-holding across multiple unions, overlapping federation activity, political rivalry, and the financial difficulty of maintaining full-time executives. It also records a largely educated, predominantly Brahmin leadership, with most leaders between 31 and 40 years old. The article concludes by calling for a cadre of full-time professional trade unionists who would be accountable to unions rather than political parties. Pages 4–6 of the PDF are an advertisement and two newspaper clippings, not part of the signed article.
 ---
 
+## Summary
+
+In “Outside Leadership of Trade Unions: A Bombay Survey,” S. D. Punekar examines the predominance of non-worker leaders in Bombay’s trade-union movement. He traces this pattern to the movement’s origins in the post-war period, the influence of the Russian Revolution and Swaraj Movement, and the subsequent division of unions along Communist, Congress, and Socialist political lines. The article argues that outside leaders have provided essential organisational, legal, technical, financial, and political support, but that excessive dependence on them has weakened workers’ capacity to organise themselves and has impeded the growth of internal leadership.
+
+Drawing on a tentative, non-scientific survey of 45 leaders across the AITUC, INTUC, and HMS, Punekar describes their political affiliations, language, caste, age, education, public offices, and union positions. The survey highlights extensive office-holding across multiple unions, overlapping federation activity, political rivalry, and the financial difficulty of maintaining full-time executives. It also records a largely educated, predominantly Brahmin leadership, with most leaders between 31 and 40 years old. The article concludes by calling for a cadre of full-time professional trade unionists who would be accountable to unions rather than political parties. Pages 4–6 of the PDF are an advertisement and two newspaper clippings, not part of the signed article.
+
 ## Key points
 
 - Bombay’s trade-union leadership is dominated by outsiders who are not actual industrial workers.

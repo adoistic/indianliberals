@@ -50,6 +50,10 @@ summary: |-
   This one-page amendment, issued by the Swatantra Party Parliamentary Office in New Delhi on March 31, 1969, revises paragraph 6 of the minutes of the party's General Body Meeting held on March 26, 1969. It records the party's position on the government's proposed initiative to seek suspension of the rules for passing the Constitution (Twenty-Second Amendment) Bill.
 ---
 
+## Summary
+
+This one-page amendment, issued by the Swatantra Party Parliamentary Office in New Delhi on March 31, 1969, revises paragraph 6 of the minutes of the party's General Body Meeting held on March 26, 1969. It records the party's position on the government's proposed initiative to seek suspension of the rules for passing the Constitution (Twenty-Second Amendment) Bill.
+
 ## Key points
 
 - The document amends paragraph 6 of the minutes of the General Body Meeting held on March 26, 1969.

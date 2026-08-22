@@ -48,6 +48,10 @@ summary: |-
   This one-page English telegram-like communication was sent by Minoo Masani from Bombay to Jayaprakash Narayan in Patna on 17 March 1975. Masani asks Narayan to wire the time and place of a meeting, stating that he will telephone on 13 April to discuss a matter whose final words are difficult to read in the scan.
 ---
 
+## Summary
+
+This one-page English telegram-like communication was sent by Minoo Masani from Bombay to Jayaprakash Narayan in Patna on 17 March 1975. Masani asks Narayan to wire the time and place of a meeting, stating that he will telephone on 13 April to discuss a matter whose final words are difficult to read in the scan.
+
 ## Key points
 
 - The document is a single-page typed communication in telegram format.

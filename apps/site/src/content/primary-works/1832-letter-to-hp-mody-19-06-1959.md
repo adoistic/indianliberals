@@ -51,6 +51,12 @@ summary: |-
   The attached second page lists the committee’s office bearers and members. Masani is named chairman; C. F. Lynn, G. P. Hutheesing, and R. V. Murthy are honorary secretaries; and R. C. Cooper is honorary treasurer. The listed members include A. D. Shroff, Murarji Vaidya, H. R. Pardiwala, Victor Paranjyoti, Navin Mapara, K. M. Munshi, N. A. Palkhivala, Frank Moraes, B. K. Mistry, L. Sawhny, and Piloo Mody.
 ---
 
+## Summary
+
+This two-page English letter, dated 19 June 1959, was sent by M. R. Masani from the Swatantra Party’s Bombay Office to Sir Homi Mody. Masani explains that a meeting held on 18 June appointed an Organising Committee to establish the Swatantra Party in Greater Bombay, with Masani as chairman, and asks Mody to serve on the committee and provide his help and cooperation.
+
+The attached second page lists the committee’s office bearers and members. Masani is named chairman; C. F. Lynn, G. P. Hutheesing, and R. V. Murthy are honorary secretaries; and R. C. Cooper is honorary treasurer. The listed members include A. D. Shroff, Murarji Vaidya, H. R. Pardiwala, Victor Paranjyoti, Navin Mapara, K. M. Munshi, N. A. Palkhivala, Frank Moraes, B. K. Mistry, L. Sawhny, and Piloo Mody.
+
 ## Key points
 
 - The letter is dated 19 June 1959 and is issued from the Swatantra Party’s Bombay Office.

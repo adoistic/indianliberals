@@ -52,6 +52,12 @@ summary: |-
   The two party bodies nevertheless unanimously urge Masani to reconsider. Their stated reason is that disciplinary action has already been initiated against Mahida and five people known to have supported Masani’s candidacy, leaving, in their view, no further cause for what they describe as Masani’s “dramatic act of atonement.” Dandeker closes with a personal appeal that Masani return to both bodies. The page also contains handwritten annotations and signatures, but their full significance is not clear from the scan.
 ---
 
+## Summary
+
+This one-page letter, dated April 22, 1968, is from N. Dandeker of the Swatantra Party’s Central Office to M. R. Masani. Dandeker reports that the Central Parliamentary Board and National Executive considered Masani’s letter of resignation at meetings in New Delhi on April 13 and 14, and that he had conveyed Masani’s reiteration that he would not withdraw it.
+
+The two party bodies nevertheless unanimously urge Masani to reconsider. Their stated reason is that disciplinary action has already been initiated against Mahida and five people known to have supported Masani’s candidacy, leaving, in their view, no further cause for what they describe as Masani’s “dramatic act of atonement.” Dandeker closes with a personal appeal that Masani return to both bodies. The page also contains handwritten annotations and signatures, but their full significance is not clear from the scan.
+
 ## Key points
 
 - N. Dandeker writes from the Swatantra Party Central Office on April 22, 1968.

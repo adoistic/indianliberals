@@ -49,6 +49,12 @@ summary: |-
   The rendered pages document routine party-finance administration rather than a political argument or authored publication. Several receipts identify the donor as Mr. S. V. Raju; the forms are signed by a party representative under the printed designation “Receiver’s Signature.”
 ---
 
+## Summary
+
+This four-page archival record consists of four Swatantra Party Maharashtra Region donation receipts issued from the party's Bombay-I office at Sassoon Building, 143 Mahatma Gandhi Road. Each receipt records a handwritten donor entry, a payment of approximately Rs. 25, the month or period toward which the donation was made, a date in 1975, and the receipt number.
+
+The rendered pages document routine party-finance administration rather than a political argument or authored publication. Several receipts identify the donor as Mr. S. V. Raju; the forms are signed by a party representative under the printed designation “Receiver’s Signature.”
+
 ## Key points
 
 - The document contains four Swatantra Party Maharashtra Region donation receipts.

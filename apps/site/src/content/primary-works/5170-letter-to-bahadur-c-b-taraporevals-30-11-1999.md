@@ -47,6 +47,12 @@ summary: |-
   Masani explains that he had already arranged accommodation at the Ritz before receiving the offer, while expressing appreciation for Taraporevala’s kindness. He nevertheless hopes that the recipient’s crowded programme of meetings will leave time for a visit and a conversation with Mrs. Taraporevala after many years.
 ---
 
+## Summary
+
+This one-page personal letter, dated 30 November 1959, is from M. R. Masani in Bombay to Khan Bahadur C. B. Taraporevala in Hyderabad. Masani acknowledges a message conveyed by Mr. Venkata Subbaro offering him hospitality during his visit to Hyderabad from 8 to 10 December.
+
+Masani explains that he had already arranged accommodation at the Ritz before receiving the offer, while expressing appreciation for Taraporevala’s kindness. He nevertheless hopes that the recipient’s crowded programme of meetings will leave time for a visit and a conversation with Mrs. Taraporevala after many years.
+
 ## Key points
 
 - The letter is dated 30 November 1959 and was sent from 148, Mahatma Gandhi Road, Bombay.

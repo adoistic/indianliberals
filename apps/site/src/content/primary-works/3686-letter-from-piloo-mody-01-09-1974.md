@@ -54,6 +54,12 @@ summary: |-
   Mody argues that the National Convention, rather than the Maharashtra state unit, possessed authority to decide the party’s future. He therefore asks the Election Commission to treat the national resolutions as authoritative, reject Girish Munshi’s contention that the Swatantra Party’s symbol could be separately claimed, and recognise that the party had constitutionally ceased to exist after its merger into the Bharatiya Lok Dal. The attached documents include draft minutes, the convention resolution, and an index of further annexures; those attachments also record internal disagreements over procedure, secret voting, press access, and disciplinary action.
 ---
 
+## Summary
+
+Dated September 1, 1974, this letter from Piloo Mody to K. Ganesan of the Election Commission of India sets out the Swatantra Party’s constitutional and organisational basis for merging with the Bharatiya Lok Dal. Mody traces the decision from the National Executive’s April discussions, through the General Council’s June deliberations, to the National Convention held at Sapru House on August 4–5. He presents the merger as part of an effort to create a National Alternative and a two-party system excluding the Congress and Communist parties.
+
+Mody argues that the National Convention, rather than the Maharashtra state unit, possessed authority to decide the party’s future. He therefore asks the Election Commission to treat the national resolutions as authoritative, reject Girish Munshi’s contention that the Swatantra Party’s symbol could be separately claimed, and recognise that the party had constitutionally ceased to exist after its merger into the Bharatiya Lok Dal. The attached documents include draft minutes, the convention resolution, and an index of further annexures; those attachments also record internal disagreements over procedure, secret voting, press access, and disciplinary action.
+
 ## Key points
 
 - Mody records the Swatantra Party’s decision to merge with the Bharatiya Lok Dal.

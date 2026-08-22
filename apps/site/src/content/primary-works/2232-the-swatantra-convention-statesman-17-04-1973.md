@@ -51,6 +51,12 @@ summary: |-
   The editorial identifies further confusion in the party’s electoral strategy and labour policy. It contrasts Minoo Masani’s opposition to unprincipled alliances with the party’s unclear approach to forthcoming elections in Uttar Pradesh and Orissa, and discusses the presence of Kamaraj at the convention’s inauguration. It also criticises the party’s attempt to combine a pro-rich identity with calls for active participation in workers’ struggles, and argues that its strongly anti-Communist response to the Indo-Soviet treaty reflects outdated Cold War assumptions rather than contemporary global developments.
 ---
 
+## Summary
+
+The editorial examines the Swatantra Party after its electoral setbacks in the 1971–72 elections, drawing on Piloo Mody’s presidential address to argue that the party has not fully recovered and that defeatism is shaping its internal psychology. It notes that some members are “tired of fighting” and inclined to withdraw from active politics, while contending that the party’s persistence cannot be explained solely by its “disenchantment with the Congress” or its leadership. The article also reviews Swatantra’s positions on socialism, economic growth, nationalisation, the Andhra Pradesh legislation, Aligarh Muslim University, river-water distribution, and the Constitution, while questioning whether these positions amount to an alternative programme beyond opposition to Communism.
+
+The editorial identifies further confusion in the party’s electoral strategy and labour policy. It contrasts Minoo Masani’s opposition to unprincipled alliances with the party’s unclear approach to forthcoming elections in Uttar Pradesh and Orissa, and discusses the presence of Kamaraj at the convention’s inauguration. It also criticises the party’s attempt to combine a pro-rich identity with calls for active participation in workers’ struggles, and argues that its strongly anti-Communist response to the Indo-Soviet treaty reflects outdated Cold War assumptions rather than contemporary global developments.
+
 ## Key points
 
 - The Swatantra Party is portrayed as still recovering from the electoral shocks of 1971–72.

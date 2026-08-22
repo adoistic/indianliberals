@@ -48,6 +48,10 @@ summary: |-
   In this letter dated 6 April 1970, C. Rajagopalachari acknowledges Acharya N. G. Ranga’s letter of 3 April and expresses concern about tension within their party over Gujarat, specifically over C. C. Desai. He responds warmly to Ranga’s generosity and appears to value the personal relationship between them.
 ---
 
+## Summary
+
+In this letter dated 6 April 1970, C. Rajagopalachari acknowledges Acharya N. G. Ranga’s letter of 3 April and expresses concern about tension within their party over Gujarat, specifically over C. C. Desai. He responds warmly to Ranga’s generosity and appears to value the personal relationship between them.
+
 ## Key points
 
 - Rajagopalachari acknowledges receipt of Ranga’s letter dated 3 April 1970.

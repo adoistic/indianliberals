@@ -53,6 +53,12 @@ summary: |-
   The report also states that the language question had not been discussed at the Swatantra Party level. The clipping is dated 28 July 1963 and is credited to “By a Staff Reporter”; no named journalist is identified.
 ---
 
+## Summary
+
+This one-page Indian Express clipping reports K. M. Munshi’s denial of reports that he and C. Rajagopalachari (“Rajaji”) had exchanged lengthy correspondence over the language issue. Munshi, identified as a prominent Swatantra Party leader, says there was no such correspondence between them.
+
+The report also states that the language question had not been discussed at the Swatantra Party level. The clipping is dated 28 July 1963 and is credited to “By a Staff Reporter”; no named journalist is identified.
+
 ## Key points
 
 - K. M. Munshi denied reports of a rift within the Swatantra Party over the language issue.

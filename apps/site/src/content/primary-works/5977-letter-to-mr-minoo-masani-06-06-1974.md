@@ -49,6 +49,12 @@ summary: |-
   Chitre says that he and Shah have agreed to do whatever J. P. suggests, leaving the final decision to Goenka after his meeting with J. P. The letter closes with Chitre’s expectation of meeting Masani on the train to Deolali on June 21. The document is a single page of English correspondence on Chitre’s stationery, signed by hand.
 ---
 
+## Summary
+
+In this typed personal letter dated June 6, 1974, Dilip Chitre updates Minoo Masani on developments concerning “Everyman’s” after their earlier discussion during a journey from Poona to Bombay. Chitre reports that Ram Nath Goenka has held detailed discussions with both Professor A. B. Shah and Chitre about taking up the assignment, with the terms, conditions, and emoluments left for later discussion.
+
+Chitre says that he and Shah have agreed to do whatever J. P. suggests, leaving the final decision to Goenka after his meeting with J. P. The letter closes with Chitre’s expectation of meeting Masani on the train to Deolali on June 21. The document is a single page of English correspondence on Chitre’s stationery, signed by hand.
+
 ## Key points
 
 - Chitre writes to keep Minoo Masani informed about further developments concerning “Everyman’s.”

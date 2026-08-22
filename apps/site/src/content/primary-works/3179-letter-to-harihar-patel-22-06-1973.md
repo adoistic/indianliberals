@@ -50,6 +50,12 @@ summary: |-
   Raju expresses concern about developments within the Pragati Party, specifically referring to Dr. Hande's “surprise defection” to the ADMK. He hopes this is an isolated instance, suggesting anxiety about the party's internal stability and political direction. The letter is personal in tone but documents a moment of political consultation and apprehension in 1973.
 ---
 
+## Summary
+
+In this letter dated June 22, 1973, S. V. Raju writes to Harihar Patel after reviewing the contents of a Pragati Party meeting and Patel's postscript. Raju says he can “smell what is going on” and offers to consider visiting Bombay for a detailed discussion, potentially under the pretext of work for the Adult Education Institute, with reimbursement of Patel's first-class rail fare to and from Bhubaneswar.
+
+Raju expresses concern about developments within the Pragati Party, specifically referring to Dr. Hande's “surprise defection” to the ADMK. He hopes this is an isolated instance, suggesting anxiety about the party's internal stability and political direction. The letter is personal in tone but documents a moment of political consultation and apprehension in 1973.
+
 ## Key points
 
 - Raju acknowledges receiving Harihar Patel's letter of June 12 and reviewing material from a Pragati Party meeting.

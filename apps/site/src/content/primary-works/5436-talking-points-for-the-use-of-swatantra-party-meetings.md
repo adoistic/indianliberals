@@ -58,6 +58,10 @@ summary: |-
   This two-page paper, attributed to Louella Lobo Prabhu and intended for Swatantra Party members, argues that independent India has failed to honour its constitutional commitments to democracy, freedom, and social justice. In the section on democracy, it contends that the formal facade of representative government conceals one-party dominance, an electoral system that can produce parliamentary majorities without majorities of popular votes, control over mass media and patronage, and the weakening of parliamentary conventions through ordinances, centralisation, and the selection of chief ministers by the prime minister rather than by state legislatures. Opposition parties are also criticised for lacking ideological differentiation, with the Swatantra Party presented as an exception.
 ---
 
+## Summary
+
+This two-page paper, attributed to Louella Lobo Prabhu and intended for Swatantra Party members, argues that independent India has failed to honour its constitutional commitments to democracy, freedom, and social justice. In the section on democracy, it contends that the formal facade of representative government conceals one-party dominance, an electoral system that can produce parliamentary majorities without majorities of popular votes, control over mass media and patronage, and the weakening of parliamentary conventions through ordinances, centralisation, and the selection of chief ministers by the prime minister rather than by state legislatures. Opposition parties are also criticised for lacking ideological differentiation, with the Swatantra Party presented as an exception.
+
 ## Key points
 
 - The paper frames its criticism around India's post-independence commitments to independence, democracy, and social justice.

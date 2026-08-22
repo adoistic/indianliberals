@@ -52,6 +52,12 @@ summary: |-
   The letter also comments briefly on the newly formed Swatantra Party. Tata says that the party has emerged at a psychologically opportune moment, judging by the response from the press and public. He argues that it should primarily represent the “small man” and cautions against identifying Big Business too closely with it. The page provides no further discussion of the party’s programme or Tata’s political views.
 ---
 
+## Summary
+
+In this personal letter dated July 16, 1959, J. R. D. Tata writes to H. H. Maharawal of Dungarpur, apologising that extensive repairs prevent him from offering accommodation to the Maharawal and Maharani Saheba. He nevertheless invites them to arrange a quiet meal on another occasion.
+
+The letter also comments briefly on the newly formed Swatantra Party. Tata says that the party has emerged at a psychologically opportune moment, judging by the response from the press and public. He argues that it should primarily represent the “small man” and cautions against identifying Big Business too closely with it. The page provides no further discussion of the party’s programme or Tata’s political views.
+
 ## Key points
 
 - J. R. D. Tata’s letter is dated July 16, 1959, and is addressed to H. H. Maharawal of Dungarpur.

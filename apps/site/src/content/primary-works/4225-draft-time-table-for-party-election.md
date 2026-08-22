@@ -48,6 +48,10 @@ summary: |-
   This one-page document, titled "Draft Timetable for Party Elections," sets out a staged schedule for organisational elections. It gives deadlines from July 31, 1964, for enrolling Workers and Life Workers and receiving Register Entries and subscription quotas, followed by scrutiny and verification of registers by September 15. Elections are then scheduled at the primary (constituency), district, and state-committee levels during October and November 1964.
 ---
 
+## Summary
+
+This one-page document, titled "Draft Timetable for Party Elections," sets out a staged schedule for organisational elections. It gives deadlines from July 31, 1964, for enrolling Workers and Life Workers and receiving Register Entries and subscription quotas, followed by scrutiny and verification of registers by September 15. Elections are then scheduled at the primary (constituency), district, and state-committee levels during October and November 1964.
+
 ## Key points
 
 - Worker and Life Worker enrolment for party-election purposes is scheduled to close on July 31, 1964.

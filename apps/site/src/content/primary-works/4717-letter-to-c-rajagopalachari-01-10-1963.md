@@ -50,6 +50,12 @@ summary: |-
   Verma further argues that the party’s constitution is democratic in form but that its actual structure is undemocratic: it has no effective mandate, and its proposed constitutional amendment would entrench the authority of a small leadership group. He warns that the party’s present drift will lead to decay unless it is reorganised, urges Rajaji to give a “bold call” for unity and merger with the Congress, and presents this as a way to recover opposition, balance, and the loyalty of workers. The closing pages also criticise the Congress’s adoption of a socialistic pattern of society and suggest that the Swatantra Party’s current strategy will ultimately strengthen the Socialist Party.
 ---
 
+## Summary
+
+In this handwritten letter dated 1 October 1963, Amar Nath Verma writes to C. Rajagopalachari (“Rajaji”) about the Swatantra Party’s political condition and constitutional character. Verma argues that the party was founded with strong leadership and an imaginative programme, but that it has neglected the enthusiasm and participation of ordinary people. He contends that the party has developed “a sort of totalitarian shadow,” lacks internal democracy, and has failed to hold elections for two or three years.
+
+Verma further argues that the party’s constitution is democratic in form but that its actual structure is undemocratic: it has no effective mandate, and its proposed constitutional amendment would entrench the authority of a small leadership group. He warns that the party’s present drift will lead to decay unless it is reorganised, urges Rajaji to give a “bold call” for unity and merger with the Congress, and presents this as a way to recover opposition, balance, and the loyalty of workers. The closing pages also criticise the Congress’s adoption of a socialistic pattern of society and suggest that the Swatantra Party’s current strategy will ultimately strengthen the Socialist Party.
+
 ## Key points
 
 - The letter diagnoses declining enthusiasm, weak organisation, and inadequate popular participation within the Swatantra Party.

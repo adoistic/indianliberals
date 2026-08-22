@@ -47,6 +47,10 @@ summary: |-
   This one-page English telegram form from the Indian Posts and Telegraphs Department records a message sent from Ahmedabad to M. Masani, dated 27 March 1968. The message states that Babubhai Vaidya wired from Ahmedabad that Vadibhai Mehta was “working against” the recipient and requests that he be asked to help. The sender or signatory appears to be “Narayan,” although the line is partly obscured.
 ---
 
+## Summary
+
+This one-page English telegram form from the Indian Posts and Telegraphs Department records a message sent from Ahmedabad to M. Masani, dated 27 March 1968. The message states that Babubhai Vaidya wired from Ahmedabad that Vadibhai Mehta was “working against” the recipient and requests that he be asked to help. The sender or signatory appears to be “Narayan,” although the line is partly obscured.
+
 ## Key points
 
 - The document is a one-page telegram transmitted through the Indian Posts and Telegraphs Department.

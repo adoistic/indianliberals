@@ -47,6 +47,10 @@ summary: |-
   This untitled handwritten letter, signed by P.K. Deo on Member of Parliament (Lok Sabha) letterhead, is addressed to Minoo Masani. Deo asks Masani to prepare a short note on the Finance Bill that will present their public view of the new taxation proposals, and says that an assessment of the Bill would also be useful. The letter bears a received stamp dated 6 June 1962; a separate handwritten date near the signature is difficult to read.
 ---
 
+## Summary
+
+This untitled handwritten letter, signed by P.K. Deo on Member of Parliament (Lok Sabha) letterhead, is addressed to Minoo Masani. Deo asks Masani to prepare a short note on the Finance Bill that will present their public view of the new taxation proposals, and says that an assessment of the Bill would also be useful. The letter bears a received stamp dated 6 June 1962; a separate handwritten date near the signature is difficult to read.
+
 ## Key points
 
 - The letter is addressed to Minoo Masani.

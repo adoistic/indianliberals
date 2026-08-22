@@ -50,6 +50,12 @@ summary: |-
   Masani expects Rajagopalachari to give a non-committal reply, explaining that the Party’s position can be defined only after its Central Organising Committee and Parliamentary Board have considered the issue. He asks for guidance on arranging a meeting and suggests that, if Kripalani wishes to meet him and Jayaprakash Narayan, it should take place before the Party meeting. The page does not identify the attached newspaper clipping or provide further detail about the proposed programme.
 ---
 
+## Summary
+
+In this letter dated June 11, 1963, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about an attached Times of India clipping and a proposal associated with Col. Pasricha and his co-signatories. Masani argues that the proposal is pursuing the wrong political course: an immediate programme involving the Swatantra Party and the PSP would be futile, whereas joint action on specific issues may offer a more practical route toward their objective.
+
+Masani expects Rajagopalachari to give a non-committal reply, explaining that the Party’s position can be defined only after its Central Organising Committee and Parliamentary Board have considered the issue. He asks for guidance on arranging a meeting and suggests that, if Kripalani wishes to meet him and Jayaprakash Narayan, it should take place before the Party meeting. The page does not identify the attached newspaper clipping or provide further detail about the proposed programme.
+
 ## Key points
 
 - Masani objects to the political course being advocated by Col. Pasricha and his co-signatories.

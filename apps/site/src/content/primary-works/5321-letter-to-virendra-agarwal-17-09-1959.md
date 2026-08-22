@@ -49,6 +49,12 @@ summary: |-
   The letter records the enclosure of a copy of Masani's opening remarks at the Swatantra Party convention in Bombay and a copy of the party's Statement of Principles. It is therefore a brief item of political correspondence documenting the circulation of Swatantra Party materials in the party's founding year.
 ---
 
+## Summary
+
+This one-page English letter, dated 17 September 1959, is signed by Miss B.S. Mirza in her capacity as secretary to M.R. Masani and addressed to Mr. Virendra Agarvala of the National Youth Federation of India. Mirza acknowledges Agarvala's letter of 6 August and notes that Masani is currently abroad, expected to return by 6 October and to be in Delhi in November for Parliament's Winter Session.
+
+The letter records the enclosure of a copy of Masani's opening remarks at the Swatantra Party convention in Bombay and a copy of the party's Statement of Principles. It is therefore a brief item of political correspondence documenting the circulation of Swatantra Party materials in the party's founding year.
+
 ## Key points
 
 - The letter is dated 17 September 1959 and is written in English.

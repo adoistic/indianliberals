@@ -49,6 +49,12 @@ summary: |-
   Handwritten marginalia record the status of each invitation: ticks appear against many names, while explicit notations such as "sending accepts", "accepts", and a partial line "Acceptance ltr on Poonavist" (against Mr. Sumatilal Shah) indicate that acceptances were being logged as they came in. The document carries no substantive argument, agenda, or minutes — it functions purely as a working attendance sheet for a meeting convened on 29 July 1977, in the immediate post-Emergency period when Indian liberal circles were actively regrouping. Item numbers 27 and 28 are absent from the typed sequence, jumping from 26 (Mr. S.R. Pendse) to 29 (Mr. B.V. Kalambekar).
 ---
 
+## Summary
+
+This single-page typescript, catalogued as item 1140 and titled "List of Invitees for the Discussion to be held on 29.7.77", is an internal administrative roster rather than an essay. It enumerates forty-two invitees numbered sequentially, with a handful of additional handwritten entries beyond the typed forty-one. The list mixes Bombay-based individuals with at least one out-of-town invitee (Mr. Sumatilal Shah is annotated "(Poona)").
+
+Handwritten marginalia record the status of each invitation: ticks appear against many names, while explicit notations such as "sending accepts", "accepts", and a partial line "Acceptance ltr on Poonavist" (against Mr. Sumatilal Shah) indicate that acceptances were being logged as they came in. The document carries no substantive argument, agenda, or minutes — it functions purely as a working attendance sheet for a meeting convened on 29 July 1977, in the immediate post-Emergency period when Indian liberal circles were actively regrouping. Item numbers 27 and 28 are absent from the typed sequence, jumping from 26 (Mr. S.R. Pendse) to 29 (Mr. B.V. Kalambekar).
+
 ## Key points
 
 - Single-page invitee roster stamped as document number 1140, titled for a discussion scheduled 29.7.77.

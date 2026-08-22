@@ -51,6 +51,12 @@ summary: |-
   Masani rejects three defenses of the invitation: that the proposed meeting will not constitute negotiation, that it cannot do harm, and that there is no alternative. He portrays the Chinese Communist regime as expansionist and untrustworthy, and contends that a meeting would damage India's psychological position, demoralize its armed forces, and encourage further pressure. The alternatives he proposes include expelling the aggressor if India has the military capacity, refusing to concede the occupied territory, improving military preparedness, breaking diplomatic relations, and convening a regional organization of South and Southeast Asian countries for collective security without surrendering non-alignment.
 ---
 
+## Summary
+
+In this speech in the Lok Sabha debate on the Motion of Thanks, M. R. Masani attacks the Prime Minister's invitation to Chou En-lai against the background of Chinese occupation of Indian territory and the Sino-Indian border dispute. He argues that the invitation contradicts the government's earlier position that there was no basis for negotiations and has created a false impression of conciliation without any corresponding Chinese concession.
+
+Masani rejects three defenses of the invitation: that the proposed meeting will not constitute negotiation, that it cannot do harm, and that there is no alternative. He portrays the Chinese Communist regime as expansionist and untrustworthy, and contends that a meeting would damage India's psychological position, demoralize its armed forces, and encourage further pressure. The alternatives he proposes include expelling the aggressor if India has the military capacity, refusing to concede the occupied territory, improving military preparedness, breaking diplomatic relations, and convening a regional organization of South and Southeast Asian countries for collective security without surrendering non-alignment.
+
 ## Key points
 
 - Masani criticizes the invitation to Chou En-lai as a reversal of India's stated policy toward Chinese aggression.

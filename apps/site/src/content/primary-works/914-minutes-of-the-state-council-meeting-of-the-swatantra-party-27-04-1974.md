@@ -52,6 +52,12 @@ summary: |-
   The recorded interventions show a sharply divided council. Several members opposed merger unless other parties accepted Swatantra's principles, while others supported merger as necessary to prevent the party's decline. Recurrent concerns included preserving the party's identity, distinguishing a national party from regional parties, the suitability of proposed partner parties and their leadership, and the need for an agreed common programme. The Chairman concluded that a summary of the discussion should be prepared for the National Executive, which could refer the matter to the General Council.
 ---
 
+## Summary
+
+These four pages record the Maharashtra State Council meeting of the Swatantra Party held in Bombay on 27 April 1974. The meeting was convened to consider reports that the Swatantra Party might merge with other democratic parties following discussions at the National Executive meeting in Delhi. Madhു Mehta explained that the Executive had considered the desirability of a two-party system but stressed that no immediate merger decision had been taken and that press reports were premature or inaccurate. He invited the State Council to submit the substance of its views to the National Executive.
+
+The recorded interventions show a sharply divided council. Several members opposed merger unless other parties accepted Swatantra's principles, while others supported merger as necessary to prevent the party's decline. Recurrent concerns included preserving the party's identity, distinguishing a national party from regional parties, the suitability of proposed partner parties and their leadership, and the need for an agreed common programme. The Chairman concluded that a summary of the discussion should be prepared for the National Executive, which could refer the matter to the General Council.
+
 ## Key points
 
 - The meeting was held in Bombay on 27 April 1974 and was attended by members of the Maharashtra State Council.

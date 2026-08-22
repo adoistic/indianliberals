@@ -50,6 +50,12 @@ summary: |-
   The letter sharply contrasts the Swatantra Party's claimed moral standards with those of prospective allies, including B.K.D., and warns that a merger would confuse voters and compromise the party's identity. Aravamudhan nevertheless insists that the party has not been defeated permanently: it must continue the political struggle with sincerity and renewed leadership. He asks Masani to attend the General Council meeting in Delhi on 9–10 June 1974, re-enter active party affairs, help persuade Piloo Mody to abandon the merger course, and preserve the party's identity and standing alongside Rajaji's legacy.
 ---
 
+## Summary
+
+In this letter dated 1 June 1974, T. Aravamudhan, a Tamil Nadu State Council member of the Swatantra Party, urgently appeals to M. R. Masani to oppose a proposed merger of the Swatantra Party with six or seven other parties. Aravamudhan presents the merger as a sudden and unauthorized response to electoral setbacks and argues that the participating parties have substantially different policies and programmes. He attributes the Swatantra Party's recent weakness to unsuccessful electioneering in Uttar Pradesh and Orissa, which, in his view, damaged both the party's finances and the reputation of its leaders.
+
+The letter sharply contrasts the Swatantra Party's claimed moral standards with those of prospective allies, including B.K.D., and warns that a merger would confuse voters and compromise the party's identity. Aravamudhan nevertheless insists that the party has not been defeated permanently: it must continue the political struggle with sincerity and renewed leadership. He asks Masani to attend the General Council meeting in Delhi on 9–10 June 1974, re-enter active party affairs, help persuade Piloo Mody to abandon the merger course, and preserve the party's identity and standing alongside Rajaji's legacy.
+
 ## Key points
 
 - The letter is dated 1 June 1974 and is addressed to M. R. Masani.

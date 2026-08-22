@@ -49,6 +49,12 @@ summary: |-
   The circular cites recent losses in Mysore and Rajasthan as evidence of the organisational and reputational costs of this delay. It instructs State Units to use the several weeks or months available after a vacancy arises to determine the Party's position and submit recommendations well in advance. Unless recommendations arrive early enough for the Central Parliamentary Board to meet and consider them, State Units will no longer be free to nominate candidates.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular sets out procedures for selecting candidates for impending by-elections to the Lok Sabha, Rajya Sabha, and State Assemblies and Councils before the 1967 general elections. It criticises State Executive Committees and Parliamentary Boards for making recommendations too late, leaving the Central Parliamentary Board unable to assess nominations properly and contributing to avoidable defeats and forfeited security deposits.
+
+The circular cites recent losses in Mysore and Rajasthan as evidence of the organisational and reputational costs of this delay. It instructs State Units to use the several weeks or months available after a vacancy arises to determine the Party's position and submit recommendations well in advance. Unless recommendations arrive early enough for the Central Parliamentary Board to meet and consider them, State Units will no longer be free to nominate candidates.
+
 ## Key points
 
 - The document addresses by-election procedures before the 1967 general elections.

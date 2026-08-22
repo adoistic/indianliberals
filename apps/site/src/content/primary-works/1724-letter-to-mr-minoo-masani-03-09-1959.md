@@ -50,6 +50,12 @@ summary: |-
   The letter's main concern is political and editorial consistency. Ramaswamy notes that Masani has defended Menon's resignation while the Free Press Journal has demanded General Thimayya's resignation, despite the Journal's financial support from the Forum of Free Enterprise, which also supports Masani and the Swatantra Party. He asks Masani to consider whether the newspaper should either adopt a line consistent with the party's position or cease receiving financial support from Masani and his associates.
 ---
 
+## Summary
+
+In this one-page letter dated 3 September 1959, V. K. Ramaswamy writes to Minoo Masani about a Swatantra Party symposium and Masani's reported criticism of Defence Minister V. K. Krishna Menon. Ramaswamy contrasts Menon's alleged “record and ominous silence” on Tibet and Chinese aggression with the resignation of General Thimayya, arguing that public opinion had come to doubt the country's defence under a minister who was “consistently pro-Communist.”
+
+The letter's main concern is political and editorial consistency. Ramaswamy notes that Masani has defended Menon's resignation while the Free Press Journal has demanded General Thimayya's resignation, despite the Journal's financial support from the Forum of Free Enterprise, which also supports Masani and the Swatantra Party. He asks Masani to consider whether the newspaper should either adopt a line consistent with the party's position or cease receiving financial support from Masani and his associates.
+
 ## Key points
 
 - The letter is dated 3 September 1959 and is addressed to Minoo Masani.

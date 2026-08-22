@@ -54,6 +54,12 @@ summary: |-
   The Sunday programme turned to problems of youth and students, youth and self-employment, and effective management, followed by an evaluation session. The page also records scheduled tea during the afternoon session. It is a programme document rather than a substantive essay, so it provides session topics, timings, and listed speakers but no discussion of the ideas presented.
 ---
 
+## Summary
+
+This one-page programme outlines a weekend training camp for students, held at the Grand Hotel, Bombay, on 17–18 February 1979 under the Leslie Sawhny Programme. The Saturday sessions covered registration and participant briefing, active citizenship and qualities of leadership, techniques of organizing institutions, and the realities and problems of the Third World with special reference to India.
+
+The Sunday programme turned to problems of youth and students, youth and self-employment, and effective management, followed by an evaluation session. The page also records scheduled tea during the afternoon session. It is a programme document rather than a substantive essay, so it provides session topics, timings, and listed speakers but no discussion of the ideas presented.
+
 ## Key points
 
 - The document announces a weekend student training camp in Bombay on 17–18 February 1979.

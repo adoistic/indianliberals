@@ -45,6 +45,10 @@ summary: |-
   This one-page letter, dated 23 September 1959, acknowledges two letters sent by Mr. Simeon Singh on 7 and 19 September to M. R. Masani while Masani was away from India. Signed by Miss B. S. Kirza as Masani's secretary, it explains that Masani was expected to return sometime in October and that Singh's correspondence would be placed before him on his arrival.
 ---
 
+## Summary
+
+This one-page letter, dated 23 September 1959, acknowledges two letters sent by Mr. Simeon Singh on 7 and 19 September to M. R. Masani while Masani was away from India. Signed by Miss B. S. Kirza as Masani's secretary, it explains that Masani was expected to return sometime in October and that Singh's correspondence would be placed before him on his arrival.
+
 ## Key points
 
 - The letter is dated 23 September 1959.

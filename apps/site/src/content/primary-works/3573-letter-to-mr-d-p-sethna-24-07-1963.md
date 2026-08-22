@@ -45,6 +45,10 @@ summary: |-
   This one-page letter, dated 24 July 1963, is from M. R. Masani to Darab, whom the address identifies as Mr. D. P. Sethna. Masani acknowledges Sethna’s letter and his contribution of Rs. 250, and says that a receipt is enclosed. The exchange appears connected to a shared concern about current circumstances, though the letter does not specify the underlying cause.
 ---
 
+## Summary
+
+This one-page letter, dated 24 July 1963, is from M. R. Masani to Darab, whom the address identifies as Mr. D. P. Sethna. Masani acknowledges Sethna’s letter and his contribution of Rs. 250, and says that a receipt is enclosed. The exchange appears connected to a shared concern about current circumstances, though the letter does not specify the underlying cause.
+
 ## Key points
 
 - Masani writes to Darab on 24 July 1963.

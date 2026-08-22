@@ -61,6 +61,12 @@ summary: |-
   Masani then compares socialist objectives with their practical results in the Soviet Union and India. He argues that state ownership and central planning have failed to deliver prosperity, equality, agricultural productivity, or liberty, citing shortages, poor housing and consumer goods, low Soviet farm yields, entrenched privilege, and India's stagnant living standards. Against this, he defines liberalism as limited government, private ownership, individual enterprise, consumer choice, and a free market in which production responds to public demand. The essay concludes that liberal methods reach the socialist ideals of prosperity, social justice, equality, and freedom more quickly, and that the contemporary movement away from collectivism toward liberal democracy confirms this judgment.
 ---
 
+## Summary
+
+In this essay dated 13 December 1965, M. R. Masani challenges the assumption that liberalism is historically superseded by socialism. Drawing on his own movement from the Congress Socialist Party to the Swatantra Party, and on Jayaprakash Narayan's similar evolution, he attributes their break with socialism to age, experience, and the Soviet experiment's failure to achieve a free and equal society. He presents liberalism and Gandhi's thought as the principal alternatives, emphasizing that political methods must be judged by their moral consequences, that ends and means are inseparable, and that concentrated state power is a threat to freedom.
+
+Masani then compares socialist objectives with their practical results in the Soviet Union and India. He argues that state ownership and central planning have failed to deliver prosperity, equality, agricultural productivity, or liberty, citing shortages, poor housing and consumer goods, low Soviet farm yields, entrenched privilege, and India's stagnant living standards. Against this, he defines liberalism as limited government, private ownership, individual enterprise, consumer choice, and a free market in which production responds to public demand. The essay concludes that liberal methods reach the socialist ideals of prosperity, social justice, equality, and freedom more quickly, and that the contemporary movement away from collectivism toward liberal democracy confirms this judgment.
+
 ## Key points
 
 - Masani recounts his transition from socialism to liberalism and links it to experience of Soviet communism and Gandhi's influence.

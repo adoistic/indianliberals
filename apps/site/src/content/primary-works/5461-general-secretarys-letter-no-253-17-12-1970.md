@@ -49,6 +49,12 @@ summary: |-
   The letter also requests legislative information: the number of Swatantra legislators elected to state assemblies and Parliament, current strength and the reasons for any reduction, by-elections contested and their outcomes, and a brief account of the party group's work in each state legislature. The requested deadline is Friday, January 8, 1971. The document is an internal administrative communication and does not contain a substantive policy argument.
 ---
 
+## Summary
+
+Dated December 17, 1970, this letter from Swatantra Party General Secretary R. C. Cooper asks state-level party units to submit reports ahead of the National Convention in Bombay on January 30–31. The reports are requested to cover organisational performance since the previous convention in Bhubaneshwar in October 1968, including worker subscriptions, enrolment, the number of workers and life workers, functioning primary units, district committees, council and executive meetings, and party activities.
+
+The letter also requests legislative information: the number of Swatantra legislators elected to state assemblies and Parliament, current strength and the reasons for any reduction, by-elections contested and their outcomes, and a brief account of the party group's work in each state legislature. The requested deadline is Friday, January 8, 1971. The document is an internal administrative communication and does not contain a substantive policy argument.
+
 ## Key points
 
 - The letter is dated December 17, 1970, and is issued from the Swatantra Party's National Headquarters in Bombay.

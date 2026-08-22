@@ -56,6 +56,12 @@ summary: |-
   The party’s programme combines constitutional and administrative gradualism with developmental commitments. It supports retaining Goa’s existing civil and criminal laws for five years while gradually aligning them with Indian law, adapting existing administrative institutions toward Panchayat Raj, expanding literacy and technical education, undertaking agrarian reforms, and pursuing rational industrialisation based on Goa’s port, mineral, and geographic advantages. It also recognises Konkani as Goa’s regional language, while accepting Marathi, Portuguese, English, and Urdu as supplementary languages; it explicitly opposes prohibition. The statement concludes that full statehood, a stable government, and progressive administration are necessary for “true Swaraj in Goa.”
 ---
 
+## Summary
+
+This two-page English statement presents Goencho Paksh as an independent Goan political organisation seeking full statehood for Goa within the Indian Union. It argues that Union Territory status is insufficient and that continued prosperity requires a stable, progressive government led by honest, experienced, and respected individuals. The statement distinguishes Goencho Paksh from newer political organisations and declares that it accepts no directives or affiliations from outside bodies.
+
+The party’s programme combines constitutional and administrative gradualism with developmental commitments. It supports retaining Goa’s existing civil and criminal laws for five years while gradually aligning them with Indian law, adapting existing administrative institutions toward Panchayat Raj, expanding literacy and technical education, undertaking agrarian reforms, and pursuing rational industrialisation based on Goa’s port, mineral, and geographic advantages. It also recognises Konkani as Goa’s regional language, while accepting Marathi, Portuguese, English, and Urdu as supplementary languages; it explicitly opposes prohibition. The statement concludes that full statehood, a stable government, and progressive administration are necessary for “true Swaraj in Goa.”
+
 ## Key points
 
 - Goencho Paksh demands that Goa become a full-fledged state of the Indian Union rather than remain a Union Territory.

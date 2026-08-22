@@ -50,6 +50,12 @@ summary: |-
   The Deputy Minister of Finance, Smt. Tarkeshwari Sinha, answers that the matter has been considered and states that the income of a political party is not exempt from income tax. The document presents no further explanation of the governing law, the scope of taxable income, or the Government's reasoning.
 ---
 
+## Summary
+
+This one-page Lok Sabha document records Starred Question No. 115, listed for answer on 17 August 1963. Shri Shree Narayan Das, Shri Yashpal Singh, and Shri Sarjoo Pandey ask whether the Government has considered the levy and legality of income tax on the income of political parties, and, if so, what conclusion it reached.
+
+The Deputy Minister of Finance, Smt. Tarkeshwari Sinha, answers that the matter has been considered and states that the income of a political party is not exempt from income tax. The document presents no further explanation of the governing law, the scope of taxable income, or the Government's reasoning.
+
 ## Key points
 
 - The document is a Lok Sabha starred question dated 17 August 1963.

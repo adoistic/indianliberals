@@ -49,6 +49,10 @@ summary: |-
   This two-page Swatantra Party Central Office Circular, dated 25 January 1967, transmits General Secretary M. R. Masani’s itinerary to party correspondents or members. The letter is signed by S. V. Raju in his capacity as Executive Secretary and identifies the enclosed document as Masani’s tour program.
 ---
 
+## Summary
+
+This two-page Swatantra Party Central Office Circular, dated 25 January 1967, transmits General Secretary M. R. Masani’s itinerary to party correspondents or members. The letter is signed by S. V. Raju in his capacity as Executive Secretary and identifies the enclosed document as Masani’s tour program.
+
 ## Key points
 
 - The circular is issued by the Swatantra Party Central Office in Bombay on 25 January 1967.

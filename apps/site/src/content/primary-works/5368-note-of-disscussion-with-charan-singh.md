@@ -51,6 +51,12 @@ summary: |-
   Dandekar and Ranga reject an immediate merger, citing the Swatantra Party's established organisation, electoral symbols, and political identity, as well as ideological differences with the BKD and PSP. They are particularly concerned that a new party accepting “Socialism” would be difficult to distinguish from Congress and would conflict with the position attributed to Mahatma Gandhi. As an alternative, they suggest electoral cooperation or a pre-election alliance, including possible financial assistance to BKD. Charan Singh rejects merger on political and public-image grounds, but the meeting ends with agreement to consider the alternatives further and to explore post-election cooperation, including a possible coalition government or joint opposition.
 ---
 
+## Summary
+
+This confidential two-page note records a 15 June 1968 discussion between N. Dandekar, Prof. Ranga of the Swatantra Party, and Ch. Charan Singh and associates of the Bharatiya Kranti Dal (BKD). The central proposal was to unite the Swatantra Party, BKD, PSP, and other like-minded democratic parties and groups into a new national democratic party, excluding the Congress, the Jana Sangh, and other communist parties. The note argues that such a formation could become an effective opposition in forthcoming state and general elections.
+
+Dandekar and Ranga reject an immediate merger, citing the Swatantra Party's established organisation, electoral symbols, and political identity, as well as ideological differences with the BKD and PSP. They are particularly concerned that a new party accepting “Socialism” would be difficult to distinguish from Congress and would conflict with the position attributed to Mahatma Gandhi. As an alternative, they suggest electoral cooperation or a pre-election alliance, including possible financial assistance to BKD. Charan Singh rejects merger on political and public-image grounds, but the meeting ends with agreement to consider the alternatives further and to explore post-election cooperation, including a possible coalition government or joint opposition.
+
 ## Key points
 
 - The note records a 15 June 1968 meeting in New Delhi concerning the proposed Bharatiya Kranti Dal.

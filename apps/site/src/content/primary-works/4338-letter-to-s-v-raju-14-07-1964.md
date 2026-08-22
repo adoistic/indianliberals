@@ -49,6 +49,12 @@ summary: |-
   The letter also recommends contacting supporters in Nagpur, Wardha, Betul, Chanda, Akola, Amravati, Jalgaon, Nasik, Satara, and Poona through the Bombay office. Its central concern is organisational consolidation: the sender argues that little progress will be made without such initiatives, and criticises district committees for failing to regularly inform the state party about enrolment figures. The closing refers to a similar problem with permanent or life membership enrolment and cites Shri Masani’s mistaken understanding of Andhra’s enrolment position.
 ---
 
+## Summary
+
+This handwritten letter, dated 11 July 1964 and received on 14 July 1964, is addressed to S. V. Raju and signed “Ranga.” The sender urges Raju to make special efforts to build the party in Madhya Pradesh by writing to prospective members and arranging for active members to be enrolled before 31 August. The proposed outreach covers cities including Raipur, Jabalpur, Gwalior, Indore, Ujjain, Bhopal, Jabalpur, Rewa, and other locations.
+
+The letter also recommends contacting supporters in Nagpur, Wardha, Betul, Chanda, Akola, Amravati, Jalgaon, Nasik, Satara, and Poona through the Bombay office. Its central concern is organisational consolidation: the sender argues that little progress will be made without such initiatives, and criticises district committees for failing to regularly inform the state party about enrolment figures. The closing refers to a similar problem with permanent or life membership enrolment and cites Shri Masani’s mistaken understanding of Andhra’s enrolment position.
+
 ## Key points
 
 - The letter asks S. V. Raju to help strengthen the party in Madhya Pradesh.

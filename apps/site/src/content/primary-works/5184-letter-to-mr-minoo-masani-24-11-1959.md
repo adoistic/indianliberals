@@ -43,6 +43,10 @@ summary: |-
   This single-page letter, dated 24 November 1959, is from G. M. Manjunathaya, identified on the letterhead as a coffee planter in Suntikoppa, to Minoo Masani, then a Member of Parliament in New Delhi. Manjunathaya says he has learned from Jinaraja Hegde that Masani cannot come to Coorg because of an engagement on 6 December 1959.
 ---
 
+## Summary
+
+This single-page letter, dated 24 November 1959, is from G. M. Manjunathaya, identified on the letterhead as a coffee planter in Suntikoppa, to Minoo Masani, then a Member of Parliament in New Delhi. Manjunathaya says he has learned from Jinaraja Hegde that Masani cannot come to Coorg because of an engagement on 6 December 1959.
+
 ## Key points
 
 - The letter was written from Suntikoppa on 24 November 1959.

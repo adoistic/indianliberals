@@ -51,6 +51,12 @@ summary: |-
   The communication asks recipients to take personal responsibility for ensuring that party legislators cast their votes as directed. It also requests information about whether the State Assembly is in session, how long the session will last, and the current and permanent addresses of MLAs in the State capital. S. V. Raju signs the circular as Executive Secretary.
 ---
 
+## Summary
+
+This one-page Swatantra Party Central Office Circular No. 74, dated 17 April 1967, instructs party contacts to mobilise the party’s MLAs and MPs ahead of the forthcoming Presidential Election on 6 May. It encloses a circular from General Secretary M. R. Masani and urges legislators to vote in favour of Mr. Subha Rao.
+
+The communication asks recipients to take personal responsibility for ensuring that party legislators cast their votes as directed. It also requests information about whether the State Assembly is in session, how long the session will last, and the current and permanent addresses of MLAs in the State capital. S. V. Raju signs the circular as Executive Secretary.
+
 ## Key points
 
 - The document is Central Office Circular No. 74 of the Swatantra Party.

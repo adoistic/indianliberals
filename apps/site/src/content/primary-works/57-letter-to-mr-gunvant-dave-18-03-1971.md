@@ -47,6 +47,10 @@ summary: |-
   This two-page letter, dated 18 March 1971, is written by M. R. Masani to Gunvant Dave in Rajkot. Masani thanks Dave for the way he worked during the recent elections, praising his organisation and ability to evoke a response. He notes that Dave's efforts, like those of many others, were not rewarded on that occasion, but expresses gratitude for his assistance.
 ---
 
+## Summary
+
+This two-page letter, dated 18 March 1971, is written by M. R. Masani to Gunvant Dave in Rajkot. Masani thanks Dave for the way he worked during the recent elections, praising his organisation and ability to evoke a response. He notes that Dave's efforts, like those of many others, were not rewarded on that occasion, but expresses gratitude for his assistance.
+
 ## Key points
 
 - The letter is dated 18 March 1971 and signed by M. R. Masani.

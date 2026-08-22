@@ -52,6 +52,12 @@ summary: |-
   The letter reports that five state units have opposed the merger and declared their intention to retain Swatantra’s name, flag, and symbol. It asks Masani to coordinate the state units that reject the merger and to keep the Karnataka authors informed of any steps taken. The final page is a Swatantra Party letterhead fragment bearing the slogan “DEFEND YOUR FUNDAMENTAL RIGHTS” and an attribution to Rajaji; the rendered pages also include a Kannada enclosure whose full contents are not translated here.
 ---
 
+## Summary
+
+This dated 12 August 1974 letter from the Karnataka State Swatantra Party’s treasurer P. S. Sridhara Murthy and joint secretary A. S. Nagabhushana Rao to M. R. Masani, editor of Freedom First, objects to the proposed merger of the Swatantra Party with the B.A.D. The writers explain that they could not attend the Delhi convention and announce a Karnataka meeting for 18 August to discuss the disadvantages of merger and the way the convention was conducted. They enclose a Kannada meeting notice and refer to a further letter addressed to N. K. Ganapaiah.
+
+The letter reports that five state units have opposed the merger and declared their intention to retain Swatantra’s name, flag, and symbol. It asks Masani to coordinate the state units that reject the merger and to keep the Karnataka authors informed of any steps taken. The final page is a Swatantra Party letterhead fragment bearing the slogan “DEFEND YOUR FUNDAMENTAL RIGHTS” and an attribution to Rajaji; the rendered pages also include a Kannada enclosure whose full contents are not translated here.
+
 ## Key points
 
 - The authors oppose the proposed merger of the Swatantra Party with the B.A.D.

@@ -61,6 +61,10 @@ summary: |-
   The draft presents a proposed National Alternative to Congress rule, arguing that India faces a combined crisis of rising prices, unemployment, corruption, shortages, injustice, institutional paralysis, electoral malpractice, and declining public confidence. It attributes these conditions to one-party dominance, weak and opportunistic opposition, foreign interference, communist infiltration, and a ruling party that has abandoned both principle and effective policy. The document argues that an alternative party is necessary both to create a constitutional outlet for popular frustration and to make government more accountable and responsive.
 ---
 
+## Summary
+
+The draft presents a proposed National Alternative to Congress rule, arguing that India faces a combined crisis of rising prices, unemployment, corruption, shortages, injustice, institutional paralysis, electoral malpractice, and declining public confidence. It attributes these conditions to one-party dominance, weak and opportunistic opposition, foreign interference, communist infiltration, and a ruling party that has abandoned both principle and effective policy. The document argues that an alternative party is necessary both to create a constitutional outlet for popular frustration and to make government more accountable and responsive.
+
 ## Key points
 
 - The document describes India as being endangered by inflation, unemployment, corruption, shortages, injustice, and political demoralisation.

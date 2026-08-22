@@ -63,6 +63,12 @@ summary: |-
   Masani attacks the Government’s socialist and statist approach across agriculture, industry, employment, monetary policy, and economic controls. He argues that planning has produced low agricultural productivity, wasteful public investment, unemployment, inflation, and excessive official discretion. His alternative is a genuinely mixed economy based on private and State enterprise competing freely, with greater scope for individual initiative and less bureaucratic control. In the foreign-policy passages visible here, he similarly criticises non-alignment as appeasement and argues that India’s response to communist aggression must be grounded in moral clarity and national defence. The rendered pages end during this discussion; the final seven PDF pages were not available for review.
 ---
 
+## Summary
+
+In this parliamentary speech, delivered in the Lok Sabha on 19 August 1963, Minoo Masani argues that public frustration with Congress reflects exhaustion with maladministration, corruption, rising prices, and the gap between stated policy and actual performance. He presents the electorate as open to political change, while insisting that the alternative must be judged by its ability to restore honesty, competence, and confidence in public life.
+
+Masani attacks the Government’s socialist and statist approach across agriculture, industry, employment, monetary policy, and economic controls. He argues that planning has produced low agricultural productivity, wasteful public investment, unemployment, inflation, and excessive official discretion. His alternative is a genuinely mixed economy based on private and State enterprise competing freely, with greater scope for individual initiative and less bureaucratic control. In the foreign-policy passages visible here, he similarly criticises non-alignment as appeasement and argues that India’s response to communist aggression must be grounded in moral clarity and national defence. The rendered pages end during this discussion; the final seven PDF pages were not available for review.
+
 ## Key points
 
 - Masani describes widespread public exasperation with maladministration, corruption, policy inconsistency, and the failure to deliver promised improvements.

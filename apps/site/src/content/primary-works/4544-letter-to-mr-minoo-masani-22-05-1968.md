@@ -51,6 +51,12 @@ summary: |-
   The letter maintains that Gujarat’s leadership initially accepted the undertaking, but that the composition of the Swatantra MLAs and State Executive had changed substantially by 1968. It also cites defections, suspected defections, and the difficulty of securing Vaidya’s election. The writer defends the National Executive’s handling of the dispute, describing its deliberation over three possible courses—inaction, indiscriminate punishment, or the disciplinary decision actually taken—and concludes that disciplinary action against the delinquents was necessary. The final page closes without further argument and bears an illegible handwritten signature.
 ---
 
+## Summary
+
+This three-page letter, dated 22 May 1968 and sent from the Swatantra Party central office, responds to M. R. Masani’s resignation from the National Executive and Central Parliamentary Board. The writer regrets that Masani released their correspondence to the press before seeing this reply, and argues that Masani’s condemnation of the Gujarat leadership overlooks the circumstances surrounding the 1966 undertaking to support Babubhai Vaidya for the Rajya Sabha in 1968.
+
+The letter maintains that Gujarat’s leadership initially accepted the undertaking, but that the composition of the Swatantra MLAs and State Executive had changed substantially by 1968. It also cites defections, suspected defections, and the difficulty of securing Vaidya’s election. The writer defends the National Executive’s handling of the dispute, describing its deliberation over three possible courses—inaction, indiscriminate punishment, or the disciplinary decision actually taken—and concludes that disciplinary action against the delinquents was necessary. The final page closes without further argument and bears an illegible handwritten signature.
+
 ## Key points
 
 - The letter replies to M. R. Masani’s resignation from the Swatantra Party’s National Executive and Central Parliamentary Board.

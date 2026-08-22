@@ -46,6 +46,10 @@ summary: |-
   This brief English-language letter, dated 5 July 1964, was sent from C. Rajagopalachari's Madras letterhead by S. Krishnamurthy Rao to S. V. Raju in Bombay. Rao asks Raju to refer to a letter from Rajaji to Masani and reports that the resolutions passed by the General Council have since been found. He therefore tells Raju that there is no need to send the resolutions.
 ---
 
+## Summary
+
+This brief English-language letter, dated 5 July 1964, was sent from C. Rajagopalachari's Madras letterhead by S. Krishnamurthy Rao to S. V. Raju in Bombay. Rao asks Raju to refer to a letter from Rajaji to Masani and reports that the resolutions passed by the General Council have since been found. He therefore tells Raju that there is no need to send the resolutions.
+
 ## Key points
 
 - The letter is dated 5 July 1964 and originates from Madras.

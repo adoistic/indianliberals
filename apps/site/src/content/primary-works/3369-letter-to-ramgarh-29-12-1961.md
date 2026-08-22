@@ -48,6 +48,12 @@ summary: |-
   The second and third pages contain a handwritten version or continuation of the same request, with references to furnishing the detailed statement, the location of the vehicles, and the signed agreement. The documents are administrative correspondence concerning the identification, distribution, and documentation of vehicles; no broader political or economic argument is developed in the rendered pages.
 ---
 
+## Summary
+
+This three-page file contains a memorandum dated 29 December 1961 from Ramgarh, signed “Masani,” requesting the Central Office to provide information by 2 January. The requested statement is to list the registration number, location, and name of the person possessing each of 77 new Jeeps, as well as older Jeeps supplied through the Central Stop. The sender also asks for the text of the agreement signed by the recipients.
+
+The second and third pages contain a handwritten version or continuation of the same request, with references to furnishing the detailed statement, the location of the vehicles, and the signed agreement. The documents are administrative correspondence concerning the identification, distribution, and documentation of vehicles; no broader political or economic argument is developed in the rendered pages.
+
 ## Key points
 
 - The memorandum is dated 29 December 1961 and marked from Ramgarh.

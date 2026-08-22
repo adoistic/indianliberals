@@ -50,6 +50,12 @@ summary: |-
   The remainder of the letter concerns organisational arrangements for the Swatantra Party Parliamentary Group. Masani refers to a group meeting on Sunday, September 6, a further meeting on Tuesday, September 8, and his own travel from Calcutta to Delhi to attend an Organisation Sub-Committee meeting. The document is administrative correspondence rather than a discussion of political principles.
 ---
 
+## Summary
+
+In this letter dated September 2, 1964, M. R. Masani asks A. P. Jain to obtain N. Dandekar’s signature on a list intended for the Speaker. Masani provides Dandekar’s Delhi lodging details and asks Jain to arrange a meeting after Dandekar’s arrival so that the signed document can be delivered.
+
+The remainder of the letter concerns organisational arrangements for the Swatantra Party Parliamentary Group. Masani refers to a group meeting on Sunday, September 6, a further meeting on Tuesday, September 8, and his own travel from Calcutta to Delhi to attend an Organisation Sub-Committee meeting. The document is administrative correspondence rather than a discussion of political principles.
+
 ## Key points
 
 - Masani asks A. P. Jain to secure N. Dandekar’s signature on a list for forwarding to the Speaker.

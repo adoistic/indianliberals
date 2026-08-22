@@ -49,6 +49,10 @@ summary: |-
   This one-page letter, dated July 19, 1967, is from M. R. Masani at 2 Tughlak Road, New Delhi, to the Secretary of the Lok Sabha. Masani states that he is enclosing a set of amendments to the Finance Bill (No. 2), 1967, and asks that the President's necessary recommendations be obtained so that he can move those amendments.
 ---
 
+## Summary
+
+This one-page letter, dated July 19, 1967, is from M. R. Masani at 2 Tughlak Road, New Delhi, to the Secretary of the Lok Sabha. Masani states that he is enclosing a set of amendments to the Finance Bill (No. 2), 1967, and asks that the President's necessary recommendations be obtained so that he can move those amendments.
+
 ## Key points
 
 - The document is a typed office letter dated July 19, 1967.

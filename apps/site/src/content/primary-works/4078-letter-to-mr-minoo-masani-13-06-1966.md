@@ -47,6 +47,10 @@ summary: |-
   This single-page English express telegram, dated 8 June 1966 and received on 13 June 1966, records A. P. Jain's arrangements for a meeting involving M. P. Masani and M. P. Dahyabhai Patel. Jain reports that the Prime Minister's Secretary has fixed the meeting for Monday, 13 June, at 5 p.m., and asks the recipients to confirm their arrival.
 ---
 
+## Summary
+
+This single-page English express telegram, dated 8 June 1966 and received on 13 June 1966, records A. P. Jain's arrangements for a meeting involving M. P. Masani and M. P. Dahyabhai Patel. Jain reports that the Prime Minister's Secretary has fixed the meeting for Monday, 13 June, at 5 p.m., and asks the recipients to confirm their arrival.
+
 ## Key points
 
 - The document is an express telegram rather than a conventional letter.

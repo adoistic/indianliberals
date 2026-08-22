@@ -64,6 +64,12 @@ summary: |-
   The speech then develops Rajaji’s political philosophy as a defence of individual dignity and freedom against an omniscient, interventionist State. Patel associates Rajaji’s opposition to controls, licences, concentration of power, and excessive state ownership with a broader concern for decentralisation, federalism, administrative responsibility, and the protection of civil servants from political interference. Rajaji is also remembered as a writer in Tamil and English whose retellings of the Ramayana and Mahabharata, journalism, and cultural teaching extended his influence beyond formal politics. The booklet closes by urging systematic study of his ideas rather than the creation of a personal cult. It is identified as the text of a speech delivered at a Rajaji Foundation subscription dinner in Bombay on January 22, 1978.
 ---
 
+## Summary
+
+In this memorial speech, H. M. Patel presents C. Rajagopalachari (Rajaji) as an intellectually formidable statesman whose authority rested not on a mass political base but on sharp intelligence, moral conviction, and sustained public service. Patel surveys Rajaji’s roles as politician, administrator, philosopher, social reformer, and writer, emphasizing his commitment to ethical politics, Gandhian social programmes, and the importance of moral values in public life. He also recalls Rajaji’s willingness to dissent from colleagues, including his advocacy in 1942 of accepting partition in principle as a means of securing the transfer of power from Britain to India.
+
+The speech then develops Rajaji’s political philosophy as a defence of individual dignity and freedom against an omniscient, interventionist State. Patel associates Rajaji’s opposition to controls, licences, concentration of power, and excessive state ownership with a broader concern for decentralisation, federalism, administrative responsibility, and the protection of civil servants from political interference. Rajaji is also remembered as a writer in Tamil and English whose retellings of the Ramayana and Mahabharata, journalism, and cultural teaching extended his influence beyond formal politics. The booklet closes by urging systematic study of his ideas rather than the creation of a personal cult. It is identified as the text of a speech delivered at a Rajaji Foundation subscription dinner in Bombay on January 22, 1978.
+
 ## Key points
 
 - Patel portrays Rajaji as a statesman whose intellectual and moral authority compensated for the absence of a mass political base.

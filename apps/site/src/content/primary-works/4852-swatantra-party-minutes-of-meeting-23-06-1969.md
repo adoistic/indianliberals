@@ -59,6 +59,12 @@ summary: |-
   The principal political discussions concerned the perceived communist and Naxalite threat, the 1969 presidential election, the Telangana agitation, and negotiations with the Bharatiya Kranti Dal (BKD) and Jan Sangh. The Executive declined to support the Samyukta Socialist Party’s proposal that Jayaprakash Narayan stand for president, instead recommending Pandit H. N. Kunzru or C. Subba Rao as non-party candidates. It supported continued negotiations toward a broad democratic party or, if an immediate merger proved impossible, a united parliamentary and legislative front. The annexures reproduce resolutions on the “Communist Menace” and Telangana, along with Prakash Vir Shastri’s responses on the proposed merger’s contentious issues, including reservations, language, large-scale industry, party identity, and the pace of integration.
 ---
 
+## Summary
+
+These minutes record the Swatantra Party National Executive meeting held at Kalki Buildings, Madras, on 22–23 June 1969. The meeting confirmed earlier minutes, mourned the deaths of President Zakir Hussain and other public figures, reviewed party organisation, considered a report on linguistic states, rejected an appeal by former regional secretary V. K. Poddar against disciplinary action, and accepted an invitation to hold the next General Council meeting in Bombay. The Executive also discussed the party’s response to K. M. Munshi’s public support for Congress candidate S. K. Patil in the Banaskatha by-election, expressing regret while recognising Munshi’s past value to the party.
+
+The principal political discussions concerned the perceived communist and Naxalite threat, the 1969 presidential election, the Telangana agitation, and negotiations with the Bharatiya Kranti Dal (BKD) and Jan Sangh. The Executive declined to support the Samyukta Socialist Party’s proposal that Jayaprakash Narayan stand for president, instead recommending Pandit H. N. Kunzru or C. Subba Rao as non-party candidates. It supported continued negotiations toward a broad democratic party or, if an immediate merger proved impossible, a united parliamentary and legislative front. The annexures reproduce resolutions on the “Communist Menace” and Telangana, along with Prakash Vir Shastri’s responses on the proposed merger’s contentious issues, including reservations, language, large-scale industry, party identity, and the pace of integration.
+
 ## Key points
 
 - The National Executive met in Madras on 22–23 June 1969 and confirmed the minutes of its February meeting.

@@ -48,3 +48,7 @@ ai:
 summary: |-
   This Lok Sabha periodical issue records parliamentary proceedings from 25–26 November 1959, including a motion concerning the proposed transfer of five Assam villages to Pakistan, a ministerial statement on the location of a second shipyard, and an extended debate on India-China relations. The India-China discussion centers on Chinese incursions, the status of Tibet and frontier territories, the practical limits of non-alignment and Panchsheel, defence preparedness, foreign aid, and the desirability of negotiation rather than war. Members differ over whether the Government has been too conciliatory or has pursued a reasonable, peace-oriented policy, but many call for stronger border infrastructure, military capacity, intelligence, and national unity.
 ---
+
+## Summary
+
+This Lok Sabha periodical issue records parliamentary proceedings from 25–26 November 1959, including a motion concerning the proposed transfer of five Assam villages to Pakistan, a ministerial statement on the location of a second shipyard, and an extended debate on India-China relations. The India-China discussion centers on Chinese incursions, the status of Tibet and frontier territories, the practical limits of non-alignment and Panchsheel, defence preparedness, foreign aid, and the desirability of negotiation rather than war. Members differ over whether the Government has been too conciliatory or has pursued a reasonable, peace-oriented policy, but many call for stronger border infrastructure, military capacity, intelligence, and national unity.

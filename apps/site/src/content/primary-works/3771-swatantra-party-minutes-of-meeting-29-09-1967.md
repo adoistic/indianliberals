@@ -58,6 +58,12 @@ summary: |-
   The minutes then review the party’s relations with governments and legislatures in Orissa, Mysore, Gujarat, Uttar Pradesh, Andhra, Rajasthan, Bihar, and Bengal. They record praise for aspects of the Orissa government’s work, concern about defections and factional arrangements in several states, and instructions to withdraw from the United Front in Uttar Pradesh and Rajasthan while strengthening the party’s role as an opposition. The document concludes with an attached two-page Code of Conduct for Ministers from Swatantra Party, Orissa, addressing disclosure of assets, conflicts of interest, gifts, business activities, political contributions, debts, and confidential investigation procedures.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Central Parliamentary Board meeting held at Kalki Buildings, Madras, on September 29, 1967. The Board reviewed the party’s performance in Parliament and considered its position on a proposed constitutional amendment, social control of banking, nationalisation of general insurance, and the Monopolies Bill. It supported limiting the constitutional amendment to Fundamental Rights and opposed measures that would unduly interfere with the autonomous working of commercial banks or expand nationalisation.
+
+The minutes then review the party’s relations with governments and legislatures in Orissa, Mysore, Gujarat, Uttar Pradesh, Andhra, Rajasthan, Bihar, and Bengal. They record praise for aspects of the Orissa government’s work, concern about defections and factional arrangements in several states, and instructions to withdraw from the United Front in Uttar Pradesh and Rajasthan while strengthening the party’s role as an opposition. The document concludes with an attached two-page Code of Conduct for Ministers from Swatantra Party, Orissa, addressing disclosure of assets, conflicts of interest, gifts, business activities, political contributions, debts, and confidential investigation procedures.
+
 ## Key points
 
 - The Central Parliamentary Board met in Madras on September 29, 1967, with Prof. N. G. Ranga in the chair and Minoo Masani and N. Dandekar among those present.

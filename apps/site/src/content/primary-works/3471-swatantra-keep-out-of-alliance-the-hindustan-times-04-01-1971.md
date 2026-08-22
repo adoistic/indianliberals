@@ -52,6 +52,12 @@ summary: |-
   The Swatantra Party declined to join because it would not accept the front’s proposed common electoral programme. M. R. Masani argued that the party’s position required a full-fledged alliance based on an agreed programme and ideological commitment to democracy and secularism, rather than a looser arrangement focused only on seat adjustments. The continuation reports disagreement among the participating parties over whether the proposed front could provide a credible alternative government.
 ---
 
+## Summary
+
+This Hindustan Times report dated 4 January 1971 describes the launch in New Delhi of a “national democratic front” intended to defeat Congress (N) candidates in the coming Lok Sabha elections. The front brought together Congress (O), the Jan Sangh and the Samyukta Socialist Party (SSP), which agreed to coordinate candidates and campaign against the Indira Gandhi government, described in the report as authoritarian and anti-democratic.
+
+The Swatantra Party declined to join because it would not accept the front’s proposed common electoral programme. M. R. Masani argued that the party’s position required a full-fledged alliance based on an agreed programme and ideological commitment to democracy and secularism, rather than a looser arrangement focused only on seat adjustments. The continuation reports disagreement among the participating parties over whether the proposed front could provide a credible alternative government.
+
 ## Key points
 
 - A national democratic front was launched in New Delhi to oppose Congress (N) in the Lok Sabha elections.

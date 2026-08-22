@@ -45,6 +45,12 @@ summary: |-
   He then gives practical travel information, explaining that he will take a Caravelle flight from Madras on Sunday, 28 June, departing at 2:30 p.m. and reaching Bombay in the evening. The affectionate salutation and closing convey a close personal relationship; handwritten marginal notes and a receipt stamp are also visible on the sheet.
 ---
 
+## Summary
+
+This single-sheet personal letter, dated 21 June 1964, is from C. Rajagopalachari to K. M. Munshi. Rajagopalachari expresses concern for Munshi’s recovery after eye surgery and hopes that the surgeons have left his vision functioning without pain or inconvenience.
+
+He then gives practical travel information, explaining that he will take a Caravelle flight from Madras on Sunday, 28 June, departing at 2:30 p.m. and reaching Bombay in the evening. The affectionate salutation and closing convey a close personal relationship; handwritten marginal notes and a receipt stamp are also visible on the sheet.
+
 ## Key points
 
 - The letter is dated 21 June 1964 and is addressed to Shri K. M. Munshi.

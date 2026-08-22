@@ -51,6 +51,12 @@ summary: |-
   The article reports Mody’s criticism of the party’s internal difficulties, including defeatism, insufficient discussion of policy, and a failure to build an effective organisation. It also records M. R. Pai’s call for the party to develop a “superior philosophy” and resist inflation, unemployment, chronic poverty, and excessive state control. Minoo Masani is quoted as warning against false starts and short-term tactics, urging the party to present a practical alternative and to pursue cooperation with other groups rather than become merely a counter-force to the ruling Congress.
 ---
 
+## Summary
+
+This one-page newspaper report from Madras covers the opening session of the Swatantra Party’s national convention on April 14. It presents the gathering as focused on the party’s need for revival and reorganisation, with party president Piloo Mody arguing that the party could still provide a constructive alternative to Congress and its leadership. The report notes that more than 1,000 delegates from 14 States attended and that the audience responded enthusiastically to Mody’s address.
+
+The article reports Mody’s criticism of the party’s internal difficulties, including defeatism, insufficient discussion of policy, and a failure to build an effective organisation. It also records M. R. Pai’s call for the party to develop a “superior philosophy” and resist inflation, unemployment, chronic poverty, and excessive state control. Minoo Masani is quoted as warning against false starts and short-term tactics, urging the party to present a practical alternative and to pursue cooperation with other groups rather than become merely a counter-force to the ruling Congress.
+
 ## Key points
 
 - The Swatantra Party’s national convention is presented as a call to resurrect and strengthen the party.

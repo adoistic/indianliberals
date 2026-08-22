@@ -50,6 +50,12 @@ summary: |-
   The document is a brief private exchange focused on editorial or intellectual disagreement surrounding Erhard’s article. No further details about the article’s argument or the disputed issue are provided on the visible page.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to C. Rajagopalachari, dated July 31, 1964, responds to Rajagopalachari’s letter of July 28 concerning Ludwig Erhard’s article in Pacific Affairs. Masani advises that they should leave the matter alone rather than enter into what he considers an unnecessary argument.
+
+The document is a brief private exchange focused on editorial or intellectual disagreement surrounding Erhard’s article. No further details about the article’s argument or the disputed issue are provided on the visible page.
+
 ## Key points
 
 - The letter is dated July 31, 1964.

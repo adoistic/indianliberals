@@ -48,6 +48,12 @@ summary: |-
   Raju notes that Minoo Masani has supported the project and transferred his own files and documents. He says that records at the party's former national headquarters remain inaccessible because the premises are illegally occupied by former Janata Member of Parliament Ratansinh Raja. Raju offers to return any papers or deposit them in Bombay University's archives, and closes by reminding the recipient that he served as the party's Executive Secretary for fourteen years. The page carries a handwritten circled archival number, “3165,” but no printed date or recipient name.
 ---
 
+## Summary
+
+In this one-page letter, S. V. Raju explains that he is undertaking doctoral research at Bombay University on the Swatantra Party's history from 1967 to 1974, following Howard Erdman's earlier study of the party's 1959–1966 period. He identifies Dr. S. P. Aiyar as his academic guide and asks the recipient to share any surviving Swatantra Party records, papers, and related material, as well as to participate in a later interview or questionnaire.
+
+Raju notes that Minoo Masani has supported the project and transferred his own files and documents. He says that records at the party's former national headquarters remain inaccessible because the premises are illegally occupied by former Janata Member of Parliament Ratansinh Raja. Raju offers to return any papers or deposit them in Bombay University's archives, and closes by reminding the recipient that he served as the party's Executive Secretary for fourteen years. The page carries a handwritten circled archival number, “3165,” but no printed date or recipient name.
+
 ## Key points
 
 - S. V. Raju was researching the Swatantra Party's 1967–1974 period for a Bombay University doctorate.

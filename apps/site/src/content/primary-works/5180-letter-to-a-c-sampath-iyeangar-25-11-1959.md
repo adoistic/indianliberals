@@ -45,6 +45,12 @@ summary: |-
   Masani declines a separate proposed visit to Calcutta on January 2 and 3 because he has already committed to meeting Shri Jayaprakash Narayan in Banaras on those dates. He asks Iyengar to excuse him and notes that Mr. Hunshi, who had been in New Delhi until two days earlier, has left for Bombay.
 ---
 
+## Summary
+
+This single-page English letter, dated November 25, 1959, is written by M. R. Masani from 40 Canning Lane, New Delhi, to Mr. A. C. Sampath Iyengar in Calcutta. Masani acknowledges Iyengar's letter of November 23 and a further communication concerning a proposed stay in Calcutta from December 4 to 7.
+
+Masani declines a separate proposed visit to Calcutta on January 2 and 3 because he has already committed to meeting Shri Jayaprakash Narayan in Banaras on those dates. He asks Iyengar to excuse him and notes that Mr. Hunshi, who had been in New Delhi until two days earlier, has left for Bombay.
+
 ## Key points
 
 - The letter is dated November 25, 1959, and originates from 40 Canning Lane, New Delhi 1.

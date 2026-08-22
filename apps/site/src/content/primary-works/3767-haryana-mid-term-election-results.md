@@ -53,6 +53,12 @@ summary: |-
   Annexure B evaluates the Party’s performance in the Dausa and Chomu by-elections. It attributes the defeats both to alleged misuse of governmental machinery by Congress and to serious Swatantra organisational failures: weak central coordination, independent-minded candidates, inadequate local campaign organisation, poor polling-day arrangements, insufficient polling agents, unsuitable candidate selection, and the failure to maintain support among the Gujar community. The report contrasts Congress’s centrally managed campaign with what it calls Swatantra’s “thoroughly mismanaged amalgamation of heterogeneous elements,” and concludes that the Party failed to reproduce the organisation and Party-line campaigning associated with the late Charanjit Rai’s 1967 victory.
 ---
 
+## Summary
+
+This four-page English-language Swatantra Party report contains two annexures. Annexure A tabulates Haryana mid-term election results, grouping constituencies by whether Swatantra candidates won, finished second, finished third, or lost their security deposit. The tables record electorate size, votes polled, candidate names, party affiliations, and vote totals; Swatantra won Julana and Narnaud and placed second in a further set of constituencies, while five candidates are listed as having lost their security deposits.
+
+Annexure B evaluates the Party’s performance in the Dausa and Chomu by-elections. It attributes the defeats both to alleged misuse of governmental machinery by Congress and to serious Swatantra organisational failures: weak central coordination, independent-minded candidates, inadequate local campaign organisation, poor polling-day arrangements, insufficient polling agents, unsuitable candidate selection, and the failure to maintain support among the Gujar community. The report contrasts Congress’s centrally managed campaign with what it calls Swatantra’s “thoroughly mismanaged amalgamation of heterogeneous elements,” and concludes that the Party failed to reproduce the organisation and Party-line campaigning associated with the late Charanjit Rai’s 1967 victory.
+
 ## Key points
 
 - Annexure A records Haryana mid-term election outcomes by constituency and finishing position.

@@ -50,6 +50,10 @@ summary: |-
   This damaged bilingual court file, catalogued in Marathi, consists of Bombay High Court petition forms, handwritten endorsements, correspondence, and case-management notes. The visible forms identify the court as “उच्च न्यायालय मुंबई” (Bombay High Court) and refer to a writ, appeal, or application. The applicant fields contain handwritten references to Rajiv Patil and the Swatantra Party, while the respondent field is partly illegible. The file also includes an advocate’s name, Rajiv Patil, printed at the foot of one form.
 ---
 
+## Summary
+
+This damaged bilingual court file, catalogued in Marathi, consists of Bombay High Court petition forms, handwritten endorsements, correspondence, and case-management notes. The visible forms identify the court as “उच्च न्यायालय मुंबई” (Bombay High Court) and refer to a writ, appeal, or application. The applicant fields contain handwritten references to Rajiv Patil and the Swatantra Party, while the respondent field is partly illegible. The file also includes an advocate’s name, Rajiv Patil, printed at the foot of one form.
+
 ## Key points
 
 - The record is a damaged Bombay High Court petition or case file rather than a published political or theoretical work.

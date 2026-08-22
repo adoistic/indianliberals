@@ -52,6 +52,12 @@ summary: |-
   The letter then turns to electoral litigation and party organization. Rajagopalachari asks whether the Gujarat Party is taking cases involving the invalidation of elections to the Supreme Court and seeking leave to appeal and stays of execution in the High Court. He also refers to Mr. Katti's nomination and urges Masani's associates in Bombay to raise funds for his campaign, while expressing concern that Bombay may become conciliatory toward Morarji Desai and support the Congress. The page is a complete one-page letter; the visible 1 April 1963 stamp appears to be a receipt or filing mark rather than the composition date.
 ---
 
+## Summary
+
+In this letter dated 29 March 1963, C. Rajagopalachari writes to Minoo Masani about the Bombay Stock Exchange's representation to the Government concerning the proposed Super Profits Tax. Rajagopalachari criticizes the Exchange for offering proposals to soften or limit the tax, arguing that its members are relying on Morarji Desai rather than resisting the measure more firmly. He dismisses their request that the tax be collected only during the Emergency as a concession that would prolong the Emergency itself.
+
+The letter then turns to electoral litigation and party organization. Rajagopalachari asks whether the Gujarat Party is taking cases involving the invalidation of elections to the Supreme Court and seeking leave to appeal and stays of execution in the High Court. He also refers to Mr. Katti's nomination and urges Masani's associates in Bombay to raise funds for his campaign, while expressing concern that Bombay may become conciliatory toward Morarji Desai and support the Congress. The page is a complete one-page letter; the visible 1 April 1963 stamp appears to be a receipt or filing mark rather than the composition date.
+
 ## Key points
 
 - Rajagopalachari responds to the Bombay Stock Exchange's proposals concerning the Super Profits Tax.

@@ -46,6 +46,12 @@ summary: |-
   Because Ranga could not be reached by telephone and his whereabouts were unknown, Masani states that he has consulted Rajaji (C. Rajagopalachari) and is convening the meeting in Madras at 9 a.m. on Saturday, 8 August. He asks Ranga to reach Madras by plane on the night of the 7th and to wire back immediately confirming his attendance. The telegram is signed 'MASANI' with the sender's address given as Mr. M. R. Masani, 143 Mahatma Gandhi Road, Bombay 1. Page two of the scan reproduces the reverse side of the telegram form, containing only the standard 'Special Instructions' and 'Conditions on which the telegram is accepted' printed by the Indian Posts and Telegraphs department, with no additional substantive content.
 ---
 
+## Summary
+
+This is a short inland telegram sent by Minoo Masani from Bombay on 31 July 1964 to Professor N. G. Ranga, care of I. B. Rao at 36B Motilal Nehru Road, Calcutta 26. Masani reports that K. M. Munshi's report on the situation in Bihar has just been received, and that in view of the threatened defection of twelve members of the Swatantra Party in the Bihar assembly, an urgent meeting of the Organisation Sub-Committee is required.
+
+Because Ranga could not be reached by telephone and his whereabouts were unknown, Masani states that he has consulted Rajaji (C. Rajagopalachari) and is convening the meeting in Madras at 9 a.m. on Saturday, 8 August. He asks Ranga to reach Madras by plane on the night of the 7th and to wire back immediately confirming his attendance. The telegram is signed 'MASANI' with the sender's address given as Mr. M. R. Masani, 143 Mahatma Gandhi Road, Bombay 1. Page two of the scan reproduces the reverse side of the telegram form, containing only the standard 'Special Instructions' and 'Conditions on which the telegram is accepted' printed by the Indian Posts and Telegraphs department, with no additional substantive content.
+
 ## Key points
 
 - Inland telegram from Minoo Masani in Bombay to Prof. N. G. Ranga at a Calcutta address, dated 31 July 1964.

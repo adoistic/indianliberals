@@ -55,6 +55,12 @@ summary: |-
   The minutes also record legal and political business. L. R. Sampat reported that an appeal concerning a notice of motion against Courier Publications and others had been filed before the Small Causes Court. Members discussed the recent parliamentary elections, the resulting hung parliament, and the Bharatiya Janata Party's formation of a government with support from several parties, expressing concern that the government might not complete its full term. The meeting then ended with a vote of thanks.
 ---
 
+## Summary
+
+These three pages reproduce the minutes of the Swatantra Party, Maharashtra Executive Committee meeting held in Mumbai on 18 June 1998. S. Ramachandran chaired the meeting; attendance, leave of absence, and approval of earlier minutes are recorded. The committee reviewed and passed the party's income-and-expenditure account and balance sheet for the year ending 31 March 1998.
+
+The minutes also record legal and political business. L. R. Sampat reported that an appeal concerning a notice of motion against Courier Publications and others had been filed before the Small Causes Court. Members discussed the recent parliamentary elections, the resulting hung parliament, and the Bharatiya Janata Party's formation of a government with support from several parties, expressing concern that the government might not complete its full term. The meeting then ended with a vote of thanks.
+
 ## Key points
 
 - The Executive Committee met on 18 June 1998 at the Swatantra Party's Mumbai office.

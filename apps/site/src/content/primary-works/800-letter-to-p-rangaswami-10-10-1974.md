@@ -48,6 +48,12 @@ summary: |-
   Masani concludes that, judged by this standard, “the new movement” is destined to fail and become counter-productive. The letter therefore offers a brief intervention on political conduct, honesty, and the likely consequences of a contemporary political movement.
 ---
 
+## Summary
+
+In this one-page letter dated October 10, 1974, M. R. Masani replies to Mr. P. Rangaswami’s September 24 letter. Masani declines to continue their argument, stating that he believes political honesty is ultimately the best policy and presenting this as practical common sense rather than moral preaching.
+
+Masani concludes that, judged by this standard, “the new movement” is destined to fail and become counter-productive. The letter therefore offers a brief intervention on political conduct, honesty, and the likely consequences of a contemporary political movement.
+
 ## Key points
 
 - Masani acknowledges receiving and reading Rangaswami’s September 24 letter with interest.

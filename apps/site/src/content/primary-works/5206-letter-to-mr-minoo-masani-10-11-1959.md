@@ -50,6 +50,12 @@ summary: |-
   Shroff highlights a prospective supporter connected to C. R. Das: his cousin, the granddaughter of Das, is described as becoming a strong supporter. He also conveys an invitation from Mr. A. Mukherjee, managing director of Blaker & Company and a member of the Bengal Swatantra Party Committee, to an informal cocktail party intended to introduce Masani to these supporters. The letter closes with a brief logistical update about approximately forty new members waiting to be enrolled in Delhi.
 ---
 
+## Summary
+
+In this letter dated 10 November 1959, A. D. Shroff writes to Minoo Masani about unexpectedly strong enthusiasm for the newly formed Swatantra Party among Calcutta’s sophisticated social and business circles. He suggests that Bengali support could become an asset to the party, while acknowledging that it is too early to judge whether the enthusiasm will last or prove politically useful in the long term.
+
+Shroff highlights a prospective supporter connected to C. R. Das: his cousin, the granddaughter of Das, is described as becoming a strong supporter. He also conveys an invitation from Mr. A. Mukherjee, managing director of Blaker & Company and a member of the Bengal Swatantra Party Committee, to an informal cocktail party intended to introduce Masani to these supporters. The letter closes with a brief logistical update about approximately forty new members waiting to be enrolled in Delhi.
+
 ## Key points
 
 - Shroff reports unexpected enthusiasm for the Swatantra Party among Calcutta’s sophisticated social circle.

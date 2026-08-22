@@ -51,6 +51,14 @@ summary: |-
   Masani then discloses his own long-term strategy: each opposition party should keep building its own organisation, but bilateral discussions aimed at an electoral understanding for 1967 should begin. He notes that such discussions with Dr. Raghuvira had been well advanced when Raghuvira died, and that he proposes to resume them with the two or three other parties. If Kripalani nonetheless wishes to continue his own effort, Masani says he is welcome to do so — Masani will "sit back" and let others show the same enthusiasm for unity. He closes by placing himself entirely at Kripalani's disposal for a meeting with Rajaji and J.P. anywhere in India, and sends warm regards from his wife Sakuntala.
 ---
 
+## Summary
+
+Writing from the Swatantra Party central office in Bombay on 8 June 1963, Minoo Masani responds to Acharya J. B. Kripalani's letter of 3 June about a six-point minimum programme for Opposition unity. Masani reports that he had already been buttonholed by the Bombay press in Ahmedabad and had, reluctantly, given a four-point public reply — which he encloses as clippings — while making clear that any authoritative party position could only come from a properly convened meeting of the Swatantra Central Organising Committee and Parliamentary Board.
+
+He uses the letter to draw a sharper personal line. Though he appreciates Kripalani's efforts and personally finds little to object to in the six points, he sees "great difficulties" in the way of a formal Opposition Bloc or Front bound to a minimum programme, and does not believe that an attempt at ideological agreement is worth making at this time. The sounder path, in his view, is what the Swatantra Party, the PSP, the Jan Sangh and the Socialist Party have already been doing inside and outside Parliament for the past two years — joint action on agreed issues, without any negotiated agreement as a precondition — and he cites the Amroha and Rajkot by-elections as examples, welcoming a similar-toned statement by Madhu Limaye in that morning's Times of India.
+
+Masani then discloses his own long-term strategy: each opposition party should keep building its own organisation, but bilateral discussions aimed at an electoral understanding for 1967 should begin. He notes that such discussions with Dr. Raghuvira had been well advanced when Raghuvira died, and that he proposes to resume them with the two or three other parties. If Kripalani nonetheless wishes to continue his own effort, Masani says he is welcome to do so — Masani will "sit back" and let others show the same enthusiasm for unity. He closes by placing himself entirely at Kripalani's disposal for a meeting with Rajaji and J.P. anywhere in India, and sends warm regards from his wife Sakuntala.
+
 ## Key points
 
 - Letter from Minoo Masani, on Swatantra Party letterhead (Sassoon Building, Bombay), to Acharya J. B. Kripalani M.P. in Lucknow, dated 8 June 1963.

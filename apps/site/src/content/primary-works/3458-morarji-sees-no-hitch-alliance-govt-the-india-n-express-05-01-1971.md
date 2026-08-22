@@ -51,6 +51,12 @@ summary: |-
   A second Express News Service report describes Desai's proposal for a broad electoral front bringing together the SSP, BLD, and other parties, including those associated with the Swatantra Party and Jan Sangh. He presents such an arrangement as a possible way to dislodge the New Congress, while noting M. R. Masani's objection to the SSP's insistence on adjustment on an issue-by-issue basis. The page does not identify a named author or provide wider issue metadata.
 ---
 
+## Summary
+
+This 5 January 1971 Indian Express clipping reports Morarji Desai's views on the possibility of an alliance government at the Centre. Desai says differences over foreign policy should not prevent cooperation, while making clear that his party would reject a confederation of India and Pakistan. He also denies that the Sangh is promoting a war against Pakistan and calls the confederation proposal impractical because of deep-rooted suspicion on both sides.
+
+A second Express News Service report describes Desai's proposal for a broad electoral front bringing together the SSP, BLD, and other parties, including those associated with the Swatantra Party and Jan Sangh. He presents such an arrangement as a possible way to dislodge the New Congress, while noting M. R. Masani's objection to the SSP's insistence on adjustment on an issue-by-issue basis. The page does not identify a named author or provide wider issue metadata.
+
 ## Key points
 
 - Morarji Desai sees no immediate obstacle to an alliance government at the Centre despite differences over foreign policy.

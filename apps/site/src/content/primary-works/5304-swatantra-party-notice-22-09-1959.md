@@ -47,6 +47,10 @@ summary: |-
   This one-page English-language notice, issued on Swatantra Party (Bombay Office) letterhead, announces a meeting of the Organising Committee on Thursday, 24 September 1959, at 6 p.m. at the Party Office. It requests the recipient's attendance.
 ---
 
+## Summary
+
+This one-page English-language notice, issued on Swatantra Party (Bombay Office) letterhead, announces a meeting of the Organising Committee on Thursday, 24 September 1959, at 6 p.m. at the Party Office. It requests the recipient's attendance.
+
 ## Key points
 
 - The document is headed "NOTICE".

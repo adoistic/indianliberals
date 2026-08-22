@@ -45,6 +45,10 @@ summary: |-
   This single-page letter from M. R. Masani to Principal Mohan Murari is dated 1 December 1959. Masani acknowledges Murari’s letter of 25 November, explaining that it reached him in Bombay only after he had already left. He then says he expects to be in Delhi from Christmas until the New Year and suggests arranging a telephone call and appointment.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani to Principal Mohan Murari is dated 1 December 1959. Masani acknowledges Murari’s letter of 25 November, explaining that it reached him in Bombay only after he had already left. He then says he expects to be in Delhi from Christmas until the New Year and suggests arranging a telephone call and appointment.
+
 ## Key points
 
 - The letter is dated 1 December 1959.

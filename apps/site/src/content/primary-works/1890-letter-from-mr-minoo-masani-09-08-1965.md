@@ -52,6 +52,12 @@ summary: |-
   Masani agrees that Jain should issue a party whip, in the absence of Mr. Hanumantha Reddy, asking members to attend the Lok Sabha on the morning of 16 August and, if possible, the party meeting on 15 August. He adds that fixing the date for elections of the party's office-bearers could wait until the following month.
 ---
 
+## Summary
+
+This one-page letter, dated 9 August 1965, records M. R. Masani's response to A. P. Jain concerning the Swatantra Party Parliamentary Group. Masani notes that their letters have crossed and refers to copies of a no-confidence motion and a notice for a Parliamentary Group meeting scheduled for 15 August.
+
+Masani agrees that Jain should issue a party whip, in the absence of Mr. Hanumantha Reddy, asking members to attend the Lok Sabha on the morning of 16 August and, if possible, the party meeting on 15 August. He adds that fixing the date for elections of the party's office-bearers could wait until the following month.
+
 ## Key points
 
 - The letter is dated 9 August 1965 and is addressed to A. P. Jain.

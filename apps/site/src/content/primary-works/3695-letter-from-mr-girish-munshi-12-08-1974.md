@@ -52,6 +52,12 @@ summary: |-
   The resolution maintains that the Swatantra Party was the only national party among the seven parties expected to dissolve, and that its principles and policies had been formulated in response to India's critical situation. It further argues that a broad coalition containing parties with divergent interpretations of a general programme would make no advance toward a genuinely national alternative. The letter also warns that an alliance involving the Congress (O) and the Jan Sangh would preserve their separate identities and electoral advantages, while potentially benefiting the ruling Congress. Munshi concludes by stating that the convention rejected the proposal to dissolve the Swatantra Party.
 ---
 
+## Summary
+
+In this letter dated 12 August 1974, Girish Munshi writes to the editor of The Times of India on behalf of members of the Maharashtra unit of the Swatantra Party who opposed the party's dissolution. He reproduces a resolution moved at the party's seventh National Convention in New Delhi on 4–5 August 1974, arguing that dissolving the Swatantra Party and other parties to create a new national alternative would not produce a coherent political force.
+
+The resolution maintains that the Swatantra Party was the only national party among the seven parties expected to dissolve, and that its principles and policies had been formulated in response to India's critical situation. It further argues that a broad coalition containing parties with divergent interpretations of a general programme would make no advance toward a genuinely national alternative. The letter also warns that an alliance involving the Congress (O) and the Jan Sangh would preserve their separate identities and electoral advantages, while potentially benefiting the ruling Congress. Munshi concludes by stating that the convention rejected the proposal to dissolve the Swatantra Party.
+
 ## Key points
 
 - The letter responds to an editorial in The Times of India concerning the proposed dissolution of the Swatantra Party.

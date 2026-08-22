@@ -51,6 +51,12 @@ summary: |-
   Munshi acknowledges resolutions passed by the Parliamentary Board, saying that they clarify the views attributed to Rajagopalachari and Masani on the question under discussion. He broadly approves of the resolutions but distances himself from the Congress and Prime Minister’s position, which he says is chiefly responsible for misunderstandings in Indo-Pak relations. The letter is signed as a true copy on behalf of Munshi.
 ---
 
+## Summary
+
+In this one-page letter dated May 19, 1964, K. M. Munshi writes to C. Rajagopalachari (“Rajaji”) from Bharatiya Vidya Bhavan in Bombay. Munshi reports that he is recovering from illness but will need to wait a month before receiving suitable glasses that will allow him to read or write.
+
+Munshi acknowledges resolutions passed by the Parliamentary Board, saying that they clarify the views attributed to Rajagopalachari and Masani on the question under discussion. He broadly approves of the resolutions but distances himself from the Congress and Prime Minister’s position, which he says is chiefly responsible for misunderstandings in Indo-Pak relations. The letter is signed as a true copy on behalf of Munshi.
+
 ## Key points
 
 - The letter is dated May 19, 1964, and was sent from Bharatiya Vidya Bhavan, Bombay.

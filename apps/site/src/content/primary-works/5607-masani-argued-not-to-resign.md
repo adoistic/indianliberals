@@ -52,6 +52,12 @@ summary: |-
   The typed resolution records that the Swatantra Party General Council, on a motion by Mr. P. K. Deo, unanimously expressed concern about growing central interference in the functioning of state governments and about the use of governors to install minority governments. The document therefore frames state autonomy, constitutional conventions, and party-political conduct as connected governance concerns. No publication date, place, formal title, or author byline is printed on the pages.
 ---
 
+## Summary
+
+This two-page English occasional paper combines a newspaper clipping with a typed Swatantra Party resolution. The clipping, headed “Masani urged not to resign,” reports an appeal to Minoo Masani to remain in the party and refers to disagreements over party leadership and political strategy. Its poor condition and partial legibility limit the detail that can be securely recovered.
+
+The typed resolution records that the Swatantra Party General Council, on a motion by Mr. P. K. Deo, unanimously expressed concern about growing central interference in the functioning of state governments and about the use of governors to install minority governments. The document therefore frames state autonomy, constitutional conventions, and party-political conduct as connected governance concerns. No publication date, place, formal title, or author byline is printed on the pages.
+
 ## Key points
 
 - The document includes a newspaper clipping headed “Masani urged not to resign.”

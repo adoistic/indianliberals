@@ -52,6 +52,12 @@ summary: |-
   The report says Munshi made the remarks at a luncheon meeting of the Rotary Club of Bombay, speaking on “the emergency and its implications.” The clipping records his position but provides no broader account of the emergency, its legal basis, or the discussion at the meeting.
 ---
 
+## Summary
+
+This one-page Hindustan Times clipping reports a June 25 statement in Bombay by K. M. Munshi, identified as a leader of the Swatantra Party. Munshi argued that the national emergency should continue until India was sufficiently militarily strong to meet the perceived Chinese challenge and deter neighbouring countries from contemplating war.
+
+The report says Munshi made the remarks at a luncheon meeting of the Rotary Club of Bombay, speaking on “the emergency and its implications.” The clipping records his position but provides no broader account of the emergency, its legal basis, or the discussion at the meeting.
+
 ## Key points
 
 - The clipping reports a statement by K. M. Munshi, a Swatantra Party leader.

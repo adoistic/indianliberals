@@ -46,6 +46,10 @@ summary: |-
   This one-page typed communication, dated March 22, 1974, is addressed to R. C. Sharma of the Swatantra Party in New Delhi. Identified only as “MASANI,” the sender conveys greetings to the delegates and urges them to uphold the Swatantra principle rather than follow the prevailing fashion in politics. The document is marked “ORDINARY” and notes that a confirmation copy was sent by post from Bombay.
 ---
 
+## Summary
+
+This one-page typed communication, dated March 22, 1974, is addressed to R. C. Sharma of the Swatantra Party in New Delhi. Identified only as “MASANI,” the sender conveys greetings to the delegates and urges them to uphold the Swatantra principle rather than follow the prevailing fashion in politics. The document is marked “ORDINARY” and notes that a confirmation copy was sent by post from Bombay.
+
 ## Key points
 
 - The document is a one-page Swatantra Party communication dated March 22, 1974.

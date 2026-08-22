@@ -58,6 +58,10 @@ summary: |-
   “Swatantra in the Future: Achievements & Aspirations” is the text of H. P. Nanda’s address to the Swatantra Party’s eighth-anniversary celebrations, delivered at Sapru House, New Delhi, on 4 June 1967. Nanda presents the anniversary as an occasion for stock-taking rather than sentiment, recounting the party’s emergence under C. Rajagopalachari (Rajaji) in opposition to Congress dominance, socialist rhetoric, and what he calls the “steam roller” methods of Congress leadership. He credits Swatantra with restoring political sanity, defending national traditions, and challenging the idea of the state as a disguised welfare-state authority.
 ---
 
+## Summary
+
+“Swatantra in the Future: Achievements & Aspirations” is the text of H. P. Nanda’s address to the Swatantra Party’s eighth-anniversary celebrations, delivered at Sapru House, New Delhi, on 4 June 1967. Nanda presents the anniversary as an occasion for stock-taking rather than sentiment, recounting the party’s emergence under C. Rajagopalachari (Rajaji) in opposition to Congress dominance, socialist rhetoric, and what he calls the “steam roller” methods of Congress leadership. He credits Swatantra with restoring political sanity, defending national traditions, and challenging the idea of the state as a disguised welfare-state authority.
+
 ## Key points
 
 - Nanda frames the eighth anniversary as an opportunity for introspection and assessment of Swatantra’s achievements and future aspirations.

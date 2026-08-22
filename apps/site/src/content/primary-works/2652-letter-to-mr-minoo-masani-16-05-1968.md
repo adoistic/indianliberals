@@ -47,6 +47,12 @@ summary: |-
   The letter explains that appointment would require consultation with the State Public Service Commission and advertisement of the post. Patel asks Masani to suggest the appropriate age, qualifications, and experience for candidates, noting a provisional monthly remuneration of Rs. 2,000–2,500. The document does not include Masani's original proposal or any subsequent decision.
 ---
 
+## Summary
+
+This one-page official letter, dated 16 May 1968 and sent from Bhubaneswar, records Harihar Patel's response to Minoo Masani's proposal to upgrade Orissa's Public Relations Organisation. Patel says the proposal has been under consideration and indicates that the proposed Public Relations Adviser would need to be appointed on a contract basis because of the nature of the functions involved.
+
+The letter explains that appointment would require consultation with the State Public Service Commission and advertisement of the post. Patel asks Masani to suggest the appropriate age, qualifications, and experience for candidates, noting a provisional monthly remuneration of Rs. 2,000–2,500. The document does not include Masani's original proposal or any subsequent decision.
+
 ## Key points
 
 - The letter acknowledges Minoo Masani's 14 March 1968 proposal concerning Orissa's Public Relations Organisation.

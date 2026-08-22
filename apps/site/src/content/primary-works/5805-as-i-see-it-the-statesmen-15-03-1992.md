@@ -53,6 +53,12 @@ summary: |-
   Masani welcomes the Budget’s reduction of the fiscal deficit, direct-tax concessions, the response of industrialists, limited import liberalisation, and limited convertibility of the rupee. He nevertheless says the Budget must be judged by whether it balances stimulating growth with controlling prices. The column also praises the Finance Minister, Dr Manmohan Singh, for handling a hostile parliamentary reception, and closes by commending M. R. Pai’s campaign against the new telephone directory system.
 ---
 
+## Summary
+
+In this “As I See It” column, Minoo Masani attacks what he presents as a misleading press controversy over the Union Finance Minister’s alleged “leaking” of Budget details to the World Bank. He argues that the substance of the Budget—measures for liberalising the economy—had already been announced and that the leak story distracts from more important questions. He also criticises newspaper reporting and politicians who, in his view, invoke “socialism” for illegitimate purposes, and recalls his own experience as a Lok Sabha Opposition spokesman during earlier Budget debates.
+
+Masani welcomes the Budget’s reduction of the fiscal deficit, direct-tax concessions, the response of industrialists, limited import liberalisation, and limited convertibility of the rupee. He nevertheless says the Budget must be judged by whether it balances stimulating growth with controlling prices. The column also praises the Finance Minister, Dr Manmohan Singh, for handling a hostile parliamentary reception, and closes by commending M. R. Pai’s campaign against the new telephone directory system.
+
 ## Key points
 
 - Masani rejects the press controversy over an alleged Budget leak to the World Bank as misleading and distracting.

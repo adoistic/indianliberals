@@ -49,6 +49,10 @@ summary: |-
   This two-page English correspondence from February 1964 records an exchange between M. R. Masani and C. Rajagopalachari concerning a Commerce editorial and its demand for a "plan" amendment. Rajagopalachari describes the demand as unreasonable, while acknowledging that some readers might regard it as a reasonable criticism and asking Masani whether he is inclined to examine the issue.
 ---
 
+## Summary
+
+This two-page English correspondence from February 1964 records an exchange between M. R. Masani and C. Rajagopalachari concerning a Commerce editorial and its demand for a "plan" amendment. Rajagopalachari describes the demand as unreasonable, while acknowledging that some readers might regard it as a reasonable criticism and asking Masani whether he is inclined to examine the issue.
+
 ## Key points
 
 - The record contains two related letters exchanged between M. R. Masani and C. Rajagopalachari in February 1964.

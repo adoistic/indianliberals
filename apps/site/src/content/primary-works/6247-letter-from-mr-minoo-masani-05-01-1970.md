@@ -46,6 +46,12 @@ summary: |-
   The document is a brief item of personal correspondence rather than a substantive political or economic statement. Its page also contains a circled archival number, handwritten annotations, and the typed recipient address.
 ---
 
+## Summary
+
+This one-page English letter from M. R. Masani to Zafar Puthkelly is dated 5 January 1970. Masani acknowledges Puthkelly’s letter of 1 January and says that he is due to leave Bombay that evening. He undertakes to consider Puthkelly’s suggestions and discuss them when he returns toward the end of the month.
+
+The document is a brief item of personal correspondence rather than a substantive political or economic statement. Its page also contains a circled archival number, handwritten annotations, and the typed recipient address.
+
 ## Key points
 
 - The letter is dated 5 January 1970.

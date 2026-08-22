@@ -52,6 +52,10 @@ summary: |-
   This undated internal Swatantra Party file summary records organisational, nomination, and election-finance matters from February 1965 through February 1967. It notes the General Council's endorsement of the General Secretary's organisational proposals, a Central Parliamentary Board decision to reject C. C. Desai's Rajya Sabha nomination in favour of Dr. Beharilal Anantani, and subsequent protests and correspondence involving B. D. Patel, Baria, M. R. Masani, and C. Rajagopalachari.
 ---
 
+## Summary
+
+This undated internal Swatantra Party file summary records organisational, nomination, and election-finance matters from February 1965 through February 1967. It notes the General Council's endorsement of the General Secretary's organisational proposals, a Central Parliamentary Board decision to reject C. C. Desai's Rajya Sabha nomination in favour of Dr. Beharilal Anantani, and subsequent protests and correspondence involving B. D. Patel, Baria, M. R. Masani, and C. Rajagopalachari.
+
 ## Key points
 
 - The General Council meeting in Bombay on 13 February 1965 endorsed the General Secretary's organisational proposals and asked the National Executive to implement them.

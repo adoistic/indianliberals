@@ -56,6 +56,12 @@ summary: |-
   The closing argument identifies two sources of Cole’s prolonged sympathy for the Soviet model: ignorance combined with an insular assumption that other countries should emulate Britain’s advantages, and an early conviction that private profit was the root of all evil. Beloff argues that this produced a Manichaean political outlook—“Socialism, good - Capitalism, bad”—which allowed any regime calling itself socialist to appear superior. The extract also records Margaret Cole’s account of her husband’s late-life mental suffering as he admitted the horrors produced by Stalinism, though he still maintained that the United States was worse. It ends by placing Cole’s influence among Labour writers above that of Karl Marx, while noting his hostility to Harold Laski.
 ---
 
+## Summary
+
+Max Beloff’s extract from Encounter (February 1972) examines G. D. H. Cole’s attraction to Soviet socialism and the difficulty he had in acknowledging the regime’s oppressive realities. The extract contrasts Cole’s confidence in Soviet nationalities policy and collectivisation with the later evidence of suppression, Stalinism, and “democratic centralism.” It presents Cole as someone who saw Soviet Russia as a negation of industrial capitalism and private profit, while failing to examine the Soviet system with comparable scepticism.
+
+The closing argument identifies two sources of Cole’s prolonged sympathy for the Soviet model: ignorance combined with an insular assumption that other countries should emulate Britain’s advantages, and an early conviction that private profit was the root of all evil. Beloff argues that this produced a Manichaean political outlook—“Socialism, good - Capitalism, bad”—which allowed any regime calling itself socialist to appear superior. The extract also records Margaret Cole’s account of her husband’s late-life mental suffering as he admitted the horrors produced by Stalinism, though he still maintained that the United States was worse. It ends by placing Cole’s influence among Labour writers above that of Karl Marx, while noting his hostility to Harold Laski.
+
 ## Key points
 
 - The extract reassesses G. D. H. Cole’s favourable interpretation of Soviet socialism.

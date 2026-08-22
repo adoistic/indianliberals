@@ -54,6 +54,12 @@ summary: |-
   The second resolution congratulates Jayaprakash Narayan on his non-violent struggle, particularly noting the support of students in Bihar. It presents the movement as a warning to the Congress government and expresses confidence in its successful conclusion. The third resolution asks the Haryana Government to investigate the arrest of Ramander Kalia, Joint Secretary of the Swatantra Party in Haryana, alleging that the absence of stated reasons could raise suspicions of political vendetta. The sheet is marked “FOR FAVOUR OF PUBLICATION” and ends with a separate “NOT FOR PUBLICATION” signature section signed by V. P. Bhatia.
 ---
 
+## Summary
+
+This one-page Swatantra Party document records three resolutions adopted at the General Council meeting held at Vithalbhai Patel House, New Delhi, on 9–10 June 1974. The first resolution supports efforts by different parties to create a “National Alternative,” but insists that the Swatantra Party’s final decision be taken at a National Convention after members have had the opportunity to examine the proposed programme. The Council authorises the President to arrange the convention at the earliest opportunity.
+
+The second resolution congratulates Jayaprakash Narayan on his non-violent struggle, particularly noting the support of students in Bihar. It presents the movement as a warning to the Congress government and expresses confidence in its successful conclusion. The third resolution asks the Haryana Government to investigate the arrest of Ramander Kalia, Joint Secretary of the Swatantra Party in Haryana, alleging that the absence of stated reasons could raise suspicions of political vendetta. The sheet is marked “FOR FAVOUR OF PUBLICATION” and ends with a separate “NOT FOR PUBLICATION” signature section signed by V. P. Bhatia.
+
 ## Key points
 
 - The Swatantra Party General Council supports negotiations among parties toward a National Alternative.

@@ -49,6 +49,12 @@ summary: |-
   Masani says that, because there is no unanimity on strategy, it would be wrong to append comments on only two items in the National Executive note while leaving the others unanswered. He nevertheless agrees that Dandekar's cryptic drafts should replace the drafts for items 1a and 1b. He encloses tabulated comments and asks Raju to duplicate and circulate them to National Executive members before they leave, while noting that he is recovering from a major operation.
 ---
 
+## Summary
+
+In this letter dated 1 April 1970, Minoo Masani writes to S. V. Raju about a strategic disagreement involving Cooper and N. Dandekar. Cooper wants the economic charges dropped while pursuing the other charges; Dandekar wants all charges dropped except the first two economic ones. Masani proposes resolving the disagreement through informal discussions in Bombay, alternative draft resolutions, consultation with others, and discussion at the National Executive meeting.
+
+Masani says that, because there is no unanimity on strategy, it would be wrong to append comments on only two items in the National Executive note while leaving the others unanswered. He nevertheless agrees that Dandekar's cryptic drafts should replace the drafts for items 1a and 1b. He encloses tabulated comments and asks Raju to duplicate and circulate them to National Executive members before they leave, while noting that he is recovering from a major operation.
+
 ## Key points
 
 - Masani identifies a strategic clash between Cooper and N. Dandekar over which charges should be dropped.

@@ -49,6 +49,12 @@ summary: |-
   The letter also reports Ranga’s invitation, through the Gandhi Centenary Committee’s subcommittee for overseas celebrations, to visit Spain, Morocco, Tunisia, Libya, and Sudan on a four-week tour. He reassures Masani that it has been his practice to keep him fully informed and asks that any failure to do so be excused. A handwritten note on the second page records Ranga’s intention to be in Delhi on 19 September to attend a meeting called by the Speaker.
 ---
 
+## Summary
+
+This two-page letter, dated 13 September 1969 and written by N. G. Ranga to Minoo Masani, addresses the Swatantra Party’s participation in the delegation of the Indian Parliamentary Union to the Commonwealth Parliamentary Conference in Trinidad. Ranga explains that Speaker Sanjeeva Reddi had earlier offered Linganna Gowd a place in the delegation and that Ranga had agreed to Gowd’s inclusion, while acknowledging that he failed to communicate this information to Masani. He argues that the Speaker, as President of the Parliamentary Union, is entitled to make the final choice of delegates, and that consultation with the party is largely a matter of courtesy.
+
+The letter also reports Ranga’s invitation, through the Gandhi Centenary Committee’s subcommittee for overseas celebrations, to visit Spain, Morocco, Tunisia, Libya, and Sudan on a four-week tour. He reassures Masani that it has been his practice to keep him fully informed and asks that any failure to do so be excused. A handwritten note on the second page records Ranga’s intention to be in Delhi on 19 September to attend a meeting called by the Speaker.
+
 ## Key points
 
 - Ranga responds to Masani’s concerns about the party’s role in selecting a delegation to the Commonwealth Parliamentary Conference in Trinidad.

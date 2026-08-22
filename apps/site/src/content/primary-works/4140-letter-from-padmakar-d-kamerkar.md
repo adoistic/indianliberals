@@ -49,6 +49,12 @@ summary: |-
   The visible pages do not state the legal issue being researched, identify a recipient, or provide a date, subject line, argument, or conclusion. They appear to function as a working list of authorities, possibly for constitutional or administrative-law research, but the document itself does not explain the relationship among the cited cases.
 ---
 
+## Summary
+
+This two-page English letter, written on the printed letterhead of advocate Padmakar D. Kamerkar in Bombay, consists almost entirely of handwritten legal case references. The sender lists decisions from the Supreme Court and other courts, with citations dating from the 1950s through the 1980s, including cases concerning the States of Madras, Bihar, Bengal, Bombay, and Mysore.
+
+The visible pages do not state the legal issue being researched, identify a recipient, or provide a date, subject line, argument, or conclusion. They appear to function as a working list of authorities, possibly for constitutional or administrative-law research, but the document itself does not explain the relationship among the cited cases.
+
 ## Key points
 
 - The document is a two-page handwritten legal note on Padmakar D. Kamerkar's advocate letterhead.

@@ -48,6 +48,12 @@ summary: |-
   The exchange concerns the circulation of papers and liberal political material. Patel writes that a packet of papers he had sent by registered book-post was returned with an endorsement referring to the building being burnt in a fire, and says he will try to obtain the papers again. Raju apologises for the inconvenience, looks forward to receiving the papers, and conveys Minoo Masani’s warm regards. The packet offers a brief, personal glimpse of the continuing correspondence and organisational links around the Swatantra Party milieu in 1985.
 ---
 
+## Summary
+
+This three-page correspondence packet preserves a typed letter from S. V. Raju to Harihar Patel dated 28 May 1985, together with Patel’s handwritten postcard dated 17 May 1985 and the addressed envelope. Raju explains that Patel’s registered book-post was returned because the old Swatantra Party office building had been damaged by fire; he adds that the relevant part of the building escaped damage and that the office had resumed operations.
+
+The exchange concerns the circulation of papers and liberal political material. Patel writes that a packet of papers he had sent by registered book-post was returned with an endorsement referring to the building being burnt in a fire, and says he will try to obtain the papers again. Raju apologises for the inconvenience, looks forward to receiving the papers, and conveys Minoo Masani’s warm regards. The packet offers a brief, personal glimpse of the continuing correspondence and organisational links around the Swatantra Party milieu in 1985.
+
 ## Key points
 
 - S. V. Raju’s typed reply is dated 28 May 1985.

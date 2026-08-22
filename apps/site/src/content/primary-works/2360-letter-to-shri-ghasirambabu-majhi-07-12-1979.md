@@ -45,6 +45,10 @@ summary: |-
   This single-page letter, dated December 7, 1979, is from S. V. Raju to Ghasirambabu Majhi, then Minister of Health in the Government of Orissa. Raju follows up on an enquiry from the Regional Transport Officer in Bombay concerning Jeep No. MRA 4093, which Maharaj P. K. Deo of Kalahandi purchased soon after the 1967 general elections.
 ---
 
+## Summary
+
+This single-page letter, dated December 7, 1979, is from S. V. Raju to Ghasirambabu Majhi, then Minister of Health in the Government of Orissa. Raju follows up on an enquiry from the Regional Transport Officer in Bombay concerning Jeep No. MRA 4093, which Maharaj P. K. Deo of Kalahandi purchased soon after the 1967 general elections.
+
 ## Key points
 
 - The letter is dated December 7, 1979.

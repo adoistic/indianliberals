@@ -49,6 +49,12 @@ summary: |-
   The letter focuses on the selection of a General Secretary. Srikumar explains that Harihar Patel, after initially agreeing to take the position, withdrew and proposed Girish Munshi instead—a decision he anticipates may disappoint some recipients. He adds that K. H. Subramaniam will provide Raju with a fuller account of the proceedings and encloses three copies of resolutions passed by the National General Council, for Raju and M. R. Masani. The second rendered page shows the reverse of an Inland Letter form and contains no additional readable correspondence.
 ---
 
+## Summary
+
+This letter, dated 10 December 1974, was sent from the Madras District Swatantra Party office by its Secretary, V. S. Srikumar, to S. V. Raju in Bombay. Srikumar acknowledges Raju’s detailed communication, which had been conveyed through Girish Munshi, and reports on the party’s consideration of Raju’s suggestions.
+
+The letter focuses on the selection of a General Secretary. Srikumar explains that Harihar Patel, after initially agreeing to take the position, withdrew and proposed Girish Munshi instead—a decision he anticipates may disappoint some recipients. He adds that K. H. Subramaniam will provide Raju with a fuller account of the proceedings and encloses three copies of resolutions passed by the National General Council, for Raju and M. R. Masani. The second rendered page shows the reverse of an Inland Letter form and contains no additional readable correspondence.
+
 ## Key points
 
 - The letter is dated 10 December 1974 and is issued on Madras District Swatantra Party letterhead.

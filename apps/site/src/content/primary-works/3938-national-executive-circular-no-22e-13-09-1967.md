@@ -52,6 +52,12 @@ summary: |-
   The attached tables set out proposed representation ratios and seat allocations based on the number of workers enrolled in each organised district. For Punjab, the proposal provides two representatives for the first 50 workers and one additional representative for every 20 workers thereafter, subject to a maximum of 10 per district unit, producing 46 allocated seats. Kerala's proposal uses two representatives for the first 15 workers and one for every additional 10, also subject to a maximum of 10 per district unit, producing 55 seats. A further table for Gujarat proposes two representatives for the first 100 workers and one additional representative for every 100 workers thereafter, with a maximum of 10 per district unit, producing 127 seats. The document therefore records an internal party-administration exercise in distributing state-council representation according to unit membership strength.
 ---
 
+## Summary
+
+Dated September 13, 1967, this Swatantra Party National Executive circular forwards recommendations concerning the Punjab and Kerala State Councils. Signed by N. Dandeker as Officiating General Secretary, it asks recipients to indicate their wishes on an attached self-addressed card and states that, without a response by September 23, approval of the proposals will be presumed.
+
+The attached tables set out proposed representation ratios and seat allocations based on the number of workers enrolled in each organised district. For Punjab, the proposal provides two representatives for the first 50 workers and one additional representative for every 20 workers thereafter, subject to a maximum of 10 per district unit, producing 46 allocated seats. Kerala's proposal uses two representatives for the first 15 workers and one for every additional 10, also subject to a maximum of 10 per district unit, producing 55 seats. A further table for Gujarat proposes two representatives for the first 100 workers and one additional representative for every 100 workers thereafter, with a maximum of 10 per district unit, producing 127 seats. The document therefore records an internal party-administration exercise in distributing state-council representation according to unit membership strength.
+
 ## Key points
 
 - The circular is dated September 13, 1967 and issued from the Swatantra Party Central Office in Bombay.

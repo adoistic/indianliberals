@@ -50,6 +50,12 @@ summary: |-
   The letter carefully limits that recognition: it does not amount to recognition of the group itself because the group does not fulfil the conditions laid down in Direction 121 of the Directions issued by the Speaker. The document therefore records an administrative distinction between recognising individual members and formally recognising a parliamentary group.
 ---
 
+## Summary
+
+This one-page official letter from the Lok Sabha Secretariat, dated 9 February 1960, responds to M. R. Masani's 22 December 1959 correspondence concerning the proposed “Swatantra Group” in the Lok Sabha. The Under Secretary states that the Speaker has, for convenience, recognised the letter's signatories as members belonging to the new group.
+
+The letter carefully limits that recognition: it does not amount to recognition of the group itself because the group does not fulfil the conditions laid down in Direction 121 of the Directions issued by the Speaker. The document therefore records an administrative distinction between recognising individual members and formally recognising a parliamentary group.
+
 ## Key points
 
 - The Lok Sabha Secretariat sent the letter on 9 February 1960 from Parliament House, New Delhi.

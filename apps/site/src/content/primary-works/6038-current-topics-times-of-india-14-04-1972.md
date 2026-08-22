@@ -52,6 +52,12 @@ summary: |-
   The clipping particularly rejects the attempt to prevent photographic coverage until negotiations have concluded, calling press access appropriate because the event has major social significance. It also questions whether the Chief Minister has the legal authority to keep journalists away from the venue altogether, while acknowledging that the government may deny facilities or decline responsibility for reporters’ safety. The clipping has no visible byline and is annotated as from the Times of India, dated 14 April 1972.
 ---
 
+## Summary
+
+“Current Topics” questions the Madhya Pradesh Chief Minister’s decision to exclude newsmen from the surrender of outlaws. The article argues that if the surrender process is considered lawful and beneficial, there is no principled reason to prevent responsible journalists from observing and reporting it; if the process is damaging to law and order, it should not be permitted at all.
+
+The clipping particularly rejects the attempt to prevent photographic coverage until negotiations have concluded, calling press access appropriate because the event has major social significance. It also questions whether the Chief Minister has the legal authority to keep journalists away from the venue altogether, while acknowledging that the government may deny facilities or decline responsibility for reporters’ safety. The clipping has no visible byline and is annotated as from the Times of India, dated 14 April 1972.
+
 ## Key points
 
 - The article criticises the exclusion of journalists from the surrender of outlaws in Madhya Pradesh.

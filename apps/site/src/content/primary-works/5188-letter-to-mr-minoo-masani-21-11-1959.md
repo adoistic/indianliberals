@@ -45,6 +45,10 @@ summary: |-
   This typed letter, dated November 21, 1959, is from Charat Ram in New Delhi to Minoo Masani. Ram acknowledges Masani’s notice of a Swatantra Party meeting scheduled for Monday, November 23, and explains that he cannot attend because he is leaving for Calcutta on Monday evening for a few days. He closes with an apology and kind regards.
 ---
 
+## Summary
+
+This typed letter, dated November 21, 1959, is from Charat Ram in New Delhi to Minoo Masani. Ram acknowledges Masani’s notice of a Swatantra Party meeting scheduled for Monday, November 23, and explains that he cannot attend because he is leaving for Calcutta on Monday evening for a few days. He closes with an apology and kind regards.
+
 ## Key points
 
 - The letter is dated November 21, 1959, and was sent from 15 Kitchener Road, New Delhi.

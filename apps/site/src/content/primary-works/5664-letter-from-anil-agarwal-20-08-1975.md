@@ -50,6 +50,12 @@ summary: |-
   Gandhi rejects delay and insists that the editors—including regional editors—be removed immediately, even if this leads to the paper’s closure. He proposes replacing them with editors of his choice and says the government would not suffer if Indian Express closed. Agarwal attempts to explain that the paper faces strong competition and that a proposed committee of directors might address the dispute, but Gandhi insists that any committee must have the power to appoint, dismiss, and transfer editors. The document records a direct confrontation between demands for editorial control and appeals for procedural handling, personal trust, and time.
 ---
 
+## Summary
+
+This letter, dated 20 August 1975, is from Anil Agarwal in Delhi to “Shri RNG Bombay” and encloses a reproduced conversation with Sanjay Gandhi. The conversation concerns demands to remove the editors of the Indian Express. Agarwal presents himself as acting as a friend and relative by marriage to the Goenka family, rather than in his capacity as an Indian Express director, and asks Gandhi to allow time for the matter to be handled discreetly and without appearing coercive.
+
+Gandhi rejects delay and insists that the editors—including regional editors—be removed immediately, even if this leads to the paper’s closure. He proposes replacing them with editors of his choice and says the government would not suffer if Indian Express closed. Agarwal attempts to explain that the paper faces strong competition and that a proposed committee of directors might address the dispute, but Gandhi insists that any committee must have the power to appoint, dismiss, and transfer editors. The document records a direct confrontation between demands for editorial control and appeals for procedural handling, personal trust, and time.
+
 ## Key points
 
 - The document is a dated covering letter from Anil Agarwal enclosing a conversation with Sanjay Gandhi.

@@ -51,6 +51,12 @@ summary: |-
   The letter focuses on their disagreement over Kashmir. Masani states that his understanding of the situation differs substantially from Singhvi’s, while acknowledging that they must temporarily agree to differ. He encloses a factual background paper on Kashmir, prepared for internal circulation within his party, and hopes Singhvi will find it enlightening.
 ---
 
+## Summary
+
+In this one-page letter dated July 29, 1964, M. R. Masani responds to Dr. L. M. Singhvi’s letters of June 27 and July 13. Masani expresses strong disappointment that Singhvi has decided against making a positive decision in the present, though the precise decision is not specified on the page.
+
+The letter focuses on their disagreement over Kashmir. Masani states that his understanding of the situation differs substantially from Singhvi’s, while acknowledging that they must temporarily agree to differ. He encloses a factual background paper on Kashmir, prepared for internal circulation within his party, and hopes Singhvi will find it enlightening.
+
 ## Key points
 
 - The letter is dated July 29, 1964, and is addressed to Dr. L. M. Singhvi, M.P.

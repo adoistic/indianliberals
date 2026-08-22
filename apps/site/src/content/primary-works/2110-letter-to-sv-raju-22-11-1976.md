@@ -52,6 +52,12 @@ summary: |-
   The enclosed draft letter of 20 November 1976 addresses a tax-recovery notice concerning the party. Srikumar states that the party headquarters is unaware of the relevant files, accounts, and assets because they are in the custody of former office-bearers, naming Piloo Mody, M. Amersay, and Maghu Mehta, whom he says are now associated with the Bharatiya Lok Dal. He recommends that the tax authorities pursue the arrears with those former office-bearers, who have taken the party's records and assets with them.
 ---
 
+## Summary
+
+This two-page letter, dated 22 November 1976 and signed by V. S. Srikumar, responds to S. V. Raju on the Swatantra Party's organisational difficulties after the establishment of a separate National Headquarters. Srikumar acknowledges that the party has produced no forms or literature and has no funds, but argues that a carefully prepared English-language leaflet explaining the implications of the Constitution Amendment Bill could educate party supporters. He also refers to Raju's changed view about producing a small English supplement to Chanakyan.
+
+The enclosed draft letter of 20 November 1976 addresses a tax-recovery notice concerning the party. Srikumar states that the party headquarters is unaware of the relevant files, accounts, and assets because they are in the custody of former office-bearers, naming Piloo Mody, M. Amersay, and Maghu Mehta, whom he says are now associated with the Bharatiya Lok Dal. He recommends that the tax authorities pursue the arrears with those former office-bearers, who have taken the party's records and assets with them.
+
 ## Key points
 
 - Srikumar writes to S. V. Raju about the Swatantra Party's lack of organisational literature, forms, and funds.

@@ -49,6 +49,12 @@ summary: |-
   The letter is brief and administrative, documenting internal parliamentary coordination and party-political personnel changes. It includes Masani's handwritten annotations, including a note reading "Western Coast N. Delhi," but the attached draft minutes referred to in the letter are not included in the rendered page.
 ---
 
+## Summary
+
+In this one-page letter dated 12 November 1962, Minoo Masani writes to Prof. N. G. Ranga about attached draft minutes of a Parliamentary Board meeting. He draws attention to a passage titled "Arrangements of the Parliamentary Group" and asks Ranga to arrange for the decisions to be implemented. Masani also points to a paragraph concerning the resignation of the Deputy Leader of the Rajasthan Assembly Group, asking whether Ranga is in touch with Maharawal Laxman Singh and Man Singh about the matter.
+
+The letter is brief and administrative, documenting internal parliamentary coordination and party-political personnel changes. It includes Masani's handwritten annotations, including a note reading "Western Coast N. Delhi," but the attached draft minutes referred to in the letter are not included in the rendered page.
+
 ## Key points
 
 - Minoo Masani wrote the letter to Prof. N. G. Ranga on 12 November 1962.

@@ -48,6 +48,12 @@ summary: |-
   Masani also raises two objections to the reported Bihar convention. He hopes the proposed 14 December date is incorrect because it conflicts with an engagement in Hyderabad, where he expects to meet Rajaji on his birthday. More substantially, he argues that a convention in Bihar would be too early in December to allow the enrolment of members and the organisation of branches across the districts. He suggests that the December meeting be described instead as a Hazaribagh District Convention rather than as representing the whole of Bihar.
 ---
 
+## Summary
+
+In this letter dated 7 November 1959, M. R. Masani congratulates Raja Bahadur Kamkhya Narain Singh on his party's decision to merge into the Swatantra Party. Masani expresses interest in having the next national convention held in Patna in March, and says he would attend if invited, despite representing a Bihar constituency in Parliament.
+
+Masani also raises two objections to the reported Bihar convention. He hopes the proposed 14 December date is incorrect because it conflicts with an engagement in Hyderabad, where he expects to meet Rajaji on his birthday. More substantially, he argues that a convention in Bihar would be too early in December to allow the enrolment of members and the organisation of branches across the districts. He suggests that the December meeting be described instead as a Hazaribagh District Convention rather than as representing the whole of Bihar.
+
 ## Key points
 
 - Masani welcomes the recipient's party merger into the Swatantra Party.

@@ -48,6 +48,12 @@ summary: |-
   The note states that the information was supplied by “Mr. Bhalla.” No bank is identified, and the lower-right signature is not sufficiently legible to establish an author or signatory.
 ---
 
+## Summary
+
+This single-page handwritten office note, dated June 30, 1964, records the numbers of several jeeps that had been seized by a bank. It lists eight apparent reference numbers: 7147, 7165, 7166, 7167, 7152, 7159, 7147, and 7162.
+
+The note states that the information was supplied by “Mr. Bhalla.” No bank is identified, and the lower-right signature is not sufficiently legible to establish an author or signatory.
+
 ## Key points
 
 - The document is a one-page handwritten office note dated June 30, 1964.

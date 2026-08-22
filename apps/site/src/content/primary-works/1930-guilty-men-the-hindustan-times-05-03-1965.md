@@ -51,6 +51,10 @@ summary: |-
   This March 5, 1965 editorial examines allegations of serious misconduct in Orissa during the administrations of Chief Ministers Biju Patnaik and Biren Mitra after the 1961 mid-term elections. It credits H. V. Kamath and other public-spirited individuals with forcing the issue into public view, while arguing that the Central Government and the Congress High Command acted reluctantly and primarily under political pressure. The editorial says that the Central Bureau of Investigation was not permitted to conduct a full investigation and instead relied on official files and explanations from the two ministers.
 ---
 
+## Summary
+
+This March 5, 1965 editorial examines allegations of serious misconduct in Orissa during the administrations of Chief Ministers Biju Patnaik and Biren Mitra after the 1961 mid-term elections. It credits H. V. Kamath and other public-spirited individuals with forcing the issue into public view, while arguing that the Central Government and the Congress High Command acted reluctantly and primarily under political pressure. The editorial says that the Central Bureau of Investigation was not permitted to conduct a full investigation and instead relied on official files and explanations from the two ministers.
+
 ## Key points
 
 - The editorial discusses alleged misconduct under Biju Patnaik and Biren Mitra in Orissa.

@@ -57,6 +57,12 @@ summary: |-
   The file includes S. V. Raju’s typed reply of 6 October 1977, which encloses press material and questions Vedamurthy’s effort to have Rajaji’s birth-centenary year observed as an International Year of Human Rights. The remaining enclosures comprise a Rajaji Foundation press release and Jayaprakash Narayan’s recorded message for a Rajaji memorial meeting. These materials present Rajaji as a defender of liberty, individual responsibility, social obligation, education, women’s uplift, constitutional rights, and limits on state control. They connect his idea of Dharma and Gandhi’s theory of trusteeship to a free and morally responsible society, and emphasize the Rajaji Foundation’s intention to disseminate these ideas through meetings, seminars, publications, and study circles.
 ---
 
+## Summary
+
+This archival correspondence file opens with K. Vedamurthy’s handwritten letter of 26 September 1977 to S. V. Raju. Vedamurthy congratulates Raju on becoming a trustee of the Rajaji Foundation and asks him to arrange press coverage for a Bombay press conference concerning the Foundation and M. R. Masani. He also urges Raju to obtain support from government offices and newspapers, while recalling Rajaji’s resistance to official patronage and his preference for voluntary action.
+
+The file includes S. V. Raju’s typed reply of 6 October 1977, which encloses press material and questions Vedamurthy’s effort to have Rajaji’s birth-centenary year observed as an International Year of Human Rights. The remaining enclosures comprise a Rajaji Foundation press release and Jayaprakash Narayan’s recorded message for a Rajaji memorial meeting. These materials present Rajaji as a defender of liberty, individual responsibility, social obligation, education, women’s uplift, constitutional rights, and limits on state control. They connect his idea of Dharma and Gandhi’s theory of trusteeship to a free and morally responsible society, and emphasize the Rajaji Foundation’s intention to disseminate these ideas through meetings, seminars, publications, and study circles.
+
 ## Key points
 
 - K. Vedamurthy’s letter congratulates S. V. Raju on becoming a trustee of the Rajaji Foundation and seeks help publicizing a Bombay press conference.

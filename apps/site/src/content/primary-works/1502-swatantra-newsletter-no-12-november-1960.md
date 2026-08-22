@@ -58,3 +58,7 @@ ai:
 summary: |-
   The November 1960 issue of Swatantra Newsletter reports on the Swatantra Party’s expansion, public meetings, conventions, and organisational work across India. Its opening pages explain the meaning of the Party’s white-star flag, mark December 9 as Flag and Founder’s Day, and defend the Party’s Punjab Enquiry Committee report through quotations from the Free Press Journal, The Tribune, Thought, and The Indian Libertarian. Other reports describe Rajaji’s Kerala tour, Professor N. G. Ranga’s sixtieth birthday, and two new Party publications on labour and the Third Plan.
 ---
+
+## Summary
+
+The November 1960 issue of Swatantra Newsletter reports on the Swatantra Party’s expansion, public meetings, conventions, and organisational work across India. Its opening pages explain the meaning of the Party’s white-star flag, mark December 9 as Flag and Founder’s Day, and defend the Party’s Punjab Enquiry Committee report through quotations from the Free Press Journal, The Tribune, Thought, and The Indian Libertarian. Other reports describe Rajaji’s Kerala tour, Professor N. G. Ranga’s sixtieth birthday, and two new Party publications on labour and the Third Plan.

@@ -52,6 +52,12 @@ summary: |-
   The lower portion of the clipping reports Narayan's proposal for an alternative form of government constituted by people elected to assemblies without the intervention of political parties. He is quoted as saying that people were fed up with political parties and were ready for a viable alternative. The clipping therefore connects federal autonomy and land reform with a broader critique of party-based politics and a search for more directly participatory government.
 ---
 
+## Summary
+
+This Times of India clipping, dated 28 December 1973, reports statements made by Sarvodaya leader Jayaprakash Narayan at a press conference in Madras. Narayan said he would convene a conference of representatives from different sections of society to discuss state autonomy, arguing that demands for autonomy should not be treated as opposition to national unity. The report also records his criticism of the implementation of land reforms in Thanjavur, which he described as evasive and procedurally cumbersome, and his call for measures benefiting poor and economically weaker people.
+
+The lower portion of the clipping reports Narayan's proposal for an alternative form of government constituted by people elected to assemblies without the intervention of political parties. He is quoted as saying that people were fed up with political parties and were ready for a viable alternative. The clipping therefore connects federal autonomy and land reform with a broader critique of party-based politics and a search for more directly participatory government.
+
 ## Key points
 
 - Jayaprakash Narayan proposed convening a conference to discuss autonomy for India's states.

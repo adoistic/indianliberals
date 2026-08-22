@@ -55,6 +55,12 @@ summary: |-
   Masani attacks what he describes as the hypocrisy of politicians who speak of social justice while receiving generous allowances, contrasting this conduct with the material position of ordinary people. Drawing on Karl Marx’s concept of surplus value and Milovan Djilas’s analysis of the “new class,” he compares India’s ruling arrangements with communist systems in which political officials control nationalised property. The pamphlet concludes by calling on socialists to abandon opposition to existing vested interests and defend the “former upperdog” who has become the underdog under state capitalism.
 ---
 
+## Summary
+
+In this three-page pamphlet, Minoo Masani argues that India’s post-independence political economy has created a new “ruling class” through state-capitalist controls over industry, commerce, farming, and the movement of goods. He rejects the claim that the Swatantra Party represents only vested interests, contending that formerly privileged business and professional groups, former princes, peasants, workers, and the middle class have all become disadvantaged in different ways under an increasingly politicised economy. Masani presents the Swatantra Party as an advocate of free enterprise and private ownership against bureaucratic and political monopolies.
+
+Masani attacks what he describes as the hypocrisy of politicians who speak of social justice while receiving generous allowances, contrasting this conduct with the material position of ordinary people. Drawing on Karl Marx’s concept of surplus value and Milovan Djilas’s analysis of the “new class,” he compares India’s ruling arrangements with communist systems in which political officials control nationalised property. The pamphlet concludes by calling on socialists to abandon opposition to existing vested interests and defend the “former upperdog” who has become the underdog under state capitalism.
+
 ## Key points
 
 - Masani presents the Swatantra Party as a defender of groups disadvantaged by India’s state-capitalist system, rather than as a champion of vested interests.

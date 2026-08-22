@@ -46,6 +46,10 @@ summary: |-
   This two-page handwritten letter, dated 28 August 1964 and addressed to Minoo Masani, discusses travel and arrangements connected with an overseas political engagement. The sender says that, following Masani's cable, he has written to arrange passage and is seeking to secure reservations to London or Washington. He also asks Masani to act quickly if the cable arrived late, since the sender expects to reach Delhi shortly and has already made arrangements.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 28 August 1964 and addressed to Minoo Masani, discusses travel and arrangements connected with an overseas political engagement. The sender says that, following Masani's cable, he has written to arrange passage and is seeking to secure reservations to London or Washington. He also asks Masani to act quickly if the cable arrived late, since the sender expects to reach Delhi shortly and has already made arrangements.
+
 ## Key points
 
 - The letter is dated 28 August 1964 and addressed to Minoo Masani.

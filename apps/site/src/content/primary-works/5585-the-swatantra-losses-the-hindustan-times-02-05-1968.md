@@ -50,6 +50,12 @@ summary: |-
   In Gujarat, the article focuses on the party’s disciplinary crisis after several MLAs elected on Swatantra tickets supported a rebel candidate in the Rajya Sabha election against the party whip. The episode led to the resignation of M. R. Masani as the party’s energetic general secretary, though the article suggests that his resignation may not resolve the underlying conflict. It concludes that the party’s leadership must repair the cracks in its public image or risk being reduced to a wistful memory of its earlier promise.
 ---
 
+## Summary
+
+The article, “Swatantra Losses,” attributes the Swatantra Party’s recent electoral setbacks in Rajasthan and Gujarat to internal disunity rather than to a broad national rejection of its political alternative. It describes the party as weakened by leadership disagreements, defections, and declining electoral support after by-election defeats in Rajasthan, including the Dausa parliamentary contest and the Chomu Assembly contest. The results are presented as serious blows to a party that had once appeared to offer a credible democratic challenge to Congress’s long-standing dominance.
+
+In Gujarat, the article focuses on the party’s disciplinary crisis after several MLAs elected on Swatantra tickets supported a rebel candidate in the Rajya Sabha election against the party whip. The episode led to the resignation of M. R. Masani as the party’s energetic general secretary, though the article suggests that his resignation may not resolve the underlying conflict. It concludes that the party’s leadership must repair the cracks in its public image or risk being reduced to a wistful memory of its earlier promise.
+
 ## Key points
 
 - The Swatantra Party is described as steadily losing ground in Rajasthan and Gujarat.

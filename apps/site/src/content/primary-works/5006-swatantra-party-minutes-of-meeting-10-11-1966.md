@@ -51,6 +51,10 @@ summary: |-
   This three-page Swatantra Party Parliamentary Office record contains minutes of three meetings held in New Delhi on 10 and 11 November 1965. The first meeting decided that the Party would support the Government on payment under the Indus Water Agreement, while allowing members to abstain rather than oppose the Government’s motion; members were also instructed to abstain from, or vote against, amendments. The meeting was chaired by M. R. Masani and closed with a vote of thanks.
 ---
 
+## Summary
+
+This three-page Swatantra Party Parliamentary Office record contains minutes of three meetings held in New Delhi on 10 and 11 November 1965. The first meeting decided that the Party would support the Government on payment under the Indus Water Agreement, while allowing members to abstain rather than oppose the Government’s motion; members were also instructed to abstain from, or vote against, amendments. The meeting was chaired by M. R. Masani and closed with a vote of thanks.
+
 ## Key points
 
 - The minutes document three Swatantra Party parliamentary meetings held on 10 and 11 November 1965.

@@ -49,6 +49,12 @@ summary: |-
   Masani instead proposes that the shares be sold and the proceeds transferred to a Rajaji Trust or Foundation dedicated to preserving Rajaji's memory and publishing his writings and biography. He asks Bhatia to consult his president, offers to contact the trustees if the proposal is accepted, and returns the unsigned transfer forms. A third page contains a separate handwritten note, dated 3/9/74, concerning the sale of the shares and the transfer forms.
 ---
 
+## Summary
+
+In this letter dated October 16, 1974, M. R. Masani responds to V. P. Bhatia's request that he sign blank transfer forms for shares in the Indian Overseas Bank. Masani explains that the shares form part of the estate of a deceased Madras gentleman who had appointed him legatee because he supported C. Rajagopalachari (Rajaji), approved of the Swatantra Party's work, and opposed the taxation system that had affected him. Masani argues that the deceased would not have wished the assets to be diverted to the Bharatiya Lok Dal as part of the proposed merger of Swatantra Party assets, nor used to pay past debts.
+
+Masani instead proposes that the shares be sold and the proceeds transferred to a Rajaji Trust or Foundation dedicated to preserving Rajaji's memory and publishing his writings and biography. He asks Bhatia to consult his president, offers to contact the trustees if the proposal is accepted, and returns the unsigned transfer forms. A third page contains a separate handwritten note, dated 3/9/74, concerning the sale of the shares and the transfer forms.
+
 ## Key points
 
 - Masani declines to sign blank transfer forms for Indian Overseas Bank shares.

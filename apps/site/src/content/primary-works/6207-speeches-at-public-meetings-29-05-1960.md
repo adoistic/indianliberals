@@ -58,3 +58,9 @@ summary: |-
   
   The extracts present a revised, more liberal form of social democracy as a possible alternative: public ownership or control where necessary, but alongside private enterprise, competition, consumer choice, trade-union autonomy, and individual freedom. Across the rendered pages, the compilation repeatedly frames liberal democracy, private property, and people's enterprise as safeguards against bureaucratic power, while calling for socialism to be separated from its Russian and totalitarian manifestations.
 ---
+
+## Summary
+
+This ten-page English compilation brings together excerpts from speeches and periodical articles published between 1960 and 1966. The visible texts argue against state socialism and communist economic organisation, linking concentrated state ownership to the erosion of democracy, individual liberty, political choice, and economic freedom. They also distinguish the socialist ideal of equality from the practical record of communist countries, especially in agriculture and the treatment of workers and consumers.
+
+The extracts present a revised, more liberal form of social democracy as a possible alternative: public ownership or control where necessary, but alongside private enterprise, competition, consumer choice, trade-union autonomy, and individual freedom. Across the rendered pages, the compilation repeatedly frames liberal democracy, private property, and people's enterprise as safeguards against bureaucratic power, while calling for socialism to be separated from its Russian and totalitarian manifestations.

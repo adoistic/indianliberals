@@ -48,6 +48,12 @@ summary: |-
   Masani urges Rajagopalachari to publish this material in the magazine’s “Dear Reader” column or solicit a reply contradicting the “Scientific Worker” published in the current issue. He adds that the matter is timely because Lal Bahadur Shastri is being invited to attend a function organised by the association in Delhi on 27 July.
 ---
 
+## Summary
+
+In this letter dated 18 July 1964, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about a letter published on page 23 of Freedom First’s July 18 issue. Masani disputes the claim that the Association of Scientific Workers in India is not a communist “fellow travelling front,” arguing that accompanying material demonstrates the organisation’s real character and its connection to an international body.
+
+Masani urges Rajagopalachari to publish this material in the magazine’s “Dear Reader” column or solicit a reply contradicting the “Scientific Worker” published in the current issue. He adds that the matter is timely because Lal Bahadur Shastri is being invited to attend a function organised by the association in Delhi on 27 July.
+
 ## Key points
 
 - Masani responds to a letter in Freedom First’s July 18 issue concerning the political character of the Association of Scientific Workers in India.

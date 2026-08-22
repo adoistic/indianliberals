@@ -43,6 +43,10 @@ summary: |-
   This one-page handwritten letter, dated 30 March 1975, is from Lt. Col. H. R. Pasricha to “Mr. Raju.” Pasricha refers to a manuscript he had previously discussed with the recipient and explains that he is relying on Raju and Minoo Masani to help fill substantial gaps in the draft. He says he has begun revising his copy, adding corrections and elaboration.
 ---
 
+## Summary
+
+This one-page handwritten letter, dated 30 March 1975, is from Lt. Col. H. R. Pasricha to “Mr. Raju.” Pasricha refers to a manuscript he had previously discussed with the recipient and explains that he is relying on Raju and Minoo Masani to help fill substantial gaps in the draft. He says he has begun revising his copy, adding corrections and elaboration.
+
 ## Key points
 
 - Pasricha writes to a recipient addressed as “Mr. Raju” about a previously discussed manuscript.

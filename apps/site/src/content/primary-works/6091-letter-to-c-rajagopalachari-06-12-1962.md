@@ -47,6 +47,12 @@ summary: |-
   Mody emphasizes that the Chowpatty meeting will require substantial organization and asks Rajagopalachari to provide his programme as soon as possible. The letter is a brief piece of event coordination and political-cultural correspondence; no further details about the celebrations or the proposed events appear on the page.
 ---
 
+## Summary
+
+In this letter dated 4 December 1962, Piloo Mody writes to C. Rajagopalachari (“Rajaji”) about a possible visit to Bombay for the jubilee celebrations of the Bharatiya Vidya Bhavan. Mody asks Rajagopalachari to address a meeting at Chowpatty and expresses interest in arranging a fund-raising dinner similar to one held previously.
+
+Mody emphasizes that the Chowpatty meeting will require substantial organization and asks Rajagopalachari to provide his programme as soon as possible. The letter is a brief piece of event coordination and political-cultural correspondence; no further details about the celebrations or the proposed events appear on the page.
+
 ## Key points
 
 - Piloo Mody wrote the letter on 4 December 1962.

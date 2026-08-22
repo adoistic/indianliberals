@@ -57,6 +57,12 @@ summary: |-
   The clipping further reports Rajagopalachari’s appeal to intellectuals and professionals to resist political drift and his view that Indira Gandhi could restore national health by abandoning empty slogans and policies of drift and careerism. A second report in the same clipping says that Swatantra Party members in Gujarat, including H. M. Patel, were described as repentant over factional conflict; Rajagopalachari urged party discipline, loyalty to the central authority, and penalties for political defiance.
 ---
 
+## Summary
+
+This 5 June 1968 Times of India news report presents C. Rajagopalachari's call for a non-party council of eminent citizens to replace the existing cabinet and parliamentary party system. Rajagopalachari argues that India is being governed by a “vicious circle of dried-up resources,” and urges a government willing to reduce expenditure decisively, even at the cost of temporarily laying off employees or cutting salaries. The report also records his warning that India’s economic and political difficulties are exceptionally dangerous and that constitutional remedies require national consensus or overwhelming public opinion.
+
+The clipping further reports Rajagopalachari’s appeal to intellectuals and professionals to resist political drift and his view that Indira Gandhi could restore national health by abandoning empty slogans and policies of drift and careerism. A second report in the same clipping says that Swatantra Party members in Gujarat, including H. M. Patel, were described as repentant over factional conflict; Rajagopalachari urged party discipline, loyalty to the central authority, and penalties for political defiance.
+
 ## Key points
 
 - Rajagopalachari proposes a non-party council of eminent citizens as an alternative to the existing cabinet and party-based government.

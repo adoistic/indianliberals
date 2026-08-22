@@ -54,6 +54,12 @@ summary: |-
   Masani attributes the demand for gold to the debasement of the rupee and to inflationary economic policy, not to an irrational attachment to gold. He links inflation to the priorities of the Second and Third Plans, wasteful public-sector investment, foreign indebtedness, deficit financing, and taxation. The article's account of the Act's effects includes higher prices for other assets and commodities, the destruction of rural credit, the movement of gold dealing into underground markets, new bureaucracy and corruption, and lost tax revenue. It concludes that the government's monetary and regulatory policies—not gold itself—are the central problem.
 ---
 
+## Summary
+
+In this article, M. R. Masani argues that India's Gold Control Act is a misconceived intervention that concentrates gold, economic power, and political authority in the hands of the state. Invoking Mahatma Gandhi's reported preference for distributing gold among India's villages, Masani presents the Act as a betrayal of Gandhi's decentralising ideal and as a government monopoly rather than an anti-monopoly measure. He identifies the policy's stated objectives as reducing hoarding, lowering the Indian price of gold, and stopping smuggling, then argues that it has achieved none of them: gold prices remained more than twice the international price, while smuggling increased as profit margins widened.
+
+Masani attributes the demand for gold to the debasement of the rupee and to inflationary economic policy, not to an irrational attachment to gold. He links inflation to the priorities of the Second and Third Plans, wasteful public-sector investment, foreign indebtedness, deficit financing, and taxation. The article's account of the Act's effects includes higher prices for other assets and commodities, the destruction of rural credit, the movement of gold dealing into underground markets, new bureaucracy and corruption, and lost tax revenue. It concludes that the government's monetary and regulatory policies—not gold itself—are the central problem.
+
 ## Key points
 
 - Masani contrasts the Gold Control Act with Mahatma Gandhi's reported proposal to decentralise gold and economic power among India's villages.

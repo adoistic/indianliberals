@@ -48,6 +48,10 @@ summary: |-
   This confidential letter, dated 30 May 1968, is written by M. R. Masani to Mr. Harihar Patel of the Government of Orissa. Masani welcomes Patel's decision to accept appointment as Public Relations Advisor and encloses a note setting out the post's age qualifications, experience requirements, responsibilities, proposed salary, and terms.
 ---
 
+## Summary
+
+This confidential letter, dated 30 May 1968, is written by M. R. Masani to Mr. Harihar Patel of the Government of Orissa. Masani welcomes Patel's decision to accept appointment as Public Relations Advisor and encloses a note setting out the post's age qualifications, experience requirements, responsibilities, proposed salary, and terms.
+
 ## Key points
 
 - Masani responds to Patel's letter of 16 May after returning from abroad.

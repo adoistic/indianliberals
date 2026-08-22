@@ -48,6 +48,12 @@ summary: |-
   As a bureaucratic artefact rather than an argumentative text, the document's interest is documentary: it evidences Minoo Masani's continuing monthly financial support of the Swatantra Party's Maharashtra unit during the Emergency period, roughly a year after the party's formal merger into the Bharatiya Lok Dal. The receipt bears the archival identifier 1189 written in ink on the top left.
 ---
 
+## Summary
+
+A one-page official donation receipt issued by the Maharashtra Region office of the Swatantra Party at Sassoon Building, 143, Mahatma Gandhi Road, Bombay-1 (telephone 253085). Receipt No. 119, dated 8 October 1975, acknowledges the sum of Twenty-Five Rupees only received from Mr. M. R. Masani as his donation for October 1975. The pre-printed form is completed in longhand and countersigned in the receiver's signature block under the imprint of the Hon. Treasurer.
+
+As a bureaucratic artefact rather than an argumentative text, the document's interest is documentary: it evidences Minoo Masani's continuing monthly financial support of the Swatantra Party's Maharashtra unit during the Emergency period, roughly a year after the party's formal merger into the Bharatiya Lok Dal. The receipt bears the archival identifier 1189 written in ink on the top left.
+
 ## Key points
 
 - Official pre-printed donation receipt of the Swatantra Party, Maharashtra Region.

@@ -44,6 +44,10 @@ summary: |-
   This one-page typed personal letter, dated April 2, 1965, is sent from 57 Lodhi Estate, New Delhi 3, by M. R. Masani to Dr. Freddie Mehta at Bombay House, Bombay 1. Masani states that he is enclosing answers to three questions that Mehta had previously put to him and expresses the hope that they will be useful. The contents of the enclosure are not included on the rendered page.
 ---
 
+## Summary
+
+This one-page typed personal letter, dated April 2, 1965, is sent from 57 Lodhi Estate, New Delhi 3, by M. R. Masani to Dr. Freddie Mehta at Bombay House, Bombay 1. Masani states that he is enclosing answers to three questions that Mehta had previously put to him and expresses the hope that they will be useful. The contents of the enclosure are not included on the rendered page.
+
 ## Key points
 
 - The letter is dated April 2, 1965.

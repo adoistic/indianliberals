@@ -48,6 +48,10 @@ summary: |-
   This two-page correspondence file records an exchange dated 18 November 1963 concerning the inquiry into Punjab Chief Minister Pratap Singh Kairon. In the copied telegram, Abdul Ganidar urges C. Rajagopalachari to appear before the Commission in Delhi on 23 November, arguing that his intervention would defend democracy, unite opposition resources, and draw national attention to the proceedings. The telegram also invokes Jawaharlal Nehru’s appearance in the INA trial as a precedent for using a public legal appearance to expose alleged abuses by a ruling establishment.
 ---
 
+## Summary
+
+This two-page correspondence file records an exchange dated 18 November 1963 concerning the inquiry into Punjab Chief Minister Pratap Singh Kairon. In the copied telegram, Abdul Ganidar urges C. Rajagopalachari to appear before the Commission in Delhi on 23 November, arguing that his intervention would defend democracy, unite opposition resources, and draw national attention to the proceedings. The telegram also invokes Jawaharlal Nehru’s appearance in the INA trial as a precedent for using a public legal appearance to expose alleged abuses by a ruling establishment.
+
 ## Key points
 
 - The letter is from C. Rajagopalachari to Abdul Ganidar and is dated 18 November 1963.

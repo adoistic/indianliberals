@@ -48,6 +48,12 @@ summary: |-
   The letter also reports local organisational efforts in Uttar Pradesh. Dubey says he is proceeding with plans to reorganise the party across Farrukhabad, Etah, Shahjahanpur, and Budaun districts, personally bearing the expenses because he has received no assistance from the Uttar Pradesh unit. He asks the central office to send instructions and party literature directly to him and requests a personal meeting with Masani in Delhi.
 ---
 
+## Summary
+
+This two-page English letter, dated 2 April 1971, is from Subhesh Chandra Dubey of the District Swatantra Party, Farrukhabad, to M. R. Masani. Dubey expresses shock at Masani’s resignation from the party chairmanship and argues that the party’s future depends on his leadership. He repeatedly asks Masani to reconsider, particularly at a moment when the party is facing what Dubey describes as “virtual extinction.”
+
+The letter also reports local organisational efforts in Uttar Pradesh. Dubey says he is proceeding with plans to reorganise the party across Farrukhabad, Etah, Shahjahanpur, and Budaun districts, personally bearing the expenses because he has received no assistance from the Uttar Pradesh unit. He asks the central office to send instructions and party literature directly to him and requests a personal meeting with Masani in Delhi.
+
 ## Key points
 
 - The letter responds to M. R. Masani’s resignation from the chairmanship of the Swatantra Party.

@@ -52,6 +52,12 @@ summary: |-
   The circular explains that the final decision belongs to the National Convention, while members should be given time to study and assess the proposed programme. It asks State Councils to select delegates, sets representation at one delegate for every 100 workers or life workers, fixes the delegate fee at Rs. 10, and notes that further details on arrangements, the programme, and the agenda will follow.
 ---
 
+## Summary
+
+This two-page Swatantra Party circular, dated July 1, 1974, announces that the Party's National Convention will be held on August 4 and 5 at Sapru House, New Delhi. It reports that the General Council had discussed whether the Swatantra Party should be dissolved in order to help create a new party with an acceptable common programme, and had unanimously supported efforts to form a “National Alternative” from various democratic opposition parties.
+
+The circular explains that the final decision belongs to the National Convention, while members should be given time to study and assess the proposed programme. It asks State Councils to select delegates, sets representation at one delegate for every 100 workers or life workers, fixes the delegate fee at Rs. 10, and notes that further details on arrangements, the programme, and the agenda will follow.
+
 ## Key points
 
 - The National Convention is scheduled for August 4–5, 1974, at Sapru House in New Delhi.

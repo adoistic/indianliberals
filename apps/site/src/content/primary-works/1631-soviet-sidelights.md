@@ -59,6 +59,12 @@ summary: |-
   In the rendered pages, Masani begins with his 1935 journey aboard the Soviet ship Dzerzhinsky from London to Leningrad. In the rendered pages, he describes the ship as a miniature Soviet social world, marked by shared spaces, Communist literature, political discussion, a “Red Corner,” Marxist classes, and an absence of formal distinctions among passenger classes and much of the crew. In the rendered pages, his account is observational rather than purely celebratory: conviviality and apparent equality coexist with propaganda, ideological discipline, and the looming threat of Nazi Germany. In the rendered pages, the opening of the Leningrad chapter contrasts the city’s improving cleanliness, housing, shops, and transport with its lingering identity as a memorial to imperial Russia.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani presents Soviet Sidelights as an accessible, firsthand account of the Soviet Union for readers whose knowledge of it is limited. In the rendered pages, Jawaharlal Nehru’s foreword frames the Soviet experiment as a major historical transformation: flawed and sometimes ruthless, but visibly creating a new civilisation with different values, motives, and aspirations. In the rendered pages, Nehru also argues that lighter, more personal books such as Masani’s can stimulate serious thought about Russia, the wider world, and India.
+
+In the rendered pages, Masani begins with his 1935 journey aboard the Soviet ship Dzerzhinsky from London to Leningrad. In the rendered pages, he describes the ship as a miniature Soviet social world, marked by shared spaces, Communist literature, political discussion, a “Red Corner,” Marxist classes, and an absence of formal distinctions among passenger classes and much of the crew. In the rendered pages, his account is observational rather than purely celebratory: conviviality and apparent equality coexist with propaganda, ideological discipline, and the looming threat of Nazi Germany. In the rendered pages, the opening of the Leningrad chapter contrasts the city’s improving cleanliness, housing, shops, and transport with its lingering identity as a memorial to imperial Russia.
+
 ## Key points
 
 - In the rendered pages, Nehru explains the continuing fascination with the Soviet Union as a response to disillusionment with the old social order and interest in a visibly emerging civilisation.

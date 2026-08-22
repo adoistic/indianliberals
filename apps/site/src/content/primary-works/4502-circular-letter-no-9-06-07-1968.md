@@ -50,6 +50,12 @@ summary: |-
   The circular states that policy statements are to be issued by the organisation’s president. It nevertheless preserves members’ freedom to make public statements about complaints at the local level, distinguishing centrally authorised policy positions from local public grievances.
 ---
 
+## Summary
+
+This one-page handwritten circular, dated 6–7–1968 and identified as Circular Letter No. 9, records a decision of the executive committee of an organisation abbreviated in the document as “Guj. Sw. Party.” Following its meeting on 18 June 1968, the committee asks members—including members of the executive committee and state council—to refrain from making policy statements in public.
+
+The circular states that policy statements are to be issued by the organisation’s president. It nevertheless preserves members’ freedom to make public statements about complaints at the local level, distinguishing centrally authorised policy positions from local public grievances.
+
 ## Key points
 
 - The document is Circular Letter No. 9, dated 6–7–1968.

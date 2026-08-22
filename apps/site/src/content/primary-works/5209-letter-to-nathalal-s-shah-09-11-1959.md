@@ -43,6 +43,10 @@ summary: |-
   This one-page typed letter, dated 9 November 1959, is from M. R. Masani in his capacity as Secretary to Mr. Nathalal S. Shah of the UIC Mills P.O. in Nishatganj, Lucknow. Masani acknowledges Shah’s letter of 3 October concerning Masani’s movements.
 ---
 
+## Summary
+
+This one-page typed letter, dated 9 November 1959, is from M. R. Masani in his capacity as Secretary to Mr. Nathalal S. Shah of the UIC Mills P.O. in Nishatganj, Lucknow. Masani acknowledges Shah’s letter of 3 October concerning Masani’s movements.
+
 ## Key points
 
 - The letter is dated 9 November 1959.

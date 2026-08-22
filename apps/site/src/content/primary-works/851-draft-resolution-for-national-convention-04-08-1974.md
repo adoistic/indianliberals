@@ -54,6 +54,12 @@ summary: |-
   The second page converts that political objective into a formal resolution. The Convention welcomes the proposed amalgamation of political forces other than Congress and the Communists into a new party, Bharatiya Lok Dal (the People’s Party of India), and accepts its common programme as compatible with Swatantra’s objectives. It resolves that the Swatantra Party will cease to exist and merge with the new party, while allowing members who do not join to continue non-partisan political activity under another name. It also authorises President Piloo Mody to notify the Chief Election Commissioner of the dissolution and seek a freeze on the party symbol.
 ---
 
+## Summary
+
+This two-page draft resolution, prepared for the Swatantra Party’s National Convention in Delhi on August 4–5, 1974, records the party’s response to India’s political fragmentation. It endorses continued efforts to create a two-party system and urges political parties and politicians to cooperate toward a “National Alternative” capable of addressing the aspirations of the people. The document describes negotiations among senior Swatantra Party members and reports that the General Council approved circulation of a draft programme to State Councils before the Convention took a final decision.
+
+The second page converts that political objective into a formal resolution. The Convention welcomes the proposed amalgamation of political forces other than Congress and the Communists into a new party, Bharatiya Lok Dal (the People’s Party of India), and accepts its common programme as compatible with Swatantra’s objectives. It resolves that the Swatantra Party will cease to exist and merge with the new party, while allowing members who do not join to continue non-partisan political activity under another name. It also authorises President Piloo Mody to notify the Chief Election Commissioner of the dissolution and seek a freeze on the party symbol.
+
 ## Key points
 
 - The National Executive’s April meeting linked political disorder and electoral confusion to the need for a two-party system.

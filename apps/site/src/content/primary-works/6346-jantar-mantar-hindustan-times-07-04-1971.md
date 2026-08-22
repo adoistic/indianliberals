@@ -49,6 +49,12 @@ summary: |-
   Other visible notices report on a conference paper concerning Himalayan forests and the commercial uses of pine and rosin, a literary or journalistic item involving Mr Frohlich, and correspondence about Austria and the Austrian economy. The clipping has no visible byline, issue number, or complete newspaper masthead beyond “HINDUSTAN TIMES”; the summary is therefore limited to the contents legible on this page.
 ---
 
+## Summary
+
+This single-page English newspaper clipping from the Hindustan Times, dated 7 April 1971, is headed “JANTAR MANTAR” and consists of several short items rather than one sustained essay. The most substantial item profiles Minoo Masani, describing his political and public career, his association with the Swatantra Party, his parliamentary service, and his appointment to a leadership position in an international agency. It also refers to A. D. Shroff and Masani’s predecessors in that role.
+
+Other visible notices report on a conference paper concerning Himalayan forests and the commercial uses of pine and rosin, a literary or journalistic item involving Mr Frohlich, and correspondence about Austria and the Austrian economy. The clipping has no visible byline, issue number, or complete newspaper masthead beyond “HINDUSTAN TIMES”; the summary is therefore limited to the contents legible on this page.
+
 ## Key points
 
 - The clipping is dated 7 April 1971 and is headed “JANTAR MANTAR.”

@@ -50,6 +50,12 @@ summary: |-
   Masani argues that his colleagues’ proposed disciplinary response avoided confronting the ethical and political implications of the Gujarat dispute and risked further factionalisation. He criticises the Congress Party’s opposition to the Swatantra candidate while also acknowledging that other parties have behaved no better. Drawing on Mahatma Gandhi’s injunction to “turn the searchlight inwards” and on John F. Kennedy’s Profiles in Courage, Masani calls for political leadership grounded in integrity, pledged promises, genuine party commitment, and public trust rather than expediency or numerical strength. He describes his resignation as an act of atonement and reaffirms his confidence in democratic institutions.
 ---
 
+## Summary
+
+In this four-page pamphlet, M. R. Masani explains his resignation from the Swatantra Party’s National Executive and Central Parliamentary Board. He presents the immediate dispute within the Gujarat Swatantra Party as part of a wider deterioration in party politics, marked by defections, breaches of faith, indiscipline, and the sale of votes and seats. He warns that growing public disillusionment with political parties could weaken parliamentary democracy and constitutional government, citing the preference in West Bengal and Uttar Pradesh for Governors’ rule over the restoration of party government.
+
+Masani argues that his colleagues’ proposed disciplinary response avoided confronting the ethical and political implications of the Gujarat dispute and risked further factionalisation. He criticises the Congress Party’s opposition to the Swatantra candidate while also acknowledging that other parties have behaved no better. Drawing on Mahatma Gandhi’s injunction to “turn the searchlight inwards” and on John F. Kennedy’s Profiles in Courage, Masani calls for political leadership grounded in integrity, pledged promises, genuine party commitment, and public trust rather than expediency or numerical strength. He describes his resignation as an act of atonement and reaffirms his confidence in democratic institutions.
+
 ## Key points
 
 - Masani explains that he resigned from the Swatantra Party’s National Executive and Central Parliamentary Board.

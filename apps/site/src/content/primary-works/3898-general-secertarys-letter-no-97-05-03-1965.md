@@ -49,6 +49,10 @@ summary: |-
   Dated March 5, 1965, this one-page Swatantra Party Central Office letter from General Secretary M. R. Masani addresses the scheduling of State Party Conventions. Masani notes that two State Units have fixed their conventions for the same weekend because they failed to consult and coordinate with the Central Office, creating a conflict for the Party’s office-bearers.
 ---
 
+## Summary
+
+Dated March 5, 1965, this one-page Swatantra Party Central Office letter from General Secretary M. R. Masani addresses the scheduling of State Party Conventions. Masani notes that two State Units have fixed their conventions for the same weekend because they failed to consult and coordinate with the Central Office, creating a conflict for the Party’s office-bearers.
+
 ## Key points
 
 - M. R. Masani writes in his capacity as General Secretary of the Swatantra Party.

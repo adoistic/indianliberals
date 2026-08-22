@@ -50,6 +50,12 @@ summary: |-
   The surrounding preserved pages include additional, apparently unrelated newspaper and cartoon clippings. These visible items continue the political satire, depicting allegations about Minoo Masani’s relationship with big business, the expulsion of C. C. Desai from the Swatantra Party, and the Swatantra Party’s star symbol. They also include Gujarati-language material and ordinary newspaper reports, but these are not treated as part of the principal “You Said It” feature.
 ---
 
+## Summary
+
+“You Said It,” by LAXMAN, is a satirical newspaper cartoon feature dated in the archival annotation 15 April 1970. The principal clipping presents a compact political joke: a figure seeking admission to a party claims that he was expelled from another party for “indiscipline, misbehaviour etc.,” turning party-switching and political respectability into the object of ridicule.
+
+The surrounding preserved pages include additional, apparently unrelated newspaper and cartoon clippings. These visible items continue the political satire, depicting allegations about Minoo Masani’s relationship with big business, the expulsion of C. C. Desai from the Swatantra Party, and the Swatantra Party’s star symbol. They also include Gujarati-language material and ordinary newspaper reports, but these are not treated as part of the principal “You Said It” feature.
+
 ## Key points
 
 - The principal item is a single political cartoon feature titled “You Said It.”

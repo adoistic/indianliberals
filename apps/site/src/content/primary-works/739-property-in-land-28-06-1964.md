@@ -52,3 +52,7 @@ ai:
 summary: |-
   This two-page MYSINDIA issue, dated June 28, 1964, contains two separately bylined articles alongside a commercial advertisement. Minoo Masani argues against the 17th Constitutional Amendment and its land-ceiling provisions, presenting them as an assault on the fundamental right to property and as a coercive attempt to collectivise agriculture. P. Kodanda Rao's “Buildings Tax Form” uses a personal administrative experience to criticise bureaucratic rigidity, postage-related procedural burdens, and the harassment of ordinary taxpayers.
 ---
+
+## Summary
+
+This two-page MYSINDIA issue, dated June 28, 1964, contains two separately bylined articles alongside a commercial advertisement. Minoo Masani argues against the 17th Constitutional Amendment and its land-ceiling provisions, presenting them as an assault on the fundamental right to property and as a coercive attempt to collectivise agriculture. P. Kodanda Rao's “Buildings Tax Form” uses a personal administrative experience to criticise bureaucratic rigidity, postage-related procedural burdens, and the harassment of ordinary taxpayers.

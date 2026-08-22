@@ -63,6 +63,12 @@ summary: |-
   The report’s retrospective lessons emphasize organization, discipline, early candidate selection, cooperation among constitutional Opposition parties, and the need to build a broader social base among Harijans, Adivasis, small farmers, labour, shopkeepers, youth, and women. It also documents party structures and activities: the General Council, Central Organising Committee, Organisation Sub-Committee, Parliamentary Board, publications, trade-union work, international liberal contacts, and by-elections. Throughout the pages seen, the report frames Swatantra as an opponent of Statism and controlled economic policy, defending competitive free enterprise while advocating a democratic two-party system and constitutional methods.
 ---
 
+## Summary
+
+The Swatantra Party’s General Secretary’s Report, presented at the party’s Third National Convention in Bangalore in February 1964, reviews party activity from the Second National Convention at Agra in November 1961 through the end of 1963. The report records the adoption and dissemination of the party’s election manifesto, its performance in the 1962 general elections, the emergence of Swatantra as the second-largest party in the State Assemblies, and its position as the official Opposition in Bihar, Rajasthan, Orissa, and Gujarat. It presents the results as evidence of substantial rural and peasant support while acknowledging the party’s organizational and financial weaknesses.
+
+The report’s retrospective lessons emphasize organization, discipline, early candidate selection, cooperation among constitutional Opposition parties, and the need to build a broader social base among Harijans, Adivasis, small farmers, labour, shopkeepers, youth, and women. It also documents party structures and activities: the General Council, Central Organising Committee, Organisation Sub-Committee, Parliamentary Board, publications, trade-union work, international liberal contacts, and by-elections. Throughout the pages seen, the report frames Swatantra as an opponent of Statism and controlled economic policy, defending competitive free enterprise while advocating a democratic two-party system and constitutional methods.
+
 ## Key points
 
 - The report covers party activity from the Agra convention of November 1961 through the end of 1963.

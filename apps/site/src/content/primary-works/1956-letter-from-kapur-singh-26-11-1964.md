@@ -49,6 +49,12 @@ summary: |-
   The letter emphasizes that members are free to decide whether to attend, but conveys the Leader and Deputy Leader’s view that participation would be undesirable. Their position is based on the composition of the convention’s Steering Committee and the contents of the statement circulated with the invitation. The document records an internal party recommendation rather than a general statement of political doctrine.
 ---
 
+## Summary
+
+This one-page letter, dated November 26, 1964, was issued by the Swatantra Party Parliamentary Office in New Delhi and signed by Kapur Singh as Secretary. Addressed collectively to party members, it concerns invitations to attend the “National Democratic Convention” scheduled in Delhi for November 29–30, 1964.
+
+The letter emphasizes that members are free to decide whether to attend, but conveys the Leader and Deputy Leader’s view that participation would be undesirable. Their position is based on the composition of the convention’s Steering Committee and the contents of the statement circulated with the invitation. The document records an internal party recommendation rather than a general statement of political doctrine.
+
 ## Key points
 
 - The document is a one-page Swatantra Party Parliamentary Office letter dated November 26, 1964.

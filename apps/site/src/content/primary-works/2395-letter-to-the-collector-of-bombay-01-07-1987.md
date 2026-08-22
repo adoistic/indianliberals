@@ -50,6 +50,12 @@ summary: |-
   Masani refers to his earlier letter of 29 April 1987 to the Collector of Bombay, Bombay Suburban District, enclosing a copy for the transport office’s information. He returns the demand notice, arguing that the office is pursuing the wrong person, and lists the earlier letter, its enclosures, and the original demand notice as attachments.
 ---
 
+## Summary
+
+This letter, dated 1 July 1987, is M. R. Masani’s response to the Regional Transport Office, Bombay (Central), regarding a motor-vehicle-tax demand for vehicle no. MRG 2347 covering February 1987 to January 1988. Masani states that the vehicle does not belong to him and that he has repeatedly explained that the tax is not payable by him.
+
+Masani refers to his earlier letter of 29 April 1987 to the Collector of Bombay, Bombay Suburban District, enclosing a copy for the transport office’s information. He returns the demand notice, arguing that the office is pursuing the wrong person, and lists the earlier letter, its enclosures, and the original demand notice as attachments.
+
 ## Key points
 
 - The letter is dated 1 July 1987 and is addressed to the Regional Transport Office, Bombay (Central).

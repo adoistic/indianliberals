@@ -50,6 +50,12 @@ summary: |-
   Raju stresses the political importance of the Swatantra Party, noting that it became the single largest opposition party in the Lok Sabha in 1967 and a major coalition partner in the Orissa government from 1967 to 1971. Because the programme was sponsored by a public institution that had supported Rajaji, he asks how the organisers propose to make amends, rejecting lack of time or lateness as sufficient explanations.
 ---
 
+## Summary
+
+In this letter dated October 6, 1977, S. V. Raju criticises a sponsored programme on the life of C. Rajagopalachari for presenting Rajaji's political career as effectively ending in 1948 and for highlighting only his post–Governor-General mission to the United States. Raju argues that the programme omitted two major activities: Rajagopalachari's assumption of the chief ministership of the old Madras State during a period of serious communist trouble, and his founding of the Swatantra Party.
+
+Raju stresses the political importance of the Swatantra Party, noting that it became the single largest opposition party in the Lok Sabha in 1967 and a major coalition partner in the Orissa government from 1967 to 1971. Because the programme was sponsored by a public institution that had supported Rajaji, he asks how the organisers propose to make amends, rejecting lack of time or lateness as sufficient explanations.
+
 ## Key points
 
 - Raju objects to a programme's incomplete account of C. Rajagopalachari's life and political career.

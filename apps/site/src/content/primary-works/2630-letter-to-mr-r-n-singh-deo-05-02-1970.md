@@ -49,6 +49,12 @@ summary: |-
   The attachments record Singh Deo's February 1970 travel itinerary as Chief Minister of Orissa. They list air travel between Bhubaneswar, Calcutta, and Bombay, halts at the Calcutta airport VIP room and the Maharashtra Government Guest House, and circulation of the programme to a wide range of political, police, administrative, and legislative officials. The pages therefore document both a proposed political meeting and the bureaucratic arrangements surrounding the chief minister's official travel.
 ---
 
+## Summary
+
+This three-page English-language document consists of an untitled letter from M. R. Masani to R. N. Singh Deo, dated 5 February 1970, followed by two attached memoranda from the Government of Orissa's Political & Services Department. Masani writes from Delhi and proposes meeting Singh Deo in Bombay on 11 February, offering times between 3 and 5 p.m. or between 5 and 8 p.m. He also notes with pleasure that Singh Deo will attend meetings of the National Executive and Central Parliamentary Board in Bombay on 16 and 17 February.
+
+The attachments record Singh Deo's February 1970 travel itinerary as Chief Minister of Orissa. They list air travel between Bhubaneswar, Calcutta, and Bombay, halts at the Calcutta airport VIP room and the Maharashtra Government Guest House, and circulation of the programme to a wide range of political, police, administrative, and legislative officials. The pages therefore document both a proposed political meeting and the bureaucratic arrangements surrounding the chief minister's official travel.
+
 ## Key points
 
 - Masani's letter is dated 5 February 1970 and addressed to R. N. Singh Deo, Chief Minister of Orissa.

@@ -51,6 +51,12 @@ summary: |-
   Mahida’s 5 September 1968 letter presents his competing claim for a Rajya Sabha seat. He recalls Patel’s earlier assurance that the Swatantra Party would send him to the Rajya Sabha, cites his own financial assistance to the party, and asks Patel to persuade Suman Patel to withdraw in his favour. The exchange illuminates the party’s internal bargaining over scarce candidacies, the role of prior promises and financial support, and the limits of an individual leader’s authority over formal party decisions.
 ---
 
+## Summary
+
+These three pages comprise correspondence from Bhailalbhai D. Patel concerning Swatantra Party candidacies and seat allocations for the 1968 elections. The covering letter to N. Dandekar, dated 23 April 1968, encloses Patel’s reply to U. N. Mahida and notes that a copy, with an English translation, was sent to N. G. Ranga. Patel’s reply to Mahida is sharply worded: it rejects the suggestion that Patel had personally secured Mahida a candidacy, explains that the party’s Central Parliamentary Board had already decided how its two likely seats would be allocated, and warns Mahida that pressuring him could damage their relationship.
+
+Mahida’s 5 September 1968 letter presents his competing claim for a Rajya Sabha seat. He recalls Patel’s earlier assurance that the Swatantra Party would send him to the Rajya Sabha, cites his own financial assistance to the party, and asks Patel to persuade Suman Patel to withdraw in his favour. The exchange illuminates the party’s internal bargaining over scarce candidacies, the role of prior promises and financial support, and the limits of an individual leader’s authority over formal party decisions.
+
 ## Key points
 
 - Patel’s covering letter to N. Dandekar encloses correspondence concerning U. N. Mahida’s request for a Swatantra Party candidacy.

@@ -51,6 +51,12 @@ summary: |-
   In his reply dated 21 March 1968, Singh Deo acknowledges that the matter had not previously come to his attention because of his work in the Assembly. He says he has instructed OMC to clear the dues, pay interest for the delay, and make an immediate installment payment. The appended telegram and handwritten note reinforce Voltas's demand for payment and urge Masani to take up the matter with people who had vouched for the solvency of the Orissa Government. The file documents a specific dispute over public-sector financial obligations and the credibility of a government guarantee, rather than presenting a general policy argument.
 ---
 
+## Summary
+
+This three-page English correspondence file concerns the failure of the Orissa Mining Corporation (OMC) to pay Voltas Limited for earth-moving equipment and spare parts. In a letter dated 11 March 1968, M. R. Masani asks Orissa Chief Minister R. N. Singh Deo to intervene over bills totaling Rs. 13.16 lakhs, which Voltas says were overdue despite an Orissa Government payment guarantee. Masani notes that Voltas had received no useful response from either OMC or the government and requests payment by 25 March.
+
+In his reply dated 21 March 1968, Singh Deo acknowledges that the matter had not previously come to his attention because of his work in the Assembly. He says he has instructed OMC to clear the dues, pay interest for the delay, and make an immediate installment payment. The appended telegram and handwritten note reinforce Voltas's demand for payment and urge Masani to take up the matter with people who had vouched for the solvency of the Orissa Government. The file documents a specific dispute over public-sector financial obligations and the credibility of a government guarantee, rather than presenting a general policy argument.
+
 ## Key points
 
 - Masani's 11 March 1968 letter reports that OMC had not paid Voltas Limited for equipment and spare parts costing Rs. 13.16 lakhs.

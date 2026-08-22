@@ -49,6 +49,12 @@ summary: |-
   The postscript turns to Swatantra Party organising. Masani and Munshi have discussed holding a public meeting in Delhi under the party's auspices, possibly on 17, 20, or 21 November, with Professor Ranga, Munshi, and Masani present. Masani asks Khera to consult his colleagues, book Sapru Hall for one of those dates, and inform the other organisers. The page read here is the complete surviving letter, including a handwritten closing note.
 ---
 
+## Summary
+
+In this letter dated 7 November 1959, M. R. Masani writes to Ishwardas Khera about a proposed tenancy arrangement in Delhi. Masani reports that he discussed the matter with K. M. Munshi, encouraged Munshi to give a positive response to Mrs. Ramohund Sehgal, and proposed renting the premises at Rs. 750 if the landlord could wait until 17 November. Masani says he expects to reach Delhi by plane on the morning of 16 November.
+
+The postscript turns to Swatantra Party organising. Masani and Munshi have discussed holding a public meeting in Delhi under the party's auspices, possibly on 17, 20, or 21 November, with Professor Ranga, Munshi, and Masani present. Masani asks Khera to consult his colleagues, book Sapru Hall for one of those dates, and inform the other organisers. The page read here is the complete surviving letter, including a handwritten closing note.
+
 ## Key points
 
 - Masani reports a conversation with K. M. Munshi about premises offered for tenancy in Delhi.

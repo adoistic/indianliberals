@@ -53,6 +53,12 @@ summary: |-
   The minutes convey the Parliamentary Board's decision to stage a walk-out at the introduction stage of the Constitution (19th Amendment) Bill. Prof. Ranga, P. K. Deo, and Yashpal Singh were permitted to speak at that stage; Deo was also selected to represent the party on the proposed Joint Committee on Prevention of Food Adulteration (Amendment) Bill, while Yashpal Singh was nominated to speak during the latter Bill's second reading. The meeting ended with a vote of thanks to the chair and was signed by Kapur Singh as secretary.
 ---
 
+## Summary
+
+This one-page record from the Swatantra Party Parliamentary Office documents a party meeting held on 27 May 1964 in the Central Hall Committee Room of Parliament House. Prof. N. G. Ranga chaired the meeting, which was attended by ten named members, including S. Kapur Singh, P. N. Solanki, Himmatsinghji, Krishna Pal Singh, Dahyabhai V. Patel, P. H. Bheel, Yashpal Singh, S. S. Mariswamy, and Rajendra Kohor.
+
+The minutes convey the Parliamentary Board's decision to stage a walk-out at the introduction stage of the Constitution (19th Amendment) Bill. Prof. Ranga, P. K. Deo, and Yashpal Singh were permitted to speak at that stage; Deo was also selected to represent the party on the proposed Joint Committee on Prevention of Food Adulteration (Amendment) Bill, while Yashpal Singh was nominated to speak during the latter Bill's second reading. The meeting ended with a vote of thanks to the chair and was signed by Kapur Singh as secretary.
+
 ## Key points
 
 - The meeting took place on Wednesday, 27 May 1964, at Parliament House in New Delhi.

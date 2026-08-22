@@ -50,6 +50,12 @@ summary: |-
   Handwritten annotations refer to a party context, apparently including “Swatantra,” but the sheet does not identify the formal title, author, date, issuer, or institutional setting. The document therefore provides a narrow record of a conflict-of-interest rationale for abstention, rather than a complete account of the underlying resolution.
 ---
 
+## Summary
+
+This single typed archival sheet records a voting qualification concerning a resolution to reduce the amount that “the Party” will pay to a bank. It states that the reduction would affect the interests of the pledger of property or assets pledged to the Central Bank and notes an association between the Raja of Ramgarh and that pledger. On this basis, the Raja of Ramgarh is described as not voting on the relevant part of the resolution.
+
+Handwritten annotations refer to a party context, apparently including “Swatantra,” but the sheet does not identify the formal title, author, date, issuer, or institutional setting. The document therefore provides a narrow record of a conflict-of-interest rationale for abstention, rather than a complete account of the underlying resolution.
+
 ## Key points
 
 - The sheet concerns a resolution involving a reduction in the amount paid by a party to a bank.

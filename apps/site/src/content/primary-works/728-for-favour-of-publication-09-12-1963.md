@@ -55,6 +55,10 @@ summary: |-
   This two-page minute of dissent by M. R. Masani and R. V. Bade argues that the Companies (Amendment) Bill, 1963, was unnecessarily referred to a Select Committee and that, despite some useful revisions, important defects remain. The authors welcome the removal of proposed powers allowing the Government to transfer court powers to a tribunal and the exclusion of certain government-loan defaults from a provision that could have allowed the state to convert itself unilaterally from creditor to shareholder. They argue that retrospective action of that kind would have breached contractual faith and damaged India's credit.
 ---
 
+## Summary
+
+This two-page minute of dissent by M. R. Masani and R. V. Bade argues that the Companies (Amendment) Bill, 1963, was unnecessarily referred to a Select Committee and that, despite some useful revisions, important defects remain. The authors welcome the removal of proposed powers allowing the Government to transfer court powers to a tribunal and the exclusion of certain government-loan defaults from a provision that could have allowed the state to convert itself unilaterally from creditor to shareholder. They argue that retrospective action of that kind would have breached contractual faith and damaged India's credit.
+
 ## Key points
 
 - The dissent welcomes the removal of provisions transferring judicial powers to a government-created tribunal.

@@ -52,6 +52,12 @@ summary: |-
   The meeting declined an invitation from the Prime Minister to discuss the Planning Commission's approach to the Fourth Plan. Members decided instead to send a letter explaining their position. The minutes also record discussion of a committee report on defections, with agreement that legislation to prevent defections might be possible or advisable. Finally, N. Dandekar reported on an upcoming Commonwealth parliamentary association meeting and the party approved Prof. Ranga as one of its delegates.
 ---
 
+## Summary
+
+This one-page set of minutes records a General Body meeting of the Swatantra Party's parliamentary group, held on 11 May 1968 in Parliament House, New Delhi. Twenty-three members are listed as present, including Prof. N. G. Ranga, Dr. B. N. Antani, Piloo Mody, N. Dandekar, and C. C. Desai, who signed the document as Secretary. The minutes are dated 15 May 1968 and were issued on Swatantra Party Parliamentary Office letterhead.
+
+The meeting declined an invitation from the Prime Minister to discuss the Planning Commission's approach to the Fourth Plan. Members decided instead to send a letter explaining their position. The minutes also record discussion of a committee report on defections, with agreement that legislation to prevent defections might be possible or advisable. Finally, N. Dandekar reported on an upcoming Commonwealth parliamentary association meeting and the party approved Prof. Ranga as one of its delegates.
+
 ## Key points
 
 - The document records a Swatantra Party parliamentary General Body meeting held on 11 May 1968.

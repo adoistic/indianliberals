@@ -48,6 +48,10 @@ summary: |-
   This one-page official letter, dated 30 September 1974, is addressed to Shri Girish K. Munshi, General Secretary of the Swatantra Party (Maharashtra). K. G. Ganesan, Under Secretary (Legal) of the Election Commission Secretariat, replies to Munshi’s letter of 23 August 1974 concerning the party’s status and states that the Commission will decide the matter on requests received from the party’s national organisation rather than from a state unit.
 ---
 
+## Summary
+
+This one-page official letter, dated 30 September 1974, is addressed to Shri Girish K. Munshi, General Secretary of the Swatantra Party (Maharashtra). K. G. Ganesan, Under Secretary (Legal) of the Election Commission Secretariat, replies to Munshi’s letter of 23 August 1974 concerning the party’s status and states that the Commission will decide the matter on requests received from the party’s national organisation rather than from a state unit.
+
 ## Key points
 
 - The letter concerns the Swatantra Party and is dated 30 September 1974.

@@ -58,6 +58,12 @@ summary: |-
   Masani links the budget to what he regards as a mistaken foreign-policy orientation: reluctance to accept military assistance from Western democracies and indulgence toward Communist powers, especially the Soviet Union and Communist China. He claims that accepting offered equipment and aid would have reduced the need for additional taxation. The latter pages turn from economic criticism to electoral mobilisation. Masani urges voters to withhold money and votes from Congress, support the Swatantra Party, and defend private enterprise and democratic India against what he describes as the Marxist fringe of the Congress leadership.
 ---
 
+## Summary
+
+In this speech delivered at Sunderbai Hall on 25 March 1963, Minoo Masani attacks the Union Budget as an unnecessarily punitive programme of indirect taxation, defence spending, and Super Profits Tax. He argues that the measures will burden ordinary people, discourage private enterprise, and retard economic progress. The speech presents the budget not as a neutral fiscal response but as the product of hostility toward business, industry, and free economic institutions.
+
+Masani links the budget to what he regards as a mistaken foreign-policy orientation: reluctance to accept military assistance from Western democracies and indulgence toward Communist powers, especially the Soviet Union and Communist China. He claims that accepting offered equipment and aid would have reduced the need for additional taxation. The latter pages turn from economic criticism to electoral mobilisation. Masani urges voters to withhold money and votes from Congress, support the Swatantra Party, and defend private enterprise and democratic India against what he describes as the Marxist fringe of the Congress leadership.
+
 ## Key points
 
 - Masani characterises the Union Budget as a severe burden on the population through indirect taxation and the Super Profits Tax.

@@ -50,6 +50,12 @@ summary: |-
   Masani stresses that the Bill contains 215 clauses, is highly contentious, and was accompanied by seven minutes of dissent to the Joint Select Committee's report. He states that members of the Swatantra Party group intend to introduce numerous amendments and argues that a full week should be allotted for debate, given the legislation's importance to India's industrial development.
 ---
 
+## Summary
+
+In this letter dated August 17, 1960, Minoo Masani informs the Speaker of the Lok Sabha that he expects to miss the Business Advisory Committee meeting because he is travelling to Bombay. He asks that his views be placed before the committee as it considers the time allocation for debate on the Companies (Amendment) Bill, scheduled to begin on August 25.
+
+Masani stresses that the Bill contains 215 clauses, is highly contentious, and was accompanied by seven minutes of dissent to the Joint Select Committee's report. He states that members of the Swatantra Party group intend to introduce numerous amendments and argues that a full week should be allotted for debate, given the legislation's importance to India's industrial development.
+
 ## Key points
 
 - Masani writes from New Delhi on August 17, 1960, to the Speaker of the Lok Sabha.

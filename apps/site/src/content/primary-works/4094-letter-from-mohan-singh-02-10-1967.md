@@ -51,6 +51,12 @@ summary: |-
   The letter calls for a fundamental change in the party's working methods: its leadership must become more active, make the party a genuine mass organisation, or allow it to die. Singh links the party's weakness to broader threats including rising prices, inflation, corruption, and Chinese and Pakistani aggression, and asks whether the Swatantra Party has become merely an idle opposition while Congress remains corrupt. He offers his services if Gayatri Devi wishes to revitalise the party. The document is a marked copy, with C. Rajagopalachari and the Maharaval of Dungarpur listed in the circulation copy.
 ---
 
+## Summary
+
+In this two-page letter dated 2 October 1967, Mohan Singh writes from Himmatnagar to Maharani Gayatri Devi of Jaipur about the Swatantra Party's defeat in Rajasthan and its deteriorating internal affairs. He urges her to undertake a process of self-criticism, identifying compromises with Choudhari Kumbharam, poor political judgment, inadequate attention to commoners and party workers, excessive reliance on clerks and flatterers, and neglect of organisational strength as major failures.
+
+The letter calls for a fundamental change in the party's working methods: its leadership must become more active, make the party a genuine mass organisation, or allow it to die. Singh links the party's weakness to broader threats including rising prices, inflation, corruption, and Chinese and Pakistani aggression, and asks whether the Swatantra Party has become merely an idle opposition while Congress remains corrupt. He offers his services if Gayatri Devi wishes to revitalise the party. The document is a marked copy, with C. Rajagopalachari and the Maharaval of Dungarpur listed in the circulation copy.
+
 ## Key points
 
 - Mohan Singh attributes the Swatantra Party's crushing defeat in Rajasthan to poor leadership and political judgment.

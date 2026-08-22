@@ -62,6 +62,12 @@ summary: |-
   The speech emphasises Rajaji’s opposition to concentrated political and administrative power. Patel connects his defence of individual dignity, freedom, and initiative with his criticism of socialism, controls, licences, and the expanding State. Rajaji is also remembered as an administrator who respected civil servants while maintaining a firm distinction between policy-making and implementation, as a writer in Tamil and English, and as a teacher of ethical and cultural values. The closing appeal is for systematic study of Rajaji’s ideas so that India may become “free, fearless and self-reliant.”
 ---
 
+## Summary
+
+In this memorial speech, H. M. Patel presents C. Rajagopalachari (Rajaji) as a statesman whose intellectual independence, moral seriousness, and public service spanned the freedom struggle and the post-independence period. He portrays Rajaji as a Gandhian who nevertheless retained the courage to dissent, including over the question of partition in 1942, and as a public figure whose influence rested on conviction rather than a mass political organisation.
+
+The speech emphasises Rajaji’s opposition to concentrated political and administrative power. Patel connects his defence of individual dignity, freedom, and initiative with his criticism of socialism, controls, licences, and the expanding State. Rajaji is also remembered as an administrator who respected civil servants while maintaining a firm distinction between policy-making and implementation, as a writer in Tamil and English, and as a teacher of ethical and cultural values. The closing appeal is for systematic study of Rajaji’s ideas so that India may become “free, fearless and self-reliant.”
+
 ## Key points
 
 - Patel memorialises Rajaji as a major figure of Indian public life whose career covered the pre- and post-independence eras.

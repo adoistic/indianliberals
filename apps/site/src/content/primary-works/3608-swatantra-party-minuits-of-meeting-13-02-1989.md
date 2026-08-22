@@ -51,6 +51,12 @@ summary: |-
   The committee reviewed legal and administrative matters affecting the party office. It approved pursuing a High Court case concerning the threatened disconnection of telephone number 271578 by Mahanagar Telephone Nigam Ltd., and discussed action regarding electricity and an unauthorised connection at the party office. It also increased Tina D'Souza's monthly honorarium from Rs.125 to Rs.250 from January 1989. The minutes close by noting a general discussion of the national political situation and the contribution the Maharashtra unit could make, followed by a vote of thanks to the chair.
 ---
 
+## Summary
+
+This one-page English office record contains the minutes of the Swatantra Party, Maharashtra Executive Committee meeting held in Bombay on February 13, 1989. Chaired by J. Venkiteswaran, the meeting confirmed the previous minutes and approved the Income and Expenditure Statement and Balance Sheet for the year ending December 31, 1988. Those present were J. Venkiteswaran, L.R. Sampat, and S.V. Raju; P.N. Subramanian was granted leave of absence.
+
+The committee reviewed legal and administrative matters affecting the party office. It approved pursuing a High Court case concerning the threatened disconnection of telephone number 271578 by Mahanagar Telephone Nigam Ltd., and discussed action regarding electricity and an unauthorised connection at the party office. It also increased Tina D'Souza's monthly honorarium from Rs.125 to Rs.250 from January 1989. The minutes close by noting a general discussion of the national political situation and the contribution the Maharashtra unit could make, followed by a vote of thanks to the chair.
+
 ## Key points
 
 - The Executive Committee of the Swatantra Party, Maharashtra met in Bombay on February 13, 1989.

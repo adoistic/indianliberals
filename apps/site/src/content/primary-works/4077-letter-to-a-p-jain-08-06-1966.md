@@ -50,6 +50,12 @@ summary: |-
   Masani expresses reluctance to attend a collective meeting with other party leaders, arguing that previous such meetings had been unproductive because discussion of one issue was displaced by other matters. He distinguishes the proposed collective meeting from a separate meeting with the Prime Minister, which he would consider worthwhile for her convenience. He asks Jain to contact the Prime Minister's Secretariat for details and to telegraph him any information before his return to Bombay.
 ---
 
+## Summary
+
+In this letter dated 8 June 1966, M. R. Masani replies to A. P. Jain about a telegram from the Prime Minister inviting him to a proposed meeting. Masani says he has agreed to attend with a colleague to discuss the implications of devaluation and how the government's proposals might be made fruitful, while noting his availability between 9 and 14 June and his planned absence in Bangalore for the Swatantra Party State Convention.
+
+Masani expresses reluctance to attend a collective meeting with other party leaders, arguing that previous such meetings had been unproductive because discussion of one issue was displaced by other matters. He distinguishes the proposed collective meeting from a separate meeting with the Prime Minister, which he would consider worthwhile for her convenience. He asks Jain to contact the Prime Minister's Secretariat for details and to telegraph him any information before his return to Bombay.
+
 ## Key points
 
 - Masani acknowledges a telegram from the Prime Minister inviting him to discuss a proposed meeting.

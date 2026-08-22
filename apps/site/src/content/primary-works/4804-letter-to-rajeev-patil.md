@@ -61,6 +61,12 @@ summary: |-
   The petition presents the Swatantra Party as committed to social justice, equality of opportunity, individual initiative, private enterprise, and maximum individual freedom with minimum state interference. It distinguishes the party's opposition to state-controlled socialism from its support for constitutional democracy, secularism, workers' rights, collective bargaining, and the principle of trusteeship associated with Gandhi. The petition argues that a political party should be able to maintain an ideology opposed to socialism while remaining faithful to the Constitution, and asks the Court to declare section 29A unconstitutional and direct the authorities to register the party without requiring a contrary ideological affirmation. The document ends with prayers for writs, interim registration enabling participation in forthcoming elections, and related relief.
 ---
 
+## Summary
+
+This English-language occasional paper is a writ petition filed in the Bombay High Court in October 1994 by the Swatantra Party (Maharashtra), through its General Secretary, Shri L.R. Sampat. The petition challenges section 29A of the Representation of the People Act, 1951, as amended in 1989, arguing that its requirement that political parties affirm faith in socialism, secularism, and democracy conflicts with the Constitution's protections for freedom of speech, expression, belief, and association. The opening page is a separate handwritten note addressed to “Mr. Rajeev Patil”; the remaining rendered pages comprise the legal petition.
+
+The petition presents the Swatantra Party as committed to social justice, equality of opportunity, individual initiative, private enterprise, and maximum individual freedom with minimum state interference. It distinguishes the party's opposition to state-controlled socialism from its support for constitutional democracy, secularism, workers' rights, collective bargaining, and the principle of trusteeship associated with Gandhi. The petition argues that a political party should be able to maintain an ideology opposed to socialism while remaining faithful to the Constitution, and asks the Court to declare section 29A unconstitutional and direct the authorities to register the party without requiring a contrary ideological affirmation. The document ends with prayers for writs, interim registration enabling participation in forthcoming elections, and related relief.
+
 ## Key points
 
 - The filing challenges the constitutional validity of section 29A of the Representation of the People Act, 1951.

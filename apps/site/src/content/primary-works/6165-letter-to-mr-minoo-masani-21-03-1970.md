@@ -49,6 +49,12 @@ summary: |-
   The second page reproduces Masani's letter of February 5, 1970. Masani explains that he needs secretarial assistance for party work and other work in Delhi and asks Raju to verify the previous arrangement, recalling that while the party continued to pay Narayan's salary, S. P. paid his travelling and additional living expenses. Handwritten annotations and signatures appear on both pages, but their full contents are not consistently legible.
 ---
 
+## Summary
+
+This two-page English correspondence concerns administrative arrangements for Narayan's assistance to Minoo Masani during the forthcoming session of Parliament. In the letter dated March 21, 1970, S. V. Raju refers to Masani's earlier note and records that Narayan's first-class railway fare, as well as boarding and lodging expenses in Delhi at Rs. 12 per day, had been paid when Masani was General Secretary. Raju proposes resuming that arrangement from the beginning of the Budget Session and states that he has confirmed it with the General Secretary.
+
+The second page reproduces Masani's letter of February 5, 1970. Masani explains that he needs secretarial assistance for party work and other work in Delhi and asks Raju to verify the previous arrangement, recalling that while the party continued to pay Narayan's salary, S. P. paid his travelling and additional living expenses. Handwritten annotations and signatures appear on both pages, but their full contents are not consistently legible.
+
 ## Key points
 
 - S. V. Raju's March 21, 1970 letter is addressed to Minoo Masani.

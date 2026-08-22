@@ -46,6 +46,12 @@ summary: |-
   The second half of the letter shifts to housekeeping. Ranga notes that the Raja of Ramgarh is coming to meet him the next day; he left Delhi on the 11th and so did not receive Ranga's wire addressed to the Ashoka Hotel. The party gave him tea in the same manner as Dandekar and other leaders of the State Parties had been entertained, with no substantive discussion. Ranga closes by acknowledging Masani's memo to be presented on behalf of the C.O.C., asking only that on page 3, line 3, item 10, the word "not" be inserted between "have" and "been" — otherwise the statement is alright.
 ---
 
+## Summary
+
+A single-page letter from Prof. N. G. Ranga, Member of Parliament (Lok Sabha), written from 44 Western Court, New Delhi, on 23 January 1963 to Minoo Masani in Bombay. Ranga reports on the state of an inter-party manoeuvre in Parliament: friends are trying to persuade the Socialists to withdraw an amendment, so that the Prime Minister will not be able to claim that Parliament refused to censure his acceptance of certain proposals. If the Socialists nonetheless press their amendment to a vote, all the other democratic groups have agreed to abstain, but Ranga proposes to consult his people again the next day and, if they agree, to vote for the amendment in order to accommodate Masani's strong views. He encloses a copy of his letter to Rajaji for further context.
+
+The second half of the letter shifts to housekeeping. Ranga notes that the Raja of Ramgarh is coming to meet him the next day; he left Delhi on the 11th and so did not receive Ranga's wire addressed to the Ashoka Hotel. The party gave him tea in the same manner as Dandekar and other leaders of the State Parties had been entertained, with no substantive discussion. Ranga closes by acknowledging Masani's memo to be presented on behalf of the C.O.C., asking only that on page 3, line 3, item 10, the word "not" be inserted between "have" and "been" — otherwise the statement is alright.
+
 ## Key points
 
 - Ranga writes to Masani on 23 January 1963 about coordinating opposition tactics in Parliament around a Socialist amendment.

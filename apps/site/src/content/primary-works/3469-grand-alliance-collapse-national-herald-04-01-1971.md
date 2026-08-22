@@ -51,6 +51,12 @@ summary: |-
   The report describes disagreements over candidate allocation, electoral adjustments and the timing of a joint declaration. Masani objected to proceeding without an agreed programme, while Atal Bihari Vajpayee, N. Sanjiva Reddy and other leaders argued that a common programme was unnecessary for an alternative electoral front. The clipping also records related political developments, including the CPI’s decision to sponsor R. K. Garg against a Congress (O) candidate and defections from the PSP to Congress. Other visible fragments concern engineering education, archaeology, urban housing and Punjab border areas and are unrelated to the principal article.
 ---
 
+## Summary
+
+This National Herald clipping reports the collapse of a proposed right-wing electoral alliance before the 1971 Lok Sabha election. The Congress (O), Jan Sangh and Swatantra Party had initially planned a three-party front, but Swatantra chairman M. R. Masani withdrew after insisting that the alliance adopt a minimum programme. The front was subsequently reconstituted with the Samyukta Socialist Party (SSP) replacing Swatantra, while its public statement remained centered on the slogan “Indira hatao.”
+
+The report describes disagreements over candidate allocation, electoral adjustments and the timing of a joint declaration. Masani objected to proceeding without an agreed programme, while Atal Bihari Vajpayee, N. Sanjiva Reddy and other leaders argued that a common programme was unnecessary for an alternative electoral front. The clipping also records related political developments, including the CPI’s decision to sponsor R. K. Garg against a Congress (O) candidate and defections from the PSP to Congress. Other visible fragments concern engineering education, archaeology, urban housing and Punjab border areas and are unrelated to the principal article.
+
 ## Key points
 
 - A proposed alliance of Congress (O), Jan Sangh and Swatantra Party collapsed after M. R. Masani demanded a minimum programme.

@@ -53,6 +53,12 @@ summary: |-
   The note proposes an interim funding arrangement for May and June: Rs. 25,000 per month in direct assistance, together with agreement to support up to Rs. 5 lakhs in loans against later payments due by the end of 1961. It also criticises the Bihar Party's delay in submitting Lok Sabha candidate names, urging it to follow the Central Organising Committee's decision and accelerate the process. The document refers to pending approval by C. Rajagopalachari (Rajaji), the party President, and the Treasurer, A. D. Shroff.
 ---
 
+## Summary
+
+Dated May 9, 1961, this two-page internal note assesses the Bihar Party's preparations for an electoral bid and its request for financial assistance from the Centre. The note records a request for Rs. 12 lakhs, to be used for jeeps, worker maintenance, and related purposes, with payments proposed in monthly instalments of Rs. 25,000. The General Secretary says that the party has been asked to submit a list of up to 24 parliamentary constituencies and to concentrate any central funds exclusively on those constituencies.
+
+The note proposes an interim funding arrangement for May and June: Rs. 25,000 per month in direct assistance, together with agreement to support up to Rs. 5 lakhs in loans against later payments due by the end of 1961. It also criticises the Bihar Party's delay in submitting Lok Sabha candidate names, urging it to follow the Central Organising Committee's decision and accelerate the process. The document refers to pending approval by C. Rajagopalachari (Rajaji), the party President, and the Treasurer, A. D. Shroff.
+
 ## Key points
 
 - The Bihar Party seeks a majority in the forthcoming election and requests substantial financial support from the Centre.

@@ -51,6 +51,12 @@ summary: |-
   The minutes also assign party speakers for the President’s Address and the Railway Budget. Prof. N. G. Ranga, Dr. B. N. Singh, Maharani Gayatri Devi, and P. K. Deo were selected for the former; S. Kapur Singh, C. L. N. Readi, and M. R. Masani for the latter, with Masani designated for cut motions. A proposal to nominate opening speakers in advance for the Budget general discussion and Finance Bill was deferred, with the party to decide at the appropriate time in light of circumstances and its interests. The meeting then adjourned with a vote of thanks to the chair.
 ---
 
+## Summary
+
+These one-page minutes record a meeting of the Swatantra Party in Parliament held on 11 February 1964 in the Party Committee Room, Central Hall, Parliament House, New Delhi. Prof. N. G. Ranga chaired the meeting, which was attended by sixteen party members; Kapur Singh signed the minutes as Secretary. The meeting approved, with minor amendments, a draft Motion of Thanks on the President’s Address prepared by M. R. Masani.
+
+The minutes also assign party speakers for the President’s Address and the Railway Budget. Prof. N. G. Ranga, Dr. B. N. Singh, Maharani Gayatri Devi, and P. K. Deo were selected for the former; S. Kapur Singh, C. L. N. Readi, and M. R. Masani for the latter, with Masani designated for cut motions. A proposal to nominate opening speakers in advance for the Budget general discussion and Finance Bill was deferred, with the party to decide at the appropriate time in light of circumstances and its interests. The meeting then adjourned with a vote of thanks to the chair.
+
 ## Key points
 
 - The Swatantra Party parliamentary meeting took place on 11 February 1964 and the minutes were dated 12 February 1964.

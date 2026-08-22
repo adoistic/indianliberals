@@ -51,6 +51,12 @@ summary: |-
   Narayan proposes that a small group of party leaders meet on February 15, or if necessary February 16, before the people’s charter of demands is presented to the Prime Minister on March 6. He asks Masani to consult colleagues and other relevant associates, and to give the meeting priority even if doing so requires cancelling other engagements. The letter is a direct appeal for coordinated opposition deliberation on a matter Narayan describes as urgent and vital.
 ---
 
+## Summary
+
+In this letter from Patna dated February 3, 1975, Jayaprakash Narayan invites Minoo Masani to a proposed meeting of opposition-party leaders in New Delhi. Narayan explains that, at a recent meeting of the Opposition Party leaders’ Coordinating Committee, he raised the possibility of Bangladesh being repatriated to India; those present agreed that the question required urgent consideration.
+
+Narayan proposes that a small group of party leaders meet on February 15, or if necessary February 16, before the people’s charter of demands is presented to the Prime Minister on March 6. He asks Masani to consult colleagues and other relevant associates, and to give the meeting priority even if doing so requires cancelling other engagements. The letter is a direct appeal for coordinated opposition deliberation on a matter Narayan describes as urgent and vital.
+
 ## Key points
 
 - Narayan writes from Patna to Minoo Masani on February 3, 1975.

@@ -59,6 +59,12 @@ summary: |-
   The letter advocates stricter legal accountability for ministers and candidates, independent auditing of election expenditure, limits on corrupt practices, greater attention to locally raised resources before granting autonomy to local bodies, and an economy oriented toward production and consumer benefit. It also criticises restrictions on agricultural tenancy, compulsory regional-language university education, and quota proposals that are not tied to actual community representation. The final two scanned pages are a separate Insight clipping headed “A NATIONAL ALTERNATIVE,” presenting a broader six-part Swatantra Party platform focused on electoral and cabinet reform, rural development, employment, private-sector participation, transport, and education; it should not be conflated with the letter itself.
 ---
 
+## Summary
+
+This four-page scan contains a letter dated July 9, 1974, from J. M. Lobo Prabhu, a former ICS officer and Member of Parliament, to the General Secretary of the Swatantra Party. Prabhu asks that his draft resolution be placed before the Party’s National Convention on August 4–5 and that Piloo Mody’s alternative draft be rejected. He argues that many of Mody’s proposals merely paraphrase existing government policies, while others are impractical, constitutionally doubtful, or insufficiently attentive to corruption, electoral finance, judicial independence, local-government accountability, agricultural freedom, and education.
+
+The letter advocates stricter legal accountability for ministers and candidates, independent auditing of election expenditure, limits on corrupt practices, greater attention to locally raised resources before granting autonomy to local bodies, and an economy oriented toward production and consumer benefit. It also criticises restrictions on agricultural tenancy, compulsory regional-language university education, and quota proposals that are not tied to actual community representation. The final two scanned pages are a separate Insight clipping headed “A NATIONAL ALTERNATIVE,” presenting a broader six-part Swatantra Party platform focused on electoral and cabinet reform, rural development, employment, private-sector participation, transport, and education; it should not be conflated with the letter itself.
+
 ## Key points
 
 - The letter requests that Prabhu’s resolution be considered at the Swatantra Party National Convention on August 4–5, 1974.

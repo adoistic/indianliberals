@@ -51,6 +51,12 @@ summary: |-
   The second page shifts toward public-facing grievance redress and political mobilisation. It recommends educating party members about the Lokayukta, surveying Maharashtra's recurring problems, demonstrating that the party can address concrete grievances, assigning office-bearers responsibility for particular government departments, and creating a time-bound programme concerning alleged failures and malpractice in the cooperative sector. The paper also calls for attracting the middle class and intellectuals into the party. Its emphasis throughout is on disciplined follow-up, visible service, executive accountability, and rebuilding public confidence through action rather than assurances.
 ---
 
+## Summary
+
+Dated 27 November 1973, this two-page working paper by A. R. Deshpande of Aurangabad sets out fifteen proposals for expanding and improving Swatantra Party organisation in Maharashtra after the merger of the Bombay and Maharashtra regional units. The proposals focus on recruiting members, rebuilding inactive district units, sending senior party officers into the field, issuing work directives, establishing Public Assistance Bureaux, and requiring regular reports from district organisations.
+
+The second page shifts toward public-facing grievance redress and political mobilisation. It recommends educating party members about the Lokayukta, surveying Maharashtra's recurring problems, demonstrating that the party can address concrete grievances, assigning office-bearers responsibility for particular government departments, and creating a time-bound programme concerning alleged failures and malpractice in the cooperative sector. The paper also calls for attracting the middle class and intellectuals into the party. Its emphasis throughout is on disciplined follow-up, visible service, executive accountability, and rebuilding public confidence through action rather than assurances.
+
 ## Key points
 
 - The paper responds to the merger of the Bombay and Maharashtra regional units of the Swatantra Party.

@@ -49,6 +49,12 @@ summary: |-
   The letter focuses on practical arrangements for participation in the convention. P. Ramachandran, identified as chairman of the Janata Party’s Tamil Nadu unit, is to coordinate arrangements for delegates and workers; colleagues from Tamil Nadu and Karnataka are advised to contact him at Tamil Nadu House in New Delhi. The writer offers to provide introductory letters where needed and signs as V. S. Srikumar, Joint Secretary, at the All India Swatantra Party National Headquarters in Madras.
 ---
 
+## Summary
+
+This typed office letter, dated 21 April 1977, informs Swatantra Party colleagues that the party’s National Executive Committee has resolved to merge with the Janata Party. The merger is described as involving the four constituent parties already forming Janata, and is scheduled to take place at Janata’s inaugural national convention in New Delhi on 1 May 1977.
+
+The letter focuses on practical arrangements for participation in the convention. P. Ramachandran, identified as chairman of the Janata Party’s Tamil Nadu unit, is to coordinate arrangements for delegates and workers; colleagues from Tamil Nadu and Karnataka are advised to contact him at Tamil Nadu House in New Delhi. The writer offers to provide introductory letters where needed and signs as V. S. Srikumar, Joint Secretary, at the All India Swatantra Party National Headquarters in Madras.
+
 ## Key points
 
 - The Swatantra Party’s National Executive Committee resolved on 17 April 1977 to merge with the Janata Party.

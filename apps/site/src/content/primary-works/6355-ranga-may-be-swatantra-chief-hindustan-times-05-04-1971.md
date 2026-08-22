@@ -49,6 +49,12 @@ summary: |-
   The report says the party’s general council will meet in Bombay on April 17 to elect a new chairman and consider measures to strengthen the organisation. No personal byline is printed; the credit is “Hindustan Times Correspondent.”
 ---
 
+## Summary
+
+This one-page Hindustan Times report, datelined New Delhi, April 4, states that N. G. Ranga may return as chairman of the Swatantra Party after M. R. Masani resigned. It notes that Ranga had led the party before Masani took over.
+
+The report says the party’s general council will meet in Bombay on April 17 to elect a new chairman and consider measures to strengthen the organisation. No personal byline is printed; the credit is “Hindustan Times Correspondent.”
+
 ## Key points
 
 - N. G. Ranga is reported as a possible successor to M. R. Masani as Swatantra Party chairman.

@@ -54,6 +54,12 @@ summary: |-
   The attached resolution, headed “On Restoration of Civil Liberties and Democratic Processes,” condemns the Emergency’s censorship of the press, detention without trial or disclosure of grounds, restrictions on criticism, and measures excluding the courts from protecting citizens’ Fundamental Rights. It argues that the Emergency was unnecessary for maintaining public discipline or implementing an economic programme, and warns that suppressing dissent deprives both the opposition and the government of essential knowledge about public dissatisfaction. The conference calls for revoking the Emergency proclamations, releasing political detainees, lifting press censorship, restoring civil liberties and the rule of law, and holding a credible general election supported by freedom of discussion and expression.
 ---
 
+## Summary
+
+This four-page English-language document consists of a letter from advocate C. T. Daru to Minoo Masani, dated 14 October 1975, followed by the text of conference resolutions. Daru thanks Masani for attending the conference and moving its main resolution, notes that the press gave the event little coverage, and reports that a public meeting of approximately 10,000 people was addressed by Joshi, Dharia, Mavlankar, and Tarukunde. He also encloses the conference resolutions.
+
+The attached resolution, headed “On Restoration of Civil Liberties and Democratic Processes,” condemns the Emergency’s censorship of the press, detention without trial or disclosure of grounds, restrictions on criticism, and measures excluding the courts from protecting citizens’ Fundamental Rights. It argues that the Emergency was unnecessary for maintaining public discipline or implementing an economic programme, and warns that suppressing dissent deprives both the opposition and the government of essential knowledge about public dissatisfaction. The conference calls for revoking the Emergency proclamations, releasing political detainees, lifting press censorship, restoring civil liberties and the rule of law, and holding a credible general election supported by freedom of discussion and expression.
+
 ## Key points
 
 - Daru’s letter thanks Minoo Masani for attending the conference and moving its principal resolution.

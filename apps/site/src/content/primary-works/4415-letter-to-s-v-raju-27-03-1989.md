@@ -48,6 +48,12 @@ summary: |-
   Handwritten annotations on the page refer to a meeting, a report, and a possible response, but their full wording is not consistently legible. The typed letter itself is a concise intervention on party organisation, cooperation among state parties, and the possibility of a credible national political alternative.
 ---
 
+## Summary
+
+This one-page letter, dated 27 March 1989 and written from The Lilypool in Jaipur, is addressed to S. V. Raju of Freedom First. Rajmata Gayatri Devi assures Raju that she will not join any political party, while agreeing that state parties may be the answer to India's political problems. She identifies the central difficulty as whether those parties can cooperate to form a “decent party” at the Centre.
+
+Handwritten annotations on the page refer to a meeting, a report, and a possible response, but their full wording is not consistently legible. The typed letter itself is a concise intervention on party organisation, cooperation among state parties, and the possibility of a credible national political alternative.
+
 ## Key points
 
 - The letter is dated 27 March 1989 and was sent from The Lilypool, Jaipur.

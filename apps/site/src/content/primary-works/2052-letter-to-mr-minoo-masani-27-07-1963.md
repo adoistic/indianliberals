@@ -47,6 +47,10 @@ summary: |-
   This untitled letter, sent from the Swatantra Party Parliamentary Office in New Delhi on 27 July 1963, is addressed to M. R. Masani, M.P. A. P. Jain explains that he has drafted four parliamentary questions concerning various grievances of Central Government servants posted in Gujarat. Because the details could not be accommodated in a single admissible question, he has divided the material into two questions on one part and one question each on the remaining two parts.
 ---
 
+## Summary
+
+This untitled letter, sent from the Swatantra Party Parliamentary Office in New Delhi on 27 July 1963, is addressed to M. R. Masani, M.P. A. P. Jain explains that he has drafted four parliamentary questions concerning various grievances of Central Government servants posted in Gujarat. Because the details could not be accommodated in a single admissible question, he has divided the material into two questions on one part and one question each on the remaining two parts.
+
 ## Key points
 
 - The letter is dated 27 July 1963 and issued on Swatantra Party Parliamentary Office letterhead.

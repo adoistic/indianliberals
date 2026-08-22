@@ -54,6 +54,12 @@ summary: |-
   The record then notes decisions concerning parliamentary business. Yashpal Singh agreed not to press his substitute motion on food and to conform to party decisions. Members were assigned speaking roles and time limits for a No-Confidence Motion, while P.N. Solanki was nominated to speak on the motion concerning Walcott’s escape from India. The meeting also raised concerns about Election Commission proceedings relating to Biren Mitra’s election, and Masani was designated to represent the party at a forthcoming meeting of opposition-party leaders. The document ends with a vote of thanks and is signed by Kapur Singh as Secretary.
 ---
 
+## Summary
+
+This two-page office record documents a meeting of Swatantra Party members from both Houses of Parliament, held on 8 September 1964 at Bharatiya Vidya Bhavan in New Delhi. It lists 25 members present and records the election of parliamentary office-bearers for 1964–65, including Dahyabhai V. Patel as Rajya Sabha Leader, M. Ruthnaswami as Deputy Leader, M.R. Masani as Lok Sabha Deputy Leader, and N.G. Ranga as Lok Sabha Leader. It also names the party’s secretaries, whips, and executive members.
+
+The record then notes decisions concerning parliamentary business. Yashpal Singh agreed not to press his substitute motion on food and to conform to party decisions. Members were assigned speaking roles and time limits for a No-Confidence Motion, while P.N. Solanki was nominated to speak on the motion concerning Walcott’s escape from India. The meeting also raised concerns about Election Commission proceedings relating to Biren Mitra’s election, and Masani was designated to represent the party at a forthcoming meeting of opposition-party leaders. The document ends with a vote of thanks and is signed by Kapur Singh as Secretary.
+
 ## Key points
 
 - The meeting of Swatantra Party parliamentarians took place on 8 September 1964 at Bharatiya Vidya Bhavan, New Delhi.

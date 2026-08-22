@@ -51,6 +51,12 @@ summary: |-
   The agenda combines internal party administration with electoral and public-facing organisational work. It calls for a review of party membership, the activation of district and primary units, consideration of correspondence concerning the Poona district election, and discussion of the “Rajaji Fortnight Programme” scheduled for December 8–25. Further items concern press and student liaison, labour, appointment of a membership-screening committee, and the forthcoming Bombay Central Parliamentary election. The notice is signed by Girish Munshi as General Secretary.
 ---
 
+## Summary
+
+This two-page English office notice, issued by the Swatantra Party, Maharashtra, on December 1, 1973, announces the first meeting of the newly elected Maharashtra Executive Committee. The meeting is scheduled for December 12, 1973, at the party office in Sassoon Building, 143 Mahatma Gandhi Road, Bombay 1, at 6:00 p.m.
+
+The agenda combines internal party administration with electoral and public-facing organisational work. It calls for a review of party membership, the activation of district and primary units, consideration of correspondence concerning the Poona district election, and discussion of the “Rajaji Fortnight Programme” scheduled for December 8–25. Further items concern press and student liaison, labour, appointment of a membership-screening committee, and the forthcoming Bombay Central Parliamentary election. The notice is signed by Girish Munshi as General Secretary.
+
 ## Key points
 
 - The notice is dated December 1, 1973, and is issued on Swatantra Party, Maharashtra, letterhead.

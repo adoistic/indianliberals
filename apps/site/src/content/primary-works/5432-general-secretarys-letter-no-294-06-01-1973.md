@@ -50,6 +50,12 @@ summary: |-
   The letter announces that the Swatantra Party’s Sixth National Convention will be held in Madras, renamed “RAJAJINAGAR” for the occasion, rather than Bombay as previously planned. It schedules the National Executive for April 12, the General Council for April 13, and the National Convention for April 14–15, and asks party units to revise their arrangements and ensure attendance from across India. The document is signed by Madhav Mohta as General Secretary.
 ---
 
+## Summary
+
+This one-page Swatantra Party General Secretary’s letter, dated January 6, 1973, commemorates the recent death of C. Rajagopalachari (Rajaji) and presents the party as the political instrument he created to resist dictatorship and the state’s intrusion into private life. It urges members to renew their commitment to Rajaji’s ideals and notes the profound public mourning witnessed in Madras, where he had lived and worked.
+
+The letter announces that the Swatantra Party’s Sixth National Convention will be held in Madras, renamed “RAJAJINAGAR” for the occasion, rather than Bombay as previously planned. It schedules the National Executive for April 12, the General Council for April 13, and the National Convention for April 14–15, and asks party units to revise their arrangements and ensure attendance from across India. The document is signed by Madhav Mohta as General Secretary.
+
 ## Key points
 
 - The letter mourns C. Rajagopalachari and portrays his political influence as continuing through the Swatantra Party.

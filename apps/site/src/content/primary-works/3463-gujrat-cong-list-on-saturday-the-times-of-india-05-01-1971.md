@@ -48,6 +48,10 @@ summary: |-
   This Times of India news-service clipping, dated 5 January 1971, reports that the Gujarat unit of the Congress (Organisation) would finalise its Lok Sabha candidates on Saturday. The report links the decision to the Swatantra Party’s entry into an electoral alliance and lists constituencies where the Congress (O) and Swatantra would contest. It also records uncertainty over whether the Pradesh Congress Committee’s proposed candidates would be accepted by the party’s Central Parliamentary Board, and notes that the Jana Sangh might receive one or two seats in the alliance.
 ---
 
+## Summary
+
+This Times of India news-service clipping, dated 5 January 1971, reports that the Gujarat unit of the Congress (Organisation) would finalise its Lok Sabha candidates on Saturday. The report links the decision to the Swatantra Party’s entry into an electoral alliance and lists constituencies where the Congress (O) and Swatantra would contest. It also records uncertainty over whether the Pradesh Congress Committee’s proposed candidates would be accepted by the party’s Central Parliamentary Board, and notes that the Jana Sangh might receive one or two seats in the alliance.
+
 ## Key points
 
 - The Gujarat Congress (O) executive committee was expected to finalise its Lok Sabha candidate list on Saturday.

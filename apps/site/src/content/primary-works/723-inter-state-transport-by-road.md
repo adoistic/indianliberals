@@ -52,6 +52,12 @@ summary: |-
   In the rendered pages, Masani presents road transport as essential to closing an expanding national transport-capacity gap. He cites the inadequacy of the existing permit system, multiple taxation of consignments, inconsistent truck weight limits, bridge and road deficiencies, river-crossing detours, and octroi posts as practical impediments to economic expansion. He calls for the Commission to receive effective powers and to issue permits freely when additional demand is established, while arguing that a stronger road network would relieve pressure on the Railways and enable them to serve defence-related industries and neglected passengers and customers.
 ---
 
+## Summary
+
+In the rendered pages, Minoo Masani argues that inter-State road transport is being crippled by a dense network of restrictions, permits, taxes, weight limits, border checks, and administrative delays. He traces these obstacles to the Motor Vehicles Act of 1939 and subsequent policies intended to protect the Railways from so-called “unhealthy” competition. The article criticises the Government for giving the Inter-State Transport Commission inadequate powers and for allowing State governments to treat inter-State traffic as a marginal concern, except when tax revenue is involved.
+
+In the rendered pages, Masani presents road transport as essential to closing an expanding national transport-capacity gap. He cites the inadequacy of the existing permit system, multiple taxation of consignments, inconsistent truck weight limits, bridge and road deficiencies, river-crossing detours, and octroi posts as practical impediments to economic expansion. He calls for the Commission to receive effective powers and to issue permits freely when additional demand is established, while arguing that a stronger road network would relieve pressure on the Railways and enable them to serve defence-related industries and neglected passengers and customers.
+
 ## Key points
 
 - Masani describes inter-State road transport as a field dominated by restrictions and administrative handicaps.

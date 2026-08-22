@@ -52,6 +52,12 @@ summary: |-
   The letter also briefly considers a proposal for a “National Government.” Rajagopalachari suggests that this may be the first and best point to pursue, while acknowledging that several other points are important. He cautions, however, that the present moment may not be suitable and that publishing or pursuing the report could do more harm than good. The document is a single private letter on C. Rajagopalachari’s Madras letterhead; it has no printed title.
 ---
 
+## Summary
+
+In this handwritten letter dated June 1, 1964, C. Rajagopalachari writes to Raju about a report that appeared, or was expected to appear, in the Madras Mail. He says he does not believe Mr. Masani knows anything about the report and asks the recipient to identify who supplied the story. Rajagopalachari adds that he has denied knowledge of it and that a denial appeared in the morning papers.
+
+The letter also briefly considers a proposal for a “National Government.” Rajagopalachari suggests that this may be the first and best point to pursue, while acknowledging that several other points are important. He cautions, however, that the present moment may not be suitable and that publishing or pursuing the report could do more harm than good. The document is a single private letter on C. Rajagopalachari’s Madras letterhead; it has no printed title.
+
 ## Key points
 
 - Rajagopalachari writes to Raju about a report connected with Mr. Masani.

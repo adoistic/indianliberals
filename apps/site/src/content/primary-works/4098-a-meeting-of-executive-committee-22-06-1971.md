@@ -56,6 +56,12 @@ summary: |-
   The attached draft minutes record two earlier Executive Committee meetings. The minutes of 19 May 1971 note a possible Sarla Datar candidacy for the Graduates’ Constituency, arrangements for civic by-elections in Borivli, circulation of national headquarters material on party policy and elections, efforts to retain the Ladies’ Wing convener, and the selection of returning officers. The minutes of the 9 June special meeting defer consideration of Bombay and Maharashtra regional membership because several important members were absent. The document therefore provides an administrative snapshot of internal party organisation and electoral planning in the Bombay Region rather than a statement of political doctrine.
 ---
 
+## Summary
+
+This three-page English office circular, issued by the Swatantra Party (Bombay Region) on 22 June 1971, announces an Executive Committee meeting scheduled for 28 June 1971 at the party office in Bombay. Its agenda focuses on preparations for forthcoming party elections: the possible formation of primary units smaller than Assembly constituencies, appointment of returning officers, election timetables and nomination procedures, representation of primary units on the District Committee, the size of the future Regional Council and Executive Committee, and election tribunals.
+
+The attached draft minutes record two earlier Executive Committee meetings. The minutes of 19 May 1971 note a possible Sarla Datar candidacy for the Graduates’ Constituency, arrangements for civic by-elections in Borivli, circulation of national headquarters material on party policy and elections, efforts to retain the Ladies’ Wing convener, and the selection of returning officers. The minutes of the 9 June special meeting defer consideration of Bombay and Maharashtra regional membership because several important members were absent. The document therefore provides an administrative snapshot of internal party organisation and electoral planning in the Bombay Region rather than a statement of political doctrine.
+
 ## Key points
 
 - The Swatantra Party’s Bombay Region scheduled an Executive Committee meeting for 28 June 1971.

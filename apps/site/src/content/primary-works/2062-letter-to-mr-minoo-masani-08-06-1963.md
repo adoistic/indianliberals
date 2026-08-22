@@ -48,6 +48,10 @@ summary: |-
   This single-page letter, sent from the Swatantra Party Parliamentary Office in New Delhi on June 8, 1963, forwards three cartoons from leftist newspapers in the capital to M. R. Masani, the party's General Secretary. A. P. Jain identifies the papers as Patriot, Century, and Link, and briefly explains that Century was a new weekly started by Krishna Menon after he had fallen out with Link.
 ---
 
+## Summary
+
+This single-page letter, sent from the Swatantra Party Parliamentary Office in New Delhi on June 8, 1963, forwards three cartoons from leftist newspapers in the capital to M. R. Masani, the party's General Secretary. A. P. Jain identifies the papers as Patriot, Century, and Link, and briefly explains that Century was a new weekly started by Krishna Menon after he had fallen out with Link.
+
 ## Key points
 
 - The letter is dated June 8, 1963, and is issued on Swatantra Party Parliamentary Office letterhead.

@@ -51,6 +51,14 @@ summary: |-
   On page two Ranga thanks Masani for advertisements arranged for the Vahini and expects the free list to spread in Chittoor, conveys the wish of 'Gujarati friends' that Masani himself consider standing from Rajkot Constituency, and makes an urgent appeal that at least Rs. 5,000 be collected and sent to the Badvel candidate, who 'needs it so badly'. A handwritten postscript, in a lighter register, remarks that the P.S.P. is setting up its own candidate against Lohia — 'It is all so funny.' The letter is a compact primary source on the logistics, personalities and money-raising demands of Swatantra's early electoral organising.
 ---
 
+## Summary
+
+This is a typed letter dated 1 April 1963 from N. G. Ranga, a Member of Parliament in the Lok Sabha writing on his Western Court, New Delhi letterhead, to Minoo (M. R.) Masani, General Secretary of the Swatantra Party Central Office in Bombay. It is a working note between two founders of the Swatantra Party, coordinating candidate support and travel across a busy pre-election calendar. Ranga reports on a two-day tour of the Dohad parliamentary area in Gujarat, where Shri Solanki translated his speeches and the Maharaja of Baria proved 'very dynamic and influential', though he concedes the Baroda portion of the constituency remains weak and asks Masani to spare a day for each.
+
+Ranga then relays fresh requests from the Rajah of Ramgarh and Rani Lalita Rajya Laxmijee for two days of campaigning in Muzaffarpur alongside Gayatri Deviji and Dahyabhaiji, notes his intention to travel by plane to make the schedule work, and thanks Masani for notes on the Super Profit Tax Bill — adding a handwritten aside that Dandekar spoke eloquently and drew a large audience. He then lays out a punishing itinerary that has him campaigning in the Badvel Assembly constituency for at least three days, routing through Patna, Andhra, Calcutta and Orissa, and returning to Delhi by 17 April in time for the Finance Bill.
+
+On page two Ranga thanks Masani for advertisements arranged for the Vahini and expects the free list to spread in Chittoor, conveys the wish of 'Gujarati friends' that Masani himself consider standing from Rajkot Constituency, and makes an urgent appeal that at least Rs. 5,000 be collected and sent to the Badvel candidate, who 'needs it so badly'. A handwritten postscript, in a lighter register, remarks that the P.S.P. is setting up its own candidate against Lohia — 'It is all so funny.' The letter is a compact primary source on the logistics, personalities and money-raising demands of Swatantra's early electoral organising.
+
 ## Key points
 
 - N. G. Ranga, MP (Lok Sabha), writes from 44 Western Court, New Delhi on 1 April 1963 to Minoo Masani in his capacity as General Secretary of the Swatantra Party.

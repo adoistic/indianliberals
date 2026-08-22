@@ -48,6 +48,12 @@ summary: |-
   The letter also records that party president Piloo Mody announced the merger of the Swatantra Party into the Bharatiya Lok Dal on 29 August. Its final paragraph concerns vehicle notices received by Raju: Bhatia says he is writing to the Regional Transport Office and will forward its response. The page is office correspondence on Bharatiya Lok Dal letterhead; no printed title is visible.
 ---
 
+## Summary
+
+This one-page English letter, dated 17 December 1974 and signed by V. P. Bhatia, informs S. V. Raju that Bhatia is no longer Executive Secretary of the Swatantra Party because the party had ceased to exist. Bhatia attributes the decision to the party’s National Convention, where it was approved by more than 87 percent of the vote, and encloses the convention resolution for Raju’s reference.
+
+The letter also records that party president Piloo Mody announced the merger of the Swatantra Party into the Bharatiya Lok Dal on 29 August. Its final paragraph concerns vehicle notices received by Raju: Bhatia says he is writing to the Regional Transport Office and will forward its response. The page is office correspondence on Bharatiya Lok Dal letterhead; no printed title is visible.
+
 ## Key points
 
 - V. P. Bhatia states that he is no longer Executive Secretary of the Swatantra Party.

@@ -54,6 +54,12 @@ summary: |-
   The committee resolved that the party should oppose Prakash Vir Shastri’s bill to abrogate Article 370 of the Constitution and support a Congress motion seeking circulation of the bill to elicit public opinion. Kapur Singh was asked to speak for the party. The minutes also assign speakers to parliamentary subjects: N. Dandekar for Commerce and Defence, P. K. Deo for Law, M. R. Masani for Information and Broadcasting, Krishnapal Singh for Defence, and Sardar Kapur Singh for Parliamentary Affairs. The meeting then adjourned with a vote of thanks to the chair.
 ---
 
+## Summary
+
+These minutes record a meeting of the Swatantra Party Executive Committee held at 1:15 a.m. on 18 March 1966 in the Party Committee Room, Central Hall, Parliament House, New Delhi. The document lists the members present, including Prof. N. G. Ranga, M. R. Masani, Krishnapal Singh, P. H. Bheel, Sundramani Patel, P. N. Solanki, Tan Singh, Prof. Ruthnaswamy, N. Dandekar, and Sardar Kapur Singh.
+
+The committee resolved that the party should oppose Prakash Vir Shastri’s bill to abrogate Article 370 of the Constitution and support a Congress motion seeking circulation of the bill to elicit public opinion. Kapur Singh was asked to speak for the party. The minutes also assign speakers to parliamentary subjects: N. Dandekar for Commerce and Defence, P. K. Deo for Law, M. R. Masani for Information and Broadcasting, Krishnapal Singh for Defence, and Sardar Kapur Singh for Parliamentary Affairs. The meeting then adjourned with a vote of thanks to the chair.
+
 ## Key points
 
 - The Swatantra Party Executive Committee met at Parliament House, New Delhi, on 18 March 1966.

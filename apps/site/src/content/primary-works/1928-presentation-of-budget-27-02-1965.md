@@ -55,6 +55,12 @@ summary: |-
   The memorandum emphasizes the practical constraints on parliamentary time. It estimates 20 hours for the General Budget debate, 110 hours across 25 sittings for demands for grants, and 15 hours for discussion of the Finance Bill. It reserves 24 March for an unforeseen item and notes that Saturdays will no longer ordinarily be used for official business, while suggesting that exceptional Saturday sittings and longer daily hours could recover some time. The final page provides a comparative table of time allotted to ministries and departments from 1957 to 1964, alongside totals for general discussion and the Finance Bill. The document is an administrative plan rather than an argument about budget policy, but it reveals how legislative scrutiny was organized through negotiated and tightly calculated allocations of parliamentary time.
 ---
 
+## Summary
+
+This five-page memorandum from the Department of Parliamentary Affairs sets out a timetable for financial business in the Lok Sabha following presentation of the General Budget on 27 February 1965. It allocates time for supplementary demands, the Income-tax (Amendment) Bill, the Railway Budget and Railway Demands, the General Budget debate, demands for grants, and the Finance Bill. The proposed schedule runs from 2 March through the planned adjournment of the House on 7 May 1965, with a separate timetable for the Rajya Sabha’s consideration of the Finance Bill.
+
+The memorandum emphasizes the practical constraints on parliamentary time. It estimates 20 hours for the General Budget debate, 110 hours across 25 sittings for demands for grants, and 15 hours for discussion of the Finance Bill. It reserves 24 March for an unforeseen item and notes that Saturdays will no longer ordinarily be used for official business, while suggesting that exceptional Saturday sittings and longer daily hours could recover some time. The final page provides a comparative table of time allotted to ministries and departments from 1957 to 1964, alongside totals for general discussion and the Finance Bill. The document is an administrative plan rather than an argument about budget policy, but it reveals how legislative scrutiny was organized through negotiated and tightly calculated allocations of parliamentary time.
+
 ## Key points
 
 - The memorandum plans Lok Sabha financial business after the General Budget was presented on 27 February 1965.

@@ -50,6 +50,10 @@ summary: |-
   Central Office Circular No. 87, dated December 6, 1967, is an internal Swatantra Party communication from Executive Secretary S. V. Raju. Addressed to party members, it transmits two enclosures: the office-bearers and members of the National Executive elected at the recent General Council meeting in New Delhi, and the membership of the newly constituted Central Parliamentary Board.
 ---
 
+## Summary
+
+Central Office Circular No. 87, dated December 6, 1967, is an internal Swatantra Party communication from Executive Secretary S. V. Raju. Addressed to party members, it transmits two enclosures: the office-bearers and members of the National Executive elected at the recent General Council meeting in New Delhi, and the membership of the newly constituted Central Parliamentary Board.
+
 ## Key points
 
 - The circular was issued by the Swatantra Party Central Office in Bombay on December 6, 1967.

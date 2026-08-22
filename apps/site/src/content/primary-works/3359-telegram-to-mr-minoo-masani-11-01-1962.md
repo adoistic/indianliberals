@@ -49,6 +49,10 @@ summary: |-
   This one-page English telegram on an Indian Posts and Telegraphs Department form is addressed to Shri M. R. Masani in Bombay. It reports that his representative may reach Patna on Thursday to collect receipts, and refers to the allocation of 15 jeeps to 15 endorsed parliamentary candidates at Ramgarh. The sender and the year are not legibly identified on the rendered page.
 ---
 
+## Summary
+
+This one-page English telegram on an Indian Posts and Telegraphs Department form is addressed to Shri M. R. Masani in Bombay. It reports that his representative may reach Patna on Thursday to collect receipts, and refers to the allocation of 15 jeeps to 15 endorsed parliamentary candidates at Ramgarh. The sender and the year are not legibly identified on the rendered page.
+
 ## Key points
 
 - The document is a one-page telegram addressed to Shri M. R. Masani in Bombay.

@@ -54,6 +54,10 @@ summary: |-
   This two-page Lok Sabha Revised List of Business, dated 24 August 1961, records the House's scheduled business for the day. It includes a question on flooding in Delhi residential areas, the laying of notifications under the Drugs Act and Essential Commodities Act, and a ministerial statement concerning accommodation for Indian Airlines passengers and physicians on a Patna–Delhi flight.
 ---
 
+## Summary
+
+This two-page Lok Sabha Revised List of Business, dated 24 August 1961, records the House's scheduled business for the day. It includes a question on flooding in Delhi residential areas, the laying of notifications under the Drugs Act and Essential Commodities Act, and a ministerial statement concerning accommodation for Indian Airlines passengers and physicians on a Patna–Delhi flight.
+
 ## Key points
 
 - The sitting was scheduled for 11 a.m. on Thursday, 24 August 1961.

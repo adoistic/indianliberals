@@ -52,6 +52,10 @@ summary: |-
   This 14 April 1968 Deccan Herald report describes an internal revolt among Gujarat legislators of the Swatantra Party against the party's central leadership. The immediate crisis followed the defeat of a Swatantra-backed Rajya Sabha candidate, reportedly after support from approximately 40 of Gujarat's 63 Swatantra MLAs was withdrawn. The report presents the episode as a dispute over party discipline, leadership authority, and the relationship between the Gujarat legislature party and the national executive.
 ---
 
+## Summary
+
+This 14 April 1968 Deccan Herald report describes an internal revolt among Gujarat legislators of the Swatantra Party against the party's central leadership. The immediate crisis followed the defeat of a Swatantra-backed Rajya Sabha candidate, reportedly after support from approximately 40 of Gujarat's 63 Swatantra MLAs was withdrawn. The report presents the episode as a dispute over party discipline, leadership authority, and the relationship between the Gujarat legislature party and the national executive.
+
 ## Key points
 
 - The article reports a revolt by Gujarat Swatantra Party MLAs against the party's central leadership.

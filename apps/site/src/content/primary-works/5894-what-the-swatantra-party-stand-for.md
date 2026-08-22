@@ -66,6 +66,12 @@ summary: |-
   Masani also sets out the party's rural and political position. He describes Swatantra as an agrarian, peasant-oriented party rather than a party of businessmen, and argues that agriculture must receive priority over industrialization. In foreign policy, the pamphlet supports regional security cooperation, a firm anti-Communist position, the war in Vietnam, recognition of Tibet and the Dalai Lama, and friendly relations with Israel and Taiwan. Domestically, it calls for replacing Congress through elections, criticizes the Communist and Socialist parties as threats to democratic freedom, and urges businesspeople and other citizens to provide candidates, money, and organizational support. The pamphlet's publication date and imprint are not visible on the rendered pages.
 ---
 
+## Summary
+
+In this nine-page pamphlet, M. R. Masani presents the Swatantra Party as a party of individual freedom, limited government, private enterprise, and parliamentary democracy. He argues that government should provide justice, security, and the rule of law rather than run businesses, and defends freedom of occupation, movement, consumption, investment, association, and trade-union activity. The pamphlet accepts a role for the state but rejects state enterprise and centralized planning, especially the Soviet-style planning and licensing regime that Masani says has produced excessive controls, distorted priorities, heavy taxation, and industrial favoritism.
+
+Masani also sets out the party's rural and political position. He describes Swatantra as an agrarian, peasant-oriented party rather than a party of businessmen, and argues that agriculture must receive priority over industrialization. In foreign policy, the pamphlet supports regional security cooperation, a firm anti-Communist position, the war in Vietnam, recognition of Tibet and the Dalai Lama, and friendly relations with Israel and Taiwan. Domestically, it calls for replacing Congress through elections, criticizes the Communist and Socialist parties as threats to democratic freedom, and urges businesspeople and other citizens to provide candidates, money, and organizational support. The pamphlet's publication date and imprint are not visible on the rendered pages.
+
 ## Key points
 
 - The Swatantra Party defines its central principles as limited government, individual choice, private enterprise, and the rule of law.

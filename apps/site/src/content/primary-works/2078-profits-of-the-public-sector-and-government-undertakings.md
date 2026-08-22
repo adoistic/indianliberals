@@ -49,6 +49,10 @@ summary: |-
   This illustrated page presents deficit financing as the government's fallback when ordinary revenue sources are insufficient. It identifies profits from public-sector and government undertakings—including HMT, the railways, post and telephones—and foreign aid described as the “savings of friendly countries” as sources available to meet government expenses. The accompanying cartoons depict these sources as feeding government finances.
 ---
 
+## Summary
+
+This illustrated page presents deficit financing as the government's fallback when ordinary revenue sources are insufficient. It identifies profits from public-sector and government undertakings—including HMT, the railways, post and telephones—and foreign aid described as the “savings of friendly countries” as sources available to meet government expenses. The accompanying cartoons depict these sources as feeding government finances.
+
 ## Key points
 
 - The page is headed “DEFICIT FINANCING” with the subtitle “THE PRINTING OF NOTES.”

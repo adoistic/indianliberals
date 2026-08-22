@@ -52,6 +52,12 @@ summary: |-
   Writing on the letterhead of the Institute of Constitutional and Parliamentary Studies, Singhvi acknowledges Masani’s support and association with the Institute and asks him to continue cooperating with its objectives and activities. The letter is formal, appreciative, and institutional in tone; it does not discuss electoral causes, policy positions, or future political strategy.
 ---
 
+## Summary
+
+This one-page letter, dated March 24, 1971, is addressed by L. M. Singhvi to M. R. Masani after Masani’s defeat in the recent Lok Sabha elections. Singhvi expresses personal sympathy while emphasizing that the loss is also institutional, suggesting Masani’s political and public role was regarded as important beyond the individual candidate.
+
+Writing on the letterhead of the Institute of Constitutional and Parliamentary Studies, Singhvi acknowledges Masani’s support and association with the Institute and asks him to continue cooperating with its objectives and activities. The letter is formal, appreciative, and institutional in tone; it does not discuss electoral causes, policy positions, or future political strategy.
+
 ## Key points
 
 - The letter is dated March 24, 1971, and was sent after recent Lok Sabha elections.

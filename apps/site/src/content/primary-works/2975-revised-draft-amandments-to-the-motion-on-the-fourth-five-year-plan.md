@@ -56,6 +56,12 @@ summary: |-
   The proposed amendments centre on employment-led growth, private enterprise, agricultural expansion, and monetary and fiscal discipline. They call for Rs. 1,000 crores in additional expenditure on massive rural works, a corporation to help educated unemployed people establish small businesses, a nationwide adult-literacy programme, and a Department of Economic Opportunities. The draft also urges accelerated major and medium irrigation projects, priority for water management, and a shift away from deficit financing and inflationary policies toward stable prices, reasonable taxes, reduced red tape, and remuneration linked progressively to productivity.
 ---
 
+## Summary
+
+This two-page parliamentary draft proposes replacing the original motion on the Fourth Five Year Plan (1969/74) with a strongly critical assessment of the Plan's assumptions and performance. It argues that the earlier emphasis on heavy industry came at the expense of agriculture, that state enterprises had failed to provide reasonable returns, that employment creation had been neglected, and that inflationary policies had continued despite the failure of the Second and Third Plans. The draft notes that employment had not recovered, exports had declined, and industrial production had lagged, undermining the Plan's underlying rationale.
+
+The proposed amendments centre on employment-led growth, private enterprise, agricultural expansion, and monetary and fiscal discipline. They call for Rs. 1,000 crores in additional expenditure on massive rural works, a corporation to help educated unemployed people establish small businesses, a nationwide adult-literacy programme, and a Department of Economic Opportunities. The draft also urges accelerated major and medium irrigation projects, priority for water management, and a shift away from deficit financing and inflationary policies toward stable prices, reasonable taxes, reduced red tape, and remuneration linked progressively to productivity.
+
 ## Key points
 
 - The draft describes the Fourth Five Year Plan as repeating the earlier Plans' excessive emphasis on heavy industry and inadequate attention to agriculture.

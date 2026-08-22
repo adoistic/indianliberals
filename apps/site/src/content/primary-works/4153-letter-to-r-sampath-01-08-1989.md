@@ -51,6 +51,12 @@ summary: |-
   The attached resolution records the Maharashtra State Council’s opposition to dissolving the Swatantra Party as part of a proposed merger of seven parties into a new party. It argues that Swatantra was the only national party among those expected to dissolve, that its principles remained valid, and that a new party based on a vague general programme would not provide a durable national alternative. The Council also warns that the continued separate existence of Congress (O) and the Jan Sangh could frustrate the emergence of a two-party system, and resolves to retain the party’s identity, message, and flag if dissolution were approved.
 ---
 
+## Summary
+
+This English-language letter, dated August 1, 1989, is from J. Venkiteswaran, President of the Swatantra Party, Maharashtra, to the Election Commission of India. It requests registration of the Maharashtra unit as a state party, while questioning the constitutional validity of the law making political-party registration mandatory. The letter affirms loyalty to the Constitution, secularism, and democracy, and refers to an attached policy statement, constitution, statement of principles, and a 1974 resolution.
+
+The attached resolution records the Maharashtra State Council’s opposition to dissolving the Swatantra Party as part of a proposed merger of seven parties into a new party. It argues that Swatantra was the only national party among those expected to dissolve, that its principles remained valid, and that a new party based on a vague general programme would not provide a durable national alternative. The Council also warns that the continued separate existence of Congress (O) and the Jan Sangh could frustrate the emergence of a two-party system, and resolves to retain the party’s identity, message, and flag if dissolution were approved.
+
 ## Key points
 
 - The Maharashtra unit of the Swatantra Party seeks registration with the Election Commission of India as a state party.

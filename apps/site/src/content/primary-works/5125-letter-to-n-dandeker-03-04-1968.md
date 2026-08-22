@@ -46,6 +46,10 @@ summary: |-
   This single-page letter, dated 3/4/68, is from Karunakar Das to N. Dandeker, M.P., General Secretary of the Swatantra Party. Das requests that Dandeker convene an emergency meeting of the Party's General Council to discuss Minoo Masani's resignation from the National Executive and the Central Parliamentary Board.
 ---
 
+## Summary
+
+This single-page letter, dated 3/4/68, is from Karunakar Das to N. Dandeker, M.P., General Secretary of the Swatantra Party. Das requests that Dandeker convene an emergency meeting of the Party's General Council to discuss Minoo Masani's resignation from the National Executive and the Central Parliamentary Board.
+
 ## Key points
 
 - The letter is addressed to N. Dandeker, M.P., General Secretary of the Swatantra Party.

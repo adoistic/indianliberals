@@ -51,6 +51,10 @@ summary: |-
   These rendered pages are typed and annotated notes for a parliamentary speech dated 25 December 1959, attributed by a handwritten note to “M.R.” The notes present a sustained critique of the Nehru government’s handling of Chinese incursions along India’s Himalayan frontier. They argue that official policy underestimated or concealed repeated border violations, placed the appearance of friendship and non-alignment above territorial integrity, and failed to prepare the armed forces with roads, airfields, equipment, and authority to respond.
 ---
 
+## Summary
+
+These rendered pages are typed and annotated notes for a parliamentary speech dated 25 December 1959, attributed by a handwritten note to “M.R.” The notes present a sustained critique of the Nehru government’s handling of Chinese incursions along India’s Himalayan frontier. They argue that official policy underestimated or concealed repeated border violations, placed the appearance of friendship and non-alignment above territorial integrity, and failed to prepare the armed forces with roads, airfields, equipment, and authority to respond.
+
 ## Key points
 
 - The notes describe the White Papers as presenting a “dismal picture” of Chinese advances and Indian inaction.

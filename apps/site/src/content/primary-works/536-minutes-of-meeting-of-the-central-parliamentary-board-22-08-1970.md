@@ -54,6 +54,12 @@ summary: |-
   The substantive agenda concerns electoral strategy and party organisation. The Board discussed the forthcoming Kerala general election, disagreement within the Orissa coalition government, shifting legislative alignments in Gujarat, and the Swatantra Party’s position in the Gurdaspur by-election. It declined to endorse a Gurdaspur candidate immediately, preferring discussions with the Jan Sangh and Organisation Congress, and approved a letter to Mysore legislators concerning participation in the S.V.D. The Board later authorised four Kerala nominations, negotiations with other parties, and guidance to the Kerala unit. It also considered a proposed Private Members Bill on appointing the Chief Justice of India, supporting a rule that the senior-most eligible Supreme Court judge should ordinarily be elevated while allowing members freedom to abstain from voting.
 ---
 
+## Summary
+
+These minutes record the Central Parliamentary Board of the Swatantra Party meeting at M. R. Masani’s New Delhi residence on 22 August 1970. The Board first passed a condolence resolution for Sardar Basant Singh, describing his assassination as an avoidable tragedy and calling for action against Naxalites and other “anti-social elements.” It also confirmed the minutes of the Board’s 20 July meeting in Madras.
+
+The substantive agenda concerns electoral strategy and party organisation. The Board discussed the forthcoming Kerala general election, disagreement within the Orissa coalition government, shifting legislative alignments in Gujarat, and the Swatantra Party’s position in the Gurdaspur by-election. It declined to endorse a Gurdaspur candidate immediately, preferring discussions with the Jan Sangh and Organisation Congress, and approved a letter to Mysore legislators concerning participation in the S.V.D. The Board later authorised four Kerala nominations, negotiations with other parties, and guidance to the Kerala unit. It also considered a proposed Private Members Bill on appointing the Chief Justice of India, supporting a rule that the senior-most eligible Supreme Court judge should ordinarily be elevated while allowing members freedom to abstain from voting.
+
 ## Key points
 
 - The Board adopted a condolence resolution for the assassinated Swatantra Party leader Sardar Basant Singh and called for his assassins to be brought to justice.

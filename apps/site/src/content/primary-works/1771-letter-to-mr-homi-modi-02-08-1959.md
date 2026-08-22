@@ -48,6 +48,12 @@ summary: |-
   The letter presents the request as a practical local organising effort. Ruttonchund Master identifies himself as the vice-president of the Hindu Merchants Club and closes by offering to undertake whatever work would be useful, particularly for the Swatantra Party. The visible salutation reads “Dear Sir Masani”; the supplied filename identifies Homi Modi as the recipient, so the recipient’s identity remains unresolved.
 ---
 
+## Summary
+
+This one-page letter, dated 2 August 1959 from Ruttonchund Master in Bombay, asks the recipient to arrange 1,000 printed forms to support membership enrolment in the newly formed Swatantra Party. The writer proposes distributing the forms among several local constituencies and groups, including merchants associated with the Hindu Merchants Club, citizens in Andheri, citizens in Jogeshwari, and members of the Swatantra Party in an additional group whose wording is partly difficult to read.
+
+The letter presents the request as a practical local organising effort. Ruttonchund Master identifies himself as the vice-president of the Hindu Merchants Club and closes by offering to undertake whatever work would be useful, particularly for the Swatantra Party. The visible salutation reads “Dear Sir Masani”; the supplied filename identifies Homi Modi as the recipient, so the recipient’s identity remains unresolved.
+
 ## Key points
 
 - The letter is dated 2 August 1959 and is written from Rukhmani Mahal, Saraswati Baug, Jogeshwari, Bombay-42.

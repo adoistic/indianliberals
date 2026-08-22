@@ -52,6 +52,12 @@ summary: |-
   The resolutions endorse Jayaprakash Narayan’s non-violent struggle in Bihar and interpret the movement as a warning to the Congress government to provide “clean and honest administration.” They also protest the arrest of Ramander Kalia, the Swatantra Party’s joint secretary in Haryana, calling for an inquiry into what they suggest may be a political vendetta. A further resolution rejects dissolving the Swatantra Party into a new opposition party, arguing instead for a common platform or National Democratic Front in which democratic parties retain their identities while working together on a minimum programme.
 ---
 
+## Summary
+
+This four-page set records resolutions adopted by the Swatantra Party General Council at Vithalbhai Patel House, New Delhi, on 9–10 June 1974. The Council supports efforts to create a National Alternative to the ruling Congress but insists that any final decision for the Swatantra Party must be taken at a National Convention. It calls for circulation of the proposed draft programme to State Councils and authorises the President to arrange the Convention at the earliest opportunity.
+
+The resolutions endorse Jayaprakash Narayan’s non-violent struggle in Bihar and interpret the movement as a warning to the Congress government to provide “clean and honest administration.” They also protest the arrest of Ramander Kalia, the Swatantra Party’s joint secretary in Haryana, calling for an inquiry into what they suggest may be a political vendetta. A further resolution rejects dissolving the Swatantra Party into a new opposition party, arguing instead for a common platform or National Democratic Front in which democratic parties retain their identities while working together on a minimum programme.
+
 ## Key points
 
 - The General Council supports creating a National Alternative through cooperation among opposition parties.

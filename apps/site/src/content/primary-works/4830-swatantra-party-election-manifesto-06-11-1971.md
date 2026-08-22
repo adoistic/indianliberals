@@ -64,6 +64,10 @@ summary: |-
   This five-page manifesto, adopted by the Swatantra Party General Council in Baroda on November 6, 1971, presents the party's platform for the February 1972 Assembly elections. It attacks the ruling Congress for using its parliamentary majority to weaken constitutional protections, especially through the proposed Twenty-fourth and Twenty-fifth Amendments, and warns against restrictions on the press, imported publications, All-India Radio, and television. It also criticizes the government's handling of inflation, unemployment, public-sector expansion, and economic stagnation.
 ---
 
+## Summary
+
+This five-page manifesto, adopted by the Swatantra Party General Council in Baroda on November 6, 1971, presents the party's platform for the February 1972 Assembly elections. It attacks the ruling Congress for using its parliamentary majority to weaken constitutional protections, especially through the proposed Twenty-fourth and Twenty-fifth Amendments, and warns against restrictions on the press, imported publications, All-India Radio, and television. It also criticizes the government's handling of inflation, unemployment, public-sector expansion, and economic stagnation.
+
 ## Key points
 
 - The manifesto argues that constitutional amendments proposed by the ruling Congress threaten fundamental rights, property rights, and the rule of law.

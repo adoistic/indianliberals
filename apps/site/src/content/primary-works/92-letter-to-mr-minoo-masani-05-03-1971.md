@@ -44,6 +44,10 @@ summary: |-
   This handwritten letter, dated 5 March 1971 and sent from Jasdan, Gujarat, is addressed to Minoo Masani. Yuvraj Shivrajkumar Khachar forwards a list of people seeking loans, explaining that the loans would help them acquire or use jeeps for short periods and that their families would cooperate in repayment or assistance. The requests are presented as practical, individual cases rather than as a general policy argument.
 ---
 
+## Summary
+
+This handwritten letter, dated 5 March 1971 and sent from Jasdan, Gujarat, is addressed to Minoo Masani. Yuvraj Shivrajkumar Khachar forwards a list of people seeking loans, explaining that the loans would help them acquire or use jeeps for short periods and that their families would cooperate in repayment or assistance. The requests are presented as practical, individual cases rather than as a general policy argument.
+
 ## Key points
 
 - The sender is Yuvraj Shivrajkumar Khachar, identified on the letterhead as an MLA from Jasdan, Gujarat.

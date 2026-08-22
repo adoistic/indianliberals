@@ -50,6 +50,12 @@ summary: |-
   The letter sets out the meeting's practical arrangements: G. K. Sundaram or S. Narayanaswami will preside, the meeting will begin at 6:15 p.m., and Masani will be the only speaker apart from the president. Srikumar also proposes a press conference at approximately 5 p.m. and says he will contact Raju by telephone to finalise the programme. The second rendered page shows the accompanying inland-letter envelope addressed to Masani.
 ---
 
+## Summary
+
+This letter, dated 7 December 1974, was sent by V. S. Srikumar, Secretary of the Madras District Swatantra Party, to M. R. Masani in Bombay. Srikumar refers to earlier correspondence between Masani and S. V. Raju and confirms that he has arranged a public meeting at Gokhale Hall for 12 December.
+
+The letter sets out the meeting's practical arrangements: G. K. Sundaram or S. Narayanaswami will preside, the meeting will begin at 6:15 p.m., and Masani will be the only speaker apart from the president. Srikumar also proposes a press conference at approximately 5 p.m. and says he will contact Raju by telephone to finalise the programme. The second rendered page shows the accompanying inland-letter envelope addressed to Masani.
+
 ## Key points
 
 - The letter is dated 7 December 1974 and was issued on Madras District Swatantra Party letterhead.

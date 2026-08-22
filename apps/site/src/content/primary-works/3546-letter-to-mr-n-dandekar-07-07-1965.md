@@ -49,6 +49,12 @@ summary: |-
   Masani argues that the list should be expanded by adding further categories, both to prevent omissions by his own side and to anticipate possible coaching by the opposing side. The referenced enclosure is not included in the rendered document, so the letter does not reveal the categories under discussion or the broader political issue to which the list relates.
 ---
 
+## Summary
+
+This two-page letter from M. R. Masani to N. Dandekar, dated July 7, 1965, concerns coordination before Dandekar's departure from Bombay for Calcutta and Delhi. Masani asks S. V. Raju to discuss with Dandekar an attached list that emerged from a discussion initiated at the organisation's National Executive meeting in Madras.
+
+Masani argues that the list should be expanded by adding further categories, both to prevent omissions by his own side and to anticipate possible coaching by the opposing side. The referenced enclosure is not included in the rendered document, so the letter does not reveal the categories under discussion or the broader political issue to which the list relates.
+
 ## Key points
 
 - The letter is dated July 7, 1965, and is addressed to N. Dandekar.

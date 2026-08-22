@@ -53,3 +53,7 @@ ai:
 summary: |-
   This 18 May 1999 Economic Times Mumbai debate asks why Indian liberals have struggled to convert liberal ideas into political influence, especially as elections approach. Sharad Joshi argues that liberalism has been confused with competing traditions and that the Swatantra Bharat Party represents a principled alternative to Nehruvian socialism and state intervention. S V Raju focuses on the legal and constitutional barriers facing liberal parties, while Dr Parth J Shah attributes liberalism's weakness to its small intellectual base, inadequate organisation, colonial legacies, and failure to communicate its ideas to ordinary citizens.
 ---
+
+## Summary
+
+This 18 May 1999 Economic Times Mumbai debate asks why Indian liberals have struggled to convert liberal ideas into political influence, especially as elections approach. Sharad Joshi argues that liberalism has been confused with competing traditions and that the Swatantra Bharat Party represents a principled alternative to Nehruvian socialism and state intervention. S V Raju focuses on the legal and constitutional barriers facing liberal parties, while Dr Parth J Shah attributes liberalism's weakness to its small intellectual base, inadequate organisation, colonial legacies, and failure to communicate its ideas to ordinary citizens.

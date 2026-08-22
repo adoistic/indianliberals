@@ -48,6 +48,12 @@ summary: |-
   Masani also records his admiration for Patel’s outspokenness, boldness, efficiency, punctuality, and dynamism. The letter closes with thanks for the “magnificent support” Patel gave to Masani’s candidature and notes that three pictures are enclosed.
 ---
 
+## Summary
+
+This personal letter from Minoo Masani to Jairam Patel, dated 3 March 1971, thanks Patel for his support during Masani’s campaign for the Rajkot candidature. Masani says he will look for Patel on returning to Rajkot on 9 March, but does not want to delay expressing his gratitude for Patel’s “magnificent and stout-hearted campaigning.”
+
+Masani also records his admiration for Patel’s outspokenness, boldness, efficiency, punctuality, and dynamism. The letter closes with thanks for the “magnificent support” Patel gave to Masani’s candidature and notes that three pictures are enclosed.
+
 ## Key points
 
 - Minoo Masani writes to Jairam Patel on 3 March 1971.

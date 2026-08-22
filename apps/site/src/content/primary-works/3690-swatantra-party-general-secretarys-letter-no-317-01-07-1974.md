@@ -53,6 +53,12 @@ summary: |-
   The letter then provides practical instructions for delegate selection. The convention will be held indoors because of the party’s limited resources; representation is set at one delegate per 100 Workers/Life Workers, with each delegate paying a fee of Rs 10. The recipient is told that a detailed circular on arrangements, programme, and agenda will follow. The document is signed by Madhu Mehta, Vice President of the Swatantra Party.
 ---
 
+## Summary
+
+This two-page Swatantra Party General Secretary’s Letter No. 317, issued from the party’s national headquarters in Bombay in 1974, announces the next National Convention, to be held on 4–5 August in New Delhi. It explains that the party’s General Council had discussed whether to recommend the dissolution of the Swatantra Party in order to help create a new political grouping with an acceptable common programme. The Council welcomed efforts by democratic opposition parties to form a “National Alternative,” while reserving the final decision for the National Convention and directing that the proposed programme be circulated to party members for study.
+
+The letter then provides practical instructions for delegate selection. The convention will be held indoors because of the party’s limited resources; representation is set at one delegate per 100 Workers/Life Workers, with each delegate paying a fee of Rs 10. The recipient is told that a detailed circular on arrangements, programme, and agenda will follow. The document is signed by Madhu Mehta, Vice President of the Swatantra Party.
+
 ## Key points
 
 - The Swatantra Party’s National Convention is scheduled for 4–5 August in New Delhi.

@@ -54,6 +54,12 @@ summary: |-
   The attached Swarajya text argues that Swatantra Party discipline must not become unquestioning obedience or suppress individual opinion. It defends free speech within the party, distinguishes the difficult work of educating people from the easier work of spreading anger and falsehood, and calls for politically capable “field educators” rather than workers who merely cultivate hostility. Its stated political ideal is education of the public, including economic education and goodwill toward all religions and communities, rather than the creation of blind attachments.
 ---
 
+## Summary
+
+This 16 April 1968 Swatantra Party office letter from General Secretary S. S. Mariwalla to N. Dandekar reports C. Rajagopalachari’s objections to holding the party’s General Council in Madras. Rajaji is described as physically unable to participate if the venue is selected for his advice, while the Madras Party is said to be unable to bear the associated financial obligation. The letter also discusses disputes over Gujarat affairs: Rajaji reportedly questions the procedure behind proposed action based on voting for a particular candidate, and urges that the explanations of five people be considered calmly before deciding whether to wind up the Gujarat Party.
+
+The attached Swarajya text argues that Swatantra Party discipline must not become unquestioning obedience or suppress individual opinion. It defends free speech within the party, distinguishes the difficult work of educating people from the easier work of spreading anger and falsehood, and calls for politically capable “field educators” rather than workers who merely cultivate hostility. Its stated political ideal is education of the public, including economic education and goodwill toward all religions and communities, rather than the creation of blind attachments.
+
 ## Key points
 
 - Rajaji is reported to be physically unable to attend a Madras General Council meeting convened partly to obtain his advice.

@@ -50,6 +50,12 @@ summary: |-
   The account presents the conference as an educational forum rather than a body intended to reach binding decisions. Delegates worked in successive “Round Tables” on regional, political, economic, social, and financial questions, with the principal gains said to be greater knowledge, mutual understanding, and personal contacts. The extract then considers criticism of the conference, especially accusations that American delegates and the I.P.R. had treated Asian concerns through an anti-communist or pro-American lens. It concludes by questioning whether India was becoming intellectually isolated from both the West and its Asian neighbours, while presenting Southeast and East Asian delegates’ calls for economic, technical, and strategic assistance as a challenge to Indian non-alignment or isolationism.
 ---
 
+## Summary
+
+This four-page English extract, identified at the top as a speech taken from the Tata Monthly Bulletin of November 1952, describes the Institute of Pacific Relations (I.P.R.) conference held at Lucknow. The unnamed speaker explains that the I.P.R. was a non-governmental, non-partisan association devoted to studying international affairs in the Pacific and Far East. The Lucknow meeting, themed “Nationalism in Asia and its international consequences,” brought together delegates and guests from Asia, Europe, North America, and the Pacific region.
+
+The account presents the conference as an educational forum rather than a body intended to reach binding decisions. Delegates worked in successive “Round Tables” on regional, political, economic, social, and financial questions, with the principal gains said to be greater knowledge, mutual understanding, and personal contacts. The extract then considers criticism of the conference, especially accusations that American delegates and the I.P.R. had treated Asian concerns through an anti-communist or pro-American lens. It concludes by questioning whether India was becoming intellectually isolated from both the West and its Asian neighbours, while presenting Southeast and East Asian delegates’ calls for economic, technical, and strategic assistance as a challenge to Indian non-alignment or isolationism.
+
 ## Key points
 
 - The I.P.R. is described as an international, non-governmental, non-partisan association studying Pacific and Far Eastern affairs.

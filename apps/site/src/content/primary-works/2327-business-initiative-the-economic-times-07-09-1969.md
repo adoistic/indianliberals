@@ -53,6 +53,12 @@ summary: |-
   The editorial calls for business leaders to study the economic policies of the political parties, especially the Congress, objectively rather than react reflexively to every government action. It presents both government and business as having responsibilities in addressing poverty and national development: government must pursue a viable path of economic transformation, while business should contribute constructively, participate in social and philanthropic activity, and avoid treating political funding as its principal public role. The article concludes that a more confident and socially engaged business community could help create a constructive relationship between business initiative and national policy.
 ---
 
+## Summary
+
+This unsigned editorial argues that India's political and economic crisis has obscured the psychological turmoil within the business community. It observes that business institutions responded slowly and ambiguously to bank nationalisation and other controversial measures, while many business leaders withdrew from national political and intellectual debate. The article attributes this passivity partly to fear of being labelled as opposed to New Delhi and partly to uncertainty about the opportunities and problems created by economic planning.
+
+The editorial calls for business leaders to study the economic policies of the political parties, especially the Congress, objectively rather than react reflexively to every government action. It presents both government and business as having responsibilities in addressing poverty and national development: government must pursue a viable path of economic transformation, while business should contribute constructively, participate in social and philanthropic activity, and avoid treating political funding as its principal public role. The article concludes that a more confident and socially engaged business community could help create a constructive relationship between business initiative and national policy.
+
 ## Key points
 
 - The editorial says political controversy has distracted attention from the business community's loss of confidence and clarity.

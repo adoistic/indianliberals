@@ -52,3 +52,7 @@ ai:
 summary: |-
   This September 1979 issue of The Planters' Chronicle presents coverage of the UPASI Annual Conference, including a substantial guest address by M. R. Masani, conference acknowledgements, and a report on the Twenty-fourth UPASI Scientific Conference. The visible editorial material combines plantation-industry concerns with a broader liberal economic critique of post-Independence India: Masani argues that distorted priorities, excessive taxation, state intervention, and bureaucratic regulation have weakened agriculture, exports, private enterprise, and democratic accountability.
 ---
+
+## Summary
+
+This September 1979 issue of The Planters' Chronicle presents coverage of the UPASI Annual Conference, including a substantial guest address by M. R. Masani, conference acknowledgements, and a report on the Twenty-fourth UPASI Scientific Conference. The visible editorial material combines plantation-industry concerns with a broader liberal economic critique of post-Independence India: Masani argues that distorted priorities, excessive taxation, state intervention, and bureaucratic regulation have weakened agriculture, exports, private enterprise, and democratic accountability.

@@ -52,6 +52,12 @@ summary: |-
   The minutes also specify conditions governing ownership, repayment, and use of the vehicles. The Jeeps were to be placed with the party’s endorsed Bihar candidates, while the Rajah Saheb would guarantee that they became party property once the bank had been paid. The committee further considered the interests of the pledgee and recorded that the Rajah Saheb should abstain from voting on the relevant part of the resolution. A subsequent arrangement assigns responsibility for delivering the vehicles to the General Secretary’s representative in Patna and requires candidates to return them after polling.
 ---
 
+## Summary
+
+This two-page extract from the Swatantra Party’s draft minutes, dated 5 January 1962, records a Parliamentary Sub-committee’s decision concerning the financing and allocation of Jeeps for the party’s endorsed candidates in Bihar. The committee reviewed correspondence between the Rajah Saheb of Ramgarh and the General Secretary about paying the Central Bank of India Limited for Jeeps purchased on the Rajah Saheb’s behalf. Because election funds had fallen short and the number of endorsed candidates had been reduced from 25 to 15, the committee resolved to pay Rs. 1,50,000 to the bank in monthly instalments of Rs. 20,000, subject to the delivery of the 15 Jeeps by 18 January 1962.
+
+The minutes also specify conditions governing ownership, repayment, and use of the vehicles. The Jeeps were to be placed with the party’s endorsed Bihar candidates, while the Rajah Saheb would guarantee that they became party property once the bank had been paid. The committee further considered the interests of the pledgee and recorded that the Rajah Saheb should abstain from voting on the relevant part of the resolution. A subsequent arrangement assigns responsibility for delivering the vehicles to the General Secretary’s representative in Patna and requires candidates to return them after polling.
+
 ## Key points
 
 - The Parliamentary Sub-committee adopted a resolution on financing Jeeps for Swatantra Party candidates in Bihar.

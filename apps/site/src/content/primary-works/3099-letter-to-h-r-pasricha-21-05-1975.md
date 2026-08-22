@@ -50,6 +50,12 @@ summary: |-
   The second rendered page is an enclosed handwritten letter from H. R. Pasricha to Raju. Pasricha says he has completed revising and retyping the manuscript after discovering numerous mistakes, and believes the new version is more readable. He also reports that Arya is now the General Secretary of the Delhi unit of the BLD and expresses suspicion about Arya's conduct. The enclosure is reproduced here, but the principal authored item cataloged by the metadata is Raju's covering letter.
 ---
 
+## Summary
+
+In this typed covering letter dated May 21, 1975, S. V. Raju writes to Lt. Col. H. R. Pasricha about the revision of Pasricha's manuscript. Raju explains that his examinations are continuing and that he expects to review the revised manuscript within a few days, after which he will take a fortnight's leave and return to the office on June 9. He also comments on Arya's apparent change of position, which he says he learned from Arya's own paper, Lok Bharati, attributing the change to the lure of money rather than power because the BLD has very little power.
+
+The second rendered page is an enclosed handwritten letter from H. R. Pasricha to Raju. Pasricha says he has completed revising and retyping the manuscript after discovering numerous mistakes, and believes the new version is more readable. He also reports that Arya is now the General Secretary of the Delhi unit of the BLD and expresses suspicion about Arya's conduct. The enclosure is reproduced here, but the principal authored item cataloged by the metadata is Raju's covering letter.
+
 ## Key points
 
 - Raju acknowledges Pasricha's illness and promises to review the revised manuscript within a few days.

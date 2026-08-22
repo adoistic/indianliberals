@@ -53,6 +53,12 @@ summary: |-
   The review presents road transport as economically vital but disadvantaged by policy and taxation. It claims that railway interests and government administration have constrained road development, while road revenues have been diverted into general expenditure rather than reinvested in roads. The text calls for a network of motorable village roads linked to trunk routes, a major reduction and simplification of road-transport taxation, abolition of petrol and wheel taxes and certain administrative impediments, and greater public attention to the industry’s potential. The document is complete as supplied, but its formal title, author, publication year, and publisher are not visible; the handwritten heading identifies it as a review of the Hindustan Motors study rather than providing secure bibliographic details.
 ---
 
+## Summary
+
+This untitled review examines Road Transport in India – A Study, credited to the Economic Research Department of Hindustan Motors. It argues that post-Independence India has neglected the State’s basic infrastructural responsibility while expanding into industrial and service activities. The review highlights the inadequacy of the road network: India’s 1.27 million square miles and growing population were served by 595,450 miles of roads, only one-third of them metalled, while traffic included millions of pedestrians, animal-drawn vehicles, buses, private cars, and lorries.
+
+The review presents road transport as economically vital but disadvantaged by policy and taxation. It claims that railway interests and government administration have constrained road development, while road revenues have been diverted into general expenditure rather than reinvested in roads. The text calls for a network of motorable village roads linked to trunk routes, a major reduction and simplification of road-transport taxation, abolition of petrol and wheel taxes and certain administrative impediments, and greater public attention to the industry’s potential. The document is complete as supplied, but its formal title, author, publication year, and publisher are not visible; the handwritten heading identifies it as a review of the Hindustan Motors study rather than providing secure bibliographic details.
+
 ## Key points
 
 - The State has neglected roads and road transport while expanding into other services and industrial enterprises.

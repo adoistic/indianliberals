@@ -59,6 +59,12 @@ summary: |-
   Munshi insists that the Swatantra Party is a single national party whose state units are its branches, not autonomous entities, and that it must preserve continuity as an organization built around an ideal rather than electoral advantage. He acknowledges that disciplinary action could reduce the party’s numbers, but presents adherence to principle as more important than legislative strength. The final pages reproduce Munshi’s 4 April letter to C. Rajagopalachari and Rajagopalachari’s 6 April reply; both support expelling the Gujarat rebels and affirm the need to stand by the party’s principles. The dossier does not include the referenced letter from Minoo Masani or the General Council meeting itself.
 ---
 
+## Summary
+
+This confidential correspondence dossier, dated April–May 1968, records K. M. Munshi’s criticism of internal developments in the Swatantra Party and his concern that expediency was displacing the party’s constitutional and moral commitments. In his 21 May letter to the General Council, Munshi argues that the party was founded to resist the erosion of moral and ethical values in politics and the expansion of state power in the name of socialism. He condemns the Gujarat Rajya Sabha episode, alleged indiscipline among party members, and the National Executive’s reluctance to expel those who violated party pledges or worked against its candidates.
+
+Munshi insists that the Swatantra Party is a single national party whose state units are its branches, not autonomous entities, and that it must preserve continuity as an organization built around an ideal rather than electoral advantage. He acknowledges that disciplinary action could reduce the party’s numbers, but presents adherence to principle as more important than legislative strength. The final pages reproduce Munshi’s 4 April letter to C. Rajagopalachari and Rajagopalachari’s 6 April reply; both support expelling the Gujarat rebels and affirm the need to stand by the party’s principles. The dossier does not include the referenced letter from Minoo Masani or the General Council meeting itself.
+
 ## Key points
 
 - Munshi explains that the Swatantra Party was founded to defend moral and ethical values, individual freedom, and constitutional methods.

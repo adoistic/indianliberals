@@ -52,6 +52,12 @@ summary: |-
   In the rendered pages, the article argues that this shift raises questions about the availability of additional financial resources and the consequences for industrial growth. Divatia estimates that private investment in industry and minerals might fall to between Rs. 600 and Rs. 700 crores, while noting that private-sector investment had produced a substantially better capital-output ratio than public investment in the First and Second Plans. In the rendered pages, he cautions that transferring resources from private to public investment could retard the growth of industry and undermine the integrated development objectives of the Third Plan and subsequent plans.
 ---
 
+## Summary
+
+In the rendered pages, M. V. Divatia examines the proposed Third Five-Year Plan’s allocation between the public and private sectors. The draft plan envisaged total outlay of Rs. 11,250 crores, with Rs. 6,200 crores assigned to the public sector and Rs. 4,000 crores to the private sector, plus Rs. 1,050 crores for current plan-related investment. Divatia explains that revised public-sector expenditure could rise to Rs. 8,000 or Rs. 7,500 crores, thereby increasing the public sector’s share and reducing the private sector’s share of total investment.
+
+In the rendered pages, the article argues that this shift raises questions about the availability of additional financial resources and the consequences for industrial growth. Divatia estimates that private investment in industry and minerals might fall to between Rs. 600 and Rs. 700 crores, while noting that private-sector investment had produced a substantially better capital-output ratio than public investment in the First and Second Plans. In the rendered pages, he cautions that transferring resources from private to public investment could retard the growth of industry and undermine the integrated development objectives of the Third Plan and subsequent plans.
+
 ## Key points
 
 - The proposed Third Five-Year Plan initially allocated Rs. 6,200 crores to the public sector and Rs. 4,000 crores to the private sector.

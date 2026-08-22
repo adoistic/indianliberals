@@ -50,6 +50,12 @@ summary: |-
   The letter records that the proposal was discussed at a Bombay Regional Council meeting on 5 August 1970. It offers each unit a 25 percent commission on subscription collections as an incentive and directs recipients to contact the office secretary, K. S. Srinivasan, for further details. The attached two-page directory lists Bombay-area units and, where available, their secretaries and presidents of primary committees, covering localities from Colaba and Girgaon to Mahim, Thana, Ghatkopar, and Kalyan.
 ---
 
+## Summary
+
+This three-page English office letter, dated 7 August 1970, was issued by the Swatantra Party's Bombay Region and signed by its General Secretary, P. S. Koppiker. It asks local party units to recruit annual subscribers to the monthly journal White Star, which the letter describes as advancing the Swatantra philosophy. The appeal presents wider circulation and a stronger subscription base as necessary to make the journal more effective and widely available.
+
+The letter records that the proposal was discussed at a Bombay Regional Council meeting on 5 August 1970. It offers each unit a 25 percent commission on subscription collections as an incentive and directs recipients to contact the office secretary, K. S. Srinivasan, for further details. The attached two-page directory lists Bombay-area units and, where available, their secretaries and presidents of primary committees, covering localities from Colaba and Girgaon to Mahim, Thana, Ghatkopar, and Kalyan.
+
 ## Key points
 
 - The document is a 7 August 1970 subscription appeal from the Swatantra Party's Bombay Region.

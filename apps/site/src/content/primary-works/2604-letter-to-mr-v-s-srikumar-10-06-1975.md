@@ -48,6 +48,12 @@ summary: |-
   Narayan says he has shown Srikumar’s letter to both men. They are preparing a rejoinder to Mr. Banesana’s affidavit and expect to send it within a week or two. The letter is administrative and concerns coordination around a legal or political affidavit.
 ---
 
+## Summary
+
+This one-page letter, dated 10 June 1975, is from P. Narayan to V. S. Srikumar, Joint Secretary of the Swatantra Party. Narayan acknowledges Srikumar’s letter of 7 June and reports that Mr. Munshi has returned to Vidya Bhavan and Mr. Raju has returned from Mahabaleshwar.
+
+Narayan says he has shown Srikumar’s letter to both men. They are preparing a rejoinder to Mr. Banesana’s affidavit and expect to send it within a week or two. The letter is administrative and concerns coordination around a legal or political affidavit.
+
 ## Key points
 
 - The letter is dated 10 June 1975 and addressed to V. S. Srikumar.

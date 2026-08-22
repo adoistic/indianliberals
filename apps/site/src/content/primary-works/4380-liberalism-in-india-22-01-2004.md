@@ -61,6 +61,12 @@ summary: |-
   The talk traces liberalism through the freedom struggle, the Indian Constitution, and parliamentary politics. Raju describes the Constitution as essentially liberal despite amendments restricting individual freedom, but criticizes the post-independence turn toward socialist economic planning and state control. He highlights the Swatantra Party as the principal parliamentary expression of liberalism from 1960 to 1974 and distinguishes economic liberalisation from liberal society, warning that intolerance, personality-based politics, corruption, and weak commitment to the rule of law remain serious problems. The concluding section presents the Indian Liberal Group’s role as promoting liberal economic policies and strengthening civil society.
 ---
 
+## Summary
+
+This nine-page typed summary of S. V. Raju’s talk defines liberalism as a doctrine favoring a minimalist role for the state, while noting that the term has a different political meaning in the United States. Raju presents Indian liberalism as more than an economic or governance program: it rests on values, character, tolerance, human rights, and social justice. He argues that liberal principles have indigenous roots, recalling Mahatma Gandhi’s advocacy of minimum government and honoring M. R. Pai and B. R. Shenoy as prominent liberal figures associated with Mangalore.
+
+The talk traces liberalism through the freedom struggle, the Indian Constitution, and parliamentary politics. Raju describes the Constitution as essentially liberal despite amendments restricting individual freedom, but criticizes the post-independence turn toward socialist economic planning and state control. He highlights the Swatantra Party as the principal parliamentary expression of liberalism from 1960 to 1974 and distinguishes economic liberalisation from liberal society, warning that intolerance, personality-based politics, corruption, and weak commitment to the rule of law remain serious problems. The concluding section presents the Indian Liberal Group’s role as promoting liberal economic policies and strengthening civil society.
+
 ## Key points
 
 - The talk distinguishes the American use of “liberal” from the European and wider international meaning centered on limited government.

@@ -52,3 +52,7 @@ ai:
 summary: |-
   The rendered pages from the April 1963 issue of Freedom First include the closing portion of a discussion of press freedom and government restrictions on criticism, followed by M. R. Masani's article “A Lethal Budget.” The visible pages argue that the Union Budget's Super Profits Tax threatens joint-stock enterprise and advances a state-capitalist, allegedly pro-Communist economic direction. Masani presents joint-stock enterprise as a cooperative institution that mobilises dispersed savings, serves consumers, and combines private initiative with social responsibility.
 ---
+
+## Summary
+
+The rendered pages from the April 1963 issue of Freedom First include the closing portion of a discussion of press freedom and government restrictions on criticism, followed by M. R. Masani's article “A Lethal Budget.” The visible pages argue that the Union Budget's Super Profits Tax threatens joint-stock enterprise and advances a state-capitalist, allegedly pro-Communist economic direction. Masani presents joint-stock enterprise as a cooperative institution that mobilises dispersed savings, serves consumers, and combines private initiative with social responsibility.

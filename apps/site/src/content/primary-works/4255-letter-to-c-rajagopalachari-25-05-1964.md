@@ -46,6 +46,10 @@ summary: |-
   This one-page express telegram, sent from Bombay on May 25, 1964, is addressed to Rajaji in Madras. Masani asks whether Rajaji agrees to move his Indian Council for World Affairs talk from June 30 to Wednesday, July 1. The message is administrative and contains no discussion of the talk's subject or substantive foreign-policy arguments.
 ---
 
+## Summary
+
+This one-page express telegram, sent from Bombay on May 25, 1964, is addressed to Rajaji in Madras. Masani asks whether Rajaji agrees to move his Indian Council for World Affairs talk from June 30 to Wednesday, July 1. The message is administrative and contains no discussion of the talk's subject or substantive foreign-policy arguments.
+
 ## Key points
 
 - The document is a single-page express telegram.

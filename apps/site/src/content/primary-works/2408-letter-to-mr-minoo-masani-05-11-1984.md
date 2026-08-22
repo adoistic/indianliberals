@@ -45,6 +45,12 @@ summary: |-
   Bhatia explains that the vehicles in question were purchased for an election and advises Masani to tell the Regional Transport Officer that locating them now will be very difficult. He closes by offering to provide any further information available. The document is typed on Bhatia’s Bombay letterhead and bears his handwritten signature.
 ---
 
+## Summary
+
+This one-page letter from V. P. Bhatia to M. R. Masani, dated 5 November 1984, responds to Masani’s letter of 19 October 1984. Bhatia reports that he has located a 1976 letter addressed to the Regional Transport Officer and considers it self-explanatory.
+
+Bhatia explains that the vehicles in question were purchased for an election and advises Masani to tell the Regional Transport Officer that locating them now will be very difficult. He closes by offering to provide any further information available. The document is typed on Bhatia’s Bombay letterhead and bears his handwritten signature.
+
 ## Key points
 
 - The letter is dated 5 November 1984 and is addressed to M. R. Masani.

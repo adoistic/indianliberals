@@ -50,6 +50,12 @@ summary: |-
   Rajagopalachari is quoted invoking Gandhi’s legacy and arguing for a friendly understanding among India, Pakistan, and Burma. Masani distinguishes this position from neutrality, saying that India should have criticised China’s aggression against India. The clipping further reports criticism of the Planning Commission’s proposed land ceiling and redistribution measures, while noting the Madras Government’s view that public opinion would not accept disruption of existing ownership and production.
 ---
 
+## Summary
+
+This one-page Madras Newsletter report, sourced from the Pioneer of Lucknow and dated 12 November 1959, records political disagreements and reactions in Madras. It describes C. Rajagopalachari’s attack on the Prime Minister and the Congress leadership, presents Minoo Masani’s defence of a non-involvement foreign policy toward the Cold War, and reports that A. Ranganathan rejected the Planning Commission’s advice on land reform and state ownership. The report also carries a denial by the Dravida Munnetra Kazhagam (DMK) of allegations concerning a conspiracy involving the murder of a former Ceylon Prime Minister.
+
+Rajagopalachari is quoted invoking Gandhi’s legacy and arguing for a friendly understanding among India, Pakistan, and Burma. Masani distinguishes this position from neutrality, saying that India should have criticised China’s aggression against India. The clipping further reports criticism of the Planning Commission’s proposed land ceiling and redistribution measures, while noting the Madras Government’s view that public opinion would not accept disruption of existing ownership and production.
+
 ## Key points
 
 - C. Rajagopalachari criticises the Prime Minister and Congress leadership in a reported Madras speech.

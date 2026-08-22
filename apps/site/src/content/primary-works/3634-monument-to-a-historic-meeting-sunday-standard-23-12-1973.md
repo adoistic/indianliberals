@@ -51,6 +51,12 @@ summary: |-
   The account reconstructs the political circumstances of 1919: Gandhi had returned from South Africa, was responding to the Rowlatt legislation, and was preparing a satyagraha campaign against British rule. It also recounts Rajagopalachari’s household in Madras, where Gandhi stayed with Kasturi Ranga Iyengar, and describes the first meeting between the two men as the beginning of a lasting political relationship. The clipping closes by suggesting that Gandhi’s and Rajaji’s ideas drew them together despite their differences.
 ---
 
+## Summary
+
+This newspaper article describes a small monument on Cathedral Road, Madras, marking the site where Mahatma Gandhi first met C. Rajagopalachari. The monument bears Tamil and English inscriptions, including the claim that Gandhi’s first visit to Madras in March 1919 initiated a historic phase in India’s freedom struggle. The article presents the meeting as a turning point in Gandhi’s development of non-violent non-cooperation and recalls his later visits and public meetings in South India.
+
+The account reconstructs the political circumstances of 1919: Gandhi had returned from South Africa, was responding to the Rowlatt legislation, and was preparing a satyagraha campaign against British rule. It also recounts Rajagopalachari’s household in Madras, where Gandhi stayed with Kasturi Ranga Iyengar, and describes the first meeting between the two men as the beginning of a lasting political relationship. The clipping closes by suggesting that Gandhi’s and Rajaji’s ideas drew them together despite their differences.
+
 ## Key points
 
 - The article explains the purpose and location of a monument on Cathedral Road, Madras.

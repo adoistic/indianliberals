@@ -50,6 +50,12 @@ summary: |-
   Mody recalled that the party had once held its early meetings at Rajaji’s residence in Madras but had later become accustomed to meeting elsewhere. He argued that the Swatantra Party’s condition depended not only on Rajaji’s personal influence but also on its organisational strength, while stating that its methods and approach needed change. The report also mentions Mody’s conversation with Rajagopalachari about strengthening the party in Tamil Nadu after a split in the ruling DMK, and his comments on Dr R. C. Cooper’s resignation. The article has no printed byline.
 ---
 
+## Summary
+
+This one-page Indian Express report, datelined Madras, 27 December 1972, records Swatantra Party president Piloo Mody’s response to the death of C. Rajagopalachari (Rajaji). Mody said Rajaji’s death would not set back the party’s future and might instead prompt its members to become more active. He acknowledged that the party would miss Rajaji’s guidance and his distinctive solutions to political problems.
+
+Mody recalled that the party had once held its early meetings at Rajaji’s residence in Madras but had later become accustomed to meeting elsewhere. He argued that the Swatantra Party’s condition depended not only on Rajaji’s personal influence but also on its organisational strength, while stating that its methods and approach needed change. The report also mentions Mody’s conversation with Rajagopalachari about strengthening the party in Tamil Nadu after a split in the ruling DMK, and his comments on Dr R. C. Cooper’s resignation. The article has no printed byline.
+
 ## Key points
 
 - Piloo Mody said Rajaji’s death would not affect the Swatantra Party’s future.

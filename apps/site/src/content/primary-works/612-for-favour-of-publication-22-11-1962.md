@@ -53,6 +53,12 @@ summary: |-
   The statement also frames the national emergency as the consequence of a decade of misguided neutrality and appeasement toward communist expansionism. Masani defends the opposition's dual role: supporting the defence effort while judging government policy critically on its merits. He compares this position with the British Labour Party's refusal to support Neville Chamberlain's government during the Second World War until its appeasement policy had produced military defeats, after which Labour joined Winston Churchill's wartime coalition. The document closes by asserting that India's press, democratic opposition, and some ruling-party figures were united in rejecting the cease-fire proposal.
 ---
 
+## Summary
+
+This two-page press statement by M. R. Masani, dated Bombay, November 22, argues that India should reject the Chinese communist cease-fire proposal and instead strengthen its military position. Masani calls for interceptor aircraft, ground-to-air missiles, tactical air support, the transfer of elite divisions to the NEFA front, and a large counter-offensive to push Chinese forces back across the Himalayan passes. He presents the cease-fire as a strategic trap made possible by the enemy's overstretched logistics and argues that accepting its terms would amount to accepting defeat and leaving India vulnerable to another attack.
+
+The statement also frames the national emergency as the consequence of a decade of misguided neutrality and appeasement toward communist expansionism. Masani defends the opposition's dual role: supporting the defence effort while judging government policy critically on its merits. He compares this position with the British Labour Party's refusal to support Neville Chamberlain's government during the Second World War until its appeasement policy had produced military defeats, after which Labour joined Winston Churchill's wartime coalition. The document closes by asserting that India's press, democratic opposition, and some ruling-party figures were united in rejecting the cease-fire proposal.
+
 ## Key points
 
 - Masani urges the Indian government to reject the Chinese communist cease-fire proposal.

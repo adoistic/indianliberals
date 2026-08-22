@@ -49,6 +49,12 @@ summary: |-
   The second page is a detailed agenda for an Organisation Sub-Committee meeting scheduled for Sunday, 17 May at 4 p.m. Its business includes confirming the minutes of the January 30 meeting, considering a report from Prof. Ranga on his visit to Patna and the reconstitution of the Bihar Executive, considering the Constitution Sub-Committee’s report, fixing dates for forthcoming party meetings, and taking up other business with the chair’s permission. Handwritten annotations appear on both pages, but their contents are not sufficiently legible to treat as formal agenda items.
 ---
 
+## Summary
+
+This two-page English office document records C. Rajagopalachari’s (“Rajaji’s”) Bombay tour programme for 28 June–2 July 1964. The schedule includes a Parliamentary Board meeting, a Central Organising Committee meeting at Sir H. P. Mody’s house, a Swatantra Party public meeting, General Council and Rotary Club engagements, and an Indian Council of World Affairs public meeting on foreign policy. Rajaji was due to depart for Madras at noon on 2 July.
+
+The second page is a detailed agenda for an Organisation Sub-Committee meeting scheduled for Sunday, 17 May at 4 p.m. Its business includes confirming the minutes of the January 30 meeting, considering a report from Prof. Ranga on his visit to Patna and the reconstitution of the Bihar Executive, considering the Constitution Sub-Committee’s report, fixing dates for forthcoming party meetings, and taking up other business with the chair’s permission. Handwritten annotations appear on both pages, but their contents are not sufficiently legible to treat as formal agenda items.
+
 ## Key points
 
 - The document schedules Rajaji’s engagements in Bombay from 28 June to 2 July 1964.

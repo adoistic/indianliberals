@@ -54,6 +54,12 @@ summary: |-
   Rajagopalachari refers Patel to his article in Swarajya for his position on other matters, affirms that M. K. Munshi is wrong about Abdullah while Jayaprakash Narayan is right, and encourages Patel and his colleagues to keep the party together and remain courageous. He closes with a self-deprecating reflection on possibly burdening the party, but says he will accept being replaced if that enables others to work freely.
 ---
 
+## Summary
+
+In this letter dated 23 April 1964, C. Rajagopalachari urges Dahyabhai V. Patel to support independence for Kashmir, arguing that this is the only way to remove the source of conflict between India and Pakistan. He rejects extending the same principle of self-determination to the “South,” or more realistically Madras State, because Madras is neither newly incorporated into India nor claimed by Pakistan.
+
+Rajagopalachari refers Patel to his article in Swarajya for his position on other matters, affirms that M. K. Munshi is wrong about Abdullah while Jayaprakash Narayan is right, and encourages Patel and his colleagues to keep the party together and remain courageous. He closes with a self-deprecating reflection on possibly burdening the party, but says he will accept being replaced if that enables others to work freely.
+
 ## Key points
 
 - Rajagopalachari advocates independence for Kashmir as a means of resolving India-Pakistan conflict.

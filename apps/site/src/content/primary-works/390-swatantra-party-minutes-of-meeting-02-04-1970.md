@@ -54,6 +54,12 @@ summary: |-
   The committee assigned Piloo Mody to speak on the Ministry of External Affairs' Demands for Grants in place of Minoo Masani, who was unable to speak, and decided that Viren Shah would speak on a private member's resolution concerning unemployment. It also records nominations to five parliamentary committees, including the Central Silk Board, Business Advisory Committee, House Committee, and Rules Committee, and is signed by D.N. Patodia as Secretary.
 ---
 
+## Summary
+
+This one-page English office record, issued on Swatantra Parliamentary Party letterhead on April 2, 1970, records the proceedings of the party's Executive Committee meeting held on March 31, 1970. It lists five attendees and notes the committee's receipt of the news of the death of party leader Brailalbhai Patel.
+
+The committee assigned Piloo Mody to speak on the Ministry of External Affairs' Demands for Grants in place of Minoo Masani, who was unable to speak, and decided that Viren Shah would speak on a private member's resolution concerning unemployment. It also records nominations to five parliamentary committees, including the Central Silk Board, Business Advisory Committee, House Committee, and Rules Committee, and is signed by D.N. Patodia as Secretary.
+
 ## Key points
 
 - The Executive Committee meeting took place in the Swatantra Party Room at 11:30 a.m. on March 31, 1970.

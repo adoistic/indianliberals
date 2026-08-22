@@ -50,6 +50,12 @@ summary: |-
   The listed public-talk subjects are “India & her neighbours” and “Our Foreign Policy.” The page concludes with a departure for Madras at noon; handwritten annotations appear to amend the final date and indicate a change to Thursday. No author, publisher, issuing organisation, or publication year is printed on the page.
 ---
 
+## Summary
+
+This single-page English typescript, headed “Rajaji's Tour Programme,” lays out C. Rajagopalachari’s engagements in Bombay from Sunday 28 June through Tuesday 30 June 1964. The schedule includes a Parliamentary Board meeting, a C.O.C.C. meeting at Sir H. P. Mody’s house, a Swatantra Party public meeting, two General Council sessions, and appearances before the Rotary Club and the Indian Council of World Affairs.
+
+The listed public-talk subjects are “India & her neighbours” and “Our Foreign Policy.” The page concludes with a departure for Madras at noon; handwritten annotations appear to amend the final date and indicate a change to Thursday. No author, publisher, issuing organisation, or publication year is printed on the page.
+
 ## Key points
 
 - The document is a one-page schedule for Rajaji’s tour from 28 to 30 June 1964.

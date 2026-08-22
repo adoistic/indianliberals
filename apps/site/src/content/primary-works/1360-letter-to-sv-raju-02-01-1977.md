@@ -51,6 +51,12 @@ summary: |-
   The letter describes the detention of many of the sender’s colleagues and asks Raju about their welfare. The sender says he has been given “B class” facilities because he held office in a political party, but insists that he wants freedom first. He asks Raju to send Freedom First, particularly to learn Minoo Masani’s views on current affairs, and requests that issues be sent through his wife at the address written on the letter. The second rendered page shows the inland-letter-card address and handwritten postal directions; no sender name is legible.
 ---
 
+## Summary
+
+This handwritten letter, dated 2 January 1977 and written from MISA (Political) Ward No. 15, Central Jail, Tihar, New Delhi, is addressed to S. V. Raju in Bombay. The unidentified sender says he was arrested on 18 December by C.I.D. officials after the Delhi administration announced a reward of Rs. 1,000 for his arrest. He reports that the government still believed the Swatantra Party existed and describes himself as having been treated as an “important Swatantra activist,” despite having formally joined the BLD before the Emergency.
+
+The letter describes the detention of many of the sender’s colleagues and asks Raju about their welfare. The sender says he has been given “B class” facilities because he held office in a political party, but insists that he wants freedom first. He asks Raju to send Freedom First, particularly to learn Minoo Masani’s views on current affairs, and requests that issues be sent through his wife at the address written on the letter. The second rendered page shows the inland-letter-card address and handwritten postal directions; no sender name is legible.
+
 ## Key points
 
 - The letter is dated 2 January 1977 and originates from MISA Political Ward No. 15, Central Jail, Tihar, New Delhi.

@@ -69,6 +69,12 @@ summary: |-
   The economic program opposes expanding state control, collectivisation, bureaucratic management, excessive taxation, deficit financing, inflation, and indiscriminate nationalisation. It favours self-employed peasant proprietors, competitive enterprise, free distribution, decentralised industry, small artisans and traders, and safeguards for labour. The final principles call for reduced public administration, employment-generating industrialisation, fair collective bargaining, an independent judiciary, judicial review, adherence to truth and non-violence, and internal freedom of opinion for party members outside the Statement’s fundamental principles.
 ---
 
+## Summary
+
+The Swatantra Party’s Statement of Principles, adopted at its Preparatory Convention in Bombay on August 1–2, 1959, presents 21 commitments organized around social justice, equality of opportunity, individual initiative, and limited government. It argues that the State should prevent anti-social conduct and protect vulnerable people while otherwise minimizing interference, preserving property, occupation, trade, and educational choice. The statement also invokes moral obligation, spiritual and cultural values, and Gandhi’s principle of Trusteeship as alternatives to compulsory state-directed collectivism.
+
+The economic program opposes expanding state control, collectivisation, bureaucratic management, excessive taxation, deficit financing, inflation, and indiscriminate nationalisation. It favours self-employed peasant proprietors, competitive enterprise, free distribution, decentralised industry, small artisans and traders, and safeguards for labour. The final principles call for reduced public administration, employment-generating industrialisation, fair collective bargaining, an independent judiciary, judicial review, adherence to truth and non-violence, and internal freedom of opinion for party members outside the Statement’s fundamental principles.
+
 ## Key points
 
 - The party links social justice and equality of opportunity with maximum individual freedom and minimum state interference.

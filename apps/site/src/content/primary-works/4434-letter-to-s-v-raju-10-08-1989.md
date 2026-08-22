@@ -48,6 +48,12 @@ summary: |-
   In the rendered pages, the enclosed Hindi letter appears to refer to a previously published item in the Delhi periodical Mainstream and to argue that Indians who died under Stalin should also be acknowledged. The document therefore combines a brief personal transmission with a press-oriented intervention on historical victims of Stalinism. The sender, recipient, date, and the existence of the enclosed Hindi text are visible; no printed title or publication details for the enclosure are supplied beyond its letterhead and date.
 ---
 
+## Summary
+
+This two-page correspondence file, dated 10 August 1989, consists of a handwritten English covering letter from Niranjan Ch. Zamindar to S. V. Raju and an enclosed typed Hindi letter addressed to the editor. The covering note identifies the enclosure as a letter concerning “Stalin’s victims.” The Hindi document is headed as a letter to the editor and is written from Indore.
+
+In the rendered pages, the enclosed Hindi letter appears to refer to a previously published item in the Delhi periodical Mainstream and to argue that Indians who died under Stalin should also be acknowledged. The document therefore combines a brief personal transmission with a press-oriented intervention on historical victims of Stalinism. The sender, recipient, date, and the existence of the enclosed Hindi text are visible; no printed title or publication details for the enclosure are supplied beyond its letterhead and date.
+
 ## Key points
 
 - The item is dated 10 August 1989 and originates from Indore.

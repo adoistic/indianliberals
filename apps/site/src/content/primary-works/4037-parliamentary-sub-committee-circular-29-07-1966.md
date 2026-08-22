@@ -51,6 +51,10 @@ summary: |-
   This two-page Swatantra Party circular, dated 29 July 1966, seeks approval from the Central Parliamentary Board Sub-Committee for the nomination of P. C. Sharma as the party’s prospective parliamentary candidate for Nowgong in Assam. M. R. Masani presents Sharma as a former Member of the Rajya Sabha who had expressed interest in contesting the constituency and reports that Professor Ranga supports the nomination. Masani asks colleagues to approve the proposal by circular so that Sharma can begin work and receive financial assistance from August.
 ---
 
+## Summary
+
+This two-page Swatantra Party circular, dated 29 July 1966, seeks approval from the Central Parliamentary Board Sub-Committee for the nomination of P. C. Sharma as the party’s prospective parliamentary candidate for Nowgong in Assam. M. R. Masani presents Sharma as a former Member of the Rajya Sabha who had expressed interest in contesting the constituency and reports that Professor Ranga supports the nomination. Masani asks colleagues to approve the proposal by circular so that Sharma can begin work and receive financial assistance from August.
+
 ## Key points
 
 - The document is an internal Swatantra Party circular from the Central Office in Bombay, dated 29 July 1966.

@@ -53,6 +53,12 @@ summary: |-
   The correspondence also addresses the future of Orissa’s Agricultural University and its association with the University of Missouri. Masani relays concerns that Missouri may withdraw unless Orissa resolves a leadership crisis, strengthens the university’s administration, transfers agricultural research to it, grants it operational autonomy, and provides minimum essential finance. He urges coordination among Orissa officials, the Planning Commission, the Ford Foundation, and University of Missouri representatives. Dandekar’s related letter discusses agricultural loans for Orissa through the Punjab National Bank, with government guarantees, specified uses, and possible expansion as a pilot project for other economically backward states.
 ---
 
+## Summary
+
+This archival correspondence packet centers on M. R. Masani’s letter of 13 March 1968 to Raj Ballabh Mishra, with an enclosed draft to Orissa Chief Minister R. N. Singh Deo and a related 9 March letter from N. Dandekar. Masani reports discussions with the Ford Foundation about assistance for Orissa’s state planning and agricultural development. He argues that state plans should consist of clearly defined, feasibility-tested projects capable of attracting investment, and suggests that Orissa’s mineral resources could help draw both public and private capital.
+
+The correspondence also addresses the future of Orissa’s Agricultural University and its association with the University of Missouri. Masani relays concerns that Missouri may withdraw unless Orissa resolves a leadership crisis, strengthens the university’s administration, transfers agricultural research to it, grants it operational autonomy, and provides minimum essential finance. He urges coordination among Orissa officials, the Planning Commission, the Ford Foundation, and University of Missouri representatives. Dandekar’s related letter discusses agricultural loans for Orissa through the Punjab National Bank, with government guarantees, specified uses, and possible expansion as a pilot project for other economically backward states.
+
 ## Key points
 
 - Masani’s 13 March 1968 letter discusses Ford Foundation assistance for Orissa’s state planning and agricultural development.

@@ -53,6 +53,12 @@ summary: |-
   The statement lists receipts totalling Rs. 1,05,134: donations of Rs. 91,385, reception committee tickets received of Rs. 8,600, convention ticket sales of Rs. 4,649, and publicity receipts of Rs. 500. It itemises revenue expenses of Rs. 17,872, including a Rs. 10,000 donation to the Central Office, and capital expenses of Rs. 3,356 for typewriters, a duplicator, and furniture. The page is issued on Swatantra Party Bombay Office letterhead and identifies Dr. Rustom C. Cooper as honorary treasurer.
 ---
 
+## Summary
+
+This one-page statement records the Swatantra Party's financial position in Bombay on 8 August 1959. It reports cash holdings of Rs. 83,772, comprising Rs. 83,564 at the bank, Rs. 58 with the honorary treasurer, and approximately Rs. 150 with the office petty cashier.
+
+The statement lists receipts totalling Rs. 1,05,134: donations of Rs. 91,385, reception committee tickets received of Rs. 8,600, convention ticket sales of Rs. 4,649, and publicity receipts of Rs. 500. It itemises revenue expenses of Rs. 17,872, including a Rs. 10,000 donation to the Central Office, and capital expenses of Rs. 3,356 for typewriters, a duplicator, and furniture. The page is issued on Swatantra Party Bombay Office letterhead and identifies Dr. Rustom C. Cooper as honorary treasurer.
+
 ## Key points
 
 - The statement is dated 8 August 1959 and was issued from the Swatantra Party's Bombay Office.

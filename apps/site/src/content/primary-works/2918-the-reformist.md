@@ -61,6 +61,12 @@ summary: |-
   In the rendered pages, the party’s social critique focuses on caste, inherited authority, religious superstition, fear and corruption. It argues that caste prevents equal human recognition and national unity, while deference to elders obstructs inquiry and independent thought. The proposed response is a “changing of a civilization” through new social and political education, rejection of caste-based religious ideas, protection of democratic institutions and an English-based link language. The party also promises seven guarantees, including a basic ration, shelter, employment support and medical and educational provision. The rendered pages end as the publication begins its organisational section; the later economic and foreign-policy sections listed in the contents were not seen.
 ---
 
+## Summary
+
+The Reformist presents the programme and principles of the Social Reform Party of India. In the rendered pages, the party defines India’s problems as creations of its own people and distinguishes its purpose from that of ordinary political parties: rather than proposing immediate solutions to existing problems, it seeks to change the social attitudes and institutions that generate them. Its aims include social reform, universal security, democratic government, freedom of expression, equality, justice, education, health, productive employment and a taxation system linked to public benefits.
+
+In the rendered pages, the party’s social critique focuses on caste, inherited authority, religious superstition, fear and corruption. It argues that caste prevents equal human recognition and national unity, while deference to elders obstructs inquiry and independent thought. The proposed response is a “changing of a civilization” through new social and political education, rejection of caste-based religious ideas, protection of democratic institutions and an English-based link language. The party also promises seven guarantees, including a basic ration, shelter, employment support and medical and educational provision. The rendered pages end as the publication begins its organisational section; the later economic and foreign-policy sections listed in the contents were not seen.
+
 ## Key points
 
 - The party attributes India’s problems primarily to the beliefs and social practices of its own people.

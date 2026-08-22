@@ -52,6 +52,12 @@ summary: |-
   The report recommends urgent economic-development measures, greater State autonomy, and a redistribution of powers. It proposes that defence, foreign affairs, inter-State communications, and currency remain with the Centre, while other powers and revenues should be distributed more equitably to the States. It also suggests amending or removing several entries from the Union List, transferring subjects such as industry, planning, judiciary, Governor-related provisions, public services, representation in Parliament, language, trade and commerce, and inter-State disputes. The clipping records Chief Minister M. Karunanidhi’s statement that the DMK legislature party would discuss the report before the Assembly considered it.
 ---
 
+## Summary
+
+The article reports on an 8,226-word report by a DMK sub-committee appointed to examine the Rajamannar Committee's recommendations on Centre-State relations. The panel argues that India’s unity depends on strong States and calls for a reappraisal of the Constitution in light of the country’s experience with federalism. It criticises the concentration of administrative and financial powers in New Delhi, saying that this has weakened the individuality and initiative of the States and left backward regions treated as an “internal colony.”
+
+The report recommends urgent economic-development measures, greater State autonomy, and a redistribution of powers. It proposes that defence, foreign affairs, inter-State communications, and currency remain with the Centre, while other powers and revenues should be distributed more equitably to the States. It also suggests amending or removing several entries from the Union List, transferring subjects such as industry, planning, judiciary, Governor-related provisions, public services, representation in Parliament, language, trade and commerce, and inter-State disputes. The clipping records Chief Minister M. Karunanidhi’s statement that the DMK legislature party would discuss the report before the Assembly considered it.
+
 ## Key points
 
 - A DMK sub-committee reports on the Rajamannar Committee’s recommendations concerning Centre-State relations.

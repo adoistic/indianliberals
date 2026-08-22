@@ -57,3 +57,7 @@ ai:
 summary: |-
   Swatantra Newsletter No. 68 (April–May 1969) is a party publication combining political commentary, state-level legislative reports, organizational news, electoral analysis, and an extended appendix of talking points. The issue opens with a tribute to Sir Homi Mody and then focuses on the Swatantra-led government in Orissa, presenting its record as a pragmatic alternative to Congress-era planning, state ownership, fiscal overreach, and administrative corruption. It also reports on party activity in several states and reproduces responses to questions about the party’s positions on Hindi, Kashmir, privy purses, and alliances with the DMK and Shiv Sena.
 ---
+
+## Summary
+
+Swatantra Newsletter No. 68 (April–May 1969) is a party publication combining political commentary, state-level legislative reports, organizational news, electoral analysis, and an extended appendix of talking points. The issue opens with a tribute to Sir Homi Mody and then focuses on the Swatantra-led government in Orissa, presenting its record as a pragmatic alternative to Congress-era planning, state ownership, fiscal overreach, and administrative corruption. It also reports on party activity in several states and reproduces responses to questions about the party’s positions on Hindi, Kashmir, privy purses, and alliances with the DMK and Shiv Sena.

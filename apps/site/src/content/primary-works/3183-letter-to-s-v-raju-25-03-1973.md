@@ -53,6 +53,12 @@ summary: |-
   Patel’s analysis attributes the Swatantra Party’s internal crisis to inadequate consultation, unilateral decisions, poor party management, and excessive concentration of power in Singh Deo. He places this crisis alongside defections to the Ruling Congress, the formation and dissolution of governments under Biju Patnaik and Smt. Satpathy, and efforts to unite opposition groups in Orissa. The letter’s central practical distinction is between a temporary joint legislative forum and the absorption of Swatantra into a new party: Patel supports the former as a means of coordinating opposition, but regards the latter as damaging to Swatantra’s identity and prestige. He closes by urging the party’s central leadership to stop making concessions to the Maharajas and to preserve the party’s organisational independence.
 ---
 
+## Summary
+
+This letter, dated 25 March 1973, is H. M. Patel’s explanation to S. V. Raju of why he joined the Working Committee of the Pragati Party despite having no initial intention of being associated with it. Patel presents the arrangement as a tactical response to the Swatantra Party’s commitment in Orissa to united opposition action. He argues that participation was necessary to ensure that joint manifestos, pamphlets, and other election materials did not conflict with Swatantra’s ideology and programme, while acknowledging that this role could be unpleasant within the Pragati Working Committee.
+
+Patel’s analysis attributes the Swatantra Party’s internal crisis to inadequate consultation, unilateral decisions, poor party management, and excessive concentration of power in Singh Deo. He places this crisis alongside defections to the Ruling Congress, the formation and dissolution of governments under Biju Patnaik and Smt. Satpathy, and efforts to unite opposition groups in Orissa. The letter’s central practical distinction is between a temporary joint legislative forum and the absorption of Swatantra into a new party: Patel supports the former as a means of coordinating opposition, but regards the latter as damaging to Swatantra’s identity and prestige. He closes by urging the party’s central leadership to stop making concessions to the Maharajas and to preserve the party’s organisational independence.
+
 ## Key points
 
 - Patel explains that his Pragati Party Working Committee membership arose from an effort to coordinate Swatantra and Pragati activities in Orissa.

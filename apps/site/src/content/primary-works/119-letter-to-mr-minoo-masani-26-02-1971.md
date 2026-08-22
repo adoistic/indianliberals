@@ -45,6 +45,10 @@ summary: |-
   A brief personal note on Swatantra Party letterhead (National Headquarters, Sassoon Building, 143, Mahatma Gandhi Road, Bombay 1), dated 26 February 1971 and addressed to Mr. M. R. Masani at Rajkot on the eve of the 1971 general elections. The writer, signing as "Roshan," offers Masani their best wishes for the coming contest and expresses the hope that everything will go smoothly. The note is a single paragraph of well-wishing rather than a substantive political communication, but it sits inside the Swatantra Party's national office correspondence and documents intra-party solidarity at a moment when Masani was contesting his last Lok Sabha election.
 ---
 
+## Summary
+
+A brief personal note on Swatantra Party letterhead (National Headquarters, Sassoon Building, 143, Mahatma Gandhi Road, Bombay 1), dated 26 February 1971 and addressed to Mr. M. R. Masani at Rajkot on the eve of the 1971 general elections. The writer, signing as "Roshan," offers Masani their best wishes for the coming contest and expresses the hope that everything will go smoothly. The note is a single paragraph of well-wishing rather than a substantive political communication, but it sits inside the Swatantra Party's national office correspondence and documents intra-party solidarity at a moment when Masani was contesting his last Lok Sabha election.
+
 ## Key points
 
 - Typed on Swatantra Party national headquarters letterhead in Bombay, dated 26 February 1971.

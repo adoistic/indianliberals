@@ -52,6 +52,12 @@ summary: |-
   The committee decided to issue a whip requesting members to attend the House for voting on amendments to the President’s Address. It assigned speakers for the Income-Tax (Amendment) Bill, Armed Forces Continuance Bill, Railway Budget, General Budget, Supplementary Demands for Grants, and several private members’ resolutions, including resolutions on the abolition of the contract labour system and “The Situation in Viet Nam.” A sub-committee was also asked to recommend speakers for ministry-wise demands for grants and related cut motions.
 ---
 
+## Summary
+
+This one-page English-language office record, dated 23 February 1965, records a meeting of the Swatantra Party Executive Committee held in the Party Committee Room at Parliament House. It lists nine attendees, including N. G. Ranga, M. R. Masani, Maharani Gayatri Devi, Kapur Singh, C. L. Narasimha Reddy, P. N. Solanki, N. Dandekar, Loknath Misra, and Krishnapal Singh.
+
+The committee decided to issue a whip requesting members to attend the House for voting on amendments to the President’s Address. It assigned speakers for the Income-Tax (Amendment) Bill, Armed Forces Continuance Bill, Railway Budget, General Budget, Supplementary Demands for Grants, and several private members’ resolutions, including resolutions on the abolition of the contract labour system and “The Situation in Viet Nam.” A sub-committee was also asked to recommend speakers for ministry-wise demands for grants and related cut motions.
+
 ## Key points
 
 - The Executive Committee met on 23 February 1965 in the Swatantra Party Committee Room at Parliament House.

@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated 3 October 1964, records that the Parliamentary Board of the Swatantra Party accepted Mr. Yashpal Singh’s resignation on 30 September. N. Dandekar, writing as Acting General Secretary, informs Bhanu Pratap Singh so that consequential action can be taken regarding Yashpal Singh’s position on the Uttar Pradesh Executive.
 ---
 
+## Summary
+
+This one-page letter, dated 3 October 1964, records that the Parliamentary Board of the Swatantra Party accepted Mr. Yashpal Singh’s resignation on 30 September. N. Dandekar, writing as Acting General Secretary, informs Bhanu Pratap Singh so that consequential action can be taken regarding Yashpal Singh’s position on the Uttar Pradesh Executive.
+
 ## Key points
 
 - The letter is dated 3 October 1964.

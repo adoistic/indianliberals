@@ -52,6 +52,10 @@ summary: |-
   This one-page Swatantra Party letter, dated 28 January 1966, is addressed to the party’s prospective parliamentary candidates in Orissa. M. R. Masani informs them that developments concerning the party’s scheme for providing financial assistance to candidates require urgent consideration and invites them to a meeting with the party’s Joint Secretary, N. Dandekar.
 ---
 
+## Summary
+
+This one-page Swatantra Party letter, dated 28 January 1966, is addressed to the party’s prospective parliamentary candidates in Orissa. M. R. Masani informs them that developments concerning the party’s scheme for providing financial assistance to candidates require urgent consideration and invites them to a meeting with the party’s Joint Secretary, N. Dandekar.
+
 ## Key points
 
 - The letter concerns financial assistance for Swatantra Party parliamentary candidates.

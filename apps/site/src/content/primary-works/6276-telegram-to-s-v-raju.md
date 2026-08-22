@@ -46,6 +46,10 @@ summary: |-
   This single-page English telegram, received by S. V. Raju on 11 August 1969, conveys a brief travel and meeting arrangement from a sender identified only as “MASANI.” The message says that the sender is arriving in New Delhi on Thursday evening, will be in the office from 9 to 11 a.m. on Saturday, and asks Raju to try to meet him. The document is an Indian Posts and Telegraphs Department received-telegram form; its larger political or organisational context is not stated on the page.
 ---
 
+## Summary
+
+This single-page English telegram, received by S. V. Raju on 11 August 1969, conveys a brief travel and meeting arrangement from a sender identified only as “MASANI.” The message says that the sender is arriving in New Delhi on Thursday evening, will be in the office from 9 to 11 a.m. on Saturday, and asks Raju to try to meet him. The document is an Indian Posts and Telegraphs Department received-telegram form; its larger political or organisational context is not stated on the page.
+
 ## Key points
 
 - The document is a received telegram dated 11 August 1969.

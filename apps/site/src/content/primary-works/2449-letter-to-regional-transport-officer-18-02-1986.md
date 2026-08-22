@@ -48,6 +48,10 @@ summary: |-
   In this letter dated 18 February 1986, M. R. Masani writes to the Regional Transport Officer in Bombay regarding Bill No. MRG-2347-860201, issued for Rs. 1,814 in connection with vehicle No. MRG 2347. Masani denies responsibility, stating that the vehicle never belonged to him and is not in his possession, and returns the bill because he believes that nothing is owed.
 ---
 
+## Summary
+
+In this letter dated 18 February 1986, M. R. Masani writes to the Regional Transport Officer in Bombay regarding Bill No. MRG-2347-860201, issued for Rs. 1,814 in connection with vehicle No. MRG 2347. Masani denies responsibility, stating that the vehicle never belonged to him and is not in his possession, and returns the bill because he believes that nothing is owed.
+
 ## Key points
 
 - The letter is addressed to the Regional Transport Officer, Bombay.

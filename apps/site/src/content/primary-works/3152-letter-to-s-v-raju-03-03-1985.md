@@ -48,6 +48,12 @@ summary: |-
   Amin explains that he does not have any such papers and therefore cannot assist Raju’s request. The letter is brief, courteous, and administrative, closing with an expression of regret and formal regards.
 ---
 
+## Summary
+
+This one-page letter, dated March 3, 1985, is written by Nanalal Amin from Jyoti Limited in Baroda to S. V. Raju in Bombay. Amin acknowledges receipt of Raju’s letter of February 22, 1985, concerning papers connected with the Swatantra Party.
+
+Amin explains that he does not have any such papers and therefore cannot assist Raju’s request. The letter is brief, courteous, and administrative, closing with an expression of regret and formal regards.
+
 ## Key points
 
 - Nanalal Amin writes from Jyoti Limited, Baroda, on March 3, 1985.

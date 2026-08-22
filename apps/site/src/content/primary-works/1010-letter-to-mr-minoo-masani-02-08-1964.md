@@ -48,6 +48,12 @@ summary: |-
   Rajaji agrees with Masani that they should not enter into a public argument with Erdman, but presses the more uncomfortable question: is there anything they ought to learn from what he says and act upon? He concedes that Erdman's yardstick is the party's chances of political success, and admits that he and his colleagues also want success — even if, as he puts it, they may not die for want of it. The tone is reflective and self-critical rather than defensive, and reads as an intra-leadership exchange within the early Swatantra Party.
 ---
 
+## Summary
+
+A single-page typed letter from C. Rajagopalachari at 60, Bazlullah Road, Tyagarayanagar, Madras-17, to Minoo Masani in Bombay, dated 2nd August 1964 and stamped received on 3 August 1964 (No. 0068). Rajaji is replying to a note Masani had sent him about an article by Erdman — almost certainly Howard L. Erdman, the American political scientist then writing on the Swatantra Party.
+
+Rajaji agrees with Masani that they should not enter into a public argument with Erdman, but presses the more uncomfortable question: is there anything they ought to learn from what he says and act upon? He concedes that Erdman's yardstick is the party's chances of political success, and admits that he and his colleagues also want success — even if, as he puts it, they may not die for want of it. The tone is reflective and self-critical rather than defensive, and reads as an intra-leadership exchange within the early Swatantra Party.
+
 ## Key points
 
 - One-page typed letter from C. Rajagopalachari (Madras) to Minoo Masani (Bombay), dated 2 August 1964; received-stamp 3 August 1964, No. 0068.

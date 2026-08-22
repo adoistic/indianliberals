@@ -57,6 +57,12 @@ summary: |-
   Masani presents the Swatantra Party as a programme rooted in liberalism and Gandhism, emphasizing minimum government, individual liberty, human dignity, and Fundamental Rights. He argues that the party's electoral prospects depend less on money, caste, or local influence than on credible candidates, disciplined grassroots organization, broad social representation, clean funding, and a morally superior public image. The statement concludes that parties are instruments rather than ends in themselves, rejecting unconditional partisan loyalty. The document is headed “For favour of publication” and ends with a separate “Not for publication” section.
 ---
 
+## Summary
+
+This two-page English press statement, issued from Bombay on July 26 and attributed to M. R. Masani, assesses India's political situation after fifteen years of Nehru's administration. Masani argues that India needs a change of government but lacks an effective alternative, attributing this failure to the single-member, simple-majority electoral system and the inability of democratic opposition parties to cooperate. He proposes the fusion of opposition parties into a National Democratic Front and questions the usefulness of conventional “Left” and “Right” labels.
+
+Masani presents the Swatantra Party as a programme rooted in liberalism and Gandhism, emphasizing minimum government, individual liberty, human dignity, and Fundamental Rights. He argues that the party's electoral prospects depend less on money, caste, or local influence than on credible candidates, disciplined grassroots organization, broad social representation, clean funding, and a morally superior public image. The statement concludes that parties are instruments rather than ends in themselves, rejecting unconditional partisan loyalty. The document is headed “For favour of publication” and ends with a separate “Not for publication” section.
+
 ## Key points
 
 - Masani describes India as facing economic, military, and political crisis while lacking a viable alternative government.

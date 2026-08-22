@@ -52,6 +52,12 @@ summary: |-
   Raghaw considers Section 29(a) unconstitutional and expresses confidence that the writ petition should succeed, while noting the need for legal skill and the unusually long delay. He recalls his earlier commitment to the Swatantra Party in Gujarat and Rajasthan. In his reply, Raju clarifies that his own petition was limited to securing registration for the Swatantra Party, Maharashtra, so that it could contest the state elections, and says that he is sharing Raghaw’s view on the constitutional issue with their lawyer, Rajeev Patil. He also reports procedural delays in the High Court hearing. The file does not include a printed title, publisher, or broader surrounding correspondence.
 ---
 
+## Summary
+
+This three-page correspondence file contains a 4 July 1997 letter from Rajasthan High Court advocate Mohan Singh Raghaw to S. V. Raju, followed by Raju’s 14 July reply. Raghaw discusses constitutional challenges to the 42nd Amendment’s insertion of “socialism” and “secularism” into the Preamble, and argues that Parliament lacked jurisdiction to amend the Preamble because it is not itself a provision of the Constitution. He also urges that a challenge to the amendment should precede Raju’s challenge to Section 29(a) of the Representation of the People Act, 1951, concerning registration of political parties.
+
+Raghaw considers Section 29(a) unconstitutional and expresses confidence that the writ petition should succeed, while noting the need for legal skill and the unusually long delay. He recalls his earlier commitment to the Swatantra Party in Gujarat and Rajasthan. In his reply, Raju clarifies that his own petition was limited to securing registration for the Swatantra Party, Maharashtra, so that it could contest the state elections, and says that he is sharing Raghaw’s view on the constitutional issue with their lawyer, Rajeev Patil. He also reports procedural delays in the High Court hearing. The file does not include a printed title, publisher, or broader surrounding correspondence.
+
 ## Key points
 
 - Mohan Singh Raghaw’s letter is dated 4 July 1997 and is addressed to S. V. Raju.

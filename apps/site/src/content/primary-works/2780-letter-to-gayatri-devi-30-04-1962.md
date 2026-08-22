@@ -49,6 +49,12 @@ summary: |-
   Masani expresses sympathy with the recipient's difficult circumstances and offers his assistance, as well as the help of colleagues in the Lok Sabha. The letter is a brief piece of political correspondence focused on parliamentary coordination, party functioning, and personal support among Swatantra Party associates.
 ---
 
+## Summary
+
+In this letter dated 30 April 1962, Minoo Masani replies to Maharani Gayatri Devi after returning to Bombay from Saurashtra. He says he had already decided to travel to Delhi on 2 May and remain there until the afternoon of 5 May. During the visit, he expected to attend a meeting arranged by Mr. Mahida with Members of both Houses of Parliament to discuss the budget, followed by further discussions about the Swatantra Party's functioning in Parliament.
+
+Masani expresses sympathy with the recipient's difficult circumstances and offers his assistance, as well as the help of colleagues in the Lok Sabha. The letter is a brief piece of political correspondence focused on parliamentary coordination, party functioning, and personal support among Swatantra Party associates.
+
 ## Key points
 
 - Masani received the recipient's letter of 23 April on returning to Bombay from Saurashtra.

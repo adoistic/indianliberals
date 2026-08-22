@@ -49,6 +49,12 @@ summary: |-
   Shroff proposes persuading some independent legislators to join the party, even if this requires giving them positions, because they would be better spokesmen than the existing members. He closes by stressing the urgency of Masani's presence in Delhi. The letter provides a direct glimpse of early organisational difficulties within the Swatantra Party and of Shroff's preference for strengthening it through recruitment and active parliamentary leadership.
 ---
 
+## Summary
+
+In this one-page letter dated 23 April 1962 from Jaipur, A. D. Shroff urges Minoo Masani to come to Delhi and reorganise the Swatantra Party. Shroff complains that the party's whip has not convened its members, who have neither met one another nor been called to discuss party affairs; he warns that, if this continues, the party will become “the laughing stock of the whole Lok Sabha.”
+
+Shroff proposes persuading some independent legislators to join the party, even if this requires giving them positions, because they would be better spokesmen than the existing members. He closes by stressing the urgency of Masani's presence in Delhi. The letter provides a direct glimpse of early organisational difficulties within the Swatantra Party and of Shroff's preference for strengthening it through recruitment and active parliamentary leadership.
+
 ## Key points
 
 - Shroff asks Minoo Masani to come to Delhi urgently.

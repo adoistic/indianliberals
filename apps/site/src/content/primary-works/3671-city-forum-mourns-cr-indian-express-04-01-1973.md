@@ -51,6 +51,12 @@ summary: |-
   The report presents Rajaji primarily through brief tributes from local political and civic figures. Ramrao Adik described him as a “blind follower” of Mahatma Gandhi who expressed his views without fear or favour; N. Dandekar characterised him as the founder-leader of the Swatantra movement and a man of intellectual integrity. The visible clipping ends while listing further tributes, so it does not provide a complete account of the meeting.
 ---
 
+## Summary
+
+This Indian Express report, dated 4 January 1973, records a Bombay meeting of the Common Man’s Forum mourning the death of C. Rajagopalachari (CR, or Rajaji). Mayor R. K. Ganatra moved a resolution condoling Rajaji’s death and described him as “a great son of India.” Other speakers recalled Rajaji’s public service, intellectual integrity, moral superiority, foresight, and strength of conviction.
+
+The report presents Rajaji primarily through brief tributes from local political and civic figures. Ramrao Adik described him as a “blind follower” of Mahatma Gandhi who expressed his views without fear or favour; N. Dandekar characterised him as the founder-leader of the Swatantra movement and a man of intellectual integrity. The visible clipping ends while listing further tributes, so it does not provide a complete account of the meeting.
+
 ## Key points
 
 - A Bombay Common Man’s Forum meeting mourned the death of C. Rajagopalachari.

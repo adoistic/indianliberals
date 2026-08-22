@@ -48,6 +48,10 @@ summary: |-
   This four-page Swatantra Party office memo, dated February 5, 1970, is addressed to M. R. Masani, with copies to Dr. R. C. Cooper and S. V. Raju. G. B. Sukhee reports on recent visits to Madras State, Pondicherry, Rajkot, and Kerala, and draws attention to attached organisational and political issues. The memo combines local political intelligence with recommendations for strengthening the party’s presence through personal visits, internal coordination, and recruitment.
 ---
 
+## Summary
+
+This four-page Swatantra Party office memo, dated February 5, 1970, is addressed to M. R. Masani, with copies to Dr. R. C. Cooper and S. V. Raju. G. B. Sukhee reports on recent visits to Madras State, Pondicherry, Rajkot, and Kerala, and draws attention to attached organisational and political issues. The memo combines local political intelligence with recommendations for strengthening the party’s presence through personal visits, internal coordination, and recruitment.
+
 ## Key points
 
 - Sukhee reports that Vallabh Bhai Patel’s political network controls village panchayats in his constituency and has marginalised Swatantra Party workers.

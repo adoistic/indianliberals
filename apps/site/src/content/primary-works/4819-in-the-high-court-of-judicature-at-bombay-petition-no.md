@@ -65,6 +65,14 @@ summary: |-
   The petition also surveys several meanings of socialism, including Saint-Simonism, Owenism, Fabianism, guild socialism, welfare socialism, Keynesian socialism, planning-oriented socialism, Soviet Marxism, and Maoist and other revolutionary variants. It contrasts these with the petitioners’ defence of market mechanisms and individual decision-making. The rendered material ends during the prayer and does not include the final two PDF pages.
 ---
 
+## Summary
+
+This 1994 writ petition before the Bombay High Court is brought by the Swatantra Party (Maharashtra), represented by its General Secretary, and S. V. Raju, editor of Freedom First. The petition challenges Section 29(A)(5) of the Representation of the People Act, 1951, as inserted in the context of the 42nd Constitutional Amendment and subsequent party-registration requirements. The provision required political parties seeking registration to affirm allegiance to the Constitution, socialism, secularism, democracy, and the sovereignty, unity, and integrity of India.
+
+The petitioners accept the requirements concerning democracy, secularism, and territorial integrity, but object to the compulsory allegiance to “socialism.” They argue that socialism is undefined, encompasses mutually conflicting doctrines, and may contradict constitutional commitments to liberty, equality, individual rights, and democratic participation. The petition further contends that Section 29(A)(5) discriminates between individual candidates and political parties, interferes with freedom of association and expression under Article 19, violates equality under Article 14, and prevents non-socialist citizens from organising politically to seek constitutional change. The requested relief is that the subsection be struck down and that the Election Commission be directed to register the Swatantra Party.
+
+The petition also surveys several meanings of socialism, including Saint-Simonism, Owenism, Fabianism, guild socialism, welfare socialism, Keynesian socialism, planning-oriented socialism, Soviet Marxism, and Maoist and other revolutionary variants. It contrasts these with the petitioners’ defence of market mechanisms and individual decision-making. The rendered material ends during the prayer and does not include the final two PDF pages.
+
 ## Key points
 
 - The Swatantra Party (Maharashtra) and S. V. Raju challenge Section 29(A)(5) of the Representation of the People Act, 1951.

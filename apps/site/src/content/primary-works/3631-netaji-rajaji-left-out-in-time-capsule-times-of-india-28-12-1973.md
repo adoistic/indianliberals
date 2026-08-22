@@ -51,6 +51,12 @@ summary: |-
   Patel objected that the capsule failed to acknowledge figures including Netaji Subhas Chandra Bose, Maulana Abdul Kalam Azad, Lal Bahadur Shastri, C. Rajagopalachari, and Dr Rajendra Prasad. She also criticised the omission of Sardar Patel’s role as Deputy Prime Minister and Home Minister during the integration of the princely states. The report concludes with Patel’s rejection of a merger with Congress (O) and her statement that Congress (O) would soon launch a programme to combat corruption in public life.
 ---
 
+## Summary
+
+This Times of India News Service report records an allegation by Member of Parliament Maniben Patel that a time capsule buried near Delhi’s Red Fort during the silver jubilee of independence omitted several important national leaders. According to Patel, the capsule referred to only four leaders—Mahatma Gandhi, Jawaharlal Nehru, Sardar Vallabhbhai Patel, and Prime Minister Indira Gandhi—with Gandhi’s name appearing twice.
+
+Patel objected that the capsule failed to acknowledge figures including Netaji Subhas Chandra Bose, Maulana Abdul Kalam Azad, Lal Bahadur Shastri, C. Rajagopalachari, and Dr Rajendra Prasad. She also criticised the omission of Sardar Patel’s role as Deputy Prime Minister and Home Minister during the integration of the princely states. The report concludes with Patel’s rejection of a merger with Congress (O) and her statement that Congress (O) would soon launch a programme to combat corruption in public life.
+
 ## Key points
 
 - Maniben Patel alleged that a time capsule near the Red Fort excluded several major national leaders.

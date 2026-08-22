@@ -46,6 +46,12 @@ summary: |-
   The accompanying October 9 letter from Industry & Finance invited Masani to contribute an article on a subject of his choice to a December 1967 Silver Jubilee issue marking the magazine's twenty-fifth year. The proposed issue is described as a major compilation of authoritative articles by leading figures in industry, trade, economics, and public thought, intended for circulation in India and abroad. Prem also requested Masani's photograph and a brief biographical sketch.
 ---
 
+## Summary
+
+This two-page English correspondence records M. R. Masani's response to B. P. Prem, editor of Industry & Finance, dated November 7, 1967. Masani thanks Prem for the October 9 invitation to contribute an article to the magazine's Special Jubilee Number and explains that he is unable to find time to undertake further writing work, asking to be excused.
+
+The accompanying October 9 letter from Industry & Finance invited Masani to contribute an article on a subject of his choice to a December 1967 Silver Jubilee issue marking the magazine's twenty-fifth year. The proposed issue is described as a major compilation of authoritative articles by leading figures in industry, trade, economics, and public thought, intended for circulation in India and abroad. Prem also requested Masani's photograph and a brief biographical sketch.
+
 ## Key points
 
 - M. R. Masani's reply is dated November 7, 1967.

@@ -48,6 +48,12 @@ summary: |-
   Khera emphasizes the importance of making the event fully successful and creating a good first impression. He refers to Professor Ranina's programme and asks Masani to telegraph him at the address on the letterhead. A postscript notes that two further colleagues are away from the station but are expected back by the relevant date. The pages document organizational and publicity planning rather than setting out a substantive political argument.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 11 November 1959 and sent from Ishwar Das Khera in New Delhi to Minoo Masani, concerns arrangements for an upcoming meeting. Khera proposes that the meeting take place on the 25th, asks whether Masani and another colleague can stay until that date, and requests confirmation of their availability on the 16th to prepare publicity for the first public meeting.
+
+Khera emphasizes the importance of making the event fully successful and creating a good first impression. He refers to Professor Ranina's programme and asks Masani to telegraph him at the address on the letterhead. A postscript notes that two further colleagues are away from the station but are expected back by the relevant date. The pages document organizational and publicity planning rather than setting out a substantive political argument.
+
 ## Key points
 
 - The letter is dated 11 November 1959 and is addressed to Minoo Masani.

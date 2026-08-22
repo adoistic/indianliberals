@@ -49,6 +49,10 @@ summary: |-
   This Indian Express report dated 22 January 1971 describes talks in Bombay between Swatantra Party leaders and Gujarat Chief Minister Hitendra Desai. The discussions were expected to continue in Ahmedabad the following day and reportedly concerned a possible understanding between the Old Congress and the Swatantra Party in most Gujarat constituencies.
 ---
 
+## Summary
+
+This Indian Express report dated 22 January 1971 describes talks in Bombay between Swatantra Party leaders and Gujarat Chief Minister Hitendra Desai. The discussions were expected to continue in Ahmedabad the following day and reportedly concerned a possible understanding between the Old Congress and the Swatantra Party in most Gujarat constituencies.
+
 ## Key points
 
 - Swatantra Party leaders met Gujarat Chief Minister Hitendra Desai in Bombay.

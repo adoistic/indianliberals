@@ -48,6 +48,12 @@ summary: |-
   Arya asks whether Raju requires the complete set of records or only material on particular subjects, estimating that the documents would amount to about two full bags. He also asks when Raju will return from a foreign assignment and what his future programme is, promising to dispatch the papers at the earliest possible opportunity.
 ---
 
+## Summary
+
+This single-page letter, dated 26 February 1985, is from M. R. Arya, a Member of the Metropolitan Council, Delhi, to S. V. Raju. Arya acknowledges Raju's decision to undertake doctoral research on the Swatantra Party at Bombay University and offers access to archival material held in his office, including membership forms and other old records.
+
+Arya asks whether Raju requires the complete set of records or only material on particular subjects, estimating that the documents would amount to about two full bags. He also asks when Raju will return from a foreign assignment and what his future programme is, promising to dispatch the papers at the earliest possible opportunity.
+
 ## Key points
 
 - The letter is dated 26 February 1985 and is written from New Delhi.

@@ -49,6 +49,12 @@ summary: |-
   The letter states that the General Secretary’s circular letter and the minutes of the previous National Executive meeting are being posted immediately for the recipient’s information. No substantive political argument or policy discussion appears on the page.
 ---
 
+## Summary
+
+This untitled administrative letter, dated 12 May 1975, is issued from the Swatantra Party National Headquarters in Madras and signed by Joint Secretary V. S. Srikumar. Addressed to Mr. P. Narayan, it acknowledges receipt of a memorandum dated 6 May and reports that stencil sheets have been received and copied.
+
+The letter states that the General Secretary’s circular letter and the minutes of the previous National Executive meeting are being posted immediately for the recipient’s information. No substantive political argument or policy discussion appears on the page.
+
 ## Key points
 
 - The letter is dated 12 May 1975 and was issued from the Swatantra Party National Headquarters in Madras.

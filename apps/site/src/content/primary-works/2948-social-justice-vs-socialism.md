@@ -57,6 +57,12 @@ summary: |-
   In the rendered pages, Rajagopalachari extends this economic argument into a defence of constitutional liberty and the Swatantra Party. He warns that excessive taxation and state power produce diminishing returns and erode the free way of life guaranteed by the Constitution. The annexed political texts, dated April 1 and April 8, 1972, urge Swatantra supporters to explain the party's position clearly, resist what he describes as communist drift and emerging dictatorship, preserve parliamentary and extra-parliamentary resistance, and pursue the party's mission without concern for electoral success or failure. The pages also frame the issue in Cold War terms, warning against India's drift toward Communist China's imperialism and asserting that the Indo-Soviet Treaty would not protect India.
 ---
 
+## Summary
+
+In the rendered pages, C. Rajagopalachari distinguishes social justice from socialism. He presents social justice as a constitutional and moral objective, but argues that socialism is a misconceived instrument because state control, nationalisation, expropriation, price controls, heavy taxation, and restrictions on investment weaken production, incentives, and individual freedom. He maintains that increased production is a prerequisite for social justice and that Gandhian ethics reject coercive or immoral means even when the intended ends are desirable.
+
+In the rendered pages, Rajagopalachari extends this economic argument into a defence of constitutional liberty and the Swatantra Party. He warns that excessive taxation and state power produce diminishing returns and erode the free way of life guaranteed by the Constitution. The annexed political texts, dated April 1 and April 8, 1972, urge Swatantra supporters to explain the party's position clearly, resist what he describes as communist drift and emerging dictatorship, preserve parliamentary and extra-parliamentary resistance, and pursue the party's mission without concern for electoral success or failure. The pages also frame the issue in Cold War terms, warning against India's drift toward Communist China's imperialism and asserting that the Indo-Soviet Treaty would not protect India.
+
 ## Key points
 
 - Social justice is treated as a legitimate constitutional objective, while socialism is rejected as an ineffective and coercive means of achieving it.

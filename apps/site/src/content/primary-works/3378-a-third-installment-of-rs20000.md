@@ -44,6 +44,10 @@ summary: |-
   This single-page handwritten financial note, signed “Shroff,” records a third installment of Rs. 20,000 toward repayment of Rs. 1,00,000. The payment was made to Mr. Amin of the Central Bank of India on Saturday, 18 November, apparently in 1961.
 ---
 
+## Summary
+
+This single-page handwritten financial note, signed “Shroff,” records a third installment of Rs. 20,000 toward repayment of Rs. 1,00,000. The payment was made to Mr. Amin of the Central Bank of India on Saturday, 18 November, apparently in 1961.
+
 ## Key points
 
 - The note records a third installment of Rs. 20,000.

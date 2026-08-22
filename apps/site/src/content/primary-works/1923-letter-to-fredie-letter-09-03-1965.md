@@ -48,6 +48,10 @@ summary: |-
   In this one-page letter dated March 9, 1965, M. R. Masani replies to Dr. Freddie Mehta’s message of March 8. Masani explains that Mehta’s suggested questions did not fit naturally into the speech he was planning to make and that ministers rarely answer questions posed during discussion. He therefore says he has converted the inquiries into questions and will provide answers in writing, to be sent on March 25 and April 1 respectively.
 ---
 
+## Summary
+
+In this one-page letter dated March 9, 1965, M. R. Masani replies to Dr. Freddie Mehta’s message of March 8. Masani explains that Mehta’s suggested questions did not fit naturally into the speech he was planning to make and that ministers rarely answer questions posed during discussion. He therefore says he has converted the inquiries into questions and will provide answers in writing, to be sent on March 25 and April 1 respectively.
+
 ## Key points
 
 - Masani acknowledges receiving Freddie Mehta’s message of March 8.

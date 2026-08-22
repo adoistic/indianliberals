@@ -54,6 +54,12 @@ summary: |-
   Masani’s 13 May reply declines the request. He maintains that his resignation was final and reflects the National Executive’s failure to restore the party’s credibility in Gujarat or enforce discipline consistently. He criticizes the Executive for ignoring alleged misconduct by senior party figures while acting against its opponents, and warns that such conduct is damaging public faith in political parties and parliamentary democracy. Masani therefore proposes to remain outside the National Executive and Parliamentary Board while undertaking “constructive work,” including training young workers, spreading the party’s principles, and supporting good candidates. The exchange ends with his willingness to resume responsibility if the party accepts ethical and disciplined functioning.
 ---
 
+## Summary
+
+This three-page correspondence records a dispute within the Swatantra Party in April–May 1968. In his 22 April letter, N. Dandeker tells Minoo Masani that the Central Parliamentary Board and National Executive have considered Masani’s resignation and unanimously asked him to withdraw it. Dandeker argues that disciplinary action against Mahida and five people who supported his candidacy removes the need for Masani’s “drastic act of atonement,” and makes a personal appeal for Masani to return.
+
+Masani’s 13 May reply declines the request. He maintains that his resignation was final and reflects the National Executive’s failure to restore the party’s credibility in Gujarat or enforce discipline consistently. He criticizes the Executive for ignoring alleged misconduct by senior party figures while acting against its opponents, and warns that such conduct is damaging public faith in political parties and parliamentary democracy. Masani therefore proposes to remain outside the National Executive and Parliamentary Board while undertaking “constructive work,” including training young workers, spreading the party’s principles, and supporting good candidates. The exchange ends with his willingness to resume responsibility if the party accepts ethical and disciplined functioning.
+
 ## Key points
 
 - N. Dandeker reports that the Swatantra Party’s Central Parliamentary Board and National Executive unanimously asked Minoo Masani to withdraw his resignation.

@@ -49,6 +49,12 @@ summary: |-
   Masani nevertheless looks forward to seeing Narayan at the Electoral Reform Committee on the twenty-fourth. The document is a brief logistical communication concerning participation in electoral-reform discussions; no further argument or policy detail is included.
 ---
 
+## Summary
+
+This one-page express telegram, sent by Minoo Masani from Patna on 18 November 1974, is addressed to Jayaprakash Narayan. Masani thanks Narayan for his letter and regrets that a Bombay engagement on the twenty-fifth will prevent him from attending Narayan’s meeting in Delhi.
+
+Masani nevertheless looks forward to seeing Narayan at the Electoral Reform Committee on the twenty-fourth. The document is a brief logistical communication concerning participation in electoral-reform discussions; no further argument or policy detail is included.
+
 ## Key points
 
 - Minoo Masani sent the express telegram from Patna on 18 November 1974.

@@ -50,6 +50,12 @@ summary: |-
   The report describes resignations by Opposition leaders Jaideepsinhji and M. R. Masani, controversy over an earlier promise to support Vaidya, and criticism of the party’s “rigidity in working.” It also records Congress gains in Gujarat’s district panchayat elections, suggesting that Swatantra’s organisational difficulties were occurring alongside a broader loss of political ground. The article ends while discussing possible disciplinary action against dissenting members and the party’s uncertain response.
 ---
 
+## Summary
+
+This 15 April 1968 newspaper article reports a major crisis inside the Swatantra Party in Gujarat following the party’s poor performance in the Rajya Sabha elections. The immediate dispute concerned the defeat of the official Swatantra candidate, M. R. Babubhai Vaidya, in favour of the Congress-supported Mr. Babubhai Mahida. The article attributes the result to cross-voting, second-preference votes, dissatisfaction among party legislators, and disagreements over the party’s leadership and electoral strategy.
+
+The report describes resignations by Opposition leaders Jaideepsinhji and M. R. Masani, controversy over an earlier promise to support Vaidya, and criticism of the party’s “rigidity in working.” It also records Congress gains in Gujarat’s district panchayat elections, suggesting that Swatantra’s organisational difficulties were occurring alongside a broader loss of political ground. The article ends while discussing possible disciplinary action against dissenting members and the party’s uncertain response.
+
 ## Key points
 
 - The Gujarat Swatantra Party is portrayed as divided after the defeat of its official Rajya Sabha candidate, M. R. Babubhai Vaidya.

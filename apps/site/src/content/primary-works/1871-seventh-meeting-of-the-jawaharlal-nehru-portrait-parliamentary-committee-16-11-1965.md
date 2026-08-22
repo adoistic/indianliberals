@@ -50,6 +50,12 @@ summary: |-
   The accompanying memorandum asks the committee to consider sites for statues of Lala Lajpat Rai and Maulana Abul Kalam Azad, including the site corresponding to Motilal Nehru’s statue and the pedestal formerly occupied by Lord Reading’s statue. It also presents a broader plan for future installations: four outdoor places for life-size statues, three pedestals on inner lawns, and six pedestals along the outer walls of the Central Hall. The memorandum notes that Balvantray Mehta had separately sought permission to erect a Lala Lajpat Rai statue as part of a centenary programme, and that a suitable site and statue had already been approved in principle.
 ---
 
+## Summary
+
+This two-page English-language parliamentary office record, issued by the Lok Sabha Secretariat on 16 November 1965, announces the seventh meeting of the Jawaharlal Nehru Portrait Parliamentary Committee. The meeting was scheduled for 18 November 1965 in the Speaker’s Chamber to discuss a layout plan for installing statues of national leaders in the Parliament House Estate; the notice was addressed to all committee members.
+
+The accompanying memorandum asks the committee to consider sites for statues of Lala Lajpat Rai and Maulana Abul Kalam Azad, including the site corresponding to Motilal Nehru’s statue and the pedestal formerly occupied by Lord Reading’s statue. It also presents a broader plan for future installations: four outdoor places for life-size statues, three pedestals on inner lawns, and six pedestals along the outer walls of the Central Hall. The memorandum notes that Balvantray Mehta had separately sought permission to erect a Lala Lajpat Rai statue as part of a centenary programme, and that a suitable site and statue had already been approved in principle.
+
 ## Key points
 
 - The document gives notice of the seventh meeting of the Jawaharlal Nehru Portrait Parliamentary Committee.

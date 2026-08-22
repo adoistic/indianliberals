@@ -52,6 +52,10 @@ summary: |-
   This one-page Swatantra Party Central Office letter, dated July 7, 1967, clarifies the eligibility of existing Worker Members who have not renewed their membership subscriptions. It cancels earlier instructions and establishes that membership valid on June 30, 1967, will determine inclusion in the party’s Membership Registers, which will serve as the electoral rolls for party elections and close on that date.
 ---
 
+## Summary
+
+This one-page Swatantra Party Central Office letter, dated July 7, 1967, clarifies the eligibility of existing Worker Members who have not renewed their membership subscriptions. It cancels earlier instructions and establishes that membership valid on June 30, 1967, will determine inclusion in the party’s Membership Registers, which will serve as the electoral rolls for party elections and close on that date.
+
 ## Key points
 
 - The letter addresses eligibility during a temporary grace period for members whose subscriptions are expiring.

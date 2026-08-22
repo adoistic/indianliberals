@@ -48,6 +48,12 @@ summary: |-
   The report also outlines tensions surrounding the Swatantra Party. Madhav Limaye argues that the party’s position is being misunderstood and says it wants only a minimum programme, while Minoo Masani maintains that the Congress (O) should not be allowed to dictate terms. The clipping records expectations that the Swatantra Party and SSP may eventually cooperate, but it also notes unresolved differences over alliances, seat-sharing, and the inclusion of socialist forces. The same page contains adjacent reports on the rejection of the Prime Minister’s Telangana formula and on Limaye’s explanation; these are treated as separate newspaper items rather than part of the main article.
 ---
 
+## Summary
+
+This Statesman newspaper clipping reports a new alignment in the prospects of India’s major political parties before the 1971 elections. It describes the Congress (O)’s decision to join a three-party electoral front with the Swatantra Party and the Jana Sangh, while the Congress (R) seeks a broader anti-socialist grouping. The article presents the arrangement as a response to the Congress (R)’s electoral strategy and to disagreements within the opposition over seat adjustments and minimum programmes.
+
+The report also outlines tensions surrounding the Swatantra Party. Madhav Limaye argues that the party’s position is being misunderstood and says it wants only a minimum programme, while Minoo Masani maintains that the Congress (O) should not be allowed to dictate terms. The clipping records expectations that the Swatantra Party and SSP may eventually cooperate, but it also notes unresolved differences over alliances, seat-sharing, and the inclusion of socialist forces. The same page contains adjacent reports on the rejection of the Prime Minister’s Telangana formula and on Limaye’s explanation; these are treated as separate newspaper items rather than part of the main article.
+
 ## Key points
 
 - The Congress (O), Swatantra Party, and Jana Sangh are reported to be moving toward a three-party electoral front.

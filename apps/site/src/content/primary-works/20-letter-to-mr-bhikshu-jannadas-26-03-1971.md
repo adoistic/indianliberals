@@ -47,6 +47,12 @@ summary: |-
   The document is a brief exchange concerning an electoral or party-political defeat. It contains a typed salutation, body, complimentary close, printed identification of Masani as sender, and handwritten annotations in the body area whose full content is not treated as part of the typed letter.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to Bhikshu Jannadasbhai is dated 26 March 1971. Masani acknowledges Jannadasbhai’s letter of 23 March and responds to his stated reasons for defeat in Rajkot, expressing agreement with the substance of those reasons.
+
+The document is a brief exchange concerning an electoral or party-political defeat. It contains a typed salutation, body, complimentary close, printed identification of Masani as sender, and handwritten annotations in the body area whose full content is not treated as part of the typed letter.
+
 ## Key points
 
 - The letter is dated 26 March 1971.

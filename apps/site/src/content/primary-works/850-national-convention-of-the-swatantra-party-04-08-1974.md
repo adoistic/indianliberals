@@ -56,6 +56,12 @@ summary: |-
   The second resolution rejects dissolution more directly. It stresses Swatantra’s unique status as the only national party among the seven parties expected to participate in the proposed merger, defends the continuing validity of its principles, and expresses doubt that a new party united only by a vague general programme could provide a genuine national alternative. It also warns that the continued separate existence of Congress(O) and the Jan Sangh could frustrate the emergence of a two-party system and benefit the ruling Congress. The pages show competing resolutions before the Seventh National Convention in New Delhi on August 4–5, 1974; they do not show which resolution the Convention ultimately adopted.
 ---
 
+## Summary
+
+This two-page resolution records the Swatantra Party’s response to a proposal that it dissolve so that a new opposition party could be formed. The first resolution accepts the need for a credible national democratic alternative to the ruling Congress, but argues that Swatantra’s principles and policies remain valid. Rather than dissolve into a new political party, it resolves to convert itself into a non-party organisation, the Swatantra Sewa Sangh, devoted to educational and constructive activities based on Swatantra principles and abstaining from electoral and parliamentary activity at both Union and State levels.
+
+The second resolution rejects dissolution more directly. It stresses Swatantra’s unique status as the only national party among the seven parties expected to participate in the proposed merger, defends the continuing validity of its principles, and expresses doubt that a new party united only by a vague general programme could provide a genuine national alternative. It also warns that the continued separate existence of Congress(O) and the Jan Sangh could frustrate the emergence of a two-party system and benefit the ruling Congress. The pages show competing resolutions before the Seventh National Convention in New Delhi on August 4–5, 1974; they do not show which resolution the Convention ultimately adopted.
+
 ## Key points
 
 - The Swatantra Party Convention considered a proposal to dissolve the party to facilitate formation of a new opposition party.

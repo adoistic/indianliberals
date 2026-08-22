@@ -49,6 +49,12 @@ summary: |-
   In the rendered pages, Sreenivasan focuses especially on Masani’s resignation from the party’s central leadership after disputes within the Gujarat organisation and among Swatantra legislators. He criticises Rajaji’s failure to support resolutions intended to reform the Gujarat party machinery, while insisting that Masani was indispensable to any future effort to remove Congress from power at the Centre. The visible text ends with a categorical endorsement of Masani as the party’s only leader capable of achieving that objective.
 ---
 
+## Summary
+
+In the rendered pages, V. T. Sreenivasan presents the Swatantra Party as having reached a decisive leadership crisis. He attributes the party’s creation in June 1959 to C. Rajagopalachari’s conviction that the Congress’s socialist policies under Jawaharlal Nehru would lead India toward communism. The essay argues that Rajaji recognized Minoo Masani as the figure capable of opposing the deeply entrenched Congress, and credits Masani’s energy and dedication with the party’s subsequent electoral and organisational advances.
+
+In the rendered pages, Sreenivasan focuses especially on Masani’s resignation from the party’s central leadership after disputes within the Gujarat organisation and among Swatantra legislators. He criticises Rajaji’s failure to support resolutions intended to reform the Gujarat party machinery, while insisting that Masani was indispensable to any future effort to remove Congress from power at the Centre. The visible text ends with a categorical endorsement of Masani as the party’s only leader capable of achieving that objective.
+
 ## Key points
 
 - The essay dates the founding of the Swatantra Party to June 1959 and links it to opposition to Congress socialism under Jawaharlal Nehru.

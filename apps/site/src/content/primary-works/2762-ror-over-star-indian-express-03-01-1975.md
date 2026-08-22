@@ -49,6 +49,10 @@ summary: |-
   This short newspaper report describes a dispute before the Election Commission in Delhi over the use of a star as an electoral symbol. Girish Munshi, general secretary of the Swatantra Party in Maharashtra, telegraphically lodged what the party called a “strong” protest against a proposal by the B.L.D. to incorporate a star into its symbol.
 ---
 
+## Summary
+
+This short newspaper report describes a dispute before the Election Commission in Delhi over the use of a star as an electoral symbol. Girish Munshi, general secretary of the Swatantra Party in Maharashtra, telegraphically lodged what the party called a “strong” protest against a proposal by the B.L.D. to incorporate a star into its symbol.
+
 ## Key points
 
 - The Election Commission is considering a proposal involving the use of a star in the B.L.D.'s electoral symbol.

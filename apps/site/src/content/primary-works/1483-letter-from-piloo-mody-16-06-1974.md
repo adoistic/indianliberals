@@ -60,6 +60,12 @@ summary: |-
   Mody’s proposed alternative would bring together non-Congress, non-Marxist, and non-Communist parties in a broad, programme-based formation. He distinguishes this project from a simple merger: existing parties would be dissolved and replaced by a new party whose programme would develop through consensus, while allowing regional variation and individual opinion. The letter reports that seven parties had initially begun the process, with nine involved by the time of writing and several others considering participation. Mody acknowledges opposition within Swatantra’s state units, especially in Tamil Nadu and Delhi, but urges members to study the proposed programme and constitution before judging the initiative. The letter closes with a postscript estimating that the new formation could increase Swatantra’s representation from 9 to 18 members in Parliament and from 40 to 174 members in state legislatures.
 ---
 
+## Summary
+
+In this four-page letter dated June 16, 1974, Piloo Mody explains the Swatantra Party National Executive’s decision to explore a two-party system in India. He argues that democratic institutions—including Parliament, the cabinet system, the judiciary, the press, public opinion, fundamental rights, and opposition parties—have been hollowed out, creating the threat of dictatorship. He presents a strong national alternative as necessary to restore legitimate protest, free and fair elections, and democratic safeguards against what he calls a growing strain of fascism.
+
+Mody’s proposed alternative would bring together non-Congress, non-Marxist, and non-Communist parties in a broad, programme-based formation. He distinguishes this project from a simple merger: existing parties would be dissolved and replaced by a new party whose programme would develop through consensus, while allowing regional variation and individual opinion. The letter reports that seven parties had initially begun the process, with nine involved by the time of writing and several others considering participation. Mody acknowledges opposition within Swatantra’s state units, especially in Tamil Nadu and Delhi, but urges members to study the proposed programme and constitution before judging the initiative. The letter closes with a postscript estimating that the new formation could increase Swatantra’s representation from 9 to 18 members in Parliament and from 40 to 174 members in state legislatures.
+
 ## Key points
 
 - Mody describes India’s democratic institutions as severely eroded and warns of impending dictatorship.

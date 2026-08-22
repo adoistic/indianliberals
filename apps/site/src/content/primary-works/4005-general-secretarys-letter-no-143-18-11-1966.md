@@ -52,6 +52,12 @@ summary: |-
   The letter sets a deadline for the party’s candidate-selection process: nominations were expected to be substantially received before the National Convention in December, with 10 December fixed as the final date for receiving nominations. Signed by M. R. Masani as General Secretary, the communication is an internal piece of party organisation focused on electoral preparation.
 ---
 
+## Summary
+
+This one-page letter from the Swatantra Party Central Office, dated 18 November 1966, reports on a meeting of the Central Parliamentary Board held in New Delhi on 5 November. The Board expressed dissatisfaction with the slow nomination of prospective candidates for Parliament and State Assemblies in several states and instructed State Units to accelerate their recommendations.
+
+The letter sets a deadline for the party’s candidate-selection process: nominations were expected to be substantially received before the National Convention in December, with 10 December fixed as the final date for receiving nominations. Signed by M. R. Masani as General Secretary, the communication is an internal piece of party organisation focused on electoral preparation.
+
 ## Key points
 
 - The Central Parliamentary Board met in New Delhi on 5 November 1966.

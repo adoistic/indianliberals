@@ -52,6 +52,12 @@ summary: |-
   In the rendered page, Pandit also considers the regional and caste dimensions of alliance-making. He suggests that electoral adjustments may be negotiated at the state level even where national alliances remain impractical, and discusses possible cooperation in Uttar Pradesh, Bihar, Gujarat, Mysore and other states. The article closes by contrasting the Congress’s efforts to attract smaller parties with the opposition’s tactical problems, arguing that caste alignments and the personal popularity of Indira Gandhi may shape the result.
 ---
 
+## Summary
+
+In the rendered page, C. S. Pandit examines the political realignment surrounding the proposed snap Lok Sabha election. The article argues that immediate electoral calculations are displacing longer-term alliances, especially as the Congress, Swatantra Party, S.S.P. and Jan Sangh assess whether to cooperate or compete. It presents Minoo Masani’s withdrawal from the proposed opposition front as evidence of the difficulties involved in constructing a credible anti-Congress coalition, while noting that the S.S.P. and Jan Sangh have limited and sometimes conflicting purposes.
+
+In the rendered page, Pandit also considers the regional and caste dimensions of alliance-making. He suggests that electoral adjustments may be negotiated at the state level even where national alliances remain impractical, and discusses possible cooperation in Uttar Pradesh, Bihar, Gujarat, Mysore and other states. The article closes by contrasting the Congress’s efforts to attract smaller parties with the opposition’s tactical problems, arguing that caste alignments and the personal popularity of Indira Gandhi may shape the result.
+
 ## Key points
 
 - The proposed snap election has encouraged short-term electoral adjustments rather than durable political alliances.

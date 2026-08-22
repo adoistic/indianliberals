@@ -51,6 +51,12 @@ summary: |-
   The author further alleges that the letter may still be buried in the External Affairs Ministry’s archives or may have reached the Russian Embassy in New Delhi or authorities in the Kremlin. The central parliamentary claim is that the minister’s denial misled the House and constituted a breach of privilege. The author asks that the minister be required to correct the reply under Direction 115(1), or that the issue be treated as a privilege motion under Rule 224, and requests that the notice be taken up after Question Hour the following day. The sender’s name is not visible beneath the closing.
 ---
 
+## Summary
+
+This one-page English letter, dated December 3, 1969, is addressed to the Speaker of the Lok Sabha from Parliament House, New Delhi. Its unsigned author challenges Deputy Minister for External Affairs Surendra Pal Singh’s reply to Starred Question No. 385 concerning the alleged non-delivery of a letter from Svetlana to her children by Indian diplomat Jaipal Singh. The letter argues that the government’s denial conflicts with Svetlana’s account in her book "Only One Year" and that the matter concerns a personal letter entrusted to the diplomat for delivery in Moscow.
+
+The author further alleges that the letter may still be buried in the External Affairs Ministry’s archives or may have reached the Russian Embassy in New Delhi or authorities in the Kremlin. The central parliamentary claim is that the minister’s denial misled the House and constituted a breach of privilege. The author asks that the minister be required to correct the reply under Direction 115(1), or that the issue be treated as a privilege motion under Rule 224, and requests that the notice be taken up after Question Hour the following day. The sender’s name is not visible beneath the closing.
+
 ## Key points
 
 - The letter is dated December 3, 1969, and addressed to the Speaker of the Lok Sabha.

@@ -48,6 +48,10 @@ summary: |-
   This single-page Swatantra Party press communication, dated Bombay, April 3, 1971, announces that M. R. Masani has tendered his resignation as President of the party. It says Masani accepts responsibility for what he describes as the party's shortcomings and misdirection, and argues that when a country, army, organisation, or administration faces disaster, its head should accept responsibility and make way for someone with fresh ideas.
 ---
 
+## Summary
+
+This single-page Swatantra Party press communication, dated Bombay, April 3, 1971, announces that M. R. Masani has tendered his resignation as President of the party. It says Masani accepts responsibility for what he describes as the party's shortcomings and misdirection, and argues that when a country, army, organisation, or administration faces disaster, its head should accept responsibility and make way for someone with fresh ideas.
+
 ## Key points
 
 - M. R. Masani has submitted his resignation as President of the Swatantra Party.

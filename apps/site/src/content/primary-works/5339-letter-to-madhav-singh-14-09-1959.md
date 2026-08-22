@@ -48,6 +48,12 @@ summary: |-
   Mirza says Masani has read Singh’s letter and has asked her to reply that he will keep the request in mind and let Singh know if an opportunity arises. She also directs Singh to obtain the Delhi organisers’ addresses through Sardar Lal Singh at the Rota House, New Delhi. The letter’s visible subject is political-party correspondence and possible organisational contact; no further context is provided on the request itself.
 ---
 
+## Summary
+
+This single-page English office letter, dated 14 September 1959, is addressed to Mr. Madhav Singh and signed by Miss B. S. Mirza in her capacity as secretary to M. R. Masani. Mirza acknowledges Singh’s letter of 6 September, which had been addressed to Masani, and explains that it arrived just before Masani’s departure for the United Kingdom.
+
+Mirza says Masani has read Singh’s letter and has asked her to reply that he will keep the request in mind and let Singh know if an opportunity arises. She also directs Singh to obtain the Delhi organisers’ addresses through Sardar Lal Singh at the Rota House, New Delhi. The letter’s visible subject is political-party correspondence and possible organisational contact; no further context is provided on the request itself.
+
 ## Key points
 
 - The letter is dated 14 September 1959 and addressed to Mr. Madhav Singh.

@@ -46,6 +46,12 @@ summary: |-
   Citing the need to avoid further wear and tear on his health, Masani firmly declines to give the talk and asks that she and 'Murthy' proceed to arrange the tea at their own convenience without him. He softens the refusal by leaving the door open to attend informally: if he feels up to dropping in on the day, though not for the purpose of speaking, he says he will certainly do so. The note is signed 'Yours sincerely, M. R. Masani.' Despite the file title, the letter is written by Masani, not to him.
 ---
 
+## Summary
+
+A brief typed personal letter dated July 6, 1978, from M. R. Masani to Mrs. Sosan Panday, Secretary-Trustee of the Rajaji Foundation at 143 M. G. Road, Bombay. Masani acknowledges her letter of the previous day and confirms that he recalls the request discussed at the last meeting — that he deliver a 'pep-talk' at a Foundation tea — but reiterates the objection he made on the spot: he wishes to be spared from the assignment.
+
+Citing the need to avoid further wear and tear on his health, Masani firmly declines to give the talk and asks that she and 'Murthy' proceed to arrange the tea at their own convenience without him. He softens the refusal by leaving the door open to attend informally: if he feels up to dropping in on the day, though not for the purpose of speaking, he says he will certainly do so. The note is signed 'Yours sincerely, M. R. Masani.' Despite the file title, the letter is written by Masani, not to him.
+
 ## Key points
 
 - Single-page typed personal letter dated July 6, 1978, from M. R. Masani (Minoo Masani) to Mrs. Sosan Panday.

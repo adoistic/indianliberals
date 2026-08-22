@@ -57,6 +57,12 @@ summary: |-
   The committee also discussed increasing attendance at a performance of Handel’s “Judas Maccabaeus,” declining an additional performance offered by Mrs. Hima Kesarcodi, and co-opting Mr. Ranvir Khatav. On the second page, the minutes describe a Swatantra Service Centre planned to open on 1 December 1959, with civic grievances, youth services, and legal assistance. The convenors’ reports cover multilingual publicity, planned booklets on economic and political subjects, membership forms, and forthcoming meetings at Malad and Mandvi.
 ---
 
+## Summary
+
+These two pages record the 13 November 1959 meeting of the Swatantra Party’s Organising Committee of Greater Bombay. The minutes list the attendees, confirm the previous meeting’s minutes, and report on Minoo Masani’s visits to Madras, Tanjore, and Mangalore. C. Rajagopalachari (Rajaji) is reported as advising against an individual party statement on foreign policy while suggesting that the Bombay committee submit its approach to the Central Organising Committee. Murarji J. Vaidya, Victor Paranjoti, and S. D. Mohandas were asked to draft a note for consideration at a subsequent meeting.
+
+The committee also discussed increasing attendance at a performance of Handel’s “Judas Maccabaeus,” declining an additional performance offered by Mrs. Hima Kesarcodi, and co-opting Mr. Ranvir Khatav. On the second page, the minutes describe a Swatantra Service Centre planned to open on 1 December 1959, with civic grievances, youth services, and legal assistance. The convenors’ reports cover multilingual publicity, planned booklets on economic and political subjects, membership forms, and forthcoming meetings at Malad and Mandvi.
+
 ## Key points
 
 - The meeting of the Organising Committee of Greater Bombay was held on Friday, 13 November 1959, at the party office.

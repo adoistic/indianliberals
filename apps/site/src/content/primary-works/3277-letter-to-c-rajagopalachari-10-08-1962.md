@@ -50,6 +50,12 @@ summary: |-
   Masani also defends collective decision-making within a political organisation. Once a joint meeting has debated and formally recorded a decision, he argues, it should be modified only by another meeting rather than by an individual acting from a distance. Although he advises Rajagopalachari not to appear rigid and to consider accommodating Munshi’s position, he remains opposed to changing the decision and asks for an immediate reply so that further action can be planned before his departure on the morning of the 17th. A postscript reports a further communication from Dr. B. N. Singh regarding the party office at 40 Canning Lane and presents it as evidence that the opposing side is escalating rather than seeking accommodation.
 ---
 
+## Summary
+
+In this letter dated 10 August 1962, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about whether to reverse a previously agreed decision concerning the Parliamentary Party. Masani argues that the decision followed substantial debate and that reopening it would obscure the underlying issue of principle by making the dispute appear to be a quarrel over money or the jeep credit. He interprets K. M. Munshi’s appeal to courtesy as an effort to withdraw from the decision and reconcile the dispute after the fact.
+
+Masani also defends collective decision-making within a political organisation. Once a joint meeting has debated and formally recorded a decision, he argues, it should be modified only by another meeting rather than by an individual acting from a distance. Although he advises Rajagopalachari not to appear rigid and to consider accommodating Munshi’s position, he remains opposed to changing the decision and asks for an immediate reply so that further action can be planned before his departure on the morning of the 17th. A postscript reports a further communication from Dr. B. N. Singh regarding the party office at 40 Canning Lane and presents it as evidence that the opposing side is escalating rather than seeking accommodation.
+
 ## Key points
 
 - Masani supports maintaining a decision reached after extensive debate and formalised by a joint meeting.

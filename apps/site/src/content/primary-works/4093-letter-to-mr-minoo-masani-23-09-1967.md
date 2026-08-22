@@ -49,6 +49,12 @@ summary: |-
   Bhat recalls C. Rajagopalachari's warning at the party's inception in 1962 that people who seek power should join the Congress. He clarifies that this was not an invitation for existing Swatantra members to leave, and proposes that the party accept having fewer ministers if doing so excludes power-hungry figures. In his view, political integrity would strengthen the party's prestige and its commitment to a prosperous India.
 ---
 
+## Summary
+
+In this one-page typed copy dated 23 September 1967, M. D. Bhat writes to Minoo Masani about defections from the Swatantra Party to the ruling party. He argues that the party's strong position in Rajasthan makes the migration of “power mongers” especially damaging, and urges Masani to distinguish sincere, devoted party members from politicians seeking office.
+
+Bhat recalls C. Rajagopalachari's warning at the party's inception in 1962 that people who seek power should join the Congress. He clarifies that this was not an invitation for existing Swatantra members to leave, and proposes that the party accept having fewer ministers if doing so excludes power-hungry figures. In his view, political integrity would strengthen the party's prestige and its commitment to a prosperous India.
+
 ## Key points
 
 - The letter criticizes defections from the Swatantra Party to the ruling party.

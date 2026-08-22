@@ -48,6 +48,12 @@ summary: |-
   Arya says he will explain the circumstances when they meet in person and anticipates travelling to Bombay in late June or early July. He also tells Raju that he will henceforth receive Swatantra Jyoti and Lok Bharati regularly. The letter documents a political affiliation change and the maintenance of liberal-periodical circulation after the State Committee's dissolution.
 ---
 
+## Summary
+
+This single-page letter, dated June 7, 1975, is from M. R. Arya, identified on the letterhead as editor of Swatantra Jyoti, to S. V. Raju. Arya thanks Raju for his letter of May 20 and reports that he joined the BLD during the third week of April 1975, 75 days after the dissolution of the State Committee.
+
+Arya says he will explain the circumstances when they meet in person and anticipates travelling to Bombay in late June or early July. He also tells Raju that he will henceforth receive Swatantra Jyoti and Lok Bharati regularly. The letter documents a political affiliation change and the maintenance of liberal-periodical circulation after the State Committee's dissolution.
+
 ## Key points
 
 - M. R. Arya writes to S. V. Raju from New Delhi on June 7, 1975.

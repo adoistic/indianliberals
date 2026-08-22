@@ -50,6 +50,10 @@ summary: |-
   In the rendered pages, D. K. Rangnekar examines the Congress (R)'s sweeping victory in the 1971 election and argues that it confounded opposition predictions of instability, economic decline, and governmental break-up. The article attributes the result to the timing and surprise of the poll, the opposition's failure to form a credible alliance, the short and poorly organised campaign, continuing rural prosperity, and the appeal of Indira Gandhi's promise of a better tomorrow. It also notes that low-income voters largely supported Gandhi and her party, while the opposition misjudged the electorate by relying on a mass assault centred on alleged failures of government and the election platform.
 ---
 
+## Summary
+
+In the rendered pages, D. K. Rangnekar examines the Congress (R)'s sweeping victory in the 1971 election and argues that it confounded opposition predictions of instability, economic decline, and governmental break-up. The article attributes the result to the timing and surprise of the poll, the opposition's failure to form a credible alliance, the short and poorly organised campaign, continuing rural prosperity, and the appeal of Indira Gandhi's promise of a better tomorrow. It also notes that low-income voters largely supported Gandhi and her party, while the opposition misjudged the electorate by relying on a mass assault centred on alleged failures of government and the election platform.
+
 ## Key points
 
 - The Congress (R)'s victory is presented as a repudiation of opposition forecasts of instability and governmental disintegration.

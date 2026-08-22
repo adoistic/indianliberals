@@ -51,6 +51,10 @@ summary: |-
   This untitled Swatantra Party (Bombay Region) office-record packet, issued from Bombay in January–February 1971, contains meeting notices and draft minutes for Executive Committee meetings held on 16 December 1970 and 27 January 1971. The notices set agendas covering approval of earlier minutes, party organisation, the Public Assistance Bureau, and preparations for mid-term and Lok Sabha elections. The minutes record attendance, leave, committee assignments, convention preparations, office administration, bills, membership, and the allocation of delegates from local units.
 ---
 
+## Summary
+
+This untitled Swatantra Party (Bombay Region) office-record packet, issued from Bombay in January–February 1971, contains meeting notices and draft minutes for Executive Committee meetings held on 16 December 1970 and 27 January 1971. The notices set agendas covering approval of earlier minutes, party organisation, the Public Assistance Bureau, and preparations for mid-term and Lok Sabha elections. The minutes record attendance, leave, committee assignments, convention preparations, office administration, bills, membership, and the allocation of delegates from local units.
+
 ## Key points
 
 - The 20 January 1971 notice called an Executive Committee meeting for 27 January to discuss earlier minutes, matters arising from them, and the mid-term elections.

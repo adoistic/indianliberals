@@ -49,6 +49,12 @@ summary: |-
   The letter closes with a quotation from Charles Lamb about the difference between an idea being merely implied and being directly expressed. The page also records Rajagopalachari’s Madras address, a receipt stamp dated 8 May 1964, his handwritten signature, and the notation that one enclosure was returned.
 ---
 
+## Summary
+
+In this letter dated 7 May 1964, C. Rajagopalachari acknowledges Minoo Masani’s letter and confirms that the proposed meeting dates suit him. He returns an enclosed draft letter addressed to Members of Parliament and advises Masani to omit an explicit proviso from it. Rajagopalachari argues that the draft’s opening already conveys the intended condition by implication, and that stating it expressly would unnecessarily irritate the MPs.
+
+The letter closes with a quotation from Charles Lamb about the difference between an idea being merely implied and being directly expressed. The page also records Rajagopalachari’s Madras address, a receipt stamp dated 8 May 1964, his handwritten signature, and the notation that one enclosure was returned.
+
 ## Key points
 
 - Rajagopalachari confirms that the dates proposed for a meeting suit him.

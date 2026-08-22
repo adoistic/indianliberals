@@ -47,6 +47,12 @@ summary: |-
   The handwritten pages focus on personal arrangements and hospitality. Masani invites Rati to meet him in Bombay, offers to arrange a dinner, and says that she may bring friends. The final note refers to “Mr. Torley,” asks whether he would like to join them, and proposes dinner at a place of his choosing. The document is primarily personal correspondence rather than a statement of political or economic argument.
 ---
 
+## Summary
+
+This five-page archival item brings together a handwritten letter, a typed copy dated 4 March 1971, and a further handwritten note dated 26th. Minoo Masani writes to Miss Rati Cooper in a warm, informal tone, thanking her for a gift and explaining that he had hoped to meet her before leaving for Bombay. He describes plans to be in Rajkot from 9 to 11 March, including a lecture at the Kathiawar Guest House and attempts to call on Cooper and Rogerson.
+
+The handwritten pages focus on personal arrangements and hospitality. Masani invites Rati to meet him in Bombay, offers to arrange a dinner, and says that she may bring friends. The final note refers to “Mr. Torley,” asks whether he would like to join them, and proposes dinner at a place of his choosing. The document is primarily personal correspondence rather than a statement of political or economic argument.
+
 ## Key points
 
 - Masani thanks Rati Cooper for a gift sent on 26 February.

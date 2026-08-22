@@ -54,6 +54,12 @@ summary: |-
   The circular recommends four Vice-Presidents, four Joint Secretaries, two Treasurers, and twenty other Members, compared with the then-current arrangement of three Vice-Presidents, one Joint Secretary, three Treasurers, and twenty Members. It proposes inviting nominations in advance from General Council members and State Units, partly in response to dissatisfaction with the procedure followed at the 1964 meeting. The Central Office asks recipients to indicate their approval by returning an enclosed card, with silence by October 23 treated as approval.
 ---
 
+## Summary
+
+Dated October 6, 1967, this two-page National Executive Circular from the Swatantra Party Central Office announces that the newly elected General Council will meet in New Delhi on November 25–26. Signed by M. Dandekar as Officiating General Secretary, the circular addresses an omission in the National Executive's earlier deliberations: the party's Constitution specifies the permissible composition of the Executive but does not settle the precise number of office-bearers.
+
+The circular recommends four Vice-Presidents, four Joint Secretaries, two Treasurers, and twenty other Members, compared with the then-current arrangement of three Vice-Presidents, one Joint Secretary, three Treasurers, and twenty Members. It proposes inviting nominations in advance from General Council members and State Units, partly in response to dissatisfaction with the procedure followed at the 1964 meeting. The Central Office asks recipients to indicate their approval by returning an enclosed card, with silence by October 23 treated as approval.
+
 ## Key points
 
 - The newly elected General Council is scheduled to meet in New Delhi on November 25–26, 1967.

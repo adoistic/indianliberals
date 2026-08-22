@@ -58,3 +58,7 @@ ai:
 summary: |-
   Swatantra Newsletter No. 25, dated August 1962, records the Swatantra Party's organisational activity, parliamentary positions, state-level campaigns, and internal decisions. The issue reports meetings of the Organisation Sub-Committee and Parliamentary Board, membership enrolment, party reorganisation in Kerala, trade-union policy, and activity in state units across Andhra, Bihar, Bombay, Gujarat, Madras, Mysore, Punjab, Rajasthan, Uttar Pradesh, and West Bengal. A recurring concern is opposition to taxation, inflation, wasteful expenditure, and centralised economic planning, alongside efforts to build a broader grassroots organisation.
 ---
+
+## Summary
+
+Swatantra Newsletter No. 25, dated August 1962, records the Swatantra Party's organisational activity, parliamentary positions, state-level campaigns, and internal decisions. The issue reports meetings of the Organisation Sub-Committee and Parliamentary Board, membership enrolment, party reorganisation in Kerala, trade-union policy, and activity in state units across Andhra, Bihar, Bombay, Gujarat, Madras, Mysore, Punjab, Rajasthan, Uttar Pradesh, and West Bengal. A recurring concern is opposition to taxation, inflation, wasteful expenditure, and centralised economic planning, alongside efforts to build a broader grassroots organisation.

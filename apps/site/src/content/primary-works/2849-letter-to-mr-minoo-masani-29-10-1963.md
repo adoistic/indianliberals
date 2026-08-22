@@ -48,6 +48,12 @@ summary: |-
   The letter asks Masani to consult V. T. Sreenivasan in Bangalore about the necessary preparations before presenting proposals to the Organisational Sub-Committee. Ranga also notes that “Raja jee” is expected to be in Delhi on 23 and 24 November, suggesting that meetings of the Parliamentary and Organisation Sub-Committees be convened during those dates. A handwritten note beneath the signature appears to read “please refer to NIDUBR...” but its final characters are unclear.
 ---
 
+## Summary
+
+This one-page letter, written by N. G. Ranga to Minoo Masani on 29 October 1963, congratulates Masani on returning to India after a foreign tour and hopes that the tour helped publicise their political cause among “enlightened circles.” Ranga then discusses preparations for the next convention, including V. P. Menon’s offer to organise a reception in Bangalore and the expected cost of at least Rs. 25,000.
+
+The letter asks Masani to consult V. T. Sreenivasan in Bangalore about the necessary preparations before presenting proposals to the Organisational Sub-Committee. Ranga also notes that “Raja jee” is expected to be in Delhi on 23 and 24 November, suggesting that meetings of the Parliamentary and Organisation Sub-Committees be convened during those dates. A handwritten note beneath the signature appears to read “please refer to NIDUBR...” but its final characters are unclear.
+
 ## Key points
 
 - N. G. Ranga wrote to Minoo Masani on 29 October 1963 from Madras.

@@ -50,6 +50,12 @@ summary: |-
   The report attributes Masani’s resignation to his dissatisfaction with the party’s action against members who voted against the party’s official candidate for the Rajya Sabha election from Gujarat. He asked for an explanation from the six rebel MPs, whom he described as “mere eye-wash,” and stated that no action had been taken against party leaders in Gujarat. Masani argued that the party’s discipline was inferior to that of other parties and that only strict action could restore it. The clipping bears a handwritten date, “15-5-68,” while the printed article gives only “May 14.”
 ---
 
+## Summary
+
+This one-page Gujarat Herald report, datelined New Delhi, May 14, describes M. R. Masani’s decision to stand by his resignation from both the Swatantra Party’s executive and its Central Parliamentary Board. Masani reportedly wrote to the party’s general secretary, Mr. Dandekar, saying that he was unwilling to withdraw his decision; the matter was to be considered at the party’s next national executive meeting in Madras on May 31.
+
+The report attributes Masani’s resignation to his dissatisfaction with the party’s action against members who voted against the party’s official candidate for the Rajya Sabha election from Gujarat. He asked for an explanation from the six rebel MPs, whom he described as “mere eye-wash,” and stated that no action had been taken against party leaders in Gujarat. Masani argued that the party’s discipline was inferior to that of other parties and that only strict action could restore it. The clipping bears a handwritten date, “15-5-68,” while the printed article gives only “May 14.”
+
 ## Key points
 
 - M. R. Masani maintained his resignation from the Swatantra Party executive and Central Parliamentary Board.

@@ -48,6 +48,12 @@ summary: |-
   Masani asks Sudhan to convey his gratitude to the party's President, General Secretary, and other colleagues. He expresses hope that the Kerala unit's opening months will consolidate its efforts and establish the party firmly in the state, and closes with New Year wishes to Sudhan and his colleagues.
 ---
 
+## Summary
+
+This one-page personal letter from Minoo Masani, dated January 2, 1970, congratulates C. H. Sudhan on the Swatantra Party's recent electoral performance in Kerala. Masani apologises for not being able to offer his congratulations in person and acknowledges the support Sudhan and his colleagues had extended to him in Madras.
+
+Masani asks Sudhan to convey his gratitude to the party's President, General Secretary, and other colleagues. He expresses hope that the Kerala unit's opening months will consolidate its efforts and establish the party firmly in the state, and closes with New Year wishes to Sudhan and his colleagues.
+
 ## Key points
 
 - Minoo Masani wrote to C. H. Sudhan on January 2, 1970.

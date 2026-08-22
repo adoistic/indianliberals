@@ -49,6 +49,12 @@ summary: |-
   The substantive purpose is to convene a small stock-taking meeting of former colleagues in the wake of two convulsions: the Emergency (which Masani calls "a spell of dictatorship") and the Swatantra National Executive's decision to merge the party with the Janata Party. Some of the invitees, like Masani, have stayed outside party politics; others have joined the Janata Party. He proposes a discussion at the (former Swatantra) Party office at Sassoon Building, 143 Mahatma Gandhi Road, on Friday 29 July at 6 p.m., and asks for an RSVP either by letter to his office address or by telephone to his secretary at 254005.
 ---
 
+## Summary
+
+This is a typed personal letter dated 18 July 1977, sent from M. R. (Minoo) Masani's Bombay office (3rd floor, Army & Navy Building, 148 Mahatma Gandhi Road) to a "Dear Friend" — a circular-style note, given the generic salutation, extended to political associates. Writing three months after the Janata Party's post-Emergency accession to power in Delhi, Masani reintroduces himself as a public commentator who has been out of active party politics since resigning the Presidentship of the Swatantra Party in April 1971, and who has since kept his hand in through his editorship of Freedom First.
+
+The substantive purpose is to convene a small stock-taking meeting of former colleagues in the wake of two convulsions: the Emergency (which Masani calls "a spell of dictatorship") and the Swatantra National Executive's decision to merge the party with the Janata Party. Some of the invitees, like Masani, have stayed outside party politics; others have joined the Janata Party. He proposes a discussion at the (former Swatantra) Party office at Sassoon Building, 143 Mahatma Gandhi Road, on Friday 29 July at 6 p.m., and asks for an RSVP either by letter to his office address or by telephone to his secretary at 254005.
+
 ## Key points
 
 - Single-page personal / circular letter from Minoo Masani dated 18 July 1977, sent from his Bombay office at the Army & Navy Building.

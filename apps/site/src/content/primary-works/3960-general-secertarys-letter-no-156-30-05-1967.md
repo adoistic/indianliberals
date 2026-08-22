@@ -51,6 +51,12 @@ summary: |-
   The circular lists deadlines from June through December 1967, covering membership and subscription records, scrutiny and verification of registers, elections at primary and district levels, elections to State Committees and the General Council, the General Council’s election of the National Executive, and the new Executive’s assumption of office. It asks recipients to communicate the revised dates to primary and district units and others concerned in their states.
 ---
 
+## Summary
+
+This one-page administrative circular from the Swatantra Party Central Office, dated May 30, 1967, announces a revised timetable for internal party elections. N. Dandekar, signing as Officiating General Secretary, explains that the National Executive agreed to postpone the closing date for enrolment of Workers and Life Workers, bringing the entire election schedule forward by 15 days.
+
+The circular lists deadlines from June through December 1967, covering membership and subscription records, scrutiny and verification of registers, elections at primary and district levels, elections to State Committees and the General Council, the General Council’s election of the National Executive, and the new Executive’s assumption of office. It asks recipients to communicate the revised dates to primary and district units and others concerned in their states.
+
 ## Key points
 
 - The National Executive considered and approved a request to postpone the enrolment deadline for Workers and Life Workers.

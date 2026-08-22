@@ -51,6 +51,12 @@ summary: |-
   The agenda comprised discussion of rules for nominating speakers on various subjects, arrears of subscription, and any other item. The notice is signed by C.C. Desai, identified as Secretary, and addressed to all members.
 ---
 
+## Summary
+
+This one-page English notice, issued by the Swatantra Party Parliamentary Office in New Delhi on July 13, 1967, announces a meeting of the party's General Body in Parliament. The meeting was scheduled for 6:00 p.m. on Monday, July 17, 1967, in Room No. 50 on the first floor of Parliament House, and members were requested to attend.
+
+The agenda comprised discussion of rules for nominating speakers on various subjects, arrears of subscription, and any other item. The notice is signed by C.C. Desai, identified as Secretary, and addressed to all members.
+
 ## Key points
 
 - The notice was issued by the Swatantra Party Parliamentary Office in New Delhi on July 13, 1967.

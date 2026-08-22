@@ -50,6 +50,12 @@ summary: |-
   The paper explains the party’s distinction between replacing a government through an agreed alternative programme and “toppling” it without a policy basis or a credible successor. Minoo Masani describes toppling as an “indecent act” arising from inadequate political development, and identifies the failed attempt to topple the Swatantra-led government in Orissa as an example. The paper instead presents the Orissa coalition government formed after the 1967 elections as a model of electoral cooperation based on a common minimum programme.
 ---
 
+## Summary
+
+This one-page Swatantra Party paper records the National Executive’s decision, taken on April 11, 1970, not to support the S.S.P.’s proposal for a united opposition programme aimed at dislodging Indira Gandhi’s government. The S.S.P. General Secretary, George Fernandes, had proposed talks around the S.S.P.’s 17-point programme. The Swatantra Party rejected several points in that programme, while keeping open the possibility of bilateral discussions.
+
+The paper explains the party’s distinction between replacing a government through an agreed alternative programme and “toppling” it without a policy basis or a credible successor. Minoo Masani describes toppling as an “indecent act” arising from inadequate political development, and identifies the failed attempt to topple the Swatantra-led government in Orissa as an example. The paper instead presents the Orissa coalition government formed after the 1967 elections as a model of electoral cooperation based on a common minimum programme.
+
 ## Key points
 
 - The Swatantra Party National Executive declined the S.S.P.’s proposal for a common opposition programme.

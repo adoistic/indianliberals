@@ -48,6 +48,12 @@ summary: |-
   The letter is accompanied by an enclosure identified as “Draft Resolution.” Its political context is indicated by the recipient’s address at the Swatantra Party National Headquarters in Bombay. The page does not reproduce the enclosed resolution itself, so its substance cannot be assessed here.
 ---
 
+## Summary
+
+In this one-page letter dated July 12, 1974, Minoo Masani writes to Madhu Mehta about a draft resolution intended as a compromise. Masani notes that he has sent the proposal to Piloo Mody, following an earlier discussion with Mehta, and asks Mehta to support efforts to secure its acceptance.
+
+The letter is accompanied by an enclosure identified as “Draft Resolution.” Its political context is indicated by the recipient’s address at the Swatantra Party National Headquarters in Bombay. The page does not reproduce the enclosed resolution itself, so its substance cannot be assessed here.
+
 ## Key points
 
 - The letter is dated July 12, 1974, and is signed by M. R. Masani.

@@ -52,6 +52,12 @@ summary: |-
   The letter also informs Minoo Masani of a proposed meeting between the Prime Minister, Opposition leaders, and senior Members of Parliament to discuss the devaluation. The writer offers to convey Masani's name to the Prime Minister's Secretariat if Professor Ranga cannot attend, and asks for replies from both Masani and Ranga regarding their availability.
 ---
 
+## Summary
+
+This 6 June 1966 letter from the Swatantra Party Parliamentary Office discusses the Government of India's decision to devalue the rupee. The writer notes that the decision was taken despite opposition from T. T. Krishnamachari, Sachin Choudhury, and Asoka Mehta, and argues that the Government acted only after receiving what the letter calls a virtual ultimatum from the International Monetary Fund and the World Bank.
+
+The letter also informs Minoo Masani of a proposed meeting between the Prime Minister, Opposition leaders, and senior Members of Parliament to discuss the devaluation. The writer offers to convey Masani's name to the Prime Minister's Secretariat if Professor Ranga cannot attend, and asks for replies from both Masani and Ranga regarding their availability.
+
 ## Key points
 
 - The letter records the recent devaluation of the rupee in June 1966.

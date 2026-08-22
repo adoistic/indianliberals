@@ -50,6 +50,12 @@ summary: |-
   Singh says he has not yet met Charan Singh since the talks broke down. He intends to meet him after his return to Lucknow and then advise Masani whether Masani should come to Lucknow on July 7 or whether they should meet in Delhi. The letter is therefore a brief piece of Swatantra Party correspondence documenting internal political negotiations, their failure, and the proposed next steps.
 ---
 
+## Summary
+
+In this letter dated June 28, 1968, Bhanu Pratap Singh writes to Minoo Masani about the breakdown of anticipated merger talks involving Chaudhary Charan Singh. Singh encloses four related documents: a confidential note by N. Dandekar on his discussions with Charan Singh, Charan Singh's press statement on the collapse of the talks, Singh's own press statement, and a copy of Singh's letter to Dandekar.
+
+Singh says he has not yet met Charan Singh since the talks broke down. He intends to meet him after his return to Lucknow and then advise Masani whether Masani should come to Lucknow on July 7 or whether they should meet in Delhi. The letter is therefore a brief piece of Swatantra Party correspondence documenting internal political negotiations, their failure, and the proposed next steps.
+
 ## Key points
 
 - The letter is dated June 28, 1968, and is sent from the Swatantra Party's Uttar Pradesh office in Lucknow.

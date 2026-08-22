@@ -50,6 +50,12 @@ summary: |-
   Rajagopalachari also addresses Masani’s suggestion that he ask Morarji Desai to take a firm position on Gujarat, explaining that his conversation with Desai had ended before Masani’s letter arrived and that Desai had already left for Bombay. In a postscript, he comments on a twelve-page Congress draft manifesto: although his personal inclinations differ from it in several places, he broadly approves its substance and admires the eloquence and study behind it. He proposes that the manifesto should conclude with an appeal to other parties to form a united opposition to the government without waiting for the 1972 general election.
 ---
 
+## Summary
+
+In this letter dated 2 June 1970, C. Rajagopalachari responds to Minoo Masani’s proposal for an alliance among Congress (O), Jan Sangh, and the Swatantra Party. Rajagopalachari reports that Morarji Desai had recently spoken with him and indicates that he will review Masani’s enclosed draft. He recommends a convention of delegates from the three parties to endorse the proposed alliance, wherever it would be most convenient for the delegates, and says he intends to attend it.
+
+Rajagopalachari also addresses Masani’s suggestion that he ask Morarji Desai to take a firm position on Gujarat, explaining that his conversation with Desai had ended before Masani’s letter arrived and that Desai had already left for Bombay. In a postscript, he comments on a twelve-page Congress draft manifesto: although his personal inclinations differ from it in several places, he broadly approves its substance and admires the eloquence and study behind it. He proposes that the manifesto should conclude with an appeal to other parties to form a united opposition to the government without waiting for the 1972 general election.
+
 ## Key points
 
 - Rajagopalachari supports exploring an alliance among Congress (O), Jan Sangh, and the Swatantra Party.

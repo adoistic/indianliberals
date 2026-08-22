@@ -49,6 +49,12 @@ summary: |-
   The second page contains a pasted Indian Express clipping dated 23 December 1969, headed “Singh Deo bereaved.” The clipping reports the death in Bhubaneswar of Mr. A. N. Singh Deo, identified as the father of the Orissa Chief Minister. The document therefore records both a personal condolence message and contemporaneous press confirmation of the bereavement.
 ---
 
+## Summary
+
+This two-page archival record preserves a telegram from “MASANI” to the Chief Minister’s Residence in Bhubaneswar, dated 23 December 1969. The sender expresses grief at a reported death, conveys heartfelt sympathy, and stresses that the recipient’s presence at the related observance is important. The sender’s address is given as 146, Mahatma Gandhi Road, Bombay 1, and the document is marked “confirmation copy.”
+
+The second page contains a pasted Indian Express clipping dated 23 December 1969, headed “Singh Deo bereaved.” The clipping reports the death in Bhubaneswar of Mr. A. N. Singh Deo, identified as the father of the Orissa Chief Minister. The document therefore records both a personal condolence message and contemporaneous press confirmation of the bereavement.
+
 ## Key points
 
 - The document is a typed telegram addressed to the Chief Minister’s Residence in Bhubaneswar.

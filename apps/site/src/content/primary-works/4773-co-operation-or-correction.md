@@ -55,6 +55,12 @@ summary: |-
   The pamphlet challenges Congress claims that large-scale cooperative farming would raise production and employment. It cites comparative agricultural figures and an Indian Agricultural Research Institute study of sugarcane yields to argue that small farms can be more productive per acre than large holdings. It presents the Nagpur Resolution's three-year timetable, government targets for forming cooperatives, and discriminatory access to agricultural services as evidence that the policy would become coercive despite official assurances of voluntariness. The argument closes by associating Congress's approach with Marxist collectivisation in the Soviet Union and China, and by defending democratic economic development based on a vigorous, self-employed peasantry. The visible pages identify no individual author and do not print a publication year.
 ---
 
+## Summary
+
+CO-OPERATION OR COERCION? argues against the Indian National Congress's 1959 proposal for joint cooperative farming, presented as a plan to pool land and move toward collective cultivation. The pamphlet distinguishes voluntary agricultural cooperation—such as credit and service cooperatives—from compulsory schemes that would remove farmers' control over their land. It maintains that Indian agriculture depends on the farmer's personal interest, intensive care of the soil, and attachment to individual property, and that genuine cooperation must therefore preserve ownership and independent cultivation.
+
+The pamphlet challenges Congress claims that large-scale cooperative farming would raise production and employment. It cites comparative agricultural figures and an Indian Agricultural Research Institute study of sugarcane yields to argue that small farms can be more productive per acre than large holdings. It presents the Nagpur Resolution's three-year timetable, government targets for forming cooperatives, and discriminatory access to agricultural services as evidence that the policy would become coercive despite official assurances of voluntariness. The argument closes by associating Congress's approach with Marxist collectivisation in the Soviet Union and China, and by defending democratic economic development based on a vigorous, self-employed peasantry. The visible pages identify no individual author and do not print a publication year.
+
 ## Key points
 
 - The pamphlet opposes the Congress Party's Nagpur Resolution on joint cooperative farming.

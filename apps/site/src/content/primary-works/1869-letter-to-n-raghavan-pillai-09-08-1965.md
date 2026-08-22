@@ -46,6 +46,12 @@ summary: |-
   Masani accepts the invitation in principle but explains that his current commitments mean he may not be able to respond until the following month. The letter is brief, courteous, and administrative in character; it does not state the subject on which he was invited to give his views.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani to Sir N. Raghavan Pillai is dated August 9, 1965, and was sent from Masani’s Bombay address. Masani acknowledges Pillai’s letter of July 21 and an invitation to present his views before the Indian Foreign Service Committee of the Ministry of External Affairs.
+
+Masani accepts the invitation in principle but explains that his current commitments mean he may not be able to respond until the following month. The letter is brief, courteous, and administrative in character; it does not state the subject on which he was invited to give his views.
+
 ## Key points
 
 - The letter is dated August 9, 1965, and signed by M. R. Masani.

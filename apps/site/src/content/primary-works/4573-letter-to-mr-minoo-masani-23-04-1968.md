@@ -48,6 +48,10 @@ summary: |-
   This one-page letter, dated 23 April 1968, is from Sunkara Satyanarayana, General Secretary of the Andhra Pradesh Swatantra Party, to M. R. Masani. Satyanarayana encloses Resolution No. 5 of the party's Executive Committee, passed at a meeting in Bapatla on 19 April 1968.
 ---
 
+## Summary
+
+This one-page letter, dated 23 April 1968, is from Sunkara Satyanarayana, General Secretary of the Andhra Pradesh Swatantra Party, to M. R. Masani. Satyanarayana encloses Resolution No. 5 of the party's Executive Committee, passed at a meeting in Bapatla on 19 April 1968.
+
 ## Key points
 
 - The letter is dated 23 April 1968 and was sent from the Andhra Pradesh Swatantra Party office in Vijayawada.

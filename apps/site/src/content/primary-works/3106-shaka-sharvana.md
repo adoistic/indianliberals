@@ -46,6 +46,12 @@ summary: |-
   The page also records a cash amount of 100 rupees and shows a prominently circled handwritten total or calculation, approximately “2479.” Because the handwriting is difficult to decipher, the identities of the people mentioned, the nature of several listed expenses, and the exact arithmetic cannot be established with confidence.
 ---
 
+## Summary
+
+This single handwritten account is recorded on a calendar sheet dated Wednesday, 2 August 1972. It appears to list personal financial items, including “2 months rent,” “Laxmi,” “Sethji,” and a further partially legible entry, alongside several rupee amounts.
+
+The page also records a cash amount of 100 rupees and shows a prominently circled handwritten total or calculation, approximately “2479.” Because the handwriting is difficult to decipher, the identities of the people mentioned, the nature of several listed expenses, and the exact arithmetic cannot be established with confidence.
+
 ## Key points
 
 - The document is a single handwritten account or note dated 2 August 1972.

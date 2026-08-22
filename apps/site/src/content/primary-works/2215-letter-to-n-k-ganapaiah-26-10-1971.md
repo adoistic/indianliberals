@@ -51,6 +51,10 @@ summary: |-
   This 26 October 1971 letter from V. T. Sreenivasan to N. K. Ganapaiah, President of the Swatantra Party, challenges the accuracy and fairness of proceedings from the Party's 19 September 1971 Executive Committee meeting. Sreenivasan objects that the proceedings were circulated to other former office-bearers but not to him, despite his having served as General Secretary for twelve years. He argues that remarks concerning the Party's financial administration unfairly insult him, former Treasurer B. V. Narayana Reddy, and former senior Vice-President K. H. Srinivasan.
 ---
 
+## Summary
+
+This 26 October 1971 letter from V. T. Sreenivasan to N. K. Ganapaiah, President of the Swatantra Party, challenges the accuracy and fairness of proceedings from the Party's 19 September 1971 Executive Committee meeting. Sreenivasan objects that the proceedings were circulated to other former office-bearers but not to him, despite his having served as General Secretary for twelve years. He argues that remarks concerning the Party's financial administration unfairly insult him, former Treasurer B. V. Narayana Reddy, and former senior Vice-President K. H. Srinivasan.
+
 ## Key points
 
 - Sreenivasan disputes allegations that the Swatantra Party's accounts had gone unaudited for twelve years because the Party Constitution required accounts to be available for audit in a manner prescribed by the National Executive.

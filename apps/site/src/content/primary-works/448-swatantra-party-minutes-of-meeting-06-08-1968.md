@@ -55,6 +55,12 @@ summary: |-
   The minutes further record the party's position on proposed legislation banning corporate donations to political parties: members were instructed not to commit themselves for or against the bill before discussion in the House. The committee approved purchasing a filing cabinet for the parliamentary office, and asked C. C. Desai to persuade independent member Yashpal Singh to join the party. It also reaffirmed opposition to elections in West Bengal until the Communist parties were no longer banned, while allowing that elections should not be held for approximately two years and specifically opposing elections between November 1968 and February 1969.
 ---
 
+## Summary
+
+These minutes record a meeting of the Swatantra Party Parliamentary Office Executive Committee held in Parliament House, New Delhi, on August 6, 1968. The committee reviewed procedures for nominating party members to select and joint select committees, stressing that competence should be considered alongside party preferences. It also agreed that the party's Rajya Sabha group should ratify committee nominations and allocated speakers for a wide range of bills and debates, including legislation concerning industrial security, judges' inquiries, food, President's Rule, labour welfare, coal, rent control, agricultural credit, special marriage, and the armed forces.
+
+The minutes further record the party's position on proposed legislation banning corporate donations to political parties: members were instructed not to commit themselves for or against the bill before discussion in the House. The committee approved purchasing a filing cabinet for the parliamentary office, and asked C. C. Desai to persuade independent member Yashpal Singh to join the party. It also reaffirmed opposition to elections in West Bengal until the Communist parties were no longer banned, while allowing that elections should not be held for approximately two years and specifically opposing elections between November 1968 and February 1969.
+
 ## Key points
 
 - The Executive Committee met on August 6, 1968, at the Swatantra Party Parliamentary Office in Parliament House, New Delhi.

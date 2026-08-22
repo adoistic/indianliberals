@@ -55,6 +55,12 @@ summary: |-
   Masani identifies two conclusions: India needs broad political education in democratic values, free institutions, and fundamental economic principles; and opposition parties can play a decisive role only through new, preferably younger, leadership. Accepting responsibility for shortcomings in the Party’s organisation, appraisal, and strategy, he tenders his resignation as President. He nevertheless states that he will remain a Party member and continue advocating its philosophy and principles.
 ---
 
+## Summary
+
+In this letter dated April 2, 1971, M. R. Masani reflects on the Swatantra Party’s poor performance in the General Elections and asks the Party’s General Council to undertake an “agonising reappraisal” of its position and future. He argues that the immediate task is to determine how the Party can help maintain and advance freedom in India, while approaching its failures through rigorous self-criticism and an honest admission of mistakes.
+
+Masani identifies two conclusions: India needs broad political education in democratic values, free institutions, and fundamental economic principles; and opposition parties can play a decisive role only through new, preferably younger, leadership. Accepting responsibility for shortcomings in the Party’s organisation, appraisal, and strategy, he tenders his resignation as President. He nevertheless states that he will remain a Party member and continue advocating its philosophy and principles.
+
 ## Key points
 
 - Masani describes the General Election results as a disaster for the Swatantra Party and for the country.

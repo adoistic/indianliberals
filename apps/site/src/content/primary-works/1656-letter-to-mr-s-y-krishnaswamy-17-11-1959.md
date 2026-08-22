@@ -48,6 +48,10 @@ summary: |-
   This two-page file contains two typed copy letters issued by the Swatantra Party's Bombay Office on 17 November 1959. Both letters are signed by R. C. Cooper in the capacity of Honorary Treasurer and request official receipts for enclosed cheques dated 16 November 1959, sent on the instructions of Sir H. P. Mody. The first letter encloses cheque no. HM 878325 for Rs. 5,000 and is addressed to S. Y. Krishnaswamy, Honorary Treasurer of the Swatantra Party in Madras.
 ---
 
+## Summary
+
+This two-page file contains two typed copy letters issued by the Swatantra Party's Bombay Office on 17 November 1959. Both letters are signed by R. C. Cooper in the capacity of Honorary Treasurer and request official receipts for enclosed cheques dated 16 November 1959, sent on the instructions of Sir H. P. Mody. The first letter encloses cheque no. HM 878325 for Rs. 5,000 and is addressed to S. Y. Krishnaswamy, Honorary Treasurer of the Swatantra Party in Madras.
+
 ## Key points
 
 - The PDF contains two parallel administrative letters on Swatantra Party (Bombay Office) letterhead.

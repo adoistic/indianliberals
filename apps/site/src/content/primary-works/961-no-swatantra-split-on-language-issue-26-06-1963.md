@@ -50,6 +50,12 @@ summary: |-
   Munshi further states that the language question was not discussed at the party level. Under the party constitution, members were free to hold individual opinions on matters not covered by the party’s 21 directive principles, and he says that language was not one of those principles. The clipping is dated by a handwritten annotation, “30/6/63”; no printed publication date or author name is visible.
 ---
 
+## Summary
+
+This one-page Hindustan Times report records K. M. Munshi’s denial that the Swatantra Party was divided over the language issue. Munshi says that no correspondence had taken place between him and C. Rajagopalachari on the matter, rejecting reports of an exchange that had produced a serious disagreement among the party’s leading members.
+
+Munshi further states that the language question was not discussed at the party level. Under the party constitution, members were free to hold individual opinions on matters not covered by the party’s 21 directive principles, and he says that language was not one of those principles. The clipping is dated by a handwritten annotation, “30/6/63”; no printed publication date or author name is visible.
+
 ## Key points
 
 - K. M. Munshi denies reports of a Swatantra Party split over language.

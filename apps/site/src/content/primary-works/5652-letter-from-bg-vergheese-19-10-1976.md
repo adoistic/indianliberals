@@ -49,6 +49,12 @@ summary: |-
   Verghese asks the recipient, and possibly their colleagues and associates in the journalistic profession, to endorse the statement by signing and returning it with their signature, printed name, and address. A postscript notes that a supplementary list of signatures will be forwarded to the Prime Minister. The statement itself is not included in the rendered page.
 ---
 
+## Summary
+
+This single-page letter, dated October 19, 1976, is signed by B. G. Verghese from P-12 Hauz Khas, New Delhi. Addressed to an unnamed “Friend,” it states that an enclosed statement has been handed over to the Prime Minister’s Office and is being circulated to professional journalists across the country for information and endorsement.
+
+Verghese asks the recipient, and possibly their colleagues and associates in the journalistic profession, to endorse the statement by signing and returning it with their signature, printed name, and address. A postscript notes that a supplementary list of signatures will be forwarded to the Prime Minister. The statement itself is not included in the rendered page.
+
 ## Key points
 
 - The document is a one-page English letter dated October 19, 1976.

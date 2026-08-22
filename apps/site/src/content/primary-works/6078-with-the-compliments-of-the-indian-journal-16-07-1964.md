@@ -48,3 +48,7 @@ ai:
 summary: |-
   The July 3, 1964 issue of The Gateway, the bulletin of the Rotary Club of Bombay, combines reports of club meetings with political, international, and civic commentary. Its principal feature is an abridged address by C. Rajagopalachari (“Rajaji”), who argues that India must cultivate friendship with Pakistan and its other neighbours while maintaining a difficult but necessary commitment to cooperation. The issue also reports talks on South-East Asian affairs and Bombay land tenures, alongside Rotary club news, district visits, attendance records, and photographs.
 ---
+
+## Summary
+
+The July 3, 1964 issue of The Gateway, the bulletin of the Rotary Club of Bombay, combines reports of club meetings with political, international, and civic commentary. Its principal feature is an abridged address by C. Rajagopalachari (“Rajaji”), who argues that India must cultivate friendship with Pakistan and its other neighbours while maintaining a difficult but necessary commitment to cooperation. The issue also reports talks on South-East Asian affairs and Bombay land tenures, alongside Rotary club news, district visits, attendance records, and photographs.

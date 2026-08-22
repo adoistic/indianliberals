@@ -51,6 +51,12 @@ summary: |-
   The proposed agenda combines internal party administration with electoral and public-facing priorities: electing a new Parliamentary Board, co-opting members from unrepresented states, preparing a manifesto, considering alliances with like-minded parties, protecting the party’s election symbol and property, raising funds, reorganizing the party in several states, and deciding how to participate in the people’s movement led by Jayaprakash Narain. The second rendered page is the reverse/envelope portion of the inland letter card and adds no substantive argument.
 ---
 
+## Summary
+
+This letter, dated 13 January 1975 and issued from the Swatantra Party National Headquarters in Madras, invites S. V. Raju to the first meeting of the party’s reconstituted National Executive Committee. Scheduled for 22 January in Bombay, the meeting is presented as a forum for organizational decisions and political strategy ahead of expected elections to state assemblies and Parliament.
+
+The proposed agenda combines internal party administration with electoral and public-facing priorities: electing a new Parliamentary Board, co-opting members from unrepresented states, preparing a manifesto, considering alliances with like-minded parties, protecting the party’s election symbol and property, raising funds, reorganizing the party in several states, and deciding how to participate in the people’s movement led by Jayaprakash Narain. The second rendered page is the reverse/envelope portion of the inland letter card and adds no substantive argument.
+
 ## Key points
 
 - The letter is dated 13 January 1975 and comes from the Swatantra Party National Headquarters in Madras.

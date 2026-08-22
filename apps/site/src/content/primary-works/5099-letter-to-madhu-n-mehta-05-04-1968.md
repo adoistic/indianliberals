@@ -49,6 +49,12 @@ summary: |-
   Pandey asks that an emergency meeting of the Swatantra Party's General Council be convened to discuss the consequences of the resignation and to take a decision that would reunite the party's ranks. He closes by expressing confidence in the leadership of the party's senior leaders. The document does not provide further detail about the dispute, the resignation, or the proposed decision.
 ---
 
+## Summary
+
+This one-page English letter, dated 5 April 1968 and sent from the Swatantra Party office in Gonda, records K. M. Pandey's response to Madhu N. Mehta. Pandey encloses the text of a letter addressed to N. Dandekar, the party's General Secretary, concerning the party's internal situation following Mr. Masani's resignation from the National Executive and Central Parliamentary Board.
+
+Pandey asks that an emergency meeting of the Swatantra Party's General Council be convened to discuss the consequences of the resignation and to take a decision that would reunite the party's ranks. He closes by expressing confidence in the leadership of the party's senior leaders. The document does not provide further detail about the dispute, the resignation, or the proposed decision.
+
 ## Key points
 
 - The letter was issued from the Swatantra Party office at Raj Sadan, Gonda, on 5 April 1968.

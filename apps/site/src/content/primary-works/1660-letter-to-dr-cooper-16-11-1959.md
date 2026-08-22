@@ -43,6 +43,10 @@ summary: |-
   This single-page English letter, dated 16 November 1959, is addressed to Dr. Cooper. The typed message asks Dr. Cooper to return the document to Mr. Mehta as soon as possible after reading it, and closes with thanks. A handwritten signature appears to read “K. E. Hichray,” although the identification is uncertain; additional handwritten notes are present below the typed text but are difficult to decipher from the scan.
 ---
 
+## Summary
+
+This single-page English letter, dated 16 November 1959, is addressed to Dr. Cooper. The typed message asks Dr. Cooper to return the document to Mr. Mehta as soon as possible after reading it, and closes with thanks. A handwritten signature appears to read “K. E. Hichray,” although the identification is uncertain; additional handwritten notes are present below the typed text but are difficult to decipher from the scan.
+
 ## Key points
 
 - The document is a one-page typed office or personal letter in English.

@@ -48,6 +48,12 @@ summary: |-
   Since Venkiteswaran was not present at the Delhi meeting, he asks Masani to send him a list of participants (with addresses if possible) and a summary of the general consensus arrived at. He states that this information is required so that he can collate it and put it into the form of a "Newsletter" to be forwarded to friends and admirers of Rajaji throughout the country, and requests an early reply. The letter is a housekeeping note within the post-Rajaji classical-liberal network — the kind of internal correspondence by which the surviving core of the Swatantra circle kept a coordinated presence after 1974.
 ---
 
+## Summary
+
+A one-page typed letter dated 21 March 1980 from J. Venkiteswaran, writing from 143 Mahatma Gandhi Road, Bombay, to Minoo Masani (M. R. Masani) at the Army & Navy Building on the same street. Venkiteswaran explains that S. V. Raju has left India and has entrusted him with the task of keeping in touch with the friends and admirers of Rajaji. He has heard that a meeting was called at the residence of D. N. Patodia in New Delhi on 16 March 1980, at which some of these friends met and discussed current affairs.
+
+Since Venkiteswaran was not present at the Delhi meeting, he asks Masani to send him a list of participants (with addresses if possible) and a summary of the general consensus arrived at. He states that this information is required so that he can collate it and put it into the form of a "Newsletter" to be forwarded to friends and admirers of Rajaji throughout the country, and requests an early reply. The letter is a housekeeping note within the post-Rajaji classical-liberal network — the kind of internal correspondence by which the surviving core of the Swatantra circle kept a coordinated presence after 1974.
+
 ## Key points
 
 - Letter of 21 March 1980 from J. Venkiteswaran (143 Mahatma Gandhi Road, Bombay) to Minoo Masani.

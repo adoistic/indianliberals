@@ -52,6 +52,12 @@ summary: |-
   The motion seeks provisional registration of the petitioners as a political party under the Representation of the People Act without insisting on compliance with Section 29-A. In the alternative, it asks the Court to stay the operation of Section 29-A, restrain the respondents from insisting on compliance, or advance the final hearing of the writ petition before 30 October 1995. The filing also identifies Rajiv Patil as advocate for the petitioners and records subsequent procedural orders concerning leave, service, and extension of the notice.
 ---
 
+## Summary
+
+This four-page English legal filing records Notice of Motion No. 30 of 1996 in Writ Petition No. 14 of 1995 before the High Court of Judicature at Bombay. The petitioners are the Swatantra Party (Maharashtra), represented through its General Secretary L. R. Sampat, and S. V. Raju; the respondents are the Union of India, the Chief Election Commissioner of India, and the Secretary of the Election Commission of India.
+
+The motion seeks provisional registration of the petitioners as a political party under the Representation of the People Act without insisting on compliance with Section 29-A. In the alternative, it asks the Court to stay the operation of Section 29-A, restrain the respondents from insisting on compliance, or advance the final hearing of the writ petition before 30 October 1995. The filing also identifies Rajiv Patil as advocate for the petitioners and records subsequent procedural orders concerning leave, service, and extension of the notice.
+
 ## Key points
 
 - The document is a Notice of Motion No. 30 of 1996 connected with Writ Petition No. 14 of 1995.

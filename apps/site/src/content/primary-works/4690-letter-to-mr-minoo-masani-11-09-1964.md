@@ -48,6 +48,10 @@ summary: |-
   This one-page English office letter, dated September 11, 1964, is issued by the Swatantra Party Parliamentary Office in New Delhi and signed by its Secretary, P. N. Solanki. It informs M. R. Masani that the Speaker has allocated new seats to Swatantra Party members because the party has become the largest Opposition Group.
 ---
 
+## Summary
+
+This one-page English office letter, dated September 11, 1964, is issued by the Swatantra Party Parliamentary Office in New Delhi and signed by its Secretary, P. N. Solanki. It informs M. R. Masani that the Speaker has allocated new seats to Swatantra Party members because the party has become the largest Opposition Group.
+
 ## Key points
 
 - The letter is dated September 11, 1964, and originates from 53, North Avenue, New Delhi.

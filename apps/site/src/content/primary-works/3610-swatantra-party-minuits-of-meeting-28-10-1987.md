@@ -52,6 +52,12 @@ summary: |-
   The committee decided to pursue legal action concerning telephone-use rights after discussing correspondence involving MTNL’s Deputy Area Manager, Y. Subba Rao, and authorised Nitin G. Raut to act. It also resolved to initiate eviction proceedings against Ratansinh Rajda and The Afternoon over alleged illegal occupation of premises. Other decisions included organising an early convention of Swatantra Party members and like-minded people in Bombay, and ratifying a sanction of up to Rs. 5,000 for the Adult Education Institute’s legal expenses in the “toilet” case. The meeting ended with a vote of thanks to the chair.
 ---
 
+## Summary
+
+These two pages contain the draft minutes of the Swatantra Party, Maharashtra Managing Committee meeting held on 28 October 1987 at the Freedom First office in Bombay. S. V. Raju chaired the meeting, which was attended by L. R. Sampat, K. H. Subramaniam, S. L. Popat, J. Venkiteswaran, P. N. Subramanian, and, by special invitation, Nitin G. Raut. The minutes of the previous meeting were confirmed before the committee addressed several organisational and legal matters.
+
+The committee decided to pursue legal action concerning telephone-use rights after discussing correspondence involving MTNL’s Deputy Area Manager, Y. Subba Rao, and authorised Nitin G. Raut to act. It also resolved to initiate eviction proceedings against Ratansinh Rajda and The Afternoon over alleged illegal occupation of premises. Other decisions included organising an early convention of Swatantra Party members and like-minded people in Bombay, and ratifying a sanction of up to Rs. 5,000 for the Adult Education Institute’s legal expenses in the “toilet” case. The meeting ended with a vote of thanks to the chair.
+
 ## Key points
 
 - The document records the 28 October 1987 meeting of the Swatantra Party, Maharashtra Managing Committee, at the Freedom First office in Bombay.

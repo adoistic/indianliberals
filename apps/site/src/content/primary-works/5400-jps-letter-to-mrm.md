@@ -52,6 +52,12 @@ summary: |-
   The letters engage critically with the recipient’s apparent movement toward non-violence and a “new dynamic” associated with Gandhi. Narayan distinguishes the means of political struggle from the larger historical conflict between capital and labour, arguing that violence versus non-violence is a secondary issue compared with the social significance of labour. He rejects what he calls the “new dynamic” as theoretically unscientific, while acknowledging its usefulness as a form of mass action. The letters also discuss Gandhi, Lenin, Stalin, M. N. Roy, and Morarji Desai, and close with a renewed personal appeal to re-enter the “boiling cauldron” of political action.
 ---
 
+## Summary
+
+This six-page archival document preserves two undated letters from Jayaprakash Narayan to “MRM,” whose identity is not expanded on the visible pages. In both letters, Narayan urges the recipient to return to active political work. He argues that the Party needs the recipient’s clarity, drive, and organisational capacity, and that the present moment offers an exceptional opportunity to organise among the masses, Congress, and students. He also presents the appeal as extending beyond party needs to Indian and international politics, especially the Party’s relationship with Europe and Great Britain.
+
+The letters engage critically with the recipient’s apparent movement toward non-violence and a “new dynamic” associated with Gandhi. Narayan distinguishes the means of political struggle from the larger historical conflict between capital and labour, arguing that violence versus non-violence is a secondary issue compared with the social significance of labour. He rejects what he calls the “new dynamic” as theoretically unscientific, while acknowledging its usefulness as a form of mass action. The letters also discuss Gandhi, Lenin, Stalin, M. N. Roy, and Morarji Desai, and close with a renewed personal appeal to re-enter the “boiling cauldron” of political action.
+
 ## Key points
 
 - Narayan makes a fervent request that the unnamed recipient return to active political life.

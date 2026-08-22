@@ -53,6 +53,12 @@ summary: |-
   The specific phrase under scrutiny is “The heroine of the Drama,” used in reference to Indira Gandhi. Rakshit argues that the phrase is in poor taste and should be replaced by “The Prime Minister” or simply “Mrs. Gandhi,” because language used for a prime minister should be free from strain and personal implication. He apologises for writing in such strong terms, while explaining that he was disturbed to see such wording from Masani; in a postscript, he identifies himself as a 27-year-old chemistry teacher at a Calcutta college.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated April 14, 1971, is addressed by Animesh Kumar Rakshit to M. R. Masani in response to Masani's article in The Statesman about the recent election results. Rakshit says he is not writing to dispute the article's argument, which he considers serious and worth addressing, but to object to Masani's choice of language.
+
+The specific phrase under scrutiny is “The heroine of the Drama,” used in reference to Indira Gandhi. Rakshit argues that the phrase is in poor taste and should be replaced by “The Prime Minister” or simply “Mrs. Gandhi,” because language used for a prime minister should be free from strain and personal implication. He apologises for writing in such strong terms, while explaining that he was disturbed to see such wording from Masani; in a postscript, he identifies himself as a 27-year-old chemistry teacher at a Calcutta college.
+
 ## Key points
 
 - Rakshit responds to M. R. Masani's article in The Statesman on the recent election result.

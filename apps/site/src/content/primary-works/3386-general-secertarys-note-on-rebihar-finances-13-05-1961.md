@@ -54,6 +54,12 @@ summary: |-
   The note then traces the subsequent correspondence and negotiations over repayment, monthly contributions, bank credit, and the ownership of 27 jeeps. It documents a dispute after Bihar complained of the “abrupt stoppage” of monthly payments, and Masani's response that the complaint was unfounded and overlooked the Centre's efforts to assist the unit. The memorandum concludes by describing an August 30 meeting at which the Bihar Treasurer repeated allegations of breach of faith, followed by an acknowledgment that the complaint had been made without access to the relevant correspondence and an appreciation of the favourable treatment extended to Bihar.
 ---
 
+## Summary
+
+This confidential three-page memorandum records the Swatantra Party Central Office's financial dealings with its Bihar unit in 1961. M. R. Masani describes discussions with the Bihar State Working Committee concerning candidate selection, limits on the number of constituencies to be contested, and the need for Bihar to receive special treatment because of the work already undertaken there and the funds invested by the State unit itself. The proposed assistance included advances of Rs. 25,000 for May and June and authority for the Bihar Party to raise a loan of up to Rs. 5 lakhs to acquire jeeps for election work.
+
+The note then traces the subsequent correspondence and negotiations over repayment, monthly contributions, bank credit, and the ownership of 27 jeeps. It documents a dispute after Bihar complained of the “abrupt stoppage” of monthly payments, and Masani's response that the complaint was unfounded and overlooked the Centre's efforts to assist the unit. The memorandum concludes by describing an August 30 meeting at which the Bihar Treasurer repeated allegations of breach of faith, followed by an acknowledgment that the complaint had been made without access to the relevant correspondence and an appreciation of the favourable treatment extended to Bihar.
+
 ## Key points
 
 - Masani's May 1961 discussions with the Bihar State Working Committee covered election strategy, candidate selection, and financial support.

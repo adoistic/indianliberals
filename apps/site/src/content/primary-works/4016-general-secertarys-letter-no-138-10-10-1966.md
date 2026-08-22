@@ -49,6 +49,10 @@ summary: |-
   Dated 10 October 1966, this General Secretary's letter from the Swatantra Party Central Office reports lessons drawn from observing the Andhra and Orissa State Unit conventions. M. R. Masani advises that State Units, rather than a separate reception committee, should organise their own conventions, while still seeking active cooperation from local colleagues. A small convention committee is acceptable, he explains, provided that the authority and responsibility of State Office bearers are not weakened or diluted.
 ---
 
+## Summary
+
+Dated 10 October 1966, this General Secretary's letter from the Swatantra Party Central Office reports lessons drawn from observing the Andhra and Orissa State Unit conventions. M. R. Masani advises that State Units, rather than a separate reception committee, should organise their own conventions, while still seeking active cooperation from local colleagues. A small convention committee is acceptable, he explains, provided that the authority and responsibility of State Office bearers are not weakened or diluted.
+
 ## Key points
 
 - The letter is addressed to State Units that have yet to hold their State Convention.

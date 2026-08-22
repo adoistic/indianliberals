@@ -52,6 +52,12 @@ summary: |-
   In the rendered page, Desai also frames coalition politics as an indirect emergency, citing administrative decline, worsening law and order, and the need for a government strong enough to act without becoming entangled in controversies. He supports banning political donations from private-sector business, arguing that this would reduce election expenditure and curb Congress’s access to corporate funding. A separate section beginning “Regional Security” discusses collective security in South-East Asia and the proposed Colombo Powers framework, but the visible page cuts off before that discussion is complete.
 ---
 
+## Summary
+
+In the rendered page, Renee Isar reports that the Swatantra Party performed poorly in the Haryana poll, winning only two of 32 contests, compared with 12 of 12 in 1967. The article presents M. J. Desai as confident that opposition forces must unite: he argues that the Jana Sangh and Swatantra Party are the only two parties capable of challenging Congress, and that without such a coalition Congress will retain power for a long time.
+
+In the rendered page, Desai also frames coalition politics as an indirect emergency, citing administrative decline, worsening law and order, and the need for a government strong enough to act without becoming entangled in controversies. He supports banning political donations from private-sector business, arguing that this would reduce election expenditure and curb Congress’s access to corporate funding. A separate section beginning “Regional Security” discusses collective security in South-East Asia and the proposed Colombo Powers framework, but the visible page cuts off before that discussion is complete.
+
 ## Key points
 
 - The article reports a major Swatantra Party setback in the Haryana poll: two victories in 32 contests.

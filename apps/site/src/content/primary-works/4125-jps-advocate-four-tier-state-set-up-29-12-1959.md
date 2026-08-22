@@ -53,6 +53,12 @@ summary: |-
   In the rendered pages, Narayan criticises parliamentary democracy as divisive, expensive, and poorly adapted to India’s rural social structure. He links party competition to caste, creed, property, and communal divisions, and warns that dissatisfaction with parliamentary government could produce either communist dictatorship or military rule. The report also records his view that village institutions historically functioned as living centres of Indian public life, and notes comparable experiments or ideals in Egypt, Pakistan, Indonesia, and Yugoslavia. The clipping ends while describing the practical establishment of gram panchayats in India’s villages.
 ---
 
+## Summary
+
+This two-page Hindustan Times report, dated December 29, 1959, presents Jayaprakash Narayan’s proposal for reconstructing Indian democracy around village communities rather than individuals as the foundation of the state. The proposed four-tier structure would run from village communities through gram panchayats and higher-level councils to the State and Union. Narayan advocates indirect elections and a gram panchayat chosen through “general unanimity,” rather than adult franchise or competitive party-based contests. He argues that this arrangement would express India’s own democratic traditions and help create a more organic, lasting democracy.
+
+In the rendered pages, Narayan criticises parliamentary democracy as divisive, expensive, and poorly adapted to India’s rural social structure. He links party competition to caste, creed, property, and communal divisions, and warns that dissatisfaction with parliamentary government could produce either communist dictatorship or military rule. The report also records his view that village institutions historically functioned as living centres of Indian public life, and notes comparable experiments or ideals in Egypt, Pakistan, Indonesia, and Yugoslavia. The clipping ends while describing the practical establishment of gram panchayats in India’s villages.
+
 ## Key points
 
 - Jayaprakash Narayan proposes a four-tier state structure founded on village communities.

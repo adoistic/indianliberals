@@ -55,6 +55,12 @@ summary: |-
   The minutes also record organisational and political decisions. H. Ajmal Khan was nominated to the Indian Nursing Council; Maharaja Dhrangadhbra was asked to speak on Nath Pai's Constitution (Amendment) Bill; and the party decided to oppose Atal Bihari Vajpayee's resolution seeking deletion of Article 370 concerning Jammu and Kashmir's special status. C. C. Desai was designated as the party's spokesperson on that resolution. The next Executive Committee and General Body meetings were scheduled for 25 and 26 November 1968 respectively.
 ---
 
+## Summary
+
+This one-page office record documents a meeting of the Swatantra Party Executive Committee held at Parliament House on 12 November 1968, with eight members present and P. K. Deo attending as a special invitee. The committee assigned speakers to discuss parliamentary and public-policy matters including the Madras State (Alteration of Name) Bill, UGC reports, essential-services legislation, railway legislation, President's Rule in Bihar, UPSC reports, deposit insurance, and cyclone and drought conditions in Andhra Pradesh and Orissa.
+
+The minutes also record organisational and political decisions. H. Ajmal Khan was nominated to the Indian Nursing Council; Maharaja Dhrangadhbra was asked to speak on Nath Pai's Constitution (Amendment) Bill; and the party decided to oppose Atal Bihari Vajpayee's resolution seeking deletion of Article 370 concerning Jammu and Kashmir's special status. C. C. Desai was designated as the party's spokesperson on that resolution. The next Executive Committee and General Body meetings were scheduled for 25 and 26 November 1968 respectively.
+
 ## Key points
 
 - The Executive Committee met at Parliament House on 12 November 1968; eight members were listed as present.

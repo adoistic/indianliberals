@@ -53,6 +53,12 @@ summary: |-
   The meeting’s central business is to consider the draft Statement of Policy of the proposed new party, circulated by National Headquarters, and the proposed merger that would be taken up at the National Convention. The agenda also includes confirmation of the minutes of the previous State Council meeting and other business with the Chairman’s permission. The second page contains handwritten comments praising a letter as “forceful” and “strong” and referring to remarks made at the Delhi meeting, but the writer’s identity is not reliably established.
 ---
 
+## Summary
+
+This two-page English circular, dated June 22, 1974, was issued by the Swatantra Party’s Bombay office to members of the Maharashtra State Council. Signed by General Secretary Girish Munshi, it announces a State Council meeting scheduled for July 6, 1974, at the party office in Fort, Bombay, and asks members to consult party workers in their respective areas before attending.
+
+The meeting’s central business is to consider the draft Statement of Policy of the proposed new party, circulated by National Headquarters, and the proposed merger that would be taken up at the National Convention. The agenda also includes confirmation of the minutes of the previous State Council meeting and other business with the Chairman’s permission. The second page contains handwritten comments praising a letter as “forceful” and “strong” and referring to remarks made at the Delhi meeting, but the writer’s identity is not reliably established.
+
 ## Key points
 
 - The circular is dated June 22, 1974, and is addressed to all members of the Maharashtra State Council of the Swatantra Party.

@@ -43,6 +43,10 @@ summary: |-
   This one-page letter, dated 11 November 1959, is written by S. S. Mariswamy from Madras to Minoo Masani. On Berigai letterhead, Mariswamy says that he is sending Masani, by separate post, a copy of Berigai containing speeches delivered at the publication's recent convention. The letter closes with thanks and a formal salutation.
 ---
 
+## Summary
+
+This one-page letter, dated 11 November 1959, is written by S. S. Mariswamy from Madras to Minoo Masani. On Berigai letterhead, Mariswamy says that he is sending Masani, by separate post, a copy of Berigai containing speeches delivered at the publication's recent convention. The letter closes with thanks and a formal salutation.
+
 ## Key points
 
 - The document is a typed letter dated 11 November 1959.

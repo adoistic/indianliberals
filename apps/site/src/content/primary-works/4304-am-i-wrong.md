@@ -53,6 +53,12 @@ summary: |-
   In the rendered pages, the argument is also framed as an economic and strategic case against continued hostility. The pamphlet warns that anti-Pakistan nationalism, an arms race involving Pakistan and China, heavy taxation, and dependence on foreign borrowing will impoverish India and Pakistan alike. It presents Indo-Pakistan reconciliation as necessary for peace, development, and resistance to communism in the subcontinent and Asia, and closes by urging calm thought, an end to intimidation, and a victory for wisdom over fanaticism and prejudice.
 ---
 
+## Summary
+
+In the rendered five pages, this pamphlet argues that India should end the Indo-Pakistan quarrel by removing Kashmir from the bilateral dispute and allowing the people of Kashmir to determine their political future through a broad democratic process. It acknowledges the legal and diplomatic arguments supporting India’s claim—including Pakistan’s aggression, the Maharaja’s accession, Mountbatten’s acceptance, and Sheikh Abdullah’s role—but contends that maintaining a property-like claim over Kashmir will not resolve the underlying conflict. The text instead proposes letting Sheikh Abdullah contest a free election against opposing Kashmiri leaders and accepting the people’s verdict.
+
+In the rendered pages, the argument is also framed as an economic and strategic case against continued hostility. The pamphlet warns that anti-Pakistan nationalism, an arms race involving Pakistan and China, heavy taxation, and dependence on foreign borrowing will impoverish India and Pakistan alike. It presents Indo-Pakistan reconciliation as necessary for peace, development, and resistance to communism in the subcontinent and Asia, and closes by urging calm thought, an end to intimidation, and a victory for wisdom over fanaticism and prejudice.
+
 ## Key points
 
 - The pamphlet proposes ending the Indo-Pakistan dispute through a political settlement of Kashmir.

@@ -62,3 +62,9 @@ summary: |-
   
   The parliamentary extracts advance a consistent critique of centralised planning, state enterprise, excessive taxation, licensing and regulation, and restrictions on publication. They also address Kashmir, relations with Pakistan and China, defence administration, irrigation, power, petrochemicals, and steel. The issue closes with M. R. Masani’s extended parliamentary protest against the banning of George N. Patterson’s Peking vs. Delhi, framing the ban as an abuse of constitutional power and an infringement of free expression.
 ---
+
+## Summary
+
+Swatantra Newsletter No. 43, issued by the Central Office of the Swatantra Party in April–May 1964, combines party news, parliamentary reporting, political commentary, and an annexure reproducing the All India Kisan Sammelan resolution. The issue records the Party’s opposition to the Constitution (Seventeenth) Amendment, which it presents as a threat to cultivators’ property rights, and reports party activity in Delhi, Bombay, Mysore, and the Rajya Sabha elections.
+
+The parliamentary extracts advance a consistent critique of centralised planning, state enterprise, excessive taxation, licensing and regulation, and restrictions on publication. They also address Kashmir, relations with Pakistan and China, defence administration, irrigation, power, petrochemicals, and steel. The issue closes with M. R. Masani’s extended parliamentary protest against the banning of George N. Patterson’s Peking vs. Delhi, framing the ban as an abuse of constitutional power and an infringement of free expression.

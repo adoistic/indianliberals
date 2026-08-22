@@ -51,6 +51,12 @@ summary: |-
   The notice also rejects the proposed new party as an ineffective electoral alternative, arguing that its participants would disagree over the interpretation of a vague general programme. It further warns that the continued existence of the Congress and Jan Sangh would preserve the advantages of a two-party system while potentially benefiting the ruling Congress and Jan Sangh. The Convention therefore concludes that the time is not appropriate for Swatantra’s disappearance from Indian political life and formally rejects the dissolution proposal. The proposer’s and seconder’s handwritten signatures are present but not legibly identifiable.
 ---
 
+## Summary
+
+This one-page notice records the Swatantra Party’s proposed response to a plan for dissolving it alongside six other parties to facilitate the formation of a new political party. The Convention argues that Swatantra is the only nationally organized party among the proposed participants, while the others are limited to particular states or regions. It maintains that the party’s principles and policies remain valid and that the country’s current critical situation reflects the failure to base government policies on those principles.
+
+The notice also rejects the proposed new party as an ineffective electoral alternative, arguing that its participants would disagree over the interpretation of a vague general programme. It further warns that the continued existence of the Congress and Jan Sangh would preserve the advantages of a two-party system while potentially benefiting the ruling Congress and Jan Sangh. The Convention therefore concludes that the time is not appropriate for Swatantra’s disappearance from Indian political life and formally rejects the dissolution proposal. The proposer’s and seconder’s handwritten signatures are present but not legibly identifiable.
+
 ## Key points
 
 - The Seventh National Convention considered a proposal to dissolve Swatantra Party along with six other parties.

@@ -46,6 +46,12 @@ summary: |-
   Masani explains that his wife's illness prevented him from staying in Delhi and returning the material before leaving. The page also records the recipient's New Delhi address, the enclosure notation, and the typed initials "MRM:ri".
 ---
 
+## Summary
+
+In this letter dated October 14, 1966, M. R. Masani writes to Mr. Ayub Syed to acknowledge Syed's October 9 letter and the enclosed interview transcript. Masani returns a revised version of the interview for Syed's possible use.
+
+Masani explains that his wife's illness prevented him from staying in Delhi and returning the material before leaving. The page also records the recipient's New Delhi address, the enclosure notation, and the typed initials "MRM:ri".
+
 ## Key points
 
 - The letter is dated October 14, 1966.

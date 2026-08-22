@@ -57,6 +57,12 @@ summary: |-
   Taneja argues that Swatantra should define itself as a party of the middle classes, peasant proprietors, small business, professionals, managers, and self-employed people. The proposed programme combines opposition to monopolistic big business, bureaucratic control, and ex-ruler privileges with support for small enterprise, professional management, agricultural investment, and reduced state interference. He also emphasizes the effects of inflation and the falling value of the rupee on fixed-income middle-class groups. The paper concludes that Swatantra must demonstrate its independence from vested interests and build a practical, all-India programme focused on removing poverty and improving living standards.
 ---
 
+## Summary
+
+This two-page submission by K. N. Taneja of Ahmedabad assesses the Swatantra Party after the Fifth Lok Sabha elections. Taneja credits Indira Gandhi and Congress(R) with successfully presenting their programme as nationalist and anti-parochial, while arguing that most parties with parochial platforms suffered decisive defeats. He criticizes Swatantra's reliance on the personal popularity of ex-rulers, wealthy industrialists, and slogans rather than on a clearly explained programme, and warns that dependence on vested interests is politically damaging.
+
+Taneja argues that Swatantra should define itself as a party of the middle classes, peasant proprietors, small business, professionals, managers, and self-employed people. The proposed programme combines opposition to monopolistic big business, bureaucratic control, and ex-ruler privileges with support for small enterprise, professional management, agricultural investment, and reduced state interference. He also emphasizes the effects of inflation and the falling value of the rupee on fixed-income middle-class groups. The paper concludes that Swatantra must demonstrate its independence from vested interests and build a practical, all-India programme focused on removing poverty and improving living standards.
+
 ## Key points
 
 - Taneja interprets Congress(R)'s electoral success as evidence that nationalist and anti-parochial appeals resonated with voters.

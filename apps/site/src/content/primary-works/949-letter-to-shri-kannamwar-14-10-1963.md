@@ -52,6 +52,12 @@ summary: |-
   The letter emphasizes the responsibility of the Forest, Revenue, Excise, and Educational Departments, arguing that their officials can either improve or worsen the lives of these neglected people. It also encloses a note from a local consumers' organisation describing public complaints about the unsatisfactory operation of sugar rationing and other distribution arrangements, and asks Kannamwar to consider that matter as well. The sender's typed name is absent; the letter closes with an illegible handwritten signature.
 ---
 
+## Summary
+
+This single-page English letter, issued from the Swatantra Party Central Office in Bombay on 14 October 1963, is addressed to Shri Kannamwar. The unidentified sender welcomes Kannamwar's opportunity to serve Maharashtra's peasant masses and forwards a copy of a memorandum submitted by legislator Vishveshvar Rao of Chanda to the Prime Minister through the district collector. The sender asks Kannamwar to have the Chief Secretary and Revenue Board examine the memorandum's 46 points and advise ministers on practical policies responding to the needs of tribal communities.
+
+The letter emphasizes the responsibility of the Forest, Revenue, Excise, and Educational Departments, arguing that their officials can either improve or worsen the lives of these neglected people. It also encloses a note from a local consumers' organisation describing public complaints about the unsatisfactory operation of sugar rationing and other distribution arrangements, and asks Kannamwar to consider that matter as well. The sender's typed name is absent; the letter closes with an illegible handwritten signature.
+
 ## Key points
 
 - The letter is addressed to Shri Kannamwar and dated 14 October 1963.

@@ -48,6 +48,12 @@ summary: |-
   The letter is warmly complimentary and retrospective rather than argumentative. Rajagopalachari tells Masani that he has grown since the earlier correspondence “in every respect,” and closes with a personal blessing and a handwritten signature.
 ---
 
+## Summary
+
+This one-page personal letter from C. Rajagopalachari to M. R. Masani is dated 20 February 1964 and written from Rajagopalachari's Madras letterhead. Rajagopalachari says he was delighted to read a letter Masani had written fourteen years earlier and reflects that the older letter showed Masani to be a person of good sense even then.
+
+The letter is warmly complimentary and retrospective rather than argumentative. Rajagopalachari tells Masani that he has grown since the earlier correspondence “in every respect,” and closes with a personal blessing and a handwritten signature.
+
 ## Key points
 
 - The document is a personal letter from C. Rajagopalachari to M. R. Masani.

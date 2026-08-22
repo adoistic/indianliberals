@@ -47,6 +47,12 @@ summary: |-
   Masani also says he is arranging a meeting of the National Executive and General Council of the Party in the second half of April, by which time the situation will have settled and more information will be available. The letter is a brief piece of political correspondence focused on party deliberation and organizational response.
 ---
 
+## Summary
+
+In this letter dated 17 March 1971, M. R. Masani responds to Viren Shah's letter of 13 March, acknowledging the seriousness of recent events and calling for a careful reassessment. Masani emphasizes the need to think clearly, learn from what has happened, and identify ways to help in the future.
+
+Masani also says he is arranging a meeting of the National Executive and General Council of the Party in the second half of April, by which time the situation will have settled and more information will be available. The letter is a brief piece of political correspondence focused on party deliberation and organizational response.
+
 ## Key points
 
 - Masani describes the situation as very sad and in need of serious reflection.

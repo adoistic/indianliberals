@@ -50,6 +50,12 @@ summary: |-
   Masani nevertheless expresses confidence in the convention’s prospects, noting that K. M. Munshi will inaugurate it and Professor Ranga will preside. He offers to visit Punjab during a later parliamentary session if he cannot attend, and passes on S. P. Khanna’s request for information about joining the Party, mentioning Khanna’s international-conference experience as a potential asset.
 ---
 
+## Summary
+
+In this letter dated 9 October 1959, M. R. Masani replies to Sardar Basant Singh’s invitation to participate in the Swatantra Party’s Punjab convention on 25 October. Masani explains that a prior commitment in Bombay may prevent him from making a contribution, although he will try to adjust his plans and asks that his attendance not yet be counted as certain.
+
+Masani nevertheless expresses confidence in the convention’s prospects, noting that K. M. Munshi will inaugurate it and Professor Ranga will preside. He offers to visit Punjab during a later parliamentary session if he cannot attend, and passes on S. P. Khanna’s request for information about joining the Party, mentioning Khanna’s international-conference experience as a potential asset.
+
 ## Key points
 
 - Masani responds to an invitation to attend the Punjab Party convention scheduled for 25 October 1959.

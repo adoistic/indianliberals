@@ -53,6 +53,12 @@ summary: |-
   The circular instructs every Swatantra Party member in the Lok Sabha to attend the House despite personal difficulties. It presents attendance as an essential party obligation and explicitly identifies the instruction as a “strictly official whip.”
 ---
 
+## Summary
+
+This one-page English office circular, issued by the Swatantra Party Parliamentary Office in New Delhi on April 15, 1968, is headed “W H I P” and signed by C. C. Desai, Secretary. Addressed to all Members of the Lok Sabha, it concerns the scheduled elections to the Financial Committees on April 25, when five Swatantra Party candidates were to be re-elected.
+
+The circular instructs every Swatantra Party member in the Lok Sabha to attend the House despite personal difficulties. It presents attendance as an essential party obligation and explicitly identifies the instruction as a “strictly official whip.”
+
 ## Key points
 
 - The document is a Swatantra Party Parliamentary Office circular dated April 15, 1968.

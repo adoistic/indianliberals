@@ -51,6 +51,12 @@ summary: |-
   The central proposal is that Paramanand Kejriwal issue an immediate letter to the party's General Council arguing for the Swatantra Party's continued existence. Shukla lists alleged manipulation of the Delhi convention, departure from constitutional procedures, intimidation and pressure tactics, improper delegate selection, and the distinction between resigning to join a new party and defecting. He urges General Council members to act individually to preserve the party, calls for a Maharashtra meeting to elect national office-bearers and an executive committee, and closes by insisting that the proposed communication reach members well before 27 August.
 ---
 
+## Summary
+
+In this handwritten letter dated 18 August 1974, S. P. Shukla writes urgently to S. V. Raju about the impending dissolution of the Swatantra Party. Unable to attend a Maharashtra State Party executive committee meeting in Bombay, Shukla asks Raju to act before the Bharatiya Kranti Dal convention on 27–28 August, where Charan Singh might announce the party's dissolution. He also refers to Minoo Masani's statement that five state units intended to continue functioning and asks what steps have been taken regarding the Haryana, Kerala, and Tamil Nadu units.
+
+The central proposal is that Paramanand Kejriwal issue an immediate letter to the party's General Council arguing for the Swatantra Party's continued existence. Shukla lists alleged manipulation of the Delhi convention, departure from constitutional procedures, intimidation and pressure tactics, improper delegate selection, and the distinction between resigning to join a new party and defecting. He urges General Council members to act individually to preserve the party, calls for a Maharashtra meeting to elect national office-bearers and an executive committee, and closes by insisting that the proposed communication reach members well before 27 August.
+
 ## Key points
 
 - The letter warns that the Swatantra Party may be dissolved at an upcoming Bharatiya Kranti Dal convention.

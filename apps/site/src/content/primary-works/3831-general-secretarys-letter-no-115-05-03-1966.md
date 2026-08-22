@@ -49,6 +49,12 @@ summary: |-
   The letter instructs State Parliamentary Boards to recommend Parliamentary candidates together with as many Assembly candidates as possible from the relevant Parliamentary constituencies. It also requires these recommendations to include the data specified in General Secretary's Letter No. 97 of 23 March 1965, and encloses a model recommendation form for guidance. The document is signed by M. R. Masani as General Secretary.
 ---
 
+## Summary
+
+Dated 5 March 1966, this General Secretary's letter from the Swatantra Party Central Office reports on the Central Parliamentary Board's meeting in Madras on 26–27 February. The Board reviewed the party's system for nominating prospective candidates in anticipation of the rapidly approaching General Elections.
+
+The letter instructs State Parliamentary Boards to recommend Parliamentary candidates together with as many Assembly candidates as possible from the relevant Parliamentary constituencies. It also requires these recommendations to include the data specified in General Secretary's Letter No. 97 of 23 March 1965, and encloses a model recommendation form for guidance. The document is signed by M. R. Masani as General Secretary.
+
 ## Key points
 
 - The Central Parliamentary Board met in Madras on 26–27 February 1966.

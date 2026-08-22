@@ -59,6 +59,12 @@ summary: |-
   In the rendered pages, Masani contends that planning, industrial regulation, the expansion of Union ministries, and the centralisation of broadcasting have weakened the States’ autonomy. He argues that India’s diversity requires genuine federalism, consultation, predictable financial transfers, and autonomous broadcasting institutions. The later discussion maintains that a “strong Centre” should not mean an all-powerful government, and that one-party dominance has damaged both democracy and the federal system. In the rendered pages, Masani also criticises presidential deference to ministerial advice, the use of ordinances, and the continuation of emergency powers after the conditions justifying them have disappeared, concluding that constitutional conventions and political pluralism are needed more than formal amendment.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani reviews the Indian Constitution twenty-five years after its commencement, arguing that the document itself is less responsible for political failures than the way governments and parties have used it. He rejects the claim that constitutional provisions have simply become obsolete, citing N. A. Palkhivala’s view that what has become “anachronistic” is the good faith and decency of public life. The essay focuses first on federalism and states’ rights, then turns to the constitutional roles of the President and Governors.
+
+In the rendered pages, Masani contends that planning, industrial regulation, the expansion of Union ministries, and the centralisation of broadcasting have weakened the States’ autonomy. He argues that India’s diversity requires genuine federalism, consultation, predictable financial transfers, and autonomous broadcasting institutions. The later discussion maintains that a “strong Centre” should not mean an all-powerful government, and that one-party dominance has damaged both democracy and the federal system. In the rendered pages, Masani also criticises presidential deference to ministerial advice, the use of ordinances, and the continuation of emergency powers after the conditions justifying them have disappeared, concluding that constitutional conventions and political pluralism are needed more than formal amendment.
+
 ## Key points
 
 - Masani distinguishes defects in the Constitution from failures of political conduct and constitutional conventions.

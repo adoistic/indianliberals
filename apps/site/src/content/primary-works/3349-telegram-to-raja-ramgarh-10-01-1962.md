@@ -49,6 +49,12 @@ summary: |-
   The document also bears the instruction “Not to be telegraphed,” identifies an address at 143, Mahatma Gandhi Road, Bombay 1, and includes handwritten annotations and a signature. The full identity of “Masani,” the institutional identity of “Jans Evak,” and the recipient’s authority record remain unresolved.
 ---
 
+## Summary
+
+This one-page English telegram, dated 16 January 1962, is addressed to Raja Ramgarh at Jans Evak, Patna, and attributed in print to “- MASANI.” It concerns an electoral arrangement: the sender states that a representative will accept receipts from endorsed candidates in a form specified by a parliamentary sub-committee, treating them as evidence of jeep delivery.
+
+The document also bears the instruction “Not to be telegraphed,” identifies an address at 143, Mahatma Gandhi Road, Bombay 1, and includes handwritten annotations and a signature. The full identity of “Masani,” the institutional identity of “Jans Evak,” and the recipient’s authority record remain unresolved.
+
 ## Key points
 
 - The document is a single-page typed telegram in English dated 16.1.1962.

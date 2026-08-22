@@ -58,6 +58,12 @@ summary: |-
   The article argues that Swatantra’s principles—individual liberty, private property, competitive markets and a restrained state—were clearer than its electoral strategy. Although the party performed well in the 1967 elections, its support remained socially and geographically limited, and it struggled to build a durable national organisation. The account attributes its decline to weak political communication, factionalism and the broader dominance of Congress, while suggesting that later economic reforms made several of Swatantra’s criticisms newly relevant. A boxed review also identifies Victor J. Dele? as the author of the related book, but this is separate from the unattributed newspaper article.
 ---
 
+## Summary
+
+“Swatantra’s flawed experiment” reviews the history and political record of the Swatantra Party, drawing on H. R. Barucha’s book The Swatantra Party. The article presents the party as a post-independence liberal-conservative response to the Congress government’s centralised planning, public-sector expansion, controls and restrictions on private enterprise. It traces the party’s origins to C. Rajagopalachari’s break with the Congress and notes the participation of figures including Minoo Masani, H. M. Patel and Piloo Mody.
+
+The article argues that Swatantra’s principles—individual liberty, private property, competitive markets and a restrained state—were clearer than its electoral strategy. Although the party performed well in the 1967 elections, its support remained socially and geographically limited, and it struggled to build a durable national organisation. The account attributes its decline to weak political communication, factionalism and the broader dominance of Congress, while suggesting that later economic reforms made several of Swatantra’s criticisms newly relevant. A boxed review also identifies Victor J. Dele? as the author of the related book, but this is separate from the unattributed newspaper article.
+
 ## Key points
 
 - The article recounts the origins of the Swatantra Party as a reaction against Congress’s economic controls and centralised planning.

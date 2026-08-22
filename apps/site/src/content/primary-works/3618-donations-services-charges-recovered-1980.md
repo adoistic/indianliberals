@@ -49,6 +49,10 @@ summary: |-
   This single-page English financial statement, headed “Donations & Service Charges recovered. (1980),” records three receipts: PIS (Rs. 3,400.00), WITTE S Star (Rs. 5,600.00), and AFT (Rs. 569.39). The listed amounts add up to a total of Rs. 9,569.39.
 ---
 
+## Summary
+
+This single-page English financial statement, headed “Donations & Service Charges recovered. (1980),” records three receipts: PIS (Rs. 3,400.00), WITTE S Star (Rs. 5,600.00), and AFT (Rs. 569.39). The listed amounts add up to a total of Rs. 9,569.39.
+
 ## Key points
 
 - The document is a one-page financial statement dated 1980.

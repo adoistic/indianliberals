@@ -49,6 +49,12 @@ summary: |-
   The document shows the party’s geographically dispersed organisation, with representatives associated with Andhra Pradesh, Bombay, Delhi, Gujarat, Orissa, Punjab, Rajasthan, Tamil Nadu, Kerala, Mysore, Uttar Pradesh, Assam, and other regions. The roster includes prominent figures such as N. G. Ranga, K. M. Munshi, C. Rajagopalachari, Minoo Masani, and several Members of Parliament. It is a personnel and contact record rather than a political argument or programme.
 ---
 
+## Summary
+
+This three-page administrative directory lists the Swatantra Party’s office bearers and members of its National Executive for 1967–69. It identifies the president, five vice-presidents, the general secretary, four joint secretaries, two treasurers, and at least twenty members, with postal addresses and telephone numbers across India.
+
+The document shows the party’s geographically dispersed organisation, with representatives associated with Andhra Pradesh, Bombay, Delhi, Gujarat, Orissa, Punjab, Rajasthan, Tamil Nadu, Kerala, Mysore, Uttar Pradesh, Assam, and other regions. The roster includes prominent figures such as N. G. Ranga, K. M. Munshi, C. Rajagopalachari, Minoo Masani, and several Members of Parliament. It is a personnel and contact record rather than a political argument or programme.
+
 ## Key points
 
 - The document is headed “Swatantra Party: Office Bearers and Members of the National Executive 1967–69.”

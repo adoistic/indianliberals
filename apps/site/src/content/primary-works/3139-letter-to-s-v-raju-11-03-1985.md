@@ -48,6 +48,12 @@ summary: |-
   Kodati also offers Raju recordings of political speeches, including a 1980 public-meeting speech by Rajaji and another recording concerning the general elections. He remarks that Rajaji’s election message was unusual and had become a symbol and part of propaganda material, and closes by offering best wishes and hoping to see Raju soon. The second rendered page shows the addressed inland-letter card, including the sender and recipient details and the postal slogan against untouchability.
 ---
 
+## Summary
+
+In this handwritten letter dated 11 March 1985, K. R. Kodati writes from Pune to S. V. Raju, apologising for missing a wedding in Bombay and promising to visit during the fourth week of March. Kodati says he is collecting relevant papers and newspaper clippings for Raju, suggesting an ongoing exchange of political and archival material.
+
+Kodati also offers Raju recordings of political speeches, including a 1980 public-meeting speech by Rajaji and another recording concerning the general elections. He remarks that Rajaji’s election message was unusual and had become a symbol and part of propaganda material, and closes by offering best wishes and hoping to see Raju soon. The second rendered page shows the addressed inland-letter card, including the sender and recipient details and the postal slogan against untouchability.
+
 ## Key points
 
 - The letter is dated 11 March 1985 and was written from 16 Gornaught Road, Pune.

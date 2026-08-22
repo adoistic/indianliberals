@@ -49,6 +49,12 @@ summary: |-
   Masani asks state-level party colleagues to cooperate with Panday by identifying women party workers, helping her make contact with them, and supporting her proposed visits to their states. He presents the initiative as work that has been neglected and as a means of strengthening the party's organisation at the state level.
 ---
 
+## Summary
+
+Dated March 2, 1965, this General Secretary's Letter No. 95 from the Swatantra Party Central Office informs party colleagues that the General Council has approved the establishment of a Women's Wing. M. R. Masani announces that Mrs. Susan Panday, a member of the Bombay Executive Committee, has agreed to assist the Central Office in organising it.
+
+Masani asks state-level party colleagues to cooperate with Panday by identifying women party workers, helping her make contact with them, and supporting her proposed visits to their states. He presents the initiative as work that has been neglected and as a means of strengthening the party's organisation at the state level.
+
 ## Key points
 
 - The letter records a General Council decision to establish a Women's Wing of the Swatantra Party.

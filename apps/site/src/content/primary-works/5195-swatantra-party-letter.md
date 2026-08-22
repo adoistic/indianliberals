@@ -55,6 +55,12 @@ summary: |-
   The note proposes a practical publicity arrangement between Headline and the Swatantra Party. The party could provide advertisements, a monthly subsidy, a substantial sum (suggested as Rs. 25,000), regular advertising material, literature for publication, and interviews with senior party figures. It also suggests that the Forum of Free Enterprise could provide additional advertising, and recommends keeping the arrangement as secret as possible. The document is an internal working memorandum rather than a signed or dated statement; no author, title, date, publisher, or formal recipient is identified.
 ---
 
+## Summary
+
+This untitled two-page handwritten memorandum sets out proposals for increasing the circulation of Headline, which the note says is currently 2,000 and could be raised to 5,000. Its central political recommendation is that communism should be opposed in India and that the Swatantra Party should form the government, with the Congress in opposition. The memorandum argues that support for the Swatantra Party will remain difficult while suspicions persist that it represents capitalists and vested interests, and therefore recommends removing that suspicion.
+
+The note proposes a practical publicity arrangement between Headline and the Swatantra Party. The party could provide advertisements, a monthly subsidy, a substantial sum (suggested as Rs. 25,000), regular advertising material, literature for publication, and interviews with senior party figures. It also suggests that the Forum of Free Enterprise could provide additional advertising, and recommends keeping the arrangement as secret as possible. The document is an internal working memorandum rather than a signed or dated statement; no author, title, date, publisher, or formal recipient is identified.
+
 ## Key points
 
 - Headline's current circulation is recorded as 2,000, with a proposed increase to 5,000.

@@ -56,6 +56,12 @@ summary: |-
   The draft minutes record routine party administration alongside preparations for the Party's tenth-anniversary convention. The committee approved Bombay North West District as host, set delegate quotas at 25 percent of membership or 11 delegates (whichever was higher), fixed a Rs. 2 delegate fee, arranged publicity and invitations, and named the venue 'Charanjit Rai Nager'. Other business concerned the budget, literature, paid workers, voluntary monthly contributions, subsidies to local units, a workers' shibir, an anniversary souvenir, and a proposed future discussion of additional Executive Committee members. The pages present organizational decisions rather than a developed statement of political doctrine.
 ---
 
+## Summary
+
+This four-page Swatantra Party, Bombay Region office record combines a notice dated 7 March 1970 with draft minutes of the Executive Committee meeting held on 21 January 1970. The notice sets an agenda covering confirmation of earlier minutes, printing literature on fundamental rights, an enquiry into complaints concerning Desmond D'Souza, and other business.
+
+The draft minutes record routine party administration alongside preparations for the Party's tenth-anniversary convention. The committee approved Bombay North West District as host, set delegate quotas at 25 percent of membership or 11 delegates (whichever was higher), fixed a Rs. 2 delegate fee, arranged publicity and invitations, and named the venue 'Charanjit Rai Nager'. Other business concerned the budget, literature, paid workers, voluntary monthly contributions, subsidies to local units, a workers' shibir, an anniversary souvenir, and a proposed future discussion of additional Executive Committee members. The pages present organizational decisions rather than a developed statement of political doctrine.
+
 ## Key points
 
 - The notice calls a Bombay Region Executive Committee meeting for 11 March 1970 at the Swatantra Party office.

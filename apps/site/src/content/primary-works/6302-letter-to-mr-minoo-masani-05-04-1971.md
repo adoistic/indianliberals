@@ -48,6 +48,10 @@ summary: |-
   This handwritten English letter, dated 5 April 1971 and addressed to Minoo Masani, expresses regret that Masani has resigned the party presidency. The writer praises Masani's performance under difficult circumstances, saying that nobody could have done better, and argues that his departure at that juncture would further weaken democratic forces.
 ---
 
+## Summary
+
+This handwritten English letter, dated 5 April 1971 and addressed to Minoo Masani, expresses regret that Masani has resigned the party presidency. The writer praises Masani's performance under difficult circumstances, saying that nobody could have done better, and argues that his departure at that juncture would further weaken democratic forces.
+
 ## Key points
 
 - The letter is addressed to Minoo Masani and dated 5 April 1971.

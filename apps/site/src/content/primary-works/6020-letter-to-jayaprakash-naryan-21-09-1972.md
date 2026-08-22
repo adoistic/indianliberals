@@ -45,6 +45,10 @@ summary: |-
   This one-page registered letter from M. R. Masani to Jayaprakash Narayan is dated September 21, 1972. Masani encloses a memorandum requested by Narayan, while cautioning that it is unlikely to be particularly exciting. He also promises to prepare and send Narayan a draft statement by October 8, addressed to Narayan's Patna residence, and to forward a draft of his book if it is ready by then.
 ---
 
+## Summary
+
+This one-page registered letter from M. R. Masani to Jayaprakash Narayan is dated September 21, 1972. Masani encloses a memorandum requested by Narayan, while cautioning that it is unlikely to be particularly exciting. He also promises to prepare and send Narayan a draft statement by October 8, addressed to Narayan's Patna residence, and to forward a draft of his book if it is ready by then.
+
 ## Key points
 
 - The letter is dated September 21, 1972, and is addressed to Jayaprakash Narayan.

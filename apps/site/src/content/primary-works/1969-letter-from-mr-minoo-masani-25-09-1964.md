@@ -47,6 +47,10 @@ summary: |-
   This one-page letter, dated 25 September 1964, was written by M. R. Masani from 57 Lodi Estate, New Delhi, to Bhanu Pratap Singh of the Swatantra Party in Uttar Pradesh. Masani addresses the resignation of Yashpal Singh from the party and his decision to join the S.S.P., explaining that the party had attempted to accommodate him, including by offering him a seat on the third bench.
 ---
 
+## Summary
+
+This one-page letter, dated 25 September 1964, was written by M. R. Masani from 57 Lodi Estate, New Delhi, to Bhanu Pratap Singh of the Swatantra Party in Uttar Pradesh. Masani addresses the resignation of Yashpal Singh from the party and his decision to join the S.S.P., explaining that the party had attempted to accommodate him, including by offering him a seat on the third bench.
+
 ## Key points
 
 - Masani reports that Yashpal Singh resigned from the Swatantra Party and joined the S.S.P.

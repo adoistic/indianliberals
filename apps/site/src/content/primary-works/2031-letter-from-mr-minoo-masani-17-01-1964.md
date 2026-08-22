@@ -43,6 +43,10 @@ summary: |-
   This one-page letter from M. R. Masani, dated January 17, 1964, is addressed to Mr. Gopalji, a tobacco merchant in Dhari, Gujarat. Masani acknowledges having seen Gopalji’s letter to T. T. Krishnamachari and reports that the matter is being examined by the Parliamentary Group office.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani, dated January 17, 1964, is addressed to Mr. Gopalji, a tobacco merchant in Dhari, Gujarat. Masani acknowledges having seen Gopalji’s letter to T. T. Krishnamachari and reports that the matter is being examined by the Parliamentary Group office.
+
 ## Key points
 
 - The document is a brief typed office letter dated January 17, 1964.

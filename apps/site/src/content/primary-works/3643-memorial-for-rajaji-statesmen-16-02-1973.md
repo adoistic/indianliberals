@@ -50,6 +50,12 @@ summary: |-
   The report records tributes from Giri, Governor K. K. Shah, and Shah's son, who links Rajaji to India's liberation and growth. Their comments emphasize Rajaji's integrity, moral strength, courage, literary achievement, and contribution to democracy. The article closes with an appeal to preserve Rajaji's memory by embodying his public virtues in everyday life.
 ---
 
+## Summary
+
+This one-page Statesman report describes the laying of the foundation stone for a memorial to C. Rajagopalachari (Rajaji) near Gandhi Mandap at Adyar, Madras, on February 15. President V. V. Giri characterizes the memorial as symbolic, arguing that Rajaji's true memorial lies in the values of human freedom and personal integrity that he upheld. Giri also presents Rajaji as an important national figure, writer, and political institution whose death marked the end of an era.
+
+The report records tributes from Giri, Governor K. K. Shah, and Shah's son, who links Rajaji to India's liberation and growth. Their comments emphasize Rajaji's integrity, moral strength, courage, literary achievement, and contribution to democracy. The article closes with an appeal to preserve Rajaji's memory by embodying his public virtues in everyday life.
+
 ## Key points
 
 - A foundation stone is laid in Madras for a memorial to C. Rajagopalachari near Gandhi Mandap at Adyar.

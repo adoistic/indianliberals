@@ -52,6 +52,12 @@ summary: |-
   The report explains that parties retaining national-party, state-party, or registered-unrecognised-party status before 15 June would keep that status temporarily while their applications were considered. Registration applications had to affirm faith and allegiance to the Constitution of India and the principles of socialism, secularism, and democracy, as well as uphold India's sovereignty, unity, and integrity. The article also records procedural requirements, including signature by the party's chief executive officer and notification of subsequent changes in party particulars.
 ---
 
+## Summary
+
+This one-page PTI report, published in the Times of India on 17 June 1989, describes new mandatory registration requirements for political parties under section 29A of the Representation of the People (Amendment) Act, 1988. Existing parties were required to apply by 14 August, while parties formed after 15 June had 30 days to register. The Election Commission also amended its symbols order so that party registration would be handled under the amended Act rather than solely under the earlier symbols framework.
+
+The report explains that parties retaining national-party, state-party, or registered-unrecognised-party status before 15 June would keep that status temporarily while their applications were considered. Registration applications had to affirm faith and allegiance to the Constitution of India and the principles of socialism, secularism, and democracy, as well as uphold India's sovereignty, unity, and integrity. The article also records procedural requirements, including signature by the party's chief executive officer and notification of subsequent changes in party particulars.
+
 ## Key points
 
 - Political parties were required to register with the Election Commission under section 29A of the amended Representation of the People Act.

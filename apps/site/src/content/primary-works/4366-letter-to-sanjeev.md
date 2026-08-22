@@ -56,6 +56,12 @@ summary: |-
   The later correspondence extracts lessons for rebuilding a liberal political organisation: develop trained party workers before contesting elections, preserve internal equality and dissent, exclude people who violate core principles, audit party finances and membership rigorously, establish meaningful membership fees, and avoid alliances with organisations whose principles conflict with liberalism. The discussion repeatedly contrasts principled long-term party-building with electoral haste, personality-based leadership, subservience to authority, factionalism, and ideological compromise. The pages also engage with debates over Nehru, Gandhi, economic choice, democratic culture, and the responsibilities of liberal political actors.
 ---
 
+## Summary
+
+This file brings together correspondence about Col. Pasricha’s book on the Swatantra Party, including S. V. Raju’s response to questions about the party’s origins and Minoo Masani’s resignation, as well as Sanjeev’s and Umesh Tiwari’s reflections on the book. Raju argues that Masani provided the initial momentum for creating a liberal party, while C. Rajagopalachari (Rajaji) was indispensable to its eventual formation in 1959. He also explains that, although he tried to persuade Masani to remain after the party’s 1971 defeat, Masani was determined to resign; Raju therefore asked Pasricha to move the resignation resolution. Raju maintains that the Swatantra Party’s early failure should be assessed in historical context and insists that its first twelve years included distinctive and salutary political practices.
+
+The later correspondence extracts lessons for rebuilding a liberal political organisation: develop trained party workers before contesting elections, preserve internal equality and dissent, exclude people who violate core principles, audit party finances and membership rigorously, establish meaningful membership fees, and avoid alliances with organisations whose principles conflict with liberalism. The discussion repeatedly contrasts principled long-term party-building with electoral haste, personality-based leadership, subservience to authority, factionalism, and ideological compromise. The pages also engage with debates over Nehru, Gandhi, economic choice, democratic culture, and the responsibilities of liberal political actors.
+
 ## Key points
 
 - Raju credits Minoo Masani with initiating the movement toward a liberal party before its formal birth in 1959.

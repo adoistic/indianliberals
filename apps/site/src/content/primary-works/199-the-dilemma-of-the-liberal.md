@@ -54,6 +54,12 @@ summary: |-
   Masani criticises the concentration of political and economic power in New Delhi, the spread of controls and statism, and the resulting corruption and inefficiency. He calls for a government limited to its proper functions rather than an expansive bureaucracy, and points to Nani Palkhivala's idea of a “U-turn” away from nationalisation and excessive state control. The article closes by asking whether liberals can recover their convictions, courage, and readiness to work for them. The second rendered page is an unrelated United Commercial Bank advertisement.
 ---
 
+## Summary
+
+In this 1979 commentary, M. R. Masani presents liberalism with a political dilemma: in a country with limited political awareness and weak democratic habits, should liberals withdraw from public life or participate in political manoeuvres that may compromise their principles? He recalls his own involvement in the Janata Party after the Emergency and argues that liberals cannot simply remain at home, leaving public affairs to authoritarian or statist forces. The challenge is to defend individual freedom while working within imperfect democratic institutions.
+
+Masani criticises the concentration of political and economic power in New Delhi, the spread of controls and statism, and the resulting corruption and inefficiency. He calls for a government limited to its proper functions rather than an expansive bureaucracy, and points to Nani Palkhivala's idea of a “U-turn” away from nationalisation and excessive state control. The article closes by asking whether liberals can recover their convictions, courage, and readiness to work for them. The second rendered page is an unrelated United Commercial Bank advertisement.
+
 ## Key points
 
 - Masani describes the liberal's dilemma as the tension between maintaining principles and entering practical political life.

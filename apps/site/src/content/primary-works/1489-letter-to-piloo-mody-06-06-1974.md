@@ -52,6 +52,12 @@ summary: |-
   Masani also insists that a new party needs more than a general statement of principles. He calls for a clear alternative to the policies that had been in office for two decades, including a decisive reversal capable of addressing the country’s economic difficulties. Rather than dissolving Swatantra immediately, he proposes first maintaining its identity while working with other groups on a common “Unity in Action” programme. He concludes that only a National Convention, rather than the General Council, has constitutional authority to dissolve the Party.
 ---
 
+## Summary
+
+In this letter dated June 6, 1974, Minoo Masani writes to Piloo Mody about whether the Swatantra Party should dissolve to facilitate the creation of a broader opposition party. Masani accepts the principle of consolidating non-Marxist forces—including Congress (O), Jan Sangh, the Akalis, and the DMK—but argues that the proposed combination with the BKD, Pragati Dal, SSP, and Loktantrik Dal would be too limited and heterogeneous to establish a credible national alternative or a durable two-party system. He warns that a merely nominal merger could produce little more than a change of name, weaken the appeal of the component groups, and inadvertently strengthen the ruling party.
+
+Masani also insists that a new party needs more than a general statement of principles. He calls for a clear alternative to the policies that had been in office for two decades, including a decisive reversal capable of addressing the country’s economic difficulties. Rather than dissolving Swatantra immediately, he proposes first maintaining its identity while working with other groups on a common “Unity in Action” programme. He concludes that only a National Convention, rather than the General Council, has constitutional authority to dissolve the Party.
+
 ## Key points
 
 - Masani supports the principle of consolidating non-Marxist political forces but doubts that the proposed coalition is sufficiently broad or coherent.

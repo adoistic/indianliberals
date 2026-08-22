@@ -50,6 +50,12 @@ summary: |-
   The urgent practical issue is the payment of monthly salaries to the office's permanent employees, due on 1 November 1962. The sender notes that Professor Ranga has been informed and has promised to discuss the matter with Masani, then asks for immediate help or an advance so that the office can continue functioning and the party's head office can properly attend to the matter. The letter is signed by Kapur Singh, M.P.
 ---
 
+## Summary
+
+This single-page letter, dated 22 October 1962 and sent from the Swatantra Party Parliamentary Office in New Delhi, alerts M. R. Masani that less than Rs. 100 remains in the Swatantra Party's parliamentary bank account. The office reports fixed recurring expenses of more than Rs. 1,000 per month, while member subscriptions are arriving too slowly to meet immediate obligations.
+
+The urgent practical issue is the payment of monthly salaries to the office's permanent employees, due on 1 November 1962. The sender notes that Professor Ranga has been informed and has promised to discuss the matter with Masani, then asks for immediate help or an advance so that the office can continue functioning and the party's head office can properly attend to the matter. The letter is signed by Kapur Singh, M.P.
+
 ## Key points
 
 - The Swatantra Party's parliamentary office had less than Rs. 100 left in its bank account.

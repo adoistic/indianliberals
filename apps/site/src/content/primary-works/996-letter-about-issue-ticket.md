@@ -45,6 +45,10 @@ summary: |-
   This single-page English telegram from M. R. Masani to N. G. Ranga MP concerns travel arrangements to New York. Masani states that he has paid Air India for the passage and asks Ranga to obtain High Commission clearance and complete the necessary exchange formalities.
 ---
 
+## Summary
+
+This single-page English telegram from M. R. Masani to N. G. Ranga MP concerns travel arrangements to New York. Masani states that he has paid Air India for the passage and asks Ranga to obtain High Commission clearance and complete the necessary exchange formalities.
+
 ## Key points
 
 - The document is a one-page telegram and confirmatory copy by Air Mail.

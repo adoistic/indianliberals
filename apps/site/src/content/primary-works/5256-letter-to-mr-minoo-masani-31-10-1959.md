@@ -43,6 +43,10 @@ summary: |-
   This one-page English telegram on an Indian Posts and Telegraphs Department form is addressed to M. P. Masani at Mahatma Gandhi Road, Bombay. Its message states that attendance at a public appointment is absolutely essential and asks the recipient to contact the traffic manager if through seats are unavailable, so that Belgaum can be reached by train using any available passage.
 ---
 
+## Summary
+
+This one-page English telegram on an Indian Posts and Telegraphs Department form is addressed to M. P. Masani at Mahatma Gandhi Road, Bombay. Its message states that attendance at a public appointment is absolutely essential and asks the recipient to contact the traffic manager if through seats are unavailable, so that Belgaum can be reached by train using any available passage.
+
 ## Key points
 
 - The document is an official Indian Posts and Telegraphs Department telegram.

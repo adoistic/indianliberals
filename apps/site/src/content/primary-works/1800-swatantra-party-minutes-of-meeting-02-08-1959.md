@@ -53,6 +53,12 @@ summary: |-
   The committee approved multilingual membership forms in English-Hindi, English-Gujarati, and English-Marathi, and planned a Convention handbook containing speeches, the Statement of Principles, resolutions, extracts from delegates’ speeches, photographs, and related material. It assigned responsibility for the handbook and a revised Statement of Principles, discussed ward organisation, invited K. M. Munshi to join the committee, confirmed P. H. Mody and J. M. Patel as members, and scheduled the next meeting. The visible pages do not identify the year, and the document has no printed title beyond its organisational heading.
 ---
 
+## Summary
+
+These two pages record the proceedings of a Swatantra Party Organising Committee of Greater Bombay meeting held on Sunday, 2 August, at Murarji Vaidya’s residence in Cuffe Parade. The committee considered the preceding Convention a success, resolved to thank volunteers and organisations, planned a tea meeting for Bombay delegates and workers, and ordered that Convention accounts be settled and audited. It also discussed the allocation of donations, with roughly 50% of Bombay-collected funds to be allocated to the Centre, subject to donors’ wishes.
+
+The committee approved multilingual membership forms in English-Hindi, English-Gujarati, and English-Marathi, and planned a Convention handbook containing speeches, the Statement of Principles, resolutions, extracts from delegates’ speeches, photographs, and related material. It assigned responsibility for the handbook and a revised Statement of Principles, discussed ward organisation, invited K. M. Munshi to join the committee, confirmed P. H. Mody and J. M. Patel as members, and scheduled the next meeting. The visible pages do not identify the year, and the document has no printed title beyond its organisational heading.
+
 ## Key points
 
 - The meeting reviewed the Convention and described it as a great success.

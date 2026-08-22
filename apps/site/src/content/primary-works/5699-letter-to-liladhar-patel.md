@@ -50,6 +50,12 @@ summary: |-
   Dandekar questions the manner and timing of the request, noting that Jaideepsinghji could have approached Masani directly and that Patel could have come to Delhi to explain the matter. He states that he sees no good reason to postpone action in Desai’s disciplinary case, although he agrees to give the request some thought. The attached express telegram, marked “Not to be telegraphed,” presents the request as arising from an allegedly malicious and prejudicial press statement accusing the national executive of malice and prejudice.
 ---
 
+## Summary
+
+This two-page English correspondence concerns a request to postpone disciplinary proceedings against Mr. C. C. Desai. In a letter to Minoo Masani, N. Dandekar reports that Liladhar Patel conveyed a request from Jaideepsinghji, Maharaja of Baria, for a delay of at least three or four days, preferably a week, on the ground that political developments were unfolding in Ahmedabad. Dandekar says these developments were confidential and would be explained in person.
+
+Dandekar questions the manner and timing of the request, noting that Jaideepsinghji could have approached Masani directly and that Patel could have come to Delhi to explain the matter. He states that he sees no good reason to postpone action in Desai’s disciplinary case, although he agrees to give the request some thought. The attached express telegram, marked “Not to be telegraphed,” presents the request as arising from an allegedly malicious and prejudicial press statement accusing the national executive of malice and prejudice.
+
 ## Key points
 
 - The correspondence addresses disciplinary proceedings against Mr. C. C. Desai.

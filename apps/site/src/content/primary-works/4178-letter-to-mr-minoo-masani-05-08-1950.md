@@ -48,6 +48,12 @@ summary: |-
   The letter also praises the recipient’s language while making a pointed argument for English-language education: Rajagopalachari says he could wish Masani were a teacher, but only if children spoke English as their “mother tongue.” He closes by calling the recipient’s language so good that it is “a pity” for it to be someone else’s language. The page does not print a title or identify the recipient by full name.
 ---
 
+## Summary
+
+This one-page typed true copy of a letter dated 5 August 1950 is addressed to “Masani” from C. Rajagopalachari in New Delhi. Rajagopalachari comments wryly on the recipient’s “beautiful book” and urges him to consider becoming a schoolmaster rather than spending his talent among people who chatter “in inaudible and unintelligible words about nothing at all.”
+
+The letter also praises the recipient’s language while making a pointed argument for English-language education: Rajagopalachari says he could wish Masani were a teacher, but only if children spoke English as their “mother tongue.” He closes by calling the recipient’s language so good that it is “a pity” for it to be someone else’s language. The page does not print a title or identify the recipient by full name.
+
 ## Key points
 
 - Rajagopalachari writes from 1 York Place, New Delhi, on 5 August 1950.

@@ -50,6 +50,12 @@ summary: |-
   The proposed meeting is scheduled for Sunday, 8 March 1964, with sessions from 9:30 a.m. to 1:00 p.m. and from 3:00 p.m. to 5:00 p.m. All Members of Parliament are welcome, but Rao asks Masani to confirm his attendance by 1 March so that arrangements can be made. No substantive policy argument or details of an electrification programme appear on the page.
 ---
 
+## Summary
+
+This one-page official letter, dated New Delhi, 21 February 1964, is from K. L. Rao, identified on the letterhead as Minister for Irrigation & Power, India, to M. R. Masani. Rao proposes a meeting with Members of Parliament to discuss rural electrification and notes the parliamentary interest in the subject.
+
+The proposed meeting is scheduled for Sunday, 8 March 1964, with sessions from 9:30 a.m. to 1:00 p.m. and from 3:00 p.m. to 5:00 p.m. All Members of Parliament are welcome, but Rao asks Masani to confirm his attendance by 1 March so that arrangements can be made. No substantive policy argument or details of an electrification programme appear on the page.
+
 ## Key points
 
 - The letter is dated New Delhi, 21 February 1964.

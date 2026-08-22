@@ -51,6 +51,12 @@ summary: |-
   The second page turns to business and international economic conditions. It mentions falling stock-market subscriptions, weakening German and American exchange conditions, and the writer’s view that the post-war peak has passed. The closing offers encouragement about business prospects, refers to messages received by Nehru from Eisenhower and Khrushchev, and expresses hope that the food problem will improve. The letterhead identifies the sender’s address as Rukhamani Mahal, Saraswati Bagh, Jogeshwari, Bombay-42; no printed title or recipient details appear on the pages themselves.
 ---
 
+## Summary
+
+This two-page English letter, dated 19 August 1959 and signed by Ruttonchund Master, addresses urban development, political division, and economic conditions in Bombay. The writer criticizes the distribution of building and housing responsibilities between Congress, the Bombay State, the Maratha Samiti, and the Gujarat Parishad, arguing that partition and delayed construction will harm estate owners and public works along roads including Colaba–Nariman Road, Marine Drive, and Cathedral Road. The letter also records a proposed sale or transfer of premises associated with a club, including a stated profit of Rs. 14,650 and a purchase price of Rs. 48,500.
+
+The second page turns to business and international economic conditions. It mentions falling stock-market subscriptions, weakening German and American exchange conditions, and the writer’s view that the post-war peak has passed. The closing offers encouragement about business prospects, refers to messages received by Nehru from Eisenhower and Khrushchev, and expresses hope that the food problem will improve. The letterhead identifies the sender’s address as Rukhamani Mahal, Saraswati Bagh, Jogeshwari, Bombay-42; no printed title or recipient details appear on the pages themselves.
+
 ## Key points
 
 - The writer objects to political and administrative partition affecting Bombay’s building and housing arrangements.

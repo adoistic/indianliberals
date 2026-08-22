@@ -55,6 +55,12 @@ summary: |-
   The directory records the party’s office-bearers and personnel, including the National Executive, General Council, Central Parliamentary Board, Members of Parliament, permanent invitees, and state office-bearers. The listings show a geographically dispersed organization with representatives across multiple states and include prominent party figures such as Piloo Mody, H. M. Patel, G. Latchanna, Rajmata Gayatri Devi, R. N. Singh Deo, and Minoo Masani. The visible pages document the directory through printed page 11 and continue into the Central Parliamentary Board and state-office-bearer sections; the remaining pages of the 27-page PDF were not rendered.
 ---
 
+## Summary
+
+The Swatantra Party Office Directory for 1974–1975 is an institutional reference document listing the party’s national and regional organization. It begins with the national headquarters in Bombay, identifies the executive secretary, and provides addresses and contact details for state and regional offices in Andhra Pradesh, Bihar, Delhi, Gujarat, Haryana, Karnataka, Kerala, Maharashtra, Orissa, Rajasthan, Tamil Nadu, Uttar Pradesh, and West Bengal, as well as a parliamentary office in New Delhi.
+
+The directory records the party’s office-bearers and personnel, including the National Executive, General Council, Central Parliamentary Board, Members of Parliament, permanent invitees, and state office-bearers. The listings show a geographically dispersed organization with representatives across multiple states and include prominent party figures such as Piloo Mody, H. M. Patel, G. Latchanna, Rajmata Gayatri Devi, R. N. Singh Deo, and Minoo Masani. The visible pages document the directory through printed page 11 and continue into the Central Parliamentary Board and state-office-bearer sections; the remaining pages of the 27-page PDF were not rendered.
+
 ## Key points
 
 - The directory covers the Swatantra Party’s organization for 1974–1975.

@@ -50,6 +50,12 @@ summary: |-
   The minutes also record a review of cases pending against Courier Publications and Ratansinh Rajda, with a decision to pursue them more vigorously. On S. V. Raju's proposal, seconded by P. N. Subramanian, S. Ramachandran was unanimously co-opted to the Executive Committee with immediate effect. The meeting welcomed the formation of the Swatantra Bharat Party under Sharad Joshi and resolved to extend it full support before ending with a vote of thanks to the chair.
 ---
 
+## Summary
+
+These three rendered pages reproduce the minutes of the Executive Committee of the Swatantra Party Maharashtra meeting held on 7 July 1994 at the party office at 143 Mahatma Gandhi Road, Bombay. K. H. Subramanian chaired the meeting; L. R. Sampat, S. V. Raju, and P. N. Subramanian were present, while S. Ramachandran attended by invitation. The committee confirmed the previous year's minutes, discussed current economic policies and the situation in the country, and approved the party's income-and-expenditure account and balance sheet for the year ending 31 March 1994.
+
+The minutes also record a review of cases pending against Courier Publications and Ratansinh Rajda, with a decision to pursue them more vigorously. On S. V. Raju's proposal, seconded by P. N. Subramanian, S. Ramachandran was unanimously co-opted to the Executive Committee with immediate effect. The meeting welcomed the formation of the Swatantra Bharat Party under Sharad Joshi and resolved to extend it full support before ending with a vote of thanks to the chair.
+
 ## Key points
 
 - The Executive Committee met in Bombay on 7 July 1994 under the chairmanship of K. H. Subramanian.

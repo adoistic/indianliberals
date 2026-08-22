@@ -52,6 +52,12 @@ summary: |-
   The article pays particular attention to divisions within the opposition. It notes that the Gujarat unit of the Swatantra Party has refused to draw the party into the agitation, whereas the Kerala unit of the PSP has broken away from the all-India organisation over the issue. The writer warns that disciplinary action against party dissidents could damage the opposition’s progressive character, but concludes that the episode has been magnified into a political melodrama. The clipping is a dated, unattributed editorial or commentary from The Indian Express; the second rendered page contains a different article and an advertisement, not a continuation of this piece.
 ---
 
+## Summary
+
+“Kutch melodrama” criticises the political response to a proposed satyagraha against the Union Government’s restrictions on entry into Kutch. The article argues that the Jana Sangh, Samyukta Socialist Party, Praja Socialist Party and the Swatantra Party have allowed a relatively limited regional dispute to become a larger partisan confrontation. It questions the wisdom of defying an existing ban, while also suggesting that the Government’s handling of the issue has been unnecessarily provocative and that the Kutch question should be settled politically rather than through demonstrations.
+
+The article pays particular attention to divisions within the opposition. It notes that the Gujarat unit of the Swatantra Party has refused to draw the party into the agitation, whereas the Kerala unit of the PSP has broken away from the all-India organisation over the issue. The writer warns that disciplinary action against party dissidents could damage the opposition’s progressive character, but concludes that the episode has been magnified into a political melodrama. The clipping is a dated, unattributed editorial or commentary from The Indian Express; the second rendered page contains a different article and an advertisement, not a continuation of this piece.
+
 ## Key points
 
 - The article examines opposition agitation over restrictions on entry into Kutch.

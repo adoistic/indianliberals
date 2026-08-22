@@ -49,6 +49,10 @@ summary: |-
   This one-page English-language Swatantra Party circular, dated April 11, 1966, announces that the Party's Central Parliamentary Board will meet in Bombay on Sunday, May 15, 1966. It serves as advance notice to party members so that they can keep themselves available; details of the venue, time, and agenda are to follow.
 ---
 
+## Summary
+
+This one-page English-language Swatantra Party circular, dated April 11, 1966, announces that the Party's Central Parliamentary Board will meet in Bombay on Sunday, May 15, 1966. It serves as advance notice to party members so that they can keep themselves available; details of the venue, time, and agenda are to follow.
+
 ## Key points
 
 - The document is Central Parliamentary Board Circular No. 8.

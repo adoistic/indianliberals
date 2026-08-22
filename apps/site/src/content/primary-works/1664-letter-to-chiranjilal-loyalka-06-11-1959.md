@@ -46,6 +46,10 @@ summary: |-
   This single-page typed letter, dated 6 November 1959, acknowledges Shri Chiranjilal Loyalka’s donation of Rs. 500 toward the funds of the Swatantra Party. The sender expresses appreciation for the contribution and closes with a formal sign-off.
 ---
 
+## Summary
+
+This single-page typed letter, dated 6 November 1959, acknowledges Shri Chiranjilal Loyalka’s donation of Rs. 500 toward the funds of the Swatantra Party. The sender expresses appreciation for the contribution and closes with a formal sign-off.
+
 ## Key points
 
 - The letter is dated 6 November 1959.

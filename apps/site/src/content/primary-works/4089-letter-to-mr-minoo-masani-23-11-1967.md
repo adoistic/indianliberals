@@ -52,6 +52,12 @@ summary: |-
   The attached correspondence records a dispute over whether the Swatantra Party should seek to replace the Congress government in Gujarat through a coalition, including Congress defectors, or remain in opposition. H. M. Patel argues for a determined, united effort to seize power and implement Swatantra principles through government; C. C. Desai similarly urges the party to pursue a coalition rather than wait until 1972. Lallubhai’s letters to Pravin­sinhji focus on alleged promises about leadership positions, “double crossing,” communal mobilisation, and the danger that frustrated party members may defect to Congress. Across the dossier, he presents the party’s crisis as both organisational and ideological: personal and communal interests have displaced democratic procedure, unity, and a clearly articulated political programme.
 ---
 
+## Summary
+
+This archival correspondence dossier consists of Vadilal Lallubhai’s November 23, 1967 letter to Minoo Masani, together with related letters, notes, and a telegram concerning the Swatantra Party’s political situation in Gujarat. Lallubhai declines to attend the Party’s General Council meeting, arguing that it would produce little more than “exchange of words” and “bickerings.” He attributes the party’s difficulties to communal attitudes among sections of Gujarat’s Kshatriya and Patel leadership, personal ambition, factionalism, and the sidelining of more sober party members. He also warns that the central leadership appears unwilling or unable to correct these problems.
+
+The attached correspondence records a dispute over whether the Swatantra Party should seek to replace the Congress government in Gujarat through a coalition, including Congress defectors, or remain in opposition. H. M. Patel argues for a determined, united effort to seize power and implement Swatantra principles through government; C. C. Desai similarly urges the party to pursue a coalition rather than wait until 1972. Lallubhai’s letters to Pravin­sinhji focus on alleged promises about leadership positions, “double crossing,” communal mobilisation, and the danger that frustrated party members may defect to Congress. Across the dossier, he presents the party’s crisis as both organisational and ideological: personal and communal interests have displaced democratic procedure, unity, and a clearly articulated political programme.
+
 ## Key points
 
 - Lallubhai declines to attend the Swatantra Party General Council meeting, expecting factional argument rather than useful deliberation.

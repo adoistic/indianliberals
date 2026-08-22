@@ -55,6 +55,12 @@ summary: |-
   The motion attributes the proposed lack of confidence to the Government of India's failure to advance national integration, protect minorities during violence, respond promptly to the Ahmedabad riots, prevent killings and looting at railway stations, and investigate the conduct of the Gujarat government. The accompanying statement criticises the government's handling of the Rabat Islamic Conference, including the expulsion of the Indian delegation headed by Fakruddin Ali Ahmed. It argues that participation in a conference organised on religious considerations was inconsistent with India's secular character, and links the episode to broader failures in foreign policy, including disputes involving Nepal, Communist China, Russia, and Pakistan.
 ---
 
+## Summary
+
+This four-page English archival packet, issued by the Swatantra Party Parliamentary Office in New Delhi on September 25–26, 1969, consists of a covering letter from A.P. Jain to Minoo Masani, an enclosed motion of no-confidence by J. Mohd. Imam, and a statement for publication signed by Swatantra Members of Parliament. Jain informs Masani that Imam intends to move the motion against the Council of Ministers during the forthcoming parliamentary session and asks for guidance on the parliamentary procedure and timing.
+
+The motion attributes the proposed lack of confidence to the Government of India's failure to advance national integration, protect minorities during violence, respond promptly to the Ahmedabad riots, prevent killings and looting at railway stations, and investigate the conduct of the Gujarat government. The accompanying statement criticises the government's handling of the Rabat Islamic Conference, including the expulsion of the Indian delegation headed by Fakruddin Ali Ahmed. It argues that participation in a conference organised on religious considerations was inconsistent with India's secular character, and links the episode to broader failures in foreign policy, including disputes involving Nepal, Communist China, Russia, and Pakistan.
+
 ## Key points
 
 - A.P. Jain's September 26, 1969 letter to Minoo Masani forwards J. Mohd. Imam's proposed motion of no-confidence and seeks procedural guidance.

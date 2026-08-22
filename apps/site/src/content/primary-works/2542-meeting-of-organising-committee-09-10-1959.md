@@ -50,6 +50,12 @@ summary: |-
   The committee then discussed organisational expansion and publicity. It agreed to co-opt representatives from Caltex and to include a prominent Maharashtrian on the committee; reviewed meeting publicity, fundraising, labour activity, ward meetings, and the preparation of a convention handbook; and considered establishing a Labour Contact Centre in an area with a large labouring population. It also approved limited propaganda expenditure for a students’ meeting. The document is a complete two-page set of institutional minutes, rather than a discursive political essay.
 ---
 
+## Summary
+
+These two pages record the proceedings of a meeting of the Swatantra Party’s Greater Bombay Organising Committee held on 9 October 1959. The minutes list those present, confirm the previous meeting’s minutes, record condolences on the death of Shri Subbiah Gounder, and report on the chairman’s overseas tour and K. M. Munshi’s tour of northern Indian cities. The chairman said the Party had attracted interest in the United Kingdom and on the Continent, while Munshi reported a good response in Uttar Pradesh, Bihar, Delhi, Punjab, Calcutta, and Rajasthan.
+
+The committee then discussed organisational expansion and publicity. It agreed to co-opt representatives from Caltex and to include a prominent Maharashtrian on the committee; reviewed meeting publicity, fundraising, labour activity, ward meetings, and the preparation of a convention handbook; and considered establishing a Labour Contact Centre in an area with a large labouring population. It also approved limited propaganda expenditure for a students’ meeting. The document is a complete two-page set of institutional minutes, rather than a discursive political essay.
+
 ## Key points
 
 - The Greater Bombay Organising Committee met at the Swatantra Party office on 9 October 1959.

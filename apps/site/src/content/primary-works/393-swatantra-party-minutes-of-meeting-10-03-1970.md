@@ -52,6 +52,12 @@ summary: |-
   The record then notes discussion of the party's proposed amendments to the Bank Nationalisation Bill. The members resolved to oppose the Bill as a whole, including the amendment seeking nationalisation of foreign banks, through both speeches and votes. Members who strongly disagreed were permitted to absent themselves from the House during the voting. The document is signed by D. R. Patodia, Secretary of the Swatantra Party, and dated 10 March 1970.
 ---
 
+## Summary
+
+This one-page Swatantra Party office record reports on a General Body meeting held on 9 March 1970 at Parliament House, New Delhi, with ten members listed as present. The meeting included a brief discussion of the Budget, during which members expressed differing views intended to guide party speakers in both Houses of Parliament.
+
+The record then notes discussion of the party's proposed amendments to the Bank Nationalisation Bill. The members resolved to oppose the Bill as a whole, including the amendment seeking nationalisation of foreign banks, through both speeches and votes. Members who strongly disagreed were permitted to absent themselves from the House during the voting. The document is signed by D. R. Patodia, Secretary of the Swatantra Party, and dated 10 March 1970.
+
 ## Key points
 
 - The Swatantra Party General Body met on 9 March 1970 at Parliament House, New Delhi.

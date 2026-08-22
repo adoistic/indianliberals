@@ -52,6 +52,12 @@ summary: |-
   Hande urges Masani to withdraw his resignation from the party presidency, arguing that Masani could now devote himself more fully to organisational work. He calls for a new orientation centred on labour, unemployment, and fundamental rights rather than a continued focus on issues such as bank nationalisation and private pursuits. The letter also argues that Swatantra candidates must shed the party’s association with wealthy interests and become more credible to ordinary voters. Hande predicts that a substantial renewal could make Swatantra the principal opposition to Congress within five years and strengthen its prospects in the 1972 Assembly elections.
 ---
 
+## Summary
+
+This two-page letter, dated 12 April 1971, is written by Dr. H. V. Hande, the Swatantra Party’s All India Joint Secretary, to Minoo Masani. Hande reports that he has been re-elected to the State Assembly with a larger margin, that five other Swatantra members have also won, and that he is leading a six-member group. He presents these results as grounds for rebuilding the party through a more systematic organisation and a clearer political programme.
+
+Hande urges Masani to withdraw his resignation from the party presidency, arguing that Masani could now devote himself more fully to organisational work. He calls for a new orientation centred on labour, unemployment, and fundamental rights rather than a continued focus on issues such as bank nationalisation and private pursuits. The letter also argues that Swatantra candidates must shed the party’s association with wealthy interests and become more credible to ordinary voters. Hande predicts that a substantial renewal could make Swatantra the principal opposition to Congress within five years and strengthen its prospects in the 1972 Assembly elections.
+
 ## Key points
 
 - H. V. Hande reports his re-election to the State Assembly with a substantially larger margin.

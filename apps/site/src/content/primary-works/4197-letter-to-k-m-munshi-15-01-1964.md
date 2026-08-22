@@ -46,6 +46,12 @@ summary: |-
   The letter closes with a warm commendation of Munshi as a source of advice and strength, even without active public movement. It is typed on Rajagopalachari’s Madras letterhead and bears his handwritten signature; the circled number “497” appears to be an archival reference rather than a title.
 ---
 
+## Summary
+
+This one-page personal letter from C. Rajagopalachari to K. M. Munshi is dated 15 January 1964 and concerns Munshi’s note about Bihar and himself. Rajagopalachari indicates that Munshi will seek relief when Rajagopalachari is relieved, suggesting a shared public or administrative burden, and expresses confidence in Munshi’s continuing counsel.
+
+The letter closes with a warm commendation of Munshi as a source of advice and strength, even without active public movement. It is typed on Rajagopalachari’s Madras letterhead and bears his handwritten signature; the circled number “497” appears to be an archival reference rather than a title.
+
 ## Key points
 
 - The letter is dated 15 January 1964 and was sent from C. Rajagopalachari’s address in Madras.

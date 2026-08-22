@@ -48,6 +48,12 @@ summary: |-
   The report says the members had been asked to explain their conduct and that the State Party President would decide what further action to recommend. General Secretary N. Dandekar acknowledged that it was difficult to determine how members had voted, while also describing the episode as an "open revolt" and noting dissatisfaction over the party's failure to secure more MLAs in the Rajya Sabha. The Executive was expected to meet again in May.
 ---
 
+## Summary
+
+This anonymous newspaper report, dated New Delhi April 14, describes the Swatantra Party National Executive's cautious response to an internal dispute in Gujarat. Four party members had voted against the party's official Rajya Sabha candidate and supported rival candidate T. N. Mahida. After more than two hours of debate, the Executive postponed disciplinary action rather than risk widening the disagreement or precipitating a split.
+
+The report says the members had been asked to explain their conduct and that the State Party President would decide what further action to recommend. General Secretary N. Dandekar acknowledged that it was difficult to determine how members had voted, while also describing the episode as an "open revolt" and noting dissatisfaction over the party's failure to secure more MLAs in the Rajya Sabha. The Executive was expected to meet again in May.
+
 ## Key points
 
 - The Swatantra Party National Executive debated disciplinary action against four Gujarat members.

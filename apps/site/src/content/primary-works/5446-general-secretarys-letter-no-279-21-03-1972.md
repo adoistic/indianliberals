@@ -51,6 +51,12 @@ summary: |-
   The enclosure records the proposed Rajya Sabha elections in 13 states and the Union Territory of Delhi, involving 44 vacancies caused by members' retirement on April 2, 1972. It lists the number of seats assigned to each jurisdiction and provides the electoral timetable: nominations by March 29, scrutiny on March 30, withdrawal by April 1, and polling on April 8. The document is therefore a short piece of party correspondence accompanied by an official electoral schedule, rather than an extended political argument.
 ---
 
+## Summary
+
+Dated March 21, 1972, General Secretary's Letter No. 279 from the Swatantra Party national headquarters asks state parliamentary boards to consider putting forward candidates for the forthcoming biennial elections to the Rajya Sabha. The letter forwards an Election Commission of India press note dated March 18 and highlights March 29 as the final date for making nominations. The signatory, identified only by the typed role "General Secretary," requests an immediate telegraphic response indicating whether the state party organisations intend to nominate candidates and seeking their recommendations.
+
+The enclosure records the proposed Rajya Sabha elections in 13 states and the Union Territory of Delhi, involving 44 vacancies caused by members' retirement on April 2, 1972. It lists the number of seats assigned to each jurisdiction and provides the electoral timetable: nominations by March 29, scrutiny on March 30, withdrawal by April 1, and polling on April 8. The document is therefore a short piece of party correspondence accompanied by an official electoral schedule, rather than an extended political argument.
+
 ## Key points
 
 - The Swatantra Party's General Secretary circulated information about the 1972 biennial Rajya Sabha elections.

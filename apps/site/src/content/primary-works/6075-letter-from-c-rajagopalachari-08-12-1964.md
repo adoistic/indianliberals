@@ -49,6 +49,12 @@ summary: |-
   The visible pages contain the sender’s letterhead, the instruction “Not to be telegraphed,” and an address block to Piloo Mody at the Swatantra Party office in Bombay. The body of the letter and any signature are not visible in the rendered document, so its substantive purpose and argument cannot be determined from these pages.
 ---
 
+## Summary
+
+This two-page English document is a typed letter from C. Rajagopalachari, dated 8 December 1964, on letterhead bearing his Madras address. Its heading reads “LONG LIFE GOOD HEALTH AND PROLONGED SERVICE TO THE GREAT CAUSE OF SWATANTRA,” indicating an association with the Swatantra cause and party politics.
+
+The visible pages contain the sender’s letterhead, the instruction “Not to be telegraphed,” and an address block to Piloo Mody at the Swatantra Party office in Bombay. The body of the letter and any signature are not visible in the rendered document, so its substantive purpose and argument cannot be determined from these pages.
+
 ## Key points
 
 - The document is a two-page typed letter by C. Rajagopalachari.

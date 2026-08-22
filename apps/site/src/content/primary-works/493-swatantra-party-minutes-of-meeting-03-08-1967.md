@@ -53,6 +53,12 @@ summary: |-
   The committee discussed its office budget and agreed to give the newly appointed Research Assistant, R. V. Subramanian, 15 days’ notice as an initial expenditure-cutting measure, producing an expected saving of Rs. 450 per month. Masani undertook to seek an additional Rs. 500 per month from members, while stressing that regular subscriptions were necessary. The office’s accumulated deficit of Rs. 5,000 was to be liquidated through an ad hoc contribution of Rs. 100 from fourteen named members; Rs. 1,000 would go to the Delhi Unit and Rs. 400 toward outstanding bills. The record also assigns members to speak on the Central Industrial Security Force Bill and Dr. Lohia’s motion concerning a ceiling on individual expenditure.
 ---
 
+## Summary
+
+This single-page office record, issued by the Swatantra Party Parliamentary Office on 3 August 1967, reports a meeting of the Party in Parliament’s Executive Committee held on 1 August. It lists the four attendees—Prof. N. G. Ranga, M. R. Masani, C. C. Desai, and S. S. Mariswamy—and records a request that members clear their subscription arrears.
+
+The committee discussed its office budget and agreed to give the newly appointed Research Assistant, R. V. Subramanian, 15 days’ notice as an initial expenditure-cutting measure, producing an expected saving of Rs. 450 per month. Masani undertook to seek an additional Rs. 500 per month from members, while stressing that regular subscriptions were necessary. The office’s accumulated deficit of Rs. 5,000 was to be liquidated through an ad hoc contribution of Rs. 100 from fourteen named members; Rs. 1,000 would go to the Delhi Unit and Rs. 400 toward outstanding bills. The record also assigns members to speak on the Central Industrial Security Force Bill and Dr. Lohia’s motion concerning a ceiling on individual expenditure.
+
 ## Key points
 
 - The Executive Committee of the Party in Parliament met in New Delhi on 1 August 1967.

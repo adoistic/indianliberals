@@ -51,6 +51,12 @@ summary: |-
   The second resolution seeks to keep party politics separate from the defence effort, proposing that the President of India and the Governors of the States preside over joint committees concerned with defence. The third welcomes the establishment and constitution of the National Defence Council, while urging the creation of a broader body of senior serving and retired generals and others who could remain in contact with, advise, and assist the Defence Ministry. The page does not identify the year of the meeting.
 ---
 
+## Summary
+
+This one-page annexure records three resolutions adopted unanimously by the Parliamentary Board of the Swatantra Party at a meeting in New Delhi on November 6 and 7. The first calls for the banning of the Communist Party of India under the Defence of India Regulations, arguing that the party functions as a “Fifth Column” and that its activities undermine the country’s war effort.
+
+The second resolution seeks to keep party politics separate from the defence effort, proposing that the President of India and the Governors of the States preside over joint committees concerned with defence. The third welcomes the establishment and constitution of the National Defence Council, while urging the creation of a broader body of senior serving and retired generals and others who could remain in contact with, advise, and assist the Defence Ministry. The page does not identify the year of the meeting.
+
 ## Key points
 
 - The Parliamentary Board of the Swatantra Party adopted three resolutions unanimously in New Delhi.

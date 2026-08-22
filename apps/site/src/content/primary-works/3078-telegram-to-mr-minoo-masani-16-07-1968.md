@@ -50,6 +50,12 @@ summary: |-
   The document is a brief administrative communication concerning the composition of a government enquiry committee. It contains no explanation of the committee’s subject, the reasons for Dandekar’s refusal, or the identity of the sender beyond the terminal indication “RANGA.”
 ---
 
+## Summary
+
+This one-page English telegram, received on 16 July 1968, is addressed to M. R. Masani in Bombay. It reports that the Prime Minister has nominated K. P. Singh Deo to the C.S.I.R. Enquiry Committee in place of Dandekar, who has declined to serve. The sender proposes agreement with the substitution and signs off “RANGA.”
+
+The document is a brief administrative communication concerning the composition of a government enquiry committee. It contains no explanation of the committee’s subject, the reasons for Dandekar’s refusal, or the identity of the sender beyond the terminal indication “RANGA.”
+
 ## Key points
 
 - The telegram is addressed to M. R. Masani in Bombay.

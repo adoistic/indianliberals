@@ -48,6 +48,10 @@ summary: |-
   This one-page letter, dated 30 June 1959, announces T. Sadasivam’s takeover of the printing, publishing, and management of Swarajya, described on its letterhead as an English political weekly published from Madras by Bharathan Publications Private Limited. Addressed to Sir Hari Mody, the letter presents the change as an effort to widen the reach of the paper’s liberal political commentary.
 ---
 
+## Summary
+
+This one-page letter, dated 30 June 1959, announces T. Sadasivam’s takeover of the printing, publishing, and management of Swarajya, described on its letterhead as an English political weekly published from Madras by Bharathan Publications Private Limited. Addressed to Sir Hari Mody, the letter presents the change as an effort to widen the reach of the paper’s liberal political commentary.
+
 ## Key points
 
 - T. Sadasivam announces that he will take over Swarajya from 1 July 1959.

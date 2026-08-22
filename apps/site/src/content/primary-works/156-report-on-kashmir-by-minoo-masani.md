@@ -54,6 +54,12 @@ summary: |-
   Masani connects the crisis to the February 1967 elections, which he says were neither fair nor free because opposition leaders were detained, nomination papers were rejected, and intimidation prevailed. He warns that the resulting leadership vacuum could invite renewed Pakistani intervention. His proposed remedy is the release of Sheikh Abdullah and other political detainees, followed by a Round Table Conference, dissolution of the existing Legislative Assembly, fresh elections, and a broadly representative government. He also advocates a non-denominational, non-secessionist political presence in Jammu and Kashmir, including a possible Swatantra Party branch, as a bridge between Kashmir and the rest of India.
 ---
 
+## Summary
+
+In this four-page report, Minoo Masani describes a June visit to Kashmir undertaken at the invitation of the All India Management Association. He reports that Srinagar had not recovered from the violence of June 7, when mobs attacked men, women, and children, two churches were burned, and the police were absent or ineffective. Masani attributes the unrest partly to inflammatory statements by the Prime Minister of Kashmir and the state Congress leadership, and argues that the episode exposed a dangerous failure of authority and public confidence in the government.
+
+Masani connects the crisis to the February 1967 elections, which he says were neither fair nor free because opposition leaders were detained, nomination papers were rejected, and intimidation prevailed. He warns that the resulting leadership vacuum could invite renewed Pakistani intervention. His proposed remedy is the release of Sheikh Abdullah and other political detainees, followed by a Round Table Conference, dissolution of the existing Legislative Assembly, fresh elections, and a broadly representative government. He also advocates a non-denominational, non-secessionist political presence in Jammu and Kashmir, including a possible Swatantra Party branch, as a bridge between Kashmir and the rest of India.
+
 ## Key points
 
 - Masani visited Kashmir from 25 to 27 June at the invitation of the All India Management Association.

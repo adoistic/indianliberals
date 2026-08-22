@@ -52,6 +52,12 @@ summary: |-
   Rajagopalachari also responds to V. T. Sreenivasan’s concerns about the timing of primary elections, arguing that the party should have discretion over the schedule. Masani’s 18 September reply explains that the Bombay meeting has been moved to 1 October because previous experience showed that people were reluctant to attend a public meeting on a non-working day. He confirms that the party’s primary elections will run from 21 September to 15 October, a 24-day period, and gives details of his and Dayabhai Patel’s travel. The file also documents both correspondents’ competing political and constituency commitments; the handwritten annotations on the first two pages are only partly legible.
 ---
 
+## Summary
+
+This three-page correspondence file records an exchange between C. Rajagopalachari and M. R. Masani in September 1964 concerning the Swatantra Party’s organizational and electoral plans. In his letter of 16 September, Rajagopalachari proposes moving a public meeting from Gandhi Jayanti, 2 October, to a working day so that more people will attend, while retaining the Congress Organisation Committee meetings. He urges the party to proceed despite repeated approaches from Ramgarh to Congress and discusses the difficulty of responding to V. P. Menon’s proposal concerning dissident Congressmen in Kerala after President’s Rule was proclaimed.
+
+Rajagopalachari also responds to V. T. Sreenivasan’s concerns about the timing of primary elections, arguing that the party should have discretion over the schedule. Masani’s 18 September reply explains that the Bombay meeting has been moved to 1 October because previous experience showed that people were reluctant to attend a public meeting on a non-working day. He confirms that the party’s primary elections will run from 21 September to 15 October, a 24-day period, and gives details of his and Dayabhai Patel’s travel. The file also documents both correspondents’ competing political and constituency commitments; the handwritten annotations on the first two pages are only partly legible.
+
 ## Key points
 
 - Rajagopalachari proposes shifting the Swatantra Party’s Gandhi Jayanti public meeting to a working day in order to improve attendance.

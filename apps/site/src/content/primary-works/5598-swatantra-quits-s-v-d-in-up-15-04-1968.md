@@ -51,6 +51,10 @@ summary: |-
   This one-page newspaper clipping reports decisions by the Swatantra Party's national executive concerning its position in Uttar Pradesh and its electoral strategy. The executive decided to withdraw from the Samyukta Vidhayak Dal (SVD) in Uttar Pradesh and discussed exploring an electoral alliance with the Jana Sangh for forthcoming mid-term elections in Haryana. The report attributes these developments, in part, to comments by N. Dandekar and refers to Minoo Masani in connection with the party's national leadership.
 ---
 
+## Summary
+
+This one-page newspaper clipping reports decisions by the Swatantra Party's national executive concerning its position in Uttar Pradesh and its electoral strategy. The executive decided to withdraw from the Samyukta Vidhayak Dal (SVD) in Uttar Pradesh and discussed exploring an electoral alliance with the Jana Sangh for forthcoming mid-term elections in Haryana. The report attributes these developments, in part, to comments by N. Dandekar and refers to Minoo Masani in connection with the party's national leadership.
+
 ## Key points
 
 - The Swatantra Party's national executive decided to leave the SVD in Uttar Pradesh.

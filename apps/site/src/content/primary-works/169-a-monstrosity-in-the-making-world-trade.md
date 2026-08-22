@@ -54,6 +54,12 @@ summary: |-
   Masani also criticises the proposed treatment of industry, transport, the mixed economy, licensing, and public-sector enterprise. He objects to state trading monopolies and continued controls while noting that the document itself concedes the desirability of reducing price and allocation controls. The essay concludes that the Fourth Plan is likely to intensify inflation, inefficiency, and economic decline rather than deliver growth or stability. The rendered material also includes a separate article, “A Critique,” by E. M. S. Namboodiripad, and duplicated/typescript pages of Masani’s text; the summary above is confined to Masani’s article.
 ---
 
+## Summary
+
+In “A Monstrosity in the Making,” M. R. Masani attacks the Planning Commission’s Approach to the Fourth Five Year Plan as a repetition of failed targets, discredited slogans, and interventionist policies. He argues that the document’s commitments to self-reliance, export promotion, additional taxation, restrictions on foreign collaboration, agricultural institutionalisation, long-gestation industrial projects, and dispersed state ownership are economically unrealistic and internally contradictory. Masani treats the plan as confirmation of the Swatantra Party’s demand that the Planning Commission be dissolved and replaced by expert advisory agencies.
+
+Masani also criticises the proposed treatment of industry, transport, the mixed economy, licensing, and public-sector enterprise. He objects to state trading monopolies and continued controls while noting that the document itself concedes the desirability of reducing price and allocation controls. The essay concludes that the Fourth Plan is likely to intensify inflation, inefficiency, and economic decline rather than deliver growth or stability. The rendered material also includes a separate article, “A Critique,” by E. M. S. Namboodiripad, and duplicated/typescript pages of Masani’s text; the summary above is confined to Masani’s article.
+
 ## Key points
 
 - Masani presents the Approach to the Fourth Five Year Plan as a repetition of the Second and Third Plans’ unrealistic targets.

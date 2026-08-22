@@ -48,6 +48,12 @@ summary: |-
   The report presents the Gujarat dispute as a test of party discipline and leadership. It recounts objections to the expulsion of U. N. Mahida, the removal of Raijsa Sabha member Gujarati Patel, and the debarring of other office-holders, while suggesting that Masani wanted a firm response to the rebels. It also reports disagreement over whether senior leaders, including Rajaji, had encouraged revolt, and notes procedural tensions involving the party’s Parliamentary Board and executive. The visible article ends mid-sentence, so the clipping does not provide the complete report.
 ---
 
+## Summary
+
+This 2 June 1968 Patriot-New Delhi report describes a crisis inside the Swatantra Party executive, where disciplinary action against Gujarat leaders had become entangled with M. R. Masani’s resignation. The article says the party’s general council was considering concessions intended to persuade Masani—identified alongside C. Rajagopalachari as part of the party’s “brain trust”—to withdraw his resignation.
+
+The report presents the Gujarat dispute as a test of party discipline and leadership. It recounts objections to the expulsion of U. N. Mahida, the removal of Raijsa Sabha member Gujarati Patel, and the debarring of other office-holders, while suggesting that Masani wanted a firm response to the rebels. It also reports disagreement over whether senior leaders, including Rajaji, had encouraged revolt, and notes procedural tensions involving the party’s Parliamentary Board and executive. The visible article ends mid-sentence, so the clipping does not provide the complete report.
+
 ## Key points
 
 - The Swatantra Party general council met amid a dispute over disciplinary action in Gujarat.

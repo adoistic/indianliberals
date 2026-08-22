@@ -56,6 +56,12 @@ summary: |-
   Tata's reply acknowledges Orissa's more favourable industrial conditions but says that the project has been delayed primarily by recession, financial stringency, reduced retained earnings, rising costs, and devaluation. He also addresses the threatened mine closures, estimating that approximately 2,600 workers may lose employment while emphasizing retrenchment compensation, preferential hiring in other Orissa mines, and the exhaustion of usable ore. The dossier includes a compliments slip dated 25 August 1967; no separate title or publication context is printed.
 ---
 
+## Summary
+
+This three-page correspondence dossier contains a 7 August 1967 letter from Harihar Patel, Orissa's Minister for Industries, Commerce, Co-operation and Forestry and Fisheries, to M. R. Masani, followed by J. R. D. Tata's 16 August reply. Patel urges the Tata group to locate its proposed Alloy and Tool Steel Project in Orissa rather than Bihar, arguing that the state's labour and law-and-order conditions are favourable and that such an investment could mitigate the employment crisis expected from the closure of Tata's iron-ore mines at Badampahar and Gorumahisani.
+
+Tata's reply acknowledges Orissa's more favourable industrial conditions but says that the project has been delayed primarily by recession, financial stringency, reduced retained earnings, rising costs, and devaluation. He also addresses the threatened mine closures, estimating that approximately 2,600 workers may lose employment while emphasizing retrenchment compensation, preferential hiring in other Orissa mines, and the exhaustion of usable ore. The dossier includes a compliments slip dated 25 August 1967; no separate title or publication context is printed.
+
 ## Key points
 
 - Harihar Patel asks the Tata group to consider Orissa for its proposed Alloy and Tool Steel Project.

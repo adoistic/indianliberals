@@ -44,6 +44,10 @@ summary: |-
   This one-page English telegram records Jayaprakash Narayan's travel arrangements and is addressed to Minoo Masani. Marked “EXPRESS,” it states that Narayan would arrive in Patna on the second Saturday from Calcutta by Indian Airlines flight IC 410 at 12:30 hours. The document is dated 1 November 1974 and contains no broader political argument or substantive correspondence.
 ---
 
+## Summary
+
+This one-page English telegram records Jayaprakash Narayan's travel arrangements and is addressed to Minoo Masani. Marked “EXPRESS,” it states that Narayan would arrive in Patna on the second Saturday from Calcutta by Indian Airlines flight IC 410 at 12:30 hours. The document is dated 1 November 1974 and contains no broader political argument or substantive correspondence.
+
 ## Key points
 
 - The document is a one-page express telegram or office communication.

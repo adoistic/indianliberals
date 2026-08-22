@@ -50,6 +50,12 @@ summary: |-
   The message consists of clipped wording referring to “ROBERT COMMITMENTS IN BOMBAY” and stating that they “DO NOT PERMIT.” The page does not provide enough context to establish what commitments are meant, who Robert is, or what action is being restricted. It also records that a confirmation copy was sent by ordinary post.
 ---
 
+## Summary
+
+This single-page English telegram-style communication is dated 21 October 1959 and appears on Swatantra Party, Bangalore letterhead. It is signed or attributed only as “MASANI” and gives a Bombay address at 148 Mahatma Gandhi Road, Bombay 1.
+
+The message consists of clipped wording referring to “ROBERT COMMITMENTS IN BOMBAY” and stating that they “DO NOT PERMIT.” The page does not provide enough context to establish what commitments are meant, who Robert is, or what action is being restricted. It also records that a confirmation copy was sent by ordinary post.
+
 ## Key points
 
 - The document is a one-page English telegram-style office communication.

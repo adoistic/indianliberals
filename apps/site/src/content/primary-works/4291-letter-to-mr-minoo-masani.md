@@ -50,6 +50,12 @@ summary: |-
   The letter also briefly mentions material Rajagopalachari has placed in J. P. R.’s file or papers, apparently including a letter concerning a question and a related matter. The handwriting is difficult to decipher in this closing passage, so the precise references cannot be established from the rendered image. The second page is the addressed envelope, showing Masani’s New Delhi address and a 30 April 1964 postmark.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated approximately 29 April 1964, is from C. Rajagopalachari to Minoo Masani. Rajagopalachari refers to having sent Masani a telegram after reading news in the previous evening’s papers and follows it with a written congratulatory message. He commends the Speaker’s firmness and says that the resulting delay has created time that should be used well.
+
+The letter also briefly mentions material Rajagopalachari has placed in J. P. R.’s file or papers, apparently including a letter concerning a question and a related matter. The handwriting is difficult to decipher in this closing passage, so the precise references cannot be established from the rendered image. The second page is the addressed envelope, showing Masani’s New Delhi address and a 30 April 1964 postmark.
+
 ## Key points
 
 - Rajagopalachari writes to Minoo Masani from his Madras letterhead.

@@ -51,6 +51,12 @@ summary: |-
   The letter also describes plans for demonstrations against maladministration, rising prices, and scarcity, while noting that financial discussions were postponed. Patel criticizes the Pragati Party’s procedures for creating district coordination committees without adequate consultation and complains that party activity is unsystematic. He further objects to Biju Patnaik’s public statement that the Swatantra Party would contest 65 seats while the Utkal Congress would contest 75, contrasting it with a statement that Swatantra would contest 90 seats. The postscript reports a workers’ conference schedule in Sundergarh and concludes that party machinations are directed against Patel.
 ---
 
+## Summary
+
+This six-page English political letter, dated 12 June 1973 and signed by H. Patel, reports on the second working-committee meeting of the Orissa Pragati Party held on 11 June. Writing to S. V. Raju and enclosing a copy for Manubhai Amersey, Patel records the absence of Biju Patnaik, the chairing of the meeting by R. N. Singh Deo, nominations to the Executive Committee, and the adoption of two resolutions. One reviewed results from approximately 42 municipalities and notified areas and argued that Congress had been rejected in most places; the other addressed the State’s economic and political situation, including drought and scarcity.
+
+The letter also describes plans for demonstrations against maladministration, rising prices, and scarcity, while noting that financial discussions were postponed. Patel criticizes the Pragati Party’s procedures for creating district coordination committees without adequate consultation and complains that party activity is unsystematic. He further objects to Biju Patnaik’s public statement that the Swatantra Party would contest 65 seats while the Utkal Congress would contest 75, contrasting it with a statement that Swatantra would contest 90 seats. The postscript reports a workers’ conference schedule in Sundergarh and concludes that party machinations are directed against Patel.
+
 ## Key points
 
 - The letter reports proceedings of the second working-committee meeting of the Orissa Pragati Party.

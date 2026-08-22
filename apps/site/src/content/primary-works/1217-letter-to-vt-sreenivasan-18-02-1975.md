@@ -48,6 +48,12 @@ summary: |-
   Raju’s enclosed memo shifts to Swatantra Party politics and the Bangalore Education Trust. It alleges that the Trust, originally created to support the Swatantra Party, is now funnelling funds to the Mysore BLD while overruling its two trustees, V.T. Sreenivasan and B.V. Narayana Reddy. Raju asks Masani to address the matter in Bangalore, initially by speaking with Sreenivasan, and warns that the Trust’s purpose will otherwise be defeated. The document records a specific internal political and financial dispute; it does not provide further background on the Trust, the BLD, or the individuals named.
 ---
 
+## Summary
+
+This two-page English office correspondence dated February 18, 1975, consists of a brief letter from M.R. Masani to V.T. Sreenivasan followed by an enclosed memo from S.V. Raju. Masani announces that he will be in Bangalore on February 22–23 for a Voltas managers’ training course and suggests meeting at the Ashoka Hotel.
+
+Raju’s enclosed memo shifts to Swatantra Party politics and the Bangalore Education Trust. It alleges that the Trust, originally created to support the Swatantra Party, is now funnelling funds to the Mysore BLD while overruling its two trustees, V.T. Sreenivasan and B.V. Narayana Reddy. Raju asks Masani to address the matter in Bangalore, initially by speaking with Sreenivasan, and warns that the Trust’s purpose will otherwise be defeated. The document records a specific internal political and financial dispute; it does not provide further background on the Trust, the BLD, or the individuals named.
+
 ## Key points
 
 - Masani writes to V.T. Sreenivasan on February 18, 1975, announcing a planned visit to Bangalore.

@@ -49,6 +49,12 @@ summary: |-
   The other two extracts were more broadly negative: the Times of India said that Swatantra and Jan Sangh had failed to impress and perhaps had not yet found their feet, while the Free Press Journal argued that neither party could make an impression despite their strength. A handwritten notation at the foot of the sheet reads “July 21 ’62”; the document itself contains no named author or publisher.
 ---
 
+## Summary
+
+This single-page institutional digest compiles press assessments of the Swatantra Party's performance in the Lok Sabha, drawing on the Indian Express (27 June 1962), the Times of India (28 June 1962), and the Free Press Journal (30 June 1962). The extracts report that expectations of a coordinated right-wing challenge to the Congress government had not been fulfilled. The Indian Express credited C. B. Narasimha Reddy, Maharani Gayatri Devi, and P. K. Deo with varying degrees of parliamentary effectiveness, while criticizing other Swatantra members for relying on lengthy prepared statements.
+
+The other two extracts were more broadly negative: the Times of India said that Swatantra and Jan Sangh had failed to impress and perhaps had not yet found their feet, while the Free Press Journal argued that neither party could make an impression despite their strength. A handwritten notation at the foot of the sheet reads “July 21 ’62”; the document itself contains no named author or publisher.
+
 ## Key points
 
 - The document is a digest of three newspaper assessments of the Swatantra Party's Lok Sabha performance.

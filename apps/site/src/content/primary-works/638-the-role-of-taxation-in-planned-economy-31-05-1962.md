@@ -57,6 +57,10 @@ summary: |-
   This 1962 Forum of Free Enterprise working paper examines whether taxation in India supports the objectives of a planned economy. It distinguishes the classical purpose of taxation—financing government expenditure—from the additional aims of economic development and social justice. The paper argues that taxation should help expand production through infrastructure, education, saving, investment and incentives, while also supporting stable currency, employment, fair remuneration and access to basic needs. It repeatedly stresses that production, private initiative and profit remain necessary even within a planned or welfare-oriented economy.
 ---
 
+## Summary
+
+This 1962 Forum of Free Enterprise working paper examines whether taxation in India supports the objectives of a planned economy. It distinguishes the classical purpose of taxation—financing government expenditure—from the additional aims of economic development and social justice. The paper argues that taxation should help expand production through infrastructure, education, saving, investment and incentives, while also supporting stable currency, employment, fair remuneration and access to basic needs. It repeatedly stresses that production, private initiative and profit remain necessary even within a planned or welfare-oriented economy.
+
 ## Key points
 
 - Taxation in a planned economy is presented as an instrument for economic development as well as revenue collection.

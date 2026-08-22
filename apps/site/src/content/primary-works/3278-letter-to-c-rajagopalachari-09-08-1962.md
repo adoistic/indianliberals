@@ -48,6 +48,10 @@ summary: |-
   In this letter dated 9 August 1962, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about the future conduct of the Swatantra Party’s organisation and affairs. He reports that party members in Ahmedabad and Bangalore welcomed the decision concerning organisational discipline, integrity, and functioning, and he reaffirms that the decision on Bihar had been considered final.
 ---
 
+## Summary
+
+In this letter dated 9 August 1962, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about the future conduct of the Swatantra Party’s organisation and affairs. He reports that party members in Ahmedabad and Bangalore welcomed the decision concerning organisational discipline, integrity, and functioning, and he reaffirms that the decision on Bihar had been considered final.
+
 ## Key points
 
 - Masani describes support among the party’s inner circle in Ahmedabad and Bangalore for decisions about organisational conduct.

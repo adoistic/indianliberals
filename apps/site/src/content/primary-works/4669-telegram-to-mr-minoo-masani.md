@@ -49,6 +49,10 @@ summary: |-
   This seven-page file contains related telegrams and confirmation copies from 9–13 March 1968 concerning a Rajya Sabha nomination dispute within the Swatantra Party. M. R. Masani argues that Professor B. R. Shenoy’s proposed candidacy would endanger Babubhai Vaidya’s prospects and asks S. V. Raju to urge Shenoy not to press his claim. A telegram from Shenoy indicates that he believed party sentiment was against Vaidya and sought guidance from Masani and N. Dandekar.
 ---
 
+## Summary
+
+This seven-page file contains related telegrams and confirmation copies from 9–13 March 1968 concerning a Rajya Sabha nomination dispute within the Swatantra Party. M. R. Masani argues that Professor B. R. Shenoy’s proposed candidacy would endanger Babubhai Vaidya’s prospects and asks S. V. Raju to urge Shenoy not to press his claim. A telegram from Shenoy indicates that he believed party sentiment was against Vaidya and sought guidance from Masani and N. Dandekar.
+
 ## Key points
 
 - The correspondence concerns a 1968 Swatantra Party Rajya Sabha election and competing nominations.

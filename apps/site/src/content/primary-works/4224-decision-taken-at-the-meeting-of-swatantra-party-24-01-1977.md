@@ -49,6 +49,10 @@ summary: |-
   This one-page document records decisions taken at a meeting of Swatantra Party workers in Maharashtra on 24 January 1977. The participants decide not to call for the party's dissolution immediately, arguing that the available time should instead be used to strengthen Janata Party candidates. Although the national coordinating group of opposition parties had reportedly ignored the Swatantra Party, the meeting resolves that Swatantra members should cooperate by supporting and working for Janata candidates, without asking for seats unless members are specifically invited to contest.
 ---
 
+## Summary
+
+This one-page document records decisions taken at a meeting of Swatantra Party workers in Maharashtra on 24 January 1977. The participants decide not to call for the party's dissolution immediately, arguing that the available time should instead be used to strengthen Janata Party candidates. Although the national coordinating group of opposition parties had reportedly ignored the Swatantra Party, the meeting resolves that Swatantra members should cooperate by supporting and working for Janata candidates, without asking for seats unless members are specifically invited to contest.
+
 ## Key points
 
 - The meeting rejects immediate dissolution of the Swatantra Party.

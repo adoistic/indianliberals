@@ -51,6 +51,12 @@ summary: |-
   The attached two-page draft resolution records the party’s effort to create a two-party system in India, which it presents as a way to remove political chaos and electoral confusion. It authorises President Piloo Mody to pursue negotiations, describes discussions with several senior party figures, and approves the proposed merger in principle while allowing members who do not join the new party to continue non-partisan activities under another name. The letter itself postpones any immediate transfer of the headquarters until the National Executive has completed its review and Piloo Mody has clarified the necessary arrangements.
 ---
 
+## Summary
+
+This three-page English-language record is a letter from V. B. Bhatia, Executive Secretary at the Swatantra Party’s National Headquarters in Bombay, to Girish Munshi, dated August 27, 1974. Bhatia responds to Munshi’s request that the party headquarters be handed over because the Swatantra Party was expected to cease to exist. He explains that the party’s National Convention had welcomed the formation of a National Alternative through the amalgamation of political forces other than the ruling Congress and Communist parties, and that the proposed Bharatiya Lok Dal had developed a programme acceptable to the Swatantra Party.
+
+The attached two-page draft resolution records the party’s effort to create a two-party system in India, which it presents as a way to remove political chaos and electoral confusion. It authorises President Piloo Mody to pursue negotiations, describes discussions with several senior party figures, and approves the proposed merger in principle while allowing members who do not join the new party to continue non-partisan activities under another name. The letter itself postpones any immediate transfer of the headquarters until the National Executive has completed its review and Piloo Mody has clarified the necessary arrangements.
+
 ## Key points
 
 - V. B. Bhatia’s August 27, 1974 letter answers a request from Girish Munshi concerning the Swatantra Party’s Bombay headquarters.

@@ -60,6 +60,12 @@ summary: |-
   The profile emphasizes JP’s interventions in public life: his criticism of political repression in Kashmir, condemnation of the suppression of the Hungarian uprising and Chinese atrocities in Tibet, advocacy of India-Pakistan reconciliation, and support for the refugees and independence movement of East Pakistan. Masani also highlights JP’s willingness to criticize communists, governments, and his own former political allies, presenting him as an “active voice” committed to democracy, justice, and the welfare of the poor. The article closes with a brief account of JP’s education, Marxist period, imprisonment during the freedom struggle, later turn toward Gandhian ideals, and continuing public activism despite ill health.
 ---
 
+## Summary
+
+M. R. Masani presents Jayaprakash Narayan (JP) as a moral and political leader whose authority rests on nonviolence, personal courage, and service to ordinary people. The article recounts his role in persuading armed bandits in the Chambal Valley to surrender, his Sarvodaya relief work during famine and drought, and his efforts to promote voluntary redistribution of land. It also describes his opposition to violent revolution, arguing that coercion and brutality reproduce the very forms of domination they seek to overthrow.
+
+The profile emphasizes JP’s interventions in public life: his criticism of political repression in Kashmir, condemnation of the suppression of the Hungarian uprising and Chinese atrocities in Tibet, advocacy of India-Pakistan reconciliation, and support for the refugees and independence movement of East Pakistan. Masani also highlights JP’s willingness to criticize communists, governments, and his own former political allies, presenting him as an “active voice” committed to democracy, justice, and the welfare of the poor. The article closes with a brief account of JP’s education, Marxist period, imprisonment during the freedom struggle, later turn toward Gandhian ideals, and continuing public activism despite ill health.
+
 ## Key points
 
 - The article portrays Jayaprakash Narayan as an unofficial ombudsman and moral critic of Indian public life.

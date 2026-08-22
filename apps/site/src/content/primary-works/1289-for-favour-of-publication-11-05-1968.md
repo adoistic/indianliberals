@@ -55,6 +55,12 @@ summary: |-
   The letter calls for the abolition of Food Zones and the removal of controls on sugar, criticises import and export controls and industrial licensing, and recommends that any necessary licensing be placed under an independent, quasi-judicial authority. It accepts a limited public sector where private enterprise cannot operate but condemns indiscriminate public-sector expansion, citing losses in major projects. The final sections reject additional taxation and public debt without a credible resource base, demand tax relief for heavily taxed citizens, and object to the Fourth Plan’s failure to address the cost of the Bokaro Steel Plant. The letter concludes that the Swatantra Party cannot accept responsibility for policies involving new projects, additional taxation, public debt, and inflation.
 ---
 
+## Summary
+
+This three-page letter, issued by the Swatantra Party Parliamentary Office on May 11, 1968, responds to the proposed paper on the “Approach to the Fourth Five-Year Plan” and is addressed to Prime Minister Indira Gandhi. N. G. Ranga says the party is willing to cooperate in nation-building but will not participate in discussions until the government demonstrates an open mind toward the other parties. The letter distinguishes opposition to planning from opposition to the government’s use of planning as a system of controls, licences, and permits, which Ranga argues has encouraged corruption, patronage, and political dependence.
+
+The letter calls for the abolition of Food Zones and the removal of controls on sugar, criticises import and export controls and industrial licensing, and recommends that any necessary licensing be placed under an independent, quasi-judicial authority. It accepts a limited public sector where private enterprise cannot operate but condemns indiscriminate public-sector expansion, citing losses in major projects. The final sections reject additional taxation and public debt without a credible resource base, demand tax relief for heavily taxed citizens, and object to the Fourth Plan’s failure to address the cost of the Bokaro Steel Plant. The letter concludes that the Swatantra Party cannot accept responsibility for policies involving new projects, additional taxation, public debt, and inflation.
+
 ## Key points
 
 - The Swatantra Party conditions cooperation on the government’s willingness to consider opposition parties’ views in planning.

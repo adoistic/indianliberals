@@ -45,6 +45,10 @@ summary: |-
   This single-page English letter, dated 20 October 1959, is addressed to A. A. Jasdenvala, Esq. The unidentified sender thanks Jasdenvala for a generous contribution to the funds of the Swatantra Party and expresses appreciation for his action.
 ---
 
+## Summary
+
+This single-page English letter, dated 20 October 1959, is addressed to A. A. Jasdenvala, Esq. The unidentified sender thanks Jasdenvala for a generous contribution to the funds of the Swatantra Party and expresses appreciation for his action.
+
 ## Key points
 
 - The letter is dated 20 October 1959.

@@ -51,6 +51,12 @@ summary: |-
   Masani argues that frank and free discussion requires protection from press leakage and publication. He proposes applying to Consultative Committees the same confidentiality principle used for Parliamentary Committees under Rule 275 of the Lok Sabha's Rules of Procedure and Conduct of Business. Rather than prescribing a specific amendment, he asks the Rules Committee to determine the proper procedural remedy and requests that the letter be placed before its next meeting. Copies were sent to K. Raghunath Ramiah, Minister of Parliamentary Affairs, and D. N. Patodia.
 ---
 
+## Summary
+
+In this letter dated December 17, 1969, M. R. Masani writes from Parliament House to the Speaker and Chairman of the Lok Sabha Rules Committee about the confidentiality and reporting of Consultative Committee proceedings. He says that members have been unable to obtain reliable reports of what occurs in the committees, while press reports and government briefings appear biased.
+
+Masani argues that frank and free discussion requires protection from press leakage and publication. He proposes applying to Consultative Committees the same confidentiality principle used for Parliamentary Committees under Rule 275 of the Lok Sabha's Rules of Procedure and Conduct of Business. Rather than prescribing a specific amendment, he asks the Rules Committee to determine the proper procedural remedy and requests that the letter be placed before its next meeting. Copies were sent to K. Raghunath Ramiah, Minister of Parliamentary Affairs, and D. N. Patodia.
+
 ## Key points
 
 - Masani criticizes the lack of reliable reports about proceedings in Consultative Committees of the Ministries of External Affairs and Transport.

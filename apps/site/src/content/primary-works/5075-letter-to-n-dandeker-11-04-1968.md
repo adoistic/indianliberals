@@ -51,6 +51,12 @@ summary: |-
   Masani also encloses a letter from Babubhai Vaidya, explaining that it contains information relevant to the National Executive and the Central Parliamentary Board. The visible page records the transmission of these materials but does not include the enclosed correspondence or the substantive recommendations to which Masani refers.
 ---
 
+## Summary
+
+In this letter dated 11 April 1968, M. R. Masani forwards N. Dandekar a copy of a letter addressed to Professor Ranga. He asks Dandekar to bring it to the attention of the Swatantra Party's National Executive and to secure suitable action along the lines proposed in the letter's penultimate paragraph.
+
+Masani also encloses a letter from Babubhai Vaidya, explaining that it contains information relevant to the National Executive and the Central Parliamentary Board. The visible page records the transmission of these materials but does not include the enclosed correspondence or the substantive recommendations to which Masani refers.
+
 ## Key points
 
 - The letter is dated 11 April 1968 and is addressed by M. R. Masani to N. Dandekar.

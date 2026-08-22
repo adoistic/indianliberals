@@ -48,6 +48,12 @@ summary: |-
   The second rendered page is principally the addressed inland-letter card/envelope and does not add substantive correspondence. No printed title, publisher, or full sender address is visible. The letter is predominantly in Hindi, with a short English note at the foot of the first page.
 ---
 
+## Summary
+
+This two-page Hindi handwritten letter, apparently written by Ranjit Singh to Minoo Masani, acknowledges receipt of Masani’s letter and continues a discussion concerning farmers, agriculture, and political activity. The handwriting is difficult to read in places, but the visible text includes thanks, references to agricultural concerns, and an appeal or request directed to Masani. The letter appears to have been written on or around 4 April 1971; an official stamp records its receipt on 18 April 1971.
+
+The second rendered page is principally the addressed inland-letter card/envelope and does not add substantive correspondence. No printed title, publisher, or full sender address is visible. The letter is predominantly in Hindi, with a short English note at the foot of the first page.
+
 ## Key points
 
 - The document is a private letter from the signatory Ranjit Singh to Minoo Masani.

@@ -52,6 +52,12 @@ summary: |-
   Masani then turns to India, warning that citizens and newspapers have become too deferential to governments and political leaders. He criticizes the press for repeating official slogans, avoiding direct criticism, and treating foreign-policy claims—especially claims about China and Panch Shila—with complacency. The essay concludes that support for a government in a national crisis must not become blind or unconditional: a vital democratic press must retain the courage to expose faulty policies, while parties, press, and people must work together to preserve individual freedom.
 ---
 
+## Summary
+
+In this three-page essay, M. R. Masani presents the democratic state as a pyramid whose authority must flow between government and people through political parties and, above all, a free press. He argues that authoritarian systems sever this connection, while democracy depends on public opinion as the channel through which citizens can scrutinize and restrain power. Newspapers may be partisan and imperfect, but their central virtue is their ability to bring authority before informed public judgment.
+
+Masani then turns to India, warning that citizens and newspapers have become too deferential to governments and political leaders. He criticizes the press for repeating official slogans, avoiding direct criticism, and treating foreign-policy claims—especially claims about China and Panch Shila—with complacency. The essay concludes that support for a government in a national crisis must not become blind or unconditional: a vital democratic press must retain the courage to expose faulty policies, while parties, press, and people must work together to preserve individual freedom.
+
 ## Key points
 
 - Democratic authority is mediated through political parties, public opinion, and the press.

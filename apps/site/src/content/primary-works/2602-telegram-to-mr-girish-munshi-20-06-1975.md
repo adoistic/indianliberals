@@ -49,6 +49,12 @@ summary: |-
   The document is a typescript/carbon-copy record on an Indian Posts and Telegraphs Department form. The sender is not clearly identified in the printed text; “SRIKUMAR” appears at the end of the message, but the surviving scan does not establish whether this is a sender name or another notation. The reverse page is largely blank apart from handwritten annotations.
 ---
 
+## Summary
+
+This two-page English telegram, dated 20 June 1975 and addressed to Girish Munshi, conveys a brief political assessment and a proposed organisational response. Its central message is that Jayaprakash Narayan (“JP”) is unlikely to become a politician, while Tamil Nadu is being considered for a federal-type organisation. The sender says that GKS will be consulted and that a detailed response will follow.
+
+The document is a typescript/carbon-copy record on an Indian Posts and Telegraphs Department form. The sender is not clearly identified in the printed text; “SRIKUMAR” appears at the end of the message, but the surviving scan does not establish whether this is a sender name or another notation. The reverse page is largely blank apart from handwritten annotations.
+
 ## Key points
 
 - The telegram is addressed to Girish Munshi and is dated 20 June 1975.

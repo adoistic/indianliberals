@@ -50,6 +50,12 @@ summary: |-
   Masani withdraws an invitation for Rajagopalachari to visit Belgaum, explaining that the arrangement depends on Rajagopalachari’s standing there with Jansangh support and on political priorities elsewhere. He attributes his inability to visit Belgaum to ill health or the parliamentary board meeting and asks Rajagopalachari to instruct Katti not to announce the visit.
 ---
 
+## Summary
+
+This one-page express telegram, sent by Masani from Bombay to C. Rajagopalachari in Madras on 13 April 1963, concerns an overdue parliamentary board meeting and immediate political arrangements. The sender asks Rajagopalachari to convene the meeting in Madras on 22 or 23 April to consider the Gujarat Party’s recommendation concerning the Rajkot by-election and other business.
+
+Masani withdraws an invitation for Rajagopalachari to visit Belgaum, explaining that the arrangement depends on Rajagopalachari’s standing there with Jansangh support and on political priorities elsewhere. He attributes his inability to visit Belgaum to ill health or the parliamentary board meeting and asks Rajagopalachari to instruct Katti not to announce the visit.
+
 ## Key points
 
 - The telegram asks for a parliamentary board meeting in Madras on 22 or 23 April 1963.

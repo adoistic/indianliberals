@@ -51,6 +51,12 @@ summary: |-
   The report says the Swatantra Executive was disappointed by the abandonment of efforts to establish a democratic alliance with a common programme. Minoo Masani is quoted as favouring a limited common programme, while opposing cooperation with the CPI or CPM. The clipping also records the party's reservations about the Election Commission's abandoned election-broadcasting scheme and notes that the party's national convention was postponed to January 30–31, when its election manifesto would be discussed.
 ---
 
+## Summary
+
+This one-page English newspaper clipping reports from Madras on January 8, 1971, that the National Executive of the Swatantra Party unanimously decided to join a newly formed Front comprising the Organisation Congress, the Jan Sangh, and the Samyukta Socialist Party. The decision followed what the report describes as an assurance from the Congress (O) president that no communist party would be allowed to associate with the Front.
+
+The report says the Swatantra Executive was disappointed by the abandonment of efforts to establish a democratic alliance with a common programme. Minoo Masani is quoted as favouring a limited common programme, while opposing cooperation with the CPI or CPM. The clipping also records the party's reservations about the Election Commission's abandoned election-broadcasting scheme and notes that the party's national convention was postponed to January 30–31, when its election manifesto would be discussed.
+
 ## Key points
 
 - The Swatantra Party's National Executive decided to join a three-party Front.

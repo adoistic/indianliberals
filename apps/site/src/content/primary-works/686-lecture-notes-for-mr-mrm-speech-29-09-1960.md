@@ -58,6 +58,12 @@ summary: |-
   Pages 2–4 contain notes for a separate talk, “Should Corporate Enterprises Finance Political Parties?”, dated 16 September 1960. These pages argue that business enterprises must act as citizens and participate responsibly in public life, while raising concerns about corporate political influence and the use of shareholders’ money. The notes compare British and American practice, cite corporate political-education programmes in the United States, and discuss Indian law permitting corporate contributions to charitable and other purposes. The central issues are limits on money power, the danger of parties becoming dependent on big business, whether voluntary control can work in a planned economy, and the risk that vested interests will produce further corruption.
 ---
 
+## Summary
+
+This four-page English-language scan contains notes for two apparently separate talks. The first page outlines a speech celebrating Nigeria’s independence, emphasizing the country’s prospects as a strong, stable, democratic state within the Commonwealth. The notes stress economic prosperity, educational and social progress, federalism as a safeguard for local and regional autonomy, and an opposition party as a protection against personal rule. They also advocate an internationalist posture: Nigeria should avoid an exclusive “African bloc,” reject racialism in either direction, and participate fully in the human community.
+
+Pages 2–4 contain notes for a separate talk, “Should Corporate Enterprises Finance Political Parties?”, dated 16 September 1960. These pages argue that business enterprises must act as citizens and participate responsibly in public life, while raising concerns about corporate political influence and the use of shareholders’ money. The notes compare British and American practice, cite corporate political-education programmes in the United States, and discuss Indian law permitting corporate contributions to charitable and other purposes. The central issues are limits on money power, the danger of parties becoming dependent on big business, whether voluntary control can work in a planned economy, and the risk that vested interests will produce further corruption.
+
 ## Key points
 
 - The scan combines notes for a Nigeria-independence speech with notes for a separate talk on corporate finance of political parties.

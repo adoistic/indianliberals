@@ -63,6 +63,12 @@ summary: |-
   The interview extends this argument to agriculture, inequality, party organisation, electoral reform, and foreign policy. Masani defends peasant proprietorship and decentralised ownership, proposes an income floor rather than an income ceiling, and favours minimum regulation against exploitation and anti-social conduct. He describes the party's political identity as a fusion of Gandhian ideas with modern liberal principles, while explicitly rejecting austerity and absolute pacifism. On foreign affairs, he takes a strongly anti-communist position on Vietnam and advocates proportional representation to correct what he sees as the distortions of India's first-past-the-post electoral system. The transcript ends while discussing the Swatantra Party's policy toward communism and communist infiltration.
 ---
 
+## Summary
+
+This 5 October 1966 interview presents M. R. Masani's account of the Swatantra Party as a hybrid political formation: liberal in its commitment to competition and individual initiative, conservative in some of its social composition, and peasant-oriented because its electoral strength lies among small landowners. Masani rejects both indiscriminate state ownership and an absolute opposition to public enterprise. He argues that state monopolies should be opened to competition, that inefficient or loss-making enterprises may be transferred to private management, and that the state should concentrate on infrastructure—water, electricity, roads, transport, telecommunications, and technical training—rather than producing everything from ice-cream machines to steel.
+
+The interview extends this argument to agriculture, inequality, party organisation, electoral reform, and foreign policy. Masani defends peasant proprietorship and decentralised ownership, proposes an income floor rather than an income ceiling, and favours minimum regulation against exploitation and anti-social conduct. He describes the party's political identity as a fusion of Gandhian ideas with modern liberal principles, while explicitly rejecting austerity and absolute pacifism. On foreign affairs, he takes a strongly anti-communist position on Vietnam and advocates proportional representation to correct what he sees as the distortions of India's first-past-the-post electoral system. The transcript ends while discussing the Swatantra Party's policy toward communism and communist infiltration.
+
 ## Key points
 
 - Masani characterises the Swatantra Party as a liberal-conservative-peasant party rather than a uniformly conservative organisation.

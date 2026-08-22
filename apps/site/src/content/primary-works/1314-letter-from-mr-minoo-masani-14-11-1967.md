@@ -49,6 +49,12 @@ summary: |-
   Masani asks whether, in light of these views, the Government will reconsider Dhawan’s appointment. The letter therefore combines a foreign-policy concern about Indo-British relations with a governance question about the suitability of a senior diplomatic appointment.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani, dated November 14, 1967, addresses the Prime Minister about S. S. Dhawan’s designation as High Commissioner to the United Kingdom. Masani cites an article by Dhawan in Bilitz dated January 29, 1966, which expresses the view that Britain had acted treacherously toward India and did not regard a strong India as being in its interests.
+
+Masani asks whether, in light of these views, the Government will reconsider Dhawan’s appointment. The letter therefore combines a foreign-policy concern about Indo-British relations with a governance question about the suitability of a senior diplomatic appointment.
+
 ## Key points
 
 - The letter is dated November 14, 1967, and was sent from New Delhi to the Prime Minister.

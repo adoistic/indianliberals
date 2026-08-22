@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated 27 March 1963, is from C. Rajagopalachari to M. R. Masani, then General Secretary of the Swatantra Party. Rajagopalachari responds to Masani's letter and an accompanying newspaper clipping in a deeply disappointed and emotionally direct tone.
 ---
 
+## Summary
+
+This one-page letter, dated 27 March 1963, is from C. Rajagopalachari to M. R. Masani, then General Secretary of the Swatantra Party. Rajagopalachari responds to Masani's letter and an accompanying newspaper clipping in a deeply disappointed and emotionally direct tone.
+
 ## Key points
 
 - The letter is dated 27 March 1963 and is addressed to M. R. Masani.

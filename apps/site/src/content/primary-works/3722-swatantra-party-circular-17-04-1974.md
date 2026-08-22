@@ -51,6 +51,12 @@ summary: |-
   The circular presents the proposed merger as a matter of major importance for the Swatantra Party's role in Indian politics. It urges every member of the State Council to attend so that the issue can be discussed in full detail. The document is signed by Girish Munshi, identified as General Secretary.
 ---
 
+## Summary
+
+This one-page circular, issued by the Swatantra Party, Maharashtra, on 17 April 1974, announces an urgent meeting of the party's State Council in Bombay on 27 April 1974. The stated agenda is to consider the National Executive's resolutions of 6 April 1974, including the proposed merger of the Swatantra Party with seven other Democratic Opposition Parties, review developments since the last party elections, and take up any other matter with the Chair's permission.
+
+The circular presents the proposed merger as a matter of major importance for the Swatantra Party's role in Indian politics. It urges every member of the State Council to attend so that the issue can be discussed in full detail. The document is signed by Girish Munshi, identified as General Secretary.
+
 ## Key points
 
 - The Swatantra Party, Maharashtra, called an urgent State Council meeting for 27 April 1974.

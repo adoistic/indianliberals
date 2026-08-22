@@ -48,6 +48,10 @@ summary: |-
   This one-page English telegram confirmation copy, dated 11 June 1966, records a message sent to Mr. Minoo Masani through the Swatantra Party. It confirms that a meeting with the Prime Minister had been fixed for Monday, 13 June, at 17:00 hours, and asks Masani to confirm his arrival.
 ---
 
+## Summary
+
+This one-page English telegram confirmation copy, dated 11 June 1966, records a message sent to Mr. Minoo Masani through the Swatantra Party. It confirms that a meeting with the Prime Minister had been fixed for Monday, 13 June, at 17:00 hours, and asks Masani to confirm his arrival.
+
 ## Key points
 
 - The document is marked "EXPRESS" and is formatted as a typed telegram.

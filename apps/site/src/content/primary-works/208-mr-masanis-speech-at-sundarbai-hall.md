@@ -58,6 +58,12 @@ summary: |-
   The address presents the election as more than a local upset. The speaker describes cooperation among opposition parties, civic and class groups, independent legislators, the press, and members of the former ruling family as a united front against Congress. He also alleges misuse of state authority during the campaign, including an incident in which a Muslim voter was taken from his home under false pretences and pressured to support Congress. The closing pages interpret Rajkot as evidence of a broader shift in public opinion, a warning that Congress must change its policies, and an opportunity for the Swatantra Party to build toward power in Gujarat by 1967. The document has no printed title, byline, date, venue, or publication imprint; the speaker is not formally identified on the rendered pages, although the text refers to “Mr. Masani.”
 ---
 
+## Summary
+
+This fifteen-page English transcript is a first-person political address about the Swatantra Party’s victory in the Rajkot election. The speaker attributes the result to widespread dissatisfaction with Congress rule, especially high taxes and prices, the Gold Control Order, perceived neglect of national defence, and the arbitrary or coercive implementation of government policy. He contrasts Congress’s confidence that Rajkot was a safe seat with the Swatantra campaign’s rapid organisation, political messaging, meetings, and mobilisation of young voters and local networks linking Rajkot with Bombay.
+
+The address presents the election as more than a local upset. The speaker describes cooperation among opposition parties, civic and class groups, independent legislators, the press, and members of the former ruling family as a united front against Congress. He also alleges misuse of state authority during the campaign, including an incident in which a Muslim voter was taken from his home under false pretences and pressured to support Congress. The closing pages interpret Rajkot as evidence of a broader shift in public opinion, a warning that Congress must change its policies, and an opportunity for the Swatantra Party to build toward power in Gujarat by 1967. The document has no printed title, byline, date, venue, or publication imprint; the speaker is not formally identified on the rendered pages, although the text refers to “Mr. Masani.”
+
 ## Key points
 
 - The speaker says Congress’s defeat reflected popular discontent with its administration rather than an accidental local fluctuation.

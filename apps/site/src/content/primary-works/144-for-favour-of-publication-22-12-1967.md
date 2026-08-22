@@ -55,6 +55,12 @@ summary: |-
   The note also criticizes Prime Minister Indira Gandhi’s visits to Moscow, the appointment of S. S. Dhawan as High Commissioner to London, and the Government’s handling of relations with Pakistan and China. Masani links these decisions to what he describes as Moscow’s changing attitude toward India, Soviet pressure from Beijing, and the Indian Communist Party’s alleged movement away from parliamentary democracy. He concludes that any decision concerning the Soviet Union should be made domestically, without foreign influence. The document contains no printed title or author byline and ends with an internal “Not for publication” signature block signed by A. P. Jain.
 ---
 
+## Summary
+
+This two-page press note, dated December 22, 1967, reports M. R. Masani’s criticism of the Indian Government’s alleged accommodation of the Soviet Union. Masani calls for revoking the Novosti agreement, investigating its approval without Cabinet or ministerial authorization, and allowing Aziz Ulong-Zade to choose his future domicile without Soviet pressure. He presents Novosti, Soviet radio broadcasts, and related propaganda as evidence of an effort to influence Indian public life and foreign policy.
+
+The note also criticizes Prime Minister Indira Gandhi’s visits to Moscow, the appointment of S. S. Dhawan as High Commissioner to London, and the Government’s handling of relations with Pakistan and China. Masani links these decisions to what he describes as Moscow’s changing attitude toward India, Soviet pressure from Beijing, and the Indian Communist Party’s alleged movement away from parliamentary democracy. He concludes that any decision concerning the Soviet Union should be made domestically, without foreign influence. The document contains no printed title or author byline and ends with an internal “Not for publication” signature block signed by A. P. Jain.
+
 ## Key points
 
 - M. R. Masani accuses the Government of leaning toward the Soviet Union and urges protection of Aziz Ulong-Zade’s freedom of choice.

@@ -51,6 +51,12 @@ summary: |-
   In his reply dated 19 March, Raju thanks her for preserving the records and says he plans to visit Jaipur, possibly during the winter, to select the material he needs. He promises to return the papers after use so that they can be transferred to the University of Rajasthan. The exchange documents both the practical arrangements for researching the Swatantra Party and the contemporaneous concern with preserving politically significant archival material.
 ---
 
+## Summary
+
+This two-page English correspondence from March 1985 concerns S. V. Raju’s research on the Swatantra Party, particularly its activities in Rajasthan. In her letter dated 6 March, Rajmata of Jaipur says she has a substantial quantity of relevant material but considers it too bulky to send; she therefore proposes that someone visit Jaipur to identify and sort the papers needed for Raju’s thesis. She also notes that she has already given her Lok Sabha debates to the University of Rajasthan and is considering transferring her other Rajasthan-related papers there rather than to the University of Bombay.
+
+In his reply dated 19 March, Raju thanks her for preserving the records and says he plans to visit Jaipur, possibly during the winter, to select the material he needs. He promises to return the papers after use so that they can be transferred to the University of Rajasthan. The exchange documents both the practical arrangements for researching the Swatantra Party and the contemporaneous concern with preserving politically significant archival material.
+
 ## Key points
 
 - The correspondence comprises two letters exchanged in March 1985 between S. V. Raju and Rajmata of Jaipur.

@@ -55,6 +55,12 @@ summary: |-
   The meeting decided that members should not leave the capital without informing the party whip or a secretary, preferably in writing, so that the party could secure sufficient votes when dividing the House on important matters. Members were also asked to remain in Delhi on 28 April for elections to the Public Accounts, Estimates, and Public Undertakings Committees. Elections for Rajya Sabha office-bearers were scheduled for August, with the existing status quo continuing until then.
 ---
 
+## Summary
+
+This one-page English office record, issued by the Swatantra Party Parliamentary Office in New Delhi on 21 April 1964, records a party meeting held in the Party Committee Room at Central Hall, Parliament House. Prof. N. G. Ranga chaired the meeting, which was attended by M. R. Masani and fifteen other listed members. Kapur Singh signed the record as secretary.
+
+The meeting decided that members should not leave the capital without informing the party whip or a secretary, preferably in writing, so that the party could secure sufficient votes when dividing the House on important matters. Members were also asked to remain in Delhi on 28 April for elections to the Public Accounts, Estimates, and Public Undertakings Committees. Elections for Rajya Sabha office-bearers were scheduled for August, with the existing status quo continuing until then.
+
 ## Key points
 
 - The Swatantra Party held a meeting on 21 April 1964 in Central Hall, Parliament House, New Delhi.

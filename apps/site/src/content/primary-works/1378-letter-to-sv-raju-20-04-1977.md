@@ -49,6 +49,12 @@ summary: |-
   Singh's position is pragmatic and revisionist: he accepted the Congress-O constitution with necessary alterations because he believed it could be amended whenever circumstances required. The document is therefore both a brief administrative clarification and a statement about the continuity and adaptability of party constitutional arrangements.
 ---
 
+## Summary
+
+In this letter dated 20 April 1977, Bhanu Pratap Singh replies to S. V. Raju, first correcting the address to which Raju had been sending correspondence and explaining that Singh is no longer a member of the ruling party. Singh then reflects on his limited involvement in drafting the Janata Party Constitution. Although he served on the relevant sub-committee, he says he took little interest in the work and instead supported making only suitable amendments to the existing Congress-O party constitution.
+
+Singh's position is pragmatic and revisionist: he accepted the Congress-O constitution with necessary alterations because he believed it could be amended whenever circumstances required. The document is therefore both a brief administrative clarification and a statement about the continuity and adaptability of party constitutional arrangements.
+
 ## Key points
 
 - The letter is dated 20 April 1977 and is addressed to S. V. Raju.

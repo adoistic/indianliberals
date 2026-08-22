@@ -50,6 +50,12 @@ summary: |-
   The agenda comprises confirmation of the minutes of the previous meeting held on October 22, 1971; consideration and approval of a draft election manifesto for the ensuing Assembly elections; and any other matter permitted by the Chair. The notice is signed by P. Narayan, identified as Office Secretary.
 ---
 
+## Summary
+
+This one-page English notice, issued by the Swatantra Party's Bombay Region on November 13, 1971, announces a forthcoming meeting of the Party's Executive Committee. The meeting is scheduled for Wednesday, November 24, 1971, from 6:00 to 8:15 p.m. at the Party office in Sassoon Building, 143 Mahatma Gandhi Road, Bombay 1, and recipients are invited to attend.
+
+The agenda comprises confirmation of the minutes of the previous meeting held on October 22, 1971; consideration and approval of a draft election manifesto for the ensuing Assembly elections; and any other matter permitted by the Chair. The notice is signed by P. Narayan, identified as Office Secretary.
+
 ## Key points
 
 - The notice is issued by the Swatantra Party, Bombay Region, dated November 13, 1971.

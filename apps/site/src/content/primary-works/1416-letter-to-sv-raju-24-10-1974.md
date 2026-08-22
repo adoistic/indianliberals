@@ -50,6 +50,12 @@ summary: |-
   The immediate organisational objective is to mobilise supporters, initiate a civil suit if necessary, and cooperate in strengthening the party in Punjab, Haryana, Rajasthan, Gujarat, Uttar Pradesh, and Andhra. The letter presents these activities as a shared political project and requests an urgent reply. The second rendered page shows the inland-letter envelope addressed to Raju; it contains no additional substantive text.
 ---
 
+## Summary
+
+This two-page letter, dated 24 October 1974, was sent from the Madras District Swatantra Party office to S. V. Raju in Bombay. V. S. Srikumar, identified as the party’s Secretary, asks Raju to follow up on an earlier letter and help identify reliable and enthusiastic workers or leaders in several states.
+
+The immediate organisational objective is to mobilise supporters, initiate a civil suit if necessary, and cooperate in strengthening the party in Punjab, Haryana, Rajasthan, Gujarat, Uttar Pradesh, and Andhra. The letter presents these activities as a shared political project and requests an urgent reply. The second rendered page shows the inland-letter envelope addressed to Raju; it contains no additional substantive text.
+
 ## Key points
 
 - The letter is dated 24 October 1974 and originates from the Madras District Swatantra Party office.

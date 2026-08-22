@@ -51,6 +51,12 @@ summary: |-
   Sreenivasan says he had no desire to return to the Forum’s executive and expresses hope that Raju will obtain a “congenial and satisfactorily remunerative job.” The enclosure, dated 13 October 1971, thanks Sreenivasan for his assistance and describes the political environment as one in which morality and discipline have been subordinated to expediency and opportunism. The pages seen document personal loyalties, organisational governance, and a sharp criticism of political ingratitude; they do not provide a broader account of the underlying dispute.
 ---
 
+## Summary
+
+This four-page English-language archival item consists primarily of a handwritten personal letter from V. T. Sreenivasan to “Raju,” dated 21 October 1971, with a typed letter from S. V. Raju enclosed. Sreenivasan recalls discussing Raju’s letter with Narayana Reddy, who regarded its sentiments as exceptionally well expressed. He then recounts a 1966 vacancy and his recommendation that Minoo Masani be appointed, followed by a later dispute over the presidency of the Forum of Free Enterprise and the exercise of presidential discretion under Article 11(b) of its Constitution.
+
+Sreenivasan says he had no desire to return to the Forum’s executive and expresses hope that Raju will obtain a “congenial and satisfactorily remunerative job.” The enclosure, dated 13 October 1971, thanks Sreenivasan for his assistance and describes the political environment as one in which morality and discipline have been subordinated to expediency and opportunism. The pages seen document personal loyalties, organisational governance, and a sharp criticism of political ingratitude; they do not provide a broader account of the underlying dispute.
+
 ## Key points
 
 - Sreenivasan writes to Raju on 21 October 1971 about Raju’s earlier letter and its reception.

@@ -55,6 +55,10 @@ summary: |-
   In this five-page pamphlet, M. R. Masani explains the Swatantra Party’s opposition to the nationalisation of fourteen Indian banks. He argues that the Government had not demonstrated a public-interest case, that less drastic measures such as social control were available, and that nationalisation would either be pointless and expensive or politically motivated and dangerous. The pamphlet advocates a mixed economy in which state and private enterprises compete on equal terms, with the burden of proving the need for nationalisation resting on the Government.
 ---
 
+## Summary
+
+In this five-page pamphlet, M. R. Masani explains the Swatantra Party’s opposition to the nationalisation of fourteen Indian banks. He argues that the Government had not demonstrated a public-interest case, that less drastic measures such as social control were available, and that nationalisation would either be pointless and expensive or politically motivated and dangerous. The pamphlet advocates a mixed economy in which state and private enterprises compete on equal terms, with the burden of proving the need for nationalisation resting on the Government.
+
 ## Key points
 
 - The pamphlet restates the Swatantra Party’s 1967 opposition to bank nationalisation and argues that the Government failed to justify the measure.

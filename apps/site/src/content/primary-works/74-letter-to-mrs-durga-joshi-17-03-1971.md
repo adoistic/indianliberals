@@ -45,6 +45,10 @@ summary: |-
   This one-page English letter from Minoo Masani, dated 17 March 1971, acknowledges a telegram sent by Miss Durga Joshi on the 13th. Masani expresses appreciation for Joshi’s kind sentiment and closes with a formal sign-off.
 ---
 
+## Summary
+
+This one-page English letter from Minoo Masani, dated 17 March 1971, acknowledges a telegram sent by Miss Durga Joshi on the 13th. Masani expresses appreciation for Joshi’s kind sentiment and closes with a formal sign-off.
+
 ## Key points
 
 - The document is a one-page typed office letter dated 17 March 1971.

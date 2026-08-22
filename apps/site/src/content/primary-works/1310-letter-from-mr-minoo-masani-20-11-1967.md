@@ -50,6 +50,12 @@ summary: |-
   Masani asks the Speaker to intervene, arguing that the request should not be lightly refused because the nomination has not yet left the country and the question is being raised by a senior member of the House and the Deputy Leader of the largest opposition party. He requests that the Minister accept the short notice and answer the question on November 21 or 22, before Masani's scheduled departure from Delhi.
 ---
 
+## Summary
+
+In this one-page letter dated November 20, 1967, M. R. Masani writes from New Delhi to the Speaker of the Lok Sabha about a short-notice parliamentary question concerning the nomination of the High Commissioner-designate to the United Kingdom. He reports that the Minister of External Affairs has declined to accept the short notice requested for the question.
+
+Masani asks the Speaker to intervene, arguing that the request should not be lightly refused because the nomination has not yet left the country and the question is being raised by a senior member of the House and the Deputy Leader of the largest opposition party. He requests that the Minister accept the short notice and answer the question on November 21 or 22, before Masani's scheduled departure from Delhi.
+
 ## Key points
 
 - The letter is dated November 20, 1967, and is addressed to the Speaker of the Lok Sabha.

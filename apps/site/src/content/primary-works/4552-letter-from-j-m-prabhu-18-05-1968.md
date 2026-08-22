@@ -49,6 +49,12 @@ summary: |-
   Prabhu broadens the episode into a diagnosis of declining political character in India. He attributes the prevalence of defections to the absence of a national “political multivitamin,” criticises Congress for failing to provide it, and questions the Swatantra Party’s “Hate congress” and “throw the congress out” approach. The letter concludes by urging Masani and his colleagues to remove such elements from the party and refuse to accept defectors from other parties until they have faced the electorate, treating the Gujarat episode as a warning of wider political trouble.
 ---
 
+## Summary
+
+In this two-page letter dated 18 May 1968, J. M. Prabhu asks the editor of the Economic Times to publish his commentary, titled “Crisis of Character,” in the newspaper’s “Letter to the Editor” column. He praises M. R. Masani for refusing pressure from party colleagues to withdraw his resignation from the Swatantra Party’s Parliamentary Board and National Executive, presenting the decision as an example of courage, conviction, and commitment to democratic process. Prabhu argues that political principles should take precedence over party loyalty and that “means” matter as much as “goal.”
+
+Prabhu broadens the episode into a diagnosis of declining political character in India. He attributes the prevalence of defections to the absence of a national “political multivitamin,” criticises Congress for failing to provide it, and questions the Swatantra Party’s “Hate congress” and “throw the congress out” approach. The letter concludes by urging Masani and his colleagues to remove such elements from the party and refuse to accept defectors from other parties until they have faced the electorate, treating the Gujarat episode as a warning of wider political trouble.
+
 ## Key points
 
 - Prabhu supports M. R. Masani’s refusal to withdraw his resignation from the Swatantra Party’s Parliamentary Board and National Executive.

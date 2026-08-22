@@ -46,6 +46,10 @@ summary: |-
   This one-page English letter, dated 18 September 1959, is addressed to G. P. Bhatnagar, Publicity Secretary of the Swatantra Party in Saharanpur. Miss B. S. Mirza, writing as secretary to M. R. Masani, acknowledges Bhatnagar’s letter of 14 September and explains that Masani is currently abroad.
 ---
 
+## Summary
+
+This one-page English letter, dated 18 September 1959, is addressed to G. P. Bhatnagar, Publicity Secretary of the Swatantra Party in Saharanpur. Miss B. S. Mirza, writing as secretary to M. R. Masani, acknowledges Bhatnagar’s letter of 14 September and explains that Masani is currently abroad.
+
 ## Key points
 
 - The letter is dated 18 September 1959.

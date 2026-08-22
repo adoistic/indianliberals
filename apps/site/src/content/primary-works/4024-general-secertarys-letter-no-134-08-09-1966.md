@@ -47,6 +47,10 @@ summary: |-
   Dated 8 September 1966, this one-page letter from Minoo Masani, General Secretary of the Swatantra Party, announces the venue and dates of the party's next National Convention. The convention was scheduled to take place at Sapru House in New Delhi on Wednesday and Thursday, 16–17 November 1966.
 ---
 
+## Summary
+
+Dated 8 September 1966, this one-page letter from Minoo Masani, General Secretary of the Swatantra Party, announces the venue and dates of the party's next National Convention. The convention was scheduled to take place at Sapru House in New Delhi on Wednesday and Thursday, 16–17 November 1966.
+
 ## Key points
 
 - The document is headed “GENERAL SECRETARY'S LETTER NO. 134.”

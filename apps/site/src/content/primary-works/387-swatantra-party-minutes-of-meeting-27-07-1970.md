@@ -57,6 +57,12 @@ summary: |-
   The committee declined to support a proposed no-confidence motion concerning the Government’s failure to hold early elections in West Bengal, while leaving a second motion on electoral rolls in Kerala for decision after a leaders’ meeting. It resolved to table motions concerning the cotton and foodgrains trades, floor violence and extremist activity in educational institutions, and a privilege motion relating to the Bombay Police. The minutes also record support for the Indigenous System of Medicine Bill, opposition to proposed constitutional Rules amendments, withdrawal of members’ signatures from petitions seeking the impeachment of a Supreme Court judge, and M. R. Masani’s account of a proposed three-party alliance. The second page assigns party members to speak on five legislative or policy items, including postal services, contract labour, Delhi shops and establishments, architecture, and an Indian fertiliser plant.
 ---
 
+## Summary
+
+These two pages record the Swatantra Party Executive Committee meeting held on 26 July 1970 in Parliament House, New Delhi; the minutes were issued the following day by the party’s Parliamentary Office and signed by Secretary R. K. Amin. The attendance list includes Prof. N. G. Ranga in the chair, M. R. Masani, Piloo Mody, R. K. Amin, and other party members, with Dr. R. C. Cooper present as a special invitee.
+
+The committee declined to support a proposed no-confidence motion concerning the Government’s failure to hold early elections in West Bengal, while leaving a second motion on electoral rolls in Kerala for decision after a leaders’ meeting. It resolved to table motions concerning the cotton and foodgrains trades, floor violence and extremist activity in educational institutions, and a privilege motion relating to the Bombay Police. The minutes also record support for the Indigenous System of Medicine Bill, opposition to proposed constitutional Rules amendments, withdrawal of members’ signatures from petitions seeking the impeachment of a Supreme Court judge, and M. R. Masani’s account of a proposed three-party alliance. The second page assigns party members to speak on five legislative or policy items, including postal services, contract labour, Delhi shops and establishments, architecture, and an Indian fertiliser plant.
+
 ## Key points
 
 - The document records a Swatantra Party Executive Committee meeting held on 26 July 1970 and dated 27 July 1970.

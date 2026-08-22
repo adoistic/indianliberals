@@ -50,6 +50,12 @@ summary: |-
   He also urges Singh to make the Rajasthan organisation a “poor man's party,” stressing that poverty cuts across social classes. The letter is copied to S. Y. Krishnaswamy and Sir Homi Mody, and shows Rajagopalachari linking the party’s organisational strategy to local financial independence and an explicitly broad social base.
 ---
 
+## Summary
+
+In this letter dated 6 October 1959, C. Rajagopalachari responds to Kalyan Singh regarding financial assistance for Swatantra Party work in Rajasthan. He welcomes the assurance that monthly help will be provided, but asks that it be spent on “good and useful purposes.” Rajagopalachari presents regional self-sufficiency as the proper objective, warning that reliance on outside resources can produce apathy among local supporters and weaken the party financially and politically.
+
+He also urges Singh to make the Rajasthan organisation a “poor man's party,” stressing that poverty cuts across social classes. The letter is copied to S. Y. Krishnaswamy and Sir Homi Mody, and shows Rajagopalachari linking the party’s organisational strategy to local financial independence and an explicitly broad social base.
+
 ## Key points
 
 - Rajagopalachari acknowledges a proposed arrangement for monthly financial assistance to party work.

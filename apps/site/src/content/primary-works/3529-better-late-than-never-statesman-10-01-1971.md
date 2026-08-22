@@ -54,6 +54,12 @@ summary: |-
   The editorial acknowledges Minoo Masani’s concern that the alliance should be based on a common programme rather than merely on opposition to the government. It nevertheless argues that political alliances often begin from imperfect choices and that cooperation can develop through shared action. The presence of the Swatantra Party is described as a safeguard against bilateral deals between the SSP and CPI(M), while C. Rajagopalachari’s counsel is credited with helping consolidate democratic forces.
 ---
 
+## Summary
+
+The editorial welcomes the Swatantra Party’s decision to join the National Democratic Front, arguing that the move responds to growing concern over Indira Gandhi’s increasingly authoritarian style of government and the Congress split. It presents the alliance as a long-awaited effort by opposition parties to offer a clearer democratic alternative, while criticizing the Prime Minister’s combination of radical socialist rhetoric and authoritarian practice.
+
+The editorial acknowledges Minoo Masani’s concern that the alliance should be based on a common programme rather than merely on opposition to the government. It nevertheless argues that political alliances often begin from imperfect choices and that cooperation can develop through shared action. The presence of the Swatantra Party is described as a safeguard against bilateral deals between the SSP and CPI(M), while C. Rajagopalachari’s counsel is credited with helping consolidate democratic forces.
+
 ## Key points
 
 - The Swatantra Party’s entry into the National Democratic Front is welcomed as a response to concern about the direction of Indian politics.

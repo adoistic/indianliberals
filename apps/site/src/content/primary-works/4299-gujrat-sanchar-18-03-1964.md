@@ -51,6 +51,12 @@ summary: |-
   The report also highlights divisions within the Swatantra Party: Rajaji and Minoo Masani welcomed Sheikh Abdullah's release and supported an independent Kashmir and the people's verdict, while Munshi described the release as a deliberate creation of trouble. In a final assessment of central governance after the Prime Minister's illness, Munshi argues that the Central Government is not becoming stronger and lacks the power to resolve the difficult questions before it.
 ---
 
+## Summary
+
+This one-page Gujarat Samachar report, dated 18 March 1964, presents K. M. Munshi's criticism of the Government's decision to release Sheikh Abdullah and withdraw its case. Munshi argues that Kashmir cannot constitutionally be separated from India and says that, following accession under the Constitution, there is no scope for a separate popular verdict. He points to three elections in which Kashmiris, he says, accepted unity with India.
+
+The report also highlights divisions within the Swatantra Party: Rajaji and Minoo Masani welcomed Sheikh Abdullah's release and supported an independent Kashmir and the people's verdict, while Munshi described the release as a deliberate creation of trouble. In a final assessment of central governance after the Prime Minister's illness, Munshi argues that the Central Government is not becoming stronger and lacks the power to resolve the difficult questions before it.
+
 ## Key points
 
 - K. M. Munshi says the Government deliberately created trouble by releasing Sheikh Abdullah and withdrawing its case.

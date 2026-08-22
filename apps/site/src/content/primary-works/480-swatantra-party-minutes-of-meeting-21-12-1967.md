@@ -52,6 +52,12 @@ summary: |-
   The minutes also record the Party's position on whether its members should join inter-party Consultative Committees. Participation was made conditional on the Minister for Parliamentary Affairs accepting demands for statutory status, proper record-keeping, and limits on committee size. Finally, the committee approved three names for a South India team studying state projects. The document has no printed formal title or author byline and is signed by C. C. Desai as Secretary.
 ---
 
+## Summary
+
+This two-page office record documents a meeting of the Swatantra Party Parliamentary Office Executive Committee held in Parliament House, New Delhi, on 21 December 1967. It lists the members and special invitees present, records the Party's decision to support Madhu Limaye's privilege motion against Shri Srikant Naik for breaking the glass of a lobby door, and assigns speakers to several parliamentary bills, including the Essential Commodities Bill, the Haryana State Legislature (Delegation of Powers) Bill, the Monopolies and Restrictive Trade Practices Bill, and the Insecticides Bill.
+
+The minutes also record the Party's position on whether its members should join inter-party Consultative Committees. Participation was made conditional on the Minister for Parliamentary Affairs accepting demands for statutory status, proper record-keeping, and limits on committee size. Finally, the committee approved three names for a South India team studying state projects. The document has no printed formal title or author byline and is signed by C. C. Desai as Secretary.
+
 ## Key points
 
 - The Executive Committee meeting took place at 3:00 p.m. on 21 December 1967 in the Party Room, Central Hall, Parliament House, New Delhi.

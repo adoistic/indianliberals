@@ -51,6 +51,12 @@ summary: |-
   The minutes set out an organisational timetable: petitions were to be prepared in different languages, local units were to complete their work and submit collected signatures to the State Office by 24 February, and the papers were to reach Delhi in time for parliamentary presentation. The Chairman also proposed an early press conference to explain the scheme. The members unanimously welcomed the plan and pledged their cooperation. The record ends with the meeting's termination at 5.00 p.m. and a vote of thanks to the Chair.
 ---
 
+## Summary
+
+These two pages record a special urgent meeting of Swatantra Party presidents, secretaries, and active workers held at the Bombay party office on 9 February 1974. Chaired by Girish Munshi, the meeting focused on launching an immediate campaign against indirect taxes on commodities of common consumption and for raising the personal income-tax exemption limit before the forthcoming Union Budget. The proposed campaign would collect mass signatures on a petition addressed to Piloo Mody, M.P., so that he could present it to Parliament later that month.
+
+The minutes set out an organisational timetable: petitions were to be prepared in different languages, local units were to complete their work and submit collected signatures to the State Office by 24 February, and the papers were to reach Delhi in time for parliamentary presentation. The Chairman also proposed an early press conference to explain the scheme. The members unanimously welcomed the plan and pledged their cooperation. The record ends with the meeting's termination at 5.00 p.m. and a vote of thanks to the Chair.
+
 ## Key points
 
 - A special urgent Swatantra Party meeting was held in Bombay on 9 February 1974.

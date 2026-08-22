@@ -49,6 +49,12 @@ summary: |-
   The sender directs Zamindar to contact Mr. S. Y. Krishnaswamy, identified as the party's General Secretary, at an address in Mandavellipakkam, Madras. The page contains no visible sender name or signature, so the author's identity cannot be established from the supplied scan.
 ---
 
+## Summary
+
+This one-page English letter, dated 14 September 1959 and written on Swatantra Party letterhead, responds to Mr. N. C. Zamindar's letter of 8 September. The unidentified sender says that the matter was received upon returning from Delhi that morning and clarifies that they are not currently handling remittances sent to any branch of the Swatantra Party.
+
+The sender directs Zamindar to contact Mr. S. Y. Krishnaswamy, identified as the party's General Secretary, at an address in Mandavellipakkam, Madras. The page contains no visible sender name or signature, so the author's identity cannot be established from the supplied scan.
+
 ## Key points
 
 - The letter is dated 14 September 1959.

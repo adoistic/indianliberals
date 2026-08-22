@@ -50,6 +50,12 @@ summary: |-
   The clipping weighs competing approaches to anti-defection legislation, including restrictions on legislators who change parties and possible consequences for governments that lose their majority. It stresses that any rule must be carefully qualified: a broad prohibition could unfairly penalise legitimate changes of allegiance, while a weak rule would fail to deter opportunistic defections. The article further considers whether mid-term elections should be triggered when a government loses its majority, and whether this remedy would be too drastic or impractical. The source, author, date, and publication are not identifiable from the mounted clipping.
 ---
 
+## Summary
+
+This damaged English newspaper clipping examines proposed measures to address defections and instability in legislative government. It considers whether ministries should be limited in size, suggesting that an excessive number of ministers can create opportunities for accommodating defectors and expanding ministerial office without genuine increases in workload. The article also discusses the proposed disqualification of legislators who defect and the difficulty of defining the circumstances in which a defection should attract penalties.
+
+The clipping weighs competing approaches to anti-defection legislation, including restrictions on legislators who change parties and possible consequences for governments that lose their majority. It stresses that any rule must be carefully qualified: a broad prohibition could unfairly penalise legitimate changes of allegiance, while a weak rule would fail to deter opportunistic defections. The article further considers whether mid-term elections should be triggered when a government loses its majority, and whether this remedy would be too drastic or impractical. The source, author, date, and publication are not identifiable from the mounted clipping.
+
 ## Key points
 
 - The article discusses legislative defections and proposed anti-defection legislation.

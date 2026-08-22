@@ -50,6 +50,12 @@ summary: |-
   Masani calls for a more realistic regional strategy centred on cooperation with Japan, the countries of South and South-East Asia, and, where necessary, the United States and Soviet Union. He presents Communist China as the principal threat to India's independence and democratic way of life, while treating Pakistan as a lesser but persistent danger requiring both firm short-term resistance and a longer-term effort toward normal relations. On Kashmir, he advocates distinguishing between pro-Pakistani elements and those merely opposed to Pakistan, and seeking a solution acceptable to both India and Kashmir's people. The essay's closing discussion stresses that neither the United States nor the Soviet Union is an unconditional friend: India should use their differing interests without replacing one illusion—'Hindi Chini Bhai Bhai'—with another.
 ---
 
+## Summary
+
+In this essay, based on a Lok Sabha speech delivered on 15 November 1965, M. R. Masani argues that India's foreign-policy difficulties were not primarily failures of diplomacy or public relations. He identifies three weaknesses: political naivety, a narcissistic belief in India's moral image, and self-righteousness toward other countries. The resulting isolation, he contends, has been exposed by the response to the conflicts with Communist China and Pakistan, as well as by India's strained relations with Asian neighbours.
+
+Masani calls for a more realistic regional strategy centred on cooperation with Japan, the countries of South and South-East Asia, and, where necessary, the United States and Soviet Union. He presents Communist China as the principal threat to India's independence and democratic way of life, while treating Pakistan as a lesser but persistent danger requiring both firm short-term resistance and a longer-term effort toward normal relations. On Kashmir, he advocates distinguishing between pro-Pakistani elements and those merely opposed to Pakistan, and seeking a solution acceptable to both India and Kashmir's people. The essay's closing discussion stresses that neither the United States nor the Soviet Union is an unconditional friend: India should use their differing interests without replacing one illusion—'Hindi Chini Bhai Bhai'—with another.
+
 ## Key points
 
 - Masani attributes India's foreign-policy failures to naivety, narcissism, and moral self-righteousness rather than to ineffective public relations.

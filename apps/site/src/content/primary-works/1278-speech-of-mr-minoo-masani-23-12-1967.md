@@ -55,6 +55,12 @@ summary: |-
   The central case is an agreement between India’s Press Information Bureau and Novosti, which Masani presents as granting a Soviet news organization access to Indian newspapers and periodicals. He contends that Novosti, Radio Peace and Progress, and Soviet official propaganda are institutionally connected, and challenges the government’s account of who authorized the agreement. He then broadens the argument to alleged official support for a pro-Soviet foreign-policy line, including the appointment of Mr. Dhawan and the Prime Minister’s visit to Moscow. The speech closes by warning that both Communist parties are moving toward an anti-democratic, insurrectionary position and endorsing Rajaji’s call to prevent them from exploiting constitutional democracy.
 ---
 
+## Summary
+
+In this Lok Sabha speech, Minoo Masani argues that the government’s professed policy of non-alignment is being undermined by a series of concessions to the Soviet Union. He begins by criticizing the Prime Minister’s generalities and calls for attention to concrete cases, including the treatment of Soviet defector Aziz Ouloug-Zade and the government’s handling of Soviet propaganda and information agencies in India.
+
+The central case is an agreement between India’s Press Information Bureau and Novosti, which Masani presents as granting a Soviet news organization access to Indian newspapers and periodicals. He contends that Novosti, Radio Peace and Progress, and Soviet official propaganda are institutionally connected, and challenges the government’s account of who authorized the agreement. He then broadens the argument to alleged official support for a pro-Soviet foreign-policy line, including the appointment of Mr. Dhawan and the Prime Minister’s visit to Moscow. The speech closes by warning that both Communist parties are moving toward an anti-democratic, insurrectionary position and endorsing Rajaji’s call to prevent them from exploiting constitutional democracy.
+
 ## Key points
 
 - Masani contrasts non-alignment as a declared policy with what he describes as a practical tilt toward the Soviet Union.

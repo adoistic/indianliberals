@@ -49,6 +49,12 @@ summary: |-
   Shah requests that, when her husband is moved from intensive care, he be transferred to a nursing home rather than kept under police guard. She argues that a nursing home would provide a more congenial environment and allow the family to arrange private nursing, with her undertaking to bear the accommodation and nursing costs.
 ---
 
+## Summary
+
+In this letter dated September 21, 1976, Anjana Shah writes to S. B. Chavan, Chief Minister of Maharashtra, about the condition and care of her husband, Viren Shah. She explains that he has suffered a heart attack and is being treated in the Intensive Care Unit at J. J. Hospital under M.I.S.A., expressing gratitude for the medical attention he has received.
+
+Shah requests that, when her husband is moved from intensive care, he be transferred to a nursing home rather than kept under police guard. She argues that a nursing home would provide a more congenial environment and allow the family to arrange private nursing, with her undertaking to bear the accommodation and nursing costs.
+
 ## Key points
 
 - Anjana Shah wrote to Maharashtra Chief Minister S. B. Chavan on September 21, 1976.

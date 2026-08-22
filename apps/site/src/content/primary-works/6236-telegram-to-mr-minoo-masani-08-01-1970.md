@@ -50,6 +50,12 @@ summary: |-
   The sender asks the recipient to refer to an earlier discussion and requests confirmation from Sundarmani Patel. The page does not identify the sender, does not clearly print a year, and includes an ambiguous telegraphic address for the recipient in Bombay.
 ---
 
+## Summary
+
+This one-page English telegram, sent on an Indian Posts and Telegraphs Department form, concerns arrangements for a Sundargarh District Conference in Rourkela. It states that the conference has been fixed for February 8, 9, and 10, and that a public meeting will take place on February 10.
+
+The sender asks the recipient to refer to an earlier discussion and requests confirmation from Sundarmani Patel. The page does not identify the sender, does not clearly print a year, and includes an ambiguous telegraphic address for the recipient in Bombay.
+
 ## Key points
 
 - The document is a one-page English telegram on an Indian Posts and Telegraphs Department form.

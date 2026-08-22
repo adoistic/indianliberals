@@ -49,6 +49,12 @@ summary: |-
   Patel then reports on efforts to strengthen the party's position in the Rajya Sabha by securing the cooperation of the Maharaja Sahib of Darbhanga, Shrimati Jaipalsingh, and Shri M. S. Oberoi, as well as by approaching independent members. He believes these efforts could allow the party to match or surpass the Communists, but is uncertain about his authority to communicate the proposed arrangement to the Rajya Sabha Secretary. The letter also touches on unresolved Gujarati accounts and vouchers, Patel's delayed personal affairs, and his disappointment that Masani's visit to Gujarat was not communicated to him.
 ---
 
+## Summary
+
+In this letter dated 28 May 1962, Dahyabhai Vallabhbhai Patel writes to Minoo Masani after the two men missed each other in Delhi. Patel discusses his role as acting leader of the Swatantra Party in the Rajya Sabha during the recently concluded session and expresses resentment at what he describes as humiliating treatment. He asks Masani what he proposes for the next session and questions whether he should continue occupying his Rajya Sabha seat for the party.
+
+Patel then reports on efforts to strengthen the party's position in the Rajya Sabha by securing the cooperation of the Maharaja Sahib of Darbhanga, Shrimati Jaipalsingh, and Shri M. S. Oberoi, as well as by approaching independent members. He believes these efforts could allow the party to match or surpass the Communists, but is uncertain about his authority to communicate the proposed arrangement to the Rajya Sabha Secretary. The letter also touches on unresolved Gujarati accounts and vouchers, Patel's delayed personal affairs, and his disappointment that Masani's visit to Gujarat was not communicated to him.
+
 ## Key points
 
 - Patel regrets missing Masani in Delhi and refers to matters that could have been clarified in person.

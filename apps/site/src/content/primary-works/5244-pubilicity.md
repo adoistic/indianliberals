@@ -52,6 +52,12 @@ summary: |-
   The paper proposes a series of inexpensive, short pamphlets in English and regional languages under the Swatantra Series, with subjects attacking Congress economic management, social and religious decline, the moral degeneration associated with the Communist Party, the weakening of democratic institutions and the personality cult surrounding leadership, the growth of the Communist Party, and India's foreign policy. It further recommends choosing and popularising a party emblem. The document is an internal communications and political-education plan rather than a developed statement of party doctrine.
 ---
 
+## Summary
+
+This confidential two-page Swatantra Party paper, dated 24 October 1959 and signed by K. M. Munshi, sets out a publicity programme for the newly formed party. It calls for an English weekly based in Bombay, regular news material for newspapers, and a dedicated publicity department able to supply factual background on party policies and counter the impression that only Rajaji, Ranga, Masani, Shenoy and a few others participated in the freedom struggle. It also recommends highlighting the freedom-fighter credentials of other party leaders, including B. Shiva Rao and several named colleagues.
+
+The paper proposes a series of inexpensive, short pamphlets in English and regional languages under the Swatantra Series, with subjects attacking Congress economic management, social and religious decline, the moral degeneration associated with the Communist Party, the weakening of democratic institutions and the personality cult surrounding leadership, the growth of the Communist Party, and India's foreign policy. It further recommends choosing and popularising a party emblem. The document is an internal communications and political-education plan rather than a developed statement of party doctrine.
+
 ## Key points
 
 - The party should begin a new English weekly from Bombay rather than rely on an existing publication.

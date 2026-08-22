@@ -52,6 +52,12 @@ summary: |-
   The report describes the BKD’s proposal for all-India parties and state-level groups, except Congress, Jan Sangh, and Marxists, to unite in a new nationalist democratic party. The proposed party would be committed to a decentralised economy based on the Gandhian conception and to the rule of law. Swatantra Party leaders instead proposed that the BKD merge into Swatantra, a proposal Singh says was unacceptable.
 ---
 
+## Summary
+
+This one-page press report, published in The Pioneer on 20 June 1968, records Charan Singh’s rejection of further merger talks with Swatantra Party leaders. Singh says that representatives of the BKD and Swatantra Party had already met in Delhi on 15 June, and that no further discussions were contemplated after the parties failed to agree on the terms of cooperation.
+
+The report describes the BKD’s proposal for all-India parties and state-level groups, except Congress, Jan Sangh, and Marxists, to unite in a new nationalist democratic party. The proposed party would be committed to a decentralised economy based on the Gandhian conception and to the rule of law. Swatantra Party leaders instead proposed that the BKD merge into Swatantra, a proposal Singh says was unacceptable.
+
 ## Key points
 
 - Charan Singh denied that further talks with Swatantra Party leaders were planned.

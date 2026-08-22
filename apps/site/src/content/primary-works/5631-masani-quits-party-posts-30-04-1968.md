@@ -50,6 +50,10 @@ summary: |-
   This two-page archival file combines a newspaper clipping with a typed Swatantra Party organisational list. The clipping, datelined New Delhi and attributed to UNI, reports that M. R. Masani resigned his posts as deputy leader of the Swatantra Party in Parliament and as executive and central parliamentary board member. It says the resignation followed the party's decision to field N. Dandekar as its candidate in the Gujarat Assembly elections, and describes Masani's concerns about party leadership, discipline, and electoral strategy.
 ---
 
+## Summary
+
+This two-page archival file combines a newspaper clipping with a typed Swatantra Party organisational list. The clipping, datelined New Delhi and attributed to UNI, reports that M. R. Masani resigned his posts as deputy leader of the Swatantra Party in Parliament and as executive and central parliamentary board member. It says the resignation followed the party's decision to field N. Dandekar as its candidate in the Gujarat Assembly elections, and describes Masani's concerns about party leadership, discipline, and electoral strategy.
+
 ## Key points
 
 - The newspaper clipping reports M. R. Masani's resignation from senior Swatantra Party posts.

@@ -49,6 +49,12 @@ summary: |-
   Desai proposes that the Swatantra Party, the Jan Sangh, and the Congress “Syndicate” unite in a separate organisation called the “Congress anti-Communist” Party. He predicts that this formation would politically rebrand the Congress faction captured by the Communists, while suggesting that the Communist Congress would not claim the Congress name. The document is a direct political recommendation rather than a developed policy essay.
 ---
 
+## Summary
+
+This one-page letter from Jal T. Desai to Minoo Masani, dated 18 August 1969, responds to the split within the Indian National Congress. Desai attributes the division to Communist infiltration and argues that the resulting political situation requires a new anti-Communist party rather than an attempt to preserve the Congress under its existing label.
+
+Desai proposes that the Swatantra Party, the Jan Sangh, and the Congress “Syndicate” unite in a separate organisation called the “Congress anti-Communist” Party. He predicts that this formation would politically rebrand the Congress faction captured by the Communists, while suggesting that the Communist Congress would not claim the Congress name. The document is a direct political recommendation rather than a developed policy essay.
+
 ## Key points
 
 - The letter addresses the 1969 split in the Indian National Congress.

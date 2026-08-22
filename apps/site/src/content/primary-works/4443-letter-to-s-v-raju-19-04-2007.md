@@ -49,6 +49,12 @@ summary: |-
   Patodia states that no other parliamentary publication on Rajagopalachari was available and says that copies of the profile, along with its Hindi version, are enclosed for Raju’s use. The rendered page contains no further discussion of Rajagopalachari’s life or ideas and does not include the enclosures themselves.
 ---
 
+## Summary
+
+This single-page letter, dated 19 April 2007, is from D. N. Patodia to S. V. Raju. Patodia acknowledges receiving Raju’s email to the Lok Sabha Secretariat concerning a biography of C. Rajagopalachari and reports that the Secretariat had published only a 22-page profile in December 2005.
+
+Patodia states that no other parliamentary publication on Rajagopalachari was available and says that copies of the profile, along with its Hindi version, are enclosed for Raju’s use. The rendered page contains no further discussion of Rajagopalachari’s life or ideas and does not include the enclosures themselves.
+
 ## Key points
 
 - The document is a personal letter dated 19 April 2007 from D. N. Patodia to S. V. Raju.

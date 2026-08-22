@@ -55,6 +55,12 @@ summary: |-
   The minutes also record several parliamentary and organisational decisions: directing State units to observe a protest day against Mr. Nath Pai’s bill concerning a constitutional amendment dealing with Fundamental Rights; asking an Orissa member to speak on the Bihar budget; requesting Y. G. Gowd to speak on supplementary demands for grants; nominating Meetha Lal Meena to a committee on Scheduled Castes and Scheduled Tribes Commissioner’s reports; and authorising the Chief Whip to select a second committee nominee from among Scheduled Tribes members of Orissa.
 ---
 
+## Summary
+
+This one-page English record, issued by the Swatantra Party Parliamentary Office in New Delhi on 23 August 1968, records an Executive Committee meeting held the previous day. It lists eleven members present, including Minoo Masani, Piloo Mody, Y. G. Gowd, and R. K. Amin. The committee adopted a resolution condemning the Soviet Union and other Warsaw Pact states for invading Czechoslovakia and expressing solidarity with the Czechoslovak people.
+
+The minutes also record several parliamentary and organisational decisions: directing State units to observe a protest day against Mr. Nath Pai’s bill concerning a constitutional amendment dealing with Fundamental Rights; asking an Orissa member to speak on the Bihar budget; requesting Y. G. Gowd to speak on supplementary demands for grants; nominating Meetha Lal Meena to a committee on Scheduled Castes and Scheduled Tribes Commissioner’s reports; and authorising the Chief Whip to select a second committee nominee from among Scheduled Tribes members of Orissa.
+
 ## Key points
 
 - The Swatantra Party Parliamentary Office recorded an Executive Committee meeting held on 22 August 1968.

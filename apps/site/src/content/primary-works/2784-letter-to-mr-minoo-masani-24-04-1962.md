@@ -50,6 +50,12 @@ summary: |-
   Shroff describes continuing organisational discussions, including a proposed meeting in Bombay and the possible involvement of named associates. He stresses the importance of personal contact, coordination, and ensuring that people who can make useful contributions are approached. The surviving pages are principally administrative and interpersonal rather than a developed statement of political doctrine.
 ---
 
+## Summary
+
+This four-page handwritten letter, dated 24 April 1962 and addressed to Minoo Masani, concerns the organisation of an upcoming party meeting. A. D. Shroff reports on a previous meeting held in Room 62 of Parliament House, discusses transport and attendance, and asks Masani to help sustain the meeting's atmosphere and practical arrangements. The letter also refers to efforts to bring several people into the organisation and to secure participation from individuals who may be able to contribute to its work.
+
+Shroff describes continuing organisational discussions, including a proposed meeting in Bombay and the possible involvement of named associates. He stresses the importance of personal contact, coordination, and ensuring that people who can make useful contributions are approached. The surviving pages are principally administrative and interpersonal rather than a developed statement of political doctrine.
+
 ## Key points
 
 - Shroff writes to Minoo Masani from New Delhi on 24 April 1962.

@@ -51,6 +51,12 @@ summary: |-
   The letter asks that discussion of the resolution be postponed because the Supreme Court was considering a petition challenging both the method by which the Ordinance was enacted and the substance of banking nationalisation. The writers invoke the House's tradition of not discussing or legislating on matters that are sub judice, and request that the resolution be brought before the Lok Sabha only after the Court has delivered its judgment.
 ---
 
+## Summary
+
+This untitled letter, dated July 22, 1969, was sent from Parliament House, New Delhi, to the Deputy Speaker of the Lok Sabha by Yajna Dutt Sharma and M. R. Masani. The signatories state that they had drawn the first and second places in the ballot for a resolution opposing the Banking Companies (Acquisition and Transfer of Undertakings) Ordinance, 1969.
+
+The letter asks that discussion of the resolution be postponed because the Supreme Court was considering a petition challenging both the method by which the Ordinance was enacted and the substance of banking nationalisation. The writers invoke the House's tradition of not discussing or legislating on matters that are sub judice, and request that the resolution be brought before the Lok Sabha only after the Court has delivered its judgment.
+
 ## Key points
 
 - The letter is dated July 22, 1969, and addressed to the Deputy Speaker of the Lok Sabha.

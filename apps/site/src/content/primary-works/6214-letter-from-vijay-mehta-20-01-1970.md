@@ -47,6 +47,12 @@ summary: |-
   Pages 2–3 contain a separate Junior Jaycees leaflet rather than part of the letter itself. Its visible sections describe the organisation’s founding in Ahmedabad, its social and community-oriented activities, its projects and committees, and procedures for becoming a member. The leaflet mentions activities including assistance to blind people, blood banking, distribution of educational materials, and educational and cultural work. The recipient’s name is not printed, and no title is given for the document.
 ---
 
+## Summary
+
+This three-page English-language document consists of a typed letter dated January 20, 1970, on the letterhead of the North Ahmedabad Junior Jaycees. President Vijay Mehta and Honorary Secretary Sunil Talati invite an unnamed recipient to serve as a guest speaker at one of the organisation’s monthly meetings, held at the Gujarat Chamber of Commerce Hall. The organisation proposes inviting eminent people from different walks of life and asks the recipient to provide two or three convenient dates so that its Executive Committee can finalise the programme. The subject of the proposed address is left to the speaker’s choice.
+
+Pages 2–3 contain a separate Junior Jaycees leaflet rather than part of the letter itself. Its visible sections describe the organisation’s founding in Ahmedabad, its social and community-oriented activities, its projects and committees, and procedures for becoming a member. The leaflet mentions activities including assistance to blind people, blood banking, distribution of educational materials, and educational and cultural work. The recipient’s name is not printed, and no title is given for the document.
+
 ## Key points
 
 - The letter is dated January 20, 1970, and is issued on North Ahmedabad Junior Jaycees letterhead.

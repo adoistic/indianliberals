@@ -48,6 +48,10 @@ summary: |-
   In this single-page letter dated 3 March 1977, S. V. Raju writes to Girish after the Emergency has been lifted and political parties are beginning to come together. He reopens an earlier unresolved question concerning the party’s assets, noting that discussions have continued for a long time without result.
 ---
 
+## Summary
+
+In this single-page letter dated 3 March 1977, S. V. Raju writes to Girish after the Emergency has been lifted and political parties are beginning to come together. He reopens an earlier unresolved question concerning the party’s assets, noting that discussions have continued for a long time without result.
+
 ## Key points
 
 - The letter is dated 3 March 1977 and addressed to Girish.

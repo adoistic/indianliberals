@@ -49,6 +49,10 @@ summary: |-
   This one-page Indian Express news clipping reports that the Business Advisory Committee of the Lok Sabha had been constituted by the Speaker, who would also serve as its chairman. The report states that the committee included 14 other members, among them the Deputy Speaker and several named parliamentarians.
 ---
 
+## Summary
+
+This one-page Indian Express news clipping reports that the Business Advisory Committee of the Lok Sabha had been constituted by the Speaker, who would also serve as its chairman. The report states that the committee included 14 other members, among them the Deputy Speaker and several named parliamentarians.
+
 ## Key points
 
 - The clipping is a short parliamentary news report from the Indian Express.

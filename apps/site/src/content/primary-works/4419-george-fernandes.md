@@ -48,6 +48,10 @@ summary: |-
   This one-page Marathi political leaflet presents an appeal attributed in its title to George Fernandes, addressed to Mumbai's working class: “कारागृहाच्या गजांआडून जोर्ज फर्नांडिस यांचे मुंबईतील कामगार वर्गाला कळकळीचे आवाहन” (“From behind prison bars, George Fernandes's heartfelt appeal to Mumbai's working class”). The text appears to combine a short handwritten message with a printed electoral panel for the Greater Mumbai municipal constituency. It urges workers to support a slate of candidates identified by ward or electoral district.
 ---
 
+## Summary
+
+This one-page Marathi political leaflet presents an appeal attributed in its title to George Fernandes, addressed to Mumbai's working class: “कारागृहाच्या गजांआडून जोर्ज फर्नांडिस यांचे मुंबईतील कामगार वर्गाला कळकळीचे आवाहन” (“From behind prison bars, George Fernandes's heartfelt appeal to Mumbai's working class”). The text appears to combine a short handwritten message with a printed electoral panel for the Greater Mumbai municipal constituency. It urges workers to support a slate of candidates identified by ward or electoral district.
+
 ## Key points
 
 - The leaflet is written and printed in Marathi and is directed to Mumbai's working class.

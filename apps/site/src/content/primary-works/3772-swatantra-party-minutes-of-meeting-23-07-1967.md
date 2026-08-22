@@ -59,6 +59,12 @@ summary: |-
   The minutes then turn to state-level political affairs. They approve the formation of the Democratic Front in Andhra as the Official Opposition, provided it excludes Communists and includes the Jana Congress without its joining the Bharatiya Jana Kranti Dal. In West Bengal, the Board attributes recent unrest to Communist political and violent activity and calls for the Communists’ removal from government and their parties to be banned. It also addresses the Swatantra Party’s support for the S.V.D. ministry in Uttar Pradesh, advises the Governor of Madhya Pradesh to consult the Opposition before dissolving the Assembly, and records a report on Rajasthan before the meeting terminates.
 ---
 
+## Summary
+
+These three pages are the draft minutes of the Swatantra Party’s Central Parliamentary Board meeting held at Kalki Buildings, Madras, on July 23, 1967. After confirming the previous meeting’s minutes, the Board recorded the Party’s positions on issues before Parliament: opposition to Government efforts to undo the Supreme Court’s decision on Fundamental Rights; condemnation of the proposed abolition of former rulers’ Privy Purses; criticism of plans to reduce the Planning Commission to an expert advisory body; support for a more objective and impartial policy toward the Arab–Israeli conflict; and defence of parental and student choice between regional languages and English as the medium of university instruction.
+
+The minutes then turn to state-level political affairs. They approve the formation of the Democratic Front in Andhra as the Official Opposition, provided it excludes Communists and includes the Jana Congress without its joining the Bharatiya Jana Kranti Dal. In West Bengal, the Board attributes recent unrest to Communist political and violent activity and calls for the Communists’ removal from government and their parties to be banned. It also addresses the Swatantra Party’s support for the S.V.D. ministry in Uttar Pradesh, advises the Governor of Madhya Pradesh to consult the Opposition before dissolving the Assembly, and records a report on Rajasthan before the meeting terminates.
+
 ## Key points
 
 - The Board endorsed opposition to attempts to undermine the Supreme Court’s ruling on Fundamental Rights.

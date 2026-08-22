@@ -49,6 +49,10 @@ summary: |-
   This correspondence, dated Nidubrolu 2 November 1963 and addressed to Minoo Masani, discusses the organisational difficulties facing the Swatantra Party in several states. The writer urges Masani to revive the Bihar unit, improve cooperation among Delhi workers, address problems in Orissa, and help organise the party’s campaign for the by-election in Cooch-Behar. The letter also mentions plans for a national convention and reports an active nationwide campaign against the 17th Amendment, with particular attention to raising funds and deploying workers.
 ---
 
+## Summary
+
+This correspondence, dated Nidubrolu 2 November 1963 and addressed to Minoo Masani, discusses the organisational difficulties facing the Swatantra Party in several states. The writer urges Masani to revive the Bihar unit, improve cooperation among Delhi workers, address problems in Orissa, and help organise the party’s campaign for the by-election in Cooch-Behar. The letter also mentions plans for a national convention and reports an active nationwide campaign against the 17th Amendment, with particular attention to raising funds and deploying workers.
+
 ## Key points
 
 - The writer asks Masani to help restore activity and cooperation within the Bihar Swatantra Party unit.

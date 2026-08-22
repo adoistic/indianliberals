@@ -48,6 +48,10 @@ summary: |-
   This two-page archival item contains two related letters dated September 9, 1969, typed on Swatantra Party Parliamentary Office letterhead and signed by A. P. Jain. In the first letter, addressed to M. R. Masani, Jain responds to reports about Balraj Madhok and the Bharatiya Jan Sangh's position on bank nationalisation. He says that a Jan Sangh pamphlet supports bank nationalisation but argues that its conclusions do not follow from the evidence presented. Jain also disputes personal allegations made by P. N. Solanki and says he is preparing a separate reply.
 ---
 
+## Summary
+
+This two-page archival item contains two related letters dated September 9, 1969, typed on Swatantra Party Parliamentary Office letterhead and signed by A. P. Jain. In the first letter, addressed to M. R. Masani, Jain responds to reports about Balraj Madhok and the Bharatiya Jan Sangh's position on bank nationalisation. He says that a Jan Sangh pamphlet supports bank nationalisation but argues that its conclusions do not follow from the evidence presented. Jain also disputes personal allegations made by P. N. Solanki and says he is preparing a separate reply.
+
 ## Key points
 
 - Jain addresses two letters to prominent Swatantra Party figures on September 9, 1969.

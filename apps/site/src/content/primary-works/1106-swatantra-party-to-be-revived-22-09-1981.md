@@ -50,6 +50,12 @@ summary: |-
   According to the press release quoted in the item, the participants held that reviving the party was "the need of the hour" because only Swatantra's policies could "bring salvation to the country". An ad-hoc committee of district representatives was appointed to organise a convention for the formal revival and to reach out to former party members across India.
 ---
 
+## Summary
+
+This one-paragraph news brief, clipped from The Indian Express of 22 September 1981 and datelined Madras (UNI), reports that members of the erstwhile Swatantra Party met the previous day and resolved to revive the organisation, which had effectively dissolved after the 1974 merger into Bharatiya Lok Dal. The meeting was presided over by Mr S. Krishnan and drew workers from across Tamil Nadu.
+
+According to the press release quoted in the item, the participants held that reviving the party was "the need of the hour" because only Swatantra's policies could "bring salvation to the country". An ad-hoc committee of district representatives was appointed to organise a convention for the formal revival and to reach out to former party members across India.
+
 ## Key points
 
 - News brief from The Indian Express dated 22 September 1981, filed from Madras by UNI wire service.

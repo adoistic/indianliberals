@@ -52,6 +52,12 @@ summary: |-
   The writer also emphasises the financial and communications requirements of electoral politics, calling for “PLENTY OF MONEY” and “ULTRA MODERN METHODS OF ‘INFORMATION & PROPAGANDA’.” The immediate objective is to form governments in more states in 1972. The page ends with New Year greetings and an indication that the sender hopes to meet Masani in Bombay in January. The handwritten signature is not securely legible, so the sender cannot be identified from this page.
 ---
 
+## Summary
+
+This single-page English letter, dated 29 December 1969 from Pratap Palace, Himmatnagar, congratulates M. R. Masani on his election as president of the writer's party. The sender urges Masani to build a tightly organised and disciplined political machine, partly to prevent critics—including the Prime Minister—from dismissing the party as a “still born child.” The letter claims that the party has so far defeated Congress and brought its members to power only in Orissa.
+
+The writer also emphasises the financial and communications requirements of electoral politics, calling for “PLENTY OF MONEY” and “ULTRA MODERN METHODS OF ‘INFORMATION & PROPAGANDA’.” The immediate objective is to form governments in more states in 1972. The page ends with New Year greetings and an indication that the sender hopes to meet Masani in Bombay in January. The handwritten signature is not securely legible, so the sender cannot be identified from this page.
+
 ## Key points
 
 - The letter congratulates M. R. Masani on becoming the party's president.

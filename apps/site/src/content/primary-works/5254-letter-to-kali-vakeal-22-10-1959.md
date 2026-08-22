@@ -50,6 +50,12 @@ summary: |-
   Masani says that he looks forward to seeing Meheranand shortly. He adds that he will remain in Bombay until 15 November, when he will leave for Delhi for the next session of Parliament. The letter closes with kind regards to Vakeel and his spouse and bears Masani's handwritten signature beneath the printed name.
 ---
 
+## Summary
+
+This one-page English letter from M. R. Masani to Kali Vakeel is dated 22 October 1959 and was sent from 148 Mahatma Gandhi Road, Bombay. Masani acknowledges Vakeel's letter of 15 October and expresses pleasure at his enthusiasm for the cause, indicating an ongoing political or organisational connection without specifying the cause itself.
+
+Masani says that he looks forward to seeing Meheranand shortly. He adds that he will remain in Bombay until 15 November, when he will leave for Delhi for the next session of Parliament. The letter closes with kind regards to Vakeel and his spouse and bears Masani's handwritten signature beneath the printed name.
+
 ## Key points
 
 - The letter is dated 22 October 1959 and was sent from Bombay.

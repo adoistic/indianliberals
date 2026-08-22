@@ -52,6 +52,10 @@ summary: |-
   This four-page English convention document records two related Swatantra Party resolutions considered at the party’s Seventh National Convention in New Delhi on August 4–5, 1974. The first resolution rejects a proposal to dissolve the Swatantra Party alongside six other parties in order to facilitate the formation of a new party. It argues that Swatantra is the only national party among the seven, that its principles and policies remain valid, and that its continued existence is necessary to preserve a national alternative to the Congress. The resolution also warns that the continued existence of the Congress(O) and Jan Sangh could frustrate the development of a genuine two-party system.
 ---
 
+## Summary
+
+This four-page English convention document records two related Swatantra Party resolutions considered at the party’s Seventh National Convention in New Delhi on August 4–5, 1974. The first resolution rejects a proposal to dissolve the Swatantra Party alongside six other parties in order to facilitate the formation of a new party. It argues that Swatantra is the only national party among the seven, that its principles and policies remain valid, and that its continued existence is necessary to preserve a national alternative to the Congress. The resolution also warns that the continued existence of the Congress(O) and Jan Sangh could frustrate the development of a genuine two-party system.
+
 ## Key points
 
 - The convention rejects the proposal to dissolve the Swatantra Party.

@@ -54,6 +54,12 @@ summary: |-
   Mody records that the National Convention approved the formation of a National Alternative by bringing together parties other than Congress and the Communists, and that the merger resolution received 407 votes in favour, 53 against, and one abstention. He states that the Swatantra Party's rights, assets, liabilities, flag, symbol, and name passed to the Bharatiya Lok Dal after the August 29 merger ceremony. He rejects Girish Munshi's contrary contention, maintaining that there was only one Swatantra Party of India and that the Maharashtra unit lacked authority to decide the party's future. A September 11 covering letter from the Maharashtra organisation asks the Election Commission to defer action while the Swatantra Party consults the Tamil Nadu unit, whose position is described as similar.
 ---
 
+## Summary
+
+This untitled September 1974 letter from Piloo Mody to K. Ganesan of the Election Commission of India argues that the Swatantra Party had constitutionally merged into the Bharatiya Lok Dal and that its party symbol should therefore not be treated as available to a separate Maharashtra unit. Mody encloses or refers to resolutions adopted by the Swatantra Party's National Executive, General Council, and National Convention, presenting the merger as part of a broader effort to create a national alternative and eventually a two-party system in India.
+
+Mody records that the National Convention approved the formation of a National Alternative by bringing together parties other than Congress and the Communists, and that the merger resolution received 407 votes in favour, 53 against, and one abstention. He states that the Swatantra Party's rights, assets, liabilities, flag, symbol, and name passed to the Bharatiya Lok Dal after the August 29 merger ceremony. He rejects Girish Munshi's contrary contention, maintaining that there was only one Swatantra Party of India and that the Maharashtra unit lacked authority to decide the party's future. A September 11 covering letter from the Maharashtra organisation asks the Election Commission to defer action while the Swatantra Party consults the Tamil Nadu unit, whose position is described as similar.
+
 ## Key points
 
 - Piloo Mody writes to the Election Commission of India about the Swatantra Party's official symbol.

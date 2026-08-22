@@ -47,6 +47,12 @@ summary: |-
   The letter also commends the magazine’s presentation, describing it as well laid out, neat, clean, and easy to read. It closes with the hope that Freedom First will achieve a wider-than-usual circulation. The signature appears to read “Ranga.”
 ---
 
+## Summary
+
+This handwritten English letter, dated 24 August 1989 and addressed to S. V. Raju, offers an appreciative first reaction to the latest issue of Freedom First. The writer says that the issue appears excellent at first glance and praises the articles as interesting and varied.
+
+The letter also commends the magazine’s presentation, describing it as well laid out, neat, clean, and easy to read. It closes with the hope that Freedom First will achieve a wider-than-usual circulation. The signature appears to read “Ranga.”
+
 ## Key points
 
 - The writer gives a positive preliminary assessment of the latest issue of Freedom First.

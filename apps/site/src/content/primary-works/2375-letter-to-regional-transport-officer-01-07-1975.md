@@ -46,6 +46,10 @@ summary: |-
   This two-page English letter, dated July 1, 1975, is addressed to the Registering Authority of the Bombay Regional Transport Office. Minocher Rustom Masani identifies himself as the son of the late Sir R. P. Masani and reports the sale of vehicle no. MRA 4096 to The Associated Cement Companies, Ltd.
 ---
 
+## Summary
+
+This two-page English letter, dated July 1, 1975, is addressed to the Registering Authority of the Bombay Regional Transport Office. Minocher Rustom Masani identifies himself as the son of the late Sir R. P. Masani and reports the sale of vehicle no. MRA 4096 to The Associated Cement Companies, Ltd.
+
 ## Key points
 
 - The letter is dated July 1, 1975.

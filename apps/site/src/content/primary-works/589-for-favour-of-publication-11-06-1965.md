@@ -55,6 +55,12 @@ summary: |-
   Masani also criticizes India’s foreign-policy record after the 1962 Chinese invasion, arguing that non-alignment should not mean neutrality or passivity in self-defence. He attributes New Delhi’s policies to dependence on the Soviet position over Kashmir and to appeasement of Communist expansionism. The proposed remedy is a regional security arrangement involving India, Japan, and other Asian countries, supported by Western democracies and intended to resist further Chinese expansion while preserving Asian freedom.
 ---
 
+## Summary
+
+This two-page press note reports M. R. Masani’s address to the Indian Council of World Affairs on the strategic consequences of the Vietnam conflict and what he calls India’s neglected Asian “backyard.” Masani argues that an American withdrawal from Vietnam would expose Laos and Malaysia, strengthen Communist China and its satellites, and leave India encircled. He portrays the Viet Cong insurgency as externally directed armed aggression rather than an indigenous war of national liberation, citing training in North Vietnam, direction from Hanoi, Soviet-bloc weapons, and the International Control Commission’s findings regarding violations of the Geneva Convention.
+
+Masani also criticizes India’s foreign-policy record after the 1962 Chinese invasion, arguing that non-alignment should not mean neutrality or passivity in self-defence. He attributes New Delhi’s policies to dependence on the Soviet position over Kashmir and to appeasement of Communist expansionism. The proposed remedy is a regional security arrangement involving India, Japan, and other Asian countries, supported by Western democracies and intended to resist further Chinese expansion while preserving Asian freedom.
+
 ## Key points
 
 - Masani warns that an American withdrawal from Vietnam would endanger Laos, Malaysia, and India’s wider strategic position.

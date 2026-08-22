@@ -53,6 +53,10 @@ summary: |-
   This one-page circular, issued by the Swatantra Party Parliamentary Office in New Delhi on 24 June 1967, reports a decision of the party’s General Body meeting held on 23 June. It instructs all party members in Parliament to boycott the Informal Consultative Committees constituted by the Minister for Parliamentary Affairs. The stated reason for the boycott is that the committees allegedly violated an assurance given by the minister to opposition-party leaders that they would not be constituted. Signed by Y. G. Gowd in his capacity as Chief Whip, the circular asks members not to participate in the committees’ deliberations.
 ---
 
+## Summary
+
+This one-page circular, issued by the Swatantra Party Parliamentary Office in New Delhi on 24 June 1967, reports a decision of the party’s General Body meeting held on 23 June. It instructs all party members in Parliament to boycott the Informal Consultative Committees constituted by the Minister for Parliamentary Affairs. The stated reason for the boycott is that the committees allegedly violated an assurance given by the minister to opposition-party leaders that they would not be constituted. Signed by Y. G. Gowd in his capacity as Chief Whip, the circular asks members not to participate in the committees’ deliberations.
+
 ## Key points
 
 - The document is a Swatantra Party Parliamentary Office circular dated 24 June 1967. It records a General Body decision made on 23 June 1967. The party directs all opposition-party members to boycott the Informal Consultative Committees. The committees are described as having been constituted by the Minister for Parliamentary Affairs. The boycott is justified by an alleged breach of an assurance given to opposition-party leaders.

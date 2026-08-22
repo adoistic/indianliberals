@@ -48,6 +48,12 @@ summary: |-
   The article calls for a more durable response to dacoity, including examination of the rebels’ complaints, possible special tribunals for cases involving dacoits across the three states, and welfare assistance for surrendered dacoits and their families. It also reports discrepancies in surrender figures and describes plans for rehabilitation, including employment and a proposed Rs. 100-crore development programme for the Chambal region. The clipping does not identify an individual author; its credit is to the Times of India News Service.
 ---
 
+## Summary
+
+This Times of India News Service report, dated 16 April 1972 and datelined Javra, describes proposed long-term government measures to address the dacoit problem in Madhya Pradesh, Rajasthan and Uttar Pradesh. The immediate context is the surrender of 85 dacoits at Javra, led by Madho Singh, before Madhya Pradesh Chief Minister Mr. Jayaprakash Narayan. The report says the Chief Minister regarded the surrender as significant and argued that the rebels’ grievances were justified rather than treating them simply as criminals.
+
+The article calls for a more durable response to dacoity, including examination of the rebels’ complaints, possible special tribunals for cases involving dacoits across the three states, and welfare assistance for surrendered dacoits and their families. It also reports discrepancies in surrender figures and describes plans for rehabilitation, including employment and a proposed Rs. 100-crore development programme for the Chambal region. The clipping does not identify an individual author; its credit is to the Times of India News Service.
+
 ## Key points
 
 - The report presents dacoity as a problem requiring long-term governmental measures rather than only immediate policing.

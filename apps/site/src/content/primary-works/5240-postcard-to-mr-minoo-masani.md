@@ -48,6 +48,12 @@ summary: |-
   The postcard has no visible date, title, publication information, or clear indication of the specific clause or appeal under discussion. Its themes therefore remain limited to the apparent concern with speech or appeal-related action and the sender’s emphasis on careful judgment and intervention.
 ---
 
+## Summary
+
+This two-page handwritten postcard, addressed to M. R. Masani in Ahmedabad, contains a brief English message about a “latter Clause” and an appeal or speech-related matter. The sender urges Masani to examine the issue carefully and act with “profound insight,” then asks to be informed about a programme. The message is signed with a handwritten name that appears to read “Ranga.”
+
+The postcard has no visible date, title, publication information, or clear indication of the specific clause or appeal under discussion. Its themes therefore remain limited to the apparent concern with speech or appeal-related action and the sender’s emphasis on careful judgment and intervention.
+
 ## Key points
 
 - The item is a handwritten postcard addressed to M. R. Masani in Ahmedabad.

@@ -47,6 +47,10 @@ summary: |-
   This single-page English correspondence copy, dated Bombay, November 20, 1972, is from Minoo Masani and concerns Jayaprakash Narayan's medical treatment and outlook. The page shows institutional addressee information for Prof. Sugata Dasgupta of the Studies division, Sir Sunderlal Hospital, and Varanasi Hindu Hospital, Varanasi. The prominent all-capitals wording appears to be a subject line or inquiry heading, though its exact status is uncertain.
 ---
 
+## Summary
+
+This single-page English correspondence copy, dated Bombay, November 20, 1972, is from Minoo Masani and concerns Jayaprakash Narayan's medical treatment and outlook. The page shows institutional addressee information for Prof. Sugata Dasgupta of the Studies division, Sir Sunderlal Hospital, and Varanasi Hindu Hospital, Varanasi. The prominent all-capitals wording appears to be a subject line or inquiry heading, though its exact status is uncertain.
+
 ## Key points
 
 - The document is a one-page typed correspondence copy from Bombay dated November 20, 1972.

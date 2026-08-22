@@ -59,6 +59,12 @@ summary: |-
   The paper also proposes industrial-labour protections, including minimum-wage enforcement and worker participation in management, alongside old-age pensions and rehabilitation and employment for disabled people. Its social-welfare proposals call for preferential assistance to Harijans, Girijans, and other backward classes through land, housing, water, credit, subsidies, and institutional support. The second page adds measures for weavers, backward areas, and banking: low-cost credit and government marketing facilities for weavers, rapid development of backward regions, reduction of income disparities to a ratio of 1:10, and immediate socialisation of foreign and commercial banks so their deposits can support rural and weaker sections.
 ---
 
+## Summary
+
+This two-page position paper records proposals submitted by the State Council of the Andhra Pradesh Swatantra Party for adoption into the party's socio-economic programme at the General Council meeting in Bombay on April 17–18. Its central concern is an agrarian “new deal” for agricultural labourers, tillers, tenants, and small farmers. The proposals include extending ceilings from landed property to urban property and incomes, maintaining price parity between agricultural and industrial commodities, indexing minimum agricultural wages to the cost of living, subsidising cultivation where necessary, and introducing crop, cattle, and fire insurance.
+
+The paper also proposes industrial-labour protections, including minimum-wage enforcement and worker participation in management, alongside old-age pensions and rehabilitation and employment for disabled people. Its social-welfare proposals call for preferential assistance to Harijans, Girijans, and other backward classes through land, housing, water, credit, subsidies, and institutional support. The second page adds measures for weavers, backward areas, and banking: low-cost credit and government marketing facilities for weavers, rapid development of backward regions, reduction of income disparities to a ratio of 1:10, and immediate socialisation of foreign and commercial banks so their deposits can support rural and weaker sections.
+
 ## Key points
 
 - The Andhra Pradesh State Council asks the Swatantra Party General Council to adopt these proposals in its socio-economic programme.

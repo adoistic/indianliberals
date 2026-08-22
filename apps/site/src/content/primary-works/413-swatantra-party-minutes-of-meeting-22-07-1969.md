@@ -52,6 +52,12 @@ summary: |-
   The minutes also record the party's appointments to select committees for the Auditor-General's Bill and the Taxation Laws Amendment Bill. The executive committee considered an adjournment motion concerning recent railway accidents and decided that the party should not support it. Finally, M. Masani reported on Supreme Court proceedings concerning a stay order against implementation of the Banking Companies (Acquisition and Transfer of Undertakings) Ordinance 1969. The page captures parliamentary coordination and the party's positions on legislative and institutional matters, rather than developing a substantive policy argument.
 ---
 
+## Summary
+
+This one-page document records the minutes of a Swatantra Party parliamentary executive-committee meeting held at Parliament House on 22 July 1969. It lists twelve attendees, including N. G. Ranga, Minoo Masani, Y. G. Gowd, Piloo Mody, P. L. Deo, D. N. Deb, S. K. Tapuriah, and D. N. Patodia. The meeting allocated speakers for parliamentary debates on the Indian Railways (Second Amendment) Bill, the Unlawful Activities (Prevention) Amendment Bill, coal-bearing-area acquisition, criminal and election-law amendments, the Delhi High Court (Amendment) Bill, and the Lokpal and Lokayukta Bill.
+
+The minutes also record the party's appointments to select committees for the Auditor-General's Bill and the Taxation Laws Amendment Bill. The executive committee considered an adjournment motion concerning recent railway accidents and decided that the party should not support it. Finally, M. Masani reported on Supreme Court proceedings concerning a stay order against implementation of the Banking Companies (Acquisition and Transfer of Undertakings) Ordinance 1969. The page captures parliamentary coordination and the party's positions on legislative and institutional matters, rather than developing a substantive policy argument.
+
 ## Key points
 
 - The Swatantra Party parliamentary executive committee met at Parliament House on 22 July 1969.

@@ -56,6 +56,12 @@ summary: |-
   The proposals combine local autonomy with central coordination. Masani recommends replacing routine subsidies to state units with full-time regional organisers appointed by the central office, beginning with approximately 25 organisers and expanding the field force to 100 before the next general election. The memorandum includes a proposed 1963 budget of Rs. 250,000, with provisions for organisers, central-office expenses and publicity, and contingencies. It also calls for prospective candidates to be identified and screened well before the 1967 elections, while advocating a balance between disciplined party organisation and internal democracy.
 ---
 
+## Summary
+
+This three-page memorandum, submitted by M. R. Masani to the Swatantra Party’s Central Organising Committee on 17 August 1962, assesses the party’s performance after the general elections. Masani argues that the party had made an impressive quantitative showing in Parliament and the state assemblies, but that its organisational standards and public image had suffered from hurried expansion, indiscriminate recruitment, and the nomination of inadequately screened candidates. He urges the party to use the four and a half years before the 1967 elections to consolidate its foundations rather than postpone organisational repair until the next electoral cycle.
+
+The proposals combine local autonomy with central coordination. Masani recommends replacing routine subsidies to state units with full-time regional organisers appointed by the central office, beginning with approximately 25 organisers and expanding the field force to 100 before the next general election. The memorandum includes a proposed 1963 budget of Rs. 250,000, with provisions for organisers, central-office expenses and publicity, and contingencies. It also calls for prospective candidates to be identified and screened well before the 1967 elections, while advocating a balance between disciplined party organisation and internal democracy.
+
 ## Key points
 
 - Masani describes the Swatantra Party as electorally successful but organisationally unsatisfactory after the general elections.

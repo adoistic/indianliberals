@@ -48,3 +48,7 @@ ai:
 summary: |-
   This two-page excerpt from the January 9, 1971 issue of Blitz presents R. K. Karanjia's satirical political commentary on the opposition alliance then forming against Indira Gandhi. Framed as a “Game of fools” and “Jokers’ Front!”, the article argues that the alliance is ideologically hollow, united chiefly by hostility to the prime minister rather than by a credible alternative programme. It ridicules the proposed “Shadow Cabinet,” invokes Charan Singh's reported demand to be nominated prime minister, and portrays the opposition's electoral strategy as an attempt to confuse voters through slogans and factional manoeuvring.
 ---
+
+## Summary
+
+This two-page excerpt from the January 9, 1971 issue of Blitz presents R. K. Karanjia's satirical political commentary on the opposition alliance then forming against Indira Gandhi. Framed as a “Game of fools” and “Jokers’ Front!”, the article argues that the alliance is ideologically hollow, united chiefly by hostility to the prime minister rather than by a credible alternative programme. It ridicules the proposed “Shadow Cabinet,” invokes Charan Singh's reported demand to be nominated prime minister, and portrays the opposition's electoral strategy as an attempt to confuse voters through slogans and factional manoeuvring.

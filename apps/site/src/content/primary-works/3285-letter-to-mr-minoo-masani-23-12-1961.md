@@ -50,6 +50,12 @@ summary: |-
   The letter focuses on the party’s financial difficulties. Rajagopalachari asks whether the money Masani collected in Ramgarh can be given to the Madras organisation, while noting that Loganathan says he has already given all that could be given. The exchange conveys concern about the practical burdens of sustaining the Swatantra Party and a sympathetic but resigned response to its limited resources.
 ---
 
+## Summary
+
+This single-page letter, dated 23 December 1961, is from C. Rajagopalachari in Madras to M. R. Masani, then General Secretary of the Swatantra Party. Rajagopalachari acknowledges Masani’s long letter to Ramgarh dated 21 December and encourages him not to succumb to the strain of the work confronting him in Madras.
+
+The letter focuses on the party’s financial difficulties. Rajagopalachari asks whether the money Masani collected in Ramgarh can be given to the Madras organisation, while noting that Loganathan says he has already given all that could be given. The exchange conveys concern about the practical burdens of sustaining the Swatantra Party and a sympathetic but resigned response to its limited resources.
+
 ## Key points
 
 - The letter was written by C. Rajagopalachari on 23 December 1961 from Madras.

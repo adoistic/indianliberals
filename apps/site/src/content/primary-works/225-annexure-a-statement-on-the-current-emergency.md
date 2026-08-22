@@ -60,6 +60,12 @@ summary: |-
   The statement links military preparedness to foreign-policy realignment. It argues that non-alignment must be reconsidered in light of the attack by a Communist power, welcomes military assistance from the United States, Britain, Canada, and other countries, and advocates closer relations with Pakistan and Nepal. At the same time, it insists that emergency powers must not become a pretext for abandoning parliamentary government, fundamental rights, democratic processes, or the Rule of Law. The statement calls for continued parliamentary criticism, fuller public information and press access at the front, and bringing Chinese aggression before the United Nations.
 ---
 
+## Summary
+
+This two-page Swatantra Party statement responds to the intensified Chinese offensive and calls for a unified national defence effort. It urges the government to adopt a strategy that keeps the initiative in Indian hands, establish a Defence Council of serving and retired generals, procure the best available weapons and aircraft, organize anti-aircraft and civil-defence measures, and replace the Third Five-Year Plan with an emergency “Victory Plan.” It also proposes a powerful Ministry of Supply coordinating key industrial, transport, communications, fuel, and defence-production departments.
+
+The statement links military preparedness to foreign-policy realignment. It argues that non-alignment must be reconsidered in light of the attack by a Communist power, welcomes military assistance from the United States, Britain, Canada, and other countries, and advocates closer relations with Pakistan and Nepal. At the same time, it insists that emergency powers must not become a pretext for abandoning parliamentary government, fundamental rights, democratic processes, or the Rule of Law. The statement calls for continued parliamentary criticism, fuller public information and press access at the front, and bringing Chinese aggression before the United Nations.
+
 ## Key points
 
 - The Swatantra Party frames the Chinese offensive as a threat to India’s territorial integrity and independence.

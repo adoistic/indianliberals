@@ -58,6 +58,12 @@ summary: |-
   The immediate issue is the party’s handling of disciplinary controversies in Gujarat, including the Rajya Sabha election, the retention of MLAs accused of violating party pledges, and the case of the Raja of Ramgarh. Munshi insists that a national party must exercise authority over its state branches and that maintaining purity may require accepting reduced numbers. He concludes that Swatantra’s role is primarily political education: its survival is meaningful only if it demonstrates loyalty to principles, morality, and democratic institutions. The appended correspondence records Munshi’s and Rajaji’s agreement that Gujarat rebels should be expelled.
 ---
 
+## Summary
+
+This 21 May 1968 confidential letter from K. M. Munshi to members of the Swatantra Party’s General Council argues that the party must preserve its identity through constitutional methods, ethical discipline, and fidelity to principle rather than pursue power or electoral numbers. Munshi recalls that he, Rajaji, Ranga, and Masani founded the party to resist the erosion of individual freedom by the State and to uphold moral and ethical values in politics. He invokes the party’s 1960 Statement of Policy and its commitment to “dharma,” arguing that the Congress had abandoned Gandhi’s political philosophy.
+
+The immediate issue is the party’s handling of disciplinary controversies in Gujarat, including the Rajya Sabha election, the retention of MLAs accused of violating party pledges, and the case of the Raja of Ramgarh. Munshi insists that a national party must exercise authority over its state branches and that maintaining purity may require accepting reduced numbers. He concludes that Swatantra’s role is primarily political education: its survival is meaningful only if it demonstrates loyalty to principles, morality, and democratic institutions. The appended correspondence records Munshi’s and Rajaji’s agreement that Gujarat rebels should be expelled.
+
 ## Key points
 
 - Munshi explains that Swatantra Party was founded to defend individual freedom against expanding state power and to resist the erosion of political morality.

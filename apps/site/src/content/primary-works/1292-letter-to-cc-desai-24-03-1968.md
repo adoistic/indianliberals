@@ -50,6 +50,12 @@ summary: |-
   Singh describes the proposed members as colleagues and declines to discuss their suitability for appointment. He apologizes for the delayed reply, explaining that it was held up while the ministry considered a suggestion from Minoo Masani, M.P. A copy of the letter was forwarded to M. R. Masani, M.P. The document provides a brief administrative record of the council's proposed membership rather than an argument about trade policy.
 ---
 
+## Summary
+
+This 24 March 1968 letter from Commerce Minister Dinesh Singh to Shri C. C. Desai concerns parliamentary representation on the Advisory Council on Trade. Singh acknowledges Desai's earlier letter of 21 February and lists ten Members of Parliament whose inclusion on the council had been or was being notified: four Rajya Sabha members and six Lok Sabha members, drawn from Bihar, Maharashtra, Madhya Pradesh, Kerala, Assam, and Rajasthan.
+
+Singh describes the proposed members as colleagues and declines to discuss their suitability for appointment. He apologizes for the delayed reply, explaining that it was held up while the ministry considered a suggestion from Minoo Masani, M.P. A copy of the letter was forwarded to M. R. Masani, M.P. The document provides a brief administrative record of the council's proposed membership rather than an argument about trade policy.
+
 ## Key points
 
 - The letter is dated March 24, 1968, and is issued on the letterhead of the Minister of Commerce, New Delhi-11.

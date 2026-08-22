@@ -51,6 +51,12 @@ summary: |-
   Masani notes that he will be in Delhi from April 20 to 24 and proposes that the conference be held over the April 19–20 weekend. He presents the timing as both convenient and economical, saying it would save him considerable expense. The page is a brief piece of correspondence focused on coordinating participation in an electoral-reform initiative.
 ---
 
+## Summary
+
+In this letter dated March 11, 1975, M. R. Masani writes to Jayaprakash Narayan after a report in The Statesman that Narayan plans to convene an all-party conference on electoral reform in April. Masani asks for sufficient notice so that members of Narayan’s Electoral Reform Committee can attend.
+
+Masani notes that he will be in Delhi from April 20 to 24 and proposes that the conference be held over the April 19–20 weekend. He presents the timing as both convenient and economical, saying it would save him considerable expense. The page is a brief piece of correspondence focused on coordinating participation in an electoral-reform initiative.
+
 ## Key points
 
 - Masani responds to a report in The Statesman about Jayaprakash Narayan convening an all-party conference.

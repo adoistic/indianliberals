@@ -53,6 +53,12 @@ summary: |-
   The notes present competitive markets as a form of economic democracy, with consumer preferences influencing production through a “daily ballot” in the marketplace. They acknowledge inequalities in purchasing capacity but treat them as potentially necessary to economic progress, drawing on Friedrich Hayek’s argument that early luxury consumption can help make new goods broadly available later. The notes then contrast communist command planning with West Germany’s consumer prosperity, using examples from Soviet criticism and West German production and ownership figures. The final page applies the argument to HSL: as a private limited company competing with TISCO and ISCO, it should serve consumers by providing the finest products at the cheapest prices.
 ---
 
+## Summary
+
+These five pages are typed notes for a talk delivered at the HSL Training Centre, Delhi, on 15 March 1961. They outline the obligations of an enterprise to four constituencies: shareholders, employees, the community or State, and consumers. The notes emphasize product quality, fair measurement, purity, utility, courteous service, promptness, and fair prices. They argue that competition protects consumers from profiteering and monopoly, whether private or state-owned, and propose a “triangle of management” in which investors, employees, and consumers retain freedom of choice.
+
+The notes present competitive markets as a form of economic democracy, with consumer preferences influencing production through a “daily ballot” in the marketplace. They acknowledge inequalities in purchasing capacity but treat them as potentially necessary to economic progress, drawing on Friedrich Hayek’s argument that early luxury consumption can help make new goods broadly available later. The notes then contrast communist command planning with West Germany’s consumer prosperity, using examples from Soviet criticism and West German production and ownership figures. The final page applies the argument to HSL: as a private limited company competing with TISCO and ISCO, it should serve consumers by providing the finest products at the cheapest prices.
+
 ## Key points
 
 - An enterprise has obligations to investors, employees, the community or State, and consumers.

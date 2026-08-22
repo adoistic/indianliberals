@@ -57,6 +57,12 @@ summary: |-
   In the rendered pages, Raju traces the Indian National Congress’s transformation from a broad freedom movement into a dynastic party centred on the Nehru-Gandhi family, and describes the BJP as the political arm of the RSS family of organisations. He argues that coalition government has become unavoidable and may strengthen federalism and democratic decentralisation, even though the alliances formed around the 2004 election were largely driven by the pursuit or denial of power. He rejects the claim that the election was a referendum against economic reform, noting the nearly equal vote shares of the UPA and NDA, and concludes with an observation that voters wanted immediate practical benefits rather than abstract ideology.
 ---
 
+## Summary
+
+In the rendered pages, S. V. Raju assesses India’s 2004 general election as evidence of a durable but increasingly wayward democratic system. He credits the Election Commission, the courts—especially the Supreme Court—and the constitutional framework inherited from Jawaharlal Nehru with preserving free and largely peaceful elections despite low literacy, poverty, sporadic violence, and uneven candidate quality. He contrasts the sound physical infrastructure of democracy with the declining quality of governance and political representation.
+
+In the rendered pages, Raju traces the Indian National Congress’s transformation from a broad freedom movement into a dynastic party centred on the Nehru-Gandhi family, and describes the BJP as the political arm of the RSS family of organisations. He argues that coalition government has become unavoidable and may strengthen federalism and democratic decentralisation, even though the alliances formed around the 2004 election were largely driven by the pursuit or denial of power. He rejects the claim that the election was a referendum against economic reform, noting the nearly equal vote shares of the UPA and NDA, and concludes with an observation that voters wanted immediate practical benefits rather than abstract ideology.
+
 ## Key points
 
 - India’s electoral system is presented as large, resilient, and generally peaceful despite poverty, illiteracy, and occasional violence.

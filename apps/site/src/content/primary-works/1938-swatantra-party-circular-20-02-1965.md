@@ -51,6 +51,12 @@ summary: |-
   The circular sets February 23 as the deadline for submitting this information to the Parliamentary Office. It is signed by P. N. Solanki, Secretary. No printed title beyond “CIRCULAR” and no author byline are provided; a handwritten “1938” annotation appears on the page but is not part of the printed document's date.
 ---
 
+## Summary
+
+This one-page English circular, issued by the Swatantra Party Parliamentary Office in New Delhi on February 20, 1965, asks party members to indicate which ministries' Demands for Grants they would prefer to speak on. The stated purpose is to help the party decide its spokesperson for each demand and to obtain members' preferences for the party's guidance.
+
+The circular sets February 23 as the deadline for submitting this information to the Parliamentary Office. It is signed by P. N. Solanki, Secretary. No printed title beyond “CIRCULAR” and no author byline are provided; a handwritten “1938” annotation appears on the page but is not part of the printed document's date.
+
 ## Key points
 
 - The document is an internal Swatantra Party Parliamentary Office circular.

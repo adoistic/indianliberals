@@ -49,6 +49,12 @@ summary: |-
   Mehta encloses a proposed letter requesting that N. Dandekar, the party's General Secretary, call an immediate General Council meeting. The second page contains a largely illegible handwritten note and endorsement, apparently supporting an early meeting, but its full contents cannot be reliably transcribed from the rendered image.
 ---
 
+## Summary
+
+Dated 31 March 1968, this letter from Madhu N. Mehta urges a fellow member of the Swatantra Party's General Council to respond to Minoo Masani's sudden resignation from the National Executive and Central Parliamentary Board. Mehta argues that the party's senior members should meet immediately to discuss the situation and take decisions to restore organisational order.
+
+Mehta encloses a proposed letter requesting that N. Dandekar, the party's General Secretary, call an immediate General Council meeting. The second page contains a largely illegible handwritten note and endorsement, apparently supporting an early meeting, but its full contents cannot be reliably transcribed from the rendered image.
+
 ## Key points
 
 - The letter is dated 31 March 1968 and is written from Bombay by Madhu N. Mehta.

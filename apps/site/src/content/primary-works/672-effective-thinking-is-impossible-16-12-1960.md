@@ -48,6 +48,10 @@ summary: |-
   This newspaper article reports remarks by Prof. N. K. Sidhanta, identified as Vice-Chancellor of Delhi University, at the annual convention of Lucknow University. He argues that political attraction and partisan conflict among university students disrupt the academic environment, leaving the community unable to sustain effective thinking or the communication of ideas. He criticises teachers who encourage students to become partisan and says universities should cultivate intellectual independence rather than political activity.
 ---
 
+## Summary
+
+This newspaper article reports remarks by Prof. N. K. Sidhanta, identified as Vice-Chancellor of Delhi University, at the annual convention of Lucknow University. He argues that political attraction and partisan conflict among university students disrupt the academic environment, leaving the community unable to sustain effective thinking or the communication of ideas. He criticises teachers who encourage students to become partisan and says universities should cultivate intellectual independence rather than political activity.
+
 ## Key points
 
 - Sidhanta attributes political tension in universities to the attraction and excitement of political fights among young people.

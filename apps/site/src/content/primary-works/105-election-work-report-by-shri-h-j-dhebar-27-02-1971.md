@@ -50,6 +50,14 @@ summary: |-
   The report closes with Dhebar's confidence that most voters in these areas will back the party's 'STAR' symbol, and with his commitment to work from 8 AM to 5 PM on polling day (1 March 1971), directing residents of the six colonies to the polling booth at Mahila College. It is signed 'H. J. Dhebar' with his full return address.
 ---
 
+## Summary
+
+A two-page typed field report from H. J. Dhebar of 42 A Harihar Society, Kalawad Road, Rajkot, addressed to Minoo Masani, accounting for a fortnight of door-to-door election work carried out for the Swatantra Party between 15 February and 27 February 1971. Dhebar lists the six neighbourhoods he covered near Kalawad Road — Harihar Society, Kotechanagar, the Housing Board Quarters, LIC Society, Setubandh Society, and the Bank Staff Colony behind Mahila College — and records that he worked the beat daily from 3 PM to 9 PM.
+
+He itemises eight pieces of literature distributed during the canvass: the pamphlet 'Minoo Masani Lok Sevak', a cartoon book, a report covering October 1969 to December 1970, the 1971 Election Manifesto, 'Nagriko Savdhan', separate appeals by Palkhiwala and by Jansangh leaders, and a local piece by Pramod Kalyani titled 'What Shri Masani did for Rajkot Dist'. He describes explaining the Swatantra Party's aims at length to residents and stressing that Masani continues to visit Rajkot frequently and help constituents 'solve the difficult problems which is a hard nut to crack'.
+
+The report closes with Dhebar's confidence that most voters in these areas will back the party's 'STAR' symbol, and with his commitment to work from 8 AM to 5 PM on polling day (1 March 1971), directing residents of the six colonies to the polling booth at Mahila College. It is signed 'H. J. Dhebar' with his full return address.
+
 ## Key points
 
 - Field report from party worker H. J. Dhebar to Minoo Masani, documenting door-to-door canvassing in Rajkot from 15 February to 27 February 1971 for the Swatantra Party.

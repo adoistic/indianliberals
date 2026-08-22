@@ -55,6 +55,12 @@ summary: |-
   The procedure then follows the party's organisational structure from primary units to district committees, State or Regional Councils, the General Council, and the National Executive. It specifies eligibility rules for Workers, Life Workers, and Life Members; the appointment and duties of Returning Officers; nomination, secret-ballot, counting, and reporting procedures; recommended committee offices; and proportional representation arrangements. Where minimum enrolment thresholds are not met, members are grouped into special constituencies, with postal ballots permitted in some cases. The booklet concludes by directing State or Regional Councils to elect representatives to the General Council and the Central Organising Committee to convene the meeting that will elect the National Executive.
 ---
 
+## Summary
+
+Issued by the Swatantra Party Central Office in Bombay on July 31, 1964, this internally circulated booklet establishes the timetable and operating rules for reorganising the party through elections. It records amendments to constitutional clauses 12(a) and 12(b), sets July 31, 1964 as the enrolment deadline for Workers and Life Workers eligible to participate in that year's elections, and lays out a schedule running from constituency-level elections in October through the election of the National Executive by December 31 and its assumption of office on January 1, 1965. The document also assigns the Central Office responsibility for checking registers and subscription accounts before elections proceed in each state or region.
+
+The procedure then follows the party's organisational structure from primary units to district committees, State or Regional Councils, the General Council, and the National Executive. It specifies eligibility rules for Workers, Life Workers, and Life Members; the appointment and duties of Returning Officers; nomination, secret-ballot, counting, and reporting procedures; recommended committee offices; and proportional representation arrangements. Where minimum enrolment thresholds are not met, members are grouped into special constituencies, with postal ballots permitted in some cases. The booklet concludes by directing State or Regional Councils to elect representatives to the General Council and the Central Organising Committee to convene the meeting that will elect the National Executive.
+
 ## Key points
 
 - The General Council amended the party constitution to impose a 1964 deadline for committee elections and a July 31, 1964 deadline for relevant enrolment.

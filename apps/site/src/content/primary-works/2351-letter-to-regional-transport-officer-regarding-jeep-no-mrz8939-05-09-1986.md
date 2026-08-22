@@ -52,6 +52,12 @@ summary: |-
   The immediate issue is a renewed bill for tax arrears relating to jeep MRZ 8939. Masani returns the bill and reiterates that the vehicle did not belong to him, had never been in his possession, and had not been in his possession since 1967. The remaining pages reproduce the registered-mail acknowledgement and envelope, including Hindi and English postal forms.
 ---
 
+## Summary
+
+This four-page archival item is a registered letter from M. R. Masani to the Regional Transport Officer, Central Zone, Bombay, dated 5 September 1986. Masani refers to an earlier letter of 6 May 1985 concerning several jeeps owned by the Swatantra Party and sold after the 1967 General Elections, when they had been used by the party.
+
+The immediate issue is a renewed bill for tax arrears relating to jeep MRZ 8939. Masani returns the bill and reiterates that the vehicle did not belong to him, had never been in his possession, and had not been in his possession since 1967. The remaining pages reproduce the registered-mail acknowledgement and envelope, including Hindi and English postal forms.
+
 ## Key points
 
 - The letter is dated 5 September 1986 and addressed to the Regional Transport Officer, Central Zone, Bombay.

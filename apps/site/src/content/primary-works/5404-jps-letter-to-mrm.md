@@ -53,6 +53,12 @@ summary: |-
   Narayan also cautions against abandoning socialism because of disappointment with the Stalin regime, just as one should not reject Gandhism because of the Congress ministries. He maintains that Marxist theory offers an adequate explanation of Stalinism’s failure, but accepts that his correspondent has reached a firm religious and intellectual conclusion. The letter closes by urging the recipient to remain active in larger political movements and by expressing hope that the “new dynamic” may yet help solve social problems, while reaffirming Narayan’s prayerful concern.
 ---
 
+## Summary
+
+In this undated letter to an implied socialist correspondent, Jayaprakash Narayan distinguishes between the practical usefulness of Gandhi’s “new dynamic” and the validity of its underlying theory. He argues that Gandhian methods may have generated a useful form of mass action that socialists could adopt, while rejecting the theory as “utterly unscientific and built up of hocus-pocus.” He contrasts Gandhian and socialist understandings of social change, and suggests that the wartime record and the Cripps episode cast doubt on the explanatory power of the Gandhian approach.
+
+Narayan also cautions against abandoning socialism because of disappointment with the Stalin regime, just as one should not reject Gandhism because of the Congress ministries. He maintains that Marxist theory offers an adequate explanation of Stalinism’s failure, but accepts that his correspondent has reached a firm religious and intellectual conclusion. The letter closes by urging the recipient to remain active in larger political movements and by expressing hope that the “new dynamic” may yet help solve social problems, while reaffirming Narayan’s prayerful concern.
+
 ## Key points
 
 - Narayan disputes the claim that Gandhian methods have no utility for the socialist movement.

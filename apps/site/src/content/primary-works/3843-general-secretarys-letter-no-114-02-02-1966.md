@@ -52,6 +52,12 @@ summary: |-
   The attached list of demands sets out the campaign’s economic programme: no additional taxation in the forthcoming Union Budget; no increase in land revenue or cesses; abolition of central excise duties on basic goods including kerosene, bidis, tobacco products, betel nut, sugar, and cloth; substantial relief from direct taxation for middle-class people earning up to Rs. 25,000 annually; relaxation of the Gold Control Order; removal of restrictions and controls on the movement and distribution of foodgrains; and avoidance of inflationary policies that raise prices.
 ---
 
+## Summary
+
+In this letter dated 2 February 1966, Swatantra Party General Secretary M. R. Masani asks party units to observe 20 February as “Anti Excessive Taxation Day.” He attributes the initiative to the party president, “Prof. Ranga,” and urges state organisations to arrange public meetings, processions, and leaflets to focus attention on what the letter calls an almost unbearable and continually rising tax burden. The Central Office offers to help meet printing costs for leaflets in local languages and asks each state unit to report its preparations.
+
+The attached list of demands sets out the campaign’s economic programme: no additional taxation in the forthcoming Union Budget; no increase in land revenue or cesses; abolition of central excise duties on basic goods including kerosene, bidis, tobacco products, betel nut, sugar, and cloth; substantial relief from direct taxation for middle-class people earning up to Rs. 25,000 annually; relaxation of the Gold Control Order; removal of restrictions and controls on the movement and distribution of foodgrains; and avoidance of inflationary policies that raise prices.
+
 ## Key points
 
 - The letter announces a nationwide Swatantra Party observance called Anti Excessive Taxation Day for 20 February 1966.

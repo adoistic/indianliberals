@@ -60,6 +60,12 @@ summary: |-
   Masani identifies the centralized economic system established through the Five Year Plans—what he calls Indian "socialism" or Statism—as a second cause of the crisis, arguing that concentrated political and economic power is incompatible with democracy. He invokes Benedetto Croce's warning that freedom requires autonomous social forces independent of government. The operative demands of the resolution are the restoration of civil liberties and democratic processes, including the removal of MISA, release of detained political leaders, and removal of press censorship before free elections can have meaning. He closes by urging dialogue rather than confrontation and expressing confidence that the Indian people can recover their freedom and democratic future.
 ---
 
+## Summary
+
+In this speech moving the main resolution at the All India Civil Liberties Conference in Ahmedabad on 15 October 1975, M. R. Masani argues that the Emergency was not an isolated event but the consequence of long-standing failures in Indian democratic practice. He criticizes the weakness of grassroots vigilance and voluntary organizations, the opportunism and indiscipline of politicians in both government and opposition, and the public's failure to defend constitutional freedoms. Comparing India with the fall of France's Fourth Republic, he calls for a historical examination of how democratic institutions were allowed to deteriorate.
+
+Masani identifies the centralized economic system established through the Five Year Plans—what he calls Indian "socialism" or Statism—as a second cause of the crisis, arguing that concentrated political and economic power is incompatible with democracy. He invokes Benedetto Croce's warning that freedom requires autonomous social forces independent of government. The operative demands of the resolution are the restoration of civil liberties and democratic processes, including the removal of MISA, release of detained political leaders, and removal of press censorship before free elections can have meaning. He closes by urging dialogue rather than confrontation and expressing confidence that the Indian people can recover their freedom and democratic future.
+
 ## Key points
 
 - The speech presents the Emergency as the result of accumulated failures in India's public and political life, not merely as a crisis beginning on 26 June 1975.

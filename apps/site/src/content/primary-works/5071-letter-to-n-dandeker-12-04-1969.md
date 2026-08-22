@@ -51,6 +51,12 @@ summary: |-
   The letter is administrative rather than argumentative: it records the transmission of the meeting proceedings but does not describe the meeting's agenda, resolutions, or participants. The sender's handwritten signature is not legibly identified beneath the printed designation of General Secretary.
 ---
 
+## Summary
+
+This one-page English office letter, dated 12 April 1968, is issued from the Swatantra Party (Orissa Unit) in Bhubaneswar. The General Secretary forwards the proceedings of an emergent meeting of the unit's State Executive to N. Dandekar, M.P., in New Delhi, requesting necessary action at his end.
+
+The letter is administrative rather than argumentative: it records the transmission of the meeting proceedings but does not describe the meeting's agenda, resolutions, or participants. The sender's handwritten signature is not legibly identified beneath the printed designation of General Secretary.
+
 ## Key points
 
 - The document is a typed office letter on Swatantra Party (Orissa Unit) letterhead.

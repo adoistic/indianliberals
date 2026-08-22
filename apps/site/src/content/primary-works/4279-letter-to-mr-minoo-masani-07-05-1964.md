@@ -46,6 +46,12 @@ summary: |-
   The letter asks Masani to confirm whether Rajaji can speak at the Indian Council of World Affairs on Monday, June 15, at 6:15 p.m., and, if so, to identify the subject of his proposed talk. The page contains no broader argument or substantive discussion beyond this logistical request.
 ---
 
+## Summary
+
+This untitled letter, dated May 7, 1964, is written by S. S. Bankeshwar of Boyce Mfg. Co. Private Ltd. to M. R. Masani in Bombay. Bankeshwar reports that C. Rajagopalachari (“Rajaji”) will arrive in Bombay on June 14 and leave on June 16.
+
+The letter asks Masani to confirm whether Rajaji can speak at the Indian Council of World Affairs on Monday, June 15, at 6:15 p.m., and, if so, to identify the subject of his proposed talk. The page contains no broader argument or substantive discussion beyond this logistical request.
+
 ## Key points
 
 - The document is a one-page English letter dated May 7, 1964.

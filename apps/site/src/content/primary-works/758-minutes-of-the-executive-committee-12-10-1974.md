@@ -53,6 +53,12 @@ summary: |-
   The agreed programme of work focused on practical local and economic grievances: complaints from hutment-dwellers and municipal residents, constructive work with the Sarvodaya movement, assistance in obtaining ration and milk cards, conservation of electricity in Bombay, and unequal access to subsidised milk among income-tax payers and others. The meeting concluded with a decision to issue a press statement presenting the Swatantra Party as a "common man's party," following the departure of members who had joined the BLD.
 ---
 
+## Summary
+
+These two pages record the proceedings of the Swatantra Party's Maharashtra Executive Meeting, held in Bombay on 12 October 1974. The minutes list the chair and members present, confirm the minutes of the 17 August meeting, and note a decision to read future minutes only at the following meeting in order to economise on paper. The meeting also discussed co-opting additional members to the Executive Committee in response to the formation of the BLD, while members from Poona district were reported to have chosen to remain with the Swatantra Party.
+
+The agreed programme of work focused on practical local and economic grievances: complaints from hutment-dwellers and municipal residents, constructive work with the Sarvodaya movement, assistance in obtaining ration and milk cards, conservation of electricity in Bombay, and unequal access to subsidised milk among income-tax payers and others. The meeting concluded with a decision to issue a press statement presenting the Swatantra Party as a "common man's party," following the departure of members who had joined the BLD.
+
 ## Key points
 
 - The Maharashtra Executive Meeting took place in Bombay on 12 October 1974, with Parmanand Kejriwal chairing.

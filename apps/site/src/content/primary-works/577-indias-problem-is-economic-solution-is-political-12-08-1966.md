@@ -58,6 +58,12 @@ summary: |-
   Masani's proposed remedy is political: dismantle the system of controls, licences, quotas, import restrictions, and state ownership that he believes has produced waste, overstaffing, corruption, and low productivity. He calls for an end to deficit financing, lower and more direct taxation, greater private investment, and a reorientation toward productive enterprise. The article closes by questioning whether the government is capable of making the radical changes required and warning that further devaluation and continued borrowing will deepen the crisis.
 ---
 
+## Summary
+
+In this one-page political forum article, M. R. Masani argues that India's economic crisis is the consequence of prolonged policy errors rather than an unavoidable national condition. He points to the June 5 devaluation, inflation, excessive dependence on foreign aid and loans, deficit financing, and the failure of successive Five-Year Plans. He also criticizes the emphasis on heavy industry at the expense of agriculture and consumer goods, as well as taxation that discourages investment and production.
+
+Masani's proposed remedy is political: dismantle the system of controls, licences, quotas, import restrictions, and state ownership that he believes has produced waste, overstaffing, corruption, and low productivity. He calls for an end to deficit financing, lower and more direct taxation, greater private investment, and a reorientation toward productive enterprise. The article closes by questioning whether the government is capable of making the radical changes required and warning that further devaluation and continued borrowing will deepen the crisis.
+
 ## Key points
 
 - Masani presents the June 5 devaluation as a moment when India's underlying economic problems could no longer be concealed.

@@ -48,6 +48,10 @@ summary: |-
   This one-page Times of India clipping reports a dispute between the Indian Olympic Association (IOA) and Doordarshan over television coverage and revenue from the Reliance Cup. IOA officials argue that the organising committee should receive 9 per cent of Doordarshan’s revenue from televising the tournament, describing the demand as reasonable and linking it to the development of sport in India. The report also records support for the IOA position from the apex sports body for Olympic sports in India.
 ---
 
+## Summary
+
+This one-page Times of India clipping reports a dispute between the Indian Olympic Association (IOA) and Doordarshan over television coverage and revenue from the Reliance Cup. IOA officials argue that the organising committee should receive 9 per cent of Doordarshan’s revenue from televising the tournament, describing the demand as reasonable and linking it to the development of sport in India. The report also records support for the IOA position from the apex sports body for Olympic sports in India.
+
 ## Key points
 
 - The IOA criticised Doordarshan’s response to the organising committee’s demand for a share of television revenue from the Reliance Cup.

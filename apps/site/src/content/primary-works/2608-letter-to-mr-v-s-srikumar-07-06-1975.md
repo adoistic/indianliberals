@@ -51,6 +51,12 @@ summary: |-
   The letter then turns to the party’s political strategy. Munshi urges dialogue with Kamaraj, Atal Bihari Vajpayee, and other Jana Sangh and Congress (O) leaders; expresses concern that the party has not seriously prepared for the coming general elections or fundraising; and considers possible electoral alignments in Gujarat. He proposes developing a minimum programme, studying other parties’ programmes, and beginning negotiations with parties for an eventual coming together.
 ---
 
+## Summary
+
+This two-page letter, dated 7 June 1975 and signed by Girish Munshi as Joint Secretary of the All-India Swatantra Party, responds to V. S. Srikumar about an affidavit before the Election Commission concerning the party and its affairs. Munshi explains the delay in replying, says the party’s advocate should already have addressed the allegations, and discusses correspondence circulated among party colleagues.
+
+The letter then turns to the party’s political strategy. Munshi urges dialogue with Kamaraj, Atal Bihari Vajpayee, and other Jana Sangh and Congress (O) leaders; expresses concern that the party has not seriously prepared for the coming general elections or fundraising; and considers possible electoral alignments in Gujarat. He proposes developing a minimum programme, studying other parties’ programmes, and beginning negotiations with parties for an eventual coming together.
+
 ## Key points
 
 - Munshi acknowledges receiving Srikumar’s 26 April letter only after returning from Matheran on 3 June.

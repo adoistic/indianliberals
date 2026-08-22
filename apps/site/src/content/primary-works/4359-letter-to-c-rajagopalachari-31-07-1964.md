@@ -51,6 +51,12 @@ summary: |-
   Masani proposes an urgent Organisation Sub-Committee meeting to prevent further deterioration and possibly bring defecting members back. He coordinates an August 8 meeting in Madras with Rajagopalachari and Ranga, while also noting that the meeting could address the food crisis and decide whether the Parliamentary Board should meet in Delhi on September 6. The document is a concise piece of internal party correspondence focused on organisational repair, defections, and immediate political scheduling.
 ---
 
+## Summary
+
+In this letter dated July 31, 1964, Minoo Masani urges C. Rajagopalachari to act quickly on a report by K. M. Munshi concerning the Swatantra Party's Bihar organisation. Masani says the report recommends suspending the Bihar Unit, dissolving the interim State Committee, transferring responsibility to the Organisation Sub-Committee, and reconstructing the party's Bihar units. He warns that eleven party members in the State Assembly and one in the Legislative Council are considering joining the Congress, attributing this exodus to dissatisfaction with the way the State Unit has been run.
+
+Masani proposes an urgent Organisation Sub-Committee meeting to prevent further deterioration and possibly bring defecting members back. He coordinates an August 8 meeting in Madras with Rajagopalachari and Ranga, while also noting that the meeting could address the food crisis and decide whether the Parliamentary Board should meet in Delhi on September 6. The document is a concise piece of internal party correspondence focused on organisational repair, defections, and immediate political scheduling.
+
 ## Key points
 
 - Masani forwards K. M. Munshi's report on the malfunctioning Swatantra Party Bihar Unit.

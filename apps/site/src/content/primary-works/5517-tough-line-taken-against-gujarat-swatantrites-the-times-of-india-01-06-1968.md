@@ -51,6 +51,12 @@ summary: |-
   The article presents the action as an attempt to balance discipline with the avoidance of a wider revolt. Minoo Masani and K. M. Munshi attend the meeting but leave the final decision to the executive, while N. Dandekar is reported to have acknowledged unsuccessful efforts to persuade Masani to withdraw his resignation. The latter part of the clipping turns to party and parliamentary matters, including an anti-United Front vote in Haryana, the proposed strategy for the mid-term poll in Uttar Pradesh, and the executive’s resolution on the Lok Sabha’s constitutional power to amend Fundamental Rights.
 ---
 
+## Summary
+
+This Times of India News Service report, dated Madras, May 31, describes disciplinary action by the national executive of the Swatantra Party against its Gujarat unit. In response to an open revolt by 32 Gujarat legislators, the executive adopts a “tough line,” expelling U. N. Midhia, M.P., for defying the party directive not to contest the Rajya Sabha seat from Gujarat. The report also says that three Gujarat Assembly members—Sahib Chandra Singh Jadeja, Narwar Singh Solanki and M. Chandra Kant Parikh—were barred from holding party or legislative-organisation office for supporting Midhia.
+
+The article presents the action as an attempt to balance discipline with the avoidance of a wider revolt. Minoo Masani and K. M. Munshi attend the meeting but leave the final decision to the executive, while N. Dandekar is reported to have acknowledged unsuccessful efforts to persuade Masani to withdraw his resignation. The latter part of the clipping turns to party and parliamentary matters, including an anti-United Front vote in Haryana, the proposed strategy for the mid-term poll in Uttar Pradesh, and the executive’s resolution on the Lok Sabha’s constitutional power to amend Fundamental Rights.
+
 ## Key points
 
 - The Swatantra Party’s national executive responds to an open revolt by 32 Gujarat legislators.

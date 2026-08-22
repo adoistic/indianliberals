@@ -59,6 +59,10 @@ summary: |-
   This English-language High Court writ petition, filed in Bombay in December 1994 by the Swatantra Party (Maharashtra) and S. V. Raju, challenges Section 29(A)(5) of the Representation of the People Act, 1951. The provision required political parties seeking registration to include a declaration of true faith and allegiance to the Constitution, the principles of socialism, secularism and democracy, and the sovereignty, unity and integrity of India. The petitioners seek to have the socialism requirement struck down and to have the Swatantra Party registered without making that declaration.
 ---
 
+## Summary
+
+This English-language High Court writ petition, filed in Bombay in December 1994 by the Swatantra Party (Maharashtra) and S. V. Raju, challenges Section 29(A)(5) of the Representation of the People Act, 1951. The provision required political parties seeking registration to include a declaration of true faith and allegiance to the Constitution, the principles of socialism, secularism and democracy, and the sovereignty, unity and integrity of India. The petitioners seek to have the socialism requirement struck down and to have the Swatantra Party registered without making that declaration.
+
 ## Key points
 
 - The petition treats mandatory registration of political parties as a constitutional question under Articles 14, 19 and 226.

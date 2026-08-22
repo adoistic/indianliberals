@@ -50,6 +50,12 @@ summary: |-
   The letter is copied to Pramod Kalyani in Rajkot. The document identifies Masani as the subject of the resignation matter, not as the signer; the handwritten signature is not legible, and no personal name is supplied for the secretary.
 ---
 
+## Summary
+
+Dated 20 May 1968, this one-page typed letter is written on behalf of M. R. Masani by an unidentified secretary to Ratibhai Ukabhai Patel in Rajkot. It requests all relevant clippings from Gujarati newspapers in Rajkot, and where possible Ahmedabad, concerning Masani’s 15 May press statement about his resignation from the National Executive of the Swatantra Party. The writer explains that postal irregularities have delayed receipt of the material at their office and asks Patel to send both the clippings and any editorial or other comments on the issue.
+
+The letter is copied to Pramod Kalyani in Rajkot. The document identifies Masani as the subject of the resignation matter, not as the signer; the handwritten signature is not legible, and no personal name is supplied for the secretary.
+
 ## Key points
 
 - The letter is dated 20 May 1968.

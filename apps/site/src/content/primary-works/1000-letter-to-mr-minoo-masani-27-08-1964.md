@@ -47,6 +47,12 @@ summary: |-
   The second half of the letter turns to Swatantra Party organisational business in Rajasthan. Major Bhatnagar and Ayuvan Singh have been sending regular reports; Kesri Singh and Bhargava are said to be functioning well. The writer confesses feeling guilty about his prolonged absence, but suggests it has been salutary for the state unit not to rely too much on him, and admits that reconciling duties to family and Party has become extremely difficult — while insisting this does not signal any intention of quitting. He has also promised Shri Maraswamy that he will travel to Tiruchirapalli in the last week of September.
 ---
 
+## Summary
+
+This typewritten letter, dated 27 August 1964 and sent from Kings Beeches, Sunninghill, Ascot, replies to a note Minoo Masani had written six days earlier. The correspondent explains that a planned return to India on 3 September has been pushed back, for family reasons, to Sunday 20 September; he will therefore reach the Lok Sabha only on the 21st and regrets that he will miss the opening of Parliament, the party meeting scheduled for 6 September, and a chance to see Rajaji.
+
+The second half of the letter turns to Swatantra Party organisational business in Rajasthan. Major Bhatnagar and Ayuvan Singh have been sending regular reports; Kesri Singh and Bhargava are said to be functioning well. The writer confesses feeling guilty about his prolonged absence, but suggests it has been salutary for the state unit not to rely too much on him, and admits that reconciling duties to family and Party has become extremely difficult — while insisting this does not signal any intention of quitting. He has also promised Shri Maraswamy that he will travel to Tiruchirapalli in the last week of September.
+
 ## Key points
 
 - Typed letter dated 27 August 1964, sent from Kings Beeches, Sunninghill, Ascot (Berkshire) in reply to a letter Minoo Masani sent on 21 August 1964.

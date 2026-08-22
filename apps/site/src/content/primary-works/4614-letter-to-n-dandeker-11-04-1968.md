@@ -50,6 +50,12 @@ summary: |-
   Masani also encloses a letter from Babubhai Vaidya, which he says contains information of interest to the party’s National Executive and Central Parliamentary Board. The document records a procedural act of internal party communication rather than presenting the substantive contents of either enclosed letter; those enclosures are not included in the rendered page.
 ---
 
+## Summary
+
+This one-page letter, dated 11 April 1968 and written by M. R. Masani from New Delhi to N. Dandeker, concerns the circulation of political correspondence within the Swatantra Party. Masani forwards a copy of a letter addressed to Professor Ranga and asks Dandeker to bring it to the attention of the National Executive and Central Parliamentary Board, specifically regarding suggested action in the letter’s penultimate paragraph.
+
+Masani also encloses a letter from Babubhai Vaidya, which he says contains information of interest to the party’s National Executive and Central Parliamentary Board. The document records a procedural act of internal party communication rather than presenting the substantive contents of either enclosed letter; those enclosures are not included in the rendered page.
+
 ## Key points
 
 - The letter is dated 11 April 1968 and was sent from 2 Jugal Kishore Road, New Delhi.

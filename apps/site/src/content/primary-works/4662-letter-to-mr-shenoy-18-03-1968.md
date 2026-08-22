@@ -47,6 +47,10 @@ summary: |-
   This single-page English telegram confirmation copy, dated 18 March 1968 and sent from Ahmedabad, records Masani thanking Professor Shenoy for withdrawing his nomination as state president at the direction of H. M. Patel. Masani also asks Dandeker to withdraw, referring to an assurance made in Dandeker's telegram.
 ---
 
+## Summary
+
+This single-page English telegram confirmation copy, dated 18 March 1968 and sent from Ahmedabad, records Masani thanking Professor Shenoy for withdrawing his nomination as state president at the direction of H. M. Patel. Masani also asks Dandeker to withdraw, referring to an assurance made in Dandeker's telegram.
+
 ## Key points
 
 - The document is marked “EXP” and is formatted as a clipped-wording telegram rather than a conventional letter.

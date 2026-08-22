@@ -49,6 +49,10 @@ summary: |-
   Dated November 10, 1965, this one-page Central Office Circular from the Swatantra Party asks state units to participate in Lajpatrai Martyrdom Day on November 17. The circular reports a request from the Lajpatrai Centenary Committee and authorizes units to accept invitations to local commemorative meetings.
 ---
 
+## Summary
+
+Dated November 10, 1965, this one-page Central Office Circular from the Swatantra Party asks state units to participate in Lajpatrai Martyrdom Day on November 17. The circular reports a request from the Lajpatrai Centenary Committee and authorizes units to accept invitations to local commemorative meetings.
+
 ## Key points
 
 - The circular is issued by the Swatantra Party Central Office from Bombay.

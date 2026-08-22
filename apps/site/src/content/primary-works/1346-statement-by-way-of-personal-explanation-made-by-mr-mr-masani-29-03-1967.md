@@ -51,6 +51,12 @@ summary: |-
   Masani disputes the claim that he had identified three large Opposition groups that opposed the nomination of Mr. Kunte while advising that they should be disregarded. He states instead that he approached the Prime Minister on behalf of all seven Opposition groups to ask that no nomination be made from the Congress Party, and that he assured her Opposition unity would be restored. He further challenges the Prime Minister’s account of the Opposition’s position, citing a meeting attended by Mr. Gopalan and Mr. Anandan Nambiar of the Left Communist Party. The statement is therefore focused on parliamentary accountability, the accuracy of political representation, and the unity of the Opposition.
 ---
 
+## Summary
+
+This three-page parliamentary statement records M. R. Masani’s personal explanation in the Lok Sabha on 29 March 1967. Masani responds to statements made by the Prime Minister after Opposition members had left the House during the election of the Deputy Speaker. He says that the Prime Minister misrepresented a conversation held at 11 a.m. on 27 March and that he is correcting the record because the remarks could create prejudice against him.
+
+Masani disputes the claim that he had identified three large Opposition groups that opposed the nomination of Mr. Kunte while advising that they should be disregarded. He states instead that he approached the Prime Minister on behalf of all seven Opposition groups to ask that no nomination be made from the Congress Party, and that he assured her Opposition unity would be restored. He further challenges the Prime Minister’s account of the Opposition’s position, citing a meeting attended by Mr. Gopalan and Mr. Anandan Nambiar of the Left Communist Party. The statement is therefore focused on parliamentary accountability, the accuracy of political representation, and the unity of the Opposition.
+
 ## Key points
 
 - Masani presents a personal explanation in the Lok Sabha dated 29 March 1967.

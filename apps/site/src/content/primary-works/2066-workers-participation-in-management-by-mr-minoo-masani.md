@@ -49,6 +49,10 @@ summary: |-
   In this pamphlet, M. R. Masani examines workers’ participation in management as an emerging issue for India and surveys arrangements in France, the United Kingdom, Sweden, West Germany and Yugoslavia. He distinguishes between systems established by legislation and those developed through voluntary agreements. The comparative discussion emphasizes that participation generally remains consultative rather than managerial, while West German co-determination and Yugoslav workers’ control represent more ambitious experiments. Masani also stresses the importance of independent trade unions, worker education and practical experience.
 ---
 
+## Summary
+
+In this pamphlet, M. R. Masani examines workers’ participation in management as an emerging issue for India and surveys arrangements in France, the United Kingdom, Sweden, West Germany and Yugoslavia. He distinguishes between systems established by legislation and those developed through voluntary agreements. The comparative discussion emphasizes that participation generally remains consultative rather than managerial, while West German co-determination and Yugoslav workers’ control represent more ambitious experiments. Masani also stresses the importance of independent trade unions, worker education and practical experience.
+
 ## Key points
 
 - The pamphlet presents workers’ participation as a possible component of India’s future labour and industrial policy.

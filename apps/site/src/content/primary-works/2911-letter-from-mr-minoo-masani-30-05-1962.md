@@ -52,6 +52,12 @@ summary: |-
   Masani encloses a letter from a party member in Aleppey and a newspaper clipping reporting Prime Minister Jawaharlal Nehru's displeasure with the ambassador's manner of replying. The clipping records Nehru's defence of India's foreign-policy independence: reductions in U.S. aid, he says, would not induce India to alter its policy, and India would continue seeking equipment from countries willing to supply it. The rendered pages contain the complete two-page archival item, including the enclosed press report, but do not provide a printed title for the letter.
 ---
 
+## Summary
+
+In this letter dated 30 May 1962, Minoo Masani writes to Maharaja P. Y. Deo of Kalahandi about the parliamentary controversy surrounding the Indian ambassador's television interview in the United States. Masani questions why Swatantra Party members supported a Communist adjournment motion seeking the ambassador's removal, arguing that the party had previously supported an independent candidate against Krishna Menon for that purpose. He cautions that adopting the Communist line, even unintentionally, could damage the party's political identity.
+
+Masani encloses a letter from a party member in Aleppey and a newspaper clipping reporting Prime Minister Jawaharlal Nehru's displeasure with the ambassador's manner of replying. The clipping records Nehru's defence of India's foreign-policy independence: reductions in U.S. aid, he says, would not induce India to alter its policy, and India would continue seeking equipment from countries willing to supply it. The rendered pages contain the complete two-page archival item, including the enclosed press report, but do not provide a printed title for the letter.
+
 ## Key points
 
 - Masani writes on 30 May 1962 to Maharaja P. Y. Deo of Kalahandi.

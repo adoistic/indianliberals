@@ -47,6 +47,12 @@ summary: |-
   Patel reports that Vajpayee appreciated the suggestion and said Masani's contesting would be a matter of pride for the country and the party; Vajpayee's reply, in Hindi, is enclosed with this covering note. Patel presses Masani to take a decision to stand, and closes with an apology in case the unsolicited suggestion has caused offence.
 ---
 
+## Summary
+
+A one-page typed letter from Harihar Patel, an advocate of the Orissa High Court based in Cuttack, addressed to Minoo Masani on 3 October 1979. Patel writes that he and friends in Bhubaneswar had seen a news item reporting that Atal Bihari Vajpayee planned to approach intellectuals and eminent jurists to persuade them to contest the ensuing election on a Janata Party ticket. On their own initiative they wrote to Vajpayee suggesting that Masani himself be approached.
+
+Patel reports that Vajpayee appreciated the suggestion and said Masani's contesting would be a matter of pride for the country and the party; Vajpayee's reply, in Hindi, is enclosed with this covering note. Patel presses Masani to take a decision to stand, and closes with an apology in case the unsolicited suggestion has caused offence.
+
 ## Key points
 
 - Letter dated 3 October 1979 from Harihar Patel, Advocate at the Orissa High Court, Cuttack, to Minoo Masani at 148 Mahatma Gandhi Road, Bombay-23.

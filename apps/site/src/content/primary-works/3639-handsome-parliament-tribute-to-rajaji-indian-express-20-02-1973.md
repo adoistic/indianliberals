@@ -51,6 +51,12 @@ summary: |-
   The report summarizes tributes from several politicians, including Dr. Shaukatullah Ansari, Bakar Ali Mirza, K. K. Chatterji, G. D. Somani, Maj. Gen. Himmat Singh, M. Rampure, Jiyalal Mandal, A. B. Vajpayee, G. Vishwanathan, G. D. Somani, and others. It also notes that the House observed a two-minute silence. The second rendered page is a separate, apparently unrelated Swatantra Party circular marked “PERSONAL,” concerning the forthcoming March State Assembly elections. It reflects on the party’s recent electoral reverses, rejects a repeat of the “Grand Alliance,” and argues that the party’s organisation and distinctive ideology remain viable.
 ---
 
+## Summary
+
+The first rendered page is an Indian Express report dated 20 February 1973 on the Lok Sabha’s tribute to C. Rajagopalachari (Rajaji), who had died in 1972. Speaker G. S. Dhillon and Prime Minister Indira Gandhi described Rajaji as an eminent statesman, freedom fighter, parliamentarian, philosopher, journalist, and defender of moral and spiritual values. The report records praise for his intellectual independence, administrative insight, concern with war and peace, and role as a distinctive political voice in independent India. Members also recalled Rajaji’s opposition-minded parliamentary example and his service to the nation.
+
+The report summarizes tributes from several politicians, including Dr. Shaukatullah Ansari, Bakar Ali Mirza, K. K. Chatterji, G. D. Somani, Maj. Gen. Himmat Singh, M. Rampure, Jiyalal Mandal, A. B. Vajpayee, G. Vishwanathan, G. D. Somani, and others. It also notes that the House observed a two-minute silence. The second rendered page is a separate, apparently unrelated Swatantra Party circular marked “PERSONAL,” concerning the forthcoming March State Assembly elections. It reflects on the party’s recent electoral reverses, rejects a repeat of the “Grand Alliance,” and argues that the party’s organisation and distinctive ideology remain viable.
+
 ## Key points
 
 - The Indian Express report records parliamentary tributes to C. Rajagopalachari after his death.

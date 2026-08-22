@@ -48,6 +48,12 @@ summary: |-
   The two drafts address unpaid vehicle taxes connected with Jeeps sold by Conant Marketing Co. of India Ltd. in or around May 1967. One draft concerns two Jeeps already located in West Bengal, while the other concerns a Jeep located in Jaipur and addressed to Maharani Gayatri Devi. Both letters state that the vehicles were registered in Mr. M. R. Masani’s name, that the Collector of Bombay and the R.T.O. (Recovery) were seeking taxes for July 1967 through 1970, and that the seller seeks confirmation of the vehicles’ locations and payment of taxes at the relevant places. The packet also bears a Bhartiya Lok Dal office stamp.
 ---
 
+## Summary
+
+This three-page English office-letter packet, dated March 5, 1975, consists of a covering letter from Miss Mody to Mr. Lingappa and two enclosed draft letters signed by V. P. Bhatia. The covering letter records the transmission of two original letters, two true copies, and two draft letters, with the documents apparently intended for Mr. Minoo Masani and other parties concerned.
+
+The two drafts address unpaid vehicle taxes connected with Jeeps sold by Conant Marketing Co. of India Ltd. in or around May 1967. One draft concerns two Jeeps already located in West Bengal, while the other concerns a Jeep located in Jaipur and addressed to Maharani Gayatri Devi. Both letters state that the vehicles were registered in Mr. M. R. Masani’s name, that the Collector of Bombay and the R.T.O. (Recovery) were seeking taxes for July 1967 through 1970, and that the seller seeks confirmation of the vehicles’ locations and payment of taxes at the relevant places. The packet also bears a Bhartiya Lok Dal office stamp.
+
 ## Key points
 
 - The packet is dated March 5, 1975, and is addressed by Miss Mody to Mr. Lingappa.

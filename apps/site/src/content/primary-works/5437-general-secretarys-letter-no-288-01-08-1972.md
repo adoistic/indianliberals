@@ -51,6 +51,12 @@ summary: |-
   The practical consequence is a revised anti-defection week schedule in Bhubaneswar. Delegations from state units are instructed to arrive on the evening of August 20, not August 15, and the letter asks that all concerned be informed of the change. The document is an administrative communication coordinating party activity around the Orissa Assembly session.
 ---
 
+## Summary
+
+This one-page English letter, dated August 1, 1972, was issued by the Swatantra Party's national headquarters in Bombay as General Secretary's Letter No. 207. Signed by Madhu Mehta, it informs party units that the Orissa Assembly session has been postponed and will now begin on August 21 rather than the previously expected date.
+
+The practical consequence is a revised anti-defection week schedule in Bhubaneswar. Delegations from state units are instructed to arrive on the evening of August 20, not August 15, and the letter asks that all concerned be informed of the change. The document is an administrative communication coordinating party activity around the Orissa Assembly session.
+
 ## Key points
 
 - The document is General Secretary's Letter No. 207 of the Swatantra Party.

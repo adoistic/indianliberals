@@ -47,6 +47,10 @@ summary: |-
   This three-page correspondence packet from September 1969 records arrangements for meetings connected with Gandhi Centenary celebrations. In a letter dated 5 September, Prof. N. G. Ranga thanks Indira Gandhi for inviting him to a Gandhi Centenary Committee meeting and explains that, because he does not expect to be in Delhi, he has asked Hiralal? No—the letter names Shri Hemant and Shri Dahyabhai Patel to represent his party. A separate letter dated 18 September from M. R. Masani to Ranga explains that a previously scheduled Patents Bill meeting was cancelled, preventing Masani from travelling to Delhi for a meeting with the Prime Minister; Masani hopes Dahyabhai attended instead.
 ---
 
+## Summary
+
+This three-page correspondence packet from September 1969 records arrangements for meetings connected with Gandhi Centenary celebrations. In a letter dated 5 September, Prof. N. G. Ranga thanks Indira Gandhi for inviting him to a Gandhi Centenary Committee meeting and explains that, because he does not expect to be in Delhi, he has asked Hiralal? No—the letter names Shri Hemant and Shri Dahyabhai Patel to represent his party. A separate letter dated 18 September from M. R. Masani to Ranga explains that a previously scheduled Patents Bill meeting was cancelled, preventing Masani from travelling to Delhi for a meeting with the Prime Minister; Masani hopes Dahyabhai attended instead.
+
 ## Key points
 
 - The packet contains three typed letters dated 5, 6, and 18 September 1969.

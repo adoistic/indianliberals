@@ -49,6 +49,12 @@ summary: |-
   The illustration frames these choices through competing economic sectors and public investments. It names agriculture, consumer goods, producer goods, heavy industry, education, and roads or other social overheads, suggesting that centralised planning requires authorities to decide how resources should be distributed among them. No author, publisher, issuing organisation, or publication date is visible.
 ---
 
+## Summary
+
+This one-page illustrated sheet explains centralised comprehensive planning as the model India adopted from 1956, identified as the year of the Second Five-Year Plan. It defines planning as mobilising the country’s scarce resources to create wealth and remove poverty, while presenting it as a process of choosing priorities among sectors of the economy.
+
+The illustration frames these choices through competing economic sectors and public investments. It names agriculture, consumer goods, producer goods, heavy industry, education, and roads or other social overheads, suggesting that centralised planning requires authorities to decide how resources should be distributed among them. No author, publisher, issuing organisation, or publication date is visible.
+
 ## Key points
 
 - The page identifies 1956, the year of the Second Five-Year Plan, as the point when India adopted centralised comprehensive planning.

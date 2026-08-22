@@ -61,6 +61,12 @@ summary: |-
   The petition presents the Swatantra Party as committed to social justice, equality of opportunity, constitutional democracy, individual initiative, private enterprise, and maximum individual freedom with minimum state interference. It invokes the principle of trusteeship associated with Gandhi, while opposing socialism as a doctrine of state control over the economy and private enterprise. The petitioner contends that Section 29A violates Articles 19(1)(a) and 19(1)(c), as well as Articles 14, 19, and 226 of the Constitution, because it effectively compels a political party to adopt or profess an ideology it rejects. The requested relief includes striking down Section 29A as ultra vires, recognizing the party’s right to register while retaining its own ideology, and granting interim directions enabling it to contest forthcoming elections.
 ---
 
+## Summary
+
+This untitled English-language writ petition was filed in the High Court of Judicature at Bombay in October 1994 by the Swatantra Party (Maharashtra), through its General Secretary, L. R. Sampat. It challenges Section 29A of the Representation of the People Act, 1951, which requires political parties seeking registration to affirm allegiance to the Constitution and to the principles of socialism, secularism, and democracy. The petition argues that the requirement to affirm faith in socialism is incompatible with the party’s established ideology and with constitutional protections for speech, expression, belief, and association.
+
+The petition presents the Swatantra Party as committed to social justice, equality of opportunity, constitutional democracy, individual initiative, private enterprise, and maximum individual freedom with minimum state interference. It invokes the principle of trusteeship associated with Gandhi, while opposing socialism as a doctrine of state control over the economy and private enterprise. The petitioner contends that Section 29A violates Articles 19(1)(a) and 19(1)(c), as well as Articles 14, 19, and 226 of the Constitution, because it effectively compels a political party to adopt or profess an ideology it rejects. The requested relief includes striking down Section 29A as ultra vires, recognizing the party’s right to register while retaining its own ideology, and granting interim directions enabling it to contest forthcoming elections.
+
 ## Key points
 
 - The Swatantra Party (Maharashtra) petitions the Bombay High Court against Section 29A of the Representation of the People Act, 1951.

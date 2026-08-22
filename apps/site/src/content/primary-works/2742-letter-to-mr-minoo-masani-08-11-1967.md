@@ -49,6 +49,10 @@ summary: |-
   This single-page English letter from the Swatantra Party district office in Ranchi is addressed to M. R. Masani, who is identified as having reportedly decided to resign the party’s general secretaryship. S. A. Chowdhury expresses personal sadness at the decision and acknowledges that workers in smaller party units may not understand its implications. The letter nonetheless presents Masani’s resignation as an example of democratic conduct. Chowdhury says that Masani’s ideals will continue to inspire party workers, closing with cordial wishes and a handwritten signature. The page carries a Swatantra Party letterhead and a receipt stamp dated 15 November 1967; no separate composition date or printed title is visible.
 ---
 
+## Summary
+
+This single-page English letter from the Swatantra Party district office in Ranchi is addressed to M. R. Masani, who is identified as having reportedly decided to resign the party’s general secretaryship. S. A. Chowdhury expresses personal sadness at the decision and acknowledges that workers in smaller party units may not understand its implications. The letter nonetheless presents Masani’s resignation as an example of democratic conduct. Chowdhury says that Masani’s ideals will continue to inspire party workers, closing with cordial wishes and a handwritten signature. The page carries a Swatantra Party letterhead and a receipt stamp dated 15 November 1967; no separate composition date or printed title is visible.
+
 ## Key points
 
 - The letter is addressed to M. R. Masani at Sassoon Building, Bombay-1. It responds to Masani’s reported decision to resign as the Swatantra Party’s general secretary. The signatory says that workers in smaller party units cannot understand the decision’s implications. Masani’s action is described as a unique democratic example. The letter affirms that Masani’s ideals will continue to inspire party workers.

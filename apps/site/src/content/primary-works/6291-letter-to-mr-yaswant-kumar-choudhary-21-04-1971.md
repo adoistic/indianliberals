@@ -50,6 +50,12 @@ summary: |-
   Masani states that the resignation is now “an accomplished fact,” while assuring Choudhury that he remains willing to help in any way he can. The attached telegram records an appeal from the Swatantra Party’s Bihar organisation, described as the “Swatantra family of Bihar,” for Masani to withdraw his resignation because his departure would not help either the party or the nation and the party needed him at a “crucial time.”
 ---
 
+## Summary
+
+This 21 April 1971 letter from M. R. Masani to Yaswant Kumar Choudhury responds to Choudhury’s telegram urging Masani not to press his resignation from the presidency of the Swatantra Party. Masani regrets that he could not accept the suggestion, refers to reasons he had already explained to Mr. Tej Narayan, and encloses a copy of his resignation letter.
+
+Masani states that the resignation is now “an accomplished fact,” while assuring Choudhury that he remains willing to help in any way he can. The attached telegram records an appeal from the Swatantra Party’s Bihar organisation, described as the “Swatantra family of Bihar,” for Masani to withdraw his resignation because his departure would not help either the party or the nation and the party needed him at a “crucial time.”
+
 ## Key points
 
 - Masani’s letter is dated 21 April 1971 and addressed to Yaswant Kumar Choudhury.

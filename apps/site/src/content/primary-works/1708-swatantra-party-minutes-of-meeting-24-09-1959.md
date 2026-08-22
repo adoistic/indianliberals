@@ -56,6 +56,12 @@ summary: |-
   The committee planned meetings on the economic policies of government and Gandhi Jayanti, supported Bombay citizen meetings condemning Chinese aggression, and sanctioned Rs. 300 toward those events, at which Jayaprakash Narayan was to speak. It also assigned drafts on the Government’s Sugar Policy and the food situation, and recorded a bank balance of Rs. 52,437 with Rs. 56 in cash. The document ends with the date of the next meeting; no further proceedings are included.
 ---
 
+## Summary
+
+This two-page English-language office record documents a meeting of the Swatantra Party’s Organising Committee for Greater Bombay, held on 24 September 1959. The committee reviewed membership, public outreach, staffing, local meetings, finances, and coordination between its convenors and central office. The record reports 859 members enrolled to date, with 259 membership books outstanding and forms distributed to several regions, and calls for a stronger party organisation built around regular public statements and a larger cadre of workers.
+
+The committee planned meetings on the economic policies of government and Gandhi Jayanti, supported Bombay citizen meetings condemning Chinese aggression, and sanctioned Rs. 300 toward those events, at which Jayaprakash Narayan was to speak. It also assigned drafts on the Government’s Sugar Policy and the food situation, and recorded a bank balance of Rs. 52,437 with Rs. 56 in cash. The document ends with the date of the next meeting; no further proceedings are included.
+
 ## Key points
 
 - The Greater Bombay Organising Committee met at the Swatantra Party office on 24 September 1959.

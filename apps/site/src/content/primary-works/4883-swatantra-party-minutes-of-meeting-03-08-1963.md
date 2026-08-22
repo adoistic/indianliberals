@@ -51,6 +51,12 @@ summary: |-
   The later agenda items concern party administration and financial accountability. The Sub-Committee addressed the disposal and repair of party jeeps in Andhra, the Bihar Jeep Credit claims, arrangements for the next General Council meeting in Jaipur, members' association with the Bharat Sevak Samaj, and the transfer of permanent membership when a member moved between states. The minutes end after approving or assigning specific organisational actions, including the return of unspent funds to the Central Office.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Organisation Sub-Committee meeting held on 3 August 1963 in Rajaji's Room, Kalki Buildings, Madras. Chaired by Prof. N. G. Ranga, the meeting confirmed earlier minutes and reviewed recommendations for reorganising State Executive Committees in Bombay, Madras, Gujarat, Uttar Pradesh, and Andhra Pradesh. The document lists approved office-bearers and members, while also recording disagreements, resignations, requests to continue in office, and the Central Committee's role in approving state-level arrangements.
+
+The later agenda items concern party administration and financial accountability. The Sub-Committee addressed the disposal and repair of party jeeps in Andhra, the Bihar Jeep Credit claims, arrangements for the next General Council meeting in Jaipur, members' association with the Bharat Sevak Samaj, and the transfer of permanent membership when a member moved between states. The minutes end after approving or assigning specific organisational actions, including the return of unspent funds to the Central Office.
+
 ## Key points
 
 - The meeting reviewed and confirmed the minutes of an earlier Organisation Sub-Committee meeting.

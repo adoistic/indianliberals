@@ -50,6 +50,10 @@ summary: |-
   This Times of India report covers M. R. Masani's response to the Prime Minister's offer to lift business controls, made at a Forum of Free Enterprise meeting in Bombay. Masani welcomed the proposal but argued that businesspeople and industrialists would need to respond to the challenge. He attributed existing economic difficulties to excessive controls, bank nationalisation, and the expansion of public enterprises.
 ---
 
+## Summary
+
+This Times of India report covers M. R. Masani's response to the Prime Minister's offer to lift business controls, made at a Forum of Free Enterprise meeting in Bombay. Masani welcomed the proposal but argued that businesspeople and industrialists would need to respond to the challenge. He attributed existing economic difficulties to excessive controls, bank nationalisation, and the expansion of public enterprises.
+
 ## Key points
 
 - M. R. Masani welcomed the Prime Minister's offer to remove business controls.

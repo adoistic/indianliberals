@@ -48,6 +48,10 @@ summary: |-
   This Times of India News Service report, dated Panjim, November 5, 1963, describes the resignation of eighteen Goa Congressmen, including the party's vice-president and secretary and six members of the Pradesh Congress Committee. The resignations protested the Central Parliamentary Board's distribution of Congress tickets for the forthcoming elections and were presented as a serious challenge to the ruling party's prestige in Goa.
 ---
 
+## Summary
+
+This Times of India News Service report, dated Panjim, November 5, 1963, describes the resignation of eighteen Goa Congressmen, including the party's vice-president and secretary and six members of the Pradesh Congress Committee. The resignations protested the Central Parliamentary Board's distribution of Congress tickets for the forthcoming elections and were presented as a serious challenge to the ruling party's prestige in Goa.
+
 ## Key points
 
 - Eighteen Goa Congressmen resigned over the allocation of election tickets.

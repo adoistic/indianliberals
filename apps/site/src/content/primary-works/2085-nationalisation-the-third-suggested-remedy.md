@@ -52,6 +52,10 @@ summary: |-
   The page presents “controls” and nationalisation as proposed remedies for high prices and shortages, but argues that both measures produce damaging unintended effects. It claims that commodity controls create scarcity and widen the gap between official and black-market prices, using cement as an example: a manufacturer receiving about Rs. 16 per bag is said to see cement sold for Rs. 25 to Rs. 40, with the difference accruing to corrupt officials and political middlemen as black money. The page contrasts this with an uncontrolled market, in which higher prices would generate tax revenue and encourage expanded production, eventually bringing prices down.
 ---
 
+## Summary
+
+The page presents “controls” and nationalisation as proposed remedies for high prices and shortages, but argues that both measures produce damaging unintended effects. It claims that commodity controls create scarcity and widen the gap between official and black-market prices, using cement as an example: a manufacturer receiving about Rs. 16 per bag is said to see cement sold for Rs. 25 to Rs. 40, with the difference accruing to corrupt officials and political middlemen as black money. The page contrasts this with an uncontrolled market, in which higher prices would generate tax revenue and encourage expanded production, eventually bringing prices down.
+
 ## Key points
 
 - Commodity controls are presented as a cause of scarcity and black-market activity.

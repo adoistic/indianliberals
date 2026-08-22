@@ -46,6 +46,10 @@ summary: |-
   This single-page letter from M. R. Masani, dated January 28, 1964, is addressed to Homi Mody. Masani says he is sending an attached note to Rajaji, Ranga, and Mody in anticipation that Ramgarh might seek to reopen a matter in Bangalore. The letter itself does not explain the underlying matter; it functions as a brief covering letter for the enclosure.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani, dated January 28, 1964, is addressed to Homi Mody. Masani says he is sending an attached note to Rajaji, Ranga, and Mody in anticipation that Ramgarh might seek to reopen a matter in Bangalore. The letter itself does not explain the underlying matter; it functions as a brief covering letter for the enclosure.
+
 ## Key points
 
 - The letter is dated January 28, 1964.

@@ -54,6 +54,12 @@ summary: |-
   Masani broadens the argument into a critique of political leadership in India. He compares the conduct of the Swatantra Party with that of the Congress and argues that the country’s democratic future is threatened when parliamentary systems give way to authoritarianism. He calls for a return to principle, integrity, and leadership that is not merely electoral or factional, while stressing that his resignation was an act of conscience rather than a conditional bargaining position.
 ---
 
+## Summary
+
+In this newspaper article, M. R. Masani explains his resignation as General Secretary of the Swatantra Party. He links the immediate dispute to the party’s handling of disciplinary action against N. Dandekar, following the party’s poor showing in the Gujarat Rajya Sabha election, but presents it as part of a wider crisis of credibility. He criticises the erosion of internal discipline, the selling of votes and seats, and the failure of political parties to honour their pledges.
+
+Masani broadens the argument into a critique of political leadership in India. He compares the conduct of the Swatantra Party with that of the Congress and argues that the country’s democratic future is threatened when parliamentary systems give way to authoritarianism. He calls for a return to principle, integrity, and leadership that is not merely electoral or factional, while stressing that his resignation was an act of conscience rather than a conditional bargaining position.
+
 ## Key points
 
 - Masani states that he resigned from the Swatantra Party after objecting to the handling of disciplinary action against N. Dandekar.

@@ -47,6 +47,12 @@ summary: |-
   The letter records Shroff’s intention to re-examine the MSS and consider revisions in light of the recipient’s comments. It closes courteously with thanks and a handwritten signature that appears to read “A. D. Shroff,” although the signature requires verification. The salutation is difficult to read, and the envelope is addressed to Shri Agni Bhoj in Bhopal, leaving the recipient’s identity unresolved.
 ---
 
+## Summary
+
+This two-page English correspondence item is a typed personal letter from A. D. Shroff, dated 25 October 1959 and written from Mukund Bag, Rewa, Madhya Pradesh. Shroff acknowledges receipt of a letter dated 21 October and thanks the recipient for observations and suggestions made in response to an earlier request.
+
+The letter records Shroff’s intention to re-examine the MSS and consider revisions in light of the recipient’s comments. It closes courteously with thanks and a handwritten signature that appears to read “A. D. Shroff,” although the signature requires verification. The salutation is difficult to read, and the envelope is addressed to Shri Agni Bhoj in Bhopal, leaving the recipient’s identity unresolved.
+
 ## Key points
 
 - The letter is dated 25 October 1959 and headed from Mukund Bag, Rewa, M.P.

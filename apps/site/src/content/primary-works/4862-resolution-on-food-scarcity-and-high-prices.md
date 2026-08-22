@@ -50,6 +50,12 @@ summary: |-
   The document presents a clear constitutionalist and oppositional position, but gives no explanation of the amendment’s provisions, the grounds for opposing it, or the political circumstances surrounding its enactment. No individual author, date, place, or separate publication imprint is visible on the rendered page.
 ---
 
+## Summary
+
+This one-page English draft resolution, issued under the heading “SWATANTRA PARTY,” condemns the enactment of the Seventeenth Amendment to the Constitution. It states that the amendment was passed despite public protests and the party’s efforts to prevent it, and commits the party to seeking its repeal at the earliest possible opportunity.
+
+The document presents a clear constitutionalist and oppositional position, but gives no explanation of the amendment’s provisions, the grounds for opposing it, or the political circumstances surrounding its enactment. No individual author, date, place, or separate publication imprint is visible on the rendered page.
+
 ## Key points
 
 - The document is headed “SWATANTRA PARTY” and identified as a draft resolution.

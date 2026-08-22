@@ -51,6 +51,12 @@ summary: |-
   Raju says he will be in Delhi on Friday, February 21, to ask Col. Pasricha for a copy of the minutes. He also asks Sundaram to investigate the matter in his own papers. The letter is addressed to Sundaram in his capacity as President of the All India Swatantra Party and includes a copy notation referring to Mr. Srikumar of Madras. The document’s date is uncertain: the letterhead appears to read “1/9/72,” while the body refers to February 1975.
 ---
 
+## Summary
+
+This one-page letter from S. V. Raju to G. K. Sundaram acknowledges receipt of Sundaram’s letter of February 8, 1975, together with meeting minutes and other papers. Raju recalls that a National Executive meeting was convened the day before the formation of the B.D., and argues that the minutes of that meeting need to be examined because the meeting may have been improperly conducted.
+
+Raju says he will be in Delhi on Friday, February 21, to ask Col. Pasricha for a copy of the minutes. He also asks Sundaram to investigate the matter in his own papers. The letter is addressed to Sundaram in his capacity as President of the All India Swatantra Party and includes a copy notation referring to Mr. Srikumar of Madras. The document’s date is uncertain: the letterhead appears to read “1/9/72,” while the body refers to February 1975.
+
 ## Key points
 
 - S. V. Raju acknowledges G. K. Sundaram’s letter of February 8, 1975, and accompanying papers.

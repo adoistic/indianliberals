@@ -50,6 +50,10 @@ summary: |-
   This handwritten English letter, dated 3 September 1974 and sent from Bangalore by M. Sreenivasan to Minoo Masani, discusses the political controversy surrounding Singh Deo and the proposed dissolution and merger of a party with the B.L.D. The writer argues that Singh Deo has been treated in the same way as others involved and observes that this explains his resolution to dissolve the party and merge it with the B.L.D.
 ---
 
+## Summary
+
+This handwritten English letter, dated 3 September 1974 and sent from Bangalore by M. Sreenivasan to Minoo Masani, discusses the political controversy surrounding Singh Deo and the proposed dissolution and merger of a party with the B.L.D. The writer argues that Singh Deo has been treated in the same way as others involved and observes that this explains his resolution to dissolve the party and merge it with the B.L.D.
+
 ## Key points
 
 - The letter is dated 3 September 1974 and was posted from Bangalore.

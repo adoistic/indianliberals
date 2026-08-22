@@ -57,6 +57,12 @@ summary: |-
   Rajagopalachari also criticises socialist proposals for expropriation and land redistribution, defending lawful property and the principle that individuals are entitled to the fruits of their labour. He presents religion as a social protection because it restrains selfish ambition and encourages justice toward others, while warning that the loosening of religious impulse and the pursuit of material equality through compulsion foster resentment, political favouritism, and bureaucratic centralisation. The pamphlet concludes by contrasting voluntary social service and trusteeship with a coercive welfare state, and by calling for honesty, fellowship, individual attention, and economic efficiency in public life.
 ---
 
+## Summary
+
+In this pamphlet, C. Rajagopalachari argues that social welfare depends on voluntary sympathy, personal responsibility, productive effort, and moral restraint rather than State compulsion. He maintains that Congress policies have weakened private charity, encouraged dependence on official favours, and replaced individual energy and enterprise with administrative control. The pamphlet links poverty and unemployment to inadequate production, calling instead for hard work, discipline, efficiency, and the practical application of sound economic methods.
+
+Rajagopalachari also criticises socialist proposals for expropriation and land redistribution, defending lawful property and the principle that individuals are entitled to the fruits of their labour. He presents religion as a social protection because it restrains selfish ambition and encourages justice toward others, while warning that the loosening of religious impulse and the pursuit of material equality through compulsion foster resentment, political favouritism, and bureaucratic centralisation. The pamphlet concludes by contrasting voluntary social service and trusteeship with a coercive welfare state, and by calling for honesty, fellowship, individual attention, and economic efficiency in public life.
+
 ## Key points
 
 - Social cooperation should be encouraged through sympathy, charity, and voluntary action rather than imposed through State compulsion.

@@ -50,6 +50,12 @@ summary: |-
   The letter records the sender’s grievance that Kumar later relayed accusations from Col. Pasricha and Gautam Khanna that the meeting was a manoeuvre by A. P. Jain for personal publicity. Because of this, the Delhi Party allegedly refused to reimburse even one paisa. The sender asks Masani to explain the circumstances to Khanna, insists that the meeting was organised on Masani’s instructions and in good faith for the Party, and says they are being penalised for personally advancing the money.
 ---
 
+## Summary
+
+This single-page Swatantra Party Parliamentary Office letter, dated August 30, 1968, is addressed to M. R. Masani. The unidentified sender explains that, at Masani’s instance, an all-party meeting condemning Russian aggression in Czechoslovakia was held at Vithalbhai Patel House on August 22, following a conversation with Prof. Sondhi of the Jan Sangh. The sender states that they paid Rs. 250 toward the conference expenses, expecting reimbursement from the Delhi Party after communicating the matter to S. N. Kumar, the Delhi Unit’s general secretary.
+
+The letter records the sender’s grievance that Kumar later relayed accusations from Col. Pasricha and Gautam Khanna that the meeting was a manoeuvre by A. P. Jain for personal publicity. Because of this, the Delhi Party allegedly refused to reimburse even one paisa. The sender asks Masani to explain the circumstances to Khanna, insists that the meeting was organised on Masani’s instructions and in good faith for the Party, and says they are being penalised for personally advancing the money.
+
 ## Key points
 
 - The letter is dated August 30, 1968, and is issued on Swatantra Party Parliamentary Office letterhead.

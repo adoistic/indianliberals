@@ -46,6 +46,10 @@ summary: |-
   This one-page English administrative letter, dated May 13, 1965, is issued from the Swatantra Party's Central Office in Bombay and signed by Executive Secretary S. V. Raju. It forwards the draft minutes of the Swatantra Party Advisory Committee meeting held on May 8 at the Palace Hotel in Patna.
 ---
 
+## Summary
+
+This one-page English administrative letter, dated May 13, 1965, is issued from the Swatantra Party's Central Office in Bombay and signed by Executive Secretary S. V. Raju. It forwards the draft minutes of the Swatantra Party Advisory Committee meeting held on May 8 at the Palace Hotel in Patna.
+
 ## Key points
 
 - The letter is addressed to a party member as “Dear Friend.”

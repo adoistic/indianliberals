@@ -51,6 +51,12 @@ summary: |-
   The letter also acknowledges that Raju has undertaken “a good cause” and wishes him success. The sender expects to be in Bombay during the first week of March and plans to deliver the surviving papers personally. The sender's full name cannot be confidently read; the signature appears to begin with “K R.”
 ---
 
+## Summary
+
+This one-page handwritten letter, dated 20 February 1985, is addressed to Shri S. V. Raju. The unidentified sender recalls Raju's earlier work managing the affairs of the “National party,” praises his charming nature and efficiency, and expresses pleasure at hearing from him after many years. The sender says that some papers in their possession will be handed over to Raju, while papers formerly held by the office secretary appear to have been sold as waste paper or discarded.
+
+The letter also acknowledges that Raju has undertaken “a good cause” and wishes him success. The sender expects to be in Bombay during the first week of March and plans to deliver the surviving papers personally. The sender's full name cannot be confidently read; the signature appears to begin with “K R.”
+
 ## Key points
 
 - The letter is dated 20 February 1985 and addressed to Shri S. V. Raju.

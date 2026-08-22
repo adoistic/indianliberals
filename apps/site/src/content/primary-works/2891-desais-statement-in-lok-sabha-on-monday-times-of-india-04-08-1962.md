@@ -51,6 +51,12 @@ summary: |-
   The article describes Desai’s objections to the E.E.C.’s latest “Six” proposals on the trade problems of India, Pakistan and Ceylon, and reports that he hoped Britain would correct what he regarded as the E.E.C.’s “disturbing” attitude. It also reports disappointment over the absence of special arrangements for India, Desai’s consultations with senior officials including L. K. Jha, and his expectation that India would receive aid from the Colombo Club’s proposed 80-million-dollar fund.
 ---
 
+## Summary
+
+This one-page “Times of India” News Service report, datelined New Delhi, August 3, announces that Finance Minister Morarji Desai is expected to make a statement in the Lok Sabha on negotiations in Brussels concerning safeguards for Indian trade if Britain joins the European Common Market. The report says Desai believed India’s case had not received sufficiently sympathetic or durable consideration during his European tour and had conveyed India’s concern to the European Economic Community and the British Government.
+
+The article describes Desai’s objections to the E.E.C.’s latest “Six” proposals on the trade problems of India, Pakistan and Ceylon, and reports that he hoped Britain would correct what he regarded as the E.E.C.’s “disturbing” attitude. It also reports disappointment over the absence of special arrangements for India, Desai’s consultations with senior officials including L. K. Jha, and his expectation that India would receive aid from the Colombo Club’s proposed 80-million-dollar fund.
+
 ## Key points
 
 - Morarji Desai was expected to report to the Lok Sabha on European Common Market negotiations.

@@ -46,6 +46,10 @@ summary: |-
   This handwritten English letter, dated 17 October 1959 from Ocean View Annex, Warden Road, Bombay, is addressed to H. P. Modi. Mrs Mohan Advani acknowledges receipt of Modi’s letter about a meeting of the Swatantra Party Ladies Committee scheduled for Tuesday, 20 October, at Bombay House. She explains that she will be out of Bombay on the meeting date and therefore cannot attend. She asks to be informed about the next meeting, which she says she will make an effort to attend, and closes with a formal expression of thanks and regret.
 ---
 
+## Summary
+
+This handwritten English letter, dated 17 October 1959 from Ocean View Annex, Warden Road, Bombay, is addressed to H. P. Modi. Mrs Mohan Advani acknowledges receipt of Modi’s letter about a meeting of the Swatantra Party Ladies Committee scheduled for Tuesday, 20 October, at Bombay House. She explains that she will be out of Bombay on the meeting date and therefore cannot attend. She asks to be informed about the next meeting, which she says she will make an effort to attend, and closes with a formal expression of thanks and regret.
+
 ## Key points
 
 - The letter is dated 17 October 1959 and was written from Bombay. It is addressed to H. P. Modi. The subject is a Swatantra Party Ladies Committee meeting. The meeting was scheduled for 20 October at Bombay House. Mrs Mohan Advani says she will be out of Bombay and unable to attend.

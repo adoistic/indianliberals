@@ -50,6 +50,12 @@ summary: |-
   Hari Ram proposes Jawaharlal Nehru as president and himself as secretary to administer the country, while presenting his candidacy as a way to bring rural representation into democratic politics. He criticizes the Congress high command for exalting Gandhi while failing to follow his dictates, and objects to the nomination of a person he describes as a peasant, villager, and experienced man of over 62 years. He also mentions writing to C. Rajagopalachari for support and forwards a copy of the appeal to Minoo Masani. The two-page record contains the original letter and a forwarded copy; no reply from the recipients is included.
 ---
 
+## Summary
+
+In this letter dated 26 March 1962, Hari Ram, an advocate from Rohtak, asks Professor N. G. Ranga to support his candidacy in the presidential election. He says he intends to contest for the third time and regrets that Ranga has not replied to his earlier letter, despite having been an admirer and strong supporter of Ranga's principles. Hari Ram appeals to opposition parties and Congress members who follow Mahatma Gandhi's ideals to support him, arguing that India's villages and agricultural population should be better represented in the country's highest office.
+
+Hari Ram proposes Jawaharlal Nehru as president and himself as secretary to administer the country, while presenting his candidacy as a way to bring rural representation into democratic politics. He criticizes the Congress high command for exalting Gandhi while failing to follow his dictates, and objects to the nomination of a person he describes as a peasant, villager, and experienced man of over 62 years. He also mentions writing to C. Rajagopalachari for support and forwards a copy of the appeal to Minoo Masani. The two-page record contains the original letter and a forwarded copy; no reply from the recipients is included.
+
 ## Key points
 
 - Hari Ram's letter is dated 26 March 1962 and concerns his third attempt to contest India's presidential election.

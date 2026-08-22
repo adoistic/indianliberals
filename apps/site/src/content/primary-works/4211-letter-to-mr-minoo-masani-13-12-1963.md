@@ -48,6 +48,12 @@ summary: |-
   The second rendered page shows the reverse of the letter and its inland-letter envelope, addressed to M. R. Masani at 57, Lodhi Estate, New Delhi. No further substantive correspondence or argument is visible in the document.
 ---
 
+## Summary
+
+This brief personal letter, dated 13 December 1963, is from C. Rajagopalachari in Madras to M. R. Masani in New Delhi. Rajagopalachari acknowledges Masani’s letter of 10 December and reports that the speeches have arrived from the Party office in a relatively large packet. The exchange therefore documents a small piece of administrative and political coordination within their party network.
+
+The second rendered page shows the reverse of the letter and its inland-letter envelope, addressed to M. R. Masani at 57, Lodhi Estate, New Delhi. No further substantive correspondence or argument is visible in the document.
+
 ## Key points
 
 - The letter was written by C. Rajagopalachari on 13 December 1963.

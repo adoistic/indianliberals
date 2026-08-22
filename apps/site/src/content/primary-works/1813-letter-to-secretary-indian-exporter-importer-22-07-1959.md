@@ -48,6 +48,12 @@ summary: |-
   The writer specifically endorses the suggestion that members of “the Party” should be drawn largely from the middle and lower-middle classes. The page does not identify the party, the article, the newspaper, or the letter’s author; the visible closing reads only “Yours truly,” without a signature or typed name.
 ---
 
+## Summary
+
+This untitled letter, dated 22nd July, 1959, is addressed to the Secretary of Indian Exporter & Importer in Bombay. The writer thanks the recipient for a letter dated 8th July and for an accompanying newspaper cutting, which they have read with interest.
+
+The writer specifically endorses the suggestion that members of “the Party” should be drawn largely from the middle and lower-middle classes. The page does not identify the party, the article, the newspaper, or the letter’s author; the visible closing reads only “Yours truly,” without a signature or typed name.
+
 ## Key points
 
 - The letter is dated 22nd July, 1959, and was sent from or addressed in connection with Bombay.

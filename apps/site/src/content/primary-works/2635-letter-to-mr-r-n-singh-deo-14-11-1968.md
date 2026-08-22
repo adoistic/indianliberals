@@ -53,6 +53,12 @@ summary: |-
   The attached German Embassy correspondence supports Eichstaedt's account. It describes her twelve years of humanitarian and public-health work among the tribal population of Koraput, including anti-yaws and anti-leprosy campaigns, drought and famine relief, and the establishment of a health project. Eichstaedt's own statement explains the origins of her work, denies involvement in Christian missionary activity or forced conversion, and attributes the accusations to administrative failures, political change in Orissa, and local rumours. The file records arrests of catechists and pastors, police questioning of Christians, and the wider conflict surrounding the newly introduced Orissa Freedom of Religion Act.
 ---
 
+## Summary
+
+This 1968 correspondence file concerns the case of Sister Ursula Eichstaedt, a German social worker in Orissa who faced allegations under the state's Freedom of Religion Act and possible arrest. In his letter of 14 November, M. R. Masani asks Chief Minister R. N. Singh Deo to intervene so that Eichstaedt can return to Orissa and complete her work. Masani presents the matter as an unfortunate misunderstanding and notes that the German ambassador was also seeking the Chief Minister's response.
+
+The attached German Embassy correspondence supports Eichstaedt's account. It describes her twelve years of humanitarian and public-health work among the tribal population of Koraput, including anti-yaws and anti-leprosy campaigns, drought and famine relief, and the establishment of a health project. Eichstaedt's own statement explains the origins of her work, denies involvement in Christian missionary activity or forced conversion, and attributes the accusations to administrative failures, political change in Orissa, and local rumours. The file records arrests of catechists and pastors, police questioning of Christians, and the wider conflict surrounding the newly introduced Orissa Freedom of Religion Act.
+
 ## Key points
 
 - M. R. Masani urges Orissa Chief Minister R. N. Singh Deo to intervene in the case of Sister Ursula Eichstaedt.

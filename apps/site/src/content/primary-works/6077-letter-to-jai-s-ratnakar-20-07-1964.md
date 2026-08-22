@@ -45,6 +45,10 @@ summary: |-
   This typed office letter, dated 20 July 1964 and signed by K. S. Srinivasan as Office Secretary, acknowledges receipt of material from Jal S. Ratnakar. Srinivasan thanks Ratnakar for sending a newspaper or magazine cutting of C. Rajagopalachari's speech published in “The Gateway,” identified as the Rotary Club bulletin.
 ---
 
+## Summary
+
+This typed office letter, dated 20 July 1964 and signed by K. S. Srinivasan as Office Secretary, acknowledges receipt of material from Jal S. Ratnakar. Srinivasan thanks Ratnakar for sending a newspaper or magazine cutting of C. Rajagopalachari's speech published in “The Gateway,” identified as the Rotary Club bulletin.
+
 ## Key points
 
 - The letter is dated 20 July 1964.

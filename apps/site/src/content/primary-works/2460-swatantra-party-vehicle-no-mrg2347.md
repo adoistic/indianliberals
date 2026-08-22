@@ -54,6 +54,12 @@ summary: |-
   The memorandum then traces the administrative consequences of the transfer. A March 1976 communication from the Bharatiya Lok Dal identified the vehicle among cars formerly belonging to the Swatantra Party and recorded its dispatch to Godhra. From November 1976 onward, however, the R.T.O. pursued Masani for unpaid vehicle tax, despite the memorandum's assertion that the vehicle had never belonged to him and was not in his possession. The later pages describe Masani's repeated attempts, between 1984 and 1986, to have the tax demands cancelled and to stop what he called harassment. The document ends by criticising the R.T.O. for involving the Collector of Bombay unnecessarily.
 ---
 
+## Summary
+
+This draft memorandum concerns motor vehicle no. MRG 2347, which the document states belonged to the Swatantra Party during the 1971 General Elections. Although the vehicle was registered in the name of M. R. Masani, the memorandum explains that it was used by Piloo Mody for his election campaign in Godhra and was subsequently sold to him and sent to Godhra for constituency work. It records that the Bombay R.T.O. was informed of the transfer and that an insurance policy was received by the Party in October 1975.
+
+The memorandum then traces the administrative consequences of the transfer. A March 1976 communication from the Bharatiya Lok Dal identified the vehicle among cars formerly belonging to the Swatantra Party and recorded its dispatch to Godhra. From November 1976 onward, however, the R.T.O. pursued Masani for unpaid vehicle tax, despite the memorandum's assertion that the vehicle had never belonged to him and was not in his possession. The later pages describe Masani's repeated attempts, between 1984 and 1986, to have the tax demands cancelled and to stop what he called harassment. The document ends by criticising the R.T.O. for involving the Collector of Bombay unnecessarily.
+
 ## Key points
 
 - The vehicle was associated with the Swatantra Party during the 1971 General Elections and registered in M. R. Masani's name because he was then the Party's president.

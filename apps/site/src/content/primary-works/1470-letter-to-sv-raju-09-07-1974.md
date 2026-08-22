@@ -51,6 +51,12 @@ summary: |-
   The second page outlines Srikumar’s position on the Tamil Nadu Party meeting scheduled for 20–21 July at Vellore. He says he is canvassing support for a federal arrangement under which state units would retain their identity while working through a mutually agreed common programme. He rejects dissolution of the party “at this juncture” and says he will circulate the proposed resolution. The letter’s postscript reiterates his congratulations to Maharashtra and expresses hope that other states will follow its lead.
 ---
 
+## Summary
+
+This two-page letter, dated 9 July 1974, records V. S. Srikumar’s response to the Maharashtra unit’s decision to continue functioning as a Swatantra unit despite the party’s expected dissolution. Writing to S. V. Raju, Srikumar congratulates colleagues in Bombay and asks for the circular sent to General Council members, their addresses, and information about a Gujarat unit meeting held on 7 July.
+
+The second page outlines Srikumar’s position on the Tamil Nadu Party meeting scheduled for 20–21 July at Vellore. He says he is canvassing support for a federal arrangement under which state units would retain their identity while working through a mutually agreed common programme. He rejects dissolution of the party “at this juncture” and says he will circulate the proposed resolution. The letter’s postscript reiterates his congratulations to Maharashtra and expresses hope that other states will follow its lead.
+
 ## Key points
 
 - Srikumar congratulates the Maharashtra unit for continuing as a Swatantra unit despite the expected dissolution of the party.

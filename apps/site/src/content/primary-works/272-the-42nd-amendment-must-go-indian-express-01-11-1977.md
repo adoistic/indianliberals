@@ -56,6 +56,12 @@ summary: |-
   Masani argues that the amendment's insertion of the terms “secular” and “socialist” into the description of the Republic is unnecessary and potentially misleading, since constitutional guarantees already protect religious freedom, minority rights, and property. He focuses especially on provisions that reduce the President to a figurehead and permit the Prime Minister and Cabinet to dominate Parliament. The article closes by warning that the amendment could enable a future Prime Minister to suspend fundamental rights and impose an Emergency, and invokes the independent judiciary and the President's constitutional checks as safeguards against parliamentary supremacy.
 ---
 
+## Summary
+
+In this newspaper article, M. R. Masani argues that the 42nd Amendment to the Indian Constitution is a constitutional monstrosity that should be repealed. He contends that the amendment concentrates power in the Prime Minister, weakens the federal balance between the Union and the states, undermines the judiciary, and damages the relationship between Parliament and the people. He also criticises the Janata government for considering the repeal of only selected provisions rather than undoing the amendment as a whole.
+
+Masani argues that the amendment's insertion of the terms “secular” and “socialist” into the description of the Republic is unnecessary and potentially misleading, since constitutional guarantees already protect religious freedom, minority rights, and property. He focuses especially on provisions that reduce the President to a figurehead and permit the Prime Minister and Cabinet to dominate Parliament. The article closes by warning that the amendment could enable a future Prime Minister to suspend fundamental rights and impose an Emergency, and invokes the independent judiciary and the President's constitutional checks as safeguards against parliamentary supremacy.
+
 ## Key points
 
 - Masani describes the 42nd Amendment as a betrayal of the constitutional settlement and an attack on federalism, judicial independence, and democratic government.

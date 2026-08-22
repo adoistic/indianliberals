@@ -48,6 +48,12 @@ summary: |-
   As a piece of party ephemera, the document has no argumentative content: it is an administrative record of a monthly personal contribution by Minoo Masani — one of the Swatantra Party's founders — to his own party's Maharashtra unit less than a year after the party's dissolution had begun to be discussed nationally. Its value to the archive is as a small but concrete trace of Masani's continued financial commitment to the Swatantra apparatus in Bombay in early 1975.
 ---
 
+## Summary
+
+This single-page item is a printed receipt from the Swatantra Party's Maharashtra Region office at Sassoon Building, 143, Mahatma Gandhi Road, Bombay-1, filled in by hand on 11 February 1975. Numbered Receipt No. 104, it acknowledges a donation of Rs. 25 ("Twenty five only") received from Mr. M. R. Masani towards "Donation for Feb. 75", and is signed at the bottom by the Hon. Treasurer.
+
+As a piece of party ephemera, the document has no argumentative content: it is an administrative record of a monthly personal contribution by Minoo Masani — one of the Swatantra Party's founders — to his own party's Maharashtra unit less than a year after the party's dissolution had begun to be discussed nationally. Its value to the archive is as a small but concrete trace of Masani's continued financial commitment to the Swatantra apparatus in Bombay in early 1975.
+
 ## Key points
 
 - Pre-printed Swatantra Party (Maharashtra Region) receipt form, letterhead giving the party's Bombay office at Sassoon Building, 143, Mahatma Gandhi Road, Bombay-1 (Tel. No. 253085).

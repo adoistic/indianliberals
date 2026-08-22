@@ -47,6 +47,10 @@ summary: |-
   This 19 September 1969 letter from M. R. Masani to Sardarni Nirlep Kaur addresses her reported proceedings in the Akali Dal. Masani expresses regret that she is no longer with the Swatantra Party, welcomes her possible return, and proposes meeting in Delhi during his visit from 2 to 4 October to discuss the matter. The tone is personal, conciliatory, and explicitly political.
 ---
 
+## Summary
+
+This 19 September 1969 letter from M. R. Masani to Sardarni Nirlep Kaur addresses her reported proceedings in the Akali Dal. Masani expresses regret that she is no longer with the Swatantra Party, welcomes her possible return, and proposes meeting in Delhi during his visit from 2 to 4 October to discuss the matter. The tone is personal, conciliatory, and explicitly political.
+
 ## Key points
 
 - The letter is dated 19 September 1969 and is signed by M. R. Masani.

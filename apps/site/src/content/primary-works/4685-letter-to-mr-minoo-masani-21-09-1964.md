@@ -51,6 +51,12 @@ summary: |-
   Rajagopalachari also urges the party to proceed with its programme of disposing of the Indian National Congress’s appeal to the Central Organising Committee, despite repeated approaches from Ramgarh. He expresses regret that V. P. Menon has declined to cultivate dissident Congressmen in Kerala after the proclamation of President’s Rule. Finally, responding to Y. T. Srinivasan’s letters, he advises Masani to allow more time for primary-level elections, agreeing that the party cannot conduct simultaneous elections at that level but must spread them over at least ten days. The second page reproduces a telegram proposing alternative meeting dates and travel arrangements.
 ---
 
+## Summary
+
+In this letter dated 16 September 1964, C. Rajagopalachari writes to Minoo Masani about the Swatantra Party’s immediate organisational and political concerns. He proposes shifting the party’s Central Organising Committee meeting to October 1–2 in Bombay so that it can coincide with a large public meeting on Gandhi Jayanti and provide members with a public holiday. He asks Masani to issue notices and arrange his travel by air if the change is accepted.
+
+Rajagopalachari also urges the party to proceed with its programme of disposing of the Indian National Congress’s appeal to the Central Organising Committee, despite repeated approaches from Ramgarh. He expresses regret that V. P. Menon has declined to cultivate dissident Congressmen in Kerala after the proclamation of President’s Rule. Finally, responding to Y. T. Srinivasan’s letters, he advises Masani to allow more time for primary-level elections, agreeing that the party cannot conduct simultaneous elections at that level but must spread them over at least ten days. The second page reproduces a telegram proposing alternative meeting dates and travel arrangements.
+
 ## Key points
 
 - Rajagopalachari proposes moving the Central Organising Committee meeting to October 1–2 in Bombay.

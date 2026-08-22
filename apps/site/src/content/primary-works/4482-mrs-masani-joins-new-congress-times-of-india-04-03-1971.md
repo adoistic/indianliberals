@@ -47,6 +47,10 @@ summary: |-
   This one-page Times of India news clipping reports that Mrs. Shakuntala Masani, described as the wife of a Swatantra Party leader, joined the “new Congress” in New Delhi on March 3. She signed the party pledge and paid the membership fee. The report also notes that she was campaigning for Mrs. Subhadra Joshi in the Chandni Chowk Lok Sabha constituency.
 ---
 
+## Summary
+
+This one-page Times of India news clipping reports that Mrs. Shakuntala Masani, described as the wife of a Swatantra Party leader, joined the “new Congress” in New Delhi on March 3. She signed the party pledge and paid the membership fee. The report also notes that she was campaigning for Mrs. Subhadra Joshi in the Chandni Chowk Lok Sabha constituency.
+
 ## Key points
 
 - Shakuntala Masani formally joined the new Congress.

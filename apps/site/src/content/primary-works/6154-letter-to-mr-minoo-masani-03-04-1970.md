@@ -54,6 +54,12 @@ summary: |-
   The enclosed appeal presents Vinoba Bhave as a spiritual seeker, scholar, social reformer, and practitioner of non-violent social action. It highlights the Bhoodan, Gramdan, and Shanti Sena movements as efforts to continue Mahatma Gandhi’s unfinished work of building a non-violent social order. Particular emphasis is placed on land donation, community ownership, village-level cooperation, consensus-based decision-making, and the practical requirements—voluntary workers, organisation, training, and funds—for transforming Gramdan pledges into rural development. The appeal concludes by urging rich and poor alike to contribute to the Gram Swaraj Fund.
 ---
 
+## Summary
+
+This letter, written by Jayaprakash Narayan from Patna on April 3, 1970, asks Minoo Masani to support and sign a national appeal to raise a one-crore-rupee Gram Swaraj Fund for Acharya Vinoba Bhave’s seventy-fifth birthday. Narayan explains that the fund is sponsored by the Sarva Seva Sangh, which has appointed him chairman, and that President V. V. Giri has agreed to serve as its patron.
+
+The enclosed appeal presents Vinoba Bhave as a spiritual seeker, scholar, social reformer, and practitioner of non-violent social action. It highlights the Bhoodan, Gramdan, and Shanti Sena movements as efforts to continue Mahatma Gandhi’s unfinished work of building a non-violent social order. Particular emphasis is placed on land donation, community ownership, village-level cooperation, consensus-based decision-making, and the practical requirements—voluntary workers, organisation, training, and funds—for transforming Gramdan pledges into rural development. The appeal concludes by urging rich and poor alike to contribute to the Gram Swaraj Fund.
+
 ## Key points
 
 - Narayan seeks Masani’s cooperation and signature for a national fundraising appeal.

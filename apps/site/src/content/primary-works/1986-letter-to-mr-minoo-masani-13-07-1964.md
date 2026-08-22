@@ -48,6 +48,12 @@ summary: |-
   Singhvi says that he is still unable to indicate anything specific about his future course of action, apart from continuing as an independent Member of Parliament. He expresses gratitude for Masani’s regard and consideration, and closes the brief exchange in a cordial, personal tone.
 ---
 
+## Summary
+
+This single-page personal letter, dated 13 July 1964, is written by Dr. L. M. Singhvi from New Delhi to Minoo Masani. Singhvi acknowledges Masani’s letter of 24 June, explaining that it reached him only after travelling to Kashmir and caused a delay in replying. He also refers to an earlier letter sent from Srinagar in the last week of June and asks for Masani’s reaction to it.
+
+Singhvi says that he is still unable to indicate anything specific about his future course of action, apart from continuing as an independent Member of Parliament. He expresses gratitude for Masani’s regard and consideration, and closes the brief exchange in a cordial, personal tone.
+
 ## Key points
 
 - The letter is dated 13 July 1964 and was sent from New Delhi.

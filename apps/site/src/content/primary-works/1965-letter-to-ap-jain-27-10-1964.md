@@ -48,6 +48,12 @@ summary: |-
   Masani also responds to a German research worker's request for data on members of the Swatantra Party in the Lok Sabha. The requested information includes age, education, religion, caste, and vocation; Masani asks Jain to have the material ready before his planned visit to Delhi on November 15 so that it can be dispatched to Germany. The page presents the Swatantra Party as an organisational and research subject, but does not explain the resolution, the seminar, or the research project in further detail.
 ---
 
+## Summary
+
+In this letter dated October 27, 1964, M. R. Masani writes to A. P. Jain about three practical matters. He returns a signed resolution, regrets that the parties involved could not agree to a second participant for the Istanbul Seminar, and says they will wait for another opportunity.
+
+Masani also responds to a German research worker's request for data on members of the Swatantra Party in the Lok Sabha. The requested information includes age, education, religion, caste, and vocation; Masani asks Jain to have the material ready before his planned visit to Delhi on November 15 so that it can be dispatched to Germany. The page presents the Swatantra Party as an organisational and research subject, but does not explain the resolution, the seminar, or the research project in further detail.
+
 ## Key points
 
 - The letter is dated October 27, 1964, and is signed by M. R. Masani.

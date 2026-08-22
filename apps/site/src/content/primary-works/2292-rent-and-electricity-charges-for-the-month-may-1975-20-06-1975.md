@@ -47,6 +47,12 @@ summary: |-
   The letter states that the recipient's 40% share of these expenses is Rs. 214.88, written out as “two hundred fourteen and paise eightyeight.” It is signed by P. Narayan, identified as Office Secretary. No substantive political argument or engagement with other thinkers appears in the rendered pages.
 ---
 
+## Summary
+
+This two-page administrative letter, issued on Swatantra Party, Maharashtra Division letterhead and dated 20 June 1975, is addressed to the Executive Secretary of Bharatiya Lok Dal in Bombay. It reports the office's rent and electricity expenses for May 1975: Rs. 394.79 in rent and Rs. 142.42 in electricity charges, totaling Rs. 537.21.
+
+The letter states that the recipient's 40% share of these expenses is Rs. 214.88, written out as “two hundred fourteen and paise eightyeight.” It is signed by P. Narayan, identified as Office Secretary. No substantive political argument or engagement with other thinkers appears in the rendered pages.
+
 ## Key points
 
 - The document is dated 20th June 1975 and bears reference number 29302.

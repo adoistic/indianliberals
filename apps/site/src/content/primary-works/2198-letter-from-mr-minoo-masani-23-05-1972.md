@@ -50,6 +50,12 @@ summary: |-
   Masani says he is enclosing the text of remarks he made at the Party’s recent General Council meeting, which he hopes Chart will find encouraging. The enclosure itself is not present in the rendered document; the page contains only the covering letter, its handwritten annotations, and Masani’s signature.
 ---
 
+## Summary
+
+In this letter dated 23 May 1972, Minoo Masani writes to S. V. Chart about a controversy referred to in Chart’s letter of 20 May. Masani states that the Swatantra Party’s policies are “inherently sound” and require neither modification nor dilution, aligning himself with Rajaji’s thinking and opposing what he calls the “capitulationist line” associated with Galbraith. He nevertheless declines to become involved in local controversy and asks Chart to excuse him if he remains outside it.
+
+Masani says he is enclosing the text of remarks he made at the Party’s recent General Council meeting, which he hopes Chart will find encouraging. The enclosure itself is not present in the rendered document; the page contains only the covering letter, its handwritten annotations, and Masani’s signature.
+
 ## Key points
 
 - The letter is dated 23 May 1972 and is addressed to S. V. Chart.

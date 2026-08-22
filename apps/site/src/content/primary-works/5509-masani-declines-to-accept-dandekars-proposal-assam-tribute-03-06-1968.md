@@ -50,6 +50,12 @@ summary: |-
   The report describes a council meeting concerning Masani’s resignation from the party’s National Executive and Central Parliamentary Board. It says that two resolutions were discussed and defeated after a lengthy debate. The first expressed appreciation for Masani’s service and sought to create conditions for his return to the party bodies; the second proposed a committee to inquire into the party leadership and certain allegations concerning Gujarat. The report is attributed to PTI and carries no individual byline.
 ---
 
+## Summary
+
+This 3 June 1968 newspaper clipping from the Assam Tribune reports that Minoo Masani declined N. Dandekar’s proposal that he be re-elected to the Swatantra Party’s National Executive. Masani nevertheless assured the party’s General Council that he would continue working for the party in Parliament and outside it.
+
+The report describes a council meeting concerning Masani’s resignation from the party’s National Executive and Central Parliamentary Board. It says that two resolutions were discussed and defeated after a lengthy debate. The first expressed appreciation for Masani’s service and sought to create conditions for his return to the party bodies; the second proposed a committee to inquire into the party leadership and certain allegations concerning Gujarat. The report is attributed to PTI and carries no individual byline.
+
 ## Key points
 
 - Minoo Masani declined N. Dandekar’s proposal for his re-election to the Swatantra Party’s National Executive.

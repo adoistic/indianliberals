@@ -47,6 +47,12 @@ summary: |-
   Masani also refers to repeated earlier correspondence about bills sent to him for jeeps belonging to the Swatantra Party that had been sold in 1957. He asks the officer to stop sending these bills and notes that the disputed bill is enclosed with the letter.
 ---
 
+## Summary
+
+In this one-page letter dated 18 February 1986, M. R. Masani writes to the Regional Transport Officer, Old Bombay-Durgapur Lines, returning a bill for Rs. 1,814.00. He states that the bill concerns vehicle no. MRG 2347, which has never belonged to him and is not in his possession, and therefore denies liability for the charge.
+
+Masani also refers to repeated earlier correspondence about bills sent to him for jeeps belonging to the Swatantra Party that had been sold in 1957. He asks the officer to stop sending these bills and notes that the disputed bill is enclosed with the letter.
+
 ## Key points
 
 - The letter is dated 18 February 1986 and is addressed to the Regional Transport Officer of Old Bombay-Durgapur Lines.

@@ -56,6 +56,12 @@ summary: |-
   The agenda combines internal party administration with forward-looking political preparation. It includes confirmation of previous minutes; disciplinary proceedings involving party members in Uttar Pradesh and Andhra; a recommendation concerning the expulsion of Major Bhatnagar; a report on party organisation; preparation of resolutions for the General Council; selection of the next National Convention’s date and venue; and steps toward drafting an election manifesto. The document is an administrative notice rather than a statement of political principles.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, issued from the Central Office on April 20, 1966, confirms that the National Executive will meet on Thursday, May 26, 1966, at Sir Homi Mody’s residence in Bombay. Signed by General Secretary M. R. Masani, it revises the date announced in an earlier circular and specifies the meeting’s venue and time.
+
+The agenda combines internal party administration with forward-looking political preparation. It includes confirmation of previous minutes; disciplinary proceedings involving party members in Uttar Pradesh and Andhra; a recommendation concerning the expulsion of Major Bhatnagar; a report on party organisation; preparation of resolutions for the General Council; selection of the next National Convention’s date and venue; and steps toward drafting an election manifesto. The document is an administrative notice rather than a statement of political principles.
+
 ## Key points
 
 - The circular confirms a National Executive meeting for 3 PM on May 26, 1966, in Bombay.

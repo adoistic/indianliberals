@@ -48,6 +48,12 @@ summary: |-
   The message is addressed to “PILOO” and refers to “MODI,” “MR SUNDARAM,” and “DEVANATHAN” in connection with coordinating the convention. The telegram strip also displays the code or date string “AP 2083,” but the page does not establish that this is a Gregorian year. No title, full sender name, or publication details are printed.
 ---
 
+## Summary
+
+This one-page English telegram, sent under the routing identification “MASANI 148,” is a logistical communication about an upcoming convention in Delhi. It reports that Tamil Nadu delegates cannot attend because the convention coincides with important religious festival days, and asks the recipient to consult others about fixing a venue and suitable dates.
+
+The message is addressed to “PILOO” and refers to “MODI,” “MR SUNDARAM,” and “DEVANATHAN” in connection with coordinating the convention. The telegram strip also displays the code or date string “AP 2083,” but the page does not establish that this is a Gregorian year. No title, full sender name, or publication details are printed.
+
 ## Key points
 
 - The document is a one-page Indian Posts and Telegraphs Department telegram.

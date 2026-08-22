@@ -53,6 +53,10 @@ summary: |-
   In the rendered pages, H. R. Masani argues that the Third Five Year Plan has failed and should be replaced by an alternative approach to planning. He begins from Mahatma Gandhi’s “talisman,” using the needs of the poorest person as the test for policy. The paper translates that test into concrete targets: adequate food, clothing, shelter, basic needs, and education. It cites Planning Commission figures for the required increase in per-capita income, food-grain consumption, and cloth consumption, and contends that achieving these goals would require annual economic growth of roughly seven to eight per cent rather than the Third Plan’s two per cent.
 ---
 
+## Summary
+
+In the rendered pages, H. R. Masani argues that the Third Five Year Plan has failed and should be replaced by an alternative approach to planning. He begins from Mahatma Gandhi’s “talisman,” using the needs of the poorest person as the test for policy. The paper translates that test into concrete targets: adequate food, clothing, shelter, basic needs, and education. It cites Planning Commission figures for the required increase in per-capita income, food-grain consumption, and cloth consumption, and contends that achieving these goals would require annual economic growth of roughly seven to eight per cent rather than the Third Plan’s two per cent.
+
 ## Key points
 
 - The Third Five Year Plan is presented as having failed, with its only fulfilled or exceeded targets being price and taxation increases.

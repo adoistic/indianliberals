@@ -51,6 +51,12 @@ summary: |-
   The discussion focuses on the practical and political difficulties of working with Rangarh, whom the participants describe as undemocratic and potentially willing to use obstruction or violence. They consider whether the party should separate from him entirely, how to establish a new office, raise funds locally and from the centre, appoint a vice-president and general secretary, and recruit representatives from places including Darbhanga, Dumraon and Chhota Nagpur. The final numbered summary records agreement that Rangarh should leave so that the party can undertake constructive work in Bihar. The document is a brief primary source on party organisation, factional conflict and the institutional challenges facing the early Swatantra Party.
 ---
 
+## Summary
+
+Dated August 13, 1962, this covering letter from K. M. Munshi to M. R. Masani forwards the minutes of Munshi’s meeting with Jaleshwar Prasad. The two enclosures concern an internal reorganisation of the Swatantra Party in Bihar, particularly the proposal to replace the existing body nominated by Rangarh with a composite committee in which Rangarh would remain chairman but his group would be a minority.
+
+The discussion focuses on the practical and political difficulties of working with Rangarh, whom the participants describe as undemocratic and potentially willing to use obstruction or violence. They consider whether the party should separate from him entirely, how to establish a new office, raise funds locally and from the centre, appoint a vice-president and general secretary, and recruit representatives from places including Darbhanga, Dumraon and Chhota Nagpur. The final numbered summary records agreement that Rangarh should leave so that the party can undertake constructive work in Bihar. The document is a brief primary source on party organisation, factional conflict and the institutional challenges facing the early Swatantra Party.
+
 ## Key points
 
 - Munshi’s August 13, 1962 letter sends Masani minutes of a meeting with Jaleshwar Prasad.

@@ -68,6 +68,10 @@ summary: |-
   This English-language Swatantra Party dossier combines Madhu Mehta’s “Resolution on the Current Situation” with minutes of the party’s General Council meeting in Bangalore on September 17–18, 1971, election procedures and results, correspondence, and annexed resolutions. In the opening resolution, the party argues that India’s economic stagnation, inflation, currency depreciation, corruption, insecurity, and weakening public institutions reflect the failures of prolonged Congress rule and an outdated socialist orientation. It presents the party’s proposed alternative as a programme to reject Marxist values, protect the individual, and offer the people “Our Path” as India’s governing philosophy.
 ---
 
+## Summary
+
+This English-language Swatantra Party dossier combines Madhu Mehta’s “Resolution on the Current Situation” with minutes of the party’s General Council meeting in Bangalore on September 17–18, 1971, election procedures and results, correspondence, and annexed resolutions. In the opening resolution, the party argues that India’s economic stagnation, inflation, currency depreciation, corruption, insecurity, and weakening public institutions reflect the failures of prolonged Congress rule and an outdated socialist orientation. It presents the party’s proposed alternative as a programme to reject Marxist values, protect the individual, and offer the people “Our Path” as India’s governing philosophy.
+
 ## Key points
 
 - The opening resolution asks Indians to assess whether post-independence governance has advanced Mahatma Gandhi’s goal of wiping every tear from every Indian’s eyes.

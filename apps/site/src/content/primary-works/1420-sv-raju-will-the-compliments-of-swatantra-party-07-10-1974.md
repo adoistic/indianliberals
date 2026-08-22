@@ -53,6 +53,12 @@ summary: |-
   The letter presents the party's continued existence as justified by disputes within the Bharatiya Kranti Dal and the new BLD, especially over party identity, symbols, and leadership. It also criticizes Karnataka party treasurer Ganapaiah for alleged financial mismanagement and political maneuvering, while calling for the party's revitalization with "new and clean blood." The writers invite the recipient to help rebuild the Swatantra Party and mention efforts to coordinate with other state units and an impending national convention in Tamil Nadu.
 ---
 
+## Summary
+
+This one-page letter from the Swatantra Party, Karnataka State, addressed to S. V. Raju, disputes reports that the party had been dissolved. The signatories argue that the National Convention resolution did not require immediate dissolution, but instead left the effective date to President Piloo Mody. They criticize the resolution's restrictions on former members, the removal of delegate ceilings, alleged pressure and intimidation at the convention, and the rejection of a secret ballot. They report that 53 delegates opposed the resolution and that several state units subsequently declared they would continue functioning as the Swatantra Party.
+
+The letter presents the party's continued existence as justified by disputes within the Bharatiya Kranti Dal and the new BLD, especially over party identity, symbols, and leadership. It also criticizes Karnataka party treasurer Ganapaiah for alleged financial mismanagement and political maneuvering, while calling for the party's revitalization with "new and clean blood." The writers invite the recipient to help rebuild the Swatantra Party and mention efforts to coordinate with other state units and an impending national convention in Tamil Nadu.
+
 ## Key points
 
 - The letter rejects the claim that the Swatantra Party was dissolved with immediate effect.

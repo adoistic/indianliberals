@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated 26 October 1971, is Shantilal L. Thar’s reply to the Office Secretary of the Swatantra Party in Bombay. Thar acknowledges notice of a special meeting of the Bombay Region Executive Committee scheduled for 29 October at 6:15 p.m., but explains that he will be out of Bombay and therefore unable to attend. The document is administrative correspondence rather than an argument or policy statement.
 ---
 
+## Summary
+
+This one-page letter, dated 26 October 1971, is Shantilal L. Thar’s reply to the Office Secretary of the Swatantra Party in Bombay. Thar acknowledges notice of a special meeting of the Bombay Region Executive Committee scheduled for 29 October at 6:15 p.m., but explains that he will be out of Bombay and therefore unable to attend. The document is administrative correspondence rather than an argument or policy statement.
+
 ## Key points
 
 - The letter is dated 26 October 1971 and is written from Bombay.

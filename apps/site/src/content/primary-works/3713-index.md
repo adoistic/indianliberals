@@ -50,6 +50,12 @@ summary: |-
   The index dates the underlying documents mainly to July and August 1974 and assigns them printed page ranges from 1–30. Handwritten annotations alter or query several references, including the entry for the Maharashtra letter, the premises correspondence, and a reference to page 28. Only the index sheet was rendered; the documents it lists are not available in the visible pages.
 ---
 
+## Summary
+
+This one-page English index identifies a Swatantra Party archival dossier comprising ten documents. The listed materials include the party constitution; Maharashtra correspondence with the national headquarters; a Maharashtra press statement; the resignation of Madhu Mehta as president of the Maharashtra State Unit; resolutions passed at a Delhi convention; a letter to The Times of India; convention minutes; correspondence concerning premises; and a letter concerning the party symbol.
+
+The index dates the underlying documents mainly to July and August 1974 and assigns them printed page ranges from 1–30. Handwritten annotations alter or query several references, including the entry for the Maharashtra letter, the premises correspondence, and a reference to page 28. Only the index sheet was rendered; the documents it lists are not available in the visible pages.
+
 ## Key points
 
 - The rendered page is an index to a Swatantra Party archival dossier rather than a substantive political essay.

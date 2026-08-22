@@ -45,6 +45,12 @@ summary: |-
   The letter is brief, cordial, and personal in tone. It contains no extended political or theoretical argument; its principal subjects are a possible visit, future contact, and encouragement for Trikha’s work.
 ---
 
+## Summary
+
+This one-page English letter, dated 9 October 1959, is from M. R. Masani to Mr. B. R. Trikha of the District Courts in Meerut. Masani acknowledges Trikha’s letter of 12 September and says he will try to visit Meerut at a suitable opportunity, preferably when he is in Delhi attending a parliamentary occasion. He asks Trikha to contact him then and expresses approval of the work Trikha is doing.
+
+The letter is brief, cordial, and personal in tone. It contains no extended political or theoretical argument; its principal subjects are a possible visit, future contact, and encouragement for Trikha’s work.
+
 ## Key points
 
 - Masani’s letter is dated 9 October 1959.

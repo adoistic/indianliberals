@@ -57,6 +57,12 @@ summary: |-
   The document's second resolution addresses defections in Gujarat. The Board condemns legislators who left the Swatantra Party, criticises the Congress (O) and the Congress Parliamentary Party for accepting defectors while expelling Swatantra legislators, and urges the Party's Gujarat Assembly members to continue acting as a vigilant opposition through parliamentary motions and criticism. It also calls on Gujarat voters to express their displeasure with defecting representatives at the next election.
 ---
 
+## Summary
+
+This two-page Swatantra Party resolution document records the Central Parliamentary Board's positions on the Chanda Committee's recommendations concerning All India Radio and television. It recalls the Party's support for autonomous broadcasting bodies and opposition to monopolistic or official control over mass media, and argues that the Government's rejection of the recommendations has enabled politically biased and pro-government broadcasting. The Board calls for All India Radio and television to be removed from direct government control and placed under autonomous corporations, with the issue raised in both Houses of Parliament.
+
+The document's second resolution addresses defections in Gujarat. The Board condemns legislators who left the Swatantra Party, criticises the Congress (O) and the Congress Parliamentary Party for accepting defectors while expelling Swatantra legislators, and urges the Party's Gujarat Assembly members to continue acting as a vigilant opposition through parliamentary motions and criticism. It also calls on Gujarat voters to express their displeasure with defecting representatives at the next election.
+
 ## Key points
 
 - The Swatantra Party reiterates its support for autonomous bodies governing All India Radio and television.

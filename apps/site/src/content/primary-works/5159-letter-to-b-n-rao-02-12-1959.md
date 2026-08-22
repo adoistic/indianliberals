@@ -46,6 +46,12 @@ summary: |-
   The document contains no substantive argument, policy discussion, or extended engagement with other thinkers. It is addressed to Mr. B. N. Rao at 8 Mahabhoopal Menall, Jambagh Road, Hyderabad-1, and includes the office reference initials “MRM:BCA.”
 ---
 
+## Summary
+
+This one-page English letter from M. R. Masani, dated 2 December 1959, acknowledges Mr. B. N. Rao's letters of 26 and 27 November. Masani states that he has read the material Rao forwarded and found it interesting, then closes with a formal expression of thanks and a typed signature block.
+
+The document contains no substantive argument, policy discussion, or extended engagement with other thinkers. It is addressed to Mr. B. N. Rao at 8 Mahabhoopal Menall, Jambagh Road, Hyderabad-1, and includes the office reference initials “MRM:BCA.”
+
 ## Key points
 
 - The letter is dated 2nd December, 1959.

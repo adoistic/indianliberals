@@ -56,6 +56,12 @@ summary: |-
   The India-China debate focuses on the Ladakh incident, the Sino-Indian boundary, Tibet, Panchsheel, non-alignment, defence preparedness, and the conduct of foreign policy. Jawaharlal Nehru defended non-alignment and argued that India should approach the dispute through its basic policies while strengthening its industrial and defensive capacity. Other members pressed for clearer information, stronger border infrastructure, possible emergency military assistance, reciprocity in diplomatic and economic relations, and the withdrawal of Chinese forces from Indian territory. The debate is explicitly marked as not concluded. The final rendered pages also contain undated handwritten notes, including references to democracy, communism, external dangers, citizenship, and a note dated 5/2/60; their context and authorship are not established.
 ---
 
+## Summary
+
+This Lok Sabha synopsis dated 25 November 1959 records a calling-attention discussion on lawlessness and insecurity in Delhi, a brief entry for the Delhi Land Holdings (Ceiling) Bill, and an extended motion on India-China relations. On Delhi, L. Achaw Singh raised concern about violent anti-social activity, while Home Minister G. B. Pant replied that insecurity was not widespread, crime was declining apart from murders, and several specialist squads had been organised to address crime, smuggling, explosives, missing persons, and cheating.
+
+The India-China debate focuses on the Ladakh incident, the Sino-Indian boundary, Tibet, Panchsheel, non-alignment, defence preparedness, and the conduct of foreign policy. Jawaharlal Nehru defended non-alignment and argued that India should approach the dispute through its basic policies while strengthening its industrial and defensive capacity. Other members pressed for clearer information, stronger border infrastructure, possible emergency military assistance, reciprocity in diplomatic and economic relations, and the withdrawal of Chinese forces from Indian territory. The debate is explicitly marked as not concluded. The final rendered pages also contain undated handwritten notes, including references to democracy, communism, external dangers, citizenship, and a note dated 5/2/60; their context and authorship are not established.
+
 ## Key points
 
 - The document is a Lok Sabha Synopsis of Debates dated Wednesday, 25 November 1959.

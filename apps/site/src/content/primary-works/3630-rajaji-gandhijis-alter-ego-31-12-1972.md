@@ -58,6 +58,12 @@ summary: |-
   The rendered pages also trace Rajaji’s later political and administrative career: his work in the Madras Presidency, his governorship, his interventions during the Quit India period and the Cripps discussions, and his role in Bengal and the Noakhali crisis. The relationship is shown through correspondence, recollected conversations, disagreements over parliamentary action and negotiations, and Gandhi’s reliance on Rajaji’s judgment. The article closes by describing Rajaji’s intellectual force, humour, moral seriousness, and lifelong influence on Pyarelal. Other rendered magazine material includes a short humorous story, society and military-centre reporting, a medical report, advertisements, and brief general-interest notices; these are not treated as part of the Rajaji article.
 ---
 
+## Summary
+
+In the rendered pages, Pyarelal presents C. Rajagopalachari (“Rajaji”) as Gandhi’s exceptionally trusted political colleague, intellectual counterpart, and “alter ego.” The account begins with Rajaji’s meeting with Gandhi in Madras in 1919 and follows his rapid involvement in Young India, Civil Disobedience, Congress work, and the practical demands of nationalist journalism. Pyarelal emphasizes Rajaji’s analytical independence, administrative ability, severe self-discipline, and readiness to challenge Gandhi while remaining personally loyal to him.
+
+The rendered pages also trace Rajaji’s later political and administrative career: his work in the Madras Presidency, his governorship, his interventions during the Quit India period and the Cripps discussions, and his role in Bengal and the Noakhali crisis. The relationship is shown through correspondence, recollected conversations, disagreements over parliamentary action and negotiations, and Gandhi’s reliance on Rajaji’s judgment. The article closes by describing Rajaji’s intellectual force, humour, moral seriousness, and lifelong influence on Pyarelal. Other rendered magazine material includes a short humorous story, society and military-centre reporting, a medical report, advertisements, and brief general-interest notices; these are not treated as part of the Rajaji article.
+
 ## Key points
 
 - Pyarelal recounts Rajaji’s first close association with Gandhi after their 1919 meeting in Madras.

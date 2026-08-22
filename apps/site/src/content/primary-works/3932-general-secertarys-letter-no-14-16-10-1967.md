@@ -52,6 +52,10 @@ summary: |-
   Dated 16 October 1967, this letter from N. Dandekar, Acting General Secretary of the Swatantra Party, conveys guidance approved by the party's Central Parliamentary Board for the forthcoming parliamentary session. It opposes extending the Reserve Bank of India's powers over banking, rejects nationalisation of general insurance, and asks the party's parliamentary group to scrutinise the Monopolies Bill while opposing monopolistic practices in both the state and private sectors.
 ---
 
+## Summary
+
+Dated 16 October 1967, this letter from N. Dandekar, Acting General Secretary of the Swatantra Party, conveys guidance approved by the party's Central Parliamentary Board for the forthcoming parliamentary session. It opposes extending the Reserve Bank of India's powers over banking, rejects nationalisation of general insurance, and asks the party's parliamentary group to scrutinise the Monopolies Bill while opposing monopolistic practices in both the state and private sectors.
+
 ## Key points
 
 - The Central Parliamentary Board reviewed party performance and anticipated issues for the next parliamentary session.

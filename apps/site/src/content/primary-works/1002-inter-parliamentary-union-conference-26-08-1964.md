@@ -48,6 +48,12 @@ summary: |-
   The operational instruction is that Ranga should arrange with Air India in London to settle the difference in rupees and cable Masani back for confirmation. The document is administrative rather than argumentative — a snapshot of the practical logistics by which the young Swatantra Party sustained the international travel of its parliamentary leaders in the mid-1960s, and of Masani's personal role in underwriting Ranga's engagement with the wider liberal-democratic world beyond the IPU meeting.
 ---
 
+## Summary
+
+This is a single-page confirmatory copy of a telegram sent by Minoo Masani ('M. R. Masani') from Bombay to Professor N. G. Ranga at the Inter-Parliamentary Union Conference in Parliament House, Copenhagen, on 26 August 1964. Responding to a cable from Ranga dated the twenty-second, Masani urges his Swatantra Party colleague not to cancel a planned onward visit to Washington and undertakes that the party will cover the incremental air-fare, which he estimates at roughly two thousand rupees.
+
+The operational instruction is that Ranga should arrange with Air India in London to settle the difference in rupees and cable Masani back for confirmation. The document is administrative rather than argumentative — a snapshot of the practical logistics by which the young Swatantra Party sustained the international travel of its parliamentary leaders in the mid-1960s, and of Masani's personal role in underwriting Ranga's engagement with the wider liberal-democratic world beyond the IPU meeting.
+
 ## Key points
 
 - A confirmatory copy of an outbound telegram from M. R. Masani in Bombay to Prof. N. G. Ranga at the Inter-Parliamentary Union Conference, Parliament House, Copenhagen, dated 26 August 1964.

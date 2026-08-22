@@ -53,6 +53,12 @@ summary: |-
   The letter explains that the notice may instead be tabled after the day's List of Business has been circulated, citing paragraph 1351 of the Lok Sabha Bulletin, Part II, dated 21 July 1965. The document records a procedural ruling or clarification concerning the scheduling and consideration of a parliamentary no-confidence motion; it does not discuss the motion's substantive allegations or the government's support.
 ---
 
+## Summary
+
+This one-page official letter from the Lok Sabha Secretariat, dated 27 July 1965, concerns a notice of no-confidence in the Council of Ministers submitted by M. R. Masani and N. Dandekar, both Members of Parliament. Deputy Secretary B. B. Tewari informs the recipients that the Speaker cannot consider the notice so far in advance of the session's commencement.
+
+The letter explains that the notice may instead be tabled after the day's List of Business has been circulated, citing paragraph 1351 of the Lok Sabha Bulletin, Part II, dated 21 July 1965. The document records a procedural ruling or clarification concerning the scheduling and consideration of a parliamentary no-confidence motion; it does not discuss the motion's substantive allegations or the government's support.
+
 ## Key points
 
 - The letter is dated 27 July 1965 and issued from the Lok Sabha Secretariat in Parliament House, New Delhi.

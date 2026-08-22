@@ -52,6 +52,12 @@ summary: |-
   The typed pages argue that India’s adherence to what the text calls outdated socialist dogmas has produced state capitalism, privileged “new vested interests,” and poor economic outcomes. They contrast this model, described as “distributing poverty,” with a proposed “modern socialism” that would reduce inequality by expanding prosperity, raising poorer sections’ incomes, and using progressive taxation without discouraging growth. The visible section concludes by urging rejection of dogmatic socialism and adoption of “20th Century Socialism,” then begins a comparative study of developing Southeast Asian nations grouped according to whether they follow older or more pragmatic socialist approaches.
 ---
 
+## Summary
+
+The rendered pages combine a newspaper clipping on rising ministerial expenditure with a typed continuation of an argument against India’s prevailing form of socialism. The clipping reports that expenditure on ministers, salaries, allowances, travelling expenses, and staff has risen sharply over the preceding decade across the Union and several states, while ministerial strength has also expanded. It presents state-by-state comparisons, including Andhra Pradesh, Assam, Bihar, Gujarat, Haryana, Kerala, Madhya Pradesh, Maharashtra, Mysore, Orissa, Rajasthan, Tamil Nadu, Uttar Pradesh, and West Bengal.
+
+The typed pages argue that India’s adherence to what the text calls outdated socialist dogmas has produced state capitalism, privileged “new vested interests,” and poor economic outcomes. They contrast this model, described as “distributing poverty,” with a proposed “modern socialism” that would reduce inequality by expanding prosperity, raising poorer sections’ incomes, and using progressive taxation without discouraging growth. The visible section concludes by urging rejection of dogmatic socialism and adoption of “20th Century Socialism,” then begins a comparative study of developing Southeast Asian nations grouped according to whether they follow older or more pragmatic socialist approaches.
+
 ## Key points
 
 - A newspaper report attributes major increases in ministerial expenditure to higher salaries, allowances, travelling expenses, staff costs, and expanded ministerial strength.

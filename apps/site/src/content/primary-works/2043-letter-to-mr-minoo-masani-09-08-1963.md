@@ -53,6 +53,12 @@ summary: |-
   The letter highlights the possibility of tabling a motion of no-confidence in the Government and urges members who have not arranged to reach Delhi by 13 August to travel there immediately. Its immediate purpose is organisational and parliamentary: to ensure that Swatantra Party representatives are present for potentially consequential proceedings.
 ---
 
+## Summary
+
+This single-page letter, dated 9 August 1963 and signed by M. R. Masani as General Secretary of the Swatantra Party, asks the party's members of both Houses of Parliament to be present in Delhi from the beginning of the parliamentary session. It reports that the Parliamentary Board and Central Organising Committee had reviewed the country's political situation in light of the continuing Emergency and the important business expected before Parliament.
+
+The letter highlights the possibility of tabling a motion of no-confidence in the Government and urges members who have not arranged to reach Delhi by 13 August to travel there immediately. Its immediate purpose is organisational and parliamentary: to ensure that Swatantra Party representatives are present for potentially consequential proceedings.
+
 ## Key points
 
 - The letter was issued by the Swatantra Party Central Office on 9 August 1963.

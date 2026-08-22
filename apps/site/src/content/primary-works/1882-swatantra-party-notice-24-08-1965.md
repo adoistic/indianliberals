@@ -48,6 +48,10 @@ summary: |-
   This one-page English-language notice, issued by the Swatantra Party Parliamentary Office in New Delhi on 24 August 1965, is headed “WHIP” and addressed to all party members. It requests their presence in the House on Thursday, 26 August 1965, from noon until voting concludes on a no-confidence motion moved by the party.
 ---
 
+## Summary
+
+This one-page English-language notice, issued by the Swatantra Party Parliamentary Office in New Delhi on 24 August 1965, is headed “WHIP” and addressed to all party members. It requests their presence in the House on Thursday, 26 August 1965, from noon until voting concludes on a no-confidence motion moved by the party.
+
 ## Key points
 
 - The document is a Swatantra Party Parliamentary Office whip notice.

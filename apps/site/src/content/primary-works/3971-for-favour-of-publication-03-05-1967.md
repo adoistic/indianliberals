@@ -59,6 +59,12 @@ summary: |-
   Masani supports K. Subba Rao over Zakir Hussain on grounds of independence from party politics, record, health, and suitability to serve as President and Supreme Commander. He cites the Rajasthan constitutional crisis and the continuing Emergency declared after the 1962 Chinese aggression as examples where, in his view, a President should have advised the Union Government to restore constitutional government and civil liberties, resigning if that advice were rejected. The statement also attacks what it calls a misleading use of “secularism,” arguing instead for non-denominational democracy, equal treatment of religions, and judging presidential candidates by merit rather than religion or community.
 ---
 
+## Summary
+
+In this three-page statement, M. R. Masani presents the Swatantra Party's position on the first contested presidential election. He rejects the claim that Dr. Zakir Hussain's defeat would bring down the Union Government, arguing that India's Constitution separates the presidency from day-to-day executive responsibility: the President is elected by an electoral college, while the Cabinet remains responsible to the Lok Sabha. He also distinguishes an independent President from a dictator, maintaining that the office should exercise constitutional judgment rather than function as a “rubber stamp.”
+
+Masani supports K. Subba Rao over Zakir Hussain on grounds of independence from party politics, record, health, and suitability to serve as President and Supreme Commander. He cites the Rajasthan constitutional crisis and the continuing Emergency declared after the 1962 Chinese aggression as examples where, in his view, a President should have advised the Union Government to restore constitutional government and civil liberties, resigning if that advice were rejected. The statement also attacks what it calls a misleading use of “secularism,” arguing instead for non-denominational democracy, equal treatment of religions, and judging presidential candidates by merit rather than religion or community.
+
 ## Key points
 
 - Masani argues that the presidential election cannot by itself determine the survival of the Union Government, which depends on majority support in the Lok Sabha.

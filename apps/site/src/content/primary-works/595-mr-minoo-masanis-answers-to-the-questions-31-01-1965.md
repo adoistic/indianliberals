@@ -53,6 +53,12 @@ summary: |-
   In the rendered pages, Masani presents Gandhi's ideas on trusteeship and limited government as enduring responses to materialism, while acknowledging tensions between Gandhi's social ethics and rising prosperity. He sharply judges independent India to have failed to uphold Gandhi's teachings, with only Vinoba Bhave and Jayaprakash Narayan identified as rare exceptions. On nuclear weapons, he rejects an interpretation of Gandhi as an absolute pacifist and argues that non-violence must be assessed in relation to the scale of violence involved.
 ---
 
+## Summary
+
+In the rendered pages, Minoo Masani answers five questions about Gandhi's political judgment, ethics, economic ideas, post-independence India, and non-violence. He argues that Gandhi's unusually demanding personal standards were directed primarily at himself and his intimate associates, while his treatment of others was generally liberal and accommodating. Masani suggests that Gandhi's beliefs might have made him an imperfect parliamentary chief executive, producing a “somewhat mixed” record had he become Prime Minister.
+
+In the rendered pages, Masani presents Gandhi's ideas on trusteeship and limited government as enduring responses to materialism, while acknowledging tensions between Gandhi's social ethics and rising prosperity. He sharply judges independent India to have failed to uphold Gandhi's teachings, with only Vinoba Bhave and Jayaprakash Narayan identified as rare exceptions. On nuclear weapons, he rejects an interpretation of Gandhi as an absolute pacifist and argues that non-violence must be assessed in relation to the scale of violence involved.
+
 ## Key points
 
 - Masani argues that Gandhi's political beliefs could have complicated his effectiveness as Prime Minister in a parliamentary democracy.

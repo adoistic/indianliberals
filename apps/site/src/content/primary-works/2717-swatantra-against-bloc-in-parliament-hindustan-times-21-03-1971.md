@@ -55,6 +55,12 @@ summary: |-
   The report presents the party’s parliamentary stance as a defence of individual freedom and constitutional safeguards. It says Swatantra members would resist authoritarian tendencies, restrictions on the press, and curtailment of fundamental rights, while supporting measures aimed at a prosperous and free society. Masani attributed the party’s electoral defeat to the personality-based revival of the Congress, the use of money, and the absence of a common programme; he renewed his call for proportional representation. The article also records the party’s post-election parliamentary leadership: H. M. Patel as leader, Piloo Mody as deputy leader and secretary-cum-whip, and Dahyabhai Patel as chairman of the parliamentary group.
 ---
 
+## Summary
+
+This 21 March 1971 Hindustan Times report describes the Swatantra Party’s decision to operate independently in Parliament rather than sponsor or join an opposition bloc. Party chairman Minoo Masani said that elected members would not be permitted to enter electoral alliances or work jointly with other parties in the legislature. The party would instead present a distinctive Swatantra programme at the national level, while remaining open to issue-based support for measures that could improve social and economic conditions.
+
+The report presents the party’s parliamentary stance as a defence of individual freedom and constitutional safeguards. It says Swatantra members would resist authoritarian tendencies, restrictions on the press, and curtailment of fundamental rights, while supporting measures aimed at a prosperous and free society. Masani attributed the party’s electoral defeat to the personality-based revival of the Congress, the use of money, and the absence of a common programme; he renewed his call for proportional representation. The article also records the party’s post-election parliamentary leadership: H. M. Patel as leader, Piloo Mody as deputy leader and secretary-cum-whip, and Dahyabhai Patel as chairman of the parliamentary group.
+
 ## Key points
 
 - The Swatantra Party decided to function independently in Parliament and not join an opposition bloc.

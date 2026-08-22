@@ -52,6 +52,12 @@ summary: |-
   The members agreed to abstain and remain absent during discussion of the salaries and allowances bill, allocate committee votes between the DMK and Jan Sangh in exchange for support, designate M. R. Masani as the party's sole speaker during the general discussion of the Finance Bill, and oppose that bill at the consideration stage. The minutes also call for an Executive Committee meeting to consider amendments and party strategy, and an informal meeting to discuss Kashmir and Pakistan. The document is signed by Kapur Singh, Secretary.
 ---
 
+## Summary
+
+This single-page set of minutes records a Swatantra Party parliamentary meeting held on April 13, 1964, at Parliament House in New Delhi. The record lists seven attendees and sets out the party's immediate parliamentary strategy concerning the Members' Salaries and Allowances Bill and the Finance Bill.
+
+The members agreed to abstain and remain absent during discussion of the salaries and allowances bill, allocate committee votes between the DMK and Jan Sangh in exchange for support, designate M. R. Masani as the party's sole speaker during the general discussion of the Finance Bill, and oppose that bill at the consideration stage. The minutes also call for an Executive Committee meeting to consider amendments and party strategy, and an informal meeting to discuss Kashmir and Pakistan. The document is signed by Kapur Singh, Secretary.
+
 ## Key points
 
 - The meeting took place on April 13, 1964, in the Committee Room of Central Hall, Parliament House.

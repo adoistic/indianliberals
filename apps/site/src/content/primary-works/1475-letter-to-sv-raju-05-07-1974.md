@@ -51,6 +51,12 @@ summary: |-
   Joseph challenges the argument that dissolving the Swatantra Party and joining a new formation would preserve its principles or increase its parliamentary and legislative strength. He recalls the party’s earlier representation and warns that its members, particularly those who had invested money and energy in its cause, risk losing everything. The letter concludes with an appeal for a viable, credible opposition party based on dedicated workers rather than an arrangement among state leaders, and mentions Joseph’s intention to write an open letter to Mody if Raju permits.
 ---
 
+## Summary
+
+This two-page letter, dated 5 July 1974 and written by Babu Joseph from Ranni to S. V. Raju, criticizes the proposed “New National Alternative” associated with the Swatantra Party’s dissolution. Joseph argues that Piloo Mody acted hastily in initiating the alternative despite there being no imminent general election, and questions whether the party’s national executive had authority to decide such fundamental matters without broader consultation. He also suspects that the proposal was driven by undisclosed motives.
+
+Joseph challenges the argument that dissolving the Swatantra Party and joining a new formation would preserve its principles or increase its parliamentary and legislative strength. He recalls the party’s earlier representation and warns that its members, particularly those who had invested money and energy in its cause, risk losing everything. The letter concludes with an appeal for a viable, credible opposition party based on dedicated workers rather than an arrangement among state leaders, and mentions Joseph’s intention to write an open letter to Mody if Raju permits.
+
 ## Key points
 
 - Joseph objects to the haste with which the proposed “New National Alternative” was formulated.

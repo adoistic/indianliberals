@@ -52,6 +52,10 @@ summary: |-
   This six-page English archival correspondence packet, dated January 1968, concerns the proposed location of an aluminium plant in Orissa and the alleged discriminatory treatment of Kalahandi district. R. N. Singh Deo, Chief Minister of Orissa, forwards to M. R. Masani a letter from H. H. Maharaja P. K. Deo, Member of Parliament, together with related correspondence. The enclosed letters argue that Kalahandi’s bauxite, forest, and hydro-electric resources justify locating the plant there rather than at Rayagada or Jeypore, where the project would rely on power from Machkund and raw materials from Kalahandi.
 ---
 
+## Summary
+
+This six-page English archival correspondence packet, dated January 1968, concerns the proposed location of an aluminium plant in Orissa and the alleged discriminatory treatment of Kalahandi district. R. N. Singh Deo, Chief Minister of Orissa, forwards to M. R. Masani a letter from H. H. Maharaja P. K. Deo, Member of Parliament, together with related correspondence. The enclosed letters argue that Kalahandi’s bauxite, forest, and hydro-electric resources justify locating the plant there rather than at Rayagada or Jeypore, where the project would rely on power from Machkund and raw materials from Kalahandi.
+
 ## Key points
 
 - R. N. Singh Deo asks M. R. Masani to consider correspondence raising important policy and party questions.

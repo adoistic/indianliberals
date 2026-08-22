@@ -50,6 +50,12 @@ summary: |-
   The resolution asks the Government of India to respond sympathetically to the refugees, described as unfortunate and destitute, and to take every possible step to assist their rehabilitation. No author, date, publisher, or place of publication is printed on the page.
 ---
 
+## Summary
+
+This one-page English resolution, issued under the Swatantra Party heading, records the Parliamentary Board's grief over violence against minority communities in East Pakistan and India. It specifically condemns the continuing conditions in East Pakistan that are driving refugees into India.
+
+The resolution asks the Government of India to respond sympathetically to the refugees, described as unfortunate and destitute, and to take every possible step to assist their rehabilitation. No author, date, publisher, or place of publication is printed on the page.
+
 ## Key points
 
 - The Swatantra Party Parliamentary Board expresses grief over violence against minorities in East Pakistan and India.

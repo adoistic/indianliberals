@@ -55,6 +55,12 @@ summary: |-
   The committee also discussed efforts to revive the Indian Liberal Group, founded by the late Minoo Masani. It judged the Group's aims and principles similar to those of the Swatantra Party, Maharashtra, and approved a proposal for the Group to operate from the party's Mumbai office. A substantial part of the record concerns the Kargil conflict: the committee condemned Pakistan's intrusion and occupation of strategic positions, praised the Indian armed forces, criticised failures by defence and intelligence agencies to detect the incursion, and decided to write to the Prime Minister, defence minister, and home minister demanding a thorough probe. The meeting ended with a minute's silence for fallen soldiers and a vote of thanks to the chair.
 ---
 
+## Summary
+
+These minutes record the 15 June 1999 meeting of the Executive Committee of the Swatantra Party, Maharashtra, held at the party office in Mumbai and chaired by S. V. Raju. The committee reviewed the political situation following the dissolution of Parliament after the one-vote defeat of the BJP-led coalition government, which had lasted approximately fourteen months. It criticised the alliances, splits, and combinations being formed for the forthcoming parliamentary elections and resolved not to support any party, group, or individual.
+
+The committee also discussed efforts to revive the Indian Liberal Group, founded by the late Minoo Masani. It judged the Group's aims and principles similar to those of the Swatantra Party, Maharashtra, and approved a proposal for the Group to operate from the party's Mumbai office. A substantial part of the record concerns the Kargil conflict: the committee condemned Pakistan's intrusion and occupation of strategic positions, praised the Indian armed forces, criticised failures by defence and intelligence agencies to detect the incursion, and decided to write to the Prime Minister, defence minister, and home minister demanding a thorough probe. The meeting ended with a minute's silence for fallen soldiers and a vote of thanks to the chair.
+
 ## Key points
 
 - The meeting was held on 15 June 1999 at the Swatantra Party, Maharashtra, office in Mumbai, with S. V. Raju in the chair.

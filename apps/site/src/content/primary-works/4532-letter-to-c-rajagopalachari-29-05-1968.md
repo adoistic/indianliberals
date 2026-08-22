@@ -48,6 +48,12 @@ summary: |-
   Masani presents the situation as an early consequence of a policy of appeasement by the Centre, followed by weak leadership. He urges that the trend be stopped, warning that it may spread as far as the episode involving Ramgarh. The letter is marked “Express delivery” and includes two enclosures, but the enclosures are not present in the rendered page.
 ---
 
+## Summary
+
+In this typed letter dated 29 May 1968, M. R. Masani sends C. Rajagopalachari reports from the Gujarat press and describes what he calls a regular smear campaign. Masani distinguishes the campaign from the views of most Gujarat members, attributing it instead to a clique at the top.
+
+Masani presents the situation as an early consequence of a policy of appeasement by the Centre, followed by weak leadership. He urges that the trend be stopped, warning that it may spread as far as the episode involving Ramgarh. The letter is marked “Express delivery” and includes two enclosures, but the enclosures are not present in the rendered page.
+
 ## Key points
 
 - Masani forwards reports originating in the Gujarat press to C. Rajagopalachari.

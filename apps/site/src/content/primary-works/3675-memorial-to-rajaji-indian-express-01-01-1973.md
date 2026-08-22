@@ -52,6 +52,12 @@ summary: |-
   The letter emphasizes Rajaji’s “unrelenting crusade” against powers that threatened basic human liberties and compares his historical significance with figures who struggled against overwhelming odds. It closes by proposing a memorial that would preserve Rajaji’s memory through a political and philosophical research institution, suggesting the Harold Laski Institute as a possible model.
 ---
 
+## Summary
+
+This letter, published in the Indian Express on 1 January 1973 under the heading “Memorial to Rajaji,” presents C. Rajagopalachari as a major defender of dissent, human liberty, and opposition politics. The writer endorses N. A. Palkhivala’s assessment that Rajaji’s contribution lay in opposing the prevailing political current, and argues that his interpretation as an “angry old man” overlooked the principles behind his criticism of the Congress government.
+
+The letter emphasizes Rajaji’s “unrelenting crusade” against powers that threatened basic human liberties and compares his historical significance with figures who struggled against overwhelming odds. It closes by proposing a memorial that would preserve Rajaji’s memory through a political and philosophical research institution, suggesting the Harold Laski Institute as a possible model.
+
 ## Key points
 
 - The letter treats Rajaji’s opposition to the Congress government as principled dissent rather than political obstruction.

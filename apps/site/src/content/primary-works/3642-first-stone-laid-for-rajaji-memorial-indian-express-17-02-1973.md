@@ -50,6 +50,12 @@ summary: |-
   The report records tributes by President V. V. Giri and Governor K. K. Shah, who present Rajaji as a figure of sacrifice, patriotism, integrity, courage, intellectual distinction, and religious conviction. Giri describes the memorial as a people's homage and argues that Rajaji's values of human freedom and integrity should be rededicated in public life; Shah praises Rajaji's ability to interpret epics and Upanishads accessibly and cites him as an example of intellectual calibre and faith in God. Page 2 is an unrelated Swatantra Party office document and is not treated as part of the article.
 ---
 
+## Summary
+
+The Indian Express clipping reports the laying of the foundation stone for a Tamil Nadu Government memorial to C. Rajagopalachari (Rajaji) near the Gandhi Mantap at Adyar, Madras. Chief Minister M. Karunanidhi announced that the memorial would include a life-size statue and that the state had taken steps to acquire Rajaji's birthplace at Thorapalli for conversion into a memorial. The estimated cost of the memorial is reported as Rs. 5 lakhs.
+
+The report records tributes by President V. V. Giri and Governor K. K. Shah, who present Rajaji as a figure of sacrifice, patriotism, integrity, courage, intellectual distinction, and religious conviction. Giri describes the memorial as a people's homage and argues that Rajaji's values of human freedom and integrity should be rededicated in public life; Shah praises Rajaji's ability to interpret epics and Upanishads accessibly and cites him as an example of intellectual calibre and faith in God. Page 2 is an unrelated Swatantra Party office document and is not treated as part of the article.
+
 ## Key points
 
 - The Tamil Nadu Government planned a memorial to Rajaji near the Gandhi Mantap at Adyar, with an estimated cost of Rs. 5 lakhs.

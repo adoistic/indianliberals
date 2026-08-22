@@ -57,6 +57,12 @@ summary: |-
   The report documents an expanding organisational network rather than presenting a sustained political argument. It records branch formation in Vellore, Tirunelveli, and other localities; efforts to recruit merchants, agriculturalists, young people, and middle-class supporters; and plans for meetings, conventions, propaganda, and fundraising. The remarks also show the party's early political concerns, including opposition to Congress land reforms, support for private enterprise and agricultural interests, criticism of restrictions on grain trading, interest in employer–employee relations, and the desire to remain an opposition party. The document contains no printed title, author, publisher line, or year; a circled handwritten “1850” on page 1 appears to be an archival notation rather than a publication date.
 ---
 
+## Summary
+
+This untitled typed office report records 254 contacts associated with the Swatantra Party in the Madras region. Each entry provides a name and address alongside a brief assessment of the person's response: invitations, expressions of support, requests for membership or party literature, offers to organise local branches, proposed employment, and financial contributions. The contacts span Madras, Coimbatore, Trichy, Tanjore, Tirunelveli, Vellore, Salem, Madurai, and other towns, and include lawyers, merchants, landowners, teachers, government and railway employees, farmers, professionals, students, and retired officials.
+
+The report documents an expanding organisational network rather than presenting a sustained political argument. It records branch formation in Vellore, Tirunelveli, and other localities; efforts to recruit merchants, agriculturalists, young people, and middle-class supporters; and plans for meetings, conventions, propaganda, and fundraising. The remarks also show the party's early political concerns, including opposition to Congress land reforms, support for private enterprise and agricultural interests, criticism of restrictions on grain trading, interest in employer–employee relations, and the desire to remain an opposition party. The document contains no printed title, author, publisher line, or year; a circled handwritten “1850” on page 1 appears to be an archival notation rather than a publication date.
+
 ## Key points
 
 - The report lists 254 Madras-area contacts connected with the Swatantra Party.

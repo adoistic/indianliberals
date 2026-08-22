@@ -55,6 +55,10 @@ summary: |-
   This January 12, 1970 letter from Swatantra Party General Secretary R.C. Cooper reports on the party's December 27–28, 1969 meetings in Madras. It records the outgoing National Executive's recommendations, the constitution of a Central Parliamentary Board, the election of M.R. Masani as president and R.C. Cooper as general secretary, and the appointment of treasurers, joint secretaries, and twenty members of the new National Executive. The letter also announces plans to prepare policy papers on public-sector and transport communications, food and agriculture, unemployment and housing, and invites members to submit suggestions before the next Executive meeting.
 ---
 
+## Summary
+
+This January 12, 1970 letter from Swatantra Party General Secretary R.C. Cooper reports on the party's December 27–28, 1969 meetings in Madras. It records the outgoing National Executive's recommendations, the constitution of a Central Parliamentary Board, the election of M.R. Masani as president and R.C. Cooper as general secretary, and the appointment of treasurers, joint secretaries, and twenty members of the new National Executive. The letter also announces plans to prepare policy papers on public-sector and transport communications, food and agriculture, unemployment and housing, and invites members to submit suggestions before the next Executive meeting.
+
 ## Key points
 
 - The letter summarizes meetings of the outgoing Executive, General Council, and newly elected National Executive held on December 27 and 28, 1969.

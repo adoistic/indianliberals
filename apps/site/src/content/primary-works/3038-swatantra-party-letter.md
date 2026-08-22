@@ -45,6 +45,12 @@ summary: |-
   The handwriting makes several words—including the opening addressee, the description of the copies, and the recipient’s full name—uncertain. No political argument or substantive policy discussion is visible on this page; it is an item of brief correspondence concerning the circulation of documents.
 ---
 
+## Summary
+
+This single handwritten English letter, marked with reference number 3038, appears to request that a set of copies be sent onward, including one copy “with my compliments” to Dr Cooper. The writer refers to an earlier letter dated 23/5 and signs the note “N Ranga.” The date at the foot appears to be 24/5, but no year is visible.
+
+The handwriting makes several words—including the opening addressee, the description of the copies, and the recipient’s full name—uncertain. No political argument or substantive policy discussion is visible on this page; it is an item of brief correspondence concerning the circulation of documents.
+
 ## Key points
 
 - The document is a single handwritten English office letter with reference number 3038.

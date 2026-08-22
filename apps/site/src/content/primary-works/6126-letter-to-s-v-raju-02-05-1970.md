@@ -48,6 +48,10 @@ summary: |-
   This one-page English letter, written by M. R. Masani on Swatantra Party Central Office letterhead and dated 2 May 1970, acknowledges receipt of a packet sent by S. V. Raju. Masani notes that the packet contains newsletters and enclosures accompanying Raju’s 30 April letter, and thanks him for sending it in time.
 ---
 
+## Summary
+
+This one-page English letter, written by M. R. Masani on Swatantra Party Central Office letterhead and dated 2 May 1970, acknowledges receipt of a packet sent by S. V. Raju. Masani notes that the packet contains newsletters and enclosures accompanying Raju’s 30 April letter, and thanks him for sending it in time.
+
 ## Key points
 
 - The letter is dated 2 May 1970 and was sent from the Swatantra Party Central Office in Bombay.

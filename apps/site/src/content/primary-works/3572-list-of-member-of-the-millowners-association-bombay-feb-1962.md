@@ -47,6 +47,12 @@ summary: |-
   Each entry identifies the mill or company and provides its mill address and, where available, its head-office address. The list is organised geographically and includes multiple units under some companies, such as The India United Mills, Kohinoor Mills, Modern Mills, Sassoon Spinning and Weaving, Standard Mills, and Madura Mills. It also separately identifies woollen-mill members and dyeing and bleaching establishments. The document is an administrative membership reference rather than a discursive text; it contains no authorial argument, explanatory introduction, or formal publisher statement.
 ---
 
+## Summary
+
+This nine-page directory, dated February 1962, lists members of the Mill-owners' Association, Bombay. It records 133 cotton, textile, woollen, dyeing, bleaching, and related establishments, beginning with mills in Greater Bombay and continuing across Maharashtra and other Indian states and regions, including Gujarat, Madhya Pradesh, West Bengal, Orissa, Bihar, Rajasthan, East Punjab, Delhi, Uttar Pradesh, Andhra Pradesh, Madras, Mysore, Pondicherry, and Karachi (West Pakistan).
+
+Each entry identifies the mill or company and provides its mill address and, where available, its head-office address. The list is organised geographically and includes multiple units under some companies, such as The India United Mills, Kohinoor Mills, Modern Mills, Sassoon Spinning and Weaving, Standard Mills, and Madura Mills. It also separately identifies woollen-mill members and dyeing and bleaching establishments. The document is an administrative membership reference rather than a discursive text; it contains no authorial argument, explanatory introduction, or formal publisher statement.
+
 ## Key points
 
 - The document is dated February 1962 and is headed as a list of members of the Mill-owners' Association, Bombay.

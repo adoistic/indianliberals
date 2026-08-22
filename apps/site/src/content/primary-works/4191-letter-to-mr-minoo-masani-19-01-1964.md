@@ -50,6 +50,12 @@ summary: |-
   He also encloses or forwards an Italian leader's letter for publication in the Swarajya Annual Special Number, scheduled for release on 26 January. The letter notes that 1,000 loose copies are being produced. The second page is the envelope, addressed to Masani as General Secretary of the Swatantra Party at 143 Mahatma Gandhi Road, Bombay-1.
 ---
 
+## Summary
+
+This two-page letter from C. Rajagopalachari to M. R. Masani, dated 19 January 1964, concerns preparations for the Swatantra Party Convention. Rajagopalachari says he has posted the Convention papers—including the General Secretary's report and a note on amendments—to Masani's Bombay office address.
+
+He also encloses or forwards an Italian leader's letter for publication in the Swarajya Annual Special Number, scheduled for release on 26 January. The letter notes that 1,000 loose copies are being produced. The second page is the envelope, addressed to Masani as General Secretary of the Swatantra Party at 143 Mahatma Gandhi Road, Bombay-1.
+
 ## Key points
 
 - Rajagopalachari wrote to M. R. Masani on 19 January 1964.

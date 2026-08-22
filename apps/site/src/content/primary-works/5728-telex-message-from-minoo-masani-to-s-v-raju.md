@@ -52,6 +52,12 @@ summary: |-
   Masani asks for an immediate three-column statement reproducing relevant passages from the National Executive's note, C. C. Desai's explanation, and National Headquarters' comments. He also proposes consulting members of the State Parliamentary Board—including H. M. Patel, Baria, and Javin Patel—at a meeting on 11 April, while seeking Cooper's response and the agreement of Dahyabhai Piloo Mody and R. K. Amin. The document records an internal party effort to combine rapid communication with consultation of Gujarat leadership.
 ---
 
+## Summary
+
+This telex from M. R. Masani to S. V. Raju, dated 2 April 1970, addresses proposed action against C. C. Desai in Gujarat. Masani reports concern within the Swatantra Party's National Executive that the action might provoke a revolt and urges that Gujarat's State Executive and legislative members receive the fullest information before any decision is taken.
+
+Masani asks for an immediate three-column statement reproducing relevant passages from the National Executive's note, C. C. Desai's explanation, and National Headquarters' comments. He also proposes consulting members of the State Parliamentary Board—including H. M. Patel, Baria, and Javin Patel—at a meeting on 11 April, while seeking Cooper's response and the agreement of Dahyabhai Piloo Mody and R. K. Amin. The document records an internal party effort to combine rapid communication with consultation of Gujarat leadership.
+
 ## Key points
 
 - Masani reports concern about repercussions from action against C. C. Desai in Gujarat.

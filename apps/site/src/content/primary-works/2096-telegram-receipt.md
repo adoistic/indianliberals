@@ -47,6 +47,12 @@ summary: |-
   The second page contains procedural instructions for complaints and refund claims. It states that complaints concerning the telegram should be addressed to the officer-in-charge of the Telegraph Office where the telegram was booked within 45 days of its date, and that the receipt must be enclosed. The telegram text itself is not present in the rendered pages.
 ---
 
+## Summary
+
+This two-page English-language document is an administrative receipt form issued by INDIAN POSTS AND TELEGRAPHS. The first page is headed “RECEIPT FOR INLAND TELEGRAM” and includes fields for the amount, class, date, number, office of origin, and amount of the telegram, but the visible fields are not completed with sender, recipient, date, or message details.
+
+The second page contains procedural instructions for complaints and refund claims. It states that complaints concerning the telegram should be addressed to the officer-in-charge of the Telegraph Office where the telegram was booked within 45 days of its date, and that the receipt must be enclosed. The telegram text itself is not present in the rendered pages.
+
 ## Key points
 
 - The document is a two-page Indian Posts and Telegraphs inland telegram receipt form.

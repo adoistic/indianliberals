@@ -56,6 +56,12 @@ summary: |-
   Raju surveys the political prospects of the Janata coalition, noting its ministers’ apparent tolerance and the weakening of formerly rigid ideological positions among socialists and Jana Sangh leaders. He highlights public affirmations of secularism, the prospect of Muslims joining the RSS, investigations into Emergency abuses and torture, and the political crisis of the Congress. The letter closes by discussing the uncertain role of Jagjivan Ram’s Congress for Democracy, possible pressure for fresh state elections, the forthcoming presidential election, and the sale and shipment of the recipient’s book. The document has no printed title; all three pages were rendered and read.
 ---
 
+## Summary
+
+In this three-page letter dated April 26, 1977, S. V. Raju writes to Dr. R. C. Cooper about the political atmosphere following the end of the Emergency. He welcomes the return of public protest, strikes, press criticism, and what he calls the “air of freedom and liberty,” while praising The Indian Express and The Statesman for standing up to governmental power. He also comments on the Janata Party government’s early efforts to ease restrictions on press freedom, amend the Constitution, reshape economic policy toward agriculture and small agro-based industries, and reconsider the permit-licence system.
+
+Raju surveys the political prospects of the Janata coalition, noting its ministers’ apparent tolerance and the weakening of formerly rigid ideological positions among socialists and Jana Sangh leaders. He highlights public affirmations of secularism, the prospect of Muslims joining the RSS, investigations into Emergency abuses and torture, and the political crisis of the Congress. The letter closes by discussing the uncertain role of Jagjivan Ram’s Congress for Democracy, possible pressure for fresh state elections, the forthcoming presidential election, and the sale and shipment of the recipient’s book. The document has no printed title; all three pages were rendered and read.
+
 ## Key points
 
 - Raju describes the post-Emergency political atmosphere as newly free, marked by processions, slogans, strikes, and renewed public debate.

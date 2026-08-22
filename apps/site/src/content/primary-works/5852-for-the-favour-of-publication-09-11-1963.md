@@ -58,6 +58,12 @@ summary: |-
   The principal objection concerns Clauses 7 and 8, which would permit the Government to deprive trustees of voting rights in companies and transfer those rights to a public trustee without adequate safeguards or appeal. The dissent characterises this as an unwarranted interference with shareholders' property and participation rights, especially where no wrongdoing has been proved. It proposes limiting the provision to public charitable trusts and cases involving conduct adverse to the trust, while guaranteeing the affected trustee a hearing and a right of appeal. The authors also seek broader appeal rights against tribunal findings, removal of vague standards of commercial prudence from Clause 9, and restriction of the Central Government's prior-approval power over appointments.
 ---
 
+## Summary
+
+This two-page minute of dissent by M. R. Masani and R. V. Bade argues that the Select Committee reference of the Companies (Amendment) Bill, 1962 was justified, but that the reported Bill still contains serious defects. The authors welcome the removal of a proposed power allowing the Government to transfer judicial powers to a tribunal, and the exclusion of a retrospective power that could have converted the Government from a creditor into a company's shareholder. They regard these changes as important to preserving confidence in India's contractual obligations and creditworthiness.
+
+The principal objection concerns Clauses 7 and 8, which would permit the Government to deprive trustees of voting rights in companies and transfer those rights to a public trustee without adequate safeguards or appeal. The dissent characterises this as an unwarranted interference with shareholders' property and participation rights, especially where no wrongdoing has been proved. It proposes limiting the provision to public charitable trusts and cases involving conduct adverse to the trust, while guaranteeing the affected trustee a hearing and a right of appeal. The authors also seek broader appeal rights against tribunal findings, removal of vague standards of commercial prudence from Clause 9, and restriction of the Central Government's prior-approval power over appointments.
+
 ## Key points
 
 - The dissent supports referring the Companies (Amendment) Bill to a Select Committee but finds that important defects remain in the Committee's reported version.

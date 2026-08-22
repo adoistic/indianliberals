@@ -55,6 +55,12 @@ summary: |-
   The report's main emphasis is organisational expansion. It describes the formation or planned formation of ward units across Bombay, activity in Matunga, Bandra, Malad, Ghatkopar, Delisle Road, Colaba, 'C' Ward, Vile Parle and Mandvi, and the establishment of party contacts in colleges. It also reports a training camp for Bandra and Khar workers, a monthly donations drive, support for independent municipal candidates by the Jan Sangh where it was not contesting, and a 1961 membership-renewal campaign. The General Register is said to contain 5,946 members, excluding 184 members resident in other states, while November subscribers numbered 40.
 ---
 
+## Summary
+
+This four-page report records the Swatantra Party's activities in Bombay from 15 November 1960 to 5 January 1961. It highlights C. Rajagopalachari's visit, including a public lunch at the Taj Mahal Hotel attended by 300 citizens, industrialists and businessmen, and a Chowpatty public meeting attended by an estimated 15,000 to 20,000 people. The Bombay unit also organised a Founder's Day essay competition on Rajagopalachari's role in Indian politics, secured newspaper advertising for it, and coordinated public tributes and small-donation drives on Rajagopalachari's birthday.
+
+The report's main emphasis is organisational expansion. It describes the formation or planned formation of ward units across Bombay, activity in Matunga, Bandra, Malad, Ghatkopar, Delisle Road, Colaba, 'C' Ward, Vile Parle and Mandvi, and the establishment of party contacts in colleges. It also reports a training camp for Bandra and Khar workers, a monthly donations drive, support for independent municipal candidates by the Jan Sangh where it was not contesting, and a 1961 membership-renewal campaign. The General Register is said to contain 5,946 members, excluding 184 members resident in other states, while November subscribers numbered 40.
+
 ## Key points
 
 - C. Rajagopalachari's November visit to Bombay generated a public lunch, a large Chowpatty meeting and strong newspaper coverage.

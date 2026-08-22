@@ -58,6 +58,12 @@ summary: |-
   The meeting also considered the implications of China’s recent nuclear explosion and India’s strategic choices. Minoo Masani argued that India could not independently develop nuclear weapons while refusing to accept a U.S. deterrent, leaving reliance on U.S. nuclear protection as the practical alternative. Ranga opposed increasing Soviet influence in India’s defence establishments, citing the possibility of closer Soviet alignment with Communist China. The record assigns members to study several legislative matters, including Indo-Ceylonese relations, anti-corruption law, food adulteration, and electoral representation, and records opposition to the Government’s Essential Commodities Ordinance.
 ---
 
+## Summary
+
+This two-page office record documents a Swatantra Party meeting held on 16 November 1964 at the Western Court Lounge in New Delhi, chaired by Prof. N. G. Ranga. Members decided to raise adjournment motions concerning the use of armed forces during student disturbances in Orissa and the Government’s failure to provide adequate food in Kerala. They also discussed the constitutional position of Fundamental Rights in relation to controversies involving the Uttar Pradesh Legislature and High Court, with members supporting continued judicial appeal by individuals convicted by a legislative House.
+
+The meeting also considered the implications of China’s recent nuclear explosion and India’s strategic choices. Minoo Masani argued that India could not independently develop nuclear weapons while refusing to accept a U.S. deterrent, leaving reliance on U.S. nuclear protection as the practical alternative. Ranga opposed increasing Soviet influence in India’s defence establishments, citing the possibility of closer Soviet alignment with Communist China. The record assigns members to study several legislative matters, including Indo-Ceylonese relations, anti-corruption law, food adulteration, and electoral representation, and records opposition to the Government’s Essential Commodities Ordinance.
+
 ## Key points
 
 - The meeting was held on 16 November 1964 in New Delhi, with Prof. N. G. Ranga in the chair.

@@ -44,6 +44,10 @@ summary: |-
   This one-page letter, dated June 6, 1974, is from Minoo Masani to J. R. D. Tata. Masani forwards an enclosed letter from Jayaprakash Narayan, whom he had recently met in Madras, explaining that he is sending it to Tata's office because Tata is away in Delhi.
 ---
 
+## Summary
+
+This one-page letter, dated June 6, 1974, is from Minoo Masani to J. R. D. Tata. Masani forwards an enclosed letter from Jayaprakash Narayan, whom he had recently met in Madras, explaining that he is sending it to Tata's office because Tata is away in Delhi.
+
 ## Key points
 
 - Masani forwards a cover containing a letter from Jayaprakash Narayan.

@@ -52,6 +52,10 @@ summary: |-
   This one-page set of minutes records a meeting of the Swatantra Party's Parliamentary Executive Committee held on 30 May 1967 at Parliament House, New Delhi. Prof. N. G. Ranga chaired the meeting, which considered whether to address non-Congress chief ministers about the formation of a national government and left the decision to the chairman. The minutes also list proposed committee nominations and parliamentary members assigned to study the Passport Bill and a bill concerning fundamental rights.
 ---
 
+## Summary
+
+This one-page set of minutes records a meeting of the Swatantra Party's Parliamentary Executive Committee held on 30 May 1967 at Parliament House, New Delhi. Prof. N. G. Ranga chaired the meeting, which considered whether to address non-Congress chief ministers about the formation of a national government and left the decision to the chairman. The minutes also list proposed committee nominations and parliamentary members assigned to study the Passport Bill and a bill concerning fundamental rights.
+
 ## Key points
 
 - The Executive Committee meeting was held on 30 May 1967 and the minutes were issued on 1 June 1967.

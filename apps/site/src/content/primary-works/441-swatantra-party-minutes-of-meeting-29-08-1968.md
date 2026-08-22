@@ -52,6 +52,12 @@ summary: |-
   The committee nominated Shri P. K. Deo and Shri J. K. Lobo Prabhu to the Select Committee on the Criminal and Election Laws Amendment Bill; after P. K. Deo declined, the Leader nominated Shri H. Ajmal Khan in his place. Piloo Mody was nominated to the Select Committee concerning Press Laws, with the second name left for the Leader to finalise. The Rajya Sabha group also indicated that its next committee assignment would go to Shri Devi Singh. The record is signed by Y. G. Gowd, Chief Whip.
 ---
 
+## Summary
+
+This one-page English-language record documents a meeting of the Swatantra Party Executive Committee held on August 29, 1968, in the Party Room at Central Hall, Parliament House. It lists eleven members present and records decisions concerning committee nominations and parliamentary business.
+
+The committee nominated Shri P. K. Deo and Shri J. K. Lobo Prabhu to the Select Committee on the Criminal and Election Laws Amendment Bill; after P. K. Deo declined, the Leader nominated Shri H. Ajmal Khan in his place. Piloo Mody was nominated to the Select Committee concerning Press Laws, with the second name left for the Leader to finalise. The Rajya Sabha group also indicated that its next committee assignment would go to Shri Devi Singh. The record is signed by Y. G. Gowd, Chief Whip.
+
 ## Key points
 
 - The Swatantra Party Executive Committee met on August 29, 1968, at Parliament House in New Delhi.

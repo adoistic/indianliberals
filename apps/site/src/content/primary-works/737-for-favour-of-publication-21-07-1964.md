@@ -54,6 +54,12 @@ summary: |-
   Masani proposes two remedies: resolve India’s differences with Pakistan so that both countries can cooperate against Chinese Communist influence, and accept a broader obligation to help defend Laos, Vietnam, and Malaysia. He criticizes the Indian government’s reluctance to condemn Chinese aggression against India in a Commonwealth communiqué, linking this hesitation to what he describes as an overly narrow and strategically damaging understanding of neutrality. The document reports remarks delivered by Masani, identified as General Secretary of the Swatantra Party, at the Rotary Club of Delhi.
 ---
 
+## Summary
+
+In this one-page press statement dated “Delhi: July 21,” Minoo Masani argues that India is failing to recognize the strategic unity of Chinese Communist expansion across Asia. While attention is focused on the Himalayan frontier, he says, China is consolidating its position in south-east Asia, placing Burma, Laos, Vietnam, and Malaysia on a common front. He presents this as the consequence of neglect dating back to the “disastrous decade of Panchashila.”
+
+Masani proposes two remedies: resolve India’s differences with Pakistan so that both countries can cooperate against Chinese Communist influence, and accept a broader obligation to help defend Laos, Vietnam, and Malaysia. He criticizes the Indian government’s reluctance to condemn Chinese aggression against India in a Commonwealth communiqué, linking this hesitation to what he describes as an overly narrow and strategically damaging understanding of neutrality. The document reports remarks delivered by Masani, identified as General Secretary of the Swatantra Party, at the Rotary Club of Delhi.
+
 ## Key points
 
 - Masani warns that Chinese Communist expansion is encircling India through south-east Asia.

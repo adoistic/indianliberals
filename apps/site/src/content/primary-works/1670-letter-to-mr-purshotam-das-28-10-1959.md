@@ -47,6 +47,12 @@ summary: |-
   The letter frames the appeal as opposition to what the writer calls the Indian National Congress's “extreme policies,” which are said to be harming the country. It closes with a courteous request for whatever contribution the recipient considers appropriate. The page is marked “Personal.” and bears the typed signature “Sir Purshotamdas Thakurdas.”
 ---
 
+## Summary
+
+This single-page personal letter, dated 28 October 1959, refers to an earlier meeting concerning the proposed break-up of Bombay State. The writer asks the recipient to contribute to the funds of the newly established Swatantra Party, presenting the party as a growing national force with support in different parts of India.
+
+The letter frames the appeal as opposition to what the writer calls the Indian National Congress's “extreme policies,” which are said to be harming the country. It closes with a courteous request for whatever contribution the recipient considers appropriate. The page is marked “Personal.” and bears the typed signature “Sir Purshotamdas Thakurdas.”
+
 ## Key points
 
 - The letter is dated 28 October 1959 and marked “Personal.”

@@ -53,6 +53,10 @@ summary: |-
   This Indian Express report covers Swatantra leader Minoo Masani's response to Indira Gandhi's statement that the Government would welcome shedding controls over industry and trade when business had honoured its principle of social responsibility. Masani welcomed the statement but argued that the private sector should not be treated as a single “black sheep,” stressing that business had responsibilities in creating a national climate conducive to industrialisation. He also invoked Mahatma Gandhi's idea of trusteeship and criticised excessive taxation and public distrust of business.
 ---
 
+## Summary
+
+This Indian Express report covers Swatantra leader Minoo Masani's response to Indira Gandhi's statement that the Government would welcome shedding controls over industry and trade when business had honoured its principle of social responsibility. Masani welcomed the statement but argued that the private sector should not be treated as a single “black sheep,” stressing that business had responsibilities in creating a national climate conducive to industrialisation. He also invoked Mahatma Gandhi's idea of trusteeship and criticised excessive taxation and public distrust of business.
+
 ## Key points
 
 - Minoo Masani welcomed Indira Gandhi's willingness to reduce industrial and trade controls if business demonstrated social responsibility.

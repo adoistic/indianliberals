@@ -44,6 +44,10 @@ summary: |-
   This one-page English archival document is a confirmatory copy of a telegram sent by M. R. Masani to N. Dandekar through New Delhi on May 6, 1970. The visible message concerns postponing a scheduled meeting because many participants were absent from Bombay; the telegram refers to a revised date in June.
 ---
 
+## Summary
+
+This one-page English archival document is a confirmatory copy of a telegram sent by M. R. Masani to N. Dandekar through New Delhi on May 6, 1970. The visible message concerns postponing a scheduled meeting because many participants were absent from Bombay; the telegram refers to a revised date in June.
+
 ## Key points
 
 - The document is identified as a telegram from Mr. Masani to Mr. Dandekar through New Delhi.

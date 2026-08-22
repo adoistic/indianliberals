@@ -47,6 +47,10 @@ summary: |-
   This one-page National Herald, Lucknow report dated 17 May 1968 states that Swatantra Party leader M. R. Masani rejected appeals from the party's central parliamentary board and national executive to withdraw his resignation from those bodies. The report says that Masani communicated his decision in a letter to the party's general secretary, N. Dandekar, and regarded the decision as final.
 ---
 
+## Summary
+
+This one-page National Herald, Lucknow report dated 17 May 1968 states that Swatantra Party leader M. R. Masani rejected appeals from the party's central parliamentary board and national executive to withdraw his resignation from those bodies. The report says that Masani communicated his decision in a letter to the party's general secretary, N. Dandekar, and regarded the decision as final.
+
 ## Key points
 
 - The clipping reports M. R. Masani's refusal to withdraw his resignation.

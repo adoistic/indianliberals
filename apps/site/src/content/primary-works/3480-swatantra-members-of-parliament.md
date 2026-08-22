@@ -48,6 +48,12 @@ summary: |-
   The directory is administrative rather than argumentative: it contains no essays, political analysis, publication statement, author byline, or date. Several entries contain handwritten corrections to Delhi addresses and telephone numbers, while some names and entries are visibly struck through. The scans show printed folios 31–34, though the supplied PDF sequence places these pages as PDF pages 1–4.
 ---
 
+## Summary
+
+SWATANTRA MEMBERS OF PARLIAMENT — Lok Sabha is a four-page parliamentary contact directory for Swatantra Party members. The entries are arranged by state and identify each member by name and constituency, followed by permanent and Delhi addresses and telephone numbers. The visible pages cover members associated with Andhra Pradesh, Gujarat, Rajasthan, Uttar Pradesh, West Bengal, Madras, Maharashtra, Mysore, and Orissa.
+
+The directory is administrative rather than argumentative: it contains no essays, political analysis, publication statement, author byline, or date. Several entries contain handwritten corrections to Delhi addresses and telephone numbers, while some names and entries are visibly struck through. The scans show printed folios 31–34, though the supplied PDF sequence places these pages as PDF pages 1–4.
+
 ## Key points
 
 - Lists Swatantra Party Lok Sabha members by state and constituency.

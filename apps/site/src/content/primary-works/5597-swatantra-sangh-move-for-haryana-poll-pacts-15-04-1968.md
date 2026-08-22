@@ -56,6 +56,10 @@ summary: |-
   This two-page occasional paper combines a Hindustan Times report dated April 15, 1968, with a typed Swatantra Party General Council resolution. The newspaper article reports negotiations between the Swatantra Party and the Sangh for an electoral pact in Haryana, following the Assembly's refusal to comment on a motion concerning the Governor's conduct. It describes disciplinary action against rebel MLAs, disagreements over candidate selection, and discussions involving Charan Singh and other political figures.
 ---
 
+## Summary
+
+This two-page occasional paper combines a Hindustan Times report dated April 15, 1968, with a typed Swatantra Party General Council resolution. The newspaper article reports negotiations between the Swatantra Party and the Sangh for an electoral pact in Haryana, following the Assembly's refusal to comment on a motion concerning the Governor's conduct. It describes disciplinary action against rebel MLAs, disagreements over candidate selection, and discussions involving Charan Singh and other political figures.
+
 ## Key points
 
 - The Swatantra Party and the Sangh were negotiating a Haryana Assembly election pact.

@@ -54,6 +54,12 @@ summary: |-
   The resolution seeks a compromise between these positions. It proposes converting the Swatantra Party into a non-party service organisation, the Swatantra Seva Sangh, dedicated to educational and constructive activities based on Swatantra principles and withdrawing from electoral and parliamentary activity. It further calls for new rules to be adopted by delegates joining the organisation at a meeting scheduled for 6 August 1974 in New Delhi, and directs the party’s office-bearers and headquarters to implement the resolution.
 ---
 
+## Summary
+
+This three-page tentative draft resolution asks the National Convention of the Swatantra Party to decide whether the party should be dissolved to facilitate the formation of a new national party. It presents the case for dissolution as a way to encourage a two-party system, gain electoral advantages, and provide a national alternative, while acknowledging substantial opposition within the party. Opponents argue that the proposed arrangement would not produce a two-party system, that electoral disadvantages would remain under the existing system, and that the proposed new party’s leadership would lack credibility with the Indian public.
+
+The resolution seeks a compromise between these positions. It proposes converting the Swatantra Party into a non-party service organisation, the Swatantra Seva Sangh, dedicated to educational and constructive activities based on Swatantra principles and withdrawing from electoral and parliamentary activity. It further calls for new rules to be adopted by delegates joining the organisation at a meeting scheduled for 6 August 1974 in New Delhi, and directs the party’s office-bearers and headquarters to implement the resolution.
+
 ## Key points
 
 - The Convention considers dissolving the Swatantra Party to facilitate the creation of a new national party.

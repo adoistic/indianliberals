@@ -49,6 +49,12 @@ summary: |-
   The author is not identified on the page: a handwritten mark above the letter is not sufficiently legible for attribution. The visible document therefore provides evidence about pamphlet circulation, party publicity, and internal organisational development, but not about the writer’s broader political or economic arguments.
 ---
 
+## Summary
+
+This one-page letter, dated 16 November 1959, replies to Mr. Ram Rai Mumbhi’s earlier letters of 21 October and 7 November. The writer says that Mr. Shroff’s office was asked to send Mumbhi copies of a pamphlet on State Trading and confirms that Mumbhi’s suggestion for a regular leaflet service has been passed to the Party’s publicity department. The letter indicates that the Party’s publicity organisation is not yet adequately developed but is expected to become operational soon.
+
+The author is not identified on the page: a handwritten mark above the letter is not sufficiently legible for attribution. The visible document therefore provides evidence about pamphlet circulation, party publicity, and internal organisational development, but not about the writer’s broader political or economic arguments.
+
 ## Key points
 
 - The letter is dated 16 November 1959 and addressed to Mr. Ram Rai Mumbhi.

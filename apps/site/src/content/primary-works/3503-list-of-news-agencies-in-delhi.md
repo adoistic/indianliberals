@@ -43,6 +43,10 @@ summary: |-
   This one-page English administrative list, headed “List of News Agencies in Delhi.”, records four news agencies and their Delhi contact addresses. The entries identify the Press Trust of India, United News of India, Indian News Service, and Hindustan Samachar.
 ---
 
+## Summary
+
+This one-page English administrative list, headed “List of News Agencies in Delhi.”, records four news agencies and their Delhi contact addresses. The entries identify the Press Trust of India, United News of India, Indian News Service, and Hindustan Samachar.
+
 ## Key points
 
 - The document is a one-page directory-style list of news agencies in Delhi.

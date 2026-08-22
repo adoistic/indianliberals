@@ -53,6 +53,12 @@ summary: |-
   The letter also coordinates local party organisation: it requests deputing Vijay and others in the Fort area to collect signatures, arranging primary and district committee meetings, and contacting committee members in the Bombay Central constituency. Munshi asks for copies of Professor C. N. Vakil’s report and another press report on the state of the Indian economy and recommended steps. He closes by mentioning a draft letter and telegram for Mr. Mewaram Arya. The rendered document contains the complete two-page letter; its title, if any, is not printed.
 ---
 
+## Summary
+
+This two-page letter, dated February 26, 1974, is addressed to Mr. Narayan and signed by Girish Munshi from Bharatiya Vidya Bhavan, Bombay. Munshi reports sending additional signatures with Prabhakar and asks for an analysis identifying which party units were active in collecting signatures. He proposes an Executive Committee meeting to assess the party’s attitude toward the grass-roots and branches and to determine its next course of action.
+
+The letter also coordinates local party organisation: it requests deputing Vijay and others in the Fort area to collect signatures, arranging primary and district committee meetings, and contacting committee members in the Bombay Central constituency. Munshi asks for copies of Professor C. N. Vakil’s report and another press report on the state of the Indian economy and recommended steps. He closes by mentioning a draft letter and telegram for Mr. Mewaram Arya. The rendered document contains the complete two-page letter; its title, if any, is not printed.
+
 ## Key points
 
 - Munshi forwards additional signatures collected for a party campaign and requests an assessment of which units participated.

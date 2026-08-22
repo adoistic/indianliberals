@@ -49,6 +49,10 @@ summary: |-
   In this letter dated August 21, 1964, M. R. Masani writes to A. P. Jain acknowledging Jain’s letter and the actions he has taken. Masani confirms that he will attend the meeting called by the Chief Election Commissioner on September 12, indicating engagement with an ongoing electoral matter involving the Swatantra Party.
 ---
 
+## Summary
+
+In this letter dated August 21, 1964, M. R. Masani writes to A. P. Jain acknowledging Jain’s letter and the actions he has taken. Masani confirms that he will attend the meeting called by the Chief Election Commissioner on September 12, indicating engagement with an ongoing electoral matter involving the Swatantra Party.
+
 ## Key points
 
 - The letter is dated August 21, 1964.

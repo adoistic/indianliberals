@@ -52,6 +52,12 @@ summary: |-
   Masani proposes separating the Postal and Telecommunications branches, granting telecommunications financial autonomy, abolishing the post of Director-General, and replacing the existing administration with a technically led Telecommunications Board. He ultimately advocates a full-fledged autonomous public corporation able to issue bonds, raise loans, and invest ahead of demand. Japan's experience is offered as evidence that corporatisation and financial freedom can produce rapid expansion, while the pamphlet also notes that Britain has decided to constitute its postal and telecommunications services as a public corporation.
 ---
 
+## Summary
+
+In this four-page pamphlet, M. R. Masani argues that telephone users are being subjected to a concealed tax because surpluses from telecommunications are used to cover persistent losses in the Postal branch. He presents the arrangement as inequitable, noting that postal services are a basic public service whose indirect social benefits cannot be measured like commercial profits. A table of figures shows the Postal branch using telecommunications surpluses while telephone numbers expand and the tax paid by subscribers fluctuates.
+
+Masani proposes separating the Postal and Telecommunications branches, granting telecommunications financial autonomy, abolishing the post of Director-General, and replacing the existing administration with a technically led Telecommunications Board. He ultimately advocates a full-fledged autonomous public corporation able to issue bonds, raise loans, and invest ahead of demand. Japan's experience is offered as evidence that corporatisation and financial freedom can produce rapid expansion, while the pamphlet also notes that Britain has decided to constitute its postal and telecommunications services as a public corporation.
+
 ## Key points
 
 - Telephone users indirectly subsidise the loss-making Postal branch through telecommunications surpluses and a concealed telephone tax.

@@ -53,6 +53,12 @@ summary: |-
   The rendered page contains only the correspondence and does not include the enclosed Gazette text itself. It therefore documents the transmission of a 1965 labour-related ordinance from the Swatantra Party office to Masani, but provides no substantive discussion of the ordinance's provisions or of the party's position on it.
 ---
 
+## Summary
+
+This untitled English-language office letter, issued on Swatantra Party Parliamentary Office letterhead in New Delhi on June 14, 1965, is addressed by A. P. Jain to Minoo Masani. Jain states that he is enclosing a copy of the Gazette of India containing the text of "The Payment of Bonus Ordinance, 1965" for Masani's consideration, and closes with formal regards.
+
+The rendered page contains only the correspondence and does not include the enclosed Gazette text itself. It therefore documents the transmission of a 1965 labour-related ordinance from the Swatantra Party office to Masani, but provides no substantive discussion of the ordinance's provisions or of the party's position on it.
+
 ## Key points
 
 - The document is a single-page typed office letter on Swatantra Party Parliamentary Office letterhead.

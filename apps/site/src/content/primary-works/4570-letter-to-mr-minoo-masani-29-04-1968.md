@@ -52,6 +52,10 @@ summary: |-
   This handwritten letter, dated Godhra, 29 April 1968, is addressed to Minoo Masani and praises his conduct in and outside Parliament, especially his opposition to corrupt figures within the Swatantra Party in Gujarat. The unidentified writer urges Masani to use his position as a representative of the people to pursue two causes: opposition to the allegedly corrupt and influential princes of Rajasthan, and opposition to corrupt government servants who manipulate promotions and transfers for money.
 ---
 
+## Summary
+
+This handwritten letter, dated Godhra, 29 April 1968, is addressed to Minoo Masani and praises his conduct in and outside Parliament, especially his opposition to corrupt figures within the Swatantra Party in Gujarat. The unidentified writer urges Masani to use his position as a representative of the people to pursue two causes: opposition to the allegedly corrupt and influential princes of Rajasthan, and opposition to corrupt government servants who manipulate promotions and transfers for money.
+
 ## Key points
 
 - The writer commends Masani's parliamentary and public opposition to corruption.

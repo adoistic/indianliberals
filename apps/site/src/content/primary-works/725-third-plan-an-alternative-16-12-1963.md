@@ -55,6 +55,12 @@ summary: |-
   In the rendered pages, Masani’s alternative rests on two priorities: a sound ordering of economic priorities and maximum employment. He gives precedence to agriculture, consumer goods, and basic industries, and argues that labour-intensive production should put purchasing power in people’s hands. He calls for a mixed economy in which private enterprise has room to operate, while the State concentrates on irrigation, roads, communications, power, technical and general education, and incentives against anti-social practices. The clipping’s continuation also criticizes the shift from the previous planning pattern toward greater state intervention, citing German Social Democrats and John F. Kennedy in support of a more flexible, private-enterprise-oriented approach. The article is incomplete: the visible page begins with material continued from page 7 and ends with material continued on page 9.
 ---
 
+## Summary
+
+In the rendered newspaper clipping, M. R. Masani proposes an alternative to the Third Five Year Plan, beginning from the view that planning should serve ordinary people rather than abstract production targets. He invokes Mahatma Gandhi’s “talisman” as a test of policy and argues for a modest but achievable objective: raising per-capita income while meeting minimum nutritional and clothing needs. The article cites Planning Commission figures on food-grain and cloth consumption, and contrasts India’s performance with countries such as West Germany, China, and Japan.
+
+In the rendered pages, Masani’s alternative rests on two priorities: a sound ordering of economic priorities and maximum employment. He gives precedence to agriculture, consumer goods, and basic industries, and argues that labour-intensive production should put purchasing power in people’s hands. He calls for a mixed economy in which private enterprise has room to operate, while the State concentrates on irrigation, roads, communications, power, technical and general education, and incentives against anti-social practices. The clipping’s continuation also criticizes the shift from the previous planning pattern toward greater state intervention, citing German Social Democrats and John F. Kennedy in support of a more flexible, private-enterprise-oriented approach. The article is incomplete: the visible page begins with material continued from page 7 and ends with material continued on page 9.
+
 ## Key points
 
 - Masani frames the Third Plan as an opportunity to replace disappointing results with a practical, people-centred alternative.

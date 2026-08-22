@@ -52,6 +52,12 @@ summary: |-
   The note presents delaying legislation as a practical constitutional safeguard: once the Supreme Court judgment became available, Parliament and the Government would know what form of legislation could withstand judicial scrutiny. It argues that waiting would avoid a later reference to the Supreme Court and the possible striking down of a parliamentary bill. The document closes by listing several prominent signatories, including A. B. Vajpayee, M. R. Masani, N. Dandekar and others. No title, publisher, or issuing organisation is printed on the page.
 ---
 
+## Summary
+
+Dated July 23, 1969, this one-page press note by M. R. Masani reports a letter signed by 55 members of both Houses of Parliament and addressed to Prime Minister Indira Gandhi. The signatories appeal to her to uphold parliamentary traditions and the rule of law by refraining from introducing bank-nationalisation legislation until the Supreme Court has ruled on the validity of the nationalisation measure and the manner in which the ordinance was promulgated.
+
+The note presents delaying legislation as a practical constitutional safeguard: once the Supreme Court judgment became available, Parliament and the Government would know what form of legislation could withstand judicial scrutiny. It argues that waiting would avoid a later reference to the Supreme Court and the possible striking down of a parliamentary bill. The document closes by listing several prominent signatories, including A. B. Vajpayee, M. R. Masani, N. Dandekar and others. No title, publisher, or issuing organisation is printed on the page.
+
 ## Key points
 
 - The press note reports a letter signed by 55 members of both Houses of Parliament.

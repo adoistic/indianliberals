@@ -45,6 +45,10 @@ summary: |-
   This single-page archival index records copies of correspondence concerning Jeep No. MRG 2347 from 1972 through 1986. The entries primarily concern vehicle-tax assessments, unpaid tax, traffic-offence notices, registration and transport-office correspondence, and related communications with Mumbai municipal and police authorities.
 ---
 
+## Summary
+
+This single-page archival index records copies of correspondence concerning Jeep No. MRG 2347 from 1972 through 1986. The entries primarily concern vehicle-tax assessments, unpaid tax, traffic-offence notices, registration and transport-office correspondence, and related communications with Mumbai municipal and police authorities.
+
 ## Key points
 
 - The record concerns Jeep No. MRG 2347.

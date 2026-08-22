@@ -50,6 +50,12 @@ summary: |-
   Patil informs the recipient that the petitioners have circulated the petition and are seeking relief in the matter. He invites the Law Officer to remain present at the time of admission if desired and encloses two copies of the petition by way of service. The document is therefore a formal legal-service letter concerning the commencement or admission stage of constitutional litigation.
 ---
 
+## Summary
+
+This one-page English letter, dated in relation to proceedings on 28 December 1994, is from advocate Rajiv Patil to the Law Officer of the Union of India (Legal Department). Its subject concerns Writ Petition No. /94, filed by the Swatantra Party and others against the Union of India and others before the Vacation Judge of the Supreme Court of India, identified as Justice Coram: M. L. (?) J. in the document's typed text.
+
+Patil informs the recipient that the petitioners have circulated the petition and are seeking relief in the matter. He invites the Law Officer to remain present at the time of admission if desired and encloses two copies of the petition by way of service. The document is therefore a formal legal-service letter concerning the commencement or admission stage of constitutional litigation.
+
 ## Key points
 
 - The letter is addressed to the Law Officer of the Union of India, Legal Department, in Bombay.

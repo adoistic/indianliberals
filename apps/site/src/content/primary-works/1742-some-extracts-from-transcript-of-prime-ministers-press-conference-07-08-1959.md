@@ -55,6 +55,12 @@ summary: |-
   The exchange then turns to cooperative farming, the Nagpur Resolution, and the distinction between voluntary cooperation and compulsion. The Prime Minister argues that the Congress position supports service cooperatives and only recommends that joint farming be tried voluntarily after three years, without compulsion. On nationalisation and economic policy, he rejects the idea that nationalisation itself constitutes economic thinking, arguing instead for organized, historically informed policy-making through planning and institutions such as the Planning Commission. He defends nationalisation in particular cases, including banking and insurance, while criticizing vague calls to nationalise everything as an inadequate substitute for analysis.
 ---
 
+## Summary
+
+This four-page extract records a press conference held at Vigyan Bhavan on 7 August 1959. The Prime Minister is questioned about the Congress leadership's response to the newly formed Swatantra Party, including allegations that Congress rule in Kerala was dishonest and incompetent, the party's criticism of agricultural cooperatives, and the possibility that its emergence has made Congress leaders politically nervous. The Prime Minister acknowledges Swatantra as a legitimate political party but characterizes it as reactionary, conservative, backward-looking, and disconnected from contemporary India. He also dismisses the party's laissez-faire position as insufficiently informed by international experience.
+
+The exchange then turns to cooperative farming, the Nagpur Resolution, and the distinction between voluntary cooperation and compulsion. The Prime Minister argues that the Congress position supports service cooperatives and only recommends that joint farming be tried voluntarily after three years, without compulsion. On nationalisation and economic policy, he rejects the idea that nationalisation itself constitutes economic thinking, arguing instead for organized, historically informed policy-making through planning and institutions such as the Planning Commission. He defends nationalisation in particular cases, including banking and insurance, while criticizing vague calls to nationalise everything as an inadequate substitute for analysis.
+
 ## Key points
 
 - The Prime Minister responds to questions about Congress's political reaction to the Swatantra Party's emergence in 1959.

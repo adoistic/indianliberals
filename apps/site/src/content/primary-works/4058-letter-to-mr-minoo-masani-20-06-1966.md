@@ -57,6 +57,12 @@ summary: |-
   The attached policy text attributes India’s economic collapse to mistaken economic policies and Union Government planning over the preceding decade and a half. To ensure that devaluation produces its intended effects, Shenoy proposes monetary and fiscal restraint, reduced non-developmental expenditure, limits on foreign borrowing, postponement of wasteful Fourth Plan projects, lower taxation, dismantling of permits and controls, and negotiations to reduce foreign-debt servicing costs. Transitional measures include supplies of imported raw materials for exporters, assistance to stranded industrial projects, and abolition of duties on imported inputs. Pages 5–6 reproduce an annotated draft, showing editorial changes and marginal notes; they do not add a separate argument.
 ---
 
+## Summary
+
+This 20 June 1966 letter from B. R. Shenoy to M. R. Masani accompanies and comments on a draft concerning export duties and the effects of India’s devaluation. Shenoy argues that the nominal 57.5 per cent devaluation produced only an estimated 10–15 per cent effective devaluation because export duties and export-promotion arrangements neutralised much of its benefit, and he urges the immediate abolition of export duties introduced alongside devaluation.
+
+The attached policy text attributes India’s economic collapse to mistaken economic policies and Union Government planning over the preceding decade and a half. To ensure that devaluation produces its intended effects, Shenoy proposes monetary and fiscal restraint, reduced non-developmental expenditure, limits on foreign borrowing, postponement of wasteful Fourth Plan projects, lower taxation, dismantling of permits and controls, and negotiations to reduce foreign-debt servicing costs. Transitional measures include supplies of imported raw materials for exporters, assistance to stranded industrial projects, and abolition of duties on imported inputs. Pages 5–6 reproduce an annotated draft, showing editorial changes and marginal notes; they do not add a separate argument.
+
 ## Key points
 
 - Shenoy presents devaluation as insufficient when export duties neutralise its effect.

@@ -51,6 +51,10 @@ summary: |-
   This two-page letter from Bombay, dated 22 May 1975, reports on political developments and organisational work connected with the Swatantra Party and allied liberal efforts. The writer relays Srikumar’s assessment that the Tamil Nadu unit supports the federal party and that the Bharatiya Lok Dal is nearly broken in the state, while describing uncertainty over the Gujarat election outcome: neither the Janata group nor Congress is expected to secure an absolute majority, and the KMP is thought likely to hold the balance. The letter also notes that Minoo Masani and S. V. Raju had visited Ahmedabad during the campaign.
 ---
 
+## Summary
+
+This two-page letter from Bombay, dated 22 May 1975, reports on political developments and organisational work connected with the Swatantra Party and allied liberal efforts. The writer relays Srikumar’s assessment that the Tamil Nadu unit supports the federal party and that the Bharatiya Lok Dal is nearly broken in the state, while describing uncertainty over the Gujarat election outcome: neither the Janata group nor Congress is expected to secure an absolute majority, and the KMP is thought likely to hold the balance. The letter also notes that Minoo Masani and S. V. Raju had visited Ahmedabad during the campaign.
+
 ## Key points
 
 - Srikumar is reported as supporting the federal party and describing the Bharatiya Lok Dal as practically broken in Tamil Nadu.

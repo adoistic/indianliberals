@@ -49,6 +49,12 @@ summary: |-
   The report presents Masani as calling for a more democratic and consultative party organisation. He questions the recent reverses suffered by the Swatantra Party in Haryana, Rajasthan, and Gujarat, and urges the party to restore its credibility through internal reform. He also objects to the national executive's handling of dissent and argues that its procedures did not reflect the party's interests. The clipping does not identify a reporter or author.
 ---
 
+## Summary
+
+This one-page English newspaper clipping from Patriot (New Delhi), dated 3 June 1968, reports M. R. Masani's criticism of the Swatantra Party's national executive. Masani argues that the executive's decision to restore discipline in the Gujarat unit could weaken rather than strengthen the party, and says the decision was inadequately discussed and not properly representative of the party's wider membership.
+
+The report presents Masani as calling for a more democratic and consultative party organisation. He questions the recent reverses suffered by the Swatantra Party in Haryana, Rajasthan, and Gujarat, and urges the party to restore its credibility through internal reform. He also objects to the national executive's handling of dissent and argues that its procedures did not reflect the party's interests. The clipping does not identify a reporter or author.
+
 ## Key points
 
 - M. R. Masani criticises the Swatantra Party's national executive over its handling of the Gujarat unit.

@@ -46,6 +46,10 @@ summary: |-
   This one-page draft letter from Girish K. Munshi to “Mr. Madhu” discusses a possible independent candidacy by Justice Bhole of the Bombay High Court in the Bombay Central constituency. Munshi reports that colleagues in the S.S.P. have raised the matter and that the Swatantra Party, Maharashtra, may be willing to support Bhole, alongside other opposition parties.
 ---
 
+## Summary
+
+This one-page draft letter from Girish K. Munshi to “Mr. Madhu” discusses a possible independent candidacy by Justice Bhole of the Bombay High Court in the Bombay Central constituency. Munshi reports that colleagues in the S.S.P. have raised the matter and that the Swatantra Party, Maharashtra, may be willing to support Bhole, alongside other opposition parties.
+
 ## Key points
 
 - Justice Bhole is described as considering an independent candidacy for Bombay Central.

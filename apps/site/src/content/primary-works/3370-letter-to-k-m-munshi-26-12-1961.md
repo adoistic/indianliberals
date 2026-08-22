@@ -50,6 +50,12 @@ summary: |-
   Masani also asks Munshi to examine, from a legal perspective, Ramgarh's references to “legal and moral commitments.” He argues that there was no legal commitment and that the moral commitment rested on assumptions Ramgarh had violated. The letter records a payment of Rs. 22,500 to Shri Janki Nandan Singh concerning the Tirhut districts, notes conflicting positions taken by Ram Anugrah Jha and Shri Punyaneand Jha, and proposes leaving the matter unresolved until the Parliamentary Sub-committee meets.
 ---
 
+## Summary
+
+In this letter dated 26 December 1961, Minoo Masani updates K. M. Munshi on arrangements concerning the Bihar file and a proposed meeting of a Parliamentary Sub-committee in Madras between 5 and 10 January 1962. He asks Munshi to communicate his preferred dates so that the meeting can be coordinated with C. Rajagopalachari, Ranga, and S. V. Raju, and stresses that Munshi's presence is essential.
+
+Masani also asks Munshi to examine, from a legal perspective, Ramgarh's references to “legal and moral commitments.” He argues that there was no legal commitment and that the moral commitment rested on assumptions Ramgarh had violated. The letter records a payment of Rs. 22,500 to Shri Janki Nandan Singh concerning the Tirhut districts, notes conflicting positions taken by Ram Anugrah Jha and Shri Punyaneand Jha, and proposes leaving the matter unresolved until the Parliamentary Sub-committee meets.
+
 ## Key points
 
 - Masani is coordinating a Parliamentary Sub-committee meeting in Madras for 5–10 January 1962.

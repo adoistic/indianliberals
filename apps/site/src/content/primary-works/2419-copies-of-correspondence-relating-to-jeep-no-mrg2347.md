@@ -47,6 +47,12 @@ summary: |-
   The contents also connect the jeep to the Swatantra Party: V.P. Bhatia, identified as Secretary of Binafitye Lok Dal, Bombay, reportedly supplied details of vehicles purchased by the Swatantra Party, including one sent to Piloo Mody in Godhra. Page 2 repeats a brief insurance-record note dated 10 October 1975, stating that policy no. 410305008 for MRG 2347 was received and sent to Miss Soni Irani at Mody & Colghan. The rendered pages show an index and one repeated insurance note, not the underlying letters, bills, notices, or receipts.
 ---
 
+## Summary
+
+This two-page archival dossier is headed “COPIES OF CORRESPONDENCE RELATING TO JEEP NO. MRG 2347.” Its first page is a typed contents list for correspondence dated 1972–1986 concerning vehicle-tax payments, traffic-offence notices, and exchanges among M.R.M., the Collector of Bombay, the Regional Transport Office, the Traffic Control Branch of the police, and V.P. Bhatia. The listed financial matters include a Rs. 35 vehicle-tax receipt and a later R.T.O. bill for Rs. 1,275; one notice states that vehicle tax had remained unpaid since February 1976.
+
+The contents also connect the jeep to the Swatantra Party: V.P. Bhatia, identified as Secretary of Binafitye Lok Dal, Bombay, reportedly supplied details of vehicles purchased by the Swatantra Party, including one sent to Piloo Mody in Godhra. Page 2 repeats a brief insurance-record note dated 10 October 1975, stating that policy no. 410305008 for MRG 2347 was received and sent to Miss Soni Irani at Mody & Colghan. The rendered pages show an index and one repeated insurance note, not the underlying letters, bills, notices, or receipts.
+
 ## Key points
 
 - The dossier concerns Jeep MRG 2347 and correspondence spanning 1972–1986.

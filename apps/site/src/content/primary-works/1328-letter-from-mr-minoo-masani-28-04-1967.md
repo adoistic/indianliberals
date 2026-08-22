@@ -50,6 +50,10 @@ summary: |-
   In this one-page letter dated April 28, 1967, Minoo Masani writes to M. C. Chawla, Deputy Secretary of the Lok Sabha Secretariat. Referring to Chawla’s letter of April 25 and a request from the Speaker, Masani forwards three names from “our Group” for consideration as members of the Tea Board: H. K. Nanja Gowder, S. Xavier, and P. Ramamoorthy.
 ---
 
+## Summary
+
+In this one-page letter dated April 28, 1967, Minoo Masani writes to M. C. Chawla, Deputy Secretary of the Lok Sabha Secretariat. Referring to Chawla’s letter of April 25 and a request from the Speaker, Masani forwards three names from “our Group” for consideration as members of the Tea Board: H. K. Nanja Gowder, S. Xavier, and P. Ramamoorthy.
+
 ## Key points
 
 - The letter is dated April 28, 1967.

@@ -48,6 +48,10 @@ summary: |-
   This one-page English letter from M. R. Masani to N. Dandekar is dated 28 May 1968 and concerns a matter previously raised by Dandekar. Masani states that, in letters to Dandekar and members of the General Council, he has already said all that can usefully be said on the subject.
 ---
 
+## Summary
+
+This one-page English letter from M. R. Masani to N. Dandekar is dated 28 May 1968 and concerns a matter previously raised by Dandekar. Masani states that, in letters to Dandekar and members of the General Council, he has already said all that can usefully be said on the subject.
+
 ## Key points
 
 - The letter is dated 28 May 1968.

@@ -57,6 +57,12 @@ summary: |-
   The report treats the more serious allegation as opposition to the Party's parliamentary candidate, Minoo Masani, during the 1967 General Election. While acknowledging that much of the evidence was hearsay, it concludes that Bhagwanjibhai Patel had acted against Masani and that such conduct was improper for a responsible member of the Gujarat Parliamentary Board. At the same time, the committee recommends procedural safeguards: allegations should be investigated before disciplinary action, the concerned state unit should be informed, and opportunities for explanation and internal mediation should be provided. It ultimately emphasizes Party unity and cautions against conflict between central and state units.
 ---
 
+## Summary
+
+This six-page Swatantra Party committee report investigates two allegations against Bhagwanjibhai Patel: anti-Party activity and irregularities involving membership forms used in elections to the Dhorāji Taluka and Rajkot district committees. The committee, constituted by the Party's National Executive, examined approximately 100 forms, membership-fee records, committee resolutions, and witness testimony. It found no established irregularity in the forms or fees, noting that the forms were eventually accepted and membership cards issued.
+
+The report treats the more serious allegation as opposition to the Party's parliamentary candidate, Minoo Masani, during the 1967 General Election. While acknowledging that much of the evidence was hearsay, it concludes that Bhagwanjibhai Patel had acted against Masani and that such conduct was improper for a responsible member of the Gujarat Parliamentary Board. At the same time, the committee recommends procedural safeguards: allegations should be investigated before disciplinary action, the concerned state unit should be informed, and opportunities for explanation and internal mediation should be provided. It ultimately emphasizes Party unity and cautions against conflict between central and state units.
+
 ## Key points
 
 - The report records an investigation ordered by the Swatantra Party National Executive into charges against Bhagwanjibhai Patel.

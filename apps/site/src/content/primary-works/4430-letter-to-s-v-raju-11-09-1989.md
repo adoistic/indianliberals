@@ -54,6 +54,12 @@ summary: |-
   In his July 5 reply, Raju explains the meanings of “lakh” and “crore,” reports that the next issue is in press, and says that a reader has suggested translating Kazmann’s article into an Indian language. Raju also comments on the magazine’s minority position on deficits and protectionism, arguing that its views are gaining acceptance among economists and policymakers. He criticises the intellectual influence of the Gosplan, the London School of Economics, and Harvard, while making a pointed aside about the proliferation of Harvard-trained people.
 ---
 
+## Summary
+
+This three-page correspondence records an exchange between Raphael G. Kazmann and S. V. Raju concerning Kazmann’s article for Freedom First. In his May 11, 1989 letter, Kazmann thanks Raju for editorial revisions, especially the added subheadings and removal of redundancies, and observes that articles in the magazine address deficits, protectionism, and related economic questions. He also asks for clarification of Indian numerical terms such as “lakh” and “crore,” and looks forward to comparing the next instalment with his original manuscript.
+
+In his July 5 reply, Raju explains the meanings of “lakh” and “crore,” reports that the next issue is in press, and says that a reader has suggested translating Kazmann’s article into an Indian language. Raju also comments on the magazine’s minority position on deficits and protectionism, arguing that its views are gaining acceptance among economists and policymakers. He criticises the intellectual influence of the Gosplan, the London School of Economics, and Harvard, while making a pointed aside about the proliferation of Harvard-trained people.
+
 ## Key points
 
 - Kazmann praises Raju’s editing of his article for the April–June 1989 issue of Freedom First.

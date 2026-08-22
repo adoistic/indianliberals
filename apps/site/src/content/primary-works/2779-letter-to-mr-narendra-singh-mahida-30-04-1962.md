@@ -49,6 +49,12 @@ summary: |-
   Masani also responds to organisational difficulties, suggesting that the group convene another meeting of its members for organisational purposes. He agrees to attend a 6 p.m. meeting at the National Democratic Club on 2 May, and explains that D. C. Pande has been placed in charge of obtaining the lobby and gallery pass needed for his parliamentary access. The page presents the correspondence as practical coordination around meetings, party organisation, and parliamentary work.
 ---
 
+## Summary
+
+In this letter dated 30 April 1962, M. R. Masani confirms his participation in a meeting arranged by Narendra Singh Mahida for noon on Wednesday, 2 May. Masani plans to arrive on the morning flight, proposes a private discussion beforehand, and asks Mahida to arrange for S. A. Matin and Wahab Azad to meet him and brief him on developments in Delhi.
+
+Masani also responds to organisational difficulties, suggesting that the group convene another meeting of its members for organisational purposes. He agrees to attend a 6 p.m. meeting at the National Democratic Club on 2 May, and explains that D. C. Pande has been placed in charge of obtaining the lobby and gallery pass needed for his parliamentary access. The page presents the correspondence as practical coordination around meetings, party organisation, and parliamentary work.
+
 ## Key points
 
 - Masani confirms his participation in a meeting arranged by Narendra Singh Mahida for 2 May 1962.

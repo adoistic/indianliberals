@@ -49,6 +49,12 @@ summary: |-
   The circular asks party units to give top priority to collecting contributions, both in cash and in kind, for transmission to the Orissa government and distribution among people in affected areas. It also requests that units report how they intend to respond. The document is signed by S. V. Raju as Executive Secretary.
 ---
 
+## Summary
+
+Central Office Circular No. 83, issued by the Swatantra Party Central Office in Bombay on October 19, 1967, responds to the severe cyclone that caused loss of life and property in parts of Orissa. It frames assistance as both a national duty and a particular responsibility of Swatantra Party members toward the state’s first Swatantra-led government, which is described as confronting problems inherited from the previous government as well as the effects of the disaster.
+
+The circular asks party units to give top priority to collecting contributions, both in cash and in kind, for transmission to the Orissa government and distribution among people in affected areas. It also requests that units report how they intend to respond. The document is signed by S. V. Raju as Executive Secretary.
+
 ## Key points
 
 - The circular reports extensive cyclone damage and loss of life in several parts of Orissa.

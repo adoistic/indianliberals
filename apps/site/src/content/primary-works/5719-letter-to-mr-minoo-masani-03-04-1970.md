@@ -48,6 +48,10 @@ summary: |-
   This one-page letter, dated April 3, 1970, is written by Prof. N. G. Ranga, Member of Parliament (Lok Sabha), to M. R. Masani. Ranga says he is enclosing copies of his own letter to “Rajajee” and of Jaideep Singhjee’s letter to him, describing both as self-explanatory and referring Masani to his established approach and views.
 ---
 
+## Summary
+
+This one-page letter, dated April 3, 1970, is written by Prof. N. G. Ranga, Member of Parliament (Lok Sabha), to M. R. Masani. Ranga says he is enclosing copies of his own letter to “Rajajee” and of Jaideep Singhjee’s letter to him, describing both as self-explanatory and referring Masani to his established approach and views.
+
 ## Key points
 
 - The document is a typed letter on N. G. Ranga’s parliamentary letterhead, dated April 3, 1970.

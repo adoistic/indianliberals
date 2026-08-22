@@ -50,6 +50,12 @@ summary: |-
   Masani rejects the interpretation that his resignation was intended to pressure the National Executive and Central Parliamentary Board into taking a particular position on the Gujarat issue. He asks that his resignation be accepted and that the reasons be reported to the General Council, noting that 101 of its 110 members had been elected to the National Executive. He further argues that the resulting vacancy should be filled by an election at the General Council’s next meeting in Bhubaneswar.
 ---
 
+## Summary
+
+In this letter dated 10 April 1968, Minoo Masani writes to Professor N. G. Ranga from New Delhi to clarify his resignation and absence from forthcoming party meetings. Masani explains that he had already committed to leaving Delhi on 12 April for a Rajkot visit, while stating that he would have reconsidered the trip if attending the meetings served the Swatantra Party’s interests.
+
+Masani rejects the interpretation that his resignation was intended to pressure the National Executive and Central Parliamentary Board into taking a particular position on the Gujarat issue. He asks that his resignation be accepted and that the reasons be reported to the General Council, noting that 101 of its 110 members had been elected to the National Executive. He further argues that the resulting vacancy should be filled by an election at the General Council’s next meeting in Bhubaneswar.
+
 ## Key points
 
 - Masani confirms that he will not attend the Swatantra Party meetings in Delhi on 13 and 14 April because he is scheduled to leave for Rajkot on 12 April.

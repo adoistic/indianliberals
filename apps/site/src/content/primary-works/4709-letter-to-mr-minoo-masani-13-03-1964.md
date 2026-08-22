@@ -46,6 +46,10 @@ summary: |-
   This one-page letter from C. Rajagopalachari to M. R. Masani, dated 13 March 1964, responds to Masani's letter of 11 March. Rajagopalachari agrees to attend a meeting in Bombay in mid-May if other arrangements lead to one being held there, and offers to address any meeting Masani considers worthwhile. He adds that he has recently stopped planning very far in advance.
 ---
 
+## Summary
+
+This one-page letter from C. Rajagopalachari to M. R. Masani, dated 13 March 1964, responds to Masani's letter of 11 March. Rajagopalachari agrees to attend a meeting in Bombay in mid-May if other arrangements lead to one being held there, and offers to address any meeting Masani considers worthwhile. He adds that he has recently stopped planning very far in advance.
+
 ## Key points
 
 - The letter is dated 13 March 1964 and is written from Rajagopalachari's Madras address.

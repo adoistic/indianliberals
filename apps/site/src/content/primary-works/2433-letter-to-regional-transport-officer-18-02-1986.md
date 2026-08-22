@@ -48,6 +48,10 @@ summary: |-
   In the rendered pages, M. R. Masani writes to the Regional Transport Officer in Bombay on 18 February 1986 to reject a demand for Rs. 1,814 concerning vehicle MRG 2347. He states that the vehicle never belonged to him and is not in his possession, and asks the office to stop sending bills relating to jeeps sold by the former Swatantra Party in 1967. The letter is administrative and narrowly focused on correcting vehicle records and ending what Masani describes as repeated harassment.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani writes to the Regional Transport Officer in Bombay on 18 February 1986 to reject a demand for Rs. 1,814 concerning vehicle MRG 2347. He states that the vehicle never belonged to him and is not in his possession, and asks the office to stop sending bills relating to jeeps sold by the former Swatantra Party in 1967. The letter is administrative and narrowly focused on correcting vehicle records and ending what Masani describes as repeated harassment.
+
 ## Key points
 
 - Masani returns a bill dated 1 February 1986 for Rs. 1,814 concerning vehicle MRG 2347.

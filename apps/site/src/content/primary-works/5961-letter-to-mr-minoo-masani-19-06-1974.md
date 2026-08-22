@@ -47,6 +47,12 @@ summary: |-
   The secretary advises that Narayan will leave Patna for Allahabad at 6:00 p.m. the next day. Deshpande therefore states that, if delays prevent a meeting in Patna, he will travel to Allahabad to see Narayan, and concludes that he will make every effort to meet him in either city.
 ---
 
+## Summary
+
+This single-page office memo, dated June 19, 1974, records an attempted arrangement for Mr. A.A. Deshpande to meet Jayaprakash Narayan (identified in the memo as “J.P.”). Deshpande informs Narayan’s secretary, Mr. Sachidanand, that he expects to reach Patna the following afternoon at 1:30 p.m. and wishes to meet Narayan there.
+
+The secretary advises that Narayan will leave Patna for Allahabad at 6:00 p.m. the next day. Deshpande therefore states that, if delays prevent a meeting in Patna, he will travel to Allahabad to see Narayan, and concludes that he will make every effort to meet him in either city.
+
 ## Key points
 
 - The document is a one-page office memo from Mr. A.A. Deshpande to Mr. M.R. Masani.

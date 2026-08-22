@@ -44,6 +44,10 @@ summary: |-
   This single-page English cable from Bombay, dated “23/3,” is addressed to Raju and concerns travel arrangements. Masani instructs the recipient to approach IAC and secure reservations on IC 171 and IC 172 for travel to Madras and return, as requested by Delhi. The page contains no year, title, recipient's full name, or further context.
 ---
 
+## Summary
+
+This single-page English cable from Bombay, dated “23/3,” is addressed to Raju and concerns travel arrangements. Masani instructs the recipient to approach IAC and secure reservations on IC 171 and IC 172 for travel to Madras and return, as requested by Delhi. The page contains no year, title, recipient's full name, or further context.
+
 ## Key points
 
 - The document is a one-page typed office cable in English.

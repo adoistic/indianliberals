@@ -54,6 +54,12 @@ summary: |-
   Ranga reports that the Swatantra Party has supplied speakers for every discussion demand raised, including irrigation and power, homes, community development, and defence. He says the party's contribution has been appreciated by the press. The letter also describes criticism of his demand to end the “artificial emergency,” support in Congress circles for abolishing the Community Development Ministry, and the reception of his defence speech in the House. The closing portion records travel plans involving Patna, Calcutta, Nidubrolu, and the Badvel constituency, and begins a further question about Rajkot before continuing on the reverse, which is not included here.
 ---
 
+## Summary
+
+This single-page letter, written by Prof. N. G. Ranga from Western Court, New Delhi, and dated 5 April 1963, is addressed to Minoo Masani. Ranga apologizes for being unable to meet Masani in Delhi, but says he has arranged for Sardar Kapoor Singh, Secretary Jain, and party members to meet Masani and N. Dandekar at the Western Court Lounge on 11 April. He asks Masani to inform his secretary, Ramamurthy, and Jain of his detailed programme so that the meeting venue can be arranged.
+
+Ranga reports that the Swatantra Party has supplied speakers for every discussion demand raised, including irrigation and power, homes, community development, and defence. He says the party's contribution has been appreciated by the press. The letter also describes criticism of his demand to end the “artificial emergency,” support in Congress circles for abolishing the Community Development Ministry, and the reception of his defence speech in the House. The closing portion records travel plans involving Patna, Calcutta, Nidubrolu, and the Badvel constituency, and begins a further question about Rajkot before continuing on the reverse, which is not included here.
+
 ## Key points
 
 - Ranga writes to Minoo Masani from Western Court, New Delhi, on 5 April 1963.

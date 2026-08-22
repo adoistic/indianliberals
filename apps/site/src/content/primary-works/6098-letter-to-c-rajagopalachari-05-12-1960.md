@@ -52,6 +52,12 @@ summary: |-
   The letter is signed by K. S. Srinivasan in his capacity as office secretary and gives the recipient’s address as 60, Rajaji Road, T. Nagar, Madras-17. The body dates the meeting to Saturday, 8 December 1962, while the date printed at the top right appears to read “8th December ’66”; this discrepancy requires human review.
 ---
 
+## Summary
+
+This untitled English office letter from the Swatantra Party is addressed to C. Rajagopalachari (“Rajaji”) and conveys a birthday resolution passed unanimously by workers of the party’s Bombay Region. The resolution pledges continued commitment to Swatantra and resistance to “the invaders” of the country, linking that political struggle to the strengthening of individual freedom.
+
+The letter is signed by K. S. Srinivasan in his capacity as office secretary and gives the recipient’s address as 60, Rajaji Road, T. Nagar, Madras-17. The body dates the meeting to Saturday, 8 December 1962, while the date printed at the top right appears to read “8th December ’66”; this discrepancy requires human review.
+
 ## Key points
 
 - The letter is addressed to C. Rajagopalachari, referred to as “Rajaji.”

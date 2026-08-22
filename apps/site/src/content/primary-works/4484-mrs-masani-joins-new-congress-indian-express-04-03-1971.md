@@ -49,6 +49,12 @@ summary: |-
   The report says that Mrs. Masani was campaigning for Mrs. Subhadra Joshi of the New Congress and had told reporters that she believed Indira Gandhi and her party were the only instruments capable of ushering in socialism. The article is a brief contemporary account of political realignment and campaign positioning; its final sentence is cut off in the mounted clipping.
 ---
 
+## Summary
+
+This one-page Indian Express clipping reports that Mrs. Shakuntala Masani, wife of Swatantra Party chairman Minoo Masani, had joined the New Congress during the final phase of the 1971 election campaign in New Delhi. It also notes the Akali Dal's announcement of support for the Jan Sangh, led by Mr. Rachpal Singh, ahead of polling on March 5.
+
+The report says that Mrs. Masani was campaigning for Mrs. Subhadra Joshi of the New Congress and had told reporters that she believed Indira Gandhi and her party were the only instruments capable of ushering in socialism. The article is a brief contemporary account of political realignment and campaign positioning; its final sentence is cut off in the mounted clipping.
+
 ## Key points
 
 - Shakuntala Masani joined the New Congress during the 1971 election campaign.

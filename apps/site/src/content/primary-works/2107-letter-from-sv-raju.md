@@ -51,6 +51,12 @@ summary: |-
   The letter also distinguishes between Tamil Nadu and Bombay. It proposes that the Tamil Nadu Swatantra Party proceed with the TNCC(O) even if the latter does not join the new national party, while Bombay members would remain free to join. The Swatantra Party could continue as a service organisation without electoral politics, although Girish Munshi preferred political education as its purpose. A separately marked “STRICTLY CONFIDENTIAL” page records the background to the proposal, including the TNCC(O)’s position as a significant opposition party in Tamil Nadu, and seeks a meeting to finalise the arrangement.
 ---
 
+## Summary
+
+This two-page English correspondence from S. V. Raju to K. Sundaram, dated November 9, 1976, discusses a proposal by Ramachandran of the Congress(O) that the Swatantra Party in Tamil Nadu merge with the TNCC(O). Raju reports discussions with Parmanand Kejriwal, K. H. Subramaniam, and Minoo Masani, and sets out a conditional plan: the Swatantra Party should continue until opposition parties decide to form a single party; if such a party is formed, the Swatantra Party should dissolve and allow its members to join individually.
+
+The letter also distinguishes between Tamil Nadu and Bombay. It proposes that the Tamil Nadu Swatantra Party proceed with the TNCC(O) even if the latter does not join the new national party, while Bombay members would remain free to join. The Swatantra Party could continue as a service organisation without electoral politics, although Girish Munshi preferred political education as its purpose. A separately marked “STRICTLY CONFIDENTIAL” page records the background to the proposal, including the TNCC(O)’s position as a significant opposition party in Tamil Nadu, and seeks a meeting to finalise the arrangement.
+
 ## Key points
 
 - Raju reports on a proposal for the Tamil Nadu Swatantra Party to merge with the TNCC(O).

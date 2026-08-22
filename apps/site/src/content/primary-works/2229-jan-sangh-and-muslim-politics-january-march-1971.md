@@ -50,6 +50,10 @@ summary: |-
   In the rendered pages, G. B. Kanitkar criticizes V. K. Sinha’s comparison of the Jana Sangh with Nazism and argues that Sinha’s article relies on a predetermined thesis, loaded language, and selective emphasis. Kanitkar points to the Jana Sangh’s stated commitments to equal rights, equal opportunities, freedom of thought, tolerance, and the right to live, as well as Dr. Shyama Prasad Mookerjee’s disagreements with the Hindu Mahasabha, to challenge the identification of the Jana Sangh with fascism. He maintains that the Jana Sangh treats the state as “important but not supreme” and that Indian political tradition contains a strong element of tolerance of dissent.
 ---
 
+## Summary
+
+In the rendered pages, G. B. Kanitkar criticizes V. K. Sinha’s comparison of the Jana Sangh with Nazism and argues that Sinha’s article relies on a predetermined thesis, loaded language, and selective emphasis. Kanitkar points to the Jana Sangh’s stated commitments to equal rights, equal opportunities, freedom of thought, tolerance, and the right to live, as well as Dr. Shyama Prasad Mookerjee’s disagreements with the Hindu Mahasabha, to challenge the identification of the Jana Sangh with fascism. He maintains that the Jana Sangh treats the state as “important but not supreme” and that Indian political tradition contains a strong element of tolerance of dissent.
+
 ## Key points
 
 - Kanitkar argues that Sinha’s analysis of the Jana Sangh is a justification of an existing belief rather than an objective assessment.

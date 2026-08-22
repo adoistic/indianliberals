@@ -48,6 +48,10 @@ summary: |-
   This three-page correspondence comprises a covering letter from Dahyabhai V. Patel to M. R. Masani, dated July 26, 1964, and an enclosed letter to Prof. N. G. Ranga dated July 27. Patel explains that he is forwarding the letter for Masani’s information, while the enclosed letter addresses growing public concern over rising prices and the government’s inability to control them.
 ---
 
+## Summary
+
+This three-page correspondence comprises a covering letter from Dahyabhai V. Patel to M. R. Masani, dated July 26, 1964, and an enclosed letter to Prof. N. G. Ranga dated July 27. Patel explains that he is forwarding the letter for Masani’s information, while the enclosed letter addresses growing public concern over rising prices and the government’s inability to control them.
+
 ## Key points
 
 - Patel forwards a letter to M. R. Masani for his information.

@@ -57,6 +57,10 @@ summary: |-
   In this speech delivered to the Progressive Group on 9 August 1979, M. R. Masani refuses to predict the immediate parliamentary arithmetic surrounding Charan Singh's confidence vote. Instead, he asks audiences to look beyond the next few weeks and consider what India should become over the next several years. The first half of the speech presents the Janata period as a failure of leadership, marked by defections, factional rivalry, opportunism, and public disenchantment. Masani argues that the contest between Charan Singh, Jagjivan Ram, Morarji Desai, and Indira Gandhi offers no meaningful alternative because the principal actors have repeatedly reversed their positions and pursued office.
 ---
 
+## Summary
+
+In this speech delivered to the Progressive Group on 9 August 1979, M. R. Masani refuses to predict the immediate parliamentary arithmetic surrounding Charan Singh's confidence vote. Instead, he asks audiences to look beyond the next few weeks and consider what India should become over the next several years. The first half of the speech presents the Janata period as a failure of leadership, marked by defections, factional rivalry, opportunism, and public disenchantment. Masani argues that the contest between Charan Singh, Jagjivan Ram, Morarji Desai, and Indira Gandhi offers no meaningful alternative because the principal actors have repeatedly reversed their positions and pursued office.
+
 ## Key points
 
 - Masani rejects short-term speculation about whether Charan Singh will win the confidence vote or Parliament will be dissolved.

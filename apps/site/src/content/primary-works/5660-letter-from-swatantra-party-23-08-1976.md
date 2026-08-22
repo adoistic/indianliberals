@@ -56,6 +56,12 @@ summary: |-
   Masani frames the central political problem as how to make government responsible to the people without coercing them. He rejects the argument that authoritarian measures are justified by popular poverty, illiteracy, or supposed mass irresponsibility, insisting instead that democracies persuade citizens rather than force them. The letter closes by warning that the danger lies in surrendering rights and expanding governmental power, and quotes John Barbour's verse in praise of freedom.
 ---
 
+## Summary
+
+In this two-page letter dated 23 August 1976, Minoo Masani criticizes the Indian government's public account of the Emergency as a deliberate “arrant lie.” He argues that repeated official assertions can become accepted as truth, even when they contradict observable conditions. Masani particularly challenges Indira Gandhi's claims that censorship had been relaxed, that newspapers were no longer subject to press censorship, and that most people detained during the Emergency had been released. He cites the Indian Express and contrasts official statements with reported detention figures and continuing restrictions on the press.
+
+Masani frames the central political problem as how to make government responsible to the people without coercing them. He rejects the argument that authoritarian measures are justified by popular poverty, illiteracy, or supposed mass irresponsibility, insisting instead that democracies persuade citizens rather than force them. The letter closes by warning that the danger lies in surrendering rights and expanding governmental power, and quotes John Barbour's verse in praise of freedom.
+
 ## Key points
 
 - Masani describes the Emergency government's official narrative as an “arrant lie” that gains credibility through repetition.

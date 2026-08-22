@@ -50,6 +50,12 @@ summary: |-
   The letter is issued from the Swatantra Party Central Office in Bombay and is signed by A. X. Coelho, identified as Office Manager. No argument from Masani's publication is presented in the circular itself.
 ---
 
+## Summary
+
+This one-page Swatantra Party Central Office Circular No. 42, dated December 17, 1965, announces and promotes the party's latest publication, “Our Foreign Policy,” by M. R. Masani. It is an administrative sales notice rather than a substantive statement on foreign policy: the circular offers a 25% discount for bulk orders of 100 copies or more and lists the single-copy price as 20 paise.
+
+The letter is issued from the Swatantra Party Central Office in Bombay and is signed by A. X. Coelho, identified as Office Manager. No argument from Masani's publication is presented in the circular itself.
+
 ## Key points
 
 - The document is Central Office Circular No. 42 of the Swatantra Party.

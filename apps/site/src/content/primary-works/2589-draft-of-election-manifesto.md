@@ -54,6 +54,12 @@ summary: |-
   The manifesto calls for a specialist Housing Authority to accelerate slum rehabilitation and the construction of affordable houses, flats, and tenements, alongside tenancy and ownership subsidies and measures against real-estate speculation. It proposes an autonomous Metropolitan Rapid Transport Body to coordinate suburban trains and municipal buses, while exploring water transport along Bombay’s western seafront. On employment, it seeks to reduce migration into the city by creating rural jobs through public works, irrigation, low-cost housing, medical and conservancy services, industrial dispersal, vocational training, and adult education. The final section endorses an early Twin City Project to expand Bombay onto the mainland and relieve pressure on the island city.
 ---
 
+## Summary
+
+This three-page draft election manifesto, issued by the Swatantra Party (Bombay Region), presents policy proposals for the forthcoming Maharashtra Assembly elections. It frames Bombay’s pressing problems as requiring immediate, coordinated action, especially in housing, transport, employment, and metropolitan development.
+
+The manifesto calls for a specialist Housing Authority to accelerate slum rehabilitation and the construction of affordable houses, flats, and tenements, alongside tenancy and ownership subsidies and measures against real-estate speculation. It proposes an autonomous Metropolitan Rapid Transport Body to coordinate suburban trains and municipal buses, while exploring water transport along Bombay’s western seafront. On employment, it seeks to reduce migration into the city by creating rural jobs through public works, irrigation, low-cost housing, medical and conservancy services, industrial dispersal, vocational training, and adult education. The final section endorses an early Twin City Project to expand Bombay onto the mainland and relieve pressure on the island city.
+
 ## Key points
 
 - The manifesto is directed at the forthcoming Maharashtra Assembly elections and focuses on Bombay’s urban crisis.

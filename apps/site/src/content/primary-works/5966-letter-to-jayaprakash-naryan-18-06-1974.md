@@ -50,6 +50,12 @@ summary: |-
   Masani recommends that the courses be conducted in the name of an organisation sponsored by Narayan rather than under the Leslie Sawhny Programme. He stresses careful selection of participants, limits each camp to fifty people, and asks Narayan to arrange food and local facilities. Masani offers to send Rs. 5,000 toward travel expenses and discussion-leader honoraria, estimates each course at approximately Rs. 5,000, and suggests that three or four courses could be held.
 ---
 
+## Summary
+
+In this letter dated June 18, 1974, M. R. Masani apologises to Jayaprakash Narayan for delayed telegrams and confirms arrangements for Leslie Sawhny training courses. Hanumantha Rao is expected to arrive in Patna to discuss the programme, while Arvind Deshpande will arrive from Delhi on June 20 and help organise the courses under Narayan’s guidance before returning to Bombay.
+
+Masani recommends that the courses be conducted in the name of an organisation sponsored by Narayan rather than under the Leslie Sawhny Programme. He stresses careful selection of participants, limits each camp to fifty people, and asks Narayan to arrange food and local facilities. Masani offers to send Rs. 5,000 toward travel expenses and discussion-leader honoraria, estimates each course at approximately Rs. 5,000, and suggests that three or four courses could be held.
+
 ## Key points
 
 - Masani’s letter concerns the organisation and financing of training courses associated with the Leslie Sawhny Programme.

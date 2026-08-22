@@ -52,6 +52,12 @@ summary: |-
   Masani attributes this failure to the fragmentation of the opposition into parties and groups divided by ideology and foreign-policy commitments. He describes the Swatantra Party as the leading opposition force in the House of the People, favouring individual liberty, competitive free enterprise, and a reversal of the Congress government’s economic policies, while portraying Communist and Socialist parties as pressing India toward statist collectivism. The pamphlet calls for a Government of Democratic Unity excluding only the Communists, but acknowledges that such a coalition requires opposition parties to overcome partisan barriers, educate public opinion, recruit and discipline members, and repair the Swatantra Party’s credibility. The pages do not identify a publication date, place, or publisher.
 ---
 
+## Summary
+
+In the rendered four-page pamphlet, M. R. Masani argues that an effective parliamentary opposition is essential to freedom and democratic government. He distinguishes two functions of opposition: vigilant criticism that corrects mistaken or arbitrary government action, and the capacity to present itself as an alternative administration at a parliamentary dissolution or general election. He contends that India’s opposition performs the first role comparatively well but has failed to provide the country with a credible alternative government.
+
+Masani attributes this failure to the fragmentation of the opposition into parties and groups divided by ideology and foreign-policy commitments. He describes the Swatantra Party as the leading opposition force in the House of the People, favouring individual liberty, competitive free enterprise, and a reversal of the Congress government’s economic policies, while portraying Communist and Socialist parties as pressing India toward statist collectivism. The pamphlet calls for a Government of Democratic Unity excluding only the Communists, but acknowledges that such a coalition requires opposition parties to overcome partisan barriers, educate public opinion, recruit and discipline members, and repair the Swatantra Party’s credibility. The pages do not identify a publication date, place, or publisher.
+
 ## Key points
 
 - Parliamentary democracy depends on an effective opposition, both as a critic of government and as an alternative government-in-waiting.

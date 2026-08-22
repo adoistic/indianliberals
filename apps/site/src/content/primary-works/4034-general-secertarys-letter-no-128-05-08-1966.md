@@ -52,6 +52,12 @@ summary: |-
   The letter also sets out an organisational and electoral programme. Committees are instructed to maintain vehicle log-books, monitor prospective Parliamentary and Assembly candidates through tour diaries and monthly reports, undertake enrolment drives, train volunteers, and aim to recruit at least 150 workers per Assembly constituency. For fundraising, the State Office is to issue one-, five-, and ten-rupee election-fund coupons bearing the party’s star symbol, maintain proper accounts, and identify potential donors. Masani closes by requesting reports on the implementation of these decisions.
 ---
 
+## Summary
+
+Dated August 5, 1966, this two-page letter from Swatantra Party General Secretary M. R. Masani communicates decisions taken at a joint meeting of seven three-member committees in Orissa. It asks state-level party organisations to institutionalise monthly committee meetings, review recent work and expenditure, scrutinise organisers’ reports and travel claims, and plan the next month’s activities, including the use of the party jeep.
+
+The letter also sets out an organisational and electoral programme. Committees are instructed to maintain vehicle log-books, monitor prospective Parliamentary and Assembly candidates through tour diaries and monthly reports, undertake enrolment drives, train volunteers, and aim to recruit at least 150 workers per Assembly constituency. For fundraising, the State Office is to issue one-, five-, and ten-rupee election-fund coupons bearing the party’s star symbol, maintain proper accounts, and identify potential donors. Masani closes by requesting reports on the implementation of these decisions.
+
 ## Key points
 
 - The letter transmits decisions from a joint meeting of seven three-member committees in Orissa.

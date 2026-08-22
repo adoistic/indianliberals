@@ -54,6 +54,12 @@ summary: |-
   Masani attributes the opposition's weakness to divisions between communists and non-communists, as well as disagreements among non-communist parties over foreign policy and economics. He advocates a coalition government excluding the communists, one that would unite democratic parties and independents across party barriers. The essay also stresses the need to educate public opinion, repair the Swatantra Party's credibility, reject authoritarian and statist policies, and recruit disciplined young workers. The supplied pages include the essay's opening on printed page 49 and its continuation on printed page 51; advertisements occupy the intervening rendered pages.
 ---
 
+## Summary
+
+In this essay, M. R. Masani argues that an effective parliamentary opposition must do two things: vigilantly criticize the government and present itself as a credible alternative government. He finds India's opposition deficient not in debating ability but in fragmentation, ideological conflict, and the absence of a unified alternative. The Swatantra Party, he maintains, performs many critical functions but cannot by itself form a government, while the Congress remains electorally dominant despite what Masani describes as disastrous economic and international policies.
+
+Masani attributes the opposition's weakness to divisions between communists and non-communists, as well as disagreements among non-communist parties over foreign policy and economics. He advocates a coalition government excluding the communists, one that would unite democratic parties and independents across party barriers. The essay also stresses the need to educate public opinion, repair the Swatantra Party's credibility, reject authoritarian and statist policies, and recruit disciplined young workers. The supplied pages include the essay's opening on printed page 49 and its continuation on printed page 51; advertisements occupy the intervening rendered pages.
+
 ## Key points
 
 - Masani defines an effective opposition as both a vigilant critic of government and an alternative government-in-waiting.

@@ -55,6 +55,12 @@ summary: |-
   Masani also challenges the assumption that broadcasting should remain an exclusively governmental monopoly. He proposes an independent statutory broadcasting corporation, while warning that corporatisation alone would not solve the problem if it merely created another monopoly. The essay advocates non-government radio stations, commercial broadcasting to finance entertainment, and a distinction between publicly supported information and educational services and entertainment paid for through advertising. Its conclusion calls for bold experimentation and a more liberalised, lively, and significant radio and television service.
 ---
 
+## Summary
+
+In this four-page essay, Minoo Masani argues that All India Radio requires radical organisational and editorial reform. Drawing on his earlier experience of school broadcasts from Bombay, he criticises the recruitment, training, personnel policies, and bureaucratic procedures of AIR, arguing that these have produced dull programming, insufficient creative effort, and excessive governmental interference. He calls for modern management, better-trained staff, greater professional autonomy, and an organisation capable of learning from broadcasting systems abroad.
+
+Masani also challenges the assumption that broadcasting should remain an exclusively governmental monopoly. He proposes an independent statutory broadcasting corporation, while warning that corporatisation alone would not solve the problem if it merely created another monopoly. The essay advocates non-government radio stations, commercial broadcasting to finance entertainment, and a distinction between publicly supported information and educational services and entertainment paid for through advertising. Its conclusion calls for bold experimentation and a more liberalised, lively, and significant radio and television service.
+
 ## Key points
 
 - AIR's personnel policies and bureaucratic culture are presented as causes of dull programming and weak creative initiative.

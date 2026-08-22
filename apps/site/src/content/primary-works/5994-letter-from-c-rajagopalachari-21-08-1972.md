@@ -51,6 +51,12 @@ summary: |-
   The letter specifically notes that the list should include Jayaprakash Narayan, Bertrand Russell, and others. Masani explains that he needs the information by Thursday, 23rd August, so that he can give it to Jayaprakash when they meet. The page does not establish the recipient’s full identity, and the handwritten marks and crossed-out wording leave one phrase describing the relevant period or person uncertain.
 ---
 
+## Summary
+
+In this letter dated Bombay, 21st August 1973, M. R. Masani responds to a request from Jayaprakash Narayan for the name of an Honorary President of the International Congress for Cultural Freedom during the years up to 1957. Masani asks the recipient, addressed only as “Mr. Raju,” to consult old files and identify the presidents listed on the organisation’s letterhead.
+
+The letter specifically notes that the list should include Jayaprakash Narayan, Bertrand Russell, and others. Masani explains that he needs the information by Thursday, 23rd August, so that he can give it to Jayaprakash when they meet. The page does not establish the recipient’s full identity, and the handwritten marks and crossed-out wording leave one phrase describing the relevant period or person uncertain.
+
 ## Key points
 
 - Masani records a request from Jayaprakash Narayan concerning the Honorary President of the International Congress for Cultural Freedom.

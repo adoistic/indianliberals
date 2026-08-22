@@ -57,6 +57,12 @@ summary: |-
   The later pages reproduce or summarize dissenting minutes by M. R. Masani, Hansa Mehta, and Amrit Kaur. These dissenters argue for Roman-script access to the national language, a time-bound uniform civil code, and constitutional protection for marriages between citizens regardless of religion. The packet also follows disputes over minority representation, proportional or cumulative voting, the position of the Parsi community, the allocation of planning among Union subjects, and an argument between Masani and Jawaharlal Nehru over planning. The packet's own compiler, date, issuer, and formal title are not visible; one PDF page is also missing from the rendered set.
 ---
 
+## Summary
+
+This untitled English-language reference packet assembles extracts and page references from Francois Duchene's edited volume "The Endless Crisis" and B. Shiva Rao's "The Framing of India's Constitution." The visible material first contrasts racial integration and political participation in the United States, then turns to the Constituent Assembly's Advisory Committee and Fundamental Rights Sub-Committee in 1947. It records debates over justiciable and non-justiciable rights, religious institutions, the use of Roman script alongside Devanagari and Persian, forced labour and compulsory military service, and the possibility of a common civil code and interfaith marriage.
+
+The later pages reproduce or summarize dissenting minutes by M. R. Masani, Hansa Mehta, and Amrit Kaur. These dissenters argue for Roman-script access to the national language, a time-bound uniform civil code, and constitutional protection for marriages between citizens regardless of religion. The packet also follows disputes over minority representation, proportional or cumulative voting, the position of the Parsi community, the allocation of planning among Union subjects, and an argument between Masani and Jawaharlal Nehru over planning. The packet's own compiler, date, issuer, and formal title are not visible; one PDF page is also missing from the rendered set.
+
 ## Key points
 
 - The packet juxtaposes an extract on racial integration and political participation in the United States with documentary notes on India's constitutional drafting.

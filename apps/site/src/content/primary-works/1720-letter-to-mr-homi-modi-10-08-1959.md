@@ -51,6 +51,12 @@ summary: |-
   The writer consequently suggests changing the timing of a Bank Meeting scheduled for the following Wednesday. A handwritten annotation at the foot of the page appears to ask that Mr. Lynn be told the writer would prefer an appointment at 10:30, but the annotation is partly difficult to read. The sender’s signature is not sufficiently legible for identification, and no date is printed on the page.
 ---
 
+## Summary
+
+This single-page English office letter, addressed to “Sir H.P.M.”, coordinates several meetings in Bombay. It reports that Mrs. Lynn has left a note for Rajaji proposing a meeting with the recipient and Mr. Shroff at Kasturi Building at 10 a.m. on Thursday the 6th. It also explains that Mr. Masani will be absent from Bombay on 10 August, prompting the Swatantra Party to reschedule its Organizing Committee meeting for Wednesday the 12th at 6 p.m.
+
+The writer consequently suggests changing the timing of a Bank Meeting scheduled for the following Wednesday. A handwritten annotation at the foot of the page appears to ask that Mr. Lynn be told the writer would prefer an appointment at 10:30, but the annotation is partly difficult to read. The sender’s signature is not sufficiently legible for identification, and no date is printed on the page.
+
 ## Key points
 
 - The letter is addressed to “Sir H.P.M.” and bears an unidentified handwritten signature.

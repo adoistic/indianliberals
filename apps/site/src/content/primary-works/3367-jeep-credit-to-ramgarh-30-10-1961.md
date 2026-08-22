@@ -53,6 +53,10 @@ summary: |-
   This six-page institutional report documents the Parliamentary Sub-committee’s decisions on allocating jeeps obtained through a Rs. 4 lakh Centre-arranged credit to endorsed parliamentary candidates in Bihar. Minutes of meetings in Bangalore and Agra instructed the Bihar State unit, district presidents, and the Raja of Ramgarh to provide one jeep to each endorsed or soon-to-be-endorsed candidate. The report records repeated assurances by Kamakhya Narain Singh, the Raja of Ramgarh and State President, that the allocations would be implemented without delay.
 ---
 
+## Summary
+
+This six-page institutional report documents the Parliamentary Sub-committee’s decisions on allocating jeeps obtained through a Rs. 4 lakh Centre-arranged credit to endorsed parliamentary candidates in Bihar. Minutes of meetings in Bangalore and Agra instructed the Bihar State unit, district presidents, and the Raja of Ramgarh to provide one jeep to each endorsed or soon-to-be-endorsed candidate. The report records repeated assurances by Kamakhya Narain Singh, the Raja of Ramgarh and State President, that the allocations would be implemented without delay.
+
 ## Key points
 
 - The Parliamentary Sub-committee directed that Centre-financed jeeps be delivered to endorsed parliamentary candidates.

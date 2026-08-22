@@ -57,6 +57,12 @@ summary: |-
   Masani contends that the Emergency arose from long-standing failures of political leadership and public vigilance, and warns that declining support for the Janata Party could permit Congress and the CPI to monopolize popular discontent. He therefore calls for constructive criticism by democratic citizens, especially JP, whose moral authority could guide public opinion. The article concludes with specific reforms: repeal of the 42nd Amendment and MISA, autonomous broadcasting corporations, electoral reform, non-coercive population control, and decentralisation of power from Delhi to the states and citizens.
 ---
 
+## Summary
+
+In this four-page article, M. R. Masani urges Jayaprakash Narayan to speak publicly against what he sees as an authoritarian backlash within the Janata Government. He acknowledges the relief produced by the transition from authoritarian rule to democracy, but argues that growing dissatisfaction over economic conditions, public morality, broken promises, political interference, and the Janata Party’s internal divisions must not be dismissed as merely “teething troubles.” He links rising prices, inflationary fiscal policy, industrial unrest, and the use of MISA and violence to a broader return to the statist habits of the Nehru period.
+
+Masani contends that the Emergency arose from long-standing failures of political leadership and public vigilance, and warns that declining support for the Janata Party could permit Congress and the CPI to monopolize popular discontent. He therefore calls for constructive criticism by democratic citizens, especially JP, whose moral authority could guide public opinion. The article concludes with specific reforms: repeal of the 42nd Amendment and MISA, autonomous broadcasting corporations, electoral reform, non-coercive population control, and decentralisation of power from Delhi to the states and citizens.
+
 ## Key points
 
 - Masani distinguishes public relief at the end of authoritarian rule from growing disappointment with the Janata Government.

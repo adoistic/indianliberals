@@ -51,6 +51,12 @@ summary: |-
   Patel illustrates the problem with an urgent financial request: he has been trying to arrange payment of Rs. 2,000 sent by Gujarat member Shri Hamir Singh Solanki as an advance for a Supreme Court advocate, Mr. Sukla, in connection with a case. No one, he says, is available to collect and deposit the money because staff are occupied with other duties. The letter is therefore both a personal complaint about office inefficiency and a criticism of the party's internal administration.
 ---
 
+## Summary
+
+In this letter dated 28 March 1964, Dahyabhai V. Patel writes to M. R. Masani about persistent administrative problems in the Swatantra Party office. Patel complains that work is routinely delayed when Rajya Sabha members seek assistance, because staff prioritise Lok Sabha members, and argues that Rajya Sabha members should either receive equivalent support or have separate staff provided for them.
+
+Patel illustrates the problem with an urgent financial request: he has been trying to arrange payment of Rs. 2,000 sent by Gujarat member Shri Hamir Singh Solanki as an advance for a Supreme Court advocate, Mr. Sukla, in connection with a case. No one, he says, is available to collect and deposit the money because staff are occupied with other duties. The letter is therefore both a personal complaint about office inefficiency and a criticism of the party's internal administration.
+
 ## Key points
 
 - Patel reports that it is difficult to get work done in the Swatantra Party office.

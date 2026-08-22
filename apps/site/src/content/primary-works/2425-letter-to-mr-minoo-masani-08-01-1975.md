@@ -49,6 +49,12 @@ summary: |-
   The letter states that the recovery certificates were issued in Masani's personal name and warns that the office cannot legally proceed against anyone else. It invites him to approach the Regional Transport Office, Bombay, to obtain a certificate establishing that he is not liable for the dues; otherwise, recovery proceedings will follow. The requested action is to be completed within one week. The author is not individually identified, and the letter is signed on behalf of the Collector of Bombay.
 ---
 
+## Summary
+
+This one-page official letter, dated 8 January 1975, is a true copy issued from the Collector's Office, Old Custom House, Fort, Bombay, to Shri Minocher Rustom Masani. It concerns recovery of motor vehicle tax dues under Section 12 of the Bombay Motor Vehicle Tax Act, 1958. The notice lists four recovery certificates, covering amounts of Rs. 306, Rs. 306, Rs. 339, and Rs. 13 for periods between July 1967 and March 1970.
+
+The letter states that the recovery certificates were issued in Masani's personal name and warns that the office cannot legally proceed against anyone else. It invites him to approach the Regional Transport Office, Bombay, to obtain a certificate establishing that he is not liable for the dues; otherwise, recovery proceedings will follow. The requested action is to be completed within one week. The author is not individually identified, and the letter is signed on behalf of the Collector of Bombay.
+
 ## Key points
 
 - The document is a true copy of a Collector's Office letter dated 8 January 1975.

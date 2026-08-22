@@ -51,6 +51,12 @@ summary: |-
   Rajagopalachari clarifies that the Swatantra Party had not officially supported the Akalis’ demand for a Punjabi Suba, although he had personally argued that the claim was just, like other linguistic demands, irrespective of its effects on communal politics. He likewise distinguishes the party from the Nag-Vidarbha demand, saying that the party had adopted no position but was open to members expressing and promoting legitimate views. The letter also describes unsuccessful efforts to avoid triangular electoral contests in Madras and proposes that Aney join the Lok Sabha group, potentially as its leader or as an associate member.
 ---
 
+## Summary
+
+This two-page confidential correspondence from C. Rajagopalachari, dated 25–26 March 1962, concerns the organisation and political positioning of the Swatantra Party. In the first note, Rajagopalachari acknowledges M. R. Masani’s letters and encloses copies of correspondence sent to Aney and Mahida. In the substantive letter to M. S. Aney, he discusses the proposed venue for the Swatantra Party Convention and expresses regret over Aney’s hesitation about joining the party.
+
+Rajagopalachari clarifies that the Swatantra Party had not officially supported the Akalis’ demand for a Punjabi Suba, although he had personally argued that the claim was just, like other linguistic demands, irrespective of its effects on communal politics. He likewise distinguishes the party from the Nag-Vidarbha demand, saying that the party had adopted no position but was open to members expressing and promoting legitimate views. The letter also describes unsuccessful efforts to avoid triangular electoral contests in Madras and proposes that Aney join the Lok Sabha group, potentially as its leader or as an associate member.
+
 ## Key points
 
 - Rajagopalachari writes to M. R. Masani and M. S. Aney about Swatantra Party affairs in March 1962.

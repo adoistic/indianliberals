@@ -50,6 +50,12 @@ summary: |-
   Rajagopalachari anticipates opposition to withdrawing voting power from enrolled members and allows that a compromise may eventually be necessary. On economic language, he objects to describing the party simply as standing for a “free market economy” or “laissez faire,” preferring that the report repudiate the latter label while retaining the former phrase. The letter closes with a practical request that Bangalore supporters attend the party convention at the Hall rather than build a pandal.
 ---
 
+## Summary
+
+In this two-page letter dated 19 January 1964, C. Rajagopalachari advises Minoo Masani on proposed amendments to the Swatantra Party's Constitution and on revisions to the General Secretary's report. He accepts Masani's draft amendment note but recommends adding language preserving an agitational mass base through two categories of enrolled supporters, including active workers and ordinary members. He also suggests acknowledging K. M. Munshi's assistance and thanking state branches and their executives.
+
+Rajagopalachari anticipates opposition to withdrawing voting power from enrolled members and allows that a compromise may eventually be necessary. On economic language, he objects to describing the party simply as standing for a “free market economy” or “laissez faire,” preferring that the report repudiate the latter label while retaining the former phrase. The letter closes with a practical request that Bangalore supporters attend the party convention at the Hall rather than build a pandal.
+
 ## Key points
 
 - Rajagopalachari approves Masani's draft note on amendments to the Swatantra Party Constitution, subject to an additional paragraph.

@@ -52,6 +52,12 @@ summary: |-
   No substantive argument, policy analysis, data, publication details, or interior text is visible on this page. The summary therefore describes only the cover's title, attribution, and illustration; the contents of the underlying book or presentation could not be assessed.
 ---
 
+## Summary
+
+The single rendered page is an illustrated cover for “India's Spiraling Price Line.” Its central image shows a person being carried downward through a large spiral marked with repeated price-related lettering, visually presenting rising prices as a destabilising or downward-pulling force. The page identifies the work as based on a book by M. R. Pai and presented by Eric Francis.
+
+No substantive argument, policy analysis, data, publication details, or interior text is visible on this page. The summary therefore describes only the cover's title, attribution, and illustration; the contents of the underlying book or presentation could not be assessed.
+
 ## Key points
 
 - The visible page is an illustrated cover titled “India's Spiraling Price Line.”

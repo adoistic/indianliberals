@@ -52,6 +52,12 @@ summary: |-
   The editorial defends the party’s economic position against the charge that it serves only industrialists and landlords. It presents Swatantra as a party committed to the profit motive, private enterprise, and opposition to excessive nationalisation, invoking Adam Smith and Marshall as intellectual precedents. At the same time, it acknowledges the party’s awkward political position: its alliance prospects are limited because its philosophy differs from that of other parties, and it may be unable to form a government independently. The page ends while discussing the party’s difficulties and the question of whether some politicians should assume responsibility for its situation.
 ---
 
+## Summary
+
+This unsigned National Herald editorial examines the Swatantra Party during what it calls a “critical phase,” prompted by M. R. Masani’s resignation from the party’s national executive and central parliamentary board. It argues that Masani’s criticism—that the party had become insufficiently “conscious” of its principles—deserves attention, while also suggesting that the party’s electoral difficulties reflect weak organisation, inadequate discipline, and the social narrowness of its support base. The article notes setbacks in Gujarat and Rajasthan, questions the loyalty of some legislators, and stresses that a political party needs discipline among both its leaders and rank-and-file members.
+
+The editorial defends the party’s economic position against the charge that it serves only industrialists and landlords. It presents Swatantra as a party committed to the profit motive, private enterprise, and opposition to excessive nationalisation, invoking Adam Smith and Marshall as intellectual precedents. At the same time, it acknowledges the party’s awkward political position: its alliance prospects are limited because its philosophy differs from that of other parties, and it may be unable to form a government independently. The page ends while discussing the party’s difficulties and the question of whether some politicians should assume responsibility for its situation.
+
 ## Key points
 
 - M. R. Masani’s resignation is presented as a warning about the Swatantra Party’s fidelity to its principles.

@@ -54,6 +54,12 @@ summary: |-
   The report also recommends that by-elections to Parliament and State assemblies normally go uncontested, that legislators have a free vote on issues outside their parties’ fundamental principles, and that election expenditure be further limited by banning hired transport and distributing standard-sized candidate manifestos through the Election Commission. It records discussion of limiting party strife through a voluntary agreement among leading parties, including the difficulty of relying on Communist Party assurances. The accompanying correspondence documents the organisation of a larger January 1960 discussion at Varanasi and includes an invitee list; these attachments also show M. R. Masani’s participation and the organisational role of the Akhil Bharat Sarva Seva Sangh.
 ---
 
+## Summary
+
+This occasional report records a Benares seminar held on January 1–3 to discuss Jayaprakash Narayan’s paper, “A Plea for the Reconstruction of Indian Polity.” The report describes an effort to find common ground between political parties and Sarvodaya workers. Its recommendations retain direct elections to Parliament and State assemblies while proposing non-party democracy at the village level, with panchayat members selected by unanimity, unanimous nomination, or lots. Above the village level, it proposes indirect elections through proportional representation, with lower-tier panchayats forming electoral colleges for higher councils.
+
+The report also recommends that by-elections to Parliament and State assemblies normally go uncontested, that legislators have a free vote on issues outside their parties’ fundamental principles, and that election expenditure be further limited by banning hired transport and distributing standard-sized candidate manifestos through the Election Commission. It records discussion of limiting party strife through a voluntary agreement among leading parties, including the difficulty of relying on Communist Party assurances. The accompanying correspondence documents the organisation of a larger January 1960 discussion at Varanasi and includes an invitee list; these attachments also show M. R. Masani’s participation and the organisational role of the Akhil Bharat Sarva Seva Sangh.
+
 ## Key points
 
 - The report concerns a January 1–3 Benares seminar on Jayaprakash Narayan’s proposal for reconstructing Indian polity.

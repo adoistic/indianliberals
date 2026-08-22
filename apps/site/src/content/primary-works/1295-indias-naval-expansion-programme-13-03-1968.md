@@ -50,6 +50,12 @@ summary: |-
   The Minister of Defence, Sardar Swaran Singh, rejects both premises. He describes Admiral Gorshkov's visit as a goodwill visit reciprocating the Indian Chief of Naval Staff's 1967 visit to the USSR, and states that no request for port facilities was made. The document therefore presents a brief parliamentary exchange about Soviet-Indian naval relations, maritime strategy, and India's position during the Cold War.
 ---
 
+## Summary
+
+This one-page Lok Sabha document records Starred Question No. 622, scheduled for answer on 13 March 1968, concerning India's naval expansion programme. M. R. Masani, N. Dandekar, Kanwar Lal Gupta, R. S. Vidyarthi, Ranjit Singh, K. P. Singh Deo, and S. K. Tapuriah ask whether Soviet Admiral Gorshkov, during a recent visit to India, offered assistance for expanding India's naval presence in the Indian Ocean and whether he sought access to Indian ports for Soviet naval vessels to refuel and refit.
+
+The Minister of Defence, Sardar Swaran Singh, rejects both premises. He describes Admiral Gorshkov's visit as a goodwill visit reciprocating the Indian Chief of Naval Staff's 1967 visit to the USSR, and states that no request for port facilities was made. The document therefore presents a brief parliamentary exchange about Soviet-Indian naval relations, maritime strategy, and India's position during the Cold War.
+
 ## Key points
 
 - The document is a Lok Sabha starred question dated for answer on 13 March 1968.

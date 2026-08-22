@@ -50,6 +50,12 @@ summary: |-
   Using a recent meeting in Lucknow as an example, Masani says he responded to questions about the Madras meeting by telling party workers that responsibility lay with them: “the ball was in their court and it was for them to assert themselves.” He closes by inviting Mody to suggest something concrete that he should consider doing.
 ---
 
+## Summary
+
+In this letter dated 11 July 1968, M. R. Masani writes to Piloo Mody to correct what he considers a misunderstanding about his intentions. Masani denies proposing “brain-storming sessions” with party workers throughout the country, explaining instead that he wants, when opportunities arise, to persuade rank-and-file members toward his views on organisational methods in a normal and informal way.
+
+Using a recent meeting in Lucknow as an example, Masani says he responded to questions about the Madras meeting by telling party workers that responsibility lay with them: “the ball was in their court and it was for them to assert themselves.” He closes by inviting Mody to suggest something concrete that he should consider doing.
+
 ## Key points
 
 - Masani thanks Piloo Mody for his letter of 8 July 1968.

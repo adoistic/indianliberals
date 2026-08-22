@@ -52,6 +52,12 @@ summary: |-
   Masani connected this challenge to Mahatma Gandhi’s concept of trusteeship, arguing that business organisations should accept public accountability and responsibility for their social effects. He also criticised FICCI for inviting government leaders while tolerating or “swallowing” insults, suggesting that the prevailing climate of nationalisation was partly encouraged by business organisations’ failure to acknowledge their social responsibilities. The article does not carry an explicit byline; it presents Masani as the speaker and Swatantra Party leader.
 ---
 
+## Summary
+
+This one-page Statesman report records M. R. Masani’s welcome for Indira Gandhi’s statement that the government was willing to remove controls insofar as private industry demonstrated greater social responsibility. Speaking at a Forum of Free Enterprise public meeting, Masani said the Prime Minister’s statement should be treated as a challenge to the business community rather than merely as a policy announcement.
+
+Masani connected this challenge to Mahatma Gandhi’s concept of trusteeship, arguing that business organisations should accept public accountability and responsibility for their social effects. He also criticised FICCI for inviting government leaders while tolerating or “swallowing” insults, suggesting that the prevailing climate of nationalisation was partly encouraged by business organisations’ failure to acknowledge their social responsibilities. The article does not carry an explicit byline; it presents Masani as the speaker and Swatantra Party leader.
+
 ## Key points
 
 - M. R. Masani welcomed Indira Gandhi’s offer to reduce or remove government controls where private industry showed greater social responsibility.

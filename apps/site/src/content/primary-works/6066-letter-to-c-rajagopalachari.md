@@ -48,6 +48,12 @@ summary: |-
   The document is an administrative party communication rather than a substantive policy statement. Its clipped telegraphic wording, numbered addresses, and absence of a salutation or complimentary close indicate that it is physically an express or telegram form, although the metadata classifies it as a letter because no telegram category is available.
 ---
 
+## Summary
+
+This one-page English express communication, dated 8 February 1965, was sent by Madhu N. Mehta of the Swatantra Party's Bombay Region to C. Rajagopalachari at two listed Madras addresses. Mehta reports that a workers' meeting scheduled for Saturday conflicts with other public meetings and asks whether it should instead be held on Friday at 7 p.m. at a venue described as convenient to the recipient.
+
+The document is an administrative party communication rather than a substantive policy statement. Its clipped telegraphic wording, numbered addresses, and absence of a salutation or complimentary close indicate that it is physically an express or telegram form, although the metadata classifies it as a letter because no telegram category is available.
+
 ## Key points
 
 - The document is a single-page English express communication dated 8 February 1965.

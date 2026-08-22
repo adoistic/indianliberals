@@ -54,6 +54,12 @@ summary: |-
   The minutes also discuss a separate Fundamental Rights leaflet, a proposed campaign to collect 200,000–300,000 signatures, arrangements for a party Shibir, and the organization of the Ladies Committee. The attached letters show Bombay-area units negotiating the practical details and costs of workers’ gatherings: J. Venkiteswaran proposed a two-day Shibir at Naranji Sanji Wadi in Kings Circle, while the Mahim Unit offered to host a one-day event at Shivaji Park for approximately 200 delegates. The file documents internal party administration, mobilization, fundraising, venue constraints, and efforts to use public meetings to build a local presence; it does not contain the later Convention proceedings or any record of subsequent decisions.
 ---
 
+## Summary
+
+This five-page archival file contains draft minutes of the Swatantra Party, Bombay Region, Executive Committee meeting held on 9 September 1970, followed by related correspondence about proposed party “Shibirs.” The minutes record attendance, confirmation of earlier minutes, preparations for the party’s National Convention scheduled for 30–31 January 1971, and discussion of the venue, publicity, fundraising, and security. The committee provisionally preferred Shanmukhananda Hall because an open-air venue was considered vulnerable to sabotage, while also leaving open the possibility of changing venues later. A preliminary convention budget projected receipts of Rs. 2,23,000 against expenses of Rs. 60,000.
+
+The minutes also discuss a separate Fundamental Rights leaflet, a proposed campaign to collect 200,000–300,000 signatures, arrangements for a party Shibir, and the organization of the Ladies Committee. The attached letters show Bombay-area units negotiating the practical details and costs of workers’ gatherings: J. Venkiteswaran proposed a two-day Shibir at Naranji Sanji Wadi in Kings Circle, while the Mahim Unit offered to host a one-day event at Shivaji Park for approximately 200 delegates. The file documents internal party administration, mobilization, fundraising, venue constraints, and efforts to use public meetings to build a local presence; it does not contain the later Convention proceedings or any record of subsequent decisions.
+
 ## Key points
 
 - The Executive Committee meeting was held in Bombay on 9 September 1970 under the chairmanship of Lalchand Hirachand.

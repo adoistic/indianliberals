@@ -54,6 +54,12 @@ summary: |-
   The letter highlights unbridled inflation, increasing poverty, and the weakening of the middle class. It also criticizes restrictions affecting businessmen from Rajasthan, alleging that they seek control of a substantial share of the country’s wealth and major industries. Rustomji asks about Masani’s current activities and office, argues that the country must be rescued from “chaos and lawlessness,” and invites him to meet so that further political deterioration can be prevented.
 ---
 
+## Summary
+
+This two-page letter, dated 17 May 1972 and sent from Bombay by R. N. Rustomji to Minoo R. Masani, urges Masani to re-enter public political activity after resigning as leader of the Swatantra Party. Rustomji contrasts Indira Gandhi’s electoral strength and invitation to communists with what he describes as the government’s propaganda, political vituperation, and the country’s worsening chaos and lawlessness.
+
+The letter highlights unbridled inflation, increasing poverty, and the weakening of the middle class. It also criticizes restrictions affecting businessmen from Rajasthan, alleging that they seek control of a substantial share of the country’s wealth and major industries. Rustomji asks about Masani’s current activities and office, argues that the country must be rescued from “chaos and lawlessness,” and invites him to meet so that further political deterioration can be prevented.
+
 ## Key points
 
 - Rustomji addresses Masani after his resignation as leader of the Swatantra Party.

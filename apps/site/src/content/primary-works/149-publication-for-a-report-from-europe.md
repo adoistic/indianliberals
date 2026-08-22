@@ -53,6 +53,12 @@ summary: |-
   Masani argues that poor public relations cannot compensate for conduct that appears ungenerous, unfair, or inconsistent. He calls instead for sound government policies, constructive parliamentary criticism, vigilant protection of individual rights, and a readiness to acknowledge and correct mistakes. The report closes by holding out Japan and Germany's post-war rehabilitation as examples of countries that improved their international standing through changed behaviour, and by urging Indians to restore the prestige associated with Mahatma Gandhi through service, sacrifice, and high moral standards.
 ---
 
+## Summary
+
+In this four-page report, Minoo Masani examines the deterioration of India's image abroad, arguing that the problem extends beyond the government's position on the West Asian dispute. Drawing on observations from a recent European visit and on reports in British and European newspapers, he catalogues stories about India involving communal violence, administrative arbitrariness, economic restrictions, population policy, university unrest, and official treatment of foreign aid and voluntary workers.
+
+Masani argues that poor public relations cannot compensate for conduct that appears ungenerous, unfair, or inconsistent. He calls instead for sound government policies, constructive parliamentary criticism, vigilant protection of individual rights, and a readiness to acknowledge and correct mistakes. The report closes by holding out Japan and Germany's post-war rehabilitation as examples of countries that improved their international standing through changed behaviour, and by urging Indians to restore the prestige associated with Mahatma Gandhi through service, sacrifice, and high moral standards.
+
 ## Key points
 
 - India's declining reputation abroad is presented as the result of accumulated news and policy failures, not only its West Asian position.

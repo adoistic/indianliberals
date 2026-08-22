@@ -50,6 +50,10 @@ summary: |-
   This one-page document reproduces Resolution No. 5 of the Executive Committee of the Andhra Pradesh Swatantra Party, adopted at Bapatla at 10:00 a.m. on 19 April 1968. Signed by state president G. Latchanna and certified by general secretary Sunkara Satyanarayana, it records the committee's concern over developments in the Gujarat Swatantra Party.
 ---
 
+## Summary
+
+This one-page document reproduces Resolution No. 5 of the Executive Committee of the Andhra Pradesh Swatantra Party, adopted at Bapatla at 10:00 a.m. on 19 April 1968. Signed by state president G. Latchanna and certified by general secretary Sunkara Satyanarayana, it records the committee's concern over developments in the Gujarat Swatantra Party.
+
 ## Key points
 
 - The resolution was adopted by the Andhra Pradesh Swatantra Party Executive Committee at Bapatla on 19 April 1968.

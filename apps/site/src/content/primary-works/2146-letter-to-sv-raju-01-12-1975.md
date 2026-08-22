@@ -52,6 +52,12 @@ summary: |-
   The letter reports that meetings of the Swatantra Party's National Executive, National General Council, and Tamilnad Swatantra Party executive committee were successful. Srikumar says that K. M. Munshi will convey the information to Raju and other Bombay colleagues, and that Raju will shortly receive a copy of the meeting minutes. The accompanying second rendered page shows the addressed envelope; it contains no additional substantive text.
 ---
 
+## Summary
+
+This one-page office letter, dated 1 December 1975, is written by V. S. Srikumar, Joint Secretary of the Swatantra Party National Headquarters in Madras, to S. V. Raju in Bombay. Srikumar thanks Raju for a letter dated 27 November and confirms that an air-conditioned room has been reserved for Minoo Masani at Hotel Connemara. He has also sent Masani a telegram asking for his flight number and stating that he will be met at Meenambakkam airport.
+
+The letter reports that meetings of the Swatantra Party's National Executive, National General Council, and Tamilnad Swatantra Party executive committee were successful. Srikumar says that K. M. Munshi will convey the information to Raju and other Bombay colleagues, and that Raju will shortly receive a copy of the meeting minutes. The accompanying second rendered page shows the addressed envelope; it contains no additional substantive text.
+
 ## Key points
 
 - The letter is dated 1 December 1975 and is issued from the Swatantra Party National Headquarters in Madras.

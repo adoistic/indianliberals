@@ -59,6 +59,12 @@ summary: |-
   The memorandum then explains why ICCF considers itself non-political and non-partisan while remaining committed to freedom. It identifies religious intolerance, bureaucratic censorship, and totalitarian ideas as threats to cultural freedom, and distinguishes neutrality in foreign policy from neutrality between freedom and tyranny. The document presents the Cold War as an ongoing intellectual and moral conflict, citing Hungary, Tibet, the Berlin Wall, and the persecution of Djilas and Boris Pasternak. It claims that subsequent events vindicated ICCF’s earlier positions, but calls for engagement across political divisions through critical inquiry and free discussion. Manuscript annotations are present throughout, but no author or issuing body is identified beyond the abbreviation “ICCF.”
 ---
 
+## Summary
+
+This six-page memorandum for the ICCF biennial meeting in Bombay on 28 September 1962 reviews roughly ten years of organisational activity. It lists seminars held across Bombay, Poona, Calcutta, Delhi, Madras, Mysore, and other cities on trade unions, Maharashtra, Indian democracy, science and the humanities, Tagore’s political ideas, tradition and modernity, democratic decentralisation, national integration, the intellectual and society, Panchayati Raj, and theatre. It also records international seminars on economic growth and democracy in Asia, commemorative and discussion activities, writers’ conference involvement, exhibitions, local groups, and a reported increase of 455 subscriptions.
+
+The memorandum then explains why ICCF considers itself non-political and non-partisan while remaining committed to freedom. It identifies religious intolerance, bureaucratic censorship, and totalitarian ideas as threats to cultural freedom, and distinguishes neutrality in foreign policy from neutrality between freedom and tyranny. The document presents the Cold War as an ongoing intellectual and moral conflict, citing Hungary, Tibet, the Berlin Wall, and the persecution of Djilas and Boris Pasternak. It claims that subsequent events vindicated ICCF’s earlier positions, but calls for engagement across political divisions through critical inquiry and free discussion. Manuscript annotations are present throughout, but no author or issuing body is identified beyond the abbreviation “ICCF.”
+
 ## Key points
 
 - The memorandum reports ICCF seminars and discussions conducted across India between 1960 and September 1962.

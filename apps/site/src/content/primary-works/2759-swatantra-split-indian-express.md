@@ -48,6 +48,12 @@ summary: |-
   The accompanying typed resolution, prepared for the Swatantra Party's Seventh National Convention in New Delhi on August 4–5, 1974, formally rejects the proposal to dissolve the party. It argues that the party's principles and policies remain valid, that the proposed new party would not constitute a genuinely national alternative, and that the continued existence of Congress (O) and Jan Sangh would frustrate the emergence of a two-party system. The proposer and seconder fields on the document are blank.
 ---
 
+## Summary
+
+This two-page 1974 item documents a dispute over the future of the Swatantra Party. An Indian Express clipping dated August 5 reports disagreement between party president Piloo Mody and M. R. Masani over whether the party should dissolve and merge with other opposition parties, particularly in the proposed formation of a new Bharatiya Lok Dal. The report notes that several state units supported keeping their organisations alive, while Masani argued that the proposed merger lacked a sufficiently general and agreed programme. It also records concerns about the Congress and Jan Sangh continuing as separate parties and about the consequences for the development of a two-party system.
+
+The accompanying typed resolution, prepared for the Swatantra Party's Seventh National Convention in New Delhi on August 4–5, 1974, formally rejects the proposal to dissolve the party. It argues that the party's principles and policies remain valid, that the proposed new party would not constitute a genuinely national alternative, and that the continued existence of Congress (O) and Jan Sangh would frustrate the emergence of a two-party system. The proposer and seconder fields on the document are blank.
+
 ## Key points
 
 - The Swatantra Party faced a proposal to dissolve and merge with six other parties.

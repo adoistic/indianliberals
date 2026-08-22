@@ -50,6 +50,12 @@ summary: |-
   Munshi asks Rajagopalachari to instruct that the resolution not be issued until further consultations have taken place. The letter is a brief intervention in an internal party matter, emphasizing procedural fairness, consultation, and the importance of hearing an absent colleague before a decision is implemented.
 ---
 
+## Summary
+
+In this one-page letter dated August 6, 1962, K. M. Munshi writes to C. Rajagopalachari to reconsider a decision concerning Ramgarh. Munshi apologizes for having been carried away by the General Secretary's campaign to decide the matter and publish the decision while Ramgarh was absent. He argues that proceeding without Ramgarh would violate the courtesy owed to a colleague and deny him the opportunity to reconcile his ambitions with the needs of the Party organization.
+
+Munshi asks Rajagopalachari to instruct that the resolution not be issued until further consultations have taken place. The letter is a brief intervention in an internal party matter, emphasizing procedural fairness, consultation, and the importance of hearing an absent colleague before a decision is implemented.
+
 ## Key points
 
 - Munshi retracts or qualifies his earlier willingness to decide and publish a resolution concerning Ramgarh.

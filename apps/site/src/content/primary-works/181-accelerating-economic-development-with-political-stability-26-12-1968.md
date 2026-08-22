@@ -60,6 +60,12 @@ summary: |-
   Masani surveys Asian examples and argues that economic and non-economic factors—including religion, culture, caste, communal conflict, language, personality, and political institutions—produce a mixed relationship between development and stability. He rejects the communist claim that poverty is necessary for revolution and criticises the use of misery as a political instrument. The essay concludes by defending liberalism as a tradition rooted both in Western thinkers and in Mahatma Gandhi’s indigenous liberalism. It calls for free enterprise, peasant property rights, limited government, political freedom, and a liberalism closely connected to ordinary people, especially India’s rural population.
 ---
 
+## Summary
+
+In this essay, M. R. Masani argues that economic development and political stability are both desirable but should not be treated as identical or automatically connected. He distinguishes stable government from mere continuity in office, and political stability from authoritarian order. Economic development, likewise, can mean growth, but growth pursued as an end in itself may become what Colin Clark calls “growthmanship.” Masani insists that prosperity and stability are morally and politically valuable only when associated with freedom, social welfare, and a competitive economy rather than slavery, coercion, or scarcity.
+
+Masani surveys Asian examples and argues that economic and non-economic factors—including religion, culture, caste, communal conflict, language, personality, and political institutions—produce a mixed relationship between development and stability. He rejects the communist claim that poverty is necessary for revolution and criticises the use of misery as a political instrument. The essay concludes by defending liberalism as a tradition rooted both in Western thinkers and in Mahatma Gandhi’s indigenous liberalism. It calls for free enterprise, peasant property rights, limited government, political freedom, and a liberalism closely connected to ordinary people, especially India’s rural population.
+
 ## Key points
 
 - Political stability is not the same as an unchanged government, authoritarian rule, or the suppression of political freedom.

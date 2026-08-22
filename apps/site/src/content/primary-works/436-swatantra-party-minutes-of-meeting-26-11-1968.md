@@ -54,6 +54,12 @@ summary: |-
   The resolution proposes that parliamentary remuneration should instead be decided by an independent quasi-judicial authority. It suggests that this body could be appointed by the Chairman of the Rajya Sabha and the Speaker of the Lok Sabha, with its opinion accepted by all parties in Parliament without further argument. The document presents this arrangement as the appropriate way to settle the matter on its merits.
 ---
 
+## Summary
+
+This one-page document records a Swatantra Party parliamentary meeting held on November 26, 1968, to consider the report of the Select Committee on Salaries, Allowances and other Amenities for Members of Parliament. The party objects to legislators having to determine their own emoluments, describing this as an embarrassing conflict of interest.
+
+The resolution proposes that parliamentary remuneration should instead be decided by an independent quasi-judicial authority. It suggests that this body could be appointed by the Chairman of the Rajya Sabha and the Speaker of the Lok Sabha, with its opinion accepted by all parties in Parliament without further argument. The document presents this arrangement as the appropriate way to settle the matter on its merits.
+
 ## Key points
 
 - The Swatantra Party met on November 26, 1968, to consider a parliamentary committee report.

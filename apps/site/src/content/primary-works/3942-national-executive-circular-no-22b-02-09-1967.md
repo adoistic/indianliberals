@@ -51,6 +51,12 @@ summary: |-
   The circular asks recipients to indicate their wishes on an attached self-addressed card and return it to the Central Office. Unless objections are received by Wednesday, September 13, the party will presume that the recipients approve the proposals made by the two state units. The letter is signed by N. Dandekar as Officiating General Secretary.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated September 2, 1967, concerns the proposed organisation of the Orissa and Uttar Pradesh State Councils. Issued as General Secretary's Letter No. 22(B), it follows an earlier letter dated August 31 and forwards recommendations concerning the two state units.
+
+The circular asks recipients to indicate their wishes on an attached self-addressed card and return it to the Central Office. Unless objections are received by Wednesday, September 13, the party will presume that the recipients approve the proposals made by the two state units. The letter is signed by N. Dandekar as Officiating General Secretary.
+
 ## Key points
 
 - The document is a Swatantra Party Central Office circular dated September 2, 1967.

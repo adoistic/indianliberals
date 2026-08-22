@@ -53,6 +53,12 @@ summary: |-
   Masani additionally asks for a transcript of his speech to the Bombay Regional Convention at Juhu on the fifteenth morning. The document is dated only by its receipt notation—25 February at 8:25 AM—and carries handwritten marginal annotations and signatures whose full meaning is not always clear.
 ---
 
+## Summary
+
+This single-page telegram from Minoo Masani to Mr. Raju instructs the recipient to mobilise state units for a public meeting condemning the railway budget and demanding its reduction. It also requests the immediate dispatch of material on consumer guidance and the establishment of a consumer association in Delhi.
+
+Masani additionally asks for a transcript of his speech to the Bombay Regional Convention at Juhu on the fifteenth morning. The document is dated only by its receipt notation—25 February at 8:25 AM—and carries handwritten marginal annotations and signatures whose full meaning is not always clear.
+
 ## Key points
 
 - Masani directs Mr. Raju to issue a circular to state units.

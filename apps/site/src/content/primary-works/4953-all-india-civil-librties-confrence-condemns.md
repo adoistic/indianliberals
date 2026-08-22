@@ -52,6 +52,12 @@ summary: |-
   The conference calls on members of the CFD to organise local committees across the country. Their proposed activities include providing legal assistance to secure the release of political detainees and improve detention conditions, creating public opinion against the inhuman treatment of detainees, and helping detainees' families. It also appeals to central and state governments to appoint independent jail visitors to investigate and expose ill-treatment. No author, date, issuing body beyond the conference reference, or formal title is visible on the pages.
 ---
 
+## Summary
+
+This two-page conference statement condemns the indiscriminate arrest and detention of people without justification or legal basis. It criticises executive detention orders issued without supplying grounds, reports arbitrary detention, solitary confinement, denial of fresh air, inhuman jail conditions, indefensible restrictions on interviews and correspondence, and physical attacks on detainees by police. The statement presents these practices as violations of civil liberties and the rule of law.
+
+The conference calls on members of the CFD to organise local committees across the country. Their proposed activities include providing legal assistance to secure the release of political detainees and improve detention conditions, creating public opinion against the inhuman treatment of detainees, and helping detainees' families. It also appeals to central and state governments to appoint independent jail visitors to investigate and expose ill-treatment. No author, date, issuing body beyond the conference reference, or formal title is visible on the pages.
+
 ## Key points
 
 - The statement condemns arbitrary arrest and detention without justification or legal grounds.

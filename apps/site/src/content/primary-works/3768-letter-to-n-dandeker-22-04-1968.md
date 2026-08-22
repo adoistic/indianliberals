@@ -51,6 +51,12 @@ summary: |-
   The draft Bill would replace references to nomination by the President or Governor with nomination in their discretion, revise the language concerning persons with special knowledge, and add clauses requiring the President or Governor to act in his discretion. Its Statement of Objects and Reasons argues that nomination powers intended to bring expertise into legislatures had instead been used, or were likely to be used, for party or political considerations. A further annexure sets out Swatantra Party procedures for sponsoring and supporting official and non-official Bills in Parliament and state legislatures, while reserving final and suo motu authority to the party's central and state parliamentary boards.
 ---
 
+## Summary
+
+This five-page English-language document consists of a letter dated April 22, 1968, from C.C. Desai, ICS (Retd.), to N. Dandeker, General Secretary of the Swatantra Party, together with annexures. Desai forwards proposals concerning a Constitution (Amendment) Bill and asks the party's parliamentary bodies to consider them. He presents alternatives for changing Articles 80 and 171 so that the President's and Governors' nominations to the Rajya Sabha and state legislative councils would be made in their personal discretion, and states that he would prefer the complete abolition of such nominations.
+
+The draft Bill would replace references to nomination by the President or Governor with nomination in their discretion, revise the language concerning persons with special knowledge, and add clauses requiring the President or Governor to act in his discretion. Its Statement of Objects and Reasons argues that nomination powers intended to bring expertise into legislatures had instead been used, or were likely to be used, for party or political considerations. A further annexure sets out Swatantra Party procedures for sponsoring and supporting official and non-official Bills in Parliament and state legislatures, while reserving final and suo motu authority to the party's central and state parliamentary boards.
+
 ## Key points
 
 - C.C. Desai's letter of April 22, 1968, forwards constitutional amendment proposals to the Swatantra Party.

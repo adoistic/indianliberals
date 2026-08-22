@@ -49,6 +49,12 @@ summary: |-
   The letter also addresses Bihar party finances. Krishnaswamy explains that an additional Rs. 30,000 in the budget reflects the inclusion of states in which party units had not yet been formed. He says the amount was included on the assumption that party organisation would be established in those regions over the following weeks or months, and suggests revising the wording concerning Bombay's contribution from an instruction to a proposed contribution of one lakh rupees. A copy was sent to Sir Henry Mody.
 ---
 
+## Summary
+
+This one-page Swatantra Party letter, dated 29 August 1959, is addressed by S. Y. Krishnaswamy to M. R. Masani. Krishnaswamy discusses proposed members of a party committee, agreeing to add Lt. Col. Pasricha and to change Gupta's name to Roy. He recalls that Charat Ram did not want his name included, while noting that Charat Ram might nevertheless be persuaded to work for the party.
+
+The letter also addresses Bihar party finances. Krishnaswamy explains that an additional Rs. 30,000 in the budget reflects the inclusion of states in which party units had not yet been formed. He says the amount was included on the assumption that party organisation would be established in those regions over the following weeks or months, and suggests revising the wording concerning Bombay's contribution from an instruction to a proposed contribution of one lakh rupees. A copy was sent to Sir Henry Mody.
+
 ## Key points
 
 - The letter is dated 29 August 1959 and was sent from the Swatantra Party office in Madras to M. R. Masani.

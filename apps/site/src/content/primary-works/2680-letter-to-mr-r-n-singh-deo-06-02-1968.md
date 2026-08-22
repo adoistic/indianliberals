@@ -44,6 +44,10 @@ summary: |-
   This single-page letter, dated 6 February 1968, is from M. R. Masani to Mr. R. N. Singh Deo, addressed as “Maharaja Saheb” and identified in the address block as Chief Minister of Bhubaneswar. Masani thanks him for a letter dated 1 February and outlines a forthcoming visit to Bhubaneswar by air from Calcutta.
 ---
 
+## Summary
+
+This single-page letter, dated 6 February 1968, is from M. R. Masani to Mr. R. N. Singh Deo, addressed as “Maharaja Saheb” and identified in the address block as Chief Minister of Bhubaneswar. Masani thanks him for a letter dated 1 February and outlines a forthcoming visit to Bhubaneswar by air from Calcutta.
+
 ## Key points
 
 - The letter is dated 6 February 1968 and signed by M. R. Masani.

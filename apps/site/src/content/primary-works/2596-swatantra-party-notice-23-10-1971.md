@@ -49,6 +49,10 @@ summary: |-
   This two-page English office notice, issued by the Swatantra Party (Bombay Region) on 23 October 1971, announces a special meeting of the regional Executive Committee. The meeting was scheduled for Friday, 29 October 1971, at 6:15 p.m. at the Party's office at 113 Mahatma Gandhi Road, Fort, Bombay 1.
 ---
 
+## Summary
+
+This two-page English office notice, issued by the Swatantra Party (Bombay Region) on 23 October 1971, announces a special meeting of the regional Executive Committee. The meeting was scheduled for Friday, 29 October 1971, at 6:15 p.m. at the Party's office at 113 Mahatma Gandhi Road, Fort, Bombay 1.
+
 ## Key points
 
 - The notice concerns a special meeting of the Swatantra Party's Bombay Region Executive Committee.

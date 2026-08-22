@@ -53,6 +53,10 @@ summary: |-
   This bilingual Swatantra Party booklet documents and publicises the Coorg District Conference scheduled for 6 December 1959 at the Town Hall in Mercara. The English invitation, dated 16 October 1959, identifies V. P. Menon as conference president, J. M. Imam, M.P., as inaugurator, and N. G. Ranga, M.P., as party chairman attending the conference. The programme includes a welcome address, inaugural and presidential addresses, a speech by K. B. Jinaraja Hegde, the election of organisers for legislative constituencies, resolutions, and a vote of thanks.
 ---
 
+## Summary
+
+This bilingual Swatantra Party booklet documents and publicises the Coorg District Conference scheduled for 6 December 1959 at the Town Hall in Mercara. The English invitation, dated 16 October 1959, identifies V. P. Menon as conference president, J. M. Imam, M.P., as inaugurator, and N. G. Ranga, M.P., as party chairman attending the conference. The programme includes a welcome address, inaugural and presidential addresses, a speech by K. B. Jinaraja Hegde, the election of organisers for legislative constituencies, resolutions, and a vote of thanks.
+
 ## Key points
 
 - The booklet is an invitation and programme for the Swatantra Party District Conference in Coorg, scheduled for 6 December 1959.

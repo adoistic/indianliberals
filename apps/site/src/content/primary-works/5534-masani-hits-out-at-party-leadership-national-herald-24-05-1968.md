@@ -50,6 +50,12 @@ summary: |-
   The report presents Masani as challenging the party’s handling of disciplinary disputes and its response to defections and organisational failures. He objects to what he describes as conspiratorial silence between leaders, insists that an elected member of the general council has a right to know the facts, and attributes the party’s Gujarat difficulties to inadequate leadership and internal “sniping and needling.” The clipping ends mid-report, with the discussion of Gujarat developments continued on another page.
 ---
 
+## Summary
+
+This National Herald report describes M. R. Masani’s criticism of the Swatantra Party leadership following the party’s biennial elections in Gujarat. In an eight-page confidential note circulated to members of the party’s general council, Masani argues that the leadership, including president N. G. Ranga, has failed to maintain clean methods, discipline, and effective party functioning. He says the general secretary should not seek to impose his policies on the party and urges colleagues to consider alternative approaches in the party’s interest.
+
+The report presents Masani as challenging the party’s handling of disciplinary disputes and its response to defections and organisational failures. He objects to what he describes as conspiratorial silence between leaders, insists that an elected member of the general council has a right to know the facts, and attributes the party’s Gujarat difficulties to inadequate leadership and internal “sniping and needling.” The clipping ends mid-report, with the discussion of Gujarat developments continued on another page.
+
 ## Key points
 
 - M. R. Masani circulated an eight-page confidential note to members of the Swatantra Party’s general council.

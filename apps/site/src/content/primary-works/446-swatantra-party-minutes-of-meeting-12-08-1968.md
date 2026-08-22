@@ -55,6 +55,12 @@ summary: |-
   The committee also allocated speakers for parliamentary business, including Nath Pai's bill concerning Fundamental Rights, Patodia's motion on Hindustan Steel, a motion on the flood situation, and the Foreign Marriages Bill. It decided not to speak on the Foreign Marriages Bill because the measure was going to a Select Committee. The minutes conclude with a decision that the party leader should write to the Prime Minister about the Andhra Press Council Bill; Kashmir and the Bihar mid-term poll are also noted as subjects of brief discussion.
 ---
 
+## Summary
+
+This one-page set of minutes records a meeting of the Swatantra Party's Executive Committee in Parliament House on 9 August 1968, documented by the party's Parliamentary Office on 12 August. The record lists the members present, authorizes Raja Venkatappa Naik to function as a whip in the absence of the Delhi whips, and notes the committee's response to the proposed nomination of Shri M. N. Anersey to a parliamentary board.
+
+The committee also allocated speakers for parliamentary business, including Nath Pai's bill concerning Fundamental Rights, Patodia's motion on Hindustan Steel, a motion on the flood situation, and the Foreign Marriages Bill. It decided not to speak on the Foreign Marriages Bill because the measure was going to a Select Committee. The minutes conclude with a decision that the party leader should write to the Prime Minister about the Andhra Press Council Bill; Kashmir and the Bihar mid-term poll are also noted as subjects of brief discussion.
+
 ## Key points
 
 - The Executive Committee meeting was held on 9 August 1968 at the Swatantra Party room in Parliament House.

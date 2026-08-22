@@ -48,6 +48,12 @@ summary: |-
   The brief note also extends thanks to Nargish (Palkhivala's wife) for accompanying Masani around the bazaars of Rajkot, and encloses five photographic snaps — of Palkhivala at the meeting and of Nargish walking on Dharmendra Road. The letter closes with warm regards to both, signed by Masani and marked "MRM/pav" with an enclosure count of 5.
 ---
 
+## Summary
+
+A one-page typed personal letter from Minoo Masani to Nani A. Palkhivala at Bombay House, dated 3rd March 1971. Masani writes to thank Palkhivala for travelling to Rajkot to speak on his behalf, reporting that Palkhivala's personality and address left "a deep impression" on the local intelligentsia and that people were still discussing the talk when Masani left the city the day before. He characterises the visit as "a great shot in the arm" prestige-wise for his side.
+
+The brief note also extends thanks to Nargish (Palkhivala's wife) for accompanying Masani around the bazaars of Rajkot, and encloses five photographic snaps — of Palkhivala at the meeting and of Nargish walking on Dharmendra Road. The letter closes with warm regards to both, signed by Masani and marked "MRM/pav" with an enclosure count of 5.
+
 ## Key points
 
 - Personal thank-you letter from Minoo Masani to Nani A. Palkhivala dated 3rd March 1971.

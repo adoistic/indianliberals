@@ -52,6 +52,12 @@ summary: |-
   The party’s lawyers argued that “socialism” was not part of the Constitution when the Swatantra Party was founded in 1959, and that its insertion through the 42nd Amendment in 1976 and the subsequent statutory requirement violated the party’s political identity and its freedom of association. The report presents the petition as a conflict between the party’s free-market economic position and the constitutional language of socialism, secularism, and democracy. The clipping also contains a separate brief about Transocean Shipping Agency’s clarification concerning the vessel Mecca I, along with unrelated advertising material.
 ---
 
+## Summary
+
+This two-page English newspaper clipping reports a writ petition filed by the Swatantra Party (Maharashtra) in the Bombay High Court challenging Section 29(A) of the Representation of the People Act, 1951, in relation to the requirement that political parties affirm their adherence to socialism. The petition was heard by Justice Majithia and Justice (Ms) Bam, while the court ordered an expedited hearing after party counsels M. R. Pai and Sharad Bobde stressed the issue’s significance before the forthcoming 1996 Lok Sabha elections.
+
+The party’s lawyers argued that “socialism” was not part of the Constitution when the Swatantra Party was founded in 1959, and that its insertion through the 42nd Amendment in 1976 and the subsequent statutory requirement violated the party’s political identity and its freedom of association. The report presents the petition as a conflict between the party’s free-market economic position and the constitutional language of socialism, secularism, and democracy. The clipping also contains a separate brief about Transocean Shipping Agency’s clarification concerning the vessel Mecca I, along with unrelated advertising material.
+
 ## Key points
 
 - The Swatantra Party (Maharashtra) filed a Bombay High Court writ petition challenging Section 29(A) of the Representation of the People Act, 1951.

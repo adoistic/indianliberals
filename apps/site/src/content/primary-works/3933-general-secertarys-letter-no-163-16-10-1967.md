@@ -58,6 +58,12 @@ summary: |-
   The accompanying letter to Members of Parliament sets out the Party's positions on banking, insurance, monopolies, and education. It argues that the Reserve Bank of India's existing powers are sufficient for social control of banking and opposes both expanded regulatory powers that would interfere with commercial-bank autonomy and the nationalisation of general insurance. It reiterates opposition to monopolies in both the State and free sectors. On language and education, the circular supports university autonomy, parental choice of the language of instruction, and parental freedom to choose schools rather than a neighbourhood-school system. The full two-page letter is visible here.
 ---
 
+## Summary
+
+Dated October 16, 1967, this two-page Swatantra Party circular from Officiating General Secretary N. Dandeker reports decisions of the Party's Central Parliamentary Board and National Executive. The first page prioritizes strengthening the Party's independent identity as a democratic alternative to Congress, avoiding absorption into United Fronts, organizing Kisan fronts, and training Party cadres. It also announces a forthcoming General Council meeting in Delhi and authorizes controlled issuance of duplicate workers' cards to replace lost cards and prevent misuse.
+
+The accompanying letter to Members of Parliament sets out the Party's positions on banking, insurance, monopolies, and education. It argues that the Reserve Bank of India's existing powers are sufficient for social control of banking and opposes both expanded regulatory powers that would interfere with commercial-bank autonomy and the nationalisation of general insurance. It reiterates opposition to monopolies in both the State and free sectors. On language and education, the circular supports university autonomy, parental choice of the language of instruction, and parental freedom to choose schools rather than a neighbourhood-school system. The full two-page letter is visible here.
+
 ## Key points
 
 - The Party should strengthen its organization and present itself as an independent democratic alternative to Congress.

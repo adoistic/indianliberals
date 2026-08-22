@@ -44,6 +44,10 @@ summary: |-
   This one-page English telegram, received on 18 April 1963, records Rajaji’s response to Minoo Masani. Rajaji agrees to Masani’s proposal concerning a meeting at Madras.
 ---
 
+## Summary
+
+This one-page English telegram, received on 18 April 1963, records Rajaji’s response to Minoo Masani. Rajaji agrees to Masani’s proposal concerning a meeting at Madras.
+
 ## Key points
 
 - The document is a single-page typed telegram.

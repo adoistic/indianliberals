@@ -54,6 +54,12 @@ summary: |-
   The resolution characterizes Gold Control as ill-conceived and ineffective, arguing that it failed to achieve its declared objectives while intensifying the problems it was intended to address and imposing widespread hardship. It concludes by demanding the immediate and total repeal of the Gold Control law. The motion was moved by Dahyabhai V. Patel, MP, and seconded by P. A. Krishna Rao of Mysore.
 ---
 
+## Summary
+
+This one-page resolution, adopted by the Swatantra Party General Council on May 27, 1966, records the party’s opposition to the Gold Control Order issued under the Defence of India Rules and to the subsequent Gold Control Act. It argues that more than three years of experience had vindicated the party’s original position against these measures.
+
+The resolution characterizes Gold Control as ill-conceived and ineffective, arguing that it failed to achieve its declared objectives while intensifying the problems it was intended to address and imposing widespread hardship. It concludes by demanding the immediate and total repeal of the Gold Control law. The motion was moved by Dahyabhai V. Patel, MP, and seconded by P. A. Krishna Rao of Mysore.
+
 ## Key points
 
 - The Swatantra Party General Council adopted the resolution on May 27, 1966.

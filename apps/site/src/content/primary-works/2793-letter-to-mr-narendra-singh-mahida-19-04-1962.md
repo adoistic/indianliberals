@@ -49,6 +49,12 @@ summary: |-
   The telegram addresses an opposition dispute over the election of Deputy Speaker. Masani notes a Times of India report that an opposition statement was not signed by the senders, says the Parliamentary Board has left the party free to vote in both Houses, and expresses the personal view that cooperation is desirable to maintain opposition unity. The final instruction is to vote for “Jaipalsingha,” whose identity cannot be confirmed from the page.
 ---
 
+## Summary
+
+This single-page express telegram, dated 19 April 1962, is sent from Masani in Bombay to Narendra Singh Mahida in New Delhi. Masani says he can arrive in Delhi on 2 May morning to discuss the Budget with party members in both Houses and asks Mahida to wire back the meeting time.
+
+The telegram addresses an opposition dispute over the election of Deputy Speaker. Masani notes a Times of India report that an opposition statement was not signed by the senders, says the Parliamentary Board has left the party free to vote in both Houses, and expresses the personal view that cooperation is desirable to maintain opposition unity. The final instruction is to vote for “Jaipalsingha,” whose identity cannot be confirmed from the page.
+
 ## Key points
 
 - Masani offers to reach Delhi on 2 May to discuss the Budget with party members in both Houses.

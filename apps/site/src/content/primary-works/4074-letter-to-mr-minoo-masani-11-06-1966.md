@@ -48,6 +48,12 @@ summary: |-
   The telegram is signed or designated “BHATIA.” It is an operational communication rather than a conventional letter or political essay; the rendered page contains no further discussion of the meeting, the Prime Minister’s identity, or the political issues to be addressed.
 ---
 
+## Summary
+
+This one-page English telegram, sent from Bombay on 11 June 1966, relays confirmation of a meeting with the Prime Minister. The message is addressed to the West End Hotel in Bangalore and asks the recipient to confirm their arrival for the scheduled appointment.
+
+The telegram is signed or designated “BHATIA.” It is an operational communication rather than a conventional letter or political essay; the rendered page contains no further discussion of the meeting, the Prime Minister’s identity, or the political issues to be addressed.
+
 ## Key points
 
 - The document is an Indian Posts and Telegraphs Department telegram.

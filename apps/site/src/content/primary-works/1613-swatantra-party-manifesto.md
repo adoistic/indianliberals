@@ -75,6 +75,12 @@ summary: |-
   Its proposed programme combines economic liberalisation with a broad social and administrative agenda. The manifesto calls for lower taxation, abolition of land revenue and gold controls, freer agriculture, trade and industry, dissolution of the Planning Commission, opposition to nationalisation and monopolies, stable prices, reduced public expenditure, and protection for farmers, landless labourers, and workers. It also promises restoration of Fundamental Rights and civil liberties, an independent and impartial administration, electoral reform, an Ombudsman, judicial redress, press freedom, educational autonomy, religious freedom, minority and backward-class protections, and a more assertive defence policy toward Communist China and Pakistan. The closing sections frame these commitments as a restoration of Gandhian principles and of Dharma as a foundation for moral and material progress.
 ---
 
+## Summary
+
+The Swatantra Party Manifesto presents the party as an electoral alternative to nearly two decades of Congress rule, which it blames for constitutional violations, weakened democratic institutions, economic stagnation, inflation, excessive taxation, social division, corruption, and an inadequate foreign and defence policy. It rejects concentration of power, dictatorship, statism, and coercive socialism, instead emphasizing individual initiative, private possession, enterprise, decentralised economic power, and limits on government.
+
+Its proposed programme combines economic liberalisation with a broad social and administrative agenda. The manifesto calls for lower taxation, abolition of land revenue and gold controls, freer agriculture, trade and industry, dissolution of the Planning Commission, opposition to nationalisation and monopolies, stable prices, reduced public expenditure, and protection for farmers, landless labourers, and workers. It also promises restoration of Fundamental Rights and civil liberties, an independent and impartial administration, electoral reform, an Ombudsman, judicial redress, press freedom, educational autonomy, religious freedom, minority and backward-class protections, and a more assertive defence policy toward Communist China and Pakistan. The closing sections frame these commitments as a restoration of Gandhian principles and of Dharma as a foundation for moral and material progress.
+
 ## Key points
 
 - The manifesto attributes political, economic, social, and moral disorder to prolonged Congress rule.

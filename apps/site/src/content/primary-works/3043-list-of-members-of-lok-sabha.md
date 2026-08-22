@@ -47,6 +47,12 @@ summary: |-
   The assignments cover a wide range of parliamentary and advisory responsibilities, including public accounts, estimates, defence, banking, gold control, contract labour, foreign marriages, motor vehicles, social control of general insurance, scheduled castes and tribes, public undertakings, education, medical research, agriculture, wildlife, taxation, and state-level advisory committees. The pages do not identify the party, date, publisher, issuer, or place of publication.
 ---
 
+## Summary
+
+This three-page administrative document lists 41 Lok Sabha members representing an unnamed party and records their assignments to standing, government, select, and joint select committees. The roster begins with Prof. N. G. Ranga and includes members such as V. N. Rao, Y. G. Gonde, Minoo Masani, N. Dandekar, Piloo Mody, and others; several entries have no committee assignment printed beside them.
+
+The assignments cover a wide range of parliamentary and advisory responsibilities, including public accounts, estimates, defence, banking, gold control, contract labour, foreign marriages, motor vehicles, social control of general insurance, scheduled castes and tribes, public undertakings, education, medical research, agriculture, wildlife, taxation, and state-level advisory committees. The pages do not identify the party, date, publisher, issuer, or place of publication.
+
 ## Key points
 
 - The document is a continuous roster of 41 Lok Sabha members.

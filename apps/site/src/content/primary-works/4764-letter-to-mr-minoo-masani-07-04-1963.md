@@ -49,6 +49,12 @@ summary: |-
   Rajagopalachari outlines an overnight train journey to Trichinopoly on 20 April and a return to Madras on 21 April. He expects to have time with Masani in Madras and Trichy to discuss the Bihar situation and what he calls “the great betrayal of Bombay financiers.”
 ---
 
+## Summary
+
+In this letter dated 7 April 1963, C. Rajagopalachari writes to Minoo Masani from Madras, welcoming news about the Gujarat cases and Purshottam Trikamdas's optimism regarding the appeal. He acknowledges Masani's programme and describes it as extensive, “somewhat on the lines of comets and other fast heavenly bodies.”
+
+Rajagopalachari outlines an overnight train journey to Trichinopoly on 20 April and a return to Madras on 21 April. He expects to have time with Masani in Madras and Trichy to discuss the Bihar situation and what he calls “the great betrayal of Bombay financiers.”
+
 ## Key points
 
 - Rajagopalachari dates the letter 7 April 1963 and writes from Madras to Minoo Masani in Bombay.

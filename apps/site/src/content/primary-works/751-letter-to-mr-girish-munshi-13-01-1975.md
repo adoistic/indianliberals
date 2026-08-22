@@ -50,6 +50,12 @@ summary: |-
   The proposed eight-item agenda combines internal party reorganisation with electoral and political strategy. It covers the election of a new Parliamentary Board, co-option of members from unrepresented states, the party's position in forthcoming state-assembly and parliamentary elections, manifesto preparation and alliances, public-problem priorities, protection of the party's election symbol and property from the BLD, fundraising, organisational work in Uttar Pradesh, Gujarat, Rajasthan, and New Delhi, and participation in the people's movement led by Jayaprakash Narayan. The second rendered page is the addressed exterior of the accompanying Inland Letter Card and contains no additional substantive argument.
 ---
 
+## Summary
+
+This two-page English-language document is a typed Swatantra Party office letter dated 13 January 1975, signed by Joint Secretary V. S. Srikumar and addressed to General Secretary Girish Munshi. It convenes the first meeting of the reconstituted National Executive Committee for 22 January at Bharatiya Vidya Bhavan in Chowpatty, Bombay, and asks Munshi to attend and advise the party.
+
+The proposed eight-item agenda combines internal party reorganisation with electoral and political strategy. It covers the election of a new Parliamentary Board, co-option of members from unrepresented states, the party's position in forthcoming state-assembly and parliamentary elections, manifesto preparation and alliances, public-problem priorities, protection of the party's election symbol and property from the BLD, fundraising, organisational work in Uttar Pradesh, Gujarat, Rajasthan, and New Delhi, and participation in the people's movement led by Jayaprakash Narayan. The second rendered page is the addressed exterior of the accompanying Inland Letter Card and contains no additional substantive argument.
+
 ## Key points
 
 - The letter is dated 13 January 1975 and issued from the Swatantra Party National Headquarters in Madras.

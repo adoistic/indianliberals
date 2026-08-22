@@ -49,6 +49,10 @@ summary: |-
   This two-page correspondence packet documents an exchange in Bombay in January 1970 between S. V. Raju and M. R. Masani concerning Dr. V. Y. Kolbakar, president of the Bombay branch of the Scheduled Caste Uplift Union. Raju's letter describes Kolbakar's railway background and questions the extent and character of his influence among Scheduled Castes, while also noting his association with a proposed Swatantra Party-affiliated Harijan and Backward Classes Welfare Party. Raju recommends maintaining contact with Kolbakar despite reservations and exploring possible cooperation.
 ---
 
+## Summary
+
+This two-page correspondence packet documents an exchange in Bombay in January 1970 between S. V. Raju and M. R. Masani concerning Dr. V. Y. Kolbakar, president of the Bombay branch of the Scheduled Caste Uplift Union. Raju's letter describes Kolbakar's railway background and questions the extent and character of his influence among Scheduled Castes, while also noting his association with a proposed Swatantra Party-affiliated Harijan and Backward Classes Welfare Party. Raju recommends maintaining contact with Kolbakar despite reservations and exploring possible cooperation.
+
 ## Key points
 
 - S. V. Raju writes from Bombay on January 18, 1970, regarding Dr. V. Y. Kolbakar and the Scheduled Caste Uplift Union.

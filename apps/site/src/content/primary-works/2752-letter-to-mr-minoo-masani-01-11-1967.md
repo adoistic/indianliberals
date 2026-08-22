@@ -47,6 +47,10 @@ summary: |-
   In this letter dated November 1, 1967, M. R. Masani congratulates a newly elected member of the Swatantra Party's General Council and explains his decision not to continue as the Party's General Secretary. After seven years in the post, including two General Elections, Masani argues that the Party should undergo a change in leadership, drawing a parallel with the principle of "job rotation" in enlightened industrial management.
 ---
 
+## Summary
+
+In this letter dated November 1, 1967, M. R. Masani congratulates a newly elected member of the Swatantra Party's General Council and explains his decision not to continue as the Party's General Secretary. After seven years in the post, including two General Elections, Masani argues that the Party should undergo a change in leadership, drawing a parallel with the principle of "job rotation" in enlightened industrial management.
+
 ## Key points
 
 - Masani congratulates the recipient on election to the Swatantra Party's General Council.

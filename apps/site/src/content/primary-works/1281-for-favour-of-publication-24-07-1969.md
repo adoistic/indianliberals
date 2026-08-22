@@ -57,6 +57,12 @@ summary: |-
   The letter invokes Rule 7(1) of the Lok Sabha Rules of Procedure and Conduct of Business, asserting that the Acting President has the authority to fix the election date. A companion publication notice reiterates that non-Communist opposition members have appealed for prompt action and criticises the Leader of the House for failing to advise an early election. The visible pages identify M.R. Masani as the signatory associated with the typed closing and list thirteen signatories from several opposition parties and independent groupings.
 ---
 
+## Summary
+
+This two-page English press statement, dated July 24, 1969, urges the Acting President of India to arrange the earliest possible election of a Speaker of the Lok Sabha. The signatories argue that several days have passed since the Speaker’s resignation without an announced election date or nomination programme, leaving the House without a duly elected presiding officer to guide its proceedings.
+
+The letter invokes Rule 7(1) of the Lok Sabha Rules of Procedure and Conduct of Business, asserting that the Acting President has the authority to fix the election date. A companion publication notice reiterates that non-Communist opposition members have appealed for prompt action and criticises the Leader of the House for failing to advise an early election. The visible pages identify M.R. Masani as the signatory associated with the typed closing and list thirteen signatories from several opposition parties and independent groupings.
+
 ## Key points
 
 - The statement is dated July 24, 1969, and is marked “For favour of publication.”

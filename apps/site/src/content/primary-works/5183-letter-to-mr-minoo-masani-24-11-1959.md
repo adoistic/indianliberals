@@ -52,6 +52,12 @@ summary: |-
   Arora urges the party to attract the masses, whom he calls the backbone of national politics and the economy. He proposes establishing a “Rajaji Relief Fund”-style fund on an all-India basis, obtaining tax-exemption status so that businesspeople can contribute officially, and using the money to conduct rural propaganda through modern methods. He offers to discuss the proposal personally and provides a temporary New Delhi address.
 ---
 
+## Summary
+
+In this letter dated 24 November 1959, Murari Lal Arora tells Minoo Masani that he has recently joined the Swatantra Party, describing it as his first political party and the only one with the right ideas. Arora, a businessman engaged in international trade, says Masani's speech at Sapru Hall impressed him with its clear presentation of the party's aims.
+
+Arora urges the party to attract the masses, whom he calls the backbone of national politics and the economy. He proposes establishing a “Rajaji Relief Fund”-style fund on an all-India basis, obtaining tax-exemption status so that businesspeople can contribute officially, and using the money to conduct rural propaganda through modern methods. He offers to discuss the proposal personally and provides a temporary New Delhi address.
+
 ## Key points
 
 - Arora says he has recently joined the Swatantra Party and regards it as the only party with the right ideas.

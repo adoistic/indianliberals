@@ -54,6 +54,12 @@ summary: |-
   The reproduced resolution condemns provisions that would invalidate voluntary land transfers made after the publication of the 1963 Kerala Land Reforms Bill, potentially penalising purchasers and rendering some homeowners landless. It also rejects the compensation offered as merely illusory and characterises the measure as expropriation. The resolution criticises the Kerala coalition ministry and other supporting parties, alleges that inclusion of the Act in the Constitution’s Ninth Schedule is intended to shield it from judicial review, and calls on Swatantra Party units and its parliamentary group to oppose the measure.
 ---
 
+## Summary
+
+This letter, dated 1 March 1970 and issued by N.K. Ganapathiah as President of the Mysore State Swatantra Party, forwards to UPASI a resolution adopted by the party’s National Executive on 17 February concerning the Kerala Land Reforms (Amendment) Act, 1969. Ganapathiah asks the association to consider assisting the Kerala unit in pursuing an appeal to the High Court on behalf of the planting community.
+
+The reproduced resolution condemns provisions that would invalidate voluntary land transfers made after the publication of the 1963 Kerala Land Reforms Bill, potentially penalising purchasers and rendering some homeowners landless. It also rejects the compensation offered as merely illusory and characterises the measure as expropriation. The resolution criticises the Kerala coalition ministry and other supporting parties, alleges that inclusion of the Act in the Constitution’s Ninth Schedule is intended to shield it from judicial review, and calls on Swatantra Party units and its parliamentary group to oppose the measure.
+
 ## Key points
 
 - N.K. Ganapathiah writes to the Secretary and Adviser of UPASI from Saklaspur Post, Mysore State, on 1 March 1970.

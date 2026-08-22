@@ -57,3 +57,7 @@ ai:
 summary: |-
   Swatantra Newsletter No. 69, issued for June–September 1969, records the Swatantra Party’s internal decisions, electoral preparations, state-level political assessments, and opposition to Congress-led economic centralisation. The issue focuses particularly on bank nationalisation, the presidential election, communist activity, constitutional order, press freedom, and the party’s defence of private enterprise and limited government.
 ---
+
+## Summary
+
+Swatantra Newsletter No. 69, issued for June–September 1969, records the Swatantra Party’s internal decisions, electoral preparations, state-level political assessments, and opposition to Congress-led economic centralisation. The issue focuses particularly on bank nationalisation, the presidential election, communist activity, constitutional order, press freedom, and the party’s defence of private enterprise and limited government.

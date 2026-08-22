@@ -48,6 +48,10 @@ summary: |-
   This one-page letter, dated 7 August 1974, is addressed by Minoo Shroff to Madhu Mehta from the Maharashtra office of the Swatantra Party. Shroff refers to his earlier letter of 16 July 1974, written in response to Mehta’s resignation letter of 11 July 1974 from the presidency of the Swatantra Party, Maharashtra.
 ---
 
+## Summary
+
+This one-page letter, dated 7 August 1974, is addressed by Minoo Shroff to Madhu Mehta from the Maharashtra office of the Swatantra Party. Shroff refers to his earlier letter of 16 July 1974, written in response to Mehta’s resignation letter of 11 July 1974 from the presidency of the Swatantra Party, Maharashtra.
+
 ## Key points
 
 - The document is a formal administrative letter dated 7 August 1974.

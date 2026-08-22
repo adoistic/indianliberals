@@ -53,6 +53,12 @@ summary: |-
   The record focuses on the Party’s parliamentary strategy and its position in state politics. The Board considered recruiting independent and unaffiliated MPs, exploring coordination among non-Communist opposition parties, opposing weak Congress-led coalition governments in Rajasthan, and maintaining independent legislative groups in Uttar Pradesh, Bihar, and Bengal. The adjourned March 2 meeting addressed constitutional and parliamentary offices, favouring consensus rather than simple numerical majority for the choice of President, Vice-President, and legislative presiding officers. It also discussed forthcoming contests in Goa, Daman and Diu, Rajya Sabha vacancies, and the organization of the Swatantra parliamentary group.
 ---
 
+## Summary
+
+These minutes record meetings of the Swatantra Party’s Central Parliamentary Board in Madras on March 1 and 2, 1967, following the General Elections. The Board confirmed earlier minutes, welcomed the prospect of an early session of the newly elected Lok Sabha, scheduled a National Executive meeting, and reviewed the Party’s electoral performance across the states. It expressed satisfaction with especially strong results in Madras and Mysore, while noting disappointment in several other states and rejecting B. P. Singh’s offer to resign as president of the Uttar Pradesh unit.
+
+The record focuses on the Party’s parliamentary strategy and its position in state politics. The Board considered recruiting independent and unaffiliated MPs, exploring coordination among non-Communist opposition parties, opposing weak Congress-led coalition governments in Rajasthan, and maintaining independent legislative groups in Uttar Pradesh, Bihar, and Bengal. The adjourned March 2 meeting addressed constitutional and parliamentary offices, favouring consensus rather than simple numerical majority for the choice of President, Vice-President, and legislative presiding officers. It also discussed forthcoming contests in Goa, Daman and Diu, Rajya Sabha vacancies, and the organization of the Swatantra parliamentary group.
+
 ## Key points
 
 - The Central Parliamentary Board met in Madras on March 1 and 2, 1967, after the General Elections.

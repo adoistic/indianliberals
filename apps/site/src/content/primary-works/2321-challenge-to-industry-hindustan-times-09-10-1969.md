@@ -52,6 +52,12 @@ summary: |-
   The article challenges industry to respond constructively rather than quarrel over the Prime Minister’s facts or debate whether industrial distortions are caused by controls. It urges business to accept the challenge, abandon inefficient and economically irrational controls, and reject the “retrogressive and controls-obsessed recommendations” of the Dutt Committee. At the same time, it calls on industry to professionalise and modernise its operations, demonstrate social consciousness, and cooperate in peaceful change aimed at giving the poor a fair deal, warning that otherwise “violent and subversive forces” could gain ascendancy.
 ---
 
+## Summary
+
+“Challenge to Industry” reports on Prime Minister Indira Gandhi’s address to businessmen in Madras, presenting her position that controls became necessary because India lacked strong, well-organised financial institutions, professional management, and sufficient awareness of industry's social obligations. The article defines those obligations as responsibility to shareholders through company growth, to labour through humane industrial relations, to consumers through fair prices and quality control, and to society through compliance with tax laws and other regulations.
+
+The article challenges industry to respond constructively rather than quarrel over the Prime Minister’s facts or debate whether industrial distortions are caused by controls. It urges business to accept the challenge, abandon inefficient and economically irrational controls, and reject the “retrogressive and controls-obsessed recommendations” of the Dutt Committee. At the same time, it calls on industry to professionalise and modernise its operations, demonstrate social consciousness, and cooperate in peaceful change aimed at giving the poor a fair deal, warning that otherwise “violent and subversive forces” could gain ascendancy.
+
 ## Key points
 
 - Indira Gandhi is described as defending controls as a response to weak financial institutions, inadequate professional management, and insufficient corporate social awareness.

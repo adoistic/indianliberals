@@ -57,6 +57,12 @@ summary: |-
   The English and Hindi bulletins call for a large, peaceful and constitutional mobilisation of foodgrain dealers. They announce expected attendance of approximately 20,000–25,000 traders, arrangements for delegates at the National Football Stadium, and the inauguration by Dr. Bharat Ram, identified as president of the International Chamber of Commerce and a prominent industrialist. The packet also includes an invitation to Members of Parliament, a Gujarati letter describing a proposed delegation from Gujarat, and related logistical correspondence. The documents are advocacy and organising materials rather than a neutral policy analysis; they emphasise economic liberty, opposition to state control, federation-building and financial contributions to the convention.
 ---
 
+## Summary
+
+This seven-page archival dossier documents the Federation of All India Foodgrain Dealers’ Associations’ 12th annual convention, held in Delhi on 12 April 1970. The invitation and publicity materials present the convention as a coordinated response to the Government of India’s proposed nationalisation of the foodgrain trade. They argue that transferring the trade to state governments, the Food Corporation of India, or cooperative societies would threaten traders’ businesses and livelihoods, while also harming consumers and cultivators through disruption and inefficiency.
+
+The English and Hindi bulletins call for a large, peaceful and constitutional mobilisation of foodgrain dealers. They announce expected attendance of approximately 20,000–25,000 traders, arrangements for delegates at the National Football Stadium, and the inauguration by Dr. Bharat Ram, identified as president of the International Chamber of Commerce and a prominent industrialist. The packet also includes an invitation to Members of Parliament, a Gujarati letter describing a proposed delegation from Gujarat, and related logistical correspondence. The documents are advocacy and organising materials rather than a neutral policy analysis; they emphasise economic liberty, opposition to state control, federation-building and financial contributions to the convention.
+
 ## Key points
 
 - The Federation of All India Foodgrain Dealers’ Associations convened its 12th annual convention in Delhi on 12 April 1970.

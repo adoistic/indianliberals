@@ -46,6 +46,10 @@ summary: |-
   In this three-page handwritten letter dated 3 November 1959, Ishwar Das Khera writes to Minoo Masani after reading Masani’s presidential address to the Madras District Convention. Khera praises the address and asks Masani to send the complete text so that it can be published in the forthcoming issue of a publication whose title appears to read “Voice of Citizens.” He says the address will impress readers and reports that he is awaiting news about the General Secretary of the party and Masani’s return to Delhi.
 ---
 
+## Summary
+
+In this three-page handwritten letter dated 3 November 1959, Ishwar Das Khera writes to Minoo Masani after reading Masani’s presidential address to the Madras District Convention. Khera praises the address and asks Masani to send the complete text so that it can be published in the forthcoming issue of a publication whose title appears to read “Voice of Citizens.” He says the address will impress readers and reports that he is awaiting news about the General Secretary of the party and Masani’s return to Delhi.
+
 ## Key points
 
 - Khera responds enthusiastically to Minoo Masani’s presidential address at the Madras District Convention.

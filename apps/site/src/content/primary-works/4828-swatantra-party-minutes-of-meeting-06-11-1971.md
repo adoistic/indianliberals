@@ -54,6 +54,12 @@ summary: |-
   The recorded decisions focus heavily on party organisation and federal structure. The Council co-opts additional members, delegates further co-option authority to the National Executive, and approves the creation of separate Telangana and Andhra regional units within Andhra Pradesh. It also accepts the bifurcation of Assam into Assam and Meghalaya regional units, discusses a proposed All-India Farmers' Union, and unanimously adopts resolutions concerning the Orissa cyclone, border-district suffering, Communist China's admission to the United Nations, government by ordinance, Sikh gurdwaras, and Bangla Desh. The final pages report approval of a draft election manifesto and a statement on the current political situation; the meeting then terminates.
 ---
 
+## Summary
+
+These five pages record the draft minutes of the Swatantra Party's Second General Council meeting, held in Baroda on 6 November 1971. The minutes list representatives and invitees from several states, record the President's welcome and a procedural clarification concerning Dahyabhai V. Patel's exclusion from the National Executive election, and confirm the previous meeting's minutes. The Council also adopts a condolence resolution for Rao Bahadur B. L. Patil and ratifies reduced membership and renewal fees, while retaining a lower renewal subscription for Scheduled Caste and Scheduled Tribe members.
+
+The recorded decisions focus heavily on party organisation and federal structure. The Council co-opts additional members, delegates further co-option authority to the National Executive, and approves the creation of separate Telangana and Andhra regional units within Andhra Pradesh. It also accepts the bifurcation of Assam into Assam and Meghalaya regional units, discusses a proposed All-India Farmers' Union, and unanimously adopts resolutions concerning the Orissa cyclone, border-district suffering, Communist China's admission to the United Nations, government by ordinance, Sikh gurdwaras, and Bangla Desh. The final pages report approval of a draft election manifesto and a statement on the current political situation; the meeting then terminates.
+
 ## Key points
 
 - The document records the Swatantra Party General Council meeting held in Baroda on 6 November 1971.

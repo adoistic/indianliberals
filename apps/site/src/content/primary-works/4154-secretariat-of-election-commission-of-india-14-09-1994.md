@@ -55,6 +55,12 @@ summary: |-
   The enclosed extract sets out the requirements and procedure for registering an association or body as a political party. It specifies application deadlines, the required signature and method of submission, the particulars an application must contain, and the obligation to affirm allegiance to the Constitution and to the principles of socialism, secularism, and democracy while upholding India’s sovereignty, unity, and integrity. It also describes the Election Commission’s power to seek further information, hear representatives, decide whether to register the body, treat its decision as final, and receive prompt notice of subsequent material changes.
 ---
 
+## Summary
+
+This three-page English-language document is a formal letter dated 14 September 1994 from the Secretariat of the Election Commission of India to Shri Venkiteswaran. Signed by Sohan Lal, Under Secretary (Legal), it responds to earlier letters and a telegram concerning registration under Section 29-A of the Representation of the People Act, 1951. The letter directs the recipient’s attention specifically to subsections 29-A(5) and 29-A(7), and encloses the relevant statutory extract for reference.
+
+The enclosed extract sets out the requirements and procedure for registering an association or body as a political party. It specifies application deadlines, the required signature and method of submission, the particulars an application must contain, and the obligation to affirm allegiance to the Constitution and to the principles of socialism, secularism, and democracy while upholding India’s sovereignty, unity, and integrity. It also describes the Election Commission’s power to seek further information, hear representatives, decide whether to register the body, treat its decision as final, and receive prompt notice of subsequent material changes.
+
 ## Key points
 
 - The letter is dated 14 September 1994 and is issued by the Secretariat of the Election Commission of India.

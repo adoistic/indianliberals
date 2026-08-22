@@ -50,6 +50,12 @@ summary: |-
   Mariswamy expresses regret that Masani will not be visiting Trichy, while hoping that he can do so on another occasion. The letter closes by saying that the party is eagerly awaiting Masani's arrival on 31 October. No policy argument or substantive political discussion appears in the rendered page.
 ---
 
+## Summary
+
+This single-page English letter, dated 15 October 1959, was sent from the Swatantra Party (Tamil Nad) office in Madras to Minoo Masani, M.P. S. S. Mariswamy, the party's secretary, acknowledges Masani's letter of 13 October and says he is pleased to learn from C. Rajagopalachari (Rajaji) that Masani will be visiting Madras and Tanjore.
+
+Mariswamy expresses regret that Masani will not be visiting Trichy, while hoping that he can do so on another occasion. The letter closes by saying that the party is eagerly awaiting Masani's arrival on 31 October. No policy argument or substantive political discussion appears in the rendered page.
+
 ## Key points
 
 - The letter is dated 15 October 1959 and is written on Swatantra Party (Tamil Nad) letterhead.

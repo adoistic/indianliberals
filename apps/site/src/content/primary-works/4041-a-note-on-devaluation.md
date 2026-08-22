@@ -57,6 +57,12 @@ summary: |-
   The proposed long-term measures include reducing civil non-developmental expenditure, ending deficit finance and overdrafts, restricting government-to-government foreign loans to infrastructure and essential maintenance imports, recasting the Fourth Plan by dropping most new State-sector capital projects, sharply reducing direct and indirect taxes, dismantling permits, licences, import licensing, exchange control and Gold Control, and negotiating lower debt-servicing charges. Immediate relief measures include assistance for stranded industrial projects, imported raw materials for exporters, withdrawal of new export duties, and abolition of duties and surcharges on key industrial inputs.
 ---
 
+## Summary
+
+Dated New Delhi, June 22, 1966, this two-page policy note argues that India’s economic collapse and currency devaluation resulted from mistaken economic policies and Union Government planning over the preceding decade and a half. Signed by N. G. Ranga and M. R. Masani, it calls for a clear post-devaluation policy centered on fiscal restraint, reduced inflation, and allowing the Indian Government to live within its means, while acknowledging that corrective measures may impose sacrifices.
+
+The proposed long-term measures include reducing civil non-developmental expenditure, ending deficit finance and overdrafts, restricting government-to-government foreign loans to infrastructure and essential maintenance imports, recasting the Fourth Plan by dropping most new State-sector capital projects, sharply reducing direct and indirect taxes, dismantling permits, licences, import licensing, exchange control and Gold Control, and negotiating lower debt-servicing charges. Immediate relief measures include assistance for stranded industrial projects, imported raw materials for exporters, withdrawal of new export duties, and abolition of duties and surcharges on key industrial inputs.
+
 ## Key points
 
 - The note presents devaluation as one aspect of a wider economic collapse caused by mistaken policies and government planning.

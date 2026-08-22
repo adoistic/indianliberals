@@ -61,6 +61,12 @@ summary: |-
   The resolutions address the political emergency, the Gujarat Assembly elections, the attack on Jayaprakash Narayan, Kashmir's constitutional position, opposition coordination, and economic policy. They call for revoking the emergency, holding overdue elections, defending parliamentary democracy, and bringing democratic non-Congress and non-communist parties together. On economic questions, the minutes defend the mixed economy against what they describe as an emerging totalitarian model, criticise controls and shortages, and oppose agricultural procurement policies that pay farmers below production costs. The document contains an internal date inconsistency: its heading identifies April 1975, while the resolutions page prints 9-4-1973.
 ---
 
+## Summary
+
+These four pages record the proceedings and resolutions of a meeting of the All India Swatantra Party's National Executive Committee held in Madras on 9 April, with G. K. Sundaram presiding. The minutes list attendees and absences, confirm the previous meeting's minutes, review party organisation in several states, and discuss correspondence concerning the party's reorganisation. The committee also considers cooperation with the National Coordinating Committee of the People's Struggle under Jayaprakash Narayan and supports the formation of a democratic opposition front ahead of the next general election.
+
+The resolutions address the political emergency, the Gujarat Assembly elections, the attack on Jayaprakash Narayan, Kashmir's constitutional position, opposition coordination, and economic policy. They call for revoking the emergency, holding overdue elections, defending parliamentary democracy, and bringing democratic non-Congress and non-communist parties together. On economic questions, the minutes defend the mixed economy against what they describe as an emerging totalitarian model, criticise controls and shortages, and oppose agricultural procurement policies that pay farmers below production costs. The document contains an internal date inconsistency: its heading identifies April 1975, while the resolutions page prints 9-4-1973.
+
 ## Key points
 
 - The National Executive Committee met in Madras on 9 April and recorded attendance, leave, and approval of its previous minutes.

@@ -51,6 +51,12 @@ summary: |-
   The letter states that the petition has already been served on the recipients and encloses a draft amendment. It further gives notice that the petitioner will seek interim relief on 12 January 1995, as requested in that draft amendment. The sender invites the recipients to remain present at the time of admission if they wish. The handwritten signature is not securely legible; the printed closing identifies the sender only as "Advocate for Petitioner."
 ---
 
+## Summary
+
+This two-page English letter, dated 10 January 1995 and written on the letterhead of Rajiv Patil, Advocate, notifies the Law Officer of the Union of India, the Chief Election Commissioner, and the Secretary of the Election Commission of India that a writ petition has been listed before the Bombay High Court's Division Bench for admission on 12 January 1995. The subject identifies the matter as Writ Petition No. 12 of 1995, filed by Swatantra Party against the Union of India and others.
+
+The letter states that the petition has already been served on the recipients and encloses a draft amendment. It further gives notice that the petitioner will seek interim relief on 12 January 1995, as requested in that draft amendment. The sender invites the recipients to remain present at the time of admission if they wish. The handwritten signature is not securely legible; the printed closing identifies the sender only as "Advocate for Petitioner."
+
 ## Key points
 
 - The letter is dated 10 January 1995 and is sent from Rajiv Patil, Advocate, in Bombay.

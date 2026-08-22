@@ -54,6 +54,12 @@ summary: |-
   The minutes also record decisions on speaker selection, following a letter from Prof. R. K. Amin; a discussion about whether to send a parliamentary delegation to Naxalbari; and a request for members to clear subscription arrears so that the secretariat could function smoothly. The record notes that no delegation would be sent immediately, while Mr. Patodia and Mr. Dandekar were asked to undertake an informal study in Calcutta and report to the party. C. C. Desai signs the document as Secretary.
 ---
 
+## Summary
+
+This one-page English office record, issued by the Swatantra Party Parliamentary Office in New Delhi and dated July 13, 1967, records a meeting of the party's Executive Committee held that morning in Parliament House. It lists nine members present, chaired by Prof. N. G. Ranga, and assigns speakers to parliamentary items concerning labour and employment, works and housing, petroleum and chemicals, the appointment of Lokpal and Lokayukta, abolition of privy purses, and an attack on a Congress MP in Naxalbari.
+
+The minutes also record decisions on speaker selection, following a letter from Prof. R. K. Amin; a discussion about whether to send a parliamentary delegation to Naxalbari; and a request for members to clear subscription arrears so that the secretariat could function smoothly. The record notes that no delegation would be sent immediately, while Mr. Patodia and Mr. Dandekar were asked to undertake an informal study in Calcutta and report to the party. C. C. Desai signs the document as Secretary.
+
 ## Key points
 
 - The Swatantra Party Executive Committee met in Parliament House on July 13, 1967, with Prof. N. G. Ranga in the chair.

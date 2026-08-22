@@ -55,6 +55,12 @@ summary: |-
   The document presents Fundamental Rights as essential safeguards for minorities and weaker sections, specifically naming Muslims, Christians, Scheduled Castes, Scheduled Tribes, and backward classes. Its operational recommendations include mobilizing full-time workers, contacting community leaders and legislators, arranging press coverage and public meetings, involving the party’s Youth Wing, convening a non-party conference, and cooperating with other democratic opposition parties. The press statement and talking points frame the amendment as a threat not only to constitutional limitations on Parliament but also to religious and communal security.
 ---
 
+## Summary
+
+This five-page Swatantra Party document, dated 2–3 August 1971, comprises General Secretary R. C. Cooper’s Letter No. 270, a press statement, and talking points opposing the Constitution (Twenty-Fourth Amendment) Bill. The document argues that the Bill’s proposed amendment to Article 368 would enable Parliament to amend the Fundamental Rights chapter, reversing the Supreme Court’s position in the Golak Nath case and allowing Parliament to alter constitutional protections with a steamroller majority. It urges party workers to organize public opinion over six weeks and, crucially, to prevent the Bill from securing the approval of at least half of India’s state legislatures.
+
+The document presents Fundamental Rights as essential safeguards for minorities and weaker sections, specifically naming Muslims, Christians, Scheduled Castes, Scheduled Tribes, and backward classes. Its operational recommendations include mobilizing full-time workers, contacting community leaders and legislators, arranging press coverage and public meetings, involving the party’s Youth Wing, convening a non-party conference, and cooperating with other democratic opposition parties. The press statement and talking points frame the amendment as a threat not only to constitutional limitations on Parliament but also to religious and communal security.
+
 ## Key points
 
 - The document opposes the Constitution (Twenty-Fourth Amendment) Bill of 1971 and its proposed amendment to Article 368.

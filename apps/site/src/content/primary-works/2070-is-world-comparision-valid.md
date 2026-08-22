@@ -48,6 +48,12 @@ summary: |-
   Through a short comic exchange, the leaflet challenges the idea that worldwide inflation should console Indians. Its concluding argument is that even if prices are rising globally, that comparison offers little comfort to people facing the impact of rising prices in India. The page therefore connects monetary conditions to the distinct domestic burden experienced by Indian consumers.
 ---
 
+## Summary
+
+This single-page illustrated leaflet questions whether comparisons of India with the rest of the world are valid when discussing rising prices. It opens by presenting the issue as a major contemporary concern and then stages a common argument: “PRICES ARE RISING ALL OVER THE WORLD!”
+
+Through a short comic exchange, the leaflet challenges the idea that worldwide inflation should console Indians. Its concluding argument is that even if prices are rising globally, that comparison offers little comfort to people facing the impact of rising prices in India. The page therefore connects monetary conditions to the distinct domestic burden experienced by Indian consumers.
+
 ## Key points
 
 - The leaflet asks whether comparisons between India and the wider world are appropriate in evaluating inflation.

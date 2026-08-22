@@ -43,6 +43,10 @@ summary: |-
   This one-page English telegram, sent from Patna and signed “JAIPRAKASH,” is addressed to Minoo Masani in Bombay. The sender thanks Masani for his wire and provides a travel schedule: departure from Patna on the night of 20 June, return on the morning of 24 June, and availability in Patna until 4 July. The year is not stated.
 ---
 
+## Summary
+
+This one-page English telegram, sent from Patna and signed “JAIPRAKASH,” is addressed to Minoo Masani in Bombay. The sender thanks Masani for his wire and provides a travel schedule: departure from Patna on the night of 20 June, return on the morning of 24 June, and availability in Patna until 4 July. The year is not stated.
+
 ## Key points
 
 - The document is an Indian Posts and Telegraphs Department telegram form.

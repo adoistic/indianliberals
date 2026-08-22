@@ -48,6 +48,12 @@ summary: |-
   Cooper forwards Desai’s reply, dated March 26, together with a tabulated statement containing relevant passages from the National Executive’s note, Desai’s explanation, and comments prepared by the office. He asks the recipients to send their comments before the National Executive considers the matter and invites them to attend its meeting at the Vithalbhai Patel Bhavan, Rafi Marg, New Delhi, on Saturday, April 11, at 3 p.m. The letter closes by requesting their advice in person.
 ---
 
+## Summary
+
+This undated draft letter, signed by R. C. Cooper as General Secretary, is addressed to H. M. Patel, the Maharaja Jaideepsinhji of Baria, and Navin Patel, members of the Gujarat State Parliamentary Board. It reports that the National Executive, meeting in Bombay on February 17, 1970, unanimously called upon C. C. Desai to explain activities undertaken during the preceding year or two and to show cause why disciplinary action should not be taken against him.
+
+Cooper forwards Desai’s reply, dated March 26, together with a tabulated statement containing relevant passages from the National Executive’s note, Desai’s explanation, and comments prepared by the office. He asks the recipients to send their comments before the National Executive considers the matter and invites them to attend its meeting at the Vithalbhai Patel Bhavan, Rafi Marg, New Delhi, on Saturday, April 11, at 3 p.m. The letter closes by requesting their advice in person.
+
 ## Key points
 
 - The letter is addressed collectively to members of the Gujarat State Parliamentary Board.

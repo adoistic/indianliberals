@@ -52,6 +52,12 @@ summary: |-
   The letter asks the Party to take an appropriate decision so that it can close ranks and resume united work under the leadership of its respected leaders. It is an organisational appeal focused on internal party unity following a senior member’s resignation.
 ---
 
+## Summary
+
+This single-page letter from H. M. Patel to N. Dandeker, written on Swatantra Party Central Office letterhead and dated 3/4/66, calls for an emergency meeting of the Party’s General Council. Patel links the request to Minoo Masani’s resignation from the National Executive and the Central Parliamentary Board.
+
+The letter asks the Party to take an appropriate decision so that it can close ranks and resume united work under the leadership of its respected leaders. It is an organisational appeal focused on internal party unity following a senior member’s resignation.
+
 ## Key points
 
 - H. M. Patel writes to N. Dandeker from the Swatantra Party Central Office.

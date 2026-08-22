@@ -44,6 +44,10 @@ summary: |-
   This one-page English letter, dated June 18, 1985, is from S. V. Raju to Mr. N. K. Ganapiah. Raju acknowledges receipt of a registered parcel containing ten copies of the Second Memorial lecture delivered by Minoo Masani in Bangalore, with a handwritten correction changing “Second” to “second” or “Rajaji” unclear in the scan. He says he is writing to C. L. Rao in Bangalore to request 100 copies of the speech and its cost.
 ---
 
+## Summary
+
+This one-page English letter, dated June 18, 1985, is from S. V. Raju to Mr. N. K. Ganapiah. Raju acknowledges receipt of a registered parcel containing ten copies of the Second Memorial lecture delivered by Minoo Masani in Bangalore, with a handwritten correction changing “Second” to “second” or “Rajaji” unclear in the scan. He says he is writing to C. L. Rao in Bangalore to request 100 copies of the speech and its cost.
+
 ## Key points
 
 - The letter is dated June 18, 1985.

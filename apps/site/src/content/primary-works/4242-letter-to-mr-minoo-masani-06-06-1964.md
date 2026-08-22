@@ -49,6 +49,10 @@ summary: |-
   This one-page letter, dated New Delhi, June 6, 1964, is addressed to Shri M. R. Masani in Bombay. The unidentified sender writes that the next session of Parliament will begin on September 7, 1964, while many Members of Parliament are expected to be abroad during the inter-session period. The letter explains that others will be occupied with meetings of the Delimitation Commission concerning the finalisation of constituencies for state legislatures and Parliament.
 ---
 
+## Summary
+
+This one-page letter, dated New Delhi, June 6, 1964, is addressed to Shri M. R. Masani in Bombay. The unidentified sender writes that the next session of Parliament will begin on September 7, 1964, while many Members of Parliament are expected to be abroad during the inter-session period. The letter explains that others will be occupied with meetings of the Delimitation Commission concerning the finalisation of constituencies for state legislatures and Parliament.
+
 ## Key points
 
 - The letter is dated June 6, 1964, from New Delhi, and bears reference number 04666.

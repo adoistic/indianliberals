@@ -57,6 +57,10 @@ summary: |-
   This 1969 booklet reproduces a writ petition filed in the Supreme Court of India by Rustom Curvasjee Cooper challenging the Banking Companies (Acquisition and Transfer of Undertakings) Ordinance, 1969. The introductory note identifies the All-India Bank Depositors Association (Bombay Branch) as the body circulating the petition for depositors and members of the public, and notes similar petitions by M. R. Masani and Balraj Madhok. Cooper presents himself as a chartered accountant, a director and shareholder connected with several banks, and a depositor whose interests were affected by the transfer of bank undertakings to newly constituted banks.
 ---
 
+## Summary
+
+This 1969 booklet reproduces a writ petition filed in the Supreme Court of India by Rustom Curvasjee Cooper challenging the Banking Companies (Acquisition and Transfer of Undertakings) Ordinance, 1969. The introductory note identifies the All-India Bank Depositors Association (Bombay Branch) as the body circulating the petition for depositors and members of the public, and notes similar petitions by M. R. Masani and Balraj Madhok. Cooper presents himself as a chartered accountant, a director and shareholder connected with several banks, and a depositor whose interests were affected by the transfer of bank undertakings to newly constituted banks.
+
 ## Key points
 
 - The petition challenges the Ordinance that transferred the undertakings, assets, and liabilities of 14 banks to new banks with capital held by the Government of India.

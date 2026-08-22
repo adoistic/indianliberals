@@ -48,6 +48,10 @@ summary: |-
   This one-page letter from M. R. Masani, dated January 24, 1970, replies to Mr. B. S. Kothari's letter of January 8. Masani explains that he saw the letter only a few days earlier, after returning from abroad, and expresses regret that he cannot address Kothari's conference on either January 7 or 8.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani, dated January 24, 1970, replies to Mr. B. S. Kothari's letter of January 8. Masani explains that he saw the letter only a few days earlier, after returning from abroad, and expresses regret that he cannot address Kothari's conference on either January 7 or 8.
+
 ## Key points
 
 - Masani acknowledges receipt of Mr. Kothari's letter of January 8.

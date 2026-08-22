@@ -47,6 +47,10 @@ summary: |-
   This Indian Express report dated 19 April 1971 announces that N. Dandekar would act as interim chief of the Swatantra Party. The party’s General Council, meeting in Bombay, accepted M. R. Masani’s resignation as party president and resolved that Dandekar should officiate until office-bearers were elected in September. The report also records R. C. Cooper’s explanation that the party’s defeat in the Lok Sabha election was not Masani’s personal responsibility and that Masani had resigned because he believed it was in the party’s and the country’s interest.
 ---
 
+## Summary
+
+This Indian Express report dated 19 April 1971 announces that N. Dandekar would act as interim chief of the Swatantra Party. The party’s General Council, meeting in Bombay, accepted M. R. Masani’s resignation as party president and resolved that Dandekar should officiate until office-bearers were elected in September. The report also records R. C. Cooper’s explanation that the party’s defeat in the Lok Sabha election was not Masani’s personal responsibility and that Masani had resigned because he believed it was in the party’s and the country’s interest.
+
 ## Key points
 
 - N. Dandekar was selected to act as interim chief of the Swatantra Party.

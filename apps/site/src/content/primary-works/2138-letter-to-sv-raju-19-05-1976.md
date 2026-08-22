@@ -52,6 +52,10 @@ summary: |-
   This 19 May 1976 letter from the Swatantra Party National Headquarters in Madras, signed by Joint Secretary V. S. Srikumar, asks S. V. Raju to obtain and forward a notice received by the Party's Bombay branch from the Income-tax authorities. The writer stresses that the notice should be sent so that the response can be properly addressed to the concerned officer and include the necessary reference, if available.
 ---
 
+## Summary
+
+This 19 May 1976 letter from the Swatantra Party National Headquarters in Madras, signed by Joint Secretary V. S. Srikumar, asks S. V. Raju to obtain and forward a notice received by the Party's Bombay branch from the Income-tax authorities. The writer stresses that the notice should be sent so that the response can be properly addressed to the concerned officer and include the necessary reference, if available.
+
 ## Key points
 
 - The letter is dated 19 May 1976 and was issued from the Swatantra Party National Headquarters in Madras.

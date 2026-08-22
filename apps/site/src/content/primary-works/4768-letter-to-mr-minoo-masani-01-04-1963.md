@@ -51,6 +51,10 @@ summary: |-
   This handwritten letter from C. Rajagopalachari to Minoo Masani, dated March 30, 1963, reflects on the continuing justification of emergency rule. Rajagopalachari says that Nani Palkhivala’s journal carries the same argument: an emergency should be maintained until India becomes sufficiently strong to withstand an unstable world, with taxation presented as a necessary measure. He rejects this reasoning as concealing a chauvinistic impulse and argues that the supposed need for emergency powers has been exaggerated.
 ---
 
+## Summary
+
+This handwritten letter from C. Rajagopalachari to Minoo Masani, dated March 30, 1963, reflects on the continuing justification of emergency rule. Rajagopalachari says that Nani Palkhivala’s journal carries the same argument: an emergency should be maintained until India becomes sufficiently strong to withstand an unstable world, with taxation presented as a necessary measure. He rejects this reasoning as concealing a chauvinistic impulse and argues that the supposed need for emergency powers has been exaggerated.
+
 ## Key points
 
 - Rajagopalachari responds to arguments for continuing emergency powers in India.

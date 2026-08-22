@@ -55,6 +55,12 @@ summary: |-
   The resolution condemns the Orissa Government's failure to anticipate and respond promptly to the crisis, while also assigning responsibility to the Central Government because the worst-affected communities include Scheduled Tribes, Scheduled Castes, and other Backward Classes for whom the Centre has special constitutional responsibilities. It calls for intensified relief, support enabling farmers to cultivate during the Kharif season, and a Commission of Inquiry into the famine, relief failures, starvation deaths, and preventive measures needed to avoid a recurrence.
 ---
 
+## Summary
+
+This one-page resolution, adopted by the Swatantra Party General Council on May 28, 1966, addresses the acute drought and famine conditions in Orissa. It reports widespread starvation, emaciation, hospitalisation needs, crop failure, and drinking-water shortages, attributing the crisis not only to inadequate rains but also to nineteen years of governmental neglect, ill-conceived spending, favouritism, corruption, and incomplete irrigation and water-supply projects.
+
+The resolution condemns the Orissa Government's failure to anticipate and respond promptly to the crisis, while also assigning responsibility to the Central Government because the worst-affected communities include Scheduled Tribes, Scheduled Castes, and other Backward Classes for whom the Centre has special constitutional responsibilities. It calls for intensified relief, support enabling farmers to cultivate during the Kharif season, and a Commission of Inquiry into the famine, relief failures, starvation deaths, and preventive measures needed to avoid a recurrence.
+
 ## Key points
 
 - The resolution records acute drought, starvation, emaciation, and deaths in Orissa.

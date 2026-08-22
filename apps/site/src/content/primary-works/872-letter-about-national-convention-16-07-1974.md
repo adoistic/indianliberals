@@ -50,6 +50,12 @@ summary: |-
   The letter is addressed to the President of the Swatantra Party, with a copy to the party's Executive Secretary at its national headquarters in Bombay. The resolution itself is not included in the rendered page, so its subject and proposed measures cannot be assessed from this document.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani, dated July 16, 1974, forwards the text of a resolution for formal notice before the Swatantra Party's National Convention, scheduled for August 4. Masani asks that copies of the resolution be circulated to convention delegates in advance.
+
+The letter is addressed to the President of the Swatantra Party, with a copy to the party's Executive Secretary at its national headquarters in Bombay. The resolution itself is not included in the rendered page, so its subject and proposed measures cannot be assessed from this document.
+
 ## Key points
 
 - The document is a formal letter from M. R. Masani dated July 16, 1974.

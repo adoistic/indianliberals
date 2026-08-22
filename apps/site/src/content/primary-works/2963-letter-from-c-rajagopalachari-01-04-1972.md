@@ -49,6 +49,12 @@ summary: |-
   The document is a brief internal communication rather than a developed political argument. It contains no substantive discussion of the column’s contents beyond this request for attention, and it is signed by Rajagopalachari on his personal letterhead.
 ---
 
+## Summary
+
+This single-page letter from C. Rajagopalachari, dated 1 April 1972, announces that the “Dear Reader” column has now taken its full shape. Rajagopalachari directs the communication particularly to Swatantra Party leaders and asks them to give the column their attention, with emphasis on its first item.
+
+The document is a brief internal communication rather than a developed political argument. It contains no substantive discussion of the column’s contents beyond this request for attention, and it is signed by Rajagopalachari on his personal letterhead.
+
 ## Key points
 
 - The document is dated 1 April 1972 and signed by C. Rajagopalachari.

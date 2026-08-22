@@ -44,6 +44,10 @@ summary: |-
   This one-page English telegram, sent by Masani from New Delhi on 17 April 1968, is addressed to C. Rajagopalachari at his Madras residence. Masani proposes meeting Rajagopalachari before going abroad and outlines a travel schedule involving Madras, Bombay, and Hyderabad.
 ---
 
+## Summary
+
+This one-page English telegram, sent by Masani from New Delhi on 17 April 1968, is addressed to C. Rajagopalachari at his Madras residence. Masani proposes meeting Rajagopalachari before going abroad and outlines a travel schedule involving Madras, Bombay, and Hyderabad.
+
 ## Key points
 
 - The document is an express telegram and confirmation copy.

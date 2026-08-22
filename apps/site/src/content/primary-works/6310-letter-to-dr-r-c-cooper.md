@@ -47,6 +47,10 @@ summary: |-
   This undated handwritten political letter is addressed to Dr. R. C. Cooper and members of the N.E. of the Swatantra Party. The sender discusses M. R. Masani’s resignation, arguing that Masani’s poor performance alone could not justify his removal because the other members of the executive had responsibility for the party’s weakened position after working for the alliance in Delhi. The letter states that the N.E. itself forced Masani to resign from the alliance.
 ---
 
+## Summary
+
+This undated handwritten political letter is addressed to Dr. R. C. Cooper and members of the N.E. of the Swatantra Party. The sender discusses M. R. Masani’s resignation, arguing that Masani’s poor performance alone could not justify his removal because the other members of the executive had responsibility for the party’s weakened position after working for the alliance in Delhi. The letter states that the N.E. itself forced Masani to resign from the alliance.
+
 ## Key points
 
 - The letter is addressed to Dr. R. C. Cooper and members of the Swatantra Party’s N.E.

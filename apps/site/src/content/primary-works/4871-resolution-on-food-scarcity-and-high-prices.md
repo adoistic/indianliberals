@@ -61,6 +61,12 @@ summary: |-
   The resolution rejects proposals for expanded state trading in food grains and compulsory levies on peasants, warning that these would increase black-marketing and corruption. It calls instead for agricultural rehabilitation through irrigation, fertilisers, roads, guaranteed floor prices and cheap credit, alongside the abandonment of deficit finance and high duties on necessities. Its immediate recommendations include releasing government-held buffer stocks through fair-price shops and the trade, ending zonal arrangements after a short transition, consulting farmers and food-grain traders, and rejecting attempts to scapegoat peasants and traders.
 ---
 
+## Summary
+
+This three-page Swatantra Party resolution attributes food-grain scarcity and high prices to what it calls the Congress Government’s interventionist economic policies. It criticizes ceilings on individual farm holdings, arguing that fragmentation reduces marketable agricultural surpluses, discourages private investment, and increases uncertainty. It also links inflation to deficit financing, high excise duties and sales taxes, increased land revenue, and the priorities of the Second and Third Five-Year Plans, which it says favoured slow-yielding heavy projects over agriculture, road building and rural processing.
+
+The resolution rejects proposals for expanded state trading in food grains and compulsory levies on peasants, warning that these would increase black-marketing and corruption. It calls instead for agricultural rehabilitation through irrigation, fertilisers, roads, guaranteed floor prices and cheap credit, alongside the abandonment of deficit finance and high duties on necessities. Its immediate recommendations include releasing government-held buffer stocks through fair-price shops and the trade, ending zonal arrangements after a short transition, consulting farmers and food-grain traders, and rejecting attempts to scapegoat peasants and traders.
+
 ## Key points
 
 - The resolution blames food scarcity and high prices on interventionist economic policies attributed to the Congress Government.

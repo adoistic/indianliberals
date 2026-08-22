@@ -53,6 +53,10 @@ summary: |-
   This two-page report by P. K. Deo reviews the Swatantra Party’s performance during the first session of the Third Lok Sabha in 1962. Deo notes that most party members were new to parliamentary politics, but reports growing participation and a generally satisfactory performance in debates, including the President’s Address, ministerial demands, the Finance Bill, and the University Grants Commission. He highlights the party’s interventions on the carry-forward of capital losses, excise duties, expenditure tax, and other fiscal measures, including instances of voting with the Jan Sangh and Congress members on particular proposals.
 ---
 
+## Summary
+
+This two-page report by P. K. Deo reviews the Swatantra Party’s performance during the first session of the Third Lok Sabha in 1962. Deo notes that most party members were new to parliamentary politics, but reports growing participation and a generally satisfactory performance in debates, including the President’s Address, ministerial demands, the Finance Bill, and the University Grants Commission. He highlights the party’s interventions on the carry-forward of capital losses, excise duties, expenditure tax, and other fiscal measures, including instances of voting with the Jan Sangh and Congress members on particular proposals.
+
 ## Key points
 
 - The report covers the Swatantra Party’s work in the first session of the Third Lok Sabha in 1962.

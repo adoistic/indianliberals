@@ -47,6 +47,10 @@ summary: |-
   This typed letter, dated 9 August 1974 and signed by R. Kalamegham, is addressed to Minoo Masani in Bombay. Kalamegham refers to the Delhi meeting of the party, Masani’s reported press-interview reactions, and his editorial in Freedom First. The letter reflects on the apparent success of the “pro-changers” and asks how the party should proceed after its dissolution.
 ---
 
+## Summary
+
+This typed letter, dated 9 August 1974 and signed by R. Kalamegham, is addressed to Minoo Masani in Bombay. Kalamegham refers to the Delhi meeting of the party, Masani’s reported press-interview reactions, and his editorial in Freedom First. The letter reflects on the apparent success of the “pro-changers” and asks how the party should proceed after its dissolution.
+
 ## Key points
 
 - The letter is dated 9 August 1974 and addressed to Minoo Masani.

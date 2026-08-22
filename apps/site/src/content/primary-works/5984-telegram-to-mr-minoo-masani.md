@@ -48,6 +48,12 @@ summary: |-
   The document is an Indian Posts and Telegraphs Department telegram form. No reliable year, title, or fuller sender identification is visible on the page.
 ---
 
+## Summary
+
+This one-page telegram from Bombay, sent by “ABRAHAM” to Minoo Masani, reports on Jayaprakash Narayan’s medical recovery. It states that Jayaprakash is progressing steadily, though slowly; his stitches and tubes have been removed; he is taking a normal diet; and he is walking around.
+
+The document is an Indian Posts and Telegraphs Department telegram form. No reliable year, title, or fuller sender identification is visible on the page.
+
 ## Key points
 
 - The document is a one-page telegram addressed to Minoo Masani in Bombay.

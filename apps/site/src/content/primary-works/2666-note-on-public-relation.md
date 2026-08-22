@@ -50,6 +50,12 @@ summary: |-
   The note recommends appointing a senior “Advisor on Public Relations” for a four-year contract, with a proposed salary of approximately Rs. 2,000–3,000 per month. The adviser would coordinate closely with the Chief Minister, Deputy Chief Minister, and other members of the Orissa Government; promote government policy to audiences in Orissa, India, and abroad; maintain contacts with the press, the Union Government, business associations, banks, financial institutions, foreign embassies, and trade commissioners; and spend roughly half of each month outside Orissa. The note also proposes placing the state’s Department and Directorate of Public Relations under the adviser’s guidance and establishing a small office in New Delhi.
 ---
 
+## Summary
+
+“Note on Public Relations” argues that the Orissa Government’s record and development programme are not being communicated adequately to audiences inside or outside the state. It attributes the weak public profile to an underdeveloped public-relations apparatus and presents improved publicity as a practical necessity: public opinion elsewhere in India should understand Orissa’s inherited problems and its relationship with the Union Government, while prospective investors should be informed of the state’s liberal approach to industrialisation and its need for domestic and foreign capital.
+
+The note recommends appointing a senior “Advisor on Public Relations” for a four-year contract, with a proposed salary of approximately Rs. 2,000–3,000 per month. The adviser would coordinate closely with the Chief Minister, Deputy Chief Minister, and other members of the Orissa Government; promote government policy to audiences in Orissa, India, and abroad; maintain contacts with the press, the Union Government, business associations, banks, financial institutions, foreign embassies, and trade commissioners; and spend roughly half of each month outside Orissa. The note also proposes placing the state’s Department and Directorate of Public Relations under the adviser’s guidance and establishing a small office in New Delhi.
+
 ## Key points
 
 - The note says Orissa receives unusually little national and international press coverage despite having a positive governmental record to communicate.

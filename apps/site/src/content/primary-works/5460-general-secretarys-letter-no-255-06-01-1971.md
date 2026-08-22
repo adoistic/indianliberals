@@ -50,6 +50,12 @@ summary: |-
   Cooper proposes printing one-rupee coupons for volunteers to sell door to door and recommends maintaining proper accounts of the collections. He also encloses, or refers to, a specimen coupon printed by the Bombay Regional Unit and asks recipients to undertake a similar initiative. The referenced enclosure is not present in the rendered file.
 ---
 
+## Summary
+
+This one-page letter, dated January 6, 1971, is issued by R.C. Cooper, General Secretary of the Swatantra Party, from the party's national headquarters in Bombay. With the general elections less than two months away, Cooper urges party units at every level to intensify fundraising through small contributions from supporters, noting that the national headquarters cannot meet the campaign's needs alone.
+
+Cooper proposes printing one-rupee coupons for volunteers to sell door to door and recommends maintaining proper accounts of the collections. He also encloses, or refers to, a specimen coupon printed by the Bombay Regional Unit and asks recipients to undertake a similar initiative. The referenced enclosure is not present in the rendered file.
+
 ## Key points
 
 - The letter is dated January 6, 1971, and is identified as General Secretary's Letter No. 255.

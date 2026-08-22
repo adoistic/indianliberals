@@ -52,6 +52,10 @@ summary: |-
   This two-page handwritten letter, dated 5 April 1971 and written on Swatantra Party (Mysore State) letterhead, is addressed to Minoo Masani after Masani announced his resignation as party president. The unidentified sender says the resignation was shocking but understandable, comparing the collapse of the political structure Masani built through “sincerity, devotion and hardwork” to a house of cards. The letter argues that the electorate has been wrongly credited with political acumen and knowledge that it does not possess, and therefore cannot be expected to make sound political choices.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 5 April 1971 and written on Swatantra Party (Mysore State) letterhead, is addressed to Minoo Masani after Masani announced his resignation as party president. The unidentified sender says the resignation was shocking but understandable, comparing the collapse of the political structure Masani built through “sincerity, devotion and hardwork” to a house of cards. The letter argues that the electorate has been wrongly credited with political acumen and knowledge that it does not possess, and therefore cannot be expected to make sound political choices.
+
 ## Key points
 
 - The sender acknowledges and sympathises with Minoo Masani’s resignation as president of the Swatantra Party.

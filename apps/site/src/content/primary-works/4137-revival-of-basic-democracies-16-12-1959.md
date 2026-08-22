@@ -53,6 +53,12 @@ summary: |-
   The report presents Narain as contrasting the village panchayat, which he describes as an ancient institution that had functioned as a representative body, with both Western parliamentary democracy and centralized political systems. He says Western democracy in India has touched only a “fringe” of the people because power remains centralized, and argues that Indians should develop a form of democracy suited to their soil, climate, and social conditions. He expresses interest in Pakistan’s experiment and notes that a similar experiment was under way in the United Arab Republic.
 ---
 
+## Summary
+
+This newspaper report, published in The Statesman on December 16, 1959, describes J. P. Narain’s support for Pakistan’s experiment with “basic democracies.” Speaking at a meeting of the Pakistan Committee of the Congress for Cultural Freedom in Karachi, Narain called for a revival of village-based self-government across the subcontinent and elsewhere in Asia. He argued that village institutions had been weakened or destroyed under British rule, which replaced local administration and economic arrangements with foreign systems.
+
+The report presents Narain as contrasting the village panchayat, which he describes as an ancient institution that had functioned as a representative body, with both Western parliamentary democracy and centralized political systems. He says Western democracy in India has touched only a “fringe” of the people because power remains centralized, and argues that Indians should develop a form of democracy suited to their soil, climate, and social conditions. He expresses interest in Pakistan’s experiment and notes that a similar experiment was under way in the United Arab Republic.
+
 ## Key points
 
 - J. P. Narain extended support to Pakistan’s experiment with “basic democracies.”

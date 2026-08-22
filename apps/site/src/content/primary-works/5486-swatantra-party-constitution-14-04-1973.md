@@ -57,6 +57,12 @@ summary: |-
   The rendered pages specify a multi-level organisational structure extending from Primary Units and District Committees to State or Regional Councils, the General Council, and the National Executive. They regulate representation, office-bearers, quorums, absences, party elections, election tribunals, co-options, national and state conventions, rule-making powers, and constitutional amendments. Appendix A prescribes voting procedures, including proportional representation for several bodies and the single non-transferable vote for executive committees. The pages present the party as a formally structured, internally electoral organisation, but the rendered material does not include the document’s later provisions or any separate statement of political principles beyond the reference to the party’s 1959 preparatory convention.
 ---
 
+## Summary
+
+This 1973 Swatantra Party Constitution, amended by the Sixth National Convention at Rajajinagar, Madras, sets out the party’s name, objectives, headquarters, membership rules, subscription requirements, and permitted forms of party work. Membership is open to persons over eighteen who subscribe in writing to the party’s principles, pay the prescribed fee, and are not members of another political party. The document also establishes procedures for suspension, expulsion, appeals, and the distribution of membership subscriptions among primary, district, state or regional, and national units.
+
+The rendered pages specify a multi-level organisational structure extending from Primary Units and District Committees to State or Regional Councils, the General Council, and the National Executive. They regulate representation, office-bearers, quorums, absences, party elections, election tribunals, co-options, national and state conventions, rule-making powers, and constitutional amendments. Appendix A prescribes voting procedures, including proportional representation for several bodies and the single non-transferable vote for executive committees. The pages present the party as a formally structured, internally electoral organisation, but the rendered material does not include the document’s later provisions or any separate statement of political principles beyond the reference to the party’s 1959 preparatory convention.
+
 ## Key points
 
 - The document is the Swatantra Party Constitution as amended on April 14, 1973, at the Sixth National Convention in Rajajinagar, Madras.

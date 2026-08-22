@@ -51,6 +51,12 @@ summary: |-
   The enclosed letters focus on rebuilding and maintaining the Swatantra Party after organisational difficulties. Srikumar asks Raju to compile lists of National General Council members who remain aligned with the party, identify reliable leaders to build the Andhra Pradesh unit, and gather contacts in Haryana, Punjab, Rajasthan, Gujarat, and Uttar Pradesh. He also discusses vacancies at the national level, preparations for a possible National Convention, legal action concerning the Karnataka unit, and a newspaper report about Girish Munshi's position on the Maharashtra Swatantra Party. The pages show a party secretary attempting to consolidate national organisation through membership surveys, regional recruitment, correspondence, and legal measures.
 ---
 
+## Summary
+
+This three-page English-language correspondence records V. S. Srikumar, Secretary of the Madras District Swatantra Party, communicating with S. V. Raju in late 1974. The 2 November cover letter encloses copies of earlier letters because Srikumar had received no reply, and asks Raju to respond promptly.
+
+The enclosed letters focus on rebuilding and maintaining the Swatantra Party after organisational difficulties. Srikumar asks Raju to compile lists of National General Council members who remain aligned with the party, identify reliable leaders to build the Andhra Pradesh unit, and gather contacts in Haryana, Punjab, Rajasthan, Gujarat, and Uttar Pradesh. He also discusses vacancies at the national level, preparations for a possible National Convention, legal action concerning the Karnataka unit, and a newspaper report about Girish Munshi's position on the Maharashtra Swatantra Party. The pages show a party secretary attempting to consolidate national organisation through membership surveys, regional recruitment, correspondence, and legal measures.
+
 ## Key points
 
 - The 2 November 1974 cover letter encloses copies of earlier correspondence after Srikumar received no reply from S. V. Raju.

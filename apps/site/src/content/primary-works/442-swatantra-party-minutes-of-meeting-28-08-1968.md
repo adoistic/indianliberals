@@ -55,6 +55,12 @@ summary: |-
   The minutes also note a brief discussion of Atal Bihari Vajpayee’s resolution concerning the integration of Kashmir with the rest of India, with further discussion deferred to meetings of the National Executive. They record discussion of nominations to the Scheduled Castes and Scheduled Tribes Committee, including a request that the Rajya Sabha group consider the nomination of Dr. Antani in place of Shri Lukaneth Misra. The document is signed by C. C. Desai as Secretary and dated August 29, 1968.
 ---
 
+## Summary
+
+This one-page office record from the Swatantra Party Parliamentary Office documents a meeting of the party’s Executive Committee held on August 27, 1968, at the Party Room, Central Hall. It lists the members present, records nominations to the Punjab Advisory Committee, and assigns committee members to speak on the country’s drought situation and the Punjab State Legislature (Delegation of Powers) Bill.
+
+The minutes also note a brief discussion of Atal Bihari Vajpayee’s resolution concerning the integration of Kashmir with the rest of India, with further discussion deferred to meetings of the National Executive. They record discussion of nominations to the Scheduled Castes and Scheduled Tribes Committee, including a request that the Rajya Sabha group consider the nomination of Dr. Antani in place of Shri Lukaneth Misra. The document is signed by C. C. Desai as Secretary and dated August 29, 1968.
+
 ## Key points
 
 - The Executive Committee meeting took place on August 27, 1968, at 2.30 P.M. in the Swatantra Party Room, Central Hall.

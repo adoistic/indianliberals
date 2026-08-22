@@ -49,6 +49,12 @@ summary: |-
   The telegram further proposes a visit to Madras on 14 or 15 August and asks for a reply. It is signed “MASANI”; the supplied authority file does not resolve this abbreviated sender name, although the metadata identifies the document as a confirmation copy sent by express delivery on 13 August 1962.
 ---
 
+## Summary
+
+This one-page express telegram, sent from Bombay on 12 August 1962, is addressed to C. Rajagopalachari in Madras. The sender accepts the unanimous decision reached after discussion and states that he will defer to Rajagopalachari as the organisation's “founder leader.” The message also offers a resignation as general secretary if Rajagopalachari wishes, with publication of the resignation scheduled for 26 August.
+
+The telegram further proposes a visit to Madras on 14 or 15 August and asks for a reply. It is signed “MASANI”; the supplied authority file does not resolve this abbreviated sender name, although the metadata identifies the document as a confirmation copy sent by express delivery on 13 August 1962.
+
 ## Key points
 
 - The document is an express telegram dated Bombay, 12 August 1962, addressed to C. Rajagopalachari in Madras.

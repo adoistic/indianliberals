@@ -53,6 +53,12 @@ summary: |-
   The remaining agenda items address party organisation and electoral administration: filling a vacancy on the Bandra Primary Unit Committee, settling arrears of a monthly subscription from the Matunga Unit, screening applications for party workers, and considering the enrolment and subsequent committee elections involving M. A. Rizvi. The notice also invites discussion of any other matter with the chair's permission. No substantive policy argument or discussion beyond this meeting agenda is visible on the page.
 ---
 
+## Summary
+
+This one-page English notice, issued by the Swatantra Party (Bombay Region) on 27 September 1971, announces a meeting of the newly elected Executive Committee scheduled for 30 September 1971 at the party's Bombay office. Signed by General Secretary F. C. Cana, it sets out an internal agenda concerning approval of the previous committee's minutes, an application for the post of Office Secretary, and the formation of a regional Parliamentary Board.
+
+The remaining agenda items address party organisation and electoral administration: filling a vacancy on the Bandra Primary Unit Committee, settling arrears of a monthly subscription from the Matunga Unit, screening applications for party workers, and considering the enrolment and subsequent committee elections involving M. A. Rizvi. The notice also invites discussion of any other matter with the chair's permission. No substantive policy argument or discussion beyond this meeting agenda is visible on the page.
+
 ## Key points
 
 - The notice is dated 27 September 1971 and concerns the Swatantra Party's Bombay Region.

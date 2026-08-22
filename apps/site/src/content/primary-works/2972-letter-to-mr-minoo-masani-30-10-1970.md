@@ -48,6 +48,10 @@ summary: |-
   This three-page correspondence from October 1970 records an exchange between A. P. Jain and M. R. Masani within the Swatantra Party Parliamentary Office. The letters address press reports about a proposed understanding among opposition parties, particularly the so-called SVD at the Centre and a possible parliamentary bloc involving the SSP and PSP. Jain proposes that Masani publicly reject the reported “hotchpotch” arrangement, while Masani insists that no one from his side had participated in such discussions and that the Swatantra Party opposed the SVD model.
 ---
 
+## Summary
+
+This three-page correspondence from October 1970 records an exchange between A. P. Jain and M. R. Masani within the Swatantra Party Parliamentary Office. The letters address press reports about a proposed understanding among opposition parties, particularly the so-called SVD at the Centre and a possible parliamentary bloc involving the SSP and PSP. Jain proposes that Masani publicly reject the reported “hotchpotch” arrangement, while Masani insists that no one from his side had participated in such discussions and that the Swatantra Party opposed the SVD model.
+
 ## Key points
 
 - A. P. Jain proposes a press conference in Parliament House to respond to reports about opposition-party negotiations.

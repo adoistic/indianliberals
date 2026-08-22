@@ -46,6 +46,12 @@ summary: |-
   Masani explains that Narayan and Prabhavati had treated him as next of kin during an earlier period of imprisonment, corresponding with him and sending him books. Although Masani has not met Rajeshwar Prasad, he asks Mehta to guide and assist him as far as possible. The page records a personal appeal framed around political access, imprisonment, and reciprocal support.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani to Om Mehta is dated June 30, 1975. Masani congratulates Mehta on becoming Minister of State for Home Affairs and asks him, in his former capacity as a member of the Public Accounts Committee, to help arrange an interview with Jayaprakash Narayan. Rajeshwar Prasad is carrying the letter to Delhi.
+
+Masani explains that Narayan and Prabhavati had treated him as next of kin during an earlier period of imprisonment, corresponding with him and sending him books. Although Masani has not met Rajeshwar Prasad, he asks Mehta to guide and assist him as far as possible. The page records a personal appeal framed around political access, imprisonment, and reciprocal support.
+
 ## Key points
 
 - The letter is dated June 30, 1975, and is signed by M. R. Masani.

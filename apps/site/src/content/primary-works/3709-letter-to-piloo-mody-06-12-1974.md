@@ -46,6 +46,10 @@ summary: |-
   This untitled letter, dated December 6, 1974, is written by Girish Munshi on Swatantra Party, Maharashtra letterhead to Piloo Mody, M.P. Munshi refers to a minor difficulty concerning an arrangement reached in Mody’s chamber on September 18, 1974, and asks Mody to let him know when he will next be in Bombay so they can meet and resolve the matter. The letter is brief, cordial, and administrative in character.
 ---
 
+## Summary
+
+This untitled letter, dated December 6, 1974, is written by Girish Munshi on Swatantra Party, Maharashtra letterhead to Piloo Mody, M.P. Munshi refers to a minor difficulty concerning an arrangement reached in Mody’s chamber on September 18, 1974, and asks Mody to let him know when he will next be in Bombay so they can meet and resolve the matter. The letter is brief, cordial, and administrative in character.
+
 ## Key points
 
 - The letter is dated December 6, 1974.

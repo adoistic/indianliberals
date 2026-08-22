@@ -51,6 +51,10 @@ summary: |-
   This six-page transcript records M. R. Masani’s speech at an Elphinstone College public meeting in Bombay on January 21, 1963, held under the auspices of the Swatantra Party. Masani focuses on the Colombo proposals for settling the India-China border conflict and argues that they concede too much to China. He contrasts the proposals with the Chinese ultimatum of November 21, 1962, describing the proposed neutralisation and mutual withdrawal arrangements in Ladakh, Barahoti, and NEFA as an abandonment of India’s September 8 position and of the country’s resolve to recover territory occupied by Chinese forces.
 ---
 
+## Summary
+
+This six-page transcript records M. R. Masani’s speech at an Elphinstone College public meeting in Bombay on January 21, 1963, held under the auspices of the Swatantra Party. Masani focuses on the Colombo proposals for settling the India-China border conflict and argues that they concede too much to China. He contrasts the proposals with the Chinese ultimatum of November 21, 1962, describing the proposed neutralisation and mutual withdrawal arrangements in Ladakh, Barahoti, and NEFA as an abandonment of India’s September 8 position and of the country’s resolve to recover territory occupied by Chinese forces.
+
 ## Key points
 
 - Masani argues that the Colombo proposals would require India to accept neutralised territory and abandon claims to areas lost during the 1962 conflict.

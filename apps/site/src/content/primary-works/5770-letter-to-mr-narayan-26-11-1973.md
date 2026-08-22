@@ -47,6 +47,10 @@ summary: |-
   This typed letter, dated November 26, 1973, is signed by Girish K. Munshi and addressed to Mr. Narayan of the Swatantra Party in Bombay. It is an administrative communication concerning party organisation and preparedness in Maharashtra.
 ---
 
+## Summary
+
+This typed letter, dated November 26, 1973, is signed by Girish K. Munshi and addressed to Mr. Narayan of the Swatantra Party in Bombay. It is an administrative communication concerning party organisation and preparedness in Maharashtra.
+
 ## Key points
 
 - Requests a ready list of members of the Executive Committee, District Committee, Primary Committee, Regional Council, and National Council.

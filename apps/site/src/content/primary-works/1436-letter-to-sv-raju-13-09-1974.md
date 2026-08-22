@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated 13 September 1974, is from V. S. Srikumar in Madras to S. V. Raju in Bombay. Srikumar acknowledges Raju's letter and encloses resolutions adopted by the Swatantra Party's Executive Committee, General Council, Swatantra legislators, and district and constituency office-bearers. He reports that approximately 150 of 200 invitees attended a meeting and describes the participants as enthusiastic about preserving the party's integrity and strengthening it.
 ---
 
+## Summary
+
+This one-page letter, dated 13 September 1974, is from V. S. Srikumar in Madras to S. V. Raju in Bombay. Srikumar acknowledges Raju's letter and encloses resolutions adopted by the Swatantra Party's Executive Committee, General Council, Swatantra legislators, and district and constituency office-bearers. He reports that approximately 150 of 200 invitees attended a meeting and describes the participants as enthusiastic about preserving the party's integrity and strengthening it.
+
 ## Key points
 
 - The letter is dated 13 September 1974 and is addressed to S. V. Raju.

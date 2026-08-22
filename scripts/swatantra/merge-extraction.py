@@ -267,6 +267,22 @@ def build_entry(name, inv_row, meta, summ, disagree, known_thinkers, vocab):
     L.append("---")
     L.append("")
 
+    # The body is what readers see. PrimaryWorkDetail renders <Content /> and,
+    # outside interviews, never touches the frontmatter `summary` — that field
+    # feeds the search index and og:description. Writing the prose only into
+    # frontmatter left ~6,400 works showing a "Summary" heading above nothing
+    # but a bullet list, with the paragraphs we paid to extract invisible. The
+    # 1,467 entries from the earlier pipeline carry "## Summary" in the body,
+    # which is the shape the component documents and expects.
+    if summary_text:
+        L.append("## Summary")
+        L.append("")
+        for para in summary_text.strip().split("\n\n"):
+            para = " ".join(para.split())
+            if para:
+                L.append(para)
+                L.append("")
+
     kp = dig(summ, "summary_structured.key_points") or []
     if kp:
         L.append("## Key points")

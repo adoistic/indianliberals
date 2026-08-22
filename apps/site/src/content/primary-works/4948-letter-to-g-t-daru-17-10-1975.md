@@ -49,6 +49,12 @@ summary: |-
   Masani recommends that the conference resolutions be prefaced by a sheet recording essential facts about the event, including its sponsors, the people who presided over and seconded the resolutions, and the attendance. He suggests that this documentation would make the resolutions a complete story and asks Daru to send him about a dozen copies.
 ---
 
+## Summary
+
+In this untitled letter dated 17 October 1975, Minoo Masani thanks G. T. Daru for reporting on a successful public meeting held the previous evening. Masani says he is not good at attending meetings or events, but congratulates Daru on organizing the conference.
+
+Masani recommends that the conference resolutions be prefaced by a sheet recording essential facts about the event, including its sponsors, the people who presided over and seconded the resolutions, and the attendance. He suggests that this documentation would make the resolutions a complete story and asks Daru to send him about a dozen copies.
+
 ## Key points
 
 - The letter is dated 17 October 1975 and is addressed to G. T. Daru.

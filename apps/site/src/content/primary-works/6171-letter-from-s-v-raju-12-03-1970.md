@@ -43,6 +43,10 @@ summary: |-
   In this letter dated March 12, 1970, S. V. Raju informs M. R. Masani that Dr. Cooper has agreed to be available at the Party Office, using the air-conditioned room of the Bombay Branch, from 1 p.m. to 2 p.m. on most days. Raju specifies that the arrangement excludes Tuesdays and Saturdays.
 ---
 
+## Summary
+
+In this letter dated March 12, 1970, S. V. Raju informs M. R. Masani that Dr. Cooper has agreed to be available at the Party Office, using the air-conditioned room of the Bombay Branch, from 1 p.m. to 2 p.m. on most days. Raju specifies that the arrangement excludes Tuesdays and Saturdays.
+
 ## Key points
 
 - The letter is dated March 12, 1970 and is addressed to M. R. Masani.

@@ -54,6 +54,12 @@ summary: |-
   The clipping also records the party's criticism of India's electoral system. The Swatantra statement argues that the newly elected Lok Sabha does not fairly represent the popular vote, noting that the New Congress secured more than 43.64 per cent of the votes polled but nearly two-thirds of the seats. It calls the system “archaic” because it lacks proportional representation and says the party will reassess the situation after the National Council meets in Bombay. A second brief report says Masani plans to write an autobiography, provisionally titled “Political and Intellectuals—something like Mr Nirad C. Chaudhuri’s ‘Autobiography of an Indian’.”
 ---
 
+## Summary
+
+This one-page newspaper clipping reports a statement by Swatantra Party president Minoo Masani after the party's parliamentary performance. Masani says the party will function independently in Parliament rather than join a bloc or merge with another party, while allowing its elected members to cooperate with others for particular purposes. The report presents this as a principled refusal to enter a coalition merely to manufacture a majority in the Lok Sabha.
+
+The clipping also records the party's criticism of India's electoral system. The Swatantra statement argues that the newly elected Lok Sabha does not fairly represent the popular vote, noting that the New Congress secured more than 43.64 per cent of the votes polled but nearly two-thirds of the seats. It calls the system “archaic” because it lacks proportional representation and says the party will reassess the situation after the National Council meets in Bombay. A second brief report says Masani plans to write an autobiography, provisionally titled “Political and Intellectuals—something like Mr Nirad C. Chaudhuri’s ‘Autobiography of an Indian’.”
+
 ## Key points
 
 - Minoo Masani says the Swatantra Party will function independently in Parliament rather than join any bloc.

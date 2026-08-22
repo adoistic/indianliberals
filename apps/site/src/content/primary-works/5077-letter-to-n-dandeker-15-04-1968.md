@@ -51,6 +51,12 @@ summary: |-
   Masani argues that the party needs to close its ranks and resume unified work under the leadership of its respected leaders. The document is a single-page organizational communication on Swatantra Party letterhead, bearing a handwritten signature and a 15 April 1968 receipt stamp.
 ---
 
+## Summary
+
+In this 15 April 1968 letter to N. Dandekar, M.P., Minoo Masani requests an emergency meeting of the Swatantra Party's General Council. The proposed meeting is to discuss Masani's resignation from the National Executive and Central Parliamentary Board and to decide how the party should respond institutionally.
+
+Masani argues that the party needs to close its ranks and resume unified work under the leadership of its respected leaders. The document is a single-page organizational communication on Swatantra Party letterhead, bearing a handwritten signature and a 15 April 1968 receipt stamp.
+
 ## Key points
 
 - Minoo Masani addresses N. Dandekar, M.P., General Secretary of the Swatantra Party.

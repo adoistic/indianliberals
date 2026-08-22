@@ -47,6 +47,10 @@ summary: |-
   This three-page English-language circular, issued by the Swatantra Party national headquarters on June 19, 1974, reports the General Council's response to efforts by several parties to form a National Alternative. The Council welcomed the merger initiative but held that the Swatantra Party's final decision could be taken only by a National Convention. It therefore proposed an early convention, asked State Councils to examine the draft programme, and sought members' approval of a reduced delegation ratio in view of the party's financial and venue constraints.
 ---
 
+## Summary
+
+This three-page English-language circular, issued by the Swatantra Party national headquarters on June 19, 1974, reports the General Council's response to efforts by several parties to form a National Alternative. The Council welcomed the merger initiative but held that the Swatantra Party's final decision could be taken only by a National Convention. It therefore proposed an early convention, asked State Councils to examine the draft programme, and sought members' approval of a reduced delegation ratio in view of the party's financial and venue constraints.
+
 ## Key points
 
 - The General Council meeting in Delhi on June 9–10, 1974, unanimously welcomed efforts to bring parties together into a National Alternative.

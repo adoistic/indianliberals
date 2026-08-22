@@ -56,6 +56,12 @@ summary: |-
   The party decided not to support routine no-confidence motions, while participating in debate and voting for such motions if they were admitted. It supported raising the Chanda Committee's report on All India Radio, opposed proposed constitutional amendments regulating gubernatorial powers, and supported banning Naxalites while objecting to extending preventive detention legislation across India. The minutes also record efforts to form a four-party parliamentary bloc with Congress (O), the BKD, and the Jan Sangh, opposition to the Shiv Sena candidate as a possible anti-Communist instrument, and decisions on adjournment motions concerning West Bengal, rising prices, Uttar Pradesh, and the controversy surrounding Lal Bahadur Shastri's death. The meeting concluded by requiring party permission before members tabled no-confidence motions.
 ---
 
+## Summary
+
+These minutes record a General Body meeting of the Swatantra Party in Parliament on 8 November 1970, held shortly after the deaths of Sardar Basant Singh and former Mysore Unit president Shri Jinaraj Hegde. President Minoo Masani reported decisions of the Central Parliamentary Board and National Executive concerning parliamentary tactics, broadcasting, constitutional amendments, extremism, preventive detention, the Bonus Act, opposition coordination, and the Shiv Sena's candidate in a parliamentary by-election.
+
+The party decided not to support routine no-confidence motions, while participating in debate and voting for such motions if they were admitted. It supported raising the Chanda Committee's report on All India Radio, opposed proposed constitutional amendments regulating gubernatorial powers, and supported banning Naxalites while objecting to extending preventive detention legislation across India. The minutes also record efforts to form a four-party parliamentary bloc with Congress (O), the BKD, and the Jan Sangh, opposition to the Shiv Sena candidate as a possible anti-Communist instrument, and decisions on adjournment motions concerning West Bengal, rising prices, Uttar Pradesh, and the controversy surrounding Lal Bahadur Shastri's death. The meeting concluded by requiring party permission before members tabled no-confidence motions.
+
 ## Key points
 
 - The Swatantra Party's General Body met in Parliament House on 8 November 1970.

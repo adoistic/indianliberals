@@ -49,6 +49,12 @@ summary: |-
   The appeal presents member contributions as necessary for the smooth functioning of the Party's Parliamentary Office and asks members to state both the amount they will pay and the manner of payment. The document is signed by R. K. Amin as Secretary; no author byline is printed.
 ---
 
+## Summary
+
+This one-page Swatantra Party Parliamentary Office circular, dated May 5, 1970, appeals to all party members for voluntary contributions to clear outstanding bills exceeding Rs. 7,000. It proposes a minimum special contribution of Rs. 100, payable in two instalments of Rs. 50 during the current and next sessions, while welcoming larger contributions.
+
+The appeal presents member contributions as necessary for the smooth functioning of the Party's Parliamentary Office and asks members to state both the amount they will pay and the manner of payment. The document is signed by R. K. Amin as Secretary; no author byline is printed.
+
 ## Key points
 
 - The document is an internal Swatantra Party appeal to all members.

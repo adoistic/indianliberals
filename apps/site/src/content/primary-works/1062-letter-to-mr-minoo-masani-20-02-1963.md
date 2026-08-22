@@ -52,6 +52,14 @@ summary: |-
   Rajaji closes with the political rationale for accepting the challenge despite thin resources: "The stakes are high and there is no alternative but to accept the challenge if our party is to be kept before the public eye." A handwritten postscript thanks Masani for airfreighting an article expected to arrive by the night plane.
 ---
 
+## Summary
+
+C. Rajagopalachari writes from his Madras residence at 60, Bazlullah Road, Tyagarayanagar on 20 February 1963 to Minoo Masani, General Secretary of the Swatantra Party in Bombay. He opens by voicing his dismay at learning the party lacks the funds to advertise a resolution. He had believed that advertising the Swatantra statement on foreign policy and its appraisal of the Congress Government's administration would land as a striking public intervention at a decisive moment in the electorate's thinking, and its shelving for want of money leaves him "depressed."
+
+The letter then pivots to a phone briefing from Sri Sadasivam about the pending Parliamentary by-elections. Rajaji tells Masani he "can't help taking up the challenge": one of the vacant seats must be contested by the Swatantra Party. Counting six vacancies reported in the Hindustan Times — three in U.P., one in Mysore (Datar's seat), one in M.P., and one in Gujarat — he flags the Gujarat seat as the winnable target, urging Masani to move quickly, settle the choice, and plan a finance drive that he believes will attract good response.
+
+Rajaji closes with the political rationale for accepting the challenge despite thin resources: "The stakes are high and there is no alternative but to accept the challenge if our party is to be kept before the public eye." A handwritten postscript thanks Masani for airfreighting an article expected to arrive by the night plane.
+
 ## Key points
 
 - Private letter from C. Rajagopalachari to Minoo Masani, General Secretary of the Swatantra Party, dated 20 February 1963, sent from Rajaji's Madras address and stamped received on 23 February 1963.

@@ -49,6 +49,12 @@ summary: |-
   Reddy also supplies historical leads for the project, identifying V. T. Srinivasan as secretary and K. H. Srinivasan as vice-president of the Swatantra Party’s Bangalore unit, and Hegde as president of the Karnataka unit. He closes by offering to meet Raju and provide any information required for the doctorate. The accompanying envelope is addressed to S. V. Raju at Mahatma Gandhi Road, Bombay.
 ---
 
+## Summary
+
+This 1985 letter from B. V. Narayana Reddy to S. V. Raju concerns Raju’s proposed doctoral research at the University of Bombay on the Swatantra Party during 1967–1974. Reddy offers to provide papers in his possession relating to payments made toward the party’s expenses, while acknowledging that these financial records may have limited usefulness for the dissertation.
+
+Reddy also supplies historical leads for the project, identifying V. T. Srinivasan as secretary and K. H. Srinivasan as vice-president of the Swatantra Party’s Bangalore unit, and Hegde as president of the Karnataka unit. He closes by offering to meet Raju and provide any information required for the doctorate. The accompanying envelope is addressed to S. V. Raju at Mahatma Gandhi Road, Bombay.
+
 ## Key points
 
 - The letter responds to S. V. Raju’s decision to pursue a doctorate at the University of Bombay.

@@ -51,6 +51,12 @@ summary: |-
   Patel proposes a preparatory meeting in Delhi on 26 March at his house, B-II/251 Vinay Marg, and asks Masani to reserve the whole day and join him for lunch. The letter closes with a personal appeal that Masani make a special effort to attend. Handwritten annotations are visible on the page, but their full significance cannot be established from the rendered document alone.
 ---
 
+## Summary
+
+This untitled letter, dated 17 March 1972 and written on Swatantra Party Parliamentary Office letterhead, is from H. M. Patel to M. R. Masani. Patel argues that the results of the recent elections make it necessary for party leaders to meet and consider the Swatantra Party’s future before the General Council convenes in Bombay on 8–9 April.
+
+Patel proposes a preparatory meeting in Delhi on 26 March at his house, B-II/251 Vinay Marg, and asks Masani to reserve the whole day and join him for lunch. The letter closes with a personal appeal that Masani make a special effort to attend. Handwritten annotations are visible on the page, but their full significance cannot be established from the rendered document alone.
+
 ## Key points
 
 - H. M. Patel writes to M. R. Masani after the Swatantra Party’s election results.

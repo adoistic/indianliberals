@@ -58,6 +58,10 @@ summary: |-
   This two-page record reports the combined meeting of the Swatantra Party’s National Executive and National General Council, held in Madras on 29 November 1975 under the chairmanship of G. K. Sundaram. The opening discussion reviewed the party’s response to the Emergency, including legal challenges to censorship and the detention of political opponents, political conditions in Orissa, Karnataka, Maharashtra and Kerala, the extension of the Tamil Nadu legislature, and possible reorganisation of the party. The meeting also recorded concern about the party symbol and disagreement with proposals to work inside the Congress.
 ---
 
+## Summary
+
+This two-page record reports the combined meeting of the Swatantra Party’s National Executive and National General Council, held in Madras on 29 November 1975 under the chairmanship of G. K. Sundaram. The opening discussion reviewed the party’s response to the Emergency, including legal challenges to censorship and the detention of political opponents, political conditions in Orissa, Karnataka, Maharashtra and Kerala, the extension of the Tamil Nadu legislature, and possible reorganisation of the party. The meeting also recorded concern about the party symbol and disagreement with proposals to work inside the Congress.
+
 ## Key points
 
 - The two national bodies agreed to meet jointly rather than separately.

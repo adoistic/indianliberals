@@ -48,6 +48,12 @@ summary: |-
   He redirects Yadav to Bhanu Pratap Singh, the party's former Uttar Pradesh leader who was then still a sitting member of the Rajya Sabha, and suggests that the work of revival should be led by figures "still in their fifties." Masani closes by offering his own help if such a group takes the initiative. The document is a small but pointed piece of biographical evidence about Masani's late-life view of Swatantra: the baton should pass to a younger cohort, and he names a specific successor to approach.
 ---
 
+## Summary
+
+A brief typed letter dated 18 September 1981 from Minoo Masani (M. R. Masani) to Mr. Tejnarain Yadav of Patna, replying to Yadav's letter of 8 September. Yadav had evidently urged Masani to revive the Swatantra Party or launch a new party in its place. Masani declines, saying it is not within his capacities "at this stage" — a candid acknowledgement of his age (he was seventy-six in 1981) and appetite for the task.
+
+He redirects Yadav to Bhanu Pratap Singh, the party's former Uttar Pradesh leader who was then still a sitting member of the Rajya Sabha, and suggests that the work of revival should be led by figures "still in their fifties." Masani closes by offering his own help if such a group takes the initiative. The document is a small but pointed piece of biographical evidence about Masani's late-life view of Swatantra: the baton should pass to a younger cohort, and he names a specific successor to approach.
+
 ## Key points
 
 - One-page typed letter from M. R. Masani, dated 18 September 1981, to Mr. Tejnarain Yadav (c/o Upkar Motor Garage, Boring Canal Road, Patna).

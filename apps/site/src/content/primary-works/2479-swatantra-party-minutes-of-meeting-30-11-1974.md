@@ -53,6 +53,10 @@ summary: |-
   This two-page English meeting record documents a meeting of Swatantra Party workers held at the party office in Kalyan on 30 November 1974. It lists twelve attendees and records preparations for the party’s General Council meeting in Madras on 8 December, including efforts to secure delegates from the Maharashtra unit. It also outlines local meetings planned around C. Rajagopalachari’s 96th birth anniversary, including a Matunga meeting to be addressed by Minoo Masani.
 ---
 
+## Summary
+
+This two-page English meeting record documents a meeting of Swatantra Party workers held at the party office in Kalyan on 30 November 1974. It lists twelve attendees and records preparations for the party’s General Council meeting in Madras on 8 December, including efforts to secure delegates from the Maharashtra unit. It also outlines local meetings planned around C. Rajagopalachari’s 96th birth anniversary, including a Matunga meeting to be addressed by Minoo Masani.
+
 ## Key points
 
 - The meeting concerned Swatantra Party organisation and mobilisation in Maharashtra.

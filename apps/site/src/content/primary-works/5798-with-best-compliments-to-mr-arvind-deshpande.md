@@ -46,6 +46,10 @@ summary: |-
   This one-page English office communication is a typed compliments slip addressed to Shri Arvind Deshpande at the Leslie Sawhny Programme, Army Navy Building, Mahatma Gandhi Road, Bombay-400 023. It carries no substantive body text, date, title, or formal closing. The sender block identifies K. Ganesan as Secretary of the Expert Committee on Electoral Reform in the Ministry of Law's Legislative Department, with an address in New Delhi.
 ---
 
+## Summary
+
+This one-page English office communication is a typed compliments slip addressed to Shri Arvind Deshpande at the Leslie Sawhny Programme, Army Navy Building, Mahatma Gandhi Road, Bombay-400 023. It carries no substantive body text, date, title, or formal closing. The sender block identifies K. Ganesan as Secretary of the Expert Committee on Electoral Reform in the Ministry of Law's Legislative Department, with an address in New Delhi.
+
 ## Key points
 
 - The document is a one-page typed office communication headed "With Best Compliments".

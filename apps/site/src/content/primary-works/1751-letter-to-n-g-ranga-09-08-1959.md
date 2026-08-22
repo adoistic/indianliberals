@@ -50,6 +50,12 @@ summary: |-
   The letter informs its recipient that they have been nominated to the committee and requests attendance at a meeting scheduled for Sunday, 23 August, at 10 a.m. at 143 Mahatma Gandhi Road, Bombay 1. Signed by Shri N. G. Ranga, M.P., it also notes that similar letters were sent to K. M. Munshi, Dahayabhai Patel, and T. G. Krishnamoorthi.
 ---
 
+## Summary
+
+This one-page English letter, dated 9 August 1959 and headed “Constitution Committee,” records a resolution passed at the Swatantra Party Convention in Bombay on 1–2 August. The resolution authorised the Party Leader to nominate a committee to prepare a draft constitution for consideration at the next Convention.
+
+The letter informs its recipient that they have been nominated to the committee and requests attendance at a meeting scheduled for Sunday, 23 August, at 10 a.m. at 143 Mahatma Gandhi Road, Bombay 1. Signed by Shri N. G. Ranga, M.P., it also notes that similar letters were sent to K. M. Munshi, Dahayabhai Patel, and T. G. Krishnamoorthi.
+
 ## Key points
 
 - The document is a letter dated 9 August 1959 titled “Constitution Committee.”

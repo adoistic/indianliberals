@@ -52,6 +52,12 @@ summary: |-
   In the rendered pages, the first chapter measures these needs through food, clothing, housing, public health and education. In the rendered pages, Masani uses statistics, international comparisons and simplified illustrations to argue that India falls substantially short of basic requirements: food production provides less than the proposed calorie standard, clothing consumption is low, urban housing is severely overcrowded, life expectancy and infant mortality compare poorly with other countries, medical provision is inadequate, and literacy is very limited. In the rendered pages, the proposed response combines higher production with public-health provision, village and urban housing construction, medical services, and mass education. The remaining chapters listed in the contents—on the fifteen-year outcome, resources, distribution and implementation—were not rendered.
 ---
 
+## Summary
+
+In the rendered pages, Minoo Masani introduces an illustrated plan for India’s development over fifteen years. In the rendered pages, he presents planning as a democratic effort to make citizens understand both the country’s material needs and the practical possibilities of freedom, while acknowledging that readers may dispute particular figures. In the rendered pages, the plan is framed as a response to poverty, hunger, disease, inadequate housing and ignorance, and as an attempt to define a realistic minimum standard of living rather than an ideal level of consumption.
+
+In the rendered pages, the first chapter measures these needs through food, clothing, housing, public health and education. In the rendered pages, Masani uses statistics, international comparisons and simplified illustrations to argue that India falls substantially short of basic requirements: food production provides less than the proposed calorie standard, clothing consumption is low, urban housing is severely overcrowded, life expectancy and infant mortality compare poorly with other countries, medical provision is inadequate, and literacy is very limited. In the rendered pages, the proposed response combines higher production with public-health provision, village and urban housing construction, medical services, and mass education. The remaining chapters listed in the contents—on the fifteen-year outcome, resources, distribution and implementation—were not rendered.
+
 ## Key points
 
 - In the rendered pages, the pamphlet explains a fifteen-year development plan for a future free India.

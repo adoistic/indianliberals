@@ -54,3 +54,9 @@ summary: |-
   
   The editorial attributes India’s uncertainty to the political elite’s timidity, imitation of foreign models, and failure to understand parties as social phenomena rooted in changing ideas and socio-economic processes. It warns that concentrated economic power and restrictions on individual rights threaten the public, while concluding that India lacks a political force capable of mobilising society around a determined programme. The future is therefore presented as uncertain and unpredictable, though the editorial qualifies this as a pessimistic assessment of the situation visible at the time.
 ---
+
+## Summary
+
+The two rendered pages contain an unsigned editorial, “Uncertain Future,” from the periodical United Asia. It examines India’s political situation after the third general election, arguing that the Congress’s electoral dominance, the weakness of the opposition, and the absence of a viable alternative party reflect deeper intellectual and organisational failures among political leaders. The editorial rejects mechanical schemes for reducing the number of parties or importing the British two-party model, and treats one-party, non-party, and caste-based alternatives as inadequate or dangerous.
+
+The editorial attributes India’s uncertainty to the political elite’s timidity, imitation of foreign models, and failure to understand parties as social phenomena rooted in changing ideas and socio-economic processes. It warns that concentrated economic power and restrictions on individual rights threaten the public, while concluding that India lacks a political force capable of mobilising society around a determined programme. The future is therefore presented as uncertain and unpredictable, though the editorial qualifies this as a pessimistic assessment of the situation visible at the time.

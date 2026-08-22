@@ -48,6 +48,12 @@ summary: |-
   The scanned item also preserves an enclosed handwritten letter from Budhi Prakash to Raju, dated April 12, and its inland-letter-card cover. The handwriting is partly difficult to read, but it appears to acknowledge Raju’s earlier letter, report that the writer is alive, and state that he has no present concern with “B2D.” The principal letter is fully visible; the enclosure is included as documentary context but is not entirely legible.
 ---
 
+## Summary
+
+This archival item is a typed letter from S. V. Raju to Budhi Prakash, dated May 2, 1975, concerning the continuation of the Swatantra Party after its dissolution. Raju questions whether the party can be kept alive, even symbolically, in Himachal Pradesh, and identifies G. K. Sundaram as its president and Garish Munshi as general secretary there. He also reports renewed interest in party work from I. S. Bhargava in Rajasthan and from several people in Uttar Pradesh and elsewhere in India.
+
+The scanned item also preserves an enclosed handwritten letter from Budhi Prakash to Raju, dated April 12, and its inland-letter-card cover. The handwriting is partly difficult to read, but it appears to acknowledge Raju’s earlier letter, report that the writer is alive, and state that he has no present concern with “B2D.” The principal letter is fully visible; the enclosure is included as documentary context but is not entirely legible.
+
 ## Key points
 
 - S. V. Raju’s typed letter is dated May 2, 1975, and is addressed to Budhi Prakash.

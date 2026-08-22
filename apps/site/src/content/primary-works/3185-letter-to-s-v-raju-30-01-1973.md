@@ -53,6 +53,12 @@ summary: |-
   The letter explains that U.S. immigration and naturalization law bars the issuance of a nonimmigrant visa to an applicant unable to establish an intention to leave the United States after a temporary visit or completion of its purpose. It notes that applicants generally demonstrate this intention through financial, cultural, or family ties outside the United States, and that eligibility is most easily assessed by the U.S. mission with jurisdiction over the applicant's place of residence. Bane acknowledges that Raju apparently was not given an interview opportunity in Toronto, attributes this possibly to workload or other extenuating circumstances, and assures him that he will receive courtesy and consideration at the U.S. Consulate General in Bombay.
 ---
 
+## Summary
+
+This two-page letter, dated January 30, 1973, is addressed by David Bane, American Consul General in Bombay, to S. V. Raju, Executive Secretary of the Swatantra Party. Bane responds to Raju's report of difficulties at the United States Consulate General in Toronto, expressing regret for what he calls the apparently cavalier treatment accorded to him and offering a possible explanation for it.
+
+The letter explains that U.S. immigration and naturalization law bars the issuance of a nonimmigrant visa to an applicant unable to establish an intention to leave the United States after a temporary visit or completion of its purpose. It notes that applicants generally demonstrate this intention through financial, cultural, or family ties outside the United States, and that eligibility is most easily assessed by the U.S. mission with jurisdiction over the applicant's place of residence. Bane acknowledges that Raju apparently was not given an interview opportunity in Toronto, attributes this possibly to workload or other extenuating circumstances, and assures him that he will receive courtesy and consideration at the U.S. Consulate General in Bombay.
+
 ## Key points
 
 - David Bane responds to S. V. Raju's complaint about treatment at the U.S. Consulate General in Toronto.

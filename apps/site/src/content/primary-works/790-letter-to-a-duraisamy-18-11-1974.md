@@ -49,6 +49,12 @@ summary: |-
   The letter argues that effective political work requires more than formal conventions: it depends on initiating activity at the grassroots level. It therefore combines encouragement of participation in a contemporary political movement with a practical referral to help build local organisation.
 ---
 
+## Summary
+
+In this letter dated 18 November 1974, M. R. Masani thanks A. Duraisamy for writing about the movement launched by Jayaprakash Narayan. Masani expresses satisfaction at Duraisamy’s interest and directs him to write to V. M. Tarkunde in New Delhi, who can connect him with people involved in Madras.
+
+The letter argues that effective political work requires more than formal conventions: it depends on initiating activity at the grassroots level. It therefore combines encouragement of participation in a contemporary political movement with a practical referral to help build local organisation.
+
 ## Key points
 
 - The letter is dated 18 November 1974 and is signed by M. R. Masani.

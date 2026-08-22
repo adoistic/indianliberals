@@ -51,6 +51,12 @@ summary: |-
   The second resolution addresses members who were reportedly attempting to continue operating under the Swatantra Party's name. It asserts that only one Swatantra Party existed, reaffirms the decision taken at the party's August 5 National Convention to merge with the Bharatiya Lok Dal, and denies any person or group the right to claim the party's identity, rights, or assets after the merger. The document is signed by V. P. Bhatia as Executive Secretary.
 ---
 
+## Summary
+
+This single-page National Headquarters circular, dated August 29, 1974, records two resolutions adopted at the Swatantra Party's National Executive meeting in New Delhi on August 28. The first authorizes party president Piloo Mody to declare the Swatantra Party's merger with the Bharatiya Lok Dal (People's Party of India) at the latter's inaugural function on August 29, and provides for the transfer of the Swatantra Party's rights, assets, and liabilities to the Bharatiya Lok Dal.
+
+The second resolution addresses members who were reportedly attempting to continue operating under the Swatantra Party's name. It asserts that only one Swatantra Party existed, reaffirms the decision taken at the party's August 5 National Convention to merge with the Bharatiya Lok Dal, and denies any person or group the right to claim the party's identity, rights, or assets after the merger. The document is signed by V. P. Bhatia as Executive Secretary.
+
 ## Key points
 
 - The circular transmits two resolutions adopted by the Swatantra Party's National Executive on August 28, 1974.

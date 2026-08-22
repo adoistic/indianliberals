@@ -50,6 +50,12 @@ summary: |-
   Jain recalls that the PSP had moved a no-confidence motion during the previous session concerning Pakistan’s aggression in the Rann of Kutch, which the group opposed because it had been presented without prior consultation. He proposes coordinating with opposition leaders to secure the minimum 50 votes required under the Rules. The letter also notes that the Jan Sangh, PSP, Socialist, and independent groups led by Prakash Vir Shastri have decided to table a separate no-confidence motion on the Kutch agreement, making opposition coordination difficult and prompting Jain to urge careful procedural strategy.
 ---
 
+## Summary
+
+In this letter dated July 26, 1965, A. P. Jain writes to N. Dandekar about the Lok Sabha Secretariat’s decision not to accept advance notices of adjournment motions, urgent public-importance motions, or a no-confidence motion before the session’s business list is circulated. Jain explains that the first day’s business is expected to be circulated only shortly before the session begins, and asks Dandekar to sign and return an enclosed letter, also obtain Minoo Masani’s signature, so that the proposed motion can be submitted promptly.
+
+Jain recalls that the PSP had moved a no-confidence motion during the previous session concerning Pakistan’s aggression in the Rann of Kutch, which the group opposed because it had been presented without prior consultation. He proposes coordinating with opposition leaders to secure the minimum 50 votes required under the Rules. The letter also notes that the Jan Sangh, PSP, Socialist, and independent groups led by Prakash Vir Shastri have decided to table a separate no-confidence motion on the Kutch agreement, making opposition coordination difficult and prompting Jain to urge careful procedural strategy.
+
 ## Key points
 
 - The Lok Sabha Secretariat has disallowed advance notice of certain motions before the day’s business list is circulated.

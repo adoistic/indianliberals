@@ -50,6 +50,10 @@ summary: |-
   In the rendered pages, the editorial describes the Bihar Swatantra Party's gains in the 1962 general elections and its emergence as the principal opposition party in the Bihar Vidhan Sabha. It attributes the party's improved performance to growing anti-Congress sentiment, Congress infighting, and the isolation of liberal-minded people within the Congress Party, while noting that the party's influence had extended beyond its earlier stronghold in Hazaribagh. The Congress lost seats, while the Jharkhand Party's strength also declined.
 ---
 
+## Summary
+
+In the rendered pages, the editorial describes the Bihar Swatantra Party's gains in the 1962 general elections and its emergence as the principal opposition party in the Bihar Vidhan Sabha. It attributes the party's improved performance to growing anti-Congress sentiment, Congress infighting, and the isolation of liberal-minded people within the Congress Party, while noting that the party's influence had extended beyond its earlier stronghold in Hazaribagh. The Congress lost seats, while the Jharkhand Party's strength also declined.
+
 ## Key points
 
 - The Bihar Swatantra Party gained strength and important seats in the 1962 general elections.

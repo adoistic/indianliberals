@@ -51,6 +51,12 @@ summary: |-
   The second rendered page reproduces Aney's preceding letter, dated 8 April 1962. Aney explains that illness prevented him from attending the Swatantra Party convention in Bombay after receiving a telegram from Shri Minoo Masani. He describes consulting the Executive Committee of the Nag-Vidarbha Andolan Samiti about whether he should join the Swatantra Party as a full or associate member, or remain an unattached independent member in the Lok Sabha. The committee advised him to remain independent and not join the party. The document therefore records a contemporary debate over party affiliation, independent parliamentary status, and political support.
 ---
 
+## Summary
+
+This two-page correspondence document contains a letter from C. Rajagopalachari dated 11 April 1962, replying to Dr. M. S. Aney in Nagpur. Rajagopalachari thanks Aney for the information and expresses hope that, whether Aney sits apart from or with Rajagopalachari's political group, he will continue to support them. The brief reply is signed “sd. C.R.”
+
+The second rendered page reproduces Aney's preceding letter, dated 8 April 1962. Aney explains that illness prevented him from attending the Swatantra Party convention in Bombay after receiving a telegram from Shri Minoo Masani. He describes consulting the Executive Committee of the Nag-Vidarbha Andolan Samiti about whether he should join the Swatantra Party as a full or associate member, or remain an unattached independent member in the Lok Sabha. The committee advised him to remain independent and not join the party. The document therefore records a contemporary debate over party affiliation, independent parliamentary status, and political support.
+
 ## Key points
 
 - Rajagopalachari's reply is dated 11 April 1962 and addressed to Dr. M. S. Aney in Nagpur.

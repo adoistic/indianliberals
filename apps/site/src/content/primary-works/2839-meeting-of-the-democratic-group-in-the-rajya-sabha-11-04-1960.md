@@ -51,6 +51,12 @@ summary: |-
   The meeting also decided to propose Dahyabhai Patel for a vacancy on the Joint Select Committee on Company Law, Mirza Ahmad Ali for the Joint Select Committee on the Delhi Primary Education Bill, 1960, and Jaswant Singh for the Business Advisory Committee. It thanked Dahyabhai Patel for enlarging the group's membership and resolved that the Leader, Deputy Leader, and Secretary should meet the Chairman to explain the group's position in the House. The second page lists fourteen members, their party affiliations, and the states they represented, including Swatantra, Jan Sangh, Ganatantra Parishad, Jharkhand, and Independent affiliations.
 ---
 
+## Summary
+
+These two-page typed minutes record a meeting of the Democratic Group in the Rajya Sabha held in the Opposition Members' Room at Parliament House on 11 April 1960 at 12:30 p.m. The first page lists eight attendees and records the confirmation of the previous meeting's proceedings. Dahyabhai Patel was elected Leader, Jaswant Singh Deputy Leader, Anand Chand Secretary-cum-Whip, and Harihar Patel Joint Secretary-cum-Deputy Whip.
+
+The meeting also decided to propose Dahyabhai Patel for a vacancy on the Joint Select Committee on Company Law, Mirza Ahmad Ali for the Joint Select Committee on the Delhi Primary Education Bill, 1960, and Jaswant Singh for the Business Advisory Committee. It thanked Dahyabhai Patel for enlarging the group's membership and resolved that the Leader, Deputy Leader, and Secretary should meet the Chairman to explain the group's position in the House. The second page lists fourteen members, their party affiliations, and the states they represented, including Swatantra, Jan Sangh, Ganatantra Parishad, Jharkhand, and Independent affiliations.
+
 ## Key points
 
 - The meeting was held in Parliament House on 11 April 1960 at 12:30 p.m.

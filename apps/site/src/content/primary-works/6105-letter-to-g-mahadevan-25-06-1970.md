@@ -50,6 +50,12 @@ summary: |-
   In his letter dated 25 June 1970, S. V. Raju replies to G. Mahadevan that Masani cannot attend because his commitments to the Party’s National Executive and General Council have been rescheduled. Raju nevertheless forwards Masani’s attached message for the souvenir; the message itself is not included in the two rendered pages.
 ---
 
+## Summary
+
+This two-page correspondence records an exchange concerning an invitation to the fifth annual conference and seminar of the Co-Ordinating Committee of Independent Trade Unions (Southern Zone), scheduled to take place in Madras from 14 to 16 July 1970. In the invitation dated 17 June, the committee asks M. R. Masani to send a message for a commemorative souvenir.
+
+In his letter dated 25 June 1970, S. V. Raju replies to G. Mahadevan that Masani cannot attend because his commitments to the Party’s National Executive and General Council have been rescheduled. Raju nevertheless forwards Masani’s attached message for the souvenir; the message itself is not included in the two rendered pages.
+
 ## Key points
 
 - The document comprises an invitation dated 17 June 1970 and a reply dated 25 June 1970.

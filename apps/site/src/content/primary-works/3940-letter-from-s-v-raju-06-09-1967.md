@@ -53,6 +53,10 @@ summary: |-
   This four-page Swatantra Party Central Office bundle contains internal administrative communications dated September 5–6, 1967. Two supplements, signed by Executive Secretary S. V. Raju, arrange hotel accommodation, return travel reservations, and informal lunches for members attending the Central Parliamentary Board and National Executive meetings in Madras on September 29–30. Both letters direct recipients to contact T. Sadasivam in Madras by September 12 and to provide their travel requirements.
 ---
 
+## Summary
+
+This four-page Swatantra Party Central Office bundle contains internal administrative communications dated September 5–6, 1967. Two supplements, signed by Executive Secretary S. V. Raju, arrange hotel accommodation, return travel reservations, and informal lunches for members attending the Central Parliamentary Board and National Executive meetings in Madras on September 29–30. Both letters direct recipients to contact T. Sadasivam in Madras by September 12 and to provide their travel requirements.
+
 ## Key points
 
 - The bundle consists of Swatantra Party Central Office circulars and an attached tabular proposal.

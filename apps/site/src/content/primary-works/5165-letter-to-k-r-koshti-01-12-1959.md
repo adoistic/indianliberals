@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated 1 December 1959 and signed by M. R. Masani, responds to Mr. K. R. Koshti of the Swatantra Party. Masani agrees to address two hall meetings, provided they are held after 6 p.m.; he offers to speak in English and asks Koshti to confirm the engagements and provide the venue details.
 ---
 
+## Summary
+
+This one-page letter, dated 1 December 1959 and signed by M. R. Masani, responds to Mr. K. R. Koshti of the Swatantra Party. Masani agrees to address two hall meetings, provided they are held after 6 p.m.; he offers to speak in English and asks Koshti to confirm the engagements and provide the venue details.
+
 ## Key points
 
 - Masani acknowledges Koshti's letter of 26 November addressed to A. D. Shroff.

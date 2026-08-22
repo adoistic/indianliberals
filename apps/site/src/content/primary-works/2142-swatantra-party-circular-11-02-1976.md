@@ -57,6 +57,12 @@ summary: |-
   The circular also conveys the leadership's view of the wider political situation. It criticizes one-sided propaganda and expresses confidence that informed public opinion will eventually produce wider discussion and consensus. An enclosed press statement argues that clean, honest, democratic, and efficient government is necessary for national progress, condemns corruption, and welcomes—while calling belated—the Government of India's appointment of a one-man commission to investigate allegations against former ministers of the erstwhile DMK ministry. It urges similar inquiries into corruption allegations against ministers and former ministers across party affiliations.
 ---
 
+## Summary
+
+This 11 February 1976 Swatantra Party circular, signed by G. K. Sundaram as President of the All India Swatantra Party, urges party workers to maintain constitutional, non-violent democratic methods during the political crisis in Tamil Nadu. It describes the party's opposition to violent agitation and its continued adherence to lawful political activity, while noting that the dissolution of the Tamil Nadu Legislative Assembly and the imposition of President's Rule had sharply restricted public meetings and other political work. Workers are advised to focus on individual or small-group contact, propagate party principles, recruit members, and avoid violating official prohibitions.
+
+The circular also conveys the leadership's view of the wider political situation. It criticizes one-sided propaganda and expresses confidence that informed public opinion will eventually produce wider discussion and consensus. An enclosed press statement argues that clean, honest, democratic, and efficient government is necessary for national progress, condemns corruption, and welcomes—while calling belated—the Government of India's appointment of a one-man commission to investigate allegations against former ministers of the erstwhile DMK ministry. It urges similar inquiries into corruption allegations against ministers and former ministers across party affiliations.
+
 ## Key points
 
 - The circular reaffirms the Swatantra Party's commitment to constitutional methods, peaceful demonstrations, and non-violence.

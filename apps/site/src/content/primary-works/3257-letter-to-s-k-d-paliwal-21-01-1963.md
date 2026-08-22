@@ -48,6 +48,12 @@ summary: |-
   Masani asks Paliwal to indicate whether he wants alterations to the report. In the absence of a response by the end of January, Masani will assume that Paliwal approves the report without changes and will arrange its distribution to C.O.C. members. The letter records an internal party process of reviewing, approving, and circulating an organisational report; it includes one enclosure.
 ---
 
+## Summary
+
+This one-page letter, dated 21 January 1963, is from M. R. Masani to S. K. D. Paliwal, identified as President of the Swatantra Party in Uttar Pradesh. Masani reports that Rajaji and Munshi have prepared a factual report for the Organisation Sub-Committee, which met in Madras the previous week. The report is intended for endorsement by the Central Organising Committee (C.O.C.) and subsequent transmission to the General Council, subject to any changes the C.O.C. may make.
+
+Masani asks Paliwal to indicate whether he wants alterations to the report. In the absence of a response by the end of January, Masani will assume that Paliwal approves the report without changes and will arrange its distribution to C.O.C. members. The letter records an internal party process of reviewing, approving, and circulating an organisational report; it includes one enclosure.
+
 ## Key points
 
 - M. R. Masani wrote to S. K. D. Paliwal on 21 January 1963.

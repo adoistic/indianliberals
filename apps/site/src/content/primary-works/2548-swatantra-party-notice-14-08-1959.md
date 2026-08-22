@@ -52,6 +52,14 @@ summary: |-
   The committee assigned convenors and liaison officers for publicity and press, fund-raising, meetings, and constituency organisation and enrolment. It approved a constituency-organisation plan, proposed Citizens’ Bureaux in various wards, arranged a flag-salutation ceremony and a public symposium titled “Why I welcome the Swatantra Party,” and recognised the need for a full-time executive secretary. The circular therefore documents the party’s early efforts to build an organisational structure in Bombay while establishing procedures for finance, publicity, recruitment, and local activity.
 ---
 
+## Summary
+
+This Swatantra Party circular, issued from the Bombay office on 14 August 1959, announces a meeting of the Organising Committee of Greater Bombay scheduled for 21 August at the party office. It is signed by D. Lynn, identified as honorary secretary.
+
+Attached minutes record an organising-committee meeting held on 12 August. Members agreed that the Central Organising Committee should define the party’s financial policy, particularly the allocation of funds. They approved printing 10,000 English copies of the Convention Handbook, with regional-language editions where appropriate, and sanctioned Rs. 10,000 for the purpose. The minutes also address delays in printing membership forms, proposing temporary forms and receipts so enrolment could begin without further delay.
+
+The committee assigned convenors and liaison officers for publicity and press, fund-raising, meetings, and constituency organisation and enrolment. It approved a constituency-organisation plan, proposed Citizens’ Bureaux in various wards, arranged a flag-salutation ceremony and a public symposium titled “Why I welcome the Swatantra Party,” and recognised the need for a full-time executive secretary. The circular therefore documents the party’s early efforts to build an organisational structure in Bombay while establishing procedures for finance, publicity, recruitment, and local activity.
+
 ## Key points
 
 - The notice calls the Greater Bombay Organising Committee to meet on 21 August 1959.

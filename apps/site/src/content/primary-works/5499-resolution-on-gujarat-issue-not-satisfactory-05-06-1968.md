@@ -51,6 +51,12 @@ summary: |-
   Masani warned that the party’s recent electoral reverses reflected a failure to restore its credibility. He called for members to be educated and for the party’s “demoralisation” to be eliminated through ethical and disciplined methods, while arguing that those not burdened by administrative responsibilities could undertake this work. The report ends with his prediction that the party would remain at a crossroads for several months.
 ---
 
+## Summary
+
+This one-page newspaper report records M. R. Masani’s remarks after a Swatantra Party meeting in Madras on 3 June 1968. Masani said the party’s National Executive had abandoned the short-term expediency that had marked its earlier decisions and reported that two proposed resolutions intended to address the Gujarat dispute and allegations against the party leadership had been defeated. He therefore declined an offer to be re-elected to the Executive seat he had vacated.
+
+Masani warned that the party’s recent electoral reverses reflected a failure to restore its credibility. He called for members to be educated and for the party’s “demoralisation” to be eliminated through ethical and disciplined methods, while arguing that those not burdened by administrative responsibilities could undertake this work. The report ends with his prediction that the party would remain at a crossroads for several months.
+
 ## Key points
 
 - M. R. Masani criticised the decisions of the Swatantra Party’s National Executive in Madras as a retreat from its earlier short-term expediency.

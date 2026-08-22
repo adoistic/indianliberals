@@ -47,6 +47,12 @@ summary: |-
   The substance of the letter clarifies an internal-party procedural point: the nomination of a State President is a prerogative of the Central Organising Committee and will remain so "until Party elections take place." On this footing, Masani advises Bhailal that when the Gujarat State Executive meets on the 16th, its proper role is only to recommend a nominee for Working President to the Centre, rather than to elect one outright. Masani indicates that he has been informed the Gujarat colleagues have the Raja of Baria in mind for the post, and signals that such a recommendation would in his view secure the Central Organising Committee's approval. The letter is signed off cordially in Masani's own hand.
 ---
 
+## Summary
+
+This one-page typewritten letter, dated 13 June 1963, is a personal note from Minoo (M. R.) Masani to Bhailal D. Patel, the President of the Gujarat unit of the Swatantra Party at Vallabh Vidyanagar. Masani opens by expressing satisfaction that at their recent meeting Bhailal agreed to continue as Leader of the Opposition in Gujarat until 1967 and to remain on the party's Central Organising Committee and Parliamentary Board.
+
+The substance of the letter clarifies an internal-party procedural point: the nomination of a State President is a prerogative of the Central Organising Committee and will remain so "until Party elections take place." On this footing, Masani advises Bhailal that when the Gujarat State Executive meets on the 16th, its proper role is only to recommend a nominee for Working President to the Centre, rather than to elect one outright. Masani indicates that he has been informed the Gujarat colleagues have the Raja of Baria in mind for the post, and signals that such a recommendation would in his view secure the Central Organising Committee's approval. The letter is signed off cordially in Masani's own hand.
+
 ## Key points
 
 - Private letter of 13 June 1963 from Minoo Masani to Bhailal D. Patel, President of the Gujarat Swatantra Party.

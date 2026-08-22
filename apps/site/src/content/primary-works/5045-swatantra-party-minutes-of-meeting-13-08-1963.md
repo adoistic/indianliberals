@@ -51,6 +51,12 @@ summary: |-
   The record also documents the election of parliamentary office-bearers for the Lok Sabha and Rajya Sabha, including Ranga as Lok Sabha Leader, Masani as Deputy Leader, P. K. Deo as Secretary, C. L. N. Reddy as Chief Whip, and other members of the executive committees. Further business concerned the rearrangement of seats and irregular subscription payments. The meeting approved a system under which members with accounts in the bank could have subscriptions deducted monthly and credited to the Parliamentary Group account, while noting that Yashpal Singh had been allowed to pay from August onward in view of his circumstances. The meeting ended with a vote of thanks to the chair.
 ---
 
+## Summary
+
+These two pages record a meeting of the Swatantra Party Parliamentary Office held in New Delhi on August 12, 1963, with Professor N. G. Ranga in the chair. The meeting opened with P. K. Deo congratulating Minoo Masani on his victory at Rajkot and describing it as a source of pride for the party. Members then discussed forming a non-confidence motion in consultation with opposition groups; the minutes state that the Parliamentary Group meeting authorised opposition leaders to commit the party to such a course on generally acceptable grounds.
+
+The record also documents the election of parliamentary office-bearers for the Lok Sabha and Rajya Sabha, including Ranga as Lok Sabha Leader, Masani as Deputy Leader, P. K. Deo as Secretary, C. L. N. Reddy as Chief Whip, and other members of the executive committees. Further business concerned the rearrangement of seats and irregular subscription payments. The meeting approved a system under which members with accounts in the bank could have subscriptions deducted monthly and credited to the Parliamentary Group account, while noting that Yashpal Singh had been allowed to pay from August onward in view of his circumstances. The meeting ended with a vote of thanks to the chair.
+
 ## Key points
 
 - The Swatantra Party Parliamentary Office met in New Delhi on August 12, 1963, under the chairmanship of Professor N. G. Ranga.

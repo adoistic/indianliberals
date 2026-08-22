@@ -49,6 +49,12 @@ summary: |-
   The forwarded message reports that the members have been called for an executive consultation the following day and that P. K. Deo, Mariswamy, and R. K. Amin express a desire to join. It asks Masani to wire his advice. The document records a brief internal communication about political consultation, parliamentary actors, and an international delegation; it does not provide further context about the delegation or the proposed meeting.
 ---
 
+## Summary
+
+This single-page English-language telegram forwarding sheet, dated December 24, 1969, is addressed to Minoo Masani at the Sardar Bagh Guest House in Rajkot. Marked “RAJU” and signed by hand, it forwards a telegram dated the 23rd from “RANGA” concerning Lok Sabha and Rajya Sabha members included in a delegation to several countries.
+
+The forwarded message reports that the members have been called for an executive consultation the following day and that P. K. Deo, Mariswamy, and R. K. Amin express a desire to join. It asks Masani to wire his advice. The document records a brief internal communication about political consultation, parliamentary actors, and an international delegation; it does not provide further context about the delegation or the proposed meeting.
+
 ## Key points
 
 - The document is a typed carbon-copy telegram forwarding sheet dated December 24, 1969.

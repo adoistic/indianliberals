@@ -47,6 +47,12 @@ summary: |-
   The letter emphasizes that local party members, Rajaji, and the secretary are eager for Masani's participation, and asks him to confirm his acceptance. A handwritten notation at the bottom records that a reply was made on 28 October 1959.
 ---
 
+## Summary
+
+This single-page English letter, dated 20 October 1959, is written on Swatantra Party (Madras State) letterhead by its secretary, S. S. Mariswamy, to M. R. Masani in Bombay. Mariswamy explains that party conventions have been postponed to accommodate Masani's convenience and invites him to attend gatherings at Madurai on 24 November 1959 and Coimbatore on 25 November 1959.
+
+The letter emphasizes that local party members, Rajaji, and the secretary are eager for Masani's participation, and asks him to confirm his acceptance. A handwritten notation at the bottom records that a reply was made on 28 October 1959.
+
 ## Key points
 
 - The letter is dated 20 October 1959 and was sent from the Swatantra Party's Madras State office.

@@ -53,6 +53,10 @@ summary: |-
   This five-page correspondence file contains two related letters from V. S. Srikumar, Joint Secretary of the Swatantra Party, to Girish Munshi, dated 20 and 23 June 1975. The letters discuss a proposal that Jayaprakash Narayan lead or coordinate a united non-Communist opposition. Srikumar distinguishes between an immediate merger of opposition parties and a looser federation, arguing that premature merger could create friction and damage the parties' credibility.
 ---
 
+## Summary
+
+This five-page correspondence file contains two related letters from V. S. Srikumar, Joint Secretary of the Swatantra Party, to Girish Munshi, dated 20 and 23 June 1975. The letters discuss a proposal that Jayaprakash Narayan lead or coordinate a united non-Communist opposition. Srikumar distinguishes between an immediate merger of opposition parties and a looser federation, arguing that premature merger could create friction and damage the parties' credibility.
+
 ## Key points
 
 - The correspondence considers how non-Communist opposition parties should cooperate in 1975.

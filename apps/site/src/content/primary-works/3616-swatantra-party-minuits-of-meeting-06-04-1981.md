@@ -50,6 +50,12 @@ summary: |-
   The committee discussed strengthening the party's finances by attracting additional donations, subject to consultation with Kejriwal. It approved an increase in Kalidas's monthly salary from Rs. 50 to Rs. 65 and a monthly honorarium of Rs. 50 for Mrs. D'Souza, effective April 1, 1981. It also agreed that a Maharashtra-wide General Body meeting should be called as soon as possible, with arrangements to be worked out by Venkiteswaran, after which the meeting terminated.
 ---
 
+## Summary
+
+This two-page English-language draft records the proceedings of the Swatantra Party's Maharashtra Executive Committee meeting held in Bombay on April 6, 1981. J. Venkiteswaran was proposed to chair the meeting in the absence of President Parmanand Kejriwal; the minutes of the January 27, 1981 meeting and the accounts for the year ending December 31, 1980 were confirmed.
+
+The committee discussed strengthening the party's finances by attracting additional donations, subject to consultation with Kejriwal. It approved an increase in Kalidas's monthly salary from Rs. 50 to Rs. 65 and a monthly honorarium of Rs. 50 for Mrs. D'Souza, effective April 1, 1981. It also agreed that a Maharashtra-wide General Body meeting should be called as soon as possible, with arrangements to be worked out by Venkiteswaran, after which the meeting terminated.
+
 ## Key points
 
 - The Maharashtra Executive Committee met in Bombay on April 6, 1981.

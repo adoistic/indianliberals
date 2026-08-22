@@ -52,3 +52,9 @@ summary: |-
   
   The accompanying Swatantra Party letter, signed by S. V. Raju, requests four copies of each Sunday Statesman issue from Rajaji's hospitalization through 4 January for the party's forthcoming National Convention. It is documentary correspondence rather than part of the newspaper's letters-page argument. The clipping's lower edge cuts off the final visible letter, and no formal table of contents or complete bibliographic information is present.
 ---
+
+## Summary
+
+This 6 January 1973 clipping from The Sunday Statesman gathers letters responding to the death of C. Rajagopalachari (Rajaji), with particular attention to his advocacy of prohibition, public service, and intellectual legacy. The letters offer competing assessments of Rajaji: one defends his prohibition views against the charge that they were emotional, while others commemorate him as a principled public figure, a Tamil religious writer, and a national leader who valued education and foreign experience.
+
+The accompanying Swatantra Party letter, signed by S. V. Raju, requests four copies of each Sunday Statesman issue from Rajaji's hospitalization through 4 January for the party's forthcoming National Convention. It is documentary correspondence rather than part of the newspaper's letters-page argument. The clipping's lower edge cuts off the final visible letter, and no formal table of contents or complete bibliographic information is present.

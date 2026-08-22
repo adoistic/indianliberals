@@ -50,6 +50,12 @@ summary: |-
   The writer asks Krishnaswamy to provide figures for collections in other states and disbursements made through his agency. The letter also proposes routing all applications for assistance through Krishnaswamy while the Central Party organisation remains located in his area, and urges regional organisations to raise local subscriptions to cover at least part of their monthly expenditure. The page does not identify the sender, place, or party by name.
 ---
 
+## Summary
+
+This letter, dated 23 September 1959 and addressed to S. Y. Krishnaswamy, discusses revised financial allocations for provincial party organisations. The writer reports sending Rs. 2,500 each to Andhra and U.P., while noting that the Treasurer’s funds in Bombay are limited. The letter refers to an earlier agreement under which Bombay would contribute Rs. 1 lakh toward a total regional allocation of Rs. 1,80,000, with the balance to be raised through central funds collected elsewhere in India.
+
+The writer asks Krishnaswamy to provide figures for collections in other states and disbursements made through his agency. The letter also proposes routing all applications for assistance through Krishnaswamy while the Central Party organisation remains located in his area, and urges regional organisations to raise local subscriptions to cover at least part of their monthly expenditure. The page does not identify the sender, place, or party by name.
+
 ## Key points
 
 - The letter responds to revised allocations for various provincial organisations.

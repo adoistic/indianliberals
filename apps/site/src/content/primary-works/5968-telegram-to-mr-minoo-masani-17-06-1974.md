@@ -47,6 +47,12 @@ summary: |-
   The sender further reports: "MYSELF STARTING FOR PATNA EIGHTEENTH" and signs or identifies the message with the name "HANUMANTHARAO." The document records a brief logistical communication rather than an argument, essay, or published work.
 ---
 
+## Summary
+
+This single-page telegram, sent through the Indian Posts and Telegraphs Department and dated 17 June 1974, is addressed to M. R. Masani at 148 Mahatma Gandhi Road, Bombay. The sender is not identified on the form. The message says that the telegram was not received, but that the recipient's letter and confirmation copy were received that day.
+
+The sender further reports: "MYSELF STARTING FOR PATNA EIGHTEENTH" and signs or identifies the message with the name "HANUMANTHARAO." The document records a brief logistical communication rather than an argument, essay, or published work.
+
 ## Key points
 
 - The document is a one-page telegram on an Indian Posts and Telegraphs Department form.

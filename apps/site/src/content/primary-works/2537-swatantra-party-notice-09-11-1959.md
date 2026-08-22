@@ -49,6 +49,12 @@ summary: |-
   The notice is signed by D. Lynn, identified as Honorary Secretary. No substantive policy argument or discussion of the party’s programme appears on the rendered page.
 ---
 
+## Summary
+
+This one-page English circular, issued on Swatantra Party (Bombay Office) letterhead and dated November 9, 1959, announces a meeting of the Organising Committee of Greater Bombay. The meeting was scheduled for Friday, November 13, 1959, at 6 p.m. at the party office, and recipients are earnestly requested to attend.
+
+The notice is signed by D. Lynn, identified as Honorary Secretary. No substantive policy argument or discussion of the party’s programme appears on the rendered page.
+
 ## Key points
 
 - The document is an office notice from the Swatantra Party’s Bombay Office.

@@ -50,6 +50,12 @@ summary: |-
   The enclosed resolution records the General Council’s discussion of efforts to bring several parties together to create a “National Alternative.” It welcomes these efforts but reserves the Swatantra Party’s final decision for a National Convention, while directing that the proposed draft programme be circulated to State Council members for review. The document therefore combines routine party correspondence with a concise statement of the party’s internal procedure for considering a broader political coalition.
 ---
 
+## Summary
+
+This two-page English-language letter, dated July 15, 1974, was sent by V. P. Bhatia, Executive Secretary of the Swatantra Party’s national headquarters, to Girish Munshi. Bhatia acknowledges Munshi’s request to convene the General Council during the party’s National Convention in New Delhi on August 4–5, but explains that the Council had already met on June 9–10 and unanimously adopted a resolution, making another meeting unnecessary. The letter notes that the National Executive would meet on the morning of August 4 before the Convention opened that afternoon.
+
+The enclosed resolution records the General Council’s discussion of efforts to bring several parties together to create a “National Alternative.” It welcomes these efforts but reserves the Swatantra Party’s final decision for a National Convention, while directing that the proposed draft programme be circulated to State Council members for review. The document therefore combines routine party correspondence with a concise statement of the party’s internal procedure for considering a broader political coalition.
+
 ## Key points
 
 - V. P. Bhatia wrote to Girish Munshi from the Swatantra Party’s national headquarters on July 15, 1974.

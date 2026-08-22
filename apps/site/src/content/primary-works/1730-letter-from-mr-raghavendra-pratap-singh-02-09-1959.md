@@ -48,6 +48,12 @@ summary: |-
   The letter then addresses the financing of a regional office. Singh asks for clarification about the monthly expenditure and requests that the Central Office contribute Rs. 1,000 per month, noting that local contributions are currently weak. He explains that the organisation has managed to cover conference expenses but faces high initial costs in carrying out its work. The letter closes by noting that membership forms are being printed in Hindi and Urdu.
 ---
 
+## Summary
+
+This one-page typed carbon-copy letter, dated 2 September 1959, is from Shri Raghavendra Pratap Singh, M.L.A., Uttar Pradesh, to S. V. Krishnaswamy in Madras. Singh reports that a recent conference was a major success, with about 600 delegates attending from different districts; 50 of Uttar Pradesh's 52 districts were represented.
+
+The letter then addresses the financing of a regional office. Singh asks for clarification about the monthly expenditure and requests that the Central Office contribute Rs. 1,000 per month, noting that local contributions are currently weak. He explains that the organisation has managed to cover conference expenses but faces high initial costs in carrying out its work. The letter closes by noting that membership forms are being printed in Hindi and Urdu.
+
 ## Key points
 
 - The letter reports the success of a conference attended by approximately 600 delegates.

@@ -48,6 +48,10 @@ summary: |-
   This one-page English letter, dated 30 November 1976, is from G.S.S. Sivaji to S. V. Raju, Private Secretary to M. R. Masani. Sivaji explains that his father, Goutthu Latchanna, has been under preventive detention since 26 June 1975 and is currently an inpatient at Osmania General Hospital, Hyderabad. He encloses notice relating to his father's criminal appeal before the Supreme Court of India and a letter confirming a telegram sent to the Court's Registrar.
 ---
 
+## Summary
+
+This one-page English letter, dated 30 November 1976, is from G.S.S. Sivaji to S. V. Raju, Private Secretary to M. R. Masani. Sivaji explains that his father, Goutthu Latchanna, has been under preventive detention since 26 June 1975 and is currently an inpatient at Osmania General Hospital, Hyderabad. He encloses notice relating to his father's criminal appeal before the Supreme Court of India and a letter confirming a telegram sent to the Court's Registrar.
+
 ## Key points
 
 - G.S.S. Sivaji writes from Hyderabad on 30 November 1976 regarding his detained father, Goutthu Latchanna.

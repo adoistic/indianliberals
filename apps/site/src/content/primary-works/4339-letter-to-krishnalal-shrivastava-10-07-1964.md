@@ -46,6 +46,10 @@ summary: |-
   In this one-page letter dated 10 July 1964, Professor N. G. Ranga responds to Dr. Krishnalal Shrivastava’s effort to organise a Swatantra Party district branch in Bastar. Ranga says that effective party work requires the direct or indirect support of Maharajah Bhanj Deo Jee, asks whether that support can be obtained, and explains that the party cannot provide financial assistance; local sympathisers must fund the branch.
 ---
 
+## Summary
+
+In this one-page letter dated 10 July 1964, Professor N. G. Ranga responds to Dr. Krishnalal Shrivastava’s effort to organise a Swatantra Party district branch in Bastar. Ranga says that effective party work requires the direct or indirect support of Maharajah Bhanj Deo Jee, asks whether that support can be obtained, and explains that the party cannot provide financial assistance; local sympathisers must fund the branch.
+
 ## Key points
 
 - Ranga acknowledges Shrivastava’s plan to organise a Swatantra Party district branch in Bastar.

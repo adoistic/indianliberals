@@ -50,6 +50,12 @@ summary: |-
   On that ethical and constitutional basis, he says he has asked the Law Minister to convey to the Prime Minister his decision to withdraw as counsel from the appeal. The page does not elaborate on the government measures, the court’s judgment, or the legal arguments in the appeal.
 ---
 
+## Summary
+
+This one-page English press statement, issued from Bombay on 26 June 1975, records N. A. Palkhivala’s response to government measures taken in the context of the Prime Minister’s appeal against the Allahabad High Court’s judgment in an election petition. Palkhivala states that, although he continues to adhere to his views on the legal merits of the appeal, the government’s actions are inconsistent with his lifelong convictions and cherished values.
+
+On that ethical and constitutional basis, he says he has asked the Law Minister to convey to the Prime Minister his decision to withdraw as counsel from the appeal. The page does not elaborate on the government measures, the court’s judgment, or the legal arguments in the appeal.
+
 ## Key points
 
 - The statement is dated Bombay, 26 June 1975.

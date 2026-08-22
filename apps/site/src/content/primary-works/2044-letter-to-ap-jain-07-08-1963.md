@@ -50,6 +50,12 @@ summary: |-
   Masani stresses the need for prompt notice because he plans to leave Delhi to go abroad and wants the questions to reach their destination before the end of the month. The letter is a brief piece of party and parliamentary administration, focused on preparing and circulating questions for official use rather than developing a substantive policy argument.
 ---
 
+## Summary
+
+In this one-page letter dated August 5, 1963, M. R. Masani writes to A. P. Jain of the Swatantra Party Parliamentary Office about draft questions concerning Central Government employees. Masani explains that he has revised the questions and is sending them on typed paper in a proper format, while asking Jain to arrange for suitable forms and additional blank question forms.
+
+Masani stresses the need for prompt notice because he plans to leave Delhi to go abroad and wants the questions to reach their destination before the end of the month. The letter is a brief piece of party and parliamentary administration, focused on preparing and circulating questions for official use rather than developing a substantive policy argument.
+
 ## Key points
 
 - The letter is dated August 5, 1963, and is signed by M. R. Masani.

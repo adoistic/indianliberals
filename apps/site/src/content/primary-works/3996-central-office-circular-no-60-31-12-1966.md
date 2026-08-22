@@ -51,6 +51,12 @@ summary: |-
   The enclosed programme schedules Prof. Ranga's movements from January 1 to 13, 1967. It records travel by train, plane, and car between Madras, Madurai, Coimbatore, Bombay, Rajkot, Ahmedabad, Udaipur, Jaipur, Agra, Lucknow, and Delhi, with additional touring in Gujarat, Rajasthan, and Uttar Pradesh before his return to Madras.
 ---
 
+## Summary
+
+This two-page Swatantra Party Central Office Circular No. 60, dated December 31, 1966, informs recipients that an enclosed tour programme for the party president, Prof. N. G. Ranga, is being sent for their attention. The circular is signed by S. V. Raju in his capacity as Executive Secretary.
+
+The enclosed programme schedules Prof. Ranga's movements from January 1 to 13, 1967. It records travel by train, plane, and car between Madras, Madurai, Coimbatore, Bombay, Rajkot, Ahmedabad, Udaipur, Jaipur, Agra, Lucknow, and Delhi, with additional touring in Gujarat, Rajasthan, and Uttar Pradesh before his return to Madras.
+
 ## Key points
 
 - The document is Central Office Circular No. 60 of the Swatantra Party.

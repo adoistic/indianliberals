@@ -50,6 +50,12 @@ summary: |-
   The matter identified is the devaluation of the British pound and its implications for the Indian economy. The rendered second page appears to be a poor-quality duplicate or continuation, but its text is not sufficiently legible to establish additional substantive content.
 ---
 
+## Summary
+
+This two-page parliamentary office document is a Calling Attention Notice submitted by M. R. Masani, M.P., in New Delhi on November 20, 1967. Addressed to the Secretary of the Lok Sabha, it invokes rule 197 of the Rules of Procedure and Conduct of Business and gives notice of an intention to call the Minister of Finance's attention to a matter of urgent public importance.
+
+The matter identified is the devaluation of the British pound and its implications for the Indian economy. The rendered second page appears to be a poor-quality duplicate or continuation, but its text is not sufficiently legible to establish additional substantive content.
+
 ## Key points
 
 - The document is a parliamentary Calling Attention Notice.

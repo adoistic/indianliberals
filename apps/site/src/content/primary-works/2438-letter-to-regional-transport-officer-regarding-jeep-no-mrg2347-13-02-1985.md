@@ -43,6 +43,10 @@ summary: |-
   This single-page letter, dated 13 February 1985, is M. R. Masani’s complaint to the Regional Transport Officer, Bombay, about repeated bills sent to him for a vehicle he neither owns nor possesses. Masani refers to his earlier correspondence, including a letter of 20 December 1984, and says that the harassment has continued despite his requests.
 ---
 
+## Summary
+
+This single-page letter, dated 13 February 1985, is M. R. Masani’s complaint to the Regional Transport Officer, Bombay, about repeated bills sent to him for a vehicle he neither owns nor possesses. Masani refers to his earlier correspondence, including a letter of 20 December 1984, and says that the harassment has continued despite his requests.
+
 ## Key points
 
 - The letter is addressed to the Regional Transport Officer at Old Body Guard Lines, Tulsiani, Bombay.

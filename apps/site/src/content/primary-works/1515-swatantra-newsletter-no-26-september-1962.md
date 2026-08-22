@@ -58,6 +58,10 @@ summary: |-
   This September 1962 issue of the Swatantra Newsletter reports the party's electoral performance, parliamentary strategy, policy arguments, and state-level organisation. It leads with Professor N. G. Ranga's victory in the Chittoor Lok Sabha by-election, presents M. R. Masani's case for cooperation among like-minded opposition groups, and records proposals concerning business ethics, fundamental rights, foreign policy, Chinese aggression, land revenue, and party administration. The issue's political stance combines opposition to Congress economic policy and centralised planning with support for constitutional freedoms, independent trade unions, agrarian interests, and a more assertive foreign and defence policy.
 ---
 
+## Summary
+
+This September 1962 issue of the Swatantra Newsletter reports the party's electoral performance, parliamentary strategy, policy arguments, and state-level organisation. It leads with Professor N. G. Ranga's victory in the Chittoor Lok Sabha by-election, presents M. R. Masani's case for cooperation among like-minded opposition groups, and records proposals concerning business ethics, fundamental rights, foreign policy, Chinese aggression, land revenue, and party administration. The issue's political stance combines opposition to Congress economic policy and centralised planning with support for constitutional freedoms, independent trade unions, agrarian interests, and a more assertive foreign and defence policy.
+
 ## Key points
 
 - Professor N. G. Ranga's Chittoor by-election victory is presented as a significant defeat for the Congress-Communist combine and evidence of Swatantra's growing electoral importance.

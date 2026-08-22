@@ -56,6 +56,12 @@ summary: |-
   The discussion reported here concerns Defence Ministry demands. N. Dandekar proposed concentrating on the organisation of the Naval Command, developments affecting Indian security over the previous decade, and threats from China, Pakistan, and other navies in the Indian Ocean. Participants debated reorganising the navy, strengthening Port Blair and Tuticorin, acquiring aircraft carriers and smaller vessels, and providing better amenities for personnel. Piloo Mody and J. M. Lobo Prabhu cautioned that structural reorganisation could conflict with demands for economy in defence spending. The meeting concluded with calls to reduce waste and corruption in stores and spares, develop ordnance factories, and seek at least 10 per cent savings in defence expenditure.
 ---
 
+## Summary
+
+These two pages record the Swatantra Party's General Body meeting in Parliament on 9 June 1967. The members agreed to hold a series of discussions on demands for grants, circulate members' views for information, and allow members to table motions concerning local and nationally significant problems. The minutes also stress that members speaking for the party would remain responsible for their own statements.
+
+The discussion reported here concerns Defence Ministry demands. N. Dandekar proposed concentrating on the organisation of the Naval Command, developments affecting Indian security over the previous decade, and threats from China, Pakistan, and other navies in the Indian Ocean. Participants debated reorganising the navy, strengthening Port Blair and Tuticorin, acquiring aircraft carriers and smaller vessels, and providing better amenities for personnel. Piloo Mody and J. M. Lobo Prabhu cautioned that structural reorganisation could conflict with demands for economy in defence spending. The meeting concluded with calls to reduce waste and corruption in stores and spares, develop ordnance factories, and seek at least 10 per cent savings in defence expenditure.
+
 ## Key points
 
 - The General Body met at Parliament House, New Delhi, on 9 June 1967, with Prof. N. G. Ranga in the chair.

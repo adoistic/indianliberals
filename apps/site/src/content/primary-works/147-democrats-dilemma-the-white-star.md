@@ -56,6 +56,12 @@ summary: |-
   Masani’s proposed alternative is a “Government of Democratic Unity,” bringing together democratic forces across party lines while excluding Communists. He calls for political education, criticises both Congress and the opposition for partisan self-interest, and urges Congress members to abandon Nehru’s policies and form a new coalition government. Drawing on the examples of Pakistan, Ghana, and Indonesia, he warns that selfish politicians, loss of public confidence, and military intervention can destroy parliamentary democracy. He closes on an uncertain but hopeful note, saying democracy’s chances of survival are no better than fifty-fifty.
 ---
 
+## Summary
+
+In the pages rendered, M. R. Masani presents India’s economic decline, corruption scandals, and unstable parliamentary politics as evidence that the democratic system itself is under trial. He argues that neither the Congress government nor a coalition including Communists offers a satisfactory answer: retaining Congress risks economic disaster, while replacing it with a Communist coalition could accelerate political chaos and create an opening for communism.
+
+Masani’s proposed alternative is a “Government of Democratic Unity,” bringing together democratic forces across party lines while excluding Communists. He calls for political education, criticises both Congress and the opposition for partisan self-interest, and urges Congress members to abandon Nehru’s policies and form a new coalition government. Drawing on the examples of Pakistan, Ghana, and Indonesia, he warns that selfish politicians, loss of public confidence, and military intervention can destroy parliamentary democracy. He closes on an uncertain but hopeful note, saying democracy’s chances of survival are no better than fifty-fifty.
+
 ## Key points
 
 - Masani links economic decline, corruption, and political indiscipline to a broader crisis of parliamentary democracy.

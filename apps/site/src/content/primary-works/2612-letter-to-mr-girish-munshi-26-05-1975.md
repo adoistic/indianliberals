@@ -46,6 +46,10 @@ summary: |-
   This two-page correspondence from 26 May 1975 records P. Narayan’s response to a telegram concerning Vijaypal Singh Saxena, who reported an arrest and requested financial assistance for an individual held in Bulandshahr Jail. Narayan explains that Girish Munshi is away from Bombay, that money cannot be sent from the office, and that local expenses should be met through collections at local-unit level. He asks Saxena to provide arrest details and to copy National Headquarters at Madras.
 ---
 
+## Summary
+
+This two-page correspondence from 26 May 1975 records P. Narayan’s response to a telegram concerning Vijaypal Singh Saxena, who reported an arrest and requested financial assistance for an individual held in Bulandshahr Jail. Narayan explains that Girish Munshi is away from Bombay, that money cannot be sent from the office, and that local expenses should be met through collections at local-unit level. He asks Saxena to provide arrest details and to copy National Headquarters at Madras.
+
 ## Key points
 
 - The principal letter is addressed to Girish Munshi and dated 26 May 1975.

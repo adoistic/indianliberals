@@ -50,6 +50,12 @@ summary: |-
   Patel’s letter is sharply critical of the temporary leadership arrangement. He argues that he spent the previous two years touring Gujarat and building up the party when he was not occupied with parliamentary work, and objects to people outside Parliament directing its work over those with parliamentary experience. He describes the arrangement as humiliating and says he will continue until the end of the session but will not accept the position indefinitely.
 ---
 
+## Summary
+
+This two-page letter, dated 12 June 1962, records M. R. Masani’s response to Dahyabhai V. Patel regarding the Parliamentary Board’s decision to appoint Patel as Leader only for the current session. Masani says he will place the matter before the Board and asks for the dates of the forthcoming Rajya Sabha session, while Patel explains that dental treatment has delayed his meeting with Raju and promises to clarify the position.
+
+Patel’s letter is sharply critical of the temporary leadership arrangement. He argues that he spent the previous two years touring Gujarat and building up the party when he was not occupied with parliamentary work, and objects to people outside Parliament directing its work over those with parliamentary experience. He describes the arrangement as humiliating and says he will continue until the end of the session but will not accept the position indefinitely.
+
 ## Key points
 
 - Masani’s 12 June 1962 letter responds to correspondence from Dahyabhai V. Patel about a Parliamentary Board decision.

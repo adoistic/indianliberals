@@ -54,3 +54,7 @@ ai:
 summary: |-
   Swatantra Newsletter No. 35, dated June/July 1963, presents the Swatantra Party's account of M. R. Masani's victory in the Rajkot parliamentary by-election and frames it as a major opposition breakthrough against Congress. The lead article attributes the result to public dissatisfaction with taxation, inflation, corruption, gold controls, collective farming, weak defence preparedness, and Congress complacency, while emphasizing the opposition's united front and the campaign's disciplined organisation across 444 polling stations. Reprinted comments from the Hindustan Standard, Indian Express, Times of India, The Hindu, Thought, and Statesman reinforce the claim that Rajkot represented a significant political warning to Congress.
 ---
+
+## Summary
+
+Swatantra Newsletter No. 35, dated June/July 1963, presents the Swatantra Party's account of M. R. Masani's victory in the Rajkot parliamentary by-election and frames it as a major opposition breakthrough against Congress. The lead article attributes the result to public dissatisfaction with taxation, inflation, corruption, gold controls, collective farming, weak defence preparedness, and Congress complacency, while emphasizing the opposition's united front and the campaign's disciplined organisation across 444 polling stations. Reprinted comments from the Hindustan Standard, Indian Express, Times of India, The Hindu, Thought, and Statesman reinforce the claim that Rajkot represented a significant political warning to Congress.

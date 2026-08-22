@@ -55,6 +55,12 @@ summary: |-
   The committee also discussed support for up to 40 independent candidates in the forthcoming municipal elections, shared office expenses, staffing changes, and leave for an office peon. The record presents the party as combining electoral organisation with practical advocacy concerning public-meeting permissions and the administration of its Bombay office.
 ---
 
+## Summary
+
+This two-page record documents a meeting of the Swatantra Party Organising Committee of Greater Bombay held on 14 November 1960. Chaired by Murarji J. Vaidya, the committee reviewed routine minutes and organisational matters, including assistance for workers seeking police permission to hold open-air meetings, the refusal of permission for a loudspeaker van advertising a Chowpatty meeting, arrangements for a press lunch, and an increase in the number of handbills to be printed.
+
+The committee also discussed support for up to 40 independent candidates in the forthcoming municipal elections, shared office expenses, staffing changes, and leave for an office peon. The record presents the party as combining electoral organisation with practical advocacy concerning public-meeting permissions and the administration of its Bombay office.
+
 ## Key points
 
 - The meeting took place at the Swatantra Party office on Monday, 14 November 1960, at 6.15 p.m.

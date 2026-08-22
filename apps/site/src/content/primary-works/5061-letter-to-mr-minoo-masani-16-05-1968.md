@@ -50,6 +50,12 @@ summary: |-
   Prabhu further presents Masani’s claim to superiority over the National Executive and the Gujarat State Unit as undemocratic and inconsistent with collective party decision-making. He argues that the Gujarat unit had legitimate rights and responsibilities, that the disputed candidate-selection process was not simply an act of corruption, and that similar Centre–State tensions had previously damaged the Party in Bengal, Bihar, Delhi, and Uttar Pradesh. The letter closes by urging Masani to change his attitude before the General Council and to reconcile with C. Rajagopalachari (“Rajaji”) for the sake of the Party’s morale.
 ---
 
+## Summary
+
+This two-page letter, dated 16 May 1968, is J. M. Lobo Prabhu’s appeal to Minoo Masani to reconsider his posture in an internal Swatantra Party dispute. Prabhu argues that Masani’s demand for “ethical and disciplined functioning” wrongly suggests that the Party is uniquely deficient, and that publicising a disagreement over a Gujarat Party decision would damage rather than strengthen the organisation. He criticises Masani’s alleged “holier than thou” attitude toward Ranga and Dandekar and rejects the idea that Masani’s principles justify a “monopoly for rectitude.”
+
+Prabhu further presents Masani’s claim to superiority over the National Executive and the Gujarat State Unit as undemocratic and inconsistent with collective party decision-making. He argues that the Gujarat unit had legitimate rights and responsibilities, that the disputed candidate-selection process was not simply an act of corruption, and that similar Centre–State tensions had previously damaged the Party in Bengal, Bihar, Delhi, and Uttar Pradesh. The letter closes by urging Masani to change his attitude before the General Council and to reconcile with C. Rajagopalachari (“Rajaji”) for the sake of the Party’s morale.
+
 ## Key points
 
 - The letter addresses an internal ethical and organisational dispute within the Swatantra Party.

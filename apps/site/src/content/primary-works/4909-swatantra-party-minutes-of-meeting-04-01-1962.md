@@ -55,6 +55,12 @@ summary: |-
   A substantial portion of the record concerns the financing and distribution of fifteen jeeps for the party's endorsed candidates in Bihar. The committee negotiated repayment arrangements involving the Raja Saheb of Ramgarh and the Central Bank of India, resolved that Rs. 1,50,000 should be paid in monthly instalments, and stipulated that the jeeps would become party property once the bank was paid off. The minutes also document candidate-specific decisions, authorization of C. Rajagopalachari to modify Madras lists before Nomination Day, proposed radio broadcasts, and further state-level candidate endorsements and exclusions. The pages show the party managing electoral organization through centralized approval, financial commitments, and negotiated arrangements with state units.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Parliamentary Sub-Committee's proceedings on 4 January 1962 and adjourned meetings on 5 January 1962. The committee reviewed prior minutes, discussed the General Secretary's difficulty in choosing a Lok Sabha constituency while coordinating the party's national election campaign, and approved candidate lists submitted by state units, including Orissa, Mysore, Andhra, Madras, Bihar, Gujarat, Madhya Pradesh, Punjab, Rajasthan, Uttar Pradesh, and West Bengal.
+
+A substantial portion of the record concerns the financing and distribution of fifteen jeeps for the party's endorsed candidates in Bihar. The committee negotiated repayment arrangements involving the Raja Saheb of Ramgarh and the Central Bank of India, resolved that Rs. 1,50,000 should be paid in monthly instalments, and stipulated that the jeeps would become party property once the bank was paid off. The minutes also document candidate-specific decisions, authorization of C. Rajagopalachari to modify Madras lists before Nomination Day, proposed radio broadcasts, and further state-level candidate endorsements and exclusions. The pages show the party managing electoral organization through centralized approval, financial commitments, and negotiated arrangements with state units.
+
 ## Key points
 
 - The committee confirmed minutes of meetings held in Agra on 23 and 27 November 1961.

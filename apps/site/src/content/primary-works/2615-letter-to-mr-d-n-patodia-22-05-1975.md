@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated 22 May 1975, is from S. V. Raju to D. N. Patodia. Raju forwards an enclosed solicitors’ letter concerning Patodia’s friend, Piloo Mody, noting that the letter has received no reply. He attributes the lack of response to Mody’s spoken commitment and describes Mody’s apparent intention to establish the Maharashtra office of the Swatantra Party in a manner that would secure the allegiance of its members.
 ---
 
+## Summary
+
+This one-page letter, dated 22 May 1975, is from S. V. Raju to D. N. Patodia. Raju forwards an enclosed solicitors’ letter concerning Patodia’s friend, Piloo Mody, noting that the letter has received no reply. He attributes the lack of response to Mody’s spoken commitment and describes Mody’s apparent intention to establish the Maharashtra office of the Swatantra Party in a manner that would secure the allegiance of its members.
+
 ## Key points
 
 - The letter is dated 22 May 1975 and is addressed to D. N. Patodia.

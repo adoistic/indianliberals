@@ -47,6 +47,12 @@ summary: |-
   The writer emphasizes the need for prompt information and expresses concern that delayed instalments could create an unfavourable impression. The letter is addressed to Shri Kamakhya Narain Singh of Ramgarh, Patna, and is signed by an individual whose name is not fully legible in the rendered image.
 ---
 
+## Summary
+
+This one-page letter, dated 26 September 1961, concerns an earlier arrangement involving credit for jeeps and the repayment schedule. The writer refers to a note sent on 2 August by the recipient and Minoo Masani, and asks when the first instalment of Rs. 20,000 is to be paid to the bank on the recipient’s behalf.
+
+The writer emphasizes the need for prompt information and expresses concern that delayed instalments could create an unfavourable impression. The letter is addressed to Shri Kamakhya Narain Singh of Ramgarh, Patna, and is signed by an individual whose name is not fully legible in the rendered image.
+
 ## Key points
 
 - The letter is dated 26 September 1961.

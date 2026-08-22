@@ -57,6 +57,12 @@ summary: |-
   The document also encloses R. C. Cooper's letter of 22 March 1971, which argues that the party should not seek alliances or mergers after its electoral defeat but should rebuild independently at the grassroots. Cooper proposes decentralised and autonomous party organisation, financial self-sufficiency, a limited programme focused on employment, public works, protection of small farmers and property, stable agricultural prices, law and order, minority protection, national integration, and labour rights. He also calls for a youth wing to reconnect the party's leadership with the public.
 ---
 
+## Summary
+
+This four-page Swatantra Party correspondence records the party's response to its poor performance in the Lok Sabha and legislative elections of 1971. In a letter dated 6 April 1971, General Secretary P. S. Koppiker asks party workers to assist the needy people of East Pakistan, prepare for forthcoming Maharashtra Assembly and Bombay Municipal Corporation elections, consider contesting the Greater Bombay Graduates' constituency, and conduct an intensive voter-enrolment campaign. The letter is presented in English on page 1 and in Marathi across pages 1–2.
+
+The document also encloses R. C. Cooper's letter of 22 March 1971, which argues that the party should not seek alliances or mergers after its electoral defeat but should rebuild independently at the grassroots. Cooper proposes decentralised and autonomous party organisation, financial self-sufficiency, a limited programme focused on employment, public works, protection of small farmers and property, stable agricultural prices, law and order, minority protection, national integration, and labour rights. He also calls for a youth wing to reconnect the party's leadership with the public.
+
 ## Key points
 
 - Koppiker reports Executive Committee decisions following the Swatantra Party's 1971 electoral performance.

@@ -45,6 +45,12 @@ summary: |-
   The document is logistical rather than argumentative: it contains the organisation’s letterhead, address details, date, recipient information, subject line, salutation, request, and typed signatory. The letter is signed by S. S. Bankeeshwar on behalf of the Indian Council of World Affairs.
 ---
 
+## Summary
+
+This one-page office letter, dated June 25, 1969, was sent from the Bombay Branch of the Indian Council of World Affairs to Shri Raju of the Swatantra Party. It asks the recipient to arrange a tape recording of M. R. Masani’s talk at the Tata auditorium on July 2 and to confirm that the arrangements have been made.
+
+The document is logistical rather than argumentative: it contains the organisation’s letterhead, address details, date, recipient information, subject line, salutation, request, and typed signatory. The letter is signed by S. S. Bankeeshwar on behalf of the Indian Council of World Affairs.
+
 ## Key points
 
 - The letter was issued by the Bombay Branch of the Indian Council of World Affairs.

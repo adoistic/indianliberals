@@ -50,6 +50,12 @@ summary: |-
   The letter advances an additional constitutional argument: because the State Government collects debenture and royalty payments under item 50 of the Second List of the Seventh Schedule, these levies should be treated as taxes and therefore allowed as revenue expenditure. The sender acknowledges that it is uncertain whether this new argument is legally sustainable, but asks Masani to support a better outcome from the amendment bill. The handwritten notation records receipt on August 23, 1965.
 ---
 
+## Summary
+
+This letter, dated August 18, 1965, is sent by Seth Pusala Mansinghka Private Limited of Bhilwara to Minoo Masani, Member of Parliament. It concerns the tax treatment of mining debenture and royalty payments as revenue expenditure. The company reports that it has telegraphed support for Income-tax Amendment Bill No. 29, moved by Dr. Singhvi, while emphasizing the mining industry's contribution to foreign exchange and employment.
+
+The letter advances an additional constitutional argument: because the State Government collects debenture and royalty payments under item 50 of the Second List of the Seventh Schedule, these levies should be treated as taxes and therefore allowed as revenue expenditure. The sender acknowledges that it is uncertain whether this new argument is legally sustainable, but asks Masani to support a better outcome from the amendment bill. The handwritten notation records receipt on August 23, 1965.
+
 ## Key points
 
 - The sender supports Income-tax Amendment Bill No. 29, which would allow mining debenture and royalty payments as revenue expenditure.

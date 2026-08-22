@@ -51,6 +51,12 @@ summary: |-
   The accompanying copy, addressed to C. Rajagopalachari, broadens the appeal to other opposition groups. It describes the Cabinet Sub-Committee's conduct as evidence of a lack of public conscience and democratic scruple, cites the Hindustan Times' criticism of Congress rule, and calls on the opposition to accept its responsibility as the 'keeper of conscience of our democracy.' The document records advocacy for parliamentary accountability and coordinated opposition action; it does not include the text of the referenced newspaper cutting or the full enclosed letter beyond the copy shown.
 ---
 
+## Summary
+
+In this letter dated 5 March 1965, Prof. N. G. Ranga urges Minoo Masani to support a no-confidence motion against the Central Cabinet over the Orissa–CBI affair. Ranga argues that the motion could significantly affect the 1967 election campaign and presents the issue as part of a longer pattern of ministerial misconduct, misuse of power, and inadequate accountability since 1950. He maintains that the Cabinet Sub-Committee failed to address corrupt practices involving ministers in Orissa, Bihar, and Mysore, while the publication of selected CBI findings would strengthen the democratic opposition.
+
+The accompanying copy, addressed to C. Rajagopalachari, broadens the appeal to other opposition groups. It describes the Cabinet Sub-Committee's conduct as evidence of a lack of public conscience and democratic scruple, cites the Hindustan Times' criticism of Congress rule, and calls on the opposition to accept its responsibility as the 'keeper of conscience of our democracy.' The document records advocacy for parliamentary accountability and coordinated opposition action; it does not include the text of the referenced newspaper cutting or the full enclosed letter beyond the copy shown.
+
 ## Key points
 
 - Ranga asks Minoo Masani to support a no-confidence motion against the Central Cabinet.

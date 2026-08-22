@@ -50,6 +50,10 @@ summary: |-
   This one-page English receipt records a donation made to the Maharashtra Region of the Swatantra Party. Issued from the party's office at Sassoon Building, 143 Mahatma Gandhi Road, Bombay-1, Receipt No. 141 acknowledges receipt from Mr. S. V. Raju of twenty-five rupees, designated as a donation for the month of November 1975. The form includes a receiver's signature and a line for the honorary treasurer.
 ---
 
+## Summary
+
+This one-page English receipt records a donation made to the Maharashtra Region of the Swatantra Party. Issued from the party's office at Sassoon Building, 143 Mahatma Gandhi Road, Bombay-1, Receipt No. 141 acknowledges receipt from Mr. S. V. Raju of twenty-five rupees, designated as a donation for the month of November 1975. The form includes a receiver's signature and a line for the honorary treasurer.
+
 ## Key points
 
 - The document is Receipt No. 141 from the Swatantra Party's Maharashtra Region.

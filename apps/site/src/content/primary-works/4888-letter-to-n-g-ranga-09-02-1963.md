@@ -52,6 +52,12 @@ summary: |-
   Singh distinguishes his intentions from the report’s language, attributing its severity to his disappointment at the party’s unexpectedly poor electoral performance in Bihar. He acknowledges that the report may have hurt colleagues with whom he had maintained cordial relations, apologises for the offence, and withdraws the offending and damaging passages. In a postscript, he states that he has decided to implement the Committee’s resolution, while clarifying that he was absent when it was adopted and had not known of the appeal against it.
 ---
 
+## Summary
+
+This one-page letter, written by Kamakhya Narain Singh from Bombay on 9 February 1963 to Prof. N. G. Ranga, addresses controversy within the Swatantra Party in Bihar. Singh explains that, after returning from Europe, he learned that a report he had submitted to the party’s Central Organisation Committee following the March 1962 general elections had been scrutinised and described as offensive, undemocratic, and incorrect. He regrets that a Joint Committee resolution in July 1962 publicised the criticism without giving him an opportunity to explain his conduct in person.
+
+Singh distinguishes his intentions from the report’s language, attributing its severity to his disappointment at the party’s unexpectedly poor electoral performance in Bihar. He acknowledges that the report may have hurt colleagues with whom he had maintained cordial relations, apologises for the offence, and withdraws the offending and damaging passages. In a postscript, he states that he has decided to implement the Committee’s resolution, while clarifying that he was absent when it was adopted and had not known of the appeal against it.
+
 ## Key points
 
 - Singh writes to N. G. Ranga about internal controversy in the Swatantra Party in Bihar.

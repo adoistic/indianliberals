@@ -44,6 +44,10 @@ summary: |-
   This one-page letter, dated 11 July 1968, is M. R. Masani's brief reply to A. P. Jain. Masani thanks Jain for his letter of 9 July and for sending a collection of newspaper clippings.
 ---
 
+## Summary
+
+This one-page letter, dated 11 July 1968, is M. R. Masani's brief reply to A. P. Jain. Masani thanks Jain for his letter of 9 July and for sending a collection of newspaper clippings.
+
 ## Key points
 
 - The letter is dated 11 July 1968.

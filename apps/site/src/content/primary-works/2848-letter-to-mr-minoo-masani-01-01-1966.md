@@ -53,6 +53,12 @@ summary: |-
   Rajagopalachari reiterates views published in the December 4 and January 1 issues of Swarajya, noting that P. C. Joshi, identified as a Communist, has taken them up in Mainstream. He closes on a more hopeful political note, citing the withdrawal of the D.I.R. case against Swarajya and the dismissal of T. T. Krishnamachari, which he says followed the Prime Minister's refusal to accommodate him and his prompt acceptance of the exit.
 ---
 
+## Summary
+
+In this letter dated 1 January 1966, C. Rajagopalachari thanks Minoo Masani for his New Year letter and reports that his health is relatively good. He argues that the New Year must bear the consequences of the previous year's failures despite the change in the Finance Ministry, and expresses skepticism about peace corps and other costly government employment schemes described as honorary while requiring substantial financial support.
+
+Rajagopalachari reiterates views published in the December 4 and January 1 issues of Swarajya, noting that P. C. Joshi, identified as a Communist, has taken them up in Mainstream. He closes on a more hopeful political note, citing the withdrawal of the D.I.R. case against Swarajya and the dismissal of T. T. Krishnamachari, which he says followed the Prime Minister's refusal to accommodate him and his prompt acceptance of the exit.
+
 ## Key points
 
 - Rajagopalachari writes to Minoo Masani on 1 January 1966 and reports that his health is relatively good.

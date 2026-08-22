@@ -51,6 +51,12 @@ summary: |-
   Jain also asks about four questions concerning grievances of Central Government employees in Gujarat, seeking to learn whether they were sent to the Lok Sabha Secretariat after Masani's signature. He encloses a letter to the editor opposing the Constitution (17th) Amendment Bill, noting that it coincides with a Swatantra Party Central Committee resolution passed at Madras. He further reports that a detailed article on the Bill is intended for publication in The Tribune and the Bombay Chronicle.
 ---
 
+## Summary
+
+This one-page letter, dated August 5, 1963, was sent from the Swatantra Party Parliamentary Office in New Delhi by A.P. Jain to M.R. Masani in Bombay. Jain acknowledges receiving papers concerning the Indian Pavilion at the New York World Fair and says that the requested questions are being drafted and acted upon.
+
+Jain also asks about four questions concerning grievances of Central Government employees in Gujarat, seeking to learn whether they were sent to the Lok Sabha Secretariat after Masani's signature. He encloses a letter to the editor opposing the Constitution (17th) Amendment Bill, noting that it coincides with a Swatantra Party Central Committee resolution passed at Madras. He further reports that a detailed article on the Bill is intended for publication in The Tribune and the Bombay Chronicle.
+
 ## Key points
 
 - The letter is dated August 5, 1963, and was issued on Swatantra Party Parliamentary Office letterhead.

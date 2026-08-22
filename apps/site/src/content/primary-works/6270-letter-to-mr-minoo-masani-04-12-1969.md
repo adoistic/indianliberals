@@ -46,6 +46,12 @@ summary: |-
   Raju stresses that the matter is important because the Presiding Officers will act on the draft's contents, and closes by explaining that this responsibility is the source of his anxiety. The referenced enclosure is not included in the rendered document.
 ---
 
+## Summary
+
+This untitled letter, dated November 4, 1969, is from S. V. Raju to Minoo Masani. Raju apologises for troubling Masani and explains that he is enclosing a draft letter addressed to the Presiding Officers. He asks Masani to review the draft and advise whether it is in order.
+
+Raju stresses that the matter is important because the Presiding Officers will act on the draft's contents, and closes by explaining that this responsibility is the source of his anxiety. The referenced enclosure is not included in the rendered document.
+
 ## Key points
 
 - S. V. Raju writes to Minoo Masani on November 4, 1969.

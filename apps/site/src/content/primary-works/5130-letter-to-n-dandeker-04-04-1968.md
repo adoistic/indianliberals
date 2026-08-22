@@ -48,6 +48,12 @@ summary: |-
   Santosham argues that the party should take an appropriate decision so that it can resume functioning in unity. The document records an internal party-governance concern but provides no further explanation of Masani's resignation or the subsequent decision.
 ---
 
+## Summary
+
+In this one-page letter dated April 3, 1968, Dr. M. Santosham, identified as a Lok Sabha Member of Parliament, asks Swatantra Party General Secretary N. Dandeker to convene an emergency meeting of the party's General Council. The meeting is requested to discuss Minoo Masani's resignation from the National Executive and Central Parliamentary Board.
+
+Santosham argues that the party should take an appropriate decision so that it can resume functioning in unity. The document records an internal party-governance concern but provides no further explanation of Masani's resignation or the subsequent decision.
+
 ## Key points
 
 - The letter is dated April 3, 1968, and is written on Dr. M. Santosham's Lok Sabha parliamentary letterhead.

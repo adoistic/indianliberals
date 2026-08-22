@@ -53,6 +53,12 @@ summary: |-
   In the rendered pages, Masani rejects both laissez-faire and comprehensive nationalisation as inadequate alternatives. He presents Soviet Russia as evidence that nationalisation is no guarantee against exploitation, profit-seeking, or dictatorship, and warns that centralised control can destroy both liberty and equality. His proposed middle course combines democratic political institutions with a gradual reduction of inequality: taxation and the elimination of absentee ownership to “level down,” and social services, minimum wages, public utilities, co-operatives, and selective socialisation to “level up.” The goal is economic equality as a democratic aspiration, without treating it as a precondition that justifies sacrificing political freedom.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that political democracy cannot function securely amid extreme inequalities of wealth and income. He treats concentrated economic power as a political danger because it controls instruments such as the Press and prevents ordinary people from asserting themselves effectively. Using India’s sharply unequal rural and urban incomes as evidence, he maintains that political democracy must be extended into the social and economic spheres.
+
+In the rendered pages, Masani rejects both laissez-faire and comprehensive nationalisation as inadequate alternatives. He presents Soviet Russia as evidence that nationalisation is no guarantee against exploitation, profit-seeking, or dictatorship, and warns that centralised control can destroy both liberty and equality. His proposed middle course combines democratic political institutions with a gradual reduction of inequality: taxation and the elimination of absentee ownership to “level down,” and social services, minimum wages, public utilities, co-operatives, and selective socialisation to “level up.” The goal is economic equality as a democratic aspiration, without treating it as a precondition that justifies sacrificing political freedom.
+
 ## Key points
 
 - Masani links economic inequality to unequal political power and weakened democratic participation.

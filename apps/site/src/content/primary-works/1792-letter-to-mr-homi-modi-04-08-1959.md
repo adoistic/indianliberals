@@ -48,6 +48,12 @@ summary: |-
   An attached administrative sheet headed “PROVISIONAL REGIONAL COUNCIL” lists nominees by region, including Madras, Andhra, Orissa, Uttar Pradesh, Assam, the Punjab, Rajasthan, Gujarat, Bombay, Karnataka, and Kerala. The supplied filename identifies the apparent recipient as Mr. Homi Modi, but that name does not appear on the rendered pages; the visible salutation is simply “Dear Sir.”
 ---
 
+## Summary
+
+This two-page English office letter, issued on Swatantra Party letterhead from Madras and dated 4 August 1959, informs the recipient that he was nominated at the party’s Bombay convention to its provisional Regional Council and asks him to confirm acceptance. The letter is signed by S. Y. Krishnaswamy.
+
+An attached administrative sheet headed “PROVISIONAL REGIONAL COUNCIL” lists nominees by region, including Madras, Andhra, Orissa, Uttar Pradesh, Assam, the Punjab, Rajasthan, Gujarat, Bombay, Karnataka, and Kerala. The supplied filename identifies the apparent recipient as Mr. Homi Modi, but that name does not appear on the rendered pages; the visible salutation is simply “Dear Sir.”
+
 ## Key points
 
 - The letter is dated 4th August 1959 and was sent from 5, East Circular Road, Madras 28.

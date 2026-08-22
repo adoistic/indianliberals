@@ -52,6 +52,12 @@ summary: |-
   The report attributes Masani's resignation to disagreement over the party line on the Gujarat affairs. It says that the line he advocated had not received sufficient support, and that the Swatantra candidate was defeated in Rajya Sabha elections after party legislators failed to vote for him. The article also describes disciplinary action against Gujarat party members and reports that Masani's plea against imposing exemplary punishments on all legislators who had supported the rebel candidate was rejected.
 ---
 
+## Summary
+
+This one-page English news report from the National Herald, Lucknow, dated 17 June 1968, reports that M. R. Masani retained important organisational positions in the Swatantra Party despite resigning from the party's executive offices, including the working committee and parliamentary board. He remained deputy leader of the party's parliamentary group and continued as chairman of the Public Accounts Committee.
+
+The report attributes Masani's resignation to disagreement over the party line on the Gujarat affairs. It says that the line he advocated had not received sufficient support, and that the Swatantra candidate was defeated in Rajya Sabha elections after party legislators failed to vote for him. The article also describes disciplinary action against Gujarat party members and reports that Masani's plea against imposing exemplary punishments on all legislators who had supported the rebel candidate was rejected.
+
 ## Key points
 
 - M. R. Masani retained the post of deputy leader of the Swatantra Party's parliamentary group.

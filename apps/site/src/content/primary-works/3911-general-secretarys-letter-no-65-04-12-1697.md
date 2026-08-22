@@ -47,6 +47,10 @@ summary: |-
   This one-page letter, dated December 4, 1967, was issued by N. Dandekar, General Secretary of the Swatantra Party, from its Bombay Central Office. It concerns preparations for the February 1968 biennial Rajya Sabha elections and asks State Units to submit candidate recommendations to the Central Office by December 31, 1967, allowing the Central Parliamentary Board time to make decisions before nominations close.
 ---
 
+## Summary
+
+This one-page letter, dated December 4, 1967, was issued by N. Dandekar, General Secretary of the Swatantra Party, from its Bombay Central Office. It concerns preparations for the February 1968 biennial Rajya Sabha elections and asks State Units to submit candidate recommendations to the Central Office by December 31, 1967, allowing the Central Parliamentary Board time to make decisions before nominations close.
+
 ## Key points
 
 - The letter sets December 31, 1967, as the deadline for State Units to submit Rajya Sabha candidate recommendations.

@@ -51,6 +51,12 @@ summary: |-
   The proposed meeting is intended to discuss the situation created by Minoo Masani's resignation from the National Executive and Central Parliamentary Board. Pandey urges the party to take an appropriate decision so that it can close ranks and resume united work under the leadership of its respected leaders. The document is a concise internal appeal for organisational unity and collective decision-making during a period of party disruption.
 ---
 
+## Summary
+
+This one-page English letter, dated 5 April 1968, was written by K. N. Pandey of Inter College, Colonelganj, Gonda, in his capacity as a member of the Swatantra Party's All India General Council. Addressed to N. Dandekar, the party's General Secretary, it refers to Madhu N. Mehta's letter of 31 March 1968 and supports Mehta's request for an emergent meeting of the General Council.
+
+The proposed meeting is intended to discuss the situation created by Minoo Masani's resignation from the National Executive and Central Parliamentary Board. Pandey urges the party to take an appropriate decision so that it can close ranks and resume united work under the leadership of its respected leaders. The document is a concise internal appeal for organisational unity and collective decision-making during a period of party disruption.
+
 ## Key points
 
 - K. N. Pandey wrote from Colonelganj, Gonda, on 5 April 1968.

@@ -50,6 +50,12 @@ summary: |-
   The pages function as a practical parliamentary contact list rather than a political argument or biographical account. Handwritten corrections and annotations appear beside several printed addresses and telephone numbers, indicating that the document was maintained as a working directory. The final page identifies the printer as Inland Printers, Bombay 7; no publication year, author, or edition statement is visible.
 ---
 
+## Summary
+
+This eight-page English-language directory lists members of the Swatantra Party serving in India's Parliament. It is divided into Lok Sabha and Rajya Sabha sections and organized state by state, beginning with Andhra Pradesh and Gujarat and continuing through Madras, Maharashtra, Mysore, Orissa, Rajasthan, and Uttar Pradesh. Each entry gives the member's name and constituency, permanent address, Delhi address, and available telephone numbers.
+
+The pages function as a practical parliamentary contact list rather than a political argument or biographical account. Handwritten corrections and annotations appear beside several printed addresses and telephone numbers, indicating that the document was maintained as a working directory. The final page identifies the printer as Inland Printers, Bombay 7; no publication year, author, or edition statement is visible.
+
 ## Key points
 
 - The document is a reference directory of Swatantra Party members of Parliament.

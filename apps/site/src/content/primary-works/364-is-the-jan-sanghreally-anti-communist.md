@@ -54,6 +54,12 @@ summary: |-
   The rendered pages contend that the Jana Sangh lacks a coherent economic ideology, increasingly favours state control, and may be moving away from Swatantra's free-enterprise position toward economic radicalism. Chitre contrasts the Jana Sangh's Hindu chauvinism with communist internationalism, while arguing that both movements can be opportunistic, totalitarian in attitude, and hostile to liberal democracy. He concludes that the Jana Sangh is no longer meaningfully anti-communist and warns that communist influence could penetrate its leadership and cadres through temporary electoral alliances. The document is a heavily annotated typescript or office copy; handwritten revisions and redactions sometimes obscure the exact intended wording.
 ---
 
+## Summary
+
+In the rendered seven-page draft, Dilip Chitre argues that the Jana Sangh's supposed anti-communism is undermined by its willingness to cooperate with communists and by the ideological overlap between Hindu chauvinism and authoritarian politics. The essay places this question in the context of the post-1967 realignment of Indian politics, especially Indira Gandhi's use of socialist and communist support, Congress divisions, bank nationalisation, and the courtship of the Jana Sangh by both the Communist Party of India and the Swatantra Party. Chitre presents the Jana Sangh's electoral strength, cadre organisation, and appeal among Hindu middle classes as reasons why communists might seek an alliance with it rather than confront it directly.
+
+The rendered pages contend that the Jana Sangh lacks a coherent economic ideology, increasingly favours state control, and may be moving away from Swatantra's free-enterprise position toward economic radicalism. Chitre contrasts the Jana Sangh's Hindu chauvinism with communist internationalism, while arguing that both movements can be opportunistic, totalitarian in attitude, and hostile to liberal democracy. He concludes that the Jana Sangh is no longer meaningfully anti-communist and warns that communist influence could penetrate its leadership and cadres through temporary electoral alliances. The document is a heavily annotated typescript or office copy; handwritten revisions and redactions sometimes obscure the exact intended wording.
+
 ## Key points
 
 - The essay questions the Jana Sangh's claimed anti-communism by examining its cooperation and prospective alliances with communist parties.

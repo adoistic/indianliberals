@@ -49,6 +49,12 @@ summary: |-
   The message sets a deadline of 21 September for receiving a reply and states that, without one, the sender will have no alternative but to seek legal advice. The document is reproduced as a confirmatory copy sent by post and does not state the underlying subject of the earlier correspondence.
 ---
 
+## Summary
+
+This two-page English telegram/cable, issued on 8 September 1994, is addressed to the Secretary of the Election Commission of India in New Delhi. J. Venkiteswaran, identified as President of the Swatantra Party, Maharashtra, asks the Commission to respond to earlier letters dated 28 June and 30 August.
+
+The message sets a deadline of 21 September for receiving a reply and states that, without one, the sender will have no alternative but to seek legal advice. The document is reproduced as a confirmatory copy sent by post and does not state the underlying subject of the earlier correspondence.
+
 ## Key points
 
 - The document is a two-page English telegram/cable dated 8 September 1994.

@@ -50,6 +50,12 @@ summary: |-
   Masani’s principal advice is that Singh should join Jayaprakash Narayan’s movement. He presents that movement as the only one capable of saving the country and authorizes Singh to show the letter to Narayan and offer his wholehearted cooperation. The single rendered page does not provide a printed page folio; it is a typed, signed personal letter.
 ---
 
+## Summary
+
+In this letter dated 19 November 1974, M. R. Masani apologizes to Shahajanand Singh for missing him during a recent visit to Patna. Masani notes that the Swatantra Party continues to function in Maharashtra, Tamil Nadu, and Kerala, and expresses relief that Singh declined to join the Bharatiya Lok Dal (B.L.D.), which Masani says he had always believed would not succeed.
+
+Masani’s principal advice is that Singh should join Jayaprakash Narayan’s movement. He presents that movement as the only one capable of saving the country and authorizes Singh to show the letter to Narayan and offer his wholehearted cooperation. The single rendered page does not provide a printed page folio; it is a typed, signed personal letter.
+
 ## Key points
 
 - Masani writes to Shahajanand Singh on 19 November 1974 after failing to meet him in Patna.

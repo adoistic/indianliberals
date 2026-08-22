@@ -55,6 +55,12 @@ summary: |-
   The first resolution also calls for safeguards against future misuse of President's Rule and announces nationwide prayer meetings for a "Gujarat People's Day." A second resolution condemns an alleged attack by the CPI-ruling Congress coalition in West Bengal on Jayaprakash Narayan and his followers, demands the dismissal of the West Bengal Ministry, and rejects the reported justification of the attack as being based on imaginary provocation.
 ---
 
+## Summary
+
+This two-page Swatantra Party resolution document presents a National Executive statement supporting Morarji Desai's indefinite fast in defence of democratic rights. It demands the immediate lifting of the state of emergency and the holding of long-overdue Gujarat Assembly elections before the end of May 1975, while accusing the ruling Congress Party of misusing constitutional provisions to impose President's Rule and postpone elections for partisan advantage.
+
+The first resolution also calls for safeguards against future misuse of President's Rule and announces nationwide prayer meetings for a "Gujarat People's Day." A second resolution condemns an alleged attack by the CPI-ruling Congress coalition in West Bengal on Jayaprakash Narayan and his followers, demands the dismissal of the West Bengal Ministry, and rejects the reported justification of the attack as being based on imaginary provocation.
+
 ## Key points
 
 - The Swatantra Party's National Executive congratulates Morarji Desai for undertaking an indefinite fast if necessary.

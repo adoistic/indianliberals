@@ -52,6 +52,12 @@ summary: |-
   Masani then contends that State textbook monopolies have produced poor-quality books, high prices, profiteering, and chronic failures of distribution. He links these failures to the growth of counterfeit and pirated textbooks, citing reports of losses to State governments and concentrating especially on Bihar. The proposed remedy is not simply stronger criminal law but the ending of the State monopoly: private publishers should be allowed to compete, while government publications should remain available alongside privately produced books. The pamphlet closes by arguing that monopoly textbook policy and the problem of spurious textbooks are connected parts of the same institutional failure.
 ---
 
+## Summary
+
+In this six-page pamphlet, M. R. Masani argues that the “nationalisation” of school textbooks is in fact a State monopoly over textbook publication, and that such a monopoly is dangerous in a democracy because it gives governments control over the information supplied to children. He presents the policy as neither novel nor progressive, but as a return to a practice associated with British rule, and contrasts it with the earlier availability of books from reputable private publishers. The pamphlet cites the 1942 committee on textbooks, which recommended competition between government and private publishers and warned that education should not become an instrument of propaganda.
+
+Masani then contends that State textbook monopolies have produced poor-quality books, high prices, profiteering, and chronic failures of distribution. He links these failures to the growth of counterfeit and pirated textbooks, citing reports of losses to State governments and concentrating especially on Bihar. The proposed remedy is not simply stronger criminal law but the ending of the State monopoly: private publishers should be allowed to compete, while government publications should remain available alongside privately produced books. The pamphlet closes by arguing that monopoly textbook policy and the problem of spurious textbooks are connected parts of the same institutional failure.
+
 ## Key points
 
 - Masani characterises textbook “nationalisation” as a State monopoly rather than genuine nationalisation.

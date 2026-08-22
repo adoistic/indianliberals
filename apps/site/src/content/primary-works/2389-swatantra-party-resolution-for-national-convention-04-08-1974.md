@@ -52,6 +52,12 @@ summary: |-
   The resolution approves the formation of a new party, the Bharatiya Lok Dal (The People’s Party of India), through the amalgamation of political forces other than Congress and the Communist parties. It authorises President Piloo Mody to declare, in consultation with the National Executive, that the Swatantra Party will cease to exist and merge with the new party, and to notify the Chief Election Commissioner about the party’s dissolution and the freezing of its electoral symbol. Members who do not join the new organisation are permitted to continue political or non-political activities under another name.
 ---
 
+## Summary
+
+This two-page Swatantra Party resolution, dated August 4–5, 1974, reviews efforts to create a political “National Alternative” outside the Congress and Communist parties. It records the party’s view that India’s political situation required an all-out effort to form a clearly defined alternative capable of fulfilling the people’s aspirations, while leaving the final decision on participation to the party’s National Convention.
+
+The resolution approves the formation of a new party, the Bharatiya Lok Dal (The People’s Party of India), through the amalgamation of political forces other than Congress and the Communist parties. It authorises President Piloo Mody to declare, in consultation with the National Executive, that the Swatantra Party will cease to exist and merge with the new party, and to notify the Chief Election Commissioner about the party’s dissolution and the freezing of its electoral symbol. Members who do not join the new organisation are permitted to continue political or non-political activities under another name.
+
 ## Key points
 
 - The Swatantra Party describes India’s political life as chaotic and confusing to the electorate.

@@ -52,6 +52,12 @@ summary: |-
   The 4 March letter from R.K.A. Narayan to V. P. Bhatia concerns the preparation and circulation of party administrative materials. Narayan requests copies of the printed address list, minutes of the last party meeting in Bombay, resolutions passed at that meeting, an up-to-date list of party MLAs in State Legislatures, and the forwarding of enclosed letters to Rajaji and Mr. Helani. He also flags missing Ahmedabad addresses, uncertainty over where to write regarding the party office in Lucknow, and the need to correct these matters before the address list is printed.
 ---
 
+## Summary
+
+This two-page correspondence file contains two letters exchanged in March 1970. In the letter dated 18 March, S. V. Raju responds to R.K.A. Narayan's 4 March letter about a proposed change in the party office in Lucknow. Raju says an immediate reaction would be premature but supports ensuring that all letters are addressed to the Party Office, with copies sent to the State President, Mr. Morarji Desai, in Bombay. He adds that the letter's other points have already been attended to.
+
+The 4 March letter from R.K.A. Narayan to V. P. Bhatia concerns the preparation and circulation of party administrative materials. Narayan requests copies of the printed address list, minutes of the last party meeting in Bombay, resolutions passed at that meeting, an up-to-date list of party MLAs in State Legislatures, and the forwarding of enclosed letters to Rajaji and Mr. Helani. He also flags missing Ahmedabad addresses, uncertainty over where to write regarding the party office in Lucknow, and the need to correct these matters before the address list is printed.
+
 ## Key points
 
 - The file preserves two office letters dated 4 and 18 March 1970.

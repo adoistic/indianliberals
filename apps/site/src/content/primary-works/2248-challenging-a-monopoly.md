@@ -54,6 +54,12 @@ summary: |-
   In the rendered pages, the article presents the Government’s refusal to license private broadcasting as resting on broad claims concerning sovereignty, public order, and morality. It notes that successive committees had recommended autonomy for broadcasting, while referring to the rejected V. G. Verghese Committee bill and journalist Romesh Thapar’s Supreme Court petition seeking autonomy for All India Radio and Doordarshan. The article concludes that Masani’s litigation could prompt a meaningful judicial examination of the constitutional and legal basis of the broadcasting monopoly, even if the courts ultimately reject his plea.
 ---
 
+## Summary
+
+In the rendered article, Harini Swamy reports on M. R. Masani’s petition before the Bombay High Court challenging the Government’s monopoly over radio and television broadcasting. Masani and co-petitioner P. C. Chatterji, the former director-general of All India Radio, argue that the rejection of their proposal for an independent Western India broadcasting station violates Article 19’s protection of freedom of expression. The article links their case to a study commissioned by the Indian Committee for Cultural Freedom and the Indian Liberal Group, which documented alleged efforts by the broadcasting authorities to suppress or censor inconvenient news.
+
+In the rendered pages, the article presents the Government’s refusal to license private broadcasting as resting on broad claims concerning sovereignty, public order, and morality. It notes that successive committees had recommended autonomy for broadcasting, while referring to the rejected V. G. Verghese Committee bill and journalist Romesh Thapar’s Supreme Court petition seeking autonomy for All India Radio and Doordarshan. The article concludes that Masani’s litigation could prompt a meaningful judicial examination of the constitutional and legal basis of the broadcasting monopoly, even if the courts ultimately reject his plea.
+
 ## Key points
 
 - M. R. Masani and former All India Radio director-general P. C. Chatterji petitioned the Bombay High Court against the Government’s broadcasting monopoly.

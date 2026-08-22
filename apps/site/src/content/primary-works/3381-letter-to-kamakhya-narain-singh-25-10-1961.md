@@ -46,6 +46,10 @@ summary: |-
   This one-page letter from The Central Bank of India, Ltd., dated 25 October 1961, concerns the overdraft account of Sri Kamakhya Narayansingh, Raja Bahadur of Ramgarh. The bank acknowledges receipt of a representative cash payment of Rs. 20,000, described as the instalment payable for the current month.
 ---
 
+## Summary
+
+This one-page letter from The Central Bank of India, Ltd., dated 25 October 1961, concerns the overdraft account of Sri Kamakhya Narayansingh, Raja Bahadur of Ramgarh. The bank acknowledges receipt of a representative cash payment of Rs. 20,000, described as the instalment payable for the current month.
+
 ## Key points
 
 - The letter is dated 25 October 1961 and was issued from the bank's registered office on Mahatma Gandhi Road, Bombay 1.

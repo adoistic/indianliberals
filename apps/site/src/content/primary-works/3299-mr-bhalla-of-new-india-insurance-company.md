@@ -49,6 +49,12 @@ summary: |-
   The letter further records that the jeeps were publicly said to have been used in Mahesh Babu’s campaign during the last General Elections. The page begins mid-sentence and provides no printed title, salutation, recipient, or clear identification of the sender beyond the handwritten signature.
 ---
 
+## Summary
+
+This one-page typed office letter, dated June 11, 1964 and signed “Ranga,” reports information conveyed by Mr. Bhalla of the New India Assurance Company. Bhalla was in Bihar attempting to take possession of hypothecated jeeps and had allegedly learned that two of them were being kept in the compound of Thakur Paper Mills in Samastipur, owned by the son-in-law of Mahesh Babu, Sachdanand Singh, an advocate.
+
+The letter further records that the jeeps were publicly said to have been used in Mahesh Babu’s campaign during the last General Elections. The page begins mid-sentence and provides no printed title, salutation, recipient, or clear identification of the sender beyond the handwritten signature.
+
 ## Key points
 
 - The letter is dated June 11, 1964 and appears to be signed “Ranga.”

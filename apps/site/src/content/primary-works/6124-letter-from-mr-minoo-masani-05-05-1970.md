@@ -55,6 +55,12 @@ summary: |-
   The packet assigns the Honorary Treasurer responsibility for preparing the headquarters budget, collecting funds, operating bank accounts, sanctioning payments, signing receipts, and maintaining accounts. It reviews earlier fundraising through an industrialist consortium, souvenir advertising, individual appeals, coupons, and subscription dailies, and proposes renewed advertising, targeted contribution letters, appeals to shareholders of nationalised banks, cultural programmes, souvenir advertising, and subscription drives. A further headquarters plan divides party work into organisation and development, political affairs, documentation and research, public relations, and internal administration, including constituency-building, party wings, training camps, policy formulation, press liaison, publications, and analysis of the 1967 general election.
 ---
 
+## Summary
+
+This undated-title 1970 Swatantra Party office packet brings together a handwritten note and several internal papers on the organisation, financing, and administration of National Headquarters. The typed material outlines headquarters expenditure, comparing a monthly budget allocation of approximately Rs. 10,000 in February 1970 with expenditure of about Rs. 18,000 in March. Major spending categories include staff salaries, office rent, postage and telecommunications, travel, publicity and literature, subscriptions, jeep maintenance, and miscellaneous costs; the papers also identify subsidies to regional offices and party meetings.
+
+The packet assigns the Honorary Treasurer responsibility for preparing the headquarters budget, collecting funds, operating bank accounts, sanctioning payments, signing receipts, and maintaining accounts. It reviews earlier fundraising through an industrialist consortium, souvenir advertising, individual appeals, coupons, and subscription dailies, and proposes renewed advertising, targeted contribution letters, appeals to shareholders of nationalised banks, cultural programmes, souvenir advertising, and subscription drives. A further headquarters plan divides party work into organisation and development, political affairs, documentation and research, public relations, and internal administration, including constituency-building, party wings, training camps, policy formulation, press liaison, publications, and analysis of the 1967 general election.
+
 ## Key points
 
 - The packet records Swatantra Party National Headquarters budgets and administrative proposals from 1970.

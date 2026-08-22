@@ -54,6 +54,12 @@ summary: |-
   In the rendered pages, Masani then describes tensions with Rajaji over the role of Congress organisations, peasant unions, and provincial governments during the late 1930s. He argues that Congress committees must retain democratic control over cabinets rather than become their subordinate limbs, and defends separate peasant organisations against Rajaji’s objections. Later recollections shift to post-Independence food shortages, a cable to United States legislators seeking food aid, and a confrontation with Jawaharlal Nehru over foreign policy. Masani closes by reflecting on his close collaboration with Rajaji in the Swatantra Party from 1959 to 1971, his resignation from the party presidency, and Rajaji’s affectionate criticism of his public career and writing. The supplied sequence omits printed page 9, so that page could not be reviewed.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani recalls several encounters with C. Rajagopalachari (Rajaji) across more than four decades of Indian political life. He begins with the 1934 Congress Session at Bombay, where Masani and Jayaprakash Narayan sought proportional representation with a single transferable vote to protect socialist and other minorities within Congress bodies. Masani recounts confronting Gandhi over the omission of the clause, its eventual restoration, and Rajaji’s opposition to the amendment. The episode presents politics as a contest over organisational democracy, trust, and procedural safeguards.
+
+In the rendered pages, Masani then describes tensions with Rajaji over the role of Congress organisations, peasant unions, and provincial governments during the late 1930s. He argues that Congress committees must retain democratic control over cabinets rather than become their subordinate limbs, and defends separate peasant organisations against Rajaji’s objections. Later recollections shift to post-Independence food shortages, a cable to United States legislators seeking food aid, and a confrontation with Jawaharlal Nehru over foreign policy. Masani closes by reflecting on his close collaboration with Rajaji in the Swatantra Party from 1959 to 1971, his resignation from the party presidency, and Rajaji’s affectionate criticism of his public career and writing. The supplied sequence omits printed page 9, so that page could not be reviewed.
+
 ## Key points
 
 - Masani’s earliest recollection concerns the 1934 Congress Session and the proposed use of proportional representation with a single transferable vote.

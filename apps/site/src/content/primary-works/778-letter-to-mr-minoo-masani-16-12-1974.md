@@ -47,6 +47,10 @@ summary: |-
   This two-page letter from S. V. Raju to Minoo Masani, dated Bombay, December 16, 1974, reports on an enclosed letter from Mr. Sajahanand. Raju says that Sajahanand has reaffirmed his personal loyalty to Masani and the party, and wants to be appointed the party’s convenor in Bihar, promising to do whatever is possible.
 ---
 
+## Summary
+
+This two-page letter from S. V. Raju to Minoo Masani, dated Bombay, December 16, 1974, reports on an enclosed letter from Mr. Sajahanand. Raju says that Sajahanand has reaffirmed his personal loyalty to Masani and the party, and wants to be appointed the party’s convenor in Bihar, promising to do whatever is possible.
+
 ## Key points
 
 - The letter is addressed to Minoo Masani and signed by S. V. Raju.

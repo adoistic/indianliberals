@@ -49,6 +49,12 @@ summary: |-
   The list is administrative rather than argumentative: it distinguishes the two Houses of Parliament and assigns each member a serial number. No date, place, publisher, author, or additional explanatory text is visible on the rendered pages.
 ---
 
+## Summary
+
+“Annexure B” is a two-page English-language roster titled “List of Swatantra Members in Parliament.” It records nine Swatantra Party members of the Lok Sabha and seven members of the Rajya Sabha, for a total of sixteen named parliamentarians.
+
+The list is administrative rather than argumentative: it distinguishes the two Houses of Parliament and assigns each member a serial number. No date, place, publisher, author, or additional explanatory text is visible on the rendered pages.
+
 ## Key points
 
 - The document is labelled “ANNEXURE B.”

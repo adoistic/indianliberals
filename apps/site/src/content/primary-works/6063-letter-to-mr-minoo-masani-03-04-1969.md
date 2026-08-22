@@ -44,6 +44,10 @@ summary: |-
   This one-page English letter, typed on Jayaprakash Narayan’s letterhead and dated April 2, 1969, is addressed to Minoo Masani in New Delhi. Narayan apologizes for not yet writing the foreword Masani had requested, explaining that visits during a brief stay in his village and another urgent writing task left him no time to complete it. He nevertheless promises to fulfill the request as soon as possible and looks forward to meeting Masani in Poona.
 ---
 
+## Summary
+
+This one-page English letter, typed on Jayaprakash Narayan’s letterhead and dated April 2, 1969, is addressed to Minoo Masani in New Delhi. Narayan apologizes for not yet writing the foreword Masani had requested, explaining that visits during a brief stay in his village and another urgent writing task left him no time to complete it. He nevertheless promises to fulfill the request as soon as possible and looks forward to meeting Masani in Poona.
+
 ## Key points
 
 - Jayaprakash Narayan writes from Patna on April 2, 1969.

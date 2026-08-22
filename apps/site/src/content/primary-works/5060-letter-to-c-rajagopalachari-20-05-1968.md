@@ -49,6 +49,12 @@ summary: |-
   Lobo Prabhu urges Rajaji to direct that every parliamentary speech be related to a mass base. He says that clear guidance from Rajaji would strengthen both the party and the public impression of it. The letter bears a receipt stamp dated 20 May 1968, but no authorial date is visibly printed.
 ---
 
+## Summary
+
+In this two-page letter, J. M. Lobo Prabhu writes to C. Rajagopalachari (“Rajaji”) about the Swatantra Party’s poor performance in Parliament. He argues that the party’s guidance is unavailable to its parliamentary members and identifies several problems: members speak as though the party exists only for big business, speeches are assigned without regard to members’ qualifications, and there is no shared position on important issues beyond hostility to Congress and the Communists.
+
+Lobo Prabhu urges Rajaji to direct that every parliamentary speech be related to a mass base. He says that clear guidance from Rajaji would strengthen both the party and the public impression of it. The letter bears a receipt stamp dated 20 May 1968, but no authorial date is visibly printed.
+
 ## Key points
 
 - The writer is concerned that Rajaji’s guidance is not reaching the party’s parliamentary members.

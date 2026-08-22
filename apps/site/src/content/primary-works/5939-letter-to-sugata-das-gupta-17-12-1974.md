@@ -44,6 +44,10 @@ summary: |-
   This single-page letter, dated 17 December 1974, is from M. R. Masani to Sugata Das Gupta, Joint Director of the Gandhi Institute of Studies in Varanasi. Masani explains that, following a suggestion from Patna, he plans to travel to Varanasi on 25 December and return to Delhi on 26 December. The purpose of the visit is to meet J. P. (Jayaprakash Narayan) and discuss various matters.
 ---
 
+## Summary
+
+This single-page letter, dated 17 December 1974, is from M. R. Masani to Sugata Das Gupta, Joint Director of the Gandhi Institute of Studies in Varanasi. Masani explains that, following a suggestion from Patna, he plans to travel to Varanasi on 25 December and return to Delhi on 26 December. The purpose of the visit is to meet J. P. (Jayaprakash Narayan) and discuss various matters.
+
 ## Key points
 
 - The letter is dated 17 December 1974 and signed by M. R. Masani.

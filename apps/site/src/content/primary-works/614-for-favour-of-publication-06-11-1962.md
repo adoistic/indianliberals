@@ -54,6 +54,12 @@ summary: |-
   Masani welcomes the Prime Minister’s admission that those in authority had been “out of touch with reality in the modern world” and calls for immediate policy changes to secure victory against Chinese Communist aggression. His five recommendations are to sever diplomatic relations with Communist China until Indian territory is cleared, accept military aid from friendly countries, adjust relations with Pakistan so troops can be concentrated against China, isolate the Communist “Fifth Column” and ban the Communist Party of India, and revise an obsolete foreign policy. The document is marked both “For favour of publication” and “Not for publication” and does not print a year, publisher, or issuer.
 ---
 
+## Summary
+
+This single-sheet press copy reports M. R. Masani’s remarks at a Swatantra Party public meeting in Delhi on 6 November. Masani presents the party as policy-focused rather than personality-driven and argues that democratic opposition should give the defence effort its fullest support while retaining the right to criticise government policies that have weakened national security. He points to the government’s limited electoral mandate—45 per cent of the electorate—as a reason it could not speak for the country as a whole.
+
+Masani welcomes the Prime Minister’s admission that those in authority had been “out of touch with reality in the modern world” and calls for immediate policy changes to secure victory against Chinese Communist aggression. His five recommendations are to sever diplomatic relations with Communist China until Indian territory is cleared, accept military aid from friendly countries, adjust relations with Pakistan so troops can be concentrated against China, isolate the Communist “Fifth Column” and ban the Communist Party of India, and revise an obsolete foreign policy. The document is marked both “For favour of publication” and “Not for publication” and does not print a year, publisher, or issuer.
+
 ## Key points
 
 - Masani defines the Swatantra Party as interested in policies rather than personalities and opposed to seeking partisan advantage.

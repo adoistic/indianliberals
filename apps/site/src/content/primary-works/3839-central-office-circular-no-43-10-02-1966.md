@@ -58,6 +58,12 @@ summary: |-
   The talking points advocate reducing taxes and government loans by transferring non-essential or unremunerative state enterprises to private enterprise, reforming land-revenue and irrigation laws, reducing excise and sales taxes, and ending inflationary policies. They combine quotations from Mahatma Gandhi and Nani Palkhivala with Swatantra Party policy statements, Reserve Bank data, comparisons with Japan, and tables showing the growth of state revenue and excise duties between the early 1950s and 1965–66. The final handbill turns these arguments into eight demands, including no new Union taxes, withdrawal of enhanced land and paddy levies, sharp reductions in taxes on daily necessities and the middle class, abolition of the Gold Control Act, and removal of zonal restrictions on foodgrain movement.
 ---
 
+## Summary
+
+This Central Office Circular, issued by S. V. Raju on February 10, 1966, mobilises Swatantra Party units for an “Anti-Excessive Taxation Day” on February 20. It asks local organisations to hold public meetings and processions denouncing rising taxation, use the enclosed talking points, and report how the day was observed. The accompanying material frames taxation as an economic and political issue, arguing that excessive direct and indirect taxes discourage work, saving, investment, production, and enterprise while imposing disproportionate burdens on agriculturists, small traders, and the middle class.
+
+The talking points advocate reducing taxes and government loans by transferring non-essential or unremunerative state enterprises to private enterprise, reforming land-revenue and irrigation laws, reducing excise and sales taxes, and ending inflationary policies. They combine quotations from Mahatma Gandhi and Nani Palkhivala with Swatantra Party policy statements, Reserve Bank data, comparisons with Japan, and tables showing the growth of state revenue and excise duties between the early 1950s and 1965–66. The final handbill turns these arguments into eight demands, including no new Union taxes, withdrawal of enhanced land and paddy levies, sharp reductions in taxes on daily necessities and the middle class, abolition of the Gold Control Act, and removal of zonal restrictions on foodgrain movement.
+
 ## Key points
 
 - The circular directs Swatantra Party units to organise meetings and processions for Anti-Excessive Taxation Day on February 20, 1966.

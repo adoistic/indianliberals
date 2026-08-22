@@ -45,6 +45,10 @@ summary: |-
   This untitled English letter from Bombay, dated 16 July 1963, is Minoo Masani’s brief acknowledgment to Mr. S. Khambata. Masani thanks Khambata for a letter and contribution, notes that a receipt has already been sent, and expresses appreciation for Khambata’s prompt response.
 ---
 
+## Summary
+
+This untitled English letter from Bombay, dated 16 July 1963, is Minoo Masani’s brief acknowledgment to Mr. S. Khambata. Masani thanks Khambata for a letter and contribution, notes that a receipt has already been sent, and expresses appreciation for Khambata’s prompt response.
+
 ## Key points
 
 - The letter is dated 16 July 1963 and is written from Bombay.

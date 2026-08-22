@@ -53,6 +53,12 @@ summary: |-
   The minutes also record Prof. N. G. Ranga's report on discussions between party leaders, the Prime Minister, and the Home Minister concerning Telangana. A further decision was to write to the Prime Minister about developments in Bengal, particularly the United Front government's call for a bandh, which the members regarded as having serious constitutional implications and as an apparent confrontation with the Centre. The document is dated April 11, 1969, and is signed by C. C. Desai as Secretary.
 ---
 
+## Summary
+
+This one-page English-language office record documents a meeting of the Swatantra Party's Executive Committee held on April 10, 1969, at the Party Room, Central Hall. The meeting considered the Jana Sangh's request to postpone elections to the party's financial committees; members decided that the elections should instead be held on April 25, while remaining willing to accommodate the request if the proposed date was unacceptable to the Jana Sangh.
+
+The minutes also record Prof. N. G. Ranga's report on discussions between party leaders, the Prime Minister, and the Home Minister concerning Telangana. A further decision was to write to the Prime Minister about developments in Bengal, particularly the United Front government's call for a bandh, which the members regarded as having serious constitutional implications and as an apparent confrontation with the Centre. The document is dated April 11, 1969, and is signed by C. C. Desai as Secretary.
+
 ## Key points
 
 - The Executive Committee meeting took place on April 10, 1969, at the Swatantra Party's room in Central Hall.

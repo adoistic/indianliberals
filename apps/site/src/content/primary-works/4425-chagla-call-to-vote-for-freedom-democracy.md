@@ -55,6 +55,12 @@ summary: |-
   The leaflet focuses on the erosion of civil liberties during the Emergency. Chagla alleges that an independent judiciary had been undermined, dissent and criticism suppressed, newspapers censored, and citizens arrested without trial. He links socialism to the need for both equality and freedom, warning that equality without freedom becomes tyranny. The appeal concludes by asking voters to support the party that will guarantee democratic rights, an independent judiciary, and freedom of the press.
 ---
 
+## Summary
+
+This two-page English political leaflet reports M. C. Chagla’s address to a public meeting of the Citizens for Democracy at Sunderbai Hall. Chagla presents the coming election as a decisive choice between democracy and dictatorship, urging voters to judge parties by their records and issues rather than by electoral promises. He argues that the slogan “garibi hatao” had not eliminated poverty and that poverty had instead increased.
+
+The leaflet focuses on the erosion of civil liberties during the Emergency. Chagla alleges that an independent judiciary had been undermined, dissent and criticism suppressed, newspapers censored, and citizens arrested without trial. He links socialism to the need for both equality and freedom, warning that equality without freedom becomes tyranny. The appeal concludes by asking voters to support the party that will guarantee democratic rights, an independent judiciary, and freedom of the press.
+
 ## Key points
 
 - M. C. Chagla urges citizens to vote for freedom and democracy in the coming election.

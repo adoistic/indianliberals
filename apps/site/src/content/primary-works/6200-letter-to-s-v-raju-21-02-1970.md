@@ -50,6 +50,10 @@ summary: |-
   This one-page letter, dated 21 February 1970, was written by M. R. Masani from the Swatantra Party National Headquarters to S. V. Raju. Masani passes on six operational instructions connected with an unfolding controversy over the Preventive Detention Bill, press coverage, party finances, and the preparation of minutes for two Bombay meetings. He asks Raju to ensure that Dr. Cooper receives relevant correspondence and to coordinate with B. N. Singh on developments arising from the Bill.
 ---
 
+## Summary
+
+This one-page letter, dated 21 February 1970, was written by M. R. Masani from the Swatantra Party National Headquarters to S. V. Raju. Masani passes on six operational instructions connected with an unfolding controversy over the Preventive Detention Bill, press coverage, party finances, and the preparation of minutes for two Bombay meetings. He asks Raju to ensure that Dr. Cooper receives relevant correspondence and to coordinate with B. N. Singh on developments arising from the Bill.
+
 ## Key points
 
 - Masani asks Raju to follow up with The Times of India if a letter concerning Dr. Cooper is not published on Monday.

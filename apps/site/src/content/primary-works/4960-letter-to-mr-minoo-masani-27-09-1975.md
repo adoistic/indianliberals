@@ -48,6 +48,12 @@ summary: |-
   Daru also proposes using Masani's presence in Ahmedabad for a public meeting at 6:30 p.m., where the conference proceedings could be explained. He offers travel options to Bombay by the Gujarat Mail after 1 October or by a Monday morning flight, and asks Masani to indicate his preference so that reservations can be made. The letter documents conference logistics, political communication, and an effort to extend the conference's reach through a public meeting.
 ---
 
+## Summary
+
+This single-page letter, dated 27 September 1975, is from Ahmedabad advocate C. T. Daru to M. R. Masani. Daru explains that the conference will conclude at 5:30 p.m., but that Masani's presence is needed until the end because one or two resolutions remain to be considered.
+
+Daru also proposes using Masani's presence in Ahmedabad for a public meeting at 6:30 p.m., where the conference proceedings could be explained. He offers travel options to Bombay by the Gujarat Mail after 1 October or by a Monday morning flight, and asks Masani to indicate his preference so that reservations can be made. The letter documents conference logistics, political communication, and an effort to extend the conference's reach through a public meeting.
+
 ## Key points
 
 - The letter is dated 27 September 1975 and is written from Ahmedabad by advocate C. T. Daru.

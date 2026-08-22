@@ -51,6 +51,12 @@ summary: |-
   The report also highlights Rajaji’s public career: he served as Governor-General, was the first and only Indian to hold that office, and founded the Swatantra Party after nearly two decades in the Indian National Congress. A separate section records Gandhi’s tributes to several recently deceased parliamentarians and public figures, including Shaukatullah Shah Ansari, Bakar Ali Mirza, Krishna Kumar Chatterji, G. D. Somani, General Himatsinghji, and M. Ramure.
 ---
 
+## Summary
+
+This one-page Deccan Chronicle report records Parliament’s tributes to C. Rajagopalachari (Rajaji), who had died shortly before the sitting. Prime Minister Indira Gandhi described him as a powerful intellect, a guardian of human culture, and an exceptional parliamentarian; the House observed two minutes’ silence and leaders from across the political spectrum joined in the tributes.
+
+The report also highlights Rajaji’s public career: he served as Governor-General, was the first and only Indian to hold that office, and founded the Swatantra Party after nearly two decades in the Indian National Congress. A separate section records Gandhi’s tributes to several recently deceased parliamentarians and public figures, including Shaukatullah Shah Ansari, Bakar Ali Mirza, Krishna Kumar Chatterji, G. D. Somani, General Himatsinghji, and M. Ramure.
+
 ## Key points
 
 - Parliament paid formal tribute to C. Rajagopalachari following his death.

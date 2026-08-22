@@ -50,6 +50,10 @@ summary: |-
   In the rendered pages, M. R. Masani argues that an effective opposition is indispensable to democratic government. Because citizens and groups hold competing interests, those who are not represented by the government of the day must be able to pursue their views and ultimately seek office. Opposition is therefore not merely a negative force: it protects minority interests, scrutinizes the majority, watches over the Constitution and the principles of a free society, draws attention to public issues, and offers alternative solutions. Masani invokes E. F. M. Durbin’s test of democratic genuineness and points to the Soviet Union as a contrasting example where opposition does not function.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that an effective opposition is indispensable to democratic government. Because citizens and groups hold competing interests, those who are not represented by the government of the day must be able to pursue their views and ultimately seek office. Opposition is therefore not merely a negative force: it protects minority interests, scrutinizes the majority, watches over the Constitution and the principles of a free society, draws attention to public issues, and offers alternative solutions. Masani invokes E. F. M. Durbin’s test of democratic genuineness and points to the Soviet Union as a contrasting example where opposition does not function.
+
 ## Key points
 
 - The essay presents opposition as nearly as important to democracy as the ruling party.

@@ -47,6 +47,10 @@ summary: |-
   This typed letter from the Swatantra Party (Punjab) State Office in Patiala, dated 6 November 1959, is addressed to M. R. Masani. The apparent signatory, Dr. Besant Singh, acknowledges Masani's earlier correspondence and discusses arrangements for welcoming Dr. Jogindra Nath Kaul to the party. Singh proposes that Masani and other party colleagues meet Kaul either at the party's state office or at a central location, and suggests inviting him to Patiala for fuller discussions.
 ---
 
+## Summary
+
+This typed letter from the Swatantra Party (Punjab) State Office in Patiala, dated 6 November 1959, is addressed to M. R. Masani. The apparent signatory, Dr. Besant Singh, acknowledges Masani's earlier correspondence and discusses arrangements for welcoming Dr. Jogindra Nath Kaul to the party. Singh proposes that Masani and other party colleagues meet Kaul either at the party's state office or at a central location, and suggests inviting him to Patiala for fuller discussions.
+
 ## Key points
 
 - The letter is written on Swatantra Party (Punjab) State Office letterhead from Patiala.

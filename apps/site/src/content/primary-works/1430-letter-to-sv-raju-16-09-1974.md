@@ -48,6 +48,12 @@ summary: |-
   At the same time, Desai cautions Raju against judging the new party and its potential too harshly. The letter therefore combines agreement about political conduct with a more measured assessment of the party's prospects.
 ---
 
+## Summary
+
+This one-page letter, dated 16 September 1974 and signed by K. D. Desai, responds to S. V. Raju's article in Freedom First. Desai calls the article an interesting and unusually insightful discussion containing facts, and agrees with Raju's criticism of the new party's political methods, particularly what he terms “Tamney Hall Methods.”
+
+At the same time, Desai cautions Raju against judging the new party and its potential too harshly. The letter therefore combines agreement about political conduct with a more measured assessment of the party's prospects.
+
 ## Key points
 
 - Desai thanks S. V. Raju for his letter dated 10 September 1974.

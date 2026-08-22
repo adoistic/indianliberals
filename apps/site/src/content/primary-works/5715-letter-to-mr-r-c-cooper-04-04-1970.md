@@ -51,6 +51,12 @@ summary: |-
   Masani urges that the Gujarat colleagues be given a clear choice between remaining with the Swatantra Party and joining C. C. Desai, rather than postponing the issue until after the next government convention. He encloses correspondence concerning Raju and asks that Raju prepare a chronological account of developments in Gujarat since the last National Executive meeting in Bombay. The sheet is a typed office letter with handwritten annotations and an archival number circled at the top.
 ---
 
+## Summary
+
+In this letter dated 4 April 1970, M. R. Masani discusses an effort to keep the C. C. Desai issue separate from the wider crisis in Gujarat politics. He reports that pressure is being applied to connect the two matters, including threats of resignation if C. C. Desai is expelled, and argues that the party must be prepared either for the financial and political cost of a change in leadership or for a new president willing to run the party on a different line.
+
+Masani urges that the Gujarat colleagues be given a clear choice between remaining with the Swatantra Party and joining C. C. Desai, rather than postponing the issue until after the next government convention. He encloses correspondence concerning Raju and asks that Raju prepare a chronological account of developments in Gujarat since the last National Executive meeting in Bombay. The sheet is a typed office letter with handwritten annotations and an archival number circled at the top.
+
 ## Key points
 
 - Masani describes an attempt to connect the C. C. Desai dispute with the broader crisis in Gujarat politics.

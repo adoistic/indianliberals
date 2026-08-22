@@ -47,6 +47,12 @@ summary: |-
   She asks Srinivasan to forward copies of the suggestions submitted for consideration at the party's National Convention. The letter closes with Daftary's regret that she is unable to attend the meeting. No further explanation of her absence or details of the proposed suggestions appear on the page.
 ---
 
+## Summary
+
+This single-page English office letter, dated 28 October 1970, is addressed by Smt. Sharayu A. Daftary to Shri K. S. Srinivasan, Office Secretary of the Swatantra Party's Bombay Region. Daftary acknowledges receipt of notice for the regional meeting scheduled for 2 November 1970 and refers specifically to Point No. 4 of the agenda.
+
+She asks Srinivasan to forward copies of the suggestions submitted for consideration at the party's National Convention. The letter closes with Daftary's regret that she is unable to attend the meeting. No further explanation of her absence or details of the proposed suggestions appear on the page.
+
 ## Key points
 
 - The letter is dated 28 October 1970.

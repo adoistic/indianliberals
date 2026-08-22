@@ -51,6 +51,12 @@ summary: |-
   The report also discusses disagreement within the party over support for United Fronts in different states, including Gujarat and possibly Haryana, and notes that some members favoured a more accommodating approach while others opposed compromise. The party’s general secretary, N. Dandekar, is quoted as saying that Masani had already been treated as having resigned and had been asked for an explanation. The clipping does not identify the newspaper, publisher, or printed date.
 ---
 
+## Summary
+
+This newspaper report describes efforts within the Swatantra Party to persuade Minoo Masani not to resign. Masani had reportedly tendered his resignation as a member of the party’s National Executive, following a commitment made to him at a party meeting; the report says the National Executive was expected to consider the matter. The immediate dispute appears to involve objections to Masani’s position on party policy and cooperation with other political groups.
+
+The report also discusses disagreement within the party over support for United Fronts in different states, including Gujarat and possibly Haryana, and notes that some members favoured a more accommodating approach while others opposed compromise. The party’s general secretary, N. Dandekar, is quoted as saying that Masani had already been treated as having resigned and had been asked for an explanation. The clipping does not identify the newspaper, publisher, or printed date.
+
 ## Key points
 
 - Minoo Masani was urged not to resign from the Swatantra Party.

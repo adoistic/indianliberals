@@ -51,6 +51,10 @@ summary: |-
   In this essay, M. R. Masani argues that an opposition is indispensable to democratic government. Because citizens and groups pursue interests that may conflict, those whose views do not prevail must be able to persuade others and eventually form a government of their own. Opposition therefore has an importance nearly equal to that of the ruling party: it represents minority hopes, tests whether democracy is genuine, scrutinizes constitutional principles, and keeps open the possibility that majority decisions can be corrected in light of new facts.
 ---
 
+## Summary
+
+In this essay, M. R. Masani argues that an opposition is indispensable to democratic government. Because citizens and groups pursue interests that may conflict, those whose views do not prevail must be able to persuade others and eventually form a government of their own. Opposition therefore has an importance nearly equal to that of the ruling party: it represents minority hopes, tests whether democracy is genuine, scrutinizes constitutional principles, and keeps open the possibility that majority decisions can be corrected in light of new facts.
+
 ## Key points
 
 - Opposition is presented as a necessary feature of democracy, not merely a tolerated institutional presence.

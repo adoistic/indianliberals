@@ -49,6 +49,10 @@ summary: |-
   This single-page letter, dated 31 October 1963, is from C. Rajagopalachari to M. R. Masani. Rajagopalachari welcomes Masani back, expresses hope that he has returned in better health and spirits, and notes that the new president of the Jan Sangh has been corresponding with him. He encloses the latest communication from that party leader.
 ---
 
+## Summary
+
+This single-page letter, dated 31 October 1963, is from C. Rajagopalachari to M. R. Masani. Rajagopalachari welcomes Masani back, expresses hope that he has returned in better health and spirits, and notes that the new president of the Jan Sangh has been corresponding with him. He encloses the latest communication from that party leader.
+
 ## Key points
 
 - The letter is dated 31 October 1963 and is written from Madras.

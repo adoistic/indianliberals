@@ -55,6 +55,12 @@ summary: |-
   The attached text argues that the benefits of devaluation will be largely neutralized by export duties and that the resulting 10–15 per cent de facto adjustment is insufficient to expand exports. It therefore calls for the abolition of export duties introduced with devaluation. The accompanying policy recommendations extend beyond trade: anti-inflationary discipline, reductions in non-developmental public expenditure, limits on foreign borrowing, postponement of costly capital projects, tax reduction, and dismantling permits, licences, exchange controls, and import licensing. Transitional measures are proposed for exporters and stranded industrial projects, while import duties and surcharges on raw materials, fuels, and spare parts are to be abolished.
 ---
 
+## Summary
+
+In this letter of 20 June 1966, B. R. Shenoy writes to M. R. Masani about a draft concerning export duties and encloses revised text for Masani's use. Shenoy says he has also sent a statement on devaluation, and explains that his suggested placement of the export-duty paragraph reflects his view of its importance to the corrective mechanism of devaluation.
+
+The attached text argues that the benefits of devaluation will be largely neutralized by export duties and that the resulting 10–15 per cent de facto adjustment is insufficient to expand exports. It therefore calls for the abolition of export duties introduced with devaluation. The accompanying policy recommendations extend beyond trade: anti-inflationary discipline, reductions in non-developmental public expenditure, limits on foreign borrowing, postponement of costly capital projects, tax reduction, and dismantling permits, licences, exchange controls, and import licensing. Transitional measures are proposed for exporters and stranded industrial projects, while import duties and surcharges on raw materials, fuels, and spare parts are to be abolished.
+
 ## Key points
 
 - Shenoy returns a draft to Masani with marginal suggestions and discusses the placement of a paragraph on export duties.

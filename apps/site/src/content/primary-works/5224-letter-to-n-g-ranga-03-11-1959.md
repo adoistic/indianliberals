@@ -50,6 +50,12 @@ summary: |-
   Shroff draws particular attention to a resolution inviting the All India Swatantra Party Organising Committee to hold its next session at Patna. He formally extends that invitation and suggests February 1960 as a convenient time, while noting that the final fixing of the date is left to the Centre. The letter includes a handwritten signature and a carbon-copy distribution list naming several political figures.
 ---
 
+## Summary
+
+This untitled letter from A. D. Shroff to N. G. Ranga, dated 3 November 1959, reports on the Bihar Provincial Committee of the Janata Party meeting at Patna on 25 October. The committee ratified its merger with the Swatantra Party, constituted itself as the Provincial Committee of the Bihar State Swatantra Party, and adopted resolutions concerning its organization and other matters.
+
+Shroff draws particular attention to a resolution inviting the All India Swatantra Party Organising Committee to hold its next session at Patna. He formally extends that invitation and suggests February 1960 as a convenient time, while noting that the final fixing of the date is left to the Centre. The letter includes a handwritten signature and a carbon-copy distribution list naming several political figures.
+
 ## Key points
 
 - The Bihar Provincial Committee of the Janata Party met at its Patna office on 25 October 1959.

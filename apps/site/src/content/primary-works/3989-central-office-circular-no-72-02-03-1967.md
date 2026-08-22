@@ -52,6 +52,12 @@ summary: |-
   The administrative purpose is to prepare tabulated statements for the forthcoming meeting of the party's National Executive. Recipients are asked to send the requested information within a week of receiving the letter. The document therefore records the party's effort to consolidate and evaluate its 1967 electoral performance, rather than presenting election results itself.
 ---
 
+## Summary
+
+Dated 2 March 1967, this one-page Central Office Circular from the Swatantra Party requests state-level election information from a party contact, separately for the Lok Sabha and State Assembly contests. Signed by Executive Secretary S. V. Raju, the circular asks for valid votes polled, turnout percentage, Swatantra Party votes and vote share, the total number of seats, seats contested and won, unsuccessful Swatantra candidates who finished first among defeated candidates, and candidates who lost their deposits. It also requests detailed results for every Swatantra-sponsored candidate.
+
+The administrative purpose is to prepare tabulated statements for the forthcoming meeting of the party's National Executive. Recipients are asked to send the requested information within a week of receiving the letter. The document therefore records the party's effort to consolidate and evaluate its 1967 electoral performance, rather than presenting election results itself.
+
 ## Key points
 
 - The document is Central Office Circular No. 72, dated 2 March 1967, issued on Swatantra Party letterhead from Bombay.

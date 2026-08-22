@@ -47,6 +47,12 @@ summary: |-
   Masani frames Ranga's visit as a boost to the Swatantra Party's campaign efforts in Gujarat — the letter falls in the run-up to the 1971 general election period — and closes with a brief note that enclosed photographs of the meeting may amuse the recipient. The tone is personal and collegial rather than programmatic, and the document offers a small window into the internal correspondence coordinating Swatantra's national leadership across regional campaigns.
 ---
 
+## Summary
+
+A single-page typed letter from Minoo Masani to Professor N. G. Ranga, dated 4 March 1971. Masani writes shortly after Ranga has returned from Gujarat to his constituency at Nidubrolu, thanking him for making the trip and for the impact of the public meeting he addressed at Rajkot.
+
+Masani frames Ranga's visit as a boost to the Swatantra Party's campaign efforts in Gujarat — the letter falls in the run-up to the 1971 general election period — and closes with a brief note that enclosed photographs of the meeting may amuse the recipient. The tone is personal and collegial rather than programmatic, and the document offers a small window into the internal correspondence coordinating Swatantra's national leadership across regional campaigns.
+
 ## Key points
 
 - Personal letter from Minoo Masani (M. R. Masani) to N. G. Ranga, dated 4 March 1971.

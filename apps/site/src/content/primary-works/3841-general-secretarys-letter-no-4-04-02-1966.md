@@ -51,6 +51,12 @@ summary: |-
   Candidates are instructed to submit a report every three months describing constituency work, including the work of the full-time Organiser, signed by the candidate and the other two members of the Three-Man Committee. The committee must meet at least monthly and send countersigned minutes with the quarterly report. Candidates must also submit quarterly statements of accounts for grants received from the Centre, with expenditure detailed under various heads, and send copies of both documents to the State Office.
 ---
 
+## Summary
+
+In this one-page letter dated February 4, 1966, Swatantra Party General Secretary M. R. Masani addresses prospective parliamentary candidates about previously unclear requirements for submitting quarterly reports and accounts. The letter establishes a regular administrative reporting system intended to improve the functioning and oversight of party work in each constituency.
+
+Candidates are instructed to submit a report every three months describing constituency work, including the work of the full-time Organiser, signed by the candidate and the other two members of the Three-Man Committee. The committee must meet at least monthly and send countersigned minutes with the quarterly report. Candidates must also submit quarterly statements of accounts for grants received from the Centre, with expenditure detailed under various heads, and send copies of both documents to the State Office.
+
 ## Key points
 
 - The letter responds to confusion surrounding the submission of quarterly reports and accounts by prospective candidates.

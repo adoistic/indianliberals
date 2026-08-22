@@ -47,6 +47,12 @@ summary: |-
   Because he has received no response from Mody, Sodhi says he has decided to wait for the next opportunity rather than attend the convention at this time. The letter is brief and logistical; it does not explain the convention's subject or identify the organisation convening it.
 ---
 
+## Summary
+
+This single-page letter, dated 30 July 1959, is from Sirdar H. S. Sodhi of New Delhi to Sir Homi P. Mody in Bombay. Sodhi refers to an earlier letter dated 21 July in which he had indicated that he might travel to Bombay to attend a convention.
+
+Because he has received no response from Mody, Sodhi says he has decided to wait for the next opportunity rather than attend the convention at this time. The letter is brief and logistical; it does not explain the convention's subject or identify the organisation convening it.
+
 ## Key points
 
 - The document is a typed personal letter dated 30 July 1959.

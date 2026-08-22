@@ -48,6 +48,12 @@ summary: |-
   The letter claims that Kaul could bring at least 5,000 members, several hundred trade-union workers, and additional support from Himachal Pradesh and Punjab. It asks Masani to use his party machinery to persuade Kaul to join, framing the proposed alliance as a collective effort to “save India from Congress Loot.” A handwritten note at the top states that the original was sent to Sardar Bhagat Singh on 22 October, but the visible copy is addressed to Masani and bears the date 16 October 1959.
 ---
 
+## Summary
+
+This one-page typed carbon-copy letter, dated 16 October 1959 from Simla and addressed to Shri Minoo Masani, discusses the formation of Masani's party. Avtar Krishna urges Masani to approach Dr. Jogindra N. Kaul, described as an ex-Socialist leader of national prominence, prominent ex-Socialist trade-union adviser, journalist, and influential organiser.
+
+The letter claims that Kaul could bring at least 5,000 members, several hundred trade-union workers, and additional support from Himachal Pradesh and Punjab. It asks Masani to use his party machinery to persuade Kaul to join, framing the proposed alliance as a collective effort to “save India from Congress Loot.” A handwritten note at the top states that the original was sent to Sardar Bhagat Singh on 22 October, but the visible copy is addressed to Masani and bears the date 16 October 1959.
+
 ## Key points
 
 - The letter concerns the formation of Shri Minoo Masani's party.

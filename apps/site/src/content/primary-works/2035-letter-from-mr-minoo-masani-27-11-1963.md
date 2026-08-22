@@ -48,6 +48,12 @@ summary: |-
   The document is addressed from “MASANI,” at 9 Curzon Road, New Delhi 11, and bears a handwritten signature. The page does not print the sender’s full name, recipient names, or a formal title.
 ---
 
+## Summary
+
+This single-page English office communication, dated 27 November 1963, is headed “SWATANTRA” and identifies Madras as its place of issue. It asks that two thousand copies be made available to the Office Parliamentary Group of the party, apparently for reprinting front-page articles from Rajaji’s publication dated 13 November.
+
+The document is addressed from “MASANI,” at 9 Curzon Road, New Delhi 11, and bears a handwritten signature. The page does not print the sender’s full name, recipient names, or a formal title.
+
 ## Key points
 
 - The document is a one-page Swatantra Party office communication.

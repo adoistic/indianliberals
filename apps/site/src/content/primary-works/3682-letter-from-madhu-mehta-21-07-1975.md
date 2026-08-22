@@ -51,6 +51,12 @@ summary: |-
   Addressed to Mrs. N. Dandekar, the letter asks her to redirect her share of the rent for premises formerly belonging to the Swatantra Party to the Bharatiya Lok Dal, described as the legal owner. Mehta explains that the letter would ordinarily have come from Piloo Mody, but that Mody had been arrested with other political leaders under the D.I.R.; the document therefore also records the political repression surrounding the correspondence.
 ---
 
+## Summary
+
+This one-page letter, dated 21 July 1975 and issued on Swatantra Party National Headquarters letterhead, concerns the administrative consequences of the party's merger into the Bharatiya Lok Dal on 29 August 1974. Madhu Mehta states that the Swatantra Party's rights, assets, and liabilities were vested in the Bharatiya Lok Dal, and that the Chief Election Commissioner had accepted it as the Swatantra Party's successor.
+
+Addressed to Mrs. N. Dandekar, the letter asks her to redirect her share of the rent for premises formerly belonging to the Swatantra Party to the Bharatiya Lok Dal, described as the legal owner. Mehta explains that the letter would ordinarily have come from Piloo Mody, but that Mody had been arrested with other political leaders under the D.I.R.; the document therefore also records the political repression surrounding the correspondence.
+
 ## Key points
 
 - The letter records the Swatantra Party's merger into the Bharatiya Lok Dal on 29 August 1974.

@@ -56,6 +56,12 @@ summary: |-
   Masani identifies Communist China as the principal threat to India’s independence, democratic way of life, and survival. He calls for India to lead a regional security arrangement with Japan and Australia, support the defence of South and Southeast Asian countries, recognise the Tibetan government-in-exile associated with the Dalai Lama, and establish diplomatic relations with both the Republic of China and Israel. He advocates a firm short-term posture toward Pakistan while keeping open the possibility of normal long-term relations, and urges cooperation with both the United States and the Soviet Union rather than an absolutist form of non-alignment. The essay also makes a practical case for American assistance in defence, food, and economic aid, while warning India not to replace one diplomatic illusion with another.
 ---
 
+## Summary
+
+In this essay, M. R. Masani argues that India must radically revise its foreign policy by abandoning ideological dogma in favour of realistic diplomacy. He attributes India’s recent isolation to three weaknesses: naivety, a narcissistic belief that other countries viewed India as Indians viewed themselves, and an attitude of moral self-righteousness. He points to the Panch Sheel agreement with Communist China, India’s treatment of Israel, and its failure to support South Vietnam and Malaysia as examples of this mistaken approach.
+
+Masani identifies Communist China as the principal threat to India’s independence, democratic way of life, and survival. He calls for India to lead a regional security arrangement with Japan and Australia, support the defence of South and Southeast Asian countries, recognise the Tibetan government-in-exile associated with the Dalai Lama, and establish diplomatic relations with both the Republic of China and Israel. He advocates a firm short-term posture toward Pakistan while keeping open the possibility of normal long-term relations, and urges cooperation with both the United States and the Soviet Union rather than an absolutist form of non-alignment. The essay also makes a practical case for American assistance in defence, food, and economic aid, while warning India not to replace one diplomatic illusion with another.
+
 ## Key points
 
 - Masani calls for a shift from dogmatic non-alignment toward realistic diplomacy.

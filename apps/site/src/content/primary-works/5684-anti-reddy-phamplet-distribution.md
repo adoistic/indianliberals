@@ -50,6 +50,10 @@ summary: |-
   This four-page English-language compilation of newspaper clippings from 13–14 April 1970 records a political controversy surrounding the distribution of an anti-Reddy pamphlet and allegations made in the Presidential election case. The principal news report describes testimony by V. Giri, Muhammad Yunus, and others before the Supreme Court, including denials that pamphlets had been distributed from the Central Hall of Parliament or that communal appeals had been made on behalf of Giri. The report also reproduces arguments about whether particular allegations were incorrect and whether the evidence supported the case against Giri.
 ---
 
+## Summary
+
+This four-page English-language compilation of newspaper clippings from 13–14 April 1970 records a political controversy surrounding the distribution of an anti-Reddy pamphlet and allegations made in the Presidential election case. The principal news report describes testimony by V. Giri, Muhammad Yunus, and others before the Supreme Court, including denials that pamphlets had been distributed from the Central Hall of Parliament or that communal appeals had been made on behalf of Giri. The report also reproduces arguments about whether particular allegations were incorrect and whether the evidence supported the case against Giri.
+
 ## Key points
 
 - The clipping’s main headline concerns the distribution of an “Anti-Reddy pamphlet.”

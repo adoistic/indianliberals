@@ -49,6 +49,12 @@ summary: |-
   The letter is personal correspondence rather than an argument or policy text, but its reference to detention provides limited evidence relevant to civil liberty and the human consequences of imprisonment. The page contains no discussion of the grounds for detention or of the wider political circumstances. The printed date conflicts with the year in the body, which refers to a reply dated 6 January 1977; this record follows the visibly printed date.
 ---
 
+## Summary
+
+This one-page English letter from S. V. Raju to S. S. Meriswamy is dated January 10, 1976. Raju acknowledges Meriswamy's reply of 6 January and expresses concern about his loss of weight during detention. He advises him to take complete rest and says he looks forward to seeing him during a future visit to Bombay.
+
+The letter is personal correspondence rather than an argument or policy text, but its reference to detention provides limited evidence relevant to civil liberty and the human consequences of imprisonment. The page contains no discussion of the grounds for detention or of the wider political circumstances. The printed date conflicts with the year in the body, which refers to a reply dated 6 January 1977; this record follows the visibly printed date.
+
 ## Key points
 
 - S. V. Raju writes to S. S. Meriswamy in a personal letter dated January 10, 1976.

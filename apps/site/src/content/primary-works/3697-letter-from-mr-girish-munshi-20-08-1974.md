@@ -47,6 +47,10 @@ summary: |-
   This two-page English letter, dated 20 August 1974 and signed by Girish L. Munshi as General Secretary, informs Sassoon J. David and Company Limited that the Swatantra Party, Maharashtra, will continue to exist despite any decision by the party’s central organisation to dissolve itself. The letter states that the Maharashtra unit has occupied the premises as a tenant for fifteen years, has regularly paid rent, and intends to maintain its tenancy and relations with the landlord.
 ---
 
+## Summary
+
+This two-page English letter, dated 20 August 1974 and signed by Girish L. Munshi as General Secretary, informs Sassoon J. David and Company Limited that the Swatantra Party, Maharashtra, will continue to exist despite any decision by the party’s central organisation to dissolve itself. The letter states that the Maharashtra unit has occupied the premises as a tenant for fifteen years, has regularly paid rent, and intends to maintain its tenancy and relations with the landlord.
+
 ## Key points
 
 - The Maharashtra unit rejects or distances itself from the proposed dissolution of the Swatantra Party at the national level.

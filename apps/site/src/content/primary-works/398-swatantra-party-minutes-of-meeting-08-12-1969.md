@@ -53,6 +53,12 @@ summary: |-
   The minutes then set out the party's position on the Constitution (Twenty-Third Amendment) Bill concerning the reservation of seats for Scheduled Castes and Scheduled Tribes. Members who strongly opposed the party's amendment could be absent during the vote; if the amendment failed, the Bill would nevertheless be supported, while dissenting members could remain absent. The record also approves support for postponing the Bill's final passage if other parties proposed such a move. Finally, it records nominations to select committees and requests Shri Lobo Prabhu and Professor Amin to speak on taxation and excise legislation.
 ---
 
+## Summary
+
+This one-page office record, dated December 8, 1969, records a meeting of the Swatantra Parliamentary Party's executive committee held at Parliament House in New Delhi. It lists the members present and notes a decision to permit three party members to attend a population-control seminar called by Mr. and Mrs. Deshmukh in their individual capacities.
+
+The minutes then set out the party's position on the Constitution (Twenty-Third Amendment) Bill concerning the reservation of seats for Scheduled Castes and Scheduled Tribes. Members who strongly opposed the party's amendment could be absent during the vote; if the amendment failed, the Bill would nevertheless be supported, while dissenting members could remain absent. The record also approves support for postponing the Bill's final passage if other parties proposed such a move. Finally, it records nominations to select committees and requests Shri Lobo Prabhu and Professor Amin to speak on taxation and excise legislation.
+
 ## Key points
 
 - The executive committee meeting was held at 1:00 p.m. in the Swatantra Party room, Central Hall, Parliament House, New Delhi.

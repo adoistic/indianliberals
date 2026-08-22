@@ -48,6 +48,10 @@ summary: |-
   This one-page statement, dated April 21, 1964, explains the circumstances surrounding S. Buta Singh’s nomination of S. Kapur Singh to the Estimates Committee. It states that Buta Singh was asked whether Kapur Singh sought election to the Public Accounts Committee or Estimates Committee and replied that the nomination was in the public interest. Although the party was not nominating Kapur Singh, Buta Singh was told that others might assist if a nomination were filed and that the Congress Party might place him on the “Agreed List.”
 ---
 
+## Summary
+
+This one-page statement, dated April 21, 1964, explains the circumstances surrounding S. Buta Singh’s nomination of S. Kapur Singh to the Estimates Committee. It states that Buta Singh was asked whether Kapur Singh sought election to the Public Accounts Committee or Estimates Committee and replied that the nomination was in the public interest. Although the party was not nominating Kapur Singh, Buta Singh was told that others might assist if a nomination were filed and that the Congress Party might place him on the “Agreed List.”
+
 ## Key points
 
 - The statement records the circumstances of S. Kapur Singh’s nomination to the Estimates Committee.

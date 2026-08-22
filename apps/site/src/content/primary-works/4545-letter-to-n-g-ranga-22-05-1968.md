@@ -50,6 +50,12 @@ summary: |-
   Mody specifically requests that his speaking time be scheduled when Rajaji is present, and asks Ranga to confirm whether this arrangement is possible. The letter is typed on Mody's parliamentary letterhead, marked as a copy, and records copies sent to C. Rajagopalachari, N. Dandekar, and M. R. Masani.
 ---
 
+## Summary
+
+This personal and confidential letter, dated May 22, 1968, is from Piloo Mody, Member of Parliament for the Swatantra Party, to Professor N. G. Ranga. Mody asks Ranga to allow him approximately twenty minutes to speak during the forthcoming discussion on organisation and party affairs at the General Council meeting in Madras.
+
+Mody specifically requests that his speaking time be scheduled when Rajaji is present, and asks Ranga to confirm whether this arrangement is possible. The letter is typed on Mody's parliamentary letterhead, marked as a copy, and records copies sent to C. Rajagopalachari, N. Dandekar, and M. R. Masani.
+
 ## Key points
 
 - Piloo Mody wrote the letter on May 22, 1968, from his Bombay parliamentary office.

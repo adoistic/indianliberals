@@ -50,6 +50,12 @@ summary: |-
   The letter argues that the resignation has created a damaging public impression: that recent electoral reverses have scattered the party, that it is close to collapse, and that it lacks the moral strength to withstand defeat. It links public and supporter sentiment to the morale of party workers and, in turn, to the party’s capacity to influence national politics. The Matunga Unit therefore appeals to Masani to withdraw his resignation, warning that the party’s immediate need is to avoid any action that further reduces its apparent or real stature. It also contends that Masani’s views on the party’s alliance or adjustment over the eve of the elections do not absolve him of constitutional responsibility for the election debacle.
 ---
 
+## Summary
+
+This two-page letter, dated 13 April 1971, is written by K. H. Subramaniam, president of the Swatantra Party’s Matunga Unit, to Minoo Masani concerning Masani’s reported resignation from the party chairmanship. The unit says it is not attempting to reopen his decision, but wants to present how the matter appears from the perspective of party members and supporters.
+
+The letter argues that the resignation has created a damaging public impression: that recent electoral reverses have scattered the party, that it is close to collapse, and that it lacks the moral strength to withstand defeat. It links public and supporter sentiment to the morale of party workers and, in turn, to the party’s capacity to influence national politics. The Matunga Unit therefore appeals to Masani to withdraw his resignation, warning that the party’s immediate need is to avoid any action that further reduces its apparent or real stature. It also contends that Masani’s views on the party’s alliance or adjustment over the eve of the elections do not absolve him of constitutional responsibility for the election debacle.
+
 ## Key points
 
 - The Matunga Unit writes to Minoo Masani about his reported resignation as chairman of the Swatantra Party.

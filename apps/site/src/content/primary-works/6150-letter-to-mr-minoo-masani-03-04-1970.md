@@ -46,6 +46,12 @@ summary: |-
   Raju closes by proposing that the matter be discussed when he and Masani meet on April 6. The document is administrative correspondence about the handling of an estate; it does not provide further details about the estate, the legal or financial issues involved, or the identities and roles of Dr. Cooper and A. Gopalaswami Rao Saheb.
 ---
 
+## Summary
+
+This one-page letter from S. V. Raju to Minoo Masani, dated April 3, 1970, forwards a copy of C. Rajagopalachari’s ("Rajaji’s") letter concerning the estate of the late A. Gopalaswami Rao Saheb. Raju notes that another copy was sent to Dr. Cooper so that the estate’s various details could receive expert review and action.
+
+Raju closes by proposing that the matter be discussed when he and Masani meet on April 6. The document is administrative correspondence about the handling of an estate; it does not provide further details about the estate, the legal or financial issues involved, or the identities and roles of Dr. Cooper and A. Gopalaswami Rao Saheb.
+
 ## Key points
 
 - S. V. Raju writes to Minoo Masani on April 3, 1970.

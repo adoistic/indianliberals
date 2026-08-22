@@ -66,6 +66,12 @@ summary: |-
   In the rendered pages, the party's economic programme rejects collectivisation, bureaucratic management, pervasive State enterprise, excessive taxation, inflationary finance, and uncertain planning. In the rendered pages, it supports peasant proprietorship, agricultural incentives, competitive private enterprise with labour safeguards, restricted State enterprise, freedom for small producers and self-employed workers, thrift in public expenditure, decentralised industrialisation, and full employment. In the rendered pages, it also supports the rule of law, an independent judiciary, judicial review, freedom of opinion within the party, and political arrangements that preserve citizens' liberty. The later rendered pages include a Telugu-language continuation of the principles, but the material beyond PDF page 20 was not available.
 ---
 
+## Summary
+
+In the rendered pages, the Swatantra Party presents a programme combining social justice and equality of opportunity with maximum individual freedom and limited State interference. In the rendered pages, it argues that government should rely on public initiative rather than coercion, preserve spiritual and cultural values, protect Fundamental Rights, and uphold freedom of property, trade, occupation, and education. In the rendered pages, the statement also endorses Gandhi's principle of Trusteeship and his teachings on truth and non-violence.
+
+In the rendered pages, the party's economic programme rejects collectivisation, bureaucratic management, pervasive State enterprise, excessive taxation, inflationary finance, and uncertain planning. In the rendered pages, it supports peasant proprietorship, agricultural incentives, competitive private enterprise with labour safeguards, restricted State enterprise, freedom for small producers and self-employed workers, thrift in public expenditure, decentralised industrialisation, and full employment. In the rendered pages, it also supports the rule of law, an independent judiciary, judicial review, freedom of opinion within the party, and political arrangements that preserve citizens' liberty. The later rendered pages include a Telugu-language continuation of the principles, but the material beyond PDF page 20 was not available.
+
 ## Key points
 
 - The rendered pages frame social justice and equality of opportunity as compatible with individual freedom and limited State interference.

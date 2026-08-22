@@ -52,6 +52,12 @@ summary: |-
   The minutes condemn what they describe as an “unscrupulous manoeuvre” intended to install a minority government and return the Congress Party to power “through the back door.” They also record a proposal that Haryana’s Assembly be dissolved and a mid-term poll held. P. K. Deo, K. P. Singh Deo, and C. C. Desai disagreed with the decision and suggested consulting the General Body if possible. N. G. Ranga signed the record, which also lists fifteen attendees.
 ---
 
+## Summary
+
+This one-page office record documents an emergent meeting of the Swatantra Party Executive Committee held on 22 November 1967 in the Party Room at Central Hall, Parliament House, New Delhi. The committee decided that its members should not support the no-confidence motion in the Haryana Assembly and should abstain from the final vote.
+
+The minutes condemn what they describe as an “unscrupulous manoeuvre” intended to install a minority government and return the Congress Party to power “through the back door.” They also record a proposal that Haryana’s Assembly be dissolved and a mid-term poll held. P. K. Deo, K. P. Singh Deo, and C. C. Desai disagreed with the decision and suggested consulting the General Body if possible. N. G. Ranga signed the record, which also lists fifteen attendees.
+
 ## Key points
 
 - The Executive Committee met on 22 November 1967 at Central Hall, Parliament House, New Delhi.

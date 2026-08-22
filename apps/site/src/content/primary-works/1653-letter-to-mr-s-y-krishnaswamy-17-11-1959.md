@@ -50,6 +50,12 @@ summary: |-
   The letter explains that the recipient holds Rs. 10,000 on behalf of the Central Committee, an amount previously forwarded to the Madras office and subsequently credited to his Bangalore account. Mody requests confirmation once the transfer has been made. The document is administrative correspondence rather than a statement of political principles.
 ---
 
+## Summary
+
+This urgent letter, dated 17 November 1959 and signed by H. P. Mody on Swatantra Party stationery, concerns the financing of the party's Madras office. Mody asks the Secretary of the Swatantra Party in Bangalore to remit Rs. 5,000 to S. Y. Krishnaswamy at the party's Madras office to meet its expenses.
+
+The letter explains that the recipient holds Rs. 10,000 on behalf of the Central Committee, an amount previously forwarded to the Madras office and subsequently credited to his Bangalore account. Mody requests confirmation once the transfer has been made. The document is administrative correspondence rather than a statement of political principles.
+
 ## Key points
 
 - The letter is marked “URGENT” and dated 17 November 1959.

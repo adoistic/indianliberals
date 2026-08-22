@@ -49,6 +49,12 @@ summary: |-
   Singh Deo also challenges Masani’s criticism of an inquiry commission involving Biju Patnaik and Biren Mitra, noting that a special judge discharged both men and that Patnaik was subsequently elected from Rajnagar with a large majority. He concludes by defending the Orissa unit’s continued constitutional association with the Orissa Pragati Party and the Utkal Congress. The clipping is an attributed news report, not a signed article; no individual reporter is named.
 ---
 
+## Summary
+
+This Times of India News Service report from Bhubaneswar records R. N. Singh Deo’s attack on M. R. Masani over the Swatantra Party’s treatment of its Orissa unit and its relationship with the Utkal Congress. Singh Deo argues that the central leadership should allow the Orissa organisation to state its own position rather than pressuring it to conform to the all-India party line, and he criticises its alleged sympathy for the Nandini Satpathy government.
+
+Singh Deo also challenges Masani’s criticism of an inquiry commission involving Biju Patnaik and Biren Mitra, noting that a special judge discharged both men and that Patnaik was subsequently elected from Rajnagar with a large majority. He concludes by defending the Orissa unit’s continued constitutional association with the Orissa Pragati Party and the Utkal Congress. The clipping is an attributed news report, not a signed article; no individual reporter is named.
+
 ## Key points
 
 - R. N. Singh Deo criticises the Swatantra Party’s central leadership for its treatment of the Orissa unit.

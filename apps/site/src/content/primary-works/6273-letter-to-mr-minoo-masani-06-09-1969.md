@@ -50,6 +50,12 @@ summary: |-
   The memorandum presents the case for appointing Magodia as a Justice of Peace during Mahatma Gandhi's birth-centenary year. It argues that Greater Bombay's Scheduled Caste and Scheduled Tribe communities are too numerous to be adequately served by the existing number and availability of Justices of Peace, causing delays and hardship in obtaining signatures and settling cases. It portrays Magodia as an experienced social worker active in educational and social uplift, fluent in English, Marathi, Gujarati, and Hindi, and committed to serving both his own community and the wider public. The document is complete as rendered; no title is printed on the letter.
 ---
 
+## Summary
+
+This four-page English-language correspondence, dated 6 September 1969, consists of a covering letter from Keshavji B. Magodia to Minoo R. Masani and an enclosed memorandum from the Shri Bulsar Meyavat (Dharma Fund) Mandal, Bombay. Magodia reports that he discussed his nomination as a Justice of Peace with S. V. Raju of the Swatantra Party, following Masani's suggestion, and asks Masani to support the request with the relevant authorities.
+
+The memorandum presents the case for appointing Magodia as a Justice of Peace during Mahatma Gandhi's birth-centenary year. It argues that Greater Bombay's Scheduled Caste and Scheduled Tribe communities are too numerous to be adequately served by the existing number and availability of Justices of Peace, causing delays and hardship in obtaining signatures and settling cases. It portrays Magodia as an experienced social worker active in educational and social uplift, fluent in English, Marathi, Gujarati, and Hindi, and committed to serving both his own community and the wider public. The document is complete as rendered; no title is printed on the letter.
+
 ## Key points
 
 - The letter is dated 6 September 1969 and is addressed by Keshavji B. Magodia to Minoo R. Masani.

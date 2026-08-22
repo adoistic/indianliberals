@@ -71,6 +71,12 @@ summary: |-
   In the rendered pages, Ranga also attacks the Congress government’s handling of fundamental rights, national integration, foreign policy, economic planning, and public enterprises. He condemns India’s dependence on the Soviet Union, criticises the invasion of Czechoslovakia, urges a peaceful Indo-Pakistan settlement and opposition to nuclear weapons, and argues that centralised planning, nationalisation, quotas, licences, and permits have produced waste, inflation, corruption, and economic weakness. The closing pages advocate cooperation among non-Communist democratic opposition parties, while warning that unstable United Front coalitions and defections can further damage parliamentary democracy. Pages 21–24 were not rendered, so the address’s conclusion is not available here.
 ---
 
+## Summary
+
+In the rendered pages, N. G. Ranga presents the Swatantra Party as an advocate for peasants, small producers, and basic freedoms. Responding to widespread drought and flood, he calls for a permanent All-India Famine and Flood Protection Fund, crop and cattle insurance, rural water infrastructure, housing support, and expanded elementary and adult education. The address links these domestic proposals to the party’s broader claim that self-employment, property, initiative, and non-exploitative social relations should be protected rather than displaced by state-directed schemes.
+
+In the rendered pages, Ranga also attacks the Congress government’s handling of fundamental rights, national integration, foreign policy, economic planning, and public enterprises. He condemns India’s dependence on the Soviet Union, criticises the invasion of Czechoslovakia, urges a peaceful Indo-Pakistan settlement and opposition to nuclear weapons, and argues that centralised planning, nationalisation, quotas, licences, and permits have produced waste, inflation, corruption, and economic weakness. The closing pages advocate cooperation among non-Communist democratic opposition parties, while warning that unstable United Front coalitions and defections can further damage parliamentary democracy. Pages 21–24 were not rendered, so the address’s conclusion is not available here.
+
 ## Key points
 
 - Ranga proposes a permanent All-India Famine and Flood Protection Fund financed jointly by the Centre and the States.

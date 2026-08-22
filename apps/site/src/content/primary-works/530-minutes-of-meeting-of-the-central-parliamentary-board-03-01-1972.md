@@ -59,6 +59,12 @@ summary: |-
   The principal business concerned strategy for the forthcoming Assembly elections. The Board reviewed polling schedules, relations with opposition parties, possible electoral adjustments in Punjab and Telangana, state-level manifestos, military training, land-ceiling policy, fundraising, candidate selection, and a proposed Rajya Sabha by-election nomination in Orissa. It rejected national-level alliances while allowing limited state-level seat adjustments, insisted that the Party retain its identity, opposed further lowering of urban land ceilings while calling for implementation of existing land-reform laws, and endorsed supplementary manifesto points on constitutional defence, the permit-licence-quota raj, and increased production. The minutes end with a request for official verification of K. P. Singh Deo's Party membership before approving his nomination.
 ---
 
+## Summary
+
+These six pages record the draft minutes of the Swatantra Party's Central Parliamentary Board meeting held at its National Headquarters in Bombay on January 3, 1972. The meeting began with condolences for the deaths of Prof. P. J. Shroff and Dr. Vikram Sarabhai, confirmation of earlier minutes, and a resolution praising India's armed forces, the public, and the Government of India for their conduct during the recent conflict with Pakistan.
+
+The principal business concerned strategy for the forthcoming Assembly elections. The Board reviewed polling schedules, relations with opposition parties, possible electoral adjustments in Punjab and Telangana, state-level manifestos, military training, land-ceiling policy, fundraising, candidate selection, and a proposed Rajya Sabha by-election nomination in Orissa. It rejected national-level alliances while allowing limited state-level seat adjustments, insisted that the Party retain its identity, opposed further lowering of urban land ceilings while calling for implementation of existing land-reform laws, and endorsed supplementary manifesto points on constitutional defence, the permit-licence-quota raj, and increased production. The minutes end with a request for official verification of K. P. Singh Deo's Party membership before approving his nomination.
+
 ## Key points
 
 - The Board adopted condolence resolutions for Prof. P. J. Shroff and Dr. Vikram Sarabhai and observed a minute's silence.

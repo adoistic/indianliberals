@@ -50,6 +50,12 @@ summary: |-
   In the handwritten letter dated May 28, Sreenivasan thanks Raju for sending printed election literature connected with the National Convention held at Madras in April. He praises Raju's twelve years of service to the party, contrasts the State Party with the Congress Party in terms of values, and says that the literature will not appeal to the group currently in control. The packet records both the practical work of circulating party literature and the correspondents' shared commitment to the Swatantra tradition.
 ---
 
+## Summary
+
+This two-page correspondence packet contains two letters exchanged between S. V. Raju and V. T. Sreenivasan in May 1973. In the typed letter dated May 31, Raju tells Sreenivasan that he regards him as a Swatantrite regardless of formal membership and expresses personal affection. He apologizes for not sending literature to K. H. Srinivasan and Narayana Reddy, says he is sending them material separately, and asks Sreenivasan for help selling or exchanging his well-maintained 1969 Ambassador for a 1967 Fiat through contacts in Bangalore.
+
+In the handwritten letter dated May 28, Sreenivasan thanks Raju for sending printed election literature connected with the National Convention held at Madras in April. He praises Raju's twelve years of service to the party, contrasts the State Party with the Congress Party in terms of values, and says that the literature will not appeal to the group currently in control. The packet records both the practical work of circulating party literature and the correspondents' shared commitment to the Swatantra tradition.
+
 ## Key points
 
 - Raju affirms Sreenivasan's identification with the Swatantra Party even without formal membership.

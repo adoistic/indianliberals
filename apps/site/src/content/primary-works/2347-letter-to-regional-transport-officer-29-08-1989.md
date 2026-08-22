@@ -50,6 +50,12 @@ summary: |-
   Masani returns the bill for Rs 4159 and asks the officer to stop sending similar bills to him in future. The remaining pages document the postal acknowledgement and the envelope addressed to Masani at 14B W.G. Road, Bombay 23. The document records a narrowly administrative dispute over the attribution of vehicle-related charges.
 ---
 
+## Summary
+
+This untitled letter, dated August 29, 1989, is M. R. Masani’s response to the Regional Transport Officer, Bombay (Central), regarding bill no. 8939-890901 for vehicle no. MRZ-8939. Masani states that the vehicle is neither his nor the property of the Swatantra Party, although it is currently with him, and rejects responsibility for the repeated communications and charges from the transport office.
+
+Masani returns the bill for Rs 4159 and asks the officer to stop sending similar bills to him in future. The remaining pages document the postal acknowledgement and the envelope addressed to Masani at 14B W.G. Road, Bombay 23. The document records a narrowly administrative dispute over the attribution of vehicle-related charges.
+
 ## Key points
 
 - The letter is dated August 29, 1989 and addressed to the Regional Transport Officer, Bombay (Central), Tulswadi, Bombay 34.

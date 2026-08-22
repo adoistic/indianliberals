@@ -47,6 +47,10 @@ summary: |-
   This untitled office letter, dated September 17, 1963, is addressed to Mr. Prabhu V. Mehta of Calico Dyeing & Printing Mills Pvt. Ltd. in Bombay. S. V. Raju thanks Mehta's organisation for contributing Rs. 2,000 to “the Party” and informs him that a receipt is enclosed.
 ---
 
+## Summary
+
+This untitled office letter, dated September 17, 1963, is addressed to Mr. Prabhu V. Mehta of Calico Dyeing & Printing Mills Pvt. Ltd. in Bombay. S. V. Raju thanks Mehta's organisation for contributing Rs. 2,000 to “the Party” and informs him that a receipt is enclosed.
+
 ## Key points
 
 - The letter is dated September 17, 1963.

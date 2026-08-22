@@ -48,3 +48,7 @@ ai:
 summary: |-
   This issue of The Afternoon Despatch & Courier, dated Thursday, September 17, 1987, combines general news, commentary, advertising, entertainment, puzzles, and cartoons. The principal liberal-relevant material is M. Minoo Masani’s intervention on the government’s broadcasting monopoly, which argues that the state’s exclusive control of radio and television conflicts with constitutional freedom of speech and expression. The issue also includes Shobha Dé’s celebrity profile “Jackie Oh!” and a range of lighter features and commercial pages.
 ---
+
+## Summary
+
+This issue of The Afternoon Despatch & Courier, dated Thursday, September 17, 1987, combines general news, commentary, advertising, entertainment, puzzles, and cartoons. The principal liberal-relevant material is M. Minoo Masani’s intervention on the government’s broadcasting monopoly, which argues that the state’s exclusive control of radio and television conflicts with constitutional freedom of speech and expression. The issue also includes Shobha Dé’s celebrity profile “Jackie Oh!” and a range of lighter features and commercial pages.

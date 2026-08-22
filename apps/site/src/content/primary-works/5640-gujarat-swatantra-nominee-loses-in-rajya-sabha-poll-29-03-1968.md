@@ -51,6 +51,10 @@ summary: |-
   This two-page English-language archival file combines a Times of India News Service clipping dated Ahmedabad, March 28, with a typed Swatantra Party resolution. The clipping reports a political crisis in the Gujarat Swatantra Party after its candidate lost a Rajya Sabha election. It describes dissent against the party leadership, criticism of the official whip, and resignations or threatened resignations by several party legislators and office-bearers. The voting details state that Congress-backed rebel candidate Udesinh Mahida defeated the Swatantra nominee Babulal Vaidya after preference votes were counted; the report also records objections and proposed organisational changes within the party.
 ---
 
+## Summary
+
+This two-page English-language archival file combines a Times of India News Service clipping dated Ahmedabad, March 28, with a typed Swatantra Party resolution. The clipping reports a political crisis in the Gujarat Swatantra Party after its candidate lost a Rajya Sabha election. It describes dissent against the party leadership, criticism of the official whip, and resignations or threatened resignations by several party legislators and office-bearers. The voting details state that Congress-backed rebel candidate Udesinh Mahida defeated the Swatantra nominee Babulal Vaidya after preference votes were counted; the report also records objections and proposed organisational changes within the party.
+
 ## Key points
 
 - The Gujarat Swatantra Party experienced internal dissent after its Rajya Sabha nominee lost an election.

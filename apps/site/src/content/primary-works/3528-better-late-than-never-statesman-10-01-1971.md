@@ -51,6 +51,12 @@ summary: |-
   The article acknowledges that the opposition parties have not yet articulated a fully agreed common programme, but argues that remaining outside the alliance would have weakened their shared interests. It presents Minoo Masani’s insistence on a common programme as reasonable while accepting that political circumstances require the alliance to develop its programme over time. The editorial concludes that the coalition’s immediate value lies in consolidating democratic forces and providing a safeguard against an unprincipled adjustment between the SSP and CPI(M).
 ---
 
+## Summary
+
+The editorial welcomes the Swatantra Party’s decision to join the National Democratic Front, arguing that the alliance offers a clearer democratic alternative to the increasingly authoritarian direction of Indira Gandhi’s government. It portrays the government as combining a continuing monopoly of power with administrative and political manoeuvre, while seeking legitimacy through promises of popular participation and socialist rhetoric.
+
+The article acknowledges that the opposition parties have not yet articulated a fully agreed common programme, but argues that remaining outside the alliance would have weakened their shared interests. It presents Minoo Masani’s insistence on a common programme as reasonable while accepting that political circumstances require the alliance to develop its programme over time. The editorial concludes that the coalition’s immediate value lies in consolidating democratic forces and providing a safeguard against an unprincipled adjustment between the SSP and CPI(M).
+
 ## Key points
 
 - Welcomes the Swatantra Party’s entry into the National Democratic Front.

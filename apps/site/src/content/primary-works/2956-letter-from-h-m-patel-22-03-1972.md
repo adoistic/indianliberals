@@ -51,6 +51,12 @@ summary: |-
   The letter presents the recent Assembly election results as deeply disappointing and calls on Party members to consider what steps should be taken in the coming weeks and months to restore the Swatantra Party’s strength. It is a brief organisational appeal focused on party participation, internal deliberation, and post-election renewal.
 ---
 
+## Summary
+
+In this letter dated March 22, 1972, H. M. Patel, signing as President of the Swatantra Party, urges the recipient to attend the Party’s General Council meeting in Bombay on April 8–9. Patel asks for attendance “without fail” and refers to the meeting as an opportunity for serious discussion about the Party’s future.
+
+The letter presents the recent Assembly election results as deeply disappointing and calls on Party members to consider what steps should be taken in the coming weeks and months to restore the Swatantra Party’s strength. It is a brief organisational appeal focused on party participation, internal deliberation, and post-election renewal.
+
 ## Key points
 
 - H. M. Patel wrote the letter on March 22, 1972, as President of the Swatantra Party.

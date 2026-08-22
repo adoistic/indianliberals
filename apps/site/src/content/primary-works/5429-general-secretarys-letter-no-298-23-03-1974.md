@@ -54,6 +54,12 @@ summary: |-
   Mehta asks party organisers to come prepared for the Swatantra Party's Sixth National Convention in Madras with proposals for mobilising farmers, retailers, and wholesalers against the government's policy. The proposed campaign is to include direct action and a coordinated programme decided at Madras. The circular also urges immediate contact with merchants, traders, and farmers, recommends seeking the assistance of H. K. Gengaiah of the Farmers Federation of India and its former leaders, and gives special attention to party units in wheat-growing states.
 ---
 
+## Summary
+
+General Secretary's Letter No. 298, dated March 23, 1974, is an urgent circular from Madhu Mehta of the Swatantra Party opposing the Government of India's decision to take over the wholesale trade in wheat. The letter reports that the Party's National Executive had adopted a resolution against the measure at its February 18 meeting in New Delhi, and that a nationwide hartal by the foodgrains trade on March 21 had received a very good response.
+
+Mehta asks party organisers to come prepared for the Swatantra Party's Sixth National Convention in Madras with proposals for mobilising farmers, retailers, and wholesalers against the government's policy. The proposed campaign is to include direct action and a coordinated programme decided at Madras. The circular also urges immediate contact with merchants, traders, and farmers, recommends seeking the assistance of H. K. Gengaiah of the Farmers Federation of India and its former leaders, and gives special attention to party units in wheat-growing states.
+
 ## Key points
 
 - The circular opposes the Government of India's takeover of the wholesale wheat trade.

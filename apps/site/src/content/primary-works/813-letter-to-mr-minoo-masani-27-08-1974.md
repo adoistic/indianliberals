@@ -49,6 +49,12 @@ summary: |-
   The writer refers to a press note stating that Mr. Sinha of Madras would soon hold the party’s convention there, expresses a wish to join the party and work for it, and asks Masani to provide the convention’s full programme. The scan does not establish the signatory’s full identity, and the letter has no printed title.
 ---
 
+## Summary
+
+This letter, dated 27 August 1974 and written from Aligarh by the apparent signatory “A. Ranga” to Minoo Masani, concerns preparations for a Swatantra Party convention in Madras. The writer says that Masani had adopted the correct line at the party convention and reports that somebody had spent about Rs. 10,000, allegedly with the support of one of the party’s leaders, to pack the convention with “u.p. men.”
+
+The writer refers to a press note stating that Mr. Sinha of Madras would soon hold the party’s convention there, expresses a wish to join the party and work for it, and asks Masani to provide the convention’s full programme. The scan does not establish the signatory’s full identity, and the letter has no printed title.
+
 ## Key points
 
 - The letter is dated 27 August 1974 and was sent from Aligarh to Minoo Masani.

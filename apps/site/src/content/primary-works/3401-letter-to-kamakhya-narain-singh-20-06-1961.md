@@ -49,6 +49,12 @@ summary: |-
   Masani also clarifies the party’s financial arrangements and candidate-endorsement procedures. He explains that the previously discussed Rs. 10 lakhs was subject to assumptions about total funds and parliamentary endorsement, that Bihar would receive only its normal July contribution of Rs. 2,475 until candidates were endorsed, and that larger payments could begin from August. He rejects discretionary control by State Presidents over centrally marked funds, while confirming discussions about a credit arrangement and Singh’s expected initial cash payment of Rs. 1 lakh.
 ---
 
+## Summary
+
+In this letter dated 20 June 1961, Minoo Masani responds to Kamakhya Narain Singh’s three earlier letters concerning the Bihar Swatantra Party. Masani records an agreed timetable for collecting candidate names, inspecting districts, preparing the final list, dispatching it to the central office, and securing parliamentary approval. The schedule runs from the end of June through the Parliamentary Sub-committee meeting in Madras on 22–23 July.
+
+Masani also clarifies the party’s financial arrangements and candidate-endorsement procedures. He explains that the previously discussed Rs. 10 lakhs was subject to assumptions about total funds and parliamentary endorsement, that Bihar would receive only its normal July contribution of Rs. 2,475 until candidates were endorsed, and that larger payments could begin from August. He rejects discretionary control by State Presidents over centrally marked funds, while confirming discussions about a credit arrangement and Singh’s expected initial cash payment of Rs. 1 lakh.
+
 ## Key points
 
 - Masani replies to three letters from Kamakhya Narain Singh dated 10 June 1961.

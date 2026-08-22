@@ -58,6 +58,12 @@ summary: |-
   The resolutions also address communal violence in Ahmedabad, calling for effective law and order and welcoming a Supreme Court-led commission of inquiry. They demand the restoration of normal administration in West Bengal and the dismissal of its government, express support for the family of Sardar Darshan Singh Pheruman in a dispute over his ashes, and criticise inadequate famine relief in Rajasthan, Andhra, Gujarat, and Orissa. The Council advocates impartial inquiries and the use of non-political, socially motivated organisations to distribute relief.
 ---
 
+## Summary
+
+This three-page document records resolutions adopted by the Swatantra Party General Council on November 15 and 16, 1969. The resolutions ask the incoming National Executive to turn the Council's Mid-Term Report into a more detailed programme of action, while focusing on civil liberties, press freedom, public order, and accountable governance. The Council condemns the Gujarat Government's alleged misuse of preventive detention against legislators and citizens of Borsad, and urges reconsideration of action against the editor of Jai Hind, describing it as an attempt to restrict the freedom of the press.
+
+The resolutions also address communal violence in Ahmedabad, calling for effective law and order and welcoming a Supreme Court-led commission of inquiry. They demand the restoration of normal administration in West Bengal and the dismissal of its government, express support for the family of Sardar Darshan Singh Pheruman in a dispute over his ashes, and criticise inadequate famine relief in Rajasthan, Andhra, Gujarat, and Orissa. The Council advocates impartial inquiries and the use of non-political, socially motivated organisations to distribute relief.
+
 ## Key points
 
 - The General Council adopts the Mid-Term Report and leaves detailed implementation to the new National Executive.

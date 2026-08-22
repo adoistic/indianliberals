@@ -50,6 +50,12 @@ summary: |-
   The attached draft minutes record the Executive Committee meeting held on 24 December 1969. They document the formation of sub-committees for finance, civic grievances, vigilance and political orientation, publicity, and organisation; a property-rights poster campaign; worker training; publicity and fundraising guidelines for local units; bank-account operating arrangements; and decisions concerning unit subventions. The minutes also refer to a proposed anniversary programme and an event marking C. Rajagopalachari's birthday. The pages show the party's internal organisational, financial, publicity, and property-rights work, but do not include the full details of the proposed January meeting or anniversary programme. The notice's agenda refers to the previous meeting as having been held on 24 December 1970, while the attached minutes identify that meeting as 24 December 1969.
 ---
 
+## Summary
+
+This three-page English circular from the Swatantra Party's Bombay Region, dated 15 January 1970, announces an Executive Committee meeting scheduled for 21 January 1970. Its agenda covers confirmation of earlier minutes, arrangements for the party's tenth-anniversary programme on 15 February, the 1970 budget, and other business. The notice is signed by H. S. Srinivasan as Office Secretary.
+
+The attached draft minutes record the Executive Committee meeting held on 24 December 1969. They document the formation of sub-committees for finance, civic grievances, vigilance and political orientation, publicity, and organisation; a property-rights poster campaign; worker training; publicity and fundraising guidelines for local units; bank-account operating arrangements; and decisions concerning unit subventions. The minutes also refer to a proposed anniversary programme and an event marking C. Rajagopalachari's birthday. The pages show the party's internal organisational, financial, publicity, and property-rights work, but do not include the full details of the proposed January meeting or anniversary programme. The notice's agenda refers to the previous meeting as having been held on 24 December 1970, while the attached minutes identify that meeting as 24 December 1969.
+
 ## Key points
 
 - The Bombay Region Executive Committee is summoned to meet on 21 January 1970 at the party office in Bombay.

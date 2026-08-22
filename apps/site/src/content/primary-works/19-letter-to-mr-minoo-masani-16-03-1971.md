@@ -47,6 +47,10 @@ summary: |-
   This handwritten letter, dated 16 March 1971 and sent from Nadiad, Gujarat, is addressed to Minoo Masani. Ramchandra M. Barot praises Masani for having been defeated while showing “moral courage” by not changing his constituency despite pressure. Barot also notes that Atal Bihari Vajpayee and Krishna Menon changed their constituencies, contrasting their actions with Masani’s steadfastness.
 ---
 
+## Summary
+
+This handwritten letter, dated 16 March 1971 and sent from Nadiad, Gujarat, is addressed to Minoo Masani. Ramchandra M. Barot praises Masani for having been defeated while showing “moral courage” by not changing his constituency despite pressure. Barot also notes that Atal Bihari Vajpayee and Krishna Menon changed their constituencies, contrasting their actions with Masani’s steadfastness.
+
 ## Key points
 
 - The letter is dated 16 March 1971 and originates from Nadiad, Gujarat.

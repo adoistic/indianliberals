@@ -69,6 +69,12 @@ summary: |-
   Its economic programme combines employment-focused development with criticism of bad planning, excessive red tape, inflation, and monopoly. The document proposes rural works, support for educated unemployed people, incentives for enterprise, autonomous public-sector management, competition, agricultural priority, land reform, tenant security, crop and cattle insurance, and assistance for poorer communities. Later sections address education, child nutrition, clean drinking water, family planning, labour rights, collective bargaining, the right to strike, employee participation in management, and independent Lokpal and Lok Ayukta institutions. The text explicitly invokes Mahatma Gandhi’s emphasis on employment and a “Gandhian concept of partnership”; no other named thinker appears in the visible pages.
 ---
 
+## Summary
+
+This six-page programme, issued under the name “The Democratic Front,” presents a political platform centred on national unity, constitutional democracy, fundamental rights, and an active but accountable state. It calls for resisting internal and external threats, protecting India’s territorial integrity, strengthening defence, pursuing non-alignment, improving relations with Pakistan, safeguarding judicial independence, and establishing an Inter-State Council to ease tensions between the Union and the states. It also advocates equality regardless of religion, caste, ethnicity, or birth; protection for minorities and backward classes; a civil-rights commission; opposition to communalism; and firm enforcement of law and order.
+
+Its economic programme combines employment-focused development with criticism of bad planning, excessive red tape, inflation, and monopoly. The document proposes rural works, support for educated unemployed people, incentives for enterprise, autonomous public-sector management, competition, agricultural priority, land reform, tenant security, crop and cattle insurance, and assistance for poorer communities. Later sections address education, child nutrition, clean drinking water, family planning, labour rights, collective bargaining, the right to strike, employee participation in management, and independent Lokpal and Lok Ayukta institutions. The text explicitly invokes Mahatma Gandhi’s emphasis on employment and a “Gandhian concept of partnership”; no other named thinker appears in the visible pages.
+
 ## Key points
 
 - The Democratic Front pledges a programme to defend national unity, territorial security, and democratic pluralism.

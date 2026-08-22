@@ -49,6 +49,10 @@ summary: |-
   This Times of India clipping reports that the Swatantra Party decided against forming a parliamentary bloc or front with its alliance partners after the 1971 general election. M. M. Masani is quoted as saying that the idea of a bloc was no longer worth pursuing, while the party's parliamentary group was instructed to follow Swatantra's own distinctive approach and policies. The report says the decision applied to the party's parliamentary group, including members elected with allies such as the Congress (O), Jana Sangh, and SSP.
 ---
 
+## Summary
+
+This Times of India clipping reports that the Swatantra Party decided against forming a parliamentary bloc or front with its alliance partners after the 1971 general election. M. M. Masani is quoted as saying that the idea of a bloc was no longer worth pursuing, while the party's parliamentary group was instructed to follow Swatantra's own distinctive approach and policies. The report says the decision applied to the party's parliamentary group, including members elected with allies such as the Congress (O), Jana Sangh, and SSP.
+
 ## Key points
 
 - The Swatantra Party rejected forming a bloc or front in Parliament with allied parties.

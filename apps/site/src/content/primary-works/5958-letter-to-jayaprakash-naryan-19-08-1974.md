@@ -49,6 +49,12 @@ summary: |-
   Masani frames his concern politically rather than merely personally. He urges Narayan to consider whether the country's interests are best served by exhausting himself or by conserving his energies for the longer term, and says that the same appeal applies to businessmen and politicians who need to adopt a broader historical perspective rather than a short-term outlook. Masani closes by promising to write again before leaving.
 ---
 
+## Summary
+
+In this letter dated August 19, 1974, M. R. Masani replies to Jayaprakash Narayan's August 15 letter. He expresses concern about an unflattering photograph received from “Narotambhai” and about Narayan's health, arguing that Narayan is doing too little to preserve himself and should not simply leave his survival to God.
+
+Masani frames his concern politically rather than merely personally. He urges Narayan to consider whether the country's interests are best served by exhausting himself or by conserving his energies for the longer term, and says that the same appeal applies to businessmen and politicians who need to adopt a broader historical perspective rather than a short-term outlook. Masani closes by promising to write again before leaving.
+
 ## Key points
 
 - Masani responds to a letter from Jayaprakash Narayan dated August 15, 1974.

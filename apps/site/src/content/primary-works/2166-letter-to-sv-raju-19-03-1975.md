@@ -49,6 +49,12 @@ summary: |-
   Srinivasan asks that Bargava contact seven or eight MLAs still functioning in the Rajasthan Assembly under the Swatantra banner. He expresses concern that Piloo Mody may be trying to disturb these legislators and asks Raju to urge Bargava to keep them within the party. The second PDF page is the reverse/address side of the inland letter card and contains no additional substantive argument.
 ---
 
+## Summary
+
+This 19 March 1975 letter from V. S. Srinivasan, Joint Secretary of the Swatantra Party National Headquarters, is addressed to S. V. Raju and concerns efforts to reorganise the party in Rajasthan. Srinivasan acknowledges correspondence between Raju and Mr. Bargava, as well as Raju’s letter to the party president, G. K. Sundaram, and says he will discuss the matter with the president.
+
+Srinivasan asks that Bargava contact seven or eight MLAs still functioning in the Rajasthan Assembly under the Swatantra banner. He expresses concern that Piloo Mody may be trying to disturb these legislators and asks Raju to urge Bargava to keep them within the party. The second PDF page is the reverse/address side of the inland letter card and contains no additional substantive argument.
+
 ## Key points
 
 - The letter is dated 19 March 1975 and was issued from the Swatantra Party National Headquarters in Madras.

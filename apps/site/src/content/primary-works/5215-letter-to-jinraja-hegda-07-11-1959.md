@@ -46,6 +46,10 @@ summary: |-
   In this letter dated 7 November 1959, M. R. Masani thanks Jinaraja Hegde for inviting him to attend the Swatantra Party Conference at Mangalore on 6 December. He declines because of prior engagements in Calcutta on 5 and 6 December, a local engagement in Bombay on 7 December, and a flight back to Delhi on 8 December for Parliament. Masani asks Hegde to explain his difficulty to Mr. Mohamed Imam, Mr. V. B. Menon, and Mr. G. M. Manjunathayya.
 ---
 
+## Summary
+
+In this letter dated 7 November 1959, M. R. Masani thanks Jinaraja Hegde for inviting him to attend the Swatantra Party Conference at Mangalore on 6 December. He declines because of prior engagements in Calcutta on 5 and 6 December, a local engagement in Bombay on 7 December, and a flight back to Delhi on 8 December for Parliament. Masani asks Hegde to explain his difficulty to Mr. Mohamed Imam, Mr. V. B. Menon, and Mr. G. M. Manjunathayya.
+
 ## Key points
 
 - The letter is dated 7 November 1959 and is signed by M. R. Masani.

@@ -53,6 +53,12 @@ summary: |-
   The agenda covered the Oaths Bill, the Defection Committee's report, excess and supplementary railway grants, scholarships for scheduled-caste and scheduled-tribe students, and Mrs. Tarkeshwari Sinha's resolution concerning a ceiling on urban property. The minutes also record discussion of the election of a parliamentary Vice-President and recommend that the Central Parliamentary Board defer a decision until shortly before the poll. The document is signed by Lokanath Misra as Secretary.
 ---
 
+## Summary
+
+This one-page English office record, issued by the Swatantra Party Parliamentary Office in New Delhi on 12 August 1969, records an Executive Committee meeting held the previous day. It lists ten members present, including Prof. N. G. Ranga and Mr. M. R. Masani, and assigns speakers to legislative and policy matters before Parliament.
+
+The agenda covered the Oaths Bill, the Defection Committee's report, excess and supplementary railway grants, scholarships for scheduled-caste and scheduled-tribe students, and Mrs. Tarkeshwari Sinha's resolution concerning a ceiling on urban property. The minutes also record discussion of the election of a parliamentary Vice-President and recommend that the Central Parliamentary Board defer a decision until shortly before the poll. The document is signed by Lokanath Misra as Secretary.
+
 ## Key points
 
 - The Executive Committee met at 3:00 p.m. on Monday, 11 August 1969.

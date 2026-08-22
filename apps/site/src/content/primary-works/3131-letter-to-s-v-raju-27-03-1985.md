@@ -49,6 +49,12 @@ summary: |-
   Srikumar identifies T. S. Santhanam, T. A. Aravamudhan, and S. M. Venkataramanan as custodians of relevant records, and suggests that S. S. Mariswamy may also possess papers. The letter is a small but useful piece of archival correspondence documenting efforts in 1985 to preserve and circulate the records of the Swatantra Party and its associated figures. The second rendered page is an addressed inland letter card/envelope accompanying the letter and contains no additional substantive correspondence.
 ---
 
+## Summary
+
+This letter, dated 27 March 1985, is addressed by V. S. Srikumar of Madras to S. V. Raju in response to Raju’s letter of 18 March. Srikumar discourages Raju from apologising to V. Subramaniam, saying that no useful purpose would be served by doing so. Instead, he has arranged for party colleagues to provide Raju with available information, records, and papers concerning the Swatantra Party and C. Rajagopalachari (Rajaji).
+
+Srikumar identifies T. S. Santhanam, T. A. Aravamudhan, and S. M. Venkataramanan as custodians of relevant records, and suggests that S. S. Mariswamy may also possess papers. The letter is a small but useful piece of archival correspondence documenting efforts in 1985 to preserve and circulate the records of the Swatantra Party and its associated figures. The second rendered page is an addressed inland letter card/envelope accompanying the letter and contains no additional substantive correspondence.
+
 ## Key points
 
 - V. Srikumar replies to S. V. Raju’s letter of 18 March 1985.

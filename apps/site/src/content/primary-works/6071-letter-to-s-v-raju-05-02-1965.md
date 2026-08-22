@@ -48,6 +48,10 @@ summary: |-
   This two-page English letter, dated 5 February 1965, was written by C. Rajagopalachari from Madras to S. V. Raju in Bombay. Rajagopalachari acknowledges Minoo Masani’s letter concerning a meeting of Swatantra Party workers scheduled for 7 p.m. on Saturday the 13th at the Bhavan’s Gita Hall and states his agreement.
 ---
 
+## Summary
+
+This two-page English letter, dated 5 February 1965, was written by C. Rajagopalachari from Madras to S. V. Raju in Bombay. Rajagopalachari acknowledges Minoo Masani’s letter concerning a meeting of Swatantra Party workers scheduled for 7 p.m. on Saturday the 13th at the Bhavan’s Gita Hall and states his agreement.
+
 ## Key points
 
 - The letter is dated 5 February 1965 and originates from C. Rajagopalachari’s Madras address.

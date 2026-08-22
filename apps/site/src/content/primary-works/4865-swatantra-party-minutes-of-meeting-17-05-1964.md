@@ -54,6 +54,12 @@ summary: |-
   The Board reviewed parliamentary performance during the Budget Session, arrears of member subscriptions, participation by Party members on other parties’ platforms, developments within the Communist Party, and recent by-elections. It approved a Kashmir resolution for release to the press, adopted a resolution on refugees, and expressed satisfaction that Swatantra was becoming the main opposition party in the Rajya Sabha. The document concludes with concerns about delayed candidate recommendations and procedural irregularities in elections in Orissa and Bihar. As administrative minutes, the record emphasizes decisions, instructions, and internal Party discipline rather than extended arguments by individual participants.
 ---
 
+## Summary
+
+These minutes record meetings of the Swatantra Party Parliamentary Board in Madras on 16–17 May 1964. The Board discussed the Kashmir situation, the Party’s position on the proposed reintroduction of the Constitution (Seventeenth Amendment) Bill, and the need for coordinated parliamentary opposition. It resolved that Swatantra members should vote against the Bill at every stage, mobilise public opinion through meetings and demonstrations, and seek assurances that ruling-party members would be allowed a free vote. The minutes also note unsuccessful efforts to establish inter-oppositional cooperation with the Jan Sangh, Praja Socialist Party, and Socialist Party.
+
+The Board reviewed parliamentary performance during the Budget Session, arrears of member subscriptions, participation by Party members on other parties’ platforms, developments within the Communist Party, and recent by-elections. It approved a Kashmir resolution for release to the press, adopted a resolution on refugees, and expressed satisfaction that Swatantra was becoming the main opposition party in the Rajya Sabha. The document concludes with concerns about delayed candidate recommendations and procedural irregularities in elections in Orissa and Bihar. As administrative minutes, the record emphasizes decisions, instructions, and internal Party discipline rather than extended arguments by individual participants.
+
 ## Key points
 
 - The Parliamentary Board considered the Kashmir situation and the Party’s public and parliamentary position on it.

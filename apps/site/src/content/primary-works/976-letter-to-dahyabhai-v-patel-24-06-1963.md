@@ -49,6 +49,12 @@ summary: |-
   Masani closes by welcoming Bhailalbhai's decision to continue as president until the end of the year, presenting this continuation as a way of respecting the wishes of the group. The document is a single-page piece of political correspondence focused on internal party leadership and the correction of a misunderstanding.
 ---
 
+## Summary
+
+In this letter dated June 24, 1963, M. R. Masani writes to Dahyabhai V. Patel to clarify the purpose of an earlier letter concerning the presidency of the Gujarat Unit. Masani explains that his June 13 letter was not intended to recommend anyone as president after Bhailalbhai's retirement, but had been written for a different purpose and was misunderstood when a sentence was read out of context.
+
+Masani closes by welcoming Bhailalbhai's decision to continue as president until the end of the year, presenting this continuation as a way of respecting the wishes of the group. The document is a single-page piece of political correspondence focused on internal party leadership and the correction of a misunderstanding.
+
 ## Key points
 
 - Masani responds to Dahyabhai V. Patel's June 17 letter.

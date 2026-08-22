@@ -49,6 +49,12 @@ summary: |-
   The document states that the recipient's 40% share is Rs. 270.12, written out as “two hundred and seventy and paise twelve only.” It is signed by P. Narayan, identified as Office Secretary. No printed title, named recipient, publisher, or explicit issuer appears on the page.
 ---
 
+## Summary
+
+This single-page English office communication, dated 30 October 1974 and addressed to Bharatiya Lok Dal in Bombay, records the rent and electricity expenses paid for September 1974. It lists rent of Rs. 355.14 and electricity charges of Rs. 320.12, for a combined total of Rs. 675.26.
+
+The document states that the recipient's 40% share is Rs. 270.12, written out as “two hundred and seventy and paise twelve only.” It is signed by P. Narayan, identified as Office Secretary. No printed title, named recipient, publisher, or explicit issuer appears on the page.
+
 ## Key points
 
 - The document is dated 30 October 1974.

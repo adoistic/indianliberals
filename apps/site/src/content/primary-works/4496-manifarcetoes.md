@@ -50,6 +50,12 @@ summary: |-
   Speaking through the byline “BY ALICE,” the article repeatedly questions Minoo Masani about whether Swatantra’s manifesto should borrow from other parties’ programmes. Masani is represented as favouring comparison among all available manifestos before settling on one, while the clipping also reports that British Prime Minister Edward Heath had expressed a desire to adopt the Swatantra manifesto for his Conservative Party. The visible page does not identify the source publication or provide a printed date.
 ---
 
+## Summary
+
+This one-page English newspaper-style clipping, dated only by a handwritten “16/1/71” annotation, presents a satirical question-and-answer exchange about competing party manifestos. It focuses on the Swatantra Party’s decision to accept the All India Congress Committee resolution of June 28 as its election manifesto, while noting that the Old Congress, the Samyukta Socialist Party, the Praja Socialist Party, and the Communist Party of India were considering or drafting alternative positions.
+
+Speaking through the byline “BY ALICE,” the article repeatedly questions Minoo Masani about whether Swatantra’s manifesto should borrow from other parties’ programmes. Masani is represented as favouring comparison among all available manifestos before settling on one, while the clipping also reports that British Prime Minister Edward Heath had expressed a desire to adopt the Swatantra manifesto for his Conservative Party. The visible page does not identify the source publication or provide a printed date.
+
 ## Key points
 
 - The Swatantra Party’s national executive accepted the AICC resolution of June 28 as its election manifesto.

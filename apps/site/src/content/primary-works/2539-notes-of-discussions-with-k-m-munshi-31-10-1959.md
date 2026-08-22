@@ -52,6 +52,12 @@ summary: |-
   The page further outlines a proposed booklet of eight to ten articles by distinguished party members. Its planned subjects include economic bankruptcy, social and religious decay, crisis in character, democracy and the personal cult, the making of enemies, the plight of the peasant, state encroachment on the judiciary, state enterprises, and the people's burden. The record ends by seeking additional contributors, including V. P. Menon and S. K. D. Paliwal, and suggesting that unassigned subjects be allocated to them.
 ---
 
+## Summary
+
+This one-page typed record, dated October 31, 1959, documents a discussion attended by K. M. Munshi, R. V. Murthy, Ram Krishna, and Piloo Mody. It records a decision to prepare a booklet combining Rajaji's reply to Nehru, material from the Hindu and Hindustan Times, Munshi's Patel lecture, Professor Ranga's presidential address in Madras, Minoo Masani's Madras speech, A. D. Shroff's speech on economic policy, and an appendix by Farchestone. The notes also propose leaflets in English, Gujarati, Hindi, and Marathi based on Rajaji's utterances.
+
+The page further outlines a proposed booklet of eight to ten articles by distinguished party members. Its planned subjects include economic bankruptcy, social and religious decay, crisis in character, democracy and the personal cult, the making of enemies, the plight of the peasant, state encroachment on the judiciary, state enterprises, and the people's burden. The record ends by seeking additional contributors, including V. P. Menon and S. K. D. Paliwal, and suggesting that unassigned subjects be allocated to them.
+
 ## Key points
 
 - The document records a discussion held on October 31, 1959, with K. M. Munshi and three other attendees.

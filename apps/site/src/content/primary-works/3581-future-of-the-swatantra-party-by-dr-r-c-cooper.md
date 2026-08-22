@@ -54,6 +54,10 @@ summary: |-
   In this three-page essay, Dr. R.C. Cooper argues that the Swatantra Party should not be dissolved after its poor electoral performance. Writing in his personal capacity rather than as the Party's General Secretary, Cooper attributes the defeat to a distorted public image rather than to the Party's principles or programme. He calls for reorganisation, a stronger grassroots presence, and an independent identity rather than an alliance with the Organisation Congress, Jan Sangh, or other opposition parties. The Party's parliamentary role, he proposes, should combine constructive criticism with selective cooperation, while its State, District, and Unit organisations should educate the public and address grievances.
 ---
 
+## Summary
+
+In this three-page essay, Dr. R.C. Cooper argues that the Swatantra Party should not be dissolved after its poor electoral performance. Writing in his personal capacity rather than as the Party's General Secretary, Cooper attributes the defeat to a distorted public image rather than to the Party's principles or programme. He calls for reorganisation, a stronger grassroots presence, and an independent identity rather than an alliance with the Organisation Congress, Jan Sangh, or other opposition parties. The Party's parliamentary role, he proposes, should combine constructive criticism with selective cooperation, while its State, District, and Unit organisations should educate the public and address grievances.
+
 ## Key points
 
 - Cooper rejects winding up the Swatantra Party and calls instead for its revitalisation.

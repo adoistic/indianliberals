@@ -48,6 +48,12 @@ summary: |-
   Ranga also asks that Shri Jaideep Singhjee (Daria) join the conference and urges Mody to meet Singhjee beforehand if possible. The letter refers to difficulties in arranging a meeting through Singhjee’s secretary or former colleague, and concludes with a request that Mody cooperate and work to improve the position of the Swatantra movement and Party in Gujarat and Parliament. The page carries handwritten annotations and a handwritten signature.
 ---
 
+## Summary
+
+In this letter dated June 15, 1965, from New Delhi, Prof. N. G. Ranga asks Shri Mody to meet in order to resolve differences between him and the Gujarat leadership. Ranga says the Parliamentary Board discussed Mody’s letters and decided that a conference should be arranged, proposing Delhi, Bombay, or Baroda as possible meeting places in early August.
+
+Ranga also asks that Shri Jaideep Singhjee (Daria) join the conference and urges Mody to meet Singhjee beforehand if possible. The letter refers to difficulties in arranging a meeting through Singhjee’s secretary or former colleague, and concludes with a request that Mody cooperate and work to improve the position of the Swatantra movement and Party in Gujarat and Parliament. The page carries handwritten annotations and a handwritten signature.
+
 ## Key points
 
 - The Parliamentary Board asked Ranga to confer with Shri Mody over differences with the Gujarat leadership.

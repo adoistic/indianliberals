@@ -57,6 +57,12 @@ summary: |-
   The minutes document the Party's decisions on parliamentary strategy. Members agreed that M. R. Masani should not withdraw his motion and would receive the Party's support if an opportunity arose; they would not support the Communist no-confidence motion, while voting for whichever non-confidence motion was admitted after debate. The Party also backed a Jana Sangh adjournment motion concerning the breakdown of constitutional machinery in Uttar Pradesh following a state government employees' strike. Masani and Dandekar discussed the implications of currency devaluation, leading to a decision to table an amendment to the Finance Minister's motion. The record concludes by assigning speakers for the no-confidence motion, economic conditions, and the Insecticides Bill, before noting the meeting's adjournment.
 ---
 
+## Summary
+
+This one-page office record, issued by the Swatantra Party Parliamentary Office on 25 July 1966, records Executive Committee and General Body meetings held the previous day at the Western Court Lounge in New Delhi. It lists sixteen attendees, including M. R. Masani, N. Dandekar, Dahyabhai V. Patel, Kapur Singh, C. L. N. Reddy, and others.
+
+The minutes document the Party's decisions on parliamentary strategy. Members agreed that M. R. Masani should not withdraw his motion and would receive the Party's support if an opportunity arose; they would not support the Communist no-confidence motion, while voting for whichever non-confidence motion was admitted after debate. The Party also backed a Jana Sangh adjournment motion concerning the breakdown of constitutional machinery in Uttar Pradesh following a state government employees' strike. Masani and Dandekar discussed the implications of currency devaluation, leading to a decision to table an amendment to the Finance Minister's motion. The record concludes by assigning speakers for the no-confidence motion, economic conditions, and the Insecticides Bill, before noting the meeting's adjournment.
+
 ## Key points
 
 - The meetings took place on 24 July 1966 at the Western Court Lounge in New Delhi.

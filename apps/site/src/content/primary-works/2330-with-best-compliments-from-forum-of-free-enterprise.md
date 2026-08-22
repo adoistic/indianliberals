@@ -61,6 +61,12 @@ summary: |-
   The pages then follow Shenoy's professional career in Ceylon, at L. D. Arts College, and at the Reserve Bank of India before focusing on his years at Gujarat University and his later public dissent. The authors emphasize his defence of markets, monetary and price stability, flexible exchange rates, and decentralized choice. They describe his opposition to the Second Plan's deficit financing and capital-intensive strategy, his analyses of exchange controls, devaluation, foreign aid, P.L. 480 food imports, selective credit controls, and agricultural resource allocation, and his willingness to remain an "outsider within the profession." The rendered pages end during the account of his departure from Gujarat University in 1968; no later biographical conclusion or additional material is visible.
 ---
 
+## Summary
+
+This biographical sketch presents B. R. Shenoy as an economist and public intellectual who challenged India's dominant commitment to state planning, deficit financing, trade controls, and capital-intensive public-sector development. It traces his early life at Bellikoth, participation in the freedom movement, imprisonment in Nagpur Central Jail, and formative association with Pandit Madan Mohan Malaviya, followed by his studies at Banaras Hindu University and the London School of Economics. The sketch highlights his early monetary-economics research, including published criticisms of Keynes's treatment of the price level of new investment goods, and his intellectual engagement with Friedrich Hayek and Austrian capital theory.
+
+The pages then follow Shenoy's professional career in Ceylon, at L. D. Arts College, and at the Reserve Bank of India before focusing on his years at Gujarat University and his later public dissent. The authors emphasize his defence of markets, monetary and price stability, flexible exchange rates, and decentralized choice. They describe his opposition to the Second Plan's deficit financing and capital-intensive strategy, his analyses of exchange controls, devaluation, foreign aid, P.L. 480 food imports, selective credit controls, and agricultural resource allocation, and his willingness to remain an "outsider within the profession." The rendered pages end during the account of his departure from Gujarat University in 1968; no later biographical conclusion or additional material is visible.
+
 ## Key points
 
 - The sketch portrays Shenoy as a prominent critic of Indian economic planning and what it calls the prevailing consensus in development economics.

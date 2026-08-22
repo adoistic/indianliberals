@@ -49,6 +49,12 @@ summary: |-
   The writer says that the matter should be made understood to the relevant parties and closes with “Yours sincerely,” signing the letter “Rajagopalachari.” The signature reading and the exact date of composition remain uncertain; the visible stamp establishes a receipt date rather than necessarily the date on which the letter was written.
 ---
 
+## Summary
+
+This one-page handwritten letter, received on 10 August 1964, is addressed to Minoo Masani and appears to concern a telegram and the release of a message. The writer expresses regret that Masani’s message seems to imply that a release should proceed unless it is countermanded by telegram, and refers to the practical difficulty of sending a telegram over several successive working days.
+
+The writer says that the matter should be made understood to the relevant parties and closes with “Yours sincerely,” signing the letter “Rajagopalachari.” The signature reading and the exact date of composition remain uncertain; the visible stamp establishes a receipt date rather than necessarily the date on which the letter was written.
+
 ## Key points
 
 - The document is a handwritten English letter addressed to Mr. Minoo Masani.

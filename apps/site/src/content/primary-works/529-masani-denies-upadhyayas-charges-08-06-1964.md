@@ -49,6 +49,10 @@ summary: |-
   In this single-page statement dated June 8, 1964, M. R. Masani, General Secretary of the Swatantra Party, responds to a report in Organiser quoting Bharatiya Jan Sangh General Secretary Deendayal Upadhyaya. Masani denies that the Swatantra Party had agreed to give the Jan Sangh a prior opportunity to contest a by-election for a seat contested by the Jan Sangh in the 1962 elections. He says the written understanding applied only to vacancies caused by the death, disqualification, or removal of a sitting member, and not to the Bhilwara constituency.
 ---
 
+## Summary
+
+In this single-page statement dated June 8, 1964, M. R. Masani, General Secretary of the Swatantra Party, responds to a report in Organiser quoting Bharatiya Jan Sangh General Secretary Deendayal Upadhyaya. Masani denies that the Swatantra Party had agreed to give the Jan Sangh a prior opportunity to contest a by-election for a seat contested by the Jan Sangh in the 1962 elections. He says the written understanding applied only to vacancies caused by the death, disqualification, or removal of a sitting member, and not to the Bhilwara constituency.
+
 ## Key points
 
 - Masani rejects Upadhyaya's allegation that the Swatantra Party violated an electoral understanding.

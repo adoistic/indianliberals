@@ -47,6 +47,12 @@ summary: |-
   Patel explains that the Public Relations Adviser would necessarily be appointed on a contract basis because of the nature of the functions involved. He outlines the procedural implications: consultation with the State Public Service Commission, advertisement of the post, and specification of the required qualifications. The letter records a provisional decision to offer a monthly remuneration of Rs. 2,000–2,500 and asks Masani to suggest the appropriate age, qualifications, and experience for the position.
 ---
 
+## Summary
+
+This confidential letter, dated 16 May 1968 and written from Bhubaneswar, is addressed by Orissa State minister Harihar Patel to M. R. Masani regarding the proposed upgrading of the state's Public Relations Organisation. Patel says Masani's earlier note to the Chief Minister had helped shape a proposal already under consideration.
+
+Patel explains that the Public Relations Adviser would necessarily be appointed on a contract basis because of the nature of the functions involved. He outlines the procedural implications: consultation with the State Public Service Commission, advertisement of the post, and specification of the required qualifications. The letter records a provisional decision to offer a monthly remuneration of Rs. 2,000–2,500 and asks Masani to suggest the appropriate age, qualifications, and experience for the position.
+
 ## Key points
 
 - The letter concerns upgrading the Public Relations Organisation of Orissa State.

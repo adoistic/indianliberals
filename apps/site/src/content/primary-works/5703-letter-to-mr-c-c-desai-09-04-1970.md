@@ -48,6 +48,10 @@ summary: |-
   In this letter dated 9 April 1970, C. Rajagopalachari writes to C. C. Desai about the Swatantra Party's case against him. Rajagopalachari considers Desai's decision to support the Gujarat Government, and consequently to maintain hostility toward the incumbent Chief Minister and his government, damaging to the Swatantra Party as a whole.
 ---
 
+## Summary
+
+In this letter dated 9 April 1970, C. Rajagopalachari writes to C. C. Desai about the Swatantra Party's case against him. Rajagopalachari considers Desai's decision to support the Gujarat Government, and consequently to maintain hostility toward the incumbent Chief Minister and his government, damaging to the Swatantra Party as a whole.
+
 ## Key points
 
 - Rajagopalachari responds to a report on the Swatantra Party's case against C. C. Desai.

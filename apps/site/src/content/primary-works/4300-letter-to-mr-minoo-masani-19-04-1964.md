@@ -48,6 +48,10 @@ summary: |-
   In this two-page handwritten letter dated 19 April 1964, C. Rajagopalachari writes to Minoo Masani about his recovery from a serious illness and his distress over a recent electoral defeat at Amritsar. He says the campaign had initially been leading, but that the result changed rapidly after voting, producing what he describes as a reversal into a minority. He attributes part of the outcome to appeals based on caste and regionalism and questions whether the time, energy, and money spent were justified.
 ---
 
+## Summary
+
+In this two-page handwritten letter dated 19 April 1964, C. Rajagopalachari writes to Minoo Masani about his recovery from a serious illness and his distress over a recent electoral defeat at Amritsar. He says the campaign had initially been leading, but that the result changed rapidly after voting, producing what he describes as a reversal into a minority. He attributes part of the outcome to appeals based on caste and regionalism and questions whether the time, energy, and money spent were justified.
+
 ## Key points
 
 - Rajagopalachari reports that he is recovering from a severe infection but remains irritable and weakened.

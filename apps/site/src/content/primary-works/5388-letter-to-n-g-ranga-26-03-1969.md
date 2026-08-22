@@ -56,6 +56,12 @@ summary: |-
   The proposed party platform would combine intense nationalism, preservation of democracy, equal fundamental rights without special privileges, maintenance of the rule of law, and opposition to extra-constitutional agitation. It also advocates a decentralized Gandhian economy, with large-scale production limited to goods that cannot be made at smaller scales and large-scale units subject to state control but not necessarily state ownership. The remaining points call for high standards of public conduct, a revision of Indian foreign policy, support only for genuine cooperative institutions, abolition of the caste system, and improvement of the human factor. Singh closes by arranging possible meetings with Charan Singh in Delhi and proposing exploratory talks before the next National Executive meeting.
 ---
 
+## Summary
+
+In this typed copy dated 26 March 1969, Bhanu Pratap Singh reports to Prof. N. G. Ranga on a meeting with Charan Singh about forming a new political party through a merger of existing parties. Singh says Charan Singh wants neither an agreement nor an adjustment, but a complete merger under a new name, flag, and symbol, distinct from both Swatantra and B.K.D.
+
+The proposed party platform would combine intense nationalism, preservation of democracy, equal fundamental rights without special privileges, maintenance of the rule of law, and opposition to extra-constitutional agitation. It also advocates a decentralized Gandhian economy, with large-scale production limited to goods that cannot be made at smaller scales and large-scale units subject to state control but not necessarily state ownership. The remaining points call for high standards of public conduct, a revision of Indian foreign policy, support only for genuine cooperative institutions, abolition of the caste system, and improvement of the human factor. Singh closes by arranging possible meetings with Charan Singh in Delhi and proposing exploratory talks before the next National Executive meeting.
+
 ## Key points
 
 - Bhanu Pratap Singh reports on Charan Singh's position regarding a merger of political parties.

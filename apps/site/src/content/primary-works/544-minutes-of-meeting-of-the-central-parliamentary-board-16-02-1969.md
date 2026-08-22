@@ -59,6 +59,12 @@ summary: |-
   The minutes set out the Board's position on cooperation with the Jan Sangh: following failed discussions, it reaffirmed that no further negotiations should take place except on limited electoral adjustments and mutual support. The Board also directed Party members not to negotiate without prior approval. In parliamentary business, it decided to oppose proposed legislation replacing the Bonus and Customs Ordinances, while reserving judgment on the Monopolies Bill and supporting provisions to abolish the managing-agency system. It declined to support Communist and S.S.P. no-confidence motions and referred a proposal concerning the extension of Scheduled Caste and Tribe constituency reservations to the National Executive and Party legislators.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Central Parliamentary Board meeting held in New Delhi on February 16, 1969. The Board confirmed the previous minutes, reviewed the Party's performance in assembly by-elections and mid-term elections, congratulated successful candidates in Bihar, Uttar Pradesh, and Punjab, and deferred a fuller assessment of disappointing results until more data and reports were available from state units. It also discussed the conduct and discipline of Party legislators, including proposed expulsion or disciplinary action against members who had resigned or failed to communicate with the Party.
+
+The minutes set out the Board's position on cooperation with the Jan Sangh: following failed discussions, it reaffirmed that no further negotiations should take place except on limited electoral adjustments and mutual support. The Board also directed Party members not to negotiate without prior approval. In parliamentary business, it decided to oppose proposed legislation replacing the Bonus and Customs Ordinances, while reserving judgment on the Monopolies Bill and supporting provisions to abolish the managing-agency system. It declined to support Communist and S.S.P. no-confidence motions and referred a proposal concerning the extension of Scheduled Caste and Tribe constituency reservations to the National Executive and Party legislators.
+
 ## Key points
 
 - The Board confirmed the minutes of its November 24, 1968 meeting.

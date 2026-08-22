@@ -50,6 +50,12 @@ summary: |-
   The circular also records a planned report on a discussion with the Prime Minister by Prof. Ranga and Mr. Masani, including a note on the devaluation submitted to the Prime Minister. A postscript asks members needing hotel, rail, or air reservations to contact Krishnamurthy Rao in Madras and to send copies of their requests to Bombay.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated 7 July 1966, convenes the Central Parliamentary Board in Madras for meetings on 22–23 July. Signed by General Secretary M. R. Masani, it sets out an agenda covering confirmation of previous minutes, processing prospective parliamentary and assembly candidates, parliamentary business, preparations for the forthcoming general elections, and coordination with other Opposition parties on electoral adjustments.
+
+The circular also records a planned report on a discussion with the Prime Minister by Prof. Ranga and Mr. Masani, including a note on the devaluation submitted to the Prime Minister. A postscript asks members needing hotel, rail, or air reservations to contact Krishnamurthy Rao in Madras and to send copies of their requests to Bombay.
+
 ## Key points
 
 - The Central Parliamentary Board is scheduled to meet in Rajaji's room at Kalki Buildings, Madras, on 22–23 July 1966.

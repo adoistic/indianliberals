@@ -51,6 +51,12 @@ summary: |-
   The unnamed executive secretary states that they personally met Mr. S. K. Tracy, who advised them to provide the requested information in writing. The letter encloses a copy of that correspondence and five notices for the transport office's records. The document therefore records an administrative effort to clarify the disposition and registration-related history of party vehicles.
 ---
 
+## Summary
+
+This one-page office copy, dated 22 November 1976 and addressed to the Regional Transport Officer in Bombay, concerns vehicles purchased by the Swatantra Party under various individual names. The letter explains that the Swatantra Party had merged into the Bharatiya Lok Dal and follows up on a telephone conversation about the vehicles' whereabouts at the time of the 1971 general elections.
+
+The unnamed executive secretary states that they personally met Mr. S. K. Tracy, who advised them to provide the requested information in writing. The letter encloses a copy of that correspondence and five notices for the transport office's records. The document therefore records an administrative effort to clarify the disposition and registration-related history of party vehicles.
+
 ## Key points
 
 - The document is a typed copy dated 22 November 1976 and addressed to the Regional Transport Officer, Bombay.

@@ -52,6 +52,12 @@ summary: |-
   The record also details existing and anticipated payments for Bihar’s endorsed constituencies, including cash paid and sums paid to the bank on the Raja of Ramgarh’s behalf. After commitments totaling Rs. 2.25 lakhs were identified, leaving Rs. 1.50 lakhs available, the sub-committee agreed that K. M. Munshi should consult the Bihar unit president and prepare a resolution and draft agreement with Shri Kamakhya Narain Singh of Ramgarh. The pages end with the instruction that these documents be presented to the sub-committee the following morning.
 ---
 
+## Summary
+
+These two pages are an extract from draft minutes concerning the Swatantra Party’s financial arrangements with its Bihar state unit in December 1961. The discussion centers on bank credit for jeeps, the Bihar State President’s request to reduce the amount earmarked for repayment, and the General Secretary’s argument that party resources must be distributed fairly among endorsed candidates across states. The minutes record a proposed allocation of up to Rs. 3.75 lakhs for Bihar, against a total credit of Rs. 4 lakhs, while noting that candidates elsewhere were expected to receive no more than Rs. 25,000 per constituency.
+
+The record also details existing and anticipated payments for Bihar’s endorsed constituencies, including cash paid and sums paid to the bank on the Raja of Ramgarh’s behalf. After commitments totaling Rs. 2.25 lakhs were identified, leaving Rs. 1.50 lakhs available, the sub-committee agreed that K. M. Munshi should consult the Bihar unit president and prepare a resolution and draft agreement with Shri Kamakhya Narain Singh of Ramgarh. The pages end with the instruction that these documents be presented to the sub-committee the following morning.
+
 ## Key points
 
 - The minutes concern the Bihar unit’s repayment of bank credit used for party jeeps.

@@ -48,6 +48,12 @@ summary: |-
   Patel argues that the defeat of a no-confidence motion would not necessarily amount to a vote of confidence in the government, noting that roughly fifty members might be prepared to support such a motion. He proposes that all opposition parties except the Communist Party should coordinate against government policies and recommends a preliminary consultation on September 5, while acknowledging a possible scheduling conflict with a Freedom Fighters' anniversary engagement.
 ---
 
+## Summary
+
+In this letter dated August 20, 1964, Dahyabhai V. Patel writes to M. R. Masani about opposition strategy for the opening of the Lok Sabha. Reporting a telephone conversation with Acharya Kripalani, Patel discusses whether opposition parties should support a no-confidence motion, submit their own motion, or first consult other independent leaders, including Shri Prakash Vir Shastri.
+
+Patel argues that the defeat of a no-confidence motion would not necessarily amount to a vote of confidence in the government, noting that roughly fifty members might be prepared to support such a motion. He proposes that all opposition parties except the Communist Party should coordinate against government policies and recommends a preliminary consultation on September 5, while acknowledging a possible scheduling conflict with a Freedom Fighters' anniversary engagement.
+
 ## Key points
 
 - The letter concerns opposition-party procedure when the Lok Sabha opens.

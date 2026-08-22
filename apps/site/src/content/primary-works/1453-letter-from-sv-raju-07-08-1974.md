@@ -50,6 +50,10 @@ summary: |-
   This four-page archival item is a 1974 letter from S. V. Raju, identified as a delegate from Maharashtra, to “The Chief Reporter.” Raju informs the press that admission has been denied to the Swatantra Party Convention scheduled for 4–5 August and invites press representatives to a briefing on 5 August at Vitthalbhai Patel Bhavan, New Delhi. The letter names several party officials and regional delegates who will meet journalists to explain the convention’s proceedings and implications.
 ---
 
+## Summary
+
+This four-page archival item is a 1974 letter from S. V. Raju, identified as a delegate from Maharashtra, to “The Chief Reporter.” Raju informs the press that admission has been denied to the Swatantra Party Convention scheduled for 4–5 August and invites press representatives to a briefing on 5 August at Vitthalbhai Patel Bhavan, New Delhi. The letter names several party officials and regional delegates who will meet journalists to explain the convention’s proceedings and implications.
+
 ## Key points
 
 - S. V. Raju writes to the chief reporter on behalf of delegates to the Swatantra Party’s national convention.

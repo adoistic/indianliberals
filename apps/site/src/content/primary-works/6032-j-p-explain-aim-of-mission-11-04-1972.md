@@ -49,6 +49,10 @@ summary: |-
   This Statesman report describes Jayaprakash Narayan’s mission to persuade dacoits in the Chambal Valley to surrender and abandon their criminal lives. It says the surrender was expected to take place at Jaura in Madhya Pradesh on April 14 and 16, with Narayan presenting the initiative as a humane alternative to continued violence and imprisonment. The report links the effort to the earlier example of Vinoba Bhave, who had been involved in persuading dacoits to surrender in 1950.
 ---
 
+## Summary
+
+This Statesman report describes Jayaprakash Narayan’s mission to persuade dacoits in the Chambal Valley to surrender and abandon their criminal lives. It says the surrender was expected to take place at Jaura in Madhya Pradesh on April 14 and 16, with Narayan presenting the initiative as a humane alternative to continued violence and imprisonment. The report links the effort to the earlier example of Vinoba Bhave, who had been involved in persuading dacoits to surrender in 1950.
+
 ## Key points
 
 - Jayaprakash Narayan’s mission focused on persuading Chambal dacoits to surrender voluntarily.

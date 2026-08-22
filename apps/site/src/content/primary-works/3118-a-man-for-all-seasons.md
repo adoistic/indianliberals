@@ -54,6 +54,12 @@ summary: |-
   The rendered article emphasizes Rajaji's defence of freedom, democracy and constitutional government. It praises his opposition to permit-licence controls, his founding of the Swatantra Party, and his insistence that civil liberty and the rule of law were essential to India's future. Palkhivala also portrays Rajaji as a thinker rooted in India's cultural tradition yet open to modern political and economic ideas. The second rendered PDF page is an unrelated newspaper page and contains no continuation of the article.
 ---
 
+## Summary
+
+In the rendered article, N. A. Palkhivala presents C. Rajagopalachari (Rajaji) as a rare combination of intellectual power, moral character, administrative ability and political courage. The tribute links Rajaji's public life to his work as Chief Minister of Madras, his advocacy of socialism and social reform, and his later resistance to excessive state control and bureaucratic power.
+
+The rendered article emphasizes Rajaji's defence of freedom, democracy and constitutional government. It praises his opposition to permit-licence controls, his founding of the Swatantra Party, and his insistence that civil liberty and the rule of law were essential to India's future. Palkhivala also portrays Rajaji as a thinker rooted in India's cultural tradition yet open to modern political and economic ideas. The second rendered PDF page is an unrelated newspaper page and contains no continuation of the article.
+
 ## Key points
 
 - Palkhivala depicts Rajaji as an outstanding figure whose character and intellect were matched by substantial public service.

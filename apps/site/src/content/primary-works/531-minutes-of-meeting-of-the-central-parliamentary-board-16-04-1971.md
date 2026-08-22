@@ -57,6 +57,12 @@ summary: |-
   The Gujarat discussion concerns factional divisions, defections, and the Party’s support for a government led by Hitendra Desai. The Board agreed that readmission of one or two defectors could restore the Party’s Assembly recognition, while excluding other defectors. It also noted forthcoming Orissa by-elections and reviewed the Party’s reduced speaking time and performance in the recently concluded parliamentary session. The annexure reproduces the Common Programme of the Orissa United Front, which combines industrialisation, irrigation, land reform, rural electrification, support for Scheduled Castes and Scheduled Tribes, labour protections, education, health facilities, decentralisation, and farmer-oriented agricultural development.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Central Parliamentary Board meeting held in Bombay on April 16, 1971. The Board confirmed the previous minutes, addressed liabilities connected with the Party’s Parliamentary Office in New Delhi, and reviewed political developments in Orissa and Gujarat. In Orissa, it noted the State Party Unit and Legislative Group’s decision to form a coalition with the Utkal Congress and the Jharkhand Party, with Mr. Singh Deo as Chief Minister, rather than remain in opposition ahead of the possible reimposition of President’s Rule.
+
+The Gujarat discussion concerns factional divisions, defections, and the Party’s support for a government led by Hitendra Desai. The Board agreed that readmission of one or two defectors could restore the Party’s Assembly recognition, while excluding other defectors. It also noted forthcoming Orissa by-elections and reviewed the Party’s reduced speaking time and performance in the recently concluded parliamentary session. The annexure reproduces the Common Programme of the Orissa United Front, which combines industrialisation, irrigation, land reform, rural electrification, support for Scheduled Castes and Scheduled Tribes, labour protections, education, health facilities, decentralisation, and farmer-oriented agricultural development.
+
 ## Key points
 
 - The Board confirmed the minutes of its March 20, 1971 meeting.

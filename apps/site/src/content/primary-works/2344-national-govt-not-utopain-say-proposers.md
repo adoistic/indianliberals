@@ -49,3 +49,7 @@ ai:
 summary: |-
   This English-language newspaper feature reports proposals for replacing the Rajiv Gandhi government with an interim National Government. It presents objections concerning constitutional authority, the mechanics of forming such a government, and the proposal's rationale, then records arguments from Minoo Masani and Madhu Mehta in favour of a temporary, broadly based coalition intended to restore public confidence and prepare for elections. The second rendered page contains advertisements, classifieds, and Hindi-film listings rather than further article text.
 ---
+
+## Summary
+
+This English-language newspaper feature reports proposals for replacing the Rajiv Gandhi government with an interim National Government. It presents objections concerning constitutional authority, the mechanics of forming such a government, and the proposal's rationale, then records arguments from Minoo Masani and Madhu Mehta in favour of a temporary, broadly based coalition intended to restore public confidence and prepare for elections. The second rendered page contains advertisements, classifieds, and Hindi-film listings rather than further article text.

@@ -51,6 +51,12 @@ summary: |-
   Masani proposes the lounge at Western Court as the preferred venue, booked in Professor N. G. Ranga's name, with tea and refreshments after the meeting. If that is not possible, he suggests the Committee Room in Parliament's Central Hall. He also notes that a planned meeting of a four-member parliamentary sub-committee in Madras has been cancelled because R. H. Singh Deo cannot attend. Handwritten annotations add filing information and Masani's expected arrival in Delhi.
 ---
 
+## Summary
+
+This one-page letter, dated 5 July 1965, records Minoo Masani's arrangements for a meeting of the Swatantra Party's parliamentary group. Masani asks A. P. Jain to issue notices to Members of Parliament at their home addresses for a 3:00 p.m. meeting on Sunday, 15 August, whose agenda will concern business coming before both Houses of Parliament.
+
+Masani proposes the lounge at Western Court as the preferred venue, booked in Professor N. G. Ranga's name, with tea and refreshments after the meeting. If that is not possible, he suggests the Committee Room in Parliament's Central Hall. He also notes that a planned meeting of a four-member parliamentary sub-committee in Madras has been cancelled because R. H. Singh Deo cannot attend. Handwritten annotations add filing information and Masani's expected arrival in Delhi.
+
 ## Key points
 
 - Minoo Masani writes to A. P. Jain on 5 July 1965.

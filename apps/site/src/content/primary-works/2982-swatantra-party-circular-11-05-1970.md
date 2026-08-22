@@ -53,6 +53,12 @@ summary: |-
   The circular urges members to attend the House regularly and participate in every division in accordance with party whips. It stresses the urgency of the appeal by noting that only nine working days remained. The document is an internal party communication focused on parliamentary discipline, attendance, and coordinated legislative conduct.
 ---
 
+## Summary
+
+This one-page English circular, issued by the Swatantra Party Parliamentary Office in New Delhi on May 11, 1970, addresses all Swatantra Members of Parliament. Signed by N. G. Ranga as Parliamentary Leader, it responds to concerns about members’ unsatisfactory attendance and poor voting record in the House, noting the resulting negative impression among both parliamentarians and the press.
+
+The circular urges members to attend the House regularly and participate in every division in accordance with party whips. It stresses the urgency of the appeal by noting that only nine working days remained. The document is an internal party communication focused on parliamentary discipline, attendance, and coordinated legislative conduct.
+
 ## Key points
 
 - The circular was issued by the Swatantra Party Parliamentary Office on May 11, 1970.

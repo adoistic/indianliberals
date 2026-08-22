@@ -50,6 +50,12 @@ summary: |-
   The packet also preserves the Central News Agency’s earlier letter of 11 April 1964, which warned the Swatantra Party that supplies could not continue indefinitely without payment and requested settlement by 25 April. The third page is the addressed envelope for the correspondence. Together, the documents show the practical administrative and financial relationship between a political party and a news-distribution agency.
 ---
 
+## Summary
+
+This three-page archival correspondence packet records M. R. Masani’s response, dated 1 May 1964 from New Delhi, to the Central News Agency concerning unpaid bills for newspaper and journal supplies. Masani states that he understands the Swatantra Party’s Parliamentary Office has arranged for the Treasury to sign a cheque covering the agency’s dues, and invites the agency to stop supplies if arrears remain unpaid.
+
+The packet also preserves the Central News Agency’s earlier letter of 11 April 1964, which warned the Swatantra Party that supplies could not continue indefinitely without payment and requested settlement by 25 April. The third page is the addressed envelope for the correspondence. Together, the documents show the practical administrative and financial relationship between a political party and a news-distribution agency.
+
 ## Key points
 
 - M. R. Masani’s letter is dated 1 May 1964 and addressed to the Central News Agency in New Delhi.

@@ -51,6 +51,12 @@ summary: |-
   The resolution offers a vote of gratitude for Masani's service as General Secretary from December 1959 to the end of 1967 and as President from January 1970 until the date of the resolution. It also records his assurance that he would continue to advise the party and propagate its principles and policies. N. Dandekar is thanked for agreeing to serve as President until new office-bearers and members of the National Executive are elected in September 1971.
 ---
 
+## Summary
+
+This two-page resolution records the Swatantra Party General Council's formal acceptance of M. R. Masani's resignation as party president. Meeting in Bombay on April 18, 1971, the Council states that it had tried unsuccessfully to persuade Masani to withdraw his resignation and expresses regret at accepting it.
+
+The resolution offers a vote of gratitude for Masani's service as General Secretary from December 1959 to the end of 1967 and as President from January 1970 until the date of the resolution. It also records his assurance that he would continue to advise the party and propagate its principles and policies. N. Dandekar is thanked for agreeing to serve as President until new office-bearers and members of the National Executive are elected in September 1971.
+
 ## Key points
 
 - The Swatantra Party General Council met in Bombay on April 18, 1971.

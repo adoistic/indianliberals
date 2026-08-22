@@ -51,6 +51,12 @@ summary: |-
   Mody urges Masani to issue a rejoinder correcting what he considers an inaccurate press report. He presents the Gujarat Party's request for reconsideration as a legitimate matter for the National Executive and warns that further delay could damage the party's balance during a delicate political situation. The document is a two-page letter; no printed title is visible, and the letter ends with copies sent to the members of the National Executive Committee.
 ---
 
+## Summary
+
+In this personal and confidential letter dated June 30, 1970, Piloo Mody writes to Minoo Masani about the Swatantra Party's expulsion of C. C. Desai. He argues that the party's National Executive failed to follow a fair and credible procedure: the charge sheet, reply, and hearing did not establish guilt, and the expelled member should have received the benefit of a personal hearing. Mody also criticizes M. R. Masani's public account, particularly the suggestion that the expulsion order had effectively been withdrawn while the party president was expected to declare Desai's stand vindicated.
+
+Mody urges Masani to issue a rejoinder correcting what he considers an inaccurate press report. He presents the Gujarat Party's request for reconsideration as a legitimate matter for the National Executive and warns that further delay could damage the party's balance during a delicate political situation. The document is a two-page letter; no printed title is visible, and the letter ends with copies sent to the members of the National Executive Committee.
+
 ## Key points
 
 - Mody objects to the Swatantra Party's expulsion of C. C. Desai.

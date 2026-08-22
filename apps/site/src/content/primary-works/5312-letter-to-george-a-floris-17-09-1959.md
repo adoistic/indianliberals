@@ -44,6 +44,12 @@ summary: |-
   The letter asks Floris to contact Masani after his return and arrange an appointment. It notes that Masani will be in Delhi for part of November during Parliament’s winter session and supplies his Delhi address at 40 Canning Lane, New Delhi.
 ---
 
+## Summary
+
+This single-page office letter, dated 17 September 1959, acknowledges Mr. George A. Floris’s letter of 25 August. Miss B.S. Mirza, writing as secretary to M.R. Masani, explains that Masani is abroad and is expected to return to India around 6 October.
+
+The letter asks Floris to contact Masani after his return and arrange an appointment. It notes that Masani will be in Delhi for part of November during Parliament’s winter session and supplies his Delhi address at 40 Canning Lane, New Delhi.
+
 ## Key points
 
 - The letter is dated 17 September 1959.

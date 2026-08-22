@@ -53,6 +53,16 @@ summary: |-
   Taken together the file is a small window into the practical scaffolding of Swatantra Party public life in Emergency-era India: hotel bookings and airline schedules, the coordination of a Rajaji tribute across two cities, and the workaround of hand-carrying a telegram through a friendly journalist rather than trusting the wires.
 ---
 
+## Summary
+
+This archived file bundles four pieces of correspondence from late November and early December 1975 arranging Minoo Masani's participation in a Swatantra Party public meeting in Madras honouring C. Rajagopalachari's birthday on 8 December. Although the telegram slip at the front of the file is misread as addressed to a 'MR MATHANI', the address ('148 Mahatma Gandhi Road, Bombay 1') and the accompanying letters make clear the recipient throughout is M. R. Masani.
+
+The covering letter from V. S. Srikumar, Joint Secretary at the Swatantra Party's National Headquarters on Flowers Road, Madras (1 December 1975), confirms accommodation at the Connemara Hotel, requests Masani's flight number for a Meenambakkam airport pickup, and sets out the programme: former Chief Justice K. Subba Rao will preside, Sri Shanti Bhushan and Masani will deliver special addresses, G. K. Sundaram will give the welcome address, and S. Narayanaswami will propose the vote of thanks — the meeting to be held in the covered auditorium at the Teynampet Congress grounds.
+
+The second cluster, dated 26 November 1975, is from S. V. Raju at Personnel & Productivity Services in Bombay, writing to Masani in Calcutta. A typed letter briefs him on the shape of the 'Madras meeting for Rajaji's birthday' (Shanti Bhushan agreeing to speak, Subba Rao likely to preside), gives specific Indian Airlines flight numbers (IC.109 out at 0855 and return IC.172 at 2020) for the Madras trip, and folds in unrelated logistics — bookings at the Grand in Calcutta for the Simon Carves Attitude Survey on 9–11 December, an itinerary of eighteen interviews across the three days, and a request that Masani clarify his return travel to Bombay. Accompanying it is an Indian Posts and Telegraphs telegram-receipt form recording the wire Raju sent, notable for a handwritten marginal note that the slip 'was Kept out' and instead sent via 'Mr. Basudev Ray of the Statesman' who was flying to Calcutta. A closing sheet reproduces the Telegraph Department's standard terms and conditions.
+
+Taken together the file is a small window into the practical scaffolding of Swatantra Party public life in Emergency-era India: hotel bookings and airline schedules, the coordination of a Rajaji tribute across two cities, and the workaround of hand-carrying a telegram through a friendly journalist rather than trusting the wires.
+
 ## Key points
 
 - The file collects correspondence arranging Minoo Masani's role in a Swatantra Party public meeting in Madras on 8 December 1975, held in honour of C. Rajagopalachari's birthday.

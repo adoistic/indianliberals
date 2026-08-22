@@ -49,6 +49,12 @@ summary: |-
   Rajagopalachari’s practical argument is that an overcrowded hall with an overflow audience outside would be preferable to a large, visibly underfilled pandal. He suggests that public complaints about inadequate capacity would be less damaging than the impression of a sparsely attended convention. The letter is a concise piece of organisational advice centred on attendance management, optics, and the presentation of party strength.
 ---
 
+## Summary
+
+In this letter dated 19 January 1964, C. Rajagopalachari advises V. T. Sreenivasan not to move an upcoming convention from a hall to a pandal, despite expectations of a large attendance. He recommends retaining the original arrangement: hold the convention in a hall and conclude with a large open-air meeting in a maidan.
+
+Rajagopalachari’s practical argument is that an overcrowded hall with an overflow audience outside would be preferable to a large, visibly underfilled pandal. He suggests that public complaints about inadequate capacity would be less damaging than the impression of a sparsely attended convention. The letter is a concise piece of organisational advice centred on attendance management, optics, and the presentation of party strength.
+
 ## Key points
 
 - The letter is dated 19 January 1964 and is addressed to V. T. Sreenivasan.

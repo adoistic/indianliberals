@@ -52,6 +52,12 @@ summary: |-
   The memorandum argues that inaction would allow Desai’s campaign to continue, weaken H. M. Patel, enable a possible Charan Singh-backed government, and risk a breach that could damage the Party nationally. Its final visible page shifts to a general note on leadership, identifying six qualities under the mnemonic “IKADRA”: imagination, knowledge, ability, determination, ruthlessness, and attraction. The pages are heavily annotated in handwriting, but the annotations and signatures cannot be reliably attributed from the rendered images.
 ---
 
+## Summary
+
+This three-page untitled internal memorandum, headed “Re: C.C. Desai” and “Merits of the Case,” sets out arguments for disciplinary action against C.C. Desai. It alleges persistent anti-Party activity on behalf of the P.N. group, including support for a Monopoly Bill in the Select Committee and opposition to the abolition of managing agencies. It also records that an offer by the President to allow “bygones to be bygones” was rejected, and criticizes the tone of Desai’s replies as abusive toward the Party’s office-bearers and National Executive.
+
+The memorandum argues that inaction would allow Desai’s campaign to continue, weaken H. M. Patel, enable a possible Charan Singh-backed government, and risk a breach that could damage the Party nationally. Its final visible page shifts to a general note on leadership, identifying six qualities under the mnemonic “IKADRA”: imagination, knowledge, ability, determination, ruthlessness, and attraction. The pages are heavily annotated in handwriting, but the annotations and signatures cannot be reliably attributed from the rendered images.
+
 ## Key points
 
 - The memorandum presents a case against C.C. Desai for alleged persistent defiance of Party discipline.

@@ -50,6 +50,12 @@ summary: |-
   The letter then records dissatisfaction with the office secretary, Mr. A. P. Jain, whom the sender describes as rude and as speaking ill of party members. The sender also alleges that Jain left the office during working hours, returned late, and compelled staff to work until very late. Citing this conduct and an alleged lack of sympathy toward the sender's family illness, the writer says they are considering resigning and submits the account for Ranga's information.
 ---
 
+## Summary
+
+This one-page English letter, apparently dated 16 November 1963, is addressed to Prof. N. G. Ranga at Western Court, New Delhi. The unidentified sender reports having joined the Swatantra Party Parliamentary Office on 7 October 1963 at Rs. 250 per month, with a promised increase to Rs. 300 based on a recommendation to Maharaja Sahib P. K. Deo. The sender says that the promised salary has not been confirmed.
+
+The letter then records dissatisfaction with the office secretary, Mr. A. P. Jain, whom the sender describes as rude and as speaking ill of party members. The sender also alleges that Jain left the office during working hours, returned late, and compelled staff to work until very late. Citing this conduct and an alleged lack of sympathy toward the sender's family illness, the writer says they are considering resigning and submits the account for Ranga's information.
+
 ## Key points
 
 - The letter is addressed to Prof. N. G. Ranga and appears to be dated 16 November 1963.

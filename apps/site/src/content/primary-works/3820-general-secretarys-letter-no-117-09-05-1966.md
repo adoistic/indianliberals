@@ -54,6 +54,12 @@ summary: |-
   The proposed meeting is intended to discuss organisational matters, particularly in the context of the forthcoming 1967 General Elections. Recipients are asked to confirm their attendance. The document is a one-page administrative communication rather than a substantive statement of policy.
 ---
 
+## Summary
+
+Dated 9 May 1966, this internal Swatantra Party circular from General Secretary M. R. Masani is addressed to the general secretaries of the party's state units. It notes that many state secretaries will already be in Bombay for General Council meetings on 27 and 28 May and asks them to remain for an additional meeting on Sunday, 29 May, at the party office.
+
+The proposed meeting is intended to discuss organisational matters, particularly in the context of the forthcoming 1967 General Elections. Recipients are asked to confirm their attendance. The document is a one-page administrative communication rather than a substantive statement of policy.
+
 ## Key points
 
 - The letter is General Secretary's Letter No. 117, dated 9 May 1966.

@@ -50,6 +50,12 @@ summary: |-
   The sender asks Masani to help arrange a Rs. 5 lakh advance through the Central Bank, using funds previously assured to the Bihar Party by Sir Homi Mody and friends. Three attached calculation sheets set out the proposed vehicle costs, insurance and registration charges, finance commissions, cash-down amounts, instalments, and interest calculations. The letter also links the request to the forthcoming General Elections and asks Masani to respond quickly and confirm whether he will be available in Bombay.
 ---
 
+## Summary
+
+This letter, dated June 10, 1961, is sent from the Swatantra Party Bihar office in Patna to M. R. Masani. The unidentified sender explains that the party's work in Bihar is being hampered by a shortage of suitable jeeps and reports negotiations with Narbheram & Co. (Private) Ltd. for the purchase of 40 vehicles. The proposed arrangement involves a cash payment followed by 12 monthly instalments, but the sender objects that the resulting interest rate would exceed 28 percent and is therefore unaffordable.
+
+The sender asks Masani to help arrange a Rs. 5 lakh advance through the Central Bank, using funds previously assured to the Bihar Party by Sir Homi Mody and friends. Three attached calculation sheets set out the proposed vehicle costs, insurance and registration charges, finance commissions, cash-down amounts, instalments, and interest calculations. The letter also links the request to the forthcoming General Elections and asks Masani to respond quickly and confirm whether he will be available in Bombay.
+
 ## Key points
 
 - A Swatantra Party Bihar office letter dated June 10, 1961, is addressed to M. R. Masani.

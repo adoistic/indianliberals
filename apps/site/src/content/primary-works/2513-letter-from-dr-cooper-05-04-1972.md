@@ -57,6 +57,12 @@ summary: |-
   The letter describes these as illustrative points requiring careful elaboration and implementation, and notes that Rajaji had also advocated direct action for the Swatantra Party. It refers to Dr. Cooper’s reply of 5 April 1972, an earlier letter of 28 March 1972, and an upcoming meeting of the National Executive and General Council. The page does not identify the sender, recipient, or its own date.
 ---
 
+## Summary
+
+This untitled, “PRIVATE & CONFIDENT” office letter presents a time-bound programme of direct action as an alternative to winding up the party. The proposed demands include converting All-India Radio and Television into an autonomous corporation, reducing Central Government ministers’ salaries, controlling prices, ending the ruling party’s use of government machinery for elections, guaranteeing employment, banning illicit political donations disguised as souvenir advertisements, and protecting press freedom.
+
+The letter describes these as illustrative points requiring careful elaboration and implementation, and notes that Rajaji had also advocated direct action for the Swatantra Party. It refers to Dr. Cooper’s reply of 5 April 1972, an earlier letter of 28 March 1972, and an upcoming meeting of the National Executive and General Council. The page does not identify the sender, recipient, or its own date.
+
 ## Key points
 
 - Direct action is proposed as an alternative to winding up the party.

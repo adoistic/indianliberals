@@ -52,6 +52,10 @@ summary: |-
   This one-page document records the Swatantra Party Executive Committee meeting held in New Delhi on 3 April 1970, with the minutes dated 7 April. It lists the members present and assigns party members to speak on subjects including petroleum and chemicals, industrial development, steel, education, labour, defence, social welfare, food and agriculture, health, broadcasting, transport, and tourism. The committee also agreed that preference should be given to Members of Parliament who had not yet spoken.
 ---
 
+## Summary
+
+This one-page document records the Swatantra Party Executive Committee meeting held in New Delhi on 3 April 1970, with the minutes dated 7 April. It lists the members present and assigns party members to speak on subjects including petroleum and chemicals, industrial development, steel, education, labour, defence, social welfare, food and agriculture, health, broadcasting, transport, and tourism. The committee also agreed that preference should be given to Members of Parliament who had not yet spoken.
+
 ## Key points
 
 - The Executive Committee met in the Swatantra Party room at 12:30 p.m. on 3 April 1970.

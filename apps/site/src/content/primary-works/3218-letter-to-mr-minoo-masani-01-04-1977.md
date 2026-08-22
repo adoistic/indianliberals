@@ -52,6 +52,12 @@ summary: |-
   The letter asks Masani, identified as the Party's Founder, to serve as an impartial arbitrator. It proposes four issues for a binding decision: whether office-bearers' properties and assets are held under an obligation attached to their ownership; whether those assets may be applied to purposes other than the Party's governing principles; what rectification is needed for any legal or administrative lacuna; and any incidental issues arising from the dispute.
 ---
 
+## Summary
+
+This one-page letter, dated April 1, 1977, is addressed to Minoo Masani by K. H. Subramanian, L. R. Sampat, and S. V. Raju, members of the Swatantra Party's Maharashtra unit. The signatories argue that the Party's properties and assets may be used only for purposes consistent with its constitution and principles, reporting that Party President Parmanand Kejriwal and General Secretary Girish Munshi disagree with them on this point.
+
+The letter asks Masani, identified as the Party's Founder, to serve as an impartial arbitrator. It proposes four issues for a binding decision: whether office-bearers' properties and assets are held under an obligation attached to their ownership; whether those assets may be applied to purposes other than the Party's governing principles; what rectification is needed for any legal or administrative lacuna; and any incidental issues arising from the dispute.
+
 ## Key points
 
 - Three Maharashtra Swatantra Party members write to Minoo Masani about a dispute over Party properties and assets.

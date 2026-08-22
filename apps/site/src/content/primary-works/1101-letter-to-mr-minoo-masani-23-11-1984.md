@@ -49,6 +49,12 @@ summary: |-
   The letter reproduces the proposed definition — "Used attrib. and absol. to designate a secular conservative political party in the Republic of India" — and lists the supporting citations already in hand: a 1959 line from the Asian Recorder describing C. Rajagopalachari's renaming of his proposed Conservative opposition party as the "Swatantra Party" in Madras on 4 June, further quotations from 1963 and 1966, and a 1979 quotation from V. L. Pandit referring to a merger of Congress (O), Swatantra Party, Jan Sangh and Bharatiya Lok Dal. Page 2 is the reverse of the inland letter card, showing the address to Mr M R Masani at Breach Candy House, Bhulabhai Desai Road, Bombay 400 026. The document is of interest less as political argument than as a small lexicographical trace of how the Swatantra Party had, by the mid-1980s, become dictionary-worthy vocabulary.
 ---
 
+## Summary
+
+This is a short typewritten letter to Minoo Masani from a correspondent working on the fourth and final Supplement to the Oxford English Dictionary. Sent on inland-letter-card stationery from 56 Valentina, 5 Gamadia Road, Bombay 400 026 and dated 23.iii.84, it asks Masani to vet the OED's proposed entry for the word "Swatantra" and to supply one or two more recent quotations before the end of the month.
+
+The letter reproduces the proposed definition — "Used attrib. and absol. to designate a secular conservative political party in the Republic of India" — and lists the supporting citations already in hand: a 1959 line from the Asian Recorder describing C. Rajagopalachari's renaming of his proposed Conservative opposition party as the "Swatantra Party" in Madras on 4 June, further quotations from 1963 and 1966, and a 1979 quotation from V. L. Pandit referring to a merger of Congress (O), Swatantra Party, Jan Sangh and Bharatiya Lok Dal. Page 2 is the reverse of the inland letter card, showing the address to Mr M R Masani at Breach Candy House, Bhulabhai Desai Road, Bombay 400 026. The document is of interest less as political argument than as a small lexicographical trace of how the Swatantra Party had, by the mid-1980s, become dictionary-worthy vocabulary.
+
 ## Key points
 
 - A correspondent preparing the fourth and final Supplement to the Oxford English Dictionary writes to Minoo Masani asking him to review the OED's proposed entry for the word "Swatantra".

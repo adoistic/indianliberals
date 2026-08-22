@@ -50,6 +50,12 @@ summary: |-
   Patel encloses clippings from Ahmedabad newspapers and says he is trying to obtain the same material published in “Jai Hind.” The enclosures include Gujarati newspaper reports and editorial commentary concerning Masani and the Swatantra Party, as well as unrelated market-price material and advertisements. The document therefore records both an internal party communication and a small archive of contemporary press coverage, while offering a candid assessment of declining local newspaper interest in the party.
 ---
 
+## Summary
+
+This 24 May 1968 letter from Ravibhai Patel, writing on Swatantra Party Rajkot District Office letterhead, is addressed to the party secretary, M. R. Masani, in Bombay. Patel explains that he received Masani’s telegram and press release, along with two letters concerning Masani’s resignation from the National Executive, only after being away from the station for about a week. He apologises for the delayed response and reports that Rajkot’s local newspapers did not publish the material because they had lost interest in the Swatantra Party after the Rajya Sabha election incident.
+
+Patel encloses clippings from Ahmedabad newspapers and says he is trying to obtain the same material published in “Jai Hind.” The enclosures include Gujarati newspaper reports and editorial commentary concerning Masani and the Swatantra Party, as well as unrelated market-price material and advertisements. The document therefore records both an internal party communication and a small archive of contemporary press coverage, while offering a candid assessment of declining local newspaper interest in the party.
+
 ## Key points
 
 - Ravibhai Patel wrote from the Swatantra Party’s Rajkot District Office to secretary M. R. Masani on 24 May 1968.

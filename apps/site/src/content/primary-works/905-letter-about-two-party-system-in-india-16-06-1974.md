@@ -56,6 +56,12 @@ summary: |-
   Mody distinguishes the proposed arrangement from a simple merger of existing parties. He calls instead for the dissolution of the old parties and the creation of a new, programme-based party bringing together non-Congress, non-Marxist, and non-Communist forces. He emphasizes that the new formation should accommodate regional variation, individual opinion, decentralisation, and the Swatantra Party’s principles. The letter reports that seven parties had begun the process of joining, with two more expected, and describes the draft programme, constitution, and name as matters for further agreement and ratification by a National Convention. It closes by urging patience, fuller consideration of the facts, and the subordination of factional differences to the national interest.
 ---
 
+## Summary
+
+In this letter dated June 16, 1974, Piloo Mody explains the Swatantra Party’s proposal to create a two-party system in India. He argues that democratic institutions—including the presidency, Parliament, the cabinet system, the judiciary, the press, public opinion, fundamental rights, and opposition parties—have been weakened to the point of threatening an impending dictatorship. The letter presents a broad national opposition as the necessary response to the erosion of free and fair elections, legitimate protest, and constitutional safeguards.
+
+Mody distinguishes the proposed arrangement from a simple merger of existing parties. He calls instead for the dissolution of the old parties and the creation of a new, programme-based party bringing together non-Congress, non-Marxist, and non-Communist forces. He emphasizes that the new formation should accommodate regional variation, individual opinion, decentralisation, and the Swatantra Party’s principles. The letter reports that seven parties had begun the process of joining, with two more expected, and describes the draft programme, constitution, and name as matters for further agreement and ratification by a National Convention. It closes by urging patience, fuller consideration of the facts, and the subordination of factional differences to the national interest.
+
 ## Key points
 
 - Mody frames the proposed two-party system as a response to the weakening of India’s democratic institutions.

@@ -51,6 +51,12 @@ summary: |-
   The notice is addressed to all members and is signed by P. N. Soamki, identified as Secretary. No substantive argument about Kashmir or the convention is provided beyond the directive to abstain from participation.
 ---
 
+## Summary
+
+This one-page English circular, issued by the Swatantra Party Parliamentary Office in New Delhi on September 3, 1965, instructs party members not to participate in a Delhi convention titled “The Defence of Kashmir.” It states that the convention is sponsored by Communists and fellow-travellers. A handwritten correction changes the convention dates from “October 11th and 12th” to “September 11th and 12th.”
+
+The notice is addressed to all members and is signed by P. N. Soamki, identified as Secretary. No substantive argument about Kashmir or the convention is provided beyond the directive to abstain from participation.
+
 ## Key points
 
 - The document is a Swatantra Party Parliamentary Office circular dated September 3, 1965.

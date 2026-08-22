@@ -50,6 +50,12 @@ summary: |-
   Masani closes by wishing the convention success in its undertaking. The clearly legible page presents the message in his capacity as President of the Swatantra Party; the second rendered page appears to be a faint handwritten copy or draft and could not be read reliably. No date, recipient, place, or publisher is visible.
 ---
 
+## Summary
+
+In this message to the Fifth Convention of CITU, M. R. Masani commends the organisation's effort to develop a worker-led labour movement in India. He describes the task as difficult and frustrating, but necessary if Indian trade unions are to develop the strength and independence associated with unions in the United States and Western Europe. He also welcomes a genuine labour lobby and its representatives in Parliament, while distinguishing them from politicians posing as labour leaders for personal or party advantage.
+
+Masani closes by wishing the convention success in its undertaking. The clearly legible page presents the message in his capacity as President of the Swatantra Party; the second rendered page appears to be a faint handwritten copy or draft and could not be read reliably. No date, recipient, place, or publisher is visible.
+
 ## Key points
 
 - Masani supports CITU's effort to build a worker-led labour movement.

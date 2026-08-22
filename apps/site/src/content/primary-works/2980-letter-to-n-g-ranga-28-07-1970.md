@@ -50,6 +50,12 @@ summary: |-
   Cooper asks Ranga, as the party’s parliamentary leader, to oppose the measure when it comes before the House and to persuade the Prime Minister to reopen the issue in the Consultative Committee on West Bengal. He recommends finding a more acceptable substitute for octroi duty. The page does not identify the party, the Prime Minister, or the committees by name.
 ---
 
+## Summary
+
+This single-page letter, dated 28 July 1970, is addressed by R. C. Cooper, General Secretary, to Professor N. G. Ranga. Cooper reports that the Central Parliamentary Board had decided to oppose the imposition of octroi duty in Calcutta, arguing that it would retard the growth of road transport and lead to further corruption. The letter also describes octroi as an outdated form of taxation, citing the findings of several committees.
+
+Cooper asks Ranga, as the party’s parliamentary leader, to oppose the measure when it comes before the House and to persuade the Prime Minister to reopen the issue in the Consultative Committee on West Bengal. He recommends finding a more acceptable substitute for octroi duty. The page does not identify the party, the Prime Minister, or the committees by name.
+
 ## Key points
 
 - The Central Parliamentary Board decided to oppose the proposed imposition of octroi duty in Calcutta.

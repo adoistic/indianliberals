@@ -59,6 +59,12 @@ summary: |-
   The proceedings also record agreement that Communist parties could be banned when necessary for democracy and national security, while stating that relations with Pakistan should be normal, friendly, reciprocal and based on mutuality rather than appeasement. Discussion of Kashmir and Nagaland was adjourned. On language policy, the document supports regional languages as media of instruction while calling for the study of English and Hindi at higher-secondary and university levels. On minorities, it records support for equality regardless of religion, ethnic origin or caste, alongside special measures for the uplift of the underprivileged.
 ---
 
+## Summary
+
+This two-page report records proceedings of a 26–27 May 1969 meeting at 2 Tuglaq Road, New Delhi, attended by representatives of the Swatantra Party, Jan Sangh and the B.K.D. The participants agreed that reconciling differences among the parties would be necessary before creating a new political party. The discussion addressed the balance between state rights and a strong Centre, agreeing on India’s unity while supporting greater financial viability for the States through control over selected revenue heads.
+
+The proceedings also record agreement that Communist parties could be banned when necessary for democracy and national security, while stating that relations with Pakistan should be normal, friendly, reciprocal and based on mutuality rather than appeasement. Discussion of Kashmir and Nagaland was adjourned. On language policy, the document supports regional languages as media of instruction while calling for the study of English and Hindi at higher-secondary and university levels. On minorities, it records support for equality regardless of religion, ethnic origin or caste, alongside special measures for the uplift of the underprivileged.
+
 ## Key points
 
 - The meeting considered adjustment among different party positions a precondition for forming a new political party.

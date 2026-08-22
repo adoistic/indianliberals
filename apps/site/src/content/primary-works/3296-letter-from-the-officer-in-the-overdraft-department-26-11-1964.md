@@ -50,6 +50,10 @@ summary: |-
   This two-page English legal statement, dated 26 November 1964, concerns Suit No. 71 of 1964, brought by The Central Bank of India Ltd. against Kanakhaya Naradinsingh Raja Bahadur of Ramgarh and another. The unnamed bank officer, from the overdraft department in Bombay, describes an overdraft facility of up to Rs. 4 lakhs arranged in August 1961 for the purchase of 33 jeeps. The facility was secured by a demand promissory note, letters concerning repayment and ownership, and a hypothecation of the defendant's tangible and movable property, including the jeeps.
 ---
 
+## Summary
+
+This two-page English legal statement, dated 26 November 1964, concerns Suit No. 71 of 1964, brought by The Central Bank of India Ltd. against Kanakhaya Naradinsingh Raja Bahadur of Ramgarh and another. The unnamed bank officer, from the overdraft department in Bombay, describes an overdraft facility of up to Rs. 4 lakhs arranged in August 1961 for the purchase of 33 jeeps. The facility was secured by a demand promissory note, letters concerning repayment and ownership, and a hypothecation of the defendant's tangible and movable property, including the jeeps.
+
 ## Key points
 
 - The statement records the bank's case in Suit No. 71 of 1964.

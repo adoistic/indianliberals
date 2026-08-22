@@ -50,3 +50,7 @@ ai:
 summary: |-
   The rendered page presents a periodical section headed “CRITIQUE,” led by the article “India Will Miss Him,” and an upside-down contents excerpt listing three additional items: “Seth-Dasics ‘Alliance’,” ““Wet” Bombay Is Dry,” and “Abdullah Giving Up Plebiscite.” Only the Rajaji tribute was readable in the rendered page; the other listed items were not rendered as articles.
 ---
+
+## Summary
+
+The rendered page presents a periodical section headed “CRITIQUE,” led by the article “India Will Miss Him,” and an upside-down contents excerpt listing three additional items: “Seth-Dasics ‘Alliance’,” ““Wet” Bombay Is Dry,” and “Abdullah Giving Up Plebiscite.” Only the Rajaji tribute was readable in the rendered page; the other listed items were not rendered as articles.

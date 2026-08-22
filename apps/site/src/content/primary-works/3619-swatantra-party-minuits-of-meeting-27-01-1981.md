@@ -50,6 +50,12 @@ summary: |-
   The minutes record a review of the Maharashtra region's party activities during 1980, a decision to finalise the income-and-expenditure account through December 31, 1980, and a resolution concerning operation of the party's current bank account. J. Venkiteswaran, identified as Joint Secretary, was nominated as an additional signatory alongside the existing signatories. The record ends with the termination of the meeting.
 ---
 
+## Summary
+
+This one-page English office record contains the draft minutes of the Swatantra Party's Maharashtra Executive Committee meeting held on Tuesday, January 27, 1981, at the party office at 143 Mahatma Gandhi Road, Bombay 400 023. Four committee members are listed as present—Parmanand Kejriwal, Girish Munshi, J. Venkiteswaran, and K. H. Subramaniam—with S. Ramachandran attending by special invitation.
+
+The minutes record a review of the Maharashtra region's party activities during 1980, a decision to finalise the income-and-expenditure account through December 31, 1980, and a resolution concerning operation of the party's current bank account. J. Venkiteswaran, identified as Joint Secretary, was nominated as an additional signatory alongside the existing signatories. The record ends with the termination of the meeting.
+
 ## Key points
 
 - The document records a Swatantra Party, Maharashtra Executive Committee meeting held on January 27, 1981.

@@ -48,6 +48,12 @@ summary: |-
   Aiyar expresses pleasure that the recipient has become actively involved in public affairs after a short holiday. He refers to the presence of C. R. and V. P. Menon, suggesting that the new party—though formed “a little too soon”—will ultimately succeed in its objectives. The letter offers a brief, supportive contemporary reaction to the emergence of the Swatantra Party and to the recipient’s political engagement.
 ---
 
+## Summary
+
+This handwritten letter, dated August 6, 1959, is from C. V. Ramanatha Aiyar of Pallavaram to an unidentified recipient. Aiyar acknowledges an enclosed special report published in the Madras edition of the Hindu on August 3 concerning the newly formed Swatantra Party, and encloses a copy of the recipient’s letter of May 30, written in response to an earlier letter of May 28.
+
+Aiyar expresses pleasure that the recipient has become actively involved in public affairs after a short holiday. He refers to the presence of C. R. and V. P. Menon, suggesting that the new party—though formed “a little too soon”—will ultimately succeed in its objectives. The letter offers a brief, supportive contemporary reaction to the emergence of the Swatantra Party and to the recipient’s political engagement.
+
 ## Key points
 
 - The letter is dated August 6, 1959, and was written from Pallavaram near Madras Airport.

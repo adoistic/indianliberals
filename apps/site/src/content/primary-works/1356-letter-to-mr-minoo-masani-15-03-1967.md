@@ -51,6 +51,12 @@ summary: |-
   The communication is administrative rather than argumentative. It instructs that the Parliament House caretaker may be contacted directly for necessary arrangements and is signed on behalf of the Deputy Secretary. The sender's signature is not legibly attributable from the rendered page.
 ---
 
+## Summary
+
+This one-page official letter from the Lok Sabha Secretariat, dated 15 March 1967, is addressed to Shri M. R. Masani, M.P. Its subject is the allotment of a committee room for a meeting of the Swatantra Party Parliamentary Party. The letter records that Committee Room No. 6B, First Floor, Parliament House, would be available on 16 March 1967 from 10:00 hours onward, with handwritten amendments clarifying the request and the meeting's purpose.
+
+The communication is administrative rather than argumentative. It instructs that the Parliament House caretaker may be contacted directly for necessary arrangements and is signed on behalf of the Deputy Secretary. The sender's signature is not legibly attributable from the rendered page.
+
 ## Key points
 
 - The letter was issued by the Lok Sabha Secretariat in New Delhi on 15 March 1967.

@@ -51,6 +51,12 @@ summary: |-
   Masani also acknowledges the recipient's views regarding Bihar and stresses the need for firmness to prevent the party from fragmenting. The remaining pages are handwritten drafts or annotations on an air-letter form and are substantially difficult to decipher; this summary therefore relies primarily on the legible typed page and does not attempt to reconstruct uncertain passages.
 ---
 
+## Summary
+
+This letter, dated 2 September 1964 and written by M. R. Masani to Maharani Gayatri Devi, discusses the administration of the Swatantra Party during the recipient's absence from India. Masani says he expects to meet her in Delhi to discuss affairs in Rajasthan and the party more generally. He agrees to extend the Rajasthan unit's timetable for enrolling workers and postponing elections, instructing it to continue enrolment until the end of September and hold elections after 15 October, when she is expected to be back at headquarters.
+
+Masani also acknowledges the recipient's views regarding Bihar and stresses the need for firmness to prevent the party from fragmenting. The remaining pages are handwritten drafts or annotations on an air-letter form and are substantially difficult to decipher; this summary therefore relies primarily on the legible typed page and does not attempt to reconstruct uncertain passages.
+
 ## Key points
 
 - The letter is dated 2 September 1964 and is addressed to Maharani Gayatri Devi of Jaipur, a Member of Parliament.

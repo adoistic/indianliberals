@@ -51,6 +51,12 @@ summary: |-
   Mahida also gives Masani a brief account of parliamentary activity, including speeches on the Railway Budget and a motion of thanks, the absence of some members owing to local elections, and the group's victory at Mandvi in Kutch. The second page shifts to organisational difficulties: inadequate funds, limited assistance from several colleagues, the need for temporary typing arrangements, contacts with local Swatantra Party leaders, and efforts to establish the group properly in Delhi.
 ---
 
+## Summary
+
+This two-page letter, sent by Narendra Singh Mahida to Minoo Masani from New Delhi in May 1962, concerns the practical organisation of their parliamentary group. Mahida proposes meeting Members of Parliament in the Party Committee Room rather than at 40 Canning Lane, schedules an evening discussion, and reports on the forthcoming oath-taking of P. K. Deo and the anticipated election of a Deputy-Speaker, for which he says his colleagues mostly supported Shri Jaipal Singh.
+
+Mahida also gives Masani a brief account of parliamentary activity, including speeches on the Railway Budget and a motion of thanks, the absence of some members owing to local elections, and the group's victory at Mandvi in Kutch. The second page shifts to organisational difficulties: inadequate funds, limited assistance from several colleagues, the need for temporary typing arrangements, contacts with local Swatantra Party leaders, and efforts to establish the group properly in Delhi.
+
 ## Key points
 
 - Mahida proposes that Members of Parliament meet in the Parliament buildings because Parliament is in session.

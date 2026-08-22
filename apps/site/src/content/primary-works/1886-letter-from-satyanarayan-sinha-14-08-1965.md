@@ -48,6 +48,12 @@ summary: |-
   The proposed meeting was scheduled for Sunday, August 15, 1965, at 7 p.m. in Room No. 9 of Parliament House. The letter asks Masani to attend if convenient; it does not provide further detail about the Kashmir situation, the participating opposition groups, or the meeting's outcome.
 ---
 
+## Summary
+
+This single-page official letter, dated August 14, 1965, was issued from New Delhi by Satyanarayan Sinha in his capacity as Minister of Parliamentary Affairs. Addressed to M. R. Masani, M.P., it conveys the Prime Minister's request to meet leaders of opposition groups in Parliament to discuss the Kashmir situation.
+
+The proposed meeting was scheduled for Sunday, August 15, 1965, at 7 p.m. in Room No. 9 of Parliament House. The letter asks Masani to attend if convenient; it does not provide further detail about the Kashmir situation, the participating opposition groups, or the meeting's outcome.
+
 ## Key points
 
 - The letter is dated August 14, 1965, and issued from New Delhi on Minister of Parliamentary Affairs letterhead.

@@ -49,6 +49,12 @@ summary: |-
   Masani accepts personal responsibility because he had pledged the Party’s word to the Independent Progressive Group and its leader. He describes his resignation as an act of atonement intended to awaken the Party’s conscience, while assuring the General Secretary that he will continue to support efforts to maintain the Party’s discipline and effective functioning. The second page is a press summary of the same resignation and reproduces the central explanation in condensed form.
 ---
 
+## Summary
+
+In this letter dated March 29, 1968, M. R. Masani resigns from the National Executive and Central Parliamentary Board of the Swatantra Party. He explains that the resignation follows the defeat of the Party’s candidate, Dr. Bharilal Amthani, in the Rajya Sabha election in Gujarat, after Party leaders and legislators failed to honour an undertaking made in 1966 to support Babubhai Vaidya in the 1968 election. Masani presents the episode as a breach of faith that damages the Party’s credibility and reflects a wider demoralisation in Indian political life.
+
+Masani accepts personal responsibility because he had pledged the Party’s word to the Independent Progressive Group and its leader. He describes his resignation as an act of atonement intended to awaken the Party’s conscience, while assuring the General Secretary that he will continue to support efforts to maintain the Party’s discipline and effective functioning. The second page is a press summary of the same resignation and reproduces the central explanation in condensed form.
+
 ## Key points
 
 - Masani resigns from the Swatantra Party’s National Executive and Central Parliamentary Board.

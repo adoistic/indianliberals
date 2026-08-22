@@ -50,6 +50,12 @@ summary: |-
   Narayan asks Masani to communicate the possible date of a meeting in the second half of February as soon as possible after the January 3 meeting. He also notes that he does not expect to be in Delhi by Christmas and will arrive there only on January 29, with a handwritten correction to the date visible in the typed text.
 ---
 
+## Summary
+
+In this one-page letter dated December 3, 1969, from Camp Patna, Jayaprakash Narayan writes to Minoo Masani about changes to his schedule. Narayan says he will be unable to attend a meeting in Bombay on January 3 and suggests that Masani proceed without him.
+
+Narayan asks Masani to communicate the possible date of a meeting in the second half of February as soon as possible after the January 3 meeting. He also notes that he does not expect to be in Delhi by Christmas and will arrive there only on January 29, with a handwritten correction to the date visible in the typed text.
+
 ## Key points
 
 - The letter is dated December 3, 1969, and was written from Camp Patna.

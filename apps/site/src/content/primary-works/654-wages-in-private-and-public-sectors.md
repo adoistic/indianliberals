@@ -53,6 +53,12 @@ summary: |-
   A second, apparently separate clipping is headed “VAST SCOPE FOR EXPORTS TO U.S.” It reports an Indian diplomat’s appeal for expanded exports to the United States, arguing that India had not sufficiently explored the American market. The Consul-General emphasizes the need for better information about U.S. demand, more commercial exchanges, and stronger banking and business contacts. The relationship between this clipping and the Kosygin report is unclear; no publication, author, date, or issue information is visible beyond “CALCUTTA, March 3” in the second article.
 ---
 
+## Summary
+
+The first clipping, headed “KOSYGIN'S VIEW,” reports on Soviet Deputy Prime Minister A. N. Kosygin’s discussions in New Delhi with members of India’s Planning Commission. It presents Kosygin as describing a system in which producers were offered incentives, while also reporting Mr. Nanda’s observation that the Indian Government was considering measures to create parity between private-sector and comparable public-sector industries. The article highlights Kosygin’s view that private industry could offer better wages, and notes his favorable remarks about Soviet production, oil deposits, and industrial development.
+
+A second, apparently separate clipping is headed “VAST SCOPE FOR EXPORTS TO U.S.” It reports an Indian diplomat’s appeal for expanded exports to the United States, arguing that India had not sufficiently explored the American market. The Consul-General emphasizes the need for better information about U.S. demand, more commercial exchanges, and stronger banking and business contacts. The relationship between this clipping and the Kosygin report is unclear; no publication, author, date, or issue information is visible beyond “CALCUTTA, March 3” in the second article.
+
 ## Key points
 
 - The first clipping reports A. N. Kosygin’s discussions with India’s Planning Commission in New Delhi.

@@ -52,6 +52,12 @@ summary: |-
   The principal agenda discussion concerned the party manifesto. The committee noted that only the Dombivili unit had submitted comments by the requested deadline, while the Matunga unit's suggestions were expected shortly. Pollution and food adulteration were among the issues mentioned, but the committee ultimately adopted the Sub-Committee's draft as final, emphasizing that the manifesto should be brief and to the point. Additional business covered a proposed seminar whose financing remained unresolved, approval of a Rs. 788.30 bill for posters and banners concerning “Mercedes Socialism,” declining attendance at committee meetings, and procedures for reminders and advance notice. The meeting ended with a vote of thanks to the chair.
 ---
 
+## Summary
+
+These three pages record the meeting of the Swatantra Party's Bombay Region Executive Committee held on 24 November 1971. Maurice Japhet chaired in the president's absence. The minutes list eight members present, note leave granted to Shantilal Thar, and record medical leave for V. M. Astik of Mulund. The previous meeting's minutes were confirmed with a modification concerning a subvention payment to the Matunga unit.
+
+The principal agenda discussion concerned the party manifesto. The committee noted that only the Dombivili unit had submitted comments by the requested deadline, while the Matunga unit's suggestions were expected shortly. Pollution and food adulteration were among the issues mentioned, but the committee ultimately adopted the Sub-Committee's draft as final, emphasizing that the manifesto should be brief and to the point. Additional business covered a proposed seminar whose financing remained unresolved, approval of a Rs. 788.30 bill for posters and banners concerning “Mercedes Socialism,” declining attendance at committee meetings, and procedures for reminders and advance notice. The meeting ended with a vote of thanks to the chair.
+
 ## Key points
 
 - The Bombay Region Executive Committee met on 24 November 1971 with Maurice Japhet in the chair.

@@ -51,6 +51,12 @@ summary: |-
   The letter also requests a copy of the Bombay Education Trust deed so that preparations for the trust deed and operating rules can proceed. It names G. Narayanaswami as having already agreed to prepare the trust deed. The second rendered page is an inland-letter envelope addressed to S. V. Raju; it provides postal and routing details but no additional substantive correspondence.
 ---
 
+## Summary
+
+This undated-title letter, dated 25 April 1977, was issued from the Swatantra Party National Headquarters in Madras by its Joint Secretary to S. V. Raju. The writer reports that neither Morarji Desai nor Bhanu Pratap Singh has replied to the party's telegrams and letters, but says that P. Ramachandran had promised to arrange delegates for a convention in Delhi. A subsequent official acknowledgement from Ramachandran conveyed thanks for the telegram and stated that a copy had been forwarded to the Janata Party office for suitable action.
+
+The letter also requests a copy of the Bombay Education Trust deed so that preparations for the trust deed and operating rules can proceed. It names G. Narayanaswami as having already agreed to prepare the trust deed. The second rendered page is an inland-letter envelope addressed to S. V. Raju; it provides postal and routing details but no additional substantive correspondence.
+
 ## Key points
 
 - The letter is dated 25 April 1977 and is issued on Swatantra Party National Headquarters letterhead in Madras.

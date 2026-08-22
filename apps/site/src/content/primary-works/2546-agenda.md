@@ -49,6 +49,10 @@ summary: |-
   This one-page English-language agenda sets out the business for an organisational meeting. It begins with minutes and membership information, recording 1,240 enrolled members and the number of books issued, followed by reports from convenors responsible for meetings, labour, fund-raising, publicity, and organisation. The remaining agenda items concern a resolution of regret on the death of V. C. Subbiah Gounder, identified as President of the District Swatantra Party in Coimbatore; a proposal for a Labour Contact Centre; a proposal for a bureau providing free legal advice; other business; and the date of the next meeting. No meeting date, author, or formal issuer line is visible on the page.
 ---
 
+## Summary
+
+This one-page English-language agenda sets out the business for an organisational meeting. It begins with minutes and membership information, recording 1,240 enrolled members and the number of books issued, followed by reports from convenors responsible for meetings, labour, fund-raising, publicity, and organisation. The remaining agenda items concern a resolution of regret on the death of V. C. Subbiah Gounder, identified as President of the District Swatantra Party in Coimbatore; a proposal for a Labour Contact Centre; a proposal for a bureau providing free legal advice; other business; and the date of the next meeting. No meeting date, author, or formal issuer line is visible on the page.
+
 ## Key points
 
 - The sheet records meeting business under the heading “AGENDA.” Membership is listed as 1,240 enrolled members, alongside a books-out figure whose value is not clearly visible. Convenors' reports cover meetings, labour, fund-raising, publicity, and organisation. The agenda includes a condolence resolution for V. C. Subbiah Gounder of the District Swatantra Party, Coimbatore. Two organisational proposals concern a Labour Contact Centre and a bureau for free legal advice.

@@ -46,6 +46,12 @@ summary: |-
   Masani encloses a couple of photographs taken on the occasion, sends his regards to Sucheta (Sucheta Kripalani) and to Kripalani himself, and signs off. The letter is addressed to Kripalani at 7 Thyagaraja Marg, New Delhi 11, and is signed in Masani's hand with the typist's initials "MRM/pav" and "Encl: 2" indicating the two photographs.
 ---
 
+## Summary
+
+A brief thank-you note from Minoo Masani to Acharya J. B. Kripalani, dated 3rd March 1971, acknowledging Kripalani's decision to travel to Rajkot to speak on Masani's behalf during the 1971 general election campaign. Masani reports that the meeting was a great success and that Kripalani's participation helped a great deal.
+
+Masani encloses a couple of photographs taken on the occasion, sends his regards to Sucheta (Sucheta Kripalani) and to Kripalani himself, and signs off. The letter is addressed to Kripalani at 7 Thyagaraja Marg, New Delhi 11, and is signed in Masani's hand with the typist's initials "MRM/pav" and "Encl: 2" indicating the two photographs.
+
 ## Key points
 
 - Personal thank-you letter from Minoo Masani to J. B. Kripalani, 3rd March 1971.

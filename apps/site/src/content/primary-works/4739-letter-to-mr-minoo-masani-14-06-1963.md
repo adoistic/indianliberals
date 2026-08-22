@@ -48,6 +48,12 @@ summary: |-
   The letter also clarifies the intended meaning of a joint letter concerning cooperation among opposition parties. Paricha states that the proposal was not for a rigid joint programme or a summit meeting, but for gradual enlargement of mutual understanding and cooperation among party leaders, particularly in opposition to the Congress-Communist combination. He expresses regret that the wording may have appeared less sympathetic than intended.
 ---
 
+## Summary
+
+In this personal and confidential letter dated 14 June 1963, Lt. Col. H. R. Paricha congratulates Minoo Masani on the successful conclusion of his electoral campaign and explains that colleagues in Delhi had wanted to send a token delegation but received no reply to their earlier letters. Paricha says the campaign demonstrated the importance of building an organised cadre in Delhi and notes that classes are being started for this purpose.
+
+The letter also clarifies the intended meaning of a joint letter concerning cooperation among opposition parties. Paricha states that the proposal was not for a rigid joint programme or a summit meeting, but for gradual enlargement of mutual understanding and cooperation among party leaders, particularly in opposition to the Congress-Communist combination. He expresses regret that the wording may have appeared less sympathetic than intended.
+
 ## Key points
 
 - Paricha congratulates Masani on the victorious termination of his electoral campaign.

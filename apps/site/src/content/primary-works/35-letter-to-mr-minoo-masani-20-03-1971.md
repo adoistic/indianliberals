@@ -48,6 +48,10 @@ summary: |-
   This one-page letter, dated March 20, 1971, is from S. R. Mohan Das to Minoo Masani following Masani’s defeat in the Rajkot election. Mohan Das says the result came as a shock to him and to friends in Bombay, while acknowledging that Masani would have exerted his utmost effort. The letter places the defeat within a longer democratic and developmental struggle. Rather than treating the result as decisive, Mohan Das encourages Masani to regard it as only one loss in a continuing effort to promote democracy and development.
 ---
 
+## Summary
+
+This one-page letter, dated March 20, 1971, is from S. R. Mohan Das to Minoo Masani following Masani’s defeat in the Rajkot election. Mohan Das says the result came as a shock to him and to friends in Bombay, while acknowledging that Masani would have exerted his utmost effort. The letter places the defeat within a longer democratic and developmental struggle. Rather than treating the result as decisive, Mohan Das encourages Masani to regard it as only one loss in a continuing effort to promote democracy and development.
+
 ## Key points
 
 - The letter responds sympathetically to Minoo Masani’s defeat in the Rajkot election. The writer reports that the result surprised and disappointed him and friends in Bombay. Mohan Das acknowledges Masani’s effort in the campaign. The defeat is framed as one setback rather than a final judgment.

@@ -58,6 +58,12 @@ summary: |-
   In the rendered pages, Masani contrasts an “etatist” political philosophy—which views social and economic progress as the product of successive state action—with an individualist or libertarian philosophy that regards the modern state as potentially coercive and believes genuine progress must come freely from within society. He invokes Gandhi, Vinoba Bhave, Jayaprakash Narayan, and Rajendra Prasad in support of voluntary social action and decentralisation, and attacks welfare-state expansion, administrative growth, and excessive legislative intervention. The article also links these arguments to constitutional safeguards, judicial independence, the rule of law, and the danger that a state empowered to achieve social ends may ultimately undermine democratic freedom.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani questions whether social morality can be created through legislation. He distinguishes personal morality from the wider moral obligations of citizens and institutions, arguing that laws may restrain conduct but cannot substitute for individual virtue, social cooperation, or moral conversion. Prohibition, anti-gambling rules, censorship, marriage legislation, taxation, and other regulatory measures are presented as examples of attempts to enforce desirable ends through coercion, often at the expense of liberty and personal responsibility.
+
+In the rendered pages, Masani contrasts an “etatist” political philosophy—which views social and economic progress as the product of successive state action—with an individualist or libertarian philosophy that regards the modern state as potentially coercive and believes genuine progress must come freely from within society. He invokes Gandhi, Vinoba Bhave, Jayaprakash Narayan, and Rajendra Prasad in support of voluntary social action and decentralisation, and attacks welfare-state expansion, administrative growth, and excessive legislative intervention. The article also links these arguments to constitutional safeguards, judicial independence, the rule of law, and the danger that a state empowered to achieve social ends may ultimately undermine democratic freedom.
+
 ## Key points
 
 - The article distinguishes personal morality from legal regulation and public morality.

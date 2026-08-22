@@ -49,6 +49,12 @@ summary: |-
   The letter then turns to parliamentary and organisational communications. It notes that papers are being circulated to members of the Parliamentary Board, Central Organising Committee, and General Council, including background material on Kashmir and a report on an incident involving the Jan Sangh. The visible page says that the latter material was considered necessary because of what the sender characterises as aggressive and mendacious propaganda against the organisation. The page ends mid-sentence, with a continuation marked “..2”; the second page was not supplied.
 ---
 
+## Summary
+
+This typed letter, dated June 15, 1964, is addressed to C. Rajagopalachari (“Rajaji”) in advance of his forthcoming visit to Bombay. The unidentified sender lists three scheduled engagements: a public meeting under the auspices of the Bombay Swatantra Party, a Rotary Club luncheon on “India and her neighbours,” and an address to the Indian Council of World Affairs on “The Future of our Sub-Continent.” The sender asks Rajaji to disclose any additional commitments so that overlapping engagements can be avoided.
+
+The letter then turns to parliamentary and organisational communications. It notes that papers are being circulated to members of the Parliamentary Board, Central Organising Committee, and General Council, including background material on Kashmir and a report on an incident involving the Jan Sangh. The visible page says that the latter material was considered necessary because of what the sender characterises as aggressive and mendacious propaganda against the organisation. The page ends mid-sentence, with a continuation marked “..2”; the second page was not supplied.
+
 ## Key points
 
 - The letter is dated June 15, 1964, and addressed to C. Rajagopalachari.

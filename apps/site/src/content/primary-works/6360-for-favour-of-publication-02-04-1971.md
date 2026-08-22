@@ -56,6 +56,12 @@ summary: |-
   The letter identifies two principal conclusions. First, the Party must undertake basic political education among the masses, explaining the value of democracy, free institutions, and fundamental economic laws. Second, existing democratic opposition parties must develop new and preferably younger leadership if they are to build public awareness, defend the democratic Constitution, and promote sound economic policies. The writer accepts personal responsibility for the Party's accumulated organisational and strategic errors, including mistakes made since January 1971.
 ---
 
+## Summary
+
+This one-page letter, dated April 2, 1971, is addressed to an unnamed colleague ahead of the Swatantra Party General Council meeting in Bombay on April 17–18. It describes the recent General Elections as a disaster for the Party and calls for a serious reassessment of its position and future. The writer invokes Mahatma Gandhi's advice to “turn the searchlight inward,” urging the Party to combine the courage to continue fighting for its objectives with the courage to admit and learn from its mistakes.
+
+The letter identifies two principal conclusions. First, the Party must undertake basic political education among the masses, explaining the value of democracy, free institutions, and fundamental economic laws. Second, existing democratic opposition parties must develop new and preferably younger leadership if they are to build public awareness, defend the democratic Constitution, and promote sound economic policies. The writer accepts personal responsibility for the Party's accumulated organisational and strategic errors, including mistakes made since January 1971.
+
 ## Key points
 
 - The letter prepares a party colleague for the Swatantra Party General Council meeting scheduled for April 17–18, 1971.

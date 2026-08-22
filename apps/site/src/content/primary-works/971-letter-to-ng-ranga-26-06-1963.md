@@ -50,6 +50,12 @@ summary: |-
   The second and third pages set out Masani’s reasons for opposing an immediate General Council meeting. He argues that there is no adequate agenda, that members could incur expense without meaningful consultation, and that a proposed shift from mass membership to active membership should first be handled by the Central Organising Committee. He warns that a premature meeting could be dominated by extraneous disputes, including the language issue and disagreements involving Rajaji and K. M. Munshi. The letter closes by proposing that these matters be discussed informally in Madras and by enclosing a copy for Rajaji.
 ---
 
+## Summary
+
+In this letter dated June 26, 1963, M. R. Masani writes to Professor N. G. Ranga about forthcoming meetings of the party’s Parliamentary Group, Party Leaders, Central Organising Committee, Parliamentary Board, and General Council. He asks Ranga to ensure that nominations are formally invited for party office-bearers, while declining to intervene in the seating arrangements of the Lok Sabha beyond the first two benches. Masani also hopes to meet Ranga in Madras to discuss whether the party should support or table a no-confidence motion, how to respond to Kripalani’s efforts to create opposition unity, and the scheduling and purpose of party meetings.
+
+The second and third pages set out Masani’s reasons for opposing an immediate General Council meeting. He argues that there is no adequate agenda, that members could incur expense without meaningful consultation, and that a proposed shift from mass membership to active membership should first be handled by the Central Organising Committee. He warns that a premature meeting could be dominated by extraneous disputes, including the language issue and disagreements involving Rajaji and K. M. Munshi. The letter closes by proposing that these matters be discussed informally in Madras and by enclosing a copy for Rajaji.
+
 ## Key points
 
 - Masani acknowledges Ranga’s recent correspondence and discusses arrangements for Parliamentary Group and Party Leaders’ meetings.

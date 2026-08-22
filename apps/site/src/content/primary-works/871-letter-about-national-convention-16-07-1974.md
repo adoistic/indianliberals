@@ -51,6 +51,12 @@ summary: |-
   The document is administrative rather than argumentative: it provides no title, authorial byline, or text of the resolution itself. It is printed on Swatantra Party National Headquarters letterhead in Bombay and includes a receiver's signature.
 ---
 
+## Summary
+
+This untitled one-page English office receipt, dated 16 July 1974, records the Swatantra Party National Headquarters' receipt of a resolution submitted for the Party's National Convention scheduled for 4 August. The resolution was received from M. R. Masani and was signed by the sender, with Mr. K. H. Subramaniam named as seconder.
+
+The document is administrative rather than argumentative: it provides no title, authorial byline, or text of the resolution itself. It is printed on Swatantra Party National Headquarters letterhead in Bombay and includes a receiver's signature.
+
 ## Key points
 
 - The document is a one-page administrative receipt from Swatantra Party National Headquarters.

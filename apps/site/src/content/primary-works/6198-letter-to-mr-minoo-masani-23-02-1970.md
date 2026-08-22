@@ -51,6 +51,12 @@ summary: |-
   The letter also coordinates the circulation and revision of draft minutes prepared by Prof. A. B. Shah and Dr. Cooper, schedules a meeting with Masani and Cooper, records corrections to the minutes, and encloses the cost incurred in publishing Swatantra in Parliament. Raju says he is not discouraged by Desai's negative response and forwards correspondence concerning a Rajya Sabha nomination.
 ---
 
+## Summary
+
+This one-page letter from S. V. Raju to Minoo Masani, dated February 23, 1970, reports on press coverage and ongoing Swatantra Party work. Raju notes that Masani's letter appeared in the Bombay edition of The Times of India and discusses whether a previously drafted response concerning C. C. Desai remains necessary, apart from a proposed meeting on the party's position.
+
+The letter also coordinates the circulation and revision of draft minutes prepared by Prof. A. B. Shah and Dr. Cooper, schedules a meeting with Masani and Cooper, records corrections to the minutes, and encloses the cost incurred in publishing Swatantra in Parliament. Raju says he is not discouraged by Desai's negative response and forwards correspondence concerning a Rajya Sabha nomination.
+
 ## Key points
 
 - Raju acknowledges that Masani's letter was published in the Bombay edition of The Times of India.

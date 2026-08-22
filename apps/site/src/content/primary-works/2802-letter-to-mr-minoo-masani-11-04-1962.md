@@ -46,6 +46,10 @@ summary: |-
   This single-page official letter, dated April 11, 1962, was sent by P.K. Patnaik, Deputy Secretary of the Lok Sabha Secretariat, to M.R. Masani, General Secretary of the Swatantra Party. It concerns seating arrangements in the Lok Sabha for members of the Swatantra Group and follows up on Masani’s April 2 letter to Shri Kaul.
 ---
 
+## Summary
+
+This single-page official letter, dated April 11, 1962, was sent by P.K. Patnaik, Deputy Secretary of the Lok Sabha Secretariat, to M.R. Masani, General Secretary of the Swatantra Party. It concerns seating arrangements in the Lok Sabha for members of the Swatantra Group and follows up on Masani’s April 2 letter to Shri Kaul.
+
 ## Key points
 
 - The letter is issued from the Lok Sabha Secretariat in New Delhi.

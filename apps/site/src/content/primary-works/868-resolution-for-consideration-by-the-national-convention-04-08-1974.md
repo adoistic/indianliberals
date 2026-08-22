@@ -51,6 +51,10 @@ summary: |-
   This two-page resolution considers the proposed dissolution of the Swatantra Party to facilitate the formation of a new political party. It acknowledges that, among the seven parties expected to dissolve simultaneously, Swatantra is the only national party, and calls on the proposed successor party to bring other major democratic opposition parties together to create a credible national alternative to the Congress government.
 ---
 
+## Summary
+
+This two-page resolution considers the proposed dissolution of the Swatantra Party to facilitate the formation of a new political party. It acknowledges that, among the seven parties expected to dissolve simultaneously, Swatantra is the only national party, and calls on the proposed successor party to bring other major democratic opposition parties together to create a credible national alternative to the Congress government.
+
 ## Key points
 
 - The resolution supports dissolving the Swatantra Party as part of the formation of a new party.

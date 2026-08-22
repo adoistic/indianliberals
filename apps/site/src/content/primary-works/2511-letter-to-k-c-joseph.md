@@ -51,6 +51,12 @@ summary: |-
   The writer expresses particular disappointment that Joseph allegedly witnessed the closure without protesting, comparing his silence to Bhishma’s failure to intervene when Draupadi was publicly humiliated. The letter closes with a pledge to fight the matter to the end and an appeal for Joseph’s active partnership, recalling their earlier struggles together. The author’s handwritten signature is not sufficiently legible for authoritative identification; the archival annotation identifies the document as a copy concerning the Belgaum state party office.
 ---
 
+## Summary
+
+This letter, dated 13 August 1974 and addressed to K. C. Joseph, protests the closure of the Swatantra Party’s state office by the state president and secretary shortly before the party’s national convention. The writer argues that the office closure effectively usurped the convention’s authority, which had empowered the president to dissolve the party only in consultation with the national executive. The letter also questions the propriety and legality of closing an office and removing materials without the consent of the state executive, state council, or their representatives, characterising the action as an expropriation of members’ property.
+
+The writer expresses particular disappointment that Joseph allegedly witnessed the closure without protesting, comparing his silence to Bhishma’s failure to intervene when Draupadi was publicly humiliated. The letter closes with a pledge to fight the matter to the end and an appeal for Joseph’s active partnership, recalling their earlier struggles together. The author’s handwritten signature is not sufficiently legible for authoritative identification; the archival annotation identifies the document as a copy concerning the Belgaum state party office.
+
 ## Key points
 
 - The writer objects to the state Swatantra Party office being closed before the national convention.

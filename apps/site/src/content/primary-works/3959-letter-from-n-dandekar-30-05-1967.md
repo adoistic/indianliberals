@@ -55,6 +55,12 @@ summary: |-
   The letter warns that unstable coalitions could strengthen communist and extreme socialist elements, return the Congress to power with greater strength, or damage democratic institutions. It therefore instructs Swatantra legislators not to participate in any government that includes communists, with a possible temporary exception for Uttar Pradesh. At the same time, it leaves open cooperation among genuinely democratic parties and like-minded Congress legislators who might leave Congress for ideological reasons, while urging Swatantra to present its own principles as the democratic alternative to the Congress.
 ---
 
+## Summary
+
+This letter, dated 30 May 1967 and signed by N. Dandekar as Officiating General Secretary of the Swatantra Party, conveys the Central Parliamentary Board and National Executive's position on coalition governments in Punjab, Haryana, and Uttar Pradesh. It describes recent non-Congress governments formed after Congress legislators crossed the floor, but argues that such arrangements are unlikely to remain workable or stable.
+
+The letter warns that unstable coalitions could strengthen communist and extreme socialist elements, return the Congress to power with greater strength, or damage democratic institutions. It therefore instructs Swatantra legislators not to participate in any government that includes communists, with a possible temporary exception for Uttar Pradesh. At the same time, it leaves open cooperation among genuinely democratic parties and like-minded Congress legislators who might leave Congress for ideological reasons, while urging Swatantra to present its own principles as the democratic alternative to the Congress.
+
 ## Key points
 
 - The Swatantra Party leadership reviewed the formation of non-Congress coalition governments in Punjab, Haryana, and Uttar Pradesh.

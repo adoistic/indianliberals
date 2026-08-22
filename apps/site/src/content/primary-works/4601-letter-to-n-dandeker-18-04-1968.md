@@ -53,6 +53,12 @@ summary: |-
   The letter criticises the Congress practice of issuing voting “whips,” while warning that the Swatantra Party cannot build a credible governing alternative if its legislators are treated as irreconcilable. Sreenivasan refers to the Kashinath episode as evidence of public concern about the party’s discipline, but argues against responding by making legislators sign advance undertakings. In the accompanying correspondence, Rajaji defends the freedom of legislators who have been elected to represent the party and cautions that rigid control could weaken the party’s organisation. The letter proposes that future Assembly candidates sign a written undertaking to follow party directions in Rajya Sabha and Legislative Council elections, while leaving the final decision to the State Executive.
 ---
 
+## Summary
+
+This four-page Swatantra Party (Mysore State) letter, dated 18 April 1968 and signed by General Secretary V. T. Sreenivasan, addresses N. Dandekar on the selection of candidates for indirect elections to the Rajya Sabha and the Legislative Council. Sreenivasan rejects State President K. B. Jinaraja Hegde’s suggestion that the State Parliamentary Board and State Executive should surrender responsibility for candidate selection and allow party legislators to vote freely. He argues that the Swatantra Party’s commitment to individual liberty does not exclude party discipline in matters governed by party principles.
+
+The letter criticises the Congress practice of issuing voting “whips,” while warning that the Swatantra Party cannot build a credible governing alternative if its legislators are treated as irreconcilable. Sreenivasan refers to the Kashinath episode as evidence of public concern about the party’s discipline, but argues against responding by making legislators sign advance undertakings. In the accompanying correspondence, Rajaji defends the freedom of legislators who have been elected to represent the party and cautions that rigid control could weaken the party’s organisation. The letter proposes that future Assembly candidates sign a written undertaking to follow party directions in Rajya Sabha and Legislative Council elections, while leaving the final decision to the State Executive.
+
 ## Key points
 
 - Sreenivasan opposes transferring candidate-selection responsibility from the State Parliamentary Board and State Executive to legislators acting individually.

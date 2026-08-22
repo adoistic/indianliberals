@@ -54,6 +54,10 @@ summary: |-
   This one-page Swatantra Party Parliamentary Office record, dated March 13, 1964, reports a meeting of the Party's Executive Committee in Parliament House's Central Hall. It lists eight members present and records decisions concerning coordination with democratic opposition leaders, a proposed non-political board for quotas, permits and licences based on the Bangalore Convention, and mobilisation for a March 30 protest march against the 17th Amendment Bill.
 ---
 
+## Summary
+
+This one-page Swatantra Party Parliamentary Office record, dated March 13, 1964, reports a meeting of the Party's Executive Committee in Parliament House's Central Hall. It lists eight members present and records decisions concerning coordination with democratic opposition leaders, a proposed non-political board for quotas, permits and licences based on the Bangalore Convention, and mobilisation for a March 30 protest march against the 17th Amendment Bill.
+
 ## Key points
 
 - The Executive Committee met on March 13, 1964, in the Central Hall of Parliament House.

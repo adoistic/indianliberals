@@ -56,6 +56,12 @@ summary: |-
   The paper treats productivity as an urgent economic and organisational concern for India. It attributes low productivity to historical and institutional factors including education, invention and innovation, capital investment, managerial and technical development, and weaknesses in distribution and retailing. It argues that mechanisation need not cause unemployment, provided management adopts policies concerning retrenchment, retraining, and compensation. The final section considers how productivity gains should be shared among workers, investors, consumers, and the community, while assigning government a leadership role through incentives, statistical provision, workers’ education, consultation, and state enterprises.
 ---
 
+## Summary
+
+This four-page English typescript, headed “IV Tata Personnel Officers’ Conference” and dated 27 September 1961, presents productivity as the relationship between input and output, an economy of means in relation to given ends, and a measure of technological progress. It argues that increased production is meaningful only when linked to higher productivity—producing more with less capital, raw material, physical effort, and working time.
+
+The paper treats productivity as an urgent economic and organisational concern for India. It attributes low productivity to historical and institutional factors including education, invention and innovation, capital investment, managerial and technical development, and weaknesses in distribution and retailing. It argues that mechanisation need not cause unemployment, provided management adopts policies concerning retrenchment, retraining, and compensation. The final section considers how productivity gains should be shared among workers, investors, consumers, and the community, while assigning government a leadership role through incentives, statistical provision, workers’ education, consultation, and state enterprises.
+
 ## Key points
 
 - Productivity is defined through the relation between inputs and outputs and through the efficient use of resources.

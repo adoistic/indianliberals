@@ -52,6 +52,12 @@ summary: |-
   Raju replies that Deo’s papers should make good reading and recommends T. Sadasivam of Bharathan Publications Private Ltd. in Madras as a possible editor and publisher. Raju also looks forward to meeting Deo in Bombay. The pages document a practical collaboration around preserving and publishing liberal political materials, but do not contain the proposed speeches or the underlying research materials.
 ---
 
+## Summary
+
+This two-page correspondence from March 1985 concerns the preparation and publication of political speeches. Maharaja P. K. Deo writes to S. V. Raju that he is undertaking doctoral research on the Swatantra Party and offers to share material from his parliamentary and public life. He also explains that he intends to compile and publish some of his major parliamentary speeches, requesting help identifying a capable editor and printer in Madras.
+
+Raju replies that Deo’s papers should make good reading and recommends T. Sadasivam of Bharathan Publications Private Ltd. in Madras as a possible editor and publisher. Raju also looks forward to meeting Deo in Bombay. The pages document a practical collaboration around preserving and publishing liberal political materials, but do not contain the proposed speeches or the underlying research materials.
+
 ## Key points
 
 - Maharaja P. K. Deo is conducting doctoral research on the Swatantra Party.

@@ -56,6 +56,12 @@ summary: |-
   The paper rejects the claim that repression was necessary to maintain public discipline or implement an economic programme. It argues that order and improved punctuality could have been achieved without severe repression, and that suppressing dissent deprives the government of information about public dissatisfaction. It calls for reversal of the drift toward dictatorship, restoration of civil liberties, release of political detainees, removal of press censorship, repeal of the Emergency proclamations, and the holding of a genuinely free general election. The text also invokes Mahatma Gandhi’s warning about “the peace of the graveyard.”
 ---
 
+## Summary
+
+This three-page position paper argues that the Emergency proclaimed on 25 June has produced arbitrary press censorship, detention without trial or disclosure of grounds, and legislative and constitutional measures that undermine the rule of law and fundamental rights. It presents the Constitution as an instrument of freedom, shaped by the independence struggle and intended to provide a framework for a free and just society. The paper particularly condemns the suppression of political news and criticism, including restrictions affecting parliamentary proceedings and court judgments.
+
+The paper rejects the claim that repression was necessary to maintain public discipline or implement an economic programme. It argues that order and improved punctuality could have been achieved without severe repression, and that suppressing dissent deprives the government of information about public dissatisfaction. It calls for reversal of the drift toward dictatorship, restoration of civil liberties, release of political detainees, removal of press censorship, repeal of the Emergency proclamations, and the holding of a genuinely free general election. The text also invokes Mahatma Gandhi’s warning about “the peace of the graveyard.”
+
 ## Key points
 
 - The Emergency is criticized for arbitrary press censorship and the suppression of political news.

@@ -49,6 +49,10 @@ summary: |-
   In this typed letter dated October 27, 1959, M. R. Masani thanks Mr. P. V. Pamnani for a postcard and responds to Pamnani's suggestion concerning the political activity of government servants. Masani says he will examine the suggestion but doubts that government servants would be permitted to become active members of a political party.
 ---
 
+## Summary
+
+In this typed letter dated October 27, 1959, M. R. Masani thanks Mr. P. V. Pamnani for a postcard and responds to Pamnani's suggestion concerning the political activity of government servants. Masani says he will examine the suggestion but doubts that government servants would be permitted to become active members of a political party.
+
 ## Key points
 
 - The letter is dated October 27, 1959.

@@ -47,6 +47,10 @@ summary: |-
   This single-page English office letter, dated July 15, 1974, is written on Swatantra Party Maharashtra letterhead by Girish Munshi, identified as the party's General Secretary. Addressed to the General Secretary of the Swatantra Party, it formally gives notice of a resolution to be moved at the party's National Convention in Delhi on August 4 and 5, 1974.
 ---
 
+## Summary
+
+This single-page English office letter, dated July 15, 1974, is written on Swatantra Party Maharashtra letterhead by Girish Munshi, identified as the party's General Secretary. Addressed to the General Secretary of the Swatantra Party, it formally gives notice of a resolution to be moved at the party's National Convention in Delhi on August 4 and 5, 1974.
+
 ## Key points
 
 - The letter is dated July 15, 1974.

@@ -52,6 +52,12 @@ summary: |-
   Aney’s conditions for joining concern both regional autonomy and national unity. He asks for a categorical Swatantra Party commitment to treat the Nagvidarbha demand as legitimate and to support the Samiti’s efforts, while opposing the demand for a sovereign Dravidistan as a threat to the integrity of the Indian Union. The letter also addresses the status of Hindi: Aney accepts that non-Hindi-speaking Indians may defer its recognition as the national language until it is sufficiently developed as a medium for inter-provincial and international communication. He closes by asking for Rajaji’s reply so that he can persuade his Vidarbha colleagues that joining the party would advance their cause.
 ---
 
+## Summary
+
+In this three-page letter dated 17 March 1962, Dr. M. S. Aney writes from Nagpur to C. Rajagopalachari (“Rajaji”) about a proposed convention of successful and unsuccessful Swatantra Party candidates. Aney says he cannot arrange the event and asks Rajaji to identify another venue and entrust local supporters with the practical arrangements. He also seeks clarification before joining the Swatantra Party in the new Lok Sabha, since he and Rajaji Lal Shamsah were elected on the Nagvidarbha Andolan Samiti ticket and he wants to know whether the party will support Vidarbha statehood.
+
+Aney’s conditions for joining concern both regional autonomy and national unity. He asks for a categorical Swatantra Party commitment to treat the Nagvidarbha demand as legitimate and to support the Samiti’s efforts, while opposing the demand for a sovereign Dravidistan as a threat to the integrity of the Indian Union. The letter also addresses the status of Hindi: Aney accepts that non-Hindi-speaking Indians may defer its recognition as the national language until it is sufficiently developed as a medium for inter-provincial and international communication. He closes by asking for Rajaji’s reply so that he can persuade his Vidarbha colleagues that joining the party would advance their cause.
+
 ## Key points
 
 - Aney declines responsibility for arranging the proposed Swatantra Party candidates’ convention in Nagpur.

@@ -50,6 +50,12 @@ summary: |-
   The notices also ask about the Pay Commission's recommendations for Central Government employees posted outside Delhi, any implementation deadline it specified, the extent to which State Governments had adopted the recommendations, and steps being taken by the Government of India where implementation was delayed. The pages contain questions only; no ministerial answers or subsequent proceedings are included.
 ---
 
+## Summary
+
+This three-page letter, dated 7 August 1963 and sent from Bombay by Shri M. R. Masani, M.P., gives notice to the Secretary of the Lok Sabha of three starred questions for parliamentary answer. The questions concern Dearness Allowance paid to Central Government employees posted in the former State of Bombay and in Gujarat, including whether allowances differed from those paid to State Government employees before the Second Pay Commission's recommendations and whether Gujarat had implemented those recommendations.
+
+The notices also ask about the Pay Commission's recommendations for Central Government employees posted outside Delhi, any implementation deadline it specified, the extent to which State Governments had adopted the recommendations, and steps being taken by the Government of India where implementation was delayed. The pages contain questions only; no ministerial answers or subsequent proceedings are included.
+
 ## Key points
 
 - The document consists of three formal starred-question notices addressed to the Secretary, Lok Sabha.

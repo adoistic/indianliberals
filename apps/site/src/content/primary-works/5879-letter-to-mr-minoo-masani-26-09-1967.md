@@ -53,6 +53,12 @@ summary: |-
   The enclosed Gujarati newspaper pages include political commentary, historical and social reflections, illustrated features, cartoons, and film-related material. The most prominent political material concerns China, India’s northern frontier, national security, and the need for firmness in responding to Chinese pressure. Other articles discuss the role of public figures and social reform, refer to Gandhi, Nehru, Shastri, and Morarji Desai, and include commentary on journalism, public opinion, and cultural life. These observations describe only the fourteen rendered pages, which combine an English covering letter with Gujarati newspaper enclosures.
 ---
 
+## Summary
+
+This 28 September 1967 letter from Nutan Saurashtra of Rajkot to Minoo Masani, M.P., forwards the newspaper’s Sunday Supplement dated 24 September 1967 and requests Masani’s views on a special article. The sender is identified only as the newspaper’s manager; the signature is not legible enough to establish a personal author. The file also contains a receipt stamp dated 9 October 1967 and handwritten notes attached to the correspondence.
+
+The enclosed Gujarati newspaper pages include political commentary, historical and social reflections, illustrated features, cartoons, and film-related material. The most prominent political material concerns China, India’s northern frontier, national security, and the need for firmness in responding to Chinese pressure. Other articles discuss the role of public figures and social reform, refer to Gandhi, Nehru, Shastri, and Morarji Desai, and include commentary on journalism, public opinion, and cultural life. These observations describe only the fourteen rendered pages, which combine an English covering letter with Gujarati newspaper enclosures.
+
 ## Key points
 
 - Nutan Saurashtra sent Minoo Masani a Sunday Supplement dated 24 September 1967 and requested his opinion on a special article.

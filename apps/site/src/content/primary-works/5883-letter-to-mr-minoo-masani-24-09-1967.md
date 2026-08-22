@@ -46,6 +46,10 @@ summary: |-
   This single-page letter, dated 24 September 1967, was sent by Balram Tandon, Assistant Editor of The Hindustan Times, to M. R. Masani in New Delhi. Tandon asks Masani to write an approximately 1,500-word article on C. Rajagopalachari (Rajaji), covering Rajaji's career as a politician during the pre-Independence period and afterward.
 ---
 
+## Summary
+
+This single-page letter, dated 24 September 1967, was sent by Balram Tandon, Assistant Editor of The Hindustan Times, to M. R. Masani in New Delhi. Tandon asks Masani to write an approximately 1,500-word article on C. Rajagopalachari (Rajaji), covering Rajaji's career as a politician during the pre-Independence period and afterward.
+
 ## Key points
 
 - The document is a typed request letter on The Hindustan Times letterhead.

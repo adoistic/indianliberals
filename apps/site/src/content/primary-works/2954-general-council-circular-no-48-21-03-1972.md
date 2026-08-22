@@ -50,6 +50,12 @@ summary: |-
   The announced business covers confirmation of the minutes of the previous council meeting, matters arising, a review of the party's performance in recent State Assembly elections, the future programme of party activity and organisational strengthening, the current situation, recommendations from the National Executive, and any other business permitted by the Chair. Members are asked to contact the Executive Secretary promptly for hotel and rail or air reservations; a hotel list is attached.
 ---
 
+## Summary
+
+Dated March 21, 1972, this one-page Swatantra Party circular from General Secretary Madhu Mehta informs members of a change to the schedule and venue of the next General Council meeting. The council is to meet at M. C. Ghia Hall, Rampart Row, Bombay 1, from 3:00 to 5:30 p.m. on Saturday, April 8, and in two sessions on Sunday, April 9. The circular also notes that the Bombay Regional Unit will host lunch for members and invitees on Sunday.
+
+The announced business covers confirmation of the minutes of the previous council meeting, matters arising, a review of the party's performance in recent State Assembly elections, the future programme of party activity and organisational strengthening, the current situation, recommendations from the National Executive, and any other business permitted by the Chair. Members are asked to contact the Executive Secretary promptly for hotel and rail or air reservations; a hotel list is attached.
+
 ## Key points
 
 - The circular is dated March 21, 1972 and is signed by Madhu Mehta, General Secretary.

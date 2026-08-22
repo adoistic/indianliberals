@@ -64,6 +64,12 @@ summary: |-
   The party's stated programme combines maximum individual freedom with limited state interference, social justice, equality of opportunity, competitive enterprise, private agricultural ownership, restricted state enterprise, restrained taxation, and a smaller bureaucracy. It supports workers' rights to organise and bargain collectively, while allowing party members freedom of opinion outside the party's fundamental principles. The overview also records the party's performance in the 1962 elections and argues that India's electoral system understates its popular support. Its immediate political objective is to develop a meaningful democratic opposition; its longer-term prospect, as presented here, depends on building a nationwide organisation, cadre, and financial base capable of mobilising public support.
 ---
 
+## Summary
+
+This seven-page institutional overview describes the Swatantra Party's establishment at a preparatory convention in Bombay on 1–2 August 1959, following an earlier meeting of the All India Agriculturists Federation in Madras. It presents the party as a democratic, liberal alternative to the Congress Party, comparing its character with the Smallholders' Party in Hungary and liberal parties in continental Europe. The document attributes the party's emergence partly to opposition to the Congress's 1959 Nagpur Resolution, especially its proposed landholding ceilings, “joint cooperative farming,” and state monopoly over the wholesale trade in foodgrains.
+
+The party's stated programme combines maximum individual freedom with limited state interference, social justice, equality of opportunity, competitive enterprise, private agricultural ownership, restricted state enterprise, restrained taxation, and a smaller bureaucracy. It supports workers' rights to organise and bargain collectively, while allowing party members freedom of opinion outside the party's fundamental principles. The overview also records the party's performance in the 1962 elections and argues that India's electoral system understates its popular support. Its immediate political objective is to develop a meaningful democratic opposition; its longer-term prospect, as presented here, depends on building a nationwide organisation, cadre, and financial base capable of mobilising public support.
+
 ## Key points
 
 - The Swatantra Party was established in Bombay in August 1959 after an earlier Madras meeting of the All India Agriculturists Federation.

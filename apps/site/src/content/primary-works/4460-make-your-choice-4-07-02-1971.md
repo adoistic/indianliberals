@@ -53,3 +53,9 @@ summary: |-
   
   Paul Younger's “West Bengal—The Ideological Warfare” interprets Bengal's electoral politics through cultural history. The article identifies three recurring patterns—feelings of cultural inferiority, an “elitist” social structure, and a worship of passionate religious and political commitments—and argues that these have shaped the region's competing reform movements and ideologies. The continuation of “Sex Education and Planned Parenthood” advocates beginning population education in primary school and connects women's changing economic circumstances with the difficulty of sustaining voluntary social work.
 ---
+
+## Summary
+
+The visible editorial pages from this 7 February 1971 issue of The Illustrated Weekly of India include two political features and a continuation of an interview on sex education and population planning, alongside advertising pages. G. L. Khanna's “Make Your Choice—4: The Swatantra Party” presents the party's constitutional, economic, agrarian and administrative programme, emphasising individual enterprise, private capital, reduced planning, property and peasant interests, and a qualified alliance with other opposition parties. It also describes the party's electoral performance in 1962 and 1967 and the organisational structure of its national and state units.
+
+Paul Younger's “West Bengal—The Ideological Warfare” interprets Bengal's electoral politics through cultural history. The article identifies three recurring patterns—feelings of cultural inferiority, an “elitist” social structure, and a worship of passionate religious and political commitments—and argues that these have shaped the region's competing reform movements and ideologies. The continuation of “Sex Education and Planned Parenthood” advocates beginning population education in primary school and connects women's changing economic circumstances with the difficulty of sustaining voluntary social work.

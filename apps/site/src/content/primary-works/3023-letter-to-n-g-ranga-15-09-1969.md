@@ -52,6 +52,12 @@ summary: |-
   The enclosed minutes record Minoo Masani’s concern that C. C. Desai, a Swatantra Party nominee on the parliamentary Select Committee examining the Bill, had expressed views opposed to the party’s position while questioning witnesses. The Board judged that these questions could prejudice the party’s case and resolved that the party’s parliamentary leader, deputy leader, or another nominated MP should ensure the proper presentation of the party’s viewpoint when the Bill was debated in the Lok Sabha.
 ---
 
+## Summary
+
+This two-page Swatantra Party office letter, dated September 15, 1969, is addressed to Prof. N. G. Ranga and concerns the Monopolies and Restrictive Trade Practices Bill then before the Lok Sabha. R. C. Cooper, identified as the party’s Acting General Secretary, refers to an earlier discussion at the Central Parliamentary Board meeting in New Delhi on August 29 and encloses the relevant extract from its minutes.
+
+The enclosed minutes record Minoo Masani’s concern that C. C. Desai, a Swatantra Party nominee on the parliamentary Select Committee examining the Bill, had expressed views opposed to the party’s position while questioning witnesses. The Board judged that these questions could prejudice the party’s case and resolved that the party’s parliamentary leader, deputy leader, or another nominated MP should ensure the proper presentation of the party’s viewpoint when the Bill was debated in the Lok Sabha.
+
 ## Key points
 
 - The letter is dated September 15, 1969, and is issued from the Swatantra Party Central Office in Bombay.

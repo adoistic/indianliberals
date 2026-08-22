@@ -53,6 +53,12 @@ summary: |-
   The meeting addressed the forthcoming elections of the President and Vice-President of India and the Speakership of Parliament. Members were informed of the party's recommendation to support Dr. S. Radhakrishnan for President, Dr. Zakir Husain for Vice-President, and Sardar Hukam Singh for Speaker. The President and General Secretary then briefed members on procedures and protocol in both Houses, stating that the party would function as the Opposition after the Speaker's election, beginning with the debate on the President's Address. The minutes conclude with arrangements for a subsequent office-bearers' meeting at 40 Canning Lane and record that the meeting terminated.
 ---
 
+## Summary
+
+These draft minutes record a joint meeting of Rajya Sabha and Lok Sabha members held at 4 p.m. on April 15 in Room No. 62, Parliament House, New Delhi. Prof. N. G. Ranga chaired the meeting, and the General Secretary reported the Parliamentary Board's decision that Ranga would preside over joint meetings whenever he was in Delhi. The members also agreed that each Lok Sabha and Rajya Sabha member should contribute Rs. 40 per month toward maintaining the party's parliamentary secretariat, and that a joint secretariat for both Houses would be economical and useful given the limited number of members.
+
+The meeting addressed the forthcoming elections of the President and Vice-President of India and the Speakership of Parliament. Members were informed of the party's recommendation to support Dr. S. Radhakrishnan for President, Dr. Zakir Husain for Vice-President, and Sardar Hukam Singh for Speaker. The President and General Secretary then briefed members on procedures and protocol in both Houses, stating that the party would function as the Opposition after the Speaker's election, beginning with the debate on the President's Address. The minutes conclude with arrangements for a subsequent office-bearers' meeting at 40 Canning Lane and record that the meeting terminated.
+
 ## Key points
 
 - The document records a joint parliamentary meeting held on April 15 in Parliament House, New Delhi.

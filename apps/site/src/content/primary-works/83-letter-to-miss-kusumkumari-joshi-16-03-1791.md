@@ -46,6 +46,10 @@ summary: |-
   In this letter dated 16 March 1971, M. R. Masani writes to Kusumben Joshi about her resignation from the National Executive. He explains that Raju had shown him her note, submitted before the election results, and says that, in light of those results, he is treating her resignation as withdrawn. Masani also comments on her recent telephone call from Gondal and asks her to call long-distance from the office or in the morning.
 ---
 
+## Summary
+
+In this letter dated 16 March 1971, M. R. Masani writes to Kusumben Joshi about her resignation from the National Executive. He explains that Raju had shown him her note, submitted before the election results, and says that, in light of those results, he is treating her resignation as withdrawn. Masani also comments on her recent telephone call from Gondal and asks her to call long-distance from the office or in the morning.
+
 ## Key points
 
 - Masani writes to Kusumben Joshi on 16 March 1971.

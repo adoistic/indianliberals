@@ -56,6 +56,12 @@ summary: |-
   In the rendered pages, Masani advocates a political settlement based on representative government, civil liberties, and improved relations between India and Pakistan. He supports the release of Sheikh Abdullah and proposes a Round Table Conference involving Kashmiri representatives and political elements from Jammu and Kashmir, followed by the dissolution of the existing Legislative Assembly, fresh elections, and the formation of a broadly representative government. He also describes the Forum of Free Enterprise's proposed Swatantra Forum as an autonomous, non-sectarian effort to disseminate Swatantra philosophy in Kashmir, while insisting that Kashmir's status and autonomy should be worked out between its people and their representatives and the rest of India.
 ---
 
+## Summary
+
+In the rendered pages, Minoo Masani reports on a June 1967 visit to Kashmir following the violence of June 7. He describes a breakdown of law and order, attacks on civilians and religious sites, intimidation of officials, and the absence of effective political leadership. He criticizes the administration's failure to investigate the violence and argues that the unrest should be treated as a danger to both the Government of India and the Indian people, rather than only as a local or communal dispute.
+
+In the rendered pages, Masani advocates a political settlement based on representative government, civil liberties, and improved relations between India and Pakistan. He supports the release of Sheikh Abdullah and proposes a Round Table Conference involving Kashmiri representatives and political elements from Jammu and Kashmir, followed by the dissolution of the existing Legislative Assembly, fresh elections, and the formation of a broadly representative government. He also describes the Forum of Free Enterprise's proposed Swatantra Forum as an autonomous, non-sectarian effort to disseminate Swatantra philosophy in Kashmir, while insisting that Kashmir's status and autonomy should be worked out between its people and their representatives and the rest of India.
+
 ## Key points
 
 - Masani's report follows a June 1967 visit to Srinagar after the violence of June 7.

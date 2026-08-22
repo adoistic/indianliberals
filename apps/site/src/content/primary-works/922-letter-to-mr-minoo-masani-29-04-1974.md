@@ -54,6 +54,12 @@ summary: |-
   Srikumar insists that any merger must preserve the Swatantra Party’s liberal and pragmatic programme, be approved by a National Convention, and be preceded by consultation with party workers from the constituency level upward. He doubts that the proposed coalition can become a genuine national alternative unless it attracts Congress(O) and Jan Sangh, and criticises the reputation and political record of several prospective leaders. He proposes instead a federal arrangement that would give the parties time to develop mutual confidence, warning that an imposed merger could drive Swatantra workers toward Jayaprakash Narayan’s movement. The document is a complete eight-page political letter, preceded by a covering letter page; no title is printed.
 ---
 
+## Summary
+
+This letter, dated 29 April 1974, is V. S. Srikumar’s urgent appeal to M. R. Masani and Piloo Mody over the proposed dissolution and merger of the Swatantra Party. Srikumar agrees that India needs a viable alternative to the ruling Congress, but argues that the reported announcement by several party leaders was premature, exceeded the authority of the Swatantra Party’s executive bodies, and risked destroying the party before a principled successor had been negotiated. He recommends a minimum of three and maximum of four national parties, formed through mergers around clearly distinguishable principles and programmes rather than through an improvised agreement among regional groups.
+
+Srikumar insists that any merger must preserve the Swatantra Party’s liberal and pragmatic programme, be approved by a National Convention, and be preceded by consultation with party workers from the constituency level upward. He doubts that the proposed coalition can become a genuine national alternative unless it attracts Congress(O) and Jan Sangh, and criticises the reputation and political record of several prospective leaders. He proposes instead a federal arrangement that would give the parties time to develop mutual confidence, warning that an imposed merger could drive Swatantra workers toward Jayaprakash Narayan’s movement. The document is a complete eight-page political letter, preceded by a covering letter page; no title is printed.
+
 ## Key points
 
 - Srikumar supports creating a viable alternative to the ruling Congress but rejects a hurried or procedurally unauthorised merger.

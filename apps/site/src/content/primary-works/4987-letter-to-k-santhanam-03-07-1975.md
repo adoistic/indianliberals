@@ -54,6 +54,12 @@ summary: |-
   Santhanam identifies total press censorship as the gravest immediate and long-term danger. He says censorship blocks not only criticism but also information about detainees, their health and treatment, meetings, dissent, and worsening economic scarcity. Although he acknowledges the helplessness of editors acting alone, he urges Indian newspaper editors to meet and protest collectively. Within the limits imposed by censorship, he recommends that newspapers provide political education, consult lawyers and retired judges, examine the Emergency provisions of the Constitution, and propose amendments protecting press freedom, lawful detention procedures, access to courts, and the exercise of fundamental rights.
 ---
 
+## Summary
+
+In this letter dated July 3, 1975, K. Santhanam warns that India's Emergency has placed democracy, press freedom, the rule of law, and individual liberty in “deadly peril.” He argues that the continuation of the 1971 Emergency proclamation, the June 26, 1975 proclamation, arrests under MISA, press censorship, suspension of fundamental rights, and executive detention powers together amount to a dictatorship. He is particularly concerned that the formal endorsement of the second proclamation by Parliament will proceed despite the imprisonment of prominent opposition leaders and the acquiescence of most ruling-party members.
+
+Santhanam identifies total press censorship as the gravest immediate and long-term danger. He says censorship blocks not only criticism but also information about detainees, their health and treatment, meetings, dissent, and worsening economic scarcity. Although he acknowledges the helplessness of editors acting alone, he urges Indian newspaper editors to meet and protest collectively. Within the limits imposed by censorship, he recommends that newspapers provide political education, consult lawyers and retired judges, examine the Emergency provisions of the Constitution, and propose amendments protecting press freedom, lawful detention procedures, access to courts, and the exercise of fundamental rights.
+
 ## Key points
 
 - The Emergency proclamations and related orders are presented as a comprehensive assault on democracy and civil liberty.

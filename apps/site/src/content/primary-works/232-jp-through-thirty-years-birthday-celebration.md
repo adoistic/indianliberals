@@ -53,6 +53,12 @@ summary: |-
   Masani then traces their continued friendship despite disagreements over independence, electoral cooperation with the Communist Party, and Narayan’s withdrawal from conventional party politics. He rejects the criticism that Narayan “deserted” politics, arguing that his work in non-partisan organisations and public affairs remained deeply political. The essay closes by defending Narayan’s slow transition from Marxism toward Gandhi, and by predicting that his significance would lie not in holding office but in constructive work for the common good, human advancement, and freedom. The rendered pages constitute the complete four-page essay.
 ---
 
+## Summary
+
+In “J.P. — Through Thirty Years,” Minoo Masani offers a personal and political reminiscence of Jayaprakash Narayan, beginning with their first meeting in Bombay in 1932 and their imprisonment together at Nasik in 1933. Masani recalls their collaboration in drafting a programme for the Congress Socialist Party, including their disagreement over democracy versus the “Dictatorship of the Proletariat,” and describes the eventual 1939 break with the Congress Socialist Party over cooperation with communists. He presents Narayan as generous, tolerant, intellectually serious, and capable of acknowledging his own political mistakes.
+
+Masani then traces their continued friendship despite disagreements over independence, electoral cooperation with the Communist Party, and Narayan’s withdrawal from conventional party politics. He rejects the criticism that Narayan “deserted” politics, arguing that his work in non-partisan organisations and public affairs remained deeply political. The essay closes by defending Narayan’s slow transition from Marxism toward Gandhi, and by predicting that his significance would lie not in holding office but in constructive work for the common good, human advancement, and freedom. The rendered pages constitute the complete four-page essay.
+
 ## Key points
 
 - Masani recalls meeting Jayaprakash Narayan in Bombay in 1932 while Narayan was working underground for the Indian National Congress.

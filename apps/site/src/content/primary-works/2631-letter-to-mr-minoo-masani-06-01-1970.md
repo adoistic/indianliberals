@@ -53,6 +53,12 @@ summary: |-
   Singh Deo states that the Bill must be ratified before January 26 to serve a useful purpose. He notes that Scheduled Castes and Scheduled Tribes constitute 40 per cent of Orissa's population and announces that the state government will convene a special session of the Assembly before that deadline. The page records an administrative and constitutional appeal for timely legislative action, rather than a broader argument about reservation policy.
 ---
 
+## Summary
+
+This single-page letter, dated January 6, 1970, was written by R. N. Singh Deo, Chief Minister of Orissa State, to M. R. Masani, President of the Swatantra Party. Singh Deo responds to Masani's January 2 letter concerning the Constitution (Amendment) Bill to continue reserved seats for Scheduled Castes and Scheduled Tribes.
+
+Singh Deo states that the Bill must be ratified before January 26 to serve a useful purpose. He notes that Scheduled Castes and Scheduled Tribes constitute 40 per cent of Orissa's population and announces that the state government will convene a special session of the Assembly before that deadline. The page records an administrative and constitutional appeal for timely legislative action, rather than a broader argument about reservation policy.
+
 ## Key points
 
 - The letter is dated January 6, 1970, and issued from Bhubaneswar on Orissa State Chief Minister's letterhead.

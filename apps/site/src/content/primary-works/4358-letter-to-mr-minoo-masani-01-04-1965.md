@@ -46,6 +46,10 @@ summary: |-
   This single-page handwritten letter from C. Rajagopalachari to Minoo Masani is dated 1 April 1965. Rajagopalachari says he presumes that the news referred to by Masani is authentic and characterizes the decision under discussion as regrettable, attributing it to communal politics.
 ---
 
+## Summary
+
+This single-page handwritten letter from C. Rajagopalachari to Minoo Masani is dated 1 April 1965. Rajagopalachari says he presumes that the news referred to by Masani is authentic and characterizes the decision under discussion as regrettable, attributing it to communal politics.
+
 ## Key points
 
 - The letter is addressed to Minoo Masani.

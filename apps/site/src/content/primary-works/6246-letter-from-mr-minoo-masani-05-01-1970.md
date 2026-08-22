@@ -45,6 +45,10 @@ summary: |-
   This one-page letter from M. R. Masani to Mr. Jagdish Gupta is dated January 5, 1970. Masani acknowledges Gupta's letter of December 27 and his congratulations, and says he will consider using Gupta's offer of cooperation. He closes with good wishes for the new year.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to Mr. Jagdish Gupta is dated January 5, 1970. Masani acknowledges Gupta's letter of December 27 and his congratulations, and says he will consider using Gupta's offer of cooperation. He closes with good wishes for the new year.
+
 ## Key points
 
 - The letter is dated January 5, 1970.

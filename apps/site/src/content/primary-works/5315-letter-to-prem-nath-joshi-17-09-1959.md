@@ -44,6 +44,12 @@ summary: |-
   The letter anticipates Masani’s presence in Delhi in November for the next session of Parliament and asks Joshi to contact him at that time. It is an administrative correspondence item rather than a substantive political or theoretical text.
 ---
 
+## Summary
+
+This one-page English typescript letter, dated 17 September 1959, acknowledges receipt of Mr. Prem Nath Joshi’s letter addressed to M. R. Masani. The signatory, Miss B. S. Mirza, explains that Masani is temporarily in the United Kingdom and is expected to return to India by 6 October.
+
+The letter anticipates Masani’s presence in Delhi in November for the next session of Parliament and asks Joshi to contact him at that time. It is an administrative correspondence item rather than a substantive political or theoretical text.
+
 ## Key points
 
 - The letter is dated 17 September 1959.

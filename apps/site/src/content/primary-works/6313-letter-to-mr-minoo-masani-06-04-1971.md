@@ -51,6 +51,12 @@ summary: |-
   The second letter, addressed to the Congress Working Committee, proposes practical political responses to food shortages, high prices, black marketing, and public dissatisfaction. Mehta recommends a "Food and Water first and last" programme, investigations into food distribution and wholesale pricing, house-to-house searches for hoarded food, and direct solicitation of citizens' complaints. The letter also attacks the Congress leadership's relationship to Nehru's legacy, questions Indira Gandhi's claims of popular support, and calls on Congress members to decide whether they will serve the country or merely a political leader. The pages present a strongly partisan critique of contemporary Congress politics and an appeal for organisational renewal and practical governance.
 ---
 
+## Summary
+
+This four-page correspondence file contains two letters dated 5 April 1971 by Pallonji N. Mehta. The first, addressed to M. R. Masani, argues that Masani should reconsider his resignation from the Swatantra Party. Mehta presents the party as urgently needed to revive opposition politics after defections and electoral setbacks, and urges an all-party conference to determine a future strategy against Indira Gandhi's Congress. He invokes the earlier resignation of Khurshed F. Nariman as a warning that the departure of a leading figure can produce a party's "living death."
+
+The second letter, addressed to the Congress Working Committee, proposes practical political responses to food shortages, high prices, black marketing, and public dissatisfaction. Mehta recommends a "Food and Water first and last" programme, investigations into food distribution and wholesale pricing, house-to-house searches for hoarded food, and direct solicitation of citizens' complaints. The letter also attacks the Congress leadership's relationship to Nehru's legacy, questions Indira Gandhi's claims of popular support, and calls on Congress members to decide whether they will serve the country or merely a political leader. The pages present a strongly partisan critique of contemporary Congress politics and an appeal for organisational renewal and practical governance.
+
 ## Key points
 
 - Mehta asks Minoo Masani to reconsider his resignation from the Swatantra Party.

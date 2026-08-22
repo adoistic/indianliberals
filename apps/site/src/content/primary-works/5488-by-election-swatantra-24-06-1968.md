@@ -51,6 +51,12 @@ summary: |-
   The report focuses especially on the defeat of Congress candidate Nawal Kishore Sharma by a margin of 6,327 votes in the Dausa parliamentary constituency. Sharma, described as an unknown Congress worker, defeated Maharaja Kumar Prithvi Raj Singh, a former Member of Parliament and son of the Maharaja of Jaipur. The visible text also says that expectations that former Chief Minister Tikaram Paliwal would defeat Ram Kishore Vyas, the Swatantra candidate, were overturned. The right-hand portion of the clipping is covered by an overlapping article, so the report's conclusion and some surrounding text cannot be read.
 ---
 
+## Summary
+
+This one-page English newspaper clipping, dated 24 June 1968, reports on Swatantra Party setbacks in Rajasthan by-elections. It describes a “political tornado” passing through Dausa and Chomu, arguing that the results damaged the party's prestige and exposed the electorate's changing mood. The article also notes that campaigners had made the contest highly visible in towns that had previously shown little political interest.
+
+The report focuses especially on the defeat of Congress candidate Nawal Kishore Sharma by a margin of 6,327 votes in the Dausa parliamentary constituency. Sharma, described as an unknown Congress worker, defeated Maharaja Kumar Prithvi Raj Singh, a former Member of Parliament and son of the Maharaja of Jaipur. The visible text also says that expectations that former Chief Minister Tikaram Paliwal would defeat Ram Kishore Vyas, the Swatantra candidate, were overturned. The right-hand portion of the clipping is covered by an overlapping article, so the report's conclusion and some surrounding text cannot be read.
+
 ## Key points
 
 - The article presents the Rajasthan by-election results as a serious setback for the Swatantra Party.

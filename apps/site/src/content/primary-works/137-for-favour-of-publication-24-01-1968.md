@@ -60,6 +60,12 @@ summary: |-
   Masani identifies external danger in the Chinese Communist dictatorship and internal dangers in economic collapse, moral degeneration, corruption, violence, disorder, Communist subversion, and irresponsible politicians. He attacks the Permit-Licence-Raj and alleged corruption in government, and contrasts voluntary democratic discipline with the imposed discipline of authoritarian regimes. He calls for a broad Government of Democratic Unity bringing together all viewpoints except the Communists, while insisting that citizens themselves must organize, accept responsibility, and help maintain order. The document is dated “Bombay, January 24.” but does not print a year, publisher, venue, or complete delivery date.
 ---
 
+## Summary
+
+In this two-page press-publication note, M. R. Masani argues that India’s republic and Constitution are threatened by both external hostility and internal failures of citizenship, governance, and political responsibility. He calls on citizens to renew their loyalty to democratic institutions and rejects the tendency to blame the country’s condition solely on politicians: democratic vigilance and participation, he argues, are necessary to preserve freedom. He particularly criticizes businesspeople for failing to defend their civic interests, citing their passivity toward proposed legislation affecting banks and insurance companies and warning that short-term selfishness has displaced patriotism and enlightened self-interest.
+
+Masani identifies external danger in the Chinese Communist dictatorship and internal dangers in economic collapse, moral degeneration, corruption, violence, disorder, Communist subversion, and irresponsible politicians. He attacks the Permit-Licence-Raj and alleged corruption in government, and contrasts voluntary democratic discipline with the imposed discipline of authoritarian regimes. He calls for a broad Government of Democratic Unity bringing together all viewpoints except the Communists, while insisting that citizens themselves must organize, accept responsibility, and help maintain order. The document is dated “Bombay, January 24.” but does not print a year, publisher, venue, or complete delivery date.
+
 ## Key points
 
 - Masani presents the republic and Constitution as endangered by external threats and internal political, economic, and social disorder.

@@ -49,6 +49,12 @@ summary: |-
   Writing from Bombay, Ramachandran says that conversations with Y. B. Chavan and V. P. Naik revealed the pressures imposed on Opposition politicians and their determination to persevere. He then criticises their failure to explain how they would implement socialist policies, arguing instead for increased production, greater discipline, and attention to the country’s economic realities. The letter contrasts the Swatantra Party’s supposed “reactionary” reputation with its electoral majority and frames the result as a rebuke to socialist rhetoric unsupported by a practical economic programme.
 ---
 
+## Summary
+
+In this letter to the editor, S. Ramachandran reflects on the Opposition’s reaction to the 1971 mid-term poll results. He praises Minoo Masani’s “graceful” acceptance of defeat, while suggesting that the election outcome owed much to Mrs Indira Gandhi’s “landslide” victory, the appeal of “Roti, Kapda aur Makaan,” and other political factors.
+
+Writing from Bombay, Ramachandran says that conversations with Y. B. Chavan and V. P. Naik revealed the pressures imposed on Opposition politicians and their determination to persevere. He then criticises their failure to explain how they would implement socialist policies, arguing instead for increased production, greater discipline, and attention to the country’s economic realities. The letter contrasts the Swatantra Party’s supposed “reactionary” reputation with its electoral majority and frames the result as a rebuke to socialist rhetoric unsupported by a practical economic programme.
+
 ## Key points
 
 - The letter comments on the Opposition’s varied responses to the 1971 mid-term election results.

@@ -51,6 +51,12 @@ summary: |-
   The enclosed resolution argues that Swatantra’s principles and policies remain valid, that the proposed new party would lack a sufficiently definite programme, and that dissolution would undermine the search for a genuine national alternative to the Congress and Jan Sangh. It requests that the party’s General Council reconsider the matter before the National Convention. The attached July 8 press statement reiterates that the Maharashtra State Council specifically rejected dissolution and regarded the party’s principles as still relevant. The document therefore records an internal party dispute over organisational survival, political identity, and the prospects for a two-party system.
 ---
 
+## Summary
+
+This three-page English letter from Girish Munshi, General Secretary of the Maharashtra unit of the Swatantra Party, dated July 9, 1974, challenges reports that the party’s members overwhelmingly supported dissolving it to facilitate the creation of a new political party. Munshi says the Maharashtra State Council had opposed dissolution at its July 6 meeting in Bombay, held in the presence of Piloo Mody and Minoo Masani, and had resolved that the state unit would continue to function even if a national decision to dissolve the party were taken.
+
+The enclosed resolution argues that Swatantra’s principles and policies remain valid, that the proposed new party would lack a sufficiently definite programme, and that dissolution would undermine the search for a genuine national alternative to the Congress and Jan Sangh. It requests that the party’s General Council reconsider the matter before the National Convention. The attached July 8 press statement reiterates that the Maharashtra State Council specifically rejected dissolution and regarded the party’s principles as still relevant. The document therefore records an internal party dispute over organisational survival, political identity, and the prospects for a two-party system.
+
 ## Key points
 
 - Girish Munshi disputes press reports claiming overwhelming support within the Swatantra Party for dissolution.

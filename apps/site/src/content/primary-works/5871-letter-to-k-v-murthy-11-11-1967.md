@@ -46,6 +46,10 @@ summary: |-
   This one-page English letter from M. R. Masani, dated November 11, 1967, is addressed to R. V. Murthy in Matunga, Bombay. Masani acknowledges Murthy’s letter of November 6 and notes the activities of the “Swatantra Unit.” He encloses a message for inclusion in Murthy’s souvenir and sends greetings to comrades in Matunga, wishing their efforts success.
 ---
 
+## Summary
+
+This one-page English letter from M. R. Masani, dated November 11, 1967, is addressed to R. V. Murthy in Matunga, Bombay. Masani acknowledges Murthy’s letter of November 6 and notes the activities of the “Swatantra Unit.” He encloses a message for inclusion in Murthy’s souvenir and sends greetings to comrades in Matunga, wishing their efforts success.
+
 ## Key points
 
 - The letter is dated November 11, 1967, and signed by M. R. Masani.

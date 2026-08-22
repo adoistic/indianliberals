@@ -47,6 +47,12 @@ summary: |-
   The file also preserves a handwritten note addressed to Masani, apparently from J. S. Davids and dated 15 June 1968, together with its envelope. The handwriting is partly difficult to decipher, but the note appears to congratulate Masani and refer to his public or parliamentary activity. The reverse-side writing on the final scanned sheet is too faint to read reliably.
 ---
 
+## Summary
+
+This archival correspondence file contains a typed letter from M. R. Masani dated 20 June 1968 and addressed to Mr. J. S. Davids of the C.C.E. Workers Union, Sidapur. Masani acknowledges Davids’s letter of 15 May, which had been redirected from Delhi, and thanks him for his encouraging words. He notes that the action he had taken had received a positive response from Davids.
+
+The file also preserves a handwritten note addressed to Masani, apparently from J. S. Davids and dated 15 June 1968, together with its envelope. The handwriting is partly difficult to decipher, but the note appears to congratulate Masani and refer to his public or parliamentary activity. The reverse-side writing on the final scanned sheet is too faint to read reliably.
+
 ## Key points
 
 - The principal document is a typed letter dated 20 June 1968.

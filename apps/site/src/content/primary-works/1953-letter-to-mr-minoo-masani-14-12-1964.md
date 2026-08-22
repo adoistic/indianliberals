@@ -50,6 +50,10 @@ summary: |-
   This two-page English correspondence bundle, dated or attributable to 1964, contains two separate communications addressed to M. R. Masani. In the first, Kapur Singh reports an Executive Committee decision concerning proposed constitutional amendments intended to counteract or modify a Supreme Court opinion. He states that the Party opposes such amendments but has permitted Sardar Kapur Singh to follow his conscience when speaking in the Lok Sabha. The letter also rebukes Masani's wording about absent colleagues and defends the standards of political integrity and party discipline.
 ---
 
+## Summary
+
+This two-page English correspondence bundle, dated or attributable to 1964, contains two separate communications addressed to M. R. Masani. In the first, Kapur Singh reports an Executive Committee decision concerning proposed constitutional amendments intended to counteract or modify a Supreme Court opinion. He states that the Party opposes such amendments but has permitted Sardar Kapur Singh to follow his conscience when speaking in the Lok Sabha. The letter also rebukes Masani's wording about absent colleagues and defends the standards of political integrity and party discipline.
+
 ## Key points
 
 - Kapur Singh's letter records an Executive Committee decision on constitutional amendments concerning a Supreme Court opinion.

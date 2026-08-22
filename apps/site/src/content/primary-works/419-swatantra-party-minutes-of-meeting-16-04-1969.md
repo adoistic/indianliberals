@@ -54,6 +54,12 @@ summary: |-
   The minutes also record the selection of Mr. Tapuriah as the party's second nominee for the Public Accounts Committee, with Mr. Patodia designated as an alternative if necessary. They specify that financial-committee membership would last one year, subject to any change being approved by the general body, and appoint C.C. Desai to the National Shipping Board and Minoo Masani to the Press Council. The record is signed by C.C. Desai as Secretary.
 ---
 
+## Summary
+
+This one-page office record, issued by the Swatantra Party Parliamentary Office in New Delhi on April 16, 1969, records the Executive Committee's meeting of April 15. It lists eight members present and documents nominations to three parliamentary financial committees: the Public Accounts Committee, the Committee on Public Undertakings, and the Estimates Committee.
+
+The minutes also record the selection of Mr. Tapuriah as the party's second nominee for the Public Accounts Committee, with Mr. Patodia designated as an alternative if necessary. They specify that financial-committee membership would last one year, subject to any change being approved by the general body, and appoint C.C. Desai to the National Shipping Board and Minoo Masani to the Press Council. The record is signed by C.C. Desai as Secretary.
+
 ## Key points
 
 - The Executive Committee of the Swatantra Party in Parliament met on April 15, 1969.

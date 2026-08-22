@@ -59,6 +59,12 @@ summary: |-
   The selections emphasize principled positions on taxation, public expenditure, foreign policy, and the distribution of responsibility between the state and the citizen. They also defend private enterprise and criticize the “permit-licence-power” order, while calling for internal party debate based on independent judgment rather than mechanical loyalty. The final page records a convention motion concerning President Piloo Mody’s advocacy of dissolving the Swatantra Party and establishes arrangements for the conduct of the discussion on the party’s future.
 ---
 
+## Summary
+
+RAJAJI SPEAKS is a three-page compilation of extracts attributed to C. Rajagopalachari (Rajaji), drawn from addresses and statements dated 1966, 1967, 1968, and 1972. The extracts present the Swatantra Party as an educational and constitutional political movement rather than merely an electoral vehicle. Rajaji argues that the party should defend individual freedom and democracy against communism, authoritarian party leadership, and the concentration of political and economic power.
+
+The selections emphasize principled positions on taxation, public expenditure, foreign policy, and the distribution of responsibility between the state and the citizen. They also defend private enterprise and criticize the “permit-licence-power” order, while calling for internal party debate based on independent judgment rather than mechanical loyalty. The final page records a convention motion concerning President Piloo Mody’s advocacy of dissolving the Swatantra Party and establishes arrangements for the conduct of the discussion on the party’s future.
+
 ## Key points
 
 - Rajaji presents the Swatantra Party as a vehicle for educating the public in principles of good and free government.

@@ -53,6 +53,12 @@ summary: |-
   Mody presents equal representation as essential because the convention will decide whether the party should make common cause with other opposition parties to create a national alternative. He warns that regional or state-based bloc voting would reduce members' individual judgment to groupism and personalised politics. The letter closes by urging party unity, acceptance of the convention's verdict, and prevention of a split that could undermine the objective of a two-party system.
 ---
 
+## Summary
+
+In this two-page letter dated July 6, 1974, Piloo Mody explains and defends the Swatantra Party's delegates quota for its forthcoming National Convention. He argues that the convention is being held at a critical moment for the nation and the party, that monsoon conditions require a hall of limited capacity, and that the party's growth from a cadre-based organisation makes the earlier 10:1 representation ratio impractical. He therefore supports a quota in which each delegate represents an equal number of members, within a total limit of 1,000 delegates.
+
+Mody presents equal representation as essential because the convention will decide whether the party should make common cause with other opposition parties to create a national alternative. He warns that regional or state-based bloc voting would reduce members' individual judgment to groupism and personalised politics. The letter closes by urging party unity, acceptance of the convention's verdict, and prevention of a split that could undermine the objective of a two-party system.
+
 ## Key points
 
 - Mody defends the delegates quota approved by the National Executive by a vote of 23 to 3.

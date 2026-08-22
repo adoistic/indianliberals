@@ -53,6 +53,12 @@ summary: |-
   The meeting also addressed internal administration. Members criticised the absence of Executive members and Secretaries from general-body meetings, questioned seating arrangements, and sought better briefing and research support from the Party Secretariat. A sub-committee of Piloo Mody, D. W. Patodia and Prof. R. K. Amin was established to instruct the Executive Secretary on collecting material and preparing briefs. The minutes conclude with a disagreement over participation in the Select Committee examining Shri Nath Pai’s Bill on Fundamental Rights: despite an alternative view that participation could influence other members and permit a dissenting note, the Party decided to maintain its earlier boycott.
 ---
 
+## Summary
+
+These minutes record the Swatantra Party parliamentary general-body meeting held on 30 June 1967, circulated from the Party’s Parliamentary Office on 3 July. Prof. N. G. Ranga chaired the meeting. The discussion focused on the Party’s parliamentary organisation, the allocation and functioning of committee work, and the difficulties faced by newer members, including limited speaking opportunities and inadequate access to senior guidance. Members pressed for proportionate representation on parliamentary committees and proposed boycotting consultative committees if minimum representation demands were not accepted by the Minister for Parliamentary Affairs.
+
+The meeting also addressed internal administration. Members criticised the absence of Executive members and Secretaries from general-body meetings, questioned seating arrangements, and sought better briefing and research support from the Party Secretariat. A sub-committee of Piloo Mody, D. W. Patodia and Prof. R. K. Amin was established to instruct the Executive Secretary on collecting material and preparing briefs. The minutes conclude with a disagreement over participation in the Select Committee examining Shri Nath Pai’s Bill on Fundamental Rights: despite an alternative view that participation could influence other members and permit a dissenting note, the Party decided to maintain its earlier boycott.
+
 ## Key points
 
 - The meeting was held on 30 June 1967 and the minutes were issued on 3 July 1967 by the Swatantra Party Parliamentary Office.

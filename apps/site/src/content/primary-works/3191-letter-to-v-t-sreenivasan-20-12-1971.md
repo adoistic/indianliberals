@@ -46,6 +46,12 @@ summary: |-
   Raju indicates that Cooper may reconsider the matter if the “extreme measures” feared by Sreenivasan are actually attempted. The letter is brief and does not explain the underlying dispute, the measures in question, or the identities and positions of the other parties beyond the names given in the correspondence.
 ---
 
+## Summary
+
+In this personal letter dated December 20, 1971, S. V. Raju replies to V. T. Sreenivasan regarding two letters sent on November 7 to Dr. Cooper. Raju reports that Cooper has read the letters but, because of his demanding business commitments and frequent travel outside India, has decided not to respond for the time being.
+
+Raju indicates that Cooper may reconsider the matter if the “extreme measures” feared by Sreenivasan are actually attempted. The letter is brief and does not explain the underlying dispute, the measures in question, or the identities and positions of the other parties beyond the names given in the correspondence.
+
 ## Key points
 
 - The document is a typed personal letter from S. V. Raju dated December 20, 1971.

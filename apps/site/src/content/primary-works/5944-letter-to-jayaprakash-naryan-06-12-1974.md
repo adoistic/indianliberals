@@ -50,6 +50,12 @@ summary: |-
   Masani then asks Narayan to meet him in Delhi or Bombay to discuss aspects of Narayan's movement for a book Masani is writing for Macmillan. He mentions a possible conference of Citizens for Democracy in Ahmedabad and asks Narayan to keep December 30 and 31 free if the Delhi meeting cannot be arranged. In a postscript, Masani reports that the outlook for the State elections is "somewhat uneasy and confused" and suggests that Narayan's Gujarat visit would be useful before the elections.
 ---
 
+## Summary
+
+In this two-page letter dated December 6, 1974, M. R. Masani informs Jayaprakash Narayan that he has spoken with Morarji Desai and completed the necessary arrangements for Narayan's proposed visit to Ahmedabad on December 25. Masani outlines Narayan's expected travel itinerary through Delhi, Ahmedabad, Bombay, Poona, and Ujjain, while noting uncertainty about the schedule between Ahmedabad and Bombay.
+
+Masani then asks Narayan to meet him in Delhi or Bombay to discuss aspects of Narayan's movement for a book Masani is writing for Macmillan. He mentions a possible conference of Citizens for Democracy in Ahmedabad and asks Narayan to keep December 30 and 31 free if the Delhi meeting cannot be arranged. In a postscript, Masani reports that the outlook for the State elections is "somewhat uneasy and confused" and suggests that Narayan's Gujarat visit would be useful before the elections.
+
 ## Key points
 
 - Masani reports speaking with Morarji Desai and completing the necessary arrangements.

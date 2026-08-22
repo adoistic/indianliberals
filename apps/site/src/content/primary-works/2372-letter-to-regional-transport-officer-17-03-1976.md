@@ -48,6 +48,10 @@ summary: |-
   In this letter dated March 17, 1976, S. V. Raju responds to a notice from the Regional Transport Officer concerning arrears of tax on vehicles MRG 2183 and MRG 2185. He explains that the vehicles apparently refer to a jeep registered in his name while he was Executive Secretary of the Swatantra Party, but recalls that it was sold in late 1971 or early 1972 and has not been in his ownership or possession since then.
 ---
 
+## Summary
+
+In this letter dated March 17, 1976, S. V. Raju responds to a notice from the Regional Transport Officer concerning arrears of tax on vehicles MRG 2183 and MRG 2185. He explains that the vehicles apparently refer to a jeep registered in his name while he was Executive Secretary of the Swatantra Party, but recalls that it was sold in late 1971 or early 1972 and has not been in his ownership or possession since then.
+
 ## Key points
 
 - Raju acknowledges receipt of a tax-arrears notice dated March 13, 1976.

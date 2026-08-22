@@ -52,6 +52,12 @@ summary: |-
   The page also records an exchange involving Mr. Masani, Mr. Dwivedy, and Shri Frank Anthony, whose intervention welcomes the possibility of an Opposition member becoming Deputy Speaker. The document is stamped “Uncorrected - Not for Publication” and is marked as a continuation; the sender, signature, opening, and conclusion are not visible.
 ---
 
+## Summary
+
+This one-page continuation of a dated communication addressed to Shrimati Indira Gandhi discusses the selection of the Speaker and Deputy-Speaker. The writer says they had understood that the Speakership would go to the ruling party and the Deputy-Speakership to the Opposition, describing this as an implied understanding arising from meetings with the Prime Minister and Deputy Prime Minister. The writer expresses regret that the convention did not emerge and attributes responsibility primarily to Opposition members who sought further concessions and consensus.
+
+The page also records an exchange involving Mr. Masani, Mr. Dwivedy, and Shri Frank Anthony, whose intervention welcomes the possibility of an Opposition member becoming Deputy Speaker. The document is stamped “Uncorrected - Not for Publication” and is marked as a continuation; the sender, signature, opening, and conclusion are not visible.
+
 ## Key points
 
 - The communication concerns the selection of the Speaker and Deputy-Speaker.

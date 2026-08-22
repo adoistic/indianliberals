@@ -50,6 +50,12 @@ summary: |-
   Masani presents Balkaka as a person of strong conviction, singleness of purpose, and selflessness. He particularly credits him with building Vallabh Vidyanagar University as a major national institution, quoting Gokhale’s earlier description of Vallabh Vidyanagar and emphasizing its founder’s patriotism, responsiveness to public needs, and love of the countryside. The note concludes that the death was a serious loss both to the Swatantra Party and to Gujarat, whose champion Balkaka had been.
 ---
 
+## Summary
+
+This two-page letter from Minoo Masani to Chimanbhai D. Doshi, dated 17 April 1970, encloses a short memorial note for publication in the fortnightly journal Vallabh Vidyanagar. The note mourns the death of “Balkaka” and records the National Executive’s appreciation of his contribution to Gujarat’s political life and to the establishment of a strong two-party system in the state.
+
+Masani presents Balkaka as a person of strong conviction, singleness of purpose, and selflessness. He particularly credits him with building Vallabh Vidyanagar University as a major national institution, quoting Gokhale’s earlier description of Vallabh Vidyanagar and emphasizing its founder’s patriotism, responsiveness to public needs, and love of the countryside. The note concludes that the death was a serious loss both to the Swatantra Party and to Gujarat, whose champion Balkaka had been.
+
 ## Key points
 
 - Masani’s letter encloses a memorial note intended for publication in Vallabh Vidyanagar.

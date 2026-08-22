@@ -49,6 +49,12 @@ summary: |-
   Masani asks Narayan to let him know whether he may stay with him during a future visit to Bombay, mentions the recent death of their mutual friend Gorchandas Ruparel, and requests information about the likely dates and objectives of Narayan’s visit. He closes by asking whether there is anything he can do to help and inquiring after Narayan’s health.
 ---
 
+## Summary
+
+In this letter dated June 20, 1973, Minoo Masani writes to Jayaprakash Narayan (“J.P.”) from an unspecified location, noting that he has been awaiting replies to three earlier letters—two sent to Patna and one to Delhi. Masani refers to reports that Narayan will visit Bombay in the last week of July and asks whether Narayan or someone acting on his behalf is approaching him about the “drive for ‘Social Responsibility of Business.’”
+
+Masani asks Narayan to let him know whether he may stay with him during a future visit to Bombay, mentions the recent death of their mutual friend Gorchandas Ruparel, and requests information about the likely dates and objectives of Narayan’s visit. He closes by asking whether there is anything he can do to help and inquiring after Narayan’s health.
+
 ## Key points
 
 - Masani is awaiting replies to three previous letters sent to Narayan.

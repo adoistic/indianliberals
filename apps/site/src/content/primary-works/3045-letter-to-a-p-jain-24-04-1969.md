@@ -50,6 +50,12 @@ summary: |-
   The enclosed April 23 letter from Jain, written on Swatantra Party Parliamentary Office letterhead, gives the procedural context. Jain reports that the Fourth Plan is unlikely to be discussed before May 5 because debate on the Finance Bill is expected to conclude first. He encloses a motion seeking a short-duration discussion on the Fourth Plan and notes that P. K. Deo has tabled a similar motion and is likely to move it. The file documents parliamentary coordination rather than presenting a substantive critique of the Plan itself.
 ---
 
+## Summary
+
+This two-page correspondence file records an exchange between M. R. Masani and A. P. Jain in April 1969 concerning the proposed parliamentary debate on India's Fourth Plan. In his April 24 reply, Masani confirms that he expects to be in Delhi during the week of the debate, returns Jain's motion for tabling, and acknowledges the likely timetable for discussion between May 12 and 17.
+
+The enclosed April 23 letter from Jain, written on Swatantra Party Parliamentary Office letterhead, gives the procedural context. Jain reports that the Fourth Plan is unlikely to be discussed before May 5 because debate on the Finance Bill is expected to conclude first. He encloses a motion seeking a short-duration discussion on the Fourth Plan and notes that P. K. Deo has tabled a similar motion and is likely to move it. The file documents parliamentary coordination rather than presenting a substantive critique of the Plan itself.
+
 ## Key points
 
 - Masani's reply is dated April 24, 1969, and is addressed to A. P. Jain.

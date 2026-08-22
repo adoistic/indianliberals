@@ -51,6 +51,12 @@ summary: |-
   The letter also seeks an update on Piloo Mody's current thinking and on any steps the BLD and other opposition parties may take in the near future. It closes with greetings to the party's colleagues, combining an administrative request about tax recovery with an inquiry into opposition-party coordination.
 ---
 
+## Summary
+
+This one-page letter, dated 4 December 1976, is written by V. Srikumar, Joint Secretary of the Swatantra Party, to S. V. Raju. Srikumar asks whether Raju has met the Tax Recovery Officer and conveyed the relevant facts concerning an earlier exchange of letters dated 22 and 26 November 1976.
+
+The letter also seeks an update on Piloo Mody's current thinking and on any steps the BLD and other opposition parties may take in the near future. It closes with greetings to the party's colleagues, combining an administrative request about tax recovery with an inquiry into opposition-party coordination.
+
 ## Key points
 
 - The letter is dated 4 December 1976 and is issued from the Swatantra Party National Headquarters in Madras.

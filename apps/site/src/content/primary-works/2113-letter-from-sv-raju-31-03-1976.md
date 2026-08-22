@@ -48,6 +48,12 @@ summary: |-
   Raju states that the National Headquarters has ceased to exist and that the relevant papers are unavailable. On that basis, he concludes that the question of making any payment is ruled out. The document is administrative correspondence rather than a policy or argumentative text.
 ---
 
+## Summary
+
+This untitled letter, dated March 31, 1976, is written by S. V. Raju, identified as the former Executive Secretary of the Swatantra Party, to Mr. Ramesh Sharma of ARMS in Bombay. Raju responds to Sharma’s claim for outstanding dues from the Swatantra Party National Headquarters and recalls that the matter had previously been discussed, with the honorary treasurer declining to entertain the claim.
+
+Raju states that the National Headquarters has ceased to exist and that the relevant papers are unavailable. On that basis, he concludes that the question of making any payment is ruled out. The document is administrative correspondence rather than a policy or argumentative text.
+
 ## Key points
 
 - The document is an untitled, one-page administrative letter dated March 31, 1976.

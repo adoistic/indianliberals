@@ -52,6 +52,12 @@ summary: |-
   Pages 2–3 reproduce the December 1981 newsletter of the Society for the Right to Die with Dignity, which Masani chaired. The newsletter describes the Society’s establishment in May 1981, its membership and executive committee, its campaign for voluntary euthanasia and safeguards against abuse, and its suggested declaration concerning withdrawal of artificial medical treatment. It records public and press responses, including arguments for legalising euthanasia and mercy killing, and reproduces supportive and critical commentary. The newsletter also notes international recognition of the Society and reproduces a letter from Arthur Koestler, alongside a poem by Colonel C. L. Proudf​​oot.
 ---
 
+## Summary
+
+This untitled letter from M. R. Masani to S. V. Raju, dated December 29, 1981, discusses administrative and organisational matters at the Democratic Research Service. Masani introduces Khandelwal as the incoming honorary treasurer, explains that he has arranged for Khandelwal to meet the auditor P. N. Subramanian, and asks Raju to help locate Subramanian’s appointment letter and terms of service. He also reports chairing a meeting of the Indian Merchants’ Chamber for Solidarity in Poland and asks about Raju’s travel plans and a possible visit to Bombay. The letter closes with a postscript explaining that it has been sent to Raju’s Bombay address rather than Saudi Arabia.
+
+Pages 2–3 reproduce the December 1981 newsletter of the Society for the Right to Die with Dignity, which Masani chaired. The newsletter describes the Society’s establishment in May 1981, its membership and executive committee, its campaign for voluntary euthanasia and safeguards against abuse, and its suggested declaration concerning withdrawal of artificial medical treatment. It records public and press responses, including arguments for legalising euthanasia and mercy killing, and reproduces supportive and critical commentary. The newsletter also notes international recognition of the Society and reproduces a letter from Arthur Koestler, alongside a poem by Colonel C. L. Proudf​​oot.
+
 ## Key points
 
 - Masani writes to S. V. Raju about the appointment of Khandelwal as honorary treasurer of the Democratic Research Service.

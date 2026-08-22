@@ -49,6 +49,12 @@ summary: |-
   The letter states that the Speaker’s nominations to parliamentary committees are made more or less in proportion to the respective strengths of parties and groups in the House. It is an administrative communication rather than a substantive argument about parliamentary procedure, but it documents the relationship between party representation and committee composition.
 ---
 
+## Summary
+
+This single-page English letter from H. N. Trivedi, Deputy Secretary of the Lok Sabha Secretariat, to M. R. Masani, dated 13 August 1960, concerns the representation of parties and groups on parliamentary committees. It reports that the Speaker nominated N. G. Ranga to the General Purposes Committee and accepted Masani’s resignation from the Rules Committee, appointing M. S. Sugandhi in his place.
+
+The letter states that the Speaker’s nominations to parliamentary committees are made more or less in proportion to the respective strengths of parties and groups in the House. It is an administrative communication rather than a substantive argument about parliamentary procedure, but it documents the relationship between party representation and committee composition.
+
 ## Key points
 
 - The letter was issued by H. N. Trivedi, Deputy Secretary of the Lok Sabha Secretariat, on 13 August 1960.

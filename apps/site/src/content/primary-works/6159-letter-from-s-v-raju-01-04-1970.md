@@ -44,6 +44,10 @@ summary: |-
   This single-page English telegram, sent by S. V. Raju from Bombay on April 1, 1970, relays a request to write to Parit... Pradhan. The requested message is that the recipient would like to meet him and other friends during a future visit. The telegram also refers to a previously collected consignment and is followed by a confirmatory copy sent by post.
 ---
 
+## Summary
+
+This single-page English telegram, sent by S. V. Raju from Bombay on April 1, 1970, relays a request to write to Parit... Pradhan. The requested message is that the recipient would like to meet him and other friends during a future visit. The telegram also refers to a previously collected consignment and is followed by a confirmatory copy sent by post.
+
 ## Key points
 
 - The document is a one-page wire message from S. V. Raju, Bombay.

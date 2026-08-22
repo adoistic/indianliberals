@@ -50,6 +50,12 @@ summary: |-
   Masani also recalls a passage from his own letter of 1 June, arguing that the political Right had a lesson for the Left: rather than pursuing summit negotiations among its different components, it had chosen unity in action, which had produced substantial political benefits. The letter is a brief intervention on opposition unity and the relationship between political organisation and effective governance.
 ---
 
+## Summary
+
+In this letter dated 15 June 1963, M. R. Masani responds to Colonel H. R. Paaricha concerning C. Rajagopalachari’s (Rajaji’s) view that defending the country should not be the sole objective of political action. Masani endorses Rajaji’s recommendation that attention should instead be concentrated on good government.
+
+Masani also recalls a passage from his own letter of 1 June, arguing that the political Right had a lesson for the Left: rather than pursuing summit negotiations among its different components, it had chosen unity in action, which had produced substantial political benefits. The letter is a brief intervention on opposition unity and the relationship between political organisation and effective governance.
+
 ## Key points
 
 - Masani responds to a letter forwarded by Rajaji concerning Colonel Paaricha’s correspondence.

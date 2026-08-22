@@ -48,6 +48,10 @@ summary: |-
   This one-page Swatantra Party circular, dated 29 May 1967, records an internal banking authorisation. N. Dandekar, writing as Acting General Secretary from the party's Bombay Central Office, asks M. R. Masani to approve a resolution concerning the party's “Swatantra Party Account No. II” with the Bank of India.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated 29 May 1967, records an internal banking authorisation. N. Dandekar, writing as Acting General Secretary from the party's Bombay Central Office, asks M. R. Masani to approve a resolution concerning the party's “Swatantra Party Account No. II” with the Bank of India.
+
 ## Key points
 
 - The document is National Executive Circular No. 20, issued by the Swatantra Party Central Office.

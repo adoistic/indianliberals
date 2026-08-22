@@ -51,6 +51,12 @@ summary: |-
   The meeting's agenda centers on the proposed new party: members are to consider its draft policies and programme and decide whether to recommend to the National Convention the dissolution of the Swatantra Party in order to create a new party with an acceptable common programme. The circular emphasizes the importance of the decisions and urges recipients to cancel other commitments if necessary to attend.
 ---
 
+## Summary
+
+Dated May 13, 1974, this one-page Swatantra Party circular announces a General Council meeting to be held in New Delhi on Sunday and Monday, June 9–10, 1974. Issued from the party's national headquarters and signed by Vice President Madhu Mehta, the circular asks recipients to attend and confirm their participation.
+
+The meeting's agenda centers on the proposed new party: members are to consider its draft policies and programme and decide whether to recommend to the National Convention the dissolution of the Swatantra Party in order to create a new party with an acceptable common programme. The circular emphasizes the importance of the decisions and urges recipients to cancel other commitments if necessary to attend.
+
 ## Key points
 
 - The circular is dated May 13, 1974, and is issued by the Swatantra Party's national headquarters.

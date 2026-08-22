@@ -54,6 +54,12 @@ summary: |-
   The statement also identifies internal dangers to Indian democracy: the gap between the professions and conduct of office-holders, public cynicism about politicians, weak grassroots voluntary activity, and the cult of personality. Referring to the recent Bangalore session of the Congress Party, it criticizes Jawaharlal Nehru’s intolerance toward party critics as well as the Congress rank and file’s passive acceptance of bullying. The sheet concludes by invoking Gandhi’s maxim that democracy requires the ability to say “No” to those in authority. No authorial byline, publisher, issuing organisation, year, or printed page foliation is visible.
 ---
 
+## Summary
+
+This two-page typed press-publication sheet, dated “Bombay, January 18,” reports remarks by M. R. Masani, General Secretary of the Swatantra Party. It presents the continued inclusion of V. K. Krishna Menon in the Defence portfolio, during the occupation of Indian territory by Chinese communist troops, as the immediate manifestation of a broader totalitarian threat to democracy. Masani argues that removing Krishna Menon would be the clearest way for the Indian Government to demonstrate that it would not tolerate attacks on India’s territorial integrity.
+
+The statement also identifies internal dangers to Indian democracy: the gap between the professions and conduct of office-holders, public cynicism about politicians, weak grassroots voluntary activity, and the cult of personality. Referring to the recent Bangalore session of the Congress Party, it criticizes Jawaharlal Nehru’s intolerance toward party critics as well as the Congress rank and file’s passive acceptance of bullying. The sheet concludes by invoking Gandhi’s maxim that democracy requires the ability to say “No” to those in authority. No authorial byline, publisher, issuing organisation, year, or printed page foliation is visible.
+
 ## Key points
 
 - M. R. Masani’s statement links the Krishna Menon controversy to the wider threat posed by totalitarianism.

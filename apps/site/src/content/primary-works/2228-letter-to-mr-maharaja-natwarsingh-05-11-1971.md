@@ -49,6 +49,12 @@ summary: |-
   Masani characterizes the figures as authoritative and dependable, offers them for the recipient's use, and closes with personal regards to the Maharaja and Maharani Saheba. The document is a one-page piece of correspondence and contains no broader discussion of electoral policy or party politics beyond this exchange about election data.
 ---
 
+## Summary
+
+In this letter dated 5 November 1971, M. R. Masani replies to Maharaja Natwarsinghji of Porbandar's request for authoritative figures on the votes polled by various parties and the seats they won in the Lok Sabha. Masani sends a mimeographed statement based on a 31 March 1971 report in The Times of India and figures issued by the Election Commission of India.
+
+Masani characterizes the figures as authoritative and dependable, offers them for the recipient's use, and closes with personal regards to the Maharaja and Maharani Saheba. The document is a one-page piece of correspondence and contains no broader discussion of electoral policy or party politics beyond this exchange about election data.
+
 ## Key points
 
 - The letter is dated 5 November 1971 and is signed by M. R. Masani.

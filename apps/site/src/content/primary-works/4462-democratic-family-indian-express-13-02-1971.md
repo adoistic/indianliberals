@@ -50,6 +50,12 @@ summary: |-
   Mrs. Masani presents the family’s political differences as evidence of its democratic character: she says her husband respects freedom of speech and thought and does not object to their son Zareer becoming a political rebel, just as he had been at the same age. The clipping offers a short human-interest illustration of party politics, family pluralism, and tolerance of dissent.
 ---
 
+## Summary
+
+This brief, unattributed Indian Express report dated 13 February 1971 describes a political family divided in its campaign activity but united in its acceptance of democratic disagreement. The wife and son of Swatantra Party leader Minoo Masani are campaigning in New Delhi for New Congress candidate Mrs. Subhadra Joshi, while Mrs. Masani plans to campaign for her husband in Rajkot later.
+
+Mrs. Masani presents the family’s political differences as evidence of its democratic character: she says her husband respects freedom of speech and thought and does not object to their son Zareer becoming a political rebel, just as he had been at the same age. The clipping offers a short human-interest illustration of party politics, family pluralism, and tolerance of dissent.
+
 ## Key points
 
 - The report is dated 13 February 1971 and is attributed only to the Indian Express masthead; no byline is visible.

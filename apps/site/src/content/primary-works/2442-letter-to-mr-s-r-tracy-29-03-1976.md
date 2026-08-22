@@ -48,6 +48,10 @@ summary: |-
   This two-page letter, dated March 29, 1976, is issued by the Bharatiya Lok Dal, Bombay, and signed by V. P. Bhatia in his capacity as Executive Secretary. Addressed to the Regional Transport Officer, Bombay, it confirms a conversation held on March 23 concerning vehicles previously purchased by the Swatantra Party and subsequently transferred after its merger into the Bharatiya Lok Dal.
 ---
 
+## Summary
+
+This two-page letter, dated March 29, 1976, is issued by the Bharatiya Lok Dal, Bombay, and signed by V. P. Bhatia in his capacity as Executive Secretary. Addressed to the Regional Transport Officer, Bombay, it confirms a conversation held on March 23 concerning vehicles previously purchased by the Swatantra Party and subsequently transferred after its merger into the Bharatiya Lok Dal.
+
 ## Key points
 
 - The letter confirms an earlier conversation with the Regional Transport Officer on March 23, 1976.

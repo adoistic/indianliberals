@@ -51,6 +51,10 @@ summary: |-
   This six-page Swatantra Party office letter, dated August 20, 1974, reports on the Party’s Seventh National Convention in New Delhi on August 4–5 and encloses the resolutions debated there. The letter explains that the Party’s General Council had supported efforts to create a National Alternative bringing together parties outside the ruling Congress and Communist parties, but had reserved final authority over dissolution for a National Convention. It also records procedural disagreements over press access and secret-ballot voting.
 ---
 
+## Summary
+
+This six-page Swatantra Party office letter, dated August 20, 1974, reports on the Party’s Seventh National Convention in New Delhi on August 4–5 and encloses the resolutions debated there. The letter explains that the Party’s General Council had supported efforts to create a National Alternative bringing together parties outside the ruling Congress and Communist parties, but had reserved final authority over dissolution for a National Convention. It also records procedural disagreements over press access and secret-ballot voting.
+
 ## Key points
 
 - The National Convention considered whether the Swatantra Party should dissolve in order to participate in a broader National Alternative.

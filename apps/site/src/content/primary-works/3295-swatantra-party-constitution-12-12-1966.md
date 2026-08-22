@@ -50,6 +50,10 @@ summary: |-
   This eight-page English constitutional document sets out the Swatantra Party's amended institutional framework, as revised on December 12, 1966 by the Fourth National Convention in New Delhi. It defines the party's name and objective, which is to implement the principles adopted by the 1959 Bombay Convention, and establishes headquarters, membership categories, subscriptions, worker eligibility, and procedures for enrolment and expulsion. Party work includes organising members, campaigning, addressing public grievances, raising funds, producing literature, conducting study circles, and maintaining party offices.
 ---
 
+## Summary
+
+This eight-page English constitutional document sets out the Swatantra Party's amended institutional framework, as revised on December 12, 1966 by the Fourth National Convention in New Delhi. It defines the party's name and objective, which is to implement the principles adopted by the 1959 Bombay Convention, and establishes headquarters, membership categories, subscriptions, worker eligibility, and procedures for enrolment and expulsion. Party work includes organising members, campaigning, addressing public grievances, raising funds, producing literature, conducting study circles, and maintaining party offices.
+
 ## Key points
 
 - The constitution identifies the organisation as the Swatantra Party and ties its objective to principles adopted at the 1959 Bombay Convention.

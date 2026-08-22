@@ -54,6 +54,12 @@ summary: |-
   The discussion concerned the Party's proposed amendment to the Constitution Amendment Bill, which sought to extend the reservation of seats for Scheduled Castes and Scheduled Tribes. The participants agreed that members who strongly disagreed with the amendment could be absent during the vote. If the amendment failed, the general view was that the Bill itself should nevertheless be supported, while the final decision was left to the Party's Executive Committee. The record is signed by M. R. Masani as Deputy Leader.
 ---
 
+## Summary
+
+This one-page office record reports an informal meeting of members of the Swatantra Parliamentary Party held on December 4, 1969, in the Party room at Central Hall, Parliament House. The meeting was chaired by M. R. Masani and attended by representatives identified in the minutes as belonging to Scheduled Castes, Scheduled Tribes, and other party members.
+
+The discussion concerned the Party's proposed amendment to the Constitution Amendment Bill, which sought to extend the reservation of seats for Scheduled Castes and Scheduled Tribes. The participants agreed that members who strongly disagreed with the amendment could be absent during the vote. If the amendment failed, the general view was that the Bill itself should nevertheless be supported, while the final decision was left to the Party's Executive Committee. The record is signed by M. R. Masani as Deputy Leader.
+
 ## Key points
 
 - The record documents an informal Swatantra Parliamentary Party meeting held in New Delhi on December 4, 1969.

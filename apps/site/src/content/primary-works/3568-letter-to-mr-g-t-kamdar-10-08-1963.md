@@ -46,6 +46,12 @@ summary: |-
   The document is a brief administrative acknowledgment rather than an essay or policy statement. It is signed “(M. R. Masani)” and addressed to Mr. G. T. Kamdar at Bharat House, 104 Apollo Street, Fort.
 ---
 
+## Summary
+
+This single-page English letter from M. R. Masani, dated August 10, 1963, acknowledges Mr. G. T. Kamdar’s letter of August 8 and thanks him for a contribution of Rs. 500 from The Bharat Line Limited. Masani states that a formal receipt is enclosed.
+
+The document is a brief administrative acknowledgment rather than an essay or policy statement. It is signed “(M. R. Masani)” and addressed to Mr. G. T. Kamdar at Bharat House, 104 Apollo Street, Fort.
+
 ## Key points
 
 - The letter is dated August 10, 1963.

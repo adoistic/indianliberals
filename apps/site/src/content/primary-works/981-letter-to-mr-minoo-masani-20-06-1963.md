@@ -50,6 +50,12 @@ summary: |-
   Tata reports discussions with Dharamsey and A. D. Shroff about preparing a statement on the party’s finances. Once Masani’s statement is received, Tata proposes calling a meeting to determine how to finance the party’s ordinary operations and build a reserve for the next elections. He expects the memorandum to clarify the objectives that should guide this effort.
 ---
 
+## Summary
+
+This one-page letter, dated 20 June 1963 and written from Bombay House, is addressed by J. R. D. Tata to M. R. Masani in his capacity as Treasurer of the Party. Tata explains that the party’s recent financial demands, particularly those associated with the Rajkot by-election, make it an inopportune moment to ask supporters for further contributions, although he stresses the urgency of replenishing party funds.
+
+Tata reports discussions with Dharamsey and A. D. Shroff about preparing a statement on the party’s finances. Once Masani’s statement is received, Tata proposes calling a meeting to determine how to finance the party’s ordinary operations and build a reserve for the next elections. He expects the memorandum to clarify the objectives that should guide this effort.
+
 ## Key points
 
 - The letter responds to M. R. Masani’s memo of 13 June 1963 concerning party finances.

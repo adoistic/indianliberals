@@ -51,6 +51,12 @@ summary: |-
   The second page is Masani’s covering letter to V. M. Tarkunde, returning a vakalatnama signed by Tarkunde and Mathrani authorising Tarkunde to file a petition seeking the interview. Masani says he is keeping Tarkunde informed of the progress and encloses a copy of his letter to the Deputy Commissioner. The document records a practical legal and personal effort to secure access to a detained political figure during the Emergency; no reply or subsequent outcome is included.
 ---
 
+## Summary
+
+This two-page letter from M. R. Masani, dated November 12, 1975, formally requests permission from M. G. Devashayam, Deputy Commissioner at Chandigarh, to interview his old friend Jayaprakash Narayan. Masani proposes December 4 as the preferred date, explaining that he will be travelling from Bombay and can instead come on another date if necessary. The request is framed against the Delhi High Court judgment in the case of Morarji Desai, which concerned interviews by friends with political detainees.
+
+The second page is Masani’s covering letter to V. M. Tarkunde, returning a vakalatnama signed by Tarkunde and Mathrani authorising Tarkunde to file a petition seeking the interview. Masani says he is keeping Tarkunde informed of the progress and encloses a copy of his letter to the Deputy Commissioner. The document records a practical legal and personal effort to secure access to a detained political figure during the Emergency; no reply or subsequent outcome is included.
+
 ## Key points
 
 - Masani applies for permission to interview Jayaprakash Narayan at Chandigarh.

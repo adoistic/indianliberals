@@ -48,6 +48,12 @@ summary: |-
   The document is a brief party-political coordination message rather than a substantive statement of policy. It is typed in compressed telegram style and marked “Not to be telegraphed.”
 ---
 
+## Summary
+
+This one-page English telegram, dated 10 February 1965, is from Madhu N. Mehta of the Swatantra Party office in Bombay to C. Rajagopalachari in Madras. It thanks Rajagopalachari for a workers’ meeting and confirms that another meeting is fixed for the twelfth at 8 p.m. at Bhavan.
+
+The document is a brief party-political coordination message rather than a substantive statement of policy. It is typed in compressed telegram style and marked “Not to be telegraphed.”
+
 ## Key points
 
 - The communication is addressed to C. Rajagopalachari at 60 Basullah Road, Madras-17.

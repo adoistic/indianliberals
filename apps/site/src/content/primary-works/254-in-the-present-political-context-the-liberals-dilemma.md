@@ -55,6 +55,12 @@ summary: |-
   The essay argues that the deeper problem is not simply the choice between existing parties but the excessive role of government. Masani attributes the politicisation of industry, trade, agriculture, education, arts, and sport to three decades of statism and pervasive controls, which have concentrated political and economic power in New Delhi and intensified corruption. He calls instead for strong but limited government, links this position to Gandhi’s principle of choosing the “lesser evil” and practising “double rejection,” and points to recent opposition to nationalisation and Maharashtra’s Sales Tax law as signs of resistance to bureaucratic statism. The essay closes by urging scattered liberals to organise quickly for democracy with discipline rather than dictatorship.
 ---
 
+## Summary
+
+In this essay, M. R. Masani presents the liberal’s dilemma in a politically weak democracy: whether to compromise with political forces and accept some statism in order to influence events, or to remain politically uninvolved and risk becoming irrelevant. Recalling Jayaprakash Narayan’s appeal during the Emergency to help form the Janata Party, Masani explains why he supported the objective of ending Indira Gandhi’s authoritarian rule while declining active participation, fearing that the party’s disparate elements would eventually discredit democratic politics and encourage authoritarianism. He presents his later acceptance of the chairmanship of the Minorities Commission as another instance of being drawn into public office despite reservations about colleagues and political conduct.
+
+The essay argues that the deeper problem is not simply the choice between existing parties but the excessive role of government. Masani attributes the politicisation of industry, trade, agriculture, education, arts, and sport to three decades of statism and pervasive controls, which have concentrated political and economic power in New Delhi and intensified corruption. He calls instead for strong but limited government, links this position to Gandhi’s principle of choosing the “lesser evil” and practising “double rejection,” and points to recent opposition to nationalisation and Maharashtra’s Sales Tax law as signs of resistance to bureaucratic statism. The essay closes by urging scattered liberals to organise quickly for democracy with discipline rather than dictatorship.
+
 ## Key points
 
 - Masani frames liberal political participation as a choice between compromising with statist parties and withdrawing into ineffectual protest.

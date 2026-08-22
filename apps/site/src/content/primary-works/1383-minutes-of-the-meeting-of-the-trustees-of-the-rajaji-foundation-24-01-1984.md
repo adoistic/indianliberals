@@ -52,6 +52,12 @@ summary: |-
   The minutes also address the Foundation’s financial position and proposed programme for the year. Trustees discussed renewing the Foundation’s income-tax exemption, reinvesting two Rs. 5,000 deposits as a single Rs. 10,000 deposit, and seeking financial assistance from other trusts for approved activities without augmenting the corpus. The proposed seminars were to cover Rajaji’s economic vision and “Clean Elections,” with possible venues in Ahmedabad and Bombay; a further topic considered was attracting foreign equity participation rather than relying on government-to-government aid. The document is explicitly marked “Draft.”
 ---
 
+## Summary
+
+This draft records the Rajaji Foundation trustees’ meeting held on 24 January 1984 at M. R. Masani’s residence. The trustees approved the previous minutes, noted that the planned 1983 Rajaji Memorial lecture had been cancelled after N. T. Rama Rao and Mr. Narayanaswamy both withdrew, and recorded several resolutions concerning accounts, taxation, investments, and trustee appointments. The audited accounts for the year ending 31 December 1982 were approved; a Rs. 10,000 fixed deposit was authorised with the Indian Oil Corporation Limited; and Madhu Mehta and M. R. Pai were appointed trustees.
+
+The minutes also address the Foundation’s financial position and proposed programme for the year. Trustees discussed renewing the Foundation’s income-tax exemption, reinvesting two Rs. 5,000 deposits as a single Rs. 10,000 deposit, and seeking financial assistance from other trusts for approved activities without augmenting the corpus. The proposed seminars were to cover Rajaji’s economic vision and “Clean Elections,” with possible venues in Ahmedabad and Bombay; a further topic considered was attracting foreign equity participation rather than relying on government-to-government aid. The document is explicitly marked “Draft.”
+
 ## Key points
 
 - The document records a Rajaji Foundation trustees’ meeting held on 24 January 1984.

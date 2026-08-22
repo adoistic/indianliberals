@@ -52,6 +52,12 @@ summary: |-
   The letter records ongoing organisational work: Masani has written to Mr. A. P. Jain regarding the 17th Amendment and parliamentary activities, mentions a second brochure being prepared, and reports an understanding with Mr. Hanumantha Rao. He coordinates Ranga's proposed visit to Calcutta with Cushrow Irani and others. In the second page, Masani explains that the Madhya Pradesh state unit has been dissolved and that district-level reorganisation is being left largely to Jaideepsinhji of Baria, whose progress he is awaiting. The document is primarily a piece of political correspondence about party organisation, personnel, and tactical decision-making.
 ---
 
+## Summary
+
+This two-page letter, dated July 16, 1964, from M. R. Masani to Prof. N. G. Ranga, responds to correspondence concerning the Andhra Executive and Workers, Kashmir, parliamentary activities, and the organisation of the Swatantra Party. Masani expresses hope that his advice has been useful, endorses Ranga's support, and discusses the need to balance firmness and restraint in responding to opposition on Kashmir. He also says that sitting members should not be given advance indications about their political future.
+
+The letter records ongoing organisational work: Masani has written to Mr. A. P. Jain regarding the 17th Amendment and parliamentary activities, mentions a second brochure being prepared, and reports an understanding with Mr. Hanumantha Rao. He coordinates Ranga's proposed visit to Calcutta with Cushrow Irani and others. In the second page, Masani explains that the Madhya Pradesh state unit has been dissolved and that district-level reorganisation is being left largely to Jaideepsinhji of Baria, whose progress he is awaiting. The document is primarily a piece of political correspondence about party organisation, personnel, and tactical decision-making.
+
 ## Key points
 
 - Masani acknowledges Ranga's letters and discusses advice given to the Andhra Executive and Workers.

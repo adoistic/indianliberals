@@ -48,6 +48,10 @@ summary: |-
   This single-page Swatantra Party inter-office memo, dated 4 October 1961, records an internal financial arrangement concerning the non-payment of the first instalment by the Raja Saheb of Ramgarh to Sir Homi Mody, the party’s Treasurer. M. R. Masani notes that he showed the relevant communication from New India and the Central Bank.
 ---
 
+## Summary
+
+This single-page Swatantra Party inter-office memo, dated 4 October 1961, records an internal financial arrangement concerning the non-payment of the first instalment by the Raja Saheb of Ramgarh to Sir Homi Mody, the party’s Treasurer. M. R. Masani notes that he showed the relevant communication from New India and the Central Bank.
+
 ## Key points
 
 - The document is an inter-office memo issued under the Swatantra Party heading.

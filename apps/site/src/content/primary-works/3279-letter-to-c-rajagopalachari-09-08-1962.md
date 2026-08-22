@@ -51,6 +51,10 @@ summary: |-
   This one-page telegram from Minoo Masani, dated 9 August 1962 and sent from the Swatantra Party Central Office in Bombay, is addressed to C. Rajagopalachari. Masani strongly rejects K. M. Munshi’s suggestion that the Madras decision concerning Bihar be rescinded. He says the delay in publication was made only to accommodate Ranga’s plea and insists that the decision must stand.
 ---
 
+## Summary
+
+This one-page telegram from Minoo Masani, dated 9 August 1962 and sent from the Swatantra Party Central Office in Bombay, is addressed to C. Rajagopalachari. Masani strongly rejects K. M. Munshi’s suggestion that the Madras decision concerning Bihar be rescinded. He says the delay in publication was made only to accommodate Ranga’s plea and insists that the decision must stand.
+
 ## Key points
 
 - The document is a telegram dated 9 August 1962.

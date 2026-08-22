@@ -55,6 +55,12 @@ summary: |-
   The resolution also criticises the ruling party in Assam for allegedly patronising the outlawed Mizo National Front, even after the organisation had publicly declared in 1963 that it sought an independent state outside the Union of India. It calls on the people of India to resist the application of “double standards” in public life and urges the government to convene an immediate conference of political parties in Assam’s hill areas to develop a permanent settlement of the Mizos’ varied problems. The document identifies Prof. Martin Narayan as its proposer.
 ---
 
+## Summary
+
+This one-page resolution, adopted by the Swatantra Party General Council on May 28, 1966, addresses the political crisis in the Mizo Hills of Assam. It condemns violence as a means of political settlement but argues that much of the recent unrest could have been avoided had the government made prompt and sincere efforts to find a lasting solution rather than allowing the situation to worsen through indifference and delay.
+
+The resolution also criticises the ruling party in Assam for allegedly patronising the outlawed Mizo National Front, even after the organisation had publicly declared in 1963 that it sought an independent state outside the Union of India. It calls on the people of India to resist the application of “double standards” in public life and urges the government to convene an immediate conference of political parties in Assam’s hill areas to develop a permanent settlement of the Mizos’ varied problems. The document identifies Prof. Martin Narayan as its proposer.
+
 ## Key points
 
 - The resolution concerns the political problems of the Mizo Hills in Assam.

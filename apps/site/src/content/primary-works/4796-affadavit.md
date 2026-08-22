@@ -53,6 +53,10 @@ summary: |-
   This three-page English affidavit, dated 18 January 1996, was filed in the High Court of Judicature at Bombay in support of Swatantra Party's Writ Petition No. 14 of 1995 and a related Notice of Motion. Laxmidas R. Sampat identifies himself as the petitioner's General Secretary and states that the motion sought an expedited hearing of the writ petition.
 ---
 
+## Summary
+
+This three-page English affidavit, dated 18 January 1996, was filed in the High Court of Judicature at Bombay in support of Swatantra Party's Writ Petition No. 14 of 1995 and a related Notice of Motion. Laxmidas R. Sampat identifies himself as the petitioner's General Secretary and states that the motion sought an expedited hearing of the writ petition.
+
 ## Key points
 
 - The document concerns Swatantra Party and another petitioner versus the Union of India and other respondents.

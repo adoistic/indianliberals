@@ -58,6 +58,12 @@ summary: |-
   The remarks portray the party’s early organisation as drawing support from former Congress workers, political sufferers, anti-Congress activists, local professionals, younger graduates, and people critical of Nehru’s economic and agrarian policies. Several entries explicitly offer help in establishing branches and enrolling members, while others request a manifesto, rules, literature, or guidance. The document also shows efforts to connect the new party with the Gram Raj movement and with existing local networks. It is an organisational record rather than an exposition of policy; its principal evidence concerns recruitment, local infrastructure, political alignment, and the spread of Swatantra Party activity in Uttar Pradesh.
 ---
 
+## Summary
+
+This five-page Uttar Pradesh constituency report records local responses to the formation of the Swatantra Party in 1959. Its 80 numbered entries combine names and addresses with brief remarks about willingness to join, organise district branches, attend conventions, distribute literature, raise funds, recruit members, and provide local offices. The contacts include lawyers, teachers, professors, former officials, journalists, political workers, farmers, businessmen, and social organisers across Lucknow, Allahabad, Kanpur, Agra, Meerut, Moradabad, Saharanpur, Varanasi, Bareilly, and other parts of Uttar Pradesh.
+
+The remarks portray the party’s early organisation as drawing support from former Congress workers, political sufferers, anti-Congress activists, local professionals, younger graduates, and people critical of Nehru’s economic and agrarian policies. Several entries explicitly offer help in establishing branches and enrolling members, while others request a manifesto, rules, literature, or guidance. The document also shows efforts to connect the new party with the Gram Raj movement and with existing local networks. It is an organisational record rather than an exposition of policy; its principal evidence concerns recruitment, local infrastructure, political alignment, and the spread of Swatantra Party activity in Uttar Pradesh.
+
 ## Key points
 
 - The report lists 80 Uttar Pradesh contacts associated with the proposed or emerging Swatantra Party in 1959.

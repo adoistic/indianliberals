@@ -48,6 +48,12 @@ summary: |-
   Ranga explains that dissatisfaction among six or seven members made it difficult for him to propose the re-election of Shri Mahida as secretary. Although Dr. Singh had initially indicated that he did not want the position, Ranga pressed him to accept it because he regarded his re-election as essential to maintaining delicate relations with Bihar party colleagues. The letter then reports the corresponding leadership elected for the party in the Council of States, including Dayabhai Patel as leader and Professor Ruthnaswamy as an executive member. Handwritten annotations appear on the first page, including a note referring to the executive committee serving until March 1964.
 ---
 
+## Summary
+
+In this two-page letter dated 13 November 1962, N. G. Ranga reports to Minoo Masani on the results of an election meeting of the Swatantra Party's Parliamentary Board. He records his election as parliamentary leader, the selection of P. K. Deo as deputy leader, Basant Narain Singh and Sardar Kapoor Singh as secretaries, C. L. N. Reddy as chief whip, Himmat Singhji and Solanki as whips, and Prithvi Raj Singhji as treasurer. He also lists additional members elected to the executive committee and notes that the President may co-opt two more members.
+
+Ranga explains that dissatisfaction among six or seven members made it difficult for him to propose the re-election of Shri Mahida as secretary. Although Dr. Singh had initially indicated that he did not want the position, Ranga pressed him to accept it because he regarded his re-election as essential to maintaining delicate relations with Bihar party colleagues. The letter then reports the corresponding leadership elected for the party in the Council of States, including Dayabhai Patel as leader and Professor Ruthnaswamy as an executive member. Handwritten annotations appear on the first page, including a note referring to the executive committee serving until March 1964.
+
 ## Key points
 
 - N. G. Ranga writes from New Delhi to Minoo Masani on 13 November 1962.

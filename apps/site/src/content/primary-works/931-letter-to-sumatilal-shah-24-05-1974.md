@@ -48,6 +48,12 @@ summary: |-
   Masani urges Shah to attend the Swatantra Party's General Council meeting in Delhi on June 9 and 10 and to present his views forcefully and cogently. He adds that he is himself planning to attend and suggests that they discuss details there.
 ---
 
+## Summary
+
+This one-page letter, dated May 24, 1974, is from M. R. Masani to Sunatilal P. Shah. Masani acknowledges Shah's letter of May 13, noting that he read it with considerable agreement and sympathy.
+
+Masani urges Shah to attend the Swatantra Party's General Council meeting in Delhi on June 9 and 10 and to present his views forcefully and cogently. He adds that he is himself planning to attend and suggests that they discuss details there.
+
 ## Key points
 
 - Masani's letter is dated May 24, 1974.

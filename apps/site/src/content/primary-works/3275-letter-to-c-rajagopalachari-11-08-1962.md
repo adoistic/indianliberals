@@ -49,6 +49,12 @@ summary: |-
   Masani also conveys Baltsi’s belief that the party’s decision could restore the faith of many members who had become disillusioned. The letter closes by noting that Masani is still awaiting Rajagopalachari’s response to Munshi’s suggestion and to his telegram and letters of 9 and 10 August. The document is a single-page political correspondence focused on party organisation and leadership.
 ---
 
+## Summary
+
+In this letter dated 11 August 1962, Minoo Masani reports to C. Rajagopalachari (“Rajaji”) on developments in Bihar within the Swatantra Party. Masani says that Mr. N. Baltsi, nominated to become General Secretary of the state unit, had previously considered withdrawing from politics because of the party’s difficulties in Bihar. He was encouraged, however, by the confidence placed in him and agreed to accept the responsibility despite anticipating difficulties working with the state-unit president.
+
+Masani also conveys Baltsi’s belief that the party’s decision could restore the faith of many members who had become disillusioned. The letter closes by noting that Masani is still awaiting Rajagopalachari’s response to Munshi’s suggestion and to his telegram and letters of 9 and 10 August. The document is a single-page political correspondence focused on party organisation and leadership.
+
 ## Key points
 
 - Masani updates Rajagopalachari on the Swatantra Party’s affairs in Bihar.

@@ -55,3 +55,9 @@ summary: |-
   
   The issue also prints working-group conclusions on youth revolt and institutional reforms, a paper by Ajit Kumar Das on student discontent, correspondence about the Leslie Sawhny Programme, and a discussion of self-employment. Across these pieces, contributors advocate democratic organisation, practical and community-oriented education, teacher leadership, civic responsibility, and constructive social engagement, while criticising bureaucratic institutions, credentialism, political passivity, and unplanned protest. The issue is edited and published by Aruna Thosar; no publication date is visible.
 ---
+
+## Summary
+
+Issue 20 of pulse, the alumni newsletter of the Leslie Sawhny Programme, is devoted largely to educated youth, student discontent, generational conflict, institutional reform, and practical social action. Its central report covers the “Generation Gap—A Task for Educated Youth” seminar at Deolali, describing discussions of youth revolt, university reform, women’s liberation, rural development, unemployment, and activist organisations. The issue juxtaposes these reports with Manohar Malgonkar’s reflections on changing relations between generations and with arguments about the failures of universities and educational policy.
+
+The issue also prints working-group conclusions on youth revolt and institutional reforms, a paper by Ajit Kumar Das on student discontent, correspondence about the Leslie Sawhny Programme, and a discussion of self-employment. Across these pieces, contributors advocate democratic organisation, practical and community-oriented education, teacher leadership, civic responsibility, and constructive social engagement, while criticising bureaucratic institutions, credentialism, political passivity, and unplanned protest. The issue is edited and published by Aruna Thosar; no publication date is visible.

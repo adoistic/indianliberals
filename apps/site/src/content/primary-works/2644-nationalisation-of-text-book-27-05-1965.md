@@ -55,6 +55,12 @@ summary: |-
   The resolution also presents textbook nationalisation as an intellectual and political danger. It warns that centrally controlled books would lead to the "regimentation" of children's minds and urges parents to resist what it calls a "sinister move" in order to protect their children from mental slavery.
 ---
 
+## Summary
+
+This one-page resolution records the Swatantra Party General Council's unanimous condemnation of the nationalisation of school textbooks by some state governments. Adopted at the party's meeting in Bombay on May 27 and 28, 1966, it argues that state control would produce books of poor quality and high cost while depriving pupils of choice.
+
+The resolution also presents textbook nationalisation as an intellectual and political danger. It warns that centrally controlled books would lead to the "regimentation" of children's minds and urges parents to resist what it calls a "sinister move" in order to protect their children from mental slavery.
+
 ## Key points
 
 - The Swatantra Party General Council unanimously adopted the resolution in Bombay on May 27 and 28, 1966.

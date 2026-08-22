@@ -50,6 +50,12 @@ summary: |-
   The letter specifically asks what facilities have been provided to the Chief Whips of opposition parties or groups. Goud argues that without such facilities, it is difficult to expect whips to function effectively, and notes that he had been informed that the Government was considering the Simla conference's recommendations. A copy was sent to the Leader/Deputy Leader of the Swatantra Party in Parliament.
 ---
 
+## Summary
+
+In this letter dated March 20, 1970, Y. G. Goud, a Lok Sabha Member of Parliament, writes to K. Raghuramaiah, Minister for Parliamentary Affairs, Shipping & Transport, seeking information about the Government's implementation of decisions taken at the All India Whips Conferences held at Madras and Simla. Goud focuses on the responsibilities of party whips in maintaining quorum, discipline, and decorum in the House.
+
+The letter specifically asks what facilities have been provided to the Chief Whips of opposition parties or groups. Goud argues that without such facilities, it is difficult to expect whips to function effectively, and notes that he had been informed that the Government was considering the Simla conference's recommendations. A copy was sent to the Leader/Deputy Leader of the Swatantra Party in Parliament.
+
 ## Key points
 
 - The letter is dated March 20, 1970, and is written by Y. G. Goud from his New Delhi parliamentary address.

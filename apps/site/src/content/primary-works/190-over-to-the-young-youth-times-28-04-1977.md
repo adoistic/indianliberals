@@ -58,6 +58,12 @@ summary: |-
   In the rendered pages, Masani argues that the young should not leave politics to parties alone. He urges them to rebuild democracy through grassroots action, voluntary associations, consumer and environmental groups, civic education, and participation in national affairs. He also frames the election as a rejection of authoritarian rule rather than simply a victory for the Janata Party, and calls on the new generation to complete the unfinished work of freedom while resisting any future concentration of power.
 ---
 
+## Summary
+
+In the rendered pages, Minoo Masani addresses India’s young people after the Emergency and the Janata Party’s electoral victory. He recalls his own political journey—from the Congress Socialist Party and the struggle for independence to the Swatantra Party—and describes the Emergency as a period when national leaders were detained, the public was cowed, and censorship threatened the press. He presents the restoration of ordinary political and publishing freedoms as a reason for rejoicing, while warning that liberty requires vigilance and active public participation.
+
+In the rendered pages, Masani argues that the young should not leave politics to parties alone. He urges them to rebuild democracy through grassroots action, voluntary associations, consumer and environmental groups, civic education, and participation in national affairs. He also frames the election as a rejection of authoritarian rule rather than simply a victory for the Janata Party, and calls on the new generation to complete the unfinished work of freedom while resisting any future concentration of power.
+
 ## Key points
 
 - Masani celebrates the end of the Emergency and the return of freer public life.

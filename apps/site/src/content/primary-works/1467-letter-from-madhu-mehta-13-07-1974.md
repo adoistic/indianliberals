@@ -51,6 +51,12 @@ summary: |-
   The listed business consists of confirming the minutes of the Executive's April 6–7 meeting, receiving the President's briefing on the most recent General Council meeting, and considering any other matter with the Chair's permission. The circular also requests attendance and provides contact details for rail and air reservations. It is signed by Madhu Mehta, identified as Vice-President.
 ---
 
+## Summary
+
+This one-page English circular, dated July 13, 1974, announces the next meeting of the Swatantra Party's National Executive. The meeting is scheduled for Saturday, August 4, at Sapru House, New Delhi, before the National Convention, and is to begin at 10:30 a.m.
+
+The listed business consists of confirming the minutes of the Executive's April 6–7 meeting, receiving the President's briefing on the most recent General Council meeting, and considering any other matter with the Chair's permission. The circular also requests attendance and provides contact details for rail and air reservations. It is signed by Madhu Mehta, identified as Vice-President.
+
 ## Key points
 
 - The document is headed “National Executive Circular No. 121” and is issued on Swatantra Party letterhead.

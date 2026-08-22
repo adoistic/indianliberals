@@ -55,6 +55,12 @@ summary: |-
   Mody argues that India’s political difficulties cannot be solved simply by changing personalities or redistributing positions within existing parties. In the rendered pages, he links political effectiveness to clear ideas, economic understanding, and a willingness to challenge socialism, excessive state control, and the concentration of power. He discusses the Swatantra Party’s electoral prospects, its relationship to other opposition forces, and the need for a broader political alternative, while also reflecting on figures including Nehru, Rajaji, Morarji Desai, Indira Gandhi, M. N. Roy, Karl Marx, Mao, and B. R. Shenoy.
 ---
 
+## Summary
+
+In this interview-profile, Piloo Mody presents politics as a demanding, full-time vocation rather than a route to office or personal advancement. He recounts his movement from business and public life into politics, his association with the Swatantra Party, and his belief that political work requires sustained contact with citizens, persuasion, organisation, and service. The article also describes his criticism of party leaders who treat politics as an occasional activity and his preference for direct engagement with voters over reliance on intermediaries.
+
+Mody argues that India’s political difficulties cannot be solved simply by changing personalities or redistributing positions within existing parties. In the rendered pages, he links political effectiveness to clear ideas, economic understanding, and a willingness to challenge socialism, excessive state control, and the concentration of power. He discusses the Swatantra Party’s electoral prospects, its relationship to other opposition forces, and the need for a broader political alternative, while also reflecting on figures including Nehru, Rajaji, Morarji Desai, Indira Gandhi, M. N. Roy, Karl Marx, Mao, and B. R. Shenoy.
+
 ## Key points
 
 - Mody defines politics as a whole-time occupation requiring continuous public work.

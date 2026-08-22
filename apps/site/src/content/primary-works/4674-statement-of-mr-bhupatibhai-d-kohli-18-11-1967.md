@@ -52,6 +52,12 @@ summary: |-
   The statements also raise internal organisational questions: membership forms and fees were allegedly sent directly to the state office, local party members were not informed about election activity, village representatives were absent from district and state-level committees, and some witnesses suspected that membership records had been manipulated or improperly handled. Patel’s own statement disputes parts of this account, asserting that forms were legitimately submitted, denying propaganda against Masani, and explaining his walkout from a district committee meeting as a protest against the absence of village representatives. The pages end with references to party resolutions, newspaper clippings, and Patel’s letter explaining his position; the underlying resolutions and clippings are listed but not reproduced in the rendered pages.
 ---
 
+## Summary
+
+This ten-page English-language dossier consists of statements and statement summaries concerning the 1967 elections in Rajkot, Central Saurashtra, Dhoraji, Jamjodhpur and surrounding areas. The evidence focuses on allegations that Bhagwanjibhai Patel, a Swatantra Party figure, worked against the candidacy of Minoo Masani and other party candidates while presenting himself as a defender of village interests. Witnesses describe claims that Masani was an outsider who did not tour villages, that money and organisational support were being used to influence the elections, and that Patel sought candidates who would oppose Masani.
+
+The statements also raise internal organisational questions: membership forms and fees were allegedly sent directly to the state office, local party members were not informed about election activity, village representatives were absent from district and state-level committees, and some witnesses suspected that membership records had been manipulated or improperly handled. Patel’s own statement disputes parts of this account, asserting that forms were legitimately submitted, denying propaganda against Masani, and explaining his walkout from a district committee meeting as a protest against the absence of village representatives. The pages end with references to party resolutions, newspaper clippings, and Patel’s letter explaining his position; the underlying resolutions and clippings are listed but not reproduced in the rendered pages.
+
 ## Key points
 
 - Witnesses allege that Bhagwanjibhai Patel opposed Minoo Masani’s 1967 candidacy and supported alternative candidates.

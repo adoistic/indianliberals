@@ -49,6 +49,12 @@ summary: |-
   Masani also refers to an earlier letter about Ramgarh, enclosing a copy of his 10th October letter to the Acting President. He says the enclosure may help Rajagopalachari redraft his own letter and closes by saying that he awaits the revised text. The page documents an exchange involving political communication and disagreement, but does not explain the underlying controversy in detail.
 ---
 
+## Summary
+
+This one-page letter, marked “Express Delivery” and dated 3rd December 1962, was written by M. R. Masani to C. Rajagopalachari (“Rajaji”). Masani expresses approval that Rajagopalachari had spoken before leaving Poona, but argues that the damage had already been done and criticises the repetition of what he calls a “parrot cry.”
+
+Masani also refers to an earlier letter about Ramgarh, enclosing a copy of his 10th October letter to the Acting President. He says the enclosure may help Rajagopalachari redraft his own letter and closes by saying that he awaits the revised text. The page documents an exchange involving political communication and disagreement, but does not explain the underlying controversy in detail.
+
 ## Key points
 
 - The letter was sent by M. R. Masani to C. Rajagopalachari on 3rd December 1962.

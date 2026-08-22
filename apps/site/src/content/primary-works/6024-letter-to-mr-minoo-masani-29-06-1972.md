@@ -47,6 +47,12 @@ summary: |-
   Bose also reports returning from Bombay frustrated by the lack of response to his efforts there. The second rendered page is an addressed postal envelope repeating Masani's Bombay address; no further correspondence or substantive argument is visible.
 ---
 
+## Summary
+
+This letter, dated 29 June 1972, was sent by A.K. Bose, Advertisement Manager of People's Action, to Minoo Masani. Bose refers to a meeting at Masani's office on 20 June and provides the address of Jayaprakash Narayan, noting that Narayan would probably remain there until 15 July.
+
+Bose also reports returning from Bombay frustrated by the lack of response to his efforts there. The second rendered page is an addressed postal envelope repeating Masani's Bombay address; no further correspondence or substantive argument is visible.
+
 ## Key points
 
 - The letter is dated 29 June 1972 and is addressed to Minoo Masani.

@@ -52,6 +52,12 @@ summary: |-
   The letter also provides practical instructions for selecting delegates. Because of the party’s limited resources and the convention’s indoor venue, the quota is set at one delegate for every 100 party workers or life workers. The recipient’s membership figure is recorded as 2,063, entitling the state to 21 delegates; each delegate is granted full participation rights and charged a fee of Rs. 10. Further details on arrangements, programme, and agenda were to follow in a later circular.
 ---
 
+## Summary
+
+This two-page circular, dated July 1, 1974, announces the Swatantra Party’s National Convention, scheduled for August 4–5 at Sapru House in New Delhi. It explains that the convention will consider whether the party should join with other democratic opposition parties to create a National Alternative based on an acceptable common programme. The circular reproduces a resolution of the party’s General Council, which welcomes efforts toward opposition unity but reserves the final decision for the National Convention after members have had an opportunity to study and assess the proposed programme.
+
+The letter also provides practical instructions for selecting delegates. Because of the party’s limited resources and the convention’s indoor venue, the quota is set at one delegate for every 100 party workers or life workers. The recipient’s membership figure is recorded as 2,063, entitling the state to 21 delegates; each delegate is granted full participation rights and charged a fee of Rs. 10. Further details on arrangements, programme, and agenda were to follow in a later circular.
+
 ## Key points
 
 - The Swatantra Party’s National Convention is announced for August 4–5, 1974, at Sapru House, New Delhi.

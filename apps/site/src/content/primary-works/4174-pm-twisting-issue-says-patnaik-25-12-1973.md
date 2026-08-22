@@ -57,6 +57,12 @@ summary: |-
   In the rendered clippings, Patnaik argues for greater State powers, decentralisation of economic authority, and an end to excessive national economic discipline. He presents decentralisation as a way to accommodate regional differences and stimulate national growth, while criticising centralisation and the concentration of infrastructure and resources. Indira Gandhi rejects direct foreign negotiations by States as a threat to national integrity and argues that economic development, including tribal development in Orissa, requires coordinated national planning. A related report records Punjab leaders defending greater State autonomy and criticising the Centre’s handling of economic problems.
 ---
 
+## Summary
+
+This three-page reference dossier reproduces newspaper reports from the Indian Express, Times of India, and Hindustan Times dated 23–26 December 1973. The reports centre on a public dispute between Pragati Party leader Biju Patnaik and Prime Minister Indira Gandhi over the distribution of economic authority between the Union and the States, especially whether States should negotiate directly with foreign countries for development projects.
+
+In the rendered clippings, Patnaik argues for greater State powers, decentralisation of economic authority, and an end to excessive national economic discipline. He presents decentralisation as a way to accommodate regional differences and stimulate national growth, while criticising centralisation and the concentration of infrastructure and resources. Indira Gandhi rejects direct foreign negotiations by States as a threat to national integrity and argues that economic development, including tribal development in Orissa, requires coordinated national planning. A related report records Punjab leaders defending greater State autonomy and criticising the Centre’s handling of economic problems.
+
 ## Key points
 
 - Biju Patnaik accused Prime Minister Indira Gandhi of presenting or 'twisting' the issues surrounding State autonomy and foreign collaboration.

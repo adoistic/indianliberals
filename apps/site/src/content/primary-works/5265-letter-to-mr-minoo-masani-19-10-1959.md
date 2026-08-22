@@ -51,6 +51,12 @@ summary: |-
   The letter stresses the scale of the gathering, noting that people from across Mysore State and the district are expected to attend. It outlines the conference timetable and travel constraints, identifies several other party workers expected from Bangalore, and encloses an agenda. The handwritten signature appears to read “H. V. Shetty,” though the identification remains uncertain. The rendered pages contain no substantive discussion of policy beyond the party’s organisational planning.
 ---
 
+## Summary
+
+This two-page letter, dated 19 October 1959 and issued on the Swatantra Party’s South Kanara District Unit letterhead, is addressed to Minoo Masani. The writer introduces himself as the district organiser and discusses Masani’s proposed visit to Mangalore in connection with a party conference scheduled for 25 October. He asks Masani either to arrive on the 24th or to remain until the 26th so that local workers can meet him at greater length and consult him on organisational matters.
+
+The letter stresses the scale of the gathering, noting that people from across Mysore State and the district are expected to attend. It outlines the conference timetable and travel constraints, identifies several other party workers expected from Bangalore, and encloses an agenda. The handwritten signature appears to read “H. V. Shetty,” though the identification remains uncertain. The rendered pages contain no substantive discussion of policy beyond the party’s organisational planning.
+
 ## Key points
 
 - The letter is dated 19 October 1959 and comes from the Swatantra Party’s South Kanara District Unit in Mangalore.

@@ -63,6 +63,12 @@ summary: |-
   The attached Statement of Principles, adopted at the party’s 1959 Bombay convention, advocates social justice and equal opportunity alongside maximum individual freedom and limited state intervention. The principles call for decentralized economic development, private and small-scale industry, restrained taxation and public expenditure, opposition to inflationary finance and excessive bureaucracy, employment creation, collective bargaining, judicial independence, protection from political pressure, and freedom of opinion within the party. The document also invokes Gandhi’s teaching on faith, truth, and non-violence. The final pages are postal material documenting dispatch and receipt; they do not add substantive political argument.
 ---
 
+## Summary
+
+This 1 August 1989 letter from J. Venkiteswaran, President of the Swatantra Party, Maharashtra, asks the Election Commission of India to register the state party. The request is made while expressly reserving the party’s right to challenge the constitutional validity of the amendment that made political-party registration mandatory. The letter affirms the party’s loyalty to the Constitution, secularism, democracy, and its policy of pursuing “Prosperity Through Freedom.” It also explains that the Maharashtra unit did not merge with the Lok Dal in 1974 and seeks registration as a state party confined to Maharashtra.
+
+The attached Statement of Principles, adopted at the party’s 1959 Bombay convention, advocates social justice and equal opportunity alongside maximum individual freedom and limited state intervention. The principles call for decentralized economic development, private and small-scale industry, restrained taxation and public expenditure, opposition to inflationary finance and excessive bureaucracy, employment creation, collective bargaining, judicial independence, protection from political pressure, and freedom of opinion within the party. The document also invokes Gandhi’s teaching on faith, truth, and non-violence. The final pages are postal material documenting dispatch and receipt; they do not add substantive political argument.
+
 ## Key points
 
 - The Maharashtra Swatantra Party requests registration with the Election Commission of India in August 1989.

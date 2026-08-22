@@ -45,6 +45,10 @@ summary: |-
   This single-page letter from C. Rajagopalachari, dated 6 June 1964, acknowledges a letter from Sri R.V.S. Mani dated 5 June and expresses appreciation for Mani's thought. Rajagopalachari then questions whether any useful point can still be raised at that stage, asking, "Have you any notion?"
 ---
 
+## Summary
+
+This single-page letter from C. Rajagopalachari, dated 6 June 1964, acknowledges a letter from Sri R.V.S. Mani dated 5 June and expresses appreciation for Mani's thought. Rajagopalachari then questions whether any useful point can still be raised at that stage, asking, "Have you any notion?"
+
 ## Key points
 
 - The letter was written by C. Rajagopalachari on 6 June 1964.

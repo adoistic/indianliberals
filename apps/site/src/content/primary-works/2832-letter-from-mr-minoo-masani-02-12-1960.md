@@ -49,6 +49,12 @@ summary: |-
   Masani explains that, when the Swatantra Party parliamentary group was established earlier in 1960, the party had sent newspapers the relevant information and the names of its members. He asks Mankekar to instruct the paper's parliamentary correspondent to identify members of the group as belonging to the Swatantra Party in future parliamentary reporting.
 ---
 
+## Summary
+
+In this letter dated December 2, 1960, Minoo Masani writes from New Delhi to D. R. Mankekar, editor of the Indian Express, about inaccurate descriptions of Swatantra Party parliamentarians in the newspaper's reports. Masani notes that Professor Ranga was described as an Independent in a report on the Companies Bill, while Masani himself was similarly described in coverage of the Preventive Detention Act.
+
+Masani explains that, when the Swatantra Party parliamentary group was established earlier in 1960, the party had sent newspapers the relevant information and the names of its members. He asks Mankekar to instruct the paper's parliamentary correspondent to identify members of the group as belonging to the Swatantra Party in future parliamentary reporting.
+
 ## Key points
 
 - Masani protests newspaper reports that misidentified Swatantra Party parliamentarians as Independents.

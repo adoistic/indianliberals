@@ -50,6 +50,12 @@ summary: |-
   The report presents Masani's resignation as a protest against what he regarded as inadequate party discipline and ineffective action by the National Executive. It says he criticised the party's failure to respond to reported indiscipline, argued that the Swatantra Party was becoming cynical about its own organisational practices, and urged Dandekar to report the resignation to the General Council meeting in Madras. The article also says Masani objected to an alleged decision to take no serious action against expelled members and questioned the party's ability to remain outside executive and parliamentary processes while continuing to influence public affairs.
 ---
 
+## Summary
+
+This one-page Statesman report, dated 15 May 1968, says M. R. Masani had made his decision to resign from both the Swatantra Party's Central Parliamentary Board and its National Executive. In a letter to the party's General Secretary, N. Dandekar, Masani reportedly linked his decision to disciplinary action taken against Swatantra members in Gujarat after the Rajya Sabha elections, including the setting up of rival candidates and alleged support for a candidate opposed by the party's High Command.
+
+The report presents Masani's resignation as a protest against what he regarded as inadequate party discipline and ineffective action by the National Executive. It says he criticised the party's failure to respond to reported indiscipline, argued that the Swatantra Party was becoming cynical about its own organisational practices, and urged Dandekar to report the resignation to the General Council meeting in Madras. The article also says Masani objected to an alleged decision to take no serious action against expelled members and questioned the party's ability to remain outside executive and parliamentary processes while continuing to influence public affairs.
+
 ## Key points
 
 - M. R. Masani reportedly decided to resign from the Swatantra Party's Central Parliamentary Board and National Executive.

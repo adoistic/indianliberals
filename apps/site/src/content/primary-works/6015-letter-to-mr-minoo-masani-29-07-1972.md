@@ -52,6 +52,12 @@ summary: |-
   Narayan argues that steel works cannot be decentralised, but suggests that other Tata industrial enterprises might be moved from metropolitan centres to the countryside. He identifies engineering as one possible example and calls for qualified members of the Tata Group in Bombay to consider the proposal. The letter also encloses a draft by Dada Kripalani on India’s economic situation, which Narayan regards as unoriginal but potentially useful for Masani’s statement.
 ---
 
+## Summary
+
+This one-page letter from Jayaprakash Narayan to Minoo Masani discusses an impending meeting on the “Social Responsibilities of Business.” Narayan forwards correspondence involving J. R. D. Tata, Arvind Mafatlal, and R. S. Pande, and hopes that his letter will help the meeting reach a consensus. He particularly highlights Mafatlal’s efforts as unusual and deserving of closer examination.
+
+Narayan argues that steel works cannot be decentralised, but suggests that other Tata industrial enterprises might be moved from metropolitan centres to the countryside. He identifies engineering as one possible example and calls for qualified members of the Tata Group in Bombay to consider the proposal. The letter also encloses a draft by Dada Kripalani on India’s economic situation, which Narayan regards as unoriginal but potentially useful for Masani’s statement.
+
 ## Key points
 
 - Narayan writes to Masani about J. R. D. Tata’s memorandum and related correspondence.

@@ -50,6 +50,12 @@ summary: |-
   The telegram refers to legal and moral commitments involving Hony Modys and other associates, states that credit has been arranged from the Central Bank for party purposes, and objects to being made personally liable for approximately Rs. 2,80,000. Singh asks Masani to convene an urgent meeting of the Parliamentary Subcommittee and requests that payments of Rs. 75,000 for Darbhanga and Rs. 25,000 each for Saharsa and Purnea be stayed pending the committee's decision, in order to avoid complications and unpleasantness between the two parties.
 ---
 
+## Summary
+
+This two-page English-language telegram, dated 25 December 1961, is addressed to M. R. Masani at the Swatantra Party office in Bombay. The sender, identified at the foot as Kamikahayana Singh, responds to Masani's letter of 21 December concerning proposed repayment arrangements and personal financial liability.
+
+The telegram refers to legal and moral commitments involving Hony Modys and other associates, states that credit has been arranged from the Central Bank for party purposes, and objects to being made personally liable for approximately Rs. 2,80,000. Singh asks Masani to convene an urgent meeting of the Parliamentary Subcommittee and requests that payments of Rs. 75,000 for Darbhanga and Rs. 25,000 each for Saharsa and Purnea be stayed pending the committee's decision, in order to avoid complications and unpleasantness between the two parties.
+
 ## Key points
 
 - The telegram is dated 25 December 1961 and is addressed to M. R. Masani at the Swatantra Party office in Bombay.

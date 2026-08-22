@@ -54,6 +54,12 @@ summary: |-
   The enclosed programme presents youth political activism as a response to student unrest, unemployment, inflation, violence, and what it describes as threats to constitutional government. Swatantra Youth is tasked with promoting national unity, combating communal hatred, defending democratic institutions, the Constitution, the Supreme Court, and fundamental rights, and advocating an economic policy centred on employment, stable prices, increased production, and equality of opportunity. Its practical work includes debates and study circles, social service and adult education, party propaganda, voter registration, election canvassing, and assistance with party meetings. The document also establishes membership for people aged above 16 and below 35, subscription fees, a national office in Bhubaneswar, and a hierarchical structure of national, state, regional, district, and constituency bodies.
 ---
 
+## Summary
+
+Dated January 6, 1971, this General Secretary’s Letter No. 256 from the Swatantra Party headquarters, signed by R.C. Cooper, announces the formation of Swatantra Youth. Cooper reports that the party’s National Executive authorised him and the president, M.R. Masani, to settle the youth organisation’s aims, objectives, and rules after a preparatory convention held in October 1970. The letter urges regional and state members to organise youth groups and support Swatantra Party candidates in the forthcoming general elections.
+
+The enclosed programme presents youth political activism as a response to student unrest, unemployment, inflation, violence, and what it describes as threats to constitutional government. Swatantra Youth is tasked with promoting national unity, combating communal hatred, defending democratic institutions, the Constitution, the Supreme Court, and fundamental rights, and advocating an economic policy centred on employment, stable prices, increased production, and equality of opportunity. Its practical work includes debates and study circles, social service and adult education, party propaganda, voter registration, election canvassing, and assistance with party meetings. The document also establishes membership for people aged above 16 and below 35, subscription fees, a national office in Bhubaneswar, and a hierarchical structure of national, state, regional, district, and constituency bodies.
+
 ## Key points
 
 - The letter announces the settled aims and organisational rules of Swatantra Youth following an October 1970 preparatory convention.

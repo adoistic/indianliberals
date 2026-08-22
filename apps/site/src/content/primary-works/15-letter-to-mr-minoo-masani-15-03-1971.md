@@ -54,6 +54,12 @@ summary: |-
   The letter argues that middle-class participation is constrained by work and domestic responsibilities, particularly for women, who are said to have little time for political activity. It proposes that only a strong sense of purpose and duty could make political engagement possible, estimating that 30–35 percent of the population may not have exercised the franchise. The writer also urges leaders such as Masani to organise active political resistance and concludes by expressing sorrow over the election result and concern for millions of people across the country.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 15 March 1971 and addressed to Minoo Masani, reflects on the recent election outcome and the writer’s distrust of politicians, whom they describe as generally driven by power and corruption, with only a few exceptions. The writer questions whether the result signals a change in the country’s political direction and asks why the “intelligentsia” and especially middle-class leadership at the centre have not produced a more effective political response.
+
+The letter argues that middle-class participation is constrained by work and domestic responsibilities, particularly for women, who are said to have little time for political activity. It proposes that only a strong sense of purpose and duty could make political engagement possible, estimating that 30–35 percent of the population may not have exercised the franchise. The writer also urges leaders such as Masani to organise active political resistance and concludes by expressing sorrow over the election result and concern for millions of people across the country.
+
 ## Key points
 
 - The writer is disappointed by the outcome of the recent elections and doubts whether it represents a meaningful political change.

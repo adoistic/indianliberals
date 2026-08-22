@@ -53,6 +53,12 @@ summary: |-
   The committee nominated P. H. Bheel to the Estimates Committee and Sardar Buta Singh to the Public Accounts Committee. Professor Ranga was asked to speak on the Party’s resolution concerning monopoly procurement and zonal restrictions affecting the movement of foodgrains. Krishanpal Singh and P. K. Deo were assigned to speak on demands for railway grants. The meeting concluded with a vote of thanks to the chair.
 ---
 
+## Summary
+
+This one-page record documents a meeting of the Swatantra Party Parliamentary Group’s Executive Committee, held in the Party Committee Room, Central Hall, Parliament House, New Delhi, at 10:15 a.m. on Wednesday, 10 March 1966. M. R. Masani chaired the meeting, and eight members are listed as present, with Kapur Singh serving as secretary. Masani briefed the members on the Party’s intended line during that day’s Budget debate.
+
+The committee nominated P. H. Bheel to the Estimates Committee and Sardar Buta Singh to the Public Accounts Committee. Professor Ranga was asked to speak on the Party’s resolution concerning monopoly procurement and zonal restrictions affecting the movement of foodgrains. Krishanpal Singh and P. K. Deo were assigned to speak on demands for railway grants. The meeting concluded with a vote of thanks to the chair.
+
 ## Key points
 
 - The Executive Committee meeting took place on 10 March 1966 at Parliament House in New Delhi.

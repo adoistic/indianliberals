@@ -47,6 +47,12 @@ summary: |-
   The letter emphasizes limiting knowledge of the matter even among mutual friends Ranga and Munshi. Masani says he had mentioned the matter to Rajagopalachari but would explain it fully in a subsequent letter, because Bhailalbhai feared that any hint of it might upset “the applicant.”
 ---
 
+## Summary
+
+In this confidential letter dated March 16, 1963, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about an enclosed letter posted to Sivaraj. Masani reports that Bhailalbhai was pleased to receive Rajagopalachari’s reply and anxious that the matter remain strictly private.
+
+The letter emphasizes limiting knowledge of the matter even among mutual friends Ranga and Munshi. Masani says he had mentioned the matter to Rajagopalachari but would explain it fully in a subsequent letter, because Bhailalbhai feared that any hint of it might upset “the applicant.”
+
 ## Key points
 
 - The document is a confidential personal letter from M. R. Masani to C. Rajagopalachari.

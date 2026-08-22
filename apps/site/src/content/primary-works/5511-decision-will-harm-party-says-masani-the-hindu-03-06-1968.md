@@ -53,6 +53,12 @@ summary: |-
   The clippings also record the party’s institutional and electoral concerns. Only 69 of 170 General Council members attended the meeting, and reports describe disagreement over resolutions intended to restore Masani to the executive, investigate Gujarat leadership, and discipline legislators who defected. Masani said his future work would involve educating party members, strengthening idealism and discipline, and countering demoralisation. The reports further note electoral reverses in Haryana, Rajasthan, and Gujarat, as well as a request to postpone West Bengal mid-term elections because communist parties might otherwise gain ground. The compilation consists of contemporaneous press coverage rather than a formally authored publication; no material beyond these five rendered pages was missing.
 ---
 
+## Summary
+
+This five-page archival compilation of newspaper reports from The Hindu and The Times of India documents a June 1968 crisis within the Swatantra Party, centered on M. R. Masani’s resignation from the party’s National Executive and Central Parliamentary Board. Masani declined proposals to return, after the party’s Gujarat unit lost an official Rajya Sabha candidacy and was accused of indiscipline. The reports present competing assessments: General Secretary N. Dandekar described the party as having moved beyond its difficulties, while Masani said it remained at a crossroads and warned that recent decisions would damage the party’s growth and public standing.
+
+The clippings also record the party’s institutional and electoral concerns. Only 69 of 170 General Council members attended the meeting, and reports describe disagreement over resolutions intended to restore Masani to the executive, investigate Gujarat leadership, and discipline legislators who defected. Masani said his future work would involve educating party members, strengthening idealism and discipline, and countering demoralisation. The reports further note electoral reverses in Haryana, Rajasthan, and Gujarat, as well as a request to postpone West Bengal mid-term elections because communist parties might otherwise gain ground. The compilation consists of contemporaneous press coverage rather than a formally authored publication; no material beyond these five rendered pages was missing.
+
 ## Key points
 
 - M. R. Masani declined re-election to the Swatantra Party’s National Executive and Central Parliamentary Board.

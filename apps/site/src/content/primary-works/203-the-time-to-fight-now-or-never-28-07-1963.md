@@ -52,6 +52,10 @@ summary: |-
   In this newspaper article, M. R. Masani argues that India must reject what he presents as China's coercive ultimatum and resist any settlement that would leave the country militarily or diplomatically weakened. He describes the Chinese advance and the proposed withdrawal arrangement as evidence of a broader Communist strategy, warning that accepting the ultimatum would compromise India's security and national honour. The article also criticises political interference in military affairs and urges the government to give commanders freedom to respond effectively on the frontier.
 ---
 
+## Summary
+
+In this newspaper article, M. R. Masani argues that India must reject what he presents as China's coercive ultimatum and resist any settlement that would leave the country militarily or diplomatically weakened. He describes the Chinese advance and the proposed withdrawal arrangement as evidence of a broader Communist strategy, warning that accepting the ultimatum would compromise India's security and national honour. The article also criticises political interference in military affairs and urges the government to give commanders freedom to respond effectively on the frontier.
+
 ## Key points
 
 - Masani treats the Chinese ultimatum and military pressure as an attempt to impose terms on India.

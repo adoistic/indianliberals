@@ -50,6 +50,10 @@ summary: |-
   This one-page office record, issued by the Swatantra Party Parliamentary Office in New Delhi on August 21, 1968, records a meeting of the party’s General Body in Parliament held on August 19. It lists 31 members as present, including M. R. Masani, C. C. Desai, S. K. Tapuriah, Rajah Venkatappa Naik, Devi Singh, and D. N. Patodia.
 ---
 
+## Summary
+
+This one-page office record, issued by the Swatantra Party Parliamentary Office in New Delhi on August 21, 1968, records a meeting of the party’s General Body in Parliament held on August 19. It lists 31 members as present, including M. R. Masani, C. C. Desai, S. K. Tapuriah, Rajah Venkatappa Naik, Devi Singh, and D. N. Patodia.
+
 ## Key points
 
 - The meeting was held in Room No. 62 at 10 A.M. on Monday, August 19, 1968.

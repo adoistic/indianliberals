@@ -49,6 +49,10 @@ summary: |-
   In this letter dated June 22, 1974, S. V. Raju writes to Girish about Piloo Mody’s letter to the Swatantra Party’s General Council. Raju argues that Mody has failed to meet C. Rajagopalachari’s expectations and is seeking to dissolve the existing party in favour of a new political formation. He maintains that the need for a national alternative is not a new idea, but insists that such an alternative must be genuinely democratic and supported by other major national opposition parties.
 ---
 
+## Summary
+
+In this letter dated June 22, 1974, S. V. Raju writes to Girish about Piloo Mody’s letter to the Swatantra Party’s General Council. Raju argues that Mody has failed to meet C. Rajagopalachari’s expectations and is seeking to dissolve the existing party in favour of a new political formation. He maintains that the need for a national alternative is not a new idea, but insists that such an alternative must be genuinely democratic and supported by other major national opposition parties.
+
 ## Key points
 
 - Raju criticises Piloo Mody’s political leadership and his attempt to justify dissolving the Swatantra Party.

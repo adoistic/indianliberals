@@ -49,6 +49,12 @@ summary: |-
   Masani expresses hope that Singh will now be able to act on the matter, referring to the final sentence of Singh’s earlier letter of 6 February. The document records a specific effort to secure Opposition representation in a trade-advisory body; it contains no broader discussion of trade policy or foreign policy.
 ---
 
+## Summary
+
+In this one-page letter dated 22 February 1968, M. R. Masani writes from New Delhi to Dinesh Singh, then Minister of Commerce. Masani reports that the Whips Committee, representing all Opposition groups, has decided that N. K. Somani of Masani’s party and N. Rajaram of the D.M.K. should be included in the Advisory Council on Trade.
+
+Masani expresses hope that Singh will now be able to act on the matter, referring to the final sentence of Singh’s earlier letter of 6 February. The document records a specific effort to secure Opposition representation in a trade-advisory body; it contains no broader discussion of trade policy or foreign policy.
+
 ## Key points
 
 - The letter is dated 22 February 1968 and was sent from 2 Tughlaq Road, New Delhi.

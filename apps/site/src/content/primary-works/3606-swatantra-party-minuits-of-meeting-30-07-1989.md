@@ -54,6 +54,12 @@ summary: |-
   The resolution affirms the party’s loyalty to the Constitution, democracy, and India’s integrity, while qualifying the statutory requirements concerning secularism and socialism. It defines secularism as equal respect for all religions and rejects a compulsory oath to socialism because the term has multiple meanings; instead, the party affirms social justice. The council authorised its president to write to the Election Commission without prejudice to the party’s right to challenge the law.
 ---
 
+## Summary
+
+These minutes record an extraordinary meeting of the Maharashtra State Council of the Swatantra Party held on 30 July 1989. The council discussed the amended Representation of the People’s Act and the Election Commission of India’s guidelines requiring political parties to register. The resolution argues that the Election Commission’s authority concerns the conduct of elections, not the formation or functioning of political parties, and questions the validity of the registration requirement.
+
+The resolution affirms the party’s loyalty to the Constitution, democracy, and India’s integrity, while qualifying the statutory requirements concerning secularism and socialism. It defines secularism as equal respect for all religions and rejects a compulsory oath to socialism because the term has multiple meanings; instead, the party affirms social justice. The council authorised its president to write to the Election Commission without prejudice to the party’s right to challenge the law.
+
 ## Key points
 
 - The meeting considered registration requirements for political parties under an amendment to the Representation of the People’s Act.

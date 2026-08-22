@@ -48,6 +48,10 @@ summary: |-
   This one-page extract from the House of the People Debates, dated 23 April 1953, records Shri T. T. Krishnamachari's intervention on the Salaries and Allowances of Officers of Parliament Bill. Krishnamachari argues that the Deputy Speaker and the other parliamentary officers should be treated as whole-time officers once they receive a salary.
 ---
 
+## Summary
+
+This one-page extract from the House of the People Debates, dated 23 April 1953, records Shri T. T. Krishnamachari's intervention on the Salaries and Allowances of Officers of Parliament Bill. Krishnamachari argues that the Deputy Speaker and the other parliamentary officers should be treated as whole-time officers once they receive a salary.
+
 ## Key points
 
 - The extract concerns the status and remuneration of officers of Parliament.

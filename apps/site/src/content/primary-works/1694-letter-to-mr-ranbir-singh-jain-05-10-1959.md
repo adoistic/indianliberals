@@ -47,6 +47,12 @@ summary: |-
   The letter also responds to Jain’s suggestion that the party open an office in Delhi. It notes that the necessary action has already been taken and that a provisional committee, led by Sardar Lal Singh, has been appointed. The sender says they are not planning to visit Madintal soon but would be pleased to meet Jain if he happens to come to Bombay. The sender’s identity and signature are not visible on the page.
 ---
 
+## Summary
+
+This one-page letter, dated 5 October 1959, thanks Ranbir Singh Jain for his earlier correspondence and welcomes his interest in the fortunes of the Swatantra Party. The unnamed sender reports that the party is organising regional committees and conducting a membership drive, indicating an early phase of institutional expansion.
+
+The letter also responds to Jain’s suggestion that the party open an office in Delhi. It notes that the necessary action has already been taken and that a provisional committee, led by Sardar Lal Singh, has been appointed. The sender says they are not planning to visit Madintal soon but would be pleased to meet Jain if he happens to come to Bombay. The sender’s identity and signature are not visible on the page.
+
 ## Key points
 
 - The letter is dated 5 October 1959 and addressed to Ranbir Singh Jain.

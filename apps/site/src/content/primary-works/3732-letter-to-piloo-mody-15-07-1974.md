@@ -49,6 +49,12 @@ summary: |-
   Masani frames their disagreement as a difference over the nature of politics in contemporary India. He accepts that each will follow his own political “natural bent” and identifies Jayaprakash Narayan as the political company he has chosen, contrasting this with Mody's choice of Biju Patnaik. The letter therefore records an internal political divergence while maintaining a civil, personal tone.
 ---
 
+## Summary
+
+In this one-page letter dated July 15, 1974, M. R. Masani replies to Piloo Mody's letter of July 11. Masani dismisses Mody's arguments as relying on “diversionary red herrings, unfounded assumptions and half-truths,” and says that he sees no purpose in responding point by point.
+
+Masani frames their disagreement as a difference over the nature of politics in contemporary India. He accepts that each will follow his own political “natural bent” and identifies Jayaprakash Narayan as the political company he has chosen, contrasting this with Mody's choice of Biju Patnaik. The letter therefore records an internal political divergence while maintaining a civil, personal tone.
+
 ## Key points
 
 - The document is M. R. Masani's reply to Piloo Mody's letter of July 11, 1974.

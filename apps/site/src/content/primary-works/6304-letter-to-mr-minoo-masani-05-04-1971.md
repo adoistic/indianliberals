@@ -51,6 +51,12 @@ summary: |-
   The sender urges Masani to reconsider. As chairman, Masani is asked to take a more active role in encouraging disheartened and frustrated party cadres and workers, and in rebuilding the party from its “basic ranks” and “file levels.” The letter frames the party’s difficulties as especially serious at a moment when Indian democracy is described as being in peril, and closes by appealing to Masani’s judgment and leadership.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 5 April 1971, is addressed to M. R. Masani after his resignation from the chairmanship of the All-India Swatantra Party. The unidentified sender says the resignation is both astonishing and saddening, recalling that Masani had been unanimously elected about sixteen months earlier and expressing hope that the party had reached a turning point.
+
+The sender urges Masani to reconsider. As chairman, Masani is asked to take a more active role in encouraging disheartened and frustrated party cadres and workers, and in rebuilding the party from its “basic ranks” and “file levels.” The letter frames the party’s difficulties as especially serious at a moment when Indian democracy is described as being in peril, and closes by appealing to Masani’s judgment and leadership.
+
 ## Key points
 
 - The letter is dated 5 April 1971 and addressed to M. R. Masani in Bombay.

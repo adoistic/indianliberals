@@ -63,6 +63,12 @@ summary: |-
   In the rendered pages, the report also records the Party’s preparations for the 1967 elections, including candidate selection, electoral understandings with other opposition parties, proposals for terminating the Emergency, and opposition to the 17th Constitutional Amendment. It reports parliamentary interventions on food, prices, foreign policy, defence, gold control, and taxation, as well as campaigns on behalf of peasants and goldsmiths. The report lists Party publications, electoral results, organisational statistics, obituaries of senior figures, and the Party’s growing parliamentary role. The rendered material ends during the section on Party activity, after discussion of the “Anti-Excessive Taxation Day” and “Demands Day”; the remainder of the 35-page report was not rendered.
 ---
 
+## Summary
+
+The Swatantra Party’s General Secretary’s Report for its Fourth National Convention in New Delhi reviews the Party’s organisation and political work from the Third National Convention in Bangalore in February 1964 through the period immediately preceding the 1967 General Elections. In the rendered pages, the report describes the transformation from a mass party into a cadre party, the introduction of active membership and worker-based organisation, the conduct of internal elections, and the activities of the General Council, National Executive, and Central Parliamentary Board. It presents the Party as seeking a disciplined, efficient structure while acknowledging weak membership renewal, inadequate state-level reporting, and difficulties in recruiting candidates.
+
+In the rendered pages, the report also records the Party’s preparations for the 1967 elections, including candidate selection, electoral understandings with other opposition parties, proposals for terminating the Emergency, and opposition to the 17th Constitutional Amendment. It reports parliamentary interventions on food, prices, foreign policy, defence, gold control, and taxation, as well as campaigns on behalf of peasants and goldsmiths. The report lists Party publications, electoral results, organisational statistics, obituaries of senior figures, and the Party’s growing parliamentary role. The rendered material ends during the section on Party activity, after discussion of the “Anti-Excessive Taxation Day” and “Demands Day”; the remainder of the 35-page report was not rendered.
+
 ## Key points
 
 - The report covers the period from the Third National Convention in February 1964 to the Fourth Convention in December 1966.

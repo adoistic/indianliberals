@@ -49,6 +49,12 @@ summary: |-
   Rajagopalachari says that his ill health prevents him from offering more active or concrete advice, and asks Masani, H. M. Patel, Lobo Probhu, and others to assume responsibility for decisions and action. He notes that he has separately written to Desai, marking the enclosed copy as not for publication and supplying it to Masani for personal information. The letter also mentions Sundaram of Coimbatore's serious illness and reports that Mariswami is inclined to let the crisis continue, while indicating that Mariswami is expected to attend a meeting in Delhi on 11 April.
 ---
 
+## Summary
+
+In this letter dated 9 April 1970, C. Rajagopalachari responds to M. R. Masani's concerns about C. C. Desai's conduct and its possible consequences for the Gujarat Swatantra Party. Rajagopalachari agrees that Indira Gandhi's faction may absorb the party and acquire control of Gujarat, and endorses National Headquarters' view that severe action should be taken against Desai despite the unfortunate circumstances.
+
+Rajagopalachari says that his ill health prevents him from offering more active or concrete advice, and asks Masani, H. M. Patel, Lobo Probhu, and others to assume responsibility for decisions and action. He notes that he has separately written to Desai, marking the enclosed copy as not for publication and supplying it to Masani for personal information. The letter also mentions Sundaram of Coimbatore's serious illness and reports that Mariswami is inclined to let the crisis continue, while indicating that Mariswami is expected to attend a meeting in Delhi on 11 April.
+
 ## Key points
 
 - Rajagopalachari agrees with Masani's apprehension about C. C. Desai's attitude and activities.

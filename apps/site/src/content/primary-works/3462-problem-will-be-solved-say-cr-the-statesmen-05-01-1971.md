@@ -51,6 +51,12 @@ summary: |-
   Rajagopalachari said the matter would be settled at the forthcoming meeting of the Swatantra Party’s national executive in Madras. He anticipated a combined opposition to Indira Gandhi and her allies, bringing together all democratic parties. The clipping ends before the full report is visible.
 ---
 
+## Summary
+
+This short Statesman report, datelined Madras, records C. Rajagopalachari’s confidence that the political problem created by efforts to form a national front of democratic parties excluding the Swatantra Party would soon be resolved. Rajagopalachari described M. R. Masani’s decision not to sign a joint declaration after talks with Congress (O), Jana Sangh, and the SSP as “natural.”
+
+Rajagopalachari said the matter would be settled at the forthcoming meeting of the Swatantra Party’s national executive in Madras. He anticipated a combined opposition to Indira Gandhi and her allies, bringing together all democratic parties. The clipping ends before the full report is visible.
+
 ## Key points
 
 - The report describes C. Rajagopalachari’s response to plans for a national front of democratic parties excluding the Swatantra Party.

@@ -57,6 +57,12 @@ summary: |-
   The committee decided not to take a position on a Jan Sangh motion seeking statehood for Delhi. It discussed opposition to further bureaucratic control over nationalised banks, proposed a limit on farmers’ interest rates relative to the bank rate, and asked Mr. Patodia to draft amendments. The minutes also record opposition to formal legislation defining the powers of Governors, the appointment of a sub-committee to examine private members’ bills, a decision to avoid controversy over a Delhi University lecturer until a university sub-committee reported, and a directive that all Rajya Sabha business be discussed by the Executive Committee. Attendance on important divisions was also stressed.
 ---
 
+## Summary
+
+These two pages record the Swatantra Party Executive Committee and Parliamentary Party meeting held at Central Hall, Parliament House, New Delhi, on November 27, 1970. The minutes list those present and assign party members to speak on parliamentary business, including bills concerning food adulteration, drugs and cosmetics, handloom industries, national service, national honour, university grants, sports policy, backwardness in Uttar Pradesh, and supplementary demands.
+
+The committee decided not to take a position on a Jan Sangh motion seeking statehood for Delhi. It discussed opposition to further bureaucratic control over nationalised banks, proposed a limit on farmers’ interest rates relative to the bank rate, and asked Mr. Patodia to draft amendments. The minutes also record opposition to formal legislation defining the powers of Governors, the appointment of a sub-committee to examine private members’ bills, a decision to avoid controversy over a Delhi University lecturer until a university sub-committee reported, and a directive that all Rajya Sabha business be discussed by the Executive Committee. Attendance on important divisions was also stressed.
+
 ## Key points
 
 - The Swatantra Party’s Executive Committee and Parliamentary Party met in New Delhi on November 27, 1970.

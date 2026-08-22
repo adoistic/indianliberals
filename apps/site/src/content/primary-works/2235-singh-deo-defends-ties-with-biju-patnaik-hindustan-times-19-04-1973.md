@@ -51,6 +51,12 @@ summary: |-
   Singh Deo rejected Masani’s suggestion that the association was politically damaging, arguing that the Orissa unit represented a constituent of the Orissa Pragati Party and that its leaders hoped to capture power in Delhi in 1976. He also defended Patnaik against criticism concerning the Khanna Commission and the Orissa Vigilance Department, citing Patnaik’s subsequent electoral victory. The clipping ends mid-sentence, so the report’s conclusion is not visible.
 ---
 
+## Summary
+
+This Hindustan Times report from Bhubaneswar describes Swatantra leader R. N. Singh Deo’s defence of his political association with Biju Patnaik after Minoo Masani criticised the Swatantra Party’s leadership at its national convention. Singh Deo said that he had joined hands with Patnaik in forming the Orissa Pragati Party and in bringing Patnaik into the state ministry in March 1973.
+
+Singh Deo rejected Masani’s suggestion that the association was politically damaging, arguing that the Orissa unit represented a constituent of the Orissa Pragati Party and that its leaders hoped to capture power in Delhi in 1976. He also defended Patnaik against criticism concerning the Khanna Commission and the Orissa Vigilance Department, citing Patnaik’s subsequent electoral victory. The clipping ends mid-sentence, so the report’s conclusion is not visible.
+
 ## Key points
 
 - R. N. Singh Deo defended his political ties with Biju Patnaik after criticism from Minoo Masani.

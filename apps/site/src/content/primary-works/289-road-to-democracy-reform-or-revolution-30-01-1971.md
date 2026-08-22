@@ -59,6 +59,12 @@ summary: |-
   Masani presents reform—not revolution—as the preferred route to recovery, but warns that reform requires a genuine “U” turn: reduced non-productive expenditure, lower taxation, an end to deficit financing, higher productivity, and population control. He also calls for electoral reform, arguing that India’s inherited first-past-the-post system has repeatedly produced governments lacking majority support. The final pages distinguish democracy from mere majority rule and emphasize a free society, grassroots leadership, moral courage, and the possibility of a non-violent democratic transformation led by Jayaprakash Narayan. The article closes by warning that if reform fails, history may make revolution unavoidable.
 ---
 
+## Summary
+
+In this four-page essay, M. R. Masani argues that India’s economic and political difficulties are the result of two decades of statist policy, central planning, excessive controls, and weak democratic institutions. He identifies the “bane of statism” with an overextended state and distinguishes democratic socialism from Marxist state domination, while citing Singapore, West Germany, and Solzhenitsyn’s critique of Marxism as points of comparison. Masani contends that the Second Five Year Plan and its associated planframe established priorities contrary to both economic laws and human nature, producing inflation, stagnation, unemployment, shortages, and declining productive capacity.
+
+Masani presents reform—not revolution—as the preferred route to recovery, but warns that reform requires a genuine “U” turn: reduced non-productive expenditure, lower taxation, an end to deficit financing, higher productivity, and population control. He also calls for electoral reform, arguing that India’s inherited first-past-the-post system has repeatedly produced governments lacking majority support. The final pages distinguish democracy from mere majority rule and emphasize a free society, grassroots leadership, moral courage, and the possibility of a non-violent democratic transformation led by Jayaprakash Narayan. The article closes by warning that if reform fails, history may make revolution unavoidable.
+
 ## Key points
 
 - Masani attributes India’s economic crisis to statist policies and excessive state control over economic life.

@@ -49,6 +49,12 @@ summary: |-
   A central proposal is that every student aged 10 to 21 should keep a “Progress Book.” The letter argues that this record would have a psychological effect on students, as well as on their parents and guardians, and would supplement existing efforts to improve student health and discipline. The page closes with B. K. Gokhale’s handwritten signature and the place-name Poona.
 ---
 
+## Summary
+
+This single-page English letter, dated 16 December 1960 and addressed to Shri M. R. Masani at the Personnel & Productivity Service in Bombay, forwards an attached note titled “On education.” The note proposes measures intended to encourage students to improve their own health and discipline through a psychological approach rather than through appreciable additional expenditure.
+
+A central proposal is that every student aged 10 to 21 should keep a “Progress Book.” The letter argues that this record would have a psychological effect on students, as well as on their parents and guardians, and would supplement existing efforts to improve student health and discipline. The page closes with B. K. Gokhale’s handwritten signature and the place-name Poona.
+
 ## Key points
 
 - The document is a letter dated 16 December 1960 from B. K. Gokhale, I.C.S. (Retd.), to M. R. Masani.

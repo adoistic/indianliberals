@@ -52,6 +52,12 @@ summary: |-
   The letter also records the Board’s foreign-policy position. It considered the Government’s policy toward Chinese aggression too weak and urged greater firmness. Party members were to oppose the I.T.G. Deal, which the Board regarded as economically illusory and dependent on Soviet jet planes and spare parts. The visible continuation on page 2 argues that, despite divisions, the alliance between the Soviet and Chinese governments would hold. The summary is based on the complete two-page document; no pages are missing from this letter.
 ---
 
+## Summary
+
+In this two-page letter dated 3 August 1962, M. R. Masani reports to Dahyabhai V. Patel on decisions taken at the Parliamentary Board meeting in Madras on 21–22 July. The Board resolved to retain the existing nominations of office-bearers for the Rajya Sabha’s August–September session, urged party members to clear arrears and make regular monthly contributions, and authorised the Central Office to appoint a Research Assistant for the parliamentary group at a salary of up to Rs. 500 per month. Masani recommends that A. P. Jain be interviewed for the post, noting his alertness and intelligence and his four years’ experience working with Pandit H. N. Kunzru.
+
+The letter also records the Board’s foreign-policy position. It considered the Government’s policy toward Chinese aggression too weak and urged greater firmness. Party members were to oppose the I.T.G. Deal, which the Board regarded as economically illusory and dependent on Soviet jet planes and spare parts. The visible continuation on page 2 argues that, despite divisions, the alliance between the Soviet and Chinese governments would hold. The summary is based on the complete two-page document; no pages are missing from this letter.
+
 ## Key points
 
 - The Parliamentary Board decided not to change the party’s Rajya Sabha office-bearer nominations for the August–September 1962 session.

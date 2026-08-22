@@ -46,6 +46,10 @@ summary: |-
   A brief thank-you note from M. R. Masani to Mr. A. Latif of Premier Dyes & Chemicals, Bombay, dated 4th March 1971. Masani acknowledges Latif's trip to Dhoraji and the assistance he rendered during the election, expressing gratitude for the trouble taken. The letter is a single paragraph of routine political correspondence and carries no substantive argument beyond the acknowledgement itself.
 ---
 
+## Summary
+
+A brief thank-you note from M. R. Masani to Mr. A. Latif of Premier Dyes & Chemicals, Bombay, dated 4th March 1971. Masani acknowledges Latif's trip to Dhoraji and the assistance he rendered during the election, expressing gratitude for the trouble taken. The letter is a single paragraph of routine political correspondence and carries no substantive argument beyond the acknowledgement itself.
+
 ## Key points
 
 - Dated 4th March 1971 and addressed to Mr. A. Latif at Premier Dyes & Chemicals, 145/47 Janjikar Street, Bombay 3.

@@ -54,6 +54,12 @@ summary: |-
   The meeting discussed a private members’ resolution on India’s withdrawal from the Commonwealth. The minutes record the view that Britain had played a partisan role in the Indo-Pakistan conflict and had supported Pakistan, but conclude that withdrawal would not serve a national purpose. Other business concerned representation on a proposed parliamentary committee on Punjabi Suba, the party’s participation in consultations convened by the Prime Minister, and internal consultation before members supported initiatives such as atomic-bomb production. Members were also asked to contribute to a Netaji Subhash Chandra Bose portrait committee and the Jawans Welfare Fund. The record ends with thanks to the chair and the signature of P. N. Solanki, secretary.
 ---
 
+## Summary
+
+This one-page set of minutes records a Swatantra Party Parliamentary Office meeting held in the Opposition Members’ Room of Parliament House, New Delhi, on 24 September 1965. Thirteen members were listed as present, with Prof. N. G. Ranga in the chair. P. K. Deo was selected to speak on a cease-fire resolution, while Ranga was to speak later if time permitted.
+
+The meeting discussed a private members’ resolution on India’s withdrawal from the Commonwealth. The minutes record the view that Britain had played a partisan role in the Indo-Pakistan conflict and had supported Pakistan, but conclude that withdrawal would not serve a national purpose. Other business concerned representation on a proposed parliamentary committee on Punjabi Suba, the party’s participation in consultations convened by the Prime Minister, and internal consultation before members supported initiatives such as atomic-bomb production. Members were also asked to contribute to a Netaji Subhash Chandra Bose portrait committee and the Jawans Welfare Fund. The record ends with thanks to the chair and the signature of P. N. Solanki, secretary.
+
 ## Key points
 
 - The meeting was held on 24 September 1965 in Parliament House, New Delhi, with thirteen members recorded as present.

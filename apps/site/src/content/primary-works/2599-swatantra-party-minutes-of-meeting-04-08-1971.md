@@ -50,6 +50,12 @@ summary: |-
   The discussion concerned the proposed membership of Shri M. A. Rizvi, whose suspension for anti-party activities had apparently expired. The committee also considered suggestions on the Rajamannar Committee Report, a challenge to the validity of district-representative elections in Bandra because cumulative voting was not used, and the referral of election complaints to the Election Tribunal. The meeting ended with a vote of thanks to the Chair.
 ---
 
+## Summary
+
+This one-page draft records the 4 August 1971 meeting of the Executive Committee of the Swatantra Party's Bombay Region, held at the party office. The minutes list ten attendees, including Chairman Lolchand Hirachand, and confirm the minutes of the previous meeting held on 14 July.
+
+The discussion concerned the proposed membership of Shri M. A. Rizvi, whose suspension for anti-party activities had apparently expired. The committee also considered suggestions on the Rajamannar Committee Report, a challenge to the validity of district-representative elections in Bandra because cumulative voting was not used, and the referral of election complaints to the Election Tribunal. The meeting ended with a vote of thanks to the Chair.
+
 ## Key points
 
 - The Bombay Region Executive Committee met on 4 August 1971 at the Swatantra Party office.

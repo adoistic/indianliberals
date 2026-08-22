@@ -49,6 +49,10 @@ summary: |-
   This one-page English letter, dated February 4, 1964, is written by Charan Ram of Shri Ram Associates Private Limited to Minoo Masani. Ram says that his companies are considering making donations to the Swatantra Party, alongside the Congress, and asks Masani for a list of public limited companies that contribute to the Swatantra Party and disclose those contributions in their balance sheets. He suggests that such a list could help the party solicit donations from others.
 ---
 
+## Summary
+
+This one-page English letter, dated February 4, 1964, is written by Charan Ram of Shri Ram Associates Private Limited to Minoo Masani. Ram says that his companies are considering making donations to the Swatantra Party, alongside the Congress, and asks Masani for a list of public limited companies that contribute to the Swatantra Party and disclose those contributions in their balance sheets. He suggests that such a list could help the party solicit donations from others.
+
 ## Key points
 
 - The letter is dated February 4, 1964, and is issued on Shri Ram Associates Private Limited letterhead.

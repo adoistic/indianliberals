@@ -50,3 +50,9 @@ summary: |-
   
   In the rendered page, the editorial presents Mrs Gandhi as politically strengthened but morally and institutionally ambiguous: her party appears likely to win a majority eight weeks before the election, yet the editorial questions what kind of government she will lead. It recalls her appeal at the December 1969 Congress session for “new blood,” contrasts that appeal with the continued prominence of established political actors, and concludes that expectations of a clean or incorruptible government are unrealistic.
 ---
+
+## Summary
+
+In the rendered page, the editorial argues that the opposition alliance formed against the Congress—comprising Congress (O), Jan Sangh, Swatantra and the SSP—is unlikely to function effectively because its constituent parties lack the character and cohesion needed for joint electoral arrangements. It predicts prolonged bargaining among candidates and possible state-level adjustments, while observing that Mrs Gandhi has greater flexibility in choosing allies because many voters are inclined to support her regardless of party alignments.
+
+In the rendered page, the editorial presents Mrs Gandhi as politically strengthened but morally and institutionally ambiguous: her party appears likely to win a majority eight weeks before the election, yet the editorial questions what kind of government she will lead. It recalls her appeal at the December 1969 Congress session for “new blood,” contrasts that appeal with the continued prominence of established political actors, and concludes that expectations of a clean or incorruptible government are unrealistic.

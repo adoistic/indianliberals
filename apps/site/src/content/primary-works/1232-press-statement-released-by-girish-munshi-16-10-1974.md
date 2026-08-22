@@ -51,6 +51,12 @@ summary: |-
   The statement records what those present described as an "evident sense of relief" that the figures who had attached to Swatantra "the odium of its being a Party of rich men and Maharajas" were no longer with it, leaving the Party as "a common man's party, as it was intended to be by its founding fathers." Members also welcomed the government's recent measures against smugglers, while cautioning that these should not be exploited to boost the ruling party's electoral fortunes, and extended their full support to the movement launched by Jayaprakash Narayan in Bihar.
 ---
 
+## Summary
+
+A single-page press statement dated 16 October 1974, issued on Maharashtra Swatantra Party letterhead from Sassoon Building, Bombay, and signed by Girish Munshi, General Secretary. Munshi reports the outcome of the party's Executive Meeting held on 12 October 1974 in Bombay, at which members from Bombay City and other parts of Maharashtra welcomed the decision that the Swatantra Party, Maharashtra, would continue to exist as an organised political entity.
+
+The statement records what those present described as an "evident sense of relief" that the figures who had attached to Swatantra "the odium of its being a Party of rich men and Maharajas" were no longer with it, leaving the Party as "a common man's party, as it was intended to be by its founding fathers." Members also welcomed the government's recent measures against smugglers, while cautioning that these should not be exploited to boost the ruling party's electoral fortunes, and extended their full support to the movement launched by Jayaprakash Narayan in Bihar.
+
 ## Key points
 
 - Press statement issued 16 October 1974 on Maharashtra Swatantra Party letterhead (Sassoon Building, Bombay) by General Secretary Girish Munshi.

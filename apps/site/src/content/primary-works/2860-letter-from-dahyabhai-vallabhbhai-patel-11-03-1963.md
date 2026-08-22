@@ -47,6 +47,10 @@ summary: |-
   This one-page English letter, dated 11 March 1963, is a reply to a correspondent who had sent Dahyabhai Vallabhbhai Patel copies of speeches delivered during the current Rajya Sabha session by “our revered leader Rajaji.” Patel praises the speeches, particularly the discussion of the budget, its origins, the measures being taken, and the suggestions advanced in response to them.
 ---
 
+## Summary
+
+This one-page English letter, dated 11 March 1963, is a reply to a correspondent who had sent Dahyabhai Vallabhbhai Patel copies of speeches delivered during the current Rajya Sabha session by “our revered leader Rajaji.” Patel praises the speeches, particularly the discussion of the budget, its origins, the measures being taken, and the suggestions advanced in response to them.
+
 ## Key points
 
 - The letter is dated 11 March 1963 and is written from 68 Marine Drive, Bombay 1.

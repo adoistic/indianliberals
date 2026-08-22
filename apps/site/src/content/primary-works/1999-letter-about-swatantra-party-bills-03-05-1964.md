@@ -50,6 +50,12 @@ summary: |-
   The letter is addressed to Shri M. R. Masani, whose envelope address has been amended by hand to a Bombay address. It is an administrative payment-confirmation notice rather than a political argument or policy document. The sender's signatory is handwritten and not legible in the rendered pages.
 ---
 
+## Summary
+
+This two-page English-language correspondence from Central News Agency, dated May 1964, acknowledges receipt of a letter dated 1 May 1964 and confirms that payment has been received from the Parliamentary Office of the Swatantra Party. The agency states that its bills are now cleared.
+
+The letter is addressed to Shri M. R. Masani, whose envelope address has been amended by hand to a Bombay address. It is an administrative payment-confirmation notice rather than a political argument or policy document. The sender's signatory is handwritten and not legible in the rendered pages.
+
 ## Key points
 
 - Central News Agency responds to a letter dated 1 May 1964.

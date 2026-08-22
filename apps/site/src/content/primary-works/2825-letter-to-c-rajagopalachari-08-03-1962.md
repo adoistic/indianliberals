@@ -50,6 +50,12 @@ summary: |-
   The later pages turn to immediate political strategy. Aney discusses the Swatantra Party’s prospects in the Bombay State elections, the need for cooperation among opposition groups, the likely strength of the Congress in Parliament, and the importance of building an effective parliamentary opposition. He welcomes Rajaji’s proposed visit and says he will join the Bombay gathering, while also discussing the possibility of a Swatantra parliamentary party and the selection of its leader. The letter closes with thanks for Rajaji’s telegram and an expression of concern for his health. The reverse of the final sheet contains largely illegible handwritten notes and is not treated as substantive correspondence.
 ---
 
+## Summary
+
+This untitled letter, written by Dr. M. S. Aney from Nagpur to C. Rajagopalachari (“Rajaji”) on 8 March 1962, begins by thanking Rajaji for his congratulations on Aney’s electoral success. Aney presents the result as a blessing from an “old veteran” who had fought for the motherland, and attributes his own victory to the righteousness of the cause, the exhaustive work of his friends, and divine support. He expresses hope that the people of Vidarbha will soon recognize the force of the political and spiritual movement behind the campaign.
+
+The later pages turn to immediate political strategy. Aney discusses the Swatantra Party’s prospects in the Bombay State elections, the need for cooperation among opposition groups, the likely strength of the Congress in Parliament, and the importance of building an effective parliamentary opposition. He welcomes Rajaji’s proposed visit and says he will join the Bombay gathering, while also discussing the possibility of a Swatantra parliamentary party and the selection of its leader. The letter closes with thanks for Rajaji’s telegram and an expression of concern for his health. The reverse of the final sheet contains largely illegible handwritten notes and is not treated as substantive correspondence.
+
 ## Key points
 
 - Aney thanks Rajaji for congratulations and good wishes after Aney’s electoral success.

@@ -47,6 +47,10 @@ summary: |-
   This handwritten inland letter, dated 16 January 1975 and sent from Shahjahanpur to S. V. Raju in Bombay, discusses an earlier letter to Minoo Masani dated 14 August 1974. The sender says that the letter was referred by Raju on Masani's behalf, but that he never subsequently received a reply from Masani. He adds that he remains in contact with the party's present leadership, while expressing concern about something he feels is absent or unresolved within that leadership.
 ---
 
+## Summary
+
+This handwritten inland letter, dated 16 January 1975 and sent from Shahjahanpur to S. V. Raju in Bombay, discusses an earlier letter to Minoo Masani dated 14 August 1974. The sender says that the letter was referred by Raju on Masani's behalf, but that he never subsequently received a reply from Masani. He adds that he remains in contact with the party's present leadership, while expressing concern about something he feels is absent or unresolved within that leadership.
+
 ## Key points
 
 - The letter is dated 16 January 1975 and originates from Shahjahanpur.

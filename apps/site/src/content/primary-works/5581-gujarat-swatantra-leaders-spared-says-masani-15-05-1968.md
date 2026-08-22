@@ -51,6 +51,12 @@ summary: |-
   Under the subheading “COMMITTEE'S FAILURE,” Masani criticises the published version of the committee's decision. He argues that the committee failed to consider the betrayal of the party's interests by certain members of Parliament and says that the party should have taken stronger action. The clipping also reports his view that, rather than pursuing a punitive course, the party should remain outside the national executive and devote itself to constructive work.
 ---
 
+## Summary
+
+This one-page English newspaper clipping reports comments by M. R. Masani, identified as a former general secretary of the Swatantra Party, concerning the party's handling of certain Gujarat leaders. Masani says that an unpublished decision had been made not to take drastic disciplinary action against them, despite their conduct during the recent elections to the Rajya Sabha from Gujarat. The report attributes the disclosure to correspondence between Masani and N. Dandekar, the party's present general secretary.
+
+Under the subheading “COMMITTEE'S FAILURE,” Masani criticises the published version of the committee's decision. He argues that the committee failed to consider the betrayal of the party's interests by certain members of Parliament and says that the party should have taken stronger action. The clipping also reports his view that, rather than pursuing a punitive course, the party should remain outside the national executive and devote itself to constructive work.
+
 ## Key points
 
 - M. R. Masani reportedly disclosed an unpublished Swatantra Party decision concerning Gujarat leaders.

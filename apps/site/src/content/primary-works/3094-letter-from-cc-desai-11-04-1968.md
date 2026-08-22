@@ -51,6 +51,12 @@ summary: |-
   Signed by C. C. Desai, the letter requests members to propose candidates and submit nomination papers by 7 p.m. on April 22. It specifies April 27 as the withdrawal deadline and sets polling for April 30 in Parliament House, from 11 a.m. to 5 p.m., using a secret ballot and a single distributive vote for each office. For Executive Committee elections, members of each House may vote only for candidates from that House, with no more than one vote for each candidate.
 ---
 
+## Summary
+
+This untitled letter from the Swatantra Party Parliamentary Office, dated April 11, 1968, informs party members about the approved offices, nominations, and election procedure for the 1968–69 parliamentary year. The offices listed include Chairman and Leader, Deputy Leader, Leader in the Rajya Sabha, Secretaries for both Houses, Chief Whip, Whips, and six Executive Committee members divided between the Lok Sabha and Rajya Sabha.
+
+Signed by C. C. Desai, the letter requests members to propose candidates and submit nomination papers by 7 p.m. on April 22. It specifies April 27 as the withdrawal deadline and sets polling for April 30 in Parliament House, from 11 a.m. to 5 p.m., using a secret ballot and a single distributive vote for each office. For Executive Committee elections, members of each House may vote only for candidates from that House, with no more than one vote for each candidate.
+
 ## Key points
 
 - The letter announces the Swatantra Party's parliamentary offices for the 1968–69 term.

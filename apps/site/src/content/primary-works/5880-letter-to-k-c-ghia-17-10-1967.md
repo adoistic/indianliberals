@@ -45,6 +45,10 @@ summary: |-
   In this one-page letter dated 17 October 1967, S. V. Raju replies to K. C. Ghia regarding Ghia's 26 September letter to Minoo Masani. Raju explains that Masani is in Delhi because of his preoccupation with the Public Accounts Committee and regrets that Masani is therefore unable to write for Ghia's journal.
 ---
 
+## Summary
+
+In this one-page letter dated 17 October 1967, S. V. Raju replies to K. C. Ghia regarding Ghia's 26 September letter to Minoo Masani. Raju explains that Masani is in Delhi because of his preoccupation with the Public Accounts Committee and regrets that Masani is therefore unable to write for Ghia's journal.
+
 ## Key points
 
 - The letter is dated 17 October 1967.

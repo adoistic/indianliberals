@@ -54,6 +54,12 @@ summary: |-
   The final pages shift from case references to political notes. They discuss the legal status of political parties, the 1988 amendment requiring parties to register with the Election Commission, and the constitutional tension between party allegiance to socialism and the freedom to criticise socialism or advocate private enterprise. The notes argue that the Constitution protects citizens’ rights to form associations and express views, while also recognising the sovereignty and security of the nation. The scanned pages are complete, but the document’s broader purpose and authorship remain uncertain.
 ---
 
+## Summary
+
+This untitled handwritten compilation, prepared on Padmakar D. Kamerkar’s advocate letterhead, is principally a reference list of Indian constitutional-law cases. The first part groups authorities under the Preamble, Article 14, and Article 19, with citations to Supreme Court and other reported decisions concerning constitutional structure, equality, legal protection, and civil liberties. The document does not provide a printed title, date, authorial byline, publisher, or formal table of contents.
+
+The final pages shift from case references to political notes. They discuss the legal status of political parties, the 1988 amendment requiring parties to register with the Election Commission, and the constitutional tension between party allegiance to socialism and the freedom to criticise socialism or advocate private enterprise. The notes argue that the Constitution protects citizens’ rights to form associations and express views, while also recognising the sovereignty and security of the nation. The scanned pages are complete, but the document’s broader purpose and authorship remain uncertain.
+
 ## Key points
 
 - The document is an untitled handwritten legal compilation on Padmakar D. Kamerkar’s advocate letterhead.

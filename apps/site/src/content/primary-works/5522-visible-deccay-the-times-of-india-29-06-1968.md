@@ -50,6 +50,12 @@ summary: |-
   The editorial identifies a central contradiction in Swatantra's programme: although the party formally seeks to rely on India's rural and urban society, it must reconcile the divergent interests and political cultures of rural and urban elites. It suggests that the party's future depends on resolving this tension, allowing state units to mobilise support around local issues, and developing greater unity and consensus among regional organisations. The article also argues that Mr. K. M. Munshi's preferred centralisation is no longer feasible in a politically mobilised India, and concludes that Swatantra cannot escape the realities of India's political situation merely because its founders envisaged a highly centralised all-India organisation.
 ---
 
+## Summary
+
+This unsigned Times of India editorial, dated on the mounted sheet 29 June 1968, examines the Swatantra Party's declining electoral position. It points to the party's poor results in Gujarat, Rajasthan, Haryana and Bombay City, and argues that visible indiscipline in its provincial units is a symptom of a deeper organisational and political malaise rather than the fundamental problem itself.
+
+The editorial identifies a central contradiction in Swatantra's programme: although the party formally seeks to rely on India's rural and urban society, it must reconcile the divergent interests and political cultures of rural and urban elites. It suggests that the party's future depends on resolving this tension, allowing state units to mobilise support around local issues, and developing greater unity and consensus among regional organisations. The article also argues that Mr. K. M. Munshi's preferred centralisation is no longer feasible in a politically mobilised India, and concludes that Swatantra cannot escape the realities of India's political situation merely because its founders envisaged a highly centralised all-India organisation.
+
 ## Key points
 
 - The editorial treats Swatantra Party's recent electoral failures as evidence of visible organisational decline.

@@ -49,6 +49,12 @@ summary: |-
   Rao argues that the party needs a firm and consistent disciplinary procedure. He criticizes the apparent willingness of state units to retain authority when convenient while shifting responsibility to the Centre when disciplinary action becomes difficult. He expects the forthcoming General Council meeting at Madras, possibly in Rajaji’s presence, to ask Masani to withdraw his resignation, and believes Masani’s participation would strengthen both the party and the National Executive. The letter closes by praising Masani’s moral leadership and commitment to party discipline.
 ---
 
+## Summary
+
+This letter, written by G. Hanumantha Rao from Camp Puri on 18 April 1968 to Minoo Masani, discusses Masani’s resignation and the resulting debate within the Swatantra Party. Rao reports that the National Executive felt the resignation’s moral impact and unanimously asked Masani to withdraw it. He also describes C. C. Desai’s opposition to including the phrase “disciplinary action” in a resolution concerning Gujarat MLAs who had acted against party discipline.
+
+Rao argues that the party needs a firm and consistent disciplinary procedure. He criticizes the apparent willingness of state units to retain authority when convenient while shifting responsibility to the Centre when disciplinary action becomes difficult. He expects the forthcoming General Council meeting at Madras, possibly in Rajaji’s presence, to ask Masani to withdraw his resignation, and believes Masani’s participation would strengthen both the party and the National Executive. The letter closes by praising Masani’s moral leadership and commitment to party discipline.
+
 ## Key points
 
 - G. Hanumantha Rao writes to Minoo Masani from Camp Puri on 18 April 1968.

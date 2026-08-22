@@ -55,6 +55,12 @@ summary: |-
   The second document is General Secretary’s Letter No. 217, dated 12 January 1970, on decentralised fund collection for Swatantra Party units. It argues that the party must replace dependence on a small number of individual and corporate donors with systematic contributions gathered by state, district, and primary-unit committees. The letter sets monthly and annual targets, recommends contributions from businesses and sympathisers, literature sales, collection boxes, an annual Flag Day, subscription dinners, souvenir advertising, and a bank-order system. It also discusses the income-tax treatment of political donations and subscriptions, citing guidance associated with former Finance Minister Morarji Desai.
 ---
 
+## Summary
+
+This composite archival file contains two Swatantra Party documents. The first is the draft record of the Bombay Region Executive Committee meeting held on 11 March 1970. It records attendance, confirmation of earlier minutes, scheduling of future meetings, convention follow-up, the appointment of a full-time worker, unit subsidies, arrangements for a workers’ shibir, proposed committee changes, multilingual political literature, an internal enquiry, public-meeting expenses, and plans for a regional newsletter. The meeting reported 254 convention delegates and concluded with a vote of thanks to the chair.
+
+The second document is General Secretary’s Letter No. 217, dated 12 January 1970, on decentralised fund collection for Swatantra Party units. It argues that the party must replace dependence on a small number of individual and corporate donors with systematic contributions gathered by state, district, and primary-unit committees. The letter sets monthly and annual targets, recommends contributions from businesses and sympathisers, literature sales, collection boxes, an annual Flag Day, subscription dinners, souvenir advertising, and a bank-order system. It also discusses the income-tax treatment of political donations and subscriptions, citing guidance associated with former Finance Minister Morarji Desai.
+
 ## Key points
 
 - The Bombay Region Executive Committee met on 11 March 1970 with Madhu Mehta in the chair and twelve members recorded as present.

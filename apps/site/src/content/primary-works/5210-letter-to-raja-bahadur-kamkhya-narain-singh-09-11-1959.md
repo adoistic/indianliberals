@@ -48,6 +48,12 @@ summary: |-
   Masani recommends beginning with a Hazaribagh District convention and postponing the State convention until early in the new year. He also acknowledges that his previous letter overlooked receipt of Singh's 20 October letter, apologises for the omission, and looks forward to meeting him in Hyderabad on 8 December.
 ---
 
+## Summary
+
+In this typed letter dated 9 November 1959, M. R. Masani writes to Raja Bahadur Kamakhya Narain Singh about arrangements for a forthcoming State Convention of the Party. Masani notes that Professor N. G. Ranga's letter of 3 November does not mention a proposal to hold the convention on 14 December, and he takes this omission as evidence that no final decision has been made.
+
+Masani recommends beginning with a Hazaribagh District convention and postponing the State convention until early in the new year. He also acknowledges that his previous letter overlooked receipt of Singh's 20 October letter, apologises for the omission, and looks forward to meeting him in Hyderabad on 8 December.
+
 ## Key points
 
 - The letter is dated 9 November 1959 and is signed by M. R. Masani.

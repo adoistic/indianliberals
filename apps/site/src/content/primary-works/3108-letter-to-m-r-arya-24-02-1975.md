@@ -49,6 +49,12 @@ summary: |-
   Raju characterises the proposed participation as primarily symbolic: it is intended to demonstrate support for Jayaprakash Narayan’s movement. The letter is a practical appeal for coordination and treats the planned demonstration as a serious political act.
 ---
 
+## Summary
+
+This one-page letter from S. V. Raju, dated February 24, 1975, asks M. R. Arya to organise approximately 20–25 people to join a demonstration before Parliament on March 6, held under the leadership of Jayaprakash Narayan. Raju says that volunteers from outside Delhi will also be mobilised.
+
+Raju characterises the proposed participation as primarily symbolic: it is intended to demonstrate support for Jayaprakash Narayan’s movement. The letter is a practical appeal for coordination and treats the planned demonstration as a serious political act.
+
 ## Key points
 
 - S. V. Raju wrote to M. R. Arya on February 24, 1975.

@@ -53,6 +53,12 @@ summary: |-
   Masani distinguishes opposition to Communism from support for preventive detention. He accepts that the state may legislate directly against subversive organisations, but condemns the use of the Act against individuals who are exercising political, trade-union, or territorial rights. Citing the detention of Sheikh Abdullah, the arrest of strike supporters, and an exile notice served on a citizen in Bastar, he argues that the law has been used against patriotic Indians and that its operation violates the rule of law. He concludes by calling for uniformity of fundamental rights in Kashmir and throughout India and states that he will vote against the bill.
 ---
 
+## Summary
+
+In this four-page Lok Sabha speech of 1 December 1960, M. R. Masani opposes the Preventive Detention (Continuance) Bill, arguing that the emergency justification originally offered for the measure has long since disappeared. He recalls that the bill was presented in 1950 amid fears that Communist detainees might be released by the Calcutta High Court, but says that the promised temporary renewal and review have instead become a permanent feature of the statute book. Masani describes this as a threat to democracy and insists that any restriction of liberty must rest on a clear and present danger rather than administrative convenience.
+
+Masani distinguishes opposition to Communism from support for preventive detention. He accepts that the state may legislate directly against subversive organisations, but condemns the use of the Act against individuals who are exercising political, trade-union, or territorial rights. Citing the detention of Sheikh Abdullah, the arrest of strike supporters, and an exile notice served on a citizen in Bastar, he argues that the law has been used against patriotic Indians and that its operation violates the rule of law. He concludes by calling for uniformity of fundamental rights in Kashmir and throughout India and states that he will vote against the bill.
+
 ## Key points
 
 - Masani recalls that the Preventive Detention Bill was originally justified in 1950 by an alleged immediate danger of Communist detainees being released.

@@ -48,6 +48,12 @@ summary: |-
   Masani declines to add further arguments, referring Patel back to what he had already written in an earlier letter. The document is a brief piece of political correspondence focused on party alignments, presidential politics, and the viability of an opposition alternative in 1974.
 ---
 
+## Summary
+
+In this letter dated July 30, 1974, M. R. Masani replies to R. D. Patel's account of rapidly changing political events. Patel had apparently discussed Biju Patnaik's cooperation with Chandraji Yadav and Nandini Satpathy, Charan Singh and Raj Narain's approach to V. V. Giri regarding his re-election as President, and the break-up of the BKD. Masani says that these developments do not weaken Patel's belief in the Swatantra Party's role as “the National Alternative.”
+
+Masani declines to add further arguments, referring Patel back to what he had already written in an earlier letter. The document is a brief piece of political correspondence focused on party alignments, presidential politics, and the viability of an opposition alternative in 1974.
+
 ## Key points
 
 - Masani acknowledges R. D. Patel's long letter of July 23.

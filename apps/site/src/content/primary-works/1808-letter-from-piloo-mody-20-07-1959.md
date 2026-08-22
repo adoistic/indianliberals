@@ -62,6 +62,12 @@ summary: |-
   Mody then addresses the concept of trusteeship, calling for a clearer account of the obligations of wealthy people to society. He suggests that large charitable trusts establish non-profit community centres providing health, educational, sports, recreational, and local civic services. The attached draft preamble and fifteen policy principles combine civil and property rights with social welfare: they endorse equality of opportunity, basic-needs provision, productive enterprise, self-employed peasant agriculture, limits on collectivisation and state enterprise, restrained taxation, opposition to inflationary finance, restoration of constitutional guarantees, and a state limited largely to essential functions. The document is complete as rendered, although its title is not printed and some page folios are unclear.
 ---
 
+## Summary
+
+In this letter dated July 20, 1959, Piloo Mody writes to C. Rajagopalachari (“Rajaji”) with proposed revisions to the emerging Swatantra Party’s policy. Mody argues that party statements should express positive commitments rather than merely opposition, and recommends a preamble grounded in democracy, popular sovereignty, constitutional government, fundamental rights, and the rule of law. Drawing on Rousseau’s Social Contract and Gandhi’s observation that “the End Can Never Justify the Means,” he proposes that expediency must yield to fundamental beliefs when the two conflict.
+
+Mody then addresses the concept of trusteeship, calling for a clearer account of the obligations of wealthy people to society. He suggests that large charitable trusts establish non-profit community centres providing health, educational, sports, recreational, and local civic services. The attached draft preamble and fifteen policy principles combine civil and property rights with social welfare: they endorse equality of opportunity, basic-needs provision, productive enterprise, self-employed peasant agriculture, limits on collectivisation and state enterprise, restrained taxation, opposition to inflationary finance, restoration of constitutional guarantees, and a state limited largely to essential functions. The document is complete as rendered, although its title is not printed and some page folios are unclear.
+
 ## Key points
 
 - Mody urges the Swatantra Party to formulate positive policy commitments rather than define itself chiefly through opposition.

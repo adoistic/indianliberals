@@ -45,6 +45,10 @@ summary: |-
   This one-page letter, dated 17 November 1971, is addressed by Shantilal L. Thar to the Secretary of the Swatantra Party’s Bombay Region. Thar acknowledges receipt of a notice dated 13 November concerning a meeting of the Bombay Region Executive Committee scheduled for 24 November 1971.
 ---
 
+## Summary
+
+This one-page letter, dated 17 November 1971, is addressed by Shantilal L. Thar to the Secretary of the Swatantra Party’s Bombay Region. Thar acknowledges receipt of a notice dated 13 November concerning a meeting of the Bombay Region Executive Committee scheduled for 24 November 1971.
+
 ## Key points
 
 - The document is a formal administrative letter dated 17 November 1971.

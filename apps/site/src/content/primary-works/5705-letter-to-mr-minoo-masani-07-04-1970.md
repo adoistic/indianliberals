@@ -51,6 +51,12 @@ summary: |-
   The letter then comments on a statement attributed to Chandrakant Shah, suggesting that the Swatantra Party would become clearer or more coherent if people loyal to C. C. Desai left it. It closes with a pointed request that Masani determine how many days in a month C. C. Desai entertains the press, followed by cordial regards. The sender’s signature is not confidently legible; the letter’s principal text is in English but includes a substantial quotation in Gujarati script.
 ---
 
+## Summary
+
+This two-page handwritten personal and confidential letter, dated 7 April 1970 from Patna Palace, Himmatnagar, is addressed to M. R. Masani. The unidentified sender alerts Masani to an item published in the Gujarati daily “Gujarat Samachar” on 4 April 1970, reproducing a Gujarati-language passage concerning party discipline, alleged defections, and political figures associated with the Swatantra Party. The sender presents the extract as potentially troubling but urges Masani not to be alarmed, arguing that disciplined and loyal people are preferable to a larger party populated by undisciplined, greedy, and selfish individuals.
+
+The letter then comments on a statement attributed to Chandrakant Shah, suggesting that the Swatantra Party would become clearer or more coherent if people loyal to C. C. Desai left it. It closes with a pointed request that Masani determine how many days in a month C. C. Desai entertains the press, followed by cordial regards. The sender’s signature is not confidently legible; the letter’s principal text is in English but includes a substantial quotation in Gujarati script.
+
 ## Key points
 
 - The sender writes to M. R. Masani in a personal and confidential capacity from Patna Palace, Himmatnagar, on 7 April 1970.

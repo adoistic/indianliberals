@@ -49,6 +49,10 @@ summary: |-
   This 7 April 1968 newspaper clipping reports a serious internal crisis in the Swatantra Party. M. R. Masani has resigned from the party’s national executive and parliamentary board after prolonged disagreements between the Indian Civil Service and political wings. In Gujarat, Bhaikaka (Bhalabhai Patel) and Jaideep Singhji, respectively the party’s leader and deputy leader in the Assembly, have also stepped down, with further resignations expected. The article attributes the breakdown to factionalism, caste divisions, leadership disputes, and the party’s declining electoral prospects.
 ---
 
+## Summary
+
+This 7 April 1968 newspaper clipping reports a serious internal crisis in the Swatantra Party. M. R. Masani has resigned from the party’s national executive and parliamentary board after prolonged disagreements between the Indian Civil Service and political wings. In Gujarat, Bhaikaka (Bhalabhai Patel) and Jaideep Singhji, respectively the party’s leader and deputy leader in the Assembly, have also stepped down, with further resignations expected. The article attributes the breakdown to factionalism, caste divisions, leadership disputes, and the party’s declining electoral prospects.
+
 ## Key points
 
 - M. R. Masani’s resignation is presented as the immediate trigger for a wider Swatantra Party crisis.

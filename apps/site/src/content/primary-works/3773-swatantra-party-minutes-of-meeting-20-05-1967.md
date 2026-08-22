@@ -54,6 +54,10 @@ summary: |-
   These draft minutes record the Swatantra Party Central Parliamentary Board meeting held in New Delhi on 20 May 1967. The Board reviewed the party’s strength in Parliament, noting 45 Lok Sabha members and 13 Rajya Sabha members, recent resignations and accessions, and the outcomes of presidential, vice-presidential, and parliamentary by-elections. It also discussed unsuccessful efforts to create a united opposition bloc with the Swatantra Party, Jan Sangh, and D.M.K., as well as attempts to bring independent and Akali legislators into opposition cooperation.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Central Parliamentary Board meeting held in New Delhi on 20 May 1967. The Board reviewed the party’s strength in Parliament, noting 45 Lok Sabha members and 13 Rajya Sabha members, recent resignations and accessions, and the outcomes of presidential, vice-presidential, and parliamentary by-elections. It also discussed unsuccessful efforts to create a united opposition bloc with the Swatantra Party, Jan Sangh, and D.M.K., as well as attempts to bring independent and Akali legislators into opposition cooperation.
+
 ## Key points
 
 - The Board recorded a Swatantra Party strength of 45 members in the Lok Sabha and 13 in the Rajya Sabha.

@@ -53,6 +53,12 @@ summary: |-
   Munshi also discusses party organisation and parliamentary conduct. He advises Masani not to treat Members of Parliament like erring children, arguing that the party's future depends on their self-confidence, majority, and capacity to mature through trial and error. In a separate matter concerning the Ramgarh decision and the publication of a resolution in Ramgarh's absence, he stresses procedural fairness and recommends waiting until Rajaji returns to India. The letter ends with brief notes about forthcoming meetings and the absence of Maharajadhiraj Kameshwar Singh of Darbhanga from Delhi.
 ---
 
+## Summary
+
+In this two-page letter dated August 7, 1962, K. M. Munshi responds to Minoo Masani on the proposed banning of communal parties and the relevance of Article 60 of the Swatantra Party manifesto. Munshi distinguishes between an association formed to protect the rights of classes or communities, which Article 60 addresses, and communal parties that exploit communal feeling to pursue political domination. He argues that banning such parties could drive them underground and therefore declines to support a general ban on political parties.
+
+Munshi also discusses party organisation and parliamentary conduct. He advises Masani not to treat Members of Parliament like erring children, arguing that the party's future depends on their self-confidence, majority, and capacity to mature through trial and error. In a separate matter concerning the Ramgarh decision and the publication of a resolution in Ramgarh's absence, he stresses procedural fairness and recommends waiting until Rajaji returns to India. The letter ends with brief notes about forthcoming meetings and the absence of Maharajadhiraj Kameshwar Singh of Darbhanga from Delhi.
+
 ## Key points
 
 - Munshi argues that Article 60 of the Swatantra Party manifesto concerns associations protecting the rights of classes or communities, not the proposed banning of communal parties.

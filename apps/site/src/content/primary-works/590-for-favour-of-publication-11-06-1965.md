@@ -55,6 +55,12 @@ summary: |-
   Masani criticizes India's foreign-policy record since independence, arguing that its non-alignment has been misapplied as neutrality or political timidity. He attributes New Delhi's conduct partly to dependence on the Soviet veto over Kashmir and partly to appeasement of communist expansionism. The statement concludes by advocating a regional security arrangement involving India, Japan, the free countries of Asia, and Western democracies, with the aim of enabling smaller states to resist Chinese Communist aggression. The document is headed “For favour of publication,” dated “Bombay, June 11.”; no year, publisher, or issuer is visible.
 ---
 
+## Summary
+
+This two-page statement records M. R. Masani's warning that American disengagement from Vietnam would strengthen Communist China, expose Laos and Malaysia, and leave India strategically encircled. Speaking at the annual meeting of the Indian Council of World Affairs, Masani presents the Vietnam conflict as externally directed armed aggression rather than a genuine war of national liberation, citing the organization, training, direction, and armaments of Viet Cong forces and a report by the International Control Commission concerning North Vietnam's alleged violations of the Geneva Convention.
+
+Masani criticizes India's foreign-policy record since independence, arguing that its non-alignment has been misapplied as neutrality or political timidity. He attributes New Delhi's conduct partly to dependence on the Soviet veto over Kashmir and partly to appeasement of communist expansionism. The statement concludes by advocating a regional security arrangement involving India, Japan, the free countries of Asia, and Western democracies, with the aim of enabling smaller states to resist Chinese Communist aggression. The document is headed “For favour of publication,” dated “Bombay, June 11.”; no year, publisher, or issuer is visible.
+
 ## Key points
 
 - Masani argues that a United States withdrawal from Vietnam would expand Chinese Communist influence in Southeast Asia.

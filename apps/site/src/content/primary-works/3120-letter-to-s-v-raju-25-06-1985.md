@@ -43,6 +43,10 @@ summary: |-
   This single-page letter, dated 25 June 1985, is from N. K. Ganapaiah, identified on his letterhead as a coffee planter and Secretary General of the Farmers' Federation of India, to C. L. Rao in Bangalore. Ganapaiah refers to a request from S. V. Raju, described as a trustee of the Rajaji Foundation, for 100 copies of a speech delivered by Mrs. Masani, and asks Rao to send them at the earliest.
 ---
 
+## Summary
+
+This single-page letter, dated 25 June 1985, is from N. K. Ganapaiah, identified on his letterhead as a coffee planter and Secretary General of the Farmers' Federation of India, to C. L. Rao in Bangalore. Ganapaiah refers to a request from S. V. Raju, described as a trustee of the Rajaji Foundation, for 100 copies of a speech delivered by Mrs. Masani, and asks Rao to send them at the earliest.
+
 ## Key points
 
 - The letter is dated 25 June 1985 and sent from Harley Estate, Saklaspur.

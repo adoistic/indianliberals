@@ -56,6 +56,12 @@ summary: |-
   Masani proposes a substantially different policy direction: direct and indirect tax reduction to encourage investment, dismantling permits, licences, quotas, import controls, and gold controls, and transferring productive activity away from an inefficient state sector. He questions whether the government is willing to make the radical changes required, criticises the terms of foreign loans, and concludes that the ultimate remedy is political change. The clipping is complete as a one-page article, although its final paragraph is cut off at the bottom of the visible page.
 ---
 
+## Summary
+
+In this one-page 1966 newspaper essay, M. R. Masani argues that India’s economic crisis is the consequence of political choices rather than unavoidable circumstances. He attributes the crisis to currency depreciation, inflation, repeated deficit financing under the Second and Third Five Year Plans, excessive dependence on heavy industry at the expense of agriculture and consumer goods, and the expansion of a wasteful public sector. He presents these policies as failures of judgment by successive governments and warns that continued monetary expansion will deepen inflation and economic distress.
+
+Masani proposes a substantially different policy direction: direct and indirect tax reduction to encourage investment, dismantling permits, licences, quotas, import controls, and gold controls, and transferring productive activity away from an inefficient state sector. He questions whether the government is willing to make the radical changes required, criticises the terms of foreign loans, and concludes that the ultimate remedy is political change. The clipping is complete as a one-page article, although its final paragraph is cut off at the bottom of the visible page.
+
 ## Key points
 
 - Masani presents India’s economic difficulties as the result of government policy and political leadership.

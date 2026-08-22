@@ -50,6 +50,12 @@ summary: |-
   The message asks Rao to stop his current travels and remain in Bihar for some time, while assuring him that out-of-pocket expenses will be reimbursed. It also requests an immediate wire when Rao leaves Guntur and reaches Patna, with correspondence directed to Jayaprakash Narayan’s address there. The page provides no further context about the camps, their political purpose, or the identities of the organisations involved.
 ---
 
+## Summary
+
+This single-page English telegram, dated June 14, 1974, is signed “MASANI” and addressed to Mr. Manumantra Rao. The sender instructs Rao to travel by train to Patna and meet Jayaprakash Narayan, who has agreed to help organise a series of training camps in Bihar.
+
+The message asks Rao to stop his current travels and remain in Bihar for some time, while assuring him that out-of-pocket expenses will be reimbursed. It also requests an immediate wire when Rao leaves Guntur and reaches Patna, with correspondence directed to Jayaprakash Narayan’s address there. The page provides no further context about the camps, their political purpose, or the identities of the organisations involved.
+
 ## Key points
 
 - The document is a one-page express telegram dated June 14, 1974.

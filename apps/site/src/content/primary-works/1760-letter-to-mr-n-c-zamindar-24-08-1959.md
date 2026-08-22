@@ -47,6 +47,10 @@ summary: |-
   This one-page English letter, dated 24 August 1959, is addressed to Mr. N. C. Zamindar of Bada Rawla, Jund Indore, Indore City. The sender acknowledges receiving two letters dated 21 August and says they are being forwarded to the Central Office of the Party, which the sender believes has already been informed of the situation. The sender's name or signature is not legible on the rendered page.
 ---
 
+## Summary
+
+This one-page English letter, dated 24 August 1959, is addressed to Mr. N. C. Zamindar of Bada Rawla, Jund Indore, Indore City. The sender acknowledges receiving two letters dated 21 August and says they are being forwarded to the Central Office of the Party, which the sender believes has already been informed of the situation. The sender's name or signature is not legible on the rendered page.
+
 ## Key points
 
 - The letter is dated 24 August 1959.

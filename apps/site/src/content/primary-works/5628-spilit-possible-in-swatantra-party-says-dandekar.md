@@ -51,6 +51,12 @@ summary: |-
   The second page is a typed list of the Swatantra Party’s office bearers and members of its newly elected National Executive for 1967–69. Prof. N. G. Ranga is listed as president; Dr. K. M. Munshi and others as vice presidents; Mr. N. Dandekar as general secretary; and a longer group of joint secretaries, treasurers, and members, including C. Rajagopalachari, Minoo Masani, H. M. Patel, and N. G. Ranga. No author, publication date, or formal title for the document itself is printed.
 ---
 
+## Summary
+
+This two-page English-language Swatantra Party document combines a newspaper clipping with an institutional roster. The clipping, headed “Split Possible In Swatantra Party, Says Dandekar,” reports disagreement within the party following the defeat of its official candidate in a Gujarat election and discusses the possibility of a split. It also includes a section titled “KERALA SITUATION,” which reports N. Dandekar’s criticism of Kerala’s political situation and refers to competing political groupings and regional conditions.
+
+The second page is a typed list of the Swatantra Party’s office bearers and members of its newly elected National Executive for 1967–69. Prof. N. G. Ranga is listed as president; Dr. K. M. Munshi and others as vice presidents; Mr. N. Dandekar as general secretary; and a longer group of joint secretaries, treasurers, and members, including C. Rajagopalachari, Minoo Masani, H. M. Patel, and N. G. Ranga. No author, publication date, or formal title for the document itself is printed.
+
 ## Key points
 
 - The document consists of a newspaper clipping and a typed Swatantra Party organisational roster.

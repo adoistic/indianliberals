@@ -51,6 +51,12 @@ summary: |-
   The letter further addresses disagreements over monopoly, managing agencies, and managerial remuneration. Lobo Prabhu distinguishes Desai’s position from the Central Parliamentary Board’s stated opposition to monopoly, arguing that the party’s economic position should not be prejudiced by the size of companies and that sensitive policy matters should be referred to the National Executive or General Council. He disputes Desai’s statements about toppling the Gujarat government and contends that Desai’s earlier conduct and subsequent election to party office should weigh against renewed disciplinary action. The letter concludes by asking Masani to withdraw the matter from the agenda, while proposing procedural steps if that is not done.
 ---
 
+## Summary
+
+In this three-page letter dated New Delhi, April 6, 1970, J. M. Lobo Prabhu writes to Minoo Masani about internal disputes in the Swatantra Party, especially the proposed or ongoing disciplinary action involving C. C. Desai. He argues that the National Executive had directed him to seek a retraction from Desai without precipitating an open clash, and questions whether the disciplinary procedure followed by Cooper had any clear constitutional or party precedent. He also asks for the Central Parliamentary Board’s powers to be defined, particularly in relation to elections, discipline, and policy decisions.
+
+The letter further addresses disagreements over monopoly, managing agencies, and managerial remuneration. Lobo Prabhu distinguishes Desai’s position from the Central Parliamentary Board’s stated opposition to monopoly, arguing that the party’s economic position should not be prejudiced by the size of companies and that sensitive policy matters should be referred to the National Executive or General Council. He disputes Desai’s statements about toppling the Gujarat government and contends that Desai’s earlier conduct and subsequent election to party office should weigh against renewed disciplinary action. The letter concludes by asking Masani to withdraw the matter from the agenda, while proposing procedural steps if that is not done.
+
 ## Key points
 
 - Lobo Prabhu says the National Executive asked him to obtain a retraction from C. C. Desai without causing an open confrontation.

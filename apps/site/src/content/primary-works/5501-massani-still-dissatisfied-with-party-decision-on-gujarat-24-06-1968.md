@@ -50,6 +50,10 @@ summary: |-
   This Hindustan Times report, datelined Madras, June 3, covers M. R. Masani’s continuing opposition to the Swatantra Party’s decision to restore its Gujarat unit. Masani argues that the national executive’s action amounted to surrendering the party’s principles and warns that Gujarat’s organisational breakdown reflects wider problems of discipline, leadership, and credibility. He says the party should educate its members in “ethical and disciplinary methods” and criticises the executive’s handling of the state unit, including the removal and suspension of legislators.
 ---
 
+## Summary
+
+This Hindustan Times report, datelined Madras, June 3, covers M. R. Masani’s continuing opposition to the Swatantra Party’s decision to restore its Gujarat unit. Masani argues that the national executive’s action amounted to surrendering the party’s principles and warns that Gujarat’s organisational breakdown reflects wider problems of discipline, leadership, and credibility. He says the party should educate its members in “ethical and disciplinary methods” and criticises the executive’s handling of the state unit, including the removal and suspension of legislators.
+
 ## Key points
 
 - M. R. Masani says restoring the Swatantra Party’s Gujarat unit will not promote growth but will instead weaken the party.

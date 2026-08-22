@@ -43,6 +43,10 @@ summary: |-
   This one-page official letter, dated 1 February 1968, is from R. N. Singh Deo, Chief Minister of Orissa State, to M. R. Masani. Singh Deo thanks Masani for his letter, conveyed through Sundarmani Patel, and confirms that Masani’s proposed visit to Bhubaneswar on 24 and 25 February would be suitable.
 ---
 
+## Summary
+
+This one-page official letter, dated 1 February 1968, is from R. N. Singh Deo, Chief Minister of Orissa State, to M. R. Masani. Singh Deo thanks Masani for his letter, conveyed through Sundarmani Patel, and confirms that Masani’s proposed visit to Bhubaneswar on 24 and 25 February would be suitable.
+
 ## Key points
 
 - The letter is dated 1 February 1968 and was sent from Bhubaneswar.

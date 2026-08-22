@@ -54,6 +54,12 @@ summary: |-
   The Council then considered an appeal from Bihar, an Organisation Sub-Committee report, and correspondence concerning allegations against the Party’s Central Organising Committee and its members. A resolution moved by N. Dandekar and seconded by Saw Ganesan reaffirmed confidence in the committee and was carried nem con. The meeting subsequently discussed J. M. Lobo Prabhu’s “Victory Plan,” referred it to the Parliamentary Board, and debated a statement on the “National Emergency” prepared by the Central Organising Committee. After amendments and speeches by several members, including Rajaji, the statement was unanimously adopted. The pages end with Prof. Ranga’s closing remarks; no annexed appeal, resolution texts, or attachments referred to in the minutes are included in the rendered document.
 ---
 
+## Summary
+
+These four pages are the draft minutes of the Swatantra Party General Council meeting held at Resham Bhavan Hall, Churchgate, Bombay, on 10 February 1963, with Prof. N. G. Ranga in the chair. The record begins with a state-by-state attendance list, confirms the minutes of the previous meeting held in Agra on 24 November 1961, and notes that the proceedings opened with a review of current events, the National Emergency, and Party organisation.
+
+The Council then considered an appeal from Bihar, an Organisation Sub-Committee report, and correspondence concerning allegations against the Party’s Central Organising Committee and its members. A resolution moved by N. Dandekar and seconded by Saw Ganesan reaffirmed confidence in the committee and was carried nem con. The meeting subsequently discussed J. M. Lobo Prabhu’s “Victory Plan,” referred it to the Parliamentary Board, and debated a statement on the “National Emergency” prepared by the Central Organising Committee. After amendments and speeches by several members, including Rajaji, the statement was unanimously adopted. The pages end with Prof. Ranga’s closing remarks; no annexed appeal, resolution texts, or attachments referred to in the minutes are included in the rendered document.
+
 ## Key points
 
 - The meeting took place in Bombay on 10 February 1963, with Prof. N. G. Ranga presiding.

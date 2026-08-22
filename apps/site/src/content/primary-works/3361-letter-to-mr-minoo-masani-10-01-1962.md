@@ -51,6 +51,12 @@ summary: |-
   The letter concerns the allocation of party vehicles for the 1962 parliamentary election campaign. The sender authorises Sri Kailash Pati Mahta to collect receipts from candidates contesting 15 endorsed Lok Sabha seats in connection with 15 Jeeps, and to deliver those receipts to Masani’s representative at the Patna office on January 18, while the sender is away on tour. The second page reproduces the related telegram, which confirms the proposed date and the purpose of collecting receipts.
 ---
 
+## Summary
+
+This untitled letter, dated January 10, 1962, is written on Swatantra Party Bihar letterhead from Chhajubagh, Patna, to M. R. Masani, General Secretary of the Swatantra Party of India. The sender, identified only by the typed designation “President, Bihar State Swatantra Party,” confirms that a telegram was sent in response to Masani’s telegram of January 6, 1962.
+
+The letter concerns the allocation of party vehicles for the 1962 parliamentary election campaign. The sender authorises Sri Kailash Pati Mahta to collect receipts from candidates contesting 15 endorsed Lok Sabha seats in connection with 15 Jeeps, and to deliver those receipts to Masani’s representative at the Patna office on January 18, while the sender is away on tour. The second page reproduces the related telegram, which confirms the proposed date and the purpose of collecting receipts.
+
 ## Key points
 
 - The document is an untitled Swatantra Party Bihar office letter dated January 10, 1962.

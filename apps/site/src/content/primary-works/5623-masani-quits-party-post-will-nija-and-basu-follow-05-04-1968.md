@@ -50,6 +50,12 @@ summary: |-
   The article then considers whether other party leaders, especially Rajaji and Minoo Masani’s colleagues, might follow his example. Through an anecdote involving Sir Rustam Minook, it presents Masani as a figure guided by conscience and personal integrity. It also reports criticism from Congress President S. Nijalingappa and Jyoti Basu, who argue that party colleagues and Communists have difficulty working with one another because of conflicting personalities and public images. The closing discussion urges a “Super-Gandhian” approach to political disagreement, arguing that democracy is damaged by unresolved personal and organisational conflicts and that politicians must learn to admit when they are wrong.
 ---
 
+## Summary
+
+R. M. Lala reports on Minoo Masani’s resignation from the Swatantra Party’s National Executive and Parliamentary Board. Masani explains that he had given a candidate in Gujarat a solemn assurance of selection for the Rajya Sabha, but the party’s decision to nominate another candidate violated that commitment. He describes his resignation as an “act of atonement” and as a protest against what he sees as a breach of faith by colleagues. The article recalls Masani’s role as the party’s General Secretary since its founding in 1960 and notes both his organisational contribution and his critics’ complaints that he is intolerant, domineering, and overambitious.
+
+The article then considers whether other party leaders, especially Rajaji and Minoo Masani’s colleagues, might follow his example. Through an anecdote involving Sir Rustam Minook, it presents Masani as a figure guided by conscience and personal integrity. It also reports criticism from Congress President S. Nijalingappa and Jyoti Basu, who argue that party colleagues and Communists have difficulty working with one another because of conflicting personalities and public images. The closing discussion urges a “Super-Gandhian” approach to political disagreement, arguing that democracy is damaged by unresolved personal and organisational conflicts and that politicians must learn to admit when they are wrong.
+
 ## Key points
 
 - Minoo Masani resigns from the Swatantra Party’s National Executive and Parliamentary Board.

@@ -49,6 +49,12 @@ summary: |-
   The writer’s signature and the recipient’s name are not reliably legible. The second rendered page is largely an image of an Indian Inland Letter Card/envelope rather than additional readable correspondence. The document is therefore useful primarily as evidence of local Swatantra Party correspondence and electoral activity in Badaun in 1968; its exact authorship, recipient, and detailed political content require human review.
 ---
 
+## Summary
+
+This two-page handwritten Hindi letter, dated 26 June 1968, was written on the Badaun district/nagar letterhead of the Swatantra Party. The writer addresses an unidentified recipient and discusses the recipient’s apparent intention to contest an election with the Swatantra Party. The letter appears to offer party-related guidance or support, but the handwriting is too difficult to read in several passages to establish the precise request or argument.
+
+The writer’s signature and the recipient’s name are not reliably legible. The second rendered page is largely an image of an Indian Inland Letter Card/envelope rather than additional readable correspondence. The document is therefore useful primarily as evidence of local Swatantra Party correspondence and electoral activity in Badaun in 1968; its exact authorship, recipient, and detailed political content require human review.
+
 ## Key points
 
 - The document is a handwritten Hindi office letter dated 26 June 1968.

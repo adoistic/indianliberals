@@ -50,6 +50,12 @@ summary: |-
   The second page sets out an expenditure estimate and a proposed committee structure covering reception, transport, accommodation, publicity, entertainment, hospitality, and sightseeing. The appended minutes of an informal meeting held on 9 December revisit the venue decision: after objections that influential overseas visitors might not attend and could face difficulties obtaining passports, the participants decide to book Sapru House rather than Vigyan Bhavan for the three convention days. They also arrange a preparatory-bureau room at the Diwan Chand Trust Buildings and plan to form the Reception Committee after receiving a proposed membership list.
 ---
 
+## Summary
+
+These three pages record preparatory discussions for an Afro-Asian Convention on Trade scheduled for 19–21 February 1960. The 5 December meeting considers venue capacity, the division of delegates into four committees, accommodation for large opening-day attendance, committee-room requirements, catering, a public meeting, reception fundraising, and the production and sale of a commemorative brochure. The proposed arrangements are shaped by estimates of 1,000–1,200 opening-day attendees, 70–75 people per committee room, and a closing session of approximately 300–350 people.
+
+The second page sets out an expenditure estimate and a proposed committee structure covering reception, transport, accommodation, publicity, entertainment, hospitality, and sightseeing. The appended minutes of an informal meeting held on 9 December revisit the venue decision: after objections that influential overseas visitors might not attend and could face difficulties obtaining passports, the participants decide to book Sapru House rather than Vigyan Bhavan for the three convention days. They also arrange a preparatory-bureau room at the Diwan Chand Trust Buildings and plan to form the Reception Committee after receiving a proposed membership list.
+
 ## Key points
 
 - The convention was planned for 19–21 February 1960, with an inauguration, committee meetings, a plenary meeting, and a closing session.

@@ -46,6 +46,10 @@ summary: |-
   This single-page letter from Minoo Masani to Sumatilal P. Shah is dated 10 July 1974. Masani acknowledges Shah’s earlier letter, agrees with its position, and notes that he has sent Shah a second letter addressed to Piloo Mody, enclosing an additional copy for caution. He closes by looking forward to meeting Shah in Delhi at the National Convention.
 ---
 
+## Summary
+
+This single-page letter from Minoo Masani to Sumatilal P. Shah is dated 10 July 1974. Masani acknowledges Shah’s earlier letter, agrees with its position, and notes that he has sent Shah a second letter addressed to Piloo Mody, enclosing an additional copy for caution. He closes by looking forward to meeting Shah in Delhi at the National Convention.
+
 ## Key points
 
 - The letter is dated 10 July 1974 and is signed by Minoo Masani.

@@ -48,6 +48,10 @@ summary: |-
   This one-page English letter, dated 19 August 1959, acknowledges a donation sent for the funds of the Swatantra Party. The unnamed sender explains that the unsolicited contribution is especially welcome and confirms that the donor's name and address will be registered as requested. A red-typed annotation records that a cheque for Rs. 200 was sent to Dr. R. C. Cooper, with instructions to register the donor as a party member and issue an official receipt.
 ---
 
+## Summary
+
+This one-page English letter, dated 19 August 1959, acknowledges a donation sent for the funds of the Swatantra Party. The unnamed sender explains that the unsolicited contribution is especially welcome and confirms that the donor's name and address will be registered as requested. A red-typed annotation records that a cheque for Rs. 200 was sent to Dr. R. C. Cooper, with instructions to register the donor as a party member and issue an official receipt.
+
 ## Key points
 
 - The letter is dated 19 August 1959.

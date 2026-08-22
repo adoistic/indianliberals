@@ -44,6 +44,10 @@ summary: |-
   This two-page English telegram, dated 7 November 1968, is a confirmation copy sent from Masani in Bombay to the Swatantra Party in New Delhi. It concerns arrangements for an upcoming general-body meeting, including the proposed chairing of the meeting and the expected arrival of Professor Ranga.
 ---
 
+## Summary
+
+This two-page English telegram, dated 7 November 1968, is a confirmation copy sent from Masani in Bombay to the Swatantra Party in New Delhi. It concerns arrangements for an upcoming general-body meeting, including the proposed chairing of the meeting and the expected arrival of Professor Ranga.
+
 ## Key points
 
 - The document is an Indian Posts and Telegraphs Department telegram confirmation copy.

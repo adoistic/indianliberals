@@ -52,6 +52,12 @@ summary: |-
   Masani says he will contribute approximately 500 words only if The Times of India gives a specific assurance that the text will be published without alteration or deletion, whether by the censor or the editor. He acknowledges that his contribution would not normally violate government guidelines, but argues that the unusual circumstances require him to retain the right to judge the matter himself. He also asks about the delayed review of his book "The JP Answer," which he expected Malhotra to have prepared.
 ---
 
+## Summary
+
+In this one-page letter dated October 22, 1975, M. R. Masani declines an invitation from Inder Malhotra to contribute a feature on books being planned for the end of the year. He explains that, as editor of Freedom First, he has already declined to submit to the censor and is seeking assistance from the law courts through a writ of mandamus to assert his right to publish material he considers reasonable.
+
+Masani says he will contribute approximately 500 words only if The Times of India gives a specific assurance that the text will be published without alteration or deletion, whether by the censor or the editor. He acknowledges that his contribution would not normally violate government guidelines, but argues that the unusual circumstances require him to retain the right to judge the matter himself. He also asks about the delayed review of his book "The JP Answer," which he expected Malhotra to have prepared.
+
 ## Key points
 
 - Masani declines a proposed contribution to a year-end feature on books.

@@ -50,6 +50,12 @@ summary: |-
   Narayan is quoted as calling for sustained cooperation among the Central and State Governments, Sarvodaya workers, and voluntary agencies to address the psychological, social, and economic causes of banditry. The report attributes progress to cooperation from officials in Uttar Pradesh, Madhya Pradesh, and Rajasthan, and describes preparations in Morena district for a mass surrender at the local Mahatma Gandhi Sevasram on April 14. The clipping is a continuation from an unseen preceding page, so the opening of the article and the mission’s earlier details are not available here.
 ---
 
+## Summary
+
+The article reports Jayaprakash Narayan’s explanation of a mission to secure the surrender and rehabilitation of dacoits. It stresses that surrender alone will not resolve the problem: the ravines must be reclaimed through labour-intensive work and small machinery, while deeper ravines may require future investment in heavy machinery. Educational and employment programmes are also proposed to help rehabilitate former dacoits into normal life.
+
+Narayan is quoted as calling for sustained cooperation among the Central and State Governments, Sarvodaya workers, and voluntary agencies to address the psychological, social, and economic causes of banditry. The report attributes progress to cooperation from officials in Uttar Pradesh, Madhya Pradesh, and Rajasthan, and describes preparations in Morena district for a mass surrender at the local Mahatma Gandhi Sevasram on April 14. The clipping is a continuation from an unseen preceding page, so the opening of the article and the mission’s earlier details are not available here.
+
 ## Key points
 
 - The article presents Jayaprakash Narayan’s mission as involving both dacoit surrender and long-term rehabilitation.

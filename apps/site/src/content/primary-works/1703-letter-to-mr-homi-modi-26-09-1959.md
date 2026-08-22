@@ -45,6 +45,10 @@ summary: |-
   This brief personal letter, dated September 26, 1959, was written by K. M. Munshi from the Bharatiya Vidya Bhavan camp on Curzon Road, New Delhi, to Homi Mody in Bombay. Munshi acknowledges Mody's letter of September 25 and says he will ask Paliwal how much has been collected locally. The second rendered page is the addressed envelope.
 ---
 
+## Summary
+
+This brief personal letter, dated September 26, 1959, was written by K. M. Munshi from the Bharatiya Vidya Bhavan camp on Curzon Road, New Delhi, to Homi Mody in Bombay. Munshi acknowledges Mody's letter of September 25 and says he will ask Paliwal how much has been collected locally. The second rendered page is the addressed envelope.
+
 ## Key points
 
 - The letter is dated September 26, 1959.

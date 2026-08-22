@@ -51,6 +51,12 @@ summary: |-
   The letter says committee members questioned whether the movement could be organised successfully across states with differing political conditions. It relays J. P.'s view that securing at least five lakh volunteers would make a strong impression, while estimating that four to six months would be needed to enlist them even with wholehearted support from participating parties. Srikumar asks the recipient to discuss the proposal within their executive committee and send an opinion before the National Coordinating Committee's next meeting in New Delhi on 22 May.
 ---
 
+## Summary
+
+This one-page letter, dated 26 April 1975 and signed by V. S. Srikumar, Joint Secretary of the Swatantra Party, reports on a meeting of the National Coordinating Committee for People's Struggle held under Jayaprakash Narayan's leadership. Writing on behalf of party president M. G. K. Sundaram, Srikumar encloses and discusses a proposal by George Fernandes and Surendra Mohan of the Socialist Party to launch a nationwide civil-disobedience movement in support of a Charter of Demands expected to be presented to Parliament within roughly six weeks.
+
+The letter says committee members questioned whether the movement could be organised successfully across states with differing political conditions. It relays J. P.'s view that securing at least five lakh volunteers would make a strong impression, while estimating that four to six months would be needed to enlist them even with wholehearted support from participating parties. Srikumar asks the recipient to discuss the proposal within their executive committee and send an opinion before the National Coordinating Committee's next meeting in New Delhi on 22 May.
+
 ## Key points
 
 - The letter reports on a 14 April meeting of the National Coordinating Committee for People's Struggle held under Jayaprakash Narayan's leadership.

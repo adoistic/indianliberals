@@ -46,6 +46,10 @@ summary: |-
   This one-page English letter, dated February 26, 1965, is written by Minoo Masani from 57 Lodhi Estate, New Delhi, to Mr. Ian Singh. Masani thanks Singh for his letter and welcomes him as an associate member of the present Lok Sabha.
 ---
 
+## Summary
+
+This one-page English letter, dated February 26, 1965, is written by Minoo Masani from 57 Lodhi Estate, New Delhi, to Mr. Ian Singh. Masani thanks Singh for his letter and welcomes him as an associate member of the present Lok Sabha.
+
 ## Key points
 
 - The letter is dated February 26, 1965.

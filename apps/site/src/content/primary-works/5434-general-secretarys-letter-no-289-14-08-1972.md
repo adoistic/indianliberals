@@ -56,6 +56,12 @@ summary: |-
   The enclosed materials comprise a July 7, 1972 appeal from the Ad Hoc Committee on Women’s Rights, a list of participating associations, and a specimen petition to the Prime Minister. The appeal frames separate taxation as a matter of women’s dignity, independence, and equal status, arguing that joint taxation would reverse advances made by women over the previous 25 years. It also invokes the abandonment of the system in Britain and asks the Prime Minister to preserve the individual personality of Indian women and their separate tax treatment.
 ---
 
+## Summary
+
+This four-page English-language Swatantra Party letter, dated August 14, 1972, is addressed to party members by General Secretary Madhu Mehta. It urges the mobilisation of the Party’s women members in support of a campaign opposing the proposed taxation of the combined incomes of husbands and wives. Mehta asks members to circulate petitions to Prime Minister Indira Gandhi, collect 20 signatures per petition, work on a non-party basis, and keep the national headquarters informed of the campaign’s progress.
+
+The enclosed materials comprise a July 7, 1972 appeal from the Ad Hoc Committee on Women’s Rights, a list of participating associations, and a specimen petition to the Prime Minister. The appeal frames separate taxation as a matter of women’s dignity, independence, and equal status, arguing that joint taxation would reverse advances made by women over the previous 25 years. It also invokes the abandonment of the system in Britain and asks the Prime Minister to preserve the individual personality of Indian women and their separate tax treatment.
+
 ## Key points
 
 - The Swatantra Party’s General Secretary asks party members to support a cross-party campaign against the proposed clubbing of spouses’ incomes.

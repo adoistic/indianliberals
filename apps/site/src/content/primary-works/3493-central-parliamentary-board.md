@@ -49,6 +49,12 @@ summary: |-
   The record further provides for the leaders of parliamentary and state legislative groups to be invited when matters concerning their respective Houses, or the nomination of candidates, are discussed. The second rendered page is a blank administrative expenditure and payment form, with columns for expenditure dates, amounts, payee details, voucher and bill information, and outstanding balances. No title, author, date, publisher, or place is printed on the rendered pages.
 ---
 
+## Summary
+
+This two-page English archival office record is headed “CENTRAL PARLIAMENTARY BOARD.” The first page records an Executive decision to constitute the Board and lists six nominated members: C. Rajagopalachari, R. N. Singh Deo, Lakshman Singh, Jaideepsingh, Bhanu Pratap Singh, and G. Latchman Singh. It also identifies the President, four vice-presidents, senior treasurer, and general secretary as ex-officio members.
+
+The record further provides for the leaders of parliamentary and state legislative groups to be invited when matters concerning their respective Houses, or the nomination of candidates, are discussed. The second rendered page is a blank administrative expenditure and payment form, with columns for expenditure dates, amounts, payee details, voucher and bill information, and outstanding balances. No title, author, date, publisher, or place is printed on the rendered pages.
+
 ## Key points
 
 - The document records the constitution of a Central Parliamentary Board by an Executive.

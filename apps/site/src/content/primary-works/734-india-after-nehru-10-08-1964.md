@@ -58,6 +58,12 @@ summary: |-
   Masani anticipates stronger federalism and states’ rights, a more conventionally cabinet-based system of government, and greater realism in foreign policy after the failures of Panchsheel and the 1962 China war. He urges India to focus more closely on its South and Southeast Asian neighbourhood, repair relations with Pakistan, and reconsider economic priorities by giving agriculture and the peasantry greater attention, reducing “gigantism,” attracting foreign capital, and ending punitive treatment of Indian capital. He expects new political alignments and a more balanced party system, with the Swatantra Party serving as a loyal constitutional opposition. The essay closes by presenting these changes as an opportunity for Indian liberals to organise and act rather than merely await political change.
 ---
 
+## Summary
+
+In this five-page essay, written shortly after Jawaharlal Nehru’s death, M. R. Masani argues that India is entering a “post-independence phase” in which the political dominance of a single founding leader and the Congress Party will weaken. He links this transition to the broader experience of newly independent Asian and African states, criticising hero worship, paternalism, excessive deference to the past, and the popular habit of blaming an undefined “they” for social problems. Masani instead calls for citizens to accept responsibility within a genuinely democratic and free society.
+
+Masani anticipates stronger federalism and states’ rights, a more conventionally cabinet-based system of government, and greater realism in foreign policy after the failures of Panchsheel and the 1962 China war. He urges India to focus more closely on its South and Southeast Asian neighbourhood, repair relations with Pakistan, and reconsider economic priorities by giving agriculture and the peasantry greater attention, reducing “gigantism,” attracting foreign capital, and ending punitive treatment of Indian capital. He expects new political alignments and a more balanced party system, with the Swatantra Party serving as a loyal constitutional opposition. The essay closes by presenting these changes as an opportunity for Indian liberals to organise and act rather than merely await political change.
+
 ## Key points
 
 - Nehru’s death marks a break from the era of exceptional personal authority and Congress dominance.

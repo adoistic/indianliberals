@@ -49,6 +49,12 @@ summary: |-
   Masani encloses a copy of a letter he sent to the Maharaja the previous day. The page records the correspondence's immediate political concern—clarifying positions on communal parties and national integration—but does not include the enclosed letter itself.
 ---
 
+## Summary
+
+In this letter dated 4 August 1962, Minoo Masani writes to K. M. Munshi about a newspaper report concerning the Maharaja of Kalahandi and the National Integration Committee. Masani is pleased that Munshi has clarified a possible misunderstanding arising from the Maharaja's reported statement that he supported banning communal parties.
+
+Masani encloses a copy of a letter he sent to the Maharaja the previous day. The page records the correspondence's immediate political concern—clarifying positions on communal parties and national integration—but does not include the enclosed letter itself.
+
 ## Key points
 
 - The letter is dated 4 August 1962 and is signed by Minoo Masani.

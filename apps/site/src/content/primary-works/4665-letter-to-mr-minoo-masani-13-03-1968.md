@@ -49,6 +49,12 @@ summary: |-
   The letter also links the factional dispute to wider electoral and political pressures in Gujarat. Patel warns that Congress is exploiting the conflict and that Jana Sangh is attacking Swatantra Party figures, including Masani and C. Rajagopalachari, over the Kutch Award. He urges Masani to recognise the damage caused by the Central Party's position on the award and closes by requesting further scrutiny of allegations against Bhagwanji Patel. The document has no printed title and is reproduced as a two-page office copy.
 ---
 
+## Summary
+
+In this personal and confidential letter dated 13 March 1968, Ratibhai Patel reports to Minoo Masani on disputes within the Gujarat Swatantra Party over the selection of Babubhai Vaidya as the party's Rajya Sabha candidate. Patel argues that Vaidya's previous assistance in electing Swatantra candidates should be honoured, but describes strong opposition among Gujarat MLAs, competing nominations, alleged organised manipulation, and the possibility that the Central Parliamentary Board's decision may not be followed. He presents the episode as a test of party discipline and of the relationship between the Gujarat unit and the central leadership.
+
+The letter also links the factional dispute to wider electoral and political pressures in Gujarat. Patel warns that Congress is exploiting the conflict and that Jana Sangh is attacking Swatantra Party figures, including Masani and C. Rajagopalachari, over the Kutch Award. He urges Masani to recognise the damage caused by the Central Party's position on the award and closes by requesting further scrutiny of allegations against Bhagwanji Patel. The document has no printed title and is reproduced as a two-page office copy.
+
 ## Key points
 
 - Ratibhai Patel reports on Gujarat Swatantra Party meetings concerning the selection of Babubhai Vaidya for the Rajya Sabha.

@@ -52,6 +52,12 @@ summary: |-
   The letter identifies a conflict between the statutory requirement that a party constitution affirm “true faith and allegiance” to the principles of socialism, secularism, and democracy, and the Swatantra Party's explicit opposition to socialism. While affirming its commitment to secularism and democracy, the party states that repudiating socialism is its central political purpose and asks whether its registration application can be accepted without accepting the socialism requirement. The letter closes by requesting an early reply.
 ---
 
+## Summary
+
+This two-page letter, dated June 28, 1994, is written by J. Venkit eswaran, President of the Swatantra Party, Maharashtra, to the Election Commission of India. It concerns the party's proposed registration under section 29A of the Representation of the People Act, 1951, and follows earlier correspondence from August 1, 1989 and a reply from the Commission's Research Officer, K. P. G. Kutty.
+
+The letter identifies a conflict between the statutory requirement that a party constitution affirm “true faith and allegiance” to the principles of socialism, secularism, and democracy, and the Swatantra Party's explicit opposition to socialism. While affirming its commitment to secularism and democracy, the party states that repudiating socialism is its central political purpose and asks whether its registration application can be accepted without accepting the socialism requirement. The letter closes by requesting an early reply.
+
 ## Key points
 
 - The letter is dated June 28, 1994 and is addressed to the Election Commission of India.

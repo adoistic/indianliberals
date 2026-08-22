@@ -51,6 +51,12 @@ summary: |-
   The letter also defends the Central Parliamentary Board and National Executive against Masani’s description of their conduct as “eye wash.” It says the bodies considered the matter extensively, weighed inaction, sweeping disciplinary action, and the more limited course ultimately adopted, and concludes that disciplinary action against the defectors was necessary. At the same time, the writer rejects an ideal of absolute procedural purity, warning that trying to impose “puristic righteousness” in party organisation would risk disaster. The three-page document ends with a handwritten signature that cannot be confidently identified.
 ---
 
+## Summary
+
+This 22 May 1968 letter from the Swatantra Party Central Office responds to Minoo Masani’s resignation from the National Executive and Central Parliamentary Board. The unnamed signatory argues that Masani’s condemnation of the Gujarat leadership is unfair because it overlooks the party’s earlier decision to support Babubhai Vaidya for the Rajya Sabha, the Gujarat leadership’s undertaking to implement that decision, changes in the party’s legislators between 1966 and 1968, defections, and the practical difficulties faced by Gujarat leaders in securing support for Vaidya.
+
+The letter also defends the Central Parliamentary Board and National Executive against Masani’s description of their conduct as “eye wash.” It says the bodies considered the matter extensively, weighed inaction, sweeping disciplinary action, and the more limited course ultimately adopted, and concludes that disciplinary action against the defectors was necessary. At the same time, the writer rejects an ideal of absolute procedural purity, warning that trying to impose “puristic righteousness” in party organisation would risk disaster. The three-page document ends with a handwritten signature that cannot be confidently identified.
+
 ## Key points
 
 - The letter replies to Minoo Masani’s 13 May 1968 resignation letter and regrets that the earlier correspondence was released to the press without first seeing Masani’s reply.

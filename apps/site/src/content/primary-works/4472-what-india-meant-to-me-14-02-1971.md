@@ -49,6 +49,12 @@ summary: |-
   Fielden’s strongest criticisms concern the colonial and postcolonial administrative culture he encountered. He recalls British official society as narrow, repetitive, and culturally stifling, and portrays All India Radio as undermined by government micromanagement, licensing practices, inadequate facilities, and bureaucratic habits. He also describes overpopulation, poverty, indifference, and administrative failure as sources of continuing frustration. At the same time, he credits India with producing enduring friendships and beautiful experiences, ending with the deliberately ambivalent judgment that India meant “FRUSTRATION”—though he wonders whether that answer would now be different for Mrs Gandhi.
 ---
 
+## Summary
+
+In the rendered article page, Lionel Fielden reflects on his five years in India, resisting any single, simplified account of the country. He describes arriving through a chain of partly accidental decisions: Eric Dunstan of the BBC persuaded him to repair failing broadcasting stations, while Fielden was also disillusioned with the BBC’s bureaucracy and believed India offered an opportunity to build a better organisation. His initial response was intensely hostile, reinforced by Aldous Huxley’s warning that India was “the most squalid and hateful country in the world,” but the article gradually complicates that reaction through Fielden’s friendships with Indian public figures and his appreciation of Indian places.
+
+Fielden’s strongest criticisms concern the colonial and postcolonial administrative culture he encountered. He recalls British official society as narrow, repetitive, and culturally stifling, and portrays All India Radio as undermined by government micromanagement, licensing practices, inadequate facilities, and bureaucratic habits. He also describes overpopulation, poverty, indifference, and administrative failure as sources of continuing frustration. At the same time, he credits India with producing enduring friendships and beautiful experiences, ending with the deliberately ambivalent judgment that India meant “FRUSTRATION”—though he wonders whether that answer would now be different for Mrs Gandhi.
+
 ## Key points
 
 - Fielden argues that India cannot be reduced to a single national or cultural identity because of its size and diversity.

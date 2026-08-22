@@ -58,6 +58,12 @@ summary: |-
   Masani treats the proposed Monopolies Commission as compromised because it is composed entirely of officials and asks why private monopolies should be singled out while state monopolies and public-sector abuses escape equivalent scrutiny. He further argues that the Budget's priority-industries policy and public-sector expansion exclude competitors from industrial activity and impose consumer shortages. In the closing sections, he contrasts this approach with the Soviet experience at Anshan and Rourkela, portraying state-directed industrialisation and the denial of consumer goods as a policy of ideological imitation rather than practical economic development.
 ---
 
+## Summary
+
+In this article, drawn from a Lok Sabha speech delivered on 17 April 1964, Minoo Masani attacks the Union Budget's tax policy, planning priorities, and expanding state control. He argues that the cumulative burden of surtax, dividend tax, capital-gains tax, excise duties, and gift tax threatens business investment and may push even a solvent economy toward insolvency. He also presents under-estimated tax revenues, uncollected arrears, and alleged over-assessments as evidence of a deliberate policy of extracting resources rather than encouraging production.
+
+Masani treats the proposed Monopolies Commission as compromised because it is composed entirely of officials and asks why private monopolies should be singled out while state monopolies and public-sector abuses escape equivalent scrutiny. He further argues that the Budget's priority-industries policy and public-sector expansion exclude competitors from industrial activity and impose consumer shortages. In the closing sections, he contrasts this approach with the Soviet experience at Anshan and Rourkela, portraying state-directed industrialisation and the denial of consumer goods as a policy of ideological imitation rather than practical economic development.
+
 ## Key points
 
 - Masani argues that the Budget's combined taxes on profits, dividends, capital gains, and consumption threaten investment and economic solvency.

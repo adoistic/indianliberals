@@ -52,6 +52,12 @@ summary: |-
   Masani argues that abandoning democracy for authoritarianism, or accepting the supposed choice between “Bread” and “Freedom,” would produce stagnation. He identifies two prerequisites for democratic development: voluntary grassroots civic activity and restraint in the demands placed on democratic institutions. The essay criticizes the legacy of state capitalism and bureaucratic statism associated with Jawaharlal Nehru, calls for a reversal of that course and a return to limited government, and concludes by invoking Gandhi's maxim that the best government is the one that governs least.
 ---
 
+## Summary
+
+In this two-page essay, Minoo Masani asks whether India is sufficiently prepared for democracy and rejects the idea that democratic fitness is a fixed qualification that must precede self-government. He attributes India's difficulties to its massive population, illiteracy, distances, communication gaps, weak non-conformist and grassroots activity, and indiscipline, while insisting that democratic capacity develops through the practice of freedom. Comparisons with countries around the Atlantic, Japan, Australia, New Zealand, and Africa frame fitness as relative rather than absolute.
+
+Masani argues that abandoning democracy for authoritarianism, or accepting the supposed choice between “Bread” and “Freedom,” would produce stagnation. He identifies two prerequisites for democratic development: voluntary grassroots civic activity and restraint in the demands placed on democratic institutions. The essay criticizes the legacy of state capitalism and bureaucratic statism associated with Jawaharlal Nehru, calls for a reversal of that course and a return to limited government, and concludes by invoking Gandhi's maxim that the best government is the one that governs least.
+
 ## Key points
 
 - Democratic fitness is presented as relative rather than an absolute condition.

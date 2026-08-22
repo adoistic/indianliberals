@@ -50,6 +50,12 @@ summary: |-
   The Board decided that both amendments could be moved, but that Mr. Imam should press his amendment only if Mr. Masani’s amendment was rejected. It regarded this arrangement as consistent with ordinary parliamentary practice and therefore declined to alter its earlier decision permitting Mr. Imam to move his amendment. No author, publisher, or further procedural context is provided on the page.
 ---
 
+## Summary
+
+This one-page extract records a decision of the Central Parliamentary Board at its meeting in Bhubaneshwar on October 3, 1968, concerning Mr. Mohammed Imam’s proposed amendment to Mr. Nath Pal’s Bill on Fundamental Rights. The Board considered a communication from Mr. Masani, who warned that amendments already tabled by him and the Maharaja of Dhrangadhra might make it embarrassing for the Board if Mr. Imam moved a different amendment, given the constitutional provision that amendments concerning fundamental rights could be made only through a referendum.
+
+The Board decided that both amendments could be moved, but that Mr. Imam should press his amendment only if Mr. Masani’s amendment was rejected. It regarded this arrangement as consistent with ordinary parliamentary practice and therefore declined to alter its earlier decision permitting Mr. Imam to move his amendment. No author, publisher, or further procedural context is provided on the page.
+
 ## Key points
 
 - The document is an extract from the Central Parliamentary Board’s minutes for a meeting held in Bhubaneshwar on October 3, 1968.

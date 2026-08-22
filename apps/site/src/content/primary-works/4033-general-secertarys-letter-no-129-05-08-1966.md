@@ -52,6 +52,12 @@ summary: |-
   Masani states that the national manifesto will address matters of policy affecting the country as a whole, while the state manifesto will supplement it by dealing with issues specific to the relevant state. He asks each party unit to submit suggestions for the draft national manifesto and to prepare a manifesto for its own state, with both requested by 31 August.
 ---
 
+## Summary
+
+In this letter dated 5 August 1966, M. R. Masani explains the distinction between the Swatantra Party's national and state manifestos. Writing after the Central Parliamentary Board's meeting in Madras on 22–23 July, he notes that members had requested clarification because of confusion among party colleagues in different states.
+
+Masani states that the national manifesto will address matters of policy affecting the country as a whole, while the state manifesto will supplement it by dealing with issues specific to the relevant state. He asks each party unit to submit suggestions for the draft national manifesto and to prepare a manifesto for its own state, with both requested by 31 August.
+
 ## Key points
 
 - The letter responds to confusion about the difference between the Swatantra Party's Central and State Manifestos.

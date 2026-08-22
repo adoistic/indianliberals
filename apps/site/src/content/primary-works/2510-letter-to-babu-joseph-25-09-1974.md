@@ -48,6 +48,12 @@ summary: |-
   Sequeira proposes meeting Joseph in Cochin in the middle of the following month. He offers to stay for three or four days, travel around the state, and meet additional people, closing with a request for Joseph to confirm whether the proposed meeting would be convenient. The document is entirely in English and includes a handwritten signature.
 ---
 
+## Summary
+
+This single-page letter, dated 25 September 1974, was sent by Erasmo de Sequeira from Campal, Panjim, Goa, to Babu Joseph in Ranni, Kerala. On letterhead identifying Sequeira as a Member of Parliament, the sender explains that the BLD National Working Committee has asked him to contact Joseph and other associates to help activate the party in Kerala.
+
+Sequeira proposes meeting Joseph in Cochin in the middle of the following month. He offers to stay for three or four days, travel around the state, and meet additional people, closing with a request for Joseph to confirm whether the proposed meeting would be convenient. The document is entirely in English and includes a handwritten signature.
+
 ## Key points
 
 - The letter is dated 25 September 1974 and was sent from Campal, Panjim, Goa.

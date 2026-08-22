@@ -51,6 +51,10 @@ summary: |-
   In this letter dated April 2, 1971, M. R. Masani informs a Swatantra Party colleague that the party’s General Council will meet after the party’s poor performance in the General Elections. He argues that the party must undertake a serious reassessment of its organisation, strategy, and future in order to preserve and advance freedom in India. Drawing on Mahatma Gandhi’s advice to “turn the searchlight inward,” Masani stresses both persistence in pursuing political objectives and the courage to acknowledge mistakes.
 ---
 
+## Summary
+
+In this letter dated April 2, 1971, M. R. Masani informs a Swatantra Party colleague that the party’s General Council will meet after the party’s poor performance in the General Elections. He argues that the party must undertake a serious reassessment of its organisation, strategy, and future in order to preserve and advance freedom in India. Drawing on Mahatma Gandhi’s advice to “turn the searchlight inward,” Masani stresses both persistence in pursuing political objectives and the courage to acknowledge mistakes.
+
 ## Key points
 
 - Masani describes the 1971 election results as a disaster for the Swatantra Party and, in many respects, for India.

@@ -49,6 +49,12 @@ summary: |-
   The letter is administrative and narrowly focused: it records Rajaji’s acceptance and communicates the proposed speaking date. No further details about the event, its venue, or its subject are provided on the page.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to S. P. Godrej, dated May 26, 1964, follows up on a discussion at the ICWA Executive. Masani reports that C. Rajagopalachari (“Rajaji”) has agreed to address the ICWA on the evening of Wednesday, July 1.
+
+The letter is administrative and narrowly focused: it records Rajaji’s acceptance and communicates the proposed speaking date. No further details about the event, its venue, or its subject are provided on the page.
+
 ## Key points
 
 - The letter is dated May 26, 1964.

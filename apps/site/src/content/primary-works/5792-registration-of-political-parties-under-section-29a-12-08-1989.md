@@ -57,6 +57,12 @@ summary: |-
   The attached extracts reproduce section 29A and the relevant application requirements. They specify information about the organisation's name, headquarters, communications address, office-bearers, membership, local units, and legislative representation, as well as its political principles, aims, programmes, organisational organs, and relationship with electors. The materials further require the party's rules to affirm allegiance to the Constitution of India, socialism, secularism, democracy, and India's sovereignty, unity, and integrity. The attached 15 June 1989 amendment establishes transitional sixty-day provisions for parties previously recognised as national, state, or unrecognised parties.
 ---
 
+## Summary
+
+This 12 August 1989 letter from the Election Commission of India to the President of the Swatantra Party explains the requirements for registering a political organisation under section 29A of the Representation of the People Act, 1951. It directs applicants to submit a detailed application, the party constitution, and the particulars required under the amended Election Symbols (Reservation and Allotment) Order, 1989. The letter also states that an application and constitution should reach the Commission within 30 days of the organisation's formation.
+
+The attached extracts reproduce section 29A and the relevant application requirements. They specify information about the organisation's name, headquarters, communications address, office-bearers, membership, local units, and legislative representation, as well as its political principles, aims, programmes, organisational organs, and relationship with electors. The materials further require the party's rules to affirm allegiance to the Constitution of India, socialism, secularism, democracy, and India's sovereignty, unity, and integrity. The attached 15 June 1989 amendment establishes transitional sixty-day provisions for parties previously recognised as national, state, or unrecognised parties.
+
 ## Key points
 
 - The Election Commission's letter is dated 12 August 1989 and is addressed to the President of the Swatantra Party.

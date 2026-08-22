@@ -52,6 +52,12 @@ summary: |-
   The circular notes that the National Executive's September 29–30 meeting leaves insufficient time for the usual prior consultation. It therefore circulates the recommendations already received from the Bombay and Rajasthan Units and seeks approval by return card. Unless objections are received by September 11, approval is to be presumed. The attached table assigns Bombay 50 council seats across five regional units and Rajasthan 166 seats across its listed districts, using a stated ratio of one representative for every 20 workers, subject to a minimum of 10 representatives per district or unit.
 ---
 
+## Summary
+
+Dated August 31, 1967, this Swatantra Party National Executive Circular addresses the proposed strength and composition of the Bombay Regional and Rajasthan State Councils. It explains that, under Clause 8(b) of the Party Constitution, the National Executive must prescribe each council's strength, and asks State Units to submit recommendations based on worker enrolment, district seat allocations, and the resulting council strength.
+
+The circular notes that the National Executive's September 29–30 meeting leaves insufficient time for the usual prior consultation. It therefore circulates the recommendations already received from the Bombay and Rajasthan Units and seeks approval by return card. Unless objections are received by September 11, approval is to be presumed. The attached table assigns Bombay 50 council seats across five regional units and Rajasthan 166 seats across its listed districts, using a stated ratio of one representative for every 20 workers, subject to a minimum of 10 representatives per district or unit.
+
 ## Key points
 
 - The circular implements Clause 8(b) of the Swatantra Party Constitution concerning the strength of State and Regional Councils.

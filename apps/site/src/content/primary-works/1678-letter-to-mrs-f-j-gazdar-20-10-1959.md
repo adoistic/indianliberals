@@ -47,6 +47,12 @@ summary: |-
   The sender is not identified: no name, signature, title, place, or issuing organisation is visible on the rendered page. The letter provides a brief documentary record of private financial support for the Swatantra Party during its founding year.
 ---
 
+## Summary
+
+This single-page English letter, dated 20 October 1959, thanks Mrs. F. J. Gazdar and her sons for a generous donation to the funds of the newly formed Swatantra Party. The writer expresses appreciation for their support.
+
+The sender is not identified: no name, signature, title, place, or issuing organisation is visible on the rendered page. The letter provides a brief documentary record of private financial support for the Swatantra Party during its founding year.
+
 ## Key points
 
 - The letter is dated 20th October, 1959.

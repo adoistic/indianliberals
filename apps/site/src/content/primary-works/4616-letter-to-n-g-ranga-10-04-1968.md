@@ -50,6 +50,12 @@ summary: |-
   Masani asks that his resignation from the National Executive be accepted and reported to the General Council. He notes that 101 of the 110 members had been entitled to vote in his election to the National Executive, and states that the resulting vacancy should be filled by the General Council at its forthcoming meeting in Bhubaneswar. The letter is therefore both a clarification of his motives and a request for formal adherence to party procedure.
 ---
 
+## Summary
+
+This one-page letter, dated 10 April 1968, records M. R. Masani’s refusal to attend Swatantra Party meetings in Delhi on 13 and 14 April because he had already made constituency commitments and planned to leave Delhi on 12 April. Masani rejects the suggestion that his resignation was intended to pressure the National Executive or Central Parliamentary Board over the party’s handling of the Gujarat debacle, insisting that party decisions should be based on merit and the party’s abiding interest rather than on his actions.
+
+Masani asks that his resignation from the National Executive be accepted and reported to the General Council. He notes that 101 of the 110 members had been entitled to vote in his election to the National Executive, and states that the resulting vacancy should be filled by the General Council at its forthcoming meeting in Bhubaneswar. The letter is therefore both a clarification of his motives and a request for formal adherence to party procedure.
+
 ## Key points
 
 - Masani declines to attend Swatantra Party meetings in Delhi on 13 and 14 April because of prior constituency commitments.

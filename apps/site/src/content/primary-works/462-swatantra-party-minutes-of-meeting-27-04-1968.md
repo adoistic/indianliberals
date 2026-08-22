@@ -53,6 +53,12 @@ summary: |-
   The notice states that polling would be held in Parliament House between 11 a.m. and 5 p.m. for the offices where contests remained, while several candidates were declared elected unopposed. A footnote explains that the terms of the Lok Sabha Leader and Deputy Leader would run until the end of that Lok Sabha's life in 1972, while the Rajya Sabha Leader would serve until 1970. The rendered page shows only this administrative record; it does not include broader discussion of party policy or parliamentary activity.
 ---
 
+## Summary
+
+This one-page Swatantra Party Parliamentary Office notice, dated 27 April 1968, records the final nominations for party offices in the Lok Sabha and Rajya Sabha. It lists Prof. N. G. Ranga as Lok Sabha Leader and Mr. M. R. Masani as Deputy Leader, alongside nominees for secretarial, whip, and executive-committee positions. For the Rajya Sabha, it lists Mr. Dahyabhai V. Patel as Leader, Prof. M. Ruthnaswamy as Deputy Leader, and nominees for Secretary, Whip, and Executive Committee.
+
+The notice states that polling would be held in Parliament House between 11 a.m. and 5 p.m. for the offices where contests remained, while several candidates were declared elected unopposed. A footnote explains that the terms of the Lok Sabha Leader and Deputy Leader would run until the end of that Lok Sabha's life in 1972, while the Rajya Sabha Leader would serve until 1970. The rendered page shows only this administrative record; it does not include broader discussion of party policy or parliamentary activity.
+
 ## Key points
 
 - The notice is issued by the Swatantra Party Parliamentary Office from 53 North Avenue, New Delhi, on 27 April 1968.

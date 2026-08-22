@@ -56,6 +56,10 @@ summary: |-
   In this 24 August 1960 Lok Sabha speech, M. R. Masani supports a substitute motion opposing the Third Five Year Plan and argues that its planning model over-centralises economic power. He rejects the depiction of opponents as advocates of unregulated laissez-faire, distinguishing the Swatantra Party's position—regulated free enterprise, protection for weaker groups, and maximum individual freedom—from both Soviet-style collectivism and an entirely unregulated economy. He also argues for a balanced development strategy in which heavy industry is not prioritised at the expense of agriculture, light industry, cottage industry, and consumer goods. Masani uses the proposed fourth steel plant as an example of what he regards as premature and inefficient capital allocation.
 ---
 
+## Summary
+
+In this 24 August 1960 Lok Sabha speech, M. R. Masani supports a substitute motion opposing the Third Five Year Plan and argues that its planning model over-centralises economic power. He rejects the depiction of opponents as advocates of unregulated laissez-faire, distinguishing the Swatantra Party's position—regulated free enterprise, protection for weaker groups, and maximum individual freedom—from both Soviet-style collectivism and an entirely unregulated economy. He also argues for a balanced development strategy in which heavy industry is not prioritised at the expense of agriculture, light industry, cottage industry, and consumer goods. Masani uses the proposed fourth steel plant as an example of what he regards as premature and inefficient capital allocation.
+
 ## Key points
 
 - Masani presents the Swatantra Party as supporting regulated free enterprise rather than laissez-faire or unrestricted private power.

@@ -51,6 +51,12 @@ summary: |-
   The writer argues that the delay departs from the House's established practice and criticises the Leader of the House for not advising the Acting President to schedule the election promptly. The letter invokes Rule 7(1) of the Rules of Procedure and Conduct of Business in Lok Sabha, asking the Acting President to fix the earliest possible date so that the House can again have a Speaker to guide its proceedings. The handwritten signature is not legible, and no typed signer name appears.
 ---
 
+## Summary
+
+This one-page letter, dated July 24, 1969, is addressed to the Acting President of India from a Member of Parliament on Lok Sabha letterhead. It protests the delay in electing a new Speaker after the previous Speaker's resignation, noting that several days have passed without announcing either an election date or a programme of nominations.
+
+The writer argues that the delay departs from the House's established practice and criticises the Leader of the House for not advising the Acting President to schedule the election promptly. The letter invokes Rule 7(1) of the Rules of Procedure and Conduct of Business in Lok Sabha, asking the Acting President to fix the earliest possible date so that the House can again have a Speaker to guide its proceedings. The handwritten signature is not legible, and no typed signer name appears.
+
 ## Key points
 
 - The letter is dated July 24, 1969, and was sent from Parliament House, New Delhi.

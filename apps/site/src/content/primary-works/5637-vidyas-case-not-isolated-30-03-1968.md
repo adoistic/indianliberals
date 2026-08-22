@@ -53,6 +53,12 @@ summary: |-
   The second page records a resolution moved by Mr. K. P. Singh Deo, M.P., and unanimously adopted by the General Council. It expresses sympathy for people affected by the cyclone and an existing three-year drought, calls on the Central Government to provide financial and material assistance through the State Government, and urges Indians—especially Swatantra Party members—to contribute to the Orissa Chief Minister’s Relief Fund. The scan is composite, and no publication date is printed on the visible pages.
 ---
 
+## Summary
+
+This two-page composite file combines a newspaper clipping headed “VAIDYA'S CASE NOT ISOLATED” with a typed Swatantra Party General Council resolution on relief for victims of a cyclone in Orissa. The clipping discusses the political circumstances surrounding Mr. Vaidya’s candidacy, including support from members of the Congress and Swatantra Party, competing candidates, and disagreement over whether Vaidya’s case was exceptional. It also refers to Minoo Masani’s view that the episode was not isolated and that political parties should avoid allowing such incidents to damage their own ranks.
+
+The second page records a resolution moved by Mr. K. P. Singh Deo, M.P., and unanimously adopted by the General Council. It expresses sympathy for people affected by the cyclone and an existing three-year drought, calls on the Central Government to provide financial and material assistance through the State Government, and urges Indians—especially Swatantra Party members—to contribute to the Orissa Chief Minister’s Relief Fund. The scan is composite, and no publication date is printed on the visible pages.
+
 ## Key points
 
 - The file contains two distinct items: a newspaper clipping about Vaidya’s political case and a Swatantra Party relief resolution.

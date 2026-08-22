@@ -49,6 +49,12 @@ summary: |-
   The accompanying pages preserve newspaper clippings reporting the same political development, including headlines such as “Tan Singh Joins Swatantra Group” and “MP joins Swatantra.” A photograph of Tan Singh is also included. The packet documents a specific parliamentary-party affiliation announcement rather than presenting an argument or policy programme.
 ---
 
+## Summary
+
+This five-page press-note packet, issued from New Delhi on February 27, 1965, announces that Tan Singh, Member of Parliament for the Barmer constituency in Rajasthan, had joined the Swatantra Group in the Lok Sabha. The typed notice is marked “For favour of publication” and is distributed to editors of PTI, UNI, Times of India, Indian Express, Hindustan Times, and Statesman. It is signed by M. R. Masani in his capacity as Deputy Leader.
+
+The accompanying pages preserve newspaper clippings reporting the same political development, including headlines such as “Tan Singh Joins Swatantra Group” and “MP joins Swatantra.” A photograph of Tan Singh is also included. The packet documents a specific parliamentary-party affiliation announcement rather than presenting an argument or policy programme.
+
 ## Key points
 
 - The document announces Tan Singh’s entry into the Swatantra Group in the Lok Sabha.

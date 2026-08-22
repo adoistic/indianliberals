@@ -49,6 +49,12 @@ summary: |-
   The closing lines characterise Narayan as an individualist driven by good intentions and good wishes, while questioning whether those qualities are sufficient. The clipping is a brief biographical tribute or reminiscence rather than a sustained political analysis; no author byline is visible.
 ---
 
+## Summary
+
+This short English newspaper clipping, headed “J. P.”, presents Jayaprakash Narayan as a distinctive and difficult-to-categorise public figure. It begins by describing India as a country that puzzles the world, focusing on the unusual possibility of government negotiations with bandits and on the public attention surrounding Narayan.
+
+The closing lines characterise Narayan as an individualist driven by good intentions and good wishes, while questioning whether those qualities are sufficient. The clipping is a brief biographical tribute or reminiscence rather than a sustained political analysis; no author byline is visible.
+
 ## Key points
 
 - The clipping is headed “J. P.” and concerns Jayaprakash Narayan.

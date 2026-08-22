@@ -47,6 +47,12 @@ summary: |-
   Masani encloses minutes of an Organisation Sub-Committee meeting held in Delhi on 7 November. The minutes defer action on developments concerning the Madras resolution on the Swatantra Party organisation in Bihar until the President of the Bihar State Unit returns to India and communicates with the party, after which another meeting is to be called in Madras. Masani says he accepted this wording under pressure from “Munshi” and asks Rajagopalachari to bear that in mind while redrafting the letter to Ramgarh. He closes by requesting the redraft so it can be posted when Singh returns.
 ---
 
+## Summary
+
+In this letter dated 1 December 1962, M. R. Masani writes to C. Rajagopalachari about a returned registered letter intended for Kamakhya Narayan Singh. Because Rajagopalachari had warned Masani in Poona about the matter, Masani sends him a copy so that he can maintain the firmness of an earlier letter and avoid suggesting any retreat from the resolution adopted in Madras on 22 July.
+
+Masani encloses minutes of an Organisation Sub-Committee meeting held in Delhi on 7 November. The minutes defer action on developments concerning the Madras resolution on the Swatantra Party organisation in Bihar until the President of the Bihar State Unit returns to India and communicates with the party, after which another meeting is to be called in Madras. Masani says he accepted this wording under pressure from “Munshi” and asks Rajagopalachari to bear that in mind while redrafting the letter to Ramgarh. He closes by requesting the redraft so it can be posted when Singh returns.
+
 ## Key points
 
 - Masani reports that a registered letter sent on 16 November was returned because Kamakhya Narayan Singh had not yet returned from abroad.

@@ -47,6 +47,10 @@ summary: |-
   This one-page letter, dated 17 April 1962 and written on Dahyabhai Vallabhbhai Patel’s Bombay letterhead, concerns an impending Vice-Presidential Election. Patel says that the Congress Whip in the Rajya Sabha has drawn his attention to a newspaper report stating that a candidate has received support from the Congress Party.
 ---
 
+## Summary
+
+This one-page letter, dated 17 April 1962 and written on Dahyabhai Vallabhbhai Patel’s Bombay letterhead, concerns an impending Vice-Presidential Election. Patel says that the Congress Whip in the Rajya Sabha has drawn his attention to a newspaper report stating that a candidate has received support from the Congress Party.
+
 ## Key points
 
 - The letter discusses a reported party endorsement in a Vice-Presidential Election.

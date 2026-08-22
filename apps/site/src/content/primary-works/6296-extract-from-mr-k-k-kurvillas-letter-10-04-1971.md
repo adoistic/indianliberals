@@ -46,6 +46,10 @@ summary: |-
   This one-page English typescript is an extract from Mr. K.K. Kurvilla’s letter of 10 April 1971 to Dr. R.C. Cooper. Kurvilla considers M.R. Masani’s resignation from the Swatantra Party sound in principle, but stresses the need to identify a successor who can lead the party. He also asks Cooper to convey his congratulations to Masani for his work as party president.
 ---
 
+## Summary
+
+This one-page English typescript is an extract from Mr. K.K. Kurvilla’s letter of 10 April 1971 to Dr. R.C. Cooper. Kurvilla considers M.R. Masani’s resignation from the Swatantra Party sound in principle, but stresses the need to identify a successor who can lead the party. He also asks Cooper to convey his congratulations to Masani for his work as party president.
+
 ## Key points
 
 - The document is an extract from a letter dated 10 April 1971.

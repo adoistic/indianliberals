@@ -52,3 +52,9 @@ summary: |-
   
   In the rendered pages, Fischer supports the proposal with appeals to Vinoba Bhave, C. Rajagopalachari, Jawaharlal Nehru, Mahatma Gandhi, and Pakistan’s President Ayub Khan, as well as with arguments about Kashmir, food production, population growth, and the economic costs of division. The article ends by revisiting the British Cabinet Mission’s 1946 proposal for a federated India and promises a concluding article the following week; that continuation is not included in the rendered set.
 ---
+
+## Summary
+
+This issue presents the first part of Louis Fischer’s two-part article arguing that India and Pakistan should form a confederation to meet the military and political challenge posed by China. Fischer contends that the two countries are linked by geography, economic interdependence, and social ties, while partition has produced duplicative military spending, disrupted markets and transport, and a foreign-policy conflict: Pakistan belongs to Western-backed alliances, whereas India is nonaligned. The proposed union would preserve separate administrations while coordinating defense, foreign affairs, and communications.
+
+In the rendered pages, Fischer supports the proposal with appeals to Vinoba Bhave, C. Rajagopalachari, Jawaharlal Nehru, Mahatma Gandhi, and Pakistan’s President Ayub Khan, as well as with arguments about Kashmir, food production, population growth, and the economic costs of division. The article ends by revisiting the British Cabinet Mission’s 1946 proposal for a federated India and promises a concluding article the following week; that continuation is not included in the rendered set.

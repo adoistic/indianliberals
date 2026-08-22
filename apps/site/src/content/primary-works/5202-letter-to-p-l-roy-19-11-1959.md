@@ -48,6 +48,12 @@ summary: |-
   The letter also concerns the organisational work of a political party. Masani acknowledges that Roy has identified 40 potential party members but questions why the membership books have not yet been obtained. He notes that copies have been distributed among contacts in Bombay and instructs Roy to secure the books from Sardar Lal Singh or elsewhere. The page provides a brief glimpse of party-building, membership recruitment, and the correspondence involved in maintaining the organisation.
 ---
 
+## Summary
+
+This letter, dated 12 November 1959, is addressed by M. R. Masani to P. L. Roy. Masani explains that he had intended to travel to Calcutta but may instead return to Bombay in time to attend a cocktail party arranged by Mr. Mukherjee. He asks Roy to convey his thanks for the invitation and says he will be in Delhi at 40 Canning Lane from 16 November onward.
+
+The letter also concerns the organisational work of a political party. Masani acknowledges that Roy has identified 40 potential party members but questions why the membership books have not yet been obtained. He notes that copies have been distributed among contacts in Bombay and instructs Roy to secure the books from Sardar Lal Singh or elsewhere. The page provides a brief glimpse of party-building, membership recruitment, and the correspondence involved in maintaining the organisation.
+
 ## Key points
 
 - The letter is dated 12 November 1959 and is addressed to P. L. Roy.

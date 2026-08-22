@@ -46,6 +46,12 @@ summary: |-
   Page 2 preserves a handwritten confirmation copy of the same message, signed “Masani.” The document contains no discussion of policy, institutions, or political argument; it records a brief logistical exchange between Minoo Masani and N. G. Ranga.
 ---
 
+## Summary
+
+This two-page English archival communication, dated August 13, 1968, is a telegram-like message addressed to N. G. Ranga at his New Delhi residence. The clipped typed text conveys regret that the sender cannot come on Wednesday and states that the sender will return on the morning of the 19th. The document identifies the sender as Masani and gives an address associated with the Swatantra Party in Bombay.
+
+Page 2 preserves a handwritten confirmation copy of the same message, signed “Masani.” The document contains no discussion of policy, institutions, or political argument; it records a brief logistical exchange between Minoo Masani and N. G. Ranga.
+
 ## Key points
 
 - The document is a two-page English telegram-like archival communication dated August 13, 1968.

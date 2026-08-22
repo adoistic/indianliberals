@@ -53,6 +53,10 @@ summary: |-
   This seven-page Swatantra Party office note, signed by General Secretary N. Dandeker, examines the party’s defeat in the March 1968 biennial Rajya Sabha election in Gujarat. It reconstructs the Central Parliamentary Board’s earlier decision to nominate Dr. Biharlal Anantani in 1966, the informal understanding that the party would support Babubhai Vaidya for a future Rajya Sabha seat, and the negotiations with the Independent Progressive Group and other opposition figures that helped secure Anantani’s election.
 ---
 
+## Summary
+
+This seven-page Swatantra Party office note, signed by General Secretary N. Dandeker, examines the party’s defeat in the March 1968 biennial Rajya Sabha election in Gujarat. It reconstructs the Central Parliamentary Board’s earlier decision to nominate Dr. Biharlal Anantani in 1966, the informal understanding that the party would support Babubhai Vaidya for a future Rajya Sabha seat, and the negotiations with the Independent Progressive Group and other opposition figures that helped secure Anantani’s election.
+
 ## Key points
 
 - The Gujarat State Parliamentary Board originally recommended Babubhai Vaidya as the party’s first-preference candidate for the 1968 Rajya Sabha election.

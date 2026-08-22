@@ -46,6 +46,10 @@ summary: |-
   This single-page telegram, dated 29 April 1964, is addressed to C. Rajagopalachari in Madras and signed “MASANI.” It reports that Jawaharlal Nehru and Lal Bahadur Shastri are seeking a solution with Sheikh Abdullah but are impeded by confused thinking within the Congress Party and by a Congress–Jansangh–Communist combination. The sender asks Rajagopalachari to consider telegraphing or writing to Nehru, offering encouragement and personal support.
 ---
 
+## Summary
+
+This single-page telegram, dated 29 April 1964, is addressed to C. Rajagopalachari in Madras and signed “MASANI.” It reports that Jawaharlal Nehru and Lal Bahadur Shastri are seeking a solution with Sheikh Abdullah but are impeded by confused thinking within the Congress Party and by a Congress–Jansangh–Communist combination. The sender asks Rajagopalachari to consider telegraphing or writing to Nehru, offering encouragement and personal support.
+
 ## Key points
 
 - The document is a confirmation copy of a telegram dated 29 April 1964.

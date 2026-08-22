@@ -52,6 +52,12 @@ summary: |-
   Ranga argues that defence is a concern shared by the entire House and states that, in his view, Communists are aligned with international communism and are not primarily loyal to India. He therefore prefers that Communists be excluded from such committees. The letter closes by affirming support for national resistance against Chinese Communist aggression and for ongoing defence efforts.
 ---
 
+## Summary
+
+In this letter dated 19 November 1962 from New Delhi, N. G. Ranga thanks Satya Narayan Sinha for inviting him to a proposed meeting of Members of Parliament from both Houses to hear the Chairman of the Central Citizens' Committee. Ranga uses the occasion to protest the Government's formation of defence-related committees without consulting organised, non-communist parliamentary groups and their leaders.
+
+Ranga argues that defence is a concern shared by the entire House and states that, in his view, Communists are aligned with international communism and are not primarily loyal to India. He therefore prefers that Communists be excluded from such committees. The letter closes by affirming support for national resistance against Chinese Communist aggression and for ongoing defence efforts.
+
 ## Key points
 
 - The letter is dated 19 November 1962 and was sent from New Delhi.

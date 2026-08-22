@@ -49,6 +49,10 @@ summary: |-
   In this one-page letter dated 27 November 1987, Minoo Masani writes to K. S. Venkateshwaran from Tata Consultancy Services. He forwards a copy of a petition filed jointly by Masani and P. C. Chatterji seeking to strike down the government monopoly on broadcasting.
 ---
 
+## Summary
+
+In this one-page letter dated 27 November 1987, Minoo Masani writes to K. S. Venkateshwaran from Tata Consultancy Services. He forwards a copy of a petition filed jointly by Masani and P. C. Chatterji seeking to strike down the government monopoly on broadcasting.
+
 ## Key points
 
 - The document is a one-page English letter dated 27 November 1987.

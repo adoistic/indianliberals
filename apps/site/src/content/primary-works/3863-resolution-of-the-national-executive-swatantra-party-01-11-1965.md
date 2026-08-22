@@ -62,6 +62,12 @@ summary: |-
   The subsequent foreign-policy resolution praises the armed forces and public unity, criticises Pakistan’s non-cooperation over the ceasefire, and calls for a more realistic foreign policy in response to Communist China. It supports India’s continued membership of the Commonwealth, diplomatic relations with Taiwan, liberation of Tibet, recognition of the Dalai Lama’s government in exile, and stronger support for Malaysia and South Vietnam. The packet also calls for a review of detention cases, opposes exploiting the crisis for partisan advantage, rejects the manufacture of nuclear weapons in India, and directs opposition to a proposed bill seen as weakening states’ rights and the federal structure.
 ---
 
+## Summary
+
+This five-page Swatantra Party resolution packet records the National Executive’s economic and foreign-policy positions amid the 1965 India–Pakistan hostilities. The economic resolution argues that war-related defence needs have intensified an already serious crisis produced by inflation, distorted planning priorities, neglect of agriculture, excessive taxation, controls, over-regulation, corruption, waste, and dependence on foreign aid. It calls for agriculture to receive priority in planning and allocations; an end to compulsory procurement and zonal restrictions; a nationwide foodgrain market; remunerative price supports; temporary subsidies for poorer sections; repeal of the Seventeenth Amendment and the Gold Control Act; reduced civil expenditure and taxation; dismantling of the Permit-Licence Raj; and conditions favourable to foreign equity investment.
+
+The subsequent foreign-policy resolution praises the armed forces and public unity, criticises Pakistan’s non-cooperation over the ceasefire, and calls for a more realistic foreign policy in response to Communist China. It supports India’s continued membership of the Commonwealth, diplomatic relations with Taiwan, liberation of Tibet, recognition of the Dalai Lama’s government in exile, and stronger support for Malaysia and South Vietnam. The packet also calls for a review of detention cases, opposes exploiting the crisis for partisan advantage, rejects the manufacture of nuclear weapons in India, and directs opposition to a proposed bill seen as weakening states’ rights and the federal structure.
+
 ## Key points
 
 - The Swatantra Party attributes India’s economic difficulties to inflation, faulty planning priorities, agricultural neglect, taxation, controls, over-regulation, corruption, waste, and foreign-aid dependence.

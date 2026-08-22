@@ -55,6 +55,12 @@ summary: |-
   The accompanying typed press statement, issued by the Maharashtra State Unit on 8 July 1974, rejects press reports that party members overwhelmingly wanted dissolution. It records that the Maharashtra State Council had adopted a resolution opposing dissolution and declared that, even if the National Convention dissolved the organisation, the Maharashtra unit would continue functioning because the party's principles and policies remained relevant. The pages therefore present party politics as a constitutional and ideological question, not merely an organisational dispute.
 ---
 
+## Summary
+
+This two-page 1974 archival file documents an internal dispute over the proposed dissolution of the Swatantra Party. A newspaper clipping dated 29 July reports that five members of the Madras district unit petitioned the civil court against party leaders Piloo Mody, Madhav Mehta and Minoo Masani, seeking to restrain them from convening a meeting intended to dissolve the party. The petitioners argued that the party's national leaders were acting contrary to its constitution and sought judicial intervention to prevent its dissolution.
+
+The accompanying typed press statement, issued by the Maharashtra State Unit on 8 July 1974, rejects press reports that party members overwhelmingly wanted dissolution. It records that the Maharashtra State Council had adopted a resolution opposing dissolution and declared that, even if the National Convention dissolved the organisation, the Maharashtra unit would continue functioning because the party's principles and policies remained relevant. The pages therefore present party politics as a constitutional and ideological question, not merely an organisational dispute.
+
 ## Key points
 
 - Five members of the Swatantra Party's Madras district unit filed a civil suit concerning the proposed dissolution of the party.

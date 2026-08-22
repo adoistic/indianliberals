@@ -45,6 +45,10 @@ summary: |-
   This one-page English organisational notice records the Central Parliamentary Board appointed by the National Executive of the Swatantra Party on 29 December 1969. It lists M. R. Masani as President and identifies board members holding leadership positions in the Lok Sabha, Rajya Sabha, the Orissa, Rajasthan, Gujarat, and Andhra Pradesh legislatures, as well as the party's General Secretary.
 ---
 
+## Summary
+
+This one-page English organisational notice records the Central Parliamentary Board appointed by the National Executive of the Swatantra Party on 29 December 1969. It lists M. R. Masani as President and identifies board members holding leadership positions in the Lok Sabha, Rajya Sabha, the Orissa, Rajasthan, Gujarat, and Andhra Pradesh legislatures, as well as the party's General Secretary.
+
 ## Key points
 
 - The notice is dated 29 December 1969.

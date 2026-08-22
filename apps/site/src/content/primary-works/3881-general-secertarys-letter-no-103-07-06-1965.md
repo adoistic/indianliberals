@@ -49,6 +49,12 @@ summary: |-
   The requested channels of circulation are Indian-language newspapers, district party units, and other means. The letter is therefore a brief piece of party correspondence focused on communicating decisions of the Swatantra Party’s national executive to its state-level organisation and wider public.
 ---
 
+## Summary
+
+Dated June 7, 1965, this one-page letter from M. R. Masani, General Secretary of the Swatantra Party, forwards nine resolutions adopted by the party’s National Executive at its June 5 meeting in Madras. Masani asks the recipient to arrange for the resolutions to be disseminated as widely as possible within the recipient’s state.
+
+The requested channels of circulation are Indian-language newspapers, district party units, and other means. The letter is therefore a brief piece of party correspondence focused on communicating decisions of the Swatantra Party’s national executive to its state-level organisation and wider public.
+
 ## Key points
 
 - The letter is dated June 7, 1965, and is issued from the Swatantra Party Central Office in Bombay.

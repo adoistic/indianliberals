@@ -48,6 +48,10 @@ summary: |-
   This single-page institutional letter from The Triplicane Cultural Academy, Madras, dated 18 October 1959, is addressed to Sri M. R. Masani in Bombay. The Academy notes that Masani is expected to visit Madras toward the end of the month to participate in the Madras District Swatantra Party Convention, scheduled for 31 October 1959.
 ---
 
+## Summary
+
+This single-page institutional letter from The Triplicane Cultural Academy, Madras, dated 18 October 1959, is addressed to Sri M. R. Masani in Bombay. The Academy notes that Masani is expected to visit Madras toward the end of the month to participate in the Madras District Swatantra Party Convention, scheduled for 31 October 1959.
+
 ## Key points
 
 - The letter is issued on the letterhead of The Triplicane Cultural Academy at 38, Car Street, Madras-5.

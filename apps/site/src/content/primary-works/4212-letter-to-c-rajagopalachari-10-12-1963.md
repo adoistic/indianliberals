@@ -53,6 +53,12 @@ summary: |-
   The substantive portion of the letter addresses the Unit Trust scheme and related legislation. Masani argues that the voluntary Unit Trust scheme cannot replace the Compulsory Deposit Scheme because participation will be limited. He also mentions having sent Rajagopalachari copies of speeches on the Unit Trust Bill and the Plan, together with a minute of dissent on the Companies Bill, and anticipates that Rajagopalachari will share his concern about the handling of trusts.
 ---
 
+## Summary
+
+In this untitled letter dated 10 December 1963, M. R. Masani writes from New Delhi to C. Rajagopalachari (“Rajaji”) about Rajagopalachari’s recent ill health and recovery after a flight to Madras. Masani asks that future correspondence be sent directly rather than through the Parliamentary Group office, and reports that members of the group have promised to remain active during Rajagopalachari’s enforced inactivity.
+
+The substantive portion of the letter addresses the Unit Trust scheme and related legislation. Masani argues that the voluntary Unit Trust scheme cannot replace the Compulsory Deposit Scheme because participation will be limited. He also mentions having sent Rajagopalachari copies of speeches on the Unit Trust Bill and the Plan, together with a minute of dissent on the Companies Bill, and anticipates that Rajagopalachari will share his concern about the handling of trusts.
+
 ## Key points
 
 - Masani’s letter is dated 10 December 1963 and is addressed to C. Rajagopalachari in Madras.

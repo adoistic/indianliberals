@@ -55,6 +55,12 @@ summary: |-
   Shenoy also criticises the assumptions underlying the plan's projected income growth and savings. He warns that inflation can obscure the real level of savings, that public-sector expansion may divert resources from more productive uses, and that the resulting deficit must be covered through foreign aid or further borrowing. The continuation argues for greater reliance on private-sector investment and cautions that government borrowing and monetary expansion may intensify inflationary pressures. Only the article's opening and a continuation fragment were legible in the rendered clipping; the intervening and concluding portions are not present.
 ---
 
+## Summary
+
+In the visible opening and continuation of this Times of India essay, B. R. Shenoy examines how the Third Plan is expected to finance its investment programme. He argues that the plan depends heavily on mobilising domestic savings and foreign aid, while inflation, expanding welfare commitments, and state intervention weaken the prospects for achieving the required savings rate. The essay compares savings estimates and targets for the First, Second, and Third Plans, and questions whether the planned investment outlay is adequately supported by available resources.
+
+Shenoy also criticises the assumptions underlying the plan's projected income growth and savings. He warns that inflation can obscure the real level of savings, that public-sector expansion may divert resources from more productive uses, and that the resulting deficit must be covered through foreign aid or further borrowing. The continuation argues for greater reliance on private-sector investment and cautions that government borrowing and monetary expansion may intensify inflationary pressures. Only the article's opening and a continuation fragment were legible in the rendered clipping; the intervening and concluding portions are not present.
+
 ## Key points
 
 - The Third Plan's investment programme is presented as dependent on domestic savings and foreign aid.

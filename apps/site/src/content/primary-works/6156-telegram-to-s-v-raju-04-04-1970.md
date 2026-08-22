@@ -45,6 +45,10 @@ summary: |-
   This one-page English telegram, received in Bombay on 4 April 1970, is addressed to “RAJU CARE SURAJYAM BOMBAY.” It asks the recipient to arrange collection of an airfreight packet under an IAC consignment number. The sender strip identifies the sender only as “-MASANI-.”
 ---
 
+## Summary
+
+This one-page English telegram, received in Bombay on 4 April 1970, is addressed to “RAJU CARE SURAJYAM BOMBAY.” It asks the recipient to arrange collection of an airfreight packet under an IAC consignment number. The sender strip identifies the sender only as “-MASANI-.”
+
 ## Key points
 
 - The document is a one-page telegram form issued by the Indian Posts and Telegraphs Department.

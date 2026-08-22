@@ -60,6 +60,12 @@ summary: |-
   The resolution rejects State Trading in food grains and compulsory levies on peasants, warning that such controls would increase blackmarketing, corruption, and chaos. Its proposed long-term remedy is the rehabilitation of agriculture through irrigation, fertilisers, seeds, roads, guaranteed floor prices, and cheap credit. In the short term, it calls for the release of government-held grain stocks, the restoration of a common free market, an end to scapegoating peasants and traders, and consultative machinery bringing government, farmers, and the food-grain trade together. The document closes by urging Swatantra Party members to defend the rights and interests of peasants, traders, and consumers.
 ---
 
+## Summary
+
+This three-page draft resolution attributes food scarcity and rising food-grain prices to what the Swatantra Party calls the Congress Government’s economically misguided policies. It criticizes farm-size ceilings and the resulting fragmentation of holdings, arguing that uncertainty, taxation, and the threat of collectivisation discourage private investment in agriculture. It also blames inflationary fiscal measures and the priorities of the Second and Third Five-Year Plans for neglecting agriculture, road building, and rural processing in favour of slower-yielding heavy projects.
+
+The resolution rejects State Trading in food grains and compulsory levies on peasants, warning that such controls would increase blackmarketing, corruption, and chaos. Its proposed long-term remedy is the rehabilitation of agriculture through irrigation, fertilisers, seeds, roads, guaranteed floor prices, and cheap credit. In the short term, it calls for the release of government-held grain stocks, the restoration of a common free market, an end to scapegoating peasants and traders, and consultative machinery bringing government, farmers, and the food-grain trade together. The document closes by urging Swatantra Party members to defend the rights and interests of peasants, traders, and consumers.
+
 ## Key points
 
 - The resolution blames food scarcity and high prices on Congress Government policies that it says disregard economic principles.

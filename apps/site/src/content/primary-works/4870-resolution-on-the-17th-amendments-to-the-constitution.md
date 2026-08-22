@@ -52,6 +52,12 @@ summary: |-
   It also distinguishes the Party's support for land reforms that provide security of tenure and fair rents from reforms that, in its view, remove fundamental constitutional rights. The word “farm” in the typed phrase “farm rents” has been handwritten over and corrected to “fair rents.”
 ---
 
+## Summary
+
+This one-page English resolution, issued under the Swatantra Party heading, condemns the enactment of the Seventeenth Amendment to the Constitution despite public protests and the Party's efforts to prevent it. The resolution pledges renewed efforts to protect peasant proprietorship and secure repeal of the Amendment at the earliest possible opportunity.
+
+It also distinguishes the Party's support for land reforms that provide security of tenure and fair rents from reforms that, in its view, remove fundamental constitutional rights. The word “farm” in the typed phrase “farm rents” has been handwritten over and corrected to “fair rents.”
+
 ## Key points
 
 - The General Council deplores the enactment of the Seventeenth Amendment.

@@ -51,6 +51,12 @@ summary: |-
   The enclosed award determines that the party’s office bearers hold tenancy rights in the premises at 143 Mahatma Gandhi Road, Bombay, together with listed assets, in trust for the furtherance of the Swatantra Party’s stated objects and principles. It further directs the office bearers to execute and publish a suitable legal declaration of trust, restricting use of the tenancy rights and assets to those principles.
 ---
 
+## Summary
+
+This three-page English letter, dated April 29, 1977, records M. R. Masani’s transmission of an enclosed award to Girish Munshi concerning an internal dispute in the Maharashtra Swatantra Party. Masani explains that the award follows meetings held on April 14 and 23 and correspondence exchanged among Parmanand Kejriwal, Munshi, K. H. Subramanian, L. R. Sampat, and S. V. Raju.
+
+The enclosed award determines that the party’s office bearers hold tenancy rights in the premises at 143 Mahatma Gandhi Road, Bombay, together with listed assets, in trust for the furtherance of the Swatantra Party’s stated objects and principles. It further directs the office bearers to execute and publish a suitable legal declaration of trust, restricting use of the tenancy rights and assets to those principles.
+
 ## Key points
 
 - Masani’s letter is dated April 29, 1977, and is addressed to Girish Munshi.

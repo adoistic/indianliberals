@@ -55,6 +55,12 @@ summary: |-
   Masani links political liberty to discipline and civic responsibility, invoking Mahatma Gandhi’s view that discipline and freedom are complementary. He criticizes the Congress Party but also argues that non-Congress governments have not demonstrated a clear alternative, leaving a political vacuum that could be exploited by Communists or authoritarian forces. The essay closes with an appeal to India’s educated, business, industrial, professional, and working citizens to abandon passivity and lead a renewal of public spirit. Its economic argument attributes national decline both to mistaken government policies and to inadequate willingness to work hard, while its defense of democracy draws on Winston Churchill’s formulation that democracy is the worst form of government except all the others.
 ---
 
+## Summary
+
+In this four-page Republic Day reflection, Minoo Masani treats the occasion as a prompt for renewed constitutional loyalty, rededication, and national self-criticism rather than complacent celebration. He identifies threats to India’s democratic Constitution from abroad—especially Chinese hostility and the unresolved Kashmir question—as well as from within: economic decline, corruption, violence, administrative failure, and political parties that place factional interests above the country. He argues that the state must protect citizens’ lives, property, and security, while citizens must resist passivity and participate actively in defending freedom.
+
+Masani links political liberty to discipline and civic responsibility, invoking Mahatma Gandhi’s view that discipline and freedom are complementary. He criticizes the Congress Party but also argues that non-Congress governments have not demonstrated a clear alternative, leaving a political vacuum that could be exploited by Communists or authoritarian forces. The essay closes with an appeal to India’s educated, business, industrial, professional, and working citizens to abandon passivity and lead a renewal of public spirit. Its economic argument attributes national decline both to mistaken government policies and to inadequate willingness to work hard, while its defense of democracy draws on Winston Churchill’s formulation that democracy is the worst form of government except all the others.
+
 ## Key points
 
 - Republic Day should renew loyalty to the Republic and Constitution rather than encourage complacency.

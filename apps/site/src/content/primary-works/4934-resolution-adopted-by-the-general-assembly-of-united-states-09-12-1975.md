@@ -59,6 +59,12 @@ summary: |-
   Pages 6–7 are visibly a separate, apparently misfiled document: resolutions passed at the All-India “Save the Constitution” Conference of lawyers, journalists, and other public figures in Ahmedabad on 1 January 1976, under the auspices of Citizens For Democracy, with V. M. Tarkunde in the chair. These pages call for restoration of freedom of expression and association, release of political prisoners, protection of judicial review and judicial independence, and restrictions on the use of constitutional emergency powers. The dossier is therefore complete as a seven-page PDF, but it combines the UN resolution and declaration with a distinct Indian constitutional-democracy document.
 ---
 
+## Summary
+
+This archival dossier reproduces United Nations Resolution 3452 (XXX), adopted on 9 December 1975, together with its annexed Declaration on the Protection of All Persons from being Subjected to Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment. The resolution grounds the prohibition of torture in human dignity, the UN Charter, the Universal Declaration of Human Rights, and the International Covenants. The declaration defines torture, condemns it as an offence against human dignity, rejects emergency or wartime justifications, and sets out state duties concerning prevention, official training, interrogation procedures, criminalisation, impartial investigation, victim compensation, and the exclusion of coerced statements as evidence.
+
+Pages 6–7 are visibly a separate, apparently misfiled document: resolutions passed at the All-India “Save the Constitution” Conference of lawyers, journalists, and other public figures in Ahmedabad on 1 January 1976, under the auspices of Citizens For Democracy, with V. M. Tarkunde in the chair. These pages call for restoration of freedom of expression and association, release of political prisoners, protection of judicial review and judicial independence, and restrictions on the use of constitutional emergency powers. The dossier is therefore complete as a seven-page PDF, but it combines the UN resolution and declaration with a distinct Indian constitutional-democracy document.
+
 ## Key points
 
 - Resolution 3452 (XXX) was adopted by the UN General Assembly on 9 December 1975 and circulated in a document dated 19 January 1976.

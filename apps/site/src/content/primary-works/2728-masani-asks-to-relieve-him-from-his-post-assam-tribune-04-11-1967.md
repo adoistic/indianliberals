@@ -51,6 +51,12 @@ summary: |-
   Masani’s stated reason was that it was not good for the country or parliamentary democracy for one person to hold the same government-in-office position for too long. He argued that party office-bearers should do most of the work while members remained passive, and said he would continue serving the party in Parliament and outside it by spreading its principles. The reports also record his assurance that he would remain active in the party, including while Dandekar acted in his place during Masani’s chairmanship of the Public Accounts Committee.
 ---
 
+## Summary
+
+This single-page clipping sheet reproduces two newspaper reports dated 4 November 1967 concerning M. R. Masani, then General Secretary of the Swatantra Party. The reports say that Masani asked the party’s general council to relieve him of the post, which he had held for seven years, and recommended that N. Dandekar succeed him for the next two years. The council was scheduled to meet in New Delhi on 25 November to elect new office-bearers.
+
+Masani’s stated reason was that it was not good for the country or parliamentary democracy for one person to hold the same government-in-office position for too long. He argued that party office-bearers should do most of the work while members remained passive, and said he would continue serving the party in Parliament and outside it by spreading its principles. The reports also record his assurance that he would remain active in the party, including while Dandekar acted in his place during Masani’s chairmanship of the Public Accounts Committee.
+
 ## Key points
 
 - M. R. Masani sought relief from the Swatantra Party’s general-secretaryship after seven years in the post.

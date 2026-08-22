@@ -53,6 +53,12 @@ summary: |-
   The alternative rests on two pillars: a clear order of priorities and a division of responsibilities between government and private enterprise. Agriculture should come first, followed by consumer-goods industries and then heavy and basic industries. The state should concentrate on irrigation, water supply, roads, communications, electricity, education, production incentives and limited regulation against anti-social practices, while allowing enterprise and consumer demand to guide production. Masani presents this as a mixed-economy approach compatible with the socialist objective of raising living standards, and closes by contrasting the proposed path with the planning doctrines associated with Gandhi, Western social democracy, John F. Kennedy and Karl Marx.
 ---
 
+## Summary
+
+M. R. Masani argues that the Third Five Year Plan has failed and should be replaced by an alternative form of planning rather than simply abandoned. Using Mahatma Gandhi’s test of judging policy by its effect on the poorest and weakest person, he defines the immediate objective as ensuring food, clothing, shelter and basic education. He contends that meeting this minimum would require a substantial increase in per-capita income and an annual growth rate of roughly 7–8 per cent, which he presents as demanding but achievable in light of post-war examples from West Germany, China and Japan.
+
+The alternative rests on two pillars: a clear order of priorities and a division of responsibilities between government and private enterprise. Agriculture should come first, followed by consumer-goods industries and then heavy and basic industries. The state should concentrate on irrigation, water supply, roads, communications, electricity, education, production incentives and limited regulation against anti-social practices, while allowing enterprise and consumer demand to guide production. Masani presents this as a mixed-economy approach compatible with the socialist objective of raising living standards, and closes by contrasting the proposed path with the planning doctrines associated with Gandhi, Western social democracy, John F. Kennedy and Karl Marx.
+
 ## Key points
 
 - Masani describes the Third Five Year Plan as having failed, with price rises and taxation among the few targets fulfilled or exceeded.

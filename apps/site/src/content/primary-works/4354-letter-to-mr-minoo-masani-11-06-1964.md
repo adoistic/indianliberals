@@ -49,6 +49,10 @@ summary: |-
   In this letter dated 11 June 1964, C. Rajagopalachari writes to M. R. Masani about legal advice concerning the Supreme Court's decision to strike down laws. The unnamed lawyer believes that the 17th Amendment can now be challenged, but Rajagopalachari says he considers this position mistaken.
 ---
 
+## Summary
+
+In this letter dated 11 June 1964, C. Rajagopalachari writes to M. R. Masani about legal advice concerning the Supreme Court's decision to strike down laws. The unnamed lawyer believes that the 17th Amendment can now be challenged, but Rajagopalachari says he considers this position mistaken.
+
 ## Key points
 
 - The letter is addressed to M. R. Masani and dated 11 June 1964.

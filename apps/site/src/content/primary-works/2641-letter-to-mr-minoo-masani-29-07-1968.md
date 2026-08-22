@@ -48,6 +48,10 @@ summary: |-
   This one-page official personal letter, dated 29 July 1968, was sent from Bhubaneswar by J. K. Mishra, Assistant Private Secretary to the Chief Minister of Orissa, to M. R. Masani, M.P. Mishra acknowledges Masani’s D.O. letter of 24 July and explains that it had reached the Chief Minister only that day, after Masani had already left for Delhi.
 ---
 
+## Summary
+
+This one-page official personal letter, dated 29 July 1968, was sent from Bhubaneswar by J. K. Mishra, Assistant Private Secretary to the Chief Minister of Orissa, to M. R. Masani, M.P. Mishra acknowledges Masani’s D.O. letter of 24 July and explains that it had reached the Chief Minister only that day, after Masani had already left for Delhi.
+
 ## Key points
 
 - The letter is dated 29 July 1968 and issued from Bhubaneswar on Orissa State Chief Minister's Office letterhead.

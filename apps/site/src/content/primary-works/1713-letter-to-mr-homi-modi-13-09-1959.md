@@ -53,6 +53,12 @@ summary: |-
   The letter explains that Bombay, Calcutta and Delhi are expected to become self-financing, while Bihar, Kerala and Assam were not included in the initial estimates. It notes that Andhra and Uttar Pradesh have already begun district-level organisation and that Madras is currently raising its own funds. The writer asks Modi to arrange payments to the party treasurer in Lucknow and the convenor in Vijayawada, and reiterates an understanding that 50 per cent of Bombay collections will remain at the discretion of the Central Organisation. The sender's handwritten signature is not confidently identifiable from the rendered pages.
 ---
 
+## Summary
+
+This two-page Swatantra Party letter, dated 13 September 1959 and addressed to Sir Homi Modi, sets out an initial funding arrangement for building the party's provincial and central organisation. It records proposed grants to state units including Madras, Mysore, Punjab, Rajasthan, Andhra, Gujarat, Uttar Pradesh and Orissa, alongside allocations for the Leader's Office and Central Office. The writer calculates a revised total budget of Rs. 15,000 for the immediate arrangement and an annual budget of Rs. 1,80,000 for the current year.
+
+The letter explains that Bombay, Calcutta and Delhi are expected to become self-financing, while Bihar, Kerala and Assam were not included in the initial estimates. It notes that Andhra and Uttar Pradesh have already begun district-level organisation and that Madras is currently raising its own funds. The writer asks Modi to arrange payments to the party treasurer in Lucknow and the convenor in Vijayawada, and reiterates an understanding that 50 per cent of Bombay collections will remain at the discretion of the Central Organisation. The sender's handwritten signature is not confidently identifiable from the rendered pages.
+
 ## Key points
 
 - The letter proposes a Rs. 12,500 allocation across provincial units and the party's central offices.

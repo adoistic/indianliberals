@@ -47,6 +47,12 @@ summary: |-
   The document is administrative rather than argumentative: it contains no text of the letter, explanation of the issues, author attribution, date, publisher, or issuing organisation. Handwritten annotations visibly mark several entries as deleted, released, or amended and add replacement addresses, but they do not establish the document's provenance.
 ---
 
+## Summary
+
+This three-page English office record is a typed list of 60 numbered recipients to whom Mr. Raju's letter concerning “the issues on Swatantra Party” was sent. It records names, professional descriptions, and postal addresses across numerous Indian cities and states, including Gujarat, Bihar, Karnataka, Kerala, Rajasthan, Orissa, Tamil Nadu, Uttar Pradesh, and West Bengal.
+
+The document is administrative rather than argumentative: it contains no text of the letter, explanation of the issues, author attribution, date, publisher, or issuing organisation. Handwritten annotations visibly mark several entries as deleted, released, or amended and add replacement addresses, but they do not establish the document's provenance.
+
 ## Key points
 
 - The document is headed as a list of persons who received Mr. Raju's letter.

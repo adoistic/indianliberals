@@ -47,6 +47,10 @@ summary: |-
   This one-page English administrative letter, dated 4 September 1959, was sent from the Swatantra Party’s Bombay Office by its Honorary Secretary, R. V. Murphy, to Shri Hukum Singh in Ajmer, Rajasthan. It states that, on the advice of S. Y. Krishnaswamy, the party’s General Secretary in Madras, and under the direction of its Honorary Treasurer, Sir H. P. Mody, Murphy is enclosing a cheque for Rs. 2,500.
 ---
 
+## Summary
+
+This one-page English administrative letter, dated 4 September 1959, was sent from the Swatantra Party’s Bombay Office by its Honorary Secretary, R. V. Murphy, to Shri Hukum Singh in Ajmer, Rajasthan. It states that, on the advice of S. Y. Krishnaswamy, the party’s General Secretary in Madras, and under the direction of its Honorary Treasurer, Sir H. P. Mody, Murphy is enclosing a cheque for Rs. 2,500.
+
 ## Key points
 
 - The letter is dated 4 September 1959 and issued from the Swatantra Party’s Bombay Office.

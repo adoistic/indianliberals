@@ -62,6 +62,12 @@ summary: |-
   Masani argues that the party must build a broad coalition joining peasants, workers, professionals, the urban middle class, and responsible businesspeople. He insists that its support should rest primarily on ordinary citizens rather than Big Business, and rejects the charge that Swatantra is merely a capitalist interest group. The speech also frames the party as an uncompromising opponent of communism, while arguing that a credible non-Communist alternative can prevent anti-Congress discontent from flowing into Communist channels. In its closing sections, the address defends criticism as the necessary starting point for a constructive programme and invokes Gandhi, Rajaji, Indian cultural traditions, and Abraham Lincoln in articulating a politics centered on liberty, initiative, thrift, and personal responsibility.
 ---
 
+## Summary
+
+In this opening address to the Swatantra Party’s August 1959 Preparatory Convention, M. R. Masani presents the party as a democratic and liberal alternative to the Congress government’s socialist and increasingly interventionist policies. He describes the party’s emergence as a response to the absence of an effective parliamentary opposition, defending individual freedom, freedom of choice, private enterprise, and a constitutional political order against what he calls “State Capitalism.” The address links this critique to opposition to joint farming, land ceilings, state monopolies, excessive taxation, inflation, bureaucratic interference, and ideological planning.
+
+Masani argues that the party must build a broad coalition joining peasants, workers, professionals, the urban middle class, and responsible businesspeople. He insists that its support should rest primarily on ordinary citizens rather than Big Business, and rejects the charge that Swatantra is merely a capitalist interest group. The speech also frames the party as an uncompromising opponent of communism, while arguing that a credible non-Communist alternative can prevent anti-Congress discontent from flowing into Communist channels. In its closing sections, the address defends criticism as the necessary starting point for a constructive programme and invokes Gandhi, Rajaji, Indian cultural traditions, and Abraham Lincoln in articulating a politics centered on liberty, initiative, thrift, and personal responsibility.
+
 ## Key points
 
 - Masani introduces the Swatantra Party as a new national movement for democratic liberties and personal freedom.

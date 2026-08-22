@@ -54,6 +54,12 @@ summary: |-
   The convention considered competing resolutions: one rejecting dissolution and one approving it. The resolution against dissolution received 53 votes, while the dissolution resolution passed with 407 votes in favour, 53 against, and one neutral. The accompanying state-wise table records substantial support for dissolution, particularly from Uttar Pradesh, Orissa, Gujarat, Rajasthan, and Tamil Nadu. The final resolution welcomed the formation of the Bharatiya Lok Dal (People's Party of India), authorised President Piloo Mody to implement the merger, and instructed the Election Commission to freeze the Swatantra Party's electoral symbol. The file also includes an unsuccessful proposal arguing that the party should remain in existence as an independent national alternative.
 ---
 
+## Summary
+
+This ten-page archival file contains correspondence and resolutions concerning the Swatantra Party's Seventh National Convention, held in New Delhi on 4–5 August 1974. The documents record an internal debate over whether the party should dissolve and join a broader National Alternative. The General Council had supported negotiations with other political parties, while insisting that the final decision be made by a National Convention after members had examined the proposed programme.
+
+The convention considered competing resolutions: one rejecting dissolution and one approving it. The resolution against dissolution received 53 votes, while the dissolution resolution passed with 407 votes in favour, 53 against, and one neutral. The accompanying state-wise table records substantial support for dissolution, particularly from Uttar Pradesh, Orissa, Gujarat, Rajasthan, and Tamil Nadu. The final resolution welcomed the formation of the Bharatiya Lok Dal (People's Party of India), authorised President Piloo Mody to implement the merger, and instructed the Election Commission to freeze the Swatantra Party's electoral symbol. The file also includes an unsuccessful proposal arguing that the party should remain in existence as an independent national alternative.
+
 ## Key points
 
 - The Seventh National Convention of the Swatantra Party met in New Delhi on 4–5 August 1974 to decide the party's future.

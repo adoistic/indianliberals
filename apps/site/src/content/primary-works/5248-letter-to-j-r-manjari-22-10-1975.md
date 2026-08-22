@@ -49,6 +49,12 @@ summary: |-
   Masani states that Rajaji had decided that the Swatantra Party should not adopt any particular position on the reorganisation of the Bombay State. He nevertheless stresses that individual members, including Joshi and Manjeri, remain free to take whatever position they consider appropriate, indicating a distinction between the party's official stance and the political freedom of its members.
 ---
 
+## Summary
+
+In this letter dated October 22, 1975, M. R. Masani advises J. R. Manjeri to contact Maganlal Joshi at the Swatantra Party office in Jamnagar regarding party work in Saurashtra and to discuss local problems with him. Masani presents Joshi as the appropriate local contact for advancing Manjeri's ideas.
+
+Masani states that Rajaji had decided that the Swatantra Party should not adopt any particular position on the reorganisation of the Bombay State. He nevertheless stresses that individual members, including Joshi and Manjeri, remain free to take whatever position they consider appropriate, indicating a distinction between the party's official stance and the political freedom of its members.
+
 ## Key points
 
 - Masani acknowledges Manjeri's letter of October 15, 1975.

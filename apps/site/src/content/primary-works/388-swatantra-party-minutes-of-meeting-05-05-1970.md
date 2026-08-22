@@ -51,6 +51,12 @@ summary: |-
   The minutes also document internal administration. The committee discussed a special contribution of Rs. 50 from each member in the current session and another Rs. 50 during the next session to help clear outstanding bills amounting to more than Rs. 7,000. It urged economy in expenditure, arranged a six-month supply of office stationery, nominated Prof. R. K. Amin to the Committee of the I.C.A.R., and designated him as a treasurer alongside Shri Dahyabhai V. Patel. R. K. Amin signs the document as Secretary.
 ---
 
+## Summary
+
+This one-page office record, issued by the Swatantra Party Parliamentary Office in New Delhi on May 5, 1970, records a meeting of the party's Executive Committee. It lists nine members present and assigns speakers to parliamentary business including the Finance Bill, Petroleum Bill, Contingency Fund of India Bill, Merchant Shipping Bill, North Eastern Council Bill, and a report on prohibition.
+
+The minutes also document internal administration. The committee discussed a special contribution of Rs. 50 from each member in the current session and another Rs. 50 during the next session to help clear outstanding bills amounting to more than Rs. 7,000. It urged economy in expenditure, arranged a six-month supply of office stationery, nominated Prof. R. K. Amin to the Committee of the I.C.A.R., and designated him as a treasurer alongside Shri Dahyabhai V. Patel. R. K. Amin signs the document as Secretary.
+
 ## Key points
 
 - The Executive Committee meeting was held at the Swatantra Party room at 10:15 a.m. on May 5, 1970.

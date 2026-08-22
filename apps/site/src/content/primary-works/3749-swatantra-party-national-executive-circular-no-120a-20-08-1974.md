@@ -52,6 +52,12 @@ summary: |-
   The agenda includes confirmation of the minutes of the August 4 meeting, settling the date of the party's dissolution in accordance with resolutions passed at the National Convention on August 4 and 5, and any other business permitted by the chair. Members are asked to be in Delhi from the afternoon of August 28 through August 30, partly because the Bharatiya Lok Dal is to be inaugurated on August 29 and other meetings are planned. The circular is signed by Madhu Mehta, Vice President.
 ---
 
+## Summary
+
+This one-page Swatantra Party National Executive Circular, dated August 20, 1974, changes the venue and time of the next National Executive meeting. The meeting is scheduled for Wednesday, August 28, at 5 p.m. at Wenger's Restaurant in Connaught Place, New Delhi, rather than at the Vitthalbhai Patel House.
+
+The agenda includes confirmation of the minutes of the August 4 meeting, settling the date of the party's dissolution in accordance with resolutions passed at the National Convention on August 4 and 5, and any other business permitted by the chair. Members are asked to be in Delhi from the afternoon of August 28 through August 30, partly because the Bharatiya Lok Dal is to be inaugurated on August 29 and other meetings are planned. The circular is signed by Madhu Mehta, Vice President.
+
 ## Key points
 
 - The next National Executive meeting is rescheduled for August 28, 1974, at 5 p.m.

@@ -50,6 +50,12 @@ summary: |-
   The letter also acknowledges Masani’s suggestion of a party meeting immediately after the President’s address on February 17. Jain says that Prof. Ranga is expected to return from Trivandrum on the night of January 24, after which he will obtain Ranga’s approval and issue notices to party members. A 25 January 1965 receipt stamp is visible on the document, although the printed date of the letter is January 22, 1964.
 ---
 
+## Summary
+
+This one-page English letter, dated January 22, 1964, is from the Swatantra Party Parliamentary Office in New Delhi and is addressed to Minoo Masani. The apparent signatory, whose typed name reads “M. P. Jain,” reports on a meeting with Dr. Rozansky of the Liberal Party of Israel in Claridges. The discussion covered the Swatantra Party’s policies and programmes and its efforts to publicise them inside and outside Parliament; Rozansky was also given a complete set of the party’s publications for his personal record.
+
+The letter also acknowledges Masani’s suggestion of a party meeting immediately after the President’s address on February 17. Jain says that Prof. Ranga is expected to return from Trivandrum on the night of January 24, after which he will obtain Ranga’s approval and issue notices to party members. A 25 January 1965 receipt stamp is visible on the document, although the printed date of the letter is January 22, 1964.
+
 ## Key points
 
 - The letter records a meeting with Dr. Rozansky of the Liberal Party of Israel.

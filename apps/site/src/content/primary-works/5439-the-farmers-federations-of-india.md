@@ -52,6 +52,12 @@ summary: |-
   The document establishes a layered organisation comprising national, state, district, and taluka associations, with councils, delegates, elected chairs, an executive council, officers, branch committees, and annual conventions. It also regulates voting, finance, audits, trusteeship, inspection of records, and the creation of a political fund. Membership is open not only to farmers and their families but also to associations, firms, agricultural students, scientists, economists, and honorary members. The rendered document is complete, although no author, publisher, place, or publication year is printed.
 ---
 
+## Summary
+
+This English-language rules document sets out the constitution and operating framework of THE FARMERS' FEDERATION OF INDIA. It defines the Federation's name, objects, membership categories, admission and disciplinary procedures, and subscription arrangements. Its stated purposes range from promoting farmers' interests and influencing legislation to supporting agricultural research, cooperation, transport, marketing, warehousing, insurance, financial arrangements, and agro-based rural industry. The rules define farming broadly to include agriculture, planting, horticulture, silviculture, livestock, poultry, seed growing, crop drying, and primary food processing.
+
+The document establishes a layered organisation comprising national, state, district, and taluka associations, with councils, delegates, elected chairs, an executive council, officers, branch committees, and annual conventions. It also regulates voting, finance, audits, trusteeship, inspection of records, and the creation of a political fund. Membership is open not only to farmers and their families but also to associations, firms, agricultural students, scientists, economists, and honorary members. The rendered document is complete, although no author, publisher, place, or publication year is printed.
+
 ## Key points
 
 - The Federation's objects combine farmer representation, legislative advocacy, agricultural development, and community cooperation.

@@ -56,6 +56,12 @@ summary: |-
   The minutes document the party’s opposition to the Banking Companies Bill, the Monopolies and Restrictive Trade Practices Bill, and three bills concerning the State Services and Indian Civil Service, while also recording support for extending the franchise to people above eighteen. They note resolutions on administrative reform, arms and lethal weapons, and the formation of people’s committees in Kerala. The record also covers relations with the Jan Sangh, the Orissa Government’s Anti-Corruption Bill, committee nominations, and congratulations to Professor M. Ruthnaswamy on receiving the Padma Bhushan. The document is signed by C. C. Desai as Secretary.
 ---
 
+## Summary
+
+Dated February 13, 1968, this two-page record of a Swatantra Party General Body meeting held in Parliament House lists the members present and records decisions for party business. The meeting approved a substitute motion of thanks to the President’s Address for tabling on behalf of the party and reviewed recent decisions of the Central Parliamentary Board and National Executive meetings held at Cochin.
+
+The minutes document the party’s opposition to the Banking Companies Bill, the Monopolies and Restrictive Trade Practices Bill, and three bills concerning the State Services and Indian Civil Service, while also recording support for extending the franchise to people above eighteen. They note resolutions on administrative reform, arms and lethal weapons, and the formation of people’s committees in Kerala. The record also covers relations with the Jan Sangh, the Orissa Government’s Anti-Corruption Bill, committee nominations, and congratulations to Professor M. Ruthnaswamy on receiving the Padma Bhushan. The document is signed by C. C. Desai as Secretary.
+
 ## Key points
 
 - The General Body meeting took place in Room No. 50 of Parliament House at 4:00 p.m. on February 12, 1968.

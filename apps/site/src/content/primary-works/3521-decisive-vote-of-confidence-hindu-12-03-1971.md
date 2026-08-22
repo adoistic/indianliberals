@@ -52,6 +52,12 @@ summary: |-
   A second item on the same page, headlined “Personal Image of Mrs. Gandhi,” reports Atal Bihari Vajpayee’s view that the four-party alliance’s consolidation of democratic forces had not been completed. Vajpayee attributes the Congress victory to greater resources, solid Muslim support, and, to some extent, Mrs. Gandhi’s personal image. The clipping provides reported political statements rather than an argument by an identified author; “—Masani” appears as an attribution attached to the first headline.
 ---
 
+## Summary
+
+This one-page English newspaper clipping reports M. R. Masani’s assessment of the Swatantra Party’s performance in the 1971 election. Masani says the electorate has given Prime Minister Indira Gandhi and her party a decisive vote of confidence, and rejects the slogan “Indira Hatao.” He says the Swatantra Party’s Central Parliamentary Board will meet in New Delhi to consider the election’s implications and determine whether the party should adopt a constructive opposition toward the new Government and other opposition parties.
+
+A second item on the same page, headlined “Personal Image of Mrs. Gandhi,” reports Atal Bihari Vajpayee’s view that the four-party alliance’s consolidation of democratic forces had not been completed. Vajpayee attributes the Congress victory to greater resources, solid Muslim support, and, to some extent, Mrs. Gandhi’s personal image. The clipping provides reported political statements rather than an argument by an identified author; “—Masani” appears as an attribution attached to the first headline.
+
 ## Key points
 
 - M. R. Masani calls the election result a decisive vote of confidence in Indira Gandhi and her party.

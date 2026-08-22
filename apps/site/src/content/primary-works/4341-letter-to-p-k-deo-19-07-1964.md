@@ -50,6 +50,12 @@ summary: |-
   The letter also addresses seating arrangements in the Lok Sabha. Rajagopalachari says the Board sympathises with Deo's request to receive the seat next to the Deputy Leader if the Group moves into the seats currently occupied by the Communists. Until that change occurs, however, Deo's present seat must remain unchanged because he had previously assured Mr. Narendrasinh Mahida that Mahida could retain it when Mr. Yashpal Singh joined the Swatantra Group. Rajagopalachari closes by inviting Deo to express his views frankly and promising to consider the wider interests of the party.
 ---
 
+## Summary
+
+In this letter dated 11 July 1964, C. Rajagopalachari responds to P. K. Deo after consulting the Parliamentary Board about two questions concerning the Swatantra Group's representation in Parliament. The Board rejects Deo's proposal for two Deputy Leaders, deciding that the Group should continue with one Deputy Leader in each House, and Rajagopalachari reminds him that he had taken the same view the previous year. Rajagopalachari urges Deo to accept the decision cheerfully and proposes that he seek the re-election of the existing Deputy Leader.
+
+The letter also addresses seating arrangements in the Lok Sabha. Rajagopalachari says the Board sympathises with Deo's request to receive the seat next to the Deputy Leader if the Group moves into the seats currently occupied by the Communists. Until that change occurs, however, Deo's present seat must remain unchanged because he had previously assured Mr. Narendrasinh Mahida that Mahida could retain it when Mr. Yashpal Singh joined the Swatantra Group. Rajagopalachari closes by inviting Deo to express his views frankly and promising to consider the wider interests of the party.
+
 ## Key points
 
 - Rajagopalachari consulted the Parliamentary Board about two issues raised by P. K. Deo.

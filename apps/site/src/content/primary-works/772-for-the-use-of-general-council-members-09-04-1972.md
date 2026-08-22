@@ -66,6 +66,12 @@ summary: |-
   In the rendered pages, the discussion repeatedly turns from electoral diagnosis to practical political work: grievance cells, public meetings, press campaigns, district-level organisation, youth mobilisation, cadre training, and direct action on issues affecting farmers, the unemployed, and small industry. In the rendered pages, several speakers insist that the party must develop a mass base rather than remain an organisation of part-time or “arm-chair” politicians. In the rendered pages, participants also defend the party’s constitutional and liberal identity against socialism, one-party dominance, the 24th and 25th Constitutional Amendments, and possible alliances with the Jan Sangh, while disagreeing over how much emphasis to place on agitation and electoral tactics.
 ---
 
+## Summary
+
+In the rendered pages, the confidential record of the Swatantra Party General Council meeting in Bombay on 8–9 April 1972 centers on whether the party should continue after its poor electoral performance, and on how it might recover. In the rendered pages, H. M. Patel, J. N. Lobo Prabhu, and other participants reject dissolution as the only response, while debating merger, alliances, organisational renewal, finance, leadership, and a possible new programme. In the rendered pages, speakers attribute the Congress victory to its ability to present nationalisation, bank policy, land reform, and welfare measures as serving ordinary voters, while criticising the Swatantra Party for failing to communicate its own commitments to private property, enterprise, lower prices, and individual freedom.
+
+In the rendered pages, the discussion repeatedly turns from electoral diagnosis to practical political work: grievance cells, public meetings, press campaigns, district-level organisation, youth mobilisation, cadre training, and direct action on issues affecting farmers, the unemployed, and small industry. In the rendered pages, several speakers insist that the party must develop a mass base rather than remain an organisation of part-time or “arm-chair” politicians. In the rendered pages, participants also defend the party’s constitutional and liberal identity against socialism, one-party dominance, the 24th and 25th Constitutional Amendments, and possible alliances with the Jan Sangh, while disagreeing over how much emphasis to place on agitation and electoral tactics.
+
 ## Key points
 
 - In the rendered pages, the General Council debates whether the Swatantra Party should continue after its 1971–72 electoral defeats.

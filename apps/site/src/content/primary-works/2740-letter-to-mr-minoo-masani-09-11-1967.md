@@ -48,6 +48,12 @@ summary: |-
   Thar also assures Masani that the party will fully cooperate with N. Dandekar, who is expected to succeed him as General Secretary. The page documents a moment of leadership transition within the Swatantra Party and reflects the sender's emphasis on party continuity, parliamentary oversight, and opposition to Congress rule.
 ---
 
+## Summary
+
+This untitled letter, dated 9 November 1967, is addressed by Shantilal L. Thar to M. R. Masani. Thar thanks Masani for announcing that he will relinquish the General Secretaryship of the Swatantra Party in order to concentrate on his work as Chairman of the Public Accounts Committee. The letter credits Masani with enlarging the party's image over the preceding seven years and expresses the hope that he will continue doing so until the Congress is removed from power.
+
+Thar also assures Masani that the party will fully cooperate with N. Dandekar, who is expected to succeed him as General Secretary. The page documents a moment of leadership transition within the Swatantra Party and reflects the sender's emphasis on party continuity, parliamentary oversight, and opposition to Congress rule.
+
 ## Key points
 
 - The letter is dated 9 November 1967 and is written on Shantilal L. Thar's Bombay letterhead.

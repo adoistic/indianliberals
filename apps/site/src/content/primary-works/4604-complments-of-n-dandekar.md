@@ -55,6 +55,12 @@ summary: |-
   The notices allege that the recipients proposed or supported Mahida despite his candidacy not having the approval of the Party’s Central Parliamentary Board. They further allege that the recipients ignored a request from the President of the Gujarat State Swatantra Party, continued active support for Mahida, and acted in defiance of the Board’s approval of Shri Babubhai Vaidya as the Party’s sole candidate. Each recipient is asked to submit an explanation within fourteen days through H. M. Patel, President of the Gujarat Swatantra Party. The cover says notices were issued to five Gujarat MLAs, but only four addressed notices are legible in the rendered pages.
 ---
 
+## Summary
+
+This five-page English correspondence packet, issued by the Swatantra Party Central Office on 17 April 1968, reproduces show-cause notices concerning Gujarat MLAs. The notices are signed by N. Dandekar as General Secretary and ask recipients to explain their conduct in relation to the Gujarat Vidhan Sabha’s March 1968 proposal to elect Shri U. N. Mahida to the Rajya Sabha.
+
+The notices allege that the recipients proposed or supported Mahida despite his candidacy not having the approval of the Party’s Central Parliamentary Board. They further allege that the recipients ignored a request from the President of the Gujarat State Swatantra Party, continued active support for Mahida, and acted in defiance of the Board’s approval of Shri Babubhai Vaidya as the Party’s sole candidate. Each recipient is asked to submit an explanation within fourteen days through H. M. Patel, President of the Gujarat Swatantra Party. The cover says notices were issued to five Gujarat MLAs, but only four addressed notices are legible in the rendered pages.
+
 ## Key points
 
 - The packet contains Swatantra Party correspondence dated 17 April 1968 and signed by N. Dandekar as General Secretary.

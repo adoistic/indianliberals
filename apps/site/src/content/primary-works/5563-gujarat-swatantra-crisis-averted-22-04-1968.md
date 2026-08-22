@@ -49,6 +49,12 @@ summary: |-
   The report says the party expected to emerge united from the episode, though chastened by the crisis. The clipping is attributed to The Times of India News Service; no individual byline or printed year is visible.
 ---
 
+## Summary
+
+This one-page English newspaper-service clipping reports that a crisis threatening to split the Swatantra Party in Gujarat had been averted after the party's official candidate was defeated in a recent Rajya Sabha election. In Ahmedabad on April 22, party chairman H. M. Patel told reporters that there were no basic differences within the party and attributed the episode to a misunderstanding.
+
+The report says the party expected to emerge united from the episode, though chastened by the crisis. The clipping is attributed to The Times of India News Service; no individual byline or printed year is visible.
+
 ## Key points
 
 - The clipping reports that a threatened split in the Gujarat Swatantra Party had been averted.

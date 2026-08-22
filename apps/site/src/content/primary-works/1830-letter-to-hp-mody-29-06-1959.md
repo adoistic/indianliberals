@@ -48,6 +48,12 @@ summary: |-
   The file also includes the addressed envelope and a separate typed letter dated June 26, 1959, addressed to M. R. Masani. In that brief note, the writer thanks Masani for his letter and agrees to serve on the Organising Committee of the Swatantra Party. The relationship between this additional leaf and Lall’s principal letter is not established by the visible pages, but it provides direct evidence of correspondence connected with the newly formed party.
 ---
 
+## Summary
+
+This three-page English correspondence file contains a private letter from Dewan Mohan Lall, written at Ajmer on June 29, 1959, to Sir Homi Mody. Lall says he will be in Bombay until July 4 and asks Mody to arrange a meeting with Sir J. J., the Sixth Baronet, whom he identifies in connection with a book on Sir Jamshetjee Jejeebhoy. The letter is courteous and personal, framing the requested introduction as a privilege and as an opportunity to meet an eminent figure.
+
+The file also includes the addressed envelope and a separate typed letter dated June 26, 1959, addressed to M. R. Masani. In that brief note, the writer thanks Masani for his letter and agrees to serve on the Organising Committee of the Swatantra Party. The relationship between this additional leaf and Lall’s principal letter is not established by the visible pages, but it provides direct evidence of correspondence connected with the newly formed party.
+
 ## Key points
 
 - Dewan Mohan Lall’s private letter is dated June 29, 1959, and originates from Ajmer.

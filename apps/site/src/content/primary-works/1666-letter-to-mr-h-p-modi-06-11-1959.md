@@ -48,6 +48,12 @@ summary: |-
   Mota does not identify the party or set out a detailed programme, but urges the addressee to help consolidate its position. The letter closes with confidence that Mody will make a significant contribution to implementing the programme. The document is typed on FLAME — The Independent Weekly letterhead and carries no printed title.
 ---
 
+## Summary
+
+This one-page letter, dated 6 November 1959 and signed by H. N. Mota, is addressed to H. P. Mody. Mota expresses hope that their recent acquaintance will lead to closer contact and cooperation in support of their shared political cause. He reports having subsequently spoken informally with A. D. Shroff, who agreed that regular consultations among Mody, Shroff, and others could help maintain cooperation between Mota's paper and the party.
+
+Mota does not identify the party or set out a detailed programme, but urges the addressee to help consolidate its position. The letter closes with confidence that Mody will make a significant contribution to implementing the programme. The document is typed on FLAME — The Independent Weekly letterhead and carries no printed title.
+
 ## Key points
 
 - H. N. Mota writes to H. P. Mody on 6 November 1959.

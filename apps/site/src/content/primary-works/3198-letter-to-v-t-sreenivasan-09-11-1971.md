@@ -49,6 +49,10 @@ summary: |-
   This three-page English correspondence, dated September 9, 1971, records S. V. Raju’s response to V. T. Sreenivasan concerning the constitution of a State Executive. Raju notes that only 13 members have been elected, while the Returning Officer’s report is unclear about whether the State Council intended a 13-member body or a maximum of 20, leaving seven vacancies. He advises Sreenivasan to ensure that he is among the seven members co-opted to the Executive and says that the National Executive will seek General Council authority for the co-option.
 ---
 
+## Summary
+
+This three-page English correspondence, dated September 9, 1971, records S. V. Raju’s response to V. T. Sreenivasan concerning the constitution of a State Executive. Raju notes that only 13 members have been elected, while the Returning Officer’s report is unclear about whether the State Council intended a 13-member body or a maximum of 20, leaving seven vacancies. He advises Sreenivasan to ensure that he is among the seven members co-opted to the Executive and says that the National Executive will seek General Council authority for the co-option.
+
 ## Key points
 
 - Raju questions the Returning Officer’s unclear report on the intended size of the State Executive.

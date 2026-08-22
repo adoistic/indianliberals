@@ -53,6 +53,12 @@ summary: |-
   The report reproduces the bench’s reasoning that the constitutional question had not yet been finally decided by the Supreme Court and was sufficiently important to warrant admission. Counsel Mohan Singh Raghav argued that although Article 368 empowers Parliament to amend the Constitution, the power is limited by the basic-feature doctrine articulated in the Kesavananda Bharati case: Parliament cannot amend a provision in a way that abolishes or destroys a basic feature. He further contended that the 42nd Amendment was passed during the Emergency, when Parliament no longer represented the national will. The report ends with the High Court’s observation that the issue remained undecided and was of public importance.
 ---
 
+## Summary
+
+This one-page English press report, dated “Jaipur, May 8,” records the Rajasthan High Court’s admission of a writ petition challenging the insertion of the word “Socialist” into the Constitution’s Preamble by the 42nd Amendment Act, 1976. The petition was filed by K. C. Kulish, founder-editor of the Rajasthan Patrika, and the division bench of Justices V. S. Kokje and Arun Madan ordered notice to the Union of India.
+
+The report reproduces the bench’s reasoning that the constitutional question had not yet been finally decided by the Supreme Court and was sufficiently important to warrant admission. Counsel Mohan Singh Raghav argued that although Article 368 empowers Parliament to amend the Constitution, the power is limited by the basic-feature doctrine articulated in the Kesavananda Bharati case: Parliament cannot amend a provision in a way that abolishes or destroys a basic feature. He further contended that the 42nd Amendment was passed during the Emergency, when Parliament no longer represented the national will. The report ends with the High Court’s observation that the issue remained undecided and was of public importance.
+
 ## Key points
 
 - The Rajasthan High Court admitted a writ petition challenging the addition of “Socialist” to the Constitution’s Preamble.

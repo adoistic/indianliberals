@@ -54,6 +54,12 @@ summary: |-
   The minutes give members discretion to support or oppose two clauses of the Salaries and Allowances (Amendment) Bill, while urging Rajya Sabha members to move amendments to the Bank Nationalisation Bill and divide the House where considered desirable. Minoo Masani also cautions members against passivity in response to Communist members and reports on a meeting of party leaders; the document closes with instructions concerning attendance, voting, and the party leader’s meeting with the Prime Minister. A postscript corrects the attendance record for an earlier Executive Committee meeting.
 ---
 
+## Summary
+
+This one-page record, issued by the Swatantra Party Parliamentary Office on August 5, 1969, records a meeting of the party’s General Body in Parliament. It lists 19 attendees and six matters discussed, including the Salaries and Allowances (Amendment) Bill, the Bank Nationalisation Bill, party coordination in the Lok Sabha and Rajya Sabha, attendance for a presidential vote, and the election of the National Shipping Board’s Speaker.
+
+The minutes give members discretion to support or oppose two clauses of the Salaries and Allowances (Amendment) Bill, while urging Rajya Sabha members to move amendments to the Bank Nationalisation Bill and divide the House where considered desirable. Minoo Masani also cautions members against passivity in response to Communist members and reports on a meeting of party leaders; the document closes with instructions concerning attendance, voting, and the party leader’s meeting with the Prime Minister. A postscript corrects the attendance record for an earlier Executive Committee meeting.
+
 ## Key points
 
 - The document records a General Body meeting of the Swatantra Party in Parliament held on August 5, 1969.

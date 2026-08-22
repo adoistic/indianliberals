@@ -51,6 +51,12 @@ summary: |-
   The minutes also record nominations to the West Bengal Advisory Committee and a decision that either Dahayabhai V. Patel or M.R. Mohta would be nominated from the Rajya Sabha. Prof. N.G. Ranga signs the document as Leader. The page is an administrative snapshot of party organisation, parliamentary business, and the party's engagement with West Bengal affairs.
 ---
 
+## Summary
+
+This one-page English record, issued in New Delhi on 25 March 1970, records a meeting of the Swatantra Parliamentary Party's Executive Committee held on 24 March. It lists seven attendees and assigns speakers to three agenda items: the President's proclamation in West Bengal, the West Bengal Budget, and railway demands for grants.
+
+The minutes also record nominations to the West Bengal Advisory Committee and a decision that either Dahayabhai V. Patel or M.R. Mohta would be nominated from the Rajya Sabha. Prof. N.G. Ranga signs the document as Leader. The page is an administrative snapshot of party organisation, parliamentary business, and the party's engagement with West Bengal affairs.
+
 ## Key points
 
 - The Executive Committee met in the party room at 12:45 p.m. on 24 March 1970.

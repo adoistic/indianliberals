@@ -50,6 +50,12 @@ summary: |-
   A follow-up notice asks party members to send the office information about subjects likely to come before the House. The office will use this material to prepare notes for circulation among members, thereby helping those asked to speak on parliamentary subjects. Both documents are signed by C. C. Desai, Secretary. No policy argument or substantive legislative position appears in the pages rendered.
 ---
 
+## Summary
+
+This two-page Swatantra Party Parliamentary Office circular, dated July 4–5, 1967, announces the appointment of Mr. R. V. Subramanian as a Research Assistant. Based at the party's New Delhi office, he is tasked with assisting the Executive Secretary by collecting information on subjects requested by party members and, once granted access to Parliament House, making himself available to members there. Requests may be made directly to Subramanian or through Executive Secretary A. P. Jain.
+
+A follow-up notice asks party members to send the office information about subjects likely to come before the House. The office will use this material to prepare notes for circulation among members, thereby helping those asked to speak on parliamentary subjects. Both documents are signed by C. C. Desai, Secretary. No policy argument or substantive legislative position appears in the pages rendered.
+
 ## Key points
 
 - The Swatantra Party Parliamentary Office was located at 53 North Avenue, New Delhi.

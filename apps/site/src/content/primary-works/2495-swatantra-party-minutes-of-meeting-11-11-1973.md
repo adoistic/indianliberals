@@ -54,6 +54,12 @@ summary: |-
   The attached correspondence sets out arrangements for the Sixth National Convention in Bombay on 30–31 January 1971, including its programme, notices of resolutions, proposed constitutional amendments, delegate quotas, eligibility and selection procedures, and a request for adequate representation of women and youth. A separate General Secretary’s letter argues that negotiations among Congress(O), the BKD and the Jan Sangh had failed, making independent electoral preparations urgent. The attached National Executive resolution expresses disappointment at the failure to create a parliamentary bloc of nationalist and democratic forces, while reaffirming willingness to cooperate on the basis of the Congress(O) resolution of 28 June 1970.
 ---
 
+## Summary
+
+This eight-page English-language packet records the Swatantra Party Bombay Region Executive Committee meeting held on 11 November 1970, together with related circulars and resolutions issued on 16 November. The minutes cover preparations for the Party’s National Convention, including delegate accommodation, finance, enrolment, unit revitalisation, office renovation, personnel matters, and the creation of a separate bank account for the Public Assistance Bureau. The committee also discussed worker participation in party “shibirs” and the need to bring new people and sympathisers into the organisation.
+
+The attached correspondence sets out arrangements for the Sixth National Convention in Bombay on 30–31 January 1971, including its programme, notices of resolutions, proposed constitutional amendments, delegate quotas, eligibility and selection procedures, and a request for adequate representation of women and youth. A separate General Secretary’s letter argues that negotiations among Congress(O), the BKD and the Jan Sangh had failed, making independent electoral preparations urgent. The attached National Executive resolution expresses disappointment at the failure to create a parliamentary bloc of nationalist and democratic forces, while reaffirming willingness to cooperate on the basis of the Congress(O) resolution of 28 June 1970.
+
 ## Key points
 
 - The Bombay Region Executive Committee confirmed its previous minutes and reviewed organisational and financial preparations.

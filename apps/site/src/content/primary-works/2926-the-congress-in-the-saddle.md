@@ -54,6 +54,12 @@ summary: |-
   The excerpt gives particular attention to Rajaji’s temple-entry reform. It narrates the entry of a group of Harijans into Madurai’s Meenakshi Temple under A. Vaidyanatha Iyer, the resulting legal threat, and Rajaji’s rapid preparation of an indemnifying ordinance with the assistance of his son and legal officials. The account presents the ordinance as a challenge to orthodox resistance and as an example of governmental power being used for social reform. The final visible section discusses the introduction of Hindi or Hindustani in selected schools as part of Congress nation-building, the protests led by opponents including E. V. Ramasamy Naicker, and the political controversy surrounding compulsory Hindi instruction.
 ---
 
+## Summary
+
+This rendered excerpt from Rajagopalachari: A Biography presents C. Rajagopalachari (CR, or Rajaji) as an assertive administrator who used provincial office to pursue Congress nation-building programmes. The pages describe his introduction of prohibition, including its gradual extension from Salem to other districts, the use of permits for medical and religious purposes, and the replacement of liquor shops with tea shops. They also recount the Agriculturists’ Debt Relief Act, which extinguished certain debts when interest and repaid capital reached twice the original loan, despite opposition criticism.
+
+The excerpt gives particular attention to Rajaji’s temple-entry reform. It narrates the entry of a group of Harijans into Madurai’s Meenakshi Temple under A. Vaidyanatha Iyer, the resulting legal threat, and Rajaji’s rapid preparation of an indemnifying ordinance with the assistance of his son and legal officials. The account presents the ordinance as a challenge to orthodox resistance and as an example of governmental power being used for social reform. The final visible section discusses the introduction of Hindi or Hindustani in selected schools as part of Congress nation-building, the protests led by opponents including E. V. Ramasamy Naicker, and the political controversy surrounding compulsory Hindi instruction.
+
 ## Key points
 
 - Rajaji used the administrative machinery of the Madras Presidency to implement Congress nation-building programmes.

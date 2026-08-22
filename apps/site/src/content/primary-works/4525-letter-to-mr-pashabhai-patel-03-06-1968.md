@@ -49,6 +49,12 @@ summary: |-
   Masani says he has urged the Swatantra Party’s press and membership to recover its idealism and resist what he calls “demoralising tendencies.” Although he doubts whether the effort will succeed, he argues that it should be attempted before abandoning what the party had described in 1959 as “the last hope of democracy in India.” He asks Patel not to resign from Parliament or the party until they have discussed the matter, and contrasts Patel’s forthright position with Dayabhai Patel’s silence during the debate.
 ---
 
+## Summary
+
+In this confidential letter dated 3 June 1968, Minoo Masani writes to Pashabhai Patel after returning from Madras. He reports that C. Rajagopalachari (“Rajaji”) has shifted his support to the Executive, carrying a majority of the Council with him. Masani characterizes this as “the cult of personality” and refers to the political development as a serious setback for democratic opposition.
+
+Masani says he has urged the Swatantra Party’s press and membership to recover its idealism and resist what he calls “demoralising tendencies.” Although he doubts whether the effort will succeed, he argues that it should be attempted before abandoning what the party had described in 1959 as “the last hope of democracy in India.” He asks Patel not to resign from Parliament or the party until they have discussed the matter, and contrasts Patel’s forthright position with Dayabhai Patel’s silence during the debate.
+
 ## Key points
 
 - Masani writes from Bombay after returning from Madras on 3 June 1968.

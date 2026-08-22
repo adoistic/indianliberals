@@ -52,6 +52,12 @@ summary: |-
   In the rendered pages, Deo calls for direct public-sector production of a cheap car and invokes an Expert Committee recommendation that a vehicle could be produced for about Rs. 5,000. He questions why the Government abandoned a feasible proposal, while citing Renault’s offer and the Renault-Dauphin as a tested, lighter, economical four-seater suitable for Indian conditions. The final rendered page also contains a separate express-delivery letter signed by M. R. Masani, asking that a telegram setting out the Party’s position be placed before a forthcoming meeting and requesting longer notice for future meetings.
 ---
 
+## Summary
+
+In the rendered pages, Shri P. K. Deo presses the Government to act on the long-promised manufacture of a small-priced or “people’s” car. He accepts that larger production could reduce costs, but argues that the Government has relied on repeated assurances about integrating manufacturers, expanding capacity, investigating prices, and negotiating with firms without delivering results. He presents the continuing shortage and high prices as evidence that consumers are being misled and exploited.
+
+In the rendered pages, Deo calls for direct public-sector production of a cheap car and invokes an Expert Committee recommendation that a vehicle could be produced for about Rs. 5,000. He questions why the Government abandoned a feasible proposal, while citing Renault’s offer and the Renault-Dauphin as a tested, lighter, economical four-seater suitable for Indian conditions. The final rendered page also contains a separate express-delivery letter signed by M. R. Masani, asking that a telegram setting out the Party’s position be placed before a forthcoming meeting and requesting longer notice for future meetings.
+
 ## Key points
 
 - Deo criticizes the Government’s repeated promises to produce a low-cost or people’s car.

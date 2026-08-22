@@ -50,6 +50,12 @@ summary: |-
   The stated purpose of the meeting is to determine the party’s amendments to the President’s address. The circular is institutionally issued by the Swatantra Party Parliamentary Office and is signed by Kabir Singh, Secretary. No individual author is identified.
 ---
 
+## Summary
+
+This one-page English circular, issued on Swatantra Party Parliamentary Office letterhead in New Delhi on January 27, 1965, announces a party meeting scheduled for February 17, 1965. The meeting is to take place immediately after the President’s address in the Party Committee Room, Central Hall, Parliament House.
+
+The stated purpose of the meeting is to determine the party’s amendments to the President’s address. The circular is institutionally issued by the Swatantra Party Parliamentary Office and is signed by Kabir Singh, Secretary. No individual author is identified.
+
 ## Key points
 
 - The document is a one-page Swatantra Party Parliamentary Office circular.

@@ -50,6 +50,12 @@ summary: |-
   The letter proposes a more constructive economic programme: fair dealing with poorer people in urban areas, assurances for salaried employees, higher factory wages, and incentives for capital investment. Singh contends that such measures could attract capable, experienced, and reliable people from the Kutch region to the party. He also warns that Congress leaders appear too arrogant or zealous to accommodate a party founded on principles opposed to Swatantra’s conception. In a postscript, he says he will answer an earlier letter, comments on the need to be useful in politics, and promises to write about the “Great Mogul” and the treatment of the army since independence.
 ---
 
+## Summary
+
+This two-page letter, dated 21 September 1959 and signed by Nathu Singh, is addressed to Mr Homi Modi and discusses the newly formed Swatantra Party. Singh reports that meetings in Bombay and Ahmedabad have left him concerned about the party’s future, especially the sincerity and local influence of its regional organisers and leaders. He argues that the party must clarify that it is not opposed to a socialist approach to national problems, but to the Congress policy of “levelling down.”
+
+The letter proposes a more constructive economic programme: fair dealing with poorer people in urban areas, assurances for salaried employees, higher factory wages, and incentives for capital investment. Singh contends that such measures could attract capable, experienced, and reliable people from the Kutch region to the party. He also warns that Congress leaders appear too arrogant or zealous to accommodate a party founded on principles opposed to Swatantra’s conception. In a postscript, he says he will answer an earlier letter, comments on the need to be useful in politics, and promises to write about the “Great Mogul” and the treatment of the army since independence.
+
 ## Key points
 
 - The letter evaluates early impressions of the Swatantra Party’s organisation and prospects after meetings in Bombay and Ahmedabad.

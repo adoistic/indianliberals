@@ -50,6 +50,12 @@ summary: |-
   The successful candidate would lead the State Government's publicity and public-relations activities, advise on effective communication, plan and execute publicity programmes, direct advertising agencies, edit government publications and information literature, prepare speech and statement copy, and manage press releases and press conferences. The notice also assigns the advisor a promotional role: projecting a favourable image of the State and its policies while encouraging Indian and foreign investment within Orissa. The salary is listed as Rs. 2,000–2,500, depending on qualifications and experience, with the position offered initially on a three-year contract.
 ---
 
+## Summary
+
+This three-page recruitment notice from the Government of Orissa advertises a Public Relations Advisor position for candidates aged 35 to 45. Applicants must hold a good degree, preferably have training in public relations and journalism, possess at least five years of senior public-relations experience in a large undertaking, and demonstrate good penmanship.
+
+The successful candidate would lead the State Government's publicity and public-relations activities, advise on effective communication, plan and execute publicity programmes, direct advertising agencies, edit government publications and information literature, prepare speech and statement copy, and manage press releases and press conferences. The notice also assigns the advisor a promotional role: projecting a favourable image of the State and its policies while encouraging Indian and foreign investment within Orissa. The salary is listed as Rs. 2,000–2,500, depending on qualifications and experience, with the position offered initially on a three-year contract.
+
 ## Key points
 
 - The Government of Orissa seeks a Public Relations Advisor aged 35 to 45.

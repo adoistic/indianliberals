@@ -54,6 +54,12 @@ summary: |-
   The principal enclosure is Bhargava’s 6 March 1975 letter to Raju. Bhargava reports that he has been rebuilding the party’s Rajasthan network through contacts with former colleagues and supporters, and points to successful Swatantra candidates in municipal elections, including Jai Narain’s election as chairman of the Niwai Municipal Committee. He describes Rajasthan as potentially fertile ground for a Swatantra revival and asks the national organisation for material support, while also seeking clarification about the party’s national executive, state units, old election symbol, and flag. A translated clipping and Hindi newspaper cuttings supplement the correspondence, describing preparations for political struggle in Rajasthan, Congress defeats in local contests, and the continuing presence of Swatantra workers despite the party’s announced merger into the Bharatiya Lok Dal.
 ---
 
+## Summary
+
+This five-page archival file contains correspondence from S. V. Raju concerning the revival of the Swatantra Party in Rajasthan in early 1975. In his letter to G. K. Sunderam, Raju forwards I. S. Bhargava’s account of political activity in the state and asks Sunderam to help identify Marwari friends in Rajasthan who might assist Bhargava. Raju presents Bhargava as a long-standing and loyal party member who had previously helped resist an effort to remove Swatantra from Rajasthan, while noting that recent events had revived party morale in parts of the state.
+
+The principal enclosure is Bhargava’s 6 March 1975 letter to Raju. Bhargava reports that he has been rebuilding the party’s Rajasthan network through contacts with former colleagues and supporters, and points to successful Swatantra candidates in municipal elections, including Jai Narain’s election as chairman of the Niwai Municipal Committee. He describes Rajasthan as potentially fertile ground for a Swatantra revival and asks the national organisation for material support, while also seeking clarification about the party’s national executive, state units, old election symbol, and flag. A translated clipping and Hindi newspaper cuttings supplement the correspondence, describing preparations for political struggle in Rajasthan, Congress defeats in local contests, and the continuing presence of Swatantra workers despite the party’s announced merger into the Bharatiya Lok Dal.
+
 ## Key points
 
 - S. V. Raju forwards I. S. Bhargava’s report on the Swatantra Party’s continuing activity in Rajasthan.

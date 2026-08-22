@@ -52,6 +52,12 @@ summary: |-
   The main policy portion proposes ways to raise revenue without taxing the public. Ayyar recommends halving expenditure on politicians in Parliament and on foreign missions, forcefully collecting outstanding income tax from politicians and others, selling government cars used by ministers and governors, and requiring Congress and other ministers in the states and Centre to disclose their wealth and repay amounts borrowed from government. The document bears a Bombay received stamp dated April 3, 1971; no sender's date or printed title is visible.
 ---
 
+## Summary
+
+This undated one-page letter from advocate Narayana Ayyar to Minoo Masani responds to Masani's resignation from the presidency of Swatantra. Ayyar argues that leaving office need not mean abandoning public service, since a former political leader can contribute from outside the legislature. He presents himself as independent of political parties and refers to his book, "Walls of An Obscure Hindu," claiming that Vallabhbhai Patel and the late V. B. Pant had agreed with some of its arguments.
+
+The main policy portion proposes ways to raise revenue without taxing the public. Ayyar recommends halving expenditure on politicians in Parliament and on foreign missions, forcefully collecting outstanding income tax from politicians and others, selling government cars used by ministers and governors, and requiring Congress and other ministers in the states and Centre to disclose their wealth and repay amounts borrowed from government. The document bears a Bombay received stamp dated April 3, 1971; no sender's date or printed title is visible.
+
 ## Key points
 
 - Ayyar comments on Minoo Masani's resignation from the presidency of Swatantra.

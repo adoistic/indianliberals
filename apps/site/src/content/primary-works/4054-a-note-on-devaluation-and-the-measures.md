@@ -56,6 +56,12 @@ summary: |-
   The note combines long-term structural reforms with immediate relief measures. It recommends easier public loans for stranded industrial projects, assured imported raw materials for exporters, withdrawal of new export duties, and abolition of import duties and surcharges on raw materials, fuels, and spare parts. Its central policy orientation is toward fiscal restraint, reduced administrative controls, expanded domestic production, and greater scope for indigenous and foreign capital. The document refers to repeated warnings by the Swatantra Party but carries no author or issuing-organisation byline.
 ---
 
+## Summary
+
+This two-page position paper, dated June 22, 1966, argues that devaluation is the cumulative result of mistaken economic policies and planning by the Union Government. It says the corrective effects of devaluation will be wasted unless the government commits itself to ending inflation, living within its means, reducing non-developmental expenditure, enforcing fiscal discipline, and stopping further civil-service and clerical recruitment. It also calls for restricting foreign loans to essential state functions, postponing and recasting the proposed Fourth Plan, reducing direct and indirect taxes, dismantling permits and controls, and negotiating lower debt-servicing charges.
+
+The note combines long-term structural reforms with immediate relief measures. It recommends easier public loans for stranded industrial projects, assured imported raw materials for exporters, withdrawal of new export duties, and abolition of import duties and surcharges on raw materials, fuels, and spare parts. Its central policy orientation is toward fiscal restraint, reduced administrative controls, expanded domestic production, and greater scope for indigenous and foreign capital. The document refers to repeated warnings by the Swatantra Party but carries no author or issuing-organisation byline.
+
 ## Key points
 
 - Devaluation is presented as the result of a decade and a half of mistaken economic policy and planning.

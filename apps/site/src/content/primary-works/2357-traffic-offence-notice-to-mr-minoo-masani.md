@@ -51,6 +51,12 @@ summary: |-
   The form includes a detachable reply section, instructions for disputing the notice, and a reverse-side schedule listing offences under the Motor Vehicles Act, Motor Vehicles Rules, and Bombay Police Act. The listed violations include driving without a licence or insurance, dangerous or obstructive driving, parking violations, failures to obey traffic signals, and offences involving taxis, public-service vehicles, number plates, and surface markings. The rendered set also contains a separate handwritten Hindi postcard addressed to Minoo Masani; its full contents are difficult to decipher from the image.
 ---
 
+## Summary
+
+This four-page 1982 administrative document is a Bombay Traffic Control Branch traffic-offence notice addressed to M. R. Masani. It reports an alleged offence associated with motor vehicle MRA4096 at B. G. Kher Road on 11 November 1982 at 17:50, records offence number 78.8, and asks the registered owner to identify the driver and provide driving-licence particulars within seven days. The notice states that failure to reply constitutes an offence under section 118A of the Motor Vehicles Act.
+
+The form includes a detachable reply section, instructions for disputing the notice, and a reverse-side schedule listing offences under the Motor Vehicles Act, Motor Vehicles Rules, and Bombay Police Act. The listed violations include driving without a licence or insurance, dangerous or obstructive driving, parking violations, failures to obey traffic signals, and offences involving taxis, public-service vehicles, number plates, and surface markings. The rendered set also contains a separate handwritten Hindi postcard addressed to Minoo Masani; its full contents are difficult to decipher from the image.
+
 ## Key points
 
 - The notice is issued by the Deputy Commissioner of Police, Traffic Control Branch, Bombay.

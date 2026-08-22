@@ -52,6 +52,12 @@ summary: |-
   The enclosures document the Maharashtra unit’s opposition to dissolving the Swatantra Party in order to form a new opposition party. A 6 July 1974 State Council resolution argues that the party’s principles remain valid, that a proposed merger based on a vague general programme would not create a coherent national alternative, and that retaining separate opposition parties might prevent a two-party system dominated by Congress and the Jan Sangh. A 23 August letter to the Chief Election Commissioner accordingly asserts that the Maharashtra party will continue functioning and will retain the party’s “Star” symbol. A subsequent 11 September letter asks the Election Commission’s legal officer to await further instructions while Maharashtra consults the Tamil Nadu Swatantra Party.
 ---
 
+## Summary
+
+This untitled correspondence file, dated 7 January 1975, contains a cover letter from the Swatantra Party’s All-India General Secretary to V. S. Srikumar, together with three enclosures concerning the party’s status and election symbol. The cover letter lists correspondence exchanged with the Election Commission of India, including letters from Piloo Mody and the Commission, and explains that the papers are being forwarded for use in taking up the case with the Commission.
+
+The enclosures document the Maharashtra unit’s opposition to dissolving the Swatantra Party in order to form a new opposition party. A 6 July 1974 State Council resolution argues that the party’s principles remain valid, that a proposed merger based on a vague general programme would not create a coherent national alternative, and that retaining separate opposition parties might prevent a two-party system dominated by Congress and the Jan Sangh. A 23 August letter to the Chief Election Commissioner accordingly asserts that the Maharashtra party will continue functioning and will retain the party’s “Star” symbol. A subsequent 11 September letter asks the Election Commission’s legal officer to await further instructions while Maharashtra consults the Tamil Nadu Swatantra Party.
+
 ## Key points
 
 - The 7 January 1975 cover letter forwards correspondence relating to the Swatantra Party’s case before the Election Commission of India.

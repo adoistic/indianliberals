@@ -50,6 +50,12 @@ summary: |-
   The agenda distributed to members lists three items: formation of the Rajaji Trust, a merger with the Janata Party, and any other matter admitted at the discretion of the Chair. The document is a routine notice of meeting rather than a substantive argument, but its two substantive agenda points capture a decisive moment in the party's late institutional history — the Swatantra Party's absorption into the post-Emergency Janata coalition, alongside a memorial vehicle named after its founding figure, C. Rajagopalachari (Rajaji).
 ---
 
+## Summary
+
+This single-page circular from the Swatantra Party's Maharashtra state office, dated 20 April 1977 and signed by General Secretary Girish Munshi, convenes a meeting of the Maharashtra State Council at the party office in Bombay's Sassoon Building on Wednesday, 27 April 1977 at 6 p.m. Its stated purpose is to ratify decisions already taken by the National Executive at its meeting in Madras on 17 April 1977.
+
+The agenda distributed to members lists three items: formation of the Rajaji Trust, a merger with the Janata Party, and any other matter admitted at the discretion of the Chair. The document is a routine notice of meeting rather than a substantive argument, but its two substantive agenda points capture a decisive moment in the party's late institutional history — the Swatantra Party's absorption into the post-Emergency Janata coalition, alongside a memorial vehicle named after its founding figure, C. Rajagopalachari (Rajaji).
+
 ## Key points
 
 - Notice of a meeting of the Maharashtra State Council of the Swatantra Party, called for Wednesday 27 April 1977 at 6 p.m. at the Party Office.

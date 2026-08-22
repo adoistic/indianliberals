@@ -50,6 +50,12 @@ summary: |-
   Mody encloses an alternative draft that states the factual matters and changes only the operative provision on transfer. He also proposes a separate, more emotional resolution commemorating the Swatantra Party's service to the nation and paying tribute to its past leaders. The letter ends with Mody asking Masani to consider this approach.
 ---
 
+## Summary
+
+In this one-page letter dated July 11, 1974, Piloo Mody writes to Minoo Masani about a draft resolution concerning the Swatantra Party. Mody explains that Masani's version contains a lengthy preamble expressing his views but does not meet Mody's objection to the wording of the operative section regarding transmutation.
+
+Mody encloses an alternative draft that states the factual matters and changes only the operative provision on transfer. He also proposes a separate, more emotional resolution commemorating the Swatantra Party's service to the nation and paying tribute to its past leaders. The letter ends with Mody asking Masani to consider this approach.
+
 ## Key points
 
 - Piloo Mody sends Minoo Masani a draft resolution for consideration.

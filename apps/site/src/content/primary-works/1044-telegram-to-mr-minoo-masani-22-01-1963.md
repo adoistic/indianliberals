@@ -49,6 +49,12 @@ summary: |-
   Ranga closes by declaring himself disinclined to join a marchpast and asks Masani to wire back his reaction. The wire is brief but exposes the parliamentary craft of the early Swatantra leadership: coordinated abstention, silent affirmation on constitutional questions, and disciplined restraint from symbolic protest.
 ---
 
+## Summary
+
+This telegram, wired from New Delhi to Minoo Masani at Mahatma Gandhi Road, Bombay on 22 January 1963, records a short tactical briefing from N. G. Ranga on Swatantra Party positioning in Parliament. Ranga thanks Masani for the Bombay meeting resolutions and reports that the party's initiative to 'talk out' a pending situation has been accepted by all parties. On the Constitution Bill concerning integration, he counsels offering silent support without speeches, while noting that the Kalahandi member also wishes to speak in favour of the anti-disintegration line.
+
+Ranga closes by declaring himself disinclined to join a marchpast and asks Masani to wire back his reaction. The wire is brief but exposes the parliamentary craft of the early Swatantra leadership: coordinated abstention, silent affirmation on constitutional questions, and disciplined restraint from symbolic protest.
+
 ## Key points
 
 - Telegram sent from New Delhi to Masani at Mahatma Gandhi Road, Bombay on 22 January 1963, signed 'RANGA'.

@@ -50,6 +50,10 @@ summary: |-
   Dated May 13, 1974, this one-page Swatantra Party General Council Circular No. 55 announces a meeting of the General Council to be held on June 9 and 10 at Vithalbhai Patel Bhavan, Rafi Marg, New Delhi. Issued from the party’s national headquarters in Bombay, the circular asks members to confirm their attendance and emphasizes the importance of the meeting.
 ---
 
+## Summary
+
+Dated May 13, 1974, this one-page Swatantra Party General Council Circular No. 55 announces a meeting of the General Council to be held on June 9 and 10 at Vithalbhai Patel Bhavan, Rafi Marg, New Delhi. Issued from the party’s national headquarters in Bombay, the circular asks members to confirm their attendance and emphasizes the importance of the meeting.
+
 ## Key points
 
 - The circular is dated May 13, 1974, and is issued on Swatantra Party national headquarters letterhead.

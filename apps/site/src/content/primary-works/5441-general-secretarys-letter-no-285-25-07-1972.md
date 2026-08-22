@@ -62,6 +62,12 @@ summary: |-
   The attached materials extend this programme into a defence of constitutional democracy, liberty, and economic and social rights. Rajaji’s address warns against dictatorship and appeals for resistance to communism, authoritarianism, and totalitarianism. Piloo Mody’s speech frames the party’s task as defending democracy while rebuilding its organisation. The General Council statement presents rights to maximum agricultural returns, housing, productive work, fair prices, labour organisation, minority protection, full information, social justice, and political education and agitation. A final press release alleges large-scale financial irregularities involving Belapur Sugar and Allied Industries and calls for an independent judicial inquiry into suspected collusion between business interests, public institutions, and politicians.
 ---
 
+## Summary
+
+This 25 July 1972 circular from Swatantra Party General Secretary Madhu Mehta reports on the party’s June General Council meeting in Madras and outlines measures for organisational revival. It records H. M. Patel’s resignation as president, Piloo Mody’s unanimous election to the post, Rajaji’s blessing for the new leadership, and the adoption of a nine-point programme. Mehta urges party units to establish study circles and training camps, organise non-violent direct action around local grievances, revive inactive units, participate in anti-defection activities, contribute to electoral-reform proposals, publicise the party’s position on land ceilings, and support a national farmers’ convention.
+
+The attached materials extend this programme into a defence of constitutional democracy, liberty, and economic and social rights. Rajaji’s address warns against dictatorship and appeals for resistance to communism, authoritarianism, and totalitarianism. Piloo Mody’s speech frames the party’s task as defending democracy while rebuilding its organisation. The General Council statement presents rights to maximum agricultural returns, housing, productive work, fair prices, labour organisation, minority protection, full information, social justice, and political education and agitation. A final press release alleges large-scale financial irregularities involving Belapur Sugar and Allied Industries and calls for an independent judicial inquiry into suspected collusion between business interests, public institutions, and politicians.
+
 ## Key points
 
 - The circular announces Piloo Mody’s election as Swatantra Party president after H. M. Patel steps down.

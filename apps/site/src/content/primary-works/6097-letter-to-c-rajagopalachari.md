@@ -48,6 +48,12 @@ summary: |-
   Mody adds that the Bharatiya Vidya Bhavan has confirmed that Rajagopalachari will be able to attend. The letter is administrative and cordial, closing with warm regards and Mody’s signature. The document does not print an unambiguous year for the letter itself, although it refers to 23 December 1962.
 ---
 
+## Summary
+
+This one-page typed letter from Piloo Mody to C. Rajagopalachari (“Rajaji”) revises the date of a fund-raising dinner being organised for Rajagopalachari. Mody explains that the dinner has been moved from 22 December to 23 December 1962 and will begin at 8:30 p.m.
+
+Mody adds that the Bharatiya Vidya Bhavan has confirmed that Rajagopalachari will be able to attend. The letter is administrative and cordial, closing with warm regards and Mody’s signature. The document does not print an unambiguous year for the letter itself, although it refers to 23 December 1962.
+
 ## Key points
 
 - Piloo Mody writes to C. Rajagopalachari, addressing him as “Rajaji.”

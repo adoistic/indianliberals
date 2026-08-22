@@ -60,6 +60,12 @@ summary: |-
   The speech also criticizes the Planning Commission, state intervention, excessive taxation, and the priority given to steel plants over agriculture. Masani welcomes the liberalisation of gold controls and the abandonment of compulsory savings, but insists that government statements must be tested by action. He calls for secure small-farmer property rights, an end to collective-farming ambitions, reduced state-sector expansion, and a united democratic opposition capable of displacing Congress through elections. The speech closes by invoking Ludwig Erhard and Goethe as models of clarity in unsettled times.
 ---
 
+## Summary
+
+In this talk delivered to the Lions Club of North Bombay on 11 November 1963, M. R. Masani reviews Indian political developments during his two months abroad. He focuses on the Kamaraj Plan, the resignation and reassignment of ministers, the appointment of Gulzarilal Nanda as Home Minister and Asoka Mehta to the Planning Commission, and the emerging contest over succession to Jawaharlal Nehru. Masani argues that communist influence and the Congress leadership's deference to the Soviet Union threaten India's democratic independence, citing the removal of S. K. Patil and Morarji Desai, the treatment of Marxism in the Jaipur AICC resolution, and alleged concessions concerning China and the NEFA frontier.
+
+The speech also criticizes the Planning Commission, state intervention, excessive taxation, and the priority given to steel plants over agriculture. Masani welcomes the liberalisation of gold controls and the abandonment of compulsory savings, but insists that government statements must be tested by action. He calls for secure small-farmer property rights, an end to collective-farming ambitions, reduced state-sector expansion, and a united democratic opposition capable of displacing Congress through elections. The speech closes by invoking Ludwig Erhard and Goethe as models of clarity in unsettled times.
+
 ## Key points
 
 - Masani presents the Kamaraj Plan as having intensified factionalism, mistrust, and succession struggles within the Congress Party.

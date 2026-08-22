@@ -53,3 +53,7 @@ ai:
 summary: |-
   The visible pages are from the April 2001 issue of The Radical Humanist. They combine a report on the felicitation of Bombay High Court advocate and Radical Humanist M. A. Rane with tributes to Sumitra Devi and two veteran radical humanists who had died. Across these pieces, the issue foregrounds civil liberties, public-interest litigation, resistance to the Emergency, radical humanist political traditions, and the personal histories of activists connected with M. N. Roy and the Radical Democratic Party.
 ---
+
+## Summary
+
+The visible pages are from the April 2001 issue of The Radical Humanist. They combine a report on the felicitation of Bombay High Court advocate and Radical Humanist M. A. Rane with tributes to Sumitra Devi and two veteran radical humanists who had died. Across these pieces, the issue foregrounds civil liberties, public-interest litigation, resistance to the Emergency, radical humanist political traditions, and the personal histories of activists connected with M. N. Roy and the Radical Democratic Party.

@@ -50,6 +50,12 @@ summary: |-
   The first page is headed “MEMO” and contains a very faint handwritten English note whose full wording and sender cannot be read reliably. The visible Hindi letterhead identifies the Swatantra Party’s Bihar provincial office in Patna; the handwritten signature on the second page is also not sufficiently legible to identify the author.
 ---
 
+## Summary
+
+This two-page Hindi office correspondence from the Bihar provincial office of the Swatantra Party is dated 7 May 1962 and addressed to Minoo Masani in Bombay. The second page forwards a copy of a letter submitted by a Patna district association to the Union railway minister, asking Masani to take appropriate action. The document is administrative in character and records the circulation of a local grievance through the party’s organisational channels.
+
+The first page is headed “MEMO” and contains a very faint handwritten English note whose full wording and sender cannot be read reliably. The visible Hindi letterhead identifies the Swatantra Party’s Bihar provincial office in Patna; the handwritten signature on the second page is also not sufficiently legible to identify the author.
+
 ## Key points
 
 - The document is a 7 May 1962 letter from the Bihar provincial office of the Swatantra Party.

@@ -51,6 +51,12 @@ summary: |-
   The excerpt then turns to leadership in industry. Parkinson contrasts the personal contact and reputation-based authority of the past with a modern environment in which leadership depends on reputation and power. He rejects the idea that leaders are born with an innate quality, presenting leadership instead as an art that can be learned through effort and minimal qualification. The page ends mid-sentence, indicating that the address continues on a missing second page.
 ---
 
+## Summary
+
+This one-page typescript excerpt from Professor C. Northcote Parkinson’s address, delivered in Bombay on 23 February 1970, examines the weakening of authority in modern society. Parkinson identifies three foundations of parental authority—visible skill and ability, a sense of security, and fear—and argues that industrial affluence and changing family relations have eroded each of them. He also questions the belief that schools can compensate for the absence of discipline at home.
+
+The excerpt then turns to leadership in industry. Parkinson contrasts the personal contact and reputation-based authority of the past with a modern environment in which leadership depends on reputation and power. He rejects the idea that leaders are born with an innate quality, presenting leadership instead as an art that can be learned through effort and minimal qualification. The page ends mid-sentence, indicating that the address continues on a missing second page.
+
 ## Key points
 
 - The excerpt frames the contemporary crisis as partly a crisis of authority, especially paternal authority.

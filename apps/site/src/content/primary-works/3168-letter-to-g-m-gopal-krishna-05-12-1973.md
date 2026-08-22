@@ -50,6 +50,12 @@ summary: |-
   Raju explains that he is leaving his job at the end of the month, partly for family reasons but chiefly because he feels that his commitment to the party’s ideals has faded. He intends to remain a party member and speak openly when others depart from its fundamentals. He identifies M. R. Masani as the one senior figure who still represents the true voice of Swatantra, and encourages Gopalakrishna to remain as Joint Secretary. The letter closes with a hope that the party’s long night will end and that it will again offer hope to the people.
 ---
 
+## Summary
+
+In this one-page letter dated December 3, 1973, S. V. Raju writes to G. M. Gopalakrishna about internal tensions in the Swatantra Party. He criticizes party figures whom he believes have failed in their responsibilities and urges Gopalakrishna to ask the State Executive to recommend their expulsion, while delaying the matter until the next National Executive meeting. Raju shares Gopalakrishna’s disgust and sense of non-achievement after fourteen years of work for the party.
+
+Raju explains that he is leaving his job at the end of the month, partly for family reasons but chiefly because he feels that his commitment to the party’s ideals has faded. He intends to remain a party member and speak openly when others depart from its fundamentals. He identifies M. R. Masani as the one senior figure who still represents the true voice of Swatantra, and encourages Gopalakrishna to remain as Joint Secretary. The letter closes with a hope that the party’s long night will end and that it will again offer hope to the people.
+
 ## Key points
 
 - Raju urges Gopalakrishna to pursue the expulsion of unnamed party members through the State Executive.

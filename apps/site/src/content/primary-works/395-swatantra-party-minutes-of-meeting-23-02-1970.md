@@ -57,6 +57,12 @@ summary: |-
   The minutes assign party speakers for the President’s Address, Railway Budget, and General Budget, and constitute a six-member sub-committee to draft amendments and finalise the party’s positions. They also record Piloo Mody’s appointment as acting Chief Whip during the enforced absence of Y. G. Gowda. The document is an administrative record rather than a developed policy statement, but it shows the party coordinating parliamentary interventions around constitutional government, executive power, judicial issues, and budgetary scrutiny.
 ---
 
+## Summary
+
+This one-page office record contains the minutes of a Swatantra Parliamentary Party Executive Committee meeting held in Parliament House on 19 February 1970, with the minutes dated 23 February 1970. Chaired by Prof. N. G. Ranga, the meeting reviewed parliamentary adjournment motions concerning alleged misuse of constitutional powers by the Governors of Bihar and Uttar Pradesh, the breakdown of constitutional machinery in West Bengal, and statements by the Prime Minister following the Supreme Court judgment on bank nationalisation and the casting vote in the Judiciary.
+
+The minutes assign party speakers for the President’s Address, Railway Budget, and General Budget, and constitute a six-member sub-committee to draft amendments and finalise the party’s positions. They also record Piloo Mody’s appointment as acting Chief Whip during the enforced absence of Y. G. Gowda. The document is an administrative record rather than a developed policy statement, but it shows the party coordinating parliamentary interventions around constitutional government, executive power, judicial issues, and budgetary scrutiny.
+
 ## Key points
 
 - The Executive Committee met in Parliament House on 19 February 1970; the minutes were issued from New Delhi on 23 February 1970.

@@ -53,6 +53,10 @@ summary: |-
   This two-page correspondence from November 1974 records an exchange between Minoo Masani and Jayaprakash Narayan concerning the Bihar movement. Masani’s express message thanks Narayan for his invitation and regrets that he cannot attend the meeting, while promising to look forward to the Electoral Reform Committee’s report. Narayan’s letter, dated 9 November 1974, describes the Bihar struggle as eight months old and seeks Masani’s participation in a Delhi meeting of opposition leaders and other distinguished individuals on 25–26 November.
 ---
 
+## Summary
+
+This two-page correspondence from November 1974 records an exchange between Minoo Masani and Jayaprakash Narayan concerning the Bihar movement. Masani’s express message thanks Narayan for his invitation and regrets that he cannot attend the meeting, while promising to look forward to the Electoral Reform Committee’s report. Narayan’s letter, dated 9 November 1974, describes the Bihar struggle as eight months old and seeks Masani’s participation in a Delhi meeting of opposition leaders and other distinguished individuals on 25–26 November.
+
 ## Key points
 
 - Masani responds to Narayan’s invitation and says he cannot attend the forthcoming meeting.

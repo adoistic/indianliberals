@@ -49,6 +49,12 @@ summary: |-
   The letter also records S. V. Raju’s signature and a carbon-copy recipient, Mr. K. S. Srinivasan of the Swatantra Party’s Bombay Branch. No substantive discussion of the railway or Union budgets appears on the rendered page; the document is principally an event notice and administrative correspondence.
 ---
 
+## Summary
+
+This one-page typed letter from S. V. Raju, dated March 3, 1970, is addressed to M. R. Masani. It announces a public meeting at Sandarba Hall on Friday, March 6, 1970, beginning at 6:15 p.m., with “Only yourself” listed as the speaker. The meeting is chaired by Mr. Telchand Himatnani and concerns “The Railway and Union Budgets.”
+
+The letter also records S. V. Raju’s signature and a carbon-copy recipient, Mr. K. S. Srinivasan of the Swatantra Party’s Bombay Branch. No substantive discussion of the railway or Union budgets appears on the rendered page; the document is principally an event notice and administrative correspondence.
+
 ## Key points
 
 - S. V. Raju sent the letter on March 3, 1970.

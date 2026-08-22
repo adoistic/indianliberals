@@ -52,6 +52,12 @@ summary: |-
   The resolution appeals to the Central Government to provide maximum financial and material assistance to the State Government, including loans to agriculturists, house-building equipment, and accelerated relief works such as reconstructing wells, tanks, and medium-scale irrigation works. It also calls on the people of India, especially Swatantra Party members, to donate generously to the Orissa Chief Minister’s Relief Fund. Page 1 additionally contains a newspaper clipping headed “Masani does not relent,” concerning Minoo Masani and an internal Swatantra Party disagreement; the clipping is contextual material rather than the resolution itself.
 ---
 
+## Summary
+
+This two-page English-language document records a Swatantra Party General Council resolution titled “Relief for Orissa Cyclone Victims.” The resolution expresses sympathy for victims of a cyclone that devastated large areas of Orissa, noting that the disaster compounded the effects of a three-year drought. It was moved by Mr. R. P. Singh Deo, M.P., and described as unanimously adopted by the General Council.
+
+The resolution appeals to the Central Government to provide maximum financial and material assistance to the State Government, including loans to agriculturists, house-building equipment, and accelerated relief works such as reconstructing wells, tanks, and medium-scale irrigation works. It also calls on the people of India, especially Swatantra Party members, to donate generously to the Orissa Chief Minister’s Relief Fund. Page 1 additionally contains a newspaper clipping headed “Masani does not relent,” concerning Minoo Masani and an internal Swatantra Party disagreement; the clipping is contextual material rather than the resolution itself.
+
 ## Key points
 
 - The Swatantra Party General Council adopted a resolution expressing sympathy for victims of a cyclone in Orissa.

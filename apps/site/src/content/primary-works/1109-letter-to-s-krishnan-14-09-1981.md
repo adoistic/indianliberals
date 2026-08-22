@@ -45,6 +45,12 @@ summary: |-
   A further one-line note beneath the signature block records that Krishnan's earlier letter of 29 August has also just been received, indicating the exchange was part of an ongoing correspondence. The document carries no argumentative content beyond this scheduling reply.
 ---
 
+## Summary
+
+This single-page office copy is a brief telegram-style message from M. R. Masani at 148 M. G. Road, Bombay to S. Krishnan of 77 Kamdar Nagar, Madras, dated 14 September 1981. Masani acknowledges Krishnan's letter of the tenth, regrets he will be unable to attend a meeting fixed for the twentieth, and sends his best wishes. A carbon copy is directed to Mr. J. Rambhadran of 4 V. S. Mudali Street, Madras.
+
+A further one-line note beneath the signature block records that Krishnan's earlier letter of 29 August has also just been received, indicating the exchange was part of an ongoing correspondence. The document carries no argumentative content beyond this scheduling reply.
+
 ## Key points
 
 - Short outgoing message from M. R. Masani in Bombay to S. Krishnan in Madras, dated 14 September 1981.

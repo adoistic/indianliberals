@@ -52,6 +52,12 @@ summary: |-
   The article also contrasts competing political and economic positions. It discusses the Congress's socialist orientation, the Swatantra Party's opposition to extensive state control, and the difficulty of forming a credible alternative government. It suggests that a durable political alternative would require more than an anti-Congress coalition: parties would need a minimum common programme, organisational discipline, and a clear account of how the economy and government should be managed. The clipping ends by warning that electoral arithmetic and coalition-making may produce instability rather than effective governance.
 ---
 
+## Summary
+
+This undated-byline newspaper clipping, dated March 6, 1971, presents the electoral situation as marked by confusion among parties, alliances, and voters. It questions whether the poll will proceed as scheduled and describes uncertainty over the Congress, the Congress Socialist Party, the Swatantra Party, and other competing formations. The article argues that electoral arrangements are being shaped less by coherent programmes than by tactical calculations, seat adjustments, and the pursuit of power.
+
+The article also contrasts competing political and economic positions. It discusses the Congress's socialist orientation, the Swatantra Party's opposition to extensive state control, and the difficulty of forming a credible alternative government. It suggests that a durable political alternative would require more than an anti-Congress coalition: parties would need a minimum common programme, organisational discipline, and a clear account of how the economy and government should be managed. The clipping ends by warning that electoral arithmetic and coalition-making may produce instability rather than effective governance.
+
 ## Key points
 
 - The article depicts the 1971 electoral scene as confused and politically unstable.

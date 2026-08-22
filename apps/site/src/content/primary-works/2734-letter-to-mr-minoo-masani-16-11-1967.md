@@ -50,6 +50,12 @@ summary: |-
   The letter then explains that the sender may be unable to attend the forthcoming National Executive Meeting and General Council meeting because the sender's brother is seriously ill after a heart attack and paralysis. The sender nevertheless promises to make the best possible effort to be present. The signature begins “K. L.” but the surname is not legible with confidence.
 ---
 
+## Summary
+
+This handwritten English letter, dated 16 November 1967 and sent from Pattambi, is addressed to M. R. Masani. The sender thanks Masani for his letter and advice, endorses his suggestions, and supports bringing people with diverse merits into the organisation. The sender also says they will cooperate with Mr. N. Dandekar.
+
+The letter then explains that the sender may be unable to attend the forthcoming National Executive Meeting and General Council meeting because the sender's brother is seriously ill after a heart attack and paralysis. The sender nevertheless promises to make the best possible effort to be present. The signature begins “K. L.” but the surname is not legible with confidence.
+
 ## Key points
 
 - The letter is dated 16 November 1967 and was written from Pattambi, Kerala.

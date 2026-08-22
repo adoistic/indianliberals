@@ -52,6 +52,12 @@ summary: |-
   The folded form combines the notice, a certificate of posting, a detachable reply card, and an offence schedule listing violations under the Motor Vehicles Act, Motor Vehicle Rules, Bombay Police Act, and related surface-marking rules. The reverse provides space to identify the driver, record driving-licence details, dispute the allegation, and add remarks. The accompanying envelope is addressed to Minoo Masani and bears handwritten Devanagari text and a 1979 postal marking.
 ---
 
+## Summary
+
+This four-page government traffic-offence notice, issued by the Deputy Commissioner of Police, Traffic Control Branch, Bombay, records an alleged motor-vehicle offence involving the vehicle registered to Mr Minochar Rustom Masani. The notice identifies the reported location as V. N. Purav Marg, gives the vehicle number as MR A4C24, records the date and time as 2 November 1979 at 9:10 a.m., and instructs the recipient to provide the name, address, and driving-licence particulars of the person driving the vehicle. It states that failure to reply within seven days constitutes an offence under section 118A of the Motor Vehicle Act.
+
+The folded form combines the notice, a certificate of posting, a detachable reply card, and an offence schedule listing violations under the Motor Vehicles Act, Motor Vehicle Rules, Bombay Police Act, and related surface-marking rules. The reverse provides space to identify the driver, record driving-licence details, dispute the allegation, and add remarks. The accompanying envelope is addressed to Minoo Masani and bears handwritten Devanagari text and a 1979 postal marking.
+
 ## Key points
 
 - The issuing authority is the Deputy Commissioner of Police, Traffic Control Branch, Bombay.

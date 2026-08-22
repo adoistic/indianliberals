@@ -51,6 +51,12 @@ summary: |-
   The argument for raising the exemption limit rests on four considerations: depreciation of the rupee, the desirability of directing money held by fixed-income groups toward their children's welfare, reducing the administrative burden of processing large numbers of small assessments, and lowering the cost of tax collection. The following numbered section, “And finally, minimum controls,” argues that controls should remain in place but that regulations should be pared back. Only this interior page was available, so the broader argument, authorship, publication context, and preceding sections cannot be established.
 ---
 
+## Summary
+
+The page presents tax reduction as a measure intended to stimulate production. It proposes two actions: a drastic reduction in taxation on individuals and corporations, linked to investment or the ploughing back of profits, and an increase in the income-tax exemption limit from Rs. 6,000 to at least Rs. 15,000. It cites the reduction of individual income tax from 48% to 77% in the 1974–75 Union Budget as a step in the right direction, although the printed figures appear internally inconsistent and may reflect a transcription or source error.
+
+The argument for raising the exemption limit rests on four considerations: depreciation of the rupee, the desirability of directing money held by fixed-income groups toward their children's welfare, reducing the administrative burden of processing large numbers of small assessments, and lowering the cost of tax collection. The following numbered section, “And finally, minimum controls,” argues that controls should remain in place but that regulations should be pared back. Only this interior page was available, so the broader argument, authorship, publication context, and preceding sections cannot be established.
+
 ## Key points
 
 - Tax reduction is presented as a way to stimulate production.

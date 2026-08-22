@@ -57,6 +57,12 @@ summary: |-
   The judgment distinguishes peaceful and constructive criticism—even criticism expressed in strong language—from incitement to violence or public disorder. It rejects censorship guidelines that restricted publication of court judgments, the names and detention places of political leaders, and criticism of the Prime Minister’s office. The Court struck down clauses (c), (d), and (e) of the censorship order, interpreted clause (g) narrowly, quashed the Chief Censor’s forfeiture order against Bhoomiputra and its press, and granted permission to appeal without staying the judgment. In the appended oral order, the Court further held that the censor had no jurisdiction to censor court proceedings or decide which judicial decisions could be made public.
 ---
 
+## Summary
+
+This untitled English occasional paper, dated 23 March 1976, summarises a Gujarat High Court judgment concerning the validity of a statutory pre-censorship order issued by the Government of India during the Emergency. The case arose from a writ petition by Chunibhai Vaidya, editor of the Gujarati journal “Bhoomi Putra,” after the publication of a speech by M. C. Chagla. The Division Bench of Justices J. B. Mehta and S. H. Sheth held that several clauses of the censorship order exceeded the purposes authorised by Rule 48 of the Defence of India Rules and Section 3 of the Defence of India Act. In particular, the order improperly covered criticism of the Emergency, the suspension of fundamental rights, detention orders under MISA, and government policy that did not threaten public order.
+
+The judgment distinguishes peaceful and constructive criticism—even criticism expressed in strong language—from incitement to violence or public disorder. It rejects censorship guidelines that restricted publication of court judgments, the names and detention places of political leaders, and criticism of the Prime Minister’s office. The Court struck down clauses (c), (d), and (e) of the censorship order, interpreted clause (g) narrowly, quashed the Chief Censor’s forfeiture order against Bhoomiputra and its press, and granted permission to appeal without staying the judgment. In the appended oral order, the Court further held that the censor had no jurisdiction to censor court proceedings or decide which judicial decisions could be made public.
+
 ## Key points
 
 - The Gujarat High Court reviewed a Government of India pre-censorship order issued on 26 June 1975 and amended thereafter.

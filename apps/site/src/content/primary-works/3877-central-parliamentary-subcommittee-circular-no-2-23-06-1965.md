@@ -54,6 +54,12 @@ summary: |-
   The circular asks the Parliamentary Board's Sub-Committee to approve the recommendation, noting that the Central Parliamentary Board had met only recently and that another meeting would take some time. It establishes a fourteen-day period for objections: no reply would be taken as consent to the proposal.
 ---
 
+## Summary
+
+This one-page English office circular, issued by the Swatantra Party Central Office on June 23, 1965, seeks approval for a prospective parliamentary candidate in Banaskantha Constituency. M. R. Masani, signing as General Secretary, reports that the Parliamentary Board of the Gujarat Unit has recommended Mr. Manu Amerey and that the recommendation has been investigated and found satisfactory.
+
+The circular asks the Parliamentary Board's Sub-Committee to approve the recommendation, noting that the Central Parliamentary Board had met only recently and that another meeting would take some time. It establishes a fourteen-day period for objections: no reply would be taken as consent to the proposal.
+
 ## Key points
 
 - The document is Official Parliamentary Board's Sub Committee Circular No. 2, dated June 23, 1965.

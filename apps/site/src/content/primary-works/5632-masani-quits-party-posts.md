@@ -49,6 +49,12 @@ summary: |-
   The report says that Masani had supported the Independent Progressive Group in the 1966 Gujarat Assembly elections and had expected the group to receive Swatantra Party support in later contests. It records Masani’s objections to the party’s “central decision,” while also quoting his concern that the episode could damage the party’s prospects and create demoralisation among its workers. The second page lists the party’s president, vice-presidents, general and joint secretaries, treasurers, and members of the newly elected National Executive for 1967–69, including Prof. N. G. Ranga, K. M. Munshi, N. Dandekar, C. Rajagopalachari, H. M. Patel, and M. R. Masani.
 ---
 
+## Summary
+
+This two-page archival item combines a Times of India News Service clipping with a typed Swatantra Party office-bearer list for the 1967–69 National Executive. The clipping, datelined New Delhi, March 29, reports that M. R. Masani resigned from the party’s National Executive and Central Parliamentary Board after the party’s Gujarat unit allegedly failed to honour an arrangement concerning candidates for the 1968 elections. Masani’s resignation followed the resignation of Mr. Bhailal Patel and Mr. Jaisingh Rao Baria, and the report frames the dispute as a conflict over party commitments, candidate selection, and organisational discipline.
+
+The report says that Masani had supported the Independent Progressive Group in the 1966 Gujarat Assembly elections and had expected the group to receive Swatantra Party support in later contests. It records Masani’s objections to the party’s “central decision,” while also quoting his concern that the episode could damage the party’s prospects and create demoralisation among its workers. The second page lists the party’s president, vice-presidents, general and joint secretaries, treasurers, and members of the newly elected National Executive for 1967–69, including Prof. N. G. Ranga, K. M. Munshi, N. Dandekar, C. Rajagopalachari, H. M. Patel, and M. R. Masani.
+
 ## Key points
 
 - A Times of India News Service report describes M. R. Masani’s resignation from Swatantra Party posts.

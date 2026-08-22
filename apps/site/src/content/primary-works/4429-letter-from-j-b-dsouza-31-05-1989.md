@@ -47,6 +47,12 @@ summary: |-
   The letter focuses on editorial intervention in periodicals. D’Souza observes that sub-editors or periodical staff may try to correct spelling errors and other matters, but asks that the word “BLANDS” on page 4 of the article be retained if possible. He closes by saying he looks forward to seeing the next issue of Freedom First. The document does not identify the article’s subject beyond these editorial and publication concerns.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated May 31, 1989, is addressed to “Ramu” from J. B. D’Souza at Amber, Perry Cross Road, Bandra, Bombay. D’Souza submits an article promised in response to an earlier letter and describes it as an anniversary article, asking the recipient to return it if it cannot be published without editing.
+
+The letter focuses on editorial intervention in periodicals. D’Souza observes that sub-editors or periodical staff may try to correct spelling errors and other matters, but asks that the word “BLANDS” on page 4 of the article be retained if possible. He closes by saying he looks forward to seeing the next issue of Freedom First. The document does not identify the article’s subject beyond these editorial and publication concerns.
+
 ## Key points
 
 - The letter is dated May 31, 1989, and was sent from Bandra, Bombay.

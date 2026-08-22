@@ -56,3 +56,7 @@ ai:
 summary: |-
   The July 1962 issue of Swatantra Newsletter (No. 24), issued by the Central Office of the Swatantra Party in Bombay, combines party directives, reports from state units, parliamentary activity, and reproduced correspondence. It announces the Parliamentary Board's decision that the party should not contest Gram Panchayat elections in its own name, while leaving decisions on Zilla Parishads, Panchayat Samitis, and municipal elections to state units. It also reports plans to coordinate trade-union work and describes the party's nationwide 'Excessive Taxation and Wasteful Expenditure Week,' with meetings, resolutions, handbills, and public criticism of government taxation.
 ---
+
+## Summary
+
+The July 1962 issue of Swatantra Newsletter (No. 24), issued by the Central Office of the Swatantra Party in Bombay, combines party directives, reports from state units, parliamentary activity, and reproduced correspondence. It announces the Parliamentary Board's decision that the party should not contest Gram Panchayat elections in its own name, while leaving decisions on Zilla Parishads, Panchayat Samitis, and municipal elections to state units. It also reports plans to coordinate trade-union work and describes the party's nationwide 'Excessive Taxation and Wasteful Expenditure Week,' with meetings, resolutions, handbills, and public criticism of government taxation.

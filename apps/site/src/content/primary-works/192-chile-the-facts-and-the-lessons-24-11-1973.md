@@ -57,6 +57,12 @@ summary: |-
   Masani rejects the interpretation that the military takeover represented an isolated or anti-democratic aberration. He argues that Chile’s experience demonstrates the dangers of importing socialist models without regard to local conditions, and compares the Chilean crisis with Ghana, Indonesia, China, the Dominican Republic, and India’s Telangana episode. The closing argument is that a nation cannot survive unless it resists Soviet arms and military assistance with patriotic determination. The article is reproduced from Freedom First.
 ---
 
+## Summary
+
+In these two pages, M. Masani examines the economic and political collapse of Chile under Salvador Allende, presenting it as a warning against Marxist government and centralized economic management. He describes inflation, shortages, declining agricultural and industrial production, state intervention, and popular unrest, including demonstrations by women protesting empty shops. The article also emphasizes that Allende was elected with only a minority of the popular vote and that the new government arrested thousands, including foreign nationals, while imposing what Masani characterizes as tyrannical rule.
+
+Masani rejects the interpretation that the military takeover represented an isolated or anti-democratic aberration. He argues that Chile’s experience demonstrates the dangers of importing socialist models without regard to local conditions, and compares the Chilean crisis with Ghana, Indonesia, China, the Dominican Republic, and India’s Telangana episode. The closing argument is that a nation cannot survive unless it resists Soviet arms and military assistance with patriotic determination. The article is reproduced from Freedom First.
+
 ## Key points
 
 - Masani presents Chile’s economic crisis as the consequence of Allende’s Marxist policies and government intervention.

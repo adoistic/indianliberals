@@ -49,6 +49,12 @@ summary: |-
   Singh supports the party in principle but says he will join only if its ideology and temperament suit him and if he can obtain adequate support. He argues that the party must appeal to workers as well as businesspeople, noting the apparent cleavage between Vallabhbhai Patel’s supporters and the business group at Ahmedabad. The letter closes with practical concerns about party-building in Rajasthan, including the prospects of financial assistance and fundraising, and mentions correspondence with F. R. Jagir regarding controversial matters.
 ---
 
+## Summary
+
+In this letter dated 27 August 1959, Nathu Singh reports his impressions of the newly forming Swatantra Party after attending its Bombay and Ahmedabad meetings. He presents C. Rajagopalachari (“Rajajee”) as the party’s strongest strategist, capable of making Congress “cave in, or go under,” while assessing possible leaders and supporters, including K. M. Munshi, V. P. Menon, Ranga, Minoo Masani, and Rajnath Singh. Singh is particularly concerned with whether Masani can hold the party together and whether the leadership can attract credible figures beyond the established political class.
+
+Singh supports the party in principle but says he will join only if its ideology and temperament suit him and if he can obtain adequate support. He argues that the party must appeal to workers as well as businesspeople, noting the apparent cleavage between Vallabhbhai Patel’s supporters and the business group at Ahmedabad. The letter closes with practical concerns about party-building in Rajasthan, including the prospects of financial assistance and fundraising, and mentions correspondence with F. R. Jagir regarding controversial matters.
+
 ## Key points
 
 - The letter evaluates the Swatantra Party after meetings in Bombay and Ahmedabad.

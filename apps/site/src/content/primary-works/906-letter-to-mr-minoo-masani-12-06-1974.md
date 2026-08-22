@@ -50,6 +50,12 @@ summary: |-
   Mody addresses four questions concerning the proposed party, or “combo”: whether it can be homogeneous, whether it will have credibility, whether it will dilute the appeal of its component parties, and whether it will obstruct a broader future alignment. He argues that a coalition’s appeal can exceed that of any single party, that credibility depends partly on media treatment, and that personal rivalries—not substantive political incompatibility—are blocking larger formations. He urges Masani to join the effort, warning that prolonged adherence to a limited two-party framework will produce quarrels rather than constructive work.
 ---
 
+## Summary
+
+This two-page letter, dated June 12, 1974, is Piloo Mody’s response to Minoo Masani’s reservations about forming a new political party. Mody distinguishes the proposed effort from earlier attempts at cooperation: rather than assembling only “like-minded” allies, it seeks to bring together all non-Congress, non-Communist, and non-Marxist parties. He acknowledges that ideological homogeneity will remain a problem but argues that the new party could offer the public hope that “a reverse trend has started.”
+
+Mody addresses four questions concerning the proposed party, or “combo”: whether it can be homogeneous, whether it will have credibility, whether it will dilute the appeal of its component parties, and whether it will obstruct a broader future alignment. He argues that a coalition’s appeal can exceed that of any single party, that credibility depends partly on media treatment, and that personal rivalries—not substantive political incompatibility—are blocking larger formations. He urges Masani to join the effort, warning that prolonged adherence to a limited two-party framework will produce quarrels rather than constructive work.
+
 ## Key points
 
 - Mody writes to Minoo Masani about disagreements over participation in a proposed new political party.

@@ -52,6 +52,12 @@ summary: |-
   Masani argued that India's new government, given its position and strength, could no longer offer excuses for poor performance. It would, he said, be directly accountable to the people. He also explained his desire to become party president as an attempt to bring new people into leadership, while the report notes that Chimanlal C. Shah welcomed him and presided over the meeting. The clipping is a reported article credited to “A Staff Reporter,” rather than a conventional essay authored by Masani.
 ---
 
+## Summary
+
+This single-page Times of India report, dated 13 April 1971, records remarks by M. R. Masani at a meeting of the Bombay Jain Youth Sangh. Masani warned that the political crisis in Ceylon could be repeated in India, arguing that Mrs. Sirimavo Bandaranaike had made election promises and used slogans similar to those associated with Mrs. Gandhi, but was now facing civil war because she had been unable to fulfil them.
+
+Masani argued that India's new government, given its position and strength, could no longer offer excuses for poor performance. It would, he said, be directly accountable to the people. He also explained his desire to become party president as an attempt to bring new people into leadership, while the report notes that Chimanlal C. Shah welcomed him and presided over the meeting. The clipping is a reported article credited to “A Staff Reporter,” rather than a conventional essay authored by Masani.
+
 ## Key points
 
 - Masani warned that events in Ceylon could be repeated in India.

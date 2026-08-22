@@ -52,6 +52,10 @@ summary: |-
   This seven-page archival bundle records financial transactions associated with the Swatantra Party Parliamentary Office and M. R. Masani in New Delhi in October-November 1969. The first page is a Swatantra Party Parliamentary Office receipt acknowledging Rs. 100 from M. R. Masani for a “special donation.” The remaining pages document expenses at the Delhi Golf Club, including handwritten receipts, bar chits, and a typed party bill for an event held on 30 October 1969.
 ---
 
+## Summary
+
+This seven-page archival bundle records financial transactions associated with the Swatantra Party Parliamentary Office and M. R. Masani in New Delhi in October-November 1969. The first page is a Swatantra Party Parliamentary Office receipt acknowledging Rs. 100 from M. R. Masani for a “special donation.” The remaining pages document expenses at the Delhi Golf Club, including handwritten receipts, bar chits, and a typed party bill for an event held on 30 October 1969.
+
 ## Key points
 
 - The bundle is composed of receipts, bills, and attached bar chits rather than a conventional publication.

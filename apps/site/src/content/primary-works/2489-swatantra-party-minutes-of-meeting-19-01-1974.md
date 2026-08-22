@@ -55,6 +55,12 @@ summary: |-
   The committee reviews recent electoral activity in the Bombay Central Parliamentary constituency and preparations for Zilla Parishad elections in Osmanabad. It postpones a workers' camp because of forthcoming general elections in Uttar Pradesh and Orissa, considers ways to address the party's unsatisfactory finances, and records plans for flag-hoisting ceremonies at the party office and local units. The final pages focus on acute food shortages in Osmanabad, especially the distribution of a grain called “barbada”; the committee resolves to bring samples to Bombay and organise public demonstrations. The document ends with a vote of thanks at 5:30 p.m. and the chairperson's signed approval.
 ---
 
+## Summary
+
+These three pages record the proceedings of the Swatantra Party, Maharashtra Executive Committee meeting held in Bombay on 19 January 1974. The minutes list 21 attendees, confirm the previous meeting's minutes, and decide that future meeting summaries should be circulated to members in both English and Marathi. The committee also discusses increasing party membership by recontacting former members and using Assembly electoral rolls to identify prospective recruits.
+
+The committee reviews recent electoral activity in the Bombay Central Parliamentary constituency and preparations for Zilla Parishad elections in Osmanabad. It postpones a workers' camp because of forthcoming general elections in Uttar Pradesh and Orissa, considers ways to address the party's unsatisfactory finances, and records plans for flag-hoisting ceremonies at the party office and local units. The final pages focus on acute food shortages in Osmanabad, especially the distribution of a grain called “barbada”; the committee resolves to bring samples to Bombay and organise public demonstrations. The document ends with a vote of thanks at 5:30 p.m. and the chairperson's signed approval.
+
 ## Key points
 
 - The Maharashtra Executive Committee met in Bombay on 19 January 1974 with 21 members and invitees present.

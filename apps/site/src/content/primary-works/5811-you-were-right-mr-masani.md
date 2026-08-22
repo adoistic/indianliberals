@@ -46,3 +46,7 @@ ai:
 summary: |-
   This four-page clipping from The Afternoon Despatch & Courier, dated Wednesday, March 25, 1992, combines a Letters section with unrelated commercial advertising. The visible letters address three distinct concerns: parliamentary conduct and the treatment of Minoo Masani, a proposal for a uniform retirement age for judges and other public officials, and a reader's question about Parsi religious terminology and practice. The surrounding pages advertise motorcycles, genset engines, a permanent product-display centre, menswear, and ice cream; they do not form part of the letters' political argument.
 ---
+
+## Summary
+
+This four-page clipping from The Afternoon Despatch & Courier, dated Wednesday, March 25, 1992, combines a Letters section with unrelated commercial advertising. The visible letters address three distinct concerns: parliamentary conduct and the treatment of Minoo Masani, a proposal for a uniform retirement age for judges and other public officials, and a reader's question about Parsi religious terminology and practice. The surrounding pages advertise motorcycles, genset engines, a permanent product-display centre, menswear, and ice cream; they do not form part of the letters' political argument.

@@ -51,6 +51,12 @@ summary: |-
   The letter also records practical organisational matters. Arya asks Raju to help secure advertisements from Dr. Cooper's companies and to persuade Minoo Masani to send appeals for advertisements to Nasli Wadia, Viren Shah, and Pratap Bhogilal. Arya further says that he has arranged for the N.H. to hold a convention in Delhi on 4 and 5 August 1974 and is booking Sapru House, while asking Raju to arrange the funds as previously promised. The accompanying inland-letter-card view shows the recipient and the Swatantra Jyoti return address; no additional correspondence is visible.
 ---
 
+## Summary
+
+This 24 June 1974 letter, written on the letterhead of Swatantra Jyoti (Hindi Fortnightly), concerns the publication's forthcoming Ninth Annual Number, scheduled for 1 August 1974 after nine years of publication. The apparent signatory, R. K. Arya, asks S. V. Raju to contribute an article on the “Future of Liberalism in India” in the context of the impending dissolution of the Swatantra Party. The proposed annual issue is described as covering national, economic, political, and social questions through contributions by eminent writers and statesmen.
+
+The letter also records practical organisational matters. Arya asks Raju to help secure advertisements from Dr. Cooper's companies and to persuade Minoo Masani to send appeals for advertisements to Nasli Wadia, Viren Shah, and Pratap Bhogilal. Arya further says that he has arranged for the N.H. to hold a convention in Delhi on 4 and 5 August 1974 and is booking Sapru House, while asking Raju to arrange the funds as previously promised. The accompanying inland-letter-card view shows the recipient and the Swatantra Jyoti return address; no additional correspondence is visible.
+
 ## Key points
 
 - The letter is dated 24 June 1974 and is issued from Swatantra Jyoti in New Delhi.

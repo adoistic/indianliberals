@@ -50,6 +50,12 @@ summary: |-
   Raju also responds to Tiwari’s interest in working for the Swatantra Party in Uttar Pradesh and participating in a proposed convention in Madras. He says that the plans remain fluid and forwards Tiwari’s letter to K. Sundaram, whom he expects will welcome the cooperation of someone he describes as ideologically oriented. The page offers a brief glimpse of liberal political coordination and party activity in 1974, rather than a developed political argument.
 ---
 
+## Summary
+
+This one-page letter from S. V. Raju to J. G. Tiwari, dated September 10, 1974, discusses developments at a convention and refers to an article Raju is enclosing for publication in Freedom First. Raju presents the article as an account that “tells the story” of what happened at the convention, but the article itself is not included in the rendered document.
+
+Raju also responds to Tiwari’s interest in working for the Swatantra Party in Uttar Pradesh and participating in a proposed convention in Madras. He says that the plans remain fluid and forwards Tiwari’s letter to K. Sundaram, whom he expects will welcome the cooperation of someone he describes as ideologically oriented. The page offers a brief glimpse of liberal political coordination and party activity in 1974, rather than a developed political argument.
+
 ## Key points
 
 - Raju acknowledges Tiwari’s letter of August 27 and notes that Minoo Masani is abroad and expected back in India by the middle of the following month.

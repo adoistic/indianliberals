@@ -46,6 +46,10 @@ summary: |-
   This one-page typed personal letter, dated March 12, 1975, was sent by S. V. Raju from Tilak Nagar, Chembur, Bombay, to Budhi Prakash, an advocate in Chamba, Himachal Pradesh. In a brief, teasing message, Raju asks whether Prakash is “dead or alive” and jokes that being in “BLD” would mean he was dead, while absence from it would indicate that he was alive.
 ---
 
+## Summary
+
+This one-page typed personal letter, dated March 12, 1975, was sent by S. V. Raju from Tilak Nagar, Chembur, Bombay, to Budhi Prakash, an advocate in Chamba, Himachal Pradesh. In a brief, teasing message, Raju asks whether Prakash is “dead or alive” and jokes that being in “BLD” would mean he was dead, while absence from it would indicate that he was alive.
+
 ## Key points
 
 - The letter is dated March 12, 1975.

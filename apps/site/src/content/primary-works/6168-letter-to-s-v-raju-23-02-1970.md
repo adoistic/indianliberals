@@ -45,6 +45,12 @@ summary: |-
   Narayan also asks Raju to help manage an increasing volume of correspondence in Hindi, Gujarati, Urdu, and other languages. He suggests that Bhatia or someone else prepare brief summaries of attached letters or matters requiring attention, so that Raju can dispose of them efficiently. The page includes a “RECEIVED” stamp dated 25 February 1970 and the circled archival number 6168.
 ---
 
+## Summary
+
+This one-page letter, dated 23 February 1970 and signed by R. K. A. Narayan, is addressed to S. V. Raju in Bombay. Narayan asks Raju to obtain and send, by express delivery, Ahmedabad addresses and telephone numbers that Mr. Bhatia omitted from a list, including those of the Maharaja of Baria, B. M. Patel, and others.
+
+Narayan also asks Raju to help manage an increasing volume of correspondence in Hindi, Gujarati, Urdu, and other languages. He suggests that Bhatia or someone else prepare brief summaries of attached letters or matters requiring attention, so that Raju can dispose of them efficiently. The page includes a “RECEIVED” stamp dated 25 February 1970 and the circled archival number 6168.
+
 ## Key points
 
 - The letter is dated 23 February 1970 and is signed by R. K. A. Narayan.

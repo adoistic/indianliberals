@@ -48,6 +48,12 @@ summary: |-
   Despite this judgment, Choksi closes by wishing Masani and the party well and expressing hopes for the country. The document is typed on Bombay House, Fort, Bombay, letterhead and includes handwritten annotations and a handwritten signature.
 ---
 
+## Summary
+
+This one-page English letter, dated June 17, 1968, is addressed by R. Choksi to Minoo Masani. Choksi acknowledges receiving confidential correspondence sent with Masani’s June 7 letter and expresses disappointment at the condition of the party under discussion. He writes that, in his pessimistic view, the party cannot be saved because its morals are no better than those of other political parties.
+
+Despite this judgment, Choksi closes by wishing Masani and the party well and expressing hopes for the country. The document is typed on Bombay House, Fort, Bombay, letterhead and includes handwritten annotations and a handwritten signature.
+
 ## Key points
 
 - The letter is dated June 17, 1968, and was written from Bombay House, Fort, Bombay.

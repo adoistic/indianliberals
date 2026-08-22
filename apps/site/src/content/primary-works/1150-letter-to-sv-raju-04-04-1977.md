@@ -47,6 +47,12 @@ summary: |-
   Masani asks Raju to forward all the relevant papers so that he can study the problem before summoning both sides for a discussion. The substance of the disagreement is not disclosed in the letter, but the correspondence with Raju and the Bombay address (associated with the Maharashtra Swatantra Party office at 143 M. G. Road) situates the exchange within Masani's post-Swatantra role as a senior mediator among liberal colleagues.
 ---
 
+## Summary
+
+This one-page typed letter, dated April 4, 1977 and addressed to S. V. Raju at 143 Mahatma Gandhi Road, Bombay, records Minoo Masani's acceptance of an arbitration request. Masani acknowledges Raju's letter of April 1 and notes that he has received a parallel request from Parmanand Kejriwal and Girish Munshi; because all sides have appealed to him unanimously, he agrees to serve as arbitrator in the underlying dispute.
+
+Masani asks Raju to forward all the relevant papers so that he can study the problem before summoning both sides for a discussion. The substance of the disagreement is not disclosed in the letter, but the correspondence with Raju and the Bombay address (associated with the Maharashtra Swatantra Party office at 143 M. G. Road) situates the exchange within Masani's post-Swatantra role as a senior mediator among liberal colleagues.
+
 ## Key points
 
 - Letter is dated April 4, 1977 and signed by M. R. Masani (Minoo Masani).

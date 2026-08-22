@@ -48,6 +48,12 @@ summary: |-
   The document records a routine administrative exchange concerning the Swatantra Party's internal financial coordination. It contains no substantive discussion of policy, ideology, or the decisions recorded in the enclosed minutes; those minutes are not included in the rendered page.
 ---
 
+## Summary
+
+This one-page letter, dated 8 October 1959, is written by Victor Paranjoti from the Publicity Department of The Associated Cement Cos. Ltd. in Bombay to the Secretary of the Swatantra Party. Paranjoti states that he is enclosing the minutes of the previous day's meeting of the party's Funds Sub-Committee for consideration at the following day's Main Committee meeting.
+
+The document records a routine administrative exchange concerning the Swatantra Party's internal financial coordination. It contains no substantive discussion of policy, ideology, or the decisions recorded in the enclosed minutes; those minutes are not included in the rendered page.
+
 ## Key points
 
 - The letter is dated 8 October 1959 and was sent from Bombay.

@@ -53,6 +53,12 @@ summary: |-
   Masani warns that the Party's recent decisions may cause it to lose public support and damage its credibility. He calls for ethical and disciplined methods, internal education, and an appeal to the Party's remaining idealism, arguing that reform should be led by members not burdened with administering Party affairs. Citing electoral reverses in Haryana, the Dausa by-election in Rajasthan, and the Panchayat elections in Gujarat, he urges the Party to put its house in order and promises to work to prevent further decline.
 ---
 
+## Summary
+
+This three-page English press release, dated Madras, 2 June and signed by M. R. Masani, rejects the National Executive's decisions as a return to short-term expediency. Masani states that efforts to amend two resolutions were defeated by a majority, leaving him no alternative but to decline re-election to the seat and Executive position he had vacated. The document is marked in the margin “In the General Council.”
+
+Masani warns that the Party's recent decisions may cause it to lose public support and damage its credibility. He calls for ethical and disciplined methods, internal education, and an appeal to the Party's remaining idealism, arguing that reform should be led by members not burdened with administering Party affairs. Citing electoral reverses in Haryana, the Dausa by-election in Rajasthan, and the Panchayat elections in Gujarat, he urges the Party to put its house in order and promises to work to prevent further decline.
+
 ## Key points
 
 - Masani criticises the National Executive for decisions shaped by short-term expediency.

@@ -50,6 +50,12 @@ summary: |-
   Masani directs the Deputy Commissioner of Police to the Bharatiya Lok Dal's Bombay office, which he says holds the relevant records and may help identify the jeep's present owner. The document is an individual administrative correspondence, not a political argument or policy statement; its political context arises from the former party office that caused vehicles to be registered in Masani's name.
 ---
 
+## Summary
+
+In this letter dated July 2, 1975, M. R. Masani responds to a traffic-offence notice concerning Jeep No. MRG-2347. He states that he had never owned the vehicle, but explains that several jeeps belonging to the Swatantra Party had been registered in his name during his tenure as the Party's General Secretary. He adds that all of those vehicles had been sold several years earlier and that he ceased to be a Swatantra Party office bearer in April 1971.
+
+Masani directs the Deputy Commissioner of Police to the Bharatiya Lok Dal's Bombay office, which he says holds the relevant records and may help identify the jeep's present owner. The document is an individual administrative correspondence, not a political argument or policy statement; its political context arises from the former party office that caused vehicles to be registered in Masani's name.
+
 ## Key points
 
 - Masani received traffic-offence notice No. 3029553 dated July 1, 1975, concerning Jeep No. MRG-2347.

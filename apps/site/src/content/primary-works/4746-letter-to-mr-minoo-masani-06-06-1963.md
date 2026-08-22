@@ -48,6 +48,12 @@ summary: |-
   Patel argues that the Swatantra Party's performance in Rajkot was especially significant because it challenged the Congress's hold over rural areas. He contrasts Rajkot with the Congress defeats at Amroha and Farukabad, and suggests that establishing party offices could enable Swatantra to deliver an even more decisive defeat in the Rajkot area.
 ---
 
+## Summary
+
+In this letter dated 6 June 1963, B. D. Patel thanks Minoo Masani for his earlier letter and credits Masani's “luck and pluck” from the moment he submitted his nomination. Patel describes the election as a contest fought against heavy odds and celebrates the resulting success.
+
+Patel argues that the Swatantra Party's performance in Rajkot was especially significant because it challenged the Congress's hold over rural areas. He contrasts Rajkot with the Congress defeats at Amroha and Farukabad, and suggests that establishing party offices could enable Swatantra to deliver an even more decisive defeat in the Rajkot area.
+
 ## Key points
 
 - The letter thanks Minoo Masani for correspondence dated 3 June 1963.

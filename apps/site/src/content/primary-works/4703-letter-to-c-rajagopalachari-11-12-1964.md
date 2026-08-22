@@ -49,6 +49,12 @@ summary: |-
   Masani also refers to the Bihar affair, noting that he has not received a reply to his telegram and is acting on the assumption that Rajagopalachari approves an action involving Ranga, Munshi, and Masani. The letter is collegial and operational in tone, documenting coordination among political associates rather than presenting a developed policy argument.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to C. Rajagopalachari, dated 17 August 1964, concerns travel arrangements and several matters of political coordination. Masani confirms that meetings planned in Delhi stand, hopes Rajagopalachari has arranged his travel, and clarifies a misunderstanding about Kerala: he had understood that Rajagopalachari wanted him to write to Mr. Wariar after wiring Raghava Menon.
+
+Masani also refers to the Bihar affair, noting that he has not received a reply to his telegram and is acting on the assumption that Rajagopalachari approves an action involving Ranga, Munshi, and Masani. The letter is collegial and operational in tone, documenting coordination among political associates rather than presenting a developed policy argument.
+
 ## Key points
 
 - Masani writes to C. Rajagopalachari on 17 August 1964.

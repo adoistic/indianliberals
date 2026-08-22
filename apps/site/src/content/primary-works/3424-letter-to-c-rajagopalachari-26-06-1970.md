@@ -48,6 +48,12 @@ summary: |-
   Masani reports that political developments in Delhi are taking shape and expects greater clarity by the end of the weekend. He notes that Ranga welcomed the developments and says he will publicly acknowledge this shared support if the situation develops as anticipated. He also expects to travel to Delhi for a meeting of the Consultative Committee on External Affairs, before returning to Bombay. The letter closes with Masani’s account of laying a wreath for the Maharaja of Jaipur, explicitly marked as coming from Rajaji and the President and members of the Swatantra Party.
 ---
 
+## Summary
+
+In this letter dated 26 June 1970, Minoo Masani writes to C. Rajagopalachari (“Rajaji”) about the relationship between Kamaraj’s proposed “Save India Front” and a longer political draft discussed in Rajagopalachari’s earlier letter. Masani sees no conflict between the two initiatives, although he explains that the other members of the drafting group insisted on a detailed document rather than the brief three- or four-point statement he had preferred.
+
+Masani reports that political developments in Delhi are taking shape and expects greater clarity by the end of the weekend. He notes that Ranga welcomed the developments and says he will publicly acknowledge this shared support if the situation develops as anticipated. He also expects to travel to Delhi for a meeting of the Consultative Committee on External Affairs, before returning to Bombay. The letter closes with Masani’s account of laying a wreath for the Maharaja of Jaipur, explicitly marked as coming from Rajaji and the President and members of the Swatantra Party.
+
 ## Key points
 
 - Masani sees no conflict between Kamaraj’s “Save India Front” and Rajagopalachari’s longer political draft.

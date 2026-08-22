@@ -53,6 +53,12 @@ summary: |-
   The letter also gives logistical instructions for delegates who require hotel accommodation and return-journey tickets, referring them to V. S. Srikumar, Secretary of the Madras District Swatantra Party. The remaining rendered pages appear to be an enclosure or mismatched continuation: one page lists hotels in Madras, while the final page contains a fragment of a political statement warning the Government of India against taxation beyond the capacity of poorer sections and predicting widespread popular anger. The document has no printed title, and the relationship between these enclosures and the main letter is uncertain.
 ---
 
+## Summary
+
+Dated 20 November 1974, this letter from G. K. Sundaram, Treasurer of the All India Swatantra Party and President of the Tamilnadu Swatantra Party, invites the recipient to a National General Council meeting scheduled for 8 December 1974 at the Local Library Authority Building on Mount Road, Madras. The five-point agenda includes filling vacancies on the National Executive caused by defections, strengthening the party nationwide, adopting resolutions on the defections, reviewing the political situation, and deciding how to prepare for a possible mid-term poll or the scheduled 1976 general elections.
+
+The letter also gives logistical instructions for delegates who require hotel accommodation and return-journey tickets, referring them to V. S. Srikumar, Secretary of the Madras District Swatantra Party. The remaining rendered pages appear to be an enclosure or mismatched continuation: one page lists hotels in Madras, while the final page contains a fragment of a political statement warning the Government of India against taxation beyond the capacity of poorer sections and predicting widespread popular anger. The document has no printed title, and the relationship between these enclosures and the main letter is uncertain.
+
 ## Key points
 
 - The letter is dated 20 November 1974 and announces a National General Council meeting for 8 December 1974 in Madras.

@@ -49,6 +49,10 @@ summary: |-
   This single-page office letter, dated 24 July 1963, is addressed to Mr. A. P. Jain at the Swatantra Party Parliamentary Office in New Delhi. It acknowledges Jain's request and returns a letter addressed to the Secretary of the Lok Sabha Secretariat, signed by M. R. Masani.
 ---
 
+## Summary
+
+This single-page office letter, dated 24 July 1963, is addressed to Mr. A. P. Jain at the Swatantra Party Parliamentary Office in New Delhi. It acknowledges Jain's request and returns a letter addressed to the Secretary of the Lok Sabha Secretariat, signed by M. R. Masani.
+
 ## Key points
 
 - The document is dated 24 July 1963.

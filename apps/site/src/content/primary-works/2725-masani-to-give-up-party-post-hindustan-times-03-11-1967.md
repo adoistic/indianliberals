@@ -51,6 +51,12 @@ summary: |-
   Masani extends this argument into a broader case for rotation in leadership, comparing it with practices in enlightened industrial management. He rejects the idea that party office-bearers should do nearly all the work while others remain passive, arguing instead for a disciplined and dedicated cadre that need not hold office. He says he will continue serving the party through Parliament and public speaking, and recommends N. Dandekar—who had acted in his place during Masani's illness—as the next general secretary.
 ---
 
+## Summary
+
+This Hindustan Times report describes Minoo Masani's decision to relinquish his post as general secretary of the Swatantra Party after seven years. Writing to the party's general council before its Delhi meeting, Masani says that he and C. Rajagopalachari had been arguing that remaining in office too long was not good for the country or for parliamentary democracy, and that the principle should also apply to government office-holders.
+
+Masani extends this argument into a broader case for rotation in leadership, comparing it with practices in enlightened industrial management. He rejects the idea that party office-bearers should do nearly all the work while others remain passive, arguing instead for a disciplined and dedicated cadre that need not hold office. He says he will continue serving the party through Parliament and public speaking, and recommends N. Dandekar—who had acted in his place during Masani's illness—as the next general secretary.
+
 ## Key points
 
 - Minoo Masani announces that he will give up the Swatantra Party's general-secretary post after seven years.

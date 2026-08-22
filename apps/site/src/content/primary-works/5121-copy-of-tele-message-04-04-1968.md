@@ -48,6 +48,10 @@ summary: |-
   This single-page archival record reproduces four telex messages exchanged between N. Dandekar and C. Rajagopalachari (Rajaji) on 4–5 April 1968. The messages concern Minoo Masani’s resignation and the political situation in Haryana, with Dandekar urging Rajaji to issue a public statement and Rajaji declining to do so. Dandekar frames the Haryana election as an opportunity for the Swatantra Party and asks Rajaji to encourage voters to support it.
 ---
 
+## Summary
+
+This single-page archival record reproduces four telex messages exchanged between N. Dandekar and C. Rajagopalachari (Rajaji) on 4–5 April 1968. The messages concern Minoo Masani’s resignation and the political situation in Haryana, with Dandekar urging Rajaji to issue a public statement and Rajaji declining to do so. Dandekar frames the Haryana election as an opportunity for the Swatantra Party and asks Rajaji to encourage voters to support it.
+
 ## Key points
 
 - Dandekar reports that he tried, unsuccessfully, to dissuade Masani from resigning.

@@ -53,6 +53,12 @@ summary: |-
   Bankeshwar challenges the complainants to review a retransmission of the opening fifteen minutes and decide whether Masani’s language was accurate, understated, or objectionable. The letter contrasts the public’s inability to understand simultaneous shouting in Parliament with the MPs’ claim to parliamentary privilege, and frames Masani’s criticism as an instance of truth-telling rather than a breach of privilege. The document is a pointed intervention on legislative decorum, parliamentary accountability, and the protection of outspoken public criticism.
 ---
 
+## Summary
+
+This letter, dated 20 March 1992 and addressed to an editor, defends Minoo Masani against a privilege motion reportedly brought by CPI(M) MP Roop Chand Pal and several left-wing MPs. S. S. Bankeshwar argues that Masani’s description of MPs who disrupted Finance Minister Manmohan Singh’s Budget presentation as “howling hooligans” was an apt response to their conduct: they allegedly prevented the presentation for fifteen minutes and held the Lok Sabha “to ransom” until Speaker Shivraj Patil intervened.
+
+Bankeshwar challenges the complainants to review a retransmission of the opening fifteen minutes and decide whether Masani’s language was accurate, understated, or objectionable. The letter contrasts the public’s inability to understand simultaneous shouting in Parliament with the MPs’ claim to parliamentary privilege, and frames Masani’s criticism as an instance of truth-telling rather than a breach of privilege. The document is a pointed intervention on legislative decorum, parliamentary accountability, and the protection of outspoken public criticism.
+
 ## Key points
 
 - The letter opposes a privilege motion against Minoo Masani.

@@ -47,6 +47,12 @@ summary: |-
   The letter documents a small-scale political coordination effort, but it does not identify the party, the issue under discussion, or the roles of the individuals named. The sender's typed name is '( C.K. Munshi )'; this does not resolve to the authority entry for K. M. Munshi.
 ---
 
+## Summary
+
+This one-page letter, dated December 17, 1974, is from C. K. Munshi to S. V. Raju. Munshi proposes a meeting at the Party Office on Saturday, December 21, at 10 a.m., bringing together Raju, Parmanandji, and other colleagues to discuss an unspecified matter. He asks Raju to inform their associates, including KH, Ramu, Pramod, and Koppiker, and notes that he will speak separately to Parmanandji.
+
+The letter documents a small-scale political coordination effort, but it does not identify the party, the issue under discussion, or the roles of the individuals named. The sender's typed name is '( C.K. Munshi )'; this does not resolve to the authority entry for K. M. Munshi.
+
 ## Key points
 
 - The letter is dated December 17, 1974, and is written from Bharatiya Vidya Bhavan in Bombay-7.

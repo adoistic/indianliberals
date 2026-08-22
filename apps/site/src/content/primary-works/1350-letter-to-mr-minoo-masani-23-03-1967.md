@@ -54,6 +54,12 @@ summary: |-
   Pages 2–3 are a typed statement, heavily annotated in manuscript, about the Congress for Cultural Freedom. The statement describes the organisation as an international fellowship defending intellectual freedom against totalitarianism and unwarranted censorship, lists prominent figures associated with it, and responds to reports that CIA-linked foundations had channelled funds to the organisation. It says the Congress investigated the matter, rejected further contributions from endowments other than the Ford Foundation, and protested what it characterises as a campaign to smear the organisation. The relationship between this statement and the administrative letter on page 1 is not explained in the rendered file.
 ---
 
+## Summary
+
+This three-page English-language file contains an official Lok Sabha Secretariat letter dated March 23, 1967, addressed to Minoo Masani and signed by Deputy Secretary M.C. Chawla. The first page concerns the constitution of nine Lok Sabha committees for 1967–68, including the Business Advisory, Privileges, Petitions, Rules, and Subordinate Legislation Committees, as well as the nomination of ten Lok Sabha members to a Joint Committee on members’ salaries and allowances. Masani is asked to indicate his group’s committee preferences and submit panels of three nominees for each committee, with special consideration for former members on the Subordinate Legislation Committee. The letter also requests that potential nominees not be informed until the Speaker has made a final selection.
+
+Pages 2–3 are a typed statement, heavily annotated in manuscript, about the Congress for Cultural Freedom. The statement describes the organisation as an international fellowship defending intellectual freedom against totalitarianism and unwarranted censorship, lists prominent figures associated with it, and responds to reports that CIA-linked foundations had channelled funds to the organisation. It says the Congress investigated the matter, rejected further contributions from endowments other than the Ford Foundation, and protested what it characterises as a campaign to smear the organisation. The relationship between this statement and the administrative letter on page 1 is not explained in the rendered file.
+
 ## Key points
 
 - The Lok Sabha Speaker was to constitute nine parliamentary committees for 1967–68.

@@ -55,6 +55,12 @@ summary: |-
   The resolution calls on central and state governments to give immediate relief the highest priority and to provide assistance in a generous and appropriate manner. It also urges longer-term measures, including flood-control projects, afforestation in catchment areas, river-bed dredging, and planning to mitigate the effects of drought. Rather than relying on slogans, it asks the government to concentrate on practical solutions to recurring disasters that cause widespread suffering.
 ---
 
+## Summary
+
+This one-page resolution, issued by the Swatantra Party General Council in Bangalore on September 18, 1971, addresses simultaneous disasters in India: extensive flooding in Bihar, Orissa, and Uttar Pradesh, and drought across large areas of southern India. It expresses sympathy for affected communities, reports the loss of homes, crops, and cattle, and argues that government relief measures are inadequate.
+
+The resolution calls on central and state governments to give immediate relief the highest priority and to provide assistance in a generous and appropriate manner. It also urges longer-term measures, including flood-control projects, afforestation in catchment areas, river-bed dredging, and planning to mitigate the effects of drought. Rather than relying on slogans, it asks the government to concentrate on practical solutions to recurring disasters that cause widespread suffering.
+
 ## Key points
 
 - Floods have inundated large areas of Bihar, Orissa, and Uttar Pradesh, displacing people and destroying crops and cattle.

@@ -48,6 +48,10 @@ summary: |-
   This typed personal letter from S. V. Raju to V. S. Srikumar is dated June 9, 1975, and was sent from Tilaknagar, Chembur, Bombay. Raju acknowledges receiving Srikumar's letters after returning from a fortnight's holiday at Mahabaleshwar and promises to respond in detail to the matters raised.
 ---
 
+## Summary
+
+This typed personal letter from S. V. Raju to V. S. Srikumar is dated June 9, 1975, and was sent from Tilaknagar, Chembur, Bombay. Raju acknowledges receiving Srikumar's letters after returning from a fortnight's holiday at Mahabaleshwar and promises to respond in detail to the matters raised.
+
 ## Key points
 
 - The letter is dated June 9, 1975, and originates from Chembur, Bombay.

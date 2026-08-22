@@ -54,6 +54,12 @@ summary: |-
   The circular defines eligibility for voting and candidacy, including valid membership registered by 30 September 1973 and the status of life workers and life members. It provides district-by-district tables showing primary-unit strength and the number of representatives to be elected, explains proportional representation rules, lists returning officers, and supplies an election programme for units across Bombay and Maharashtra. The final page is an attached nomination form for candidates seeking membership of primary, district, state, or general councils. The document is signed by P. C. Cama as General Secretary; no author byline is printed.
 ---
 
+## Summary
+
+This five-page Swatantra Party circular, dated 15 October 1973, sets out the procedures and timetable for the party’s fifth internal elections. It establishes deadlines for completing elections at primary-unit, district, state, and national levels: 15 November 1973 for primary and district units, 30 November for state bodies, and 31 December for national office-bearers and the National Executive. Because Bombay and Maharashtra had been merged into a single state unit, the circular specifies that their party elections would be conducted jointly.
+
+The circular defines eligibility for voting and candidacy, including valid membership registered by 30 September 1973 and the status of life workers and life members. It provides district-by-district tables showing primary-unit strength and the number of representatives to be elected, explains proportional representation rules, lists returning officers, and supplies an election programme for units across Bombay and Maharashtra. The final page is an attached nomination form for candidates seeking membership of primary, district, state, or general councils. The document is signed by P. C. Cama as General Secretary; no author byline is printed.
+
 ## Key points
 
 - The circular announces the Swatantra Party’s fifth internal elections in 1973.

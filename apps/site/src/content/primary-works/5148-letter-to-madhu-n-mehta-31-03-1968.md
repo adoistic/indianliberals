@@ -46,6 +46,10 @@ summary: |-
   This three-page English correspondence document from Bombay, dated 30–31 March 1968, consists of a covering letter from Madhu N. Mehta and a copied letter addressed to N. Dandekar, General Secretary of the Swatantra Party. Mehta responds to Minoo Masani’s resignation from the Party’s National Executive and Central Parliamentary Board, describing the development as sudden and disturbing for members of the General Council and urging immediate organisational action.
 ---
 
+## Summary
+
+This three-page English correspondence document from Bombay, dated 30–31 March 1968, consists of a covering letter from Madhu N. Mehta and a copied letter addressed to N. Dandekar, General Secretary of the Swatantra Party. Mehta responds to Minoo Masani’s resignation from the Party’s National Executive and Central Parliamentary Board, describing the development as sudden and disturbing for members of the General Council and urging immediate organisational action.
+
 ## Key points
 
 - Mehta encloses a copy of a letter sent to N. Dandekar concerning Minoo Masani’s resignation.

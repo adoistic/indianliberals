@@ -46,6 +46,12 @@ summary: |-
   Masani also asks Kapadia to convey his thanks to Harshad Nody and Mankad for their kind thought and greetings, which he says he much appreciates. The letter is brief, personal correspondence and contains no substantive political or intellectual argument.
 ---
 
+## Summary
+
+This single-page English letter, dated 16 August 1963, is from M. R. Masani to Mr. N. P. Kapadia of Rajkot. Masani thanks Kapadia for a telegram sent on the 13th and for his good wishes.
+
+Masani also asks Kapadia to convey his thanks to Harshad Nody and Mankad for their kind thought and greetings, which he says he much appreciates. The letter is brief, personal correspondence and contains no substantive political or intellectual argument.
+
 ## Key points
 
 - The letter is dated 16 August 1963.

@@ -51,6 +51,12 @@ summary: |-
   The document is a clipped logistical communication rather than a developed political argument. The scan does not print a full title, sender identity, recipient identity, or year; the filename suggests a date, but that date is not treated as visible-page evidence.
 ---
 
+## Summary
+
+This one-page English telegram, addressed to Jain in New Delhi and issued under the name “RAJU,” concerns a proposed meeting with the Prime Minister. It reports that Masani has already wired the Prime Minister explaining his inability to meet on the 13th. Because Professor Ranga and Masani are completing engagements in Bangalore that evening, and no plane connection reaches Delhi on the 13th, Masani has offered the Prime Minister an alternative date.
+
+The document is a clipped logistical communication rather than a developed political argument. The scan does not print a full title, sender identity, recipient identity, or year; the filename suggests a date, but that date is not treated as visible-page evidence.
+
 ## Key points
 
 - The telegram is addressed to Jain at 53 North Avenue, New Delhi.

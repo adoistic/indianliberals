@@ -62,6 +62,12 @@ summary: |-
   The circular presents Narayan's programme of “Total Revolution” as compatible with Swatantra principles: Sarvodaya rather than Marxist class conflict, moral values in public life, peaceful and non-violent social as well as political change, popular resistance to an oppressive state, preservation of fundamental rights, and rejection of one-party rule. It then records party decisions concerning electoral reform, food production, industrial controls, voter enumeration, legal challenges over the party symbol, and organisational revival in several states. The document closes by urging members to reconnect with the party's social base—farmers, students, industrial workers, shopkeepers, tradesmen, professionals, and technocrats—and to make the party and the wider opposition movement effective.
 ---
 
+## Summary
+
+General Secretary's Circular No. 322, issued by the Swatantra Party in Madras on 1 May 1975, reviews the party's response to the opposition movement led by Jayaprakash Narayan. It recalls Minoo Masani's earlier warning about the ineffectiveness of parliamentary opposition and his concern over the concentration of power in the Prime Minister's hands. The circular argues that a federation of non-Congress and non-communist parties should precede any full merger, while endorsing cooperation with Jayaprakash Narayan's campaign against corruption, nepotism, repression, and administrative failure.
+
+The circular presents Narayan's programme of “Total Revolution” as compatible with Swatantra principles: Sarvodaya rather than Marxist class conflict, moral values in public life, peaceful and non-violent social as well as political change, popular resistance to an oppressive state, preservation of fundamental rights, and rejection of one-party rule. It then records party decisions concerning electoral reform, food production, industrial controls, voter enumeration, legal challenges over the party symbol, and organisational revival in several states. The document closes by urging members to reconnect with the party's social base—farmers, students, industrial workers, shopkeepers, tradesmen, professionals, and technocrats—and to make the party and the wider opposition movement effective.
+
 ## Key points
 
 - The circular supports Jayaprakash Narayan's anti-corruption and anti-authoritarian movement.

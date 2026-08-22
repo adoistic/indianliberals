@@ -61,6 +61,12 @@ summary: |-
   In the rendered pages, Masani also frames the issue from the standpoint of depositors and the national economy. In the rendered pages, he describes banking as dependent on reputation and confidence, argues that small depositors—not wealthy capitalists—provide the funds for productive investment, and warns that political interference could redirect deposits toward bad or politically favoured projects. In the rendered pages, he uses France as a counter-example, claiming that government ownership there was separated from day-to-day bank management. In the rendered pages, he calls on depositors to organise nationally, lobby Parliament, appear before the Select Committee, and resist the wider politicisation of private and economic life.
 ---
 
+## Summary
+
+In the rendered pages, Minoo Masani argues that the proposed Banking Laws Amendment Bill, 1967, would replace limited banking regulation with pervasive government and Reserve Bank control. In the rendered pages, he says the Bill would make bank management dependent on the Reserve Bank and the Finance Ministry, weaken shareholders’ control over boards, permit broad directives in the name of “banking policy,” and create a continuing threat of takeover. In the rendered pages, he presents these provisions as an indirect route to nationalisation and as a danger to democratic government, property rights, and the rule of law.
+
+In the rendered pages, Masani also frames the issue from the standpoint of depositors and the national economy. In the rendered pages, he describes banking as dependent on reputation and confidence, argues that small depositors—not wealthy capitalists—provide the funds for productive investment, and warns that political interference could redirect deposits toward bad or politically favoured projects. In the rendered pages, he uses France as a counter-example, claiming that government ownership there was separated from day-to-day bank management. In the rendered pages, he calls on depositors to organise nationally, lobby Parliament, appear before the Select Committee, and resist the wider politicisation of private and economic life.
+
 ## Key points
 
 - In the rendered pages, Masani presents “social control” as a relabelled and more subtle form of the threat of bank nationalisation.

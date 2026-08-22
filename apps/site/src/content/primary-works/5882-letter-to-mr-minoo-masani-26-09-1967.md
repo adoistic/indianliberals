@@ -49,6 +49,12 @@ summary: |-
   The document records an editorial solicitation rather than an analysis of industrial recession itself. It contains no substantive discussion of economic policy, the causes of recession, or the proposed article beyond identifying its subject.
 ---
 
+## Summary
+
+This one-page English office letter, dated 26 September 1967, was sent by K. C. Chia on behalf of Industrial Advertisers to M. R. Masani at the Swatantra Party's central offices in Bombay. It asks Masani to write an article on “RECESSION IN INDUSTRIES” for a forthcoming special issue of Swatantra, an Industrial Journal, and encloses the publication's previous issue on “DEVALUATION & INDUSTRIES.”
+
+The document records an editorial solicitation rather than an analysis of industrial recession itself. It contains no substantive discussion of economic policy, the causes of recession, or the proposed article beyond identifying its subject.
+
 ## Key points
 
 - The letter is dated 26 September 1967 and is written from Bombay.

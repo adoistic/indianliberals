@@ -49,6 +49,10 @@ summary: |-
   This two-page letter, dated 17 September 1964, consists of correspondence from C. Rajagopalachari concerning the Swatantra Party’s forthcoming meetings and travel arrangements. In the first page, Rajagopalachari tells M. R. Masani that he has replied to Piloo Mody in an enclosed letter. The enclosed second page, addressed to Piloo Mody, responds to Mody’s proposed schedule and sets out Rajagopalachari’s travel plans between Bombay and Madras.
 ---
 
+## Summary
+
+This two-page letter, dated 17 September 1964, consists of correspondence from C. Rajagopalachari concerning the Swatantra Party’s forthcoming meetings and travel arrangements. In the first page, Rajagopalachari tells M. R. Masani that he has replied to Piloo Mody in an enclosed letter. The enclosed second page, addressed to Piloo Mody, responds to Mody’s proposed schedule and sets out Rajagopalachari’s travel plans between Bombay and Madras.
+
 ## Key points
 
 - The correspondence is dated 17 September 1964 and is written on Rajagopalachari’s Madras letterhead.

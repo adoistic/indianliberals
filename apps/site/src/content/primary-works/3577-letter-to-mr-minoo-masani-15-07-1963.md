@@ -50,6 +50,12 @@ summary: |-
   The letter also criticizes the government's taxation policy, arguing that honest taxpayers are left with little money. Despite identifying personally with those burdened by taxation, Khambata encloses Rs. 500 in cash as a contribution to the Swatantra Party's cause. The page is a typed office letter on the letterhead of Mulla & Mulla & Craigie Blunt & Caroe, Solicitors and Notaries.
 ---
 
+## Summary
+
+In this letter dated 15 July 1963, S. Khambata writes to Minoo Masani expressing strong interest in the activities of the Swatantra Party. Khambata supports building the party into India's official opposition and presenting the country with an alternative government, which the letter says is urgently needed.
+
+The letter also criticizes the government's taxation policy, arguing that honest taxpayers are left with little money. Despite identifying personally with those burdened by taxation, Khambata encloses Rs. 500 in cash as a contribution to the Swatantra Party's cause. The page is a typed office letter on the letterhead of Mulla & Mulla & Craigie Blunt & Caroe, Solicitors and Notaries.
+
 ## Key points
 
 - The letter is dated 15 July 1963 and is addressed to Minoo Masani.

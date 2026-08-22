@@ -55,6 +55,12 @@ summary: |-
   The article also reports Rajaji’s argument that the Swatantra Party should not seek power merely for its own sake or imitate other parties. It should preserve its identity as a party dedicated to truth and education, even if that means remaining outside government. A separate section reports that the party’s organisational elections would be held during its national convention, and mentions M. R. Masani’s statement that the committee headed by Sardar Bhupendra Singh Rana had been reappointed. The clipping does not identify a byline or provide further context beyond this report.
 ---
 
+## Summary
+
+This one-page newspaper report, dated 17 April 1971, describes C. Rajagopalachari’s appeal to the Swatantra Party’s General Council to confront what he presents as growing totalitarian tendencies in Indian public life. Rajaji argues that the party’s poor showing in the recent elections should not produce discouragement or “depression”; instead, it should prompt a renewed defence of democratic opposition, constitutional government, and individual freedom. The report says he identified two immediate tasks: fighting totalitarian tendencies and educating the public about the economic laws governing production and distribution, so that voters can distinguish between responsible and irresponsible political support.
+
+The article also reports Rajaji’s argument that the Swatantra Party should not seek power merely for its own sake or imitate other parties. It should preserve its identity as a party dedicated to truth and education, even if that means remaining outside government. A separate section reports that the party’s organisational elections would be held during its national convention, and mentions M. R. Masani’s statement that the committee headed by Sardar Bhupendra Singh Rana had been reappointed. The clipping does not identify a byline or provide further context beyond this report.
+
 ## Key points
 
 - C. Rajagopalachari urged the Swatantra Party to treat its electoral setback as a reason for renewed work rather than discouragement.

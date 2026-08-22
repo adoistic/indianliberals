@@ -51,6 +51,12 @@ summary: |-
   The discussion focuses especially on Jayaprakash Narayan’s role, the SSP’s internal disputes, and the possibility that a united Socialist Party could become an independent political force against the Congress. It argues that the merger depends on overcoming organisational distrust, disagreements over leadership, and competing calculations about alliances with Congress and other parties. The article ends cautiously: although pressure for unity is growing among party workers, the proposed merger remains premature and may be overtaken by broader coalition-making after the next general elections.
 ---
 
+## Summary
+
+The article examines the proposed merger of the Praja Socialist Party (PSP) and the Samyukta Socialist Party (SSP), presenting it as a contested effort shaped by rival factions, leadership ambitions, and the parties’ disappointing electoral record. It reports that PSP leaders are pressing for a merger before the August 31 deadline set at the Patna session, while SSP leaders are divided over whether the process would strengthen or marginalise particular groups. The article identifies Raj Narain’s faction, the PSP leadership, and SSP chairman Karpoori Thakur as important centres of opposition or uncertainty.
+
+The discussion focuses especially on Jayaprakash Narayan’s role, the SSP’s internal disputes, and the possibility that a united Socialist Party could become an independent political force against the Congress. It argues that the merger depends on overcoming organisational distrust, disagreements over leadership, and competing calculations about alliances with Congress and other parties. The article ends cautiously: although pressure for unity is growing among party workers, the proposed merger remains premature and may be overtaken by broader coalition-making after the next general elections.
+
 ## Key points
 
 - The PSP and SSP are attempting to merge, with an August 31 deadline reportedly set at the Patna session.

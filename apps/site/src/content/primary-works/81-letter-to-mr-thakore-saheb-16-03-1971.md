@@ -48,6 +48,12 @@ summary: |-
   The letter adopts a restrained, conciliatory tone. Masani says that they nevertheless did their best, suggests that they may all be “victims of a tide,” and closes with the hope that the prevailing situation will not damage India in the years ahead. The recipient is identified in the address block as Thakore Saheb of Kotda Sangani, Rajkot District.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani to “Thakore Saheb” is dated 16 March 1971. Masani acknowledges the recipient’s telegram of 11 March and expresses regret that their joint efforts, alongside those of many others, have not succeeded.
+
+The letter adopts a restrained, conciliatory tone. Masani says that they nevertheless did their best, suggests that they may all be “victims of a tide,” and closes with the hope that the prevailing situation will not damage India in the years ahead. The recipient is identified in the address block as Thakore Saheb of Kotda Sangani, Rajkot District.
+
 ## Key points
 
 - The letter is dated 16 March 1971 and is signed by M. R. Masani.

@@ -51,6 +51,12 @@ summary: |-
   In the rendered pages, the article calls on the opposition—especially the Swatantra Party, Congress (Organisation), Jana Sangh, and the Four-Party Alliance—to rethink its ideological assumptions, admit its errors, and develop a constructive programme. It also assesses Gandhi’s post-1967 strategy, urging her to govern above party opportunism, respect democratic institutions, and address the country’s economic and political problems. The closing discussion presents the next year as a test of whether her electoral success can be converted into stable, responsible government.
 ---
 
+## Summary
+
+The article treats the 1971 election as a decisive national verdict in favour of Indira Gandhi and argues that its implications must be accepted by both the government and the opposition. It describes the Congress victory as a powerful sweep across India, rejects the defeated parties’ claims of unfair play, and warns that electoral adjustments or alliances cannot substitute for a genuine response to the electorate’s rejection of the “Indira Hatao” politics.
+
+In the rendered pages, the article calls on the opposition—especially the Swatantra Party, Congress (Organisation), Jana Sangh, and the Four-Party Alliance—to rethink its ideological assumptions, admit its errors, and develop a constructive programme. It also assesses Gandhi’s post-1967 strategy, urging her to govern above party opportunism, respect democratic institutions, and address the country’s economic and political problems. The closing discussion presents the next year as a test of whether her electoral success can be converted into stable, responsible government.
+
 ## Key points
 
 - The 1971 election is presented as an overwhelming public endorsement of Indira Gandhi.

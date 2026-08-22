@@ -50,6 +50,10 @@ summary: |-
   This one-page English circular, issued by the Swatantra Party Parliamentary Office in New Delhi on 6 December 1963, alerts all party members about forthcoming meetings of the Parliamentary Peace Council in Delhi. It states that Prof. Ranga had asked the office to inform members that the council was a Communist-dominated organisation.
 ---
 
+## Summary
+
+This one-page English circular, issued by the Swatantra Party Parliamentary Office in New Delhi on 6 December 1963, alerts all party members about forthcoming meetings of the Parliamentary Peace Council in Delhi. It states that Prof. Ranga had asked the office to inform members that the council was a Communist-dominated organisation.
+
 ## Key points
 
 - The document is an internal Swatantra Party Parliamentary Office circular.

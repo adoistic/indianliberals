@@ -50,6 +50,12 @@ summary: |-
   The surviving second page is an addressed inland-letter envelope rather than additional correspondence. The document therefore records both party scheduling and an internal effort to secure organisational and educational funding for the Karnataka unit; it does not present a broader policy argument.
 ---
 
+## Summary
+
+This two-page English office letter, dated 31 March 1975 and issued from the Swatantra Party National Headquarters in Madras, is addressed to S. V. Raju in Bombay. The Joint Secretary reports that the National Executive Committee meeting has been advanced to 9 April and that telegrams have been sent to state units with committee members. The letter also asks Raju to speak with M. R. Masani about providing financial assistance to the Karnataka unit through the Bangalore Educational Trust, noting that the writer has been unable to contact Masani directly.
+
+The surviving second page is an addressed inland-letter envelope rather than additional correspondence. The document therefore records both party scheduling and an internal effort to secure organisational and educational funding for the Karnataka unit; it does not present a broader policy argument.
+
 ## Key points
 
 - The letter was issued by the Swatantra Party National Headquarters in Madras on 31 March 1975.

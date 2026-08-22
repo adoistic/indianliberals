@@ -50,6 +50,12 @@ summary: |-
   Masani also notes that Bhailalbhai will chair a public meeting in Ahmedabad on 14 June to felicitate him on his election. In a postscript, he asks Rajagopalachari to suggest a place and dates for a meeting of the C.O.C. and/or Parliamentary Board before Parliament reconvenes on 13 August. The page documents internal Swatantra Party coordination and an effort to settle leadership concerns through direct correspondence.
 ---
 
+## Summary
+
+In this letter dated 8 June 1963, Minoo Masani writes to C. Rajagopalachari (“Rajaji”) to clarify a misunderstanding arising from Rajagopalachari’s telegram to Bhailalbhai. Masani reports that Bhailalbhai does not intend the course of action implied by the telegram and has agreed to remain Leader of the Opposition until 1967, continue serving on the party’s C.O.C. and Parliamentary Board, and temporarily remain president of the state unit while a successor is prepared.
+
+Masani also notes that Bhailalbhai will chair a public meeting in Ahmedabad on 14 June to felicitate him on his election. In a postscript, he asks Rajagopalachari to suggest a place and dates for a meeting of the C.O.C. and/or Parliamentary Board before Parliament reconvenes on 13 August. The page documents internal Swatantra Party coordination and an effort to settle leadership concerns through direct correspondence.
+
 ## Key points
 
 - Masani writes to Rajagopalachari on 8 June 1963 about a misunderstanding concerning Bhailalbhai.

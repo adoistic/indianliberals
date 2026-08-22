@@ -48,6 +48,12 @@ summary: |-
   The rationale for Bombay is explicit: Girish Munshi had told the headquarters that Jayaprakash Narayan would be in the Bombay region between 21 and 26 January 1975, and Masani was likely to be busy assisting him. Holding the Executive Committee meeting in Bombay would spare Masani travel and, more strategically, let the party's top leaders meet Narayan and "offer him all cooperation in the movement he is conducting in Bihar and elswehere" [sic]. Srikumar notes that Girish Munshi has already written to Narayan seeking an appointment during his Bombay stay and asks Masani to indicate whether he approves the arrangement.
 ---
 
+## Summary
+
+This one-page administrative letter, dated 9 January 1975 and typed on Swatantra Party National Headquarters letterhead (26, Halls Road, Egmore, Madras-600 008), is written by V. S. Srikumar, Joint Secretary, to M. R. Masani at 148 Mahatma Gandhi Road, Bombay-1. Srikumar proposes holding the next meeting of the party's National Executive Committee on the 22nd of the month at a suitable Bombay venue, subject to Masani's convenience and that of the other members, with the choice of location left to Masani or Mr. Girish Munshi.
+
+The rationale for Bombay is explicit: Girish Munshi had told the headquarters that Jayaprakash Narayan would be in the Bombay region between 21 and 26 January 1975, and Masani was likely to be busy assisting him. Holding the Executive Committee meeting in Bombay would spare Masani travel and, more strategically, let the party's top leaders meet Narayan and "offer him all cooperation in the movement he is conducting in Bihar and elswehere" [sic]. Srikumar notes that Girish Munshi has already written to Narayan seeking an appointment during his Bombay stay and asks Masani to indicate whether he approves the arrangement.
+
 ## Key points
 
 - Letter dated 9 January 1975 from V. S. Srikumar, Jt. Secretary of the Swatantra Party National Headquarters in Madras, to M. R. Masani in Bombay.

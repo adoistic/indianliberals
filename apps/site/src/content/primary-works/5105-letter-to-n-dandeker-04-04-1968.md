@@ -48,6 +48,10 @@ summary: |-
   This single-page English letter, dated 4 April 1968 and issued from the Swatantra Party Central Office in Bombay, is signed by M. P. Mody and addressed to N. Dandekar, M.P., the party's General Secretary. Mody requests an emergency meeting of the party's General Council to address the situation created by Mr. Masani's resignation from the National Executive and the Central Parliamentary Board.
 ---
 
+## Summary
+
+This single-page English letter, dated 4 April 1968 and issued from the Swatantra Party Central Office in Bombay, is signed by M. P. Mody and addressed to N. Dandekar, M.P., the party's General Secretary. Mody requests an emergency meeting of the party's General Council to address the situation created by Mr. Masani's resignation from the National Executive and the Central Parliamentary Board.
+
 ## Key points
 
 - The letter is dated 4 April 1968 and originates from the Swatantra Party Central Office in Bombay.

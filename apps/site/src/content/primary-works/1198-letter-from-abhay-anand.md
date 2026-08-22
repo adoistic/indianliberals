@@ -48,6 +48,12 @@ summary: |-
   The Devanagari body of the letter (pp. 2, 4–5) is a two-part hand-written note formally addressed to "Aadarniya Mahoday" (Respected Sir). The rendered pages include the completed Inland Letter Card (p. 3), whose address panel in Devanagari reads "श्री मीनू मसानी जी" at 148 Mahatma Gandhi Road, confirming Masani as the recipient. Within the difficult handwriting the body references a programme in Gujarat, coordination around the writer's own travel plans, and an aside about the writer's sons and their B.A. / B.Sc. studies; because the Devanagari hand is often illegible in the rendered scans, the substantive asks summarised here are drawn from the English cover note that accompanies the letter.
 ---
 
+## Summary
+
+In the rendered pages, this is a handwritten personal letter — in Hindi, dated 28/3/69 — from Abhay Anand to Minoo Masani, together with an English editorial cover note on page 1 prepared for Masani's attention. The cover note, marked with the file number 1198, distils the letter into three action points for MRM (Minoo Masani): (1) let the writer know when Masani is next visiting Patna; (2) the writer is being blocked from meeting Jayaprakash Narayan ("JP") by JP's secretaries, and asks Masani to write to JP directly; (3) since JP has not visited Bahjura, Masani should press him to do so.
+
+The Devanagari body of the letter (pp. 2, 4–5) is a two-part hand-written note formally addressed to "Aadarniya Mahoday" (Respected Sir). The rendered pages include the completed Inland Letter Card (p. 3), whose address panel in Devanagari reads "श्री मीनू मसानी जी" at 148 Mahatma Gandhi Road, confirming Masani as the recipient. Within the difficult handwriting the body references a programme in Gujarat, coordination around the writer's own travel plans, and an aside about the writer's sons and their B.A. / B.Sc. studies; because the Devanagari hand is often illegible in the rendered scans, the substantive asks summarised here are drawn from the English cover note that accompanies the letter.
+
 ## Key points
 
 - Handwritten personal letter from Abhay Anand to Minoo Masani, dated 28 March 1969.

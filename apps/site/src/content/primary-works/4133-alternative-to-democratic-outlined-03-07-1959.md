@@ -55,6 +55,12 @@ summary: |-
   The companion report describes a discussion of the 144-page thesis on “Gram Raj,” opened by Narayan at the Sarva Sewa Sangh headquarters in Varanasi. Participants reportedly agreed that parliamentary democracy had not guaranteed democratic freedom or genuine rule of law, but expressed doubts about the practicability of implementing Narayan’s alternative. The page records support or interest from figures including Acharya Vinoba Bhave, Minoo Masani, Acharya Kripalani, Ashoka Mehta, and others.
 ---
 
+## Summary
+
+This single scanned page reproduces two newspaper reports from Banaras and Varanasi concerning Jayaprakash Narayan’s proposal for reconstructing India’s political order. The principal report presents his thesis as a non-partisan, non-sectarian alternative to parliamentary democracy, centered on “more satisfying, participating democracy,” broad decentralization of political and economic power, and community-based social reconstruction. Narayan argues that India is especially suited to this experiment because the atomization of society has not yet advanced as far as in the West. The report also notes that his proposals draw on Indian and foreign thinkers, while not being bound to any single ideology or school of thought.
+
+The companion report describes a discussion of the 144-page thesis on “Gram Raj,” opened by Narayan at the Sarva Sewa Sangh headquarters in Varanasi. Participants reportedly agreed that parliamentary democracy had not guaranteed democratic freedom or genuine rule of law, but expressed doubts about the practicability of implementing Narayan’s alternative. The page records support or interest from figures including Acharya Vinoba Bhave, Minoo Masani, Acharya Kripalani, Ashoka Mehta, and others.
+
 ## Key points
 
 - Jayaprakash Narayan is reported as proposing a reconstruction of India’s polity as an alternative to parliamentary democracy.

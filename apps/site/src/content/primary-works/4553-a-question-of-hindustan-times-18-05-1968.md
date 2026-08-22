@@ -52,6 +52,12 @@ summary: |-
   Masani warns that the decline of effective parliamentary opposition could produce a political vacuum in which authoritarianism grows, citing Pakistan, Indonesia, and Greece as examples. He calls for a revival of the Swatantra Party as a principled national force rather than a narrow electoral organisation, and closes with a broader critique of India’s lack of leadership. The article argues that Indian politics needs leaders with greater idealism, ethical seriousness, and the courage to offer a genuine alternative to prevailing political habits.
 ---
 
+## Summary
+
+In this one-page Hindustan Times article, M. R. Masani explains his resignation as General Secretary of the Swatantra Party. He places the immediate issue in the party’s poor performance in the Gujarat State Assembly election, but argues that the deeper problem is organisational indiscipline, weak leadership, and the failure to restore the party’s credibility. He rejects the idea that his resignation was merely a personal or factional act, stressing that the party’s principles and constitutional commitments are at stake.
+
+Masani warns that the decline of effective parliamentary opposition could produce a political vacuum in which authoritarianism grows, citing Pakistan, Indonesia, and Greece as examples. He calls for a revival of the Swatantra Party as a principled national force rather than a narrow electoral organisation, and closes with a broader critique of India’s lack of leadership. The article argues that Indian politics needs leaders with greater idealism, ethical seriousness, and the courage to offer a genuine alternative to prevailing political habits.
+
 ## Key points
 
 - Masani explains his resignation as General Secretary of the Swatantra Party.

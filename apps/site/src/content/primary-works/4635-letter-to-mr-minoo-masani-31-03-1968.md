@@ -47,6 +47,10 @@ summary: |-
   This two-page letter, marked “COPY,” was written by Babubhai Vaidya from Rajkot to Minoo Masani on 31 March 1968. Vaidya reports that he consulted Babubhai Shah and sent a letter concerning Rajaji, Professor Ranga, Mr. Dandekar, and Masani. The principal subject is an internal party dispute involving a demand for Rs. 3,000, alleged failure to support Vaidya’s election campaign, secret propaganda against him, and accusations that he had supported Mr. Ravji Solanki of the P.S.P. rather than the Swatantra Party candidate.
 ---
 
+## Summary
+
+This two-page letter, marked “COPY,” was written by Babubhai Vaidya from Rajkot to Minoo Masani on 31 March 1968. Vaidya reports that he consulted Babubhai Shah and sent a letter concerning Rajaji, Professor Ranga, Mr. Dandekar, and Masani. The principal subject is an internal party dispute involving a demand for Rs. 3,000, alleged failure to support Vaidya’s election campaign, secret propaganda against him, and accusations that he had supported Mr. Ravji Solanki of the P.S.P. rather than the Swatantra Party candidate.
+
 ## Key points
 
 - Vaidya says Bhailaka asked him to contribute Rs. 3,000 to the party fund or have Masani pay it on his behalf.

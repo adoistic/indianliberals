@@ -52,6 +52,12 @@ summary: |-
   The enclosure records that twelve of fourteen Parliamentary Board members approved the proposal, while Smt. Gayatri Devi and Mr. Dahyabhai V. Patel did not reply. It also reproduces advice from Rajaji, who supported the principle but argued for faster reductions—by half every five years, with reservations ending after ten years. Despite Ranga’s view that the matter needed further discussion, the Executive confirmed the fifteen-year gradual-elimination plan.
 ---
 
+## Summary
+
+This two-page Swatantra Party letter, dated September 13, 1969, is addressed by Acting General Secretary R. C. Cooper to Prof. N. G. Ranga. It reports the National Executive’s decision on the constitutional provision reserving seats in Parliament and State Assemblies, recommending that reservations be reduced by one-third every five years and eliminated after fifteen years. Cooper encloses the relevant extract from the National Executive’s August 30 meeting in New Delhi.
+
+The enclosure records that twelve of fourteen Parliamentary Board members approved the proposal, while Smt. Gayatri Devi and Mr. Dahyabhai V. Patel did not reply. It also reproduces advice from Rajaji, who supported the principle but argued for faster reductions—by half every five years, with reservations ending after ten years. Despite Ranga’s view that the matter needed further discussion, the Executive confirmed the fifteen-year gradual-elimination plan.
+
 ## Key points
 
 - Cooper writes from the Swatantra Party Central Office to Prof. N. G. Ranga on September 13, 1969.

@@ -51,6 +51,12 @@ summary: |-
   Masani encloses remarks he recently delivered at a Swatantra Party meeting in Bombay, offering the recipient an indication of his political thinking. He also sends the current issue of Freedom First, the monthly journal he had edited since January 1972, and invites Choudhary to subscribe. The letter closes with a request to remain in contact; the page does not include the enclosed political remarks or the journal issue itself.
 ---
 
+## Summary
+
+In this letter dated June 13, 1972, M. R. Masani replies to S. A. Choudhary’s letter of April 2, acknowledging the recipient’s depression about public life in India. Masani presents such discouragement as a condition shared by public workers who are “worth anything,” while distinguishing between his short-term pessimism and long-term optimism.
+
+Masani encloses remarks he recently delivered at a Swatantra Party meeting in Bombay, offering the recipient an indication of his political thinking. He also sends the current issue of Freedom First, the monthly journal he had edited since January 1972, and invites Choudhary to subscribe. The letter closes with a request to remain in contact; the page does not include the enclosed political remarks or the journal issue itself.
+
 ## Key points
 
 - Masani’s letter is dated June 13, 1972, and addressed to S. A. Choudhary, an advocate at Munti, Ranchi.

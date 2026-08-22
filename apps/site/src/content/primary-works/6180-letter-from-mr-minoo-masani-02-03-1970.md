@@ -48,6 +48,10 @@ summary: |-
   This single-page confirmation copy records a telegram from “MASANI,” dated 2 March 1970 and sent from 2 Tughlaq Road, New Delhi, to Raju Care Surajlal in Bombay. The sender asks that the Times of India publish his statement on the budget, noting that it had already been reported in other newspapers in Bombay and Delhi.
 ---
 
+## Summary
+
+This single-page confirmation copy records a telegram from “MASANI,” dated 2 March 1970 and sent from 2 Tughlaq Road, New Delhi, to Raju Care Surajlal in Bombay. The sender asks that the Times of India publish his statement on the budget, noting that it had already been reported in other newspapers in Bombay and Delhi.
+
 ## Key points
 
 - The document is a received telegram and confirmation copy.

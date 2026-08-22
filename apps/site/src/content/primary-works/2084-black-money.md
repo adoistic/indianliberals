@@ -51,6 +51,12 @@ summary: |-
   The paper contends that effective demonetisation would therefore require withdrawing currency notes of Rs. 10 and above, removing roughly 90% of the currency from circulation. It warns that replacement facilities would be inadequate, producing a grinding halt in the organised economy, undermining public confidence in currency, and destroying banking. A concluding historical comparison cites the 1946 demonetisation of high-denomination notes, stating that out of Rs. 144 crores, hardly Rs. 9 crores were not presented.
 ---
 
+## Summary
+
+This one-page English position paper argues that demonetisation in India would be ineffective unless it targeted the actual structure of currency circulation. It claims that about 90% of India’s currency consists of Rs. 10 and Rs. 100 notes, which it associates with hoarding black money, while only about 1½% consists of Rs. 10,000, Rs. 5,000 and Rs. 1,000 notes used mainly for inter-bank transfers and recorded transactions. The page also notes that the remaining currency consists of Rs. 5 and Rs. 2 notes, with Rs. 20 notes having recently been issued.
+
+The paper contends that effective demonetisation would therefore require withdrawing currency notes of Rs. 10 and above, removing roughly 90% of the currency from circulation. It warns that replacement facilities would be inadequate, producing a grinding halt in the organised economy, undermining public confidence in currency, and destroying banking. A concluding historical comparison cites the 1946 demonetisation of high-denomination notes, stating that out of Rs. 144 crores, hardly Rs. 9 crores were not presented.
+
 ## Key points
 
 - The paper frames demonetisation as a question of India’s currency structure rather than simply the withdrawal of high-denomination notes.

@@ -50,6 +50,12 @@ summary: |-
   Jain also raises internal organisational and parliamentary matters: fixing a date for the Swatantra Party's meeting, developing strategy on subjects likely to arise before the House—including opposition to the Kutch agreement—and scheduling the election of parliamentary group office-bearers. The letter records that the previous election took place at the beginning of September and that office-holders served for one year.
 ---
 
+## Summary
+
+This one-page letter, dated 5 August 1965 and signed by A. P. Jain from the Swatantra Party Parliamentary Office, asks M. R. Masani to send immediately a fresh no-confidence motion for the Lok Sabha. Jain explains that submitting the motion on the day the first day's business list is circulated is necessary to secure priority over motions from other parties, and requests permission to issue a party whip so members will be present when no-confidence motions are put to the vote on 16 August.
+
+Jain also raises internal organisational and parliamentary matters: fixing a date for the Swatantra Party's meeting, developing strategy on subjects likely to arise before the House—including opposition to the Kutch agreement—and scheduling the election of parliamentary group office-bearers. The letter records that the previous election took place at the beginning of September and that office-holders served for one year.
+
 ## Key points
 
 - Jain asks Masani to send a fresh no-confidence motion for the Lok Sabha without delay.

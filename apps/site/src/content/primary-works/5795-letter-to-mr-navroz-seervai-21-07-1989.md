@@ -54,6 +54,12 @@ summary: |-
   The attached draft letter to the Election Commission seeks registration of the Maharashtra Swatantra Party as a state party confined to Maharashtra. It states that the request is made without prejudice to the party's right to question the constitutional validity of compulsory registration, reaffirms loyalty to the Constitution, secularism, and democracy, and explains the party's earlier decisions not to merge with the Lok Dal in 1974 or the Janata Party in 1977. Raju also notes that Minoo Masani supports challenging the constitutional amendment and criticises the Bharatiya Janata Party for yielding to what he calls an unfair law.
 ---
 
+## Summary
+
+This letter, dated July 21, 1989, records S. V. Raju's effort to preserve the political identity of the Maharashtra Swatantra Party while complying, under protest, with a reported requirement that political parties register with the Election Commission of India and amend their constitutions to affirm socialism, secularism, and democracy. Raju argues that the party can affirm secularism and democracy but cannot swear by socialism because opposition to socialism is central to its identity. He encloses the party's Statement of Policy and Constitution and asks Navroz Seervai for legal advice and assistance in challenging the amendment before the High Court.
+
+The attached draft letter to the Election Commission seeks registration of the Maharashtra Swatantra Party as a state party confined to Maharashtra. It states that the request is made without prejudice to the party's right to question the constitutional validity of compulsory registration, reaffirms loyalty to the Constitution, secularism, and democracy, and explains the party's earlier decisions not to merge with the Lok Dal in 1974 or the Janata Party in 1977. Raju also notes that Minoo Masani supports challenging the constitutional amendment and criticises the Bharatiya Janata Party for yielding to what he calls an unfair law.
+
 ## Key points
 
 - Raju distinguishes the party's commitment to secularism and democracy from its opposition to socialism.

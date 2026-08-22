@@ -49,6 +49,12 @@ summary: |-
   The enclosed text, headed “FOR DEAD MEN CANNOT PROTEST.......”, attacks what Raju presents as the opportunistic appropriation of the reputations of C. Rajagopalachari (Rajaji) and Jayaprakash Narayan (JP) by contemporary politicians. It questions the participation of Indira Gandhi, Yeshwantrao Chavan, B. D. Jatti and S. B. Chavan in commemorative lectures and memorial initiatives, arguing that both Rajaji and JP would have remained sharply critical of the political establishment had they been alive. Raju also objects to James Callaghan being invited to deliver a lecture commemorating JP, whom he says spent the final two decades of his life exposing the “myth of Socialism.” The document concludes that politicians are extracting political mileage from dead figures who had little in common with them, and that such conduct reflects the deterioration of political values.
 ---
 
+## Summary
+
+Dated November 15, 1977, this letter from S. V. Raju to Viren Shah forwards an invitation from Kanshi Ram, convener of the All India Backward and Minority Communities Employees Federation, and asks Shah to accept it. Raju describes Kanshi Ram as a good person and the federation as influential among backward-class employees in government departments and undertakings.
+
+The enclosed text, headed “FOR DEAD MEN CANNOT PROTEST.......”, attacks what Raju presents as the opportunistic appropriation of the reputations of C. Rajagopalachari (Rajaji) and Jayaprakash Narayan (JP) by contemporary politicians. It questions the participation of Indira Gandhi, Yeshwantrao Chavan, B. D. Jatti and S. B. Chavan in commemorative lectures and memorial initiatives, arguing that both Rajaji and JP would have remained sharply critical of the political establishment had they been alive. Raju also objects to James Callaghan being invited to deliver a lecture commemorating JP, whom he says spent the final two decades of his life exposing the “myth of Socialism.” The document concludes that politicians are extracting political mileage from dead figures who had little in common with them, and that such conduct reflects the deterioration of political values.
+
 ## Key points
 
 - S. V. Raju forwards Kanshi Ram’s invitation to Viren Shah and recommends that Shah accept it.

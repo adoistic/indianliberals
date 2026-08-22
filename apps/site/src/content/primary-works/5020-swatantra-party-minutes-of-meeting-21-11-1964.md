@@ -54,6 +54,12 @@ summary: |-
   The committee also nominated N. Dandekar to represent the party on select committees dealing with company law, wealth tax, and foreign-exchange regulation. It discussed a private member’s bill concerning the abrogation of Article 370, deciding that no party member should participate in the debate. The minutes further record Dandekar’s nomination to audit the Parliamentary Office accounts and preserve a prior decision permitting Sardar Kapur Singh to speak individually on fundamental rights arising from the Uttar Pradesh Legislature and a related High Court controversy.
 ---
 
+## Summary
+
+These minutes record a meeting of the Swatantra Party’s Executive Committee held on 20 November 1964 in the Committee Room of Central Hall, Parliament House. The document lists the members present and assigns party speakers to parliamentary business, including the Representation of People (Second Amendment) Bill, the Food Corporation and Warehousing Corporation, the Court of Wards Bill, supplementary demands, the international situation, the U.G.C. report, and a Representation of People Amendment Bill introduced by D. C. Sharma.
+
+The committee also nominated N. Dandekar to represent the party on select committees dealing with company law, wealth tax, and foreign-exchange regulation. It discussed a private member’s bill concerning the abrogation of Article 370, deciding that no party member should participate in the debate. The minutes further record Dandekar’s nomination to audit the Parliamentary Office accounts and preserve a prior decision permitting Sardar Kapur Singh to speak individually on fundamental rights arising from the Uttar Pradesh Legislature and a related High Court controversy.
+
 ## Key points
 
 - The Executive Committee of the Swatantra Party met on 20 November 1964 at Parliament House.

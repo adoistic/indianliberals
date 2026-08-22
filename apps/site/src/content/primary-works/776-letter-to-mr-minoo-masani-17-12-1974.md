@@ -48,6 +48,10 @@ summary: |-
   This one-page English letter, dated 17 December 1974, was sent by Girish Munshi from the Swatantra Party Maharashtra office in Bombay to M. R. Masani. Munshi explains that the Party's financial position has been weak for some time and that the office is difficult to operate without regular contributions.
 ---
 
+## Summary
+
+This one-page English letter, dated 17 December 1974, was sent by Girish Munshi from the Swatantra Party Maharashtra office in Bombay to M. R. Masani. Munshi explains that the Party's financial position has been weak for some time and that the office is difficult to operate without regular contributions.
+
 ## Key points
 
 - The letter is dated 17 December 1974 and is issued on Swatantra Party Maharashtra letterhead.

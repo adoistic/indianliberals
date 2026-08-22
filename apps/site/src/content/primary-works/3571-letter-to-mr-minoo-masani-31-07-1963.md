@@ -49,6 +49,12 @@ summary: |-
   The letter is therefore a brief corporate refusal rather than an argument about Swatantra Party policy. Its significance lies in documenting the relationship between a political party seeking financial support and a company that cites its Memorandum and Articles of Association as a formal constraint on political giving. The page also identifies Polson Agencies Private Ltd. as the managing agent for Polson Limited and gives the correspondence's Bombay addresses.
 ---
 
+## Summary
+
+This one-page business letter, dated 31 July 1963, is written by Lt.-Col. J. D. Kothawala, Managing Director of Polson Agencies Private Ltd., in response to M. R. Masani's request that the company donate to the Swatantra Party. Kothawala acknowledges the request and the circumstances Masani described but declines it on the ground that the company's governing documents prohibit political contributions.
+
+The letter is therefore a brief corporate refusal rather than an argument about Swatantra Party policy. Its significance lies in documenting the relationship between a political party seeking financial support and a company that cites its Memorandum and Articles of Association as a formal constraint on political giving. The page also identifies Polson Agencies Private Ltd. as the managing agent for Polson Limited and gives the correspondence's Bombay addresses.
+
 ## Key points
 
 - The letter is dated 31 July 1963 and is written on Polson Limited letterhead.

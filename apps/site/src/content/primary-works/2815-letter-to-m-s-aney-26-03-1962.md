@@ -50,6 +50,12 @@ summary: |-
   Rajagopalachari also clarifies the Swatantra Party's positions on regional and electoral questions. He states that the party had not formally supported the Akali claim for a Punjabi Suba, had not identified itself with the DMK claim, and had unsuccessfully attempted to arrange electoral contests in Madras so as to avoid dividing the anti-Congress vote. On Nag-Vidarbha, he says the party has taken no official position but remains open to Aney's efforts to persuade it. The letter presents party membership as compatible with individual members pursuing legitimate positions that the party itself has not adopted.
 ---
 
+## Summary
+
+In this letter dated March 26, 1962, C. Rajagopalachari responds to Dr. M. S. Aney's hesitation about joining the Swatantra Party. Rajagopalachari acknowledges Aney's advice that Nagpur was unsuitable for the party convention, regrets that the party had acted before receiving Aney's clear acceptance, and urges him to join at least as an associate member of the Parliamentary Swatantra Party.
+
+Rajagopalachari also clarifies the Swatantra Party's positions on regional and electoral questions. He states that the party had not formally supported the Akali claim for a Punjabi Suba, had not identified itself with the DMK claim, and had unsuccessfully attempted to arrange electoral contests in Madras so as to avoid dividing the anti-Congress vote. On Nag-Vidarbha, he says the party has taken no official position but remains open to Aney's efforts to persuade it. The letter presents party membership as compatible with individual members pursuing legitimate positions that the party itself has not adopted.
+
 ## Key points
 
 - Rajagopalachari addresses Dr. M. S. Aney's advice concerning the location of the Swatantra Party convention.

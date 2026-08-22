@@ -52,6 +52,12 @@ summary: |-
   The article distinguishes informational and educational broadcasting from entertainment, arguing that entertainment should be financed primarily through commercial advertising rather than scarce public funds. It questions whether AIR's expansion since Independence has produced better programming, noting weak audience engagement, limited impact on public opinion, inadequate regional reach, and an inability to cultivate talent. Drawing comparisons with the BBC, it calls for bold experimentation, professional autonomy, rationalisation, and leadership capable of transforming broadcasting into a more effective instrument of public communication.
 ---
 
+## Summary
+
+This continuation of the symposium article argues that All India Radio requires fundamental organisational and financial reform. The text criticises AIR's bureaucratic structure, outdated recruitment and training practices, dependence on government grants, and susceptibility to ministerial and official interference. It proposes an independent public corporation, administered through a broader and less centralised structure involving universities, municipalities, and cultural associations, while preserving public provision of information and educational programming.
+
+The article distinguishes informational and educational broadcasting from entertainment, arguing that entertainment should be financed primarily through commercial advertising rather than scarce public funds. It questions whether AIR's expansion since Independence has produced better programming, noting weak audience engagement, limited impact on public opinion, inadequate regional reach, and an inability to cultivate talent. Drawing comparisons with the BBC, it calls for bold experimentation, professional autonomy, rationalisation, and leadership capable of transforming broadcasting into a more effective instrument of public communication.
+
 ## Key points
 
 - AIR is described as bureaucratic, politically influenced, and poorly adapted to modern broadcasting needs.

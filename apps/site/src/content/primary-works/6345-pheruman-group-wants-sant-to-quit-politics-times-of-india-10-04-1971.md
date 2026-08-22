@@ -52,6 +52,12 @@ summary: |-
   The report presents M. R. Masani’s resignation from the chairmanship of the Swatantra Party after his party’s electoral defeat as a healthy democratic precedent for Sant Fateh Singh to follow. The item is attributed to the Press Trust of India (P.T.I.); no human byline is visible.
 ---
 
+## Summary
+
+This one-page English newspaper clipping, dated by handwritten annotation “Times of India 10/4/71,” reports a demand by the working committee of the Shiromani Akali Dal (Pheruman group) that Sant Fateh Singh retire from political life. The demand followed what the committee described as his complete defeat in the recent Lok Sabha election.
+
+The report presents M. R. Masani’s resignation from the chairmanship of the Swatantra Party after his party’s electoral defeat as a healthy democratic precedent for Sant Fateh Singh to follow. The item is attributed to the Press Trust of India (P.T.I.); no human byline is visible.
+
 ## Key points
 
 - The clipping reports a demand from the Shiromani Akali Dal (Pheruman group) working committee.

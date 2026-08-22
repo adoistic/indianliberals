@@ -46,6 +46,10 @@ summary: |-
   In this letter dated 5 June 1963, Minoo Masani apologises to Bhailalbhai Patel for the delayed acknowledgement of Patel’s congratulatory note, explaining that it was buried among hundreds of letters received after a recent success. Masani reports that a public meeting held the previous evening was very successful and says he is enclosing a press summary of his talk, although that enclosure is not present in the rendered page.
 ---
 
+## Summary
+
+In this letter dated 5 June 1963, Minoo Masani apologises to Bhailalbhai Patel for the delayed acknowledgement of Patel’s congratulatory note, explaining that it was buried among hundreds of letters received after a recent success. Masani reports that a public meeting held the previous evening was very successful and says he is enclosing a press summary of his talk, although that enclosure is not present in the rendered page.
+
 ## Key points
 
 - Masani acknowledges Patel’s congratulations of 29 May 1963 and apologises for the delayed response.

@@ -54,6 +54,12 @@ summary: |-
   The January 29 letter addresses Masani's election directly. Narayan discourages a public press statement before the elections, saying that private letters to Morarji Desai, Hitendra Desai, and Atal Bihari Vajpayee may be more effective. A postscript notes press reports that the Jan Sangh would not field a candidate against Masani and expresses hope that it would give him its full support. The packet also includes Masani's January 20 reply, which discusses the land ceiling and Chhotanagpur questions and indicates that he had already consulted Karpoori Thakur.
 ---
 
+## Summary
+
+This eight-page archival correspondence packet contains letters exchanged between Jayaprakash Narayan and M. R. Masani in January 1971, together with handwritten routing and translation notes. In his letters of January 16 and January 29, Narayan discusses the political situation in Bihar, the stability of Karpoori Thakur's coalition government, land-ceiling policy, and the proposed autonomous statutory board for Chhotanagpur. He argues that the coalition partners should adjust their positions rather than threaten to withdraw support, and that resistance to Adivasi demands could encourage demands for a separate Jharkhand state.
+
+The January 29 letter addresses Masani's election directly. Narayan discourages a public press statement before the elections, saying that private letters to Morarji Desai, Hitendra Desai, and Atal Bihari Vajpayee may be more effective. A postscript notes press reports that the Jan Sangh would not field a candidate against Masani and expresses hope that it would give him its full support. The packet also includes Masani's January 20 reply, which discusses the land ceiling and Chhotanagpur questions and indicates that he had already consulted Karpoori Thakur.
+
 ## Key points
 
 - Narayan criticizes the instability of Bihar's coalition governments since 1967.

@@ -52,6 +52,12 @@ summary: |-
   An attached table compares two representation formulas. Alternative I, based on the previous allocation, gives three representatives for the first 200 members and one for each additional 100, subject to a maximum of 20 per state or region. Alternative II gives three representatives for the first 400 members and one for every additional 150, also subject to a maximum of 20. On the membership figures recorded as of June 30, 1967, the alternatives would produce totals of 193 and 170 General Council representatives respectively. The circular recommends Alternative II if no response is received by September 15 and encloses a self-addressed postcard for replies.
 ---
 
+## Summary
+
+The Swatantra Party's National Executive Circular No. 23, dated August 31, 1967, seeks state and regional units' preferences on the composition of the Party's General Council. It explains that the National Executive will meet on September 29–30 and that a decision by circular is necessary to maintain the scheduled timetable for Party elections. The circular reproduces constitutional provisions limiting the General Council to 250 members, requiring between three and twenty representatives from each state or region, allocating representation in proportion to enrolled workers, and providing for election by the relevant state or regional council through proportional representation.
+
+An attached table compares two representation formulas. Alternative I, based on the previous allocation, gives three representatives for the first 200 members and one for each additional 100, subject to a maximum of 20 per state or region. Alternative II gives three representatives for the first 400 members and one for every additional 150, also subject to a maximum of 20. On the membership figures recorded as of June 30, 1967, the alternatives would produce totals of 193 and 170 General Council representatives respectively. The circular recommends Alternative II if no response is received by September 15 and encloses a self-addressed postcard for replies.
+
 ## Key points
 
 - The circular requests state and regional preferences concerning representation on the Swatantra Party's General Council.

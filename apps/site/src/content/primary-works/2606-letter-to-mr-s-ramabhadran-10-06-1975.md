@@ -51,6 +51,12 @@ summary: |-
   The enclosures broaden the correspondence into a record of Swatantra Party activity in Tamil Nadu. A handwritten note describes Jayaprakash Narayan's visit, the party's public prominence, the collection and presentation of Rs. 73,000, and the subsequent split between the Swatantra and Revolutionary BLD groups. Other enclosures concern a proposed expansion of Chanakyan's circulation and English coverage, while a letter from the party's joint secretary asks for views on circulating unreported party activities in a monthly newsletter. The pages therefore document party organisation, political publicity, factional realignment, and the practical work of sustaining a multilingual political periodical.
 ---
 
+## Summary
+
+This 10 June 1975 letter from Bombay, signed by Girish Munshi and addressed to S. Ramabhadran, congratulates the editor of Chanakyan on reporting about Tamil Nadu and on the opening of the Rajaji Memorial. Munshi notes a Rs. 73,000 purse collected for the memorial, comments on the split in the Madras BLD, promises a photograph, and considers expanding Chanakyan with additional pages and English material for readers who do not know Tamil. He also reports that M. S. Bhargava is mobilising former Swatantra members.
+
+The enclosures broaden the correspondence into a record of Swatantra Party activity in Tamil Nadu. A handwritten note describes Jayaprakash Narayan's visit, the party's public prominence, the collection and presentation of Rs. 73,000, and the subsequent split between the Swatantra and Revolutionary BLD groups. Other enclosures concern a proposed expansion of Chanakyan's circulation and English coverage, while a letter from the party's joint secretary asks for views on circulating unreported party activities in a monthly newsletter. The pages therefore document party organisation, political publicity, factional realignment, and the practical work of sustaining a multilingual political periodical.
+
 ## Key points
 
 - Girish Munshi congratulates Chanakyan's editor on reporting Tamil Nadu political developments and on the opening of the Rajaji Memorial.

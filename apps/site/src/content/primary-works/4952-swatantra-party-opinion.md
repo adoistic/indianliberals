@@ -55,6 +55,12 @@ summary: |-
   The resolution authorises Citizens For Democracy to prepare and submit a nationwide petition to the Lok Sabha. Its demands are the revocation of the Proclamations of Emergency and withdrawal of abnormal laws affecting civil liberties; a general election before the first week of March 1976, as required by Article 83 of the Constitution; the release of political detainees and restoration of press freedom to ensure a free and fair election. The conference also directs that the petition be printed in regional languages and circulated in villages and towns for signatures.
 ---
 
+## Summary
+
+This two-page English resolution records the All-India Civil Liberties Conference’s alarm at the erosion of civil liberties, arbitrary detention without trial, mistreatment in jails, suppression of freedom of expression, and the use of radio, television, and a controlled press to shape public opinion. It calls for the immediate restoration of civil liberties and democratic processes.
+
+The resolution authorises Citizens For Democracy to prepare and submit a nationwide petition to the Lok Sabha. Its demands are the revocation of the Proclamations of Emergency and withdrawal of abnormal laws affecting civil liberties; a general election before the first week of March 1976, as required by Article 83 of the Constitution; the release of political detainees and restoration of press freedom to ensure a free and fair election. The conference also directs that the petition be printed in regional languages and circulated in villages and towns for signatures.
+
 ## Key points
 
 - The conference describes the period as one of diminished civil liberties and replacement of the rule of law by arbitrary power.

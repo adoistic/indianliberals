@@ -50,6 +50,12 @@ summary: |-
   The remainder is a warm personal and professional exchange: Masani wishes Sreenivasan “bon voyage,” looks forward to his return, and anticipates exchanging ideas. The letter is typed on Swatantra Party letterhead and signed by Masani.
 ---
 
+## Summary
+
+This one-page letter from Minoo Masani to V. T. Sreenivasan, dated 13 June 1968, acknowledges Sreenivasan's letter of 4 June and his disquiet about events in Madras. Masani refers approvingly to Sreenivasan's candid contribution to Mysindia and asks for a clipping if it is published.
+
+The remainder is a warm personal and professional exchange: Masani wishes Sreenivasan “bon voyage,” looks forward to his return, and anticipates exchanging ideas. The letter is typed on Swatantra Party letterhead and signed by Masani.
+
 ## Key points
 
 - Masani responds to a letter dated 4 June 1968.

@@ -55,6 +55,12 @@ summary: |-
   Masani rejects the idea that the Swatantra Party should imitate other parties or dilute its principles. He calls instead for fidelity to its pledged commitments, clearer leadership, and a politics grounded in ideals and ethics. The article also criticises the broader failure of leadership in India, while warning that democratic institutions become vulnerable when parties tolerate opportunism and refuse to confront misconduct.
 ---
 
+## Summary
+
+In this Hindustan Times article, Minoo Masani explains his resignation as General Secretary of the Swatantra Party after what he describes as a breakdown of party discipline and a failure to uphold public commitments. He presents the Gujarat election and the party’s response to defections as evidence of a wider credibility gap, arguing that indiscipline and evasive leadership could damage both the party and parliamentary democracy.
+
+Masani rejects the idea that the Swatantra Party should imitate other parties or dilute its principles. He calls instead for fidelity to its pledged commitments, clearer leadership, and a politics grounded in ideals and ethics. The article also criticises the broader failure of leadership in India, while warning that democratic institutions become vulnerable when parties tolerate opportunism and refuse to confront misconduct.
+
 ## Key points
 
 - Masani says he resigned as General Secretary because of the Swatantra Party’s handling of defections and disciplinary failures.

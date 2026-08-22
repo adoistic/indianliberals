@@ -49,6 +49,10 @@ summary: |-
   This one-page circular letter from the Swatantra Party Central Office, dated 26 June 1967, announces and distributes a publication titled "The Missed Opportunity": The Central Budget 1967–68. The publication is credited to M. R. Masani, Charanjit Rai, and N. Dandekar.
 ---
 
+## Summary
+
+This one-page circular letter from the Swatantra Party Central Office, dated 26 June 1967, announces and distributes a publication titled "The Missed Opportunity": The Central Budget 1967–68. The publication is credited to M. R. Masani, Charanjit Rai, and N. Dandekar.
+
 ## Key points
 
 - The document is Central Office Circular No. 79 of the Swatantra Party.

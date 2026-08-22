@@ -52,6 +52,12 @@ summary: |-
   The letter closes with a brief, dissatisfied assessment of the relevant performances or developments. The handwriting is partly difficult to decipher, so the summary is limited to the clearly legible portions of this personal correspondence.
 ---
 
+## Summary
+
+This single-page handwritten letter, dated December 3, 1962, is addressed by C. Rajagopalachari to Minoo Masani. Rajagopalachari acknowledges Masani’s December 1 letter and encloses a revised letter to Ranganathan. He also refers to a press statement concerning a subject they had discussed, noting that it may have appeared in The Times of India and, meanwhile, in the Hindustan Times.
+
+The letter closes with a brief, dissatisfied assessment of the relevant performances or developments. The handwriting is partly difficult to decipher, so the summary is limited to the clearly legible portions of this personal correspondence.
+
 ## Key points
 
 - The letter is dated December 3, 1962, and is written by C. Rajagopalachari from his Madras address.

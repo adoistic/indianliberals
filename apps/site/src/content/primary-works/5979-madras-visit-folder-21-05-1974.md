@@ -46,6 +46,12 @@ summary: |-
   The message names Mr. K. B. Eswaran of Sudhama, located at No. 6 Sir Desika Chari Road, Mylapore 4. No further information about the purpose, itinerary, recipient, or outcome of the visit appears on the rendered page.
 ---
 
+## Summary
+
+This one-page English administrative record, dated May 21, 1974, is headed “Madras Visit Folder.” It identifies itself as a telex message from “J.P.” transmitted through the Indian Express and provides the Madras host’s name, address, and telephone number.
+
+The message names Mr. K. B. Eswaran of Sudhama, located at No. 6 Sir Desika Chari Road, Mylapore 4. No further information about the purpose, itinerary, recipient, or outcome of the visit appears on the rendered page.
+
 ## Key points
 
 - The document is dated May 21, 1974.

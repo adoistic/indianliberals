@@ -45,6 +45,12 @@ summary: |-
   The letter is signed by K. N. Krishnan, identified as Under Secretary. No title, recipient name, or further information about the requested biographical material is visible on the page.
 ---
 
+## Summary
+
+This single-page English administrative letter, dated November 1, 1965, was sent from the Department of Parliamentary Affairs, Government of India, at Parliament House, New Delhi. The letter encloses a note received from the Ministry of External Affairs and asks the recipient to provide ten copies of photographs and a biographical sketch at the Ministry's earliest convenience.
+
+The letter is signed by K. N. Krishnan, identified as Under Secretary. No title, recipient name, or further information about the requested biographical material is visible on the page.
+
 ## Key points
 
 - The document is dated November 1, 1965.

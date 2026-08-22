@@ -50,6 +50,12 @@ summary: |-
   The enclosed Election Commission circular, dated January 13, 1971, reiterates that unofficial identity slips must not contain the candidate's name, the party's name, or a facsimile of the allotted election symbol. It includes English-translated specimen slips from the Perundurai Assembly constituency by-election in Tamil Nadu, showing polling and voter particulars without candidate or party identification. Cooper asks that Swatantra Party candidates in the relevant state be informed of the revised procedure.
 ---
 
+## Summary
+
+Dated January 19, 1971, this two-page Swatantra Party office letter from General Secretary R. C. Cooper informs party workers about revised Election Commission of India instructions governing unofficial identity slips issued to voters by candidates. It states that the previous practice of printing a candidate's name together with the party symbol on voter slips has been discontinued, and that slips must be printed on plain white paper rather than coloured paper.
+
+The enclosed Election Commission circular, dated January 13, 1971, reiterates that unofficial identity slips must not contain the candidate's name, the party's name, or a facsimile of the allotted election symbol. It includes English-translated specimen slips from the Perundurai Assembly constituency by-election in Tamil Nadu, showing polling and voter particulars without candidate or party identification. Cooper asks that Swatantra Party candidates in the relevant state be informed of the revised procedure.
+
 ## Key points
 
 - The letter is General Secretary's Letter No. 258, issued by the Swatantra Party national headquarters in Bombay on January 19, 1971.

@@ -55,6 +55,12 @@ summary: |-
   The minutes then turn to party organisation and parliamentary work. They propose a Parliamentary Board to supervise and coordinate the party’s legislative groups, establish a Swatantra Research Bureau in New Delhi, and hold a convention of Lok Sabha and State Assembly candidates in Nagpur or Bombay. The committee also planned constituency-level conferences and grievance channels, discussed recruitment of parliamentary members, and reviewed party finances, including contributions, jeep loans, equipment, and an inquiry into district finances in Bihar. The document is an administrative record of the party’s early efforts to convert electoral activity into a coordinated national organisation.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party parliamentary sub-committee meeting held on 14 March 1962 at H. P. Mody’s residence in Bombay, with Prof. N. G. Ranga in the chair. The committee confirmed earlier minutes, reviewed Rajya Sabha nominations, and settled election arrangements in Himachal Pradesh. It approved support for party candidates, discussed the withdrawal of a General Secretary from the Chamba Lok Sabha contest, considered the endorsement of candidates in Mandi and Bilaspur, and arranged vehicles and financial assistance for the forthcoming campaigns.
+
+The minutes then turn to party organisation and parliamentary work. They propose a Parliamentary Board to supervise and coordinate the party’s legislative groups, establish a Swatantra Research Bureau in New Delhi, and hold a convention of Lok Sabha and State Assembly candidates in Nagpur or Bombay. The committee also planned constituency-level conferences and grievance channels, discussed recruitment of parliamentary members, and reviewed party finances, including contributions, jeep loans, equipment, and an inquiry into district finances in Bihar. The document is an administrative record of the party’s early efforts to convert electoral activity into a coordinated national organisation.
+
 ## Key points
 
 - The meeting reviewed nominations to the Rajya Sabha and confirmed prior minutes from meetings held in Madras.

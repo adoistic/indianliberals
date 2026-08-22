@@ -50,6 +50,12 @@ summary: |-
   Masani asks the recipient to have the resolutions translated and published in various languages, and to ensure their distribution to the Party's prospective candidates, field organisers, and others. The letter is an administrative communication focused on circulating and publicising the Party's policy decisions; the resolutions themselves are not included on the rendered page.
 ---
 
+## Summary
+
+Dated June 4, 1966, this one-page letter from Swatantra Party General Secretary M. R. Masani reports that the Party's General Council met in Bombay on May 27 and 28 and adopted 15 resolutions on issues of the day. The texts of those resolutions were enclosed with the letter.
+
+Masani asks the recipient to have the resolutions translated and published in various languages, and to ensure their distribution to the Party's prospective candidates, field organisers, and others. The letter is an administrative communication focused on circulating and publicising the Party's policy decisions; the resolutions themselves are not included on the rendered page.
+
 ## Key points
 
 - The letter is dated June 4, 1966, and is issued from the Swatantra Party Central Office in Bombay.

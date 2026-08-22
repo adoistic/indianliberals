@@ -54,6 +54,12 @@ summary: |-
   The convention resolution approves the formation of a National Alternative by bringing together political parties other than the Congress and the Communists. It consequently resolves that the Swatantra Party should cease to exist as a political party, allowing its members to join the “New Party.” Members who retire from active politics may instead form a Swatantra Forum devoted to public education on Swatantra ideology rather than elections. The resolution also asks the Chief Election Commission to freeze the Swatantra Party’s symbol and authorises party officers to manage the transition and formally declare the date on which the party will cease to exist.
 ---
 
+## Summary
+
+This two-page draft resolution, issued by the Swatantra Party in Delhi for its national convention on August 4–5, 1974, records the party’s response to India’s political situation. It endorses efforts to create a two-party system, arguing that a National Alternative could reduce political chaos and electoral confusion, and calls on political parties and politicians to cooperate for the common good. The document recounts earlier National Executive and General Council discussions, including the circulation of a proposed programme to State Councils for consideration before the convention.
+
+The convention resolution approves the formation of a National Alternative by bringing together political parties other than the Congress and the Communists. It consequently resolves that the Swatantra Party should cease to exist as a political party, allowing its members to join the “New Party.” Members who retire from active politics may instead form a Swatantra Forum devoted to public education on Swatantra ideology rather than elections. The resolution also asks the Chief Election Commission to freeze the Swatantra Party’s symbol and authorises party officers to manage the transition and formally declare the date on which the party will cease to exist.
+
 ## Key points
 
 - The Swatantra Party frames a two-party system as a means of reducing political chaos and confusion.

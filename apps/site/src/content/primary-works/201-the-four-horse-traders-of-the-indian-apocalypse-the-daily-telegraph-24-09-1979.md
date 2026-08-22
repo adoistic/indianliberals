@@ -54,6 +54,10 @@ summary: |-
   In the rendered article page, Minoo Masani surveys the political collapse of India’s Janata Government and the fragmentation of the Congress opposition. He argues that the country’s politicians have discredited democracy by treating governments as instruments for personal power, encouraging defections, and combining office-seeking with administrative and economic control. The discussion focuses on the breakdown of the Janata coalition, Charan Singh’s brief premiership, Morarji Desai’s resignation, and Indira Gandhi’s return to political prominence.
 ---
 
+## Summary
+
+In the rendered article page, Minoo Masani surveys the political collapse of India’s Janata Government and the fragmentation of the Congress opposition. He argues that the country’s politicians have discredited democracy by treating governments as instruments for personal power, encouraging defections, and combining office-seeking with administrative and economic control. The discussion focuses on the breakdown of the Janata coalition, Charan Singh’s brief premiership, Morarji Desai’s resignation, and Indira Gandhi’s return to political prominence.
+
 ## Key points
 
 - Masani presents the contemporary Indian political scene as marked by widespread public disgust with political parties.

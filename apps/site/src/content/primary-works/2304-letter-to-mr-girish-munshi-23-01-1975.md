@@ -44,6 +44,10 @@ summary: |-
   This February 1975 document, headed “REMINDER II,” is an administrative letter from Parmanand Kejriwal concerning unpaid rent. The sender acknowledges a letter dated January 23, 1975, addressed to Mr. Girish Munshi and received on January 30, and refers to Munshi’s subsequent communication drawing attention to rent arrears dating from September 1974.
 ---
 
+## Summary
+
+This February 1975 document, headed “REMINDER II,” is an administrative letter from Parmanand Kejriwal concerning unpaid rent. The sender acknowledges a letter dated January 23, 1975, addressed to Mr. Girish Munshi and received on January 30, and refers to Munshi’s subsequent communication drawing attention to rent arrears dating from September 1974.
+
 ## Key points
 
 - The document is a February 1975 reminder letter.

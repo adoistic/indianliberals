@@ -52,6 +52,12 @@ summary: |-
   The letter also proposes an informal India–Pakistan discussion involving Indians and Pakistanis, with a domestic meeting planned under the title “Towards Better Indo-Pak Relations.” The writer asks Narayan to help suggest participants, offers to arrange a Panchgani meeting with Prabhavati, and closes by mentioning forthcoming Swatantra Party meetings in Madras and Rajaji. The two rendered pages show the complete letter; the author’s signature appears to be “( M. R. M. )” but remains unresolved in the supplied authority data.
 ---
 
+## Summary
+
+In this letter dated 21 June 1972, the writer addresses Jayaprakash Narayan at Yercaud after visiting the M. R. A. Ashram at Panchgani. The writer describes discussions with young people about India’s political condition and proposes a panel of independent public figures who could act as “the conscience of the country” in the absence of effective opposition parties and a fearless press. The proposed panel would comment on current developments and examine legislation raising fundamental issues that Parliament, as presently constituted, is unable or unwilling to address.
+
+The letter also proposes an informal India–Pakistan discussion involving Indians and Pakistanis, with a domestic meeting planned under the title “Towards Better Indo-Pak Relations.” The writer asks Narayan to help suggest participants, offers to arrange a Panchgani meeting with Prabhavati, and closes by mentioning forthcoming Swatantra Party meetings in Madras and Rajaji. The two rendered pages show the complete letter; the author’s signature appears to be “( M. R. M. )” but remains unresolved in the supplied authority data.
+
 ## Key points
 
 - The writer proposes a panel of ten or twelve independent people to serve as a public conscience on India’s political condition.

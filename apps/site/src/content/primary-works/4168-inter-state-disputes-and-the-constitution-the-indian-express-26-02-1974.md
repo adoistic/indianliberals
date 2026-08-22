@@ -50,6 +50,12 @@ summary: |-
   In the rendered page, Noorani invokes Article 263, which empowers the President to establish an Inter-State Council for disputes involving common interests or coordination between the Union and the States. He cites the report of the Federal Structure Sub-Committee of the Round Table Conference, chaired by Lord Sankey, as support for a permanent body capable of resolving disputes and coordinating policy. The article concludes by urging consideration of such a Council and warning that acrimonious public debate may damage the Union’s cohesion. The clipping does not show any continuation beyond this page.
 ---
 
+## Summary
+
+In the rendered page, A. G. Noorani examines tensions between India’s States and the Union, beginning with the 1968 proposal of Karnataka Chief Minister Veerendra Patil for a code of conduct governing Ministers’ public statements about other States. Noorani connects the immediate controversy to the constitutional problem of inter-State disputes, arguing that public accusations and retaliatory statements by Chief Ministers can intensify regional conflict rather than resolve it. He also notes the inadequacy of relying solely on political restraint when constitutional mechanisms remain unused or underdeveloped.
+
+In the rendered page, Noorani invokes Article 263, which empowers the President to establish an Inter-State Council for disputes involving common interests or coordination between the Union and the States. He cites the report of the Federal Structure Sub-Committee of the Round Table Conference, chaired by Lord Sankey, as support for a permanent body capable of resolving disputes and coordinating policy. The article concludes by urging consideration of such a Council and warning that acrimonious public debate may damage the Union’s cohesion. The clipping does not show any continuation beyond this page.
+
 ## Key points
 
 - The article discusses inter-State disputes and the constitutional relationship between the Union and the States.

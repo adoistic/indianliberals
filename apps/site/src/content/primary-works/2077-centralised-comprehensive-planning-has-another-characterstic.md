@@ -50,6 +50,12 @@ summary: |-
   The page identifies four sources from which the Government of India obtains planning resources: taxes, public borrowings, deficit financing, and foreign aid, although only the first two are detailed in the visible portion. The taxation section distinguishes direct taxes, such as income tax on companies and individuals, from indirect taxes, including excise duties on kerosene, sugar, and cloth, sales taxes on articles of daily use, and electricity duty. The public-borrowings section identifies small savings and government loans as sources of funds.
 ---
 
+## Summary
+
+The illustrated sheet presents centralised comprehensive planning as an approach in which investments are based on previously established physical targets rather than on available financial resources. It argues that this method generates pressure to mobilise funds through taxation and public borrowing, rather than allowing investment decisions to respond to financial constraints.
+
+The page identifies four sources from which the Government of India obtains planning resources: taxes, public borrowings, deficit financing, and foreign aid, although only the first two are detailed in the visible portion. The taxation section distinguishes direct taxes, such as income tax on companies and individuals, from indirect taxes, including excise duties on kerosene, sugar, and cloth, sales taxes on articles of daily use, and electricity duty. The public-borrowings section identifies small savings and government loans as sources of funds.
+
 ## Key points
 
 - Centralised comprehensive planning sets physical investment targets before relating them to available financial resources.

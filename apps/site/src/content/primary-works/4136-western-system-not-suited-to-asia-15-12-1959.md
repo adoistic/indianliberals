@@ -53,6 +53,12 @@ summary: |-
   In the rendered pages, Narayan attributes the failure of imported systems partly to the destruction of India’s and Pakistan’s older community institutions under British rule. He calls for the revival of institutions in rural and urban areas, organized on an agro-industrial basis, so that communities can function as “vital organs” of the political body. Larger matters such as railways, communications, currency, defence, and foreign affairs would be handled through higher tiers selected from these communities. The report also notes his interest in Pakistan’s experiment with basic democracies and his belief that nominated officials should not displace popular participation.
 ---
 
+## Summary
+
+This newspaper report from Karachi records J. P. Narayan’s advocacy of a “participatory democracy” suited to Asian conditions. Narayan argues that Western parliamentary institutions, especially party-based systems, have not enabled ordinary people to manage their own affairs. He contrasts formal voting with meaningful popular control, warning that elections can narrow rather than widen political choice when power remains concentrated among parties or elites.
+
+In the rendered pages, Narayan attributes the failure of imported systems partly to the destruction of India’s and Pakistan’s older community institutions under British rule. He calls for the revival of institutions in rural and urban areas, organized on an agro-industrial basis, so that communities can function as “vital organs” of the political body. Larger matters such as railways, communications, currency, defence, and foreign affairs would be handled through higher tiers selected from these communities. The report also notes his interest in Pakistan’s experiment with basic democracies and his belief that nominated officials should not displace popular participation.
+
 ## Key points
 
 - J. P. Narayan advocates a system of “participatory democracy” for Asian societies.

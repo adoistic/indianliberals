@@ -43,6 +43,10 @@ summary: |-
   This handwritten personal letter, dated 14 October 1989 and signed by Harindra Dave, is addressed to “Shri Masaniji,” identified in the authority file as Minoo Masani. Dave encloses what he calls a “special number” and asks whether the time is ripe to publish Masani’s correspondence with the President. He closes by saying that he will telephone in the evening and sends his personal regards.
 ---
 
+## Summary
+
+This handwritten personal letter, dated 14 October 1989 and signed by Harindra Dave, is addressed to “Shri Masaniji,” identified in the authority file as Minoo Masani. Dave encloses what he calls a “special number” and asks whether the time is ripe to publish Masani’s correspondence with the President. He closes by saying that he will telephone in the evening and sends his personal regards.
+
 ## Key points
 
 - The letter is dated 14 October 1989 and is signed by Harindra Dave.

@@ -51,6 +51,12 @@ summary: |-
   The letter encloses the Prime Minister's reply concerning the draft Approach to the Fourth Plan and notes that, after discussion, the Swatantra Party decided to boycott the meeting at which the draft plan would be discussed. It also reports discussions between the Bharatiya Kranti Dal and Swatantra Party, including an account of Bhanu Pratap Singh's meeting with C. Rajagopalachari and the possible inclusion of the Praja Socialist Party in a new political alliance.
 ---
 
+## Summary
+
+This typed letter from the Swatantra Party Parliamentary Office, dated June 6, 1968, reports to M. R. Masani on party affairs following recent meetings in Madras. A. P. Jain says press coverage of the meetings was limited, but that the stalemate continued because the national executive had not altered its position on the Gujarat dispute that had emerged during earlier meetings in Delhi.
+
+The letter encloses the Prime Minister's reply concerning the draft Approach to the Fourth Plan and notes that, after discussion, the Swatantra Party decided to boycott the meeting at which the draft plan would be discussed. It also reports discussions between the Bharatiya Kranti Dal and Swatantra Party, including an account of Bhanu Pratap Singh's meeting with C. Rajagopalachari and the possible inclusion of the Praja Socialist Party in a new political alliance.
+
 ## Key points
 
 - The letter is dated June 6, 1968, and is sent from the Swatantra Party Parliamentary Office in New Delhi to M. R. Masani.

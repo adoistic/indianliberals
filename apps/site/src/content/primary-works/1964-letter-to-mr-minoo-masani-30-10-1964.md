@@ -50,6 +50,12 @@ summary: |-
   The letter also responds to a reported car-rampage incident published in March of the Nation. Jain identifies the two boys involved as the younger son of Indira Gandhi and the son of Yunis, a joint secretary in the Ministry of External Affairs. He says the police initially closed the case without action, but that it was later reopened after press publicity and that Home Minister Nanda was personally taking an interest. Jain adds that he has tabled a parliamentary question on the matter.
 ---
 
+## Summary
+
+This Swatantra Party Parliamentary Office letter, dated October 30, 1964, is addressed by A.R.P. Jain to M.R. Masani. Jain promises to gather information about members of the party's parliamentary group, including their ages, educational qualifications, religion, caste, and vocation, ahead of the next parliamentary session.
+
+The letter also responds to a reported car-rampage incident published in March of the Nation. Jain identifies the two boys involved as the younger son of Indira Gandhi and the son of Yunis, a joint secretary in the Ministry of External Affairs. He says the police initially closed the case without action, but that it was later reopened after press publicity and that Home Minister Nanda was personally taking an interest. Jain adds that he has tabled a parliamentary question on the matter.
+
 ## Key points
 
 - A.R.P. Jain writes from the Swatantra Party Parliamentary Office to M.R. Masani on October 30, 1964.

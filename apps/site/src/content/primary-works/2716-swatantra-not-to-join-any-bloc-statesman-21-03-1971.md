@@ -53,6 +53,12 @@ summary: |-
   The report reviews the Swatantra Party’s response to the 1971 Lok Sabha election. While acknowledging the ruling party’s decisive electoral victory and accepting its implications, the statement argues that the first-past-the-post system produced a distorted Parliament: the ruling party was over-represented and the Opposition under-represented. It also accepts that Swatantra shared responsibility for its poor performance, especially because it had failed to offer an agreed programme. The party’s National Executive was expected to undertake what Masani called an “agonising reappraisal” of the election results and the party’s future direction. The clipping also reports the election of P. K. Deo as Parliamentary Board leader.
 ---
 
+## Summary
+
+This one-page Sunday Statesman report says M. R. Masani announced that the Swatantra Party would not join any parliamentary bloc and would maintain its distinct identity. The party’s statement presented its small group in both Houses as having an important role in defending liberty, democracy, and individual freedom, while warning that any drift toward authoritarianism should be resisted. It nevertheless said the party would support measures that could help build a prosperous and free society.
+
+The report reviews the Swatantra Party’s response to the 1971 Lok Sabha election. While acknowledging the ruling party’s decisive electoral victory and accepting its implications, the statement argues that the first-past-the-post system produced a distorted Parliament: the ruling party was over-represented and the Opposition under-represented. It also accepts that Swatantra shared responsibility for its poor performance, especially because it had failed to offer an agreed programme. The party’s National Executive was expected to undertake what Masani called an “agonising reappraisal” of the election results and the party’s future direction. The clipping also reports the election of P. K. Deo as Parliamentary Board leader.
+
 ## Key points
 
 - M. R. Masani said the Swatantra Party would not join any parliamentary bloc.

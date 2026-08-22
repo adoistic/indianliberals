@@ -47,6 +47,10 @@ summary: |-
   This one-page letter, dated 25 March 1963 and issued on the letterhead of the Minister of Commerce, New Delhi, is addressed by the apparent signatory, Dinesh Singh, to Minoo Masani. Singh informs Masani that, following Masani's suggestion, M. R. Masani and M. Rajaram, both Members of the Lok Sabha, have been included in the Advisory Council on Trade.
 ---
 
+## Summary
+
+This one-page letter, dated 25 March 1963 and issued on the letterhead of the Minister of Commerce, New Delhi, is addressed by the apparent signatory, Dinesh Singh, to Minoo Masani. Singh informs Masani that, following Masani's suggestion, M. R. Masani and M. Rajaram, both Members of the Lok Sabha, have been included in the Advisory Council on Trade.
+
 ## Key points
 
 - The document is a formal government letter dated 25 March 1963.

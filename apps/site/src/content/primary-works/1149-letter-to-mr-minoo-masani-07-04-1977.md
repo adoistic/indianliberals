@@ -45,6 +45,12 @@ summary: |-
   The letter is essentially a covering note transmitting the papers Masani will need to conduct the arbitration: the full exchange of correspondence between the parties, a copy of the Party's Constitution, and a copy of the '21 Principles of the Swantantra [Swatantra] Party'. Munshi closes by awaiting Masani's word on a date for the hearing. The document offers no substantive discussion of the merits or subject-matter of the dispute itself — it names only the parties, the documents enclosed, and the next procedural step.
 ---
 
+## Summary
+
+A brief typewritten letter dated 7 April 1977, sent on Bharatiya Vidya Bhavan letterhead (Kulapati K. M. Munshi Marg, Chowpatty, Bombay-7) from Girish Munshi to Minoo Masani. Munshi acknowledges Masani's letter of 4 April and, jointly with a 'Parmanandji', records their pleasure at Masani's willingness to serve as arbitrator in an internal dispute the two men have with K. H. Subramanian, L. N. Sampat, and S. V. Raju.
+
+The letter is essentially a covering note transmitting the papers Masani will need to conduct the arbitration: the full exchange of correspondence between the parties, a copy of the Party's Constitution, and a copy of the '21 Principles of the Swantantra [Swatantra] Party'. Munshi closes by awaiting Masani's word on a date for the hearing. The document offers no substantive discussion of the merits or subject-matter of the dispute itself — it names only the parties, the documents enclosed, and the next procedural step.
+
 ## Key points
 
 - Single-page typewritten letter dated 7 April 1977 from Girish Munshi (writing on Bharatiya Vidya Bhavan letterhead, Bombay) to Minoo Masani.

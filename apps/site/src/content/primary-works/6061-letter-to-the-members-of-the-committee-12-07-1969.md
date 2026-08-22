@@ -50,6 +50,12 @@ summary: |-
   The committee discussed a request concerning the Shri Jayprakash Narayan Sanman Samiti's proposed fund collection. It decided that its own fund-raising should not begin while the Abdul Gaffarkhan Sanman Samiti's collection was under way, because that organisation was considered nationally important. The letter records the further view that the Abdul Gaffarkhan Sanman Samiti's work should be understood in an international context, and concludes that the committee's fund collection should be postponed sine die.
 ---
 
+## Summary
+
+This one-page English office letter from the Shri Jayprakash Narayan Sanman Samiti, dated 12 July 1969, reports on the committee meeting held on 4 July at the hall of the Indian Merchants' Chambers. The meeting was chaired by Dr. P. B. Gajendragadkar, and the letter was addressed to committee members by Tulsidas M. Vishram, Convenor-Secretary.
+
+The committee discussed a request concerning the Shri Jayprakash Narayan Sanman Samiti's proposed fund collection. It decided that its own fund-raising should not begin while the Abdul Gaffarkhan Sanman Samiti's collection was under way, because that organisation was considered nationally important. The letter records the further view that the Abdul Gaffarkhan Sanman Samiti's work should be understood in an international context, and concludes that the committee's fund collection should be postponed sine die.
+
 ## Key points
 
 - The letter is dated 12 July 1969 and reports a committee meeting held on 4 July 1969.

@@ -61,6 +61,12 @@ summary: |-
   The petition frames bank nationalization as a threat to parliamentary debate, shareholders’ property, existing bank management, and the petitioners’ constitutional freedoms of speech, expression, and political activity. It also argues that the Ordinance conflicts with Section 36AE of the Banking Laws (Amendment) Act, 1968, which permitted acquisition only in specified circumstances and with procedural safeguards. The accompanying application seeks an ex-parte interim stay, asserting that implementation would irreparably affect depositors, shareholders, and directors and could render the writ petition ineffective. The rendered material also includes affidavits by both petitioners and brief placeholder pages for the Ordinance and Morarji Desai’s note; the substantive text of those annexures is not reproduced in the pages viewed.
 ---
 
+## Summary
+
+This 1969 Supreme Court writ petition, filed by M. R. Masani and Professor Bal Raj Madhok against the Union of India, challenges the Banking Companies (Acquisition & Transfer of Undertakings) Ordinance, 1969. The petitioners oppose the nationalization of fourteen major banks and argue that the Ordinance was promulgated on 19 July 1969 despite Parliament being scheduled to meet two days later. They contend that the President’s power under Article 123 of the Constitution was intended for genuinely urgent circumstances and could not properly be used to present Parliament with an accomplished fact.
+
+The petition frames bank nationalization as a threat to parliamentary debate, shareholders’ property, existing bank management, and the petitioners’ constitutional freedoms of speech, expression, and political activity. It also argues that the Ordinance conflicts with Section 36AE of the Banking Laws (Amendment) Act, 1968, which permitted acquisition only in specified circumstances and with procedural safeguards. The accompanying application seeks an ex-parte interim stay, asserting that implementation would irreparably affect depositors, shareholders, and directors and could render the writ petition ineffective. The rendered material also includes affidavits by both petitioners and brief placeholder pages for the Ordinance and Morarji Desai’s note; the substantive text of those annexures is not reproduced in the pages viewed.
+
 ## Key points
 
 - The petition challenges the constitutional validity of the Banking Companies (Acquisition & Transfer of Undertakings) Ordinance, 1969.

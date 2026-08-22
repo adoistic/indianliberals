@@ -44,6 +44,10 @@ summary: |-
   This single-page English office letter, dated 4 April 1970, is addressed to “RAJU” in Bombay and is typed under the heading “YOURS THIRD APPROVE COVERING LETTER.” The document bears the typed name “MASANI” and a handwritten signature.
 ---
 
+## Summary
+
+This single-page English office letter, dated 4 April 1970, is addressed to “RAJU” in Bombay and is typed under the heading “YOURS THIRD APPROVE COVERING LETTER.” The document bears the typed name “MASANI” and a handwritten signature.
+
 ## Key points
 
 - The document is a one-page letter dated 4-4-70.

@@ -50,6 +50,12 @@ summary: |-
   Raju identifies cooperation with Jayaprakash Narayan’s movement across the states as the party’s immediate major activity, alongside an effort to re-establish contacts with “more honest persons.” The letter is both an organisational appeal and a brief statement of a strategy centred on political renewal, regional mobilisation, and cooperation with a wider movement.
 ---
 
+## Summary
+
+This one-page letter from S. V. Raju to I. S. Bhargava, dated February 18, 1975, concerns the revival and reorganisation of their political party. Raju reports that Mr. G. K. Sundaram has become President and Mr. Girikumar General Secretary, following a National Executive meeting in Bombay. He invites Bhargava to join the National Executive and asks him to take responsibility for convening the party in Rajasthan.
+
+Raju identifies cooperation with Jayaprakash Narayan’s movement across the states as the party’s immediate major activity, alongside an effort to re-establish contacts with “more honest persons.” The letter is both an organisational appeal and a brief statement of a strategy centred on political renewal, regional mobilisation, and cooperation with a wider movement.
+
 ## Key points
 
 - The letter is dated February 18, 1975 and is signed by S. V. Raju in Bombay.

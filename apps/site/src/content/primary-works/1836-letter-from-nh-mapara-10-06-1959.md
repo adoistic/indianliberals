@@ -61,6 +61,12 @@ summary: |-
   The attached 15-point statement defines the party’s principles. It combines democratic freedom, social justice, equality of opportunity, and priority for basic needs with opposition to coercive state socialism, collectivised agriculture, excessive bureaucracy, expansive state enterprise, deficit financing, excessive taxation, inflation, and the removal of constitutional guarantees concerning property, trade, employment, and compensation. The statement supports self-employed peasant proprietors, incentives and competition in industry, restricted state enterprise, individual freedom, and a state whose regulatory role is limited primarily to preventing and punishing anti-social activity.
 ---
 
+## Summary
+
+This 10-page English document consists of a letter dated June 10, 1959, from N.H. Mapara and J.M. Patel, convenors writing from Bombay. It reports a recent Madras meeting chaired by C. Rajagopalachari at which participants agreed that a broad-based democratic opposition party should be established as soon as possible, tentatively under the name “Swatantra” Party. The letter announces a founding conference in Ahmedabad on August 1–2, 1959, and invites business associations and firms to send representatives to an informal Bombay meeting at which M.R. Masani would explain the proposed party’s objectives and discuss business support for a Greater Bombay branch.
+
+The attached 15-point statement defines the party’s principles. It combines democratic freedom, social justice, equality of opportunity, and priority for basic needs with opposition to coercive state socialism, collectivised agriculture, excessive bureaucracy, expansive state enterprise, deficit financing, excessive taxation, inflation, and the removal of constitutional guarantees concerning property, trade, employment, and compensation. The statement supports self-employed peasant proprietors, incentives and competition in industry, restricted state enterprise, individual freedom, and a state whose regulatory role is limited primarily to preventing and punishing anti-social activity.
+
 ## Key points
 
 - The letter seeks support for creating a broad-based democratic opposition party, tentatively named the Swatantra Party.

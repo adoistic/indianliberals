@@ -66,6 +66,12 @@ summary: |-
   Ranga frames the Swatantra Party as a democratic, Gandhian alternative to both Congress statism and communist-style planning. He defends Fundamental Rights, private ownership, peasant and artisan autonomy, and a more limited and accountable government. The address calls for electoral cooperation among non-Congress parties, the formation of coalition or united-front ministries, stronger State autonomy within India’s federal system, and replacement of the Planning Commission with a democratic advisory council. It concludes with proposals for independent quasi-judicial commissions, an Ombudsman, reduced ministerial discretion, and clean and efficient administration, while urging peasants and other voters to defeat Congress in the forthcoming elections.
 ---
 
+## Summary
+
+In this Presidential Address to the Swatantra Party’s Fourth National Convention in New Delhi, N. G. Ranga presents the Congress government as politically exhausted, economically interventionist, and increasingly hostile to democratic freedoms. He links the November 1966 disturbances outside Parliament and the Bastar killings to a broader loss of public confidence. The address condemns the License, Permit and Quota Raj, restrictions on land ownership, compulsory and cooperative farming, ceiling laws, currency devaluation, deficit financing, and state controls that, in his view, have weakened peasant proprietorship, self-employment, and economic incentives. Ranga also cites student strikes and police firings as evidence of growing alienation from Congress rule.
+
+Ranga frames the Swatantra Party as a democratic, Gandhian alternative to both Congress statism and communist-style planning. He defends Fundamental Rights, private ownership, peasant and artisan autonomy, and a more limited and accountable government. The address calls for electoral cooperation among non-Congress parties, the formation of coalition or united-front ministries, stronger State autonomy within India’s federal system, and replacement of the Planning Commission with a democratic advisory council. It concludes with proposals for independent quasi-judicial commissions, an Ombudsman, reduced ministerial discretion, and clean and efficient administration, while urging peasants and other voters to defeat Congress in the forthcoming elections.
+
 ## Key points
 
 - The address attributes declining public confidence in Congress to political instability, corruption, administrative failure, and violence.

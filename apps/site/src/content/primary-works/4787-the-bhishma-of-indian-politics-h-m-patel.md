@@ -58,6 +58,10 @@ summary: |-
   In this speech, H. M. Patel presents C. Rajagopalachari (Rajaji) as a morally grounded statesman whose influence rested on intellectual force, integrity, and public service rather than a mass political base. Patel highlights Rajaji's closeness to Mahatma Gandhi, his work for temple entry, the removal of untouchability, khadi, village industries, and prohibition, and his willingness to endure opposition when conscience required it. Rajaji's proposal in 1942 to accept partition in principle is described as an unpopular but purposeful attempt to secure the immediate transfer of power to Indian hands.
 ---
 
+## Summary
+
+In this speech, H. M. Patel presents C. Rajagopalachari (Rajaji) as a morally grounded statesman whose influence rested on intellectual force, integrity, and public service rather than a mass political base. Patel highlights Rajaji's closeness to Mahatma Gandhi, his work for temple entry, the removal of untouchability, khadi, village industries, and prohibition, and his willingness to endure opposition when conscience required it. Rajaji's proposal in 1942 to accept partition in principle is described as an unpopular but purposeful attempt to secure the immediate transfer of power to Indian hands.
+
 ## Key points
 
 - Patel characterises Rajaji as a dominant intellectual and moral presence in Indian public life despite lacking a conventional mass political following.

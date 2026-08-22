@@ -50,6 +50,12 @@ summary: |-
   Swatantra Party chairman Minoo Masani is reported to have withdrawn from the alliance talks after expressing “deep disappointment” at the Congress (O)'s change of position. The article attributes the breakdown to disputes over the programme, the number of parties to be included, and the Congress (O)'s alleged attempt to consolidate only the Rightist forces. A continuation reports further negotiations, including appeals to the SSP and Swatantra Party, while also noting the possible role of Dr. Ram Subhag Singh and the difficulty of reconciling the parties' positions. The rendered clipping also contains a separate Economic and Scientific Research Foundation report on inventory-sales ratios in government and private companies, but that item is unrelated to the principal political article.
 ---
 
+## Summary
+
+This Times of India News Service report describes a January 1971 attempt by the Congress (O), Jana Sangh and Samyukta Socialist Party (SSP) to form an electoral front against Indira Gandhi. The proposed arrangement was conditional on agreement over a common programme, with the parties discussing seat adjustments and a coordinated declaration. The report presents the alliance as a last-minute effort and records disagreements over whether it represented a substantive programme or merely a tactical coalition to block Mrs. Gandhi's return to power.
+
+Swatantra Party chairman Minoo Masani is reported to have withdrawn from the alliance talks after expressing “deep disappointment” at the Congress (O)'s change of position. The article attributes the breakdown to disputes over the programme, the number of parties to be included, and the Congress (O)'s alleged attempt to consolidate only the Rightist forces. A continuation reports further negotiations, including appeals to the SSP and Swatantra Party, while also noting the possible role of Dr. Ram Subhag Singh and the difficulty of reconciling the parties' positions. The rendered clipping also contains a separate Economic and Scientific Research Foundation report on inventory-sales ratios in government and private companies, but that item is unrelated to the principal political article.
+
 ## Key points
 
 - Congress (O), Jana Sangh and SSP announced plans for a united electoral front against Indira Gandhi.

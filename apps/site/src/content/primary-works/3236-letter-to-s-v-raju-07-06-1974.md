@@ -47,6 +47,10 @@ summary: |-
   In this letter dated June 7, 1974, G.K. Munshi responds to S. V. Raju’s earlier letter about Piloo Mody’s actions concerning the Swatantra Party. Munshi says he is perplexed by Mody’s conduct, while acknowledging that the formation of a large group committed to their principles could represent progress.
 ---
 
+## Summary
+
+In this letter dated June 7, 1974, G.K. Munshi responds to S. V. Raju’s earlier letter about Piloo Mody’s actions concerning the Swatantra Party. Munshi says he is perplexed by Mody’s conduct, while acknowledging that the formation of a large group committed to their principles could represent progress.
+
 ## Key points
 
 - The letter is dated June 7, 1974, and is addressed to Raju.

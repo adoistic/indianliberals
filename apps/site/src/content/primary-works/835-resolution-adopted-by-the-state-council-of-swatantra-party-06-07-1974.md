@@ -52,6 +52,12 @@ summary: |-
   The resolution also warns that the Congress (O) and Jan Sangh would retain their separate identities and electoral interests, making a genuine two-party system unlikely. It asks the party's office-bearers to convene another General Council meeting before the proposal reaches the National Convention, while declaring that Maharashtra's State Council will preserve the Swatantra Party's identity, message, and flag if dissolution is approved.
 ---
 
+## Summary
+
+This one-page English resolution records the Maharashtra State Council of the Swatantra Party's opposition to dissolving the party as part of a proposed merger with six other parties. Adopted at Bombay on 6 July 1974, it argues that the Swatantra Party's principles and policies remain valid and that a new party built around a vague general programme would lack a coherent national alternative.
+
+The resolution also warns that the Congress (O) and Jan Sangh would retain their separate identities and electoral interests, making a genuine two-party system unlikely. It asks the party's office-bearers to convene another General Council meeting before the proposal reaches the National Convention, while declaring that Maharashtra's State Council will preserve the Swatantra Party's identity, message, and flag if dissolution is approved.
+
 ## Key points
 
 - The Maharashtra State Council considered a proposal to dissolve the Swatantra Party alongside six other parties.

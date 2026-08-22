@@ -51,6 +51,12 @@ summary: |-
   Masani also attacked what he presented as the Swatantra Party's political opponents' socialist commitments, arguing that socialism had produced slavery in China and the Soviet Union. He criticised Indira Gandhi's support for bank nationalisation and rejected the idea that a government could be stable merely because it was formed by a single party. The report closes with Balraj Madhok's argument that coalition governments could provide stability, citing democratic countries where coalition rule was customary.
 ---
 
+## Summary
+
+This one-page *The Hindu* report records Minoo Masani's view that a joint declaration by Congress (O), the Jan Sangh, and the B.K.D. remained possible if the parties could agree on a common programme. Masani acknowledged serious disagreements among the prospective partners, citing differences over issues such as the North-East Bombay Constituency, but argued that their shared opposition to the ruling Congress made cooperation worthwhile. He described the threat to the Constitution as a reason for coordinated parliamentary action and said that constitutional amendments should be made through a referendum of the people.
+
+Masani also attacked what he presented as the Swatantra Party's political opponents' socialist commitments, arguing that socialism had produced slavery in China and the Soviet Union. He criticised Indira Gandhi's support for bank nationalisation and rejected the idea that a government could be stable merely because it was formed by a single party. The report closes with Balraj Madhok's argument that coalition governments could provide stability, citing democratic countries where coalition rule was customary.
+
 ## Key points
 
 - Minoo Masani said a joint declaration by Congress (O), the Jan Sangh, and the B.K.D. was still possible.

@@ -49,6 +49,12 @@ summary: |-
   He then suggests that a circular letter should go out to all branches — implicitly of the Swatantra Party — asking them to organise public meetings that would protest against the newly imposed taxes and express sympathy for the goldsmiths, a reference to the agitation triggered by the Gold Control regime of early 1963. A handwritten annotation in the margin, apparently by Masani or a member of his office, asks 'What do you think about it?', turning the note into an item for consultation before the circular goes out.
 ---
 
+## Summary
+
+This one-page letter, dated 5th March 1963, is sent by C. Rajagopalachari from his Bazlullah Road address in Tyagarayanagar, Madras, to Minoo Masani at 40 Canning Lane, New Delhi, with a copy directed to Bombay. Rajagopalachari tells Masani that he proposes to insert a paragraph in the 'Dear Reader' column of Swarajya to a stated effect, a copy of which is enclosed.
+
+He then suggests that a circular letter should go out to all branches — implicitly of the Swatantra Party — asking them to organise public meetings that would protest against the newly imposed taxes and express sympathy for the goldsmiths, a reference to the agitation triggered by the Gold Control regime of early 1963. A handwritten annotation in the margin, apparently by Masani or a member of his office, asks 'What do you think about it?', turning the note into an item for consultation before the circular goes out.
+
 ## Key points
 
 - Private letter from C. Rajagopalachari (Madras) to Minoo Masani (New Delhi), dated 5 March 1963, with a copy marked to Bombay.

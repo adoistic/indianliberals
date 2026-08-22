@@ -52,6 +52,12 @@ summary: |-
   The letter also refers to taxation policies, public cooperation, and the risk that cooperative efforts could be exploited. Shroff appears concerned about the effects of a new price rise and about the need to respond carefully to contemporary economic and policy pressures. The scan is difficult to read in several passages, especially on the second folded page; the summary therefore reflects only the legible portions.
 ---
 
+## Summary
+
+This handwritten letter from A. D. Shroff to Minoo Masani, dated 1 January 1966, opens with New Year greetings and good wishes to Professor Dandekar and Masani. Shroff then discusses a recent indication of the possible limits of India’s planning programme, arguing that concessions or accommodations should be approached cautiously and that there are sound reasons for doing so.
+
+The letter also refers to taxation policies, public cooperation, and the risk that cooperative efforts could be exploited. Shroff appears concerned about the effects of a new price rise and about the need to respond carefully to contemporary economic and policy pressures. The scan is difficult to read in several passages, especially on the second folded page; the summary therefore reflects only the legible portions.
+
 ## Key points
 
 - Shroff sends New Year greetings to Minoo Masani and conveys good wishes to Professor Dandekar.

@@ -50,6 +50,12 @@ summary: |-
   The second section addresses the Monopolies & Restrictive Trade Practices Bill. Dandekar summarizes Desai’s defence as an accusation that the Party displays gross hypocrisy by favouring monopolists while claiming sympathy for free enterprise, together with an assertion that Desai was defending small industrialists, farmers, and traders. Dandekar dismisses this defence, stating that Desai’s position misrepresented the Party and the Central Parliamentary Board. The visible pages do not provide the underlying notes or Desai’s full explanation; they present only Dandekar’s comments on them.
 ---
 
+## Summary
+
+In this two-page commentary, N. Dandekar rejects C. C. Desai’s explanation of his public opposition to the abolition of the Managing Agency system. Dandekar says Desai does not dispute that the Party’s Parliamentary Group and Central Parliamentary Board had adopted an opposing position, that Desai was denied permission to express contrary views during the Lok Sabha debate, and that he nevertheless continued publicly to advocate a position diametrically opposed to Party policy. The document characterizes this conduct as a breach of party discipline on a matter regarded as fundamental to the Party’s principles.
+
+The second section addresses the Monopolies & Restrictive Trade Practices Bill. Dandekar summarizes Desai’s defence as an accusation that the Party displays gross hypocrisy by favouring monopolists while claiming sympathy for free enterprise, together with an assertion that Desai was defending small industrialists, farmers, and traders. Dandekar dismisses this defence, stating that Desai’s position misrepresented the Party and the Central Parliamentary Board. The visible pages do not provide the underlying notes or Desai’s full explanation; they present only Dandekar’s comments on them.
+
 ## Key points
 
 - Dandekar disputes C. C. Desai’s account of his opposition to abolishing the Managing Agency system.

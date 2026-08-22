@@ -45,6 +45,10 @@ summary: |-
   This confidential letter, dated 13 November 1963, is M. R. Masani’s formal acknowledgment to Mr. Jimmy Mehta of a Rs. 5,000 contribution. Masani states that the money will be used for its intended purpose and thanks Mehta for his cooperation. The document is a single-page typed letter bearing Masani’s handwritten signature.
 ---
 
+## Summary
+
+This confidential letter, dated 13 November 1963, is M. R. Masani’s formal acknowledgment to Mr. Jimmy Mehta of a Rs. 5,000 contribution. Masani states that the money will be used for its intended purpose and thanks Mehta for his cooperation. The document is a single-page typed letter bearing Masani’s handwritten signature.
+
 ## Key points
 
 - The letter is dated 13 November 1963 and marked confidential.

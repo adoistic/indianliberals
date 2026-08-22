@@ -49,6 +49,12 @@ summary: |-
   Masani proposes that the Maharaja invite Bhabha to spend two days in Bhubaneswar in June, while warning that the committee’s expected duration and workload should be made clear. If Bhabha cannot be persuaded, Masani suggests H. P. Nanda or R. C. Cooper as alternative chairmen. The letter closes with Masani encouraging the Maharaja to correspond directly with Bhabha and promising to press the matter further after returning to Delhi.
 ---
 
+## Summary
+
+In this personal letter dated May 30, 1967, Minoo Masani writes to H. H. Maharaja R. N. Singh Deo, Chief Minister of Orissa, about recruiting Mr. Cooperji Bhabha to chair an important committee. Masani reports that Bhabha is reluctant because the assignment could require a three-month stay in Orissa, but suggests that Bhabha may be persuaded after consulting the Maharaja. Masani emphasizes Bhabha’s useful contacts with investors in India and abroad and his interest in helping Orissa.
+
+Masani proposes that the Maharaja invite Bhabha to spend two days in Bhubaneswar in June, while warning that the committee’s expected duration and workload should be made clear. If Bhabha cannot be persuaded, Masani suggests H. P. Nanda or R. C. Cooper as alternative chairmen. The letter closes with Masani encouraging the Maharaja to correspond directly with Bhabha and promising to press the matter further after returning to Delhi.
+
 ## Key points
 
 - Masani acknowledges the Maharaja’s letter and provides his new Delhi address.

@@ -50,6 +50,12 @@ summary: |-
   The letter then turns to political strategy. Rajagopalachari argues that the various opposition groups must overcome their separate identities and combine to defeat the Congress. He says the immediate political situation is becoming intolerable, observes that the Prime Minister and Finance Minister appear unconcerned by public criticism, and concludes that the Congress's defeat is not merely a matter of electoral merger but of its poor general performance.
 ---
 
+## Summary
+
+This handwritten letter, dated 16 December 1963, is from C. Rajagopalachari to Minoo Masani. Rajagopalachari praises Masani's speech on the Plan, saying that its criticism of the government's approach to industry had attracted widespread attention and that Masani had presented his case as a well-reasoned challenge. He also comments on his own ill health, describing himself as physically weak, nervous, and disinclined to undertake work, while expressing concern for Raja, whom he thinks may be frightened.
+
+The letter then turns to political strategy. Rajagopalachari argues that the various opposition groups must overcome their separate identities and combine to defeat the Congress. He says the immediate political situation is becoming intolerable, observes that the Prime Minister and Finance Minister appear unconcerned by public criticism, and concludes that the Congress's defeat is not merely a matter of electoral merger but of its poor general performance.
+
 ## Key points
 
 - Rajagopalachari commends Masani's speech criticizing the government's Plan and industrial policy.

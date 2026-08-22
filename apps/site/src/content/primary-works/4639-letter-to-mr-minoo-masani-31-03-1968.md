@@ -50,6 +50,12 @@ summary: |-
   The remainder of the letter is a detailed defence against accusations that Vaidya had assisted Masani and worked for Ravji Ravan, as well as a denial that he was the only communist member of the party. Vaidya complains that he was not given an opportunity to answer these allegations at a Swatantra Party meeting, and criticises the party’s office-bearers for withholding support and failing to explain opposition to his candidature. He closes by noting that Mr. Mahida had filed his nomination before the Central Parliamentary Board’s decision and that H. M. Patel had promised action that, as of the election day, had not occurred.
 ---
 
+## Summary
+
+This two-page typed carbon-copy letter, dated 31 March 1968 from Rajkot and signed “sd/ Babubhai Vaidya,” is addressed to Minoo Masani. Vaidya reports that, after consulting Babubhai Shah, he wrote to Rajaji about a requested payment of Rs. 3,000 to the party fund. He says he initially dismissed the demand as a practical joke, but later concluded that Shankarsinh—or “Sheikhaka”—held him responsible for failing to pay it. He also describes opposition from Dhol Thakore Saheb and Natwarsinhji Solanki, and alleges that most party colleagues promised support without taking action.
+
+The remainder of the letter is a detailed defence against accusations that Vaidya had assisted Masani and worked for Ravji Ravan, as well as a denial that he was the only communist member of the party. Vaidya complains that he was not given an opportunity to answer these allegations at a Swatantra Party meeting, and criticises the party’s office-bearers for withholding support and failing to explain opposition to his candidature. He closes by noting that Mr. Mahida had filed his nomination before the Central Parliamentary Board’s decision and that H. M. Patel had promised action that, as of the election day, had not occurred.
+
 ## Key points
 
 - The letter is dated 31 March 1968, sent from Rajkot, and addressed to Minoo Masani.

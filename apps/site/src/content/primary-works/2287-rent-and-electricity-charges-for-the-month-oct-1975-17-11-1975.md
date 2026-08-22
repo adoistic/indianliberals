@@ -45,6 +45,10 @@ summary: |-
   This two-page English office letter, issued on Swatantra Party, Maharashtra Division letterhead and dated 17 November 1975, is addressed to the Executive Secretary of the Bharatiya Lok Dal in Bombay. It records the rent and electricity expenses paid for October 1975 and requests payment of the recipient's 40 percent share.
 ---
 
+## Summary
+
+This two-page English office letter, issued on Swatantra Party, Maharashtra Division letterhead and dated 17 November 1975, is addressed to the Executive Secretary of the Bharatiya Lok Dal in Bombay. It records the rent and electricity expenses paid for October 1975 and requests payment of the recipient's 40 percent share.
+
 ## Key points
 
 - The communication is dated 17 November 1975.

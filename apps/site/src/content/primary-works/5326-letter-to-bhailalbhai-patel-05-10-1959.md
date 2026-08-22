@@ -51,6 +51,12 @@ summary: |-
   Masani also explains that he will be in Delhi from 14 October to attend a Select Committee meeting on the Companies Amendment Bill, and may not return to Bombay until the end of the month. The letter is a brief piece of correspondence concerning coordination, travel, higher-education administration, and legislative business.
 ---
 
+## Summary
+
+In this letter dated 5 October 1959, Minoo Masani writes to Bhailalbhai Patel after returning from Europe and asks to arrange a meeting. Masani notes Patel's continuing work for the University Grants Committee and proposes meeting either in Bombay or, if Patel is there between 14 and 23 October, in Delhi.
+
+Masani also explains that he will be in Delhi from 14 October to attend a Select Committee meeting on the Companies Amendment Bill, and may not return to Bombay until the end of the month. The letter is a brief piece of correspondence concerning coordination, travel, higher-education administration, and legislative business.
+
 ## Key points
 
 - The letter is dated 5 October 1959 and is signed by M. R. Masani.

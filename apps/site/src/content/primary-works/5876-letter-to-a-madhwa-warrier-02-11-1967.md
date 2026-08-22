@@ -50,6 +50,12 @@ summary: |-
   Warriar’s reply confirms plans for a Christmas Special issue of Swatantra Janatha Weekly, to be published in both languages, and asks Masani to send an article for inclusion at the earliest opportunity. The pages document a small but concrete instance of liberal political writing being circulated through a bilingual periodical network; they do not contain the enclosed speech itself.
 ---
 
+## Summary
+
+This three-page archival correspondence file contains Minoo Masani’s typed letter of November 2, 1967, an inland-letter envelope addressed to A. Madhava Warriar in Kerala, and Warriar’s handwritten reply. Masani acknowledges Warriar’s letter of October 25 and encloses the text of a Delhi speech titled “Must India Go the Vietnam Way?”, offering permission for it to be adapted into an article in English and Malayalam for the Christmas Special issue of Swatantra Janatha Weekly.
+
+Warriar’s reply confirms plans for a Christmas Special issue of Swatantra Janatha Weekly, to be published in both languages, and asks Masani to send an article for inclusion at the earliest opportunity. The pages document a small but concrete instance of liberal political writing being circulated through a bilingual periodical network; they do not contain the enclosed speech itself.
+
 ## Key points
 
 - Masani’s letter is dated November 2, 1967.

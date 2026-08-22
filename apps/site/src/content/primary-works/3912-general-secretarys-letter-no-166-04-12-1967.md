@@ -60,6 +60,12 @@ summary: |-
   The annexed resolutions address condolences, relief for victims of the Orissa cyclone, appreciation of the Orissa Government, the dismissal of the United Front ministry in West Bengal, and minority governments. The resolutions combine humanitarian appeals with a strongly federal and anti-Communist political position: the party asks for substantial central assistance for cyclone relief, praises Orissa’s administrative performance, criticises central interference in State governments, and endorses banning Communist parties. The circular ends with an annex listing the party’s elected National Executive for 1967–69.
 ---
 
+## Summary
+
+This Swatantra Party Central Office circular, dated December 4, 1967, reports decisions taken by the outgoing National Executive, the General Council, and the newly elected National Executive. It records the party’s decision to leave the Bombay, Maharashtra, and Mysore units free to respond to the Maha Jan Commission’s recommendations concerning the Maharashtra–Mysore boundary dispute. It also reports the election of new office-bearers, discussion of party organisation and Centre–State relations, representation for previously unrepresented States, constitution of a Central Parliamentary Board, and plans for a national convention in Orissa in May 1968.
+
+The annexed resolutions address condolences, relief for victims of the Orissa cyclone, appreciation of the Orissa Government, the dismissal of the United Front ministry in West Bengal, and minority governments. The resolutions combine humanitarian appeals with a strongly federal and anti-Communist political position: the party asks for substantial central assistance for cyclone relief, praises Orissa’s administrative performance, criticises central interference in State governments, and endorses banning Communist parties. The circular ends with an annex listing the party’s elected National Executive for 1967–69.
+
 ## Key points
 
 - The National Executive declined to take a position on the Maharashtra–Mysore boundary dispute, leaving the concerned State units free to decide how to respond to the Maha Jan Commission’s recommendations.

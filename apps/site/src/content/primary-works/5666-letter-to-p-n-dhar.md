@@ -50,6 +50,12 @@ summary: |-
   In the rendered pages, Goenka describes a later demand that the Chairman, Shri Shukla, receive exclusive administrative control over the editorial department, including the power to dismiss, appoint, transfer, and issue day-to-day instructions to editors. He rejects the proposal on legal and professional grounds, warns that submitting to it would damage editorial morale, credibility, and possibly the newspaper’s finances, and reports threats involving his family and detention under MISA. The letter is addressed to Shri P. N. Dhar and is signed by R.H. Goenka; no title or unambiguous date is visible on the supplied pages.
 ---
 
+## Summary
+
+In the rendered pages, R.H. Goenka recounts a dispute over editorial control within the Express Group of newspapers. He says that editorial-policy guidelines were agreed in November 1975, circulated to editors, and subsequently followed by the group’s papers. Goenka distinguishes between constructive criticism of the Government and what he regards as unconditional support, arguing that a newspaper loses credibility if it abandons independent judgment.
+
+In the rendered pages, Goenka describes a later demand that the Chairman, Shri Shukla, receive exclusive administrative control over the editorial department, including the power to dismiss, appoint, transfer, and issue day-to-day instructions to editors. He rejects the proposal on legal and professional grounds, warns that submitting to it would damage editorial morale, credibility, and possibly the newspaper’s finances, and reports threats involving his family and detention under MISA. The letter is addressed to Shri P. N. Dhar and is signed by R.H. Goenka; no title or unambiguous date is visible on the supplied pages.
+
 ## Key points
 
 - Goenka describes the formulation and circulation of editorial-policy guidelines for the Express Group.

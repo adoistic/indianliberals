@@ -59,6 +59,12 @@ summary: |-
   The remaining items address objections to new construction on Madras’s Island Grounds and speculate about the forthcoming presidential election. The editorial recommends that the Congress choose a candidate with broad personal standing and experience rather than one identified solely with the existing leadership. No author byline or issue contents are visible on the supplied page.
 ---
 
+## Summary
+
+The rendered page is the April 24, 1971 “Dear Reader” editorial page of Swarajya (printed p. 21). It argues that the international crisis surrounding Pakistan, Bangladesh, China, and the Kremlin requires firmer action from Western powers, while warning that delay strengthens China and prolongs suffering. The page also reports on the Swatantra Party’s effort to build a consolidated democratic opposition, criticises taxation and inflationary deficit financing, and endorses resistance to excessive state control over industry and urban development.
+
+The remaining items address objections to new construction on Madras’s Island Grounds and speculate about the forthcoming presidential election. The editorial recommends that the Congress choose a candidate with broad personal standing and experience rather than one identified solely with the existing leadership. No author byline or issue contents are visible on the supplied page.
+
 ## Key points
 
 - The page calls for stronger Western involvement in the Pakistan crisis and warns that delay benefits China.

@@ -51,6 +51,12 @@ summary: |-
   Mathai challenges the claim that Hindi represents a national majority, emphasizing that most Indians speak regional languages and that Hindi itself has competing forms, including Sanskritised, Persianised, colloquial, and Urdu varieties. He also makes a practical case: replacing English would make higher education and specialized technical knowledge difficult and costly to produce in regional languages. The essay concludes by connecting English with internationalism and calls for English-language societies and educational centres throughout India. The accompanying covering letter solicits paper or cash contributions for a wider circulation among educators, legislators, municipal councillors, and other public institutions.
 ---
 
+## Summary
+
+Isaac Mathai's essay argues that English should continue as India's common and international language rather than being displaced by Hindi. He presents English as a valuable inheritance of two centuries, linking Indians to accumulated knowledge, science, education, and communication across a country divided by regional languages, religions, and communities. The essay portrays the choice as one affecting future generations and criticizes politicians who, in Mathai's view, disregard the preferences of educators, universities, parents, and other institutions for short-term political advantage.
+
+Mathai challenges the claim that Hindi represents a national majority, emphasizing that most Indians speak regional languages and that Hindi itself has competing forms, including Sanskritised, Persianised, colloquial, and Urdu varieties. He also makes a practical case: replacing English would make higher education and specialized technical knowledge difficult and costly to produce in regional languages. The essay concludes by connecting English with internationalism and calls for English-language societies and educational centres throughout India. The accompanying covering letter solicits paper or cash contributions for a wider circulation among educators, legislators, municipal councillors, and other public institutions.
+
 ## Key points
 
 - English is presented as an inherited resource containing accumulated wisdom, knowledge, and experience.

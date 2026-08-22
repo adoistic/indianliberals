@@ -50,6 +50,12 @@ summary: |-
   To resolve the disagreement, both factions have agreed to appoint Masani — explicitly invoked as a Founder of the Party — as sole Arbitrator with summary powers, and to be bound by his decision. The letter notes that the opposing side themselves suggested Masani's name, which Kejriwal and Munshi have accepted, and it asks him to spare the time and look forward to an early reply.
 ---
 
+## Summary
+
+This one-page letter, dated 1 April 1977 and signed on 4 April 1977 on Bharatiya Vidya Bhavan letterhead (Kulapati K. M. Munshi Marg, Chowpatty, Bombay-7), is addressed to Minoo Masani by Parmanand Kejriwal and Girish K. Munshi. It documents an internal dispute within the Maharashtra unit of the Swatantra Party over the permissible uses of the party's properties and assets. Some members hold that these assets are trust property and may be deployed only for purposes outlined in the party's Constitution, while the signatories take the contrary view.
+
+To resolve the disagreement, both factions have agreed to appoint Masani — explicitly invoked as a Founder of the Party — as sole Arbitrator with summary powers, and to be bound by his decision. The letter notes that the opposing side themselves suggested Masani's name, which Kejriwal and Munshi have accepted, and it asks him to spare the time and look forward to an early reply.
+
 ## Key points
 
 - Correspondence dated 1 April 1977 on Bharatiya Vidya Bhavan letterhead, signed 4 April 1977 by Parmanand Kejriwal and Girish K. Munshi and addressed to Minoo Masani.

@@ -45,6 +45,10 @@ summary: |-
   In this typed letter dated 5 March 1971, M. R. Masani thanks Harish for spending a month in Gondal away from his work and family. Masani says that Harish performed an excellent job and notes that Maniben would have appreciated his presence.
 ---
 
+## Summary
+
+In this typed letter dated 5 March 1971, M. R. Masani thanks Harish for spending a month in Gondal away from his work and family. Masani says that Harish performed an excellent job and notes that Maniben would have appreciated his presence.
+
 ## Key points
 
 - Masani expresses personal appreciation for Harish's month-long work in Gondal.

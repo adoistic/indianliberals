@@ -52,6 +52,12 @@ summary: |-
   The committee also discussed the Bank Nationalisation Bill and agreed that members should submit amendments to a sub-committee rather than table individual amendments. Minoo Masani was asked to speak on the Bill on behalf of the party. The minutes further record opposition to Jag Sangh’s “Indianisation” slogan, directions concerning amendments to the Finance Bill, and the Leader’s responsibility for finalising the party’s nominee to the Technical Education Committee.
 ---
 
+## Summary
+
+This one-page memorandum records the Swatantra Parliamentary Party Executive Committee meeting held in New Delhi on 2 March 1970, with the minutes dated 3 March. Chaired by Prof. N. G. Ranga, the meeting reviewed opposition-party discussions concerning amendments to the motion of thanks on the President’s Address. The committee decided that democratic parties should support amendments on Ganganagar firing, the economic situation, law and order, and China, while noting that two of these amendments would be moved by the Congress Opposition and one by the Swatantra Party.
+
+The committee also discussed the Bank Nationalisation Bill and agreed that members should submit amendments to a sub-committee rather than table individual amendments. Minoo Masani was asked to speak on the Bill on behalf of the party. The minutes further record opposition to Jag Sangh’s “Indianisation” slogan, directions concerning amendments to the Finance Bill, and the Leader’s responsibility for finalising the party’s nominee to the Technical Education Committee.
+
 ## Key points
 
 - The Executive Committee met at the party room at 12:45 p.m. on 2 March 1970.

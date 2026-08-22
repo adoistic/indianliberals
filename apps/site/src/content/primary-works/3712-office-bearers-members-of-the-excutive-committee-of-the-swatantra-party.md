@@ -52,6 +52,12 @@ summary: |-
   The later pages map the party’s territorial organization across Bombay, Poona, Sholapur, Osmanabad, and Aurangabad districts. They enumerate district committee members, past presidents, district-level presidents, vice-presidents, and secretaries, followed by officers of primary units including Colaba, Dhobi Talao, Walkeshwar, Mazagaon, Matunga, Mahim, Bandra, Santa Cruz, Vile Parle, and Kurla. The document is therefore primarily a roster and organizational directory rather than a statement of political argument; its significance lies in documenting the party’s personnel, geographic reach, and internal administrative structure in Maharashtra.
 ---
 
+## Summary
+
+This nine-page English-language administrative report records the Maharashtra organization of the Swatantra Party in 1973. It begins with the party’s executive committee office-bearers, listing the president, vice-presidents, general secretary, joint secretaries, treasurer, and committee members, together with their addresses and telephone numbers. The document also identifies eight Maharashtra members of the party’s General Council and lists members elected to the Maharashtra State Council, dated 17 November 1973.
+
+The later pages map the party’s territorial organization across Bombay, Poona, Sholapur, Osmanabad, and Aurangabad districts. They enumerate district committee members, past presidents, district-level presidents, vice-presidents, and secretaries, followed by officers of primary units including Colaba, Dhobi Talao, Walkeshwar, Mazagaon, Matunga, Mahim, Bandra, Santa Cruz, Vile Parle, and Kurla. The document is therefore primarily a roster and organizational directory rather than a statement of political argument; its significance lies in documenting the party’s personnel, geographic reach, and internal administrative structure in Maharashtra.
+
 ## Key points
 
 - Lists the Maharashtra executive committee of the Swatantra Party, including its principal office-bearers and committee members.

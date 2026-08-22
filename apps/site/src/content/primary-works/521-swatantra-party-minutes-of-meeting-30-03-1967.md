@@ -54,6 +54,12 @@ summary: |-
   The minutes focus on parliamentary organisation and committee work. The committee resolved that the Leader should ask the Prime Minister and the Minister for Parliamentary Affairs to replace informal consultative committees with smaller, more serious committees capable of sustained work. It approved nominations to the Public Accounts, Public Undertakings, and Estimates Committees, recorded a dissent concerning the proposed chairmanship of the Public Accounts Committee, and sought a negotiated withdrawal of a Jan Sangh nomination in favour of Swatantra member Mr. Muthuswamy. The secretaries were instructed to prepare a scheme and budget for the Parliamentary Office before the next Executive Committee meeting.
 ---
 
+## Summary
+
+These two pages record the Swatantra Party Parliamentary Group Executive Committee meeting held on 30 March 1967 in the Party Committee Room, Parliament House. Chaired by M. R. Masani, the meeting was attended by eight members and decided to convene a General Body meeting on 1 April to discuss general problems. Members were also asked to indicate the subjects in which they wished to specialise.
+
+The minutes focus on parliamentary organisation and committee work. The committee resolved that the Leader should ask the Prime Minister and the Minister for Parliamentary Affairs to replace informal consultative committees with smaller, more serious committees capable of sustained work. It approved nominations to the Public Accounts, Public Undertakings, and Estimates Committees, recorded a dissent concerning the proposed chairmanship of the Public Accounts Committee, and sought a negotiated withdrawal of a Jan Sangh nomination in favour of Swatantra member Mr. Muthuswamy. The secretaries were instructed to prepare a scheme and budget for the Parliamentary Office before the next Executive Committee meeting.
+
 ## Key points
 
 - The Executive Committee met on 30 March 1967 at Parliament House, with M. R. Masani in the chair.

@@ -55,6 +55,12 @@ summary: |-
   The record also addresses organisational difficulties in Kerala, proposing a review by the Central Organising Committee and consultations with zonal committees. It postpones consideration of a state-wide Kerala convention until November, allowing time to assess whether the party should contest the state Assembly elections in early 1965. The committee further scheduled forthcoming meetings in Bombay between late June and 1 July.
 ---
 
+## Summary
+
+These two pages record the 17 May 1964 meeting of the Swatantra Party’s Organisation Sub-Committee in Madras, chaired by Prof. N. G. Ranga, with C. Rajagopalachari and M. R. Masani present. The committee confirmed the previous meeting’s minutes and prepared recommendations for the Central Organising Committee concerning the appointment of the party’s vice-presidents to organisational and parliamentary roles. It also considered constitutional amendments, including the rights and obligations of Life Members who undertake party work, and clarified their eligibility to hold office and vote.
+
+The record also addresses organisational difficulties in Kerala, proposing a review by the Central Organising Committee and consultations with zonal committees. It postpones consideration of a state-wide Kerala convention until November, allowing time to assess whether the party should contest the state Assembly elections in early 1965. The committee further scheduled forthcoming meetings in Bombay between late June and 1 July.
+
 ## Key points
 
 - The Organisation Sub-Committee met in Madras on 17 May 1964, with Prof. N. G. Ranga in the chair and C. Rajagopalachari and M. R. Masani present.

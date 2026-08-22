@@ -49,6 +49,10 @@ summary: |-
   This seven-page archival correspondence file, dated August–September 1967, concerns invitations and responses related to the inaugural national convention of the Bhartiya Kranti Dal at Indore. Rameshwardayal M. Totala asks N. Dandekar to contribute an article to a souvenir and outlines the proposed symposium theme: “Future of Political Parties in India. Will Democracy survive? Whether the cause of Democratic can be helped?” A subsequent letter invites Dandekar to write on “Foreign Policy under Congress Rule,” while the final reply, dated 4 September, declines the request because of illness, heavy work pressure, and an impending operation.
 ---
 
+## Summary
+
+This seven-page archival correspondence file, dated August–September 1967, concerns invitations and responses related to the inaugural national convention of the Bhartiya Kranti Dal at Indore. Rameshwardayal M. Totala asks N. Dandekar to contribute an article to a souvenir and outlines the proposed symposium theme: “Future of Political Parties in India. Will Democracy survive? Whether the cause of Democratic can be helped?” A subsequent letter invites Dandekar to write on “Foreign Policy under Congress Rule,” while the final reply, dated 4 September, declines the request because of illness, heavy work pressure, and an impending operation.
+
 ## Key points
 
 - The file records Bhartiya Kranti Dal convention correspondence from August and September 1967.

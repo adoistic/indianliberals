@@ -47,6 +47,10 @@ summary: |-
   This one-page English letter, dated April 15, 1977, is from Girish K. Munshi to K.H. Subramanian, L.R. Sampat, and S.V. Raju. Munshi refers to an intended suit against Messrs. Barot & Co. concerning premises allegedly occupied illegally by the company or individual concerned.
 ---
 
+## Summary
+
+This one-page English letter, dated April 15, 1977, is from Girish K. Munshi to K.H. Subramanian, L.R. Sampat, and S.V. Raju. Munshi refers to an intended suit against Messrs. Barot & Co. concerning premises allegedly occupied illegally by the company or individual concerned.
+
 ## Key points
 
 - The letter is dated April 15, 1977, and was issued on Bharatiya Vidya Bhavan letterhead in Bombay.

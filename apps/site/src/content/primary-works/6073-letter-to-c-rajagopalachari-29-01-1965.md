@@ -49,6 +49,12 @@ summary: |-
   The visible page documents an organisational outreach effort connecting a Bombay public meeting with Rajagopalachari. The organisation named on the letterhead is obscured; only “Bombay Region” and a reference number are legible. No further context about the organisation, the meeting’s agenda, or Rajaji’s response is present in the rendered document.
 ---
 
+## Summary
+
+This one-page letter, dated 23 January 1965, is sent from the Bombay Region to C. Rajagopalachari (“Rajaji”). Madhu N. Mehta, identified as General Secretary, reports that a public meeting is proposed in a Muslim area approximately two days after Eid and asks Rajaji to send a special message for the occasion. The letter notes that Eid falls on 4 February and that the meeting is tentatively scheduled for 6 February.
+
+The visible page documents an organisational outreach effort connecting a Bombay public meeting with Rajagopalachari. The organisation named on the letterhead is obscured; only “Bombay Region” and a reference number are legible. No further context about the organisation, the meeting’s agenda, or Rajaji’s response is present in the rendered document.
+
 ## Key points
 
 - The letter is dated 23 January 1965 and is sent from Bombay Region.

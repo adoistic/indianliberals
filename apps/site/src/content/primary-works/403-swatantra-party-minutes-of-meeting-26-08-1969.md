@@ -52,6 +52,12 @@ summary: |-
   The minutes note a brief discussion of the recent Presidential election and its effects on the country’s political situation. Members decided that a whip should be issued asking Party legislators to attend the House from 26 August, for specified daily hours, because of continuing political uncertainty. The Party also expressed gratitude to C. D. Deshmukh for consenting to stand as a candidate in the Presidential election. The document is an administrative record rather than a developed political argument.
 ---
 
+## Summary
+
+This one-page record, issued by the Swatantra Party Parliamentary Office in New Delhi on 26 August 1969, records a meeting of the Party’s General Body in Parliament. It lists 29 attendees, including N. G. Ranga, Minoo Masani, Y. G. Gokhale, H. M. Patel, B. Shiva Rao, and others.
+
+The minutes note a brief discussion of the recent Presidential election and its effects on the country’s political situation. Members decided that a whip should be issued asking Party legislators to attend the House from 26 August, for specified daily hours, because of continuing political uncertainty. The Party also expressed gratitude to C. D. Deshmukh for consenting to stand as a candidate in the Presidential election. The document is an administrative record rather than a developed political argument.
+
 ## Key points
 
 - The meeting was held by the Swatantra Party’s General Body in Parliament on 25 August 1969.

@@ -52,6 +52,12 @@ summary: |-
   The letter also proposes a constitutional and agrarian campaign against Constitution Amendment Bill (17). Ranga asks Masani to consult eminent lawyers about state legislators tabling resolutions against the bill and urging the Union Government to withdraw it. He further suggests that peasants in ryotwari areas send protest postcards to the Secretary, Lok Sabha, arguing that pattadars should not be treated like intermediary rent-collecting zamindars and inamdars. The letter closes by opposing penalties affecting large numbers of pattadars across several Indian states, ostensibly in response to a limited number of cases in Kasaragod.
 ---
 
+## Summary
+
+This one-page letter, dated 19 June 1963 and addressed to Minoo Masani, argues that Dr. Lohia’s proposed no-confidence motion risks weakening rather than strengthening the democratic opposition. N. G. Ranga recommends that nationally organised democratic parties meet before the parliamentary session, agree on issues and criticisms, and present a coordinated opposition to the public.
+
+The letter also proposes a constitutional and agrarian campaign against Constitution Amendment Bill (17). Ranga asks Masani to consult eminent lawyers about state legislators tabling resolutions against the bill and urging the Union Government to withdraw it. He further suggests that peasants in ryotwari areas send protest postcards to the Secretary, Lok Sabha, arguing that pattadars should not be treated like intermediary rent-collecting zamindars and inamdars. The letter closes by opposing penalties affecting large numbers of pattadars across several Indian states, ostensibly in response to a limited number of cases in Kasaragod.
+
 ## Key points
 
 - Ranga objects to Dr. Lohia’s proposed no-confidence motion as a potentially divisive opposition tactic.

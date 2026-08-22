@@ -55,6 +55,12 @@ summary: |-
   The committee discussed the Members Salaries and Allowances Bill and decided that Minoo Masani should move an amendment referring the Bill to an impartial quasi-judicial body. The record also states that, if the amendment failed, members would be free to vote according to their conscience on Clause III, while supporting a separate amendment by Prof. N. G. Ranga concerning restrictions on members’ journeys. A second decision left the Party Leader to choose speakers on the Central Sales Tax Act and an amendment relating to the Life Insurance Corporation, with rules to be tabled by Shri Prakash Vir Shastri. The page records the meeting’s decisions but does not provide substantive debate or voting results.
 ---
 
+## Summary
+
+This one-page English office record, issued by the Swatantra Party Parliamentary Office in New Delhi on July 30, 1969, records a meeting of the Party’s Parliamentary Executive Committee held on April 28, 1969. It lists nine members present, including Minoo Masani, C. C. Desai, J. M. Irani, Piloo Mody, and D. N. Patodia.
+
+The committee discussed the Members Salaries and Allowances Bill and decided that Minoo Masani should move an amendment referring the Bill to an impartial quasi-judicial body. The record also states that, if the amendment failed, members would be free to vote according to their conscience on Clause III, while supporting a separate amendment by Prof. N. G. Ranga concerning restrictions on members’ journeys. A second decision left the Party Leader to choose speakers on the Central Sales Tax Act and an amendment relating to the Life Insurance Corporation, with rules to be tabled by Shri Prakash Vir Shastri. The page records the meeting’s decisions but does not provide substantive debate or voting results.
+
 ## Key points
 
 - The document is an official Swatantra Party Parliamentary Office record dated July 30, 1969.

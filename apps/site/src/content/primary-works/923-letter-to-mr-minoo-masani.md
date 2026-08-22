@@ -50,6 +50,12 @@ summary: |-
   The letter presents the party as having offered economic alternatives to the government while failing to provide the clear and spirited leadership that its supporters expect. Satagopan urges Masani to reconsider his decision, resume an active role, and help rebuild the organisation in accordance with the wishes of its workers and the memory of the late Rajaji. The surviving two-page scan contains the complete letter, though portions of the handwriting and the date are difficult to read.
 ---
 
+## Summary
+
+This undated-title letter, apparently written by D. Satagopan to M. R. Masani in late November 1963, discusses the recent merger affecting their political party. Satagopan argues that the merger has damaged the party’s morale, organisational structure, and democratic functioning, and that many members regard it as a surrender to a “monolithic congress.” He also criticises the absence of a common programme as having weakened the broader alliance.
+
+The letter presents the party as having offered economic alternatives to the government while failing to provide the clear and spirited leadership that its supporters expect. Satagopan urges Masani to reconsider his decision, resume an active role, and help rebuild the organisation in accordance with the wishes of its workers and the memory of the late Rajaji. The surviving two-page scan contains the complete letter, though portions of the handwriting and the date are difficult to read.
+
 ## Key points
 
 - The writer believes a recent party merger has weakened morale and damaged the party’s organisational framework.

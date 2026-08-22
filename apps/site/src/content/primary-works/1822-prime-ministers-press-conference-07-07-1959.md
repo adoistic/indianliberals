@@ -59,6 +59,12 @@ summary: |-
   The transcript also addresses allegations of corruption, administrative inefficiency, judicial and ministerial conduct, and the proposal that judges should contest elections on a Congress ticket. The Prime Minister distinguishes criticism of Congress from direct accusations of corruption, argues that administrative delays are a broader problem rather than a partisan one, and praises the efficiency of the Madras and Bombay state governments while acknowledging that no government is free of failures. The pages end with a warning that the Swatantra Party's political and economic positions should be taken seriously, but not accepted uncritically.
 ---
 
+## Summary
+
+This three-page document reproduces extracts from the Prime Minister's question-and-answer press conference at Vigyan Bhavan on July 7, 1959. The discussion focuses on the newly formed Swatantra Party, its relationship to Congress, and the Prime Minister's assessment of C. Rajagopalachari (Rajaji). He says he welcomes the party as a means of encouraging public discussion and a “live democracy,” while criticizing what he regards as its narrow economic programme and its attachment to ideas associated with the nineteenth century.
+
+The transcript also addresses allegations of corruption, administrative inefficiency, judicial and ministerial conduct, and the proposal that judges should contest elections on a Congress ticket. The Prime Minister distinguishes criticism of Congress from direct accusations of corruption, argues that administrative delays are a broader problem rather than a partisan one, and praises the efficiency of the Madras and Bombay state governments while acknowledging that no government is free of failures. The pages end with a warning that the Swatantra Party's political and economic positions should be taken seriously, but not accepted uncritically.
+
 ## Key points
 
 - The Prime Minister welcomes the Swatantra Party as an additional political force and as a possible contribution to democratic debate.

@@ -48,6 +48,12 @@ summary: |-
   The attached two-page schedule records Masani’s proposed travel by air and road during January 1967. The itinerary includes engagements or stays in Jaipur, Delhi, Lucknow, Patna, Ranchi, Calcutta, Bhubaneswar, Bombay, Rajkot, Bangalore, Chittoor, Madras, and Hyderabad, with flight numbers and named hotels or guest houses where applicable. Handwritten corrections and cancellations indicate that the circulated programme was revised during planning.
 ---
 
+## Summary
+
+Central Office Circular No. 56, dated December 17, 1966, is a Swatantra Party communication enclosing the tentative January 1967 itinerary of its General Secretary, M. R. Masani. Addressed generically as “Dear Friend,” the circular notes that the programme is subject to last-minute changes and is signed by V. P. Bhatia on behalf of the Central Office.
+
+The attached two-page schedule records Masani’s proposed travel by air and road during January 1967. The itinerary includes engagements or stays in Jaipur, Delhi, Lucknow, Patna, Ranchi, Calcutta, Bhubaneswar, Bombay, Rajkot, Bangalore, Chittoor, Madras, and Hyderabad, with flight numbers and named hotels or guest houses where applicable. Handwritten corrections and cancellations indicate that the circulated programme was revised during planning.
+
 ## Key points
 
 - The document is Central Office Circular No. 56 of the Swatantra Party, dated December 17, 1966.

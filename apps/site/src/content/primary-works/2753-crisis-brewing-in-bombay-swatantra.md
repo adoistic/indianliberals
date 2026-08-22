@@ -50,6 +50,12 @@ summary: |-
   The report describes Minoo Masani’s alternative proposal: reorganising the Swatantra Party as a service organisation while allowing electoral and parliamentary activity to be conducted through a new multi-party opposition. Masani argues that this would provide a credible national alternative to Congress, while preserving the Swatantra Party’s principles and enabling cooperation among like-minded parties. The clipping concludes that the proposal had been accepted in principle, but that its adoption at the Delhi convention could end the party in its existing form. Page 2 is a separate Hindi document or reverse-side scan and is not treated as part of this article.
 ---
 
+## Summary
+
+This newspaper clipping reports a developing internal crisis in the Swatantra Party’s Bombay unit, which has opposed a proposal to merge the party into a broader multi-party opposition. The Maharashtra organisation has rejected the proposal and demanded that the Swatantra Party continue as a separate entity; the clipping says the Madras and Delhi units have also opposed the merger. It identifies Piloo Mody as defending the party’s position and notes that a national convention was expected in New Delhi in August.
+
+The report describes Minoo Masani’s alternative proposal: reorganising the Swatantra Party as a service organisation while allowing electoral and parliamentary activity to be conducted through a new multi-party opposition. Masani argues that this would provide a credible national alternative to Congress, while preserving the Swatantra Party’s principles and enabling cooperation among like-minded parties. The clipping concludes that the proposal had been accepted in principle, but that its adoption at the Delhi convention could end the party in its existing form. Page 2 is a separate Hindi document or reverse-side scan and is not treated as part of this article.
+
 ## Key points
 
 - The article reports a major crisis within the Swatantra Party, particularly in its Bombay and Maharashtra unit.

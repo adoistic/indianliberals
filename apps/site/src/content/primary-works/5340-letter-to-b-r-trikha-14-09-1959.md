@@ -47,6 +47,12 @@ summary: |-
   The document is a brief administrative reply rather than an argumentative or political text. The date at the upper right is visibly incomplete or indistinct, appearing to begin with “14th”; no reliable year is printed on the page. The letter is signed by hand above the typed name of Miss B.S. Mirza.
 ---
 
+## Summary
+
+This one-page English office letter is an acknowledgment addressed to Mr. B.R. Trikha of the District Courts, Meerut. Miss B.S. Mirza, identified as secretary to M.R. Masani, explains that Masani is currently outside India and expected to return around 6 October. She states that Trikha's letter of the 12th will be placed before Masani upon his arrival.
+
+The document is a brief administrative reply rather than an argumentative or political text. The date at the upper right is visibly incomplete or indistinct, appearing to begin with “14th”; no reliable year is printed on the page. The letter is signed by hand above the typed name of Miss B.S. Mirza.
+
 ## Key points
 
 - The letter is addressed to Mr. B.R. Trikha at the District Courts, Meerut.

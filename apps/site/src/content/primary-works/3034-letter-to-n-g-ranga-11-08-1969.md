@@ -51,6 +51,12 @@ summary: |-
   Masani’s immediate concern is not whether Desai was justified in making his remarks, but whether he would be a suitable spokesperson for the Swatantra Party when the Bill is debated. He notes that Desai’s later dissent reflects “a considerable improvement in his thinking,” yet argues that the choice requires careful consideration because other party members are available whose views are more closely aligned with the party’s own thinking.
 ---
 
+## Summary
+
+In this letter dated 11 August 1969, M. R. Masani writes from New Delhi to Prof. N. G. Ranga about the forthcoming Lok Sabha discussion of the Monopolies Bill. He directs Ranga to the evidence before the Joint Select Committee, especially passages on pages 77 and 103 of Volume I and page 240 of Volume II, and draws attention to C. C. Desai’s testimony and subsequent dissenting minute.
+
+Masani’s immediate concern is not whether Desai was justified in making his remarks, but whether he would be a suitable spokesperson for the Swatantra Party when the Bill is debated. He notes that Desai’s later dissent reflects “a considerable improvement in his thinking,” yet argues that the choice requires careful consideration because other party members are available whose views are more closely aligned with the party’s own thinking.
+
 ## Key points
 
 - The letter concerns the forthcoming Lok Sabha discussion of the Monopolies Bill.

@@ -48,6 +48,12 @@ summary: |-
   Masani notes that he may be unavailable during the last week of April but expects to be in the area during the first days of May. He asks Koppiker to contact him at his office on Monday 15 April or Tuesday 16 April to arrange a convenient date for the meeting. The letter does not identify the party by name.
 ---
 
+## Summary
+
+In this untitled letter dated 11 April 1968, M. R. Masani thanks P. S. Koppiker for his concern and says he is willing to explain the facts and motivation behind his resignation from the Party’s National Executive and Central Parliamentary Board. He proposes making that explanation to members of the Regional Council in Bombay later in April.
+
+Masani notes that he may be unavailable during the last week of April but expects to be in the area during the first days of May. He asks Koppiker to contact him at his office on Monday 15 April or Tuesday 16 April to arrange a convenient date for the meeting. The letter does not identify the party by name.
+
 ## Key points
 
 - The letter is dated 11 April 1968 and is sent from 2 Tughlak Road, New Delhi.

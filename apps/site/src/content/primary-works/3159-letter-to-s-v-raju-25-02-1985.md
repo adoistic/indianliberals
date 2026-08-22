@@ -49,6 +49,12 @@ summary: |-
   Patel also refers Raju to a Ph.D. thesis on the Swatantra Party by Prof. P. D. Sharma. He explains that he had declined to provide financial help for its publication because he found the thesis neither particularly good nor well written, but suggests that Raju inspect the large typewritten volume when visiting Ahmedabad.
 ---
 
+## Summary
+
+In this letter dated 25 February 1985, H. M. Patel responds to S. V. Raju’s plan to write a history of the Swatantra Party. Patel offers practical assistance and recommends that Raju visit him to examine the bundles of files and papers he has preserved on the Gujarat Swatantra Party.
+
+Patel also refers Raju to a Ph.D. thesis on the Swatantra Party by Prof. P. D. Sharma. He explains that he had declined to provide financial help for its publication because he found the thesis neither particularly good nor well written, but suggests that Raju inspect the large typewritten volume when visiting Ahmedabad.
+
 ## Key points
 
 - The letter is dated 25 February 1985 and is written by H. M. Patel to S. V. Raju.

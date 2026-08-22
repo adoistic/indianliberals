@@ -46,6 +46,10 @@ summary: |-
   A one-page typed letter dated 27 February 1971 from H. J. Dhebar, writing from Harihar Society, Tul Jay-Plot 42-A, Rajkot, and addressed jointly to "Respected Shri Masani Saheb" and "Respected Shri Kalyanibhai". The letter is procedural: Dhebar reports that he is enclosing a short account of the work he did on the addressees' behalf between 15 February and 27 February 1971, and closes with a personal benediction wishing them electoral success "with thumping majority" — language that places the letter squarely in the run-up to the March 1971 Lok Sabha general election, in which Masani was defending his Rajkot seat for the Swatantra Party. The enclosed report itself is not part of the rendered pages; only the cover letter survives here.
 ---
 
+## Summary
+
+A one-page typed letter dated 27 February 1971 from H. J. Dhebar, writing from Harihar Society, Tul Jay-Plot 42-A, Rajkot, and addressed jointly to "Respected Shri Masani Saheb" and "Respected Shri Kalyanibhai". The letter is procedural: Dhebar reports that he is enclosing a short account of the work he did on the addressees' behalf between 15 February and 27 February 1971, and closes with a personal benediction wishing them electoral success "with thumping majority" — language that places the letter squarely in the run-up to the March 1971 Lok Sabha general election, in which Masani was defending his Rajkot seat for the Swatantra Party. The enclosed report itself is not part of the rendered pages; only the cover letter survives here.
+
 ## Key points
 
 - Handwritten date on the letterhead reads 27-2-71; the reporting period Dhebar describes spans 15-2-71 to 27-2-71.

@@ -51,6 +51,12 @@ summary: |-
   Sanghavi concludes that money power had little value in the election and records regret at the failure of M. R. Masani. Pages 2 and 3 continue in Gujarati; the handwriting is only partially legible in the rendered images, so the summary does not characterize that portion beyond noting its presence.
 ---
 
+## Summary
+
+This handwritten letter, dated 12 March 1971 and sent from Rajkot by S. T. Sanghavi to Mr. Masani, reports on shortcomings observed in a recent election. Sanghavi states that voters' slips were not distributed in many wards because there were too few workers to bring voters to the polling station. The letter also comments on uneven turnout: Muslim-community voters and residents of the city's larger buildings came out in substantial numbers, while many other city dwellers did not vote solidly.
+
+Sanghavi concludes that money power had little value in the election and records regret at the failure of M. R. Masani. Pages 2 and 3 continue in Gujarati; the handwriting is only partially legible in the rendered images, so the summary does not characterize that portion beyond noting its presence.
+
 ## Key points
 
 - The letter reports that voter slips were not distributed in many wards.

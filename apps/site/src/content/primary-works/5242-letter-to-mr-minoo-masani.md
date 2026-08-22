@@ -46,6 +46,10 @@ summary: |-
   This one-page English letter from H. S. Dwivedi, an advocate in Gwalior, is addressed to Minoo Masani. Dwivedi explains that he could not attend the Swatantra Party convention in Bombay, but that Shri Purankiji attended on behalf of their organisation. He expresses strong interest in organising the Swatantra Party in the Gwalior region and notes that several influential people associated with Masani have approached him about his role in the party.
 ---
 
+## Summary
+
+This one-page English letter from H. S. Dwivedi, an advocate in Gwalior, is addressed to Minoo Masani. Dwivedi explains that he could not attend the Swatantra Party convention in Bombay, but that Shri Purankiji attended on behalf of their organisation. He expresses strong interest in organising the Swatantra Party in the Gwalior region and notes that several influential people associated with Masani have approached him about his role in the party.
+
 ## Key points
 
 - Dwivedi apologises for missing the Swatantra Party convention in Bombay because of a prior engagement.

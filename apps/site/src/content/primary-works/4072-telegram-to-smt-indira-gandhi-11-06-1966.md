@@ -49,6 +49,10 @@ summary: |-
   This one-page telegram, sent by Minoo Masani to Prime Minister Indira Gandhi from Bangalore on June 11, 1966, concerns the scheduling of a meeting in New Delhi. Masani regrets that no plane is available to reach Delhi on the 13th after completing public engagements on the evening of the 12th.
 ---
 
+## Summary
+
+This one-page telegram, sent by Minoo Masani to Prime Minister Indira Gandhi from Bangalore on June 11, 1966, concerns the scheduling of a meeting in New Delhi. Masani regrets that no plane is available to reach Delhi on the 13th after completing public engagements on the evening of the 12th.
+
 ## Key points
 
 - Minoo Masani apologises for being unable to reach Delhi on June 13.

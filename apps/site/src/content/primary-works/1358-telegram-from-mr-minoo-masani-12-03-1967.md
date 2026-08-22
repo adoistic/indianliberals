@@ -48,6 +48,12 @@ summary: |-
   The document identifies Masani's address as the Swatantra Party office at 143 Mahatma Gandhi Road, Bombay 1. The heading states that the express telegram was sent on March 12, while the confirmation-copy line appears to read “March 1, 1967,” creating a date discrepancy that requires further verification.
 ---
 
+## Summary
+
+This single-page English confirmation copy records an express telegram from Minoo Masani to Prime Minister Indira Gandhi, requesting an appointment for an informal discussion. Masani proposes Tuesday the fourteenth as a convenient date and notes that he will be at his estate from Monday evening, asking Gandhi to reply by telegram.
+
+The document identifies Masani's address as the Swatantra Party office at 143 Mahatma Gandhi Road, Bombay 1. The heading states that the express telegram was sent on March 12, while the confirmation-copy line appears to read “March 1, 1967,” creating a date discrepancy that requires further verification.
+
 ## Key points
 
 - A confirmation copy of an express telegram sent by Minoo Masani is dated 1967.

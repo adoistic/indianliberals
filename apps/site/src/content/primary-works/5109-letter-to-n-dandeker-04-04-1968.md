@@ -49,6 +49,12 @@ summary: |-
   The letter frames the proposed meeting as a means of enabling the Swatantra Party to close ranks and resume united work under the leadership of its respected leaders. It is a brief piece of internal party correspondence focused on organisational crisis, collective decision-making, and party unity.
 ---
 
+## Summary
+
+This one-page English letter, dated 4 April 1968 and written from Berhampur, Orissa, is addressed by Satyavaraya Padhy, an advocate, to N. Dandeker, M.P., General Secretary of the Swatantra Party. Padhy requests that an emergency meeting of the party's General Council be called to discuss Minoo Masani's resignation from the National Executive and the Central Parliamentary Board.
+
+The letter frames the proposed meeting as a means of enabling the Swatantra Party to close ranks and resume united work under the leadership of its respected leaders. It is a brief piece of internal party correspondence focused on organisational crisis, collective decision-making, and party unity.
+
 ## Key points
 
 - The letter is dated 4 April 1968 and originates from Berhampur, Orissa.

@@ -48,6 +48,10 @@ summary: |-
   This one-page English letter, dated 2 April 1968, is addressed by R.V. Murthy to N. Dandekar, General Secretary of the Swatantra Party. Murthy requests an emergency meeting of the party's General Council to discuss Mr. Masani's resignation from the National Executive and the Central Parliamentary Board.
 ---
 
+## Summary
+
+This one-page English letter, dated 2 April 1968, is addressed by R.V. Murthy to N. Dandekar, General Secretary of the Swatantra Party. Murthy requests an emergency meeting of the party's General Council to discuss Mr. Masani's resignation from the National Executive and the Central Parliamentary Board.
+
 ## Key points
 
 - The letter requests an emergency meeting of the Swatantra Party General Council.

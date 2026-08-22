@@ -50,6 +50,12 @@ summary: |-
   The report says that members of Mohar Singh's gang, along with other dacoits, are expected to arrive for the ceremony and may surrender voluntarily on Sunday. It also records uncertainty and controversy surrounding the event: Narayan is reported to be urging hardened criminals to adopt an honourable way of life and surrender publicly, while Chief Minister M. P. Singh's emissary, Mr. Sethi, raises concerns about security, crowd control, and whether the ceremony can proceed without obstruction. The clipping contains no byline and provides no account of the talks beyond these preparations and reported disagreements.
 ---
 
+## Summary
+
+This 12 April 1972 Times of India report describes preparations at the dak bungalow in Pagra, Madhya Pradesh, for Jayaprakash Narayan's talks with dacoit leaders about their surrender. The bungalow, formerly used by irrigation officials and later abandoned, has been cleaned and fitted out for the meeting; local residents and officials are expecting a gathering of roughly 20 people in the building and its grounds.
+
+The report says that members of Mohar Singh's gang, along with other dacoits, are expected to arrive for the ceremony and may surrender voluntarily on Sunday. It also records uncertainty and controversy surrounding the event: Narayan is reported to be urging hardened criminals to adopt an honourable way of life and surrender publicly, while Chief Minister M. P. Singh's emissary, Mr. Sethi, raises concerns about security, crowd control, and whether the ceremony can proceed without obstruction. The clipping contains no byline and provides no account of the talks beyond these preparations and reported disagreements.
+
 ## Key points
 
 - The article reports preparations in Pagra for Jayaprakash Narayan's meeting with dacoit leaders.

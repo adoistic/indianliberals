@@ -46,6 +46,12 @@ summary: |-
   The sender encloses Rajaji’s letter and asks Tata to prepare a response by 19 June, so it can be carried to Rajaji during a visit to Madras later that month. The page records the formal office-letter address, date, salutation, closing, handwritten signature, and an enclosure notation; the sender’s name is not printed and cannot be securely established from the signature.
 ---
 
+## Summary
+
+This one-page English letter, dated 14 June 1961 and sent from Bombay, is addressed to J. R. D. Tata as “Dear Jeh.” The unidentified sender refers to a recent conversation in Madras with C. Rajagopalachari (“Rajaji”), who was moved by Tata’s energetic and generous response to his appeal for material assistance. The sender recalls that Tata had offered to reply in advance of a planned speech to leading Tata companies, explaining his intentions regarding Rajaji’s request.
+
+The sender encloses Rajaji’s letter and asks Tata to prepare a response by 19 June, so it can be carried to Rajaji during a visit to Madras later that month. The page records the formal office-letter address, date, salutation, closing, handwritten signature, and an enclosure notation; the sender’s name is not printed and cannot be securely established from the signature.
+
 ## Key points
 
 - The letter is dated 14 June 1961 and was sent from 148 Mahatma Gandhi Road, Bombay 1.

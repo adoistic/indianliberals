@@ -55,6 +55,10 @@ summary: |-
   These minutes record a meeting of Swatantra Party members of both Houses held in the Party Committee Room, Central Hall, Parliament House, New Delhi, on 9 December 1965. M. R. Masani chaired the meeting, which adopted resolutions criticising the Defence of India Rules for their use against freedom of expression and for the detention of A. G. Noorani. The minutes specifically cite the prosecution of the editors and publishers of Swarajya and Kalki for articles critical of the Congress Government.
 ---
 
+## Summary
+
+These minutes record a meeting of Swatantra Party members of both Houses held in the Party Committee Room, Central Hall, Parliament House, New Delhi, on 9 December 1965. M. R. Masani chaired the meeting, which adopted resolutions criticising the Defence of India Rules for their use against freedom of expression and for the detention of A. G. Noorani. The minutes specifically cite the prosecution of the editors and publishers of Swarajya and Kalki for articles critical of the Congress Government.
+
 ## Key points
 
 - The meeting was attended by members of both Houses of Parliament and chaired by M. R. Masani.

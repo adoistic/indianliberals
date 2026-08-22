@@ -47,6 +47,10 @@ summary: |-
   This single-page letter, dated 29 April 1987 and signed by M. R. Masani, asks Bombay Collector A. P. Sinha to close a dispute concerning a jeep and an alleged motor-vehicle-tax liability. Masani forwards corroborating information from V. P. Bhatia of the Bharatiya Lok Dal and from Vina Mody, widow of the late Member of Parliament Piloo Mody, who recalls that the jeep was with them for several years and that motor vehicle tax was paid in Bombay during that period.
 ---
 
+## Summary
+
+This single-page letter, dated 29 April 1987 and signed by M. R. Masani, asks Bombay Collector A. P. Sinha to close a dispute concerning a jeep and an alleged motor-vehicle-tax liability. Masani forwards corroborating information from V. P. Bhatia of the Bharatiya Lok Dal and from Vina Mody, widow of the late Member of Parliament Piloo Mody, who recalls that the jeep was with them for several years and that motor vehicle tax was paid in Bombay during that period.
+
 ## Key points
 
 - Masani writes to A. P. Sinha on 29 April 1987 regarding an unresolved jeep-related administrative dispute.

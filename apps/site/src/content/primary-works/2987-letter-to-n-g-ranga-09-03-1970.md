@@ -51,6 +51,12 @@ summary: |-
   Cooper asks Ranga to issue the necessary instructions to the Party’s Members of Parliament if the matter comes before Parliament. He also refers to an enclosed note identifying “certain obnoxious features” of the Act, but that enclosure is not present in the rendered PDF. The letter therefore records the Swatantra Party’s parliamentary position on the constitutional protection of the Kerala land-reform legislation, without setting out the substantive criticisms itself.
 ---
 
+## Summary
+
+This one-page letter, dated March 9, 1970, was sent by R. C. Cooper, General Secretary of the Swatantra Party, to Prof. N. G. Ranga. Cooper draws Ranga’s attention to the Party’s National Executive resolution of February 17 concerning the Kerala Land Reforms (Amendment) Act, 1969. The resolution directed the Party’s parliamentary group to oppose placing the Act in the Ninth Schedule of the Constitution.
+
+Cooper asks Ranga to issue the necessary instructions to the Party’s Members of Parliament if the matter comes before Parliament. He also refers to an enclosed note identifying “certain obnoxious features” of the Act, but that enclosure is not present in the rendered PDF. The letter therefore records the Swatantra Party’s parliamentary position on the constitutional protection of the Kerala land-reform legislation, without setting out the substantive criticisms itself.
+
 ## Key points
 
 - The letter is dated March 9, 1970, and was issued on Swatantra Party National Headquarters letterhead in Bombay.

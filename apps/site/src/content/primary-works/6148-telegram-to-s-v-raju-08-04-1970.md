@@ -44,6 +44,10 @@ summary: |-
   This single-page English telegram form from the Indian Posts and Telegraphs Department records a message received in New Delhi on 8 April 1970. The message is addressed to S. V. Raju in Bombay and reads: “YOURS 3 RD APPROVE COVERING LETTER - MASANI -”. It appears to acknowledge or request approval of a covering letter associated with Masani, but the telegram does not provide further context.
 ---
 
+## Summary
+
+This single-page English telegram form from the Indian Posts and Telegraphs Department records a message received in New Delhi on 8 April 1970. The message is addressed to S. V. Raju in Bombay and reads: “YOURS 3 RD APPROVE COVERING LETTER - MASANI -”. It appears to acknowledge or request approval of a covering letter associated with Masani, but the telegram does not provide further context.
+
 ## Key points
 
 - The document is a single-page Indian Posts and Telegraphs Department phonogram telegram.

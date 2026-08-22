@@ -47,6 +47,12 @@ summary: |-
   The letter records Santosham’s support for a request to Mr. Dandekar to convene a General Council meeting. Beyond this procedural political position, the document provides no substantive discussion of policy, ideology, or the issues motivating the proposed meeting. The second rendered page is an inland-letter envelope addressed to Santosham at his Madras residence.
 ---
 
+## Summary
+
+This two-page English correspondence, dated April 3, 1968, is a brief political letter from Dr. M. Santosham, identified on parliamentary letterhead as a Member of Parliament in the Lok Sabha, to Madhu N. Mehta. Santosham acknowledges receiving Mehta’s circular letter of March 31, 1968 and states that he agrees with it.
+
+The letter records Santosham’s support for a request to Mr. Dandekar to convene a General Council meeting. Beyond this procedural political position, the document provides no substantive discussion of policy, ideology, or the issues motivating the proposed meeting. The second rendered page is an inland-letter envelope addressed to Santosham at his Madras residence.
+
 ## Key points
 
 - The letter is dated April 3, 1968.

@@ -48,6 +48,12 @@ summary: |-
   The slip is countersigned by the Hon. Treasurer in the receiver's-signature field. As an administrative artefact rather than a discursive text, its interest is documentary: it evidences Minoo Masani's continuing personal financial contribution to the Swatantra Party's Maharashtra Region apparatus in September 1975, at a moment when the Emergency (declared 26 June 1975) had already reshaped Indian political life and the Swatantra Party — nominally dissolved into the Bharatiya Lok Dal in 1974 — was in an attenuated state.
 ---
 
+## Summary
+
+This single-page ephemeral document is a pre-printed Swatantra Party (Maharashtra Region) donation receipt, No. 118, issued on 12 September 1975 from the party's Bombay office at Sassoon Building, 143, Mahatma Gandhi Road. The receipt acknowledges the sum of Rs. 25/- ("Twentyfive only") received from Mr. M. R. Masani, with the handwritten purpose line referring to a monthly contribution for September 1975.
+
+The slip is countersigned by the Hon. Treasurer in the receiver's-signature field. As an administrative artefact rather than a discursive text, its interest is documentary: it evidences Minoo Masani's continuing personal financial contribution to the Swatantra Party's Maharashtra Region apparatus in September 1975, at a moment when the Emergency (declared 26 June 1975) had already reshaped Indian political life and the Swatantra Party — nominally dissolved into the Bharatiya Lok Dal in 1974 — was in an attenuated state.
+
 ## Key points
 
 - Pre-printed Swatantra Party (Maharashtra Region) receipt form, filled in by hand.

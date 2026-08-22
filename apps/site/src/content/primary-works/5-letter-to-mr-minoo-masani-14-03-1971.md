@@ -51,6 +51,12 @@ summary: |-
   The writer then turns to the party’s leadership and future prospects. He argues that the country needs a programme capable of attracting wider support and hopes that Masani will help shape the Swatantra Party’s direction. He also discusses his own age, declining health, and uncertainty about returning home, before concluding that C. Rajagopalachari (“Rajaji”) remains the one person who might save the country. The signature appears to read “B. R. Rakasa,” but the final name is uncertain and requires human review.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated March 14, 1971, is addressed from Calcutta to Minoo Masani. The writer apologizes for the unexpected communication, recalls having followed Masani’s public activities with interest and admiration, and reflects on the recent elections in India. The letter describes the Swatantra Party’s result as overwhelming and unexpectedly strong, while expressing concern about the political consequences of that result.
+
+The writer then turns to the party’s leadership and future prospects. He argues that the country needs a programme capable of attracting wider support and hopes that Masani will help shape the Swatantra Party’s direction. He also discusses his own age, declining health, and uncertainty about returning home, before concluding that C. Rajagopalachari (“Rajaji”) remains the one person who might save the country. The signature appears to read “B. R. Rakasa,” but the final name is uncertain and requires human review.
+
 ## Key points
 
 - The writer opens with a personal apology and expresses admiration for Minoo Masani’s public work.

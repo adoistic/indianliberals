@@ -52,6 +52,12 @@ summary: |-
   The artefact is administrative rather than argumentative: a working record of Swatantra's residual organisational life in early 1977, when the party's cadre was being pulled together to decide its posture toward the coming election. Its documentary value lies in confirming that a National Executive was still being convened under the Swatantra name in Madras at this juncture, and that Masani was being pressed to attend in person.
 ---
 
+## Summary
+
+A one-page Indian Posts and Telegraphs Department telegram, filed from Madras on 19 January 1977 and delivered to M. R. Masani at 148 Mahatma Gandhi Road, Bombay. It is signed by Srikumar, Joint Secretary, and summons Masani to a meeting of the National Executive Committee of the Swatantra Party at Madras on Tuesday, 25 January 1977. The single item on the agenda is the impending general election — the March 1977 poll that would follow the lifting of Indira Gandhi's Emergency.
+
+The artefact is administrative rather than argumentative: a working record of Swatantra's residual organisational life in early 1977, when the party's cadre was being pulled together to decide its posture toward the coming election. Its documentary value lies in confirming that a National Executive was still being convened under the Swatantra name in Madras at this juncture, and that Masani was being pressed to attend in person.
+
 ## Key points
 
 - Telegram from 'Srikumar, Joint Secretary' to M. R. Masani, filed at Madras on 19 January 1977.

@@ -51,6 +51,12 @@ summary: |-
   The minutes also note that Prof. N. G. Ranga was asked to speak on the West Bengal motion, while C. C. Desai reported on the latest position regarding Consultative Committees. The meeting decided that membership of financial committees should last only one year and should not be extended. The document is signed by C. C. Desai as Secretary.
 ---
 
+## Summary
+
+This one-page record, issued by the Swatantra Party Parliamentary Office in New Delhi on April 16, 1969, documents a meeting of the party’s General Body in Parliament House on April 14. It lists 17 members present and records discussion of developments in West Bengal, including a letter sent by the party leader to the Prime Minister and the party’s position on a telegram concerning an Opposition leaders’ meeting with the Prime Minister.
+
+The minutes also note that Prof. N. G. Ranga was asked to speak on the West Bengal motion, while C. C. Desai reported on the latest position regarding Consultative Committees. The meeting decided that membership of financial committees should last only one year and should not be extended. The document is signed by C. C. Desai as Secretary.
+
 ## Key points
 
 - The Swatantra Party General Body met in Room No. 50 of Parliament House on April 14, 1969.

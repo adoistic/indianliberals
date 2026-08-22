@@ -59,6 +59,10 @@ summary: |-
   The October 1962 issue of Swatantra Newsletter, issued by the Central Office of the Swatantra Party, reports on the party’s foreign-policy criticism, parliamentary interventions, international liberal contacts, organisational activity, and state-level political work. It presents C. Rajagopalachari’s overseas mission on nuclear tests and disarmament, N. G. Ranga’s charge that Indian foreign policy had produced international isolation, and the party’s condemnation of the government’s handling of Chinese incursions. Other items defend liberal positions on the European Common Market and the Cold War, criticise central planning and public-sector expansion, and describe opposition campaigns concerning taxation, land levies, police powers, budgetary waste, and party organisation.
 ---
 
+## Summary
+
+The October 1962 issue of Swatantra Newsletter, issued by the Central Office of the Swatantra Party, reports on the party’s foreign-policy criticism, parliamentary interventions, international liberal contacts, organisational activity, and state-level political work. It presents C. Rajagopalachari’s overseas mission on nuclear tests and disarmament, N. G. Ranga’s charge that Indian foreign policy had produced international isolation, and the party’s condemnation of the government’s handling of Chinese incursions. Other items defend liberal positions on the European Common Market and the Cold War, criticise central planning and public-sector expansion, and describe opposition campaigns concerning taxation, land levies, police powers, budgetary waste, and party organisation.
+
 ## Key points
 
 - Rajaji led a Gandhi Peace Foundation delegation to Washington, London, and Paris to discuss nuclear testing and disarmament.

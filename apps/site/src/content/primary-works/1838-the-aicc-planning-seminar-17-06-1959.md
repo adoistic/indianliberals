@@ -53,6 +53,12 @@ summary: |-
   The hand-out also advocates a national wage and salaries policy with a defined maximum, wage levels linked to productivity, and productivity norms based on industry-wide surveys. It treats profits as having a social as well as a private purpose, including the financing of developmental schemes. The proposals further include special taxation of unearned, speculative, and windfall incomes—especially increases in urban land values—and positive measures to reduce rural and urban disparities in income and wealth.
 ---
 
+## Summary
+
+This one-page extract from the official hand-out of the A.I.C.C. Planning Seminar at Ooty, dated 17 June 1959, sets out policy positions for India’s Third Plan. It presents planning as a means of advancing toward a socialist society through a “self-generating and self-accelerating economy,” while retaining large-scale private production under public control and regulation. Prices in a planned economy, the extract states, should not be left entirely to market forces but should be socially regulated.
+
+The hand-out also advocates a national wage and salaries policy with a defined maximum, wage levels linked to productivity, and productivity norms based on industry-wide surveys. It treats profits as having a social as well as a private purpose, including the financing of developmental schemes. The proposals further include special taxation of unearned, speculative, and windfall incomes—especially increases in urban land values—and positive measures to reduce rural and urban disparities in income and wealth.
+
 ## Key points
 
 - The Third Plan is framed as a step toward a socialist society and a self-generating economy.

@@ -51,6 +51,12 @@ summary: |-
   The scanned enclosure contains a letter attributed to P. C. Chatterji for publication in The Times of India. It responds to press reports of parliamentary disorder, including disruptions in the Lok Sabha and a walkout in the Rajya Sabha, and argues that parliamentarians should seriously reconsider such conduct because the people are sovereign. The remaining pages include a newspaper clipping, “Second thoughts on Parliament telecast,” by Amita Malik, which discusses public reactions to televised parliamentary proceedings and the role of Doordarshan. These enclosure and clipping materials are reproduced in the file but are not treated as separate authored works in this record.
 ---
 
+## Summary
+
+This 26 March 1992 letter from M. R. Masani to P. C. Chatterji thanks Chatterji for sending a copy of Masani’s letter to The Times of India and expresses hope that it will be published. The letter itself is brief and cordial, with no printed title or further elaboration of the argument.
+
+The scanned enclosure contains a letter attributed to P. C. Chatterji for publication in The Times of India. It responds to press reports of parliamentary disorder, including disruptions in the Lok Sabha and a walkout in the Rajya Sabha, and argues that parliamentarians should seriously reconsider such conduct because the people are sovereign. The remaining pages include a newspaper clipping, “Second thoughts on Parliament telecast,” by Amita Malik, which discusses public reactions to televised parliamentary proceedings and the role of Doordarshan. These enclosure and clipping materials are reproduced in the file but are not treated as separate authored works in this record.
+
 ## Key points
 
 - Masani’s letter is dated 26 March 1992 and addressed to P. C. Chatterji.

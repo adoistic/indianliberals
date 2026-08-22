@@ -49,6 +49,12 @@ summary: |-
   Rao gives no substantive details about the project or its administration in the visible text. He states only that he is looking into the matter and will write again, making the document a brief acknowledgment and assurance of follow-up rather than a policy statement.
 ---
 
+## Summary
+
+This single-page official letter, dated 2 March 1968 and issued on the letterhead of India’s Ministry of Irrigation & Power, is signed by K. L. Rao and addressed to M. R. Masani. Rao acknowledges Masani’s letter of 29 February 1968 concerning the Salandi River Project.
+
+Rao gives no substantive details about the project or its administration in the visible text. He states only that he is looking into the matter and will write again, making the document a brief acknowledgment and assurance of follow-up rather than a policy statement.
+
 ## Key points
 
 - The letter is dated 2 March 1968 and was sent from New Delhi.

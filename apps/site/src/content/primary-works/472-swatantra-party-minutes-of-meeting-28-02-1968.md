@@ -53,6 +53,12 @@ summary: |-
   The notice reports that some Swatantra Party members had recently issued press statements alongside members of other parties whose positions differed from the Swatantra Party’s line. It therefore reiterates that members should not make such joint statements without the permission of the party, its Leader, or its Deputy Leader.
 ---
 
+## Summary
+
+This one-page English circular, issued by the Swatantra Party Parliamentary Office on February 28, 1968, is headed “W H I P” and signed by Y. G. Gowd, Chief Whip. It reminds all party members of an earlier circular dated April 3, 1967, concerning statements to the press made jointly with members of other parties.
+
+The notice reports that some Swatantra Party members had recently issued press statements alongside members of other parties whose positions differed from the Swatantra Party’s line. It therefore reiterates that members should not make such joint statements without the permission of the party, its Leader, or its Deputy Leader.
+
 ## Key points
 
 - The document is a Swatantra Party Parliamentary Office circular dated February 28, 1968.

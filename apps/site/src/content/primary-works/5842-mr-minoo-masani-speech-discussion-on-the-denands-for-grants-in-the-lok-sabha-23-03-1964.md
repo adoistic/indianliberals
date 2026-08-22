@@ -54,6 +54,12 @@ summary: |-
   Masani supports a substantial shift of public investment and policy attention toward road transport, vehicle manufacture, and modern transport infrastructure. He criticises the Transport Ministry for failing to secure the funds promised under the 20-year road-development plan, allowing vehicle production to fall far below target, and permitting restrictive licensing and taxation regimes that favour railway interests. Drawing comparisons with Britain, France, Germany, Japan, and other countries, he presents the movement from railways toward roads, waterways, and airways as a necessary feature of technological and economic progress. He concludes by urging the Transport Ministry to show greater independence from the Railway Board and to defend modern transport methods more assertively.
 ---
 
+## Summary
+
+In this 23 March 1964 Lok Sabha speech, M. R. Masani argues that India’s transport policy is failing to support economic development because planning has repeatedly underestimated the role of roads and overprotected the railways. He warns that the Third Five Year Plan will produce a severe transport bottleneck: mechanised transport demand is projected to reach 375 million tons by 1966–67, while the railways expect to carry only 245 million tons. Roads, however, are described as underdeveloped, underfunded, heavily taxed, and unable to absorb the shortfall.
+
+Masani supports a substantial shift of public investment and policy attention toward road transport, vehicle manufacture, and modern transport infrastructure. He criticises the Transport Ministry for failing to secure the funds promised under the 20-year road-development plan, allowing vehicle production to fall far below target, and permitting restrictive licensing and taxation regimes that favour railway interests. Drawing comparisons with Britain, France, Germany, Japan, and other countries, he presents the movement from railways toward roads, waterways, and airways as a necessary feature of technological and economic progress. He concludes by urging the Transport Ministry to show greater independence from the Railway Board and to defend modern transport methods more assertively.
+
 ## Key points
 
 - Masani says the Transport Ministry’s complacent assessment of roads and road transport ignores an approaching national bottleneck.

@@ -48,6 +48,12 @@ summary: |-
   The document is a brief piece of political correspondence rather than a substantive policy argument. Its focus is on party procedure, leadership transition, and managing the circumstances of a resignation. The letter's title, publisher, and place of issue are not printed on the page.
 ---
 
+## Summary
+
+Dated 2 November 1967, this one-page letter from M. R. Masani to Prof. N. G. Ranga explains that Masani is circulating a letter to colleagues on the Party's General Council seeking acceptance of his decision to resign as General Secretary. He presents the circulation as a precaution intended to prevent an embarrassing demonstration or other pressure at the forthcoming General Council meeting in Delhi.
+
+The document is a brief piece of political correspondence rather than a substantive policy argument. Its focus is on party procedure, leadership transition, and managing the circumstances of a resignation. The letter's title, publisher, and place of issue are not printed on the page.
+
 ## Key points
 
 - M. R. Masani wrote to Prof. N. G. Ranga on 2 November 1967.

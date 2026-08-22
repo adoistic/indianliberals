@@ -53,6 +53,12 @@ summary: |-
   The recorded discussion considers how to define and curb political defection without unduly subordinating legislators to party leaders. Proposals include regulating movement between government and opposition, requiring independents to declare their position, allowing constituents to recall defecting legislators, limiting the Council of Ministers to 10 per cent of the House or 30 members, restricting ministerial inducements, and relying on conventions concerning dissolution. Participants differ over whether moral sanctions and codes of conduct would suffice, with P. Ramamurti arguing that legislation was the only effective solution. The meeting concludes with agreement on giving the Council of Ministers a conventional right to dissolution, limiting the size of the ministry, and denying office or other inducements to defectors; a third meeting was scheduled for May 12, 1968.
 ---
 
+## Summary
+
+This Government of India covering letter, dated April 26, 1968, forwards to Prof. N. G. Ranga the summary record of the second meeting of the Committee on Defections, held in Parliament House on April 18. The record identifies the committee’s members and attendees and documents an initial discussion about whether members were speaking for their parties or in their individual capacities, alongside concern that only an authorised version of proceedings should be released to the press.
+
+The recorded discussion considers how to define and curb political defection without unduly subordinating legislators to party leaders. Proposals include regulating movement between government and opposition, requiring independents to declare their position, allowing constituents to recall defecting legislators, limiting the Council of Ministers to 10 per cent of the House or 30 members, restricting ministerial inducements, and relying on conventions concerning dissolution. Participants differ over whether moral sanctions and codes of conduct would suffice, with P. Ramamurti arguing that legislation was the only effective solution. The meeting concludes with agreement on giving the Council of Ministers a conventional right to dissolution, limiting the size of the ministry, and denying office or other inducements to defectors; a third meeting was scheduled for May 12, 1968.
+
 ## Key points
 
 - A covering letter from B. S. Raghavan encloses the record of the committee’s second meeting on political defections.

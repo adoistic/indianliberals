@@ -46,6 +46,10 @@ summary: |-
   This one-page handwritten administrative checklist records letters read in connection with M. R. Pai’s resignation from the Party. It lists recipients or associated individuals in several locations, including Jethpur, Bayana, New Delhi, Varanasi, Fatehpur, and Kottayam. Several names are struck through, while check marks indicate entries that appear to have been processed.
 ---
 
+## Summary
+
+This one-page handwritten administrative checklist records letters read in connection with M. R. Pai’s resignation from the Party. It lists recipients or associated individuals in several locations, including Jethpur, Bayana, New Delhi, Varanasi, Fatehpur, and Kottayam. Several names are struck through, while check marks indicate entries that appear to have been processed.
+
 ## Key points
 
 - The sheet concerns correspondence associated with M. R. Pai’s resignation from a political party.

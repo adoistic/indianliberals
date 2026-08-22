@@ -60,6 +60,12 @@ summary: |-
   Masani calls for agriculture and light industry to take priority over heavy industry, criticises the adoption of what he describes as a Soviet-inspired order of priorities under different Indian conditions, and challenges the government's foodgrain targets. He argues that excise duties disproportionately burden basic commodities, including cloth and building materials, and proposes abolition of Land Revenue, reduced excise duties on necessities and industrial inputs, lower corporate and income taxation, strict avoidance of deficit finance, and restraint on civil expenditure and bureaucracy. The statement presents reduced taxation as necessary to social justice and links fiscal policy to the material well-being of poor households.
 ---
 
+## Summary
+
+This two-page Swatantra Party press statement reports remarks by General Secretary M. R. Masani at a public meeting in New Delhi on June 7, concerning the forthcoming Finance Bill, taxation, planning, and public expenditure. Masani argues that the Budget reflects a planning pattern whose priorities have been reversed: instead of first ensuring food, clothing, and shelter for every household, the government is pursuing taxation and expenditure that leave many people unemployed and undernourished.
+
+Masani calls for agriculture and light industry to take priority over heavy industry, criticises the adoption of what he describes as a Soviet-inspired order of priorities under different Indian conditions, and challenges the government's foodgrain targets. He argues that excise duties disproportionately burden basic commodities, including cloth and building materials, and proposes abolition of Land Revenue, reduced excise duties on necessities and industrial inputs, lower corporate and income taxation, strict avoidance of deficit finance, and restraint on civil expenditure and bureaucracy. The statement presents reduced taxation as necessary to social justice and links fiscal policy to the material well-being of poor households.
+
 ## Key points
 
 - Masani describes the forthcoming Finance Bill as the latest in a series of budgets that have brought India close to bankruptcy.

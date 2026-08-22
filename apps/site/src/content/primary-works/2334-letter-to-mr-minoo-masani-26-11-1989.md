@@ -45,6 +45,12 @@ summary: |-
   The letter contains no substantive discussion of the subject of Masani's correspondence. Its function is administrative: to confirm that the President's office received Masani's letter and accompanying materials.
 ---
 
+## Summary
+
+This single-page official letter, issued from the President's Secretariat at Rashtrapati Bhavan on November 26, 1989, acknowledges receipt of a letter dated November 21, 1989 from M. R. Masani and its enclosures. It is addressed to Masani at 148 Mahatma Gandhi Road, Bombay, and is signed by S. Nilakantan, identified as Director.
+
+The letter contains no substantive discussion of the subject of Masani's correspondence. Its function is administrative: to confirm that the President's office received Masani's letter and accompanying materials.
+
 ## Key points
 
 - The document is a formal acknowledgment letter from the President's Secretariat.

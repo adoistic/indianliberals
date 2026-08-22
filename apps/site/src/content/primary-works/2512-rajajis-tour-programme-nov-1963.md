@@ -49,6 +49,12 @@ summary: |-
   Handwritten amendments alter or supplement parts of the printed schedule, including entries for late November and early December. The sheet is therefore both a typed tour programme and an amended working itinerary. It does not provide speeches, policy arguments, or biographical commentary.
 ---
 
+## Summary
+
+This one-page English administrative schedule records Rajaji's planned travel during November 1963. The printed itinerary lists departures from Howrah for Vijayawada on 2 November, attendance at a “17th Amendment Conference” in Vijayawada on 3 November, onward travel to Madras, and a visit to Tirunelveli for a Swatantra Party conference on 10 November. It also records travel to Delhi later in the month.
+
+Handwritten amendments alter or supplement parts of the printed schedule, including entries for late November and early December. The sheet is therefore both a typed tour programme and an amended working itinerary. It does not provide speeches, policy arguments, or biographical commentary.
+
 ## Key points
 
 - The document is a one-page tour schedule for November 1963.

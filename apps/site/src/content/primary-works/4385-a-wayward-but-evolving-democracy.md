@@ -57,6 +57,12 @@ summary: |-
   In the rendered pages, Raju traces the Indian National Congress’s post-independence transformation from a broad-based movement into a dynastic organisation centred on the Nehru-Gandhi family, and examines the rise of the BJP and its relationship with the RSS. He treats coalition government as potentially beneficial for federalism and decentralisation, but criticises the opportunistic alliances and candidate selection practices visible around the 2004 election. The article concludes, in the rendered pages, that voters were motivated less by ideology than by immediate material expectations, and rejects the claim that the election results represented a verdict against economic reform.
 ---
 
+## Summary
+
+In the rendered pages, S. V. Raju presents India’s democracy as institutionally durable but substantively troubled. He credits Jawaharlal Nehru, the Election Commission, the courts—especially the Supreme Court—and the constitutional framework for preserving orderly elections and protecting the vote, while arguing that the quality and character of elected legislators have deteriorated. The article contrasts the strength of India’s electoral infrastructure with voter poverty, low literacy, political violence, booth-capturing, and the declining competence of party candidates.
+
+In the rendered pages, Raju traces the Indian National Congress’s post-independence transformation from a broad-based movement into a dynastic organisation centred on the Nehru-Gandhi family, and examines the rise of the BJP and its relationship with the RSS. He treats coalition government as potentially beneficial for federalism and decentralisation, but criticises the opportunistic alliances and candidate selection practices visible around the 2004 election. The article concludes, in the rendered pages, that voters were motivated less by ideology than by immediate material expectations, and rejects the claim that the election results represented a verdict against economic reform.
+
 ## Key points
 
 - India’s democratic institutions and electoral procedures are described as resilient despite the Emergency and episodes of election violence.

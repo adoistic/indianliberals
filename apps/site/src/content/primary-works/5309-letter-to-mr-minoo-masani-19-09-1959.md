@@ -51,6 +51,12 @@ summary: |-
   The sender also asks Masani for financial and organisational assistance in the Allahabad Municipal Corporation election. He describes carrying responsibility as party convener, contesting the Corporation election, and supporting ten independent candidates, whose campaigns and constituencies are expected to cost approximately Rs. 2,000. The letter closes by requesting Rs. 600 to cover immediate expenses, warning that the burden of financing and managing the campaign may otherwise become unsustainable. The handwritten signature is not securely legible.
 ---
 
+## Summary
+
+This one-page letter, dated 19 September 1959 from the Swatantra Party office in Allahabad and addressed to M. R. Masani, discusses the party’s need to build political strength through local-body elections. The sender argues that contests for district boards, municipal boards, and corporations provide essential “grass root” political training, publicity, popularity, and organisational power. The letter contrasts this approach with concentrating only on assembly elections or by-elections, while acknowledging that local campaigns must be carefully matched to public sentiment and local conditions.
+
+The sender also asks Masani for financial and organisational assistance in the Allahabad Municipal Corporation election. He describes carrying responsibility as party convener, contesting the Corporation election, and supporting ten independent candidates, whose campaigns and constituencies are expected to cost approximately Rs. 2,000. The letter closes by requesting Rs. 600 to cover immediate expenses, warning that the burden of financing and managing the campaign may otherwise become unsustainable. The handwritten signature is not securely legible.
+
 ## Key points
 
 - The sender presents local-body elections as essential to building party organisation, publicity, popularity, and electoral power.

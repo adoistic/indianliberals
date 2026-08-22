@@ -56,6 +56,12 @@ summary: |-
   The affidavit states that the Bombay High Court had permitted the petitioners to move the court after the December vacation, that the respondents had waived service, and that the motion was ready for hearing. It further invokes the forthcoming general elections to Parliament as the reason the petition should be heard peremptorily. The later pages include an affidavit of service, with handwritten amendments and annotations, asserting that the petition and Rule NISI were served on the respondents and that acknowledgements were received. The rendered record does not contain the underlying writ petition, the substantive electoral dispute, or any judicial order deciding the motion.
 ---
 
+## Summary
+
+This English-language archival record comprises High Court filings in Swatantra Party & Anr. v. Union of India & Ors., concerning Writ Petition No. 14 of 1995. The principal affidavit is sworn by Laxmidas R. Sampat, identified as General Secretary of the petitioner. It supports a Notice of Motion seeking an expedited hearing of the writ petition and records service of the motion and supporting affidavit on the Union of India, the advocate for the Chief Election Commissioner, and the Secretary of the Election Commission of India.
+
+The affidavit states that the Bombay High Court had permitted the petitioners to move the court after the December vacation, that the respondents had waived service, and that the motion was ready for hearing. It further invokes the forthcoming general elections to Parliament as the reason the petition should be heard peremptorily. The later pages include an affidavit of service, with handwritten amendments and annotations, asserting that the petition and Rule NISI were served on the respondents and that acknowledgements were received. The rendered record does not contain the underlying writ petition, the substantive electoral dispute, or any judicial order deciding the motion.
+
 ## Key points
 
 - The record is headed as a Bombay High Court Notice of Motion connected with Writ Petition No. 14 of 1995.

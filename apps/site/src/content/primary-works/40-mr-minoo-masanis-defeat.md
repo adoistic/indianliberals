@@ -50,6 +50,12 @@ summary: |-
   The analysis reviews local results and campaign failures in Rajkot, Upleta, Dhoraji, Jetpur, Gondal, Kotda, and Wankaner. It cites a 12,000-vote deficit in Rajkot against 27,000 votes previously obtained, blames lost Muslim votes and poor relations with Jansangh, and criticises wasted money and time, inadequate door-to-door canvassing, unreliable campaign machinery, and the absence of outside support. The pages present a candid but highly partisan account of organisational breakdown and alleged betrayal by Congress workers and local allies.
 ---
 
+## Summary
+
+This untitled internal analysis assesses Mr. Minoo Masani’s electoral defeat, attributing it primarily to strategic misjudgment, excessive reliance on Congress partners, weak local organisation, and ineffective campaigning. The document argues that the campaign trusted people interested in their own political calculations more than in Masani’s victory, underestimated opposition propaganda, and failed to mobilise sincere workers effectively. It also criticises the alliance with Congress, while treating Vallabhbhai Patel as more trustworthy than other Congress figures described as double-crossers.
+
+The analysis reviews local results and campaign failures in Rajkot, Upleta, Dhoraji, Jetpur, Gondal, Kotda, and Wankaner. It cites a 12,000-vote deficit in Rajkot against 27,000 votes previously obtained, blames lost Muslim votes and poor relations with Jansangh, and criticises wasted money and time, inadequate door-to-door canvassing, unreliable campaign machinery, and the absence of outside support. The pages present a candid but highly partisan account of organisational breakdown and alleged betrayal by Congress workers and local allies.
+
 ## Key points
 
 - The defeat is attributed to overconfidence and underestimation of opposition propaganda.

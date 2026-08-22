@@ -55,6 +55,12 @@ summary: |-
   The circular further addresses party discipline and foreign policy. It recommends that members should not independently take positions on major issues unless these have been discussed by the Executive Committee, and calls for more frequent informal committee meetings. On the Kashmir question, the committee agreed that the United Kingdom’s independent position in the Security Council should not be censured and defended Commonwealth membership on economic and security grounds, citing assistance received during the 1962 Chinese attack. Kapur Singh signs the document as Secretary; no author is named.
 ---
 
+## Summary
+
+This two-page Swatantra Party Parliamentary Office circular, dated February 19, 1964, records decisions of the party’s Executive Committee meeting in Parliament House. It instructs party members participating in the railway budget debate to call for more amenities for third-class passengers, oppose a proposed two per cent freight increase, criticize wasteful expenditure in railway administration, and support the expansion and doubling of broad-gauge railway lines. The committee also discussed its position on a non-official resolution, procedures for registering members to speak in debates, and whether to support increases in members’ salaries and allowances.
+
+The circular further addresses party discipline and foreign policy. It recommends that members should not independently take positions on major issues unless these have been discussed by the Executive Committee, and calls for more frequent informal committee meetings. On the Kashmir question, the committee agreed that the United Kingdom’s independent position in the Security Council should not be censured and defended Commonwealth membership on economic and security grounds, citing assistance received during the 1962 Chinese attack. Kapur Singh signs the document as Secretary; no author is named.
+
 ## Key points
 
 - The Executive Committee prepared a common line for Swatantra Party members speaking in the railway budget debate.

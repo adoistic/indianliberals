@@ -52,6 +52,10 @@ summary: |-
   General Council Circular No. 52 is a one-page administrative notice issued by the Swatantra Party national headquarters in Bombay and dated 24 November 1973. Signed by General Secretary Madhu Mehta, it congratulates newly elected General Council members and announces the Council’s first meeting to elect office-bearers and members of the National Executive for the coming two years.
 ---
 
+## Summary
+
+General Council Circular No. 52 is a one-page administrative notice issued by the Swatantra Party national headquarters in Bombay and dated 24 November 1973. Signed by General Secretary Madhu Mehta, it congratulates newly elected General Council members and announces the Council’s first meeting to elect office-bearers and members of the National Executive for the coming two years.
+
 ## Key points
 
 - The circular is addressed to members elected to the Swatantra Party General Council.

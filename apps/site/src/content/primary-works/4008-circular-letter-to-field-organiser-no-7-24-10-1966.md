@@ -52,6 +52,12 @@ summary: |-
   The circular introduces a procedural control: at least one member of the three-man committee must initial each travel allowance bill before it is sent to the party's central office. It also requires bills to arrive by the tenth of each month together with the organiser's report. A carbon copy is sent to M. R. Masani for information and implementation, with a request that the other committee members be informed.
 ---
 
+## Summary
+
+This one-page internal Swatantra Party circular, dated 24 October 1966, is addressed to field organisers and signed by S. V. Raju in his capacity as Executive Secretary. It reports that many travel allowance bills submitted by field organisers are vague and inadequately calculated.
+
+The circular introduces a procedural control: at least one member of the three-man committee must initial each travel allowance bill before it is sent to the party's central office. It also requires bills to arrive by the tenth of each month together with the organiser's report. A carbon copy is sent to M. R. Masani for information and implementation, with a request that the other committee members be informed.
+
 ## Key points
 
 - The document is Circular Letter to Field Organisers No. 7, issued by the Swatantra Party Central Office in Bombay on 24 October 1966.

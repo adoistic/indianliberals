@@ -52,6 +52,12 @@ summary: |-
   Shah nevertheless expresses hope that “reason and sanity” will prevail. Referring to Frank Moraes, he warns that the authority acquired by the party in power must not become authoritarian. The letter therefore combines personal consolation with a brief defense of constitutional and civil restraint in politics.
 ---
 
+## Summary
+
+This untitled letter from Viren J. Shah to Minoo Masani, dated March 13, 1971, responds to a political defeat or crisis that Shah describes as having left the country in shock and disappointment. He presents the moment as a breakdown of reason and common sense, while treating Masani's loss as part of a wider national setback rather than a merely personal one.
+
+Shah nevertheless expresses hope that “reason and sanity” will prevail. Referring to Frank Moraes, he warns that the authority acquired by the party in power must not become authoritarian. The letter therefore combines personal consolation with a brief defense of constitutional and civil restraint in politics.
+
 ## Key points
 
 - The letter is dated March 13, 1971, and is addressed to Minoo Masani.

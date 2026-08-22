@@ -50,6 +50,12 @@ summary: |-
   Majhi also describes his current circumstances. He is busy with his daughter’s marriage, expects to visit Bhubaneswar the following month to inquire about the matter, and identifies himself as a member of the Janata Party and a recently elected member of the Orissa Legislative Assembly from the Nawapara constituency. He notes that he was previously occupied with cultivation, which he calls his main and only profession. The letter closes with good wishes and a postscript supplying Anangruday Singh Deo’s address at the Prachi Hotel, Janapath, New Capital, Bhubaneswar.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated Sambalpur, 10 April 1985, is addressed to S. V. Raju. Ghasiram Majhi thanks Raju for his letter after a long interval and explains that he no longer has the relevant records: documents sent to him and to Mr. R. R. Singhdeo apparently reached him late, while the remaining records were with Shri Anangruday Singh Deo. Majhi suggests that Raju write directly to Singh Deo at his Bhubaneswar residence.
+
+Majhi also describes his current circumstances. He is busy with his daughter’s marriage, expects to visit Bhubaneswar the following month to inquire about the matter, and identifies himself as a member of the Janata Party and a recently elected member of the Orissa Legislative Assembly from the Nawapara constituency. He notes that he was previously occupied with cultivation, which he calls his main and only profession. The letter closes with good wishes and a postscript supplying Anangruday Singh Deo’s address at the Prachi Hotel, Janapath, New Capital, Bhubaneswar.
+
 ## Key points
 
 - Ghasiram Majhi writes to S. V. Raju from Sambalpur on 10 April 1985.

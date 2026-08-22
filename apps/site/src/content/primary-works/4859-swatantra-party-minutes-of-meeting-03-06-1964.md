@@ -60,6 +60,12 @@ summary: |-
   The central policy discussion concerns the Seventeenth Amendment, land reform, food scarcity, and high prices. The Council condemns the amendment as harmful to peasant property and reiterates its support for land reform that protects security of tenure and fair rents. Its food-policy resolution attributes shortages and inflation to Congress economic policies, criticises ceilings on farm holdings and the fragmentation of agriculture, and calls for agricultural rehabilitation, freer food-grain markets, the release of buffer stocks, consultation with farmers and traders, and opposition to state trading and compulsory levies. The Council also adopts resolutions supporting Malaysia against aggression, opposing Communist advances in Laos, and endorsing the Parliamentary Board's policy on relations with Pakistan before the meeting concludes with remarks by the President and Rajaji.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party General Council meeting held in Bombay on June 30, 1964, under the chairmanship of Prof. N. G. Ranga. The proceedings open with silence in memory of Jawaharlal Nehru and a resolution mourning the death of party organiser Shri Raghavendra Pratap Singh. The Council then unanimously adopts constitutional amendments scheduling elections to party bodies and extending voting rights in those elections to newly enrolled workers and life members.
+
+The central policy discussion concerns the Seventeenth Amendment, land reform, food scarcity, and high prices. The Council condemns the amendment as harmful to peasant property and reiterates its support for land reform that protects security of tenure and fair rents. Its food-policy resolution attributes shortages and inflation to Congress economic policies, criticises ceilings on farm holdings and the fragmentation of agriculture, and calls for agricultural rehabilitation, freer food-grain markets, the release of buffer stocks, consultation with farmers and traders, and opposition to state trading and compulsory levies. The Council also adopts resolutions supporting Malaysia against aggression, opposing Communist advances in Laos, and endorsing the Parliamentary Board's policy on relations with Pakistan before the meeting concludes with remarks by the President and Rajaji.
+
 ## Key points
 
 - The General Council met in Bombay on June 30, 1964, with Prof. N. G. Ranga in the chair and representatives from multiple states in attendance.

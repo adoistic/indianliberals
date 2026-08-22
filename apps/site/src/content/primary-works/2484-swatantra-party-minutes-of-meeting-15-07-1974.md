@@ -50,6 +50,12 @@ summary: |-
   The committee also discussed preparations for the Swatantra Party’s National Convention in Delhi on 4–5 August 1974 and finalised 21 delegates from the Maharashtra State Unit, based on elections held at the State Council meeting on 6 July. Financial matters were deferred because the treasurer and others were absent. The page is signed by the chairman.
 ---
 
+## Summary
+
+This one-page English office record documents a meeting of the Swatantra Party, Maharashtra Executive Committee, held on 15 July 1974. It lists eight attendees and records that Girish Munshi read Madhav Mehta’s resignation letter as president of the Maharashtra unit; the committee postponed a decision on the resignation.
+
+The committee also discussed preparations for the Swatantra Party’s National Convention in Delhi on 4–5 August 1974 and finalised 21 delegates from the Maharashtra State Unit, based on elections held at the State Council meeting on 6 July. Financial matters were deferred because the treasurer and others were absent. The page is signed by the chairman.
+
 ## Key points
 
 - The Maharashtra Executive Committee met on 15 July 1974 at 6 p.m.

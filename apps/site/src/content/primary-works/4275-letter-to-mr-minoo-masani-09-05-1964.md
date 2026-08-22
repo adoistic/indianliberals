@@ -50,6 +50,12 @@ summary: |-
   The second page broadens the argument into a warning about political judgment and courage. Rajagopalachari says that fortunate diplomatic outcomes are being mistaken for genuine success and that the party has a historic opportunity to advocate what he regards as the right policy, but that its members are allowing themselves to be intimidated. He closes by referring to abuse directed at himself and Jayaprakash Narayan by N. C. Chatterjee, while deciding not to respond. The letter’s discussion is confined to these immediate political concerns; no broader programme or fully specified policy is set out in the pages seen.
 ---
 
+## Summary
+
+This two-page handwritten letter from C. Rajagopalachari to Minoo Masani, dated 9 May 1964, discusses parliamentary and party strategy. Rajagopalachari reports on conversations involving Ranga and Members of Parliament, arguing that MPs should be left to discuss and reach their own conclusions rather than being given further political shelter or direction. He also comments on a likely new parliamentary alignment and on the persuasive effect of M. C. Chagla’s eloquence, which he believes may create illusions and strengthen the Prime Minister’s inherent tendency to drift.
+
+The second page broadens the argument into a warning about political judgment and courage. Rajagopalachari says that fortunate diplomatic outcomes are being mistaken for genuine success and that the party has a historic opportunity to advocate what he regards as the right policy, but that its members are allowing themselves to be intimidated. He closes by referring to abuse directed at himself and Jayaprakash Narayan by N. C. Chatterjee, while deciding not to respond. The letter’s discussion is confined to these immediate political concerns; no broader programme or fully specified policy is set out in the pages seen.
+
 ## Key points
 
 - Rajagopalachari reports that MPs have been clearly told what they may say, but should be left to deliberate and reach their own conclusions.

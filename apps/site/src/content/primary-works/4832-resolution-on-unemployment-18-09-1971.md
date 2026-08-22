@@ -54,6 +54,12 @@ summary: |-
   The resolution calls on the government to adopt more realistic policies, especially by immediately undertaking public-utility projects designed to generate employment on a large scale. It identifies road construction, housing schemes, flood-protection works, and projects to store and conserve water as priority areas.
 ---
 
+## Summary
+
+This one-page resolution, issued by the Swatantra Party General Council in Bangalore on 18 September 1971, expresses concern about the steady increase in unemployment. It attributes unemployment to what it calls the unhealthy state of the economy and to the adoption and pursuit of wrong economic policies.
+
+The resolution calls on the government to adopt more realistic policies, especially by immediately undertaking public-utility projects designed to generate employment on a large scale. It identifies road construction, housing schemes, flood-protection works, and projects to store and conserve water as priority areas.
+
 ## Key points
 
 - The resolution identifies a steady increase in unemployment as a matter of deep concern.

@@ -46,6 +46,12 @@ summary: |-
   The letter is signed by an unidentified person described in the printed closing as “Secretary to Mr. M.R. Masani.” A handwritten signature and annotations appear on the page, but the individual sender cannot be identified confidently from the rendered image. The recipient’s address identifies him as co-chairman of the Youth Conference Committee of Lions International in Calcutta.
 ---
 
+## Summary
+
+This one-page English office letter, dated 16 January 1970, acknowledges Mr. B. S. Kothari’s letter of 8 January addressed to M. R. Masani. The writer explains that Masani is away from India on a brief visit to Ghana and Europe and is expected to return around 23 January, when the letter will be placed before him for reply.
+
+The letter is signed by an unidentified person described in the printed closing as “Secretary to Mr. M.R. Masani.” A handwritten signature and annotations appear on the page, but the individual sender cannot be identified confidently from the rendered image. The recipient’s address identifies him as co-chairman of the Youth Conference Committee of Lions International in Calcutta.
+
 ## Key points
 
 - The letter is dated 16 January 1970.

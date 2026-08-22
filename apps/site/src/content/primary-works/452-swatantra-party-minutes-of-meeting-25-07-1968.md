@@ -54,6 +54,12 @@ summary: |-
   The minutes document the Party’s representation on several parliamentary select committees: the Union Territories (Separation of Judiciary and Executive) Bill, the Indian Patents Bill, the Foreign Marriages Bill, and the Bihar Advisory Committee. They also record provisional arrangements for representation on a possible Gold Control Bill select committee, and a decision that no member need speak on the Andhra Pradesh and Mysore (Transfer of Territory) Bill. C. C. Desai signs the document as Secretary.
 ---
 
+## Summary
+
+This one-page record, issued by the Swatantra Party Parliamentary Office in New Delhi on July 25, 1968, records a meeting of the Party’s Executive Committee in Parliament House on July 24. It lists ten members present, including N. G. Ranga, K. P. Singh Deo, D. N. Patodia, K. M. Koushik, Piloo Mody, C. C. Desai, N. Dandekar, R. K. Amin, N. K. Soni, and Dahyabhai Patel.
+
+The minutes document the Party’s representation on several parliamentary select committees: the Union Territories (Separation of Judiciary and Executive) Bill, the Indian Patents Bill, the Foreign Marriages Bill, and the Bihar Advisory Committee. They also record provisional arrangements for representation on a possible Gold Control Bill select committee, and a decision that no member need speak on the Andhra Pradesh and Mysore (Transfer of Territory) Bill. C. C. Desai signs the document as Secretary.
+
 ## Key points
 
 - The Executive Committee meeting took place on July 24, 1968, at Parliament House in New Delhi.

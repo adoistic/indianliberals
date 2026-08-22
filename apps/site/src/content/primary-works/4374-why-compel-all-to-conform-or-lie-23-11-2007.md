@@ -56,6 +56,12 @@ summary: |-
   It then turns to the Swatantra Party, whose 1996 attempt to re-register was rejected by the Election Commission because its application would not swear allegiance to socialism. Although the party has contested and won elections, its candidates have had to stand as independents. The article concludes by calling for an end to the silence surrounding this restriction, arguing that a democracy committed to choice should not compel parties to endorse an ideology.
 ---
 
+## Summary
+
+The article challenges the Union government's description of India as the "world's fastest growing free-market democracy" while political parties are legally required to swear allegiance to socialism in order to register. It traces this requirement to a 1989 amendment to the Representation of the People Act, 1951, enacted under Rajiv Gandhi, and links its constitutional justification to the Emergency-era insertion of "socialist" into the Constitution's Preamble under Indira Gandhi. The article presents this compulsory ideological conformity as hypocrisy and an affront to democratic norms.
+
+It then turns to the Swatantra Party, whose 1996 attempt to re-register was rejected by the Election Commission because its application would not swear allegiance to socialism. Although the party has contested and won elections, its candidates have had to stand as independents. The article concludes by calling for an end to the silence surrounding this restriction, arguing that a democracy committed to choice should not compel parties to endorse an ideology.
+
 ## Key points
 
 - The article juxtaposes the government's claim that India is a free-market democracy with the statutory requirement that registered parties swear allegiance to socialism.

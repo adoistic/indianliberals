@@ -52,6 +52,12 @@ summary: |-
   The report says the documentary had also received the Filmfare Award and the Cinema Du Rai Award in 1986, and had been given a “U” certificate. Patwardhan argued that Doordarshan had rejected the film without real and reasonable criteria or guidelines, and that the decision violated his freedom of expression under Article 19(1)(a) of the Constitution. Justice M. H. Kania admitted the petition and ordered the hearing to proceed; P. A. Sebastian appeared for the petitioner.
 ---
 
+## Summary
+
+This Indian Express legal-news clipping reports that Achyut Patwardhan filed a writ petition in the Bombay High Court against Doordarshan, the Directorate General of Doordarshan, and the Union of India. The petition challenged an order dated 3 April 1987 stating that it had not been possible to telecast Patwardhan’s documentary film Bombay: Our City (Hamara Shahar), which had won the President’s Gold Medal for the best documentary film.
+
+The report says the documentary had also received the Filmfare Award and the Cinema Du Rai Award in 1986, and had been given a “U” certificate. Patwardhan argued that Doordarshan had rejected the film without real and reasonable criteria or guidelines, and that the decision violated his freedom of expression under Article 19(1)(a) of the Constitution. Justice M. H. Kania admitted the petition and ordered the hearing to proceed; P. A. Sebastian appeared for the petitioner.
+
 ## Key points
 
 - Achyut Patwardhan filed a writ petition in the Bombay High Court concerning Doordarshan’s refusal to telecast Bombay: Our City (Hamara Shahar).

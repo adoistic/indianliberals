@@ -51,6 +51,12 @@ summary: |-
   The paper's proposed remedy is to sever the alliance decisively, persuade voters of Swatantra's own policies, improve party organisation, and undertake practical outreach. It recommends free diagnostic and medical camps for villagers, documentary films and regular local exposure of agricultural and industrial policies, public education on controlling rising prices, and visits by national and state leaders to build district-level support. The pages do not identify an author, date, issuer, or publisher.
 ---
 
+## Summary
+
+This two-page typed political paper attributes the Swatantra Party's electoral defeat to its alliance with the Jana Sangh and to the resulting failure to present voters with a coherent programme. It argues that the alliance alienated Muslim voters, confused the electorate through competing slogans such as “Indira Hatao” and “Gandhi Hatao,” damaged the party's public image, and allowed Congress to retain anti-Congress and business-community support. Other explanations include inadequate loyalty among alliance partners, ideological incompatibility with the S.S.P., Congress's ten-point programme, the opposition's association of Swatantra with the wealthy, Congress's greater campaign spending, and Indira Gandhi's systematic propaganda and personal appeal.
+
+The paper's proposed remedy is to sever the alliance decisively, persuade voters of Swatantra's own policies, improve party organisation, and undertake practical outreach. It recommends free diagnostic and medical camps for villagers, documentary films and regular local exposure of agricultural and industrial policies, public education on controlling rising prices, and visits by national and state leaders to build district-level support. The pages do not identify an author, date, issuer, or publisher.
+
 ## Key points
 
 - The paper presents the alliance with Jana Sangh as the central cause of the party's electoral defeat.

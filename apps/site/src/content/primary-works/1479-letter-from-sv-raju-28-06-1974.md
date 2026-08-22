@@ -50,6 +50,12 @@ summary: |-
   Raju points to earlier conventions held in halls, including the 1966 convention at Sapru House, which accommodated 642 delegates. He contends that even a quota of one delegate per ten members, capped at 200, should be manageable, and warns that the proposed arrangement could facilitate the party's dissolution through an excessive influx of delegates from Uttar Pradesh. He asks that the quota adopted for the 1973 convention in Madras be retained.
 ---
 
+## Summary
+
+In this one-page letter dated June 28, 1974, S. V. Raju urges the unnamed recipient to reject a proposed change to the Swatantra Party's National Convention delegate quota. He explains that, at five previous conventions, the quota was designed to allow as many delegates as possible to attend while preventing any one state from dominating proceedings: generally one delegate for every ten party members, with a maximum of 200. He argues that the proposed ratio of one delegate for every 100 members, without an upper ceiling, is unjustified by the claim that the forthcoming convention venue cannot accommodate a larger gathering.
+
+Raju points to earlier conventions held in halls, including the 1966 convention at Sapru House, which accommodated 642 delegates. He contends that even a quota of one delegate per ten members, capped at 200, should be manageable, and warns that the proposed arrangement could facilitate the party's dissolution through an excessive influx of delegates from Uttar Pradesh. He asks that the quota adopted for the 1973 convention in Madras be retained.
+
 ## Key points
 
 - Raju opposes changing the Swatantra Party's National Convention delegate quota.

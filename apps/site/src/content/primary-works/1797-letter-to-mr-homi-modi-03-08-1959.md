@@ -52,6 +52,10 @@ summary: |-
   This two-page correspondence from 1959 records Isaac Mathai’s support for the newly formed Swatantra Party and his proposal for a substantial series of pamphlets criticizing Congress administration. In a covering letter dated 3 August 1959, Mathai presents an article titled “INDIA IS GREATER THAN HINDI” in support of continuing English as a language of public life, describes his plan for a “Swatantra Series,” and says he has accumulated material on what he views as Congress’s introduction of communism under the label of a welfare state. He also notes his educational publishing work in Bombay and his contact with Rajagopalachari.
 ---
 
+## Summary
+
+This two-page correspondence from 1959 records Isaac Mathai’s support for the newly formed Swatantra Party and his proposal for a substantial series of pamphlets criticizing Congress administration. In a covering letter dated 3 August 1959, Mathai presents an article titled “INDIA IS GREATER THAN HINDI” in support of continuing English as a language of public life, describes his plan for a “Swatantra Series,” and says he has accumulated material on what he views as Congress’s introduction of communism under the label of a welfare state. He also notes his educational publishing work in Bombay and his contact with Rajagopalachari.
+
 ## Key points
 
 - Isaac Mathai identifies himself as an enthusiastic supporter of the Swatantra Party.

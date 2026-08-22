@@ -47,6 +47,12 @@ summary: |-
   The operative change is confined to Section 4 of the 1952 Act. Sub-section (1), as renumbered, replaces the earlier fifteen-day period with one month. A new sub-section (2) is inserted immediately after it: on the death of a Minister, the family is entitled to continued use of the furnished official residence for one month after death without rent or maintenance charge, and for a further month on payment of rent (at rates prescribed by the Central Government) together with electricity and water charges. The text is a self-contained legal instrument — no preamble beyond the enactment formula, and no named individuals appear in the body.
 ---
 
+## Summary
+
+This single-page government gazette page reproduces the Salaries and Allowances of Ministers (Amendment) Act, 1969 (Act No. 47 of 1969), enacted by Parliament on 27th December 1969 and issued by the Government of India's Law Ministry. The Act amends the parent Salaries and Allowances of Ministers Act, 1952, with retrospective effect from 1st November 1966.
+
+The operative change is confined to Section 4 of the 1952 Act. Sub-section (1), as renumbered, replaces the earlier fifteen-day period with one month. A new sub-section (2) is inserted immediately after it: on the death of a Minister, the family is entitled to continued use of the furnished official residence for one month after death without rent or maintenance charge, and for a further month on payment of rent (at rates prescribed by the Central Government) together with electricity and water charges. The text is a self-contained legal instrument — no preamble beyond the enactment formula, and no named individuals appear in the body.
+
 ## Key points
 
 - Statutory short title: The Salaries and Allowances of Ministers (Amendment) Act, 1969 — Act No. 47 of 1969, dated 27th December 1969.

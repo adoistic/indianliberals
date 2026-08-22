@@ -47,6 +47,10 @@ summary: |-
   In this letter dated April 22, 1968, N. Dandekar informs Minoo Masani that the Central Parliamentary Board and the National Executive had considered Masani’s resignation from both bodies at meetings held in New Delhi on April 13 and 14. Dandekar says he read aloud Masani’s resignation letter and reiterated Masani’s refusal to withdraw it, while Professor Ranga declined an invitation to attend the meetings.
 ---
 
+## Summary
+
+In this letter dated April 22, 1968, N. Dandekar informs Minoo Masani that the Central Parliamentary Board and the National Executive had considered Masani’s resignation from both bodies at meetings held in New Delhi on April 13 and 14. Dandekar says he read aloud Masani’s resignation letter and reiterated Masani’s refusal to withdraw it, while Professor Ranga declined an invitation to attend the meetings.
+
 ## Key points
 
 - The letter is dated April 22, 1968, and is addressed to M. R. Masani, MP.

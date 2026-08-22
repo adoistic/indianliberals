@@ -52,6 +52,12 @@ summary: |-
   Masani is particularly concerned that the journal will be associated with the Swatantra Party because Piloo Mody owns and runs it while serving as the party's vice-chairman. Although the party is officially unaffiliated with the journal, Masani argues that the public will identify the two. He asks Rajagopalachari to give Mody a direct warning, while acknowledging that Rajagopalachari may decline to intervene.
 ---
 
+## Summary
+
+In this letter dated June 22, 1963, M. R. Masani writes to C. Rajagopalachari about the political effects of the journal March of the Nation. He reports that the journal's recent coverage has portrayed Krishna Menon as attempting to overthrow Jawaharlal Nehru, while its current lead story presents Pakistan as a villain and risks damaging the patience Rajagopalachari has shown toward India-Pakistan friendship.
+
+Masani is particularly concerned that the journal will be associated with the Swatantra Party because Piloo Mody owns and runs it while serving as the party's vice-chairman. Although the party is officially unaffiliated with the journal, Masani argues that the public will identify the two. He asks Rajagopalachari to give Mody a direct warning, while acknowledging that Rajagopalachari may decline to intervene.
+
 ## Key points
 
 - Masani discusses political reporting in March of the Nation.

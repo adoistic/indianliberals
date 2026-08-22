@@ -51,6 +51,12 @@ summary: |-
   Narayan also treats the moment as favourable for improving India–Pakistan relations. He argues that a new initiative may be possible because both countries increasingly recognise that democracy and economic development require an end to confrontation. He suggests several people who might be invited, including Dilip Mukherji, Sisir Gupta, Ayub, Ajit Bhattacharjee, Syam Lal, Col. Zaidi, and Prof. Mujeeb, and says that his own participation will be limited by travel and the beginning of his retirement period.
 ---
 
+## Summary
+
+In this letter of July 1, 1972, Jayaprakash Narayan replies to Minoo Masani from Bangalore. He declines to become involved in the proposed Panchgani meeting or in the M.R.A.’s programmes, explaining that he doubts the usefulness of group functioning, joint consultations, and attempts to reach consensus among people with differing views. He nevertheless says that he will cooperate if Masani succeeds in organising a group, and mentions the possible participation of former Chief Justice Hidayatullah, while noting Hidayatullah’s earlier intention to confine himself to study and writing.
+
+Narayan also treats the moment as favourable for improving India–Pakistan relations. He argues that a new initiative may be possible because both countries increasingly recognise that democracy and economic development require an end to confrontation. He suggests several people who might be invited, including Dilip Mukherji, Sisir Gupta, Ayub, Ajit Bhattacharjee, Syam Lal, Col. Zaidi, and Prof. Mujeeb, and says that his own participation will be limited by travel and the beginning of his retirement period.
+
 ## Key points
 
 - Narayan thanks Masani for his June 21 letter and gives his travel plans from Bangalore to Patna.

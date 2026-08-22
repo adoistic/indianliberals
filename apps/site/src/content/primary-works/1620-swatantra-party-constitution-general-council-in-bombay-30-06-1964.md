@@ -56,6 +56,12 @@ summary: |-
   The Constitution sets out a representative organisational structure from primary units and District Committees to State or Regional Councils, the General Council, the National Executive, and annual national and regional conventions. It specifies proportional representation, elected office-bearers, co-option limits, voting rights, subscription arrangements, financial auditing, terms of office, rule-making powers, amendment procedures, and transitional arrangements. The document is institutional rather than argumentative: its central concern is to codify internal party governance and electoral procedure.
 ---
 
+## Summary
+
+This eight-page English booklet presents the Swatantra Party's Constitution, as amended by the General Council in Bombay on June 30, 1964. It defines the Party's objective as implementing principles adopted at the Bombay Convention of August 1 and 2, 1959, and establishes eligibility for membership, categories of Workers, Life Workers, and Life Members, and permissible Party activities such as enrolling members, campaigning, addressing public grievances, preparing and distributing literature, and organising study circles.
+
+The Constitution sets out a representative organisational structure from primary units and District Committees to State or Regional Councils, the General Council, the National Executive, and annual national and regional conventions. It specifies proportional representation, elected office-bearers, co-option limits, voting rights, subscription arrangements, financial auditing, terms of office, rule-making powers, amendment procedures, and transitional arrangements. The document is institutional rather than argumentative: its central concern is to codify internal party governance and electoral procedure.
+
 ## Key points
 
 - The document identifies the organisation as the Swatantra Party and dates the visible amendment to June 30, 1964.

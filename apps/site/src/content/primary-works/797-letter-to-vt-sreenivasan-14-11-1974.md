@@ -43,6 +43,10 @@ summary: |-
   This single-page letter from M. R. Masani to V. T. Sreenivasan is dated October 14, 1974, and was written after Masani's return to India. Masani acknowledges receiving Sreenivasan's letters of August 24, September 3, and September 5.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani to V. T. Sreenivasan is dated October 14, 1974, and was written after Masani's return to India. Masani acknowledges receiving Sreenivasan's letters of August 24, September 3, and September 5.
+
 ## Key points
 
 - The letter is dated October 14, 1974.

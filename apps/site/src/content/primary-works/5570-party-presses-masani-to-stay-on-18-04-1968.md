@@ -53,6 +53,12 @@ summary: |-
   The second page lists the newly elected Swatantra Party National Executive for 1967–69. Prof. N. G. Ranga is named president; K. M. Munshi, M. M. Ruthnaswamy, Gayatri Devi, R. N. Singh Deo, and Bhailalbhai Patel are listed as vice-presidents; N. Dandekar as general secretary; and additional joint secretaries, treasurers, and members. The document therefore records both an immediate leadership controversy involving Masani and the party’s formal national organisational structure.
 ---
 
+## Summary
+
+This two-page English-language occasional paper combines a Hindustan Times press clipping with a Swatantra Party administrative roster. The clipping, datelined New Delhi, April 17, reports that M. R. Masani was being pressed by party colleagues to withdraw his resignation from the party’s national executive and central parliamentary board. It describes N. Dandekar’s proposal that Masani remain “a stone” to support the party, and notes disagreement over party discipline and leadership in Gujarat, including the resignation of Gujarat leaders and uncertainty over the deputy leader’s post.
+
+The second page lists the newly elected Swatantra Party National Executive for 1967–69. Prof. N. G. Ranga is named president; K. M. Munshi, M. M. Ruthnaswamy, Gayatri Devi, R. N. Singh Deo, and Bhailalbhai Patel are listed as vice-presidents; N. Dandekar as general secretary; and additional joint secretaries, treasurers, and members. The document therefore records both an immediate leadership controversy involving Masani and the party’s formal national organisational structure.
+
 ## Key points
 
 - A Hindustan Times clipping reports efforts to persuade M. R. Masani to remain in the Swatantra Party leadership.

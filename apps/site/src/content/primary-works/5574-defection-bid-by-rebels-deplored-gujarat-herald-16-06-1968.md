@@ -50,6 +50,12 @@ summary: |-
   The report presents Patel as opposing defections and warning that attempts to encourage them could damage opposition-party unity. He appears to distinguish between efforts to win over political opponents and organized defections, while criticizing the reported move as placing pressure on party members to support disciplinary action. The clipping also contains an adjacent article, “Patel regrets Vaidya’s ‘ingratitude’,” but the summary here focuses on the principal article identified by the catalogued headline.
 ---
 
+## Summary
+
+This one-page English newspaper report from Ahmedabad records H. M. Patel, identified as the Swatantra Party chief, deploring reported negotiations between a rebel leader and members of the Swatantra Party. Patel was responding to a question about talks involving K. Santhanam, the general secretary of the Gujarat Swatantra Party, and Vajpayee in Delhi.
+
+The report presents Patel as opposing defections and warning that attempts to encourage them could damage opposition-party unity. He appears to distinguish between efforts to win over political opponents and organized defections, while criticizing the reported move as placing pressure on party members to support disciplinary action. The clipping also contains an adjacent article, “Patel regrets Vaidya’s ‘ingratitude’,” but the summary here focuses on the principal article identified by the catalogued headline.
+
 ## Key points
 
 - H. M. Patel deplores a reported defection bid by rebel members of the Swatantra Party.

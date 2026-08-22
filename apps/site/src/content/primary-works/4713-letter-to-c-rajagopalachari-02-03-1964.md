@@ -48,6 +48,10 @@ summary: |-
   In this letter dated 2 March 1964, Wilhelm von Pochhammer writes to C. Rajagopalachari (“Rajaji”) about the moral and political condition of India. He praises Gandhi’s grandson for travelling through India to promote Moral Re-Armament, while arguing that moral ideas must be accompanied by practical measures to address agricultural needs and poverty. He presents the Swatantra Party as a potentially important force against the unhealthy features of contemporary public life and says he is following its development closely.
 ---
 
+## Summary
+
+In this letter dated 2 March 1964, Wilhelm von Pochhammer writes to C. Rajagopalachari (“Rajaji”) about the moral and political condition of India. He praises Gandhi’s grandson for travelling through India to promote Moral Re-Armament, while arguing that moral ideas must be accompanied by practical measures to address agricultural needs and poverty. He presents the Swatantra Party as a potentially important force against the unhealthy features of contemporary public life and says he is following its development closely.
+
 ## Key points
 
 - Von Pochhammer commends Gandhi’s grandson for promoting Moral Re-Armament across India.

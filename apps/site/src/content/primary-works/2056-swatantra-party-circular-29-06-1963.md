@@ -53,6 +53,12 @@ summary: |-
   Addressed to “All Members,” the notice asks recipients to attend punctually and requests that the addressee stay for lunch with “Prof. Ranga” after the meeting. It is signed by Kapur Singh as Secretary. The rendered page contains only this administrative notice; it does not provide further information about the party, the election process, or the individuals mentioned.
 ---
 
+## Summary
+
+This one-page English circular, issued by the Swatantra Party Parliamentary Office in New Delhi on June 29, 1963, announces a meeting of the party's parliamentary members. The meeting was scheduled for Monday, August 12, 1963, at 11:45 a.m. at the Western Court Lounge, New Delhi, to elect new office-bearers for the coming year.
+
+Addressed to “All Members,” the notice asks recipients to attend punctually and requests that the addressee stay for lunch with “Prof. Ranga” after the meeting. It is signed by Kapur Singh as Secretary. The rendered page contains only this administrative notice; it does not provide further information about the party, the election process, or the individuals mentioned.
+
 ## Key points
 
 - The document is a circular from the Swatantra Party Parliamentary Office.

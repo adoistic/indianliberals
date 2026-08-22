@@ -54,6 +54,12 @@ summary: |-
   Masani then turns to television, urging the government to use it for information, education, and entertainment, especially in a largely illiterate country. Drawing on broadcasting models in Britain, Japan, the United States, and elsewhere, he recommends an autonomous system under parliamentary and governmental supervision, with competition and regulated sponsorship rather than monopoly or unrestricted commercial advertising. He presents television as capable of reaching rural and poorer audiences through community and institutional sets, and concludes by urging the minister to use his political authority to establish an independent, autonomous, and dignified broadcasting service.
 ---
 
+## Summary
+
+In this Lok Sabha speech of 17 March 1964, Minoo Masani argues that All India Radio should be converted into an autonomous statutory corporation rather than remain a departmental government service. He rejects the claim that subsidies justify departmental control, citing the 1962–63 figures to argue that broadcasting generated a substantial net profit once customs-duty receipts on imported radio sets were included. He also criticizes AIR for bureaucratic rigidity, limited responsiveness to public taste, repetitive programming, and susceptibility to political influence, while acknowledging that the service has many good features.
+
+Masani then turns to television, urging the government to use it for information, education, and entertainment, especially in a largely illiterate country. Drawing on broadcasting models in Britain, Japan, the United States, and elsewhere, he recommends an autonomous system under parliamentary and governmental supervision, with competition and regulated sponsorship rather than monopoly or unrestricted commercial advertising. He presents television as capable of reaching rural and poorer audiences through community and institutional sets, and concludes by urging the minister to use his political authority to establish an independent, autonomous, and dignified broadcasting service.
+
 ## Key points
 
 - Masani supports creating an autonomous statutory corporation to run and control All India Radio.

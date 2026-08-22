@@ -54,6 +54,12 @@ summary: |-
   The minutes also record opposition to the Government of India's decision to continue the Emergency, on the grounds that this would prevent the party from supporting a constitutional amendment. Members discussed a proposed parliamentary delegation to Naxalbari and agreed that any such delegation should bypass the West Bengal government rather than assist it directly or indirectly. They supported a press appeal for Sheikh Abdullah's release, describing his detention as a violation of citizens' civil liberties and Fundamental Rights. The document closes with discussion of the party's policy on West Asia and the Arab-Israel conflict, emphasizing that the party had taken no side.
 ---
 
+## Summary
+
+This one-page set of minutes records a meeting of the Swatantra Party's general body in Parliament on 23 June 1967, held at Parliament House in New Delhi. The members discussed the proposed formation of informal Consultative Committees, which they regarded as violating an assurance given by the Minister for Parliamentary Affairs. The party decided to protest to the minister, boycott the committees, and advise members not to attend their deliberations.
+
+The minutes also record opposition to the Government of India's decision to continue the Emergency, on the grounds that this would prevent the party from supporting a constitutional amendment. Members discussed a proposed parliamentary delegation to Naxalbari and agreed that any such delegation should bypass the West Bengal government rather than assist it directly or indirectly. They supported a press appeal for Sheikh Abdullah's release, describing his detention as a violation of citizens' civil liberties and Fundamental Rights. The document closes with discussion of the party's policy on West Asia and the Arab-Israel conflict, emphasizing that the party had taken no side.
+
 ## Key points
 
 - The Swatantra Party general body met in Parliament on 23 June 1967 with ten members present.

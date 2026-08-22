@@ -56,6 +56,12 @@ summary: |-
   Masani's broader argument defends individual liberty and private property against state expansion. He criticises the Planning Commission and what he describes as governmental drift, citing shortages, economic disorder, and excessive restrictions on enterprise. He calls for agriculture to receive priority, the abolition of controls and barriers to free trade, and a move away from indicative planning. The article also records his qualified engagement with Karl Marx: Marx was right about exploitation helping to create mass poverty, Masani says, but wrong in his conclusions.
 ---
 
+## Summary
+
+In this newspaper report, M. R. Masani, chairman of the Swatantra Party, predicts that Prime Minister Indira Gandhi's mid-term-election gamble will fail and that she will emerge politically weaker rather than stronger. He argues that the threat to constitutional democracy has been exaggerated and says that even if the government wins a large majority, it would not be entitled to truncate fundamental rights protected by the Constitution.
+
+Masani's broader argument defends individual liberty and private property against state expansion. He criticises the Planning Commission and what he describes as governmental drift, citing shortages, economic disorder, and excessive restrictions on enterprise. He calls for agriculture to receive priority, the abolition of controls and barriers to free trade, and a move away from indicative planning. The article also records his qualified engagement with Karl Marx: Marx was right about exploitation helping to create mass poverty, Masani says, but wrong in his conclusions.
+
 ## Key points
 
 - Masani predicts that Indira Gandhi will be weakened, not strengthened, by the mid-term elections.

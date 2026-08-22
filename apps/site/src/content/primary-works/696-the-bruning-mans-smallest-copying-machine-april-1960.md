@@ -54,6 +54,12 @@ summary: |-
   In the rendered pages, the article also criticizes import restrictions, exchange controls, and the resulting distortions between domestic and international prices. It describes black-market trading in import licences and smuggling, and argues that these controls have weakened exports, encouraged inefficient domestic production, and generated unemployment and external deficits. The discussion then turns to foreign aid: although aid has supported the economy and covered much of the balance-of-payments deficit, the article contends that it has often been diverted to non-developmental uses, including gold smuggling and consumer-goods demand, rather than productive capital formation. The article continues beyond the rendered excerpt, so its final recommendations are not visible here.
 ---
 
+## Summary
+
+In the rendered pages, “The Right Road for India” argues that central planning, especially planned over-investment in heavy industry, has failed to mobilize India’s available resources and has instead intensified inflation. The article maintains that inflation has reduced the real income of the masses while benefiting sections of the business and industrial classes through windfall gains, black markets, tax avoidance, and other forms of income transfer. It presents these effects as evidence against the government’s socialist economic policies.
+
+In the rendered pages, the article also criticizes import restrictions, exchange controls, and the resulting distortions between domestic and international prices. It describes black-market trading in import licences and smuggling, and argues that these controls have weakened exports, encouraged inefficient domestic production, and generated unemployment and external deficits. The discussion then turns to foreign aid: although aid has supported the economy and covered much of the balance-of-payments deficit, the article contends that it has often been diverted to non-developmental uses, including gold smuggling and consumer-goods demand, rather than productive capital formation. The article continues beyond the rendered excerpt, so its final recommendations are not visible here.
+
 ## Key points
 
 - Central planning and planned over-investment, particularly in heavy industry, are presented as self-defeating.

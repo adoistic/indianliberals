@@ -53,6 +53,12 @@ summary: |-
   In the rendered pages, Shah calls for a less defensive and more constructive relationship between business and government. He argues that industrialists and businessmen should demonstrate fearlessness, higher values, and positive action by proposing practical solutions to unemployment and the misuse of scarce national resources. The article is visibly continued on page 6, column 6, so the conclusion and any further proposals are not present in the supplied pages.
 ---
 
+## Summary
+
+In the rendered pages, Viren J. Shah argues that the business community should examine its own conduct rather than blame politicians or the press for its poor public image. The article links that image to the growth of state controls, restrictions on private enterprise, conspicuous accumulation of wealth, concentration of economic power, and business practices that appear self-serving. Shah contrasts this with the greater public-mindedness and willingness to support national causes that he associates with some business leaders before and during the independence movement.
+
+In the rendered pages, Shah calls for a less defensive and more constructive relationship between business and government. He argues that industrialists and businessmen should demonstrate fearlessness, higher values, and positive action by proposing practical solutions to unemployment and the misuse of scarce national resources. The article is visibly continued on page 6, column 6, so the conclusion and any further proposals are not present in the supplied pages.
+
 ## Key points
 
 - Shah says the business community's public image cannot be separated from its actual conduct.

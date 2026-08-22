@@ -51,6 +51,12 @@ summary: |-
   Raju asks members to keep the Central Office informed of all parliamentary work—questions, resolutions, and speeches—and to send speech texts immediately after delivery. The letter explains that delays in the Parliamentary Office’s typing process make prompt submission necessary, and closes by requesting members’ addresses in Delhi so the party can give greater publicity to its parliamentary work.
 ---
 
+## Summary
+
+This one-page Swatantra Party Central Office circular, dated June 15, 1967, is addressed to Members of Parliament and signed by Executive Secretary S. V. Raju. It acknowledges that issue no. 9 of “Swatantra in Parliament” does not fully record the party’s participation during the first session of the Fourth Lok Sabha, including questions asked and notices submitted.
+
+Raju asks members to keep the Central Office informed of all parliamentary work—questions, resolutions, and speeches—and to send speech texts immediately after delivery. The letter explains that delays in the Parliamentary Office’s typing process make prompt submission necessary, and closes by requesting members’ addresses in Delhi so the party can give greater publicity to its parliamentary work.
+
 ## Key points
 
 - The circular is addressed exclusively to Members of Parliament.

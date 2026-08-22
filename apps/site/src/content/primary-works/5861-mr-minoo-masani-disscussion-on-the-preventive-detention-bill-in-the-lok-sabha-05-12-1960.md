@@ -55,6 +55,12 @@ summary: |-
   Masani distinguishes preventive detention from ordinary criminal prosecution, emphasizing that detention deprives a person of liberty without first producing them before a court. He invokes Britain’s wartime experience, including Herbert Morrison’s release of Oswald Mosley, and quotes Winston Churchill’s warning that executive detention without charge is a foundation of totalitarian government and should be used only in extreme danger. He then challenges the government’s reliance on the Munshi Committee report in the case of Master Tara Singh, arguing that the report found no sufficient justification for detention on the specific allegations of planned violence and conspiracy with Pakistan. The intervention ends with Masani urging that Tara Singh’s detention be terminated.
 ---
 
+## Summary
+
+In this intervention in the Lok Sabha debate on the Preventive Detention (Continuance) Bill, 1960, M. R. Masani states that he and his party oppose the principle of preventive detention. He argues that executive detention without charge or trial threatens individual liberty and democratic government, and asks the Home Minister to replace what he calls a hasty improvisation with a carefully considered measure that defends democracy against authoritarian aggression.
+
+Masani distinguishes preventive detention from ordinary criminal prosecution, emphasizing that detention deprives a person of liberty without first producing them before a court. He invokes Britain’s wartime experience, including Herbert Morrison’s release of Oswald Mosley, and quotes Winston Churchill’s warning that executive detention without charge is a foundation of totalitarian government and should be used only in extreme danger. He then challenges the government’s reliance on the Munshi Committee report in the case of Master Tara Singh, arguing that the report found no sufficient justification for detention on the specific allegations of planned violence and conspiracy with Pakistan. The intervention ends with Masani urging that Tara Singh’s detention be terminated.
+
 ## Key points
 
 - Masani declares opposition to the principle of preventive detention and to the Bill under discussion.

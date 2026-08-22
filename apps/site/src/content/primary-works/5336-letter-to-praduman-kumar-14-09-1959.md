@@ -44,6 +44,10 @@ summary: |-
   This one-page English office letter, dated 14 September 1959 and sent from Delhi, responds to Mr. Pradhuman Kumar Samar's proposal that M. R. Masani attend a symposium on 13 October. The secretary explains that the letter addressed to Masani had been redirected from his Delhi address, and that Masani was currently out of station and not expected back in India until around 6 October.
 ---
 
+## Summary
+
+This one-page English office letter, dated 14 September 1959 and sent from Delhi, responds to Mr. Pradhuman Kumar Samar's proposal that M. R. Masani attend a symposium on 13 October. The secretary explains that the letter addressed to Masani had been redirected from his Delhi address, and that Masani was currently out of station and not expected back in India until around 6 October.
+
 ## Key points
 
 - The letter is dated 14 September 1959 and originates from Delhi.

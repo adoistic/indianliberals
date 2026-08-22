@@ -49,6 +49,10 @@ summary: |-
   In this letter dated March 4, 1975, M. R. Masani replies to Mr. N. W. Sawant regarding correspondence about recovery of motor-vehicle tax. Masani states that the vehicles in question were subject to tax for the period 1967–1970 and clarifies that they were bought as hire-purchase vehicles in the name of the Swatantra Party, whose headquarters were at 145 Marine Gandhi Road, Bombay 2.
 ---
 
+## Summary
+
+In this letter dated March 4, 1975, M. R. Masani replies to Mr. N. W. Sawant regarding correspondence about recovery of motor-vehicle tax. Masani states that the vehicles in question were subject to tax for the period 1967–1970 and clarifies that they were bought as hire-purchase vehicles in the name of the Swatantra Party, whose headquarters were at 145 Marine Gandhi Road, Bombay 2.
+
 ## Key points
 
 - Masani responds to Sawant's earlier letters concerning motor-vehicle tax.

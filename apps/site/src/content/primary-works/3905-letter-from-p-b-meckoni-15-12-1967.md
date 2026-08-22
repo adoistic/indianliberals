@@ -48,6 +48,12 @@ summary: |-
   Meckoni notes that only one Rajya Sabha speech, delivered by M. Ruthnaswamy on November 22, had been received as of the letter’s date. He requests that members immediately forward all speeches delivered since November 20, either to him or to Jagdish Gupta at the party’s Parliamentary Office in New Delhi. He also refers to the delayed publication of issue no. 11 and asks that future material reach the Central Office in time for publication within a fortnight after each parliamentary session.
 ---
 
+## Summary
+
+This one-page English letter, issued on December 15, 1967 from the Swatantra Party Central Office in Bombay, concerns the party’s publication “Swatantra In Parliament.” P. B. Meckoni asks all Lok Sabha and Rajya Sabha members to send the texts of their speeches, parliamentary questions, and ministerial answers so that the material can be published without delay.
+
+Meckoni notes that only one Rajya Sabha speech, delivered by M. Ruthnaswamy on November 22, had been received as of the letter’s date. He requests that members immediately forward all speeches delivered since November 20, either to him or to Jagdish Gupta at the party’s Parliamentary Office in New Delhi. He also refers to the delayed publication of issue no. 11 and asks that future material reach the Central Office in time for publication within a fortnight after each parliamentary session.
+
 ## Key points
 
 - The letter is dated December 15, 1967 and is issued on Swatantra Party Central Office letterhead from Bombay.

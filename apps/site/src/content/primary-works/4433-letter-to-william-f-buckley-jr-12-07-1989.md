@@ -48,6 +48,12 @@ summary: |-
   The letter closes with Masani's characteristic collegial encouragement—wishing Buckley “more power to your elbow”—and is copied to S. V. Raju, identified as Editor of Freedom First. The document provides a brief record of cooperation and mutual support among editors associated with liberal and free-press publishing.
 ---
 
+## Summary
+
+This single-page letter, dated July 12, 1989, records Minoo Masani's warm response to William F. Buckley Jr.'s personal letter of June 26. Masani thanks Buckley for agreeing to transfer his complimentary subscription to the editor of Freedom First and expresses his longstanding interest in and admiration for the magazine.
+
+The letter closes with Masani's characteristic collegial encouragement—wishing Buckley “more power to your elbow”—and is copied to S. V. Raju, identified as Editor of Freedom First. The document provides a brief record of cooperation and mutual support among editors associated with liberal and free-press publishing.
+
 ## Key points
 
 - Minoo Masani replies to William F. Buckley's June 26 personal letter.

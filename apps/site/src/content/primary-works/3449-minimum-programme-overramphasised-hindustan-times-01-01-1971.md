@@ -49,6 +49,10 @@ summary: |-
   In the rendered clipping, S. Gundappa reports that the Swatantra Party’s decision to join a proposed democratic alliance of the Congress (O), Jan Sangh and Socialist Party (SSP) has been followed by disagreement over the alliance’s proposed minimum programme. The article says that Minoo Masani objected to the programme as excessively detailed, arguing instead for a full-fledged alliance without an elaborate common platform. It also notes C. Rajagopalachari’s concern that the parties’ differences could not be bridged without agreement on a minimum programme.
 ---
 
+## Summary
+
+In the rendered clipping, S. Gundappa reports that the Swatantra Party’s decision to join a proposed democratic alliance of the Congress (O), Jan Sangh and Socialist Party (SSP) has been followed by disagreement over the alliance’s proposed minimum programme. The article says that Minoo Masani objected to the programme as excessively detailed, arguing instead for a full-fledged alliance without an elaborate common platform. It also notes C. Rajagopalachari’s concern that the parties’ differences could not be bridged without agreement on a minimum programme.
+
 ## Key points
 
 - The article is datelined Madras, Jan. 6, and is credited to S. Gundappa, a Hindustan Times correspondent.

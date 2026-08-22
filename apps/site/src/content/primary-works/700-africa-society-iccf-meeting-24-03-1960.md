@@ -55,6 +55,12 @@ summary: |-
   The pages headed “Lecture Notes” turn to Indian political organisation, especially Bihar and a proposed party associated with C. R. leadership. They emphasise Bihar’s organisational capacity, impatience with existing politics, opposition to statism and a controlled economy, and the need to build a mass base among peasants and middle classes. The notes also record a proposed Patna convention, questions about forming a united front, opposition to cooperation with the Communist Party of India, and a preference for new political faces and voices. The final handwritten pages are difficult to read and appear to contain further meeting notes on democracy, external and internal politics, and organisational strategy.
 ---
 
+## Summary
+
+These six pages comprise English-language typescript and handwritten notes from several political meetings and lectures in 1960. The Africa Society/ I.C.C.F. meeting notes dated 24 March 1960 argue that African self-determination is inevitable and describe decolonisation as potentially peaceful, citing British withdrawal from Ghana and Nigeria, France’s commitments in West Africa and Madagascar, and the United States’ withdrawal of military bases in Morocco. The notes stress that cooperation requires understanding rather than idealisation, while warning that Soviet, Chinese, and other forms of imperial influence could replace European colonialism. They advocate multiracial democracy, federal arrangements, vigilance against coercion, and resistance to communist propaganda and “united front” tactics.
+
+The pages headed “Lecture Notes” turn to Indian political organisation, especially Bihar and a proposed party associated with C. R. leadership. They emphasise Bihar’s organisational capacity, impatience with existing politics, opposition to statism and a controlled economy, and the need to build a mass base among peasants and middle classes. The notes also record a proposed Patna convention, questions about forming a united front, opposition to cooperation with the Communist Party of India, and a preference for new political faces and voices. The final handwritten pages are difficult to read and appear to contain further meeting notes on democracy, external and internal politics, and organisational strategy.
+
 ## Key points
 
 - African self-determination is presented as inevitable, with the remaining issue being when and how it will occur.

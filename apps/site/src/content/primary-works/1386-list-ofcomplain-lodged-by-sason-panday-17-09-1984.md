@@ -52,6 +52,12 @@ summary: |-
   Panday’s account presents the dispute as both a property-access conflict and a question of political integrity. She recounts a lunch conversation in which Rajda promised to restore the cabin but later arranged further construction and restricted entry. The letter asks the Janata Party leadership to investigate, obtain testimony from party members and associates, and reconsider Rajda’s candidacy. A correction appended to the complaint revises Panday’s legal status from joint tenant to sub-tenant of the Swatantra Party and clarifies the limited extent of The White Star’s premises. The pages also mention Rajda’s earlier connection with the Swatantra Party, Piloo Mody’s letter authorising constituency work, and Vedprakash Bhatia’s role in maintaining the premises.
 ---
 
+## Summary
+
+This four-page English correspondence consists of Sosan Panday’s October 12, 1984 letter to Dr. G. G. Parikh, enclosing a September 17 police complaint about alterations to shared office premises at 143 Mahatma Gandhi Road, Bombay. Panday identifies herself as proprietor of the journal The White Star and describes her tenancy alongside the Swatantra Party. She alleges that Ratan Singh Rajda, M.P., changed the entrance lock, shifted a cabin, obstructed access to a room, and retained the keys without her consent.
+
+Panday’s account presents the dispute as both a property-access conflict and a question of political integrity. She recounts a lunch conversation in which Rajda promised to restore the cabin but later arranged further construction and restricted entry. The letter asks the Janata Party leadership to investigate, obtain testimony from party members and associates, and reconsider Rajda’s candidacy. A correction appended to the complaint revises Panday’s legal status from joint tenant to sub-tenant of the Swatantra Party and clarifies the limited extent of The White Star’s premises. The pages also mention Rajda’s earlier connection with the Swatantra Party, Piloo Mody’s letter authorising constituency work, and Vedprakash Bhatia’s role in maintaining the premises.
+
 ## Key points
 
 - Panday’s letter to Janata Party president Dr. G. G. Parikh encloses a police complaint filed on September 17, 1984.

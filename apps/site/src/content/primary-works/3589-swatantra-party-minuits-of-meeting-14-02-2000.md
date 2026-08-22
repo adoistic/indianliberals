@@ -49,6 +49,10 @@ summary: |-
   These minutes record the meeting of the Executive Committee of the Swatantra Party, Maharashtra, held on 14 February 2000 at the party office in Mumbai, with S. V. Raju in the chair. The committee confirmed the minutes of two earlier meetings and discussed replacing the deceased general secretary, L. R. Sampat. R. Ramakrishnan, described as a long-standing party member and former joint secretary of the Matunga unit, was unanimously appointed both to the Executive Committee and as General Secretary.
 ---
 
+## Summary
+
+These minutes record the meeting of the Executive Committee of the Swatantra Party, Maharashtra, held on 14 February 2000 at the party office in Mumbai, with S. V. Raju in the chair. The committee confirmed the minutes of two earlier meetings and discussed replacing the deceased general secretary, L. R. Sampat. R. Ramakrishnan, described as a long-standing party member and former joint secretary of the Matunga unit, was unanimously appointed both to the Executive Committee and as General Secretary.
+
 ## Key points
 
 - S. V. Raju chaired the Executive Committee meeting held on 14 February 2000.

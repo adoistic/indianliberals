@@ -46,6 +46,10 @@ summary: |-
   This one-page English office statement, dated 26 November 1974, is addressed to the Bhartiya Lok Dal in Bombay. It reports rent and electricity expenses paid for October 1974, including rent of Rs. 355.14, arrears and education cess bringing the rent-related amount to Rs. 587.94, and electricity charges of Rs. 282.26.
 ---
 
+## Summary
+
+This one-page English office statement, dated 26 November 1974, is addressed to the Bhartiya Lok Dal in Bombay. It reports rent and electricity expenses paid for October 1974, including rent of Rs. 355.14, arrears and education cess bringing the rent-related amount to Rs. 587.94, and electricity charges of Rs. 282.26.
+
 ## Key points
 
 - The statement is dated 26th November 1974 and addressed to the Bhartiya Lok Dal, Bombay.

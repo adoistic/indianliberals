@@ -49,6 +49,12 @@ summary: |-
   Masani requests publication in the Hindustan Times from 16 May onward and notes that a copy has also been sent to S. Mulgaokar. He further asks Bhattacharya to reconsider editorial comments in the 2 May issue describing his negotiations as “academic,” suggesting that these comments could be revised. The single rendered page contains the letter, its handwritten signature, and carbon-copy distribution details; no article text is included.
 ---
 
+## Summary
+
+In this letter dated 13 May 1968, M. R. Masani writes to Ajit Bhattacharya, editor of the Hindustan Times, about the publication of an approximately 1,250-word article. Because elections in Haryana are scheduled for 12 and 14 May, Masani asks that the article not appear until after polling, arguing that his public remarks before then could create adverse impressions about the party’s candidates.
+
+Masani requests publication in the Hindustan Times from 16 May onward and notes that a copy has also been sent to S. Mulgaokar. He further asks Bhattacharya to reconsider editorial comments in the 2 May issue describing his negotiations as “academic,” suggesting that these comments could be revised. The single rendered page contains the letter, its handwritten signature, and carbon-copy distribution details; no article text is included.
+
 ## Key points
 
 - Masani’s letter is dated 13 May 1968 and is addressed to Ajit Bhattacharya of the Hindustan Times.

@@ -47,6 +47,10 @@ summary: |-
   This letter, dated August 14, 1974, is M. R. Masani’s reply to P. Rangaswami concerning a proposal that Masani take up the presidency of the Swatantra Party. Masani declines, explaining that he does not believe he could be of much help in reviving the party, even if it were to continue.
 ---
 
+## Summary
+
+This letter, dated August 14, 1974, is M. R. Masani’s reply to P. Rangaswami concerning a proposal that Masani take up the presidency of the Swatantra Party. Masani declines, explaining that he does not believe he could be of much help in reviving the party, even if it were to continue.
+
 ## Key points
 
 - The letter is dated August 14, 1974.

@@ -52,6 +52,12 @@ summary: |-
   Patel is particularly wary that a proposal combining the opposition and selecting Jaipal Singh may have originated as a Communist initiative. He reports growing instability within the Swatantra Party, including members declaring themselves independent and others stating that they do not belong to the party. He hopes to convene members to improve party cohesion and discusses possible cooperation in the Rajya Sabha, including Jaipal Singh, Mrs. Jaipal Singh, Shri Oberoi, Raja Man Singh Ji, and the advice of V. T. Krishnamachari. The two-page letter ends with Patel's expectation of meeting Masani in Bombay and a handwritten postscript about sending him a package.
 ---
 
+## Summary
+
+In this letter dated New Delhi, 21 April 1962, Dahyabhai Vallabhbhai Patel writes to Minoo Masani about political manoeuvring around the election of a Deputy Speaker and the coordination of opposition forces. Patel welcomes Masani's telegram to Raja Sahab of Mankapur but cautions that the State Assemblies are not under their control and that many are not in session, making it difficult to advise them to support Dr. Radhakrishnan.
+
+Patel is particularly wary that a proposal combining the opposition and selecting Jaipal Singh may have originated as a Communist initiative. He reports growing instability within the Swatantra Party, including members declaring themselves independent and others stating that they do not belong to the party. He hopes to convene members to improve party cohesion and discusses possible cooperation in the Rajya Sabha, including Jaipal Singh, Mrs. Jaipal Singh, Shri Oberoi, Raja Man Singh Ji, and the advice of V. T. Krishnamachari. The two-page letter ends with Patel's expectation of meeting Masani in Bombay and a handwritten postscript about sending him a package.
+
 ## Key points
 
 - Patel discusses Masani's telegram to Raja Sahab of Mankapur concerning support for Dr. Radhakrishnan.

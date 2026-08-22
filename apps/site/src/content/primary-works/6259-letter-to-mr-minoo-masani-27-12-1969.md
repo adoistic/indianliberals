@@ -46,6 +46,12 @@ summary: |-
   The letter emphasizes the consoling value of remembrance and sympathy and closes with a formal expression of thanks. No printed title, publication information, or wider correspondence context appears on the page.
 ---
 
+## Summary
+
+This one-page English letter, written on the Chief Minister of Orissa State’s letterhead in Bhubaneswar and dated 27 December 1969, is addressed to M. R. Masani, M.P. R. N. Singh Deo thanks Masani for sending a message of condolence following a bereavement.
+
+The letter emphasizes the consoling value of remembrance and sympathy and closes with a formal expression of thanks. No printed title, publication information, or wider correspondence context appears on the page.
+
 ## Key points
 
 - The document is a single-page official/personal letter dated 27 December 1969.

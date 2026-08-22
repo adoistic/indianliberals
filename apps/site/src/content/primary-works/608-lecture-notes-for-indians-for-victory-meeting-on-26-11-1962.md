@@ -52,6 +52,12 @@ summary: |-
   Politically, the notes identify a larger task: persuading a patriotic but angry public that has been shaped by “ten years of neutralism” and what the author calls an “intellectual fog.” The public is described as prepared to listen, and “Indians for Victory” is urged to continue regardless of the government’s decision. The pages also record a welcome to the organisation, approval of its objective, and good wishes for its future. No speaker, author, venue, publisher, or issuing organisation is identified on the pages.
 ---
 
+## Summary
+
+These three-page lecture notes for the 26 November 1962 “Indians for Victory” meeting argue that the organisation’s objective remains necessary after the change in circumstances created by the Sino-Indian conflict. The notes divide its purpose into military and political functions. Militarily, the immediate issue is whether the government should accept or reject the Chinese ultimatum; acceptance is presented as demoralising to the armed forces and dangerous to India’s regional position, while rejection is framed as feasible if India can exploit the enemy’s vulnerability, secure numerical superiority, obtain adequate firepower, and receive air support from the United States and the United Kingdom.
+
+Politically, the notes identify a larger task: persuading a patriotic but angry public that has been shaped by “ten years of neutralism” and what the author calls an “intellectual fog.” The public is described as prepared to listen, and “Indians for Victory” is urged to continue regardless of the government’s decision. The pages also record a welcome to the organisation, approval of its objective, and good wishes for its future. No speaker, author, venue, publisher, or issuing organisation is identified on the pages.
+
 ## Key points
 
 - The notes endorse the objective of “Indians for Victory” and argue that the organisation is needed more than ever.

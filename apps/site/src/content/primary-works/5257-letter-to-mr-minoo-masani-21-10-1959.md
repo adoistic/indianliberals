@@ -49,6 +49,12 @@ summary: |-
   The second page is a related printed notice for a Swatantra Party Conference at Don Bosco Hall, Mangalore, on Sunday, 25 October 1959. It advertises addresses by Minnu Masani, M.P., described as the author of Our India, and Lobo Prabhu, I.C.S. (Retd.), described as the author of New Thinking, and lists K. U. Shetty and R. K. Salian as secretaries. Together, the pages document local party organisation, public event promotion, and efforts to secure the participation of a prominent speaker.
 ---
 
+## Summary
+
+This two-page English-language document comprises a 21 October 1959 letter from the Swatantra Party's South Kanara District Unit in Mangalore to M. R. Masani, M.P. The letter confirms a telegram sent by Thimmappa Shetty concerning Masani's travel to Belgaum, reports that Air India was attempting to arrange a seat for him on 24 October, and stresses that his absence from the advertised inauguration would disappoint the public. The communication is signed by R. K. Salian as Secretary of the Reception Committee.
+
+The second page is a related printed notice for a Swatantra Party Conference at Don Bosco Hall, Mangalore, on Sunday, 25 October 1959. It advertises addresses by Minnu Masani, M.P., described as the author of Our India, and Lobo Prabhu, I.C.S. (Retd.), described as the author of New Thinking, and lists K. U. Shetty and R. K. Salian as secretaries. Together, the pages document local party organisation, public event promotion, and efforts to secure the participation of a prominent speaker.
+
 ## Key points
 
 - The letter was issued by the Swatantra Party's South Kanara District Unit in Mangalore on 21 October 1959.

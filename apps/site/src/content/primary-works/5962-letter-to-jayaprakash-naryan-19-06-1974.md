@@ -49,6 +49,12 @@ summary: |-
   Masani also reports on a Swatantra Party meeting that he did not attend, saying that it ended in an unresolved division and that a National Convention would be convened in early August. He praises Narayan’s interview with Kuldeep Nair in The Statesman, and asks for an update on Narayan’s health, particularly whether his wound has healed completely.
 ---
 
+## Summary
+
+This confidential letter from Minoo Masani to Jayaprakash Narayan, dated June 19, 1974, discusses the difficulty of communicating through the Telegraph Office and asks Narayan to acknowledge receipt of a packet without identifying the friends who arranged its delivery. Masani says the arrangement is intended to cover June, July, and August, after which they can discuss matters in person when Narayan comes to Bombay in July.
+
+Masani also reports on a Swatantra Party meeting that he did not attend, saying that it ended in an unresolved division and that a National Convention would be convened in early August. He praises Narayan’s interview with Kuldeep Nair in The Statesman, and asks for an update on Narayan’s health, particularly whether his wound has healed completely.
+
 ## Key points
 
 - Masani describes the Telegraph Office as sufficiently inefficient to make life difficult.

@@ -47,6 +47,10 @@ summary: |-
   This single-page telegram, dated 8 May 1963, is addressed to Masani at 57 Lodi Estate, New Delhi. The brief message reassures the recipient not to worry and expresses confidence that the recipient will recover. It is signed "RAJAJI," identifying C. Rajagopalachari as the apparent sender.
 ---
 
+## Summary
+
+This single-page telegram, dated 8 May 1963, is addressed to Masani at 57 Lodi Estate, New Delhi. The brief message reassures the recipient not to worry and expresses confidence that the recipient will recover. It is signed "RAJAJI," identifying C. Rajagopalachari as the apparent sender.
+
 ## Key points
 
 - The document is a single-page telegram on an Indian Posts & Telegraphs Department form.

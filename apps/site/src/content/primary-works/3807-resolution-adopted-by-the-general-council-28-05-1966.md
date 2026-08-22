@@ -54,6 +54,12 @@ summary: |-
   The resolution argues that weapons production would initiate a ruinous arms race, lead to economic ruin and moral stultification, and that India should instead seek international prohibition of nuclear weapons. Until such a ban exists, it recommends seeking an assurance from the United States—referring to President Johnson’s October 1964 offer—that it would provide full protection against a nuclear threat. The motion was moved by C. Rajagopalachari and seconded by Dhyabhai V. Patel.
 ---
 
+## Summary
+
+This one-page resolution, adopted by the Swatantra Party General Council on 28 May 1966, rejects any Indian programme to manufacture nuclear weapons. It affirms that the position taken under Jawaharlal Nehru’s leadership remains valid and presents nuclear armament as both strategically dangerous and economically irresponsible for a country dependent on foreign aid even for basic civil necessities.
+
+The resolution argues that weapons production would initiate a ruinous arms race, lead to economic ruin and moral stultification, and that India should instead seek international prohibition of nuclear weapons. Until such a ban exists, it recommends seeking an assurance from the United States—referring to President Johnson’s October 1964 offer—that it would provide full protection against a nuclear threat. The motion was moved by C. Rajagopalachari and seconded by Dhyabhai V. Patel.
+
 ## Key points
 
 - The Swatantra Party formally opposes any Indian scheme to manufacture nuclear weapons.

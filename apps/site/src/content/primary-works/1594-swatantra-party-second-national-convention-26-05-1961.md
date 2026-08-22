@@ -63,6 +63,12 @@ summary: |-
   The report also stresses the party’s financial constraints, anti-inflation campaigns, state conventions, leadership tours, publications, parliamentary interventions, and engagement with Liberal International. Its political concerns include opposition to the Congress government’s inflationary policies and Third Five Year Plan, defence of civil liberties in Punjab, resistance to Chinese aggression, and criticism of corporate political funding. The account is both administrative and polemical: it documents organisational work while arguing that a small but principled opposition party can shape public debate and preserve dissent.
 ---
 
+## Summary
+
+M. R. Masani’s General Secretary’s Report, prepared for the Swatantra Party’s Second National Convention in Agra on 25–26 November 1961, reviews the party’s activities during the nineteen months since its first convention at Patna. The report records the adoption of the party constitution and the statement of policy “To Prosperity Through Freedom,” the reconstitution of state committees, membership verification, meetings of the General Council and Central Organising Committee, and preparations for the 1962 elections. It presents the party as a growing but uneven national organisation, with a scrutinised membership of 3,19,358 at the end of September 1960, strongest in Uttar Pradesh and Bihar.
+
+The report also stresses the party’s financial constraints, anti-inflation campaigns, state conventions, leadership tours, publications, parliamentary interventions, and engagement with Liberal International. Its political concerns include opposition to the Congress government’s inflationary policies and Third Five Year Plan, defence of civil liberties in Punjab, resistance to Chinese aggression, and criticism of corporate political funding. The account is both administrative and polemical: it documents organisational work while arguing that a small but principled opposition party can shape public debate and preserve dissent.
+
 ## Key points
 
 - The report covers nineteen months of Swatantra Party activity from the Patna convention in March 1960 to the Agra convention in November 1961.

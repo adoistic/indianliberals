@@ -49,6 +49,12 @@ summary: |-
   Signed by M. R. Masani as General Secretary, the circular is addressed to a party colleague and functions as an internal administrative notice. No substantive policy argument, resolution, or discussion of the party's programme appears on the rendered page.
 ---
 
+## Summary
+
+This one-page English office circular, issued by the Swatantra Party Central Office on 24 September 1965, announces the next meeting of the party's Central Parliamentary Board. The meeting is scheduled for Friday, 29 October, at Kalki Buildings, Kilpauk, Madras 10; its exact time and agenda are to be notified later.
+
+Signed by M. R. Masani as General Secretary, the circular is addressed to a party colleague and functions as an internal administrative notice. No substantive policy argument, resolution, or discussion of the party's programme appears on the rendered page.
+
 ## Key points
 
 - The document is headed “CENTRAL PARLIAMENTARY BOARD CIRCULAR NO. 4/65.”

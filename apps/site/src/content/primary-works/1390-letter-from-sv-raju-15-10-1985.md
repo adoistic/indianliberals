@@ -48,6 +48,10 @@ summary: |-
   In this letter dated October 15, 1985, S. V. Raju apologises to Harijar Patel for delaying his reply while preparing for Minoo Masani's eightieth-birthday programme. He acknowledges receiving papers on the Swatantra Party through P. C. Das but says he has not yet reviewed them. Raju dismisses the purported revival of the Swatantra Party, arguing that it has no sanction beyond its own initiator.
 ---
 
+## Summary
+
+In this letter dated October 15, 1985, S. V. Raju apologises to Harijar Patel for delaying his reply while preparing for Minoo Masani's eightieth-birthday programme. He acknowledges receiving papers on the Swatantra Party through P. C. Das but says he has not yet reviewed them. Raju dismisses the purported revival of the Swatantra Party, arguing that it has no sanction beyond its own initiator.
+
 ## Key points
 
 - The letter is dated October 15, 1985, and is signed by S. V. Raju.

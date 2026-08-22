@@ -48,6 +48,10 @@ summary: |-
   This 29 November 1974 letter from V. S. Srikumar, Secretary of the Madras District Swatantra Party, to S. V. Raju concerns preparations for an All India Swatantra Party National General Council meeting in Madras on 8 December 1974. Srikumar proposes holding the meeting on the 96th birthday of the late C. Rajagopalachari (“Rajaji”) as a way to rededicate the party to the cause he championed, and asks Raju to mobilise supportive council members from his state.
 ---
 
+## Summary
+
+This 29 November 1974 letter from V. S. Srikumar, Secretary of the Madras District Swatantra Party, to S. V. Raju concerns preparations for an All India Swatantra Party National General Council meeting in Madras on 8 December 1974. Srikumar proposes holding the meeting on the 96th birthday of the late C. Rajagopalachari (“Rajaji”) as a way to rededicate the party to the cause he championed, and asks Raju to mobilise supportive council members from his state.
+
 ## Key points
 
 - The letter is dated 29 November 1974 and is issued on Madras District Swatantra Party letterhead.

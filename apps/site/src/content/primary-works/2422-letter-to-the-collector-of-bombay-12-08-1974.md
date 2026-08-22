@@ -48,6 +48,12 @@ summary: |-
   The letter explains that the vehicles were later sold: two to the Cement Marketing Co. of India Ltd. in Calcutta and one to Maharani Gayatri Devi of Jaipur. It asks the Collector to contact the Bombay Regional Transport Office and correct its records, maintaining that nothing is owed to the RTO or anyone else in Bombay. The document offers a concise example of an administrative dispute involving property records, taxation, and the territorial reach of state regulation.
 ---
 
+## Summary
+
+This true copy of a letter dated August 12, 1974, is addressed to the Collector of Bombay regarding a demand for land revenue under Section 267 of the Maharashtra Act No. XLI of 1966. The letter concerns three vehicles—MRA 4092, MRA 4095, and MRA 4096—registered in the name of Minocher Rustom Masani. The signatory, V. P. Bhatta, states that the vehicles were purchased in January 1967 and subsequently sent to West Bengal and Jaipur, so they were no longer in Bombay when the demand arose.
+
+The letter explains that the vehicles were later sold: two to the Cement Marketing Co. of India Ltd. in Calcutta and one to Maharani Gayatri Devi of Jaipur. It asks the Collector to contact the Bombay Regional Transport Office and correct its records, maintaining that nothing is owed to the RTO or anyone else in Bombay. The document offers a concise example of an administrative dispute involving property records, taxation, and the territorial reach of state regulation.
+
 ## Key points
 
 - The letter is dated August 12, 1974, and addressed to the Collector of Bombay.

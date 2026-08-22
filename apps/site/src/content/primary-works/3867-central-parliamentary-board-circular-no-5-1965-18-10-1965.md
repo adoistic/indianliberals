@@ -51,6 +51,12 @@ summary: |-
   The remaining agenda concerns electoral organisation: assessing progress in constituencies where prospective candidates have been nominated, considering processed recommendations for parliamentary candidates, and taking up any other matter with the Chair’s permission. The document is an internal administrative communication rather than a statement of political policy.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated October 18, 1965, announces the agenda for a Central Parliamentary Board meeting scheduled for October 29 in Madras. Signed by General Secretary M. R. Masani, it asks members to confirm the minutes of the previous meeting and review the party’s work in both Houses of Parliament and the state assemblies.
+
+The remaining agenda concerns electoral organisation: assessing progress in constituencies where prospective candidates have been nominated, considering processed recommendations for parliamentary candidates, and taking up any other matter with the Chair’s permission. The document is an internal administrative communication rather than a statement of political policy.
+
 ## Key points
 
 - The circular is issued by the Swatantra Party Central Office on October 18, 1965.

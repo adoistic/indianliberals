@@ -51,6 +51,12 @@ summary: |-
   Masani surveys coverage of the Maharishi Mahesh Yogi’s proposed meditation centre, Morarji Desai’s reported visit to a London pub, Chagla’s resignation, firing along the Sikkim border, birth-control policy, food shortages, student violence, the expulsion of foreign voluntary workers assisting Tibetan refugees, and the seizure of gold from a BOAC aircraft. He concludes that public relations cannot compensate for policies lacking generosity and fairness. The report ends by calling for constructive debate, vigilant defence of individual rights, and conduct that would better honour Mahatma Gandhi’s example of service, sacrifice, and high moral standards.
 ---
 
+## Summary
+
+In “A Report from Europe,” Minoo Masani examines how Indian news and official conduct were shaping the country’s reputation abroad. Drawing on a recent European visit, including meetings of Liberal International and the Cultural Freedom Association, he argues that India’s declining image is not the result of one isolated incident. He points to the government’s “unrealistic and pompous” posture toward the West Asian dispute, as well as a series of reports that appeared in the European press to reflect poorly on India.
+
+Masani surveys coverage of the Maharishi Mahesh Yogi’s proposed meditation centre, Morarji Desai’s reported visit to a London pub, Chagla’s resignation, firing along the Sikkim border, birth-control policy, food shortages, student violence, the expulsion of foreign voluntary workers assisting Tibetan refugees, and the seizure of gold from a BOAC aircraft. He concludes that public relations cannot compensate for policies lacking generosity and fairness. The report ends by calling for constructive debate, vigilant defence of individual rights, and conduct that would better honour Mahatma Gandhi’s example of service, sacrifice, and high moral standards.
+
 ## Key points
 
 - Masani describes India’s deteriorating reputation in Europe as a gradual process with several causes.

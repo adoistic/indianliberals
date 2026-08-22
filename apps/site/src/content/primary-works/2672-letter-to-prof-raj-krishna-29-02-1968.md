@@ -50,6 +50,12 @@ summary: |-
   Masani also asks Krishna to open a broader discussion on India’s food policy with economists, officials, and others assembled by the Chief Minister. He requests Krishna’s dates for an early-March visit, before Krishna takes up a new assignment in Delhi. The letter is an administrative and policy-oriented invitation rather than a developed statement of Masani’s own position on food policy.
 ---
 
+## Summary
+
+In this letter dated 29 February 1968, M. R. Masani invites Professor Raj Krishna to spend a working week in Orissa to advise the state government on food policy. Masani reports that Chief Minister R. N. Singh Deo is interested in Krishna’s views on the relative merits of the existing system of zonal barriers and monopoly procurement, and possible alternatives. The proposed visit would include access to government facilities and data, with travel expenses reimbursed.
+
+Masani also asks Krishna to open a broader discussion on India’s food policy with economists, officials, and others assembled by the Chief Minister. He requests Krishna’s dates for an early-March visit, before Krishna takes up a new assignment in Delhi. The letter is an administrative and policy-oriented invitation rather than a developed statement of Masani’s own position on food policy.
+
 ## Key points
 
 - Masani writes to Professor Raj Krishna on 29 February 1968 from New Delhi.

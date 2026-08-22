@@ -48,6 +48,10 @@ summary: |-
   In this letter dated 2 April 1972 from Khunti (Ranchi), S. A. Choudhary reports to Minoo Masani on the Swatantra Party's poor performance in Bihar. He states that the party fielded several candidates but won only one seat; among the defeated candidates, only three received more than four digits of votes, while the rest obtained between 200 and 400 votes.
 ---
 
+## Summary
+
+In this letter dated 2 April 1972 from Khunti (Ranchi), S. A. Choudhary reports to Minoo Masani on the Swatantra Party's poor performance in Bihar. He states that the party fielded several candidates but won only one seat; among the defeated candidates, only three received more than four digits of votes, while the rest obtained between 200 and 400 votes.
+
 ## Key points
 
 - The letter is dated 2 April 1972 and was sent from Khunti (Ranchi) to Minoo Masani in Bombay.

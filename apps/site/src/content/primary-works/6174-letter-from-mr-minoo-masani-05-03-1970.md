@@ -43,6 +43,10 @@ summary: |-
   In this letter dated March 5, 1970, M. R. Masani replies to Vijay Mehta, President of the North Ahmedabad Junior Jaycees, acknowledging Mehta's January 20 invitation for him to serve as a guest speaker. Masani explains that he has no visit to Ahmedabad scheduled at present, but says he will keep the invitation in mind when planning his future engagements.
 ---
 
+## Summary
+
+In this letter dated March 5, 1970, M. R. Masani replies to Vijay Mehta, President of the North Ahmedabad Junior Jaycees, acknowledging Mehta's January 20 invitation for him to serve as a guest speaker. Masani explains that he has no visit to Ahmedabad scheduled at present, but says he will keep the invitation in mind when planning his future engagements.
+
 ## Key points
 
 - The letter is dated March 5, 1970.

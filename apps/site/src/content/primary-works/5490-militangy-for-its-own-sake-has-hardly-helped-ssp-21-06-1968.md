@@ -50,6 +50,10 @@ summary: |-
   In the rendered pages, Dilip Mukerjee argues that the Socialist Party (SSP) has gained little from militancy pursued for its own sake. The commentary portrays the party as politically directionless: it has moved away from its anti-Congress position without developing a credible alternative, while successive tactical gestures have weakened rather than strengthened its appeal. Mukerjee contrasts the SSP's instability with the more coherent organisational positions of the Jana Sangh and the Communists, and suggests that the party's difficulties reflect both strategic confusion and weak leadership.
 ---
 
+## Summary
+
+In the rendered pages, Dilip Mukerjee argues that the Socialist Party (SSP) has gained little from militancy pursued for its own sake. The commentary portrays the party as politically directionless: it has moved away from its anti-Congress position without developing a credible alternative, while successive tactical gestures have weakened rather than strengthened its appeal. Mukerjee contrasts the SSP's instability with the more coherent organisational positions of the Jana Sangh and the Communists, and suggests that the party's difficulties reflect both strategic confusion and weak leadership.
+
 ## Key points
 
 - The SSP is presented as lacking a clear political course after abandoning its earlier anti-Congress stance.

@@ -54,6 +54,12 @@ summary: |-
   The enclosures set out the registration framework in greater detail. Section 29A requires information about the party’s name, headquarters, office-bearers, membership, local units, and legislative representation; it also requires the party’s rules to affirm allegiance to the Constitution, socialism, secularism, democracy, and India’s sovereignty, unity, and integrity. The application form additionally asks for the organisation’s political principles, aims, programmes, internal organs, and relationship with electors. The amendment order establishes the legal basis for these requirements and provides a 60-day transitional period during which existing National, State, and unrecognised parties retain their status while registration applications are pending.
 ---
 
+## Summary
+
+This six-page Election Commission of India packet, dated 12 August 1989, is a covering letter to the President of the Swatantra Party concerning registration under section 29A of the Representation of the People Act, 1951. The letter explains that a political organisation must submit an application containing specified organisational particulars, together with a copy of its constitution or rules. It forwards the relevant statutory extract, the application form, and the 1989 amendment to the Election Symbols (Reservation and Allotment) Order for the party’s guidance, and asks that the completed materials reach the Commission within 30 days of the organisation’s formation.
+
+The enclosures set out the registration framework in greater detail. Section 29A requires information about the party’s name, headquarters, office-bearers, membership, local units, and legislative representation; it also requires the party’s rules to affirm allegiance to the Constitution, socialism, secularism, democracy, and India’s sovereignty, unity, and integrity. The application form additionally asks for the organisation’s political principles, aims, programmes, internal organs, and relationship with electors. The amendment order establishes the legal basis for these requirements and provides a 60-day transitional period during which existing National, State, and unrecognised parties retain their status while registration applications are pending.
+
 ## Key points
 
 - The covering letter is addressed to the President of the Swatantra Party and concerns registration under section 29A of the Representation of the People Act, 1951.

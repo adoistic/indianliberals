@@ -48,6 +48,12 @@ summary: |-
   Rajagopalachari then suggests asking Morarji Desai to visit Gujarat to steady public opinion and prevent Gujarat residents from being influenced by C. C. Desai or Barla. The letter reflects internal party tensions, disputed reporting, and an attempt to manage the political consequences of an expulsion.
 ---
 
+## Summary
+
+In this private letter dated 13 April 1970, C. Rajagopalachari tells Minoo Masani that he has followed reports of a National Executive meeting and the expulsion of C. C. Desai. Rajagopalachari clarifies that Dr. Bande and Sri Mariswami both voted for the expulsion resolution, contrary to newspaper reports about Mariswami's vote.
+
+Rajagopalachari then suggests asking Morarji Desai to visit Gujarat to steady public opinion and prevent Gujarat residents from being influenced by C. C. Desai or Barla. The letter reflects internal party tensions, disputed reporting, and an attempt to manage the political consequences of an expulsion.
+
 ## Key points
 
 - Rajagopalachari writes privately to Minoo Masani on 13 April 1970.

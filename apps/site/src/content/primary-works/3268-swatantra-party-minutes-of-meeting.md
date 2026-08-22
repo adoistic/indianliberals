@@ -51,6 +51,12 @@ summary: |-
   The committee decided to take no action until the President of the State Unit had returned to India and communicated with the Party. It further proposed holding another Organisation Sub-Committee meeting in Madras as soon as possible, where developments since the July 22 resolution would be reviewed. The year of the meeting and the identity of the participants are not printed on the page.
 ---
 
+## Summary
+
+This one-page extract records draft minutes of a Swatantra Party Organisation Sub-Committee meeting held on Wednesday, November 7, at 9 a.m. at 40, Canning Lane, New Delhi. The visible section concerns party organisation in Bihar and refers to developments connected with a Madras resolution on party organisation in Bihar.
+
+The committee decided to take no action until the President of the State Unit had returned to India and communicated with the Party. It further proposed holding another Organisation Sub-Committee meeting in Madras as soon as possible, where developments since the July 22 resolution would be reviewed. The year of the meeting and the identity of the participants are not printed on the page.
+
 ## Key points
 
 - The document is an extract from draft minutes of an Organisation Sub-Committee meeting.

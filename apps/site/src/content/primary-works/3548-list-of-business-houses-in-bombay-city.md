@@ -44,6 +44,10 @@ summary: |-
   This two-page handwritten reference document, headed “Indian Business Houses in Bombay,” lists 59 business houses associated with Bombay. The entries span manufacturing, textiles, engineering, chemicals, construction, mills, transport, finance, food products, dyes, metals, and other industrial sectors. The list includes both individual firms and larger industrial groups, such as Tata, ACC, Indian Rayon, Bombay Dyeing, and National Rayon.
 ---
 
+## Summary
+
+This two-page handwritten reference document, headed “Indian Business Houses in Bombay,” lists 59 business houses associated with Bombay. The entries span manufacturing, textiles, engineering, chemicals, construction, mills, transport, finance, food products, dyes, metals, and other industrial sectors. The list includes both individual firms and larger industrial groups, such as Tata, ACC, Indian Rayon, Bombay Dyeing, and National Rayon.
+
 ## Key points
 
 - The document is an enumerative list rather than a narrative or analytical text.

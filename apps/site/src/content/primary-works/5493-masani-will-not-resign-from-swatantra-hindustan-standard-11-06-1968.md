@@ -49,6 +49,12 @@ summary: |-
   According to Singh, Masani’s decision to remain outside party office was intended to help create “a new awareness” among party members, which Masani considered necessary for the party’s proper functioning. Singh also dismissed press reports about differences between Masani and the party’s National Executive as distorted and exaggerated, and said Masani was expected to campaign for the Swatantra Party during the forthcoming mid-term poll in Uttar Pradesh.
 ---
 
+## Summary
+
+This one-page newspaper report, dated 11 June 1968, records Bhanu Pratap Singh’s denial that M. R. Masani intended to resign from the Swatantra Party. Singh, president of the party’s Uttar Pradesh unit, said that after attending the party’s National Executive and General Council meetings in Madras, he had discussed the matter with Masani.
+
+According to Singh, Masani’s decision to remain outside party office was intended to help create “a new awareness” among party members, which Masani considered necessary for the party’s proper functioning. Singh also dismissed press reports about differences between Masani and the party’s National Executive as distorted and exaggerated, and said Masani was expected to campaign for the Swatantra Party during the forthcoming mid-term poll in Uttar Pradesh.
+
 ## Key points
 
 - Bhanu Pratap Singh denied reports that M. R. Masani planned to resign from the Swatantra Party.

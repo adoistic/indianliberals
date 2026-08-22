@@ -51,6 +51,12 @@ summary: |-
   The second half of the letter passes on a piece of constitutional news: the Supreme Court has admitted a writ against the Seventeenth Amendment on the ground that the State Governments and High Courts were not consulted before the Amendment abrogated certain powers of the High Courts. The note closes with an affectionate signature and offers no further discussion.
 ---
 
+## Summary
+
+A brief handwritten note dated 17 August 1964, sent from an "SP Center" address in New Delhi and signed "Ranga." The correspondent thanks Minoo Masani for his line about the need to postpone the proposed meeting of the Action Committee of the "K. Sammelan," confirms that a postponement was already in motion and that Sri Basant Sing[h] had been warned, and announces a new date of the 20th September.
+
+The second half of the letter passes on a piece of constitutional news: the Supreme Court has admitted a writ against the Seventeenth Amendment on the ground that the State Governments and High Courts were not consulted before the Amendment abrogated certain powers of the High Courts. The note closes with an affectionate signature and offers no further discussion.
+
 ## Key points
 
 - One-page handwritten letter from Ranga to Minoo Masani, dated 17 August 1964, on "SP Center, N. Delhi" letterhead.

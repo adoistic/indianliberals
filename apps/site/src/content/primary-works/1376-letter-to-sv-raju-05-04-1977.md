@@ -43,6 +43,10 @@ summary: |-
   This one-page personal letter, dated April 5, 1977, was written by Dr. R. C. Cooper from Singapore to S. V. Raju in Bombay. Cooper refers to “the most interesting developments of last few weeks” and asks for Raju’s and Minoo’s assessment of future developments, also mentioning Dandekar.
 ---
 
+## Summary
+
+This one-page personal letter, dated April 5, 1977, was written by Dr. R. C. Cooper from Singapore to S. V. Raju in Bombay. Cooper refers to “the most interesting developments of last few weeks” and asks for Raju’s and Minoo’s assessment of future developments, also mentioning Dandekar.
+
 ## Key points
 
 - The letter is dated April 5, 1977, and was sent from Singapore to S. V. Raju in Bombay.

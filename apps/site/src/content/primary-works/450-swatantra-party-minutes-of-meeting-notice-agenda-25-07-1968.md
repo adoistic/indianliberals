@@ -51,6 +51,12 @@ summary: |-
   The agenda contains two items: discussion of the implications of the party's talks with the BKD, and any other item. The notice is signed by D. N. Patodia in his capacity as Secretary. No minutes or account of the meeting itself are included.
 ---
 
+## Summary
+
+This one-page English notice, issued by the Swatantra Party Parliamentary Office in New Delhi on 25 July 1968, announces a meeting of the General Body of the Party in Parliament. The meeting was scheduled for 5:00 p.m. on Monday, 29 July 1968, in Room No. 50 on the first floor of Parliament House, New Delhi, and members of both Houses of Parliament were requested to attend.
+
+The agenda contains two items: discussion of the implications of the party's talks with the BKD, and any other item. The notice is signed by D. N. Patodia in his capacity as Secretary. No minutes or account of the meeting itself are included.
+
 ## Key points
 
 - The Swatantra Party Parliamentary Office issued the notice on 25 July 1968.

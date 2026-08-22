@@ -49,6 +49,10 @@ summary: |-
   This single-page letter, sent from the Swatantra Party's District Unnao office to General Secretary N. Dandeker, requests an emergency meeting of the party's General Council. The stated purpose is to discuss Minoo Masani's resignation from the National Executive and Central Parliamentary Board and to decide how the party can restore unity.
 ---
 
+## Summary
+
+This single-page letter, sent from the Swatantra Party's District Unnao office to General Secretary N. Dandeker, requests an emergency meeting of the party's General Council. The stated purpose is to discuss Minoo Masani's resignation from the National Executive and Central Parliamentary Board and to decide how the party can restore unity.
+
 ## Key points
 
 - The sender is identified by office designation as President, Swatantra Party, District Unnao, although the handwritten personal name is unclear.

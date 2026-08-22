@@ -56,6 +56,12 @@ summary: |-
   The minutes then turn to party organisation and candidate selection. They establish closer supervision of constituency organisers and three-man committees, procedures for expediting nominations, confidentiality around Scheduled Caste candidates, and a more flexible approval process for unanimously recommended candidates. The Board records prospective candidates and unresolved negotiations across Rajasthan, Uttar Pradesh, Madras, Orissa, Mysore, Gujarat, Andhra, and other regions. Annexures provide reports on Rajya Sabha elections, electoral understandings with opposition parties, and tabulated statements of candidate-related expenditure and activity. The rendered set ends during the annexure material; later PDF pages were not available for review.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Central Parliamentary Board's meetings in Bombay on 26 and 29 May 1966. The Board reviewed the recent Rajya Sabha and Vidhan Parishad elections, including arrangements with the Independent Progressive Group in Gujarat that enabled Dr. Beharilal Anatani's election and created prospective commitments for Babubhai Vaidya and Sumant Patel. It also assessed efforts to coordinate non-Communist opposition parties before the coming general elections. The Board favoured bilateral electoral discussions, rejected a formal national united front at that stage, and insisted that cooperation should exclude Communists and avoid arrangements based on financial commitments.
+
+The minutes then turn to party organisation and candidate selection. They establish closer supervision of constituency organisers and three-man committees, procedures for expediting nominations, confidentiality around Scheduled Caste candidates, and a more flexible approval process for unanimously recommended candidates. The Board records prospective candidates and unresolved negotiations across Rajasthan, Uttar Pradesh, Madras, Orissa, Mysore, Gujarat, Andhra, and other regions. Annexures provide reports on Rajya Sabha elections, electoral understandings with opposition parties, and tabulated statements of candidate-related expenditure and activity. The rendered set ends during the annexure material; later PDF pages were not available for review.
+
 ## Key points
 
 - The Board reviewed Rajya Sabha and Vidhan Parishad election results and related electoral commitments.

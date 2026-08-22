@@ -49,6 +49,12 @@ summary: |-
   The letter also records that the Maharaja had reviewed the enclosed material. The press-conference records themselves are not included on the rendered page, so the document provides no substantive account of the Maharaja's statements, political positions, or views on the press.
 ---
 
+## Summary
+
+This one-page English office letter, dated 29 February 1968 from Bhubaneswar, is a brief transmittal from Shri J. K. Mishra, Assistant Private Secretary to H.H. Maharaja, Patna, to M. R. Masani, M.P. Mishra states that he is enclosing the summary records of the Maharaja's press conference held at Bhubaneswar on 25 February 1968.
+
+The letter also records that the Maharaja had reviewed the enclosed material. The press-conference records themselves are not included on the rendered page, so the document provides no substantive account of the Maharaja's statements, political positions, or views on the press.
+
 ## Key points
 
 - The letter is dated 29 February 1968 and was sent from Bhubaneswar.

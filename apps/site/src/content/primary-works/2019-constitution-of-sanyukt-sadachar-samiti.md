@@ -51,6 +51,12 @@ summary: |-
   The document provides for state, district, zonal, and lower-level Samitis; campaigns for moral awakening and social enlightenment; research, public-grievance redress, publications, training, and cooperation with social and religious organisations. Its central structure consists of a General Council and Working Committee. The constitution specifies the composition and tenure of these bodies, gives the Working Committee responsibility for policy execution, funds, property, state units, and committees, and sets out membership, quorum, audit, and financial provisions. Gulzarilal Nanda is named as the first President. No author, publisher, printed publication year, or formal issuer line is visible; the handwritten circled “2019” on page 1 is not treated as a publication date.
 ---
 
+## Summary
+
+This three-page constitution establishes the Sanyukt Sadachar Samiti, with its central office in Delhi, as an organisation dedicated to creating a moral and social climate that fosters ethical conduct and combats corruption. Its stated objects include developing public capacity to eradicate corruption, mobilising social and religious organisations, organising the community, and discouraging antisocial attitudes and corrupt practices.
+
+The document provides for state, district, zonal, and lower-level Samitis; campaigns for moral awakening and social enlightenment; research, public-grievance redress, publications, training, and cooperation with social and religious organisations. Its central structure consists of a General Council and Working Committee. The constitution specifies the composition and tenure of these bodies, gives the Working Committee responsibility for policy execution, funds, property, state units, and committees, and sets out membership, quorum, audit, and financial provisions. Gulzarilal Nanda is named as the first President. No author, publisher, printed publication year, or formal issuer line is visible; the handwritten circled “2019” on page 1 is not treated as a publication date.
+
 ## Key points
 
 - The Samiti is headquartered in Delhi and is intended to operate through organisational units at state, district, zonal, and lower levels.

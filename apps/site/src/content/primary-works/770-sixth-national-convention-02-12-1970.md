@@ -52,6 +52,12 @@ summary: |-
   The subsequent circulars address participation and logistics. Party units are asked to submit proposed constitutional resolutions and amendments, nominate their eligible delegates, pay the Rs. 5 delegate fee, and ensure adequate representation of women and youth. A separate accommodation appeal reports arrangements for approximately 600 delegates and asks members to host additional visitors in their homes. The printed correspondence is in English, with handwritten Marathi translations or annotations beneath portions of the pages. The documents are administrative communications rather than statements of political doctrine.
 ---
 
+## Summary
+
+This four-page file contains three related Swatantra Party (Bombay Region) circulars dated 2 December 1970 concerning the party’s Sixth National Convention, scheduled for 30–31 January 1971 at Shanmukhananda Hall, Kings Circle, Bombay. The first circular assigns finance, accommodation, transport, catering, press publicity, propaganda, extra-functions, and volunteer sub-committees, while requesting local units to support fundraising and door-to-door collections so that the party’s message can reach households widely.
+
+The subsequent circulars address participation and logistics. Party units are asked to submit proposed constitutional resolutions and amendments, nominate their eligible delegates, pay the Rs. 5 delegate fee, and ensure adequate representation of women and youth. A separate accommodation appeal reports arrangements for approximately 600 delegates and asks members to host additional visitors in their homes. The printed correspondence is in English, with handwritten Marathi translations or annotations beneath portions of the pages. The documents are administrative communications rather than statements of political doctrine.
+
 ## Key points
 
 - The Swatantra Party’s Bombay Region planned its Sixth National Convention for 30–31 January 1971.

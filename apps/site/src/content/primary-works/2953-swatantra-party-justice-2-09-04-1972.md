@@ -55,6 +55,10 @@ summary: |-
   These three handwritten pages are undated internal working notes, apparently concerned with the Swatantra Party and the relationship between justice, constitutional government, and political action. The first page gathers fragmentary observations on economic and political questions, including planning, public policy, elections, and the need to defend individual freedom. It also lists possible interlocutors, institutional references, and lines of argument, but does not present a continuous essay or a clearly identified author.
 ---
 
+## Summary
+
+These three handwritten pages are undated internal working notes, apparently concerned with the Swatantra Party and the relationship between justice, constitutional government, and political action. The first page gathers fragmentary observations on economic and political questions, including planning, public policy, elections, and the need to defend individual freedom. It also lists possible interlocutors, institutional references, and lines of argument, but does not present a continuous essay or a clearly identified author.
+
 ## Key points
 
 - The notes connect justice with constitutional and political questions.

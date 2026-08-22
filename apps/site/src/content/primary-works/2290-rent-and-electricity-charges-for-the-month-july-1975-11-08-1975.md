@@ -47,6 +47,10 @@ summary: |-
   This two-page office letter, dated 11 August 1975, is issued on the letterhead of the Swatantra Party, Maharashtra Department, and addressed to the Executive Secretary of Bharatiya Lok Dal at 143 M. G. Road, Bombay 1. It reports the rent and electricity charges paid for July 1975 and requests payment of the addressee's 40 percent share.
 ---
 
+## Summary
+
+This two-page office letter, dated 11 August 1975, is issued on the letterhead of the Swatantra Party, Maharashtra Department, and addressed to the Executive Secretary of Bharatiya Lok Dal at 143 M. G. Road, Bombay 1. It reports the rent and electricity charges paid for July 1975 and requests payment of the addressee's 40 percent share.
+
 ## Key points
 
 - The letter is dated 11 August 1975.

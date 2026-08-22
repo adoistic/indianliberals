@@ -57,6 +57,12 @@ summary: |-
   The proposed programme combines an end to inflationary policies, reductions in civil and developmental expenditure, deficit avoidance, restrictions on foreign borrowing, postponement and recasting of the Fourth Plan, lower direct and indirect taxes, and negotiations to reduce foreign-debt servicing costs. It also calls for dismantling permits, licences, import licensing, exchange controls, and Gold Control in order to increase production and reduce prices. Immediate relief measures include loans for stranded industrial projects, imported raw materials for exporters, withdrawal of new export duties, and abolition of import duties and surcharges on essential industrial inputs. The note explicitly invokes warnings by Swatantra Party spokesmen but does not identify the party as the issuer.
 ---
 
+## Summary
+
+This two-page position paper, signed by N. G. Ranga and M. R. Masani and dated June 22, 1966, attributes India's economic collapse to mistaken Union Government economic policies and planning over the preceding decade and a half. It treats devaluation as only one aspect of that crisis and argues that its benefits will be lost unless the government adopts a clear programme of monetary and fiscal restraint.
+
+The proposed programme combines an end to inflationary policies, reductions in civil and developmental expenditure, deficit avoidance, restrictions on foreign borrowing, postponement and recasting of the Fourth Plan, lower direct and indirect taxes, and negotiations to reduce foreign-debt servicing costs. It also calls for dismantling permits, licences, import licensing, exchange controls, and Gold Control in order to increase production and reduce prices. Immediate relief measures include loans for stranded industrial projects, imported raw materials for exporters, withdrawal of new export duties, and abolition of import duties and surcharges on essential industrial inputs. The note explicitly invokes warnings by Swatantra Party spokesmen but does not identify the party as the issuer.
+
 ## Key points
 
 - Devaluation is presented as one consequence of accumulated economic-policy and planning errors.

@@ -53,6 +53,12 @@ summary: |-
   The principal resolution welcomes the impending formation of the Bharatiya Lok Dal and authorises party president Piloo Mody to announce whether the Swatantra Party will dissolve and merge with the new party. It also provides for members who do not wish to join the new organisation to continue non-partisan activities under another name. A separate notice of resolution rejects dissolution, arguing that the Swatantra Party remains the only national party among the seven parties expected to combine and that the proposed new party lacks a sufficiently defined programme. The document therefore preserves the convention’s unresolved debate over merger, party identity, and the prospects for a two-party system.
 ---
 
+## Summary
+
+This four-page Swatantra Party document records resolutions adopted at the Seventh National Convention in Delhi on August 4–5, 1974. It describes the party’s earlier efforts to create a two-party system and a “National Alternative” bringing together political parties other than the ruling Congress and the Communist parties. The document presents this proposed alignment as a response to political disorder and confusion, while insisting that any common programme must be sufficiently clear to address the people’s aspirations.
+
+The principal resolution welcomes the impending formation of the Bharatiya Lok Dal and authorises party president Piloo Mody to announce whether the Swatantra Party will dissolve and merge with the new party. It also provides for members who do not wish to join the new organisation to continue non-partisan activities under another name. A separate notice of resolution rejects dissolution, arguing that the Swatantra Party remains the only national party among the seven parties expected to combine and that the proposed new party lacks a sufficiently defined programme. The document therefore preserves the convention’s unresolved debate over merger, party identity, and the prospects for a two-party system.
+
 ## Key points
 
 - The National Executive reviewed India’s political condition and recommended pursuing a two-party system.

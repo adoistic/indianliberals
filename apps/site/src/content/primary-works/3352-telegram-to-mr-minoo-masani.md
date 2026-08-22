@@ -49,6 +49,12 @@ summary: |-
   The document is a typed telegram on an Indian Posts and Telegraphs Department form. It has no printed title, date, or sender identification; the visible text records a financial undertaking connected to parliamentary-party activity, but does not provide enough context to establish the wider dispute or transaction.
 ---
 
+## Summary
+
+This one-page English telegram, sent to Shri M. R. Masani, MP, of the Swatantra Party, concerns arrangements involving parliamentary boards at Madras and the payment of money to a bank. The sender states that interested parties have been consulted and offers to pay Rs. 260,000 to the Central Bank, provided that the bank agrees to pay Rs. 120,000 by the end of February that year.
+
+The document is a typed telegram on an Indian Posts and Telegraphs Department form. It has no printed title, date, or sender identification; the visible text records a financial undertaking connected to parliamentary-party activity, but does not provide enough context to establish the wider dispute or transaction.
+
 ## Key points
 
 - The telegram is addressed to Shri M. R. Masani, MP, identified with the Swatantra Party.

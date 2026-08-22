@@ -49,6 +49,12 @@ summary: |-
   The document is an operational political communication rather than a developed argument or policy statement. Its telegraphic wording records coordination around a public meeting and pending communications; no recipient, organisation, or further context is identified on the page.
 ---
 
+## Summary
+
+This one-page English telegram-style communication, dated 18 April 1970 and sent from Bhubaneswar, reports that the fourth public meeting is acceptable. It states that Harhar Patel will wire the following day after consulting Dr Mhatab, who is away on tour.
+
+The document is an operational political communication rather than a developed argument or policy statement. Its telegraphic wording records coordination around a public meeting and pending communications; no recipient, organisation, or further context is identified on the page.
+
 ## Key points
 
 - The communication is dated 18 April 1970 and headed Bhubaneswar.

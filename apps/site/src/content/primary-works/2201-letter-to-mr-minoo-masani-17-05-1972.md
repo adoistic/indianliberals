@@ -47,6 +47,12 @@ summary: |-
   Zamindar concludes by arguing that the Swatantra Party would be better off dissolving itself than being absorbed into Congress, which he describes as a shocking political manoeuvre. The document is marked “Personal” and contains a handwritten signature above the typed name of the sender.
 ---
 
+## Summary
+
+This personal letter, dated 17 May 1972 and written by N. C. Zamindar from Indore to Minoo Masani, discusses a possible realignment within Indian liberal politics. Zamindar reports that Acharya Ranga has resigned from the Swatantra Party and now approves of Indira Gandhi's policies. He asks Masani to clarify a rumour that Masani is also considering joining Congress (R), saying that such information would lead him to reconsider his own political position.
+
+Zamindar concludes by arguing that the Swatantra Party would be better off dissolving itself than being absorbed into Congress, which he describes as a shocking political manoeuvre. The document is marked “Personal” and contains a handwritten signature above the typed name of the sender.
+
 ## Key points
 
 - The letter is dated 17 May 1972 and was sent from Indore to Minoo Masani in Bombay.

@@ -50,6 +50,12 @@ summary: |-
   Deo then recounts a recent Lok Sabha Estimates Committee election. Although the Independent Parliamentary Group had agreed not to nominate a candidate, Professor Swell and David Munzni contested against the preferred candidates of the opposition groups, Frank Anthony and Barrow. Deo says this produced an election in which the opposition declined to support them, resulting in the defeat of a Congressman and Swell’s election only through some first-preference votes from a Congressman. The letter closes by rejecting the broader charge of hostility to tribal people while describing Swell as highly individualistic and not subject to party discipline.
 ---
 
+## Summary
+
+This two-page letter, dated 7 August 1962 and signed by P. K. Deo, responds to M. R. Masani concerning Professor Swell’s allegation that Deo had displayed an unfriendly attitude toward Swell and tribal people. Deo rejects the allegation as baseless, objects to the Central Office forwarding Deng’s letter without establishing the facts, and argues that Swell’s status outside the Swatantra Party made the party’s intervention inappropriate.
+
+Deo then recounts a recent Lok Sabha Estimates Committee election. Although the Independent Parliamentary Group had agreed not to nominate a candidate, Professor Swell and David Munzni contested against the preferred candidates of the opposition groups, Frank Anthony and Barrow. Deo says this produced an election in which the opposition declined to support them, resulting in the defeat of a Congressman and Swell’s election only through some first-preference votes from a Congressman. The letter closes by rejecting the broader charge of hostility to tribal people while describing Swell as highly individualistic and not subject to party discipline.
+
 ## Key points
 
 - Deo denies Professor Swell’s allegation that he is hostile to Swell and tribal people.

@@ -50,6 +50,12 @@ summary: |-
   Masani concludes that the party should no longer rely on alliances made without a common programme. He advocates standing independently and adhering to its own principles. The letter is typed and bears Masani's handwritten signature; no formal title, publisher, or issuing organisation appears on the page.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani to Bhikhubhai Narottambhai Patel, dated 23 March 1970, reflects on a recent political alliance. Masani agrees that it was a mistake to join other parties before they were prepared to commit themselves to an agreed programme, referring to a decision taken by the National Executive after 3 January.
+
+Masani concludes that the party should no longer rely on alliances made without a common programme. He advocates standing independently and adhering to its own principles. The letter is typed and bears Masani's handwritten signature; no formal title, publisher, or issuing organisation appears on the page.
+
 ## Key points
 
 - Masani acknowledges that joining other parties without a prior agreed programme was a mistake.

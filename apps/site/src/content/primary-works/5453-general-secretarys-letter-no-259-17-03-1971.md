@@ -53,6 +53,12 @@ summary: |-
   The requested report is to provide detailed vote totals for each candidate and each constituency contested, explanations for the candidates’ performance, and the State Executive’s assessment of the factors responsible for the party’s poor performance. It specifically asks officials to consider whether electoral alliances helped or hindered the party. The report is requested by March 31 so that a national report can be prepared for the General Council.
 ---
 
+## Summary
+
+This one-page administrative letter, dated March 17, 1971, is issued by the Swatantra Party’s General Secretary, R.C. Cooper, from the party’s national headquarters in Bombay. It asks state-level party officials to prepare an urgent report on the performance of Swatantra Party candidates in the General Election before the National Executive and General Council meet the following month.
+
+The requested report is to provide detailed vote totals for each candidate and each constituency contested, explanations for the candidates’ performance, and the State Executive’s assessment of the factors responsible for the party’s poor performance. It specifically asks officials to consider whether electoral alliances helped or hindered the party. The report is requested by March 31 so that a national report can be prepared for the General Council.
+
 ## Key points
 
 - The letter is dated March 17, 1971, and is issued from the Swatantra Party’s national headquarters in Bombay.

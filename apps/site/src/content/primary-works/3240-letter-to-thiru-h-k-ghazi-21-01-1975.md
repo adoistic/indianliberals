@@ -48,6 +48,10 @@ summary: |-
   Dated 21 January 1975, this one-page letter from W. S. Srinivasan, Joint Secretary of the All India Swatantra Party, is addressed to H. K. Ghazi, Chief Electoral Officer and Special Additional Secretary to the Government of Madras. Srinivasan reports that T. Swaminathan, Chief Election Commissioner, is expected to visit Madras in the first week of February 1975.
 ---
 
+## Summary
+
+Dated 21 January 1975, this one-page letter from W. S. Srinivasan, Joint Secretary of the All India Swatantra Party, is addressed to H. K. Ghazi, Chief Electoral Officer and Special Additional Secretary to the Government of Madras. Srinivasan reports that T. Swaminathan, Chief Election Commissioner, is expected to visit Madras in the first week of February 1975.
+
 ## Key points
 
 - The letter is dated 21 January 1975 and addressed to H. K. Ghazi in the Public (Election.III) Department at Fort St. George, Madras.

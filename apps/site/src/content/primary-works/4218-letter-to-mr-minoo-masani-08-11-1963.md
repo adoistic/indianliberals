@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated 8 November 1963, is C. Rajagopalachari’s logistical reply to Minoo Masani. Rajagopalachari confirms that he has heard from St. Stephen’s College and plans to address its students on 22 November, travelling to Delhi the previous evening. He also notes a scheduled address to the M.R.A. people on 24 November.
 ---
 
+## Summary
+
+This one-page letter, dated 8 November 1963, is C. Rajagopalachari’s logistical reply to Minoo Masani. Rajagopalachari confirms that he has heard from St. Stephen’s College and plans to address its students on 22 November, travelling to Delhi the previous evening. He also notes a scheduled address to the M.R.A. people on 24 November.
+
 ## Key points
 
 - The letter is dated 8 November 1963 and is written from Rajagopalachari’s Madras address.

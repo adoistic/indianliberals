@@ -53,6 +53,12 @@ summary: |-
   In the rendered pages, Shenoy links the financing problem to broader criticisms of planning priorities. He calls for abandoning the pursuit of heavy industrialisation at the expense of agriculture and light industry, reducing wasteful expenditure, and redirecting resources toward agricultural development and consumer needs. The continuation on page 3 proposes greater reliance on private savings and foreign aid, a more restrained public-sector programme, and policies designed to increase agricultural yields, national income, employment, and consumption. The article closes by presenting monetary stability and a larger volume of productive investment as prerequisites for economic progress; page 2 contains unrelated newspaper material and advertising rather than the essay.
 ---
 
+## Summary
+
+In the rendered pages, B. R. Shenoy argues that the proposed Third Plan places an excessive burden on public-sector investment and relies on inflationary deficit finance. He contrasts the proposed public-sector outlay of Rs. 7,250 crores with estimated receipts of Rs. 4,600 crores, identifying a deficit of roughly Rs. 2,850 crores. The article contends that drawing on currency reserves, accumulated small savings, taxation, and foreign aid would not provide a sound or sustainable basis for financing the plan. Shenoy also warns that public-sector investment has been wasteful and that several enterprises are over-capitalised and loss-making.
+
+In the rendered pages, Shenoy links the financing problem to broader criticisms of planning priorities. He calls for abandoning the pursuit of heavy industrialisation at the expense of agriculture and light industry, reducing wasteful expenditure, and redirecting resources toward agricultural development and consumer needs. The continuation on page 3 proposes greater reliance on private savings and foreign aid, a more restrained public-sector programme, and policies designed to increase agricultural yields, national income, employment, and consumption. The article closes by presenting monetary stability and a larger volume of productive investment as prerequisites for economic progress; page 2 contains unrelated newspaper material and advertising rather than the essay.
+
 ## Key points
 
 - The proposed Third Plan public-sector programme is presented as requiring a large deficit, estimated at about Rs. 2,850 crores.

@@ -49,6 +49,12 @@ summary: |-
   The letter refers to an earlier agreement that the recipient would contribute Rs. 25 per month. Narayan requests immediate payment of the outstanding amount and asks that the monthly contribution continue in future, presenting the appeal as an administrative effort to sustain the party office.
 ---
 
+## Summary
+
+This single-page English letter, dated 3 December 1974 and written on the Swatantra Party’s Maharashtra Division letterhead, addresses the party’s financial difficulties. P. Narayan explains that the party office has been difficult to operate because its financial position has been weak and asks the recipient to make regular contributions.
+
+The letter refers to an earlier agreement that the recipient would contribute Rs. 25 per month. Narayan requests immediate payment of the outstanding amount and asks that the monthly contribution continue in future, presenting the appeal as an administrative effort to sustain the party office.
+
 ## Key points
 
 - The letter is dated 3 December 1974 and is issued on Swatantra Party, Maharashtra Division letterhead.

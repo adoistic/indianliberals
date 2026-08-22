@@ -48,6 +48,12 @@ summary: |-
   The remainder of the letter makes arrangements for meeting: Rajagopalachari proposes meeting at 3 p.m., breaking off at 4:30 p.m., and meeting again at 6 p.m. until 7 p.m. The page includes handwritten annotations, including a possible date correction or note reading “23 April,” as well as the sender’s handwritten signature.
 ---
 
+## Summary
+
+This one-page express letter, dated 20 April 1968, is from C. Rajagopalachari to M. R. Masani. Rajagopalachari reports that Sri Sadasivam, who has gone to Bangalore and other places in Mysore, has left word that Masani might stay at Sadasivam’s house rather than at a hotel.
+
+The remainder of the letter makes arrangements for meeting: Rajagopalachari proposes meeting at 3 p.m., breaking off at 4:30 p.m., and meeting again at 6 p.m. until 7 p.m. The page includes handwritten annotations, including a possible date correction or note reading “23 April,” as well as the sender’s handwritten signature.
+
 ## Key points
 
 - The letter is dated 20 April 1968 and is headed “Express Letter.”

@@ -46,6 +46,10 @@ summary: |-
   This one-page English letter, dated February 18, 1974, is written by Girish Munshi from Bharatiya Vidya Bhavan in Bombay to Mr. Manubhai Chwada. Munshi refers to Chwada's talk with Cargilaben Datar and sends two sets of forms: one for Marine Drive and another for C.C.I. He closes by saying that he will take the necessary action.
 ---
 
+## Summary
+
+This one-page English letter, dated February 18, 1974, is written by Girish Munshi from Bharatiya Vidya Bhavan in Bombay to Mr. Manubhai Chwada. Munshi refers to Chwada's talk with Cargilaben Datar and sends two sets of forms: one for Marine Drive and another for C.C.I. He closes by saying that he will take the necessary action.
+
 ## Key points
 
 - The letter is dated February 18, 1974.

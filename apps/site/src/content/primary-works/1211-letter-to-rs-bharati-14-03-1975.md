@@ -48,6 +48,12 @@ summary: |-
   Masani then directs Bharati to a book he has written on the subject, which Macmillan is scheduled to publish in end-April or early-May 1975, telling him it 'anticipated some of your anxieties and dealt with them.' Written barely three months before the declaration of the Emergency on 25 June 1975, the letter is a brief but pointed record of the foreboding circulating among Masani's liberal correspondents in the provinces and of his conviction that the coming crisis was one he had already reasoned through in print.
 ---
 
+## Summary
+
+In this one-page typed letter of March 14, 1975, M.R. Masani replies to R.S. Bharati, an advocate in Shahjahanpur, U.P., who had written on March 8. Masani thanks Bharati for his confidence, deflects it as 'largely undeserved,' and reports that he is 'doing what little I can to help JP in his task' — a reference to Jayaprakash Narayan's ongoing movement against the Indira Gandhi government. He promises to bear Bharati's warning in mind should the political situation Bharati envisages come to pass.
+
+Masani then directs Bharati to a book he has written on the subject, which Macmillan is scheduled to publish in end-April or early-May 1975, telling him it 'anticipated some of your anxieties and dealt with them.' Written barely three months before the declaration of the Emergency on 25 June 1975, the letter is a brief but pointed record of the foreboding circulating among Masani's liberal correspondents in the provinces and of his conviction that the coming crisis was one he had already reasoned through in print.
+
 ## Key points
 
 - One-page typed letter dated 14 March 1975 from M.R. Masani to Mr. R.S. Bharati, Advocate, Shahjahanpur, U.P.

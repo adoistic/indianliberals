@@ -64,6 +64,10 @@ summary: |-
   This Swatantra Party statement, issued from its Bombay central office for publication, addresses the first presidential election contested under the Constitution. M. R. Masani rejects the claim that the defeat of Dr. Zakir Hussain would automatically bring down the Union government, explaining that the President is elected by an electoral college while the Cabinet remains responsible to the Lok Sabha. He presents the presidential contest as an opportunity to clarify the constitutional balance among the Executive, Legislature, and Judiciary, and argues that an independent President should exercise the office's constitutional functions rather than act as a mere rubber stamp.
 ---
 
+## Summary
+
+This Swatantra Party statement, issued from its Bombay central office for publication, addresses the first presidential election contested under the Constitution. M. R. Masani rejects the claim that the defeat of Dr. Zakir Hussain would automatically bring down the Union government, explaining that the President is elected by an electoral college while the Cabinet remains responsible to the Lok Sabha. He presents the presidential contest as an opportunity to clarify the constitutional balance among the Executive, Legislature, and Judiciary, and argues that an independent President should exercise the office's constitutional functions rather than act as a mere rubber stamp.
+
 ## Key points
 
 - Masani argues that the result of the presidential election cannot by itself determine the survival of the Union government.

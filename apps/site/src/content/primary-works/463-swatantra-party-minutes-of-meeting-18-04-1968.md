@@ -52,6 +52,12 @@ summary: |-
   The committee discussed the situation arising from the President's Proclamation on Uttar Pradesh. By a majority of four to three, it decided that the party's Members should be requested to abstain from participating in the debate and voting. The document records the decision but gives no further explanation of the constitutional or political reasoning behind the division.
 ---
 
+## Summary
+
+This one-page English office record, dated April 18, 1968, reports a meeting of the Swatantra Party's Parliamentary Executive Committee held the previous day in the Party Room of Central Hall, Parliament House, New Delhi. It lists seven members present and identifies Girraj Saran Singh as a special invitee; C. C. Desai signed the record as Secretary.
+
+The committee discussed the situation arising from the President's Proclamation on Uttar Pradesh. By a majority of four to three, it decided that the party's Members should be requested to abstain from participating in the debate and voting. The document records the decision but gives no further explanation of the constitutional or political reasoning behind the division.
+
 ## Key points
 
 - The meeting was held on April 17, 1968, at 12:30 p.m. in the Party Room, Central Hall, Parliament House.

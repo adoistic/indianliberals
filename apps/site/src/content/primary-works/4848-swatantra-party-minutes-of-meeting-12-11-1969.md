@@ -53,6 +53,12 @@ summary: |-
   The principal political discussion concerned the Party's parliamentary response to a censure motion against the Government and the Rabat Conference. The Executive directed the Party's parliamentary group to table or support a no-confidence motion, while stressing discipline if individual members departed from the decision. It also issued guidance on political developments in Gujarat and Uttar Pradesh, including restrictions on state-level cooperation with other parties without prior consultation. The remaining pages deal with the National Election Tribunal, representation ratios, arrangements for the first meeting of the newly elected General Council, enrolment disputes, disciplinary action against H. A. Riziwi, participation in a national conference on population policy, and opposition to compulsory freight-pool arrangements and other controls on cement distribution.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party National Executive meeting held in Bombay on November 12, 1969. The meeting opened by mourning the death of Sardar Darshan Singh Pheruman, confirmed the minutes of the previous meeting, reviewed absences, and assigned follow-up work on the Mid-Term Report, the Linguistic States Sub-Committee report, and the functions of the Central Parliamentary Board.
+
+The principal political discussion concerned the Party's parliamentary response to a censure motion against the Government and the Rabat Conference. The Executive directed the Party's parliamentary group to table or support a no-confidence motion, while stressing discipline if individual members departed from the decision. It also issued guidance on political developments in Gujarat and Uttar Pradesh, including restrictions on state-level cooperation with other parties without prior consultation. The remaining pages deal with the National Election Tribunal, representation ratios, arrangements for the first meeting of the newly elected General Council, enrolment disputes, disciplinary action against H. A. Riziwi, participation in a national conference on population policy, and opposition to compulsory freight-pool arrangements and other controls on cement distribution.
+
 ## Key points
 
 - The National Executive met at the Swatantra Party's Bombay headquarters on November 12, 1969.

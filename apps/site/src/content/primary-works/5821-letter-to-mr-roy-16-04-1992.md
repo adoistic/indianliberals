@@ -51,6 +51,12 @@ summary: |-
   The dossier also preserves official Lok Sabha Secretariat letters dated 26 and 31 March 1992, signed by Under Secretary S.C. Rastogi, requesting the newspaper and Masani to state urgently what they had to say for consideration by the Speaker, Lok Sabha. In his reply dated 16 April, Masani says he has already written directly to the Lok Sabha office and sent a spare copy to Ray, adding that he trusts this leaves nothing further for him to do. The pages show the administrative chain and the parties’ immediate correspondence, but do not include the disputed column, the original privilege notice, or Masani’s substantive defence.
 ---
 
+## Summary
+
+This five-page English correspondence dossier documents a 1992 parliamentary-privilege dispute involving Minoo Masani, The Statesman, and a column titled “As I see it.” The file opens with a 14 April letter from Basudev Ray, of The Statesman Ltd., to Masani, enclosing copies of a notice of question of privilege brought by Hannan Mollah and eight other members against the newspaper’s editor, printer, publisher, and Masani. Ray asks Masani to provide comments for submission to the Lok Sabha Secretariat.
+
+The dossier also preserves official Lok Sabha Secretariat letters dated 26 and 31 March 1992, signed by Under Secretary S.C. Rastogi, requesting the newspaper and Masani to state urgently what they had to say for consideration by the Speaker, Lok Sabha. In his reply dated 16 April, Masani says he has already written directly to the Lok Sabha office and sent a spare copy to Ray, adding that he trusts this leaves nothing further for him to do. The pages show the administrative chain and the parties’ immediate correspondence, but do not include the disputed column, the original privilege notice, or Masani’s substantive defence.
+
 ## Key points
 
 - Basudev Ray’s 14 April 1992 letter to Minoo Masani concerns a notice of question of privilege involving The Statesman and Masani’s column “As I see it.”

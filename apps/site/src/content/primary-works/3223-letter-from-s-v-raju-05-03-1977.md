@@ -51,6 +51,12 @@ summary: |-
   The signatories object to the proposed merger into Janata on the grounds that the new party is not adhering to those constitutionally embedded principles. They specifically contrast the Swatantra Party's ideological foundation, associated with C. Rajagopalachari, with Piloo Mody's stated preference for a party that was programme-based rather than ideologically based. The letter asks that a trust be established to prevent the party's properties and assets from being misused for activities inconsistent with its principles.
 ---
 
+## Summary
+
+This one-page letter, dated March 5, 1977, is issued from the Maharashtra Swatantra Party office and signed by K.H. Subramanian, L.R. Sampat, and S.V. Raju. It argues that the party's assets, including its office premises, are held by its office-bearers as trustees and may be used only to advance the principles adopted at the Swatantra Party's founding convention in 1959 and incorporated into its constitution.
+
+The signatories object to the proposed merger into Janata on the grounds that the new party is not adhering to those constitutionally embedded principles. They specifically contrast the Swatantra Party's ideological foundation, associated with C. Rajagopalachari, with Piloo Mody's stated preference for a party that was programme-based rather than ideologically based. The letter asks that a trust be established to prevent the party's properties and assets from being misused for activities inconsistent with its principles.
+
 ## Key points
 
 - The letter invokes the Swatantra Party's 1959 Statement of Principles and party constitution.

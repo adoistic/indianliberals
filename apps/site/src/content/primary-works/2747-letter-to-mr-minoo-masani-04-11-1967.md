@@ -50,6 +50,12 @@ summary: |-
   Munshi also refers to Rajaji’s question about separating the party’s parliamentary and organisational leadership, saying that he has sent Rajaji his considered opinion. He declines, on health grounds, to continue serving as Vice-President in a largely ceremonial capacity: he cannot travel as expected or attend formal functions, and suggests that someone more useful should replace him. The page contains the complete one-page letter, including handwritten annotations and Munshi’s signature.
 ---
 
+## Summary
+
+In this letter dated November 4, 1967, K. M. Munshi responds to Minoo Masani’s circular about leadership continuity in the Swatantra Party. Munshi rejects Masani’s comparison between government and party leadership, arguing that the party is still growing and that the same officeholders need not be replaced merely because they have served for some time. He expresses confidence that N. Dandekar will succeed as General Secretary, noting that Dandekar has already handled the role effectively in an acting capacity.
+
+Munshi also refers to Rajaji’s question about separating the party’s parliamentary and organisational leadership, saying that he has sent Rajaji his considered opinion. He declines, on health grounds, to continue serving as Vice-President in a largely ceremonial capacity: he cannot travel as expected or attend formal functions, and suggests that someone more useful should replace him. The page contains the complete one-page letter, including handwritten annotations and Munshi’s signature.
+
 ## Key points
 
 - Munshi replies to Masani’s November 1 circular concerning Swatantra Party leadership.

@@ -48,6 +48,12 @@ summary: |-
   Masani says Lokanathan could be available for two or three months from 1 September and suggests that Singh Deo contact Nanda at his New Delhi address to indicate whether he supports exploring the proposal. The letter is a brief piece of administrative correspondence focused on committee staffing and the practical arrangements for temporary honorary work.
 ---
 
+## Summary
+
+In this letter dated 9 August 1967, M. R. Masani writes to R. N. Singh Deo about finding a chairperson for an Evaluation Committee. Masani reports that H. P. Nanda has decided he cannot undertake the responsibility and recommends Dr. P. S. Lokanathan, recently retired as Director General of the National Council of Applied Economic Research, as a suitable replacement.
+
+Masani says Lokanathan could be available for two or three months from 1 September and suggests that Singh Deo contact Nanda at his New Delhi address to indicate whether he supports exploring the proposal. The letter is a brief piece of administrative correspondence focused on committee staffing and the practical arrangements for temporary honorary work.
+
 ## Key points
 
 - The letter is dated 9 August 1967 and is addressed to Mr. R. N. Singh Deo, Chief Minister of Orissa.

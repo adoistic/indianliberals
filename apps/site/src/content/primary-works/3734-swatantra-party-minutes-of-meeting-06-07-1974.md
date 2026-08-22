@@ -53,6 +53,12 @@ summary: |-
   The principal business was the proposed dissolution of the Swatantra Party in preparation for forming a new party as a national alternative to the ruling Congress. Piloo Mody explained the national-level efforts to bring several parties together, while M. R. Masani opposed dissolution and argued that it would not produce an effective national alternative. The resolution passed by an overwhelming majority, with N. K. Jagtap as the sole dissenter; Mody and chairman Madhu Mehta left before the vote. The meeting then elected Maharashtra delegates to the forthcoming National Convention, assigned a subcommittee to finalize a list of 21 delegates, and adjourned at 7:00 p.m.
 ---
 
+## Summary
+
+This two-page draft records the Maharashtra State Council meeting of the Swatantra Party, held at the party office in Bombay on 6 July 1974. It lists the members and invitees present, confirms the minutes of the previous meeting, and reports that heavy rains and disrupted train services prevented additional members from attending.
+
+The principal business was the proposed dissolution of the Swatantra Party in preparation for forming a new party as a national alternative to the ruling Congress. Piloo Mody explained the national-level efforts to bring several parties together, while M. R. Masani opposed dissolution and argued that it would not produce an effective national alternative. The resolution passed by an overwhelming majority, with N. K. Jagtap as the sole dissenter; Mody and chairman Madhu Mehta left before the vote. The meeting then elected Maharashtra delegates to the forthcoming National Convention, assigned a subcommittee to finalize a list of 21 delegates, and adjourned at 7:00 p.m.
+
 ## Key points
 
 - The document is a draft record of the Maharashtra State Council meeting held in Bombay on 6 July 1974.

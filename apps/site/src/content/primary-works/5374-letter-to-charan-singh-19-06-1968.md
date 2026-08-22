@@ -50,6 +50,12 @@ summary: |-
   The letter asks Charan Singh to consider these documents as a basis for pursuing a similar understanding between the B.K.D. and the Swatantra Party in Uttar Pradesh, particularly in connection with the anticipated mid-term election in 1969. The apparent sender is typed as “(M. Danleiker),” but the name is unclear and unresolved in the authority file.
 ---
 
+## Summary
+
+This one-page English letter, dated June 19, 1968, is sent from the Swatantra Party's Central Office in Bombay to Charan Singh. The sender forwards papers concerning the Swatantra Party's agreements and understandings with the Jana Congress in Orissa: a press release, an agreement, a supplementary agreement dated December 30, 1966, a common programme, and a further supplementary agreement dated February 27, 1967, following a joint success in the General Election.
+
+The letter asks Charan Singh to consider these documents as a basis for pursuing a similar understanding between the B.K.D. and the Swatantra Party in Uttar Pradesh, particularly in connection with the anticipated mid-term election in 1969. The apparent sender is typed as “(M. Danleiker),” but the name is unclear and unresolved in the authority file.
+
 ## Key points
 
 - The letter is dated June 19, 1968 and was issued on Swatantra Party Central Office letterhead in Bombay.

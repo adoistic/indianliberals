@@ -48,6 +48,10 @@ summary: |-
   This one-page newspaper clipping reports that the Swatantra Party had decided not to join or merge with another political party whose principles and programmes were incompatible with its own. The report says the decision was taken at a joint meeting of the party executive, general council, and workers at Suruli in the Thanjavur district of Tamil Nadu.
 ---
 
+## Summary
+
+This one-page newspaper clipping reports that the Swatantra Party had decided not to join or merge with another political party whose principles and programmes were incompatible with its own. The report says the decision was taken at a joint meeting of the party executive, general council, and workers at Suruli in the Thanjavur district of Tamil Nadu.
+
 ## Key points
 
 - The Swatantra Party rejected joining or merging with another political party on incompatible political terms.

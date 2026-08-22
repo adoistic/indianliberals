@@ -51,6 +51,12 @@ summary: |-
   Masani proposes two ten-day camps, with Narayan selecting the participants and providing the location. He asks Rao to reach Patna by June 17, notes that Deshpande may join him there, and says that the contribution from Benares will be arranged through contacts including Amritananda Das and Sujata Das Gupta. The letter closes with a request that Rao confirm his travel plans so their efforts can be coordinated and his expenses reimbursed.
 ---
 
+## Summary
+
+In this one-page letter dated June 14, 1974, M. R. Masani asks Hanumantha Rao to help organise training courses for young people in Bihar in support of Jayaprakash Narayan's educational activities. Masani distinguishes the proposed camps from the Leslie Sawhny Programme itself: the camps should be run by a constructive organisation sponsored by Narayan, while the Leslie Sawhny Programme provides technical assistance and experience.
+
+Masani proposes two ten-day camps, with Narayan selecting the participants and providing the location. He asks Rao to reach Patna by June 17, notes that Deshpande may join him there, and says that the contribution from Benares will be arranged through contacts including Amritananda Das and Sujata Das Gupta. The letter closes with a request that Rao confirm his travel plans so their efforts can be coordinated and his expenses reimbursed.
+
 ## Key points
 
 - Masani proposes training courses for young people in Bihar connected with Jayaprakash Narayan's educational activities.

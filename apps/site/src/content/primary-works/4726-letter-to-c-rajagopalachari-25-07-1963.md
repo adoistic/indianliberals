@@ -50,6 +50,12 @@ summary: |-
   Masani does not argue the substance of Rajagopalachari's remarks in this page; instead, he draws attention to the way they are being used in print and encloses copies of the relevant Tide articles. The letter is therefore primarily a warning about press framing and the political consequences of public statements, addressed in a courteous but cautionary tone.
 ---
 
+## Summary
+
+In this letter dated 25 July 1963, M. R. Masani alerts C. Rajagopalachari to criticism prompted by two of Rajagopalachari's recent published remarks. The first was an appeal in the July 6 issue of the National to “forget about Mr. V. K. Krishna Menon,” so that the nation might eventually make good use of him. The second was a reference to Seminar, published by Romesh Thapar, which Masani says contributed, along with other material, to Tide building “a whole facade” in its 20 July issue.
+
+Masani does not argue the substance of Rajagopalachari's remarks in this page; instead, he draws attention to the way they are being used in print and encloses copies of the relevant Tide articles. The letter is therefore primarily a warning about press framing and the political consequences of public statements, addressed in a courteous but cautionary tone.
+
 ## Key points
 
 - Masani writes to Rajagopalachari on 25 July 1963 about concern over two of Rajagopalachari's published remarks.

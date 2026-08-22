@@ -54,6 +54,12 @@ summary: |-
   The attached minutes record internal party administration during an election period. The committee discusses how to study the controversial Rajamannar Committee Report, the Bombay–Maharashtra merger question, the resignation and replacement of the Office Secretary, disciplinary issues involving Mustafa Ali Rizvi, and a resignation by Dr. Shaikh. The June minutes also set procedures for party elections, including returning officers, representation of primary units, nomination dates, an election tribunal, and recommendations of assembly candidates. The final page records concerns about delayed unit recommendations and the suspension of party subventions because of insufficient funds. No substantive text of the Rajamannar Committee Report itself is included in the rendered pages.
 ---
 
+## Summary
+
+This four-page Swatantra Party, Bombay Region office document comprises a notice dated 27 July 1971 and attached draft minutes of Executive Committee meetings held on 28 June and 14 July 1971. The notice calls a further meeting for 4 August 1971, with discussion of the previous minutes, a note on the Rajamannar Committee Report prepared by R. V. Murthy, and other business. It stresses attendance because the meeting may be the last of the current Executive Committee.
+
+The attached minutes record internal party administration during an election period. The committee discusses how to study the controversial Rajamannar Committee Report, the Bombay–Maharashtra merger question, the resignation and replacement of the Office Secretary, disciplinary issues involving Mustafa Ali Rizvi, and a resignation by Dr. Shaikh. The June minutes also set procedures for party elections, including returning officers, representation of primary units, nomination dates, an election tribunal, and recommendations of assembly candidates. The final page records concerns about delayed unit recommendations and the suspension of party subventions because of insufficient funds. No substantive text of the Rajamannar Committee Report itself is included in the rendered pages.
+
 ## Key points
 
 - A 27 July 1971 notice schedules a 4 August meeting of the Swatantra Party Bombay Region Executive Committee.

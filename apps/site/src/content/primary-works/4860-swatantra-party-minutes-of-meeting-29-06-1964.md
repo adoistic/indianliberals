@@ -53,6 +53,10 @@ summary: |-
   These four pages record draft minutes of two meetings of the Central Organising Committee held on June 29, 1964, at Sir Homi Mody’s residence. The first meeting approved earlier minutes, fixed a timetable for party elections from July 31, 1964, through January 1, 1965, and endorsed the Parliamentary Board’s resolution on relations with Pakistan, with one textual amendment proposed by K. M. Munshi. The committee also approved draft resolutions on food scarcity and high prices and on the 17th Amendment.
 ---
 
+## Summary
+
+These four pages record draft minutes of two meetings of the Central Organising Committee held on June 29, 1964, at Sir Homi Mody’s residence. The first meeting approved earlier minutes, fixed a timetable for party elections from July 31, 1964, through January 1, 1965, and endorsed the Parliamentary Board’s resolution on relations with Pakistan, with one textual amendment proposed by K. M. Munshi. The committee also approved draft resolutions on food scarcity and high prices and on the 17th Amendment.
+
 ## Key points
 
 - The committee approved a detailed timetable for party elections, culminating in election of the National Executive on December 31, 1964, and assumption of office on January 1, 1965.

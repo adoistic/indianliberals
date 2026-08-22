@@ -56,6 +56,12 @@ summary: |-
   The circulation note develops a detailed convention plan, including proposed financing of Rs. 3,39,000, expenditure capped at Rs. 70,000, public meetings, publicity, accommodation, food, press relations, and a proposed first-week-of-December 1970 date. Sharayu Daftary's election-campaign suggestions call for a centralized campaign structure supported by specialized sub-committees for membership, Election Commission liaison, vigilance, propaganda, electoral statistics, and last-day preparation. The document emphasizes close monitoring, voter contact, polling-day organization, data collection, and clear accountability among autonomous sub-committees.
 ---
 
+## Summary
+
+This seven-page Swatantra Party (Bombay Region) office file, dated 8 July 1970, contains a notice for an Executive Committee meeting scheduled for 15 July, minutes of the committee's 3 July meeting, and attached planning notes. The notice places a proposed National Convention in Bombay and future election-campaign planning at the center of the agenda. The minutes record discussion of membership drives, volunteer corps, inactive primary units, the appointment of a Parliamentary Board, and possible coordination among democratic forces opposed to the Indira Gandhi government and the Communists.
+
+The circulation note develops a detailed convention plan, including proposed financing of Rs. 3,39,000, expenditure capped at Rs. 70,000, public meetings, publicity, accommodation, food, press relations, and a proposed first-week-of-December 1970 date. Sharayu Daftary's election-campaign suggestions call for a centralized campaign structure supported by specialized sub-committees for membership, Election Commission liaison, vigilance, propaganda, electoral statistics, and last-day preparation. The document emphasizes close monitoring, voter contact, polling-day organization, data collection, and clear accountability among autonomous sub-committees.
+
 ## Key points
 
 - The Bombay Region Executive Committee was summoned to consider minutes, a proposed National Convention, and future election-campaign organization.

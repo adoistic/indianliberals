@@ -44,6 +44,10 @@ summary: |-
   This one-page English office letter, dated December 26, 1974, is written on Swatantra Party letterhead from Bombay-1 and addressed to Mr. V. P. Bhatia. P. Narayan forwards three bills for September, October, and November 1974, covering the recipient’s share of rent and electricity charges.
 ---
 
+## Summary
+
+This one-page English office letter, dated December 26, 1974, is written on Swatantra Party letterhead from Bombay-1 and addressed to Mr. V. P. Bhatia. P. Narayan forwards three bills for September, October, and November 1974, covering the recipient’s share of rent and electricity charges.
+
 ## Key points
 
 - The letter is dated Dec. 26, 1974, and is issued on Swatantra Party letterhead.

@@ -50,6 +50,12 @@ summary: |-
   Arya explains that Delhi was selected for the convenience of delegates from different states and asks Masani to mobilize supporters. Since a souvenir cannot be produced to raise funds, he proposes issuing a special number of Swatantra Jyoti for that purpose. The second rendered page is the exterior of the inland letter card envelope and contains no additional correspondence.
 ---
 
+## Summary
+
+Dated 26 June 1974, this letter from Mewa Ram Arya to M. R. Masani concerns the proposed dissolution of the Swatantra Party and the organization of its National Convention. Arya reports that the Delhi unit has agreed to host the convention in New Delhi and that the Central Office will contribute half of the estimated Rs. 40,000 cost. He asks Masani to help raise a further Rs. 9,000–10,000, stressing the urgency of preserving liberalism in India.
+
+Arya explains that Delhi was selected for the convenience of delegates from different states and asks Masani to mobilize supporters. Since a souvenir cannot be produced to raise funds, he proposes issuing a special number of Swatantra Jyoti for that purpose. The second rendered page is the exterior of the inland letter card envelope and contains no additional correspondence.
+
 ## Key points
 
 - The letter follows an earlier discussion at the Poona Seminar about referring the Swatantra Party's dissolution to a National Convention.

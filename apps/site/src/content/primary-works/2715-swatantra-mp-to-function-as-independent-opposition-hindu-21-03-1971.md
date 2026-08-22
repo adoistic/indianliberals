@@ -53,6 +53,12 @@ summary: |-
   The article presents the Swatantra Party as a possible democratic alternative to the Congress, while reporting Masani's criticism of the party's electoral performance and organisation. It attributes the Congress's strength to its association with Mrs. Indira Gandhi and says the party's proposed alternative would depend on constituent parties providing a credible programme. The clipping ends with criticism of opposition candidate selection, the absence of a common programme, personality-based politics, and the use of money power.
 ---
 
+## Summary
+
+This newspaper report describes the Swatantra Party's decision to have its members in the Lok Sabha function independently rather than form a bloc with other opposition parties. At a Central Parliamentary Board meeting chaired by M. R. Masani, the party urged its MPs to act as a “determined Opposition,” resist authoritarianism, protect fundamental rights, and support legislation that would build a prosperous and free society. The report also notes the party's opposition to merger proposals and its intention to reassess its electoral strategy after the election results.
+
+The article presents the Swatantra Party as a possible democratic alternative to the Congress, while reporting Masani's criticism of the party's electoral performance and organisation. It attributes the Congress's strength to its association with Mrs. Indira Gandhi and says the party's proposed alternative would depend on constituent parties providing a credible programme. The clipping ends with criticism of opposition candidate selection, the absence of a common programme, personality-based politics, and the use of money power.
+
 ## Key points
 
 - Swatantra MPs are to function independently in Parliament rather than join a united opposition bloc.

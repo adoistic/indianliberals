@@ -54,6 +54,12 @@ summary: |-
   The tribute also emphasizes Rajaji’s relationship to Gandhi and his later role as a prominent voice of dissent. It argues that his criticism was directed toward protecting democracy, and characterizes his death as a serious loss to those commitments. The accompanying letter, signed by S. V. Raju as Executive Secretary of the Swatantra Party, documents the party’s request for four copies of issues published between Rajaji’s admission to hospital and 4 January.
 ---
 
+## Summary
+
+This two-page archival item consists of an Indian Express clipping dated 6 January 1973 and a Swatantra Party letter requesting copies of newspaper issues covering C. Rajagopalachari’s final illness. The clipping, attributed to a staff reporter, records tributes paid at a Bombay meeting after Rajaji’s death. It presents him as an intellectually formidable and unusually wide-ranging public figure whose life combined statesmanship, politics, philosophy, conservatism, liberalism, and exceptional intellectual distinction.
+
+The tribute also emphasizes Rajaji’s relationship to Gandhi and his later role as a prominent voice of dissent. It argues that his criticism was directed toward protecting democracy, and characterizes his death as a serious loss to those commitments. The accompanying letter, signed by S. V. Raju as Executive Secretary of the Swatantra Party, documents the party’s request for four copies of issues published between Rajaji’s admission to hospital and 4 January.
+
 ## Key points
 
 - An Indian Express clipping dated 6 January 1973 reports Bombay tributes to the recently deceased C. Rajagopalachari.

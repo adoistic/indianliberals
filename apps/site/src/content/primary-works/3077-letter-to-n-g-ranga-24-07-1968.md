@@ -48,6 +48,10 @@ summary: |-
   This two-page archival communication, dated 24 July 1968, is a telegram and confirmation copy sent by Professor Ranga from New Delhi to Minoo Masani of the Swatantra Party in Bombay. It concerns parliamentary committee appointments related to the Patents Bill and gold control.
 ---
 
+## Summary
+
+This two-page archival communication, dated 24 July 1968, is a telegram and confirmation copy sent by Professor Ranga from New Delhi to Minoo Masani of the Swatantra Party in Bombay. It concerns parliamentary committee appointments related to the Patents Bill and gold control.
+
 ## Key points
 
 - The document is a telegram rather than a conventional letter, despite the catalogued work type.

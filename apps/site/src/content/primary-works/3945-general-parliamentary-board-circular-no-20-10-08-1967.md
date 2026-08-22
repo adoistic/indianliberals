@@ -53,6 +53,12 @@ summary: |-
   The enclosed draft bill proposes to amend Article 368. It would require a referendum before presidential assent whenever a bill seeks to amend a fundamental right in Part III or another constitutional provision regarded as fundamental by at least one-fourth of the members present and voting in either House of Parliament. The bill further provides that Parliament should establish the referendum procedure and that the President should assent if the electorate approves the amendment. Masani’s accompanying letter contrasts this approach with an earlier bill introduced by Nath Pai, which the party had decided to oppose, and argues that constitutional amendment powers should be exercised by the sovereign people through a referendum held alongside a general election.
 ---
 
+## Summary
+
+This three-page Swatantra Party circular, dated August 10, 1967, seeks Central Parliamentary Board approval for a private member’s Constitution (Amendment) Bill to be introduced in the Lok Sabha by Sriraj Meghrajji Dhrangadhra, a party member. Signed by Executive Secretary S. V. Raju, the circular explains that the bill concerns an important question of policy and asks for a response by August 31. It also encloses a letter from Deputy Leader M. R. Masani outlining the bill’s background and the party’s preferred procedure for constitutional amendment proposals.
+
+The enclosed draft bill proposes to amend Article 368. It would require a referendum before presidential assent whenever a bill seeks to amend a fundamental right in Part III or another constitutional provision regarded as fundamental by at least one-fourth of the members present and voting in either House of Parliament. The bill further provides that Parliament should establish the referendum procedure and that the President should assent if the electorate approves the amendment. Masani’s accompanying letter contrasts this approach with an earlier bill introduced by Nath Pai, which the party had decided to oppose, and argues that constitutional amendment powers should be exercised by the sovereign people through a referendum held alongside a general election.
+
 ## Key points
 
 - The document is Central Parliamentary Board Circular No. 20, issued by the Swatantra Party Central Office on August 10, 1967.

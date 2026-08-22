@@ -52,6 +52,12 @@ summary: |-
   The participants unanimously agreed that Masani should draft a letter for all opposition-party leaders to sign and send to the Prime Minister, restating their position and removing possible misunderstandings. They also agreed to approach the Speaker to convene a meeting of the General Purposes Committee. Pending these steps, members of opposition parties were instructed to abstain from meetings of consultative committees. The record is signed by J. M. Lobo Prabhu, Secretary.
 ---
 
+## Summary
+
+This one-page English office record, dated December 14, 1967, reports on a meeting of opposition-group leaders held the previous day at the Swatantra Party Parliamentary Office in New Delhi. The meeting was convened to consider the formation of informal consultative committees. Those recorded as present were M. R. Masani, A. B. Vajpayee, Madhu Limaye, Anbazaghan, Tridib Choudhury, and S. M. Banerjee.
+
+The participants unanimously agreed that Masani should draft a letter for all opposition-party leaders to sign and send to the Prime Minister, restating their position and removing possible misunderstandings. They also agreed to approach the Speaker to convene a meeting of the General Purposes Committee. Pending these steps, members of opposition parties were instructed to abstain from meetings of consultative committees. The record is signed by J. M. Lobo Prabhu, Secretary.
+
 ## Key points
 
 - The document records a December 13, 1967 meeting convened by M. R. Masani.

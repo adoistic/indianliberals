@@ -44,6 +44,10 @@ summary: |-
   This one-page English letter, dated 16 March 1971 and signed by M. R. Masani, is addressed to Mr. Rasiklalbhai in Rajkot. Masani thanks him for placing a jeep at the disposal of Yuvraj Shivrajkumar for several days before polling day and for providing general help and cooperation. He adds that he is joining Yuvraj Sahib in conveying their thanks.
 ---
 
+## Summary
+
+This one-page English letter, dated 16 March 1971 and signed by M. R. Masani, is addressed to Mr. Rasiklalbhai in Rajkot. Masani thanks him for placing a jeep at the disposal of Yuvraj Shivrajkumar for several days before polling day and for providing general help and cooperation. He adds that he is joining Yuvraj Sahib in conveying their thanks.
+
 ## Key points
 
 - The document is a typed letter dated 16 March 1971.

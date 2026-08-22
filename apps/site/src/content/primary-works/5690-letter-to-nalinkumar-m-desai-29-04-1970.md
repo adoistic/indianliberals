@@ -49,6 +49,12 @@ summary: |-
   Masani argues that the party’s credibility and public image depend on enforcing discipline, noting that there is already too little discipline in national life. He closes by asking for the continued loyalty and disciplined support of a large majority of the party’s members in Gujarat. The letter is copied to Dr. R. C. Cooper of the Swatantra Party in Bombay.
 ---
 
+## Summary
+
+This one-page letter, dated 29 April 1970 and sent from New Delhi, is M. R. Masani’s reply to Nalinkumar Desai and Shantilal Dave. Masani apologizes for the delayed acknowledgment of their 15 April letter and expresses agreement with their “unpleasant and severe action” against persistent indiscipline and disloyalty within the Swatantra Party.
+
+Masani argues that the party’s credibility and public image depend on enforcing discipline, noting that there is already too little discipline in national life. He closes by asking for the continued loyalty and disciplined support of a large majority of the party’s members in Gujarat. The letter is copied to Dr. R. C. Cooper of the Swatantra Party in Bombay.
+
 ## Key points
 
 - Masani apologizes for the delay in acknowledging a letter dated 15 April.

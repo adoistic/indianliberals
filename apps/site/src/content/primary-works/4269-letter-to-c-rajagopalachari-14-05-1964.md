@@ -49,6 +49,12 @@ summary: |-
   Masani also says that he and Ranga have invited the organisation's two vice-presidents, Professor Ruthnaswamy and Maharani Gayatri Devi. Ruthnaswamy is presumed to be in Madras, and Masani asks Rajagopalachari to ensure his attendance; Gayatri Devi has promised to try to attend, but has not confirmed. The letter is primarily an organisational update concerning attendance and participation in a political meeting.
 ---
 
+## Summary
+
+In this letter dated 14 May 1964, M. R. Masani reports to C. Rajagopalachari on the expected attendance at an upcoming Madras meeting. He anticipates a small gathering, naming Rajagopalachari, Ranga, and himself as definite attendees, while noting that Dahyabhai Patel and possibly Ramgarh may also come. Masani explains that several potential participants—including Munshi, Sir Homi Mody, and Bhailalbhai Patel—have excused themselves or are unavailable, while Dungarpur is occupied with a by-election and Patna is on summer leave.
+
+Masani also says that he and Ranga have invited the organisation's two vice-presidents, Professor Ruthnaswamy and Maharani Gayatri Devi. Ruthnaswamy is presumed to be in Madras, and Masani asks Rajagopalachari to ensure his attendance; Gayatri Devi has promised to try to attend, but has not confirmed. The letter is primarily an organisational update concerning attendance and participation in a political meeting.
+
 ## Key points
 
 - The letter is dated 14 May 1964 and is addressed to C. Rajagopalachari ('Rajaji').

@@ -47,6 +47,10 @@ summary: |-
   This typed office letter, dated 14 September 1976, is addressed to S. V. Raju at the All India Swatantra Party in Bombay and concerns the 44th Constitution Amendment Bill. V. S. Srikumar reports that, after discussing the Bill with G. K. Sundaram, the party has decided to constitute a panel of its lawyers to study it and submit a report.
 ---
 
+## Summary
+
+This typed office letter, dated 14 September 1976, is addressed to S. V. Raju at the All India Swatantra Party in Bombay and concerns the 44th Constitution Amendment Bill. V. S. Srikumar reports that, after discussing the Bill with G. K. Sundaram, the party has decided to constitute a panel of its lawyers to study it and submit a report.
+
 ## Key points
 
 - The letter is dated 14 September 1976 and is addressed to S. V. Raju.

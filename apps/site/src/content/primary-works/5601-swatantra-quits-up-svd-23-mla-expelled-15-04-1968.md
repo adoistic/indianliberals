@@ -48,6 +48,12 @@ summary: |-
   The clipping also reports related political developments, including discussion of the position of suspended members, differences over party discipline, and a “Haryana poll” in which Swatantra candidates were expected to contest several seats. The source publication and byline are not visible, and the small-column text is only partly legible in the rendered image.
 ---
 
+## Summary
+
+This newspaper clipping, dated April 15, 1968, reports that the Swatantra Party decided to leave the Samyukta Vidhayak Dal in Uttar Pradesh and remain “neutral” amid the state's unsettled political situation. The report describes disagreements within the Assembly, including the party's dissatisfaction with the Chief Minister's response to the Swatantra Party's decision and the expulsion of 23 MLAs after a party executive decision.
+
+The clipping also reports related political developments, including discussion of the position of suspended members, differences over party discipline, and a “Haryana poll” in which Swatantra candidates were expected to contest several seats. The source publication and byline are not visible, and the small-column text is only partly legible in the rendered image.
+
 ## Key points
 
 - The Swatantra Party announced its withdrawal from the Samyukta Vidhayak Dal in Uttar Pradesh.

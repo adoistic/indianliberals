@@ -50,6 +50,12 @@ summary: |-
   The remainder of the letter focuses on the practical organisation of the party’s parliamentary office. Masani describes the provision of furnished premises at 40, Canning Lane, the approved monthly budget, proposed salaries, the need to appoint a general assistant and stenographer, and the delayed recruitment of staff. He argues that the Parliamentary group should establish its office before a Research Bureau is created in Delhi, asks Ranga to press for the minutes of their meeting and for the recruitment of a competent stenographer, and reports that he has contributed Rs. 101/- toward a farewell to the President. The two rendered pages contain the complete letter; no further content is missing.
 ---
 
+## Summary
+
+In this letter dated 7 May 1962, M. R. Masani writes to Prof. N. G. Ranga from Bombay after a visit to Delhi. He reports helping Swatantra Party members prepare speeches for the Lok Sabha budget debates and a non-official resolution, noting that P. K. Ghosh delivered part of a speech that was later taken up by the Chairman before Mr. Reddy came to his assistance. He also identifies Maharani Gayatri Devi, Sardar Buta Singh, and Mr. N. Mahida as the speakers dividing the budget subject among themselves.
+
+The remainder of the letter focuses on the practical organisation of the party’s parliamentary office. Masani describes the provision of furnished premises at 40, Canning Lane, the approved monthly budget, proposed salaries, the need to appoint a general assistant and stenographer, and the delayed recruitment of staff. He argues that the Parliamentary group should establish its office before a Research Bureau is created in Delhi, asks Ranga to press for the minutes of their meeting and for the recruitment of a competent stenographer, and reports that he has contributed Rs. 101/- toward a farewell to the President. The two rendered pages contain the complete letter; no further content is missing.
+
 ## Key points
 
 - Masani reports assisting Swatantra Party members with Lok Sabha budget-debate speeches and a non-official resolution.

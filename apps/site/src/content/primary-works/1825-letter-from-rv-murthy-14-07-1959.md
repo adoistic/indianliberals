@@ -50,6 +50,12 @@ summary: |-
   The meeting is proposed for 17 July at Minoo Masani’s residence in Bombay. The letter therefore documents an early organisational effort to develop a broadly appealing economic platform and to solicit constructive participation in the new party’s policy formation.
 ---
 
+## Summary
+
+This single-page letter, dated 14 July 1959 and signed by R. V. Murthy as Convenor, invites the recipient to a meeting concerning the formulation of an economic programme for a newly formed political party. Murthy says the meeting was prompted by suggestions from friends that the recipient help prepare a note setting out broad economic-policy principles capable of attracting as many people as possible, especially the middle classes.
+
+The meeting is proposed for 17 July at Minoo Masani’s residence in Bombay. The letter therefore documents an early organisational effort to develop a broadly appealing economic platform and to solicit constructive participation in the new party’s policy formation.
+
 ## Key points
 
 - The letter is dated 14 July 1959 and is signed by R. V. Murthy as Convenor.

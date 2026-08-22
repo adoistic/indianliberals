@@ -56,6 +56,12 @@ summary: |-
   In the rendered pages, Masani presents planning as both an economic and constitutional problem. He argues that centralised planning has produced economic stagnation, rising prices, and food shortages, while Union control over planning machinery violates the federal principle. Comparisons with Indonesia and Ghana are used to warn against the concentration of power and the erosion of democratic institutions. The second rendered page consists of unrelated magazine editorial and advertising material rather than a continuation of the essay.
 ---
 
+## Summary
+
+In the rendered pages, Minoo Masani argues that India's planning system has failed to deliver the objectives of the Second and Third Five-Year Plans and has instead allowed the Planning Commission to become a parallel, super-government institution. Drawing on the Administrative Reforms Commission's recommendations, he proposes reducing the Commission to an advisory body focused on planning and evaluation rather than decision-making and execution. He also criticises the Prime Minister's resistance to these reforms and the proposed inclusion of Communist ministers in the Commission.
+
+In the rendered pages, Masani presents planning as both an economic and constitutional problem. He argues that centralised planning has produced economic stagnation, rising prices, and food shortages, while Union control over planning machinery violates the federal principle. Comparisons with Indonesia and Ghana are used to warn against the concentration of power and the erosion of democratic institutions. The second rendered page consists of unrelated magazine editorial and advertising material rather than a continuation of the essay.
+
 ## Key points
 
 - Masani attributes the failure of the Second and Third Five-Year Plans to the planning system introduced under Jawaharlal Nehru.

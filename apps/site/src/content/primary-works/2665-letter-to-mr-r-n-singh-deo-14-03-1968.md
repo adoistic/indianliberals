@@ -50,6 +50,12 @@ summary: |-
   Masani presents the enclosed note as a possible starting point for a quick decision. He proposes first trying to identify suitable personnel through an unofficial and informal approach; if that cannot be done, he suggests considering advertising. The document is signed by Masani and marked “Personal,” with no printed title or publisher.
 ---
 
+## Summary
+
+This one-page personal letter, dated 14 March 1968 and sent from 2 Tugh lak Road, New Delhi, records M. R. Masani's response to Mr. R. N. Singh Deo, Chief Minister of Bhubaneswar. Masani apologizes for delaying a note on the need to upgrade the Public Relations arrangements of the recipient's government, explaining that he had been occupied with the Budget debate and other accumulated matters.
+
+Masani presents the enclosed note as a possible starting point for a quick decision. He proposes first trying to identify suitable personnel through an unofficial and informal approach; if that cannot be done, he suggests considering advertising. The document is signed by Masani and marked “Personal,” with no printed title or publisher.
+
 ## Key points
 
 - Masani writes to Mr. R. N. Singh Deo on 14 March 1968 from New Delhi.

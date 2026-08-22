@@ -51,6 +51,12 @@ summary: |-
   The sender identifies two matters for discussion: proposed amendments to the Constitution and the possibility of bringing political parties together into a united opposition. Raju is also invited to submit his views on these subjects and to report on the political situation in his area. The second rendered page shows the reverse/envelope side of the correspondence and contains no further substantive argument.
 ---
 
+## Summary
+
+This letter, dated 24 May 1976 and issued from the Swatantra Party’s National Headquarters in Madras, asks S. V. Raju, the party’s joint secretary in Bombay, to attend an upcoming meeting of the National Executive and National General Council. The meeting is expected to take place in Bombay during the second or third week of June 1976, with formal notice to follow after the General Secretary returns.
+
+The sender identifies two matters for discussion: proposed amendments to the Constitution and the possibility of bringing political parties together into a united opposition. Raju is also invited to submit his views on these subjects and to report on the political situation in his area. The second rendered page shows the reverse/envelope side of the correspondence and contains no further substantive argument.
+
 ## Key points
 
 - The letter is dated 24 May 1976 and is sent from the Swatantra Party National Headquarters in Madras.

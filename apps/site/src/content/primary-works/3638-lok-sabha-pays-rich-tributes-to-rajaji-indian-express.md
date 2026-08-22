@@ -49,6 +49,12 @@ summary: |-
   The report also notes tributes to Shaukatullah Shah Ansari and other former parliamentarians who had died during the inter-session period. Speakers including G. S. Dhillon, Atal Bihari Vajpayee, and S. N. Mishra emphasised Rajaji’s patriotism, administrative career, intellectual distinction, and role in bridging India’s old and new political eras. The article concludes with praise for the simplicity of Rajagopalachari’s life and the democratic values associated with his public statements.
 ---
 
+## Summary
+
+This Indian Express report records tributes paid by the Lok Sabha to C. Rajagopalachari (Rajaji), who had died shortly before the sitting. Prime Minister Indira Gandhi described Rajaji as a guardian of human culture and an outstanding statesman, praising his sharp intellect, concern for humanity, long service in the Congress, and founding of the Swatantra Party.
+
+The report also notes tributes to Shaukatullah Shah Ansari and other former parliamentarians who had died during the inter-session period. Speakers including G. S. Dhillon, Atal Bihari Vajpayee, and S. N. Mishra emphasised Rajaji’s patriotism, administrative career, intellectual distinction, and role in bridging India’s old and new political eras. The article concludes with praise for the simplicity of Rajagopalachari’s life and the democratic values associated with his public statements.
+
 ## Key points
 
 - The Lok Sabha paid a formal tribute to C. Rajagopalachari after his death.

@@ -65,6 +65,12 @@ summary: |-
   The programme combines economic liberalisation with institutional and social proposals. It calls for greater protection of civil liberties, judicial and administrative reform, an Ombudsman, electoral changes, decentralisation and stronger state autonomy, improvements in education and public health, agricultural development, and support for industry and trade. It also proposes measures concerning taxation, food security, labour, education, Scheduled Castes and tribal communities, women, and national defence. The document closes by presenting the Swatantra Party as a constitutional, democratic alternative committed to transferring greater responsibility and choice to citizens, producers, consumers, and local institutions.
 ---
 
+## Summary
+
+This Tamil-language manifesto, issued by the Swatantra Party in January 1966, presents the party’s programme for government and its rationale. It argues that India’s political and economic development has been obstructed by excessive state control, centralised planning, restrictive licensing, public-sector expansion, and the weakening of individual initiative. The manifesto places political freedom, private property, free enterprise, and constitutional government at the centre of its alternative to the prevailing model of economic administration.
+
+The programme combines economic liberalisation with institutional and social proposals. It calls for greater protection of civil liberties, judicial and administrative reform, an Ombudsman, electoral changes, decentralisation and stronger state autonomy, improvements in education and public health, agricultural development, and support for industry and trade. It also proposes measures concerning taxation, food security, labour, education, Scheduled Castes and tribal communities, women, and national defence. The document closes by presenting the Swatantra Party as a constitutional, democratic alternative committed to transferring greater responsibility and choice to citizens, producers, consumers, and local institutions.
+
 ## Key points
 
 - The manifesto identifies excessive centralisation, state regulation, licensing, and economic planning as major obstacles to India’s development.

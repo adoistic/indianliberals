@@ -47,6 +47,12 @@ summary: |-
   Patel also describes his own financial and organisational contributions, including spending nearly Rs 300 on Masani's election campaign and losing his seat on the managing committee of the W.I.A.A. He complains that the party gives him little practical assistance, particularly with typing and preparing speeches, and rejects what he sees as a two-class membership structure in which some members receive benefits while others pay. The letter closes with a sharp rebuke to Masani for writing what Patel considers an unfair letter.
 ---
 
+## Summary
+
+This two-page letter, dated February 4, 1965, from Dahyabhai Vallabhbhai Patel to M. R. Masani disputes Masani's account of Patel's financial support for party activities. Patel says he paid Rs 500 to friends of the Socialist Party to arrange votes for Devi Singh in a Rajasthan by-election, with the approval of Prof. Ranga, Maharani Gyatari Devi, and others. He separately explains that he advanced Rs 500 to lawyer S. S. Sukla for a Supreme Court case concerning Gujarat Assembly members and a similar-symbol issue, stating that the payment was arranged through Mr. Jain.
+
+Patel also describes his own financial and organisational contributions, including spending nearly Rs 300 on Masani's election campaign and losing his seat on the managing committee of the W.I.A.A. He complains that the party gives him little practical assistance, particularly with typing and preparing speeches, and rejects what he sees as a two-class membership structure in which some members receive benefits while others pay. The letter closes with a sharp rebuke to Masani for writing what Patel considers an unfair letter.
+
 ## Key points
 
 - Patel disputes Masani's account of subscription-related payments and party support.

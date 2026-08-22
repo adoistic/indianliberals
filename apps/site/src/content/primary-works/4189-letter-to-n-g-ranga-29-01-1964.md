@@ -55,6 +55,12 @@ summary: |-
   The document proposes a layered internal structure extending from the national Party to state branches, districts, and constituencies. Registered Life Workers elect the national President, Vice-President, and General Secretary, while a National Convention elects the Central Executive Committee through proportional representation. State-level workers elect branch officers and executive committees; state members may adopt resolutions, elect three members to the State Executive Committee, and establish district and constituency committees. Only registered workers are eligible for Party offices and executive-committee membership.
 ---
 
+## Summary
+
+These two pages set out organizational rules for the Swatantra Party. They distinguish between ordinary members, workers, and registered “Life Workers”: persons over 21 may enroll as workers on payment of an annual subscription of Rs. 5, while those paying Rs. 50 in advance are registered as Life Workers in a National Register. Members who sign a pledge accepting and adhering to the Party’s principles pay no annual subscription and retain membership until they resign in writing.
+
+The document proposes a layered internal structure extending from the national Party to state branches, districts, and constituencies. Registered Life Workers elect the national President, Vice-President, and General Secretary, while a National Convention elects the Central Executive Committee through proportional representation. State-level workers elect branch officers and executive committees; state members may adopt resolutions, elect three members to the State Executive Committee, and establish district and constituency committees. Only registered workers are eligible for Party offices and executive-committee membership.
+
 ## Key points
 
 - People over 21 may enroll as Swatantra Party workers by paying Rs. 5 per year.

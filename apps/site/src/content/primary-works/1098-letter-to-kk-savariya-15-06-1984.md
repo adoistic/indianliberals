@@ -47,6 +47,12 @@ summary: |-
   Masani declines flatly. He writes that he is "surprised to learn" of the initiative and that he "thoroughly disapprove[s] of the move," so he will not accept the invitation to be present on the occasion. The document is significant less for length than for what it records: a decade after the Swatantra Party was formally wound up in 1974, its principal architect actively refused to bless a local revival attempt in Gujarat, treating the party's dissolution as settled rather than something to be reversed by regional convenors.
 ---
 
+## Summary
+
+This single-page typed letter, dated 15 June 1984 and signed by M. R. Masani, is a curt reply from the founding leader of the Swatantra Party to K. K. Savariya, addressed as the Gujarat Convenor of the Swatantra Party at Shri Shardanagar, Morbi. Savariya had sent a postcard inviting Masani to associate himself with an effort to re-establish a branch of the Swatantra Party in Rajkot.
+
+Masani declines flatly. He writes that he is "surprised to learn" of the initiative and that he "thoroughly disapprove[s] of the move," so he will not accept the invitation to be present on the occasion. The document is significant less for length than for what it records: a decade after the Swatantra Party was formally wound up in 1974, its principal architect actively refused to bless a local revival attempt in Gujarat, treating the party's dissolution as settled rather than something to be reversed by regional convenors.
+
 ## Key points
 
 - Personal letter from M. R. Masani in Bombay to K. K. Savariya in Morbi, Gujarat, dated 15 June 1984.

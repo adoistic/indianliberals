@@ -52,6 +52,12 @@ summary: |-
   The participants focus on practical mechanisms for handling corruption complaints: screening large numbers of complaints for prima facie genuineness, encouraging witnesses to provide evidence, protecting complainants and witnesses, and improving the institutional handling of complaints against officials. Other proposals include prioritising actionable cases, transferring officers where conviction is not possible for lack of evidence, appointing a liaison officer between the Samiti and the Vigilance Commission, maintaining an open chronological register for telephone allotments, and convening political leaders to frame a code of conduct for legislators and corporation members. The record ends with members taking an oath.
 ---
 
+## Summary
+
+This two-page summary records a meeting of the Samyukta Sadachar Samiti held in New Delhi on 24 February 1964. The Home Minister presents the Samiti as a body that could cultivate a change of public attitudes toward corruption, combining research into its mechanisms with publicity and social education. The discussion proposes two Delhi branches, one for the Corporation and one for the Delhi Administration, and considers a remit broader than that of the Vigilance Commission, which was limited to government employees.
+
+The participants focus on practical mechanisms for handling corruption complaints: screening large numbers of complaints for prima facie genuineness, encouraging witnesses to provide evidence, protecting complainants and witnesses, and improving the institutional handling of complaints against officials. Other proposals include prioritising actionable cases, transferring officers where conviction is not possible for lack of evidence, appointing a liaison officer between the Samiti and the Vigilance Commission, maintaining an open chronological register for telephone allotments, and convening political leaders to frame a code of conduct for legislators and corporation members. The record ends with members taking an oath.
+
 ## Key points
 
 - The Samyukta Sadachar Samiti is presented as an anti-corruption body combining research, publicity, and social education.

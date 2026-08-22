@@ -46,6 +46,12 @@ summary: |-
   The piece contains no policy argument or programmatic content; its historical interest is as a piece of Swatantra Party correspondence linking Masani to a Rajkot-based worker in the immediate aftermath of the March 1971 poll.
 ---
 
+## Summary
+
+A short typed letter from M. R. Masani, dated 4th March 1971, to Mr. N. J. Dhebar at Harihar Society, Tul Jay-Plot 42-A, Rajkot. Masani acknowledges Dhebar's letter of 27th February and an enclosed report of the election work Dhebar carried out during the second half of February 1971 — the period of India's fifth general election. The letter is entirely a note of thanks, closing with Masani's signature and initials 'mrm;rka' in the file-copy footer.
+
+The piece contains no policy argument or programmatic content; its historical interest is as a piece of Swatantra Party correspondence linking Masani to a Rajkot-based worker in the immediate aftermath of the March 1971 poll.
+
 ## Key points
 
 - Typed carbon-copy letter dated 4th March 1971, signed by M. R. Masani.

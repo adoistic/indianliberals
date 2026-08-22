@@ -53,3 +53,9 @@ summary: |-
   
   A handwritten page records possible subjects for the publication, including foreign policy, realism, planning, devaluation, relations with the “Kremlin bloc,” and parliamentary procedure. These notes indicate the intended scope of discussion but are not a formal table of contents and do not establish that the proposed subjects became published essays. The item should therefore be treated as preliminary convention material rather than a complete record of the convention’s proceedings.
 ---
+
+## Summary
+
+This five-page item is a printed publication for the Swatantra Party Preparatory Convention held in Bombay in August 1959. The visible printed pages consist of the cover, imprint, blank interleaves, and a final page bearing a form letter about assistance with printing the publication. No formal contents page, author list, speeches, resolutions, or substantive convention proceedings are visible.
+
+A handwritten page records possible subjects for the publication, including foreign policy, realism, planning, devaluation, relations with the “Kremlin bloc,” and parliamentary procedure. These notes indicate the intended scope of discussion but are not a formal table of contents and do not establish that the proposed subjects became published essays. The item should therefore be treated as preliminary convention material rather than a complete record of the convention’s proceedings.

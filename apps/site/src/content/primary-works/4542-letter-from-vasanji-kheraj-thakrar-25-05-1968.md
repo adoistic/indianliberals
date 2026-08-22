@@ -50,6 +50,12 @@ summary: |-
   The letter also endorses K. M. Munshi's view that the party is not a confederation of autonomous units: the State Units are branches of the central organisation and should accept the direction of the Central Executive. Thakrar supports disciplinary proceedings, including possible expulsion, while urging that action be applied impartially and without regard to seniority or personality. The document ends with an appeal to the Central Council to act in the party's interest.
 ---
 
+## Summary
+
+This two-page letter, dated 25 May 1958 and sent from Porbandar by Vasanji Kheraj Thakrar to members of the Central Council, explains his absence from an important meeting and responds to Minoo Masani's concerns about the party. Thakrar argues that the party's principle, prestige, and credit depend on discipline and integrity rather than membership numbers, and he supports dismissing members whose conduct conflicts with party principles and directions.
+
+The letter also endorses K. M. Munshi's view that the party is not a confederation of autonomous units: the State Units are branches of the central organisation and should accept the direction of the Central Executive. Thakrar supports disciplinary proceedings, including possible expulsion, while urging that action be applied impartially and without regard to seniority or personality. The document ends with an appeal to the Central Council to act in the party's interest.
+
 ## Key points
 
 - Thakrar apologises for being unable to attend a significant Central Council meeting.

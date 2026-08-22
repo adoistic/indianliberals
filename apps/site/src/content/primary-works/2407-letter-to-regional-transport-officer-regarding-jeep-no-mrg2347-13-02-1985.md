@@ -45,6 +45,10 @@ summary: |-
   In this letter dated 13 February 1985, M. R. Masani writes to the Regional Transport Officer in Bombay to protest repeated bills sent to him in error. He says that, despite earlier requests—including a letter of 28 December 1984—he continues to receive bills unrelated to him.
 ---
 
+## Summary
+
+In this letter dated 13 February 1985, M. R. Masani writes to the Regional Transport Officer in Bombay to protest repeated bills sent to him in error. He says that, despite earlier requests—including a letter of 28 December 1984—he continues to receive bills unrelated to him.
+
 ## Key points
 
 - The letter is addressed to the Regional Transport Officer, Bombay.

@@ -50,6 +50,12 @@ summary: |-
   Raju asks Masani to persuade Koushik to pay a subscription of either Rs. 3 or Rs. 100 so that he can secure co-option to the General Council. He encloses an enrolment form and asks Masani to pass it to Koushik, who should return the completed form and payment to Raju.
 ---
 
+## Summary
+
+In this letter dated November 24, 1969, S. V. Raju writes to M. R. Masani about Mr. K. M. Koushik’s eligibility for election to the General Council. Raju reports that Koushik is not enrolled in either Maharashtra or Bombay and therefore cannot be elected in the relevant capacity.
+
+Raju asks Masani to persuade Koushik to pay a subscription of either Rs. 3 or Rs. 100 so that he can secure co-option to the General Council. He encloses an enrolment form and asks Masani to pass it to Koushik, who should return the completed form and payment to Raju.
+
 ## Key points
 
 - The letter is dated November 24, 1969, and is signed by S. V. Raju.

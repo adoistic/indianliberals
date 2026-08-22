@@ -50,6 +50,12 @@ summary: |-
   Masani recalls Narayan's 1957 advocacy of bringing opposition parties together, including the Communists, and explains that the proposed minimum programme arose from discussions with C. Rajagopalachari at Rajkot and from the Unity Conference. He distinguishes cooperation on specific issues from a common electoral opposition capable of putting forward a single candidate against Congress. By the second page, he says that both the proposed meeting and the minimum programme must be abandoned for the time being, while urging the recipient to help address Girdhari's continuing difficulties. The complete two-page letter is visible here.
 ---
 
+## Summary
+
+In this letter dated July 4, 1963, M. R. Masani responds to Jayaprakash Narayan's public comments about a proposed meeting of political figures. Masani stresses that he had suggested only an informal gathering of friends, not a fixed party meeting, and questions why Narayan went to the press after informing him of his objections. He also challenges the idea that only J. N. could convene a discussion of the national situation, arguing that other public figures had the right to review it collectively.
+
+Masani recalls Narayan's 1957 advocacy of bringing opposition parties together, including the Communists, and explains that the proposed minimum programme arose from discussions with C. Rajagopalachari at Rajkot and from the Unity Conference. He distinguishes cooperation on specific issues from a common electoral opposition capable of putting forward a single candidate against Congress. By the second page, he says that both the proposed meeting and the minimum programme must be abandoned for the time being, while urging the recipient to help address Girdhari's continuing difficulties. The complete two-page letter is visible here.
+
 ## Key points
 
 - Masani disputes Jayaprakash Narayan's public characterization of a proposed meeting.

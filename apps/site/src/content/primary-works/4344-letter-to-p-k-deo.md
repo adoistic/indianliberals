@@ -50,6 +50,12 @@ summary: |-
   The letter also responds to Deo’s request for a change of seating if the Group moves into seats currently occupied by the Communists. Rajagopalachari says the Parliamentary Board supports Deo’s being allocated the second-bench seat next to the Deputy Leader, while warning that the move may not occur before Parliament meets again. He closes by assuring Deo that he may raise similar problems and that Rajagopalachari will try to help, while emphasising that the wider interests of the Party must come first. The visible document is marked “Draft,” carries the archival number 4344, and has no printed date.
 ---
 
+## Summary
+
+This two-page draft letter from C. Rajagopalachari to P. K. Deo addresses the organisation of the Swatantra Group in Parliament. Rajagopalachari reports that the Parliamentary Board unanimously rejected the idea of appointing two Deputy Leaders in the Lok Sabha, given the Group’s small numbers, and decided to retain one Deputy Leader in each House. He reminds Deo that Deo had previously held the same view and urges him to accept the decision in the same sporting spirit he had shown the previous year, including by proposing the re-election of the existing Deputy Leader.
+
+The letter also responds to Deo’s request for a change of seating if the Group moves into seats currently occupied by the Communists. Rajagopalachari says the Parliamentary Board supports Deo’s being allocated the second-bench seat next to the Deputy Leader, while warning that the move may not occur before Parliament meets again. He closes by assuring Deo that he may raise similar problems and that Rajagopalachari will try to help, while emphasising that the wider interests of the Party must come first. The visible document is marked “Draft,” carries the archival number 4344, and has no printed date.
+
 ## Key points
 
 - The Parliamentary Board decided unanimously that the Swatantra Group should have only one Deputy Leader in each House.

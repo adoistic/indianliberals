@@ -47,6 +47,12 @@ summary: |-
   The operative ask is that Deo take up the matter with Bhatia directly, since securing the certificates from him is the necessary first step. A carbon copy is marked to Mr. V. P. Bhatia at the B.L.D., Bombay, and the file bears the reference numbers 70 and 72. The letter is administrative rather than argumentative — a small piece of the paper trail behind a donation being funnelled into the Rajaji Memorial Committee's corpus during the weeks immediately before the Emergency.
 ---
 
+## Summary
+
+In this brief typewritten letter of 23 April 1975, Minoo Masani writes from Bombay to P. K. Deo, MP — Chairman of the Rajaji Memorial Committee at 5-A Central Hall, Parliament House, New Delhi — acknowledging Deo's letter of 21 April and reporting on the mechanics of a share transfer intended for the Committee. Masani explains that he is trying to obtain the relevant share certificates from Mr. V. P. Bhatia, who is in charge of the B.L.D. office in Bombay; once the certificates are in hand, he will either execute a transfer of the shares to the name of the Rajaji Memorial Committee or, if Deo prefers, sell the shares and remit the proceeds.
+
+The operative ask is that Deo take up the matter with Bhatia directly, since securing the certificates from him is the necessary first step. A carbon copy is marked to Mr. V. P. Bhatia at the B.L.D., Bombay, and the file bears the reference numbers 70 and 72. The letter is administrative rather than argumentative — a small piece of the paper trail behind a donation being funnelled into the Rajaji Memorial Committee's corpus during the weeks immediately before the Emergency.
+
 ## Key points
 
 - Typewritten letter from Minoo Masani (Bombay) to P. K. Deo, MP, dated 23 April 1975, replying to Deo's letter of 21 April.

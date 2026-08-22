@@ -48,6 +48,12 @@ summary: |-
   The visible document is a brief administrative communication concerning party finance and donor records. It does not identify the party, provide the donor list itself, or explain how the contributions were collected or used.
 ---
 
+## Summary
+
+This untitled letter, dated 9 February 1966, is addressed by M. R. Masani to S. V. Raju. Masani asks Raju to send Mr. C. Rai two copies of a donor list being prepared from contributions made to the party fund during the 1962 elections. The second rendered page contains handwritten annotations and a handwritten signature over the typed text.
+
+The visible document is a brief administrative communication concerning party finance and donor records. It does not identify the party, provide the donor list itself, or explain how the contributions were collected or used.
+
 ## Key points
 
 - The letter is dated 9 February 1966.

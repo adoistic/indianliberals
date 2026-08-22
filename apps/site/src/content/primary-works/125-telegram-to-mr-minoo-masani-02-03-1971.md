@@ -50,6 +50,12 @@ summary: |-
   Beyond the greeting itself the document carries the standard telegraph office markings (form C-3, serial number 125, the departmental "BUY NATIONAL SAVINGS CERTIFICATES" cachets, and the office receipt stamps) but no further substantive content. It functions as a piece of political correspondence rather than an essay, tract, or speech.
 ---
 
+## Summary
+
+A single-page Indian Posts and Telegraphs Department telegram, filed from New Delhi and addressed to "M R MASANI SWATANTRA PARTY RAJKOT". The body of the wire is a terse message of solidarity — "GOOD LUCK... JAIN" — evidently sent to Minoo Masani during the March 1971 general election, when Masani was contesting his Rajkot Lok Sabha seat on the Swatantra Party ticket.
+
+Beyond the greeting itself the document carries the standard telegraph office markings (form C-3, serial number 125, the departmental "BUY NATIONAL SAVINGS CERTIFICATES" cachets, and the office receipt stamps) but no further substantive content. It functions as a piece of political correspondence rather than an essay, tract, or speech.
+
 ## Key points
 
 - Physical form: a pink Indian Posts and Telegraphs Department telegram slip, form C-3, catalogued item 125.

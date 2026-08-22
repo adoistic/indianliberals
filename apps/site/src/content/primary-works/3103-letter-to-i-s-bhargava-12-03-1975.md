@@ -52,6 +52,12 @@ summary: |-
   Raju describes ongoing legal and organisational efforts to preserve the Swatantra Party’s identity, including an appeal against the Madras High Court decision and a challenge to the Election Commission’s withdrawal of the party symbol and name. He says the party’s National Executive has been reconstituted and urges Bhargava to help revive the organisation. The letter closes with practical advice about contacting supporters in Rajasthan, notes that Piloo Mody & Co. is no longer operating, and asks Bhargava to maintain contact.
 ---
 
+## Summary
+
+In this two-page letter dated March 12, 1975, S. V. Raju thanks I. S. Bhargava for his correspondence and warns him that letters addressed to Raju may be intercepted by people associated with the Intelligence Bureau. Raju reports encouraging municipal-election results in Kota and Jhalwad, including the election of Jai Narain as chairman of the Kota Municipal Committee, and suggests that the Swatantra Party may be able to rebuild its position in Rajasthan after the party’s dissolution was challenged as unconstitutional.
+
+Raju describes ongoing legal and organisational efforts to preserve the Swatantra Party’s identity, including an appeal against the Madras High Court decision and a challenge to the Election Commission’s withdrawal of the party symbol and name. He says the party’s National Executive has been reconstituted and urges Bhargava to help revive the organisation. The letter closes with practical advice about contacting supporters in Rajasthan, notes that Piloo Mody & Co. is no longer operating, and asks Bhargava to maintain contact.
+
 ## Key points
 
 - Raju warns Bhargava that correspondence to him may be intercepted by Intelligence Bureau personnel.

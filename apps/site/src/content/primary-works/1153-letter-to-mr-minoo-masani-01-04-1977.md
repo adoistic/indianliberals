@@ -50,6 +50,12 @@ summary: |-
   Having reached deadlock, the correspondents propose Masani as an impartial arbitrator, a suggestion to which both Kejriwal and Munshi have already agreed. The letter frames four specific issues on which Masani's decision will be binding: whether office-bearers hold Party property under an obligation annexed to ownership; whether such property can be applied to any object other than the Party's principles; whether steps should be taken to rectify any lacuna in the present situation; and any incidental issues arising from the dispute. The letter closes with an appeal to Masani's authority as founder of the Party.
 ---
 
+## Summary
+
+A single-page typed letter dated 1 April 1977, hand-delivered from three members of the Swatantra Party's Maharashtra unit — K. H. Subramanian, L. R. Sampat and S. V. Raju — to Minoo Masani, the Party's founder. The signatories describe an internal dispute over the ownership and use of the Party's properties and assets. They argue that these can only be used for purposes outlined in the Party's Constitution, and cannot be diverted to activities inconsistent with its Principles. The office bearers Mr. Parmanand Kejriwal (President) and Mr. Girish Munshi (General Secretary) hold a different view.
+
+Having reached deadlock, the correspondents propose Masani as an impartial arbitrator, a suggestion to which both Kejriwal and Munshi have already agreed. The letter frames four specific issues on which Masani's decision will be binding: whether office-bearers hold Party property under an obligation annexed to ownership; whether such property can be applied to any object other than the Party's principles; whether steps should be taken to rectify any lacuna in the present situation; and any incidental issues arising from the dispute. The letter closes with an appeal to Masani's authority as founder of the Party.
+
 ## Key points
 
 - Letter dated 1 April 1977, hand-delivered from 143, Mahatma Gandhi Road, Bombay 400 023.

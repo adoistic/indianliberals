@@ -50,6 +50,12 @@ summary: |-
   Drawing on the party’s 1964 National Convention in Bangalore and a recent Mysore State convention, Masani argues that conventions should avoid expensive, time-consuming ceremonial forms such as shamianas and processions. He encloses an organisational chart prepared for the Third National Convention in Bangalore as a practical aid. The second rendered page consists of that chart, detailing committees and responsibilities for reception, transport, accommodation, publicity, press relations, invitations, finance, and volunteer coordination.
 ---
 
+## Summary
+
+In this 8 August 1966 letter, M. R. Masani, General Secretary of the Swatantra Party, provides guidance to state units preparing conventions before the party’s National Convention in November. He recommends a one-and-a-half-day programme: an afternoon inaugural session open to the press and invited public, followed by closed business sessions, with at least half a day reserved for a distinct discussion of party organisation rather than resolutions and policies. State units are asked to prepare and circulate an organisational report to delegates one month in advance.
+
+Drawing on the party’s 1964 National Convention in Bangalore and a recent Mysore State convention, Masani argues that conventions should avoid expensive, time-consuming ceremonial forms such as shamianas and processions. He encloses an organisational chart prepared for the Third National Convention in Bangalore as a practical aid. The second rendered page consists of that chart, detailing committees and responsibilities for reception, transport, accommodation, publicity, press relations, invitations, finance, and volunteer coordination.
+
 ## Key points
 
 - The letter sets out a recommended one-and-a-half-day format for Swatantra Party state conventions.

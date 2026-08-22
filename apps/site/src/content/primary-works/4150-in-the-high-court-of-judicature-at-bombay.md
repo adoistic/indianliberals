@@ -50,6 +50,10 @@ summary: |-
   The rendered page is the index to Writ Petition No. 4150 of 1994 before the High Court of Judicature at Bombay, under its Ordinary, Original and Constitutional Jurisdiction. The petitioners are identified as Swatantra Party (Maharashtra) and another; the respondents are the Union of India and others. No individual author is named.
 ---
 
+## Summary
+
+The rendered page is the index to Writ Petition No. 4150 of 1994 before the High Court of Judicature at Bombay, under its Ordinary, Original and Constitutional Jurisdiction. The petitioners are identified as Swatantra Party (Maharashtra) and another; the respondents are the Union of India and others. No individual author is named.
+
 ## Key points
 
 - The document is a Bombay High Court writ-petition filing dated 1994.

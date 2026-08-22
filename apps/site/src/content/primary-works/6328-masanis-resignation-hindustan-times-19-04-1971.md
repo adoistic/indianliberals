@@ -47,6 +47,10 @@ summary: |-
   This letter to the editor responds to Minoo Masani’s resignation as chairman of the Swatantra Party after the April 1971 mid-term election results. The writer treats the resignation as a dignified acceptance of electoral responsibility and argues that the party has lost the confidence of substantial sections of the Indian electorate.
 ---
 
+## Summary
+
+This letter to the editor responds to Minoo Masani’s resignation as chairman of the Swatantra Party after the April 1971 mid-term election results. The writer treats the resignation as a dignified acceptance of electoral responsibility and argues that the party has lost the confidence of substantial sections of the Indian electorate.
+
 ## Key points
 
 - The writer approves of Minoo Masani’s resignation after the Swatantra Party’s electoral defeat.

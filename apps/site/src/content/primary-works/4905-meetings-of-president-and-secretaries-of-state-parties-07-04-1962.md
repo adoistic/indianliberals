@@ -57,6 +57,12 @@ summary: |-
   The minutes focus on consolidating the party’s electoral machinery and state units. They address enrolment deadlines, constituency and committee elections, the collection of information about alleged electoral irregularities, opposition to Congress propaganda, party finances, labour participation, and the possibility of action concerning the free movement of foodgrains in Orissa. The April meeting also discusses a proposed state-level candidates’ convention and reports that the party’s position on contesting village-panchayat and other local-body elections would remain unchanged pending consideration by the Parliamentary Board.
 ---
 
+## Summary
+
+This four-page Swatantra Party Central Office record brings together draft minutes of the Central Organising Committee meeting held in Bombay on 15 March 1962 and minutes of a meeting of state-party presidents and secretaries held on 7 April 1962. The document records the party’s immediate post-election organisation, including the proposed creation of a Parliamentary Board, a Swatantra Research Bureau, and a convention for party candidates to the Lok Sabha and state assemblies.
+
+The minutes focus on consolidating the party’s electoral machinery and state units. They address enrolment deadlines, constituency and committee elections, the collection of information about alleged electoral irregularities, opposition to Congress propaganda, party finances, labour participation, and the possibility of action concerning the free movement of foodgrains in Orissa. The April meeting also discusses a proposed state-level candidates’ convention and reports that the party’s position on contesting village-panchayat and other local-body elections would remain unchanged pending consideration by the Parliamentary Board.
+
 ## Key points
 
 - The document records Swatantra Party organisational meetings held on 15 March and 7 April 1962.

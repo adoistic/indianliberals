@@ -74,6 +74,10 @@ summary: |-
   The Swatantra Party’s 1967 Election Manifesto presents the party as an alternative to nearly two decades of Congress rule, which it portrays as responsible for constitutional erosion, economic stagnation, inflation, debt, administrative corruption, national disunity, and failures in foreign policy. It rejects both expanded authoritarian government and socialism-backed statism, arguing instead for individual freedom, private enterprise, dispersed ownership, competition, and government limited to a framework of good administration. The manifesto also claims that Swatantra’s parliamentary resistance has already checked collectivist farming, arbitrary land confiscation, excessive taxation, monopolies, inflationary policies, and administrative misconduct.
 ---
 
+## Summary
+
+The Swatantra Party’s 1967 Election Manifesto presents the party as an alternative to nearly two decades of Congress rule, which it portrays as responsible for constitutional erosion, economic stagnation, inflation, debt, administrative corruption, national disunity, and failures in foreign policy. It rejects both expanded authoritarian government and socialism-backed statism, arguing instead for individual freedom, private enterprise, dispersed ownership, competition, and government limited to a framework of good administration. The manifesto also claims that Swatantra’s parliamentary resistance has already checked collectivist farming, arbitrary land confiscation, excessive taxation, monopolies, inflationary policies, and administrative misconduct.
+
 ## Key points
 
 - The manifesto attributes political, economic, moral, and foreign-policy disorder to uninterrupted Congress rule.

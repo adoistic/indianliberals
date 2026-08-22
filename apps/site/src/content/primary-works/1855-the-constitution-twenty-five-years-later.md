@@ -59,6 +59,12 @@ summary: |-
   In the rendered pages, Masani concentrates first on federalism and States’ rights, electoral reform, and the position of the President and Governors. In the rendered pages, he criticises the growth of central control over industry, planning, broadcasting, and financial resources, linking that centralisation to weakened State autonomy and democratic accountability. In the rendered pages, he advocates genuine consultation with the States, a more predictable allocation of resources, an independent and advisory Planning Commission, and Governors who function as heads of their States rather than as agents of the Union. The discussion then turns to presidential discretion, cabinet responsibility, constitutional conventions, and examples involving President Rajendra Prasad, Prime Minister Nehru, and the 1967 presidential election.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani uses the Constitution’s twenty-fifth anniversary to assess how India’s constitutional arrangements have operated since 1950. In the rendered pages, he stresses that constitutional success depends not only on institutional design but also on the political conventions, administrative conduct, and personal integrity of those who operate the system. He rejects the view that the Constitution has become fundamentally obsolete and argues instead for restoring its original balance through better conventions and more faithful practice.
+
+In the rendered pages, Masani concentrates first on federalism and States’ rights, electoral reform, and the position of the President and Governors. In the rendered pages, he criticises the growth of central control over industry, planning, broadcasting, and financial resources, linking that centralisation to weakened State autonomy and democratic accountability. In the rendered pages, he advocates genuine consultation with the States, a more predictable allocation of resources, an independent and advisory Planning Commission, and Governors who function as heads of their States rather than as agents of the Union. The discussion then turns to presidential discretion, cabinet responsibility, constitutional conventions, and examples involving President Rajendra Prasad, Prime Minister Nehru, and the 1967 presidential election.
+
 ## Key points
 
 - Masani presents the twenty-fifth anniversary as an opportunity to compare the Constitution’s founding intentions with its operation since 1950.

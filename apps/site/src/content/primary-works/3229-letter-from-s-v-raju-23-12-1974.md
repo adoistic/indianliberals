@@ -46,6 +46,12 @@ summary: |-
   The letter conveys disappointment and distress rather than presenting substantive details about the trust. A handwritten notation at the foot of the page appears to identify a Bombay recipient, but the recipient's full name is not clearly legible.
 ---
 
+## Summary
+
+This single-page letter from S. V. Raju, dated December 23, 1974, is addressed to “Girlish.” Raju apologises that a Saturday meeting has produced no further progress on “the matter of the trust” and reports that he, KH, and Sampat continued discussions on Sunday.
+
+The letter conveys disappointment and distress rather than presenting substantive details about the trust. A handwritten notation at the foot of the page appears to identify a Bombay recipient, but the recipient's full name is not clearly legible.
+
 ## Key points
 
 - The document is a personal letter dated December 23, 1974.

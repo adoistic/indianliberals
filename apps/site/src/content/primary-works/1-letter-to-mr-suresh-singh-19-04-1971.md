@@ -48,6 +48,12 @@ summary: |-
   Masani also accepts, in principle, an invitation to visit Suresh Singh's hospital the next time he is in that part of the country, and closes by asking Suresh Singh to forward Svetlana's new address in the United States so that he can reply to a letter of hers that has gone unanswered. The letter is dictated ("mrm/rb.") and signed by Masani; there is no substantive policy content beyond the passing reference to his stepping down from the party presidency.
 ---
 
+## Summary
+
+A brief private letter dated 19 April 1971 from M. R. Masani to Mr Suresh Singh of Kala Kankar in Uttar Pradesh. Masani thanks the recipient for his letter of April 7 and for his expression of sympathy and solidarity, referring to Masani's recent resignation from the presidency of his party — the Swatantra Party, which he had stepped down from following the 1971 general election setback. He assures Suresh Singh that despite this exit from the party's top office, he has "a lot of work ahead" of him.
+
+Masani also accepts, in principle, an invitation to visit Suresh Singh's hospital the next time he is in that part of the country, and closes by asking Suresh Singh to forward Svetlana's new address in the United States so that he can reply to a letter of hers that has gone unanswered. The letter is dictated ("mrm/rb.") and signed by Masani; there is no substantive policy content beyond the passing reference to his stepping down from the party presidency.
+
 ## Key points
 
 - Personal letter from M. R. Masani to Mr Suresh Singh, Kala Kankar, U.P., dated 19 April 1971.

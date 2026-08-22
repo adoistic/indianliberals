@@ -45,6 +45,10 @@ summary: |-
   This confidential letter from Minoo Masani to Jayaprakash Narayan, dated June 19, 1974, concerns the secure hand delivery of a packet and the need to avoid identifying the friends who helped deliver it. Masani explains that the Telegraph Office's poor efficiency has made life difficult, but says the letter should reach Narayan safely by hand on June 20. He asks Narayan to acknowledge receipt and emphasizes that only the two of them should know the helpers' names.
 ---
 
+## Summary
+
+This confidential letter from Minoo Masani to Jayaprakash Narayan, dated June 19, 1974, concerns the secure hand delivery of a packet and the need to avoid identifying the friends who helped deliver it. Masani explains that the Telegraph Office's poor efficiency has made life difficult, but says the letter should reach Narayan safely by hand on June 20. He asks Narayan to acknowledge receipt and emphasizes that only the two of them should know the helpers' names.
+
 ## Key points
 
 - Masani asks Jayaprakash Narayan to acknowledge receipt of a hand-delivered packet and its contents.

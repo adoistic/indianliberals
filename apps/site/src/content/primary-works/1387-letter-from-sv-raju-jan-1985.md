@@ -51,6 +51,10 @@ summary: |-
   In this January 1985 letter to “Sivaji,” S. V. Raju discusses the electoral victories of N. T. Rama Rao’s Telugu Desam movement in Srikakulam and Rajampet, reading them as evidence of NTR’s popularity in Andhra and as an encouraging check against India’s movement toward dictatorship. He reports Minoo Masani’s advocacy of a Federal Party and a proposed national opposition involving NTR, Ramakrishna Hegde, Farooq Abdullah, and Karunanidhi, while expressing concern that NTR announced the Bharat Desam party without first securing wider support from leaders in Tamil Nadu and Karnataka.
 ---
 
+## Summary
+
+In this January 1985 letter to “Sivaji,” S. V. Raju discusses the electoral victories of N. T. Rama Rao’s Telugu Desam movement in Srikakulam and Rajampet, reading them as evidence of NTR’s popularity in Andhra and as an encouraging check against India’s movement toward dictatorship. He reports Minoo Masani’s advocacy of a Federal Party and a proposed national opposition involving NTR, Ramakrishna Hegde, Farooq Abdullah, and Karunanidhi, while expressing concern that NTR announced the Bharat Desam party without first securing wider support from leaders in Tamil Nadu and Karnataka.
+
 ## Key points
 
 - Raju interprets the victories at Srikakulam and Rajampet as confirmation of N. T. Rama Rao’s popularity in Andhra.

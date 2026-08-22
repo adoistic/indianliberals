@@ -50,6 +50,10 @@ summary: |-
   This two-page letter, dated 20 May 1972, is signed by S. V. Chari, Secretary of the Thousand Lights Constituency and a committee member of the Madras District Swatantra Party. Addressed to Minoo Masani ahead of the Swatantra Party’s General Council meeting in Madras, it asks Masani to respond to criticisms of the party published in the Tamil journal Chanakyan.
 ---
 
+## Summary
+
+This two-page letter, dated 20 May 1972, is signed by S. V. Chari, Secretary of the Thousand Lights Constituency and a committee member of the Madras District Swatantra Party. Addressed to Minoo Masani ahead of the Swatantra Party’s General Council meeting in Madras, it asks Masani to respond to criticisms of the party published in the Tamil journal Chanakyan.
+
 ## Key points
 
 - S. V. Chari reports that C. Rajagopalachari (Rajaji) asked him to bring Dr. V. Hande’s writings to Minoo Masani’s attention.

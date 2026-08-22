@@ -52,6 +52,10 @@ summary: |-
   In this letter dated 8 March 1969, C. Rajagopalachari writes to M. R. Masani after seeing that Masani had congratulated Dharma Vira. Rajagopalachari asks Masani to read an enclosed text he had written the previous day and sent to the press for Swarajya. The enclosure, headed “MAIL READER,” addresses the constitutional controversy surrounding the Governor of West Bengal’s address to the state legislature after the Communist-led ministry came to power.
 ---
 
+## Summary
+
+In this letter dated 8 March 1969, C. Rajagopalachari writes to M. R. Masani after seeing that Masani had congratulated Dharma Vira. Rajagopalachari asks Masani to read an enclosed text he had written the previous day and sent to the press for Swarajya. The enclosure, headed “MAIL READER,” addresses the constitutional controversy surrounding the Governor of West Bengal’s address to the state legislature after the Communist-led ministry came to power.
+
 ## Key points
 
 - Rajagopalachari’s covering letter acknowledges Masani’s public congratulation of Dharma Vira and encloses a press article.

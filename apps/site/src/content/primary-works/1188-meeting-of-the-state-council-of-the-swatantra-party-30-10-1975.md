@@ -50,6 +50,12 @@ summary: |-
   The four-item agenda covers confirmation of the minutes of the previous meeting, matters relating to party organisation, discussion of "the current situation," and any other matter with the permission of the Chair. The document is signed on behalf of the Office Secretary. Its interest is largely archival: it records that the Maharashtra state unit of the Swatantra Party was still convening formal council meetings in late October 1975 — several months into the Emergency declared in June 1975, and after the national party's dissolution in 1974 — and continued to operate out of its Bombay Regional address.
 ---
 
+## Summary
+
+A one-page circular issued on 30 October 1975 from the Bombay Regional office of the Swatantra Party, Maharashtra, at Sassoon Building, 143 Mahatma Gandhi Road, Bombay-1. It summons members to a meeting of the State Council at the party office on Monday, 10 November 1975 at 5:00 p.m.
+
+The four-item agenda covers confirmation of the minutes of the previous meeting, matters relating to party organisation, discussion of "the current situation," and any other matter with the permission of the Chair. The document is signed on behalf of the Office Secretary. Its interest is largely archival: it records that the Maharashtra state unit of the Swatantra Party was still convening formal council meetings in late October 1975 — several months into the Emergency declared in June 1975, and after the national party's dissolution in 1974 — and continued to operate out of its Bombay Regional address.
+
 ## Key points
 
 - Circular from the Bombay Regional office of the Swatantra Party, Maharashtra, dated 30 October 1975.

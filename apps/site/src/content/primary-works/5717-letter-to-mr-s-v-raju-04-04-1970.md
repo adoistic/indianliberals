@@ -49,6 +49,12 @@ summary: |-
   Masani proposes that the resolution should instead refer to persistent acts of indiscipline and anti-party activity, illustrated by the issues discussed in Bombay. He also coordinates the dispatch of invitations to the State Parliamentary Board and the three-column statement to MLAs, including checking whether the MLAs will be in Ahmedabad between 8 and 12 April. The document is a brief piece of internal party correspondence focused on organisational discipline, decision-making, and political communication.
 ---
 
+## Summary
+
+In this letter dated 4 April 1970, Minoo Masani replies to S. V. Raju about the circulation of a three-column statement and its accompanying covering letter to members of the National Executive. He reports that H. M. Patel will meet him to decide whether the statement should be made the basis of a party decision, while noting his disagreement with N. Dandekar’s proposed one-sentence resolution.
+
+Masani proposes that the resolution should instead refer to persistent acts of indiscipline and anti-party activity, illustrated by the issues discussed in Bombay. He also coordinates the dispatch of invitations to the State Parliamentary Board and the three-column statement to MLAs, including checking whether the MLAs will be in Ahmedabad between 8 and 12 April. The document is a brief piece of internal party correspondence focused on organisational discipline, decision-making, and political communication.
+
 ## Key points
 
 - The letter is dated 4 April 1970 and is addressed to S. V. Raju in Bombay.

@@ -58,3 +58,7 @@ ai:
 summary: |-
   In the rendered pages, this 1969 proceedings volume records the Sixth International Colloquium on Democracy and Development, held at Coonoor, India, in October 1968 and edited by S. V. Raju. In the rendered pages, the colloquium brings together 35 liberals from 14 countries to examine development without assuming that its problems have simple or universal solutions. In the rendered pages, its stated agenda spans economic, social, educational, political, and security questions, with particular emphasis on the relationship between democratic institutions, economic freedom, and development.
 ---
+
+## Summary
+
+In the rendered pages, this 1969 proceedings volume records the Sixth International Colloquium on Democracy and Development, held at Coonoor, India, in October 1968 and edited by S. V. Raju. In the rendered pages, the colloquium brings together 35 liberals from 14 countries to examine development without assuming that its problems have simple or universal solutions. In the rendered pages, its stated agenda spans economic, social, educational, political, and security questions, with particular emphasis on the relationship between democratic institutions, economic freedom, and development.

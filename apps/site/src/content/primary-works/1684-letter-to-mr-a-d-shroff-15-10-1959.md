@@ -52,6 +52,12 @@ summary: |-
   Siqueira then reflects on his own changing assessment of political opponents, attributing his earlier judgment of their superiority to his own mental make-up rather than to their actual qualities. He criticizes Shroff's speech for its ill-humour toward the Congress and for sarcastic references to Congress leaders, urging him instead to emphasize the Swatantra Party's mission, the patience and generosity of its members, and the conviction that practical action can attract new supporters. The letter closes by arguing that political replacement is a natural process and that the Swatantra Party should build itself on truth, prowess, and integrity, since what benefits the nation benefits any party.
 ---
 
+## Summary
+
+In this three-page letter dated 15 October 1959, A. P. Siqueira writes to A. D. Shroff after hearing Shroff's speech at a Swatantra Party meeting. Siqueira praises Shroff's effort to educate the public about what is wrong with government administration and to prepare the ground for asserting citizens' rights. He argues that knowledge should lead to action, but warns that inadequate knowledge of the problems to be remedied produces helpless frustration and the belief that government is all-powerful.
+
+Siqueira then reflects on his own changing assessment of political opponents, attributing his earlier judgment of their superiority to his own mental make-up rather than to their actual qualities. He criticizes Shroff's speech for its ill-humour toward the Congress and for sarcastic references to Congress leaders, urging him instead to emphasize the Swatantra Party's mission, the patience and generosity of its members, and the conviction that practical action can attract new supporters. The letter closes by arguing that political replacement is a natural process and that the Swatantra Party should build itself on truth, prowess, and integrity, since what benefits the nation benefits any party.
+
 ## Key points
 
 - Siqueira praises Shroff's public education about defects in government administration.

@@ -49,6 +49,12 @@ summary: |-
   Masani proposes that he, Mody, and Mehta meet Dr. (Mrs.) D'Costa in Goa on November 11. He describes D'Costa as an important participant in negotiations between the Swatantra Party and pro-integration “Friends” in Goa, and suggests that a visit by one or two Central Office representatives would be the most appropriate and fruitful next step.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani to Piloo Mody, dated November 1, 1963, concerns ongoing discussions about Goa. Masani acknowledges receiving copies of correspondence and replies from C. Rajagopalachari (“Rajaji”), and reports a useful discussion with Murarji Vaidya and Madhu Mehta.
+
+Masani proposes that he, Mody, and Mehta meet Dr. (Mrs.) D'Costa in Goa on November 11. He describes D'Costa as an important participant in negotiations between the Swatantra Party and pro-integration “Friends” in Goa, and suggests that a visit by one or two Central Office representatives would be the most appropriate and fruitful next step.
+
 ## Key points
 
 - Masani writes to Piloo Mody from the Swatantra Party Central Office in Bombay.

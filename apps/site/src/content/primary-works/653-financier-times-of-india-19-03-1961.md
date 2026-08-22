@@ -49,6 +49,12 @@ summary: |-
   The profile focuses on the obstacles facing American investment in India. Perkins attributes American industry's reluctance partly to India's tax structure, which he considers unusually burdensome compared with the countries in which his bank operates. He also argues that American industry needs to adjust its outlook toward India and become more constructive in its approach. The clipping contains no printed byline; its source and date, “Times of India 19.3.1961,” appear in a handwritten annotation.
 ---
 
+## Summary
+
+This one-page newspaper profile introduces Richard S. Perkins, Chairman of the Executive Committee of the First National City Bank of New York, during a visit to India. Perkins says he is satisfied with his banking career and describes his bank's emphasis on lending to individuals, citing its long record and low average losses.
+
+The profile focuses on the obstacles facing American investment in India. Perkins attributes American industry's reluctance partly to India's tax structure, which he considers unusually burdensome compared with the countries in which his bank operates. He also argues that American industry needs to adjust its outlook toward India and become more constructive in its approach. The clipping contains no printed byline; its source and date, “Times of India 19.3.1961,” appear in a handwritten annotation.
+
 ## Key points
 
 - The article profiles Richard S. Perkins, a senior executive of the First National City Bank of New York.

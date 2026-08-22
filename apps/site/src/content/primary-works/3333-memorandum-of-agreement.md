@@ -53,6 +53,12 @@ summary: |-
   The draft sets out the financial and legal mechanics of the transfer. The fifteen jeeps are to be delivered by 18 January 1962, with payment of Rs. 150,000 in seven instalments of Rs. 20,000 and one instalment of Rs. 10,000 beginning on 25 January. It also provides for candidates to acknowledge that the jeeps are held in trust and to arrange their transfer, establishes an alternative payment of Rs. 170,000 plus outstanding interest and charges, and addresses title documents, delivery in proper running order, default, and the parties’ obligation to complete the transaction without hindrance.
 ---
 
+## Summary
+
+This undated-day 1962 draft memorandum records an agreement between the Rajah of Ramgarh and the Swatantra Party, represented by its Treasurer Sir Homi Mody, superseding an earlier arrangement involving M. R. Masani. The agreement concerns thirty-three jeeps purchased from the Central Bank of India Limited, of which fifteen are to be transferred to the Swatantra Party or its nominees for use by parliamentary candidates during the ensuing elections.
+
+The draft sets out the financial and legal mechanics of the transfer. The fifteen jeeps are to be delivered by 18 January 1962, with payment of Rs. 150,000 in seven instalments of Rs. 20,000 and one instalment of Rs. 10,000 beginning on 25 January. It also provides for candidates to acknowledge that the jeeps are held in trust and to arrange their transfer, establishes an alternative payment of Rs. 170,000 plus outstanding interest and charges, and addresses title documents, delivery in proper running order, default, and the parties’ obligation to complete the transaction without hindrance.
+
 ## Key points
 
 - The document is headed “DRAFT” and is a memorandum of agreement dated only by reference to the year 1962; the day and month fields are blank.

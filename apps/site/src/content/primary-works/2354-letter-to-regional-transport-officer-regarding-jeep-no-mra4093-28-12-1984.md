@@ -49,6 +49,10 @@ summary: |-
   In this one-page letter dated December 28, 1984, M. R. Masani returns a bill from the Regional Transport Officer concerning jeep MRA-4093 for the year 1984. He states that the vehicle, along with other vehicles cited in his earlier correspondence, had not been in his possession during 1984 or earlier, and that he had no connection with the car. Masani explains that he had previously notified the RTO that the jeep had been sold by the Swatantra Party as far back as 1959. Despite repeated communications, he says the office continued sending bills and failed to acknowledge his notices. He asks the officer to desist from further harassment and warns that he will make no further communication if additional bills are sent in connection with these vehicles.
 ---
 
+## Summary
+
+In this one-page letter dated December 28, 1984, M. R. Masani returns a bill from the Regional Transport Officer concerning jeep MRA-4093 for the year 1984. He states that the vehicle, along with other vehicles cited in his earlier correspondence, had not been in his possession during 1984 or earlier, and that he had no connection with the car. Masani explains that he had previously notified the RTO that the jeep had been sold by the Swatantra Party as far back as 1959. Despite repeated communications, he says the office continued sending bills and failed to acknowledge his notices. He asks the officer to desist from further harassment and warns that he will make no further communication if additional bills are sent in connection with these vehicles.
+
 ## Key points
 
 - The letter concerns a 1984 bill for jeep MRA-4093. Masani says the vehicle was not in his possession during 1984 or earlier. He denies having anything to do with the car. He says the Swatantra Party sold the vehicle as far back as 1959. He reports having repeatedly notified the Regional Transport Office of these facts. He objects that the office continued sending bills without acknowledging his communications.

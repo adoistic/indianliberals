@@ -47,6 +47,10 @@ summary: |-
   This three-page correspondence from Colombo, dated March 1971, consists of A.E. Gunawardena’s letter of 18 March to Minoo Masani and Mrs. P.A. Vaswani’s acknowledgement of 25 March. Gunawardena apologises for the Swatantra Party’s electoral defeat but says that the entry of several capable and intelligent members into Parliament may still be significant. He criticises the party’s use of the slogan “oust Indira” as empty and insufficiently tied to a tangible programme, while Vaswani replies that the Swatantra Party had never officially adopted that slogan and was reconsidering its strategy after the setback.
 ---
 
+## Summary
+
+This three-page correspondence from Colombo, dated March 1971, consists of A.E. Gunawardena’s letter of 18 March to Minoo Masani and Mrs. P.A. Vaswani’s acknowledgement of 25 March. Gunawardena apologises for the Swatantra Party’s electoral defeat but says that the entry of several capable and intelligent members into Parliament may still be significant. He criticises the party’s use of the slogan “oust Indira” as empty and insufficiently tied to a tangible programme, while Vaswani replies that the Swatantra Party had never officially adopted that slogan and was reconsidering its strategy after the setback.
+
 ## Key points
 
 - Gunawardena comments on the Swatantra Party’s electoral defeat and the possible importance of its newly elected members.

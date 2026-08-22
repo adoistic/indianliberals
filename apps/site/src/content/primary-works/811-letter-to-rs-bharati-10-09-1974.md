@@ -46,6 +46,10 @@ summary: |-
   In this 10 September 1974 letter from Bombay, S. V. Raju writes to R. S. Bharati, an advocate and district-level Swatantra Party officer in Shahjahanpur, Uttar Pradesh. Raju acknowledges Bharati’s earlier letter and recalls their past meetings and correspondence from Raju’s time as Executive Secretary of the Swatantra Party. He explains that Minoo Masani is abroad and expected back by mid-October.
 ---
 
+## Summary
+
+In this 10 September 1974 letter from Bombay, S. V. Raju writes to R. S. Bharati, an advocate and district-level Swatantra Party officer in Shahjahanpur, Uttar Pradesh. Raju acknowledges Bharati’s earlier letter and recalls their past meetings and correspondence from Raju’s time as Executive Secretary of the Swatantra Party. He explains that Minoo Masani is abroad and expected back by mid-October.
+
 ## Key points
 
 - The letter is dated 10 September 1974 and is sent from Bombay.

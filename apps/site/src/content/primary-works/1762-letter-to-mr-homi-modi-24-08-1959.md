@@ -44,6 +44,10 @@ summary: |-
   This one-page handwritten English letter from S. Y. Krishnaswamy to Homi Modi is dated “Bangalore 26th August,” although no year is written on the page. Krishnaswamy asks Modi to arrange a document or communication concerning J. D. Krishnaswamy for “Rajaji” (C. Rajagopalachari), and to pay Rajaji Rs. 10 in cash.
 ---
 
+## Summary
+
+This one-page handwritten English letter from S. Y. Krishnaswamy to Homi Modi is dated “Bangalore 26th August,” although no year is written on the page. Krishnaswamy asks Modi to arrange a document or communication concerning J. D. Krishnaswamy for “Rajaji” (C. Rajagopalachari), and to pay Rajaji Rs. 10 in cash.
+
 ## Key points
 
 - The document is a personal letter written in English on S. Y. Krishnaswamy’s Madras letterhead.

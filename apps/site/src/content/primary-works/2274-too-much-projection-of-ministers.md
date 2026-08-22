@@ -52,6 +52,12 @@ summary: |-
   The paper treats this pattern as evidence of a VIP-oriented and publicity-driven news culture rather than a democratic public-service ethos. It cites Prime Minister Rajiv Gandhi’s objection to being excessively projected, while arguing that Doordarshan’s practices had changed little several months later. The concluding claim is that the medium functions as an extension of ministers’ and Congress (I) leaders’ publicity campaigns. The document is unattributed and contains no visible publication, issuer, or author information.
 ---
 
+## Summary
+
+“TOO MUCH PROJECTION OF MINISTERS” argues that Doordarshan’s news broadcasts give disproportionate prominence to the Prime Minister, ministers, and Congress (I) leaders. It accepts that personality will shape news, but objects when relatively insignificant ministerial appearances receive both reporting and film coverage. The paper presents a review of broadcasts on ten randomly selected days and lists numerous examples from April to August 1986, contrasting the attention given to official functions with omissions of other politically significant events.
+
+The paper treats this pattern as evidence of a VIP-oriented and publicity-driven news culture rather than a democratic public-service ethos. It cites Prime Minister Rajiv Gandhi’s objection to being excessively projected, while arguing that Doordarshan’s practices had changed little several months later. The concluding claim is that the medium functions as an extension of ministers’ and Congress (I) leaders’ publicity campaigns. The document is unattributed and contains no visible publication, issuer, or author information.
+
 ## Key points
 
 - The paper criticizes Doordarshan for excessive coverage of ministers and Congress (I) leaders.

@@ -50,6 +50,12 @@ summary: |-
   He then urges Masani to send their full views on the Kashmir resolution formally to the President of India, with a covering letter also addressed to the Prime Minister. He notes that the resolution has already been sent to A. D. Shroff and closes with a brief personal assurance that he is keeping well.
 ---
 
+## Summary
+
+This one-page handwritten letter, dated May 20, 1967, is from C. Rajagopalachari to Minoo Masani. Rajagopalachari comments that The Hindustan Times provides useful coverage of the history of the relevant proceedings and compensates for omissions in other newspapers, but says that it has left out important paragraphs from the main body of a resolution.
+
+He then urges Masani to send their full views on the Kashmir resolution formally to the President of India, with a covering letter also addressed to the Prime Minister. He notes that the resolution has already been sent to A. D. Shroff and closes with a brief personal assurance that he is keeping well.
+
 ## Key points
 
 - Rajagopalachari praises The Hindustan Times for supplying historical coverage and compensating for omissions in other newspapers.

@@ -50,6 +50,12 @@ summary: |-
   The letter turns to the Swatantra Party’s political position and internal strain. Rajagopalachari describes inherited anti-Muslim and anti-Sikh feelings as a problem, welcomes the support of Jayaprakash Narayan and an unnamed associate, and expresses concern about Morarji Desai’s wavering and tired leadership. He urges Masani to carry out their political duty “as an act of worship” while leaving the results to Providence. The letter closes by referring to Desai’s absence and to what Rajagopalachari calls the moral bankruptcy of the ruling party.
 ---
 
+## Summary
+
+In this handwritten letter dated 2 May 1964, C. Rajagopalachari writes to Minoo Masani about an unsettled travel schedule involving Delhi, Calcutta, and Madras, including a proposed meeting with A. D. Shroff and other associates. He also refers to the reception of Masani’s earlier letter and to efforts to maintain contact among their political colleagues during a period of difficulty.
+
+The letter turns to the Swatantra Party’s political position and internal strain. Rajagopalachari describes inherited anti-Muslim and anti-Sikh feelings as a problem, welcomes the support of Jayaprakash Narayan and an unnamed associate, and expresses concern about Morarji Desai’s wavering and tired leadership. He urges Masani to carry out their political duty “as an act of worship” while leaving the results to Providence. The letter closes by referring to Desai’s absence and to what Rajagopalachari calls the moral bankruptcy of the ruling party.
+
 ## Key points
 
 - Rajagopalachari reports on travel between Delhi, Calcutta, and Madras and plans to meet political associates.

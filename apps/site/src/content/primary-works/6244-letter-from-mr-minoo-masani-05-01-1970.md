@@ -46,6 +46,12 @@ summary: |-
   The letter closes with New Year greetings and a conventional sign-off. No political, economic, or other substantive argument appears on the page.
 ---
 
+## Summary
+
+This single-page personal letter from M. R. Masani to Surosh Keswani is dated January 5, 1970. Masani acknowledges Keswani’s January 3 letter and his offer of assistance, saying that he will bear it in mind and contact Keswani after returning from a visit abroad on January 23.
+
+The letter closes with New Year greetings and a conventional sign-off. No political, economic, or other substantive argument appears on the page.
+
 ## Key points
 
 - The letter is dated January 5, 1970.

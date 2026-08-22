@@ -49,6 +49,12 @@ summary: |-
   The second rendered page preserves a separate typed request dated February 16, 1970, addressed to S. V. Raju and signed by M. R. Masani, concerning the same book. It contains extensive handwritten annotations, including a note apparently indicating that the book was unavailable or difficult to obtain. The document is therefore primarily an administrative record of efforts by Indian liberals to access contemporary material on privacy and law, rather than a substantive argument about those subjects.
 ---
 
+## Summary
+
+This two-page English correspondence records S. V. Raju’s request, in a letter dated April 22, 1970, to the Librarian of the British Deputy High Commission in Bombay for a copy of Privacy and the Law. The requested item is identified as a 1968 report of the Committee of Justice, British Branch of the International Commission of Jurists, published by Stevens. Raju explains that enquiries with prominent Bombay booksellers had been unsuccessful and asks for the High Commission’s assistance in obtaining the book.
+
+The second rendered page preserves a separate typed request dated February 16, 1970, addressed to S. V. Raju and signed by M. R. Masani, concerning the same book. It contains extensive handwritten annotations, including a note apparently indicating that the book was unavailable or difficult to obtain. The document is therefore primarily an administrative record of efforts by Indian liberals to access contemporary material on privacy and law, rather than a substantive argument about those subjects.
+
 ## Key points
 
 - S. V. Raju’s letter is dated April 22, 1970, and addressed to the Librarian of the British Deputy High Commission in Bombay.

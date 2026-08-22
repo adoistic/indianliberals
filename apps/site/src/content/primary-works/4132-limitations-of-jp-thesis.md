@@ -52,6 +52,12 @@ summary: |-
   The clipping also presents Singh’s defence of parliamentary government, citing Mr. Nihal Singh’s view that, despite its defects, the parliamentary system has proved best suited to the interests of the masses. It concludes with Dr. A. K. Ghoshal’s remarks that democracy must be understood as more than an external institutional arrangement and must be accompanied by a social and spiritual conception of socialism. The page is dated “JAIPUR, December 28,” but no year is visible; the text is attributed to “The Times of India” News Service rather than to a named individual author.
 ---
 
+## Summary
+
+This one-page English newspaper-service clipping reports an inaugural address at the Indian Political Science Conference in Jaipur by Governor Gurmukh Nihal Singh. Under the headline “LIMITATIONS OF ‘J.P.’S THESIS,” it focuses on Singh’s criticism of Jayaprakash Narayan’s communitarian model of government. Singh argues that the model is too idealistic for contemporary conditions, lacks a practical mechanism for resolving disagreement, and would restrict representative participation in national activity.
+
+The clipping also presents Singh’s defence of parliamentary government, citing Mr. Nihal Singh’s view that, despite its defects, the parliamentary system has proved best suited to the interests of the masses. It concludes with Dr. A. K. Ghoshal’s remarks that democracy must be understood as more than an external institutional arrangement and must be accompanied by a social and spiritual conception of socialism. The page is dated “JAIPUR, December 28,” but no year is visible; the text is attributed to “The Times of India” News Service rather than to a named individual author.
+
 ## Key points
 
 - The clipping reports an inaugural address by Governor Gurmukh Nihal Singh at the Indian Political Science Conference in Jaipur.

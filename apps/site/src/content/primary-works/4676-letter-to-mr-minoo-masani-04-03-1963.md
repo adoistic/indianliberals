@@ -47,6 +47,12 @@ summary: |-
   The second rendered page is the addressed envelope, which confirms Masani as the recipient. No political, institutional, or broader argumentative subject is developed in the visible letter; the document is primarily logistical and cordial.
 ---
 
+## Summary
+
+This two-page item is a brief handwritten personal letter from C. Rajagopalachari to M. R. Masani, apparently dated March 4, 1963. Rajagopalachari reports that a telegram concerning Belgaum has been dispatched and expresses relief that Masani was able to secure a berth on an earlier plane.
+
+The second rendered page is the addressed envelope, which confirms Masani as the recipient. No political, institutional, or broader argumentative subject is developed in the visible letter; the document is primarily logistical and cordial.
+
 ## Key points
 
 - The letter is addressed to M. R. Masani.

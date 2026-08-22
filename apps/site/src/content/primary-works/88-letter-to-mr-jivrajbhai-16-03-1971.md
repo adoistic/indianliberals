@@ -46,6 +46,12 @@ summary: |-
   The letter is a brief expression of thanks, with Masani stating that he is joining Yuvraj Saheb in conveying their gratitude. It is signed “( M. R. MASANI )” and addressed to Mr. Jashjivambhai Jivrajbhai at Deodar Oil Mills, Jasdan.
 ---
 
+## Summary
+
+This one-page English letter, dated 16 March 1971, is from M. R. Masani to Mr. Jivrajbhai Jivrajbhai. Masani thanks the recipient for placing a jeep at the disposal of Yuvraj Shivrajkumar from 25 February to 2 March and for providing assistance and cooperation during that period.
+
+The letter is a brief expression of thanks, with Masani stating that he is joining Yuvraj Saheb in conveying their gratitude. It is signed “( M. R. MASANI )” and addressed to Mr. Jashjivambhai Jivrajbhai at Deodar Oil Mills, Jasdan.
+
 ## Key points
 
 - The letter is dated 16 March 1971.

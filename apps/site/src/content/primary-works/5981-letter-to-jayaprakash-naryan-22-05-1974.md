@@ -44,6 +44,10 @@ summary: |-
   This one-page English express telegram, sent by Minoo Masani from Bombay on May 22, 1974, is addressed to Jayaprakash Narayan at Christian Medical College Hospital in Vellore, South India. Masani confirms that he plans to reach Madras at 6:20 p.m. on May 27 and then visit Narayan the following morning.
 ---
 
+## Summary
+
+This one-page English express telegram, sent by Minoo Masani from Bombay on May 22, 1974, is addressed to Jayaprakash Narayan at Christian Medical College Hospital in Vellore, South India. Masani confirms that he plans to reach Madras at 6:20 p.m. on May 27 and then visit Narayan the following morning.
+
 ## Key points
 
 - The document is an express telegram and confirmation copy.

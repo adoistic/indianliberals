@@ -51,6 +51,12 @@ summary: |-
   The notes identify two central issues: human rights and national independence. The first invokes an International Commission of Jurists’ report, allegations of genocide against a religious group, and refugee reports. The second asserts that Tibet is not part of China and rejects what the notes call the “logic of imperialism.” They criticise India’s justification for its 1950 policy as based on Tibet’s alleged social backwardness and fear of provoking China over the border, while expressing hope that a United Nations resolution would address both human rights and independence and receive India’s support. The surviving pages do not identify the speaker beyond the initials “MRM.”
 ---
 
+## Summary
+
+These two pages are typed lecture notes for a speech by “Mr. MRM” on Tibet, delivered at the Indian Merchants Chamber on 27 September 1960. The notes begin with thanks for the support of Malaya and Thailand, recognition of a Tibetan delegation and representatives from the Afro-Asian Council, and concern about India’s vote or abstention. They then frame the United Nations as the expression of world conscience and argue that silence over Tibet would be indefensible, invoking Hungary, the Polish partition, and perceived double standards concerning South Africa and Algeria.
+
+The notes identify two central issues: human rights and national independence. The first invokes an International Commission of Jurists’ report, allegations of genocide against a religious group, and refugee reports. The second asserts that Tibet is not part of China and rejects what the notes call the “logic of imperialism.” They criticise India’s justification for its 1950 policy as based on Tibet’s alleged social backwardness and fear of provoking China over the border, while expressing hope that a United Nations resolution would address both human rights and independence and receive India’s support. The surviving pages do not identify the speaker beyond the initials “MRM.”
+
 ## Key points
 
 - The speech notes address India’s position on Tibet at the United Nations.

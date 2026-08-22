@@ -53,6 +53,12 @@ summary: |-
   The final pages record Professor Ranga’s explanation, on behalf of the Swatantra Party, of the party’s position on an anti-corruption initiative associated with the Home Minister. The statement accepts that citizen vigilance can help combat corruption but identifies shortages and administrative control over scarce resources through permits, licences, and quotas as its main causes. It argues that discrimination exercised by officials is a central source of corruption, while maintaining that vigilance should remain a voluntary, non-party activity. The packet contains duplicate typescript or carbon-copy pages and handwritten editorial alterations; no printed title, author, date, publisher, or formal sequence is visible.
 ---
 
+## Summary
+
+This nine-page, untitled English-language office-paper compilation presents short “Token Cut” notices criticising government performance. The visible notices from the Ministry of Education focus on the poor quality, high prices, inadequate supplies, and faulty distribution of government-published textbooks, as well as the widespread circulation of counterfeit and spurious textbooks. A further notice from the Ministry of Information & Broadcasting criticises the failure to develop television for the education and entertainment of the Indian people.
+
+The final pages record Professor Ranga’s explanation, on behalf of the Swatantra Party, of the party’s position on an anti-corruption initiative associated with the Home Minister. The statement accepts that citizen vigilance can help combat corruption but identifies shortages and administrative control over scarce resources through permits, licences, and quotas as its main causes. It argues that discrimination exercised by officials is a central source of corruption, while maintaining that vigilance should remain a voluntary, non-party activity. The packet contains duplicate typescript or carbon-copy pages and handwritten editorial alterations; no printed title, author, date, publisher, or formal sequence is visible.
+
 ## Key points
 
 - Ministry of Education notices criticise the quality, prices, supply, and distribution of government-published textbooks.

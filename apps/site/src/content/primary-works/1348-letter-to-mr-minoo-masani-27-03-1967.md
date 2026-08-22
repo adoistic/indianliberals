@@ -45,6 +45,10 @@ summary: |-
   This one-page official letter from the Lok Sabha Secretariat, dated March 27, 1967, is addressed to Shri M. R. Masani, M.P. It concerns the constitution of the Lok Sabha’s parliamentary committees for the 1967–68 session. Shri M. C. Chawla, identified as Deputy Secretary, requests a reply to an earlier Secretariat letter by March 28, 1967.
 ---
 
+## Summary
+
+This one-page official letter from the Lok Sabha Secretariat, dated March 27, 1967, is addressed to Shri M. R. Masani, M.P. It concerns the constitution of the Lok Sabha’s parliamentary committees for the 1967–68 session. Shri M. C. Chawla, identified as Deputy Secretary, requests a reply to an earlier Secretariat letter by March 28, 1967.
+
 ## Key points
 
 - The document is official correspondence issued on Lok Sabha Secretariat letterhead.

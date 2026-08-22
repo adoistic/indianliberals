@@ -46,6 +46,10 @@ summary: |-
   This untitled handwritten letter, dated Bhubaneswar, 1 April 1985, is addressed to S. V. Raju in Bombay. The writer acknowledges Raju's letter of 19 March 1985 and conveys good wishes on its receipt. The principal news is that Sri Chaitram Mishra has been elected to the Orissa Legislative Assembly on a Janata Party ticket.
 ---
 
+## Summary
+
+This untitled handwritten letter, dated Bhubaneswar, 1 April 1985, is addressed to S. V. Raju in Bombay. The writer acknowledges Raju's letter of 19 March 1985 and conveys good wishes on its receipt. The principal news is that Sri Chaitram Mishra has been elected to the Orissa Legislative Assembly on a Janata Party ticket.
+
 ## Key points
 
 - The letter is dated Bhubaneswar, 1 April 1985.

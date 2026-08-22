@@ -51,6 +51,12 @@ summary: |-
   The letter’s central political concern is the organisational deterioration of the Swatantra Party under Rajabahadur. Singh says Rajabahadur has failed to attend the Assembly regularly, has not built the party on democratic lines, and is attempting to preserve it merely on paper until the next elections. He asks Munshi, Minoo Masani, and other senior leaders to visit Bihar, coordinate party activity, and determine whether the party should continue until the elections or adopt another public platform. The final page turns to a practical dispute over a Pick-Up Van held by Rajabahadur and seeks Munshi’s intervention so that Singh can return the vehicle and deposit the associated tax money with the treasury.
 ---
 
+## Summary
+
+This three-page letter, dated 20 March 1963 and sent from Patna by Janki Nandan Singh to K. M. Munshi, reports on opposition-party activity in Bihar. Singh describes his involvement in the District Himalaya Bachao Conference at Latherisarai, attended by more than one lakh people and supported by the Swatantra, Jan Sangh, P.S.P., and Socialist parties. He also reports on a sub-divisional Himalaya Bachao Samiti conference inaugurated by Dr. Ram Manohar Lohia, and raises concerns about the weak functioning of the opposition in the Bihar Legislative Assembly.
+
+The letter’s central political concern is the organisational deterioration of the Swatantra Party under Rajabahadur. Singh says Rajabahadur has failed to attend the Assembly regularly, has not built the party on democratic lines, and is attempting to preserve it merely on paper until the next elections. He asks Munshi, Minoo Masani, and other senior leaders to visit Bihar, coordinate party activity, and determine whether the party should continue until the elections or adopt another public platform. The final page turns to a practical dispute over a Pick-Up Van held by Rajabahadur and seeks Munshi’s intervention so that Singh can return the vehicle and deposit the associated tax money with the treasury.
+
 ## Key points
 
 - Singh reports on opposition-party participation in the District Himalaya Bachao Conference held at Latherisarai on 24 February 1963.

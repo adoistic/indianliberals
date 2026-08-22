@@ -48,6 +48,10 @@ summary: |-
   In this letter dated April 16, 1974, Minoo Masani writes affectionately to Jayaprakash Narayan about Narayan’s forthcoming medical treatment at Vellore Hospital. Masani expresses disappointment that Narayan will not be in Bombay, asks for the operation date, and hopes to visit him in Vellore. He reassures Narayan that he will arrange his own visit with the help of friends in Madras.
 ---
 
+## Summary
+
+In this letter dated April 16, 1974, Minoo Masani writes affectionately to Jayaprakash Narayan about Narayan’s forthcoming medical treatment at Vellore Hospital. Masani expresses disappointment that Narayan will not be in Bombay, asks for the operation date, and hopes to visit him in Vellore. He reassures Narayan that he will arrange his own visit with the help of friends in Madras.
+
 ## Key points
 
 - Masani thanks Jayaprakash Narayan for his April 5 letter.

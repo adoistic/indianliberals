@@ -50,6 +50,12 @@ summary: |-
   The committee discussed candidate selection in several Bombay constituencies. Madhu Mehta, Parmanand Kejriwal, and Shantilal L. Thar were authorised to pursue the selection of a candidate for Matunga. The Board interviewed Desmond D'Souza, proposed by the Mahim Unit, and Pinto of Bandra, while advising Pinto to consult his unit and submit an official nomination. It also scheduled a 17 January meeting concerning competing Santa Cruz nominations for V. H. Sequeira and Shashikant Gavaskar. The meeting ended with a vote of thanks to the chair.
 ---
 
+## Summary
+
+These two pages record the minutes of a meeting of the Swatantra Party’s Bombay Region Executive Committee, held at the party office on 12 January 1972 under the chairmanship of Madhu Mehta. Ten members are listed as present. Because a Parliamentary Board meeting had already been convened, the proceedings were confined to issues concerning the forthcoming Assembly elections; confirmation of the minutes of the 24 November 1971 meeting was deferred.
+
+The committee discussed candidate selection in several Bombay constituencies. Madhu Mehta, Parmanand Kejriwal, and Shantilal L. Thar were authorised to pursue the selection of a candidate for Matunga. The Board interviewed Desmond D'Souza, proposed by the Mahim Unit, and Pinto of Bandra, while advising Pinto to consult his unit and submit an official nomination. It also scheduled a 17 January meeting concerning competing Santa Cruz nominations for V. H. Sequeira and Shashikant Gavaskar. The meeting ended with a vote of thanks to the chair.
+
 ## Key points
 
 - The meeting of the Swatantra Party, Bombay Region, took place on 12 January 1972.

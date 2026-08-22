@@ -48,6 +48,12 @@ summary: |-
   The one-page document is a brief political correspondence concerning post-election developments, party leadership, and Masani’s decision to step down. It is signed by Masani and gives his address in Vellore, Tamil Nadu.
 ---
 
+## Summary
+
+In this typed letter dated 21 April 1971, M. R. Masani acknowledges C. Rajagopalachari’s letter of 11 April and expresses pleasure that Rajagopalachari approved a statement Masani had made after the election results became available. Masani then refers to press reports describing how he persuaded his party colleagues to let him resign as party president the previous weekend.
+
+The one-page document is a brief political correspondence concerning post-election developments, party leadership, and Masani’s decision to step down. It is signed by Masani and gives his address in Vellore, Tamil Nadu.
+
 ## Key points
 
 - The letter is dated 21 April 1971 and is addressed to C. Rajagopalachari.

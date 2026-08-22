@@ -49,6 +49,12 @@ summary: |-
   Masani adds that such candidates should not number half or more of the Assembly seats in any parliamentary constituency; otherwise, the Party should also field a parliamentary candidate. He asks the State Parliamentary Board to recommend suitable Assembly candidates in the relevant constituencies and to accompany each recommendation with the data specified in the General Secretary’s earlier Letter No. 97 of March 23, 1965.
 ---
 
+## Summary
+
+In this one-page letter dated April 11, 1966, M. R. Masani informs the President/General Secretary that the Central Parliamentary Board has approved modest financial assistance of Rs 100 per month for prospective Assembly candidates. The assistance is intended for candidates approved by the Board who do not form part of a parliamentary constituency that the Swatantra Party proposes to contest.
+
+Masani adds that such candidates should not number half or more of the Assembly seats in any parliamentary constituency; otherwise, the Party should also field a parliamentary candidate. He asks the State Parliamentary Board to recommend suitable Assembly candidates in the relevant constituencies and to accompany each recommendation with the data specified in the General Secretary’s earlier Letter No. 97 of March 23, 1965.
+
 ## Key points
 
 - The letter is dated April 11, 1966 and is signed by M. R. Masani as General Secretary.

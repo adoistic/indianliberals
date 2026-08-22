@@ -47,6 +47,10 @@ summary: |-
   In this letter dated 29 May 1962, M. R. Masani asks Narendra Singh Mahida to correct what Masani describes as an unfortunate impression created by a Statesman article. The article attributes Mahida’s move away from Congress ideology to Congress’s refusal to give his army of Kshatrias an adequate share of tickets, and says that the Swatantra Party subsequently made him secretary of its parliamentary group.
 ---
 
+## Summary
+
+In this letter dated 29 May 1962, M. R. Masani asks Narendra Singh Mahida to correct what Masani describes as an unfortunate impression created by a Statesman article. The article attributes Mahida’s move away from Congress ideology to Congress’s refusal to give his army of Kshatrias an adequate share of tickets, and says that the Swatantra Party subsequently made him secretary of its parliamentary group.
+
 ## Key points
 
 - Masani writes to Narendra Singh Mahida on 29 May 1962.

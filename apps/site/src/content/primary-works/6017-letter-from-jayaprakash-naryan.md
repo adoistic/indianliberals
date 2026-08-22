@@ -48,6 +48,12 @@ summary: |-
   The page does not show a letter body, date, recipient, title, or printed author byline. A printed Devanagari block at the upper left appears to contain an associated name and address, but the scan is too indistinct to support a reliable full transcription.
 ---
 
+## Summary
+
+This single-page archival item is an address sheet or envelope leaf associated with Jayaprakash Narayan. The visible handwritten English text gives the address as “Village Jayaprakash Nagar,” “P.O. Sitabdiara,” “District Saran,” and “(Bihar).” A handwritten signature appears at the bottom, but it is not sufficiently legible to transcribe securely.
+
+The page does not show a letter body, date, recipient, title, or printed author byline. A printed Devanagari block at the upper left appears to contain an associated name and address, but the scan is too indistinct to support a reliable full transcription.
+
 ## Key points
 
 - The item consists of one scanned handwritten/address sheet or envelope leaf.

@@ -55,6 +55,12 @@ summary: |-
   The notes then turn to the United Nations, nuclear weapons, disarmament, and the conditions for international peace. Disarmament is described as unattainable without a world authority capable of protecting states and enforcing sanctions; the speaker proposes strengthening international inspection and reducing the great-power veto rather than relying on slogans. The discussion of decolonisation, Tibet, and the Congo combines support for national freedom with a case for stable international trusteeship and federal structures in newly independent societies. The concluding pages argue that the U.N. must be grounded in collective security and that “peace with freedom and justice,” rather than peace maintained through coercive domination, is the proper goal.
 ---
 
+## Summary
+
+These lecture notes for a speech at the U.N. Club on 10 December 1960 begin with Human Rights Day and the Universal Declaration of Human Rights, presented as a morally binding “Magna Carta for the world” despite its lack of legal sanctions. The notes stress that human rights are denied both under communist regimes and in formally free countries, where censorship, imprisonment without trial, and restrictions on the press remain possible. Liberty therefore requires constant vigilance.
+
+The notes then turn to the United Nations, nuclear weapons, disarmament, and the conditions for international peace. Disarmament is described as unattainable without a world authority capable of protecting states and enforcing sanctions; the speaker proposes strengthening international inspection and reducing the great-power veto rather than relying on slogans. The discussion of decolonisation, Tibet, and the Congo combines support for national freedom with a case for stable international trusteeship and federal structures in newly independent societies. The concluding pages argue that the U.N. must be grounded in collective security and that “peace with freedom and justice,” rather than peace maintained through coercive domination, is the proper goal.
+
 ## Key points
 
 - The Universal Declaration of Human Rights is treated as a morally binding global charter despite lacking direct legal sanctions.

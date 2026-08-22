@@ -51,6 +51,12 @@ summary: |-
   In the rendered pages, Gokhale proposes making physical health, games, discipline, and good conduct compulsory parts of school examinations, with a separate allocation of 200 marks at the Secondary School Certificate stage. He recommends Progress Books recording a pupil's academic achievements, conduct, physical health, sports, and extracurricular activities from age 10 to 21, both to encourage all-round development and to inform later educational and employment decisions. The annexures provide detailed marking schemes and sample forms, including provisions for health measurements, sports participation, leadership, conduct, and deductions for ill-health or indiscipline.
 ---
 
+## Summary
+
+In the rendered pages, B. K. Gokhale argues that post-independence India has expanded its educational infrastructure without adequately reforming the assumptions and methods inherited from the colonial system. He criticizes examinations that reward memory over intelligence, initiative, general knowledge, physical development, emotional maturity, leadership, and civic responsibility. Fear-based discipline, overcrowded curricula, excessive homework and private tuition, and the neglect of games and bodily development are presented as obstacles to producing independent and capable citizens.
+
+In the rendered pages, Gokhale proposes making physical health, games, discipline, and good conduct compulsory parts of school examinations, with a separate allocation of 200 marks at the Secondary School Certificate stage. He recommends Progress Books recording a pupil's academic achievements, conduct, physical health, sports, and extracurricular activities from age 10 to 21, both to encourage all-round development and to inform later educational and employment decisions. The annexures provide detailed marking schemes and sample forms, including provisions for health measurements, sports participation, leadership, conduct, and deductions for ill-health or indiscipline.
+
 ## Key points
 
 - The pamphlet attributes weaknesses in Indian education to an inherited colonial emphasis on clerical efficiency, obedience, and memorisation.

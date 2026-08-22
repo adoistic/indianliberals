@@ -45,6 +45,12 @@ summary: |-
   Masani expects the event to follow the successful pattern of an earlier Madras meeting and asks Rajagopalachari to arrange to reach Delhi by the evening of Tuesday, 13 August, a date previously identified as convenient. The document is a brief logistical communication rather than an exposition of political ideas.
 ---
 
+## Summary
+
+In this one-page letter dated 18 July 1963, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about an upcoming public meeting at Sapru House. Masani says he has been in touch with Paricha and reports that the meeting has been booked for Wednesday, 14 August, at 6 p.m.
+
+Masani expects the event to follow the successful pattern of an earlier Madras meeting and asks Rajagopalachari to arrange to reach Delhi by the evening of Tuesday, 13 August, a date previously identified as convenient. The document is a brief logistical communication rather than an exposition of political ideas.
+
 ## Key points
 
 - The letter is dated 18 July 1963 and is addressed to C. Rajagopalachari.

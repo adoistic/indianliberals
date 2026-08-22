@@ -52,6 +52,10 @@ summary: |-
   This one-page English office paper, dated February 15, 1968, is headed “For favour of publication” and reproduces a telegram sent to Dharam Vir, Governor of West Bengal. Signed by M. R. Masani, the document identifies Acharya J. B. Kripalani and six other Members of Parliament as co-signatories. The telegram expresses distress at the treatment of the Governor’s representative in the Bengal Assembly the previous day and praises his courage in defending democratic procedures.
 ---
 
+## Summary
+
+This one-page English office paper, dated February 15, 1968, is headed “For favour of publication” and reproduces a telegram sent to Dharam Vir, Governor of West Bengal. Signed by M. R. Masani, the document identifies Acharya J. B. Kripalani and six other Members of Parliament as co-signatories. The telegram expresses distress at the treatment of the Governor’s representative in the Bengal Assembly the previous day and praises his courage in defending democratic procedures.
+
 ## Key points
 
 - The document is a publication-oriented office note rather than a conventional standalone essay.

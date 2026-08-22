@@ -49,6 +49,12 @@ summary: |-
   The letter distinguishes between direct contributions and contributions received through advertisements in the 1961 Swatantra Souvenir. It records totals of Rs. 23,58,000-00 for direct contributions and Rs. 2,95,800-00 through advertisements, producing a combined total of Rs. 26,53,800-00. No donor names or accompanying lists are included on the rendered page.
 ---
 
+## Summary
+
+This strictly confidential letter, dated 10 February 1966 and signed by S. V. Raju, is addressed to C. Rai, Honorary Treasurer, Bombay-1. Raju reports that, at the request of General Secretary M. R. Masani, he is enclosing two copies of a list of donors to party funds during the 1962 elections.
+
+The letter distinguishes between direct contributions and contributions received through advertisements in the 1961 Swatantra Souvenir. It records totals of Rs. 23,58,000-00 for direct contributions and Rs. 2,95,800-00 through advertisements, producing a combined total of Rs. 26,53,800-00. No donor names or accompanying lists are included on the rendered page.
+
 ## Key points
 
 - The letter is marked “STRICTLY CONFIDENTIAL” and dated 10 February 1966.

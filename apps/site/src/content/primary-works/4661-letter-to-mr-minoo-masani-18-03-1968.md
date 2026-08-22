@@ -51,6 +51,12 @@ summary: |-
   Shenoy also asks Masani to consider giving him the second-preference votes associated with Vaidya. He argues that if both Mahida and Shenoy remain in the contest, Swatantra votes will be divided and independent candidates will compete for surplus Congress votes. He acknowledges the value of Congress surplus votes but says that Vaidya’s second preferences would effectively provide the support of the Swatantra Party’s voting strength that did not transfer to Mahida. The letter includes an embedded express telegram making the same request.
 ---
 
+## Summary
+
+In this two-page letter dated 18 March 1968, B. R. Shenoy writes to Minoo Masani about his nomination as an independent candidate in an election involving Swatantra Party candidates. Shenoy reports that Babubhai Vaidya appears likely to receive the fewest first-preference votes, while noting that neither Vaidya nor Mahida is a Swatantra Party member. He proposes that Masani withdraw his own candidacy so that party solidarity and the party nominee’s prospects are preserved.
+
+Shenoy also asks Masani to consider giving him the second-preference votes associated with Vaidya. He argues that if both Mahida and Shenoy remain in the contest, Swatantra votes will be divided and independent candidates will compete for surplus Congress votes. He acknowledges the value of Congress surplus votes but says that Vaidya’s second preferences would effectively provide the support of the Swatantra Party’s voting strength that did not transfer to Mahida. The letter includes an embedded express telegram making the same request.
+
 ## Key points
 
 - Shenoy describes his nomination as an independent candidate in a 1968 election contest.

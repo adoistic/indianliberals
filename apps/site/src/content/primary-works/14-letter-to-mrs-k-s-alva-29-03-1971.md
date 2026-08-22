@@ -51,6 +51,12 @@ summary: |-
   The letter offers no detailed analysis of the election or its results. Instead, it records Masani’s encouragement that these questions should remain central to the organisation’s reflection and future deliberations in the months ahead.
 ---
 
+## Summary
+
+In this letter dated 29 March 1971, M. R. Masani thanks Mrs. K. S. Alva for writing about the election results. He acknowledges that the outcome is disappointing, but argues that its implications must be studied rather than simply lamented. Masani frames the post-election period as a necessary process of reassessment and welcomes Alva’s contribution in the form of several pertinent questions.
+
+The letter offers no detailed analysis of the election or its results. Instead, it records Masani’s encouragement that these questions should remain central to the organisation’s reflection and future deliberations in the months ahead.
+
 ## Key points
 
 - Masani's letter is dated 29 March 1971 and addressed to Mrs. K. S. Alva.

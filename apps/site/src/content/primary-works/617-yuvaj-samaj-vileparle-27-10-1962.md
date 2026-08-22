@@ -54,6 +54,12 @@ summary: |-
   The later pages turn to practical defence and political questions. They question the absence of automatic rifles and ask why “Gurkha [forces]” are being used in a medical or support role, while contrasting military weakness with the need for leadership and morale. A separate list considers relationships with neighbouring countries and great powers, including China, Pakistan, and the United States, alongside diplomacy, recognition, and possible friendship. The notes are fragmentary and difficult to read in places; no formal title, author, recipient, or institutional attribution is visible.
 ---
 
+## Summary
+
+These three pages are handwritten working notes headed “Yuvak Samaj, Vileparle - 27/10/62.” They appear to prepare a discussion on national unity, China, Kashmir, defence, and India’s international position. The opening notes call for “All for defeating enemy,” a national unity built around “2 kinds” of unity—apparently national and economic—and a “leadership for victory.” They also stress that economic and political considerations should not be separated, and ask whether India’s actions in Kashmir are “in line” with its stated aims.
+
+The later pages turn to practical defence and political questions. They question the absence of automatic rifles and ask why “Gurkha [forces]” are being used in a medical or support role, while contrasting military weakness with the need for leadership and morale. A separate list considers relationships with neighbouring countries and great powers, including China, Pakistan, and the United States, alongside diplomacy, recognition, and possible friendship. The notes are fragmentary and difficult to read in places; no formal title, author, recipient, or institutional attribution is visible.
+
 ## Key points
 
 - The notes advocate national unity in response to an external enemy and connect political unity with economic unity.

@@ -46,6 +46,10 @@ summary: |-
   This one-page English office letter, dated “29th Novemb.” with no year visible, acknowledges receipt of a letter dated 20th November from Dhyan S. Makhija, editor of “Bubhubal.” The writer says the acknowledgment is being sent at the request of M. R. Masani and thanks Makhija for writing to him.
 ---
 
+## Summary
+
+This one-page English office letter, dated “29th Novemb.” with no year visible, acknowledges receipt of a letter dated 20th November from Dhyan S. Makhija, editor of “Bubhubal.” The writer says the acknowledgment is being sent at the request of M. R. Masani and thanks Makhija for writing to him.
+
 ## Key points
 
 - The document is a typed office letter in English.

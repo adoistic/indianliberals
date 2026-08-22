@@ -47,6 +47,10 @@ summary: |-
   This one-page handwritten memo, numbered “3313,” is issued on Swatantra Party Central Office letterhead. It concerns authorization of a cheque or cheques, payment to or through an entity called “New India,” and the transfer of a Central Office jeep. The handwriting is partly obscured, so the precise instructions and financial amounts cannot be established confidently.
 ---
 
+## Summary
+
+This one-page handwritten memo, numbered “3313,” is issued on Swatantra Party Central Office letterhead. It concerns authorization of a cheque or cheques, payment to or through an entity called “New India,” and the transfer of a Central Office jeep. The handwriting is partly obscured, so the precise instructions and financial amounts cannot be established confidently.
+
 ## Key points
 
 - The document is an internal Swatantra Party Central Office memo marked “3313.”

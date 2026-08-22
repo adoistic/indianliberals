@@ -53,6 +53,12 @@ summary: |-
   Masani portrays Thapar as a confirmed communist, citing his former editorship of the Communist Party of India's publications People's War, Crossroads, and New Age, as well as his prosecution under the Madras Government's Public Order Act in 1950. He argues that Thapar had never publicly renounced communism and continued to write from a leftist perspective in Economic and Political Weekly. The letter urges Desai to examine the appointment rather than allow it to pass without notice; an enclosure is identified as a Supreme Court judgment dated May 26, 1950.
 ---
 
+## Summary
+
+In this personal and confidential letter dated November 10, 1967, M. R. Masani warns Morarji Desai about the appointment of S. S. Dhaman as Indian High Commissioner in London. Masani says the appointment may shock Desai and reports an additional rumour that Prime Minister Indira Gandhi intended to appoint Ramesh Thapar as Minister of State for External Affairs.
+
+Masani portrays Thapar as a confirmed communist, citing his former editorship of the Communist Party of India's publications People's War, Crossroads, and New Age, as well as his prosecution under the Madras Government's Public Order Act in 1950. He argues that Thapar had never publicly renounced communism and continued to write from a leftist perspective in Economic and Political Weekly. The letter urges Desai to examine the appointment rather than allow it to pass without notice; an enclosure is identified as a Supreme Court judgment dated May 26, 1950.
+
 ## Key points
 
 - Masani writes to Morarji Desai about the reported appointment of S. S. Dhaman as Indian High Commissioner in London.

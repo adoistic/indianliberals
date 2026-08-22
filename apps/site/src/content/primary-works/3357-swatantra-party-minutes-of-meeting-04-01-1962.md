@@ -52,6 +52,12 @@ summary: |-
   The minutes calculate existing payments and commitments, including cash already advanced to fifteen endorsed constituencies and further requirements for Darbhanga, Saharsa, Purnea, and Tirhut. The Raja of Ramgarh offered to help meet repayment and supply-vehicle needs. The committee ultimately agreed that K. M. Munshi, after consulting the Bihar State unit’s president, should prepare a resolution and draft agreement with Shri Kamakhya Narain Singh of Ramgarh for consideration the following morning.
 ---
 
+## Summary
+
+This one-page extract from the Swatantra Party’s draft minutes of 4 January 1962 records a dispute over bank credit for jeeps intended for the party’s endorsed candidates in Bihar. The Bihar State President asked that Bihar not be burdened with the full Rs. 2.80 lakhs proposed from a Rs. 4 lakh credit, while the General Secretary argued that the party’s Bihar candidates had priority. The discussion also cites the uneven availability of campaign funds and the failure to allocate jeeps despite repeated requests since September.
+
+The minutes calculate existing payments and commitments, including cash already advanced to fifteen endorsed constituencies and further requirements for Darbhanga, Saharsa, Purnea, and Tirhut. The Raja of Ramgarh offered to help meet repayment and supply-vehicle needs. The committee ultimately agreed that K. M. Munshi, after consulting the Bihar State unit’s president, should prepare a resolution and draft agreement with Shri Kamakhya Narain Singh of Ramgarh for consideration the following morning.
+
 ## Key points
 
 - The extract concerns bank credit for jeeps for Swatantra Party endorsed candidates in Bihar.

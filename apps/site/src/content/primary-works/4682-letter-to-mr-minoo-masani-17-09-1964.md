@@ -48,6 +48,12 @@ summary: |-
   The document is brief and administrative rather than argumentative. It records an exchange among senior Swatantra Party figures and indicates that Rajagopalachari's substantive response to Mody was sent separately. The page also includes handwritten annotations, the sender's signature, and an indication that two enclosures accompanied the letter.
 ---
 
+## Summary
+
+This one-page letter from C. Rajagopalachari, dated 17 September 1964, is addressed to Minoo Masani in his capacity as General Secretary of the Swatantra Party. Rajagopalachari acknowledges Masani's telegram and says that Piloo Mody had written to him and that he has replied in an enclosed letter.
+
+The document is brief and administrative rather than argumentative. It records an exchange among senior Swatantra Party figures and indicates that Rajagopalachari's substantive response to Mody was sent separately. The page also includes handwritten annotations, the sender's signature, and an indication that two enclosures accompanied the letter.
+
 ## Key points
 
 - The letter is dated 17 September 1964 and is sent from Rajagopalachari's Madras address.

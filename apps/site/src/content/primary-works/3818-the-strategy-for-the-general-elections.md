@@ -66,6 +66,10 @@ summary: |-
   In this six-page internal-circulation note dated 1 May 1966, J. M. Lobo Prabhu develops an electoral strategy for the Swatantra Party. He begins from voting patterns in the previous general elections, arguing that candidate preference, party records and resources, regional polarisation, and the strength of Communist opposition all shape outcomes. He estimates that voters respond in varying proportions to party ideology, party performance and resources, and the personal record of candidates, while a large non-voting population remains to be reached.
 ---
 
+## Summary
+
+In this six-page internal-circulation note dated 1 May 1966, J. M. Lobo Prabhu develops an electoral strategy for the Swatantra Party. He begins from voting patterns in the previous general elections, arguing that candidate preference, party records and resources, regional polarisation, and the strength of Communist opposition all shape outcomes. He estimates that voters respond in varying proportions to party ideology, party performance and resources, and the personal record of candidates, while a large non-voting population remains to be reached.
+
 ## Key points
 
 - The note treats candidate personality and record as potentially more decisive than party affiliation in closely contested constituencies.

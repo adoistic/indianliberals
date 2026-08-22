@@ -50,6 +50,10 @@ summary: |-
   This one-page English record documents the Swatantra Party’s Executive Committee meeting held in Bombay on 19 November 1974. It lists six attendees, records leave granted to six absent members, and confirms the minutes of the previous meeting held on 28 October 1974.
 ---
 
+## Summary
+
+This one-page English record documents the Swatantra Party’s Executive Committee meeting held in Bombay on 19 November 1974. It lists six attendees, records leave granted to six absent members, and confirms the minutes of the previous meeting held on 28 October 1974.
+
 ## Key points
 
 - The Executive Committee met at the Swatantra Party office in Sassoon Building, Kalaghoda, Bombay, at 5:30 p.m.

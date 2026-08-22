@@ -48,6 +48,10 @@ summary: |-
   In this typed letter dated December 18, 1974, M. R. Masani responds to V. P. Bhatia’s letter of December 17. Masani says that his position has not changed and expresses a willingness to transfer the shares under discussion to Mr. Sundaram, identified as president of the Swatantra Party.
 ---
 
+## Summary
+
+In this typed letter dated December 18, 1974, M. R. Masani responds to V. P. Bhatia’s letter of December 17. Masani says that his position has not changed and expresses a willingness to transfer the shares under discussion to Mr. Sundaram, identified as president of the Swatantra Party.
+
 ## Key points
 
 - The letter is dated December 18, 1974 and addressed to V. P. Bhatia.

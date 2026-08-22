@@ -51,6 +51,12 @@ summary: |-
   The letter recommends the Ritz Hotel as a suitable and centrally located place to stay, and offers to ask Khan Bahadur Taraporevala to make the necessary reservations once Masani responds. It closes with thanks and Subbarao's signature as chairman of the Twin Cities Organising Committee.
 ---
 
+## Summary
+
+This one-page English office letter, dated 18 November 1959 and issued on Swatantra Party letterhead from Hyderabad, is addressed to Minoo Masani. B. Venkata Subbarao, identified as the party's Convenor, acknowledges Masani's letter of 10 November 1959 and conveys a request from Vice-chairman S. N. Reddy that Masani stay as the guest of Khan Bahadur Taraporevala wherever he is located.
+
+The letter recommends the Ritz Hotel as a suitable and centrally located place to stay, and offers to ask Khan Bahadur Taraporevala to make the necessary reservations once Masani responds. It closes with thanks and Subbarao's signature as chairman of the Twin Cities Organising Committee.
+
 ## Key points
 
 - The letter is dated 18 November 1959 and was sent from Hyderabad on Swatantra Party letterhead.

@@ -47,6 +47,12 @@ summary: |-
   Masani urges Majhi’s state executive to endorse the agreement and reject any continuing association with the Orissa Pragati Dal. He says that the President, General Secretary, and Treasurer of the Swatantra Party have been informed of the developments, and notes that Minoo Assercy is carrying a draft resolution for the meeting. The letter closes by asking loyal party members to resist what Masani calls a disruptive move and by authorising Majhi to show the letter to named party colleagues.
 ---
 
+## Summary
+
+In this confidential letter dated March 15, 1973, Minoo Masani writes to G.R. Majhi, General Secretary of the Swatantra Party in Bhubaneswar, about the political situation in Orissa. Masani encloses the March issue of Freedom First, including his editorial note “Playing the Fool,” which he says describes the conduct of the state government. He also refers to an agreement, signed in Delhi, under which the Orissa Pragati Dal would be separated from the Swatantra Party and the latter would function under its own name, banner, and symbol.
+
+Masani urges Majhi’s state executive to endorse the agreement and reject any continuing association with the Orissa Pragati Dal. He says that the President, General Secretary, and Treasurer of the Swatantra Party have been informed of the developments, and notes that Minoo Assercy is carrying a draft resolution for the meeting. The letter closes by asking loyal party members to resist what Masani calls a disruptive move and by authorising Majhi to show the letter to named party colleagues.
+
 ## Key points
 
 - Masani’s March 15, 1973 letter addresses G.R. Majhi, the Swatantra Party’s General Secretary in Bhubaneswar.

@@ -52,6 +52,12 @@ summary: |-
   Signed by Executive Secretary S. V. Raju, the circular seeks responses on three points: whether misuse of the star symbol is occurring, whether it is widespread, and what remedies could prevent further misuse. The document frames party-symbol control as an electoral and organisational-governance issue, but does not itself propose a remedy.
 ---
 
+## Summary
+
+This one-page Swatantra Party Central Office circular, dated December 5, 1967, asks party members to comment on the alleged misuse of the party’s star symbol. It reproduces a General Council member’s concern that the symbol should be reserved for party members and that the Jan Sangh had recently used it to attract votes in municipal elections, raising a similar concern for forthcoming Panchayat elections.
+
+Signed by Executive Secretary S. V. Raju, the circular seeks responses on three points: whether misuse of the star symbol is occurring, whether it is widespread, and what remedies could prevent further misuse. The document frames party-symbol control as an electoral and organisational-governance issue, but does not itself propose a remedy.
+
 ## Key points
 
 - The circular was issued by the Swatantra Party Central Office on December 5, 1967.

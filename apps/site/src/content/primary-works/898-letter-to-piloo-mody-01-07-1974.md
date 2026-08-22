@@ -54,6 +54,12 @@ summary: |-
   Masani argues that the proposed coalition of regional and opposition parties is too weak and ideologically vague to constitute a national alternative. He questions the political record and reliability of several prospective allies, criticises the draft policy statement for being so general that its signatories could interpret it in radically different ways, and warns that the proposed party would have poor credibility and public standing. He nevertheless distinguishes between a party-based electoral combination and Jayaprakash Narayan’s non-party mobilisation, indicating that he would cooperate with the latter. The letter closes by urging that the proposal to dissolve Swatantra for this particular purpose be abandoned.
 ---
 
+## Summary
+
+In this letter dated 1 July 1974, M. R. Masani responds to Piloo Mody’s proposal to dissolve or reorganise the Swatantra Party in order to create a broader “National Alternative.” Masani objects to the circulation of Mody’s letter to the General Council, saying that it has created unnecessary publicity and bewilderment. He challenges Mody’s claim that anyone wishing to remain in politics must join Congress or the proposed alternative, citing Rajaji, Jayaprakash Narayan, Acharya Kripalani, and Rani Palkhivala as examples of political figures who did not fit that binary.
+
+Masani argues that the proposed coalition of regional and opposition parties is too weak and ideologically vague to constitute a national alternative. He questions the political record and reliability of several prospective allies, criticises the draft policy statement for being so general that its signatories could interpret it in radically different ways, and warns that the proposed party would have poor credibility and public standing. He nevertheless distinguishes between a party-based electoral combination and Jayaprakash Narayan’s non-party mobilisation, indicating that he would cooperate with the latter. The letter closes by urging that the proposal to dissolve Swatantra for this particular purpose be abandoned.
+
 ## Key points
 
 - Masani objects to the expanded circulation of Mody’s letter and the resulting political confusion.

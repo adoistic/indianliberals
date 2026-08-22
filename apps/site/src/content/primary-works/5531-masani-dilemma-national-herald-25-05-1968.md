@@ -55,6 +55,12 @@ summary: |-
   The accompanying typed draft letter to the Prime Minister sets out the Swatantra Party’s objections to the government’s approach to the Fourth Five-Year Plan. It distinguishes planning from the extensive system of controls, licences, permits, food zones, sugar controls, import substitution, and industrial licensing that the letter associates with corruption, patronage, and restricted production. The proposed alternative is a substantial reduction of controls, with any necessary licensing administered by an independent quasi-judicial body, alongside freer foreign exchange and export policies. The pages also cite Ireland, Taiwan, Pakistan, the World Bank, and Rafi Ahmed Kidwai in support of arguments about exports, economic growth, and the removal of food controls.
 ---
 
+## Summary
+
+“Masani’s Dilemma,” published in the “National Herald” on 25 May 1968, examines tensions within the Swatantra Party after Minoo Masani’s defeat in the Rajya Sabha election from Gujarat. The article attributes the dispute to disagreements over party discipline, the limits of permissible dissent, the Kutch agitation, and the relationship between the Gujarat unit and the central leadership. It argues that Masani’s colleagues should address the disagreement openly rather than allow personal differences to weaken the organisation, while also recognising that many state units do not share the central leadership’s positions on planning, Kashmir, Kutch, language, nuclear deterrence, or Vietnam.
+
+The accompanying typed draft letter to the Prime Minister sets out the Swatantra Party’s objections to the government’s approach to the Fourth Five-Year Plan. It distinguishes planning from the extensive system of controls, licences, permits, food zones, sugar controls, import substitution, and industrial licensing that the letter associates with corruption, patronage, and restricted production. The proposed alternative is a substantial reduction of controls, with any necessary licensing administered by an independent quasi-judicial body, alongside freer foreign exchange and export policies. The pages also cite Ireland, Taiwan, Pakistan, the World Bank, and Rafi Ahmed Kidwai in support of arguments about exports, economic growth, and the removal of food controls.
+
 ## Key points
 
 - The article presents Swatantra Party disputes as a conflict between Minoo Masani and elements of the central leadership.

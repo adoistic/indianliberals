@@ -49,6 +49,12 @@ summary: |-
   The document includes Varma's enclosed letter of April 5, 1971, which urges Masani not to resign from the party after his electoral defeat. Varma attributes the defeat to a “strong wind” that brought various social groups into favour of Congress (R), criticises the alliance with the SSP as unprincipled opportunism, and argues that the party's decision to contest on a slogan of banishing poverty failed to persuade voters. The summary covers the complete two-page correspondence, including the enclosure.
 ---
 
+## Summary
+
+In this letter dated April 21, 1971, M. R. Masani assures Ram Avatar Prasad Varma that he has not resigned from the party, but only from its presidency. Masani states that he will remain a party member and continue advocating its principles and philosophy. He also explains that he persuaded the General Council to accept his departure from the presidency, which he considered the right course, and offers continued assistance to party colleagues.
+
+The document includes Varma's enclosed letter of April 5, 1971, which urges Masani not to resign from the party after his electoral defeat. Varma attributes the defeat to a “strong wind” that brought various social groups into favour of Congress (R), criticises the alliance with the SSP as unprincipled opportunism, and argues that the party's decision to contest on a slogan of banishing poverty failed to persuade voters. The summary covers the complete two-page correspondence, including the enclosure.
+
 ## Key points
 
 - Masani distinguishes his resignation from the party presidency from resignation from party membership.

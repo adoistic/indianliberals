@@ -50,6 +50,12 @@ summary: |-
   Masani reiterates that he has already said all that can usefully be said on the subject under discussion. He rejects Dandeker's position, stating that Dandeker's letter leaves him unconvinced and that he fears Dandeker is pursuing the wrong course. The page also contains handwritten marginal annotations, including references to declining or accepting a nomination, but their full context is not clear.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to N. Dandeker is dated 28 May 1968 and written from Bombay. Masani acknowledges Dandeker's letter of 22 May after returning from Europe and refers to earlier letters sent to Dandeker and members of the Swatantra Party's General Council.
+
+Masani reiterates that he has already said all that can usefully be said on the subject under discussion. He rejects Dandeker's position, stating that Dandeker's letter leaves him unconvinced and that he fears Dandeker is pursuing the wrong course. The page also contains handwritten marginal annotations, including references to declining or accepting a nomination, but their full context is not clear.
+
 ## Key points
 
 - The letter is dated 28 May 1968 and addressed from Bombay.

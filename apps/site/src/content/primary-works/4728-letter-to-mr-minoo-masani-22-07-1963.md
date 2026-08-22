@@ -50,6 +50,12 @@ summary: |-
   The letter also asks Masani to add a line to a ward-meeting notice indicating that the writer will soon be leaving, apparently in connection with political or organisational work. The document is a brief piece of logistical correspondence rather than a developed policy argument; its political context is visible, but several names and phrases in the handwriting remain difficult to read.
 ---
 
+## Summary
+
+This handwritten English letter, dated 18 July 1963 and signed “Ranga,” is addressed to M. R. Masani. It discusses plans involving Jivraj Mehta, an audience of refugees in Bangalore on 5 August, and the Southern States Convention later in August. The writer suggests coordinating travel so that several named associates can attend the Bangalore programme before returning to their respective destinations.
+
+The letter also asks Masani to add a line to a ward-meeting notice indicating that the writer will soon be leaving, apparently in connection with political or organisational work. The document is a brief piece of logistical correspondence rather than a developed policy argument; its political context is visible, but several names and phrases in the handwriting remain difficult to read.
+
 ## Key points
 
 - The letter is dated 18 July 1963 and bears a receipt stamp dated 22 July 1963.

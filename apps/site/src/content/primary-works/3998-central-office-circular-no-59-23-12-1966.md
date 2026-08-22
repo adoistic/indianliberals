@@ -52,6 +52,12 @@ summary: |-
   The enclosed letter from Phonographic Performance (Eastern) Private Limited, dated 10 December 1966, grants the Swatantra Party an extension of its licence for one year, up to 17 August 1967. The two-page document is therefore an administrative party communication concerning music licensing and public-meeting arrangements, rather than a political argument or policy statement.
 ---
 
+## Summary
+
+Central Office Circular Number 59, issued by the Swatantra Party in Bombay on 23 December 1966, informs party members that permission is required to play gramophone records before public meetings. The circular, signed by V. P. Bhatia, explains that the party contacted Phonographic Performance (Eastern) Private Limited, Calcutta, and obtained general permission to play records before each meeting.
+
+The enclosed letter from Phonographic Performance (Eastern) Private Limited, dated 10 December 1966, grants the Swatantra Party an extension of its licence for one year, up to 17 August 1967. The two-page document is therefore an administrative party communication concerning music licensing and public-meeting arrangements, rather than a political argument or policy statement.
+
 ## Key points
 
 - The document is Central Office Circular Number 59 of the Swatantra Party.

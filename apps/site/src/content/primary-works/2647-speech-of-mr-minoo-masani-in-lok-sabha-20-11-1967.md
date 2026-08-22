@@ -58,6 +58,12 @@ summary: |-
   Masani grounds his position in fundamental rights, Article 30's protections for minority educational institutions, and the Swatantra Party's commitment to parental educational choice and institutional autonomy. He maintains that universities should decide their own medium of instruction in response to parents, students, and local communities, without political pressure from Parliament, the Education Ministry, or the University Grants Commission. The speech broadens this argument into a general warning against the extension of political patronage and governmental interference into education, culture, literature, sports, and economic life, while calling on government to provide neglected free and compulsory primary education instead.
 ---
 
+## Summary
+
+In this six-page Lok Sabha speech of November 20, 1967, M. R. Masani argues that the Education Commission debate has been reduced to a dispute over language and should instead be considered as a question of the proper limits of Union and parliamentary intervention in education. He supports parental choice of schools and medium of instruction, equal opportunity through scholarships and fellowships rather than compulsory uniformity, and the autonomy and academic freedom of universities. He particularly attacks the proposed neighbourhood-school system as coercive and undemocratic because it would force parents to send children to a school selected by the state or by proximity.
+
+Masani grounds his position in fundamental rights, Article 30's protections for minority educational institutions, and the Swatantra Party's commitment to parental educational choice and institutional autonomy. He maintains that universities should decide their own medium of instruction in response to parents, students, and local communities, without political pressure from Parliament, the Education Ministry, or the University Grants Commission. The speech broadens this argument into a general warning against the extension of political patronage and governmental interference into education, culture, literature, sports, and economic life, while calling on government to provide neglected free and compulsory primary education instead.
+
 ## Key points
 
 - Masani reframes the language controversy as a question of constitutional limits on government intervention in education.

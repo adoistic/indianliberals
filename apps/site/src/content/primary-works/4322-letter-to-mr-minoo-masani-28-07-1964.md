@@ -52,6 +52,12 @@ summary: |-
   The document also encloses a letter from Dahyabhai Patel to Rajagopalachari, dated 26 July 1964. Patel describes public concern over rising prices, criticises the government’s attempts to control them, and urges an early Swatantra Party meeting to assess the situation and give parliamentary members direction. He warns that failure to address the difficulties faced by ordinary citizens could allow opponents to portray the party as representing the rich and the princely classes. The enclosure is retained here as part of the scanned document but is not catalogued as a separate authorial work.
 ---
 
+## Summary
+
+This two-page correspondence from C. Rajagopalachari to Minoo Masani, dated 28 July 1964, discusses rising prices and the Swatantra Party’s response. Rajagopalachari questions the consistency of demanding government intervention through maximum prices while attributing inflation to government policies concerning land, finance, and production. He argues that the party’s Parliamentary Party, General Council, or Central Organisation Committee should discuss what action is useful and consistent with its stated position.
+
+The document also encloses a letter from Dahyabhai Patel to Rajagopalachari, dated 26 July 1964. Patel describes public concern over rising prices, criticises the government’s attempts to control them, and urges an early Swatantra Party meeting to assess the situation and give parliamentary members direction. He warns that failure to address the difficulties faced by ordinary citizens could allow opponents to portray the party as representing the rich and the princely classes. The enclosure is retained here as part of the scanned document but is not catalogued as a separate authorial work.
+
 ## Key points
 
 - Rajagopalachari questions whether calls for maximum-price controls are compatible with the Swatantra Party’s critique of government policies.

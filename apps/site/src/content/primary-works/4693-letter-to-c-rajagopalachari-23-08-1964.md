@@ -53,6 +53,12 @@ summary: |-
   The writer’s proposed remedies are primarily organisational. The party should hold internal elections, revise its constitution, reduce excessive centralisation, curb interference by the central office, strengthen state-level organisation, establish a functioning Delhi presence, and coordinate fundraising. The letter also warns that reliance on industrialists, wealthy candidates, or money raised from prospective candidates is damaging the party’s claim to represent ordinary people. It closes with an urgent appeal to Rajagopalachari to act quickly: without internal reform and renewed engagement with the public, the Swatantra Party may lose its political influence.
 ---
 
+## Summary
+
+This personal letter, dated August 23, 1964, is written from Toronto by the unidentified sender “Anandchand” to C. Rajagopalachari (“Rajaji”), founder-leader of the Swatantra Party. Against the backdrop of Jawaharlal Nehru’s death, food-grain shortages, rioting, and the succession of Lal Bahadur Shastri, the writer argues that the Swatantra Party must stop relying on criticism of the Congress and develop a positive political strategy. The letter acknowledges the party’s early promise and nearly nine million votes in the last general election, but describes declining public enthusiasm, disunity among state units, the departure of experienced leaders, and an insufficient mass base.
+
+The writer’s proposed remedies are primarily organisational. The party should hold internal elections, revise its constitution, reduce excessive centralisation, curb interference by the central office, strengthen state-level organisation, establish a functioning Delhi presence, and coordinate fundraising. The letter also warns that reliance on industrialists, wealthy candidates, or money raised from prospective candidates is damaging the party’s claim to represent ordinary people. It closes with an urgent appeal to Rajagopalachari to act quickly: without internal reform and renewed engagement with the public, the Swatantra Party may lose its political influence.
+
 ## Key points
 
 - The letter situates Swatantra Party reform within the political uncertainty following Nehru’s death and Shastri’s accession.

@@ -48,6 +48,12 @@ summary: |-
   The letter states that the Regional Transport Officer (Recovery Branch) has issued recovery certificates under Section 12 of the Bombay Motor Vehicle Tax Act, 1958, in Masani's personal name. It advises him to approach the Regional Transport Officer, Bombay, and obtain a certificate showing that he is not liable for the dues; otherwise, the Collector's Office will proceed with recovery against him. The requested action is to be completed within a week. The signatory's handwritten name is unclear, and the letter is signed on behalf of the Collector of Bombay.
 ---
 
+## Summary
+
+This untitled administrative letter, dated 8 January 1975 and issued from the Collector's Office, Old Custom House, Fort, Bombay, is addressed to Shri Minocher Rustom Masani. It concerns the recovery of motor vehicle tax (M.V.T.) dues recorded against four vehicle numbers: MRA 4095, MRA 4096, MRA 4092, and MRA 4024. The listed amounts total Rs. 954, covering periods between July 1967 and March 1970.
+
+The letter states that the Regional Transport Officer (Recovery Branch) has issued recovery certificates under Section 12 of the Bombay Motor Vehicle Tax Act, 1958, in Masani's personal name. It advises him to approach the Regional Transport Officer, Bombay, and obtain a certificate showing that he is not liable for the dues; otherwise, the Collector's Office will proceed with recovery against him. The requested action is to be completed within a week. The signatory's handwritten name is unclear, and the letter is signed on behalf of the Collector of Bombay.
+
 ## Key points
 
 - The letter was issued by the Collector's Office, Bombay, on 8 January 1975.

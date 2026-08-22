@@ -55,6 +55,12 @@ summary: |-
   The affidavit seeks a direction to the Election Commissioner of India to register the Swatantra Party as a political party. It records that the Court admitted the petition and expedited its hearing, while declining at that stage to order provisional registration. The petitioners argue that registration is urgently needed because the Maharashtra Assembly elections had nearly passed and the party intended to contest the expected December 1995 Lok Sabha elections. The final page states that respondents had been served and that the petition was ready for final hearing; the document does not contain the Court’s decision.
 ---
 
+## Summary
+
+This four-page English court filing concerns Notice of Motion No. 30 in Writ Petition No. 14 of 1995 before the High Court of Judicature at Bombay. L. R. Sampat, identified as General Secretary of the Swatantra Party (Maharashtra), states that the petition challenges the constitutional validity of subsection 5 of section 29(A) of the Representation of the People Act, 1951. The challenged provision is described as refusing registration to a political party unless it affirms faith in and allegiance to the principle of socialism.
+
+The affidavit seeks a direction to the Election Commissioner of India to register the Swatantra Party as a political party. It records that the Court admitted the petition and expedited its hearing, while declining at that stage to order provisional registration. The petitioners argue that registration is urgently needed because the Maharashtra Assembly elections had nearly passed and the party intended to contest the expected December 1995 Lok Sabha elections. The final page states that respondents had been served and that the petition was ready for final hearing; the document does not contain the Court’s decision.
+
 ## Key points
 
 - The filing challenges subsection 5 of section 29(A) of the Representation of the People Act, 1951.

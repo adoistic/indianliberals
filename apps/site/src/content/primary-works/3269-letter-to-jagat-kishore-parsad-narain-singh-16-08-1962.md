@@ -48,6 +48,10 @@ summary: |-
   This two-page correspondence file contains two letters signed by M. R. Masani in August 1962. In the letter dated 16 August, Masani forwards Jagat Kishore Prasad Narain Singh a resolution unanimously adopted at a joint meeting of the Organisation Sub-Committee and Parliamentary Board in Madras on 21–22 July. He asks Singh to arrange for N. Baksi, the new General Secretary of the Bihar unit, to assume charge of the party office and convene the new Executive Committee, while appealing to Singh to support the party's reorganisation.
 ---
 
+## Summary
+
+This two-page correspondence file contains two letters signed by M. R. Masani in August 1962. In the letter dated 16 August, Masani forwards Jagat Kishore Prasad Narain Singh a resolution unanimously adopted at a joint meeting of the Organisation Sub-Committee and Parliamentary Board in Madras on 21–22 July. He asks Singh to arrange for N. Baksi, the new General Secretary of the Bihar unit, to assume charge of the party office and convene the new Executive Committee, while appealing to Singh to support the party's reorganisation.
+
 ## Key points
 
 - Masani forwards a unanimously adopted party resolution from a joint meeting held in Madras on 21–22 July 1962.

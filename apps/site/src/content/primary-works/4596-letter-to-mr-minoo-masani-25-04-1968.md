@@ -51,6 +51,10 @@ summary: |-
   This two-page handwritten Hindi letter, dated apparently 25 April 1968, is addressed to Dr. M. R. Masani. The sender is not identifiable from the surviving manuscript. The letter discusses the interests, public standing, and future direction of a political party, apparently urging attention to its organisation, leadership, and public programme.
 ---
 
+## Summary
+
+This two-page handwritten Hindi letter, dated apparently 25 April 1968, is addressed to Dr. M. R. Masani. The sender is not identifiable from the surviving manuscript. The letter discusses the interests, public standing, and future direction of a political party, apparently urging attention to its organisation, leadership, and public programme.
+
 ## Key points
 
 - The letter is addressed to M. R. Masani and appears to be dated 25 April 1968.

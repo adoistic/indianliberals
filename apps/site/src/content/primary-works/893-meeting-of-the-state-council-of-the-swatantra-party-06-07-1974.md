@@ -54,6 +54,12 @@ summary: |-
   The minutes record a decisive internal disagreement. M. R. Masani opposed dissolution, and the council ultimately passed a resolution against the proposal by an overwhelming majority, with N. K. Jagtap as the sole dissenting voter. The council requested that the issue be reconsidered before the National Convention in Delhi and stated that, if dissolution were nevertheless approved, the Maharashtra unit would retain the Swatantra Party's identity, message, and flag. The meeting also selected delegates for the National Convention and appointed a subcommittee to finalise the delegation.
 ---
 
+## Summary
+
+These draft minutes record the 6 July 1974 meeting of the Maharashtra State Council of the Swatantra Party, held in Bombay. The meeting reviewed the proposal to dissolve the Swatantra Party alongside six other parties in order to create a new party intended to serve as a national alternative to the Congress. Madhu Mehta explained the proposal, while Piloo Mody described efforts authorised by the National Executive to bring several parties together. Most members opposed dissolution, arguing that the Swatantra Party's principles remained valid and that a new coalition based on a vague common programme would not provide a durable national alternative.
+
+The minutes record a decisive internal disagreement. M. R. Masani opposed dissolution, and the council ultimately passed a resolution against the proposal by an overwhelming majority, with N. K. Jagtap as the sole dissenting voter. The council requested that the issue be reconsidered before the National Convention in Delhi and stated that, if dissolution were nevertheless approved, the Maharashtra unit would retain the Swatantra Party's identity, message, and flag. The meeting also selected delegates for the National Convention and appointed a subcommittee to finalise the delegation.
+
 ## Key points
 
 - The Maharashtra State Council met in Bombay on 6 July 1974, with Madhu Mehta in the chair.

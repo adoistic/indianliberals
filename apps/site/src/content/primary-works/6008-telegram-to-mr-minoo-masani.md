@@ -42,6 +42,10 @@ summary: |-
   This single-page English telegram, sent on an Indian Posts and Telegraphs Department form, is addressed to Minoo Masani in Bombay. Its brief message reports that a wire has already been sent to Sri Jayaprakash Narayan and states that he is apparently “REFECTLY WELL”; the wording is visibly unclear and may contain a transcription or source error. The sender is not legibly identified, and no date is visible.
 ---
 
+## Summary
+
+This single-page English telegram, sent on an Indian Posts and Telegraphs Department form, is addressed to Minoo Masani in Bombay. Its brief message reports that a wire has already been sent to Sri Jayaprakash Narayan and states that he is apparently “REFECTLY WELL”; the wording is visibly unclear and may contain a transcription or source error. The sender is not legibly identified, and no date is visible.
+
 ## Key points
 
 - The document is a single-page Indian Posts and Telegraphs Department telegram.

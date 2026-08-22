@@ -48,6 +48,10 @@ summary: |-
   This one-page Indian Express report describes the Swatantra Party general council meeting held in Madras on 3 June 1968. Prof. Ruthnaswamy presided in the absence of Mr. Ranga. The council discussed the circumstances leading to Minoo Masani’s resignation from the party’s national executive and Central Parliamentary Board, after his defeat in the party’s official candidature for the Rajya Sabha from Gujarat.
 ---
 
+## Summary
+
+This one-page Indian Express report describes the Swatantra Party general council meeting held in Madras on 3 June 1968. Prof. Ruthnaswamy presided in the absence of Mr. Ranga. The council discussed the circumstances leading to Minoo Masani’s resignation from the party’s national executive and Central Parliamentary Board, after his defeat in the party’s official candidature for the Rajya Sabha from Gujarat.
+
 ## Key points
 
 - The Swatantra Party general council met in Madras on 3 June 1968.

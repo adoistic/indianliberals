@@ -57,6 +57,10 @@ summary: |-
   In this Lok Sabha speech, M. R. Masani supports a substitute motion disapproving the Third Five Year Plan. He begins by identifying three conditions facing India: rising prices, stagnant incomes and worsening unemployment among agricultural and industrial workers, and a precarious external-financial position marked by declining foreign-exchange reserves and growing debt. Although he accepts the Plan's stated objectives—greater saving and investment, more efficient low-cost production, and exports—he argues that its actual policies undermine those objectives and benefit the ruling class and privileged monopolists rather than the wider population.
 ---
 
+## Summary
+
+In this Lok Sabha speech, M. R. Masani supports a substitute motion disapproving the Third Five Year Plan. He begins by identifying three conditions facing India: rising prices, stagnant incomes and worsening unemployment among agricultural and industrial workers, and a precarious external-financial position marked by declining foreign-exchange reserves and growing debt. Although he accepts the Plan's stated objectives—greater saving and investment, more efficient low-cost production, and exports—he argues that its actual policies undermine those objectives and benefit the ruling class and privileged monopolists rather than the wider population.
+
 ## Key points
 
 - Masani presents inflation, stagnant incomes and unemployment, and foreign indebtedness as the central facts confronting India.

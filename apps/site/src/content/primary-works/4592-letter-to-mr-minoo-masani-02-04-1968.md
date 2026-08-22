@@ -47,6 +47,12 @@ summary: |-
   Bhargava says the Rajasthan party has assured the meeting that it will do everything possible to prevent similar incidents in future. He also refers Masani to a personal letter sent on March 30, indicating that the present appeal supplements an earlier expression of his views. The page documents an internal party effort to retain a senior figure while acknowledging recent organisational conflict.
 ---
 
+## Summary
+
+In this letter dated April 2, 1968, I. S. Bhargava writes from Jaipur to M. R. Masani after a narrow but successful Rajya Sabha election. Bhargava reports that Rajasthan MLAs and the party organisation have asked Maharawal Sahib to convey their unanimous request that Masani reconsider his decision to resign, arguing that the party's larger interests would suffer if he left its highest bodies.
+
+Bhargava says the Rajasthan party has assured the meeting that it will do everything possible to prevent similar incidents in future. He also refers Masani to a personal letter sent on March 30, indicating that the present appeal supplements an earlier expression of his views. The page documents an internal party effort to retain a senior figure while acknowledging recent organisational conflict.
+
 ## Key points
 
 - The letter reports a narrow but successful Rajya Sabha election in Rajasthan.

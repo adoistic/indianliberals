@@ -47,6 +47,12 @@ summary: |-
   The second page is a letter from the apparently identified Girish Munghi to Piloo Mody, then associated with Lodhi Estate, New Delhi. It refers to an arrangement made in the presence of Dr. R. G. Cooper concerning payment of the recipient's share of rent, notes that rent arrears have accumulated since September 1974, and asks Mody to ensure that Mr. Bh-tia makes regular rent payments in future. The printed name of the signatory is faint and partially unclear, and the two pages carry conflicting dates.
 ---
 
+## Summary
+
+This two-page English office correspondence contains a rent-and-electricity charge statement dated 16 January 1975 and a separate letter dated 15 January 1974. The first page, addressed to the Bharatiya Lok Dal in Bombay, itemizes December 1974 rent of Rs. 387.54 and electricity charges of Rs. 122.41, for a total of Rs. 509.95. It states that the recipient's 40% share is Rs. 204.00, written out as “Rs. two hundred and four only,” and is signed by P. Narayan, Office Secretary.
+
+The second page is a letter from the apparently identified Girish Munghi to Piloo Mody, then associated with Lodhi Estate, New Delhi. It refers to an arrangement made in the presence of Dr. R. G. Cooper concerning payment of the recipient's share of rent, notes that rent arrears have accumulated since September 1974, and asks Mody to ensure that Mr. Bh-tia makes regular rent payments in future. The printed name of the signatory is faint and partially unclear, and the two pages carry conflicting dates.
+
 ## Key points
 
 - The document comprises two typed pages of administrative correspondence in English.

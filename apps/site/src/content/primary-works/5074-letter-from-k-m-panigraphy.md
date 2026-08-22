@@ -50,6 +50,12 @@ summary: |-
   The letter also urges the Gujarat Unit to recognize Masani’s importance and make amends for the injury to his feelings. At the same time, it requests that the National Executive take appropriate action to restore discipline within the party and authorizes the State Executive’s president to communicate these sentiments to the National Executive. No recipient name, reference number, or printed title appears on the page.
 ---
 
+## Summary
+
+This one-page English letter, dated 12 April 1968 and issued from Bhubaneswar on Swatantra Party (Orissa Unit) letterhead, conveys the Orissa State Executive’s distress over Minoo Masani’s resignation from party offices. Signed by K. M. Panigrahy, identified as General Secretary, it asks the National Executive to secure withdrawal of the resignation, emphasizing that Masani’s services and contribution are indispensable to the party.
+
+The letter also urges the Gujarat Unit to recognize Masani’s importance and make amends for the injury to his feelings. At the same time, it requests that the National Executive take appropriate action to restore discipline within the party and authorizes the State Executive’s president to communicate these sentiments to the National Executive. No recipient name, reference number, or printed title appears on the page.
+
 ## Key points
 
 - The Orissa Unit expresses distress over Minoo Masani’s resignation from party offices.

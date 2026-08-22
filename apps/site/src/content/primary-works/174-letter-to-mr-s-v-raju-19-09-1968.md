@@ -47,6 +47,10 @@ summary: |-
   In this letter dated 19 September 1968, M. R. Masani asks S. V. Raju to make specific revisions to a text concerning the Swatantra Party's handling of the May 1968 Assembly elections. Masani proposes inserting a paragraph stating that the Party's General Council, at its June meeting in Madras, ordered an inquiry into the various aspects of the election's conduct.
 ---
 
+## Summary
+
+In this letter dated 19 September 1968, M. R. Masani asks S. V. Raju to make specific revisions to a text concerning the Swatantra Party's handling of the May 1968 Assembly elections. Masani proposes inserting a paragraph stating that the Party's General Council, at its June meeting in Madras, ordered an inquiry into the various aspects of the election's conduct.
+
 ## Key points
 
 - Masani writes to S. V. Raju from Bombay-related correspondence dated 19 September 1968.

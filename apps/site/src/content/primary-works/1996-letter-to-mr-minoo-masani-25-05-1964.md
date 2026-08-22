@@ -50,6 +50,12 @@ summary: |-
   The second letter, addressed to A. P. Jain at the Swatantra Party Parliamentary Office, similarly forwards minutes of a Parliamentary Board meeting held in Madras. Masani asks Jain to arrange for the marked passages to be placed before party members after consulting the party leader. Together, the letters document routine parliamentary coordination and the circulation of internal party records.
 ---
 
+## Summary
+
+This two-page correspondence item preserves two letters sent by M. R. Masani on May 25, 1964. The first, addressed to Prof. N. G. Ranga, forwards the minutes of a recent meeting of the Parliamentary Board, with passages marked for consideration by the parliamentary group during the forthcoming session.
+
+The second letter, addressed to A. P. Jain at the Swatantra Party Parliamentary Office, similarly forwards minutes of a Parliamentary Board meeting held in Madras. Masani asks Jain to arrange for the marked passages to be placed before party members after consulting the party leader. Together, the letters document routine parliamentary coordination and the circulation of internal party records.
+
 ## Key points
 
 - Both letters are dated May 25, 1964, and signed by M. R. Masani.

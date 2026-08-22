@@ -48,6 +48,10 @@ summary: |-
   This single-page letter, issued on Swatantra Parliamentary Group letterhead from Parliament House, New Delhi, is dated 5 April 1961 and addressed to the Speaker of the Lok Sabha. Its subject is “Demands for Ministry of Transport & Communications.” The letter asks that M. R. Masani be called upon to open the afternoon discussion, because his cut motions are described as broad and comprehensive.
 ---
 
+## Summary
+
+This single-page letter, issued on Swatantra Parliamentary Group letterhead from Parliament House, New Delhi, is dated 5 April 1961 and addressed to the Speaker of the Lok Sabha. Its subject is “Demands for Ministry of Transport & Communications.” The letter asks that M. R. Masani be called upon to open the afternoon discussion, because his cut motions are described as broad and comprehensive.
+
 ## Key points
 
 - The document is an administrative parliamentary communication dated 5 April 1961.

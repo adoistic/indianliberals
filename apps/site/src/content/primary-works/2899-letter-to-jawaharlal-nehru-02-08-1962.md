@@ -51,6 +51,12 @@ summary: |-
   Patel characterizes the government’s response to Chinese aggression as weak and hesitant. On behalf of his party, he urges the immediate severance of diplomatic relations and the cessation of negotiations with Chinese leaders, while calling for greater financial support and vigorous action at the front to repel Chinese forces and recover Indian territory. The sheet bears the Swatantra Party Central Office imprint in Bombay.
 ---
 
+## Summary
+
+This single-page telegram-style message, dated “2/8/62” and marked “Not to be telegraphed,” is addressed by Dayabhai Patel to Prime Minister Jawaharlal Nehru. Patel condemns what he describes as five years of Chinese aggression and the government’s alleged collusion with Chinese nationals and the Bank of China, arguing that these activities have endangered India’s security.
+
+Patel characterizes the government’s response to Chinese aggression as weak and hesitant. On behalf of his party, he urges the immediate severance of diplomatic relations and the cessation of negotiations with Chinese leaders, while calling for greater financial support and vigorous action at the front to repel Chinese forces and recover Indian territory. The sheet bears the Swatantra Party Central Office imprint in Bombay.
+
 ## Key points
 
 - The communication is addressed to Jawaharlal Nehru in his capacity as Prime Minister of India.

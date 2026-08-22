@@ -52,6 +52,12 @@ summary: |-
   Masani also informs Patil that he is leaving for Delhi for the parliamentary session and directs him to correspond further with H. Mehta, identified as the Swatantra Party’s Executive Secretary in Bombay. The letter is a brief piece of party-organisational correspondence concerning the circulation of foundational party materials.
 ---
 
+## Summary
+
+In this typed letter dated 14 November 1959, M. R. Masani replies to Dadasaheb Laxman Patil’s interest in the newly formed Swatantra Party. Masani says he is enclosing the Bombay Convention Handbook, which contains details about the Party, and offers to arrange for copies of the Party’s Statement of Principles in English and, if available, Marathi.
+
+Masani also informs Patil that he is leaving for Delhi for the parliamentary session and directs him to correspond further with H. Mehta, identified as the Swatantra Party’s Executive Secretary in Bombay. The letter is a brief piece of party-organisational correspondence concerning the circulation of foundational party materials.
+
 ## Key points
 
 - The letter is dated 14 November 1959 and is addressed to Dadasaheb Laxman Patil.

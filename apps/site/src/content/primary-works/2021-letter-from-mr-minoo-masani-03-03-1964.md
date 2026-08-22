@@ -46,6 +46,12 @@ summary: |-
   The document is a brief piece of administrative and political correspondence rather than an argumentative or programmatic text. It is typed on office stationery, addressed to Rao in his capacity as India's Minister for Irrigation and Power, and signed by Masani. No printed title, publisher, or further context about the meeting is provided.
 ---
 
+## Summary
+
+This one-page English letter, dated 3 March 1964 from 57 Lodi Estate, New Delhi, records M. R. Masani's response to Dr. K. L. Rao's invitation to a meeting scheduled for Sunday, 8 March. Masani thanks Rao for his letter but regrets that he cannot attend because he will be away in Sarangpur on public work throughout that day.
+
+The document is a brief piece of administrative and political correspondence rather than an argumentative or programmatic text. It is typed on office stationery, addressed to Rao in his capacity as India's Minister for Irrigation and Power, and signed by Masani. No printed title, publisher, or further context about the meeting is provided.
+
 ## Key points
 
 - The letter is dated 3rd March 1964 and issued from 57 Lodi Estate, New Delhi.

@@ -52,6 +52,12 @@ summary: |-
   Under the heading “MAINTAINING UNITY,” Gandhi links economic stability to confidence that all sections of the population are receiving justice and a fair deal. Responding to concerns raised by M. R. Eswaran, she says the government is not committed to controls for their own sake, but suggests that controls could be shed if industry and trade accept social responsibility, maintain financial discipline, and improve management. The report also notes her calls for greater managerial efficiency, movement away from inherited business practices, and restraint in tax evasion, while warning that the clipping does not provide the full speech or its wider context.
 ---
 
+## Summary
+
+This one-page English newspaper report, datelined Madras, October 5, records Prime Minister Mrs. Indira Gandhi’s address to industrialists and business representatives. Gandhi argues that nationalised banks should deny credit to “anti-social elements” who had previously used bank finance for unethical purposes, while assuring large-scale industry that bank finance for productive purposes would not be sacrificed. She also presents expanded bank branches and savings mobilisation as ways to support small-scale industry without harming the large-scale sector.
+
+Under the heading “MAINTAINING UNITY,” Gandhi links economic stability to confidence that all sections of the population are receiving justice and a fair deal. Responding to concerns raised by M. R. Eswaran, she says the government is not committed to controls for their own sake, but suggests that controls could be shed if industry and trade accept social responsibility, maintain financial discipline, and improve management. The report also notes her calls for greater managerial efficiency, movement away from inherited business practices, and restraint in tax evasion, while warning that the clipping does not provide the full speech or its wider context.
+
 ## Key points
 
 - Indira Gandhi calls for nationalised banks to withhold credit from anti-social elements and unethical users of finance.

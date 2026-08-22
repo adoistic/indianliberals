@@ -48,6 +48,12 @@ summary: |-
   Masani is reported to have accepted personal responsibility for the party's plight and to have argued that accepting his resignation would set an example against politicians' tendency to make excuses while remaining in office. The clipping also reports that C. Rajagopalachari, the Swatantra Party's founder and leader, told the Indian Express that he was trying to persuade Masani not to resign.
 ---
 
+## Summary
+
+This single-page Sunday Standard clipping reports that M. R. Masani resigned as president of the Swatantra Party. The report says he communicated his decision to the party's General Council, scheduled to meet on April 17 and 18, and linked his resignation to the party's poor showing in the mid-term elections.
+
+Masani is reported to have accepted personal responsibility for the party's plight and to have argued that accepting his resignation would set an example against politicians' tendency to make excuses while remaining in office. The clipping also reports that C. Rajagopalachari, the Swatantra Party's founder and leader, told the Indian Express that he was trying to persuade Masani not to resign.
+
 ## Key points
 
 - M. R. Masani resigned as president of the Swatantra Party.

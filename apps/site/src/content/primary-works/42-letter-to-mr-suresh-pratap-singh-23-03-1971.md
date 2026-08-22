@@ -50,6 +50,12 @@ summary: |-
   Masani invites Singh to meet him when Singh passes through Bombay. He also says that, because Singh wants to know Masani’s view of the election, he has enclosed a copy of a statement issued from Delhi on 20 March. The referenced statement is not included in this catalogued one-page letter.
 ---
 
+## Summary
+
+In this brief letter dated 23 March 1971, M. R. Masani replies to Mr. Suresh Pratap Singh after receiving his letter of 12 March. Masani accepts the election result as an expression of popular will, writing that “the voice of the people is supposed to be the voice of God,” and expresses regret about Bhamubabu’s poor performance.
+
+Masani invites Singh to meet him when Singh passes through Bombay. He also says that, because Singh wants to know Masani’s view of the election, he has enclosed a copy of a statement issued from Delhi on 20 March. The referenced statement is not included in this catalogued one-page letter.
+
 ## Key points
 
 - The letter is dated 23 March 1971 and is addressed to Mr. Suresh Pratap Singh.

@@ -50,6 +50,12 @@ summary: |-
   Pathik says he will try to ensure that the matter is handled appropriately before the convention. The letter is primarily an internal political communication about party merger negotiations, council support, procedural legitimacy, and preparations for a forthcoming convention.
 ---
 
+## Summary
+
+This one-page handwritten letter, dated 20 July 1974, is addressed to Minoo Masani by G. M. Prakash Pathik, a Swatantra Party office-holder in Moradabad. Pathik reports that, despite opposition to the proposed merger, the State Council has supported the move toward a new party. He explains that the relevant meeting was poorly attended and that influential members were absent, and refers to a draft resolution that he considers acceptable.
+
+Pathik says he will try to ensure that the matter is handled appropriately before the convention. The letter is primarily an internal political communication about party merger negotiations, council support, procedural legitimacy, and preparations for a forthcoming convention.
+
 ## Key points
 
 - The letter is dated 20 July 1974 and is addressed to Minoo Masani.

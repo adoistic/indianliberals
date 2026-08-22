@@ -43,6 +43,10 @@ summary: |-
   This handwritten New Year greeting card is dated 1 January 1991 and addressed to Minoo and Sheela. The sender thanks the recipients for their card and returns wishes for a happy and prosperous year, while explaining that a recent change in political circumstances has made a personal visit difficult.
 ---
 
+## Summary
+
+This handwritten New Year greeting card is dated 1 January 1991 and addressed to Minoo and Sheela. The sender thanks the recipients for their card and returns wishes for a happy and prosperous year, while explaining that a recent change in political circumstances has made a personal visit difficult.
+
 ## Key points
 
 - The communication is dated 1 January 1991.

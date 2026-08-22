@@ -46,6 +46,10 @@ summary: |-
   This two-page English-language telegram record documents a June 1969 exchange between Jayaprakash, writing from Patna, and Minoo Masani in Bombay. Jayaprakash expresses disappointment at not receiving Masani’s introduction to “Socialism Reconsidered,” which he says was promised, and closes with best wishes.
 ---
 
+## Summary
+
+This two-page English-language telegram record documents a June 1969 exchange between Jayaprakash, writing from Patna, and Minoo Masani in Bombay. Jayaprakash expresses disappointment at not receiving Masani’s introduction to “Socialism Reconsidered,” which he says was promised, and closes with best wishes.
+
 ## Key points
 
 - The document is an Indian Post and Telegraphs Department telegram and confirmation copy.

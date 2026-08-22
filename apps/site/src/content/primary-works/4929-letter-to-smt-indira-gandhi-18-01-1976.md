@@ -50,6 +50,10 @@ summary: |-
   In this letter dated January 18, 1976, Jayaprakash Narayan writes to Prime Minister Indira Gandhi after meeting N. G. Goray, who has shown him a letter jointly written by Goray and H. M. Patel. Narayan argues that steps should be taken to end the prevailing impasse and begin a dialogue.
 ---
 
+## Summary
+
+In this letter dated January 18, 1976, Jayaprakash Narayan writes to Prime Minister Indira Gandhi after meeting N. G. Goray, who has shown him a letter jointly written by Goray and H. M. Patel. Narayan argues that steps should be taken to end the prevailing impasse and begin a dialogue.
+
 ## Key points
 
 - The letter is addressed to Prime Minister Indira Gandhi and dated January 18, 1976.

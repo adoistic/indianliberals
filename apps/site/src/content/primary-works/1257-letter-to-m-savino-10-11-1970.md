@@ -43,6 +43,10 @@ summary: |-
   This untitled letter, written by M. R. Masani from New Delhi on 10 November 1970, responds to Rev. M. Savino's letter of the 10th. Masani reports that the Swatantra Parliamentary Group's Executive Committee has decided that its leader, Professor N. G. Ranga, should meet Savino's delegation within the next day or two. Masani explains that he cannot attend because he is leaving Delhi the following morning.
 ---
 
+## Summary
+
+This untitled letter, written by M. R. Masani from New Delhi on 10 November 1970, responds to Rev. M. Savino's letter of the 10th. Masani reports that the Swatantra Parliamentary Group's Executive Committee has decided that its leader, Professor N. G. Ranga, should meet Savino's delegation within the next day or two. Masani explains that he cannot attend because he is leaving Delhi the following morning.
+
 ## Key points
 
 - M. R. Masani wrote the letter from 2 Tughlak Road, New Delhi, on 10 November 1970.

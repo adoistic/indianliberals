@@ -44,6 +44,10 @@ summary: |-
   This one-page English telegram, dated April 25, 1970, is addressed to Mr. M. R. Masani at Swatantra Party headquarters in Bombay. It is issued on the letterhead of the Ministry for Industries and Public Relations and communicates an apology concerning the postponement of a visit.
 ---
 
+## Summary
+
+This one-page English telegram, dated April 25, 1970, is addressed to Mr. M. R. Masani at Swatantra Party headquarters in Bombay. It is issued on the letterhead of the Ministry for Industries and Public Relations and communicates an apology concerning the postponement of a visit.
+
 ## Key points
 
 - The document is a typed government telegram dated April 25, 1970.

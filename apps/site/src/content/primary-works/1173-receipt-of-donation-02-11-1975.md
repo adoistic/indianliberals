@@ -49,6 +49,12 @@ summary: |-
   The document has no expository content; it is a bookkeeping artifact from the last months of the Swatantra Party's organisational life in Bombay. Its interest is documentary: it evidences Minoo Masani's continued financial patronage of the party's Maharashtra unit during the Emergency period, only weeks after the June 1975 declaration.
 ---
 
+## Summary
+
+A single-page printed receipt from the Swatantra Party, Maharashtra Region (Sassoon Building, 143, Mahatma Gandhi Road, Bombay-1), acknowledging a donation received from Mr. M. R. Masani. Receipt No. 129, dated 2.11.1975, records the sum of Rs. Twenty Five only, described as a donation for the month of December 1975. The card carries the receiver's signature and is countersigned as issued by the Honorary Treasurer of the party.
+
+The document has no expository content; it is a bookkeeping artifact from the last months of the Swatantra Party's organisational life in Bombay. Its interest is documentary: it evidences Minoo Masani's continued financial patronage of the party's Maharashtra unit during the Emergency period, only weeks after the June 1975 declaration.
+
 ## Key points
 
 - Printed receipt form of the Swatantra Party, Maharashtra Region, headquartered at Sassoon Building, 143, Mahatma Gandhi Road, Bombay-1 (Tel No. 253085).

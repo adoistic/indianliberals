@@ -48,6 +48,10 @@ summary: |-
   This one-paragraph news item, datelined Madras, June 4, reports C. Rajagopalachari's statement that H. M. Patel, president of the Gujarat Swatantra Party, had indicated that party members had reconciled their differences and regretted their earlier conduct. The report says Patel assured Rajagopalachari that the Gujarat members would remain loyal to the party's central authority.
 ---
 
+## Summary
+
+This one-paragraph news item, datelined Madras, June 4, reports C. Rajagopalachari's statement that H. M. Patel, president of the Gujarat Swatantra Party, had indicated that party members had reconciled their differences and regretted their earlier conduct. The report says Patel assured Rajagopalachari that the Gujarat members would remain loyal to the party's central authority.
+
 ## Key points
 
 - The report concerns an internal dispute within the Gujarat unit of the Swatantra Party.

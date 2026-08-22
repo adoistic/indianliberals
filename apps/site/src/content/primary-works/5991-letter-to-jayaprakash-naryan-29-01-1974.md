@@ -46,6 +46,12 @@ summary: |-
   Masani also reports that Deshpande has described his activities and those of his colleagues as an effort to make progress. The letter closes on a personal note: Masani says he has not heard from Narayan for months, expresses pleasure at the prospect of seeing his handwriting again, and wishes him success in his efforts. A copy of the telegram is noted as enclosed, though the telegram itself is not present on the rendered page.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani to Jayaprakash Narayan, dated 29 January 1974, concerns Narayan's possible participation in an upcoming seminar. Masani says he has sent a telegram and is forwarding a copy of the letter because Govindrao Deshpande had told him that Narayan had moved to Patna, apparently to seek support for a candidate's election in the U.P. He asks Narayan to confirm his location and indicates that the seminar preparations are already underway.
+
+Masani also reports that Deshpande has described his activities and those of his colleagues as an effort to make progress. The letter closes on a personal note: Masani says he has not heard from Narayan for months, expresses pleasure at the prospect of seeing his handwriting again, and wishes him success in his efforts. A copy of the telegram is noted as enclosed, though the telegram itself is not present on the rendered page.
+
 ## Key points
 
 - Masani writes to Jayaprakash Narayan on 29 January 1974 from Bombay.

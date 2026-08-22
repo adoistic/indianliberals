@@ -48,6 +48,10 @@ summary: |-
   This single-page English telegram is addressed to M. R. Masani at Mahatma Gandhi Road, Bombay. The sender expresses shock on hearing of an announced resignation and urges Masani to reconsider it. The sender's name appears to read “Y G GOY[?]”, but the final surname is obscured.
 ---
 
+## Summary
+
+This single-page English telegram is addressed to M. R. Masani at Mahatma Gandhi Road, Bombay. The sender expresses shock on hearing of an announced resignation and urges Masani to reconsider it. The sender's name appears to read “Y G GOY[?]”, but the final surname is obscured.
+
 ## Key points
 
 - The document is a one-page telegram form issued through the Indian Posts and Telegraphs Department.

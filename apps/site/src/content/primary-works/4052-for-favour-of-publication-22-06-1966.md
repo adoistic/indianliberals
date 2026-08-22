@@ -51,6 +51,12 @@ summary: |-
   Ranga urged the government to set an example through fiscal discipline and argued that the government, as then constituted, lacked the public confidence needed to implement the proposed measures. He called on the Prime Minister to consider steps to take the country out of its present plight. Gandhi explained the circumstances that had made devaluation necessary and promised to give careful consideration to the policies placed before her. The sheet is an office-issued communication marked both “FOR FAVOUR OF PUBLICATION” and “NOT TO BE PUBLISHED.”
 ---
 
+## Summary
+
+This one-page Swatantra Party Parliamentary Office press communication, dated June 22, 1966, reports a meeting between Prof. N. G. Ranga and M. R. Masani, the party's parliamentary leader and deputy leader, and Prime Minister Indira Gandhi. The meeting concerned the implications of devaluation and a note proposing both long-term policies and immediate relief measures so that the sacrifices involved would not be wasted and the policy's corrective effects could operate fully.
+
+Ranga urged the government to set an example through fiscal discipline and argued that the government, as then constituted, lacked the public confidence needed to implement the proposed measures. He called on the Prime Minister to consider steps to take the country out of its present plight. Gandhi explained the circumstances that had made devaluation necessary and promised to give careful consideration to the policies placed before her. The sheet is an office-issued communication marked both “FOR FAVOUR OF PUBLICATION” and “NOT TO BE PUBLISHED.”
+
 ## Key points
 
 - The document reports a meeting between Swatantra Party parliamentary leaders N. G. Ranga and M. R. Masani and Prime Minister Indira Gandhi.

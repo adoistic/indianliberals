@@ -56,6 +56,12 @@ summary: |-
   The article places Masani’s case in the context of earlier proposals for autonomous broadcasting, including recommendations by government-appointed committees and a private bill prepared by the B. G. Verghese Committee. It describes the Government’s reliance on Article 19(2), including public order and state security, while noting that the judges questioned whether those grounds justified refusing a licence. The report concludes that the litigation may not immediately end the state’s control, but could generate useful legal debate and provide a precedent for future challenges.
 ---
 
+## Summary
+
+In this rendered article, Harini Swamy reports on M. R. Masani’s petition before the Bombay High Court challenging the Union Government’s monopoly over radio and television broadcasting. Masani, joined by former All India Radio director-general P. C. Chatterji, argues that the monopoly is illegal and unconstitutional, and asks the court to compel the Government to license a private broadcasting station. The petition invokes Article 19, especially freedom of expression, and contends that denying citizens the right to establish their own stations violates the Constitution.
+
+The article places Masani’s case in the context of earlier proposals for autonomous broadcasting, including recommendations by government-appointed committees and a private bill prepared by the B. G. Verghese Committee. It describes the Government’s reliance on Article 19(2), including public order and state security, while noting that the judges questioned whether those grounds justified refusing a licence. The report concludes that the litigation may not immediately end the state’s control, but could generate useful legal debate and provide a precedent for future challenges.
+
 ## Key points
 
 - M. R. Masani and P. C. Chatterji petition the Bombay High Court against the Government’s radio and television broadcasting monopoly.

@@ -46,6 +46,12 @@ summary: |-
   The enclosed typed carbon copy, dated 28 September 1961, is from the Central Bank of India Limited to the New India Assurance Co. Ltd. It concerns Guarantee Policy No. MB/108 for Rs. 4 lakhs issued in favour of Shri Kamakhya Narayan Singh, Raja Bahadur of Ramgarh. The bank reports that the first monthly instalment of Rs. 20,000, due around 25 September 1961 on an advance taken around 24 August, has not been paid. It states that the Raja Bahadur has been advised to make the payment and that the bank will provide a further update.
 ---
 
+## Summary
+
+This two-page English-language archival letter file, dated 1961, begins with a handwritten memo from V. C. Vaidya to Minoo Masani dated 3 October 1961. Vaidya encloses a copy of a letter received from the Central Bank of India and asks Masani to ensure that the necessary action is taken. The memo appears on New India letterhead and is signed by Vaidya.
+
+The enclosed typed carbon copy, dated 28 September 1961, is from the Central Bank of India Limited to the New India Assurance Co. Ltd. It concerns Guarantee Policy No. MB/108 for Rs. 4 lakhs issued in favour of Shri Kamakhya Narayan Singh, Raja Bahadur of Ramgarh. The bank reports that the first monthly instalment of Rs. 20,000, due around 25 September 1961 on an advance taken around 24 August, has not been paid. It states that the Raja Bahadur has been advised to make the payment and that the bank will provide a further update.
+
 ## Key points
 
 - V. C. Vaidya writes to Minoo Masani on 3 October 1961.

@@ -52,6 +52,12 @@ summary: |-
   The letter urges leaders of democratic opposition parties to overcome ideological differences and establish a common platform centred on resolute national defence. It warns that failure to provide effective leadership could deepen public disillusionment and produce support for communism, invoking China as an example. The second page calls for democratic parties to unite to defeat what the sender describes as a consolidating “Congress-Communist Axis.” Handwritten annotations and signatures appear on both pages, but the sender’s identity remains uncertain.
 ---
 
+## Summary
+
+This two-page letter, dated June 1963 and addressed to C. Rajagopalachari, presents India as being at a dangerous political crossroads. The sender interprets three recent defeats of Congress candidates as evidence of public dissatisfaction with Congress policies, corruption, self-aggrandisement, and failure to defend the country. The letter cautions opposition leaders not to mistake these victories for popular endorsement of their own ideologies; instead, it sees them as expressions of frustration and a search for more dedicated leadership.
+
+The letter urges leaders of democratic opposition parties to overcome ideological differences and establish a common platform centred on resolute national defence. It warns that failure to provide effective leadership could deepen public disillusionment and produce support for communism, invoking China as an example. The second page calls for democratic parties to unite to defeat what the sender describes as a consolidating “Congress-Communist Axis.” Handwritten annotations and signatures appear on both pages, but the sender’s identity remains uncertain.
+
 ## Key points
 
 - The letter describes India in 1963 as facing a critical political juncture.

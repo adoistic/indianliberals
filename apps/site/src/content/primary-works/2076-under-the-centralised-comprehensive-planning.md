@@ -51,6 +51,12 @@ summary: |-
   The cartoon traces the consequences through a sequence of panels: steel plants take 10–15 years to produce steel, their construction and operation costs create purchasing power, and consumers then seek essential goods such as foodgrains, bicycles, shirts, and saris. Because supplies of foodgrains and consumer goods do not expand in proportion to demand, shortages and price increases result. The page concludes that essential sectors have been starved of the capital investment they require.
 ---
 
+## Summary
+
+This single-page illustrated political argument critiques centralised comprehensive planning by depicting the government's prioritisation of heavy industries, followed by producer goods and consumer goods, while agriculture is left behind. It argues that heavy industry is highly capital-intensive and diverts scarce capital from agricultural development, so food production cannot keep pace with rising demand.
+
+The cartoon traces the consequences through a sequence of panels: steel plants take 10–15 years to produce steel, their construction and operation costs create purchasing power, and consumers then seek essential goods such as foodgrains, bicycles, shirts, and saris. Because supplies of foodgrains and consumer goods do not expand in proportion to demand, shortages and price increases result. The page concludes that essential sectors have been starved of the capital investment they require.
+
 ## Key points
 
 - Centralised comprehensive planning is shown as prioritising heavy industries over agriculture and consumer goods.

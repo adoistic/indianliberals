@@ -57,6 +57,12 @@ summary: |-
   The report also presents Upadhyaya’s criticism of Swatantra’s handling of Nathu Singh’s candidacy, which he said had changed from an independent contest to a Swatantra ticket. In its closing paragraph, the report turns to Kashmir: Upadhyaya assigns equal responsibility to Congress and Swatantra for the “bunglings” there, refers to proposed settlements involving Nehru and Sheikh Abdullah, and says that the Jan Sangh would make every sacrifice to save Kashmir. The document has no printed author byline, publisher, issuer, or table of contents.
 ---
 
+## Summary
+
+This one-page English press report, headed “ORGANISER” and dated May 18, 1964, records remarks attributed to Deendayal Upadhyaya at an election meeting in Bhilwara on May 12. Upadhyaya accused the Swatantra Party of deliberately violating an electoral understanding. He said that he and M. R. Masani had jointly agreed that, where both parties had previously contested a seat, one party would receive a prior option to contest a by-election. On this account, he argued that Swatantra should not have contested the Bhilwara seat against the Bharatiya Jan Sangh, and described its action as improper and politically immoral.
+
+The report also presents Upadhyaya’s criticism of Swatantra’s handling of Nathu Singh’s candidacy, which he said had changed from an independent contest to a Swatantra ticket. In its closing paragraph, the report turns to Kashmir: Upadhyaya assigns equal responsibility to Congress and Swatantra for the “bunglings” there, refers to proposed settlements involving Nehru and Sheikh Abdullah, and says that the Jan Sangh would make every sacrifice to save Kashmir. The document has no printed author byline, publisher, issuer, or table of contents.
+
 ## Key points
 
 - Deendayal Upadhyaya accused the Swatantra Party of violating a prior electoral understanding.

@@ -49,6 +49,12 @@ summary: |-
   The letter also considers possible political contacts and electoral strategy. It refers to Masani and Mody, suggests that their views should be solicited, and asks whether Raju has heard from Narayan. The writer mentions having collected maps and having obtained a copy of the party’s 1952 manifesto, while asking about prospects for securing additional candidates and electoral support. The date, precise political context, and some portions of the handwriting remain uncertain.
 ---
 
+## Summary
+
+This undated inland letter card, apparently signed by Eruch Mehta and addressed to S. V. Raju, discusses preparations for a forthcoming election. The writer expects an election within roughly six to eight months and urges attention to candidate selection, campaign financing, and the organisation of the party. He is concerned that the party may lack sufficient funds and asks Raju to advise on these matters.
+
+The letter also considers possible political contacts and electoral strategy. It refers to Masani and Mody, suggests that their views should be solicited, and asks whether Raju has heard from Narayan. The writer mentions having collected maps and having obtained a copy of the party’s 1952 manifesto, while asking about prospects for securing additional candidates and electoral support. The date, precise political context, and some portions of the handwriting remain uncertain.
+
 ## Key points
 
 - The writer anticipates an election within approximately six to eight months.

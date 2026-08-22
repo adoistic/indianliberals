@@ -49,6 +49,12 @@ summary: |-
   The document is administrative rather than argumentative: it records the ministry’s inability to accept the question and closes with the formal signature of Shri V. Sahai, Under Secretary. The second page reproduces the communication in Hindi, upside down in the scan.
 ---
 
+## Summary
+
+This untitled official letter from the Lok Sabha Secretariat’s Question Branch, dated 18 November 1967, is addressed to Shri M. R. Masani, M.P. It informs him that the Minister of External Affairs cannot accept his short-notice question, numbered 55, concerning the High Commission of Canada, handwritten as “designated by U.K.”
+
+The document is administrative rather than argumentative: it records the ministry’s inability to accept the question and closes with the formal signature of Shri V. Sahai, Under Secretary. The second page reproduces the communication in Hindi, upside down in the scan.
+
 ## Key points
 
 - The letter was issued by the Lok Sabha Secretariat’s Question Branch in New Delhi.

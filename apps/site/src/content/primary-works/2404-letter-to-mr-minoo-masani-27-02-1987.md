@@ -49,6 +49,12 @@ summary: |-
   Sinha invites Masani to provide details if the car was transferred to another person, so that the authorities can consider recovering the arrears from the transferee. He also explains that properly notifying the Regional Transport Officer would have avoided the inconvenience caused by the recovery proceedings, and closes by assuring Masani that there is no intention to harass him while requesting his cooperation.
 ---
 
+## Summary
+
+This official letter, dated 27 February 1987, is from A. P. Sinha, Collector of the City of Bombay and Bombay Suburban District, to M. R. Masani. It concerns arrears of motor-vehicle tax relating to car No. MRG 2347, which Regional Transport Office records show as registered in Masani’s name. Sinha acknowledges Masani’s clarification that the car belonged to the Swatantra Party but states that, absent a recorded transfer, the tax liability remains with the registered owner.
+
+Sinha invites Masani to provide details if the car was transferred to another person, so that the authorities can consider recovering the arrears from the transferee. He also explains that properly notifying the Regional Transport Officer would have avoided the inconvenience caused by the recovery proceedings, and closes by assuring Masani that there is no intention to harass him while requesting his cooperation.
+
 ## Key points
 
 - The letter is dated 27 February 1987 and is issued from the Collector's Office in Bombay.

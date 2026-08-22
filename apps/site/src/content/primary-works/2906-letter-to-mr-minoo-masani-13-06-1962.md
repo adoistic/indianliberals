@@ -51,6 +51,12 @@ summary: |-
   The letter also contains a personal and practical request: Shroff asks Masani to arrange a loan for a firm and to communicate with another party concerning the valuation of farm land as security. A notation on the stationery refers to the Chairman of the Housing Committee and Deputy Speaker, Shri S. V. Krishna Rao. The page bears a Lok Sabha receipt stamp dated 15 June 1962.
 ---
 
+## Summary
+
+In this handwritten letter dated 13 June 1962, A. D. Shroff writes to Minoo Masani about amendments to the Finance Bill and indicates that he is preparing to speak on the matter in Parliament. He says he will send Masani a copy of his speech and refers to speaking on behalf of a large capitalist interest or constituency, although parts of the handwriting are difficult to decipher.
+
+The letter also contains a personal and practical request: Shroff asks Masani to arrange a loan for a firm and to communicate with another party concerning the valuation of farm land as security. A notation on the stationery refers to the Chairman of the Housing Committee and Deputy Speaker, Shri S. V. Krishna Rao. The page bears a Lok Sabha receipt stamp dated 15 June 1962.
+
 ## Key points
 
 - The letter is dated 13 June 1962 and was received by the Lok Sabha on 15 June 1962.

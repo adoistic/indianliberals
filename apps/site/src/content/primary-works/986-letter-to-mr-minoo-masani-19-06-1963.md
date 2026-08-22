@@ -46,6 +46,10 @@ summary: |-
   This single-page letter, dated June 19, 1963, is from J. B. Kripalani in Lucknow to Minoo Masani. Kripalani says that, after returning from a week-long tour of his constituency, he has read Masani's letters of June 8, 11, and 17 and is sending him a copy of a letter written that day to C. Rajagopalachari (Rajaji).
 ---
 
+## Summary
+
+This single-page letter, dated June 19, 1963, is from J. B. Kripalani in Lucknow to Minoo Masani. Kripalani says that, after returning from a week-long tour of his constituency, he has read Masani's letters of June 8, 11, and 17 and is sending him a copy of a letter written that day to C. Rajagopalachari (Rajaji).
+
 ## Key points
 
 - The letter is dated June 19, 1963, and was sent from Lucknow.

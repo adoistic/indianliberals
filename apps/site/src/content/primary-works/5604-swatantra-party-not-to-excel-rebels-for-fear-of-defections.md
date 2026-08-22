@@ -47,6 +47,10 @@ summary: |-
   This one-page English newspaper clipping reports that the Swatantra Party is not expected to expel rebels in its Gujarat unit, despite their having voted against the party’s official candidate in the Rajya Sabha by-election. The report attributes the position to concern that disciplinary action could prompt defections and weaken the party.
 ---
 
+## Summary
+
+This one-page English newspaper clipping reports that the Swatantra Party is not expected to expel rebels in its Gujarat unit, despite their having voted against the party’s official candidate in the Rajya Sabha by-election. The report attributes the position to concern that disciplinary action could prompt defections and weaken the party.
+
 ## Key points
 
 - The Swatantra Party is reportedly reluctant to expel rebels in its Gujarat unit.

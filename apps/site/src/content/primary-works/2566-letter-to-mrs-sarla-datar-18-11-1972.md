@@ -47,6 +47,10 @@ summary: |-
   Dated 18 November 1972, this one-page administrative letter from F. C. Cama, General Secretary of the Swatantra Party's Bombay Region, informs Mrs. Sarla Datar that the Regional Executive Committee has unanimously accepted her resignation as Joint Treasurer. The committee records its appreciation for her services and expresses the hope that she will continue to take an active interest in the party.
 ---
 
+## Summary
+
+Dated 18 November 1972, this one-page administrative letter from F. C. Cama, General Secretary of the Swatantra Party's Bombay Region, informs Mrs. Sarla Datar that the Regional Executive Committee has unanimously accepted her resignation as Joint Treasurer. The committee records its appreciation for her services and expresses the hope that she will continue to take an active interest in the party.
+
 ## Key points
 
 - The letter is dated 18th November 1972.

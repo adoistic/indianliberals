@@ -48,6 +48,12 @@ summary: |-
   Dhillon replies that he will take the matter up with the Minister of Parliamentary Affairs and, if necessary, convene a meeting of all leaders of Parties and Groups in the Lok Sabha to consider the proposal. The letter is procedural rather than substantive: it does not endorse or reject the reform but records the Speaker's willingness to route the suggestion through the appropriate parliamentary channels.
 ---
 
+## Summary
+
+This is a brief, single-page official reply from Dr. Gurdial Singh Dhillon, Speaker of the Lok Sabha, to Minoo Masani, M.P., dated 11 August 1970 and issued on Speaker's House letterhead (20 Akbar Road, New Delhi). Dhillon acknowledges receipt of Masani's letter of 6 August 1970, in which Masani had proposed that the existing Consultative Committees attached to Ministries be converted into Parliamentary Committees.
+
+Dhillon replies that he will take the matter up with the Minister of Parliamentary Affairs and, if necessary, convene a meeting of all leaders of Parties and Groups in the Lok Sabha to consider the proposal. The letter is procedural rather than substantive: it does not endorse or reject the reform but records the Speaker's willingness to route the suggestion through the appropriate parliamentary channels.
+
 ## Key points
 
 - Single-page official letter from Dr. Gurdial Singh Dhillon, Speaker of the Lok Sabha, to Minoo Masani, M.P.

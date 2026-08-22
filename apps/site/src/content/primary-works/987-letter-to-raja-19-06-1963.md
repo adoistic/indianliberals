@@ -47,6 +47,12 @@ summary: |-
   Kripalani asks Raja to help arrange a meeting among himself, Jayaprakash Narayan, and Masani, while noting that Masani may be more likely to reach Narayan. He also discusses publication of his explanatory notes on the six-point programme, agreeing that the article may be cut but requesting a copy of the final arrangement of its sections. The letter records political coordination and publication-related concerns within a contemporary liberal political network, but does not identify the recipient more fully.
 ---
 
+## Summary
+
+In this two-page letter dated June 19, 1963, J. B. Kripalani writes to a recipient addressed as “Raja” after returning from his constituency, where he thanked voters following an election. He encloses copies of two letters from Minoo Masani and explains that he has already sent Jayaprakash Narayan his Unity Conference speech and an explanation of the six-point common programme, but has received no reply because Narayan is difficult to contact.
+
+Kripalani asks Raja to help arrange a meeting among himself, Jayaprakash Narayan, and Masani, while noting that Masani may be more likely to reach Narayan. He also discusses publication of his explanatory notes on the six-point programme, agreeing that the article may be cut but requesting a copy of the final arrangement of its sections. The letter records political coordination and publication-related concerns within a contemporary liberal political network, but does not identify the recipient more fully.
+
 ## Key points
 
 - The letter is dated June 19, 1963, and was sent from 11, Gautam Palli, Lucknow.

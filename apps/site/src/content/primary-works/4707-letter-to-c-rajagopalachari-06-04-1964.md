@@ -50,6 +50,12 @@ summary: |-
   Masani urges Rajagopalachari to write on Kashmir and India’s relations with Pakistan in Swarajya, arguing that the Swatantra Party should remain slightly ahead of public opinion. He proposes that early elections, accompanied by United Nations observers, might allow the question of a plebiscite to be bypassed, citing North Borneo and Malaysia as a precedent. He acknowledges opposition within the party from Gayatri Devi and Piloo Mody, but says that Rajagopalachari’s and his own position has support from the parliamentary group in Delhi and from Ranga.
 ---
 
+## Summary
+
+In this letter dated 6 April 1964, Minoo Masani writes to C. Rajagopalachari (“Rajaji”) about the successful Bombay City Convention and a speech on Kashmir and Pakistan. He reports that the Convention was well received and encloses a newspaper clipping in case the speech was not covered by the Madras press.
+
+Masani urges Rajagopalachari to write on Kashmir and India’s relations with Pakistan in Swarajya, arguing that the Swatantra Party should remain slightly ahead of public opinion. He proposes that early elections, accompanied by United Nations observers, might allow the question of a plebiscite to be bypassed, citing North Borneo and Malaysia as a precedent. He acknowledges opposition within the party from Gayatri Devi and Piloo Mody, but says that Rajagopalachari’s and his own position has support from the parliamentary group in Delhi and from Ranga.
+
 ## Key points
 
 - Masani reports that the Bombay City Convention and its associated public meeting went well.

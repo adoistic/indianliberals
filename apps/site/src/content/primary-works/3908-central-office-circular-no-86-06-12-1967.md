@@ -48,6 +48,10 @@ summary: |-
   This one-page Swatantra Party Central Office circular, dated December 6, 1967, requests a complete nationwide list of retired Government servants who were members of the party. Issued by Executive Secretary S. V. Raju, the circular asks recipients to provide, for each person, the last position held in Government, present location or occupation, length of party membership, and current position within the Swatantra Party.
 ---
 
+## Summary
+
+This one-page Swatantra Party Central Office circular, dated December 6, 1967, requests a complete nationwide list of retired Government servants who were members of the party. Issued by Executive Secretary S. V. Raju, the circular asks recipients to provide, for each person, the last position held in Government, present location or occupation, length of party membership, and current position within the Swatantra Party.
+
 ## Key points
 
 - The document is Central Office Circular No. 86 of the Swatantra Party.

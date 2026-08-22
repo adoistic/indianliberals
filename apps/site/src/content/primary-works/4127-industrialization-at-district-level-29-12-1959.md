@@ -54,6 +54,12 @@ summary: |-
   Narayan links decentralisation to both social vitality and economic development. He says large-scale industrialisation has weakened community life and made people mechanical, while village communities should develop industries suited to their own needs. He proposes that at least 60 per cent of industrial development should occur at the district level, with the remainder divided between the state and central levels. The report also records his concern that elections alone do not constitute meaningful democracy: citizens must participate actively rather than merely cast ballots at periodic intervals.
 ---
 
+## Summary
+
+In this newspaper report, Jayaprakash Narayan argues that democracy in India depends on translating Gram Raj into effective local self-government. He presents the district as the appropriate level for industrial development and calls for administrative powers to be devolved to village panchayats in Rajasthan and Andhra. Without such decentralisation, he warns, India could face either chaos or dictatorship; village panchayats, he suggests, must be revived through common agreement or direct voting rather than simply created from above.
+
+Narayan links decentralisation to both social vitality and economic development. He says large-scale industrialisation has weakened community life and made people mechanical, while village communities should develop industries suited to their own needs. He proposes that at least 60 per cent of industrial development should occur at the district level, with the remainder divided between the state and central levels. The report also records his concern that elections alone do not constitute meaningful democracy: citizens must participate actively rather than merely cast ballots at periodic intervals.
+
 ## Key points
 
 - Gram Raj must be implemented through genuine local self-government.

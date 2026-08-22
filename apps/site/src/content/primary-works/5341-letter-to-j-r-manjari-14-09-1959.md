@@ -45,6 +45,10 @@ summary: |-
   This single-page letter, dated 14 September 1959, is from Miss B. S. Mirza, secretary to M. R. Masani, to Mr. J. R. Manjeri. It acknowledges Manjeri's letter of 3 September concerning the reorganisation of Bombay State and explains that Masani has read it and will take Manjeri's views into account.
 ---
 
+## Summary
+
+This single-page letter, dated 14 September 1959, is from Miss B. S. Mirza, secretary to M. R. Masani, to Mr. J. R. Manjeri. It acknowledges Manjeri's letter of 3 September concerning the reorganisation of Bombay State and explains that Masani has read it and will take Manjeri's views into account.
+
 ## Key points
 
 - The letter is dated 14 September 1959.

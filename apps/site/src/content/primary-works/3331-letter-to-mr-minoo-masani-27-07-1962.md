@@ -43,6 +43,10 @@ summary: |-
   This one-page English letter, dated July 1962, is from Dr. B. N. Singh, a Lok Sabha member, to M. R. Masani. Singh acknowledges Masani's letter concerning a bank transaction and says he has passed it to Thakur Bateshwar Prasad Singh, whom he identifies as the constituted attorney of Raja Bahadur K. N. Singh. He adds that Thakur B. P. Singh has received a similar letter from Masani.
 ---
 
+## Summary
+
+This one-page English letter, dated July 1962, is from Dr. B. N. Singh, a Lok Sabha member, to M. R. Masani. Singh acknowledges Masani's letter concerning a bank transaction and says he has passed it to Thakur Bateshwar Prasad Singh, whom he identifies as the constituted attorney of Raja Bahadur K. N. Singh. He adds that Thakur B. P. Singh has received a similar letter from Masani.
+
 ## Key points
 
 - The letter is addressed to M. R. Masani and concerns a bank transaction.

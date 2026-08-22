@@ -48,6 +48,10 @@ summary: |-
   This single-page English letter, apparently written by Brij Behari from Alwar on 2 April 1968, is addressed to N. Dandekar, M.P., General Secretary of the Swatantra Party. Behari requests an emergency meeting of the party’s General Council to discuss Minoo Masani’s resignation from the National Executive and the Central Parliamentary Board.
 ---
 
+## Summary
+
+This single-page English letter, apparently written by Brij Behari from Alwar on 2 April 1968, is addressed to N. Dandekar, M.P., General Secretary of the Swatantra Party. Behari requests an emergency meeting of the party’s General Council to discuss Minoo Masani’s resignation from the National Executive and the Central Parliamentary Board.
+
 ## Key points
 
 - The letter is addressed to N. Dandekar, M.P., at the Swatantra Party’s Central Office in Bombay.

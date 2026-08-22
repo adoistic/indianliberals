@@ -50,6 +50,12 @@ summary: |-
   Rao regrets that the convention will lose the opportunity to benefit from Dandekar’s “studied view” as an Indian Civil Service administrator, thinker, and intellectual. He asks Dandekar, if his health permits, to contribute a few words to a symposium titled “Future of parliamentary democracy,” either as a typed paper or through permission to reproduce a recent article or lecture in the convention souvenir.
 ---
 
+## Summary
+
+This one-page English letter, dated September 7, 1967, is written by P. G. Rao, Convener of the Editorial Board of the Bharatiya Kranti Dal National Convention, to N. Dandekar. Rao thanks Dandekar for his response and expresses concern about his impending operation, wishing him a speedy recovery and convalescence.
+
+Rao regrets that the convention will lose the opportunity to benefit from Dandekar’s “studied view” as an Indian Civil Service administrator, thinker, and intellectual. He asks Dandekar, if his health permits, to contribute a few words to a symposium titled “Future of parliamentary democracy,” either as a typed paper or through permission to reproduce a recent article or lecture in the convention souvenir.
+
 ## Key points
 
 - The letter is dated September 7, 1967, and is sent from Indore-2.

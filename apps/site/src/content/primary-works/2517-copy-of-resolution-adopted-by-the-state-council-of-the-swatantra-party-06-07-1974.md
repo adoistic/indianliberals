@@ -52,6 +52,12 @@ summary: |-
   The resolution also warns that the continued existence of the Congress and Jan Sangh would frustrate the development of a two-party system and its electoral benefits, while potentially leaving those two parties as the main beneficiaries. It asks the party’s office-bearers to convene another meeting before the National Convention so that the matter can be reconsidered. If dissolution is nevertheless approved, the Maharashtra State Council declares that it will retain the Swatantra identity, message, and flag.
 ---
 
+## Summary
+
+This one-page resolution records the Maharashtra State Council of the Swatantra Party’s opposition to a proposal that the party dissolve along with six other parties to facilitate the formation of a new national party. The Council argues that the Swatantra Party’s principles and policies remain valid and that the proposed new party, built around a broad and vague programme, would not produce a genuinely national alternative because its participants would disagree over policy interpretation.
+
+The resolution also warns that the continued existence of the Congress and Jan Sangh would frustrate the development of a two-party system and its electoral benefits, while potentially leaving those two parties as the main beneficiaries. It asks the party’s office-bearers to convene another meeting before the National Convention so that the matter can be reconsidered. If dissolution is nevertheless approved, the Maharashtra State Council declares that it will retain the Swatantra identity, message, and flag.
+
 ## Key points
 
 - The Maharashtra State Council considered and rejected a proposal to dissolve the Swatantra Party as part of the formation of a new party.

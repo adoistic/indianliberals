@@ -44,6 +44,12 @@ summary: |-
   Because Mr. Rao replied that only the manufacturers themselves can specially expedite delivery, Sidhu now asks Masani to intervene again whenever he has occasion to speak with the manufacturers. He explains the urgency: he is contesting the "comming election" and cannot campaign effectively without reliable transport. Invoking Masani's "vast resources and connection in Bombay," he apologises for troubling him over a matter that is minor for Masani but pressing for himself, and notes that delivery any time in April would be acceptable. The letter is signed "Yours sincerely" and hand-signed above the typed name Bhai Gobinder Singh Sidhu.
 ---
 
+## Summary
+
+A one-page typed letter dated 13 March 1980 from Bhai Gobinder Singh Sidhu — a member of the Cotton Advisory Board under the Government of India's Ministry of Industry, writing on his official letterhead from V. & P. O. Bhucho Khurd, District Bhatinda — to Minoo Masani. The letter is a personal request rather than a policy document. Sidhu opens with pleasantries, regrets that Masani had been too busy to grant him an interview on an earlier occasion, and thanks him warmly for having written on his behalf to Mr. Rao, Manager of the Bombay Cycle & Motor Agency Limited, urging expedited delivery of a Premier Padmani car Sidhu had booked on 27 April 1979.
+
+Because Mr. Rao replied that only the manufacturers themselves can specially expedite delivery, Sidhu now asks Masani to intervene again whenever he has occasion to speak with the manufacturers. He explains the urgency: he is contesting the "comming election" and cannot campaign effectively without reliable transport. Invoking Masani's "vast resources and connection in Bombay," he apologises for troubling him over a matter that is minor for Masani but pressing for himself, and notes that delivery any time in April would be acceptable. The letter is signed "Yours sincerely" and hand-signed above the typed name Bhai Gobinder Singh Sidhu.
+
 ## Key points
 
 - Correspondent is Bhai Gobinder Singh Sidhu, Member of the Cotton Advisory Board (Ministry of Industry, Govt. of India), writing from Bhucho Khurd, District Bhatinda.

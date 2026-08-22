@@ -50,6 +50,12 @@ summary: |-
   Masani requests a discussion so that Ruthnaswamy will send a definitive reply by telegram, enabling action to proceed. He warns that postponing the action until 6 September, as Ruthnaswamy proposed, would have unfortunate consequences. The document is a confirmatory copy delivered by Express Delivery and contains no further explanation of the resolution or the consequences at issue.
 ---
 
+## Summary
+
+This one-page English telegram, sent by M. R. Masani from the Swatantra Party Central Office on 24 August 1964, asks C. Rajagopalachari to intervene with Ruthnaswamy. Masani reports that Ruthnaswamy has unexpectedly declined to approve a draft resolution that Rajagopalachari had already approved and forwarded with Circular No. 23 of 18 August.
+
+Masani requests a discussion so that Ruthnaswamy will send a definitive reply by telegram, enabling action to proceed. He warns that postponing the action until 6 September, as Ruthnaswamy proposed, would have unfortunate consequences. The document is a confirmatory copy delivered by Express Delivery and contains no further explanation of the resolution or the consequences at issue.
+
 ## Key points
 
 - M. R. Masani sent the communication from the Swatantra Party Central Office in Bombay on 24 August 1964.

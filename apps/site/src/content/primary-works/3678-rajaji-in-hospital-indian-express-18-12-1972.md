@@ -47,6 +47,10 @@ summary: |-
   This one-page Indian Express clipping, dated 18 December 1972, reports that C. Rajagopalachari (Rajaji), identified as the founder-leader of the Swatantra Party, had been admitted to General Hospital for treatment of uraemia. The report states that hospital sources found no cause for anxiety and described his condition as satisfactory.
 ---
 
+## Summary
+
+This one-page Indian Express clipping, dated 18 December 1972, reports that C. Rajagopalachari (Rajaji), identified as the founder-leader of the Swatantra Party, had been admitted to General Hospital for treatment of uraemia. The report states that hospital sources found no cause for anxiety and described his condition as satisfactory.
+
 ## Key points
 
 - The clipping is dated 18 December 1972.

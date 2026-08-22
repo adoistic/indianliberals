@@ -51,6 +51,12 @@ summary: |-
   The announced agenda combines routine organizational business with political questions. It includes confirmation of the previous council minutes, consideration of M. R. Masani's resignation as President, assessment of party organization in light of the recent parliamentary and state-assembly elections in Orissa and Tamil Nadu, discussion of the current political situation, and matters referred by the National Executive. The circular is signed by R. C. Cooper as General Secretary.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated April 2, 1971, confirms that the party's General Council will meet in Bombay on April 17–18, 1971. It specifies the venue, meeting hours, and arrangements for members' attendance, including hotel accommodation and rail or air bookings.
+
+The announced agenda combines routine organizational business with political questions. It includes confirmation of the previous council minutes, consideration of M. R. Masani's resignation as President, assessment of party organization in light of the recent parliamentary and state-assembly elections in Orissa and Tamil Nadu, discussion of the current political situation, and matters referred by the National Executive. The circular is signed by R. C. Cooper as General Secretary.
+
 ## Key points
 
 - The circular is dated April 2, 1971, and issued from the Swatantra Party's national headquarters in Bombay.

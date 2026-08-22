@@ -60,6 +60,14 @@ summary: |-
   Masani further defends free entry, competitive pricing, private investment, and consumer choice against industrial licensing and planning controls. The later questioning tests his claims about political influence, public-sector accountability, mixed economies, infrastructure, and the findings of the Monopolies Inquiry Commission. Masani maintains that licensing itself has helped concentrate business and that competition, rather than administrative control, is the primary remedy. The rendered pages end during continued questioning about Tata’s licensing correspondence; the transcript therefore does not show the committee’s final disposition.
 ---
 
+## Summary
+
+This 1968 committee transcript records M. R. Masani presenting the Swatantra Party’s minority view on the Monopolies and Restrictive Trade Practices Bill, 1967, before a Joint Select Committee of Parliament. Masani begins by affirming opposition to monopoly but distinguishes monopoly from mere size and argues for “maximum competition and minimum monopoly or social control.” He criticises the Bill as poorly drafted, excessively broad, and unlike the draft recommended by the Das Gupta Commission, warning that it could give officials arbitrary authority over industrial trade and enterprise.
+
+Across the evidence, Masani argues that the Bill’s exclusion of State enterprises is fatal to its purpose because government monopolies are, in his view, more dangerous than private ones: they combine political and industrial power and are insulated from effective public or parliamentary control. He cites State enterprises including Hindustan Steel, the Indian Oil Corporation, and Hindustan Aeronautics, and contends that Parliament lacks the competence and institutional capacity to run or supervise large industrial undertakings. He therefore calls for State enterprises to fall within the Bill, an independent and quasi-judicial Monopolies Commission with an appeal to the Supreme Court, and the removal of Chapter III on concentration of economic power, which he regards as confusing size with monopoly and as hostile to economies of scale.
+
+Masani further defends free entry, competitive pricing, private investment, and consumer choice against industrial licensing and planning controls. The later questioning tests his claims about political influence, public-sector accountability, mixed economies, infrastructure, and the findings of the Monopolies Inquiry Commission. Masani maintains that licensing itself has helped concentrate business and that competition, rather than administrative control, is the primary remedy. The rendered pages end during continued questioning about Tata’s licensing correspondence; the transcript therefore does not show the committee’s final disposition.
+
 ## Key points
 
 - Masani presents the Swatantra Party’s opposition to monopoly while defending competition, private enterprise, and economies of scale.

@@ -49,6 +49,12 @@ summary: |-
   The entry emphasizes Sodhbans's extensive institutional and professional career. It lists leadership and membership positions in the Lahore City Congress Committee, the Indian Accountants organization, chambers of commerce, the Indian Economic Association, the Indian Accountancy Board, the Indian Economic Association, and industrial and railway bodies. It also notes his participation in international accounting and labour conferences, and identifies his publications as including works on economic planning in India, the German problem in Europe, the Sikh position in India, Indians abroad, and the genesis of the Kashmir problem.
 ---
 
+## Summary
+
+This one-page English biographical reference entry, reproduced from the 1957 edition of International Who's Who, presents Sirdar Prem Singh Sodhbans as an Indian accountant, economist, politician, and prominent Sikh public figure. It records his education in Ramnagar, Bannu, and Lahore; military service in 1902–1904; service in the Indian Army Reserve of Officers from 1927 to 1934; and his founding and secretarial role in the Central Sikh League from 1919 to 1923.
+
+The entry emphasizes Sodhbans's extensive institutional and professional career. It lists leadership and membership positions in the Lahore City Congress Committee, the Indian Accountants organization, chambers of commerce, the Indian Economic Association, the Indian Accountancy Board, the Indian Economic Association, and industrial and railway bodies. It also notes his participation in international accounting and labour conferences, and identifies his publications as including works on economic planning in India, the German problem in Europe, the Sikh position in India, Indians abroad, and the genesis of the Kashmir problem.
+
 ## Key points
 
 - The entry identifies Sirdar Prem Singh Sodhbans as a Sikh politician, Congressman, economist, and accountant.

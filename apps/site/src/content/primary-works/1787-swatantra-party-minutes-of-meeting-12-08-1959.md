@@ -53,6 +53,12 @@ summary: |-
   The minutes also document concern over delays in printing membership forms and receipts, with K. M. Munshi proposing temporary forms until the centralized materials became available. Further decisions concerned a flag-salutation ceremony, a symposium titled “Why I welcome the Swatantra Party,” and the appointment of convenors for publicity, fund-raising, meetings, and constituency organization. The committee approved a constituency-organization plan, proposed Citizens’ Bureaus for handling grievances, elected Murerji Vaidya to deputize for the chairman during his absence, and recognized the need for a full-time Executive Secretary. The document has no printed title beyond “SWATANTRA PARTY,” no named author, and no table of contents.
 ---
 
+## Summary
+
+These two pages record a meeting of the Swatantra Party’s Organising Committee held on 12 August 1959 at the party office at 143 Mahatma Gandhi Road, Bombay. The minutes confirm and sign the previous two meetings, agree that the Central Organising Committee should define financial policy—particularly the allocation of funds—and review preparations for the party’s convention handbook and membership enrolment. The committee approved 10,000 English copies of the handbook, authorized regional-language editions, set a price of Re. 1 per copy, and sanctioned Rs. 10,000 for printing.
+
+The minutes also document concern over delays in printing membership forms and receipts, with K. M. Munshi proposing temporary forms until the centralized materials became available. Further decisions concerned a flag-salutation ceremony, a symposium titled “Why I welcome the Swatantra Party,” and the appointment of convenors for publicity, fund-raising, meetings, and constituency organization. The committee approved a constituency-organization plan, proposed Citizens’ Bureaus for handling grievances, elected Murerji Vaidya to deputize for the chairman during his absence, and recognized the need for a full-time Executive Secretary. The document has no printed title beyond “SWATANTRA PARTY,” no named author, and no table of contents.
+
 ## Key points
 
 - The Organising Committee met on 12 August 1959 at the Swatantra Party office in Bombay.

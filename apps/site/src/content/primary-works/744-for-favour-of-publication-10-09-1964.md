@@ -57,6 +57,12 @@ summary: |-
   Masani argues that the Bill attacks a symptom rather than the underlying economic disease. In his view, excessive taxation, deficit finance, state controls, nationalisation threats, and inadequate returns on investment make productive investment unattractive. The Bill would therefore encourage smuggling, dishonesty, bureaucratic harassment, and the substitution of savings into other commodities rather than redirecting them into industry. He concludes that the government should permit imports sufficient to meet indigenous demand, preferably through export-promotion schemes, while pursuing more fundamental changes in monetary and fiscal policy. The document is dated 10 September 1964 and is marked “Not for publication.”
 ---
 
+## Summary
+
+This two-page minute of dissent by M. R. Masani argues that the Gold (Control) Bill should not be enacted. Masani maintains that the demand for gold reflects not merely aesthetic preference or traditional prestige but the need for a secure store of savings in an economy where the rupee has lost purchasing power. He points to the absence of banking facilities in villages, the black market created by restrictions on imports, and the resulting incentive to smuggle gold.
+
+Masani argues that the Bill attacks a symptom rather than the underlying economic disease. In his view, excessive taxation, deficit finance, state controls, nationalisation threats, and inadequate returns on investment make productive investment unattractive. The Bill would therefore encourage smuggling, dishonesty, bureaucratic harassment, and the substitution of savings into other commodities rather than redirecting them into industry. He concludes that the government should permit imports sufficient to meet indigenous demand, preferably through export-promotion schemes, while pursuing more fundamental changes in monetary and fiscal policy. The document is dated 10 September 1964 and is marked “Not for publication.”
+
 ## Key points
 
 - Masani records dissent from the Select Committee report on the Gold (Control) Bill.

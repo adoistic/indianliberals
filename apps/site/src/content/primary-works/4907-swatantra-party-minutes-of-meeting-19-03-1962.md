@@ -55,6 +55,12 @@ summary: |-
   The minutes then set out plans for a Parliamentary Board to supervise and coordinate the party’s legislative groups, and for a Swatantra Research Bureau in New Delhi to provide research, parliamentary service, and propaganda support. They schedule a convention of Swatantra Party candidates in Nagpur or Bombay, propose organisational meetings around the opening of the new Parliament, recommend M. S. Aney as Lok Sabha leader, and call for constituency-level conferences. The final pages concern party finance: increased constituency contributions, repayment of a Bihar jeep credit, the transfer and return of campaign vehicles and loudspeakers, and an inquiry into financial handling in Darbhanga, Saharsa, and Purnea.
 ---
 
+## Summary
+
+These draft minutes record decisions taken by the Swatantra Party’s Parliamentary Sub-Committee at a meeting held on 14 March 1962 at Sir H. P. Mody’s residence in Bombay, with the document issued from the party’s Central Office on 19 March. The committee reviews Rajya Sabha nominations, electoral arrangements in Himachal Pradesh, support for territorial-council candidates, and the organisation of the party’s parliamentary work. It approves guidance concerning the withdrawal of the General Secretary from the Chamba Lok Sabha contest, candidate support, campaign vehicles, and financial assistance for constituencies including Chamba–Jogindernagar.
+
+The minutes then set out plans for a Parliamentary Board to supervise and coordinate the party’s legislative groups, and for a Swatantra Research Bureau in New Delhi to provide research, parliamentary service, and propaganda support. They schedule a convention of Swatantra Party candidates in Nagpur or Bombay, propose organisational meetings around the opening of the new Parliament, recommend M. S. Aney as Lok Sabha leader, and call for constituency-level conferences. The final pages concern party finance: increased constituency contributions, repayment of a Bihar jeep credit, the transfer and return of campaign vehicles and loudspeakers, and an inquiry into financial handling in Darbhanga, Saharsa, and Purnea.
+
 ## Key points
 
 - The committee considered Rajya Sabha nominations and confirmed related recommendations.

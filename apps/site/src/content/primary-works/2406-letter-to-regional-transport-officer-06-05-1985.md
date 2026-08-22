@@ -51,6 +51,12 @@ summary: |-
   Masani asks the officer not to harass him regarding other vehicles sold by the Swatantra Party in the same period. He lists nine registration numbers and identifies the letter as an enclosure. The second rendered page contains only a partial typed fragment of an office list; its surrounding context is not visible.
 ---
 
+## Summary
+
+This letter, dated 6 May 1985, is M. R. Masani’s response to the Regional Transport Officer in Bombay concerning demand notices for vehicle MRG-2347. Masani states that he neither owns nor possesses the vehicle and returns the notice, explaining that it was one of several jeeps belonging to the Swatantra Party that had been sold in 1967, with due notice of the sale given to the transport authorities.
+
+Masani asks the officer not to harass him regarding other vehicles sold by the Swatantra Party in the same period. He lists nine registration numbers and identifies the letter as an enclosure. The second rendered page contains only a partial typed fragment of an office list; its surrounding context is not visible.
+
 ## Key points
 
 - The letter is dated 6 May 1985 and is addressed to the Regional Transport Officer, Regional Transport Office, Bombay.

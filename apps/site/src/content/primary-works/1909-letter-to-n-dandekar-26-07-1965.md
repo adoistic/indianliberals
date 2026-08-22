@@ -51,6 +51,12 @@ summary: |-
   Jain also recalls that the Praja Socialist Party had previously tabled a no-confidence motion concerning Pakistani aggression in the Rann of Kutch without consulting the Swatantra Party, which therefore faced a fait accompli. He urges coordination with opposition leaders and proposes careful parliamentary strategy because the Jan Sangh, PSP, Socialist, and independent groups led by Prakash Vir Shastri are pursuing their own motion on the Kutch agreement. The letter ends by noting that the Swatantra Party cannot support that separate initiative and must work to prevent its own motion from being excluded from discussion.
 ---
 
+## Summary
+
+This 26 July 1965 letter from A. P. Jain of the Swatantra Party Parliamentary Office to N. Dandekar concerns the proposed no-confidence motion related to the Kutch agreement. Jain reports that the Lok Sabha Secretariat had disallowed the motion because the required notice had not been given before circulation of the List of Business, and advises Dandekar to obtain Minoo Masani’s signature and return the letter promptly so that the motion can be submitted as soon as the next session’s business list is circulated.
+
+Jain also recalls that the Praja Socialist Party had previously tabled a no-confidence motion concerning Pakistani aggression in the Rann of Kutch without consulting the Swatantra Party, which therefore faced a fait accompli. He urges coordination with opposition leaders and proposes careful parliamentary strategy because the Jan Sangh, PSP, Socialist, and independent groups led by Prakash Vir Shastri are pursuing their own motion on the Kutch agreement. The letter ends by noting that the Swatantra Party cannot support that separate initiative and must work to prevent its own motion from being excluded from discussion.
+
 ## Key points
 
 - The Lok Sabha Secretariat disallowed the proposed no-confidence motion because notice had not been given before the List of Business was circulated.

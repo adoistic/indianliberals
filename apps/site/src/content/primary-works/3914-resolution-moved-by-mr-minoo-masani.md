@@ -49,6 +49,12 @@ summary: |-
   The resolution appeals to the Central Government for maximum financial and material assistance to the State Government. It specifically recommends loans for agriculturists, house-building equipment, and accelerated relief works, including the reconstruction of wells, tanks, and medium-scale irrigation works. It also calls on the public, particularly Swatantra Party members, to contribute to the Orissa Chief Minister's Relief Fund.
 ---
 
+## Summary
+
+This one-page resolution, moved by Mr. K.P. Singh Deo, M.P., and unanimously adopted by the Swatantra Party General Council, expresses sympathy for victims of a cyclone that devastated large areas of Orissa. It emphasizes that the disaster compounded the suffering of people already affected by a three-year drought.
+
+The resolution appeals to the Central Government for maximum financial and material assistance to the State Government. It specifically recommends loans for agriculturists, house-building equipment, and accelerated relief works, including the reconstruction of wells, tanks, and medium-scale irrigation works. It also calls on the public, particularly Swatantra Party members, to contribute to the Orissa Chief Minister's Relief Fund.
+
 ## Key points
 
 - The Swatantra Party General Council conveys sympathy to victims of a recent cyclone in Orissa.

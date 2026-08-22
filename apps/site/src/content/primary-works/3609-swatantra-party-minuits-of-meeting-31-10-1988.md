@@ -59,6 +59,12 @@ summary: |-
   The minutes present a forceful economic critique of the contemporary government. They argue that government control of major economic power is obstructing growth and that privatization accords with Swatantra principles. The discussion points approvingly to liberalizing moves in socialist countries, including the USSR and China, and urges India to reduce bureaucratic procedures. It describes the balance-of-payments position and the rupee's value as alarming. The committee also condemned the decision to reinstate 200 constables disciplined after the 1982 police revolt, arguing that it encouraged indiscipline, before briefly reviewing party office premises and ending the meeting with a vote of thanks.
 ---
 
+## Summary
+
+These draft minutes record the meeting of the Swatantra Party, Maharashtra Executive Committee held on October 31, 1988, at the party office in Bombay. The committee confirmed the previous meeting's minutes, mourned the death of Maharashtra party president Paramanand Kejriwal, recorded members' attendance at his funeral, and unanimously nominated J. Venkiteswaran to succeed him as president. It also noted dissatisfaction with the opposition's attempts to form a national alternative, dismissing the Janata Dal as a “non starter.”
+
+The minutes present a forceful economic critique of the contemporary government. They argue that government control of major economic power is obstructing growth and that privatization accords with Swatantra principles. The discussion points approvingly to liberalizing moves in socialist countries, including the USSR and China, and urges India to reduce bureaucratic procedures. It describes the balance-of-payments position and the rupee's value as alarming. The committee also condemned the decision to reinstate 200 constables disciplined after the 1982 police revolt, arguing that it encouraged indiscipline, before briefly reviewing party office premises and ending the meeting with a vote of thanks.
+
 ## Key points
 
 - The Executive Committee met in Bombay on October 31, 1988, with K. H. Subramaniam in the chair.

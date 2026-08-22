@@ -48,6 +48,12 @@ summary: |-
   The letter combines reminiscence with a series of specific anecdotes. It recalls encounters involving prominent Bombay and Indian public figures, an episode concerning a large cheque and a bank deposit, and the subject’s political and civic associations. The closing celebrates a life of public activity and continuing influence, while acknowledging that the writer is composing the account late in life. The summary is based on all three rendered pages; the handwriting is sometimes difficult to decipher, and the letter’s precise honouree cannot be established confidently from the visible text alone.
 ---
 
+## Summary
+
+This three-page handwritten letter, dated 16 July 1959 and signed “Ruttonchund Master,” is addressed to “Sir Homi” and offers a personal tribute to an unnamed public figure. The writer recalls reading biographies of Napoleon Bonaparte, Hitler, and Mussolini, and contrasts the political spectacle and “grovelling” associated with mass leaders with the subject’s more enduring service to public life. He describes the last thirty years as a period in which he witnessed major changes, including the subject’s rise and public reputation.
+
+The letter combines reminiscence with a series of specific anecdotes. It recalls encounters involving prominent Bombay and Indian public figures, an episode concerning a large cheque and a bank deposit, and the subject’s political and civic associations. The closing celebrates a life of public activity and continuing influence, while acknowledging that the writer is composing the account late in life. The summary is based on all three rendered pages; the handwriting is sometimes difficult to decipher, and the letter’s precise honouree cannot be established confidently from the visible text alone.
+
 ## Key points
 
 - The letter is dated 16 July 1959, written from Rukhamani Mahal, Jogeshwari, Bombay-42, and signed by Ruttonchund Master.

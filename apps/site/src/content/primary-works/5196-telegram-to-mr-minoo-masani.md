@@ -47,6 +47,10 @@ summary: |-
   This one-page English telegram, sent to Mr Minoo Masani at Canning Lane, New Delhi, concerns arrangements for an unspecified conference. The sender asks Masani to refer to an earlier letter, communicate his acceptance by 26 April, and acknowledge receipt by 27 April. The message also states that “Ranga” has agreed, although the identity of this person and the conference are not established on the page.
 ---
 
+## Summary
+
+This one-page English telegram, sent to Mr Minoo Masani at Canning Lane, New Delhi, concerns arrangements for an unspecified conference. The sender asks Masani to refer to an earlier letter, communicate his acceptance by 26 April, and acknowledge receipt by 27 April. The message also states that “Ranga” has agreed, although the identity of this person and the conference are not established on the page.
+
 ## Key points
 
 - The document is a one-page telegram on an Indian Posts and Telegraphs Department form.

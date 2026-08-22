@@ -50,6 +50,12 @@ summary: |-
   The second page gives a typed subtotal of Rs. 2,92,800 and handwritten adjustments and annotations concerning receipts, pending cheques, and revised amounts. A handwritten summary records Rs. 23,58,000 as revenue “Through Contributions” and Rs. 2,95,800 as revenue “Through Advertisement,” producing a combined figure of Rs. 26,53,800. The document does not identify an individual compiler or provide a formal imprint.
 ---
 
+## Summary
+
+This two-page internal accounting sheet records advertisement revenue for the Swatantra Souvenir, 1961. It lists corporate advertisers, the amount of space purchased, and the corresponding tariff, including full-page, fractional-page, inside-back-cover, back-cover, and multi-page placements. The entries include industrial, commercial, insurance, transport, and financial firms, with tariffs generally set at Rs. 5,000 per page and higher amounts for premium or multi-page placements.
+
+The second page gives a typed subtotal of Rs. 2,92,800 and handwritten adjustments and annotations concerning receipts, pending cheques, and revised amounts. A handwritten summary records Rs. 23,58,000 as revenue “Through Contributions” and Rs. 2,95,800 as revenue “Through Advertisement,” producing a combined figure of Rs. 26,53,800. The document does not identify an individual compiler or provide a formal imprint.
+
 ## Key points
 
 - The document is an internal revenue statement for the Swatantra Souvenir, 1961.

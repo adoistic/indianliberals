@@ -52,6 +52,12 @@ summary: |-
   Minoo Masani requests five categories of information: constituencies and candidates contested by the party; independent candidates sponsored by the party and the constituencies they contested; polling details; the basis for selecting candidates, including two or three reasons; and suggestions for revitalising party organisation in the states. The requested material was to reach headquarters by Monday, April 3.
 ---
 
+## Summary
+
+Dated March 21, 1972, this urgent letter from Swatantra Party national headquarters asks party and state units to prepare information for the National Executive and General Council meetings in Bombay on April 8 and 9. The meetings are described as an opportunity to review the party's performance in recent general elections to the various State Assemblies.
+
+Minoo Masani requests five categories of information: constituencies and candidates contested by the party; independent candidates sponsored by the party and the constituencies they contested; polling details; the basis for selecting candidates, including two or three reasons; and suggestions for revitalising party organisation in the states. The requested material was to reach headquarters by Monday, April 3.
+
 ## Key points
 
 - The letter is dated March 21, 1972, and marked “URGENT.”

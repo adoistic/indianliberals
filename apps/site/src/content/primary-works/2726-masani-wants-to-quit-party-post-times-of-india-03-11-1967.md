@@ -48,6 +48,10 @@ summary: |-
   This one-page Times of India report states that M. R. Masani wished to resign as general secretary of the Swatantra Party when his term expired on November 25, after seven years in the post. The report attributes his decision to a belief that no individual should remain in office for too long.
 ---
 
+## Summary
+
+This one-page Times of India report states that M. R. Masani wished to resign as general secretary of the Swatantra Party when his term expired on November 25, after seven years in the post. The report attributes his decision to a belief that no individual should remain in office for too long.
+
 ## Key points
 
 - M. R. Masani sought to leave the Swatantra Party general secretaryship after seven years.

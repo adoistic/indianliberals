@@ -45,6 +45,10 @@ summary: |-
   This single-page English express message, sent by Minoo Masani from Bombay on February 10, 1975, is addressed to Jayaprakash Narayan at Kadam Kuan, Patna. Masani thanks Narayan for an invitation to meet but explains that he has just returned to Bombay from Delhi and therefore asks to be excused.
 ---
 
+## Summary
+
+This single-page English express message, sent by Minoo Masani from Bombay on February 10, 1975, is addressed to Jayaprakash Narayan at Kadam Kuan, Patna. Masani thanks Narayan for an invitation to meet but explains that he has just returned to Bombay from Delhi and therefore asks to be excused.
+
 ## Key points
 
 - The document is an express message rather than a conventional letter.

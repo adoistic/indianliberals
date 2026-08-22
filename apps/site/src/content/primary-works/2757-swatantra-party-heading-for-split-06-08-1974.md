@@ -53,6 +53,12 @@ summary: |-
   The typed convention resolution rejects dissolution. It argues that the proposed new party would unite organisations with divergent interpretations of a vague general programme, while the continued existence of Congress (O) and Jan Sangh would prevent the creation of a genuine two-party system. The resolution maintains that the Swatantra Party's principles and policies remain valid, that the timing is unsuitable for its disappearance, and that the party should continue as a national political alternative. The pages therefore preserve both the pro-merger convention position reported in the press and the formal institutional case against dissolution.
 ---
 
+## Summary
+
+This two-page archival file documents a dispute over the proposed dissolution of the Swatantra Party and its merger with the Bharatiya Lok Dal (BLD) in August 1974. A Times of India News Service report from New Delhi describes the party convention's 407–53 vote authorising dissolution, while reporting opposition from Minoo Masani, who argued that the decision had been procedurally manipulated and that the party retained a distinct identity and programme. The report also records disagreements over delegate representation, particularly the weight given to Uttar Pradesh, and heated exchanges between Masani's supporters and pro-merger delegates.
+
+The typed convention resolution rejects dissolution. It argues that the proposed new party would unite organisations with divergent interpretations of a vague general programme, while the continued existence of Congress (O) and Jan Sangh would prevent the creation of a genuine two-party system. The resolution maintains that the Swatantra Party's principles and policies remain valid, that the timing is unsuitable for its disappearance, and that the party should continue as a national political alternative. The pages therefore preserve both the pro-merger convention position reported in the press and the formal institutional case against dissolution.
+
 ## Key points
 
 - The Swatantra Party convention reportedly voted 407–53 to dissolve the party and merge it with the Bharatiya Lok Dal.

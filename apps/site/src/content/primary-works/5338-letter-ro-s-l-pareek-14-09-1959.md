@@ -44,6 +44,12 @@ summary: |-
   The letter records that Masani had received Pareek’s communication immediately before departing for the United Kingdom and had asked Kirsa to acknowledge it. No details of Pareek’s suggestion are provided in the surviving page.
 ---
 
+## Summary
+
+This single-page office letter, dated 14 September 1959, is addressed to Mr. S. L. Pareek of “Manasavan,” Delhi 7. Miss B. S. Kirsa writes in her capacity as secretary to M. R. Masani, conveying Masani’s appreciation of a suggestion made in Pareek’s letter of 5 September.
+
+The letter records that Masani had received Pareek’s communication immediately before departing for the United Kingdom and had asked Kirsa to acknowledge it. No details of Pareek’s suggestion are provided in the surviving page.
+
 ## Key points
 
 - The document is a typed office letter dated 14 September 1959.

@@ -47,6 +47,12 @@ summary: |-
   The telegram’s sequence markings and postal annotations are visible, but the year cannot be determined reliably from the image. The document is therefore best treated as a brief personal or political communication from Jayaprakash Narayan to Minoo Masani rather than as a published work.
 ---
 
+## Summary
+
+This single-page English telegram, issued on an Indian Posts and Telegraphs Department form, is addressed to Minoo Masani at Mahatma Gandhi Road, Bombay 1. The message states that the sender will be in Patna on November 2 and welcomes the recipient there. The message strip ends with the name “JAI PRAKASH,” suggesting Jayaprakash Narayan as the sender, although no formal printed byline appears.
+
+The telegram’s sequence markings and postal annotations are visible, but the year cannot be determined reliably from the image. The document is therefore best treated as a brief personal or political communication from Jayaprakash Narayan to Minoo Masani rather than as a published work.
+
 ## Key points
 
 - The document is a one-page telegram on an Indian Posts and Telegraphs Department form.

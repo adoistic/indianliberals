@@ -54,6 +54,12 @@ summary: |-
   The letter concludes with the Board's unanimously adopted position on Vietnam. It rejects withdrawal of all U.S. forces in the absence of negotiations by North Vietnam or Communist China, warning that such a withdrawal would encourage aggression and internal subversion. It also argues that India should refrain from advising major powers on their international or military policies concerning Vietnam. The document is signed by M. R. Masani as General Secretary from the Swatantra Party's Bombay central office.
 ---
 
+## Summary
+
+In this one-page letter dated 3 August 1966, M. R. Masani communicates guidance from the Swatantra Party's Central Parliamentary Board to the party's Members of Parliament. The Board directs the parliamentary group to oppose the Anti-Secession (Ordinance) Bill in principle but to express that opposition tactfully, oppose the Essential Commodities (Ordinance) Bill, and resist amendments to the Preventive Detention Act that would infringe individual liberties. The letter also records the Board's regret that the Government has failed to terminate the Emergency.
+
+The letter concludes with the Board's unanimously adopted position on Vietnam. It rejects withdrawal of all U.S. forces in the absence of negotiations by North Vietnam or Communist China, warning that such a withdrawal would encourage aggression and internal subversion. It also argues that India should refrain from advising major powers on their international or military policies concerning Vietnam. The document is signed by M. R. Masani as General Secretary from the Swatantra Party's Bombay central office.
+
 ## Key points
 
 - The letter conveys Central Parliamentary Board guidance to Swatantra Party MPs before the current parliamentary session.

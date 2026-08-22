@@ -48,6 +48,10 @@ summary: |-
   This two-page typed copy of a letter dated 31 March 1968 is addressed to Minoo Masani and signed by Babubhai Vaidya from Rajkot. Vaidya describes opposition to his candidacy within the Swatantra Party, including a demand that he pay Rs. 3,000 to the party fund, allegations that he was propagating against the party, and claims that he was a Communist and had worked for the rival Congress candidate U. M. Mahida.
 ---
 
+## Summary
+
+This two-page typed copy of a letter dated 31 March 1968 is addressed to Minoo Masani and signed by Babubhai Vaidya from Rajkot. Vaidya describes opposition to his candidacy within the Swatantra Party, including a demand that he pay Rs. 3,000 to the party fund, allegations that he was propagating against the party, and claims that he was a Communist and had worked for the rival Congress candidate U. M. Mahida.
+
 ## Key points
 
 - Vaidya says Bhaikaka demanded Rs. 3,000 from him for the party fund and later appeared not to have forgiven him for failing to pay.

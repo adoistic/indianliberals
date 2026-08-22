@@ -53,6 +53,12 @@ summary: |-
   The agenda focuses on confirming the minutes of the previous meeting, reviewing the results of the 1967 General Elections for Parliament and the state assemblies, advising newly elected party groups on the election of leaders and office-bearers, and considering whether the Swatantra Party should participate in new state governments where incumbent ruling parties had been defeated. The document is an internal administrative communication rather than a statement of doctrine.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated 19 January 1967, announces a meeting of the Central Parliamentary Board to be held in Madras on 1–2 March 1967, at C. Rajagopalachari’s room at Kalki. Signed by General Secretary M. R. Masani, it asks recipients to notify the Central Office of their travel arrangements and circulates the agenda to party office-bearers and state units.
+
+The agenda focuses on confirming the minutes of the previous meeting, reviewing the results of the 1967 General Elections for Parliament and the state assemblies, advising newly elected party groups on the election of leaders and office-bearers, and considering whether the Swatantra Party should participate in new state governments where incumbent ruling parties had been defeated. The document is an internal administrative communication rather than a statement of doctrine.
+
 ## Key points
 
 - The Central Parliamentary Board meeting is scheduled for 1–2 March 1967 in Madras.

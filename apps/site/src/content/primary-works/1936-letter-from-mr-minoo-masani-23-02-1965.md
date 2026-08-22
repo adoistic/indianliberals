@@ -47,6 +47,10 @@ summary: |-
   This one-page letter, dated February 23, 1965, is from M. R. Masani at 57 Lodhi Estate, New Delhi, to the Secretary of the Swatantra Party Parliamentary Group. Responding to a circular and its inquiry, Masani states that he would move and cut motions and speak on the demands for grants of specified ministries.
 ---
 
+## Summary
+
+This one-page letter, dated February 23, 1965, is from M. R. Masani at 57 Lodhi Estate, New Delhi, to the Secretary of the Swatantra Party Parliamentary Group. Responding to a circular and its inquiry, Masani states that he would move and cut motions and speak on the demands for grants of specified ministries.
+
 ## Key points
 
 - The letter is addressed to the Secretary of the Swatantra Party Parliamentary Group.

@@ -53,6 +53,14 @@ summary: |-
   He reports that the PSP, the Socialist Party and even the Jan Sangh have turned the idea down, and wonders whether Kripalani still thinks the path is worth pursuing. He notes that Rajaji and Professor Ranga share his approach, and that the Swatantra Party's own position can only be settled once its Parliamentary Board meets in early August. He offers himself for a small, informal meeting of three or four, but is firm against any summit of opposition leaders, and asks for Kripalani's comments once the earlier letter has been read.
 ---
 
+## Summary
+
+This one-page typed letter, dated 17th June 1963, is from Minoo Masani to Acharya J.B. Kripalani, replying to Kripalani's letter of 11th June (which had crossed Masani's own of 8th June). It is a tightly argued rejection of Kripalani's proposal for a formal opposition compact built around an agreed minimum programme, a common permanent secretariat, and a summit meeting of opposition leaders.
+
+Masani signals broad agreement with Kripalani's amplification of the minimum programme, registering only one reservation — the treatment on page 12 of Kripalani's note of controls over private enterprise. What he refuses is the mechanism. He does not accept that an electoral understanding requires an agreed minimum programme or a permanent secretariat, and he restates the two propositions of his June 8 letter: that the attempt to hammer out a minimum programme is unlikely to bear fruit, and that a summit meeting, being liable to fail visibly, would do more harm than good.
+
+He reports that the PSP, the Socialist Party and even the Jan Sangh have turned the idea down, and wonders whether Kripalani still thinks the path is worth pursuing. He notes that Rajaji and Professor Ranga share his approach, and that the Swatantra Party's own position can only be settled once its Parliamentary Board meets in early August. He offers himself for a small, informal meeting of three or four, but is firm against any summit of opposition leaders, and asks for Kripalani's comments once the earlier letter has been read.
+
 ## Key points
 
 - Masani replies to Kripalani's 11 June letter, which had crossed his own of 8 June on the same subject of opposition unity.

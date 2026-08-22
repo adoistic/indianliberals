@@ -49,6 +49,12 @@ summary: |-
   The letter is primarily personal and congratulatory rather than a systematic statement of policy. Within the legible text, Rajagopalachari engages themes of economic liberty and criticism of regulation, referring to illegal profiteering, insurance, rent, and controls. The accompanying second page is the addressed envelope, sent from Rajagopalachari’s Madras address to M. R. Masani in Bombay.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated apparently 21 September 1961, is C. Rajagopalachari’s warm acknowledgment to Minoo Masani. Rajagopalachari praises Masani for his work and thanks him for sending corrections to an article in the Indian Express, a typed letter explaining the matter in full, and a telegram. He also comments favorably on Masani’s book and on the effectiveness of the procedure it describes, though several words in the handwriting are difficult to read.
+
+The letter is primarily personal and congratulatory rather than a systematic statement of policy. Within the legible text, Rajagopalachari engages themes of economic liberty and criticism of regulation, referring to illegal profiteering, insurance, rent, and controls. The accompanying second page is the addressed envelope, sent from Rajagopalachari’s Madras address to M. R. Masani in Bombay.
+
 ## Key points
 
 - Rajagopalachari opens with an affectionate greeting to Minoo Masani.

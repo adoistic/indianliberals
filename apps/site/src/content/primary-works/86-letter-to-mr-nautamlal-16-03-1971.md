@@ -43,6 +43,10 @@ summary: |-
   This single-page letter from M. R. Masani, dated 16 March 1971, acknowledges a telegram from Mr. Nathamlal. Masani expresses appreciation for Nathamlal's sympathy and solidarity. The letter is brief and personal, with no discussion of a broader political, economic, or organisational issue.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani, dated 16 March 1971, acknowledges a telegram from Mr. Nathamlal. Masani expresses appreciation for Nathamlal's sympathy and solidarity. The letter is brief and personal, with no discussion of a broader political, economic, or organisational issue.
+
 ## Key points
 
 - The letter is dated 16 March 1971.

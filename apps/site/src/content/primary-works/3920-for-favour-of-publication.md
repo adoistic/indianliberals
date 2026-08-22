@@ -52,6 +52,12 @@ summary: |-
   The signatories argue that the visit would lend support to what they describe as totalitarian and anti-democratic propaganda, contradict India's professed policy of non-alignment, and be unfair to India. They ask Gandhi to establish whether other democratic prime ministers will attend and to reconsider the decision. The note is signed by S. V. Raju in his capacity as Executive Secretary of the Swatantra Party.
 ---
 
+## Summary
+
+This one-page Swatantra Party publication note, issued from its Bombay Central Office on November 5, 1967, reproduces a telegram sent the previous day by Members of Parliament M. R. Masani, N. Dandekar, and Manubhai Amersay to Prime Minister Indira Gandhi. The telegram criticizes Gandhi's decision to travel to Moscow for celebrations of the fiftieth anniversary of the Communist Revolution.
+
+The signatories argue that the visit would lend support to what they describe as totalitarian and anti-democratic propaganda, contradict India's professed policy of non-alignment, and be unfair to India. They ask Gandhi to establish whether other democratic prime ministers will attend and to reconsider the decision. The note is signed by S. V. Raju in his capacity as Executive Secretary of the Swatantra Party.
+
 ## Key points
 
 - The document is a Swatantra Party press-publication note dated November 5, 1967.

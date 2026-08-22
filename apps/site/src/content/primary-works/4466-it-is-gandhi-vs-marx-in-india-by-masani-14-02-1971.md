@@ -54,6 +54,12 @@ summary: |-
   Masani accepts Marx's diagnosis that the proletariat had been deprived of property and enslaved, but rejects Marx's conclusion that everyone should lose property. He argues that property is a fundamental, though not absolute, right subject to reasonable restrictions, and presents the conflict between Gandhi and Marx as a dispute over the future of property and economic organisation. In the question-and-answer portion, he criticises Mrs. Gandhi's electoral prospects, comments on the cost of Air Force travel, condemns aircraft hijacking as criminal piracy, and remarks on the persistence of socialist sentiment.
 ---
 
+## Summary
+
+This one-page English press clipping reports M. R. Masani's address to the Press Club of India in New Delhi on February 13. Masani frames Indian politics as a contest between Gandhi and Marx: he says Mrs. Gandhi represents the status quo, while he advocates Gandhian decentralisation, an economy free from government control of foodgrains, and stable prices.
+
+Masani accepts Marx's diagnosis that the proletariat had been deprived of property and enslaved, but rejects Marx's conclusion that everyone should lose property. He argues that property is a fundamental, though not absolute, right subject to reasonable restrictions, and presents the conflict between Gandhi and Marx as a dispute over the future of property and economic organisation. In the question-and-answer portion, he criticises Mrs. Gandhi's electoral prospects, comments on the cost of Air Force travel, condemns aircraft hijacking as criminal piracy, and remarks on the persistence of socialist sentiment.
+
 ## Key points
 
 - Masani presents Indian politics as a contest between Gandhian decentralisation and Marxist economic doctrine.

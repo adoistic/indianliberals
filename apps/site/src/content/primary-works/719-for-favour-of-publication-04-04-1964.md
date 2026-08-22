@@ -51,6 +51,12 @@ summary: |-
   The notice also clarifies the party's organisational rules. State units may recommend appointments through their State Executive Committees, but office-bearers nominated by the Centre cannot be appointed or changed at the state level; state-level office-bearers must be appointed by the Central Organising Committee. The document is headed “For Favour of Publication” but its body is marked “Not for Publication,” making it both a press correction and an internal clarification of authority.
 ---
 
+## Summary
+
+This one-page Swatantra Party Central Office communication, dated April 4, 1964, corrects press reports in the Gujarati press in Ahmedabad and Bombay concerning alleged appointments within the Gujarat Swatantra Party. M. R. Masani states that reports naming Mr. Dharamsinh Patel of Junagadh as Joint Secretary for work in Saurashtra and Mr. Raja Babu of Bhavnagar as Joint Treasurer are unauthorised and contradict what occurred at the Gujarat State Executive meeting on April 1.
+
+The notice also clarifies the party's organisational rules. State units may recommend appointments through their State Executive Committees, but office-bearers nominated by the Centre cannot be appointed or changed at the state level; state-level office-bearers must be appointed by the Central Organising Committee. The document is headed “For Favour of Publication” but its body is marked “Not for Publication,” making it both a press correction and an internal clarification of authority.
+
 ## Key points
 
 - Masani rejects press reports about two alleged appointments in the Gujarat Swatantra Party.

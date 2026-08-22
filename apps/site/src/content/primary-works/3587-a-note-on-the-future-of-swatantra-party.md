@@ -50,6 +50,10 @@ summary: |-
   In this five-page note, B.S. Gopal Krishna argues that the Swatantra Party must reassess its position after the Lok Sabha elections and rebuild itself as a credible alternative to Indira Gandhi’s Congress (R). He approves the idea of a United National Front but criticises the absence of a common minimum programme and the decision to accept the S.S.P. as a partner. The election result, he contends, reflected personal loyalty to Indira Gandhi rather than either socialist or rightist ideology, and he attributes Congress (R)’s success to minority and Harijan support, lower-middle-class expectations, women’s voting patterns, regional caste alignments, non-voting educated voters, and defective electoral rolls.
 ---
 
+## Summary
+
+In this five-page note, B.S. Gopal Krishna argues that the Swatantra Party must reassess its position after the Lok Sabha elections and rebuild itself as a credible alternative to Indira Gandhi’s Congress (R). He approves the idea of a United National Front but criticises the absence of a common minimum programme and the decision to accept the S.S.P. as a partner. The election result, he contends, reflected personal loyalty to Indira Gandhi rather than either socialist or rightist ideology, and he attributes Congress (R)’s success to minority and Harijan support, lower-middle-class expectations, women’s voting patterns, regional caste alignments, non-voting educated voters, and defective electoral rolls.
+
 ## Key points
 
 - The Swatantra Party should not define itself merely as an opposition force; it must offer a constructive programme of governance.

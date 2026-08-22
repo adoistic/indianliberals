@@ -50,6 +50,10 @@ summary: |-
   This extract from Welles Hangen’s “After Nehru, who?” presents biographical and political sketches of Krishna Menon, Indira Gandhi, and Jayaprakash Narayan. The Menon passages connect his unsuccessful romance in the 1930s with his hostility toward Westerners, then trace his political activity in London, his relationship with Jawaharlal Nehru, his contacts with Communists, and his disputed status within the Communist movement. His political style is portrayed as unconventional and iconoclastic: he twice failed to secure Labour candidacies and continued to describe the Second World War as an imperialist conflict until Germany attacked Russia.
 ---
 
+## Summary
+
+This extract from Welles Hangen’s “After Nehru, who?” presents biographical and political sketches of Krishna Menon, Indira Gandhi, and Jayaprakash Narayan. The Menon passages connect his unsuccessful romance in the 1930s with his hostility toward Westerners, then trace his political activity in London, his relationship with Jawaharlal Nehru, his contacts with Communists, and his disputed status within the Communist movement. His political style is portrayed as unconventional and iconoclastic: he twice failed to secure Labour candidacies and continued to describe the Second World War as an imperialist conflict until Germany attacked Russia.
+
 ## Key points
 
 - Krishna Menon’s failed romance is presented as one possible source of his later hostility toward Westerners, though the extract cautions against reducing his politics to unrequited love.

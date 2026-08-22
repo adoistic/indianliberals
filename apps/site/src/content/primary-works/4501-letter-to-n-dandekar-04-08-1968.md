@@ -51,6 +51,12 @@ summary: |-
   Gohil describes his own organisational experience in Sabarkantha, including attending and organising roughly 1,400 meetings between 1965 and 1967, while also reporting that he is now farming and without regular work. The letter identifies weak district-level organisation, inadequate access to party offices, shortages of funds, an absence of handbills and other propaganda, and poor results in Panchayat elections. It closes by urging senior leaders to revive the party’s work and noting that Congress workers are active in the area.
 ---
 
+## Summary
+
+In this one-page open letter dated 4 August 1968, K. R. P. Gohil appeals to N. Dandekar for guidance about what he calls the “Trouble Air” within the Swatantra Party in Gujarat. He reports confusion among party workers and voters over the conduct of the party’s leadership and the creation of a new “Khedut Mandal” group. Gohil asks whether workers should resign and join another party, remain inactive, or seek to restore effective party work under the leadership of “Bhaikaka” and Matvarsinghji Solanki.
+
+Gohil describes his own organisational experience in Sabarkantha, including attending and organising roughly 1,400 meetings between 1965 and 1967, while also reporting that he is now farming and without regular work. The letter identifies weak district-level organisation, inadequate access to party offices, shortages of funds, an absence of handbills and other propaganda, and poor results in Panchayat elections. It closes by urging senior leaders to revive the party’s work and noting that Congress workers are active in the area.
+
 ## Key points
 
 - Gohil asks N. Dandekar for direction regarding internal difficulties in the Swatantra Party in Gujarat.

@@ -51,6 +51,12 @@ summary: |-
   Raju further alleges that the seminar is being held on the initiative of the Soviet Embassy, which is financing it, and notes the presence of four Russian participants alongside predominantly Communist Indian participants. He presents the event as part of what he characterises as a systematic Communist effort to take over opinion-making bodies, concluding that the ICWA seminar is therefore politically significant.
 ---
 
+## Summary
+
+In this letter dated March 18, 1970, S. V. Raju writes to Dr. Minoo Masani about a seminar on Lenin being held to mark Lenin’s birth centenary. The event is described as sponsored by the Indian Council of World Affairs, although Raju states that the organisation had not itself organised the seminar and had only received a contribution from the Gandhi Peace Foundation.
+
+Raju further alleges that the seminar is being held on the initiative of the Soviet Embassy, which is financing it, and notes the presence of four Russian participants alongside predominantly Communist Indian participants. He presents the event as part of what he characterises as a systematic Communist effort to take over opinion-making bodies, concluding that the ICWA seminar is therefore politically significant.
+
 ## Key points
 
 - The letter concerns a seminar on Lenin held during Lenin’s birth-centenary year.

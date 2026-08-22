@@ -58,6 +58,12 @@ summary: |-
   The committee objected to the requirement under Section 29A of the Representation of the People Act that a political party swear allegiance to socialism, arguing that the Swatantra Party’s political purpose was precisely to repudiate socialism. It resolved to authorize Sampat to file a writ petition in the Bombay High Court, seeking a declaration that the requirement was illegal, discriminatory, and violative of citizens’ fundamental rights. The meeting concluded with a vote of thanks to the chair.
 ---
 
+## Summary
+
+These two rendered pages record the September 26, 1994 meeting of the Executive Committee of the Swatantra Party, Maharashtra, held at the party office in Bombay. The minutes list six attendees, including chair J. Venkiteswaran and general secretary L. R. Sampat, and focus on the Election Commission of India’s response to the party’s application for registration.
+
+The committee objected to the requirement under Section 29A of the Representation of the People Act that a political party swear allegiance to socialism, arguing that the Swatantra Party’s political purpose was precisely to repudiate socialism. It resolved to authorize Sampat to file a writ petition in the Bombay High Court, seeking a declaration that the requirement was illegal, discriminatory, and violative of citizens’ fundamental rights. The meeting concluded with a vote of thanks to the chair.
+
 ## Key points
 
 - The meeting was held on September 26, 1994, at the Swatantra Party office in Bombay.

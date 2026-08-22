@@ -51,6 +51,12 @@ summary: |-
   A handwritten addition asks for a transcript of Masani’s speech to the Bombay Regional Convention, apparently referring to a speech delivered on the morning of 15 February. The document is marked “confirmation copy” and bears a receipt stamp dated 26 February 1970. The author’s full name and the recipient’s full name are not printed on the page.
 ---
 
+## Summary
+
+This single-page English office letter, dated 24 February 1970 and addressed to “O RAJU” in Bombay, instructs the recipient to circulate an appeal to state units. The proposed public meetings are to condemn the railway budget and demand its rejection. The letter also requests immediate material concerning the Consumers Guidance Society for Establishment Consumers Association in Delhi.
+
+A handwritten addition asks for a transcript of Masani’s speech to the Bombay Regional Convention, apparently referring to a speech delivered on the morning of 15 February. The document is marked “confirmation copy” and bears a receipt stamp dated 26 February 1970. The author’s full name and the recipient’s full name are not printed on the page.
+
 ## Key points
 
 - The letter is dated 24 February 1970 and addressed to “O RAJU” in Bombay.

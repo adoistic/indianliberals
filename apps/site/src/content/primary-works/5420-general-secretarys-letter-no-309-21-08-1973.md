@@ -58,6 +58,12 @@ summary: |-
   The attached resolution lists a broad indictment of Union government performance, including shortages and price control, law and order, administration, corruption, judicial independence, regional imbalances, minority and Scheduled Caste and tribe protection, state autonomy, unemployment, production, agricultural and industrial power supply, farmers’ prices, civil liberties, democratic values, education, and governance in the public interest. It concludes by proposing a national convention for fair and free elections at Lucknow in the near future.
 ---
 
+## Summary
+
+This two-page Swatantra Party office letter, dated August 21, 1973, asks party presidents to coordinate with other political parties and observe August 26 as a National Protest Day. Signed by General Secretary Madhav Mehta, it instructs local units to hold simultaneous public meetings, adopt a common resolution, translate it into local languages, send it to district units, and report how the protest was observed. The letter presents the action as a response to what it calls the failures of the Government of India.
+
+The attached resolution lists a broad indictment of Union government performance, including shortages and price control, law and order, administration, corruption, judicial independence, regional imbalances, minority and Scheduled Caste and tribe protection, state autonomy, unemployment, production, agricultural and industrial power supply, farmers’ prices, civil liberties, democratic values, education, and governance in the public interest. It concludes by proposing a national convention for fair and free elections at Lucknow in the near future.
+
 ## Key points
 
 - The letter is dated August 21, 1973, and is issued from the Swatantra Party’s national headquarters in Bombay.

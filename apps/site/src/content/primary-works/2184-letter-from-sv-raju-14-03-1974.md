@@ -51,6 +51,12 @@ summary: |-
   The accompanying handwritten pages, dated 6 February 1974 and signed Budhan Rai Verma, ask whether Bihar still has a place on the Swatantra Party’s political map. Verma describes weakened organisational activity, the departure or absence of senior figures, and the loss of contact among former party workers. He requests current party publications and information about its programme and prospects in different states. Together, the pages document both an internal exchange about party organisation and a broader anxiety about the survival of the Swatantra tradition in the mid-1970s.
 ---
 
+## Summary
+
+This three-page correspondence, catalogued under S. V. Raju and dated 14 March 1974, concerns the condition of the Swatantra Party in Bihar and the writer’s continuing commitment to its ideals. Raju explains that he no longer works at the party office but remains an active member, while acknowledging that the party’s position in Bihar has become confused and divided. He identifies Mr. Bhatia as being in charge of the national headquarters and offers to send Budhan publications from the most recent national convention.
+
+The accompanying handwritten pages, dated 6 February 1974 and signed Budhan Rai Verma, ask whether Bihar still has a place on the Swatantra Party’s political map. Verma describes weakened organisational activity, the departure or absence of senior figures, and the loss of contact among former party workers. He requests current party publications and information about its programme and prospects in different states. Together, the pages document both an internal exchange about party organisation and a broader anxiety about the survival of the Swatantra tradition in the mid-1970s.
+
 ## Key points
 
 - S. V. Raju says he no longer works at the Swatantra Party office but remains a committed party member.

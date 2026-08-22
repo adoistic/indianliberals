@@ -50,6 +50,12 @@ summary: |-
   The sender then says he is going to meet party workers who are preparing to receive political defectors, and indicates that he expects to return shortly. The closing signature appears to read “Ranga,” but the sender’s full identity cannot be established from the rendered pages. The accompanying inland-letter card/envelope is visible on page 2 but contains no additional substantive letter text.
 ---
 
+## Summary
+
+This handwritten letter, dated 20 September 1969 from New Delhi and addressed to Minoo Masani, discusses a political candidate from Gujarat who has apparently been chosen for a State Assembly seat. The sender says he met the candidate at the Speaker’s dinner and believes he can win, while also referring to the Speaker’s role in the choice. The letter further mentions a clarification concerning the candidate and expresses relief that the matter is now settled.
+
+The sender then says he is going to meet party workers who are preparing to receive political defectors, and indicates that he expects to return shortly. The closing signature appears to read “Ranga,” but the sender’s full identity cannot be established from the rendered pages. The accompanying inland-letter card/envelope is visible on page 2 but contains no additional substantive letter text.
+
 ## Key points
 
 - The letter is dated 20 September 1969 and begins in New Delhi.

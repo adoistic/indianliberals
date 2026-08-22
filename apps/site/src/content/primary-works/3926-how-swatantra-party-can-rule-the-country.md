@@ -57,6 +57,12 @@ summary: |-
   In the rendered pages, Lawande presents constitutionalism, consumer interests, and competition as the party's guiding principles. The party should defend the Constitution as the foundation of citizens' rights and expectations, appeal to the whole population as consumers as well as producers, and oppose state controls and monopolies. He maintains that expanding production, allowing free competition, and ending licensing and contracting privileges would lower prices, improve quality, increase supplies, and distribute economic opportunities more widely. The pamphlet concludes that these three simple slogans can build public confidence in the Swatantra Party.
 ---
 
+## Summary
+
+In the rendered pages, Dr. G. N. Lawande argues that the Swatantra Party can become an effective national force by shaping public opinion rather than merely opposing the government. Because governments ultimately respond to public opinion, the party should use the press, public platforms, Parliament, and its position as the leading opposition party. Its opposition, he argues, should be constitutional, constructive, and focused on the public's fundamental concerns rather than routine obstruction or continual attacks on the government.
+
+In the rendered pages, Lawande presents constitutionalism, consumer interests, and competition as the party's guiding principles. The party should defend the Constitution as the foundation of citizens' rights and expectations, appeal to the whole population as consumers as well as producers, and oppose state controls and monopolies. He maintains that expanding production, allowing free competition, and ending licensing and contracting privileges would lower prices, improve quality, increase supplies, and distribute economic opportunities more widely. The pamphlet concludes that these three simple slogans can build public confidence in the Swatantra Party.
+
 ## Key points
 
 - The party's political influence should be built through the formation of public opinion and constitutional opposition.

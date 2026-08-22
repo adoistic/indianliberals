@@ -54,6 +54,10 @@ summary: |-
   In this speech during the Lok Sabha’s general discussion on the 1960 Budget, M. R. Masani argues that taxation, planning, and public expenditure are imposing rising burdens on the Indian public without producing commensurate gains. He criticizes the Finance Minister for being “a prisoner of the Plan,” points to the rapid growth of civil expenditure, and contrasts the rise in per-capita income with substantially higher price increases. Masani attributes these failures to forced industrialisation on the Soviet pattern, expansion of the State sector, and inadequate public information about the returns from State enterprises.
 ---
 
+## Summary
+
+In this speech during the Lok Sabha’s general discussion on the 1960 Budget, M. R. Masani argues that taxation, planning, and public expenditure are imposing rising burdens on the Indian public without producing commensurate gains. He criticizes the Finance Minister for being “a prisoner of the Plan,” points to the rapid growth of civil expenditure, and contrasts the rise in per-capita income with substantially higher price increases. Masani attributes these failures to forced industrialisation on the Soviet pattern, expansion of the State sector, and inadequate public information about the returns from State enterprises.
+
 ## Key points
 
 - Masani argues that additional taxation has exceeded the limits anticipated by the Planning Commission and is contributing to inflation.

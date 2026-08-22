@@ -48,6 +48,12 @@ summary: |-
   The operative ask of the telegram is procedural. Given the Swatantra Party's public stand against the Colombo Proposals, Masani cannot see how Swatantra members can refuse to vote for the Socialist Party's amendment on the same question due for a vote the next day. He therefore proposes that Ranga at least grant liberty to Swatantra members to vote for the Socialist amendment. The closing lines of the telegram — apparently raising a further concern about "continued detention" of "others" — are struck through and partly obscured by damage to the paper, and cannot be transcribed with confidence. The document is marked "Confirmation copy", carries the reference "MRM:BS" and the file/despatch number 28887, and bears the archival mark 1043.
 ---
 
+## Summary
+
+A single-page express telegram sent by Minoo Masani from 143 Mahatma Gandhi Road, Bombay on 23 January 1963 to Professor N. G. Ranga at 44 Western Court, New Delhi. Masani writes as one Swatantra Party leader to another, following up on a telegram he had sent the previous day, to register his disappointment that Ranga has decided not to move an amendment in Parliament rejecting the Colombo Proposals — the six-nation mediation formula for the India–China border dispute in the aftermath of the 1962 war. Masani tells Ranga bluntly that he feels the party has been "outmanoeuvred by Prime Minister" Nehru on the parliamentary handling of the issue.
+
+The operative ask of the telegram is procedural. Given the Swatantra Party's public stand against the Colombo Proposals, Masani cannot see how Swatantra members can refuse to vote for the Socialist Party's amendment on the same question due for a vote the next day. He therefore proposes that Ranga at least grant liberty to Swatantra members to vote for the Socialist amendment. The closing lines of the telegram — apparently raising a further concern about "continued detention" of "others" — are struck through and partly obscured by damage to the paper, and cannot be transcribed with confidence. The document is marked "Confirmation copy", carries the reference "MRM:BS" and the file/despatch number 28887, and bears the archival mark 1043.
+
 ## Key points
 
 - One-page express telegram from Minoo Masani (Bombay) to Professor N. G. Ranga (44 Western Court, New Delhi), dated 23 January 1963.

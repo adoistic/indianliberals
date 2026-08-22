@@ -52,6 +52,12 @@ summary: |-
   The paper presents Soviet trade unions and social services in relatively favourable terms, citing extensive union membership, factory schools and crèches, an eight-hour day, paid holidays, restrictions on child and female labour, and state-supported welfare. It nevertheless questions the distribution of these gains, contrasting the better-paid industrial workforce with the much larger peasant population. The final section identifies the “Peasant Problem” as the Soviet state’s unresolved attempt to secure cheap food, isolate the “kulak,” organise a rural proletariat, and eventually establish effective state ownership and management of land.
 ---
 
+## Summary
+
+This undated-author occasional paper section, headed “In Soviet Russia: Industrial & Political Situation” and dated 7 November 1927, examines Soviet factories, trade unions, labour conditions, wages, and the relationship between industrial workers and peasants. The writer reports visits to factories in Leningrad, Moscow, and near Nizhni-Novogorod, noting both improved worker efficiency under shorter hours and a serious need for modern machinery and imported capital. Factory administration is described as a partnership between a technical director and a “Red Director” drawn from the workers’ ranks.
+
+The paper presents Soviet trade unions and social services in relatively favourable terms, citing extensive union membership, factory schools and crèches, an eight-hour day, paid holidays, restrictions on child and female labour, and state-supported welfare. It nevertheless questions the distribution of these gains, contrasting the better-paid industrial workforce with the much larger peasant population. The final section identifies the “Peasant Problem” as the Soviet state’s unresolved attempt to secure cheap food, isolate the “kulak,” organise a rural proletariat, and eventually establish effective state ownership and management of land.
+
 ## Key points
 
 - The writer describes Soviet industrial visits and reports a widespread need for more up-to-date machinery, with inadequate equipment hampering production.

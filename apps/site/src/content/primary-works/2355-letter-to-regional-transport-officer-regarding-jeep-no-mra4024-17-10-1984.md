@@ -50,6 +50,12 @@ summary: |-
   Masani adds that he had repeatedly explained that the jeeps belonged to the Swatantra Party when he was its General Secretary in the 1960s, and that the party sold them sometime in the late 1960s. The file includes the registered-mail acknowledgment, the sender’s address, a motor-vehicle tax bill for vehicle MRZ-8939, and printed tax-payment instructions and Regional Transport Office addresses. The enclosures document the bureaucratic basis of the dispute but do not include the earlier correspondence to which Masani refers.
 ---
 
+## Summary
+
+In this letter dated October 27, 1984, M. R. Masani writes to the Regional Transport Officer’s Recovery Branch in Bombay regarding three motor-vehicle tax bills—Nos. 54, 71, and 860—for jeep vehicles MRA-4024, MRA-4093, and MRZ-8939. Masani states that none of the vehicles was in his possession during the periods in question and therefore denies liability for the bills. He asks the officer to acknowledge the letter and confirm that the matter will not lead to further harassment.
+
+Masani adds that he had repeatedly explained that the jeeps belonged to the Swatantra Party when he was its General Secretary in the 1960s, and that the party sold them sometime in the late 1960s. The file includes the registered-mail acknowledgment, the sender’s address, a motor-vehicle tax bill for vehicle MRZ-8939, and printed tax-payment instructions and Regional Transport Office addresses. The enclosures document the bureaucratic basis of the dispute but do not include the earlier correspondence to which Masani refers.
+
 ## Key points
 
 - M. R. Masani’s letter is dated October 27, 1984, and is addressed to the Regional Transport Officer, RTO Recovery Branch, Old Bodyguard Lines, Bombay.

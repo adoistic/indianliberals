@@ -50,6 +50,12 @@ summary: |-
   The political portion reports an improved electoral performance: Deo says his candidate won despite polling 28 percent of the vote because of a division among opponents, while the party's Lok Sabha vote in the constituency rose to more than half of the total. He attributes this improvement to opposition to the Raja's influence and to intensive organisation, while alleging that Congress supporters used government-linked vehicles, voter identity slips, and cash promises during the campaign. The letter closes by arguing that sustained propaganda can reach voters' moral consciousness and counter pre-election promises and pressure from the government machinery. The remaining rendered pages reproduce Deo and Y. N. Singh's itinerary from Delhi through Europe, Canada, the United States, Japan, Hong Kong, Bangkok, and back to Delhi.
 ---
 
+## Summary
+
+This undated-title letter, dated 20 July 1965 and addressed to M. R. Masani, combines political correspondence with an attached American Express itinerary. H. H. Maharaja P. K. Deo explains that he is undertaking a world tour and asks Masani for the addresses of people associated with the international liberal movement whom he could meet abroad. He also thanks the Forum-related central office for offering to print the Congress report and speeches concerning the Congress ministry's conduct during the Keonjhar by-election.
+
+The political portion reports an improved electoral performance: Deo says his candidate won despite polling 28 percent of the vote because of a division among opponents, while the party's Lok Sabha vote in the constituency rose to more than half of the total. He attributes this improvement to opposition to the Raja's influence and to intensive organisation, while alleging that Congress supporters used government-linked vehicles, voter identity slips, and cash promises during the campaign. The letter closes by arguing that sustained propaganda can reach voters' moral consciousness and counter pre-election promises and pressure from the government machinery. The remaining rendered pages reproduce Deo and Y. N. Singh's itinerary from Delhi through Europe, Canada, the United States, Japan, Hong Kong, Bangkok, and back to Delhi.
+
 ## Key points
 
 - Deo asks M. R. Masani for contacts in the international liberal movement during his planned world tour.

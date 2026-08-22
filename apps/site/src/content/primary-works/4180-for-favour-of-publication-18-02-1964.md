@@ -55,6 +55,12 @@ summary: |-
   Masani outlines the Swatantra Party’s concrete planning alternative: prioritising basic necessities and employment; reallocating responsibilities between the state and free enterprise; encouraging legitimate profit under competition; eliminating monopolies in both sectors; reducing government controls and regulation; maintaining price stability through monetary discipline; reforming taxation to encourage saving, investment, and employment; and ensuring remunerative agricultural prices. He cites figures from his 1963 parliamentary speech to argue that meeting basic needs would require major increases in food-grain and cloth production, a higher growth rate, and an economic framework combining family farming, competitive private enterprise, and essential industrial and trade controls.
 ---
 
+## Summary
+
+In this two-page letter dated New Delhi, February 18, 1964, M. R. Masani responds to an article in Commerce titled “Swatantra Party’s Economic Policy.” He rejects the claim that the party has spoken only in broad terms and must prepare a complete alternative budget before it can govern. Masani argues instead that an opposition party should set out alternative policies and approaches, not necessarily an alternative government budget or a single comprehensive economic plan.
+
+Masani outlines the Swatantra Party’s concrete planning alternative: prioritising basic necessities and employment; reallocating responsibilities between the state and free enterprise; encouraging legitimate profit under competition; eliminating monopolies in both sectors; reducing government controls and regulation; maintaining price stability through monetary discipline; reforming taxation to encourage saving, investment, and employment; and ensuring remunerative agricultural prices. He cites figures from his 1963 parliamentary speech to argue that meeting basic needs would require major increases in food-grain and cloth production, a higher growth rate, and an economic framework combining family farming, competitive private enterprise, and essential industrial and trade controls.
+
 ## Key points
 
 - Masani disputes the claim that the Swatantra Party has offered only vague economic ideas.

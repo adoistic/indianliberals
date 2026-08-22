@@ -52,6 +52,12 @@ summary: |-
   Masani’s central criticism is directed at India’s emerging “new ruling class,” comprising politicians, corrupt businessmen, and state-connected entrepreneurs. He argues that licensing, quotas, nationalisation, and state control have enabled these groups to extract surplus from peasants, workers, and the middle class while presenting themselves as socialists. Drawing on Karl Marx’s concept of “extracting surplus value” and Milovan Djilas’s account of a privileged Communist “new class,” Masani calls for a government committed to free enterprise, vigorous peasant proprietorship, and social justice. He concludes by urging socialists and other advocates of justice to stop defending obsolete vested interests and speak for former “upperdogs” who have become the underdogs.
 ---
 
+## Summary
+
+In this three-page essay, Minoo Masani argues that political debate should recognize a newly disadvantaged “upperdog” rather than treating socialism as the only language of social justice. He traces his own movement from the Congress Socialist Party, founded with Jayaprakash Narayan in 1934, to the Swatantra Party in 1959, and contends that the latter represents not only small farmers but also formerly privileged groups—industrialists, businessmen, and former rulers—who have become targets of post-independence policy.
+
+Masani’s central criticism is directed at India’s emerging “new ruling class,” comprising politicians, corrupt businessmen, and state-connected entrepreneurs. He argues that licensing, quotas, nationalisation, and state control have enabled these groups to extract surplus from peasants, workers, and the middle class while presenting themselves as socialists. Drawing on Karl Marx’s concept of “extracting surplus value” and Milovan Djilas’s account of a privileged Communist “new class,” Masani calls for a government committed to free enterprise, vigorous peasant proprietorship, and social justice. He concludes by urging socialists and other advocates of justice to stop defending obsolete vested interests and speak for former “upperdogs” who have become the underdogs.
+
 ## Key points
 
 - Masani presents the Swatantra Party as an expression of sympathy for groups that have become disadvantaged under post-independence state policy.

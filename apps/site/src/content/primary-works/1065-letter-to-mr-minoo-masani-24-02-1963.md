@@ -49,6 +49,14 @@ summary: |-
   The closing paragraph is editorial housekeeping for the journal Swarajya: Kripalani's article has been received and is going into the issue currently in the press, as has a piece from Rajen Babu, and for the first time in the paper's history Rajaji has surrendered the front page — giving it to an article on the Central Budget by S. Narayanaswamy in preference to Kripalani's contribution.
 ---
 
+## Summary
+
+A short typed letter from C. Rajagopalachari (Rajaji) at 60 Bazlullah Road, Tyagarayanagar, Madras-17 to Minoo Masani in Bombay, dated 25th February 1963 and stamped received on 27 February 1963. Rajaji reports that an elaborately arranged meeting for Professor Friedman at Gokhale Hall on 25th February — with Rajaji himself set to chair — has had to be cancelled at the last moment on the speaker's doctor's advice, and he expects the public will be exceedingly disappointed.
+
+The bulk of the letter turns to Swatantra Party organisational business. Rajaji is content with how the newspaper advertisement has been handled but insists Masani must ensure the Party contests at least one of the seats "now put up for auction," warning that otherwise the Party will end "after so much noise in smoke." He mentions having met A. D. Shroff that morning and pressed the same point on him.
+
+The closing paragraph is editorial housekeeping for the journal Swarajya: Kripalani's article has been received and is going into the issue currently in the press, as has a piece from Rajen Babu, and for the first time in the paper's history Rajaji has surrendered the front page — giving it to an article on the Central Budget by S. Narayanaswamy in preference to Kripalani's contribution.
+
 ## Key points
 
 - Rajaji writes from Madras to Masani in Bombay on 25 February 1963, acknowledging Masani's letter of 23 February.

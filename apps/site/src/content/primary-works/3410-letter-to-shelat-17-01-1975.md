@@ -51,6 +51,12 @@ summary: |-
   The letter explains that the party's National Executive is scheduled to meet in Bombay on 22 January and asks that the recipient provide advice on the legal position at the earliest. The document therefore records an internal party communication linking organizational resolutions and constitutional documents with pending legal and electoral matters. No substantive details of the enclosed documents are visible on this page.
 ---
 
+## Summary
+
+This one-page English office letter, dated 17 January 1975 and signed by P. Narayan, Office Secretary of the Swatantra Party Maharashtra, is addressed to Shri Shelat. It forwards ten documents at the request of Mr. Girish Munshi, including a draft plaint, resolutions passed by the party's National Convention and Executive, circulars, correspondence with the Election Commission, and a copy of the party constitution.
+
+The letter explains that the party's National Executive is scheduled to meet in Bombay on 22 January and asks that the recipient provide advice on the legal position at the earliest. The document therefore records an internal party communication linking organizational resolutions and constitutional documents with pending legal and electoral matters. No substantive details of the enclosed documents are visible on this page.
+
 ## Key points
 
 - P. Narayan, identified as Office Secretary, writes from the Swatantra Party Maharashtra office in Bombay.

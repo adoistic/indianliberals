@@ -47,6 +47,12 @@ summary: |-
   A brief later passage notes that the speech had just arrived and that Rajagopalachari had read it. The letter is personal and appreciative rather than argumentative; it offers no substantive policy analysis beyond its positive reference to Masani’s budget speech.
 ---
 
+## Summary
+
+This single-page handwritten English letter from C. Rajagopalachari to Minoo Masani, dated approximately 7 March 1964, is a warm expression of thanks and admiration. Rajagopalachari acknowledges Masani’s speech on the budget and describes it as delightful, thoughtful, and highly impressive, though parts of the handwriting are difficult to decipher.
+
+A brief later passage notes that the speech had just arrived and that Rajagopalachari had read it. The letter is personal and appreciative rather than argumentative; it offers no substantive policy analysis beyond its positive reference to Masani’s budget speech.
+
 ## Key points
 
 - The letter is addressed to Minoo Masani and signed by C. Rajagopalachari.

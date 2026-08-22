@@ -47,6 +47,10 @@ summary: |-
   This one-page Economic Times report, dated 19 April 1971, records an internal leadership change in the Swatantra Party. The party's general council accepted M. R. Masani's resignation as president and appointed N. Dandekar to the post. The clipping also reports that new party office-bearers were elected in September.
 ---
 
+## Summary
+
+This one-page Economic Times report, dated 19 April 1971, records an internal leadership change in the Swatantra Party. The party's general council accepted M. R. Masani's resignation as president and appointed N. Dandekar to the post. The clipping also reports that new party office-bearers were elected in September.
+
 ## Key points
 
 - The report appeared in the Economic Times on 19 April 1971.

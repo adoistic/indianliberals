@@ -50,6 +50,12 @@ summary: |-
   The editorial also notes that Masani resigned from the presidency but not from party membership, interpreting this as evidence that he remains committed to the Swatantra Party’s principles and may contribute fresh ideas from outside office. It concludes by suggesting that Prime Minister Mrs Gandhi’s ambitious plans to address India’s many problems may have a better chance of success with the assistance of capable opposition figures such as Masani. No author byline is visible.
 ---
 
+## Summary
+
+This unsigned editorial, published in Himmat, Bombay, on 16 April 1971, presents Minoo Masani’s resignation as president of the Swatantra Party as a refreshing example of political responsibility. It contrasts Masani’s conduct with the tendency of office-holders to search for scapegoats when their parties fail, emphasizing his acceptance of responsibility for the party’s defeat.
+
+The editorial also notes that Masani resigned from the presidency but not from party membership, interpreting this as evidence that he remains committed to the Swatantra Party’s principles and may contribute fresh ideas from outside office. It concludes by suggesting that Prime Minister Mrs Gandhi’s ambitious plans to address India’s many problems may have a better chance of success with the assistance of capable opposition figures such as Masani. No author byline is visible.
+
 ## Key points
 
 - The editorial calls Minoo Masani’s resignation from the Swatantra Party presidency “refreshing.”

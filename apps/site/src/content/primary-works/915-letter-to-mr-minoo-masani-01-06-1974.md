@@ -50,6 +50,12 @@ summary: |-
   The greater part of the letter details nearly Rs. 2.5 lakhs in liabilities, including loans connected with his printing press, the Jai Andhra Front’s Kalahasti Assembly by-election, and personal borrowing undertaken during his public career. He asks Masani to help arrange the sale of a Hyderabad building or identify wholesale and distribution opportunities for his son’s printing business in Andhra Pradesh. The letter thus combines a political appeal for democratic opposition with a personal request for financial and professional assistance.
 ---
 
+## Summary
+
+In this letter dated 1 June 1974, G. Latchanna writes from Vijayawada to Minoo Masani about the impending dissolution of the Swatantra Party and the proposed merger of seven parties. He presents the planned successor organisation as needing to oppose what he calls the ruling party’s “anti-democratic and dictatorial policies and programmes,” describing the effort as a struggle to preserve democracy. Latchanna also explains that, after 44 years in public life, family responsibilities and financial pressures prevent him from continuing political work with the same intensity.
+
+The greater part of the letter details nearly Rs. 2.5 lakhs in liabilities, including loans connected with his printing press, the Jai Andhra Front’s Kalahasti Assembly by-election, and personal borrowing undertaken during his public career. He asks Masani to help arrange the sale of a Hyderabad building or identify wholesale and distribution opportunities for his son’s printing business in Andhra Pradesh. The letter thus combines a political appeal for democratic opposition with a personal request for financial and professional assistance.
+
 ## Key points
 
 - The letter anticipates the final general council meeting of the Swatantra Party and endorses the proposed merger of seven parties.

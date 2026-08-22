@@ -53,6 +53,10 @@ summary: |-
   This seven-page Swatantra Party memorandum, signed by General Secretary N. Dandekar, reconstructs the party's handling of the March 1968 Gujarat biennial election to the Rajya Sabha. It explains how the Central Parliamentary Board overrode the Gujarat State Parliamentary Board's recommendation of B. R. Shenoy and selected Dr. Biharilal Anantani, whose election in 1966 was secured through an understanding with Babubhai Vaidya's Independent Progressive Group. The memorandum presents these arrangements as commitments that shaped the party's later candidate selection.
 ---
 
+## Summary
+
+This seven-page Swatantra Party memorandum, signed by General Secretary N. Dandekar, reconstructs the party's handling of the March 1968 Gujarat biennial election to the Rajya Sabha. It explains how the Central Parliamentary Board overrode the Gujarat State Parliamentary Board's recommendation of B. R. Shenoy and selected Dr. Biharilal Anantani, whose election in 1966 was secured through an understanding with Babubhai Vaidya's Independent Progressive Group. The memorandum presents these arrangements as commitments that shaped the party's later candidate selection.
+
 ## Key points
 
 - The Gujarat unit had only 26 members against the 31 first-preference votes needed to win a Rajya Sabha seat in 1966, making support from opposition groups decisive.

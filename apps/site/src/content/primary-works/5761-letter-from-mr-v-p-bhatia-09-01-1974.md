@@ -64,6 +64,12 @@ summary: |-
   The first resolution condemns political interests for fomenting linguistic and communal tensions and urges citizens to oppose what it calls anti-national activity. The economic resolution attributes rising prices, shortages, unemployment, industrial unrest, and declining agricultural and industrial production to defective government policies, monetary expansion, unproductive expenditure, public-distribution failures, and excessive controls. It calls for fiscal discipline, greater investment in agriculture, power, and transport, and incentives for production, alongside reductions in taxes and regulatory constraints. The final resolution protests political oppression, use of the D.I.R. and M.I.S.A., detention without trial, and alleged manipulation of the Election Commission through election-date, delimitation, and reservation decisions.
 ---
 
+## Summary
+
+This four-page Swatantra Party document consists of a 9 January 1974 covering letter from V.P. Bhatia enclosing resolutions adopted by the party's General Council at Lucknow on 15–16 December 1973. The resolutions address the revival of linguistic and communal unrest, the deteriorating economic situation, and what the party characterizes as repressive government measures.
+
+The first resolution condemns political interests for fomenting linguistic and communal tensions and urges citizens to oppose what it calls anti-national activity. The economic resolution attributes rising prices, shortages, unemployment, industrial unrest, and declining agricultural and industrial production to defective government policies, monetary expansion, unproductive expenditure, public-distribution failures, and excessive controls. It calls for fiscal discipline, greater investment in agriculture, power, and transport, and incentives for production, alongside reductions in taxes and regulatory constraints. The final resolution protests political oppression, use of the D.I.R. and M.I.S.A., detention without trial, and alleged manipulation of the Election Commission through election-date, delimitation, and reservation decisions.
+
 ## Key points
 
 - The covering letter, dated 9 January 1974, transmits resolutions adopted at the Swatantra Party General Council meeting in Lucknow on 15–16 December 1973.

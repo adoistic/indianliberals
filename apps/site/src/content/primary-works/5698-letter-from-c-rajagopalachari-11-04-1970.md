@@ -50,6 +50,12 @@ summary: |-
   The message insists that any such decision must follow “full and free debate.” It records a brief intervention in an internal party dispute, combining a demand for resignation with a procedural commitment to deliberation before expulsion.
 ---
 
+## Summary
+
+This one-page express telegram, sent by C. Rajagopalachari (“Rajaji”) on 11 April 1970, is addressed to M. R. Masani and C. C. Desai. Rajagopalachari states that if Desai does not resign as he has advised, the National Executive has no alternative but to consider expulsion.
+
+The message insists that any such decision must follow “full and free debate.” It records a brief intervention in an internal party dispute, combining a demand for resignation with a procedural commitment to deliberation before expulsion.
+
 ## Key points
 
 - The document is an express telegram dated 11 April 1970.

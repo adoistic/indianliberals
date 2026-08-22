@@ -50,6 +50,12 @@ summary: |-
   The letter also comments on recent political developments, including the 1974 mid-term election results and Rajaji's supposed predictions about eliminating the party's symbol and name. Mahapatra says that, in his view, party leaders should not seek power merely for its own sake, and notes that the district president had supported his position. The page ends mid-sentence, so the letter's conclusion and full correspondence context are not visible.
 ---
 
+## Summary
+
+This single-page handwritten letter, dated 21 July 1974 and sent from Balasore, Orissa, by Dr. P. C. Mahapatra to Minoo Masani, discusses the prospects of a national alternative party in India. Mahapatra argues that the Swatantra Party and Piloo Mody had played an important role in creating the conditions for such an alternative, while describing his own position during a Balasore district executive meeting as constitutionally neutral. He reports raising constitutional questions about whether the proposed initiative could be led by one leader or would become a collective endeavour.
+
+The letter also comments on recent political developments, including the 1974 mid-term election results and Rajaji's supposed predictions about eliminating the party's symbol and name. Mahapatra says that, in his view, party leaders should not seek power merely for its own sake, and notes that the district president had supported his position. The page ends mid-sentence, so the letter's conclusion and full correspondence context are not visible.
+
 ## Key points
 
 - Mahapatra writes from Balasore, Orissa, to Minoo Masani on 21 July 1974.

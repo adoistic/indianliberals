@@ -46,6 +46,10 @@ summary: |-
   In this one-page letter dated 18 June 1964, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about a background paper by Noorani that has appeared in the press. Masani says the paper will be circulated to members of the General Council the following day and encloses a copy for Rajagopalachari's consideration.
 ---
 
+## Summary
+
+In this one-page letter dated 18 June 1964, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about a background paper by Noorani that has appeared in the press. Masani says the paper will be circulated to members of the General Council the following day and encloses a copy for Rajagopalachari's consideration.
+
 ## Key points
 
 - The letter is dated 18 June 1964.

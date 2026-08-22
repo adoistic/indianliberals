@@ -51,6 +51,12 @@ summary: |-
   The accompanying affidavit by L. R. Sampat, identified as the petitioner's General Secretary, describes the procedural status of the case and the party's request for interim relief before the Maharashtra Legislative Assembly elections. It states that the Court admitted the petition, issued a rule, expedited the hearing, and directed an expedited hearing rather than granting provisional registration. The affidavit emphasizes the party's need to participate in the forthcoming Lok Sabha elections as a registered political party; the rendered pages do not include the Court's final determination.
 ---
 
+## Summary
+
+This 1995 Bombay High Court filing records Swatantra Party (Maharashtra)'s challenge to subsection 5 of section 29(A) of the Representation of the People Act, 1951. The petition argues that the provision unlawfully refuses registration to a political party unless it affirms faith in and allegiance to the principle of socialism, and asks the Election Commission of India to register the party under the Act.
+
+The accompanying affidavit by L. R. Sampat, identified as the petitioner's General Secretary, describes the procedural status of the case and the party's request for interim relief before the Maharashtra Legislative Assembly elections. It states that the Court admitted the petition, issued a rule, expedited the hearing, and directed an expedited hearing rather than granting provisional registration. The affidavit emphasizes the party's need to participate in the forthcoming Lok Sabha elections as a registered political party; the rendered pages do not include the Court's final determination.
+
 ## Key points
 
 - Swatantra Party (Maharashtra) challenges the constitutional validity of subsection 5 of section 29(A) of the Representation of the People Act, 1951.

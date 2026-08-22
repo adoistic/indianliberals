@@ -52,6 +52,12 @@ summary: |-
   The argument locates the controversy in competing economic interests, especially Bombay City’s role as an employment and industrial centre for Maharashtrians, Gujaratis, Madrasis, and others. Manjeri criticises political leaders for mobilising legitimate regional grievances through the language issue, and urges intellectuals to explain the economic causes of the conflict, promote industrial development and fair distribution, and help people understand their shared national interests. The pamphlet closes with an appeal to leaders to put India first, reject linguistic chauvinism, and seek a larger national settlement rather than “bigger and bigger zones.”
 ---
 
+## Summary
+
+This 12-page pamphlet, signed by J. R. Manjeri and dated October 1958, argues against the agitation for linguistic provinces, particularly the division of Bombay State into Maha-Gujarat and Samyukta Maharashtra. It acknowledges the grief, anger, and violence surrounding the August 1956 decision to retain a bilingual Bombay State, but contends that Parliament’s decision prevented a more dangerous national crisis. The pamphlet presents linguistic reorganisation as, at best, a temporary patch that leaves underlying political and economic problems unresolved.
+
+The argument locates the controversy in competing economic interests, especially Bombay City’s role as an employment and industrial centre for Maharashtrians, Gujaratis, Madrasis, and others. Manjeri criticises political leaders for mobilising legitimate regional grievances through the language issue, and urges intellectuals to explain the economic causes of the conflict, promote industrial development and fair distribution, and help people understand their shared national interests. The pamphlet closes with an appeal to leaders to put India first, reject linguistic chauvinism, and seek a larger national settlement rather than “bigger and bigger zones.”
+
 ## Key points
 
 - The pamphlet defends the 1956 decision to retain a bilingual Bombay State.

@@ -44,6 +44,10 @@ summary: |-
   This one-page letter from M. R. Masani to Jayaprakash Narayan is dated October 7, 1974. Masani writes that he has returned from Europe and would like to meet Narayan, but cannot leave Bombay before the end of the month because of existing commitments in Bombay and Deolali. He refers to an attached telegram and proposes a detailed travel itinerary for a November visit to Patna and Calcutta.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to Jayaprakash Narayan is dated October 7, 1974. Masani writes that he has returned from Europe and would like to meet Narayan, but cannot leave Bombay before the end of the month because of existing commitments in Bombay and Deolali. He refers to an attached telegram and proposes a detailed travel itinerary for a November visit to Patna and Calcutta.
+
 ## Key points
 
 - Masani writes to Jayaprakash Narayan shortly after returning from Europe.

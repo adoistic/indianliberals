@@ -54,6 +54,12 @@ summary: |-
   The letter sets out a participatory model of party policymaking in which each wing consults the groups it represents and communicates their views to the party leadership. It recommends proportional distribution of candidates and electoral expenditure among the four wings, while identifying individual property and freedom of speech and action—subject to Indian social traditions and culture—as the party’s two guiding principles. The letter closes with an appeal to Masani to reconsider his stated irrevocable resignation.
 ---
 
+## Summary
+
+This two-page English letter reproduces comments by N. Parthasarathy, a Swatantra Party parliamentary candidate from Tamil Nadu, addressed to Minoo Masani and dated 6 April 1971. Parthasarathy argues that the party should avoid electoral alliances because they obscure its independent identity, divert its resources toward supporting other parties, and leave its own organisation weak. He proposes restructuring the party into four independent wings—agriculturists, small traders and merchants, professionals, and industrialists—with labour represented through the agricultural or industrial wing rather than as a separate section.
+
+The letter sets out a participatory model of party policymaking in which each wing consults the groups it represents and communicates their views to the party leadership. It recommends proportional distribution of candidates and electoral expenditure among the four wings, while identifying individual property and freedom of speech and action—subject to Indian social traditions and culture—as the party’s two guiding principles. The letter closes with an appeal to Masani to reconsider his stated irrevocable resignation.
+
 ## Key points
 
 - Parthasarathy opposes Swatantra Party alliances in general elections, arguing that they damage the party’s separate identity and organisation.

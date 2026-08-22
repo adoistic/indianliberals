@@ -53,6 +53,12 @@ summary: |-
   The committee appointed a Parliamentary Board consisting of Shantilal L. Thar, J. Venkiteswaran, and Dhiraj Shah to consider candidates. It decided that elections should be conducted at a non-party level but that support could be extended to candidates with a good public image and the capacity to raise adequate campaign funds. Party units were instructed to send candidate recommendations to the Regional Office by 22 January 1973; the party might provide minimum financial assistance if the Parliamentary Board was satisfied that candidates could raise the remaining funds.
 ---
 
+## Summary
+
+These two pages record the minutes of a meeting of the Executive Committee of the Swatantra Party, Bombay Region, held on 17 January 1973. The meeting reviewed the forthcoming municipal elections and agreed that civic contests should be fought on their merits, with politics kept separate from civic affairs. Members nevertheless approved supporting party members or non-members who contested as independents, including by allowing them to use the Swatantra symbol. The minutes also record a disagreement over whether candidates should contest only as supported independents or under the party banner.
+
+The committee appointed a Parliamentary Board consisting of Shantilal L. Thar, J. Venkiteswaran, and Dhiraj Shah to consider candidates. It decided that elections should be conducted at a non-party level but that support could be extended to candidates with a good public image and the capacity to raise adequate campaign funds. Party units were instructed to send candidate recommendations to the Regional Office by 22 January 1973; the party might provide minimum financial assistance if the Parliamentary Board was satisfied that candidates could raise the remaining funds.
+
 ## Key points
 
 - The document records a 17 January 1973 meeting of the Swatantra Party's Bombay Region Executive Committee.

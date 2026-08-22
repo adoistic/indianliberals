@@ -49,6 +49,12 @@ summary: |-
   Masani also responds to Mahida's report about indiscipline in the state, promising to address the matter in Delhi while asking him to prevent the situation from worsening. He notes that press reports have left unclear what Mahida and his colleagues ultimately did concerning the election of the Deputy Speaker. The letter closes with a request for Mahida's telephone number and encouragement to use Wahab Azad in setting up the office of the Parliamentary Group.
 ---
 
+## Summary
+
+In this letter dated 24 April 1962, M. R. Masani writes to Narendra Singh Mahida about a missed exchange of correspondence after Mahida changed his address. Masani is awaiting confirmation of a meeting scheduled for 2 May and explains that he cannot finalize his travel arrangements until he knows whether the meeting will take place; otherwise, he expects to reach Delhi on 3 May.
+
+Masani also responds to Mahida's report about indiscipline in the state, promising to address the matter in Delhi while asking him to prevent the situation from worsening. He notes that press reports have left unclear what Mahida and his colleagues ultimately did concerning the election of the Deputy Speaker. The letter closes with a request for Mahida's telephone number and encouragement to use Wahab Azad in setting up the office of the Parliamentary Group.
+
 ## Key points
 
 - Masani acknowledges Mahida's letter and explains that their correspondence crossed after Mahida changed his address.

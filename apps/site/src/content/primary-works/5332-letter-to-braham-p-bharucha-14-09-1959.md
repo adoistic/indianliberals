@@ -43,6 +43,10 @@ summary: |-
   This one-page letter, dated 14 September 1959, is addressed to Mr. Behram P. Bharucha at 180 Ledington Road, Bombay 7. The writer acknowledges Bharucha's letter of 4 September and explains that Mr. M. R. Masani is currently away from the United Kingdom and expected to return to India around 6 October.
 ---
 
+## Summary
+
+This one-page letter, dated 14 September 1959, is addressed to Mr. Behram P. Bharucha at 180 Ledington Road, Bombay 7. The writer acknowledges Bharucha's letter of 4 September and explains that Mr. M. R. Masani is currently away from the United Kingdom and expected to return to India around 6 October.
+
 ## Key points
 
 - The letter is dated 14 September 1959.

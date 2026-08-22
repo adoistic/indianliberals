@@ -51,6 +51,12 @@ summary: |-
   Raju says the Bombay office is facing immediate financial difficulties but expects to become self-sufficient within one or two months. He notes a financial commitment of Rs. 2,500 through the end of February and asks Sundaram, as party president, to provide Rs. 2,500 in assistance. The letter also conveys concern that BLD members are discussing the possible closure of the Bombay office.
 ---
 
+## Summary
+
+In this letter dated 25 February 1975, S. V. Raju writes from the Swatantra Party's Bombay office to G. K. Sundaram, President of the All-India Swatantra Party. Raju reports that the BLD office has not paid its share of rent and electricity charges for five months, leaving the Bombay office unable to meet its own rent and staff salaries. He states that the outstanding BLD amount is Rs. 1,200 and that two months of office rent, amounting to Rs. 800, is also unpaid.
+
+Raju says the Bombay office is facing immediate financial difficulties but expects to become self-sufficient within one or two months. He notes a financial commitment of Rs. 2,500 through the end of February and asks Sundaram, as party president, to provide Rs. 2,500 in assistance. The letter also conveys concern that BLD members are discussing the possible closure of the Bombay office.
+
 ## Key points
 
 - S. V. Raju wrote the letter from the Swatantra Party's Bombay office on 25 February 1975.

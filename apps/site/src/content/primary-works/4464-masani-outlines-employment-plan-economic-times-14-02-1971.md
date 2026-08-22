@@ -55,6 +55,12 @@ summary: |-
   The interview connects employment policy with constitutional rights, social justice, and the dangers of excessive state control. Masani supports equal opportunity and safeguards for weaker sections, but criticises the expansion and inefficiency of public-sector enterprises, arguing that managerial responsibility and profitability matter. He also discusses political instability, the Congress's decline, the prospects of a stable government, and the need for private initiative rather than dependence on government. The clipping includes continuations of both the interview and a separate report on a dispute involving the DSP plant; those continuation pages were not rendered.
 ---
 
+## Summary
+
+This newspaper interview, credited to M. L. Kamath and featuring M. R. Masani, presents an employment programme centred on public investment, agricultural development, education, and private enterprise. Masani argues that employment should receive priority in the national budget, while agricultural productivity and rural purchasing power should be strengthened to support industrial growth. He also calls for investment in infrastructure, irrigation, power, communications, technical education, and housing.
+
+The interview connects employment policy with constitutional rights, social justice, and the dangers of excessive state control. Masani supports equal opportunity and safeguards for weaker sections, but criticises the expansion and inefficiency of public-sector enterprises, arguing that managerial responsibility and profitability matter. He also discusses political instability, the Congress's decline, the prospects of a stable government, and the need for private initiative rather than dependence on government. The clipping includes continuations of both the interview and a separate report on a dispute involving the DSP plant; those continuation pages were not rendered.
+
 ## Key points
 
 - Masani proposes treating employment as a priority in the national budget.

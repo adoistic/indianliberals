@@ -51,6 +51,12 @@ summary: |-
   In the rendered page, Masani frames the Swatantra Party as that potential second party. He describes its immediate objective as denying the Congress a continuing monopoly of power and developing an organized national alternative for the 1967 general election. The article emphasizes competent candidates, adequate resources, internal openness, and recruitment from varied social backgrounds. It also invokes C. Rajagopalachari’s appeal for a government that is efficient but does not seek to monopolize power, and concludes by linking Swatantra’s prospects to the synthesis of Gandhian and modern liberal thought.
 ---
 
+## Summary
+
+In the rendered page, M. R. Masani argues that a functioning parliamentary democracy requires a vigilant opposition and a credible alternative government. He criticizes India’s fragmented opposition, the first-past-the-post electoral system, and the imbalance between the Congress Party’s share of seats and its share of votes. He presents proportional representation and the emergence of a second national party as remedies for what he calls an “outmoded electoral system.”
+
+In the rendered page, Masani frames the Swatantra Party as that potential second party. He describes its immediate objective as denying the Congress a continuing monopoly of power and developing an organized national alternative for the 1967 general election. The article emphasizes competent candidates, adequate resources, internal openness, and recruitment from varied social backgrounds. It also invokes C. Rajagopalachari’s appeal for a government that is efficient but does not seek to monopolize power, and concludes by linking Swatantra’s prospects to the synthesis of Gandhian and modern liberal thought.
+
 ## Key points
 
 - Masani defines the opposition’s two essential functions as criticizing the government and offering an alternative government.

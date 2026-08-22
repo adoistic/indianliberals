@@ -48,6 +48,12 @@ summary: |-
   Khan bases his request on regional representation. He notes that during 1967–69 Madras had not been represented on any of the financial committees, while the Estimates Committee included two Members of Parliament from Mysore and one from Andhra, but none from Madras. A handwritten note at the foot of the letter records that a copy was sent to M. R. Masani in continuation of a personal discussion.
 ---
 
+## Summary
+
+This single-page letter, dated 5 April 1969 and written by H. Ajmal Khan from New Delhi to Prof. N. G. Ranga, concerns the Swatantra Party's forthcoming nominations to parliamentary financial committees. Khan asks Ranga to consider his name for the Estimates Committee when the Executive Committee meets on 15 April.
+
+Khan bases his request on regional representation. He notes that during 1967–69 Madras had not been represented on any of the financial committees, while the Estimates Committee included two Members of Parliament from Mysore and one from Andhra, but none from Madras. A handwritten note at the foot of the letter records that a copy was sent to M. R. Masani in continuation of a personal discussion.
+
 ## Key points
 
 - H. Ajmal Khan writes to Prof. N. G. Ranga on 5 April 1969 from 17 Canning Lane, New Delhi.

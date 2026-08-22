@@ -51,6 +51,12 @@ summary: |-
   The explanatory notes state that two jeeps belonging to the Ramgarh Industries (Coal) Co. had not yet been returned, so the new jeeps for items 1 and 2 had not been given. They further explain that agreements in the other cases had been delayed by decisions on candidatures, except for items 5 and 16, but that the jeeps were operating in the Lok Sabha constituencies and agreement execution was expected to be completed soon. Handwritten annotations add constituency and candidate-related notes, but their full meaning is not always clear.
 ---
 
+## Summary
+
+This two-page English administrative record, headed “ALLOTMENT OF NEW JEEPS,” lists 33 parliamentary constituencies or related entries, their registration numbers, the proposed allotment unit, the candidate name, and whether an agreement had been executed. The listed constituencies are concentrated in Bihar and adjoining areas, with entries also referring to Jharkhand and Odisha. Most entries are marked “No”; only the candidates for Purnea and Maharajganj are marked “Yes.”
+
+The explanatory notes state that two jeeps belonging to the Ramgarh Industries (Coal) Co. had not yet been returned, so the new jeeps for items 1 and 2 had not been given. They further explain that agreements in the other cases had been delayed by decisions on candidatures, except for items 5 and 16, but that the jeeps were operating in the Lok Sabha constituencies and agreement execution was expected to be completed soon. Handwritten annotations add constituency and candidate-related notes, but their full meaning is not always clear.
+
 ## Key points
 
 - The record documents the allotment of new jeeps across 33 parliamentary constituencies or related entries.

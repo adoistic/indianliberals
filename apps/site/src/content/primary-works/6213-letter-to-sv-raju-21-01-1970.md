@@ -51,6 +51,12 @@ summary: |-
   The letter announces that, because of unavoidable reasons and at the request of district office-bearers, both the Sundergarh conference and the State Executive Committee meeting have been postponed indefinitely. Majhi asks Raju to inform Masani and apologises for the inconvenience. The second rendered page shows the reverse of the express-delivery envelope and contains no additional substantive correspondence.
 ---
 
+## Summary
+
+This typed letter from the Swatantra Party Orissa Unit, dated 21 January 1970, is addressed to S. V. Raju, the party's Executive Secretary at its national headquarters in Bombay. General Secretary G. R. Majhi refers to Raju's letter of 17 January and to an earlier letter sent to Minoo Masani concerning the Sundergarh District Workers' Conference, scheduled at Rourkela for 9–10 February.
+
+The letter announces that, because of unavoidable reasons and at the request of district office-bearers, both the Sundergarh conference and the State Executive Committee meeting have been postponed indefinitely. Majhi asks Raju to inform Masani and apologises for the inconvenience. The second rendered page shows the reverse of the express-delivery envelope and contains no additional substantive correspondence.
+
 ## Key points
 
 - The letter was sent by the Swatantra Party Orissa Unit on 21 January 1970.

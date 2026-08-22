@@ -55,6 +55,12 @@ summary: |-
   The note argues that devaluation must be accompanied by a reduction in plan size, an end to inflationary financing, and a firm commitment to growth alongside stable prices and incomes. It advocates limiting price increases to zero or an average maximum of two percent annually, linking wage increases to labour productivity, and reducing controls, permits, and quotas that have constrained production. The author supports decontrol, concessions to encourage private foreign investment, the redirection of government foreign aid toward private hands, restoration of individual saving, and reductions in direct and indirect taxation. The document does not identify a printed author, date, publisher, or place of publication; a handwritten notation appears on the first page but is not sufficient to establish authorship.
 ---
 
+## Summary
+
+This four-page press note offers a cautious endorsement of the devaluation of the rupee while arguing that devaluation alone cannot resolve India's economic problems. It attributes the need for adjustment to inflation since 1956, estimates the effective devaluation at 57.5 percent rather than the officially declared 36.5 percent, and warns that the increased burden of servicing foreign debt could worsen the balance of payments unless loan maturities are renegotiated. It also questions the justification for maintaining or enlarging the Fourth Plan when the foreign-exchange requirement has risen sharply and promised aid remains insufficient.
+
+The note argues that devaluation must be accompanied by a reduction in plan size, an end to inflationary financing, and a firm commitment to growth alongside stable prices and incomes. It advocates limiting price increases to zero or an average maximum of two percent annually, linking wage increases to labour productivity, and reducing controls, permits, and quotas that have constrained production. The author supports decontrol, concessions to encourage private foreign investment, the redirection of government foreign aid toward private hands, restoration of individual saving, and reductions in direct and indirect taxation. The document does not identify a printed author, date, publisher, or place of publication; a handwritten notation appears on the first page but is not sufficient to establish authorship.
+
 ## Key points
 
 - The note cautiously welcomes rupee devaluation but calculates its effective scale at approximately 57.5 percent.

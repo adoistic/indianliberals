@@ -49,6 +49,12 @@ summary: |-
   It lists the price as Re. 1.00, with postage extra, and identifies The Hindustan Times, New Delhi, as the publisher or issuing body. The publication’s contents, chapters, and arguments are not visible in the rendered page; the available evidence is limited to the advertisement.
 ---
 
+## Summary
+
+The rendered page is a Hindustan Times advertisement for a 68-page English publication titled “FERTILIZERS FOR MORE FOOD,” by Mr K. C. Pant, M.Sc. The advertisement presents the publication as a practical, non-technical guide to fertilizers and their application under Indian conditions.
+
+It lists the price as Re. 1.00, with postage extra, and identifies The Hindustan Times, New Delhi, as the publisher or issuing body. The publication’s contents, chapters, and arguments are not visible in the rendered page; the available evidence is limited to the advertisement.
+
 ## Key points
 
 - The page advertises a publication titled “FERTILIZERS FOR MORE FOOD.”

@@ -47,6 +47,12 @@ summary: |-
   The resignation has been accepted, but the writer will remain through the current Party elections and transfer responsibility on December 31. They also state that they will continue to be involved in public life as a consultant in Minoo Masani's firm. The letter is addressed to T. Sadasivan of Bharathan Publications Pvt. Ltd. in Madras; the writer's handwritten signature is not securely legible.
 ---
 
+## Summary
+
+This one-page letter, dated November 15, 1973, explains the writer's decision to resign from the Party after waiting a year, following earlier advice from the recipient and a request from Rajaji. The writer says that continuing in the position has become impossible if they are to be fair to their family.
+
+The resignation has been accepted, but the writer will remain through the current Party elections and transfer responsibility on December 31. They also state that they will continue to be involved in public life as a consultant in Minoo Masani's firm. The letter is addressed to T. Sadasivan of Bharathan Publications Pvt. Ltd. in Madras; the writer's handwritten signature is not securely legible.
+
 ## Key points
 
 - The writer had previously told the recipient of a desire to leave their current Party position and seek a commercial opportunity.

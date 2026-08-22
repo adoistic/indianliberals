@@ -47,6 +47,12 @@ summary: |-
   The telegram is signed simply "Srikumar" and carries the routine bureaucratic apparatus of the period: sequence number 1500, a receiving-hall stamp, and the printed Hindi/English footer explaining the header fields. The document is purely logistical — a hospitality note co-ordinating a visit by Masani to Madras — and contains no argumentative or political content.
 ---
 
+## Summary
+
+This is a short pink-form Indian Posts and Telegraphs Department telegram addressed to Mr M. R. Masani at 148 Mahatma Gandhi Road, Bombay, sent from Madras (AP1098) and bearing a Bombay receiving stamp dated 1.12.75. The single-line message informs Masani that a room has been reserved for him at Hotel Connemara in Madras and asks him to communicate his flight number so that the sender can meet him at Meenambakkam (Madras) airport.
+
+The telegram is signed simply "Srikumar" and carries the routine bureaucratic apparatus of the period: sequence number 1500, a receiving-hall stamp, and the printed Hindi/English footer explaining the header fields. The document is purely logistical — a hospitality note co-ordinating a visit by Masani to Madras — and contains no argumentative or political content.
+
 ## Key points
 
 - Official Indian Posts and Telegraphs Department telegram form (GIPN 60 P&T Nl. 75), printed in pink.

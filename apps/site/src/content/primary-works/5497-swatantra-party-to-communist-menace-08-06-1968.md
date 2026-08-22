@@ -49,6 +49,10 @@ summary: |-
   This 8 June 1968 report from Statesman Weekly describes resolutions adopted by the Swatantra Party general council in response to what it presents as a growing Communist threat in Kerala and Tamil Nadu. The resolutions also called for a favourable Delhi response to the Singapore Prime Minister’s mutual-defence proposal for South-East Asia. The article frames these positions alongside an internal party dispute over discipline and leadership.
 ---
 
+## Summary
+
+This 8 June 1968 report from Statesman Weekly describes resolutions adopted by the Swatantra Party general council in response to what it presents as a growing Communist threat in Kerala and Tamil Nadu. The resolutions also called for a favourable Delhi response to the Singapore Prime Minister’s mutual-defence proposal for South-East Asia. The article frames these positions alongside an internal party dispute over discipline and leadership.
+
 ## Key points
 
 - The Swatantra Party general council identified growing Communist influence in Kerala and Tamil Nadu as a major concern.

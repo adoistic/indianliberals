@@ -47,6 +47,10 @@ summary: |-
   This one-page letter from C. Rajagopalachari to M. R. Masani is dated 8 May 1964 and concerns arrangements for an upcoming visit. Rajagopalachari acknowledges Masani’s letter of 7 May, proposes arriving on Saturday afternoon the 16th and returning on Monday afternoon, and says this schedule is preferable to the alternative plan.
 ---
 
+## Summary
+
+This one-page letter from C. Rajagopalachari to M. R. Masani is dated 8 May 1964 and concerns arrangements for an upcoming visit. Rajagopalachari acknowledges Masani’s letter of 7 May, proposes arriving on Saturday afternoon the 16th and returning on Monday afternoon, and says this schedule is preferable to the alternative plan.
+
 ## Key points
 
 - The letter is dated 8 May 1964 and sent from Madras.

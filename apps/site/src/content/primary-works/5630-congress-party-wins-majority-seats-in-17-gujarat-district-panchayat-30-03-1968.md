@@ -52,6 +52,12 @@ summary: |-
   The report says the Congress contested nearly all the seats, while the Swatantra Party's opposition was weakened by internal quarrels and frustration at the taluka and district levels. It records Congress victories in areas where the party had lost ground in the 1967 general and Assembly elections, and quotes Chief Minister Hitendra Desai as describing the results as a “death blow” to Swatantra in Gujarat. The article also notes that Congress won 18 of 19 seats in Surendranagar and all 16 seats in Sabarkantha.
 ---
 
+## Summary
+
+This newspaper report describes the Congress Party's clean sweep in Gujarat's 17 district panchayats, where it won about 90 per cent of the seats. The results are presented as evidence that Congress recovered organisational strength after the general elections and consolidated its position in local government. The article attributes the outcome partly to the party's campaign and partly to internal divisions and organisational weaknesses within the Swatantra Party.
+
+The report says the Congress contested nearly all the seats, while the Swatantra Party's opposition was weakened by internal quarrels and frustration at the taluka and district levels. It records Congress victories in areas where the party had lost ground in the 1967 general and Assembly elections, and quotes Chief Minister Hitendra Desai as describing the results as a “death blow” to Swatantra in Gujarat. The article also notes that Congress won 18 of 19 seats in Surendranagar and all 16 seats in Sabarkantha.
+
 ## Key points
 
 - Congress won a clean sweep in all 17 Gujarat district panchayats.

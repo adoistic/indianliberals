@@ -47,6 +47,10 @@ summary: |-
   This undated typed letter, sent from Bombay to N. Dandekar, the Swatantra Party’s General Secretary, requests an emergency meeting of the party’s General Council. Its stated purpose is to discuss Minoo Masani’s resignation from the National Executive and Central Parliamentary Board, consider the necessary steps, and enable the party to resume united work under the leadership of its senior figures. The sender’s handwritten signature is not legible enough to identify.
 ---
 
+## Summary
+
+This undated typed letter, sent from Bombay to N. Dandekar, the Swatantra Party’s General Secretary, requests an emergency meeting of the party’s General Council. Its stated purpose is to discuss Minoo Masani’s resignation from the National Executive and Central Parliamentary Board, consider the necessary steps, and enable the party to resume united work under the leadership of its senior figures. The sender’s handwritten signature is not legible enough to identify.
+
 ## Key points
 
 - The letter is addressed to N. Dandekar, M.P., General Secretary of the Swatantra Party.

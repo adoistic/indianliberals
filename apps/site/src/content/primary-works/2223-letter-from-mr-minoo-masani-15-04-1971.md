@@ -48,6 +48,12 @@ summary: |-
   The letter is a brief expression of personal gratitude and kind regard. It contains no political, economic, or institutional argument.
 ---
 
+## Summary
+
+This one-page English letter, dated 15 April 1971, is from M. R. Masani to Mr. J. R. Narayana Ayyer of Servaiyam, Coonoor. Masani acknowledges Ayyer's letter of 3 April and expresses appreciation for the effort involved in writing despite Ayyer's suffering from cataract.
+
+The letter is a brief expression of personal gratitude and kind regard. It contains no political, economic, or institutional argument.
+
 ## Key points
 
 - The letter is dated 15 April 1971.

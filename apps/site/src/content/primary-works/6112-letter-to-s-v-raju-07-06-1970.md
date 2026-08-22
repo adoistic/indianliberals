@@ -50,6 +50,12 @@ summary: |-
   Masani also asks Raju to collect an article by Raju supporting Nixon, published in Swarajya, along with a clipping related to Masani's own support for Nixon. The letter connects the two correspondents through the Swatantra political milieu and shows Masani's interest in documenting public commentary on U.S. President Richard Nixon.
 ---
 
+## Summary
+
+In this handwritten letter dated June 7, 1970, Minoo Masani writes from the Hotel Lotti in Paris to S. V. Raju. He outlines a forthcoming schedule involving Bombay and Delhi, asks Raju to send papers, and requests a meeting before his departure for Delhi.
+
+Masani also asks Raju to collect an article by Raju supporting Nixon, published in Swarajya, along with a clipping related to Masani's own support for Nixon. The letter connects the two correspondents through the Swatantra political milieu and shows Masani's interest in documenting public commentary on U.S. President Richard Nixon.
+
 ## Key points
 
 - The letter is dated June 7, 1970, and is written from Hotel Lotti in Paris.

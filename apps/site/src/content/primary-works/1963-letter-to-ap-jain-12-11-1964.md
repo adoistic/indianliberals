@@ -51,6 +51,12 @@ summary: |-
   Masani adds that the party has sent all of its Members of Parliament two items for their use: a background paper on “the BOMB” and N. A. Palkhivala’s booklet, “Privilege of Legislatures.” The letter thus records a practical parliamentary coordination effort and identifies legislative privilege and party communications as its immediate concerns.
 ---
 
+## Summary
+
+In this one-page letter dated November 12, 1964, M. R. Masani confirms to A. P. Jain that he will arrive in Delhi from Patna on the afternoon of the 15th. He asks Jain to visit his house with the relevant papers before the Swatantra Party Parliamentary Group meets that evening.
+
+Masani adds that the party has sent all of its Members of Parliament two items for their use: a background paper on “the BOMB” and N. A. Palkhivala’s booklet, “Privilege of Legislatures.” The letter thus records a practical parliamentary coordination effort and identifies legislative privilege and party communications as its immediate concerns.
+
 ## Key points
 
 - Masani writes to A. P. Jain on November 12, 1964.

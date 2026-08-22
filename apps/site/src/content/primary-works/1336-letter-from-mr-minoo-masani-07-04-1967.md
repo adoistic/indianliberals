@@ -47,6 +47,10 @@ summary: |-
   In this letter dated April 7, 1967, Minoo Masani writes to M. C. Chagla, Deputy Secretary of the Lok Sabha Secretariat, regarding nominations to the General Assembly of the Indian Council of Cultural Relations. Masani asks that the Hon. Speaker consider two nominees in order of preference for appointment: Mr. H. Ajmal Khan and Nawabzada Zulfiqar Ali Khan.
 ---
 
+## Summary
+
+In this letter dated April 7, 1967, Minoo Masani writes to M. C. Chagla, Deputy Secretary of the Lok Sabha Secretariat, regarding nominations to the General Assembly of the Indian Council of Cultural Relations. Masani asks that the Hon. Speaker consider two nominees in order of preference for appointment: Mr. H. Ajmal Khan and Nawabzada Zulfiqar Ali Khan.
+
 ## Key points
 
 - The letter is dated April 7, 1967, and is addressed to M. C. Chagla in New Delhi.

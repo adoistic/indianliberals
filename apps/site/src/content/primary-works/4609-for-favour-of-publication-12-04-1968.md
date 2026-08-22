@@ -52,6 +52,12 @@ summary: |-
   The document records the committee's unanimous adoption of a resolution criticizing the Gujarat Legislature Party for supporting Vaidya and objecting to what it calls the injustice done to him by the party's independent progressive group. It further requests postponement of a proposed Ahmedabad meeting until after disciplinary action has been taken against Gujarat members asked to show cause, and calls for action against Shri Bhagirathji Bhagirath Patel over alleged interference with the party's candidate-selection process. The communication authorizes telegrams to party leaders and is signed by Ratibhai [illegible surname] Patel as General Secretary, Rajkot District Swatantra Party.
 ---
 
+## Summary
+
+This two-page English office communication, dated April 10, 1968, reports a resolution of the Rajkot District Committee of the Swatantra Party concerning the proposed election of Babubhai Vaidya as the party's Rajya Sabha candidate. The committee describes Vaidya's selection as a serious breach of faith that has harmed the party in Gujarat, and urges the Swatantra Party leadership to restore discipline and create conditions for Minoo Masani to assume the party's national leadership.
+
+The document records the committee's unanimous adoption of a resolution criticizing the Gujarat Legislature Party for supporting Vaidya and objecting to what it calls the injustice done to him by the party's independent progressive group. It further requests postponement of a proposed Ahmedabad meeting until after disciplinary action has been taken against Gujarat members asked to show cause, and calls for action against Shri Bhagirathji Bhagirath Patel over alleged interference with the party's candidate-selection process. The communication authorizes telegrams to party leaders and is signed by Ratibhai [illegible surname] Patel as General Secretary, Rajkot District Swatantra Party.
+
 ## Key points
 
 - The document is dated April 10, 1968, and comes from the Rajkot District Swatantra Party.

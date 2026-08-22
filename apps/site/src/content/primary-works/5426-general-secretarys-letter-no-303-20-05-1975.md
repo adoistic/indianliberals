@@ -49,6 +49,12 @@ summary: |-
   The letter requests information on topics of particular interest in each state, available writers and their contact details, whether writers would work for payment or voluntarily, local printing facilities and rates, and existing distribution arrangements. It closes by urging prompt replies so that the work can begin quickly.
 ---
 
+## Summary
+
+This one-page letter, dated 20 May 1975 and signed by General Secretary Madhav Mehta, asks state-level Swatantra Party offices to help expand party literature in regional languages. The headquarters acknowledges receiving numerous requests for such material and proposes assisting states with its production.
+
+The letter requests information on topics of particular interest in each state, available writers and their contact details, whether writers would work for payment or voluntarily, local printing facilities and rates, and existing distribution arrangements. It closes by urging prompt replies so that the work can begin quickly.
+
 ## Key points
 
 - Swatantra Party headquarters identifies an urgent need for party literature.

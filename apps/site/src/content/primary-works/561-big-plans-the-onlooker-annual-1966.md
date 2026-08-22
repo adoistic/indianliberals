@@ -52,3 +52,9 @@ summary: |-
   
   Masani calls for a pause in planning and a substantial redirection of policy: completion and fuller use of existing projects, reduced state expenditure, lower taxation, greater scope for private investment, agricultural priority, less red tape, and a “Plan holiday.” He presents this programme as a route to faster growth and greater individual economic freedom, contrasting India’s planning regime with the more market-oriented policies he associates with Ceylon and post-war Germany. Advertising pages interrupt the article, and no contents page or masthead is visible in the supplied material.
 ---
+
+## Summary
+
+The supplied pages from The ONLOOKER Annual, 1966 include M. R. Masani’s article “big plans—slow progress,” alongside commercial advertisements. The article argues that India’s expanding Five-Year Plans have produced diminishing economic returns, rising indebtedness, inflation, inadequate food and industrial output, and increasing dependence on foreign assistance. Masani attributes these failures to distorted investment priorities, an expanding state sector, excessive regulation, and the belief that larger plans automatically produce faster progress.
+
+Masani calls for a pause in planning and a substantial redirection of policy: completion and fuller use of existing projects, reduced state expenditure, lower taxation, greater scope for private investment, agricultural priority, less red tape, and a “Plan holiday.” He presents this programme as a route to faster growth and greater individual economic freedom, contrasting India’s planning regime with the more market-oriented policies he associates with Ceylon and post-war Germany. Advertising pages interrupt the article, and no contents page or masthead is visible in the supplied material.

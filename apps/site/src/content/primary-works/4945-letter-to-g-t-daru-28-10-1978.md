@@ -45,6 +45,12 @@ summary: |-
   Masani requests two copies so that he can correct one and return it. The sheet also contains handwritten annotations beneath the typed letter; their wording is not fully legible in the rendered page.
 ---
 
+## Summary
+
+This one-page English letter, dated October 28, 1975, is addressed by R. Masani to C. T. Daru. Masani says he has received a duplicated copy of M. C. Chagla’s speech in Ahmedabad and asks Daru to send him the text of his own speech as well.
+
+Masani requests two copies so that he can correct one and return it. The sheet also contains handwritten annotations beneath the typed letter; their wording is not fully legible in the rendered page.
+
 ## Key points
 
 - The letter is dated October 28, 1975.

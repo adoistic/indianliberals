@@ -49,6 +49,12 @@ summary: |-
   Dandekar says that the Board and Executive unanimously requested Masani to withdraw his resignation. Their reasoning was that disciplinary action had already been initiated against Mahida and five other people known to have supported Masani’s candidature, leaving, in their view, no further cause for Masani’s “dramatic act of atonement.” The letter closes with a personal appeal that Masani return to both bodies. The single rendered page does not provide the broader circumstances of the disciplinary proceedings, the identities of all the parties involved, or Masani’s response.
 ---
 
+## Summary
+
+This letter, dated April 22, 1968, is N. Dandekar’s appeal to M. R. Masani to reconsider his resignation from the Central Parliamentary Board and the National Executive. Dandekar reports that both bodies discussed Masani’s letter at meetings in New Delhi on April 13 and 14 and that he read the resignation letter aloud to them. He also notes that Masani had reiterated his refusal to withdraw the resignation when invited to attend those meetings by Prof. Ranga, identified in the letter as the President.
+
+Dandekar says that the Board and Executive unanimously requested Masani to withdraw his resignation. Their reasoning was that disciplinary action had already been initiated against Mahida and five other people known to have supported Masani’s candidature, leaving, in their view, no further cause for Masani’s “dramatic act of atonement.” The letter closes with a personal appeal that Masani return to both bodies. The single rendered page does not provide the broader circumstances of the disciplinary proceedings, the identities of all the parties involved, or Masani’s response.
+
 ## Key points
 
 - N. Dandekar wrote to M. R. Masani on April 22, 1968.

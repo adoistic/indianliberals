@@ -50,6 +50,12 @@ summary: |-
   Raju lists R. N. Singh Deo, P. K. Deo, Lomanath Mishra, Rajballabh Mishra, and Antiru Sahoo as people whose consent letters he has in mind. He expects Tripathy to attend and says he will be in Bangalore from the morning of September 16. A postscript discusses uncertainty over the party’s presidential contest: Piloo Mody is described as keen to become president, while there are rumours that D. M. Patodia may be persuaded to become General Secretary and that Madhu Mehta may also wish to contest. The second page is an attached draft consent form for election to the National Executive or another proposed office.
 ---
 
+## Summary
+
+In this letter dated September 6, 1971, S. V. Raju writes to Tribikram Tripathy about the forthcoming Swatantra Party General Council meeting and the election of party office-bearers. Raju notes that several leading Orissa members, including Harihar Patel, Rajballabh Mishra, and Lomanath Mishra, are no longer on the General Council. Because some members may be unable to attend while campaigning, he asks Tripathy to bring signed consent letters authorising their candidacies, including consent from people who are not Council members.
+
+Raju lists R. N. Singh Deo, P. K. Deo, Lomanath Mishra, Rajballabh Mishra, and Antiru Sahoo as people whose consent letters he has in mind. He expects Tripathy to attend and says he will be in Bangalore from the morning of September 16. A postscript discusses uncertainty over the party’s presidential contest: Piloo Mody is described as keen to become president, while there are rumours that D. M. Patodia may be persuaded to become General Secretary and that Madhu Mehta may also wish to contest. The second page is an attached draft consent form for election to the National Executive or another proposed office.
+
 ## Key points
 
 - The letter concerns elections and nominations for the Swatantra Party General Council meeting.

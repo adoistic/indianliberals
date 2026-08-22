@@ -63,6 +63,12 @@ summary: |-
   The amendments also connect domestic governance to national security and constitutional concerns. They call for firmer action regarding Chinese and Pakistani territorial claims, the Chinese nuclear threat, border security, Malaysia and South-East Asia, and relations with neighbouring States. Several proposals demand stronger democratic safeguards, including release of detainees, fair procedures, Lokayukta institutions, voter councils, minority representation, recognition of Urdu, and protection of citizens' rights. The document ends with the Secretary's certification from New Delhi; no debate, voting result, or subsequent governmental response is included in the rendered pages.
 ---
 
+## Summary
+
+This seven-page Lok Sabha document records twelve amendments moved on 19 February 1965 to the Motion on the Address by the President. The amendments are framed as expressions of regret over omissions or failures in the Address, rather than as a single unified statement. Across the proposals, members raise the unresolved Union language policy, the status of regional languages and Hindi, food shortages and rising prices, unemployment, economic inequality, inflation, corruption, nepotism, administrative weakness, and the treatment of political detainees.
+
+The amendments also connect domestic governance to national security and constitutional concerns. They call for firmer action regarding Chinese and Pakistani territorial claims, the Chinese nuclear threat, border security, Malaysia and South-East Asia, and relations with neighbouring States. Several proposals demand stronger democratic safeguards, including release of detainees, fair procedures, Lokayukta institutions, voter councils, minority representation, recognition of Urdu, and protection of citizens' rights. The document ends with the Secretary's certification from New Delhi; no debate, voting result, or subsequent governmental response is included in the rendered pages.
+
 ## Key points
 
 - Twelve amendments criticise the President's Address for failing to address major political, economic, social, and security concerns.

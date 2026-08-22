@@ -50,6 +50,12 @@ summary: |-
   The writer explains that a proposed 14 December convention was based on incorrect information about that date being Rajaji’s birthday, and says the State Working Committee will consider a later date. The letter also endorses beginning with a Hazaribagh District Convention, notes that an invitation has already been extended for the National Convention at Patna, and welcomes Masani’s support. The handwritten signature is not confidently legible enough to identify the sender.
 ---
 
+## Summary
+
+This one-page letter, dated 18 November 1959 and written on Swatantra Party (Bihar) letterhead, is addressed to M. R. Masani. The writer acknowledges Masani’s letters of 7 and 9 November, including suggestions concerning party resolutions and the organization of political conventions.
+
+The writer explains that a proposed 14 December convention was based on incorrect information about that date being Rajaji’s birthday, and says the State Working Committee will consider a later date. The letter also endorses beginning with a Hazaribagh District Convention, notes that an invitation has already been extended for the National Convention at Patna, and welcomes Masani’s support. The handwritten signature is not confidently legible enough to identify the sender.
+
 ## Key points
 
 - The letter acknowledges M. R. Masani’s correspondence of 7 and 9 November 1959.

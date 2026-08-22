@@ -47,6 +47,10 @@ summary: |-
   This single-page English letter, dated March 13, 1973, is from M. R. Masani to Minoo Mankorey of the Swatantra Party in Bombay. Masani says he is enclosing a copy of a letter received that morning from G. R. Majhi of Orissa, along with his reply.
 ---
 
+## Summary
+
+This single-page English letter, dated March 13, 1973, is from M. R. Masani to Minoo Mankorey of the Swatantra Party in Bombay. Masani says he is enclosing a copy of a letter received that morning from G. R. Majhi of Orissa, along with his reply.
+
 ## Key points
 
 - The letter is dated March 13, 1973.

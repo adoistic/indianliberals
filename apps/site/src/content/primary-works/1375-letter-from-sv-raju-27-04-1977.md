@@ -52,6 +52,12 @@ summary: |-
   Raju says he remains uncertain about joining the Janata Party, despite advice from H. M. Patel, because honest and dedicated members appear to have been cold-shouldered while control passed to people he regards as having damaged a party founded by C. Rajagopalachari and Minoo Masani. The letter closes by noting that Swatantra Party members will not attend the May 1 convention as invited guests, and by wishing Bhanu Pratap Singh's convention success. A postscript mentions a last-minute invitation from Asoka Mehta to send representatives.
 ---
 
+## Summary
+
+In this personal letter dated April 27, 1977, S. V. Raju explains that earlier telegrams and letters about the Swatantra Party's decision to merge with the Janata Party apparently went unanswered because they were sent to the wrong address. He expresses bitterness about the merger, arguing that the Swatantra Party's post-1974 continuation rested on moral principle and on the belief that the Bharatiya Lok Dal, as then constituted, was not a national alternative. He also criticizes the conduct of the 1974 convention and the subsequent treatment of Swatantra Party leaders and supporters.
+
+Raju says he remains uncertain about joining the Janata Party, despite advice from H. M. Patel, because honest and dedicated members appear to have been cold-shouldered while control passed to people he regards as having damaged a party founded by C. Rajagopalachari and Minoo Masani. The letter closes by noting that Swatantra Party members will not attend the May 1 convention as invited guests, and by wishing Bhanu Pratap Singh's convention success. A postscript mentions a last-minute invitation from Asoka Mehta to send representatives.
+
 ## Key points
 
 - Raju attributes the absence of a response to previous communications to an incorrect address.

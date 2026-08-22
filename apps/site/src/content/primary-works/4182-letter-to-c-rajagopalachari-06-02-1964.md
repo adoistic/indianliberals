@@ -46,6 +46,12 @@ summary: |-
   Masani asks Rajagopalachari to write a paragraph about the book for the “Dear Reader” column in Swarajya, suggesting that it merits more than a routine review. He closes by referring to Rajagopalachari’s successful visit to Mysore and expressing hope that he returned safely to Madras. A handwritten note records that the letter was sent by S. P. by air.
 ---
 
+## Summary
+
+This one-page letter, dated 6 February 1964, is from M. R. Masani to C. Rajagopalachari (“Rajaji”). Masani forwards A. G. Noorani’s book Our Credulity and Negligence, describing it as an excellent short study and reference work concerning the events it discusses.
+
+Masani asks Rajagopalachari to write a paragraph about the book for the “Dear Reader” column in Swarajya, suggesting that it merits more than a routine review. He closes by referring to Rajagopalachari’s successful visit to Mysore and expressing hope that he returned safely to Madras. A handwritten note records that the letter was sent by S. P. by air.
+
 ## Key points
 
 - The letter is dated 6 February 1964 and was written by M. R. Masani.

@@ -55,6 +55,12 @@ summary: |-
   A second section, headed "WAR-MINDEDNESS," records Swatantra leader K. M. Munshi's comments at the Junior Chamber of Commerce in Ahmedabad. Munshi argued that the public should accept new taxation to finance the war against Chinese aggression and called for increased defence production, with less consumer production by industry. The clipping is a contemporary news report, not a signed essay, and contains no author byline.
 ---
 
+## Summary
+
+This 25 March 1963 Free Press Journal report describes the Gujarat Pradesh Congress Committee's decision to take disciplinary action against Congressmen who contested recent taluka panchayat elections against official Congress candidates. It reports that elections had been completed in 173 taluka panchayats across 16 of Gujarat's 17 districts: Congress candidates captured 135, Independents were to share power in four, and rebel Congressmen and other non-Congress candidates sponsored by the Swatantra Party were expected to control the remainder. The report also notes that 274 of the 346 taluka panchayat presidents and vice-presidents would be officially sponsored by Congress.
+
+A second section, headed "WAR-MINDEDNESS," records Swatantra leader K. M. Munshi's comments at the Junior Chamber of Commerce in Ahmedabad. Munshi argued that the public should accept new taxation to finance the war against Chinese aggression and called for increased defence production, with less consumer production by industry. The clipping is a contemporary news report, not a signed essay, and contains no author byline.
+
 ## Key points
 
 - The Gujarat Pradesh Congress Committee planned disciplinary action against Congressmen who opposed official party candidates.

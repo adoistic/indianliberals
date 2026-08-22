@@ -46,6 +46,10 @@ summary: |-
   In this one-page letter dated May 28, 1974, M. R. Masani thanks S. Gopalakrishnan for sending him a copy of his letter to Piloo Mody dated April 25. Masani agrees with Gopalakrishnan’s position and says he will travel to Delhi for the Swatantra Party General Council meeting on June 9/10, where he hopes to help prevent what he calls an “unfortunate step.”
 ---
 
+## Summary
+
+In this one-page letter dated May 28, 1974, M. R. Masani thanks S. Gopalakrishnan for sending him a copy of his letter to Piloo Mody dated April 25. Masani agrees with Gopalakrishnan’s position and says he will travel to Delhi for the Swatantra Party General Council meeting on June 9/10, where he hopes to help prevent what he calls an “unfortunate step.”
+
 ## Key points
 
 - The letter is dated May 28, 1974, and is written from Masani’s Bombay address.

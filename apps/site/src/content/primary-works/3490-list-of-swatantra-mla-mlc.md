@@ -49,6 +49,12 @@ summary: |-
   The entries are arranged in two sections: M.L.A.s numbered 1–13 and M.L.C.s numbered 14–15. Most listed members are associated with constituencies or homes in districts including Basti, Bahraich, Mainpuri, Aligarh, Jalaun, Etah, Gonda, and Balaun. The document is a contact directory rather than a narrative or argumentative work.
 ---
 
+## Summary
+
+This one-page administrative list records 13 Swatantra Party Members of the Legislative Assembly (M.L.A.s) and two Members of the Legislative Council (M.L.C.s) in Uttar Pradesh. It provides each member’s name, Lucknow address, and home address, including village, post office, and district details where available.
+
+The entries are arranged in two sections: M.L.A.s numbered 1–13 and M.L.C.s numbered 14–15. Most listed members are associated with constituencies or homes in districts including Basti, Bahraich, Mainpuri, Aligarh, Jalaun, Etah, Gonda, and Balaun. The document is a contact directory rather than a narrative or argumentative work.
+
 ## Key points
 
 - The document is titled “List of Swatantra M.L.As & M.L.Cs in U.P.”

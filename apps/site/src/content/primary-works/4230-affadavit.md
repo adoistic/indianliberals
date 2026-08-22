@@ -62,6 +62,12 @@ summary: |-
   Masani argues that the party rejects statism, collectivized farming, excessive taxation, bureaucratic licensing, and state monopolies in food distribution. It advocates a self-employed peasantry, expanded private enterprise, a limited role for state enterprise in heavy industry and national services, and a mixed but predominantly market-oriented economy. The article also frames the party as explicitly anti-Communist, warning that Congress policies could make Communism more respectable while insisting that Swatantra could offer Indian voters an alternative to the Congress–Communist binary. The pages end with Masani’s cautious forecast that the party’s prospects will depend on building a broad, grassroots movement among farmers and the urban middle classes.
 ---
 
+## Summary
+
+The rendered pages combine an affidavit, a Toyota Land Cruiser advertisement, and a contemporary magazine article by Minoo Masani, “A New Political Party Comes into Being in India: ‘Freedom Party’ Founder Tells How It Was Formed.” The article presents the formation of the Swatantra (Freedom) Party in Bombay in August, describing it as a response to the Congress party’s socialist orientation and as a political organization committed to individual liberty, private enterprise, peasant proprietorship, and parliamentary democracy.
+
+Masani argues that the party rejects statism, collectivized farming, excessive taxation, bureaucratic licensing, and state monopolies in food distribution. It advocates a self-employed peasantry, expanded private enterprise, a limited role for state enterprise in heavy industry and national services, and a mixed but predominantly market-oriented economy. The article also frames the party as explicitly anti-Communist, warning that Congress policies could make Communism more respectable while insisting that Swatantra could offer Indian voters an alternative to the Congress–Communist binary. The pages end with Masani’s cautious forecast that the party’s prospects will depend on building a broad, grassroots movement among farmers and the urban middle classes.
+
 ## Key points
 
 - The article describes the creation of the Swatantra Party in Bombay and identifies C. Rajagopalachari as its principal leader.

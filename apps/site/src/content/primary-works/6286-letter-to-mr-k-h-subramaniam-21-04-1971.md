@@ -48,6 +48,12 @@ summary: |-
   Masani closes by expressing that he was deeply touched by the concern shown in the colleagues’ letter and appreciated the sentiments it conveyed. The document is a brief piece of political correspondence focused on party leadership and resignation.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani, dated April 21, 1971, responds to Mr. K. H. Subramaniam and his colleagues regarding a request that Masani withdraw his decision to step down from the presidency of the Swatantra Party. Masani says he had already explained his reasons at a recent public meeting in Matunga and hopes the recipients are convinced by that explanation.
+
+Masani closes by expressing that he was deeply touched by the concern shown in the colleagues’ letter and appreciated the sentiments it conveyed. The document is a brief piece of political correspondence focused on party leadership and resignation.
+
 ## Key points
 
 - Masani acknowledges receipt of Mr. Subramaniam’s letter of April 15.

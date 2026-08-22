@@ -47,6 +47,12 @@ summary: |-
   The bulletin further explains three categories of travel-allowance claims under the amended Salaries and Allowances of Members of Parliament Act, 1954: journeys using air-cum-rail routes, one-way air travel combined with rail or road travel, and circuitous air routes. Item No. 1505 records an amendment to the Housing and Telephone Facilities (Members of Parliament) Rules, 1956, raising the annual limit of free local telephone calls from 1800 to 3600, effective March 13, 1965. The notice is signed by S. L. Shakdher, Secretary.
 ---
 
+## Summary
+
+This two-page Lok Sabha Bulletin—Part II, dated November 29, 1965, publishes administrative decisions concerning Members of Parliament. Item No. 1504 sets out rules on the payment of allowances to Members suspended from the service of the House, stating that entitlement depends on whether the suspension lasts for a specified period or the remainder of the Session. It also addresses allowances for intermediate journeys undertaken in India and abroad during Sessions or committee work, including air, rail, road, and air-cum-rail travel.
+
+The bulletin further explains three categories of travel-allowance claims under the amended Salaries and Allowances of Members of Parliament Act, 1954: journeys using air-cum-rail routes, one-way air travel combined with rail or road travel, and circuitous air routes. Item No. 1505 records an amendment to the Housing and Telephone Facilities (Members of Parliament) Rules, 1956, raising the annual limit of free local telephone calls from 1800 to 3600, effective March 13, 1965. The notice is signed by S. L. Shakdher, Secretary.
+
 ## Key points
 
 - The bulletin is an official Lok Sabha administrative notice dated November 29, 1965.

@@ -51,6 +51,12 @@ summary: |-
   Raju says that sixteen Members of Parliament, including Prof. Ranga and Minoo Masani, have called for the observance. He proposes cooperation among the Jan Sangh, the Praja Socialist Party, and the Samyukta Socialist Party, and asks the recipient to contact their local units, arrange a joint programme, and report back by July 6. The document is therefore both a statement of foreign-policy opposition and a practical appeal for cross-party mobilisation.
 ---
 
+## Summary
+
+In this letter dated June 26, 1967, S. V. Raju, writing from the Swatantra Party's Central Office, asks a local party contact to help organise a joint public observance on July 2. The proposed observance is intended to express national indignation at alleged Chinese Communist indignities and at what the letter calls the Indian Government's supine policy toward China, including a demand for severing diplomatic relations.
+
+Raju says that sixteen Members of Parliament, including Prof. Ranga and Minoo Masani, have called for the observance. He proposes cooperation among the Jan Sangh, the Praja Socialist Party, and the Samyukta Socialist Party, and asks the recipient to contact their local units, arrange a joint programme, and report back by July 6. The document is therefore both a statement of foreign-policy opposition and a practical appeal for cross-party mobilisation.
+
 ## Key points
 
 - S. V. Raju's June 26, 1967 letter calls for a nationwide observance on July 2.

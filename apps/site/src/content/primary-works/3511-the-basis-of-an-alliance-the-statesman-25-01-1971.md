@@ -50,6 +50,12 @@ summary: |-
   The editorial is especially critical of the alliance's ideological incompleteness. It notes that the SSP had chosen to remove the deletion of the right to property from its manifesto, while Jana Sangh's position on property rights was already well known. It argues that the parties should have established common ground before announcing the alliance, and suggests that the alliance could become more credible by highlighting democratic values and by adopting a clearer programme. The page is a newspaper editorial dated January 25, 1971; no author byline is printed.
 ---
 
+## Summary
+
+The Statesman editorial examines the proposed electoral alliance among Congress (O), Jana Sangh, the Socialist Party (SSP) and the Swatantra Party. It reports that the parties had agreed to field one candidate per Lok Sabha constituency, but argues that the practical negotiations were leaving many seats open to dispute. The editorial sees the alliance's compact, four-party front as potentially effective against Congress (R), provided the parties can overcome their disagreements and formulate a common programme.
+
+The editorial is especially critical of the alliance's ideological incompleteness. It notes that the SSP had chosen to remove the deletion of the right to property from its manifesto, while Jana Sangh's position on property rights was already well known. It argues that the parties should have established common ground before announcing the alliance, and suggests that the alliance could become more credible by highlighting democratic values and by adopting a clearer programme. The page is a newspaper editorial dated January 25, 1971; no author byline is printed.
+
 ## Key points
 
 - Congress (O), Jana Sangh, SSP and the Swatantra Party agreed in principle to field a single candidate for each Lok Sabha constituency.

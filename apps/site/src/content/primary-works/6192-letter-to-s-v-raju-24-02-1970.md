@@ -48,6 +48,12 @@ summary: |-
   The document is an administrative communication rather than an argumentative essay. Its contents provide evidence of political-party coordination and an effort to obtain documentary records of party voting and meeting proceedings. The sender’s full identity and the precise identity of the recipient are not established on the rendered page.
 ---
 
+## Summary
+
+This single-page English telegram, dated 24 February 1970 and sent from Bombay under the name “MASANI,” asks S. V. Raju in Bombay to dispatch documents concerning Jan Sangh. Specifically, it requests the party’s delivery note, its voting record, and the proceedings of a joint meeting held at the sender’s residence in Delhi on 26 May.
+
+The document is an administrative communication rather than an argumentative essay. Its contents provide evidence of political-party coordination and an effort to obtain documentary records of party voting and meeting proceedings. The sender’s full identity and the precise identity of the recipient are not established on the rendered page.
+
 ## Key points
 
 - The document is a one-page English telegram dated 24 February 1970.

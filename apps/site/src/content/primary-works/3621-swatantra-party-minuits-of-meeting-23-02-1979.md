@@ -52,6 +52,12 @@ summary: |-
   The committee adopted a budget of Rs. 9,800 for April 1979–March 1980, with donations and rental income as the principal receipts and an expected excess of income over expenditure of Rs. 2,000. It decided that audited accounts for the financial years ending 1976, 1977, and 1978 should be presented at the next executive meeting, that the committee should meet quarterly, and that S. V. Raju should be appointed Joint Secretary to administer the office. The meeting also directed that the membership register be regularised, membership cards issued, and subscription arrears collected before adjourning with a vote of thanks to the Chair.
 ---
 
+## Summary
+
+These two pages record the draft minutes of the Swatantra Party, Maharashtra Executive Committee meeting held at the party office on 23 February 1979. The minutes list the attendees, note reports on developments since the previous meeting and meetings in Madras connected with the Rajaji Birth Centenary Celebrations, and record the presentation of two statements of accounts covering September 1976–February 1978 and March 1978–January 1979.
+
+The committee adopted a budget of Rs. 9,800 for April 1979–March 1980, with donations and rental income as the principal receipts and an expected excess of income over expenditure of Rs. 2,000. It decided that audited accounts for the financial years ending 1976, 1977, and 1978 should be presented at the next executive meeting, that the committee should meet quarterly, and that S. V. Raju should be appointed Joint Secretary to administer the office. The meeting also directed that the membership register be regularised, membership cards issued, and subscription arrears collected before adjourning with a vote of thanks to the Chair.
+
 ## Key points
 
 - The meeting reviewed developments since the previous Executive Committee meeting and received a report on gatherings in Madras for the Rajaji Birth Centenary Celebrations.

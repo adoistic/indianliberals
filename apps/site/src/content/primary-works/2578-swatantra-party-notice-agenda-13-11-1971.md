@@ -48,6 +48,10 @@ summary: |-
   This one-page English-language notice, issued by the Swatantra Party's Bombay Region on November 13, 1971, announces an Executive Committee meeting to be held at the party office in Bombay on November 24, 1971, at 6:15 p.m. It invites members to attend and identifies the party office at Sassoon Building, 143 Mahatma Gandhi Road, Bombay 1.
 ---
 
+## Summary
+
+This one-page English-language notice, issued by the Swatantra Party's Bombay Region on November 13, 1971, announces an Executive Committee meeting to be held at the party office in Bombay on November 24, 1971, at 6:15 p.m. It invites members to attend and identifies the party office at Sassoon Building, 143 Mahatma Gandhi Road, Bombay 1.
+
 ## Key points
 
 - The Swatantra Party's Bombay Region issued the notice on November 13, 1971.

@@ -52,6 +52,12 @@ summary: |-
   The telegram concludes that the combined measures left little net benefit from devaluation. The recipient is identified as M. R. Masani at C.1, Pandara Road, New Delhi; the document does not state the broader policy context or identify the authority to whom the message was addressed.
 ---
 
+## Summary
+
+This one-page English telegram, sent by M. R. Masani from Ahmedabad on 21 June 1966, argues that the benefits expected from devaluation were substantially cancelled by accompanying trade-policy measures. It distinguishes between traditional and non-traditional exports: export duties allegedly neutralised the gains for traditional exports, while the abolition of import entitlements and other export-promotion incentives did so for non-traditional items.
+
+The telegram concludes that the combined measures left little net benefit from devaluation. The recipient is identified as M. R. Masani at C.1, Pandara Road, New Delhi; the document does not state the broader policy context or identify the authority to whom the message was addressed.
+
 ## Key points
 
 - The telegram discusses the effects of devaluation on exports.

@@ -50,6 +50,12 @@ summary: |-
   Masani described the Orissa party leadership’s conduct as a painful departure from its earlier standards. He specifically criticized its decision to join hands with figures whom he said he had previously condemned as unworthy of public life, including a person against whom the Swatantra government in Orissa had successfully instituted a judicial investigation for improprieties.
 ---
 
+## Summary
+
+This one-page Times of India report records M. R. Masani’s criticism of the Swatantra Party’s role in Orissa politics. Speaking in Madras on 14 April 1973, Masani objected to the party unit’s participation in bringing down the government of Mrs. Nandini Satpathy and warned that, if it wished to safeguard its future, it should avoid “discredited politicians” and combinations involving them.
+
+Masani described the Orissa party leadership’s conduct as a painful departure from its earlier standards. He specifically criticized its decision to join hands with figures whom he said he had previously condemned as unworthy of public life, including a person against whom the Swatantra government in Orissa had successfully instituted a judicial investigation for improprieties.
+
 ## Key points
 
 - Masani criticized the Swatantra Party unit in Orissa for helping bring down the government of Nandini Satpathy.

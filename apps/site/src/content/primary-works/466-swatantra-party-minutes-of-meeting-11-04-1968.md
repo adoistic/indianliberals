@@ -52,6 +52,10 @@ summary: |-
   This one-page memorandum records the Swatantra Party Executive Committee meeting held on 11 April 1968 at Parliament House, New Delhi. It lists the eleven members present and records approval of dates, principles, and procedures for electing party office-bearers and members of the Parliamentary Party's Executive Committee. Nominations were to be submitted according to a schedule, with elections set for 30 April 1968; members also expressed the wish that the Leader's term should last for the duration of the Lok Sabha.
 ---
 
+## Summary
+
+This one-page memorandum records the Swatantra Party Executive Committee meeting held on 11 April 1968 at Parliament House, New Delhi. It lists the eleven members present and records approval of dates, principles, and procedures for electing party office-bearers and members of the Parliamentary Party's Executive Committee. Nominations were to be submitted according to a schedule, with elections set for 30 April 1968; members also expressed the wish that the Leader's term should last for the duration of the Lok Sabha.
+
 ## Key points
 
 - The Executive Committee meeting was held at 10 a.m. on 11 April 1968 in the Swatantra Party Room at Central Hall, Parliament House.

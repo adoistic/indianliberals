@@ -49,6 +49,12 @@ summary: |-
   The document is an administrative artefact rather than a discursive work. Its interest lies in what it documents: a monthly personal contribution by Minoo Masani to the Swatantra Party's Maharashtra unit in the early months of 1976, during the Emergency period.
 ---
 
+## Summary
+
+This single-page item is a pre-printed receipt of the Swatantra Party's Maharashtra Region unit, based at Sassoon Building, 143, Mahatma Gandhi Road, Bombay-1 (telephone 253085). Numbered 137 and dated 1 March 1976, it acknowledges the sum of Rupees Twenty-Five Only received from Mr. M. R. Masani towards his donation for the month of February 1976. The stub records the amount as "Rs. 25/-" and is countersigned by the Honorary Treasurer.
+
+The document is an administrative artefact rather than a discursive work. Its interest lies in what it documents: a monthly personal contribution by Minoo Masani to the Swatantra Party's Maharashtra unit in the early months of 1976, during the Emergency period.
+
 ## Key points
 
 - Pre-printed donation receipt issued by the Swatantra Party, Maharashtra Region.

@@ -44,6 +44,10 @@ summary: |-
   This single-page archival index records copies of correspondence concerning Jeep No. MRG 2347. The entries span October 1972 to February 1985 and concern vehicle-tax proceedings, traffic-offence notices, registration and insurance documentation, and communications with transport and police authorities in Bombay.
 ---
 
+## Summary
+
+This single-page archival index records copies of correspondence concerning Jeep No. MRG 2347. The entries span October 1972 to February 1985 and concern vehicle-tax proceedings, traffic-offence notices, registration and insurance documentation, and communications with transport and police authorities in Bombay.
+
 ## Key points
 
 - The document concerns Jeep No. MRG 2347.

@@ -51,6 +51,12 @@ summary: |-
   The enclosed Circular No. 81 sets out the information required after each State Council meeting: the name and contact details of the State Unit; the names and addresses of office-bearers, including the president, vice-presidents, general secretary, joint secretary, treasurers, and members; and the names, addresses, and telephone numbers of State Council and General Council members. The rendered pages show an internal effort to update party records and improve the efficiency of correspondence, rather than a statement of political doctrine or policy.
 ---
 
+## Summary
+
+This two-page Swatantra Party Central Office circular concerns the administrative organization of the party's state units. Circular No. 89, dated 16 December 1967, asks State Councils and State Executive Committee members to provide complete postal, telephone, and telegraphic addresses so that the Central Office can compile state-wise lists of party units. It is signed by V. P. Bhatia and requests urgent attention, referring back to Circular No. 81 of 17 October 1967.
+
+The enclosed Circular No. 81 sets out the information required after each State Council meeting: the name and contact details of the State Unit; the names and addresses of office-bearers, including the president, vice-presidents, general secretary, joint secretary, treasurers, and members; and the names, addresses, and telephone numbers of State Council and General Council members. The rendered pages show an internal effort to update party records and improve the efficiency of correspondence, rather than a statement of political doctrine or policy.
+
 ## Key points
 
 - Circular No. 89 is dated 16 December 1967 and is issued from the Swatantra Party Central Office in Bombay.

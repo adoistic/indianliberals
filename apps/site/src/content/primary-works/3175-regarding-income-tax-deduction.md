@@ -49,6 +49,12 @@ summary: |-
   The document is signed by Madhu Mehta, identified as Vice President acting for the General Secretary. No organisation, issuer, document date, title, publisher, or place is printed on the page; handwritten marks including “3175” and “D-10” appear to be archival reference annotations.
 ---
 
+## Summary
+
+This single-page English administrative certificate records that S. V. Raju received a total salary of Rs 13,500/- during the period April 1973 to December 1973. It further certifies that Rs 1,521/- was deducted from that salary as income tax.
+
+The document is signed by Madhu Mehta, identified as Vice President acting for the General Secretary. No organisation, issuer, document date, title, publisher, or place is printed on the page; handwritten marks including “3175” and “D-10” appear to be archival reference annotations.
+
 ## Key points
 
 - The document covers the period April 1973 to December 1973.

@@ -52,6 +52,12 @@ summary: |-
   Issued under the signature block of C.L.N. Reddy, identified as Chief Whip, the notice asks Members not to leave Delhi or, if already away, to return in time to be present. The document is an administrative communication focused on party discipline and parliamentary coordination rather than a substantive argument about the motion itself.
 ---
 
+## Summary
+
+This single-page Swatantra Party Parliamentary Office notice, dated 19 August 1965, instructs party Members regarding attendance for an upcoming no-confidence motion in the House. It states that the motion is scheduled for discussion on Monday, 23 August, and may be put to a vote on Wednesday, 25 August, at 11:00 a.m.
+
+Issued under the signature block of C.L.N. Reddy, identified as Chief Whip, the notice asks Members not to leave Delhi or, if already away, to return in time to be present. The document is an administrative communication focused on party discipline and parliamentary coordination rather than a substantive argument about the motion itself.
+
 ## Key points
 
 - The notice is dated 19 August 1965 and issued on Swatantra Party Parliamentary Office letterhead.

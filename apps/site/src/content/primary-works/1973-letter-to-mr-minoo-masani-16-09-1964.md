@@ -45,6 +45,10 @@ summary: |-
   This one-page official letter from the Lok Sabha Secretariat, dated 16 September 1964, is addressed to Shri M. R. Masani, M.P. It concerns Masani's short-notice question regarding the Indian contingent to the Tokyo Olympic Games.
 ---
 
+## Summary
+
+This one-page official letter from the Lok Sabha Secretariat, dated 16 September 1964, is addressed to Shri M. R. Masani, M.P. It concerns Masani's short-notice question regarding the Indian contingent to the Tokyo Olympic Games.
+
 ## Key points
 
 - The document is an administrative communication on Lok Sabha Secretariat letterhead.

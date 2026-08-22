@@ -50,6 +50,12 @@ summary: |-
   The letter announces a forthcoming conference at Saklapur for the taluks of Belur, Alur, and Hunsur, and asks Masani to send a short message for the occasion. Ganapaiah hopes to organise all seven taluks before the end of 1959. He also notes that Muslim supporters want the party’s principles translated into Urdu and suggests obtaining such material from the Bombay or Delhi office. The remaining three pages are Kannada-language enclosures reproducing an invitation or conference notice; their text was visible but not sufficiently legible for a reliable full reading or translation.
 ---
 
+## Summary
+
+This letter, dated 4 November 1959, is written by N. K. Ganapaiah, Organiser of the Mysore State Swatantra Party, to M. R. Masani. Ganapaiah reports that the party’s district convention in Hassan on 27 September 1959 attracted approximately 2,700 self-employed farmers and traders, with representation from all taluks. He says membership enrolment is progressing briskly and that the party has begun organising at the taluk level.
+
+The letter announces a forthcoming conference at Saklapur for the taluks of Belur, Alur, and Hunsur, and asks Masani to send a short message for the occasion. Ganapaiah hopes to organise all seven taluks before the end of 1959. He also notes that Muslim supporters want the party’s principles translated into Urdu and suggests obtaining such material from the Bombay or Delhi office. The remaining three pages are Kannada-language enclosures reproducing an invitation or conference notice; their text was visible but not sufficiently legible for a reliable full reading or translation.
+
 ## Key points
 
 - The letter is dated 4 November 1959 and is addressed to M. R. Masani.

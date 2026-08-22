@@ -52,6 +52,12 @@ summary: |-
   The letter particularly objects to a proposed constitutional amendment that would concentrate control of the party in the hands of a small leadership circle. Verman warns that the Swatantra Party is becoming an oligarchical organisation rather than a mass party. He describes workers as disillusioned and unable to communicate freely with the leadership, and asks Rajaji either to revive the party or to issue a bold call for its members to join the Congress, which he believes could provide the party with a route to recovery. The closing paragraph links the party’s difficulties to Congress’s adoption of a “Socialistic pattern of society” and to internal conflict between the Congress’s right and left wings.
 ---
 
+## Summary
+
+This two-page typed copy of a letter dated 1 October 1963, signed by Amar Nath Verman and addressed to C. Rajagopalachari (“Rajaji”), is a direct appeal about the condition of the Swatantra Party. Verman argues that although the party initially attracted intellectuals and large numbers of supporters, its leadership has failed to sustain their enthusiasm. He attributes this decline to the party’s lack of internal openness and to the leadership’s failure to implement the democratic constitution promised at the Patna Seminar.
+
+The letter particularly objects to a proposed constitutional amendment that would concentrate control of the party in the hands of a small leadership circle. Verman warns that the Swatantra Party is becoming an oligarchical organisation rather than a mass party. He describes workers as disillusioned and unable to communicate freely with the leadership, and asks Rajaji either to revive the party or to issue a bold call for its members to join the Congress, which he believes could provide the party with a route to recovery. The closing paragraph links the party’s difficulties to Congress’s adoption of a “Socialistic pattern of society” and to internal conflict between the Congress’s right and left wings.
+
 ## Key points
 
 - The letter claims that the Swatantra Party’s early appeal has not been matched by sustained organisational leadership.

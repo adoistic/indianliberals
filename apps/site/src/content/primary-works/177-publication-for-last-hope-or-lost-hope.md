@@ -50,6 +50,12 @@ summary: |-
   Masani argues that the failure lies less in the party’s principles or policies than in its weak organisational “conveyor belt” connecting leadership with ordinary people, especially in rural areas. He calls for renewed grassroots organisation through the hard work and training of party workers, together with more disciplined, ethical, sincere, and dedicated leadership. The essay closes by urging members and supporters to decide whether they still have faith in the Swatantra Party and to make themselves worthy of the cause of freedom.
 ---
 
+## Summary
+
+In this two-page essay, M. R. Masani reflects on the decline of the Swatantra Party, which he had once described as the “last hope of democracy in India.” He acknowledges that public expectations of the party have been disappointed: it has failed to displace the Congress at the Centre or provide India with an alternative government, and its credibility has suffered after electoral setbacks, including defeats in the 1967 General Elections, the 1968 Gujarat Rajya Sabha election, the 1968 Dausa by-election, and the 1968 Bihar Assembly elections.
+
+Masani argues that the failure lies less in the party’s principles or policies than in its weak organisational “conveyor belt” connecting leadership with ordinary people, especially in rural areas. He calls for renewed grassroots organisation through the hard work and training of party workers, together with more disciplined, ethical, sincere, and dedicated leadership. The essay closes by urging members and supporters to decide whether they still have faith in the Swatantra Party and to make themselves worthy of the cause of freedom.
+
 ## Key points
 
 - The Swatantra Party’s early promise as an alternative to the Congress has not been fulfilled.

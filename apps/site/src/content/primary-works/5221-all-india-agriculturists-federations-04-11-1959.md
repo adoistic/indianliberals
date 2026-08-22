@@ -51,6 +51,12 @@ summary: |-
   The letter also promotes an upcoming Swatantra Party conference at Mercara on 6 December. G. M. Manjunathayya, described as a Congress MLA, Federation supporter, and Swatantra sympathiser, has undertaken to convene it; Imam M.P. has agreed to inaugurate it and V. P. Menon to preside. The sender asks Masani to attend and provides travel and transport arrangements from Bombay via Mangalore. The handwritten signature is not legible, so the author cannot be identified from the rendered pages.
 ---
 
+## Summary
+
+This two-page English letter, dated 4 November 1959 and issued on the letterhead of the All India Agriculturists' Federation in Mangalore, is addressed to M. R. Masani. The sender reports that an election in Coorg went against the Congress candidate and that a P.S.P. candidate succeeded with active assistance from Swatantra workers. The letter anticipates that the newly elected member may join the Swatantra Party in the Mysore Assembly.
+
+The letter also promotes an upcoming Swatantra Party conference at Mercara on 6 December. G. M. Manjunathayya, described as a Congress MLA, Federation supporter, and Swatantra sympathiser, has undertaken to convene it; Imam M.P. has agreed to inaugurate it and V. P. Menon to preside. The sender asks Masani to attend and provides travel and transport arrangements from Bombay via Mangalore. The handwritten signature is not legible, so the author cannot be identified from the rendered pages.
+
 ## Key points
 
 - The letter is dated 4 November 1959 and comes from the All India Agriculturists' Federation, Mangalore.

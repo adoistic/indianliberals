@@ -50,6 +50,12 @@ summary: |-
   The letter proposes holding a district convention in the last week of September or the first week of October. The convention would formally declare adherence to the Party's twenty-one principles, launch a membership drive, explain the Party's ideals to the public, and inaugurate the district organisation. Bhattacharjee asks Masani to attend for at least a day and offers to arrange a date convenient to him.
 ---
 
+## Summary
+
+This two-page English handwritten letter, dated 14 September 1959 from Swatantra Party District—Saharanpur, is addressed to M. R. Masani. G. P. Bhattacharjee reports that a provisional committee was formed on 12 August to organise the Party in the district, and that local people are showing interest in the principles for which it was established.
+
+The letter proposes holding a district convention in the last week of September or the first week of October. The convention would formally declare adherence to the Party's twenty-one principles, launch a membership drive, explain the Party's ideals to the public, and inaugurate the district organisation. Bhattacharjee asks Masani to attend for at least a day and offers to arrange a date convenient to him.
+
 ## Key points
 
 - A provisional committee was formed in Saharanpur on 12 August 1959 to organise the Swatantra Party.

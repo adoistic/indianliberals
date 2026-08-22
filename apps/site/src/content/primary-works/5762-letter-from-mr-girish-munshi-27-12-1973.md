@@ -50,6 +50,12 @@ summary: |-
   The proposed camp was provisionally scheduled for Sunday, February 3, 1974, at Versova near the beach, subject to confirmation of a suitable venue. The programme was expected to run from approximately 9:00 a.m. to 8:00 p.m.; participants were asked to bring their own meals and snack packets, and district-level organisers were instructed to submit names and numbers of attendees to the State Office by January 15, 1974.
 ---
 
+## Summary
+
+This single-page English office letter, dated December 27, 1973, is addressed to members of the Swatantra Party Maharashtra's State Executive Committee, district and primary-unit presidents and secretaries, and party members in the Bombay area. Signed by General Secretary Girigh Munshi, it announces the organisation of a workers' camp and requests local units to identify participants.
+
+The proposed camp was provisionally scheduled for Sunday, February 3, 1974, at Versova near the beach, subject to confirmation of a suitable venue. The programme was expected to run from approximately 9:00 a.m. to 8:00 p.m.; participants were asked to bring their own meals and snack packets, and district-level organisers were instructed to submit names and numbers of attendees to the State Office by January 15, 1974.
+
 ## Key points
 
 - The letter is dated December 27, 1973, and is issued on Swatantra Party Maharashtra letterhead from Bombay.

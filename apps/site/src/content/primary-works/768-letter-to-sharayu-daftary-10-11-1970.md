@@ -47,6 +47,12 @@ summary: |-
   A handwritten annotation adds that Shah spoke with Daftary by telephone and agreed that she would address the meeting at 9:30 a.m. on Sunday. The page contains an internal date discrepancy: the letterhead gives the year as 1970, while the meeting date in the typed body is printed as 22 November 1979.
 ---
 
+## Summary
+
+This one-page English letter, dated “Nov 10, 1970,” is from P. M. Shah to Smt. Sharayu Daftary. Shah invites Daftary to address a meeting of party workers from Bombay’s North East District at Brahman Sabha Hall, Brahman Wadi, Pipe Road, Kurla, scheduled for 22 November at 9:30 a.m. He asks her to answer questions and notes that a circular about the meeting is enclosed.
+
+A handwritten annotation adds that Shah spoke with Daftary by telephone and agreed that she would address the meeting at 9:30 a.m. on Sunday. The page contains an internal date discrepancy: the letterhead gives the year as 1970, while the meeting date in the typed body is printed as 22 November 1979.
+
 ## Key points
 
 - P. M. Shah writes to Smt. Sharayu Daftary from Bombay on Nov 10, 1970.

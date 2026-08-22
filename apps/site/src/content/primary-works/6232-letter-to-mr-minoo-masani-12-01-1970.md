@@ -55,6 +55,12 @@ summary: |-
   The author defines socialism not as social ownership or social control, but as competition through the market, enabling the masses to participate economically. In collaboration with Mr. Iqbal I. Laliwala, the author says he has prepared a ten-point programme as an alternative to the Congress Party's ten-point programme and as an agenda for “Quit Poverty.” The letter also notes the author's interest in the Gujarat Swatantra Party and states that a copy of the programme was given to Suketu Shah, president of the Ahmedabad District Swatantra Party. It closes by inviting Masani to exchange views when he visits Ahmedabad.
 ---
 
+## Summary
+
+This letter, dated 12 January 1970 and addressed to M. R. Masani, presents India as facing a grave economic, political, and social crisis. Its author argues that freedom is not merely a moral value but also an economic, political, and social necessity. The letter distinguishes a free economy from laissez-faire, maintaining that, just as democracy should support individual liberty, the state should support rather than obstruct individual economic initiative.
+
+The author defines socialism not as social ownership or social control, but as competition through the market, enabling the masses to participate economically. In collaboration with Mr. Iqbal I. Laliwala, the author says he has prepared a ten-point programme as an alternative to the Congress Party's ten-point programme and as an agenda for “Quit Poverty.” The letter also notes the author's interest in the Gujarat Swatantra Party and states that a copy of the programme was given to Suketu Shah, president of the Ahmedabad District Swatantra Party. It closes by inviting Masani to exchange views when he visits Ahmedabad.
+
 ## Key points
 
 - The author describes India as undergoing a serious economic, political, and social crisis.

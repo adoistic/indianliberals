@@ -55,6 +55,10 @@ summary: |-
   These draft minutes record the Swatantra Party Central Parliamentary Board meeting held at Kalki Buildings, Madras, on 31 May 1968. The Board confirmed the previous meeting's minutes, discussed Prof. Ranga's absence and Minoo Masani's refusal to resign, and reviewed the Party's poor performance in Haryana's mid-term elections. The minutes attribute that result to weak organisation, inadequate money, personnel, and vehicles, excessive reliance on local and caste appeals, Congress's statewide campaign, and attacks by other parties. They also note that only two of the Party's 31 candidates won, although eleven finished second and ten third, with an increased share of the vote.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Central Parliamentary Board meeting held at Kalki Buildings, Madras, on 31 May 1968. The Board confirmed the previous meeting's minutes, discussed Prof. Ranga's absence and Minoo Masani's refusal to resign, and reviewed the Party's poor performance in Haryana's mid-term elections. The minutes attribute that result to weak organisation, inadequate money, personnel, and vehicles, excessive reliance on local and caste appeals, Congress's statewide campaign, and attacks by other parties. They also note that only two of the Party's 31 candidates won, although eleven finished second and ten third, with an increased share of the vote.
+
 ## Key points
 
 - The Board approved consultation between the Party's organisational and legislative wings, pending replies from state units and legislative leaders.

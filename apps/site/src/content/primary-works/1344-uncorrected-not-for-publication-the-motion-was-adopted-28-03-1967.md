@@ -49,6 +49,12 @@ summary: |-
   Indira Gandhi then clarifies the circumstances surrounding the Opposition’s failure to agree on a candidate. She explains that, although the government had indicated it would not nominate a candidate if the Opposition were united, the Opposition had not provided a clear indication of unity by the noon deadline for nominations. She further reports that Minoo Masani had told her that three large Opposition groups did not support the nomination. The document is explicitly marked “Uncorrected - Not for Publication.”
 ---
 
+## Summary
+
+This two-page, uncorrected parliamentary transcript dated 28 March 1967 records the adoption of a motion and the election of Shri R. K. Khadilkar as Deputy-Speaker. The Speaker announces that the motion has carried, declares Khadilkar elected, and asks him to take his seat. The transcript identifies Shrimati Indira Gandhi as Prime Minister and Minister of Atomic Energy and records that she participated in the vote.
+
+Indira Gandhi then clarifies the circumstances surrounding the Opposition’s failure to agree on a candidate. She explains that, although the government had indicated it would not nominate a candidate if the Opposition were united, the Opposition had not provided a clear indication of unity by the noon deadline for nominations. She further reports that Minoo Masani had told her that three large Opposition groups did not support the nomination. The document is explicitly marked “Uncorrected - Not for Publication.”
+
 ## Key points
 
 - The transcript is dated 28 March 1967 and marked “Uncorrected - Not for Publication.”

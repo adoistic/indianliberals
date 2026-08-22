@@ -59,6 +59,12 @@ summary: |-
   The essay then examines the treaty’s language, especially Articles IX and X, to argue that its consultation and non-obligation provisions amount in practice to a defensive military alliance. Masani stresses the inequality between the two parties, the Soviet Union’s history of breaking treaties and subordinating smaller states, and India’s dependence on Soviet military supplies. He further argues that the alliance isolates India from China, Japan, Iran, Indonesia, and other Asian states, distorts India’s trade and economic planning, and has domestic consequences for constitutional government, civil liberties, and the independence of institutions. In the final section, the discussion of Leonid Brezhnev’s 1973 visit presents the visit as an effort to deepen the alliance, consolidate pro-Soviet opinion, and draw India and its ruling Congress establishment closer to the Soviet Communist Party.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that the Indo-Soviet Treaty of 1971 was not an isolated response to the crisis in East Bengal but the public recognition of a relationship that had been developing since at least 1969. He places the treaty against Jawaharlal Nehru’s earlier Marxist and pro-Soviet outlook, Soviet hostility toward India’s independence in the early postcolonial period, and the gradual abandonment of non-alignment. The treaty, he contends, formalised India’s alignment with the Soviet Union rather than merely recording existing friendship.
+
+The essay then examines the treaty’s language, especially Articles IX and X, to argue that its consultation and non-obligation provisions amount in practice to a defensive military alliance. Masani stresses the inequality between the two parties, the Soviet Union’s history of breaking treaties and subordinating smaller states, and India’s dependence on Soviet military supplies. He further argues that the alliance isolates India from China, Japan, Iran, Indonesia, and other Asian states, distorts India’s trade and economic planning, and has domestic consequences for constitutional government, civil liberties, and the independence of institutions. In the final section, the discussion of Leonid Brezhnev’s 1973 visit presents the visit as an effort to deepen the alliance, consolidate pro-Soviet opinion, and draw India and its ruling Congress establishment closer to the Soviet Communist Party.
+
 ## Key points
 
 - The treaty is presented as the culmination of an Indo-Soviet relationship that had been developing before the 1971 Bangladesh crisis.

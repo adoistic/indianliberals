@@ -52,6 +52,12 @@ summary: |-
   Satyanarayana’s accompanying letter urges Masani to reconsider, arguing that party workers in Visakhapatnam and elsewhere were disturbed by reports of his resignation and that the party needs his leadership to remain a constructive parliamentary and state-level opposition. He reports organisational weakness, including inadequate financial assistance and the absence of proper guidance for workers before and after the mid-term elections, and asks that the issue be placed on the agenda of the forthcoming national party meeting. Masani’s brief reply expresses appreciation for Satyanarayana’s concern but does not withdraw his resignation.
 ---
 
+## Summary
+
+This three-page English correspondence records M. R. Masani’s response to B. Satyanarayana amid an internal crisis in the Swatantra Party. In a letter dated April 29, 1971, Masani acknowledges that he has resigned as party president following the General Council meeting, but maintains that the decision will serve the party’s long-term interests by creating an opportunity for stock-taking and long-term action.
+
+Satyanarayana’s accompanying letter urges Masani to reconsider, arguing that party workers in Visakhapatnam and elsewhere were disturbed by reports of his resignation and that the party needs his leadership to remain a constructive parliamentary and state-level opposition. He reports organisational weakness, including inadequate financial assistance and the absence of proper guidance for workers before and after the mid-term elections, and asks that the issue be placed on the agenda of the forthcoming national party meeting. Masani’s brief reply expresses appreciation for Satyanarayana’s concern but does not withdraw his resignation.
+
 ## Key points
 
 - Masani’s April 29, 1971 reply acknowledges receipt of Satyanarayana’s letter and confirms his resignation from the presidency of the Swatantra Party.

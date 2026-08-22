@@ -49,6 +49,12 @@ summary: |-
   The report focuses on Masani’s defence against criticism that he had failed to persuade colleagues to adopt an alternative approach. He insists that his efforts were made in the party’s interest, rejects accusations of imposing personal policies, and argues that members are entitled to know the facts about the party’s functioning. The clipping also reports his criticism of a lack of sincerity of purpose, weak organisational leadership, and the possibility of replacing the executive if it cannot restore the party’s position.
 ---
 
+## Summary
+
+This 24 May 1968 National Herald report describes an eight-page confidential note by M. R. Masani, then general secretary of the Swatantra Party, sharply criticising the party’s leadership and internal functioning. Masani reportedly argues that the party has failed to maintain clean methods and disciplined functioning, and questions the leadership’s response to its decline in Gujarat and to the party’s poor performance in the Rajya Sabha biennial elections.
+
+The report focuses on Masani’s defence against criticism that he had failed to persuade colleagues to adopt an alternative approach. He insists that his efforts were made in the party’s interest, rejects accusations of imposing personal policies, and argues that members are entitled to know the facts about the party’s functioning. The clipping also reports his criticism of a lack of sincerity of purpose, weak organisational leadership, and the possibility of replacing the executive if it cannot restore the party’s position.
+
 ## Key points
 
 - M. R. Masani’s confidential note criticises the Swatantra Party’s leadership and internal functioning.

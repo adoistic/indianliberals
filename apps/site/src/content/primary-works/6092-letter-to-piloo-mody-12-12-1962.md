@@ -44,6 +44,10 @@ summary: |-
   This two-page English document is a personal letter from C. Rajagopalachari to Piloo Mody, dated December 12, 1962. Writing from his Madras address, Rajagopalachari acknowledges Mody's letter of December 10 and the change in the date of a planned dinner.
 ---
 
+## Summary
+
+This two-page English document is a personal letter from C. Rajagopalachari to Piloo Mody, dated December 12, 1962. Writing from his Madras address, Rajagopalachari acknowledges Mody's letter of December 10 and the change in the date of a planned dinner.
+
 ## Key points
 
 - The letter is dated December 12, 1962.

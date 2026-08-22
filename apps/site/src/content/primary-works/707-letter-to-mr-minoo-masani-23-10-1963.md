@@ -59,6 +59,12 @@ summary: |-
   In the interview, Masani argues that the 1962 Chinese attack on India exposed the weaknesses of Indian non-alignment and widened the gap between public opinion and Nehru’s government. He criticizes the government’s continuing diplomatic stance toward Communist China and discusses the Kamaraj Plan, cabinet changes, possible succession politics, and Krishna Menon’s influence. He then identifies population growth, inadequate capital, weak economic incentives, collectivization, and excessive taxation as central problems, advocating increased productivity, private enterprise, peasant proprietorship, and a mixed economy. Masani also presents the Swatantra Party as liberal rather than conservative, defending trade-union rights, collective bargaining, the right to strike, and the need for a genuine two-party system.
 ---
 
+## Summary
+
+This October 23, 1963 AFL-CIO letter from Radio Coordinator Harry W. Flannery to Minoo Masani thanks Masani for cooperating with the “AS WE SEE IT” public-service program and encloses its transcript. The enclosure, a four-page ABC radio interview dated October 27, 1963, is titled “Non-Nehru View from India” and presents Masani as a parliamentary opponent of Jawaharlal Nehru’s Congress Party and general secretary of the Swatantra Party.
+
+In the interview, Masani argues that the 1962 Chinese attack on India exposed the weaknesses of Indian non-alignment and widened the gap between public opinion and Nehru’s government. He criticizes the government’s continuing diplomatic stance toward Communist China and discusses the Kamaraj Plan, cabinet changes, possible succession politics, and Krishna Menon’s influence. He then identifies population growth, inadequate capital, weak economic incentives, collectivization, and excessive taxation as central problems, advocating increased productivity, private enterprise, peasant proprietorship, and a mixed economy. Masani also presents the Swatantra Party as liberal rather than conservative, defending trade-union rights, collective bargaining, the right to strike, and the need for a genuine two-party system.
+
 ## Key points
 
 - The primary document is a cover letter dated October 23, 1963, from Harry W. Flannery to Minoo Masani.

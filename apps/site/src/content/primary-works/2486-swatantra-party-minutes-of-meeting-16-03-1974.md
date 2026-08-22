@@ -52,6 +52,12 @@ summary: |-
   The committee also discusses the party's position on Zilla Parishad elections, the circulation of adulterated or substandard "barbadi" samples from Osmanabad, and farmers' agitation against government monopoly procurement of cotton at low prices. It resolves to build contacts with residents of zोपडपट्टियाँ (slum settlements), organise a public march around food-grain availability and related issues, devise methods of raising party funds, and issue a press release congratulating the people of Gujarat—especially its youth—on securing the dissolution of the Gujarat Assembly. The meeting ended at 6.00 p.m. The record is administrative and action-oriented; it does not present a sustained theoretical argument.
 ---
 
+## Summary
+
+These two pages record the proceedings of the Swatantra Party's Maharashtra Executive Committee meeting held in Bombay on 16 March 1974. The minutes list the attendees, note leave of absence, record a condolence resolution for Mrs. Kamal Jagtap, and confirm the minutes of earlier meetings. The General Secretary reports on local party-unit visits and on a petition to the Union Finance Minister seeking lower indirect taxes and a higher personal-income tax exemption threshold; approximately 14,000 signatures had been collected and presented to Parliament by Piloo Mody.
+
+The committee also discusses the party's position on Zilla Parishad elections, the circulation of adulterated or substandard "barbadi" samples from Osmanabad, and farmers' agitation against government monopoly procurement of cotton at low prices. It resolves to build contacts with residents of zोपडपट्टियाँ (slum settlements), organise a public march around food-grain availability and related issues, devise methods of raising party funds, and issue a press release congratulating the people of Gujarat—especially its youth—on securing the dissolution of the Gujarat Assembly. The meeting ended at 6.00 p.m. The record is administrative and action-oriented; it does not present a sustained theoretical argument.
+
 ## Key points
 
 - The Maharashtra Executive Committee met in Bombay on 16 March 1974, with Madhu Mehta as chairman.

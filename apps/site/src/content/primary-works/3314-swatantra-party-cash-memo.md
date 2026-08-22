@@ -50,6 +50,12 @@ summary: |-
   The memo is undated and does not identify its recipient. A handwritten signature appears at the bottom, but it is not sufficiently legible to establish an author.
 ---
 
+## Summary
+
+This single-page handwritten memorandum on Swatantra Party Central Office letterhead records an instruction to settle a matter without imposing further liability on the Rajasaheb. The matter appears to concern two jeeps, although the precise wording and surrounding circumstances are unclear.
+
+The memo is undated and does not identify its recipient. A handwritten signature appears at the bottom, but it is not sufficiently legible to establish an author.
+
 ## Key points
 
 - The document is a handwritten office memo issued on Swatantra Party Central Office letterhead.

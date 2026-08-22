@@ -52,6 +52,12 @@ summary: |-
   Masani then presents an alternative proposal attributed to Mr. Prakash Vir Shastri of the B.K.D.: reservations should be phased out by reducing the number of reserved seats by one-third at the end of each five-year period, so that they would disappear after fifteen years. In view of a proposed merger between the two parties, Masani asks the Central Parliamentary Board to endorse this position and circulate it before Parliament reconvenes.
 ---
 
+## Summary
+
+In this letter dated 4 July 1969, Minoo Masani writes to R. C. Cooper about the likely introduction in Parliament of a constitutional amendment extending the reservation of seats for Scheduled Castes and Scheduled Tribes by another ten years. Masani reports that the issue was discussed inconclusively in the Parliamentary Group and that Rajaji had advised the Swatantra Party not to support continuation of the reservations.
+
+Masani then presents an alternative proposal attributed to Mr. Prakash Vir Shastri of the B.K.D.: reservations should be phased out by reducing the number of reserved seats by one-third at the end of each five-year period, so that they would disappear after fifteen years. In view of a proposed merger between the two parties, Masani asks the Central Parliamentary Board to endorse this position and circulate it before Parliament reconvenes.
+
 ## Key points
 
 - Masani anticipates a parliamentary proposal to extend Scheduled Caste and Scheduled Tribe seat reservations for another ten years.

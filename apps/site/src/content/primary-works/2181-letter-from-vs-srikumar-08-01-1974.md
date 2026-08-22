@@ -49,6 +49,12 @@ summary: |-
   The letter says that formal notice will follow from Madras or Bombay within the next few days. It also requests that the recipient rearrange his programme, if necessary, so that he can attend what the writer describes as an important meeting. The second page is the reverse of the envelope, addressed to Shri S.V. Raju at the Swatantra Party in Bombay.
 ---
 
+## Summary
+
+This two-page English correspondence, dated 8 January 1974, is issued on All India Swatantra Party letterhead and signed by V.S. Srikumar, Joint Secretary. It asks the recipient to keep available the date of a forthcoming National Executive Committee meeting, expected to be held in Bombay on 22 January, to discuss important party and public matters.
+
+The letter says that formal notice will follow from Madras or Bombay within the next few days. It also requests that the recipient rearrange his programme, if necessary, so that he can attend what the writer describes as an important meeting. The second page is the reverse of the envelope, addressed to Shri S.V. Raju at the Swatantra Party in Bombay.
+
 ## Key points
 
 - The letter is dated 8 January 1974 and is written on All India Swatantra Party letterhead.

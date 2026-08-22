@@ -49,6 +49,12 @@ summary: |-
   Masani proposes meeting Hirachand in Bombay before Hirachand leaves India, and also expresses interest in visiting Rajkot later in the year to see the automobile works. The document is a personal, one-page letter; it contains no formal title or publication information.
 ---
 
+## Summary
+
+In this letter dated September 12, 1969, M. R. Masani congratulates Lalchand Hirachand on the Prime Minister’s position concerning flat cars, which Masani says has effectively taken India out of the issue. He explains that he had wanted to consult Hirachand about how he and Dr. R. C. Cooper might assist the automobile industry without compromising their concern for consumers, and encloses Cooper’s press statement as the result of their discussions.
+
+Masani proposes meeting Hirachand in Bombay before Hirachand leaves India, and also expresses interest in visiting Rajkot later in the year to see the automobile works. The document is a personal, one-page letter; it contains no formal title or publication information.
+
 ## Key points
 
 - Masani congratulates Lalchand Hirachand on the Prime Minister’s position regarding flat cars.

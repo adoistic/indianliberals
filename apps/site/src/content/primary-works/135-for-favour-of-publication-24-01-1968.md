@@ -59,6 +59,12 @@ summary: |-
   Masani identifies the external threat with Chinese Communist aggression and the internal threats with economic collapse, moral degeneration, corruption, violence, disorder, political irresponsibility, and the spread of Communist subversion. He condemns weak administration, the “Permit-Licence-Raj,” lawlessness, and the inability of governments to pursue sound financial and economic policies. His proposed remedy is a broad-based Government of Democratic Unity excluding the Communists, supported by active citizens, voluntary associations, professional expertise, and disciplined public participation. The statement closes by urging ordinary citizens to help preserve order and democracy rather than waiting for politicians to rescue the country.
 ---
 
+## Summary
+
+In this two-page statement dated Bombay, January 24, 1968, M. R. Masani argues that the Republic and Constitution are threatened by both external aggression and internal political failure. He calls on citizens to renew their loyalty to the Republic, reject the division between “we” and “they,” and accept personal responsibility for maintaining democracy through vigilance and participation. He particularly criticises the business community for failing to defend shareholders, bank depositors, and insurance policyholders against proposed “social control” legislation.
+
+Masani identifies the external threat with Chinese Communist aggression and the internal threats with economic collapse, moral degeneration, corruption, violence, disorder, political irresponsibility, and the spread of Communist subversion. He condemns weak administration, the “Permit-Licence-Raj,” lawlessness, and the inability of governments to pursue sound financial and economic policies. His proposed remedy is a broad-based Government of Democratic Unity excluding the Communists, supported by active citizens, voluntary associations, professional expertise, and disciplined public participation. The statement closes by urging ordinary citizens to help preserve order and democracy rather than waiting for politicians to rescue the country.
+
 ## Key points
 
 - Masani presents the Republic and Constitution as endangered by both Chinese Communist aggression and domestic political failure.

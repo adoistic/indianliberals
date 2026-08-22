@@ -48,6 +48,10 @@ summary: |-
   This one-page English telegram, dated 6 June 1966, is sent by Masani from Bombay to C. Rajagopalachari in Madras. Masani reports that he has accepted Indira Gandhi’s invitation to meet and discuss the implications of devaluation, and states that he broadly agrees with Professor Shenoy that devaluation is desirable only if inflationary policies are abandoned.
 ---
 
+## Summary
+
+This one-page English telegram, dated 6 June 1966, is sent by Masani from Bombay to C. Rajagopalachari in Madras. Masani reports that he has accepted Indira Gandhi’s invitation to meet and discuss the implications of devaluation, and states that he broadly agrees with Professor Shenoy that devaluation is desirable only if inflationary policies are abandoned.
+
 ## Key points
 
 - Masani accepted Indira Gandhi’s invitation to meet.

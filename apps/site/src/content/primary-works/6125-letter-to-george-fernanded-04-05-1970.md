@@ -51,6 +51,12 @@ summary: |-
   The letter nevertheless supports continuing bilateral talks with Fernandes’s party. Cooper encloses two notes for discussion: “Towards a better future,” attributed to Piloo Mody, and a draft “Economic Policy” paper prepared by the Working Group on Economic Policy. He asks Fernandes to respond to the contents of both notes and copies M. R. Pai.
 ---
 
+## Summary
+
+This one-page English letter, dated May 4, 1970, was sent from Swatantra Party National Headquarters in Bombay by General Secretary R. C. Cooper to George Fernandes, General Secretary of the Samyukta Socialist Party. Cooper reports that the Swatantra Party’s National Executive agreed that dialogue with Fernandes’s party should be preceded by agreement on a common programme. The Executive also reaffirmed that dialogue would be meaningful and successful only when a viable alternative to the present government was available, requiring an Opposition Front with an agreed programme.
+
+The letter nevertheless supports continuing bilateral talks with Fernandes’s party. Cooper encloses two notes for discussion: “Towards a better future,” attributed to Piloo Mody, and a draft “Economic Policy” paper prepared by the Working Group on Economic Policy. He asks Fernandes to respond to the contents of both notes and copies M. R. Pai.
+
 ## Key points
 
 - The letter records the Swatantra Party’s response to George Fernandes’s March 11 correspondence.

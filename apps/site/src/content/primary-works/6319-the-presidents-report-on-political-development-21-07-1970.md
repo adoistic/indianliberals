@@ -56,6 +56,12 @@ summary: |-
   The narrative presents the negotiations with Congress(O), the Jan Sangh, the B.K.D., and later the SSP as repeatedly delayed and weakened by disagreements over the Democratic Front’s programme and electoral arrangements. Although a front was announced on December 20, 1970, the report argues that last-minute changes and the failure to announce the alliance before Parliament was dissolved undermined the effort. It attributes the subsequent electoral defeat to the front’s inability to offer a credible alternative to Indira Gandhi and closes by linking the party’s organisational weakness to failures identified in its Mid-Term Report, including inadequate activity, indiscipline, weak outreach to disadvantaged groups, and the need for social change and organisational renewal.
 ---
 
+## Summary
+
+This confidential report recounts the Swatantra Party President’s efforts, from July 1970 through January 1971, to consolidate democratic parties into a common front against communist subversion and the Congress government. It reproduces the General Council’s support for the All-India Congress Committee’s June 28 appeal, identifying unity and national security, constitutional liberties and democratic institutions, law and order, and a secular society grounded in social and economic justice as the proposed basis for cooperation. The report also advocates a common electoral programme, one agreed candidate per constituency, and an electoral pact for the forthcoming Lok Sabha elections.
+
+The narrative presents the negotiations with Congress(O), the Jan Sangh, the B.K.D., and later the SSP as repeatedly delayed and weakened by disagreements over the Democratic Front’s programme and electoral arrangements. Although a front was announced on December 20, 1970, the report argues that last-minute changes and the failure to announce the alliance before Parliament was dissolved undermined the effort. It attributes the subsequent electoral defeat to the front’s inability to offer a credible alternative to Indira Gandhi and closes by linking the party’s organisational weakness to failures identified in its Mid-Term Report, including inadequate activity, indiscipline, weak outreach to disadvantaged groups, and the need for social change and organisational renewal.
+
 ## Key points
 
 - The Swatantra Party General Council authorised negotiations to consolidate national democratic forces.

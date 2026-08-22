@@ -48,6 +48,12 @@ summary: |-
   Jambubhai Bhatt and Chunilal Vasave were exonerated: Bhatt had withdrawn his support and communicated this to other party legislators, while Vasave was considered to have acted on misleading information. Natwarsinh Solanki, Chandrakant Parikh, and Thakore Saheb Chandrasinhji Jadeja of Dhrol were barred from holding party or legislative-party office for three years. Mahida's explanation was deemed largely irrelevant to the specific charges, and the Executive decided to expel him from the Party. The extract does not identify the meeting date, issuing organisation by name, or the individuals who made or signed the decisions.
 ---
 
+## Summary
+
+This two-page extract from the minutes of a National Executive Meeting records disciplinary proceedings concerning Mr. U. N. Mahida and five members of the legislature who supported his candidacy in a biennial election to the Rajya Sabha from Gujarat. The Executive reports that fourteen members voted in favour of its decisions and three abstained. It distinguishes between cases in which explanations were accepted and cases in which the conduct was judged to warrant sanctions.
+
+Jambubhai Bhatt and Chunilal Vasave were exonerated: Bhatt had withdrawn his support and communicated this to other party legislators, while Vasave was considered to have acted on misleading information. Natwarsinh Solanki, Chandrakant Parikh, and Thakore Saheb Chandrasinhji Jadeja of Dhrol were barred from holding party or legislative-party office for three years. Mahida's explanation was deemed largely irrelevant to the specific charges, and the Executive decided to expel him from the Party. The extract does not identify the meeting date, issuing organisation by name, or the individuals who made or signed the decisions.
+
 ## Key points
 
 - The document records disciplinary decisions taken by a National Executive Meeting.

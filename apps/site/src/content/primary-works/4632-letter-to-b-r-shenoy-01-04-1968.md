@@ -48,6 +48,10 @@ summary: |-
   This one-page letter, dated 1 April 1968 and written from New Delhi, is M. R. Masani's response to Professor B. R. Shenoy's letter of 21 March. Masani thanks Shenoy for stepping aside, but says that Shenoy was again misled by contacts within Masani's party who had evidently abandoned him in favour of others during an attempt to undermine the party's decisions and pledges.
 ---
 
+## Summary
+
+This one-page letter, dated 1 April 1968 and written from New Delhi, is M. R. Masani's response to Professor B. R. Shenoy's letter of 21 March. Masani thanks Shenoy for stepping aside, but says that Shenoy was again misled by contacts within Masani's party who had evidently abandoned him in favour of others during an attempt to undermine the party's decisions and pledges.
+
 ## Key points
 
 - The letter is dated 1 April 1968 and sent from 2 Tughlaq Road, New Delhi.

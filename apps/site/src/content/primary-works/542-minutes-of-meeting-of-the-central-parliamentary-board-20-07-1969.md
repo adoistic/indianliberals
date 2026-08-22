@@ -51,6 +51,12 @@ summary: |-
   The Board considered Dr. C. D. Deshmukh as a candidate supported by the democratic opposition parties after Pandit Kunzru and Justice Subba Rao declined. Reports by N. Dandekar and M. R. Masani describe consultations with opposition groups, including the Swatantra Party, Bharatiya Kranti Dal, Jan Sangh, Akali Dal, P.S.P., and B.K.D. The Board unanimously decided that Swatantra should put forward Deshmukh, advised party voters to give him their first preference and Sanjiva Reddy their second preference, and suggested seeking Muslim League support. The minutes end with the meeting’s termination.
 ---
 
+## Summary
+
+These two pages are the draft minutes of a Central Parliamentary Board meeting held at Prof. N. G. Ranga’s New Delhi residence on 20 July 1969. The record confirms the previous meeting’s minutes, condemns the government’s recent Banking Nationalisation Ordinance as an improper attempt to bypass Parliament, and records the Board’s discussion of the forthcoming election of the President of India.
+
+The Board considered Dr. C. D. Deshmukh as a candidate supported by the democratic opposition parties after Pandit Kunzru and Justice Subba Rao declined. Reports by N. Dandekar and M. R. Masani describe consultations with opposition groups, including the Swatantra Party, Bharatiya Kranti Dal, Jan Sangh, Akali Dal, P.S.P., and B.K.D. The Board unanimously decided that Swatantra should put forward Deshmukh, advised party voters to give him their first preference and Sanjiva Reddy their second preference, and suggested seeking Muslim League support. The minutes end with the meeting’s termination.
+
 ## Key points
 
 - The minutes of the Central Parliamentary Board’s 22 June 1969 meeting were confirmed.

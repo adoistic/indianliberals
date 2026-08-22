@@ -54,6 +54,12 @@ summary: |-
   The correspondence seeks practical political support for Kapur Singh, including efforts to secure him a seat in the Lok Sabha as a member of the Swatantra group. Its postscript recommends that Kapur Singh attend the Swatantra Party convention and meet state-party presidents and secretaries to discuss the party’s future organisation. The remaining pages are attached Punjabi material portraying Sikhs as natural allies of the Swatantra cause, urging patient political outreach, publicising alleged abuses by Congress governments, and presenting biographical and political claims about Kapur Singh. The attachments include photographs and campaign-style appeals concerning Sikh representation and opposition to Congress.
 ---
 
+## Summary
+
+This 30 March 1962 letter from Basant Singh, issued by the Swatantra Party’s Punjab State Office in Patiala and addressed to C. Rajagopalachari (“Rajaji”), reports on a meeting with Sardar Kapur Singh at Chandigarh. Singh describes Kapur Singh’s prolonged litigation, financial hardship, and political aims, and forwards samples of Kapur Singh’s writings on Sikh sacred literature for Rajaji’s review. The letter also encloses a Punjabi election handout alleging corrupt conduct by the Congress government and noting that Jawaharlal Nehru visited Kapur Singh’s constituency without referring publicly to those allegations.
+
+The correspondence seeks practical political support for Kapur Singh, including efforts to secure him a seat in the Lok Sabha as a member of the Swatantra group. Its postscript recommends that Kapur Singh attend the Swatantra Party convention and meet state-party presidents and secretaries to discuss the party’s future organisation. The remaining pages are attached Punjabi material portraying Sikhs as natural allies of the Swatantra cause, urging patient political outreach, publicising alleged abuses by Congress governments, and presenting biographical and political claims about Kapur Singh. The attachments include photographs and campaign-style appeals concerning Sikh representation and opposition to Congress.
+
 ## Key points
 
 - Basant Singh reports a recent Chandigarh meeting with Sardar Kapur Singh and describes his legal and financial difficulties.

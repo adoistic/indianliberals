@@ -46,6 +46,10 @@ summary: |-
   This one-page express telegram, sent from Madras on 29 May 1968 and signed or issued under the name “MASANI,” is addressed to S. V. Raju in Bombay. It asks the recipient to consider a suitable candidate to replace the sender in the position of National Executive, indicating an internal political or organisational election matter.
 ---
 
+## Summary
+
+This one-page express telegram, sent from Madras on 29 May 1968 and signed or issued under the name “MASANI,” is addressed to S. V. Raju in Bombay. It asks the recipient to consider a suitable candidate to replace the sender in the position of National Executive, indicating an internal political or organisational election matter.
+
 ## Key points
 
 - The document is marked “EXP,” identifying it as an express telegram.

@@ -45,6 +45,12 @@ summary: |-
   Masani asks Irani to telephone Prem Prashad and arrange a meeting for the evening of his arrival. He hopes to have dinner with Prashad and his wife, possibly after discussing business over a drink, and asks Irani to arrange an earlier call if Prashad cannot meet at dinner. The page visible here is only the covering letter; the enclosed letter mentioned in the text is not included.
 ---
 
+## Summary
+
+In this letter dated March 25, 1970, M. R. Masani writes to Cushrow Irani to say that he has enclosed a copy of a letter sent to Prem Prashad. Masani outlines his travel itinerary: he plans to reach Calcutta from Bhubaneswar by IC 262 on Tuesday, March 7, arriving at 16:20 hours, and to leave for Bombay the following morning by IC 130 at 10:00 hours.
+
+Masani asks Irani to telephone Prem Prashad and arrange a meeting for the evening of his arrival. He hopes to have dinner with Prashad and his wife, possibly after discussing business over a drink, and asks Irani to arrange an earlier call if Prashad cannot meet at dinner. The page visible here is only the covering letter; the enclosed letter mentioned in the text is not included.
+
 ## Key points
 
 - Masani writes to Cushrow Irani on March 25, 1970.

@@ -56,6 +56,10 @@ summary: |-
   These draft minutes record the Swatantra Party Central Parliamentary Board’s meeting at the Casino Hotel, Cochin, on 27 January 1968. The Board dealt first with internal discipline, accepting S. V. Kashinath’s apology for moving a bill increasing ministers’ and legislators’ salaries in the Mysore Legislative Assembly and deciding to drop the matter. It then reviewed state-level recommendations for biennial Rajya Sabha and Vidhan Parishad elections, extending the deadline for nominations and approving candidates or electoral arrangements in Orissa, Gujarat, Rajasthan, and other states. The minutes show the party negotiating reciprocal support with the Jan Sangh while also trying to preserve its independent identity and electoral prospects.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Central Parliamentary Board’s meeting at the Casino Hotel, Cochin, on 27 January 1968. The Board dealt first with internal discipline, accepting S. V. Kashinath’s apology for moving a bill increasing ministers’ and legislators’ salaries in the Mysore Legislative Assembly and deciding to drop the matter. It then reviewed state-level recommendations for biennial Rajya Sabha and Vidhan Parishad elections, extending the deadline for nominations and approving candidates or electoral arrangements in Orissa, Gujarat, Rajasthan, and other states. The minutes show the party negotiating reciprocal support with the Jan Sangh while also trying to preserve its independent identity and electoral prospects.
+
 ## Key points
 
 - The Board accepted S. V. Kashinath’s apology and dropped disciplinary action arising from a salary-increase bill in the Mysore legislature.

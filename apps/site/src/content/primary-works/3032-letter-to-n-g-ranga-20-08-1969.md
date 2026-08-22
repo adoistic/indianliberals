@@ -52,6 +52,12 @@ summary: |-
   Cooper reports that twelve of fourteen Board members had approved this compromise and asks Ranga to advise whether the Swatantra Party should support the B.K.D. proposal or independently recommend the same formula. The letter also relays Rajaji’s alternative suggestion that the reduction occur by half every five years, allowing the reservations to disappear after ten years. The document therefore captures an intra-party effort to formulate a parliamentary position on the constitutional extension of political reservations, while emphasizing cooperation with the B.K.D. during merger discussions.
 ---
 
+## Summary
+
+This three-page Swatantra Party document consists of a letter dated August 20, 1969, from R. C. Cooper, Acting for the General Secretary, to Prof. N. G. Ranga. It asks Ranga to guide the party’s Parliamentary Group on a proposal to extend reservations of seats for Scheduled Castes and Tribes. The enclosed Central Parliamentary Board Circular No. 46, dated July 10, 1969, records that C. Rajagopalachari had earlier opposed continuation of the reservations, while the B.K.D. proposed a gradual phase-out: reducing reserved seats by one-third every five years so that they would disappear after fifteen years.
+
+Cooper reports that twelve of fourteen Board members had approved this compromise and asks Ranga to advise whether the Swatantra Party should support the B.K.D. proposal or independently recommend the same formula. The letter also relays Rajaji’s alternative suggestion that the reduction occur by half every five years, allowing the reservations to disappear after ten years. The document therefore captures an intra-party effort to formulate a parliamentary position on the constitutional extension of political reservations, while emphasizing cooperation with the B.K.D. during merger discussions.
+
 ## Key points
 
 - R. C. Cooper wrote to Prof. N. G. Ranga on August 20, 1969, seeking guidance on Scheduled Caste and Tribe seat reservations.

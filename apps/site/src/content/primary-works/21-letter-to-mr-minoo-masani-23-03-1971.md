@@ -52,6 +52,12 @@ summary: |-
   The remaining pages are predominantly in Gujarati and continue the correspondence in a detailed, partly enumerated form. They appear to discuss organisational and electoral concerns, including the conduct of party workers, arrangements at polling stations, and the need for more effective political activity. Because the Gujarati handwriting is difficult to read in places, the summary is confined to the clearly legible arguments and observations visible in the three rendered pages.
 ---
 
+## Summary
+
+This untitled handwritten letter, dated 23 March 1971 and sent from near Sardhar, Rajkot, is addressed to M. R. Masani. On the English opening page, the writer reports alleged irregularities in the election campaign and voting process. The letter attributes the defeat of the M.R.M. candidate to the large-scale distribution of money among Muslim and Harijan voters, poor supervision by the party office, Congress workers' activity on the opposing side, dormant Swatantra Party organisation, intimidation by polling booths, and failures in voter identification.
+
+The remaining pages are predominantly in Gujarati and continue the correspondence in a detailed, partly enumerated form. They appear to discuss organisational and electoral concerns, including the conduct of party workers, arrangements at polling stations, and the need for more effective political activity. Because the Gujarati handwriting is difficult to read in places, the summary is confined to the clearly legible arguments and observations visible in the three rendered pages.
+
 ## Key points
 
 - The letter is dated 23 March 1971 and was written from near Sardhar, Rajkot, to M. R. Masani.

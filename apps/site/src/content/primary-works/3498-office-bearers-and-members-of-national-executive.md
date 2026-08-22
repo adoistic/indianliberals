@@ -47,6 +47,10 @@ summary: |-
   This five-page English-language administrative roster records the office bearers and members of the Swatantra Party's National Executive. It identifies the president, four vice-presidents, general secretary, three treasurers, one joint secretary, and a numbered list of national-executive members.
 ---
 
+## Summary
+
+This five-page English-language administrative roster records the office bearers and members of the Swatantra Party's National Executive. It identifies the president, four vice-presidents, general secretary, three treasurers, one joint secretary, and a numbered list of national-executive members.
+
 ## Key points
 
 - Prof. N. G. Ranga is listed as president, with separate addresses for ordinary periods and Parliament sessions.

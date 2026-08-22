@@ -51,6 +51,12 @@ summary: |-
   The central decision was to merge the Bombay and Maharashtra regional organisations into a single Maharashtra State Unit of the Swatantra Party. The discussion acknowledged that Bombay could not provide financial assistance to Maharashtra districts, while arguing that district-level resources could emerge from constructive work and relief for rural communities. The meeting unanimously adopted the merger resolution, sought National Executive approval, instructed members to begin joint election work, distributed enrolment forms, and constituted an election sub-committee. The meeting ended at 5:00 p.m. with a vote of thanks to the chair.
 ---
 
+## Summary
+
+These three pages record the joint meeting of the Bombay and Maharashtra Regional Councils of the Swatantra Party, held at the party office in Bombay on 15 September 1973. Madhu Mehta chaired the meeting, which reviewed earlier council minutes, discussed a report from the Maharashtra State Unit, and addressed membership enrolment and forthcoming party elections.
+
+The central decision was to merge the Bombay and Maharashtra regional organisations into a single Maharashtra State Unit of the Swatantra Party. The discussion acknowledged that Bombay could not provide financial assistance to Maharashtra districts, while arguing that district-level resources could emerge from constructive work and relief for rural communities. The meeting unanimously adopted the merger resolution, sought National Executive approval, instructed members to begin joint election work, distributed enrolment forms, and constituted an election sub-committee. The meeting ended at 5:00 p.m. with a vote of thanks to the chair.
+
 ## Key points
 
 - The joint meeting of the Bombay and Maharashtra Regional Councils took place in Bombay on 15 September 1973.

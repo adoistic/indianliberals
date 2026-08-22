@@ -51,6 +51,12 @@ summary: |-
   Ganapaiah endorses the proposed party's policy statement, particularly its provisions on agricultural policy, food policy, and minority protections. He says Piloo Mody has asked him to prepare a note on agricultural policy and links this work to an upcoming Forum of Free Enterprise executive meeting in Vellore. The letter closes by urging Masani to advise Jayaprakash Narayan to lead a united opposition, which Ganapaiah presents as a way to avert economic chaos and anarchy. He also reports that the Forum of Free Enterprise is gaining support from state-level farmers' associations.
 ---
 
+## Summary
+
+In this 26 June 1974 letter from the Swatantra Party's Mysore State Headquarters, N. K. Ganapaiah writes to Minoo Masani about efforts to unite India's opposition parties. He reports that eight opposition parties have agreed to merge into a new organisation, which he describes as a possible All India Party, while noting that Congress (O)'s participation would be desirable but that a favourable response from the Jana Sangh is unlikely. Conversations with S. Nijalingappa and Ramakrishna Hegde lead him to argue that India needs a single opposition party with a National Alternative to prevent democratic decline.
+
+Ganapaiah endorses the proposed party's policy statement, particularly its provisions on agricultural policy, food policy, and minority protections. He says Piloo Mody has asked him to prepare a note on agricultural policy and links this work to an upcoming Forum of Free Enterprise executive meeting in Vellore. The letter closes by urging Masani to advise Jayaprakash Narayan to lead a united opposition, which Ganapaiah presents as a way to avert economic chaos and anarchy. He also reports that the Forum of Free Enterprise is gaining support from state-level farmers' associations.
+
 ## Key points
 
 - Ganapaiah reports on plans by eight opposition parties to merge into a new national political organisation.

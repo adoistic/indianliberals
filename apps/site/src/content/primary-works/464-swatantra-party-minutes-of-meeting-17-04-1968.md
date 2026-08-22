@@ -51,6 +51,12 @@ summary: |-
   The circular identifies the motion as scheduled for discussion in the House on Thursday, April 18, 1968. It is signed by C. C. Desai in his capacity as Secretary. No title beyond “WHIP,” author byline, or further explanation of the Uttar Pradesh proclamation appears on the page.
 ---
 
+## Summary
+
+This single-page English office circular, issued by the Swatantra Party Parliamentary Office in New Delhi on April 17, 1968, is headed “WHIP” and addressed to all party members in the Lok Sabha. It instructs members to abstain from participating in debate and from voting on a forthcoming proclamation concerning the State of Uttar Pradesh.
+
+The circular identifies the motion as scheduled for discussion in the House on Thursday, April 18, 1968. It is signed by C. C. Desai in his capacity as Secretary. No title beyond “WHIP,” author byline, or further explanation of the Uttar Pradesh proclamation appears on the page.
+
 ## Key points
 
 - The document is a one-page parliamentary whip issued by the Swatantra Party Parliamentary Office.

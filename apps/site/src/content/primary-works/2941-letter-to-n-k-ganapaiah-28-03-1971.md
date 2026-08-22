@@ -57,6 +57,12 @@ summary: |-
   The letter proposes a more accessible “People’s Programme” focused on minimum living conditions, employment, self-employment, rural development, agriculture, housing, education, health, communications, cottage industries, and lower prices for essential commodities. Ghorpade also insists that democracy, fundamental and human rights, judicial independence, property rights, and the rule of law should be presented as practical concerns connected to the welfare of ordinary people. The organisational remedies he recommends include full-time state organisers, regular national leadership visits, stronger youth and village-level structures, and regional-language supplements. The letter closes by calling for a deliberate choice between winding up the party, continuing as before, or streamlining it for systematic national development.
 ---
 
+## Summary
+
+This 28 March 1971 letter from Rajkumar R. Ghorpade, President of the Swatantra Party’s Coorg Unit, is addressed to N. K. Ganapaiah after the party’s poor performance in the parliamentary election. Ghorpade attributes the defeat neither to the party’s principles nor its programme, but to a distorted public image and, above all, weak grassroots organisation. He argues that the Swatantra Party must accept responsibility, stand on its own colours rather than rely on electoral fronts, and prepare itself to replace both Congress and the Communist Party as a credible political alternative.
+
+The letter proposes a more accessible “People’s Programme” focused on minimum living conditions, employment, self-employment, rural development, agriculture, housing, education, health, communications, cottage industries, and lower prices for essential commodities. Ghorpade also insists that democracy, fundamental and human rights, judicial independence, property rights, and the rule of law should be presented as practical concerns connected to the welfare of ordinary people. The organisational remedies he recommends include full-time state organisers, regular national leadership visits, stronger youth and village-level structures, and regional-language supplements. The letter closes by calling for a deliberate choice between winding up the party, continuing as before, or streamlining it for systematic national development.
+
 ## Key points
 
 - Ghorpade attributes the Swatantra Party’s electoral defeat to a distorted public image and inadequate grassroots organisation, not to its principles or programme.

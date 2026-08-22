@@ -50,6 +50,10 @@ summary: |-
   This one-page letter, dated 11 September 1964, was sent by Piloo Mody from the Swatantra Party's Bombay Region office to C. Rajagopalachari (“Rajaji”). Mody writes that he is pleased the COC will meet in Bombay on the 30th and identifies two immediate organisational priorities: holding a public meeting at Chowpatty and raising funds through a subscription dinner.
 ---
 
+## Summary
+
+This one-page letter, dated 11 September 1964, was sent by Piloo Mody from the Swatantra Party's Bombay Region office to C. Rajagopalachari (“Rajaji”). Mody writes that he is pleased the COC will meet in Bombay on the 30th and identifies two immediate organisational priorities: holding a public meeting at Chowpatty and raising funds through a subscription dinner.
+
 ## Key points
 
 - Piloo Mody wrote to C. Rajagopalachari on 11 September 1964.

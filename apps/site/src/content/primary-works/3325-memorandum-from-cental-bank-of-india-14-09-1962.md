@@ -47,6 +47,12 @@ summary: |-
   The document is an administrative payment record rather than a published argument or authored essay. It contains no named human author, publisher information, or broader explanation of the payment's purpose. A bank stamp and an accountant's marking appear near the bottom of the page.
 ---
 
+## Summary
+
+This single-page memorandum, issued from The Central Bank of India, Ltd. in Bombay and dated 14 September 1962, records a cash payment to Shri Kamakshya Narainsingh Raja Bahadur of Ramgarh. The handwritten entry specifies the amount as Rs. 20,000, written out as “Twenty thousand,” and notes that the cash was paid.
+
+The document is an administrative payment record rather than a published argument or authored essay. It contains no named human author, publisher information, or broader explanation of the payment's purpose. A bank stamp and an accountant's marking appear near the bottom of the page.
+
 ## Key points
 
 - The document is headed “MEMORANDUM.”

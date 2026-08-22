@@ -50,6 +50,10 @@ summary: |-
   This one-page Swatantra Party office statement, issued from the Bombay Office on 16 October 1959, records remittances made on behalf of the Central Office. It lists Rs. 22,500 sent between 7 July and 21 September 1959 to C. Rajagopalachari, Krishna Swamy, Sardar Hockamsingh of Rajasthan, and the party offices in Uttar Pradesh and Andhra.
 ---
 
+## Summary
+
+This one-page Swatantra Party office statement, issued from the Bombay Office on 16 October 1959, records remittances made on behalf of the Central Office. It lists Rs. 22,500 sent between 7 July and 21 September 1959 to C. Rajagopalachari, Krishna Swamy, Sardar Hockamsingh of Rajasthan, and the party offices in Uttar Pradesh and Andhra.
+
 ## Key points
 
 - The document is dated 16 October 1959 and is issued on Swatantra Party Bombay Office letterhead.

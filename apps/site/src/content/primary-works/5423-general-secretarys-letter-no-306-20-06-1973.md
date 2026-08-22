@@ -51,6 +51,12 @@ summary: |-
   The letter asks state and regional offices to urgently provide, for each district, the name of the district president, the name of the general secretary, and the unit's postal address. The requested information is intended to enable the headquarters to send revised enrolment forms directly to district units and to support enrolment in areas without an existing party organisation.
 ---
 
+## Summary
+
+This one-page English office letter, dated June 20, 1973, is issued by the Swatantra Party's national headquarters as General Secretary's Letter No. 306. It explains that Clause 4(a) of the party constitution was revised at the Sixth National Convention to allow functioning district units to enrol members directly, while the State Office will handle enrolment where no district unit exists.
+
+The letter asks state and regional offices to urgently provide, for each district, the name of the district president, the name of the general secretary, and the unit's postal address. The requested information is intended to enable the headquarters to send revised enrolment forms directly to district units and to support enrolment in areas without an existing party organisation.
+
 ## Key points
 
 - The document is dated June 20, 1973, and is headed General Secretary's Letter No. 306.

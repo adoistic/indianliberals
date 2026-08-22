@@ -50,6 +50,14 @@ summary: |-
   He informs Masani of his intention to give notice of the Bill at the Lok Sabha Table Office on or before Thursday 3rd September 1970, and consequently requests the urgent approval of the party's Central Parliamentary Board to proceed. The letter is on Dandeker's official parliamentary letterhead (18, Ferozshah Road, New Delhi-1, with a Bombay address at the "Express Building", Churchgate) and carries a handwritten annotation in the margin (apparently "Spoken" and "For Delhi") along with the ministerial signature.
 ---
 
+## Summary
+
+This single-page letter, dated 28th August 1970, is written by N. Dandeker, an ICS (Retd.) Member of Parliament in the Lok Sabha, to Minoo (M. R.) Masani, M.P. of the Swatantra Party at 143, Mahatma Gandhi Road, Bombay-1. It is a working communication between two Swatantra parliamentarians about a legislative initiative concerning Ministers' Salaries & Allowances.
+
+Dandeker encloses three items with the letter: a Draft Bill that repeals the existing Act and substitutes an entirely new one (explaining that amending the existing Act would be too clumsy); a Statement of Objects & Reasons; and a Comparative Statement showing the Salaries & Allowances of Ministers both as proposed in the Bill and as at present. He notes that the "Notes on Clauses" still need to be drafted, but points out that Clauses 2, 7, 8, 9, 10 and 11 of the Bill are practically identical with the corresponding sections of the present Act.
+
+He informs Masani of his intention to give notice of the Bill at the Lok Sabha Table Office on or before Thursday 3rd September 1970, and consequently requests the urgent approval of the party's Central Parliamentary Board to proceed. The letter is on Dandeker's official parliamentary letterhead (18, Ferozshah Road, New Delhi-1, with a Bombay address at the "Express Building", Churchgate) and carries a handwritten annotation in the margin (apparently "Spoken" and "For Delhi") along with the ministerial signature.
+
 ## Key points
 
 - A private letter dated 28th August 1970 from Swatantra MP N. Dandeker to fellow Swatantra MP Minoo Masani on Ministers' Salaries & Allowances.

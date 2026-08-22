@@ -49,6 +49,12 @@ summary: |-
   The letter is primarily administrative and appreciative rather than a developed argument. Its references nevertheless place it within debates over state trading, cooperative farming, and the extent to which such policies should be made optional. The page is undated: a handwritten notation appears to read “21/10,” but no year is visible, and the signature cannot be confidently read.
 ---
 
+## Summary
+
+This single-page handwritten letter from Ram Rai Mohan Rai Munshi to Mr Henry Modi asks Modi to convey the sender's compliments to A. D. Shroff regarding an apparent discussion or writing on state trading. The letter refers to material concerning the slogan of “optional” cooperative farming and requests copies of a “PROGRESS Bulletin,” specifically mentioning issues 13, 14, and 15.
+
+The letter is primarily administrative and appreciative rather than a developed argument. Its references nevertheless place it within debates over state trading, cooperative farming, and the extent to which such policies should be made optional. The page is undated: a handwritten notation appears to read “21/10,” but no year is visible, and the signature cannot be confidently read.
+
 ## Key points
 
 - The document is a personal letter addressed to Mr Henry Modi.

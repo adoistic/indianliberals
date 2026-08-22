@@ -44,6 +44,10 @@ summary: |-
   This one-page letter from Prime Minister Indira Gandhi to Shri Minoo Masani, M.P., dated March 29, 1967, acknowledges Masani's letter of March 27. Gandhi states that she will respond separately on the proposed date of the next session after consulting her colleagues.
 ---
 
+## Summary
+
+This one-page letter from Prime Minister Indira Gandhi to Shri Minoo Masani, M.P., dated March 29, 1967, acknowledges Masani's letter of March 27. Gandhi states that she will respond separately on the proposed date of the next session after consulting her colleagues.
+
 ## Key points
 
 - The letter is dated March 29, 1967, and is issued from the Prime Minister's House, New Delhi.

@@ -52,6 +52,12 @@ summary: |-
   The letter instructs state units to organise public and group meetings condemning hoarding, especially of essential commodities such as vanaspati, edible oil, and cement. It also directs each state unit to appoint a vigilance committee, organise vigilance squads, report cases to the authorities, and ensure that no innocent person is victimised. Any direct action is explicitly to be non-violent, including dharnas and gheraos outside the premises of suspected hoarders, undertaken in cooperation with the authorities.
 ---
 
+## Summary
+
+This one-page Swatantra Party letter, dated June 25, 1974, reports that the Government of India is issuing an ordinance to enable firm action against hoarders and black-marketeers. Signed by Madhu Mehta as Acting General Secretary, it says the party has long demanded government action against businesspeople and industrialists engaged in such practices and therefore welcomes the proposed measure.
+
+The letter instructs state units to organise public and group meetings condemning hoarding, especially of essential commodities such as vanaspati, edible oil, and cement. It also directs each state unit to appoint a vigilance committee, organise vigilance squads, report cases to the authorities, and ensure that no innocent person is victimised. Any direct action is explicitly to be non-violent, including dharnas and gheraos outside the premises of suspected hoarders, undertaken in cooperation with the authorities.
+
 ## Key points
 
 - The letter welcomes a Government of India ordinance targeting hoarders and black-marketeers.

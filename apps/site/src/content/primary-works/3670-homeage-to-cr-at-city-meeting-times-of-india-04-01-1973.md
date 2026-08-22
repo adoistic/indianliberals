@@ -51,6 +51,12 @@ summary: |-
   The tributes emphasise Rajaji’s intellectual integrity and his role as a bridge between political generations. N. Dandekar recalled Rajaji’s administrative practice of ensuring that final government decisions were communicated through the civil service rather than issued arbitrarily by individual ministers. Other speakers praised his willingness to criticise without malice, his defence of opposition politics, and his ability to give dissent a respected place in Indian public life.
 ---
 
+## Summary
+
+This Times of India report dated 4 January 1973 covers a Bombay meeting organised by the Common Man’s Platform to commemorate C. Rajagopalachari (Rajaji), who had died recently. Speakers from different political parties described Rajaji as one of the architects of modern India and honoured his public service, political independence, and contribution to democratic opposition.
+
+The tributes emphasise Rajaji’s intellectual integrity and his role as a bridge between political generations. N. Dandekar recalled Rajaji’s administrative practice of ensuring that final government decisions were communicated through the civil service rather than issued arbitrarily by individual ministers. Other speakers praised his willingness to criticise without malice, his defence of opposition politics, and his ability to give dissent a respected place in Indian public life.
+
 ## Key points
 
 - A Bombay city meeting commemorated C. Rajagopalachari shortly after his death.

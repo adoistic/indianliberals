@@ -51,6 +51,12 @@ summary: |-
   The report says Masani believed the committee had overlooked failures by the president and general secretary of the Gujarat unit, as well as the conduct of certain MPs—including a National Executive member—who had campaigned against the party’s candidate. He argued that the party should investigate senior figures rather than penalise only lesser participants, and said he could do more constructive work outside the National Executive.
 ---
 
+## Summary
+
+This 16 May 1968 newspaper report records M. R. Masani’s allegation that the Swatantra Party’s National Executive had secretly decided not to take disciplinary action against certain Gujarat leaders. The leaders had been summoned to explain their conduct during elections to the Rajya Sabha from Gujarat; Masani’s claim was disclosed through correspondence between him and N. Dandekar, the party’s present General Secretary. Masani described the published account of the committee’s decision as an “eye-wash.”
+
+The report says Masani believed the committee had overlooked failures by the president and general secretary of the Gujarat unit, as well as the conduct of certain MPs—including a National Executive member—who had campaigned against the party’s candidate. He argued that the party should investigate senior figures rather than penalise only lesser participants, and said he could do more constructive work outside the National Executive.
+
 ## Key points
 
 - M. R. Masani alleged that the Swatantra Party’s National Executive made an unpublished decision not to impose disciplinary action on certain Gujarat leaders.

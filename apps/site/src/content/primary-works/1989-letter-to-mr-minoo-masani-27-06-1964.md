@@ -52,6 +52,12 @@ summary: |-
   Singhvi argues that the resolution’s proposed “reconsideration and readjustment” has limited relevance to the realities of Kashmir. He contends that calls for reconciliation and “open mindedness” have produced uncertainty, indecision, and demoralisation in government ranks, while encouraging an “almost irretrievable drift.” He also criticises Sheikh Mohammad Abdullah’s invocation of self-determination, suggesting that the slogan is being used to advance the possibility of an independent Kashmir through agreement and to facilitate communal political demands. Singhvi closes by criticising what he sees as imprudent and injurious conduct by both India and Pakistan, while stating that he remains committed to amity between the two countries.
 ---
 
+## Summary
+
+This two-page letter, dated June 27, 1964, is addressed by L. M. Singhvi to Minoo Masani after Singhvi received the Swatantra Party Parliamentary Board’s resolution on Kashmir. Writing from Srinagar, Singhvi says he has been studying the problem and consulting public workers across different shades of opinion, with the intention of offering a more detailed assessment later.
+
+Singhvi argues that the resolution’s proposed “reconsideration and readjustment” has limited relevance to the realities of Kashmir. He contends that calls for reconciliation and “open mindedness” have produced uncertainty, indecision, and demoralisation in government ranks, while encouraging an “almost irretrievable drift.” He also criticises Sheikh Mohammad Abdullah’s invocation of self-determination, suggesting that the slogan is being used to advance the possibility of an independent Kashmir through agreement and to facilitate communal political demands. Singhvi closes by criticising what he sees as imprudent and injurious conduct by both India and Pakistan, while stating that he remains committed to amity between the two countries.
+
 ## Key points
 
 - Singhvi writes from Srinagar after studying the Swatantra Party Parliamentary Board’s resolution on Kashmir.

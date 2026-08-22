@@ -57,6 +57,12 @@ summary: |-
   The letter proposes setting up signature-collection counters outside courts and in prominent city locations, as well as organizing processions through cities, towns, and villages. It instructs supporters to forward the signatures to the President of India and asks that the party continue asserting the judiciary's right to interpret the law and protect the Constitution. The attached petition, addressed to President V. V. Giri, presents the appointment as government interference with judicial independence and as a threat to democratic functioning.
 ---
 
+## Summary
+
+Dated April 30, 1973, this Swatantra Party General Secretary's Letter No. 302, signed by Madhu Mehta, responds to the appointment of Mr. Ajit Nath Ray as Chief Justice of India over three senior judges. It reports retired Chief Justice Sikri's characterization of the appointment as political and urges party supporters to organize a public signature campaign in protest.
+
+The letter proposes setting up signature-collection counters outside courts and in prominent city locations, as well as organizing processions through cities, towns, and villages. It instructs supporters to forward the signatures to the President of India and asks that the party continue asserting the judiciary's right to interpret the law and protect the Constitution. The attached petition, addressed to President V. V. Giri, presents the appointment as government interference with judicial independence and as a threat to democratic functioning.
+
 ## Key points
 
 - The letter dated April 30, 1973, objects to the appointment of Ajit Nath Ray as Chief Justice of India over three senior judges.

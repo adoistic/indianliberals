@@ -49,6 +49,10 @@ summary: |-
   The principal document is a typed Swatantra Party letter dated June 28, 1971, identified as “General Secretary's Letter No. 266” and signed by I. C. Cooper. Addressed to an unnamed party colleague, it forwards a questionnaire for review of the party’s policies. The questionnaire had been issued to party units at the primary, district, and state levels; the letter says arrangements were being made to translate and circulate it in each state’s language and asks the recipient to place it before the sub-committee appointed by the State Executive.
 ---
 
+## Summary
+
+The principal document is a typed Swatantra Party letter dated June 28, 1971, identified as “General Secretary's Letter No. 266” and signed by I. C. Cooper. Addressed to an unnamed party colleague, it forwards a questionnaire for review of the party’s policies. The questionnaire had been issued to party units at the primary, district, and state levels; the letter says arrangements were being made to translate and circulate it in each state’s language and asks the recipient to place it before the sub-committee appointed by the State Executive.
+
 ## Key points
 
 - The document is Swatantra Party correspondence dated June 28, 1971.

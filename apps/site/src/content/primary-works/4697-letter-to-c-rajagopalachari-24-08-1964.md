@@ -50,6 +50,12 @@ summary: |-
   Masani encloses H. K. Srivastava's letter, which alleges fraud, and describes a cautious procedure for investigating the matter. He wants the Bihar issue settled before opening similar cases in other states, plans a routine inspection after meetings in Delhi on September 6–8, and says that the charge will be tested and acted upon if proved. Meanwhile, he has advised Srivastava to stop discussing the matter so that evidence is not destroyed.
 ---
 
+## Summary
+
+In this letter dated August 24, 1964, Minoo Masani writes to C. Rajagopalachari about the handling of a resolution concerning Ramgarh. Masani says he is awaiting approval from Munshi and another colleague before writing to Ramgarh to show cause, and confirms that he will act on the resolution as Rajagopalachari amended it. He also asks whether Rajagopalachari's letter to Ramgarh was written independently or in response to a communication from Ramgarh, noting that the Central Office has received no communication since Rajagopalachari's visit.
+
+Masani encloses H. K. Srivastava's letter, which alleges fraud, and describes a cautious procedure for investigating the matter. He wants the Bihar issue settled before opening similar cases in other states, plans a routine inspection after meetings in Delhi on September 6–8, and says that the charge will be tested and acted upon if proved. Meanwhile, he has advised Srivastava to stop discussing the matter so that evidence is not destroyed.
+
 ## Key points
 
 - Masani is awaiting Munshi's and a colleague's approval before writing to Ramgarh to show cause.

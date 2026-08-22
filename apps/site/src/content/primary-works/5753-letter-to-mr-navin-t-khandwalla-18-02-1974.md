@@ -46,6 +46,12 @@ summary: |-
   The letter requests that the forms be returned by the evening of February 22 and closes with a courteous expression of thanks and affection. No further subject matter, institutional purpose, or substantive argument appears on the page.
 ---
 
+## Summary
+
+This untitled office letter, dated February 18, 1974, is written by Girish Munshi from Bharatiya Vidya Bhavan, Bombay, to Shri Navin T. Khandwalla. Munshi states that he is sending forms in four languages and asks whether Khandwalla requires additional sets.
+
+The letter requests that the forms be returned by the evening of February 22 and closes with a courteous expression of thanks and affection. No further subject matter, institutional purpose, or substantive argument appears on the page.
+
 ## Key points
 
 - The document is a one-page letter dated February 18, 1974.

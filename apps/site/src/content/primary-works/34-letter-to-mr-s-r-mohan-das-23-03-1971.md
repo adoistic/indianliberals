@@ -50,6 +50,12 @@ summary: |-
   Masani frames the situation as part of “the democratic game” and closes by expressing confidence that the people will ultimately justify continued faith in them. The page therefore offers a brief statement of democratic patience and public trust rather than a detailed political analysis.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to S. R. Mohan Das is dated 23 March 1971. Masani acknowledges the recipient’s letter of 20 March and responds to a situation both consider very bad, without specifying the events at issue on the visible page.
+
+Masani frames the situation as part of “the democratic game” and closes by expressing confidence that the people will ultimately justify continued faith in them. The page therefore offers a brief statement of democratic patience and public trust rather than a detailed political analysis.
+
 ## Key points
 
 - The letter is dated 23 March 1971 and is addressed to S. R. Mohan Das.

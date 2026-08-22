@@ -51,6 +51,12 @@ summary: |-
   Masani encloses a summary of his presidential address and points out that it contains no reference to foreign policy. He asks Ghosh to compare the summary with reports in The Hindu and other newspapers, which he says will show that he followed his prepared text. He characterizes the Madras Newsletter's account as irresponsible reporting and urges Ghosh to take appropriate action through The Pioneer.
 ---
 
+## Summary
+
+In this letter dated 2 December 1959, M. R. Masani writes to S. N. Ghosh, editor of The Pioneer, to dispute a report in the Madras Newsletter concerning an alleged statement by C. Rajagopalachari (Rajaji) on foreign policy at a Swatantra Party district convention. Masani states that the report was fabricated and had no basis in fact.
+
+Masani encloses a summary of his presidential address and points out that it contains no reference to foreign policy. He asks Ghosh to compare the summary with reports in The Hindu and other newspapers, which he says will show that he followed his prepared text. He characterizes the Madras Newsletter's account as irresponsible reporting and urges Ghosh to take appropriate action through The Pioneer.
+
 ## Key points
 
 - The letter is dated 2 December 1959 and is addressed to S. N. Ghosh, editor of The Pioneer.

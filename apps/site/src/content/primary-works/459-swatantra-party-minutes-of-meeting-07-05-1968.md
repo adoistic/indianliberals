@@ -53,6 +53,12 @@ summary: |-
   The minutes also record party-organisational decisions. The committee discussed a letter from P. K. Deo concerning the next session of the Commonwealth Parliamentary Association in the Caribbean, agreed that the Parliamentary Office's 1967–68 accounts should be submitted for audit and circulated to Executive Committee members, and fixed the next General Body meeting for May 10, 1968. C. C. Desai signed the record as Secretary.
 ---
 
+## Summary
+
+This two-page English office record documents a meeting of the Swatantra Party Parliamentary Office's Executive Committee held in the Party Room, Central Hall, Parliament House, New Delhi, on May 7, 1968. It lists nine members present and records the subjects assigned for discussion, including affidavits concerning Kutch, an Andhra minister's statement regarding Harijans, the Civil Defence Bill, the Pondicherry (Extension of Laws) Bill, taxation and industrial legislation, the Foreign Marriage Bill, and the proposed Central Industrial Security Force Bill.
+
+The minutes also record party-organisational decisions. The committee discussed a letter from P. K. Deo concerning the next session of the Commonwealth Parliamentary Association in the Caribbean, agreed that the Parliamentary Office's 1967–68 accounts should be submitted for audit and circulated to Executive Committee members, and fixed the next General Body meeting for May 10, 1968. C. C. Desai signed the record as Secretary.
+
 ## Key points
 
 - The Executive Committee met on May 7, 1968, at the Swatantra Party Parliamentary Office's parliamentary premises in New Delhi.

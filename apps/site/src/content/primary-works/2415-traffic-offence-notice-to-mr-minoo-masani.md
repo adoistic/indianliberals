@@ -48,6 +48,12 @@ summary: |-
   The notice instructs the registered vehicle owner to identify the driver within seven days, warning that failure to reply constitutes an offence under Section 118A of the Motor Vehicle Act. It includes a certificate-of-posting section, a detachable reply form requesting the driver's name, address, licence details, and related particulars, and a reverse-side list of 148 possible traffic offences. The document is an archival police form rather than a work authored by Minoo Masani.
 ---
 
+## Summary
+
+This two-page English-language administrative record is a 1975 traffic offence notice issued by the Deputy Commissioner of Police, Traffic Control Branch, Bombay-1, to M. R. Masani at 143 Mahatma Gandhi Road, Bombay. It records a reported offence involving motor vehicle MRG2347 at CEMPS Corner on 6 June 1975 at 18:00; the offence number is 5 and the reference number is 3029553.
+
+The notice instructs the registered vehicle owner to identify the driver within seven days, warning that failure to reply constitutes an offence under Section 118A of the Motor Vehicle Act. It includes a certificate-of-posting section, a detachable reply form requesting the driver's name, address, licence details, and related particulars, and a reverse-side list of 148 possible traffic offences. The document is an archival police form rather than a work authored by Minoo Masani.
+
 ## Key points
 
 - The document is a two-page traffic offence notice issued in Bombay in 1975.

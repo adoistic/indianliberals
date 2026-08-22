@@ -45,6 +45,10 @@ summary: |-
   In a letter dated August 5, 1970, Dr. Rustom C. Cooper writes to N. Dandekar, M.P., regarding the proposed introduction of a new Private Members Bill in Parliament on ministers’ salaries and allowances. Cooper encloses a draft bill, a statement of its objectives and reasons, and copies of the 1952 Salaries and Allowances of Ministers Act and the 1969 amendment to that Act. Cooper asks Dandekar to review the material so that they can meet and finalise the matter. He also sends a copy of the letter and enclosures to M. R. Masani, identified as the party president, for comment. The page documents a procedural intervention in parliamentary and party affairs rather than setting out the bill’s substantive provisions.
 ---
 
+## Summary
+
+In a letter dated August 5, 1970, Dr. Rustom C. Cooper writes to N. Dandekar, M.P., regarding the proposed introduction of a new Private Members Bill in Parliament on ministers’ salaries and allowances. Cooper encloses a draft bill, a statement of its objectives and reasons, and copies of the 1952 Salaries and Allowances of Ministers Act and the 1969 amendment to that Act. Cooper asks Dandekar to review the material so that they can meet and finalise the matter. He also sends a copy of the letter and enclosures to M. R. Masani, identified as the party president, for comment. The page documents a procedural intervention in parliamentary and party affairs rather than setting out the bill’s substantive provisions.
+
 ## Key points
 
 - The letter is dated August 5, 1970 and is addressed to N. Dandekar, M.P. Its subject is the introduction of a new Private Members Bill concerning ministers’ salaries and allowances. Cooper encloses a draft bill and a statement of its objectives and reasons. The enclosures include the 1952 Salaries and Allowances of Ministers Act and its 1969 amendment. The recipient is asked to review the material before a meeting to finalise the matter.

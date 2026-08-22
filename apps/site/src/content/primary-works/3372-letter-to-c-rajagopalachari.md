@@ -53,6 +53,12 @@ summary: |-
   The typed letterhead page, dated 26 December 1961 and signed by M. R. Masani, directs S. V. Raju to take the Bihar Jeep Credit and related files to K. M. Munshi for legal examination. It also asks the office to prepare a detailed statement on the Raja's mishandling of jeeps, including complaints from endorsed and approved candidates, with Mr. Bhagia suggested for the work. The papers therefore combine legal review, documentary fact-finding, and party-office coordination around an internal controversy.
 ---
 
+## Summary
+
+This five-page archival correspondence from the Swatantra Party office in Bombay concerns the handling of a dispute involving C. Rajagopalachari, jeep-related files, and the party's possible legal and organisational obligations. The handwritten pages discuss separating the issue from other matters, preparing a legal opinion, and considering how the credit or responsibility involved might be dealt with. They are dated 27 December 1961 or contain references to that date, although the sequence of the papers is not entirely clear.
+
+The typed letterhead page, dated 26 December 1961 and signed by M. R. Masani, directs S. V. Raju to take the Bihar Jeep Credit and related files to K. M. Munshi for legal examination. It also asks the office to prepare a detailed statement on the Raja's mishandling of jeeps, including complaints from endorsed and approved candidates, with Mr. Bhagia suggested for the work. The papers therefore combine legal review, documentary fact-finding, and party-office coordination around an internal controversy.
+
 ## Key points
 
 - The papers address a controversy involving C. Rajagopalachari, jeep-related files, and the Bihar Jeep Credit.

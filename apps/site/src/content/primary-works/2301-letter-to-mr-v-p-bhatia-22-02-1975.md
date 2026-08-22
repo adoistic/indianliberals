@@ -46,6 +46,12 @@ summary: |-
   The letter itemizes five bills, listing monthly amounts of Rs. 270.12, Rs. 348.08, Rs. 207.24, Rs. 204.00, and Rs. 203.28, and requests payment at the earliest because the amount is long overdue. Pages 3 and 4 comprise a certificate of posting addressed to “Mr. P. K. Kodagu M.P., New Delhi-3” and printed postal instructions; they do not add further correspondence about the debt.
 ---
 
+## Summary
+
+This undated-title office letter, dated 22 February 1975, is from P. Narayan, identified as Office Secretary, to Mr. V. P. Bhatia, Executive Secretary of the Bharatiya Lok Dal in Bombay. It reminds Bhatia that Rs. 1,232.72 is due to BLD for rent and electricity charges accrued from September 1974 through January 1975.
+
+The letter itemizes five bills, listing monthly amounts of Rs. 270.12, Rs. 348.08, Rs. 207.24, Rs. 204.00, and Rs. 203.28, and requests payment at the earliest because the amount is long overdue. Pages 3 and 4 comprise a certificate of posting addressed to “Mr. P. K. Kodagu M.P., New Delhi-3” and printed postal instructions; they do not add further correspondence about the debt.
+
 ## Key points
 
 - The letter is dated 22 February 1975 and is signed by P. Narayan, Office Secretary.

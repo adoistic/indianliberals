@@ -44,6 +44,10 @@ summary: |-
   This one-page English telegram, sent from Bombay on June 14, 1974, is addressed to Arvind Deshpande at the Care Halbe Near Film Institute Road, Poona 4. Signed “MASANI,” it asks the recipient to be prepared to travel to Patna for urgent work during the middle of the following week. The page contains no further explanation of the assignment, its urgency, or the intended visit.
 ---
 
+## Summary
+
+This one-page English telegram, sent from Bombay on June 14, 1974, is addressed to Arvind Deshpande at the Care Halbe Near Film Institute Road, Poona 4. Signed “MASANI,” it asks the recipient to be prepared to travel to Patna for urgent work during the middle of the following week. The page contains no further explanation of the assignment, its urgency, or the intended visit.
+
 ## Key points
 
 - The document is marked “EXPRESS” and is formatted as a telegram.

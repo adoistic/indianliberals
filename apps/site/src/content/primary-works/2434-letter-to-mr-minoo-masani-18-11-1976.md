@@ -50,6 +50,12 @@ summary: |-
   It further explains that the arrears may be recovered as land revenue and offers the recipient an opportunity to compound the offence by paying the prescribed composition fee under rule 19 of the B.M.V. Tax Rules, 1959. The second page reproduces a motor-vehicle tax bill showing a total outstanding amount of Rs. 1,275, including current tax and arrears, while instructing the recipient to disregard the bill if payment has already been made. The notice gives seven days for compliance before further action is taken.
 ---
 
+## Summary
+
+This two-page administrative document consists of a 18 November 1976 arrears notice from the Regional Transport Office, Bombay, addressed to Shri M. R. Masani concerning motor vehicle M.V. No. MRG 2347. The notice states that vehicle tax had remained unpaid from February 1976 onward and warns that the recipient may face prosecution under section 16 of the B.M.V. Tax Act, 1958.
+
+It further explains that the arrears may be recovered as land revenue and offers the recipient an opportunity to compound the offence by paying the prescribed composition fee under rule 19 of the B.M.V. Tax Rules, 1959. The second page reproduces a motor-vehicle tax bill showing a total outstanding amount of Rs. 1,275, including current tax and arrears, while instructing the recipient to disregard the bill if payment has already been made. The notice gives seven days for compliance before further action is taken.
+
 ## Key points
 
 - A Regional Transport Office notice dated 18 November 1976 is addressed to Shri M. R. Masani.

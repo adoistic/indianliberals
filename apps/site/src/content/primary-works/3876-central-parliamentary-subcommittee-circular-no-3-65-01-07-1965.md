@@ -51,6 +51,12 @@ summary: |-
   The circular asks the recipient to approve the nomination within fifteen days. It establishes that, unless an objection is received by July 15, 1965, approval will be taken as granted. The document is an internal party-administrative communication rather than a statement of broader political doctrine.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated July 1, 1965, concerns the nomination of Mr. V. Narsinha Dora as the Party's prospective candidate for the Parvatipuram Parliamentary Constituency. M. R. Masani reports that he interviewed Dora during a recent visit to Hyderabad, following a recommendation from the State Parliamentary Board, and found him suitable after screening him.
+
+The circular asks the recipient to approve the nomination within fifteen days. It establishes that, unless an objection is received by July 15, 1965, approval will be taken as granted. The document is an internal party-administrative communication rather than a statement of broader political doctrine.
+
 ## Key points
 
 - The document is Central Parliamentary Board Sub-Committee Circular No. 3/65, issued by the Swatantra Party on July 1, 1965.

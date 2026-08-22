@@ -48,6 +48,12 @@ summary: |-
   The letter appears to refer to an earlier communication or matter discussed “yesterday,” asks about its progress, and mentions that something remains pending. The handwriting and image quality make the precise substance difficult to establish; no definite policy argument or extended discussion is recoverable from the page.
 ---
 
+## Summary
+
+This single-page English letter is handwritten on Swatantra Party letterhead from its Bombay office and appears to be dated 30 July 1974. The author’s signature is not securely legible, and the recipient’s name cannot be confirmed from the scan.
+
+The letter appears to refer to an earlier communication or matter discussed “yesterday,” asks about its progress, and mentions that something remains pending. The handwriting and image quality make the precise substance difficult to establish; no definite policy argument or extended discussion is recoverable from the page.
+
 ## Key points
 
 - The document is a single-page handwritten letter in English.

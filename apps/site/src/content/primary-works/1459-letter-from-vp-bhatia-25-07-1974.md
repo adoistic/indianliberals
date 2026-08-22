@@ -51,6 +51,12 @@ summary: |-
   Bhatia states that the vehicle was sent to Mysore State immediately after purchase and, after the elections, sold to P. Puroshottam Pai, a partner in Central Stores, Mercara (Coorg). The letter asks the transport office to provide a certified copy showing the person in whose name the vehicle was registered at the time of writing. A copy was sent to S. V. Raju.
 ---
 
+## Summary
+
+This one-page administrative letter, dated July 25, 1974, was sent by V. P. Bhatia, Executive Secretary at the Swatantra Party's national headquarters in Bombay, to the Regional Transport Officer. It concerns the registration and subsequent ownership of vehicle MRG-2350, which had been registered in S. V. Raju's name and purchased for the 1971 General Elections.
+
+Bhatia states that the vehicle was sent to Mysore State immediately after purchase and, after the elections, sold to P. Puroshottam Pai, a partner in Central Stores, Mercara (Coorg). The letter asks the transport office to provide a certified copy showing the person in whose name the vehicle was registered at the time of writing. A copy was sent to S. V. Raju.
+
 ## Key points
 
 - The letter is dated July 25, 1974, and is issued on Swatantra Party national headquarters letterhead.

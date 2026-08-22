@@ -55,6 +55,12 @@ summary: |-
   Masani then turns to practical electoral reform. He argues that the high cost of campaigning is aggravated by the size of parliamentary constituencies and proposes that candidate manifestos and voter information be distributed by the government, while mobile polling stations should reduce the need for voters to travel long distances. He attributes electoral success to both organisation and platform, describes the value of mobile campaign teams and mass communication, and discusses television as a possible future instrument for voter education. The statement closes by emphasising that elections remain unpredictable and recalling the exuberant public response to the Rajkot result.
 ---
 
+## Summary
+
+In this two-page statement, M. R. Masani reflects on his recent Parliamentary campaign for the Lok Sabha seat from Rajkot. He identifies two notable features of the campaign: the continuing fear of authority among much of the rural population, and intense antagonism toward people wearing the white Gandhi cap. He also describes Rajkot voters as politically conscious and relatively free from narrow parochialism, noting their acceptance of a candidate attacked as an “outsider.”
+
+Masani then turns to practical electoral reform. He argues that the high cost of campaigning is aggravated by the size of parliamentary constituencies and proposes that candidate manifestos and voter information be distributed by the government, while mobile polling stations should reduce the need for voters to travel long distances. He attributes electoral success to both organisation and platform, describes the value of mobile campaign teams and mass communication, and discusses television as a possible future instrument for voter education. The statement closes by emphasising that elections remain unpredictable and recalling the exuberant public response to the Rajkot result.
+
 ## Key points
 
 - Masani reports that fear of authority remained widespread among the rural population during the Rajkot campaign.

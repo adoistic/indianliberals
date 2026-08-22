@@ -49,6 +49,12 @@ summary: |-
   Masani invites Narayan to revise the draft freely, asking only that Narayan show any revised version to Palkhivala. The letter documents an effort to coordinate a joint public political statement among prominent Indian public figures; the draft's substantive contents are not included on the rendered page.
 ---
 
+## Summary
+
+In this letter dated September 28, 1972, Minoo Masani sends Jayaprakash Narayan a draft statement intended to be issued under the signatures of Narayan, Acharya Kripalani, N. A. Palkhivala, Masani, and others. Masani explains that he has not yet been able to consult Palkhivala because Palkhivala is abroad, but plans to do so when they are both in Bombay on or after October 9.
+
+Masani invites Narayan to revise the draft freely, asking only that Narayan show any revised version to Palkhivala. The letter documents an effort to coordinate a joint public political statement among prominent Indian public figures; the draft's substantive contents are not included on the rendered page.
+
 ## Key points
 
 - Masani encloses a draft of a possible joint statement.

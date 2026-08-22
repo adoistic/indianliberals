@@ -50,6 +50,10 @@ summary: |-
   This one-page Swatantra Party circular, dated 2 August 1965, announces a meeting of the Central Parliamentary Sub Committee scheduled for 15 August at Rajaji's room in Madras. Signed by M. R. Masani as General Secretary, it sets out the meeting's agenda and asks recipients to consider parliamentary business and party organisation.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated 2 August 1965, announces a meeting of the Central Parliamentary Sub Committee scheduled for 15 August at Rajaji's room in Madras. Signed by M. R. Masani as General Secretary, it sets out the meeting's agenda and asks recipients to consider parliamentary business and party organisation.
+
 ## Key points
 
 - The circular is issued by the Swatantra Party Central Office in Bombay.

@@ -46,6 +46,12 @@ summary: |-
   Masani explains that he will be leaving Delhi that day on tour. The document is a brief item of parliamentary correspondence and contains no substantive discussion of policy or political argument.
 ---
 
+## Summary
+
+This one-page English letter, dated 17 November 1965, is from M. R. Masani to M. S. Sundaresan, Under Secretary at the Lok Sabha Secretariat in New Delhi. Masani acknowledges Sundaresan’s circular letter of 16 November and asks him to convey Masani’s apologies to the Speaker for missing the next day’s meeting of the Jawaharlal Nehru Portrait Parliamentary Committee.
+
+Masani explains that he will be leaving Delhi that day on tour. The document is a brief item of parliamentary correspondence and contains no substantive discussion of policy or political argument.
+
 ## Key points
 
 - The letter is dated 17 November 1965 and is sent from 57, Lodi Estate, New Delhi-3.

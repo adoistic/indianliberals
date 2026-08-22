@@ -48,6 +48,12 @@ summary: |-
   Masani offers no substantive political argument or policy discussion in the visible text. Instead, the letter is a brief note of appreciation and mutual resolve, closing with the assurance that “We all have to do our best” under the circumstances.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani to Sardar Gian Singh Rarewala is dated March 24, 1971. Masani acknowledges Rarewala’s letter of March 15 and its expression of solidarity during what he describes as troubled times.
+
+Masani offers no substantive political argument or policy discussion in the visible text. Instead, the letter is a brief note of appreciation and mutual resolve, closing with the assurance that “We all have to do our best” under the circumstances.
+
 ## Key points
 
 - The letter is dated March 24, 1971.

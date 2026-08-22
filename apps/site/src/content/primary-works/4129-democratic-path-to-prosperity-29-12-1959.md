@@ -53,6 +53,12 @@ summary: |-
   The report also presents Singh's argument that democracy in India faces an uphill task because of indiscipline and unruly behaviour among the younger generation, though he expresses hope that the country will overcome these dangers. A separate section reports Dr. A. K. Ghosal's advocacy of democratic socialism: political democracy should be joined to social and economic democracy, with rising national income and living standards accompanied by the removal of economic disparities. Ghosal contrasts this proposed path with countries that discarded democratic methods for totalitarianism and concludes that India must work toward democratic socialism through collective sacrifice.
 ---
 
+## Summary
+
+This single-page English newspaper report, datelined Jaipur, Dec. 28, covers remarks by Rajasthan Governor Gurmukh Nihal Singh while inaugurating the 22nd session of the Indian Political Science Conference. Singh argues that, despite defects, parliamentary government has proved in the long run to be the best system for serving the masses. He identifies tolerance, reason, freedom, rights, and the general system of government as essential to national progress, while warning that illiteracy, poverty, ignorance, social institutions, indiscipline, political violence, and bureaucratic authoritarianism obstruct democratic development.
+
+The report also presents Singh's argument that democracy in India faces an uphill task because of indiscipline and unruly behaviour among the younger generation, though he expresses hope that the country will overcome these dangers. A separate section reports Dr. A. K. Ghosal's advocacy of democratic socialism: political democracy should be joined to social and economic democracy, with rising national income and living standards accompanied by the removal of economic disparities. Ghosal contrasts this proposed path with countries that discarded democratic methods for totalitarianism and concludes that India must work toward democratic socialism through collective sacrifice.
+
 ## Key points
 
 - Gurmukh Nihal Singh says parliamentary government has been, in the long run, the best system for serving the masses.

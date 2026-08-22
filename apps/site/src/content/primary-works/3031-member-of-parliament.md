@@ -46,6 +46,12 @@ summary: |-
   The remaining two pages comprise a typed list of eighteen named invitees, most with New Delhi addresses and telephone numbers. Handwritten ticks, crosses, annotations, and corrections appear alongside several entries, indicating some form of invitation or attendance tracking. The document is a social invitation and recipient register rather than an argumentative or political text.
 ---
 
+## Summary
+
+This three-page English invitation was issued by Mr. M. R. Masani on parliamentary letterhead identifying him as a “MEMBER OF PARLIAMENT (LOK SABHA).” It requests the recipient’s company at tea on Friday, 22nd August, at 5.00 p.m., at 2, Tughlak Road, New Delhi. The year is not printed.
+
+The remaining two pages comprise a typed list of eighteen named invitees, most with New Delhi addresses and telephone numbers. Handwritten ticks, crosses, annotations, and corrections appear alongside several entries, indicating some form of invitation or attendance tracking. The document is a social invitation and recipient register rather than an argumentative or political text.
+
 ## Key points
 
 - Mr. M. R. Masani issued the invitation under his Lok Sabha parliamentary letterhead.

@@ -44,6 +44,10 @@ summary: |-
   This one-page official response from the Regional Transport Office, Bombay, dated 26 February 1974, answers a request for registration information concerning motor vehicle MRG 2350. The letter is addressed to an Executive Secretary at Sagaroon Building, Bombay-1, and states that the requested information was supplied upon payment of a fee, recorded under a receipt number. The form records MRG 2350 as the vehicle's registration number and gives its registration date as 19 December 1971. The registered owner is handwritten as Shri S. V. Raju of Bombay. The fields for make and model, engine number, chassis number, and date of transfer appear unfilled or illegible; the form also includes handwritten entries concerning hypothecation and insurance.
 ---
 
+## Summary
+
+This one-page official response from the Regional Transport Office, Bombay, dated 26 February 1974, answers a request for registration information concerning motor vehicle MRG 2350. The letter is addressed to an Executive Secretary at Sagaroon Building, Bombay-1, and states that the requested information was supplied upon payment of a fee, recorded under a receipt number. The form records MRG 2350 as the vehicle's registration number and gives its registration date as 19 December 1971. The registered owner is handwritten as Shri S. V. Raju of Bombay. The fields for make and model, engine number, chassis number, and date of transfer appear unfilled or illegible; the form also includes handwritten entries concerning hypothecation and insurance.
+
 ## Key points
 
 - The document is a Regional Transport Office, Bombay, response to an information request. It concerns motor vehicle registration number MRG 2350. The response is dated 26 February 1974 and cites a 1974 RTO reference. The vehicle is recorded as registered on 19 December 1971. The registered owner is handwritten as Shri S. V. Raju, Bombay. The response says the information was furnished after payment of a fee.

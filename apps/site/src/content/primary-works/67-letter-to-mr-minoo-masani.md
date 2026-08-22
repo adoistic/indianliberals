@@ -48,6 +48,12 @@ summary: |-
   The letter applies this principle to the Swatantra Party, described as a partner in the Grand Alliance. Mody argues that the alliance’s prospects should be judged in light of the forthcoming elections, and suggests that the party may need to decide whether to proceed alone rather than wait indefinitely for its partners. A comparison with Napoleon’s greatest victories—said to have been achieved against alliances of two or more powers—reinforces the letter’s argument that confronting a single opponent may be strategically preferable. The pages do not identify the election, provide a date, or explain the broader circumstances of the alliance.
 ---
 
+## Summary
+
+In this two-page handwritten letter, P. B. Mody writes to Minoo Masani about the emotional strain surrounding an unnamed political situation and apologises for not writing earlier. Mody says that the recipient’s present depression cannot be greater than the agony he himself is experiencing, while acknowledging that others may have suffered more. He then invokes the maxim, “If you are alone, you can start right now, but if others want to come along, you have to wait till the others are ready.”
+
+The letter applies this principle to the Swatantra Party, described as a partner in the Grand Alliance. Mody argues that the alliance’s prospects should be judged in light of the forthcoming elections, and suggests that the party may need to decide whether to proceed alone rather than wait indefinitely for its partners. A comparison with Napoleon’s greatest victories—said to have been achieved against alliances of two or more powers—reinforces the letter’s argument that confronting a single opponent may be strategically preferable. The pages do not identify the election, provide a date, or explain the broader circumstances of the alliance.
+
 ## Key points
 
 - Mody apologises to Minoo Masani for writing late and describes both men as experiencing political or personal anguish.

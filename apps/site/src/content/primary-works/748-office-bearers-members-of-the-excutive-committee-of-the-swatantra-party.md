@@ -52,6 +52,12 @@ summary: |-
   The subsequent pages enumerate Maharashtra State Council members elected on 17 November 1973, organised by Bombay, Poona, Sholapur, Osmanabad, and Aurangabad districts. The final pages list district-level office-bearers and presidents and secretaries of primary units in areas including Colaba, Dhobi Talao, Walkeshwar, Mazagaon, Matunga, Mahim, Bandra, Santa Cruz, Vile Parle, and Kurla. The document is an administrative roster rather than a statement of policy or political argument.
 ---
 
+## Summary
+
+This 1973 Swatantra Party document records the organisational structure of the party in Maharashtra. It lists the state executive committee's president, vice-presidents, general secretary, joint secretaries, treasurers, and committee members, together with their addresses and telephone numbers. Madhu Mehta is identified as president and Girish Munshi as general secretary.
+
+The subsequent pages enumerate Maharashtra State Council members elected on 17 November 1973, organised by Bombay, Poona, Sholapur, Osmanabad, and Aurangabad districts. The final pages list district-level office-bearers and presidents and secretaries of primary units in areas including Colaba, Dhobi Talao, Walkeshwar, Mazagaon, Matunga, Mahim, Bandra, Santa Cruz, Vile Parle, and Kurla. The document is an administrative roster rather than a statement of policy or political argument.
+
 ## Key points
 
 - The document identifies the 1973 office-bearers of the Swatantra Party's Maharashtra executive committee.

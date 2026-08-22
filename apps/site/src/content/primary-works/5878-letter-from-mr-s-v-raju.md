@@ -47,6 +47,10 @@ summary: |-
   This single-page typed letter, dated October 18, 1967, is addressed by S. V. Raju to the Manager of Mitan Saurashtra in Rajkot. Raju responds to the recipient's September 28 letter to M. R. Masani and explains that Masani is away in Delhi attending to the work of the Public Accounts Committee.
 ---
 
+## Summary
+
+This single-page typed letter, dated October 18, 1967, is addressed by S. V. Raju to the Manager of Mitan Saurashtra in Rajkot. Raju responds to the recipient's September 28 letter to M. R. Masani and explains that Masani is away in Delhi attending to the work of the Public Accounts Committee.
+
 ## Key points
 
 - The letter is dated October 18, 1967.

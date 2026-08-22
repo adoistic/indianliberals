@@ -49,6 +49,12 @@ summary: |-
   Gandhi argues that Ranga’s Swatantra Party is not opposed to planning in principle and could therefore contribute to building a national consensus by taking part in discussions in Parliament and other forums. She notes that debate in the National Development Council reflected a wide range of opinion, assures Ranga that the Planning Commission’s proposals will be discussed throughout the country, and invites him to participate in subsequent committee meetings.
 ---
 
+## Summary
+
+This typed copy of a letter dated June 3, 1968, from Prime Minister Indira Gandhi to Professor N. G. Ranga responds to Ranga’s decision not to participate in a parliamentary meeting on the “Approach to the Fourth Five Year Plan.” Gandhi explains that the government has convened a special committee including opposition leaders because it wants cooperation from all parties in the national planning effort.
+
+Gandhi argues that Ranga’s Swatantra Party is not opposed to planning in principle and could therefore contribute to building a national consensus by taking part in discussions in Parliament and other forums. She notes that debate in the National Development Council reflected a wide range of opinion, assures Ranga that the Planning Commission’s proposals will be discussed throughout the country, and invites him to participate in subsequent committee meetings.
+
 ## Key points
 
 - Indira Gandhi acknowledges Professor Ranga’s refusal to participate in a meeting on the Fourth Five Year Plan.

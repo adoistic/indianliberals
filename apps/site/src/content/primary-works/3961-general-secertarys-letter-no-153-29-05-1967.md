@@ -60,6 +60,14 @@ summary: |-
   The report assigns young members practical political work, including organising meetings, enrolling party members, voter registration, election canvassing, and propaganda. Its appeal to youth frames Swatantra politics around individual initiative, economic enterprise, reduced dependence on the state, technical and commercial education, lower indirect taxation, alliances against communism, and opposition to socialism's expansion of state ownership. The pages viewed comprise the complete five-page PDF, including the letter and its four-page enclosure.
 ---
 
+## Summary
+
+Dated 29 May 1967, this letter from Acting General Secretary N. Dandeker forwards the National Executive's enclosed report on forming a Youth Wing of the Swatantra Party. Dandeker asks state units to discuss the proposal and return comments, noting that the scheme had been agreed in principle but still required finalisation in consultation with Prof. M. Ruthnawamy.
+
+The enclosed report presents youth as an important political constituency, citing their participation in recent elections and arguing that the party should harness their enthusiasm through a distinct organisation rather than absorb them entirely into ordinary party structures. It proposes the Swatantra Youth for members aged 18 to 30 who have completed school or a first degree, with a nominal annual subscription and organisers at state and national levels. The organisation is described as an auxiliary force with its own discipline, officers, elections, and representative structures, while remaining subordinate to the main party.
+
+The report assigns young members practical political work, including organising meetings, enrolling party members, voter registration, election canvassing, and propaganda. Its appeal to youth frames Swatantra politics around individual initiative, economic enterprise, reduced dependence on the state, technical and commercial education, lower indirect taxation, alliances against communism, and opposition to socialism's expansion of state ownership. The pages viewed comprise the complete five-page PDF, including the letter and its four-page enclosure.
+
 ## Key points
 
 - N. Dandeker circulated the Youth Wing sub-committee's report for discussion by state executives.

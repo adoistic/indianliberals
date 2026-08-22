@@ -62,6 +62,12 @@ summary: |-
   The minutes also record the party's position on consultative committees, including a decision not to attend their meetings until the Opposition parties reached an agreement. Masani opposed the Unlawful Activities Prevention Bill in its proposed form because it could restrict left Communist parties and potentially encompass demands for autonomy by Nagas, Mizos, and Kashmiris, while indicating support for legislation specifically directed against left Communist parties. The second page assigns party speakers to parliamentary subjects including the food situation, public wakfs, official secrets, education, the Gajendragadkar Commission's report, and the sugar industry. It also establishes a study team on electoral reforms and notes that the Central Parliamentary Board would decide whether to replace parliamentary government with a presidential form.
 ---
 
+## Summary
+
+This two-page record from the Swatantra Party Parliamentary Office documents a General Body meeting held in New Delhi on 7 August 1967 and dated 9 August. It lists 19 members present, records requests to clear outstanding party contributions, and summarizes discussion of a proposed constitutional amendment concerning Fundamental Rights. M. R. Masani explained that the amendment would require a Lok Sabha resolution, followed by circulation for public opinion, before the Fundamental Rights could be changed; the proposal was to be submitted to the Central Parliamentary Board.
+
+The minutes also record the party's position on consultative committees, including a decision not to attend their meetings until the Opposition parties reached an agreement. Masani opposed the Unlawful Activities Prevention Bill in its proposed form because it could restrict left Communist parties and potentially encompass demands for autonomy by Nagas, Mizos, and Kashmiris, while indicating support for legislation specifically directed against left Communist parties. The second page assigns party speakers to parliamentary subjects including the food situation, public wakfs, official secrets, education, the Gajendragadkar Commission's report, and the sugar industry. It also establishes a study team on electoral reforms and notes that the Central Parliamentary Board would decide whether to replace parliamentary government with a presidential form.
+
 ## Key points
 
 - The General Body meeting was held on 7 August 1967 at Parliament House, New Delhi, with 19 members recorded as present.

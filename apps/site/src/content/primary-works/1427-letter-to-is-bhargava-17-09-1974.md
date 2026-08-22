@@ -47,6 +47,10 @@ summary: |-
   In this letter dated September 17, 1974, S. V. Raju tells I. S. Bhargava that Minoo Masani has asked whether the Swatantra Party should remain active in Rajasthan or join an existing party. Raju explains that supporters in Maharashtra and Tamil Nadu have decided to keep the party alive, and says that Rajasthan members should meet and make the same decision for their state.
 ---
 
+## Summary
+
+In this letter dated September 17, 1974, S. V. Raju tells I. S. Bhargava that Minoo Masani has asked whether the Swatantra Party should remain active in Rajasthan or join an existing party. Raju explains that supporters in Maharashtra and Tamil Nadu have decided to keep the party alive, and says that Rajasthan members should meet and make the same decision for their state.
+
 ## Key points
 
 - The letter concerns the future of the Swatantra Party in Rajasthan after its declining political fortunes.

@@ -52,6 +52,12 @@ summary: |-
   The notice states that the meeting would discuss business before both Houses of Parliament during the next session and requests all members of the Lok Sabha and Rajya Sabha to attend. No title, individual author, or named secretary is printed; the document is signed by hand above the role "Secretary."
 ---
 
+## Summary
+
+This single-page English office circular, issued by the Swatantra Party Parliamentary Office in New Delhi on August 17, 1964, announces a meeting of the party's parliamentary group. The meeting was scheduled for Sunday, September 6, 1964, at 5 p.m. at the Group Office, 53 North Avenue, New Delhi.
+
+The notice states that the meeting would discuss business before both Houses of Parliament during the next session and requests all members of the Lok Sabha and Rajya Sabha to attend. No title, individual author, or named secretary is printed; the document is signed by hand above the role "Secretary."
+
 ## Key points
 
 - The document is a one-page Swatantra Party Parliamentary Office circular.

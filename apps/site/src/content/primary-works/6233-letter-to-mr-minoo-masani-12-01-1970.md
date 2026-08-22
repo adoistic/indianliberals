@@ -46,6 +46,10 @@ summary: |-
   This two-page letter, dated January 12, 1970, from S. V. Raju to Minoo Masani, coordinates Masani’s forthcoming visit to Rajkot, Ahmedabad, and Bombay. Raju asks Masani to postpone the Rajkot visit from January 24 to a weekend in February, preferably February 7–8, because of changes to the Parliament session and the National Executive meeting. He outlines proposed meetings with the State Executive and the M.L.A.s, and discusses a possible dinner involving Jaideepbhai, H. M. Patel, and Baria.
 ---
 
+## Summary
+
+This two-page letter, dated January 12, 1970, from S. V. Raju to Minoo Masani, coordinates Masani’s forthcoming visit to Rajkot, Ahmedabad, and Bombay. Raju asks Masani to postpone the Rajkot visit from January 24 to a weekend in February, preferably February 7–8, because of changes to the Parliament session and the National Executive meeting. He outlines proposed meetings with the State Executive and the M.L.A.s, and discusses a possible dinner involving Jaideepbhai, H. M. Patel, and Baria.
+
 ## Key points
 
 - Raju asks Masani to postpone his Rajkot visit from January 24 to February 7–8.

@@ -48,6 +48,12 @@ summary: |-
   Masani proposes discussing “the change of Government” at forthcoming meetings in Bombay. He rejects suggestions that the group should alter its attitude, describing this as “kite-flying,” and says he agrees with the position set out in Ranga’s letter. He also cautions Ranga that Piloo Mody is not the chief of the Unit but only its Vice-President, adding that Dandekar, who is the President, has already been invited.
 ---
 
+## Summary
+
+In this letter dated 19 June 1964, M. R. Masani writes to Professor N. G. Ranga before leaving for Rajkot. He reports that a memorandum to the President has been sent with five signatures, including Ranga’s, and says he has already sent Ranga a copy.
+
+Masani proposes discussing “the change of Government” at forthcoming meetings in Bombay. He rejects suggestions that the group should alter its attitude, describing this as “kite-flying,” and says he agrees with the position set out in Ranga’s letter. He also cautions Ranga that Piloo Mody is not the chief of the Unit but only its Vice-President, adding that Dandekar, who is the President, has already been invited.
+
 ## Key points
 
 - The letter is dated 19 June 1964 and is addressed to Professor N. G. Ranga.

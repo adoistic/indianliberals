@@ -48,6 +48,10 @@ summary: |-
   This confidential letter, dated 20 March 1963 from Patna, reports on Janki Nandan Singh’s efforts to organise a District Himalaya Bachao Conference on behalf of Bihar’s opposition parties, including the Swatantra Party, Jan Sangh, PSP and the Socialist Party. Singh describes the conference at Laheriasarai, inaugurated by General K. M. Cariappa and attended by more than a lakh people, as well as a subsequent sub-divisional conference inaugurated by Dr. Ram Manohar Lohia. He also notes that messages from C. Rajagopalachari, Minoo Masani and K. M. Munshi were read at the gathering.
 ---
 
+## Summary
+
+This confidential letter, dated 20 March 1963 from Patna, reports on Janki Nandan Singh’s efforts to organise a District Himalaya Bachao Conference on behalf of Bihar’s opposition parties, including the Swatantra Party, Jan Sangh, PSP and the Socialist Party. Singh describes the conference at Laheriasarai, inaugurated by General K. M. Cariappa and attended by more than a lakh people, as well as a subsequent sub-divisional conference inaugurated by Dr. Ram Manohar Lohia. He also notes that messages from C. Rajagopalachari, Minoo Masani and K. M. Munshi were read at the gathering.
+
 ## Key points
 
 - The letter describes opposition-party mobilisation around the District Himalaya Bachao Conference in Bihar.

@@ -61,6 +61,14 @@ summary: |-
   The separately typed resolutions condemn violence in Telangana and Bombay, call for adherence to democratic and constitutional procedures, demand the abolition of Food Zones, oppose agricultural income-tax and other land levies, reject the proposed monopolisation of industrial raw-material imports through the State Trading Corporation, and criticise government relief measures during famine in Rajasthan and Gujarat. The documents present these positions as part of a broader critique of administrative failure, state control, political opportunism, and weak enforcement of law and order.
 ---
 
+## Summary
+
+These minutes record the Swatantra Party National Executive meeting held at Vithalbhai Patel Bhavan, New Delhi, on 16 February 1969, chaired by Prof. N. G. Ranga. The meeting noted the deaths of C. N. Annadurai and Ramaswamy Naidu, confirmed the previous minutes, reviewed the President’s opening remarks, and considered unsuccessful discussions with the Jan Sangh. The Executive rejected any merger or broader negotiations with the Jan Sangh and required Parliamentary Party members to obtain prior approval before pursuing such discussions.
+
+The meeting also addressed internal party administration, including membership deadlines, the timetable and procedure for party elections, and the creation of a three-member subcommittee to oversee newly elected state and regional councils. It discussed disciplinary action against defecting legislators, the proposed extension of constitutional reservations for Scheduled Castes and Scheduled Tribes under Article 334, and the party’s disappointing performance in mid-term elections in West Bengal, Bihar, Uttar Pradesh, and Punjab. The Executive agreed to convene a further meeting on organisational matters.
+
+The separately typed resolutions condemn violence in Telangana and Bombay, call for adherence to democratic and constitutional procedures, demand the abolition of Food Zones, oppose agricultural income-tax and other land levies, reject the proposed monopolisation of industrial raw-material imports through the State Trading Corporation, and criticise government relief measures during famine in Rajasthan and Gujarat. The documents present these positions as part of a broader critique of administrative failure, state control, political opportunism, and weak enforcement of law and order.
+
 ## Key points
 
 - The National Executive met in New Delhi on 16 February 1969 under the chairmanship of Prof. N. G. Ranga.

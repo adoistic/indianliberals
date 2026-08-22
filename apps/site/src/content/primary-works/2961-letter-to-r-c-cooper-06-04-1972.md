@@ -52,6 +52,12 @@ summary: |-
   Mehta rejects dissolution of the Swatantra Party or a merger with other parties, arguing that it remains the country’s only significant voice for individual freedom and dissent. He is also sceptical that joining the Congress could reform it from within, describing Congress members as lacking ideology and serving personal interests, power, and patronage. The letter concludes with a call to rebuild the party from scratch through political education, regular contact with members and the public, clearer communication of Swatantra principles, and resistance to what Mehta portrays as Indira Gandhi’s authoritarian and socialist politics.
 ---
 
+## Summary
+
+In this letter dated April 6, 1972, Madhu Mehta responds to R. C. Cooper’s proposal concerning the future of the Swatantra Party. Mehta rejects the claim that the party’s programme failed to attract Indians, recalling its rapid electoral growth between 1959 and 1967, its displacement of the Communists in Parliament, and its emergence as a major opposition force in several states. He attributes the party’s subsequent decline to weak organisation, inadequate constituency work, factionalism, poor financial arrangements, and the absence of sustained political follow-up after elections.
+
+Mehta rejects dissolution of the Swatantra Party or a merger with other parties, arguing that it remains the country’s only significant voice for individual freedom and dissent. He is also sceptical that joining the Congress could reform it from within, describing Congress members as lacking ideology and serving personal interests, power, and patronage. The letter concludes with a call to rebuild the party from scratch through political education, regular contact with members and the public, clearer communication of Swatantra principles, and resistance to what Mehta portrays as Indira Gandhi’s authoritarian and socialist politics.
+
 ## Key points
 
 - Mehta disputes the claim that the Swatantra Party’s programme failed to attract public support.

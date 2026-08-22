@@ -51,6 +51,12 @@ summary: |-
   Advani also disputed Gandhi's account of Congress's past relations with non-Congress state governments. He argued that the Constitution did not require state governments to depend on the Centre and cited Tamil Nadu under the DMK regime and the Delhi administration under the Sangh-controlled government as examples of non-Congress administrations receiving greater central assistance than Congress-ruled states. The clipping ends with his claim that Gandhi's account was factually misleading.
 ---
 
+## Summary
+
+This Indian Express news report, dated 13 February 1974, describes Jana Sangh president L. K. Advani's criticism of Prime Minister Indira Gandhi's appeal to Uttar Pradesh voters. Advani characterized the appeal as “gross political blackmail,” arguing that Gandhi was asking voters to support Congress in order to preserve harmonious relations between the state and the Centre and avoid Uttar Pradesh's continued backwardness.
+
+Advani also disputed Gandhi's account of Congress's past relations with non-Congress state governments. He argued that the Constitution did not require state governments to depend on the Centre and cited Tamil Nadu under the DMK regime and the Delhi administration under the Sangh-controlled government as examples of non-Congress administrations receiving greater central assistance than Congress-ruled states. The clipping ends with his claim that Gandhi's account was factually misleading.
+
 ## Key points
 
 - L. K. Advani called Indira Gandhi's plea to Uttar Pradesh voters “gross political blackmail.”

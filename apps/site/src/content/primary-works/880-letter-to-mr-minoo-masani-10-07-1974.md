@@ -47,6 +47,10 @@ summary: |-
   In this two-page handwritten letter dated 10 July 1974, Sumatilal P. Shah writes to M. R. Masani about the proposed dissolution of the Swatantra Party. Referring to letters exchanged between Masani and Piloo Mody, Shah argues that the planned National Convention on 4–5 August should be cancelled. He says the convention was proposed when the situation was unclear, but that the party's present circumstances make dissolution impossible and expose the risk of damaging its future.
 ---
 
+## Summary
+
+In this two-page handwritten letter dated 10 July 1974, Sumatilal P. Shah writes to M. R. Masani about the proposed dissolution of the Swatantra Party. Referring to letters exchanged between Masani and Piloo Mody, Shah argues that the planned National Convention on 4–5 August should be cancelled. He says the convention was proposed when the situation was unclear, but that the party's present circumstances make dissolution impossible and expose the risk of damaging its future.
+
 ## Key points
 
 - Shah responds favorably to Masani's letter to Piloo Mody and refers to his own earlier correspondence with Mody.

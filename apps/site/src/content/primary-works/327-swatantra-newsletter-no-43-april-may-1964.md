@@ -64,3 +64,9 @@ summary: |-
   
   Its parliamentary extracts extend these arguments to Kashmir, defence, foreign policy, taxation, public-sector industry, irrigation, power, and freedom of expression. Minoo Masani’s sustained protest against the banning of George N. Patterson’s Peking vs. Delhi is especially concerned with constitutional limits, access to information, and the danger of government censorship. The issue also records criticism of India’s handling of China, Pakistan, and neighbouring states, while advocating stronger defence preparedness and more pragmatic diplomacy.
 ---
+
+## Summary
+
+The April–May 1964 issue of Swatantra Newsletter (No. 43) reports the Swatantra Party’s opposition to the Constitution (Seventeenth) Amendment Bill, its All India Kisan Sammelan, parliamentary interventions, state-level organising, and recent Rajya Sabha election results. The issue presents the party as defending peasant land rights, constitutional protections, private enterprise, and decentralised economic decision-making against Congress majoritarianism, centralised planning, and expanding state control.
+
+Its parliamentary extracts extend these arguments to Kashmir, defence, foreign policy, taxation, public-sector industry, irrigation, power, and freedom of expression. Minoo Masani’s sustained protest against the banning of George N. Patterson’s Peking vs. Delhi is especially concerned with constitutional limits, access to information, and the danger of government censorship. The issue also records criticism of India’s handling of China, Pakistan, and neighbouring states, while advocating stronger defence preparedness and more pragmatic diplomacy.

@@ -52,6 +52,12 @@ summary: |-
   Pasricha then broadens his criticism to the proposed “Two Party” project and the leadership’s handling of the General Council proceedings. He alleges that the leadership has misrepresented members’ views, is abandoning the principles of fairness and scrupulousness, and is pursuing an alliance that would combine incompatible political forces. He specifically objects to cooperation with “rabid socialists” and communalists, arguing that such a course would weaken opposition to the Indian National Congress and ultimately facilitate an “Indira dictatorship.” The letter closes by calling for selfless leadership committed to rebuilding the Swatantra Party and restoring public confidence in liberal democracy.
 ---
 
+## Summary
+
+This two-page letter, dated 29 June 1974, is written by Lt. Col. H. R. Pasricha (Retd.) to Madhu Mehta, Vice President of the Swatantra Party. Pasricha accepts the principle of one delegate for every hundred members but argues that each state delegation should also be subject to a maximum limit. He fears that, without such a limit, the leadership could manipulate the party convention by bringing in disproportionately large numbers of delegates from a single state.
+
+Pasricha then broadens his criticism to the proposed “Two Party” project and the leadership’s handling of the General Council proceedings. He alleges that the leadership has misrepresented members’ views, is abandoning the principles of fairness and scrupulousness, and is pursuing an alliance that would combine incompatible political forces. He specifically objects to cooperation with “rabid socialists” and communalists, arguing that such a course would weaken opposition to the Indian National Congress and ultimately facilitate an “Indira dictatorship.” The letter closes by calling for selfless leadership committed to rebuilding the Swatantra Party and restoring public confidence in liberal democracy.
+
 ## Key points
 
 - Pasricha proposes a maximum limit on the number of delegates each state may send to the Swatantra Party convention.

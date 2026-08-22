@@ -46,6 +46,10 @@ summary: |-
   In this letter dated 16 January 1964, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about preparations for the Swatantra Party Convention in Bangalore. He forwards a message from Giovanni Malagodi, identified as President of Liberal International and leader of the Italian Liberal party in Parliament, and suggests that the message be circulated to convention delegates and published in Swarajya.
 ---
 
+## Summary
+
+In this letter dated 16 January 1964, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about preparations for the Swatantra Party Convention in Bangalore. He forwards a message from Giovanni Malagodi, identified as President of Liberal International and leader of the Italian Liberal party in Parliament, and suggests that the message be circulated to convention delegates and published in Swarajya.
+
 ## Key points
 
 - Masani forwards Giovanni Malagodi’s message for the Swatantra Party Convention.

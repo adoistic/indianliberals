@@ -55,6 +55,12 @@ summary: |-
   The minutes show the party taking positions on several legislative and coalition-related matters. Members opposed, or considered opposing, a bill that would ban the importation of labour from outside Assam for tea plantations, while seeking members' views from Orissa before determining a line of action. They also debated placing land legislation on the Concurrent List: J. M. Lobo Prabhu supported the measure as a way to prevent state governments from taking extreme measures, whereas the Leader opposed it, arguing that removing the subject from the states would encourage more radical legislation. The document ends with the signature of J. M. Lobo Prabhu as Secretary.
 ---
 
+## Summary
+
+These one-page minutes record a 27 June 1967 meeting of the Swatantra Party's Executive Committee at its Parliamentary Office in New Delhi, chaired by Prof. N. G. Ranga. The committee discussed Dr. Ram Subhag Singh's proposal for an informal consultative committee and decided to consult leaders of other parties before placing their reactions before the Executive Committee for a final decision. It also nominated Ajmal Khan to the Cardamom Board, approved Y. G. Gowd's nomination to the Institute of Technical Education, and considered requests concerning a Private Members Resolution on the liberation of Tibet.
+
+The minutes show the party taking positions on several legislative and coalition-related matters. Members opposed, or considered opposing, a bill that would ban the importation of labour from outside Assam for tea plantations, while seeking members' views from Orissa before determining a line of action. They also debated placing land legislation on the Concurrent List: J. M. Lobo Prabhu supported the measure as a way to prevent state governments from taking extreme measures, whereas the Leader opposed it, arguing that removing the subject from the states would encourage more radical legislation. The document ends with the signature of J. M. Lobo Prabhu as Secretary.
+
 ## Key points
 
 - The Executive Committee met on 27 June 1967 at the Swatantra Party Parliamentary Office in New Delhi.

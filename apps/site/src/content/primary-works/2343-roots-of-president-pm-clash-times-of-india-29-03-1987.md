@@ -54,6 +54,10 @@ summary: |-
   In the rendered pages, the article traces recurring conflicts between Indian Presidents and Prime Ministers to a constitutional imbalance that leaves the President formally responsible for important matters but politically vulnerable to the Prime Minister and cabinet. It recounts disputes involving Dr. Rajendra Prasad and Jawaharlal Nehru, including disagreements over presidential discretion, ministerial advice, the Supreme Court, and the President’s position as head of the Union and former head of the Constituent Assembly. The article presents Prasad as arguing that the President should not be reduced to a ceremonial figure or treated as subordinate to the Prime Minister.
 ---
 
+## Summary
+
+In the rendered pages, the article traces recurring conflicts between Indian Presidents and Prime Ministers to a constitutional imbalance that leaves the President formally responsible for important matters but politically vulnerable to the Prime Minister and cabinet. It recounts disputes involving Dr. Rajendra Prasad and Jawaharlal Nehru, including disagreements over presidential discretion, ministerial advice, the Supreme Court, and the President’s position as head of the Union and former head of the Constituent Assembly. The article presents Prasad as arguing that the President should not be reduced to a ceremonial figure or treated as subordinate to the Prime Minister.
+
 ## Key points
 
 - The article attributes President–Prime Minister clashes to unresolved constitutional questions about presidential discretion.

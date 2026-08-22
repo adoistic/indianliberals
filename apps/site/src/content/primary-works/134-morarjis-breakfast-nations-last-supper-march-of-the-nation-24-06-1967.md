@@ -55,6 +55,12 @@ summary: |-
   Masani criticises defence spending, state-owned “white elephants,” expanding bureaucracy, and relief measures that he considers ineffective or distortionary. He contrasts the budget with an “alternative budget” based on tax reduction, reinvestment, and private capital formation, claiming that lower taxes could increase investment, employment, and government revenue. The page also includes a boxed continuation, “Budget Reaction,” which develops the case that cuts in taxation and customs duties would stimulate productive enterprise and reduce inflationary pressure.
 ---
 
+## Summary
+
+In this June 24, 1967 newspaper commentary, M. R. Masani attacks Morarji Desai's budget as an excessive-taxation, high-spending programme that would restrain industry and leave too little room for private enterprise. He argues that the budget's proposed increases in customs duties, excise, income tax, and corporation tax would deepen stagnation rather than restore economic growth, while public expenditure remains poorly prioritised.
+
+Masani criticises defence spending, state-owned “white elephants,” expanding bureaucracy, and relief measures that he considers ineffective or distortionary. He contrasts the budget with an “alternative budget” based on tax reduction, reinvestment, and private capital formation, claiming that lower taxes could increase investment, employment, and government revenue. The page also includes a boxed continuation, “Budget Reaction,” which develops the case that cuts in taxation and customs duties would stimulate productive enterprise and reduce inflationary pressure.
+
 ## Key points
 
 - Masani presents the National Budget as a continuation of restrictive taxation and excessive state expenditure.

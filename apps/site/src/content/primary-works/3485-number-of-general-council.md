@@ -49,6 +49,12 @@ summary: |-
   The pages document the geographic breadth and composition of the council, but they do not identify the organisation, its office-holders, the date of compilation, or the circumstances in which the list was issued. The document contains no argument, narrative, explanatory introduction, or table of contents; its function in the rendered pages is strictly to record membership.
 ---
 
+## Summary
+
+“MEMBERS OF THE GENERAL COUNCIL” is a two-page English-language institutional roster. It lists council members by regional sections, including Andhra, Bombay, Delhi, Gujarat, Kerala, Mysore, Madras, Maharashtra, Orissa, Punjab, Rajasthan, and Uttar Pradesh. Names are presented in numbered, two-column lists, with some entries marked “M.P.”, “M.L.A.”, or other professional and honorific titles.
+
+The pages document the geographic breadth and composition of the council, but they do not identify the organisation, its office-holders, the date of compilation, or the circumstances in which the list was issued. The document contains no argument, narrative, explanatory introduction, or table of contents; its function in the rendered pages is strictly to record membership.
+
 ## Key points
 
 - The document is headed “MEMBERS OF THE GENERAL COUNCIL.”

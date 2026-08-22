@@ -47,6 +47,12 @@ summary: |-
   The sender also asks Masani to communicate through a messenger, if necessary, the result of a letter sent to their mutual friend Jayaprakash. No sender name or signature is visible on the page, so the author cannot be identified from the document.
 ---
 
+## Summary
+
+This single-page telegram, sent from Patna in 1970 to Minoo Masani in Bombay, reports that the sender has received no reply to an earlier telegram and asks Masani to stop waiting for a response. It says that Mr Hanumanta Rao will arrive in Patna on the morning of 17 June and remain for a few days.
+
+The sender also asks Masani to communicate through a messenger, if necessary, the result of a letter sent to their mutual friend Jayaprakash. No sender name or signature is visible on the page, so the author cannot be identified from the document.
+
 ## Key points
 
 - The telegram is addressed to Minoo Masani at 148 Mahatma Gandhi Road, Bombay 1.

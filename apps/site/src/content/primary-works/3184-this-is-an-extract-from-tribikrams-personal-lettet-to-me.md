@@ -52,6 +52,12 @@ summary: |-
   The writer also records opposition to the proposed formation of a Pragati Party executive committee without consultation with the state executive or parliamentary board. The letter emphasizes distrust of opaque decision-making by national leaders, the need to consult party workers through formal state-level meetings, and concern that the party might be weakened by an improvised arrangement. A news report suggesting that Piloo and Manu had clarified their position on preserving the party’s identity provides the writer with some immediate reassurance. The page contains no printed title, author, recipient, date, publisher, or closing; the handwritten annotations and references to 1973 support only a tentative date.
 ---
 
+## Summary
+
+This one-page extract from a personal letter, handwrittenly attributed to “Tribikram,” discusses internal divisions within the Swatantra Party in Orissa. The writer reports that party workers want to preserve the party’s identity, flag, and symbol rather than merge completely with the National Party, while remaining open to a programme-bound pre-electoral arrangement such as a Swatantra–Jana Congress alliance. The extract names several Orissa leaders and describes uncertainty over the views of Singh Deo and P. K. Deo, who were reportedly consulting Piloo Mody in Delhi.
+
+The writer also records opposition to the proposed formation of a Pragati Party executive committee without consultation with the state executive or parliamentary board. The letter emphasizes distrust of opaque decision-making by national leaders, the need to consult party workers through formal state-level meetings, and concern that the party might be weakened by an improvised arrangement. A news report suggesting that Piloo and Manu had clarified their position on preserving the party’s identity provides the writer with some immediate reassurance. The page contains no printed title, author, recipient, date, publisher, or closing; the handwritten annotations and references to 1973 support only a tentative date.
+
 ## Key points
 
 - Swatantra Party workers in Orissa are described as wanting to retain the party’s identity, flag, and symbol.

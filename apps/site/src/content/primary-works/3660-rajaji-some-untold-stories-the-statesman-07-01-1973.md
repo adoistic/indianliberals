@@ -49,6 +49,12 @@ summary: |-
   In the rendered pages, the portrait also emphasizes Rajaji’s practical kindness and wide-ranging public usefulness after leaving high office. The anecdotes describe him helping young people, intervening in marriages and pensions, assisting writers and musicians, arranging justice for a wronged person, and responding to requests with unexpected generosity. The article continues onto the second rendered page and remains an affectionate collection of “untold stories”; no separate conclusion or broader assessment beyond these recollections is visible.
 ---
 
+## Summary
+
+In the rendered pages, V. S. Maniam presents C. Rajagopalachari (“Rajaji”) through a series of intimate recollections rather than a conventional political biography. The article begins with the meticulous order of Rajaji’s modest study: furniture, stationery, clothing, food, reading habits, and daily routines are all described as expressions of a disciplined and highly individual personality. His frugality, intellectual curiosity, precise correspondence, and insistence on personal order appear alongside his warmth and humour.
+
+In the rendered pages, the portrait also emphasizes Rajaji’s practical kindness and wide-ranging public usefulness after leaving high office. The anecdotes describe him helping young people, intervening in marriages and pensions, assisting writers and musicians, arranging justice for a wronged person, and responding to requests with unexpected generosity. The article continues onto the second rendered page and remains an affectionate collection of “untold stories”; no separate conclusion or broader assessment beyond these recollections is visible.
+
 ## Key points
 
 - The article portrays Rajaji through personal anecdotes about his habits, possessions, correspondence, and domestic routines.

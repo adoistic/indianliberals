@@ -48,6 +48,10 @@ summary: |-
   This one-page letter, dated 11 March 1971, was written by Dr. M. P. Verma of the Swatantra Party's Palamu District Branch to M. R. Masani, chairman of the Swatantra Party. Verma expresses shock at the result of a mid-term election, noting that the news placed him in an “illimitable grief” and that Rajkot voters had “put such personality in side-track.”
 ---
 
+## Summary
+
+This one-page letter, dated 11 March 1971, was written by Dr. M. P. Verma of the Swatantra Party's Palamu District Branch to M. R. Masani, chairman of the Swatantra Party. Verma expresses shock at the result of a mid-term election, noting that the news placed him in an “illimitable grief” and that Rajkot voters had “put such personality in side-track.”
+
 ## Key points
 
 - The letter is dated 11 March 1971 and is written from the Swatantra Party's Palamu District Branch.

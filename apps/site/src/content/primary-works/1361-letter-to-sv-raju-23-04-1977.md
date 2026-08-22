@@ -51,6 +51,12 @@ summary: |-
   The letter emphasizes personal loyalty and continued political fellowship. The sender expresses gratitude for Raju’s kindness and past assistance, says he does not intend to contest an election, and asks Raju to forward his name for consideration as a lifelong member of Swatantra or as someone with status in its leadership. He also proposes meeting in Bombay to renew their friendship. The document is a personal political communication rather than a formal party statement.
 ---
 
+## Summary
+
+This handwritten letter, dated 23 April 1977 and sent from Dalhousie by BuddhiPrakash to S. V. Raju in Bombay, discusses the proposed merger of the Swatantra Party with the Janata Party. The sender says that although he has not been actively involved in politics for the past three years, he hopes Raju is also joining Janata and explains that he intends to remain associated with the new formation.
+
+The letter emphasizes personal loyalty and continued political fellowship. The sender expresses gratitude for Raju’s kindness and past assistance, says he does not intend to contest an election, and asks Raju to forward his name for consideration as a lifelong member of Swatantra or as someone with status in its leadership. He also proposes meeting in Bombay to renew their friendship. The document is a personal political communication rather than a formal party statement.
+
 ## Key points
 
 - The letter is dated 23 April 1977 and was sent from Dalhousie to S. V. Raju in Bombay.

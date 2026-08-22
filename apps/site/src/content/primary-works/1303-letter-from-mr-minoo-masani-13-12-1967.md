@@ -52,6 +52,12 @@ summary: |-
   Masani asks whether the reported facts are correct, whether the Government had instituted such a general policy, and, if so, why. He also asks whether the Government will abandon what he describes as an unsympathetic policy toward Tibetan refugees. The attached newspaper clipping supplies the reported allegations and states that the Indian Government’s position was to favour specialist volunteers while discouraging general voluntary work that could be performed by Tibetans or Indians. The document is dated 21 November 1967, with typed copies dated 13 and 15 December 1967.
 ---
 
+## Summary
+
+This 1967 parliamentary notice by M. R. Masani asks the Minister of Home Affairs to respond to a report in The Times (London) concerning the treatment of Tibetan refugees in India. The notice focuses on allegations by Keith Satterthwaite, a voluntary worker, that Indian officials had forced him out of the Tibetan craft community and were pursuing a general policy of hindering foreign nationals who undertook voluntary work among Tibetan refugees.
+
+Masani asks whether the reported facts are correct, whether the Government had instituted such a general policy, and, if so, why. He also asks whether the Government will abandon what he describes as an unsympathetic policy toward Tibetan refugees. The attached newspaper clipping supplies the reported allegations and states that the Indian Government’s position was to favour specialist volunteers while discouraging general voluntary work that could be performed by Tibetans or Indians. The document is dated 21 November 1967, with typed copies dated 13 and 15 December 1967.
+
 ## Key points
 
 - M. R. Masani submitted a starred question to the Secretary, Lok Sabha, for answer by the Minister of Home Affairs.

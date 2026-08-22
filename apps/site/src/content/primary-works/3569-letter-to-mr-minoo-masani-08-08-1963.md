@@ -48,6 +48,12 @@ summary: |-
   The letter encloses a cheque for Rs. 500 from The Bharat Line Limited and asks that its receipt be acknowledged. It is a brief record of corporate financial support for the party, with the company’s registered office identified as Kundankunj, Bhavnagar, and its Bombay office at Bharat House, Apollo Street, Fort.
 ---
 
+## Summary
+
+This one-page letter, dated 8 August 1963, is written by G. T. Kamdar of The Bharat Line Limited to Minoo Masani, General Secretary of the Swatantra Party. Kamdar acknowledges Masani’s letter of 27 July 1963 concerning a contribution to the Swatantra Party and thanks him for sending it.
+
+The letter encloses a cheque for Rs. 500 from The Bharat Line Limited and asks that its receipt be acknowledged. It is a brief record of corporate financial support for the party, with the company’s registered office identified as Kundankunj, Bhavnagar, and its Bombay office at Bharat House, Apollo Street, Fort.
+
 ## Key points
 
 - The letter is dated 8 August 1963 and was sent from Bombay.

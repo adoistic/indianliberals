@@ -51,6 +51,12 @@ summary: |-
   The signatories argue that the absence of a pre-convention General Council meeting departs from normal practice and is especially serious because of the importance of the matters expected to come before the Convention. They request that the agenda be amended to include a General Council meeting on the morning of 4 August and that the necessary notification be issued.
 ---
 
+## Summary
+
+This one-page letter, dated Bombay, 4 July 1974, is addressed to the Executive Secretary of the Swatantra Party's National Headquarters. Its five signatories refer to the forthcoming National Convention of the Party, scheduled to be held in Delhi on 4 and 5 August 1974, and urge that a meeting of the General Council be convened beforehand.
+
+The signatories argue that the absence of a pre-convention General Council meeting departs from normal practice and is especially serious because of the importance of the matters expected to come before the Convention. They request that the agenda be amended to include a General Council meeting on the morning of 4 August and that the necessary notification be issued.
+
 ## Key points
 
 - The letter is dated Bombay, 4 July 1974, and is addressed to the Executive Secretary of the Swatantra Party.

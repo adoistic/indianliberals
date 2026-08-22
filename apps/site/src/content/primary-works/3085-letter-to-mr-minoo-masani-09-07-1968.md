@@ -50,6 +50,12 @@ summary: |-
   Jain also draws Masani's attention to a Times of India editorial titled "Parties in Distress," saying that it relates to their talks with the B.K.D. The letter is a brief piece of political and press correspondence, documenting contemporary media coverage and inter-party discussions rather than presenting a substantive policy argument.
 ---
 
+## Summary
+
+This one-page letter, dated July 9, 1968, is addressed to Minoo Masani from A. P. Jain of the Swatantra Party Parliamentary Office. Jain encloses a rewrite of English-language newspaper clippings concerning Masani's press conference the previous day and reports that The Times of India provided the best coverage, with The Statesman unexpectedly placing second.
+
+Jain also draws Masani's attention to a Times of India editorial titled "Parties in Distress," saying that it relates to their talks with the B.K.D. The letter is a brief piece of political and press correspondence, documenting contemporary media coverage and inter-party discussions rather than presenting a substantive policy argument.
+
 ## Key points
 
 - A. P. Jain writes from the Swatantra Party Parliamentary Office on July 9, 1968.

@@ -56,6 +56,12 @@ summary: |-
   The report also criticises Doordarshan's news format and professional culture. It objects to broadcasts that cram more than thirty unrelated items into half an hour, interviews only supporters of official positions, treats criticism as an attack, and substitutes ritual for substantive discussion of secularism and national unity. Attached monitoring tables list the priorities, column space, and film footage given to television items, alongside omitted stories and alleged distortions in contemporaneous newspaper coverage. The report ends by calling for balanced, critical, better-contextualised news and for television to treat news as an ongoing process rather than merely as isolated events.
 ---
 
+## Summary
+
+Loaded and Distorted News. is a monitoring report on Doordarshan's television-news coverage in 1986. The report argues that the broadcaster routinely presents a government-aligned point of view, omits inconvenient facts, gives disproportionate prominence to ceremonial and official material, and fails to provide context on major political, economic, communal, and security issues. It compares broadcasts with reporting in newspapers such as The Times of India and cites examples involving the Delhi bandh, Punjab, Sri Lanka, South Africa, the Bhopal gas tragedy, Chinese activity in Arunachal Pradesh, prison security, and economic programmes.
+
+The report also criticises Doordarshan's news format and professional culture. It objects to broadcasts that cram more than thirty unrelated items into half an hour, interviews only supporters of official positions, treats criticism as an attack, and substitutes ritual for substantive discussion of secularism and national unity. Attached monitoring tables list the priorities, column space, and film footage given to television items, alongside omitted stories and alleged distortions in contemporaneous newspaper coverage. The report ends by calling for balanced, critical, better-contextualised news and for television to treat news as an ongoing process rather than merely as isolated events.
+
 ## Key points
 
 - The report alleges that Doordarshan's news coverage systematically favours the government's point of view.

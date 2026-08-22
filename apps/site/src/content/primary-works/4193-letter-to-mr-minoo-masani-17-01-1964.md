@@ -50,6 +50,12 @@ summary: |-
   Rajagopalachari also advises against discussing proposed organisational amendments, membership, and finances before the press and public. He says he will review Masani's draft resolutions and prepare a resolution on friendship with Pakistan, as suggested by Masani.
 ---
 
+## Summary
+
+In this one-page letter dated 17 January 1964, C. Rajagopalachari writes to M. R. Masani about arrangements for an upcoming Swatantra Party Convention. He endorses keeping the convention's first Saturday-afternoon sitting closed to the press and visitors, followed by a press interview on the conclusions, while opening the Sunday sessions to both press and visitors.
+
+Rajagopalachari also advises against discussing proposed organisational amendments, membership, and finances before the press and public. He says he will review Masani's draft resolutions and prepare a resolution on friendship with Pakistan, as suggested by Masani.
+
 ## Key points
 
 - Rajagopalachari agrees with Masani's proposed arrangements for the Swatantra Party Convention.

@@ -50,6 +50,12 @@ summary: |-
   The enclosed progress report describes the creation of an organising team after the Bombay Convention, outreach by printed postcards, and efforts to recruit independent legislators and members of the Ram Rajya Parishad. Meetings in Jaipur, Ajmer, and elsewhere led to the formation of a 21-member Rajasthan ad-hoc committee and the division of the state into six organisational regions: Jaipur, Ajmer, Jodhpur, Udaipur, Kota, and Bikaner. The report also records plans for urban and rural bodies, an Ajmer City committee, regional bank accounts, and a conference of convenors. It closes by criticising the Central Office for failing to provide party literature and enrolment forms promptly, and requests clearer instructions and tour programmes from the centre.
 ---
 
+## Summary
+
+This 27 September 1959 letter from Bhinai House, Ajmer, reports on the early organisation of the Swatantra Party in Rajasthan. Kalyan Singh tells S. Y. Krishnaswamy that an office has been established at Ajmer, that public response is encouraging, and that the principal obstacle is inadequate funding. He reports receiving Rs. 2,500 from the central organisation and seeking an earmarked monthly allocation of Rs. 2,000 for at least six months, with local fundraising and audited accounts promised.
+
+The enclosed progress report describes the creation of an organising team after the Bombay Convention, outreach by printed postcards, and efforts to recruit independent legislators and members of the Ram Rajya Parishad. Meetings in Jaipur, Ajmer, and elsewhere led to the formation of a 21-member Rajasthan ad-hoc committee and the division of the state into six organisational regions: Jaipur, Ajmer, Jodhpur, Udaipur, Kota, and Bikaner. The report also records plans for urban and rural bodies, an Ajmer City committee, regional bank accounts, and a conference of convenors. It closes by criticising the Central Office for failing to provide party literature and enrolment forms promptly, and requests clearer instructions and tour programmes from the centre.
+
 ## Key points
 
 - The Rajasthan Branch office was located at Bhinai House, Ajmer, and future correspondence was to be directed there.

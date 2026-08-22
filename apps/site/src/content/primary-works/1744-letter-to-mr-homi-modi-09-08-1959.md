@@ -50,6 +50,12 @@ summary: |-
   The letter addresses the party’s interim financial and organisational arrangements. It notes that the bank authorities require a constitution and rules before opening an account in the party’s name, while proposing that the central account remain in one place for the time being. Krishnaswamy lists three committees—the Manifesto Committee, the Committee for Organisation and Membership, and the Constitution Committee—and asks Modi, as Treasurer and ex-officio member, to attend their meetings in Bombay on 22 and 23 August. The proposals are explicitly described as tentative and subject to ratification by the organising committee.
 ---
 
+## Summary
+
+Dated 9 August 1959 and written from Madras, this letter from S. V. Krishnaswamy to Homi Modi reports on preliminary administrative arrangements for the Swatantra Party. After discussions in Bangalore with V. P. Menon, Mr. Narayana Reddy, and Sarangapani Mudaliar, Krishnaswamy says the group concluded that the party must operate temporarily until its constitution is ratified at an All India Convention and a final decision is taken.
+
+The letter addresses the party’s interim financial and organisational arrangements. It notes that the bank authorities require a constitution and rules before opening an account in the party’s name, while proposing that the central account remain in one place for the time being. Krishnaswamy lists three committees—the Manifesto Committee, the Committee for Organisation and Membership, and the Constitution Committee—and asks Modi, as Treasurer and ex-officio member, to attend their meetings in Bombay on 22 and 23 August. The proposals are explicitly described as tentative and subject to ratification by the organising committee.
+
 ## Key points
 
 - The letter records preliminary administrative discussions concerning the newly formed Swatantra Party.

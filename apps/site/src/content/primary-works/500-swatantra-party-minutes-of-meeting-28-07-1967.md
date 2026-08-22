@@ -57,6 +57,12 @@ summary: |-
   The minutes also capture the party's position on parliamentary discipline and member freedom. Although some members argued that they should be able to express views in the House that differed from the party, the recorded consensus was that the Swatantra Party could not permit the same degree of freedom as a larger party such as Congress. The Leader nevertheless stated that, outside the party's 21 principles, members faced no restriction on speaking about non-controversial subjects. The record further reports D. N. Patodia's assessment of Naxalbari and West Bengal, describes the movement there as politically motivated by the Communist Party (Marxist), and notes the party's preference for allowing the incumbent Chief Minister to form a government with Congress support. Members were reminded that they should give no notice of bills or resolutions without prior party permission.
 ---
 
+## Summary
+
+This two-page Swatantra Party Parliamentary Office record, dated 28 July 1967, reports on a General Body meeting held in Parliament House on 25 July. It lists the eighteen members present, identifies topics assigned for discussion—including the Indian Official Secrets (Amendment) Bill, a motion concerning the annulment of a Police Forces motion, and the Madhya Pradesh crisis—and records brief discussion of the Hazare report and the Monopolies Enquiry Commission report.
+
+The minutes also capture the party's position on parliamentary discipline and member freedom. Although some members argued that they should be able to express views in the House that differed from the party, the recorded consensus was that the Swatantra Party could not permit the same degree of freedom as a larger party such as Congress. The Leader nevertheless stated that, outside the party's 21 principles, members faced no restriction on speaking about non-controversial subjects. The record further reports D. N. Patodia's assessment of Naxalbari and West Bengal, describes the movement there as politically motivated by the Communist Party (Marxist), and notes the party's preference for allowing the incumbent Chief Minister to form a government with Congress support. Members were reminded that they should give no notice of bills or resolutions without prior party permission.
+
 ## Key points
 
 - The record concerns a Swatantra Party General Body meeting held on 25 July 1967 and dated 28 July 1967.

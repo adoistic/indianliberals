@@ -46,6 +46,12 @@ summary: |-
   Masani nevertheless offers to visit Meerut if Trikha proposes a suitable date, suggesting a Saturday or Sunday when Parliament will not be sitting. He closes by expressing his best wishes for the success of Trikha's work. The page does not identify the nature of that work.
 ---
 
+## Summary
+
+In this letter dated 22 October 1959, Minoo Masani replies to Bal Raj Trikha's letter of 14 October. Masani explains that he will be in Delhi from 16 November for the next session of Parliament, which will run until Christmas, and that he will be travelling outside Delhi during part of that period.
+
+Masani nevertheless offers to visit Meerut if Trikha proposes a suitable date, suggesting a Saturday or Sunday when Parliament will not be sitting. He closes by expressing his best wishes for the success of Trikha's work. The page does not identify the nature of that work.
+
 ## Key points
 
 - The letter is dated 22 October 1959 and is addressed to Bal Raj Trikha.

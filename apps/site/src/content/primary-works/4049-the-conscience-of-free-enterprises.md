@@ -55,6 +55,12 @@ summary: |-
   The article presents free enterprise as a system requiring both competition and responsibility. It attacks excessive controls as a form of “new tyranny,” warns that producer cartels could replace public regulation with private monopoly, and maintains that enterprise must serve consumers as well as investors. Its concluding appeal is for an Indian economic system based on competitive private enterprise, individual initiative, and social responsibility rather than either bureaucratic control or unrestrained profiteering.
 ---
 
+## Summary
+
+In this Hindustan Times article dated June 17, 1966, L. Sawhny argues that India’s central economic challenge is to increase production while containing inflation and preserving consumer welfare. The article welcomes the Prime Minister’s decision to devalue the rupee but insists that monetary action must be accompanied by reforms in production, distribution, licensing, and industrial regulation. It criticizes the expansion of state ownership and management, arguing that these have produced shortages, distorted prices, and inefficient resource allocation.
+
+The article presents free enterprise as a system requiring both competition and responsibility. It attacks excessive controls as a form of “new tyranny,” warns that producer cartels could replace public regulation with private monopoly, and maintains that enterprise must serve consumers as well as investors. Its concluding appeal is for an Indian economic system based on competitive private enterprise, individual initiative, and social responsibility rather than either bureaucratic control or unrestrained profiteering.
+
 ## Key points
 
 - The article identifies increased production and control of inflation as urgent economic priorities.

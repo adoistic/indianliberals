@@ -49,6 +49,12 @@ summary: |-
   The document states that the payment is made without prejudice to a notice to vacate. It identifies the premises as an office on the first floor and is signed on behalf of Sassoon J. David & Co. Ltd. by the Principal Officer. The lower date entry appears incomplete or obscured.
 ---
 
+## Summary
+
+This single-page English administrative receipt, issued in Bombay on 30 April 1974 by Sassoon J. David & Co. Ltd., acknowledges receipt of Rs. 274.51 from M/s. Swatantra Party. The payment is recorded as compensation for the use and occupation of office premises at 141–143 Mahatma Gandhi Road, including permitted increases for April 1974 and State Education Cess.
+
+The document states that the payment is made without prejudice to a notice to vacate. It identifies the premises as an office on the first floor and is signed on behalf of Sassoon J. David & Co. Ltd. by the Principal Officer. The lower date entry appears incomplete or obscured.
+
 ## Key points
 
 - The document is Serial No. 377 and is dated Bombay, 30 April 1974.

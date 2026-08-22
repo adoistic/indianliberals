@@ -54,6 +54,12 @@ summary: |-
   The stated purpose is to assemble a compendium documenting the Swatantra Party’s performance in both Houses of Parliament since 1967. Signed by party secretary R. K. Amin, the circular is an internal administrative communication focused on party record-keeping and parliamentary accountability.
 ---
 
+## Summary
+
+This one-page circular, issued by the Swatantra Party Parliamentary Office in New Delhi on November 9, 1970, asks all party members to submit reports on their parliamentary work over the preceding three years. The requested reports are to cover members’ activities in Select and Consultative Committees, as well as in formal and informal governmental bodies.
+
+The stated purpose is to assemble a compendium documenting the Swatantra Party’s performance in both Houses of Parliament since 1967. Signed by party secretary R. K. Amin, the circular is an internal administrative communication focused on party record-keeping and parliamentary accountability.
+
 ## Key points
 
 - The document is an internal Swatantra Party Parliamentary Office circular dated November 9, 1970.

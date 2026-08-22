@@ -49,6 +49,12 @@ summary: |-
   Deo also describes confusion over Swatantra MPs’ participation in the Republic Day procession. He says party instructions that male members present in Delhi should participate were contradicted by a newspaper report stating that Swatantra MPs would not take part. The letter presents these episodes as evidence of inconsistent decision-making and communication within the party. Deo emphasizes that he is reporting the facts “with the best of intention” rather than lodging a complaint against his Leader.
 ---
 
+## Summary
+
+This two-page personal and confidential letter, dated 25 January 1963, is from H.H. Maharaja P.K. Deo in New Delhi to C. Rajagopalachari. Deo reports on disagreements within the Swatantra Party and the wider Opposition during the Lok Sabha debate on the Colombo Conference proposals. He explains that the party initially considered moving an amendment to clarify its position, but abandoned the plan after consultations with the Leader and other Opposition leaders, despite his concern that the party had failed to state its position clearly.
+
+Deo also describes confusion over Swatantra MPs’ participation in the Republic Day procession. He says party instructions that male members present in Delhi should participate were contradicted by a newspaper report stating that Swatantra MPs would not take part. The letter presents these episodes as evidence of inconsistent decision-making and communication within the party. Deo emphasizes that he is reporting the facts “with the best of intention” rather than lodging a complaint against his Leader.
+
 ## Key points
 
 - Deo writes to Rajagopalachari about developments in the current Lok Sabha session.

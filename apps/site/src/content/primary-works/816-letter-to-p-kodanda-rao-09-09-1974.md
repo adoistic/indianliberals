@@ -48,6 +48,12 @@ summary: |-
   Raju states that Rao’s letter will be presented to Masani immediately upon his return. The document is a brief administrative acknowledgment rather than a substantive discussion of political or economic issues; it is typed on Raju’s Bombay letterhead, signed by him, and includes a handwritten annotation at the top.
 ---
 
+## Summary
+
+This untitled letter from S. V. Raju, dated September 9, 1974, acknowledges P. Kodanda Rao’s letter of September 2. Raju explains that M. R. Masani is currently abroad and expected to return by the middle of the following month.
+
+Raju states that Rao’s letter will be presented to Masani immediately upon his return. The document is a brief administrative acknowledgment rather than a substantive discussion of political or economic issues; it is typed on Raju’s Bombay letterhead, signed by him, and includes a handwritten annotation at the top.
+
 ## Key points
 
 - The letter is dated September 9, 1974, and was sent from S. V. Raju’s address at 148 Mahatma Gandhi Road, Bombay 23.

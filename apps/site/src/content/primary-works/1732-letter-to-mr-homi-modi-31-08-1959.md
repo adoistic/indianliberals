@@ -49,6 +49,12 @@ summary: |-
   The letter requests an initial payment of Rs. 2,500 to Hukum Singh, followed by a further Rs. 2,500 after vouchers are received, to encourage and sustain the work. Krishnaswamy also asks that the Bombay Treasurer allocate half of the available funds to the Centre, since regional subsidies cannot be provided without it. A handwritten note at the foot of the page appears to discuss the timing and delivery of the payment.
 ---
 
+## Summary
+
+This one-page English letter, dated 31 August 1959, is written by S. V. Krishnaswamy on Swatantra Party letterhead to Homi Modi. Krishnaswamy forwards information about Hukum Singh's organizational work in Rajasthan, noting that although a full-fledged organization has not yet been established there, the effort is progressing rapidly.
+
+The letter requests an initial payment of Rs. 2,500 to Hukum Singh, followed by a further Rs. 2,500 after vouchers are received, to encourage and sustain the work. Krishnaswamy also asks that the Bombay Treasurer allocate half of the available funds to the Centre, since regional subsidies cannot be provided without it. A handwritten note at the foot of the page appears to discuss the timing and delivery of the payment.
+
 ## Key points
 
 - S. V. Krishnaswamy writes to Homi Modi from the Swatantra Party office in Madras.

@@ -49,6 +49,12 @@ summary: |-
   The running order lists the honoured guests receiving the Poornakumbam — Sri K. Subba Rao, Sri Shanti Bhushan and Sri M. R. Masani — followed by a welcome address from G. K. Sundaram, president of the All India Swatantra Party, a garlanding of leaders, and addresses by Masani and Shanti Bhushan. Manuscript annotations in the margin re-label Masani's address as the "President's opening remarks" and Shanti Bhushan's as the "President's concluding remarks," suggesting the roles were adjusted at the venue. S. Narayanaswami, MLC, is listed for the vote of thanks, and the meeting closes with the National Anthem. Held six months into the Emergency, the gathering assembled two of the era's most prominent constitutionalist voices — Masani and Shanti Bhushan — under the banner of Rajaji's memory.
 ---
 
+## Summary
+
+This single sheet is the printed programme for a Rajaji Jayanthi public meeting held at the Teynampet Congress Grounds in Madras on 8 December 1975 — the birth anniversary of C. Rajagopalachari, founder-patron of the Swatantra Party who had died three years earlier. The event was convened by the All India Swatantra Party and combined ritual elements (a Poornakumbam presentation, a Vedic invocation by Sri Ganapathi Sastrigal, and a Tamil prayer) with political address.
+
+The running order lists the honoured guests receiving the Poornakumbam — Sri K. Subba Rao, Sri Shanti Bhushan and Sri M. R. Masani — followed by a welcome address from G. K. Sundaram, president of the All India Swatantra Party, a garlanding of leaders, and addresses by Masani and Shanti Bhushan. Manuscript annotations in the margin re-label Masani's address as the "President's opening remarks" and Shanti Bhushan's as the "President's concluding remarks," suggesting the roles were adjusted at the venue. S. Narayanaswami, MLC, is listed for the vote of thanks, and the meeting closes with the National Anthem. Held six months into the Emergency, the gathering assembled two of the era's most prominent constitutionalist voices — Masani and Shanti Bhushan — under the banner of Rajaji's memory.
+
 ## Key points
 
 - One-page typewritten programme for a Rajaji Jayanthi (birth-anniversary) public meeting at Teynampet Congress Grounds, dated 8-12-1975.

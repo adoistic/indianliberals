@@ -53,6 +53,12 @@ summary: |-
   In his handwritten letter of April 24 to Masani, C. Rajagopalachari comments on an excerpt from a speech in which the press is accused of unfairly attacking the Prime Minister. He also discusses Mushir’s statement on Kashmir, expressing agreement with Masani’s position. The letter includes a historical comparison involving Louis XIV and a defense of friendship against political enemies, but the handwriting becomes difficult to read toward the end of the visible pages.
 ---
 
+## Summary
+
+This three-page correspondence from April 1964 contains two related letters concerning the Kashmir issue. In his typed letter of April 27 to Piloo Mody, M. R. Masani explains that he consulted Rajaji and Prof. Ranga about whether to convene an early meeting of the Parliamentary Board or Central Organising Committee. They advised retaining the existing plan for meetings in Bombay on May 14 and 15, arguing that the fluid political circumstances made it undesirable for party members to commit themselves prematurely to a decision on Kashmir. Masani acknowledges that he is not happy with the resulting position but believes the alternative could cause greater harm.
+
+In his handwritten letter of April 24 to Masani, C. Rajagopalachari comments on an excerpt from a speech in which the press is accused of unfairly attacking the Prime Minister. He also discusses Mushir’s statement on Kashmir, expressing agreement with Masani’s position. The letter includes a historical comparison involving Louis XIV and a defense of friendship against political enemies, but the handwriting becomes difficult to read toward the end of the visible pages.
+
 ## Key points
 
 - Masani consulted Rajaji and Prof. Ranga on whether an early Swatantra Party meeting should be called over Kashmir.

@@ -52,6 +52,12 @@ summary: |-
   The memorandum lists expenditures already incurred, sets out a modest Central Office budget for office expenses, publications, travelling, and the leader’s expenses, and acknowledges that the organisation’s financial information is incomplete because its resources are divided between Bombay and Bangalore accounts. It calls for monthly accounts from state organisations and argues for regional donations committees, especially in Bombay and Calcutta. The document also advocates decentralising printing to the states and warns that the financial position is precarious unless donations are collected and a fund created. The remaining seven agenda items are visible only as headings on page 1 and are not developed in the rendered pages.
 ---
 
+## Summary
+
+The document is an internal agenda whose first item, “Finances,” is developed across the four rendered pages. It records a tentative September 1959 decision to allocate monthly funds to state organisations, the leader’s office, and the Central Office, initially totalling Rs.12,500 and later raised to Rs.15,000. A separate annual provision of Rs.1,80,000 is discussed, with Bombay expected to raise Rs.1,00,000 and the states to provide the balance. Madras and Mysore are said to have agreed to finance themselves, while Bombay, West Bengal, Bihar, and Delhi are expected to be self-sufficient; Madhya Pradesh is noted as seeking assistance.
+
+The memorandum lists expenditures already incurred, sets out a modest Central Office budget for office expenses, publications, travelling, and the leader’s expenses, and acknowledges that the organisation’s financial information is incomplete because its resources are divided between Bombay and Bangalore accounts. It calls for monthly accounts from state organisations and argues for regional donations committees, especially in Bombay and Calcutta. The document also advocates decentralising printing to the states and warns that the financial position is precarious unless donations are collected and a fund created. The remaining seven agenda items are visible only as headings on page 1 and are not developed in the rendered pages.
+
 ## Key points
 
 - The “Finances” agenda item records proposed monthly allocations to state organisations and central party offices.

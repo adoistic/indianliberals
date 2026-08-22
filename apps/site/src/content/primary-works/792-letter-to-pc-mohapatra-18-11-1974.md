@@ -48,6 +48,12 @@ summary: |-
   Raju reports that party units in Maharashtra, Kerala, and Tamil Nadu rejected the convention’s decision to dissolve the Swatantra Party. He says that efforts are under way to revive the party at the national level and asks Mohapatra to remain in contact with Harihar Patel regarding the revival of party activity in Orissa. The letter encloses the September issue of Freedom First.
 ---
 
+## Summary
+
+In this letter dated 15 November 1974, S. V. Raju acknowledges Dr. P. C. Mohapatra’s letter of 21 July on behalf of Minoo Masani, explaining that Masani had been abroad and then travelling within India. Raju directs Mohapatra to an article in the September issue of Freedom First for an account of what occurred at the National Convention.
+
+Raju reports that party units in Maharashtra, Kerala, and Tamil Nadu rejected the convention’s decision to dissolve the Swatantra Party. He says that efforts are under way to revive the party at the national level and asks Mohapatra to remain in contact with Harihar Patel regarding the revival of party activity in Orissa. The letter encloses the September issue of Freedom First.
+
 ## Key points
 
 - The letter is dated 15 November 1974 and is addressed to Dr. P. C. Mohapatra.

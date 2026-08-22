@@ -52,6 +52,10 @@ summary: |-
   General Secretary's Letter No. 160, dated August 7, 1967, asks Swatantra Party state committees to recommend the composition of their State or Regional Councils. Referring to Article 8(b) of the Party Constitution and the Procedure for Party Elections, N. Dandekar explains that district representation is to vary with the number of District Committees and enrolled Workers, subject to a minimum of one and a maximum of ten representatives per district. State committees are asked to submit their proposed representation ratios, district seat allocations, and the resulting strength of the council by August 31, 1967.
 ---
 
+## Summary
+
+General Secretary's Letter No. 160, dated August 7, 1967, asks Swatantra Party state committees to recommend the composition of their State or Regional Councils. Referring to Article 8(b) of the Party Constitution and the Procedure for Party Elections, N. Dandekar explains that district representation is to vary with the number of District Committees and enrolled Workers, subject to a minimum of one and a maximum of ten representatives per district. State committees are asked to submit their proposed representation ratios, district seat allocations, and the resulting strength of the council by August 31, 1967.
+
 ## Key points
 
 - The letter concerns the composition and election of Swatantra Party State or Regional Councils.

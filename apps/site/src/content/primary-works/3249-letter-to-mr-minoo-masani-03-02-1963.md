@@ -48,6 +48,12 @@ summary: |-
   The attached telegrams concern arranging a meeting in Madras. Kamakhya Narain Singh asks Rajagopalachari to meet him on Wednesday, 6 February, while Rajagopalachari’s reply proposes meeting only in Bombay. The document therefore records a brief exchange about political consultations and travel arrangements; it does not provide substantive detail about the issues discussed in the proposed meeting.
 ---
 
+## Summary
+
+This three-page correspondence consists of a letter from C. Rajagopalachari to M. R. Masani dated 3 February 1963, together with true copies of two related telegrams. Rajagopalachari acknowledges Masani’s letter about discussions with “Ranga” and forwards a telegram received from Ramgarh, sent from Calcutta, along with his reply.
+
+The attached telegrams concern arranging a meeting in Madras. Kamakhya Narain Singh asks Rajagopalachari to meet him on Wednesday, 6 February, while Rajagopalachari’s reply proposes meeting only in Bombay. The document therefore records a brief exchange about political consultations and travel arrangements; it does not provide substantive detail about the issues discussed in the proposed meeting.
+
 ## Key points
 
 - Rajagopalachari’s letter to M. R. Masani is dated 3 February 1963.

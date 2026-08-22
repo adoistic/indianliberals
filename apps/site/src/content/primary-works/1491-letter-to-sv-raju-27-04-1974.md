@@ -51,6 +51,12 @@ summary: |-
   The letter focuses on the party's internal constitutional and procedural difficulties. It notes that the party has been without a General Secretary and an important executive for six months, questions whether the Executive Committee can make decisions in those circumstances, and argues that the General Council should discuss the proposed merger before it is finalized. The sender also recalls the party's 1971 electoral debacle, criticizes the non-democratic removal of H. M. Patel from the presidency, and asks Raju to suggest alternate telephone numbers. The sender's signature is present but not confidently legible.
 ---
 
+## Summary
+
+This handwritten letter, dated 27 April 1974 and sent from Tamil Fortnightly's Madras office to S. V. Raju, discusses the proposed merger of the Swatantra Party with a new party. The unidentified sender explains repeated unsuccessful attempts to reach Raju by telephone and asks for his assessment of the merger decision taken at Delhi, including how Minoo Masani received it.
+
+The letter focuses on the party's internal constitutional and procedural difficulties. It notes that the party has been without a General Secretary and an important executive for six months, questions whether the Executive Committee can make decisions in those circumstances, and argues that the General Council should discuss the proposed merger before it is finalized. The sender also recalls the party's 1971 electoral debacle, criticizes the non-democratic removal of H. M. Patel from the presidency, and asks Raju to suggest alternate telephone numbers. The sender's signature is present but not confidently legible.
+
 ## Key points
 
 - The letter concerns the proposed merger of the Swatantra Party with a new political party.

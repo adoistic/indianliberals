@@ -60,6 +60,12 @@ summary: |-
   Rajagopalachari defends lawful property ownership and argues that expropriating land in the name of socialism undermines both social cooperation and public morality. He connects economic policy to religious and ethical life, maintaining that religion's central value is its restraint on the misuse of power and its cultivation of self-denial. Against bureaucratic centralisation, party discrimination, and compulsory redistribution, he proposes a revival of Mahatma Gandhi's trusteeship doctrine and a politics grounded in voluntary social service, honesty, individual effort, and moral tradition.
 ---
 
+## Summary
+
+In this pamphlet, C. Rajagopalachari argues that a healthy society depends on two freely exercised impulses: the desire to improve one's own condition and the willingness to help others. He presents these as complementary forms of social energy, warning that compulsory state equalisation suppresses enterprise while replacing charity with callousness. The pamphlet criticises Congress economic policy for creating uncertainty, dependence on official favour, and a public appetite for easy money rather than production, discipline, efficiency, and self-reliance.
+
+Rajagopalachari defends lawful property ownership and argues that expropriating land in the name of socialism undermines both social cooperation and public morality. He connects economic policy to religious and ethical life, maintaining that religion's central value is its restraint on the misuse of power and its cultivation of self-denial. Against bureaucratic centralisation, party discrimination, and compulsory redistribution, he proposes a revival of Mahatma Gandhi's trusteeship doctrine and a politics grounded in voluntary social service, honesty, individual effort, and moral tradition.
+
 ## Key points
 
 - Healthy social life requires both individual advancement and voluntary compassion toward those in need.

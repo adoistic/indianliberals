@@ -49,6 +49,12 @@ summary: |-
   The document records a brief exchange concerning the scheduling of internal party elections. It contains no further discussion of electoral procedure or party organisation beyond this acknowledgment.
 ---
 
+## Summary
+
+This single-page letter, dated 20 June 1964, is written by C. Rajagopalachari from his Madras address to M. R. Masani in Bombay. Rajagopalachari acknowledges receiving Masani’s letter of 18 June and the enclosed draft timetable for party elections.
+
+The document records a brief exchange concerning the scheduling of internal party elections. It contains no further discussion of electoral procedure or party organisation beyond this acknowledgment.
+
 ## Key points
 
 - The letter is dated 20 June 1964 and issued from C. Rajagopalachari’s Madras letterhead.

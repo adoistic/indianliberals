@@ -51,6 +51,12 @@ summary: |-
   Aney also describes electoral cooperation between the N.V.A.S. and the Adi Seva Samaj in support of an autonomous Vidarbha State, attributing their success in Chanda District to their joint effort. He argues that association with an All-India party could help N.V.A.S. members in Parliament, including by persuading Akali Dal members to join the Swatantra Party. At the same time, he warns that Biyani's resignation and Congress victories in Vidarbha have demoralised local workers. He therefore stresses the need for consent, support, and a clear decision that can sustain the movement's campaign and morale.
 ---
 
+## Summary
+
+In this four-page letter dated 29 March 1962, M. S. Aney responds to correspondence from C. Rajagopalachari about joining the Swatantra Party. Aney says Minoo Masani and Prof. Ranga have clarified that he could initially become an associate member, while also asking him to guide the party's parliamentary group as a de facto leader. He plans to place the question before the N.V.A. Samiti's Executive Committee and the N.V.A.S. General Council before making a formal commitment.
+
+Aney also describes electoral cooperation between the N.V.A.S. and the Adi Seva Samaj in support of an autonomous Vidarbha State, attributing their success in Chanda District to their joint effort. He argues that association with an All-India party could help N.V.A.S. members in Parliament, including by persuading Akali Dal members to join the Swatantra Party. At the same time, he warns that Biyani's resignation and Congress victories in Vidarbha have demoralised local workers. He therefore stresses the need for consent, support, and a clear decision that can sustain the movement's campaign and morale.
+
 ## Key points
 
 - Aney is considering joining the Swatantra Party, initially as an associate member if he cannot become a full-fledged member.

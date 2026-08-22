@@ -57,3 +57,7 @@ ai:
 summary: |-
   The March 1963 issue of Swatantra Newsletter (No. 32), issued by the Central Office of the Swatantra Party in Bombay, reports on the party’s February meetings of its Central Organising Committee and General Council, its positions on the Colombo proposals, Chinese aggression, the national emergency, taxation, and gold-control regulations, and its organisational activity in several states. It reproduces the General Council’s resolutions on international security and a Bihar organisational dispute, excerpts press commentary, and records meetings addressed by C. Rajagopalachari (Rajaji), N. G. Ranga, Maharani Gayatri Devi, and other party figures.
 ---
+
+## Summary
+
+The March 1963 issue of Swatantra Newsletter (No. 32), issued by the Central Office of the Swatantra Party in Bombay, reports on the party’s February meetings of its Central Organising Committee and General Council, its positions on the Colombo proposals, Chinese aggression, the national emergency, taxation, and gold-control regulations, and its organisational activity in several states. It reproduces the General Council’s resolutions on international security and a Bihar organisational dispute, excerpts press commentary, and records meetings addressed by C. Rajagopalachari (Rajaji), N. G. Ranga, Maharani Gayatri Devi, and other party figures.

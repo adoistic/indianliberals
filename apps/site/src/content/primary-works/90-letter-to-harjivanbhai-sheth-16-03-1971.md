@@ -45,6 +45,12 @@ summary: |-
   Masani adds that he is joining the Yuvraj Sahib in expressing their thanks. The letter is signed “( M. R. MASANI )” and addressed to Sheth c/o Damodar Oil Mill, Jasdan.
 ---
 
+## Summary
+
+This single-page letter, dated 16 March 1971, is written by M. R. Masani to Mr. Harjivanbhai Sheth. Masani thanks Sheth for placing a jeep at the disposal of Yuvraj Shivajikumar from 25 February to 2 March and acknowledges the assistance and cooperation provided during that period.
+
+Masani adds that he is joining the Yuvraj Sahib in expressing their thanks. The letter is signed “( M. R. MASANI )” and addressed to Sheth c/o Damodar Oil Mill, Jasdan.
+
 ## Key points
 
 - The letter is dated 16 March 1971.

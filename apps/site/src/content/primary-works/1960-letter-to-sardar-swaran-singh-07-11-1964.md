@@ -47,6 +47,10 @@ summary: |-
   This two-page letter, dated November 7, 1964, records Dahyabhai V. Patel’s request that the Ministry of External Affairs reconsider its refusal to permit an Indian parliamentary delegation to attend an anti-Communist conference of Asian peoples in Taipei. Patel explains that he had recently travelled with a West German parliamentary delegation and had already agreed to join the Taipei conference, but learned that permission had been withheld by the ministry.
 ---
 
+## Summary
+
+This two-page letter, dated November 7, 1964, records Dahyabhai V. Patel’s request that the Ministry of External Affairs reconsider its refusal to permit an Indian parliamentary delegation to attend an anti-Communist conference of Asian peoples in Taipei. Patel explains that he had recently travelled with a West German parliamentary delegation and had already agreed to join the Taipei conference, but learned that permission had been withheld by the ministry.
+
 ## Key points
 
 - Dahyabhai V. Patel writes from Bombay to Sardar Swaran Singh, then Minister of External Affairs.

@@ -50,6 +50,12 @@ summary: |-
   The letter provides detailed practical instructions for participation: attendees should bring bedding, warm clothing, a pair of cut khaki shorts, a khaki half shirt, canvas shoes, and materials for evening cultural and recreational activities. It also asks the recipient to notify G. Hanumantha Rao, General Secretary of the Andhra Pradesh Swatantra Party, of their travel details and to send a copy of that communication to the Central Office.
 ---
 
+## Summary
+
+This 17 January 1966 letter from M. R. Masani, General Secretary of the Swatantra Party, informs a party volunteer that they have been recommended for training as a Swatantra Volunteers-Leader. The training camp was scheduled to begin in Hyderabad on 5 February 1966, with arrival requested by the evening of 4 February and party volunteers assigned to guide participants from Secunderabad Railway Station.
+
+The letter provides detailed practical instructions for participation: attendees should bring bedding, warm clothing, a pair of cut khaki shorts, a khaki half shirt, canvas shoes, and materials for evening cultural and recreational activities. It also asks the recipient to notify G. Hanumantha Rao, General Secretary of the Andhra Pradesh Swatantra Party, of their travel details and to send a copy of that communication to the Central Office.
+
 ## Key points
 
 - M. R. Masani writes as General Secretary of the Swatantra Party Central Office.

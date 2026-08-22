@@ -51,6 +51,12 @@ summary: |-
   Lobo Prabhu argues that the socialist party is the Swatantra Party’s genuine antithesis and criticises its programmes, finances, and reliance on organised workers and independent trade unions. He asks Mody not to dissolve the party unless this occurs simultaneously with the other merging parties, and requests that Masani and Pasricha sponsor his resolution in his absence. The letter also refers to electoral reform, the party’s earlier opposition to the “Grand Alliance,” and the hope that others will continue to defend the Swatantra Party.
 ---
 
+## Summary
+
+In this letter dated July 16, 1974, J. M. Lobo Prabhu writes to Piloo Mody about placing a proposed “National Alternative” before the Swatantra Party’s National Executive and General Council. He presents the draft as a possible meeting ground between Mody, Minoo Masani, and Pasricha, while warning that an electoral process designed to absorb recently joined members could destroy the party. He asks that members who wish to use the Swatantra Party’s membership for electoral advantage be allowed to leave as quickly as they joined.
+
+Lobo Prabhu argues that the socialist party is the Swatantra Party’s genuine antithesis and criticises its programmes, finances, and reliance on organised workers and independent trade unions. He asks Mody not to dissolve the party unless this occurs simultaneously with the other merging parties, and requests that Masani and Pasricha sponsor his resolution in his absence. The letter also refers to electoral reform, the party’s earlier opposition to the “Grand Alliance,” and the hope that others will continue to defend the Swatantra Party.
+
 ## Key points
 
 - The letter proposes that a “National Alternative” be placed before the Swatantra Party’s National Convention, National Executive, and General Council.

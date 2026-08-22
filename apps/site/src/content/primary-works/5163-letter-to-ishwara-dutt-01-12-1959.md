@@ -46,6 +46,10 @@ summary: |-
   This one-page personal letter, dated 1 December 1959 and signed by M. R. Masani from his Bombay address, responds to Mr. K. Ishwara Dutt's letter of 24 November. Masani thanks Dutt for appreciating his speech at Sapru House and notes that he reads Junius with considerable appreciation.
 ---
 
+## Summary
+
+This one-page personal letter, dated 1 December 1959 and signed by M. R. Masani from his Bombay address, responds to Mr. K. Ishwara Dutt's letter of 24 November. Masani thanks Dutt for appreciating his speech at Sapru House and notes that he reads Junius with considerable appreciation.
+
 ## Key points
 
 - The letter is dated 1 December 1959.

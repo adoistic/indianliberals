@@ -46,6 +46,10 @@ summary: |-
   In this letter dated 5 April 1968, C. Rajagopalachari responds to M. R. Masani's letter of 3 April with respect and affection. He advises that the Party should take suitable action against the offenders, while insisting that Masani withdraw his resignations.
 ---
 
+## Summary
+
+In this letter dated 5 April 1968, C. Rajagopalachari responds to M. R. Masani's letter of 3 April with respect and affection. He advises that the Party should take suitable action against the offenders, while insisting that Masani withdraw his resignations.
+
 ## Key points
 
 - The letter is dated 5 April 1968 and was sent from Rajagopalachari's address on Naoroji Road, Kilpauk, Madras-10.

@@ -43,6 +43,10 @@ summary: |-
   This one-page English telegram, sent through the Indian Posts and Telegraphs Department on 29 April 1964, is addressed to Minoo Masani at Lodi Estate, New Delhi. Its brief message consists of congratulations signed or identified as “RAJAGOPALACHARI.” The form records transmission from Madras and carries the department’s routing and delivery details.
 ---
 
+## Summary
+
+This one-page English telegram, sent through the Indian Posts and Telegraphs Department on 29 April 1964, is addressed to Minoo Masani at Lodi Estate, New Delhi. Its brief message consists of congratulations signed or identified as “RAJAGOPALACHARI.” The form records transmission from Madras and carries the department’s routing and delivery details.
+
 ## Key points
 
 - The document is a single Indian Posts and Telegraphs Department telegram form.

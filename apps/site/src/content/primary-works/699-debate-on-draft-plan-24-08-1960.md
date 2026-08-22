@@ -60,6 +60,12 @@ summary: |-
   In the rendered pages, the discussion broadens from planning to cooperation, democracy, inflation, foreign exchange, and civil liberties. It argues that deliberate inflation erodes savings, redistributes wealth toward speculators and politically connected beneficiaries, and invites controls that weaken democratic freedom and private choice. The memorandum concludes that the Third Plan should be rejected. The final rendered pages contain a separate memorandum on the August 1960 Central Government employees' strike, which defends freedom of association and the right to strike while also criticizing strike leaders for rejecting compromise and the government for failing to submit the dispute to impartial adjudication.
 ---
 
+## Summary
+
+In the rendered pages, this undated-author memorandum dated August 24, 1960 argues against the Third Plan as an example of centralized, capital-intensive development. It challenges the Planning Commission's estimates of savings, foreign aid, national-income growth, and industrial output, while criticizing the diversion of public resources toward steel and other heavy industries at the expense of agriculture, lighter industry, and private enterprise. The memorandum presents monetary stability, production-oriented investment, reduced disparities, and the expansion of employment as alternatives to state-led planning.
+
+In the rendered pages, the discussion broadens from planning to cooperation, democracy, inflation, foreign exchange, and civil liberties. It argues that deliberate inflation erodes savings, redistributes wealth toward speculators and politically connected beneficiaries, and invites controls that weaken democratic freedom and private choice. The memorandum concludes that the Third Plan should be rejected. The final rendered pages contain a separate memorandum on the August 1960 Central Government employees' strike, which defends freedom of association and the right to strike while also criticizing strike leaders for rejecting compromise and the government for failing to submit the dispute to impartial adjudication.
+
 ## Key points
 
 - The memorandum disputes the government's claim that the Third Plan is ambitious but viable, arguing instead that its estimates and priorities are unsound.

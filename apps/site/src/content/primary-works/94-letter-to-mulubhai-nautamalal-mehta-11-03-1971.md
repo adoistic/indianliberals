@@ -46,6 +46,12 @@ summary: |-
   No unambiguous sender name or signature is visible. The initials “M.R.M.” appear in the body, but their identity cannot be established from this page.
 ---
 
+## Summary
+
+This one-page English handwritten letter, dated “11/3/71,” is headed “MULUBHAI NAUTAMALAL MEHTA.” The writer comments that Dr. Mehta’s handwriting is difficult to read and reports that the decipherable portion concerns so-called local leaders in Rajkot and Wadhwan who have “let down M.R.M.”
+
+No unambiguous sender name or signature is visible. The initials “M.R.M.” appear in the body, but their identity cannot be established from this page.
+
 ## Key points
 
 - The manuscript is a one-page English letter dated 11 March 1971.

@@ -49,6 +49,10 @@ summary: |-
   Dated November 9, 1979, this letter from S. V. Raju to P. K. Deo addresses a vehicle-registration matter involving Jeep MRA 4093. Raju explains that the jeep, formerly belonging to the Swatantra Party, was sold to Deo shortly after the party's 1967 general-election campaign.
 ---
 
+## Summary
+
+Dated November 9, 1979, this letter from S. V. Raju to P. K. Deo addresses a vehicle-registration matter involving Jeep MRA 4093. Raju explains that the jeep, formerly belonging to the Swatantra Party, was sold to Deo shortly after the party's 1967 general-election campaign.
+
 ## Key points
 
 - The letter is dated November 9, 1979.

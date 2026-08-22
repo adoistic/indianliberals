@@ -51,6 +51,10 @@ summary: |-
   In this letter dated 11 March 1975, M. R. Masani asks the Collector of Bombay to recognize that no motor vehicle tax is due on four jeeps formerly registered in his name while he was General Secretary of the Swatantra Party. He reports that inquiries through the Bharatiya Lok Dal office established that all four vehicles had been sold by May 1967, and identifies the purchasers and locations of the vehicles.
 ---
 
+## Summary
+
+In this letter dated 11 March 1975, M. R. Masani asks the Collector of Bombay to recognize that no motor vehicle tax is due on four jeeps formerly registered in his name while he was General Secretary of the Swatantra Party. He reports that inquiries through the Bharatiya Lok Dal office established that all four vehicles had been sold by May 1967, and identifies the purchasers and locations of the vehicles.
+
 ## Key points
 
 - Masani writes to the Collector of Bombay about motor vehicle tax assessed on four jeeps.

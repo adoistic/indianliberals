@@ -49,6 +49,12 @@ summary: |-
   Masani also discusses invitations to members of the State Central Parliamentary Board, coordination with H. M. Patel in Delhi, and Piloo Mody's planned conversation with Baria in Bombay. The letter closes with advice on a draft disciplinary resolution: Masani recommends a definite charge of anti-Party activity relating to the Presidential election and the later defiance of the party stand on Gujarat, arguing that the conduct had served the ruling party's interests for months.
 ---
 
+## Summary
+
+In this letter dated 3 April 1970, M. R. Masani writes to S. V. Raju about the circulation of a three-column tabulated statement concerning C. C. Desai to members of the Gujarat State Council. He asks Raju to obtain Ahmedabad addresses for council and Gujarat Assembly members, anticipating that an Assembly session may be called and stressing that the material must be dispatched promptly.
+
+Masani also discusses invitations to members of the State Central Parliamentary Board, coordination with H. M. Patel in Delhi, and Piloo Mody's planned conversation with Baria in Bombay. The letter closes with advice on a draft disciplinary resolution: Masani recommends a definite charge of anti-Party activity relating to the Presidential election and the later defiance of the party stand on Gujarat, arguing that the conduct had served the ruling party's interests for months.
+
 ## Key points
 
 - Masani asks Raju to circulate a tabulated statement on C. C. Desai to Gujarat State Council members.

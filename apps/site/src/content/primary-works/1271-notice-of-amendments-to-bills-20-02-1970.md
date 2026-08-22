@@ -53,6 +53,12 @@ summary: |-
   The amendments criticize the government's treatment of violence and lawlessness, including its omission of West Bengal's constitutional breakdown, crop seizures in Kerala, and what the signatories describe as increasing disregard for the rule of law, fundamental rights, and the judiciary. They also fault the Address for lacking concrete proposals for regional economic and political cooperation in Asia, for assuming that Communist China would respect India's sovereignty without addressing the recovery of occupied territory, and for failing to demand the withdrawal of North Vietnamese forces from South Vietnam or Laos.
 ---
 
+## Summary
+
+This two-page notice, dated 20 February 1970 and addressed to the Secretary of the Lok Sabha, proposes amendments to the motion of thanks for the President's Address. Signed by N. G. Ranga, M. R. Masani, P. K. Deo, J. H. Lobo Prabhu, and D. M. Patodia, it argues that the Address presents an overly complacent account of India's agricultural, industrial, and employment conditions and fails to confront the plight of ordinary people.
+
+The amendments criticize the government's treatment of violence and lawlessness, including its omission of West Bengal's constitutional breakdown, crop seizures in Kerala, and what the signatories describe as increasing disregard for the rule of law, fundamental rights, and the judiciary. They also fault the Address for lacking concrete proposals for regional economic and political cooperation in Asia, for assuming that Communist China would respect India's sovereignty without addressing the recovery of occupied territory, and for failing to demand the withdrawal of North Vietnamese forces from South Vietnam or Laos.
+
 ## Key points
 
 - The notice seeks amendments to the Lok Sabha motion of thanks for the President's Address.

@@ -49,6 +49,12 @@ summary: |-
   The writers describe Chinese and Soviet military assistance to Pakistan as a matter requiring India's diplomatic attention. They ask Gandhi to share the latest information on North Korean arms supplies and to clarify whether the issue had been discussed with Soviet Prime Minister Alexei Kosygin during his recent stopover at Palam airport. The letter also asks whether India had taken any diplomatic action concerning what the signatories call assistance to Pakistan from both an adversary and a supposedly friendly power.
 ---
 
+## Summary
+
+This one-page letter, dated New Delhi, September 15, 1969, is addressed to Prime Minister Indira Gandhi and signed by Members of Parliament D.V. Patel, D.R. Patodia, and N.K. Somani. The signatories refer to a newspaper report that North Korea had begun supplying arms to Pakistan in substantial quantities, alongside known arms supplies from Russia and Communist China.
+
+The writers describe Chinese and Soviet military assistance to Pakistan as a matter requiring India's diplomatic attention. They ask Gandhi to share the latest information on North Korean arms supplies and to clarify whether the issue had been discussed with Soviet Prime Minister Alexei Kosygin during his recent stopover at Palam airport. The letter also asks whether India had taken any diplomatic action concerning what the signatories call assistance to Pakistan from both an adversary and a supposedly friendly power.
+
 ## Key points
 
 - The letter is dated New Delhi, September 15, 1969, and is addressed to Prime Minister Indira Gandhi.

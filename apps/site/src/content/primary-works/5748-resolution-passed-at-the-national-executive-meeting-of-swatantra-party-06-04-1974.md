@@ -62,6 +62,12 @@ summary: |-
   The economic-recovery resolution rejects existing economic policies and calls for a drastic restructuring centred on commercial performance in the public sector, lower direct and indirect taxation, deregulation, a floating rupee, investment in rural infrastructure and agricultural viability, and a more meaningful, job-oriented, science- and technology-based education system. The final visible resolution supports the youth movements in Gujarat and Bihar, praising their opposition to corruption and rising prices and specifically approving Jayaprakash Narayan's leadership. Resolution 2 is not visible in the supplied pages.
 ---
 
+## Summary
+
+This two-page set records resolutions adopted at the Swatantra Party's National Executive Meeting in New Delhi on 6–7 April 1974. The visible resolutions present India as facing a severe political and economic crisis, marked by rising prices, unemployment, corruption, shortages, social injustice, and the government's alleged failure to respond. They also accuse the ruling Congress of weakening democratic accountability through restrictions on protest, electoral malpractice, concentration of propaganda resources, and manipulation of voting procedures. The document links the student movements in Gujarat and Bihar to popular anger and to the perceived closure of legitimate democratic channels.
+
+The economic-recovery resolution rejects existing economic policies and calls for a drastic restructuring centred on commercial performance in the public sector, lower direct and indirect taxation, deregulation, a floating rupee, investment in rural infrastructure and agricultural viability, and a more meaningful, job-oriented, science- and technology-based education system. The final visible resolution supports the youth movements in Gujarat and Bihar, praising their opposition to corruption and rising prices and specifically approving Jayaprakash Narayan's leadership. Resolution 2 is not visible in the supplied pages.
+
 ## Key points
 
 - The resolutions describe India as facing a combined political, economic, and social crisis.

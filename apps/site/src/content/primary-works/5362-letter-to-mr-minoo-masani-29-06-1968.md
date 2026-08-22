@@ -50,6 +50,12 @@ summary: |-
   Singh says he has not yet been able to meet Charan Singh after the talks collapsed. He plans to meet him when he returns to Lucknow and then advise Masani whether Masani should come to Lucknow on July 7 or meet Singh in Delhi. The letter records an immediate organizational and political dispute within or around the Swatantra Party, while leaving the next step contingent on further communication.
 ---
 
+## Summary
+
+This one-page letter, dated June 29, 1968, is from Bhanu Pratap Singh of the Swatantra Party's Uttar Pradesh office to Minoo Masani. Singh acknowledges Masani's June 15 letter and reports that, as anticipated, merger talks have broken down at Singh's end. He encloses four related documents: N. Dandekar's confidential note on his discussions with Charan Singh, Charan Singh's press statement, Singh's own press statement, and a copy of Singh's letter to Dandekar.
+
+Singh says he has not yet been able to meet Charan Singh after the talks collapsed. He plans to meet him when he returns to Lucknow and then advise Masani whether Masani should come to Lucknow on July 7 or meet Singh in Delhi. The letter records an immediate organizational and political dispute within or around the Swatantra Party, while leaving the next step contingent on further communication.
+
 ## Key points
 
 - Bhanu Pratap Singh writes from the Swatantra Party's Uttar Pradesh office to Minoo Masani.

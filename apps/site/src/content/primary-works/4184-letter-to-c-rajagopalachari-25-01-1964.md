@@ -50,6 +50,12 @@ summary: |-
   To improve press coverage, the programme is revised so that open sessions will be held on Saturday and Sunday at 2:30 p.m., while the closed session will take place on Sunday morning at 9:00 a.m. Masani notes that the Reception Committee and the press have been informed and asks Rajagopalachari to be ready to deliver his address on Saturday, February 1, at 2:30 p.m.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to C. Rajagopalachari, dated January 25, 1964, announces a change to the programme for an upcoming meeting in Bangalore. Masani explains that friends in the press objected to holding a closed session on Saturday afternoon followed by two press-open sessions on Sunday, since the opening address, presidential address, and resolutions would compete for coverage in Monday’s newspapers.
+
+To improve press coverage, the programme is revised so that open sessions will be held on Saturday and Sunday at 2:30 p.m., while the closed session will take place on Sunday morning at 9:00 a.m. Masani notes that the Reception Committee and the press have been informed and asks Rajagopalachari to be ready to deliver his address on Saturday, February 1, at 2:30 p.m.
+
 ## Key points
 
 - Masani writes to Rajagopalachari on January 25, 1964.

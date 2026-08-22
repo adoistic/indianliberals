@@ -48,6 +48,12 @@ summary: |-
   The letter concerns the Swatantra Party, which had been founded earlier that year. Masani refers to Chakrabarti’s observations about the party at both the local and general levels and expresses interest in meeting him in Calcutta to discuss matters of common interest. No substantive policy position or detailed discussion of the party is included on the page.
 ---
 
+## Summary
+
+This single-page English letter from M. R. Masani to Atulnanda Chakrabarti is dated October 9, 1959. Masani acknowledges Chakrabarti’s letter of September 4 and notes that he has just returned to India from abroad.
+
+The letter concerns the Swatantra Party, which had been founded earlier that year. Masani refers to Chakrabarti’s observations about the party at both the local and general levels and expresses interest in meeting him in Calcutta to discuss matters of common interest. No substantive policy position or detailed discussion of the party is included on the page.
+
 ## Key points
 
 - The letter is dated October 9, 1959, and is signed by M. R. Masani.

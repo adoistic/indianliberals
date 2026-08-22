@@ -45,6 +45,10 @@ summary: |-
   This one-page English letter, dated August 12, 1963, records S. V. Raju's transmission of a receipt to Khan Bahadur Framroze Mehta for a donation of Rs. 501/-. It is brief administrative correspondence, with no further explanation of the donation's purpose or recipient organisation visible on the page.
 ---
 
+## Summary
+
+This one-page English letter, dated August 12, 1963, records S. V. Raju's transmission of a receipt to Khan Bahadur Framroze Mehta for a donation of Rs. 501/-. It is brief administrative correspondence, with no further explanation of the donation's purpose or recipient organisation visible on the page.
+
 ## Key points
 
 - The letter is dated August 12, 1963.

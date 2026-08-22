@@ -48,6 +48,12 @@ summary: |-
   Patel argues that the delegation’s arrangements—including the required papers, official clearance, and foreign exchange—had already taken substantial time and effort. He attributes the resulting inconvenience to Singh and asks him to explain his conduct, concluding that at minimum he should apologise to Patel and his colleagues.
 ---
 
+## Summary
+
+This one-page English letter, dated November 17, 1964, from Dahyabhai Vallabhbhai Patel, M.P., to Sardar Swaran Singh, Minister for External Affairs, protests Singh’s failure to respond to earlier communications concerning Patel’s delegation. Patel says that Singh’s last-minute actions created avoidable difficulties, despite prior telephone and written discussions and clearance from the Government of India’s External Affairs authorities.
+
+Patel argues that the delegation’s arrangements—including the required papers, official clearance, and foreign exchange—had already taken substantial time and effort. He attributes the resulting inconvenience to Singh and asks him to explain his conduct, concluding that at minimum he should apologise to Patel and his colleagues.
+
 ## Key points
 
 - The letter is dated November 17, 1964, and is written from Bombay on Dahyabhai Vallabhbhai Patel’s M.P. letterhead.

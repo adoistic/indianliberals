@@ -49,6 +49,12 @@ summary: |-
   The paper then describes organisation through regular contact with polling-circle committees, village leaders, voters, and district offices. Organisers are instructed to collect and transmit petitions about local problems, arrange meetings, report the activities of rival parties, and cultivate personal relationships. The third section, “Projection,” focuses on presenting the party and its candidate through principles, criticism of the ruling party, attention to local interests, newspapers, loudspeaker-equipped vehicles, speeches, educational and public events, and meetings with influential people. The final page announces a fourth duty—preparation for the election—but the visible text ends before that section is developed.
 ---
 
+## Summary
+
+Marked “DRAFT,” this short office paper by J. M. Lobo Prabhu sets out a four-part programme for party organisers working in parliamentary constituencies. It begins with systematic information-gathering at every polling station: voter numbers, candidate results, caste and religious distribution, local leaders, party workers, polling-circle committees, neglected village projects, and visitors’ observations. These records are intended to guide the candidate and party’s attention over an extended period rather than only during an election campaign.
+
+The paper then describes organisation through regular contact with polling-circle committees, village leaders, voters, and district offices. Organisers are instructed to collect and transmit petitions about local problems, arrange meetings, report the activities of rival parties, and cultivate personal relationships. The third section, “Projection,” focuses on presenting the party and its candidate through principles, criticism of the ruling party, attention to local interests, newspapers, loudspeaker-equipped vehicles, speeches, educational and public events, and meetings with influential people. The final page announces a fourth duty—preparation for the election—but the visible text ends before that section is developed.
+
 ## Key points
 
 - Organisers should maintain detailed ledgers for every polling station in an Assembly constituency.

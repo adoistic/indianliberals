@@ -49,6 +49,12 @@ summary: |-
   The document is a personal administrative communication rather than a political argument. It records the sender's temporary inability to participate in party activities and closes with a formal expression of thanks and a faithful sign-off. Handwritten annotations appear near the bottom of the page, but their full content is not confidently legible.
 ---
 
+## Summary
+
+This one-page English letter, dated 29 November 1971, is from Shantilal L. Thar in Bombay to the President of the Swatantra Party. Thar requests two months' leave of absence because his preoccupations leave him without sufficient physical energy or time to attend to the party's work.
+
+The document is a personal administrative communication rather than a political argument. It records the sender's temporary inability to participate in party activities and closes with a formal expression of thanks and a faithful sign-off. Handwritten annotations appear near the bottom of the page, but their full content is not confidently legible.
+
 ## Key points
 
 - The letter is dated 29 November 1971 and was sent from Bombay.

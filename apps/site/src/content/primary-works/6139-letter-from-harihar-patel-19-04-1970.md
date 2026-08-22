@@ -46,6 +46,12 @@ summary: |-
   The page has no printed title, salutation, recipient, complimentary close, publisher, or explicit document-type label. Its clipped wording and format resemble an office note or telegram, although it is provisionally cataloged as a letter. A handwritten mark appears near the upper right, but it is not confidently legible.
 ---
 
+## Summary
+
+This single-page English communication, typed in block capitals and dated 19 April 1970, is headed “BHUBANESWAR.” It records a travel instruction: departure from Rourkela for Bhubaneswar is to be fixed for 5 a.m. the following morning. The message is signed “HARIHAR PATEL.”
+
+The page has no printed title, salutation, recipient, complimentary close, publisher, or explicit document-type label. Its clipped wording and format resemble an office note or telegram, although it is provisionally cataloged as a letter. A handwritten mark appears near the upper right, but it is not confidently legible.
+
 ## Key points
 
 - The document is a single-page English communication from Bhubaneswar.

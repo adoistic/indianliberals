@@ -52,6 +52,12 @@ summary: |-
   The letter gives practical voting instructions for the 6 May elections. State legislators are told to vote at their state capitals; MPs may do so if they notify the Election Commission in writing, while vice-presidential voting is described as mandatory in Delhi for MPs unless an alternative arrangement is formally notified. Masani also explains the availability of free railway travel, state transport, and reimbursement of travel expenses for legislators who attend the poll.
 ---
 
+## Summary
+
+Dated 15 April 1967, this General Secretary's letter from the Swatantra Party Central Office urges the party's MPs and MLAs to support former Chief Justice Subba Rao for President of India and Professor Habib for Vice-President. M. R. Masani states that Subba Rao's candidature has been sponsored by the leaders of seven Opposition parties, with the nomination proposed by Masani and seconded by R. N. Singh Deo, Chief Minister of Orissa.
+
+The letter gives practical voting instructions for the 6 May elections. State legislators are told to vote at their state capitals; MPs may do so if they notify the Election Commission in writing, while vice-presidential voting is described as mandatory in Delhi for MPs unless an alternative arrangement is formally notified. Masani also explains the availability of free railway travel, state transport, and reimbursement of travel expenses for legislators who attend the poll.
+
 ## Key points
 
 - The Swatantra Party supports former Chief Justice Subba Rao for the presidency and Professor Habib for the vice-presidency.

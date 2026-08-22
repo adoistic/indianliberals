@@ -61,6 +61,14 @@ summary: |-
   The enclosed press statement, “TWIN BODIES REVIVED,” reiterates that property includes the modest assets of poor cultivators, village shops, workers, and ordinary families, not merely the wealth of large industrialists or princes. Across the rendered pages, the party presents property rights as an individual safeguard, a protection for rural livelihoods, and a condition of democratic government.
 ---
 
+## Summary
+
+This five-page Swatantra Party communication, issued from Bombay on February 23, 1970 as General Secretary's Letter No. 223, urges party units to oppose the proposed abolition of the constitutional fundamental right to property. It argues that removing the right would threaten small farmers and village shopkeepers by exposing their land and businesses to government acquisition without adequate compensation. The letter frames the proposal as part of a broader effort by Indira Gandhi's Congress (Marxist) party and allied Communist forces to undermine Indian democracy.
+
+The accompanying November 27, 1969 circular turns this opposition into an organising programme. It instructs state, district, and primary units to translate and distribute the circular in regional languages, educate rural communities, hold meetings and discussions, organise Kisan Marches, and coordinate petitions and signature campaigns. It also proposes locally financed party work and a “Protect the Small Farmer & Small Shopkeeper Day.”
+
+The enclosed press statement, “TWIN BODIES REVIVED,” reiterates that property includes the modest assets of poor cultivators, village shops, workers, and ordinary families, not merely the wealth of large industrialists or princes. Across the rendered pages, the party presents property rights as an individual safeguard, a protection for rural livelihoods, and a condition of democratic government.
+
 ## Key points
 
 - The letter calls for intensified opposition to the proposed constitutional abolition of the fundamental right to property.

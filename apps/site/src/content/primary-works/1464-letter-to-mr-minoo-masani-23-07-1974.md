@@ -51,6 +51,12 @@ summary: |-
   Dandekar instead maintains that the Party’s principles and programme still have “potential validity and relevance” at the national level, even if the Party’s present form is inadequate. He therefore urges Masani to support Piloo Mody’s effort to join with other parties and create a coherent national alternative to the ruling Congress. He regards the Jan Sangh’s refusal to participate as regrettable, but distinguishes it from the broader strategic need for political cooperation.
 ---
 
+## Summary
+
+In this letter dated 23 July 1974, N. Dandekar responds to Minoo Masani’s proposed resolution on the future of the Swatantra Party, to be discussed at the Party’s National Convention in Delhi. Dandekar states that he “profoundly disagree[s]” with Masani’s views, particularly the proposal to transform the Party into a non-political “Swatantra Seva Sangh.” He argues that such a move would leave the organisation politically irrelevant and make it a “laughing stock” among India’s political parties.
+
+Dandekar instead maintains that the Party’s principles and programme still have “potential validity and relevance” at the national level, even if the Party’s present form is inadequate. He therefore urges Masani to support Piloo Mody’s effort to join with other parties and create a coherent national alternative to the ruling Congress. He regards the Jan Sangh’s refusal to participate as regrettable, but distinguishes it from the broader strategic need for political cooperation.
+
 ## Key points
 
 - Dandekar rejects Minoo Masani’s proposed resolution concerning the future of the Swatantra Party.

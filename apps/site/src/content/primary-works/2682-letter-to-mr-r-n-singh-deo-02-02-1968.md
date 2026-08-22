@@ -48,6 +48,12 @@ summary: |-
   Masani asks Singh Deo to arrange a meeting with Dan during his stay in Bhubaneswar and to extend appropriate courtesies. He notes that Dan and his wife also plan to visit Konarak and stay at Gopalpur-on-sea, and suggests that Singh Deo’s attendance at the Rotary Club meeting would be appreciated by the South Vietnamese Government. The letter illustrates a diplomatic and political gesture framed through personal networks and a public discussion of the Vietnam conflict.
 ---
 
+## Summary
+
+This single-page personal letter, dated February 2, 1968, is from M. R. Masani in New Delhi to Shri R. N. Singh Deo, Chief Minister of Orissa. Masani informs him that the Counsel-General for South Viet Nam, Mr. Dan, and his wife will visit Orissa for several days and that Dan has been invited to address the Rotary Club of Bhubaneswar on the Viet Nam problem.
+
+Masani asks Singh Deo to arrange a meeting with Dan during his stay in Bhubaneswar and to extend appropriate courtesies. He notes that Dan and his wife also plan to visit Konarak and stay at Gopalpur-on-sea, and suggests that Singh Deo’s attendance at the Rotary Club meeting would be appreciated by the South Vietnamese Government. The letter illustrates a diplomatic and political gesture framed through personal networks and a public discussion of the Vietnam conflict.
+
 ## Key points
 
 - M. R. Masani wrote from New Delhi to Shri R. N. Singh Deo on February 2, 1968.

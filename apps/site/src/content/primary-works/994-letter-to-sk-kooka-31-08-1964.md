@@ -47,6 +47,12 @@ summary: |-
   Masani asks Kooka to change Ranga's Delhi–London–Delhi ticket into a Delhi–New York–Delhi ticket, with the fare difference paid in rupees. He requests the amount of the cheque to be paid to Kooka's office and asks that Air India's London office coordinate with Ranga through the Indian High Commission so that the ticket can be changed in time for his planned departure on 3 September.
 ---
 
+## Summary
+
+This single-page letter, dated 31 August 1964, is from M. R. Masani to S. K. Kooka, Air India's Commercial Director. Masani explains that Professor N. G. Ranga has travelled from Delhi to London to attend the International Parliamentary Union Conference in Copenhagen as a representative of the Parliament of India, and is now seeking to continue to New York for a meeting of the International Peasants Union in Washington.
+
+Masani asks Kooka to change Ranga's Delhi–London–Delhi ticket into a Delhi–New York–Delhi ticket, with the fare difference paid in rupees. He requests the amount of the cheque to be paid to Kooka's office and asks that Air India's London office coordinate with Ranga through the Indian High Commission so that the ticket can be changed in time for his planned departure on 3 September.
+
 ## Key points
 
 - The letter is dated 31 August 1964 and is signed by M. R. Masani.

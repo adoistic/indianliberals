@@ -47,6 +47,10 @@ summary: |-
   This one-page newspaper clipping, published by Patriot-New Delhi on 15 May 1968, reports that Swatantra Party leader M. R. Masani had decided not to withdraw his resignation from the party's Central Parliamentary Board and National Executive. The report says Masani communicated his final decision to the party's general secretary, Mr. N. Dandekar, after resigning in April following a dispute over the party's Gujarat election campaign.
 ---
 
+## Summary
+
+This one-page newspaper clipping, published by Patriot-New Delhi on 15 May 1968, reports that Swatantra Party leader M. R. Masani had decided not to withdraw his resignation from the party's Central Parliamentary Board and National Executive. The report says Masani communicated his final decision to the party's general secretary, Mr. N. Dandekar, after resigning in April following a dispute over the party's Gujarat election campaign.
+
 ## Key points
 
 - M. R. Masani declined appeals to withdraw his resignation from the Swatantra Party's Central Parliamentary Board and National Executive.

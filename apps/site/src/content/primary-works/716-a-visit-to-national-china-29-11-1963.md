@@ -56,6 +56,10 @@ summary: |-
   In this nine-page English essay, M. R. Masani reports on a private visit to Taiwan at the invitation of National Taiwan University, where he spoke on India after the Chinese Communist attack. He describes meetings with educators, journalists, legislators, ministers, and President Chiang Kai-shek, and contrasts the political freedoms he says Indians enjoy with conditions elsewhere in Asia. He argues that India should distinguish between the Chinese people and the Communist regime, while maintaining practical and friendly relations with the people of Free China.
 ---
 
+## Summary
+
+In this nine-page English essay, M. R. Masani reports on a private visit to Taiwan at the invitation of National Taiwan University, where he spoke on India after the Chinese Communist attack. He describes meetings with educators, journalists, legislators, ministers, and President Chiang Kai-shek, and contrasts the political freedoms he says Indians enjoy with conditions elsewhere in Asia. He argues that India should distinguish between the Chinese people and the Communist regime, while maintaining practical and friendly relations with the people of Free China.
+
 ## Key points
 
 - Masani presents Taiwan as a politically free and economically developing society opposed to Communist China.

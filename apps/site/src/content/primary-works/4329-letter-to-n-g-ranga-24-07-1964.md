@@ -50,6 +50,12 @@ summary: |-
   Masani explains that he wrote to the editor of the Statesman to prevent the misunderstanding from continuing, while affirming that Swatantra Party members could participate individually in any agitation initiated by the Bharat Kisan Sanghatan or similar organisations. He also refers to a similar clarification he had made in the Indian Express. The letter asks Ranga, who is described as connected with both organisations, to ensure that future discussions distinguish the Bharat Kisan Sanghatan's actions from those of the Swatantra Party.
 ---
 
+## Summary
+
+In this letter dated 24 July 1964, M. R. Masani writes to Professor N. G. Ranga to correct a newspaper report about the Swatantra Party. Masani says the Statesman had reported that the Party had decided to launch direct action—specifically Satyagraha—against the Seventeenth Amendment, with a final decision to be taken at a September 6 meeting. He states that this was a mistaken impression and that the Party had taken no such decision.
+
+Masani explains that he wrote to the editor of the Statesman to prevent the misunderstanding from continuing, while affirming that Swatantra Party members could participate individually in any agitation initiated by the Bharat Kisan Sanghatan or similar organisations. He also refers to a similar clarification he had made in the Indian Express. The letter asks Ranga, who is described as connected with both organisations, to ensure that future discussions distinguish the Bharat Kisan Sanghatan's actions from those of the Swatantra Party.
+
 ## Key points
 
 - Masani disputes a Statesman report that the Swatantra Party had decided to launch Satyagraha against the Seventeenth Amendment.

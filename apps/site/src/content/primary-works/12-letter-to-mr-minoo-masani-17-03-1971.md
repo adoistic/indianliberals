@@ -47,6 +47,12 @@ summary: |-
   The substantive claim of the letter is diplomatic as much as personal: Morris tells Masani that his absence from the Lok Sabha will be a severe loss "not merely to the cause of Indo-Israel friendship but to India per se," and closes by looking forward to "our continuing friendship and cooperation." The note is a small piece of evidence for Masani's standing as one of the few sympathetic parliamentary voices for Israel in an Indian foreign-policy environment otherwise weighted toward the Arab bloc and non-alignment.
 ---
 
+## Summary
+
+A one-page condolence note dated March 17, 1971, sent on Consulate of Israel, Bombay letterhead (Ref: 106.2) by Consul Yaakov Morris to Minoo Masani at 148, Mahatma Gandhi Road, Bombay. Writing in the immediate aftermath of the March 1971 Lok Sabha general election, in which Masani lost his Rajkot seat and the Swatantra Party was reduced to a rump, Morris expresses "most sincere personal regret and sympathy at the outcome of the elections."
+
+The substantive claim of the letter is diplomatic as much as personal: Morris tells Masani that his absence from the Lok Sabha will be a severe loss "not merely to the cause of Indo-Israel friendship but to India per se," and closes by looking forward to "our continuing friendship and cooperation." The note is a small piece of evidence for Masani's standing as one of the few sympathetic parliamentary voices for Israel in an Indian foreign-policy environment otherwise weighted toward the Arab bloc and non-alignment.
+
 ## Key points
 
 - Personal letter from Yaakov Morris, Consul of Israel in Bombay, to Minoo Masani, dated 17 March 1971 (Ref: 106.2).

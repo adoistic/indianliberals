@@ -56,6 +56,12 @@ summary: |-
   The proposal seeks to reconcile these positions through a service-oriented successor organisation. The Swatantra Party would be converted into a non-party body called the Swatantra Seva Sangh, devoted to educational and constructive activities and to propagating the party's principles. This organisation would support electoral and parliamentary activity at both Union and state levels, while remaining open both to those joining the proposed new party and to those continuing constructive political work independently. The resolution also calls for new rules to be adopted by delegates at a meeting in New Delhi on 6 August 1974, with the party offices and National Headquarters instructed to implement the decision.
 ---
 
+## Summary
+
+This 1974 tentative draft resolution proposes that the Swatantra Party dissolve itself to facilitate the formation of a new national party. It argues that such a reorganisation could encourage a two-party system, produce an electoral alternative, and address the continuing political crisis by preserving the party's principles and policies. The resolution acknowledges strong opposition, including objections that a new party would not necessarily create a genuine two-party system and that split voting could damage its credibility with the Indian public.
+
+The proposal seeks to reconcile these positions through a service-oriented successor organisation. The Swatantra Party would be converted into a non-party body called the Swatantra Seva Sangh, devoted to educational and constructive activities and to propagating the party's principles. This organisation would support electoral and parliamentary activity at both Union and state levels, while remaining open both to those joining the proposed new party and to those continuing constructive political work independently. The resolution also calls for new rules to be adopted by delegates at a meeting in New Delhi on 6 August 1974, with the party offices and National Headquarters instructed to implement the decision.
+
 ## Key points
 
 - The National Convention considers dissolving the Swatantra Party to facilitate the formation of a new party.

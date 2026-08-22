@@ -50,6 +50,10 @@ summary: |-
   This one-page letter, written on District Swatantra Party, Kanpur letterhead and dated 16 February 1964, is addressed to C. Rajagopalachari (“Rajaji”). The sender reports that the Swatantra Party has allegedly created about 500 bogus members across different constituencies, and identifies an office-holder in Bijeswar (?) as being involved. The letter asks Rajagopalachari to make inquiries and advise the party’s central office to take action.
 ---
 
+## Summary
+
+This one-page letter, written on District Swatantra Party, Kanpur letterhead and dated 16 February 1964, is addressed to C. Rajagopalachari (“Rajaji”). The sender reports that the Swatantra Party has allegedly created about 500 bogus members across different constituencies, and identifies an office-holder in Bijeswar (?) as being involved. The letter asks Rajagopalachari to make inquiries and advise the party’s central office to take action.
+
 ## Key points
 
 - The letter is issued from the District Swatantra Party, Kanpur, and addressed to C. Rajagopalachari.

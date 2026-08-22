@@ -63,6 +63,12 @@ summary: |-
   In the rendered pages, Masani also links economic independence to political liberty. Private enterprise sustains autonomous social forces—businesspeople, professionals, peasants, artisans, and the self-employed—that can support opposition, a free press, and democratic government. He calls on Indian business to “put its house in order” through trusteeship, social responsibility, support for small entrepreneurs, and participation in public affairs. The appendix extends this argument by defining joint-stock enterprise as a cooperative institution whose shareholders should retain decision-making freedom, subject to competition and safeguards against genuine harm. The document includes a typescript outline and a printed speech text; the rendered pages show the speech through its appendix but do not establish whether any additional material existed outside this scan.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani presents free enterprise as both an economic and constitutional necessity for India. He argues that the mixed economy is being eroded by the growth of state-capitalist monopolies, citing the State Trading Corporation, public control of steel, coal, oil, insurance, and agricultural collectivisation as examples. Competition, consumer choice, and private initiative are presented as more productive than bureaucratic direction, with comparative wheat and rice yields used to support the case.
+
+In the rendered pages, Masani also links economic independence to political liberty. Private enterprise sustains autonomous social forces—businesspeople, professionals, peasants, artisans, and the self-employed—that can support opposition, a free press, and democratic government. He calls on Indian business to “put its house in order” through trusteeship, social responsibility, support for small entrepreneurs, and participation in public affairs. The appendix extends this argument by defining joint-stock enterprise as a cooperative institution whose shareholders should retain decision-making freedom, subject to competition and safeguards against genuine harm. The document includes a typescript outline and a printed speech text; the rendered pages show the speech through its appendix but do not establish whether any additional material existed outside this scan.
+
 ## Key points
 
 - Masani argues that free enterprise is essential to a free society because it creates autonomous social forces capable of sustaining political opposition.

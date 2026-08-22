@@ -47,6 +47,10 @@ summary: |-
   This one-page English office circular, issued by the Swatantra Party Central Office on April 25, 1966, corrects an error in the dates printed in General Council Circular No. 21. It states that the relevant meeting dates should be Friday and Saturday, May 27 and 28, rather than May 26 and 27.
 ---
 
+## Summary
+
+This one-page English office circular, issued by the Swatantra Party Central Office on April 25, 1966, corrects an error in the dates printed in General Council Circular No. 21. It states that the relevant meeting dates should be Friday and Saturday, May 27 and 28, rather than May 26 and 27.
+
 ## Key points
 
 - The document is marked as an express-delivery communication from the Swatantra Party Central Office.

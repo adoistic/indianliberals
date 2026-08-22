@@ -54,6 +54,10 @@ summary: |-
   In this confidential letter of 15 May 1968, M. R. Masani explains his resignation from the Swatantra Party’s National Executive and Parliamentary Board. He presents the decision as the result of a sustained breakdown in party discipline and democratic functioning, rather than a sudden personal disagreement. The immediate background is the Gujarat party’s handling of the Rajya Sabha candidacy of Babubhai Vaidya, the failure to honour an earlier commitment to support Vaidya, the nomination of U. N. Mahida, and the National Executive’s reluctance to take serious disciplinary action against party members who had opposed the party’s candidate.
 ---
 
+## Summary
+
+In this confidential letter of 15 May 1968, M. R. Masani explains his resignation from the Swatantra Party’s National Executive and Parliamentary Board. He presents the decision as the result of a sustained breakdown in party discipline and democratic functioning, rather than a sudden personal disagreement. The immediate background is the Gujarat party’s handling of the Rajya Sabha candidacy of Babubhai Vaidya, the failure to honour an earlier commitment to support Vaidya, the nomination of U. N. Mahida, and the National Executive’s reluctance to take serious disciplinary action against party members who had opposed the party’s candidate.
+
 ## Key points
 
 - Masani argues that the Gujarat crisis revealed a breach of faith between the party leadership and its members.

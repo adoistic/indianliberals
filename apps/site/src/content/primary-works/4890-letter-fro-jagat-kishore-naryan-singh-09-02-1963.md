@@ -46,6 +46,10 @@ summary: |-
   This single-page English letter, dated handwritten “9/2/63,” is addressed to the President of the Swatantra Party of India. Jagat Kishore Prasad Narayan Singh withdraws an appeal previously filed before the Party’s General Council, explaining that he is doing so “in the larger interest of the Party.”
 ---
 
+## Summary
+
+This single-page English letter, dated handwritten “9/2/63,” is addressed to the President of the Swatantra Party of India. Jagat Kishore Prasad Narayan Singh withdraws an appeal previously filed before the Party’s General Council, explaining that he is doing so “in the larger interest of the Party.”
+
 ## Key points
 
 - The document is a formal letter addressed to the President of the Swatantra Party of India.

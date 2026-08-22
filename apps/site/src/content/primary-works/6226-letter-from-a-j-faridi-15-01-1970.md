@@ -54,6 +54,12 @@ summary: |-
   The principal purpose is to solicit practical proposals for improving relations between Muslims and non-Muslims. Faridi asks whether Muslims’ approach to national problems is constructive and secular, how cooperation can lessen the gulf between communities, how suspicion and distrust can be reduced, and how Muslims’ economic backwardness, children’s education, and other problems can be addressed. Although the immediate sphere of action is Uttar Pradesh, the letter presents these questions as nationally significant and requests replies by February 15, 1970. The scanned item also includes a Hindi version on pages 3–4.
 ---
 
+## Summary
+
+This letter, dated January 15, 1970, was issued from Lucknow by A. J. Faridi, President of the Muslim Majlis, U. P., and addressed to M. R. Masani, M.P. It argues that India’s people are the country’s greatest asset but that Muslims’ political, social, cultural, and economic marginalisation risks turning a potential national asset into a liability. The letter attributes this situation partly to the failure of the majority community after 1947 to win the confidence of minorities and calls on Muslims to act as “devoted servants and sincere well-wishers of the country.”
+
+The principal purpose is to solicit practical proposals for improving relations between Muslims and non-Muslims. Faridi asks whether Muslims’ approach to national problems is constructive and secular, how cooperation can lessen the gulf between communities, how suspicion and distrust can be reduced, and how Muslims’ economic backwardness, children’s education, and other problems can be addressed. Although the immediate sphere of action is Uttar Pradesh, the letter presents these questions as nationally significant and requests replies by February 15, 1970. The scanned item also includes a Hindi version on pages 3–4.
+
 ## Key points
 
 - The letter identifies India’s diverse population as its greatest national asset.

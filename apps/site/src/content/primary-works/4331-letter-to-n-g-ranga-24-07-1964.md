@@ -48,6 +48,12 @@ summary: |-
   Masani also says that his visit helped persuade the Speaker to write to Ranga and invite him to join the Indian team attending the Inter-Parliamentary Conference in Copenhagen the following month. The letter closes with Masani expressing his hope that Ranga will attend. The page includes a handwritten signature, Ranga’s postal address, and a notation that a copy was sent to him at Nidubrolu, Guntur District.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to Prof. N. G. Ranga, dated July 24, 1964, reports on Masani’s visit to Delhi for a meeting of the Gold Control Select Committee and his call on the Speaker. Masani says the visit was useful because the Speaker intended to alter the seating arrangements in the Lok Sabha in light of recent political developments among opposition groups, and did not want the correspondents to take any action themselves.
+
+Masani also says that his visit helped persuade the Speaker to write to Ranga and invite him to join the Indian team attending the Inter-Parliamentary Conference in Copenhagen the following month. The letter closes with Masani expressing his hope that Ranga will attend. The page includes a handwritten signature, Ranga’s postal address, and a notation that a copy was sent to him at Nidubrolu, Guntur District.
+
 ## Key points
 
 - Masani writes to N. G. Ranga from a Delhi visit dated July 24, 1964.

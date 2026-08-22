@@ -50,6 +50,12 @@ summary: |-
   Masani also refers to an editorial letter he had sent to The Times of India, asks Raju to verify that it appeared in the Ahmedabad edition, and raises a party-administration matter concerning Mr. K. P. Singh Deo. He requests that future party papers be sent to Singh Deo's home rather than office address, asks Raju to obtain the home address if necessary, and instructs him to give an enclosed cover to Dr. Cooper.
 ---
 
+## Summary
+
+This single-page letter, dated 23 February 1970, was sent by M. R. Masani from the Swatantra Party's National Headquarters in Bombay to S. V. Raju. Masani returns corrected draft minutes and related papers concerning the National Executive and Central Parliamentary Board, urging that any urgent action be taken immediately.
+
+Masani also refers to an editorial letter he had sent to The Times of India, asks Raju to verify that it appeared in the Ahmedabad edition, and raises a party-administration matter concerning Mr. K. P. Singh Deo. He requests that future party papers be sent to Singh Deo's home rather than office address, asks Raju to obtain the home address if necessary, and instructs him to give an enclosed cover to Dr. Cooper.
+
 ## Key points
 
 - Masani returns corrected draft minutes and other papers relating to the National Executive and Central Parliamentary Board.

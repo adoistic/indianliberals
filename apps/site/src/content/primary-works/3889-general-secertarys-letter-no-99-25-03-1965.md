@@ -54,6 +54,12 @@ summary: |-
   The letter establishes a procedure for future by-elections. State units are instructed to send recommendations well in advance—within a couple of weeks of a seat becoming vacant—and to include detailed information about the proposed candidate, the candidate’s commitments, the unit’s willingness to provide assistance, local resources, recent voting patterns, and the prospects of success. Recommendations must also include the relevant minutes of the State Parliamentary Board meeting. Masani warns that without timely submissions, the Central Parliamentary Board may be unable to approve last-minute nominations, leaving the concerned unit unable to nominate any candidate.
 ---
 
+## Summary
+
+Dated March 25, 1965, this General Secretary’s Letter from the Swatantra Party Central Office addresses the party’s handling of parliamentary and state-legislature by-elections. M. R. Masani reports that the Central Parliamentary Board has repeatedly been asked to formulate positions on impending contests, but that State Executive Committees and Parliamentary Boards often submit recommendations too late for meaningful consideration. He attributes resulting candidate defeats, forfeited security deposits, and damage to the party’s national reputation to this administrative laxity.
+
+The letter establishes a procedure for future by-elections. State units are instructed to send recommendations well in advance—within a couple of weeks of a seat becoming vacant—and to include detailed information about the proposed candidate, the candidate’s commitments, the unit’s willingness to provide assistance, local resources, recent voting patterns, and the prospects of success. Recommendations must also include the relevant minutes of the State Parliamentary Board meeting. Masani warns that without timely submissions, the Central Parliamentary Board may be unable to approve last-minute nominations, leaving the concerned unit unable to nominate any candidate.
+
 ## Key points
 
 - The letter criticizes State Executive Committees and Parliamentary Boards for failing to submit by-election recommendations in time.

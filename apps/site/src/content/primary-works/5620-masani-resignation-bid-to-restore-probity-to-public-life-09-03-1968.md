@@ -51,6 +51,12 @@ summary: |-
   The article attributes Masani’s resignation to the party’s decision to disregard a prior pledge concerning the 1968 Rajya Sabha election and to support a candidate in conjunction with the Congress Party. It describes this as a betrayal of a solemn commitment and as evidence of the broader deterioration of moral standards within public life. The clipping also calls for action against Swatantra Party members in Gujarat who allegedly defied the party mandate, while suggesting that Masani’s resignation may restore public confidence in politicians’ integrity.
 ---
 
+## Summary
+
+This undated-byline newspaper clipping, stamped 23 March 1968, reports M. R. Masani’s resignation from the Swatantra Party’s National Executive and Central Parliamentary Board, along with the resignation of other senior party leaders. It presents the decision as an attempt to restore probity to public life, arguing that a politician’s word should be treated as binding and that recent political conduct has subordinated moral principles to expediency and political convenience.
+
+The article attributes Masani’s resignation to the party’s decision to disregard a prior pledge concerning the 1968 Rajya Sabha election and to support a candidate in conjunction with the Congress Party. It describes this as a betrayal of a solemn commitment and as evidence of the broader deterioration of moral standards within public life. The clipping also calls for action against Swatantra Party members in Gujarat who allegedly defied the party mandate, while suggesting that Masani’s resignation may restore public confidence in politicians’ integrity.
+
 ## Key points
 
 - M. R. Masani resigned from the Swatantra Party’s National Executive and Central Parliamentary Board.

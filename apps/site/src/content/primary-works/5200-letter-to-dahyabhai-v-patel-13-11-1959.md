@@ -46,6 +46,10 @@ summary: |-
   This one-page letter from M. R. Masani to Dahyabhai Vallabhbhai Patel is dated 13 November 1959. Masani acknowledges receipt of Patel's letter of 25 October and its enclosures, adding a brief handwritten note that appears to read “with 2 returns.” The letter closes with Masani's typed name and handwritten signature.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to Dahyabhai Vallabhbhai Patel is dated 13 November 1959. Masani acknowledges receipt of Patel's letter of 25 October and its enclosures, adding a brief handwritten note that appears to read “with 2 returns.” The letter closes with Masani's typed name and handwritten signature.
+
 ## Key points
 
 - The document is a personal letter dated 13 November 1959.

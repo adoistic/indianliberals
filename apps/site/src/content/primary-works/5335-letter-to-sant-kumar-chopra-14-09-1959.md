@@ -42,6 +42,10 @@ summary: |-
   This one-page English office letter, dated 14 September 1959, is addressed to Mr. Sant Kumar Chopra in New Delhi. Miss B.S. Mirza writes in her capacity as secretary to M. R. Masani, acknowledging Chopra's postcard of 7 September concerning Masani's departure for the United Kingdom.
 ---
 
+## Summary
+
+This one-page English office letter, dated 14 September 1959, is addressed to Mr. Sant Kumar Chopra in New Delhi. Miss B.S. Mirza writes in her capacity as secretary to M. R. Masani, acknowledging Chopra's postcard of 7 September concerning Masani's departure for the United Kingdom.
+
 ## Key points
 
 - The letter is dated 14 September 1959.

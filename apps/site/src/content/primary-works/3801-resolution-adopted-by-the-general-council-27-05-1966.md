@@ -51,6 +51,12 @@ summary: |-
   The resolution maintains that existing legal provisions already provide adequate means to secure the border areas. It specifically cites the Preventive Detention Act, the Disturbed Areas Act in Assam, the Armed Forces (Special Powers) Act, special regulations in Kashmir, and the Criminal Procedure Code. The motion was moved by Sir Homi Mody and seconded by Mr. S. S. Mariswamy.
 ---
 
+## Summary
+
+This one-page resolution, adopted by the Swatantra Party General Committee on May 27, 1966, condemns the continued operation of the Proclamation of Emergency. It rejects the assurance that government by decree will be confined to border areas and argues that the Central Government has yielded to state governments seeking to govern through emergency powers rather than through the Constitution.
+
+The resolution maintains that existing legal provisions already provide adequate means to secure the border areas. It specifically cites the Preventive Detention Act, the Disturbed Areas Act in Assam, the Armed Forces (Special Powers) Act, special regulations in Kashmir, and the Criminal Procedure Code. The motion was moved by Sir Homi Mody and seconded by Mr. S. S. Mariswamy.
+
 ## Key points
 
 - The Swatantra Party General Committee adopted the resolution on May 27, 1966.

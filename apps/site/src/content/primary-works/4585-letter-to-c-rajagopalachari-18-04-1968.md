@@ -49,6 +49,12 @@ summary: |-
   Masani defends his efforts to prevent further disruption within the party, particularly amid developments in Gujarat and elsewhere. He distinguishes freedom from what he calls indiscipline and skulduggery, and criticises the recent meeting of the National Executive in Delhi for capitulating to the rebels. He closes by postponing a fuller discussion until their meeting.
 ---
 
+## Summary
+
+In this letter dated 18 April 1968, Minoo Masani writes to C. Rajagopalachari (“Rajaji”) about an appointment in Madras and proposes meeting twice on 23 April. Masani says he is pleased they will meet because Rajagopalachari’s understanding of the party’s situation differs from his own, partly because Rajagopalachari has not attended recent meetings of the National Executive and General Council.
+
+Masani defends his efforts to prevent further disruption within the party, particularly amid developments in Gujarat and elsewhere. He distinguishes freedom from what he calls indiscipline and skulduggery, and criticises the recent meeting of the National Executive in Delhi for capitulating to the rebels. He closes by postponing a fuller discussion until their meeting.
+
 ## Key points
 
 - Masani confirms arrangements to meet Rajagopalachari in Madras on 23 April 1968.

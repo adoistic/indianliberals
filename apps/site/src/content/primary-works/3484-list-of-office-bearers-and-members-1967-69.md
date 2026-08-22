@@ -49,6 +49,12 @@ summary: |-
   The document is a roster rather than an argumentative or programmatic text. It provides no author byline, publication address, or printed publication year. The page visible here records party organization and leadership, with several names faint or inconsistently punctuated in the scan.
 ---
 
+## Summary
+
+This one-page English administrative document, issued under the heading “SWATANTRA PARTY,” records the office bearers and members of the party’s newly elected National Executive for the period 1967–69. It identifies Prof. N. G. Ranga as President; five Vice Presidents; N. Dandeker as General Secretary; four Joint Secretaries; R. C. Cooper and H. P. Nanda as Treasurers; and a larger group of members.
+
+The document is a roster rather than an argumentative or programmatic text. It provides no author byline, publication address, or printed publication year. The page visible here records party organization and leadership, with several names faint or inconsistently punctuated in the scan.
+
 ## Key points
 
 - The document lists the Swatantra Party’s newly elected National Executive for 1967–69.

@@ -50,6 +50,10 @@ summary: |-
   In this installment of “In Soviet Russia,” the essay examines the New Economic Policy (NEP), introduced by Lenin in 1921. It presents the policy as a practical concession within a continuing socialist project: peasants must receive prices that allow them to purchase manufactured goods, while industrial production requires modern machinery, capital, and foreign credit. Private traders, or “nepmen,” remain necessary where state and cooperative stores cannot meet demand, but the essay argues that their role is steadily shrinking. It cites private trade falling from 15% of internal trade in 1923–24 to 8% in 1925–26, while cooperatives control 21% and state trading remains at approximately 70%.
 ---
 
+## Summary
+
+In this installment of “In Soviet Russia,” the essay examines the New Economic Policy (NEP), introduced by Lenin in 1921. It presents the policy as a practical concession within a continuing socialist project: peasants must receive prices that allow them to purchase manufactured goods, while industrial production requires modern machinery, capital, and foreign credit. Private traders, or “nepmen,” remain necessary where state and cooperative stores cannot meet demand, but the essay argues that their role is steadily shrinking. It cites private trade falling from 15% of internal trade in 1923–24 to 8% in 1925–26, while cooperatives control 21% and state trading remains at approximately 70%.
+
 ## Key points
 
 - The NEP is described as a tactical concession rather than an abandonment of socialism.

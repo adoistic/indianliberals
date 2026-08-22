@@ -51,6 +51,12 @@ summary: |-
   The second letter, addressed to S. V. Rayan, acknowledges Rayan's letter of 16 August and praises his leading article in the 15 August issue for presenting its case very effectively. The file therefore records brief organisational and editorial exchanges touching on political activity and the press, but it does not reveal the substantive contents of Rajaji's communication or Rayan's article.
 ---
 
+## Summary
+
+This two-page correspondence file contains two separate English letters dated 20 August 1959. The first, addressed to R. V. Murthy, forwards a communication from Rajaji for consideration by an Organising Committee and asks Murthy how he proposes to deal with it. The sender is not identified on the visible page.
+
+The second letter, addressed to S. V. Rayan, acknowledges Rayan's letter of 16 August and praises his leading article in the 15 August issue for presenting its case very effectively. The file therefore records brief organisational and editorial exchanges touching on political activity and the press, but it does not reveal the substantive contents of Rajaji's communication or Rayan's article.
+
 ## Key points
 
 - The file consists of two separate letters, both dated 20 August 1959.

@@ -52,6 +52,10 @@ summary: |-
   This untitled 20-page English pamphlet is a continuous political address from within the Congress Socialist Party. It opens by situating the party in a period marked by Congress ministries in the provinces, the Spanish and Chinese wars, fascism, Nazi expansion, political repression in India, and the imprisonment of socialist workers. Against this background, it calls for a re-examination of socialist fundamentals rather than an immediate discussion of policy solutions. Socialism is defined through the abolition of private ownership of the means of production, the creation of a classless society, and the inseparable values of equality and liberty. The address distinguishes this position from Nazi “National Socialism” and other authoritarian or dogmatic forms of socialism.
 ---
 
+## Summary
+
+This untitled 20-page English pamphlet is a continuous political address from within the Congress Socialist Party. It opens by situating the party in a period marked by Congress ministries in the provinces, the Spanish and Chinese wars, fascism, Nazi expansion, political repression in India, and the imprisonment of socialist workers. Against this background, it calls for a re-examination of socialist fundamentals rather than an immediate discussion of policy solutions. Socialism is defined through the abolition of private ownership of the means of production, the creation of a classless society, and the inseparable values of equality and liberty. The address distinguishes this position from Nazi “National Socialism” and other authoritarian or dogmatic forms of socialism.
+
 ## Key points
 
 - The address presents socialism as a project grounded in equality, liberty, abolition of private ownership of the instruments of production, and a classless society.

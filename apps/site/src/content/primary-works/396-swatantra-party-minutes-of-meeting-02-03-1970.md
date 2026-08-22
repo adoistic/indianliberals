@@ -52,6 +52,12 @@ summary: |-
   Issued from New Delhi and signed by D. N. Deb, identified as TIP, the document is an internal party communication focused on coordinated legislative participation and attendance.
 ---
 
+## Summary
+
+This one-page Swatantra Parliamentary Party circular, dated March 2, 1970, instructs party members on parliamentary voting during debate on amendments to the motion of thanks on the President's Address. It states that the Leader and Deputy Leader will determine the party line and asks all members to remain in the House until voting is concluded.
+
+Issued from New Delhi and signed by D. N. Deb, identified as TIP, the document is an internal party communication focused on coordinated legislative participation and attendance.
+
 ## Key points
 
 - The document is a Swatantra Parliamentary Party communication dated March 2, 1970.

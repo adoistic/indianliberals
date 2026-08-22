@@ -53,6 +53,12 @@ summary: |-
   The statement also clarifies that C. Rajagopalachari's proposal for a “Government of all the talents” was mentioned incidentally during the conversation, not presented as the Swatantra Party's immediate position. Masani concludes by reaffirming the party's electoral objective: defeating the Congress government in the next year's general elections.
 ---
 
+## Summary
+
+This one-page press statement, issued by M. R. Masani from the Swatantra Party's central office in Bombay, corrects reports of his June 22 meeting with the Prime Minister alongside Professor Ranga. Masani says that there was only one jointly signed note, rather than two, and that it contained concrete proposals intended to ensure that the possible gains from devaluation were not lost and that the public sacrifices it imposed were not wasted.
+
+The statement also clarifies that C. Rajagopalachari's proposal for a “Government of all the talents” was mentioned incidentally during the conversation, not presented as the Swatantra Party's immediate position. Masani concludes by reaffirming the party's electoral objective: defeating the Congress government in the next year's general elections.
+
 ## Key points
 
 - Masani disputes inaccurate press reports about his June 22 meeting with the Prime Minister.

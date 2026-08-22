@@ -50,6 +50,10 @@ summary: |-
   This 29 September 1959 letter from Kamakhya Narain Singh of Ramgarh House, Patna, is addressed to M. R. Masani and encloses material from Singh’s 26 September press conference, including a press statement and answers to journalists’ questions. The surviving letter itself is brief and procedural: Singh asks Masani to read the enclosed material and offer comments.
 ---
 
+## Summary
+
+This 29 September 1959 letter from Kamakhya Narain Singh of Ramgarh House, Patna, is addressed to M. R. Masani and encloses material from Singh’s 26 September press conference, including a press statement and answers to journalists’ questions. The surviving letter itself is brief and procedural: Singh asks Masani to read the enclosed material and offer comments.
+
 ## Key points
 
 - Singh reports that he addressed a press conference on 26 September 1959.

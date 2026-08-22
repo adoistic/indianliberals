@@ -50,6 +50,12 @@ summary: |-
   The letter argues that, after unsuccessful experiences with both far-right and far-left governments, people may turn in the future toward the liberal principles shared by the two parties. It wishes Masani and N. G. Ranga success in establishing the Swatantra Party, calls for a close and direct relationship between the two parties, and asks Masani to convey the sender's respects to Ranga.
 ---
 
+## Summary
+
+This one-page letter, dated 28 October 1959 and issued from Tel Aviv on the letterhead of Israel's Progressive Party, is addressed to M. R. Masani regarding the creation of a Liberal Party in India. The unidentified sender, writing as Chairman of the Progressive Party in Israel, welcomes the expansion of liberalism into Asia and presents cooperation between the Israeli and Indian parties as an important political relationship.
+
+The letter argues that, after unsuccessful experiences with both far-right and far-left governments, people may turn in the future toward the liberal principles shared by the two parties. It wishes Masani and N. G. Ranga success in establishing the Swatantra Party, calls for a close and direct relationship between the two parties, and asks Masani to convey the sender's respects to Ranga.
+
 ## Key points
 
 - The letter is dated 28 October 1959 and was sent from the Progressive Party in Tel Aviv, Israel.

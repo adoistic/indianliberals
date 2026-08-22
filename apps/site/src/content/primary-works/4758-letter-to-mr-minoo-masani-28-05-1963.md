@@ -51,6 +51,12 @@ summary: |-
   The letter also treats Masani's success as a source of renewed strength for the Swatantra movement. Ranga expresses confidence in the movement's future, asks Masani to encourage friends to contribute to its maintenance and organisational work, and extends congratulations to other party colleagues and to Mrs Masani. The document is a personal political communication rather than a programmatic statement; the full two-page letter is visible here.
 ---
 
+## Summary
+
+This handwritten letter, dated 28 May 1963 and sent from Camp Rahmanpur on Swatantra Party President's Office letterhead, congratulates Minoo Masani on what N. G. Ranga calls his “well-deserved electoral triumph.” Ranga presents Masani's victory as evidence of his personal standing as well as the support of the political forces working behind him.
+
+The letter also treats Masani's success as a source of renewed strength for the Swatantra movement. Ranga expresses confidence in the movement's future, asks Masani to encourage friends to contribute to its maintenance and organisational work, and extends congratulations to other party colleagues and to Mrs Masani. The document is a personal political communication rather than a programmatic statement; the full two-page letter is visible here.
+
 ## Key points
 
 - N. G. Ranga congratulates Minoo Masani on a successful election.

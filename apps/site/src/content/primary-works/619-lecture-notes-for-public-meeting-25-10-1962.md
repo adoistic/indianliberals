@@ -58,6 +58,12 @@ summary: |-
   The central political argument distinguishes democratic unity from totalitarian unity. Democratic national unity, the notes maintain, must preserve individual freedom of expression, criticism, free thinking, discussion, a free press, and the continuing oppositional role of opposition parties. Support for a war effort is distinguished from unconditional support for government policy, with Britain in 1939 offered as an example. The later pages sharply criticize India’s handling of China, arguing for diplomatic relations with the Chinese Nationalist government and a strategy that would force Mao into a two-front war. The notes conclude that patriotic parties should reject policies and personnel held responsible for military weakness, while a handwritten annotation raises the issue of electoral support for Congress.
 ---
 
+## Summary
+
+These four rendered pages contain typed lecture notes for a public meeting at Cama Hall on October 25. The notes begin by cautioning that the speaker does not wish to prejudge the decisions of the COC and is offering personal views. They call for an effort to understand the Chinese offensive before deciding on a cure, presenting Berlin, Cuba, Vietnam, and NEFA as connected elements of a communist design for world domination. The notes also stress national unity, solidarity, discipline, and voluntary public cooperation against profiteering, hoarding, black-marketing, and other antisocial activities.
+
+The central political argument distinguishes democratic unity from totalitarian unity. Democratic national unity, the notes maintain, must preserve individual freedom of expression, criticism, free thinking, discussion, a free press, and the continuing oppositional role of opposition parties. Support for a war effort is distinguished from unconditional support for government policy, with Britain in 1939 offered as an example. The later pages sharply criticize India’s handling of China, arguing for diplomatic relations with the Chinese Nationalist government and a strategy that would force Mao into a two-front war. The notes conclude that patriotic parties should reject policies and personnel held responsible for military weakness, while a handwritten annotation raises the issue of electoral support for Congress.
+
 ## Key points
 
 - The notes frame the Chinese offensive as part of a wider communist strategy linking Berlin, Cuba, Vietnam, and NEFA.

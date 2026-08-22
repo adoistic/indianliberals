@@ -50,6 +50,12 @@ summary: |-
   The letter is a concise piece of party correspondence focused on coordinating attendance, public speaking, and delegate arrangements across the Maharashtra and Tamilnadu Swatantra Party organisations. No discussion of policy or political ideas appears on the rendered page.
 ---
 
+## Summary
+
+This one-page letter, dated 3 December 1974, is from Girish Munshi of the Maharashtra Swatantra Party to Minoo Masani. Munshi informs Masani that the party's General Council meeting will be held in Madras on 8 December and notes that Masani is expected to address a public meeting there on 12 December. He asks Masani to attend the General Council meeting as a delegate and requests an early confirmation so that Maharashtra's delegates can be registered.
+
+The letter is a concise piece of party correspondence focused on coordinating attendance, public speaking, and delegate arrangements across the Maharashtra and Tamilnadu Swatantra Party organisations. No discussion of policy or political ideas appears on the rendered page.
+
 ## Key points
 
 - The letter is dated 3 December 1974 and is sent from the Maharashtra Swatantra Party office in Bombay.

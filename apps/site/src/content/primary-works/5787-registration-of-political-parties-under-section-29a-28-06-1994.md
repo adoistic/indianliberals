@@ -55,6 +55,12 @@ summary: |-
   The letter focuses on the statutory requirement that a political party affirm allegiance to the Constitution and to the principles of socialism, secularism, and democracy. The Maharashtra unit states that it supports secularism and democracy but is expressly opposed to socialism, which it describes as contrary to its political purpose. It asks the Election Commission whether registration can be granted if the party rejects the “socialism” component of Section 29A(5). The remaining pages document the registered-post transmission and delivery of the letter.
 ---
 
+## Summary
+
+This six-page document is a June 28, 1994 letter from the Swatantra Party—Maharashtra to the Secretary of the Election Commission of India concerning registration under Section 29A of the Representation of the People Act, 1951. Signed by party president J. Venkiteswaran, it follows earlier correspondence from 1989 and responds to the Commission's request for an application, organisational particulars, party rules, and a constitutional provision satisfying Section 29A(5).
+
+The letter focuses on the statutory requirement that a political party affirm allegiance to the Constitution and to the principles of socialism, secularism, and democracy. The Maharashtra unit states that it supports secularism and democracy but is expressly opposed to socialism, which it describes as contrary to its political purpose. It asks the Election Commission whether registration can be granted if the party rejects the “socialism” component of Section 29A(5). The remaining pages document the registered-post transmission and delivery of the letter.
+
 ## Key points
 
 - The document is dated June 28, 1994, and is addressed to the Election Commission of India in New Delhi.

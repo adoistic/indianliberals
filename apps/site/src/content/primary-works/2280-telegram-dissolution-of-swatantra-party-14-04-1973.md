@@ -51,6 +51,10 @@ summary: |-
   This one-page English telegram, issued under the Swatantra Party president's identification, requests an injunction against holding the party's Seventh National Convention. It asks that consideration of the proposed dissolution of the Swatantra Party be postponed pending the court's decision.
 ---
 
+## Summary
+
+This one-page English telegram, issued under the Swatantra Party president's identification, requests an injunction against holding the party's Seventh National Convention. It asks that consideration of the proposed dissolution of the Swatantra Party be postponed pending the court's decision.
+
 ## Key points
 
 - The communication concerns the proposed dissolution of the Swatantra Party.

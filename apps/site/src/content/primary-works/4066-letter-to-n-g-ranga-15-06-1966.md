@@ -47,6 +47,10 @@ summary: |-
   This one-page English telegram confirmation, dated 15 June 1966, is sent from Prof. N. G. Ranga in Kuppam, Chittoor District, Andhra, to M. R. Masani of the Swatantra Party in Bombay. It states that the Prime Minister has fixed a meeting for 5 p.m. on the 22nd, as requested by the two correspondents, and confirms that both will meet her.
 ---
 
+## Summary
+
+This one-page English telegram confirmation, dated 15 June 1966, is sent from Prof. N. G. Ranga in Kuppam, Chittoor District, Andhra, to M. R. Masani of the Swatantra Party in Bombay. It states that the Prime Minister has fixed a meeting for 5 p.m. on the 22nd, as requested by the two correspondents, and confirms that both will meet her.
+
 ## Key points
 
 - The document is a telegram or confirmation copy, although it is catalogued provisionally as a letter.

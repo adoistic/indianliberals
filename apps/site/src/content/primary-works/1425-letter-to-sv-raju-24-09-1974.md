@@ -46,6 +46,10 @@ summary: |-
   This handwritten letter, dated 24 September 1974, is addressed to S. V. Raju at the Indian Liberal Group in Bombay. The writer acknowledges receiving Raju’s letter and pamphlet and says that he has read them. The writer asks Raju to provide the latest position of “the Party” and to explain how his services might be used in Uttar Pradesh and North Bihar. The exchange therefore concerns the writer’s possible political or organisational involvement, but the letter does not identify the party or elaborate on the pamphlet’s contents. The surviving item also includes the inland-letter-card address panel and postal details.
 ---
 
+## Summary
+
+This handwritten letter, dated 24 September 1974, is addressed to S. V. Raju at the Indian Liberal Group in Bombay. The writer acknowledges receiving Raju’s letter and pamphlet and says that he has read them. The writer asks Raju to provide the latest position of “the Party” and to explain how his services might be used in Uttar Pradesh and North Bihar. The exchange therefore concerns the writer’s possible political or organisational involvement, but the letter does not identify the party or elaborate on the pamphlet’s contents. The surviving item also includes the inland-letter-card address panel and postal details.
+
 ## Key points
 
 - The letter is dated 24 September 1974 and addressed to S. V. Raju in Bombay. The writer acknowledges receiving Raju’s letter and pamphlet. The writer says he has gone through the pamphlet. He asks for the latest position of “the Party.” He asks how his services can be utilised in Uttar Pradesh and North Bihar.

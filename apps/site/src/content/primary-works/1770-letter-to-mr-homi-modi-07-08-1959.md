@@ -45,6 +45,10 @@ summary: |-
   This handwritten letter from Ruttonchund Master to Homi Modi, dated 7 August 1959, refers to a weekly letter sent on 3 August that enclosed Dr. Radhakrishnan’s report on the newly formed Swatantra Party. Master states that the report placed the Swatantra Party first and second on 1 and 2 August, although the precise context of these rankings is not clear from the page.
 ---
 
+## Summary
+
+This handwritten letter from Ruttonchund Master to Homi Modi, dated 7 August 1959, refers to a weekly letter sent on 3 August that enclosed Dr. Radhakrishnan’s report on the newly formed Swatantra Party. Master states that the report placed the Swatantra Party first and second on 1 and 2 August, although the precise context of these rankings is not clear from the page.
+
 ## Key points
 
 - The letter is dated 7 August 1959 and is written from Bombay.

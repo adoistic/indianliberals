@@ -50,6 +50,12 @@ summary: |-
   The letter asks what lies ahead for former Swatantra Party members and suggests that Shri Masani may have plans for a new political organisation. It closes by asking Raju to share any information he has and sends regards to Masani and Raju. The sender’s signature appears to read “M. Masani,” though the initials are not fully certain.
 ---
 
+## Summary
+
+This one-page handwritten personal letter, dated 4 May 1977 and addressed to S. V. Raju, discusses the intensifying election atmosphere and the political future of former Swatantra Party figures. The writer notes that “The election drums have started to beat” and predicts that the Janata movement will win.
+
+The letter asks what lies ahead for former Swatantra Party members and suggests that Shri Masani may have plans for a new political organisation. It closes by asking Raju to share any information he has and sends regards to Masani and Raju. The sender’s signature appears to read “M. Masani,” though the initials are not fully certain.
+
 ## Key points
 
 - The letter is dated 4 May 1977 and is addressed to S. V. Raju.

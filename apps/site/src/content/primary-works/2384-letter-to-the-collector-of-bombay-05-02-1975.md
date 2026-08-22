@@ -49,6 +49,10 @@ summary: |-
   In this letter dated 5 February 1975, S. V. Raju responds to the Collector of Bombay regarding four vehicles formerly associated with the Swatantra Party. He explains that, although the vehicles may have been registered in the name of M. R. Masani during his tenure as the party’s General Secretary and later President, they were, to the best of his recollection, sold by the party.
 ---
 
+## Summary
+
+In this letter dated 5 February 1975, S. V. Raju responds to the Collector of Bombay regarding four vehicles formerly associated with the Swatantra Party. He explains that, although the vehicles may have been registered in the name of M. R. Masani during his tenure as the party’s General Secretary and later President, they were, to the best of his recollection, sold by the party.
+
 ## Key points
 
 - The letter replies to the Collector’s correspondence of 27 November concerning four vehicles.

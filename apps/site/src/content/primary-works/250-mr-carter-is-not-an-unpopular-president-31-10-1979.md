@@ -50,6 +50,12 @@ summary: |-
   The article examines the pressures facing the Carter administration, including energy shortages, welfare, Panama, the Middle East, inflation, national security, party divisions, Congressional assertiveness, and foreign-policy uncertainty. It also discusses Carter's strained relations with different constituencies, including organised labour, minorities, conservative Democrats, and Washington insiders. Jenkins concludes that Carter's difficulties arise less from a lack of popular approval than from the perception that he is not equal to the demands of the presidency.
 ---
 
+## Summary
+
+Peter Jenkins argues that Jimmy Carter's central political problem is not personal unpopularity but widespread doubt about his competence and capacity to govern. The article contrasts Carter with Gerald Ford and Richard Nixon, suggesting that Carter inherited a difficult political and economic situation but has failed to inspire confidence or provide clear leadership. Polling, commentary from political observers, and Carter's own record are presented as evidence of a presidency marked by pessimism, drift, and weak public communication.
+
+The article examines the pressures facing the Carter administration, including energy shortages, welfare, Panama, the Middle East, inflation, national security, party divisions, Congressional assertiveness, and foreign-policy uncertainty. It also discusses Carter's strained relations with different constituencies, including organised labour, minorities, conservative Democrats, and Washington insiders. Jenkins concludes that Carter's difficulties arise less from a lack of popular approval than from the perception that he is not equal to the demands of the presidency.
+
 ## Key points
 
 - The article distinguishes between presidential popularity and public confidence in a president's ability to do the job.

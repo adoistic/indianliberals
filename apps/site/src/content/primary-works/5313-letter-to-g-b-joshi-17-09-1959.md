@@ -43,6 +43,10 @@ summary: |-
   This single-page English letter, dated 17 September 1959, is addressed to Mr. C. B. Joshi, Hon. Secretary and Development Officer of the North Gujarat Development Board in Ahmedabad. The writer, signing as Secretary to Mr. M. R. Masani, acknowledges Joshi’s letter of 21 August and its enclosure, thanks him for material made available to Masani, and explains that Masani is currently abroad and expected to return around 6 October.
 ---
 
+## Summary
+
+This single-page English letter, dated 17 September 1959, is addressed to Mr. C. B. Joshi, Hon. Secretary and Development Officer of the North Gujarat Development Board in Ahmedabad. The writer, signing as Secretary to Mr. M. R. Masani, acknowledges Joshi’s letter of 21 August and its enclosure, thanks him for material made available to Masani, and explains that Masani is currently abroad and expected to return around 6 October.
+
 ## Key points
 
 - The letter is dated 17 September 1959.

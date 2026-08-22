@@ -49,6 +49,10 @@ summary: |-
   This untitled personal letter, dated 29 April 1964 and addressed to Prime Minister Lal Bahadur Shastri, presents C. Rajagopalachari’s view of the Kashmir question. Rajagopalachari agrees with Jawaharlal Nehru that anti-India feeling among Pakistani leaders is deep, but argues that India should consider granting Kashmir autonomous status rather than appearing to have taken the territory for itself. He rejects the concern that autonomy would turn Kashmir into a site of international conspiracy, contending that neither the United States nor Britain is seeking territorial acquisitions and that autonomy would not necessarily produce a hostile state.
 ---
 
+## Summary
+
+This untitled personal letter, dated 29 April 1964 and addressed to Prime Minister Lal Bahadur Shastri, presents C. Rajagopalachari’s view of the Kashmir question. Rajagopalachari agrees with Jawaharlal Nehru that anti-India feeling among Pakistani leaders is deep, but argues that India should consider granting Kashmir autonomous status rather than appearing to have taken the territory for itself. He rejects the concern that autonomy would turn Kashmir into a site of international conspiracy, contending that neither the United States nor Britain is seeking territorial acquisitions and that autonomy would not necessarily produce a hostile state.
+
 ## Key points
 
 - The letter treats the Kashmir dispute as a problem of Indo-Pakistani jealousy and international perception.

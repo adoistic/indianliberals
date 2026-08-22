@@ -51,6 +51,12 @@ summary: |-
   The circular directs members to vote against Shri Rabi Ray’s resolution concerning the abolition of the privy purses and privileges of former rulers. It also instructs them to oppose any substitute motion, including one associated with a Congress member. The notice is signed by Y. G. Gowd, identified as Chief Whip, and I. N. Patodia, identified as Secretary.
 ---
 
+## Summary
+
+“THREE LINE WHIP” is a one-page internal circular issued by the Swatantra Party Parliamentary Office in New Delhi on July 31, 1969. It instructs party members to attend the House from 3:30 p.m. on Friday, August 1, 1969, for a parliamentary vote.
+
+The circular directs members to vote against Shri Rabi Ray’s resolution concerning the abolition of the privy purses and privileges of former rulers. It also instructs them to oppose any substitute motion, including one associated with a Congress member. The notice is signed by Y. G. Gowd, identified as Chief Whip, and I. N. Patodia, identified as Secretary.
+
 ## Key points
 
 - The document is an internal Swatantra Party parliamentary whip notice.

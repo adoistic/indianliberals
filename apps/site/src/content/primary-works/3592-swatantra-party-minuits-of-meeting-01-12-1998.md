@@ -52,6 +52,12 @@ summary: |-
   The minutes commend Venkiteswaran's service to the party, especially his efforts to protect the party's premises and manage its income and liabilities. The central business was succession: the committee unanimously nominated S. V. Raju as president of the Swatantra Party, Maharashtra, in Venkiteswaran's place, with immediate effect. The meeting ended with a vote of thanks to the chair.
 ---
 
+## Summary
+
+This three-page English memorandum records the special meeting of the Swatantra Party's Maharashtra Executive Committee held on December 1, 1998, at the party office at 143 Mahatma Gandhi Road, Mumbai. It lists six attendees, with S. Ramachandran in the chair, and notes the death of J. Venkiteswaran, then president of the Swatantra Party, Maharashtra, on October 31, 1998. The committee observed a minute's silence and formally expressed condolences to his wife and family.
+
+The minutes commend Venkiteswaran's service to the party, especially his efforts to protect the party's premises and manage its income and liabilities. The central business was succession: the committee unanimously nominated S. V. Raju as president of the Swatantra Party, Maharashtra, in Venkiteswaran's place, with immediate effect. The meeting ended with a vote of thanks to the chair.
+
 ## Key points
 
 - The Executive Committee meeting took place on December 1, 1998, at the Swatantra Party office in Mumbai.

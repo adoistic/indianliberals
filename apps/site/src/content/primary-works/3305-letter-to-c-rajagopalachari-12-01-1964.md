@@ -51,6 +51,12 @@ summary: |-
   Munshi also reports that he has spoken with the Raja of Maksudpur and made his position clear. He argues that Ramgarh must first honour earlier assurances and make it possible for Munshi and his associates to respond; otherwise, he warns, further complications will arise. The letter is confined to this correspondence and dispute, with copies sent to N.G. Ranga and M.R. Masani.
 ---
 
+## Summary
+
+In this personal and confidential letter dated January 12, 1964, K. M. Munshi tells C. Rajagopalachari that declining health prevents him from travelling to Bangalore. He then sets out his position on the Ramgarh affair, endorsing M.R. Masani’s note and opposing further discussion with Ramgarh, whose obstructive stance Munshi believes would lead to prolonged litigation.
+
+Munshi also reports that he has spoken with the Raja of Maksudpur and made his position clear. He argues that Ramgarh must first honour earlier assurances and make it possible for Munshi and his associates to respond; otherwise, he warns, further complications will arise. The letter is confined to this correspondence and dispute, with copies sent to N.G. Ranga and M.R. Masani.
+
 ## Key points
 
 - Munshi writes to C. Rajagopalachari from Bharatiya Vidya Bhavan on January 12, 1964.

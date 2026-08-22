@@ -49,6 +49,12 @@ summary: |-
   Vaish presents the episode as evidence of unfair and opaque party conduct. He describes allegations that he was a Communist and had worked against the party, disputes the conduct of H. M. Patel and Bhaikaka, and recounts that Mr. Nathuwasingji Solanki was allegedly working for U. N. Mahida. He closes by telling Masani that Mahida had already filed his nomination before the Central Parliamentary Board and that no action had been taken by election day.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 31 March 1968 and addressed to Minoo Masani, reports an internal dispute within the Swatantra Party. Babubhai P. Vaish explains that Bhaikaka had asked him to pay Rs. 3,000 to the party fund, and that he subsequently learned of opposition to his candidacy and what he describes as a secret campaign against him. He says he sought an opportunity to answer the allegations but was not given one, including at a Swatantra Party meeting in Ahmedabad.
+
+Vaish presents the episode as evidence of unfair and opaque party conduct. He describes allegations that he was a Communist and had worked against the party, disputes the conduct of H. M. Patel and Bhaikaka, and recounts that Mr. Nathuwasingji Solanki was allegedly working for U. N. Mahida. He closes by telling Masani that Mahida had already filed his nomination before the Central Parliamentary Board and that no action had been taken by election day.
+
 ## Key points
 
 - The letter is dated 31 March 1968 and is addressed to Minoo Masani from Rajkot.

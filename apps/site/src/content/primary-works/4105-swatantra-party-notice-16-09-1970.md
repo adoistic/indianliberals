@@ -53,6 +53,14 @@ summary: |-
   Pages 4–6 attach two proposals for Shibirs. J. Venkiteswaran reports that a two-day workers’ Shibir could be held at Naranji Samji Wadi at Kings Circle for approximately Rs. 3,000–3,500, while the Mahim Unit, in a proposal signed by Shafi Pirzada, offers to host a one-day Shibir for about 200 delegates at the Shivaji Park Scout and Guide Hall. The latter proposal combines training or party activity with an evening public meeting intended to attract residents of an area where the party says it has no existing base.
 ---
 
+## Summary
+
+This six-page English-language bundle from the Swatantra Party’s Bombay Region records internal party administration in September 1970. The first page is a notice, dated 16 September, calling an Executive Committee meeting for 23 September and listing confirmation of earlier minutes, matters arising, proposals for a party “Shibir” from the Matunga and Mahim units, and other business.
+
+Pages 2–3 contain draft minutes of the Executive Committee meeting held on 9 September. They record preparations for the Party’s National Convention, provisionally scheduled for 30–31 January 1971, including venue discussions, projected collections and expenses, souvenir publication, and fundraising. The minutes also discuss a Fundamental Rights campaign involving a separate leaflet and a proposed signature drive, competing proposals for a workers’ Shibir, and plans to expand the Ladies Committee through fortnightly unit meetings and new units at Bandra and Worli.
+
+Pages 4–6 attach two proposals for Shibirs. J. Venkiteswaran reports that a two-day workers’ Shibir could be held at Naranji Samji Wadi at Kings Circle for approximately Rs. 3,000–3,500, while the Mahim Unit, in a proposal signed by Shafi Pirzada, offers to host a one-day Shibir for about 200 delegates at the Shivaji Park Scout and Guide Hall. The latter proposal combines training or party activity with an evening public meeting intended to attract residents of an area where the party says it has no existing base.
+
 ## Key points
 
 - The Bombay Region Executive Committee was summoned to meet on 23 September 1970.

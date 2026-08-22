@@ -49,6 +49,12 @@ summary: |-
   The letter also addresses a proposed no-confidence motion. Masani says that the Parliamentary Board meeting is intended primarily to provide guidance and cautions against making commitments before the issue has been discussed. He notes that several members oppose joining such a motion altogether. In a separate matter, he reports that he is preparing minutes of the dissent concerning the Gold Control Bill and will send Patel a draft for comment.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to Dahyabhai V. Patel, dated August 25, 1964, concerns Masani’s travel to Delhi and his participation in forthcoming meetings. Masani explains that he can arrive only on the morning of Sunday, September 6, and therefore may be limited in his ability to attend the day’s meetings.
+
+The letter also addresses a proposed no-confidence motion. Masani says that the Parliamentary Board meeting is intended primarily to provide guidance and cautions against making commitments before the issue has been discussed. He notes that several members oppose joining such a motion altogether. In a separate matter, he reports that he is preparing minutes of the dissent concerning the Gold Control Bill and will send Patel a draft for comment.
+
 ## Key points
 
 - Masani writes to Dahyabhai V. Patel on August 25, 1964.

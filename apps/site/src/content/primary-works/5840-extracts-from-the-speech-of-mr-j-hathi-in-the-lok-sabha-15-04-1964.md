@@ -52,6 +52,12 @@ summary: |-
   The exchange also addresses letters concerning Mr. Dange. Hathi rejects the suggestion that the government avoided examining them because Home Minister Mr. Nanda was friendly with Dange. He says the letters were retrieved from the National Archives and made available for inspection by Members of Parliament or others through the Home Secretary’s room, but declines to have them formally examined. The extract presents a sharp parliamentary tension between executive responsibility, legal interpretation, procedural transparency, and the limits of state power over publications.
 ---
 
+## Summary
+
+This two-page extract records Mr. J. Hathi’s response in the Lok Sabha on 15 April 1964 to M. R. Masani’s questions about the banning of a book. Hathi accepts ministerial responsibility for the order, even while acknowledging that he had only encountered the book the previous day and had not read it fully. He argues that the book falls within the Defence of India Act, 1962, specifically the definition of “prejudicial reports” in clause (7) of rule 35, while Masani challenges the adequacy of making such a determination without reading the book.
+
+The exchange also addresses letters concerning Mr. Dange. Hathi rejects the suggestion that the government avoided examining them because Home Minister Mr. Nanda was friendly with Dange. He says the letters were retrieved from the National Archives and made available for inspection by Members of Parliament or others through the Home Secretary’s room, but declines to have them formally examined. The extract presents a sharp parliamentary tension between executive responsibility, legal interpretation, procedural transparency, and the limits of state power over publications.
+
 ## Key points
 
 - Hathi identifies himself as responsible for the government’s order banning the book.

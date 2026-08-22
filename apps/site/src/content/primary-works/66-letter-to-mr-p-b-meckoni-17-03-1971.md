@@ -51,6 +51,12 @@ summary: |-
   Masani says he is arranging the necessary meetings for this purpose and closes by thanking Meckoni for his kind words and loyalty. The single surviving page offers a brief glimpse of political uncertainty, intra-liberal reflection, and efforts to regroup, but does not identify the specific developments or the meetings mentioned.
 ---
 
+## Summary
+
+In this letter dated 17 March 1971, M. R. Masani responds to Mr. P. B. Meckoni’s note and acknowledges that recent political developments have been discouraging. Masani urges Meckoni not to be overly depressed, arguing that such events must be faced with composure and that the moment calls for a serious reassessment of the principles they represent.
+
+Masani says he is arranging the necessary meetings for this purpose and closes by thanking Meckoni for his kind words and loyalty. The single surviving page offers a brief glimpse of political uncertainty, intra-liberal reflection, and efforts to regroup, but does not identify the specific developments or the meetings mentioned.
+
 ## Key points
 
 - Masani replies to a note from Meckoni dated the 15th.

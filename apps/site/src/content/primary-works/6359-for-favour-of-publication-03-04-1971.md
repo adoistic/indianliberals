@@ -53,6 +53,10 @@ summary: |-
   This three-page Swatantra Party headquarters communication, dated Bombay, April 3, announces that M. R. Masani has resigned as president of the party. The accompanying publication note presents the resignation as an application of a general principle of administration: when a country, army, business, or political organisation suffers a disaster, its leader should accept responsibility and make way for someone with fresh ideas and an open mind. It also says that Masani regarded the party’s present plight as the cumulative result of shortcomings and mistakes for which, as president, he shared responsibility.
 ---
 
+## Summary
+
+This three-page Swatantra Party headquarters communication, dated Bombay, April 3, announces that M. R. Masani has resigned as president of the party. The accompanying publication note presents the resignation as an application of a general principle of administration: when a country, army, business, or political organisation suffers a disaster, its leader should accept responsibility and make way for someone with fresh ideas and an open mind. It also says that Masani regarded the party’s present plight as the cumulative result of shortcomings and mistakes for which, as president, he shared responsibility.
+
 ## Key points
 
 - The Swatantra Party announces M. R. Masani’s resignation as party president.

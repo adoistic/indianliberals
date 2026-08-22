@@ -50,6 +50,12 @@ summary: |-
   Masani stated that, having declined re-election to the executive, he would consider how best to serve the party. He described the task as appealing to members who believed in ethical and disciplinary methods, and warned that internal demoralisation needed to be removed. He also linked the party’s recent electoral reverses in Haryana, Rajasthan, and Gujarat to the need for organizational renewal.
 ---
 
+## Summary
+
+This Indian Express report from Madras records M. R. Masani’s unhappiness with decisions taken by the Swatantra Party’s National Executive and General Council. Masani argued that restoring discipline in the Gujarat unit would not strengthen the party and might instead damage it. He said the executive’s decision reflected a short-term expediency and followed the rejection of two resolutions he had supported.
+
+Masani stated that, having declined re-election to the executive, he would consider how best to serve the party. He described the task as appealing to members who believed in ethical and disciplinary methods, and warned that internal demoralisation needed to be removed. He also linked the party’s recent electoral reverses in Haryana, Rajasthan, and Gujarat to the need for organizational renewal.
+
 ## Key points
 
 - M. R. Masani criticized the Swatantra Party’s decision to restore discipline in its Gujarat unit.

@@ -51,6 +51,12 @@ summary: |-
   Shah proposes a meeting of the Swatantra Party’s remaining General Council members to announce the party’s continuation, declare the Delhi Convention resolution unconstitutional, and elect a small National Executive. He rejects the idea that a party name is legally protected like a trademark, and cites precedents involving divided political parties to support continued use of the Swatantra name. The letter frames the party’s survival as politically valuable even if its immediate strength is weak, presenting it as a future focal point for opposition and insisting that its name, flag, principles, and programme be preserved.
 ---
 
+## Summary
+
+This five-page handwritten letter, dated 4 September 1974, is addressed by Sumatilal P. Shah to S. V. Raju about Raju’s article in Freedom First on the Delhi Convention of the Swatantra Party. Shah praises the article as a historically important defence of the party and urges Raju to act promptly in response to the convention’s decision to dissolve the party. He argues that the Madras court’s ruling—that dissolution could not occur without a constitutional provision authorising it—and the Bharatiya Kranti Dal’s subsequent renaming of one faction as the Bharatiya Lok Dal create grounds for asserting the Swatantra Party’s continued existence.
+
+Shah proposes a meeting of the Swatantra Party’s remaining General Council members to announce the party’s continuation, declare the Delhi Convention resolution unconstitutional, and elect a small National Executive. He rejects the idea that a party name is legally protected like a trademark, and cites precedents involving divided political parties to support continued use of the Swatantra name. The letter frames the party’s survival as politically valuable even if its immediate strength is weak, presenting it as a future focal point for opposition and insisting that its name, flag, principles, and programme be preserved.
+
 ## Key points
 
 - Shah congratulates S. V. Raju for documenting the Delhi Convention and opposing the proposed dissolution of the Swatantra Party.

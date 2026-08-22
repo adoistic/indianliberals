@@ -58,6 +58,12 @@ summary: |-
   The minutes record preparations for biennial Rajya Sabha elections in Gujarat, Andhra, Orissa, and Rajasthan, including candidate nominations, preference voting, and negotiations with Jana Sangh and Congress legislators. The Board also considered an autonomous quasi-judicial board for permits and licences, criticized statements by Indira Gandhi and R. K. Khadilkar attacking the judiciary, opposed the Orissa Preventive Detention Ordinance, discussed a Kerala by-election, and required Members of Parliament to submit monthly constituency reports. The document ends with the termination of the meeting; no material beyond these five pages is missing.
 ---
 
+## Summary
+
+These five pages reproduce the draft minutes of the Swatantra Party's Central Parliamentary Board meeting held in Bombay on February 17, 1970. The Board confirmed earlier minutes, discussed Jaideepsinhji's absence, and addressed poor attendance, indiscipline, contradictory parliamentary statements, and the need to appoint an acting Chief Whip while Y. G. Gowd recovered from a heart attack. It also adopted restrictions on party legislators attending, addressing, or issuing joint statements with other parties without prior approval.
+
+The minutes record preparations for biennial Rajya Sabha elections in Gujarat, Andhra, Orissa, and Rajasthan, including candidate nominations, preference voting, and negotiations with Jana Sangh and Congress legislators. The Board also considered an autonomous quasi-judicial board for permits and licences, criticized statements by Indira Gandhi and R. K. Khadilkar attacking the judiciary, opposed the Orissa Preventive Detention Ordinance, discussed a Kerala by-election, and required Members of Parliament to submit monthly constituency reports. The document ends with the termination of the meeting; no material beyond these five pages is missing.
+
 ## Key points
 
 - The minutes document the Central Parliamentary Board's February 17, 1970 meeting in Bombay.

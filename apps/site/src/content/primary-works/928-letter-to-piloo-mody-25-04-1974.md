@@ -52,6 +52,10 @@ summary: |-
   In this letter dated 25 April 1974, S. Gopalakrishnan urges Piloo Mody to resist merging the Swatantra Party with opposition parties whose records and conduct, he argues, make them unworthy partners. He rejects personal attachment to party, flag, or name, but insists that any political action must serve the public interest and remain consistent with Swatantra's objectives. The letter specifically warns against association with what he describes as an undisciplined and corrupt political leadership.
 ---
 
+## Summary
+
+In this letter dated 25 April 1974, S. Gopalakrishnan urges Piloo Mody to resist merging the Swatantra Party with opposition parties whose records and conduct, he argues, make them unworthy partners. He rejects personal attachment to party, flag, or name, but insists that any political action must serve the public interest and remain consistent with Swatantra's objectives. The letter specifically warns against association with what he describes as an undisciplined and corrupt political leadership.
+
 ## Key points
 
 - Gopalakrishnan opposes a proposed merger of the Swatantra Party with other opposition parties.

@@ -52,6 +52,12 @@ summary: |-
   In the rendered page, the commentary treats the party’s internal defections as the more significant issue. It notes that the national executive expelled seven legislators in Gujarat, sixteen in Rajasthan, and others elsewhere for defecting to rival parties. The piece presents the Swatantra Party as a loose alliance of varied interests, lacking a clear basis for membership and vulnerable to continued internal factionalism; it concludes that this instability will prevent it from overcoming its current problems.
 ---
 
+## Summary
+
+In the rendered page, this commentary argues that the Swatantra Party’s decision to leave the Samyukta Vidhayak Dal and remain neutral in the conflict between that group and the Congress Legislature Party has little practical significance. The party is described as having only seven members in the state assembly, not all of whom may follow its whip.
+
+In the rendered page, the commentary treats the party’s internal defections as the more significant issue. It notes that the national executive expelled seven legislators in Gujarat, sixteen in Rajasthan, and others elsewhere for defecting to rival parties. The piece presents the Swatantra Party as a loose alliance of varied interests, lacking a clear basis for membership and vulnerable to continued internal factionalism; it concludes that this instability will prevent it from overcoming its current problems.
+
 ## Key points
 
 - The Swatantra Party’s withdrawal from the Samyukta Vidhayak Dal is presented as politically insignificant.

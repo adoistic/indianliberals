@@ -52,6 +52,10 @@ summary: |-
   In this signed political commentary, “INSIDER” attacks what it presents as Minoo Masani’s sudden rapprochement with Marxist and communist forces during the 1970–71 electoral period. The article argues that Masani’s earlier warnings about efforts to “wreck the Constitution” sit uneasily beside the Swatantra Party’s willingness to form electoral pacts with the Congress (Organisation), the Communist Party of India, the Communist Party of India (Marxist), and other groups. It recalls Masani’s criticism of the CPM and his party’s earlier calls for bans on the CPI and CPM, contrasting that record with his later electoral strategy.
 ---
 
+## Summary
+
+In this signed political commentary, “INSIDER” attacks what it presents as Minoo Masani’s sudden rapprochement with Marxist and communist forces during the 1970–71 electoral period. The article argues that Masani’s earlier warnings about efforts to “wreck the Constitution” sit uneasily beside the Swatantra Party’s willingness to form electoral pacts with the Congress (Organisation), the Communist Party of India, the Communist Party of India (Marxist), and other groups. It recalls Masani’s criticism of the CPM and his party’s earlier calls for bans on the CPI and CPM, contrasting that record with his later electoral strategy.
+
 ## Key points
 
 - The article questions Masani’s reported change from opposing Marxist parties to seeking electoral cooperation with them.

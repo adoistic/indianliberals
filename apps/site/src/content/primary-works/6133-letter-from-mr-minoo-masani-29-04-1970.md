@@ -47,6 +47,10 @@ summary: |-
   In this letter dated 29 April 1970, Minoo Masani thanks Jayanthbhai Bhatt, General Secretary of the Ahmedabad City Swatantra Party, for his letter and for the Ahmedabad City Committee's support for the position taken by the Swatantra Party's National Executive. Masani says he was encouraged that almost all members of the committee agreed with that position.
 ---
 
+## Summary
+
+In this letter dated 29 April 1970, Minoo Masani thanks Jayanthbhai Bhatt, General Secretary of the Ahmedabad City Swatantra Party, for his letter and for the Ahmedabad City Committee's support for the position taken by the Swatantra Party's National Executive. Masani says he was encouraged that almost all members of the committee agreed with that position.
+
 ## Key points
 
 - Minoo Masani wrote from New Delhi on 29 April 1970.

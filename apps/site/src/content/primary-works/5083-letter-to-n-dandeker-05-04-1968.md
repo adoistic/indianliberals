@@ -51,6 +51,12 @@ summary: |-
   The letter asks the party to take an appropriate decision so that it can close its ranks and resume united work under the leadership of its respected leaders. It is a brief intervention focused on internal party organisation and leadership during a period of political disruption.
 ---
 
+## Summary
+
+This single-page English letter, dated 5 April 1968, is from Sri T. Krishnamma Choudary of Chandramoul inagar, Guntur-2, Andhra Pradesh, to N. Dandeker, M.P., General Secretary of the Swatantra Party. Choudary requests an emergency meeting of the party’s General Council to address Minoo Masani’s resignation from the National Executive and Central Parliamentary Board.
+
+The letter asks the party to take an appropriate decision so that it can close its ranks and resume united work under the leadership of its respected leaders. It is a brief intervention focused on internal party organisation and leadership during a period of political disruption.
+
 ## Key points
 
 - The letter is dated 5 April 1968 and was sent from Guntur-2, Andhra Pradesh.

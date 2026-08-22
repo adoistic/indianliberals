@@ -43,6 +43,10 @@ summary: |-
   This untitled letter, dated October 6, 1967, is M. R. Masani’s reply to Balram Tandon, Assistant Editor of The Hindustan Times. Masani thanks Tandon for his September 24 letter and apologises for being unable to provide the requested contribution.
 ---
 
+## Summary
+
+This untitled letter, dated October 6, 1967, is M. R. Masani’s reply to Balram Tandon, Assistant Editor of The Hindustan Times. Masani thanks Tandon for his September 24 letter and apologises for being unable to provide the requested contribution.
+
 ## Key points
 
 - The letter is dated October 6, 1967.

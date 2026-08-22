@@ -51,6 +51,12 @@ summary: |-
   The agenda covers confirmation of the minutes of the previous meeting, party programmes, forthcoming municipal elections, and any other matter permitted by the Chairman. The notice is signed by P. Narayan, identified as Office Secretary.
 ---
 
+## Summary
+
+This one-page English office notice, issued by the Swatantra Party, Bombay Region, on 1 November 1972, announces a meeting of the party's Executive Committee. The meeting was scheduled for Monday, 13 November 1972, at 6.15 p.m. at the party office at Sassoon Building, 143 Mahatma Gandhi Road, Bombay 1.
+
+The agenda covers confirmation of the minutes of the previous meeting, party programmes, forthcoming municipal elections, and any other matter permitted by the Chairman. The notice is signed by P. Narayan, identified as Office Secretary.
+
 ## Key points
 
 - The document is a Swatantra Party, Bombay Region, meeting notice dated 1 November 1972.

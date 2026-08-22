@@ -54,6 +54,12 @@ summary: |-
   The proposed arrangement was to create a common minimum programme and field agreed candidates against the ruling Congress. Minoo Masani said the Swatantra Party would not form an alliance with Communist parties, while defending the front against criticism that it abandoned the political scheme agreed by the Swatantra Party, Old Congress, and Jana Sangh. The report also records Masani’s support for coalition government, citing West Germany as a model, and his criticism of election-broadcasting rules that would require unanimous agreement among political parties.
 ---
 
+## Summary
+
+This Indian Express report, dated 9 January 1971, describes the Swatantra Party National Executive’s unanimous decision to join an electoral front led by the Old Congress. The decision followed what the party characterized as the failure of efforts to create a broader democratic alliance around a common programme based on the All India Congress Committee resolution of 28 June 1970. The report says the executive acted in light of the approaching general election, the perceived danger to vital national interests, and Congress president S. Nijalingappa’s assurance that Communist parties would not be permitted to associate with the front.
+
+The proposed arrangement was to create a common minimum programme and field agreed candidates against the ruling Congress. Minoo Masani said the Swatantra Party would not form an alliance with Communist parties, while defending the front against criticism that it abandoned the political scheme agreed by the Swatantra Party, Old Congress, and Jana Sangh. The report also records Masani’s support for coalition government, citing West Germany as a model, and his criticism of election-broadcasting rules that would require unanimous agreement among political parties.
+
 ## Key points
 
 - The Swatantra Party National Executive unanimously decided to join an electoral front led by the Old Congress.

@@ -49,6 +49,10 @@ summary: |-
   The Hindustan Times report, datelined New Delhi, January 4, describes efforts by the Congress (O), Jan Sangh and Swatantra Party to coordinate their candidates for the Lok Sabha election. The parties agreed to prepare common lists and avoid contesting against one another where possible, with a proposed co-ordinating committee to address disagreements. The report says the arrangement was based on an AICC resolution passed in June and notes that the parties were attempting to turn their electoral understanding into a practical alliance.
 ---
 
+## Summary
+
+The Hindustan Times report, datelined New Delhi, January 4, describes efforts by the Congress (O), Jan Sangh and Swatantra Party to coordinate their candidates for the Lok Sabha election. The parties agreed to prepare common lists and avoid contesting against one another where possible, with a proposed co-ordinating committee to address disagreements. The report says the arrangement was based on an AICC resolution passed in June and notes that the parties were attempting to turn their electoral understanding into a practical alliance.
+
 ## Key points
 
 - Congress (O), Jan Sangh and Swatantra Party leaders sought common candidate lists for the Lok Sabha election.

@@ -51,6 +51,12 @@ summary: |-
   Mody also reiterates his opposition to treating a political party headquarters as a commercial office or to granting gratuities to long-serving party workers. He says that service to the party should involve an element of sacrifice, while noting that he has struggled even to find funds for Raju’s leave salary. The letter closes with the warning that the party’s debts will take several years to repay and the hope that it will survive that long.
 ---
 
+## Summary
+
+In this letter dated March 19, 1974, Piloo Mody replies to S. V. Raju’s request for an ex-gratia payment after fourteen years of service to the Swatantra Party. Mody acknowledges Raju’s loyalty and the quality of his work, but explains that the party is unable to raise sufficient funds and is already facing numerous resignations, retirements, and heavy election debts.
+
+Mody also reiterates his opposition to treating a political party headquarters as a commercial office or to granting gratuities to long-serving party workers. He says that service to the party should involve an element of sacrifice, while noting that he has struggled even to find funds for Raju’s leave salary. The letter closes with the warning that the party’s debts will take several years to repay and the hope that it will survive that long.
+
 ## Key points
 
 - Piloo Mody thanks S. V. Raju for fourteen years of service to the Swatantra Party.

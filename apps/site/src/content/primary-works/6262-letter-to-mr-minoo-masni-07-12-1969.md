@@ -52,6 +52,12 @@ summary: |-
   The letter further argues that Swatantra's presence would push Congress to the right while Indira Gandhi moved left, potentially allowing Swatantra to remain ideologically flexible until it entered office. It proposes a Central Parliamentary Board and the reorganisation of provincial Congress committees, while warning that the continued existence of multiple parties would prevent political polarisation and benefit Gandhi. The writer closes by urging Gujarat Swatantraites to support a conservative alignment, lest a Harijan-led government emerge there.
 ---
 
+## Summary
+
+This two-page English letter, dated December 7, 1969, is addressed to M. R. Masani and discusses the political relationship between the Swatantra Party and the Indian National Congress. The writer argues that Swatantra should infiltrate Congress before Congress defines its position, because Indira Gandhi could exploit minor differences to widen divisions and move Congress toward collective farming. The letter presents Swatantra as electorally rooted in regional caste formations and suggests that cooperation with Jan Sangh, PSP, and SSP could support a broader political reorganisation.
+
+The letter further argues that Swatantra's presence would push Congress to the right while Indira Gandhi moved left, potentially allowing Swatantra to remain ideologically flexible until it entered office. It proposes a Central Parliamentary Board and the reorganisation of provincial Congress committees, while warning that the continued existence of multiple parties would prevent political polarisation and benefit Gandhi. The writer closes by urging Gujarat Swatantraites to support a conservative alignment, lest a Harijan-led government emerge there.
+
 ## Key points
 
 - The writer recommends that Swatantra infiltrate the Indian National Congress before Congress settles its political position.

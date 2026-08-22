@@ -50,6 +50,12 @@ summary: |-
   The letter argues that the country is entering a critical political period and that the party needs Masani's leadership. It refers to the Congress's deliberations in Delhi as evidence of a tendency toward authoritarianism, invoking concerns about India's constitutional guarantees. The writer urges Masani to reconsider leaving the chairmanship, warning that his departure would be a serious loss to the party.
 ---
 
+## Summary
+
+This one-page handwritten letter, dated 4 April 1971 from New Delhi, is addressed to Minoo Masani and responds to reports that Masani has resigned as chairman of the Swatantra Party. The writer describes the news as disheartening not only personally but also for people who have no direct connection with the party.
+
+The letter argues that the country is entering a critical political period and that the party needs Masani's leadership. It refers to the Congress's deliberations in Delhi as evidence of a tendency toward authoritarianism, invoking concerns about India's constitutional guarantees. The writer urges Masani to reconsider leaving the chairmanship, warning that his departure would be a serious loss to the party.
+
 ## Key points
 
 - The letter reports and reacts to Minoo Masani's apparent resignation from the chairmanship of the Swatantra Party.

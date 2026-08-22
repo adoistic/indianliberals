@@ -44,6 +44,10 @@ summary: |-
   In this letter from Patna dated April 5, 1974, Jayaprakash Narayan thanks Minoo Masani for his letter and explains his decision to travel to Vellore for treatment. Acting on the advice of Patna surgeon Dr. R. V. P. Sinha, he plans to consult Dr. R. Bhatt of the Vellore hospital about a surgical method for removing his prostate. He notes that he must wear a catheter continuously until the operation.
 ---
 
+## Summary
+
+In this letter from Patna dated April 5, 1974, Jayaprakash Narayan thanks Minoo Masani for his letter and explains his decision to travel to Vellore for treatment. Acting on the advice of Patna surgeon Dr. R. V. P. Sinha, he plans to consult Dr. R. Bhatt of the Vellore hospital about a surgical method for removing his prostate. He notes that he must wear a catheter continuously until the operation.
+
 ## Key points
 
 - Narayan writes to Minoo Masani from Patna on April 5, 1974.

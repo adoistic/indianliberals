@@ -51,6 +51,12 @@ summary: |-
   The notice confirms N. G. Ranga and M. R. Masani as Leader and Deputy Leader of the Parliamentary Group until 1972, and Dahyabhai Patel and M. R. Ruthnaswamy as Leader and Deputy Leader of the Swatantra group in the Rajya Sabha. It also records Y. G. Gowd's unopposed election as Chief Whip in the Lok Sabha, followed by Rajya Sabha appointments: Lokanath Misra as secretary, S. S. Mariswamy as whip, and M. K. Mohta and Sardar Ran Singh as Executive Committee members. The document is signed by Raja Venkatappa Naik as Returning Officer.
 ---
 
+## Summary
+
+This untitled Swatantra Party Parliamentary Office paper, dated May 6, 1969, records the results of elections for office-bearers and members of the Executive Committee of the Swatantra Party Parliamentary Group for 1969–70. It lists C. C. Desai and D. N. Patodia as secretaries; L. N. Deb and S. K. Tapuriah as whips; and Maharaja Sriraj Dhrangadhra, Piloo Mody, K. R. Singh Deo, and Girraj Saran Singh as Executive Committee members.
+
+The notice confirms N. G. Ranga and M. R. Masani as Leader and Deputy Leader of the Parliamentary Group until 1972, and Dahyabhai Patel and M. R. Ruthnaswamy as Leader and Deputy Leader of the Swatantra group in the Rajya Sabha. It also records Y. G. Gowd's unopposed election as Chief Whip in the Lok Sabha, followed by Rajya Sabha appointments: Lokanath Misra as secretary, S. S. Mariswamy as whip, and M. K. Mohta and Sardar Ran Singh as Executive Committee members. The document is signed by Raja Venkatappa Naik as Returning Officer.
+
 ## Key points
 
 - The paper reports Swatantra Party Parliamentary Group elections held on May 6, 1969.

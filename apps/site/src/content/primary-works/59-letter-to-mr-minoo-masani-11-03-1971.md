@@ -50,6 +50,12 @@ summary: |-
   The letter then turns to travel and political acquaintances. The sender says they will remain in Simla for the year, mentions passing through Delhi and speaking with Nehru, and expects Morarji to arrive. They offer Masani accommodation in Simla and refer to the previous year's election campaign, recalling that they had been confident of Masani's victory but were disappointed by the outcome. The pages provide personal and political correspondence surrounding the 1971 election; the sender's name and signature are not visible.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 11 March 1971 and written from Simla, is addressed to Minoo Masani. The unidentified sender apologises for having believed Masani would become a member of Parliament and expresses regret at the election result. The sender describes visiting Bombay, being hospitably received by friends, and spending time with Masani's family, including his son and two daughters.
+
+The letter then turns to travel and political acquaintances. The sender says they will remain in Simla for the year, mentions passing through Delhi and speaking with Nehru, and expects Morarji to arrive. They offer Masani accommodation in Simla and refer to the previous year's election campaign, recalling that they had been confident of Masani's victory but were disappointed by the outcome. The pages provide personal and political correspondence surrounding the 1971 election; the sender's name and signature are not visible.
+
 ## Key points
 
 - The letter is dated 11 March 1971, written from Simla, and addressed to Minoo Masani.

@@ -50,6 +50,12 @@ summary: |-
   Masani also proposes hosting Narayan for dinner with several friends to discuss “the fundamental problems facing the country.” He asks Narayan to signal whether he can attend, suggesting that silence be treated as consent, and notes that he will see Narayan earlier on his return to Bombay from 21 April onward. Handwritten annotations in the right margin appear to revise or clarify the proposed dates.
 ---
 
+## Summary
+
+This untitled letter, dated 3 April 1972, is from M. R. Masani to Jayaprakash Narayan, whom Masani addresses as “J.P.” Masani reports that his client in Delhi wants Narayan to visit on 19 and 20 April, and says he expects to meet Narayan later during a stay beginning around 18 or 19 April.
+
+Masani also proposes hosting Narayan for dinner with several friends to discuss “the fundamental problems facing the country.” He asks Narayan to signal whether he can attend, suggesting that silence be treated as consent, and notes that he will see Narayan earlier on his return to Bombay from 21 April onward. Handwritten annotations in the right margin appear to revise or clarify the proposed dates.
+
 ## Key points
 
 - The letter is dated 3 April 1972 and is signed by M. R. Masani.

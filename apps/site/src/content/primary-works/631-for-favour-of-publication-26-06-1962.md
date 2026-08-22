@@ -59,6 +59,12 @@ summary: |-
   Masani presents the Swatantra Party as a liberal and Gandhian alternative to both Congress dominance and communist totalitarianism. He links its prospects in the 1967 general elections to credible candidates, an intelligent and loyal cadre, a broad social base, strict internal discipline, and small contributions from ordinary supporters rather than dependence on wealthy donors. He also identifies the absence of an effective opposition as a central weakness of Indian democracy, criticizes the distortions produced by the electoral system and inflated legislative majorities, and advocates electoral adjustments including the list system or alternative voting. The document does not identify its publication venue or year.
 ---
 
+## Summary
+
+In this two-page press note, M. R. Masani reports on his Ahmedabad address, “Party Politics in India,” delivered at the Harold Laski Institute on the limits of party politics in a free society. He argues that political parties are instruments rather than ends in themselves, rejects unquestioning party loyalty, and warns that parties can impose control over the individual. Although he regrets not following Jayaprakash Narayan all the way toward non-party democracy, he maintains that political parties remain necessary and calls for greater discipline within them.
+
+Masani presents the Swatantra Party as a liberal and Gandhian alternative to both Congress dominance and communist totalitarianism. He links its prospects in the 1967 general elections to credible candidates, an intelligent and loyal cadre, a broad social base, strict internal discipline, and small contributions from ordinary supporters rather than dependence on wealthy donors. He also identifies the absence of an effective opposition as a central weakness of Indian democracy, criticizes the distortions produced by the electoral system and inflated legislative majorities, and advocates electoral adjustments including the list system or alternative voting. The document does not identify its publication venue or year.
+
 ## Key points
 
 - Masani distinguishes a political party's practical purpose from ideological or partisan loyalty for its own sake.

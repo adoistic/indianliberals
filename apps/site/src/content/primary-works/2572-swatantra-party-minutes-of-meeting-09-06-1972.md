@@ -50,6 +50,12 @@ summary: |-
   The committee also set an organizational target of increasing Bombay Region membership to at least 5,000 by the end of 1972, with each unit asked to enroll at least 25 additional members immediately. The president outlined plans for a Satyagraha concerning the appointment of Dr. Pophale as honorary professor after his retirement from St. George's Hospital, which the minutes describe as contrary to a 1966 Maharashtra Government resolution. The proposed large-scale Satyagraha did not take place because Dr. Pophale resigned from the new assignment on 12 June. Remaining agenda items were deferred, and the meeting ended at 8.00 p.m.
 ---
 
+## Summary
+
+These minutes record a meeting of the Swatantra Party's Bombay Region Executive Committee held at the party office on 9 June 1972. Madhu Mehta chaired the meeting; six members were present, while F. C. Cama and Sarla Datar were granted leave. The committee confirmed the minutes of the 24 April meeting and discussed raising funds, including Parmanand Kejriwal's offer of a monthly contribution of Rs. 200 from June 1972.
+
+The committee also set an organizational target of increasing Bombay Region membership to at least 5,000 by the end of 1972, with each unit asked to enroll at least 25 additional members immediately. The president outlined plans for a Satyagraha concerning the appointment of Dr. Pophale as honorary professor after his retirement from St. George's Hospital, which the minutes describe as contrary to a 1966 Maharashtra Government resolution. The proposed large-scale Satyagraha did not take place because Dr. Pophale resigned from the new assignment on 12 June. Remaining agenda items were deferred, and the meeting ended at 8.00 p.m.
+
 ## Key points
 
 - The Bombay Region Executive Committee met on 9 June 1972 at the Swatantra Party office, with Madhu Mehta in the chair.

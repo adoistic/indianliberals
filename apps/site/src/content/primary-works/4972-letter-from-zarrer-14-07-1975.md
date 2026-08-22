@@ -52,6 +52,12 @@ summary: |-
   The letter’s central concern is how to oppose authoritarianism while navigating ideological and personal differences. The writer argues that genuine Marxists and Liberals who oppose fascism must resist it, but hesitates to embarrass “Mummy,” described as an ardent supporter of Mrs. Gandhi. The writer nonetheless affirms the need to fight for civil liberties, identifies with the CPI(M) if living in India, seeks information about the current crisis, and notes that the book has received intense publicity following the announcement of the court verdict on 12 June. The second page says the writer is revising the final two chapters for an American edition, including a retitled final chapter, “The Tragic Flaw.”
 ---
 
+## Summary
+
+This personal and confidential letter, dated 14 July 1975 and signed “Zarrer,” discusses the political climate in India amid arrests, censorship, and the possibility that the writer’s book may be banned. The writer reports sending copies of an Observer article, an Oxford Mail interview, and a speech delivered at Chatham House, where they openly clashed with a High Commission official and Professor Rashiduddin Khan. They also mention a forthcoming interview and a complimentary obituary of J. P. for the Observer.
+
+The letter’s central concern is how to oppose authoritarianism while navigating ideological and personal differences. The writer argues that genuine Marxists and Liberals who oppose fascism must resist it, but hesitates to embarrass “Mummy,” described as an ardent supporter of Mrs. Gandhi. The writer nonetheless affirms the need to fight for civil liberties, identifies with the CPI(M) if living in India, seeks information about the current crisis, and notes that the book has received intense publicity following the announcement of the court verdict on 12 June. The second page says the writer is revising the final two chapters for an American edition, including a retitled final chapter, “The Tragic Flaw.”
+
 ## Key points
 
 - The letter is dated 14 July 1975, marked “Personal & Confidential,” and signed by “Zarrer.”

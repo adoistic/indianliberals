@@ -51,6 +51,12 @@ summary: |-
   The committee also reviewed a dispute concerning the unauthorised use of electricity. It noted that Courier Publications Private Limited was paying 60 percent of the electricity charges under a court order, while an arrangement with the Adult Education Institute concerning shared electricity costs and a monthly donation continued. The meeting approved the balance sheet and income and expenditure account for the year ending March 31, 1992, and concluded with a vote of thanks to the chair.
 ---
 
+## Summary
+
+These minutes record a meeting of the Executive Committee of the Swatantra Party, Maharashtra, held on July 23, 1992, at the party office in Bombay. The record lists five attendees, confirms the minutes of the previous meeting held on June 14, 1991, and reports that two suits in the Small Causes Court involving Ratansinh Rajada and Courier Publications Private Limited remained pending.
+
+The committee also reviewed a dispute concerning the unauthorised use of electricity. It noted that Courier Publications Private Limited was paying 60 percent of the electricity charges under a court order, while an arrangement with the Adult Education Institute concerning shared electricity costs and a monthly donation continued. The meeting approved the balance sheet and income and expenditure account for the year ending March 31, 1992, and concluded with a vote of thanks to the chair.
+
 ## Key points
 
 - The Executive Committee of the Swatantra Party, Maharashtra, met on July 23, 1992, in Bombay.

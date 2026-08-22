@@ -49,6 +49,10 @@ summary: |-
   This archival item is a scrapbook-like collection of National Herald clippings annotated “4/1/71.” The principal clipping, headed “HIGH DRAMA,” reports a tense meeting in New Delhi between Swatantra Party leaders and Congress (O) leaders, including Minoo Masani, Mr. Nijalingappa, Atal Bihari Vajpayee, and Dr. Ram Subhag Singh. The account describes negotiations over a possible joint front against the Congress, interruptions by the press, conflicting statements about whether a meeting had taken place, and a later effort to resume discussions. A related Ahmedabad report records Morarji Desai declining comment on the proposed alliance and urging patience.
 ---
 
+## Summary
+
+This archival item is a scrapbook-like collection of National Herald clippings annotated “4/1/71.” The principal clipping, headed “HIGH DRAMA,” reports a tense meeting in New Delhi between Swatantra Party leaders and Congress (O) leaders, including Minoo Masani, Mr. Nijalingappa, Atal Bihari Vajpayee, and Dr. Ram Subhag Singh. The account describes negotiations over a possible joint front against the Congress, interruptions by the press, conflicting statements about whether a meeting had taken place, and a later effort to resume discussions. A related Ahmedabad report records Morarji Desai declining comment on the proposed alliance and urging patience.
+
 ## Key points
 
 - A National Herald report describes a heated political meeting involving Swatantra Party and Congress (O) leaders.

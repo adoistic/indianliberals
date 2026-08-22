@@ -55,6 +55,12 @@ summary: |-
   The subsequent records document the organisation of the Lok Sabha group and the wider parliamentary group. They identify office-holders, establish regular joint and separate meetings, approve premises and staffing at 40 Canning Lane, create a consultative committee, and arrange parliamentary committee assignments. Circulars Nos. 2, 3, 5, 6, and 7 concern member communication, monthly contributions, publication of a session-end bulletin, committee appointments, and attendance at a Lok Sabha meeting. The pages present the party chiefly as a developing parliamentary organisation concerned with disciplined coordination, financing, communications, and legislative procedure.
 ---
 
+## Summary
+
+This six-page Swatantra Party parliamentary-group dossier records meetings and internal correspondence from April–May 1962. The April 15 joint meeting of Rajya Sabha and Lok Sabha members discussed coordination between the two Houses, a shared parliamentary secretariat, monthly member contributions of Rs. 40, and procedures for functioning as an Opposition party. It also recorded the group’s recommendations concerning the forthcoming elections of the President, Vice-President, and Speaker of the Lok Sabha, including support for Dr. S. Radhakrishnan, Dr. Zakir Hussain, and Sardar Hukum Singh.
+
+The subsequent records document the organisation of the Lok Sabha group and the wider parliamentary group. They identify office-holders, establish regular joint and separate meetings, approve premises and staffing at 40 Canning Lane, create a consultative committee, and arrange parliamentary committee assignments. Circulars Nos. 2, 3, 5, 6, and 7 concern member communication, monthly contributions, publication of a session-end bulletin, committee appointments, and attendance at a Lok Sabha meeting. The pages present the party chiefly as a developing parliamentary organisation concerned with disciplined coordination, financing, communications, and legislative procedure.
+
 ## Key points
 
 - The April 15 joint meeting brought together Swatantra Party members of both Houses in Parliament House, New Delhi.

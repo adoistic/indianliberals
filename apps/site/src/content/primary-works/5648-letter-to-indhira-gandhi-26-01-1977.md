@@ -55,6 +55,12 @@ summary: |-
   Nimbkar accuses Gandhi of using the Lok Sabha and its Congress majority to give an appearance of legality to unconstitutional actions, including the 44th Amendment and the postponement of elections. She portrays relief measures for poor and disadvantaged citizens as politically motivated inducements and suggests that Gandhi’s policies have alienated even former supporters. The letter invokes Mahatma Gandhi’s democratic example and urges Indira Gandhi and her son not to contest the elections, arguing that the central choice before the electorate is between dictatorship and democracy.
 ---
 
+## Summary
+
+In this fourth and final open letter, dated 26 January 1977, Dr. Mrs. Krishnabai Nimbkar challenges Indira Gandhi’s decision to hold elections after the Emergency. She argues that the postponement of elections, press censorship, the 59 constitutional amendments, and the suspension of civil liberties have left India with an altered Constitution and an authoritarian system of rule. She contrasts the constitutional order created by Jawaharlal Nehru with Gandhi’s alleged abandonment of the oath to preserve and defend it.
+
+Nimbkar accuses Gandhi of using the Lok Sabha and its Congress majority to give an appearance of legality to unconstitutional actions, including the 44th Amendment and the postponement of elections. She portrays relief measures for poor and disadvantaged citizens as politically motivated inducements and suggests that Gandhi’s policies have alienated even former supporters. The letter invokes Mahatma Gandhi’s democratic example and urges Indira Gandhi and her son not to contest the elections, arguing that the central choice before the electorate is between dictatorship and democracy.
+
 ## Key points
 
 - The letter condemns the Emergency, press censorship, postponed elections, and constitutional amendments that Nimbkar says curtailed civil liberties.

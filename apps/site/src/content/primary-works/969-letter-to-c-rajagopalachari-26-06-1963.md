@@ -50,6 +50,12 @@ summary: |-
   The proposed programme is deliberately limited: political groups would retain their separate identities while cooperating on foreign policy, defence, taxation and corruption. The writer also supports agreement on removing the present government without requiring agreement on every specific policy. The letter is signed by R. V. M. G. Ramarao of Pithapuram; handwritten annotations appear on the pages, but their author and purpose are not identified in the printed text.
 ---
 
+## Summary
+
+This letter, dated 26 June 1963 and addressed to C. Rajagopalachari, proposes a meeting between Rajagopalachari and several opposition figures—Kripalani, Lohia, Jayaprakash Narayan, Ranga and Masani—to discuss united opposition on a minimum agreed programme. The writer presents the suggestion cautiously, acknowledging his own misgivings while arguing that Rajagopalachari’s prestige and intellect might produce results where others have failed.
+
+The proposed programme is deliberately limited: political groups would retain their separate identities while cooperating on foreign policy, defence, taxation and corruption. The writer also supports agreement on removing the present government without requiring agreement on every specific policy. The letter is signed by R. V. M. G. Ramarao of Pithapuram; handwritten annotations appear on the pages, but their author and purpose are not identified in the printed text.
+
 ## Key points
 
 - The writer urges C. Rajagopalachari to convene a meeting of opposition leaders.

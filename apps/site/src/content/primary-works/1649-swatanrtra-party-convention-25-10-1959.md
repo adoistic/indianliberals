@@ -64,6 +64,12 @@ summary: |-
   The circular frames the Congress as politically exhausted and accuses it of wasting the goodwill generated during the freedom movement. It attributes India's contemporary difficulties to corruption, political indecision, social injustice, wrong policies, heavy taxation, deficit financing, unemployment, food shortages, and top-heavy administration. The convention is presented as a vehicle for opposing cooperative farming, state trading, the Hindu Succession Act, and communist tendencies in planning, while defending individual liberty, traditional values, and political independence. Hindi and Punjabi versions repeat this appeal and list the convention's 37 conveners; the final page is a postal wrapper addressed to “Hon’ble Mody.”
 ---
 
+## Summary
+
+This four-page multilingual convention circular announces the formal establishment of the Punjab Branch of the Swatantra Party at Anardana Park, Patiala, on 25 October 1959. It presents the party as an all-India organisation formed under the leadership of C. Rajagopalachari and invites supporters to attend, bring like-minded friends, and participate in the convention. K. M. Munshi is named as inaugurator, while N. G. Ranga is to preside; M. R. Masani and other leaders are also expected to speak.
+
+The circular frames the Congress as politically exhausted and accuses it of wasting the goodwill generated during the freedom movement. It attributes India's contemporary difficulties to corruption, political indecision, social injustice, wrong policies, heavy taxation, deficit financing, unemployment, food shortages, and top-heavy administration. The convention is presented as a vehicle for opposing cooperative farming, state trading, the Hindu Succession Act, and communist tendencies in planning, while defending individual liberty, traditional values, and political independence. Hindi and Punjabi versions repeat this appeal and list the convention's 37 conveners; the final page is a postal wrapper addressed to “Hon’ble Mody.”
+
 ## Key points
 
 - The circular announces the formal establishment of the Punjab Branch of the Swatantra Party in Patiala on 25 October 1959.

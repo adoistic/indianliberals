@@ -49,6 +49,10 @@ summary: |-
   This two-page resolution records the provisional constitution of the Swatantra Party, adopted by its General Council at Hyderabad on December 9, 1959, and dated December 22, 1959. It names Professor N. G. Ranga as President, H. M. Patel as General Secretary, and Sir H. P. Mody and B. V. Narayana Reddi as Treasurers. The document establishes a Central Organising Committee and a General Council, listing their members, and identifies constituent party units across numerous Indian states and regions.
 ---
 
+## Summary
+
+This two-page resolution records the provisional constitution of the Swatantra Party, adopted by its General Council at Hyderabad on December 9, 1959, and dated December 22, 1959. It names Professor N. G. Ranga as President, H. M. Patel as General Secretary, and Sir H. P. Mody and B. V. Narayana Reddi as Treasurers. The document establishes a Central Organising Committee and a General Council, listing their members, and identifies constituent party units across numerous Indian states and regions.
+
 ## Key points
 
 - The resolution provides the party's provisional constitutional arrangements pending formal adoption at the next National Convention.

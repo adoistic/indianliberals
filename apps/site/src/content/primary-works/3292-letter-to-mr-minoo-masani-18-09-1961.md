@@ -51,6 +51,12 @@ summary: |-
   The letter then turns to a report concerning the situation in Bihar and a proposed five-point arrangement. Rajagopalachari worries about possible confusion over whether the arrangement would amount to making an independent body or institution subordinate, and says he has considered the difficulty carefully. He expects the “Bihar Commission” to clarify matters and produce a satisfactory modification. He closes by urging Masani to attend an upcoming conference on behalf of the party, while observing that a proposed business appears to revive an older pattern of diplomacy.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 18 September 1961 and addressed to Minoo Masani, records C. Rajagopalachari's congratulations on Masani's handling of a difficult political situation. Rajagopalachari says that Masani has been working at a critical juncture and suggests that the outcome may involve “rejoicing at our expense,” indicating concern about the political consequences of the negotiations or decisions under discussion.
+
+The letter then turns to a report concerning the situation in Bihar and a proposed five-point arrangement. Rajagopalachari worries about possible confusion over whether the arrangement would amount to making an independent body or institution subordinate, and says he has considered the difficulty carefully. He expects the “Bihar Commission” to clarify matters and produce a satisfactory modification. He closes by urging Masani to attend an upcoming conference on behalf of the party, while observing that a proposed business appears to revive an older pattern of diplomacy.
+
 ## Key points
 
 - Rajagopalachari congratulates Minoo Masani on handling a difficult political situation.

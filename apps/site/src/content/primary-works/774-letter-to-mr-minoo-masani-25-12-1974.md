@@ -49,6 +49,12 @@ summary: |-
   The letter proposes forming a Citizens for Democracy forum in Madhya Pradesh. It also briefly records Zamindar’s literary and intellectual work: the forthcoming publication of A Handbook of Modern Hindi Literature, possible publication of his biography of Shivaji, and his translation of Bertrand Russell’s Power and Planning for a Novel. He closes by inviting Masani to attend the World Hindi Convention in Nagpur, partly to counter what he calls the “myth” that Masani is anti-Hindi.
 ---
 
+## Summary
+
+This one-page letter, dated 25 December 1974 and written by N. C. Zamindar to M. R. Masani, discusses the prospects and limitations of the Chhatra Sangharsh Samiti and the emerging opposition politics of the period. Zamindar reports conversations with Raju and the forthcoming visit of Jayaprakash Narayan, but doubts that the movement will make a major impact in Madhya Pradesh because it lacks a charismatic leader comparable to J. P. He is also sceptical of the Bharatiya Lok Dal, describing it as a political patchwork and declining to join it.
+
+The letter proposes forming a Citizens for Democracy forum in Madhya Pradesh. It also briefly records Zamindar’s literary and intellectual work: the forthcoming publication of A Handbook of Modern Hindi Literature, possible publication of his biography of Shivaji, and his translation of Bertrand Russell’s Power and Planning for a Novel. He closes by inviting Masani to attend the World Hindi Convention in Nagpur, partly to counter what he calls the “myth” that Masani is anti-Hindi.
+
 ## Key points
 
 - Zamindar says he had a detailed discussion with Raju and expects Jayaprakash Narayan to visit on 5 January 1975.

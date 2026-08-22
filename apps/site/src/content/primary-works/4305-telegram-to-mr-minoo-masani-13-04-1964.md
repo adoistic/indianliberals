@@ -47,6 +47,12 @@ summary: |-
   The message also instructs Masani to raise or address the subject on the seventeenth. The telegram is a brief administrative communication rather than a substantive statement of policy or political argument.
 ---
 
+## Summary
+
+This single-page telegram, sent by C. Rajagopalachari (“Rajaji”) from Madras on 13 April 1964, is addressed to Minoo Masani. Rajagopalachari approves the second alternative proposed in the second page of Masani’s letter of 10 April.
+
+The message also instructs Masani to raise or address the subject on the seventeenth. The telegram is a brief administrative communication rather than a substantive statement of policy or political argument.
+
 ## Key points
 
 - The document is a one-page Indian postal telegram.

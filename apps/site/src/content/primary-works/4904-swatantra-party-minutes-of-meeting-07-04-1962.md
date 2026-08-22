@@ -49,6 +49,10 @@ summary: |-
   These draft minutes record a meeting of the Swatantra Party Organisation Sub-Committee held on 7 April 1962 at Sir H. P. Mody’s residence in Bombay. Prof. N. G. Ranga chaired the meeting; C. Rajagopalachari, K. M. Munshi, and M. R. Masani were present, while Homi Mody, the Maharawal of Dungarpur, Raja Raghavendra Pratap Singh of Mankapur, and Bhailalbhai D. Patel attended by invitation. The minutes confirm the previous meeting and approve arrangements for a fitting farewell to the retiring Union president, with Dr. Radhakrishnan named as chairman of the farewell committee.
 ---
 
+## Summary
+
+These draft minutes record a meeting of the Swatantra Party Organisation Sub-Committee held on 7 April 1962 at Sir H. P. Mody’s residence in Bombay. Prof. N. G. Ranga chaired the meeting; C. Rajagopalachari, K. M. Munshi, and M. R. Masani were present, while Homi Mody, the Maharawal of Dungarpur, Raja Raghavendra Pratap Singh of Mankapur, and Bhailalbhai D. Patel attended by invitation. The minutes confirm the previous meeting and approve arrangements for a fitting farewell to the retiring Union president, with Dr. Radhakrishnan named as chairman of the farewell committee.
+
 ## Key points
 
 - The Organisation Sub-Committee met in Bombay on 7 April 1962 under Prof. N. G. Ranga’s chairmanship.

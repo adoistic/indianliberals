@@ -53,6 +53,12 @@ summary: |-
   The report further presents the party's criticism of the election outcome and the first-past-the-post system. It says the ruling party's vote share did not amount to a majority of votes cast, and argues that proportional representation would have produced a government dependent on support from other parties. The Swatantra board attributed the opposition's electoral failure partly to the absence of a common programme and urged a future “full-fledged alliance” with an agreed programme rather than a merely common anti-government front. The clipping is credited only to “Our Special Representative”; no personal author is named.
 ---
 
+## Summary
+
+This newspaper report from New Delhi records the Swatantra Party's decision not to join any parliamentary bloc after the 1971 Lok Sabha election. M. R. Masani is quoted as saying that the party would preserve its independent identity and function as a “determined but not a factious opposition.” The party's board also argued that opposition groups had a responsibility to offer a more significant alternative while defending democracy and individual liberty, supporting government measures that could build a prosperous and free society while resisting authoritarian tendencies.
+
+The report further presents the party's criticism of the election outcome and the first-past-the-post system. It says the ruling party's vote share did not amount to a majority of votes cast, and argues that proportional representation would have produced a government dependent on support from other parties. The Swatantra board attributed the opposition's electoral failure partly to the absence of a common programme and urged a future “full-fledged alliance” with an agreed programme rather than a merely common anti-government front. The clipping is credited only to “Our Special Representative”; no personal author is named.
+
 ## Key points
 
 - The Swatantra Party decided to remain independent in Parliament and not join any bloc.

@@ -48,6 +48,10 @@ summary: |-
   This one-page English reference table, headed “Indian Polity - Elections Special - Lok Sabha...”, compiles key statistics for Lok Sabha elections from 1952 through 1991. For each election year, it lists the electorate in millions, total seats, seats contested, poll percentage, and the date of dissolution of the corresponding Lok Sabha.
 ---
 
+## Summary
+
+This one-page English reference table, headed “Indian Polity - Elections Special - Lok Sabha...”, compiles key statistics for Lok Sabha elections from 1952 through 1991. For each election year, it lists the electorate in millions, total seats, seats contested, poll percentage, and the date of dissolution of the corresponding Lok Sabha.
+
 ## Key points
 
 - The table covers Lok Sabha elections held between 1952 and 1991.

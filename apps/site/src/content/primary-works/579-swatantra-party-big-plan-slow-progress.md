@@ -57,6 +57,12 @@ summary: |-
   In the rendered pages, Masani attributes the failure of the Second and Third Plans to deficit financing and to a misguided priority given to steel and heavy industry over agriculture and basic infrastructure. He contends that resources would yield more if left with the public, and cites investment-return comparisons associated with Professor Mahalanobis to argue that agriculture and consumer goods outperform heavy industry. The paper also characterizes the planning model as carrying a mid-century Soviet or “Stalinist” bias, while calling for a less centralized and more productive economic strategy.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that India’s increasingly ambitious Five Year Plans have produced slower growth, mounting external dependence, inflation, currency depreciation, and worsening balance-of-payments pressures. He supports this case with figures on sterling balances, foreign indebtedness, foreign aid, the rupee’s purchasing power, food prices, industrial production, national income, and comparative growth rates in Pakistan, Taiwan, Israel, and Japan. The paper presents the economic situation as approaching bankruptcy and rejects the assumption that a larger plan necessarily delivers faster progress.
+
+In the rendered pages, Masani attributes the failure of the Second and Third Plans to deficit financing and to a misguided priority given to steel and heavy industry over agriculture and basic infrastructure. He contends that resources would yield more if left with the public, and cites investment-return comparisons associated with Professor Mahalanobis to argue that agriculture and consumer goods outperform heavy industry. The paper also characterizes the planning model as carrying a mid-century Soviet or “Stalinist” bias, while calling for a less centralized and more productive economic strategy.
+
 ## Key points
 
 - Masani challenges the claim that bigger Five Year Plans produce faster economic progress.

@@ -54,6 +54,12 @@ summary: |-
   The document sets out an organisational plan for that cooperation. A Parliamentary Constituency Coordinator was to be nominated for each constituency to contact Swatantra Party members, seek their assistance for the Janata Party candidate, and offer party services after the candidate’s nomination. The state office would inform the Janata Party of the designated contacts. Coordinators were listed for several Bombay constituencies, with some positions left to be nominated, and a follow-up meeting was scheduled for February 17, 1977.
 ---
 
+## Summary
+
+These minutes record a meeting of Swatantra Party workers held at the party office in Bombay on February 10, 1977, chaired by Maharashtra unit president Mr. Parmanand Kejriwal. The meeting endorsed the Swatantra Party National Executive’s decision to support the Janata Party in the forthcoming Lok Sabha general elections and unanimously agreed to offer the Janata Party whole-hearted service and cooperation.
+
+The document sets out an organisational plan for that cooperation. A Parliamentary Constituency Coordinator was to be nominated for each constituency to contact Swatantra Party members, seek their assistance for the Janata Party candidate, and offer party services after the candidate’s nomination. The state office would inform the Janata Party of the designated contacts. Coordinators were listed for several Bombay constituencies, with some positions left to be nominated, and a follow-up meeting was scheduled for February 17, 1977.
+
 ## Key points
 
 - The meeting took place at the Swatantra Party office in Bombay on February 10, 1977.

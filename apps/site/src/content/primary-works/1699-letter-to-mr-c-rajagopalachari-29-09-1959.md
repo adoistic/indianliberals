@@ -50,6 +50,12 @@ summary: |-
   The letter also raises concerns about financial accountability. Mody notes that Bombay must provide Rs. 1,00,000 of the Rs. 1,80,000 required annually by the Centre to support regional committees, and reports that he has already disbursed Rs. 22,500 to the Centre and the States. He questions the composition of the Central Organising Committee and All-India Council in light of decisions taken at a meeting at Bharatiya Vidya Bhavan. He says he will discuss these matters with Minoo Masani, whom Rajagopalachari has decided to appoint General Secretary, when Masani returns to India.
 ---
 
+## Summary
+
+In this letter dated 29 September 1959, H. P. Mody writes to C. Rajagopalachari (“Rajaji”) about the functioning of the Party. He acknowledges enthusiasm among its members but warns of “a lot of disjointed effort,” attributing this to weak coordination between the central organisation and state units. He argues for a stronger central office, a complete consolidated record of Party activity, and a regular communications channel between the Centre and regional committees. Mody recommends that the central secretariat be established in Bombay, where an experienced Regional Committee could support its work.
+
+The letter also raises concerns about financial accountability. Mody notes that Bombay must provide Rs. 1,00,000 of the Rs. 1,80,000 required annually by the Centre to support regional committees, and reports that he has already disbursed Rs. 22,500 to the Centre and the States. He questions the composition of the Central Organising Committee and All-India Council in light of decisions taken at a meeting at Bharatiya Vidya Bhavan. He says he will discuss these matters with Minoo Masani, whom Rajagopalachari has decided to appoint General Secretary, when Masani returns to India.
+
 ## Key points
 
 - Mody distinguishes between Party enthusiasm and the “disjointed effort” he sees in its organisation.

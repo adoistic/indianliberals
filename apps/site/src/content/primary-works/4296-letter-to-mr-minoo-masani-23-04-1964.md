@@ -50,6 +50,12 @@ summary: |-
   The letter then turns to recent electoral results in the Aruppukottai constituency. Rajagopalachari reports that the towns of Virudhunagar, Sattur, and Sivakasi—identified with Kamaraj—voted by a majority for their candidate, but says that rural voters in the two Nadar constituencies were influenced by the anti-Nair appeal of the Rajah of Ramnad. He also acknowledges Professor Mital’s letter and encloses a reply to Dahyabhai.
 ---
 
+## Summary
+
+In this letter dated 23 April 1964, C. Rajagopalachari replies to M. R. Masani about Masani’s 17 April speech and political strategy. Rajagopalachari approves the decision not to raise Kashmir unless provoked, while briefly reporting that his throat and nose irritation and mucous-membrane reaction are continuing despite improvement in his health.
+
+The letter then turns to recent electoral results in the Aruppukottai constituency. Rajagopalachari reports that the towns of Virudhunagar, Sattur, and Sivakasi—identified with Kamaraj—voted by a majority for their candidate, but says that rural voters in the two Nadar constituencies were influenced by the anti-Nair appeal of the Rajah of Ramnad. He also acknowledges Professor Mital’s letter and encloses a reply to Dahyabhai.
+
 ## Key points
 
 - Rajagopalachari responds to M. R. Masani’s letter of 21 April 1964.

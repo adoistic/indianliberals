@@ -50,6 +50,12 @@ summary: |-
   The largest portion of the rendered pages consists of constituency-by-constituency decisions across Bihar, Rajasthan, Orissa, Gujarat, Andhra, Uttar Pradesh, Bombay, Maharashtra, West Bengal, the Andamans, and Mysore. The Board approved, altered, or conditioned prospective candidatures, often requiring candidates to stand on a self-supporting basis, accept the Swatantra symbol, finance their own campaigns, or accommodate electoral understandings with the Jan Sangh. The minutes also document the party’s negotiations with opposition parties: agreements with the Jan Sangh and Republican Party in Gujarat and Rajasthan were approved, while talks with the Jan Sangh in Uttar Pradesh and the Jana Congress in Orissa had not produced satisfactory arrangements. Annexures provide tabulated candidate totals and detailed nomination and remittance information.
 ---
 
+## Summary
+
+These draft minutes record the Central Parliamentary Board’s meeting in New Delhi on November 5, 1966. The Board reviewed parliamentary business, considered a report concerning Sardar Buta Singh’s alleged violation of an agreement with the Akali Dal, reaffirmed support for banning cow slaughter within the framework of law, and discussed the slow pace of nominations for Parliament and State Assemblies. It also noted requests for more Christian candidates and a proposed ban on corporate contributions to political parties, while recording that the Swatantra Party had already called for such a prohibition.
+
+The largest portion of the rendered pages consists of constituency-by-constituency decisions across Bihar, Rajasthan, Orissa, Gujarat, Andhra, Uttar Pradesh, Bombay, Maharashtra, West Bengal, the Andamans, and Mysore. The Board approved, altered, or conditioned prospective candidatures, often requiring candidates to stand on a self-supporting basis, accept the Swatantra symbol, finance their own campaigns, or accommodate electoral understandings with the Jan Sangh. The minutes also document the party’s negotiations with opposition parties: agreements with the Jan Sangh and Republican Party in Gujarat and Rajasthan were approved, while talks with the Jan Sangh in Uttar Pradesh and the Jana Congress in Orissa had not produced satisfactory arrangements. Annexures provide tabulated candidate totals and detailed nomination and remittance information.
+
 ## Key points
 
 - The Central Parliamentary Board met in New Delhi on November 5, 1966, with N. G. Ranga in the chair and Minoo Masani, K. M. Munshi, Gayatri Devi, and other members present.

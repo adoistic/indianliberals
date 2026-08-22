@@ -50,6 +50,12 @@ summary: |-
   Masani also reports sending a telegram concerning the delayed Jana Sangh anti-Communist voting record, along with a note on an agreement reached with the Jana Sangh and the BKD on 26 May of the previous year. He stresses that these papers are urgently needed for the coming weekend and asks Raju to ensure that they arrive no later than Friday the 27th.
 ---
 
+## Summary
+
+This one-page English letter, dated 24 February 1970, was written by M. R. Masani from the Swatantra Party's National Headquarters in Bombay to S. V. Raju. Masani refers to his letter of 23 February and to a draft of minutes that he had corrected, which he expected Raju to have received by airfreight.
+
+Masani also reports sending a telegram concerning the delayed Jana Sangh anti-Communist voting record, along with a note on an agreement reached with the Jana Sangh and the BKD on 26 May of the previous year. He stresses that these papers are urgently needed for the coming weekend and asks Raju to ensure that they arrive no later than Friday the 27th.
+
 ## Key points
 
 - The letter is dated 24 February 1970 and was sent from the Swatantra Party National Headquarters in Bombay.

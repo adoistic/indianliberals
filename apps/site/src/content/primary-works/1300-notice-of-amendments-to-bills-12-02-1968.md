@@ -54,6 +54,12 @@ summary: |-
   The remaining amendments address the reorganisation of Assam and alleged attacks on non-Assamese residents in Guwahati and elsewhere; unemployment and the absence of measures to encourage productive investment; the government's position on the Vietnam War; the liberation struggles in Southern Africa and Tibet; and the need for a regional collective-security system in South and South-East Asia in response to Chinese Communist expansionism. The rendered pages constitute the complete document; no printed page folios are visible, and the handwritten mark appears to read “Piloo Mody,” but no printed author byline is present.
 ---
 
+## Summary
+
+This two-page parliamentary notice, dated February 12, 1968, is addressed to the Secretary of the Lok Sabha and proposes amendments to the Motion of Thanks to the President's Address. The notice asks that the motion regret the government's handling of food policy, including the continued barriers to the movement of foodgrains, compulsory monopoly procurement, and the absence of incentives for farmers to increase production. It also criticises the lack of concrete measures to improve the efficiency and autonomy of state-sector enterprises and to restrict the creation of new state enterprises.
+
+The remaining amendments address the reorganisation of Assam and alleged attacks on non-Assamese residents in Guwahati and elsewhere; unemployment and the absence of measures to encourage productive investment; the government's position on the Vietnam War; the liberation struggles in Southern Africa and Tibet; and the need for a regional collective-security system in South and South-East Asia in response to Chinese Communist expansionism. The rendered pages constitute the complete document; no printed page folios are visible, and the handwritten mark appears to read “Piloo Mody,” but no printed author byline is present.
+
 ## Key points
 
 - The document gives notice of amendments to the Motion of Thanks to the President's Address.

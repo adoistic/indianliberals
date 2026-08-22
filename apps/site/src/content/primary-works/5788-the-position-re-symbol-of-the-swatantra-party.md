@@ -51,6 +51,12 @@ summary: |-
   The paper argues that the requirement to affirm the “principles of socialism” conflicted with the Swatantra Party’s basic anti-socialist position. It notes the party’s August 1, 1989 request for registration without prejudice to a constitutional challenge, its failure to answer the Commission’s August 12 letter because it could not provide requested organisational information, and its unanswered November 1991 inquiry to Soli Sorabjee. The paper concludes with three proposed actions: reply to the Commission, consider challenging the socialism requirement in court, and seek to have the Star unfrozen if the party is to be reactivated.
 ---
 
+## Summary
+
+This four-page typed position paper records the Swatantra Party’s position on the freezing of its election symbol, the Star, after the party split and the merger of the Bharatiya Kranti Dal and the Swatantra Party led by Piloo Mody. It reviews the Election Commission’s June 1989 notice under section 29A of the Representation of the People (Amendment) Act, 1988, which required political parties seeking registration to affirm allegiance to the Constitution, socialism, secularism, democracy, and India’s sovereignty, unity, and integrity.
+
+The paper argues that the requirement to affirm the “principles of socialism” conflicted with the Swatantra Party’s basic anti-socialist position. It notes the party’s August 1, 1989 request for registration without prejudice to a constitutional challenge, its failure to answer the Commission’s August 12 letter because it could not provide requested organisational information, and its unanswered November 1991 inquiry to Soli Sorabjee. The paper concludes with three proposed actions: reply to the Commission, consider challenging the socialism requirement in court, and seek to have the Star unfrozen if the party is to be reactivated.
+
 ## Key points
 
 - The Swatantra Party’s Star symbol was frozen after the party split and the merger of parties including the Bharatiya Kranti Dal.

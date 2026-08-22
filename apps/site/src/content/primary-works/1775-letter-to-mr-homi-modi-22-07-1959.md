@@ -53,6 +53,12 @@ summary: |-
   The letter also advances a fiscal and governance critique. It questions the high cost of India's administration compared with America's, argues that many people in government security do little useful work, and criticizes the Central Government's tax burden. The writer concludes that Swatantra's immediate task is to win public confidence and restore a healthier political balance.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 22 July 1959 and signed by Ruttonchund Master, discusses the condition of democracy and party politics in India. The writer argues that the country has reached a point at which opposition parties can exercise their constitutional rights through criticism, social work, and public demonstrations. He presents the Swatantra Party as a newly formed force that could provide an alternative to Congress, while expressing concern about Congress's long tenure, corruption, inefficiency, and waste.
+
+The letter also advances a fiscal and governance critique. It questions the high cost of India's administration compared with America's, argues that many people in government security do little useful work, and criticizes the Central Government's tax burden. The writer concludes that Swatantra's immediate task is to win public confidence and restore a healthier political balance.
+
 ## Key points
 
 - The writer says India's democratic arrangements now permit opposition parties to criticize the government and demonstrate publicly.

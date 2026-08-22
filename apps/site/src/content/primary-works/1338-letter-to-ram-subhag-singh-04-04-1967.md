@@ -49,6 +49,10 @@ summary: |-
   In this letter dated April 4, 1967, M. R. Masani writes to Ram Subhag Singh, Minister for Parliamentary Affairs, regarding the Minister of Education's proposal to constitute a committee to consider several educational matters. Masani refers to a discussion at a meeting of Opposition leaders and proposes seven individuals to represent Opposition groups in the Lok Sabha committee.
 ---
 
+## Summary
+
+In this letter dated April 4, 1967, M. R. Masani writes to Ram Subhag Singh, Minister for Parliamentary Affairs, regarding the Minister of Education's proposal to constitute a committee to consider several educational matters. Masani refers to a discussion at a meeting of Opposition leaders and proposes seven individuals to represent Opposition groups in the Lok Sabha committee.
+
 ## Key points
 
 - The letter is dated April 4, 1967, and is addressed to Dr. Ram Subhag Singh in New Delhi.

@@ -54,6 +54,12 @@ summary: |-
   The circular also provides a new telephone number for communications with the headquarters and asks recipients to disseminate the information to everyone concerned. It is addressed to a party contact as “Dear Friend” and signed by Major (P. H. Honawar).
 ---
 
+## Summary
+
+This one-page English office circular, issued by the Swatantra Party Central Office on March 27, 1967, announces an administrative relocation. With effect from April 1, 1967, the party's National Headquarters will return to its former premises at Sassoon Building, 143 Mahatma Gandhi Road, Bombay 1.
+
+The circular also provides a new telephone number for communications with the headquarters and asks recipients to disseminate the information to everyone concerned. It is addressed to a party contact as “Dear Friend” and signed by Major (P. H. Honawar).
+
 ## Key points
 
 - The document is Central Office Circular No. 73, dated March 27, 1967.

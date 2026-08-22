@@ -50,6 +50,12 @@ summary: |-
   Ranga acknowledges that he should have consulted the party's Executive Committee before declining an invitation to an informal discussion with the Deputy Chairman and members of the Planning Commission. He agrees to take Deo's observations into account in future. The letter distinguishes planning committees from administrative bodies such as Block Committees and Zilla Parishads, arguing that the latter are not expected to make policy decisions that would conflict with the party's position on planning.
 ---
 
+## Summary
+
+This one-page letter, dated February 21, 1964, from M. G. Ranga to Shri P. K. Deo, concerns the Swatantra Party's position on government planning. Ranga explains that the party had previously decided not to associate itself with planning committees being formed at the Centre and state levels, because participation might commit it, directly or indirectly, to the government's planning framework and the policies arising from it. He notes that Minoo Masani and other party colleagues had accordingly been advised to decline membership of such committees.
+
+Ranga acknowledges that he should have consulted the party's Executive Committee before declining an invitation to an informal discussion with the Deputy Chairman and members of the Planning Commission. He agrees to take Deo's observations into account in future. The letter distinguishes planning committees from administrative bodies such as Block Committees and Zilla Parishads, arguing that the latter are not expected to make policy decisions that would conflict with the party's position on planning.
+
 ## Key points
 
 - The Swatantra Party had decided not to participate in government planning committees at the Centre or state level.

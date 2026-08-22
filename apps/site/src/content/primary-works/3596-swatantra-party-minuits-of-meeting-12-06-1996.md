@@ -51,6 +51,12 @@ summary: |-
   The committee unanimously appointed S. Ramachandran as Vice President, noting that he was an ex-Corporator and co-opted Executive Committee member. It also reviewed legal cases filed against Ratansinh Rajda and Courier Publications, asking Ramachandran to coordinate with the party’s legal adviser, N. G. Raut. The minutes express disappointment that a case filed under the Representation of the People Act had not come up for hearing even after 18 months. The document ends with a vote of thanks to the chair.
 ---
 
+## Summary
+
+These three pages record the minutes of the Swatantra Party Maharashtra Executive Committee meeting held in Mumbai on 12 June 1996. S. V. Raju chaired the meeting; the committee confirmed earlier minutes and approved the party’s draft income-and-expenditure account and balance sheet for the year ending 31 March 1996.
+
+The committee unanimously appointed S. Ramachandran as Vice President, noting that he was an ex-Corporator and co-opted Executive Committee member. It also reviewed legal cases filed against Ratansinh Rajda and Courier Publications, asking Ramachandran to coordinate with the party’s legal adviser, N. G. Raut. The minutes express disappointment that a case filed under the Representation of the People Act had not come up for hearing even after 18 months. The document ends with a vote of thanks to the chair.
+
 ## Key points
 
 - The Executive Committee met on 12 June 1996 at the Swatantra Party Maharashtra office in Mumbai.

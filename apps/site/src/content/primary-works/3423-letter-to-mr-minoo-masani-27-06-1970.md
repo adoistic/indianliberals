@@ -53,6 +53,12 @@ summary: |-
   Rajagopalachari urges that socialism compatible with constitutionally protected rights concerning property and occupation be clearly distinguished from socialism that sacrifices those rights. He associates the latter with a statist economy and the reduction of citizens to “serfdom.” The letter is a concise defence of constitutional individual and property rights within the contemporary socialism debate.
 ---
 
+## Summary
+
+In this express letter dated 27 June 1970, C. Rajagopalachari writes to Minoo Masani after reading press reports of the Indian National Congress Working Committee proceedings. He warns that the debate presents a “Tweedledum and Tweedledee” choice between Indira Gandhi and Nijalingappa, rather than a meaningful alternative over political and economic principles.
+
+Rajagopalachari urges that socialism compatible with constitutionally protected rights concerning property and occupation be clearly distinguished from socialism that sacrifices those rights. He associates the latter with a statist economy and the reduction of citizens to “serfdom.” The letter is a concise defence of constitutional individual and property rights within the contemporary socialism debate.
+
 ## Key points
 
 - Rajagopalachari responds to press reports of the Congress Working Committee proceedings.

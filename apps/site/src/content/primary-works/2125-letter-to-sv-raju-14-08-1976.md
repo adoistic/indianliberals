@@ -50,6 +50,12 @@ summary: |-
   The letter reports that the party president, G. K. Sundaram, is willing to meet the additional expense of adding two English pages to Chanakyan. Srinivasan explains that the Bombay group must collect and transmit news of party activities to supply the material for those pages. The second rendered page shows the accompanying inland-letter envelope; it contains no additional substantive correspondence.
 ---
 
+## Summary
+
+This two-page English office letter, dated 14 August 1976, was sent from the Swatantra Party National Head Quarters in Madras by Joint Secretary V. S. Srinivasan to S. V. Raju in Bombay. Srinivasan follows up on an earlier letter concerning the printing of Chanakyan, apparently a party publication, in English and mainly in Tamil, and asks whether Raju has discussed the matter with party contacts in Bombay and reached a decision.
+
+The letter reports that the party president, G. K. Sundaram, is willing to meet the additional expense of adding two English pages to Chanakyan. Srinivasan explains that the Bombay group must collect and transmit news of party activities to supply the material for those pages. The second rendered page shows the accompanying inland-letter envelope; it contains no additional substantive correspondence.
+
 ## Key points
 
 - The letter is dated 14 August 1976 and is issued on Swatantra Party National Head Quarters letterhead in Madras.

@@ -50,6 +50,12 @@ summary: |-
   The report says Masani addressed a large meeting at the Young Club ground after the election in Rajkot had concluded. He attributed the country’s difficulties to faulty government policies and portrayed Meghraj as hardworking, intelligent, and quiet. Asked about his wife’s campaigning for the Prime Minister’s candidate, Masani acknowledged her freedom to do so but said he believed she was wrong.
 ---
 
+## Summary
+
+This one-page Indian Express report, dated 3 March 1971, describes Swatantra Party chairman M. R. Masani campaigning in Rajkot and Surendranagar for Meghraj, the candidate from Dhrangadhra. Masani appealed to voters to support Meghraj as part of an effort to save the country from communism.
+
+The report says Masani addressed a large meeting at the Young Club ground after the election in Rajkot had concluded. He attributed the country’s difficulties to faulty government policies and portrayed Meghraj as hardworking, intelligent, and quiet. Asked about his wife’s campaigning for the Prime Minister’s candidate, Masani acknowledged her freedom to do so but said he believed she was wrong.
+
 ## Key points
 
 - M. R. Masani is identified as chairman of the Swatantra Party.

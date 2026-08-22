@@ -48,6 +48,12 @@ summary: |-
   The document is a typed office letter on the letterhead of Personnel & Productivity Services, with handwritten annotations and Masani’s signature. The rendered page does not include the enclosure or a printed document title; the letter therefore records the invitation and the proposed party discussion but does not provide the party’s name or principles.
 ---
 
+## Summary
+
+This one-page letter, dated 11 June 1959, is M. R. Masani’s invitation to Sir Homi Mody to attend a public meeting at Malchand Hirachand Hall in Bombay on 12 June. Masani writes that Jayaprakash Narayan and he will speak at the meeting and are expected to refer to the proposed formation of a new political party. He notes that a copy of the party’s principles is enclosed.
+
+The document is a typed office letter on the letterhead of Personnel & Productivity Services, with handwritten annotations and Masani’s signature. The rendered page does not include the enclosure or a printed document title; the letter therefore records the invitation and the proposed party discussion but does not provide the party’s name or principles.
+
 ## Key points
 
 - M. R. Masani wrote the letter from Personnel & Productivity Services on 11 June 1959.

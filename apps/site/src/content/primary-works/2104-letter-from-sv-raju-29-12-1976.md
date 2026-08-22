@@ -56,6 +56,12 @@ summary: |-
   The letter presents recent acceptance of pragmatic economic policies as a vindication of the Swatantra Party’s longstanding position, while insisting that its objective remains “prosperity through freedom.” Raju links the party’s tradition to constitutionalism, the rule of law, and educating the public rather than seeking power through the “long road” of political control. He closes by urging supporters to keep the party’s flag flying despite uncertain prospects.
 ---
 
+## Summary
+
+In this letter dated 29 December 1976, S. V. Raju addresses the continuing identity of the Swatantra Party after the death of C. Rajagopalachari (“Rajaji”). He argues that, despite what he calls the “misguided action” of some members who assumed positions of responsibility, the party survives, crediting the Tamil Nadu Swatantra Party and its president, G. K. Sundaram, in particular. Raju attributes the party’s present weakness to the 1974 leadership’s attempt to erase its identity and disregard its perspective in Indian politics.
+
+The letter presents recent acceptance of pragmatic economic policies as a vindication of the Swatantra Party’s longstanding position, while insisting that its objective remains “prosperity through freedom.” Raju links the party’s tradition to constitutionalism, the rule of law, and educating the public rather than seeking power through the “long road” of political control. He closes by urging supporters to keep the party’s flag flying despite uncertain prospects.
+
 ## Key points
 
 - The letter commemorates Rajaji’s death while asserting that the Swatantra Party continues to live.

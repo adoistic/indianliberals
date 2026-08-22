@@ -50,6 +50,12 @@ summary: |-
   Masani also reports having discussed Munshi’s offer of cooperation and other suggestions with Bhailalbhai. He says that Bhailalbhai was pleased to learn that Munshi’s help would be available and would be contacting him directly. The letter is a brief piece of political correspondence concerning party organization, committee contacts, and cooperation.
 ---
 
+## Summary
+
+In this letter dated 22 October 1959, M. R. Masani replies to Ram Rai Munshi after returning from Delhi. Masani explains that, as only Chairman of the Bombay Party, his capacity to act on the lines suggested by Munshi is limited. He encloses a handbook of the Bombay Convention, which contains the names of committee members, and notes that he will leave for Delhi on 15 November.
+
+Masani also reports having discussed Munshi’s offer of cooperation and other suggestions with Bhailalbhai. He says that Bhailalbhai was pleased to learn that Munshi’s help would be available and would be contacting him directly. The letter is a brief piece of political correspondence concerning party organization, committee contacts, and cooperation.
+
 ## Key points
 
 - Masani acknowledges Ram Rai Munshi’s letter of 17 October 1959.

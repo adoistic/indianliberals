@@ -47,6 +47,10 @@ summary: |-
   This Indian Express report says that M. R. Masani has asked to be relieved as general secretary of the Swatantra Party, a position he has held for seven years. He has written to the party’s general council, which is scheduled to meet in Delhi, explaining that it is not good for the country or for parliamentary democracy for one person to remain in the same government or party office for too long. He invokes the principle of job rotation used in enlightened industrial management and applies it to party administration.
 ---
 
+## Summary
+
+This Indian Express report says that M. R. Masani has asked to be relieved as general secretary of the Swatantra Party, a position he has held for seven years. He has written to the party’s general council, which is scheduled to meet in Delhi, explaining that it is not good for the country or for parliamentary democracy for one person to remain in the same government or party office for too long. He invokes the principle of job rotation used in enlightened industrial management and applies it to party administration.
+
 ## Key points
 
 - M. R. Masani seeks release from the Swatantra Party general secretaryship after seven years.

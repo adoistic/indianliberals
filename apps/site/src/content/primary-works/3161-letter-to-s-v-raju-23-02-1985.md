@@ -46,6 +46,12 @@ summary: |-
   The letter also offers to forward relevant material and asks the recipient to leave contact details in Bombay. The writer mentions that some of her papers are unavailable because they have been damaged by termites, and indicates that her husband’s health or functioning may limit his involvement. The letter closes with an invitation to remain in contact and is signed “Louella.”
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 23 February 1985 and addressed to “Raju,” responds warmly to the recipient’s thesis project. Louella Lobo Prabhu calls the thesis an excellent idea and offers assistance from herself and her husband, including completing questionnaires or providing an interview, while noting that her husband may not be able to travel.
+
+The letter also offers to forward relevant material and asks the recipient to leave contact details in Bombay. The writer mentions that some of her papers are unavailable because they have been damaged by termites, and indicates that her husband’s health or functioning may limit his involvement. The letter closes with an invitation to remain in contact and is signed “Louella.”
+
 ## Key points
 
 - The letter is addressed to Raju and appears to concern his thesis.

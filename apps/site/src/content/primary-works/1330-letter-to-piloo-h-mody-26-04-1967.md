@@ -51,6 +51,12 @@ summary: |-
   Masani objects that the Congress Party had already appropriated 51 bungalows for ministers, and asks Mody to prepare a letter of protest to the House Committee chairman, Mr. Bhagwati. He also urges Mody to write directly as a member of the relevant sub-committee, insisting that the two bungalows removed from their allocation should not be allowed to remain taken away.
 ---
 
+## Summary
+
+In this letter dated April 26, 1967, M. R. Masani writes to Piloo H. Mody about the allocation of parliamentary bungalows. Masani agrees that the allocation was fair under the stated basis, but argues that a proportional division between the Congress Party and the Opposition would have been preferable: 75 bungalows for Congress and 65 for the Opposition. He calculates that the Swatantra Party would then have received 12 rather than 7 bungalows.
+
+Masani objects that the Congress Party had already appropriated 51 bungalows for ministers, and asks Mody to prepare a letter of protest to the House Committee chairman, Mr. Bhagwati. He also urges Mody to write directly as a member of the relevant sub-committee, insisting that the two bungalows removed from their allocation should not be allowed to remain taken away.
+
 ## Key points
 
 - Masani accepts the stated basis for allocating the houses but disputes its practical application.

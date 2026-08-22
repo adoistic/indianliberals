@@ -47,6 +47,10 @@ summary: |-
   This two-page handwritten telegram-letter from C. Rajagopalachari to Minoo Masani, dated 18 April 1964, is an urgent political communication sent from Madras and marked for express delivery. Rajagopalachari reports on an ongoing electoral contest, writing that his side is leading by more than 7,000 votes and referring to the need to assess the situation as results develop.
 ---
 
+## Summary
+
+This two-page handwritten telegram-letter from C. Rajagopalachari to Minoo Masani, dated 18 April 1964, is an urgent political communication sent from Madras and marked for express delivery. Rajagopalachari reports on an ongoing electoral contest, writing that his side is leading by more than 7,000 votes and referring to the need to assess the situation as results develop.
+
 ## Key points
 
 - The document is dated 18 April 1964 and is written on C. Rajagopalachari's Madras letterhead.

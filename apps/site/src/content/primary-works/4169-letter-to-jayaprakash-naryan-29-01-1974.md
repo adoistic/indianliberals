@@ -51,6 +51,12 @@ summary: |-
   Masani also reports on Govindrao Deshpande's activities, saying that Deshpande and his colleagues appear to be making progress and have presumably kept Narayan informed. The enclosed telegram, dated 30 January 1974, confirms that a seminar can be arranged in Delhi on 25 March, or alternatively on 3 April, and asks Narayan to indicate his preference.
 ---
 
+## Summary
+
+In this letter dated 29 January 1974, M. R. Masani writes to Jayaprakash Narayan about Narayan's move to Uttar Pradesh and his efforts to secure a clean election there. Masani explains that he has sent a telegram and copied the letter to Patna, while awaiting Narayan's response before proceeding with preparations for a seminar. He describes Narayan's participation as potentially significant for the organisers.
+
+Masani also reports on Govindrao Deshpande's activities, saying that Deshpande and his colleagues appear to be making progress and have presumably kept Narayan informed. The enclosed telegram, dated 30 January 1974, confirms that a seminar can be arranged in Delhi on 25 March, or alternatively on 3 April, and asks Narayan to indicate his preference.
+
 ## Key points
 
 - Masani's letter is dated 29 January 1974 and is addressed to Jayaprakash Narayan.

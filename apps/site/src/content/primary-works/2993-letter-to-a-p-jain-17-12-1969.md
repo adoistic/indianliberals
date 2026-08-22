@@ -48,6 +48,12 @@ summary: |-
   Masani supports the request by identifying Pamela Singh as a long-serving All India Radio news reader whose work requires reporting for duty at odd hours. He argues that, because other All India Radio news readers have received telephones on a priority basis, her request is reasonable and should be granted without interruption.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to L.C. Jain, dated December 17, 1969, asks the Post and Telegraph authorities to keep telephone number 626044 connected at 64, Lodi Estate, after the death of Raja Girraj Saran Singh of Bharatpur. Masani requests that the connection be transferred into the name of Singh’s widow, Pamela Singh, who is willing to pay the normal charges.
+
+Masani supports the request by identifying Pamela Singh as a long-serving All India Radio news reader whose work requires reporting for duty at odd hours. He argues that, because other All India Radio news readers have received telephones on a priority basis, her request is reasonable and should be granted without interruption.
+
 ## Key points
 
 - The letter is dated December 17, 1969, and is addressed to Mr. L.C. Jain in his capacity as a senior Posts and Telegraphs official.

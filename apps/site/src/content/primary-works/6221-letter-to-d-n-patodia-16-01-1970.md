@@ -48,6 +48,12 @@ summary: |-
   The letter reflects the organisational and political networking of the Swatantra Party period. The proposed seminar is described as an all-India event expected to draw 400–500 delegates, while the business association is presented as an influential body among West Bengal’s middle and lower-middle business communities. A secretary’s acknowledgment dated January 16, 1970, notes that Masani was abroad and that Patodia’s letter would be placed before him on his return.
 ---
 
+## Summary
+
+This two-page English correspondence, dated January 8, 1970, is a letter from D. N. Patodia to M. R. Masani. Patodia says he will discuss a matter with Rani Sahiba of Bharatpur during a prospective visit to Delhi and extends two invitations to Masani: to serve as chief guest at a Lions Club seminar in Calcutta on youth unrest and the role of social organisations, and to inaugurate the annual session of the Paschim Banga Mofussil Byabasayee Sammelan at Behampore, West Bengal.
+
+The letter reflects the organisational and political networking of the Swatantra Party period. The proposed seminar is described as an all-India event expected to draw 400–500 delegates, while the business association is presented as an influential body among West Bengal’s middle and lower-middle business communities. A secretary’s acknowledgment dated January 16, 1970, notes that Masani was abroad and that Patodia’s letter would be placed before him on his return.
+
 ## Key points
 
 - Patodia writes to M. R. Masani on January 8, 1970, from Calcutta.

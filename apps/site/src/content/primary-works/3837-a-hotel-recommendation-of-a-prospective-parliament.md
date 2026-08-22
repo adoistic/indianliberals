@@ -50,6 +50,12 @@ summary: |-
   The dossier then assesses Buldana's electoral environment. It describes a predominantly rural constituency of six assembly segments, with approximately 35 percent literacy and an economy based principally on agriculture. It provides community-wise estimates, party-organisation details, prior voting figures, and results from the Yawal, Raver, Edlabad, Malkapur, Buldana, and Chikhli assembly constituencies. The recommendation argues that Patil's education, public record, local social base, previous electoral performance, and the anticipated support of opposition parties give him a credible chance against the Congress candidate. The document does not identify an author, publisher, place, or publication year.
 ---
 
+## Summary
+
+This confidential Swatantra Party dossier presents V. N. Patil as a prospective parliamentary candidate for the Buldana constituency in Maharashtra. It records his education at Ferguson College and Cambridge, legal career, legislative experience, public activities, educational and cooperative work, and leadership in the Swatantra Party's Maharashtra organisation. The profile emphasizes his long association with East Khandesh, including service on legislative committees, work connected with debt-conciliation, the introduction of sugar and foodgrain rationing in 1942, and numerous local institutional roles.
+
+The dossier then assesses Buldana's electoral environment. It describes a predominantly rural constituency of six assembly segments, with approximately 35 percent literacy and an economy based principally on agriculture. It provides community-wise estimates, party-organisation details, prior voting figures, and results from the Yawal, Raver, Edlabad, Malkapur, Buldana, and Chikhli assembly constituencies. The recommendation argues that Patil's education, public record, local social base, previous electoral performance, and the anticipated support of opposition parties give him a credible chance against the Congress candidate. The document does not identify an author, publisher, place, or publication year.
+
 ## Key points
 
 - Profiles V. N. Patil's education, legal career, legislative service, public activities, and party leadership.

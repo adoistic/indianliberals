@@ -51,6 +51,12 @@ summary: |-
   The letter sets out criteria and procedures for candidate selection, including character, political record, constituency acceptability, electorate composition, party organisation, previous voting patterns, and local consultation. It also calls for verification of candidates, formal approval and minutes from State Parliamentary Boards, a Central Office inquiry process, recruitment of constituency-level field organisers, and an immediate meeting of each State Board or Committee. The document is primarily an internal exercise in party-building, electoral preparation, and decentralised but centrally reviewed governance.
 ---
 
+## Summary
+
+This four-page Swatantra Party circular, issued by General Secretary M. R. Masani on March 23, 1965, translates a recently endorsed organisational statement into an operational plan for the 1967 General Election. It assigns day-to-day campaign supervision to the Central Parliamentary Board and asks State Units to establish parliamentary committees, rank constituencies by priority, and recommend candidates for Parliament and State Assemblies.
+
+The letter sets out criteria and procedures for candidate selection, including character, political record, constituency acceptability, electorate composition, party organisation, previous voting patterns, and local consultation. It also calls for verification of candidates, formal approval and minutes from State Parliamentary Boards, a Central Office inquiry process, recruitment of constituency-level field organisers, and an immediate meeting of each State Board or Committee. The document is primarily an internal exercise in party-building, electoral preparation, and decentralised but centrally reviewed governance.
+
 ## Key points
 
 - The Central Parliamentary Board is made responsible for supervising the Swatantra Party's campaign for the 1967 General Elections.

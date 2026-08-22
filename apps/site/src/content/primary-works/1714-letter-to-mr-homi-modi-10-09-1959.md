@@ -50,6 +50,12 @@ summary: |-
   Munshi says he will remain in Delhi for another eight to ten days. He also comments on the newly formed Swatantra Party, describing it as a continuing source of activity that he finds difficult to bear. The second scanned page is the addressed envelope; it contains no additional substantive correspondence.
 ---
 
+## Summary
+
+This brief English letter, dated September 10, 1959, was written by K. M. Munshi from the Bharatiya Vidya Bhavan camp in New Delhi to Sir Homi Mody in Bombay. Munshi acknowledges Mody’s August 29 letter, explains that he had just returned from a short rest in Mussoorie, and reports that the Lucknow Convention had gone exceptionally well.
+
+Munshi says he will remain in Delhi for another eight to ten days. He also comments on the newly formed Swatantra Party, describing it as a continuing source of activity that he finds difficult to bear. The second scanned page is the addressed envelope; it contains no additional substantive correspondence.
+
 ## Key points
 
 - The letter is dated September 10, 1959, and was sent from Bharatiya Vidya Bhavan’s camp in New Delhi.

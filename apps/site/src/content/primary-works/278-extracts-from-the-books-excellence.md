@@ -48,6 +48,10 @@ summary: |-
   This three-page extract sheet reproduces twelve quotations from J. W. Gardner’s book “EXCELLENCE,” with references to chapters and printed pages ranging from 23 to 155. The selections argue that societies require vigorous leadership, initiative, talent, motivation, and shared purpose, while warning against egalitarian systems that suppress distinction and excellence. They treat education as a process of sorting and preparation, and leadership selection as requiring rigorous attention to ability and character.
 ---
 
+## Summary
+
+This three-page extract sheet reproduces twelve quotations from J. W. Gardner’s book “EXCELLENCE,” with references to chapters and printed pages ranging from 23 to 155. The selections argue that societies require vigorous leadership, initiative, talent, motivation, and shared purpose, while warning against egalitarian systems that suppress distinction and excellence. They treat education as a process of sorting and preparation, and leadership selection as requiring rigorous attention to ability and character.
+
 ## Key points
 
 - The extracts defend leadership, initiative, and personal excellence against what they describe as the deadening effects of extreme egalitarianism.

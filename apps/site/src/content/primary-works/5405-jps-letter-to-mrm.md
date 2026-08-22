@@ -51,6 +51,12 @@ summary: |-
   Narayan also frames the appeal in wider national and international terms. He describes the recipient as an important link between the Party, Europe, and especially Great Britain, and argues that Indian socialism should be heard abroad. He rejects treating the social question simply as a choice between violence and non-violence, while affirming that labour’s eventual victory would produce a more peaceful and civilised world. The letter concludes by urging the recipient to come back despite possible imprisonment, and includes extracts from The Endless Crisis, edited by François Duchêne, concerning racial integration, political participation, and social justice in the United States.
 ---
 
+## Summary
+
+In this undated Letter No. 2, Jayaprakash Narayan urges the unnamed recipient to return to active political work. He argues that the Party needs the recipient’s clarity, drive, and organisational ability, especially for work among the masses, in the Congress, and among students. The letter presents this return as an opportunity to transform and revitalise the Party through initiative and action rather than relying on policy alone.
+
+Narayan also frames the appeal in wider national and international terms. He describes the recipient as an important link between the Party, Europe, and especially Great Britain, and argues that Indian socialism should be heard abroad. He rejects treating the social question simply as a choice between violence and non-violence, while affirming that labour’s eventual victory would produce a more peaceful and civilised world. The letter concludes by urging the recipient to come back despite possible imprisonment, and includes extracts from The Endless Crisis, edited by François Duchêne, concerning racial integration, political participation, and social justice in the United States.
+
 ## Key points
 
 - Narayan makes an urgent request that the recipient return to active political life.

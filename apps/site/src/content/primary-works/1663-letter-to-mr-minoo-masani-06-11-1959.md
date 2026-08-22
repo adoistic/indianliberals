@@ -52,6 +52,12 @@ summary: |-
   The writer also comments on education and elections. They criticize the prevailing university education as unsatisfactory and argue that inadequate preparation leaves people unready for the “last election.” The letter closes with practical requests to convey the writer’s message to Rajaji and Munshi and to ask several contacts to respond.
 ---
 
+## Summary
+
+This three-page letter, dated 6 November 1959 and signed “Nutan,” is addressed to Minoo Masani. The writer reports on a visit to Rajasthan and assesses the prospects of the newly formed Swatantra Party there. The letter argues that, if Swatantra seeks to establish itself in Rajasthan, the merger of the Swatantra Party and the Ram Rajya Parishad would need to be addressed; it identifies Rajaji as the party’s principal recognized opposition figure and refers to K. M. Munshi’s expected visit to Jaipur.
+
+The writer also comments on education and elections. They criticize the prevailing university education as unsatisfactory and argue that inadequate preparation leaves people unready for the “last election.” The letter closes with practical requests to convey the writer’s message to Rajaji and Munshi and to ask several contacts to respond.
+
 ## Key points
 
 - The writer describes a recent visit to Rajasthan and reports conversations with provincial leaders and local people.

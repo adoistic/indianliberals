@@ -49,6 +49,12 @@ summary: |-
   The letter notes that an extra copy of the June correspondence is enclosed for reference and asks for an immediate response. It is a narrowly administrative document focused on the party’s pending registration-related communication rather than on a broader argument about electoral policy or governance.
 ---
 
+## Summary
+
+This one-page English office letter, dated August 30, 1994, is a reminder from J. Venkiteswaran, President of the Swatantra Party, Maharashtra, to the Secretary of the Election Commission of India. Sent by Speed Post from the party’s Bombay office, it requests a reply to an earlier letter dated June 28, 1994 concerning the registration of political parties under section 29A.
+
+The letter notes that an extra copy of the June correspondence is enclosed for reference and asks for an immediate response. It is a narrowly administrative document focused on the party’s pending registration-related communication rather than on a broader argument about electoral policy or governance.
+
 ## Key points
 
 - The document is headed “REMINDER” and dated August 30, 1994.

@@ -49,6 +49,12 @@ summary: |-
   Masani argues that parliamentary spokespeople must be selected for effectiveness rather than treated as a matter of personal favour or office allocation. He cites the President's Address, the Railway Budget, and the Finance Bill as occasions on which Kalahandi's insistence on being first speaker could weaken the party's public position. Masani offers to go to Bombay to help placate him and proposes that Rajagopalachari explain the need to arrange speakers according to the party's interests. The page ends with Masani's handwritten postscript, which is not fully legible.
 ---
 
+## Summary
+
+In this confidential letter dated February 21, 1964, Minoo Masani writes to C. Rajagopalachari about tensions within the parliamentary party. He explains that Kalahandi has complained about being repeatedly sidelined since Ranga was re-elected to Parliament, while also noting that Kalahandi relinquished his acting and deputy leadership positions. Masani says the immediate problem is how to accommodate Kalahandi without harming the party's interests or provoking further conflict, especially given disagreements over who should speak in parliamentary debates.
+
+Masani argues that parliamentary spokespeople must be selected for effectiveness rather than treated as a matter of personal favour or office allocation. He cites the President's Address, the Railway Budget, and the Finance Bill as occasions on which Kalahandi's insistence on being first speaker could weaken the party's public position. Masani offers to go to Bombay to help placate him and proposes that Rajagopalachari explain the need to arrange speakers according to the party's interests. The page ends with Masani's handwritten postscript, which is not fully legible.
+
 ## Key points
 
 - Masani reports renewed complaints from Kalahandi about being excluded from parliamentary responsibilities.

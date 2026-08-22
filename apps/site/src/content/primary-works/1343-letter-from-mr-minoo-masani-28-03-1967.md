@@ -49,6 +49,12 @@ summary: |-
   Masani therefore asks the Speaker to allow him to make a personal explanation in the House the following day under Rule 357. He encloses a copy of the proposed statement for the Speaker's perusal and requests that the matter be placed on the agenda for Wednesday, March 29, 1967.
 ---
 
+## Summary
+
+In this letter dated March 28, 1967, M. R. Masani writes from 57 Lodhi Estate, New Delhi, to the Speaker of the Lok Sabha. He explains that, after Masani and other Opposition members had left the House, the Prime Minister made a statement in which she allegedly misquoted him and treated him unjustly.
+
+Masani therefore asks the Speaker to allow him to make a personal explanation in the House the following day under Rule 357. He encloses a copy of the proposed statement for the Speaker's perusal and requests that the matter be placed on the agenda for Wednesday, March 29, 1967.
+
 ## Key points
 
 - The letter is dated March 28, 1967, and is addressed to the Speaker of the Lok Sabha.

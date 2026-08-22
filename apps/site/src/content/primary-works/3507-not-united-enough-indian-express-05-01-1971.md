@@ -50,6 +50,10 @@ summary: |-
   This archival dossier brings together newspaper and magazine editorials published between 5 and 9 January 1971 on the opposition’s attempt to form an electoral front against Indira Gandhi and the Congress (R). The principal Indian Express editorial, “Not united enough,” argues that the Congress (O), Jana Sangh and Samyukta Socialist Party have failed to agree on a coherent minimum programme, while the Swatantra Party’s withdrawal exposes deeper divisions over whether the alliance is substantive or merely tactical. Related editorials in The Statesman, The Hindu, The Financial Express, The Times of India and The Western Times revisit the same dispute, weighing seat adjustments, ideological differences, leadership ambitions and the difficulty of presenting voters with a credible alternative.
 ---
 
+## Summary
+
+This archival dossier brings together newspaper and magazine editorials published between 5 and 9 January 1971 on the opposition’s attempt to form an electoral front against Indira Gandhi and the Congress (R). The principal Indian Express editorial, “Not united enough,” argues that the Congress (O), Jana Sangh and Samyukta Socialist Party have failed to agree on a coherent minimum programme, while the Swatantra Party’s withdrawal exposes deeper divisions over whether the alliance is substantive or merely tactical. Related editorials in The Statesman, The Hindu, The Financial Express, The Times of India and The Western Times revisit the same dispute, weighing seat adjustments, ideological differences, leadership ambitions and the difficulty of presenting voters with a credible alternative.
+
 ## Key points
 
 - The clippings focus on the January 1971 opposition effort to defeat Indira Gandhi’s Congress (R) in the Lok Sabha elections.

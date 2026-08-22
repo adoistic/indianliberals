@@ -47,6 +47,12 @@ summary: |-
   The letter is typed on Member of Parliament (Lok Sabha) letterhead and bears Singh’s handwritten signature. No further political argument, policy position, or biographical information appears on the page.
 ---
 
+## Summary
+
+This one-page letter, dated February 26, 1965, is written by Ian Singh from 29 South Avenue, New Delhi, to M. R. Masani. Singh follows up on a prior conversation and formally expresses his wish to join the Swatantra Party in the Lok Sabha as an associate member. The document records a specific act of political affiliation within parliamentary party politics.
+
+The letter is typed on Member of Parliament (Lok Sabha) letterhead and bears Singh’s handwritten signature. No further political argument, policy position, or biographical information appears on the page.
+
 ## Key points
 
 - The letter is dated February 26, 1965, and was sent from New Delhi.

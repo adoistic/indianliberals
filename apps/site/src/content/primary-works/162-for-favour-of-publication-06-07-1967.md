@@ -54,6 +54,12 @@ summary: |-
   Masani presents Naxalbari and the political crisis in West Bengal as tests of Indian patriotism and democratic order. He warns that continued tolerance of guerrilla activity could produce bloodshed comparable to Vietnam, criticizes the Congress government as a power-holding political class that has lost public confidence, and argues that India's leaders must act before economic collapse and political chaos become irreversible. The document also records his criticism of what he describes as Soviet influence in the Indian press and the Congress government's growing dependence on the Soviet Union. The document has no printed title, publisher, issuing body, or visible year.
 ---
 
+## Summary
+
+This two-page English press-release-style document reports remarks by M. R. Masani, deputy leader of the Swatantra Party in Parliament, to the Progressive Group in Bombay on July 6. Masani attacks the Congress government's record and rejects both continued Congress rule and a prospective non-Congress coalition as inadequate alternatives. He instead advocates a government of Democratic Unity that excludes the Communist parties and could cooperate with democratic opposition forces, arguing that public education may create the conditions for such a realignment.
+
+Masani presents Naxalbari and the political crisis in West Bengal as tests of Indian patriotism and democratic order. He warns that continued tolerance of guerrilla activity could produce bloodshed comparable to Vietnam, criticizes the Congress government as a power-holding political class that has lost public confidence, and argues that India's leaders must act before economic collapse and political chaos become irreversible. The document also records his criticism of what he describes as Soviet influence in the Indian press and the Congress government's growing dependence on the Soviet Union. The document has no printed title, publisher, issuing body, or visible year.
+
 ## Key points
 
 - Masani characterizes the so-called non-Congress governments as failures, except those in Orissa and Madras.

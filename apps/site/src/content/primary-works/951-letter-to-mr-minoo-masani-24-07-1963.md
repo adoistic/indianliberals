@@ -50,6 +50,12 @@ summary: |-
   The letter's substantive focus is an agricultural-land bill that Ranga believes could endanger rights across India, including in the former zamindari states of Bihar, Bengal, Uttar Pradesh, and Madhya Pradesh. He also discusses circulating synopses of Swatantra Party MPs' speeches, weighing the cost and usefulness of producing a small number of edited copies or 100–200 cyclostyled copies. The document is a single-page typed letter on Swatantra Party letterhead, dated from Nidubrolu.
 ---
 
+## Summary
+
+This 24 July 1963 letter from N. G. Ranga to Minoo Masani concerns preparations for the Swatantra Party's Bangalore convention, rescheduled for 6 August. Ranga asks Masani to write again to B. D. Patel and persuade Dandekar to attend meetings in Madras and Bangalore.
+
+The letter's substantive focus is an agricultural-land bill that Ranga believes could endanger rights across India, including in the former zamindari states of Bihar, Bengal, Uttar Pradesh, and Madhya Pradesh. He also discusses circulating synopses of Swatantra Party MPs' speeches, weighing the cost and usefulness of producing a small number of edited copies or 100–200 cyclostyled copies. The document is a single-page typed letter on Swatantra Party letterhead, dated from Nidubrolu.
+
 ## Key points
 
 - The Swatantra Party's Bangalore convention was moved from 5 to 6 August 1963.

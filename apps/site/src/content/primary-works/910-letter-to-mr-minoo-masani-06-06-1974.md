@@ -48,6 +48,12 @@ summary: |-
   The message also asks Arya to collect the copies and arrange their distribution to members. The page includes both the express telegram text and a confirmation copy addressed to Arya; it does not identify the president, Bhatia, the members, or the organisation involved.
 ---
 
+## Summary
+
+This one-page English telegram from Minoo Masani to Mr. Mewaram Arya is dated 6 June 1974 and was sent from Bombay. Masani regrets that he cannot come to Delhi, reports that he has written to the president, and asks Arya to stop sending copies of his letter through Bhatia.
+
+The message also asks Arya to collect the copies and arrange their distribution to members. The page includes both the express telegram text and a confirmation copy addressed to Arya; it does not identify the president, Bhatia, the members, or the organisation involved.
+
 ## Key points
 
 - The document is an express telegram from Minoo Masani to Mewaram Arya.

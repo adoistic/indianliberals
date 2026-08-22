@@ -59,6 +59,12 @@ summary: |-
   The letter extends this critique to export restrictions, public-sector expansion, and fiscal policy. It cites Ireland, Taiwan, and Pakistan as examples of economies whose growth, in Ranga’s presentation, benefited from fewer controls. It argues that public-sector projects are generally loss-making, questions the Planning Commission’s expectation that additional resources should be mobilised from the public sector, and criticises taxation, inflation, foreign debt, domestic debt, and the absence of clearly identified available resources. The letter concludes that the Swatantra Party cannot accept responsibility for government policies involving new projects, additional taxation, public debt, and inflation.
 ---
 
+## Summary
+
+This three-page letter, dated May 11, 1968, is addressed by N. G. Ranga from the Swatantra Party Parliamentary Office to Prime Minister Indira Gandhi concerning the proposed approach to the Fourth Five-Year Plan. Ranga states that the party is not opposed to planning in principle, but argues that planning has become an instrument for controls, licences, permits, corruption, and political patronage. He calls for the abolition of Food Zones, fewer controls on trade, and the removal of industrial licensing and quotas, while allowing narrowly defined exceptions for depressed or economically backward areas.
+
+The letter extends this critique to export restrictions, public-sector expansion, and fiscal policy. It cites Ireland, Taiwan, and Pakistan as examples of economies whose growth, in Ranga’s presentation, benefited from fewer controls. It argues that public-sector projects are generally loss-making, questions the Planning Commission’s expectation that additional resources should be mobilised from the public sector, and criticises taxation, inflation, foreign debt, domestic debt, and the absence of clearly identified available resources. The letter concludes that the Swatantra Party cannot accept responsibility for government policies involving new projects, additional taxation, public debt, and inflation.
+
 ## Key points
 
 - The Swatantra Party distinguishes opposition to excessive state controls from opposition to planning itself.

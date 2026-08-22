@@ -52,6 +52,12 @@ summary: |-
   The circular sets out the meeting’s agenda: confirmation of the previous minutes; recommendations for Rajya Sabha and Vidhan Parishad elections; correspondence with the Election Commission concerning Bihar; correspondence with the S.S.P.; discussion of C. Rajagopalachari’s article in Swarajya, “The Issue of Good Government”; assistance to state units; review and processing of parliamentary candidatures; and business before Parliament’s Budget Session. It is an internal organizational communication focused on party administration, electoral preparation, and parliamentary strategy.
 ---
 
+## Summary
+
+Dated 8 February 1966, this one-page Swatantra Party circular from the Central Office announces a meeting of the Central Parliamentary Board to be held in Madras on 26–27 February at the Kalki Building, Kilpauk. Signed by M. R. Masani as General Secretary, it asks members to attend and provides arrangements for hotel and rail or air reservations.
+
+The circular sets out the meeting’s agenda: confirmation of the previous minutes; recommendations for Rajya Sabha and Vidhan Parishad elections; correspondence with the Election Commission concerning Bihar; correspondence with the S.S.P.; discussion of C. Rajagopalachari’s article in Swarajya, “The Issue of Good Government”; assistance to state units; review and processing of parliamentary candidatures; and business before Parliament’s Budget Session. It is an internal organizational communication focused on party administration, electoral preparation, and parliamentary strategy.
+
 ## Key points
 
 - The Central Parliamentary Board is scheduled to meet in Madras on 26–27 February 1966.

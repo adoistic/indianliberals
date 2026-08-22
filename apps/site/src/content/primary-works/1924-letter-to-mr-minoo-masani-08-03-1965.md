@@ -50,6 +50,12 @@ summary: |-
   Pages 2–4 reproduce Masani’s Lok Sabha starred-question notices on these same subjects. The forms ask the Finance Minister about anticipated 1965–66 customs-duty realisations, the tax realised from bonus shares issued during 1964–65, and the possible effect of export tax-study certificates on the import-entitlement scheme. The rendered pages show the preparation and formal submission of parliamentary questions, but not the Finance Minister’s answers or the subsequent parliamentary debate.
 ---
 
+## Summary
+
+This four-page English-language office communication, dated March 8, 1965, transmits Dr. F. A. Mehta’s message to Minoo Masani through Mr. V. Vaidyanathan. Mehta asks Masani to seek clarification from the Finance Minister, either in his speech or through questions, on three issues: bonus-share issues financed from reserves other than share-premium accounts; the expected revenue from a 10 per cent regulatory customs duty on imported goods; and whether tax-credit certificates for exports would affect the benefits available under the import-entitlement scheme.
+
+Pages 2–4 reproduce Masani’s Lok Sabha starred-question notices on these same subjects. The forms ask the Finance Minister about anticipated 1965–66 customs-duty realisations, the tax realised from bonus shares issued during 1964–65, and the possible effect of export tax-study certificates on the import-entitlement scheme. The rendered pages show the preparation and formal submission of parliamentary questions, but not the Finance Minister’s answers or the subsequent parliamentary debate.
+
 ## Key points
 
 - A Tata Industries teleprinter message dated March 8, 1965, conveys Dr. F. A. Mehta’s request to Mr. V. Vaidyanathan.

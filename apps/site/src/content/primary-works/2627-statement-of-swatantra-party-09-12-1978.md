@@ -60,6 +60,12 @@ summary: |-
   The accompanying consensus statement locates these economic arguments within a broader programme identified with C. Rajagopalachari (Rajaji). It calls for the restoration of the Constitution as adopted in 1950, the re-establishment of moral standards or Dharma in public life, and the abandonment of the state-capitalist model through dismantling the Permit-Licence-Quota Raj, dissolving the National Planning Commission, reversing the priorities of the Five Year Plans, and reducing direct and indirect taxation. Rather than forming a new political party, it recommends non-party local organisations, public education, and “constructive work” for poorer and disadvantaged sections. The document ends with extensive lists of discussion participants and their addresses.
 ---
 
+## Summary
+
+This 1978 statement, issued in the context of discussions held in Madras on 9–10 December 1978, presents a liberal critique of socialist planning, extensive state direction, austerity, and the regulatory regime. The visible policy arguments hold that state planning does not create additional productive resources, but instead diverts resources from other uses and concentrates political power. The document also argues that governments may attempt to control the economy while neglecting basic functions of governance, and that austerity can become self-perpetuating rather than producing future abundance.
+
+The accompanying consensus statement locates these economic arguments within a broader programme identified with C. Rajagopalachari (Rajaji). It calls for the restoration of the Constitution as adopted in 1950, the re-establishment of moral standards or Dharma in public life, and the abandonment of the state-capitalist model through dismantling the Permit-Licence-Quota Raj, dissolving the National Planning Commission, reversing the priorities of the Five Year Plans, and reducing direct and indirect taxation. Rather than forming a new political party, it recommends non-party local organisations, public education, and “constructive work” for poorer and disadvantaged sections. The document ends with extensive lists of discussion participants and their addresses.
+
 ## Key points
 
 - Socialist planning is presented as concentrating and creating power rather than augmenting productive resources.

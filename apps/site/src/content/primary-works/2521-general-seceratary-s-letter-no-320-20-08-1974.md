@@ -55,6 +55,12 @@ summary: |-
   The convention considered competing resolutions: one rejecting dissolution and another supporting it. The anti-dissolution resolution received 53 votes, while the dissolution resolution received 407, with one neutral delegate. A state-wise table records the voting pattern and identifies Uttar Pradesh, Orissa, Gujarat, Rajasthan, and Tamil Nadu as significant components of the convention. The enclosed resolutions argue that the Swatantra Party’s principles remain valid but ultimately approve its merger into the proposed Bharatiya Lok Dal, excluding the Ruling Congress and Communist parties. The pages also state that members unwilling to join the new party could continue non-partisan activities under another name.
 ---
 
+## Summary
+
+Dated August 20, 1974, this General Secretary’s letter reports on the Swatantra Party’s Seventh National Convention, held in New Delhi on August 4–5 to decide whether the party should dissolve. It reproduces the General Council’s earlier endorsement of a “National Alternative” and explains the procedural background to the convention, including circulation of a draft programme, press access to deliberations, and the decision to vote by a show of hands rather than secret ballot.
+
+The convention considered competing resolutions: one rejecting dissolution and another supporting it. The anti-dissolution resolution received 53 votes, while the dissolution resolution received 407, with one neutral delegate. A state-wise table records the voting pattern and identifies Uttar Pradesh, Orissa, Gujarat, Rajasthan, and Tamil Nadu as significant components of the convention. The enclosed resolutions argue that the Swatantra Party’s principles remain valid but ultimately approve its merger into the proposed Bharatiya Lok Dal, excluding the Ruling Congress and Communist parties. The pages also state that members unwilling to join the new party could continue non-partisan activities under another name.
+
 ## Key points
 
 - The letter documents the Swatantra Party’s Seventh National Convention in New Delhi on August 4–5, 1974.

@@ -51,6 +51,10 @@ summary: |-
   This two-page letter from S. V. Raju to V. S. Srikumar, dated 28 December 1976, discusses internal Swatantra Party strategy and political organisation. Raju says he has reconsidered his opposition to “Chanakyan,” a project associated with Mr. Ramas...? [name unclear in the scan], because its author is attempting to survive within the constraints of the prevailing situation. He also comments on Piloo Mody’s efforts to create opposition unity and on planned district-level conferences in Tamil Nadu.
 ---
 
+## Summary
+
+This two-page letter from S. V. Raju to V. S. Srikumar, dated 28 December 1976, discusses internal Swatantra Party strategy and political organisation. Raju says he has reconsidered his opposition to “Chanakyan,” a project associated with Mr. Ramas...? [name unclear in the scan], because its author is attempting to survive within the constraints of the prevailing situation. He also comments on Piloo Mody’s efforts to create opposition unity and on planned district-level conferences in Tamil Nadu.
+
 ## Key points
 
 - Raju acknowledges delayed replies to Srikumar’s letters of 22 November and 4 and 15 December.

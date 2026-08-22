@@ -52,3 +52,9 @@ summary: |-
   
   Masani attributes the crisis to what he calls fundamentally wrong economic and planning policies, especially the government’s commitment to Socialism and Planning, heavy-industry priorities, state production, economic protectionism, and hostility to foreign capital. He calls for a more realistic and market-oriented direction, welcomes West German conditions on development lending, and urges the United States to make continued food aid conditional on abandoning the Fourth Plan and redirecting resources toward food production.
 ---
+
+## Summary
+
+The visible pages are from issue 159 of Freedom First, dated August 1965, and contain M. R. Masani’s article “The Current Economic Crisis.” The article argues that India is approaching bankruptcy, citing the collapse of sterling balances, rapidly increasing foreign indebtedness, dependence on foreign aid, the depreciation of the rupee, weakness in the capital market, import restrictions, credit contraction, and shortages of diesel and kerosene.
+
+Masani attributes the crisis to what he calls fundamentally wrong economic and planning policies, especially the government’s commitment to Socialism and Planning, heavy-industry priorities, state production, economic protectionism, and hostility to foreign capital. He calls for a more realistic and market-oriented direction, welcomes West German conditions on development lending, and urges the United States to make continued food aid conditional on abandoning the Fourth Plan and redirecting resources toward food production.

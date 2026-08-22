@@ -47,6 +47,10 @@ summary: |-
   This undated, single-page English letter is addressed to Mr. N. Dandeker, M.P., General Secretary of the Swatantra Party, at the party's Central Office in Bombay. The unidentified sender asks Dandeker to convene an emergency meeting of the party's General Council.
 ---
 
+## Summary
+
+This undated, single-page English letter is addressed to Mr. N. Dandeker, M.P., General Secretary of the Swatantra Party, at the party's Central Office in Bombay. The unidentified sender asks Dandeker to convene an emergency meeting of the party's General Council.
+
 ## Key points
 
 - The letter is addressed to N. Dandeker, M.P., General Secretary of the Swatantra Party.

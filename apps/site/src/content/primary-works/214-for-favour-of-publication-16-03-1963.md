@@ -56,6 +56,12 @@ summary: |-
   Masani also condemns the increase in excise and customs duties as harmful to the poor, economic stability, and development. He describes the Budget as inflationary, rejects price controls under the Defence of India Rules, and uses the persistence of Soviet black markets as evidence against their effectiveness. The page records no title, year, publisher, or issuing organisation beyond the “For Favour of Publication” heading and the reference to Masani’s Swatantra Party position.
 ---
 
+## Summary
+
+This single-page press statement reports remarks by M. R. Masani, General Secretary of the Swatantra Party, at a public meeting in Kalbadevi, Bombay. Masani argues that the proposed super-profits tax rests on a mistaken identification of profits with capital alone. He presents profits as the result of several contributors—investment, labour, technical skill, and management—and warns that taxing profits in this manner would eliminate joint-stock enterprise from fields where large capital investment is unnecessary.
+
+Masani also condemns the increase in excise and customs duties as harmful to the poor, economic stability, and development. He describes the Budget as inflationary, rejects price controls under the Defence of India Rules, and uses the persistence of Soviet black markets as evidence against their effectiveness. The page records no title, year, publisher, or issuing organisation beyond the “For Favour of Publication” heading and the reference to Masani’s Swatantra Party position.
+
 ## Key points
 
 - Masani criticises the proposed super-profits tax as based on a failure to distinguish between interest and profit.

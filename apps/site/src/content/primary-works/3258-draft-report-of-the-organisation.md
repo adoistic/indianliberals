@@ -50,6 +50,10 @@ summary: |-
   This three-page draft report of the Swatantra Party Organisation Sub-Committee addresses an appeal concerning the party unit in Bihar, particularly disputes within the Bihar Unit and the implementation of an award issued by K. M. Munshi. It recounts how the dispute was referred to Munshi, how Bihar was divided electorally for the 1962 General Elections, and how the Parliamentary Sub-Committee issued directions after hearing the disputing parties. The report presents these measures as temporary electoral arrangements and defends the General Secretary’s subsequent dealings with district presidents in Tirhut.
 ---
 
+## Summary
+
+This three-page draft report of the Swatantra Party Organisation Sub-Committee addresses an appeal concerning the party unit in Bihar, particularly disputes within the Bihar Unit and the implementation of an award issued by K. M. Munshi. It recounts how the dispute was referred to Munshi, how Bihar was divided electorally for the 1962 General Elections, and how the Parliamentary Sub-Committee issued directions after hearing the disputing parties. The report presents these measures as temporary electoral arrangements and defends the General Secretary’s subsequent dealings with district presidents in Tirhut.
+
 ## Key points
 
 - The report responds to an appeal by members claiming to represent the Bihar Unit of the Swatantra Party.

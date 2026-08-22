@@ -58,6 +58,12 @@ summary: |-
   The remainder of the document assigns speakers to parliamentary demands across a broad policy agenda, including communications, labour and rehabilitation, external affairs, industrial development, works and housing, health and family planning, information and broadcasting, education, planning and social welfare, finance, transport, and steel. M. R. Masani is listed as Deputy Leader and is assigned external affairs and transport, while Viren J. Shah is assigned finance and steel. The pages provide an administrative snapshot of the party's parliamentary coordination, its opposition to extending emergency powers, and its effort to distribute policy advocacy among named members.
 ---
 
+## Summary
+
+These minutes record a meeting of the Swatantra Party's parliamentary Executive Committee held on 16 June 1967 at Parliament House, New Delhi, under the chairmanship of M. R. Masani. The committee discussed the composition of a parliamentary delegation to Mavalbari and decided that K. P. Singh Deo should represent the party if the proposed Rajya Sabha members were unavailable. It also considered the Home Minister's note on a Constitution Amendment Bill concerning the partial continuation of the Emergency, deciding that the party would not support the bill and would issue a press handout opposing the government's attempt to withdraw its commitment to end the Emergency by 1 July.
+
+The remainder of the document assigns speakers to parliamentary demands across a broad policy agenda, including communications, labour and rehabilitation, external affairs, industrial development, works and housing, health and family planning, information and broadcasting, education, planning and social welfare, finance, transport, and steel. M. R. Masani is listed as Deputy Leader and is assigned external affairs and transport, while Viren J. Shah is assigned finance and steel. The pages provide an administrative snapshot of the party's parliamentary coordination, its opposition to extending emergency powers, and its effort to distribute policy advocacy among named members.
+
 ## Key points
 
 - The Swatantra Party parliamentary Executive Committee met on 16 June 1967 in Parliament House, New Delhi.

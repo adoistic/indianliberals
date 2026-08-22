@@ -47,6 +47,10 @@ summary: |-
   This single-page English telegram, sent from Bombay in March 1971, addresses Minoo Masani as President of the Swatantra Party. The sender expresses admiration for Masani and sympathy for his constituency after an electoral setback, then wishes that he may continue serving Indians for many years, comparing him with the revered Rajaji. The sender is signed only as “THAKORE SAHEB,” whose full identity is not established.
 ---
 
+## Summary
+
+This single-page English telegram, sent from Bombay in March 1971, addresses Minoo Masani as President of the Swatantra Party. The sender expresses admiration for Masani and sympathy for his constituency after an electoral setback, then wishes that he may continue serving Indians for many years, comparing him with the revered Rajaji. The sender is signed only as “THAKORE SAHEB,” whose full identity is not established.
+
 ## Key points
 
 - The telegram is addressed to Minoo Masani in his capacity as President of the Swatantra Party.

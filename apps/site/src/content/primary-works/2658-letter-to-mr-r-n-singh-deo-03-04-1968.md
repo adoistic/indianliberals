@@ -47,6 +47,12 @@ summary: |-
   The letter requests that Singh Deo communicate to Volckmann, through his Calcutta address at the U.S. Consulate-General, the name of the official whom Volckmann should contact. The second rendered page is an enclosed visiting card identifying Volckmann as a University of California, Berkeley Ph.D. candidate, with a Delhi address at 31 Hanuman Road.
 ---
 
+## Summary
+
+This undated-title letter, written by M. R. Masani from 2 Tughlak Road, New Delhi, on 3 April 1968, is addressed to R. N. Singh Deo, identified as Chief Minister of Bhubaneswar. Masani forwards an enclosed note from Russell W. Volckmann and asks Singh Deo to facilitate Volckmann’s research by arranging appropriate official assistance during his visit to Bhubaneswar.
+
+The letter requests that Singh Deo communicate to Volckmann, through his Calcutta address at the U.S. Consulate-General, the name of the official whom Volckmann should contact. The second rendered page is an enclosed visiting card identifying Volckmann as a University of California, Berkeley Ph.D. candidate, with a Delhi address at 31 Hanuman Road.
+
 ## Key points
 
 - M. R. Masani wrote the letter from 2 Tughlak Road, New Delhi, on 3 April 1968.

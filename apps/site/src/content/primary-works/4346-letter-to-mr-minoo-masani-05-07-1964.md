@@ -47,6 +47,10 @@ summary: |-
   This two-page handwritten letter from C. Rajagopalachari to Minoo Masani, dated approximately 5 July 1964, combines political correspondence with personal news. Rajagopalachari apologizes for not bringing a correct copy of resolutions prepared in the G.C. and asks that an accurate copy be sent so they can be printed in Swarajya and placed on record.
 ---
 
+## Summary
+
+This two-page handwritten letter from C. Rajagopalachari to Minoo Masani, dated approximately 5 July 1964, combines political correspondence with personal news. Rajagopalachari apologizes for not bringing a correct copy of resolutions prepared in the G.C. and asks that an accurate copy be sent so they can be printed in Swarajya and placed on record.
+
 ## Key points
 
 - Rajagopalachari writes to Minoo Masani from his Madras address.

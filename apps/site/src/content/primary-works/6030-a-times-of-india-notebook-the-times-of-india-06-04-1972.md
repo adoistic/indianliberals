@@ -49,6 +49,12 @@ summary: |-
   The clipping also describes Madho Singh’s appeal for humane treatment of former dacoits and their families. It argues that rehabilitation requires more than legal surrender: families should not be harassed, and former offenders should be helped to establish peaceful livelihoods. The concluding example cites surrendered Chambal ravines dacoits who received land and began farming. The article’s visible text is limited to this newspaper column; no byline or separate article title is printed.
 ---
 
+## Summary
+
+This Times of India notebook item describes Madhya Pradesh dacoits who have surrendered their weapons and attempted to rebuild their lives through the Sarvodaya movement. It focuses on Madho Singh, who carries a Rs. 1,112 reward on his head and travels to Delhi to meet Vinoba Bhave, whom the article identifies as the “great Sarvodaya leader.” The account presents his surrender as a gradual process shaped by trust in the movement and by his earlier association with the Socialist Party.
+
+The clipping also describes Madho Singh’s appeal for humane treatment of former dacoits and their families. It argues that rehabilitation requires more than legal surrender: families should not be harassed, and former offenders should be helped to establish peaceful livelihoods. The concluding example cites surrendered Chambal ravines dacoits who received land and began farming. The article’s visible text is limited to this newspaper column; no byline or separate article title is printed.
+
 ## Key points
 
 - The article profiles Madhya Pradesh dacoits who have surrendered through the Sarvodaya movement.

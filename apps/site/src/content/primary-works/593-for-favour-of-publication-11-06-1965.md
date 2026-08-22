@@ -53,6 +53,12 @@ summary: |-
   Masani criticizes India’s foreign policy since Independence, particularly its neglect of Southeast Asia, its position on Malaysia and Indonesia, and its handling of non-alignment. He maintains that non-alignment need not mean neutrality or refusal of assistance, noting Jawaharlal Nehru’s acceptance of American and British aid during the 1962 Chinese invasion. The statement attributes New Delhi’s policies partly to dependence on the Soviet veto over Kashmir and partly to appeasement of communist expansion. Masani concludes by advocating a regional security arrangement involving the free countries of Asia, supported by Western democracies, with India and Japan as its principal anchors.
 ---
 
+## Summary
+
+This two-page press statement reports M. R. Masani’s address to the Annual General Meeting of the Indian Council of World Affairs on the dangers posed by communist expansion in Southeast Asia. Masani argues that accepting the withdrawal of American forces from Vietnam would expose Vietnam, Laos, and Malaysia to Chinese communist domination and leave India encircled by communist states. He describes the Vietnam conflict as externally directed armed aggression rather than a genuine “war of national liberation,” citing North Vietnamese infiltration, professional military leadership, foreign-supplied weapons, and alleged violations of the Geneva Convention.
+
+Masani criticizes India’s foreign policy since Independence, particularly its neglect of Southeast Asia, its position on Malaysia and Indonesia, and its handling of non-alignment. He maintains that non-alignment need not mean neutrality or refusal of assistance, noting Jawaharlal Nehru’s acceptance of American and British aid during the 1962 Chinese invasion. The statement attributes New Delhi’s policies partly to dependence on the Soviet veto over Kashmir and partly to appeasement of communist expansion. Masani concludes by advocating a regional security arrangement involving the free countries of Asia, supported by Western democracies, with India and Japan as its principal anchors.
+
 ## Key points
 
 - Masani warns that an American withdrawal from Vietnam would enable Chinese communist expansion across Vietnam, Laos, Malaysia, and potentially toward India.

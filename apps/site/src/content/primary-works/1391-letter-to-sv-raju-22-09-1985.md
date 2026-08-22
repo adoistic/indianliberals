@@ -48,6 +48,12 @@ summary: |-
   In the second page, Patel refers to a letter from Sri Subramoniam in Madras concerning the revival of the Swatantra Party. He asks whether the proposal is being discussed with Mr. Muggani and with his approval, says he has not yet replied to Subramoniam, and requests Raju's views before doing so. The correspondence therefore documents an informal effort to gather archival material and consult allies about reviving the party.
 ---
 
+## Summary
+
+This two-page letter from Harinar Patel to S. V. Raju, dated by hand 22 September 1985, transmits papers relating to the Swatantra Party. Patel explains that he is sending whatever material he could locate without sorting it, asks Raju to retain what is useful and return the remainder through P. C. Das if possible, and notes that he is writing hurriedly before attending a meeting.
+
+In the second page, Patel refers to a letter from Sri Subramoniam in Madras concerning the revival of the Swatantra Party. He asks whether the proposal is being discussed with Mr. Muggani and with his approval, says he has not yet replied to Subramoniam, and requests Raju's views before doing so. The correspondence therefore documents an informal effort to gather archival material and consult allies about reviving the party.
+
 ## Key points
 
 - Harinar Patel sends S. V. Raju papers he located concerning the Swatantra Party.

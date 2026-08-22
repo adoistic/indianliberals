@@ -48,6 +48,12 @@ summary: |-
   Masani also reports that he will be in Delhi for a parliamentary session and may need to remain there because of important issues likely to arise for discussion. He weighs attending to party organisational work in Bihar, Bengal, or Uttar Pradesh against travelling south again, and proposes discussing the matter when he reaches Madras on October 31.
 ---
 
+## Summary
+
+This letter, dated October 28, 1959, is from Minoo Masani to S. S. Mariswamy, secretary of the Swatantra Party in Madras State. Masani explains that he will be attending two conferences in Madras and Tanjore and asks Mariswamy not to expect him at additional conferences in Madurai and Coimbatore.
+
+Masani also reports that he will be in Delhi for a parliamentary session and may need to remain there because of important issues likely to arise for discussion. He weighs attending to party organisational work in Bihar, Bengal, or Uttar Pradesh against travelling south again, and proposes discussing the matter when he reaches Madras on October 31.
+
 ## Key points
 
 - Masani acknowledges Mariswamy's letter of October 20, 1959.

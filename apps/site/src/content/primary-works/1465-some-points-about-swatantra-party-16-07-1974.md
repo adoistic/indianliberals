@@ -53,6 +53,12 @@ summary: |-
   The paper maintains that the Swatantra Party cannot be dissolved under its constitution, since even constitutional amendment requires a three-fourths majority. It presents M. R. Masani's compromise proposal as a way to avoid a split: the party would become a non-party organisation, tentatively called the Swatantra Seva Sangh, devoted to educating the public about Swatantra principles and policies and to constructive public service. The document warns that failure to reach agreement could reproduce the divisions previously experienced by the Socialist Party.
 ---
 
+## Summary
+
+This two-page paper, dated 16 July 1974, argues against dissolving the Swatantra Party to facilitate the creation of a new party with six other organisations. It reports that the Bombay, Madras, and Delhi units have rejected the proposal, while a substantial part of the membership elsewhere is also in revolt. The paper identifies three objections: the proposed party would not constitute a national alternative, the character of some participating parties would damage its public credibility, and its vague programme would not ensure coherent functioning.
+
+The paper maintains that the Swatantra Party cannot be dissolved under its constitution, since even constitutional amendment requires a three-fourths majority. It presents M. R. Masani's compromise proposal as a way to avoid a split: the party would become a non-party organisation, tentatively called the Swatantra Seva Sangh, devoted to educating the public about Swatantra principles and policies and to constructive public service. The document warns that failure to reach agreement could reproduce the divisions previously experienced by the Socialist Party.
+
 ## Key points
 
 - The paper records strong opposition within the Swatantra Party to a proposal for dissolution and merger with six other parties.

@@ -52,6 +52,12 @@ summary: |-
   The letter asks Masani to state urgently what he may have to say for consideration by the Speaker of the Lok Sabha and requests immediate acknowledgement of receipt. The rendered page shows only the covering letter; the attached notices and their enclosures are not included.
 ---
 
+## Summary
+
+This one-page letter, dated 18 March 1992, was issued by the Lok Sabha Secretariat (Legislative Branch-II) to Minoo Masani, identified as editor-in-chief of The Statesman (Calcutta Edition). It forwards notices concerning a question of privilege brought by Hanman Mollah and eight other members against the editor, printer, and publisher of The Statesman, as well as against Masani as the author of a column titled “As I see it”.
+
+The letter asks Masani to state urgently what he may have to say for consideration by the Speaker of the Lok Sabha and requests immediate acknowledgement of receipt. The rendered page shows only the covering letter; the attached notices and their enclosures are not included.
+
 ## Key points
 
 - The letter is dated 18 March 1992 and originates from the Lok Sabha Secretariat's Legislative Branch-II.

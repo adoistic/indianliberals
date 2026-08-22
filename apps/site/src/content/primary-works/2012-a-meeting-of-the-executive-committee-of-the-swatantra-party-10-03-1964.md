@@ -53,6 +53,12 @@ summary: |-
   The page is an administrative circular rather than a substantive policy argument. It records the party’s planned coordination around a farmers’ protest, inter-party action on regulatory appointments, parliamentary cut motions, and internal party finances. The notice is dated March 10, 1964, while the announced meeting is stated to be on Friday, February 13, 1964; the apparent date discrepancy is visible in the document. The secretary’s handwritten signature is not legibly identifiable.
 ---
 
+## Summary
+
+This one-page English-language office notice on Swatantra Party Parliamentary Office letterhead announces a meeting of the party’s Executive Committee at the Central Hall, Parliament House. The notice lists the meeting’s proposed agenda: participation in an All India Kisan March protesting the 17th Amendment Bill; approaches to other parties concerning the Bangalore Resolution on appointing a non-political board for quotas, permits and licences; a subcommittee report on cut motions related to ministry demands; subscription arrears; and any other business permitted by the chair.
+
+The page is an administrative circular rather than a substantive policy argument. It records the party’s planned coordination around a farmers’ protest, inter-party action on regulatory appointments, parliamentary cut motions, and internal party finances. The notice is dated March 10, 1964, while the announced meeting is stated to be on Friday, February 13, 1964; the apparent date discrepancy is visible in the document. The secretary’s handwritten signature is not legibly identifiable.
+
 ## Key points
 
 - The Swatantra Party Executive Committee is summoned to meet at the Central Hall, Parliament House.

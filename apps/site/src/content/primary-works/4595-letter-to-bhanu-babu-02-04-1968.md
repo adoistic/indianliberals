@@ -49,6 +49,12 @@ summary: |-
   The letter emphasizes that the Independent group did not provide Bhanu Babu with any second- or third-preference votes and cautions the recipient against making a hasty decision. It records candidate totals against a stated target of 2,979, identifies Saidul Hasan as elected as the twelfth candidate and another candidate as elected as the thirteenth, and notes Shanti Devi’s elimination after falling short of the required amount. The document is an electoral analysis and political communication rather than a general statement of political theory.
 ---
 
+## Summary
+
+This two-page typed letter from Lucknow, dated 2 April 1968 and signed by KDR Pandey, reports a detailed calculation of preference votes in an election. Addressed to “Bhanu Babu,” it traces first-, second-, and third-preference transfers among candidates affiliated with the Congress, BKD, PSP, Swatantra, Republican, JS, and Independent groups. The writer argues that the distribution of preferences affected the survival and election of several candidates, particularly Ram Ghulam, R. C. Shukla, Virendra Shah, and Saidul Hasan.
+
+The letter emphasizes that the Independent group did not provide Bhanu Babu with any second- or third-preference votes and cautions the recipient against making a hasty decision. It records candidate totals against a stated target of 2,979, identifies Saidul Hasan as elected as the twelfth candidate and another candidate as elected as the thirteenth, and notes Shanti Devi’s elimination after falling short of the required amount. The document is an electoral analysis and political communication rather than a general statement of political theory.
+
 ## Key points
 
 - The letter is dated Lucknow, 2 April 1968, and is addressed to Bhanu Babu.

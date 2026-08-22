@@ -54,6 +54,12 @@ summary: |-
   The adopted resolution argues that the government should be given time to reconsider its policies and introduce necessary changes, rather than face a no-confidence motion that the party believed would serve no useful purpose. The discussion also focused on the food problem and spiralling prices, an unauthorised substitute motion tabled by Yashpal Singh, the breakdown of constitutional machinery in Orissa, and the need for members to clear outstanding party contributions. Minoo Masani and Yashpal Singh were nominated to speak on the motion, for 33 and 15 minutes respectively. The record ends with the meeting's adjournment and is signed by Kapur Singh as secretary.
 ---
 
+## Summary
+
+This two-page English office record documents a Swatantra Party Parliamentary Group meeting held in New Delhi on 6 September 1964 and dated 9 September 1964. It lists 18 members, five special invitees, and K. M. Munshi as chair. The group decided not to join other opposition parties in supporting a no-confidence motion against the government, while retaining its criticism of government policy and reserving the right to oppose it during parliamentary debate.
+
+The adopted resolution argues that the government should be given time to reconsider its policies and introduce necessary changes, rather than face a no-confidence motion that the party believed would serve no useful purpose. The discussion also focused on the food problem and spiralling prices, an unauthorised substitute motion tabled by Yashpal Singh, the breakdown of constitutional machinery in Orissa, and the need for members to clear outstanding party contributions. Minoo Masani and Yashpal Singh were nominated to speak on the motion, for 33 and 15 minutes respectively. The record ends with the meeting's adjournment and is signed by Kapur Singh as secretary.
+
 ## Key points
 
 - The meeting of the Swatantra Party Parliamentary Group took place in New Delhi on 6 September 1964.

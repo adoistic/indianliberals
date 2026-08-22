@@ -49,6 +49,10 @@ summary: |-
   This two-page bilingual circular announces the Swatantra Party District Conference for South Kanara, to be held at Don Bosco Hall, Mangalore, on 25 October 1959. The invitation, dated 5 October 1959, identifies J. M. Lobo Prabhu, I.C.S. (Retd.), as presiding and requests M. R. Masani, M.P., to inaugurate the conference. The Kannada page reproduces the substance of the English invitation and programme.
 ---
 
+## Summary
+
+This two-page bilingual circular announces the Swatantra Party District Conference for South Kanara, to be held at Don Bosco Hall, Mangalore, on 25 October 1959. The invitation, dated 5 October 1959, identifies J. M. Lobo Prabhu, I.C.S. (Retd.), as presiding and requests M. R. Masani, M.P., to inaugurate the conference. The Kannada page reproduces the substance of the English invitation and programme.
+
 ## Key points
 
 - The Swatantra Party South Kanara District Conference was scheduled for 25 October 1959 at Don Bosco Hall, Mangalore.

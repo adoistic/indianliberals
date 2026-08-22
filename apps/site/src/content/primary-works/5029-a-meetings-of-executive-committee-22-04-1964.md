@@ -53,6 +53,12 @@ summary: |-
   The record shows the committee managing electoral preferences and internal party discipline. It approved Kapur Singh’s contest for the Estimates Committee on the understanding that party members would allocate their first, second, and third preference votes among the Swatantra Party nominee, the D.M.K. candidate, and Kapur Singh. The minutes also record a proposed informal discussion on Kashmir and Pakistan, and note that Dahyabhai Patel would decide the Party’s nominee for the Public Undertakings Committee. The document has no printed title or author byline; Kapur Singh signs as Secretary.
 ---
 
+## Summary
+
+This two-page typed record documents a Swatantra Party Parliamentary Office Executive Committee meeting held at Parliament House, New Delhi, on April 22, 1964. Prof. N. G. Ranga was to lead the Party’s debate on the Constitution (17th Amendment) Bill, with Minoo Masani designated as the second speaker. The committee also reviewed nominations to the Public Undertakings, Public Accounts, and Estimates Committees, including the proposed candidacy of Sardar Kapur Singh.
+
+The record shows the committee managing electoral preferences and internal party discipline. It approved Kapur Singh’s contest for the Estimates Committee on the understanding that party members would allocate their first, second, and third preference votes among the Swatantra Party nominee, the D.M.K. candidate, and Kapur Singh. The minutes also record a proposed informal discussion on Kashmir and Pakistan, and note that Dahyabhai Patel would decide the Party’s nominee for the Public Undertakings Committee. The document has no printed title or author byline; Kapur Singh signs as Secretary.
+
 ## Key points
 
 - The Executive Committee met on April 22, 1964, at Committee Room, Central Hall, Parliament House.

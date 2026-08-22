@@ -46,6 +46,12 @@ summary: |-
   The letter also arranges a telephone call to Masani at the Great Eastern Hotel at 7:15 that evening, with the intention of taking him to a cocktail party. The sender's handwritten signature is not reliably legible, so the author cannot be identified from this page.
 ---
 
+## Summary
+
+This single-page English letter, dated 2 December 1959 and written from New Delhi on Metal Box Co. of India Ltd. letterhead, is addressed to Minoo Masani. The sender explains plans to fly down on the morning of 4 December and suggests meeting Masani at the airport if the schedule permits.
+
+The letter also arranges a telephone call to Masani at the Great Eastern Hotel at 7:15 that evening, with the intention of taking him to a cocktail party. The sender's handwritten signature is not reliably legible, so the author cannot be identified from this page.
+
 ## Key points
 
 - The letter is dated 2 December 1959 and originates from New Delhi.

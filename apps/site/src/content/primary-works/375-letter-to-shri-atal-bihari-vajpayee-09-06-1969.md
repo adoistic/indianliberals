@@ -52,6 +52,12 @@ summary: |-
   Ranga frames the merger as part of a broader effort to unite democratic parties and secure the widest possible cooperation. He refers to Rajaji's insistence on a merger of democratic parties, asks Charan Singh and colleagues to meet Rajaji at the next Swatantra Party executive meeting, and requests Vajpayee's help in arranging further discussions. The letter's enclosed press extract presents the merger as urgent for those committed to democracy, free trade, and free enterprise, while the attached circulation list and references to Minoo Masani and R. C. Cooper place the correspondence within the Swatantra Party's internal political network.
 ---
 
+## Summary
+
+In this letter dated June 9, 1969, N. G. Ranga writes to Atal Bihari Vajpayee after Vajpayee's illness prevented him from attending the second day of a tripartite meeting in Delhi. Ranga says the first day produced substantial agreement, but that Vajpayee's absence prevented further progress and made it impossible to settle outstanding issues. He also discusses the possibility that the Jana Sangh might not support the proposed merger, while suggesting that the Swatantra Party and the BLD could proceed together and leave the Jana Sangh an opportunity to join later.
+
+Ranga frames the merger as part of a broader effort to unite democratic parties and secure the widest possible cooperation. He refers to Rajaji's insistence on a merger of democratic parties, asks Charan Singh and colleagues to meet Rajaji at the next Swatantra Party executive meeting, and requests Vajpayee's help in arranging further discussions. The letter's enclosed press extract presents the merger as urgent for those committed to democracy, free trade, and free enterprise, while the attached circulation list and references to Minoo Masani and R. C. Cooper place the correspondence within the Swatantra Party's internal political network.
+
 ## Key points
 
 - Ranga expresses concern about Vajpayee's illness and absence from the Delhi tripartite meeting.

@@ -50,6 +50,12 @@ summary: |-
   Raju cites a recent letter from “Smt. Dnawthree Saragamma” as an example: it had been opened by the recipient and then marked for him despite bearing the sender’s name and address. He argues that opening letters or files addressed to another person is “highly objectionable.” The second rendered page is a separate, apparently unrelated article by George Fernandes, “Bihar movement : an assessment,” and is not treated as part of this letter.
 ---
 
+## Summary
+
+This untitled letter, dated December 13, 1974, is from S. V. Raju in Bombay to Mr. Bhatia. Raju objects to the opening of letters addressed to him by name, even when they carry his former designation, and asks that such correspondence be returned unopened if it is official in nature.
+
+Raju cites a recent letter from “Smt. Dnawthree Saragamma” as an example: it had been opened by the recipient and then marked for him despite bearing the sender’s name and address. He argues that opening letters or files addressed to another person is “highly objectionable.” The second rendered page is a separate, apparently unrelated article by George Fernandes, “Bihar movement : an assessment,” and is not treated as part of this letter.
+
 ## Key points
 
 - The letter is dated December 13, 1974, and is addressed to Mr. Bhatia.

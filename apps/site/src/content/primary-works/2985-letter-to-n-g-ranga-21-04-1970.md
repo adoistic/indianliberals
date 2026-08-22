@@ -49,6 +49,12 @@ summary: |-
   Shivappa also states that he is unwilling to speak on subjects assigned by the party except in his individual capacity, including putting questions and calling attention notices, where doing so would not harm the party’s ideology and principles. At the same time, he affirms his continuing party discipline and asks to be relieved of committee and parliamentary responsibilities handled through the party office.
 ---
 
+## Summary
+
+This typed letter, dated April 21, 1970, is from N. Shivappa, a Lok Sabha member, to Prof. N. G. Ranga, leader of the Swatantra Parliamentary Party. Shivappa asks to be excused from participation in certain party-sponsored committees because he is concentrating his available time on constructive work in his constituency.
+
+Shivappa also states that he is unwilling to speak on subjects assigned by the party except in his individual capacity, including putting questions and calling attention notices, where doing so would not harm the party’s ideology and principles. At the same time, he affirms his continuing party discipline and asks to be relieved of committee and parliamentary responsibilities handled through the party office.
+
 ## Key points
 
 - The letter is dated April 21, 1970, and is signed by N. Shivappa from his New Delhi parliamentary office.

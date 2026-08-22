@@ -51,6 +51,12 @@ summary: |-
   Masani then considers how the memorandum should be presented and signed. He suggests that Rajagopalachari’s personal involvement would increase its impact, even proposing that Rajagopalachari travel to Delhi to meet the President and the Prime Minister. The letter closes with practical arrangements for the journey and a request for Rajagopalachari’s view. The scanned pages also contain handwritten annotations and Masani’s signature.
 ---
 
+## Summary
+
+In this two-page letter dated June 4, 1964, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about press reports concerning their political efforts. Masani says he learned of the story only from newspapers, dismisses the report as fabricated, and notes that he and Rajagopalachari’s associates had met the President to urge him to withhold assent to the 17th Amendment. He proposes preparing a memorandum setting out the principal grounds for their appeal.
+
+Masani then considers how the memorandum should be presented and signed. He suggests that Rajagopalachari’s personal involvement would increase its impact, even proposing that Rajagopalachari travel to Delhi to meet the President and the Prime Minister. The letter closes with practical arrangements for the journey and a request for Rajagopalachari’s view. The scanned pages also contain handwritten annotations and Masani’s signature.
+
 ## Key points
 
 - Masani responds to Rajagopalachari’s letters of May 25 and June 1.

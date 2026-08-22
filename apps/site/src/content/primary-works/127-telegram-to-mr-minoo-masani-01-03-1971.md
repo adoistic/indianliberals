@@ -50,6 +50,10 @@ summary: |-
   This single-page English telegram, dated 1 March 1971, is addressed to Minoo Masani and appears to be sent by Natverlal Parikh, identified on the form as an advocate. Its message expresses support for Indira Gandhi winning a large majority and for the preservation of democracy against what it calls communist fraud. The telegram also contains a brief appeal for success and long life for the effort described as saving democracy.
 ---
 
+## Summary
+
+This single-page English telegram, dated 1 March 1971, is addressed to Minoo Masani and appears to be sent by Natverlal Parikh, identified on the form as an advocate. Its message expresses support for Indira Gandhi winning a large majority and for the preservation of democracy against what it calls communist fraud. The telegram also contains a brief appeal for success and long life for the effort described as saving democracy.
+
 ## Key points
 
 - The document is a one-page telegram form dated 1 March 1971.

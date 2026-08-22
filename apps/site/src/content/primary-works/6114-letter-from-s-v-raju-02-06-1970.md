@@ -47,6 +47,10 @@ summary: |-
   This three-page archival letter, dated June 2, 1970, concerns a meeting of the Divisional Advisory Committee of Gujarat State Transport. S. V. Raju acknowledges the committee's notice and explains that Mr. Masani will be unable to attend because he is travelling in Europe. The English typed copy is addressed to the committee's secretary and signed by Raju as Executive Secretary.
 ---
 
+## Summary
+
+This three-page archival letter, dated June 2, 1970, concerns a meeting of the Divisional Advisory Committee of Gujarat State Transport. S. V. Raju acknowledges the committee's notice and explains that Mr. Masani will be unable to attend because he is travelling in Europe. The English typed copy is addressed to the committee's secretary and signed by Raju as Executive Secretary.
+
 ## Key points
 
 - The document is dated June 2, 1970.

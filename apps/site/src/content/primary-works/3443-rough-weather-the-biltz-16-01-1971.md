@@ -51,6 +51,12 @@ summary: |-
   In Bombay, the article describes a further dispute between SSP leader George Fernandes and S. K. Patil, with Fernandes accusing Patil of being more “anti-Fernandes than anti-India.” It also reports Patil’s concern about Shiv Sena’s support, party-president S. Nijalingappa’s refusal to intervene directly in the Maharashtra–Mysore boundary issue, and a Jan Sangh warning that Jagjivan Ram and Chavan were preparing another confrontation within the Congress. The column closes by noting that 118 Lok Sabha seats were reserved for Scheduled Castes and Scheduled Tribes. The author is not identified on the rendered clipping; the date “16/1/71” is handwritten above it rather than printed in the article.
 ---
 
+## Summary
+
+The Indoscope column “ROUGH WEATHER” surveys the internal strains of the electoral alliance involving Congress, Jan Sangh, SSP and Swatantra in the run-up to the 1971 elections. It presents the alliance as politically unstable, quoting Minoo Masani’s disappointment with the SSP’s alleged role in persuading Congress leaders to reject a principled pact, followed by reversals over possible cooperation with Communist and Marxist groups.
+
+In Bombay, the article describes a further dispute between SSP leader George Fernandes and S. K. Patil, with Fernandes accusing Patil of being more “anti-Fernandes than anti-India.” It also reports Patil’s concern about Shiv Sena’s support, party-president S. Nijalingappa’s refusal to intervene directly in the Maharashtra–Mysore boundary issue, and a Jan Sangh warning that Jagjivan Ram and Chavan were preparing another confrontation within the Congress. The column closes by noting that 118 Lok Sabha seats were reserved for Scheduled Castes and Scheduled Tribes. The author is not identified on the rendered clipping; the date “16/1/71” is handwritten above it rather than printed in the article.
+
 ## Key points
 
 - The article portrays the Congress–Jan Sangh–SSP–Swatantra electoral alliance as fragmented and mutually distrustful.

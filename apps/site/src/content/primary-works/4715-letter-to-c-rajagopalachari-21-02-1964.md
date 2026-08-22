@@ -46,6 +46,10 @@ summary: |-
   In this letter dated February 21, 1964, M. R. Masani writes to C. Rajagopalachari about the possible nomination of Shanti Prasad Jain as the Swatantra Party's candidate for the forthcoming Rajya Sabha election from Ramgarh. Masani argues that Jain's business reputation would damage the Party and warns that N. Dandekar may resign if Jain is elected without the Party's support. He asks Rajagopalachari to authorize a telegram to Ramgarh conveying the view shared by Ranga, Munshi, and Masani.
 ---
 
+## Summary
+
+In this letter dated February 21, 1964, M. R. Masani writes to C. Rajagopalachari about the possible nomination of Shanti Prasad Jain as the Swatantra Party's candidate for the forthcoming Rajya Sabha election from Ramgarh. Masani argues that Jain's business reputation would damage the Party and warns that N. Dandekar may resign if Jain is elected without the Party's support. He asks Rajagopalachari to authorize a telegram to Ramgarh conveying the view shared by Ranga, Munshi, and Masani.
+
 ## Key points
 
 - Masani reports that Shanti Prasad Jain is likely to be nominated as the Party's candidate for election to the Rajya Sabha from Ramgarh.

@@ -55,6 +55,12 @@ summary: |-
   Masani’s second installment treats the election as a warning about the condition of Indian governance rather than as an occasion for political excuses. He calls for restoration of political order, civil liberties, administrative discipline, and economic policies capable of producing stable prices and employment. He criticises licensing, permits, excessive taxation, inflation, unemployment, and what he describes as the socialist economic framework’s tendency to reward inefficiency. The article concludes by warning that India needs credible leadership and a principled alternative to the Congress, while acknowledging that the Swatantra Party itself must develop stronger organisation and leadership. Pages 2 and 4 contain unrelated newspaper reports and are not part of the article.
 ---
 
+## Summary
+
+In the two visible installments of “Poll Results in Perspective,” M. R. Masani argues that Indira Gandhi’s parliamentary majority should not be treated as a straightforward popular mandate. He challenges celebratory press accounts by examining vote shares, seat allocation, first-past-the-post rules, and the effects of multi-member constituencies. He notes that Gandhi’s 43 per cent of the vote produced a large parliamentary majority, while opposition parties received substantial votes but comparatively few seats. Comparisons between the Congress and Swatantra Party, and between election results in West Bengal and Tamil Nadu, are used to illustrate how the electoral system can distort popular representation.
+
+Masani’s second installment treats the election as a warning about the condition of Indian governance rather than as an occasion for political excuses. He calls for restoration of political order, civil liberties, administrative discipline, and economic policies capable of producing stable prices and employment. He criticises licensing, permits, excessive taxation, inflation, unemployment, and what he describes as the socialist economic framework’s tendency to reward inefficiency. The article concludes by warning that India needs credible leadership and a principled alternative to the Congress, while acknowledging that the Swatantra Party itself must develop stronger organisation and leadership. Pages 2 and 4 contain unrelated newspaper reports and are not part of the article.
+
 ## Key points
 
 - Masani disputes the interpretation of Indira Gandhi’s parliamentary majority as evidence of overwhelming popular support.

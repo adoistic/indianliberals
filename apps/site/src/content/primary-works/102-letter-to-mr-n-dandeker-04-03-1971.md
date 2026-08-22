@@ -47,6 +47,12 @@ summary: |-
   Masani reports that Dandeker's meeting and speech continued to "reverberate" among voters through polling day, and judges the smaller gathering Dandeker addressed to have been emotionally more decisive than an earlier, larger meeting held by Kripalani and Ranga. He credits the rapport the two of them built with the audience for the favourable impression left on those present and on people who only heard reports of it. The letter closes with thanks for the intensive touring and other logistical help Dandeker arranged.
 ---
 
+## Summary
+
+A one-page personal note from M. R. Masani to N. Dandeker, dated 4th March 1971 and addressed to Dandeker at the Express Building opposite Churchgate Station, Bombay. Masani writes in the immediate aftermath of the 1971 general election to thank Dandeker for having campaigned on his behalf despite ill health.
+
+Masani reports that Dandeker's meeting and speech continued to "reverberate" among voters through polling day, and judges the smaller gathering Dandeker addressed to have been emotionally more decisive than an earlier, larger meeting held by Kripalani and Ranga. He credits the rapport the two of them built with the audience for the favourable impression left on those present and on people who only heard reports of it. The letter closes with thanks for the intensive touring and other logistical help Dandeker arranged.
+
 ## Key points
 
 - Personal thank-you letter from M. R. Masani to N. Dandeker, dated 4th March 1971, sent to the Express Building, opposite Churchgate Station, Bombay.

@@ -49,6 +49,12 @@ summary: |-
   Masani supports his request by citing earlier correspondence supplied by the Executive Secretary of the Bharatiya Lok Dal in 1976 and repeated in a November 23, 1976 letter from S. V. Raju, written on behalf of Raju, Masani, and Padma Vaswani. The accompanying pages include the disputed tax bill, a 1976 notice warning of prosecution and recovery as land revenue, and postal evidence of the correspondence. The documents therefore record an administrative dispute over vehicle ownership, tax liability, and the failure of government records to reflect the party’s claimed sale of the jeep.
 ---
 
+## Summary
+
+In this letter dated February 7, 1984, M. R. Masani returns a motor-vehicle tax bill to the Regional Transport Officer’s Recovery Branch in Bombay and requests its cancellation. The bill concerns Jeep No. MRG.2347 and covers the period February 1984 to January 1985. Masani argues that the vehicle had belonged to the Swatantra Party for election use in 1971 and had been sold outside Bombay immediately afterward, so he should not be liable for the subsequent tax demand.
+
+Masani supports his request by citing earlier correspondence supplied by the Executive Secretary of the Bharatiya Lok Dal in 1976 and repeated in a November 23, 1976 letter from S. V. Raju, written on behalf of Raju, Masani, and Padma Vaswani. The accompanying pages include the disputed tax bill, a 1976 notice warning of prosecution and recovery as land revenue, and postal evidence of the correspondence. The documents therefore record an administrative dispute over vehicle ownership, tax liability, and the failure of government records to reflect the party’s claimed sale of the jeep.
+
 ## Key points
 
 - Masani writes to the Regional Transport Officer, RTO Recovery Branch, Bombay, on February 7, 1984.

@@ -51,6 +51,12 @@ summary: |-
   Rajagopalachari also cautions Masani that Jaipur's position may be less firm than expected. He relays V. P. Menon's message that advice from Jaipur was not to give Sheikh Abdullah a statement that he could quote, and speculates that this may have reflected Menon's own bias.
 ---
 
+## Summary
+
+In this letter dated 5 May 1964, C. Rajagopalachari reports to Minoo Masani on his discussions with Sheikh Abdullah and Beg regarding Kashmir. Rajagopalachari says Sheikh Abdullah is unwilling to assume responsibility for the Kashmir government because he considers it corrupt at every level, creating an obstacle to immediate elections. He suggests that a temporary period of President's Rule with non-political advisers might overcome this difficulty.
+
+Rajagopalachari also cautions Masani that Jaipur's position may be less firm than expected. He relays V. P. Menon's message that advice from Jaipur was not to give Sheikh Abdullah a statement that he could quote, and speculates that this may have reflected Menon's own bias.
+
 ## Key points
 
 - Rajagopalachari writes to Minoo Masani on 5 May 1964 about discussions concerning Kashmir.

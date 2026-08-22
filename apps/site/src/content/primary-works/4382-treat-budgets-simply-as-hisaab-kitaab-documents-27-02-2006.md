@@ -52,6 +52,12 @@ summary: |-
   In the rendered pages, Raju nevertheless maintains that Budgets can still affect economic outcomes through arbitrary tax changes, new expenditure commitments and high deficits. He proposes replacing Budget-day spectacle with transparent and accountable fiscal governance, while using the opportunities of liberalisation and growth to promote equity, especially in the social sector and in semi-urban and rural India. The article concludes that genuine progress would come when the Budget itself no longer commands public attention or determines the country’s direction.
 ---
 
+## Summary
+
+In the rendered pages, S. V. Raju argues that Union Budgets should be understood as accounting documents rather than as events that directly determine citizens’ lives. He contrasts household budgeting, where people’s financial decisions shape their circumstances, with government Budgets, which he says acquired outsized importance under India’s command-economy framework. Although Budgets once had immediate effects through taxation, spending, deficits and industrial controls, their significance has diminished with the weakening of the licence-permit-quota regime.
+
+In the rendered pages, Raju nevertheless maintains that Budgets can still affect economic outcomes through arbitrary tax changes, new expenditure commitments and high deficits. He proposes replacing Budget-day spectacle with transparent and accountable fiscal governance, while using the opportunities of liberalisation and growth to promote equity, especially in the social sector and in semi-urban and rural India. The article concludes that genuine progress would come when the Budget itself no longer commands public attention or determines the country’s direction.
+
 ## Key points
 
 - The article compares government budgeting with ordinary household financial management.

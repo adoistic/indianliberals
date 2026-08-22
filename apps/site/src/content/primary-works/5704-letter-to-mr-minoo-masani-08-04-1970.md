@@ -47,6 +47,10 @@ summary: |-
   This single-page letter, dated April 8, 1970, is from C. D. Desai, an ICS (Retd.) Member of Parliament, to Minoo Masani. Desai objects that the party office has circulated notes to members of the National Executive concerning a letter and chargesheet from R. H. Cooper without supplying him with copies. He argues that, as the person primarily concerned, he should be given the opportunity to correct inaccuracies or misrepresentations before the matter is considered.
 ---
 
+## Summary
+
+This single-page letter, dated April 8, 1970, is from C. D. Desai, an ICS (Retd.) Member of Parliament, to Minoo Masani. Desai objects that the party office has circulated notes to members of the National Executive concerning a letter and chargesheet from R. H. Cooper without supplying him with copies. He argues that, as the person primarily concerned, he should be given the opportunity to correct inaccuracies or misrepresentations before the matter is considered.
+
 ## Key points
 
 - Desai writes to Masani about the circulation of party-office notes concerning a case involving R. H. Cooper.

@@ -46,6 +46,10 @@ summary: |-
   This single-page English archival office note records the receipt of a cover addressed to Messrs. Sassoon J. David & Co. Ltd., at Ewart House, Bruce Street, Bombay 1. The cover was marked for the attention of Mr. T. S. Bharda and identified as originating from Mr. G. K. Munshi, General Secretary of the Swatantra Party, Maharashtra. A handwritten date notation, “21/8,” and a Bombay postal marking are visible, but no year can be established from the page.
 ---
 
+## Summary
+
+This single-page English archival office note records the receipt of a cover addressed to Messrs. Sassoon J. David & Co. Ltd., at Ewart House, Bruce Street, Bombay 1. The cover was marked for the attention of Mr. T. S. Bharda and identified as originating from Mr. G. K. Munshi, General Secretary of the Swatantra Party, Maharashtra. A handwritten date notation, “21/8,” and a Bombay postal marking are visible, but no year can be established from the page.
+
 ## Key points
 
 - The document is a typed administrative note about a received cover.

@@ -43,6 +43,10 @@ summary: |-
   This one-page typed confirmation copy is a brief English letter dated 6 June 1964 from “MASANI” to Professor Ranga at Nidubrolu, Andhra Pradesh. Its visible message is limited to birthday greetings, wishing the recipient a happy birthday and many happy returns of the day. The copy also records the sender's Bombay address at 148 Mahatma Gandhi Road, Bombay 1.
 ---
 
+## Summary
+
+This one-page typed confirmation copy is a brief English letter dated 6 June 1964 from “MASANI” to Professor Ranga at Nidubrolu, Andhra Pradesh. Its visible message is limited to birthday greetings, wishing the recipient a happy birthday and many happy returns of the day. The copy also records the sender's Bombay address at 148 Mahatma Gandhi Road, Bombay 1.
+
 ## Key points
 
 - The document is a one-page typed letter and confirmation copy.

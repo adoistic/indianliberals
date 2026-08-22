@@ -48,6 +48,12 @@ summary: |-
   Masani also apologises for delaying repayment of a debt and encloses a cheque for Rs. 100. He closes by affirming that the recipients deserve to win by demonstrating political judgment. The page is a personal, supportive letter; it does not identify the underlying crisis or provide further political detail.
 ---
 
+## Summary
+
+In this letter dated 18 March 1971, M. R. Masani responds to a telegram from Ratti and J. J. Singh. He acknowledges that the situation is very bad, but says its seriousness is more impersonal and profound than either recipient may realise, while urging them to continue hoping for the best.
+
+Masani also apologises for delaying repayment of a debt and encloses a cheque for Rs. 100. He closes by affirming that the recipients deserve to win by demonstrating political judgment. The page is a personal, supportive letter; it does not identify the underlying crisis or provide further political detail.
+
 ## Key points
 
 - The letter is dated 18 March 1971 and is signed by M. R. Masani.

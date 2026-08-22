@@ -51,6 +51,12 @@ summary: |-
   The statement urges that the Tibetan question be removed from party politics and treated as a matter of national interest, including through a bipartisan approach. It recommends a more positive Indian position at the United Nations, with emphasis on Tibet's human rights, right to self-determination, and independent national existence, and calls for greater freedom for the Dalai Lama to pursue his country's cause. It concludes by proposing a representative parliamentary group to maintain pressure on Parliament and persuade the government to change its policy.
 ---
 
+## Summary
+
+This one-page statement from the Parliamentary Group for Tibet calls for a fundamental change in India's policy towards Tibet. It argues that India's earlier acceptance of Chinese suzerainty rested on assumptions that have proved unfounded, including the belief that the Chinese Communist regime was friendly and peace-loving and that Tibet's autonomy would be respected. In the rendered page, the statement presents China's rule as colonial domination and rejects any continuing obligation to accept Chinese suzerainty after what it describes as aggression and the suppression of Tibetan liberty.
+
+The statement urges that the Tibetan question be removed from party politics and treated as a matter of national interest, including through a bipartisan approach. It recommends a more positive Indian position at the United Nations, with emphasis on Tibet's human rights, right to self-determination, and independent national existence, and calls for greater freedom for the Dalai Lama to pursue his country's cause. It concludes by proposing a representative parliamentary group to maintain pressure on Parliament and persuade the government to change its policy.
+
 ## Key points
 
 - India's earlier Tibet policy was based on assumptions about China's intentions and respect for Tibetan autonomy that the statement considers disproven.

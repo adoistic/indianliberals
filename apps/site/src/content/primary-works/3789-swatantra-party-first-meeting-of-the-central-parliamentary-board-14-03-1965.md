@@ -52,6 +52,12 @@ summary: |-
   The Board also discusses forthcoming civic, Assembly, and parliamentary elections, including the party’s participation in civic fronts and its procedures for selecting candidates. It establishes a sub-committee to make interim recommendations on parliamentary and by-election candidates, adopts procedures for nominations, approves candidates in Andhra and Rajasthan, and records several prospective parliamentary nominations. The document ends with the meeting’s termination after these organisational and electoral decisions.
 ---
 
+## Summary
+
+These three pages record the first meeting of the Swatantra Party’s Central Parliamentary Board, held in New Delhi on 14 March 1965. The minutes list the members present, confirm the previous meeting’s minutes, note Rajaji’s absence, and review the party’s performance and organisational difficulties in the Kerala and Rajasthan elections. The Board stresses caution in evaluating electoral reports and urges non-Communist opposition parties in Kerala to cooperate in forming a stable government while avoiding the imposition of President’s Rule wherever possible.
+
+The Board also discusses forthcoming civic, Assembly, and parliamentary elections, including the party’s participation in civic fronts and its procedures for selecting candidates. It establishes a sub-committee to make interim recommendations on parliamentary and by-election candidates, adopts procedures for nominations, approves candidates in Andhra and Rajasthan, and records several prospective parliamentary nominations. The document ends with the meeting’s termination after these organisational and electoral decisions.
+
 ## Key points
 
 - The Central Parliamentary Board met in New Delhi on 14 March 1965, with Prof. N. G. Ranga in the chair.

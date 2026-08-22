@@ -46,6 +46,10 @@ summary: |-
   In this single-page letter dated 7 August 1962, C. Rajagopalachari writes to S. V. Raju from his Madras residence. He says that he is enclosing a letter from K. M. Munshi and asks Raju to keep a resolution unreleased for the time being, in accordance with Munshi's wishes.
 ---
 
+## Summary
+
+In this single-page letter dated 7 August 1962, C. Rajagopalachari writes to S. V. Raju from his Madras residence. He says that he is enclosing a letter from K. M. Munshi and asks Raju to keep a resolution unreleased for the time being, in accordance with Munshi's wishes.
+
 ## Key points
 
 - The letter was written by C. Rajagopalachari on 7 August 1962.

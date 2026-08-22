@@ -61,6 +61,12 @@ summary: |-
   The speech then interprets Rajaji’s administrative and liberal commitments. Patel praises his distinction between policymaking by elected politicians and implementation by politically protected civil servants, and links Rajaji’s opposition to controls, licences, and concentrated state power to the defence of individual dignity and initiative. Rajaji is also remembered as a writer in Tamil and English who conveyed ethical and cultural values to younger generations. The text closes by urging systematic study of Rajaji’s ideas so that India might become a country whose people are “free, fearless and self-reliant.” The pamphlet identifies this text as a speech delivered at a Rajaji Foundation subscription dinner in Bombay on January 22, 1978.
 ---
 
+## Summary
+
+In this speech, H. M. Patel presents C. Rajagopalachari (Rajaji) as a morally independent statesman whose influence exceeded the limits of mass politics. Patel emphasizes Rajaji’s long public career, intellectual range, closeness to Mahatma Gandhi, and willingness to sacrifice office, popularity, and personal relationships for what he considered the national interest. Rajaji’s political ethic is described through the idea of dharma: political action required integrity, attention to both means and ends, and resistance to personal ambition or sectional privilege.
+
+The speech then interprets Rajaji’s administrative and liberal commitments. Patel praises his distinction between policymaking by elected politicians and implementation by politically protected civil servants, and links Rajaji’s opposition to controls, licences, and concentrated state power to the defence of individual dignity and initiative. Rajaji is also remembered as a writer in Tamil and English who conveyed ethical and cultural values to younger generations. The text closes by urging systematic study of Rajaji’s ideas so that India might become a country whose people are “free, fearless and self-reliant.” The pamphlet identifies this text as a speech delivered at a Rajaji Foundation subscription dinner in Bombay on January 22, 1978.
+
 ## Key points
 
 - Patel portrays Rajaji as a statesman whose intellectual authority compensated for the absence of a large mass political base.

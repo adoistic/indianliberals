@@ -51,6 +51,12 @@ summary: |-
   The second page is a confirmation copy of an express telegram dated September 15, 1965, sent from R. N. Singh Deo in Bhubaneswar. Addressed to “Ranga,” it expresses approval of postponing the Parliamentary Group elections until the November session and requests an immediate wire to the party’s central office in Bombay. The document therefore provides a small but direct record of party procedure and communication during an organisational crisis.
 ---
 
+## Summary
+
+This two-page correspondence records M. R. Masani’s response to an internal crisis in the Swatantra Party in September 1965. In a letter dated September 16, Masani tells A. P. Jain that the party’s Parliamentary Sub-Committee has decided to postpone the election of office-bearers and executives of the Parliamentary Group until the November session, and asks Jain to circulate the decision to members in both Houses of Parliament.
+
+The second page is a confirmation copy of an express telegram dated September 15, 1965, sent from R. N. Singh Deo in Bhubaneswar. Addressed to “Ranga,” it expresses approval of postponing the Parliamentary Group elections until the November session and requests an immediate wire to the party’s central office in Bombay. The document therefore provides a small but direct record of party procedure and communication during an organisational crisis.
+
 ## Key points
 
 - M. R. Masani’s letter is dated September 16, 1965.

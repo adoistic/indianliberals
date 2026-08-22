@@ -64,6 +64,12 @@ summary: |-
   The resolutions recorded on pages 3–4 take positions on Morarji Desai's fast, the state of emergency, the attack on Jayaprakash Narayan, Kashmir and Article 370, opposition-party cooperation, the mixed economy, and agricultural procurement. The document presents the party as defending parliamentary democracy and a mixed economy while condemning what it describes as increasingly authoritarian economic and political policies. It argues that compulsory procurement and low prices for agricultural produce harm farmers and reduce incentives for increased production.
 ---
 
+## Summary
+
+These four pages record the 9 April 1975 meeting of the National Executive Committee of the All India Swatantra Party in Madras, chaired by G. K. Sundaram. The minutes list attendees and absentees, confirm the previous meeting's minutes, review party organisation in several states, discuss correspondence concerning party reorganisation, and note Sundaram's appointment to the National Coordinating Committee of the People's struggle under Jayaprakash Narayan. The committee also considers electoral coordination, deciding that the party should help form a democratic, non-Congress and non-communist front and pursue common Janata candidates for the 1976 general elections.
+
+The resolutions recorded on pages 3–4 take positions on Morarji Desai's fast, the state of emergency, the attack on Jayaprakash Narayan, Kashmir and Article 370, opposition-party cooperation, the mixed economy, and agricultural procurement. The document presents the party as defending parliamentary democracy and a mixed economy while condemning what it describes as increasingly authoritarian economic and political policies. It argues that compulsory procurement and low prices for agricultural produce harm farmers and reduce incentives for increased production.
+
 ## Key points
 
 - The National Executive met in Madras on 9 April 1975 under the chairmanship of G. K. Sundaram.

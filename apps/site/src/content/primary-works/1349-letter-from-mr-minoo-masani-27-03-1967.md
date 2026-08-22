@@ -52,6 +52,12 @@ summary: |-
   Masani argues that a two-month interval would give the Prime Minister and her colleagues time to attend to important administrative tasks and return to Parliament adequately prepared for the next session's business. He adds that the letter was prompted by press reports suggesting a much earlier opening date, which had caused concern.
 ---
 
+## Summary
+
+In this one-page letter dated March 27, 1967, M. R. Masani of the Swatantra Party Parliamentary Office asks Prime Minister Indira Gandhi to schedule the next session of Parliament for the first days of June. He notes that the current session is due to conclude on April 7 and that the Government's vote-on-account covers four months—April through July—while its demands are to be voted by July 31.
+
+Masani argues that a two-month interval would give the Prime Minister and her colleagues time to attend to important administrative tasks and return to Parliament adequately prepared for the next session's business. He adds that the letter was prompted by press reports suggesting a much earlier opening date, which had caused concern.
+
 ## Key points
 
 - The letter is dated March 27, 1967, and is issued on Swatantra Party Parliamentary Office letterhead.

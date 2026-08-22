@@ -53,6 +53,12 @@ summary: |-
   The letter also discusses the need for stronger political and “Field organisation,” leadership rooted in the masses, and a governmental alternative to the prevailing Congress arrangement. Desai specifically urges cooperation involving Jayaprakash Narayan and expresses criticism of Jawaharlal Nehru’s suitability for continuing as prime minister. The body is principally handwritten Gujarati, with occasional English phrases; no material beyond these three rendered pages is missing.
 ---
 
+## Summary
+
+This three-page Gujarati letter, written on Sunderlal G. Desai’s Dohad business letterhead and dated apparently 29 January 1960, congratulates Minoo Masani on his unanimous election as president of the Swatantra Party. Desai presents the moment as an opportunity to build a popular government and argues that political leaders must cooperate rather than allow personal or factional divisions to obstruct that goal.
+
+The letter also discusses the need for stronger political and “Field organisation,” leadership rooted in the masses, and a governmental alternative to the prevailing Congress arrangement. Desai specifically urges cooperation involving Jayaprakash Narayan and expresses criticism of Jawaharlal Nehru’s suitability for continuing as prime minister. The body is principally handwritten Gujarati, with occasional English phrases; no material beyond these three rendered pages is missing.
+
 ## Key points
 
 - Desai congratulates Minoo Masani on his unanimous election as president of the Swatantra Party.

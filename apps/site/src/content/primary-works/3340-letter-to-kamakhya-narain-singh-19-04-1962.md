@@ -49,6 +49,12 @@ summary: |-
   For paragraph (a), Masani asks Singh to indicate when he proposes to repay Rs. 1.20 lakhs and the accrued interest, while noting that monthly instalments of Rs. 2,000 are continuing on Singh’s behalf. For paragraph (b), he refers to an earlier request for the return of jeep no. BMC 5256, which had been loaned to the Bihar Party by the Centre. He proposes that, once returned, the jeeps belonging to the Centre be retained and registered in the name of the Bihar State Party, which would act as trustee for them on the Centre’s behalf.
 ---
 
+## Summary
+
+In this typed letter dated 19 April 1962, M. R. Masani writes to Kamakhya Narain Singh, whom he addresses as “Raja Saheb,” regarding the draft minutes of a Parliamentary Sub-committee meeting held in Bombay on 14 March. Masani draws attention to decisions arising from the Treasurer’s Report concerning repayment of a bank credit for two jeeps, identified under paragraphs (a) and (b) of the minutes.
+
+For paragraph (a), Masani asks Singh to indicate when he proposes to repay Rs. 1.20 lakhs and the accrued interest, while noting that monthly instalments of Rs. 2,000 are continuing on Singh’s behalf. For paragraph (b), he refers to an earlier request for the return of jeep no. BMC 5256, which had been loaned to the Bihar Party by the Centre. He proposes that, once returned, the jeeps belonging to the Centre be retained and registered in the name of the Bihar State Party, which would act as trustee for them on the Centre’s behalf.
+
 ## Key points
 
 - Masani’s letter is dated 19 April 1962 and is addressed to Kamakhya Narain Singh.

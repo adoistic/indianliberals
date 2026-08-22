@@ -59,6 +59,12 @@ summary: |-
   Raju argues that the Indian Constitution remains essentially liberal despite amendments restricting individual freedom, but criticises the post–First Five Year Plan turn toward socialist economic policies and state control. He credits B. R. Shenoy and the Swatantra Party with sustaining economic liberalism, while distinguishing economic liberalisation from liberal society: China, he notes, liberalised economically without becoming democratic, and India’s economic reforms have not eliminated corruption or intolerance. The Indian Liberal Group is presented as seeking both sound economic policy and a civil society grounded in tolerance, anti-corruption, and respect for the rule of law. The text is based on a talk delivered to the Rotary Club, Mangalore, on January 22, 2004.
 ---
 
+## Summary
+
+In this two-page speech, S. V. Raju distinguishes liberalism from the American usage of “liberal,” defining it instead as a preference for a minimalist state. He presents liberalism as a wider moral and political commitment encompassing values, character, tolerance, human rights, social justice, and an essentially free society. The speech situates this tradition in Indian history, recalling the liberal leadership of the Indian National Congress before 1925 and contrasting it with Gandhi’s later mass-agitation approach.
+
+Raju argues that the Indian Constitution remains essentially liberal despite amendments restricting individual freedom, but criticises the post–First Five Year Plan turn toward socialist economic policies and state control. He credits B. R. Shenoy and the Swatantra Party with sustaining economic liberalism, while distinguishing economic liberalisation from liberal society: China, he notes, liberalised economically without becoming democratic, and India’s economic reforms have not eliminated corruption or intolerance. The Indian Liberal Group is presented as seeking both sound economic policy and a civil society grounded in tolerance, anti-corruption, and respect for the rule of law. The text is based on a talk delivered to the Rotary Club, Mangalore, on January 22, 2004.
+
 ## Key points
 
 - Raju uses “liberalism” to mean advocacy of a minimalist role for the state, distinguishing it from the contemporary American usage of the term.

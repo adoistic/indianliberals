@@ -53,6 +53,12 @@ summary: |-
   Raju says he is enclosing an article for Freedom First describing what happened at the party convention. The separate Hindi message, addressed to M. R. Masani, discusses the formation of a new political party by seven political groups, including the Bharatiya Lok Dal, and describes local organisational reactions, election campaigning, and support for keeping the Swatantra Party separate. It closes by praising Masani’s leadership and expressing confidence in his forthcoming political programme. The document is therefore a record of internal party disagreement, organisational autonomy, and liberal political reorganisation in 1974.
 ---
 
+## Summary
+
+This three-page correspondence consists of S. V. Raju’s typed letter of September 11, 1974, an enclosed handwritten Hindi letter, and the associated inland-letter-card envelope. Writing to Bhagwan Dass Sharma of Jain Intermediate College, Mathura, Raju acknowledges Sharma’s efforts to keep the Swatantra Party active in the district and confirms that the district committee’s exclusion from the party’s dissolution process was not unique to Mathura. He argues that the party was liquidated arbitrarily by a small group of leaders who had assumed authority and power without consulting district and primary units.
+
+Raju says he is enclosing an article for Freedom First describing what happened at the party convention. The separate Hindi message, addressed to M. R. Masani, discusses the formation of a new political party by seven political groups, including the Bharatiya Lok Dal, and describes local organisational reactions, election campaigning, and support for keeping the Swatantra Party separate. It closes by praising Masani’s leadership and expressing confidence in his forthcoming political programme. The document is therefore a record of internal party disagreement, organisational autonomy, and liberal political reorganisation in 1974.
+
 ## Key points
 
 - Raju writes from Bombay to Bhagwan Dass Sharma in Mathura on September 11, 1974.

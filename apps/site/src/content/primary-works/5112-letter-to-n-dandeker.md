@@ -48,6 +48,10 @@ summary: |-
   This undated one-page English letter from Giani Singh Ahluwalia, apparently President of the Delhi Swatantra Party, is addressed to N. Dandekar, the party's General Secretary. Ahluwalia requests an emergency meeting of the General Council to discuss Minoo Masani's resignation from the National Executive and the Central Parliamentary Board.
 ---
 
+## Summary
+
+This undated one-page English letter from Giani Singh Ahluwalia, apparently President of the Delhi Swatantra Party, is addressed to N. Dandekar, the party's General Secretary. Ahluwalia requests an emergency meeting of the General Council to discuss Minoo Masani's resignation from the National Executive and the Central Parliamentary Board.
+
 ## Key points
 
 - The letter is addressed to Mr. N. Dandekar, General Secretary of the Swatantra Party.

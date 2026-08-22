@@ -50,6 +50,12 @@ summary: |-
   Rai says that some participants proposed convening a “Swatantra Youth Convention” in Calcutta under the direction of the All India Swatantra Party. He asks Masani to provide “proper direction and guidance” for the proposed programme. The page documents an early organisational effort to build youth support for the newly formed Swatantra Party.
 ---
 
+## Summary
+
+This letter, dated 21 November 1959 and written from the Uttar Pradeshiy Pravasi Chhatra Sangh in Calcutta, is addressed to M. R. Masani, Member of Parliament, in New Delhi. R. N. Rai, the organisation's General Secretary, welcomes the ideology of the All India Swatantra Party and reports that the group has met several youth organisations in Calcutta to discuss the party's ideas.
+
+Rai says that some participants proposed convening a “Swatantra Youth Convention” in Calcutta under the direction of the All India Swatantra Party. He asks Masani to provide “proper direction and guidance” for the proposed programme. The page documents an early organisational effort to build youth support for the newly formed Swatantra Party.
+
 ## Key points
 
 - The letter is dated 21 November 1959 and was sent from Calcutta to M. R. Masani in New Delhi.

@@ -53,6 +53,12 @@ summary: |-
   Masani proposes using a seven-year pause to complete existing projects, improve capacity utilisation, and redirect investment toward agriculture, transport, communications, water, power, steel, and machinery. He advocates a greater role for private enterprise, fewer licensing and permit controls, reduced customs duties, and a larger space for consumer goods and savings. The article closes by warning against an increasingly interventionist mentality and calling for a return to direction, productive investment, and individual initiative. The clipping is identified as an Economic Times article by M. R. Masani, with a handwritten annotation reading “August 11, 1965”; the date is not printed in the visible page.
 ---
 
+## Summary
+
+In this one-page article, M. R. Masani argues for a temporary pause in India's planning programme so that its results and assumptions can be reassessed. He challenges the belief that a larger plan necessarily produces faster progress, contending that the First, Second, and Third Plans have diverted scarce resources from more productive uses, weakened private investment, and encouraged administrative controls. He points to stagnant or disappointing industrial and national-income performance, rising prices, foreign-exchange pressures, and the growing burden of public expenditure as evidence that the planning strategy requires reconsideration.
+
+Masani proposes using a seven-year pause to complete existing projects, improve capacity utilisation, and redirect investment toward agriculture, transport, communications, water, power, steel, and machinery. He advocates a greater role for private enterprise, fewer licensing and permit controls, reduced customs duties, and a larger space for consumer goods and savings. The article closes by warning against an increasingly interventionist mentality and calling for a return to direction, productive investment, and individual initiative. The clipping is identified as an Economic Times article by M. R. Masani, with a handwritten annotation reading “August 11, 1965”; the date is not printed in the visible page.
+
 ## Key points
 
 - Masani rejects the assumption that larger Five-Year Plans automatically mean faster economic progress.

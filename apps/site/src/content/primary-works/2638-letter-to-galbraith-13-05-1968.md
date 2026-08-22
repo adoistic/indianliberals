@@ -51,6 +51,12 @@ summary: |-
   The proposal is framed principally as an economic and political initiative. Masani describes Orissa as one of the poorest and most backward states in India, in urgent need of domestic and foreign capital for industry and services, and argues that a United States visit could help attract investment. He suggests that the invitation come from a non-official institution, preferably a university, citing the successful United States visit of the Chief Minister of Madras and the Chubb Foundation at Yale as a precedent. Attached newspaper clippings expand on Singh Deo's development plans, including an Orissa marine drive and tourism infrastructure, and report his efforts to manage the state's financial crisis despite inadequate central assistance.
 ---
 
+## Summary
+
+In this letter dated May 13, 1968, Minoo Masani writes to John Kenneth Galbraith from Bombay, thanking him for his encouragement and enclosing a note addressed to Shepard Stone. The enclosed note recommends inviting R. N. Singh Deo, then Chief Minister of Orissa, to visit the United States in December. Masani presents Singh Deo's coalition government—led by the Swatantra Party with Congress dissidents—as stable, efficient, and liberal in policy, despite its political difference from the Union Government.
+
+The proposal is framed principally as an economic and political initiative. Masani describes Orissa as one of the poorest and most backward states in India, in urgent need of domestic and foreign capital for industry and services, and argues that a United States visit could help attract investment. He suggests that the invitation come from a non-official institution, preferably a university, citing the successful United States visit of the Chief Minister of Madras and the Chubb Foundation at Yale as a precedent. Attached newspaper clippings expand on Singh Deo's development plans, including an Orissa marine drive and tourism infrastructure, and report his efforts to manage the state's financial crisis despite inadequate central assistance.
+
 ## Key points
 
 - Masani's May 13, 1968 letter to John Kenneth Galbraith encloses a note for Shepard Stone.

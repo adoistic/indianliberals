@@ -49,6 +49,12 @@ summary: |-
   A note at the foot records that a copy, the original letter, and a cheque for Rs. 101 were handed to Mrs. Lynn. The sender's name and signature are not visible, and the document does not identify a publisher or formal title.
 ---
 
+## Summary
+
+This one-page typed letter, dated 28 September 1959 and sent from Agra, acknowledges a letter received that morning from The Central Finance & Housing Co., Ltd. The unidentified sender thanks the recipients for their interest in the Swatantra Party and expresses satisfaction that the party is receiving a ready response in different parts of the country.
+
+A note at the foot records that a copy, the original letter, and a cheque for Rs. 101 were handed to Mrs. Lynn. The sender's name and signature are not visible, and the document does not identify a publisher or formal title.
+
 ## Key points
 
 - The letter is dated 28 September 1959 and is addressed to The Central Finance & Housing Co., Ltd., Agra.

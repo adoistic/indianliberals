@@ -53,6 +53,10 @@ summary: |-
   In the rendered pages, M. R. Masani argues that government intervention in education must respect parents’ fundamental rights, academic freedom, and university autonomy. He rejects the Education Commission’s proposed neighbourhood-school system as compulsory and therefore inconsistent with meaningful equality of opportunity: families should be able to choose schools, and educational institutions should be free to determine their teaching methods and medium of instruction.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that government intervention in education must respect parents’ fundamental rights, academic freedom, and university autonomy. He rejects the Education Commission’s proposed neighbourhood-school system as compulsory and therefore inconsistent with meaningful equality of opportunity: families should be able to choose schools, and educational institutions should be free to determine their teaching methods and medium of instruction.
+
 ## Key points
 
 - Government intervention in education should remain consistent with parents’ fundamental rights.

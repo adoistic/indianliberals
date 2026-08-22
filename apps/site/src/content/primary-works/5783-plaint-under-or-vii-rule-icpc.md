@@ -55,6 +55,12 @@ summary: |-
   The plaint presents the Swatantra Party as a political organisation committed to social justice, equality of opportunity, individual initiative, enterprise, energy, and democratic principles. It alleges that Mody was pursuing dissolution and negotiations to create a new national alternative within a two-party system, despite protests from party members and resolutions of the Tamil Nadu organisation. The plaintiffs claim that dissolution would damage the party’s integrity, continuity, public reputation, and role in national politics. They ask the court for declarations that the proposed convention and dissolution proceedings are illegal, ultra vires, and non-binding, together with an injunction restraining the defendants from proceeding.
 ---
 
+## Summary
+
+This plaint, filed in the City Civil Court, Madras, on 27 July 1974, is brought by five members and office-bearers of the Swatantra Party against its national president Piloo Mody, vice-president and acting general secretary Madhu Mehta, joint secretary Dr. M. Santhosham, and the All India Swatantra Party. The plaintiffs seek to prevent a proposed convention in New Delhi on 4–5 August 1974 from dissolving the party. They argue that the national executive lacks authority to dissolve the organisation and that the proposed action violates the party’s constitution and founding principles.
+
+The plaint presents the Swatantra Party as a political organisation committed to social justice, equality of opportunity, individual initiative, enterprise, energy, and democratic principles. It alleges that Mody was pursuing dissolution and negotiations to create a new national alternative within a two-party system, despite protests from party members and resolutions of the Tamil Nadu organisation. The plaintiffs claim that dissolution would damage the party’s integrity, continuity, public reputation, and role in national politics. They ask the court for declarations that the proposed convention and dissolution proceedings are illegal, ultra vires, and non-binding, together with an injunction restraining the defendants from proceeding.
+
 ## Key points
 
 - Five Tamil Nadu members and office-bearers of the Swatantra Party filed the plaint against three national office-bearers and the All India Swatantra Party.

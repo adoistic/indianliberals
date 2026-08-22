@@ -56,6 +56,12 @@ summary: |-
   The accompanying Sunday Standard report records the Swatantra Party's growing legislative role in Bihar. The Speaker of the Bihar Assembly declared K. Lakshmya Narain Singh the Leader of the Opposition, identifying him as leader of the House's largest opposition party. Singh was described as president of the Bihar State Swatantra Party and vice-president of the All-India Swatantra Party; the party held 50 of the Assembly's 318 seats. The sheet therefore documents both the party's organisational activity around regional statehood and its institutional position within a state legislature.
 ---
 
+## Summary
+
+This one-page clipping sheet, dated 18 March 1962, presents two press reports on the Swatantra Party. The Times of India report describes a proposal for a Swatantra Party convention in connection with the Vidarbha movement. Dr. M. S. Aney, leader of the Vidarbha Andolan Samiti, declined to assume responsibility for organising a convention at short notice and said he would seek clarifications from C. Rajagopalachari. The report also explains that Aney had indicated willingness to associate with the Swatantra bloc in Parliament, partly to secure wider support for a separate Vidarbha state, but that the Samiti had not yet formally decided the matter.
+
+The accompanying Sunday Standard report records the Swatantra Party's growing legislative role in Bihar. The Speaker of the Bihar Assembly declared K. Lakshmya Narain Singh the Leader of the Opposition, identifying him as leader of the House's largest opposition party. Singh was described as president of the Bihar State Swatantra Party and vice-president of the All-India Swatantra Party; the party held 50 of the Assembly's 318 seats. The sheet therefore documents both the party's organisational activity around regional statehood and its institutional position within a state legislature.
+
 ## Key points
 
 - A Swatantra Party emissary proposed holding a party convention in Nagpur in connection with the Vidarbha movement.

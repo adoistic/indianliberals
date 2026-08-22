@@ -48,6 +48,12 @@ summary: |-
   Writing on behalf of the reception committee, C. C. Hamza describes it as a privilege to request Masani to participate in the deliberations. The letter names Prof. Ranga, Prof. Ratnaswamy, and Mr. P. T. Rajan as participants already agreed to attend, and says that C. H. Ramaswamy Iyer, V. P. Menon, Lobo Prabhu, and Amasa Subba Rao are also expected. The page documents the local organisational activity surrounding the newly formed Swatantra Party in late 1959, but contains no substantive policy argument.
 ---
 
+## Summary
+
+This one-page letter, dated 23 November 1959, invites M. R. Masani, M.P., to attend the Coimbatore District Swatantra Party convention scheduled for Sunday, 29 November, at the Coimbatore Spinning and Weaving Mills premises. The secretary also notes that a public meeting has been arranged at Chidambaram Park on the same day.
+
+Writing on behalf of the reception committee, C. C. Hamza describes it as a privilege to request Masani to participate in the deliberations. The letter names Prof. Ranga, Prof. Ratnaswamy, and Mr. P. T. Rajan as participants already agreed to attend, and says that C. H. Ramaswamy Iyer, V. P. Menon, Lobo Prabhu, and Amasa Subba Rao are also expected. The page documents the local organisational activity surrounding the newly formed Swatantra Party in late 1959, but contains no substantive policy argument.
+
 ## Key points
 
 - C. C. Hamza writes as secretary of the Coimbatore District Swatantra Party.

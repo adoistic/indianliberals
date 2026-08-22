@@ -51,6 +51,12 @@ summary: |-
   Masani adds that his appreciation is heightened by the failure of his own party to take a similar step in a state unit that he had advised should also be disbanded. He closes by suggesting a meeting when Kunte is next in Bombay. The page is a concise piece of political correspondence focused on party organisation, discipline, and the protection of democratic institutions.
 ---
 
+## Summary
+
+In this 5 June 1968 letter, M. R. Masani congratulates D. K. Kunte on the B.K.D. National Executive’s decision to dissolve its West Bengal unit and reorganise it under central control. Masani presents the decision as an act of party discipline and as a defence of democratic life in Bengal against totalitarian infiltration.
+
+Masani adds that his appreciation is heightened by the failure of his own party to take a similar step in a state unit that he had advised should also be disbanded. He closes by suggesting a meeting when Kunte is next in Bombay. The page is a concise piece of political correspondence focused on party organisation, discipline, and the protection of democratic institutions.
+
 ## Key points
 
 - Masani congratulates D. K. Kunte on the B.K.D. National Executive’s reorganisation of its West Bengal unit.

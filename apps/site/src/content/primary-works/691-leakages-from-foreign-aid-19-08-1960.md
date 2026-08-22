@@ -56,6 +56,12 @@ summary: |-
   In the rendered pages, Shenoy identifies several channels through which aid “leaks”: over-expansion of the public sector, under-utilised industrial and irrigation capacity, import licensing, over-invoicing and under-invoicing, and corruption. He argues that public-sector investment has generated insufficient returns and that foreign aid may end up financing the foreign-exchange counterpart of domestic savings that have been misdirected. The article therefore presents aid not as a substitute for sound fiscal and monetary management, but as a resource whose benefits are undermined by planning, controls, waste, and weak administrative accountability.
 ---
 
+## Summary
+
+In the rendered pages, B. R. Shenoy argues that foreign aid is being absorbed inefficiently within India’s Third Plan. He contends that the Plan’s investment requirements exceed available domestic savings and foreign assistance, while inflation, import restrictions, and exchange-control distortions weaken the productive value of aid. He contrasts the Third Plan’s assumptions with the experience of the Second Plan, citing large reserve losses, payment deficits, and the diversion of aid toward consumption and inventories rather than productive investment.
+
+In the rendered pages, Shenoy identifies several channels through which aid “leaks”: over-expansion of the public sector, under-utilised industrial and irrigation capacity, import licensing, over-invoicing and under-invoicing, and corruption. He argues that public-sector investment has generated insufficient returns and that foreign aid may end up financing the foreign-exchange counterpart of domestic savings that have been misdirected. The article therefore presents aid not as a substitute for sound fiscal and monetary management, but as a resource whose benefits are undermined by planning, controls, waste, and weak administrative accountability.
+
 ## Key points
 
 - Shenoy argues that the Third Plan’s investment targets exceed the resources available from domestic savings and foreign aid.

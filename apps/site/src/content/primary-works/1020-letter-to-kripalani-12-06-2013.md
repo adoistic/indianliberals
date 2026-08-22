@@ -49,6 +49,14 @@ summary: |-
   In the meantime, Masani accepts Kripalani's parallel suggestion of a smaller, informal meeting between Kripalani, Rajaji, Jayaprakash Narayan and himself (and Dr. Lohia), saying it "could certainly be given effect to with advantage" and that he will await further news. The letter is a small but useful piece of the paper trail behind the early-1960s attempts by Swatantra, the socialists and the Gandhian left to coordinate against the Congress.
 ---
 
+## Summary
+
+This one-page typescript letter, dated 11 June 1963, is a short political communication from Minoo Masani to Acharya J. B. Kripalani about a proposed anti-Congress opposition front. Masani reports that he has seen a reference in that morning's Times of India to a letter sent by opposition spokesmen in Delhi — including Col. Pasricha of the Swatantra Party — addressed jointly to Rajaji, Kripalani, Dr. Lohia, Deen Dayal Upadhyaya and Ashoka Mehta, proposing a summit conference to evolve a joint programme.
+
+Masani is doubtful about the prospects. He tells Kripalani that since his previous letter of 8 June, the outlook has grown less promising: both the Praja Socialist Party (at its Bhopal meeting) and the Socialist Party have turned a cold shoulder to Kripalani's initiative. He is also careful about procedure inside his own party — neither he nor Rajaji, he writes, can commit the Swatantra Party's attitude on their own; any Delhi proposal must be placed before the Central Organising Committee or the Parliamentary Board. He notes that he is in touch with Professor Ranga and Rajaji about the date and venue of such a meeting some time in July.
+
+In the meantime, Masani accepts Kripalani's parallel suggestion of a smaller, informal meeting between Kripalani, Rajaji, Jayaprakash Narayan and himself (and Dr. Lohia), saying it "could certainly be given effect to with advantage" and that he will await further news. The letter is a small but useful piece of the paper trail behind the early-1960s attempts by Swatantra, the socialists and the Gandhian left to coordinate against the Congress.
+
 ## Key points
 
 - Personal typed letter from M. R. Masani to Acharya J. B. Kripalani, M.P., dated 11 June 1963, sent to 11 Gautam Palli, Lucknow.

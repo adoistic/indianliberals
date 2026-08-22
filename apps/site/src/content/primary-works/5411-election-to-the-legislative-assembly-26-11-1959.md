@@ -49,6 +49,10 @@ summary: |-
   This two-page English newspaper extract, attributed to The Times of India, reports the 1945 election to the Central Legislative Assembly from Bombay City's urban non-Muhammadan constituency. It states that the two Congress nominees, M. R. Masani and Dr. G. V. Deshmukh, were declared elected after voting on November 26 and announcement of results on December 4. Masani received 21,630 votes and Deshmukh 19,934, while the Hindu Sabha nominee, K. H. Dhandhare, received 4,667 votes and forfeited his deposit.
 ---
 
+## Summary
+
+This two-page English newspaper extract, attributed to The Times of India, reports the 1945 election to the Central Legislative Assembly from Bombay City's urban non-Muhammadan constituency. It states that the two Congress nominees, M. R. Masani and Dr. G. V. Deshmukh, were declared elected after voting on November 26 and announcement of results on December 4. Masani received 21,630 votes and Deshmukh 19,934, while the Hindu Sabha nominee, K. H. Dhandhare, received 4,667 votes and forfeited his deposit.
+
 ## Key points
 
 - The extract records voting on November 26, 1945, with results announced on December 4, 1945.

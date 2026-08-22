@@ -51,6 +51,12 @@ summary: |-
   The enclosed proceedings of a 17 April meeting record the proposed formation of a West Bengal Swatantra Party Organising Committee, subject to approval by Joint Secretary C. R. Irani. The committee was to organise district units, secure an office funded through members' donations, and take steps toward forming state and district ad hoc committees. Copies of the letter and proceedings were also sent to Minoo Masani and N. G. Ranga for information.
 ---
 
+## Summary
+
+This 25 April 1968 letter from R. B. Mishra, written in Bhubaneswar to N. Dandekar, requests permission to hold a zonal conference of the Swatantra Party's Eastern Zone in West Bengal, preferably in Calcutta, in early June. Mishra states that the local organisers will bear the costs and will not seek financial assistance from the Party's central organisation, and asks Dandekar or Minoo Masani to inaugurate the conference.
+
+The enclosed proceedings of a 17 April meeting record the proposed formation of a West Bengal Swatantra Party Organising Committee, subject to approval by Joint Secretary C. R. Irani. The committee was to organise district units, secure an office funded through members' donations, and take steps toward forming state and district ad hoc committees. Copies of the letter and proceedings were also sent to Minoo Masani and N. G. Ranga for information.
+
 ## Key points
 
 - R. B. Mishra wrote from Bhubaneswar on 25 April 1968 to N. Dandekar.

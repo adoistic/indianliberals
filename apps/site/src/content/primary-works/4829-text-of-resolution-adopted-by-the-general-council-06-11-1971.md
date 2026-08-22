@@ -60,6 +60,12 @@ summary: |-
   The document's final sections turn to Bangla Desh and a broader statement on India's current political and economic situation. The Bangla Desh resolution criticizes the Government's failure to set a clear deadline for resolving the refugee crisis and warns against mistaking India's desire for peace for unwillingness to defend its territory. The concluding statement attacks Congress rule, economic stagnation, inflation, corruption, and what it calls the destructive effects of Marxist and socialist values. It proposes a three-part political programme: destroying Marxist values, saving the individual, and presenting the people with an alternative called “Our Path.” The final statement refers to India's 25th Independence Day on August 15, 1972, creating a dating inconsistency within a document headed as resolutions from November 1971.
 ---
 
+## Summary
+
+This four-page English document records resolutions adopted by the Swatantra Party General Council at its meeting in Baroda on November 6, 1971. The resolutions address relief after the Orissa cyclone, rehabilitation and administrative support for people in border districts, the admission of Communist China to the United Nations, the Government's use of ordinances, and the management of Sikh gurudwaras. The party combines appeals for large-scale public relief with demands for firmer foreign-policy responses and respect for parliamentary procedure and community autonomy.
+
+The document's final sections turn to Bangla Desh and a broader statement on India's current political and economic situation. The Bangla Desh resolution criticizes the Government's failure to set a clear deadline for resolving the refugee crisis and warns against mistaking India's desire for peace for unwillingness to defend its territory. The concluding statement attacks Congress rule, economic stagnation, inflation, corruption, and what it calls the destructive effects of Marxist and socialist values. It proposes a three-part political programme: destroying Marxist values, saving the individual, and presenting the people with an alternative called “Our Path.” The final statement refers to India's 25th Independence Day on August 15, 1972, creating a dating inconsistency within a document headed as resolutions from November 1971.
+
 ## Key points
 
 - The Orissa cyclone resolution reports extensive deaths, communications disruption, property loss, and the suspension of port traffic, and calls for large-scale rehabilitation.

@@ -49,6 +49,12 @@ summary: |-
   The attached note asks Minoo, or Dandekar, to assist the company’s representatives. Russi attributes the reliance on the government guarantee to the fact that it was a Swatantra-backed ministry, but complains that it is now behaving like any other Congress ministry. The page contains no printed date, title, place, or publication information.
 ---
 
+## Summary
+
+This one-page English archival communication combines a telegram-style message signed “PARIKH” with a personal note signed “Russi” to Minoo Masani. The telegram reports that the Orissa Mining Corporation has not honoured bills totalling 13.16 lakhs for shovel and spare parts, and that the Orissa Government, which guaranteed payment, has also failed to pay. It records a demand for payment within seven days and asks that the matter be taken up with people who vouched for the solvency of the Orissa Government.
+
+The attached note asks Minoo, or Dandekar, to assist the company’s representatives. Russi attributes the reliance on the government guarantee to the fact that it was a Swatantra-backed ministry, but complains that it is now behaving like any other Congress ministry. The page contains no printed date, title, place, or publication information.
+
 ## Key points
 
 - The Orissa Mining Corporation is reported to have unpaid bills for shovel and spare parts amounting to 13.16 lakhs.

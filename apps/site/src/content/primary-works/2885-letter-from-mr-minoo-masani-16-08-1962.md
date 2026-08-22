@@ -49,6 +49,12 @@ summary: |-
   Masani states that opposition groups had agreed to a unanimous election and that the Independent Parliamentary Group, despite being asked not to contest, nominated Professor Swell and David Munzni. Their decision allegedly cost them the support of opposition members: Munzni received only his personal vote, while Swell secured some first-preference votes but was not elected. Masani concludes that Swell's grievance is unjustified and asks Deong to correct what he calls a mistaken impression of the acting Lok Sabha leader.
 ---
 
+## Summary
+
+In this letter dated August 16, 1962, Minoo Masani writes to John Deong, General Secretary of the Swatantra Party's Shillong branch, regarding a complaint by Professor Swell about alleged unfriendly treatment in the Lok Sabha. Masani relays P. K. Deo's denial that the complaint has any basis and describes the dispute as arising from the election of the Estimates Committee.
+
+Masani states that opposition groups had agreed to a unanimous election and that the Independent Parliamentary Group, despite being asked not to contest, nominated Professor Swell and David Munzni. Their decision allegedly cost them the support of opposition members: Munzni received only his personal vote, while Swell secured some first-preference votes but was not elected. Masani concludes that Swell's grievance is unjustified and asks Deong to correct what he calls a mistaken impression of the acting Lok Sabha leader.
+
 ## Key points
 
 - Masani responds to a complaint made by Professor Swell concerning an allegedly unfriendly attitude in the Lok Sabha.

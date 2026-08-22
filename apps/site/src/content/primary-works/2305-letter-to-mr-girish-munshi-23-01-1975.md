@@ -44,6 +44,10 @@ summary: |-
   This single-page letter, dated January 23, 1975, was written by Piloo Mody from his New Delhi parliamentary address to Shri Girish Munshi in Bombay. Mody acknowledges Munshi’s letter of January 15 and says he will ask Bhatia to investigate whether there is any problem and instruct him accordingly.
 ---
 
+## Summary
+
+This single-page letter, dated January 23, 1975, was written by Piloo Mody from his New Delhi parliamentary address to Shri Girish Munshi in Bombay. Mody acknowledges Munshi’s letter of January 15 and says he will ask Bhatia to investigate whether there is any problem and instruct him accordingly.
+
 ## Key points
 
 - Piloo Mody writes to Girish Munshi on January 23, 1975.

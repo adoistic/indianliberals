@@ -48,6 +48,10 @@ summary: |-
   In this personal letter dated 28 May 1963, C. Rajagopalachari writes warmly to Minoo Masani about a successful week and expresses confidence in the political prospects ahead. He attributes this hope to divine grace and urges humility, wisdom, alacrity, and courage in responding to it.
 ---
 
+## Summary
+
+In this personal letter dated 28 May 1963, C. Rajagopalachari writes warmly to Minoo Masani about a successful week and expresses confidence in the political prospects ahead. He attributes this hope to divine grace and urges humility, wisdom, alacrity, and courage in responding to it.
+
 ## Key points
 
 - The letter is dated 28 May 1963 and addressed to Minoo Masani.

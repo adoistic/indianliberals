@@ -48,6 +48,12 @@ summary: |-
   Shah says he intends to meet Masani in Delhi and asks Mirza to inform him if Masani has any programme requiring a visit to Lucknow. He requests sufficient advance notice and asks that Masani’s probable Delhi arrival date be communicated to him. The second rendered page is chiefly a mailing or addressing leaf, with Hindi postal labels and the recipient’s address.
 ---
 
+## Summary
+
+This two-page English letter, dated 3 October 1959, is from Nathalal S. Shah to Miss B. S. Mirza, secretary to M. R. Masani of the Swatantra Party. Shah acknowledges Mirza’s earlier reply and reports that Rajaji will return to India sometime that week and be available in Delhi in November for the next session of Parliament.
+
+Shah says he intends to meet Masani in Delhi and asks Mirza to inform him if Masani has any programme requiring a visit to Lucknow. He requests sufficient advance notice and asks that Masani’s probable Delhi arrival date be communicated to him. The second rendered page is chiefly a mailing or addressing leaf, with Hindi postal labels and the recipient’s address.
+
 ## Key points
 
 - The letter is dated 3 October 1959 and is signed by Nathalal S. Shah.

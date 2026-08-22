@@ -51,6 +51,12 @@ summary: |-
   The agenda has three items: confirmation of the minutes of the previous meeting held in Jaipur on 19 November 1966; consideration of processed recommendations for candidates to Parliament and the State Assemblies; and any other business permitted by the Chair. The document is an administrative party communication rather than a substantive statement of political doctrine.
 ---
 
+## Summary
+
+This one-page English-language office circular, issued by the Swatantra Party Central Office on 30 November 1966, announces a forthcoming meeting of the Party's Central Parliamentary Board. Signed by General Secretary M. R. Masani, it specifies that the meeting will take place in New Delhi on Saturday, 10 December, at 10 a.m. at Vitthalbhai Patel House, Rafi Marg.
+
+The agenda has three items: confirmation of the minutes of the previous meeting held in Jaipur on 19 November 1966; consideration of processed recommendations for candidates to Parliament and the State Assemblies; and any other business permitted by the Chair. The document is an administrative party communication rather than a substantive statement of political doctrine.
+
 ## Key points
 
 - The Central Parliamentary Board meeting is scheduled for 10 December 1966 in New Delhi.

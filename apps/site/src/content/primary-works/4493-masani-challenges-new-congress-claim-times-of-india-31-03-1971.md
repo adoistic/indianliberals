@@ -50,6 +50,12 @@ summary: |-
   The report presents Masani’s view that the new government would have to address a serious crisis in political and economic governance. He called for restoration of law and order, greater discipline in national life, and a reversal of the economic policies pursued over the previous two decades. The article also briefly reports a Rotary Club entertainment programme featuring Miss Purveen Vachha, Suresh Hemmadi, J. R. D. Tata, and J. Watsa.
 ---
 
+## Summary
+
+This Times of India report, dated 31 March 1971, records M. R. Masani’s challenge to the claim that the Congress victory in the recent elections represented an overwhelming popular mandate. Speaking to the Rotary Club of Bombay, Masani distinguished between the Congress’s share of votes cast and its share of the total electorate: he noted that only 54.81 per cent of electors voted, meaning that Congress received the support of 23.91 per cent of the electorate. He also argued that the four-party alliance had failed because the Swatantra Party and the S.S.P. had entered the alliance without a credible alternative programme, and because the anti-Congress front had effectively collapsed.
+
+The report presents Masani’s view that the new government would have to address a serious crisis in political and economic governance. He called for restoration of law and order, greater discipline in national life, and a reversal of the economic policies pursued over the previous two decades. The article also briefly reports a Rotary Club entertainment programme featuring Miss Purveen Vachha, Suresh Hemmadi, J. R. D. Tata, and J. Watsa.
+
 ## Key points
 
 - Masani disputed the interpretation of the Congress election result as a broad popular endorsement.

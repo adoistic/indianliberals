@@ -46,6 +46,10 @@ summary: |-
   This one-page English letter, dated March 19, 1971, is Minoo Masani’s personal note of thanks to Narendra Bhatia. Masani acknowledges Bhatia’s journey from Bombay to Rajkot and his assistance in the writer’s election campaign, emphasizing that the effort was valuable even though the campaign did not result in success.
 ---
 
+## Summary
+
+This one-page English letter, dated March 19, 1971, is Minoo Masani’s personal note of thanks to Narendra Bhatia. Masani acknowledges Bhatia’s journey from Bombay to Rajkot and his assistance in the writer’s election campaign, emphasizing that the effort was valuable even though the campaign did not result in success.
+
 ## Key points
 
 - The letter is dated March 19, 1971.

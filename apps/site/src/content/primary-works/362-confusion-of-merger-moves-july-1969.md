@@ -52,6 +52,12 @@ summary: |-
   In the rendered pages, Gopal focuses particularly on the proposed merger involving the Bharatiya Kranti Dal (BKD) and the Jana Sangh. He describes the BKD as a regional, largely agrarian force whose electoral strength is associated with Charan Singh, but whose economic position appears to be moving leftward. He argues that a merger with the Jana Sangh would not by itself resolve the problem of communalism or create a viable alternative to Congress. The essay concludes that India needs a socialist programme capable of addressing economic inequality, and suggests that a coalition of like-minded parties of the Left—not simply a reduction in the number of parties—is the more plausible alternative. It also warns that capitalist financing distorts electoral competition and can enable parties of the Right to defeat the Left.
 ---
 
+## Summary
+
+In the rendered pages, Ram Gopal examines the difficulty of classifying Indian political parties as Right or Left, communal or secular. He argues that communalism and secularism have developed unevenly since independence, while economic disparity, inflation, corruption, and the expansion of the planned economy have sharpened the demand for socialist politics. The essay presents political polarisation as a structural problem: India’s regional parties, ideological differences, and communal alignments do not fit neatly into a British-style two-party model.
+
+In the rendered pages, Gopal focuses particularly on the proposed merger involving the Bharatiya Kranti Dal (BKD) and the Jana Sangh. He describes the BKD as a regional, largely agrarian force whose electoral strength is associated with Charan Singh, but whose economic position appears to be moving leftward. He argues that a merger with the Jana Sangh would not by itself resolve the problem of communalism or create a viable alternative to Congress. The essay concludes that India needs a socialist programme capable of addressing economic inequality, and suggests that a coalition of like-minded parties of the Left—not simply a reduction in the number of parties—is the more plausible alternative. It also warns that capitalist financing distorts electoral competition and can enable parties of the Right to defeat the Left.
+
 ## Key points
 
 - The rendered pages distinguish among Right, Left, communal, and secular formations in Indian politics, while emphasizing that these categories frequently overlap.

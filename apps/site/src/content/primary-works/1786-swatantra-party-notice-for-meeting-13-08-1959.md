@@ -49,6 +49,12 @@ summary: |-
   The notice is administrative rather than argumentative: it records the party's local organisational activity and requests attendance. It is signed by a person whose typed name appears to read “D. LANN,” identified as Honorary Secretary, although the surname is unclear in the scan.
 ---
 
+## Summary
+
+This one-page English-language notice, issued on Swatantra Party letterhead from its Bombay office and dated 13 August 1959, announces a meeting of the Organising Committee of Greater Bombay. The meeting is scheduled for Friday, 21 August, at 6 p.m. at the Swatantra Party Office in Sassoon Building, 143, Mahatma Gandhi Road, Bombay 1.
+
+The notice is administrative rather than argumentative: it records the party's local organisational activity and requests attendance. It is signed by a person whose typed name appears to read “D. LANN,” identified as Honorary Secretary, although the surname is unclear in the scan.
+
 ## Key points
 
 - The document is headed “NOTICE” and is issued by the Swatantra Party’s Bombay office.

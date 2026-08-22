@@ -52,6 +52,12 @@ summary: |-
   The enclosure challenges the convention's resolution concerning the dissolution of the Swatantra Party. It argues that the resolution conflicted with the party's basic objectives and with decisions of its national executive and national council, and invokes C. Rajagopalachari's earlier view that a party cannot be justified only by its prospects of becoming an alternative government. The memorandum alleges that amendments were not properly considered, calls the adopted resolution fraudulent, illegal, and unconstitutional, and maintains that the party must continue until its objectives are achieved.
 ---
 
+## Summary
+
+This two-page letter, dated 28 August 1974, is from V. S. Srikumar to M. R. Masani. Srikumar encloses a memorandum requested by A. Duraswamy Nadar, a delegate to the Swatantra Party's seventh National Convention, and says that he will separately write about legal steps taken at Madras concerning the party's internal dispute.
+
+The enclosure challenges the convention's resolution concerning the dissolution of the Swatantra Party. It argues that the resolution conflicted with the party's basic objectives and with decisions of its national executive and national council, and invokes C. Rajagopalachari's earlier view that a party cannot be justified only by its prospects of becoming an alternative government. The memorandum alleges that amendments were not properly considered, calls the adopted resolution fraudulent, illegal, and unconstitutional, and maintains that the party must continue until its objectives are achieved.
+
 ## Key points
 
 - The letter is dated 28 August 1974 and is addressed to M. R. Masani.

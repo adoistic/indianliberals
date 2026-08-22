@@ -46,6 +46,10 @@ summary: |-
   In this personal and confidential letter dated July 8, 1968, Piloo Mody writes to Minoo Masani after the Madras meeting of the General Council of the Party. Mody recalls Masani's declared intention to hold brainstorming sessions with party workers across the country and asks whether those sessions have begun.
 ---
 
+## Summary
+
+In this personal and confidential letter dated July 8, 1968, Piloo Mody writes to Minoo Masani after the Madras meeting of the General Council of the Party. Mody recalls Masani's declared intention to hold brainstorming sessions with party workers across the country and asks whether those sessions have begun.
+
 ## Key points
 
 - The letter is dated July 8, 1968, and is marked personal and confidential.

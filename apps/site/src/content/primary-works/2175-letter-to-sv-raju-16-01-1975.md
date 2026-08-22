@@ -48,6 +48,12 @@ summary: |-
   The remainder of the letter records political and organisational matters: M. K. Mohta has not joined the B.L.D.; B. P. Singh is identified as a vice-president of the Uttar Pradesh B.L.D.; G. K. Sundaram’s expected visit to Delhi did not take place; and Arya plans to visit Bombay in early February for personal work. The document is a brief piece of political correspondence rather than a developed argument or policy paper.
 ---
 
+## Summary
+
+This untitled letter, dated January 16, 1975, is written by M. R. Arya from the Swatantra Jyoti editorial office in New Delhi to S. V. Raju in Bombay. Arya asks Raju to consider the Election Commission’s verdict concerning the Swatantra Party symbol and seeks advice on the party’s future course of action.
+
+The remainder of the letter records political and organisational matters: M. K. Mohta has not joined the B.L.D.; B. P. Singh is identified as a vice-president of the Uttar Pradesh B.L.D.; G. K. Sundaram’s expected visit to Delhi did not take place; and Arya plans to visit Bombay in early February for personal work. The document is a brief piece of political correspondence rather than a developed argument or policy paper.
+
 ## Key points
 
 - Arya asks Raju what course of action should follow the Election Commission’s verdict on the Swatantra Party symbol.

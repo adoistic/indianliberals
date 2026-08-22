@@ -52,6 +52,12 @@ summary: |-
   Masani encloses an extract from J. R. D. Tata's 15 July 1968 statement to Tata Iron & Steel Company Limited. Tata argues that Managing Agencies can provide professional, experienced management suited to India's need for rapid industrial expansion, while acknowledging that—as with any human institution—the system can be abused. The extract disputes the claim that Managing Agencies have uniquely caused the concentration of wealth or economic power, asserting instead that India's licensing and control regime has transferred such power to government officials and ministers. It concludes that large firms may be necessary for efficiency, technological progress, lower costs, and international competitiveness, especially when smaller Indian enterprises lack comparable resources.
 ---
 
+## Summary
+
+In this letter dated 16 August 1968, M. R. Masani explains the Swatantra Party's opposition to the proposed abolition of the Managing Agency system. He argues that the system is an alternative form of company management that should be left to investors and enterprises to choose, and presents the proposed ban as another instance of excessive state regulation. He links this issue to the party's broader commitment to maximum competition and minimum social regulation, while also opposing what he describes as the concentration of economic power in the hands of the Congress government and its allied bureaucrats and businessmen.
+
+Masani encloses an extract from J. R. D. Tata's 15 July 1968 statement to Tata Iron & Steel Company Limited. Tata argues that Managing Agencies can provide professional, experienced management suited to India's need for rapid industrial expansion, while acknowledging that—as with any human institution—the system can be abused. The extract disputes the claim that Managing Agencies have uniquely caused the concentration of wealth or economic power, asserting instead that India's licensing and control regime has transferred such power to government officials and ministers. It concludes that large firms may be necessary for efficiency, technological progress, lower costs, and international competitiveness, especially when smaller Indian enterprises lack comparable resources.
+
 ## Key points
 
 - Masani frames the Managing Agency debate as a question of economic liberty, competition, and the proper limits of state regulation.

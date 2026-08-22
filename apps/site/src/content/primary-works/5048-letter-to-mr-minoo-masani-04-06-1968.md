@@ -48,6 +48,12 @@ summary: |-
   The writer says that, after returning to Bangalore, he felt obliged to correct the public record on behalf of Masani and the Party. He reports having written a short article for the next issue of “Mysindia” and encloses a copy for Masani's consideration. Handwritten annotations indicate that a copy was also sent to S. V. Raju and identify the article as “Observation.”
 ---
 
+## Summary
+
+This typed letter, dated 4 June 1968 and sent from Bangalore by V. T. Sreenivasan to M. R. Masani, expresses distress at Masani's treatment during recent General Council meetings in Madras. Sreenivasan particularly criticises Rajaji for allegedly diverting the issue through a narrow dispute over the word “pledge.”
+
+The writer says that, after returning to Bangalore, he felt obliged to correct the public record on behalf of Masani and the Party. He reports having written a short article for the next issue of “Mysindia” and encloses a copy for Masani's consideration. Handwritten annotations indicate that a copy was also sent to S. V. Raju and identify the article as “Observation.”
+
 ## Key points
 
 - The letter is dated 4 June 1968 and was written from Bangalore by V. T. Sreenivasan.

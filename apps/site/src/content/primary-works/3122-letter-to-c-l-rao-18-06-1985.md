@@ -48,6 +48,12 @@ summary: |-
   The page records a practical act of circulation within a liberal intellectual network rather than presenting the content of Masani’s lecture itself. Its references to a memorial lecture for Rajaji and to the Foundation’s effort to distribute the text provide evidence of the preservation and dissemination of Indian liberal political traditions.
 ---
 
+## Summary
+
+In this letter dated June 18, 1985, S. V. Raju writes to C. L. Rao requesting 100 additional copies of M. R. Masani’s Second Rajaji Memorial Lecture, delivered in Bangalore on December 22, 1984. Raju notes that 10 copies have already been received and asks that the copies be sent by registered parcel with an invoice for reimbursement by the Foundation.
+
+The page records a practical act of circulation within a liberal intellectual network rather than presenting the content of Masani’s lecture itself. Its references to a memorial lecture for Rajaji and to the Foundation’s effort to distribute the text provide evidence of the preservation and dissemination of Indian liberal political traditions.
+
 ## Key points
 
 - The letter is dated June 18, 1985.

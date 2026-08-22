@@ -47,6 +47,10 @@ summary: |-
   This one-page letter, dated 27 May 1975 and written by K. Sundaram as President of the Swatantra Party All India, responds to S. V. Raju's letter of 20 May 1975. Sundaram agrees that neither the Janata Group nor the Ruling Congress is likely to secure a majority, but predicts that the Ruling Congress will acquire Chimanlal Patel's group and thereby gain a path into government.
 ---
 
+## Summary
+
+This one-page letter, dated 27 May 1975 and written by K. Sundaram as President of the Swatantra Party All India, responds to S. V. Raju's letter of 20 May 1975. Sundaram agrees that neither the Janata Group nor the Ruling Congress is likely to secure a majority, but predicts that the Ruling Congress will acquire Chimanlal Patel's group and thereby gain a path into government.
+
 ## Key points
 
 - The letter acknowledges correspondence from S. V. Raju dated 20 May 1975.

@@ -55,6 +55,12 @@ summary: |-
   In the second letter, George develops a more extensive political strategy. He urges Masani to oppose what he describes as Nehru-family and Brahmin dominance, resist collective farming, build cooperation among opposition parties, and press for a stronger Indian response to the conflict in Laos. He also suggests using the proposed nationalisation of banks tactically to divide the Communist movement and other supporters of Indira Gandhi. The letters are highly interventionist political memoranda, combining anti-socialist arguments with proposals for welfare policy, opposition coordination, and foreign-policy activism.
 ---
 
+## Summary
+
+This correspondence file contains two typewritten letters from Dr A J George to M. R. Masani, dated January 18 and February 8, 1970. In the first letter, George congratulates Masani on becoming president of the Swatantra Party and urges a merger with the Syndicate Congress to broaden the party's electoral reach. He calls for an early challenge to Indira Gandhi, attacks alleged preferential treatment for the Birlas, and proposes a monthly unemployment and old-age pension financed through an OECD arrangement. He presents social security as an issue capable of creating a broad anti-government coalition.
+
+In the second letter, George develops a more extensive political strategy. He urges Masani to oppose what he describes as Nehru-family and Brahmin dominance, resist collective farming, build cooperation among opposition parties, and press for a stronger Indian response to the conflict in Laos. He also suggests using the proposed nationalisation of banks tactically to divide the Communist movement and other supporters of Indira Gandhi. The letters are highly interventionist political memoranda, combining anti-socialist arguments with proposals for welfare policy, opposition coordination, and foreign-policy activism.
+
 ## Key points
 
 - George congratulates M. R. Masani on his election as president of the Swatantra Party.

@@ -50,6 +50,12 @@ summary: |-
   The letter reports on a workers' meeting attended by approximately 250 people, where Pasricha says Masani and a younger Masani were rejected and received no support from the workers. It further claims that the meeting was intended to discourage the workers and discredit the Swatantra Party. Pasricha urges Masani to attend an important Bombay meeting, noting that several candidates are being fielded and that some have already contested and lost by narrow margins.
 ---
 
+## Summary
+
+In this two-page handwritten letter dated 5 April 1970, Lt. Col. H. R. Pasricha advises Minoo Masani against resigning from his political position. Pasricha argues that the resignation would be wrongly interpreted as a reaction to criticism from workers and would support claims that Masani and his colleagues had been acting irrationally. He suggests that the resignation may be a deliberate move to join Congress (R), but says that Masani's decision should be reconsidered if there is still time.
+
+The letter reports on a workers' meeting attended by approximately 250 people, where Pasricha says Masani and a younger Masani were rejected and received no support from the workers. It further claims that the meeting was intended to discourage the workers and discredit the Swatantra Party. Pasricha urges Masani to attend an important Bombay meeting, noting that several candidates are being fielded and that some have already contested and lost by narrow margins.
+
 ## Key points
 
 - Pasricha advises Minoo Masani to reconsider his resignation.

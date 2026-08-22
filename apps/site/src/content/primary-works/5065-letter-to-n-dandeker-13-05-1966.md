@@ -52,6 +52,12 @@ summary: |-
   Masani broadens the dispute into a warning about the health of party politics and parliamentary democracy. He argues that public faith is being lost because parties no longer embody sufficient idealism, ethics, or truthfulness, and says that preserving the democratic Constitution must take priority over partisan advantage. Although he is withdrawing from formal party bodies, he proposes “constructive work,” including training young workers, promoting the Party’s principles, campaigning for its candidates, and remaining available to its rank and file. He says he would return to share responsibility if the Party accepts ethical and disciplined functioning, clean means, truthful communication, and a commitment to democratic processes.
 ---
 
+## Summary
+
+In this letter dated May 13, 1968, Minoo Masani confirms to N. Dandekar that his resignation from the Swatantra Party’s National Executive and Parliamentary Board is final. He rejects the Party leadership’s handling of disciplinary action against Mathida and five supporters, arguing that the leadership failed to apply discipline consistently and ignored alleged misconduct by opposition leaders and party members in Gujarat. He also criticizes the Gujarat Party President’s description of the episode as a “misunderstanding” and his attack on the person who reported the facts to Rajaji.
+
+Masani broadens the dispute into a warning about the health of party politics and parliamentary democracy. He argues that public faith is being lost because parties no longer embody sufficient idealism, ethics, or truthfulness, and says that preserving the democratic Constitution must take priority over partisan advantage. Although he is withdrawing from formal party bodies, he proposes “constructive work,” including training young workers, promoting the Party’s principles, campaigning for its candidates, and remaining available to its rank and file. He says he would return to share responsibility if the Party accepts ethical and disciplined functioning, clean means, truthful communication, and a commitment to democratic processes.
+
 ## Key points
 
 - Masani confirms that his resignation from the Swatantra Party’s National Executive and Parliamentary Board is final.

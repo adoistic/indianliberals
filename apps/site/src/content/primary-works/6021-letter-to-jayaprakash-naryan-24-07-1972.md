@@ -49,6 +49,12 @@ summary: |-
   Masani further refers to a newspaper report about Narayan’s plans for a non-partisan conference on state autonomy. He recalls having encountered the subject in a Leslie Sawhny Programme seminar and expresses interest in the proceedings, offering to participate in any discussion if Narayan wishes. The page is a personal and collegial exchange rather than a developed policy argument.
 ---
 
+## Summary
+
+In this letter dated 24 July 1972, Minoo Masani writes to Jayaprakash Narayan about an invitation to a seminar on Indo-Pakistan relations at Poonchgani, scheduled for 30 September to 2 October. Masani apologises for being unable to attend, while praising the location and the proposed arrangements. He also discusses reservations concerning the H.R.A., noting that many people are unwilling to accept its reservations, and says that he has invited Prof. Mujeeb and Mr. Harris while keeping Narayan’s other suggestions in mind.
+
+Masani further refers to a newspaper report about Narayan’s plans for a non-partisan conference on state autonomy. He recalls having encountered the subject in a Leslie Sawhny Programme seminar and expresses interest in the proceedings, offering to participate in any discussion if Narayan wishes. The page is a personal and collegial exchange rather than a developed policy argument.
+
 ## Key points
 
 - Masani’s letter is dated 24 July 1972 and addressed to Jayaprakash Narayan.

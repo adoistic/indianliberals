@@ -46,6 +46,12 @@ summary: |-
   Masani explains that the absence is prompted by demands on the Ministry of International Trade, which is to replace Information & Broadcasting in Parliament’s programme. The letter is brief and administrative, closing with an expression of regards and Masani’s signature.
 ---
 
+## Summary
+
+This single-page letter, dated March 17, 1964, is from M. R. Masani at 57 Lodhi Estate, New Delhi, to Satyanarayan Sinha, Minister for Information & Broadcasting. Masani apologises for being absent from the House during Sinha’s reply to a discussion because he must leave for Bombay that evening.
+
+Masani explains that the absence is prompted by demands on the Ministry of International Trade, which is to replace Information & Broadcasting in Parliament’s programme. The letter is brief and administrative, closing with an expression of regards and Masani’s signature.
+
 ## Key points
 
 - M. R. Masani wrote the letter from 57 Lodhi Estate, New Delhi, on March 17, 1964.

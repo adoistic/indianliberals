@@ -48,6 +48,12 @@ summary: |-
   The page records a brief piece of party correspondence rather than a developed policy argument. It establishes Masani's role in coordinating the party's electoral preparations and Rajagopalachari's intended participation in reviewing the proposed timetable. The circled number “4238” appears to be an archival reference rather than a printed title.
 ---
 
+## Summary
+
+In this typed letter dated 18 June 1964, M. R. Masani writes to C. Rajagopalachari about the Swatantra Party's forthcoming electoral programme. Masani says that the Central Organising Committee must decide on a programme for the Party's election later that year and encloses a draft timetable for Rajagopalachari's consideration before the meeting.
+
+The page records a brief piece of party correspondence rather than a developed policy argument. It establishes Masani's role in coordinating the party's electoral preparations and Rajagopalachari's intended participation in reviewing the proposed timetable. The circled number “4238” appears to be an archival reference rather than a printed title.
+
 ## Key points
 
 - The letter is dated 18 June 1964.

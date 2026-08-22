@@ -53,6 +53,10 @@ summary: |-
   These draft minutes record the Swatantra Party Central Organising Committee meeting held in Bombay on 9 February 1963. They list the attendees, confirm the previous minutes, record the co-option of R.N. Singh Deo to the Central Organising Committee, and note P.K. Deo’s nomination to the General Council. The committee also reports that no recommendations had been received on the reconstitution of State Committees.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Central Organising Committee meeting held in Bombay on 9 February 1963. They list the attendees, confirm the previous minutes, record the co-option of R.N. Singh Deo to the Central Organising Committee, and note P.K. Deo’s nomination to the General Council. The committee also reports that no recommendations had been received on the reconstitution of State Committees.
+
 ## Key points
 
 - The meeting discussed the National Emergency, the Colombo proposals, taxation, and the Government’s gold policy.

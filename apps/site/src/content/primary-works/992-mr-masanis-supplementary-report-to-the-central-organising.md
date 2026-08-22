@@ -50,6 +50,12 @@ summary: |-
   Masani’s specific recommendation is that the Central Organising Committee ask Dahyabhai Patel to act for the next few months as an additional link between the Centre and Bihar, taking a personal and regular interest in the state’s affairs. He presents Patel’s collaboration as important to the Central Office’s difficult assignment and to building an effective Party unit in Bihar.
 ---
 
+## Summary
+
+This one-page supplementary report by M. R. Masani recommends an additional organisational role for Dahyabhai Patel in Bihar. Masani records Patel’s willingness to accompany him to Patna despite domestic constraints and praises the guidance and counsel Patel provided during the visit. The report says that Bihar party members felt deserted by the Central Organisation and local leadership, and that senior Party figures should visit the state in rotation to restore morale.
+
+Masani’s specific recommendation is that the Central Organising Committee ask Dahyabhai Patel to act for the next few months as an additional link between the Centre and Bihar, taking a personal and regular interest in the state’s affairs. He presents Patel’s collaboration as important to the Central Office’s difficult assignment and to building an effective Party unit in Bihar.
+
 ## Key points
 
 - Masani submits a supplementary recommendation concerning Party organisation in Bihar.

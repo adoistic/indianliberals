@@ -49,6 +49,10 @@ summary: |-
   This 1974 plaint in the City Civil Court, Madras, is filed by G. K. Sundaram, V. S. Srikumar, and V. Devanathan on behalf of the Tamilnadu Swatantra Party. It presents the party as an independent political organisation founded by C. Rajagopalachari and other national leaders, governed by its constitution and national conventions, and represented in Tamil Nadu by its elected office-bearers. The plaintiffs seek to protect the party’s administration, premises, assets, symbol, and continued independent existence.
 ---
 
+## Summary
+
+This 1974 plaint in the City Civil Court, Madras, is filed by G. K. Sundaram, V. S. Srikumar, and V. Devanathan on behalf of the Tamilnadu Swatantra Party. It presents the party as an independent political organisation founded by C. Rajagopalachari and other national leaders, governed by its constitution and national conventions, and represented in Tamil Nadu by its elected office-bearers. The plaintiffs seek to protect the party’s administration, premises, assets, symbol, and continued independent existence.
+
 ## Key points
 
 - The plaintiffs describe the Swatantra Party as an All India national political party founded by C. Rajagopalachari and other leaders.

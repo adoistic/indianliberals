@@ -50,6 +50,10 @@ summary: |-
   This untitled letter, dated March 29, 1976, was issued by Bharatiya Lok Dal, Bombay, to the Regional Transport Officer in Bombay. V. P. Bhatia confirms a conversation held on March 23 concerning vehicles originally purchased by the former Swatantra Party, which had merged into Bharatiya Lok Dal. The letter supplies a detailed list of 25 vehicles, identifying their registered owners, destinations, and registration numbers.
 ---
 
+## Summary
+
+This untitled letter, dated March 29, 1976, was issued by Bharatiya Lok Dal, Bombay, to the Regional Transport Officer in Bombay. V. P. Bhatia confirms a conversation held on March 23 concerning vehicles originally purchased by the former Swatantra Party, which had merged into Bharatiya Lok Dal. The letter supplies a detailed list of 25 vehicles, identifying their registered owners, destinations, and registration numbers.
+
 ## Key points
 
 - The letter confirms a prior conversation with the Regional Transport Officer on March 23, 1976.

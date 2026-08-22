@@ -54,6 +54,12 @@ summary: |-
   The page also comments on contemporary policy and party strategy. It criticizes proposed property ceilings that would prevent individuals from becoming small landholders, warns that public-sector manufacture of Renault cars would misuse scarce resources, and endorses Sri Dandekar’s call for the Swatantra Party to revive moral values while imposing effective penalties on wealthy people’s misconduct. The visible material is a set of editorial arguments and short commentaries rather than a formally attributed essay; no author, date, publisher, or publication context is visible.
 ---
 
+## Summary
+
+In the rendered page, the unsigned “Dear Reader” column argues that India has drifted toward communism and dictatorship through the Congress’s control of permits and licenses, attacks on property, and preference for socialist objectives over social justice. It presents the Swatantra Party’s “swadharma” as preserving democracy, individual dignity, and the Constitution of 1950, while urging resistance both inside and outside the legislatures. The page invokes the Bhagavad Gita and the Upanishads to frame political action as a duty pursued without attachment to success or failure.
+
+The page also comments on contemporary policy and party strategy. It criticizes proposed property ceilings that would prevent individuals from becoming small landholders, warns that public-sector manufacture of Renault cars would misuse scarce resources, and endorses Sri Dandekar’s call for the Swatantra Party to revive moral values while imposing effective penalties on wealthy people’s misconduct. The visible material is a set of editorial arguments and short commentaries rather than a formally attributed essay; no author, date, publisher, or publication context is visible.
+
 ## Key points
 
 - The page claims that India has moved toward communism and dictatorship through Congress control over permits and licences.

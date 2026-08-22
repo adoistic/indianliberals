@@ -50,6 +50,12 @@ summary: |-
   The agenda covers confirmation of the previous meeting's minutes, consideration of recommendations from the Central Parliamentary Board and the National Executive, business arising before Parliament's Budget Session, and any other business permitted by the chair. The letter closes by asking recipients to make every effort to attend.
 ---
 
+## Summary
+
+This untitled Swatantra Party circular, dated 4 May 1967 and signed by M. R. Masani, announces a forthcoming meeting of the party's members in Parliament. The meeting is scheduled for 5 p.m. on Sunday, 21 May, at Vithalbhai Patel Bhavan on Rafi Marg, New Delhi.
+
+The agenda covers confirmation of the previous meeting's minutes, consideration of recommendations from the Central Parliamentary Board and the National Executive, business arising before Parliament's Budget Session, and any other business permitted by the chair. The letter closes by asking recipients to make every effort to attend.
+
 ## Key points
 
 - The document is dated 4 May 1967 and issued on Swatantra Party Central Office letterhead.

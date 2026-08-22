@@ -55,6 +55,12 @@ summary: |-
   The appeal presents the policy as both an administrative failure and an economic injustice. It claims that nearly 100 privately owned printing presses, binding workshops and type foundries had closed or were closing, leaving about 3,000 skilled workers unemployed. The writers and publishers also argue that state-produced textbooks were neither cheaper nor better, while private publishers had historically subsidised Oriya literature through textbook revenues. Drawing on press criticism and comparisons with other countries, including communist states that had moved away from rigid state monopolies, the appeal concludes with a prayer for the restoration of private participation in textbook production in the name of democracy, free enterprise, education and the future of Oriya literature.
 ---
 
+## Summary
+
+This appeal, introduced by a covering letter from S. Mahapatra to Minoo Masani, asks the Chief Minister and Education Minister of Orissa to withdraw the state monopoly over school-textbook production. Issued collectively by Orissa’s writers, publishers and printers, it argues that the policy was imposed without meaningful consultation with educators, violates democratic and civilised principles, and threatens the state’s educational culture, regional-language literature and publishing economy.
+
+The appeal presents the policy as both an administrative failure and an economic injustice. It claims that nearly 100 privately owned printing presses, binding workshops and type foundries had closed or were closing, leaving about 3,000 skilled workers unemployed. The writers and publishers also argue that state-produced textbooks were neither cheaper nor better, while private publishers had historically subsidised Oriya literature through textbook revenues. Drawing on press criticism and comparisons with other countries, including communist states that had moved away from rigid state monopolies, the appeal concludes with a prayer for the restoration of private participation in textbook production in the name of democracy, free enterprise, education and the future of Oriya literature.
+
 ## Key points
 
 - The document appeals against the nationalisation or state monopolisation of school-textbook production in Orissa.

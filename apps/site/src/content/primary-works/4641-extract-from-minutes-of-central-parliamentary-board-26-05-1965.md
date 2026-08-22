@@ -56,6 +56,12 @@ summary: |-
   The second extract, from a 27 January 1968 meeting in Cochin, addresses whether the Party should field a second Gujarat candidate. It emphasizes protecting Vaidya's prospects first and authorizes a sub-committee to consider another candidate only if doing so would not undermine his election. The page therefore presents internal party decision-making as a process of negotiating electoral support, honoring prior commitments, and managing candidate selection.
 ---
 
+## Summary
+
+This single-page extract records two Central Parliamentary Board discussions concerning Swatantra Party electoral strategy in Gujarat. The first, held in Bombay on 26 May 1966, notes that Dr. Behramji Anstani secured 31 votes in a Rajya Sabha contest through an understanding with the Independent Progressive Group led by Babubhai Vaidya. In exchange for the Group's support, the Gujarat unit had reportedly promised to support Vaidya's election to the Rajya Sabha in 1968, honoring an earlier commitment associated with K. M. Munshi and Mr. Sushant Patel. The Board resolved that Vaidya should be honored as the Party's first candidate in the 1968 election.
+
+The second extract, from a 27 January 1968 meeting in Cochin, addresses whether the Party should field a second Gujarat candidate. It emphasizes protecting Vaidya's prospects first and authorizes a sub-committee to consider another candidate only if doing so would not undermine his election. The page therefore presents internal party decision-making as a process of negotiating electoral support, honoring prior commitments, and managing candidate selection.
+
 ## Key points
 
 - The Central Parliamentary Board recorded that Dr. Behramji Anstani secured 31 votes in a Gujarat Rajya Sabha contest.

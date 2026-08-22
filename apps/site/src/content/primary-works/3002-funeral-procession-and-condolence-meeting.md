@@ -49,6 +49,12 @@ summary: |-
   The statement announces that a funeral procession and condolence meeting will be arranged immediately after the post-mortem, with further communication to follow. It is signed in the public interest by Dahyabhai Patel, M. L. Sondhi, R. R. Singh Deo, S. K. Tapuriah, and K. M. Koushik, identified as Members of Parliament. No title, date, place, or conventional publisher is visible.
 ---
 
+## Summary
+
+This one-page English public-interest statement declares that “Indian Foreign Policy” has “Expired at Rabat” and says it is mourned by friends and enemies both in India and abroad. It presents the claim as a political obituary for Indian foreign policy, but does not explain what occurred at Rabat or identify the policy decisions being criticized.
+
+The statement announces that a funeral procession and condolence meeting will be arranged immediately after the post-mortem, with further communication to follow. It is signed in the public interest by Dahyabhai Patel, M. L. Sondhi, R. R. Singh Deo, S. K. Tapuriah, and K. M. Koushik, identified as Members of Parliament. No title, date, place, or conventional publisher is visible.
+
 ## Key points
 
 - The statement declares that Indian foreign policy has “Expired at Rabat.”

@@ -52,6 +52,12 @@ summary: |-
   The paper extends similar procedures to State Assembly candidates, while assigning greater responsibility to State Parliamentary Boards and requiring consultation within the relevant constituencies. It also calls for simultaneous recruitment and training of full-time field organisers. A separately headed section on by-elections criticises delayed recommendations, citing recent defeats in Mysore and Rajasthan, and warns that State Units may lose the right to nominate candidates if they do not act sufficiently early.
 ---
 
+## Summary
+
+This 1967 Swatantra Party procedural paper sets out an internal process for prioritising parliamentary constituencies and selecting prospective candidates for the forthcoming general election. State Parliamentary Boards are instructed to identify constituencies considered most responsive to the party, recommend suitable candidates, and assess candidates' character, personality, political record, and acceptability among local party workers and constituents. Recommendations are to be scrutinised by the Central Office and considered by the Central Parliamentary Board, with any delegated sub-committee permitted to act only unanimously on nominations.
+
+The paper extends similar procedures to State Assembly candidates, while assigning greater responsibility to State Parliamentary Boards and requiring consultation within the relevant constituencies. It also calls for simultaneous recruitment and training of full-time field organisers. A separately headed section on by-elections criticises delayed recommendations, citing recent defeats in Mysore and Rajasthan, and warns that State Units may lose the right to nominate candidates if they do not act sufficiently early.
+
 ## Key points
 
 - State Parliamentary Boards should rank constituencies according to their expected responsiveness and electoral prospects.

@@ -57,6 +57,12 @@ summary: |-
   In the rendered page, Rao broadens the tribute to include Rajaji’s literary, social-reform, and religious work. Rajaji is described as a translator of the Ramayana and Mahabharata, an interpreter of the Ramakrishna Upanishad, an opponent of untouchability, an advocate of prohibition, and a campaigner against nuclear weapons and other perceived social harms. The article closes by recalling Rajaji’s December 1972 appeal for an India–Pakistan summit and fulfillment of the Simla accord, presenting his legacy as that of a principled “moral sentinel” and public servant. Page 10 begins a separate article, “A Campaigner for Just Causes,” and was not treated as part of this essay.
 ---
 
+## Summary
+
+In the rendered page, P. Kodanda Rao presents C. Rajagopalachari (Rajaji) as a morally courageous, intellectually independent statesman whose public life extended beyond party politics. The article emphasizes his religious faith, personal purity, opposition to popularity-seeking, democratic convictions, criticism of Congress policy and communism, and decision to found the Swatantra Party at the age of eighty. It also highlights his advocacy of unilateral disarmament, including opposition to nuclear weapons and a call for India and America to disarm independently.
+
+In the rendered page, Rao broadens the tribute to include Rajaji’s literary, social-reform, and religious work. Rajaji is described as a translator of the Ramayana and Mahabharata, an interpreter of the Ramakrishna Upanishad, an opponent of untouchability, an advocate of prohibition, and a campaigner against nuclear weapons and other perceived social harms. The article closes by recalling Rajaji’s December 1972 appeal for an India–Pakistan summit and fulfillment of the Simla accord, presenting his legacy as that of a principled “moral sentinel” and public servant. Page 10 begins a separate article, “A Campaigner for Just Causes,” and was not treated as part of this essay.
+
 ## Key points
 
 - Rajaji is portrayed as an unusually independent and morally serious Indian statesman.

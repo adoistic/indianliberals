@@ -54,6 +54,12 @@ summary: |-
   The record also sets out proposed business for a General Council meeting in Madras on 8 December. Its agenda responds to the departure of half of the eight council members and seeks to reaffirm the party’s institutional continuity: declaring the August National Convention illegal and ultra vires, affirming that the Swatantra Party continues at national and state levels, treating defecting members as having left under the constitution, filling vacancies through an ad hoc National Executive, authorising state units to nominate replacements, and relocating party headquarters to Madras.
 ---
 
+## Summary
+
+This one-page English office record lists the participants at a Swatantra Party workers’ meeting held at the party office on 5 December 1974. It records arrangements for a public meeting at Matunga on 14 December, at which M. R. Masani was expected to speak on the current political situation; S. V. Raju, R. Ramachandran, K. H. Subramaniam, and Shantilal Popat were assigned organisational and presiding roles.
+
+The record also sets out proposed business for a General Council meeting in Madras on 8 December. Its agenda responds to the departure of half of the eight council members and seeks to reaffirm the party’s institutional continuity: declaring the August National Convention illegal and ultra vires, affirming that the Swatantra Party continues at national and state levels, treating defecting members as having left under the constitution, filling vacancies through an ad hoc National Executive, authorising state units to nominate replacements, and relocating party headquarters to Madras.
+
 ## Key points
 
 - The meeting was held at the Swatantra Party office on 5 December 1974.

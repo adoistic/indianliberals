@@ -46,6 +46,10 @@ summary: |-
   This single-page letter, dated August 26, 1963, is from S. V. Raju to Mr. K. J. Khambata. Raju acknowledges Khambata's contribution of Rs. 100 to the Party and states that an official receipt is enclosed.
 ---
 
+## Summary
+
+This single-page letter, dated August 26, 1963, is from S. V. Raju to Mr. K. J. Khambata. Raju acknowledges Khambata's contribution of Rs. 100 to the Party and states that an official receipt is enclosed.
+
 ## Key points
 
 - The letter is dated August 26, 1963.

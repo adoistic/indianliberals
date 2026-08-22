@@ -49,6 +49,12 @@ summary: |-
   The substantive issue was Telephone No. 271576, described in the minutes as being in the illegal possession of Ratansinh Rajda. Following discussion, the committee resolved to ask the Deputy Area Manager (C & A), South M.T.N.L. Cooperage Exchange, to keep the telephone under safe custody until the Maharashtra Swatantra Party considered it necessary to have it restored. The meeting then ended with a vote of thanks to the chair.
 ---
 
+## Summary
+
+This two-page office record contains the minutes of a Managing Committee meeting of the Swatantra Party, Maharashtra, held at the party office on Monday, 8 December 1986. S. V. Raju chaired the meeting; five other members were listed as present, while Parmanand Kejriwal was reported ill and unable to attend.
+
+The substantive issue was Telephone No. 271576, described in the minutes as being in the illegal possession of Ratansinh Rajda. Following discussion, the committee resolved to ask the Deputy Area Manager (C & A), South M.T.N.L. Cooperage Exchange, to keep the telephone under safe custody until the Maharashtra Swatantra Party considered it necessary to have it restored. The meeting then ended with a vote of thanks to the chair.
+
 ## Key points
 
 - The document records a Managing Committee meeting of the Swatantra Party, Maharashtra, held on 8 December 1986.

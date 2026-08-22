@@ -54,6 +54,12 @@ summary: |-
   The minutes also record the party’s position on complaints about business houses allegedly using improper methods to obtain permits and quotas, as detailed in the Hazare Committee Report. The meeting distinguished these practices from the operation of large enterprises in a competitive market, stating that a large enterprise should not be treated as a monopoly so long as free and healthy competition exists. The document ends with instructions for Rajya Sabha members to follow the party line while speaking on the report.
 ---
 
+## Summary
+
+This two-page record, issued by the Swatantra Party Parliamentary Office on May 22, 1967, documents a meeting of the party’s Executive Committee in Parliament. It lists the members present and assigns speakers for discussions of the Railway Budget, railway demands for grants, and the General Budget, with dates scheduled for parliamentary debate. The Leader, Deputy Leader, Secretary, and Chief Whip were authorised to alter the allocation of seats as necessary.
+
+The minutes also record the party’s position on complaints about business houses allegedly using improper methods to obtain permits and quotas, as detailed in the Hazare Committee Report. The meeting distinguished these practices from the operation of large enterprises in a competitive market, stating that a large enterprise should not be treated as a monopoly so long as free and healthy competition exists. The document ends with instructions for Rajya Sabha members to follow the party line while speaking on the report.
+
 ## Key points
 
 - The Executive Committee of the Swatantra Party in Parliament met on May 22, 1967.

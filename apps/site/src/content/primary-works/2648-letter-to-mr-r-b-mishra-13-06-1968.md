@@ -48,6 +48,12 @@ summary: |-
   Masani relays that the project report is undergoing technical examination by the Central Water and Power Commission. He explains that the Commission has sent comments to the State Government, requested replies and discussions with an officer, and asked for expedited scrutiny so that the report can be placed before the Advisory Committee for clearance of irrigation, power and flood-control projects. The letter closes by urging rapid progress and a response from the State Government.
 ---
 
+## Summary
+
+This one-page letter, dated 3 June 1968 and signed by M. R. Masani, is addressed to Raj Ballabh Babu (Mr. R. B. Mishra), Minister of Community Development, Panchayati Raj and Agriculture in the Government of Orissa. Masani follows up on Mishra's earlier letter concerning the Amandpur Barrage Project and reports a reply from Dr. K. L. Rao, then India's Minister for Irrigation and Power.
+
+Masani relays that the project report is undergoing technical examination by the Central Water and Power Commission. He explains that the Commission has sent comments to the State Government, requested replies and discussions with an officer, and asked for expedited scrutiny so that the report can be placed before the Advisory Committee for clearance of irrigation, power and flood-control projects. The letter closes by urging rapid progress and a response from the State Government.
+
 ## Key points
 
 - Masani writes to R. B. Mishra about the Amandpur Barrage Project.

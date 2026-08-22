@@ -51,6 +51,12 @@ summary: |-
   Patel sets out several grounds for his complaint: Vaidya's nomination was not supported by Gujarat office-bearers; Natversinh Solanki allegedly signed Mahida's nomination papers before the Central Party's final decision and continued supporting him; and Vaidya was not given an opportunity to explain allegations against him before party legislators. Patel characterizes the episode as an organized revolt by Gujarat leaders, calls for disciplinary action and expulsion of those who supported Mahida, and urges the appointment of a high-power inquiry committee. He also praises Minoo Masani's resignation from the National Executive and Parliamentary Board while asking that Masani's advice and services not be lost to the Central Party.
 ---
 
+## Summary
+
+In this two-page letter dated 2 April 1968, Ratibhai Patel writes to N. Dandekar about the damaging consequences of the Gujarat Rajya Sabha election held on 28 March 1968. He argues that Gujarat Swatantra Party leaders violated an earlier commitment to support Babubhai Vaidya and disregarded decisions of the Central Parliamentary Board. Patel warns that tolerating this conduct would establish an unhealthy precedent of revolt across the party's units.
+
+Patel sets out several grounds for his complaint: Vaidya's nomination was not supported by Gujarat office-bearers; Natversinh Solanki allegedly signed Mahida's nomination papers before the Central Party's final decision and continued supporting him; and Vaidya was not given an opportunity to explain allegations against him before party legislators. Patel characterizes the episode as an organized revolt by Gujarat leaders, calls for disciplinary action and expulsion of those who supported Mahida, and urges the appointment of a high-power inquiry committee. He also praises Minoo Masani's resignation from the National Executive and Parliamentary Board while asking that Masani's advice and services not be lost to the Central Party.
+
 ## Key points
 
 - The letter concerns the Gujarat Rajya Sabha election of 28 March 1968 and its consequences for the Gujarat Swatantra Party.

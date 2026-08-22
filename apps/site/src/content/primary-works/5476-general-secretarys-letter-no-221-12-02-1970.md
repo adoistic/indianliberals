@@ -52,6 +52,12 @@ summary: |-
   A reply from the Swatantra Party's Bombay Region, dated 13 March 1970 and signed by P. S. Koppiker, reports that reprinting had begun in Marathi, Hindi, Gujarati, and Urdu, in addition to English. The Bombay office proposed an initial combined run of 10,000 copies and estimated the cost at approximately Rs. 4,000, while requesting financial assistance from National Headquarters. The pages therefore show party organisation focused on multilingual political communication, local distribution, and the practical costs of expanding readership.
 ---
 
+## Summary
+
+This four-page English office record documents the Swatantra Party's effort to translate and circulate its Mid-Term Report in Indian languages. In General Secretary R. C. Cooper's letter of 12 February 1970, party units are asked to make the report available locally and to arrange translations where necessary. The letter notes that a Gujarati translation had been located and lists proposed journals and languages for republication or reprinting, including Telugu, Hindi, Gujarati, Kerala Malayalam, Tamil, Kannada, and Oriya.
+
+A reply from the Swatantra Party's Bombay Region, dated 13 March 1970 and signed by P. S. Koppiker, reports that reprinting had begun in Marathi, Hindi, Gujarati, and Urdu, in addition to English. The Bombay office proposed an initial combined run of 10,000 copies and estimated the cost at approximately Rs. 4,000, while requesting financial assistance from National Headquarters. The pages therefore show party organisation focused on multilingual political communication, local distribution, and the practical costs of expanding readership.
+
 ## Key points
 
 - R. C. Cooper's 12 February 1970 letter asks party units to publicise the Swatantra Party Mid-Term Report extensively.

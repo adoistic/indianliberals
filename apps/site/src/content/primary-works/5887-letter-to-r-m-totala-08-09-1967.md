@@ -44,6 +44,10 @@ summary: |-
   This one-page letter, dated September 8, 1967, is from S. V. Raju to R. M. Totala. Raju acknowledges Totala’s August 26 letter concerning Mr. Masani and explains that Masani is abroad and will not return until the end of September. Because that timing would make it too late for Masani to respond to Totala’s request for an article, Raju asks Totala to excuse him.
 ---
 
+## Summary
+
+This one-page letter, dated September 8, 1967, is from S. V. Raju to R. M. Totala. Raju acknowledges Totala’s August 26 letter concerning Mr. Masani and explains that Masani is abroad and will not return until the end of September. Because that timing would make it too late for Masani to respond to Totala’s request for an article, Raju asks Totala to excuse him.
+
 ## Key points
 
 - The letter is dated September 8, 1967.

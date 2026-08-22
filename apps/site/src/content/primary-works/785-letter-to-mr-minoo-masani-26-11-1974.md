@@ -49,6 +49,12 @@ summary: |-
   Bhatia argues that if the money was intended as party funds, the shares should have been returned to the Swatantra Party, which still faced unpaid liabilities. If the funds were given to Masani for a specific purpose, however, he says Masani should be free to dispose of them as he sees fit. The letter requests approval to sell the shares so that the party can clear its outstanding bills, rather than transfer the money to the trust preparing a biography of C. Rajagopalachari.
 ---
 
+## Summary
+
+This one-page letter, dated 26 November 1974 and signed by V. P. Bhatia at Swatantra Party national headquarters, concerns the proposed sale of shares in Indian Overseas Bank. Bhatia relays Piloo Mody’s hesitation to advise Minoo Masani without knowing the shares’ background, the circumstances of their transfer, and the intended use of the proceeds.
+
+Bhatia argues that if the money was intended as party funds, the shares should have been returned to the Swatantra Party, which still faced unpaid liabilities. If the funds were given to Masani for a specific purpose, however, he says Masani should be free to dispose of them as he sees fit. The letter requests approval to sell the shares so that the party can clear its outstanding bills, rather than transfer the money to the trust preparing a biography of C. Rajagopalachari.
+
 ## Key points
 
 - The correspondence concerns the sale of Indian Overseas Bank shares.

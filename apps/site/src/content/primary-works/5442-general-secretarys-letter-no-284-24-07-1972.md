@@ -53,6 +53,12 @@ summary: |-
   Mehta asks state units to send contingents of ten members each to Orissa, both to demonstrate party solidarity and to project the anti-defection issue nationally. The letter provides logistical instructions: notify Mr. Chashiram Majhi of the names and travel arrangements of participants, send the list, report the fare, and identify the recipient for remitted funds. The requested arrangements were to be completed by 5 August.
 ---
 
+## Summary
+
+This one-page letter from Madhu Mehta, General Secretary of the Swatantra Party, dated 24 July 1972, concerns the party’s response to the collapse of the Orissa coalition government. It recalls a resolution of the General Council condemning the manner in which the government was brought down and notes the decision to organise an Anti-Defection Week during the monsoon session of the Orissa Assembly, with meetings in Bhubaneswar and the constituencies of defecting legislators.
+
+Mehta asks state units to send contingents of ten members each to Orissa, both to demonstrate party solidarity and to project the anti-defection issue nationally. The letter provides logistical instructions: notify Mr. Chashiram Majhi of the names and travel arrangements of participants, send the list, report the fare, and identify the recipient for remitted funds. The requested arrangements were to be completed by 5 August.
+
 ## Key points
 
 - The letter records the Swatantra Party’s condemnation of the collapse of the Orissa coalition government.

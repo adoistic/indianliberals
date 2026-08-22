@@ -50,6 +50,10 @@ summary: |-
   This February 6, 1971 newspaper clipping presents Minoo Masani’s defence of the Swatantra Party manifesto against socialist criticism. Masani argues that the manifesto is neither a return to laissez-faire nor a programme for preserving privilege, but a case for individual freedom, democratic government, private property, and limits on state power. The article describes his rejection of slogan-driven attacks on the party and reports his claim that the Swatantra approach is rooted in a clear distinction between the functions of government and those of private citizens.
 ---
 
+## Summary
+
+This February 6, 1971 newspaper clipping presents Minoo Masani’s defence of the Swatantra Party manifesto against socialist criticism. Masani argues that the manifesto is neither a return to laissez-faire nor a programme for preserving privilege, but a case for individual freedom, democratic government, private property, and limits on state power. The article describes his rejection of slogan-driven attacks on the party and reports his claim that the Swatantra approach is rooted in a clear distinction between the functions of government and those of private citizens.
+
 ## Key points
 
 - Minoo Masani responds to socialist criticism of the Swatantra Party manifesto.

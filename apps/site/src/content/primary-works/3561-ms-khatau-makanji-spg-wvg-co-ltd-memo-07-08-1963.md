@@ -44,6 +44,10 @@ summary: |-
   This single-page English office memo, issued on the letterhead of The Khatau Makanji Spg. & Wvg. Co., Ltd., is dated 7 August 1963 and marked with reference number 3561. It instructs the recipient to issue receipts for July and August 1963 on behalf of four companies.
 ---
 
+## Summary
+
+This single-page English office memo, issued on the letterhead of The Khatau Makanji Spg. & Wvg. Co., Ltd., is dated 7 August 1963 and marked with reference number 3561. It instructs the recipient to issue receipts for July and August 1963 on behalf of four companies.
+
 ## Key points
 
 - The document is an internal administrative memo dated 7 August 1963.

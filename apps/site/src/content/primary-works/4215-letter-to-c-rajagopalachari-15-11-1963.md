@@ -49,6 +49,12 @@ summary: |-
   The letter records that the General Secretary of the Punjab Swatantra Party has already offered support. A copy is forwarded to Minoo Masani, identified as a Member of Parliament and General Secretary of the Swatantra Party of India, with a request that he endorse the convention and communicate his acceptance promptly.
 ---
 
+## Summary
+
+This one-page letter, dated November 15, 1963, is written by Hari Ram, Advocate, from Hari Niwas, Rohtak, to C. Rajagopalachari. Hari Ram proposes a convention of leaders of all Indian opposition parties, excluding Communists, together with independent leaders, to oppose the Seventeenth Amendment to the Constitution. He suggests holding the convention in late December while Parliament is in session and asks Rajagopalachari to indicate a convenient date for meeting in Delhi.
+
+The letter records that the General Secretary of the Punjab Swatantra Party has already offered support. A copy is forwarded to Minoo Masani, identified as a Member of Parliament and General Secretary of the Swatantra Party of India, with a request that he endorse the convention and communicate his acceptance promptly.
+
 ## Key points
 
 - Hari Ram proposes a convention of opposition-party and independent leaders from across India.

@@ -55,6 +55,12 @@ summary: |-
   The resolution identifies cooperative joint farming as the desired future pattern: land would be pooled for joint cultivation while farmers retained their property rights and received net produce in proportion to their land. It proposes service cooperatives as a preliminary step, land ceilings and abolition of intermediaries by the end of 1959, minimum crop prices fixed before sowing, direct government purchases where necessary, state trading in wholesale foodgrains, and the cultivation of unused and wasteland. The document concludes by calling on governments and the Congress organisation to mobilise farmers through mass enthusiasm, initiative, and self-help.
 ---
 
+## Summary
+
+This two-page English-language document reproduces a resolution on agrarian organisation passed by the Indian National Congress at its 64th session in Nagpur on January 10, 1959. It proposes village development through empowered village panchayats and cooperatives, with cooperatives providing credit, marketing, storage, improved cultivation techniques, animal husbandry, fisheries, and cottage industries. Membership is to be open to all permanent village residents, whether landowners or not.
+
+The resolution identifies cooperative joint farming as the desired future pattern: land would be pooled for joint cultivation while farmers retained their property rights and received net produce in proportion to their land. It proposes service cooperatives as a preliminary step, land ceilings and abolition of intermediaries by the end of 1959, minimum crop prices fixed before sowing, direct government purchases where necessary, state trading in wholesale foodgrains, and the cultivation of unused and wasteland. The document concludes by calling on governments and the Congress organisation to mobilise farmers through mass enthusiasm, initiative, and self-help.
+
 ## Key points
 
 - Village organisation should rest on adequately empowered panchayats and village cooperatives.

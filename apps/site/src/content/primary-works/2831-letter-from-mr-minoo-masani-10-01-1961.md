@@ -54,6 +54,12 @@ summary: |-
   On the constituency bill, the letter supports Sri Sivaraj and the Republican Party's view that further reservation would be harmful to Harijans. On the frontier-propaganda bill, it calls for opposition to Communist subversive activities but also insists that the dangers to civil liberty be stressed. It proposes amendments limiting the offence to activity connected with a foreign power's territorial claim, excluding bona fide frontier discussions, and deleting the provision barring non-residents from entering frontier areas as a violation of fundamental rights. The letter concludes that members should make their position clear in debate and amendments before the final vote.
 ---
 
+## Summary
+
+This two-page Swatantra Party Central Office letter, dated 18 January 1961 and signed by General Secretary M. R. Masani, communicates the party's recommended parliamentary positions on two measures discussed at an informal meeting in Madras: the Two Member Constituency Abolition Bill and a Home Ministry bill concerning propaganda on the frontiers. It emphasizes that the Parliamentary Group should retain freedom to act independently in each House while presenting a coordinated position on the bills.
+
+On the constituency bill, the letter supports Sri Sivaraj and the Republican Party's view that further reservation would be harmful to Harijans. On the frontier-propaganda bill, it calls for opposition to Communist subversive activities but also insists that the dangers to civil liberty be stressed. It proposes amendments limiting the offence to activity connected with a foreign power's territorial claim, excluding bona fide frontier discussions, and deleting the provision barring non-residents from entering frontier areas as a violation of fundamental rights. The letter concludes that members should make their position clear in debate and amendments before the final vote.
+
 ## Key points
 
 - M. R. Masani's letter records recommendations arising from a Swatantra Party sub-committee meeting held in Madras on 9 and 10 January 1961.

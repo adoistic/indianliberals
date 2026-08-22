@@ -50,6 +50,12 @@ summary: |-
   The report says Nathu Singh was wanted in several criminal cases, including murder, and had previously been involved in encounters with police. It also records plans for his formal surrender and notes the broader scale of the dacoit problem, including the number of listed dacoits in the state. The article closes by presenting the surrender campaign as a process combining moral appeal, rehabilitation, and the prospect of legal proceedings.
 ---
 
+## Summary
+
+This one-page Times of India News Service report, dated 18 April 1972, describes the surrender of dacoit Nathu Singh to Jayaprakash Narayan at Gwalior. It reports that Singh handed over his rifle and ammunition and that the surrender formed part of Narayan’s Sarvodaya peace mission in the ravine areas. The article places the event alongside earlier surrenders by other feared bandits and describes official and local efforts to persuade dacoits to abandon armed life.
+
+The report says Nathu Singh was wanted in several criminal cases, including murder, and had previously been involved in encounters with police. It also records plans for his formal surrender and notes the broader scale of the dacoit problem, including the number of listed dacoits in the state. The article closes by presenting the surrender campaign as a process combining moral appeal, rehabilitation, and the prospect of legal proceedings.
+
 ## Key points
 
 - Nathu Singh surrendered to Jayaprakash Narayan at Gwalior on 17 April 1972.

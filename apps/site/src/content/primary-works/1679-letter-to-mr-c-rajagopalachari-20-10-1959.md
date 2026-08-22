@@ -53,6 +53,12 @@ summary: |-
   Munshi stresses the need for stronger organisational infrastructure, particularly a regular central office in Bangalore staffed by competent paid workers. He attributes the party's promising public image partly to repeated references by Jawaharlal Nehru and Indira Gandhi, which he says indirectly promote Swatantra by suggesting that it is becoming a significant force. The letter closes with plans to visit Ahmedabad and Gujarat, where floods and the decision to divide the bilingual state have affected political progress.
 ---
 
+## Summary
+
+In this letter dated October 20, 1959, K. M. Munshi updates C. Rajagopalachari on efforts to organise the newly formed Swatantra Party. He describes coalition-building in Delhi, including contacts with Congress figures and Muslim leaders, and reports plans to expand membership to between 25,000 and 30,000 by late November or December. He also discusses party activity in Rajasthan, Punjab, and Uttar Pradesh, including municipal-election candidates and local conventions.
+
+Munshi stresses the need for stronger organisational infrastructure, particularly a regular central office in Bangalore staffed by competent paid workers. He attributes the party's promising public image partly to repeated references by Jawaharlal Nehru and Indira Gandhi, which he says indirectly promote Swatantra by suggesting that it is becoming a significant force. The letter closes with plans to visit Ahmedabad and Gujarat, where floods and the decision to divide the bilingual state have affected political progress.
+
 ## Key points
 
 - Munshi reports progress in building a Swatantra Party organisation across Delhi, Rajasthan, Punjab, and Uttar Pradesh.

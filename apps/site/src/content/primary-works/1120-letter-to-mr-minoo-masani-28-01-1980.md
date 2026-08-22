@@ -53,6 +53,14 @@ summary: |-
   The writer reports that he has already floated such a party in Madhya Pradesh under the name Janadhikar Parishad; its working committee is scheduled to meet on 29 February at Jabalpur to draft the party's constitution and election manifesto. He asks Masani for a copy of the constitution and election manifesto of the Swatantra Party to consult before finalising his own, promises to send the draft for Masani's advice, and assures him he will not be asked to join active party politics — only to bless and occasionally guide the effort.
 ---
 
+## Summary
+
+A one-page personal letter dated 28 January 1980, written from 'The Palace, Maihar (M.P.)' to Minoo Masani in reply to a letter of 19 September 1979. The writer reads the January 1980 election result — Indira Gandhi's return to power — as evidence that Indian politics now offers only two choices, which he labels 'Indraism or Communism'. He regards the Janata Party as a divided house in which the electorate has lost faith, and judges that the majority of Indians favour neither of the two dominant options but see no viable alternative before them.
+
+Having read Masani's book 'J.P. Mission Partly Accomplished', the writer laments that Jayaprakash Narayan's sacrifice has been wasted 'at least for the present', and expresses relief that J.P. did not live to witness the reversal. He urges Masani, despite Masani's stated retirement from party politics, to at least guide those who wish to start a conservative party in the country.
+
+The writer reports that he has already floated such a party in Madhya Pradesh under the name Janadhikar Parishad; its working committee is scheduled to meet on 29 February at Jabalpur to draft the party's constitution and election manifesto. He asks Masani for a copy of the constitution and election manifesto of the Swatantra Party to consult before finalising his own, promises to send the draft for Masani's advice, and assures him he will not be asked to join active party politics — only to bless and occasionally guide the effort.
+
 ## Key points
 
 - Personal letter of 28 January 1980 from 'The Palace, Maihar (M.P.)' to Minoo Masani, in reply to a letter of 19 September 1979.

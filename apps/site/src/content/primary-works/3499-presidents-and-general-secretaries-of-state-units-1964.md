@@ -51,6 +51,12 @@ summary: |-
   The document shows the party's organisational presence across a wide range of Indian states and regions. It also records variations in local administration: some units have a single general secretary, Gujarat includes an alternative office-secretary address, Punjab has two secretaries, and the handwritten entries for Bihar, Assam, and West Bengal supplement or replace the typed format. The pages are primarily a directory rather than a statement of policy or political argument.
 ---
 
+## Summary
+
+This four-page administrative document records the presidents and general secretaries of Swatantra Party state units elected by the State Council in December 1964. It lists officeholders and postal addresses for Andhra Pradesh, Bombay City, Gujarat, Himachal Pradesh, Madras, Maharashtra, Mysore, Orissa, Punjab, Rajasthan, Uttar Pradesh, Kerala, Bihar, Assam, and West Bengal.
+
+The document shows the party's organisational presence across a wide range of Indian states and regions. It also records variations in local administration: some units have a single general secretary, Gujarat includes an alternative office-secretary address, Punjab has two secretaries, and the handwritten entries for Bihar, Assam, and West Bengal supplement or replace the typed format. The pages are primarily a directory rather than a statement of policy or political argument.
+
 ## Key points
 
 - The list was issued after state-unit elections held by the State Council in December 1964.

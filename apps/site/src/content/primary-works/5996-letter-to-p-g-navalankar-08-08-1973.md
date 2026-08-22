@@ -43,6 +43,10 @@ summary: |-
   In this one-page letter dated August 2, 1973, M. R. Masani tells P. G. Navalankar that Navalankar’s July 27 letter to Jayaprakash Narayan was shown to Narayan during Masani’s brief visit to the hospital. Masani reports that Narayan had been moved out of intensive care into a private room and was recovering, though he was still weak and low.
 ---
 
+## Summary
+
+In this one-page letter dated August 2, 1973, M. R. Masani tells P. G. Navalankar that Navalankar’s July 27 letter to Jayaprakash Narayan was shown to Narayan during Masani’s brief visit to the hospital. Masani reports that Narayan had been moved out of intensive care into a private room and was recovering, though he was still weak and low.
+
 ## Key points
 
 - The letter is dated August 2, 1973, and is addressed to Mr. P. G. Navalankar.

@@ -49,6 +49,12 @@ summary: |-
   Sreenivasan says he has written a brief article for the next issue of “Mysindia” to set the record straight publicly and has enclosed a copy for Masani. The document is therefore both a personal expression of party solidarity and an indication of an internal Swatantra Party dispute over the interpretation and public presentation of a pledge.
 ---
 
+## Summary
+
+This one-page letter, dated 4 June 1968, is written by V. T. Sreenivasan of the Swatantra Party's Mysore State organisation to Minoo Masani. Sreenivasan expresses distress over what he regards as Masani's shabby treatment at recent General Council meetings in Madras and criticises C. Rajagopalachari (Rajaji) for allegedly diverting the dispute by quibbling over the word “pledge.”
+
+Sreenivasan says he has written a brief article for the next issue of “Mysindia” to set the record straight publicly and has enclosed a copy for Masani. The document is therefore both a personal expression of party solidarity and an indication of an internal Swatantra Party dispute over the interpretation and public presentation of a pledge.
+
 ## Key points
 
 - The letter is dated 4 June 1968 and originates from the Swatantra Party's Mysore State office in Bangalore.

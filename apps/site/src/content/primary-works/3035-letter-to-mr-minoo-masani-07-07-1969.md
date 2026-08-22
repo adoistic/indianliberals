@@ -50,6 +50,12 @@ summary: |-
   The Board also asks the party’s parliamentary leader, Prof. N. G. Ranga, to persuade the Congress Party to accept the second alternative. The document records an internal parliamentary strategy rather than a general policy argument, and no printed title or reference number is visible on the page.
 ---
 
+## Summary
+
+This one-page letter, dated July 7, 1969, reports the Swatantra Party Board’s advice on a Private Members’ Bill concerning salaries, allowances, and other amenities for Members of Parliament. Addressed to Minoo Masani, the letter proposes three possible positions: refer the Joint Select Committee’s recommendations to an impartial third party for an opinion; support only the provisions reflecting the committee’s unanimous recommendations; or abstain from voting on recommendations that were not unanimous if the Congress Party rejected the first two alternatives.
+
+The Board also asks the party’s parliamentary leader, Prof. N. G. Ranga, to persuade the Congress Party to accept the second alternative. The document records an internal parliamentary strategy rather than a general policy argument, and no printed title or reference number is visible on the page.
+
 ## Key points
 
 - The letter concerns a Private Members’ Bill on MPs’ salaries, allowances, and other amenities.

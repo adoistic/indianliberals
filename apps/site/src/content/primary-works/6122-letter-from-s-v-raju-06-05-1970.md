@@ -49,6 +49,12 @@ summary: |-
   The accompanying handwritten pages expand the practical and personal case against the transfer. They describe Jacob's long service at the Cochin factory, his large family, the educational disruption that relocation would cause, and the difficulty of finding a suitable personal replacement in Bombay. The letter and notes therefore connect party-political considerations with an individual employment case, presenting Jacob's retention as both humane and strategically useful. The document does not establish the final decision or outcome of the transfer.
 ---
 
+## Summary
+
+This five-page English archival letter, dated May 6, 1970, records S. V. Raju's intervention in a proposed transfer involving Mr. K. C. Jacob, an employee of the Tata Oil Mills factory at Taliparamba, Cochin. The typed letter to M. R. Masani relays Mr. H. K. Stephen's request that Jacob remain in Kerala rather than be transferred to Bombay, citing Jacob's responsibility for an elderly mother and his usefulness to the Party in the state. Raju urges Masani to use whatever influence he can, arguing that Kerala's worsening political situation makes the matter urgent.
+
+The accompanying handwritten pages expand the practical and personal case against the transfer. They describe Jacob's long service at the Cochin factory, his large family, the educational disruption that relocation would cause, and the difficulty of finding a suitable personal replacement in Bombay. The letter and notes therefore connect party-political considerations with an individual employment case, presenting Jacob's retention as both humane and strategically useful. The document does not establish the final decision or outcome of the transfer.
+
 ## Key points
 
 - The document is a May 6, 1970 letter from S. V. Raju to M. R. Masani.

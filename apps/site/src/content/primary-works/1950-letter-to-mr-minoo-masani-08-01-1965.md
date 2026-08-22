@@ -45,6 +45,12 @@ summary: |-
   Solanki assures Masani that the account will be settled as soon as possible and promises that the delay will not cause any further trouble. The second scanned page is the reverse of the letter and envelope, which is addressed to Shri M. R. Masani in Bombay; it contains no additional substantive correspondence.
 ---
 
+## Summary
+
+This two-page English correspondence is a typed letter from P. N. Solanki, written from Talukdari Hostel, Nadiad, on 8 January 1965 and addressed to Minoo Masani. Solanki acknowledges Masani's letter of 2 January and apologises for not paying a subscription on time.
+
+Solanki assures Masani that the account will be settled as soon as possible and promises that the delay will not cause any further trouble. The second scanned page is the reverse of the letter and envelope, which is addressed to Shri M. R. Masani in Bombay; it contains no additional substantive correspondence.
+
 ## Key points
 
 - The document is a personal typed letter rather than a published work.

@@ -51,6 +51,12 @@ summary: |-
   Masani advises the President to call first on the leader of the next-largest group and to approach the Congress leader only if that person cannot form a coalition. He also cautions against naming a party leader before that person has been elected through a properly convened meeting of the new Parliament's members, referring to what he describes as the mistaken practice followed on the previous occasion.
 ---
 
+## Summary
+
+In this letter dated November 21, 1989, M. R. Masani sends the President an advance copy of a forthcoming Statesman column concerning the possibility that the Congress Party might fail to win a clear majority. Masani argues that such an outcome should be interpreted as a popular mandate against Congress rather than as grounds for automatically inviting it to form the government.
+
+Masani advises the President to call first on the leader of the next-largest group and to approach the Congress leader only if that person cannot form a coalition. He also cautions against naming a party leader before that person has been elected through a properly convened meeting of the new Parliament's members, referring to what he describes as the mistaken practice followed on the previous occasion.
+
 ## Key points
 
 - Masani forwards President R. Venkataraman an advance copy of a Statesman column.

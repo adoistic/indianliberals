@@ -55,3 +55,7 @@ ai:
 summary: |-
   The January 1963 issue of Swatantra Newsletter, issued by the Central Office of the Swatantra Party, is organized around the Chinese cease-fire, the continuing national emergency, parliamentary criticism of the government, and party activity across India. Its reports and reproduced speeches argue that the emergency powers adopted during the China crisis have outlived their justification and threaten civil liberties, while also calling for stronger defence preparations, alliances with Western democracies, and improved relations with Pakistan.
 ---
+
+## Summary
+
+The January 1963 issue of Swatantra Newsletter, issued by the Central Office of the Swatantra Party, is organized around the Chinese cease-fire, the continuing national emergency, parliamentary criticism of the government, and party activity across India. Its reports and reproduced speeches argue that the emergency powers adopted during the China crisis have outlived their justification and threaten civil liberties, while also calling for stronger defence preparations, alliances with Western democracies, and improved relations with Pakistan.

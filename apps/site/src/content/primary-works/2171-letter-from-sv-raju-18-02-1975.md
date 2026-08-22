@@ -50,6 +50,12 @@ summary: |-
   Raju reports that N. K. Ganapiah has been unable to obtain the support of K. H. Sreenivasan and G. M. Manjunathayya. He urges Masani to persuade Sreenivasan not to lend his support to the BLD, arguing that this would defeat the Trust’s purpose, and suggests that Masani speak to Sreenivasan first. The page presents the matter as an immediate piece of party-political and organisational intervention rather than a general policy argument.
 ---
 
+## Summary
+
+In this letter from Bombay dated February 18, 1975, S. V. Raju asks M. R. Masani to intervene in a dispute involving the Bangalore Education Trust and the Swatantra Party. Raju alleges that the Trust, created to support the Swatantra Party, is now funnelling funds to the Mysore BLD while overruling trustees B. D. Sreenivasan and B. V. Narayana Reddy.
+
+Raju reports that N. K. Ganapiah has been unable to obtain the support of K. H. Sreenivasan and G. M. Manjunathayya. He urges Masani to persuade Sreenivasan not to lend his support to the BLD, arguing that this would defeat the Trust’s purpose, and suggests that Masani speak to Sreenivasan first. The page presents the matter as an immediate piece of party-political and organisational intervention rather than a general policy argument.
+
 ## Key points
 
 - Raju asks M. R. Masani to address an alleged change in the Bangalore Education Trust’s political funding.

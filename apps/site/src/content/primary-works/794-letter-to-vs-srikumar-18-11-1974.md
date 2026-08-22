@@ -51,6 +51,12 @@ summary: |-
   Raju says Masani can address a public meeting in English, provided it is held in a hall, and asks Srikumar to respond immediately if he wishes to arrange the event. The letter also records that Raju’s previously disconnected telephone has been reconnected. The page is primarily logistical, but it situates the correspondence within a contemporary effort to publicly defend freedom.
 ---
 
+## Summary
+
+This one-page letter from S. V. Raju to V. S. Srikumar, dated 18 November 1974, concerns a proposed Tamil Nadu “Fortnight for the Preservation of Freedom.” Raju reports that Minoo Masani has been invited to address the gathering and offers specific details about Masani’s availability in Madras on 12 December 1974.
+
+Raju says Masani can address a public meeting in English, provided it is held in a hall, and asks Srikumar to respond immediately if he wishes to arrange the event. The letter also records that Raju’s previously disconnected telephone has been reconnected. The page is primarily logistical, but it situates the correspondence within a contemporary effort to publicly defend freedom.
+
 ## Key points
 
 - S. V. Raju wrote to V. S. Srikumar on 18 November 1974.

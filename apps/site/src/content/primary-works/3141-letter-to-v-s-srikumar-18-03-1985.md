@@ -49,6 +49,12 @@ summary: |-
   Srikumar's reply warmly rejects the suggestion that he could have forgotten Raju, while explaining that the Swatantra Party records in Madras were moved repeatedly during the party's final years and were ultimately lost. He nevertheless offers whatever assistance he can, mentions the suspected involvement of V. Subramaniam and Dr. Santosham in the destruction of the records, and sends regards to Minoo Masani and other friends. The third rendered page is an inland-letter envelope addressed to Raju and contains no additional substantive correspondence.
 ---
 
+## Summary
+
+This correspondence file contains an exchange between S. V. Raju and V. S. Srikumar in March 1985. Raju apologizes for suggesting that Srikumar had forgotten him and asks for help locating records of the Swatantra Party, whose headquarters had reportedly been locked and whose Madras records had disappeared. He is seeking these materials for his doctoral thesis and specifically requests Srikumar's assistance in dealing with the Madras portion of his research.
+
+Srikumar's reply warmly rejects the suggestion that he could have forgotten Raju, while explaining that the Swatantra Party records in Madras were moved repeatedly during the party's final years and were ultimately lost. He nevertheless offers whatever assistance he can, mentions the suspected involvement of V. Subramaniam and Dr. Santosham in the destruction of the records, and sends regards to Minoo Masani and other friends. The third rendered page is an inland-letter envelope addressed to Raju and contains no additional substantive correspondence.
+
 ## Key points
 
 - The exchange consists of a 18 March 1985 letter from S. V. Raju and a 4 March 1985 reply from V. S. Srikumar.

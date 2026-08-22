@@ -53,6 +53,12 @@ summary: |-
   The report says that Justice S. A. Masud issued a rule nisi calling on the Government to show cause why the circulars should not be quashed and why the Government should not be restrained from interfering with the newspaper’s advertising revenue. The Government defended the restrictions as administrative action based on circulation, readership, and advertising policy, while the petitioner maintained that the action violated constitutional guarantees and amounted to indirect censorship. The article also records an earlier instance involving a passport and travel permission, presented as part of the broader dispute over official pressure on the newspaper. The same page contains unrelated reports on Pakistan’s election commission, the lifting of press censorship in Sri Lanka, and other news items.
 ---
 
+## Summary
+
+This newspaper report describes proceedings before the Calcutta High Court arising from government advertising restrictions against The Statesman and its associated publications. The Union Government’s Directorate of Audio Visual Publicity (DAVP) had issued circulars and notices requiring government departments and public-sector bodies to stop or substantially reduce advertising in The Statesman, The Indian Express, and related publications. The petitioner argued that the measures were punitive, arbitrary, and intended to cripple the newspaper financially because of its independent criticism of the Government.
+
+The report says that Justice S. A. Masud issued a rule nisi calling on the Government to show cause why the circulars should not be quashed and why the Government should not be restrained from interfering with the newspaper’s advertising revenue. The Government defended the restrictions as administrative action based on circulation, readership, and advertising policy, while the petitioner maintained that the action violated constitutional guarantees and amounted to indirect censorship. The article also records an earlier instance involving a passport and travel permission, presented as part of the broader dispute over official pressure on the newspaper. The same page contains unrelated reports on Pakistan’s election commission, the lifting of press censorship in Sri Lanka, and other news items.
+
 ## Key points
 
 - The case concerns government restrictions on official advertising placed with The Statesman and associated publications.

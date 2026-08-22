@@ -47,6 +47,10 @@ summary: |-
   In this one-page letter dated 10 January 1975, S. V. Raju replies to K. Sundaram about proposed political contacts in Uttar Pradesh. Raju says he knows Vijay Pal Singh Saxena and R. S. Bharati but has not heard of C. Sekar; he also recommends Hari Kumar Pathak and J. C. G. Tiwari. He cautions that separate visits could repeat earlier mistakes and suggests that Harihar Patel be authorised to meet the group at a single location, preferably outside Lucknow.
 ---
 
+## Summary
+
+In this one-page letter dated 10 January 1975, S. V. Raju replies to K. Sundaram about proposed political contacts in Uttar Pradesh. Raju says he knows Vijay Pal Singh Saxena and R. S. Bharati but has not heard of C. Sekar; he also recommends Hari Kumar Pathak and J. C. G. Tiwari. He cautions that separate visits could repeat earlier mistakes and suggests that Harihar Patel be authorised to meet the group at a single location, preferably outside Lucknow.
+
 ## Key points
 
 - Raju responds to Sundaram's letter of 1 January 1975 and the attached correspondence from several Uttar Pradesh contacts.

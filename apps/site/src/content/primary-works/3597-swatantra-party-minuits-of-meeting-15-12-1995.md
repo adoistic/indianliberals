@@ -54,6 +54,12 @@ summary: |-
   The substantive discussion concerned legal proceedings involving the party, including cases against Courier Publications and RatanSinh Rajda, and a writ petition before the Bombay High Court challenging section 29(A) of the Representation of the People Act. Raut reported on the status of the cases and efforts to expedite them. Raju also urged the party to maintain more frequent contact with the public through press conferences, newsletters, newspapers, periodicals, and group meetings. The meeting ended with a vote of thanks to the chair.
 ---
 
+## Summary
+
+These minutes record a special meeting of the Executive Committee of the Swatantra Party Maharashtra held on 15 December 1995 at the party office at 143, Mahatma Gandhi Road, Bombay. K. H. Subramanian was chosen to chair the meeting; attendance included S. V. Raju, L. R. Sampat, P. N. Subramanian, S. Ramachandran, and legal adviser Nitin G. Raut. Leave was granted to J. Venkiteswaran and S. L. Popat.
+
+The substantive discussion concerned legal proceedings involving the party, including cases against Courier Publications and RatanSinh Rajda, and a writ petition before the Bombay High Court challenging section 29(A) of the Representation of the People Act. Raut reported on the status of the cases and efforts to expedite them. Raju also urged the party to maintain more frequent contact with the public through press conferences, newsletters, newspapers, periodicals, and group meetings. The meeting ended with a vote of thanks to the chair.
+
 ## Key points
 
 - A special Executive Committee meeting of the Swatantra Party Maharashtra was held on 15 December 1995 in Bombay.

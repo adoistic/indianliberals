@@ -45,6 +45,10 @@ summary: |-
   The rendered pages comprise untitled English-language office financial records of the Indian Committee for Cultural Freedom in Bombay, dated 1969. The records document recurring payments to Tata Sons Private Limited for office space in the third-floor middle portion of the Army & Navy Building at 148 Mahatma Gandhi Road, Bombay 1. Rent was consistently recorded at Rs. 216.85 per month, with receipts and corresponding debit vouchers visible for January through September 1969, and a voucher referring to July 1969.
 ---
 
+## Summary
+
+The rendered pages comprise untitled English-language office financial records of the Indian Committee for Cultural Freedom in Bombay, dated 1969. The records document recurring payments to Tata Sons Private Limited for office space in the third-floor middle portion of the Army & Navy Building at 148 Mahatma Gandhi Road, Bombay 1. Rent was consistently recorded at Rs. 216.85 per month, with receipts and corresponding debit vouchers visible for January through September 1969, and a voucher referring to July 1969.
+
 ## Key points
 
 - The records are issued on the letterhead of the Indian Committee for Cultural Freedom.

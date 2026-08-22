@@ -55,6 +55,12 @@ summary: |-
   The enclosure proposes inserting Articles 1A–1F. It asserts the Union's supremacy over security, sovereignty, unity, integrity, and authority; declares India's sovereignty and territory inviolable; criminalises expressions or actions endangering these principles; prescribes severe penalties, including life imprisonment, death, confiscation of property, and forfeiture of citizenship; grants the President emergency legislative authority; and provides for special tribunals composed of High Court judges. The file also includes a reply from A. D. Pande, Private Secretary to the Minister for Home Affairs, and a covering letter from M. M. Raj Munshi dated April 11, 1956. The latter links the proposal to disturbances in Bombay, perceived inadequacy of preventive powers, apprehensions concerning Pakistan, and an emergency warned of by Prime Minister Jawaharlal Nehru.
 ---
 
+## Summary
+
+This four-page English correspondence concerns a proposed constitutional provision on “High Treason” and internal security. The primary letter, written on the letterhead of Sir Ram Rai Mohan Rai Munshi, refers to proposed legislation for restraining and penalising activities said to threaten India's sovereignty and territorial integrity. The sender states that he had suggested provisions on high treason to Shri Govind Vallabh Pant in 1956 and asks that the attached draft be considered as a rough framework for incorporation into the Constitution Act, subject to revision by Law Ministry experts.
+
+The enclosure proposes inserting Articles 1A–1F. It asserts the Union's supremacy over security, sovereignty, unity, integrity, and authority; declares India's sovereignty and territory inviolable; criminalises expressions or actions endangering these principles; prescribes severe penalties, including life imprisonment, death, confiscation of property, and forfeiture of citizenship; grants the President emergency legislative authority; and provides for special tribunals composed of High Court judges. The file also includes a reply from A. D. Pande, Private Secretary to the Minister for Home Affairs, and a covering letter from M. M. Raj Munshi dated April 11, 1956. The latter links the proposal to disturbances in Bombay, perceived inadequacy of preventive powers, apprehensions concerning Pakistan, and an emergency warned of by Prime Minister Jawaharlal Nehru.
+
 ## Key points
 
 - The correspondence advocates a constitutional law addressing high treason and internal security.

@@ -54,6 +54,14 @@ summary: |-
   The closing pages defend Jayaprakash's withdrawal from conventional party politics and interpret his movement from Marxism toward Gandhi as a slow but deeply considered intellectual and moral transformation. Masani argues that Jayaprakash's importance lies less in whether he would become prime minister than in his commitment to constructive activity, the common good, and human freedom.
 ---
 
+## Summary
+
+In this four-page retrospective, Minoo Masani recounts his thirty-year association with Jayaprakash Narayan, beginning with their first meeting in Bombay in 1932 and their imprisonment together at Nasik in 1933. Masani describes how they collaborated in drafting the programme of the Congress Socialist Party, while disagreeing over democracy versus the dictatorship of the proletariat. The party was formed in 1934, but their differences over cooperation with the Communist Party eventually led Masani and others to resign in 1939.
+
+Masani presents Jayaprakash as personally generous and politically principled, stressing that their friendship survived major disagreements. He recalls Jayaprakash's imprisonment, his refusal in 1947 to accept that independence had truly arrived, and his later advocacy of electoral understanding between democratic opposition parties and the Communist Party. The essay also describes their subsequent cooperation in anti-partition and anti-colonial organisations, including protests against Hungary's suppression and China's invasion of Tibet.
+
+The closing pages defend Jayaprakash's withdrawal from conventional party politics and interpret his movement from Marxism toward Gandhi as a slow but deeply considered intellectual and moral transformation. Masani argues that Jayaprakash's importance lies less in whether he would become prime minister than in his commitment to constructive activity, the common good, and human freedom.
+
 ## Key points
 
 - Masani first met Jayaprakash Narayan in Bombay in 1932 while both were involved in underground Congress activity.

@@ -50,6 +50,14 @@ summary: |-
   The letter is administrative rather than argumentative, but it is a small artefact of the pre-Emergency correspondence around the JP movement: it is dated barely a month before the Emergency was declared on 25 June 1975, and captures the difficulty even sympathetic figures like Masani and Raju had in reaching Narayan through official channels in the final weeks of that movement's open phase.
 ---
 
+## Summary
+
+A one-page secretarial letter dated 23 May 1975, written by S. V. Raju from 148 Mahatma Gandhi Road, Bombay, to Mr Shahajanand Singh of P.O. Bahpura, District Patna, Bihar. Raju writes on behalf of Minoo Masani to acknowledge Singh's two earlier notes of 25 March and 28 April 1975, in which Singh had raised his participation in JP's movement and complained that Masani's Secretaries were obstructing his access to Masani.
+
+Raju advises that the practical course is for Masani to raise the matter directly with Jayaprakash Narayan whenever the two next meet in person, since JP is 'constantly on the move' and written approaches to him are unreliable. On a second matter — 'the boys' Singh has mentioned in his correspondence — Raju asks Singh to have them send their biographical particulars in English so that Masani can examine the file and see whether he can be of help.
+
+The letter is administrative rather than argumentative, but it is a small artefact of the pre-Emergency correspondence around the JP movement: it is dated barely a month before the Emergency was declared on 25 June 1975, and captures the difficulty even sympathetic figures like Masani and Raju had in reaching Narayan through official channels in the final weeks of that movement's open phase.
+
 ## Key points
 
 - Single-page letter dated 23 May 1975, from 148 Mahatma Gandhi Road, Bombay 23, signed by S. V. Raju.

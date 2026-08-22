@@ -50,6 +50,12 @@ summary: |-
   The telegram also asks Raju to send material for a proposed consumer-guidance society in Delhi and a transcript of the sender’s speech to a Bombay regional convention. The document therefore links party-political mobilisation with criticism of railway policy and an effort to organise consumer advocacy. The sender’s full identity is not printed, and the address line is partly unclear.
 ---
 
+## Summary
+
+This one-page English telegram, sent by “MASANI” to S. V. Raju in February 1970, urges the recipient to issue a circular to state-level units. Its immediate political purpose is to call a public meeting condemning the railway budget and demanding its rejection, indicating opposition to an expanded or burdensome public-sector agenda.
+
+The telegram also asks Raju to send material for a proposed consumer-guidance society in Delhi and a transcript of the sender’s speech to a Bombay regional convention. The document therefore links party-political mobilisation with criticism of railway policy and an effort to organise consumer advocacy. The sender’s full identity is not printed, and the address line is partly unclear.
+
 ## Key points
 
 - The document is a one-page Indian Posts and Telegraphs Department telegram dated 24 February 1970 and received on 27 February 1970.

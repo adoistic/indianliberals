@@ -55,6 +55,10 @@ summary: |-
   This English-language institutional record contains the draft minutes of the Maharashtra State Council of the Swatantra Party, held in Bombay on 6 July 1974, together with copies of an adopted resolution and a proposed resolution for the Party’s Seventh National Convention. The minutes record attendance, confirmation of the previous meeting’s minutes, discussion of the proposal to dissolve the Swatantra Party, and arrangements for delegates to attend the forthcoming convention in Delhi.
 ---
 
+## Summary
+
+This English-language institutional record contains the draft minutes of the Maharashtra State Council of the Swatantra Party, held in Bombay on 6 July 1974, together with copies of an adopted resolution and a proposed resolution for the Party’s Seventh National Convention. The minutes record attendance, confirmation of the previous meeting’s minutes, discussion of the proposal to dissolve the Swatantra Party, and arrangements for delegates to attend the forthcoming convention in Delhi.
+
 ## Key points
 
 - The Maharashtra State Council met at the Swatantra Party office in Bombay on 6 July 1974, with Madhu Mehta in the chair and Piloo Mody attending as a special invitee.

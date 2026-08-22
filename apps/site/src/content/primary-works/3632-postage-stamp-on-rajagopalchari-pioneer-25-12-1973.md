@@ -49,6 +49,12 @@ summary: |-
   The notice states that the stamp would be sold through three philatelic bureaux in Lucknow, Kanpur, and Allahabad, as well as head post offices and selected sub-offices in Uttar Pradesh. First-day covers and publicity folders were also to be available, with special first-day cancellation provided at the philatelic bureaux. The clipping is mounted on an International Clipping Service sheet and carries a client identification for the Swatantra Party; no article byline is visible.
 ---
 
+## Summary
+
+This one-page English newspaper clipping from Pioneer Lucknow reports the planned issue of a special 20-paise postage stamp commemorating C. Rajagopalachari. The stamp was scheduled for Tuesday, 25 December 1973, marking the first death anniversary of Rajagopalachari, who died in 1972.
+
+The notice states that the stamp would be sold through three philatelic bureaux in Lucknow, Kanpur, and Allahabad, as well as head post offices and selected sub-offices in Uttar Pradesh. First-day covers and publicity folders were also to be available, with special first-day cancellation provided at the philatelic bureaux. The clipping is mounted on an International Clipping Service sheet and carries a client identification for the Swatantra Party; no article byline is visible.
+
 ## Key points
 
 - The clipping announces a special 20-paise postage stamp commemorating C. Rajagopalachari.

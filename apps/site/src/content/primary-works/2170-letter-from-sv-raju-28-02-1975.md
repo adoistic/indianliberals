@@ -52,6 +52,12 @@ summary: |-
   The note states that the Institute sold the jeep in October 1972 to S. L. Popat, identified as treasurer of the Swatantra Party's Matunga Unit, for Rs. 2,000. Although the jeep was not formally transferred to the Matunga Unit, Raju argues that it was morally the property of Popat in his party capacity. The note adds that the Rs. 2,000 payment had been donated by N. Dandekar to the Matunga Unit for work carried out during the preceding Assembly elections.
 ---
 
+## Summary
+
+This one-page administrative note, dated 28 February 1975 and signed by S. V. Raju, records the ownership and disposition of Jeep No. MRW 3265. The Adult Education Institute purchased the vehicle from the Swatantra Party's national headquarters in February 1971 for Rs. 3,000, but formal transfer was not completed because the vehicle's registration book had been misplaced and remained untraced.
+
+The note states that the Institute sold the jeep in October 1972 to S. L. Popat, identified as treasurer of the Swatantra Party's Matunga Unit, for Rs. 2,000. Although the jeep was not formally transferred to the Matunga Unit, Raju argues that it was morally the property of Popat in his party capacity. The note adds that the Rs. 2,000 payment had been donated by N. Dandekar to the Matunga Unit for work carried out during the preceding Assembly elections.
+
 ## Key points
 
 - The note is dated 28 February 1975 and is signed by S. V. Raju as Honorary Secretary.

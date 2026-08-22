@@ -51,6 +51,12 @@ summary: |-
   The letter is addressed to M.R. Masani in his capacity as General Secretary of the Swatantra Party. A handwritten annotation beside the final substantive paragraph reads “he severely objects,” apparently recording or emphasizing the objection discussed in the typed text. The document does not identify what “TWA” denotes.
 ---
 
+## Summary
+
+In this letter dated 22 May 1964, C. Rajagopalachari writes to Minoo Masani agreeing to Masani’s proposal to shift TWA to 1 July. He reports that Munshi has reacted angrily and stubbornly to the proposal, and suggests that the reasons for holding the Prime Minister and his party largely responsible for the current state of affairs should be expanded and clarified.
+
+The letter is addressed to M.R. Masani in his capacity as General Secretary of the Swatantra Party. A handwritten annotation beside the final substantive paragraph reads “he severely objects,” apparently recording or emphasizing the objection discussed in the typed text. The document does not identify what “TWA” denotes.
+
 ## Key points
 
 - Rajagopalachari agrees to Masani’s proposal to shift TWA to 1 July.

@@ -47,6 +47,12 @@ summary: |-
   Singh's diagnosis is temperamental rather than organisational: "What India lacks is not political parties, but men of character." Having stated his reservation, he closes without hostility — he does not wish to discourage those attempting the revival and offers them his best wishes. The letter is signed off with a copy marked for M. R. Masani at the Forum of Free Enterprise's Bombay office, situating the exchange within the surviving Swatantra correspondence network of the early 1980s.
 ---
 
+## Summary
+
+This one-page typed letter, dated 23 September 1981, is Bhanu Pratap Singh's reply to S. Krishnan of Madras, who had written to convene a preparatory meeting for reviving the Swatantra Party. Writing on his Member of Parliament (Rajya Sabha) letterhead from 14, Teen Murti Lane, New Delhi, Singh acknowledges the sentiment behind the revival effort but declines to endorse it. He grants that ex-Swatantrites feel real "agony" at what he describes as the degeneration of Indian political life, yet questions whether adding one more party to an already crowded field would improve matters.
+
+Singh's diagnosis is temperamental rather than organisational: "What India lacks is not political parties, but men of character." Having stated his reservation, he closes without hostility — he does not wish to discourage those attempting the revival and offers them his best wishes. The letter is signed off with a copy marked for M. R. Masani at the Forum of Free Enterprise's Bombay office, situating the exchange within the surviving Swatantra correspondence network of the early 1980s.
+
 ## Key points
 
 - Written on Rajya Sabha MP letterhead from 14, Teen Murti Lane, New Delhi, dated 23 September 1981.

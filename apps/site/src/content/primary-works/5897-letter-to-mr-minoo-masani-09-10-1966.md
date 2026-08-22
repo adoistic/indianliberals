@@ -44,6 +44,12 @@ summary: |-
   The letter is signed by both Menon and Syed. The rendered page contains correspondence about the preparation and authorization of the interview transcript, but does not include the interview itself or any substantive discussion of the political arguments suggested by the title “India: The Choice.”
 ---
 
+## Summary
+
+This one-page English letter, dated October 9, 1966, is addressed to M. R. Masani in New Delhi and concerns the transcript of an interview given by Masani on October 5. Ravindranath Menon and Ayub Syed state that preliminary editing has been completed and ask Masani to review the transcript and provide his authorized version before leaving Delhi.
+
+The letter is signed by both Menon and Syed. The rendered page contains correspondence about the preparation and authorization of the interview transcript, but does not include the interview itself or any substantive discussion of the political arguments suggested by the title “India: The Choice.”
+
 ## Key points
 
 - The document is a letter dated October 9, 1966.

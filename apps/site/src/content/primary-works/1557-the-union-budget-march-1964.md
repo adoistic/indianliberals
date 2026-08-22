@@ -64,3 +64,9 @@ summary: |-
   
   The issue also reproduces correspondence between M. R. Masani and Prime Minister Lal Bahadur Shastri concerning an assurance to Ceylon's Prime Minister Sirimavo Bandaranaike about Indian troop movements along the McMahon Line. Annexure C prints parliamentary speeches on communal disturbances in East Pakistan, refugees and rehabilitation, the President's Address, termination of the Emergency, the Railway Budget, ministerial asset disclosure, corruption, and constitutional safeguards. Across these materials, the newsletter combines economic liberalism with demands for parliamentary accountability, civil liberties, judicial oversight, and a more assertive foreign policy.
 ---
+
+## Summary
+
+The March 1964 issue of Swatantra Newsletter (No. 42), issued by the Central Office of the Swatantra Party in Bombay, presents the party's criticisms of the Union Budget, economic planning, foreign policy, emergency powers, corruption, and parliamentary administration. Its reports and reproduced speeches argue that Congress-led planning has weakened production, burdened taxpayers, restricted private enterprise, and neglected cultivators, while its foreign-policy commentary attacks perceived failures toward China, Pakistan, Kashmir, and neighbouring Asian and African states.
+
+The issue also reproduces correspondence between M. R. Masani and Prime Minister Lal Bahadur Shastri concerning an assurance to Ceylon's Prime Minister Sirimavo Bandaranaike about Indian troop movements along the McMahon Line. Annexure C prints parliamentary speeches on communal disturbances in East Pakistan, refugees and rehabilitation, the President's Address, termination of the Emergency, the Railway Budget, ministerial asset disclosure, corruption, and constitutional safeguards. Across these materials, the newsletter combines economic liberalism with demands for parliamentary accountability, civil liberties, judicial oversight, and a more assertive foreign policy.

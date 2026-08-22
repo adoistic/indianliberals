@@ -58,6 +58,12 @@ summary: |-
   The note also records an informal discussion of the forthcoming election of the President of the Republic. The Prime Minister’s view that the election should be treated as a national rather than a party question was welcomed; the proposed approach was that no party should nominate a candidate and that voting should be free of party whips. The three parties invited the Congress and other opposition parties to join this approach, while stating that possible candidates had not been considered.
 ---
 
+## Summary
+
+This one-page press note, dated 27 May 1969 and signed by M. R. Masani, reports exploratory talks among spokespeople of the Swatantra Party, the Jan Sangh, and the B.K.D. about forming a new party of a “National Democratic” character. The discussions were intended to identify areas of agreement and narrow disagreements before the participants consulted their respective colleagues. Issues discussed included the division of powers between the states and the Centre, attitudes toward communism, defence and nuclear armaments, foreign relations including Pakistan, Kashmir, Nagaland and border areas, minorities, and the language question.
+
+The note also records an informal discussion of the forthcoming election of the President of the Republic. The Prime Minister’s view that the election should be treated as a national rather than a party question was welcomed; the proposed approach was that no party should nominate a candidate and that voting should be free of party whips. The three parties invited the Congress and other opposition parties to join this approach, while stating that possible candidates had not been considered.
+
 ## Key points
 
 - Spokespeople of the Swatantra Party, Jan Sangh, and B.K.D. held two days of exploratory talks.

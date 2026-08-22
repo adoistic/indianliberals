@@ -49,6 +49,12 @@ summary: |-
   Raju asks Padbidri to incorporate the corrections into the Marathi translation before it appears in Loksatta. The page records an editorial and translation-related exchange rather than the substance of the article itself; the article’s argument is not included in the rendered letter.
 ---
 
+## Summary
+
+In this letter dated July 23, 1963, S. V. Raju writes to Ashok Padbidri of Loksatta about a revised article titled “The Role of the Opposition Party in India.” Raju explains that Minoo Masani has made several corrections and encloses a corrected copy of the article.
+
+Raju asks Padbidri to incorporate the corrections into the Marathi translation before it appears in Loksatta. The page records an editorial and translation-related exchange rather than the substance of the article itself; the article’s argument is not included in the rendered letter.
+
 ## Key points
 
 - The letter was written by S. V. Raju on July 23, 1963.

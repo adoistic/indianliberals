@@ -48,6 +48,10 @@ summary: |-
   This one-page letter, dated March 29, 1968, records Minoo Masani’s resignation from the National Executive and Central Parliamentary Board of the Swatantra Party. Masani explains that the party had supported the Independent Progressive Group in Gujarat in 1966, in exchange for a promise that Babubhai Vaidya would become the party’s candidate for the Rajya Sabha in 1968. He states that the Gujarat party leadership and the Central Parliamentary Board later honoured this arrangement, but that more than twenty legislators broke the party’s commitment by joining hands with the Congress Party to defeat Vaidya.
 ---
 
+## Summary
+
+This one-page letter, dated March 29, 1968, records Minoo Masani’s resignation from the National Executive and Central Parliamentary Board of the Swatantra Party. Masani explains that the party had supported the Independent Progressive Group in Gujarat in 1966, in exchange for a promise that Babubhai Vaidya would become the party’s candidate for the Rajya Sabha in 1968. He states that the Gujarat party leadership and the Central Parliamentary Board later honoured this arrangement, but that more than twenty legislators broke the party’s commitment by joining hands with the Congress Party to defeat Vaidya.
+
 ## Key points
 
 - Masani resigns from the Swatantra Party’s National Executive and Central Parliamentary Board.

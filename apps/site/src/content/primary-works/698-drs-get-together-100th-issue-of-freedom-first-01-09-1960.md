@@ -57,6 +57,12 @@ summary: |-
   The handwritten pages outline further discussion topics and possible speakers or references. These include neglect and injustice, planning and the relative importance of steel and fertiliser, agriculture as an Indian foundation, and the aim of drawing lessons from India and China. Later notes turn to state monopolies, big business, co-operation, bureaucratic management, famine, insecurity, Soviet growth, and the relationship between political freedom and economic policy. They also propose discussion of farmers’ losses, taxation, social justice, and the possibility of changing the structure of the DRS. The pages are planning notes rather than a finished speech or the periodical issue itself.
 ---
 
+## Summary
+
+These pages are internal planning notes for a DRS get-together marking the 100th issue of Freedom First, dated 1 September 1960. The opening typescript frames the event around the question “Why Freedom First?” and presents liberty as the supreme good, grounded in the tentative character of human understanding. It identifies several challenges for discussion: the supposed opposition between bread and freedom, the relationship between peace and liberty, and attacks on the Democratic Research Service (DRS), including accusations that it served fascism or foreign imperialism.
+
+The handwritten pages outline further discussion topics and possible speakers or references. These include neglect and injustice, planning and the relative importance of steel and fertiliser, agriculture as an Indian foundation, and the aim of drawing lessons from India and China. Later notes turn to state monopolies, big business, co-operation, bureaucratic management, famine, insecurity, Soviet growth, and the relationship between political freedom and economic policy. They also propose discussion of farmers’ losses, taxation, social justice, and the possibility of changing the structure of the DRS. The pages are planning notes rather than a finished speech or the periodical issue itself.
+
 ## Key points
 
 - The document plans a DRS gathering for the 100th issue of Freedom First on 1 September 1960.

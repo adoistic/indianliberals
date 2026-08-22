@@ -48,6 +48,12 @@ summary: |-
   Many entries include parent companies, managing agents, associates, or affiliated enterprises, revealing the interconnected structure of Bombay’s business groups. Handwritten annotations add, revise, strike out, or regroup several firms, including notes identifying industrial groups and associated companies. The rendered pages do not identify the compiler, issuing organisation, publisher, or date, and the document offers listings rather than narrative analysis.
 ---
 
+## Summary
+
+List of Business Houses & Industries in Bombay City is an undated, unattributed directory of commercial and industrial establishments operating in Bombay. The printed list runs from Alcock Ashdown & Co. Ltd. through Yorkshire Insurance Co. Ltd. and contains 227 numbered entries, although some numbering is corrected or altered by hand. The entries span banking, insurance, textiles, chemicals, engineering, automobiles, petroleum, pharmaceuticals, food production, trading, utilities, and other sectors.
+
+Many entries include parent companies, managing agents, associates, or affiliated enterprises, revealing the interconnected structure of Bombay’s business groups. Handwritten annotations add, revise, strike out, or regroup several firms, including notes identifying industrial groups and associated companies. The rendered pages do not identify the compiler, issuing organisation, publisher, or date, and the document offers listings rather than narrative analysis.
+
 ## Key points
 
 - The document is a directory titled List of Business Houses & Industries in Bombay City.

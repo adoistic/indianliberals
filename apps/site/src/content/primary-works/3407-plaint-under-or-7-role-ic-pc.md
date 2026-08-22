@@ -53,6 +53,12 @@ summary: |-
   The plaint argues that the party’s 1959 statement of principles and its amended 1973 constitution remain binding, and that neither the National Executive nor a party convention may abandon the objectives and ideals on which the organisation was founded. It characterises the proposed dissolution as contrary to the party constitution, damaging to democratic pluralism and public welfare, and beyond the defendants’ authority. The requested relief includes declarations that the proposed action and convention are illegal and an injunction preventing the defendants from proceeding with dissolution. The document invokes the party’s commitments to social justice, equality of opportunity, individual initiative, and democratic principles, and identifies C. Rajagopalachari as the party’s founder and a prominent statesman.
 ---
 
+## Summary
+
+This legal plaint, filed in the City Civil Court, Madras, in July 1974, challenges efforts by senior office-bearers of the Swatantra Party to dissolve the party through a proposed convention in New Delhi. The plaintiffs identify themselves as party members and office-bearers of the Tamil Nadu unit, and bring the suit representatively on behalf of members who wish to preserve the party’s integrity, solidarity, and continued existence. The defendants include Piloo Mody, then president of the Swatantra Party, Madhu Mehta, and Dr. M. Santhosham.
+
+The plaint argues that the party’s 1959 statement of principles and its amended 1973 constitution remain binding, and that neither the National Executive nor a party convention may abandon the objectives and ideals on which the organisation was founded. It characterises the proposed dissolution as contrary to the party constitution, damaging to democratic pluralism and public welfare, and beyond the defendants’ authority. The requested relief includes declarations that the proposed action and convention are illegal and an injunction preventing the defendants from proceeding with dissolution. The document invokes the party’s commitments to social justice, equality of opportunity, individual initiative, and democratic principles, and identifies C. Rajagopalachari as the party’s founder and a prominent statesman.
+
 ## Key points
 
 - The plaint was filed in the City Civil Court, Madras, in I.A. in O.S. No. 5526/1974 under Order VII Rule I of the Code of Civil Procedure.

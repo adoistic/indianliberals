@@ -51,6 +51,12 @@ summary: |-
   The draft identifies a gap between the Party's clear positions on fundamental national questions and its silence on international issues. This silence, it argues, has weakened the work of party members and organizers, dissipated public support, and created the appearance of a “split personality.” The author asks the Party's National Executive to address the problem promptly because it affects organizational work, particularly in urban areas where political consciousness among the party's middle-class base is highly developed. The document is signed “S.R. Mohan Das.”
 ---
 
+## Summary
+
+This two-page draft for private discussion argues that the Swatantra Party must formulate a clear position on international questions. It attributes the growing importance of foreign policy to Chinese incursions into Indian territory and worsening relations with Communist China, noting that public opinion and party members increasingly demand guidance on Panchsheel, Pakistan, Southeast Asia, the Himalayan kingdoms, Western countries, and African states.
+
+The draft identifies a gap between the Party's clear positions on fundamental national questions and its silence on international issues. This silence, it argues, has weakened the work of party members and organizers, dissipated public support, and created the appearance of a “split personality.” The author asks the Party's National Executive to address the problem promptly because it affects organizational work, particularly in urban areas where political consciousness among the party's middle-class base is highly developed. The document is signed “S.R. Mohan Das.”
+
 ## Key points
 
 - The Swatantra Party's ideology and functioning are said to have been shaped primarily by national questions, leaving international questions insufficiently formulated.

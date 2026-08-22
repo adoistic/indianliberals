@@ -47,6 +47,12 @@ summary: |-
   The letter also refers to the party's fifteen-year tenancy of the premises and its regular payment of rent. It asks the landlord to accept correspondence concerning the tenancy only from the Maharashtra unit's Acting President, P. P. Mahamand, or from Munshi as General Secretary, and adds that no compensation should be accepted from anyone other than the Swatantra Party Maharashtra. The page contains no printed title or publisher information.
 ---
 
+## Summary
+
+This undated-title office letter, dated 20 August 1974 and written from Bombay, is addressed to Sassoon J. David and Company Limited by Girish K. Munshi, identified as General Secretary of the Swatantra Party Maharashtra. Munshi informs the addressee that, despite any decision by the Swatantra Party at the Centre to dissolve itself or merge with another party, the Maharashtra unit has resolved to continue to exist and operate as the Swatantra Party, Maharashtra.
+
+The letter also refers to the party's fifteen-year tenancy of the premises and its regular payment of rent. It asks the landlord to accept correspondence concerning the tenancy only from the Maharashtra unit's Acting President, P. P. Mahamand, or from Munshi as General Secretary, and adds that no compensation should be accepted from anyone other than the Swatantra Party Maharashtra. The page contains no printed title or publisher information.
+
 ## Key points
 
 - The letter is dated 20 August 1974 and addressed to Sassoon J. David and Company Limited in Bombay.

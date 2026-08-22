@@ -51,6 +51,12 @@ summary: |-
   Under the heading “Plan of Masani,” the letter describes a proposed strategy of not opposing Congress candidates in by-elections and, where necessary, supporting them. Patel says this proposal was put before Ranga and Dandekar, who objected, and concludes by asking Masani for his comments. The document records an internal party dispute and competing interpretations of Masani’s political intentions; it does not establish whether the press report or the allegations were accurate.
 ---
 
+## Summary
+
+This two-page letter, written by Ratibhai Patel from the Swatantra Party Rajkot District Office to Minoo Masani on 30 April 1968, reports on a press clipping from Jansatta concerning an alleged secret meeting between C. Rajagopalachari (“Rajaji”) and Masani. Patel says the report has created a stir among Swatantra Party MPs in Delhi and alleges that Masani is seeking a rapprochement with the Congress Party, partly in response to continuing internal difficulties.
+
+Under the heading “Plan of Masani,” the letter describes a proposed strategy of not opposing Congress candidates in by-elections and, where necessary, supporting them. Patel says this proposal was put before Ranga and Dandekar, who objected, and concludes by asking Masani for his comments. The document records an internal party dispute and competing interpretations of Masani’s political intentions; it does not establish whether the press report or the allegations were accurate.
+
 ## Key points
 
 - The letter is dated 30 April 1968 and is issued on Swatantra Party Rajkot District Office letterhead.

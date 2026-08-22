@@ -47,6 +47,10 @@ summary: |-
   This one-page English telegram, sent through the Indian Posts and Telegraphs Department, is addressed to Masani at 40 Canning Lane, New Delhi. The message concerns the Mangalore District Conference and asks the recipient to inaugurate it, with an appeal to teamwork. The sender is not legible on the rendered page, and no reliable transmission or publication date can be established.
 ---
 
+## Summary
+
+This one-page English telegram, sent through the Indian Posts and Telegraphs Department, is addressed to Masani at 40 Canning Lane, New Delhi. The message concerns the Mangalore District Conference and asks the recipient to inaugurate it, with an appeal to teamwork. The sender is not legible on the rendered page, and no reliable transmission or publication date can be established.
+
 ## Key points
 
 - The document is a single-page telegram on an Indian Posts and Telegraphs Department form.

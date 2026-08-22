@@ -54,6 +54,12 @@ summary: |-
   The pamphlet then outlines the formation and functioning of Primary Units and District Units, including minimum membership requirements, committee formation, nomination, elections, and working committees. It also describes the Party’s election cycle and arrangements for members in areas where local units cannot yet be organised, including “Special Primary Constituencies” and “Special District Constituencies.” The introduction presents the series as an attempt to supply organisational know-how to party workers and life workers, in response to the claim that the Swatantra Party is ideologically strong but organisationally weak.
 ---
 
+## Summary
+
+This January 1969 Swatantra Party pamphlet introduces the Swatantra Organisation Series and provides a practical guide to the Party’s organisational structure. The visible sections explain the Party’s two membership categories—Workers/Life Workers and Ordinary Members—along with eligibility, fees, enrolment forms, approval procedures, registers, membership cards, renewals, and the allocation of subscription revenue among primary, district, state or regional, and central units.
+
+The pamphlet then outlines the formation and functioning of Primary Units and District Units, including minimum membership requirements, committee formation, nomination, elections, and working committees. It also describes the Party’s election cycle and arrangements for members in areas where local units cannot yet be organised, including “Special Primary Constituencies” and “Special District Constituencies.” The introduction presents the series as an attempt to supply organisational know-how to party workers and life workers, in response to the claim that the Swatantra Party is ideologically strong but organisationally weak.
+
 ## Key points
 
 - The pamphlet launches the Swatantra Organisation Series as a training resource for Party Workers and Life Workers.

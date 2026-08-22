@@ -46,6 +46,12 @@ summary: |-
   Masani says he will examine the possibilities after returning to India around January 23 and asks Bajoria to send further information about the seminar by then. The letter is a brief piece of logistical correspondence concerning Masani's potential participation in the seminar.
 ---
 
+## Summary
+
+In this one-page letter dated January 7, 1970, M. R. Masani replies to Mr. S. N. Bajoria from New Delhi. Masani explains that he is about to leave the country for a fortnight and therefore cannot yet confirm whether he can attend Bajoria's event in Berhampore (Murshidabad) on February 21 and 22.
+
+Masani says he will examine the possibilities after returning to India around January 23 and asks Bajoria to send further information about the seminar by then. The letter is a brief piece of logistical correspondence concerning Masani's potential participation in the seminar.
+
 ## Key points
 
 - The letter is dated January 7, 1970, and was sent from New Delhi.

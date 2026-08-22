@@ -50,6 +50,12 @@ summary: |-
   A second report from Indore records Jana Sangh treasurer Ranjit Deshmukh ruling out a merger with the Swatantra Party. Deshmukh attributed the impossibility of a merger to basic ideological and programme differences: the Jana Sangh supported a controlled economy, while the Swatantra Party advocated free enterprise. The clipping therefore links the Jana Sangh’s internal leadership dispute with the wider difficulty of forming an alliance between two opposition parties with different economic positions.
 ---
 
+## Summary
+
+This single-page Times of India News Service clipping, dated September 10, 1969, reports a developing crisis within the Jana Sangh. A special meeting of the party’s Central Parliamentary Board was scheduled for September 17 to discuss statements by Balraj Madhok attacking the party leadership. The report presents the dispute as reflecting sharp differences between Atal Bihari Vajpayee and Madhok, including disagreement over Madhok’s account of a recent Jana Sangh working-committee meeting and his challenge in the Supreme Court to the Bank Nationalisation Ordinance.
+
+A second report from Indore records Jana Sangh treasurer Ranjit Deshmukh ruling out a merger with the Swatantra Party. Deshmukh attributed the impossibility of a merger to basic ideological and programme differences: the Jana Sangh supported a controlled economy, while the Swatantra Party advocated free enterprise. The clipping therefore links the Jana Sangh’s internal leadership dispute with the wider difficulty of forming an alliance between two opposition parties with different economic positions.
+
 ## Key points
 
 - A special Central Parliamentary Board meeting of the Jana Sangh was called for September 17.

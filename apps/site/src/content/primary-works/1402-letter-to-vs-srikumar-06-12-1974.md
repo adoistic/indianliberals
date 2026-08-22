@@ -51,6 +51,10 @@ summary: |-
   In this letter dated December 6, 1974, S. V. Raju writes to V. S. Srikumar about preparations for an upcoming Swatantra Party General Council meeting. He reports which Maharashtra representatives are expected, explains why he cannot attend, and argues that the party should pursue its election-symbol claim state by state. He proposes relying on Maharashtra's electoral precedent while presenting the Delhi National Convention as constitutionally invalid, thereby preserving the party's national existence.
 ---
 
+## Summary
+
+In this letter dated December 6, 1974, S. V. Raju writes to V. S. Srikumar about preparations for an upcoming Swatantra Party General Council meeting. He reports which Maharashtra representatives are expected, explains why he cannot attend, and argues that the party should pursue its election-symbol claim state by state. He proposes relying on Maharashtra's electoral precedent while presenting the Delhi National Convention as constitutionally invalid, thereby preserving the party's national existence.
+
 ## Key points
 
 - Raju coordinates attendance and arrangements for the Swatantra Party General Council meeting.

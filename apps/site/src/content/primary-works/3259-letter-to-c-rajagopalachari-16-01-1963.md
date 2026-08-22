@@ -50,6 +50,12 @@ summary: |-
   The letter focuses on procedure and circulation. Rajagopalachari acknowledges the difficulty of typing or printing copies for distribution to G.C. members, especially since what he calls a long and scandalous document has already circulated among them. He nevertheless argues that, to follow the correct procedure, the answer prepared by the group should be circulated together with the sub-committee's report. The letter closes with arrangements concerning a meeting and the delivery or checking of papers.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 17 January 1963 and addressed to Minoo Masani, encloses a revised draft of minutes, an agenda for a forthcoming G.C. and G.C. meeting, and a report of an organisation sub-committee. Rajagopalachari says these materials were settled after a lengthy meeting the previous evening.
+
+The letter focuses on procedure and circulation. Rajagopalachari acknowledges the difficulty of typing or printing copies for distribution to G.C. members, especially since what he calls a long and scandalous document has already circulated among them. He nevertheless argues that, to follow the correct procedure, the answer prepared by the group should be circulated together with the sub-committee's report. The letter closes with arrangements concerning a meeting and the delivery or checking of papers.
+
 ## Key points
 
 - The letter is dated 17 January 1963 and appears to be addressed to Minoo Masani.

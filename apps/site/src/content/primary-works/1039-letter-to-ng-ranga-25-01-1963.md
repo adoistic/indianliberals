@@ -51,6 +51,14 @@ summary: |-
   The letter's second page condenses the affirmative case Rajaji wants on the parliamentary record: the country must know that the opposition is not for the peace proposals, and the constructive alternative it puts to Government is a defensive alliance with the non-Communist powers of the West. Rajaji signs off with the observation that an opposition cannot itself secure a foreign alliance and can only propose one to Government. A handwritten forwarding note to 'Masani' — evidently sending Minoo Masani, then leading Swatantra in the Lok Sabha, a copy of the instructions given to Ranga — closes the document.
 ---
 
+## Summary
+
+This short dictated letter from C. Rajagopalachari to Swatantra colleague Acharya N. G. Ranga, sent from Madras on 21 January 1963 and received in Delhi on 25 January, lays out Rajaji's parliamentary strategy for the debate on India's response to China in the aftermath of the 1962 border war. Rajaji reads Nehru's position as an attempt to secure parliamentary cover to accept the Colombo proposal and open negotiations — a course he considers a one-way door, since a peace-loving Government is 'bound to yield to the obstinate side' once talks begin.
+
+He instructs Ranga to keep up the attack on the basis of Rajaji's own one-page statement, already published in The Hindu of that day, and to hold firmly to two linked propositions: reject the peace proposals, and seek and secure an alliance with the Western powers against what he calls the 'present as well as the permanent menace of China'. The tactical playbook is spelled out — demand a non-whipped free vote by secret ballot; failing that call for a division; failing that make a declaration on the basis of Rajaji's statement and walk out, letting the Congress and Communist benches pass any motion moved by the P.M. without opposition presence.
+
+The letter's second page condenses the affirmative case Rajaji wants on the parliamentary record: the country must know that the opposition is not for the peace proposals, and the constructive alternative it puts to Government is a defensive alliance with the non-Communist powers of the West. Rajaji signs off with the observation that an opposition cannot itself secure a foreign alliance and can only propose one to Government. A handwritten forwarding note to 'Masani' — evidently sending Minoo Masani, then leading Swatantra in the Lok Sabha, a copy of the instructions given to Ranga — closes the document.
+
 ## Key points
 
 - Dictated by C. Rajagopalachari from 60 Bazlullah Road, Tyagarayanagar, Madras on 21 January 1963 and received at Ranga's Western Court, New Delhi address on 25 January 1963.

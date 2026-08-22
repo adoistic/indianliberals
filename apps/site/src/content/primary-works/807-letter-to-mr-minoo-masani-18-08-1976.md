@@ -51,6 +51,12 @@ summary: |-
   The writer asks Masani to clarify the party’s situation: where it stands, where it is going, what course it should adopt for the future, and how it can ensure the party’s continued existence. The letter closes with a request for an early reply and an expression of anxiety about the lack of information.
 ---
 
+## Summary
+
+This single-page English letter, written on Swatantra Party district-office letterhead in Mullakkal Junction, Alleppey, and dated 18 August 1974, is addressed to M. R. Masani. The signed sender, apparently K. D. Joseph in the capacity of Secretary, says that the district office has received no fresh information about the party’s discussions, dissensions, and the determination of its future direction.
+
+The writer asks Masani to clarify the party’s situation: where it stands, where it is going, what course it should adopt for the future, and how it can ensure the party’s continued existence. The letter closes with a request for an early reply and an expression of anxiety about the lack of information.
+
 ## Key points
 
 - The letter is dated 18 August 1974 and was sent from the Swatantra Party district office at Mullakkal Junction, Alleppey, Kerala.

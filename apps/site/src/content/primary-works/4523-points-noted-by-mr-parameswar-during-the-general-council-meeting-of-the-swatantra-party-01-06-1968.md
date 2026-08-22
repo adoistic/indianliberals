@@ -55,6 +55,12 @@ summary: |-
   The discussion moves between calls for discipline and appeals for reconciliation. Speakers invoke the authority of Rajaji, the need to respect the Central directive, and the danger that punitive action could damage the party in Gujarat. The resolution requesting Minoo Masani to offer himself for re-election to the National Executive receives twelve votes in favour, while B. P. Singh's resolution is ultimately defeated, with fifteen votes in favour and the remainder against. Masani defends his resignation and public explanation of the dispute, describing the Swatantra Party as a democratic organisation whose survival depends on adherence to its principles. The final page states that the remaining portion was recorded by Mr. Srinivasan; no further pages of those proceedings are included here.
 ---
 
+## Summary
+
+These eight pages record the proceedings of the Swatantra Party General Council meeting held at Madras on 1 June 1968. The central dispute concerns allegations of indiscipline and disobedience by Gujarat legislators and leaders, particularly in connection with the party's support for Babubhai Vaidya and the election of 1970. B. P. Singh argues that the allegations against Gujarat leaders require an enquiry and that party pledges must be honoured, while several speakers urge withdrawal or moderation of the resolution in order to preserve party unity. The record also includes objections about the circulation of documentary evidence, references to press coverage, and disagreement over whether party directives were binding.
+
+The discussion moves between calls for discipline and appeals for reconciliation. Speakers invoke the authority of Rajaji, the need to respect the Central directive, and the danger that punitive action could damage the party in Gujarat. The resolution requesting Minoo Masani to offer himself for re-election to the National Executive receives twelve votes in favour, while B. P. Singh's resolution is ultimately defeated, with fifteen votes in favour and the remainder against. Masani defends his resignation and public explanation of the dispute, describing the Swatantra Party as a democratic organisation whose survival depends on adherence to its principles. The final page states that the remaining portion was recorded by Mr. Srinivasan; no further pages of those proceedings are included here.
+
 ## Key points
 
 - The meeting addresses a Gujarat dispute involving party discipline, alleged disobedience, and the selection of Babubhai Vaidya.

@@ -48,6 +48,12 @@ summary: |-
   The message is brief and personal, combining electoral encouragement with religious blessing. The sender says they are praying for Masani, wishes him well, and closes with an expression of lasting divine protection. The sender's signature is not securely legible.
 ---
 
+## Summary
+
+This handwritten inland letter, dated 27 February 1971, is addressed to Minoo Masani. The sender wishes Masani success in an election and frames that success as serving the nation.
+
+The message is brief and personal, combining electoral encouragement with religious blessing. The sender says they are praying for Masani, wishes him well, and closes with an expression of lasting divine protection. The sender's signature is not securely legible.
+
 ## Key points
 
 - The letter is dated 27 February 1971.

@@ -49,6 +49,12 @@ summary: |-
   The letter specifically requests manifestos from the Congress (O), Congress (I), Swatantra Party, Communist Party, Jan Sangh, and other relevant parties for elections held in 1952, 1957, 1962, 1964, 1967, and 1971. It closes with personal greetings, a reference to letters from friends, and a postscript noting that he has received a letter from an apparently unnamed person. The letterhead identifies the Bharatiya Vidya Bhavan; no date, title, or publication information is visible.
 ---
 
+## Summary
+
+This untitled, two-page handwritten letter from K. M. Munshi to Mr. P. Narayan at Naimisharanya, Mathura, is a practical request for political and electoral information. Munshi asks for an update on how the campaign is proceeding in Bombay, a detailed letter, clarification about whether an unnamed correspondent has replied and paid, and copies of party manifestos.
+
+The letter specifically requests manifestos from the Congress (O), Congress (I), Swatantra Party, Communist Party, Jan Sangh, and other relevant parties for elections held in 1952, 1957, 1962, 1964, 1967, and 1971. It closes with personal greetings, a reference to letters from friends, and a postscript noting that he has received a letter from an apparently unnamed person. The letterhead identifies the Bharatiya Vidya Bhavan; no date, title, or publication information is visible.
+
 ## Key points
 
 - K. M. Munshi writes to Mr. P. Narayan at Naimisharanya, Mathura.

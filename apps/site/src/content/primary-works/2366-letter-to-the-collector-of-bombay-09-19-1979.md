@@ -46,6 +46,10 @@ summary: |-
   This archival packet contains a letter dated September 19, 1979, from M. R. Masani to the Collector of Bombay concerning recovery proceedings and land-revenue notices connected with motor vehicle MNA 4093. Masani states that the vehicle was used by the Swatantra Party, purchased for its use, and sold after the 1967 general election. He argues that he has no personal responsibility for the vehicle because he was acting as the party’s General Secretary at the relevant time, and asks that notices demanding land revenue from him be cancelled.
 ---
 
+## Summary
+
+This archival packet contains a letter dated September 19, 1979, from M. R. Masani to the Collector of Bombay concerning recovery proceedings and land-revenue notices connected with motor vehicle MNA 4093. Masani states that the vehicle was used by the Swatantra Party, purchased for its use, and sold after the 1967 general election. He argues that he has no personal responsibility for the vehicle because he was acting as the party’s General Secretary at the relevant time, and asks that notices demanding land revenue from him be cancelled.
+
 ## Key points
 
 - Masani’s letter is addressed to the Collector of Bombay and dated September 19, 1979.

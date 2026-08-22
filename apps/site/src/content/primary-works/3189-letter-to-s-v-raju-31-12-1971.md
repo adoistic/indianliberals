@@ -45,6 +45,12 @@ summary: |-
   Irani suggests that Calcutta has enough available intellectual talent to provide a competent reviewer. The remainder of the letter is personal and logistical: he recounts unsuccessful attempts to contact the recipient in Bombay, anticipates another visit in mid-January, and responds wryly to a photograph and to the burdens imposed by the Government of India. Handwritten annotations include the number “3189,” marginal notes, and the salutation “My dear Raju.”
 ---
 
+## Summary
+
+This single-page letter, written in Calcutta on 31 December 1971 and signed by C. R. Irani, acknowledges the recipient's letter of 30 December and comments favorably on a book after a brief glance. Irani explains that he has already passed the book on for review because the recipient apparently expected him to read it first and then send it onward, while also requesting another copy for his own use.
+
+Irani suggests that Calcutta has enough available intellectual talent to provide a competent reviewer. The remainder of the letter is personal and logistical: he recounts unsuccessful attempts to contact the recipient in Bombay, anticipates another visit in mid-January, and responds wryly to a photograph and to the burdens imposed by the Government of India. Handwritten annotations include the number “3189,” marginal notes, and the salutation “My dear Raju.”
+
 ## Key points
 
 - The letter is dated 31 December 1971 and was sent from Calcutta.

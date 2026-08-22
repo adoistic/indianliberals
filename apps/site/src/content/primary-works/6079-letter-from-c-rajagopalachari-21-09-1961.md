@@ -49,6 +49,12 @@ summary: |-
   Masani also notes that Piloo Mody may invite Rajagopalachari to a dinner on 30 or 31 October intended to raise funds for the Bombay unit. He makes clear that Rajagopalachari is free to accept the invitation and closes by saying that he will write separately about other matters. The page records a practical exchange about public speaking, party fundraising, and coordination among liberal political figures; no further correspondence is visible.
 ---
 
+## Summary
+
+This letter, dated 21 September 1964, is from Minoo Masani to C. Rajagopalachari (“Rajaji”) concerning the Bombay Party’s forthcoming public meetings. Masani reports that Rajagopalachari is expected to address a meeting at Chowpatty on 1 October and, earlier that afternoon, to speak briefly to Gujarati grain dealers at Kesar Bagh, an audience described as particularly hard hit at the time.
+
+Masani also notes that Piloo Mody may invite Rajagopalachari to a dinner on 30 or 31 October intended to raise funds for the Bombay unit. He makes clear that Rajagopalachari is free to accept the invitation and closes by saying that he will write separately about other matters. The page records a practical exchange about public speaking, party fundraising, and coordination among liberal political figures; no further correspondence is visible.
+
 ## Key points
 
 - The letter is dated 21 September 1964 and is addressed to C. Rajagopalachari.

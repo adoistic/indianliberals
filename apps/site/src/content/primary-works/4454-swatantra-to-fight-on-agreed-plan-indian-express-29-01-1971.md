@@ -56,6 +56,12 @@ summary: |-
   The reported manifesto combines a constitutional defence with an economic critique. It accuses the “New Congress” of attempting to subvert the Constitution and relying on Communists, and blames government for failing to restore order and for pursuing outdated economic policies. Its proposals include large-scale public works, administrative and educational reforms, anti-inflationary fiscal discipline, protection of peasant proprietorship, restraint on further reductions in land ceilings, and safeguards against insecurity arising from tenancy changes. Masani also argued that grievances should be addressed through the ballot and warned against government by personal whim. The clipping ends while discussing minority grievances.
 ---
 
+## Summary
+
+This one-page Indian Express report, attributed to Express News Service, records Swatantra Party chairman M. R. Masani’s announcement that the party would contest the forthcoming Lok Sabha elections on the “agreed programme” outlined in the June resolution of the Old Congress AICC. Masani presented this as a minimum programme acceptable also to the Jan Sangh, while rejecting both ideological rigidity and political demagogy. The article says the programme emphasized constitutional government, fundamental rights and civil liberties, law and order, employment, agriculture, production, prices, and protections for minorities and backward classes.
+
+The reported manifesto combines a constitutional defence with an economic critique. It accuses the “New Congress” of attempting to subvert the Constitution and relying on Communists, and blames government for failing to restore order and for pursuing outdated economic policies. Its proposals include large-scale public works, administrative and educational reforms, anti-inflationary fiscal discipline, protection of peasant proprietorship, restraint on further reductions in land ceilings, and safeguards against insecurity arising from tenancy changes. Masani also argued that grievances should be addressed through the ballot and warned against government by personal whim. The clipping ends while discussing minority grievances.
+
 ## Key points
 
 - Swatantra Party would contest the Lok Sabha elections on the agreed programme from the June Old Congress AICC resolution.

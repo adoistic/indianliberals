@@ -49,6 +49,12 @@ summary: |-
   Masani characterizes the proposed undertaking as a worthwhile agricultural project whose delay would be regrettable because it could substantially increase foodgrain production in Orissa. He requests information about the action being taken to expedite the matter. The letter is administrative and interventionist in purpose, linking government responsiveness with agricultural development.
 ---
 
+## Summary
+
+In this one-page letter dated 29 February 1968, M. R. Masani writes from New Delhi to Dr. K. L. Rao, then Minister of Irrigation and Power, Government of India. Masani encloses a letter from Raj Ballabh Mishra, Odisha's Minister of Community Development, Panchayati Raj and Agriculture, and asks Rao to investigate the matter raised in it.
+
+Masani characterizes the proposed undertaking as a worthwhile agricultural project whose delay would be regrettable because it could substantially increase foodgrain production in Orissa. He requests information about the action being taken to expedite the matter. The letter is administrative and interventionist in purpose, linking government responsiveness with agricultural development.
+
 ## Key points
 
 - Masani's letter is dated 29 February 1968 and addressed to Dr. K. L. Rao in New Delhi.

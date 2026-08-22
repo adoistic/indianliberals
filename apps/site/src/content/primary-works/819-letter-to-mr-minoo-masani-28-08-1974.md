@@ -49,6 +49,12 @@ summary: |-
   Singh describes two possibilities under discussion: reviving the Swatantra Party or joining an existing party capable of delivering effective results. He proposes meeting Masani in Delhi or Jaipur and offers to gather other former colleagues for a discussion.
 ---
 
+## Summary
+
+In this letter dated 28 August 1974, Man Singh writes from Jaipur to M. R. Masani after reading Masani's views on the dissolution of the Swatantra Party. Singh explains that several former Swatantra members, including himself, do not wish to join the newly formed BLD and are seeking advice about their political future.
+
+Singh describes two possibilities under discussion: reviving the Swatantra Party or joining an existing party capable of delivering effective results. He proposes meeting Masani in Delhi or Jaipur and offers to gather other former colleagues for a discussion.
+
 ## Key points
 
 - The letter is dated 28 August 1974 and was sent from Mahar House, Jaipur.

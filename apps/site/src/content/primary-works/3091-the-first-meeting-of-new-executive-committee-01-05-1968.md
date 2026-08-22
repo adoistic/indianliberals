@@ -50,6 +50,12 @@ summary: |-
   The agenda covers the party's response to a Home Ministry note on defections, nominations to a committee concerning the forthcoming Parliament session in Bangalore, and any other business. The notice is issued on Swatantra Party letterhead and is signed by the secretary; the secretary's name is not sufficiently legible to identify as an author.
 ---
 
+## Summary
+
+This one-page English office notice, issued by the Swatantra Party Parliamentary Office in New Delhi on 1 May 1968, calls members to the first meeting of the party's new Executive Committee. The meeting was scheduled for 12:30 p.m. on 2 May 1968 in the Party Room, Central Hall, New Delhi.
+
+The agenda covers the party's response to a Home Ministry note on defections, nominations to a committee concerning the forthcoming Parliament session in Bangalore, and any other business. The notice is issued on Swatantra Party letterhead and is signed by the secretary; the secretary's name is not sufficiently legible to identify as an author.
+
 ## Key points
 
 - The notice is dated May 1, 1968, and was issued by the Swatantra Party Parliamentary Office in New Delhi.

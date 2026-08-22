@@ -53,6 +53,12 @@ summary: |-
   The letter also raises allegations reported in Mauritian newspapers concerning Mr. Singhania’s alleged possession of jewels worth more than one million rupees, the imposition of a Rs. 39 lakh fine, and possible efforts to involve a senior Indian political figure. Mehta calls for a public trial and asks Mrs. Gandhi to explain how the jewels left India. In the second page, he argues that fundamental duties must not override conscience, criticises the indefinite postponement of elections and the continuing Emergency, and urges Indira Gandhi to open a dialogue with her opponents. The letter closes with an appeal for financial support for the Hindustani Movement.
 ---
 
+## Summary
+
+This two-page letter, dated November 6, 1976, is signed by Madhu Mehta as National Convenor of the Hindustani Movement. Writing from Bombay, Mehta reports recovering while remaining under medical observation, then turns to political conditions during the Emergency. He questions whether discipline can be created through legislation or coercion, arguing instead for sustained training, education, and moral example, and rejects Mao Zedong’s maxim that political power grows from the barrel of a gun as an adequate explanation of political authority.
+
+The letter also raises allegations reported in Mauritian newspapers concerning Mr. Singhania’s alleged possession of jewels worth more than one million rupees, the imposition of a Rs. 39 lakh fine, and possible efforts to involve a senior Indian political figure. Mehta calls for a public trial and asks Mrs. Gandhi to explain how the jewels left India. In the second page, he argues that fundamental duties must not override conscience, criticises the indefinite postponement of elections and the continuing Emergency, and urges Indira Gandhi to open a dialogue with her opponents. The letter closes with an appeal for financial support for the Hindustani Movement.
+
 ## Key points
 
 - The letter links genuine political discipline to continuous training, education, and character formation rather than legislation alone.

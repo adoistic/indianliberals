@@ -52,6 +52,12 @@ summary: |-
   The committee resolved to dissolve the Bihar Organisation of the Party and its state committee, while allowing the Swatantra Party group in both Houses of the state legislature to continue under the Central Parliamentary Board's supervision. It directed the Central Office to take charge of the dissolved unit's papers, accounts, and assets and indicated that reorganisation in Bihar would be considered later. The remaining decisions concerned parliamentary meetings before the September session, encouragement of party formation in Kashmir, a training course for party organisers in Bombay, continued organisational work in Madhya Pradesh and Bengal, and Prof. Ranga's participation in an Inter-Parliamentary Union conference in Copenhagen.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Organisation Sub-Committee meeting held in Madras on 8 August 1964, with Prof. N. G. Ranga in the chair and C. Rajagopalachari, Prof. M. R. Rethwanway, and M. R. Masani present. The meeting approved the previous minutes, discussed the political situation in Kerala, noted the procedure for party elections, and considered a report on the affairs of the Bihar Party unit, including a no-confidence motion in the Bihar Legislative Assembly.
+
+The committee resolved to dissolve the Bihar Organisation of the Party and its state committee, while allowing the Swatantra Party group in both Houses of the state legislature to continue under the Central Parliamentary Board's supervision. It directed the Central Office to take charge of the dissolved unit's papers, accounts, and assets and indicated that reorganisation in Bihar would be considered later. The remaining decisions concerned parliamentary meetings before the September session, encouragement of party formation in Kashmir, a training course for party organisers in Bombay, continued organisational work in Madhya Pradesh and Bengal, and Prof. Ranga's participation in an Inter-Parliamentary Union conference in Copenhagen.
+
 ## Key points
 
 - The Organisation Sub-Committee approved the minutes of its previous meeting held in Bombay on 28 and 29 June 1964.

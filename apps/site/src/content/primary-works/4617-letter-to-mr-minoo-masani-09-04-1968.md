@@ -49,6 +49,12 @@ summary: |-
   Ranga makes a personal appeal for Masani's presence, arguing that his views, advice, and guidance are needed to help resolve the situation in Gujarat. The letter is therefore both an invitation and an intervention in an internal party dispute, emphasizing the importance of collective deliberation at a consequential moment for the Swatantra Party.
 ---
 
+## Summary
+
+In this letter dated 9 April 1968, N. G. Ranga urges M. R. Masani to attend the Swatantra Party's Central Parliamentary Board and National Executive meetings in Delhi on 13–14 April, despite Masani's resignation. Ranga presents the meetings as potentially decisive for the party's future in Gujarat and elsewhere, noting that Bhaikaka, H. M. Patel, and possibly Jaideepsinghji of Baria may attend.
+
+Ranga makes a personal appeal for Masani's presence, arguing that his views, advice, and guidance are needed to help resolve the situation in Gujarat. The letter is therefore both an invitation and an intervention in an internal party dispute, emphasizing the importance of collective deliberation at a consequential moment for the Swatantra Party.
+
 ## Key points
 
 - The letter is dated 9 April 1968 and is sent by N. G. Ranga from New Delhi to M. R. Masani.

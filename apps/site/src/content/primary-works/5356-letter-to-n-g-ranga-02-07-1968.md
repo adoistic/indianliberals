@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated 2 July 1968, is from Prof. N. G. Ranga to “Rajajee.” Ranga reports that he is enclosing a letter to Minoo Masani and copies of agreements between the Orissa State Unit and the Jan Congress of Orissa. The immediate subject is the possibility of reorganising opposition politics through alliances among the Swatantra Party, PSPP, BKD, and other parties.
 ---
 
+## Summary
+
+This one-page letter, dated 2 July 1968, is from Prof. N. G. Ranga to “Rajajee.” Ranga reports that he is enclosing a letter to Minoo Masani and copies of agreements between the Orissa State Unit and the Jan Congress of Orissa. The immediate subject is the possibility of reorganising opposition politics through alliances among the Swatantra Party, PSPP, BKD, and other parties.
+
 ## Key points
 
 - Ranga forwards correspondence and earlier Orissa political agreements for the recipient’s information.

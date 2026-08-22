@@ -46,6 +46,10 @@ summary: |-
   This handwritten letter from Minoo Masani to B. S. Mirza is dated 18 September 1959 and was sent from New Delhi. Masani thanks Mirza for his letter of 14 September and asks him to search for an opening on Masani’s behalf. He says he would be willing to join the party if an opportunity becomes available, and asks Mirza to keep him in mind for an early opening.
 ---
 
+## Summary
+
+This handwritten letter from Minoo Masani to B. S. Mirza is dated 18 September 1959 and was sent from New Delhi. Masani thanks Mirza for his letter of 14 September and asks him to search for an opening on Masani’s behalf. He says he would be willing to join the party if an opportunity becomes available, and asks Mirza to keep him in mind for an early opening.
+
 ## Key points
 
 - The letter is dated 18 September 1959 and originates from New Delhi.

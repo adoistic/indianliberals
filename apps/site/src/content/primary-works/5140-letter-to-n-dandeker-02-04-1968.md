@@ -49,6 +49,12 @@ summary: |-
   A handwritten postscript adds a specific interim request: that Masani be asked to withdraw his resignation. The document therefore records an internal party-management appeal focused on unity, leadership, and organisational response to a senior member’s resignation.
 ---
 
+## Summary
+
+This one-page English letter, dated 2 April 1968, is from K. R. Koshti to N. Dandekar, M.P., General Secretary of the Swatantra Party. Koshti requests an emergency meeting of the Party’s General Council to discuss M. R. Masani’s resignation from the National Executive and the Central Parliamentary Board, and to take steps toward restoring unity under the leadership of the party’s respected leaders.
+
+A handwritten postscript adds a specific interim request: that Masani be asked to withdraw his resignation. The document therefore records an internal party-management appeal focused on unity, leadership, and organisational response to a senior member’s resignation.
+
 ## Key points
 
 - K. R. Koshti wrote to N. Dandekar, the Swatantra Party’s General Secretary.

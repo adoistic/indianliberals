@@ -54,6 +54,12 @@ summary: |-
   Appendix I sets out reciprocal expectations for government servants and legislators. Officials are instructed to treat legislators courteously, give them appropriate access and attention, respond to correspondence, and exercise independent judgment rather than automatically complying with requests. Legislators, in turn, are told to seek information only for public purposes, avoid using parliamentary influence for private or sectional advantage, follow proper channels, and refrain from pressing officials to decide individual cases in their favour. Appendix II reproduces Santhanam Committee Recommendation No. 107, addressing conflicts of interest, private employment, gifts and hospitality, misuse of confidential information, lobbying for associates, unsupported constituent claims, and sanctions for breaches. The pages end with a proposal to redraft the code after discussion.
 ---
 
+## Summary
+
+This 29 February 1968 communication from the Swatantra Party Parliamentary Office, signed by Secretary C.C. Desai, asks party members to review and comment on a proposed code regulating relations between Members of Parliament, State Legislatures, and the administration. It encloses a 20 December 1967 letter from Parliamentary Affairs Minister Ram Subhag Singh, which forwards the draft code approved by the Sixth All India Whips’ Conference and asks opposition leaders to consider it alongside K. Santhanam Committee recommendations on legislative conduct.
+
+Appendix I sets out reciprocal expectations for government servants and legislators. Officials are instructed to treat legislators courteously, give them appropriate access and attention, respond to correspondence, and exercise independent judgment rather than automatically complying with requests. Legislators, in turn, are told to seek information only for public purposes, avoid using parliamentary influence for private or sectional advantage, follow proper channels, and refrain from pressing officials to decide individual cases in their favour. Appendix II reproduces Santhanam Committee Recommendation No. 107, addressing conflicts of interest, private employment, gifts and hospitality, misuse of confidential information, lobbying for associates, unsupported constituent claims, and sanctions for breaches. The pages end with a proposal to redraft the code after discussion.
+
 ## Key points
 
 - C.C. Desai circulates an enclosed ministerial letter and requests consolidated reactions from Swatantra Party members.

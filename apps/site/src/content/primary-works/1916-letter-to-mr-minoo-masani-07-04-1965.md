@@ -50,6 +50,12 @@ summary: |-
   In a separate letter to Bhanu Prasad Singh, Ranga objects strongly to what he calls a Hindi newspaper’s “glairing and unpardonable misreporting” of his remarks at a conference and to the Prime Minister. He clarifies that he spoke only for himself, that the Swatantra Party had no official view or instructions on the issue, and that a broader conference should seek consensus among party leaders, educationists, students, and others. He asks Singh to publish a correction. The document is marked “TRUE COPY”; no printed folio numbers, title, publisher, or fuller archival context are visible.
 ---
 
+## Summary
+
+This two-page letter, dated 7 April 1965 and signed by N. G. Ranga, addresses political coordination within the Swatantra Party and related parliamentary committees. Ranga tells Minoo Masani that nominees for the Public Accounts Committee and Estimates Committee generally serve two consecutive terms, recalls the previous placement of Reddy and P. K. Ghosh, and suggests considering Ghosh for associate membership. He also plans to schedule an Executive Committee meeting for Masani’s return to Delhi.
+
+In a separate letter to Bhanu Prasad Singh, Ranga objects strongly to what he calls a Hindi newspaper’s “glairing and unpardonable misreporting” of his remarks at a conference and to the Prime Minister. He clarifies that he spoke only for himself, that the Swatantra Party had no official view or instructions on the issue, and that a broader conference should seek consensus among party leaders, educationists, students, and others. He asks Singh to publish a correction. The document is marked “TRUE COPY”; no printed folio numbers, title, publisher, or fuller archival context are visible.
+
 ## Key points
 
 - Ranga discusses nominations for the Public Accounts Committee and Estimates Committee.

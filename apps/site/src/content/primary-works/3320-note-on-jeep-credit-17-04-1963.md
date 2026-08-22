@@ -55,6 +55,12 @@ summary: |-
   The note reconstructs the repayment arrangement through correspondence and Parliamentary Sub-Committee minutes. It states that the Party agreed to monthly payments of Rs. 20,000 on the Raja’s behalf, while the Raja undertook to repay Rs. 1,20,000 plus accrued interest. According to the note, the Raja made no payment, and the Treasurer’s instalments continued through October 1962. It concludes that the Party faithfully followed its instructions and that the Raja’s default placed fifteen jeeps belonging to the Centre at risk, prompting a request for instructions to protect the Party’s interests and property.
 ---
 
+## Summary
+
+“Note On Jeep Credit” is an unattributed three-page office note responding to a letter dated 17 April 1963 from the Raja Saheb of Ramgarh to the Central Bank of India. It disputes his claim that a Rs. 5 lakh overdraft had been opened in his name merely to accommodate the Swatantra Party during the 1962 General Elections. The note argues instead that the Raja initiated the credit arrangement and that the Party acted only to help secure and service the loan.
+
+The note reconstructs the repayment arrangement through correspondence and Parliamentary Sub-Committee minutes. It states that the Party agreed to monthly payments of Rs. 20,000 on the Raja’s behalf, while the Raja undertook to repay Rs. 1,20,000 plus accrued interest. According to the note, the Raja made no payment, and the Treasurer’s instalments continued through October 1962. It concludes that the Party faithfully followed its instructions and that the Raja’s default placed fifteen jeeps belonging to the Centre at risk, prompting a request for instructions to protect the Party’s interests and property.
+
 ## Key points
 
 - The note rejects the Raja Saheb of Ramgarh’s account of responsibility for a Rs. 5 lakh bank overdraft.

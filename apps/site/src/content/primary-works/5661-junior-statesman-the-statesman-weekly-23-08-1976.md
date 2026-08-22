@@ -51,6 +51,12 @@ summary: |-
   The letter refers to earlier secret circulars and requires that all instructions be complied with and that action be reported. The document therefore records an administrative advertising restriction affecting named newspaper groups and editions; no reason for the restrictions is stated on the page.
 ---
 
+## Summary
+
+This one-page official letter, dated New Delhi 23 August 1976 and signed by G. Sethi, instructs a Chief Executive not to release advertisements to the Calcutta and Delhi editions of The Statesman, Junior Statesman, or The Statesman Weekly. It also extends the restriction to two other publications brought out by The Statesman, while separately noting that advertisements should not be given to The Tribune, Chandigarh, or the Indian Express Group of papers.
+
+The letter refers to earlier secret circulars and requires that all instructions be complied with and that action be reported. The document therefore records an administrative advertising restriction affecting named newspaper groups and editions; no reason for the restrictions is stated on the page.
+
 ## Key points
 
 - The letter is dated New Delhi, 23 August 1976.

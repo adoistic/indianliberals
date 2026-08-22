@@ -46,6 +46,12 @@ summary: |-
   The page does not print a sender line or author byline. “RAJAJI” appears in the approval area, while handwritten annotations at the bottom appear to request confirmation and record a further note, but their full wording is difficult to read. The sender therefore cannot be established from this page alone.
 ---
 
+## Summary
+
+This single-page English document is a draft letter on “SURAJYAM” letterhead, dated 17/6/66 and addressed to C. Rajagopalachari at his Madras address. The visible draft consists chiefly of an instruction to approve the text without changes and to omit material considered irrelevant. It is explicitly marked “Not to be telegraphed.”
+
+The page does not print a sender line or author byline. “RAJAJI” appears in the approval area, while handwritten annotations at the bottom appear to request confirmation and record a further note, but their full wording is difficult to read. The sender therefore cannot be established from this page alone.
+
 ## Key points
 
 - The document is a one-page typed draft letter in English.

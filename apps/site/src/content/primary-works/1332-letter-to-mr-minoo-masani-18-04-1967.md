@@ -45,6 +45,12 @@ summary: |-
   The recipients named are Shri N. Dandekar, Shri J. M. Inam, Shri Manubhai M. (surname unclear in the scan), Shri C. Muthuswami, and Nawabzada Zulfiqar Ali Khan. Bhagavati adds that efforts will be made to meet the requirements of the remaining members as positions become available, and closes by wishing Masani a speedy recovery.
 ---
 
+## Summary
+
+This single-page letter, dated April 18, 1967, is from B. Bhagavati, Chairman of the House Committee, Parliament House, New Delhi, to M. R. Masani. Bhagavati responds to Masani's April 14 request concerning bungalow allotments for members of Masani's group and confirms that five members have been allotted bungalows for the present.
+
+The recipients named are Shri N. Dandekar, Shri J. M. Inam, Shri Manubhai M. (surname unclear in the scan), Shri C. Muthuswami, and Nawabzada Zulfiqar Ali Khan. Bhagavati adds that efforts will be made to meet the requirements of the remaining members as positions become available, and closes by wishing Masani a speedy recovery.
+
 ## Key points
 
 - The letter is dated April 18, 1967, and was issued from Parliament House, New Delhi.

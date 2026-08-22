@@ -54,6 +54,12 @@ summary: |-
   The committee distributed a prepared list of advertisers and agreed that members should solicit advertisements wherever possible. P. M. Shah proposed sending appeals to the Presidents, Vice-Presidents, and General Secretaries of the State Units, and Datar agreed. Members were asked to report progress and suggest further names at a meeting scheduled for 30 November 1970. The page also identifies Sarla Datar as editor of The White Star.
 ---
 
+## Summary
+
+These draft minutes record a meeting of the White Star Souvenir Sub-Committee held at the Swatantra Party office on 19 November 1970. Convened by Sarla Datar, the committee discussed fundraising for a special Republic Day number of The White Star, a journal described as committed to building an informed public opinion and encouraging the active political participation of the intelligentsia. Datar reported that the fundraising target was Rs. 1 lakh and that 400 appeals had already been sent to advertisers.
+
+The committee distributed a prepared list of advertisers and agreed that members should solicit advertisements wherever possible. P. M. Shah proposed sending appeals to the Presidents, Vice-Presidents, and General Secretaries of the State Units, and Datar agreed. Members were asked to report progress and suggest further names at a meeting scheduled for 30 November 1970. The page also identifies Sarla Datar as editor of The White Star.
+
 ## Key points
 
 - The meeting took place on 19 November 1970 at the Swatantra Party office and was chaired or convened by Sarla Datar.

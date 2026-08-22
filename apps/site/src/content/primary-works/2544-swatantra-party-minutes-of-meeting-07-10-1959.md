@@ -51,6 +51,12 @@ summary: |-
   The committee reviewed fundraising for an upcoming concert. It reported Rs. 9,130 in promised advertising support, assigned members responsibility for persuading groups of firms to advertise, and discussed ticket-sale procedures. It then reduced the proposed admission rates from Rs. 9, 6, 4.50, 3, and 1.50 to Rs. 7.50, 5, 3, and 1.50, while urging the main committee to help bring the event’s earnings as close as possible to Rs. 50,000.
 ---
 
+## Summary
+
+This one-page English minutes record documents the second meeting of the Swatantra Party’s Funds Sub-Committee for the Bombay Division, held on 7 October 1959 at Mr. Morarji Vaidya’s office. Dr. R.C. Cooper chaired the meeting in Vaidya’s absence; Ranvir Khatau, Mrs. Mandivala, and convener V. Paranjoti were also present.
+
+The committee reviewed fundraising for an upcoming concert. It reported Rs. 9,130 in promised advertising support, assigned members responsibility for persuading groups of firms to advertise, and discussed ticket-sale procedures. It then reduced the proposed admission rates from Rs. 9, 6, 4.50, 3, and 1.50 to Rs. 7.50, 5, 3, and 1.50, while urging the main committee to help bring the event’s earnings as close as possible to Rs. 50,000.
+
 ## Key points
 
 - The document records the second meeting of the Swatantra Party’s Bombay Division Funds Sub-Committee.

@@ -54,6 +54,10 @@ summary: |-
   These two pages record the proceedings of the Swatantra Party's Parliamentary Executive Committee meeting held at Shri C. C. Desai's residence on 12 November 1967. The members observed silence over the deaths of Dr. Ram Manohar Lohia and G. D. Patil, discussed the political crisis in West Bengal and cyclonic damage in Orissa, and adopted positions on the Maharashtra–Mysore border dispute and proposed language legislation. The minutes show the party combining parliamentary opposition to Communist and government policy with appeals for public relief and rehabilitation.
 ---
 
+## Summary
+
+These two pages record the proceedings of the Swatantra Party's Parliamentary Executive Committee meeting held at Shri C. C. Desai's residence on 12 November 1967. The members observed silence over the deaths of Dr. Ram Manohar Lohia and G. D. Patil, discussed the political crisis in West Bengal and cyclonic damage in Orissa, and adopted positions on the Maharashtra–Mysore border dispute and proposed language legislation. The minutes show the party combining parliamentary opposition to Communist and government policy with appeals for public relief and rehabilitation.
+
 ## Key points
 
 - The Executive Committee met on 12 November 1967 with ten MPs present, including N. G. Ranga, M. R. Masani, N. Dandekar, C. C. Desai, and K. P. Singh Deo.

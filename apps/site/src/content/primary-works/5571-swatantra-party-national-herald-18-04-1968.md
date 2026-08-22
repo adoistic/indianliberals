@@ -50,6 +50,12 @@ summary: |-
   The editorial also considers the party’s economic identity. It presents Swatantra as opposed to nationalisation and sympathetic to private enterprise, but asks whether its economic programme is sufficiently clear and distinctive. It notes that the party’s positions may attract industrialists while failing to offer a broad social appeal. Despite these limitations, the article credits Swatantra with performing a valuable opposition role and concludes that it should concentrate on building an effective opposition rather than assuming office through unstable coalitions.
 ---
 
+## Summary
+
+This National Herald editorial examines the Swatantra Party after the resignation of M. R. Masani from its national executive. It argues that party discipline is necessary for political survival, while questioning whether Masani’s resignation reflects a principled “conscience” or a deeper disagreement over the party’s direction. The article points to internal dissent, especially in Gujarat, and to disappointing electoral results, including the defeat of Mr. Balubhai Vaidya despite his parliamentary-board support.
+
+The editorial also considers the party’s economic identity. It presents Swatantra as opposed to nationalisation and sympathetic to private enterprise, but asks whether its economic programme is sufficiently clear and distinctive. It notes that the party’s positions may attract industrialists while failing to offer a broad social appeal. Despite these limitations, the article credits Swatantra with performing a valuable opposition role and concludes that it should concentrate on building an effective opposition rather than assuming office through unstable coalitions.
+
 ## Key points
 
 - The editorial discusses M. R. Masani’s resignation from the Swatantra Party’s national executive.

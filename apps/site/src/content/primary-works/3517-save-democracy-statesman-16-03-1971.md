@@ -50,6 +50,12 @@ summary: |-
   The letter predicts that Congress(O) may seek a compromise with Congress(R), making the proper functioning of parliamentary democracy nearly impossible. It calls on S. Nijalingappa, identified as the Congress(O) president and protagonist of the “Save democracy” campaign, to accept defeat gracefully, citing M. R. Masani's conduct as an example.
 ---
 
+## Summary
+
+This one-page letter to the editor, signed by Tuhin Subhra Bhattacharyya and dated Calcutta, March 13, assesses the electoral verdict and its implications for opposition politics. It argues that those who reached an electoral understanding with Congress(R) in pursuit of political gain have reason to be embarrassed, and attributes the Four-Party Alliance's poor performance to the likely weakness of the parliamentary opposition.
+
+The letter predicts that Congress(O) may seek a compromise with Congress(R), making the proper functioning of parliamentary democracy nearly impossible. It calls on S. Nijalingappa, identified as the Congress(O) president and protagonist of the “Save democracy” campaign, to accept defeat gracefully, citing M. R. Masani's conduct as an example.
+
 ## Key points
 
 - The electoral verdict is presented as embarrassing for those who allied electorally with Congress(R) for political advantage.

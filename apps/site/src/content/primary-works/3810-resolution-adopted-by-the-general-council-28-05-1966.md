@@ -52,6 +52,12 @@ summary: |-
   The resolution requests the Government of India to implement the Chanda Committee’s recommendations as early as possible, with particular urgency before the General Elections. The document is presented as a motion from the chair and contains no named individual author.
 ---
 
+## Summary
+
+This one-page Swatantra Party resolution records the General Council’s response to the Chanda Committee report, adopted on 28 May 1966. It welcomes the committee’s recommendation that All India Radio and television services be placed under an autonomous body, framing institutional autonomy as the appropriate reform for India’s broadcasting services.
+
+The resolution requests the Government of India to implement the Chanda Committee’s recommendations as early as possible, with particular urgency before the General Elections. The document is presented as a motion from the chair and contains no named individual author.
+
 ## Key points
 
 - The document is a Swatantra Party resolution adopted by its General Council on 28 May 1966.

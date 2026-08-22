@@ -47,6 +47,10 @@ summary: |-
   This one-page letter, dated 4 April 1968, is addressed to N. Dandekar, General Secretary of the Swatantra Party, at the party’s Central Office in Bombay. The sender, whose handwritten name is only partly legible as “Ram Rup …” and who appears to identify himself as an advocate, asks Dandekar to convene an emergency meeting of the party’s General Council.
 ---
 
+## Summary
+
+This one-page letter, dated 4 April 1968, is addressed to N. Dandekar, General Secretary of the Swatantra Party, at the party’s Central Office in Bombay. The sender, whose handwritten name is only partly legible as “Ram Rup …” and who appears to identify himself as an advocate, asks Dandekar to convene an emergency meeting of the party’s General Council.
+
 ## Key points
 
 - The letter is dated 4 April 1968 and addressed to N. Dandekar.

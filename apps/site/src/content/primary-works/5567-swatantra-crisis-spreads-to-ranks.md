@@ -51,6 +51,12 @@ summary: |-
   The report presents the crisis as both a leadership dispute and a programme deficit. It says the party lacked a clear programme capable of creating mass involvement and records disagreements over whether the Gujarat organisation should accept responsibility for the damage caused by the controversy. The second page reports a separate revolt by Swatantra Party corporators in Ahmedabad, who allegedly resisted the Mayor’s withdrawal of invitations to a civic inauguration and threatened to act independently. The visible pages do not establish the eventual outcome of either dispute.
 ---
 
+## Summary
+
+This 21 April 1968 newspaper report, headed “Swatantra Crisis Spreads to Ranks,” describes mounting internal conflict in the Swatantra Party in Gujarat. It reports that the party’s Gujarat unit was divided over disciplinary action against its president, Mr. Solanki, after allegations that he had taken an “unofficial” position and failed to consult party colleagues. Professor N. G. Ranga is quoted as warning that the party’s difficulties were becoming more serious, while the National Executive is described as having discussed complaints from Gujarat leaders and considered disciplinary measures.
+
+The report presents the crisis as both a leadership dispute and a programme deficit. It says the party lacked a clear programme capable of creating mass involvement and records disagreements over whether the Gujarat organisation should accept responsibility for the damage caused by the controversy. The second page reports a separate revolt by Swatantra Party corporators in Ahmedabad, who allegedly resisted the Mayor’s withdrawal of invitations to a civic inauguration and threatened to act independently. The visible pages do not establish the eventual outcome of either dispute.
+
 ## Key points
 
 - The report identifies a serious factional crisis in the Gujarat unit of the Swatantra Party.

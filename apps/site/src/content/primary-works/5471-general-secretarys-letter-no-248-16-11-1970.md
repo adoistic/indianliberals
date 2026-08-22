@@ -51,6 +51,12 @@ summary: |-
   The letter treats an early dissolution of Parliament and general elections as a serious possibility. It therefore asks local boards to submit, by December 5, recommendations for parliamentary candidates, prioritising constituencies won by Swatantra in 1967 but also considering seats where the party’s previous performance was credible. The enclosed resolution, adopted by the National Executive on November 8, reiterates opposition to improvised or opportunistic coalitions and calls instead for cooperation among nationalist and democratic forces on the basis of an agreed programme.
 ---
 
+## Summary
+
+Dated November 16, 1970, General Secretary R. C. Cooper’s letter urges Swatantra Party offices to prepare for the likely collapse of a proposed electoral alliance involving Congress(O), the BKD, and the Jan Sangh. Cooper reports that Congress(O) had not implemented an earlier AICC resolution and that negotiations for a parliamentary bloc and national electoral pact had effectively stalled. He warns that the party may have to contest the elections independently, while keeping open the possibility of persuading undecided voters to support it.
+
+The letter treats an early dissolution of Parliament and general elections as a serious possibility. It therefore asks local boards to submit, by December 5, recommendations for parliamentary candidates, prioritising constituencies won by Swatantra in 1967 but also considering seats where the party’s previous performance was credible. The enclosed resolution, adopted by the National Executive on November 8, reiterates opposition to improvised or opportunistic coalitions and calls instead for cooperation among nationalist and democratic forces on the basis of an agreed programme.
+
 ## Key points
 
 - The proposed Grand Alliance among Congress(O), the BKD, and the Jan Sangh had failed to materialise.

@@ -52,6 +52,12 @@ summary: |-
   Masani then presents complaints from Life Insurance Corporation agents and employees about bureaucratic management, ignored memoranda, poor communication, and the proposed closure of divisional offices. He argues that centralisation is moving in the opposite direction from the Finance Minister’s stated preference for a decentralised LIC. In the final section, he turns to foreign investment and India’s international image, criticising the cancellation of an Israeli diplomatic reception at the Ashoka Hotel. He says such administrative discourtesy undermines efforts to attract foreign capital and calls for an apology and corrective action.
 ---
 
+## Summary
+
+In this extract from his 16 April 1964 Lok Sabha speech on the Finance Ministry’s demands for grants, M. R. Masani raises three cut motions. He argues that Central Government employees in C-class cities, including his constituency of Rajkot, receive inequitable house-rent and compensatory allowances. Although the population-based classification of cities is defensible, he contends that the ceilings applied to C-class cities create hardship and asks the Finance Minister to reconsider the policy.
+
+Masani then presents complaints from Life Insurance Corporation agents and employees about bureaucratic management, ignored memoranda, poor communication, and the proposed closure of divisional offices. He argues that centralisation is moving in the opposite direction from the Finance Minister’s stated preference for a decentralised LIC. In the final section, he turns to foreign investment and India’s international image, criticising the cancellation of an Israeli diplomatic reception at the Ashoka Hotel. He says such administrative discourtesy undermines efforts to attract foreign capital and calls for an apology and corrective action.
+
 ## Key points
 
 - Masani’s first cut motion addresses grievances over house-rent and compensatory allowances for Central Government employees in C-class cities.

@@ -50,6 +50,12 @@ summary: |-
   The letter then turns to the Jodhpur university episode. Masani calls it shameful, criticizes sociologists who attribute student rowdyism to defects in the university, and argues that academics should protest more actively. He offers to sign a joint letter of protest, comments on dissatisfaction with a Quest special number, and briefly mentions his reading and efforts to understand aspects of British rule.
 ---
 
+## Summary
+
+In this two-page letter dated November 3, 1971, M. R. Masani writes to S. V. Raju about publication arrangements, asking whether Raju has coordinated with Krishnan and R. S. Gae over a cheap edition and the pages to be reproduced. Masani notes that a substantial review is expected in the Sunday Standard and urges precise communication with Gae.
+
+The letter then turns to the Jodhpur university episode. Masani calls it shameful, criticizes sociologists who attribute student rowdyism to defects in the university, and argues that academics should protest more actively. He offers to sign a joint letter of protest, comments on dissatisfaction with a Quest special number, and briefly mentions his reading and efforts to understand aspects of British rule.
+
 ## Key points
 
 - Masani discusses the deadline and arrangements for producing a cheap edition and a foreign edition.

@@ -47,6 +47,12 @@ summary: |-
   He reports that most of the Janata Party candidates chosen to contest in Srikakulam District are financially very weak and cannot 'stand on their legs' without outside support, while neither the central party nor the state unit is positioned to help. Latchanna estimates that with liberal external assistance the party has good chances of winning about fourteen or fifteen of the district's eighteen seats. He requests that any contribution be routed by telegraphic transfer or by draft on the Andhra Bank or the State Bank of India at Sompeta in favour of Smt. Gouthu Yesoda Devi, with the assurance that it will be accounted for on behalf of the Srikakulam District Janata Party.
 ---
 
+## Summary
+
+This single-page typewritten letter, dated 9 February 1978 and sent from a campaign camp in Sompeta, is an urgent fundraising appeal from Gouthu Latchanna — Vice-President of the A. P. State Janata Party and Convener of its State Backward Classes Cell — to Minoo Masani in Bombay. Latchanna apologises for not being able to meet Masani in person, citing the pressures of the ongoing election campaign, and comes straight to his ask.
+
+He reports that most of the Janata Party candidates chosen to contest in Srikakulam District are financially very weak and cannot 'stand on their legs' without outside support, while neither the central party nor the state unit is positioned to help. Latchanna estimates that with liberal external assistance the party has good chances of winning about fourteen or fifteen of the district's eighteen seats. He requests that any contribution be routed by telegraphic transfer or by draft on the Andhra Bank or the State Bank of India at Sompeta in favour of Smt. Gouthu Yesoda Devi, with the assurance that it will be accounted for on behalf of the Srikakulam District Janata Party.
+
 ## Key points
 
 - Letter dated 9-2-1978 sent from a campaign 'Camp: Sompeta' by Gouthu Latchanna, Vice-President of the A. P. State Janata Party and Convener of its State Backward Classes Cell, addressed to Minoo Masani in Bombay.

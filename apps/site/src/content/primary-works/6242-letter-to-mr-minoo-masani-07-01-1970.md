@@ -48,6 +48,12 @@ summary: |-
   The letter concerns the accuracy and circulation of a press-conference transcript. No broader political argument or discussion of press policy appears on the page.
 ---
 
+## Summary
+
+This one-page typed letter, dated January 7, 1970, is headed “MASANI” and addressed to Mr. S. V. Raju in New Delhi. The writer acknowledges receiving a transcript of Raju’s press conference from Jane and asks him to check it against any other copy he may have received, correct it, and send the corrected version back for use. The document is marked “CONFIRMATORY COPY.”
+
+The letter concerns the accuracy and circulation of a press-conference transcript. No broader political argument or discussion of press policy appears on the page.
+
 ## Key points
 
 - The document is a one-page English office letter dated January 7, 1970.

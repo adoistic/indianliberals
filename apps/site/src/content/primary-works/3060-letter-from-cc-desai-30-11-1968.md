@@ -53,6 +53,10 @@ summary: |-
   This eight-page English-language archival packet brings together a Swatantra Party Parliamentary Office letter dated November 30, 1968, its audited accounts for the year ending March 31, 1968, and related Central Parliamentary Board correspondence from November 7, 8, and 25. C. C. Desai’s covering letter says the accounts were audited and properly maintained, while acknowledging that the party office sought only a simple statement of receipts, expenditure, and profit and loss rather than company-style accounts. The attached statements record income of Rs. 36,157.50 and expenditure of the same amount, with major expenditure on salaries, rent, books and periodicals, stationery and printing, and postage.
 ---
 
+## Summary
+
+This eight-page English-language archival packet brings together a Swatantra Party Parliamentary Office letter dated November 30, 1968, its audited accounts for the year ending March 31, 1968, and related Central Parliamentary Board correspondence from November 7, 8, and 25. C. C. Desai’s covering letter says the accounts were audited and properly maintained, while acknowledging that the party office sought only a simple statement of receipts, expenditure, and profit and loss rather than company-style accounts. The attached statements record income of Rs. 36,157.50 and expenditure of the same amount, with major expenditure on salaries, rent, books and periodicals, stationery and printing, and postage.
+
 ## Key points
 
 - The packet opens with C. C. Desai’s November 30, 1968 letter enclosing audited statements for the Swatantra Party Parliamentary Office.

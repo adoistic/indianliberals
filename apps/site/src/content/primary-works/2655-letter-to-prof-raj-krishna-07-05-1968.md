@@ -43,6 +43,10 @@ summary: |-
   In this typed letter dated 7 May 1968, M. R. Masani writes from New Delhi to Professor Raj Krishna of the University of Rajasthan, Jaipur. Masani explains that he has only just received Krishna’s 5 May letter and is leaving for Europe the following morning. Masani forwards Krishna’s letter to R. N. Singh Deo, the Chief Minister of Orissa, leaving it to him to decide whether he would still welcome Krishna’s proposed visit to Orissa on the lines they had previously discussed. The brief correspondence closes with Masani’s assurance that Krishna will hear from Singh Deo in due course.
 ---
 
+## Summary
+
+In this typed letter dated 7 May 1968, M. R. Masani writes from New Delhi to Professor Raj Krishna of the University of Rajasthan, Jaipur. Masani explains that he has only just received Krishna’s 5 May letter and is leaving for Europe the following morning. Masani forwards Krishna’s letter to R. N. Singh Deo, the Chief Minister of Orissa, leaving it to him to decide whether he would still welcome Krishna’s proposed visit to Orissa on the lines they had previously discussed. The brief correspondence closes with Masani’s assurance that Krishna will hear from Singh Deo in due course.
+
 ## Key points
 
 - The letter is dated 7 May 1968 and was sent from 2, Tugh lak Road, New Delhi. M. R. Masani addresses Professor Raj Krishna, an economics professor at the University of Rajasthan, Jaipur. Masani had just received Krishna’s letter of 5 May. Masani says he is leaving for Europe the next morning. He forwards Krishna’s letter to R. N. Singh Deo, Chief Minister of Orissa. Singh Deo is left to decide whether he still wishes to receive Krishna for the proposed Orissa visit.

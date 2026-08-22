@@ -51,6 +51,12 @@ summary: |-
   Mody argues that the Forum should encourage the new coalition and suggests that Rajagopalachari write personally to the party, offering congratulations and his blessing. He proposes that the letter be addressed to Dr. Alvaro de Loyola Furtado of United Goa, Margao, and closes by inviting Rajagopalachari's comments on the suggestion.
 ---
 
+## Summary
+
+In this letter dated 18 September 1963, Piloo Mody writes to C. Rajagopalachari about the formation of a united opposition front against the Congress in Goa. He lists five participating parties—the Goa National Union, Partido Indiano, United Front of Goa, Gonche Paksh, and the Democratic Party—and says that the parties appear broadly aligned on the major issues of statehood, cleanliness in public life, and efficient government. Mody notes that the Indian political parties attempting to organise in Goa have so far joined the United Goa movement, while the PSP, Socialists, and Communists remain outside it.
+
+Mody argues that the Forum should encourage the new coalition and suggests that Rajagopalachari write personally to the party, offering congratulations and his blessing. He proposes that the letter be addressed to Dr. Alvaro de Loyola Furtado of United Goa, Margao, and closes by inviting Rajagopalachari's comments on the suggestion.
+
 ## Key points
 
 - Mody reports that five opposition parties in Goa have united against the Congress.

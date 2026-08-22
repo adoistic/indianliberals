@@ -49,6 +49,10 @@ summary: |-
   In this 19 April 1963 letter, M. R. Masani urges N. G. Ranga to attend the Parliamentary Board meeting in Madras, where his presence is described as essential to reaching a decision on the Rajkot by-election. Masani also reports that the organisational question concerning Bihar has already been implemented following a sub-committee decision taken at Bharatiya Vidya Bhavan, and therefore should not be reopened. He notes that the Official Languages Bill may reach the Lok Sabha before the Madras meeting concludes, limiting the practical value of any decision taken there.
 ---
 
+## Summary
+
+In this 19 April 1963 letter, M. R. Masani urges N. G. Ranga to attend the Parliamentary Board meeting in Madras, where his presence is described as essential to reaching a decision on the Rajkot by-election. Masani also reports that the organisational question concerning Bihar has already been implemented following a sub-committee decision taken at Bharatiya Vidya Bhavan, and therefore should not be reopened. He notes that the Official Languages Bill may reach the Lok Sabha before the Madras meeting concludes, limiting the practical value of any decision taken there.
+
 ## Key points
 
 - Masani asks Ranga to reach Madras by 23 April for the Parliamentary Board meeting and to ensure that Dahyabhai attends.

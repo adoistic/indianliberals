@@ -48,6 +48,10 @@ summary: |-
   This one-page letter, dated 18 September 1962 and signed by A. P. Jain as Secretary of the Swatantra Party Parliamentary Office, reports what the author presents as discriminatory treatment of a Swatantra Party statement on the recent NEFA situation. Jain says that the Press Trust of India, United News of India, and Express News Service requested a statement; Sardar Kapur Singh, M.P., circulated one to the agencies, while PSP member Shri Hem Barua issued another in his own name. Jain states that Delhi's daily press, except The Statesman, blacked out the Swatantra Party statement while publishing Barua's and another PSP member's statement.
 ---
 
+## Summary
+
+This one-page letter, dated 18 September 1962 and signed by A. P. Jain as Secretary of the Swatantra Party Parliamentary Office, reports what the author presents as discriminatory treatment of a Swatantra Party statement on the recent NEFA situation. Jain says that the Press Trust of India, United News of India, and Express News Service requested a statement; Sardar Kapur Singh, M.P., circulated one to the agencies, while PSP member Shri Hem Barua issued another in his own name. Jain states that Delhi's daily press, except The Statesman, blacked out the Swatantra Party statement while publishing Barua's and another PSP member's statement.
+
 ## Key points
 
 - The letter concerns press treatment of statements about the recent NEFA situation.

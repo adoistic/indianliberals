@@ -49,6 +49,12 @@ summary: |-
   The letter also reports an emerging disagreement over the forthcoming Lucknow municipal elections. One group favours putting up candidates, while another opposes doing so; S. K. D. Paliwal is identified as one opponent, while Raja Mankapur and others support the proposal. The letter closes with personal greetings to Modi and the residents of “Spiroserpo.” The printed letterhead identifies the sender as F. F. Jehangir, while the handwritten signature appears to read “Kanga,” leaving the authorship discrepancy unresolved.
 ---
 
+## Summary
+
+This two-page typed letter, dated September 10, 1959, is addressed to Homi Modi and concerns the sender's involvement in the newly formed party's Lucknow organisation. The writer apologises for missing a planned meeting, offers birthday greetings, and explains that party sub-committees have been established for Lucknow, the Cantonment, and the Countryside. The writer has been placed on one of these committees but is seeking clarification from management about whether prior approval is required before serving actively.
+
+The letter also reports an emerging disagreement over the forthcoming Lucknow municipal elections. One group favours putting up candidates, while another opposes doing so; S. K. D. Paliwal is identified as one opponent, while Raja Mankapur and others support the proposal. The letter closes with personal greetings to Modi and the residents of “Spiroserpo.” The printed letterhead identifies the sender as F. F. Jehangir, while the handwritten signature appears to read “Kanga,” leaving the authorship discrepancy unresolved.
+
 ## Key points
 
 - The letter is dated September 10, 1959, and is addressed to Homi Modi.

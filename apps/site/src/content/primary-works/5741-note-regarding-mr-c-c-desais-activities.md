@@ -54,6 +54,12 @@ summary: |-
   The report also records alleged indiscipline in Parliament and Gujarat, including Desai’s support for a censure motion contrary to the Party’s parliamentary group, work against the official Swatantra nominee in the 1968 Rajya Sabha election, and statements about supporting an alternative government in Gujarat. The final section characterizes his press interventions as misrepresenting the Party’s position and notes that the Central Parliamentary Board reprimanded him and excluded him from speaking for the Party on the Monopolies Bill. The memorandum is evaluative and accusatory in tone; no author, issuer, date, or formal publication details are visible.
 ---
 
+## Summary
+
+This strictly confidential memorandum presents an internal Swatantra Party case against Mr. C.C. Desai, arguing that his parliamentary conduct, public statements, and policy positions repeatedly departed from party decisions after his election in March 1967. The memorandum opens by contrasting Desai’s advocacy of a free economy and the removal of permit-licence controls with what it describes as the Party’s support for its 21st Principle and associated regulation. It then documents his opposition to the Party line on the managing agency system, the Monopolies and Restrictive Trade Practices Bill, planning restrictions, and ceilings on managerial remuneration.
+
+The report also records alleged indiscipline in Parliament and Gujarat, including Desai’s support for a censure motion contrary to the Party’s parliamentary group, work against the official Swatantra nominee in the 1968 Rajya Sabha election, and statements about supporting an alternative government in Gujarat. The final section characterizes his press interventions as misrepresenting the Party’s position and notes that the Central Parliamentary Board reprimanded him and excluded him from speaking for the Party on the Monopolies Bill. The memorandum is evaluative and accusatory in tone; no author, issuer, date, or formal publication details are visible.
+
 ## Key points
 
 - The memorandum argues that C.C. Desai repeatedly breached Swatantra Party discipline in Parliament and outside it.

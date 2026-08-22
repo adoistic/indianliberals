@@ -47,6 +47,10 @@ summary: |-
   In this one-page English letter dated 23 October 195[illegible], M. R. Masani replies to Mr. N. Parthasarathy and thanks him for an invitation. Masani explains that he will only be passing briefly through Madras on the 31st and will leave for Tanjore that same evening.
 ---
 
+## Summary
+
+In this one-page English letter dated 23 October 195[illegible], M. R. Masani replies to Mr. N. Parthasarathy and thanks him for an invitation. Masani explains that he will only be passing briefly through Madras on the 31st and will leave for Tanjore that same evening.
+
 ## Key points
 
 - M. R. Masani acknowledges receiving Parthasarathy's letter of 18 October.

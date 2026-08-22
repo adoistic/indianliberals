@@ -45,6 +45,12 @@ summary: |-
   Wadia warmly rejects Masani's thanks, saying that the hospitality offered was no more than a pleasure. He expresses regret that Masani cannot visit Rajkot regularly and invites him to treat the Wadia residence as his own home, ideally for a day or two each month, or at least every two months. The letter closes with an affectionate handwritten signature.
 ---
 
+## Summary
+
+This one-page personal letter was sent by F. P. Wadia from Shalimar, Race Course Road, Rajkot, to Minoo Masani on 25 March 1971. Wadia acknowledges Masani's letter of 15 March and apologizes for the delayed reply.
+
+Wadia warmly rejects Masani's thanks, saying that the hospitality offered was no more than a pleasure. He expresses regret that Masani cannot visit Rajkot regularly and invites him to treat the Wadia residence as his own home, ideally for a day or two each month, or at least every two months. The letter closes with an affectionate handwritten signature.
+
 ## Key points
 
 - The letter is dated 25 March 1971 and was sent from Rajkot.

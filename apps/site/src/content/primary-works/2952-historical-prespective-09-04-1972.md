@@ -54,6 +54,10 @@ summary: |-
   These five pages are undated handwritten working notes, apparently prepared in connection with a Swatantra Party General Council meeting in April 1972. They begin with a proposed historical perspective on the party, including references to de Gaulle, Abraham Lincoln, and the idea that “the politician plays the fool.” The notes then turn to the party’s political position, electoral prospects, leadership, and the difficulty of confronting what the writer describes as a “danger of false claims and fabrication.”
 ---
 
+## Summary
+
+These five pages are undated handwritten working notes, apparently prepared in connection with a Swatantra Party General Council meeting in April 1972. They begin with a proposed historical perspective on the party, including references to de Gaulle, Abraham Lincoln, and the idea that “the politician plays the fool.” The notes then turn to the party’s political position, electoral prospects, leadership, and the difficulty of confronting what the writer describes as a “danger of false claims and fabrication.”
+
 ## Key points
 
 - The notes propose presenting the Swatantra Party through a historical perspective rather than only as a contemporary political formation.

@@ -47,6 +47,12 @@ summary: |-
   The writer describes Desai as brave, energetic, and optimistic, saying that the encounter lifted their spirits and replaced pessimism with hope. The page does not identify the sender, recipient, date, title, or publication context.
 ---
 
+## Summary
+
+This single-page letter, written from Madras, reports a visit from Shri Morarji Desai. The writer notes that Desai has given a day to Madras and spent half an hour with them after the city had received welcome showers.
+
+The writer describes Desai as brave, energetic, and optimistic, saying that the encounter lifted their spirits and replaced pessimism with hope. The page does not identify the sender, recipient, date, title, or publication context.
+
 ## Key points
 
 - The writer is writing from Madras.

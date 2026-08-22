@@ -48,6 +48,12 @@ summary: |-
   The sender is identified as “DURGA JOSHI SECY STRINIKETAN GONDAL.” The telegram form is issued by the Indian Posts and Telegraphs Department, but the date field is not legible or completed. No separate title, publication year, or formal author byline is visible.
 ---
 
+## Summary
+
+This one-page English telegram, sent from Gondal to Minoo Masani in Bombay, consists of a blunt political reaction to Masani's defeat: “YOUR DEFEAT HAS DESTROYED DEMOCRACY.” The message frames the electoral outcome as a threat to democratic constitutionalism rather than merely a personal or party-political setback.
+
+The sender is identified as “DURGA JOSHI SECY STRINIKETAN GONDAL.” The telegram form is issued by the Indian Posts and Telegraphs Department, but the date field is not legible or completed. No separate title, publication year, or formal author byline is visible.
+
 ## Key points
 
 - The document is a one-page telegram from Gondal to Minoo Masani in Bombay.

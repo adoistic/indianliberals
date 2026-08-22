@@ -46,6 +46,10 @@ summary: |-
   In this one-page letter dated 12 June 1968, M. R. Masani replies to A. P. Jain concerning Rajaji's views on moving closer to the B.K.D. Masani says that he does not know Rajaji's position on the matter. He nevertheless expresses confidence that, if B. P. Singh took steps in that direction, he would have done so with Rajaji's approval.
 ---
 
+## Summary
+
+In this one-page letter dated 12 June 1968, M. R. Masani replies to A. P. Jain concerning Rajaji's views on moving closer to the B.K.D. Masani says that he does not know Rajaji's position on the matter. He nevertheless expresses confidence that, if B. P. Singh took steps in that direction, he would have done so with Rajaji's approval.
+
 ## Key points
 
 - The letter is dated 12 June 1968 and is addressed to A. P. Jain.

@@ -50,6 +50,12 @@ summary: |-
   The attached announcement, dated January 5, 1971, explains that the dissolution of Parliament and the forthcoming elections led the party to defer its Bombay convention until after the elections. It states that the postponement was intended to allow party workers to concentrate on work in their constituencies. The letter is signed by R. C. Cooper as General Secretary, while the press announcement is signed by S. V. Raju as Executive Secretary.
 ---
 
+## Summary
+
+This two-page Swatantra Party office communication, dated January 6, 1971, informs party members that the Sixth National Convention, scheduled for January 30–31, has been postponed because of the impending Lok Sabha and State Assembly elections. The letter, identified as General Secretary’s Letter No. 257, refers readers to an enclosed press announcement.
+
+The attached announcement, dated January 5, 1971, explains that the dissolution of Parliament and the forthcoming elections led the party to defer its Bombay convention until after the elections. It states that the postponement was intended to allow party workers to concentrate on work in their constituencies. The letter is signed by R. C. Cooper as General Secretary, while the press announcement is signed by S. V. Raju as Executive Secretary.
+
 ## Key points
 
 - The document is General Secretary’s Letter No. 257 from the Swatantra Party national headquarters.

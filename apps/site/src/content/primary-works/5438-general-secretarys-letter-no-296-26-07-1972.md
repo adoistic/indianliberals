@@ -55,6 +55,12 @@ summary: |-
   The letter also calls for organised kisan activity at the state level, including a properly planned campaign on land-ceiling legislation. It proposes coordination among state-level kisan organisations, the Farmers' Federation of India, and the Swatantra Party's national headquarters, with regular reports on campaign progress and comments on the federation's objectives and draft constitution. The page includes handwritten annotations and signatures, but their full contents are not consistently legible.
 ---
 
+## Summary
+
+This one-page English office letter from the Swatantra Party national headquarters, dated July 28, 1972, asks party contacts to support the proposed Farmers' Federation of India convention to be held in Bangalore on October 1. Madhav Mehta encloses the proposed objectives, draft constitution, and a booklet titled "Rural Land Reforms" by N. K. Ganapaiah, identified as the federation's convenor, and requests that these materials be discussed by former farmer members of the party.
+
+The letter also calls for organised kisan activity at the state level, including a properly planned campaign on land-ceiling legislation. It proposes coordination among state-level kisan organisations, the Farmers' Federation of India, and the Swatantra Party's national headquarters, with regular reports on campaign progress and comments on the federation's objectives and draft constitution. The page includes handwritten annotations and signatures, but their full contents are not consistently legible.
+
 ## Key points
 
 - The proposed Farmers' Federation of India is to hold a convention in Bangalore on October 1.

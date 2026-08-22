@@ -55,6 +55,12 @@ summary: |-
   The document also proposes substantial electoral oversight. The Lokpal would monitor election expenses incurred by candidates, political parties, and other organisations; invalidate elections when expenses were concealed or exceeded prescribed limits; prevent the ruling Congress Party from using mass media to promote its image; and prohibit political parties or candidates from using administrative machinery to influence voters. It urges states with existing Lokayuktas to confer comparable powers on them, and calls for independent agencies with these powers in states and territories where such bodies did not yet exist. The meetings were to be held before 3 November 1974, with the Bihar meeting scheduled for that date.
 ---
 
+## Summary
+
+This one-page document calls for mass meetings in the capitals of all Indian states and Union territories to nominate Jayaprakash Narayan as India’s first Lokpal. It outlines a broad anti-maladministration mandate: the Lokpal would address both specific and general grievances concerning public administration and would help citizens obtain information, make suggestions and complaints, and secure replies and redress from the authorities concerned.
+
+The document also proposes substantial electoral oversight. The Lokpal would monitor election expenses incurred by candidates, political parties, and other organisations; invalidate elections when expenses were concealed or exceeded prescribed limits; prevent the ruling Congress Party from using mass media to promote its image; and prohibit political parties or candidates from using administrative machinery to influence voters. It urges states with existing Lokayuktas to confer comparable powers on them, and calls for independent agencies with these powers in states and territories where such bodies did not yet exist. The meetings were to be held before 3 November 1974, with the Bihar meeting scheduled for that date.
+
 ## Key points
 
 - The document proposes nominating Jayaprakash Narayan as India’s first Lokpal.

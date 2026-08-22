@@ -48,6 +48,12 @@ summary: |-
   The proposed document is presented as both an internal record and an outward-facing resource: Somani argues that it would answer enquiries about the party’s role in the legislature and could be mailed to a large number of friends and well-wishers. He asks Masani to advance the project during his next visit to Delhi.
 ---
 
+## Summary
+
+This single-page letter, dated August 8, 1970, is from N. K. Somani, M.P., to M. R. Masani (addressed as “Minoo”). Somani recalls an informal decision that the Swatantra Party should prepare a compendium or summary of work undertaken by its Members of Parliament in the Lok Sabha, Consultative Committees, Select Committees, and other capacities.
+
+The proposed document is presented as both an internal record and an outward-facing resource: Somani argues that it would answer enquiries about the party’s role in the legislature and could be mailed to a large number of friends and well-wishers. He asks Masani to advance the project during his next visit to Delhi.
+
 ## Key points
 
 - Somani writes to M. R. Masani about an earlier informal decision concerning a Swatantra Party publication.

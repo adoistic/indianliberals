@@ -51,6 +51,12 @@ summary: |-
   The report says Pal described Masani, a former Swatantra Party leader, as having called Left members “howling hooligans” and made other objectionable remarks. The objections were supported by several legislators, while opposition leader L. K. Advani argued that parliamentary privilege should not be used to ignore statements made outside their original context. Atal Bihari Vajpayee also recalled that Masani had once been a member of the house and urged adherence to parliamentary norms. The clipping is mounted on an archival sheet handwritten “18/3/1992”; the clipping itself does not print a year.
 ---
 
+## Summary
+
+This single-page Times of India News Service report, datelined New Delhi, March 17, records objections by Left Front legislators to remarks attributed to Minoo Masani in a newspaper article. The members said Masani’s comments amounted to contempt of the West Bengal Assembly and demanded that the matter be treated as a breach of privilege; Roopchand Pal (CPM) raised the issue during zero hour.
+
+The report says Pal described Masani, a former Swatantra Party leader, as having called Left members “howling hooligans” and made other objectionable remarks. The objections were supported by several legislators, while opposition leader L. K. Advani argued that parliamentary privilege should not be used to ignore statements made outside their original context. Atal Bihari Vajpayee also recalled that Masani had once been a member of the house and urged adherence to parliamentary norms. The clipping is mounted on an archival sheet handwritten “18/3/1992”; the clipping itself does not print a year.
+
 ## Key points
 
 - Left Front legislators objected to remarks attributed to Minoo Masani in a newspaper article.

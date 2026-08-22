@@ -46,6 +46,12 @@ summary: |-
   The message conveys regret at being unable to attend and sends best wishes for success. The page identifies the communication as having been sent by phonogram, with a confirmation copy subsequently sent by ordinary post. No subject line, salutation, or further explanation is provided.
 ---
 
+## Summary
+
+This one-page English office communication, dated 27 November 1959, is issued under the name “MASANI” from 40 Canning Lane, New Delhi 1. It is addressed to Sundaram, with “LAKSEMI” and “COIMBATORE” appearing in the recipient block.
+
+The message conveys regret at being unable to attend and sends best wishes for success. The page identifies the communication as having been sent by phonogram, with a confirmation copy subsequently sent by ordinary post. No subject line, salutation, or further explanation is provided.
+
 ## Key points
 
 - The document is a one-page English office communication dated 27 November 1959.

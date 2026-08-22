@@ -50,6 +50,12 @@ summary: |-
   The attached “NOTE ON PROPOSED WEEKLY” sets out a preliminary business plan. Munshi proposes a publishing unit able to issue journals, pamphlets, and books; suggests issued capital of Rs. 5 lakhs and paid-up capital of Rs. 1 lakh; estimates initial monthly expenses at about Rs. 10,000; and stresses the need to secure advertising contracts. The note also records the proposed weekly’s immediate focus on an English publication, with possible expansion into books and brochures. The letter additionally reports delays in Gujarat, the loss of independent newspapers in Ahmedabad, and the possibility of supporting the financially weak independent daily Nava Gujarat.
 ---
 
+## Summary
+
+In this letter of October 24, 1959, K. M. Munshi writes to A. D. Shroff about the proposed launch of a weekly journal. After further discussions, Munshi argues against naming the company and journal after the Swatantra Party, warning that a formally partisan publication would have limited public appeal, difficulty attracting advertisers, and would lose the goodwill and publicity then being provided by other newspapers. He recommends instead that the publishing company and journal have general, independent names while the journal’s basic policy remains supportive of the Party.
+
+The attached “NOTE ON PROPOSED WEEKLY” sets out a preliminary business plan. Munshi proposes a publishing unit able to issue journals, pamphlets, and books; suggests issued capital of Rs. 5 lakhs and paid-up capital of Rs. 1 lakh; estimates initial monthly expenses at about Rs. 10,000; and stresses the need to secure advertising contracts. The note also records the proposed weekly’s immediate focus on an English publication, with possible expansion into books and brochures. The letter additionally reports delays in Gujarat, the loss of independent newspapers in Ahmedabad, and the possibility of supporting the financially weak independent daily Nava Gujarat.
+
 ## Key points
 
 - Munshi reconsiders the proposal to make the new journal an overt Swatantra Party organ.

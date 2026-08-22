@@ -44,6 +44,10 @@ summary: |-
   This letter, dated 17 September 1959, is addressed to the Principal of May Jivan Inter College in Farrukhnagar, Meerut. B.S. Mirza, identified as secretary to M.R. Masani, explains that Masani has left for continental Europe and the United Kingdom and would be glad to meet the recipient in Delhi during the October–November parliamentary session.
 ---
 
+## Summary
+
+This letter, dated 17 September 1959, is addressed to the Principal of May Jivan Inter College in Farrukhnagar, Meerut. B.S. Mirza, identified as secretary to M.R. Masani, explains that Masani has left for continental Europe and the United Kingdom and would be glad to meet the recipient in Delhi during the October–November parliamentary session.
+
 ## Key points
 
 - The letter is dated 17 September 1959 and addressed to the Principal of May Jivan Inter College.

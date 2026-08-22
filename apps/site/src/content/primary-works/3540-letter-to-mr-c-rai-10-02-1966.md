@@ -50,6 +50,12 @@ summary: |-
   The schedules record direct contributions totaling Rs. 23,58,000 and advertising revenue totaling Rs. 2,95,800, for an overall total of Rs. 26,53,800. The donor list is dominated by companies, including Tata Group of Companies, Associated Cement Companies, Indian Iron & Steel Co., and numerous manufacturing, textile, engineering, insurance, banking, and trading firms. The advertising schedule likewise lists companies that purchased full-page, fractional-page, multi-page, or cover advertising in the souvenir. The pages provide a financial record of Swatantra Party election funding, but do not include correspondence about the donors, the purpose of the expenditure, or any subsequent accounting.
 ---
 
+## Summary
+
+This three-page confidential letter, dated 10 February 1966, is from S. V. Raju to C. Rai, the Honorary Treasurer in Bombay, and is addressed to a request from General Secretary M. R. Masani. It encloses two copies of a list of donations made to the Swatantra Party for the 1962 general election. The accompanying schedules divide the receipts into direct contributions and advertising revenue from the 1961 Swatantra Souvenir.
+
+The schedules record direct contributions totaling Rs. 23,58,000 and advertising revenue totaling Rs. 2,95,800, for an overall total of Rs. 26,53,800. The donor list is dominated by companies, including Tata Group of Companies, Associated Cement Companies, Indian Iron & Steel Co., and numerous manufacturing, textile, engineering, insurance, banking, and trading firms. The advertising schedule likewise lists companies that purchased full-page, fractional-page, multi-page, or cover advertising in the souvenir. The pages provide a financial record of Swatantra Party election funding, but do not include correspondence about the donors, the purpose of the expenditure, or any subsequent accounting.
+
 ## Key points
 
 - The letter is dated 10 February 1966 and is marked strictly confidential.

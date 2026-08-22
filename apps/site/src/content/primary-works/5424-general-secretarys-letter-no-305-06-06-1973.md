@@ -52,6 +52,10 @@ summary: |-
   This 6 June 1973 administrative letter from the Swatantra Party's national headquarters sets out the procedure and timetable for the party's fifth internal election. Signed by General Secretary Madhu Mehta, it fixes 31 August 1973 as the last date for enrolment for election purposes while clarifying that enrolment remains a continuous process and that members enrolled by that date may vote or stand for elective office. The schedule then moves from membership certification in September, through primary, district, state, regional, and national elections, to the election of national office-bearers in the second half of October.
 ---
 
+## Summary
+
+This 6 June 1973 administrative letter from the Swatantra Party's national headquarters sets out the procedure and timetable for the party's fifth internal election. Signed by General Secretary Madhu Mehta, it fixes 31 August 1973 as the last date for enrolment for election purposes while clarifying that enrolment remains a continuous process and that members enrolled by that date may vote or stand for elective office. The schedule then moves from membership certification in September, through primary, district, state, regional, and national elections, to the election of national office-bearers in the second half of October.
+
 ## Key points
 
 - The document is General Secretary's Letter No. 305, dated 6 June 1973, concerning the Swatantra Party's fifth party election.

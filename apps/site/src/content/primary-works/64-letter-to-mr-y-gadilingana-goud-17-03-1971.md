@@ -46,6 +46,10 @@ summary: |-
   This one-page English letter, dated 17 March 1971, is addressed by H. R. Masani to Y. Gadilingana Goud. Masani thanks Goud for an earlier letter written before the results and the resulting “massacre,” apparently referring to an unsuccessful political campaign or election. He expresses regret that their efforts produced little, while reassuring Goud that he had done everything properly and should have a clear conscience.
 ---
 
+## Summary
+
+This one-page English letter, dated 17 March 1971, is addressed by H. R. Masani to Y. Gadilingana Goud. Masani thanks Goud for an earlier letter written before the results and the resulting “massacre,” apparently referring to an unsuccessful political campaign or election. He expresses regret that their efforts produced little, while reassuring Goud that he had done everything properly and should have a clear conscience.
+
 ## Key points
 
 - The letter is dated 17 March 1971 and signed by H. R. Masani.

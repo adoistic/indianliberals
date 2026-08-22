@@ -54,6 +54,12 @@ summary: |-
   Raju argues that the Swatantra Party is being destroyed not because its policies have failed, but because of the conduct and ambitions of its leaders. He attacks Piloo Mody and M. N. A. [?]ersey as opportunists whose motives are power rather than ideology, questions whether the proposed “Kichda” coalition would perform better than the previously denounced SVDs, and doubts that the coalition represents a genuine national alternative. He closes by defending the continued existence of the Swatantra Party, invoking C. Rajagopalachari’s integrity and expressing the conviction that the party’s distinctive policies alone offer hope to India’s “unfortunate people.”
 ---
 
+## Summary
+
+In this three-page letter dated July 25, 1974, S. V. Raju writes to N. Dandekar out of “anguish” after reading Dandekar’s letter to Minoo Masani. Raju recalls Dandekar’s earlier belief that the Swatantra Party might be condemned to permanent opposition, but also his view that this could be a useful political role, and contrasts that position with Dandekar’s current support for efforts to reorganise or dissolve the party.
+
+Raju argues that the Swatantra Party is being destroyed not because its policies have failed, but because of the conduct and ambitions of its leaders. He attacks Piloo Mody and M. N. A. [?]ersey as opportunists whose motives are power rather than ideology, questions whether the proposed “Kichda” coalition would perform better than the previously denounced SVDs, and doubts that the coalition represents a genuine national alternative. He closes by defending the continued existence of the Swatantra Party, invoking C. Rajagopalachari’s integrity and expressing the conviction that the party’s distinctive policies alone offer hope to India’s “unfortunate people.”
+
 ## Key points
 
 - Raju explains that he is replying to Dandekar from anguish over the threatened destruction of the Swatantra Party.

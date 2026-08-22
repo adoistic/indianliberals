@@ -52,6 +52,12 @@ summary: |-
   M. R. Masani’s letter to Rajagopalachari records the arguments advanced by Dandekar and others against Desai’s proposal. These include the claims that reservations had not benefited the intended classes, had created a further point of corruption and retarded national integration, would make the party appear opportunistic, and might cost Harijan or tribal votes in the 1972 elections. Masani notes that there was a majority of sorts for Desai’s proposal at the earlier discussion, but no consensus. The letters also mention Rajagopalachari’s forthcoming visit to Delhi, his planned parliamentary budget speech, and an enclosed copy of Masani’s Rajaji birthday lecture.
 ---
 
+## Summary
+
+This two-page correspondence, dated 5 March 1969, concerns whether reservations for Scheduled Castes should continue beyond 1970. C. Rajagopalachari writes to C. C. Desai that he was the author of the original reservation arrangement and now supports terminating it, arguing that three decades have produced no expected benefit and that the arrangement has become futile. He explicitly differs from Desai’s request to continue the system.
+
+M. R. Masani’s letter to Rajagopalachari records the arguments advanced by Dandekar and others against Desai’s proposal. These include the claims that reservations had not benefited the intended classes, had created a further point of corruption and retarded national integration, would make the party appear opportunistic, and might cost Harijan or tribal votes in the 1972 elections. Masani notes that there was a majority of sorts for Desai’s proposal at the earlier discussion, but no consensus. The letters also mention Rajagopalachari’s forthcoming visit to Delhi, his planned parliamentary budget speech, and an enclosed copy of Masani’s Rajaji birthday lecture.
+
 ## Key points
 
 - Rajagopalachari opposes continuing reservations for Scheduled Castes beyond 1970.

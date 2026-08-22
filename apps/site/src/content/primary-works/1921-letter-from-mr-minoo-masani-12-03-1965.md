@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated March 12, 1965, is written by M. R. Masani from 57 Lodhi Estate, New Delhi, to Mr. Ramanan, Under Secretary at the Lok Sabha Secretariat. Masani proposes a minor correction to the minutes of the fourth meeting of the Jawaharlal Nehru Portrait Parliamentary Committee. He argues that paragraph 3 should accurately record M. R. Masani's statement that members of his party would be asked to contribute the specified amount individually.
 ---
 
+## Summary
+
+This one-page letter, dated March 12, 1965, is written by M. R. Masani from 57 Lodhi Estate, New Delhi, to Mr. Ramanan, Under Secretary at the Lok Sabha Secretariat. Masani proposes a minor correction to the minutes of the fourth meeting of the Jawaharlal Nehru Portrait Parliamentary Committee. He argues that paragraph 3 should accurately record M. R. Masani's statement that members of his party would be asked to contribute the specified amount individually.
+
 ## Key points
 
 - The document is a typed office letter dated March 12, 1965.

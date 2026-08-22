@@ -52,6 +52,12 @@ summary: |-
   Signed by M. R. Masani in his capacity as General Secretary, the notice lists two attached papers for discussion: an appeal to the General Council from some Swatantra Party members in Bihar, and the General Secretary's comments on that appeal, prepared at the direction of the Organisation Sub-Committee. The page records the party's internal organising and appeals process but does not include the attached papers themselves.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated January 31, 1963, informs party members that the Central Organising Committee will meet on Saturday, February 9, 1963, at 10 a.m. at Sir Homi Mody's residence in Bombay. It asks recipients to make every effort to attend and to provide details of their arrival and accommodation in Bombay. The circular also notes that lunch will be hosted by Piloo Mody at the meeting venue.
+
+Signed by M. R. Masani in his capacity as General Secretary, the notice lists two attached papers for discussion: an appeal to the General Council from some Swatantra Party members in Bihar, and the General Secretary's comments on that appeal, prepared at the direction of the Organisation Sub-Committee. The page records the party's internal organising and appeals process but does not include the attached papers themselves.
+
 ## Key points
 
 - The Central Organising Committee meeting is scheduled for February 9, 1963, at 10 a.m. in Bombay.

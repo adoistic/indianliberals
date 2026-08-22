@@ -52,6 +52,12 @@ summary: |-
   Masani corrects what he describes as a misquotation of Narayan in The Times of India. He distinguishes the present electoral system as a single non-transferable vote, rather than a single transferable vote, and argues that the central problem is the single-member constituency. He favours concentrating criticism and reform efforts on that institutional feature, while enclosing the newspaper clipping separately.
 ---
 
+## Summary
+
+In this letter dated June 10, 1975, Minoo Masani sends Jayaprakash Narayan copies of two lectures, titled "The Constitution Twenty Five Years Later," delivered at Bangalore University on April 3 and again earlier that year. Masani directs Narayan to passages discussing the Emergency, the dismissal of the Cabinet and dissolution of the legislature, and proposed electoral reform. He also notes that the lectures may be relevant to Narayan's public interventions on these subjects.
+
+Masani corrects what he describes as a misquotation of Narayan in The Times of India. He distinguishes the present electoral system as a single non-transferable vote, rather than a single transferable vote, and argues that the central problem is the single-member constituency. He favours concentrating criticism and reform efforts on that institutional feature, while enclosing the newspaper clipping separately.
+
 ## Key points
 
 - Masani sends Jayaprakash Narayan copies of his Bangalore University lectures, "The Constitution Twenty Five Years Later."

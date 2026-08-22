@@ -53,6 +53,12 @@ summary: |-
   The press commentary is broadly critical of the emerging alliance’s lack of a shared political programme. The Statesman and Hindustan Times present M. R. Masani’s objections as principled and potentially justified, while The Indian Express and the Financial Express stress the front’s negative, anti-Congress character, internal rivalries, and uncertain durability. The clippings also discuss the possibility of Swatantra joining later, the role of C. Rajagopalachari and Atal Bihari Vajpayee, and the danger that voters would not support an alliance unable to state clearly what alternative government it offered. The dossier does not identify an author, publisher, or formal title.
 ---
 
+## Summary
+
+This six-page archival dossier, headed by a handwritten “National” and archival number 3441, assembles a note and newspaper extracts from January 1971 on negotiations among the Congress (O), Jana Sangh, Samyukta Socialist Party (SSP), and Swatantra Party. The extracts focus on the formation of an opposition electoral front intended to challenge Indira Gandhi’s Congress, and on the disagreement over whether the arrangement should rest on a common minimum programme or merely on seat adjustments.
+
+The press commentary is broadly critical of the emerging alliance’s lack of a shared political programme. The Statesman and Hindustan Times present M. R. Masani’s objections as principled and potentially justified, while The Indian Express and the Financial Express stress the front’s negative, anti-Congress character, internal rivalries, and uncertain durability. The clippings also discuss the possibility of Swatantra joining later, the role of C. Rajagopalachari and Atal Bihari Vajpayee, and the danger that voters would not support an alliance unable to state clearly what alternative government it offered. The dossier does not identify an author, publisher, or formal title.
+
 ## Key points
 
 - The dossier records national-press reactions to the January 1971 formation of an opposition electoral front.

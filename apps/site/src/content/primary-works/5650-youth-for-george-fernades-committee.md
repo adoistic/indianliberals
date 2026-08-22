@@ -58,6 +58,12 @@ summary: |-
   The attached affidavit by Dr. Girija Huigol records alleged pressure exerted by the Central Bureau of Investigation on her and her family after the arrest of her father, Capt. R. P. Huigol, including threats, interrogation, and promises of relief if she would testify against Fernandes and his associates. Huigol rejects the allegations against Fernandes, states that she is convinced India is living under a dictatorship, and offers to help organize Fernandes's defence. The document ends with the committee's office-bearers and correspondence address; no separate title, conventional publisher, or complete authorial attribution is printed.
 ---
 
+## Summary
+
+This four-page English-language circular, issued in 1976 by the Youth for George Fernandes Committee, appeals for public support for George Fernandes and twenty-two co-accused facing trial in Delhi in the Baroda Dynamite Case. It portrays the proceedings as a political prosecution by the Emergency-era government, condemns Fernandes's imprisonment and treatment in custody, and presents his case as a test of democracy, socialism, civil liberties, and resistance to authoritarian rule. The committee describes efforts to organize legal defence, raise funds, circulate trial bulletins, and build international support.
+
+The attached affidavit by Dr. Girija Huigol records alleged pressure exerted by the Central Bureau of Investigation on her and her family after the arrest of her father, Capt. R. P. Huigol, including threats, interrogation, and promises of relief if she would testify against Fernandes and his associates. Huigol rejects the allegations against Fernandes, states that she is convinced India is living under a dictatorship, and offers to help organize Fernandes's defence. The document ends with the committee's office-bearers and correspondence address; no separate title, conventional publisher, or complete authorial attribution is printed.
+
 ## Key points
 
 - The circular solicits support for George Fernandes and twenty-two co-accused in the Baroda Dynamite Case.

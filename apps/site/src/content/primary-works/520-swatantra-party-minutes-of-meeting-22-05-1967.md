@@ -59,6 +59,12 @@ summary: |-
   The meeting reorganised the parliamentary leadership after Ranga's election: Masani's resignation as leader was accepted, Ranga was invited to become party leader, and Masani was unanimously elected deputy leader. The minutes also address the withdrawal of the Emergency and an Indemnity Bill, arguing that Emergency lifting should include border areas and that citizens' rights to compensation and access to courts should not be curtailed. Members supported removing P Form restrictions on foreign travel and urged careful examination of the Passport Bill and Ordinance so that appeals would remain justiciable.
 ---
 
+## Summary
+
+These minutes record a meeting of the Swatantra Party's General Body in Parliament, held on 21 May 1967 at Vithalbhai Patel House. The meeting approved the previous minutes, welcomed Prof. N. G. Ranga's election to the Lok Sabha, reviewed the party's parliamentary performance, and discussed economic resolutions passed by the Indian National Congress Working Committee, including social control of banking institutions and nationalisation of general insurance. Minoo Masani also requested members to sign Rs. 40 bank orders as party subscriptions.
+
+The meeting reorganised the parliamentary leadership after Ranga's election: Masani's resignation as leader was accepted, Ranga was invited to become party leader, and Masani was unanimously elected deputy leader. The minutes also address the withdrawal of the Emergency and an Indemnity Bill, arguing that Emergency lifting should include border areas and that citizens' rights to compensation and access to courts should not be curtailed. Members supported removing P Form restrictions on foreign travel and urged careful examination of the Passport Bill and Ordinance so that appeals would remain justiciable.
+
 ## Key points
 
 - The Swatantra Party General Body met on 21 May 1967 at Vithalbhai Patel House in New Delhi.

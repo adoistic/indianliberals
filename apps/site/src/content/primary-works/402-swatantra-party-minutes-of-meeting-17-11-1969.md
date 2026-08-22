@@ -52,6 +52,12 @@ summary: |-
   The committee decided to submit a panel of three party members—Girraj Saren Singh, J. M. Lobo Prabhu, and Prof. R. L. Amin—for consideration by the Speaker for appointment to the Advisory Committee of Banaras Hindu University; it also noted that Prof. M. Ruthraswamy’s name had been suggested from the Rajya Sabha. The meeting agreed that the party should press a no-confidence motion in the Council of Ministers, with Piloo Mody proposed to move it, Acharya Kripalani to speak for the Opposition, and Mody to reply to the debate if the motion proceeded.
 ---
 
+## Summary
+
+This one-page English office record, dated November 17, 1969, records a meeting of the Swatantra Parliamentary Party’s Executive Committee in Parliament House, New Delhi. It lists sixteen members present, including Minoo Masani, C. C. Desai, Piloo Mody, and D. M. Patodia, who signed the minutes as Secretary.
+
+The committee decided to submit a panel of three party members—Girraj Saren Singh, J. M. Lobo Prabhu, and Prof. R. L. Amin—for consideration by the Speaker for appointment to the Advisory Committee of Banaras Hindu University; it also noted that Prof. M. Ruthraswamy’s name had been suggested from the Rajya Sabha. The meeting agreed that the party should press a no-confidence motion in the Council of Ministers, with Piloo Mody proposed to move it, Acharya Kripalani to speak for the Opposition, and Mody to reply to the debate if the motion proceeded.
+
 ## Key points
 
 - The Swatantra Parliamentary Party Executive Committee met in Central Hall, Parliament House, on November 17, 1969.

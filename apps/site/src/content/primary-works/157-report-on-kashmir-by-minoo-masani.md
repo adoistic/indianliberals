@@ -56,6 +56,12 @@ summary: |-
   Masani argues that Kashmir suffers from a dangerous leadership vacuum and that the February 1967 elections were neither fair nor free, citing the detention of opposition leaders, rejection of nomination papers, and a general climate of intimidation. He welcomes appeals for Sheikh Abdullah's release and proposes a Round Table Conference involving representatives of the principal political elements in Jammu and Kashmir. In the report's concluding pages, he advocates dissolving the existing Legislative Assembly, holding fresh elections open to all Kashmiris, and forming a broad-based government. He also presents the Swatantra Forum as a possible vehicle for non-denominational, non-secessionist politics and closer democratic links between Kashmir and the rest of India.
 ---
 
+## Summary
+
+In this four-page report, Minoo Masani describes a recent visit to Kashmir and assesses the political and security situation following the violence in Srinagar on June 7. He reports a breakdown of law and order in which mobs attacked men, women, and children and burned two churches, while the police were absent or inactive. Masani attributes the unrest to inflammatory political statements, anti-Indian sentiment associated with solidarity with Arab countries in their conflict with Israel, and the failure of the Kashmir administration to retain popular support and confidence. He warns that the situation could create an opportunity for Pakistan to intervene again.
+
+Masani argues that Kashmir suffers from a dangerous leadership vacuum and that the February 1967 elections were neither fair nor free, citing the detention of opposition leaders, rejection of nomination papers, and a general climate of intimidation. He welcomes appeals for Sheikh Abdullah's release and proposes a Round Table Conference involving representatives of the principal political elements in Jammu and Kashmir. In the report's concluding pages, he advocates dissolving the existing Legislative Assembly, holding fresh elections open to all Kashmiris, and forming a broad-based government. He also presents the Swatantra Forum as a possible vehicle for non-denominational, non-secessionist politics and closer democratic links between Kashmir and the rest of India.
+
 ## Key points
 
 - Masani reports that the June 7 violence in Srinagar involved attacks on civilians and the burning of two churches.

@@ -51,6 +51,12 @@ summary: |-
   The agenda covers confirmation of the minutes of the previous meeting held on 9 June, consideration of points from the General Council minutes of 24 and 25 June, party programmes, and any other matter permitted by the Chair. The notice is signed by P. Narayan, identified as Office Secretary. Several handwritten annotations and signatures appear below the typed text but are not fully legible.
 ---
 
+## Summary
+
+This one-page English office notice, issued by the Swatantra Party’s Bombay Region on 5 August 1972, announces an Executive Committee meeting scheduled for 16 August 1972 at the party office in Bombay. It invites members to attend and identifies the document as an organisational communication rather than a substantive policy paper.
+
+The agenda covers confirmation of the minutes of the previous meeting held on 9 June, consideration of points from the General Council minutes of 24 and 25 June, party programmes, and any other matter permitted by the Chair. The notice is signed by P. Narayan, identified as Office Secretary. Several handwritten annotations and signatures appear below the typed text but are not fully legible.
+
 ## Key points
 
 - The Swatantra Party’s Bombay Region issued the notice on 5 August 1972.

@@ -58,6 +58,12 @@ summary: |-
   Masani also rejects the budget’s justification as necessary for national defence. He argues that the proposed taxation would neither adequately strengthen India’s defence nor effectively address Chinese Communist aggression, while imposing unnecessary burdens on taxpayers. The summary proposes that defence expenditure could be financed through existing revenue sources, increased industrial production, voluntary contributions from industry, and the Emergency War Risks Insurance Scheme. The document is dated New Delhi, April 11, but does not print a year.
 ---
 
+## Summary
+
+This one-page Swatantra Party press-publication summary presents M. R. Masani’s criticism of the government budget. Masani argues that the budget reflects a Marxist intellectual orientation, combining reluctance to accept military assistance from Western democracies with an effort to expand state monopoly capitalism under the cover of the Emergency. He contends that the proposed expansion of public-sector steel production, particularly the Bokaro project, would waste scarce foreign exchange that could instead support defence and urgently needed industrial imports.
+
+Masani also rejects the budget’s justification as necessary for national defence. He argues that the proposed taxation would neither adequately strengthen India’s defence nor effectively address Chinese Communist aggression, while imposing unnecessary burdens on taxpayers. The summary proposes that defence expenditure could be financed through existing revenue sources, increased industrial production, voluntary contributions from industry, and the Emergency War Risks Insurance Scheme. The document is dated New Delhi, April 11, but does not print a year.
+
 ## Key points
 
 - Masani characterizes the budget as shaped by a Marxist orientation and by the misuse of the Emergency.

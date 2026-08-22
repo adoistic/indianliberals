@@ -48,6 +48,12 @@ summary: |-
   The closing paragraph is a pointed complaint about the press. Ranga reports that the Party has succeeded in lining up speakers on every demand to present its point of view, but that newspapers are giving little space or attention to what the Opposition is saying — in his telling, because of a recent practice of bypassing the PTI service and relying only on cursory notes from Special Correspondents. This, he writes, is "completely stifling the Opposition." A handwritten postscript notes enclosures, including a copy of his letter to Rajaji.
 ---
 
+## Summary
+
+A short typed letter from Prof. N. G. Ranga, Member of Parliament (Lok Sabha), to M. R. Masani, General Secretary of the Swatantra Party, dated 27 March 1963 from Western Court, New Delhi. Ranga informs Masani that the Finance Bill will be taken up for general consideration from 18th or 19th April 1963 for two or three days, though he is uncertain whether it will go to the Select Committee. He then flags that the Delhi Unit is organising a public meeting for Masani and Shri Dandekar on 11 April 1963 at Sapru House, and proposes a tea party at 5.30 p.m. in the Western Court lounge so Masani can meet all the Swatantra Members of Parliament and brief them on the Bill; he notes that the twelfth is Good Friday and a holiday.
+
+The closing paragraph is a pointed complaint about the press. Ranga reports that the Party has succeeded in lining up speakers on every demand to present its point of view, but that newspapers are giving little space or attention to what the Opposition is saying — in his telling, because of a recent practice of bypassing the PTI service and relying only on cursory notes from Special Correspondents. This, he writes, is "completely stifling the Opposition." A handwritten postscript notes enclosures, including a copy of his letter to Rajaji.
+
 ## Key points
 
 - Letter from N. G. Ranga (MP, Lok Sabha) to M. R. Masani, General Secretary of the Swatantra Party, dated 27 March 1963.

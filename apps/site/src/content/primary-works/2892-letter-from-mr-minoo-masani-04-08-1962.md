@@ -48,6 +48,10 @@ summary: |-
   This one-page express telegram, dated 4 August 1962, records Minoo Masani's advice to His Highness P. K. Deo of Kalahandi concerning a proposed meeting involving Swatantra Party members. Masani describes the initiative as a response to a letter from “Bishop Chandra” and a proposal to form a larger Lok Sabha bloc.
 ---
 
+## Summary
+
+This one-page express telegram, dated 4 August 1962, records Minoo Masani's advice to His Highness P. K. Deo of Kalahandi concerning a proposed meeting involving Swatantra Party members. Masani describes the initiative as a response to a letter from “Bishop Chandra” and a proposal to form a larger Lok Sabha bloc.
+
 ## Key points
 
 - The document is an internal Swatantra Party political communication dated 4 August 1962.

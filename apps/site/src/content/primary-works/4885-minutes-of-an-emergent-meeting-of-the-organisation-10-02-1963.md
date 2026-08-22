@@ -49,6 +49,12 @@ summary: |-
   The principal decision was to replace the existing interim Bihar State Committee with a broader committee. Six of the seven members appointed under the July 22 resolution were present in Bombay and were invited to discuss the matter informally. Five expressed support for constituting a new committee, and the minutes record sixteen proposed office-bearers and members, including Shri Kamakhya Narain Singh as President, Ram Binod Singh and Jaleshwar Prasad as Vice-Presidents, and Sardar Harihar Singh as General Secretary. The attached “True Copy,” signed by the five participants and dated 10.2.1963, repeats the agreed list. The document does not identify the organisation by name.
 ---
 
+## Summary
+
+This three-page English office record contains draft minutes of an emergent Organisation Sub-Committee meeting held on 10 February 1963 at 10 p.m. at K. M. Munshi’s residence. Professor N. G. Ranga chaired the meeting, which confirmed the previous minutes and reviewed the organisation’s functioning in Bihar in light of earlier resolutions, Central Organising Committee decisions, and correspondence concerning the State Committee.
+
+The principal decision was to replace the existing interim Bihar State Committee with a broader committee. Six of the seven members appointed under the July 22 resolution were present in Bombay and were invited to discuss the matter informally. Five expressed support for constituting a new committee, and the minutes record sixteen proposed office-bearers and members, including Shri Kamakhya Narain Singh as President, Ram Binod Singh and Jaleshwar Prasad as Vice-Presidents, and Sardar Harihar Singh as General Secretary. The attached “True Copy,” signed by the five participants and dated 10.2.1963, repeats the agreed list. The document does not identify the organisation by name.
+
 ## Key points
 
 - The meeting took place on Sunday, 10 February 1963, at 10 p.m. at K. M. Munshi’s residence.

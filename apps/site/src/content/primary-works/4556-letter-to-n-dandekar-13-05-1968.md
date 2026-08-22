@@ -52,6 +52,12 @@ summary: |-
   Masani broadens the dispute into a defence of democratic political practice. He warns that declining public faith in political parties and parliamentary democracy could leave India vulnerable to authoritarianism, and insists that the country must take precedence over any party. He therefore proposes to continue working outside the party's formal leadership, including training young workers and expressing the suppressed views of dissatisfied party members. He says he would return to active responsibility if the party adopts ethical, disciplined functioning and tells the truth. The document concludes with a request that his resignation be reported to the party's General Council before its June meeting, and authorises publication of his April 22 letter and this reply.
 ---
 
+## Summary
+
+In this letter dated May 15, 1968, Minoo Masani rejects a proposal that he withdraw his resignation from the Swatantra Party's National Executive and Parliamentary Board. He argues that the party failed to respond credibly to disciplinary issues involving its Gujarat organisation, including its treatment of Mehdi and five others, and that it applied disciplinary standards inconsistently by acting against alleged rebels while overlooking election-related misconduct by senior party figures. Masani describes the party's public response as an attempt to minimise the incident rather than confront it ethically.
+
+Masani broadens the dispute into a defence of democratic political practice. He warns that declining public faith in political parties and parliamentary democracy could leave India vulnerable to authoritarianism, and insists that the country must take precedence over any party. He therefore proposes to continue working outside the party's formal leadership, including training young workers and expressing the suppressed views of dissatisfied party members. He says he would return to active responsibility if the party adopts ethical, disciplined functioning and tells the truth. The document concludes with a request that his resignation be reported to the party's General Council before its June meeting, and authorises publication of his April 22 letter and this reply.
+
 ## Key points
 
 - Masani confirms that his resignation from the Swatantra Party's National Executive and Parliamentary Board is final.

@@ -52,6 +52,12 @@ summary: |-
   The report further notes resolutions concerning opposition to the Insurance Amendment Bill, a proposed appeal to the public and other parties against the measure, and the removal of barriers to trade. It mentions concern about the availability and prices of handloom goods and records a decision to seek temporary credit advances for relief. The visible clipping is a single newspaper page; no further article text or continuation is available beyond it.
 ---
 
+## Summary
+
+This Indian Express news report dated April 15, 1968, describes action by the Swatantra Party’s National Executive against what it calls rebels in the Gujarat unit. The report says the executive discussed disciplinary measures, including the expulsion of certain members, after disputes involving the Gujarat organisation and its leadership. It also records the party’s position that internal disagreements should be addressed through individual effort and constitutional party procedures rather than public agitation.
+
+The report further notes resolutions concerning opposition to the Insurance Amendment Bill, a proposed appeal to the public and other parties against the measure, and the removal of barriers to trade. It mentions concern about the availability and prices of handloom goods and records a decision to seek temporary credit advances for relief. The visible clipping is a single newspaper page; no further article text or continuation is available beyond it.
+
 ## Key points
 
 - The Swatantra Party’s National Executive considered disciplinary action against members associated with a Gujarat faction.

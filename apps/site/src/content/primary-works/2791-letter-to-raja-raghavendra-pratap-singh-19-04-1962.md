@@ -50,6 +50,12 @@ summary: |-
   The sender asks Raja Raghavendra Pratapsingh to inform Trisulia of the Parliamentary Board’s decision recommending support for Dr Radhakrishnan’s election and to request that Trisulia desist from further support. The document is explicitly marked “confirmation copy by ordinary post” and gives the sender’s Bombay address at 143 Mahatma Gandhi Road.
 ---
 
+## Summary
+
+This one-page English-language confirmation copy of a telegram, dated 19 April 1962, records a Swatantra Party communication from “MASANI” to Raja Raghavendra Pratapsingh, MLA, at Kaisarbagh, Lucknow. The message concerns the presidential election and reports that party member Shyamlal Ghasiary has nominated “IP Trisulia.”
+
+The sender asks Raja Raghavendra Pratapsingh to inform Trisulia of the Parliamentary Board’s decision recommending support for Dr Radhakrishnan’s election and to request that Trisulia desist from further support. The document is explicitly marked “confirmation copy by ordinary post” and gives the sender’s Bombay address at 143 Mahatma Gandhi Road.
+
 ## Key points
 
 - The document is a one-page confirmation copy of a telegram sent by ordinary post.

@@ -54,6 +54,14 @@ summary: |-
   The letter closes on a litigation update. The Gujarat High Court has struck down further legislators, bringing the running tally of disqualifications to one MP and three MLAs. Rajaji considers the judgment "grossly wrong" and hopes it will be carried promptly to the Supreme Court.
 ---
 
+## Summary
+
+In this brief handwritten letter of 17 March 1963, C. Rajagopalachari writes from Madras to Minoo Masani to record his disgust at the recent Federation meeting proceedings, which he calls "painful reading." What galls him is the "cold-blooded" way in which the assembled industrialists sat through the Prime Minister's Budget lecture without protest — and the PM's subsequent boast that the Budget had, on the whole, been received well. Rajaji uses the episode to warn that a Government which meets no resistance grows "more intoxicated at each victory," its arrogance and incompetence deepening in step with its unopposed parliamentary wins.
+
+He then draws a sharper political line for Masani's benefit: if the Swatantra fight were merely a shield for the industrialist class, he would give the cause up in disgust. His concern is that the burden of the new taxes will fall on ordinary people rather than on the businessmen sitting silent at the Federation.
+
+The letter closes on a litigation update. The Gujarat High Court has struck down further legislators, bringing the running tally of disqualifications to one MP and three MLAs. Rajaji considers the judgment "grossly wrong" and hopes it will be carried promptly to the Supreme Court.
+
 ## Key points
 
 - Rajaji finds the printed proceedings of the recent Federation meeting "painful reading" and disavows any suggestion that this is merely "senile sensitivity."

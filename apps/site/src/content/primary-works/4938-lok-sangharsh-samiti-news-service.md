@@ -56,6 +56,12 @@ summary: |-
   The document broadens its criticism to the Emergency's political and institutional consequences. It describes arrests connected with meetings, praises the continuing electoral and popular strength of Gujarat's Janata Front and its satyagraha movement, and notes the confiscation of the Gujarati paper Bhoomi Putra. In its review of foreign press coverage, it cites The Economist, The Statesman, and The Times on opposition suppression, bureaucratic corruption, unimplemented reforms, rural deprivation, curtailed civil liberties, and the concentration of personal power around Mrs. Gandhi. The document has no byline or publication date; the date 2.2.1976 appears only within a quoted reference to the Tamil Nadu state government's mandate.
 ---
 
+## Summary
+
+This two-page Lok Sangharsh Samiti news-service statement criticizes Prime Minister Indira Gandhi's 1976 public programme in Bombay and presents it as dependent on arrests, managed crowds, and manufactured enthusiasm. It reports the detention of socialist and Jan Sangh workers, hostile public reactions including stickers reading “ruined” and black crosses, and efforts by schools, factories, and large establishments to assemble audiences for the Prime Minister's meetings. The statement also alleges that many attendees left rallies early and that half of the Ravindra Theatre was empty during a women's rally.
+
+The document broadens its criticism to the Emergency's political and institutional consequences. It describes arrests connected with meetings, praises the continuing electoral and popular strength of Gujarat's Janata Front and its satyagraha movement, and notes the confiscation of the Gujarati paper Bhoomi Putra. In its review of foreign press coverage, it cites The Economist, The Statesman, and The Times on opposition suppression, bureaucratic corruption, unimplemented reforms, rural deprivation, curtailed civil liberties, and the concentration of personal power around Mrs. Gandhi. The document has no byline or publication date; the date 2.2.1976 appears only within a quoted reference to the Tamil Nadu state government's mandate.
+
 ## Key points
 
 - The statement portrays the Prime Minister's Bombay programme as secured through arrests and organized audiences rather than spontaneous public support.

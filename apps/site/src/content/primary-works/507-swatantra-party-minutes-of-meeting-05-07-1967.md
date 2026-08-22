@@ -53,6 +53,12 @@ summary: |-
   The minutes also record decisions to invite party members to prepare notes on subjects of interest for circulation within the party, and to investigate the West Bengal Chief Minister’s response concerning a proposed parliamentary delegation to Naxalbari. The committee favoured sending a party delegation to conduct an on-the-spot study and report back before finalising its course of action. C. C. Desai signed the document as Secretary.
 ---
 
+## Summary
+
+This one-page office record, issued by the Swatantra Party Parliamentary Office on 5 July 1967, records the Executive Committee meeting held in Parliament House, New Delhi, on 4 July. Prof. N. G. Ranga chaired the meeting, with C. C. Desai, J. M. Lobo Prabhu, Y. G. Gowd, and Dabyabhai Patel listed as present. The committee discussed members’ subscription arrears, the Parliamentary Office’s deficit and regular expenses, and the need for monthly review of its accounts.
+
+The minutes also record decisions to invite party members to prepare notes on subjects of interest for circulation within the party, and to investigate the West Bengal Chief Minister’s response concerning a proposed parliamentary delegation to Naxalbari. The committee favoured sending a party delegation to conduct an on-the-spot study and report back before finalising its course of action. C. C. Desai signed the document as Secretary.
+
 ## Key points
 
 - The Executive Committee meeting took place on 4 July 1967 in the Party Committee Room, Central Hall, Parliament House, New Delhi.

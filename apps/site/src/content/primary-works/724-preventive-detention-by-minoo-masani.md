@@ -55,6 +55,12 @@ summary: |-
   In the rendered pages, Masani develops three principal objections: the Act is vague and arbitrary; it establishes a precedent that may make preventive detention a habitual instrument of government; and it divides democratic parties by allowing opponents to be treated as enemies. He compares the measure unfavourably with the more limited safeguards of the 1919 Rowlatt Act, invokes West German constitutional practice to argue that anti-democratic parties need not be granted constitutional protection, and concludes that a straightforward ban on the Communist Party would be preferable if the Government believes there is a clear and present danger. The clipping visibly directs readers to “See page 20,” so the supplied pages do not include the article’s continuation.
 ---
 
+## Summary
+
+In the rendered pages, Minoo Masani argues that the Preventive Detention Bill is unnecessary, constitutionally dangerous, and unworthy of a democratic India. He acknowledges the Government’s record of resisting totalitarianism and accepts that genuine Communist subversion could require special powers, but contends that the Bill is being used for broader political purposes than the emergency originally invoked. He cites the detention of patriotic Indians with no connection to the Communist Party and warns that the measure places the liberty of ordinary citizens at risk.
+
+In the rendered pages, Masani develops three principal objections: the Act is vague and arbitrary; it establishes a precedent that may make preventive detention a habitual instrument of government; and it divides democratic parties by allowing opponents to be treated as enemies. He compares the measure unfavourably with the more limited safeguards of the 1919 Rowlatt Act, invokes West German constitutional practice to argue that anti-democratic parties need not be granted constitutional protection, and concludes that a straightforward ban on the Communist Party would be preferable if the Government believes there is a clear and present danger. The clipping visibly directs readers to “See page 20,” so the supplied pages do not include the article’s continuation.
+
 ## Key points
 
 - Masani accepts the possibility of special powers against genuine Communist subversion but rejects the Bill’s broad preventive-detention framework.

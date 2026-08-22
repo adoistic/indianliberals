@@ -51,6 +51,12 @@ summary: |-
   The minutes assign speakers and time limits for the Motion of Thanks on the President's Address: M. R. Masani was allotted 40 minutes, R. K. Amin 15 minutes, and C. C. Desai 20 minutes. Speakers for other subjects remained under discussion. The meeting then adjourned with a vote of thanks to the chair, and J. M. Lobo Prabhu signed as secretary.
 ---
 
+## Summary
+
+This one-page record from the Swatantra Party Parliamentary Office documents an Executive Committee meeting held in the Party Committee Room, Central Hall, on 20 March 1967, with the record dated 21 March 1967. M. R. Masani chaired the meeting, which was attended by nine members, including P. K. Deo, Y. G. Gowd, C. C. Desai, J. M. Lobo Prabhu, K. P. Singh Deo, K. M. Kaushik, V. J. Shah, and Maharani Gayatri Devi.
+
+The minutes assign speakers and time limits for the Motion of Thanks on the President's Address: M. R. Masani was allotted 40 minutes, R. K. Amin 15 minutes, and C. C. Desai 20 minutes. Speakers for other subjects remained under discussion. The meeting then adjourned with a vote of thanks to the chair, and J. M. Lobo Prabhu signed as secretary.
+
 ## Key points
 
 - The document records a Swatantra Party Executive Committee meeting held in New Delhi in March 1967.

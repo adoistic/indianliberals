@@ -52,6 +52,12 @@ summary: |-
   The letter also discusses the possibility of future meetings between the Prime Minister and members of Parliament, arguing that such meetings should include batches of members and that this approach was welcomed by all sections. It closes by noting that the Prime Minister and Home Minister had acknowledged the Swatantra Party’s letter concerning the Assam hill peoples. The scan does not securely identify the handwritten signatory.
 ---
 
+## Summary
+
+This one-page letter, dated August 5, 1968, is written from the Swatantra Party Parliamentary Office to M. R. Masani. The unidentified signatory corrects Masani’s impression that they were responsible for inviting Shri Tapuriah to the Prime Minister’s meeting on the Naga question. The writer explains that the invitation came from the Parliamentary Minister’s secretariat because Tapuriah had given notice of a motion on Nagaland, and notes that other members who had given notice of similar motions were also invited.
+
+The letter also discusses the possibility of future meetings between the Prime Minister and members of Parliament, arguing that such meetings should include batches of members and that this approach was welcomed by all sections. It closes by noting that the Prime Minister and Home Minister had acknowledged the Swatantra Party’s letter concerning the Assam hill peoples. The scan does not securely identify the handwritten signatory.
+
 ## Key points
 
 - The letter is dated August 5, 1968, and is addressed to M. R. Masani.

@@ -44,6 +44,10 @@ summary: |-
   This one-page English letter, dated 29 August 1963, is from M. R. Masani in New Delhi to C. Rajagopalachari (addressed as “Rajaji”). Masani acknowledges Rajagopalachari’s letter of 25 August, which had enclosed a letter from Smt. Vasanta Subramaniam. He describes that letter as interesting and worthy of further consideration.
 ---
 
+## Summary
+
+This one-page English letter, dated 29 August 1963, is from M. R. Masani in New Delhi to C. Rajagopalachari (addressed as “Rajaji”). Masani acknowledges Rajagopalachari’s letter of 25 August, which had enclosed a letter from Smt. Vasanta Subramaniam. He describes that letter as interesting and worthy of further consideration.
+
 ## Key points
 
 - The document is a one-page typed letter dated 29 August 1963.

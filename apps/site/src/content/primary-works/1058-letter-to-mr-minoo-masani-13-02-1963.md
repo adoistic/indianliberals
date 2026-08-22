@@ -46,6 +46,12 @@ summary: |-
   Rajaji proposes taking half a page in large type across the Hindustan Times, The Hindu, The Times of India and The Statesman, printed as an appeal by him to the nation to study a resolution of the party's General Council, with his signature at the foot of the introduction. He supplies a detailed cost estimate — Hindu Rs. 3,024; Times of India Rs. 3,600; Statesman Rs. 3,136; Hindustan Times Rs. 2,502, totalling Rs. 12,262 — and notes that adding the Indian Express Southern Edition (Rs. 2,392) would take the whole outlay to about Rs. 15,000. He argues that against the number of sheets so circulated the expense would be worth incurring, and closes on a note of urgency: something tells him this will tell at the present crisis. A received stamp from the party office (No. 02028, 18 Feb 1963) is visible on the page.
 ---
 
+## Summary
+
+This is a short typed letter from C. Rajagopalachari, written from 60 Bazlullah Road, T. Nagar, Madras 17, on 13th February 1963 and addressed to M. R. Masani, then General Secretary of the Swatantra Party in Bombay. The letter follows up on Rajaji's earlier suggestion that a Swatantra Party resolution be advertised in the major national dailies, and Rajaji reports that the exercise would cost far less than Masani had feared.
+
+Rajaji proposes taking half a page in large type across the Hindustan Times, The Hindu, The Times of India and The Statesman, printed as an appeal by him to the nation to study a resolution of the party's General Council, with his signature at the foot of the introduction. He supplies a detailed cost estimate — Hindu Rs. 3,024; Times of India Rs. 3,600; Statesman Rs. 3,136; Hindustan Times Rs. 2,502, totalling Rs. 12,262 — and notes that adding the Indian Express Southern Edition (Rs. 2,392) would take the whole outlay to about Rs. 15,000. He argues that against the number of sheets so circulated the expense would be worth incurring, and closes on a note of urgency: something tells him this will tell at the present crisis. A received stamp from the party office (No. 02028, 18 Feb 1963) is visible on the page.
+
 ## Key points
 
 - Personal letter from C. Rajagopalachari to Minoo Masani, dated 13 February 1963, addressed to Masani as General Secretary of the Swatantra Party in Bombay.

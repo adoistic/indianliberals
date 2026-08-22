@@ -54,6 +54,12 @@ summary: |-
   The circular asks legislators to use the report in proposing suitable remedial measures suited to conditions in their respective states. It also urges them to bring the issues before government in order to secure relief for the industry. The report itself is not included in the rendered page; only the covering circular is visible.
 ---
 
+## Summary
+
+This one-page Swatantra Party Central Office Circular, dated 26 May 1967, forwards to MPs and MLAs in Gujarat, Madras, Uttar Pradesh, and Andhra Pradesh an enclosed report on the condition of marginal and uneconomic units in India’s cotton-mill industry. The report was prepared by a sub-committee of the Indian Cotton Merchants’ Federation, and the circular’s stated purpose is to draw attention to the industry’s unsatisfactory position and the causes contributing to it.
+
+The circular asks legislators to use the report in proposing suitable remedial measures suited to conditions in their respective states. It also urges them to bring the issues before government in order to secure relief for the industry. The report itself is not included in the rendered page; only the covering circular is visible.
+
 ## Key points
 
 - The document is Central Office Circular No. 75 of the Swatantra Party, dated 26 May 1967.

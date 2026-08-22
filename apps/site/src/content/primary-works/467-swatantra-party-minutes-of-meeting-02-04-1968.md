@@ -53,6 +53,12 @@ summary: |-
   The principal business concerned the Railway Minister's proposal to appoint a high-level enquiry committee into increasing railway accidents. The committee's composition was discussed and accepted, including the Railway Minister's proposal that Minoo Masani serve as a member. The record concludes with a decision to hold a general body meeting on 2 April 1968 to discuss the Gujarat situation. It is signed by C. C. Desai as Secretary.
 ---
 
+## Summary
+
+This one-page office record, issued by the Swatantra Party Parliament Office in New Delhi on 2 April 1968, records a meeting of the party's Executive Committee in Parliament on 1 April 1968. The minutes list ten members present, including Minoo Masani, J. M. Lobo Prabhu, C. C. Desai, K. P. Singh Deo, Dahyabhai V. Patel, and R. K. Amin, with P. K. Deo attending as a special invitee.
+
+The principal business concerned the Railway Minister's proposal to appoint a high-level enquiry committee into increasing railway accidents. The committee's composition was discussed and accepted, including the Railway Minister's proposal that Minoo Masani serve as a member. The record concludes with a decision to hold a general body meeting on 2 April 1968 to discuss the Gujarat situation. It is signed by C. C. Desai as Secretary.
+
 ## Key points
 
 - The Executive Committee meeting took place on 1 April 1968 in the Party Room, Central Hall, Parliament House.

@@ -58,6 +58,12 @@ summary: |-
   Masani attributes the defeat not simply to joining the opposition Front but to inadequate preparation, weak organisation, insufficient funds, delayed decisions, and failures of party leadership. He defends the party's principles while calling for a change in personnel and conduct, and announces his resignation from the presidency. The speech proposes rebuilding through a renewed concern for the underprivileged, youth, agriculture, consumers, and minorities, and concludes by urging a rapid reappraisal, new tactics and strategy, and a rededication to the party's objectives. The document also looks ahead to a possible political crisis under continuing state-capitalist policies and calls for parliamentary and extra-parliamentary opposition that educates the public.
 ---
 
+## Summary
+
+In this speech from the chair to the Swatantra Party's General Council in Bombay on 17 April 1971, M. R. Masani confronts the party's severe electoral setback and the collapse of its attempted opposition alliance. He argues that the response must combine courage to face unwelcome facts, faith in the public, and innovation and adaptability without abandoning fundamental principles. He reports that the party fielded 59 candidates, won 8 seats, saw its vote share fall from 8.68 per cent in 1967 to 3.08 per cent, and suffered from the distortions of India's first-past-the-post electoral system.
+
+Masani attributes the defeat not simply to joining the opposition Front but to inadequate preparation, weak organisation, insufficient funds, delayed decisions, and failures of party leadership. He defends the party's principles while calling for a change in personnel and conduct, and announces his resignation from the presidency. The speech proposes rebuilding through a renewed concern for the underprivileged, youth, agriculture, consumers, and minorities, and concludes by urging a rapid reappraisal, new tactics and strategy, and a rededication to the party's objectives. The document also looks ahead to a possible political crisis under continuing state-capitalist policies and calls for parliamentary and extra-parliamentary opposition that educates the public.
+
 ## Key points
 
 - Masani frames the party's post-election response around courage, faith in the people, and adaptive innovation.

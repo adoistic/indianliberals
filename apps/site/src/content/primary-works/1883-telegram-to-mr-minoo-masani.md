@@ -51,6 +51,12 @@ summary: |-
   The second telegram concerns Income-tax Amendment Bill No. 29 and similarly urges that deed rent and royalty be treated as revenue expenditure. It attributes the proposal to Dr. Singhvi, asks Masani to support it on grounds of industrial development, foreign exchange, and employment, and refers to the Seventh Schedule, Article 246 of the Constitution. The forms' dates, sender fields, and some names or closing text are unclear, and no unambiguous calendar year is visible.
 ---
 
+## Summary
+
+This two-page English-language archival record comprises Indian Posts and Telegraphs Department telegram forms addressed to M. R. Masani in Parliament. The first telegram asks that a proposed Income-tax Amendment Bill associated with Mr. Singhvi of Jodhpur allow dead rent and royalty under mining leases to be treated as allowable expenditure. It argues that otherwise the mining industry would be seriously disrupted and its foreign-exchange earnings eliminated; the message is signed in the name of the Rajasthan Mining Association.
+
+The second telegram concerns Income-tax Amendment Bill No. 29 and similarly urges that deed rent and royalty be treated as revenue expenditure. It attributes the proposal to Dr. Singhvi, asks Masani to support it on grounds of industrial development, foreign exchange, and employment, and refers to the Seventh Schedule, Article 246 of the Constitution. The forms' dates, sender fields, and some names or closing text are unclear, and no unambiguous calendar year is visible.
+
 ## Key points
 
 - The record contains two telegram texts addressed to M. R. Masani, a Member of Parliament.

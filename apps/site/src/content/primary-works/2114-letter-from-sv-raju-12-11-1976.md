@@ -49,6 +49,10 @@ summary: |-
   In this letter dated November 12, 1976, S. V. Raju declines Haribhau's suggestion that a pamphlet be prepared during the Swatantra Party's current circumstances. He explains that a pamphlet would require an effective distribution mechanism, which the party lacks, and notes that its funds are tight. Instead, he recommends encouraging small groups to meet regularly as study circles to discuss current topics, and says he plans to begin weekly study meetings at the party office from January 1977.
 ---
 
+## Summary
+
+In this letter dated November 12, 1976, S. V. Raju declines Haribhau's suggestion that a pamphlet be prepared during the Swatantra Party's current circumstances. He explains that a pamphlet would require an effective distribution mechanism, which the party lacks, and notes that its funds are tight. Instead, he recommends encouraging small groups to meet regularly as study circles to discuss current topics, and says he plans to begin weekly study meetings at the party office from January 1977.
+
 ## Key points
 
 - Raju rejects an immediate pamphlet project because the party lacks an effective distribution mechanism.

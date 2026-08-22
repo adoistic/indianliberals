@@ -49,6 +49,10 @@ summary: |-
   In this registered letter dated 9 July 1962, M. R. Masani writes to Dr. Basant Narain Singh to correct what he describes as inaccurate statements about the Swatantra Party's financial commitments concerning the Raja of Ramgarh's credit arrangement with the Central Bank. Masani stresses that the Party's Central Office was not a party to the credit agreement and had undertaken no obligation to the Bank.
 ---
 
+## Summary
+
+In this registered letter dated 9 July 1962, M. R. Masani writes to Dr. Basant Narain Singh to correct what he describes as inaccurate statements about the Swatantra Party's financial commitments concerning the Raja of Ramgarh's credit arrangement with the Central Bank. Masani stresses that the Party's Central Office was not a party to the credit agreement and had undertaken no obligation to the Bank.
+
 ## Key points
 
 - Masani distinguishes the Swatantra Party's Central Office from the Raja of Ramgarh's personal credit agreement with the Central Bank.

@@ -61,6 +61,12 @@ summary: |-
   The minutes also document the election of six Joint Secretaries and twenty members of the National Executive, the creation of permanent invitations for state and regional-unit presidents, and the ratification of the merger of the Bombay and Maharashtra regional units. The General Council discussed the party’s defeat in the Sabarkantha Lok Sabha by-election and unanimously adopted resolutions on linguistic and communal unrest, the economic situation, and repressive government measures. The attached resolutions criticize inflation, shortages, unemployment, deficit financing, public-distribution failures, licensing and controls, and the use of detention laws and administrative machinery against political opponents.
 ---
 
+## Summary
+
+These draft minutes record the first meeting of the newly elected General Council of the Swatantra Party, held at Ravindralaya, Lucknow, on 15–16 December 1973. The document lists council members by state and records the appointment of scrutineers, the unanimous election of Piloo Mody as President, and the secret-ballot election of six Vice Presidents: R. N. Singh Deo, Rajmata Gayatri Devi, G. Latchanna, Madhu Mehta, Sardar Harbhajan Singh, and Dr. M. Mathias. Madhu Mehta was asked to continue as General Secretary until the National Executive nominated a secretary for 1974–75, while K. Sundaram and J. Chandramouli were elected Honorary Treasurers.
+
+The minutes also document the election of six Joint Secretaries and twenty members of the National Executive, the creation of permanent invitations for state and regional-unit presidents, and the ratification of the merger of the Bombay and Maharashtra regional units. The General Council discussed the party’s defeat in the Sabarkantha Lok Sabha by-election and unanimously adopted resolutions on linguistic and communal unrest, the economic situation, and repressive government measures. The attached resolutions criticize inflation, shortages, unemployment, deficit financing, public-distribution failures, licensing and controls, and the use of detention laws and administrative machinery against political opponents.
+
 ## Key points
 
 - The minutes cover the Swatantra Party General Council meeting in Lucknow on 15–16 December 1973.

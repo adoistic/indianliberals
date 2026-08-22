@@ -54,6 +54,12 @@ summary: |-
   Masani criticizes the published version of the committee’s decision as an “eye wash.” He argues that the committee ignored failures by the President and General Secretary of the Gujarat State unit and the actions of certain parliamentary members, including a National Executive member who travelled from Delhi to Ahmedabad to campaign against the party’s candidate. The statement frames the dispute as one of political ethics, party discipline, and institutional credibility: Masani warns against authoritarianism, insists that means must be as clean as ends, and says he would return to share responsibility if the party adopts ethical and disciplined functioning.
 ---
 
+## Summary
+
+This one-page press statement, issued in Bombay on 14 May 1968 and signed by M. R. Masani, reports an unpublished decision not to take serious disciplinary action against members of the Swatantra Party who had been summoned to explain their conduct during the recent elections to the Rajya Sabha from Gujarat. It releases correspondence between Masani and N. Dandekar, the party’s General Secretary, concerning Masani’s decision to withdraw his resignation from the party’s National Executive.
+
+Masani criticizes the published version of the committee’s decision as an “eye wash.” He argues that the committee ignored failures by the President and General Secretary of the Gujarat State unit and the actions of certain parliamentary members, including a National Executive member who travelled from Delhi to Ahmedabad to campaign against the party’s candidate. The statement frames the dispute as one of political ethics, party discipline, and institutional credibility: Masani warns against authoritarianism, insists that means must be as clean as ends, and says he would return to share responsibility if the party adopts ethical and disciplined functioning.
+
 ## Key points
 
 - The statement announces that serious disciplinary action, including expulsion, was not taken against certain Swatantra Party members.

@@ -50,6 +50,12 @@ summary: |-
   Mody then records the August 29 merger ceremony at Mavlankar Hall, where Charan Singh was proposed as chairman of the new party and Mody formally announced the merger. He argues that the Swatantra Party's assets, liabilities, name, flag, and symbol consequently became part of the Bharatiya Lok Dal, and rejects Girish Munshi's contention concerning the separate use of the Swatantra symbol. He also challenges the constitutional validity of a Maharashtra unit resolution, arguing that the state unit lacked authority to decide the party's future and that the matter had already been reserved for the national convention. The letter asks the Election Commission to treat Mody's submission as the authoritative view of the Swatantra Party; the referenced annexures are not included in the scanned pages.
 ---
 
+## Summary
+
+In this letter dated September 1, 1974, Piloo Mody writes to the Election Commission of India about the dissolution of the Swatantra Party and its merger into the Bharatiya Lok Dal. He recounts the party's April National Executive resolution seeking to explore a two-party system, the June General Council's support for a “National Alternative,” and the August 4–5 National Convention's endorsement of amalgamation with parties other than the Congress and the Communists. The convention authorised Mody to implement the merger, request that the Election Commission freeze the Swatantra Party's symbol, and assist members until the party was dissolved.
+
+Mody then records the August 29 merger ceremony at Mavlankar Hall, where Charan Singh was proposed as chairman of the new party and Mody formally announced the merger. He argues that the Swatantra Party's assets, liabilities, name, flag, and symbol consequently became part of the Bharatiya Lok Dal, and rejects Girish Munshi's contention concerning the separate use of the Swatantra symbol. He also challenges the constitutional validity of a Maharashtra unit resolution, arguing that the state unit lacked authority to decide the party's future and that the matter had already been reserved for the national convention. The letter asks the Election Commission to treat Mody's submission as the authoritative view of the Swatantra Party; the referenced annexures are not included in the scanned pages.
+
 ## Key points
 
 - Mody describes the Swatantra Party's 1974 resolutions supporting exploration of a two-party system and a broader National Alternative.

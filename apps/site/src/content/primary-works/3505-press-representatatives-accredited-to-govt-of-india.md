@@ -45,6 +45,10 @@ summary: |-
   This eight-page English-language government directory lists press representatives accredited to the Government of India. It is arranged as a tabular reference document with serial number, representative name, affiliated news agency or newspaper, and Delhi address and telephone details. The opening section covers news-agency representatives, including personnel associated with the Press Trust of India, PTI Overseas Service, and Hindusthan Samachar.
 ---
 
+## Summary
+
+This eight-page English-language government directory lists press representatives accredited to the Government of India. It is arranged as a tabular reference document with serial number, representative name, affiliated news agency or newspaper, and Delhi address and telephone details. The opening section covers news-agency representatives, including personnel associated with the Press Trust of India, PTI Overseas Service, and Hindusthan Samachar.
+
 ## Key points
 
 - The document is headed “PRESS REPRESENTATIVES ACCREDITED TO GOVERNMENT OF INDIA.”

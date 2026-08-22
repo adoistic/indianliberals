@@ -50,6 +50,12 @@ summary: |-
   The report explains that the BLD had recently been formed through the merger of Swatantra, the Bharatiya Kranti Dal, the Utkal Congress, and other political parties. It also records the Commission’s withdrawal and reservation of the symbols “Star,” “Haldhar,” and “water wheel and plough” for the constituent parties, and notes an Election Commission order concerning a dispute among three factions of the Bharatiya Kranti Dal. Charan Singh is identified as declaring his faction the genuine Bharatiya Kranti Dal, which had merged into the Bharatiya Lok Dal.
 ---
 
+## Summary
+
+This one-page English newspaper clipping reports that the Election Commission recognised the Bharatiya Lok Dal (BLD) as a national party for the purpose of receiving a permanent election symbol. It states that the symbol would be allotted in consultation with the party “in due course.”
+
+The report explains that the BLD had recently been formed through the merger of Swatantra, the Bharatiya Kranti Dal, the Utkal Congress, and other political parties. It also records the Commission’s withdrawal and reservation of the symbols “Star,” “Haldhar,” and “water wheel and plough” for the constituent parties, and notes an Election Commission order concerning a dispute among three factions of the Bharatiya Kranti Dal. Charan Singh is identified as declaring his faction the genuine Bharatiya Kranti Dal, which had merged into the Bharatiya Lok Dal.
+
 ## Key points
 
 - The Election Commission recognised the Bharatiya Lok Dal as a national party.

@@ -51,6 +51,12 @@ summary: |-
   The remaining rendered pages are administrative enclosures: Regional Transport Office notices warning of prosecution and recovery of unpaid motor-vehicle tax as land revenue, together with Greater Bombay municipal vehicle-tax bills addressed to Shri M. R. Masani at Sassoon Building, Bombay. The bills record quarterly charges of Rs. 35 and progressively accumulating outstanding balances for vehicle MRA-4096, covering periods from 1966 through 1971. The rendered file therefore documents both Masani's party-related explanation of liability and the bureaucratic record of tax demands sent to him.
 ---
 
+## Summary
+
+This archival file contains a letter from M. R. Masani to the Regional Transport Officer, Bombay, dated February 4, 1977, concerning tax notices for vehicles MRA.4092 and MRA.4093. Masani states that neither vehicle belonged to him personally: MRA.4092 had been owned by the Swatantra Party, of which he was General Secretary, before being sold to Maharani Gayatri Devi in 1967; MRA.4093 was similarly sold by the party to Maharaja P. K. Deo of Orissa. He refers to an earlier Regional Transport Office letter saying that proceedings concerning the vehicles had been dropped and argues that no tax arrears are therefore payable by him.
+
+The remaining rendered pages are administrative enclosures: Regional Transport Office notices warning of prosecution and recovery of unpaid motor-vehicle tax as land revenue, together with Greater Bombay municipal vehicle-tax bills addressed to Shri M. R. Masani at Sassoon Building, Bombay. The bills record quarterly charges of Rs. 35 and progressively accumulating outstanding balances for vehicle MRA-4096, covering periods from 1966 through 1971. The rendered file therefore documents both Masani's party-related explanation of liability and the bureaucratic record of tax demands sent to him.
+
 ## Key points
 
 - M. R. Masani's letter is dated February 4, 1977, and addressed to the Regional Transport Officer in Bombay.

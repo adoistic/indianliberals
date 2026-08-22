@@ -60,6 +60,10 @@ summary: |-
   The Swatantra Party’s General Secretary’s Report to its Fourth National Convention in New Delhi records the party’s development between the Third National Convention in Bangalore in February 1964 and the convention of December 12–13, 1966. In the rendered pages, the report presents the party as moving from a mass organisation toward a cadre party through active membership, card-holding workers, pledge-signing members, and more systematic internal elections. It reviews meetings of the General Council, National Executive, and Central Parliamentary Board, together with resolutions on constitutional amendments, food scarcity, foreign policy, defence, the Emergency, gold control, and electoral arrangements.
 ---
 
+## Summary
+
+The Swatantra Party’s General Secretary’s Report to its Fourth National Convention in New Delhi records the party’s development between the Third National Convention in Bangalore in February 1964 and the convention of December 12–13, 1966. In the rendered pages, the report presents the party as moving from a mass organisation toward a cadre party through active membership, card-holding workers, pledge-signing members, and more systematic internal elections. It reviews meetings of the General Council, National Executive, and Central Parliamentary Board, together with resolutions on constitutional amendments, food scarcity, foreign policy, defence, the Emergency, gold control, and electoral arrangements.
+
 ## Key points
 
 - The report describes the Third National Convention as a deliberately businesslike gathering that reorganised the party from a mass party into a cadre party.

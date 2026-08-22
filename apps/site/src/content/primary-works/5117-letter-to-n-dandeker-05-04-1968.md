@@ -47,6 +47,10 @@ summary: |-
   This one-page English letter, dated 4 April 1968 and received on 5 April 1968, is from Trivikram Narainsingh to N. Dandekar, M.P., at the Swatantra Party's central office in Bombay. Narainsingh asks Dandekar to convene an emergency meeting of the Party's General Council.
 ---
 
+## Summary
+
+This one-page English letter, dated 4 April 1968 and received on 5 April 1968, is from Trivikram Narainsingh to N. Dandekar, M.P., at the Swatantra Party's central office in Bombay. Narainsingh asks Dandekar to convene an emergency meeting of the Party's General Council.
+
 ## Key points
 
 - The letter requests an emergency meeting of the Swatantra Party General Council.

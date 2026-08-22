@@ -51,6 +51,12 @@ summary: |-
   Prasad stresses that Narayan has been moved to a hospital ward but remains bedridden, dependent on support to move, and restricted to a liquid diet. He is especially alarmed that, despite examinations and investigations, the illness has not been identified and Narayan has not been told what medicines he is receiving. The letter conveys a personal appeal to Gandhi to assess whether it is in the Government’s interest for Narayan to die in jail, warning that he may not survive more than two months if his condition continues to deteriorate.
 ---
 
+## Summary
+
+In this two-page letter dated 9 November 1975, R. Prasad writes to Prime Minister Indira Gandhi about the deteriorating health of his brother, Jayaprakash Narayan, who is imprisoned in Chandigarh. Drawing on monthly visits since July, Prasad records Narayan’s worsening symptoms: low blood pressure, low blood sugar, nausea, loss of appetite, severe stomach pain, extreme weakness, swollen legs, bent toes, eye trouble, and large swellings below the eyes.
+
+Prasad stresses that Narayan has been moved to a hospital ward but remains bedridden, dependent on support to move, and restricted to a liquid diet. He is especially alarmed that, despite examinations and investigations, the illness has not been identified and Narayan has not been told what medicines he is receiving. The letter conveys a personal appeal to Gandhi to assess whether it is in the Government’s interest for Narayan to die in jail, warning that he may not survive more than two months if his condition continues to deteriorate.
+
 ## Key points
 
 - R. Prasad identifies himself as Jayaprakash Narayan’s brother and reports having visited him monthly since July 1975.

@@ -49,6 +49,12 @@ summary: |-
   Raju explains that the visit is intended to bring together representatives from across Saurashtra after local party units sought cooperation and wanted Masani to meet other party workers. He describes crossing the Rajkot frontier for such a visit as useful, but advises Masani not to insist on visiting every taluka or village. Raju says that he, Masani, and Pramod Kalyani can settle the programme together, and notes that a report titled “Arthe Rasta” was to be distributed at the Rajkot seminar.
 ---
 
+## Summary
+
+In this two-page letter dated January 27, 1970, S. V. Raju writes to M. R. Masani about a proposed Rajkot programme for February 7–9. The itinerary includes an all-party reception, procession, luncheon, afternoon seminar, Chamber of Commerce reception, public meeting, dinner, a farmers’ meeting at Amreli, another public meeting, a press conference, and departure from Rajkot. The proposed programme explicitly excludes the Communist and Indira groups from some events while inviting representatives of other parties and local dignitaries.
+
+Raju explains that the visit is intended to bring together representatives from across Saurashtra after local party units sought cooperation and wanted Masani to meet other party workers. He describes crossing the Rajkot frontier for such a visit as useful, but advises Masani not to insist on visiting every taluka or village. Raju says that he, Masani, and Pramod Kalyani can settle the programme together, and notes that a report titled “Arthe Rasta” was to be distributed at the Rajkot seminar.
+
 ## Key points
 
 - The letter proposes a detailed three-day Rajkot programme for February 7–9, 1970.

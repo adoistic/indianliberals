@@ -48,6 +48,10 @@ summary: |-
   This one-page English letter, dated 22 October 1959, is addressed to Mr. K. Uggeppa Shetty of the Swatantra Party in Mangalore. M. R. Masani thanks Shetty for his letter of 19 October and telegram of 21 October, and reports that he has arranged travel with the Traffic Manager of IAC. He plans to arrive by the morning plane on Sunday the 25th, but expects to stay only a few hours.
 ---
 
+## Summary
+
+This one-page English letter, dated 22 October 1959, is addressed to Mr. K. Uggeppa Shetty of the Swatantra Party in Mangalore. M. R. Masani thanks Shetty for his letter of 19 October and telegram of 21 October, and reports that he has arranged travel with the Traffic Manager of IAC. He plans to arrive by the morning plane on Sunday the 25th, but expects to stay only a few hours.
+
 ## Key points
 
 - Masani acknowledges correspondence from Mr. Shetty dated 19 October and a telegram dated 21 October.

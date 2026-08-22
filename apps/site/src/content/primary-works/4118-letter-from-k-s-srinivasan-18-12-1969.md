@@ -51,6 +51,12 @@ summary: |-
   The enclosed minutes of the 26 November 1969 Executive Committee meeting record attendance, confirmation of the previous minutes, the appointment of Shantilal Thar to chair the meeting in the absence of the President and Vice-Presidents, and progress in obtaining advertisements for the party's tenth-anniversary souvenir. They also report on regional party elections, including the Bombay North East District's failure to elect representatives in time, and replace R. V. Murthy with S. R. Pendse on an enquiry committee concerning the case against Desmond D'Souza. The meeting ended with a vote of thanks to the Chair.
 ---
 
+## Summary
+
+This two-page Swatantra Party Bombay Region document, dated 16 December 1969, is a letter from Office Secretary K. S. Srinivasan inviting members and office-bearers of the Regional Executive Committee to its first meeting on 24 December 1969. The agenda covers confirmation of earlier minutes, steps to strengthen party organisation, a resolution on the operation of bank accounts, and other business with the Chair's consent.
+
+The enclosed minutes of the 26 November 1969 Executive Committee meeting record attendance, confirmation of the previous minutes, the appointment of Shantilal Thar to chair the meeting in the absence of the President and Vice-Presidents, and progress in obtaining advertisements for the party's tenth-anniversary souvenir. They also report on regional party elections, including the Bombay North East District's failure to elect representatives in time, and replace R. V. Murthy with S. R. Pendse on an enquiry committee concerning the case against Desmond D'Souza. The meeting ended with a vote of thanks to the Chair.
+
 ## Key points
 
 - K. S. Srinivasan invites members of the Swatantra Party Bombay Region Executive Committee to a meeting scheduled for 24 December 1969.

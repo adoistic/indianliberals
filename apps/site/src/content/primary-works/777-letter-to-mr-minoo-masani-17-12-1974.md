@@ -48,6 +48,12 @@ summary: |-
   Bhatia argues that reviving the Swatantra Party is no longer a meaningful option because the decision was taken by a large majority—more than 87 percent—and any revival would need recognition by the Election Commission. The letter's immediate priority is financial and organisational: existing liabilities must be honoured before the money is allocated elsewhere. The document therefore offers a brief glimpse of post-Swatantra Party arrangements and a disagreement over the disposition of party assets.
 ---
 
+## Summary
+
+This one-page letter, dated 17 December 1974, is from V. P. Bhatia of the Bharatiya Lok Dal in Bombay to Minoo Masani. Bhatia asks Masani to sign transfer forms so that shares associated with the Swatantra Party can be sold and outstanding bills paid. He notes that Masani's earlier correspondence appears inconsistent about whether the proceeds should support a revived Swatantra Party, a biography of C. Rajagopalachari, or Jayaprakash Narayan's constructive activities.
+
+Bhatia argues that reviving the Swatantra Party is no longer a meaningful option because the decision was taken by a large majority—more than 87 percent—and any revival would need recognition by the Election Commission. The letter's immediate priority is financial and organisational: existing liabilities must be honoured before the money is allocated elsewhere. The document therefore offers a brief glimpse of post-Swatantra Party arrangements and a disagreement over the disposition of party assets.
+
 ## Key points
 
 - The letter is dated 17 December 1974 and is addressed to Minoo Masani.

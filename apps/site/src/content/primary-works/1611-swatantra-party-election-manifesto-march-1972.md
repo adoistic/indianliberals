@@ -69,6 +69,10 @@ summary: |-
   The Swatantra Party’s March 1972 Assembly Election Manifesto presents the party as an alternative to the ruling Congress, arguing that Congress majorities have been used to weaken constitutional protections, particularly through the 24th and 25th Amendments. It defends fundamental rights, private property, freedom of speech and expression, an independent press, and the protection of minorities and weaker sections. The manifesto also criticises what it describes as the drift toward one-party rule through state control of radio, television, imported publications, and other mass media.
 ---
 
+## Summary
+
+The Swatantra Party’s March 1972 Assembly Election Manifesto presents the party as an alternative to the ruling Congress, arguing that Congress majorities have been used to weaken constitutional protections, particularly through the 24th and 25th Amendments. It defends fundamental rights, private property, freedom of speech and expression, an independent press, and the protection of minorities and weaker sections. The manifesto also criticises what it describes as the drift toward one-party rule through state control of radio, television, imported publications, and other mass media.
+
 ## Key points
 
 - The manifesto attributes Congress’s electoral success to the first-past-the-post system and the absence of a credible alternative programme.

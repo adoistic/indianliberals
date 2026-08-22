@@ -49,6 +49,10 @@ summary: |-
   This single-page letter, dated 7 June 1975, was sent from the Swatantra Party's National Headquarters in Madras by Joint Secretary V. S. Srikumar to P. Narayan of the party's Maharashtra unit. Srikumar acknowledges Narayan's letter of 5 June and notes that K. M. Munshi has returned to Bombay and can be contacted for urgent communications.
 ---
 
+## Summary
+
+This single-page letter, dated 7 June 1975, was sent from the Swatantra Party's National Headquarters in Madras by Joint Secretary V. S. Srikumar to P. Narayan of the party's Maharashtra unit. Srikumar acknowledges Narayan's letter of 5 June and notes that K. M. Munshi has returned to Bombay and can be contacted for urgent communications.
+
 ## Key points
 
 - The letter is dated 7 June 1975 and is issued on Swatantra Party letterhead from its Madras headquarters.

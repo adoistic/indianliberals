@@ -48,6 +48,12 @@ summary: |-
   The document is a brief biographical tribute and party communication rather than an argument or policy statement. No individual author, date, formal title, or publisher is printed; the sender is identified institutionally through the Bombay Swatantra Party letterhead and address block.
 ---
 
+## Summary
+
+This single-page English letter is addressed to C. Rajagopalachari at his Madras residence and conveys the Bombay Swatantra Party's congratulations on his eightieth birthday. The message expresses hope that he will live long enough to guide the party toward its goal of “Swatantra,” and closes with “Pranams.”
+
+The document is a brief biographical tribute and party communication rather than an argument or policy statement. No individual author, date, formal title, or publisher is printed; the sender is identified institutionally through the Bombay Swatantra Party letterhead and address block.
+
 ## Key points
 
 - The letter is addressed to C. Rajagopalachari.

@@ -50,6 +50,12 @@ summary: |-
   Masani also draws attention to the lack of newspaper coverage of court proceedings. He observes that the Censorship Order of the Union Government and the Maharashtra Government excludes proceedings in courts of law, yet newspapers have not reported them. He particularly questions why newspapers in Madras, which he considers to be in a better position to do so, have not carried an account. The letter therefore combines a report on an ongoing public campaign with a pointed appeal for press coverage of legal proceedings during a period of censorship.
 ---
 
+## Summary
+
+In this letter dated July 22, 1975, M. R. Masani writes to T. Sadasivan about a letter from Nani Palkhivala and a note and proposed open letter prepared by K. Santhanam. Masani says he has followed Sadasivan's example by enclosing a letter to the readers of Freedom First, which briefly recounts their efforts and initial success, while noting that they must now wait until the end of August for further progress.
+
+Masani also draws attention to the lack of newspaper coverage of court proceedings. He observes that the Censorship Order of the Union Government and the Maharashtra Government excludes proceedings in courts of law, yet newspapers have not reported them. He particularly questions why newspapers in Madras, which he considers to be in a better position to do so, have not carried an account. The letter therefore combines a report on an ongoing public campaign with a pointed appeal for press coverage of legal proceedings during a period of censorship.
+
 ## Key points
 
 - Masani acknowledges receiving T. Sadasivan's letter of July 15 and discusses related material from Nani Palkhivala and K. Santhanam.

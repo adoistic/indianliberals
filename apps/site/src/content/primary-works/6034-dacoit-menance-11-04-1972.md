@@ -51,6 +51,12 @@ summary: |-
   In the rendered page, Bajaj stresses that surrendered dacoits must be dealt with under prevailing law while their families receive practical support, including possible access to land and other amenities. The article warns that idealistic appeals without a concrete rehabilitation programme could produce disillusionment and worsen the situation. Its central emphasis is that law enforcement and humane, workable governance must accompany moral persuasion.
 ---
 
+## Summary
+
+In the rendered page, Savitri Bajaj examines the continuing dacoit problem in the Chambal Valley and adjoining regions of Madhya Pradesh, Rajasthan and Uttar Pradesh. The article argues that the menace has deep-rooted social and economic causes, including land hunger, unemployment, personal feuds and the absence of effective rehabilitation. It notes that earlier efforts associated with Acharya Vinoba Bhave and Jayaprakash Narayan had encouraged some dacoits to surrender, but argues that surrender alone cannot resolve the underlying problem.
+
+In the rendered page, Bajaj stresses that surrendered dacoits must be dealt with under prevailing law while their families receive practical support, including possible access to land and other amenities. The article warns that idealistic appeals without a concrete rehabilitation programme could produce disillusionment and worsen the situation. Its central emphasis is that law enforcement and humane, workable governance must accompany moral persuasion.
+
 ## Key points
 
 - The article links the Chambal dacoit problem to land hunger, unemployment, personal feuds and other deep-rooted causes.

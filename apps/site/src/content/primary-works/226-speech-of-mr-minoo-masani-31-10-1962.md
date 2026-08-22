@@ -55,6 +55,12 @@ summary: |-
   Masani presents wartime unity as compatible with vigorous democratic opposition, drawing on Britain's experience during the Second World War. He condemns the Indian government's secrecy about casualties and military failures, calls for the Indian people to be treated as responsible adults, and demands modern weapons and foreign military assistance despite non-alignment. The latter part of the speech advocates a practical accommodation with Pakistan for joint defence, a reassessment of India's relationship with Nationalist China, and the exclusion of Communist organisations from the national war effort. He closes by calling for a democratic national unity aimed at total victory rather than a compromise that would leave India vulnerable.
 ---
 
+## Summary
+
+In this speech, delivered on 31 October 1962 during the Sino-Indian War, Minoo Masani argues that India must connect its immediate military crisis with broader questions of democratic government, national unity, and foreign policy. He distinguishes the conflicts in Cuba, Berlin, Vietnam, and India while insisting that they form part of a wider struggle between international Communism and the security and freedom of independent countries. Masani criticises the Soviet Union's support for China and urges national solidarity, voluntary economic discipline, and public vigilance against black-marketing, profiteering, hoarding, and other exploitative practices.
+
+Masani presents wartime unity as compatible with vigorous democratic opposition, drawing on Britain's experience during the Second World War. He condemns the Indian government's secrecy about casualties and military failures, calls for the Indian people to be treated as responsible adults, and demands modern weapons and foreign military assistance despite non-alignment. The latter part of the speech advocates a practical accommodation with Pakistan for joint defence, a reassessment of India's relationship with Nationalist China, and the exclusion of Communist organisations from the national war effort. He closes by calling for a democratic national unity aimed at total victory rather than a compromise that would leave India vulnerable.
+
 ## Key points
 
 - Masani situates the 1962 Sino-Indian conflict within a global confrontation between international Communism and the security of free countries.

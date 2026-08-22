@@ -49,6 +49,12 @@ summary: |-
   The letter then comments on the party's attempt to oust Hitendra Govtt from power, arguing that the party's current approach is inadequate and suggesting that developments over the next two or three days should be watched. It also discusses possible cooperation among the Syndicate, the Swatantra Party, and the Jana-Sangh, proposing that Morarji Desai ask H. M. Patel to invite the Swatantra Party into a coalition. The surviving envelope, postmarked 7 April 1970, is marked “FOR SWATANTRA PARTY'S WORK ONLY.” The sender's handwritten signature is not confidently identifiable from the rendered pages.
 ---
 
+## Summary
+
+This English-language letter, dated 26 March 1970 from Pratap Palace, Himmatnagar, is addressed by an unidentified sender to M. R. Masani, president of the Swatantra Party. The sender thanks Masani for his letter, says they will act quickly, and states that they will not renew their party membership when it expires on 31 December 1970.
+
+The letter then comments on the party's attempt to oust Hitendra Govtt from power, arguing that the party's current approach is inadequate and suggesting that developments over the next two or three days should be watched. It also discusses possible cooperation among the Syndicate, the Swatantra Party, and the Jana-Sangh, proposing that Morarji Desai ask H. M. Patel to invite the Swatantra Party into a coalition. The surviving envelope, postmarked 7 April 1970, is marked “FOR SWATANTRA PARTY'S WORK ONLY.” The sender's handwritten signature is not confidently identifiable from the rendered pages.
+
 ## Key points
 
 - The letter is dated 26 March 1970 and was sent from Pratap Palace, Himmatnagar, to M. R. Masani in New Delhi.

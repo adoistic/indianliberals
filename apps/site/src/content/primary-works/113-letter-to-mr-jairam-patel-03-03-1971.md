@@ -46,6 +46,12 @@ summary: |-
   Masani says he was greatly impressed, as an older person, by Patel's outspokenness, boldness, efficiency, punctuality and dynamism, and hopes they will see more of each other in the coming years. He mentions that he will look out for Patel when he returns to Rajkot on the 9th, encloses three pictures in which Patel figures, and signs off with renewed thanks for the support given to his candidature.
 ---
 
+## Summary
+
+A brief typed personal letter from Minoo Masani to Jairam Patel, Deputy Minister for Home Affairs in the Government of Gujarat, dated 3rd March 1971 and marked "PERSONAL". Masani writes to thank Patel for his "magnificent and stout-hearted campaigning" on Masani's behalf, evidently during the 1971 general election in which Masani contested the Rajkot seat.
+
+Masani says he was greatly impressed, as an older person, by Patel's outspokenness, boldness, efficiency, punctuality and dynamism, and hopes they will see more of each other in the coming years. He mentions that he will look out for Patel when he returns to Rajkot on the 9th, encloses three pictures in which Patel figures, and signs off with renewed thanks for the support given to his candidature.
+
 ## Key points
 
 - Personal letter from Minoo Masani to Jairam Patel dated 3rd March 1971, marked PERSONAL.

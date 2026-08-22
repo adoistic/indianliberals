@@ -49,6 +49,12 @@ summary: |-
   The letter asks the Election Commission to recognise the Maharashtra unit's continued operation and to allow it to retain the party's electoral symbol, the “Star.” Munshi argues that the symbol belongs to the Maharashtra State Swatantra Party as well as to the party's units in other states and at national headquarters, and therefore requests that any communication from the national headquarters seeking to freeze the symbol not be entertained insofar as Maharashtra is concerned.
 ---
 
+## Summary
+
+Dated August 23, 1974, this letter from Girish K. Munshi, General Secretary of the Swatantra Party in Maharashtra, is addressed to the Chief Election Commissioner of India. Munshi explains that although the party's National Convention had authorised the President, in consultation with the National Executive, to dissolve the party, the Maharashtra State Council had decided that the state unit would continue functioning even if the party were dissolved at the Centre.
+
+The letter asks the Election Commission to recognise the Maharashtra unit's continued operation and to allow it to retain the party's electoral symbol, the “Star.” Munshi argues that the symbol belongs to the Maharashtra State Swatantra Party as well as to the party's units in other states and at national headquarters, and therefore requests that any communication from the national headquarters seeking to freeze the symbol not be entertained insofar as Maharashtra is concerned.
+
 ## Key points
 
 - The letter reports a National Convention decision authorising the Swatantra Party's dissolution at the Centre.

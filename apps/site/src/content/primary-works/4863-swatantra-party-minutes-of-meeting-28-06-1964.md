@@ -48,6 +48,10 @@ summary: |-
   These draft minutes record two meetings of the Swatantra Party Organisation Sub Committee held on 28 and 29 June 1964. The first meeting, chaired by Prof. N. G. Ranga at K. M. Munshi’s residence, reviewed the party’s position in Kerala and considered whether it could contest the 1965 Assembly elections. After receiving advice from V. P. Menon and consulting the party’s zonal convenors, the committee authorised the party president, general secretary, and Menon to investigate the party’s future organisation in Kerala and the feasibility of contesting the elections.
 ---
 
+## Summary
+
+These draft minutes record two meetings of the Swatantra Party Organisation Sub Committee held on 28 and 29 June 1964. The first meeting, chaired by Prof. N. G. Ranga at K. M. Munshi’s residence, reviewed the party’s position in Kerala and considered whether it could contest the 1965 Assembly elections. After receiving advice from V. P. Menon and consulting the party’s zonal convenors, the committee authorised the party president, general secretary, and Menon to investigate the party’s future organisation in Kerala and the feasibility of contesting the elections.
+
 ## Key points
 
 - The minutes of the previous meeting of 17 May 1964 were approved and confirmed.

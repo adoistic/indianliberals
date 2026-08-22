@@ -48,6 +48,10 @@ summary: |-
   In this letter dated June 26, 1976, Bhanu Pratap Singh replies to S. V. Raju about efforts to merge opposition parties. Singh welcomes Raju’s interest in the merger and looks forward to bringing Minoo Masani and others who had not initially joined the BLD into the proposed new party, while cautioning that the process is not close to completion.
 ---
 
+## Summary
+
+In this letter dated June 26, 1976, Bhanu Pratap Singh replies to S. V. Raju about efforts to merge opposition parties. Singh welcomes Raju’s interest in the merger and looks forward to bringing Minoo Masani and others who had not initially joined the BLD into the proposed new party, while cautioning that the process is not close to completion.
+
 ## Key points
 
 - Bhanu Pratap Singh acknowledges S. V. Raju’s interest in merging opposition parties.

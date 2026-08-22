@@ -57,6 +57,12 @@ summary: |-
   The document’s principal function is parliamentary coordination. It distributes speaking responsibilities across twenty departmental demands for grants, covering portfolios from Home Affairs, Defence, and External Affairs to agriculture, education, health, planning, transport, and atomic energy. Where second and third speakers have not been specified, the party leader is authorized to select them. The document ends with the secretary’s sign-off by J. M. Lobo Prabhu.
 ---
 
+## Summary
+
+Dated March 22, 1968, this two-page record from the Swatantra Party Parliamentary Office reports an Executive Committee meeting held on March 21 in the Party Room of Parliament House, New Delhi. It lists eleven attendees and identifies K. M. Koushik as a special invitee. The record assigns party members to speak on legislative resolutions concerning Scheduled Castes and Scheduled Tribes, the President’s proclamation in Uttar Pradesh, the Armed Forces Special Powers Constitution Bill, and a proposed ban on the left Communist Party.
+
+The document’s principal function is parliamentary coordination. It distributes speaking responsibilities across twenty departmental demands for grants, covering portfolios from Home Affairs, Defence, and External Affairs to agriculture, education, health, planning, transport, and atomic energy. Where second and third speakers have not been specified, the party leader is authorized to select them. The document ends with the secretary’s sign-off by J. M. Lobo Prabhu.
+
 ## Key points
 
 - The Executive Committee met on March 21, 1968, at Parliament House in New Delhi.

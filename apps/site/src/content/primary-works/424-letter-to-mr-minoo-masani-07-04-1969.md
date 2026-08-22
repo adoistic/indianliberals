@@ -50,6 +50,12 @@ summary: |-
   Desai explains that the Swatantra Party is putting forward three members for the Estimates Committee, one for the Public Undertakings Committee, and one for the Public Accounts Committee. He stresses that the election of all five MPs will be possible only if every Swatantra MP is present in Delhi and votes, and therefore asks Masani to adjust his programme and attend.
 ---
 
+## Summary
+
+This one-page English office letter, dated April 7, 1969, is addressed by C.C. Desai, Secretary of the Swatantra Party Parliamentary Office, to Minoo Masani, M.P. It gives advance notice of elections to the Estimates, Public Accounts, and Public Undertakings Committees, scheduled for April 28, 1969, in Room No. 62 of Parliament House, New Delhi.
+
+Desai explains that the Swatantra Party is putting forward three members for the Estimates Committee, one for the Public Undertakings Committee, and one for the Public Accounts Committee. He stresses that the election of all five MPs will be possible only if every Swatantra MP is present in Delhi and votes, and therefore asks Masani to adjust his programme and attend.
+
 ## Key points
 
 - The letter is dated April 7, 1969, and is issued on Swatantra Party Parliamentary Office letterhead in New Delhi.

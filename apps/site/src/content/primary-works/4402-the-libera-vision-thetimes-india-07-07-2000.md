@@ -56,3 +56,7 @@ ai:
 summary: |-
   This eight-page Times of India, Bangalore issue dated Friday, July 7, 2000, includes the section “The Liberal Vision” alongside domestic, international, opinion, letters, and advertising material. The liberal articles argue for urbanisation, division of labour, private initiative, a liberal political alternative to socialism, and more effective public administration. Other pages address wildlife neglect, women’s rights in Kashmir, education, health policy, party politics, and international affairs.
 ---
+
+## Summary
+
+This eight-page Times of India, Bangalore issue dated Friday, July 7, 2000, includes the section “The Liberal Vision” alongside domestic, international, opinion, letters, and advertising material. The liberal articles argue for urbanisation, division of labour, private initiative, a liberal political alternative to socialism, and more effective public administration. Other pages address wildlife neglect, women’s rights in Kashmir, education, health policy, party politics, and international affairs.

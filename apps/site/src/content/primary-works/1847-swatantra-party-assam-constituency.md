@@ -49,6 +49,12 @@ summary: |-
   The page provides no printed title, author, issuer, date, or publication information. The circled handwritten number “1847” is visible but cannot be identified from this page as a document date.
 ---
 
+## Summary
+
+This single-page English administrative record headed “ASSAM” lists two individuals and their stated positions or requests concerning the Swatantra Party. D. N. Sengupta of Gauhati is described as dissatisfied with the present government and as having previously sent a memorandum on the language controversy to Rajaji; he expresses a willingness to follow Rajaji’s advice and help. D. N. Bhattacherya, an assistant inspector of schools in the Kamrup district, wishes to join the party and organise a Swatantra Party branch in Assam after 1 November 1959.
+
+The page provides no printed title, author, issuer, date, or publication information. The circled handwritten number “1847” is visible but cannot be identified from this page as a document date.
+
 ## Key points
 
 - The record is headed “ASSAM” and is organised under the columns “NAME” and “REMARKS.”

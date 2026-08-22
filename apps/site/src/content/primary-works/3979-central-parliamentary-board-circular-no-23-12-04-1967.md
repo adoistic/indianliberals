@@ -55,6 +55,10 @@ summary: |-
   This two-page Swatantra Party Central Office circular, dated 12 April 1967 and signed by General Secretary M. R. Masani, reports two urgent political developments for consideration by the General Parliamentary Board Sub-Committee. First, it explains the decision not to allow a Swatantra Party member to join the Cabinet being formed by Charan Singh in Uttar Pradesh, citing the party’s policy of “double rejection” and non-association with Congress. It records competing pressures from party colleagues and from Mr. Akhtar Ali Khan, leader of the party’s small Vidhan Sabha group, who argued that cooperation was necessary to prevent a fresh election.
 ---
 
+## Summary
+
+This two-page Swatantra Party Central Office circular, dated 12 April 1967 and signed by General Secretary M. R. Masani, reports two urgent political developments for consideration by the General Parliamentary Board Sub-Committee. First, it explains the decision not to allow a Swatantra Party member to join the Cabinet being formed by Charan Singh in Uttar Pradesh, citing the party’s policy of “double rejection” and non-association with Congress. It records competing pressures from party colleagues and from Mr. Akhtar Ali Khan, leader of the party’s small Vidhan Sabha group, who argued that cooperation was necessary to prevent a fresh election.
+
 ## Key points
 
 - The circular concerns Cabinet formation in Uttar Pradesh and a proposed by-election to the Rajya Sabha from Orissa.

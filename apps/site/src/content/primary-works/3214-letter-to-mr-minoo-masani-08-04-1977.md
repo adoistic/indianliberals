@@ -44,6 +44,10 @@ summary: |-
   This one-page letter, dated April 8, 1977, is addressed to M. R. Masani and signed by K. H. Subramanian, L. R. Sampat, and S. V. Raju. The signatories acknowledge Masani's response to their request for arbitration and note that Girish Munshi has forwarded the relevant papers to him.
 ---
 
+## Summary
+
+This one-page letter, dated April 8, 1977, is addressed to M. R. Masani and signed by K. H. Subramanian, L. R. Sampat, and S. V. Raju. The signatories acknowledge Masani's response to their request for arbitration and note that Girish Munshi has forwarded the relevant papers to him.
+
 ## Key points
 
 - The letter is dated April 8, 1977, and was sent from Bombay.

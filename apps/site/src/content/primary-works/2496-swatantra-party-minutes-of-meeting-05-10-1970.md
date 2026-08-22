@@ -53,6 +53,12 @@ summary: |-
   The council also discusses subsidies to primary units, setting 31 December 1970 as the final date for assessing membership and awarding a proposed trophy, and plans a one-day Shibir at the Bharat Scouts and Guides Hall in Shivaji Park. A physical-education programme is deferred for further discussion. The final substantive item concerns the party's position in a by-election: the council adopts a resolution condemning Shri Vasantraod Patil's support for a Communist Party candidate and describes the Communist Party as anti-democratic and opposed to the Constitution. The meeting ends with a vote of thanks to the Chair.
 ---
 
+## Summary
+
+These draft minutes record a meeting of the Bombay Regional Council of the Swatantra Party held at the party office on 5 October 1970. The record lists 17 members present, grants leave of absence to Shri Ramesh Dave, approves the minutes of the previous meeting after deleting one paragraph, and reviews follow-up matters including training classes, slum clearance, a proposed district office for Bombay North East, preparations for a National Convention, membership recruitment, and office premises for the Worli unit.
+
+The council also discusses subsidies to primary units, setting 31 December 1970 as the final date for assessing membership and awarding a proposed trophy, and plans a one-day Shibir at the Bharat Scouts and Guides Hall in Shivaji Park. A physical-education programme is deferred for further discussion. The final substantive item concerns the party's position in a by-election: the council adopts a resolution condemning Shri Vasantraod Patil's support for a Communist Party candidate and describes the Communist Party as anti-democratic and opposed to the Constitution. The meeting ends with a vote of thanks to the Chair.
+
 ## Key points
 
 - The Bombay Regional Council met on 5 October 1970 with 17 members present and one member granted leave of absence.

@@ -44,6 +44,10 @@ summary: |-
   This one-page administrative letter, dated September 18, 1963, is addressed to M/s. Khatau Makanji Spg. & Wvg. Co. Ltd. at Laxmi Building, 6 Ballard Road, Bombay. S. V. Raju acknowledges instructions contained in the recipient's memo of August 7 and encloses eight receipts valued at Rs. 250 each.
 ---
 
+## Summary
+
+This one-page administrative letter, dated September 18, 1963, is addressed to M/s. Khatau Makanji Spg. & Wvg. Co. Ltd. at Laxmi Building, 6 Ballard Road, Bombay. S. V. Raju acknowledges instructions contained in the recipient's memo of August 7 and encloses eight receipts valued at Rs. 250 each.
+
 ## Key points
 
 - The letter is dated September 18, 1963.

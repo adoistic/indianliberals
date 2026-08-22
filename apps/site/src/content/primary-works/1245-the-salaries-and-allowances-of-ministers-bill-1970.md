@@ -49,6 +49,12 @@ summary: |-
   The bill specifies deductions and benefits connected with official residences, staff, utilities, travel, medical treatment, and motor-car purchases. Ministers receive furnished residences subject to monthly charges, travelling and daily allowances for official duties, free government medical treatment for themselves and their families, and repayable motor-car advances bearing interest at ten per cent per annum. It prohibits ministers from drawing salary or allowances as Members of Parliament, provides for Gazette notification of appointments, authorises the Central Government to make implementing rules, and repeals the Salaries and Allowances of Ministers Act, 1952. The accompanying Statement of Objects and Reasons presents the measure as a way to disclose the full value of ministerial emoluments while adjusting gross salary so that ministers' post-tax take-home emoluments are not reduced.
 ---
 
+## Summary
+
+The Salaries and Allowances of Ministers Bill, 1970, introduced by N. Dandekar, proposes to consolidate and amend the law governing ministerial pay and benefits. The bill sets monthly salaries at Rs. 37,500 for ministers other than deputy ministers and Rs. 25,000 for deputy ministers, with the Act coming into force on 1 April 1971. It also defines ministers to include deputy ministers and provides that ministerial salaries are included in total income for income-tax purposes.
+
+The bill specifies deductions and benefits connected with official residences, staff, utilities, travel, medical treatment, and motor-car purchases. Ministers receive furnished residences subject to monthly charges, travelling and daily allowances for official duties, free government medical treatment for themselves and their families, and repayable motor-car advances bearing interest at ten per cent per annum. It prohibits ministers from drawing salary or allowances as Members of Parliament, provides for Gazette notification of appointments, authorises the Central Government to make implementing rules, and repeals the Salaries and Allowances of Ministers Act, 1952. The accompanying Statement of Objects and Reasons presents the measure as a way to disclose the full value of ministerial emoluments while adjusting gross salary so that ministers' post-tax take-home emoluments are not reduced.
+
 ## Key points
 
 - The proposed Act consolidates and amends the law on salaries and allowances of ministers and is intended to commence on 1 April 1971.

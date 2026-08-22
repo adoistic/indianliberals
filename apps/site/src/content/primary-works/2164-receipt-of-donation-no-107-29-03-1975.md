@@ -49,6 +49,12 @@ summary: |-
   The receipt records the amount as Rs. 25/-, with the handwritten purpose line indicating a donation. It bears a receiver's signature and a printed space for the honorary treasurer. No publication title, author, or substantive argumentative text appears on the page.
 ---
 
+## Summary
+
+This one-page English-language office record is a donation receipt issued by the Maharashtra Region of the Swatantra Party from its Bombay-1 office at Sassoon Building, 143 Mahatma Gandhi Road. Receipt No. 107 is dated 29 March 1975 and records a contribution received from S. V. Raju.
+
+The receipt records the amount as Rs. 25/-, with the handwritten purpose line indicating a donation. It bears a receiver's signature and a printed space for the honorary treasurer. No publication title, author, or substantive argumentative text appears on the page.
+
 ## Key points
 
 - The document is a printed donation receipt rather than a conventional publication.

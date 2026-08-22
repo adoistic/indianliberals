@@ -57,6 +57,12 @@ summary: |-
   The enclosures document the political and legal steps behind the merger. The Swatantra Party’s August 1974 resolution advocates a two-party system and a broad “National Alternative” excluding the ruling Congress and Communist parties. It welcomes the impending formation of the Bharatiya Lok Dal, authorises Piloo Mody to notify the Chief Election Commissioner of the party’s dissolution, and provides for members who do not join the new party to continue non-partisan activities. Excerpts from the Election Commission’s order of 3 January 1975 describe the amalgamation of the Swatantra Party, Bharatiya Kranti Dal, and Utkal Congress, recognise the resulting Bharatiya Lok Dal as a national party, and freeze the former parties’ election symbols to prevent confusion. The complete 11-page file is visible here, including the letter, resolutions, and order excerpts.
 ---
 
+## Summary
+
+This untitled letter, dated 28 July 1975 and signed by V. P. Bhatia as Executive Secretary of the Bharatiya Lok Dal, asks Mrs. N. Dandekar to redirect rent from premises associated with the former Swatantra Party to the Bharatiya Lok Dal. Bhatia bases the request on the Swatantra Party’s 1974 resolution, the Election Commission’s recognition of the Bharatiya Lok Dal as its successor, and the Commission’s conclusion that the Swatantra Party could no longer function under that name.
+
+The enclosures document the political and legal steps behind the merger. The Swatantra Party’s August 1974 resolution advocates a two-party system and a broad “National Alternative” excluding the ruling Congress and Communist parties. It welcomes the impending formation of the Bharatiya Lok Dal, authorises Piloo Mody to notify the Chief Election Commissioner of the party’s dissolution, and provides for members who do not join the new party to continue non-partisan activities. Excerpts from the Election Commission’s order of 3 January 1975 describe the amalgamation of the Swatantra Party, Bharatiya Kranti Dal, and Utkal Congress, recognise the resulting Bharatiya Lok Dal as a national party, and freeze the former parties’ election symbols to prevent confusion. The complete 11-page file is visible here, including the letter, resolutions, and order excerpts.
+
 ## Key points
 
 - The 28 July 1975 letter requests that rent from Mrs. N. Dandekar’s premises be paid to the Bharatiya Lok Dal.

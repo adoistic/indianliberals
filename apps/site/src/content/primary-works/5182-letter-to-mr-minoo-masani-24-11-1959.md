@@ -50,6 +50,12 @@ summary: |-
   Dutt then reveals that he is “Junius,” the writer of the feature “Capital Comments” in Swarajya. To substantiate Junius’s reputation, he quotes Paul Sherbert, Executive Director of the Asia Society, who praises Junius’s brilliance, corrosiveness, buoyancy, passion, and moral conviction. The letter closes with an invitation to meet Masani at his convenience. The document is primarily a personal and political-literary exchange, combining praise for Masani’s public speaking, support for the emerging Swatantra movement, and a disclosure of journalistic identity.
 ---
 
+## Summary
+
+This two-page letter, dated 24 November 1959, is addressed by K. Iswara Dutt to Minoo Masani. Dutt recalls an earlier attempted meeting when Masani was Secretary of the National Book Trust, then congratulates him on a speech at Sapru House, calling it an outstanding example of polemics. He also praises the success and forcefulness of the Swatantra meeting and describes C. Rajagopalachari’s campaign in the South as increasingly reminiscent of William Gladstone’s Midlothian campaign.
+
+Dutt then reveals that he is “Junius,” the writer of the feature “Capital Comments” in Swarajya. To substantiate Junius’s reputation, he quotes Paul Sherbert, Executive Director of the Asia Society, who praises Junius’s brilliance, corrosiveness, buoyancy, passion, and moral conviction. The letter closes with an invitation to meet Masani at his convenience. The document is primarily a personal and political-literary exchange, combining praise for Masani’s public speaking, support for the emerging Swatantra movement, and a disclosure of journalistic identity.
+
 ## Key points
 
 - K. Iswara Dutt writes to Minoo Masani from New Delhi on 24 November 1959.

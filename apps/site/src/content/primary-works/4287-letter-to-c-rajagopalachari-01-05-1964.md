@@ -54,6 +54,12 @@ summary: |-
   The attached express telegram concerns Sheikh Abdullah's proposed visit to Madras, while the handwritten continuation turns to the party's constitutional and organisational crisis. Masani argues that everything depends on the forthcoming election and urges Rajagopalachari to formulate a clear position that would allow Abdullah to contest freely. He condemns proposed electoral rules as an attempt to restrict constitutional rights, considers whether the party should protest or withdraw, and stresses the importance of preventing undue influence and intimidation in the election.
 ---
 
+## Summary
+
+In this 1 May 1964 letter from New Delhi, M. R. Masani writes to C. Rajagopalachari about the impending 17th Amendment Bill and the Swatantra Party's response. He reports plans for a Kisan Day demonstration against the amendment, describes disaffection within the party, and discusses the positions of party figures including Dayabhai, Kalahandi, Maharani Gayatri Devi, Sardar Ram Singh, and Balraj Madhok. Masani presents the political atmosphere as hostile and argues that party leaders must preserve a principled, non-aligned position while managing internal pressures.
+
+The attached express telegram concerns Sheikh Abdullah's proposed visit to Madras, while the handwritten continuation turns to the party's constitutional and organisational crisis. Masani argues that everything depends on the forthcoming election and urges Rajagopalachari to formulate a clear position that would allow Abdullah to contest freely. He condemns proposed electoral rules as an attempt to restrict constitutional rights, considers whether the party should protest or withdraw, and stresses the importance of preventing undue influence and intimidation in the election.
+
 ## Key points
 
 - Masani reports that the 17th Amendment Bill is to be considered in a special parliamentary session and that a Kisan Day demonstration is being organised against it.

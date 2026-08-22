@@ -52,6 +52,12 @@ summary: |-
   Members are also asked to cross-mark their preferences among 22 ministries and portfolios, ranging from Atomic Energy, Commerce, Defence, Finance, Education, and External Affairs to Agriculture, Health, Labour, Law, Railways, Social Welfare, Transport, and Works, Housing & Supply. The circular is issued from 53 North Avenue, New Delhi, and is signed by C. C. Desai as Secretary.
 ---
 
+## Summary
+
+This untitled circular from the Swatantra Party Parliamentary Office, dated July 25, 1968, asks party members to indicate the subjects on which they would generally like to speak in the House. The stated purpose is to facilitate the selection of party speakers and to build specialization among members in particular subjects.
+
+Members are also asked to cross-mark their preferences among 22 ministries and portfolios, ranging from Atomic Energy, Commerce, Defence, Finance, Education, and External Affairs to Agriculture, Health, Labour, Law, Railways, Social Welfare, Transport, and Works, Housing & Supply. The circular is issued from 53 North Avenue, New Delhi, and is signed by C. C. Desai as Secretary.
+
 ## Key points
 
 - The document is an internal Swatantra Party Parliamentary Office circular dated July 25, 1968.

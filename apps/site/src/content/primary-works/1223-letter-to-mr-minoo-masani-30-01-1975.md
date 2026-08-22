@@ -48,6 +48,12 @@ summary: |-
   The letter asks whether Masani was still leading and guiding the Swatantra Party and requests advance notice of Masani’s next visit to New Delhi so that Bharathi can meet him personally. Its tone is respectful and personal, concluding with an apology for the inconvenience and an expression of faith in Masani.
 ---
 
+## Summary
+
+This handwritten inland letter, dated 30 January 1975, is from R. S. Bharathi, an advocate in Shahjahanpur, to M. R. (Minoo) Masani in Bombay. Bharathi writes that he had visited Bombay on 22 January and had hoped to meet Masani, but was unable to do so.
+
+The letter asks whether Masani was still leading and guiding the Swatantra Party and requests advance notice of Masani’s next visit to New Delhi so that Bharathi can meet him personally. Its tone is respectful and personal, concluding with an apology for the inconvenience and an expression of faith in Masani.
+
 ## Key points
 
 - R. S. Bharathi writes from Shahjahanpur on 30 January 1975.

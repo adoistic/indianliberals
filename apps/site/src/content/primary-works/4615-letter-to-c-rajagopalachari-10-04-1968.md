@@ -46,6 +46,10 @@ summary: |-
   In this one-page letter dated 10 April 1968, M. R. Masani replies to C. Rajagopalachari (“Rajaji”) from New Delhi. Masani thanks Rajagopalachari for his letter of 5 April and says that he cannot accept the request that his resignation be withdrawn. He refers the recipient to reasons already explained in a separate letter to Ranga, a copy of which he encloses.
 ---
 
+## Summary
+
+In this one-page letter dated 10 April 1968, M. R. Masani replies to C. Rajagopalachari (“Rajaji”) from New Delhi. Masani thanks Rajagopalachari for his letter of 5 April and says that he cannot accept the request that his resignation be withdrawn. He refers the recipient to reasons already explained in a separate letter to Ranga, a copy of which he encloses.
+
 ## Key points
 
 - Masani writes from New Delhi on 10 April 1968.

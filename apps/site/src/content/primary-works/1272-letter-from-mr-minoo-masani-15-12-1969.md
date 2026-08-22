@@ -49,6 +49,12 @@ summary: |-
   Masani objects that other business has been placed on the agenda for the afternoons of December 15 and 16, leaving little time for the Bill. He asks the Speaker to ensure that no other business is scheduled on December 17 and 18, so that consideration of the Bill can proceed without interruption and, if possible, conclude by December 17 or 18.
 ---
 
+## Summary
+
+In this letter dated December 15, 1969, M. R. Masani writes from Parliament House, New Delhi, to the Speaker of the Lok Sabha about the scheduling of the Monopolies Bill. He recalls an agreement of the Business Advisory Committee that the controversial measure should be considered before the Opposition Congress’s session in Ahmedabad caused several members to be absent.
+
+Masani objects that other business has been placed on the agenda for the afternoons of December 15 and 16, leaving little time for the Bill. He asks the Speaker to ensure that no other business is scheduled on December 17 and 18, so that consideration of the Bill can proceed without interruption and, if possible, conclude by December 17 or 18.
+
 ## Key points
 
 - The letter is dated December 15, 1969, and was sent from Parliament House, New Delhi.

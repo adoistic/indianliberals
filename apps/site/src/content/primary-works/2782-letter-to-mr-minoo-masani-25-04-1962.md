@@ -53,6 +53,12 @@ summary: |-
   The handwritten continuation concerns the planned arrival of Professor Ranganathan in Delhi and a proposed meeting with parliamentary members. It refers to a National Democratic Club meeting at Lala Hansraj’s house, an invitation for Masani to address the club, and a suggestion that K. M. Munshi spend a week in Delhi to address the National Democratic Club and help persuade people to join the Swatantra Party. The documents are primarily administrative and political correspondence rather than a sustained statement of political doctrine.
 ---
 
+## Summary
+
+This letter, dated 25 April 1962 and written from New Delhi by Lok Sabha member Narendrasingh Mahida to M. R. Masani, reports on efforts to organize the party’s parliamentary group. Mahida describes a meeting attended by members of both Houses, the proposed appointment of Dayabhai Patel as chair, arrangements for party office space and funding, and the difficulty of coordinating members who were absent, travelling, or awaiting instructions. He also asks Masani to come to Delhi for discussions and notes that committee appointments and seating arrangements in the Lok Sabha are being worked out.
+
+The handwritten continuation concerns the planned arrival of Professor Ranganathan in Delhi and a proposed meeting with parliamentary members. It refers to a National Democratic Club meeting at Lala Hansraj’s house, an invitation for Masani to address the club, and a suggestion that K. M. Munshi spend a week in Delhi to address the National Democratic Club and help persuade people to join the Swatantra Party. The documents are primarily administrative and political correspondence rather than a sustained statement of political doctrine.
+
 ## Key points
 
 - Mahida acknowledges Masani’s telegrams and letter and reports convening a meeting of parliamentary members after returning from Simla.

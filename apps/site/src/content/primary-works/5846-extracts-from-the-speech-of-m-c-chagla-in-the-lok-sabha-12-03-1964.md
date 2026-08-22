@@ -53,6 +53,12 @@ summary: |-
   Responding to M. R. Masani’s criticisms, Chagla rejects leaving textbook production entirely to private enterprise, but supports competition between State and other publishers under a proper textbook committee. He identifies specialist knowledge, experienced teachers, skilled illustrators, and high-quality printing and paper as the four conditions of a first-class textbook. The extract also describes efforts to provide cheap university reprints through cooperation with the United States, the United Kingdom, and the USSR, and measures to reduce prices through donated paper and new printing presses. Chagla concludes by supporting legal action against book piracy, including making the offence cognisable.
 ---
 
+## Summary
+
+This three-page extract from M. C. Chagla’s 12 March 1964 Lok Sabha speech addresses the production, quality, price, and regulation of educational textbooks. Chagla argues for nationally coordinated textbook preparation through the National Council of Educational Research and Training, while allowing regional adaptation and translation into regional languages. He presents textbooks as formative instruments that should communicate India’s unity, cultural and spiritual heritage, philosophy, policies, and national leadership.
+
+Responding to M. R. Masani’s criticisms, Chagla rejects leaving textbook production entirely to private enterprise, but supports competition between State and other publishers under a proper textbook committee. He identifies specialist knowledge, experienced teachers, skilled illustrators, and high-quality printing and paper as the four conditions of a first-class textbook. The extract also describes efforts to provide cheap university reprints through cooperation with the United States, the United Kingdom, and the USSR, and measures to reduce prices through donated paper and new printing presses. Chagla concludes by supporting legal action against book piracy, including making the offence cognisable.
+
 ## Key points
 
 - Chagla calls for nationally prepared textbooks in major school subjects, circulated to States for adoption and regional modification.

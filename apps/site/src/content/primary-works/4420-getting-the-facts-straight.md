@@ -60,6 +60,12 @@ summary: |-
   The paper also contends that the Emergency’s apparent social calm came at the cost of fear, silence, and the erosion of democratic habits. It criticises an elitist judiciary, argues that basic public services remain inadequate nearly three decades after independence, and rejects centralised “Russian-style” planning in favour of a more decentralised approach. It concludes by urging support for the Janata Party and its proposed continuation along Gandhian lines.
 ---
 
+## Summary
+
+“GETTING THE FACTS STRAIGHT” is a one-page English political position paper assessing the consequences of India’s Emergency. It argues that the Emergency concentrated excessive power in the Centre, weakened the balance between the judiciary and executive, curtailed fundamental rights, imposed press censorship, and enabled interference and exploitation by people connected with government. The paper challenges the claim that the Emergency benefited ordinary citizens by pointing to rising unemployment, industrial sickness, inflation, stagnant agricultural and industrial performance, and declining per-capita income.
+
+The paper also contends that the Emergency’s apparent social calm came at the cost of fear, silence, and the erosion of democratic habits. It criticises an elitist judiciary, argues that basic public services remain inadequate nearly three decades after independence, and rejects centralised “Russian-style” planning in favour of a more decentralised approach. It concludes by urging support for the Janata Party and its proposed continuation along Gandhian lines.
+
 ## Key points
 
 - The Emergency is presented as an extreme governmental action whose benefits to the nation remain unproven.

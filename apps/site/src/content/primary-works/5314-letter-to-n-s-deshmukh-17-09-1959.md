@@ -45,6 +45,12 @@ summary: |-
   Hiral reports that Masani is temporarily outside India but is expected to return around 6 October. She adds that he will be in Delhi in November for the next session of Parliament. The letter is administrative and contains no substantive political argument; the archival notation “5314” is handwritten near the upper left of the page.
 ---
 
+## Summary
+
+This one-page English letter, dated 17 September 1959, is addressed to journalist Mr. N.S. Sirdeshmukh of Hyderabad Deccan. Miss B.S. Hiral, identified as secretary to M.R. Masani, acknowledges receipt of Sirdeshmukh’s postcard dated 31 July and explains that Masani has forwarded it to her.
+
+Hiral reports that Masani is temporarily outside India but is expected to return around 6 October. She adds that he will be in Delhi in November for the next session of Parliament. The letter is administrative and contains no substantive political argument; the archival notation “5314” is handwritten near the upper left of the page.
+
 ## Key points
 
 - The letter is dated 17 September 1959.

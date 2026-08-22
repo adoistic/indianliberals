@@ -51,6 +51,12 @@ summary: |-
   The review links the sector's weakness to policy choices that privilege agriculture and the railways while obstructing the growth of mechanised road transport. It argues that road revenues are diverted into general expenditure instead of being reinvested in roads, and cites taxation, check-posts, weigh-bridges, road restrictions, load limits, and licensing rules as additional impediments. It calls for a major reduction and simplification of road-transport taxation, the abolition of miscellaneous taxes and administrative obstacles, and the redirection of road revenues toward infrastructure development.
 ---
 
+## Summary
+
+This two-page review argues that post-Independence India has neglected its primary responsibility to provide infrastructure, particularly roads and road transport, while expanding the state's role in industrial and economic enterprise. Drawing on the Economic Research Department of Hindustan Motors' study Road Transport in India, it highlights the country's inadequate road network: roughly 595,450 miles of roads, only one-third of them metalled, serving a large population and a rapidly growing vehicle fleet. The review contrasts India's low road capacity with much higher truck-per-mile ratios elsewhere and presents road transport as essential to economic development.
+
+The review links the sector's weakness to policy choices that privilege agriculture and the railways while obstructing the growth of mechanised road transport. It argues that road revenues are diverted into general expenditure instead of being reinvested in roads, and cites taxation, check-posts, weigh-bridges, road restrictions, load limits, and licensing rules as additional impediments. It calls for a major reduction and simplification of road-transport taxation, the abolition of miscellaneous taxes and administrative obstacles, and the redirection of road revenues toward infrastructure development.
+
 ## Key points
 
 - The state has expanded into industrial enterprise while neglecting infrastructure provision, especially roads and road transport.

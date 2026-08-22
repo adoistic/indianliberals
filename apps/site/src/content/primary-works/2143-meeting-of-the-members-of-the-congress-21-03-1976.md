@@ -62,6 +62,12 @@ summary: |-
   The statement congratulates public resistance, expresses solidarity with political detainees, and pledges to restore democratic politics without narrow or partisan considerations. It identifies freedom of speech, association, communication and movement, and freedom from fear as essential democratic freedoms; rejects violence; and calls for a unified democratic opposition. It also welcomes suggestions from the Acharya Sammelan under Acharya Vinoba's guidance, provided that a national socio-economic consensus does not destroy India's democratic federal structure. The second page establishes a four-member Steering Committee to formulate a programme for a single unified democratic opposition party and complete integration within two months. Pages 3 and 4 duplicate pages 1 and 2.
 ---
 
+## Summary
+
+This four-page English press statement records the position adopted at a Bombay meeting held on 20–21 March 1976 by representatives of Congress (O), Jan Sangh, the B.L.D., the Socialist Party, D.M.K., R.S.P., independent political groups, and Sarvodaya workers. The meeting reviews the consequences of the Emergency declared on 26 June 1975, arguing that the suspension of civil liberties, press censorship, and continuing erosion of judicial authority have transformed the Government into an authoritarian regime.
+
+The statement congratulates public resistance, expresses solidarity with political detainees, and pledges to restore democratic politics without narrow or partisan considerations. It identifies freedom of speech, association, communication and movement, and freedom from fear as essential democratic freedoms; rejects violence; and calls for a unified democratic opposition. It also welcomes suggestions from the Acharya Sammelan under Acharya Vinoba's guidance, provided that a national socio-economic consensus does not destroy India's democratic federal structure. The second page establishes a four-member Steering Committee to formulate a programme for a single unified democratic opposition party and complete integration within two months. Pages 3 and 4 duplicate pages 1 and 2.
+
 ## Key points
 
 - The statement condemns the continuation of the Emergency without internal threat or justification.

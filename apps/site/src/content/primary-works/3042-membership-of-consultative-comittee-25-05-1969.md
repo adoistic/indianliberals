@@ -52,6 +52,12 @@ summary: |-
   The schedule assigns between one and three proposed members to each committee and concludes with the signature of C. C. Desai as Secretary. The document therefore offers a snapshot of the party’s proposed consultative structure and the range of individuals associated with particular areas of governance. No formally named author, title, or table of contents appears on the rendered pages.
 ---
 
+## Summary
+
+This two-page English-language circular from the Swatantra Party Parliamentary Office, dated May 25, 1969, informs party members of the proposed membership of consultative committees. It does not present an argument or policy essay; instead, it provides an administrative roster covering 25 ministerial and departmental subjects, including atomic energy, defence, education, external affairs, finance, agriculture, foreign trade, health, housing, industry, communications, labour, planning, law, transport, steel, and tourism.
+
+The schedule assigns between one and three proposed members to each committee and concludes with the signature of C. C. Desai as Secretary. The document therefore offers a snapshot of the party’s proposed consultative structure and the range of individuals associated with particular areas of governance. No formally named author, title, or table of contents appears on the rendered pages.
+
 ## Key points
 
 - The Swatantra Party Parliamentary Office issued the circular from 53 North Avenue, New Delhi, on May 25, 1969.

@@ -51,6 +51,12 @@ summary: |-
   An accompanying Department of Parliamentary Affairs letter from H. N. Trivedi explains that the Government proposes to sponsor an official visit by ten Members of Parliament for an on-the-spot study of the region’s economic growth and development needs. Annexure-I provides a tentative itinerary: travel from Delhi to Leh via Chandigarh, onward by road to Kargil and Srinagar, and return to Delhi between October 3 and 9, 1969. Annexure-II is a confirmation form for participating members, including dietary information and contact details. The packet documents parliamentary coordination, party representation, and an administrative approach to regional development; it does not contain findings from the proposed visit.
 ---
 
+## Summary
+
+This five-page correspondence packet, dated September 18, 1969, records Prof. N. G. Ranga’s efforts to secure M. R. Masani’s participation in a proposed parliamentary study delegation to Ladakh and Leh. Ranga first invites Masani to join the delegation and then writes to Parliamentary Affairs Minister K. Raghuramaiah requesting that Masani, described as the party’s Deputy Leader, be included. The correspondence places the proposed visit in the context of parliamentary interest in Ladakh.
+
+An accompanying Department of Parliamentary Affairs letter from H. N. Trivedi explains that the Government proposes to sponsor an official visit by ten Members of Parliament for an on-the-spot study of the region’s economic growth and development needs. Annexure-I provides a tentative itinerary: travel from Delhi to Leh via Chandigarh, onward by road to Kargil and Srinagar, and return to Delhi between October 3 and 9, 1969. Annexure-II is a confirmation form for participating members, including dietary information and contact details. The packet documents parliamentary coordination, party representation, and an administrative approach to regional development; it does not contain findings from the proposed visit.
+
 ## Key points
 
 - N. G. Ranga invited M. R. Masani to join a proposed parliamentary delegation to Ladakh and Leh.

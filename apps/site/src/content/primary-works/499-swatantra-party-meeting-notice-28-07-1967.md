@@ -51,6 +51,12 @@ summary: |-
   The second announces a General Body meeting of the party in Parliament, scheduled for 6:00 p.m. on Monday, July 31, 1967, in Room No. 62, First Floor, Parliament House, New Delhi. Its stated agenda is to discuss three bills introduced by Shri P. K. Deo and to consider any other item with the Chair’s permission.
 ---
 
+## Summary
+
+This one-page English circular from the Swatantra Party Parliamentary Office in New Delhi, dated July 28, 1967, contains two internal communications signed by Secretary J. M. Lobo Prabhu. The first reminds party members that they must not sign statements with members of other parties without the Swatantra Party’s prior permission.
+
+The second announces a General Body meeting of the party in Parliament, scheduled for 6:00 p.m. on Monday, July 31, 1967, in Room No. 62, First Floor, Parliament House, New Delhi. Its stated agenda is to discuss three bills introduced by Shri P. K. Deo and to consider any other item with the Chair’s permission.
+
 ## Key points
 
 - The circular is issued on Swatantra Party Parliamentary Office letterhead from 53 North Avenue, New Delhi.

@@ -53,6 +53,12 @@ summary: |-
   The meeting discussed the proposed abolition of the managing agency system. The members recorded their view that there was no difference between the managing-agency system and a system of managing directors, and argued that both systems should continue without interruption in the interests of healthy competition. The document is a concise administrative record rather than a developed policy paper.
 ---
 
+## Summary
+
+This one-page English office record, issued on Swatantra Party Parliamentary Office letterhead on 21 August 1968, records a General Body meeting held the previous day in Parliament House, New Delhi. It lists sixteen attendees, including Minoo Masani, D. N. Patodia, Piloo Mody, and other party members, with D. N. Patodia signing as Secretary.
+
+The meeting discussed the proposed abolition of the managing agency system. The members recorded their view that there was no difference between the managing-agency system and a system of managing directors, and argued that both systems should continue without interruption in the interests of healthy competition. The document is a concise administrative record rather than a developed policy paper.
+
 ## Key points
 
 - The document records a Swatantra Party Parliamentary Office General Body meeting held on 20 August 1968.

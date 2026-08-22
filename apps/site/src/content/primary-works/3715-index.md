@@ -52,6 +52,12 @@ summary: |-
   The index traces organisational and political activity from the National Executive meetings of 6–7 April through the Maharashtra State Council and General Council meetings in June and July, the Delhi Convention of 4–5 August, and correspondence continuing into late August. It names Piloo Mody, Madhu Mehta, Minoo Masani, Mr. Munshi, and Narayan in connection with these records. No page ranges for the indexed documents, publication year, or separate author byline are provided on the visible page.
 ---
 
+## Summary
+
+This single-page English-language archival index inventories 28 records associated with the Swatantra Party, with a strong focus on the Maharashtra unit and party activity during 1974. The listed materials include the party constitution, membership and office-bearer lists, national and state council minutes, agendas, resolutions, policy drafts, circulars, correspondence, press statements, convention papers, resignations, and logistical letters concerning premises and the party symbol.
+
+The index traces organisational and political activity from the National Executive meetings of 6–7 April through the Maharashtra State Council and General Council meetings in June and July, the Delhi Convention of 4–5 August, and correspondence continuing into late August. It names Piloo Mody, Madhu Mehta, Minoo Masani, Mr. Munshi, and Narayan in connection with these records. No page ranges for the indexed documents, publication year, or separate author byline are provided on the visible page.
+
 ## Key points
 
 - The page is headed “Index.” and lists 28 Swatantra Party-related records.

@@ -54,6 +54,12 @@ summary: |-
   The circular establishes a tiered organisational structure of Primary Committees, District Committees, the Bombay Regional Council, and the All-India General Council. It specifies committee sizes, proportional representation rules, office-bearer positions, returning officers, nomination procedures, and secret-ballot voting. The annexures provide district membership allocations, a 50-member Regional Council allocation, nomination forms, and detailed election schedules running from late August through October 1967.
 ---
 
+## Summary
+
+This 2 August 1967 Swatantra Party Bombay Region circular, signed by Joint Secretary P. S. Koppiker, sets out the procedures for internal party elections. It divides the Bombay region into five district constituencies—Bombay South, Bombay Central South, Bombay Central, Bombay North West, and Bombay North East—and lists their primary assembly units. It defines voting and candidacy eligibility for life workers, ordinary workers, and members whose subscriptions are expiring during the election period, while distinguishing members entitled only to vote from those eligible to stand for office.
+
+The circular establishes a tiered organisational structure of Primary Committees, District Committees, the Bombay Regional Council, and the All-India General Council. It specifies committee sizes, proportional representation rules, office-bearer positions, returning officers, nomination procedures, and secret-ballot voting. The annexures provide district membership allocations, a 50-member Regional Council allocation, nomination forms, and detailed election schedules running from late August through October 1967.
+
 ## Key points
 
 - The Bombay Region is organised into five district constituencies, each made up of specified primary assembly units.

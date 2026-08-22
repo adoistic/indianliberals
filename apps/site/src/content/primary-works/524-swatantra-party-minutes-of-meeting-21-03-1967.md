@@ -50,6 +50,12 @@ summary: |-
   The minutes also record discussion of a draft amendment to the motion of thanks on the President’s Address. The second page provides the final list of office-bearers, naming Masani as Leader, J. M. Lobo Prabhu and C. C. Desai as Secretaries, Y. G. Gowd as Chief Whip, and Viren J. Shah and K. P. Singh Deo as Whips. An Executive Committee was appointed for six months, and R. K. Amin’s proposal to allow non-members of the committee to participate in its deliberations was approved. The meeting then adjourned with a vote of thanks to the chair.
 ---
 
+## Summary
+
+This two-page record from the Swatantra Party Parliamentary Office documents a general-body meeting of the party’s Lok Sabha members held in Room No. 50 on 20 March 1967. It lists 34 people present, with M. R. Masani in the chair, and records three administrative announcements: members were to contribute Rs. 40 per month to the Parliamentary Office Account, submit copies of speeches for the party journal "Swatantra in Parliament," and obtain prior party permission before tabling amendments, adjournment motions, or Calling Attention Notices.
+
+The minutes also record discussion of a draft amendment to the motion of thanks on the President’s Address. The second page provides the final list of office-bearers, naming Masani as Leader, J. M. Lobo Prabhu and C. C. Desai as Secretaries, Y. G. Gowd as Chief Whip, and Viren J. Shah and K. P. Singh Deo as Whips. An Executive Committee was appointed for six months, and R. K. Amin’s proposal to allow non-members of the committee to participate in its deliberations was approved. The meeting then adjourned with a vote of thanks to the chair.
+
 ## Key points
 
 - The meeting of Swatantra Party Lok Sabha members was held on 20 March 1967 and recorded by the Parliamentary Office on 21 March.

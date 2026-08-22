@@ -48,6 +48,12 @@ summary: |-
   A carbon-copy instruction at the bottom asks S. V. Raju, identified as editor of Freedom First in Bombay, to arrange the mailing. The page also contains handwritten annotations and a signature; no title, publisher, or further correspondence is present.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to Philip Mason, dated July 12, 1989, acknowledges that the July issue of Freedom First carries an article about Mason on page 17. Masani says he is arranging for a copy of the issue to be sent to Mason by second-class air mail and expresses pleasure at the recognition Mason's work has received in India.
+
+A carbon-copy instruction at the bottom asks S. V. Raju, identified as editor of Freedom First in Bombay, to arrange the mailing. The page also contains handwritten annotations and a signature; no title, publisher, or further correspondence is present.
+
 ## Key points
 
 - The letter is dated July 12, 1989 and is signed by M. R. Masani.

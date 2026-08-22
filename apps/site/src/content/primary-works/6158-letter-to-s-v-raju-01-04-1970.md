@@ -52,6 +52,12 @@ summary: |-
   Masani advises against appending comments to the National Executive note while the strategic disagreement remains unsettled. He agrees that Dandekar’s cryptic draft should replace the drafts in items 1a and 1b, and asks Raju to circulate a revised, tabulated set of comments to Executive members before they leave. The letter also briefly reports that Masani’s mother has undergone a major operation and appears to be recovering satisfactorily.
 ---
 
+## Summary
+
+In this letter dated 1 April 1970, M. R. Masani writes to S. V. Raju about an unresolved strategic disagreement within the Swatantra Party. Masani identifies a basic clash between Cooper, who wants the economic charges dropped along with the other charges, and Dandekar, who wants all charges dropped except the first two economic ones. He proposes informal discussions among Dandekar, Cooper, and Raju in Bombay, followed by alternative draft resolutions and consultation with the National Executive.
+
+Masani advises against appending comments to the National Executive note while the strategic disagreement remains unsettled. He agrees that Dandekar’s cryptic draft should replace the drafts in items 1a and 1b, and asks Raju to circulate a revised, tabulated set of comments to Executive members before they leave. The letter also briefly reports that Masani’s mother has undergone a major operation and appears to be recovering satisfactorily.
+
 ## Key points
 
 - Masani describes a strategic disagreement between Cooper and Dandekar over which economic charges should be retained.

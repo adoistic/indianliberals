@@ -64,6 +64,12 @@ summary: |-
   In the rendered pages, the programme emphasizes property rights, peasant proprietorship, opposition to compulsory collective farming, secure tenancy, credit and irrigation, improved seeds and fertilizers, fair agricultural prices, rural electrification, and employment outside agriculture. It opposes the concentration of economic power in the state and calls for a more decentralized pattern of industrial development, with government acting primarily as helper and regulator rather than participant. The document’s central economic argument is that prosperity depends on freedom, productive incentives, self-reliance, and the release of individual and local initiative. The rendered pages continue into the manifesto’s discussion of industry and trade, but the remainder of that section and later sections were not visible.
 ---
 
+## Summary
+
+The Swatantra Party Manifesto presents the party as a democratic alternative to the Congress after eighteen years of centralized rule. In the rendered pages, it attributes India’s political and economic difficulties to Congress dominance, administrative inefficiency, corruption, excessive taxation, inflation, licensing and controls, dependence on foreign assistance, and the neglect of agriculture and small-scale industry. It argues that a vigilant Opposition is essential to prevent arbitrary government and that political power should be dispersed so citizens can exercise initiative and responsibility. The manifesto explicitly invokes C. Rajagopalachari’s principle that “government is best which governs the least.”
+
+In the rendered pages, the programme emphasizes property rights, peasant proprietorship, opposition to compulsory collective farming, secure tenancy, credit and irrigation, improved seeds and fertilizers, fair agricultural prices, rural electrification, and employment outside agriculture. It opposes the concentration of economic power in the state and calls for a more decentralized pattern of industrial development, with government acting primarily as helper and regulator rather than participant. The document’s central economic argument is that prosperity depends on freedom, productive incentives, self-reliance, and the release of individual and local initiative. The rendered pages continue into the manifesto’s discussion of industry and trade, but the remainder of that section and later sections were not visible.
+
 ## Key points
 
 - The manifesto frames the 1967 elections as an opportunity to replace Congress rule with a principled and organized democratic alternative.

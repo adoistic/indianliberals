@@ -50,6 +50,12 @@ summary: |-
   The proposals seek to narrow or qualify executive and tribunal powers. They would replace “control” with “intensification,” prevent the Government from introducing co-operative farming compulsorily, require prima facie evidence to be made available to an aggrieved party for consultation, mandate written evidence in Special Tribunal trials, and remove provisions barring appeals or judicial review. The notice is dated New Delhi, November 16, 1962, and is signed administratively by M. N. Kaju, Secretary.
 ---
 
+## Summary
+
+This two-page Lok Sabha notice sets out ten proposed amendments to the Defence of India Bill, 1962. The amendments are attributed to C. L. Narasimha Reddy, Narendra Singh Mahida, Sardar Buta Singh, and Himmatsinghji, and address several provisions concerning agricultural control, Special Tribunals, evidence, appeals, and property possession.
+
+The proposals seek to narrow or qualify executive and tribunal powers. They would replace “control” with “intensification,” prevent the Government from introducing co-operative farming compulsorily, require prima facie evidence to be made available to an aggrieved party for consultation, mandate written evidence in Special Tribunal trials, and remove provisions barring appeals or judicial review. The notice is dated New Delhi, November 16, 1962, and is signed administratively by M. N. Kaju, Secretary.
+
 ## Key points
 
 - The document is a Lok Sabha notice of ten amendments to the Defence of India Bill, 1962.

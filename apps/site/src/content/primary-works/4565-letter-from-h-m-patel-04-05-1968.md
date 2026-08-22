@@ -51,6 +51,12 @@ summary: |-
   The National Executive Committee decided that the Gujarat Swatantra Party President should deal with the investigation report in consultation with the State Executive and determine what disciplinary action, if any, should be taken. Patel adds that the matter will be discussed at the next meeting of the Gujarat State Executive Committee. The letter is copied to Bhagwanjibhai Bhanji Patel, Harkantbhai Shukla, and the Central Office's Executive Secretary in Bombay.
 ---
 
+## Summary
+
+This single-page letter, dated 4 May 1968, is from H. M. Patel, President of the Gujarat Swatantra Party, to the President of the Rajkot District Swatantra Party. Patel reports that the Swatantra Party's National Executive Committee had reviewed an investigation committee report concerning charges made against Mr. Bhagwanjibhai Bhanji Patel about alleged anti-party activities.
+
+The National Executive Committee decided that the Gujarat Swatantra Party President should deal with the investigation report in consultation with the State Executive and determine what disciplinary action, if any, should be taken. Patel adds that the matter will be discussed at the next meeting of the Gujarat State Executive Committee. The letter is copied to Bhagwanjibhai Bhanji Patel, Harkantbhai Shukla, and the Central Office's Executive Secretary in Bombay.
+
 ## Key points
 
 - H. M. Patel wrote the letter on 4 May 1968 as President of the Gujarat Swatantra Party.

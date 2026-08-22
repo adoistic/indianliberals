@@ -56,6 +56,12 @@ summary: |-
   The meeting's programme of work focused on practical local grievances and public services. Proposed activities included assisting hutment-dwellers and municipal complainants, working with the Sarvodaya movement, helping poorer residents obtain ration and milk cards, discussing electricity conservation with the B.E.S.T. and government, and addressing unequal access to subsidised milk. Against the background of members leaving to join the BJD, the executive considered co-opting additional members and decided to issue a press statement presenting the Swatantra Party as a "common man's party." The meeting ended at about 6.00 p.m.
 ---
 
+## Summary
+
+These two pages record the Swatantra Party's Maharashtra executive meeting held in Bombay on 12 October 1974. The minutes list the members present, confirm the minutes of the 17 August meeting, and note a proposed change in procedure: future minutes would be read only at the following meeting to economise on paper.
+
+The meeting's programme of work focused on practical local grievances and public services. Proposed activities included assisting hutment-dwellers and municipal complainants, working with the Sarvodaya movement, helping poorer residents obtain ration and milk cards, discussing electricity conservation with the B.E.S.T. and government, and addressing unequal access to subsidised milk. Against the background of members leaving to join the BJD, the executive considered co-opting additional members and decided to issue a press statement presenting the Swatantra Party as a "common man's party." The meeting ended at about 6.00 p.m.
+
 ## Key points
 
 - The Maharashtra executive meeting was held in Bombay on 12 October 1974.

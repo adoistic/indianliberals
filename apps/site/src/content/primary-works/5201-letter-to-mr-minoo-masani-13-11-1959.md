@@ -45,6 +45,10 @@ summary: |-
   This one-page English typescript letter, dated 13 November 1959, is addressed to Minoo Masani in Bombay. The sender appears to be responding to a request concerning a public meeting and proposes Bombay dates, but the abbreviated wording is difficult to interpret with certainty: the visible text reads, “AS I MAY BE REQUIRED BOMBAY TWENTYFIFTH SUGGEST / TWENTYTHIRD FOR PUBLIC MEETING.” The sender's name or signature is not legible.
 ---
 
+## Summary
+
+This one-page English typescript letter, dated 13 November 1959, is addressed to Minoo Masani in Bombay. The sender appears to be responding to a request concerning a public meeting and proposes Bombay dates, but the abbreviated wording is difficult to interpret with certainty: the visible text reads, “AS I MAY BE REQUIRED BOMBAY TWENTYFIFTH SUGGEST / TWENTYTHIRD FOR PUBLIC MEETING.” The sender's name or signature is not legible.
+
 ## Key points
 
 - The document is a one-page typescript letter dated 13 November 1959.

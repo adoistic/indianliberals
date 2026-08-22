@@ -49,6 +49,12 @@ summary: |-
   Jatav describes continuing pressure from Mody’s associates to join the B.L.D., including arguments about filling an ideological gap that emerged during the convention. He asks Masani to visit Delhi, hold a meeting, and explain how he plans to run and finance the party. Jatav concludes that, even if some people join the B.L.D., the Delhi group can continue operating its party without hindrance. The document is a two-page typed letter with handwritten annotations and Jatav’s signature.
 ---
 
+## Summary
+
+In this letter dated 25 August 1974, Mohan Lal Jatav writes from Delhi to M. R. Masani after a Swatantra Party convention. Jatav says that a minority opposed the proposed merger into the so-called B.L.D., which he believed reflected an ulterior motive and a lack of clear thinking among party leaders. He credits Masani with providing moral support and carrying the minority’s position to the press, and reports that Piloo Mody was reconsidering his future after the protest.
+
+Jatav describes continuing pressure from Mody’s associates to join the B.L.D., including arguments about filling an ideological gap that emerged during the convention. He asks Masani to visit Delhi, hold a meeting, and explain how he plans to run and finance the party. Jatav concludes that, even if some people join the B.L.D., the Delhi group can continue operating its party without hindrance. The document is a two-page typed letter with handwritten annotations and Jatav’s signature.
+
 ## Key points
 
 - Mohan Lal Jatav writes to M. R. Masani on 25 August 1974 from New Delhi.

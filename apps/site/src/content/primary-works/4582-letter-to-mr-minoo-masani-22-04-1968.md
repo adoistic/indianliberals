@@ -50,6 +50,12 @@ summary: |-
   The sender also addresses an alleged statement by H. M. Patel calling for the resignation of Gujarat Members of Parliament who had not supported rejection of the Kutch Award. The letter reports that Patel denied making the statement and concludes, "I have accepted his denial." The page does not identify the handwritten signatory.
 ---
 
+## Summary
+
+This single-page English letter, dated 22 April 1968 and issued on Swatantra Party Central Office letterhead, is addressed to M. R. Masani and concerns the Kutch Award. The unidentified sender says that Raju will provide copies of the draft minutes of meetings of the Central Parliamentary Board and National Executive held in Delhi on 13 and 14 April, when the award was considered.
+
+The sender also addresses an alleged statement by H. M. Patel calling for the resignation of Gujarat Members of Parliament who had not supported rejection of the Kutch Award. The letter reports that Patel denied making the statement and concludes, "I have accepted his denial." The page does not identify the handwritten signatory.
+
 ## Key points
 
 - The letter is dated 22 April 1968 and is issued from the Swatantra Party Central Office.

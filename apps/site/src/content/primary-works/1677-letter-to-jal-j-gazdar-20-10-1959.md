@@ -44,6 +44,10 @@ summary: |-
   This one-page English letter, dated 20 October 1959, is addressed by Minoo R. Masani to Jal J. Gazdar. Masani thanks Gazdar for his generous donation to the funds of the newly formed Swatantra Party and expresses appreciation for the gesture. The letter closes with a conventional sign-off and contains no further discussion of the party's programme or politics.
 ---
 
+## Summary
+
+This one-page English letter, dated 20 October 1959, is addressed by Minoo R. Masani to Jal J. Gazdar. Masani thanks Gazdar for his generous donation to the funds of the newly formed Swatantra Party and expresses appreciation for the gesture. The letter closes with a conventional sign-off and contains no further discussion of the party's programme or politics.
+
 ## Key points
 
 - The letter is dated 20 October 1959.

@@ -47,6 +47,10 @@ summary: |-
   This three-page administrative document lists invitees to press conferences in Bombay. It is organised by language and media category, covering English, Gujarati, Marathi, Hindi, Sindhi and Urdu newspapers, as well as dailies, news agencies, press representatives, officials, foreign correspondence, English weeklies and other invitees. Most entries identify a chief reporter or correspondent, the publication or agency, an address and, in many cases, a telephone number.
 ---
 
+## Summary
+
+This three-page administrative document lists invitees to press conferences in Bombay. It is organised by language and media category, covering English, Gujarati, Marathi, Hindi, Sindhi and Urdu newspapers, as well as dailies, news agencies, press representatives, officials, foreign correspondence, English weeklies and other invitees. Most entries identify a chief reporter or correspondent, the publication or agency, an address and, in many cases, a telephone number.
+
 ## Key points
 
 - The document is a multilingual press-invitee directory rather than a discursive publication.

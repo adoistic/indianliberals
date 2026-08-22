@@ -48,6 +48,10 @@ summary: |-
   In this letter dated 30 April 1971, M. R. Masani writes to S. V. Raju after resigning the presidency of the Swatantra Party. Masani says the resignation will deprive him of the pleasure of working closely with Raju, whose performance as General Secretary and later as a senior party official he praises. He recalls observing Raju's work between 1967 and 1969 and during the final year and quarter of Masani's presidency.
 ---
 
+## Summary
+
+In this letter dated 30 April 1971, M. R. Masani writes to S. V. Raju after resigning the presidency of the Swatantra Party. Masani says the resignation will deprive him of the pleasure of working closely with Raju, whose performance as General Secretary and later as a senior party official he praises. He recalls observing Raju's work between 1967 and 1969 and during the final year and quarter of Masani's presidency.
+
 ## Key points
 
 - Masani writes to Raju following his resignation from the presidency of the Swatantra Party.

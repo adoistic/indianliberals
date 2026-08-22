@@ -54,6 +54,12 @@ summary: |-
   The file includes an enclosed letter from G. Hanumantha Rao dated 6 May 1975. Rao describes the difficulty of reviving Swatantra in his districts, notes defections to the BLD and Congress, and reports efforts to establish a training centre at Panchsheela. The correspondence also mentions Jayaprakash Narayan’s well-attended public meeting near Vijayawada and Raju’s attempts to build support for a federal opposition arrangement through a common minimum programme.
 ---
 
+## Summary
+
+This six-page correspondence records S. V. Raju’s political assessment of the Swatantra Party and its proposed federal cooperation with opposition parties in May 1975. Writing to Joint Secretary V. S. Srikumar, Raju endorses the Tamil Nadu Swatantra Party’s resolution supporting a federal opposition structure, while criticizing Piloo Mody’s conflict with Charan Singh and his group. He also reports internal disputes within the BLD, tensions in the Tamil Nadu unit, and efforts to investigate party membership and organizational loyalties before taking disciplinary or recruitment decisions.
+
+The file includes an enclosed letter from G. Hanumantha Rao dated 6 May 1975. Rao describes the difficulty of reviving Swatantra in his districts, notes defections to the BLD and Congress, and reports efforts to establish a training centre at Panchsheela. The correspondence also mentions Jayaprakash Narayan’s well-attended public meeting near Vijayawada and Raju’s attempts to build support for a federal opposition arrangement through a common minimum programme.
+
 ## Key points
 
 - Raju supports a federal organization of democratic opposition parties opposed to Congress and the Communists.

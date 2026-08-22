@@ -45,6 +45,10 @@ summary: |-
   This one-page English letter, dated 27 May 1964, is addressed to C. Rajagopalachari (“Rajaji”) at his Madras address. The writer reports that, after returning from Madras, Minoo Masani had agreed to speak at the Rotary Club of Bombay on 30 June on “India and Her Neighbours.” The writer regards the subject as especially relevant to contemporary political developments and expresses confidence that Rajagopalachari’s analysis would place the issue in its proper perspective. The sender’s handwritten signature is not legible enough to establish authorship.
 ---
 
+## Summary
+
+This one-page English letter, dated 27 May 1964, is addressed to C. Rajagopalachari (“Rajaji”) at his Madras address. The writer reports that, after returning from Madras, Minoo Masani had agreed to speak at the Rotary Club of Bombay on 30 June on “India and Her Neighbours.” The writer regards the subject as especially relevant to contemporary political developments and expresses confidence that Rajagopalachari’s analysis would place the issue in its proper perspective. The sender’s handwritten signature is not legible enough to establish authorship.
+
 ## Key points
 
 - The letter is dated 27 May 1964 and addressed to C. Rajagopalachari in Madras.

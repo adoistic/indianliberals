@@ -54,6 +54,12 @@ summary: |-
   The resolutions reorganise the party's leadership and state units: G. K. Sundaram is elected president and treasurer; Parmanand Kejriwal and Harihar Patel become vice-presidents; Girish Munshi becomes general secretary; and V. S. Srikumar becomes joint secretary. The Council approves the reorganisation of state units, authorises the filling of organisational vacancies, and moves the national headquarters from Bombay to Egmore, Madras. It also endorses Jayaprakash Narayan's movement against corruption and nepotism and criticises the Congress government's 13-point programme as populist, ineffective, and reliant on bypassing established forums.
 ---
 
+## Summary
+
+This two-page institutional document records nine resolutions adopted by the Swatantra Party's National General Council in Madras on 8 December 1974. The Council declares that the party convention held in New Delhi in August 1974, which purported to dissolve or merge the Swatantra Party, was illegally convened and that its resolutions are therefore void. It affirms the party's continuing existence, symbols, assets, and properties, while directing that members who have joined another party be removed from its rolls.
+
+The resolutions reorganise the party's leadership and state units: G. K. Sundaram is elected president and treasurer; Parmanand Kejriwal and Harihar Patel become vice-presidents; Girish Munshi becomes general secretary; and V. S. Srikumar becomes joint secretary. The Council approves the reorganisation of state units, authorises the filling of organisational vacancies, and moves the national headquarters from Bombay to Egmore, Madras. It also endorses Jayaprakash Narayan's movement against corruption and nepotism and criticises the Congress government's 13-point programme as populist, ineffective, and reliant on bypassing established forums.
+
 ## Key points
 
 - The Council rejects the August 1974 convention's attempted dissolution or merger of the Swatantra Party as illegal, incompetent, and void.

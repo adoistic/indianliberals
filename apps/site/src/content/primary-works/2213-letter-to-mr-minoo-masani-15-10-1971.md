@@ -51,6 +51,12 @@ summary: |-
   The handwritten second letter, signed by V. T. Krishnamachari, discusses information received from the party secretary and criticizes what the writer describes as the “Leader” sinking to a very low level. Krishnamachari objects to confidential Executive Committee proceedings being disclosed selectively and argues that such disclosures have damaged individual committee members, including himself and others. He also distances Masani from future association with the writer’s company and asks that papers relating to the matter be shown to Rajaji and another colleague. The summary is based on both rendered pages; no content is missing from the supplied two-page PDF, although the handwritten letter contains passages that are difficult to read with certainty.
 ---
 
+## Summary
+
+This two-page correspondence item contains two letters addressed to M. R. Masani on October 15, 1971. In the typed letter, H. M. Patel, writing on Swatantra Party letterhead, asks Masani to attend the National Executive and General Council meetings in Baroda on November 5 and 6 and to remain for the Gujarat State Convention on November 7. Patel presents these gatherings as the practical launch of the party’s election campaign for state elections expected in February 1972, and emphasizes Masani’s presence as Gujarat State Unit president.
+
+The handwritten second letter, signed by V. T. Krishnamachari, discusses information received from the party secretary and criticizes what the writer describes as the “Leader” sinking to a very low level. Krishnamachari objects to confidential Executive Committee proceedings being disclosed selectively and argues that such disclosures have damaged individual committee members, including himself and others. He also distances Masani from future association with the writer’s company and asks that papers relating to the matter be shown to Rajaji and another colleague. The summary is based on both rendered pages; no content is missing from the supplied two-page PDF, although the handwritten letter contains passages that are difficult to read with certainty.
+
 ## Key points
 
 - H. M. Patel invites M. R. Masani to Swatantra Party meetings in Baroda on November 5–7, 1971.

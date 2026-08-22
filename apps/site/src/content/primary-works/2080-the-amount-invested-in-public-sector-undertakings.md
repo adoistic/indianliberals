@@ -52,6 +52,12 @@ summary: |-
   The page also attacks the extensive network of controls associated with comprehensive planning, including controls over the establishment and running of enterprises, prices, and distribution. It claims that these controls hamper production and create shortages, while producing contradictory outcomes such as manufacturers receiving an unrealistically low controlled price and the government permitting public-sector enterprises to produce beyond licensed capacity. The proposed alternative is not laissez-faire, described as a “dead doctrine,” but fewer controls.
 ---
 
+## Summary
+
+This single-page illustrated position paper argues that large investments in central-government public-sector undertakings have failed to be productive and have instead aggravated inflation. It states that more than Rs. 5,500 crores had been invested in public-sector units, while a normal 10% return should have produced Rs. 550 crores; after several years, however, the actual return was barely Rs. 18 crores in 1972–73, reflecting continuing losses in many state-government public-sector units as well.
+
+The page also attacks the extensive network of controls associated with comprehensive planning, including controls over the establishment and running of enterprises, prices, and distribution. It claims that these controls hamper production and create shortages, while producing contradictory outcomes such as manufacturers receiving an unrealistically low controlled price and the government permitting public-sector enterprises to produce beyond licensed capacity. The proposed alternative is not laissez-faire, described as a “dead doctrine,” but fewer controls.
+
 ## Key points
 
 - More than Rs. 5,500 crores are said to have been invested in central-government public-sector units.

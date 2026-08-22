@@ -48,6 +48,10 @@ summary: |-
   This three-page letter, dated February 11, 1974, is an administrative communication from Girish Munshi to Mr. Narayan of the Swatantra Party's Central Office in Bombay. Munshi asks for an appeal to be cyclostyled in English, Gujarati, Marathi, Hindi, and Urdu, with translations prepared and copies distributed to party units and individuals. He also requests a draft letter to associations, coordination with Mrs. Dater, and an estimate for producing 50 copies for each primary unit.
 ---
 
+## Summary
+
+This three-page letter, dated February 11, 1974, is an administrative communication from Girish Munshi to Mr. Narayan of the Swatantra Party's Central Office in Bombay. Munshi asks for an appeal to be cyclostyled in English, Gujarati, Marathi, Hindi, and Urdu, with translations prepared and copies distributed to party units and individuals. He also requests a draft letter to associations, coordination with Mrs. Dater, and an estimate for producing 50 copies for each primary unit.
+
 ## Key points
 
 - The letter arranges translations and cyclostyling of a political appeal in five languages.

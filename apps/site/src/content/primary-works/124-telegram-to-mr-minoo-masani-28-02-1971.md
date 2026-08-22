@@ -46,6 +46,10 @@ summary: |-
   This is a single-page congratulatory telegram sent to Minoo Masani at his election office in Rajkot on 28 February 1971, during the fifth Lok Sabha general election campaign in which Masani was contesting from Rajkot as a Swatantra Party candidate. The telegram was despatched from Broach (Bharuch) by a supporter named Manubhai Amarsi and consists of a brief good-wishes message. As a document its content is minimal — a single line of text on a pre-printed Indian Posts and Telegraphs Department form — but it is representative of the personal correspondence Masani received from well-wishers during the 1971 election in which he ultimately lost his seat amidst the Congress (R) wave under Indira Gandhi.
 ---
 
+## Summary
+
+This is a single-page congratulatory telegram sent to Minoo Masani at his election office in Rajkot on 28 February 1971, during the fifth Lok Sabha general election campaign in which Masani was contesting from Rajkot as a Swatantra Party candidate. The telegram was despatched from Broach (Bharuch) by a supporter named Manubhai Amarsi and consists of a brief good-wishes message. As a document its content is minimal — a single line of text on a pre-printed Indian Posts and Telegraphs Department form — but it is representative of the personal correspondence Masani received from well-wishers during the 1971 election in which he ultimately lost his seat amidst the Congress (R) wave under Indira Gandhi.
+
 ## Key points
 
 - A telegram addressed to 'MINU MASANI, ELECTION OFFICE RAJKOT' via the Indian Posts and Telegraphs Department.

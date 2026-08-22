@@ -49,6 +49,12 @@ summary: |-
   The report attributes Masani's resignation to an internal Gujarat dispute: some Swatantra members backed their own candidate against the party high command's nominee for a Rajya Sabha seat and helped that candidate win. Masani also characterized the national executive's reported disciplinary action against those members as a mere "eyewash."
 ---
 
+## Summary
+
+This 15 May 1968 Statesman report states that Swatantra Party leader M. R. Masani refused appeals from the party's central parliamentary board and national executive to withdraw his resignation. In a letter to the party's general secretary, Masani said that his decision was final.
+
+The report attributes Masani's resignation to an internal Gujarat dispute: some Swatantra members backed their own candidate against the party high command's nominee for a Rajya Sabha seat and helped that candidate win. Masani also characterized the national executive's reported disciplinary action against those members as a mere "eyewash."
+
 ## Key points
 
 - M. R. Masani declined appeals to withdraw his resignation from the Swatantra Party's central parliamentary board and national executive.

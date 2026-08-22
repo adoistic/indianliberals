@@ -50,6 +50,12 @@ summary: |-
   Masani asks Bhabha to contact Singh Deo in Bhubaneswar to arrange a meeting in Calcutta, offering to stay on for a discussion on 25 June if necessary. The letter is principally a practical note of introduction and appointment coordination; no broader political or economic argument is developed on the page. The document bears the printed heading “Personal.” and has no printed title.
 ---
 
+## Summary
+
+This one-page personal letter, dated 14 June 1967 and written from New Delhi, is addressed to C. H. Bhabha, Vice-Chairman of the Central Bank of India. M. R. Masani reports that he has met R. M. Singh Deo, then Chief Minister of Orissa, who has written to Bhabha and proposes to be in Calcutta on 23 and 24 June rather than requiring Bhabha to visit Bhubaneswar.
+
+Masani asks Bhabha to contact Singh Deo in Bhubaneswar to arrange a meeting in Calcutta, offering to stay on for a discussion on 25 June if necessary. The letter is principally a practical note of introduction and appointment coordination; no broader political or economic argument is developed on the page. The document bears the printed heading “Personal.” and has no printed title.
+
 ## Key points
 
 - The letter is dated 14 June 1967 and sent from 2 Buckingham Road, New Delhi 11.

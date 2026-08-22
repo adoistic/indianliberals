@@ -52,6 +52,12 @@ summary: |-
   The letter’s principal political concern is the Swatantra Party’s handling of the Kashmir issue. Masani supports giving all Members of Parliament from both Houses an opportunity to be heard by the Parliamentary Board before a decision is taken. The attached draft circular sets out a related procedural rule: non-members of the Parliamentary Board may attend and participate only when invited to state their views. The draft is addressed to Swatantra Party parliamentarians and is signed by Masani as General Secretary.
 ---
 
+## Summary
+
+In this letter dated 6 May 1964, M. R. Masani thanks C. Rajagopalachari for comments on recent correspondence and reports on discussions with Abdullah. Masani asks Rajagopalachari to confirm proposed dates in Bombay, noting that Maharani Gayatri Devi’s attendance depends on the timing. He also promises to provide a fuller account of developments from Bombay.
+
+The letter’s principal political concern is the Swatantra Party’s handling of the Kashmir issue. Masani supports giving all Members of Parliament from both Houses an opportunity to be heard by the Parliamentary Board before a decision is taken. The attached draft circular sets out a related procedural rule: non-members of the Parliamentary Board may attend and participate only when invited to state their views. The draft is addressed to Swatantra Party parliamentarians and is signed by Masani as General Secretary.
+
 ## Key points
 
 - Masani writes to C. Rajagopalachari from New Delhi on 6 May 1964.

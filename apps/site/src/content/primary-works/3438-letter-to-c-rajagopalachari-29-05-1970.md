@@ -51,6 +51,10 @@ summary: |-
   In this confidential letter dated May 29, 1970, M. R. Masani reports progress toward a proposed parliamentary arrangement between the Jan Sangh and the Swatantra Party. He describes a Delhi meeting involving Morarji Desai, Ram Subhag Singh, Atal Bihari Vajpayee, and Hadhok, and says he has been asked to prepare a draft statement for the All India Congress Committee (AICC) meeting at the end of June. The proposed arrangement would involve a joint response to the government's July meetings and, if successful, a parliamentary coalition with one leader, two deputy leaders, and a common discipline.
 ---
 
+## Summary
+
+In this confidential letter dated May 29, 1970, M. R. Masani reports progress toward a proposed parliamentary arrangement between the Jan Sangh and the Swatantra Party. He describes a Delhi meeting involving Morarji Desai, Ram Subhag Singh, Atal Bihari Vajpayee, and Hadhok, and says he has been asked to prepare a draft statement for the All India Congress Committee (AICC) meeting at the end of June. The proposed arrangement would involve a joint response to the government's July meetings and, if successful, a parliamentary coalition with one leader, two deputy leaders, and a common discipline.
+
 ## Key points
 
 - Masani reports on negotiations among opposition leaders in Delhi.

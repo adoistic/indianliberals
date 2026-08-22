@@ -46,6 +46,10 @@ summary: |-
   This single-page English letter, dated 27 June 1963, is addressed from 11 Hautampalli, Lucknow, to Minoo Masani, M.P., in Bombay. The sender says that they are enclosing a letter received from Jayaprakash Narayan and their reply to him, then asks Masani when he expects to visit Delhi. Handwritten annotations appear on the page, including a closing and signature, but the sender cannot be securely identified from the image.
 ---
 
+## Summary
+
+This single-page English letter, dated 27 June 1963, is addressed from 11 Hautampalli, Lucknow, to Minoo Masani, M.P., in Bombay. The sender says that they are enclosing a letter received from Jayaprakash Narayan and their reply to him, then asks Masani when he expects to visit Delhi. Handwritten annotations appear on the page, including a closing and signature, but the sender cannot be securely identified from the image.
+
 ## Key points
 
 - The letter is dated 27 June 1963 and originates from 11 Hautampalli, Lucknow.

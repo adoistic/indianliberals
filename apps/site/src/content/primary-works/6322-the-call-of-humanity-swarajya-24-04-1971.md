@@ -52,3 +52,9 @@ summary: |-
   
   C. Rajagopalachari’s “The Swatantra Party” responds to Minoo Masani’s resignation and restates the party’s programme. Rajagopalachari presents the party as committed to individual freedom, productive competition, open employment, reduced state control, and opposition to both communist domination and “corporation-managed” capitalism. He argues that the party’s policies remain relevant to India’s political and economic circumstances.
 ---
+
+## Summary
+
+This issue of Swarajya, dated April 24, 1971, contains two visible articles. In “The Call of Humanity,” K. Santhanam condemns the Pakistan army’s violence in East Bengal, warns of famine and disease, and urges the United States, USSR, and UK to apply political and economic pressure on Pakistan while providing relief to the Bengali population. The article also discusses India’s difficult position regarding recognition of the provisional Bangladesh government and calls for international action to prevent a wider humanitarian disaster.
+
+C. Rajagopalachari’s “The Swatantra Party” responds to Minoo Masani’s resignation and restates the party’s programme. Rajagopalachari presents the party as committed to individual freedom, productive competition, open employment, reduced state control, and opposition to both communist domination and “corporation-managed” capitalism. He argues that the party’s policies remain relevant to India’s political and economic circumstances.

@@ -43,6 +43,10 @@ summary: |-
   This one-page English letter, dated 8 September 1963 and sent from 33 Aurangzeb Road, New Delhi, is addressed by Gayatri Devi to Shri Onkar Nath Tiku. Devi acknowledges Tiku’s letter of 30 July and explains that she has only just returned from abroad and received it.
 ---
 
+## Summary
+
+This one-page English letter, dated 8 September 1963 and sent from 33 Aurangzeb Road, New Delhi, is addressed by Gayatri Devi to Shri Onkar Nath Tiku. Devi acknowledges Tiku’s letter of 30 July and explains that she has only just returned from abroad and received it.
+
 ## Key points
 
 - The document is a typed personal letter dated 8 September 1963.

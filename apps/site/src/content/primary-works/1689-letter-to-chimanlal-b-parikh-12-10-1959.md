@@ -46,6 +46,10 @@ summary: |-
   This single-page English letter, dated 12 October 1959, is addressed to Chimanlal B. Parikh. The unnamed sender thanks Parikh for a cheque of Rs. 5,000 sent on behalf of his firm as a contribution to the funds of the Swatantra Party, and expresses appreciation for his action. The typed page bears no visible sender signature; a handwritten note at the bottom reads “Sent to Dr R Cooper.”
 ---
 
+## Summary
+
+This single-page English letter, dated 12 October 1959, is addressed to Chimanlal B. Parikh. The unnamed sender thanks Parikh for a cheque of Rs. 5,000 sent on behalf of his firm as a contribution to the funds of the Swatantra Party, and expresses appreciation for his action. The typed page bears no visible sender signature; a handwritten note at the bottom reads “Sent to Dr R Cooper.”
+
 ## Key points
 
 - The letter is dated 12 October 1959.

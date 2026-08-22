@@ -51,6 +51,12 @@ summary: |-
   The article also presents the conflict as a substantive disagreement over political method and economic policy. State units seek greater freedom to agitate on local issues, while the central leadership prefers constitutional methods and cooperation only where it serves the national interest. Its economic position is presented as a critique of indiscriminate public-sector expansion and centralised planning: public enterprises are described as loss-making, while private enterprise is defended where it can advance development. The rendered scan also includes a separate typescript letter signed by N. G. Ranga and addressed to Indira Gandhi; it is not a continuation of Goyal’s article, and its relationship to the clipping is unclear.
 ---
 
+## Summary
+
+In the rendered article page, D. R. Goyal describes the Swatantra Party as being in organisational and political decline after its disappointing electoral performance. The postponement of its all-India conference reflects disputes within the leadership, especially over M. R. Masani’s position as general secretary, the revolt of Gujarat legislators over the Rajya Sabha candidacy of Babubhai Vaidya, and tensions between the party’s central leadership and its state units. The article argues that these disputes arise from weakened discipline, divergent regional interests, and the party’s failure to maintain a clear ideological centre.
+
+The article also presents the conflict as a substantive disagreement over political method and economic policy. State units seek greater freedom to agitate on local issues, while the central leadership prefers constitutional methods and cooperation only where it serves the national interest. Its economic position is presented as a critique of indiscriminate public-sector expansion and centralised planning: public enterprises are described as loss-making, while private enterprise is defended where it can advance development. The rendered scan also includes a separate typescript letter signed by N. G. Ranga and addressed to Indira Gandhi; it is not a continuation of Goyal’s article, and its relationship to the clipping is unclear.
+
 ## Key points
 
 - The Swatantra Party’s postponed all-India conference is presented as evidence of internal crisis.

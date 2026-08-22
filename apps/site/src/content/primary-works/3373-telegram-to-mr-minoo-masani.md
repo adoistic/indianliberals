@@ -48,6 +48,10 @@ summary: |-
   This two-page English telegram from the Indian Posts and Telegraphs Department concerns a dispute over financial liability connected with party purposes. The sender confirms having sent a telegram to Minoo Masani after receiving Masani's letter of 21 December, and refers to credit arranged from the Central Bank. The message invokes the legal and moral commitments of Masani, Sir Homi Mody, and other associates to repay the credit in full.
 ---
 
+## Summary
+
+This two-page English telegram from the Indian Posts and Telegraphs Department concerns a dispute over financial liability connected with party purposes. The sender confirms having sent a telegram to Minoo Masani after receiving Masani's letter of 21 December, and refers to credit arranged from the Central Bank. The message invokes the legal and moral commitments of Masani, Sir Homi Mody, and other associates to repay the credit in full.
+
 ## Key points
 
 - The telegram is addressed to Sir H. P. Modi at Bombay House, Bombay.

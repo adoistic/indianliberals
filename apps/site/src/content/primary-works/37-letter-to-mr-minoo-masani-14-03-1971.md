@@ -49,6 +49,12 @@ summary: |-
   Varma emphasizes that even Masani’s political adversaries acknowledge the damage his absence from Parliament would cause. The letter closes with an earnest hope that Masani will return to Parliament at the next opportunity. The page is a typed letter with a handwritten signature and a handwritten marginal mark; no title, publisher, or issuing organisation is printed.
 ---
 
+## Summary
+
+This single-page letter, dated 14 March 1971, is addressed by K. V. Varma to M. R. Masani after Masani’s electoral defeat in Rajkot. Varma expresses shock that the electorate preferred Masani’s opponent and argues that the result will not serve the interests of freedom and democracy in India.
+
+Varma emphasizes that even Masani’s political adversaries acknowledge the damage his absence from Parliament would cause. The letter closes with an earnest hope that Masani will return to Parliament at the next opportunity. The page is a typed letter with a handwritten signature and a handwritten marginal mark; no title, publisher, or issuing organisation is printed.
+
 ## Key points
 
 - The letter is dated 14 March 1971 and addressed to Shri M. R. Masani in Bombay.

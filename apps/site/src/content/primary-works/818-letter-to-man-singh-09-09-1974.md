@@ -50,6 +50,12 @@ summary: |-
   Raju identifies K. Sundaram of Coimbatore and Girish Munshi of the Maharashtra Swatantra Party as people working to keep their respective state organisations active and coordinate with others. He asks Singh to contact both men and offer his cooperation. A handwritten postscript says that Raju has enclosed a copy of the September issue of Freedom First containing his article on the Swatantra Party convention.
 ---
 
+## Summary
+
+In this letter dated September 9, 1974, S. V. Raju responds to Man Singhji about Minoo Masani, who is abroad and expected to return by the middle of the following month. Raju explains that Masani will remain a member of the Swatantra Party but cannot assume active organisational responsibility; he also notes Masani’s recent election to the National Executive Council of Jayaprakash Narayan’s Citizens for Democracy.
+
+Raju identifies K. Sundaram of Coimbatore and Girish Munshi of the Maharashtra Swatantra Party as people working to keep their respective state organisations active and coordinate with others. He asks Singh to contact both men and offer his cooperation. A handwritten postscript says that Raju has enclosed a copy of the September issue of Freedom First containing his article on the Swatantra Party convention.
+
 ## Key points
 
 - Raju says Minoo Masani will continue as a Swatantra Party member but cannot take on active organisational responsibilities.

@@ -57,6 +57,12 @@ summary: |-
   The correspondence traces attempts to settle the account without immediate litigation. Raja Bahadur offered either to surrender 10 Jeeps against Rs. 1,20,000 or to receive three-quarters of a month to sell them and repay the amount; he also maintained that the Party’s 23 Jeeps could not be released without written authority from M. R. Masani. Bank and insurance-company representatives explored taking possession of the vehicles, but legal advice in the rendered pages repeatedly cautions that the authorization letter did not permit forcible seizure. The advice instead recommends civil proceedings, appointment of a receiver, and, in one memorandum, possible criminal proceedings. The dossier also includes Masani’s letter authorizing possible party borrowing for election work and handwritten calculations of balances and interest.
 ---
 
+## Summary
+
+This archival correspondence dossier documents a 1963 dispute involving Maharaja Bahadur Kamakshya Narain Singh, Raja Bahadur of Ramgarh, the Swatantra Party, the Central Bank of India, and The New India Assurance Company. The visible papers concern a Rs. 4,00,000 cash-credit facility sanctioned in 1961 to purchase 33 Jeeps. After repayments totaling Rs. 2,80,000, the account carried an outstanding balance of approximately Rs. 1,44,536.45 plus interest. The documents distinguish between 10 Jeeps attributed to the Raja Bahadur and 23 Jeeps said to belong to the Swatantra Party, while recording competing claims about responsibility for the accumulated interest.
+
+The correspondence traces attempts to settle the account without immediate litigation. Raja Bahadur offered either to surrender 10 Jeeps against Rs. 1,20,000 or to receive three-quarters of a month to sell them and repay the amount; he also maintained that the Party’s 23 Jeeps could not be released without written authority from M. R. Masani. Bank and insurance-company representatives explored taking possession of the vehicles, but legal advice in the rendered pages repeatedly cautions that the authorization letter did not permit forcible seizure. The advice instead recommends civil proceedings, appointment of a receiver, and, in one memorandum, possible criminal proceedings. The dossier also includes Masani’s letter authorizing possible party borrowing for election work and handwritten calculations of balances and interest.
+
 ## Key points
 
 - The papers concern a 1961 cash-credit loan of Rs. 4,00,000 guaranteed by The New India Assurance Company and secured against 33 Jeeps.

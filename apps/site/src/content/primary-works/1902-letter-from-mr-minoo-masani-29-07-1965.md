@@ -47,6 +47,10 @@ summary: |-
   In this air-mail letter dated July 29, 1965, M. R. Masani replies to a correspondent addressed as “Kolahbhat” and offers introductions for an upcoming visit to London and New York. He recommends Vernon Dawson, Secretary-General of Liberal International, as a source of information about the organisation and a possible gateway to other contacts in London. For New York, he suggests the journalist and writer Arnold Beichmann, who was connected with the AFL-CIO.
 ---
 
+## Summary
+
+In this air-mail letter dated July 29, 1965, M. R. Masani replies to a correspondent addressed as “Kolahbhat” and offers introductions for an upcoming visit to London and New York. He recommends Vernon Dawson, Secretary-General of Liberal International, as a source of information about the organisation and a possible gateway to other contacts in London. For New York, he suggests the journalist and writer Arnold Beichmann, who was connected with the AFL-CIO.
+
 ## Key points
 
 - Masani is responding to a letter dated July 20 and discussing the recipient’s planned international journey.

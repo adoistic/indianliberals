@@ -50,6 +50,12 @@ summary: |-
   The stated agenda is to confirm the minutes of the previous State Council meeting, consider the draft statement of policy for a proposed new party, and determine the Maharashtra council’s position on that proposal. The circular also refers to a draft statement of policy and a circular letter by Piloo Mody concerning a proposed merger, to be discussed before the matter reaches the National Convention. The supplied PDF ends with a continuation marker, “...2/-”, so the subsequent page is not available here.
 ---
 
+## Summary
+
+This one-page circular, dated June 22, 1974, is issued by the Swatantra Party’s Bombay office to members of the Maharashtra State Council. It convenes a State Council meeting for July 6, 1974, at the party office in Bombay, and asks members to consult party workers in their respective areas before attending.
+
+The stated agenda is to confirm the minutes of the previous State Council meeting, consider the draft statement of policy for a proposed new party, and determine the Maharashtra council’s position on that proposal. The circular also refers to a draft statement of policy and a circular letter by Piloo Mody concerning a proposed merger, to be discussed before the matter reaches the National Convention. The supplied PDF ends with a continuation marker, “...2/-”, so the subsequent page is not available here.
+
 ## Key points
 
 - The circular is dated June 22, 1974, and is issued from the Swatantra Party’s Bombay office.

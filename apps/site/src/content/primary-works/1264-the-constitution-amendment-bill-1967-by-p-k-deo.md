@@ -50,6 +50,10 @@ summary: |-
   The Constitution (Amendment) Bill, 1967, introduced in the Lok Sabha by Shri P. K. Deo, M.P., proposes to amend Article 164 of the Constitution of India. Its central proposal is to establish a defined procedure for appointing a State Chief Minister: within a week of the publication of general or mid-term election results, or when the office becomes vacant, the Governor would summon the Legislative Assembly to elect the Leader of the House, who would then be appointed Chief Minister. The bill defines the Leader of the House as the member commanding an absolute majority, permitting a second or third ballot if necessary.
 ---
 
+## Summary
+
+The Constitution (Amendment) Bill, 1967, introduced in the Lok Sabha by Shri P. K. Deo, M.P., proposes to amend Article 164 of the Constitution of India. Its central proposal is to establish a defined procedure for appointing a State Chief Minister: within a week of the publication of general or mid-term election results, or when the office becomes vacant, the Governor would summon the Legislative Assembly to elect the Leader of the House, who would then be appointed Chief Minister. The bill defines the Leader of the House as the member commanding an absolute majority, permitting a second or third ballot if necessary.
+
 ## Key points
 
 - The bill is identified as Bill No. 130 of 1967 and was introduced in the Lok Sabha on 16 November 1967.

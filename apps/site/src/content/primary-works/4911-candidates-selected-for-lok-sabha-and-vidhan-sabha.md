@@ -48,6 +48,10 @@ summary: |-
   This six-page organizational paper from the Andhra Pradesh Swatantra Party lists candidates selected for the Lok Sabha and Vidhan Sabha across districts of Andhra Pradesh and Telangana. It is arranged as a set of district headings and tabular constituency listings, identifying each Lok Sabha candidate alongside the party's selected Assembly candidates in the relevant constituencies.
 ---
 
+## Summary
+
+This six-page organizational paper from the Andhra Pradesh Swatantra Party lists candidates selected for the Lok Sabha and Vidhan Sabha across districts of Andhra Pradesh and Telangana. It is arranged as a set of district headings and tabular constituency listings, identifying each Lok Sabha candidate alongside the party's selected Assembly candidates in the relevant constituencies.
+
 ## Key points
 
 - The document records Swatantra Party candidate selections for parliamentary and state assembly contests.

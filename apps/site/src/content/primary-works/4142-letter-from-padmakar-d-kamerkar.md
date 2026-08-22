@@ -54,6 +54,12 @@ summary: |-
   The document contends that a party should be free to criticize socialism while remaining within the constitutional framework. It argues that requiring an affidavit affirming an ideology a party does not hold would undermine political pluralism and representation. The author also invokes constitutional rights to form associations and to freedom of expression, subject only to restrictions concerning the sovereignty and security of India. The final page questions the constitutional and political meaning of socialism, noting that parties may hold differing ideological positions while participating in the democratic system.
 ---
 
+## Summary
+
+This three-page handwritten document, signed through the letterhead of advocate Padmakar D. Kamerkar, argues that a political party should not be required to affirm socialism as a condition of registration. It refers to amendments to the Representation of the People Act in 1958 that required political parties to register with the Election Commission, and to the Swatantra Party's request for clarification about whether its registration required an undertaking to support socialism.
+
+The document contends that a party should be free to criticize socialism while remaining within the constitutional framework. It argues that requiring an affidavit affirming an ideology a party does not hold would undermine political pluralism and representation. The author also invokes constitutional rights to form associations and to freedom of expression, subject only to restrictions concerning the sovereignty and security of India. The final page questions the constitutional and political meaning of socialism, noting that parties may hold differing ideological positions while participating in the democratic system.
+
 ## Key points
 
 - The document discusses the legal requirement, introduced through a 1958 amendment, for political parties to register with the Election Commission.

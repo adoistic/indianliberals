@@ -54,6 +54,12 @@ summary: |-
   The document reports the distribution of party membership forms, distinguishing Bombay from areas outside Bombay, and records upcoming public meetings, including events connected with Sardar Vallabhbhai Patel’s birthday anniversary and C. Rajagopalachari’s next visit to Bombay. It also notes Rs. 12,000 collected through advertisements, an upcoming concert, and a decision to send fraternal greetings to the Swatantra Party convention in Madras. No standalone title or author is printed; the document is an institutional record of committee proceedings.
 ---
 
+## Summary
+
+These two pages record the 29 October 1959 meeting of the Swatantra Party’s Organising Committee of Greater Bombay. The minutes list the attendees, confirm the previous meeting’s minutes, and note arrangements for a Labour Contact Centre, a Youth Contact Centre, and the appointment of M. Mehta as paid executive secretary on a six-month probation at Rs. 700 per month. The committee also established a procedure requiring convenors’ written reports to be circulated before meetings, with only brief oral summaries presented in person.
+
+The document reports the distribution of party membership forms, distinguishing Bombay from areas outside Bombay, and records upcoming public meetings, including events connected with Sardar Vallabhbhai Patel’s birthday anniversary and C. Rajagopalachari’s next visit to Bombay. It also notes Rs. 12,000 collected through advertisements, an upcoming concert, and a decision to send fraternal greetings to the Swatantra Party convention in Madras. No standalone title or author is printed; the document is an institutional record of committee proceedings.
+
 ## Key points
 
 - The Organising Committee of Greater Bombay met on Thursday, 29 October, at 6 p.m. in the Swatantra Party office.

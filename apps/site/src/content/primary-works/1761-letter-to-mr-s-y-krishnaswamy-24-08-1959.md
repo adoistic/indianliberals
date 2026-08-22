@@ -45,6 +45,12 @@ summary: |-
   The letter also records the transfer of a packet addressed to Rajaji and a sum of Rs. 100 to Mr. Krishnamurthy. A handwritten marginal notation appears to read “(T.G.K.)”, but the sender is not identified on the rendered page.
 ---
 
+## Summary
+
+This one-page typed letter, dated 24 August 1959, is addressed to Mr. S. Y. Krishnaswamy, I.C.S. (Retd.). The sender reports that two letters from Mr. Zamindar were discussed at a Saturday meeting, though no decision appears to have been taken. The sender urges caution, arguing that the desire to begin work everywhere should not result in complaints being mishandled and that Zamindar’s allegations require careful investigation.
+
+The letter also records the transfer of a packet addressed to Rajaji and a sum of Rs. 100 to Mr. Krishnamurthy. A handwritten marginal notation appears to read “(T.G.K.)”, but the sender is not identified on the rendered page.
+
 ## Key points
 
 - The letter is dated 24 August 1959 and addressed to S. Y. Krishnaswamy, I.C.S. (Retd.).

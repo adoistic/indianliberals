@@ -49,6 +49,12 @@ summary: |-
   Masani emphasizes that their association should not be understood as having ended. He writes that the struggle for freedom and democracy must continue “in different shapes and forms,” and expresses the hope that there will be many future occasions for them to work together. The pages show personal correspondence framed by a continuing commitment to democratic and liberal political work.
 ---
 
+## Summary
+
+This two-page English-language archival item consists of a letter from M. R. Masani dated 21 April 1971 and an accompanying compliments card from His Highness Maharaja Sriraj of Dhrangadhra. Masani thanks the Maharaja for sending him an “excellent picture” and for the kindness of leaving it with him as a token of esteem and their old association.
+
+Masani emphasizes that their association should not be understood as having ended. He writes that the struggle for freedom and democracy must continue “in different shapes and forms,” and expresses the hope that there will be many future occasions for them to work together. The pages show personal correspondence framed by a continuing commitment to democratic and liberal political work.
+
 ## Key points
 
 - The letter is dated 21 April 1971 and is signed by M. R. Masani.

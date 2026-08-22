@@ -48,6 +48,12 @@ summary: |-
   The correspondence concerns vehicles reportedly purchased for an election. Bhatia explains that this is the only information he currently has and suggests that Masani contact the Regional Transport Officer, noting that the vehicles would now be very difficult to locate. The page does not provide further details about the election, the vehicles, or the administrative issue involved.
 ---
 
+## Summary
+
+This one-page English letter, marked “COPY” and dated 5th November 1984, is sent by V. P. Bhatia from Feltham House, Bombay, to M. R. Masani. Bhatia acknowledges Masani’s letter of 19th October 1984 and says he has located a 1976 letter addressed to the Regional Transport Officer, which he describes as self-explanatory.
+
+The correspondence concerns vehicles reportedly purchased for an election. Bhatia explains that this is the only information he currently has and suggests that Masani contact the Regional Transport Officer, noting that the vehicles would now be very difficult to locate. The page does not provide further details about the election, the vehicles, or the administrative issue involved.
+
 ## Key points
 
 - The document is a typed copy of a letter dated 5th November 1984.

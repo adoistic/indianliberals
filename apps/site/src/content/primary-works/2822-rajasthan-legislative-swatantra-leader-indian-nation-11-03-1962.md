@@ -49,6 +49,10 @@ summary: |-
   This archival sheet preserves a 11 March 1962 Indian Nation, Patna report on leadership changes within the Swatantra Party in the Rajasthan Legislative Assembly. Maharawal Laxman Singh of Dungarpur was elected leader of the party, with Raja Man Singh and Maharajkumar Jai Singh elected deputy leaders. The report also names Man Singh of Matar as Chief Whip, Suresh Bihari Mathur and Radha Krishan Goel as secretaries, and records changes in the Jan Sangh leadership.
 ---
 
+## Summary
+
+This archival sheet preserves a 11 March 1962 Indian Nation, Patna report on leadership changes within the Swatantra Party in the Rajasthan Legislative Assembly. Maharawal Laxman Singh of Dungarpur was elected leader of the party, with Raja Man Singh and Maharajkumar Jai Singh elected deputy leaders. The report also names Man Singh of Matar as Chief Whip, Suresh Bihari Mathur and Radha Krishan Goel as secretaries, and records changes in the Jan Sangh leadership.
+
 ## Key points
 
 - Maharawal Laxman Singh of Dungarpur was elected leader of the Swatantra Party in the Rajasthan Assembly.

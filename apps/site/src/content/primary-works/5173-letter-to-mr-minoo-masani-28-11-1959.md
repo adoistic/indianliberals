@@ -50,6 +50,12 @@ summary: |-
   The letter seeks agreement on a date suitable for all three recipients. Iyengar explains that his separate correspondence with them has reached a “blind alley” because a date acceptable to one recipient has proved unsuitable to the others, and asks them to confer among themselves and reply with a mutually convenient date so that he can engage a hall and make the necessary arrangements.
 ---
 
+## Summary
+
+This one-page letter, dated 28 November 1959 and issued from the Swatantra Party’s West Bengal Branch in Calcutta, is signed by A.C. Sampath Iyengar and addressed to Prof. N.G. Ranga, K.M. Munshi, and M.R. Masani. Iyengar asks the three recipients to attend a preparatory conference in Calcutta, emphasizing that it would be the first such conference in West Bengal and that Rajaji would not be attending.
+
+The letter seeks agreement on a date suitable for all three recipients. Iyengar explains that his separate correspondence with them has reached a “blind alley” because a date acceptable to one recipient has proved unsuitable to the others, and asks them to confer among themselves and reply with a mutually convenient date so that he can engage a hall and make the necessary arrangements.
+
 ## Key points
 
 - A.C. Sampath Iyengar writes from the Swatantra Party West Bengal Branch in Calcutta on 28 November 1959.

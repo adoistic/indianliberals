@@ -47,6 +47,12 @@ summary: |-
   The sender’s signature, the date, and much of the central text cannot be read confidently from the rendered image. The page therefore documents a brief administrative or personal transmission, but does not establish the sender, the enclosed material, or the circumstances of its intended future use.
 ---
 
+## Summary
+
+This single-page handwritten English note is addressed “To Rajaji.” The sender explains that an enclosed item concerns an identifiable but largely illegible subject and asks the recipient to retain it for possible future use. The archival reference number “3629” is circled at the top of the sheet; it appears to be a cataloguing mark rather than part of the message.
+
+The sender’s signature, the date, and much of the central text cannot be read confidently from the rendered image. The page therefore documents a brief administrative or personal transmission, but does not establish the sender, the enclosed material, or the circumstances of its intended future use.
+
 ## Key points
 
 - The note is addressed to “Rajaji,” identifiable in the authority file as C. Rajagopalachari.

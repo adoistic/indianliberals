@@ -56,6 +56,12 @@ summary: |-
   The committee reviewed a party march held on 25 March 1974 and the four demands submitted to Maharashtra's Chief Minister. Discussion focused on housing and organising slum dwellers, mobilising hutment dwellers in western suburbs, convening local unit and district meetings, and organising B.E.S.S.T. employees into a union. The minutes also call for a Maharashtra farmers' conference after the monsoon, while acknowledging that such an undertaking would require substantial effort and expense. The document ends with the Chairman's signature.
 ---
 
+## Summary
+
+These two pages record the proceedings of the Swatantra Party, Maharashtra's Executive Committee meeting held in Bombay on 27 April 1974. The minutes list the participants, note that the previous meeting's minutes were approved, and report the General Secretary's account of recent meetings and organisational expansion in Bandra, Kurla, and Mahim. The record also notes the opening of party offices, including a Bandra unit office and a Kurla office whose inauguration was followed by a public meeting attended by about 3,000 people.
+
+The committee reviewed a party march held on 25 March 1974 and the four demands submitted to Maharashtra's Chief Minister. Discussion focused on housing and organising slum dwellers, mobilising hutment dwellers in western suburbs, convening local unit and district meetings, and organising B.E.S.S.T. employees into a union. The minutes also call for a Maharashtra farmers' conference after the monsoon, while acknowledging that such an undertaking would require substantial effort and expense. The document ends with the Chairman's signature.
+
 ## Key points
 
 - The Executive Committee met at the Swatantra Party office in Bombay on 27 April 1974.

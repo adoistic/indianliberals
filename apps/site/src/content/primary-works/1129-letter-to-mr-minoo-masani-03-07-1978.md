@@ -49,6 +49,14 @@ summary: |-
   The letter closes on a note of political grief for Jayaprakash Narayan, whose revolution, Mariswamy writes, is being betrayed before his eyes. He apologises for any tedium, asks Masani to send instructions for anything he can carry in his paper at the Madras end, and signs off with kind regards.
 ---
 
+## Summary
+
+A brief, chatty typewritten letter from S. S. Mariswamy, an ex-Member of Parliament and editor of the Tamil paper Kandeepam, written from Madras on 3 July 1978 to Minoo Masani in Bombay. Mariswamy opens by reporting that he has rendered Masani's recent interview with the magazine Sunday into Tamil and carried it in the current week's issue of his own paper.
+
+The bulk of the letter is political gossip on the unraveling of the Janata coalition. Mariswamy endorses Masani's view of Charan Singh, relaying a Delhi source who says Charan himself regretted the mismanagement that led to Masani's resignation. He then reports that Indira Gandhi is delighted by the Janata infighting and that the pro-Indira lobby is already calling her the "future P.M." He turns caustic on Raj Narain — recalling his repeated ejections from the Rajya Sabha and his habit of moving to Central Hall to deliver the speeches he had been prevented from giving — and notes the hypocrisy of the very people who once applauded him now denouncing him for 'indiscipline'.
+
+The letter closes on a note of political grief for Jayaprakash Narayan, whose revolution, Mariswamy writes, is being betrayed before his eyes. He apologises for any tedium, asks Masani to send instructions for anything he can carry in his paper at the Madras end, and signs off with kind regards.
+
 ## Key points
 
 - Mariswamy has published a Tamil translation of Masani's Sunday magazine interview in this week's issue of his own paper, Kandeepam.

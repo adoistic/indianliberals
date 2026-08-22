@@ -50,6 +50,12 @@ summary: |-
   The letter focuses on the practical problem of distributing the film. Candidates are asked whether they can arrange access to a 16 mm projector, transformer, and screen, potentially transported by vehicle to villages. The film would be supplied without charge, and the party requests a prompt reply so that it can decide whether to proceed.
 ---
 
+## Summary
+
+This one-page letter, dated 26 October 1966, was issued from the Swatantra Party's central office by General Secretary M. R. Masani to prospective parliamentary candidates. It proposes producing a ten-minute 16 mm documentary film about current conditions in India and what the Swatantra Party would do if returned to power, as part of the party's publicity campaign.
+
+The letter focuses on the practical problem of distributing the film. Candidates are asked whether they can arrange access to a 16 mm projector, transformer, and screen, potentially transported by vehicle to villages. The film would be supplied without charge, and the party requests a prompt reply so that it can decide whether to proceed.
+
 ## Key points
 
 - The Swatantra Party proposed a ten-minute 16 mm documentary for its publicity campaign.

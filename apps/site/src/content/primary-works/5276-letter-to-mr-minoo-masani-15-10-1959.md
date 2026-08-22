@@ -48,6 +48,10 @@ summary: |-
   This letter, dated 15 October 1959 and addressed to Minoo Masani, discusses opposition to the proposed bifurcation of Bombay State. J. R. Manjeri reports that people in Bombay are fearful but largely passive, following the authorities and leaders even when they support a three-state formula. He argues that dividing the state would damage Bombay city’s business, livelihoods, and future growth, while noting that some Gujarati families may eventually leave the city. The letter presents these views as those of a small minority of non-Hindu residents of Bombay, while urging an organized public response.
 ---
 
+## Summary
+
+This letter, dated 15 October 1959 and addressed to Minoo Masani, discusses opposition to the proposed bifurcation of Bombay State. J. R. Manjeri reports that people in Bombay are fearful but largely passive, following the authorities and leaders even when they support a three-state formula. He argues that dividing the state would damage Bombay city’s business, livelihoods, and future growth, while noting that some Gujarati families may eventually leave the city. The letter presents these views as those of a small minority of non-Hindu residents of Bombay, while urging an organized public response.
+
 ## Key points
 
 - The letter concerns the proposed bifurcation of Bombay State in 1959.

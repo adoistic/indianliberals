@@ -56,3 +56,7 @@ ai:
 summary: |-
   This issue of Freedom First, dated 8 August 1959, presents a liberal critique of Congress socialism, centralized economic planning, and the expanding administrative state alongside practical discussions of food technology and atomic power. The opening article reports the early public response to the newly formed Swatantra Party and argues that its defense of individual freedom, private enterprise, property, and constitutional government offers an alternative to Congress's socialist programme. The issue's contents also include political commentary, international features, economic and industrial essays, party material, and extensive commercial and statistical sections, most of which are not readable in the rendered pages as substantive articles.
 ---
+
+## Summary
+
+This issue of Freedom First, dated 8 August 1959, presents a liberal critique of Congress socialism, centralized economic planning, and the expanding administrative state alongside practical discussions of food technology and atomic power. The opening article reports the early public response to the newly formed Swatantra Party and argues that its defense of individual freedom, private enterprise, property, and constitutional government offers an alternative to Congress's socialist programme. The issue's contents also include political commentary, international features, economic and industrial essays, party material, and extensive commercial and statistical sections, most of which are not readable in the rendered pages as substantive articles.

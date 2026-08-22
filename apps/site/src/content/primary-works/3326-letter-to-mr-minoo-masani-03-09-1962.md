@@ -49,6 +49,12 @@ summary: |-
   Singh states that the overdraft financed the purchase of thirty-three jeeps during the last General Elections. He says the Raja Bahadur paid Rs. 1,00,000 in cash, while the Swatantra Party agreed to pay Rs. 2,80,000 and the Raja Bahadur agreed to pay the remaining Rs. 1,20,000. Referring to a decision of the Parliamentary Sub-Committee in Bombay on 14 March 1962, Singh argues that the Party’s continuing payments of only Rs. 20,000 per month were insufficient and asks Masani to ensure that the Party pays its share of the outstanding bank interest. The two rendered pages contain the complete letter; no enclosure or further correspondence is included.
 ---
 
+## Summary
+
+In this letter dated 3 September 1962, Thakur B. P. Singh replies to Minoo Masani concerning an overdraft account with the Central Bank of India Limited. He explains that an account was opened in the name of the Raja Bahadur of Raragh because the bank would not advance money directly to a political party. The account carried overdraft facilities of Rs. 5,00,000, secured through the Raja Bahadur’s name as guarantor.
+
+Singh states that the overdraft financed the purchase of thirty-three jeeps during the last General Elections. He says the Raja Bahadur paid Rs. 1,00,000 in cash, while the Swatantra Party agreed to pay Rs. 2,80,000 and the Raja Bahadur agreed to pay the remaining Rs. 1,20,000. Referring to a decision of the Parliamentary Sub-Committee in Bombay on 14 March 1962, Singh argues that the Party’s continuing payments of only Rs. 20,000 per month were insufficient and asks Masani to ensure that the Party pays its share of the outstanding bank interest. The two rendered pages contain the complete letter; no enclosure or further correspondence is included.
+
 ## Key points
 
 - The letter acknowledges Masani’s correspondence about an overdraft account with the Central Bank of India Limited.

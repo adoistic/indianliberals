@@ -51,6 +51,12 @@ summary: |-
   The writer explains that they ceased to be a Swatantra Party office-bearer in April 1971 and no longer possess the party’s files, making it impossible to identify the purchaser of each jeep. They say that the Bharatiya Lok Dal had held the relevant records, but that those files disappeared when the party was wound up. The memorandum insists that the vehicle at issue never belonged to the writer personally, records continued cooperation with the R.T.O. in tracing the purchasers, and refers to an attached copy of a letter dated March 20, 1975.
 ---
 
+## Summary
+
+This three-page typed office memorandum, headed “SWATANTRA PARTY JEEPS,” sets out points for a letter to Mr. Sinha, Collector of Customs. It states that jeeps used in the 1967 elections were sold by the Swatantra Party to companies and individuals, including A.C.C. and Maharani Gayatri Devi of Jaipur, and that the sales were reported to the Regional Transport Office as early as July 2, 1973 (the date is marked uncertain in the document).
+
+The writer explains that they ceased to be a Swatantra Party office-bearer in April 1971 and no longer possess the party’s files, making it impossible to identify the purchaser of each jeep. They say that the Bharatiya Lok Dal had held the relevant records, but that those files disappeared when the party was wound up. The memorandum insists that the vehicle at issue never belonged to the writer personally, records continued cooperation with the R.T.O. in tracing the purchasers, and refers to an attached copy of a letter dated March 20, 1975.
+
 ## Key points
 
 - The document concerns the disposal of jeeps used in the Swatantra Party’s 1967 election campaign.

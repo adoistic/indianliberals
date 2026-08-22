@@ -47,6 +47,10 @@ summary: |-
   This single-page English telegram, dated 22 March 1968, is headed “Message from Mr. Dandekar to Mr. Masani.” Dandekar advises that the proposed action is unwise because it may provoke a wholesale revolt of MLAs. He says he will consider the matter further in consultation with “Baris,” whom he expects to meet in Bombay on 24 March.
 ---
 
+## Summary
+
+This single-page English telegram, dated 22 March 1968, is headed “Message from Mr. Dandekar to Mr. Masani.” Dandekar advises that the proposed action is unwise because it may provoke a wholesale revolt of MLAs. He says he will consider the matter further in consultation with “Baris,” whom he expects to meet in Bombay on 24 March.
+
 ## Key points
 
 - The document is a one-page typed telegram dated 22.3.68.

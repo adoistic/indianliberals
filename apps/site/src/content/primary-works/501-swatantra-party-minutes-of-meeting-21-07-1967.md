@@ -54,6 +54,12 @@ summary: |-
   The minutes then address internal organisation and parliamentary activity. Masani reviewed committee assignments, promised members opportunities to fill future vacancies, and read a list of members who had spoken or were expected to speak on the Party’s behalf. The record argues that equal speaking opportunities were neither feasible nor always in the Party’s interest, while emphasising other ways members could participate in the House, including questions, motions, and points of procedure. J. M. Lobo Prabhu signs the document as Secretary.
 ---
 
+## Summary
+
+This one-page record documents a meeting of the Swatantra Party’s General Body in Parliament House, New Delhi, held on 19 July 1967, with M. R. Masani in the chair and 20 members listed as present. The meeting considered developments in Naxalbari and decided not to send a delegation, while allowing N. Dandekar to speak with people in Calcutta and report back to the Party. Members were also asked to clear subscription arrears so that the Parliamentary Office could continue functioning.
+
+The minutes then address internal organisation and parliamentary activity. Masani reviewed committee assignments, promised members opportunities to fill future vacancies, and read a list of members who had spoken or were expected to speak on the Party’s behalf. The record argues that equal speaking opportunities were neither feasible nor always in the Party’s interest, while emphasising other ways members could participate in the House, including questions, motions, and points of procedure. J. M. Lobo Prabhu signs the document as Secretary.
+
 ## Key points
 
 - The Swatantra Party General Body met on 19 July 1967 at Parliament House, New Delhi.

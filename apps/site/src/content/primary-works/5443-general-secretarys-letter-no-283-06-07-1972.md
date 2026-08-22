@@ -49,6 +49,10 @@ summary: |-
   This two-page Swatantra Party administrative letter, dated 6 July 1972, asks state units to provide updated figures for membership renewals and fresh enrolment as of 31 March. General Secretary Madhav Mehta notes that only Delhi, Himachal Pradesh, Kerala, Orissa, and Punjab had responded to an earlier request, and sets 22 July as the deadline for submitting the required figures and the Centre’s subscription quota.
 ---
 
+## Summary
+
+This two-page Swatantra Party administrative letter, dated 6 July 1972, asks state units to provide updated figures for membership renewals and fresh enrolment as of 31 March. General Secretary Madhav Mehta notes that only Delhi, Himachal Pradesh, Kerala, Orissa, and Punjab had responded to an earlier request, and sets 22 July as the deadline for submitting the required figures and the Centre’s subscription quota.
+
 ## Key points
 
 - The letter is General Secretary’s Letter No. 283, issued from the Swatantra Party’s national headquarters in Bombay.

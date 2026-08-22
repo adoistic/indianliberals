@@ -49,6 +49,10 @@ summary: |-
   This one-page English letter from M. S. Hamza, written on Swatantra Party Central Office letterhead in Bombay, is addressed to Mr. N. Dandeker, M.P. Hamza requests that an emergency meeting of the party’s General Council be convened to discuss Minoo Masani’s resignation from the National Executive and the Central Parliamentary Board.
 ---
 
+## Summary
+
+This one-page English letter from M. S. Hamza, written on Swatantra Party Central Office letterhead in Bombay, is addressed to Mr. N. Dandeker, M.P. Hamza requests that an emergency meeting of the party’s General Council be convened to discuss Minoo Masani’s resignation from the National Executive and the Central Parliamentary Board.
+
 ## Key points
 
 - The letter is addressed to Mr. N. Dandeker, M.P.

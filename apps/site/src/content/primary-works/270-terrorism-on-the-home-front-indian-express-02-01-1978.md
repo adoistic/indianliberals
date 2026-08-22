@@ -52,6 +52,12 @@ summary: |-
   Masani places responsibility not only on militant workers but also on management failures and governmental inaction. He criticises the apparent inability of police and administrators to protect workers, managers, and property, and warns that prolonged strikes, lock-outs, coercion, and the disruption of essential production threaten public order and the wider economy. The article calls for the rule of law to prevail over “terrorism” by employers or unions, while stressing that genuine grievances must still be addressed through lawful industrial relations.
 ---
 
+## Summary
+
+In this newspaper article, M. R. Masani argues that industrial unrest in India has taken on the character of “terrorism on the home front.” He supports the claim with reports of lock-outs, sabotage, threats, intimidation, assaults on managers and supervisors, and the manufacture or use of improvised weapons during labour disputes. A detailed account of unrest at a cotton mill in Kanpur is presented alongside incidents involving textile, engineering, steel, chemical, and pharmaceutical factories.
+
+Masani places responsibility not only on militant workers but also on management failures and governmental inaction. He criticises the apparent inability of police and administrators to protect workers, managers, and property, and warns that prolonged strikes, lock-outs, coercion, and the disruption of essential production threaten public order and the wider economy. The article calls for the rule of law to prevail over “terrorism” by employers or unions, while stressing that genuine grievances must still be addressed through lawful industrial relations.
+
 ## Key points
 
 - Masani characterises violent and coercive industrial disputes as a form of domestic terrorism.

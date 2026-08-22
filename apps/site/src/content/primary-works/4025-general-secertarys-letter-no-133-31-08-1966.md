@@ -50,6 +50,10 @@ summary: |-
   Dated 31 August 1966, this General Secretary's Letter from the Swatantra Party Central Office reports that the Election Commission has agreed to permit the Party's star symbol to be used across all States and Union Territories. The approval is conditional on the Party informing the relevant Chief Electoral Officer by 31 December 1966 of the number of candidates it proposes to sponsor.
 ---
 
+## Summary
+
+Dated 31 August 1966, this General Secretary's Letter from the Swatantra Party Central Office reports that the Election Commission has agreed to permit the Party's star symbol to be used across all States and Union Territories. The approval is conditional on the Party informing the relevant Chief Electoral Officer by 31 December 1966 of the number of candidates it proposes to sponsor.
+
 ## Key points
 
 - The document is General Secretary's Letter No. 133, issued by the Swatantra Party Central Office.

@@ -48,6 +48,10 @@ summary: |-
   This one-page Swatantra Party press note, dated 3 December 1969, announces the election of office-bearers and members of the Executive Committee for the party's Bombay Region. It records that the election was conducted by H. M. Patel, the Returning Officer appointed by the party's National Executive.
 ---
 
+## Summary
+
+This one-page Swatantra Party press note, dated 3 December 1969, announces the election of office-bearers and members of the Executive Committee for the party's Bombay Region. It records that the election was conducted by H. M. Patel, the Returning Officer appointed by the party's National Executive.
+
 ## Key points
 
 - The document announces the newly elected leadership of the Swatantra Party's Bombay Region.

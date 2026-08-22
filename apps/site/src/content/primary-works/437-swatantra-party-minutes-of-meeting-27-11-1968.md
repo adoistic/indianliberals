@@ -52,6 +52,10 @@ summary: |-
   This one-page record, issued by the Swatantra Party Parliamentary Office on 27 November 1968, reports the proceedings of a General Body meeting held in Parliament House on 26 November. It lists twenty attendees and records instructions concerning forthcoming parliamentary votes, including support for the Party’s candidates for the Scheduled Castes and Scheduled Tribes Welfare Committee and opposition to Nath Pai’s Fundamental Rights Bill.
 ---
 
+## Summary
+
+This one-page record, issued by the Swatantra Party Parliamentary Office on 27 November 1968, reports the proceedings of a General Body meeting held in Parliament House on 26 November. It lists twenty attendees and records instructions concerning forthcoming parliamentary votes, including support for the Party’s candidates for the Scheduled Castes and Scheduled Tribes Welfare Committee and opposition to Nath Pai’s Fundamental Rights Bill.
+
 ## Key points
 
 - The Swatantra Party General Body met in Parliament House on 26 November 1968.

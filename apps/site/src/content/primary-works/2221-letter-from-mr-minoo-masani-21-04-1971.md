@@ -50,6 +50,12 @@ summary: |-
   Masani broadens the point into a defence of democratic informality. He compares Indian sensitivity about political leaders with the ordinary naming and criticism of Harold Wilson, Ted Heath, Lyndon Johnson, and Nixon in England and the United States. While agreeing that “undignified language” should be avoided, he maintains that the phrase used in his article was not undignified and hopes the exchange has removed the bad taste left by the earlier wording.
 ---
 
+## Summary
+
+In this letter dated April 21, 1971, Minoo Masani replies to Mr. A. K. Rah... about the language used to describe Mahatma Gandhi and the Prime Minister. Masani says he understands the feeling behind the earlier letter but rejects the idea that describing Gandhi humorously or facetiously is inherently offensive, arguing that public figures need not be treated as heroes or villains beyond criticism or humour.
+
+Masani broadens the point into a defence of democratic informality. He compares Indian sensitivity about political leaders with the ordinary naming and criticism of Harold Wilson, Ted Heath, Lyndon Johnson, and Nixon in England and the United States. While agreeing that “undignified language” should be avoided, he maintains that the phrase used in his article was not undignified and hopes the exchange has removed the bad taste left by the earlier wording.
+
 ## Key points
 
 - Masani acknowledges the emotional force of the recipient's objection while questioning the basis for taking offence.

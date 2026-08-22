@@ -53,6 +53,12 @@ summary: |-
   The minutes show the party working through practical questions of parliamentary organisation, electoral strategy, internal discipline, and party finance. The Sub-Committee separately approved admission of three Forward Bloc members elected to the Madras Legislative Assembly, adopted the programme for a Candidates’ Convention, and proposed a review of electoral processes and procedures following the recent general elections. It also discussed a possible conference on electoral irregularities and administrative misuse, while deferring a decision on whether the party should contest Panchayat and other local elections.
 ---
 
+## Summary
+
+These draft minutes record Swatantra Party Parliamentary Board and Sub-Committee meetings held in Bombay on 7 and 8 April 1962. The Board settled temporary office-bearers for the newly constituted Lok Sabha and Rajya Sabha groups, agreed on member contributions to maintain the Parliamentary Party secretariat, reviewed campaign financing for a Lok Sabha by-election, and considered disciplinary cases involving two party members. It also recommended support for Dr. S. Radhakrishnan’s presidential candidature and for Sardar Hukum Singh as Speaker of the Lok Sabha.
+
+The minutes show the party working through practical questions of parliamentary organisation, electoral strategy, internal discipline, and party finance. The Sub-Committee separately approved admission of three Forward Bloc members elected to the Madras Legislative Assembly, adopted the programme for a Candidates’ Convention, and proposed a review of electoral processes and procedures following the recent general elections. It also discussed a possible conference on electoral irregularities and administrative misuse, while deferring a decision on whether the party should contest Panchayat and other local elections.
+
 ## Key points
 
 - The Parliamentary Board appointed temporary Lok Sabha and Rajya Sabha office-bearers for the first session of the new Parliament.

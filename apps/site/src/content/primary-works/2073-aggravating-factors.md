@@ -49,6 +49,12 @@ summary: |-
   The page presents the long-term cause as structural imbalances produced by faulty economic policies pursued from 1956, described as beginning with the Second Plan. Its cartoons contrast immediate aggravating factors with deeper economic distortions, including imbalances involving agriculture, consumer goods, heavy industry, and steel. No author, publisher, date, or issuing organisation is printed on the visible page.
 ---
 
+## Summary
+
+This single illustrated page argues that rising prices cannot be explained solely by recent shocks. It acknowledges that the country’s wars and droughts aggravated the price situation, but identifies both long-term and short-term causes behind inflation.
+
+The page presents the long-term cause as structural imbalances produced by faulty economic policies pursued from 1956, described as beginning with the Second Plan. Its cartoons contrast immediate aggravating factors with deeper economic distortions, including imbalances involving agriculture, consumer goods, heavy industry, and steel. No author, publisher, date, or issuing organisation is printed on the visible page.
+
 ## Key points
 
 - Wars and droughts are presented as factors that aggravated, rather than caused, rising prices.

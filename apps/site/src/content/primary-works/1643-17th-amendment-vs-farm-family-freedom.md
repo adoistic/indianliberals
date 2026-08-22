@@ -59,6 +59,12 @@ summary: |-
   The pamphlet also frames the Amendment as a breach of earlier assurances, particularly those associated with B. R. Ambedkar’s defence of ryotwari tenants, and traces its origins to legislation enacted during a period of Communist rule in Kerala. It portrays the Congress government’s policy as a movement toward collective or cooperative farming and warns, by reference to Soviet Russia and Communist China, that collectivisation would damage agricultural production and produce famine. The closing sections describe the Swatantra Party’s campaign of rural education, conferences, petitions, rallies, parliamentary opposition, and commitment to peaceful peasant action under the slogan “For Farm, Family and Freedom.”
 ---
 
+## Summary
+
+This Swatantra Party pamphlet argues that India’s 17th Amendment threatens the security, property rights, and political freedom of approximately 65 million self-employed peasants and their families. It presents the Amendment as granting State legislatures excessive power over landed property through an expansive definition of “estate,” potentially making even very small farms liable to expropriation. The pamphlet maintains that the measure denies farmers full compensation, weakens constitutional protections for private property, overrides a Supreme Court judgment, and leaves cultivators vulnerable to officials and future governments.
+
+The pamphlet also frames the Amendment as a breach of earlier assurances, particularly those associated with B. R. Ambedkar’s defence of ryotwari tenants, and traces its origins to legislation enacted during a period of Communist rule in Kerala. It portrays the Congress government’s policy as a movement toward collective or cooperative farming and warns, by reference to Soviet Russia and Communist China, that collectivisation would damage agricultural production and produce famine. The closing sections describe the Swatantra Party’s campaign of rural education, conferences, petitions, rallies, parliamentary opposition, and commitment to peaceful peasant action under the slogan “For Farm, Family and Freedom.”
+
 ## Key points
 
 - The pamphlet identifies the 17th Amendment as a threat to small farmers’ land, livelihood, and security.

@@ -46,6 +46,12 @@ summary: |-
   The letter is sharply critical of the opposition's organisation and strategy. It notes that the parties cannot even conduct a joint campaign in Gujarat and accuses Desai of being intent on playing Mrs. Gandhi's game. Paricha contrasts the proposed cooperation with Madh Limaye and Raj Narain with the earlier possibility of joining Piloo Mody in the B.L.D., suggesting that the groups would have reached the same political destination.
 ---
 
+## Summary
+
+This one-page letter, dated 2 May 1975 and signed by Lt. Col. H. R. Paricha (Rtd) in New Delhi, responds to Mr. Munshi about efforts to form a common opposition programme. Paricha questions whether Madh Limaye's committee can produce genuine political unity, arguing that the proposed alliance represents familiar political tactics rather than a distinct programme.
+
+The letter is sharply critical of the opposition's organisation and strategy. It notes that the parties cannot even conduct a joint campaign in Gujarat and accuses Desai of being intent on playing Mrs. Gandhi's game. Paricha contrasts the proposed cooperation with Madh Limaye and Raj Narain with the earlier possibility of joining Piloo Mody in the B.L.D., suggesting that the groups would have reached the same political destination.
+
 ## Key points
 
 - The letter discusses the possibility of a common programme among opposition parties.

@@ -45,6 +45,12 @@ summary: |-
   Vira returns the cheque, explaining that he does not accept payment for articles written in the public interest. The letter presents this refusal as a matter of principle and closes with thanks and kind regards. No broader political or intellectual argument appears on the page.
 ---
 
+## Summary
+
+This one-page letter, dated 14 August 1989, is from Dharma Vira to S. V. Raju, editor or representative of Freedom First. Vira acknowledges receiving Raju's letter and a cheque for Rs. 250/- as payment for a contribution to the July issue of the periodical.
+
+Vira returns the cheque, explaining that he does not accept payment for articles written in the public interest. The letter presents this refusal as a matter of principle and closes with thanks and kind regards. No broader political or intellectual argument appears on the page.
+
 ## Key points
 
 - The letter is dated 14 August 1989 and is addressed to S. V. Raju.

@@ -50,6 +50,12 @@ summary: |-
   The report identifies Minoo Masani, Morarji Desai, S. Nijalingappa, M. R. Pai, and Piloo Mody as central figures in the discussions. Masani presents the Swatantra Party as a democratic alternative to both the Prime Minister's party and the Communists, while Mody says the party will contest only where it has a realistic chance and will not fight every seat. The clipping records continuing disagreements but also cautious optimism that talks may produce a common democratic front.
 ---
 
+## Summary
+
+This 5 January 1971 Indian Express report describes efforts by older Congress leaders in Bombay to rebuild an electoral understanding with the Swatantra Party against the anti-New Congress alliance. The article says that the gulf between the two groups remains substantial, but reports that leaders are discussing a possible coalition government and coordination in the coming elections.
+
+The report identifies Minoo Masani, Morarji Desai, S. Nijalingappa, M. R. Pai, and Piloo Mody as central figures in the discussions. Masani presents the Swatantra Party as a democratic alternative to both the Prime Minister's party and the Communists, while Mody says the party will contest only where it has a realistic chance and will not fight every seat. The clipping records continuing disagreements but also cautious optimism that talks may produce a common democratic front.
+
 ## Key points
 
 - The article reports a proposed electoral understanding between Old Congress leaders and the Swatantra Party.

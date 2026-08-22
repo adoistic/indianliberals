@@ -43,6 +43,10 @@ summary: |-
   In this letter dated May 7, 1964, Minoo Masani writes to C. Rajagopalachari, whom he addresses as “Rajaji.” He explains the “Jaipur mystery”: the Sadr-i-Riyasat summoned the Maharani and persuaded her to telephone V. P. Menon, but she subsequently concluded that she did not need to take any action. Masani does not elaborate on the underlying matter.
 ---
 
+## Summary
+
+In this letter dated May 7, 1964, Minoo Masani writes to C. Rajagopalachari, whom he addresses as “Rajaji.” He explains the “Jaipur mystery”: the Sadr-i-Riyasat summoned the Maharani and persuaded her to telephone V. P. Menon, but she subsequently concluded that she did not need to take any action. Masani does not elaborate on the underlying matter.
+
 ## Key points
 
 - The letter is dated May 7, 1964, and is addressed to C. Rajagopalachari.

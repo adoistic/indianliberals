@@ -46,6 +46,10 @@ summary: |-
   This 9 April 1971 letter from N. K. Ganapaliah, President of the Mysore State Swatantra Party, is addressed to Dr. R. G. Cooper, the party's General Secretary. Ganapaliah forwards copies of his 5 April letter to Minoo Masani and Masani's 7 April reply, both concerning Masani's reported resignation from the party presidency and the results of a related election.
 ---
 
+## Summary
+
+This 9 April 1971 letter from N. K. Ganapaliah, President of the Mysore State Swatantra Party, is addressed to Dr. R. G. Cooper, the party's General Secretary. Ganapaliah forwards copies of his 5 April letter to Minoo Masani and Masani's 7 April reply, both concerning Masani's reported resignation from the party presidency and the results of a related election.
+
 ## Key points
 
 - Ganapaliah comments on Minoo Masani's reported resignation as Swatantra Party president.

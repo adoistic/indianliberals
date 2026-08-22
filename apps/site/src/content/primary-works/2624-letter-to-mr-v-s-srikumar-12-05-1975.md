@@ -51,6 +51,12 @@ summary: |-
   The enclosed notice, issued by Eastern Law & Co. to Piloo Mody, MP, states that the party had agreed to pay 40 percent of the rent and electricity charges as compensation for its use of part of the premises. It alleges that payments ceased after 1 September 1974 and demands Rs. 1,628.68 for the period through 31 March 1975, warning that legal proceedings may follow if the amount is not paid. The rendered pages contain the complete covering letter and enclosure; no additional material is missing.
 ---
 
+## Summary
+
+This two-page English office letter, dated 12 May 1975 and signed by P. Narayan, forwards a legal notice to V. S. Srikumar, Joint Secretary of the Swatantra Party's National Headquarters in Madras. The enclosure concerns unpaid rent and electricity charges connected with premises in Bombay that had been used by the Swatantra Party's national headquarters until August 1974.
+
+The enclosed notice, issued by Eastern Law & Co. to Piloo Mody, MP, states that the party had agreed to pay 40 percent of the rent and electricity charges as compensation for its use of part of the premises. It alleges that payments ceased after 1 September 1974 and demands Rs. 1,628.68 for the period through 31 March 1975, warning that legal proceedings may follow if the amount is not paid. The rendered pages contain the complete covering letter and enclosure; no additional material is missing.
+
 ## Key points
 
 - P. Narayan's letter to V. S. Srikumar is dated 12 May 1975 and concerns arrears owed in connection with party premises.

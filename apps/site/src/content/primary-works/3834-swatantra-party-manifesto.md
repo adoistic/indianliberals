@@ -79,6 +79,12 @@ summary: |-
   Its economic programme combines private enterprise with a limited, regulatory role for government. It advocates secure peasant ownership, voluntary cooperation rather than collective farming, rural infrastructure and electrification, small-scale and decentralised industry, reduced taxation, stable prices, wider ownership, competition, and opposition to monopoly and nationalisation. The later sections extend the same principles to labour, public administration, foreign policy and defence, education, religion, minority protection, and mass communication. The manifesto invokes Mahatma Gandhi’s ideal of government that “governs the least” and presents the party’s opposition to Congress socialism, Soviet-style planning, and perceived Communist influence as central to its political case.
 ---
 
+## Summary
+
+The Swatantra Party Manifesto, titled “To Prosperity Through Freedom,” presents the party as a democratic opposition to Congress rule and to the concentration of political and economic power in the state. It argues for clean and accountable government, individual freedom, constitutional safeguards, an independent judiciary, stronger states, press freedom, electoral reform, and protection from bureaucratic and political interference. The manifesto repeatedly contrasts limited government and dispersed power with what it describes as Congress statism, centralised planning, controls, permits, licences, inflation, and wasteful public expenditure.
+
+Its economic programme combines private enterprise with a limited, regulatory role for government. It advocates secure peasant ownership, voluntary cooperation rather than collective farming, rural infrastructure and electrification, small-scale and decentralised industry, reduced taxation, stable prices, wider ownership, competition, and opposition to monopoly and nationalisation. The later sections extend the same principles to labour, public administration, foreign policy and defence, education, religion, minority protection, and mass communication. The manifesto invokes Mahatma Gandhi’s ideal of government that “governs the least” and presents the party’s opposition to Congress socialism, Soviet-style planning, and perceived Communist influence as central to its political case.
+
 ## Key points
 
 - Calls for a strong and vigilant democratic opposition to the Congress Party and presents the Swatantra Party as a clear alternative in government.

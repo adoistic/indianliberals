@@ -49,6 +49,12 @@ summary: |-
   The writer signs off as “Ex-Col.” followed by an unclear name and closes “Yours in Co-operation.” The document identifies the Swatantra Party office at Sassoon Building, 143 Mahatma Gandhi Road, Bombay-I, but does not provide a printed title.
 ---
 
+## Summary
+
+This one-page handwritten English letter, dated 9 November 1971, is addressed to the President of the Swatantra Party in Bombay. Written on Swatantra Party, Bombay Region letterhead, it appears to make a personal request for party approval or sanction, but substantial portions of the handwriting are not reliably legible.
+
+The writer signs off as “Ex-Col.” followed by an unclear name and closes “Yours in Co-operation.” The document identifies the Swatantra Party office at Sassoon Building, 143 Mahatma Gandhi Road, Bombay-I, but does not provide a printed title.
+
 ## Key points
 
 - The document is a one-page handwritten letter in English.

@@ -49,6 +49,12 @@ summary: |-
   Raju argues that the Swatantra Party's founding intentions have been forgotten in the pursuit of short-term objectives. He criticizes the party for allowing itself to be dragged into the politics and dirt it once opposed, and says that only the organisation in Orissa remains worthy of mention. He closes by reaffirming his membership and his continued loyalty to the party's philosophy and policies, despite his disillusionment.
 ---
 
+## Summary
+
+In this letter dated March 14, 1974, S. V. Raju responds sympathetically to G. M. Gopalakrishna's frustration and anger, while declining to assess the specific merits of Gopalakrishna's complaint to Mr. Ganap... Raju says that, at the national level, he has found himself at odds with the direction in which the party is being taken.
+
+Raju argues that the Swatantra Party's founding intentions have been forgotten in the pursuit of short-term objectives. He criticizes the party for allowing itself to be dragged into the politics and dirt it once opposed, and says that only the organisation in Orissa remains worthy of mention. He closes by reaffirming his membership and his continued loyalty to the party's philosophy and policies, despite his disillusionment.
+
 ## Key points
 
 - Raju acknowledges Gopalakrishna's frustration and anger but avoids judging the substantive merits of his complaint.

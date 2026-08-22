@@ -52,6 +52,12 @@ summary: |-
   Raju explains that he will be in Calcutta when Patel visits Bombay on February 26, and asks Patel to suggest a date and time during the first or second week of March for an evening meeting over tea at the Party office. The letter closes with cordial regards and Raju’s typed name beneath a handwritten signature.
 ---
 
+## Summary
+
+In this one-page letter dated February 20, 1985, S. V. Raju thanks H. M. Patel for replying to his congratulations on Patel’s election victory. Raju notes that Patel had not yet arranged the proposed gathering for former Swatantra Party comrades.
+
+Raju explains that he will be in Calcutta when Patel visits Bombay on February 26, and asks Patel to suggest a date and time during the first or second week of March for an evening meeting over tea at the Party office. The letter closes with cordial regards and Raju’s typed name beneath a handwritten signature.
+
 ## Key points
 
 - The letter is dated February 20, 1985 and is signed by S. V. Raju.

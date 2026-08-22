@@ -48,6 +48,10 @@ summary: |-
   This one-page typed telegram copy, dated 6 June 1966, is addressed to Srimati Indira Gandhi at the Prime Minister's Residence in New Delhi. Minoo Masani accepts an invitation to travel to Delhi with a colleague and proposes a meeting to discuss the implications of devaluation and suggestions for making it fruitful. He offers several possible meeting dates and requests confirmation by wire.
 ---
 
+## Summary
+
+This one-page typed telegram copy, dated 6 June 1966, is addressed to Srimati Indira Gandhi at the Prime Minister's Residence in New Delhi. Minoo Masani accepts an invitation to travel to Delhi with a colleague and proposes a meeting to discuss the implications of devaluation and suggestions for making it fruitful. He offers several possible meeting dates and requests confirmation by wire.
+
 ## Key points
 
 - The document is a copy of a telegram rather than a conventional letter.

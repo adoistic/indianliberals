@@ -52,6 +52,12 @@ summary: |-
   The record also covers practical administration. Members discuss the allocation of office cabins, renovation, the Public Assistance Bureau, bills for banners, membership forms, and Convention symbol blocks, as well as the handling of donations and a proposed budget. The final item considers how to redistribute unused delegate quotas among party units, with membership proposed as the basis for allocation. The meeting ends with a vote of thanks to the Chair.
 ---
 
+## Summary
+
+These two pages record the draft minutes of the Swatantra Party's Bombay Region Executive Committee meeting held on 16 December 1970. The minutes list fourteen attendees, note two absences, record the welcome of newly elected members, and approve the deletion of language considered offensive to party leaders from the previous meeting's minutes. Much of the discussion concerns preparations for the party Convention, including committee work, meeting arrangements, resolutions from local units, and the deferral of a report on party organisation.
+
+The record also covers practical administration. Members discuss the allocation of office cabins, renovation, the Public Assistance Bureau, bills for banners, membership forms, and Convention symbol blocks, as well as the handling of donations and a proposed budget. The final item considers how to redistribute unused delegate quotas among party units, with membership proposed as the basis for allocation. The meeting ends with a vote of thanks to the Chair.
+
 ## Key points
 
 - The Executive Committee meeting took place in Bombay on 16 December 1970, with fourteen members present and two granted leave of absence.

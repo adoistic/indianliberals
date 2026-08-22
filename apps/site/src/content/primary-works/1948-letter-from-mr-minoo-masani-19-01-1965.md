@@ -50,6 +50,12 @@ summary: |-
   Masani explains that he and Professor Ranga will be occupied in Kerala and elsewhere until the parliamentary session begins. He therefore asks A. P. Jain to endorse the proposal and, once endorsed, issue the necessary notices to convene the meeting.
 ---
 
+## Summary
+
+In this letter dated 19 January 1965, M. R. Masani proposes that the Swatantra Party parliamentary group hold its first meeting immediately after the President’s address to a joint sitting of both Houses of Parliament. The meeting would consider the address, possible amendments, and the group’s line of attack in Parliament.
+
+Masani explains that he and Professor Ranga will be occupied in Kerala and elsewhere until the parliamentary session begins. He therefore asks A. P. Jain to endorse the proposal and, once endorsed, issue the necessary notices to convene the meeting.
+
 ## Key points
 
 - Masani proposes an inaugural meeting of the party’s parliamentary group.

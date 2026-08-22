@@ -49,6 +49,12 @@ summary: |-
   The article says the decision followed an assurance from Nijalingappa that the Communist Party would not be permitted to associate with the Front. It reports that the Swatantra executive, including C. Rajagopalachari, N. G. Ranga, and Minoo Masani, criticised the abandonment of efforts to establish a democratic alliance around a common programme. Masani nevertheless said Swatantra would welcome agreement on a minimum programme, while ruling out an immediate adjustment with the Communist Party.
 ---
 
+## Summary
+
+This Hindustan Times report, datelined Madras, January 8, describes the Swatantra Party’s decision to join the Congress(O)-Jan Sangh-SSP Front for the forthcoming Lok Sabha election. The alliance was formed to field one agreed candidate in each constituency, but Swatantra joined without requiring the participating parties to adopt a joint minimum programme.
+
+The article says the decision followed an assurance from Nijalingappa that the Communist Party would not be permitted to associate with the Front. It reports that the Swatantra executive, including C. Rajagopalachari, N. G. Ranga, and Minoo Masani, criticised the abandonment of efforts to establish a democratic alliance around a common programme. Masani nevertheless said Swatantra would welcome agreement on a minimum programme, while ruling out an immediate adjustment with the Communist Party.
+
 ## Key points
 
 - Swatantra Party decided to join the Congress(O)-Jan Sangh-SSP Front for the forthcoming Lok Sabha election.

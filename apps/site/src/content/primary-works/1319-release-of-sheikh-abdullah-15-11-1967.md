@@ -53,6 +53,12 @@ summary: |-
   The PDF also includes a separate Lok Sabha sheet, dated 16 November 1967, concerning deficit financing. M. R. Masani asks about the Central Government’s deficit financing during the first seven months of the financial year, the reasons for any departure from the Finance Minister’s budget undertaking, press reporting on the issue, and possible corrective measures. Deputy Prime Minister and Finance Minister Morarji Desai replies that there had been no deficit financing during the first seven months, that the question of causes therefore did not arise, and that it was too early to predict developments for the rest of the year because revenue collections and external aid receipts remained relevant.
 ---
 
+## Summary
+
+This two-page file contains an official Lok Sabha question-and-answer sheet dated 15 November 1967 on representations seeking the release of Sheikh Abdullah. Six members—Bedabrata Barua, Ram Avtar Sharma, M. R. Masani, R. R. Singh Deo, Ranjit Singh, and Valmiki Chaudhry—ask whether the Government has received such representations and what its response is. Home Minister Y. B. Chavan answers that representations have been received, but that the Government has not decided to withdraw the restrictions imposed on Sheikh Abdullah.
+
+The PDF also includes a separate Lok Sabha sheet, dated 16 November 1967, concerning deficit financing. M. R. Masani asks about the Central Government’s deficit financing during the first seven months of the financial year, the reasons for any departure from the Finance Minister’s budget undertaking, press reporting on the issue, and possible corrective measures. Deputy Prime Minister and Finance Minister Morarji Desai replies that there had been no deficit financing during the first seven months, that the question of causes therefore did not arise, and that it was too early to predict developments for the rest of the year because revenue collections and external aid receipts remained relevant.
+
 ## Key points
 
 - The first sheet records Lok Sabha Unstarred Question No. 586 on representations for Sheikh Abdullah’s release.

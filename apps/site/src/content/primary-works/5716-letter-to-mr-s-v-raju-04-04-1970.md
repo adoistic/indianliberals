@@ -44,6 +44,10 @@ summary: |-
   In this typed letter dated 4 April 1970, M. R. Masani asks S. V. Raju to investigate an incident from the previous year, when N. Dandekar and Cooper were in charge. Masani recalls that Baria had threatened to resign if an unspecified action was taken, but that the action ultimately occurred without Baria resigning.
 ---
 
+## Summary
+
+In this typed letter dated 4 April 1970, M. R. Masani asks S. V. Raju to investigate an incident from the previous year, when N. Dandekar and Cooper were in charge. Masani recalls that Baria had threatened to resign if an unspecified action was taken, but that the action ultimately occurred without Baria resigning.
+
 ## Key points
 
 - The letter is dated 4 April 1970 and addressed to S. V. Raju.

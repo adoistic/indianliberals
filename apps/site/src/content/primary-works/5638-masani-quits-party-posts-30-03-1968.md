@@ -55,6 +55,12 @@ summary: |-
   The second page records a resolution moved by Mr. K. P. Singh Deo, M.P., and unanimously adopted by the Swatantra Party General Council concerning relief for victims of a cyclone in Orissa. It describes the cyclone's effects alongside a three-year drought and appeals both to the Central Government for financial and material assistance and to the public and Swatantra Party members for donations to the Orissa Chief Minister's Relief Fund. The file therefore documents both internal party politics and a party response to a major humanitarian and agricultural crisis.
 ---
 
+## Summary
+
+This two-page archival file combines a newspaper report and a typed Swatantra Party resolution. The newspaper clipping, datelined New Delhi, March 29, reports that M. R. Masani resigned as Leader of the Party in Parliament, from the National Executive, and from the Central Parliamentary Board. It attributes his resignation to the failure of a number of Gujarat legislators to support the Party's candidates in a Rajya Sabha election, and reproduces his concern about the party's political demoralisation and the need to restore discipline and effective functioning.
+
+The second page records a resolution moved by Mr. K. P. Singh Deo, M.P., and unanimously adopted by the Swatantra Party General Council concerning relief for victims of a cyclone in Orissa. It describes the cyclone's effects alongside a three-year drought and appeals both to the Central Government for financial and material assistance and to the public and Swatantra Party members for donations to the Orissa Chief Minister's Relief Fund. The file therefore documents both internal party politics and a party response to a major humanitarian and agricultural crisis.
+
 ## Key points
 
 - M. R. Masani is reported to have resigned several senior Swatantra Party posts.

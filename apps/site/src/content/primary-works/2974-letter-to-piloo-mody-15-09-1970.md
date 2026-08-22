@@ -51,6 +51,12 @@ summary: |-
   Somani encloses both the revised draft and a text supplied by Minoo Masani, asking the recipients to review them jointly and provide comments as soon as possible. The document records a collaborative parliamentary effort to formulate an alternative motion on national economic planning; it does not itself set out the motion's substantive proposals.
 ---
 
+## Summary
+
+This single-page letter, dated September 15, 1970, is written by N. K. Somani, M.P., from Bombay to Piloo Mody, D. N. Patodia, and R. K. Amin. Somani refers to a revised draft of a substitute motion concerning the Fourth Five Year Plan, whose notice had been given by the Prime Minister during the previous Lok Sabha session.
+
+Somani encloses both the revised draft and a text supplied by Minoo Masani, asking the recipients to review them jointly and provide comments as soon as possible. The document records a collaborative parliamentary effort to formulate an alternative motion on national economic planning; it does not itself set out the motion's substantive proposals.
+
 ## Key points
 
 - The document is a typed office letter dated September 15, 1970, from N. K. Somani, M.P.

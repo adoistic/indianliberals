@@ -50,6 +50,12 @@ summary: |-
   The letter also addresses internal party organisation. Ranga relays a request from Raghavendra Pratap Singh concerning the reconstitution of the Uttar Pradesh committee and endorses Munshi's desire to finalise the General Council's reorganisation. He proposes convening the General Council and Central Organisation Committee in August, accepting state lists of new members, and presenting the party's viewpoint publicly under its national leadership.
 ---
 
+## Summary
+
+This one-page English letter, dated 17 June 1963 and written by N. G. Ranga to Minoo Masani on Swatantra Party letterhead, reports Ranga's meeting in Madras with C. Rajagopalachari (Rajaji) and K. M. Munshi. Ranga says Rajaji is willing to hold a public meeting in Madras and agrees with their position on the proposal associated with Kriplani, while cautioning against forcing events without regard to practical obstacles.
+
+The letter also addresses internal party organisation. Ranga relays a request from Raghavendra Pratap Singh concerning the reconstitution of the Uttar Pradesh committee and endorses Munshi's desire to finalise the General Council's reorganisation. He proposes convening the General Council and Central Organisation Committee in August, accepting state lists of new members, and presenting the party's viewpoint publicly under its national leadership.
+
 ## Key points
 
 - Ranga writes to Minoo Masani from New Delhi on 17 June 1963 after meeting Rajaji and K. M. Munshi in Madras.

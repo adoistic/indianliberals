@@ -51,6 +51,12 @@ summary: |-
   The letter’s central warning is that Congress will remain electorally dominant while its left wing gradually captures strategic positions within the party and government, producing what Verman calls a “Marxist transformation.” He presses for a more active Swatantra strategy: nationwide travel, workers’ camps, direct engagement with party workers, and a “Gandhian approach” to overcoming the North–South divide. The later pages connect this political danger to Nehru’s succession planning, Russia’s influence on Indian policy, and the possibility of an entrenched leftist administration. Verman closes by asking whether Rajagopalachari can make the Swatantra idea “a short cut to power” and invites a meeting in Madras.
 ---
 
+## Summary
+
+This four-page letter, dated October 1963 and signed by Amar Nath Verman, is addressed to C. Rajagopalachari (“Raja Ji”) about the future of the Swatantra Party. Verman argues that the party’s original mass appeal and dynamism are fading, and urges Rajagopalachari to choose between reorganising it into a stronger mass-based organisation or merging it with the Congress. He attributes Rajagopalachari’s declining political effectiveness partly to age, limited mobility, and the demands of South Indian politics, while asking him to lead a genuinely national—not merely regional—political movement.
+
+The letter’s central warning is that Congress will remain electorally dominant while its left wing gradually captures strategic positions within the party and government, producing what Verman calls a “Marxist transformation.” He presses for a more active Swatantra strategy: nationwide travel, workers’ camps, direct engagement with party workers, and a “Gandhian approach” to overcoming the North–South divide. The later pages connect this political danger to Nehru’s succession planning, Russia’s influence on Indian policy, and the possibility of an entrenched leftist administration. Verman closes by asking whether Rajagopalachari can make the Swatantra idea “a short cut to power” and invites a meeting in Madras.
+
 ## Key points
 
 - Verman asks Rajagopalachari to consider reorganising the Swatantra Party or merging it with Congress.

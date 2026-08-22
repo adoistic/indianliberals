@@ -47,6 +47,10 @@ summary: |-
   This single-page English letter, dated 18 September 1959, is written by Miss B.S. Mirza in her capacity as secretary to M.R. Masani. It acknowledges a letter from K.B. Jinaraja Hegde addressed to Masani and explains that Masani is temporarily in the United Kingdom, delaying his response and preventing him from inaugurating the Swatantra Party Conference in Mangalore on 4 October.
 ---
 
+## Summary
+
+This single-page English letter, dated 18 September 1959, is written by Miss B.S. Mirza in her capacity as secretary to M.R. Masani. It acknowledges a letter from K.B. Jinaraja Hegde addressed to Masani and explains that Masani is temporarily in the United Kingdom, delaying his response and preventing him from inaugurating the Swatantra Party Conference in Mangalore on 4 October.
+
 ## Key points
 
 - The letter is dated 18 September 1959 and addressed to Mr. K.B. Jinaraja Hegde.

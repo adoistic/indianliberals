@@ -53,6 +53,12 @@ summary: |-
   The main political issue is pressure from Andhra party members, particularly Latchanna, to begin satyagraha against the 17th Amendment and over other agricultural grievances. Masani rejects immediate action, arguing that he lacks authority to reverse the Congress of Committee’s earlier decision, that the party’s governing bodies will soon review the matter, and that a month’s delay could be used to build public awareness. He asks Rajagopalachari whether individual members might undertake satyagraha without placing the party itself in breach of the law, and seeks his advice on an issue that is also agitating party members in Gujarat and Rajasthan. The letter refers to an attached circular, but that enclosure is not included in the rendered pages.
 ---
 
+## Summary
+
+In this two-page letter dated January 6, 1964, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about preparations for the Bangalore Convention and an associated open-air meeting to be presided over by Maharani Gayatri Devi. Masani expresses confidence that the Bangalore organisers will manage the convention successfully, while noting Rajagopalachari’s recent illness and recovery.
+
+The main political issue is pressure from Andhra party members, particularly Latchanna, to begin satyagraha against the 17th Amendment and over other agricultural grievances. Masani rejects immediate action, arguing that he lacks authority to reverse the Congress of Committee’s earlier decision, that the party’s governing bodies will soon review the matter, and that a month’s delay could be used to build public awareness. He asks Rajagopalachari whether individual members might undertake satyagraha without placing the party itself in breach of the law, and seeks his advice on an issue that is also agitating party members in Gujarat and Rajasthan. The letter refers to an attached circular, but that enclosure is not included in the rendered pages.
+
 ## Key points
 
 - Masani reports on arrangements for the Bangalore Convention, the COC and GC meetings, and an open-air public meeting.

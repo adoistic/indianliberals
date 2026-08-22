@@ -49,6 +49,12 @@ summary: |-
   The writer states that the matter has been brought to the attention of the Commissioner of Jammu, as well as the Defence Minister and the Chief of Army in New Delhi, but complains that no body has taken action. The letter closes by expressing hope that Masani may raise the issue in Parliament. The sender's signature is not sufficiently legible to identify with confidence.
 ---
 
+## Summary
+
+This handwritten English letter, dated 4 September 1965 and addressed to Minoo Masani, reports alleged illegal activity in a military area or campus involving military personnel. The writer says that stone is being dug out and a mine is being made, apparently enabling people to make money and allowing land to be used for building purposes without proper authorization.
+
+The writer states that the matter has been brought to the attention of the Commissioner of Jammu, as well as the Defence Minister and the Chief of Army in New Delhi, but complains that no body has taken action. The letter closes by expressing hope that Masani may raise the issue in Parliament. The sender's signature is not sufficiently legible to identify with confidence.
+
 ## Key points
 
 - The letter is addressed to Minoo Masani and dated 4 September 1965.

@@ -50,6 +50,12 @@ summary: |-
   Masani bases this assessment on the Jana Sangh's recent political conduct, including its positions in the Lok Sabha, its alleged alignment with Communist and socialist parties on several issues, and Atal Bihari Vajpayee's absence from the Delhi meeting. He concludes that talks with Jana Sangh should continue only if it shows a clear change of heart, while discussions with B.K.D. should proceed toward an agreed programme before either party is expected to dissolve and merge.
 ---
 
+## Summary
+
+In this letter dated 13 June 1969, M. R. Masani writes to C. Rajagopalachari about negotiations in Delhi concerning a possible merger or closer alignment among the Swatantra Party, Jana Sangh and B.K.D. He disputes the optimistic description of the first day's discussions as “satisfactory,” arguing that agreement was reached on most issues but not on Kashmir, and that the Jana Sangh had not demonstrated a genuine desire for merger.
+
+Masani bases this assessment on the Jana Sangh's recent political conduct, including its positions in the Lok Sabha, its alleged alignment with Communist and socialist parties on several issues, and Atal Bihari Vajpayee's absence from the Delhi meeting. He concludes that talks with Jana Sangh should continue only if it shows a clear change of heart, while discussions with B.K.D. should proceed toward an agreed programme before either party is expected to dissolve and merge.
+
 ## Key points
 
 - Masani reports on negotiations involving the Swatantra Party, Jana Sangh and B.K.D. held in Delhi.

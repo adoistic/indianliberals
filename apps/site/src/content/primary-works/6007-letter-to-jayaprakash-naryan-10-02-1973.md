@@ -46,6 +46,10 @@ summary: |-
   This single handwritten letter, dated 10 February 1973 and written by Minoo Masani from Calcutta, is addressed to Jayaprakash Narayan. Masani urges Narayan to desist from making any commitment to participate in a conference proposed by Patnaik. The letter is brief and appears to concern political participation or an impending political conference.
 ---
 
+## Summary
+
+This single handwritten letter, dated 10 February 1973 and written by Minoo Masani from Calcutta, is addressed to Jayaprakash Narayan. Masani urges Narayan to desist from making any commitment to participate in a conference proposed by Patnaik. The letter is brief and appears to concern political participation or an impending political conference.
+
 ## Key points
 
 - The document is a one-page handwritten letter dated 10 February 1973.

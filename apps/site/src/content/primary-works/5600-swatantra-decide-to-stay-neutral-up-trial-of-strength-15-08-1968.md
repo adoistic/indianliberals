@@ -49,6 +49,10 @@ summary: |-
   This one-page Times of India News Service clipping reports that the Swatantra Party has decided to remain neutral in a political trial of strength in Uttar Pradesh. The party has dissociated itself from the Samyukta Vidhayak Dal in the state, while seven Swatantra members remain in the U.P. Vidhan Sabha. General Secretary N. Dandekar says the party's central executive has concluded that it should not support either side until the Assembly's majority position becomes clear.
 ---
 
+## Summary
+
+This one-page Times of India News Service clipping reports that the Swatantra Party has decided to remain neutral in a political trial of strength in Uttar Pradesh. The party has dissociated itself from the Samyukta Vidhayak Dal in the state, while seven Swatantra members remain in the U.P. Vidhan Sabha. General Secretary N. Dandekar says the party's central executive has concluded that it should not support either side until the Assembly's majority position becomes clear.
+
 ## Key points
 
 - The Swatantra Party has decided to stay neutral in the Uttar Pradesh trial of strength.

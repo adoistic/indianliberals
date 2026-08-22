@@ -49,6 +49,12 @@ summary: |-
   The sender asks Masani to speak with him by telephone, says that he intends to stand with him, and expresses concern about the pressure surrounding the situation. The closing pages refer to Masani's resignation, praise his courage, and promise continued support. The document's letterhead identifies the sender as an advocate, but the sender's name is not legible enough to attribute authoritatively.
 ---
 
+## Summary
+
+This three-page handwritten letter, dated 6 April 1971 and addressed to Minoo Masani, is an intensely personal communication about political disagreement, uncertainty, and loyalty. The sender apologises for the delayed reply, describes being shocked by developments connected with a Congress conference, and reflects on the possibility that events might have unfolded differently. The letter appears to concern a resignation or proposed resignation and the consequences of political decisions, although several passages are difficult to decipher.
+
+The sender asks Masani to speak with him by telephone, says that he intends to stand with him, and expresses concern about the pressure surrounding the situation. The closing pages refer to Masani's resignation, praise his courage, and promise continued support. The document's letterhead identifies the sender as an advocate, but the sender's name is not legible enough to attribute authoritatively.
+
 ## Key points
 
 - The letter is dated 6 April 1971 and addressed to Minoo Masani.

@@ -50,6 +50,12 @@ summary: |-
   Masani also proposes coordinating the visit with a meeting of the COC in Bombay during the first half of May. Because Parliament is in session until 1 or 8 May, he suggests tentatively scheduling the COC meeting for 9–10 May, followed by Rajagopalachari’s Rotary address on Tuesday, 12 May. The letter closes by asking what response Masani should give the Rotary Club.
 ---
 
+## Summary
+
+This one-page letter, dated 11 March 1964, is from M. R. Masani to C. Rajagopalachari. Masani asks whether Rajagopalachari can give a 20-minute talk in Bombay on the 17th Amendment, noting that the Rotary Club of Bombay can provide an audience of prominent local figures at its Tuesday lunch meetings during April or May.
+
+Masani also proposes coordinating the visit with a meeting of the COC in Bombay during the first half of May. Because Parliament is in session until 1 or 8 May, he suggests tentatively scheduling the COC meeting for 9–10 May, followed by Rajagopalachari’s Rotary address on Tuesday, 12 May. The letter closes by asking what response Masani should give the Rotary Club.
+
 ## Key points
 
 - Masani writes from 57 Lodi Estate, New Delhi, on 11 March 1964.

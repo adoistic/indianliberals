@@ -63,3 +63,9 @@ summary: |-
   
   A central argument running through the issue is that national security and economic recovery require stronger defence preparation, consultation with friendly democratic powers, restoration of political competition, and relief from restrictive economic controls. The newsletter particularly attacks the Gold Control Order and emergency-era taxation as damaging to employment, rural credit, savings, and personal economic security. Its parliamentary extracts connect these economic criticisms to wider concerns about constitutional government, civil liberties, Communist influence, foreign policy, and the need for an effective opposition.
 ---
+
+## Summary
+
+Swatantra Newsletter No. 32, issued in Bombay in March 1963, reports on the Swatantra Party’s central organisational meetings, public meetings, parliamentary interventions, and state-level activities. The issue presents the party as an opposition force criticising the Congress government’s handling of the Chinese aggression, the Colombo proposals, national-emergency powers, Panchayat Raj without elections, taxation, gold controls, planning, and agricultural and industrial policy. It also reproduces extracts from speeches by C. Rajagopalachari, N. G. Ranga, Maharani Gayatri Devi, and Dahyabhai V. Patel, alongside party resolutions and press commentary.
+
+A central argument running through the issue is that national security and economic recovery require stronger defence preparation, consultation with friendly democratic powers, restoration of political competition, and relief from restrictive economic controls. The newsletter particularly attacks the Gold Control Order and emergency-era taxation as damaging to employment, rural credit, savings, and personal economic security. Its parliamentary extracts connect these economic criticisms to wider concerns about constitutional government, civil liberties, Communist influence, foreign policy, and the need for an effective opposition.

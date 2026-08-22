@@ -59,6 +59,12 @@ summary: |-
   Masani cites a Reserve Bank statement that Treasury Bills outstanding had increased by more than Rs. 149 crores during the six weeks ending July 10, 1964, most of it representing deficit finance. He also presents vouchers to allege profiteering by state-linked cooperative societies, contrasting their purchase and sale prices for jowar and wheat. For immediate relief, he proposes releasing buffer stocks through fair-price shops and the trade, abolishing zonal barriers, decontrol, and stopping exports of edible articles until conditions improve.
 ---
 
+## Summary
+
+In this two-page statement dated Bombay, August 6, 1964, M. R. Masani attacks Union Commerce Minister Nanda's attempt to raid wholesale traders' stocks as a political stunt that failed to uncover hoarding. He attributes food shortages and high prices to the Congress Government's planning priorities since the Second Plan: heavy industry and capital-intensive projects were placed ahead of consumer goods and agriculture. He argues that neglected food production, slow-yielding investments, deficit finance, and heavy indirect taxation have together produced inflation and economic strain.
+
+Masani cites a Reserve Bank statement that Treasury Bills outstanding had increased by more than Rs. 149 crores during the six weeks ending July 10, 1964, most of it representing deficit finance. He also presents vouchers to allege profiteering by state-linked cooperative societies, contrasting their purchase and sale prices for jowar and wheat. For immediate relief, he proposes releasing buffer stocks through fair-price shops and the trade, abolishing zonal barriers, decontrol, and stopping exports of edible articles until conditions improve.
+
 ## Key points
 
 - Masani describes the Delhi stock-raiding operation as a failed political stunt and criticises the use of traders and peasants as scapegoats.

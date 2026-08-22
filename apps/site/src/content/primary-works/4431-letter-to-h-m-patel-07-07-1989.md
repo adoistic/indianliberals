@@ -46,6 +46,12 @@ summary: |-
   The reply also includes a personal postscript: Raju reports that his son Vivek has completed an MBA in Marketing at the University of Toronto after earning an engineering degree from BVM College, and is working as a management trainee at Lintas in Bombay. It adds that Vivek continues to play in the Kanga League under the captainship of his younger brother Vinod.
 ---
 
+## Summary
+
+This two-page English correspondence records an exchange between H. M. Patel and S. V. Raju in June–July 1989. Patel’s June 6 letter forwards an article that Raju had commissioned, expressing hope that it addresses the matters under discussion. Raju’s July 7 reply thanks Patel for the letter and article, notes that the issue is in press, and says a copy should reach Patel by mid-July.
+
+The reply also includes a personal postscript: Raju reports that his son Vivek has completed an MBA in Marketing at the University of Toronto after earning an engineering degree from BVM College, and is working as a management trainee at Lintas in Bombay. It adds that Vivek continues to play in the Kanga League under the captainship of his younger brother Vinod.
+
 ## Key points
 
 - H. M. Patel’s June 6, 1989 letter forwards an article requested by S. V. Raju.

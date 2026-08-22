@@ -51,6 +51,12 @@ summary: |-
   Rajagopalachari warns that political repression is becoming increasingly autocratic and that speech is being fettered. He hopes that the recipient and Mr. Shroff will show courage in confronting those responsible. The letter closes with a brief reference to reading a report of “Sri P...”’s observations. The recipient’s full identity and the final referenced name cannot be established from the rendered pages.
 ---
 
+## Summary
+
+In this two-page handwritten letter dated 20 October 1959, C. Rajagopalachari writes to “Modi” about the need for political assistance and expresses relief that the recipient’s own letter has made a further appeal unnecessary. He says he is greatly heartened by the recipient’s continued support and argues that tyranny persists when its victims remain afraid.
+
+Rajagopalachari warns that political repression is becoming increasingly autocratic and that speech is being fettered. He hopes that the recipient and Mr. Shroff will show courage in confronting those responsible. The letter closes with a brief reference to reading a report of “Sri P...”’s observations. The recipient’s full identity and the final referenced name cannot be established from the rendered pages.
+
 ## Key points
 
 - Rajagopalachari writes to a recipient addressed only as “Modi” and refers to the recipient’s recent letter.

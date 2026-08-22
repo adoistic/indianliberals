@@ -52,6 +52,12 @@ summary: |-
   The second page records a 3 April 1969 meeting of a sub-committee appointed by the leaders of the Opposition parties to consider the formation of consultative committees. It proposes 25 committees, each with 30 members—20 from the Lok Sabha and 10 from the Rajya Sabha—for a total of 750 seats. The circular sets out a party-wise allocation formula based on parliamentary strength, including two members for the Swatantra Party on every committee, two for the Jan Sangh, and specified representation for the Communist Party of India and other groups. It also states that the Congress Party should retain a majority of at least two on every committee and requests party groups to submit nominees before 12 May 1969.
 ---
 
+## Summary
+
+This two-page English office circular, issued by the Swatantra Party Parliamentary Office in New Delhi on 7 April 1969, instructs party members to attend the Lok Sabha on Monday, 28 April, from 11:30 to 16:30 to vote for the party’s candidates for three financial committees. Signed by Y. G. Gowd as Chief Whip, it stresses that full attendance is essential to secure the election of all Swatantra candidates.
+
+The second page records a 3 April 1969 meeting of a sub-committee appointed by the leaders of the Opposition parties to consider the formation of consultative committees. It proposes 25 committees, each with 30 members—20 from the Lok Sabha and 10 from the Rajya Sabha—for a total of 750 seats. The circular sets out a party-wise allocation formula based on parliamentary strength, including two members for the Swatantra Party on every committee, two for the Jan Sangh, and specified representation for the Communist Party of India and other groups. It also states that the Congress Party should retain a majority of at least two on every committee and requests party groups to submit nominees before 12 May 1969.
+
 ## Key points
 
 - The circular directs Swatantra Party members to attend a Lok Sabha vote on 28 April 1969.

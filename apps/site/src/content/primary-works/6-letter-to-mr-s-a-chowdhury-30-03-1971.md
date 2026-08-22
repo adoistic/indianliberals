@@ -46,6 +46,12 @@ summary: |-
   Masani writes that their hopes have been “belied” and calls for an “agonising reappraisal” of their position. The letter is a brief personal communication, and it does not explain either the hopes at issue or the broader political circumstances to which he refers.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani to Mr. S. A. Chowdhury is dated 30 March 1971. Masani acknowledges Chowdhury’s letter of 17 February and thanks him for sending a clipping of an editorial from the Indian Nation, which he says he was interested to see.
+
+Masani writes that their hopes have been “belied” and calls for an “agonising reappraisal” of their position. The letter is a brief personal communication, and it does not explain either the hopes at issue or the broader political circumstances to which he refers.
+
 ## Key points
 
 - The letter is dated 30 March 1971 and is addressed to Mr. S. A. Chowdhury.

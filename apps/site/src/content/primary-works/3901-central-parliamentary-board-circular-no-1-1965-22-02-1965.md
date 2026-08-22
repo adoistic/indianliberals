@@ -51,6 +51,12 @@ summary: |-
   Signed by M. R. Masani in his capacity as General Secretary, the circular sets out three items of business: confirmation of the minutes of the previous Parliamentary Board meeting held on September 30, 1964; consideration of action arising from a General Council resolution endorsing the General Secretary’s Statement on Organisation; and any other business permitted by the Chair. The page is therefore an administrative party notice focused on parliamentary-board procedure and organisational follow-up.
 ---
 
+## Summary
+
+Dated February 22, 1965, this Swatantra Party circular from the Central Office announces the first meeting of the Central Parliamentary Board nominated by the National Executive. The meeting is scheduled for Sunday, March 14, in New Delhi, with the precise venue to be communicated later.
+
+Signed by M. R. Masani in his capacity as General Secretary, the circular sets out three items of business: confirmation of the minutes of the previous Parliamentary Board meeting held on September 30, 1964; consideration of action arising from a General Council resolution endorsing the General Secretary’s Statement on Organisation; and any other business permitted by the Chair. The page is therefore an administrative party notice focused on parliamentary-board procedure and organisational follow-up.
+
 ## Key points
 
 - The circular is dated February 22, 1965, and issued on Swatantra Party Central Office letterhead.

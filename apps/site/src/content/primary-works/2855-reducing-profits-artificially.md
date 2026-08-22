@@ -49,6 +49,12 @@ summary: |-
   The page compares this proposal with clause 37 of the Income-tax Bill, 1961. That clause initially allowed an officer to disallow expenditure he considered not "necessary" for the purposes of a business. After strong opposition at the Select Committee stage, the word "necessarily" was removed, leaving expenditure wholly incurred for business purposes fully allowable regardless of the officer's view of its necessity. The author presents clause 3 of the Super Profits Tax Bill as seeking to reintroduce, in substance, the same kind of official judgment that the earlier legislative revision rejected.
 ---
 
+## Summary
+
+On the visible continuation page, the essay argues that clause 3 of the Super Profits Tax Bill gives the Income-tax Officer excessively broad discretion to determine whether business profits have been reduced artificially. It warns that an officer unfamiliar with the needs of a particular business could impose a subjective assessment, artificially inflate reported profits, and expose them to super profits tax. The text also objects to placing the tax official in judgment over the soundness of business policies and practices about which he may know very little.
+
+The page compares this proposal with clause 37 of the Income-tax Bill, 1961. That clause initially allowed an officer to disallow expenditure he considered not "necessary" for the purposes of a business. After strong opposition at the Select Committee stage, the word "necessarily" was removed, leaving expenditure wholly incurred for business purposes fully allowable regardless of the officer's view of its necessity. The author presents clause 3 of the Super Profits Tax Bill as seeking to reintroduce, in substance, the same kind of official judgment that the earlier legislative revision rejected.
+
 ## Key points
 
 - Clause 3 of the Super Profits Tax Bill is described as granting the Income-tax Officer extraordinarily wide powers.

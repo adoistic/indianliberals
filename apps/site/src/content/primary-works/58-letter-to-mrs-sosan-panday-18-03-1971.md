@@ -48,6 +48,12 @@ summary: |-
   Masani describes the political moment as one of uncertainty and says that many people are experiencing an “agonising reappraisal.” Although he is not yet clear about the direction to take, he says he has ideas of his own and explicitly rules out fighting a by-election. The page closes with a brief expression of goodwill to Panday.
 ---
 
+## Summary
+
+In this letter dated 18 March 1971, M. R. Masani thanks Sosan Panday for writing about the election and for inviting him to stay in Simla. He says he had not known that she had been “hibernating in Simla” and leaves open the possibility of visiting, while noting that he does not know when this will be possible.
+
+Masani describes the political moment as one of uncertainty and says that many people are experiencing an “agonising reappraisal.” Although he is not yet clear about the direction to take, he says he has ideas of his own and explicitly rules out fighting a by-election. The page closes with a brief expression of goodwill to Panday.
+
 ## Key points
 
 - Masani replies to Sosan Panday's letter of 11 March 1971.

@@ -50,6 +50,12 @@ summary: |-
   The telegram concerns preparations for receiving parliamentary candidates. It specifically asks whether the recipient will ensure that the party’s candidates include Bokai Mandal for Kishanganj and Ramautgrah Jha for Saharsa, as had apparently been assured in Madras. The page is therefore an operational political communication focused on candidate selection and electoral coordination rather than a developed political argument.
 ---
 
+## Summary
+
+This one-page express telegram, dated 12 January 1962, is sent from the Raja of Ramgarh’s office in Patna and signed “=MASANI=.” It acknowledges the recipient’s telegram and asks that the sender’s representative, Mr. Mohanlal, be met on his arrival by the Toofan Express on the morning of 18 January, with overnight accommodation arranged in Patna.
+
+The telegram concerns preparations for receiving parliamentary candidates. It specifically asks whether the recipient will ensure that the party’s candidates include Bokai Mandal for Kishanganj and Ramautgrah Jha for Saharsa, as had apparently been assured in Madras. The page is therefore an operational political communication focused on candidate selection and electoral coordination rather than a developed political argument.
+
 ## Key points
 
 - The document is an express telegram dated 12 January 1962.

@@ -46,6 +46,10 @@ summary: |-
   In this letter dated 23 November 1964, N. Dandekar asks M. R. Masani for help securing the independent bungalow at Windsor Place currently occupied by Ram Ratan Gupta. Dandekar explains that, if obtaining that particular accommodation is impossible because of priority rules or Gupta's continued occupancy, he would accept the next-best alternative offered.
 ---
 
+## Summary
+
+In this letter dated 23 November 1964, N. Dandekar asks M. R. Masani for help securing the independent bungalow at Windsor Place currently occupied by Ram Ratan Gupta. Dandekar explains that, if obtaining that particular accommodation is impossible because of priority rules or Gupta's continued occupancy, he would accept the next-best alternative offered.
+
 ## Key points
 
 - N. Dandekar writes to M. R. Masani about parliamentary accommodation.

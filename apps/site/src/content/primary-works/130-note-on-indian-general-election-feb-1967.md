@@ -58,6 +58,12 @@ summary: |-
   The note attributes Congress's losses to economic stagnation, food shortages, inflation, unemployment, administrative corruption, factionalism, and the electoral advantages produced by multi-cornered contests and opposition adjustments. It presents the election as potentially inaugurating a more balanced party system and strengthening parliamentary democracy. The Swatantra Party is described as a liberal-democratic, constitutionally minded party favouring a mixed economy rather than a socialist one, a non-denominational state, equal opportunity, and opposition to unconstitutional action. The note is cautiously optimistic about Swatantra's future but stresses the difficulty of cooperation with the Jana Sangh because of disagreements over nationalism, secularism, language, Kashmir, relations with Pakistan, and the language question.
 ---
 
+## Summary
+
+This three-page note examines the February 1967 general election as a decisive break with the Indian National Congress's twenty-two-year monopoly of power. It reports that Congress returned to office in only eight of sixteen states, while coalition governments, opposition parties, and President's Rule emerged elsewhere. In the Lok Sabha, Congress's majority fell to fifty seats with five results still pending, while the Swatantra Party became the largest opposition party and the combined Communist parties increased their representation from 25 to 42 members.
+
+The note attributes Congress's losses to economic stagnation, food shortages, inflation, unemployment, administrative corruption, factionalism, and the electoral advantages produced by multi-cornered contests and opposition adjustments. It presents the election as potentially inaugurating a more balanced party system and strengthening parliamentary democracy. The Swatantra Party is described as a liberal-democratic, constitutionally minded party favouring a mixed economy rather than a socialist one, a non-denominational state, equal opportunity, and opposition to unconstitutional action. The note is cautiously optimistic about Swatantra's future but stresses the difficulty of cooperation with the Jana Sangh because of disagreements over nationalism, secularism, language, Kashmir, relations with Pakistan, and the language question.
+
 ## Key points
 
 - The February 1967 election ended Congress's twenty-two-year monopoly of political power.

@@ -51,6 +51,12 @@ summary: |-
   Masani then argues that the party’s allocation should be counted as seven bungalows, excluding houses already occupied or previously assigned to party members. He gives his own residence at 57 Lodi Estate as an example and says that a proposed additional allocation to G. C. Lesai should also be excluded from the group’s total. He requests that at least six bungalows be allotted after the one assigned to N. Dandeker, following the order established by the draw. The final two rendered pages contain faint handwritten notes that could not be reliably read.
 ---
 
+## Summary
+
+In this letter dated 14 April 1967, M. R. Masani writes to B. Bhagwati about the allocation of parliamentary bungalows to new Swatantra Party members. Because Piloo Mody is away from Bombay, Masani says he has decided to draw lots for the members who applied for bungalows and records the resulting order of preference, beginning with Mohamed Imam and Mamu Amersy and ending with Venkatarapa Naik.
+
+Masani then argues that the party’s allocation should be counted as seven bungalows, excluding houses already occupied or previously assigned to party members. He gives his own residence at 57 Lodi Estate as an example and says that a proposed additional allocation to G. C. Lesai should also be excluded from the group’s total. He requests that at least six bungalows be allotted after the one assigned to N. Dandeker, following the order established by the draw. The final two rendered pages contain faint handwritten notes that could not be reliably read.
+
 ## Key points
 
 - Masani writes to B. Bhagwati on 14 April 1967 concerning parliamentary bungalow allocations.

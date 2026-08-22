@@ -53,6 +53,12 @@ summary: |-
   The letter also addresses electoral understandings, fundraising, transport, and party leadership. Dandekar rejects arrangements with Communist and communal parties, expresses reservations about cooperation with the B.K.D., and insists that any alliance must leave the Swatantra Party free to contest constituencies containing its strongest candidates. He estimates a minimum campaign requirement of Rs. 450,000, urges the party to aim for Rs. 500,000, proposes selling the State Party’s old Jeeps to sponsored candidates, and advises against changing the party presidency before the mid-term election results are known.
 ---
 
+## Summary
+
+This 17 May 1968 letter from N. Dandekar to Bhanu Pratap Singh sets out Swatantra Party strategy for the forthcoming Uttar Pradesh mid-term election. Dandekar recommends concentrating resources on 25–30 highly disciplined candidates, while distinguishing among “sponsored,” “approved,” and “supported” candidates. The party’s subsidiary objective is to secure at least four per cent of the valid vote in order to regain recognition in Uttar Pradesh, even if this requires supporting candidates outside its own formal slate.
+
+The letter also addresses electoral understandings, fundraising, transport, and party leadership. Dandekar rejects arrangements with Communist and communal parties, expresses reservations about cooperation with the B.K.D., and insists that any alliance must leave the Swatantra Party free to contest constituencies containing its strongest candidates. He estimates a minimum campaign requirement of Rs. 450,000, urges the party to aim for Rs. 500,000, proposes selling the State Party’s old Jeeps to sponsored candidates, and advises against changing the party presidency before the mid-term election results are known.
+
 ## Key points
 
 - The immediate electoral objective is to field 25–30 disciplined and serious candidates, with at least 20 already belonging to the Swatantra Party.

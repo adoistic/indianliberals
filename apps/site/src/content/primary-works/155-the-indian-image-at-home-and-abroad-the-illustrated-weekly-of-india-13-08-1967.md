@@ -54,3 +54,9 @@ summary: |-
   
   In the rendered pages, Masani argues that public relations cannot repair an image damaged by domestic conditions. He calls for constructive civic action, cleaner municipal administration, resistance to tyranny and intimidation, and a renewed commitment to individual initiative and democratic responsibility. The extract ends while discussing the 1967 general election and the conduct of External Affairs Minister M. C. Chagla.
 ---
+
+## Summary
+
+This two-page extract from The Illustrated Weekly of India, dated August 13, 1967, contains M. R. Masani's article “The Indian Image At Home And Abroad.” In the rendered pages, Masani examines India's deteriorating reputation overseas through reports of political partisanship, food shortages, administrative restrictions, economic controls, and disorder. He contrasts these developments with the moral and democratic ideals associated with Gandhi and with India's earlier international standing.
+
+In the rendered pages, Masani argues that public relations cannot repair an image damaged by domestic conditions. He calls for constructive civic action, cleaner municipal administration, resistance to tyranny and intimidation, and a renewed commitment to individual initiative and democratic responsibility. The extract ends while discussing the 1967 general election and the conduct of External Affairs Minister M. C. Chagla.

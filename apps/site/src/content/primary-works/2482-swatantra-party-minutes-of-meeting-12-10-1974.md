@@ -54,6 +54,12 @@ summary: |-
   The minutes also reflect the party's organisational and political position following the formation of the BLD. The executive authorised the General Secretary to propose members for co-option, recorded that Poona district executive and State Council members had chosen to remain with the Swatantra Party, and approved a press statement presenting the party as a common people's party rather than a party of capitalists. The document ends with a vote of thanks and the meeting's adjournment at about 6:00 p.m.
 ---
 
+## Summary
+
+These two pages record the executive meeting of the Swatantra Party, Maharashtra, held at the party office in Bombay on 12 October 1974. The minutes list the members present, confirm the minutes of the 17 August meeting, and note a decision to read future minutes only at the following meeting to economise on paper. The meeting discussed a practical programme focused on hutment-dwellers, municipal grievances, cooperation with the Sarvodaya movement, access to ration and milk cards, conservation of electrical energy in Bombay, and unequal access to subsidised milk.
+
+The minutes also reflect the party's organisational and political position following the formation of the BLD. The executive authorised the General Secretary to propose members for co-option, recorded that Poona district executive and State Council members had chosen to remain with the Swatantra Party, and approved a press statement presenting the party as a common people's party rather than a party of capitalists. The document ends with a vote of thanks and the meeting's adjournment at about 6:00 p.m.
+
 ## Key points
 
 - The Maharashtra executive met in Bombay on 12 October 1974 under Chairman Parmanand Kejriwal.

@@ -49,6 +49,10 @@ summary: |-
   This one-page English letter, dated 22 May 1962 and addressed to the General Secretary of the Swatantra Party, requests practical resources for Lok Sabha Swatantra Party members working in Delhi. The signatories explain that a Swatantra Party Jeep is stationed in Delhi and ask that it be made available for party work. The letter also requests that the party’s Central Office provide a typewriter and a cyclostyle machine for local office use. It records an administrative appeal from parliamentary party members to the Swatantra Party Central Organisational Committee, while the handwritten signatures and annotations indicate subsequent receipt and internal handling.
 ---
 
+## Summary
+
+This one-page English letter, dated 22 May 1962 and addressed to the General Secretary of the Swatantra Party, requests practical resources for Lok Sabha Swatantra Party members working in Delhi. The signatories explain that a Swatantra Party Jeep is stationed in Delhi and ask that it be made available for party work. The letter also requests that the party’s Central Office provide a typewriter and a cyclostyle machine for local office use. It records an administrative appeal from parliamentary party members to the Swatantra Party Central Organisational Committee, while the handwritten signatures and annotations indicate subsequent receipt and internal handling.
+
 ## Key points
 
 - The letter is addressed to the General Secretary of the Swatantra Party’s Central Office in Bombay. Lok Sabha Swatantra Party members report that a party Jeep is stationed in Delhi. The signatories ask that the Jeep be used for their party work in Delhi. They request one typewriter and one cyclostyle machine for the office. The request is submitted to the Swatantra Party Central Organisational Committee for consideration and favour.

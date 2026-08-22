@@ -59,6 +59,10 @@ summary: |-
   These speaking notes, prepared for S. V. Raju’s 5 May 1999 address to the Rotary Club of Film City in Bombay, examine whether coalition governments are good or bad through four stages: the meaning of coalitions, India’s experience with them, the relationship between political stability and economic growth, and the likely future shape of Indian politics. The notes distinguish the Indian use of coalitions—often intended to keep a rival party out—from Western examples such as Germany, where parties combine to share power and offer governance.
 ---
 
+## Summary
+
+These speaking notes, prepared for S. V. Raju’s 5 May 1999 address to the Rotary Club of Film City in Bombay, examine whether coalition governments are good or bad through four stages: the meaning of coalitions, India’s experience with them, the relationship between political stability and economic growth, and the likely future shape of Indian politics. The notes distinguish the Indian use of coalitions—often intended to keep a rival party out—from Western examples such as Germany, where parties combine to share power and offer governance.
+
 ## Key points
 
 - Coalitions are defined as temporary alliances among parties that retain distinctive principles.

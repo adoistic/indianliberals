@@ -50,6 +50,10 @@ summary: |-
   This one-page letter, dated August 23, 1974, is written by Girish Munshi, General Secretary of the Swatantra Party, Maharashtra, to V. P. Bhatia, Executive Secretary of the Swatantra Party's National Headquarters. Munshi states that the Swatantra Party at the centre will cease to exist from August 29, 1974, and argues that the National Headquarters will therefore no longer require the office space provided by the Maharashtra party.
 ---
 
+## Summary
+
+This one-page letter, dated August 23, 1974, is written by Girish Munshi, General Secretary of the Swatantra Party, Maharashtra, to V. P. Bhatia, Executive Secretary of the Swatantra Party's National Headquarters. Munshi states that the Swatantra Party at the centre will cease to exist from August 29, 1974, and argues that the National Headquarters will therefore no longer require the office space provided by the Maharashtra party.
+
 ## Key points
 
 - The letter is dated August 23, 1974, and is issued on Swatantra Party, Maharashtra letterhead.

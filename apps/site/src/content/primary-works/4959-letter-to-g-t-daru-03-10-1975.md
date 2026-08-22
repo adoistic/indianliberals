@@ -48,6 +48,12 @@ summary: |-
   Masani also reports that he has prepared a rough draft of a petition to be presented to Parliament. Because Soli Sorabjee has been occupied, Masani has been unable to discuss the petition with him, but plans to send Daru a draft early the following week if Sorabjee has not yet reviewed it.
 ---
 
+## Summary
+
+In this letter dated 3 October 1975, M. R. Masani replies to C. T. Daru concerning a planned visit. Masani says he will arrive in Ahmedabad on an early-morning flight, stay overnight on Sunday the 12th with Mrs. Mona Chinubhai and her brother-in-law Soli Sorabjee, and return the following morning. He asks Daru to provide details of the day's programme, including when and where he will be needed.
+
+Masani also reports that he has prepared a rough draft of a petition to be presented to Parliament. Because Soli Sorabjee has been occupied, Masani has been unable to discuss the petition with him, but plans to send Daru a draft early the following week if Sorabjee has not yet reviewed it.
+
 ## Key points
 
 - The letter is dated 3 October 1975 and is addressed to C. T. Daru.

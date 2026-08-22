@@ -50,6 +50,12 @@ summary: |-
   Rajagopalachari identifies a difficulty in the opposition programme: disagreement over whether Goa should integrate with Karnataka or Maharashtra. He urges Mody to consider whether this quarrel can be set aside in favour of a formula that would allow a united opposition front to work toward clean and efficient autonomy, regardless of Goa's future status.
 ---
 
+## Summary
+
+In this letter dated 21 September 1963, C. Rajagopalachari writes to Piloo Mody about the political situation in Goa. He welcomes the unity of opposition parties against the Congress and their shared commitment to a clean and efficient administration, while noting that the Swatantra Party may provide particular encouragement.
+
+Rajagopalachari identifies a difficulty in the opposition programme: disagreement over whether Goa should integrate with Karnataka or Maharashtra. He urges Mody to consider whether this quarrel can be set aside in favour of a formula that would allow a united opposition front to work toward clean and efficient autonomy, regardless of Goa's future status.
+
 ## Key points
 
 - The letter is dated 21 September 1963 and is addressed to Piloo Mody.

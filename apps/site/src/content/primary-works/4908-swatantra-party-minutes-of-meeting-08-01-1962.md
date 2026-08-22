@@ -52,6 +52,10 @@ summary: |-
   This one-page Swatantra Party office record reports the Organisation Sub-Committee meeting held at 2 p.m. on 5 January 1962 in C. Rajagopalachari’s room at the offices of Kalki, Madras. The meeting was chaired by Professor N. G. Ranga, with C. Rajagopalachari and M. R. Masani also present; the minutes were issued from the Party’s Central Office on 8 January 1962.
 ---
 
+## Summary
+
+This one-page Swatantra Party office record reports the Organisation Sub-Committee meeting held at 2 p.m. on 5 January 1962 in C. Rajagopalachari’s room at the offices of Kalki, Madras. The meeting was chaired by Professor N. G. Ranga, with C. Rajagopalachari and M. R. Masani also present; the minutes were issued from the Party’s Central Office on 8 January 1962.
+
 ## Key points
 
 - The Organisation Sub-Committee met in Madras on 5 January 1962.

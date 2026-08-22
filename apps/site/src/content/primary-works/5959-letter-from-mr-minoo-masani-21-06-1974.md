@@ -46,6 +46,12 @@ summary: |-
   Masani says that had he been asked to write about Vinoba, he would not necessarily have mentioned Jayaprakash. He appreciates Deshpande’s devotion and loyalty to Vinoba and asks about her father, P. I. Deshpande, whom he describes as an old friend with whom he has lost touch.
 ---
 
+## Summary
+
+In this typed letter dated June 21, 1974, M. R. Masani replies to Miss Nirala Deshpande about her objection that an article in Reader’s Digest did not mention Vinoba Bhave. Masani explains that Reader’s Digest had commissioned him to write about Jayaprakash Narayan, not about the Buddha or the Sarvodaya movement, and that the article’s limited space required strict selection of material.
+
+Masani says that had he been asked to write about Vinoba, he would not necessarily have mentioned Jayaprakash. He appreciates Deshpande’s devotion and loyalty to Vinoba and asks about her father, P. I. Deshpande, whom he describes as an old friend with whom he has lost touch.
+
 ## Key points
 
 - Masani acknowledges receiving Deshpande’s June 13 letter and appreciates her devotion and loyalty to Vinoba.

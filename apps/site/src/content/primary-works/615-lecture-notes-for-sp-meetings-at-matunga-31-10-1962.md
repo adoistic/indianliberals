@@ -54,6 +54,12 @@ summary: |-
   The proposed corrective programme combines greater public candour with a more assertive foreign and defence policy. It calls for accepting military aid consistently with non-alignment, learning to distinguish friends from enemies, and improving relations with Nepal and Pakistan so troops stationed around Kashmir could be redirected against China. The notes advocate diplomatic and military measures against Communist China, including recognition of the Dalai Lama and arming the Khampas, as well as appointing a Defence Minister trusted by the armed forces. The accompanying press note, attributed and signed by M. R. Masani, develops the same argument: Indo-Pakistani cooperation is urgently needed because India’s eastern and northeastern defences are linked to Pakistan, and policy must be corrected to secure victory against the Chinese offensive.
 ---
 
+## Summary
+
+These four pages comprise undated-attribution lecture notes prepared for a Swatantra Party meeting at Matunga on 31 October 1962, followed by a related Swatantra Party press note marked “Not for publication.” The notes present the Sino-Indian conflict as the consequence of a decade of “neutralism and appeasement,” arguing that earlier warnings were ignored and that the government should tell the public the truth, including about casualties. They also distinguish national unity from automatic support for a government and note that the Congress government received only 45 per cent of the popular vote.
+
+The proposed corrective programme combines greater public candour with a more assertive foreign and defence policy. It calls for accepting military aid consistently with non-alignment, learning to distinguish friends from enemies, and improving relations with Nepal and Pakistan so troops stationed around Kashmir could be redirected against China. The notes advocate diplomatic and military measures against Communist China, including recognition of the Dalai Lama and arming the Khampas, as well as appointing a Defence Minister trusted by the armed forces. The accompanying press note, attributed and signed by M. R. Masani, develops the same argument: Indo-Pakistani cooperation is urgently needed because India’s eastern and northeastern defences are linked to Pakistan, and policy must be corrected to secure victory against the Chinese offensive.
+
 ## Key points
 
 - The notes blame ten years of neutralism and appeasement for India’s vulnerable position during the 1962 Chinese offensive.

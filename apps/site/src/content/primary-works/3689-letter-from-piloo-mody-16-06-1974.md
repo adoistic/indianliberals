@@ -59,6 +59,12 @@ summary: |-
   Mody presents a two-party system as a practical means of bringing together non-Congress, non-Marxist, and non-Communist parties without allowing old ideological and personal divisions to prevent cooperation. He distinguishes the proposal from a simple merger: all existing parties would be dissolved and a new party would develop its programme through consensus, while preserving regional flexibility, decentralisation, and individual opinion. The letter also reports internal disagreement within the Swatantra Party, outlines the proposed ratification process, names several parties that might join, and urges members to study the proposal rather than rely on hostile or misleading press reports. A postscript gives projected parliamentary and state-legislative strength under the proposed formation.
 ---
 
+## Summary
+
+In this letter dated June 16, 1974, Piloo Mody explains the Swatantra Party leadership's proposal to create a broad two-party national alternative in India. He argues that democratic institutions—including Parliament, the cabinet system, the judiciary, the press, public opinion, fundamental rights, and opposition parties—have been eroded and now exist largely in name. In his view, the absence of a credible national opposition has enabled authoritarian tendencies, blocked legitimate protest, weakened electoral competition, and brought Indian democracy close to dictatorship.
+
+Mody presents a two-party system as a practical means of bringing together non-Congress, non-Marxist, and non-Communist parties without allowing old ideological and personal divisions to prevent cooperation. He distinguishes the proposal from a simple merger: all existing parties would be dissolved and a new party would develop its programme through consensus, while preserving regional flexibility, decentralisation, and individual opinion. The letter also reports internal disagreement within the Swatantra Party, outlines the proposed ratification process, names several parties that might join, and urges members to study the proposal rather than rely on hostile or misleading press reports. A postscript gives projected parliamentary and state-legislative strength under the proposed formation.
+
 ## Key points
 
 - Mody proposes a two-party system as a response to the weakening of India's democratic institutions.

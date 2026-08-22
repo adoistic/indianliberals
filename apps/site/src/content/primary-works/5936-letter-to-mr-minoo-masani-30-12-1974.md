@@ -47,6 +47,12 @@ summary: |-
   The rendered document also preserves associated postal material: an inland letter card and an envelope addressed to Masani at the India International Centre in New Delhi, as well as another envelope addressed to him at the Ashoka Hotel. The pages contain no substantive discussion of political, economic, or philosophical questions beyond this logistical exchange.
 ---
 
+## Summary
+
+This four-page English-language correspondence from the Gandhian Institute of Studies, Varanasi, is a brief letter from Director Sugata Dasgupta to M. R. Masani, dated 20 December 1974. Dasgupta acknowledges Masani’s letter of 17 December and asks him to telephone upon arrival, noting that the relevant telephone numbers appear above the letterhead.
+
+The rendered document also preserves associated postal material: an inland letter card and an envelope addressed to Masani at the India International Centre in New Delhi, as well as another envelope addressed to him at the Ashoka Hotel. The pages contain no substantive discussion of political, economic, or philosophical questions beyond this logistical exchange.
+
 ## Key points
 
 - Sugata Dasgupta writes in his capacity as Director of the Gandhian Institute of Studies.

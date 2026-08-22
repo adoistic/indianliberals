@@ -52,6 +52,12 @@ summary: |-
   The agreement concerns thirty-three jeeps purchased with loans raised from the Central Bank of India Limited. The first party must transfer fifteen jeeps to the Swatantra Party or its nominees by 15 January 1962, with the vehicles in proper running order. In return, the second party must pay the Bank ₹150,000 in instalments. If the jeeps are not delivered by the deadline, the second party is released from the instalment obligation. Alternatively, after delivery, the first party may settle ₹170,000 plus interest and other charges with the Bank, after which the Bank is to assign ownership of the fifteen jeeps. A further clause addresses jeeps already handed to parliamentary candidates for election use, treating the receipt of title documents as delivery to the second party.
 ---
 
+## Summary
+
+This three-page draft memorandum of agreement, dated in 1962, records an arrangement between the Raja of Rangarh and the Swatantra Party, represented by its treasurer. It supersedes an earlier arrangement involving the Raja and M. R. Masani, identified as the party’s General Secretary, and substitutes the Swatantra Party’s treasurer, Sir Homi Modi, as its representative. The names of the contracting individuals and the date fields remain blank in the draft.
+
+The agreement concerns thirty-three jeeps purchased with loans raised from the Central Bank of India Limited. The first party must transfer fifteen jeeps to the Swatantra Party or its nominees by 15 January 1962, with the vehicles in proper running order. In return, the second party must pay the Bank ₹150,000 in instalments. If the jeeps are not delivered by the deadline, the second party is released from the instalment obligation. Alternatively, after delivery, the first party may settle ₹170,000 plus interest and other charges with the Bank, after which the Bank is to assign ownership of the fifteen jeeps. A further clause addresses jeeps already handed to parliamentary candidates for election use, treating the receipt of title documents as delivery to the second party.
+
 ## Key points
 
 - The document is marked “DRAFT” and is a three-page memorandum of agreement made in 1962.

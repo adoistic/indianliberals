@@ -56,3 +56,9 @@ summary: |-
   
   The newsletter also records organisational shortcomings, including inadequate mobilisation, poor meeting discipline, and failures to distribute party literature and enrolment forms. Reports from Assam, Bihar, Bombay, Kerala, and Mysore present the party as expanding its organisation and providing practical relief, while also opposing compulsory procurement, restrictive land legislation, and delays in public-sector wage and service reforms. The final page is marked “For Private Circulation.”
 ---
+
+## Summary
+
+Swatantra Newsletter No. 53, issued by the Central Office of the Swatantra Party in July/August 1965, reports on the party's electoral activity, organisation, economic programme, and state-unit work. The issue's central political message is that the Swatantra Party's victory in the Keonjhar by-election represented resistance to Congress campaigning, inducements, administrative pressure, and centralised political power. Its economic commentary, led by M. R. Masani, attacks planning, dependence on foreign aid, subsidised trade, and excessive state control, while advocating decontrol and a change of government.
+
+The newsletter also records organisational shortcomings, including inadequate mobilisation, poor meeting discipline, and failures to distribute party literature and enrolment forms. Reports from Assam, Bihar, Bombay, Kerala, and Mysore present the party as expanding its organisation and providing practical relief, while also opposing compulsory procurement, restrictive land legislation, and delays in public-sector wage and service reforms. The final page is marked “For Private Circulation.”

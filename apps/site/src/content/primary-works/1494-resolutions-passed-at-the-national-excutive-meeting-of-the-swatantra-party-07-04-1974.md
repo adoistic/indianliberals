@@ -63,6 +63,12 @@ summary: |-
   The economic recovery resolution calls for a “drastic surgical operation” on the economy: more efficient public-sector enterprises or their disposal, lower direct and indirect taxes, delicensing, elimination of institutionalised corruption, a floating rupee, rural infrastructure investment, and a science- and technology-oriented educational overhaul. The remaining resolutions support the youth movements in Gujarat and Bihar, endorse Jayaprakash Narayan’s anti-corruption leadership, condemn the destruction of the Searchlight newspaper’s office and the deportation of Raj Narain and Biju Patnaik, and urge the government to avert an impending railway strike by addressing employees’ legitimate demands.
 ---
 
+## Summary
+
+Issued after the Swatantra Party’s National Executive Meeting in New Delhi on 6–7 April 1974, this four-page paper presents five resolutions. The opening resolution describes India as facing rising prices, unemployment, corruption, shortages, social and political injustice, and a breakdown of confidence in democratic institutions. It blames the Congress government for seeking scapegoats rather than accepting responsibility, criticises electoral malpractice and restrictions on legitimate protest, and argues that the Swatantra Party must prepare itself as a national alternative. The proposed programme includes building local party cadres, mobilising young people, educating government officials toward pragmatic administration, pursuing cooperation among opposition parties, securing free and fair elections, and using non-violent movements if constitutional and democratic processes continue to deteriorate.
+
+The economic recovery resolution calls for a “drastic surgical operation” on the economy: more efficient public-sector enterprises or their disposal, lower direct and indirect taxes, delicensing, elimination of institutionalised corruption, a floating rupee, rural infrastructure investment, and a science- and technology-oriented educational overhaul. The remaining resolutions support the youth movements in Gujarat and Bihar, endorse Jayaprakash Narayan’s anti-corruption leadership, condemn the destruction of the Searchlight newspaper’s office and the deportation of Raj Narain and Biju Patnaik, and urge the government to avert an impending railway strike by addressing employees’ legitimate demands.
+
 ## Key points
 
 - The paper presents the Swatantra Party’s assessment of a national crisis involving economic hardship, corruption, unemployment, shortages, and weakened democratic institutions.

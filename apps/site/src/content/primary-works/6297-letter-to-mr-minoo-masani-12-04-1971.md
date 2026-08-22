@@ -54,6 +54,12 @@ summary: |-
   Hande argues that the opposition has been weakened by Indira Gandhi’s political dominance and by the decline of the other opposition parties, but maintains that Swatantra remains the only significant alternative. He recommends that the party adopt a labour-oriented programme, including advocacy for labour, opposition to privy purses and bank nationalisation, and defence of fundamental rights. He also calls for a change in the party’s public image, especially by removing the perception that it represents wealthy interests, so that Swatantra candidates can compete more effectively in the 1972 Assembly elections. The letter closes with logistical details about Hande’s attendance at upcoming National Executive and General Council meetings.
 ---
 
+## Summary
+
+In this letter dated 12 April 1971, Dr. H. V. Hande writes to Minoo Masani after the Swatantra Party’s electoral setbacks. Hande reports that he and five other party members have been returned to the State Assembly, and says they are working to build a more effective, scientifically organised party unit. He expresses shock at Masani’s resignation and urges him to withdraw it, arguing that Masani could now devote himself more fully to organisational work rather than parliamentary duties.
+
+Hande argues that the opposition has been weakened by Indira Gandhi’s political dominance and by the decline of the other opposition parties, but maintains that Swatantra remains the only significant alternative. He recommends that the party adopt a labour-oriented programme, including advocacy for labour, opposition to privy purses and bank nationalisation, and defence of fundamental rights. He also calls for a change in the party’s public image, especially by removing the perception that it represents wealthy interests, so that Swatantra candidates can compete more effectively in the 1972 Assembly elections. The letter closes with logistical details about Hande’s attendance at upcoming National Executive and General Council meetings.
+
 ## Key points
 
 - Hande reports his return to the State Assembly alongside five other Swatantra Party members.

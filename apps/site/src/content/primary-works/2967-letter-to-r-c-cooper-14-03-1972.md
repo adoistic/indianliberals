@@ -56,6 +56,12 @@ summary: |-
   The practical recommendations focus on rebuilding the party's public presence before the next elections. Tavaria calls for younger, socially connected party workers; regional-language speakers who can explain local grievances; village-level organisers; films and vernacular newspapers; publicity around official corruption; consumer campaigns against exploitative businesses; and research into MPs' financial backgrounds. He concludes by urging the party to prepare quietly over the next 18 to 20 months, raise funds, and act across the country rather than rely on the advice of its existing elders.
 ---
 
+## Summary
+
+In this three-page letter dated 14 March 1972, N.J. Tavaria writes to Dr. R.C. Cooper at Swatantra Party headquarters, offering unsolicited advice on the party's political and economic strategy. Tavaria predicts that India will fare “much worse economically” over the next five years if current economic policies continue, argues that Indira Gandhi's socialism cannot simply be reversed, and urges the Swatantra Party to prepare for continued state expansion and economic stagnation. He presents himself as a defender of rights and freedom who opposes state arbitrariness, while criticising the party for failing to make fundamental rights a politically live issue or to communicate its economic arguments beyond educated circles.
+
+The practical recommendations focus on rebuilding the party's public presence before the next elections. Tavaria calls for younger, socially connected party workers; regional-language speakers who can explain local grievances; village-level organisers; films and vernacular newspapers; publicity around official corruption; consumer campaigns against exploitative businesses; and research into MPs' financial backgrounds. He concludes by urging the party to prepare quietly over the next 18 to 20 months, raise funds, and act across the country rather than rely on the advice of its existing elders.
+
 ## Key points
 
 - Tavaria forecasts worsening economic conditions if the government's existing economic thinking continues.

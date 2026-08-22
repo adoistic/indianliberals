@@ -50,6 +50,10 @@ summary: |-
   This one-page handwritten letter from M. R. Pai to Minoo Masani, dated April 1971, is a congratulatory tribute marking Masani's fifty years of public service. Pai praises Masani as an unusually far-sighted figure whose political commitments have remained independent of personal advancement.
 ---
 
+## Summary
+
+This one-page handwritten letter from M. R. Pai to Minoo Masani, dated April 1971, is a congratulatory tribute marking Masani's fifty years of public service. Pai praises Masani as an unusually far-sighted figure whose political commitments have remained independent of personal advancement.
+
 ## Key points
 
 - M. R. Pai addresses Minoo Masani in a personal congratulatory letter.

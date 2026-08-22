@@ -50,6 +50,10 @@ summary: |-
   These draft minutes record the first meeting of the Indian Group of the Liberal International, held on December 10, 1965, at the India International Centre and documented on December 30. The meeting reviewed arrangements for a public function associated with the group's inauguration and elected its initial officers and Executive Committee. Sir C. P. Ramaswamy Aiyar was unanimously elected President, Madame Sophia Wadia Vice-President, and Mrs. Sosan Panday Honorary Treasurer; several other attendees were elected to the Executive Committee.
 ---
 
+## Summary
+
+These draft minutes record the first meeting of the Indian Group of the Liberal International, held on December 10, 1965, at the India International Centre and documented on December 30. The meeting reviewed arrangements for a public function associated with the group's inauguration and elected its initial officers and Executive Committee. Sir C. P. Ramaswamy Aiyar was unanimously elected President, Madame Sophia Wadia Vice-President, and Mrs. Sosan Panday Honorary Treasurer; several other attendees were elected to the Executive Committee.
+
 ## Key points
 
 - The meeting concerned the inauguration and initial organisation of the Indian Group of the Liberal International.

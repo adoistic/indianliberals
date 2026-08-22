@@ -51,6 +51,10 @@ summary: |-
   This two-page resolution records the Maharashtra State Council of the Swatantra Party's opposition to dissolving the party as part of a proposed merger of seven parties into a new political organisation. Meeting in Bombay on 6 July 1974, the Council emphasizes that the Swatantra Party is the only national party among the seven and argues that its principles and policies remain valid. It contends that the proposed new party would offer no genuine national alternative because its members agree only on a vague general programme and may disagree on how to interpret it.
 ---
 
+## Summary
+
+This two-page resolution records the Maharashtra State Council of the Swatantra Party's opposition to dissolving the party as part of a proposed merger of seven parties into a new political organisation. Meeting in Bombay on 6 July 1974, the Council emphasizes that the Swatantra Party is the only national party among the seven and argues that its principles and policies remain valid. It contends that the proposed new party would offer no genuine national alternative because its members agree only on a vague general programme and may disagree on how to interpret it.
+
 ## Key points
 
 - The Maharashtra State Council rejects the proposal to dissolve the Swatantra Party.

@@ -54,6 +54,12 @@ summary: |-
   On Telangana, the committee maintained that the party was generally opposed to separatist tendencies but judged that the regional circumstances might require a different position; the party leader was to speak in his personal capacity. Members were free to support Kaneshwar Singh's voting-age bill, while opponents could abstain rather than vote against it. The committee resolved to oppose statutory student unions on the ground that they could introduce political interference into education.
 ---
 
+## Summary
+
+These one-page minutes record a meeting of the Swatantra Party's Executive Committee held at Parliament House on 1 April 1969, with ten members present. The committee discussed three legislative matters: the Telangana motion, a bill by Kaneshwar Singh to reduce the voting age from 21 to 18, and Madhu Limaye's proposal to create statutory student unions. The document is signed by D. N. Patodia as Secretary and issued from the Swatantra Party Parliamentary Office in New Delhi.
+
+On Telangana, the committee maintained that the party was generally opposed to separatist tendencies but judged that the regional circumstances might require a different position; the party leader was to speak in his personal capacity. Members were free to support Kaneshwar Singh's voting-age bill, while opponents could abstain rather than vote against it. The committee resolved to oppose statutory student unions on the ground that they could introduce political interference into education.
+
 ## Key points
 
 - The Executive Committee met at Parliament House on 1 April 1969.

@@ -43,6 +43,10 @@ summary: |-
   This single-page English office receipt was issued by the Maharashtra Region of the Swatantra Party from its Bombay office at Sassoon Building, 143 Mahatma Gandhi Road. Receipt No. 106 acknowledges receipt of Rs. 25 from Mr. M. R. Masani, with the payment designated as a donation for March 1975.
 ---
 
+## Summary
+
+This single-page English office receipt was issued by the Maharashtra Region of the Swatantra Party from its Bombay office at Sassoon Building, 143 Mahatma Gandhi Road. Receipt No. 106 acknowledges receipt of Rs. 25 from Mr. M. R. Masani, with the payment designated as a donation for March 1975.
+
 ## Key points
 
 - The document is a pre-printed Swatantra Party, Maharashtra Region receipt.

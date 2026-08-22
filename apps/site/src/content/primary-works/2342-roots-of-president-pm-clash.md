@@ -55,6 +55,12 @@ summary: |-
   In the rendered pages, Masani focuses particularly on the President's powers under Articles 74, 75 and 78, including the relationship between presidential discretion and ministerial advice, the appointment and dismissal of governments, and the dissolution of Parliament. He contends that dissolution could be constitutionally justified when a ministry has lost the confidence of the electorate or when exceptional circumstances make parliamentary judgment necessary. To support this position, he draws on British constitutional authorities and on Dr. Rajendra Prasad's interpretation of the Constituent Assembly's intention. The visible article ends mid-continuation, so the argument's conclusion is not available in the rendered set.
 ---
 
+## Summary
+
+In the rendered pages, Minoo Masani examines the constitutional roots of conflict between the President and Prime Minister in India. Writing as a member of the Constituent Assembly, he explains that the framers deliberately departed from the British precedent and created a written constitution in which the President would occupy an intermediate position: more than a ceremonial head of state, but less than the executive head of government found in the United States. The article argues that this design requires a system of checks and balances among the President, the Union Prime Minister and Parliament, while preserving the federal role of the states and the supervisory authority of the Supreme Court.
+
+In the rendered pages, Masani focuses particularly on the President's powers under Articles 74, 75 and 78, including the relationship between presidential discretion and ministerial advice, the appointment and dismissal of governments, and the dissolution of Parliament. He contends that dissolution could be constitutionally justified when a ministry has lost the confidence of the electorate or when exceptional circumstances make parliamentary judgment necessary. To support this position, he draws on British constitutional authorities and on Dr. Rajendra Prasad's interpretation of the Constituent Assembly's intention. The visible article ends mid-continuation, so the argument's conclusion is not available in the rendered set.
+
 ## Key points
 
 - Masani presents the President–Prime Minister dispute as a continuing constitutional conflict rather than an isolated political incident.

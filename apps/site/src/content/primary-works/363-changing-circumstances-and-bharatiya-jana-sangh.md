@@ -55,6 +55,12 @@ summary: |-
   In the rendered pages, Madhok urges Jana Sangh workers to treat the political crisis as an opportunity for broader cooperation among nationalist and democratic parties, including the Swatantra Party and the Nijalingappa Congress. He defends competition, private production, and a limited state role in finance, opposing nationalisation and what he calls a monopolistic state economy. He also insists that Jana Sangh should preserve its distinctive nationalist and Hindu cultural identity while practising democracy internally through tolerance and freedom of thought. The surviving final rendered page begins a further discussion of Indian Muslims and cultural nationalism; pages 21–22 were not rendered.
 ---
 
+## Summary
+
+In the rendered pages, Balraj Madhok presents Bharatiya Jana Sangh as a nationalist party confronting a rapidly changing political environment after the 1967 elections and the split in the Indian National Congress. He argues that the Congress division reflects both personal rivalries and deeper ideological differences, contrasting Jawaharlal Nehru's internationalism and socialist economic orientation with Vallabhbhai Patel's nationalism and preference for more restrained financial policies. The pamphlet also criticises Indira Gandhi's leadership, her dependence on the Congress Syndicate, and what Madhok describes as an increasing alignment with Soviet, communist, and communal forces.
+
+In the rendered pages, Madhok urges Jana Sangh workers to treat the political crisis as an opportunity for broader cooperation among nationalist and democratic parties, including the Swatantra Party and the Nijalingappa Congress. He defends competition, private production, and a limited state role in finance, opposing nationalisation and what he calls a monopolistic state economy. He also insists that Jana Sangh should preserve its distinctive nationalist and Hindu cultural identity while practising democracy internally through tolerance and freedom of thought. The surviving final rendered page begins a further discussion of Indian Muslims and cultural nationalism; pages 21–22 were not rendered.
+
 ## Key points
 
 - The pamphlet frames post-1967 Indian politics as a decisive crossroads for the country and for Bharatiya Jana Sangh.

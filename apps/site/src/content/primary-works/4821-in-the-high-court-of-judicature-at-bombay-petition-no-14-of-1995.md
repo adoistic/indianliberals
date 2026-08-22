@@ -55,6 +55,12 @@ summary: |-
   The affidavit emphasizes the electoral urgency of the challenge. It records that the court admitted the petition on 12 January 1995, expedited its hearing, and that the petitioners sought provisional registration before the Maharashtra Legislative Assembly elections. It further states that the party intended to contest the expected December 1995 Lok Sabha elections and therefore needed to participate as a registered political party. The final pages assert that the respondents had been served with the rule nisi and that the petition was ready for final hearing. The rendered filing contains no judgment or ruling on the constitutional challenge.
 ---
 
+## Summary
+
+This four-page English court filing is an affidavit supporting Swatantra Party (Maharashtra)'s Notice of Motion in Writ Petition No. 14 of 1995 before the High Court of Judicature at Bombay. L. R. Sampat, identified as the petitioner's General Secretary, challenges the constitutionality of subsection 5 of Section 29(A) of the Representation of the People Act, 1951, insofar as it requires a political party seeking registration to affirm allegiance to the principle of socialism. The petition asks the court to direct the Election Commission of India to register the party under the Act.
+
+The affidavit emphasizes the electoral urgency of the challenge. It records that the court admitted the petition on 12 January 1995, expedited its hearing, and that the petitioners sought provisional registration before the Maharashtra Legislative Assembly elections. It further states that the party intended to contest the expected December 1995 Lok Sabha elections and therefore needed to participate as a registered political party. The final pages assert that the respondents had been served with the rule nisi and that the petition was ready for final hearing. The rendered filing contains no judgment or ruling on the constitutional challenge.
+
 ## Key points
 
 - The filing concerns Notice of Motion No. 1995 in Writ Petition No. 14 of 1995 before the Bombay High Court.

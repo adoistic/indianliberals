@@ -51,6 +51,10 @@ summary: |-
   This two-page office record documents a General Body meeting of the Swatantra Party's parliamentary group held in Parliament House, New Delhi, on 19 February 1970. It lists 24 members present, with Professor N. G. Ranga in the chair, and records M. R. Masani's report on recent decisions of the National Executive and Central Parliamentary Board. The meeting discussed circulating the party's policy statement, creating a weekly bulletin titled "Swatantra in Parliament" under Piloo Mody's editorship, and improving parliamentary attendance, discipline, and coordination through the Party Whip.
 ---
 
+## Summary
+
+This two-page office record documents a General Body meeting of the Swatantra Party's parliamentary group held in Parliament House, New Delhi, on 19 February 1970. It lists 24 members present, with Professor N. G. Ranga in the chair, and records M. R. Masani's report on recent decisions of the National Executive and Central Parliamentary Board. The meeting discussed circulating the party's policy statement, creating a weekly bulletin titled "Swatantra in Parliament" under Piloo Mody's editorship, and improving parliamentary attendance, discipline, and coordination through the Party Whip.
+
 ## Key points
 
 - The meeting was held in Room No. 50, first floor, Parliament House, New Delhi, on 19 February 1970.

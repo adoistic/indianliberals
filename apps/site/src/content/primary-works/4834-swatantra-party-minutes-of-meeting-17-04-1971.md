@@ -58,6 +58,10 @@ summary: |-
   These draft minutes record the Swatantra Party General Council’s third meeting, held in Bombay on April 17–18, 1971. The record opens with attendance by state and a tribute to K. M. Munshi, described as a formative party leader, Vice-President, constitutional framer, and major literary figure. The minutes then confirm the previous meeting’s record and summarize Minoo Masani’s presidential address, which attributes the party’s poor electoral performance to organizational delay, failure to implement the November 1969 mid-term report, weakened credibility, and inadequate discipline. Masani calls for a reappraisal of tactics, an educational campaign, stronger parliamentary opposition, and renewed commitment to the party’s fundamental objectives.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party General Council’s third meeting, held in Bombay on April 17–18, 1971. The record opens with attendance by state and a tribute to K. M. Munshi, described as a formative party leader, Vice-President, constitutional framer, and major literary figure. The minutes then confirm the previous meeting’s record and summarize Minoo Masani’s presidential address, which attributes the party’s poor electoral performance to organizational delay, failure to implement the November 1969 mid-term report, weakened credibility, and inadequate discipline. Masani calls for a reappraisal of tactics, an educational campaign, stronger parliamentary opposition, and renewed commitment to the party’s fundamental objectives.
+
 ## Key points
 
 - The General Council met in Bombay over April 17 and 18, 1971, with representatives listed from numerous Indian states and special invitees.

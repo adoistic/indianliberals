@@ -52,6 +52,12 @@ summary: |-
   The minutes assign party speakers to several parliamentary measures: the Bank Nationalisation Bill, Gold Control Bill, Taxation Laws Amendment Bill, Criminal and Election Laws Amendment Bill, and Press Council Bill. The committee also discussed the Deputy Speaker's conduct, proposing that the matter be raised at a future general-body meeting. A further discussion concerned opposition-party coordination over the conduct of leftist members in the House, including their alleged obstruction of other members' speeches and the response expected from Jan Sangh, BLD, and other members.
 ---
 
+## Summary
+
+This one-page English office record from the Swatantra Party Parliamentary Office documents an Executive Committee meeting held on July 25, 1969, at Parliament House in New Delhi. It lists thirteen members present, including N. G. Ranga, Minoo Masani, Piloo Mody, N. Dandekar, R. K. Amin, and I. N. Patodia, who signed the record as Secretary.
+
+The minutes assign party speakers to several parliamentary measures: the Bank Nationalisation Bill, Gold Control Bill, Taxation Laws Amendment Bill, Criminal and Election Laws Amendment Bill, and Press Council Bill. The committee also discussed the Deputy Speaker's conduct, proposing that the matter be raised at a future general-body meeting. A further discussion concerned opposition-party coordination over the conduct of leftist members in the House, including their alleged obstruction of other members' speeches and the response expected from Jan Sangh, BLD, and other members.
+
 ## Key points
 
 - The Executive Committee met on July 25, 1969, in the Swatantra Party Room at Central Hall, Parliament House.

@@ -53,6 +53,12 @@ summary: |-
   The notes present inflation as a source of economic instability that discourages saving, investment, and production while encouraging spending, gold smuggling, hoarding, middlemen, speculation, and licensing-related dealing. Fixed-income groups, including workers, middle classes, and Central Government employees, are said to suffer from lagging wages. The argument becomes explicitly political in the final sections: inflation is described as a form of theft, while price controls and expanding bureaucracy are criticized as treatments of symptoms rather than causes. The proposed alternative is to reject deficit finance, reduce excise duties, scrap the Third Plan, and encourage private investment and production in the name of sound money and personal freedom.
 ---
 
+## Summary
+
+These six pages comprise typed lecture notes for a speech delivered at Madras on 18 September 1960. The notes define inflation as “too much money chasing” goods and emphasize money's role as a medium of exchange linking yesterday and tomorrow. They argue that monetary expansion should be matched by expansion in production, and identify several causes of inflation: budget-deficit financing through printing or counterfeiting, bank credit, investment in non-existent resources, low-return projects, unproductive expenditure, and excise duties. Examples from the Second and Third Plans contrast steel investment with engineering and other projects said to offer greater production and employment potential.
+
+The notes present inflation as a source of economic instability that discourages saving, investment, and production while encouraging spending, gold smuggling, hoarding, middlemen, speculation, and licensing-related dealing. Fixed-income groups, including workers, middle classes, and Central Government employees, are said to suffer from lagging wages. The argument becomes explicitly political in the final sections: inflation is described as a form of theft, while price controls and expanding bureaucracy are criticized as treatments of symptoms rather than causes. The proposed alternative is to reject deficit finance, reduce excise duties, scrap the Third Plan, and encourage private investment and production in the name of sound money and personal freedom.
+
 ## Key points
 
 - Inflation is framed as excessive money pursuing too few goods, with monetary stability tied to productive expansion.

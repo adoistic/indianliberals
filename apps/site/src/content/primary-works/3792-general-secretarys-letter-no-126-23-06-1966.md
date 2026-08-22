@@ -51,6 +51,12 @@ summary: |-
   The letter sets a timetable for the manifesto process: the Party's manifesto was to circulate well before the next National Convention, scheduled for the first half of November, so that the National Executive and Party members could discuss and consider it. Masani asks the recipient to ensure that suggestions and the State Manifesto reach the Central Office by 31 August 1966, or earlier if possible.
 ---
 
+## Summary
+
+Dated 23 June 1966, this Swatantra Party Central Office letter from General Secretary M. R. Masani reports decisions taken by the National Executive at its 29 May meeting in Bombay concerning preparation of the Party's next election manifesto. It announces a Drafting Committee comprising the Party President, Prof. N. G. Ranga, Joint Secretary Mr. N. Dandekar, and Masani himself, and asks State Units to submit suggestions for the central manifesto as well as draft manifestos for their own states.
+
+The letter sets a timetable for the manifesto process: the Party's manifesto was to circulate well before the next National Convention, scheduled for the first half of November, so that the National Executive and Party members could discuss and consider it. Masani asks the recipient to ensure that suggestions and the State Manifesto reach the Central Office by 31 August 1966, or earlier if possible.
+
 ## Key points
 
 - The National Executive discussed preparing a draft election manifesto at its 29 May 1966 meeting in Bombay.

@@ -47,6 +47,10 @@ summary: |-
   In this letter dated 14 August 1964, C. Rajagopalachari writes to Minoo Masani about Bhanu Pratap Singh’s letter of 11 August. Rajagopalachari advises Swatantra Party members to limit their activities to meetings and independent demonstrations, and argues that the party should not offer Satyagraha.
 ---
 
+## Summary
+
+In this letter dated 14 August 1964, C. Rajagopalachari writes to Minoo Masani about Bhanu Pratap Singh’s letter of 11 August. Rajagopalachari advises Swatantra Party members to limit their activities to meetings and independent demonstrations, and argues that the party should not offer Satyagraha.
+
 ## Key points
 
 - The letter is dated 14 August 1964 and is addressed to Minoo Masani.

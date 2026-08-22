@@ -51,6 +51,12 @@ summary: |-
   Jain acknowledges Masani's brochure, “Lawless Legislation,” and says copies have been distributed to state units, Members of Parliament, bar councils, and the Joint Select Committee. He agrees to use the label “A Swatantra Party Group Publication” to distinguish material issued by the Central Office and Parliamentary Office. The letter also refers to an introductory survey of land-reform policy and amendments affecting peasants, and notes that Masani's statement concerning China's protest over his visit to Formosa has received substantial publicity in the local press.
 ---
 
+## Summary
+
+This untitled letter, dated November 6, 1963, is signed by A.R. Jain of the Swatantra Party Parliamentary Office and addressed to M.R. Masani. Jain reports the party's campaign against the 17th Amendment, which had been referred to a Joint Select Committee after the party's proposed amendment seeking public opinion was rejected. He explains that the committee initially set October 5 as the deadline for memoranda, but extended it to November 15 after representations from the Swatantra Party, also allowing oral evidence.
+
+Jain acknowledges Masani's brochure, “Lawless Legislation,” and says copies have been distributed to state units, Members of Parliament, bar councils, and the Joint Select Committee. He agrees to use the label “A Swatantra Party Group Publication” to distinguish material issued by the Central Office and Parliamentary Office. The letter also refers to an introductory survey of land-reform policy and amendments affecting peasants, and notes that Masani's statement concerning China's protest over his visit to Formosa has received substantial publicity in the local press.
+
 ## Key points
 
 - The Swatantra Party opposed the principle of the 17th Amendment and campaigned for public consideration of its proposed amendment.

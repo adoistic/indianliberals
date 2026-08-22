@@ -53,6 +53,12 @@ summary: |-
   The minutes document the Party's efforts to negotiate electoral understandings with the SSP, Republican Party, democratic opposition parties, and dissident Congress groups. They also cover internal disciplinary and organisational matters: resignations by Sikh parliamentary members, the proposed reassignment of Narendra Singh Mahida, conditions for readmitting former Bihar members, the suspension of K. Narasimha Reddy for three years after he contested against the Party's decision, and several by-election and legislative-group issues. On the Official Languages Bill, the Board decided that individual parliamentary members should determine their own attitudes rather than be bound by a party whip. The final recorded discussion sought to manage the proposed separate sitting of three Sikh MPs while preserving cooperation with the Swatantra Group in Parliament.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Central Parliamentary Board's meetings in Madras on June 4–5, 1965. The Board reviewed the Party's unsatisfactory performance in Rajasthan's Panchayat elections, assessed prospective candidates and constituency reporting, approved a proposed change from “District Committees” to “Parliamentary Constituency Committees,” and pressed State Units to submit constituency priority lists promptly. It also nominated candidates in Andhra and Rajasthan while deciding that the Srikakulam and Panchmahals constituencies should be maintained without immediate candidate nominations.
+
+The minutes document the Party's efforts to negotiate electoral understandings with the SSP, Republican Party, democratic opposition parties, and dissident Congress groups. They also cover internal disciplinary and organisational matters: resignations by Sikh parliamentary members, the proposed reassignment of Narendra Singh Mahida, conditions for readmitting former Bihar members, the suspension of K. Narasimha Reddy for three years after he contested against the Party's decision, and several by-election and legislative-group issues. On the Official Languages Bill, the Board decided that individual parliamentary members should determine their own attitudes rather than be bound by a party whip. The final recorded discussion sought to manage the proposed separate sitting of three Sikh MPs while preserving cooperation with the Swatantra Group in Parliament.
+
 ## Key points
 
 - The Board reviewed the Party's performance in Rajasthan Panchayat elections and sought better reporting from prospective candidates.

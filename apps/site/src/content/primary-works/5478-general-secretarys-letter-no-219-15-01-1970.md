@@ -51,6 +51,12 @@ summary: |-
   The later reply from the Bombay Region, dated 13 March 1970 and signed by P. S. Koppiker, confirms receipt of General Secretary's Letter No. 219. It states that every primary unit has been specifically instructed to renew old subscriptions on time and expresses confidence that a complete list of renewals will reach National Headquarters before 15 April 1970. The pages therefore show routine party organisation, membership accounting, and coordination between national and regional offices rather than a discussion of policy or political doctrine.
 ---
 
+## Summary
+
+This four-page Swatantra Party correspondence documents the administration of annual membership-subscription renewals in 1970. In a letter dated 15 January 1970, General Secretary R. C. Cooper informs a party unit that, under the amended constitution, subscriptions are based on the calendar year and must be renewed by the prescribed annual deadline. The unit's enrolment as of 31 August 1969 is recorded as 1,300 members: 871 workers, 141 life workers, and 288 life members. Cooper instructs the recipient to arrange renewals and submit the relevant lists and the Centre's quota to National Headquarters by 15 April, warning that no extension will be granted.
+
+The later reply from the Bombay Region, dated 13 March 1970 and signed by P. S. Koppiker, confirms receipt of General Secretary's Letter No. 219. It states that every primary unit has been specifically instructed to renew old subscriptions on time and expresses confidence that a complete list of renewals will reach National Headquarters before 15 April 1970. The pages therefore show routine party organisation, membership accounting, and coordination between national and regional offices rather than a discussion of policy or political doctrine.
+
 ## Key points
 
 - The correspondence concerns renewal of Swatantra Party subscriptions for the 1970 calendar year.

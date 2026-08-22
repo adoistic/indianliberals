@@ -59,6 +59,12 @@ summary: |-
   The record reports that the committee rejected a proposed constitutional amendment relating to an Emergency, although J.M. Lobo Prabhu argued that the amendment would limit suspension of the Constitution to areas actually in danger while C.C. Desai disagreed. The principal public statement concerned a New York Times report alleging CIA funding of the Swatantra Party, Jan Sangh, PSP, and some Congress candidates: the committee called the report false and libellous, denied receiving foreign funds, urged the government either to contradict the report or bring specific charges, and welcomed an investigation. The minutes conclude with instructions on parliamentary attendance, recruitment of research assistants, and plans for a joint public meeting on West Asia and China with other opposition parties.
 ---
 
+## Summary
+
+These two pages record the Swatantra Party Parliamentary Office minutes of an Executive Committee meeting held in New Delhi on June 14, 1967, with M.R. Masani in the chair. The committee discussed parliamentary coordination, including debates on grants in the Lok Sabha, the reported arrest of Indian diplomats, the Anti-Corruption Bill, and the Passport Bill. It also nominated party representatives for a proposed delegation to Naxalbari and assigned speakers to resolutions concerning steel decontrol, foodgrain procurement, and bank nationalisation.
+
+The record reports that the committee rejected a proposed constitutional amendment relating to an Emergency, although J.M. Lobo Prabhu argued that the amendment would limit suspension of the Constitution to areas actually in danger while C.C. Desai disagreed. The principal public statement concerned a New York Times report alleging CIA funding of the Swatantra Party, Jan Sangh, PSP, and some Congress candidates: the committee called the report false and libellous, denied receiving foreign funds, urged the government either to contradict the report or bring specific charges, and welcomed an investigation. The minutes conclude with instructions on parliamentary attendance, recruitment of research assistants, and plans for a joint public meeting on West Asia and China with other opposition parties.
+
 ## Key points
 
 - The Executive Committee meeting was held on June 14, 1967, at the Party Committee Room in Central Hall, Parliament House, New Delhi.

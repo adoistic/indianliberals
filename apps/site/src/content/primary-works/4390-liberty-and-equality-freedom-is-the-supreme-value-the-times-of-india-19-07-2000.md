@@ -53,6 +53,10 @@ summary: |-
   In the Times of India article “Liberty and Equality,” Sauvik Chakraverti argues that liberals should give priority to freedom rather than equality. He presents the market economy as a natural social system in which people discover specialised niches through trade, while accepting that unequal outcomes are inevitable. By contrast, he associates socialism with state power, political influence, corruption, and the destruction of the moral discipline encouraged by voluntary exchange. The article uses Jawaharlal Nehru’s image of a society of uniformly trimmed hedges to criticise socialist attempts to impose equality through central direction, and invokes Karl Marx’s vision of human creativity to suggest that freedom allows individuals to flourish in diverse ways.
 ---
 
+## Summary
+
+In the Times of India article “Liberty and Equality,” Sauvik Chakraverti argues that liberals should give priority to freedom rather than equality. He presents the market economy as a natural social system in which people discover specialised niches through trade, while accepting that unequal outcomes are inevitable. By contrast, he associates socialism with state power, political influence, corruption, and the destruction of the moral discipline encouraged by voluntary exchange. The article uses Jawaharlal Nehru’s image of a society of uniformly trimmed hedges to criticise socialist attempts to impose equality through central direction, and invokes Karl Marx’s vision of human creativity to suggest that freedom allows individuals to flourish in diverse ways.
+
 ## Key points
 
 - The article makes freedom, rather than equality, the supreme political value.

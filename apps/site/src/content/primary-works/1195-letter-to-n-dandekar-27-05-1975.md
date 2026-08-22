@@ -47,6 +47,12 @@ summary: |-
   Masani then reports that he had independently met Morarji at the same time Dandekar was writing his note. He had urged Morarji to hold on to his fast, saying he was confident he would win, and adds that he had the satisfaction three days later of going in person to congratulate Morarji on the successful end of his ordeal. The letter is signed 'M.R. Masani' with the reference mark 'mrm/cal' at the foot.
 ---
 
+## Summary
+
+A short typed letter from Minoo Masani to N. Dandekar, dated 27 May 1975 and addressed to Dandekar at Express Building, Churchgate, Bombay. Masani acknowledges having received a copy of a note that Dandekar sent to Morarjibhai (Morarji Desai) on 10 April, and records his 'happy accord' with what Dandekar had written.
+
+Masani then reports that he had independently met Morarji at the same time Dandekar was writing his note. He had urged Morarji to hold on to his fast, saying he was confident he would win, and adds that he had the satisfaction three days later of going in person to congratulate Morarji on the successful end of his ordeal. The letter is signed 'M.R. Masani' with the reference mark 'mrm/cal' at the foot.
+
 ## Key points
 
 - One-page typed letter from Minoo Masani to N. Dandekar, dated 27 May 1975.

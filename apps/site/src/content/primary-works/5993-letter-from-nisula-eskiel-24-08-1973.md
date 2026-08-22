@@ -47,6 +47,12 @@ summary: |-
   The document records a brief act of institutional and intellectual support rather than developing an argument. It includes an enclosure notation, indicating that the signatures themselves were attached but are not present on the rendered page.
 ---
 
+## Summary
+
+This one-page letter, dated August 24, 1973, is from M. R. Masani to Nisula Eskiel, Honorary Secretary of The P.E.N. Masani forwards signatures from writers and intellectuals supporting an appeal by the International P.E.N. President concerning “Amirik,” though the precise reference is unclear in the scan.
+
+The document records a brief act of institutional and intellectual support rather than developing an argument. It includes an enclosure notation, indicating that the signatures themselves were attached but are not present on the rendered page.
+
 ## Key points
 
 - The letter is dated August 24, 1973.

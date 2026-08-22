@@ -50,6 +50,12 @@ summary: |-
   Under the subheading "COMMITTEE'S FAILURE," Masani is reported to have described the committee's published decision as an "eyewash." He accused the committee of overlooking failures by the president and general secretary of the Gujarat State unit and the alleged canvassing by a national executive member against the party candidate. He characterized the disciplinary process as punishing junior figures while ignoring more senior figures, and said he could contribute more by remaining outside the national executive and offering advice for constructive work.
 ---
 
+## Summary
+
+This one-page English newspaper clipping reports comments by M. R. Masani, then a former general secretary of the Swatantra Party, on the party's decision not to take serious disciplinary action against its Gujarat leaders. Masani said the leaders had been called before the national executive to explain their conduct during the Rajya Sabha elections from Gujarat; the article identifies N. Dandekar as the party's present general secretary and says the relevant correspondence was released to the press in Bombay.
+
+Under the subheading "COMMITTEE'S FAILURE," Masani is reported to have described the committee's published decision as an "eyewash." He accused the committee of overlooking failures by the president and general secretary of the Gujarat State unit and the alleged canvassing by a national executive member against the party candidate. He characterized the disciplinary process as punishing junior figures while ignoring more senior figures, and said he could contribute more by remaining outside the national executive and offering advice for constructive work.
+
 ## Key points
 
 - M. R. Masani criticized the Swatantra Party's decision not to impose serious disciplinary action on Gujarat leaders.

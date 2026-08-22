@@ -48,6 +48,12 @@ summary: |-
   Masani further requests that the prospective organiser reach Bombay by August 12 for an interview and screening, remain in Bombay through the training period, and return to Andhra after August 23. He warns that delay would postpone activity in Chittor Constituency, since another training course may not be available for two or three months. The single rendered page contains no discussion of other thinkers or broader political arguments beyond this organisational and electoral communication.
 ---
 
+## Summary
+
+In this letter dated July 25, 1964, Minoo Masani asks Prof. N. G. Ranga to make a prompt decision about serving as a full-time organiser for the Chittor Parliamentary Constituency. Masani explains that the Central Office is arranging a training programme for party organisers in Bombay from August 15 to 23, and argues that the prospective organiser must attend it if the constituency project is to proceed.
+
+Masani further requests that the prospective organiser reach Bombay by August 12 for an interview and screening, remain in Bombay through the training period, and return to Andhra after August 23. He warns that delay would postpone activity in Chittor Constituency, since another training course may not be available for two or three months. The single rendered page contains no discussion of other thinkers or broader political arguments beyond this organisational and electoral communication.
+
 ## Key points
 
 - Masani writes to Prof. N. G. Ranga on July 25, 1964.

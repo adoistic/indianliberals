@@ -50,6 +50,12 @@ summary: |-
   Patel suggests that diplomatic efforts by Baria Madhusinh Jadhav—whose name is difficult to read in the handwriting—may have persuaded the Central Executive to minimise disciplinary action. He says that only two individuals, identified as Mr. Janubhai Bhatt and Mr. Solanki, will be debarred from holding party office for one year, while no action will be taken against the others. The letter concludes with a disputed account of an alleged conversation involving Mr. Parivansinh Solanki and Mr. Bajpai. The summary is based on the complete two-page letter.
 ---
 
+## Summary
+
+This two-page English letter, dated 25 April 1968 and written by Ratibhai Patel from the Swatantra Party’s Rajkot District Office, is addressed to Minoo Masani. Patel reports on efforts by Gujarat Party leaders to establish unity within the party, arguing that this has involved setting aside party discipline and commitments under a policy of “forgive and forget.”
+
+Patel suggests that diplomatic efforts by Baria Madhusinh Jadhav—whose name is difficult to read in the handwriting—may have persuaded the Central Executive to minimise disciplinary action. He says that only two individuals, identified as Mr. Janubhai Bhatt and Mr. Solanki, will be debarred from holding party office for one year, while no action will be taken against the others. The letter concludes with a disputed account of an alleged conversation involving Mr. Parivansinh Solanki and Mr. Bajpai. The summary is based on the complete two-page letter.
+
 ## Key points
 
 - Patel writes to Minoo Masani about developments concerning the Gujarat Party.

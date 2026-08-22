@@ -47,6 +47,12 @@ summary: |-
   The document records a specific act of political affiliation and a related request for parliamentary seating. No broader policy argument, discussion of liberal principles, or engagement with other thinkers appears on the rendered page.
 ---
 
+## Summary
+
+This one-page letter, dated February 26, 1965, is addressed from New Delhi to the Speaker of the Lok Sabha. Tan Singh informs the Speaker that he has joined the Swatantra Party in the Lok Sabha as an Associate Member and requests a seat in the parliamentary bloc allocated to the party.
+
+The document records a specific act of political affiliation and a related request for parliamentary seating. No broader policy argument, discussion of liberal principles, or engagement with other thinkers appears on the rendered page.
+
 ## Key points
 
 - The letter is dated February 26, 1965.

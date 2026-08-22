@@ -52,6 +52,12 @@ summary: |-
   The attached resolution argues that devaluation had become unavoidable after years of inflationary policies, excessive taxation, and planning based on resources that did not exist. It blames the Congress government for maintaining an artificial exchange rate disconnected from international prices, notes the steep rise in internal prices, and warns that coercive price controls would expand the black market. The convention calls for experienced external advice, an end to inflationary policies, and government finances that “live within its means,” while acknowledging that foreign assistance may be necessary.
 ---
 
+## Summary
+
+In this two-page communication dated 14 June 1966, M. R. Masani circulates the Swatantra Party's position on the recent devaluation of the rupee. Writing from the party's Bombay central office, he explains that the Mysore State Convention adopted the resolution on 12 June and asks local organisations and members to circulate it for information and use. He identifies C. Rajagopalachari, Professor Ranga, and himself as having approved the resolution in the absence of a full party meeting.
+
+The attached resolution argues that devaluation had become unavoidable after years of inflationary policies, excessive taxation, and planning based on resources that did not exist. It blames the Congress government for maintaining an artificial exchange rate disconnected from international prices, notes the steep rise in internal prices, and warns that coercive price controls would expand the black market. The convention calls for experienced external advice, an end to inflationary policies, and government finances that “live within its means,” while acknowledging that foreign assistance may be necessary.
+
 ## Key points
 
 - Masani's letter transmits a resolution adopted by the Swatantra Party's Mysore State Convention on 12 June 1966.

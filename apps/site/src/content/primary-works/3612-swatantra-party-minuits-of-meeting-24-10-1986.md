@@ -53,6 +53,12 @@ summary: |-
   The minutes also list the office-bearers and committee members continuing for 1987. On premises at 143 Mahatma Gandhi Road, the committee agreed to take steps toward serving eviction notices on Ratansinh Rajda and The Afternoon, entrusting the matter to lawyer Nitin G. Raut, who was to consult senior lawyers. The document is explicitly marked “DRAFT”; no additional meeting business is visible beyond these decisions.
 ---
 
+## Summary
+
+This two-page draft records the Managing Committee meeting of the Swatantra Party, Maharashtra, held at the party office on 24 October 1986. S. V. Raju chaired the meeting; the minutes note the absences of President Parmanand Kejriwal and member K. H. Subramaniam. The committee accepted J. Venkiteswaran’s resignation as General Secretary while retaining him as a committee member, appointed L. R. Sampat as General Secretary, and unanimously elected P. N. Subramanian as Joint Secretary.
+
+The minutes also list the office-bearers and committee members continuing for 1987. On premises at 143 Mahatma Gandhi Road, the committee agreed to take steps toward serving eviction notices on Ratansinh Rajda and The Afternoon, entrusting the matter to lawyer Nitin G. Raut, who was to consult senior lawyers. The document is explicitly marked “DRAFT”; no additional meeting business is visible beyond these decisions.
+
 ## Key points
 
 - The Managing Committee met at the Swatantra Party, Maharashtra office on 24 October 1986.

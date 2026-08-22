@@ -47,6 +47,12 @@ summary: |-
   The letter asks Srikumar to proceed with the necessary action and notes that the draft of the General Secretary’s circular is ready and will be sent to him within the next few days. A handwritten annotation at the foot of the page reads “Please ask Jerey[?]” or similar, but the handwriting is not securely legible.
 ---
 
+## Summary
+
+This typed office letter, dated 26 April 1975 and sent from Bharatiya Vidya Bhavan in Bombay, returns to Mr. Srikumar a draft connected with the minutes of the last N.E. meeting. P. Narayan reports that K. M. Munshi, after reviewing the draft, approved it; the draft was also shown to Mr. Kajriwal and Mr. Raju, who likewise approved it.
+
+The letter asks Srikumar to proceed with the necessary action and notes that the draft of the General Secretary’s circular is ready and will be sent to him within the next few days. A handwritten annotation at the foot of the page reads “Please ask Jerey[?]” or similar, but the handwriting is not securely legible.
+
 ## Key points
 
 - The letter is dated 26 April 1975 and is sent from Bharatiya Vidya Bhavan, Bombay 7.

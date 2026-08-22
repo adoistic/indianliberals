@@ -58,6 +58,12 @@ summary: |-
   In the rendered pages, Masani attributes the crisis not only to Jawaharlal Nehru’s policies but also to deeper failures of national character. He identifies a lack of intellectual and moral courage, a reluctance to oppose prevailing opinion, the desire of politicians to cling to office, and widespread indiscipline in public life, education, and administration. The article concludes by rejecting authoritarian and statist remedies, including nationalisation, and calls instead for a Government of Democratic Unity bringing together democratic opposition parties. Masani warns that the choice is between democratic renewal and political and economic collapse, though he believes India may still have a narrow chance of survival.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani presents a sharply pessimistic diagnosis of India’s political, economic, and international position. He argues that socialist planning, ideological bias, bureaucratic procedures, and a pseudo-scientific treatment of science have produced stagnating industrial and agricultural production, shortages, inflation, and an expanding defence burden. He also criticises non-alignment, which he says has left India isolated and diplomatically weakened, while comparing India unfavourably with prosperous non-Marxist Asian countries such as Japan, Taiwan, the Philippines, Thailand, and Malaysia.
+
+In the rendered pages, Masani attributes the crisis not only to Jawaharlal Nehru’s policies but also to deeper failures of national character. He identifies a lack of intellectual and moral courage, a reluctance to oppose prevailing opinion, the desire of politicians to cling to office, and widespread indiscipline in public life, education, and administration. The article concludes by rejecting authoritarian and statist remedies, including nationalisation, and calls instead for a Government of Democratic Unity bringing together democratic opposition parties. Masani warns that the choice is between democratic renewal and political and economic collapse, though he believes India may still have a narrow chance of survival.
+
 ## Key points
 
 - Masani opens by questioning the direction of India’s political and economic development and describes the country as being in deep crisis.

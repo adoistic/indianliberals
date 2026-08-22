@@ -52,6 +52,12 @@ summary: |-
   Singh attributed the railway strike crisis to government impatience, arguing that it could have been avoided if George Fernandes had not been arrested while negotiations were continuing. He also condemned the arrest of Raj Narain, interpreting it as part of an effort by the government to stifle political opposition. The clipping is dated 17 May 1974, carries a Lucknow dateline of 16 May, and has no byline.
 ---
 
+## Summary
+
+This one-page Times of India News Service clipping reports that Charan Singh, chairman of the Bharatiya Kranti Dal, supported the demands of striking railway workers. He argued that the demands were reasonable in light of disparities between the earnings of senior IAS officers and the wages and bonus arrangements of workers in public-sector units including LIC, the State Bank, and Indian Airlines.
+
+Singh attributed the railway strike crisis to government impatience, arguing that it could have been avoided if George Fernandes had not been arrested while negotiations were continuing. He also condemned the arrest of Raj Narain, interpreting it as part of an effort by the government to stifle political opposition. The clipping is dated 17 May 1974, carries a Lucknow dateline of 16 May, and has no byline.
+
 ## Key points
 
 - Charan Singh supported the demands of striking railway workers.

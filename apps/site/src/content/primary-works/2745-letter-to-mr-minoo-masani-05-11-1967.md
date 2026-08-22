@@ -50,6 +50,12 @@ summary: |-
   The letter stresses the gap between public sympathy for the party's principles and its organisational reach. Ganapaiah recommends maintaining closer contact with Jan Sangh leaders and members, and endorses the appointment of four Joint Secretaries, each responsible for organising in several states. He expresses confidence that this structure, under Masani's guidance, will strengthen the party and prepare it for successful elections in 1972.
 ---
 
+## Summary
+
+In this letter dated November 5, 1967, N. K. Ganapaiah writes to Minoo Masani in support of Masani's proposal to relinquish the Swatantra Party's General Secretaryship. Ganapaiah argues that N. Dandekar can assume the demanding organisational work Masani has carried out for seven years, freeing Masani to organise the party across the states. He praises Masani's service to the party and the country while agreeing that office-bearers, rather than passive members, must undertake the party's work.
+
+The letter stresses the gap between public sympathy for the party's principles and its organisational reach. Ganapaiah recommends maintaining closer contact with Jan Sangh leaders and members, and endorses the appointment of four Joint Secretaries, each responsible for organising in several states. He expresses confidence that this structure, under Masani's guidance, will strengthen the party and prepare it for successful elections in 1972.
+
 ## Key points
 
 - Ganapaiah supports Masani's proposed resignation from the General Secretaryship.

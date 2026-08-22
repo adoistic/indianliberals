@@ -50,6 +50,12 @@ summary: |-
   The immediate issue is Masani’s exclusion from the Swatantra Party’s National Executive after the party’s June 1968 General Council meeting in Madras. Sreenivasan treats Masani’s absence as a serious threat to the party’s effectiveness, especially because Masani had been central to its Gujarat organisation and parliamentary strategy. The essay criticises Rajaji for not supporting resolutions intended to enable Masani’s return, and concludes that Masani was the only Swatantra leader capable of removing Congress from power at the Centre in 1972.
 ---
 
+## Summary
+
+In this two-page political commentary, V. P. Sreenivasan argues that the Swatantra Party was founded in response to the Indian National Congress’s allegedly socialist direction under Jawaharlal Nehru, which the author believed would lead India toward communism. The essay presents Minoo Masani as the party’s indispensable strategist and organiser, crediting him with building an effective opposition despite limited resources and an unfavourable electoral system. It also portrays C. Rajagopalachari (Rajaji) as the party’s founder-leader, while insisting that Masani’s practical contribution exceeded that of other party leaders.
+
+The immediate issue is Masani’s exclusion from the Swatantra Party’s National Executive after the party’s June 1968 General Council meeting in Madras. Sreenivasan treats Masani’s absence as a serious threat to the party’s effectiveness, especially because Masani had been central to its Gujarat organisation and parliamentary strategy. The essay criticises Rajaji for not supporting resolutions intended to enable Masani’s return, and concludes that Masani was the only Swatantra leader capable of removing Congress from power at the Centre in 1972.
+
 ## Key points
 
 - The essay links the creation of the Swatantra Party to opposition to the Congress’s socialist policies under Jawaharlal Nehru.

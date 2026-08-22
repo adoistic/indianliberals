@@ -52,6 +52,12 @@ summary: |-
   The clipping then points to more recent unruly behaviour in the Rajya Sabha, including an incident during the Finance Minister’s presentation of the annual budget that reportedly reduced President Dr S. D. Sharma to tears. It closes by arguing that, despite such conduct, the Opposition members, the Speaker and the Finance Minister deserve credit for handling the proceedings in a dignified manner. The article is signed “K. B. Danke” in the visible clipping, although no formal byline is clearly printed.
 ---
 
+## Summary
+
+The article criticises disorderly conduct by members of Parliament and responds to complaints about Minoo Masani’s description of MPs as “bowing hooligans.” It recalls an earlier description of ruling-party members in the Parliament of the first Republic as having a “khadi cap on head, nothing below it and the majestic vacuum is filled with erroneous notions,” noting that Pandit Nehru and the Law Ministry were drawn into the controversy before the matter was dropped.
+
+The clipping then points to more recent unruly behaviour in the Rajya Sabha, including an incident during the Finance Minister’s presentation of the annual budget that reportedly reduced President Dr S. D. Sharma to tears. It closes by arguing that, despite such conduct, the Opposition members, the Speaker and the Finance Minister deserve credit for handling the proceedings in a dignified manner. The article is signed “K. B. Danke” in the visible clipping, although no formal byline is clearly printed.
+
 ## Key points
 
 - The article defends criticism of unruly parliamentary behaviour attributed to Minoo Masani.

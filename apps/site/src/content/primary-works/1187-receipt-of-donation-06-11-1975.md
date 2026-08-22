@@ -50,6 +50,12 @@ summary: |-
   As an item of party ephemera, the receipt has no argumentative content of its own; its documentary value lies in what it records — namely, that Minoo Masani continued to contribute personal funds to the Swatantra Party's Maharashtra unit in November 1975, at a moment when the Emergency was in force and the party (formally dissolved into the Bharatiya Lok Dal in 1974) had ceased to function as a national electoral vehicle. The rendered page provides the full extent of the document.
 ---
 
+## Summary
+
+This single-page document is a printed donation receipt issued by the Swatantra Party's Maharashtra Region office at Sassoon Building, 143, Mahatma Gandhi Road, Bombay-1, telephone 253085. Receipt No. 122, dated 6 November 1975, acknowledges the sum of Rupees Twenty Five, received with thanks from Shri M. R. Masani, described in the handwritten notation as a donation for November 1975. The receipt bears the Receiver's Signature and is countersigned in the printed slot reserved for the Hon. Treasurer, and carries an archival stamp reading '1187' at the top-left corner.
+
+As an item of party ephemera, the receipt has no argumentative content of its own; its documentary value lies in what it records — namely, that Minoo Masani continued to contribute personal funds to the Swatantra Party's Maharashtra unit in November 1975, at a moment when the Emergency was in force and the party (formally dissolved into the Bharatiya Lok Dal in 1974) had ceased to function as a national electoral vehicle. The rendered page provides the full extent of the document.
+
 ## Key points
 
 - Printed receipt form of the Swatantra Party, Maharashtra Region, headquartered at Sassoon Building, 143, Mahatma Gandhi Road, Bombay-1 (Tel No. 253085).

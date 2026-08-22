@@ -44,6 +44,10 @@ summary: |-
   A single-page Swatantra Party receipt printed on the party's Maharashtra Region letterhead, acknowledging a monthly donation received on 1 January 1975. The pre-printed form carries the party's Bombay office address (Sassoon Building, 143, Mahatma Gandhi Road, Bombay-1) and telephone number 253085, with the fields for receipt number, donor name, amount, purpose, and signatures completed by hand in ink. Receipt No. 102 records a donation of Rs. twenty-five only from a 'Mr. M. R.' (surname unclear in the handwriting) towards the month of January 1975, and is signed at the foot by both the receiver and the Hon. Treasurer. A separate filing number ('1234' or '1224') and a small pencil notation are visible in the upper margin. The document is administrative rather than argumentative: a slice of the party's routine fundraising bookkeeping from the final year of its formal existence.
 ---
 
+## Summary
+
+A single-page Swatantra Party receipt printed on the party's Maharashtra Region letterhead, acknowledging a monthly donation received on 1 January 1975. The pre-printed form carries the party's Bombay office address (Sassoon Building, 143, Mahatma Gandhi Road, Bombay-1) and telephone number 253085, with the fields for receipt number, donor name, amount, purpose, and signatures completed by hand in ink. Receipt No. 102 records a donation of Rs. twenty-five only from a 'Mr. M. R.' (surname unclear in the handwriting) towards the month of January 1975, and is signed at the foot by both the receiver and the Hon. Treasurer. A separate filing number ('1234' or '1224') and a small pencil notation are visible in the upper margin. The document is administrative rather than argumentative: a slice of the party's routine fundraising bookkeeping from the final year of its formal existence.
+
 ## Key points
 
 - Printed letterhead of the Swatantra Party, Maharashtra Region, at Sassoon Building, 143, Mahatma Gandhi Road, Bombay-1 (tel. 253085).

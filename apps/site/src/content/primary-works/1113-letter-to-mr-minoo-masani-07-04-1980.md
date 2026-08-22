@@ -48,6 +48,12 @@ summary: |-
   Zamindar's message is compressed and blunt. He tells Goheen that Chester Bowles had misled the late Jawaharlal Nehru; laments that the Swatantra Party alone could have become a viable alternative but that no such hope now remains and that the parties are "in a shambles"; and observes that the Soviet invasion of Afghanistan has forced many to rethink their sympathies toward Russia, so the Americans should step up their propaganda for democracy. He closes by declaring that he sees no future for the "split" Janatas.
 ---
 
+## Summary
+
+A short typed letter dated 7 April 1980 from N. C. Zamindar, an advocate based in Indore City, to Minoo Masani in Bombay. Marked "Not for office file," it is a private note reporting on a meeting Zamindar had the previous day with Dr. Robert Goheen (then the outgoing U.S. ambassador to India) and passing along the substance of what he told him about Indian politics and the Cold War moment.
+
+Zamindar's message is compressed and blunt. He tells Goheen that Chester Bowles had misled the late Jawaharlal Nehru; laments that the Swatantra Party alone could have become a viable alternative but that no such hope now remains and that the parties are "in a shambles"; and observes that the Soviet invasion of Afghanistan has forced many to rethink their sympathies toward Russia, so the Americans should step up their propaganda for democracy. He closes by declaring that he sees no future for the "split" Janatas.
+
 ## Key points
 
 - Private letter from N. C. Zamindar (advocate, Indore City) to Minoo Masani, expressly marked "Not for office file."

@@ -47,6 +47,12 @@ summary: |-
   The letter also reports on a hospital associated with Singh: construction is progressing well, and the hospital has acquired one good cardiologist and one male doctor. Singh invites Masani to visit and see the hospital. The page is headed “Kala Kankar, U.P.” and is signed “Suresh Singh.”
 ---
 
+## Summary
+
+This handwritten English letter, dated April 7, 1971, is addressed by Suresh Singh to Minoo Masani after Masani's unsuccessful election to the Lok Sabha. Singh offers encouragement, observing that setbacks and successes are always part of political life, and expresses hope that Masani will serve in the government of the country.
+
+The letter also reports on a hospital associated with Singh: construction is progressing well, and the hospital has acquired one good cardiologist and one male doctor. Singh invites Masani to visit and see the hospital. The page is headed “Kala Kankar, U.P.” and is signed “Suresh Singh.”
+
 ## Key points
 
 - Suresh Singh writes to Minoo Masani on April 7, 1971.

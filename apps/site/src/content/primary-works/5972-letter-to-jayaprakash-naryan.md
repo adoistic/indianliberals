@@ -45,6 +45,12 @@ summary: |-
   The message asks Narayan to wire back if he leaves Patna and to provide the dates of his absence. The document is dated “14th June, 197…”; the final year digit is not reliably legible. No formal title, publisher, or institutional imprint appears on the page.
 ---
 
+## Summary
+
+This single-page English telegram from Masani to Mr. Jayaprakash Narayan acknowledges Narayan’s telegram of the 13th and regrets that it was not received earlier. Masani reports that he is arranging for Hanumantharao to travel from Guntur to Patna after the 17th, and says he will also try to send a messenger from Bombay the following week.
+
+The message asks Narayan to wire back if he leaves Patna and to provide the dates of his absence. The document is dated “14th June, 197…”; the final year digit is not reliably legible. No formal title, publisher, or institutional imprint appears on the page.
+
 ## Key points
 
 - Masani acknowledges receipt of Jayaprakash Narayan’s telegram of the 13th.

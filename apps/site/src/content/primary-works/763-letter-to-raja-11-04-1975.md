@@ -47,6 +47,10 @@ summary: |-
   This one-page English office letter, dated 11 April 1975, is written on the Swatantra Party's National Headquarters letterhead by its General Secretary, Girish Rushi, to Shri S. V. Raju. Rushi informs Raju that he has been nominated Joint Secretary of the All-India Swatantra Party at a meeting of the National Executive held in Madras on 6–7 April 1975.
 ---
 
+## Summary
+
+This one-page English office letter, dated 11 April 1975, is written on the Swatantra Party's National Headquarters letterhead by its General Secretary, Girish Rushi, to Shri S. V. Raju. Rushi informs Raju that he has been nominated Joint Secretary of the All-India Swatantra Party at a meeting of the National Executive held in Madras on 6–7 April 1975.
+
 ## Key points
 
 - The document is a formal appointment letter from the Swatantra Party's General Secretary.

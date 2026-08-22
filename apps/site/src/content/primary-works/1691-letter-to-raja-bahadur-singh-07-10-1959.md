@@ -50,6 +50,12 @@ summary: |-
   The letter focuses on the possibility of collaboration with the P.S.P. The writer rejects such an arrangement, arguing that there is no common ground between his position and the party's ideology. He defines his own stance as support for the maximum possible individual freedom consistent with social justice, and maintains that the P.S.P.'s economic policies rule out cooperation. He therefore refuses alliances that might compromise the position already taken on political, social, and economic questions.
 ---
 
+## Summary
+
+This one-page personal letter, dated 7 October 1959 and signed by Raja Bahadur Kameshya Narain Singh, responds appreciatively to press cuttings concerning the recipient's 26 September press conference. The writer says that the recipient has “hit out in a refreshing sort of way” and that he agrees with much of what was said.
+
+The letter focuses on the possibility of collaboration with the P.S.P. The writer rejects such an arrangement, arguing that there is no common ground between his position and the party's ideology. He defines his own stance as support for the maximum possible individual freedom consistent with social justice, and maintains that the P.S.P.'s economic policies rule out cooperation. He therefore refuses alliances that might compromise the position already taken on political, social, and economic questions.
+
 ## Key points
 
 - The letter acknowledges and praises the recipient's 26 September press conference.

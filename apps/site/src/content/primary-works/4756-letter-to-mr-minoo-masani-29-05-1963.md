@@ -47,6 +47,12 @@ summary: |-
   The rendered page contains no extended argument or discussion beyond this brief congratulatory message. The Gujarati letterhead identifies the sender’s office and address, while the English body is typed and signed “(B.D.Patel.).”
 ---
 
+## Summary
+
+This untitled, single-page letter was written from Anand on 29 May 1963 by B. D. Patel to Minoo Masani. Addressed as “My Dear Masani,” it offers heartfelt congratulations for Masani’s luck and pluck, then closes with kind regards and a sincere sign-off.
+
+The rendered page contains no extended argument or discussion beyond this brief congratulatory message. The Gujarati letterhead identifies the sender’s office and address, while the English body is typed and signed “(B.D.Patel.).”
+
 ## Key points
 
 - The document is an untitled personal letter dated 29 May 1963.

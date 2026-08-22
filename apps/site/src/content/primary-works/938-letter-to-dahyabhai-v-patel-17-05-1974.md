@@ -49,6 +49,12 @@ summary: |-
   Masani states that he understands a meeting of the Party’s General Council is expected in early June and proposes attending so that they can discuss the situation. He clearly opposes dissolving the Swatantra Party and joining with the other political group whose office-bearers are reportedly discussing such a move. The letter records a moment of internal political uncertainty and Masani’s resistance to the Party’s proposed dissolution.
 ---
 
+## Summary
+
+This one-page letter, dated May 17, 1974, is from M. R. Masani to D. B. Patel, Joint Secretary of the Swatantra Party in Surat. Masani apologizes for the delayed reply and says that he shares Patel’s feelings about recent events affecting the Party.
+
+Masani states that he understands a meeting of the Party’s General Council is expected in early June and proposes attending so that they can discuss the situation. He clearly opposes dissolving the Swatantra Party and joining with the other political group whose office-bearers are reportedly discussing such a move. The letter records a moment of internal political uncertainty and Masani’s resistance to the Party’s proposed dissolution.
+
 ## Key points
 
 - The letter is dated May 17, 1974, and is addressed to D. B. Patel in Surat.

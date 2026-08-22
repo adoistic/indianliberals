@@ -57,6 +57,12 @@ summary: |-
   Masani distinguishes the Indian Emergency from more overtly violent dictatorships, arguing that a regime can be authoritarian while retaining the appearance of moderation and legality. He calls on opposition politicians to unite around freedom and on ordinary citizens to maintain scepticism, refuse propaganda, and preserve an inner commitment to liberty. The letter closes by presenting the political choice as stark: continued submission or determined dissent. The document is a two-page personal letter from Bombay, signed by hand as “Masani”; no recipient or printed title is provided.
 ---
 
+## Summary
+
+In this letter dated November 3, 1976, Minoo Masani argues that a general election under the Emergency would not necessarily restore freedom or benefit Indira Gandhi. He portrays Gandhi's government as having concentrated power in the executive, Parliament, the courts, the press, and the administrative machinery, while preparing her son to inherit political authority. The letter describes arrests, censorship, preventive detention under MISA, and the subordination of legal rights to the ruler's will.
+
+Masani distinguishes the Indian Emergency from more overtly violent dictatorships, arguing that a regime can be authoritarian while retaining the appearance of moderation and legality. He calls on opposition politicians to unite around freedom and on ordinary citizens to maintain scepticism, refuse propaganda, and preserve an inner commitment to liberty. The letter closes by presenting the political choice as stark: continued submission or determined dissent. The document is a two-page personal letter from Bombay, signed by hand as “Masani”; no recipient or printed title is provided.
+
 ## Key points
 
 - Masani argues that elections held under the Emergency might increase public grief rather than restore freedom or reduce Indira Gandhi's power.

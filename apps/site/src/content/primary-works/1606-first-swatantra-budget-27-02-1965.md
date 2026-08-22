@@ -66,6 +66,10 @@ summary: |-
   In this 27 February 1965 address, M. R. Masani presents the Swatantra Party as an alternative to Congress socialism, combining Western liberalism with Gandhi’s thinking. He argues that the individual should remain at the centre of political and economic life, that government should be a limited instrument, and that free choice for investors, producers, workers, and consumers is the basis of a free society. The speech opposes monopoly, permits and licences, excessive state ownership, and command-style planning, while allowing a mixed economy in which the state provides infrastructure and competes on equal terms.
 ---
 
+## Summary
+
+In this 27 February 1965 address, M. R. Masani presents the Swatantra Party as an alternative to Congress socialism, combining Western liberalism with Gandhi’s thinking. He argues that the individual should remain at the centre of political and economic life, that government should be a limited instrument, and that free choice for investors, producers, workers, and consumers is the basis of a free society. The speech opposes monopoly, permits and licences, excessive state ownership, and command-style planning, while allowing a mixed economy in which the state provides infrastructure and competes on equal terms.
+
 ## Key points
 
 - Masani identifies Swatantra philosophy with both Western liberalism and Gandhi’s thinking.

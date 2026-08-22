@@ -50,6 +50,12 @@ summary: |-
   According to Singh's statement, Masani was remaining outside formal office in the hope of fostering greater awareness and dedication among party members—qualities Singh considered necessary for the party's proper functioning. The report is attributed to UNI; no reporter byline is visible.
 ---
 
+## Summary
+
+This one-page English newspaper clipping from the Indian Express reports from Lucknow on June 10 that Bhanu Pratap Singh, president of the Uttar Pradesh unit of the Swatantra Party, denied that M. R. Masani intended to resign from the party. The report says Singh had returned from the party's national executive and general council meetings in Madras.
+
+According to Singh's statement, Masani was remaining outside formal office in the hope of fostering greater awareness and dedication among party members—qualities Singh considered necessary for the party's proper functioning. The report is attributed to UNI; no reporter byline is visible.
+
 ## Key points
 
 - The report is datelined Lucknow, June 10.

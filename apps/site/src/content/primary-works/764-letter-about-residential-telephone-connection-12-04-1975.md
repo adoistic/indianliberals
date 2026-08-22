@@ -49,6 +49,12 @@ summary: |-
   Munshi explains that Raju is the Joint Secretary of the All-India Swatantra Party and needs to be reachable during late hours because of his organisational responsibilities. The letter argues that the poor availability of telephone service has caused considerable inconvenience and asks Bombay Telephones to provide Raju with a residential connection at Chembur.
 ---
 
+## Summary
+
+This one-page letter, dated 12 April 1975, is written by Girish Munshi, General Secretary of the All-India Swatantra Party, to the General Manager of Bombay Telephones. Its subject is a request for a residential telephone connection for S. V. Raju under a special category.
+
+Munshi explains that Raju is the Joint Secretary of the All-India Swatantra Party and needs to be reachable during late hours because of his organisational responsibilities. The letter argues that the poor availability of telephone service has caused considerable inconvenience and asks Bombay Telephones to provide Raju with a residential connection at Chembur.
+
 ## Key points
 
 - The letter is dated 12 April 1975 and is issued from the Swatantra Party's National Headquarters in Bombay.

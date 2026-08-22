@@ -49,6 +49,10 @@ summary: |-
   These two pages contain the draft minutes of the Swatantra Party Organisation Sub-Committee meeting held on January 30, 1964, in Rajaji's Room at the Madras Woodlands Hotel in Bangalore. Prof. N. G. Ranga chaired the meeting; C. Rajagopalachari, Kamakhya Narain Singh of Ramgarh, and M. R. Masani were also present. The committee confirmed the previous meeting's minutes and reviewed interim arrangements for party office-bearers in Uttar Pradesh, representations concerning the state units in Orissa, Gujarat, Madhya Pradesh, and West Bengal, and recommendations for additions to the General Council from Uttar Pradesh and Rajasthan.
 ---
 
+## Summary
+
+These two pages contain the draft minutes of the Swatantra Party Organisation Sub-Committee meeting held on January 30, 1964, in Rajaji's Room at the Madras Woodlands Hotel in Bangalore. Prof. N. G. Ranga chaired the meeting; C. Rajagopalachari, Kamakhya Narain Singh of Ramgarh, and M. R. Masani were also present. The committee confirmed the previous meeting's minutes and reviewed interim arrangements for party office-bearers in Uttar Pradesh, representations concerning the state units in Orissa, Gujarat, Madhya Pradesh, and West Bengal, and recommendations for additions to the General Council from Uttar Pradesh and Rajasthan.
+
 ## Key points
 
 - The committee confirmed the minutes of its August 3, 1963 meeting in Madras.

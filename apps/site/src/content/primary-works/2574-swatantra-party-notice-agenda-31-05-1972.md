@@ -53,6 +53,12 @@ summary: |-
   The agenda is procedural: confirmation of the minutes of the previous meeting held on 24 April 1972; consideration of matters arising from the General Council meeting held in Bombay on 8 and 9 April 1972; and any other business permitted by the Chair. The page is a meeting notice and agenda, not a record of the meeting or its decisions.
 ---
 
+## Summary
+
+This one-page English notice, issued by the Swatantra Party's Bombay Region on 31 May 1972, announces an Executive Committee meeting to be held on 9 June 1972 at the party office in Sassoon Building, Bombay. It is signed by P. Narayan, identified as Office Secretary.
+
+The agenda is procedural: confirmation of the minutes of the previous meeting held on 24 April 1972; consideration of matters arising from the General Council meeting held in Bombay on 8 and 9 April 1972; and any other business permitted by the Chair. The page is a meeting notice and agenda, not a record of the meeting or its decisions.
+
 ## Key points
 
 - The Swatantra Party's Bombay Region scheduled an Executive Committee meeting for 9 June 1972 at 6:15 p.m.

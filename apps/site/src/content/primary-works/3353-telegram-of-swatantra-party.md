@@ -47,6 +47,10 @@ summary: |-
   This single-page English telegram, sent on an Indian Posts and Telegraphs Department form, concerns the transfer and accounting of funds associated with a Bihar unit. The message states that Rs. 3,75,000 is payable to the Bihar unit by the Centre, and reports that approximately Rs. 50,000 had already been received several months earlier.
 ---
 
+## Summary
+
+This single-page English telegram, sent on an Indian Posts and Telegraphs Department form, concerns the transfer and accounting of funds associated with a Bihar unit. The message states that Rs. 3,75,000 is payable to the Bihar unit by the Centre, and reports that approximately Rs. 50,000 had already been received several months earlier.
+
 ## Key points
 
 - The telegram records a payment of Rs. 3,75,000 payable to a Bihar unit.

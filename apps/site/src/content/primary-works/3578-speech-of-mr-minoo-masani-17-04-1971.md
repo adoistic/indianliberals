@@ -54,6 +54,12 @@ summary: |-
   Masani gives a detailed account of the negotiations that preceded the formation and collapse of the three-party Electoral Front, defending his refusal to join without an agreed programme and later accepting the Front only after the National Executive judged that there was no practical alternative. He calls for a post-war attitude rather than immediate expectation of another electoral battle, and he accepts personal responsibility for the party's failure to implement its earlier programme of renewal. That programme included reaching the underprivileged and minorities, putting agriculture first, engaging younger voters, and treating consumers as a central constituency. Masani announces his resignation as party president, arguing that the party needs new leadership, new tactics, a rapid reappraisal, and renewed dedication to its objectives.
 ---
 
+## Summary
+
+In this speech from the chair of the Swatantra Party's General Council, M. R. Masani confronts the party's severe setback in the 1971 elections. He urges members to respond with courage, faith in the people, and the capacity to innovate while preserving their fundamental principles. He argues that the result was less sweeping than newspaper accounts suggested: the ruling party received 43 per cent of the votes cast, while those votes represented only 54 per cent of the electorate. He attributes the defeat to the party's organisational weakness, inadequate preparation, electoral-system distortions, defections, and the breakdown of an attempted opposition alliance.
+
+Masani gives a detailed account of the negotiations that preceded the formation and collapse of the three-party Electoral Front, defending his refusal to join without an agreed programme and later accepting the Front only after the National Executive judged that there was no practical alternative. He calls for a post-war attitude rather than immediate expectation of another electoral battle, and he accepts personal responsibility for the party's failure to implement its earlier programme of renewal. That programme included reaching the underprivileged and minorities, putting agriculture first, engaging younger voters, and treating consumers as a central constituency. Masani announces his resignation as party president, arguing that the party needs new leadership, new tactics, a rapid reappraisal, and renewed dedication to its objectives.
+
 ## Key points
 
 - Masani frames the electoral setback as a test requiring courage, faith in the people, and organisational adaptability.

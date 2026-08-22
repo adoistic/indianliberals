@@ -56,6 +56,12 @@ summary: |-
   The attached resolutions condemn the Congress government's economic management, arguing that inflationary policies, excessive taxation, and poorly prioritized Plans made devaluation inevitable and worsened hardship through rising prices. They also oppose the Indian government's position on the Vietnam War, warning that a complete U.S. withdrawal would encourage communist aggression and threaten India's independence. The final resolutions demand timely vacation of office before general elections and a legal ban on election collections by ministers and other powerful office-holders, which the Board regards as coercive and unduly influential.
 ---
 
+## Summary
+
+This three-page English-language Swatantra Party Central Office Circular No. 49, dated 25 July 1966, transmits four resolutions adopted by the Party's Central Parliamentary Board in Madras on 22 July 1966. Signed by Executive Secretary S. V. Raju, the circular asks party committees, district and primary office-bearers, journalists, and Members of Parliament to circulate or publicize the resolutions.
+
+The attached resolutions condemn the Congress government's economic management, arguing that inflationary policies, excessive taxation, and poorly prioritized Plans made devaluation inevitable and worsened hardship through rising prices. They also oppose the Indian government's position on the Vietnam War, warning that a complete U.S. withdrawal would encourage communist aggression and threaten India's independence. The final resolutions demand timely vacation of office before general elections and a legal ban on election collections by ministers and other powerful office-holders, which the Board regards as coercive and unduly influential.
+
 ## Key points
 
 - The circular encloses four resolutions adopted by the Swatantra Party's Central Parliamentary Board in Madras on 22 July 1966.

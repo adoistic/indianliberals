@@ -46,6 +46,10 @@ summary: |-
   In this one-page letter dated November 3, 1972, Minoo Masani writes to Jayaprakash Narayan about press reports concerning Narayan’s health, expressing hope that nothing serious is wrong beyond the strain preceding his “sabbatical.” Masani then introduces David Moller, who is preparing a Readers Digest article on Narayan for publication in Britain and India, and asks Narayan to meet with Moller and assist his research.
 ---
 
+## Summary
+
+In this one-page letter dated November 3, 1972, Minoo Masani writes to Jayaprakash Narayan about press reports concerning Narayan’s health, expressing hope that nothing serious is wrong beyond the strain preceding his “sabbatical.” Masani then introduces David Moller, who is preparing a Readers Digest article on Narayan for publication in Britain and India, and asks Narayan to meet with Moller and assist his research.
+
 ## Key points
 
 - Masani acknowledges repeated and worrying press reports about Narayan’s health.

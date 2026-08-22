@@ -55,6 +55,12 @@ summary: |-
   The report also records the persistent absence of a Medical Officer, dependence on Danish and English mission hospitals for serious cases, assistance from a German midwife, and the author’s adoption and education of two Kuttia-Kond boys. Its later pages describe allegations that free medical aid and welfare were being used to induce religious conversion, police arrests and questioning of Christians, proceedings under the Orissa Freedom of Religion Act, and suspicions arising from Eichseckt’s earlier cooperation with the Congress government. Following police action and administrative pressure, the German Volunteer Service and state officials instructed her to leave Orissa while the allegations were investigated. She closes by emphasizing her wish to complete the leprosy-control report and continue working among the Kuttia-Kond people.
 ---
 
+## Summary
+
+This five-page English report is a first-person account of Ursula Eichseckt’s health and social-welfare work among the Kondh/Kuttia-Kond tribal population of Chandrapur, Koraput District, Orissa, beginning with her arrival in India in 1956 through events in 1968. Eichseckt describes an anti-yaws campaign supported by UNICEF, the establishment of a small hospital, and the creation of the Red Cross Leprosy Control Project Chandrapur. The project covered six gram panchayats over approximately 250 square miles and served a population of almost 15,000; after a census and survey, treatment was begun for nearly 500 patients, including 489 detected cases.
+
+The report also records the persistent absence of a Medical Officer, dependence on Danish and English mission hospitals for serious cases, assistance from a German midwife, and the author’s adoption and education of two Kuttia-Kond boys. Its later pages describe allegations that free medical aid and welfare were being used to induce religious conversion, police arrests and questioning of Christians, proceedings under the Orissa Freedom of Religion Act, and suspicions arising from Eichseckt’s earlier cooperation with the Congress government. Following police action and administrative pressure, the German Volunteer Service and state officials instructed her to leave Orissa while the allegations were investigated. She closes by emphasizing her wish to complete the leprosy-control report and continue working among the Kuttia-Kond people.
+
 ## Key points
 
 - Eichseckt came to India in 1956 through a UNESCO Exchange Programme and worked as a nurse with Service Civil International projects in Assam, Kerala, and Madhya Pradesh.

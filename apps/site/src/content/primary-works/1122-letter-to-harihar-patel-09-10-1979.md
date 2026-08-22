@@ -48,6 +48,12 @@ summary: |-
   Masani notes that although Vajpai's press statement had raised that possibility, a Secretary of the Janata Party has since repudiated the offer and insisted that candidates accept party discipline — an outcome Masani says he had anticipated, but which has hurt 'an eminent and distinguished friend of ours.' He asks Patel to 'drop the matter,' assures him he is not annoyed but touched by the concern of his Bhubaneshwar friends, and closes by inviting Patel to enlighten him about the political position in Orissa.
 ---
 
+## Summary
+
+In this brief typewritten letter of 9 October 1979 to Advocate Harihar Patel of Bhubaneshwar, Minoo Masani clears up what he sees as an ambiguity in Patel's correspondence: he is not, in fact, prepared to stand as a Janata Party candidate. Masani writes that 'there is nothing whatsoever to choose between the three protagonists for power' and refers Patel to his own letter in the Indian Express of 10 August, which spells out his position. For someone taking his stance, he insists, the only way to stand is as an Independent.
+
+Masani notes that although Vajpai's press statement had raised that possibility, a Secretary of the Janata Party has since repudiated the offer and insisted that candidates accept party discipline — an outcome Masani says he had anticipated, but which has hurt 'an eminent and distinguished friend of ours.' He asks Patel to 'drop the matter,' assures him he is not annoyed but touched by the concern of his Bhubaneshwar friends, and closes by inviting Patel to enlighten him about the political position in Orissa.
+
 ## Key points
 
 - Masani writes to Advocate Harihar Patel to correct an assumption that he would contest as a Janata Party candidate.

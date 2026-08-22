@@ -49,6 +49,10 @@ summary: |-
   This undated-title office letter, signed by M. R. Masani and dated 23 January 1962 (with the signature additionally dated 24 January 1962), concerns the financing and logistical support of endorsed or semi-endorsed Lok Sabha candidates of the Party in Bihar. Masani reports receiving 15 jeep receipts from Major Mohan Lal, while noting that the candidates could not be personally checked because they were absent from Patna.
 ---
 
+## Summary
+
+This undated-title office letter, signed by M. R. Masani and dated 23 January 1962 (with the signature additionally dated 24 January 1962), concerns the financing and logistical support of endorsed or semi-endorsed Lok Sabha candidates of the Party in Bihar. Masani reports receiving 15 jeep receipts from Major Mohan Lal, while noting that the candidates could not be personally checked because they were absent from Patna.
+
 ## Key points
 
 - The letter records 15 receipts for jeeps supplied to endorsed or semi-endorsed Lok Sabha candidates in Bihar.

@@ -45,6 +45,10 @@ summary: |-
   This one-page letter, dated 24 June 1964, is Minoo Masani’s brief response to C. Rajagopalachari (“Rajaji”) concerning R. V. S. Mani’s proposal. Masani reports that he consulted K. M. Munshi, who regarded the proposal as pointless, and says that he agrees with Munshi’s assessment.
 ---
 
+## Summary
+
+This one-page letter, dated 24 June 1964, is Minoo Masani’s brief response to C. Rajagopalachari (“Rajaji”) concerning R. V. S. Mani’s proposal. Masani reports that he consulted K. M. Munshi, who regarded the proposal as pointless, and says that he agrees with Munshi’s assessment.
+
 ## Key points
 
 - The letter is dated 24 June 1964.

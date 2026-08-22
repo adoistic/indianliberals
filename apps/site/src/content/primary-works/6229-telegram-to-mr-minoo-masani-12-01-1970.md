@@ -45,6 +45,10 @@ summary: |-
   This single-page English telegram, dated 12 January 1970, is addressed to Minoo Masani. The message states that the President of the Bhawanipatna College Union invites Masani to address the union on its 25th anniversary and expresses pleasure if he accepts. The telegram identifies Bhawanipatna as the place of transmission and is signed by P. K. Deo.
 ---
 
+## Summary
+
+This single-page English telegram, dated 12 January 1970, is addressed to Minoo Masani. The message states that the President of the Bhawanipatna College Union invites Masani to address the union on its 25th anniversary and expresses pleasure if he accepts. The telegram identifies Bhawanipatna as the place of transmission and is signed by P. K. Deo.
+
 ## Key points
 
 - The document is an Indian Posts and Telegraphs Department telegram form.

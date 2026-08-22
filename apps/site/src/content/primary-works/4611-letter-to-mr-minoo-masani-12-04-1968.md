@@ -53,6 +53,12 @@ summary: |-
   Rajagopalachari's immediate concern is the political disruption that Masani's departure might cause. He warns that Masani's importance to the party means he cannot simply withdraw without creating a widespread sense of dislocation, and asks what course to take if Masani persists in resigning. A handwritten note at the foot of the typed letter records that a copy was sent to M. R. Pai at Bombay and that the original was returned to Delhi.
 ---
 
+## Summary
+
+In this letter dated 12 April 1968, C. Rajagopalachari responds to Minoo Masani's resignation from the Swatantra Party. Rajagopalachari acknowledges Masani's feelings and shares his abhorrence of dishonesty, but argues that freedom should take precedence over discipline in managing a political party committed to Swatantra's principles.
+
+Rajagopalachari's immediate concern is the political disruption that Masani's departure might cause. He warns that Masani's importance to the party means he cannot simply withdraw without creating a widespread sense of dislocation, and asks what course to take if Masani persists in resigning. A handwritten note at the foot of the typed letter records that a copy was sent to M. R. Pai at Bombay and that the original was returned to Delhi.
+
 ## Key points
 
 - The letter is dated 12 April 1968 and is addressed by C. Rajagopalachari to M. R. Masani.

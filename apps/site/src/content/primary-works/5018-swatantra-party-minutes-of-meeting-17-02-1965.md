@@ -51,6 +51,12 @@ summary: |-
   The meeting also decided that the Executive Committee would meet the following morning to prepare amendments to the President’s Address, with members asked to submit suggestions for tabling. On the prospective parliamentary discussion of language and recent disturbances in the South, the party reaffirmed its commitment to freedom of expression and agreed that members could vote as they wished on any adjournment motion. The meeting ended with a vote of thanks to the chair.
 ---
 
+## Summary
+
+This one-page record documents a Swatantra Party meeting held on 17 February 1965 in the Party Committee Room, Central Hall, Parliament House, New Delhi, with M. R. Masani in the chair. The minutes list the attendees and report arrangements for speakers on the President’s Address: Prof. Ranga was allotted 40 minutes, C. J. O. Reddy 30 minutes, and Maharani Gayatri Devi 20 minutes.
+
+The meeting also decided that the Executive Committee would meet the following morning to prepare amendments to the President’s Address, with members asked to submit suggestions for tabling. On the prospective parliamentary discussion of language and recent disturbances in the South, the party reaffirmed its commitment to freedom of expression and agreed that members could vote as they wished on any adjournment motion. The meeting ended with a vote of thanks to the chair.
+
 ## Key points
 
 - A Swatantra Party meeting was held on 17 February 1965 at Parliament House in New Delhi.

@@ -47,6 +47,10 @@ summary: |-
   This single-page English letter, dated 4 April 1968, is addressed to N. Dandekar, M.P., General Secretary of the Swatantra Party, at the party's Bombay central office. The sender requests an emergency meeting of the party's General Council in response to Minoo Masani's resignation from the National Executive and the Central Parliamentary Board.
 ---
 
+## Summary
+
+This single-page English letter, dated 4 April 1968, is addressed to N. Dandekar, M.P., General Secretary of the Swatantra Party, at the party's Bombay central office. The sender requests an emergency meeting of the party's General Council in response to Minoo Masani's resignation from the National Executive and the Central Parliamentary Board.
+
 ## Key points
 
 - The letter is dated 4 April 1968 and addressed to N. Dandekar, M.P.

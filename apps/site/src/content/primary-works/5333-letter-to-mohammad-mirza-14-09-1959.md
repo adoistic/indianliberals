@@ -48,6 +48,12 @@ summary: |-
   The letter conveys M. R. Masani's appreciation for Mirza's offer to place his services at the disposal of the Swatantra Party. It also notes that Masani is expected to be in Delhi for the parliamentary session beginning on 16 November and invites Mirza to contact him then.
 ---
 
+## Summary
+
+This one-page English letter, dated 14 September 1959, is addressed to Mr. Mohammad Mirza in Delhi. Miss Bina Kirza, identified as Secretary to M. R. Masani, acknowledges Mirza's letter of 3 September and explains that it was addressed to Masani during his absence from India.
+
+The letter conveys M. R. Masani's appreciation for Mirza's offer to place his services at the disposal of the Swatantra Party. It also notes that Masani is expected to be in Delhi for the parliamentary session beginning on 16 November and invites Mirza to contact him then.
+
 ## Key points
 
 - The letter is dated 14 September 1959 and addressed to Mr. Mohammad Mirza in Delhi.

@@ -48,6 +48,10 @@ summary: |-
   This two-page confirmation copy of Minoo Masani’s letter, dated 29 April 1968, is addressed to S. V. Raju in Bombay. Masani asks Raju to send him a Bombay press clipping concerning Vajpayee’s counter-statement to Pravinsing Solanki, and requests Raju’s suggestions on draft letters to Dandekar and to members of the General Council before their meeting in Bombay on 3 May.
 ---
 
+## Summary
+
+This two-page confirmation copy of Minoo Masani’s letter, dated 29 April 1968, is addressed to S. V. Raju in Bombay. Masani asks Raju to send him a Bombay press clipping concerning Vajpayee’s counter-statement to Pravinsing Solanki, and requests Raju’s suggestions on draft letters to Dandekar and to members of the General Council before their meeting in Bombay on 3 May.
+
 ## Key points
 
 - Masani requests a Bombay press clipping about Vajpayee’s counter-statement to Pravinsing Solanki.

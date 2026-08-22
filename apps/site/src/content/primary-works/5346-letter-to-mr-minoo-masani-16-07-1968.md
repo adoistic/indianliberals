@@ -49,6 +49,12 @@ summary: |-
   The rendered page contains only the covering letter; the enclosed correspondence and comments are not included. The document therefore records the transmission of material about an internal or inter-party relationship but does not itself explain the substance of that exchange.
 ---
 
+## Summary
+
+This one-page official letter, dated July 16, 1968, was sent by S. V. Raju from the Swatantra Party Central Office in Bombay to Minoo Masani. Raju informs Masani that he is enclosing extracts from B. P. Singh’s June 26 letter to N. Dandekar concerning Swatantra–K.D. relations, together with Dandekar’s comments on those extracts.
+
+The rendered page contains only the covering letter; the enclosed correspondence and comments are not included. The document therefore records the transmission of material about an internal or inter-party relationship but does not itself explain the substance of that exchange.
+
 ## Key points
 
 - S. V. Raju wrote the letter from the Swatantra Party Central Office in Bombay on July 16, 1968.

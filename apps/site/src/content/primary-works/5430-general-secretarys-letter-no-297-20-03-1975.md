@@ -49,6 +49,12 @@ summary: |-
   The letter also sets out arrangements for group rail and air reservations, reception desks at Madras Central, Egmore, and Madras Airport, and the letter of authority required for delegates to receive badges and convention papers. It requests maximum attendance because the convention is being held in Madras as a tribute to Rajaji, described as the party's founder. An attached schedule lists train, air, and state-transport bus services serving Madras and surrounding routes, with departure and arrival times.
 ---
 
+## Summary
+
+This eight-page letter, dated March 20, 1975, was issued by the Swatantra Party's General Secretary, Medhu Mehta, to provide delegates and associate delegates with practical information for the party's Sixth National Convention in Madras. It explains the two accommodation options: paid hotel lodging and free dormitory-style accommodation, including meals, and asks delegates to notify the Convention Organising Committee of their requirements by March 31, 1975.
+
+The letter also sets out arrangements for group rail and air reservations, reception desks at Madras Central, Egmore, and Madras Airport, and the letter of authority required for delegates to receive badges and convention papers. It requests maximum attendance because the convention is being held in Madras as a tribute to Rajaji, described as the party's founder. An attached schedule lists train, air, and state-transport bus services serving Madras and surrounding routes, with departure and arrival times.
+
 ## Key points
 
 - The letter concerns the Swatantra Party's Sixth National Convention in Madras.

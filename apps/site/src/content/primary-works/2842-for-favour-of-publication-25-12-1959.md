@@ -50,6 +50,10 @@ summary: |-
   This one-page press note, issued from Delhi on December 25, 1959, reports the formation of a Swatantra Party group in the Lok Sabha. The group was constituted to organise the party's participation in the special session of Parliament scheduled for February 8, and its members sought facilities to meet as a parliamentary group. The notice lists the group's elected officers, including a leader, deputy leader, secretary, and whip. It also names several other members of the group and is signed by M. R. Masani as General Secretary. The document does not state a formal title or author byline; it functions as an organisational announcement rather than a statement of policy.
 ---
 
+## Summary
+
+This one-page press note, issued from Delhi on December 25, 1959, reports the formation of a Swatantra Party group in the Lok Sabha. The group was constituted to organise the party's participation in the special session of Parliament scheduled for February 8, and its members sought facilities to meet as a parliamentary group. The notice lists the group's elected officers, including a leader, deputy leader, secretary, and whip. It also names several other members of the group and is signed by M. R. Masani as General Secretary. The document does not state a formal title or author byline; it functions as an organisational announcement rather than a statement of policy.
+
 ## Key points
 
 - The Swatantra Party formed a parliamentary group in the Lok Sabha. The group was organised in advance of the special session of Parliament scheduled for February 8. Members asked the Speaker to provide facilities for the group to meet. The notice records the election of a leader, deputy leader, secretary, and whip. M. R. Masani signed the document as General Secretary.

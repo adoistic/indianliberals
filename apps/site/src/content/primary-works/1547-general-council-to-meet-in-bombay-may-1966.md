@@ -57,3 +57,7 @@ ai:
 summary: |-
   The May 1966 issue of Swatantra Newsletter, No. 58, reports on the Swatantra Party’s forthcoming General Council meeting and presents a sustained critique of Congress rule, socialist planning, foreign-aid dependence, administrative centralisation, and restrictions affecting political opposition. Its editorial and reported material combines party news with arguments for constitutional democracy, economic scrutiny, private initiative, and a stronger opposition role in Parliament.
 ---
+
+## Summary
+
+The May 1966 issue of Swatantra Newsletter, No. 58, reports on the Swatantra Party’s forthcoming General Council meeting and presents a sustained critique of Congress rule, socialist planning, foreign-aid dependence, administrative centralisation, and restrictions affecting political opposition. Its editorial and reported material combines party news with arguments for constitutional democracy, economic scrutiny, private initiative, and a stronger opposition role in Parliament.

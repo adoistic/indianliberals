@@ -55,6 +55,12 @@ summary: |-
   The report endorses an Inter-State Council under Article 263, a statutory Planning Commission composed of independent experts rather than government members, and selected reforms concerning emergency provisions. It rejects changes to Article 31(2), supports retaining Union responsibility for major industries, futures markets, mines, and oilfields, and concludes that the acceptable recommendations would “rectify the distortion and reset the Constitution on its true basis.” The pages engage directly with C. Rajagopalachari (Rajaji), K. Santhanam, and Jawaharlal Nehru, while referring to the Rajamannar Committee itself as the central constitutional interlocutor.
 ---
 
+## Summary
+
+Prepared by Shri R. V. Murthy, this two-page report evaluates the Rajamannar Committee’s recommendations on the distribution of powers between the Union and the States. It argues that the Committee did not propose transferring items from the State List, but sought changes to most Union List entries and substantial revisions to the Concurrent List. The report supports greater State participation while warning against weakening Parliament or allowing State Governments to misuse expanded powers against political opponents.
+
+The report endorses an Inter-State Council under Article 263, a statutory Planning Commission composed of independent experts rather than government members, and selected reforms concerning emergency provisions. It rejects changes to Article 31(2), supports retaining Union responsibility for major industries, futures markets, mines, and oilfields, and concludes that the acceptable recommendations would “rectify the distortion and reset the Constitution on its true basis.” The pages engage directly with C. Rajagopalachari (Rajaji), K. Santhanam, and Jawaharlal Nehru, while referring to the Rajamannar Committee itself as the central constitutional interlocutor.
+
 ## Key points
 
 - The report argues that the Rajamannar Committee did not recommend transferring any of the 60 items in the State List.

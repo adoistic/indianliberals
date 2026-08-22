@@ -48,6 +48,10 @@ summary: |-
   This single-page letter, dated 1 May 1964, is C. Rajagopalachari’s reply to Minoo Masani from Madras. Rajagopalachari explains that their correspondence is delayed by the time letters take to travel, thanks Masani for his 30 April letter and its enclosure, and identifies the enclosure as Sri Gopalaswami Iyengar’s statement on the constitutional question of accession.
 ---
 
+## Summary
+
+This single-page letter, dated 1 May 1964, is C. Rajagopalachari’s reply to Minoo Masani from Madras. Rajagopalachari explains that their correspondence is delayed by the time letters take to travel, thanks Masani for his 30 April letter and its enclosure, and identifies the enclosure as Sri Gopalaswami Iyengar’s statement on the constitutional question of accession.
+
 ## Key points
 
 - The letter is dated 1 May 1964 and is written from Rajagopalachari’s Madras address.

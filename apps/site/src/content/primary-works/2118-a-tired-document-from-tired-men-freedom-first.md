@@ -53,3 +53,7 @@ ai:
 summary: |-
   This rendered extract from Freedom First no. 284 (July 1976), edited by M. R. Masani, places party reorganisation, constitutional reform, civil liberties, and competing meanings of socialism at the centre of its political commentary. S. V. Raju’s lead article examines the proposed new opposition party and argues that its policy document is improvised, internally inconsistent, and insufficiently attentive to the history of India’s political crisis. The issue also includes short news commentary on Communist-bloc policy, British trade-union attitudes, and publicly funded education, alongside a letter questioning the constitutional proposal to describe India as a “Socialist” Republic.
 ---
+
+## Summary
+
+This rendered extract from Freedom First no. 284 (July 1976), edited by M. R. Masani, places party reorganisation, constitutional reform, civil liberties, and competing meanings of socialism at the centre of its political commentary. S. V. Raju’s lead article examines the proposed new opposition party and argues that its policy document is improvised, internally inconsistent, and insufficiently attentive to the history of India’s political crisis. The issue also includes short news commentary on Communist-bloc policy, British trade-union attitudes, and publicly funded education, alongside a letter questioning the constitutional proposal to describe India as a “Socialist” Republic.

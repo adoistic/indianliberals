@@ -49,6 +49,12 @@ summary: |-
   Raju explains that he had refrained from pursuing the matter while elections in Uttar Pradesh and Orissa were underway, fearing that he would be told to wait until they concluded. With the elections over, he asks Mody to consider an ex-gratia payment for his fourteen years of service at the Party's National Headquarters and requests a written reply.
 ---
 
+## Summary
+
+In this one-page letter dated March 18, 1974, S. V. Raju writes to Piloo Mody about an unpaid gratuity following his resignation. Raju recounts that the then Honorary Secretary, Manu Amersey, had promised to arrange a suitable gratuity after returning from Sabarkentha, but subsequently sent only a brief note saying that he had passed the papers to Mody.
+
+Raju explains that he had refrained from pursuing the matter while elections in Uttar Pradesh and Orissa were underway, fearing that he would be told to wait until they concluded. With the elections over, he asks Mody to consider an ex-gratia payment for his fourteen years of service at the Party's National Headquarters and requests a written reply.
+
 ## Key points
 
 - The letter is dated March 18, 1974, and is addressed to Piloo Mody, MP.

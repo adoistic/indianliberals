@@ -50,6 +50,12 @@ summary: |-
   Ganapaiah reports work to establish a dairy-industry service cooperative in Sakleshpur, organise a conference of Harijans and Girijans of Hassan District, and create a service cooperative for planters. He also provides detailed instructions for upcoming Forum of Free Enterprise activities, including a benefit drama, an essay-competition prize ceremony, ticket sales, meeting notices, and member mobilisation. The letter closes with a renewed appeal to Gopal Krishna to remain in office, alongside encouragement that the party will recover after April.
 ---
 
+## Summary
+
+This two-page letter, dated March 8, 1974, is written by N. K. Ganapaiah from the Swatantra Party’s Karnataka State organisation to G. M. Gopal Krishna. Ganapaiah urgently asks Gopal Krishna not to resign as Joint Secretary, warning that a resignation would cause the state party organisation to collapse at a moment when it is already weak. He describes his own travel to Jaipur for farmers’ meetings and explains that he cannot respond in detail because he is occupied with several organisational and agricultural initiatives in Hassan District.
+
+Ganapaiah reports work to establish a dairy-industry service cooperative in Sakleshpur, organise a conference of Harijans and Girijans of Hassan District, and create a service cooperative for planters. He also provides detailed instructions for upcoming Forum of Free Enterprise activities, including a benefit drama, an essay-competition prize ceremony, ticket sales, meeting notices, and member mobilisation. The letter closes with a renewed appeal to Gopal Krishna to remain in office, alongside encouragement that the party will recover after April.
+
 ## Key points
 
 - Ganapaiah strongly opposes G. M. Gopal Krishna’s proposed resignation from the Swatantra Party’s Karnataka State organisation.

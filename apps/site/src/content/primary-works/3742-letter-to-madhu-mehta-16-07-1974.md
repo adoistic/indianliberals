@@ -47,6 +47,10 @@ summary: |-
   This one-page letter, dated July 16, 1974, is addressed by Girish Munsih, General Secretary of the Swatantra Party in Maharashtra, to Madhu Mehta. It acknowledges Mehta’s letter of resignation, dated July 11, 1974, from the position of Maharashtra president of the Swatantra Party.
 ---
 
+## Summary
+
+This one-page letter, dated July 16, 1974, is addressed by Girish Munsih, General Secretary of the Swatantra Party in Maharashtra, to Madhu Mehta. It acknowledges Mehta’s letter of resignation, dated July 11, 1974, from the position of Maharashtra president of the Swatantra Party.
+
 ## Key points
 
 - The letter is dated July 16, 1974.

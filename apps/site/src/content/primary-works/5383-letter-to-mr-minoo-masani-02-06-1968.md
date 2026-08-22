@@ -48,6 +48,10 @@ summary: |-
   This handwritten letter, dated 2 June 1968 and written on Swatantra Party, Uttar Pradesh letterhead, is addressed by R. K. Amin to Minoo Masani. Amin encloses a copy of a letter to Rajaji and asks Masani to consider information concerning a proposed merger between the B.K.D. and the Swatantra Party. He refers to a recent visit and indicates that the proposal has generated interest, while expressing concern that some people may not yet have fully appreciated its significance.
 ---
 
+## Summary
+
+This handwritten letter, dated 2 June 1968 and written on Swatantra Party, Uttar Pradesh letterhead, is addressed by R. K. Amin to Minoo Masani. Amin encloses a copy of a letter to Rajaji and asks Masani to consider information concerning a proposed merger between the B.K.D. and the Swatantra Party. He refers to a recent visit and indicates that the proposal has generated interest, while expressing concern that some people may not yet have fully appreciated its significance.
+
 ## Key points
 
 - The letter is from R. K. Amin to Minoo Masani and is dated 2 June 1968.

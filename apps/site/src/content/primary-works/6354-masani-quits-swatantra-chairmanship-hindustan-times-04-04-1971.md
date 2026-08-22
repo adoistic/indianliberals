@@ -47,6 +47,10 @@ summary: |-
   This one-page PTI news report, published in the Hindustan Times and dated Bombay, April 3, reports that M. R. Masani resigned as chairman of the Swatantra Party while remaining a party member. It says he assured the party that he would continue advocating its philosophy and principles.
 ---
 
+## Summary
+
+This one-page PTI news report, published in the Hindustan Times and dated Bombay, April 3, reports that M. R. Masani resigned as chairman of the Swatantra Party while remaining a party member. It says he assured the party that he would continue advocating its philosophy and principles.
+
 ## Key points
 
 - M. R. Masani resigned as chairman of the Swatantra Party.

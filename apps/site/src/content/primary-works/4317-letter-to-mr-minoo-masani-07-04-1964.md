@@ -49,6 +49,12 @@ summary: |-
   Rajagopalachari also addresses arrangements for a proposed Bombay visit, saying that dates have not been finally fixed. He records an agreement to attend events at Eluru on 3 May and Bapatla on 7 June, humorously observing that callers continue to assume he is “a sturdy giant of forty-four.”
 ---
 
+## Summary
+
+In this letter dated 7 April 1964, C. Rajagopalachari acknowledges Minoo Masani’s letter of 6 April and reports on his forthcoming visit to the Aruppukkottai constituency from 9 to 12 April, ahead of polling on 15 April. Rajagopalachari says the campaign is supporting K. Velayudam Nair, identified as the lawyer of Muthuramalinga Thevar, and notes that the Forward Bloc has selected Nair because it could find no better candidate.
+
+Rajagopalachari also addresses arrangements for a proposed Bombay visit, saying that dates have not been finally fixed. He records an agreement to attend events at Eluru on 3 May and Bapatla on 7 June, humorously observing that callers continue to assume he is “a sturdy giant of forty-four.”
+
 ## Key points
 
 - Rajagopalachari acknowledges receipt of Masani’s letter of 6 April 1964.

@@ -55,6 +55,12 @@ summary: |-
   The resolution argues that, if unchecked, the government will increasingly resemble the system prevailing in Communist countries and will depart from the parliamentary form of government contemplated by the Constitution adopted in 1950. The document is moved from the Chair and contains no named individual author.
 ---
 
+## Summary
+
+This one-page resolution, adopted by the Swatantra Party’s General Council on May 28, 1966, warns that recent actions and procedures of the Union Government are transferring constitutional power from Parliament to the Congress Party organisation. It presents this as an attack on the Constitution and calls for electoral action to halt the trend.
+
+The resolution argues that, if unchecked, the government will increasingly resemble the system prevailing in Communist countries and will depart from the parliamentary form of government contemplated by the Constitution adopted in 1950. The document is moved from the Chair and contains no named individual author.
+
 ## Key points
 
 - The resolution was adopted by the General Council on May 28, 1966.

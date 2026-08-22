@@ -52,6 +52,12 @@ summary: |-
   Jain distinguishes this party position from his personal concern that Munshi's statement could suggest that the Swatantra Party lacks a unified policy on important national issues. He also notes that Prof. Ranga had strongly opposed continuation of the emergency in speeches during the Budget session. The page has no printed title or folio; the catalogued title is therefore descriptive rather than taken from the document.
 ---
 
+## Summary
+
+This single-page Swatantra Party Parliamentary Office letter, dated 26 June 1963 and signed by A. P. Jain, responds to a reported statement by K. M. Munshi supporting continuation of the emergency. Jain states that the Swatantra Party is opposed to continuing the emergency, particularly after the unilateral Chinese cease-fire and India's acceptance of the Colombo proposals. He argues that emergency powers are being used for partisan purposes, strengthening Jawaharlal Nehru and the Congress Party while suppressing the Opposition.
+
+Jain distinguishes this party position from his personal concern that Munshi's statement could suggest that the Swatantra Party lacks a unified policy on important national issues. He also notes that Prof. Ranga had strongly opposed continuation of the emergency in speeches during the Budget session. The page has no printed title or folio; the catalogued title is therefore descriptive rather than taken from the document.
+
 ## Key points
 
 - A. P. Jain writes from the Swatantra Party Parliamentary Office on 26 June 1963.

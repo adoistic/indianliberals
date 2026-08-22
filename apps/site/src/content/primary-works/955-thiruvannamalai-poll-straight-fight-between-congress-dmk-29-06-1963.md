@@ -52,6 +52,12 @@ summary: |-
   A shorter Times of India item reports K. M. Munshi’s denial that there was a split in the Swatantra Party over the language issue. Munshi says that the party’s constitution permits members to hold individual opinions on matters not covered by party principles, and that language policy was not among those principles. The page therefore documents both electoral competition involving Swatantra and an internal clarification about the party’s approach to linguistic politics.
 ---
 
+## Summary
+
+This one-page clipping file, dated 29 June 1963, brings together two contemporary newspaper reports concerning the Swatantra Party. The principal report, headed “Thiruvannamalai poll: Straight fight between Congress, DMK,” describes a Tamil Nadu Assembly by-election in which the Indian National Congress and the Dravida Munnetra Kazhagam were competing directly. It records intensive campaigning, identifies the Congress and DMK candidates, and notes that Swatantra leader C. Rajagopalachari appealed to voters not to support Congress.
+
+A shorter Times of India item reports K. M. Munshi’s denial that there was a split in the Swatantra Party over the language issue. Munshi says that the party’s constitution permits members to hold individual opinions on matters not covered by party principles, and that language policy was not among those principles. The page therefore documents both electoral competition involving Swatantra and an internal clarification about the party’s approach to linguistic politics.
+
 ## Key points
 
 - The page reports a direct Congress–DMK contest in the Thiruvannamalai Assembly by-election.

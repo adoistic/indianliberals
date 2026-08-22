@@ -50,6 +50,12 @@ summary: |-
   Moolgaokar explains that the companies' current financial stringency makes any sizeable investment in new Orissa projects unlikely, while leaving open limited possibilities such as producing ferro-vanadium, pellets, or pig iron for export. He asks Masani to assure the Chief Minister that the companies are sensitive to Orissa's needs and will reconsider the matter if a suitable opportunity arises.
 ---
 
+## Summary
+
+This personal and confidential letter, dated 13 December 1967, is from S. Moolgaokar of The Tata Iron and Steel Company Limited to Minoo Masani. It responds to Masani's earlier letter about the possibility of Tata Iron and Steel Company and Tata Engineering and Locomotive Company participating in Orissa's industrial development plans.
+
+Moolgaokar explains that the companies' current financial stringency makes any sizeable investment in new Orissa projects unlikely, while leaving open limited possibilities such as producing ferro-vanadium, pellets, or pig iron for export. He asks Masani to assure the Chief Minister that the companies are sensitive to Orissa's needs and will reconsider the matter if a suitable opportunity arises.
+
 ## Key points
 
 - The letter concerns Tata participation in Orissa's industrial development plans.

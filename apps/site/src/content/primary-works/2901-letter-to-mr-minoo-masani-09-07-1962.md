@@ -49,6 +49,12 @@ summary: |-
   The letter also discusses staffing and party affairs. Mahida reports that A. P. Jain has been selected on probation at Rs. 400 per month to assist the Delhi office, while noting his own impending work on the Customs Bill (1962) Select Committee. He closes by referring to Girirajkumari, Yuvrani of Majhar, who is disappointed by Masani's decision concerning her appointment in the Women's Section of the Central Office.
 ---
 
+## Summary
+
+This one-page English letter, dated 9 July 1962 and sent from Baroda by Narendras ingh Mahida, M.P., to M. R. Masani in Bombay, reports on the finances and administration of the sender's parliamentary group. Mahida says that Lok Sabha and Rajya Sabha members have begun contributing Rs. 40 per month, leaving the group with approximately Rs. 1,000 after two-and-a-half months of expenditure. He also promises to send minutes and an account statement covering meetings through 22 June 1962.
+
+The letter also discusses staffing and party affairs. Mahida reports that A. P. Jain has been selected on probation at Rs. 400 per month to assist the Delhi office, while noting his own impending work on the Customs Bill (1962) Select Committee. He closes by referring to Girirajkumari, Yuvrani of Majhar, who is disappointed by Masani's decision concerning her appointment in the Women's Section of the Central Office.
+
 ## Key points
 
 - The letter is dated 9 July 1962 and is addressed to M. R. Masani in Bombay.

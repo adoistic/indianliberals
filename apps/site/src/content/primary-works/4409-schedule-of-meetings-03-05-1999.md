@@ -47,6 +47,10 @@ summary: |-
   This one-page English office circular, dated May 3, 1999, announces the Rotary Club of Bombay Film City's meeting schedule for May 1999. It is addressed to “Dear Rotarians” and signed by RTN. Santosh Goel, Secretary. The circular lists meetings on May 5, 10, 19, and 26, including a talk by S. V. Raju, editor of Freedom First, on coalition governments; a joint meeting with the Rotary Club of Mumbai West Coast; a talk by PDG Rtn. Ramesh Khanna on Rotary in the next millennium; and a family meeting featuring games, music, and entertainment.
 ---
 
+## Summary
+
+This one-page English office circular, dated May 3, 1999, announces the Rotary Club of Bombay Film City's meeting schedule for May 1999. It is addressed to “Dear Rotarians” and signed by RTN. Santosh Goel, Secretary. The circular lists meetings on May 5, 10, 19, and 26, including a talk by S. V. Raju, editor of Freedom First, on coalition governments; a joint meeting with the Rotary Club of Mumbai West Coast; a talk by PDG Rtn. Ramesh Khanna on Rotary in the next millennium; and a family meeting featuring games, music, and entertainment.
+
 ## Key points
 
 - The circular is dated May 3, 1999, and concerns meetings during May 1999.

@@ -54,6 +54,12 @@ summary: |-
   The enclosure proposes a 60-member council representing Parliament, state legislatures and ministries, the All India Panchayat Parishad, voluntary organisations, universities, research institutions, eminent individuals, government officials and the press. Its terms of reference include advising on Panchayati Raj policy, reviewing implementation and the depth of decentralisation, educating public opinion, supporting local initiative, and recommending measures for training and research.
 ---
 
+## Summary
+
+In a letter dated 23 March 1964, S. K. Dey, India’s Minister of Community Development and Co-operation, tells M. R. Masani that Panchayati Raj has been established in ten states and is progressing in others. Dey explains that the movement’s development has prompted the Ministry to seek a national consultation reflecting the range of public opinion and invites Masani to serve on a proposed Consultative Council on Panchayati Raj.
+
+The enclosure proposes a 60-member council representing Parliament, state legislatures and ministries, the All India Panchayat Parishad, voluntary organisations, universities, research institutions, eminent individuals, government officials and the press. Its terms of reference include advising on Panchayati Raj policy, reviewing implementation and the depth of decentralisation, educating public opinion, supporting local initiative, and recommending measures for training and research.
+
 ## Key points
 
 - The letter reports that Panchayati Raj had been introduced in Rajasthan just over four years earlier and was fully established in ten states by March 1964.

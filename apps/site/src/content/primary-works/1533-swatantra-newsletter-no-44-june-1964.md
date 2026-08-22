@@ -58,3 +58,9 @@ summary: |-
   
   Other sections record tributes to Jawaharlal Nehru, commentary on Lal Bahadur Shastri’s accession as Prime Minister, Minoo Masani’s expectations of political and economic change, and organizational activity through the Swatantra Forum and state units. The closing pages document local campaigns and meetings in Andhra, Bombay, Delhi, Gujarat, Rajasthan, Mysore, Orissa, West Bengal, Madhya Pradesh, and Madras, especially protests against land-related constitutional amendments and advocacy of production, private enterprise, limited regulation, and a reallocation of the State’s economic role.
 ---
+
+## Summary
+
+The June 1964 issue of Swatantra Newsletter (No. 44), issued by the Central Office of the Swatantra Party, is dominated by the Party’s opposition to the Constitution (17th Amendment) Bill, which it portrays as an assault on constitutional protections, peasant property, the Supreme Court, and democratic procedure. Reports describe Swatantra members’ parliamentary resistance, the Bill’s passage by the Lok Sabha, efforts to oppose it in the Rajya Sabha, and the Party’s nationwide Kisan Day campaign. The issue also reproduces resolutions on Indo-Pakistan relations and refugees from East Pakistan, advocating reconciliation with Pakistan alongside protection for Kashmir’s people and assistance for displaced minorities.
+
+Other sections record tributes to Jawaharlal Nehru, commentary on Lal Bahadur Shastri’s accession as Prime Minister, Minoo Masani’s expectations of political and economic change, and organizational activity through the Swatantra Forum and state units. The closing pages document local campaigns and meetings in Andhra, Bombay, Delhi, Gujarat, Rajasthan, Mysore, Orissa, West Bengal, Madhya Pradesh, and Madras, especially protests against land-related constitutional amendments and advocacy of production, private enterprise, limited regulation, and a reallocation of the State’s economic role.

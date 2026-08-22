@@ -51,6 +51,12 @@ summary: |-
   The document is a brief item of constitutional and civil-liberties correspondence, recording preparatory work on a parliamentary petition during 1975. The letter notes an enclosure, but that enclosure is not included in the rendered page. The printed date is 1975, notwithstanding the conflicting year in the supplied filename.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to C. P. Daru is dated 6 October 1975. Masani acknowledges Daru’s earlier letter and forwards, as promised, a draft petition to Parliament. He explains that he has not yet had an opportunity to show the draft to Soli Sorabjee and asks Daru to review it and prepare a duplicated draft for discussion on 12 October.
+
+The document is a brief item of constitutional and civil-liberties correspondence, recording preparatory work on a parliamentary petition during 1975. The letter notes an enclosure, but that enclosure is not included in the rendered page. The printed date is 1975, notwithstanding the conflicting year in the supplied filename.
+
 ## Key points
 
 - M. R. Masani writes to C. P. Daru on 6 October 1975.

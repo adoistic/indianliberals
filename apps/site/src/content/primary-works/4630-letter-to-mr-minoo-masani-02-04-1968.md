@@ -49,6 +49,12 @@ summary: |-
   Patel expresses little hope for the future of the Gujarat party but says he is waiting to see whether the Central Party will show the moral courage to take bold steps in the party's interest. He also confirms Masani's Rajkot tour for 17 and 18 April, arranged after a telephone conversation with Kusumben Joshi, and asks him not to make further changes to his programme. Handwritten annotations at the foot of the page add comments about Masani's statement on the Rajya Sabha election and enclose a letter sent to Mr. Dandekar.
 ---
 
+## Summary
+
+In this letter dated 2 April 1968 from Rajkot, Ratibhai Patel writes to Minoo Masani about the Rajya Sabha election episode in Gujarat. Patel describes the outcome as damaging to the Swatantra Party and attributes it not to an unexpected revolt by individual legislators but to a deliberate, organised move by Gujarat's leadership, driven by communal intrigues and personal animosity toward Masani.
+
+Patel expresses little hope for the future of the Gujarat party but says he is waiting to see whether the Central Party will show the moral courage to take bold steps in the party's interest. He also confirms Masani's Rajkot tour for 17 and 18 April, arranged after a telephone conversation with Kusumben Joshi, and asks him not to make further changes to his programme. Handwritten annotations at the foot of the page add comments about Masani's statement on the Rajya Sabha election and enclose a letter sent to Mr. Dandekar.
+
 ## Key points
 
 - The letter is dated 2 April 1968 and was sent from Hathikhana Road, Rajkot (Saurashtra), to Minoo Masani.

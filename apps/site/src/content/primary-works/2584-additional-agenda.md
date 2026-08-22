@@ -49,6 +49,12 @@ summary: |-
   The document is an administrative record rather than an argumentative or policy paper. Its contents provide a small but concrete view of organisational governance, personnel arrangements, local seminar activity, a trade-related complaint, internal unit work, and meeting-related expenditure. The page does not print a date; 1971 is inferred only from the reference to Mr. Astik's leave until the end of December 1971.
 ---
 
+## Summary
+
+This single-page internal agenda records additional business to be taken up with the Chair's permission. The items concern leave requests for Mr. Astik and Mr. Shantilal Thar, a seminar in Colaba, a complaint from a retail grain dealers' association regarding Mr. Adasani of Santa Cruz, unit work, and approval of expenses for posters and banners. The agenda numbering visibly skips from item 2 to item 4, and handwritten check marks and annotations indicate action or review on several items.
+
+The document is an administrative record rather than an argumentative or policy paper. Its contents provide a small but concrete view of organisational governance, personnel arrangements, local seminar activity, a trade-related complaint, internal unit work, and meeting-related expenditure. The page does not print a date; 1971 is inferred only from the reference to Mr. Astik's leave until the end of December 1971.
+
 ## Key points
 
 - The page is headed “Additional agenda with the permission of the Chair.”

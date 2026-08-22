@@ -50,6 +50,10 @@ summary: |-
   This three-page correspondence bundle from July 1970 documents routine coordination within the Swatantra Party. In a 14 July letter to A. P. Jain, M. R. Masani confirms that he plans to travel to Delhi to attend the party's Executive Committee and General Body meetings, while questioning why party members were being asked to arrive twenty-four hours earlier than indicated in Professor Amin's letter.
 ---
 
+## Summary
+
+This three-page correspondence bundle from July 1970 documents routine coordination within the Swatantra Party. In a 14 July letter to A. P. Jain, M. R. Masani confirms that he plans to travel to Delhi to attend the party's Executive Committee and General Body meetings, while questioning why party members were being asked to arrive twenty-four hours earlier than indicated in Professor Amin's letter.
+
 ## Key points
 
 - M. R. Masani plans to travel to Delhi for the Swatantra Party's Executive Committee and General Body meetings on 26 July 1970.

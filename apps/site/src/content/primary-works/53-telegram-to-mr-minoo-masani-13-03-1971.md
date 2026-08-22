@@ -45,6 +45,10 @@ summary: |-
   This one-page document is an Indian Posts and Telegraphs Department telegram received in Bombay on 13 March 1971. It is addressed to Minoo Masani at 148 Mahatma Gandhi Road, Bombay, and carries the brief message: "SAD VERY SAD : MALTI AND J J !" The sender is not identified on the visible page; handwritten annotations and postal markings surround the typed telegram text.
 ---
 
+## Summary
+
+This one-page document is an Indian Posts and Telegraphs Department telegram received in Bombay on 13 March 1971. It is addressed to Minoo Masani at 148 Mahatma Gandhi Road, Bombay, and carries the brief message: "SAD VERY SAD : MALTI AND J J !" The sender is not identified on the visible page; handwritten annotations and postal markings surround the typed telegram text.
+
 ## Key points
 
 - The document is a one-page telegram form issued by the Indian Posts and Telegraphs Department.

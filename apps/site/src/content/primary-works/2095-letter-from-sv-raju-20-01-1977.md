@@ -50,6 +50,12 @@ summary: |-
   Raju reports that he has declined to attend the Madras meeting and urges Girish, Mr. Kejriwal, or K. H. Subramaniam to represent Maharashtra. He proposes an urgent meeting on Monday, January 24, to reach a consensus and communicate the outcome to Srikumar, asking recipients to attend and to contact additional colleagues. The document is an organisational communication focused on party coordination before the 1977 elections.
 ---
 
+## Summary
+
+In this one-page letter dated January 20, 1977, S. V. Raju writes to Girish about the Swatantra Party's response in Maharashtra to elections announced for March. He says Maharashtra must formulate a position, particularly in relation to current moves toward a single party, and argues that local party workers should meet before the Swatantra Party's National Executive meeting in Madras on January 25.
+
+Raju reports that he has declined to attend the Madras meeting and urges Girish, Mr. Kejriwal, or K. H. Subramaniam to represent Maharashtra. He proposes an urgent meeting on Monday, January 24, to reach a consensus and communicate the outcome to Srikumar, asking recipients to attend and to contact additional colleagues. The document is an organisational communication focused on party coordination before the 1977 elections.
+
 ## Key points
 
 - The letter is dated January 20, 1977, and is addressed to Girish.

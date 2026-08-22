@@ -47,6 +47,12 @@ summary: |-
   Masani also asks Bhargava to find out whether Professor Raj Krishna is still in Jaipur and, if not, to provide his whereabouts so Masani can contact him. The letter is a brief request for assistance in forwarding correspondence and establishing contact; it does not state the subject of Masani's earlier letter.
 ---
 
+## Summary
+
+In this letter dated 9 March 1968, M. R. Masani writes from 2 Tughlak Road, New Delhi, to I. S. Bhargava in Jaipur. Masani refers to an earlier letter sent on 29 February to Professor Raj Krishna of the Department of Economics at the University of Jaipur and encloses a copy, asking Bhargava to help ensure that it reaches him.
+
+Masani also asks Bhargava to find out whether Professor Raj Krishna is still in Jaipur and, if not, to provide his whereabouts so Masani can contact him. The letter is a brief request for assistance in forwarding correspondence and establishing contact; it does not state the subject of Masani's earlier letter.
+
 ## Key points
 
 - The letter is dated 9 March 1968 and is written from 2 Tughlak Road, New Delhi 11.

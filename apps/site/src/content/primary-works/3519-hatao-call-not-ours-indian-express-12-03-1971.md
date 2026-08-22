@@ -47,6 +47,12 @@ summary: |-
   Masani distances the Swatantra Party from the opposition slogan “Indira hatao,” saying that the party had never adopted it and that the electorate had now rejected it. The report adds that the party’s Central Parliamentary Board was scheduled to meet in New Delhi on 20 March to assess the election result and determine the party’s position toward the new Government and other Opposition parties.
 ---
 
+## Summary
+
+This Indian Express news report, dated 12 March 1971, records a statement by Swatantra Party President M. R. Masani following the electorate’s decisive vote of confidence in the Prime Minister and her party. Masani says that democrats must accept the verdict and its implications.
+
+Masani distances the Swatantra Party from the opposition slogan “Indira hatao,” saying that the party had never adopted it and that the electorate had now rejected it. The report adds that the party’s Central Parliamentary Board was scheduled to meet in New Delhi on 20 March to assess the election result and determine the party’s position toward the new Government and other Opposition parties.
+
 ## Key points
 
 - The report dates the statement to 12 March 1971 and identifies M. R. Masani as Swatantra Party President.

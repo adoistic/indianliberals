@@ -54,6 +54,12 @@ summary: |-
   The minutes then turn to Maharashtra's political situation following the Shiv Sena government's assumption of office under Manohar Joshi and its alliance with the Bharatiya Janata Party. Members expressed apprehensions about the prospects for decent and good governance and asked S. Ramachandran to take measures to reactivate the party. The record also notes a writ petition challenging section 29(A) of the Representation of the People Act, filed in the Bombay High Court on 15 December 1994, with Rajiv Patil appointed to argue the party's case; Raju joined L. R. Sampat as a second petitioner in his capacity as editor of Freedom First. The meeting ended with a vote of thanks to the chair. A handwritten annotation and a later handwritten date appear on the first and second rendered copies/pages, but their relationship to the printed minutes is not explained in the document.
 ---
 
+## Summary
+
+These three pages record the proceedings of the Swatantra Party Maharashtra Executive Committee meeting held on 8 May 1995 at the party office on Mahatma Gandhi Road, Bombay. S. V. Raju chaired the meeting; six members were listed as present, while J. Venkiteswaran was granted leave of absence on health grounds. The committee scrutinised and passed the draft income-and-expenditure account and balance sheet for the year ending 31 March 1995.
+
+The minutes then turn to Maharashtra's political situation following the Shiv Sena government's assumption of office under Manohar Joshi and its alliance with the Bharatiya Janata Party. Members expressed apprehensions about the prospects for decent and good governance and asked S. Ramachandran to take measures to reactivate the party. The record also notes a writ petition challenging section 29(A) of the Representation of the People Act, filed in the Bombay High Court on 15 December 1994, with Rajiv Patil appointed to argue the party's case; Raju joined L. R. Sampat as a second petitioner in his capacity as editor of Freedom First. The meeting ended with a vote of thanks to the chair. A handwritten annotation and a later handwritten date appear on the first and second rendered copies/pages, but their relationship to the printed minutes is not explained in the document.
+
 ## Key points
 
 - The Executive Committee met on 8 May 1995 at the Swatantra Party Maharashtra office in Bombay.

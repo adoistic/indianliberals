@@ -52,6 +52,12 @@ summary: |-
   The report records a contested resolution, allegations of procedural irregularities and physical disorder, and differing views about electoral strategy, party discipline, and the proposed merger. The typed resolution presents the institutional case against dissolution: it argues that Swatantra principles remain valid, that a new party formed around a vague general programme would lack a coherent national alternative, and that retaining separate opposition parties could prevent Congress and Jan Sangh from becoming the principal beneficiaries of a two-party system. The document ends by formally rejecting the proposal to dissolve the Swatantra Party.
 ---
 
+## Summary
+
+This two-page archival item combines an FPJ News Service report from New Delhi dated August 5, 1974, with a typed notice and proposed resolution for the Swatantra Party’s seventh national convention, held on August 4–5. The newspaper report describes a sharp disagreement at a proposed merger meeting involving the Swatantra Party and the Bharatiya Lok Dal. Piloo Mody supported dissolving the Swatantra Party, while Minoo Masani opposed the move and argued that the party should continue as a national alternative to Congress and anti-Communist politics.
+
+The report records a contested resolution, allegations of procedural irregularities and physical disorder, and differing views about electoral strategy, party discipline, and the proposed merger. The typed resolution presents the institutional case against dissolution: it argues that Swatantra principles remain valid, that a new party formed around a vague general programme would lack a coherent national alternative, and that retaining separate opposition parties could prevent Congress and Jan Sangh from becoming the principal beneficiaries of a two-party system. The document ends by formally rejecting the proposal to dissolve the Swatantra Party.
+
 ## Key points
 
 - The newspaper report covers a dispute over dissolving the Swatantra Party and merging it with the Bharatiya Lok Dal.

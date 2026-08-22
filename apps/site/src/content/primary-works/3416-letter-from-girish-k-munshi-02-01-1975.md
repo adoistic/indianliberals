@@ -50,6 +50,12 @@ summary: |-
   The letter principally objects to a proposal by the BLD to incorporate the “STAR” into its election symbol. Munshi asserts that the star had been allotted exclusively to the Swatantra Party and had served as its symbol since the 1962 elections. He asks the Election Commission to hear the Swatantra Party before making a final decision and warns that the party may take legal action if the star is allotted to another party.
 ---
 
+## Summary
+
+This one-page letter, dated 2 January 1975 and written from Bombay by Girish Munshi in his capacity as General Secretary of the Swatantra Party, informs the Chief Election Commissioner about the party’s continued operation following a General Council meeting in Madras on 8 December 1974. It reports the election of G. K. Sundaram as President and the relocation of the party’s national headquarters to Egmore, Madras.
+
+The letter principally objects to a proposal by the BLD to incorporate the “STAR” into its election symbol. Munshi asserts that the star had been allotted exclusively to the Swatantra Party and had served as its symbol since the 1962 elections. He asks the Election Commission to hear the Swatantra Party before making a final decision and warns that the party may take legal action if the star is allotted to another party.
+
 ## Key points
 
 - The Swatantra Party reports that its General Council met in Madras on 8 December 1974.

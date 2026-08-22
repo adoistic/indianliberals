@@ -47,6 +47,12 @@ summary: |-
   The message proposes that Jain borrow a list from Piloo Mody in the meantime and refers to a copy being sent to Piloo Mody. Several handwritten annotations appear below the typed message, including routing or follow-up notes, but their full wording is difficult to decipher. The page is an administrative communication rather than a substantive political or theoretical text.
 ---
 
+## Summary
+
+This single-page English telex/message sheet is headed “MESSAGE TO MR. MASANI FROM MR. RAJU.” The sender acknowledges receipt of a request for addresses and explains that it is impossible to dispatch the list that day. He says that a complete list with addresses will instead be sent by registered post on Saturday, with an additional list to be air-freighted the following day.
+
+The message proposes that Jain borrow a list from Piloo Mody in the meantime and refers to a copy being sent to Piloo Mody. Several handwritten annotations appear below the typed message, including routing or follow-up notes, but their full wording is difficult to decipher. The page is an administrative communication rather than a substantive political or theoretical text.
+
 ## Key points
 
 - The sheet is a telex/message from Mr. Raju to Mr. Masani.

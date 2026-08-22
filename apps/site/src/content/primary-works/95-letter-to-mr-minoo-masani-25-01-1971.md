@@ -52,6 +52,12 @@ summary: |-
   The pages include associated Gujarati-script notes and copied material, some of which appears to concern political and organisational matters. The English letter invokes national service, electoral success, constitutional or democratic commitments, and the importance of practical leadership. It also refers to Jayaprakash Narayan, Nani Palkhivala, and S. K. Patil in connection with addresses or public events. Because several pages are difficult to decipher and the Gujarati passages have not been translated with confidence, this summary is limited to the legible English correspondence and clearly identifiable references.
 ---
 
+## Summary
+
+These ten handwritten pages, dated 25 January 1971, comprise an English letter addressed “My dear Minoobhai.” The writer congratulates the recipient on a recent success, praises his political and public work, and offers practical encouragement. The letter refers to Gandhi and Rajaji, expresses concern that India may lose direction, and urges continued effort for the country’s welfare. It also mentions a forthcoming or recent meeting, an autobiography, and the preparation of a speech or message.
+
+The pages include associated Gujarati-script notes and copied material, some of which appears to concern political and organisational matters. The English letter invokes national service, electoral success, constitutional or democratic commitments, and the importance of practical leadership. It also refers to Jayaprakash Narayan, Nani Palkhivala, and S. K. Patil in connection with addresses or public events. Because several pages are difficult to decipher and the Gujarati passages have not been translated with confidence, this summary is limited to the legible English correspondence and clearly identifiable references.
+
 ## Key points
 
 - The document is a handwritten English letter dated 25 January 1971, addressed to Minoo Masani.

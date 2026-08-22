@@ -49,6 +49,12 @@ summary: |-
   The second letter, addressed to Sir H. P. Mody, reiterates that Saurashtra and Kutch have a separate Swatantra Party convenor and asks that Anantani coordinate with Joshi to organise party membership in Kutch. Murthy argues that Kutch should be treated as a separate district for party purposes, noting that the Indian National Congress also regarded it as such. The correspondence records early regional party-building and administrative decisions within the newly formed Swatantra Party.
 ---
 
+## Summary
+
+This two-page item comprises related Swatantra Party office correspondence dated 19 August 1959. In the first letter, R. V. Murthy responds to B. N. Anantani’s interest in the party and proposed organising support among the people of Kutch. He directs Anantani to contact M. P. Joshi, identified as a former Speaker of Saurashtra State and the party’s regional convenor, regarding the establishment of a separate Kutch branch.
+
+The second letter, addressed to Sir H. P. Mody, reiterates that Saurashtra and Kutch have a separate Swatantra Party convenor and asks that Anantani coordinate with Joshi to organise party membership in Kutch. Murthy argues that Kutch should be treated as a separate district for party purposes, noting that the Indian National Congress also regarded it as such. The correspondence records early regional party-building and administrative decisions within the newly formed Swatantra Party.
+
 ## Key points
 
 - The correspondence is dated 19 August 1959 and appears on Swatantra Party Bombay Office letterhead.

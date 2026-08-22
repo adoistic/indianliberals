@@ -53,6 +53,10 @@ summary: |-
   This three-page correspondence file from April–May 1975 records Swatantra Party communications about electoral litigation and party organisation. A. Duraiswamy urges V. S. Srikumar to challenge the validity of Gujarat’s electoral rolls in the Gujarat High Court before notification of the state assembly election, arguing that the rolls were prepared using the 1961 census rather than the 1971 census and therefore conflicted with constitutional requirements. He presents the case as urgent and as a special political mission for the party.
 ---
 
+## Summary
+
+This three-page correspondence file from April–May 1975 records Swatantra Party communications about electoral litigation and party organisation. A. Duraiswamy urges V. S. Srikumar to challenge the validity of Gujarat’s electoral rolls in the Gujarat High Court before notification of the state assembly election, arguing that the rolls were prepared using the 1961 census rather than the 1971 census and therefore conflicted with constitutional requirements. He presents the case as urgent and as a special political mission for the party.
+
 ## Key points
 
 - A. Duraiswamy calls for immediate litigation in the Gujarat High Court concerning the state’s electoral rolls.

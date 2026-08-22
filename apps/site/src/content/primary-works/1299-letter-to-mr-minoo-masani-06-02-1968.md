@@ -50,6 +50,12 @@ summary: |-
   Singh explains that the bodies were constituted on a functional basis and that general industry and commerce interests are already well represented. He says he has no objection to including Members of Parliament from other groups, but notes that the number of groups makes it impossible to accommodate everyone. He offers a specific compromise: if opposition groups agree on two members, he will include them on the Advisory Council on Trade.
 ---
 
+## Summary
+
+This one-page letter, dated February 6, 1968, is written by the Minister of Commerce, whose handwritten signature appears to read Dinesh Singh, to Minoo Masani. Singh responds to Masani's letter of February 3 concerning the composition of the Board of Trade and the Advisory Council on Trade.
+
+Singh explains that the bodies were constituted on a functional basis and that general industry and commerce interests are already well represented. He says he has no objection to including Members of Parliament from other groups, but notes that the number of groups makes it impossible to accommodate everyone. He offers a specific compromise: if opposition groups agree on two members, he will include them on the Advisory Council on Trade.
+
 ## Key points
 
 - The letter is dated February 6, 1968, and is issued from the Minister of Commerce in New Delhi.

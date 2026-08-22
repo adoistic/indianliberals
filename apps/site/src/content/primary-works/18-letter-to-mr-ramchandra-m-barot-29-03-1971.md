@@ -48,6 +48,12 @@ summary: |-
   Masani closes by thanking Barot for encouraging him to maintain the position he had taken. The letter is a brief statement of political resolve and personal appreciation.
 ---
 
+## Summary
+
+In this letter dated 26 March 1971, Minoo Masani thanks Ramachandra M. Barot for a postcard and for appreciating his refusal to change his constituency despite political pressure. Masani contrasts his decision with that of two other men mentioned by Barot, who had found it expedient to change theirs.
+
+Masani closes by thanking Barot for encouraging him to maintain the position he had taken. The letter is a brief statement of political resolve and personal appreciation.
+
 ## Key points
 
 - Masani acknowledges a postcard sent by Ramachandra M. Barot.

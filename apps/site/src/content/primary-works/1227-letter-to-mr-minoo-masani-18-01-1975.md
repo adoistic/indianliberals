@@ -48,6 +48,12 @@ summary: |-
   Munshi urges Masani to make it convenient to attend, describing the meeting as "an important one" with "many issues facing the Party today" to be discussed. The letter carries a handwritten reference number (1227) and what appears to be a receipt annotation ("rcd 21.1.75"), suggesting it entered Masani's file two days before the scheduled meeting. It is a working piece of internal Swatantra Party correspondence from a period when the Party — formally dissolved in 1974 per authority-file records — was still convening its executive, and it captures the routine machinery of that late-stage organisational life rather than any programmatic statement.
 ---
 
+## Summary
+
+This one-page letter on Swatantra Party letterhead, dated 18th January 1975, is a brief administrative note from Girish Munshi to Minoo Masani (addressed as "Mr. M. R. Masani") at 148 Mahatma Gandhi Road, Bombay. Munshi reminds Masani that the Party's National Executive Meeting will be held on Wednesday, 22nd January 1975, at 10:00 a.m., at his residence on the fourth floor of Bharatiya Vidya Bhavan, and notes that the circular from the National Headquarters in Madras should already have reached him.
+
+Munshi urges Masani to make it convenient to attend, describing the meeting as "an important one" with "many issues facing the Party today" to be discussed. The letter carries a handwritten reference number (1227) and what appears to be a receipt annotation ("rcd 21.1.75"), suggesting it entered Masani's file two days before the scheduled meeting. It is a working piece of internal Swatantra Party correspondence from a period when the Party — formally dissolved in 1974 per authority-file records — was still convening its executive, and it captures the routine machinery of that late-stage organisational life rather than any programmatic statement.
+
 ## Key points
 
 - Letter on Swatantra Party letterhead (Sassoon Building, 143 Mahatma Gandhi Road, Bombay-1), dated 18th January 1975.

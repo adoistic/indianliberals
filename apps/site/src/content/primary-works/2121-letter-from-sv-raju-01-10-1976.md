@@ -51,6 +51,12 @@ summary: |-
   Raju is unable to suggest another lawyer from Bombay to join the panel, questioning whether anyone in the present climate would dare to express dissent. He also explains that he cannot travel to Madras because the trip would involve both leave and expense. The page is a single piece of correspondence; no further material is present.
 ---
 
+## Summary
+
+In this letter dated October 1, 1976, S. V. Raju replies to V. S. Srikumar about the proposed constitution of a panel of lawyers to study the Constitution Amendment Bill. Raju says that an enclosed article by Mr. Ranani on the first page of Freedom First largely expresses his own view of the amendment. He notes that Girish is preparing a detailed note and intends to bring it to Madras on October 9.
+
+Raju is unable to suggest another lawyer from Bombay to join the panel, questioning whether anyone in the present climate would dare to express dissent. He also explains that he cannot travel to Madras because the trip would involve both leave and expense. The page is a single piece of correspondence; no further material is present.
+
 ## Key points
 
 - Raju responds to Srikumar's letter of September 14.

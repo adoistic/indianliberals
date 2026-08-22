@@ -50,6 +50,12 @@ summary: |-
   Masani argues that the party must become younger, more dynamic, and more effective. He cautions against relying on the older generation and calls for the recruitment of new people who can present the party's message to the public. He closes by asking Rajagopalachari to consider his recommendations before arriving in Bombay, where Masani proposes discussing them on the evening of 29 September. The scan is a single typed office letter; no formal title, publication details, or additional correspondence is present.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to C. Rajagopalachari, dated 22 September 1964, reports on Masani's recent visit and his discussions about the long-term future of the Swatantra Party. Masani says that he and Dhananjay (?) returned encouraged by the welcome they received from people who had previously stayed away from the party, including senior lawyers and other professionals. He also identifies a new opening for attracting members from outside the existing support base, especially district presidents and secretaries who, he writes, would stand by the party if recent disputes were handled properly.
+
+Masani argues that the party must become younger, more dynamic, and more effective. He cautions against relying on the older generation and calls for the recruitment of new people who can present the party's message to the public. He closes by asking Rajagopalachari to consider his recommendations before arriving in Bombay, where Masani proposes discussing them on the evening of 29 September. The scan is a single typed office letter; no formal title, publication details, or additional correspondence is present.
+
 ## Key points
 
 - Masani reports that his visit left him and a colleague encouraged about the Swatantra Party's long-term prospects.

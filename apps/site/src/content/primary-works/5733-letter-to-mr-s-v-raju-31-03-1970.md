@@ -45,6 +45,12 @@ summary: |-
   The letter criticizes the rejoinder for being too long, argumentative, and almost apologetic. It concludes that the attached commentary has itself become a lengthy and defensive explanation in response to Deshmukh’s “comments,” and recommends that the comments on Deshmukh’s explanation be made very brief.
 ---
 
+## Summary
+
+This one-page letter, headed “MR. RAJU:” and dated 31 March 1970, comments on an attached commentary concerning Mr. C. D. Deshmukh’s explanation. The writer argues that the commentary is essentially a rejoinder to Deshmukh and that it presents the reader as though the reader were a judge before whom allegations and counter-allegations are being heard.
+
+The letter criticizes the rejoinder for being too long, argumentative, and almost apologetic. It concludes that the attached commentary has itself become a lengthy and defensive explanation in response to Deshmukh’s “comments,” and recommends that the comments on Deshmukh’s explanation be made very brief.
+
 ## Key points
 
 - The attached commentary is characterized as a rejoinder to Mr. C. D. Deshmukh’s explanation.

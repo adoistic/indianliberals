@@ -54,6 +54,12 @@ summary: |-
   The letter then offers a sardonic portrait of Delhi under Indira Gandhi: public conversation revolves around “The Lady,” officials and admirers display exaggerated deference, and political power is concentrated in her hands. The writer argues that Delhi’s political class recognises the regime’s falsehoods but continues to accommodate it, while the Cabinet merely waits to discover what Indira wants before speaking. The closing warning is that such a regime cannot produce stability, even if ordinary life and the roses of Delhi temporarily appear undisturbed.
 ---
 
+## Summary
+
+This two-page letter, dated 20 December 1976 and signed by Masani, sharply criticises the state of the Indian press during the Emergency. The writer recounts learning that the Congress (Organisation) office in New Delhi had been searched, equipment confiscated, and its long-serving office secretary arrested and detained, yet no Delhi newspaper reported the incident. The episode is presented as evidence that the press had abandoned its essential function of informing citizens and no longer reflected the truth about events in India.
+
+The letter then offers a sardonic portrait of Delhi under Indira Gandhi: public conversation revolves around “The Lady,” officials and admirers display exaggerated deference, and political power is concentrated in her hands. The writer argues that Delhi’s political class recognises the regime’s falsehoods but continues to accommodate it, while the Cabinet merely waits to discover what Indira wants before speaking. The closing warning is that such a regime cannot produce stability, even if ordinary life and the roses of Delhi temporarily appear undisturbed.
+
 ## Key points
 
 - The writer argues that the Indian press failed to report the search of a Congress (Organisation) office and the detention of its secretary.

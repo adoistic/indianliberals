@@ -46,6 +46,12 @@ summary: |-
   The substantive purpose of the letter is to inform Masani that Satyanarayana intends to contest the forthcoming Lok Sabha election from the Anakapalli parliamentary constituency on a Swatantra Party ticket, and to seek Masani's advice, guidance, and a meeting in person. He appeals to the residual local reputation of the Swatantra Party in the constituency, claims continuing close contact with the electorate there, and asks Masani to indicate a place and time for a personal meeting before the election. The letter closes with a request for a prompt reply and is signed "Ex. field organiser parliamentary constituency Anakapalli."
 ---
 
+## Summary
+
+This is a two-page handwritten letter dated 1 October 1979 from B. Satyanarayana, President of the Taluk Backward Class and Weaker Section's Association in Narsipatnam (Visakhapatnam District, Andhra Pradesh), addressed to Minoo Masani at his 148 Mahatma Gandhi Road, Bombay residence. Writing on association letterhead, Satyanarayana reintroduces himself to Masani as a former Swatantra Party worker who served as field organizer in the Anakapalli parliamentary constituency between 1965 and 1967, when Masani led the party nationally.
+
+The substantive purpose of the letter is to inform Masani that Satyanarayana intends to contest the forthcoming Lok Sabha election from the Anakapalli parliamentary constituency on a Swatantra Party ticket, and to seek Masani's advice, guidance, and a meeting in person. He appeals to the residual local reputation of the Swatantra Party in the constituency, claims continuing close contact with the electorate there, and asks Masani to indicate a place and time for a personal meeting before the election. The letter closes with a request for a prompt reply and is signed "Ex. field organiser parliamentary constituency Anakapalli."
+
 ## Key points
 
 - Handwritten personal letter on the printed letterhead of the Taluk Backward Class and Weaker Section's Association, Narsipatnam (Vizag Dt.), established 18-1-74.

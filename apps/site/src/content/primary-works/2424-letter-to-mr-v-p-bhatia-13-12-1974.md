@@ -49,6 +49,12 @@ summary: |-
   Raju recalls that the vehicles had been sold and explains that the relevant sale documents must be produced to the R.T.O. so that clearance can be issued and passed on to the Collector's Office. He also instructs Bhatia that future communications concerning jeeps should be handled at Bhatia's end rather than forwarded to Raju or Mr. Masani. The letter encloses a copy of the Collector of Bombay's letter and its enclosure.
 ---
 
+## Summary
+
+In this one-page letter dated December 13, 1974, S. V. Raju writes to V. P. Bhatia, Executive Secretary of the Swatantra Party, about motor-vehicle tax claims issued by the Collector's Office. Raju identifies vehicles numbered 4095, 4096, 4092, and 4024 and asks Bhatia to pursue the matter and send the relevant letter from the Regional Transport Office to the Collector.
+
+Raju recalls that the vehicles had been sold and explains that the relevant sale documents must be produced to the R.T.O. so that clearance can be issued and passed on to the Collector's Office. He also instructs Bhatia that future communications concerning jeeps should be handled at Bhatia's end rather than forwarded to Raju or Mr. Masani. The letter encloses a copy of the Collector of Bombay's letter and its enclosure.
+
 ## Key points
 
 - The letter is dated December 13, 1974, and is addressed to V. P. Bhatia, Executive Secretary of the Swatantra Party.

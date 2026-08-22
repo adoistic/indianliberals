@@ -48,6 +48,12 @@ summary: |-
   The letter urges the party to make an appropriate decision so that it can close its ranks and resume united work under the leadership of its respected leaders. The document records an internal party crisis and an appeal for organisational unity; no further details of the dispute or its outcome are included on the page.
 ---
 
+## Summary
+
+This one-page letter, dated 2 April 1968 and signed by Vasanji Kheraj Thakkar, is addressed to N. Dandeker, General Secretary of the Swatantra Party. Thakkar requests an emergency meeting of the party’s General Council in response to Minoo Masani’s resignation from the National Executive and the Central Parliamentary Board.
+
+The letter urges the party to make an appropriate decision so that it can close its ranks and resume united work under the leadership of its respected leaders. The document records an internal party crisis and an appeal for organisational unity; no further details of the dispute or its outcome are included on the page.
+
 ## Key points
 
 - The letter is dated 2 April 1968 and is addressed to N. Dandeker in his capacity as General Secretary of the Swatantra Party.

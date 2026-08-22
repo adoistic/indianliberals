@@ -48,6 +48,10 @@ summary: |-
   This 13 March 1968 confidential letter from Ratibhai Patel to Minoo Masani reports dissent within the Gujarat Swatantra Party over the proposed candidacy of Babubhai Vaidya for the Rajya Sabha. Patel argues that an earlier commitment by the party leadership to support Vaidya should be honoured, despite objections that Vaidya had criticised the party, opposed Dr. Antani in the 1966 Rajya Sabha election, and was not formally a Swatantra Party member. The letter describes competing names, lobbying among Gujarat MLAs, and concern that the Central Party and Gujarat Party might adopt conflicting positions.
 ---
 
+## Summary
+
+This 13 March 1968 confidential letter from Ratibhai Patel to Minoo Masani reports dissent within the Gujarat Swatantra Party over the proposed candidacy of Babubhai Vaidya for the Rajya Sabha. Patel argues that an earlier commitment by the party leadership to support Vaidya should be honoured, despite objections that Vaidya had criticised the party, opposed Dr. Antani in the 1966 Rajya Sabha election, and was not formally a Swatantra Party member. The letter describes competing names, lobbying among Gujarat MLAs, and concern that the Central Party and Gujarat Party might adopt conflicting positions.
+
 ## Key points
 
 - The Gujarat State Executive debated Babubhai Vaidya's candidacy for the Rajya Sabha on behalf of the Swatantra Party.

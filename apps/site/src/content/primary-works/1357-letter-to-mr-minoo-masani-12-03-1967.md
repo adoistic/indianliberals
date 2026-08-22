@@ -52,6 +52,12 @@ summary: |-
   Gandhi presents the meeting as an opportunity for party leaders to meet one another and exchange views on matters of common interest. She also suggests maintaining similar contact throughout the parliamentary session if the arrangement proves useful. The letter ends with a formal request that Masani join the proposed meeting.
 ---
 
+## Summary
+
+In this letter dated 12 March 1967, from the Prime Minister’s House in New Delhi, Indira Gandhi invites Minoo Masani to an informal meeting of leaders of different parliamentary parties. The meeting is proposed for 15 March, ahead of the new Lok Sabha’s first session on 16 March and the opening session of the newly reconstituted Parliament.
+
+Gandhi presents the meeting as an opportunity for party leaders to meet one another and exchange views on matters of common interest. She also suggests maintaining similar contact throughout the parliamentary session if the arrangement proves useful. The letter ends with a formal request that Masani join the proposed meeting.
+
 ## Key points
 
 - Indira Gandhi wrote the letter from the Prime Minister’s House, New Delhi, on 12 March 1967.

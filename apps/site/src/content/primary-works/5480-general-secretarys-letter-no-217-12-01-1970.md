@@ -57,6 +57,12 @@ summary: |-
   The circular proposes detailed targets: Rs 3,000 per month for a State Executive, Rs 600 for a District Committee, and Rs 100 for a Primary Unit. Suggested sources include recurring contributions from businesses and sympathisers, sales of party literature, collection boxes, an annual Flag Day, small civic contributions following grievance assistance, committee-member donations, subscription dinners, and souvenir advertisements. It also discusses the tax treatment of political-party donations, citing Finance Ministry and income-tax guidance that donations and subscriptions are not taxable income, while income from property or investments remains taxable. The packet concludes with a March 1970 Bombay-region response stating that several measures are already in practice, followed by handwritten copies and notes concerning implementation.
 ---
 
+## Summary
+
+This January 1970 Swatantra Party circular, signed by General Secretary R. C. Cooper, sets out a decentralised system for financing party work after legislation barred company contributions to political parties. It assigns fundraising responsibilities to State Executives, District Committees, and Primary Units, and recommends local fund-raising committees, regularly updated donor lists, active-worker involvement, and the principle of collecting according to contributors’ capacity to pay.
+
+The circular proposes detailed targets: Rs 3,000 per month for a State Executive, Rs 600 for a District Committee, and Rs 100 for a Primary Unit. Suggested sources include recurring contributions from businesses and sympathisers, sales of party literature, collection boxes, an annual Flag Day, small civic contributions following grievance assistance, committee-member donations, subscription dinners, and souvenir advertisements. It also discusses the tax treatment of political-party donations, citing Finance Ministry and income-tax guidance that donations and subscriptions are not taxable income, while income from property or investments remains taxable. The packet concludes with a March 1970 Bombay-region response stating that several measures are already in practice, followed by handwritten copies and notes concerning implementation.
+
 ## Key points
 
 - The circular responds to the legal prohibition on company contributions by distributing fundraising across the party’s organisational structure.

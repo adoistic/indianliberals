@@ -45,6 +45,10 @@ summary: |-
   This one-page official letter from the Lok Sabha Secretariat, dated 21 November 1967, is addressed to Shri M. R. Masani, M.P. It concerns Short Notice Question No. 55 regarding the High Commissioner-designate to the U.K.
 ---
 
+## Summary
+
+This one-page official letter from the Lok Sabha Secretariat, dated 21 November 1967, is addressed to Shri M. R. Masani, M.P. It concerns Short Notice Question No. 55 regarding the High Commissioner-designate to the U.K.
+
 ## Key points
 
 - The letter was issued by the Lok Sabha Secretariat in New Delhi on 21 November 1967.

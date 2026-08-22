@@ -48,6 +48,12 @@ summary: |-
   Koppiker argues that Masani should have consulted the Bombay Regional Council before resigning and notes that colleagues serving as accredited representatives at two All India bodies share his bewilderment. He requests that Masani explain the matter at the next Regional Council meeting, expected to take place during the last week of the following month.
 ---
 
+## Summary
+
+This one-page letter, dated 31 March 1968, is from Prabhaker S. Koppiker of Bandra, Bombay, to M. R. Masani, M.P. Koppiker expresses surprise that Masani has resigned from the National Executive and Central Parliamentary Board because of events in Gujarat, while acknowledging that the resignation was intended to protest indiscipline within the organisation.
+
+Koppiker argues that Masani should have consulted the Bombay Regional Council before resigning and notes that colleagues serving as accredited representatives at two All India bodies share his bewilderment. He requests that Masani explain the matter at the next Regional Council meeting, expected to take place during the last week of the following month.
+
 ## Key points
 
 - The letter is dated 31 March 1968 and is addressed to M. R. Masani, M.P., in Bombay.

@@ -58,6 +58,12 @@ summary: |-
   The first record additionally documents nominations for debates on Kerala supplementary grants and a white paper concerning pro-Peking Communists, arrangements for collecting contributions toward a portrait of Jawaharlal Nehru, and a proposed general-body meeting to discuss the Kerala situation and the Budget. The second record, dated 3 March 1965, summarizes discussions between the Minister of Parliamentary Affairs and representatives of Congress and opposition groups. It sets ministry-specific time allocations for discussion of Demands for Grants, calls for an additional hour of parliamentary business each day, addresses the transmission of appropriation and finance bills between the Lok Sabha and Rajya Sabha, and records a request that the Lok Sabha extend its sittings for a week.
 ---
 
+## Summary
+
+This four-page office record contains two sets of parliamentary proceedings issued by the Swatantra Party Parliamentary Office in New Delhi. The first, dated 8 March 1965, records a meeting of the party’s Executive Committee. Members agreed to support the Swatantra Party’s no-confidence motion against the Council of Ministers, while not supporting motions brought by the Communist Party or the Socialist Party. The meeting also assigned party speakers to debates on the Demands for Grants across a wide range of ministries, including commerce, defence, education, external affairs, finance, home affairs, industry, transport, and works and housing.
+
+The first record additionally documents nominations for debates on Kerala supplementary grants and a white paper concerning pro-Peking Communists, arrangements for collecting contributions toward a portrait of Jawaharlal Nehru, and a proposed general-body meeting to discuss the Kerala situation and the Budget. The second record, dated 3 March 1965, summarizes discussions between the Minister of Parliamentary Affairs and representatives of Congress and opposition groups. It sets ministry-specific time allocations for discussion of Demands for Grants, calls for an additional hour of parliamentary business each day, addresses the transmission of appropriation and finance bills between the Lok Sabha and Rajya Sabha, and records a request that the Lok Sabha extend its sittings for a week.
+
 ## Key points
 
 - The Swatantra Party Executive Committee decided to support its own no-confidence motion against the Council of Ministers but not Communist or SSP motions.

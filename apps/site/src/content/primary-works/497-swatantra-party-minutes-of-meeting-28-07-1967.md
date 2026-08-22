@@ -55,6 +55,12 @@ summary: |-
   The minutes record an internal debate about whether Swatantra Party members should be free to express views in the House that differed from the party's position. The consensus was against granting the party the broader freedom available to the Congress, while the Leader clarified that members remained unrestricted when speaking on subjects outside the party's 21 principles. The document also reports on Naxalbari and West Bengal, attributing the unrest to political activity by the Communist Party (Marxist), rejecting the idea that it represented an agitation against jotedars in favour of agrarian reform, and describing three possible governmental responses. Members were instructed not to give notice of bills or resolutions without prior party permission.
 ---
 
+## Summary
+
+This two-page office record, issued by the Swatantra Party Parliamentary Office on 28 July 1967, reports on a General Body meeting held in Parliament House, New Delhi, on 25 July. It lists the members present and assigns speakers to discussions on the Indian Official Secrets (Amendment) Bill, a motion concerning the annulment of police forces, and the Madhya Pradesh crisis. The record also notes a brief discussion of the Hazare report and the Monopolies Enquiry Commission report, with further consideration postponed to the next Executive Committee meeting.
+
+The minutes record an internal debate about whether Swatantra Party members should be free to express views in the House that differed from the party's position. The consensus was against granting the party the broader freedom available to the Congress, while the Leader clarified that members remained unrestricted when speaking on subjects outside the party's 21 principles. The document also reports on Naxalbari and West Bengal, attributing the unrest to political activity by the Communist Party (Marxist), rejecting the idea that it represented an agitation against jotedars in favour of agrarian reform, and describing three possible governmental responses. Members were instructed not to give notice of bills or resolutions without prior party permission.
+
 ## Key points
 
 - The General Body meeting took place on 25 July 1967 in Room No. 50, Parliament House, New Delhi.

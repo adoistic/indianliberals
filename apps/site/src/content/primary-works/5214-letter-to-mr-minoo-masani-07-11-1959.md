@@ -52,6 +52,12 @@ summary: |-
   The letter proposes a coordinated public campaign built around what the writer calls “Injection,” “Inculcation,” “Indoctrination,” and “Inspiration,” directed toward defending liberty, democracy, territorial sovereignty, and related political ideals. He offers to provide a “lead on the charger” for a “Peoples Enlightenment Campaign,” supported by a public-relations bureau and a subscription drive, while asking Masani for his thoughts and proposing to begin before Christmas. The page also contains substantial handwritten annotations and a signature, much of which is not legible in the rendered image.
 ---
 
+## Summary
+
+This one-page letter from Ram Rai Mohan Rai to Minoo Masani, written in the context of 1959 political developments, responds to Masani's Madras speech about the Swatantra Party. The writer suggests that the speech may embarrass Jawaharlal Nehru, but argues that its immediate political reach is extremely limited. He questions why liberal opponents of the Congress should continue using pre-1939 methods of propaganda when both Fascist and Communist movements have demonstrated the effectiveness of mass contact.
+
+The letter proposes a coordinated public campaign built around what the writer calls “Injection,” “Inculcation,” “Indoctrination,” and “Inspiration,” directed toward defending liberty, democracy, territorial sovereignty, and related political ideals. He offers to provide a “lead on the charger” for a “Peoples Enlightenment Campaign,” supported by a public-relations bureau and a subscription drive, while asking Masani for his thoughts and proposing to begin before Christmas. The page also contains substantial handwritten annotations and a signature, much of which is not legible in the rendered image.
+
 ## Key points
 
 - The letter discusses Minoo Masani's Madras speech concerning the newly formed Swatantra Party.

@@ -46,6 +46,12 @@ summary: |-
   The letter closes with a concise statement of Masani’s outlook: he describes himself as optimistic over the long term but pessimistic in the short term. The page contains no further discussion of the proposed meeting or its subject.
 ---
 
+## Summary
+
+In this letter dated 21 March 1972, Minoo Masani thanks H. M. Patel for an invitation to a discussion in Delhi on the morning of 26 March. Masani regrets that he will be unable to attend but expresses hope that the discussions will be fruitful.
+
+The letter closes with a concise statement of Masani’s outlook: he describes himself as optimistic over the long term but pessimistic in the short term. The page contains no further discussion of the proposed meeting or its subject.
+
 ## Key points
 
 - Minoo Masani wrote the letter on 21 March 1972.

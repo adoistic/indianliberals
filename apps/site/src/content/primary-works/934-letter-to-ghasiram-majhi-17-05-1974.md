@@ -49,6 +49,10 @@ summary: |-
   In this letter dated May 17, 1974, M. R. Masani writes to Ghasiram Majhi, General Secretary of the Swatantra Party's Orissa Unit, acknowledging Majhi's anxieties about the party's condition. Masani argues that explanations for the party's debacle wrongly blame others and insists that the party must accept responsibility for having joined forces with discredited politicians.
 ---
 
+## Summary
+
+In this letter dated May 17, 1974, M. R. Masani writes to Ghasiram Majhi, General Secretary of the Swatantra Party's Orissa Unit, acknowledging Majhi's anxieties about the party's condition. Masani argues that explanations for the party's debacle wrongly blame others and insists that the party must accept responsibility for having joined forces with discredited politicians.
+
 ## Key points
 
 - Masani acknowledges the difficult political circumstances and Majhi's anxiety.

@@ -52,6 +52,12 @@ summary: |-
   The enclosed invitation frames the meeting as a conversation between business representatives and Members of Parliament who would soon prepare replies and criticisms of the Prime Minister’s Budget speech. Nanda says the aim is to communicate to Parliamentarians the business community’s view of Budget provisions that, in his assessment, adversely affected industrial productivity and progress. The papers therefore document an effort to connect business opinion, parliamentary criticism, and fiscal-policy debate.
 ---
 
+## Summary
+
+This three-page correspondence records H. P. Nanda’s effort to convene a post-Budget discussion at his New Delhi residence on 1 March 1970. In his letter to M. R. Masani, addressed as “Minoo,” Nanda encloses both the invitation list and a copy of a separate letter to invitees, asking Masani to discuss the Budget with leading North Indian businesspeople.
+
+The enclosed invitation frames the meeting as a conversation between business representatives and Members of Parliament who would soon prepare replies and criticisms of the Prime Minister’s Budget speech. Nanda says the aim is to communicate to Parliamentarians the business community’s view of Budget provisions that, in his assessment, adversely affected industrial productivity and progress. The papers therefore document an effort to connect business opinion, parliamentary criticism, and fiscal-policy debate.
+
 ## Key points
 
 - H. P. Nanda wrote to M. R. Masani on 23 February 1970.

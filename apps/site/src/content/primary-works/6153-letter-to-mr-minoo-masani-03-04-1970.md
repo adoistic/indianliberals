@@ -53,6 +53,12 @@ summary: |-
   The letter sets out a proposed disciplinary resolution stating that Desai's explanation is unacceptable and that he should be expelled for indiscipline and disloyalty to the party. Raju says there is no strategic disagreement between Dandekar and Cooper, but records Dandekar's view that the resolution should be concise and that H. M. Patel should not remain neutral if action is taken. The letter also discusses press handling, with Dandekar expected to be ready with a summary of the charge and comments so that the party can respond if Desai releases his explanation to the press.
 ---
 
+## Summary
+
+In this letter dated April 3, 1970, S. V. Raju writes to Minoo Masani about the handling of D. C. Desai's case within the Swatantra Party. Raju reports consultations with Dr. Cooper and Mr. Dandekar and proposes sending National Headquarters' comments, along with relevant passages from the National Executive's note and C. C. Desai's explanation, to party leaders and the Gujarat State Executive. He also recommends that members of the State Parliamentary Board be present when the matter is discussed.
+
+The letter sets out a proposed disciplinary resolution stating that Desai's explanation is unacceptable and that he should be expelled for indiscipline and disloyalty to the party. Raju says there is no strategic disagreement between Dandekar and Cooper, but records Dandekar's view that the resolution should be concise and that H. M. Patel should not remain neutral if action is taken. The letter also discusses press handling, with Dandekar expected to be ready with a summary of the charge and comments so that the party can respond if Desai releases his explanation to the press.
+
 ## Key points
 
 - Raju reports receiving Masani's letter and a copy of the relevant correspondence on April 3, 1970.

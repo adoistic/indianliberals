@@ -48,6 +48,10 @@ summary: |-
   This two-page English-language newspaper clipping, dated 13 April 1970, combines a political cartoon with a page of political reporting or commentary. The cartoon contrasts a child-sized, apparently headless political figure with a large lion labelled “SWATANTRA LEADERSHIP,” suggesting criticism of the gap between the Swatantra Party’s political image and the perceived weakness or absence of its leadership. The second page, reproduced upside down in the scan, records statements and reported developments involving political leaders and the Swatantra Party, including references to events in Gujarat and to a statement by M. C. Chagla.
 ---
 
+## Summary
+
+This two-page English-language newspaper clipping, dated 13 April 1970, combines a political cartoon with a page of political reporting or commentary. The cartoon contrasts a child-sized, apparently headless political figure with a large lion labelled “SWATANTRA LEADERSHIP,” suggesting criticism of the gap between the Swatantra Party’s political image and the perceived weakness or absence of its leadership. The second page, reproduced upside down in the scan, records statements and reported developments involving political leaders and the Swatantra Party, including references to events in Gujarat and to a statement by M. C. Chagla.
+
 ## Key points
 
 - The item is a newspaper clipping dated 13 April 1970, with no standalone title or author byline visible.

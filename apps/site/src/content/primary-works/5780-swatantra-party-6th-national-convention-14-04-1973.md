@@ -53,6 +53,12 @@ summary: |-
   The document closes with the National Convention's expression of sympathy to the families of the deceased. It presents their deaths as a loss not only to the Swatantra Party but also to public life, stating that the resulting absence will be difficult to fill.
 ---
 
+## Summary
+
+This one-page Swatantra Party convention document records the deaths of party members and associated public figures from different regional units of India. The list identifies their roles, including trade-union leadership, membership of the General Council, parliamentary service, party offices, ministerial work, and former presidencies of regional units. Representatives from Bihar, Kerala, Tamil Nadu, Gujarat, Bombay, Mysore, Orissa, Andhra, and West Bengal are among those named.
+
+The document closes with the National Convention's expression of sympathy to the families of the deceased. It presents their deaths as a loss not only to the Swatantra Party but also to public life, stating that the resulting absence will be difficult to fill.
+
 ## Key points
 
 - The page is an institutional memorial resolution or convention record issued in the name of the Swatantra Party's National Convention.

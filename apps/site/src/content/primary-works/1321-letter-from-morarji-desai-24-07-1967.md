@@ -47,6 +47,10 @@ summary: |-
   This single-page letter, dated 24 July 1967, is from Morarji Desai in his capacity as Deputy Prime Minister and Minister of Finance to the Secretary of the Lok Sabha. Desai forwards amendments proposed by five Lok Sabha members to the Finance (No. 2) Bill, 1967, after noting that the President has given the constitutionally required recommendation for moving them.
 ---
 
+## Summary
+
+This single-page letter, dated 24 July 1967, is from Morarji Desai in his capacity as Deputy Prime Minister and Minister of Finance to the Secretary of the Lok Sabha. Desai forwards amendments proposed by five Lok Sabha members to the Finance (No. 2) Bill, 1967, after noting that the President has given the constitutionally required recommendation for moving them.
+
 ## Key points
 
 - The document is a formal Government of India Ministry of Finance communication.

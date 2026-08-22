@@ -48,6 +48,12 @@ summary: |-
   Patel also asks to reproduce Raju's article “Notional Alternative” in the English monthly Vedavyas, observing that he had discussed a similar idea—called “the Eager Alternative”—in an Oriya editorial. The latter part of the letter concerns efforts by party workers in Orissa to continue party activities, Patel's interest in Minoo Masani's speeches, and his request that Raju contact Masani about the future of the B.L.P. Patel believes Masani's involvement could revive the party, perhaps in a changed form, and is awaiting Raju's reply.
 ---
 
+## Summary
+
+This two-page typed letter, dated 13 September 1974, is from advocate Harihar Patel in Bhubaneswar to S. V. Raju. Patel apologises for the delay in writing and encloses a press statement he issued on 8 September, noting its publication in the English dailies Amrit Bazar Patrika, Statesman, and Hindustan Standard, and suggesting it may also have appeared in other newspapers. He invites Raju's comments and authorises its use in Freedom First.
+
+Patel also asks to reproduce Raju's article “Notional Alternative” in the English monthly Vedavyas, observing that he had discussed a similar idea—called “the Eager Alternative”—in an Oriya editorial. The latter part of the letter concerns efforts by party workers in Orissa to continue party activities, Patel's interest in Minoo Masani's speeches, and his request that Raju contact Masani about the future of the B.L.P. Patel believes Masani's involvement could revive the party, perhaps in a changed form, and is awaiting Raju's reply.
+
 ## Key points
 
 - Harihar Patel writes to S. V. Raju from Bhubaneswar on 13 September 1974.

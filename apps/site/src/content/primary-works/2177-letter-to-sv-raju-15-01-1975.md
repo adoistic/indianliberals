@@ -51,6 +51,12 @@ summary: |-
   The letter presents organisational preparation as urgent in view of the Election Commission's expected scrutiny of the party. Srinivasan reports that committees in Rajasthan, Gujarat, Delhi, Kerala, and Karnataka must be established immediately, with work in Haryana, Punjab, Madhya Pradesh, and Bihar to follow. He also mentions the search for suitable personnel in Andhra Pradesh and the need to assemble facts and figures, potentially for proceedings before the Madras or Delhi High Courts or the Election Commission itself. The accompanying second page shows the address side of the Inland Letter Card rather than additional substantive correspondence.
 ---
 
+## Summary
+
+This letter, dated 15 January 1975, is written by V. S. Srinivasan, Joint Secretary at the Swatantra Party National Headquarters in Madras, to S. V. Raju in Bombay. Srinivasan agrees with Raju's suggestion that the party's president, G. K. Sundaram, should undertake a more intensive tour of Uttar Pradesh, addressing party workers at a central gathering and forming an ad hoc committee for the state. He notes that funding the proposed tour by Harihar Patel is a major difficulty.
+
+The letter presents organisational preparation as urgent in view of the Election Commission's expected scrutiny of the party. Srinivasan reports that committees in Rajasthan, Gujarat, Delhi, Kerala, and Karnataka must be established immediately, with work in Haryana, Punjab, Madhya Pradesh, and Bihar to follow. He also mentions the search for suitable personnel in Andhra Pradesh and the need to assemble facts and figures, potentially for proceedings before the Madras or Delhi High Courts or the Election Commission itself. The accompanying second page shows the address side of the Inland Letter Card rather than additional substantive correspondence.
+
 ## Key points
 
 - Srinivasan writes to S. V. Raju from Swatantra Party National Headquarters on 15 January 1975.

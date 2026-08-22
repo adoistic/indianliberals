@@ -48,6 +48,12 @@ summary: |-
   Srikumar situates the new address for correspondents unfamiliar with it: almost on the Poonamalle High Road itself, about a furlong from Dasaprakash and opposite Nehru Park, abutting one of the arterial highways of Madras city and served by buses from various parts of the city. Chetput railway station on the suburban Electric service, he notes, is very near. He acknowledges the premises are 'not quite large' but says they will be sufficient for present requirements, and asks that all future communications be sent to the Flowers Road address from the 14th instant. A handwritten receipt stamp in the top-right records the letter as 'Recd. 19/3/75'.
 ---
 
+## Summary
+
+This single-page circular, dated 11 February 1975, is signed by V. S. Srikumar in his capacity as Joint Secretary of the All India Swatantra Party. Addressed to 'Dear Sir/friend', it informs recipients that three co-located offices are being shifted: the Swatantra Party's National Head Quarters, the office of the Tamilnad Swatantra Party, and the office of the Madras District Swatantra Party. All three will move from 26, Halls Road, Egmore, Madras-8 to 10-A, Flowers Road, Madras-84, with effect from 14 March 1975.
+
+Srikumar situates the new address for correspondents unfamiliar with it: almost on the Poonamalle High Road itself, about a furlong from Dasaprakash and opposite Nehru Park, abutting one of the arterial highways of Madras city and served by buses from various parts of the city. Chetput railway station on the suburban Electric service, he notes, is very near. He acknowledges the premises are 'not quite large' but says they will be sufficient for present requirements, and asks that all future communications be sent to the Flowers Road address from the 14th instant. A handwritten receipt stamp in the top-right records the letter as 'Recd. 19/3/75'.
+
 ## Key points
 
 - Single-page administrative circular from the All India Swatantra Party's National Head Quarters at 26, Halls Road, Egmore, Madras-8, dated 11 February 1975.

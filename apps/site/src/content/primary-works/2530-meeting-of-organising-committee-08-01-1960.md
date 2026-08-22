@@ -54,6 +54,12 @@ summary: |-
   The minutes record organisational, financial, and political decisions. The committee discussed pamphlet publication, ward meetings, purchasing an addressing machine, expenditure connected with the BEST strike, and a reported bank balance of Rs. 32,659-56. It reviewed central-party decisions on foreign policy and finance, including an increase in Bombay's annual contribution to five lakhs and the proposed formation of a Public Advice Committee. M. R. Masani's resignation as chairman was accepted in connection with his election as General Secretary, and Murarji Vaidya was invited to succeed him; the committee also set a membership target of 5,000 before the February convention at Patna. These minutes provide an internal snapshot of the party's early organisational expansion and political priorities in Greater Bombay.
 ---
 
+## Summary
+
+This two-page English-language record documents a meeting of the Swatantra Party's Organising Committee of Greater Bombay held on 8 January 1960. The committee confirmed the previous minutes, welcomed three new members, planned a Republic Day symposium on the “Integrity and Sanctity of the Constitution of India,” and arranged a flag-hoisting ceremony followed by a party luncheon. It also reviewed the first month's activities of the Swatantra Service Centre and proposed newspaper publicity for its work.
+
+The minutes record organisational, financial, and political decisions. The committee discussed pamphlet publication, ward meetings, purchasing an addressing machine, expenditure connected with the BEST strike, and a reported bank balance of Rs. 32,659-56. It reviewed central-party decisions on foreign policy and finance, including an increase in Bombay's annual contribution to five lakhs and the proposed formation of a Public Advice Committee. M. R. Masani's resignation as chairman was accepted in connection with his election as General Secretary, and Murarji Vaidya was invited to succeed him; the committee also set a membership target of 5,000 before the February convention at Patna. These minutes provide an internal snapshot of the party's early organisational expansion and political priorities in Greater Bombay.
+
 ## Key points
 
 - The Greater Bombay Organising Committee met on 8 January 1960 under the chairmanship of M. R. Masani.

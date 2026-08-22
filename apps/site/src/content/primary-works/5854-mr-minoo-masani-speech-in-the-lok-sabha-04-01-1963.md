@@ -58,6 +58,12 @@ summary: |-
   Masani warns that bureaucratic management would lack the entrepreneurial judgment required to invest profitably, while political control could produce patronage, corruption, arbitrary investment decisions, and pressure on companies seeking credit. He also argues that tax concessions could divert funds from more productive private enterprises toward a less productive state-sponsored institution. He concludes by urging a slower and more careful legislative process, proposing that the measure be referred to a Select Committee rather than rushed through Parliament.
 ---
 
+## Summary
+
+In this four-page Lok Sabha speech, M. R. Masani supports the motion to circulate the Unit Trust of India Bill, 1963, for public opinion but argues that the Bill seriously distorts the successful unit-trust model used in Britain and the United States. He explains that unit trusts can mobilise small savings, broaden property ownership, diversify risk for small investors, and encourage productive investment. The proposed legislation, however, would create what he calls a state capitalist monopoly by placing the corporation under effective government control and denying comparable tax advantages and facilities to other trusts.
+
+Masani warns that bureaucratic management would lack the entrepreneurial judgment required to invest profitably, while political control could produce patronage, corruption, arbitrary investment decisions, and pressure on companies seeking credit. He also argues that tax concessions could divert funds from more productive private enterprises toward a less productive state-sponsored institution. He concludes by urging a slower and more careful legislative process, proposing that the measure be referred to a Select Committee rather than rushed through Parliament.
+
 ## Key points
 
 - Masani endorses the principle of unit trusts as a means of mobilising small savings and widening participation in ownership.

@@ -52,6 +52,10 @@ summary: |-
   These draft minutes record the Swatantra Party Central Parliamentary Board’s meetings at Madras on 26–27 February 1966. The first session reviews the previous meeting, the proposed postponement of the Orissa Assembly elections, and candidate recommendations for Rajya Sabha and Vidhan Parishad elections across several states. The Board grants state units varying discretion over nominations, approves or defers individual candidates, and negotiates electoral understandings with the Jan Sangh and the S.S.P.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Central Parliamentary Board’s meetings at Madras on 26–27 February 1966. The first session reviews the previous meeting, the proposed postponement of the Orissa Assembly elections, and candidate recommendations for Rajya Sabha and Vidhan Parishad elections across several states. The Board grants state units varying discretion over nominations, approves or defers individual candidates, and negotiates electoral understandings with the Jan Sangh and the S.S.P.
+
 ## Key points
 
 - The Board reviewed party nominations and electoral arrangements in Andhra, Bihar, Madras, Mysore, Punjab, Orissa, Rajasthan, U.P., Gujarat, West Bengal, and other states.

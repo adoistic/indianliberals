@@ -52,6 +52,12 @@ summary: |-
   The letter also objects to the Bill’s treatment of public and private religious institutions, temples, charitable trusts, and educational establishments. Hegde states that South Kanara has about 3,500 such institutions and describes the proposed confiscation and compensation provisions as destructive of their existing social functions. He notes planned conferences at Udupi and Hubli to protest the Bill, describes arrangements for Masani’s proposed visit and public meetings, and encloses or follows with minutes of a 14 September meeting of Swatantra Party sympathisers at Karkala. The document is complete as rendered; it has no printed title.
 ---
 
+## Summary
+
+This 15 September 1959 letter from K. B. Jinaraja Hegde, Secretary of the Swatantra Party, invites Minoo Masani to inaugurate the party’s South Kanara district conference in Mangalore on 4 October 1959. Hegde reports local support for the party in response to the Mysore Land Reforms Bill and state trading, arguing that the proposed reforms insufficiently account for the district’s distinctive landholding, tenancy, inheritance, and religious-institution arrangements. He highlights the prevalence of undivided joint families under Aliyasantana customary law and warns that recognising landowners’ rights to resume land for self-cultivation could displace large numbers of tenants.
+
+The letter also objects to the Bill’s treatment of public and private religious institutions, temples, charitable trusts, and educational establishments. Hegde states that South Kanara has about 3,500 such institutions and describes the proposed confiscation and compensation provisions as destructive of their existing social functions. He notes planned conferences at Udupi and Hubli to protest the Bill, describes arrangements for Masani’s proposed visit and public meetings, and encloses or follows with minutes of a 14 September meeting of Swatantra Party sympathisers at Karkala. The document is complete as rendered; it has no printed title.
+
 ## Key points
 
 - Hegde asks Minoo Masani to inaugurate the Swatantra Party’s South Kanara district conference in Mangalore on 4 October 1959.

@@ -50,6 +50,12 @@ summary: |-
   Deo also asks Raju to send a draft letter indicating how the matter should be addressed to the Regional Transport Office in Bombay. He separately requests that Raju arrange an inquiry through Majhi in his capacity as Health Minister. The document is private correspondence concerning political contacts, vehicle records, and an administrative inquiry; no broader argument or published program is presented.
 ---
 
+## Summary
+
+This one-page letter, dated 22 November 1979, is from P. K. Deo, identified on the letterhead as a former Lok Sabha member, to S. V. Raju. Deo responds to Raju's earlier inquiry about a jeep, stating that it was not in his possession and suggesting that Ghasiram Majhi, then Secretary of the Swatantra Party and subsequently Orissa's Health Minister, could provide further details.
+
+Deo also asks Raju to send a draft letter indicating how the matter should be addressed to the Regional Transport Office in Bombay. He separately requests that Raju arrange an inquiry through Majhi in his capacity as Health Minister. The document is private correspondence concerning political contacts, vehicle records, and an administrative inquiry; no broader argument or published program is presented.
+
 ## Key points
 
 - The letter is dated 22 November 1979 and is addressed to S. V. Raju.

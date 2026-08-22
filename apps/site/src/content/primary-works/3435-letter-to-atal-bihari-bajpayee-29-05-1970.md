@@ -47,6 +47,12 @@ summary: |-
   Masani also confirms his travel plans: he expects to reach Delhi on the morning of Monday, June 15, and confirms a 10 a.m. meeting at Morarjibhai’s residence. He asks Vajpayee to keep the entire day free because Masani plans to leave for Bombay at 8 p.m. The page includes handwritten corrections and annotations, as well as Masani’s signature.
 ---
 
+## Summary
+
+This confidential letter from M. R. Masani to Atal Bihari Vajpayee, dated May 29, 1970, reports on Masani’s meeting with Morarjibhai and encloses a draft that emerged from their discussion. Masani says that Morarjibhai has a copy of the draft and will discuss it further with both men when they are in Delhi.
+
+Masani also confirms his travel plans: he expects to reach Delhi on the morning of Monday, June 15, and confirms a 10 a.m. meeting at Morarjibhai’s residence. He asks Vajpayee to keep the entire day free because Masani plans to leave for Bombay at 8 p.m. The page includes handwritten corrections and annotations, as well as Masani’s signature.
+
 ## Key points
 
 - Masani writes confidentially to Atal Bihari Vajpayee on May 29, 1970.

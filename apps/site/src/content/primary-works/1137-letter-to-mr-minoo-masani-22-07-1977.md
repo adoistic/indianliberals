@@ -47,6 +47,12 @@ summary: |-
   The letter is a small artefact of post-Emergency liberal regrouping: Venkiteswaran reports that even before receiving Masani's invitation he had been thinking of approaching Masani and Mr. Dandeker about convening such meetings at periodical intervals, so that "those of us who subscribed to the 'Swatantra' principles" could take stock of national developments and consider corrective measures. He signals particular interest in hearing Masani's assessment of the political and economic condition of the country after the Janata Government took over.
 ---
 
+## Summary
+
+This is a brief personal letter from J. Venkiteswaran, writing from 8/148 Vasant, Wadala, Bombay, to Minoo Masani on 22 July 1977. Venkiteswaran thanks Masani for a circular letter inviting him to a discussion meeting at the Sassoon building office on 29 July 1977, and confirms he will attend.
+
+The letter is a small artefact of post-Emergency liberal regrouping: Venkiteswaran reports that even before receiving Masani's invitation he had been thinking of approaching Masani and Mr. Dandeker about convening such meetings at periodical intervals, so that "those of us who subscribed to the 'Swatantra' principles" could take stock of national developments and consider corrective measures. He signals particular interest in hearing Masani's assessment of the political and economic condition of the country after the Janata Government took over.
+
 ## Key points
 
 - Personal letter dated 22 July 1977 from J. Venkiteswaran (Wadala, Bombay) to Minoo Masani.

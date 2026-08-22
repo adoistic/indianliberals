@@ -51,6 +51,10 @@ summary: |-
   This one-page English office notice, issued by the Swatantra Party (Bombay Region) on 13 August 1970, announces an Executive Committee meeting to be held on 19 August 1970 at the party office in Bombay. Signed by K. S. Srinivasan, Office Secretary, it invites recipients to attend and sets out the meeting's agenda.
 ---
 
+## Summary
+
+This one-page English office notice, issued by the Swatantra Party (Bombay Region) on 13 August 1970, announces an Executive Committee meeting to be held on 19 August 1970 at the party office in Bombay. Signed by K. S. Srinivasan, Office Secretary, it invites recipients to attend and sets out the meeting's agenda.
+
 ## Key points
 
 - The notice is dated 13 August 1970 and issued from the Swatantra Party's Bombay Region office.

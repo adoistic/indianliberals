@@ -50,6 +50,10 @@ summary: |-
   The article, datelined Jaipur, May 1, attributes the Swatantra Party's poor showing in the anti-Congress Assembly by-elections to the timing of the harvest. It reports that cultivators were busy in the fields and therefore unable to campaign or vote, while Congress workers were active among voters. The article also notes that the Swatantra Party had fielded workers who were not sufficiently familiar with village conditions and had failed to organise effectively.
 ---
 
+## Summary
+
+The article, datelined Jaipur, May 1, attributes the Swatantra Party's poor showing in the anti-Congress Assembly by-elections to the timing of the harvest. It reports that cultivators were busy in the fields and therefore unable to campaign or vote, while Congress workers were active among voters. The article also notes that the Swatantra Party had fielded workers who were not sufficiently familiar with village conditions and had failed to organise effectively.
+
 ## Key points
 
 - The article links the Swatantra Party's defeat in Jaipur district to the harvesting season.

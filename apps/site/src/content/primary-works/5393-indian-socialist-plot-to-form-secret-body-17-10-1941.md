@@ -53,6 +53,12 @@ summary: |-
   The extract also publishes instructions for covert communication with Prabhavati Devi, including coded references and the concealment of letters in book bindings. A substantial section addresses the Congress Socialist Party’s position on the Second World War: Narain distinguishes the Anglo-German war from the Russo-German war, expresses sympathy with Russia, and maintains opposition to Britain’s war effort and to imperialism. The closing commentary questions whether the seized documents are genuine and argues that their publication may be intended to persuade Congress leaders that non-violence could conceal illegal activity, while also warning legislators that apparently genuine prison grievances might be exploited as political devices.
 ---
 
+## Summary
+
+This six-page extract from The Times of India, dated October 17, 1941, reproduces and comments on papers attributed to Jayaprakash Narain while he was detained at Deoli Camp. The report presents Narain as advocating the consolidation of the Congress Socialist Party through relationships with the Revolutionary Socialist Party and the Hindustan Republican Socialist Association, while isolating the Communist Party. It describes plans for an underground and avowedly illegal wing, recruitment and funding through clandestine methods, and a selected-area “kisan” struggle as an alternative to what the report calls the “farce of satyagraha.”
+
+The extract also publishes instructions for covert communication with Prabhavati Devi, including coded references and the concealment of letters in book bindings. A substantial section addresses the Congress Socialist Party’s position on the Second World War: Narain distinguishes the Anglo-German war from the Russo-German war, expresses sympathy with Russia, and maintains opposition to Britain’s war effort and to imperialism. The closing commentary questions whether the seized documents are genuine and argues that their publication may be intended to persuade Congress leaders that non-violence could conceal illegal activity, while also warning legislators that apparently genuine prison grievances might be exploited as political devices.
+
 ## Key points
 
 - The extract reports alleged plans to strengthen the Congress Socialist Party by incorporating the Revolutionary Socialist Party and isolating the Communist Party.

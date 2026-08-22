@@ -53,6 +53,10 @@ summary: |-
   This one-page resolution, adopted by the Swatantra Party General Council on May 27, 1966, condemns the continuation and intensification of India's “Control-Licence-Permit-Quota” system. It argues that extending permits, licences, quotas, and related controls across the entire national economy—including procurement and distribution—would deepen a rigidly regulated economic order.
 ---
 
+## Summary
+
+This one-page resolution, adopted by the Swatantra Party General Council on May 27, 1966, condemns the continuation and intensification of India's “Control-Licence-Permit-Quota” system. It argues that extending permits, licences, quotas, and related controls across the entire national economy—including procurement and distribution—would deepen a rigidly regulated economic order.
+
 ## Key points
 
 - The resolution opposes the recent All India Congress Committee resolution to continue and intensify economic controls.

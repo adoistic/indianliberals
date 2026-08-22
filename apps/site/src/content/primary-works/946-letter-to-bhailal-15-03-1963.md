@@ -49,6 +49,12 @@ summary: |-
   The letter is entirely supportive and offers Patel permission to proceed with Rajagopalachari’s best wishes. No further details about the by-election, its constituency, candidates, or political organisation are provided on the page.
 ---
 
+## Summary
+
+This typed true copy is a brief letter from C. Rajagopalachari to Shri Bhailalbhai Patel, dated 15 March 1963 and sent from Madras. Referring to a proposed by-election activity, Rajagopalachari expresses pleasure at receiving Patel’s letter and gives his unqualified approval to the idea.
+
+The letter is entirely supportive and offers Patel permission to proceed with Rajagopalachari’s best wishes. No further details about the by-election, its constituency, candidates, or political organisation are provided on the page.
+
 ## Key points
 
 - The document is a typed true copy of a letter dated 15 March 1963.

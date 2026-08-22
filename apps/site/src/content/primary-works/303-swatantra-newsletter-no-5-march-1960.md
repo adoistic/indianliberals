@@ -59,3 +59,9 @@ summary: |-
   
   The convention resolutions recorded in the issue address the Party flag, the General Secretary’s report, national defence, and Tibet. They call for cooperation with South and Southeast Asian nations, a more realistic policy toward Pakistan and China, opposition to nuclear weapons, and Tibetan self-determination. A substantial section reports C. Rajagopalachari’s tour of North India, presenting his criticisms of Congress, communism, non-alignment, socialism, and excessive state dominance over individual life. The issue closes with notices about the publication of Party documents, Rajagopalachari’s tour itinerary, and literature available from the Party office.
 ---
+
+## Summary
+
+The March 1960 issue of the Swatantra Newsletter, issued by the Swatantra Party’s Central Office, reports on the Party’s first National Convention in Patna. It describes the convention’s large public reception, the adoption of a Party constitution and statement of policy, and deliberations by the Central Organising Committee and General Council. The General Council’s decisions included a low membership subscription, opposition to the Union Budget’s excise increases and levies, and amendments to draft constitutional and policy documents.
+
+The convention resolutions recorded in the issue address the Party flag, the General Secretary’s report, national defence, and Tibet. They call for cooperation with South and Southeast Asian nations, a more realistic policy toward Pakistan and China, opposition to nuclear weapons, and Tibetan self-determination. A substantial section reports C. Rajagopalachari’s tour of North India, presenting his criticisms of Congress, communism, non-alignment, socialism, and excessive state dominance over individual life. The issue closes with notices about the publication of Party documents, Rajagopalachari’s tour itinerary, and literature available from the Party office.

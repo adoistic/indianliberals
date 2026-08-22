@@ -51,6 +51,12 @@ summary: |-
   The scan also contains a separate typed letter dated May 24, 1968, from Personnel & Productivity Services in Bombay. The letter acknowledges an application for a Works Manager position, declines to entertain it because other applicants more closely matched the organisation’s needs, and advises the applicant to submit a fresh application for any future vacancy. This letter appears unrelated to the Rajasthan election clipping.
 ---
 
+## Summary
+
+The newspaper clipping, headed “Congress victory in Rajasthan,” reports the Congress party’s success in Rajasthan’s Assembly and Lok Sabha contests. It attributes the result to a favourable political climate, improved mobilisation of resources, effective campaigning, and the impact of Congress leaders who came from outside the state. The clipping also notes that the Congress victory extended across the former Jaipur state area and gives preliminary results for the Dausa and Chomu constituencies.
+
+The scan also contains a separate typed letter dated May 24, 1968, from Personnel & Productivity Services in Bombay. The letter acknowledges an application for a Works Manager position, declines to entertain it because other applicants more closely matched the organisation’s needs, and advises the applicant to submit a fresh application for any future vacancy. This letter appears unrelated to the Rajasthan election clipping.
+
 ## Key points
 
 - The clipping reports a Congress victory in Rajasthan.

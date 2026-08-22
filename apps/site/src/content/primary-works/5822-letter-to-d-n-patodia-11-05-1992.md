@@ -45,6 +45,12 @@ summary: |-
   Patodia’s letter of May 4 concerns a privilege motion previously discussed by telephone. He advises Masani not to proceed further and asks him to forward any subsequent communication without replying. The file contains only these two letters; it has no printed title, formal publication information, or broader contextual material.
 ---
 
+## Summary
+
+This two-page English correspondence file preserves reciprocal letters exchanged between M. R. Masani and D. N. Patodia in May 1992. In his letter of May 11, Masani thanks Patodia for his letter and for taking the trouble to handle a matter on his behalf, adding that Patodia has once again been “a gem.”
+
+Patodia’s letter of May 4 concerns a privilege motion previously discussed by telephone. He advises Masani not to proceed further and asks him to forward any subsequent communication without replying. The file contains only these two letters; it has no printed title, formal publication information, or broader contextual material.
+
 ## Key points
 
 - The file contains two reciprocal letters dated May 4 and May 11, 1992.

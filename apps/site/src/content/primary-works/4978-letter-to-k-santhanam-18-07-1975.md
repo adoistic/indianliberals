@@ -53,6 +53,12 @@ summary: |-
   Masani reports that the High Court admitted his petition against the Maharashtra Government and the State Censor, but fixed 29 August for the matter to be heard. Because his lawyer's attempt to obtain an earlier date failed, he concludes that he will suspend publication of Freedom First until at least the end of August. The letter documents the practical impact of Emergency-era pre-censorship on an independent publication and Masani's resort to judicial review.
 ---
 
+## Summary
+
+In this letter dated 18 July 1975, M. R. Masani responds to K. Santhanam's proposal for a meeting of editors concerned about censorship and describes his legal challenge to Maharashtra's pre-censorship regime. Masani says he filed a writ petition in the Bombay High Court seeking to strike down the Maharashtra Censorship Order and withdraw an allegedly excessive and arbitrary order issued by the Chief Censor concerning material submitted for publication in Freedom First.
+
+Masani reports that the High Court admitted his petition against the Maharashtra Government and the State Censor, but fixed 29 August for the matter to be heard. Because his lawyer's attempt to obtain an earlier date failed, he concludes that he will suspend publication of Freedom First until at least the end of August. The letter documents the practical impact of Emergency-era pre-censorship on an independent publication and Masani's resort to judicial review.
+
 ## Key points
 
 - Masani supports Santhanam's proposal for editors affected by censorship to meet and coordinate.

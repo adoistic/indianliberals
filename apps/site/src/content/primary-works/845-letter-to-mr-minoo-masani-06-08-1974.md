@@ -47,6 +47,12 @@ summary: |-
   The letter closes with the striking observation that the party's founder, C. Rajagopalachari (Rajaji), is fortunate not to be alive to witness these developments. The page does not state the precise nature of the crisis beyond its reference to the party's apparent disintegration and troubling newspaper reports.
 ---
 
+## Summary
+
+This handwritten letter, dated 6 August 1974 and addressed to Minoo Masani in Bombay, expresses the sender's long-standing affection for Masani alongside frustration at the political crisis facing the Swatantra Party. The writer thanks Masani for attempting to save the party, but says that reports in the newspapers are deeply disquieting and that his patience has been exhausted.
+
+The letter closes with the striking observation that the party's founder, C. Rajagopalachari (Rajaji), is fortunate not to be alive to witness these developments. The page does not state the precise nature of the crisis beyond its reference to the party's apparent disintegration and troubling newspaper reports.
+
 ## Key points
 
 - The letter is dated 6 August 1974 and addressed to Shri Minoo Masani in Bombay.

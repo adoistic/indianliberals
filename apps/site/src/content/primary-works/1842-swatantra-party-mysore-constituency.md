@@ -53,6 +53,12 @@ summary: |-
   The entries document practical party-building rather than a developed political argument. Individuals offer financial contributions, secretarial and organisational services, local branches, publicity, literature distribution, and attendance at preliminary meetings and the Karnataka Convention. Many respondents explicitly endorse the party's aims and objectives; several are agriculturists, coffee planters, landholders, lawyers, merchants, public officials, publishers, and students. The compilation also shows efforts to recruit members, establish state and district branches, circulate a manifesto and prospectus, and mobilise support among agricultural and landholding communities. References to Rajaji, Minoo Masani, and Professor Ranga indicate the party's leadership and promotional network, but the document does not provide a formal statement of the party programme.
 ---
 
+## Summary
+
+This untitled Mysore office compilation records a constituency-wide network of supporters, prospective members, organisers, donors, and invitees associated with the Swatantra Party. The 13 pages list 252 numbered contacts, mostly from Bangalore, Mysore, Coorg, South Kanara, Hassan, Chickmagalur, Dharwar, Tumkur, and adjoining areas, with names, addresses, occupations, and brief remarks about their intended involvement.
+
+The entries document practical party-building rather than a developed political argument. Individuals offer financial contributions, secretarial and organisational services, local branches, publicity, literature distribution, and attendance at preliminary meetings and the Karnataka Convention. Many respondents explicitly endorse the party's aims and objectives; several are agriculturists, coffee planters, landholders, lawyers, merchants, public officials, publishers, and students. The compilation also shows efforts to recruit members, establish state and district branches, circulate a manifesto and prospectus, and mobilise support among agricultural and landholding communities. References to Rajaji, Minoo Masani, and Professor Ranga indicate the party's leadership and promotional network, but the document does not provide a formal statement of the party programme.
+
 ## Key points
 
 - The document is an administrative contact list headed "Mysore," not an authored political essay.

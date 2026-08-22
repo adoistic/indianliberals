@@ -53,6 +53,12 @@ summary: |-
   The notes move between critique and strategy. They object to heavy or discriminatory taxation, question assumptions behind planned economic targets, and discuss the practical consequences of controls, licensing, and restrictions on business. They also appear to consider how a liberal or anti-planning position might be presented politically, including the need to challenge prevailing assumptions and develop a clearer public case. The handwriting is frequently difficult to decipher, and the document has no visible byline, publisher, or formal title; “Plan dominates Budget” is a descriptive heading visible on the first sheet rather than a confirmed printed title.
 ---
 
+## Summary
+
+These eight handwritten sheets, annotated “S.P. Delhi : 7.6.62,” are undated office notes from Delhi in 1962 concerning the relationship between economic planning, budgets, taxation, and private enterprise. The central proposition visible in the notes is that planning has come to dominate fiscal policy: budgetary decisions are treated as instruments of a wider planning system rather than as autonomous measures of financial administration. The writer questions the resulting expansion of state direction and its effects on investment, production, and economic freedom.
+
+The notes move between critique and strategy. They object to heavy or discriminatory taxation, question assumptions behind planned economic targets, and discuss the practical consequences of controls, licensing, and restrictions on business. They also appear to consider how a liberal or anti-planning position might be presented politically, including the need to challenge prevailing assumptions and develop a clearer public case. The handwriting is frequently difficult to decipher, and the document has no visible byline, publisher, or formal title; “Plan dominates Budget” is a descriptive heading visible on the first sheet rather than a confirmed printed title.
+
 ## Key points
 
 - The notes argue that planning has come to dominate the budgetary process.

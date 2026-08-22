@@ -51,6 +51,12 @@ summary: |-
   The file also preserves replies from the Bombay regional organisation dated 13 and 18 March 1970. Both state that no action can be taken because the party is not represented in the Maharashtra State Assembly. Together, the documents show the party’s central office attempting to coordinate a nationwide upper-house electoral strategy while regional weakness in Maharashtra prevented participation there.
 ---
 
+## Summary
+
+This five-page archival file contains correspondence concerning the Swatantra Party’s preparations for the 1970 biennial elections to the Rajya Sabha. In a letter dated 2 February 1970, General Secretary R. C. Cooper asks state parliamentary boards to recommend candidates and provide information on the number of Swatantra Party legislators, the required number of votes, candidate backgrounds, coalition-building efforts, and the possible use of surplus votes. The letter lists the number of Rajya Sabha seats to be elected from each state and union territory, noting that the reports were expected by 2 April 1970 and that recommendations were needed by 14 February for consideration by the Central Parliamentary Board.
+
+The file also preserves replies from the Bombay regional organisation dated 13 and 18 March 1970. Both state that no action can be taken because the party is not represented in the Maharashtra State Assembly. Together, the documents show the party’s central office attempting to coordinate a nationwide upper-house electoral strategy while regional weakness in Maharashtra prevented participation there.
+
 ## Key points
 
 - The central Swatantra Party office circulated instructions for the 1970 biennial Rajya Sabha elections.

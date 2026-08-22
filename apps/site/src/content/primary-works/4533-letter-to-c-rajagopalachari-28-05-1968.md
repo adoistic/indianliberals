@@ -46,6 +46,12 @@ summary: |-
   Masani also notes that he has returned to Bombay from Europe and is looking forward to meeting Rajagopalachari over the weekend. He explains that he has booked his return journey for Monday afternoon, after the Sunday evening meeting, but may be able to speak with Rajagopalachari on Monday morning.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to C. Rajagopalachari, dated 28 May 1968, concerns Rajagopalachari’s grandson, Parthasarathy. Masani forwards a questionnaire from Larsen & Toubro, which wishes Parthasarathy to complete and return to John Bower, the company’s director, expressing hope that the opportunity may lead to something useful.
+
+Masani also notes that he has returned to Bombay from Europe and is looking forward to meeting Rajagopalachari over the weekend. He explains that he has booked his return journey for Monday afternoon, after the Sunday evening meeting, but may be able to speak with Rajagopalachari on Monday morning.
+
 ## Key points
 
 - The letter is dated 28 May 1968 and is addressed to C. Rajagopalachari, whom Masani calls “Rajaji.”

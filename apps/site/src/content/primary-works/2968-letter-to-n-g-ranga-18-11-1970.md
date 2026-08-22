@@ -53,6 +53,12 @@ summary: |-
   The attached minutes record the Board’s positions on several parliamentary and constitutional questions. The Board advised the Swatantra Party group not to support a routine no-confidence motion, while permitting members to support it at the vote; supported a Preventive Detention Act for West Bengal as a special response to Naxalite violence but rejected such legislation for the country as a whole; opposed impeachment proceedings against the President; and rejected constitutional amendments concerning gubernatorial powers in favour of conventions or instruments of instruction leaving confidence in a Chief Minister to the Assembly. It also instructed the parliamentary group to oppose amendments to the Payment of Bonus Act and unanimously adopted a resolution responding to the Government’s rejection of the Chanda Committee’s recommendation to convert All India Radio and television into autonomous corporations.
 ---
 
+## Summary
+
+This untitled letter from M. R. Masani to Professor N. G. Ranga, dated 18 November 1970, forwards extracts from the Central Parliamentary Board meeting held in Delhi on 7 November concerning business before Parliament’s winter session. Masani notes that the National Headquarters may already have sent the material from Bombay and encloses the minutes for Ranga’s attention.
+
+The attached minutes record the Board’s positions on several parliamentary and constitutional questions. The Board advised the Swatantra Party group not to support a routine no-confidence motion, while permitting members to support it at the vote; supported a Preventive Detention Act for West Bengal as a special response to Naxalite violence but rejected such legislation for the country as a whole; opposed impeachment proceedings against the President; and rejected constitutional amendments concerning gubernatorial powers in favour of conventions or instruments of instruction leaving confidence in a Chief Minister to the Assembly. It also instructed the parliamentary group to oppose amendments to the Payment of Bonus Act and unanimously adopted a resolution responding to the Government’s rejection of the Chanda Committee’s recommendation to convert All India Radio and television into autonomous corporations.
+
 ## Key points
 
 - Masani’s letter, dated 18 November 1970, forwards Central Parliamentary Board minutes to Professor N. G. Ranga.

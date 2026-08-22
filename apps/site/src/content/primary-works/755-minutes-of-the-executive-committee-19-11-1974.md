@@ -51,6 +51,12 @@ summary: |-
   The substantive decisions concern internal party administration and public affairs. Seven members were co-opted to fill vacancies created by members who had ceased to attend meetings, while the General Secretary was authorised to notify Mr. Yazdani and Mr. Pimenta that they had ceased to be members of the Executive Committee after three consecutive absences. Munshi also reported that the General Council meeting would shortly be held at Madras and proposed a representation to the Milk Commissioner about unsatisfactory milk distribution and price variation. The meeting ended at 7.00 p.m. with a vote of thanks to the Chair.
 ---
 
+## Summary
+
+This two-page English office record contains the minutes of the Swatantra Party, Maharashtra Executive Committee meeting held at the Party office in Sassoon Building, Kalaghoda, Bombay, on 19 November 1974. Girish Munshi chaired the meeting; five other members, including Manorama Dandekar, K. B. Pandey, S. R. Pendse, B. B. Gupta, and an invited Mr. Sitaramsingh, were recorded as present. Leave was granted to six absent members for illness or personal reasons, and the minutes of the 28 October meeting were confirmed.
+
+The substantive decisions concern internal party administration and public affairs. Seven members were co-opted to fill vacancies created by members who had ceased to attend meetings, while the General Secretary was authorised to notify Mr. Yazdani and Mr. Pimenta that they had ceased to be members of the Executive Committee after three consecutive absences. Munshi also reported that the General Council meeting would shortly be held at Madras and proposed a representation to the Milk Commissioner about unsatisfactory milk distribution and price variation. The meeting ended at 7.00 p.m. with a vote of thanks to the Chair.
+
 ## Key points
 
 - The Swatantra Party, Maharashtra Executive Committee met in Bombay on 19 November 1974 at 5.30 p.m.

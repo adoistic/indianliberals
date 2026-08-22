@@ -48,6 +48,12 @@ summary: |-
   The letter says the matter would come before the National Executive in New Delhi on April 11 for further action. It encloses a three-column statement comparing the National Executive’s note, Desai’s explanation, and the National Headquarters’ comments. The communication is explicitly restricted to the recipients’ information and is marked “not for publication.”
 ---
 
+## Summary
+
+This one-page draft letter, dated April 3, 1970, informs Members of Parliament, Gujarat MLAs, and members of the Gujarat State Executive about proposed disciplinary action against C. C. Desai. It states that the National Executive had unanimously decided at its February 17 meeting in Bombay to ask Desai to explain his activities over the preceding two years and show cause why action should not be taken against him. According to the letter, Desai’s response, dated March 26, contained what the office regarded as libellous attacks on the Party leadership and did not accept the allegations of indiscipline.
+
+The letter says the matter would come before the National Executive in New Delhi on April 11 for further action. It encloses a three-column statement comparing the National Executive’s note, Desai’s explanation, and the National Headquarters’ comments. The communication is explicitly restricted to the recipients’ information and is marked “not for publication.”
+
 ## Key points
 
 - The draft is dated April 3, 1970, and is addressed collectively to MPs, Gujarat MLAs, and members of the Gujarat State Executive.

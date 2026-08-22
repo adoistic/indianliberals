@@ -48,6 +48,12 @@ summary: |-
   Munshi asks Narayan to coordinate with Molly and Sheffi Pirzada to finalise the January 26 function, ensure that information about the ceremonies is communicated to party members, and send the necessary communication from the office by the evening. The letter also asks about an appointment with M. R. Pai. It is an administrative party communication rather than a statement of political argument.
 ---
 
+## Summary
+
+This untitled letter, dated January 23, 1974, is from Girish K. Munshi of Bharatiya Vidya Bhavan to Mr. Narayan of the Swatantra Party. It concerns organising flag-hoisting ceremonies scheduled for January 26 at multiple centres, including gathering information about local participants and communicating the arrangements to party members.
+
+Munshi asks Narayan to coordinate with Molly and Sheffi Pirzada to finalise the January 26 function, ensure that information about the ceremonies is communicated to party members, and send the necessary communication from the office by the evening. The letter also asks about an appointment with M. R. Pai. It is an administrative party communication rather than a statement of political argument.
+
 ## Key points
 
 - The letter is dated January 23, 1974, and is written on Bharatiya Vidya Bhavan letterhead.

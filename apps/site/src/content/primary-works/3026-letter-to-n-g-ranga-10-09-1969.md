@@ -51,6 +51,12 @@ summary: |-
   Mody asks Ranga to take no further steps toward an agreement or alliance with the Jan Sangh until the party commits itself to restraining its newspapers and members from attacking other communities. He warns that, if the trend continues, he may not be able to win re-election on the Swatantra ticket. The sender's identification is inferred from the handwritten signature rather than a printed byline.
 ---
 
+## Summary
+
+This single-page letter, dated 10 September 1969 from Mangalore, is signed by Piloo Mody and addressed to N. G. Ranga. Mody reports receiving complaints from Christians and Muslims who believed that the Swatantra Party was betraying its commitment to secularism. Although he says he continues to oppose Jan Sangh members' attacks on missionaries in Parliament, he argues that support from Ranga would carry greater significance among Christians.
+
+Mody asks Ranga to take no further steps toward an agreement or alliance with the Jan Sangh until the party commits itself to restraining its newspapers and members from attacking other communities. He warns that, if the trend continues, he may not be able to win re-election on the Swatantra ticket. The sender's identification is inferred from the handwritten signature rather than a printed byline.
+
 ## Key points
 
 - The letter is dated 10 September 1969 and is sent from Mangalore to N. G. Ranga.

@@ -58,6 +58,10 @@ summary: |-
   These draft minutes record Swatantra Party organisational proceedings across two related meetings. The opening page refers to a National Executive meeting held on 27 December at Hali Buildings, while the subsequent pages document the General Council meeting held on 15–16 November 1969 at Vithalbhai Patel Bhavan, New Delhi. The record lists participants from multiple regions, confirms earlier minutes, notes tributes to deceased party members, and records discussion of the party’s structure and administration.
 ---
 
+## Summary
+
+These draft minutes record Swatantra Party organisational proceedings across two related meetings. The opening page refers to a National Executive meeting held on 27 December at Hali Buildings, while the subsequent pages document the General Council meeting held on 15–16 November 1969 at Vithalbhai Patel Bhavan, New Delhi. The record lists participants from multiple regions, confirms earlier minutes, notes tributes to deceased party members, and records discussion of the party’s structure and administration.
+
 ## Key points
 
 - The General Council confirmed the minutes of its 4 October 1969 meeting at Bhubaneswar.

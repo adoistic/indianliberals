@@ -50,6 +50,12 @@ summary: |-
   The circular fixes the election for April 30, 1968, and specifies nomination, withdrawal, polling, and voting arrangements. Nomination papers were due by 7 p.m. on April 22, withdrawals by 1 p.m. on April 27, and polling was to be conducted by secret ballot using a single transferable vote for each office. The document is signed only “Secretary”; no personal author or signatory is named.
 ---
 
+## Summary
+
+This one-page English office circular, dated April 11, 1968, sets out the schedule and procedures for annual elections to the Swatantra Party's parliamentary offices. It lists the positions to be elected—including Chairman and Leader, Deputy Leader, Leader in the Rajya Sabha, secretaries, whips, and six Executive Committee members—with separate representation from the Lok Sabha and Rajya Sabha.
+
+The circular fixes the election for April 30, 1968, and specifies nomination, withdrawal, polling, and voting arrangements. Nomination papers were due by 7 p.m. on April 22, withdrawals by 1 p.m. on April 27, and polling was to be conducted by secret ballot using a single transferable vote for each office. The document is signed only “Secretary”; no personal author or signatory is named.
+
 ## Key points
 
 - The circular announces annual elections for the Swatantra Party's parliamentary office bearers.

@@ -55,6 +55,14 @@ summary: |-
   The preliminary pages identify Atulananda Chakrabarti as the pamphlet’s subject and intellectual advocate rather than explicitly naming him as author. They reproduce commendations from Rabindranath Tagore, Sir Maurice Gwyer, and Mahatma Gandhi, newspaper descriptions of Chakrabarti’s work, and a list of his books. The pamphlet also reproduces or cites arguments by H. G. Wells, Bruce Miller, Whitehead, Max Born, Ernst Cassirer, and Crossland’s reviewer Strachey.
 ---
 
+## Summary
+
+This 12-page English pamphlet asks what democracy should mean in India and by what institutional means it can be made workable. The main argument, presented on printed pages 7–11, treats democracy and socialism as rival but potentially reconcilable forms of popular government. India is described as attempting to mediate between them by embedding democratic procedures within a “socialist pattern” of society, but the pamphlet insists that this synthesis must rest on widely agreed principles rather than slogans or expediency.
+
+The pamphlet gives universities a central role in this project. They are urged to study government scientifically, connect theory with empirical conditions, and help formulate an applicable definition of democracy for the Indian context. The text cautions against simply importing Western democratic definitions: India’s democracy must account for its different historical development, economic circumstances, traditions, and the need to create a new economy. The closing appeal is for universities, researchers, politicians, and publicists to debate these questions openly and collectively, including whether India’s definition of democracy should add a clause recognizing its distinctive “Socialist pattern.”
+
+The preliminary pages identify Atulananda Chakrabarti as the pamphlet’s subject and intellectual advocate rather than explicitly naming him as author. They reproduce commendations from Rabindranath Tagore, Sir Maurice Gwyer, and Mahatma Gandhi, newspaper descriptions of Chakrabarti’s work, and a list of his books. The pamphlet also reproduces or cites arguments by H. G. Wells, Bruce Miller, Whitehead, Max Born, Ernst Cassirer, and Crossland’s reviewer Strachey.
+
 ## Key points
 
 - The pamphlet argues that India needs an applicable definition of democracy rather than an unexamined inheritance of Western formulas.

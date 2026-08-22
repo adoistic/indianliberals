@@ -51,6 +51,12 @@ summary: |-
   The letter also offers institutional cooperation. Bhabha notes that the Central Bank of India has offices in Orissa functioning satisfactorily because of cooperation from people in the state, and says the bank is prepared to expand its activities for mutual benefit. The page is dated only “26th June”; no year is printed.
 ---
 
+## Summary
+
+This single-page personal letter from C. H. Bhabha to R. N. Singh Deo, Chief Minister of Orissa State, follows a meeting in Calcutta. Bhabha thanks the Chief Minister for frank discussions on various matters, including a suggestion from Minoo Masani, and acknowledges receiving papers concerning the Talcher Industrial complex. He says he will forward the papers to the appropriate authorities and expresses hope that progress in the state will result under Singh Deo’s stewardship.
+
+The letter also offers institutional cooperation. Bhabha notes that the Central Bank of India has offices in Orissa functioning satisfactorily because of cooperation from people in the state, and says the bank is prepared to expand its activities for mutual benefit. The page is dated only “26th June”; no year is printed.
+
 ## Key points
 
 - Bhabha writes to R. N. Singh Deo after meeting him in Calcutta.

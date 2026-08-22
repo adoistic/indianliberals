@@ -54,6 +54,12 @@ summary: |-
   The agenda focuses on preparations for the party's National Convention at Sapru Hall on 12–13 December 1966, including associated meetings of the Central Parliamentary Board, National Executive, and General Council. It also lists consideration of the draft election manifesto, recommendations concerning disciplinary action by state units, and other business with the Chair's permission. Signed by M. R. Masani as General Secretary, the circular additionally directs members to contact A. P. Jain for travel reservations and hotel bookings.
 ---
 
+## Summary
+
+This one-page Swatantra Party Central Office circular, dated 18 October 1966, confirms that the National Executive will meet in New Delhi on 6 November 1966 at the residence of K. M. Munshi. The meeting is scheduled to confirm the minutes of the previous National Executive meeting and to conduct related business.
+
+The agenda focuses on preparations for the party's National Convention at Sapru Hall on 12–13 December 1966, including associated meetings of the Central Parliamentary Board, National Executive, and General Council. It also lists consideration of the draft election manifesto, recommendations concerning disciplinary action by state units, and other business with the Chair's permission. Signed by M. R. Masani as General Secretary, the circular additionally directs members to contact A. P. Jain for travel reservations and hotel bookings.
+
 ## Key points
 
 - The Swatantra Party's next National Executive meeting is announced for 6 November 1966 in New Delhi.

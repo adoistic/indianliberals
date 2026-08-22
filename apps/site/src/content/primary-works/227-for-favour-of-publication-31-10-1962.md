@@ -54,6 +54,12 @@ summary: |-
   Masani also endorses a policy correction in India, criticizing those in authority for being "out of touch with reality in the modern world." The measures he proposes include accepting military aid from friendly countries without abandoning non-alignment, distinguishing friends from enemies, isolating the Communist Fifth Column, and appointing a new Defence Minister capable of providing the "dynamic leadership" he says the incumbent has failed to provide. The page is simultaneously headed "For favour of publication" and marked "Not for publication" at the foot.
 ---
 
+## Summary
+
+This single-page Swatantra Party press communication, dated Bombay, October 31, presents M. R. Masani's case for urgent Indo-Pakistani cooperation during the Chinese offensive against Ladakh and the NEFA border. It argues that India's military position around Assam and Kashmir made Pakistan's goodwill strategically necessary, and calls on India's prime minister to assure Pakistan that India would not exploit its involvement with China or its deployment of troops on Pakistani borders.
+
+Masani also endorses a policy correction in India, criticizing those in authority for being "out of touch with reality in the modern world." The measures he proposes include accepting military aid from friendly countries without abandoning non-alignment, distinguishing friends from enemies, isolating the Communist Fifth Column, and appointing a new Defence Minister capable of providing the "dynamic leadership" he says the incumbent has failed to provide. The page is simultaneously headed "For favour of publication" and marked "Not for publication" at the foot.
+
 ## Key points
 
 - The statement links the defence of Ladakh and NEFA to the need for Pakistan's goodwill.

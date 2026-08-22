@@ -52,6 +52,12 @@ summary: |-
   In the rendered pages, Masani also challenges the case for public-sector expansion. He identifies finance and market size as the principal obstacles, arguing that private firms lack funds because policy prevents them from earning a margin, while a new public-sector plant would require even greater investment. He further claims that the proposed expansion is technologically premature: existing firms could expand more cheaply, and the quality of imported components and locally supplied steel remained inadequate. The article concludes, in the rendered pages, that the government should reconsider the proposal and instead create conditions for private manufacturers to undertake expansion.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues against the proposal to establish a 100,000-car manufacturing plant through government initiative. He attributes the Indian automobile industry's difficulties to government policy: an erroneous view of the car as a luxury for affluent consumers, extensive price and production controls, and taxation that raised vehicle prices by more than 50 per cent. The article contends that buyers should bear the price necessary to make manufacture worthwhile rather than have the state suppress prices and demand.
+
+In the rendered pages, Masani also challenges the case for public-sector expansion. He identifies finance and market size as the principal obstacles, arguing that private firms lack funds because policy prevents them from earning a margin, while a new public-sector plant would require even greater investment. He further claims that the proposed expansion is technologically premature: existing firms could expand more cheaply, and the quality of imported components and locally supplied steel remained inadequate. The article concludes, in the rendered pages, that the government should reconsider the proposal and instead create conditions for private manufacturers to undertake expansion.
+
 ## Key points
 
 - Masani opposes a government-backed proposal for a 100,000-car manufacturing plant.

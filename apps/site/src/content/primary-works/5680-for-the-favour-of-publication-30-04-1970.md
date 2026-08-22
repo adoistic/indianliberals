@@ -49,6 +49,10 @@ summary: |-
   This one-page Swatantra Party Parliamentary Office statement, dated April 30, 1970, addresses an internal party dispute involving the National Executive’s decision to remove C. C. Desai. It reports that Professor N. G. Ranga rejected Mr. Ramachandra Amin’s request for a meeting of the Parliamentary Group to reconsider the decision, arguing that the National Executive’s decision could not be annulled by the Parliamentary Group.
 ---
 
+## Summary
+
+This one-page Swatantra Party Parliamentary Office statement, dated April 30, 1970, addresses an internal party dispute involving the National Executive’s decision to remove C. C. Desai. It reports that Professor N. G. Ranga rejected Mr. Ramachandra Amin’s request for a meeting of the Parliamentary Group to reconsider the decision, arguing that the National Executive’s decision could not be annulled by the Parliamentary Group.
+
 ## Key points
 
 - The document is a public statement issued from the Swatantra Party Parliamentary Office in New Delhi.

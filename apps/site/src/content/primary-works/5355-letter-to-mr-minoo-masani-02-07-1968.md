@@ -51,6 +51,12 @@ summary: |-
   The letter also discusses correspondence about the Uttar Pradesh mid-term elections and possible coalition arrangements. Raju disputes Prof. Ranga's interpretation of Masani's position, saying that the proposal for a Swatantra–BKD and possibly PSP fusion had been repeatedly and clearly stated. He further advises Masani, if he discusses politics with Charan Singh, to recognize that Singh is advocating an Orissa-style coalition for Uttar Pradesh. A separate letter from B. P. Singh is enclosed concerning the breakdown of talks in Delhi.
 ---
 
+## Summary
+
+This one-page letter from S. V. Raju to Minoo Masani, dated July 2, 1968, concerns the preparation and publication of Masani's speech by the Junior Chamber. Raju recommends deleting passages on pages 8, 9, and 12 that refer to the Gujarat affair, arguing that the published speech should be restrained rather than invite excessive sympathy. He reports that he is processing the speech and meeting Murli Deora, and encloses a copy of the first portion for further editing.
+
+The letter also discusses correspondence about the Uttar Pradesh mid-term elections and possible coalition arrangements. Raju disputes Prof. Ranga's interpretation of Masani's position, saying that the proposal for a Swatantra–BKD and possibly PSP fusion had been repeatedly and clearly stated. He further advises Masani, if he discusses politics with Charan Singh, to recognize that Singh is advocating an Orissa-style coalition for Uttar Pradesh. A separate letter from B. P. Singh is enclosed concerning the breakdown of talks in Delhi.
+
 ## Key points
 
 - S. V. Raju sends Minoo Masani the final portion of a speech for publication by the Junior Chamber.

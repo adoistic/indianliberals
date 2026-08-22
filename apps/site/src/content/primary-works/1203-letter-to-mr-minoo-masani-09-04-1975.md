@@ -48,6 +48,12 @@ summary: |-
   Palit's chief anxiety is factional interference: he warns that Biju Patnaik and his B.L.D. contingent are attempting to monopolise the agitation and bend it to their own purposes. He reports from the field that public regard for Jayaprakash Narayan in Orissa is high, that JP's recent public meetings were very largely attended, and that the movement can be organised well there — provided Patnaik's interference is contained. Constrained by what he can commit to paper, Palit asks Masani for an indication of his views and hopes to meet him in person.
 ---
 
+## Summary
+
+This single-page typed letter, dated 9 April 1975 from Madras, is addressed by Harihar Palit to Minoo Masani in the weeks preceding the Emergency. Palit encloses (for Masani's reference) a copy of a letter he has sent to Nabakrishna Chowdhury, who has been entrusted with carrying a Bihar-style mass movement into Orissa.
+
+Palit's chief anxiety is factional interference: he warns that Biju Patnaik and his B.L.D. contingent are attempting to monopolise the agitation and bend it to their own purposes. He reports from the field that public regard for Jayaprakash Narayan in Orissa is high, that JP's recent public meetings were very largely attended, and that the movement can be organised well there — provided Patnaik's interference is contained. Constrained by what he can commit to paper, Palit asks Masani for an indication of his views and hopes to meet him in person.
+
 ## Key points
 
 - Typed letter from Harihar Palit to Minoo Masani, dated 9 April 1975, sent from Camp Madras — two months before the Emergency was declared.

@@ -44,6 +44,10 @@ summary: |-
   This three-page English court filing is an Affidavit of Service in Writ Petition No. 14 of 1995 before the High Court of Judicature at Bombay, in its Ordinary Original Civil Jurisdiction. The petition is identified as brought by the Swatantra Party and others against the Union of India and others. The affidavit records efforts to serve Rule NISI and the petition on the respondents through the Sheriff of Bombay.
 ---
 
+## Summary
+
+This three-page English court filing is an Affidavit of Service in Writ Petition No. 14 of 1995 before the High Court of Judicature at Bombay, in its Ordinary Original Civil Jurisdiction. The petition is identified as brought by the Swatantra Party and others against the Union of India and others. The affidavit records efforts to serve Rule NISI and the petition on the respondents through the Sheriff of Bombay.
+
 ## Key points
 
 - The document is headed “Affidavit of Service” and relates to Writ Petition No. 14 of 1995.

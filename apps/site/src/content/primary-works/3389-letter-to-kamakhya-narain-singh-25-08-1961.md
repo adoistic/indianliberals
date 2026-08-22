@@ -47,6 +47,10 @@ summary: |-
   In this 25 August 1961 letter from M. R. Masani to Shri Kamakhya Narain Singh, President of the Bihar Swatantra Party, Masani addresses the party's financial position and assures the recipient that the Centre is making exceptional efforts to assist Bihar. He explains that advances covering May and June were made specifically for those two months, that no further advance was planned from July onward, and that the Parliamentary Sub-Committee would review the matter and make further arrangements.
 ---
 
+## Summary
+
+In this 25 August 1961 letter from M. R. Masani to Shri Kamakhya Narain Singh, President of the Bihar Swatantra Party, Masani addresses the party's financial position and assures the recipient that the Centre is making exceptional efforts to assist Bihar. He explains that advances covering May and June were made specifically for those two months, that no further advance was planned from July onward, and that the Parliamentary Sub-Committee would review the matter and make further arrangements.
+
 ## Key points
 
 - Masani says the Centre is going out of its way to help the Bihar Swatantra Party despite the risk of misunderstanding by other state units.

@@ -49,6 +49,12 @@ summary: |-
   Masani also confirms plans to meet Rajagopalachari at Trichy and outlines a busy itinerary involving Madras, Calcutta, Orissa, and an I.C.C.F. seminar. On the legal issue troubling Rajagopalachari, he advises him not to worry: an appeal against the Gujarat High Court's decision is being prepared for the Supreme Court, with Purshottam Trikamdas briefed in the matter. The letter is both personal correspondence and a brief update on electoral coordination, travel, and litigation.
 ---
 
+## Summary
+
+In this letter dated 3 April 1963, Minoo Masani responds sympathetically to C. Rajagopalachari's distress over business friends taking opposing sides and colleagues disappointing him. Masani interprets these personal and political frustrations as symptoms of the country's broader backwardness, which is obscured by hopes for a better future. He reports having publicly appealed at a Bangalore meeting for the Jan Sangh to withdraw its candidate and support Katti.
+
+Masani also confirms plans to meet Rajagopalachari at Trichy and outlines a busy itinerary involving Madras, Calcutta, Orissa, and an I.C.C.F. seminar. On the legal issue troubling Rajagopalachari, he advises him not to worry: an appeal against the Gujarat High Court's decision is being prepared for the Supreme Court, with Purshottam Trikamdas briefed in the matter. The letter is both personal correspondence and a brief update on electoral coordination, travel, and litigation.
+
 ## Key points
 
 - Masani sympathises with Rajagopalachari's depression and links his disappointments to the country's broader backwardness.

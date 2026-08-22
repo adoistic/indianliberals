@@ -63,6 +63,12 @@ summary: |-
   The principles defend private property, freedom of trade and employment, fair compensation, competitive enterprise, and safeguards against excessive taxation, inflation, bureaucratic expansion, and indiscriminate government planning. In agriculture, the statement favors self-employed peasant proprietors, higher production through material and psychological incentives, and protection of cultivators' ownership and management rights. It supports limiting state enterprise to areas where private initiative is difficult, and concludes by calling for a broad-based opposition party to safeguard democracy and promote decentralized industry and administration.
 ---
 
+## Summary
+
+This four-page statement presents the Swatantra Party's 19 principles, adopted at an informal meeting in Madras on 4 June 1959 with C. Rajagopalachari in the chair. It argues that social justice and welfare are better pursued through non-socialist means than through state compulsion, expropriation, or repudiation of obligations, and invokes Gandhi's doctrine of trusteeship alongside a call to replace materialist values with spiritual ones.
+
+The principles defend private property, freedom of trade and employment, fair compensation, competitive enterprise, and safeguards against excessive taxation, inflation, bureaucratic expansion, and indiscriminate government planning. In agriculture, the statement favors self-employed peasant proprietors, higher production through material and psychological incentives, and protection of cultivators' ownership and management rights. It supports limiting state enterprise to areas where private initiative is difficult, and concludes by calling for a broad-based opposition party to safeguard democracy and promote decentralized industry and administration.
+
 ## Key points
 
 - The statement rejects socialism, state compulsion, expropriation, and repudiation of obligations as the primary means of achieving social justice.

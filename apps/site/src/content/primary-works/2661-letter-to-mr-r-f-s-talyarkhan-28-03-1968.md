@@ -48,6 +48,12 @@ summary: |-
   The Chief Minister attributes the delay to the OMC's efforts to obtain a bank loan. The OMC has agreed to pay interest for the period of delayed payment, while the Chief Minister has requested an immediate part-payment and expresses confidence that the remaining bills will be cleared by the end of April. Masani offers to convey the Chief Minister's letter or provide further assistance.
 ---
 
+## Summary
+
+In this strictly confidential letter dated March 28, 1968, M. R. Masani writes from New Delhi to R. F. S. Talyarkhan, Chairman and Chief Executive of Voltas Limited, concerning the failure of the Orissa Mining Corporation (OMC) to pay Voltas's bills for Tata/P&H shovels and spares. Masani reports that he had raised the matter with the Chief Minister and has received a reply stating that the OMC has been asked to clear its dues as soon as possible.
+
+The Chief Minister attributes the delay to the OMC's efforts to obtain a bank loan. The OMC has agreed to pay interest for the period of delayed payment, while the Chief Minister has requested an immediate part-payment and expresses confidence that the remaining bills will be cleared by the end of April. Masani offers to convey the Chief Minister's letter or provide further assistance.
+
 ## Key points
 
 - Masani writes to Voltas executive R. F. S. Talyarkhan about unpaid bills owed by the Orissa Mining Corporation.

@@ -54,6 +54,12 @@ summary: |-
   Pages 2 and 3 list 23 ministerial subjects, including Atomic Energy, Defence, Education, External Affairs, Finance, Food and Agriculture, Industry and Supply, Transport, Works and Housing, and the Planning Commission, alongside proposed speakers. Handwritten annotations revise, number, strike out, and supplement several assignments. The final page contains a separate handwritten note headed “Member of Parliament (Lok Sabha),” assigning subjects including Transport and Communications, Food and Agriculture, Planning, and Panchayati Raj (Community Development).
 ---
 
+## Summary
+
+This four-page English-language office circular, issued by the Swatantra Party Parliamentary Office in New Delhi on 25 February 1965, announces a meeting of a sub-committee of the party’s Executive Committee. Scheduled for 27 February at Lodhi Estate, the meeting was to consider and recommend the allocation of parliamentary speakers for demands for grants across government ministries, together with the cut motions to be tabled for each ministry. The circular is signed by P. N. Solanki and addressed to Solanki, Sardar Kapur Singh, and M. R. Masani.
+
+Pages 2 and 3 list 23 ministerial subjects, including Atomic Energy, Defence, Education, External Affairs, Finance, Food and Agriculture, Industry and Supply, Transport, Works and Housing, and the Planning Commission, alongside proposed speakers. Handwritten annotations revise, number, strike out, and supplement several assignments. The final page contains a separate handwritten note headed “Member of Parliament (Lok Sabha),” assigning subjects including Transport and Communications, Food and Agriculture, Planning, and Panchayati Raj (Community Development).
+
 ## Key points
 
 - The circular is dated 25 February 1965 and issued from 53 North Avenue, New Delhi-1.

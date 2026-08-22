@@ -48,6 +48,10 @@ summary: |-
   In this letter dated 31 October 1963, M. R. Masani reports that arrangements for a proposed national convention have stalled. Rajasthan has declined to host it, and Bangalore has not responded positively despite persuasion. Masani therefore suggests postponing the convention from the first half of December to late January 1964, arguing that the delay may allow the organisers to revise their programme and formulate a policy suited to circumstances after the Chinese invasion, the Kamaraj Plan, and its sequels.
 ---
 
+## Summary
+
+In this letter dated 31 October 1963, M. R. Masani reports that arrangements for a proposed national convention have stalled. Rajasthan has declined to host it, and Bangalore has not responded positively despite persuasion. Masani therefore suggests postponing the convention from the first half of December to late January 1964, arguing that the delay may allow the organisers to revise their programme and formulate a policy suited to circumstances after the Chinese invasion, the Kamaraj Plan, and its sequels.
+
 ## Key points
 
 - Masani says no progress has been made in securing a venue for the proposed national convention.

@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated April 7, 1977, is from Girish Munshi at Bharatiya Vidya Bhavan to Minoo Masani. Munshi thanks Masani for accepting an appointment as arbitrator in a dispute involving Parmanandji, K. H. Subramanian, L. R. Sampat, and S. V. Raju. The letter says that the relevant correspondence is enclosed for Masani's study.
 ---
 
+## Summary
+
+This one-page letter, dated April 7, 1977, is from Girish Munshi at Bharatiya Vidya Bhavan to Minoo Masani. Munshi thanks Masani for accepting an appointment as arbitrator in a dispute involving Parmanandji, K. H. Subramanian, L. R. Sampat, and S. V. Raju. The letter says that the relevant correspondence is enclosed for Masani's study.
+
 ## Key points
 
 - The letter is dated April 7, 1977, and is written from Bharatiya Vidya Bhavan in Bombay.

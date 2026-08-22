@@ -49,6 +49,12 @@ summary: |-
   Rajagopalachari then asks whether Masani can come to Madras for a felicitation meeting. He proposes arranging a suitable date, notes that he had tried unsuccessfully to secure a venue for Sunday the 23rd, and asks Masani to indicate when he could come so that the meeting could be fixed. The page also bears a received stamp dated 21 June 1963.
 ---
 
+## Summary
+
+In this handwritten letter dated June 17, 1963, C. Rajagopalachari praises Minoo Masani’s recent statement at Ahmedabad, describing Masani’s replies to an intervention by Chagla as “fine and succinct.” Rajagopalachari says that the statement anticipated an article of his then in the press and reports that “Ranga,” who had visited the previous day, also admired Masani’s brilliance and effectiveness in debate.
+
+Rajagopalachari then asks whether Masani can come to Madras for a felicitation meeting. He proposes arranging a suitable date, notes that he had tried unsuccessfully to secure a venue for Sunday the 23rd, and asks Masani to indicate when he could come so that the meeting could be fixed. The page also bears a received stamp dated 21 June 1963.
+
 ## Key points
 
 - Rajagopalachari addresses Minoo Masani in a personal letter dated June 17, 1963.

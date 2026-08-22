@@ -49,6 +49,12 @@ summary: |-
   The practical issue, Raju argues, is what will happen to the office acquired in 1959. He identifies two immediate risks—control passing to the Janata Party or the landlords reclaiming the premises—and urges Dandekar to secure a continuing organisational base. He proposes either creating an organisation devoted to service and constructive activities, to which the Swatantra Party could transfer its assets, or handing the premises to the Adult Education Institute. The postscript adds that either Dandekar or Minoo Masani would be suitable candidates for a forthcoming by-election in Rajkot.
 ---
 
+## Summary
+
+In this two-page letter dated 4 April 1977, S. V. Raju writes to N. Dandekar in a personal capacity about the impending dissolution of the Swatantra Party and the future of its office premises. Raju recalls that he and more than fifty others opposed the party’s earlier merger into the Bharatiya Lok Dal, but argues that the formation of the Janata Party now makes dissolution appropriate. He describes this as both a relief and the fulfilment of a pledge to C. Rajagopalachari to keep the “Old Guard” together until the party’s future became clearer.
+
+The practical issue, Raju argues, is what will happen to the office acquired in 1959. He identifies two immediate risks—control passing to the Janata Party or the landlords reclaiming the premises—and urges Dandekar to secure a continuing organisational base. He proposes either creating an organisation devoted to service and constructive activities, to which the Swatantra Party could transfer its assets, or handing the premises to the Adult Education Institute. The postscript adds that either Dandekar or Minoo Masani would be suitable candidates for a forthcoming by-election in Rajkot.
+
 ## Key points
 
 - Raju states that the letter reflects his personal view and was not discussed with anyone else.

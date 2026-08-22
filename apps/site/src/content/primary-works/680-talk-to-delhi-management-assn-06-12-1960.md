@@ -50,6 +50,12 @@ summary: |-
   The speaker proposes assessing candidates against the requirements of a specific job, including technical qualifications, skills and aptitudes, mental ability, and physical fitness. The process outlined includes a comprehensive application form, a sufficiently large candidate field, reference checks, interviews and tests, induction, placement, probation, appraisal, career planning, and training. The final section stresses specialisation and skilled observation, concluding that appraisal of people is "more an art than a science." The pages do not identify the speaker, publisher, venue beyond the reference to the Delhi Management Association, or the sources of the cited examples.
 ---
 
+## Summary
+
+This five-page typescript outline records a talk to the Delhi Management Association on 6 December 1960 about recruitment and management selection. It argues that hiring is a substantial investment: a poor appointment can generate costs through mistakes, wasted training, lost time, and lack of organisational harmony. The outline contrasts hurried or intuitive recruitment with more systematic selection, while warning against replacing judgment with mechanical testing or bureaucratic attitudes.
+
+The speaker proposes assessing candidates against the requirements of a specific job, including technical qualifications, skills and aptitudes, mental ability, and physical fitness. The process outlined includes a comprehensive application form, a sufficiently large candidate field, reference checks, interviews and tests, induction, placement, probation, appraisal, career planning, and training. The final section stresses specialisation and skilled observation, concluding that appraisal of people is "more an art than a science." The pages do not identify the speaker, publisher, venue beyond the reference to the Delhi Management Association, or the sources of the cited examples.
+
 ## Key points
 
 - Recruitment is presented as an investment whose failure can cost an organisation heavily in salaries, training, travel, and administrative work.

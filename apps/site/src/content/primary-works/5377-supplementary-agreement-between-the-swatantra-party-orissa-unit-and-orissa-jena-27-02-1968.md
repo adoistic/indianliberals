@@ -49,6 +49,12 @@ summary: |-
   The agreement also establishes a framework for government formation and collective responsibility. Ministerial selection and the number of ministers are to be determined by the coalition leader in consultation with the deputy leader; the Council of Ministers is to operate under the State's existing rules of business; and coalition members, especially ministers, are expected to cooperate loyally with the legislative leader. The deputy leader is designated Deputy Chief Minister. The document is signed by R. N. Singh Deo for the Swatantra Party Orissa Unit and P. K. Pradhan for the Orissa Jana Congress.
 ---
 
+## Summary
+
+This one-page agreement, dated February 27, 1968, sets out a coalition arrangement between the Swatantra Legislative Party in Orissa and the Orissa Jana Congress. It provides that the Swatantra leader will serve as Leader of the Swatantra–Jana Congress Coalition Party, while the Jana Congress leader will serve as Deputy Leader; both parties are to decide their course of action jointly according to parliamentary procedure.
+
+The agreement also establishes a framework for government formation and collective responsibility. Ministerial selection and the number of ministers are to be determined by the coalition leader in consultation with the deputy leader; the Council of Ministers is to operate under the State's existing rules of business; and coalition members, especially ministers, are expected to cooperate loyally with the legislative leader. The deputy leader is designated Deputy Chief Minister. The document is signed by R. N. Singh Deo for the Swatantra Party Orissa Unit and P. K. Pradhan for the Orissa Jana Congress.
+
 ## Key points
 
 - The document records a supplementary coalition agreement dated February 27, 1968.

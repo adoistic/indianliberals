@@ -53,6 +53,12 @@ summary: |-
   The circular requests four specific details: whether each state has a Vidhan Parishad, whether the Swatantra Party has members in it, whether its elections coincide with Rajya Sabha biennial elections, and, if not, when the next elections will occur. It closes by asking for an early reply. The document records internal party coordination around legislative representation and election planning rather than advancing a substantive policy argument.
 ---
 
+## Summary
+
+Dated December 12, 1967, this one-page Central Office Circular from the Swatantra Party asks state-level party contacts to provide information about upcoming elections to state Legislative Councils (Vidhan Parishads). S. V. Raju, signing as Executive Secretary, notes that a separate General Secretary’s Letter No. 165 concerns biennial Rajya Sabha elections and frames this circular as a parallel information-gathering exercise.
+
+The circular requests four specific details: whether each state has a Vidhan Parishad, whether the Swatantra Party has members in it, whether its elections coincide with Rajya Sabha biennial elections, and, if not, when the next elections will occur. It closes by asking for an early reply. The document records internal party coordination around legislative representation and election planning rather than advancing a substantive policy argument.
+
 ## Key points
 
 - The document is Central Office Circular No. 88, dated December 12, 1967.

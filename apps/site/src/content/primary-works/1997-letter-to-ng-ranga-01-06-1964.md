@@ -49,6 +49,12 @@ summary: |-
   Singh cites several examples: a party leader allegedly nominated himself to a delegation to an African country; two members were selected for a tour of the Andaman Islands without consulting the party; and a Southeast Asian tour team was chosen surreptitiously. He also questions the procedure used to approve a member for a Select Committee, saying it failed to inspire confidence in the process. The letter closes by asking Ranga to circulate it to party members so that the matter can be openly discussed at a general party meeting.
 ---
 
+## Summary
+
+In this letter dated 1 June 1964, Kapur Singh, M.P., writes to Prof. N.G. Ranga to report growing discontent among Swatantra Party members in Parliament. He argues that decisions on nominations to parliamentary committees, foreign-tour teams, and other party matters are being made arbitrarily by a small clique rather than through consultation with the wider parliamentary group.
+
+Singh cites several examples: a party leader allegedly nominated himself to a delegation to an African country; two members were selected for a tour of the Andaman Islands without consulting the party; and a Southeast Asian tour team was chosen surreptitiously. He also questions the procedure used to approve a member for a Select Committee, saying it failed to inspire confidence in the process. The letter closes by asking Ranga to circulate it to party members so that the matter can be openly discussed at a general party meeting.
+
 ## Key points
 
 - Kapur Singh reports simmering discontent within the Swatantra Party parliamentary group.

@@ -50,6 +50,12 @@ summary: |-
   The appended minutes record the committee meeting held on July 5 at Bharatiya Vidya Bhavan. The committee discussed the party’s principles, policy, and organisation; arrangements for C. Rajagopalachari’s visit; establishing a permanent office; the party’s finances and budget; a proposed programme of smaller city-wide meetings; and public symposia introducing the party to different occupational groups. The pages document early organisational, financial, and outreach work associated with the formation of the Swatantra Party in Greater Bombay.
 ---
 
+## Summary
+
+This two-page English-language Swatantra Party record from Bombay, dated July 9, 1959, consists of an invitation from the organising secretary, (Miss) R. Hateria, to attend the next meeting of the Organising Committee for Greater Bombay. The meeting was scheduled for July 13 at A. D. Shroff’s office, and the letter requests the recipient’s presence.
+
+The appended minutes record the committee meeting held on July 5 at Bharatiya Vidya Bhavan. The committee discussed the party’s principles, policy, and organisation; arrangements for C. Rajagopalachari’s visit; establishing a permanent office; the party’s finances and budget; a proposed programme of smaller city-wide meetings; and public symposia introducing the party to different occupational groups. The pages document early organisational, financial, and outreach work associated with the formation of the Swatantra Party in Greater Bombay.
+
 ## Key points
 
 - The letter invites the recipient to the Swatantra Party’s Greater Bombay organising committee meeting on July 13, 1959.

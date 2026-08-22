@@ -49,6 +49,12 @@ summary: |-
   Masani emphasizes discretion: he says he made the letters cryptic and included only what he considered necessary, then asks Ranga for approval. The page also records the formal address and copy notation identifying Ranga as a Member of Parliament representing Chittoor District, Andhra Pradesh.
 ---
 
+## Summary
+
+This one-page letter, dated 9 May 1964, concerns preparations for a Parliamentary Board meeting in Madras scheduled for 16–17 May. M. R. Masani tells N. G. Ranga that an agenda and an additional copy have been sent, and reports writing to three parties regarding a complaint attributed to “Zejriwal,” following lines suggested by C. Rajagopalachari (“Rajaji”) and agreed to by Ranga.
+
+Masani emphasizes discretion: he says he made the letters cryptic and included only what he considered necessary, then asks Ranga for approval. The page also records the formal address and copy notation identifying Ranga as a Member of Parliament representing Chittoor District, Andhra Pradesh.
+
 ## Key points
 
 - The letter is dated 9 May 1964.

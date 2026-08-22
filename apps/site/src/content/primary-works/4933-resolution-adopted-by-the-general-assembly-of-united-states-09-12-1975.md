@@ -58,6 +58,12 @@ summary: |-
   The annex defines torture as the intentional infliction of severe physical or mental pain for purposes including obtaining information or a confession, punishment, intimidation, or coercion. It rejects war, political instability, or public emergency as justifications; requires states to prevent torture, criminalize it, review detention practices, investigate allegations impartially, prosecute offenders, provide redress and compensation, and exclude statements obtained through torture from legal proceedings. The final two pages reproduce Resolution 3453 (XXX), which calls for further international work on detention, imprisonment, police ethics, medical ethics, and implementation of the declaration, including future review by the General Assembly.
 ---
 
+## Summary
+
+This five-page archival document, circulated by Amnesty International in January 1976, reproduces United Nations General Assembly Resolution 3452 (XXX), adopted on 9 December 1975, together with its annexed Declaration on the Protection of All Persons from being Subjected to Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment. The resolution grounds protection from torture in the inherent dignity and equal, inalienable rights of every person, and links the declaration to the United Nations Charter, the Universal Declaration of Human Rights, and the International Covenant on Civil and Political Rights.
+
+The annex defines torture as the intentional infliction of severe physical or mental pain for purposes including obtaining information or a confession, punishment, intimidation, or coercion. It rejects war, political instability, or public emergency as justifications; requires states to prevent torture, criminalize it, review detention practices, investigate allegations impartially, prosecute offenders, provide redress and compensation, and exclude statements obtained through torture from legal proceedings. The final two pages reproduce Resolution 3453 (XXX), which calls for further international work on detention, imprisonment, police ethics, medical ethics, and implementation of the declaration, including future review by the General Assembly.
+
 ## Key points
 
 - Resolution 3452 (XXX) adopts an international declaration prohibiting torture and other cruel, inhuman, or degrading treatment or punishment.

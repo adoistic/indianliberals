@@ -70,6 +70,12 @@ summary: |-
   The statement applies this framework to agriculture, industry, taxation, public administration, labour, and constitutional government. It defends private ownership and self-employed cultivation, opposes collectivisation and bureaucratic management of the rural economy, and favours competitive enterprise, free distribution, and consumer and producer choice. It calls for restraint in public expenditure, taxation, deficit financing, foreign borrowing, inflation, and the expansion of State enterprise. The final principles support decentralised industry, full employment, labour organisation and collective bargaining, the rule of law, an independent judiciary, judicial review, truth and non-violence in the tradition of Gandhi, and freedom of opinion for party members outside the party’s fundamental principles.
 ---
 
+## Summary
+
+Adopted at the Swatantra Party’s Preparatory Convention in Bombay on August 1–2, 1959, this Statement of Principles sets out a programme combining social justice with individual freedom and limited government. It affirms equality of opportunity without distinction of religion, caste, occupation, or political affiliation, while arguing that public welfare depends on individual initiative, enterprise, and energy. The State is assigned responsibility for preventing anti-social activity, protecting weaker sections, and providing essential services, but is cautioned against expanding interference, compulsion, and bureaucratic control.
+
+The statement applies this framework to agriculture, industry, taxation, public administration, labour, and constitutional government. It defends private ownership and self-employed cultivation, opposes collectivisation and bureaucratic management of the rural economy, and favours competitive enterprise, free distribution, and consumer and producer choice. It calls for restraint in public expenditure, taxation, deficit financing, foreign borrowing, inflation, and the expansion of State enterprise. The final principles support decentralised industry, full employment, labour organisation and collective bargaining, the rule of law, an independent judiciary, judicial review, truth and non-violence in the tradition of Gandhi, and freedom of opinion for party members outside the party’s fundamental principles.
+
 ## Key points
 
 - The Swatantra Party links social justice and equality of opportunity with maximum individual freedom and minimal State interference.

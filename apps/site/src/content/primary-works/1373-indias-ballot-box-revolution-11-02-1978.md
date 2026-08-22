@@ -55,6 +55,12 @@ summary: |-
   The visible contents list indicates a chronological and analytical treatment of Indira Gandhi’s India, the Emergency, resistance, the Janata Party’s campaign and alliances, electoral fairness and financing, the popular vote, and the election’s broader significance. The promotional description also says that the book traces the Janata Party’s origins and success, examines the Congress split and Mrs Gandhi’s role, discusses post-election political tensions, evaluates the Emergency’s effect on Indian politics, and projects the future of Indian democracy. The supplied scan contains no chapter text or substantive argument beyond this front matter.
 ---
 
+## Summary
+
+The rendered pages are promotional and biographical front matter for When the Wind Blows: India’s Ballot-Box Revolution, a 1978 English-language study by S. P. Aiyar and S. V. Raju. The publisher describes the book as an account of the March 1977 General Election, set against the twenty-month Emergency, with emphasis on the people involved in what it calls India’s “Ballot-Box Revolution” and on previously unpublished material concerning underground activity.
+
+The visible contents list indicates a chronological and analytical treatment of Indira Gandhi’s India, the Emergency, resistance, the Janata Party’s campaign and alliances, electoral fairness and financing, the popular vote, and the election’s broader significance. The promotional description also says that the book traces the Janata Party’s origins and success, examines the Congress split and Mrs Gandhi’s role, discusses post-election political tensions, evaluates the Emergency’s effect on Indian politics, and projects the future of Indian democracy. The supplied scan contains no chapter text or substantive argument beyond this front matter.
+
 ## Key points
 
 - The book studies the March 1977 General Election against the background of the twenty-month Emergency.

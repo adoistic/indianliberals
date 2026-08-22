@@ -46,6 +46,10 @@ summary: |-
   In this letter dated August 2, 1972, M. R. Masani writes to Asoka Mehta after reading Mehta's article in The Statesman. Masani says he has submitted a blunter article of his own and encloses a copy, while expressing appreciation for Mehta's subtitle.
 ---
 
+## Summary
+
+In this letter dated August 2, 1972, M. R. Masani writes to Asoka Mehta after reading Mehta's article in The Statesman. Masani says he has submitted a blunter article of his own and encloses a copy, while expressing appreciation for Mehta's subtitle.
+
 ## Key points
 
 - Masani responds to an article by Asoka Mehta published in The Statesman.

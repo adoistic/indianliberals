@@ -54,6 +54,12 @@ summary: |-
   The remaining pages are attachments: a February 1, 1968 covering letter from N. K. Somani forwarding a draft communication concerning the same matter, and newspaper clippings describing the new trade advisory council, its expanded remit, membership, and functions. The clippings also include unrelated economic and market reporting. The summary therefore treats Masani's first-page letter as the principal document and the later pages as contextual attachments.
 ---
 
+## Summary
+
+This item is a letter from M. R. Masani to Commerce Minister Dinesh Singh, dated February 3, 1968. Masani objects to the composition of the recently reconstituted Board of Trade and Advisory Council on Trade, arguing that parliamentary seats on both bodies have been filled entirely by Congress members. He urges that at least one member of the Swatantra Group, described as the largest opposition group and as possessing relevant experience, should have been nominated.
+
+The remaining pages are attachments: a February 1, 1968 covering letter from N. K. Somani forwarding a draft communication concerning the same matter, and newspaper clippings describing the new trade advisory council, its expanded remit, membership, and functions. The clippings also include unrelated economic and market reporting. The summary therefore treats Masani's first-page letter as the principal document and the later pages as contextual attachments.
+
 ## Key points
 
 - Masani writes to Commerce Minister Dinesh Singh about appointments to two trade advisory bodies.

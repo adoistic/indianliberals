@@ -48,6 +48,10 @@ summary: |-
   This letter, dated June 4, 1974, is written by M. R. Arya to S. V. Raju. Arya arranges an informal meeting for members of the General Council at R. P. Ghilli’s residence in New Delhi on June 8 and asks Raju to inform Minoo Masani. He anticipates low attendance, noting that only two or three reservations have been requested.
 ---
 
+## Summary
+
+This letter, dated June 4, 1974, is written by M. R. Arya to S. V. Raju. Arya arranges an informal meeting for members of the General Council at R. P. Ghilli’s residence in New Delhi on June 8 and asks Raju to inform Minoo Masani. He anticipates low attendance, noting that only two or three reservations have been requested.
+
 ## Key points
 
 - The letter is dated June 4, 1974, and is written on Swatantra Jyoti Hindi fortnightly letterhead.

@@ -52,6 +52,12 @@ summary: |-
   The letter stresses that cooperation inside legislatures must not lead to an organizational or political merger outside them. The Swatantra Party is instructed to preserve its separate identity beyond legislative blocs, making the document a concise statement about the limits of coalition participation and party distinctiveness.
 ---
 
+## Summary
+
+In this one-page letter dated 21 March 1967, M. R. Masani reports that the Swatantra Party's National Executive had considered the Party's participation in legislative blocs, whether in office or opposition. The Executive accepts such arrangements only as a matter of legislative activity.
+
+The letter stresses that cooperation inside legislatures must not lead to an organizational or political merger outside them. The Swatantra Party is instructed to preserve its separate identity beyond legislative blocs, making the document a concise statement about the limits of coalition participation and party distinctiveness.
+
 ## Key points
 
 - The National Executive met in New Delhi on 15 March to discuss the Party's participation in legislative blocs.

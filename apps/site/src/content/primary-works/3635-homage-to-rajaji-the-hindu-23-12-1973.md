@@ -53,6 +53,10 @@ summary: |-
   This two-page English document records proceedings of an apparently Swatantra Party meeting in 1973. The minutes confirm the previous General Council meeting, review the Party’s unsuccessful Sabarkantha Lok Sabha by-election campaign, and note discussion among party figures including Madhu Mehta, Maharawal Laxman Singh, Piloo Mody, Mamu Amersy, D. N. Patodia, H. R. Pasricha, and Sardar Harbhajan Singh. The document also records ratification of the merger of the Bombay and Maharashtra regional units under the name Swatantra Party and the election of Piloo Mody as president.
 ---
 
+## Summary
+
+This two-page English document records proceedings of an apparently Swatantra Party meeting in 1973. The minutes confirm the previous General Council meeting, review the Party’s unsuccessful Sabarkantha Lok Sabha by-election campaign, and note discussion among party figures including Madhu Mehta, Maharawal Laxman Singh, Piloo Mody, Mamu Amersy, D. N. Patodia, H. R. Pasricha, and Sardar Harbhajan Singh. The document also records ratification of the merger of the Bombay and Maharashtra regional units under the name Swatantra Party and the election of Piloo Mody as president.
+
 ## Key points
 
 - The minutes of the General Council meeting held in Madras on April 13, 1973, were confirmed.

@@ -58,6 +58,12 @@ summary: |-
   The resolutions adopt a strongly anti-Congress and anti-authoritarian position. They support Morarji Desai’s fast and demand the withdrawal of the Emergency and elections to the Gujarat Assembly; condemn the obstruction of Jayaprakash Narayan’s public appearance in Calcutta; criticise the manner in which Sheikh Abdullah was restored to power in Kashmir and defend elected representation; and endorse a common electoral front of democratic, non-Congress and non-communist parties. The final resolutions turn to economic policy, defending a mixed economy while attacking what the minutes describe as a drift toward a “totalitarian economy,” and opposing low procurement prices and paddy levy rates imposed on farmers.
 ---
 
+## Summary
+
+These minutes record the All India Swatantra Party National Executive meeting held in Madras on 9 April 1975 under the chairmanship of G. K. Sundaram. The document lists those present and absent, confirms the previous minutes, reviews party-unit activity in Maharashtra, Gujarat, Rajasthan, Delhi, Andhra Pradesh and Orissa, and discusses correspondence concerning the party’s reorganisation and coordination with democratic opposition forces.
+
+The resolutions adopt a strongly anti-Congress and anti-authoritarian position. They support Morarji Desai’s fast and demand the withdrawal of the Emergency and elections to the Gujarat Assembly; condemn the obstruction of Jayaprakash Narayan’s public appearance in Calcutta; criticise the manner in which Sheikh Abdullah was restored to power in Kashmir and defend elected representation; and endorse a common electoral front of democratic, non-Congress and non-communist parties. The final resolutions turn to economic policy, defending a mixed economy while attacking what the minutes describe as a drift toward a “totalitarian economy,” and opposing low procurement prices and paddy levy rates imposed on farmers.
+
 ## Key points
 
 - The National Executive met in Madras on 9 April 1975 with G. K. Sundaram presiding.

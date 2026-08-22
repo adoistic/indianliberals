@@ -60,6 +60,12 @@ summary: |-
   In the rendered pages, the article argues that Swatantra's historical weaknesses included tactical errors, internal personality clashes, and the 1971 electoral alliance against Indira Gandhi. It recounts the party's dissolution in 1974 and considers whether its principles remain politically relevant. Seetha concludes that India lacks a sufficiently cogent centre-right voice: younger Indians increasingly value individual choice and freedom, while existing parties either offer populist subsidies or misunderstand the idea of minimum government. The article is therefore both a history of Swatantra and an argument for recovering its emphasis on freedom, restrained state power and economic liberalisation, while acknowledging the difficulties of translating that programme into a successful rural and electoral strategy.
 ---
 
+## Summary
+
+In the rendered pages, Seetha makes the case for the Swatantra Party as a neglected liberal-democratic tradition and a possible template for a contemporary centre-right political option. The article traces the party's origins in opposition to Jawaharlal Nehru's centralised economic planning and state capitalism, and presents its programme as defending individual rights, personal, intellectual and cultural freedoms, democratic institutions, and limited government. It also challenges the caricature of Swatantra as merely a laissez-faire party serving wealthy interests, emphasising its commitments to social justice, equality of opportunity, small traders, artisans, peasants and economic democracy.
+
+In the rendered pages, the article argues that Swatantra's historical weaknesses included tactical errors, internal personality clashes, and the 1971 electoral alliance against Indira Gandhi. It recounts the party's dissolution in 1974 and considers whether its principles remain politically relevant. Seetha concludes that India lacks a sufficiently cogent centre-right voice: younger Indians increasingly value individual choice and freedom, while existing parties either offer populist subsidies or misunderstand the idea of minimum government. The article is therefore both a history of Swatantra and an argument for recovering its emphasis on freedom, restrained state power and economic liberalisation, while acknowledging the difficulties of translating that programme into a successful rural and electoral strategy.
+
 ## Key points
 
 - The article presents the Swatantra Party as a liberal-democratic alternative formed in opposition to Nehruvian centralised planning and state capitalism.

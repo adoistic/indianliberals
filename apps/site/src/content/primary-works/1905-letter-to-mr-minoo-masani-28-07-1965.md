@@ -52,6 +52,12 @@ summary: |-
   A telegram-style message on the accompanying page asks whether any earlier no-confidence motion had been received and, if so, from whom. The documents identify Masani and Dandekar by their parliamentary division numbers and include their New Delhi and Bombay addresses. No substantive reasons for the motion or subsequent parliamentary proceedings are included in the two pages rendered.
 ---
 
+## Summary
+
+This two-page English correspondence records M. R. Masani and N. Dandekar giving notice of a no-confidence motion to the Secretary of the Lok Sabha. The formal letter, dated 24 July 1965, asks that the motion be placed on the agenda at the House’s first sitting and states its proposed wording: “That this House has no confidence in the Council of Ministers”.
+
+A telegram-style message on the accompanying page asks whether any earlier no-confidence motion had been received and, if so, from whom. The documents identify Masani and Dandekar by their parliamentary division numbers and include their New Delhi and Bombay addresses. No substantive reasons for the motion or subsequent parliamentary proceedings are included in the two pages rendered.
+
 ## Key points
 
 - Masani and Dandekar notify the Lok Sabha Secretary of a proposed no-confidence motion.

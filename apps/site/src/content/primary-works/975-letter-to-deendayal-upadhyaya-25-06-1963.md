@@ -47,6 +47,12 @@ summary: |-
   Masani closes by saying that he looks forward to meeting Upadhyaya in Delhi in August. The letter is a brief exchange between two political figures focused on cooperation among opposition forces; it contains no further discussion of the proposed strategy.
 ---
 
+## Summary
+
+In this one-page letter dated June 25, 1963, M. R. Masani acknowledges Deendayal Upadhyaya's letter of June 19, which had been passed to him by C. Rajagopalachari ("Rajaji"). Masani welcomes a resolution adopted by Upadhyaya's Working Committee on June 13 and 14 concerning efforts at opposition unity, and expresses agreement with pursuing the course Upadhyaya had indicated.
+
+Masani closes by saying that he looks forward to meeting Upadhyaya in Delhi in August. The letter is a brief exchange between two political figures focused on cooperation among opposition forces; it contains no further discussion of the proposed strategy.
+
 ## Key points
 
 - The letter is dated June 25, 1963, and is addressed to Deendayal Upadhyaya.

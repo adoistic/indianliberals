@@ -50,6 +50,12 @@ summary: |-
   Masani adds a candid qualification: neither visitor is among the Party’s most prominent parliamentary speakers. He therefore advises Boichmann to present them in a social rather than explicitly political setting, while supplying their hotel and mailing addresses. The letter closes with a request for news after the two men have left New York and an apology for imposing on Boichmann.
 ---
 
+## Summary
+
+In this confidential letter dated July 30, 1965, M. R. Masani asks Arnold Boichmann to meet two Swatantra Party members of the Lok Sabha, H. H. Maharaja P. K. Deo of Kalahandi and Y. M. Singh, who are visiting New York on a world tour. Masani requests introductions to liberal circles and suggests that Boichmann would be especially well placed to arrange an informal conversation.
+
+Masani adds a candid qualification: neither visitor is among the Party’s most prominent parliamentary speakers. He therefore advises Boichmann to present them in a social rather than explicitly political setting, while supplying their hotel and mailing addresses. The letter closes with a request for news after the two men have left New York and an apology for imposing on Boichmann.
+
 ## Key points
 
 - Masani writes to Arnold Boichmann on July 30, 1965.

@@ -53,6 +53,10 @@ summary: |-
   This single-page set of minutes records a meeting of the Parliamentary Board held in Bombay on September 30, 1964, at Sir Homi Mody’s residence. It lists the attendees, confirms the minutes of the previous meeting held in New Delhi on September 16, and considers recommendations from State units concerning prospective Parliamentary Board candidates for the 1967 elections. The Board approves Sat. Basant Kunwar Ba of Kaiserganj, Rao Krishnapal Singh of Jaleshwar, and P. V. Deo of Kalhandi, while authorising its President and General Secretary to examine other recommendations from the Orissa and Uttar Pradesh units.
 ---
 
+## Summary
+
+This single-page set of minutes records a meeting of the Parliamentary Board held in Bombay on September 30, 1964, at Sir Homi Mody’s residence. It lists the attendees, confirms the minutes of the previous meeting held in New Delhi on September 16, and considers recommendations from State units concerning prospective Parliamentary Board candidates for the 1967 elections. The Board approves Sat. Basant Kunwar Ba of Kaiserganj, Rao Krishnapal Singh of Jaleshwar, and P. V. Deo of Kalhandi, while authorising its President and General Secretary to examine other recommendations from the Orissa and Uttar Pradesh units.
+
 ## Key points
 
 - The meeting was held in Bombay on September 30 at the residence of Sir Homi Mody.

@@ -46,6 +46,12 @@ summary: |-
   The letter also documents the handling of the bank’s official receipt: Raju says he handed it to Sir Homi Mody on the day of payment. No recipient, institutional letterhead, or further explanation of the credit arrangement is visible on the page.
 ---
 
+## Summary
+
+This untitled office letter, signed by S. V. Raju and dated October 18, 1961, records the first repayment instalment on credit advanced to the Raja of Ramgarh. Raju states that Rs. 20,000 was paid to the Central Bank of India on October 4, following instructions in Minoo Masani’s note of the same date.
+
+The letter also documents the handling of the bank’s official receipt: Raju says he handed it to Sir Homi Mody on the day of payment. No recipient, institutional letterhead, or further explanation of the credit arrangement is visible on the page.
+
 ## Key points
 
 - The document is an office letter dated October 18, 1961, signed by S. V. Raju.

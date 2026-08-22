@@ -54,6 +54,12 @@ summary: |-
   The substantive discussion concerned the Rabat question. The members reached a consensus that the party should move a censure motion against the Government for its failure at Rabat. Nawabzada Zulfiqar Ali Khan stated that he could not oppose either Mrs. Gandhi or the censure motion and would vote with the Government. The minutes also stress strict attendance and coordination during a critical parliamentary session, requiring members leaving the House to inform the party office and prohibiting departure from the station without prior permission from the party leadership.
 ---
 
+## Summary
+
+These one-page minutes record a General Body meeting of the Swatantra Parliamentary Party held in Parliament House, New Delhi, on 16 November 1969, and issued on 17 November. The record lists 40 members present, with Prof. N. G. Ranga in the chair and D. N. Patodia serving as secretary. The meeting addressed reports of defections involving P. N. Solanki and Dahyabhai Parmar, and decided that a press note should correct the report that Ramchandra Amin had joined the Congress while continuing to be a Swatantra Party member.
+
+The substantive discussion concerned the Rabat question. The members reached a consensus that the party should move a censure motion against the Government for its failure at Rabat. Nawabzada Zulfiqar Ali Khan stated that he could not oppose either Mrs. Gandhi or the censure motion and would vote with the Government. The minutes also stress strict attendance and coordination during a critical parliamentary session, requiring members leaving the House to inform the party office and prohibiting departure from the station without prior permission from the party leadership.
+
 ## Key points
 
 - The meeting was held on 16 November 1969 at Parliament House, New Delhi, and the minutes were dated 17 November 1969.

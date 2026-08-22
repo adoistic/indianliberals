@@ -46,6 +46,10 @@ summary: |-
   In this letter dated 4 April 1968, Dr. A. R. Khan writes to N. Dandekar, General Secretary of the Swatantra Party, requesting an emergency meeting of the party’s General Council. He identifies the immediate issue as Minoo Masani’s resignation from the National Executive and the Central Parliamentary Board.
 ---
 
+## Summary
+
+In this letter dated 4 April 1968, Dr. A. R. Khan writes to N. Dandekar, General Secretary of the Swatantra Party, requesting an emergency meeting of the party’s General Council. He identifies the immediate issue as Minoo Masani’s resignation from the National Executive and the Central Parliamentary Board.
+
 ## Key points
 
 - The letter is dated 4 April 1968 and is addressed to N. Dandekar, M.P., General Secretary of the Swatantra Party.

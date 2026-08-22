@@ -49,6 +49,12 @@ summary: |-
   Kusum urges Rajagopalachari to use his influence to persuade the resigning leaders to remain. Masani is described as an exceptionally important parliamentarian, economist, and “strongest pillar” of the party. The letter asks Rajagopalachari to command Masani to withdraw his resignation and calls for party members to act with discipline and obedience to the party’s high command. The signature reads only “Kusum,” so the sender’s full identity remains uncertain.
 ---
 
+## Summary
+
+In this letter dated April 5, 1968, Kusum writes to C. Rajagopalachari about resignations from the Swatantra Party by M. R. Masani, Pujya Bhai Bhak[a], and Prof. Ranga. The sender describes recent unrest and other “unfortunate events” in Gujarat, including a stampede, as developments that could damage the party and place it in the hands of an “undisciplined mass of opportunists.”
+
+Kusum urges Rajagopalachari to use his influence to persuade the resigning leaders to remain. Masani is described as an exceptionally important parliamentarian, economist, and “strongest pillar” of the party. The letter asks Rajagopalachari to command Masani to withdraw his resignation and calls for party members to act with discipline and obedience to the party’s high command. The signature reads only “Kusum,” so the sender’s full identity remains uncertain.
+
 ## Key points
 
 - The letter concerns resignations from the Swatantra Party by M. R. Masani, Pujya Bhai Bhak[a], and Prof. Ranga.

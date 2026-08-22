@@ -51,6 +51,12 @@ summary: |-
   In the rendered pages, Masani urges the Government to reject the Chinese terms categorically and preserve the freedom of India’s military commanders to attack or pursue withdrawing Chinese forces. He argues that India can mount a counter-attack if it achieves numerical superiority, parity in firepower, and air support, and he calls for the redeployment of troops to the NEFA front. The essay closes by rejecting a cautious cease-fire strategy, invoking Winston Churchill’s conduct after Dunkirk, and presenting the conflict as a test of India’s honour and national will.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that China’s cease-fire and ultimatum during the 1962 Sino-Indian conflict constitute a continuation of warfare by diplomatic means. He portrays the Chinese move as an attempt to divide Indian public opinion, discourage Western assistance, and extract Chinese forces from an exposed military position. India, he maintains, has correctly rejected the ultimatum and must judge that rejection by its actions rather than by diplomatic language alone.
+
+In the rendered pages, Masani urges the Government to reject the Chinese terms categorically and preserve the freedom of India’s military commanders to attack or pursue withdrawing Chinese forces. He argues that India can mount a counter-attack if it achieves numerical superiority, parity in firepower, and air support, and he calls for the redeployment of troops to the NEFA front. The essay closes by rejecting a cautious cease-fire strategy, invoking Winston Churchill’s conduct after Dunkirk, and presenting the conflict as a test of India’s honour and national will.
+
 ## Key points
 
 - Masani characterizes the Chinese cease-fire and ultimatum as a form of political and military coercion rather than a genuine peace initiative.

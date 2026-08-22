@@ -57,6 +57,12 @@ summary: |-
   The paper also makes the case for shifting coal and freight traffic toward road transport, citing lower truck costs and the possibility of expanding capacity without substantial foreign-exchange expenditure. It criticises the composition and procedures of the Neogy Committee, arguing that public men and parliamentarians should replace officials in determining its recommendations. The reproduced Lok Sabha debate pages reinforce the same position: M. R. Masani describes the decline in road allocations and calls for greater investment in roads, while other speakers raise related issues concerning rural post offices, telecommunications, ports, highways, and transport administration. The final handwritten page is difficult to read and appears to contain notes unrelated to the clearly typed sections.
 ---
 
+## Summary
+
+This undated-titled institutional paper, handwritten as 5 April 1961, argues that Indian transport policy has systematically neglected roads in favour of railways. Its sections on roads and vehicles present declining Five-Year Plan allocations for road development, major infrastructure shortfalls, inadequate vehicle production, and a widening gap between transport requirements and planned additions. The paper treats these deficiencies as evidence of poor planning and discriminatory policy rather than merely technical limitations.
+
+The paper also makes the case for shifting coal and freight traffic toward road transport, citing lower truck costs and the possibility of expanding capacity without substantial foreign-exchange expenditure. It criticises the composition and procedures of the Neogy Committee, arguing that public men and parliamentarians should replace officials in determining its recommendations. The reproduced Lok Sabha debate pages reinforce the same position: M. R. Masani describes the decline in road allocations and calls for greater investment in roads, while other speakers raise related issues concerning rural post offices, telecommunications, ports, highways, and transport administration. The final handwritten page is difficult to read and appears to contain notes unrelated to the clearly typed sections.
+
 ## Key points
 
 - Road allocations declined from 4.6 percent of the First Plan to 2.5 percent of the Third Plan.

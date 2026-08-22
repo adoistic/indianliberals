@@ -50,6 +50,12 @@ summary: |-
   Bankeshwar further argues that the words should not attract a privilege motion merely because they were used in Parliament. She compares Masani’s language with Winston Churchill’s use of “howling” against Aneurin Bevan in the House of Commons, distinguishes the dictionary meaning of “gang” from its political connotations, and concludes that the controversy has amplified Masani’s epithet among newspaper readers. The second rendered page is an attached Economic Times Calcutta interview with S. R. Jain about steel-sector decontrol, pricing, modernisation, productivity, exports, and SAIL; it is supporting material rather than a text authored by Bankeshwar.
 ---
 
+## Summary
+
+In this letter dated 23 March 1992, Savita Bankeshwar challenges Minoo Masani’s description of certain Lok Sabha members as “howling hooligans” and questions whether those words are unparliamentary. She argues that “howling” denotes a prolonged cry of distress rather than disorderly conduct, and examines the possible origins of “hooligan,” including the name of an Irish figure whose reputation, she says, is unsupported by authentic London police or court records.
+
+Bankeshwar further argues that the words should not attract a privilege motion merely because they were used in Parliament. She compares Masani’s language with Winston Churchill’s use of “howling” against Aneurin Bevan in the House of Commons, distinguishes the dictionary meaning of “gang” from its political connotations, and concludes that the controversy has amplified Masani’s epithet among newspaper readers. The second rendered page is an attached Economic Times Calcutta interview with S. R. Jain about steel-sector decontrol, pricing, modernisation, productivity, exports, and SAIL; it is supporting material rather than a text authored by Bankeshwar.
+
 ## Key points
 
 - Bankeshwar disputes the characterization of several Lok Sabha members as “howling hooligans.”

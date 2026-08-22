@@ -51,6 +51,12 @@ summary: |-
   The letter then turns to electoral organisation in Calcutta and Bengal. The writer proposes preparing the ground for the 1967 elections by employing workers, acquiring six jeeps, and raising funds, including possible support from Mrs. Ginwala. The writer believes that such an effort could win legislative assembly seats in Calcutta and return several members of Parliament from Bengal, but questions whether the party’s urban workers can gain the confidence of the rural majority. The document closes with personal remarks about the writer’s stay in Britain and asks when Parliament will meet.
 ---
 
+## Summary
+
+This two-page letter, dated 26 July 1964 and addressed to Prof. N. G. Ranga, discusses political work in Madhya Pradesh, the Kashmir issue, anti-Communist activity, and the Swatantra Party’s membership campaign. The writer reports that the Maharaja of Baria has begun working in Madhya Pradesh and argues that the public must be educated on Kashmir, while noting that declining party popularity would make political influence difficult.
+
+The letter then turns to electoral organisation in Calcutta and Bengal. The writer proposes preparing the ground for the 1967 elections by employing workers, acquiring six jeeps, and raising funds, including possible support from Mrs. Ginwala. The writer believes that such an effort could win legislative assembly seats in Calcutta and return several members of Parliament from Bengal, but questions whether the party’s urban workers can gain the confidence of the rural majority. The document closes with personal remarks about the writer’s stay in Britain and asks when Parliament will meet.
+
 ## Key points
 
 - The writer says the Maharaja of Baria has started political work in Madhya Pradesh and may perform well there.

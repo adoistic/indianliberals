@@ -54,6 +54,12 @@ summary: |-
   The statement also uses these events to challenge disarmament appeals associated with the Anti-Nuclear Convention in Delhi. Masani argues that, in view of the Soviet government’s broken treaties and pledges since 1945, calls for democracies to surrender their nuclear deterrent without effective international verification and control would strengthen Moscow and Peking. He links the nuclear issue to the broader danger of Soviet and Chinese expansion across Europe and Asia, while insisting that protest should focus on the Soviet government’s refusal to accept a verifiable nuclear-ban agreement.
 ---
 
+## Summary
+
+This undated press statement from Bombay, marked “For favour of publication” and signed by M. R. Masani, reports remarks made at a public meeting convened by the Committee for Solidarity with Hungary. Masani commemorates the victims of the 1956 Hungarian Revolution and condemns the Soviet Union’s treatment of former Hungarian Prime Minister Imre Nagy and General Paul Maléter, presenting their kidnappings and executions as breaches of Soviet assurances and safe-conduct commitments.
+
+The statement also uses these events to challenge disarmament appeals associated with the Anti-Nuclear Convention in Delhi. Masani argues that, in view of the Soviet government’s broken treaties and pledges since 1945, calls for democracies to surrender their nuclear deterrent without effective international verification and control would strengthen Moscow and Peking. He links the nuclear issue to the broader danger of Soviet and Chinese expansion across Europe and Asia, while insisting that protest should focus on the Soviet government’s refusal to accept a verifiable nuclear-ban agreement.
+
 ## Key points
 
 - Masani’s statement commemorates the martyrs of the 1956 Hungarian Revolution.

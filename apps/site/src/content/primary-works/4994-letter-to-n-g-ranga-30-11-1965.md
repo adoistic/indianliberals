@@ -50,6 +50,12 @@ summary: |-
   The letter states that the conference will address the code of conduct for parliamentarians and legislators, conventions governing relations between Members and the Government, and conventions between the Opposition and the Government. It notes that recommendations from the previous conference are enclosed, asks Ranga to identify the chief whip of his party for a formal invitation, and explains that the Parliamentary Affairs Department will cover travel and daily allowances while arrangements for board and lodging will be made in cooperation with the State Government.
 ---
 
+## Summary
+
+This two-page official letter, dated November 30, 1965, was sent by S. N. Sinha, Minister for Parliamentary Affairs, to Prof. N. G. Ranga, identified as Leader of the Swatantra Group in the Lok Sabha. Sinha invites the chief whips of government and opposition parties to the Fifth All India Whips' Conference, scheduled to take place in Bangalore on January 4–6, 1966.
+
+The letter states that the conference will address the code of conduct for parliamentarians and legislators, conventions governing relations between Members and the Government, and conventions between the Opposition and the Government. It notes that recommendations from the previous conference are enclosed, asks Ranga to identify the chief whip of his party for a formal invitation, and explains that the Parliamentary Affairs Department will cover travel and daily allowances while arrangements for board and lodging will be made in cooperation with the State Government.
+
 ## Key points
 
 - S. N. Sinha writes as Minister for Parliamentary Affairs from New Delhi on November 30, 1965.

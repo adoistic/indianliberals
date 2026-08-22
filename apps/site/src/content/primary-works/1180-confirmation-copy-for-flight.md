@@ -45,6 +45,12 @@ summary: |-
   The message reads in full: "RE YOURTEL MISTER MASANI ARRIVING MADRAS FLIGHT IC.109 AT TEN FORTYFIVE MORNING ON DECEMBER EIGHTH." A confirmation copy is directed to Srikumar at 10-A, Flowers Road, Madras 600084. The document carries the telegram serial 254005 and a hand-inked archive number "1180". It is administrative correspondence rather than an argumentative text, and belongs to the operational papers of the Swatantra Party during the Emergency period.
 ---
 
+## Summary
+
+This single-page document is the confirmation copy of a brief telegram sent from Bombay to Mr. V. S. Srikumar of the Swatantra Party in Madras on 4 December 1975. The wire, signed "RAJU" (S. V. Raju, then general secretary of the Swatantra Party) and prepared by SVR/LP, informs the Madras office of Minoo Masani's travel plans, specifying his flight number and time of arrival.
+
+The message reads in full: "RE YOURTEL MISTER MASANI ARRIVING MADRAS FLIGHT IC.109 AT TEN FORTYFIVE MORNING ON DECEMBER EIGHTH." A confirmation copy is directed to Srikumar at 10-A, Flowers Road, Madras 600084. The document carries the telegram serial 254005 and a hand-inked archive number "1180". It is administrative correspondence rather than an argumentative text, and belongs to the operational papers of the Swatantra Party during the Emergency period.
+
 ## Key points
 
 - Confirmation copy of a telegram dated 4 December 1975 from Bombay to Madras.

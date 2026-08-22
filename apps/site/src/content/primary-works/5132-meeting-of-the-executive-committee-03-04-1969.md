@@ -53,6 +53,12 @@ summary: |-
   The second page is a handwritten covering letter from K. Basi Reddy, president-in-charge of the district Swatantra Party, forwarding the resolutions to N. Dandekar, described as the party's general secretary at the centre. The document is primarily administrative: it shows the district organisation seeking stronger regional infrastructure, recognition within party bodies, and continued participation by senior party figures.
 ---
 
+## Summary
+
+This two-page English-language archival document records the proceedings of the Kurnool District Swatantra Party executive committee meeting held at Kurnool on 3 April 1968. The typed first page lists four resolutions: congratulations to Prof. N. G. Ranga on his election success; a request to the national executive to establish a regional party office in Kurnool serving Kurnool, Cuddapah, and Anantapur districts; a request that M. R. Masani reconsider his resignation from the Parliamentary Board's national executive committee; and a request for Kurnool District representation on the State Parliamentary Board.
+
+The second page is a handwritten covering letter from K. Basi Reddy, president-in-charge of the district Swatantra Party, forwarding the resolutions to N. Dandekar, described as the party's general secretary at the centre. The document is primarily administrative: it shows the district organisation seeking stronger regional infrastructure, recognition within party bodies, and continued participation by senior party figures.
+
 ## Key points
 
 - The Kurnool District Swatantra Party executive committee met on 3 April 1968.

@@ -47,6 +47,10 @@ summary: |-
   This one-page letter, dated 3 April 1968 and written from Vellore by V. Padmanabhan to N. Dandekar, requests an emergency meeting of the Swatantra Party General Council. The proposed meeting is intended to discuss M. R. Masani’s resignation from the National Executive and Central Parliamentary Board.
 ---
 
+## Summary
+
+This one-page letter, dated 3 April 1968 and written from Vellore by V. Padmanabhan to N. Dandekar, requests an emergency meeting of the Swatantra Party General Council. The proposed meeting is intended to discuss M. R. Masani’s resignation from the National Executive and Central Parliamentary Board.
+
 ## Key points
 
 - The letter is addressed to N. Dandekar, General Secretary of the Swatantra Party.

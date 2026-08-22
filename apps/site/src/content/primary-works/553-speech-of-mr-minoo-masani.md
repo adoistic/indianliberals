@@ -56,6 +56,12 @@ summary: |-
   In the rendered pages, Masani distinguishes socialist goals—removing poverty and creating a free and equal society—from the methods used to pursue them. He argues that coercive means, centralised state power, collectivised agriculture, doctrinaire planning, and restrictions on trade and enterprise defeat those ends. His examples include Soviet inequality, shortages, agricultural failure, and political repression, as well as what he presents as socialist experiments in India, Ghana, Ceylon, and Indonesia. In contrast, he defines liberalism as trust in the self-directing capacity of individuals, a market-oriented economy responsive to consumer demand, limited government, social welfare, and indicative rather than Soviet-style central planning. The visible text ends with his appeal to Gandhi's principle that the best government governs least.
 ---
 
+## Summary
+
+The rendered pages present a question-and-answer interview with M. R. Masani, identified in the text as a former socialist who became a Liberal and a member of Parliament from Rajkot and general secretary of the Swatantra Party. Masani explains his political change as a willingness to abandon beliefs he had come to regard as mistaken. He attributes his break with socialism chiefly to the failure of the Soviet experiment and says that he and Jayaprakash Narayan found an alternative in liberalism and the thought of Mahatma Gandhi.
+
+In the rendered pages, Masani distinguishes socialist goals—removing poverty and creating a free and equal society—from the methods used to pursue them. He argues that coercive means, centralised state power, collectivised agriculture, doctrinaire planning, and restrictions on trade and enterprise defeat those ends. His examples include Soviet inequality, shortages, agricultural failure, and political repression, as well as what he presents as socialist experiments in India, Ghana, Ceylon, and Indonesia. In contrast, he defines liberalism as trust in the self-directing capacity of individuals, a market-oriented economy responsive to consumer demand, limited government, social welfare, and indicative rather than Soviet-style central planning. The visible text ends with his appeal to Gandhi's principle that the best government governs least.
+
 ## Key points
 
 - M. R. Masani presents his move from socialism to liberalism as a correction of mistaken political beliefs rather than a betrayal of principle.

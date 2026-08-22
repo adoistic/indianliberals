@@ -48,6 +48,12 @@ summary: |-
   The November letter responds to reports of Narayan’s illness and recovery. Masani says that the news of Narayan’s setback was shocking but that later All India Radio reports were reassuring. He expresses greater concern about Narayan’s long-term health, urges him to retire from public activity immediately rather than postpone retirement until October 1972, and suggests taking a prolonged rest before returning to the field. The attached clipping reports that Narayan had suffered from exhaustion and a mild heart attack, had been advised adequate rest, and was later feeling better.
 ---
 
+## Summary
+
+This archival unit contains two personal letters from M. R. Masani to Jayaprakash Narayan, dated 6 May and 19 November 1971, together with a Times of India clipping dated 18 November 1971. The May letter is chiefly logistical: Masani tries to arrange a meeting with Narayan in Bombay before his departure for Delhi, asking him to telephone and proposing to meet at a named residence.
+
+The November letter responds to reports of Narayan’s illness and recovery. Masani says that the news of Narayan’s setback was shocking but that later All India Radio reports were reassuring. He expresses greater concern about Narayan’s long-term health, urges him to retire from public activity immediately rather than postpone retirement until October 1972, and suggests taking a prolonged rest before returning to the field. The attached clipping reports that Narayan had suffered from exhaustion and a mild heart attack, had been advised adequate rest, and was later feeling better.
+
 ## Key points
 
 - The unit preserves two 1971 letters from M. R. Masani to Jayaprakash Narayan.

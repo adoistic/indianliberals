@@ -52,6 +52,12 @@ summary: |-
   The report presents Narayan as optimistic about closer relations between India and Pakistan. It describes his interest in Pakistan's basic democratic experiment and reports his confidence that Pakistan would find a way for its people to manage their affairs satisfactorily. It also notes his suggestion that some alternative to the Westminister parliamentary system of government might be considered, and mentions his recent resignation from the Indian Socialist Party.
 ---
 
+## Summary
+
+This one-page Hindustan Times report, datelined Karachi, 14 December, records Jaya Prakash Narayan's meeting with Pakistan President Ayub Khan concerning Indo-Pakistan relations. It says Narayan was later the chief guest at a dinner hosted by the Pakistan President and was publicly welcomed in Karachi.
+
+The report presents Narayan as optimistic about closer relations between India and Pakistan. It describes his interest in Pakistan's basic democratic experiment and reports his confidence that Pakistan would find a way for its people to manage their affairs satisfactorily. It also notes his suggestion that some alternative to the Westminister parliamentary system of government might be considered, and mentions his recent resignation from the Indian Socialist Party.
+
 ## Key points
 
 - Jaya Prakash Narayan conferred with Pakistan President Ayub Khan in Karachi.

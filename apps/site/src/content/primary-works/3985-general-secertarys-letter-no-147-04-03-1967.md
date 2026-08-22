@@ -51,6 +51,12 @@ summary: |-
   The letter stresses urgency: recommendations should reach the Central Office well before the relevant by-elections. A postscript records that the request follows a decision of the Central Parliamentary Board at its meeting in Madras on 1 March.
 ---
 
+## Summary
+
+Dated 4 March 1967, this one-page General Secretary's Letter from the Swatantra Party Central Office addresses the anticipated Rajya Sabha vacancies arising after several Rajya Sabha members were elected to the Lok Sabha. M. R. Masani asks the recipient to convene an early meeting of the State Parliamentary Board and make recommendations, if any, concerning possible Swatantra Party candidates.
+
+The letter stresses urgency: recommendations should reach the Central Office well before the relevant by-elections. A postscript records that the request follows a decision of the Central Parliamentary Board at its meeting in Madras on 1 March.
+
 ## Key points
 
 - The letter is General Secretary's Letter No. 147, issued by the Swatantra Party Central Office on 4 March 1967.

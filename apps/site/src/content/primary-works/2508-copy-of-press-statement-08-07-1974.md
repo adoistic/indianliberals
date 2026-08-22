@@ -50,6 +50,12 @@ summary: |-
   The statement further says that even if the national convention decided to dissolve the party, the Maharashtra unit would continue functioning as the Swatantra Party in Maharashtra. Its justification is that the party’s principles and policies remained relevant in 1974, as they had been when first formulated. The document does not identify a formal author; it attributes the statement to Mr. Girish Munshi, the Maharashtra State Unit’s General Secretary, who released it to the press.
 ---
 
+## Summary
+
+This one-page press statement, issued by the Maharashtra unit of the Swatantra Party on 8 July 1974, rejects press reports that party members overwhelmingly wanted to dissolve the organisation and form a new political party. It records that the Maharashtra State Council met in Bombay on 6 July to consider dissolution and, after a long discussion involving party leaders including Piloo Mody and M. R. Masani, adopted a resolution opposing it.
+
+The statement further says that even if the national convention decided to dissolve the party, the Maharashtra unit would continue functioning as the Swatantra Party in Maharashtra. Its justification is that the party’s principles and policies remained relevant in 1974, as they had been when first formulated. The document does not identify a formal author; it attributes the statement to Mr. Girish Munshi, the Maharashtra State Unit’s General Secretary, who released it to the press.
+
 ## Key points
 
 - The statement disputes reports of overwhelming support within the Swatantra Party for dissolution.

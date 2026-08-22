@@ -44,6 +44,10 @@ summary: |-
   This single-page letter from M. R. Masani to Farrokh S. Mulla is dated January 17, 1975. Masani acknowledges receiving Rs. 100 from Mulla for transmission to the JP Fund for Bihar and confirms that he has completed the remittance, enclosing token receipt No. 602. The letter carries the reference number 22 and is signed by Masani.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani to Farrokh S. Mulla is dated January 17, 1975. Masani acknowledges receiving Rs. 100 from Mulla for transmission to the JP Fund for Bihar and confirms that he has completed the remittance, enclosing token receipt No. 602. The letter carries the reference number 22 and is signed by Masani.
+
 ## Key points
 
 - The letter is dated January 17, 1975 and marked “Our Ref: 22.”

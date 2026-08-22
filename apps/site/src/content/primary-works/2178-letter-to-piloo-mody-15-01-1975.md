@@ -51,6 +51,12 @@ summary: |-
   The letter refers to an earlier discussion on September 18, 1974, attended by Dr. R. C. Cooper, and asks Mody to instruct Mr. Bhatia to settle the outstanding amount and ensure that rent is paid regularly in future. It is an administrative request rather than a political or theoretical statement; no printed title appears on the document.
 ---
 
+## Summary
+
+This one-page English letter, dated January 15, 1974, is written by Girish Munshi of the Swatantra Party Maharashtra to Piloo Mody, MP. Munshi asks Mody to intervene in a local office arrangement involving payment of rent for the portion of premises Mody is using, noting that rent has been in arrears since September.
+
+The letter refers to an earlier discussion on September 18, 1974, attended by Dr. R. C. Cooper, and asks Mody to instruct Mr. Bhatia to settle the outstanding amount and ensure that rent is paid regularly in future. It is an administrative request rather than a political or theoretical statement; no printed title appears on the document.
+
 ## Key points
 
 - The letter is dated January 15, 1974, and is sent from the Swatantra Party Maharashtra office in Bombay.

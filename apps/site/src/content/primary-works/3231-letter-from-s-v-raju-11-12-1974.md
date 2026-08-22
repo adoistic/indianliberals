@@ -49,6 +49,12 @@ summary: |-
   Raju proposes establishing a trust over the Swatantra Party's assets so that people who do not believe in or care about the party's philosophy cannot appropriate them. He warns that the recipient should be alert to the precedent of what Indira Gandhi's group allegedly attempted with the Congress (O)'s Jantar Mantar office after the party split, and asks what steps Garish plans to take.
 ---
 
+## Summary
+
+In this letter dated December 11, 1974, S. V. Raju criticizes the recipient, Garish, for allowing Piloo Mody to continue occupying premises previously used as the Swatantra Party's national headquarters. Raju says he is unsurprised that Mody has "double-crossed" Garish and urges immediate protective action.
+
+Raju proposes establishing a trust over the Swatantra Party's assets so that people who do not believe in or care about the party's philosophy cannot appropriate them. He warns that the recipient should be alert to the precedent of what Indira Gandhi's group allegedly attempted with the Congress (O)'s Jantar Mantar office after the party split, and asks what steps Garish plans to take.
+
 ## Key points
 
 - Raju objects to Piloo Mody's continued occupation of premises formerly used by the Swatantra Party's national headquarters.

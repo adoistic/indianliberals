@@ -72,6 +72,14 @@ summary: |-
   Part II reproduces a June 28, 1970 All India Congress Committee document, “The Political Crisis,” followed by Congress positions on national unity and security, constitutional liberties, minorities, employment, agriculture, industry and trade, education, corruption, foreign aid, and labour. The two parts overlap substantially on employment, agricultural development, constitutional liberties, and equality, but Part II presents these priorities as a Congress programme and places greater emphasis on national unity, social justice, public-sector efficiency, and the Directive Principles of the Constitution.
 ---
 
+## Summary
+
+For Farm Family and Freedom is the Swatantra Party’s 1971 election manifesto. Part I presents the party’s programme as a defence of constitutional democracy, Fundamental Rights, judicial independence, law and order, and private property. It condemns inflation, deficit finance, administrative waste, excessive planning, and restrictions on economic activity, while proposing employment-generating public works, rural housing and infrastructure, support for family farming, secure tenancy, fair agricultural prices, and incentives for production and enterprise.
+
+The manifesto combines market-oriented economic proposals with targeted social measures. It calls for protection of minorities and backward classes, equality of opportunity, a Commission on Civil Rights, improved education, anti-corruption institutions, and assistance for poorer groups. It also advocates competition, greater autonomy for public-sector enterprises, a stable currency, controlled and productive use of foreign capital, and a restrained but firm regulatory role for government. Its conclusion frames the 1971 election as a choice between constitutional liberty and what it describes as the ruling Congress government’s attacks on democratic institutions and failed economic policies.
+
+Part II reproduces a June 28, 1970 All India Congress Committee document, “The Political Crisis,” followed by Congress positions on national unity and security, constitutional liberties, minorities, employment, agriculture, industry and trade, education, corruption, foreign aid, and labour. The two parts overlap substantially on employment, agricultural development, constitutional liberties, and equality, but Part II presents these priorities as a Congress programme and places greater emphasis on national unity, social justice, public-sector efficiency, and the Directive Principles of the Constitution.
+
 ## Key points
 
 - The Swatantra Party presents constitutional protection, Fundamental Rights, and judicial independence as prerequisites for stable democracy.

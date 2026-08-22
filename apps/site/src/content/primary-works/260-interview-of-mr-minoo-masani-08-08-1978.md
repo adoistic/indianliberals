@@ -57,6 +57,12 @@ summary: |-
   Masani discusses the limits of international enforcement, contrasting the largely non-justiciable Universal Declaration with the European Court of Human Rights. He then examines Indian constitutional protections, including Articles 15(4), 16(4), 29, and 30, and considers the tension between equality before the law and affirmative action for Scheduled Castes and Tribes. Referring to cases in India and the United States, he argues that both systems have tried to balance individual equality with protection for historically disadvantaged groups. The interview also rejects reducing minority questions to class or economics alone: Masani maintains that race, religion, and economic deprivation require action on multiple fronts, and concludes that legislation cannot by itself create fraternity among groups without changes in public attitudes and education.
 ---
 
+## Summary
+
+In this interview given to the Youth Times on 8 August 1978, Minoo Masani distinguishes between political minorities, whose positions shift with public opinion, and fixed minorities defined by birth, including ethnic, racial, linguistic, religious, caste, and sex-based groups. He argues that political minorities are best protected through proportional representation and limited government, while fixed minorities require constitutional and international safeguards. He cites the Indian Constitution, the Universal Declaration of Human Rights, and his own experience as chairman of the United Nations Sub-Commission on the Prevention of Discrimination and Protection of Minorities.
+
+Masani discusses the limits of international enforcement, contrasting the largely non-justiciable Universal Declaration with the European Court of Human Rights. He then examines Indian constitutional protections, including Articles 15(4), 16(4), 29, and 30, and considers the tension between equality before the law and affirmative action for Scheduled Castes and Tribes. Referring to cases in India and the United States, he argues that both systems have tried to balance individual equality with protection for historically disadvantaged groups. The interview also rejects reducing minority questions to class or economics alone: Masani maintains that race, religion, and economic deprivation require action on multiple fronts, and concludes that legislation cannot by itself create fraternity among groups without changes in public attitudes and education.
+
 ## Key points
 
 - Masani divides minorities into shifting political minorities and fixed minorities determined by birth.

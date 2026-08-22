@@ -50,6 +50,12 @@ summary: |-
   The letter expresses confidence in the Swatantra Party's prospects, crediting Rajaji's leadership for the success of its convention and hoping that the party will attract broad national support. It closes with personal remarks on Sodhbans's life and work, based on a pictorial record sent by the editor. No sender name or legible signature is visible on the page.
 ---
 
+## Summary
+
+This personal letter, dated 4 August 1959, is addressed to Sirdar P. S. Sodhbans. The unidentified sender apologizes for delaying comments on Sodhbans's letters before he decided to attend the Swatantra Party convention in Bombay. The sender agrees with much of a communication from the Delhi Chamber of Commerce to the Federation of Indian Chambers of Commerce and Industry, attributing the prevailing situation largely to the complacency of an important section of the business community and criticizing the policies it has pursued.
+
+The letter expresses confidence in the Swatantra Party's prospects, crediting Rajaji's leadership for the success of its convention and hoping that the party will attract broad national support. It closes with personal remarks on Sodhbans's life and work, based on a pictorial record sent by the editor. No sender name or legible signature is visible on the page.
+
 ## Key points
 
 - The letter is dated 4 August 1959 and addressed to Sirdar P. S. Sodhbans.

@@ -48,6 +48,12 @@ summary: |-
   Masani further denies that the Party or its Central Office made any payments to the bank, while acknowledging that payments may have been made by or on behalf of Kamakhya Narain Singh. The letter is a concise institutional clarification, aimed at ensuring that the bank is not misled about the Party’s financial responsibility.
 ---
 
+## Summary
+
+In this one-page letter dated 8 July 1962, M. R. Masani writes to the Deputy General Manager of the Central Bank of India to correct what he calls misstatements in a 23 June letter by Bateshwar Prasad Singh, who claims to be the constituted attorney of Kamakhya Narain Singh of Ramgarh. Masani states that the Swatantra Party and its Central Office had no connection whatsoever with the overdraft account maintained by Kamakhya Narain Singh at the bank.
+
+Masani further denies that the Party or its Central Office made any payments to the bank, while acknowledging that payments may have been made by or on behalf of Kamakhya Narain Singh. The letter is a concise institutional clarification, aimed at ensuring that the bank is not misled about the Party’s financial responsibility.
+
 ## Key points
 
 - Masani addresses the Deputy General Manager of the Central Bank of India in Bombay.

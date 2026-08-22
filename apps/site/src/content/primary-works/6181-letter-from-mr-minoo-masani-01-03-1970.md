@@ -46,6 +46,10 @@ summary: |-
   This one-page confirmation copy records Masani's response to Raju regarding a speaking arrangement. Masani reports that the twenty-eighth has been ruled out because Palkhivala is speaking on the budget, and recommends trying the sixth instead. The message is written in clipped telegram style and is dated 1 March 1970.
 ---
 
+## Summary
+
+This one-page confirmation copy records Masani's response to Raju regarding a speaking arrangement. Masani reports that the twenty-eighth has been ruled out because Palkhivala is speaking on the budget, and recommends trying the sixth instead. The message is written in clipped telegram style and is dated 1 March 1970.
+
 ## Key points
 
 - The document is a confirmation copy of a typed cable addressed to Raju in Bombay.

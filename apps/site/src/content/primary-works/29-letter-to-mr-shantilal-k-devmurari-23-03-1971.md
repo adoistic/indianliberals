@@ -46,6 +46,10 @@ summary: |-
   This one-page letter from M. R. Masani to Mr. Shantilal K. Devmurari is dated 23 March 1971. Masani thanks Devmurari for travelling to Rajkot to help, while acknowledging that “Maharaja Sahib” was probably right not to spare him. He describes the situation as sad from every point of view.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to Mr. Shantilal K. Devmurari is dated 23 March 1971. Masani thanks Devmurari for travelling to Rajkot to help, while acknowledging that “Maharaja Sahib” was probably right not to spare him. He describes the situation as sad from every point of view.
+
 ## Key points
 
 - M. R. Masani acknowledges and thanks Shantilal K. Devmurari for his letter of 15 March.

@@ -46,6 +46,10 @@ summary: |-
   This one-page letter from C. Rajagopalachari to M. R. Masani, dated 21 June 1963, concerns a proposed meeting to consider Kripalani’s proposals. Rajagopalachari asks Masani to arrange the meeting and argues that “Ranga” should not be excluded from the preliminary project, since his inclusion may be necessary for the proposals to produce any outcome. The letter is written on Rajagopalachari’s Madras letterhead and notes that a copy of Kripalani’s letter is enclosed.
 ---
 
+## Summary
+
+This one-page letter from C. Rajagopalachari to M. R. Masani, dated 21 June 1963, concerns a proposed meeting to consider Kripalani’s proposals. Rajagopalachari asks Masani to arrange the meeting and argues that “Ranga” should not be excluded from the preliminary project, since his inclusion may be necessary for the proposals to produce any outcome. The letter is written on Rajagopalachari’s Madras letterhead and notes that a copy of Kripalani’s letter is enclosed.
+
 ## Key points
 
 - Rajagopalachari writes to M. R. Masani on 21 June 1963.

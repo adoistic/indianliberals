@@ -48,6 +48,12 @@ summary: |-
   The document is doubly interesting for its handwritten marginalia, which capture the internal Swatantra-circle deliberation over whether the Adult Education Institute should reply at all. One hand — apparently Dandeker's — records agreement conditional on MRM's approval but questions whether the AEI has standing in the matter; another note explains that the AEI had already received the same questionnaire by post from K. D. Desai and that any AEI reply would require all three concerned parties to agree, failing which nothing would be sent; a further annotation states flatly that the AEI "should not respond." The whole thus documents, in miniature, how organised liberal opinion coordinated (or declined to coordinate) responses to a 1977 government consultation on poll expenses.
 ---
 
+## Summary
+
+This short archival bundle combines two printed "With the Compliments" slips from Mr. N. Dandeker, I.C.S. (Retd.) — issued from the Express Building, Churchgate, Bombay 400 020 — with a typed one-page letter dated 17 November 1977 from S. V. Raju to Dandeker. Raju forwards a letter from the Committee on Poll Expenses and encloses the answers he has drafted to the Committee's questionnaire, noting that Minoo Masani has already read and approved the draft. He asks Dandeker to review the answers, mark any changes, and return them so that the response may be sent to the Committee "as from the Adult Education Institute."
+
+The document is doubly interesting for its handwritten marginalia, which capture the internal Swatantra-circle deliberation over whether the Adult Education Institute should reply at all. One hand — apparently Dandeker's — records agreement conditional on MRM's approval but questions whether the AEI has standing in the matter; another note explains that the AEI had already received the same questionnaire by post from K. D. Desai and that any AEI reply would require all three concerned parties to agree, failing which nothing would be sent; a further annotation states flatly that the AEI "should not respond." The whole thus documents, in miniature, how organised liberal opinion coordinated (or declined to coordinate) responses to a 1977 government consultation on poll expenses.
+
 ## Key points
 
 - Bundle contains two printed "With the Compliments" slips from Mr. N. Dandeker, I.C.S. (Retd.), letterhead: Express Building, Churchgate, Bombay 400 020.

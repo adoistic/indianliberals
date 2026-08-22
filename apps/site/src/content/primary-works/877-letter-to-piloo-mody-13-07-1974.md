@@ -58,6 +58,12 @@ summary: |-
   The letter argues for a principled anti-socialist coalition rather than an expedient merger of groups with conflicting ideologies. Srinivasan proposes bringing together citizens and parties that support individual freedom, initiative, democratic government, and a state that serves rather than exploits the people. He criticizes the idea that parties should have no ideology, warns against alliances with unreliable politicians, and advocates a gradual consolidation of anti-socialist forces. The letter concludes that the proposed new party would fail, while a non-violent democratic movement—such as the one then being attempted in Bihar—offered a more credible route to displacing the ruling Congress.
 ---
 
+## Summary
+
+This 13 July 1974 letter from V. S. Srinivasan of the Madras District Swatantra Party to Piloo Mody rejects the proposed dissolution of the Swatantra Party as a precondition for forming a new national alternative. Srinivasan grounds his position in his long association with C. Rajagopalachari (“Rajaji”) and in his continued commitment to the party’s principles, while explaining that he has no personal ambition for office and may otherwise withdraw into business and religious activity.
+
+The letter argues for a principled anti-socialist coalition rather than an expedient merger of groups with conflicting ideologies. Srinivasan proposes bringing together citizens and parties that support individual freedom, initiative, democratic government, and a state that serves rather than exploits the people. He criticizes the idea that parties should have no ideology, warns against alliances with unreliable politicians, and advocates a gradual consolidation of anti-socialist forces. The letter concludes that the proposed new party would fail, while a non-violent democratic movement—such as the one then being attempted in Bihar—offered a more credible route to displacing the ruling Congress.
+
 ## Key points
 
 - Srinivasan opposes dissolving the Swatantra Party as a condition for creating a new national political alternative.

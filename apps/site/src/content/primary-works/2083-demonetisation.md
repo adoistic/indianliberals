@@ -49,6 +49,12 @@ summary: |-
   The visible text begins by defining demonetisation as a government declaration that particular currency denominations are no longer legal tender. It then argues that demonetised notes would need to be exchanged for newly issued notes after satisfying the authorities that the tendered notes represent income legally earned and retained after payment of all taxes. The page does not identify an author, publisher, date, place, or institutional issuer.
 ---
 
+## Summary
+
+This single-page illustrated pamphlet presents demonetisation, controls, nationalisation, consumer resistance, and suppressed inflation as proposed economic “remedies” to be tested rather than accepted at face value. Its central graphic links these measures together, inviting the reader to assess whether they control inflation or instead contribute to it.
+
+The visible text begins by defining demonetisation as a government declaration that particular currency denominations are no longer legal tender. It then argues that demonetised notes would need to be exchanged for newly issued notes after satisfying the authorities that the tendered notes represent income legally earned and retained after payment of all taxes. The page does not identify an author, publisher, date, place, or institutional issuer.
+
 ## Key points
 
 - The pamphlet frames demonetisation, controls, nationalisation, consumer resistance, and suppressed inflation as remedies requiring critical examination.

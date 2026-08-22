@@ -49,6 +49,10 @@ summary: |-
   This single-page English office list identifies the Swatantra Party's Central Parliamentary Board for the 1967–69 term. It divides the roster into members and ex-officio members, documenting the party's central parliamentary leadership structure during that period.
 ---
 
+## Summary
+
+This single-page English office list identifies the Swatantra Party's Central Parliamentary Board for the 1967–69 term. It divides the roster into members and ex-officio members, documenting the party's central parliamentary leadership structure during that period.
+
 ## Key points
 
 - The document is headed “SWATANTRA PARTY CENTRAL PARLIAMENTARY BOARD 1967 - 69.”

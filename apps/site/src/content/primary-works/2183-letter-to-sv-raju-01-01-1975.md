@@ -53,6 +53,12 @@ summary: |-
   The appended letters show local supporters responding to the party's renewed all-India functioning after Piloo Mody's tenure. Vijay Pal Singh Saxena describes his organisational work in Bulandshahr and requests party literature and regular statements for the press. R. S. Bharati offers to organise the party in Uttar Pradesh, while C. Shekar invokes Rajaji's principles and reports continuing enthusiasm among older workers. Girish Munshi welcomes the formation of a Moradabad state unit, but asks for evidence of continuing organisational work and recognition from the national headquarters. Together, the correspondence emphasizes revival, recruitment, communication, and coordination between the national leadership and U.P. units.
 ---
 
+## Summary
+
+This three-page correspondence packet, dated 1 January 1975, records an effort to rebuild and strengthen the Swatantra Party organisation in Uttar Pradesh. In his covering letter to S. V. Raju, K. Sundaram forwards four letters from party workers and asks Raju to help assess potential organisers, consult with Girish Munshi and Minoo Masani, and arrange visits to Uttar Pradesh. Sundaram proposes district representation, press conferences, and an ad-hoc committee to demonstrate that the party remains active.
+
+The appended letters show local supporters responding to the party's renewed all-India functioning after Piloo Mody's tenure. Vijay Pal Singh Saxena describes his organisational work in Bulandshahr and requests party literature and regular statements for the press. R. S. Bharati offers to organise the party in Uttar Pradesh, while C. Shekar invokes Rajaji's principles and reports continuing enthusiasm among older workers. Girish Munshi welcomes the formation of a Moradabad state unit, but asks for evidence of continuing organisational work and recognition from the national headquarters. Together, the correspondence emphasizes revival, recruitment, communication, and coordination between the national leadership and U.P. units.
+
 ## Key points
 
 - K. Sundaram forwards four Uttar Pradesh letters to S. V. Raju on 1 January 1975.

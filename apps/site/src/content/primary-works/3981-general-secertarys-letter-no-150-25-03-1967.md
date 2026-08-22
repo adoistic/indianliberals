@@ -47,6 +47,12 @@ summary: |-
   Masani requests an immediate meeting of the State Parliamentary Board to determine whether it will recommend a party candidate for any Rajya Sabha vacancy. He asks that each recommendation include a biographical note describing the nominee's work for the party, and permits state units to submit names in priority order. He also asks to be informed if the state does not wish to put forward a candidate for a State Assembly vacancy.
 ---
 
+## Summary
+
+In this letter dated March 25, 1967, M. R. Masani, General Secretary of the Swatantra Party, asks a state unit to respond promptly regarding possible vacancies in the Rajya Sabha. He explains that the Central Parliamentary Board can make the final decision on party nominations only after receiving a recommendation from the relevant State Parliamentary Board, and notes that replies have so far arrived only from Andhra and Gujarat units.
+
+Masani requests an immediate meeting of the State Parliamentary Board to determine whether it will recommend a party candidate for any Rajya Sabha vacancy. He asks that each recommendation include a biographical note describing the nominee's work for the party, and permits state units to submit names in priority order. He also asks to be informed if the state does not wish to put forward a candidate for a State Assembly vacancy.
+
 ## Key points
 
 - The letter is dated March 25, 1967, and is issued by M. R. Masani as General Secretary of the Swatantra Party.

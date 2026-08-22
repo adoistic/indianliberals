@@ -56,6 +56,12 @@ summary: |-
   The committee also discussed relief following a cyclone and gale in Orissa, the Maharashtra–Mysore border dispute, and language legislation. It supported incorporating Nehru’s assurance into the proposed Languages Bill and approved Mohammad Imam’s Office Languages Bill only on the condition that the party would not be bound by its provisions. The second page assigns party members to speak on bills and reports concerning monopolies, textiles, patents, taxation, labour, displaced persons, education, and the Hazeri Committee; it also records forthcoming executive-committee elections, authority over the party’s bank account, a proposed discussion of the Prime Minister’s Moscow visit, opposition to the Essential Commodities Second Amendment Bill, and a vote of thanks.
 ---
 
+## Summary
+
+These two pages record the proceedings of the Swatantra Party in Parliament Executive Committee meeting held on 12 November 1967, at the residence of C. C. Desai. The committee observed silence over the deaths of Ram Manohar Lohia and G. D. Patil, asked Professor N. G. Ranga to express the party’s condolences in the Lok Sabha, and reviewed political conditions in West Bengal. It condemned the Union Government for failing to restore law and order amid Communist-led sabotage in Naxalbari and elsewhere, while opposing an adjournment motion understood to have been introduced by the Communist parties.
+
+The committee also discussed relief following a cyclone and gale in Orissa, the Maharashtra–Mysore border dispute, and language legislation. It supported incorporating Nehru’s assurance into the proposed Languages Bill and approved Mohammad Imam’s Office Languages Bill only on the condition that the party would not be bound by its provisions. The second page assigns party members to speak on bills and reports concerning monopolies, textiles, patents, taxation, labour, displaced persons, education, and the Hazeri Committee; it also records forthcoming executive-committee elections, authority over the party’s bank account, a proposed discussion of the Prime Minister’s Moscow visit, opposition to the Essential Commodities Second Amendment Bill, and a vote of thanks.
+
 ## Key points
 
 - The Executive Committee met on 12 November 1967 and recorded the attendance of ten Swatantra Party MPs.

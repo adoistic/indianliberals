@@ -46,6 +46,12 @@ summary: |-
   The letter closes with wishes for the Chamber's success in 1970. The page also bears the archival reference number 6245 and a handwritten note indicating that the letter was received with a reply.
 ---
 
+## Summary
+
+In this typed letter dated January 5, 1970, Minoo Masani thanks Mr. Bhalchandra C. Patel for his December 18 invitation to address the Ahmedabad Junior Chamber. Masani does not accept a definite engagement, saying he will bear the invitation in mind while making his plans but may need time to fit it into his existing commitments.
+
+The letter closes with wishes for the Chamber's success in 1970. The page also bears the archival reference number 6245 and a handwritten note indicating that the letter was received with a reply.
+
 ## Key points
 
 - Minoo Masani wrote the letter on January 5, 1970.

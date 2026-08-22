@@ -52,6 +52,10 @@ summary: |-
   This two-page English draft resolution, prepared for the Swatantra Party’s National Convention in Delhi on August 4–5, 1974, reviews the party’s decision to pursue a broader opposition alliance. It recalls the National Executive’s call for cooperation among political parties and describes negotiations involving Swatantra leaders and other political figures. The General Council approved the idea of a “National Alternative” bringing together all parties other than Congress and the Communists, on the basis of a common programme.
 ---
 
+## Summary
+
+This two-page English draft resolution, prepared for the Swatantra Party’s National Convention in Delhi on August 4–5, 1974, reviews the party’s decision to pursue a broader opposition alliance. It recalls the National Executive’s call for cooperation among political parties and describes negotiations involving Swatantra leaders and other political figures. The General Council approved the idea of a “National Alternative” bringing together all parties other than Congress and the Communists, on the basis of a common programme.
+
 ## Key points
 
 - The resolution presents the formation of a two-party system and a National Alternative as responses to political confusion.

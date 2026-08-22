@@ -54,6 +54,12 @@ summary: |-
   The committee discussed Maharaja Dhrangadhara’s proposal to establish a publicity service for the party’s parliamentary activities, but deferred the matter. It treated the Kutch Tribunal Award as binding, while directing members to condemn the government’s handling of the issue and support a no-confidence motion introduced by the Jan Sangh. The record also reaffirms an earlier decision that party members opposed to a bill should be free to speak against it. Finally, it assigns members to speak on a resolution concerning members walking out during the President’s Address, the West Bengal situation, and the U.P.S.C. report.
 ---
 
+## Summary
+
+This single-page English office record, issued on Swatantra Party Parliamentary Office letterhead in New Delhi, records a meeting of the party’s Executive Committee held on 20 February 1968 in the Party Committee Room, Central Hall. It lists fourteen attendees and notes that S. K. Tapuriah attended as a special invitee.
+
+The committee discussed Maharaja Dhrangadhara’s proposal to establish a publicity service for the party’s parliamentary activities, but deferred the matter. It treated the Kutch Tribunal Award as binding, while directing members to condemn the government’s handling of the issue and support a no-confidence motion introduced by the Jan Sangh. The record also reaffirms an earlier decision that party members opposed to a bill should be free to speak against it. Finally, it assigns members to speak on a resolution concerning members walking out during the President’s Address, the West Bengal situation, and the U.P.S.C. report.
+
 ## Key points
 
 - The Executive Committee met on 20 February 1968 at Central Hall, New Delhi.

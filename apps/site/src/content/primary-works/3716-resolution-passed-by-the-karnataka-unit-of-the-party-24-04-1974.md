@@ -50,6 +50,10 @@ summary: |-
   This one-page English resolution records the Karnataka State Swatantra Party executive committee's response to a proposal for merger with several other political parties, including the B.K.D., Utkal Congress, S.S.P., Muslim Majlis, Loktantrik Dal, and Khatikar Sangh. The committee authorises the party president and General Council to negotiate and act on the proposal, but insists that any merger must preserve the Swatantra Party's basic ideals and principles.
 ---
 
+## Summary
+
+This one-page English resolution records the Karnataka State Swatantra Party executive committee's response to a proposal for merger with several other political parties, including the B.K.D., Utkal Congress, S.S.P., Muslim Majlis, Loktantrik Dal, and Khatikar Sangh. The committee authorises the party president and General Council to negotiate and act on the proposal, but insists that any merger must preserve the Swatantra Party's basic ideals and principles.
+
 ## Key points
 
 - The resolution was passed unanimously by the Karnataka State Swatantra Party executive committee.

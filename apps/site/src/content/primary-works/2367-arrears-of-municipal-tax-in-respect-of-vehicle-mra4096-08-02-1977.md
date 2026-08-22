@@ -49,6 +49,10 @@ summary: |-
   This three-page archival correspondence item consists of postal acknowledgment and envelope material followed by a typed letter dated February 8, 1977, from M. R. Masani to the Superintendent of the Assessment and Collection Department in Bombay. Masani responds to bills for municipal tax arrears concerning vehicle MRA 4096, covering the period from January 1, 1967, to September 30, 1974.
 ---
 
+## Summary
+
+This three-page archival correspondence item consists of postal acknowledgment and envelope material followed by a typed letter dated February 8, 1977, from M. R. Masani to the Superintendent of the Assessment and Collection Department in Bombay. Masani responds to bills for municipal tax arrears concerning vehicle MRA 4096, covering the period from January 1, 1967, to September 30, 1974.
+
 ## Key points
 
 - The substantive document is a letter dated February 8, 1977.

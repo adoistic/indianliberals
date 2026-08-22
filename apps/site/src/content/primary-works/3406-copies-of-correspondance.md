@@ -45,6 +45,12 @@ summary: |-
   The page does not identify the correspondents unambiguously, provide dates, or show the contents of the correspondence. The reference to “New India” may be a publication, organisation, or correspondent, but the visible page does not establish which.
 ---
 
+## Summary
+
+The single rendered page is an archival cover or folder sheet rather than a letter or set of correspondence pages. Its handwritten notation reads approximately “Copies of Correspondence between New India + Ranga[n?]”; a circled number “3406” appears above the notation.
+
+The page does not identify the correspondents unambiguously, provide dates, or show the contents of the correspondence. The reference to “New India” may be a publication, organisation, or correspondent, but the visible page does not establish which.
+
 ## Key points
 
 - The rendered page is a handwritten archival cover or folder label.

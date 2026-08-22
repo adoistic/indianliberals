@@ -49,6 +49,12 @@ summary: |-
   The letter requests members and friends to sign the petition, use additional foolscap sheets if necessary, and return the completed signatures by February 21 so that the party can present them before the budget is submitted to Parliament. The lower portion of the scanned page also contains a handwritten response or endorsement, but its text is only partly legible.
 ---
 
+## Summary
+
+This one-page English office letter, dated February 14, 1974, is issued on the Swatantra Party Maharashtra letterhead by Grish Munshi, identified as General Secretary. It asks the recipient to help circulate a petition to Parliament and the Finance Minister in response to rising prices. The petition advocates reducing indirect taxes and raising the exemption threshold for personal income tax.
+
+The letter requests members and friends to sign the petition, use additional foolscap sheets if necessary, and return the completed signatures by February 21 so that the party can present them before the budget is submitted to Parliament. The lower portion of the scanned page also contains a handwritten response or endorsement, but its text is only partly legible.
+
 ## Key points
 
 - The letter is dated February 14, 1974, and appears on Swatantra Party Maharashtra letterhead.

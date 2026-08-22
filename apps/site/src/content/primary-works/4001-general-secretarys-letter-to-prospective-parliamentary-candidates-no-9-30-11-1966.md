@@ -50,6 +50,10 @@ summary: |-
   Dated 30 November 1966, this one-page letter from M. R. Masani, General Secretary of the Swatantra Party, is addressed to prospective parliamentary candidates. It announces that December 1966 will be the final month in which candidates receive a constituency nursing grant.
 ---
 
+## Summary
+
+Dated 30 November 1966, this one-page letter from M. R. Masani, General Secretary of the Swatantra Party, is addressed to prospective parliamentary candidates. It announces that December 1966 will be the final month in which candidates receive a constituency nursing grant.
+
 ## Key points
 
 - The letter is issued from the Swatantra Party's Central Office in Bombay.

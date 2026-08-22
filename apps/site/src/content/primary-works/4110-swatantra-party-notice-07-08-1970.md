@@ -52,6 +52,10 @@ summary: |-
   This nine-page Swatantra Party Bombay Region circular, dated 7 August 1970, announces an Executive Committee meeting scheduled for 12 August and lists an agenda covering earlier minutes, election-campaign planning, suggestions from Sharayu Daftary and P. M. Shah, appointment of a Parliamentary Board, and other business. The attached minutes of the 15 July meeting record the committee’s attendance and decisions concerning a proposed National Convention in Bombay, including an estimated Rs. 3,39,000 in receipts and a planned expenditure ceiling of Rs. 70,000. The proposed financing combines reception-committee contributions, delegate fees, visitors’ tickets, a subscription dinner, public collections, and a souvenir or presentation.
 ---
 
+## Summary
+
+This nine-page Swatantra Party Bombay Region circular, dated 7 August 1970, announces an Executive Committee meeting scheduled for 12 August and lists an agenda covering earlier minutes, election-campaign planning, suggestions from Sharayu Daftary and P. M. Shah, appointment of a Parliamentary Board, and other business. The attached minutes of the 15 July meeting record the committee’s attendance and decisions concerning a proposed National Convention in Bombay, including an estimated Rs. 3,39,000 in receipts and a planned expenditure ceiling of Rs. 70,000. The proposed financing combines reception-committee contributions, delegate fees, visitors’ tickets, a subscription dinner, public collections, and a souvenir or presentation.
+
 ## Key points
 
 - The notice concerns the Swatantra Party’s Bombay Region Executive Committee and a meeting scheduled for 12 August 1970.

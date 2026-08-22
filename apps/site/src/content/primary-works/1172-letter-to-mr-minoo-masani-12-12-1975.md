@@ -49,6 +49,12 @@ summary: |-
   The writer welcomes the memorial as a fitting tribute, characterising Rajaji as a leader who fought for individual freedom and safeguarded democracy. He expresses the party unit's happiness at the plan to honour "the beloved leader Sri Pujya Rajajee" and asks Masani to inform him when the memorial function is to take place. The letter is signed by hand and bears the archival number 1172. The typescript preserves several idiosyncratic spellings ("fiting", "fright" for "fought", "Freedam", "democricy", "momorial") characteristic of a mofussil correspondent typing in a second language.
 ---
 
+## Summary
+
+A single-page typed letter dated 12 December 1975 from B. Satyanarayana, Field Organizer and General Secretary of the Swatantra Party in Narsipatnam (Visakhapatnam District, Andhra Pradesh), to Minoo Masani, described as the National Swatantra Party Leader, at 148 Mahatma Gandhi Road, Bombay-1. Satyanarayana opens with a Sanskrit greeting ("Namastee") and writes in response to a press announcement that Masani would organise a memorial to C. Rajagopalachari on the occasion of his 97th birthday celebration.
+
+The writer welcomes the memorial as a fitting tribute, characterising Rajaji as a leader who fought for individual freedom and safeguarded democracy. He expresses the party unit's happiness at the plan to honour "the beloved leader Sri Pujya Rajajee" and asks Masani to inform him when the memorial function is to take place. The letter is signed by hand and bears the archival number 1172. The typescript preserves several idiosyncratic spellings ("fiting", "fright" for "fought", "Freedam", "democricy", "momorial") characteristic of a mofussil correspondent typing in a second language.
+
 ## Key points
 
 - Letter is from B. Satyanarayana, Field Organizer and General Secretary of the Swatantra Party's Narsipatnam unit in Andhra Pradesh, to Minoo Masani in Bombay.

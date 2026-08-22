@@ -54,6 +54,12 @@ summary: |-
   A dated list records members elected to the Maharashtra State Council on 17 November 1973. The document also gives district-level office-bearers for Bombay South, Bombay Central South, Bombay Central, Bombay North West, Bombay North East, Poona, Sholapur, Osmanabad, and Aurangabad. The final rendered page contains undated handwritten notes on liberal principles, including the relationship between ideals and principles, the role of an underpinning ideology, laws and freedom, social change, justice, and elections. These notes are distinct from the typed organisational lists and their authorship is not identified.
 ---
 
+## Summary
+
+This 1973 administrative record lists the Maharashtra organisation of the Swatantra Party. It identifies the party’s president, vice-presidents, general secretary, joint secretaries, treasurer, executive committee members, and general council members, with addresses and office or residential telephone numbers. Madhu Mehta is listed as president, while Girish Munshi is general secretary; the executive committee and general council lists extend across Bombay and the districts of Poona, Sholapur, Osmanabad, and Aurangabad.
+
+A dated list records members elected to the Maharashtra State Council on 17 November 1973. The document also gives district-level office-bearers for Bombay South, Bombay Central South, Bombay Central, Bombay North West, Bombay North East, Poona, Sholapur, Osmanabad, and Aurangabad. The final rendered page contains undated handwritten notes on liberal principles, including the relationship between ideals and principles, the role of an underpinning ideology, laws and freedom, social change, justice, and elections. These notes are distinct from the typed organisational lists and their authorship is not identified.
+
 ## Key points
 
 - The document is an organisational directory for the Swatantra Party in Maharashtra.

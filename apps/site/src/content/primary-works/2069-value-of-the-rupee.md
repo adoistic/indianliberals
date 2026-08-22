@@ -48,6 +48,12 @@ summary: |-
   The pamphlet distinguishes between the rupee's nominal purchasing power and its value measured against the 1956 rupee. It states that, compared with 1956, the rupee was worth only about 25 paise in 1974, while noting that its purchasing power had periodically fallen to 42.5 paise, 38 paise, 36 paise, and 35 paise. No author, publisher, issuing organisation, or publication date is printed on the page.
 ---
 
+## Summary
+
+This single-page English illustrated pamphlet argues that the rupee has lost purchasing power because prices have risen sharply since 1956. Its central image shows a person being swept along by a wave, visually representing inflation and the erosion of the currency's value.
+
+The pamphlet distinguishes between the rupee's nominal purchasing power and its value measured against the 1956 rupee. It states that, compared with 1956, the rupee was worth only about 25 paise in 1974, while noting that its purchasing power had periodically fallen to 42.5 paise, 38 paise, 36 paise, and 35 paise. No author, publisher, issuing organisation, or publication date is printed on the page.
+
 ## Key points
 
 - The pamphlet presents inflation as a steep decline in the rupee's purchasing power.

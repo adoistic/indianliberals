@@ -59,6 +59,12 @@ summary: |-
   The essay then turns to the Swatantra Party and its liberal opposition to Congress socialism, state monopolies, bank nationalisation, agricultural collectivisation, and the “Licence, Permit, Quota Raj.” Raju argues that the party’s electoral performance was rooted more in political realities than in widespread appreciation of its liberal manifesto, while emphasising its defence of freedom, property rights, mixed-economy arrangements, and opposition to both private and state monopolies. The final pages connect this tradition to the Indian Liberal Group’s attempt to reconcile free-market economics with social concern: reducing poverty and expanding opportunity without imposing equality of conditions, and grounding a better life in liberty, responsibility, tolerance, social justice, democratic accountability, and the rule of law.
 ---
 
+## Summary
+
+In the pages shown, S. V. Raju presents liberalism as an evolving political philosophy anchored in freedom rather than as a fixed doctrine. He traces its Western development from an agrarian setting into an industrial society, highlighting Bentham, John Stuart Mill, and T. H. Green as thinkers who adapted liberal principles to emerging social problems and defended the dignity of the individual. In India, liberalism is described as a philosophy of liberation from social and political constraints, whose commitments to liberty, equality, and justice remain visible in the Constitution despite later amendments.
+
+The essay then turns to the Swatantra Party and its liberal opposition to Congress socialism, state monopolies, bank nationalisation, agricultural collectivisation, and the “Licence, Permit, Quota Raj.” Raju argues that the party’s electoral performance was rooted more in political realities than in widespread appreciation of its liberal manifesto, while emphasising its defence of freedom, property rights, mixed-economy arrangements, and opposition to both private and state monopolies. The final pages connect this tradition to the Indian Liberal Group’s attempt to reconcile free-market economics with social concern: reducing poverty and expanding opportunity without imposing equality of conditions, and grounding a better life in liberty, responsibility, tolerance, social justice, democratic accountability, and the rule of law.
+
 ## Key points
 
 - Liberalism is presented as a changing tradition whose central conviction is that liberal thought is anchored in freedom.

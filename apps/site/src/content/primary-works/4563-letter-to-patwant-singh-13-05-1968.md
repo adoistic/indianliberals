@@ -46,6 +46,12 @@ summary: |-
   Masani welcomes Singh's offer to speak with Frank Moraes, or anyone else Singh chooses, about the implications of the letter. The document records an arrangement for publication and invites discussion of the letter's significance, but does not reproduce the letter being discussed.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to Patwant Singh is dated 13 May 1968. Masani says he is sending Singh the text of a letter intended for publication in the Observer on the morning of Wednesday, 15 May.
+
+Masani welcomes Singh's offer to speak with Frank Moraes, or anyone else Singh chooses, about the implications of the letter. The document records an arrangement for publication and invites discussion of the letter's significance, but does not reproduce the letter being discussed.
+
 ## Key points
 
 - The letter is dated 13 May 1968.

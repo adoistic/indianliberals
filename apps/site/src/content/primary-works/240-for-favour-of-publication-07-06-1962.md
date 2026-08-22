@@ -57,6 +57,12 @@ summary: |-
   The note challenges the Budget's tax burden, agricultural neglect, and excise policy. It cites foodgrain production rising from 69 to 79 million tons in five years while questioning the Third Plan's target of 100 million tons by 1965–66. It also argues that textile excise duties would reduce production and that taxation falling mainly on the poor is incompatible with social justice. Masani concludes by calling for abolition of land revenue, reduced duties on essential raw materials and intermediates, lower corporate and income-tax rates, fiscal restraint, and expenditure cuts aimed at limiting bureaucratic expansion.
 ---
 
+## Summary
+
+This two-page Swatantra Party press note, issued from New Delhi on 7 June 1962 and signed by General Secretary M. R. Masani, attacks the Union Budget as an extension of the planning system and as an additional burden on the poor. It argues that economic policy should first secure every household's basic needs—food, clothing, and shelter—rather than pursue an abstract industrial pattern. The statement gives priority to agriculture and light industry, criticising the government's continued emphasis on heavy industry under conditions unlike those in countries such as China and Soviet Russia.
+
+The note challenges the Budget's tax burden, agricultural neglect, and excise policy. It cites foodgrain production rising from 69 to 79 million tons in five years while questioning the Third Plan's target of 100 million tons by 1965–66. It also argues that textile excise duties would reduce production and that taxation falling mainly on the poor is incompatible with social justice. Masani concludes by calling for abolition of land revenue, reduced duties on essential raw materials and intermediates, lower corporate and income-tax rates, fiscal restraint, and expenditure cuts aimed at limiting bureaucratic expansion.
+
 ## Key points
 
 - The statement presents the Swatantra Party's criticism of the Union Budget of 1962.

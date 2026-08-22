@@ -44,6 +44,10 @@ summary: |-
   This single-page English office instruction sheet is headed “Write Letters to” and organizes intended recipients into two geographical lists: Bombay and Rajkot. The Bombay list contains public figures, professionals, and other individuals, while the Rajkot list includes recipients from Rajkot, Dhoraji, Upleta, Wankaner, and Jasdan. Handwritten check marks, deletions, underlining, additions, and editorial notes indicate that the list was being reviewed or amended during preparation.
 ---
 
+## Summary
+
+This single-page English office instruction sheet is headed “Write Letters to” and organizes intended recipients into two geographical lists: Bombay and Rajkot. The Bombay list contains public figures, professionals, and other individuals, while the Rajkot list includes recipients from Rajkot, Dhoraji, Upleta, Wankaner, and Jasdan. Handwritten check marks, deletions, underlining, additions, and editorial notes indicate that the list was being reviewed or amended during preparation.
+
 ## Key points
 
 - The document instructs an unnamed sender or office to write letters to listed recipients.

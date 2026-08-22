@@ -48,6 +48,12 @@ summary: |-
   The letter then turns to Gujarat, urging Masani to be patient while the Central Parliamentary Board’s decision is delayed by the weekend and a holiday. Raju encloses letters from Rajaji concerning Gujarat and Maharashtra, reports that Rajaji has returned part of an advance, and proposes a meeting involving Lochhand and Dr. Cooper to address the party’s funds. He also describes a visit from Jaisingh of Beria, a follow-up meeting between Dr. Cooper and Beria, and a press statement issued by Cooper. The letter closes by responding to a Hindustan Times statement attributed to Masani, which Beria had criticised as suggesting that Gujarat leaders were colluding with the Indian National Congress against party policy.
 ---
 
+## Summary
+
+Dated April 30, 1970, this office letter from S. V. Raju to Minoo Masani reports on several immediate political and organisational matters. Raju says that a telegram has been sent to Basant Singh after Masani’s contact with Sardar Basant Singh, and that a circular is being sent to Central Parliamentary Board members seeking approval to revoke permission previously given to the Swatantra Party candidate in Gurdaspur. He also encloses 100 copies of the Swatantra newsletter and discusses the delayed printing of the JS brochure, which he expects to receive proofs for shortly.
+
+The letter then turns to Gujarat, urging Masani to be patient while the Central Parliamentary Board’s decision is delayed by the weekend and a holiday. Raju encloses letters from Rajaji concerning Gujarat and Maharashtra, reports that Rajaji has returned part of an advance, and proposes a meeting involving Lochhand and Dr. Cooper to address the party’s funds. He also describes a visit from Jaisingh of Beria, a follow-up meeting between Dr. Cooper and Beria, and a press statement issued by Cooper. The letter closes by responding to a Hindustan Times statement attributed to Masani, which Beria had criticised as suggesting that Gujarat leaders were colluding with the Indian National Congress against party policy.
+
 ## Key points
 
 - Raju reports efforts to contact Basant Singh and circulate a request to Central Parliamentary Board members concerning the Gurdaspur candidacy.

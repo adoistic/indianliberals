@@ -50,3 +50,9 @@ summary: |-
   
   The other rendered pages contain separate articles from Mint and The New Sunday Express, including discussions of private equity in India, liberal politics, Mumbai’s cosmopolitan identity, and welfare, liberty, and self-help. These clippings are not thematically or editorially unified, and the metadata’s principal title applies only to the Wall Street Journal article.
 ---
+
+## Summary
+
+This six-page PDF is a compilation of unrelated English-language newspaper clippings rather than a single structured work. The principal clipping is The Wall Street Journal article “Shortage of skilled labor pinches Eastern Europe,” dated July 11, 2007, by Joelen Perry and Stephen Power. It argues that rapid economic growth, emigration, and demographic change have produced serious shortages of skilled workers in Eastern Europe, threatening the region’s cost advantage and industrial competitiveness. The article focuses especially on Poland and Slovakia, while also discussing recruitment, wage growth, vocational training, immigration, and the movement of manufacturing investment eastward.
+
+The other rendered pages contain separate articles from Mint and The New Sunday Express, including discussions of private equity in India, liberal politics, Mumbai’s cosmopolitan identity, and welfare, liberty, and self-help. These clippings are not thematically or editorially unified, and the metadata’s principal title applies only to the Wall Street Journal article.

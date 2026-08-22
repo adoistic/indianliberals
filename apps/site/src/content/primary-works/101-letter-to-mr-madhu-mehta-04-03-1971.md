@@ -45,6 +45,12 @@ summary: |-
   Beyond that acknowledgement, the letter contains no substantive political or policy content. It is a courteous private communication, signed "Yours sincerely, (M. R. Masani)", with the typist initials "mrm:rka" at the foot.
 ---
 
+## Summary
+
+A one-page typewritten letter dated 4th March, 1971 from M. R. Masani, addressed to Madhu Mehta at 84A Nepean Sea Road, Bombay 6. The note is a brief personal thank-you: Masani acknowledges that Mehta took the trouble to travel to Rajkot and address a set of meetings on his behalf, and expresses gratitude that Mehta agreed to step away from other work of comparable importance in order to do so.
+
+Beyond that acknowledgement, the letter contains no substantive political or policy content. It is a courteous private communication, signed "Yours sincerely, (M. R. Masani)", with the typist initials "mrm:rka" at the foot.
+
 ## Key points
 
 - Personal letter from M. R. Masani (Minoo Masani) dated 4th March, 1971.

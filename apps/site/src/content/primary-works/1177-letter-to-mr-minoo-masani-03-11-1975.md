@@ -47,6 +47,12 @@ summary: |-
   The second rendered page shows the reverse of the folded inland letter form: the printed 'INLAND LETTER / अन्तर्देशीय पत्र' panel, the addressee block for Mr. M. R. Masani at 148 Mahatma Gandhi Road, Bombay-23, and the sender's block printed as 'Swatantra Party National Head Quarters, 10-A, Flowers Road, Madras-600084', along with the postal cancellation. There is no argumentative or policy content beyond the meeting notice itself.
 ---
 
+## Summary
+
+A brief administrative notice on Swatantra Party National Head Quarters letterhead, dated 3 November 1975 and addressed from Madras to M. R. Masani at 148 Mahatma Gandhi Road, Bombay-23. V. S. Srikumar, the party's Joint Secretary, writes to give Masani advance intimation that meetings of the National Executive Council and the National General Council are being convened at Madras on the 29th and 30th of that month, with a detailed formal notice to follow before the 15th instant. The stated purpose of the early letter is simply to let Masani adjust his programme so as to be able to attend both meetings.
+
+The second rendered page shows the reverse of the folded inland letter form: the printed 'INLAND LETTER / अन्तर्देशीय पत्र' panel, the addressee block for Mr. M. R. Masani at 148 Mahatma Gandhi Road, Bombay-23, and the sender's block printed as 'Swatantra Party National Head Quarters, 10-A, Flowers Road, Madras-600084', along with the postal cancellation. There is no argumentative or policy content beyond the meeting notice itself.
+
 ## Key points
 
 - Letter dated 3 November 1975 on Swatantra Party National Head Quarters letterhead, 10-A Flowers Road, Madras-600084 (phone 666138, Tel. Adds. 'SWATANTRA').

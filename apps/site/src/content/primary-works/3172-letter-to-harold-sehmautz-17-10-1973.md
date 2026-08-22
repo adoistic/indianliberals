@@ -55,6 +55,12 @@ summary: |-
   Raju argues that socialist and leftist ideas appeal because they promise shortcuts to prosperity, even when their policies may produce greater economic deprivation. He identifies the party’s rural support with its defence of small farmers’ proprietary rights, better prices for agricultural produce, and opposition to cooperative farming, which he equates with collective farming. Although the party has been weakened by Indira Gandhi’s electoral victories in 1971 and 1972, Raju says rising prices, unemployment, and shortages are creating greater receptivity to its economic views. He cautions that liberal influence will require public education, especially given illiteracy and India’s authoritarian political tradition, but hopes parliamentary institutions and liberal values will endure.
 ---
 
+## Summary
+
+In this two-page letter dated October 17, 1973, S. V. Raju responds to Harold Schmautz about the Indian Liberal Group and the Swatantra Party. Raju describes the party as committed to liberal principles, individual liberty, human dignity, rationality, parliamentary democracy, and competition rather than state monopoly. He points Schmautz to an enclosed article and party documents for further information about the Swatantra Party’s organisation and policies.
+
+Raju argues that socialist and leftist ideas appeal because they promise shortcuts to prosperity, even when their policies may produce greater economic deprivation. He identifies the party’s rural support with its defence of small farmers’ proprietary rights, better prices for agricultural produce, and opposition to cooperative farming, which he equates with collective farming. Although the party has been weakened by Indira Gandhi’s electoral victories in 1971 and 1972, Raju says rising prices, unemployment, and shortages are creating greater receptivity to its economic views. He cautions that liberal influence will require public education, especially given illiteracy and India’s authoritarian political tradition, but hopes parliamentary institutions and liberal values will endure.
+
 ## Key points
 
 - The Indian Liberal Group is presented as a party founded in August 1959 to uphold liberal principles and values.

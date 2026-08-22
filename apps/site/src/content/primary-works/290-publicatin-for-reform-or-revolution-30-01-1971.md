@@ -58,6 +58,12 @@ summary: |-
   In the rendered pages, Masani calls for a “U” turn: a reversal of the economic policies pursued over the previous twenty years, including reduced non-productive expenditure and taxation, restoration of incentives, agricultural and infrastructural priorities, and effective population control. He identifies reform of the electoral system and the creation of a united democratic opposition as necessary political changes, but doubts that existing parties can accomplish them. Although he describes himself as a Liberal Democrat committed to reform rather than destruction, the pamphlet closes by warning that when reform fails, revolutionary pressures may follow; it presents Jayaprakash Narayan as a possible leader of a non-violent, Gandhian transformation and defines a free country through pluralism, dissent, economic choice, and democratic institutions.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that India’s economic crisis is the consequence of statist and Marxist policies rather than democratic socialism. He links rising prices, unemployment, industrial stagnation, and food shortages to centralized planning, the Second Five-Year Plan, excessive controls, distorted priorities, and the concentration of political and economic power. The pamphlet distinguishes democratic socialism from the Indian version of socialism, which Masani presents as a Moscow-influenced system imposed through the planning apparatus and associated with weakened parliamentary opposition.
+
+In the rendered pages, Masani calls for a “U” turn: a reversal of the economic policies pursued over the previous twenty years, including reduced non-productive expenditure and taxation, restoration of incentives, agricultural and infrastructural priorities, and effective population control. He identifies reform of the electoral system and the creation of a united democratic opposition as necessary political changes, but doubts that existing parties can accomplish them. Although he describes himself as a Liberal Democrat committed to reform rather than destruction, the pamphlet closes by warning that when reform fails, revolutionary pressures may follow; it presents Jayaprakash Narayan as a possible leader of a non-violent, Gandhian transformation and defines a free country through pluralism, dissent, economic choice, and democratic institutions.
+
 ## Key points
 
 - Masani attributes India’s economic difficulties to statist, Marxist, and centralized planning policies.

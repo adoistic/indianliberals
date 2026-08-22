@@ -52,6 +52,12 @@ summary: |-
   Ganapaiah’s accompanying letter proposes printing 1,000 Kannada and 500 English copies of Masani’s speech, requests copies of M. R. Pai’s previous year’s speech for distribution among former Swatantra colleagues, and reports that Raju is seeking documents or records from 1967–1974 for his doctoral research at Bombay University. The correspondence therefore documents practical efforts to circulate liberal political texts, maintain links among former Swatantra Party figures, and preserve the party’s institutional records.
 ---
 
+## Summary
+
+These two pages preserve related correspondence among S. V. Raju, N. K. Ganapaiah, and C. L. Rao in February–March 1985. Raju thanks Ganapaiah for assistance to his family, discusses arranging 500 English copies of Minoo Masani’s speech for the Rajaji Foundation, and invites Ganapaiah to join a felicitation committee and attend a Bombay function for Masani’s eightieth birthday.
+
+Ganapaiah’s accompanying letter proposes printing 1,000 Kannada and 500 English copies of Masani’s speech, requests copies of M. R. Pai’s previous year’s speech for distribution among former Swatantra colleagues, and reports that Raju is seeking documents or records from 1967–1974 for his doctoral research at Bombay University. The correspondence therefore documents practical efforts to circulate liberal political texts, maintain links among former Swatantra Party figures, and preserve the party’s institutional records.
+
 ## Key points
 
 - S. V. Raju’s letter is dated March 11, 1985, and is addressed to N. K. Ganapaiah.

@@ -49,6 +49,12 @@ summary: |-
   Rao adds that the booklet is distributed free of charge, so no bill is enclosed. A copy is also sent to N. K. Ganapaiah at Harley Estate, Saklaspur Post, Hassan District, for information. The document is straightforward administrative correspondence concerning the circulation of Minoo Masani's lecture.
 ---
 
+## Summary
+
+This one-page English office letter, dated 24 June 1985, is issued on Bangalore Educational Trust letterhead and signed by C. L. Rao. Addressed to S. V. Raju, it acknowledges Raju's request for 100 copies of M. R. Masani's lecture and confirms that the copies have been dispatched by registered parcel.
+
+Rao adds that the booklet is distributed free of charge, so no bill is enclosed. A copy is also sent to N. K. Ganapaiah at Harley Estate, Saklaspur Post, Hassan District, for information. The document is straightforward administrative correspondence concerning the circulation of Minoo Masani's lecture.
+
 ## Key points
 
 - The letter is dated 24 June 1985 and written on Bangalore Educational Trust letterhead.

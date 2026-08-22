@@ -49,6 +49,12 @@ summary: |-
   The remaining two pages consist of handwritten material in Hindi, including what appears to be a letter or enclosure and an envelope addressed to Masani. The handwriting and orientation of these scans make the contents only partly legible; they appear connected to the same political correspondence, but no fuller interpretation is offered here.
 ---
 
+## Summary
+
+This three-page correspondence file, dated 16 December 1974, concerns political organisation and a proposed appointment within the party. In a typed note addressed to Minoo Masani, S. V. Raju reports that Mr. Sajahanand has reaffirmed his personal loyalty to Masani and the party and wants to be appointed Convener of the party in Bihar. Sajahanand also asks Masani for a letter of introduction to Jayaprakash Narayan ("J.P.") so that he can offer his services.
+
+The remaining two pages consist of handwritten material in Hindi, including what appears to be a letter or enclosure and an envelope addressed to Masani. The handwriting and orientation of these scans make the contents only partly legible; they appear connected to the same political correspondence, but no fuller interpretation is offered here.
+
 ## Key points
 
 - The file is dated Bombay, 16 December 1974.

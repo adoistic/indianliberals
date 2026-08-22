@@ -53,6 +53,12 @@ summary: |-
   The resolution, moved by Mr. P. K. Deo and unanimously adopted, expresses concern about what it calls the Centre’s growing interference in the functioning of state governments. It specifically objects to the use of the Governor’s office to install minority governments in the states, framing the issue as a threat to federal relations and constitutional government.
 ---
 
+## Summary
+
+This two-page English occasional paper combines a newspaper clipping headed “Is woos Swatantra rebels” with a typescript resolution of the Swatantra Party General Council. The clipping reports internal party dissent and concern over recent political developments, though much of its text is difficult to read in the scan.
+
+The resolution, moved by Mr. P. K. Deo and unanimously adopted, expresses concern about what it calls the Centre’s growing interference in the functioning of state governments. It specifically objects to the use of the Governor’s office to install minority governments in the states, framing the issue as a threat to federal relations and constitutional government.
+
 ## Key points
 
 - The document contains a newspaper clipping and a separate Swatantra Party General Council resolution.

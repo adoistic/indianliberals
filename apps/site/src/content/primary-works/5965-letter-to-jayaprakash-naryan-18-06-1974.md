@@ -46,6 +46,10 @@ summary: |-
   In this typed letter dated June 18, 1974, M. R. Masani writes to Jayaprakash Narayan acknowledging Narayan’s letter of June 12 and accepting an invitation to join the National Executive Council of the Citizens for Democracy. Masani confirms that he will attend the Council’s meeting in Bombay on Saturday, July 13, at 9:30 a.m.
 ---
 
+## Summary
+
+In this typed letter dated June 18, 1974, M. R. Masani writes to Jayaprakash Narayan acknowledging Narayan’s letter of June 12 and accepting an invitation to join the National Executive Council of the Citizens for Democracy. Masani confirms that he will attend the Council’s meeting in Bombay on Saturday, July 13, at 9:30 a.m.
+
 ## Key points
 
 - Masani acknowledges receipt of Narayan’s letter of June 12.

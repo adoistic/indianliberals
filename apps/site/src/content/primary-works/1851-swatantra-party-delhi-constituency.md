@@ -48,6 +48,10 @@ summary: |-
   This two-page Delhi office record lists 34 individuals, their addresses or affiliations, and brief remarks concerning the Swatantra Party. The entries include prospective members, organisers, journalists, professionals, businesspeople, former political workers, and local activists. Several offer organisational help, canvassing, publicity, or the use of their offices, while others request information about the Party's aims, programme, or arrangements.
 ---
 
+## Summary
+
+This two-page Delhi office record lists 34 individuals, their addresses or affiliations, and brief remarks concerning the Swatantra Party. The entries include prospective members, organisers, journalists, professionals, businesspeople, former political workers, and local activists. Several offer organisational help, canvassing, publicity, or the use of their offices, while others request information about the Party's aims, programme, or arrangements.
+
 ## Key points
 
 - The record contains 34 numbered Delhi contacts.

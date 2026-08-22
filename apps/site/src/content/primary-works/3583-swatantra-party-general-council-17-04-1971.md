@@ -58,6 +58,10 @@ summary: |-
   This two-page position paper records proposals by the State Council of the Andhra Unit of the Swatantra Party for consideration by the Party’s General Council at its meeting in Bombay on April 17 and 18. The proposals seek a redistribution of economic benefits toward agricultural labourers, tenants, small farmers, industrial workers, weavers, poor people, disabled people, Harijans, Girijans, and other backward classes. They call for land reform, ceilings on urban property and incomes, parity between agricultural and industrial prices, cost-linked agricultural pricing, minimum wages, crop and livestock insurance, worker participation in industrial management, pensions, rehabilitation centres, and targeted credit and development measures.
 ---
 
+## Summary
+
+This two-page position paper records proposals by the State Council of the Andhra Unit of the Swatantra Party for consideration by the Party’s General Council at its meeting in Bombay on April 17 and 18. The proposals seek a redistribution of economic benefits toward agricultural labourers, tenants, small farmers, industrial workers, weavers, poor people, disabled people, Harijans, Girijans, and other backward classes. They call for land reform, ceilings on urban property and incomes, parity between agricultural and industrial prices, cost-linked agricultural pricing, minimum wages, crop and livestock insurance, worker participation in industrial management, pensions, rehabilitation centres, and targeted credit and development measures.
+
 ## Key points
 
 - The paper proposes an agrarian programme favouring agricultural labourers, tillers, tenants, and small farmers.

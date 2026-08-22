@@ -50,6 +50,12 @@ summary: |-
   Masani also informs Vajpayee that he will be in Delhi for a meeting of the Consultative Committee for the External Affairs Ministry on Monday the 29th at 9:30 a.m. He proposes meeting Vajpayee that afternoon to review developments, before returning to Bombay the same evening.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani to Atal Bihari Vajpayee, dated June 19, 1970, accompanies a draft that Masani says was finally revised after a discussion with their mutual friend. Masani specifically draws attention to a passage on page 11, marked in red pencil for further consideration, and indicates that it should be retained rather than deleted.
+
+Masani also informs Vajpayee that he will be in Delhi for a meeting of the Consultative Committee for the External Affairs Ministry on Monday the 29th at 9:30 a.m. He proposes meeting Vajpayee that afternoon to review developments, before returning to Bombay the same evening.
+
 ## Key points
 
 - Masani sends Vajpayee a draft revised after a discussion with a mutual friend.

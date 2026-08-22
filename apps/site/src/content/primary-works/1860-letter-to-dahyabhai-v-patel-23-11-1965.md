@@ -51,6 +51,12 @@ summary: |-
   The letter frames these changes as necessary to protect India’s territorial security and political authority. It invokes the border problems involving China and Pakistan, proposes bringing Pakistan into an “Indian Dominion” or restoring the pre-1947 territorial position, and warns that India’s prestige would decline if Lal Bahadur Shastri pursued United States or United Nations involvement in the India–Pakistan dispute. Narasimhan closes by promising further action against the Prime Minister and asserting that he could lead a reconstituted government.
 ---
 
+## Summary
+
+This letter, dated 23 November 1965 and addressed to Swatantra leader Dahyabhai Patel, argues that a memorandum directed against a single minister is inadequate. P. Narasimhan calls instead for replacing the entire ruling ministry and urges Patel to press the Prime Minister to resign. The letter proposes parliamentary and electoral restrictions, including a post-65 age limit, mandatory retirement after three successive election victories, and the removal of inefficient legislators from both state and central parliaments.
+
+The letter frames these changes as necessary to protect India’s territorial security and political authority. It invokes the border problems involving China and Pakistan, proposes bringing Pakistan into an “Indian Dominion” or restoring the pre-1947 territorial position, and warns that India’s prestige would decline if Lal Bahadur Shastri pursued United States or United Nations involvement in the India–Pakistan dispute. Narasimhan closes by promising further action against the Prime Minister and asserting that he could lead a reconstituted government.
+
 ## Key points
 
 - The writer rejects a memorandum against one minister and calls for changing the entire ministry.

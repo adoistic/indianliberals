@@ -52,6 +52,12 @@ summary: |-
   The visible portion argues that broadcasting is covered by the constitutional guarantee of freedom of speech and expression, just as the freedom of the press is. It further contends that no legislation authorises the Government’s broadcasting monopoly and that the administrative or executive creation of such a monopoly is therefore invalid. The clipping ends while discussing the petitioners’ claim that citizens have a constitutional right to establish broadcasting stations; the article is marked “Continued on Page 9.”
 ---
 
+## Summary
+
+The article reports a petition before the Bombay High Court challenging the Government’s monopoly over radio and television broadcasting. The petitioners argue that refusing citizens permission to establish independent broadcasting stations violates the fundamental right to freedom of speech under Article 19(1)(a) of the Constitution. The petition was filed by former MP Minoo Masani and former All India Radio Director-General P. C. Chatterji.
+
+The visible portion argues that broadcasting is covered by the constitutional guarantee of freedom of speech and expression, just as the freedom of the press is. It further contends that no legislation authorises the Government’s broadcasting monopoly and that the administrative or executive creation of such a monopoly is therefore invalid. The clipping ends while discussing the petitioners’ claim that citizens have a constitutional right to establish broadcasting stations; the article is marked “Continued on Page 9.”
+
 ## Key points
 
 - A Bombay High Court petition challenges the Government’s monopoly over radio and television broadcasting.

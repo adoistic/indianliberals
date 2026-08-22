@@ -53,6 +53,12 @@ summary: |-
   Sinha tells M. R. Masani that he has consulted others and received communications urging action to divert public opinion from violence. He therefore invites Masani to attend a Save Democracy Convention in Patna on April 25–26, 1970, describing collective and concrete action to protect democracy as urgent.
 ---
 
+## Summary
+
+In this one-page letter dated April 2, 1970, Mahamaya Prasad Sinha warns that Indian democracy is endangered by the growing public advocacy of violence. Invoking the constitutional tradition and the non-violent struggle against British rule, he argues that India should reject violent methods associated with other countries and pursue political change through peace, orderliness, and non-violence.
+
+Sinha tells M. R. Masani that he has consulted others and received communications urging action to divert public opinion from violence. He therefore invites Masani to attend a Save Democracy Convention in Patna on April 25–26, 1970, describing collective and concrete action to protect democracy as urgent.
+
 ## Key points
 
 - The letter identifies violence and its public advocacy as an immediate danger to Indian democracy.

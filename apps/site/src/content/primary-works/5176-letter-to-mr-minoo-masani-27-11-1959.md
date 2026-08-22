@@ -51,6 +51,12 @@ summary: |-
   The second page reproduces press notices describing the pamphlet’s case for a Centre Party as an alternative to the Swatantra Party. The proposed programme supports a mixed economy, coexistence between public- and private-sector enterprises, greater administrative decentralisation, more efficient public services, a realistic foreign policy, and a national government lasting at least five years. It also rejects both extreme individualism and communism, advocates state planning for public enterprises but not private ones, recommends profit-sharing, and proposes state-sponsored farm co-operatives for rural development. The press excerpts frame the pamphlet as a centrist response to communism, fascism, and the perceived overextension of state authority.
 ---
 
+## Summary
+
+This letter, dated 27 November 1959 and sent by B. N. Rao from Hyderabad to Minoo Masani, accompanies a copy of Rao’s pamphlet Programme for a Centre Party. Rao asks Masani to consider the pamphlet’s arguments and refers him to an introduction defending a centre-oriented alternative to C. Rajagopalachari’s proposed conservative party. He also cites supportive comments from The Hindu and two Bombay newspapers.
+
+The second page reproduces press notices describing the pamphlet’s case for a Centre Party as an alternative to the Swatantra Party. The proposed programme supports a mixed economy, coexistence between public- and private-sector enterprises, greater administrative decentralisation, more efficient public services, a realistic foreign policy, and a national government lasting at least five years. It also rejects both extreme individualism and communism, advocates state planning for public enterprises but not private ones, recommends profit-sharing, and proposes state-sponsored farm co-operatives for rural development. The press excerpts frame the pamphlet as a centrist response to communism, fascism, and the perceived overextension of state authority.
+
 ## Key points
 
 - B. N. Rao’s letter to Minoo Masani encloses and promotes the pamphlet Programme for a Centre Party.

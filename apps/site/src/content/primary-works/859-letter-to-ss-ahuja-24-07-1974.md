@@ -46,6 +46,10 @@ summary: |-
   This one-page letter from M. R. Masani to S. S. Ahuja is dated July 24, 1974. Masani acknowledges Ahuja’s letter of July 22 and expresses appreciation for Ahuja’s approval of his approach to the problems facing the Swatantra Party.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to S. S. Ahuja is dated July 24, 1974. Masani acknowledges Ahuja’s letter of July 22 and expresses appreciation for Ahuja’s approval of his approach to the problems facing the Swatantra Party.
+
 ## Key points
 
 - The document is a personal letter dated July 24, 1974.

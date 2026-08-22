@@ -47,6 +47,10 @@ summary: |-
   This letter from M. R. Masani to Indu Kumar Thakkar, dated 22 March 1971, thanks Thakkar for travelling to Rajkot and devoting time and energy to the election campaign. Masani says he relied heavily on Thakkar's work and credits him with doing as much as any one individual could have done.
 ---
 
+## Summary
+
+This letter from M. R. Masani to Indu Kumar Thakkar, dated 22 March 1971, thanks Thakkar for travelling to Rajkot and devoting time and energy to the election campaign. Masani says he relied heavily on Thakkar's work and credits him with doing as much as any one individual could have done.
+
 ## Key points
 
 - Masani expresses gratitude for Thakkar's participation in the election campaign.

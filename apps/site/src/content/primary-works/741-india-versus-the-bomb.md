@@ -49,6 +49,12 @@ summary: |-
   In the rendered pages, Masani considers three responses: appealing to world opinion, building an Indian bomb, or accepting the principle of interdependence through an explicit nuclear-security arrangement. He dismisses reliance on world opinion as ineffective and argues that an independent Indian nuclear deterrent would be economically ruinous, militarily impractical, and psychologically unconvincing because India could not credibly threaten to strike first. He therefore advocates a publicly announced guarantee, preferably from the United States and possibly the Soviet Union, while insisting that this would not necessarily abandon non-alignment or national sovereignty. The pamphlet closes by calling for a broader foreign-policy reorientation: stronger ties with friendly countries, conventional self-reliance, and collective security against nuclear attack.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that China's atomic explosion and Nikita Khrushchev's removal have radically altered India's strategic situation after the 1962 war. He presents the Chinese bomb not primarily as a battlefield weapon but as a source of political and diplomatic leverage, warning that any Indian attempt to recover lost territory could invite nuclear retaliation. The pamphlet also interprets Khrushchev's fall as potentially opening the way to a Moscow–Peking rapprochement and urges India not to assume that the new Soviet government will remain hostile to China.
+
+In the rendered pages, Masani considers three responses: appealing to world opinion, building an Indian bomb, or accepting the principle of interdependence through an explicit nuclear-security arrangement. He dismisses reliance on world opinion as ineffective and argues that an independent Indian nuclear deterrent would be economically ruinous, militarily impractical, and psychologically unconvincing because India could not credibly threaten to strike first. He therefore advocates a publicly announced guarantee, preferably from the United States and possibly the Soviet Union, while insisting that this would not necessarily abandon non-alignment or national sovereignty. The pamphlet closes by calling for a broader foreign-policy reorientation: stronger ties with friendly countries, conventional self-reliance, and collective security against nuclear attack.
+
 ## Key points
 
 - China's atomic explosion is presented as an immediate threat to India's security and territorial claims.

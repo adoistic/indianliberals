@@ -49,6 +49,10 @@ summary: |-
   Dated April 20, 1966, this Swatantra Party circular from General Secretary M. R. Masani confirms the forthcoming meeting of the Party’s General Council. The meeting is scheduled for April 26–27 at the Grand Hotel in Bombay, with May 16–17 listed as alternative dates, and is addressed to party members as an institutional notice of business.
 ---
 
+## Summary
+
+Dated April 20, 1966, this Swatantra Party circular from General Secretary M. R. Masani confirms the forthcoming meeting of the Party’s General Council. The meeting is scheduled for April 26–27 at the Grand Hotel in Bombay, with May 16–17 listed as alternative dates, and is addressed to party members as an institutional notice of business.
+
 ## Key points
 
 - The circular confirms a General Council meeting in Bombay for April 26–27, 1966, with May 16–17 as alternative dates.

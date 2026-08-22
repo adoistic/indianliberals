@@ -50,6 +50,12 @@ summary: |-
   The letter is also sharply critical of efforts to revive the Swatantra Party at the national level, calling the Tamil Nadu unit's decision to retain its identity and rebuild the organisation a desperate move likely to fail. It criticises the party's alliance with figures whose conduct, in the writer's view, violated the moral standards expected of Swatantra. The writer urges Rengaswami to return to Parliament as an independent and expresses concern about political apathy, hypocrisy, and the country's future. The pages end with an invitation to meet representatives of the Indian Liberal Group.
 ---
 
+## Summary
+
+This handwritten letter, dated 24 September 1974 and addressed to P. Rengaswami, reflects on a recent exchange with Piloo Mody about the Swatantra Party's dissolution and merger. The writer says that Mody's position is best understood as “pragmatism,” rather than the “politics of frustration” the writer had initially attributed to him. Although retaining reservations, the writer accepts much of Mody's argument that the Bharatiya Lok Dal offered the only practical alternative to a fragmented opposition and might gather disparate opposition parties under a common programme.
+
+The letter is also sharply critical of efforts to revive the Swatantra Party at the national level, calling the Tamil Nadu unit's decision to retain its identity and rebuild the organisation a desperate move likely to fail. It criticises the party's alliance with figures whose conduct, in the writer's view, violated the moral standards expected of Swatantra. The writer urges Rengaswami to return to Parliament as an independent and expresses concern about political apathy, hypocrisy, and the country's future. The pages end with an invitation to meet representatives of the Indian Liberal Group.
+
 ## Key points
 
 - The writer thanks Rengaswami for responding to an earlier letter and describes a meeting with Piloo Mody on 25 August 1974.

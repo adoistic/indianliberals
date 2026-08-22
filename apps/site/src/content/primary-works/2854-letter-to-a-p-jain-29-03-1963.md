@@ -49,6 +49,10 @@ summary: |-
   In this letter dated 29 March 1963, M. R. Masani writes to A. P. Jain from the Swatantra Party Parliamentary Office concerning the Finance Bill and the Super Profits Tax Bill. He encloses draft amendments intended to block all increases in direct and indirect taxation, while noting that the Party would otherwise oppose both the Super Profits Tax Bill and the Company Savings Bill in their entirety.
 ---
 
+## Summary
+
+In this letter dated 29 March 1963, M. R. Masani writes to A. P. Jain from the Swatantra Party Parliamentary Office concerning the Finance Bill and the Super Profits Tax Bill. He encloses draft amendments intended to block all increases in direct and indirect taxation, while noting that the Party would otherwise oppose both the Super Profits Tax Bill and the Company Savings Bill in their entirety.
+
 ## Key points
 
 - Masani encloses draft amendments to the Finance Bill and one amendment to the Super Profits Tax Bill.

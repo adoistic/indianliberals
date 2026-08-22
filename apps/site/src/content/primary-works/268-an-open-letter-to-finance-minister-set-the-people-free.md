@@ -56,6 +56,12 @@ summary: |-
   Masani maintains that high direct-tax rates encourage evasion and punish fixed-income middle-class taxpayers, while expanding excise duties and sales taxes burden consumers and create incentives for corporate corruption. He links the resulting decline in profits and investment to unemployment, inflation, and reduced savings, and calls for tax relief alongside sharp cuts in unproductive civil expenditure. The letter also advocates dismantling the permit-quota-licence system, freeing foreign exchange and industry from excessive controls, decentralising state power, and extending economic democracy through freer markets and collective bargaining. The five-page letter closes by presenting the budget as an opportunity for the Janata Government to “set the people free” economically, as it has already done politically.
 ---
 
+## Summary
+
+In this open letter to Finance Minister H. M. Patel, Minoo Masani argues that the Union Budget should mark a decisive break with India’s prolonged economic stagnation. He contrasts India’s experience with the rapid prosperity of Japan, South Korea, Malaysia, Singapore, Hong Kong, and Taiwan, and attributes India’s declining per-capita income and weak living standards to excessive taxation, pervasive controls, and policies that discourage enterprise and investment. Drawing on Nani Palkhivala’s earlier calls for a “U Turn” in budgeting, Masani urges substantial reductions in both direct and indirect taxes.
+
+Masani maintains that high direct-tax rates encourage evasion and punish fixed-income middle-class taxpayers, while expanding excise duties and sales taxes burden consumers and create incentives for corporate corruption. He links the resulting decline in profits and investment to unemployment, inflation, and reduced savings, and calls for tax relief alongside sharp cuts in unproductive civil expenditure. The letter also advocates dismantling the permit-quota-licence system, freeing foreign exchange and industry from excessive controls, decentralising state power, and extending economic democracy through freer markets and collective bargaining. The five-page letter closes by presenting the budget as an opportunity for the Janata Government to “set the people free” economically, as it has already done politically.
+
 ## Key points
 
 - Masani presents the 1978 Union Budget as a test of whether the Janata Government understands India’s economic failures and can correct them.

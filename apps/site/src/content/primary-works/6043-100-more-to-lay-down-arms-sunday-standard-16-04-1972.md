@@ -51,6 +51,12 @@ summary: |-
   The article places the expected surrender in a longer history of negotiations, noting earlier surrender episodes associated with Maharaja Madhavrao Scindia and Acharya Vinoba Bhave. It reports that the government intends to introduce the necessary bill soon and presents rehabilitation, rather than policing alone, as central to ending the dacoit problem. No individual author is named; the clipping credits Express News Service.
 ---
 
+## Summary
+
+This one-page Sunday Standard news report describes the expected surrender of another 100 dacoits from the Chambal ravines in Madhya Pradesh. The report says the state government has convened a conference to address the problem at its roots, combining administrative measures with rehabilitation and land settlement. The dacoits are to receive agricultural land, with the Chief Minister estimating that the reclamation programme would cost about Rs. 70 crores; ravines in Uttar Pradesh and Rajasthan are also expected to be covered.
+
+The article places the expected surrender in a longer history of negotiations, noting earlier surrender episodes associated with Maharaja Madhavrao Scindia and Acharya Vinoba Bhave. It reports that the government intends to introduce the necessary bill soon and presents rehabilitation, rather than policing alone, as central to ending the dacoit problem. No individual author is named; the clipping credits Express News Service.
+
 ## Key points
 
 - Another 100 dacoits from the Chambal ravines were expected to surrender the following day.

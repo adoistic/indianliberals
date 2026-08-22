@@ -50,6 +50,12 @@ summary: |-
   Patel then raises a question about the Gujarat Party’s leadership. He reports that Narendrasingh Jhalla read a letter recommending Jaydeepsingh of Baria as president after Bhailalbhai’s retirement, and asks Masani whether the recommendation reflects Masani’s personal view or that of the Parliamentary Board. The letter is a concise intervention in party organisation, electoral expectations, and leadership succession within Gujarat politics.
 ---
 
+## Summary
+
+In this letter dated 17 June 1963, Dahyabhai V. Patel sends Minoo Masani a report prepared by Congress candidate Shri Lethalal Joshi about the election, noting that copies were distributed at a meeting at Vallabh Vidya Nagar. Patel says speakers at the meeting expected Masani, as a Member of Parliament from Gujarat, to attend future meetings.
+
+Patel then raises a question about the Gujarat Party’s leadership. He reports that Narendrasingh Jhalla read a letter recommending Jaydeepsingh of Baria as president after Bhailalbhai’s retirement, and asks Masani whether the recommendation reflects Masani’s personal view or that of the Parliamentary Board. The letter is a concise intervention in party organisation, electoral expectations, and leadership succession within Gujarat politics.
+
 ## Key points
 
 - The letter is dated 17 June 1963 and is sent from Dahyabhai V. Patel’s address at 68 Marine Drive, Bombay 1.

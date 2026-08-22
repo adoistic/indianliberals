@@ -50,6 +50,12 @@ summary: |-
   The article highlights the South Bombay constituency, where Socialist Party leader George Fernandes is presented as facing opposition from Dr. N. N. Kailas of Congress (R) and Naval V. Tata as an Independent. It also gives constituency-level figures for Greater Bombay and North-East Bombay, discusses the importance of Muslim and working-class voters in South Bombay, and recalls Fernandes's 1967 defeat of S. K. Patil while noting that the present contest is more difficult.
 ---
 
+## Summary
+
+This Economic Times report, datelined Bombay, March 4, previews polling in four Indian states, with particular attention to Bombay's constituencies and the electoral alignments facing the Congress. It describes the campaign as a contest involving the Ruling Congress, the New Congress, the Old Congress, the Shiv Sena, the Jan Sangh, and a four-party “grand alliance” comprising the Congress (O), the Shiv Sena, and other opponents of Congress candidates.
+
+The article highlights the South Bombay constituency, where Socialist Party leader George Fernandes is presented as facing opposition from Dr. N. N. Kailas of Congress (R) and Naval V. Tata as an Independent. It also gives constituency-level figures for Greater Bombay and North-East Bombay, discusses the importance of Muslim and working-class voters in South Bombay, and recalls Fernandes's 1967 defeat of S. K. Patil while noting that the present contest is more difficult.
+
 ## Key points
 
 - The report covers impending elections in four states and concentrates on Bombay's polling preparations.

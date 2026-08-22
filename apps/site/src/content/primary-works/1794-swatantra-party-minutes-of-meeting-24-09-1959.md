@@ -56,6 +56,12 @@ summary: |-
   The committee also planned public and internal meetings, including a discussion of “The Economic Policies of Government,” an open-air Gandhi Jayanti meeting, and citizens’ meetings condemning Chinese aggression. Jayaprakash Narayan was expected to be the principal speaker at the latter meetings. The minutes record a balance of Rs. 52,437 in the bank and Rs. 56 in cash, authorize regular public statements on live issues subject to committee approval, and assign G. P. Hutheesing to draft statements on the Government’s sugar policy and H. M. Patel to prepare one on the food situation.
 ---
 
+## Summary
+
+These two pages record a meeting of the Swatantra Party’s Organising Committee for Greater Bombay, held on Thursday, 24 September, with Sir H. P. Mody in the chair. The committee focused on expanding membership, strengthening the Party Office, improving coordination with honorary secretaries, appointing a full-time paid executive, and forming a Ladies’ Committee. The minutes report 859 members enrolled at the office, with a further potential membership of 5,760, and note that membership forms had been distributed in Gujarat, Delhi, Rajasthan, and Patiala.
+
+The committee also planned public and internal meetings, including a discussion of “The Economic Policies of Government,” an open-air Gandhi Jayanti meeting, and citizens’ meetings condemning Chinese aggression. Jayaprakash Narayan was expected to be the principal speaker at the latter meetings. The minutes record a balance of Rs. 52,437 in the bank and Rs. 56 in cash, authorize regular public statements on live issues subject to committee approval, and assign G. P. Hutheesing to draft statements on the Government’s sugar policy and H. M. Patel to prepare one on the food situation.
+
 ## Key points
 
 - The Greater Bombay Organising Committee met on 24 September, with Sir H. P. Mody as chair.

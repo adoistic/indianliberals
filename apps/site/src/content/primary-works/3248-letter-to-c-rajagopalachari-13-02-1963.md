@@ -47,6 +47,10 @@ summary: |-
   This single-page letter, dated 13 February 1963, is from M. R. Masani to C. Rajagopalachari (“Rajaji”). Masani forwards draft minutes for Rajagopalachari’s approval, covering meetings of the C.O.C., G.C., and Organisation Sub-Committee held on the 9th and 10th.
 ---
 
+## Summary
+
+This single-page letter, dated 13 February 1963, is from M. R. Masani to C. Rajagopalachari (“Rajaji”). Masani forwards draft minutes for Rajagopalachari’s approval, covering meetings of the C.O.C., G.C., and Organisation Sub-Committee held on the 9th and 10th.
+
 ## Key points
 
 - The letter is dated 13 February 1963.

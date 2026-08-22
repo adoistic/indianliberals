@@ -44,6 +44,10 @@ summary: |-
   This untitled letter, dated August 2, 1975, is from B. G. Verghese on The Hindustan Times letterhead to Minoo Masani. Verghese thanks Masani for his letter of July 29 and for an enclosure, which he says he has read with interest.
 ---
 
+## Summary
+
+This untitled letter, dated August 2, 1975, is from B. G. Verghese on The Hindustan Times letterhead to Minoo Masani. Verghese thanks Masani for his letter of July 29 and for an enclosure, which he says he has read with interest.
+
 ## Key points
 
 - The letter is dated August 2, 1975.

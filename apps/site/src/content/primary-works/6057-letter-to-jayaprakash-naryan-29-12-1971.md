@@ -48,6 +48,12 @@ summary: |-
   Masani expresses concern about Narayan’s recovery, asks Prabhavati to send an update on his health, and says that he would have visited if the distance had not been so great. The letter closes with wishes for Narayan and Prabhavati’s health and happiness in the New Year.
 ---
 
+## Summary
+
+In this one-page personal letter dated 29 December 1971, M. R. Masani writes to Jayaprakash Narayan (“J.P.”) about his illness. Masani says he had previously written on 19 November and sent a copy to addresses in Muzaffarpur and Patna, but had received no news of Narayan in the press or otherwise.
+
+Masani expresses concern about Narayan’s recovery, asks Prabhavati to send an update on his health, and says that he would have visited if the distance had not been so great. The letter closes with wishes for Narayan and Prabhavati’s health and happiness in the New Year.
+
 ## Key points
 
 - Masani’s letter is dated 29 December 1971 and addressed to Jayaprakash Narayan.

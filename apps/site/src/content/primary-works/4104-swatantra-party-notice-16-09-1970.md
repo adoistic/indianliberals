@@ -54,6 +54,10 @@ summary: |-
   This six-page English-language bundle of Swatantra Party, Bombay Region office papers from September 1970 contains a meeting notice, draft minutes, and correspondence concerning party organisation. The notice calls an Executive Committee meeting for 23 September 1970 to confirm earlier minutes, consider proposals for a workers’ “Shibir” from the Matunga and Mahim units, and address other business. The draft minutes of the 9 September meeting record preparations for the party’s National Convention, scheduled for 30–31 January 1971, including venue selection, delegate arrangements, fundraising, souvenir publication, and the possibility of holding the event in an open pandal in Bombay’s Fort area.
 ---
 
+## Summary
+
+This six-page English-language bundle of Swatantra Party, Bombay Region office papers from September 1970 contains a meeting notice, draft minutes, and correspondence concerning party organisation. The notice calls an Executive Committee meeting for 23 September 1970 to confirm earlier minutes, consider proposals for a workers’ “Shibir” from the Matunga and Mahim units, and address other business. The draft minutes of the 9 September meeting record preparations for the party’s National Convention, scheduled for 30–31 January 1971, including venue selection, delegate arrangements, fundraising, souvenir publication, and the possibility of holding the event in an open pandal in Bombay’s Fort area.
+
 ## Key points
 
 - The Bombay Region Executive Committee was scheduled to meet on 23 September 1970 at the Swatantra Party office in Sassoon Building.

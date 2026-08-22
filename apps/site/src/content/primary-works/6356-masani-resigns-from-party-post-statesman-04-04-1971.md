@@ -48,6 +48,12 @@ summary: |-
   The report also records that C. Rajagopalachari was attempting to persuade Masani to withdraw his resignation and continue leading the party. The clipping attributes its accounts to PTI and UNI reports; it does not identify an author or provide formal publication details.
 ---
 
+## Summary
+
+This single-page English newspaper clipping reports that M. R. Masani resigned as chairman of the Swatantra Party in Bombay on April 3, 1971. It says Masani assured party members that, although resigning from the chairmanship, he would continue advocating the party's philosophy and principles as a member.
+
+The report also records that C. Rajagopalachari was attempting to persuade Masani to withdraw his resignation and continue leading the party. The clipping attributes its accounts to PTI and UNI reports; it does not identify an author or provide formal publication details.
+
 ## Key points
 
 - M. R. Masani resigned as chairman of the Swatantra Party.

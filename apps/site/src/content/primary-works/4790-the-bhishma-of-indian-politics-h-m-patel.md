@@ -58,6 +58,12 @@ summary: |-
   The speech also emphasizes Rajaji’s administrative philosophy and his defence of the civil service, clear distinctions between policy and administration, and responsible government. Patel links Rajaji’s later political work to a defence of individual dignity and freedom against an intrusive, centralised state, socialism, and the system of permits, licences, and quotas. The closing sections portray Rajaji as a writer and teacher whose Tamil and English writings, including versions of the Ramayana and Mahabharata, helped transmit ethical and cultural values to younger generations. The visible text is the complete four-page PDF booklet, though its printed folios run from 1 through 5.
 ---
 
+## Summary
+
+In this memorial speech, H. M. Patel presents C. Rajagopalachari (Rajaji) as a statesman whose authority rested not on a mass political following but on intellectual alertness, moral seriousness, and independence of judgment. Patel traces Rajaji’s association with Mahatma Gandhi, his work in advancing programmes such as temple entry, the removal of untouchability, khadi, village industries, and prohibition, and his willingness to dissent when conscience required it. Rajaji’s advocacy of partition in 1942 is described as an unpopular but principled attempt to secure the transfer of power from Britain to Indian hands.
+
+The speech also emphasizes Rajaji’s administrative philosophy and his defence of the civil service, clear distinctions between policy and administration, and responsible government. Patel links Rajaji’s later political work to a defence of individual dignity and freedom against an intrusive, centralised state, socialism, and the system of permits, licences, and quotas. The closing sections portray Rajaji as a writer and teacher whose Tamil and English writings, including versions of the Ramayana and Mahabharata, helped transmit ethical and cultural values to younger generations. The visible text is the complete four-page PDF booklet, though its printed folios run from 1 through 5.
+
 ## Key points
 
 - Rajaji is commemorated as a morally independent statesman whose influence exceeded his formal political following.

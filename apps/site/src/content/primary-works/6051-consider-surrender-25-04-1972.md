@@ -50,6 +50,12 @@ summary: |-
   The editorial presents rehabilitation as a legitimate third perspective between romanticising dacoits and insisting on punishment. It describes the surrender ceremony associated with Jayaprakash Narayan as deliberately humane, allowing former dacoits to return peacefully while preserving public order. The success of the mission, it argues, depends on favourable conditions, the right participants, and a genuine desire on both sides to reach an agreement. The clipping contains no byline, and only this single page was available.
 ---
 
+## Summary
+
+This Economic Times editorial considers whether the state should accept the surrender of dacoits through the Sarvodaya peace mission rather than rely solely on police force. It acknowledges the public's understandable desire to see criminals punished, but argues that police action must remain subordinate to law and that the state should not assume that every dacoit can be subdued by force alone. The article also notes the practical and legal complications involved in surrender ceremonies, including the need for police authority and judicial process to be reconciled.
+
+The editorial presents rehabilitation as a legitimate third perspective between romanticising dacoits and insisting on punishment. It describes the surrender ceremony associated with Jayaprakash Narayan as deliberately humane, allowing former dacoits to return peacefully while preserving public order. The success of the mission, it argues, depends on favourable conditions, the right participants, and a genuine desire on both sides to reach an agreement. The clipping contains no byline, and only this single page was available.
+
 ## Key points
 
 - The editorial weighs the Sarvodaya peace mission's negotiated surrender of dacoits against conventional police action.

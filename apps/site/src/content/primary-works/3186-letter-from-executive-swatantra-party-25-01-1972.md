@@ -51,6 +51,12 @@ summary: |-
   The letter turns this personal episode into a criticism of bureaucratic inflexibility. The writer argues that the experience revealed American officials to be unimaginative and misunderstood the writer’s stated pro-American and pro-Nixon position. The letter closes by suggesting that the complaint might help future visa applicants receive more considerate treatment.
 ---
 
+## Summary
+
+This one-page letter, dated January 25, 1972, is addressed to the Consul-General of the United States in Toronto and signed only as “Executive Secretary Swatantra Party.” The writer recounts applying for a visa during a private visit to Toronto in December 1971, after being invited to visit a sister in Philadelphia and Dr. Howard Erdman at Dartmouth College. The application was refused because the writer had not obtained a visa from the U.S. Consulate in Bombay, despite having return tickets and intending to stay only a few days.
+
+The letter turns this personal episode into a criticism of bureaucratic inflexibility. The writer argues that the experience revealed American officials to be unimaginative and misunderstood the writer’s stated pro-American and pro-Nixon position. The letter closes by suggesting that the complaint might help future visa applicants receive more considerate treatment.
+
 ## Key points
 
 - The writer visited Toronto privately between December 4 and 18, 1971.

@@ -53,6 +53,12 @@ summary: |-
   The document is an administrative communication rather than a substantive essay: it provides no details about the article's argument, intended readership, or publication context beyond the planned distribution of the reprint.
 ---
 
+## Summary
+
+This one-page English telegram from M. R. Masani, dated 30 November 1963, records an arrangement to send 2,000 copies of a reprint of C. Rajagopalachari's article. The message says the copies will be received the following day and is signed or attributed to “Sadasivam.”
+
+The document is an administrative communication rather than a substantive essay: it provides no details about the article's argument, intended readership, or publication context beyond the planned distribution of the reprint.
+
 ## Key points
 
 - The document is an Indian Posts and Telegraphs telegram form.

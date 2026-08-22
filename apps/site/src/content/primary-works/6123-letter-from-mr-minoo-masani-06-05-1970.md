@@ -48,6 +48,12 @@ summary: |-
   Masani explains that, as Party President, he sought the National Executive's concurrence before replying. He reports that the Executive advised him to decline signing the appeal because it included Gramdan, and he conveys that decision courteously to Narayan.
 ---
 
+## Summary
+
+In this letter dated May 6, 1970, M. R. Masani responds to Jayaprakash Narayan's request for cooperation and support for a national appeal to raise a Gramdan Fund of one crore rupees. The money was intended to be presented to Acharya Vinoba Bhave on September 11.
+
+Masani explains that, as Party President, he sought the National Executive's concurrence before replying. He reports that the Executive advised him to decline signing the appeal because it included Gramdan, and he conveys that decision courteously to Narayan.
+
 ## Key points
 
 - The letter is dated May 6, 1970, and is addressed to Jayaprakash Narayan as “J.P.”

@@ -58,6 +58,12 @@ summary: |-
   In the rendered pages, the proposed remedy is a major shift away from expanding state planning and toward fiscal restraint, monetary and exchange-rate stabilization, reduced controls, and a restoration of the price system and competitive markets. The article supports limiting state enterprises and welfare measures, while allowing private initiative and foreign investment to expand. Its final section frames excessive planning as a possible “Back door to Communism,” warning that India could sacrifice individual and political freedom unnecessarily; it instead advocates liberty under the rule of law and a government confined to its proper sphere.
 ---
 
+## Summary
+
+In the rendered pages, “The Right Road for India” argues that foreign aid has failed to generate capital formation because resources are diverted into inflationary, non-developmental uses. The article points to grain-storage losses, the re-lending of aid funds, weak accounting systems, and the diversion of both foreign aid and domestic savings. It also contends that tied loans do not guarantee productive investment, citing India’s experience alongside a World Bank observation about Turkey.
+
+In the rendered pages, the proposed remedy is a major shift away from expanding state planning and toward fiscal restraint, monetary and exchange-rate stabilization, reduced controls, and a restoration of the price system and competitive markets. The article supports limiting state enterprises and welfare measures, while allowing private initiative and foreign investment to expand. Its final section frames excessive planning as a possible “Back door to Communism,” warning that India could sacrifice individual and political freedom unnecessarily; it instead advocates liberty under the rule of law and a government confined to its proper sphere.
+
 ## Key points
 
 - Foreign aid is presented as having produced less capital formation than its volume suggests.

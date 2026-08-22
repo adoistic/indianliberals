@@ -47,6 +47,12 @@ summary: |-
   The sender emphasizes his anxiety to receive an answer and asks Masani to find time to consider the matters raised in the earlier correspondence. The two-page document is a personal political communication rather than a substantive argument about the merger; its principal significance lies in recording grassroots or intra-party concern during the period of the Swatantra Party's proposed realignment.
 ---
 
+## Summary
+
+This handwritten letter, dated 20 May 1974 and sent from Poona by Shantilal P. Shah to Minoo Masani, follows up on an earlier letter dated 13 May concerning the proposed merger of the Swatantra Party with other parties. Shah respectfully asks Masani to send a reply and acknowledges that Masani is occupied with considerable work.
+
+The sender emphasizes his anxiety to receive an answer and asks Masani to find time to consider the matters raised in the earlier correspondence. The two-page document is a personal political communication rather than a substantive argument about the merger; its principal significance lies in recording grassroots or intra-party concern during the period of the Swatantra Party's proposed realignment.
+
 ## Key points
 
 - The letter is dated 20 May 1974 and was sent from Poona.

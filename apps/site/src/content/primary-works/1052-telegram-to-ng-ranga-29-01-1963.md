@@ -48,6 +48,12 @@ summary: |-
   Because the telegram is a bare communication of a parliamentary or organisational stance, its historical interest lies less in its argument than in what it evidences: a real-time exchange within the young Swatantra Party's leadership about whether to back a 'socialist amendment' then before some deliberative body. Beyond the sender, addressee and one-sentence decision, the rendered page yields no further substantive content.
 ---
 
+## Summary
+
+A one-line phonogram-telegram sent from New Delhi on 28 January 1963 (received-stamp date), addressed to the telegraphic address 'SURAJYAM BOMBAY' and signed 'RANGA'. The single line of message text reads: 'DECIDED SUPPORTING SOCIALIST AMENDMENT'. The sender is N. G. Ranga — Swatantra Party leader and agrarian politician — who is communicating a legislative decision to a Bombay-based correspondent, almost certainly a fellow party functionary such as Minoo Masani or a party office. The document itself carries no further explanatory text; it is a working communication rather than an essay or article. On the pre-printed form the header 'भारतीय डाक व तार विभाग' (Indian Posts and Telegraphs Department) is visible along with the received stamp '28 JAN 1963' and a serial number.
+
+Because the telegram is a bare communication of a parliamentary or organisational stance, its historical interest lies less in its argument than in what it evidences: a real-time exchange within the young Swatantra Party's leadership about whether to back a 'socialist amendment' then before some deliberative body. Beyond the sender, addressee and one-sentence decision, the rendered page yields no further substantive content.
+
 ## Key points
 
 - Single-page telegram on an Indian Posts and Telegraphs Department phonogram form.

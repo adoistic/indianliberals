@@ -60,6 +60,12 @@ summary: |-
   A second, much longer substitute motion sets out a comprehensive critique of the Plan. Its objections include unrealistic planning, deficit finance, additional taxation, inflation, dependence on foreign loans, excessive emphasis on heavy industry, inadequate attention to agriculture and consumer goods, collective farming, regional disparities, corruption, centralisation, weakened States' rights, restrictions on workers' collective action, and the erosion of constitutional rights. The notice also records Indrajit Gupta's criticism that economic development would place a disproportionate burden on lower-income groups, and a further motion calling for reappraisal of export objectives in light of Britain's prospective entry into the European Common Market. The rendered document contains the complete two-page notice; it does not include the parliamentary debate or the outcome of the motions.
 ---
 
+## Summary
+
+This two-page Lok Sabha notice, dated New Delhi, August 19, 1961, presents substitute motions concerning Jawaharlal Nehru's motion on the Third Five Year Plan. The first substitute motion, introduced by C. R. Narasimhan and supported by several members, expresses approval of the Plan's objectives, priorities, and programmes and calls on the Union, the States, Union Territories, and the people of India to implement it with determination.
+
+A second, much longer substitute motion sets out a comprehensive critique of the Plan. Its objections include unrealistic planning, deficit finance, additional taxation, inflation, dependence on foreign loans, excessive emphasis on heavy industry, inadequate attention to agriculture and consumer goods, collective farming, regional disparities, corruption, centralisation, weakened States' rights, restrictions on workers' collective action, and the erosion of constitutional rights. The notice also records Indrajit Gupta's criticism that economic development would place a disproportionate burden on lower-income groups, and a further motion calling for reappraisal of export objectives in light of Britain's prospective entry into the European Common Market. The rendered document contains the complete two-page notice; it does not include the parliamentary debate or the outcome of the motions.
+
 ## Key points
 
 - The notice records substitute motions relating to the Third Five Year Plan placed before the Lok Sabha on August 7, 1961.

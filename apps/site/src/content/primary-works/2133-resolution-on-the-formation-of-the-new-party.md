@@ -50,6 +50,12 @@ summary: |-
   The resolution calls for prior agreement among the parties’ senior leaders on the new party’s name, policy, constitution, and composition. It criticises the decision to leave these questions to a large Bombay gathering of 200 people and urges Jayaprakash Narayan to appoint an organising committee in Delhi before the conference. It also reiterates that the new party should be clearly distinct from the ruling party, rural-oriented, and based on Gandhian ideology, while stating that the draft policy remained unacceptable to the B.L.D. and required further consideration.
 ---
 
+## Summary
+
+This two-page resolution records the B.L.D. National Executive’s concerns about Jayaprakash Narayan’s proposal to form a new political party. While welcoming the appeal and supporting an expedited merger, it argues that the four prospective constituent parties should first dissolve themselves and join the new organisation. The resolution notes that Congress (O) and the Socialist parties had not decided, while the Jan Sangh’s position remained vague and non-final; if any party stayed out, the purpose of creating the new party would be undermined.
+
+The resolution calls for prior agreement among the parties’ senior leaders on the new party’s name, policy, constitution, and composition. It criticises the decision to leave these questions to a large Bombay gathering of 200 people and urges Jayaprakash Narayan to appoint an organising committee in Delhi before the conference. It also reiterates that the new party should be clearly distinct from the ruling party, rural-oriented, and based on Gandhian ideology, while stating that the draft policy remained unacceptable to the B.L.D. and required further consideration.
+
 ## Key points
 
 - The B.L.D. National Executive welcomes Jayaprakash Narayan’s appeal to form a new party but objects to the proposed procedure.

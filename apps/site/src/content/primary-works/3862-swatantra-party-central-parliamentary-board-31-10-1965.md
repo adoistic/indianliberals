@@ -56,6 +56,12 @@ summary: |-
   The Board declined a government invitation for MPs to join a Goodwill Mission to North Africa, arguing that such delegations would serve little purpose, could interfere with diplomatic missions, and would impose an unnecessary burden on the country’s already critical foreign position. On parliamentary business, it instructed the party group to oppose any move to postpone the next year’s Assembly elections in Orissa and to oppose extending President’s Rule in Kerala. It further urged members to scrutinise the Official Secrets Amendment Bill and Unlawful Associations Bill for their implications for civil liberties and citizens’ fundamental rights.
 ---
 
+## Summary
+
+This two-page office record reports decisions taken by the Swatantra Party Central Parliamentary Board at its meeting in New Delhi on 31 October 1965. The Board addressed party discipline on public issues, advising members of Parliament and state legislatures not to sign appeals or manifestos without permission from the party leadership and not to join conferences or delegations without prior authorization. It also reaffirmed opposition to members supporting the manufacture of an indigenous atom bomb without prior consultation.
+
+The Board declined a government invitation for MPs to join a Goodwill Mission to North Africa, arguing that such delegations would serve little purpose, could interfere with diplomatic missions, and would impose an unnecessary burden on the country’s already critical foreign position. On parliamentary business, it instructed the party group to oppose any move to postpone the next year’s Assembly elections in Orissa and to oppose extending President’s Rule in Kerala. It further urged members to scrutinise the Official Secrets Amendment Bill and Unlawful Associations Bill for their implications for civil liberties and citizens’ fundamental rights.
+
 ## Key points
 
 - The Central Parliamentary Board met in New Delhi on 31 October 1965.

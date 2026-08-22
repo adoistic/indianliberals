@@ -49,6 +49,12 @@ summary: |-
   Mody questions proposals for coalition governments aimed at weakening Congress, asking what policy compromises such alliances would require and whether they could produce a coherent opposition. He distinguishes the Odisha arrangement, based on a common pre-election programme, from opportunistic alliances with little in common. The note concludes that the Swatantra Party should either contest independently or seek a principled arrangement like the one in Odisha, strengthen discipline and unity, and avoid doubtful associations if it is to build a durable opposition and challenge Congress for power.
 ---
 
+## Summary
+
+In a letter dated 15 September 1967, Minoo Mody explains to N. Dandekar that he cannot attend an upcoming meeting of the Swatantra Party's National Executive. He encloses a note on the party's position and prospects and asks Mr. Raju to circulate copies to the executive. The note argues that the party's public image and electoral performance have declined because of weak organisation, inadequate unity, and a lack of clear purpose.
+
+Mody questions proposals for coalition governments aimed at weakening Congress, asking what policy compromises such alliances would require and whether they could produce a coherent opposition. He distinguishes the Odisha arrangement, based on a common pre-election programme, from opportunistic alliances with little in common. The note concludes that the Swatantra Party should either contest independently or seek a principled arrangement like the one in Odisha, strengthen discipline and unity, and avoid doubtful associations if it is to build a durable opposition and challenge Congress for power.
+
 ## Key points
 
 - The letter encloses a note for discussion by the Swatantra Party's National Executive.

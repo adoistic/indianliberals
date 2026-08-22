@@ -50,6 +50,12 @@ summary: |-
   The letter is sharply critical of what Rajagopalachari presents as favourable or evasive newspaper treatment of the government. He questions an article that appears to describe the Finance Minister as a “22 carat” figure and asks whether readers should expect the press to defend or “salvage” Morarji Desai when the budget is before the country. The second page closes with a brief, partly illegible continuation and Rajagopalachari’s signature. Several passages are difficult to decipher because of the handwriting, fading, and page damage.
 ---
 
+## Summary
+
+This two-page handwritten letter from C. Rajagopalachari to Minoo Masani, dated 9 April 1964, discusses current political and press matters. Rajagopalachari refers to arrangements involving Sarvodaya workers and forthcoming travel, before turning to a recent special article in The Times of India concerning the Prime Minister, Morarji Desai, and the Union budget.
+
+The letter is sharply critical of what Rajagopalachari presents as favourable or evasive newspaper treatment of the government. He questions an article that appears to describe the Finance Minister as a “22 carat” figure and asks whether readers should expect the press to defend or “salvage” Morarji Desai when the budget is before the country. The second page closes with a brief, partly illegible continuation and Rajagopalachari’s signature. Several passages are difficult to decipher because of the handwriting, fading, and page damage.
+
 ## Key points
 
 - The letter is addressed to Minoo Masani and written on C. Rajagopalachari’s Madras letterhead.

@@ -44,6 +44,10 @@ summary: |-
   This one-page English express telegram, dated 26 March 1970, informs M. R. Masani that the sender will arrive in Madras from Bombay the following Friday by flight IC 1771 at 12:40 p.m. The stated purpose is to see “Rajaji,” with a return journey to Bombay scheduled for 5:30 p.m. The sender asks the recipient to ascertain Rajaji’s convenience and says they will come to meet him on arrival. The sender is not identified by name on the page; “MRM/prb” appears to be a copy or typing notation.
 ---
 
+## Summary
+
+This one-page English express telegram, dated 26 March 1970, informs M. R. Masani that the sender will arrive in Madras from Bombay the following Friday by flight IC 1771 at 12:40 p.m. The stated purpose is to see “Rajaji,” with a return journey to Bombay scheduled for 5:30 p.m. The sender asks the recipient to ascertain Rajaji’s convenience and says they will come to meet him on arrival. The sender is not identified by name on the page; “MRM/prb” appears to be a copy or typing notation.
+
 ## Key points
 
 - The document is headed “EXPRESS” and is formatted as a clipped, typed telegram or confirmation copy.

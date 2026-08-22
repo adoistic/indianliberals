@@ -43,6 +43,10 @@ summary: |-
   This one-page English telegram from the Indian Posts and Telegraphs Department is addressed to Minoo Masani and signed or identified as “JAYAPRAKASH.” The message revises travel arrangements: the sender says he will leave Delhi on the first rather than the second, expects to be hard pressed for time, and suggests that Masani reach Patna at any time after the first. The form bears a Bombay address line and a date stamp that is not legible enough to transcribe reliably.
 ---
 
+## Summary
+
+This one-page English telegram from the Indian Posts and Telegraphs Department is addressed to Minoo Masani and signed or identified as “JAYAPRAKASH.” The message revises travel arrangements: the sender says he will leave Delhi on the first rather than the second, expects to be hard pressed for time, and suggests that Masani reach Patna at any time after the first. The form bears a Bombay address line and a date stamp that is not legible enough to transcribe reliably.
+
 ## Key points
 
 - The document is a one-page Indian Posts and Telegraphs Department telegram.

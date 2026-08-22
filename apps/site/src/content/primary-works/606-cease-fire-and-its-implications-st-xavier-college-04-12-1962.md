@@ -52,6 +52,12 @@ summary: |-
   The second section asks “What Now?” and calls for new military and political policies, including a massive army and air force, a broader overhaul of the political machinery associated with past policies, severance of diplomatic relations with China, reference to the United Nations, and recognition of China as an aggressor. It also advocates renewed friendship with Pakistan, a more forceful position on Tibet and recognition of the Dalai Lama, and isolation of the Communist Party of India. The notes frame victory as the objective but question whether the present government can meet the crisis, invoking the example of Churchill's wartime leadership and citing parliamentary and press statements to challenge what they present as governmental inconsistency.
 ---
 
+## Summary
+
+These four pages comprise typed and annotated speaking notes for an address at St. Xavier's College on 4 December 1962, titled “Latest Development in the Indo-Chinese Crisis and the Implications of the Diplomatic Move made by Chinese.” The first section examines the Chinese cease-fire and the change from India's earlier confidence and resolve to the acceptance of a Chinese ultimatum. The notes characterize the diplomatic move as intended to confuse and divide India, demoralize the army, obstruct rearmament, drive a wedge between India and its friends, and withdraw China from an exposed position. They contrast India's declared refusal to compromise with its subsequent order not to shoot and warn that postponing the fight would produce demoralization among the public, armed forces, and foreign supporters.
+
+The second section asks “What Now?” and calls for new military and political policies, including a massive army and air force, a broader overhaul of the political machinery associated with past policies, severance of diplomatic relations with China, reference to the United Nations, and recognition of China as an aggressor. It also advocates renewed friendship with Pakistan, a more forceful position on Tibet and recognition of the Dalai Lama, and isolation of the Communist Party of India. The notes frame victory as the objective but question whether the present government can meet the crisis, invoking the example of Churchill's wartime leadership and citing parliamentary and press statements to challenge what they present as governmental inconsistency.
+
 ## Key points
 
 - The notes compare India's confident public posture on 20 November 1962 with the reversal following the Chinese ultimatum on 21 November.

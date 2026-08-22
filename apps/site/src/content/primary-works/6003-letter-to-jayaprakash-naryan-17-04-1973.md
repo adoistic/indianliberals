@@ -48,6 +48,12 @@ summary: |-
   The letter offers personal reassurance, urging Narayan not to let his health be adversely affected by the situation and asking him to look after himself. It suggests that he leave Patna for a few weeks or months, perhaps visiting Poona or Bombay, and notes that friends would be glad to spend time with him. The writer also asks whether Narayan has acted on an earlier suggestion to record his recollections, and closes by requesting any change of address so that they can remain in contact.
 ---
 
+## Summary
+
+This letter, dated April 17, 1973, is addressed to Jayaprakash Narayan after the writer heard that he had been given bad news while in Kadra. The writer explains that he was attending a Swatantra Party Convention when he learned of the news, and that the officers present expressed sympathy for Narayan.
+
+The letter offers personal reassurance, urging Narayan not to let his health be adversely affected by the situation and asking him to look after himself. It suggests that he leave Patna for a few weeks or months, perhaps visiting Poona or Bombay, and notes that friends would be glad to spend time with him. The writer also asks whether Narayan has acted on an earlier suggestion to record his recollections, and closes by requesting any change of address so that they can remain in contact.
+
 ## Key points
 
 - The letter is dated April 17, 1973, and addressed to Jayaprakash Narayan.

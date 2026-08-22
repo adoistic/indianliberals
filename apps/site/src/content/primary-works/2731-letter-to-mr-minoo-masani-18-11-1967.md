@@ -47,6 +47,10 @@ summary: |-
   In this letter dated November 18, 1967, Mrs. Kailash Rekhi thanks Minoo Masani for his circular proposing a change in the election of the Swatantra Party's General Secretary. She agrees with the proposal's underlying considerations but expresses surprise at the timing, noting Masani's longstanding service to the party and its ideals. She remains uncertain whether the General Council will accept the suggested change.
 ---
 
+## Summary
+
+In this letter dated November 18, 1967, Mrs. Kailash Rekhi thanks Minoo Masani for his circular proposing a change in the election of the Swatantra Party's General Secretary. She agrees with the proposal's underlying considerations but expresses surprise at the timing, noting Masani's longstanding service to the party and its ideals. She remains uncertain whether the General Council will accept the suggested change.
+
 ## Key points
 
 - Rekhi acknowledges Masani's November 1, 1967, circular concerning the election of the party's General Secretary.

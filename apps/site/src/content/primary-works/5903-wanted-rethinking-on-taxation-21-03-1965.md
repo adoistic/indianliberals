@@ -57,6 +57,12 @@ summary: |-
   In the rendered pages, Masani links this fiscal argument to a broader defence of a modern, competitive industrial society. He criticizes the “primitive and outmoded socialist ideas” reflected in contemporary government policy, while noting that even Communist countries are increasingly adopting profit motives, competition, and new technology. He calls for conditions that promote rapid, large-scale wealth creation, wider prosperity, private enterprise, and a larger consumer market, warning that money diverted through excessive taxation is likely to be wasted by government rather than productively invested.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues for a fundamental rethinking of taxation around wealth creation rather than redistribution alone. Drawing on Professor Nicholas Kaldor’s proposals for an integrated tax structure, he supports taxing idle wealth while using tax incentives to encourage productive investment. He argues that excessive taxation of income, capital, and enterprise impedes capital formation and economic growth, and that welfare should be understood as the production of goods and services rather than the expansion of state control.
+
+In the rendered pages, Masani links this fiscal argument to a broader defence of a modern, competitive industrial society. He criticizes the “primitive and outmoded socialist ideas” reflected in contemporary government policy, while noting that even Communist countries are increasingly adopting profit motives, competition, and new technology. He calls for conditions that promote rapid, large-scale wealth creation, wider prosperity, private enterprise, and a larger consumer market, warning that money diverted through excessive taxation is likely to be wasted by government rather than productively invested.
+
 ## Key points
 
 - Masani advocates an integrated tax structure covering wealth, expenditure, income, estate duty, capital gains, and other taxes.

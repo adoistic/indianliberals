@@ -50,6 +50,12 @@ summary: |-
   The writers say they share the principles of justice, fair play, freedom of work, and freedom of organisation, which they present as compatible with traditional ways. They propose forming a Swatantra Party Youth Forum among students in Allahabad and expanding it to the wider Uttar Pradesh region, asking Mody for approval and blessings.
 ---
 
+## Summary
+
+This one-page letter, dated 10 July 1959 and sent from Allahabad to “Sir Mody,” expresses the signatories’ support for the newly formed Swatantra Party. T. N. Bhargava, S. N. Dwivedi, and P. B. Nair state that, after studying Mody’s views alongside those of his colleagues, they believe the country’s interests can best be served by the party.
+
+The writers say they share the principles of justice, fair play, freedom of work, and freedom of organisation, which they present as compatible with traditional ways. They propose forming a Swatantra Party Youth Forum among students in Allahabad and expanding it to the wider Uttar Pradesh region, asking Mody for approval and blessings.
+
 ## Key points
 
 - The letter is dated 10 July 1959 and originates from 985 Kattra, Allahabad, Uttar Pradesh.

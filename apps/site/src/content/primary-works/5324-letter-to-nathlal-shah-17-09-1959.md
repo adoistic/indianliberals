@@ -46,6 +46,12 @@ summary: |-
   The letter also provides a brief schedule update: Masani is expected to return to India around the first week of October and to be in Delhi in November for the next session of Parliament. No broader political argument or policy discussion appears on the page.
 ---
 
+## Summary
+
+This one-page English letter, dated 17 September 1959, is addressed to Mr. Nathlal Shah in Lucknow and signed by Miss B.S. Mirza, Secretary to M.R. Masani. Mirza acknowledges Shah’s letter of 30 July and conveys Masani’s appreciation for Shah’s “kind sentiments and good wishes” regarding the newly formed Swatantra Party.
+
+The letter also provides a brief schedule update: Masani is expected to return to India around the first week of October and to be in Delhi in November for the next session of Parliament. No broader political argument or policy discussion appears on the page.
+
 ## Key points
 
 - The letter is dated 17 September 1959.

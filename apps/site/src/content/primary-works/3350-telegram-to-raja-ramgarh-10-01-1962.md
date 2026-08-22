@@ -52,6 +52,12 @@ summary: |-
   The accompanying calculations set out payments and liabilities involving the Central Bank, Darbhanga, Saharsa, and Purnea. They record Rs. 2,80,000 as payable by Raja to the Central Bank, plus interest, and calculate a remaining balance available of Rs. 1,10,000 after payments and commitments. A handwritten action list calls for ending delaying tactics, sending remittances immediately, borrowing money if necessary, and paying January and February instalments to the bank. The pages document administrative pressure, contested implementation, and short-term financial management rather than a developed policy argument.
 ---
 
+## Summary
+
+This January 1962 archival telegram and accompanying financial notes record Masani’s effort to implement a vehicle-distribution decision associated with a Parliamentary Subcommittee meeting in Madras. Addressed to Raja Ramgarh in Patna, the message insists that the Centre honour a payment obligation of Rs. 75,000 to Darbhanga and allocate Rs. 20,000 to Saharsa and Purnea on the understanding that one new jeep would be supplied to each district. It asks that Saharsa and Purnea be included among the endorsed constituencies receiving jeeps, warning that failure to do so could produce complications.
+
+The accompanying calculations set out payments and liabilities involving the Central Bank, Darbhanga, Saharsa, and Purnea. They record Rs. 2,80,000 as payable by Raja to the Central Bank, plus interest, and calculate a remaining balance available of Rs. 1,10,000 after payments and commitments. A handwritten action list calls for ending delaying tactics, sending remittances immediately, borrowing money if necessary, and paying January and February instalments to the bank. The pages document administrative pressure, contested implementation, and short-term financial management rather than a developed policy argument.
+
 ## Key points
 
 - Masani’s telegram is addressed to Raja Ramgarh, Jans Sewak, Patna, and is dated 15–16 January 1962.

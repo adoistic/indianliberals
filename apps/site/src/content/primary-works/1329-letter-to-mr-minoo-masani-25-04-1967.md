@@ -49,6 +49,12 @@ summary: |-
   The Secretariat asks Masani to submit, in order of priority, two or three names from his group for the Speaker's consideration. It requests an immediate reply, making the document a concise piece of parliamentary administrative correspondence concerning institutional representation and appointment procedures.
 ---
 
+## Summary
+
+This one-page official letter, dated April 25, 1967, was issued by the Lok Sabha Secretariat to Shri M. R. Masani, M.P. Its subject is the nomination of two Lok Sabha members to the Tea Board for the term ending March 31, 1969. The letter states that the Speaker proposes to nominate one member from the Swatantra Group.
+
+The Secretariat asks Masani to submit, in order of priority, two or three names from his group for the Speaker's consideration. It requests an immediate reply, making the document a concise piece of parliamentary administrative correspondence concerning institutional representation and appointment procedures.
+
 ## Key points
 
 - The letter was sent by the Lok Sabha Secretariat on April 25, 1967.

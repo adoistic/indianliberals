@@ -57,6 +57,12 @@ summary: |-
   The minutes show the committee's concern with safeguards for company employees who might act as government informers, the possible use of such protections for blackmail, and the need to protect sections of the community from intimidation on grounds of suspected social or economic activity. They also record the committee's rejection of allegations made by Yashpal Singh against M. R. Masani and the decision to send him the relevant minutes. The document closes with the adjournment of the meeting and the signature of P. N. Solanki, Secretary.
 ---
 
+## Summary
+
+This one-page English office memorandum records a meeting of the Swatantra Party Executive Committee held on 16 September 1964 in the Committee Room, Central Hall, Parliament House. Prof. N. G. Ranga chaired the meeting, which reviewed parliamentary speaking assignments and the Party's positions on supplementary demands for grants, the Companies' Amendment Bill, rising prices, and an amendment to the Emergency and Defence of India Rules.
+
+The minutes show the committee's concern with safeguards for company employees who might act as government informers, the possible use of such protections for blackmail, and the need to protect sections of the community from intimidation on grounds of suspected social or economic activity. They also record the committee's rejection of allegations made by Yashpal Singh against M. R. Masani and the decision to send him the relevant minutes. The document closes with the adjournment of the meeting and the signature of P. N. Solanki, Secretary.
+
 ## Key points
 
 - The Executive Committee meeting was held on 16 September 1964 at Parliament House and was chaired by Prof. N. G. Ranga.

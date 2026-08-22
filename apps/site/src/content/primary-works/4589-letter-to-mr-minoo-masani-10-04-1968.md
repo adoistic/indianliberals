@@ -49,6 +49,12 @@ summary: |-
   The document consists of one handwritten letter on Rural India letterhead and its accompanying air-mail envelope. The signer’s name appears to begin “H. S. Dar...” but the remainder of the surname is illegible. The precise circumstances of the resignation, and the institutional or political context behind it, are not explained in the visible pages.
 ---
 
+## Summary
+
+This handwritten letter, dated 10 April 1968 and addressed to Minoo Masani, responds to Masani's resignation. The signer writes that people in several places had expressed surprise at the resignation, but regards Masani's decision as the better course for someone in his position. The letter is written in a personal, sympathetic, and regretful tone.
+
+The document consists of one handwritten letter on Rural India letterhead and its accompanying air-mail envelope. The signer’s name appears to begin “H. S. Dar...” but the remainder of the surname is illegible. The precise circumstances of the resignation, and the institutional or political context behind it, are not explained in the visible pages.
+
 ## Key points
 
 - The letter is addressed to Minoo Masani and dated 10 April 1968.

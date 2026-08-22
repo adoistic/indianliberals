@@ -51,6 +51,12 @@ summary: |-
   Masani supports his objection by quoting Dhawan’s article in Blitz of January 29, 1966, which accused Britain of treachery and of seeking India’s disruption. He presents the article as part of a longer record rather than a temporary lapse, noting Dhawan’s role in the Blitz National Forum and his authorship of foreign-policy articles in the National Herald under the pseudonym “Sanjaya.” The letter is addressed to Cyril Dunn, correspondent of The Observer, in New Delhi.
 ---
 
+## Summary
+
+In this letter dated November 9, 1967, M. R. Masani objects to the appointment of Mr. S. S. Dhawan as India’s High Commissioner in Britain. Masani argues that Dhawan’s publicly expressed hostility toward Britain makes him unsuitable to represent India in a Commonwealth country that India’s government describes as a friend and from which India was receiving substantial economic aid.
+
+Masani supports his objection by quoting Dhawan’s article in Blitz of January 29, 1966, which accused Britain of treachery and of seeking India’s disruption. He presents the article as part of a longer record rather than a temporary lapse, noting Dhawan’s role in the Blitz National Forum and his authorship of foreign-policy articles in the National Herald under the pseudonym “Sanjaya.” The letter is addressed to Cyril Dunn, correspondent of The Observer, in New Delhi.
+
 ## Key points
 
 - Masani challenges the appointment of S. S. Dhawan as India’s High Commissioner in Britain.

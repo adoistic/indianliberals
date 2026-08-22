@@ -51,6 +51,12 @@ summary: |-
   Srikumar rejects Sudhan’s apparent characterization of the gathering as a “funeral gathering,” describing the participants as enthusiastic and committed to carrying forward C. Rajagopalachari’s message of cooperation. He argues for detailed discussion of important subjects at a future meeting and asks Sudhan to send headquarters a detailed account of his meetings with Jan Sangh and Bharatiya Lok Dal leaders concerning the formation of a joint front. The letter also mentions possible cooperation involving the Indira Congress and Sarvodaya, while acknowledging disagreement with a suggestion that the four parties should join the Indira Congress.
 ---
 
+## Summary
+
+This two-page letter, dated 21 January 1976 and written by V. S. Srikumar from the Swatantra Party’s national headquarters in Madras to C. M. Sudhan, explains why party resolutions were not discussed at greater length during a recent combined meeting of the National Executive and National General Council. Srikumar attributes the compressed proceedings to the inability to schedule the originally planned two-day session, noting that eight resolutions had to be adopted within two hours and that the meeting was primarily occupied with speeches by representatives of the states.
+
+Srikumar rejects Sudhan’s apparent characterization of the gathering as a “funeral gathering,” describing the participants as enthusiastic and committed to carrying forward C. Rajagopalachari’s message of cooperation. He argues for detailed discussion of important subjects at a future meeting and asks Sudhan to send headquarters a detailed account of his meetings with Jan Sangh and Bharatiya Lok Dal leaders concerning the formation of a joint front. The letter also mentions possible cooperation involving the Indira Congress and Sarvodaya, while acknowledging disagreement with a suggestion that the four parties should join the Indira Congress.
+
 ## Key points
 
 - Srikumar explains that a planned two-day party session was compressed because only one day could be allotted for the meetings.

@@ -51,6 +51,12 @@ summary: |-
   The writer forwards copies of the resolutions and draws particular attention to an invitation for the All India Swatantra Party's organising committee to hold its next session in Patna. The letter formally extends that invitation, suggesting February 1960 as a convenient date while leaving the final decision to the central organisation. The handwritten signature is not confidently legible; the letter is addressed to “Rangajee.”
 ---
 
+## Summary
+
+This single-page English letter, dated 3 November 1959 and written on Swatantra Party (Bihar) letterhead in Patna, reports the Bihar Provincial Committee's merger with the Swatantra Party. The committee met on 25 October 1959, ratified the merger resolutions, converted itself into the Provincial Committee of the Bihar State Swatantra Party, and discussed organisational arrangements.
+
+The writer forwards copies of the resolutions and draws particular attention to an invitation for the All India Swatantra Party's organising committee to hold its next session in Patna. The letter formally extends that invitation, suggesting February 1960 as a convenient date while leaving the final decision to the central organisation. The handwritten signature is not confidently legible; the letter is addressed to “Rangajee.”
+
 ## Key points
 
 - The Bihar Provincial Committee of the Janata Party met in Patna on 25 October 1959.

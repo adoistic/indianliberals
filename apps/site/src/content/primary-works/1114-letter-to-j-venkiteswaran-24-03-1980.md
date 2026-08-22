@@ -45,6 +45,12 @@ summary: |-
   In lieu of a written report, Masani proposes that Venkiteswaran ring him up, make an appointment, and come by so they can talk the matter over in person; Venkiteswaran can then draft a short note himself for circulation among friends. The letter is signed off with Masani's typed name and initials (MRM:vhb) and carries a small handwritten emendation in the paragraph substituting the wording around "and make an appointment".
 ---
 
+## Summary
+
+A brief typewritten letter from Minoo Masani to Mr. J. Venkiteswaran of 143 Mahatma Gandhi Road, Bombay, dated 24 March 1980. Masani acknowledges Venkiteswaran's letter of 21 March and explains that he is unable to prepare any kind of report on what took place in Delhi on 16 March 1980.
+
+In lieu of a written report, Masani proposes that Venkiteswaran ring him up, make an appointment, and come by so they can talk the matter over in person; Venkiteswaran can then draft a short note himself for circulation among friends. The letter is signed off with Masani's typed name and initials (MRM:vhb) and carries a small handwritten emendation in the paragraph substituting the wording around "and make an appointment".
+
 ## Key points
 
 - Personal typewritten letter from Minoo Masani to Mr. J. Venkiteswaran, dated 24 March 1980, sent from Bombay.

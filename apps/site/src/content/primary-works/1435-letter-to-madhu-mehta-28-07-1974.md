@@ -48,6 +48,10 @@ summary: |-
   This four-page English archival document consists of a letter dated 28 July 1974 from Harihar Patel to Sri Madhu Mehta, followed by an attached note and a press statement. Patel explains that he cannot attend the Swatantra Party’s National Executive and National Convention meetings because of recent surgery and travel constraints. He protests the proposed participation of Odisha delegates, arguing that no delegates had been properly elected under the party constitution and that the State Council proceedings were procedurally defective. The attached note argues that the Swatantra Party constitution contains no provision for dissolution and that the National Convention cannot dissolve the party without first amending the constitution.
 ---
 
+## Summary
+
+This four-page English archival document consists of a letter dated 28 July 1974 from Harihar Patel to Sri Madhu Mehta, followed by an attached note and a press statement. Patel explains that he cannot attend the Swatantra Party’s National Executive and National Convention meetings because of recent surgery and travel constraints. He protests the proposed participation of Odisha delegates, arguing that no delegates had been properly elected under the party constitution and that the State Council proceedings were procedurally defective. The attached note argues that the Swatantra Party constitution contains no provision for dissolution and that the National Convention cannot dissolve the party without first amending the constitution.
+
 ## Key points
 
 - Patel sends his views to Madhu Mehta because recent surgery prevents him from attending the National Executive and National Convention meetings.

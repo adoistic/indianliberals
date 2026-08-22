@@ -47,6 +47,10 @@ summary: |-
   In this letter dated 5 November 1963, M. R. Masani tells A. P. Jain that he has seen the Parliamentary Office booklet titled "Lawless Legislation" and finds it interesting. Masani does not criticize the booklet's substance; instead, he raises a question of institutional attribution and publication practice.
 ---
 
+## Summary
+
+In this letter dated 5 November 1963, M. R. Masani tells A. P. Jain that he has seen the Parliamentary Office booklet titled "Lawless Legislation" and finds it interesting. Masani does not criticize the booklet's substance; instead, he raises a question of institutional attribution and publication practice.
+
 ## Key points
 
 - M. R. Masani writes to A. P. Jain on 5 November 1963.

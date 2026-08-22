@@ -47,6 +47,12 @@ summary: |-
   Responding to a news report in The Hindu about a proposal to revive the Swatantra Party in accordance with the ideals of C. Rajagopalachari (Rajaji), Sitaraman urges Masani to support the initiative. He argues that a politically effective movement would require dedicated and competent people committed not to empty slogans or ideologies but to the national interest, which he presents as a way out of India's economic and political difficulties.
 ---
 
+## Summary
+
+In this letter dated August 27, 1980, Prof. S. Sitaraman writes from Vashi, New Bombay, to M. R. Masani, whom he had previously met while seeking employment opportunities for students of the Xavier Labour Relations Institute, Jamshedpur. Sitaraman says he has since joined A.I.M.O. as its Executive Secretary.
+
+Responding to a news report in The Hindu about a proposal to revive the Swatantra Party in accordance with the ideals of C. Rajagopalachari (Rajaji), Sitaraman urges Masani to support the initiative. He argues that a politically effective movement would require dedicated and competent people committed not to empty slogans or ideologies but to the national interest, which he presents as a way out of India's economic and political difficulties.
+
 ## Key points
 
 - The letter is dated August 27, 1980, and was sent from Vashi, New Bombay.

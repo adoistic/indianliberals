@@ -49,6 +49,12 @@ summary: |-
   Masani also notes that he is leaving the country the following day and expects to return around 25 September. The letter is addressed to Harihar Patel in his capacity as Orissa's Minister of Industries, Commerce, Cooperation & Forestry and Fisheries.
 ---
 
+## Summary
+
+In this personal and confidential letter dated 25 August 1967, M. R. Masani acknowledges Harihar Patel's letter of 7 August and reports that he has shown it to J. R. D. Tata. Masani says Tata is concerned about the welfare of the people of Orissa and is considering ways to assist the state, suggesting that Patel may soon hear from Tata or someone acting on his behalf.
+
+Masani also notes that he is leaving the country the following day and expects to return around 25 September. The letter is addressed to Harihar Patel in his capacity as Orissa's Minister of Industries, Commerce, Cooperation & Forestry and Fisheries.
+
 ## Key points
 
 - The letter is marked “Personal & Confidential” and dated 25 August 1967.

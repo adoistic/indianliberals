@@ -54,6 +54,12 @@ summary: |-
   The letter clarifies that the extension applies to committees whose terms would ordinarily expire in December 1966, allowing them to continue until after the elections. It does not extend workers’ subscriptions: committee members must renew their subscriptions when due, or they will cease to be members. The General Secretary also asks local recipients to ensure that current committee members renew their subscriptions and notes that the General Council will later consider a timetable for fresh elections.
 ---
 
+## Summary
+
+This one-page General Secretary's Letter No. 118, dated 4 June 1966, communicates a Swatantra Party resolution on extending the terms of office of party committees. The General Council, meeting in Bombay on 27–28 May 1966, approved a National Executive recommendation that all elected party bodies and office-bearers remain in office beyond the end of 1966, for no more than one additional year, subject to approval by the National Convention. The stated reason was the need to concentrate on the 1967 General Elections.
+
+The letter clarifies that the extension applies to committees whose terms would ordinarily expire in December 1966, allowing them to continue until after the elections. It does not extend workers’ subscriptions: committee members must renew their subscriptions when due, or they will cease to be members. The General Secretary also asks local recipients to ensure that current committee members renew their subscriptions and notes that the General Council will later consider a timetable for fresh elections.
+
 ## Key points
 
 - The Swatantra Party General Council met in Bombay on 27 and 28 May 1966.

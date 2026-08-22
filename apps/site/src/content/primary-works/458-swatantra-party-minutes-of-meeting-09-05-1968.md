@@ -50,6 +50,10 @@ summary: |-
   This one-page English office circular, issued by the Swatantra Party Parliamentary Office in New Delhi on 9 May 1968, corrects errors in the minutes of the party's Executive Committee meeting held on 7 May. It identifies nine members who actually attended and notes that Mr. Jardecker attended as a special invitee.
 ---
 
+## Summary
+
+This one-page English office circular, issued by the Swatantra Party Parliamentary Office in New Delhi on 9 May 1968, corrects errors in the minutes of the party's Executive Committee meeting held on 7 May. It identifies nine members who actually attended and notes that Mr. Jardecker attended as a special invitee.
+
 ## Key points
 
 - The circular was issued by the Swatantra Party Parliamentary Office on 9 May 1968.

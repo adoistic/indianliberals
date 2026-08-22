@@ -51,6 +51,12 @@ summary: |-
   The letter calls on Masani to help restore the party before it loses its ability to offer a credible alternative to the country’s administration. It stresses the importance of building an alternative party and closes by acknowledging the difficulties Masani has endured while encouraging him to persevere. The sender signs as “J Ramaswamy,” identified beneath the signature as “Editor”; the exact identity remains unresolved. The letter is written on the letterhead of the Tamil fortnightly Chanakyan.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 25 January 1968 and addressed to M. R. Masani, expresses deep concern about recent developments in the Swatantra Party and its 1968 annual issue of “Swarajya.” The sender criticizes what he sees as a weakening of the party’s standards and argues that the party needs workers committed to public service, discipline, sacrifice, and political understanding rather than merely seeking municipal or electoral office.
+
+The letter calls on Masani to help restore the party before it loses its ability to offer a credible alternative to the country’s administration. It stresses the importance of building an alternative party and closes by acknowledging the difficulties Masani has endured while encouraging him to persevere. The sender signs as “J Ramaswamy,” identified beneath the signature as “Editor”; the exact identity remains unresolved. The letter is written on the letterhead of the Tamil fortnightly Chanakyan.
+
 ## Key points
 
 - The writer is deeply troubled by developments in the Swatantra Party in early 1968.

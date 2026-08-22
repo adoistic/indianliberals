@@ -56,6 +56,10 @@ summary: |-
   In the rendered pages, “The Concept of the Public Good” argues that democracy cannot flourish without a shared conception of the public good, while warning that democracy alone does not guarantee that governments will act for it. The concept is presented as historically variable but anchored in enduring democratic principles such as peaceful change of government, impartial law, community, competent administration, and the willingness to subordinate narrow self-interest to wider and longer-term goals. The author distinguishes this position from enforced equality or authoritarian planning, arguing that some inequality may have to be tolerated in a democracy and that public good is best sustained through service, sacrifice, and a social ethos.
 ---
 
+## Summary
+
+In the rendered pages, “The Concept of the Public Good” argues that democracy cannot flourish without a shared conception of the public good, while warning that democracy alone does not guarantee that governments will act for it. The concept is presented as historically variable but anchored in enduring democratic principles such as peaceful change of government, impartial law, community, competent administration, and the willingness to subordinate narrow self-interest to wider and longer-term goals. The author distinguishes this position from enforced equality or authoritarian planning, arguing that some inequality may have to be tolerated in a democracy and that public good is best sustained through service, sacrifice, and a social ethos.
+
 ## Key points
 
 - The public good is treated as a necessary condition of durable democracy, not as an automatic product of elections.

@@ -53,6 +53,12 @@ summary: |-
   Masani attributes this performance to four policy fallacies: spending beyond the nation’s means, prioritising steel and heavy industry over agriculture and basic infrastructure, expanding government enterprise despite poor results, and permitting the Planning Commission and government to control production, prices, and investment through a dense system of regulations and licences. As an alternative, he proposes a temporary seven-year “Plan holiday” to complete unfinished projects, use existing capacity, reduce red tape, encourage private saving and investment, and restore purchasing power in rural areas. The address closes with a broader appeal for faith, imagination, and freedom from restrictive controls, invoking the German recovery as an example of what might follow from allowing “men and money” greater freedom.
 ---
 
+## Summary
+
+In this abridged address to the Rotary Club of Bombay, delivered on August 10, 1965, M. R. Masani challenges the assumption that larger Five-Year Plans necessarily produce faster development. He argues that India’s deteriorating foreign-exchange position, dependence on aid, inflation, weak purchasing power, and widening gap between imports and exports point to a structural failure in the planning model. The production figures cited for the First, Second, and projected Third Plans are presented as evidence that increasingly ambitious targets have yielded diminishing returns and substantial shortfalls in industrial and national-income growth.
+
+Masani attributes this performance to four policy fallacies: spending beyond the nation’s means, prioritising steel and heavy industry over agriculture and basic infrastructure, expanding government enterprise despite poor results, and permitting the Planning Commission and government to control production, prices, and investment through a dense system of regulations and licences. As an alternative, he proposes a temporary seven-year “Plan holiday” to complete unfinished projects, use existing capacity, reduce red tape, encourage private saving and investment, and restore purchasing power in rural areas. The address closes with a broader appeal for faith, imagination, and freedom from restrictive controls, invoking the German recovery as an example of what might follow from allowing “men and money” greater freedom.
+
 ## Key points
 
 - Masani rejects the idea that bigger Five-Year Plans automatically generate faster economic progress.

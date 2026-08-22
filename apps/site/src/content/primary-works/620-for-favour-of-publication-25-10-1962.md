@@ -58,6 +58,12 @@ summary: |-
   Masani also argues that democratic opposition parties should support the national war effort without surrendering their right to criticise government policy. He cites the British wartime experience—particularly the removal of Neville Chamberlain and the continued existence of Labour opposition under Churchill—as an example of this distinction. Turning to the 1962 conflict with China, he criticises the Nehru Government for refusing military assistance from friendly countries, retaining diplomatic relations with Peking, and supporting the Chinese Communist Government's claim to admission to the United Nations. He concludes that these policies lack popular support, noting that the government received only 45 per cent of the vote in the recent general elections.
 ---
 
+## Summary
+
+Dated Bombay, October 25, 1962, this statement by M. R. Masani combines an economic proposal with a wartime political argument. Masani urges the Swatantra Party to enlist commercial, trade, and voluntary associations in creating non-official vigilance organisations to expose black marketing, hoarding, profiteering, and other anti-social economic activity. He links this proposal to an earlier suggestion for a non-official ombudsman for the free sector of the economy.
+
+Masani also argues that democratic opposition parties should support the national war effort without surrendering their right to criticise government policy. He cites the British wartime experience—particularly the removal of Neville Chamberlain and the continued existence of Labour opposition under Churchill—as an example of this distinction. Turning to the 1962 conflict with China, he criticises the Nehru Government for refusing military assistance from friendly countries, retaining diplomatic relations with Peking, and supporting the Chinese Communist Government's claim to admission to the United Nations. He concludes that these policies lack popular support, noting that the government received only 45 per cent of the vote in the recent general elections.
+
 ## Key points
 
 - Masani proposes non-official vigilance organisations involving commercial, trade, and voluntary associations.

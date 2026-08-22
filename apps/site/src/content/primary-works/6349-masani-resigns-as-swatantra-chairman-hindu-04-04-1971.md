@@ -50,6 +50,12 @@ summary: |-
   The report presents Masani’s resignation as an application of a broader principle of public administration: when an organisation suffers defeat or disaster, its leader should accept responsibility and make way for someone who may bring fresh ideas. It also records Masani’s hope that his resignation would provide the party with an example of accountability, along with responses from party executive secretary S. V. Raju and C. Rajagopalachari, who reportedly urged him to reconsider and continue leading the party.
 ---
 
+## Summary
+
+This 4 April 1971 report from The Hindu describes M. R. Masani’s resignation as chairman of the Swatantra Party. In a letter, Masani says he will remain a party member and continue advocating its philosophy and principles, but argues that the party’s poor performance in the recent Lok Sabha poll and assembly elections requires him to accept responsibility and relinquish office.
+
+The report presents Masani’s resignation as an application of a broader principle of public administration: when an organisation suffers defeat or disaster, its leader should accept responsibility and make way for someone who may bring fresh ideas. It also records Masani’s hope that his resignation would provide the party with an example of accountability, along with responses from party executive secretary S. V. Raju and C. Rajagopalachari, who reportedly urged him to reconsider and continue leading the party.
+
 ## Key points
 
 - M. R. Masani resigns as chairman of the Swatantra Party while retaining his party membership.

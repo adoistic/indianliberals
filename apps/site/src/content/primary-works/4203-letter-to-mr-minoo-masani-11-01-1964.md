@@ -50,6 +50,12 @@ summary: |-
   The letter suggests inviting C. Rajagopalachari (Rajaji) to open the convention when delegates first meet, while also considering a public meeting and asking Shri Munshi to inaugurate it formally. The writer asks Masani to send his views so that these requests can be made. The second page also records plans to take advantage of the postponement of Satyagraha, start activity against the licensing regime by the end of the month, and coordinate a journey from Vijayawada to Bombay. The sender signs only as “Ranga,” so the full identity cannot be established from the document.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 7 January 1964 from Nidubrolu and addressed to Minoo Masani, discusses the organisation of the Swatantra Party and preparations for an impending convention. The writer reports having returned from a tour of Orissa and Andhra, where he found workers engaged in organising Satyagraha, and says that papers concerning the Bangalore meetings have been opened for discussion. He proposes discussing organisational possibilities and arrangements for Madhya Pradesh and West Bengal.
+
+The letter suggests inviting C. Rajagopalachari (Rajaji) to open the convention when delegates first meet, while also considering a public meeting and asking Shri Munshi to inaugurate it formally. The writer asks Masani to send his views so that these requests can be made. The second page also records plans to take advantage of the postponement of Satyagraha, start activity against the licensing regime by the end of the month, and coordinate a journey from Vijayawada to Bombay. The sender signs only as “Ranga,” so the full identity cannot be established from the document.
+
 ## Key points
 
 - The writer has returned from political tours of Orissa and Andhra and reports on local workers and Satyagraha activity.

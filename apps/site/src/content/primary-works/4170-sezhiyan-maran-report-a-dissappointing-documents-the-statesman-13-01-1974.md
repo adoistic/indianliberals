@@ -54,6 +54,12 @@ summary: |-
   The clipping discusses proposed changes to financial relations, including greater state control over foreign affairs, communications, currency, and taxation, as well as a broader role for the Inter-State Council. It also reports recommendations concerning industrial licensing, the appointment and powers of governors, and the use of languages listed in the Eighth Schedule. The article notes that the committee's more substantial proposals would transfer additional responsibilities from the Union to the states, including railways, broadcasting and television, and banking and insurance. No author byline is visible; the article is attributed to “Our Special Representative.”
 ---
 
+## Summary
+
+This English-language newspaper clipping reports on the Sezhiyan–Maran committee's proposals for greater state autonomy and judges the report a disappointing document. It says the committee's 32 months of work produced a report that largely restated the Rajamannar Committee's recommendations while adding what the article describes as arbitrary constitutional amendments. The article contrasts the report's stated preference for a strong Centre with its criticism of excessive centralisation and its call for a substantially different distribution of powers.
+
+The clipping discusses proposed changes to financial relations, including greater state control over foreign affairs, communications, currency, and taxation, as well as a broader role for the Inter-State Council. It also reports recommendations concerning industrial licensing, the appointment and powers of governors, and the use of languages listed in the Eighth Schedule. The article notes that the committee's more substantial proposals would transfer additional responsibilities from the Union to the states, including railways, broadcasting and television, and banking and insurance. No author byline is visible; the article is attributed to “Our Special Representative.”
+
 ## Key points
 
 - The article presents the Sezhiyan–Maran report as disappointing and insufficiently original.

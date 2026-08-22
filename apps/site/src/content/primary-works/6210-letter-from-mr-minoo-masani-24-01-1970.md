@@ -50,6 +50,12 @@ summary: |-
   The letter is a brief piece of political correspondence linking Masani's absence from a regional gathering to the demands of parliamentary work. It is addressed to Bajoria as president of the Paschim Banga Muslim Byabasayi Sammelan, with a carbon copy to Mr. D. N. Patodia, MP.
 ---
 
+## Summary
+
+In this letter dated January 24, 1970, Minoo Masani replies to Mr. S. N. Bajoria, apologising that he cannot attend Bajoria's Samelan in Berhampore on February 21–22. Masani explains that Parliament convenes on February 20 and that the weekend will be occupied with planning strategy on the issues facing them.
+
+The letter is a brief piece of political correspondence linking Masani's absence from a regional gathering to the demands of parliamentary work. It is addressed to Bajoria as president of the Paschim Banga Muslim Byabasayi Sammelan, with a carbon copy to Mr. D. N. Patodia, MP.
+
 ## Key points
 
 - The letter is dated January 24, 1970, and is signed by M. R. Masani.

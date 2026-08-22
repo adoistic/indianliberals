@@ -61,6 +61,12 @@ summary: |-
   The parallel extracts show substantial overlap around social justice, individual dignity, democracy, constitutional rights, and protection for the weaker sections of society, but diverge over the economic role of the state. The Swatantra programme emphasizes individual initiative, private property, competitive enterprise, limited state intervention, decentralized industry, collective bargaining, and educational choice. The German programme likewise rejects totalitarianism and supports freedom, but allows public enterprise where competition is impractical and calls for regulation where economic power threatens freedom. The visible pages cover the introduction and the comparative sections on general principles, agriculture, industry, labour, and education; the pamphlet’s publication year is not printed.
 ---
 
+## Summary
+
+This pamphlet challenges Prime Minister Jawaharlal Nehru’s characterization of the Swatantra Party as “outdated” by comparing the party’s 1959 Statement of Principles with the October 1959 draft programme of the German Social Democratic Party. Its central claim is that West German socialists had moved away from the state-socialist assumptions that, in the pamphlet’s view, still shaped Nehru’s and Indian socialists’ thinking. The introduction invites readers to compare the two programmes and decide which position is actually out of date.
+
+The parallel extracts show substantial overlap around social justice, individual dignity, democracy, constitutional rights, and protection for the weaker sections of society, but diverge over the economic role of the state. The Swatantra programme emphasizes individual initiative, private property, competitive enterprise, limited state intervention, decentralized industry, collective bargaining, and educational choice. The German programme likewise rejects totalitarianism and supports freedom, but allows public enterprise where competition is impractical and calls for regulation where economic power threatens freedom. The visible pages cover the introduction and the comparative sections on general principles, agriculture, industry, labour, and education; the pamphlet’s publication year is not printed.
+
 ## Key points
 
 - The pamphlet responds to Nehru’s description of Swatantra Party principles as outdated and belonging to the past century.

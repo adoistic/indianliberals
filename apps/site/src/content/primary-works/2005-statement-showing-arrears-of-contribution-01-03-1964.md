@@ -46,6 +46,10 @@ summary: |-
   This single-page administrative statement records contribution arrears attributed to members of the Lok Sabha and Rajya Sabha as of 1 March 1964. It lists 18 Lok Sabha members and eight Rajya Sabha members, with an amount shown against each name, followed by chamber subtotals and a combined grand total.
 ---
 
+## Summary
+
+This single-page administrative statement records contribution arrears attributed to members of the Lok Sabha and Rajya Sabha as of 1 March 1964. It lists 18 Lok Sabha members and eight Rajya Sabha members, with an amount shown against each name, followed by chamber subtotals and a combined grand total.
+
 ## Key points
 
 - The statement is dated 1 March 1964.

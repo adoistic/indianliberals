@@ -54,6 +54,12 @@ summary: |-
   In the rendered pages, the article examines the limits of India’s absorptive capacity, especially when food imports are used to relieve shortages created by inflation, crop failures, and employment pressures. It distinguishes between aid that supports productive investment and aid that perpetuates dependence or protects unsound policies. Shenoy also discusses the political appeal of foreign aid, including John F. Kennedy’s call for greater American generosity, but concludes that aid should be disciplined by repayment capacity, realistic exchange rates, and national responsibility. The final continuation argues that international lenders should help borrowing countries formulate coherent domestic policies rather than simply extend additional credit.
 ---
 
+## Summary
+
+In the rendered pages, B. R. Shenoy argues that foreign aid should not be defended merely because its withdrawal might slow economic development. Aid, he contends, can weaken economic discipline when it finances deficits, sustains inefficient policies, or postpones necessary reform. India’s economic difficulties are linked to inadequate domestic saving, inflationary pressures, restrictions on production and exchange, and the distortions associated with the Second Five-Year Plan. Shenoy presents economic liberalisation and sounder domestic policies as necessary conditions for aid to produce durable benefits.
+
+In the rendered pages, the article examines the limits of India’s absorptive capacity, especially when food imports are used to relieve shortages created by inflation, crop failures, and employment pressures. It distinguishes between aid that supports productive investment and aid that perpetuates dependence or protects unsound policies. Shenoy also discusses the political appeal of foreign aid, including John F. Kennedy’s call for greater American generosity, but concludes that aid should be disciplined by repayment capacity, realistic exchange rates, and national responsibility. The final continuation argues that international lenders should help borrowing countries formulate coherent domestic policies rather than simply extend additional credit.
+
 ## Key points
 
 - Shenoy rejects the claim that foreign aid must continue simply because ending it could slow development.

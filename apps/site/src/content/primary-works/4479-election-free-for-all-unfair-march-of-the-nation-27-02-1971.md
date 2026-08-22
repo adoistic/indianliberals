@@ -47,3 +47,7 @@ ai:
 summary: |-
   This rendered page, dated February 27, 1971 and visibly numbered seven, presents A. G. Noorani's column "That's the way it is..." under the headline "ELECTION Free-For-All & Unfair." It argues that elections require freedom of choice and criticizes an atmosphere of fear, political violence, threats, and the use of state power. The article discusses reports of clashes involving the Communist Party of India (Marxist), the Congress, and Jyoti Basu in West Bengal, and questions whether the CPI, CPI(M), and Congress factions have adequately defined their policies.
 ---
+
+## Summary
+
+This rendered page, dated February 27, 1971 and visibly numbered seven, presents A. G. Noorani's column "That's the way it is..." under the headline "ELECTION Free-For-All & Unfair." It argues that elections require freedom of choice and criticizes an atmosphere of fear, political violence, threats, and the use of state power. The article discusses reports of clashes involving the Communist Party of India (Marxist), the Congress, and Jyoti Basu in West Bengal, and questions whether the CPI, CPI(M), and Congress factions have adequately defined their policies.

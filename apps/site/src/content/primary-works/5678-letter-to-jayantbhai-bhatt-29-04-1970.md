@@ -49,6 +49,12 @@ summary: |-
   Masani asks Bhatt to communicate his thanks to colleagues for their assurance of support and expresses hope that a large majority of the party’s members in Gujarat will provide loyalty and disciplined support during the difficult weeks and months ahead. The letter is typed on Masani’s New Delhi letterhead and bears his handwritten signature.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to Jayantbhai Bhatt, dated 29 April 1970, acknowledges Bhatt’s earlier letter and conveys Masani’s encouragement that nearly all members of the Ahmedabad City Committee of the Swatantra Party agree with the viewpoint of the Party’s National Executive. Masani refers to a position explained in his earlier correspondence.
+
+Masani asks Bhatt to communicate his thanks to colleagues for their assurance of support and expresses hope that a large majority of the party’s members in Gujarat will provide loyalty and disciplined support during the difficult weeks and months ahead. The letter is typed on Masani’s New Delhi letterhead and bears his handwritten signature.
+
 ## Key points
 
 - Masani apologises for the delayed acknowledgment of Bhatt’s letter of 17 April 1970.

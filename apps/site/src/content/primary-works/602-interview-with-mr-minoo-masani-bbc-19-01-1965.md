@@ -55,6 +55,12 @@ summary: |-
   The interview rejects what the respondent calls “neutralism”—intellectual equidistance between democracy and communism—as morally and politically untenable. It then argues that India needs a nuclear deterrent against Chinese diplomatic coercion but should not build an independent bomb-and-delivery system, which would burden economic development. Instead, the proposed solution is an unconditional and automatic United States security guarantee, pursued through a mutual security arrangement. The visible pages contain three numbered questions and answers; no formal title, byline, publisher, or further interview material is shown.
 ---
 
+## Summary
+
+This draft English-language interview transcript, dated by a handwritten note to 1965 and identified as a BBC interview with D. R. C. Hutchinson, presents a forceful critique of Indian non-alignment from the standpoint of the Swatantra Party. The respondent argues that non-alignment originally meant abstention from Cold War bloc politics, but has become irrelevant after China's 1962 attack on India. Accepting military assistance from Britain or the United States, the transcript maintains, is compatible with non-alignment; refusing such assistance unless the Soviet Union offers equivalent support is described as a “new fangled” distortion of the policy.
+
+The interview rejects what the respondent calls “neutralism”—intellectual equidistance between democracy and communism—as morally and politically untenable. It then argues that India needs a nuclear deterrent against Chinese diplomatic coercion but should not build an independent bomb-and-delivery system, which would burden economic development. Instead, the proposed solution is an unconditional and automatic United States security guarantee, pursued through a mutual security arrangement. The visible pages contain three numbered questions and answers; no formal title, byline, publisher, or further interview material is shown.
+
 ## Key points
 
 - The transcript defines the original meaning of non-alignment as abstention from participation in the Cold War blocs.

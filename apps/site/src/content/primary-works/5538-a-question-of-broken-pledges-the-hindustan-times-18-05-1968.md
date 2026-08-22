@@ -53,6 +53,12 @@ summary: |-
   In the rendered page, Masani broadens the argument into a critique of leadership in Indian politics. He contrasts principled public service with opportunism, factionalism, and mechanical majorities, and warns that the erosion of party discipline and constitutional values threatens democracy. The article refers to Atal Vajpayee, Lenin, and John F. Kennedy’s Profiles in Courage while arguing that India needs leaders capable of moral courage, self-restraint, and a genuine commitment to the pledges they make.
 ---
 
+## Summary
+
+In the rendered page, M. R. Masani explains his resignation as General Secretary of the Swatantra Party as a protest against what he describes as broken pledges, indiscipline, and the party’s failure to uphold its constitutional and democratic commitments. He links the immediate dispute to the party’s poor showing in Gujarat, arguing that the episode revealed deeper weaknesses in political judgment and ethical standards. He also rejects the idea that his resignation was merely personal, presenting it as an act of atonement for the party’s conduct and as a challenge to its leadership.
+
+In the rendered page, Masani broadens the argument into a critique of leadership in Indian politics. He contrasts principled public service with opportunism, factionalism, and mechanical majorities, and warns that the erosion of party discipline and constitutional values threatens democracy. The article refers to Atal Vajpayee, Lenin, and John F. Kennedy’s Profiles in Courage while arguing that India needs leaders capable of moral courage, self-restraint, and a genuine commitment to the pledges they make.
+
 ## Key points
 
 - Masani presents his resignation from the Swatantra Party as a principled response to indiscipline and broken political commitments.

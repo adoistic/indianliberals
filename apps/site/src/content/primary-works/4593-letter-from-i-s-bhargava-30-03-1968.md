@@ -49,6 +49,12 @@ summary: |-
   Bhargava describes two conflicting tendencies within the party: a large body of workers committed to building a disciplined alternative to the ruling Congress, and a smaller group whose self-interest undermines party discipline and reputation. He asks the recipient to reconsider the resignation and offers assurances about the party's vigilance after the Gujarat events. The letter also discusses imminent Rajya Sabha elections, uncertainty surrounding the Jan Sangh, arrangements involving Dausa and Chomu, and Bhargava's planned visit to Delhi in April.
 ---
 
+## Summary
+
+In this letter dated March 30, 1968, I. S. Bhargava writes from Jaipur to an unnamed recipient about the political crisis in Gujarat and the recipient's resignation from the Swatantra Party's National Executive and Parliamentary Board. Bhargava expresses shame that the misconduct of a few party members has compelled respected leaders to atone, and credits the recipient with inspiring dedicated workers across India.
+
+Bhargava describes two conflicting tendencies within the party: a large body of workers committed to building a disciplined alternative to the ruling Congress, and a smaller group whose self-interest undermines party discipline and reputation. He asks the recipient to reconsider the resignation and offers assurances about the party's vigilance after the Gujarat events. The letter also discusses imminent Rajya Sabha elections, uncertainty surrounding the Jan Sangh, arrangements involving Dausa and Chomu, and Bhargava's planned visit to Delhi in April.
+
 ## Key points
 
 - The Gujarat events and the recipient's resignation have caused distress among Swatantra Party workers in Jaipur.

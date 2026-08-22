@@ -46,6 +46,10 @@ summary: |-
   This two-page English institutional document contains a pledge and a membership application for the Sanyukta Sadachar Samiti. The pledge commits signatories neither to give nor take bribes, to avoid participation in bribery in any form, and to assist in eradicating corruption. The accompanying application asks for personal details, occupation, the area in which the applicant proposes to work, and a recommender, while requiring applicants to accept the Samiti’s objectives, principles, and rules.
 ---
 
+## Summary
+
+This two-page English institutional document contains a pledge and a membership application for the Sanyukta Sadachar Samiti. The pledge commits signatories neither to give nor take bribes, to avoid participation in bribery in any form, and to assist in eradicating corruption. The accompanying application asks for personal details, occupation, the area in which the applicant proposes to work, and a recommender, while requiring applicants to accept the Samiti’s objectives, principles, and rules.
+
 ## Key points
 
 - The pledge rejects both giving and taking bribes.

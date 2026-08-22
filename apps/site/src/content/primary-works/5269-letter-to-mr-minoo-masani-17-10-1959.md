@@ -52,6 +52,12 @@ summary: |-
   The report surveys a wide programme through 1959: lectures and demonstrations on temple architecture and music; exhibitions of musical instruments; classical music, dance, and dramatic performances; commemorations of composers Tyagaraja and Muthuswamy Dikshitar; religious discourses; book releases; a portrait gallery; a growing library of about 500 books; and a study circle intended to cultivate clear expression and a dispassionate approach to public problems. It also describes open membership, appeals for public support, and lists office-bearers and distinguished participants, including governors, ministers, judges, professors, officials, and journalists. The final pages advertise the Academy’s sixth-anniversary celebrations, scheduled for 16 August 1959.
 ---
 
+## Summary
+
+The Triplicane Cultural Academy’s report records the organisation’s formation in Madras in March 1953 and its stated purpose of promoting art and culture through lectures, discussions, entertainments, and educational activities. It identifies Sri T. M. Narayanaswami Pillai as the founding president and notes the Academy’s formal inauguration by Governor Sri Prakasa on 30 April 1953. Its emblem, depicting the sun, water, and lotus, is presented as signifying the pursuit of “Truth and Beauty,” with the accompanying maxim “Beauty is Truth, Truth Beauty.”
+
+The report surveys a wide programme through 1959: lectures and demonstrations on temple architecture and music; exhibitions of musical instruments; classical music, dance, and dramatic performances; commemorations of composers Tyagaraja and Muthuswamy Dikshitar; religious discourses; book releases; a portrait gallery; a growing library of about 500 books; and a study circle intended to cultivate clear expression and a dispassionate approach to public problems. It also describes open membership, appeals for public support, and lists office-bearers and distinguished participants, including governors, ministers, judges, professors, officials, and journalists. The final pages advertise the Academy’s sixth-anniversary celebrations, scheduled for 16 August 1959.
+
 ## Key points
 
 - The Academy was formed in March 1953 to promote art and culture in Madras.

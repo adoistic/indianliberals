@@ -50,6 +50,12 @@ summary: |-
   Munshi further warns that bifurcation could create conflict between the party president and its parliamentary leader, citing a similar tension within the Congress over the preceding two decades. He adds personal and political reasons for retaining Rajaji in the combined leadership: Rajaji is not motivated by vested interests, is the strongest available mass leader, and—given the growing importance of agriculture—would be an asset to the party because of his lifelong association with the peasantry. The page is marked “(copy)”; no explicit title is printed.
 ---
 
+## Summary
+
+In this typed copy of a letter dated 15 October 1967, K. M. Munshi writes to C. Rajagopalachari (“Rajaji”) about whether the Swatantra Party should separate its parliamentary leadership from its party presidency. Munshi argues that, given the party’s limited strength, splitting the offices would be unnecessary and potentially damaging. He says the party draws particular strength from intellectuals, the upper middle class, and a parliament-oriented section of the middle class, for whom the President’s prestige and authority depend on the combination of the two roles.
+
+Munshi further warns that bifurcation could create conflict between the party president and its parliamentary leader, citing a similar tension within the Congress over the preceding two decades. He adds personal and political reasons for retaining Rajaji in the combined leadership: Rajaji is not motivated by vested interests, is the strongest available mass leader, and—given the growing importance of agriculture—would be an asset to the party because of his lifelong association with the peasantry. The page is marked “(copy)”; no explicit title is printed.
+
 ## Key points
 
 - Munshi recommends that the Swatantra Party’s parliamentary and party leadership remain vested in the same person.

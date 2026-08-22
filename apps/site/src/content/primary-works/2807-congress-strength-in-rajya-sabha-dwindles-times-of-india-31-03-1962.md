@@ -51,6 +51,12 @@ summary: |-
   The report argues that Congress may nevertheless retain practical control because it is expected to win most forthcoming by-elections, including seats from Delhi and Jammu and Kashmir. It identifies the political significance of the new composition: opposition parties and independents will share the remaining 54 elective seats, while the Praja-Socialist Party is described as having replaced the Communist Party as the principal opposition group. The article concludes that the rightist parties may combine to claim the role of principal opposition.
 ---
 
+## Summary
+
+This Times of India news report, dated March 30, 1962, examines the Congress party’s reduced strength in the Rajya Sabha after the completion of biennial elections. It reports that Congress secured 52 of the 72 seats contested, while the remaining seats went to a range of opposition and independent candidates, including members associated with the Communist, Praja-Socialist, Swatantra, Jan Sangh, Republican, DMK, and Dravidian movements.
+
+The report argues that Congress may nevertheless retain practical control because it is expected to win most forthcoming by-elections, including seats from Delhi and Jammu and Kashmir. It identifies the political significance of the new composition: opposition parties and independents will share the remaining 54 elective seats, while the Praja-Socialist Party is described as having replaced the Communist Party as the principal opposition group. The article concludes that the rightist parties may combine to claim the role of principal opposition.
+
 ## Key points
 
 - Congress won 52 of the 72 Rajya Sabha seats for which biennial elections had been completed.

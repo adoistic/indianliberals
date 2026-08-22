@@ -64,6 +64,12 @@ summary: |-
   In the rendered pages, the essay defends the Swatantra Party against the charge that its commitment to property rights made it merely a party of the rich. Raju describes its opposition to bank nationalisation, agricultural collectivisation, state monopolies, and statist economic controls, but also stresses its concern with poverty, social justice, and equality of opportunity. The essay concludes by defining contemporary liberalism through freedom, individual responsibility, tolerance, social justice, democratic accountability, and the rule of law, with the stated aim of securing a better life for the people.
 ---
 
+## Summary
+
+In the rendered pages, S. V. Raju presents liberalism as a tradition anchored in freedom rather than a fixed doctrine. He emphasizes its capacity to evolve in response to changing social conditions: Western liberalism adapted from an agrarian to an industrial setting, while in India liberalism is described as a philosophy of liberation from social and political constraints. Raju links liberal values to the Indian Constitution’s commitments to liberty, equality, and justice, while noting the political difficulties faced by the Liberal Party of India and the later Swatantra Party.
+
+In the rendered pages, the essay defends the Swatantra Party against the charge that its commitment to property rights made it merely a party of the rich. Raju describes its opposition to bank nationalisation, agricultural collectivisation, state monopolies, and statist economic controls, but also stresses its concern with poverty, social justice, and equality of opportunity. The essay concludes by defining contemporary liberalism through freedom, individual responsibility, tolerance, social justice, democratic accountability, and the rule of law, with the stated aim of securing a better life for the people.
+
 ## Key points
 
 - Liberalism is presented as a continuously evolving tradition whose central commitment is freedom.

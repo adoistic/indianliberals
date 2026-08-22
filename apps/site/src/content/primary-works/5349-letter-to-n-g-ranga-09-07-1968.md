@@ -50,6 +50,10 @@ summary: |-
   In this letter dated 9 July 1968, M. R. Masani responds to N. G. Ranga's concerns about a reported proposal involving the BKD and the Swatantra Party. Masani says the initiative to bring together opponents of communism and communism-related forces is different from what Ranga had understood, and argues that the Swatantra Party should consider the proposal despite the possibility that the PSP might reject it because the BKD was not specifically socialist. He reports that N. Dandeker declined the BKD's offer, while Charan Singh's account indicated that the door should remain open to further discussion and to three possible alternatives.
 ---
 
+## Summary
+
+In this letter dated 9 July 1968, M. R. Masani responds to N. G. Ranga's concerns about a reported proposal involving the BKD and the Swatantra Party. Masani says the initiative to bring together opponents of communism and communism-related forces is different from what Ranga had understood, and argues that the Swatantra Party should consider the proposal despite the possibility that the PSP might reject it because the BKD was not specifically socialist. He reports that N. Dandeker declined the BKD's offer, while Charan Singh's account indicated that the door should remain open to further discussion and to three possible alternatives.
+
 ## Key points
 
 - Masani characterizes the BKD initiative as a proposal to unite forces opposed to communism and communists.

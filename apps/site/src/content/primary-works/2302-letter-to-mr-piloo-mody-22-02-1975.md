@@ -49,6 +49,12 @@ summary: |-
   Kejriwal reports that Bhatia has frankly said he does not want to pay, though he is uncertain whether Bhatia is acting independently or under someone else’s influence. While acknowledging that the matter is small and that Mody is busy, Kejriwal asks Mody to intervene, write back, and issue the necessary instructions. The second scanned page is a calendar sheet containing handwritten date and reference notes, not continuation text.
 ---
 
+## Summary
+
+This letter, dated February 22, 1975, is addressed by Parmyanand Kejriwal to Piloo Mody, M.P., concerning unpaid rent for the premises occupied by Mody’s office. Kejriwal refers to an earlier letter and instructions to Mr. Bhatia to pay the office’s proportionate share of the rent, arguing that the arrears should be settled so that the landlord can be paid regularly.
+
+Kejriwal reports that Bhatia has frankly said he does not want to pay, though he is uncertain whether Bhatia is acting independently or under someone else’s influence. While acknowledging that the matter is small and that Mody is busy, Kejriwal asks Mody to intervene, write back, and issue the necessary instructions. The second scanned page is a calendar sheet containing handwritten date and reference notes, not continuation text.
+
 ## Key points
 
 - The letter is dated February 22, 1975, and is addressed to Piloo Mody, M.P.

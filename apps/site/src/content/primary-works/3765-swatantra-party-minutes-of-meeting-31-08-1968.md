@@ -67,6 +67,14 @@ summary: |-
   The minutes also review the party’s parliamentary positions: opposition to the Gold Control Bill, the Patents Bill, and the prevailing pattern of economic planning; support for company political contributions and private control over management arrangements; criticism of Soviet actions in Czechoslovakia and arms supplies to Pakistan; and support for greater autonomy or a separate state for the hill peoples of Assam. The Board declined to participate in discussions on the Fourth Plan and endorsed Prof. Ranga’s decision not to give evidence to the National Labour Commission.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Central Parliamentary Board meeting held in New Delhi on August 31, 1968, chaired by Prof. N. G. Ranga. The Board confirmed earlier minutes, considered a proposed procedure for consultation between the party’s organisational and legislative wings, noted the withdrawal of a by-election candidate in Madhya Pradesh, and approved in principle a constitutional amendment concerning nominations to the Rajya Sabha and Vidhan Parishads.
+
+The principal discussion concerned the party’s objectives, strategy, and campaign arrangements for proposed mid-term elections in West Bengal, Uttar Pradesh, Bihar, and Punjab. The Board adopted selective, performance-based constituency strategies, set a target of contesting around 50 Uttar Pradesh seats and securing at least four per cent of valid votes, and authorised state-specific sub-committees. It rejected electoral dealings with communist and extreme socialist parties while allowing limited local understandings with Jan Sangh and the B.K.D. in specified circumstances.
+
+The minutes also review the party’s parliamentary positions: opposition to the Gold Control Bill, the Patents Bill, and the prevailing pattern of economic planning; support for company political contributions and private control over management arrangements; criticism of Soviet actions in Czechoslovakia and arms supplies to Pakistan; and support for greater autonomy or a separate state for the hill peoples of Assam. The Board declined to participate in discussions on the Fourth Plan and endorsed Prof. Ranga’s decision not to give evidence to the National Labour Commission.
+
 ## Key points
 
 - The Central Parliamentary Board met at Vithalbhai Patel Bhavan, New Delhi, on August 31, 1968, with Prof. N. G. Ranga in the chair.

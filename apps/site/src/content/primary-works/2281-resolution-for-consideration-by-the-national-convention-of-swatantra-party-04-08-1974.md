@@ -56,6 +56,12 @@ summary: |-
   The second text, styled as a notice of resolution, rejects dissolution. It stresses Swatantra’s distinctive status as the only national party among the seven expected to merge, argues that its principles remain relevant to India’s critical situation, and warns that the continued existence of Congress and Jan Sangh would frustrate the emergence of a genuine two-party system. The document therefore records an unresolved institutional debate between preserving the party as an independent political force and transforming its organisational role while maintaining its ideological inheritance.
 ---
 
+## Summary
+
+This two-page English-language document presents two competing resolutions for the Swatantra Party’s Seventh National Convention, held in New Delhi on 4–5 August 1974. The first resolution supports dissolving the party to facilitate the formation of a new national opposition party. It argues that Swatantra’s principles remain valid, while proposing that the party be converted into a non-party organisation, the Swatantra Seva Sangh, devoted to educational and constructive work and to preserving Swatantra principles in electoral and parliamentary activity.
+
+The second text, styled as a notice of resolution, rejects dissolution. It stresses Swatantra’s distinctive status as the only national party among the seven expected to merge, argues that its principles remain relevant to India’s critical situation, and warns that the continued existence of Congress and Jan Sangh would frustrate the emergence of a genuine two-party system. The document therefore records an unresolved institutional debate between preserving the party as an independent political force and transforming its organisational role while maintaining its ideological inheritance.
+
 ## Key points
 
 - The document contains two related resolutions concerning the proposed dissolution of the Swatantra Party in 1974.

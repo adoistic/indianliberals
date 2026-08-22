@@ -49,6 +49,12 @@ summary: |-
   The letter also refers to an upcoming convention in Bombay and asks Masani to consider a related proposal and consult M. K. Munshi. The precise subject of the proposed collaboration or convention is not fully legible in the handwriting, but the exchange clearly concerns political organisation and coordination among liberal figures.
 ---
 
+## Summary
+
+This one-page handwritten letter from C. Rajagopalachari to Minoo Masani, dated apparently 20 March 1962, reports that A. D. Shroff has written about joining them. Rajagopalachari says he has drafted a reply and asks Masani to read, revise, type, and return it for his signature and forwarding to Shroff.
+
+The letter also refers to an upcoming convention in Bombay and asks Masani to consider a related proposal and consult M. K. Munshi. The precise subject of the proposed collaboration or convention is not fully legible in the handwriting, but the exchange clearly concerns political organisation and coordination among liberal figures.
+
 ## Key points
 
 - Rajagopalachari writes to Minoo Masani about what he calls very good news.

@@ -50,6 +50,12 @@ summary: |-
   The immediate controversy concerns Vaidya's nomination. Some party members object that he is a fellow-traveller rather than a committed Swatantra member, while the party leadership maintains that its Central Parliamentary Board approved his candidature. The report says N. G. Ranga failed to reconcile the factions, that Masani may seek disciplinary action against rebels, and that C. R. Desai may oppose it. It closes by describing wider concern among party workers about the central leadership's electoral strategy and H. M. Patel's disliked presidency of the state unit.
 ---
 
+## Summary
+
+The article reports a serious internal division in the Swatantra Party following its recent Gujarat by-election defeat and the party's nomination of Babubhai Vaidya for the Rajya Sabha. It presents the dispute as extending beyond Gujarat: party secretary Dandekar is said to favour disciplinary action against dissenters, while Minoo Masani argues that the party would be better served by becoming smaller but more disciplined. Several legislators have defected or appear dissatisfied with the state leadership, and the article describes competing support bases among Gujarat's Patels and Kshatriyas.
+
+The immediate controversy concerns Vaidya's nomination. Some party members object that he is a fellow-traveller rather than a committed Swatantra member, while the party leadership maintains that its Central Parliamentary Board approved his candidature. The report says N. G. Ranga failed to reconcile the factions, that Masani may seek disciplinary action against rebels, and that C. R. Desai may oppose it. It closes by describing wider concern among party workers about the central leadership's electoral strategy and H. M. Patel's disliked presidency of the state unit.
+
 ## Key points
 
 - The article frames the Swatantra Party's Gujarat crisis as part of a wider, all-India organisational problem.

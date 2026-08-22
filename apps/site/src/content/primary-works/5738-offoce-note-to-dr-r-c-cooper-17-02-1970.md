@@ -50,6 +50,12 @@ summary: |-
   Desai reportedly maintained that his actions were thoroughly justified and that he had not acted against party discipline, while asking to see the case against him. Masani responds that resignation would have been appropriate if Desai fundamentally disagreed with the party or its basic policy, but says that Desai's attitude left him no option except to hand over a letter from the General Secretary. The note also states that the party had avoided publishing the nature of its action in the press and would await Desai's explanation.
 ---
 
+## Summary
+
+This one-page office note, dated 21 February 1970, records M. R. Masani's account of a conversation with C. C. Desai following a National Executive meeting on 17 February. Masani says he invited Desai to explain whether he would give an assurance that he would follow the party's decisions in a disciplined and loyal manner. D. N. Pendse, identified as a member of the National Executive, was present during the discussion.
+
+Desai reportedly maintained that his actions were thoroughly justified and that he had not acted against party discipline, while asking to see the case against him. Masani responds that resignation would have been appropriate if Desai fundamentally disagreed with the party or its basic policy, but says that Desai's attitude left him no option except to hand over a letter from the General Secretary. The note also states that the party had avoided publishing the nature of its action in the press and would await Desai's explanation.
+
 ## Key points
 
 - The note follows a National Executive meeting held on 17 February 1970.

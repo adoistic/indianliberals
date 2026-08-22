@@ -59,6 +59,12 @@ summary: |-
   The document describes an educated and enlightened citizenry as essential to democracy, citing Rajaji’s advice to the Swatantra Party that it should educate voters rather than pursue transient political power. It lists among his principal political and social commitments individual initiative, enterprise, reduced state interference, moral restraint, constitutional fundamental rights, property, trade and occupational freedom, lower administrative costs, and a stronger position for farmers. The Foundation presents itself as an organisation established to keep these ideas relevant through public meetings, study circles, seminars, discussions, and publications, and concludes with its trustees and Bombay office address.
 ---
 
+## Summary
+
+This three-page press release announces the Rajaji Foundation and presents C. Rajagopalachari (Rajaji) as an intellectual and political advocate of Dharma, liberty, individual responsibility, and limited government. It recalls his death on December 25, 1972, and argues that Dharma was not merely a religious formula but a living principle requiring ethical means, just government, careful administration, and conscientious opposition. The release connects Rajaji’s understanding of trusteeship with Mahatma Gandhi’s theory of trusteeship and emphasizes the reciprocal relationship between freedom and social obligation.
+
+The document describes an educated and enlightened citizenry as essential to democracy, citing Rajaji’s advice to the Swatantra Party that it should educate voters rather than pursue transient political power. It lists among his principal political and social commitments individual initiative, enterprise, reduced state interference, moral restraint, constitutional fundamental rights, property, trade and occupational freedom, lower administrative costs, and a stronger position for farmers. The Foundation presents itself as an organisation established to keep these ideas relevant through public meetings, study circles, seminars, discussions, and publications, and concludes with its trustees and Bombay office address.
+
 ## Key points
 
 - The press release commemorates Rajaji as a thinker concerned with the rights and duties of human beings.

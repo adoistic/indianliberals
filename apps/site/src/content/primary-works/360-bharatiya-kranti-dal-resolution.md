@@ -53,6 +53,12 @@ summary: |-
   The resolution consequently appeals to all political parties committed to democracy and nationalism to unite in a single strong political organisation. Its stated objective is to replace Congress as the central political force in the national life of the country. The document is institutional rather than individually authored and is signed by S. K. Sinha, identified as secretary of the Bharatiya Kranti Dal.
 ---
 
+## Summary
+
+This one-page resolution, issued by the Bharatiya Kranti Dal (BKD) on 23 March 1969, expresses alarm at what its National Executive presents as a simultaneous crisis of national unity, democracy, and territorial security. It attributes the crisis to internal subversion and disruption, weakening nationalism and integration, the proliferation of political parties, foreign armies positioned on India’s borders, and the decline of the Congress through “mutual bickerings.”
+
+The resolution consequently appeals to all political parties committed to democracy and nationalism to unite in a single strong political organisation. Its stated objective is to replace Congress as the central political force in the national life of the country. The document is institutional rather than individually authored and is signed by S. K. Sinha, identified as secretary of the Bharatiya Kranti Dal.
+
 ## Key points
 
 - The BKD National Executive declares itself disturbed by the condition of the nation in March 1969.

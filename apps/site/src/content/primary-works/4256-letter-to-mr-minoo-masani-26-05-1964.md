@@ -48,6 +48,10 @@ summary: |-
   In this handwritten letter from Madras, dated 22 May 1964, C. Rajagopalachari writes to Minoo Masani about forwarding a copy of a resolution to the Prime Minister. Rajagopalachari approves of Masani sending the resolution but urges him also to transmit it formally through the party office. The letter records a procedural concern about how a political communication should be officially conveyed.
 ---
 
+## Summary
+
+In this handwritten letter from Madras, dated 22 May 1964, C. Rajagopalachari writes to Minoo Masani about forwarding a copy of a resolution to the Prime Minister. Rajagopalachari approves of Masani sending the resolution but urges him also to transmit it formally through the party office. The letter records a procedural concern about how a political communication should be officially conveyed.
+
 ## Key points
 
 - Rajagopalachari addresses Minoo Masani in a personal letter.

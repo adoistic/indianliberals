@@ -52,6 +52,12 @@ summary: |-
   The letter further describes growing opposition activity in Gujarat. Desai reports that individuals in more than twelve district centres undertook satyagraha between July 15 and 25, followed by a large Ahmedabad rally on July 26 and similar meetings in district towns. According to the letter, these gatherings endorsed an oath to restore democracy and resist dictatorship. Desai closes by noting that the publication and distribution of Janta News Bulletins is becoming organised. The document is a single-page piece of correspondence; no broader context or subsequent developments are included.
 ---
 
+## Summary
+
+In this letter dated July 30, 1975, K. D. Desai writes to M. R. Masani in support of Masani's legal challenge to a pre-censorship order. Desai praises Masani for taking a stand against the Emergency-era atmosphere, describing his actions as courageous and morally important, and says that friends in Gujarat are prepared to help with the struggle. Desai also reports that writ petitions are being filed on behalf of the journals Sadhana and Manav-samaj, which had published material on the Emergency, press censorship, the economic programme, and current events.
+
+The letter further describes growing opposition activity in Gujarat. Desai reports that individuals in more than twelve district centres undertook satyagraha between July 15 and 25, followed by a large Ahmedabad rally on July 26 and similar meetings in district towns. According to the letter, these gatherings endorsed an oath to restore democracy and resist dictatorship. Desai closes by noting that the publication and distribution of Janta News Bulletins is becoming organised. The document is a single-page piece of correspondence; no broader context or subsequent developments are included.
+
 ## Key points
 
 - K. D. Desai expresses solidarity with M. R. Masani's challenge to a pre-censorship order.

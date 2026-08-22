@@ -52,6 +52,14 @@ summary: |-
   The document is administrative rather than argumentative: it captures the internal planning correspondence of a small circle of Swatantra-era liberals convening a Rajaji memorial event in mid-1978, roughly four years after the Swatantra Party's dissolution.
 ---
 
+## Summary
+
+A short, handwritten personal letter addressed 'Dear Minoo' — Minoo Masani — coordinating the logistics of a recital and tea reception being organised in memory of C. Rajagopalachari (Rajaji). Writing on behalf of a small planning group that includes 'Th. Murthy' and one 'Girish', the correspondent reports that the three had met the previous evening to work out the details and leg-work for the recital, and now proposes inviting the old Swatantra Party members and other admirers of Rajaji over a cup of tea between the 24th and 28th, the guests to be broken into two groups over the two days.
+
+The request of Masani is specific: Murthy is 'very anxious' that Masani himself be present on both days to give the top talk, and the writer asks Masani to fix the dates first so the rest of the organisers can arrange themselves around him. The correspondent reminds Masani that the tea-format gathering had been agreed at an earlier meeting he too had attended, and presses for a prompt reply because Murthy is due to return on 14 July 1978 for a 'work' review meeting. The letter closes with regards and an illegible signature.
+
+The document is administrative rather than argumentative: it captures the internal planning correspondence of a small circle of Swatantra-era liberals convening a Rajaji memorial event in mid-1978, roughly four years after the Swatantra Party's dissolution.
+
 ## Key points
 
 - Handwritten personal letter addressed 'Dear Minoo' — i.e., Minoo Masani — from an unidentified correspondent (signature illegible).

@@ -58,6 +58,12 @@ summary: |-
   The memorandum examines proposed provisions on special auditors, the transfer and voting of shares, sole-selling agents, and government approval of investments by companies. Masani objects especially to subjective executive powers, the absence of adequate procedural safeguards, retrospective operation, and restrictions that could disadvantage Indian industry. Its final section criticises the Committee’s refusal to prohibit corporate contributions to political parties, arguing that such financing exposes companies to government pressure, entrenches party-business dependence, and creates opportunities for corruption. The document is marked “Not for publication” and appears to have been issued in the Swatantra Party context.
 ---
 
+## Summary
+
+This five-page memorandum, dated New Delhi, August 16, records M. R. Masani’s dissent from the Joint Select Committee’s report on the Companies (Amendment) Bill. Masani argues that the Bill goes beyond correcting practical defects in the Companies Act, 1956 and instead expands discretionary government intervention in company management. He presents shareholder interests, entrepreneurial freedom, and constitutional protections for trade and business as safeguards against bureaucratic overreach.
+
+The memorandum examines proposed provisions on special auditors, the transfer and voting of shares, sole-selling agents, and government approval of investments by companies. Masani objects especially to subjective executive powers, the absence of adequate procedural safeguards, retrospective operation, and restrictions that could disadvantage Indian industry. Its final section criticises the Committee’s refusal to prohibit corporate contributions to political parties, arguing that such financing exposes companies to government pressure, entrenches party-business dependence, and creates opportunities for corruption. The document is marked “Not for publication” and appears to have been issued in the Swatantra Party context.
+
 ## Key points
 
 - Masani contends that the Companies (Amendment) Bill contains amendments unrelated to correcting practical defects in the Companies Act.

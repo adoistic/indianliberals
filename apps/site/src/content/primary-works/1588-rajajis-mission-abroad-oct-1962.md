@@ -56,3 +56,9 @@ summary: |-
   
   The rendered scan is not bibliographically clean. After the early newsletter pages, it contains a parliamentary supplement printed with 1964 speech dates, a duplicate printed page 14, and pages from a June 1970 issue of Swarajya. The summary below therefore distinguishes the visible newsletter material from the later parliamentary extracts and does not treat the scan as a continuous, reliably ordered issue.
 ---
+
+## Summary
+
+The rendered pages present a Swatantra Party political newsletter combining party news, parliamentary commentary, regional organisational reports, and an annexure on the reorganisation of the Bihar unit. The October 1962 issue opens with C. Rajagopalachari’s overseas mission on nuclear disarmament, criticism of India’s foreign policy, protests over Chinese incursions, and reports on Minoo Masani’s activities among international liberals. It also records party criticism of Congress planning, public-sector dominance, food shortages, corruption, and administrative failure.
+
+The rendered scan is not bibliographically clean. After the early newsletter pages, it contains a parliamentary supplement printed with 1964 speech dates, a duplicate printed page 14, and pages from a June 1970 issue of Swarajya. The summary below therefore distinguishes the visible newsletter material from the later parliamentary extracts and does not treat the scan as a continuous, reliably ordered issue.

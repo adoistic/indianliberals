@@ -49,6 +49,12 @@ summary: |-
   The report adds that the party’s general council was scheduled to meet in Bombay on 17 April to elect a new chairman and consider measures to strengthen the organisation. The clipping is attributed to a “Hindustan Times Correspondent”; no individual byline is printed.
 ---
 
+## Summary
+
+This one-page Hindustan Times report, dated 5 April 1971, says that N. G. Ranga might return as chairman of the Swatantra Party after M. R. Masani resigned from the post. It notes that Ranga had previously led the party before Masani succeeded him.
+
+The report adds that the party’s general council was scheduled to meet in Bombay on 17 April to elect a new chairman and consider measures to strengthen the organisation. The clipping is attributed to a “Hindustan Times Correspondent”; no individual byline is printed.
+
 ## Key points
 
 - N. G. Ranga was reported as a possible successor to M. R. Masani as Swatantra Party chairman.

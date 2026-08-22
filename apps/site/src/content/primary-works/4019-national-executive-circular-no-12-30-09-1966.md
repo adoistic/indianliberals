@@ -51,6 +51,12 @@ summary: |-
   The proposed resolution authorises the Central Office to open accounts in the party’s name wherever necessary. It designates Dr. R. C. Cooper, Honorary Treasurer, and M. R. Masani, General Secretary, to operate those accounts singly and/or jointly. The circular requests a reply by 7 October and states that failure to respond will be taken as approval.
 ---
 
+## Summary
+
+This one-page English circular, issued by the Swatantra Party Central Office on 30 September 1966, asks party officials to approve an administrative resolution concerning the opening of additional bank accounts, including accounts outside Bombay City. It explains that banks require a resolution of the National Executive and that waiting for a committee meeting would delay the process.
+
+The proposed resolution authorises the Central Office to open accounts in the party’s name wherever necessary. It designates Dr. R. C. Cooper, Honorary Treasurer, and M. R. Masani, General Secretary, to operate those accounts singly and/or jointly. The circular requests a reply by 7 October and states that failure to respond will be taken as approval.
+
 ## Key points
 
 - The circular is dated 30 September 1966 and is issued on Swatantra Party Central Office letterhead.

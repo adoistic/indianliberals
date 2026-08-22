@@ -53,6 +53,12 @@ summary: |-
   The typed material reports remarks by M. R. Masani after his visit to Taiwan and conversations with President Chiang Kai-shek and other leaders of the Republic of China. Masani challenges the view that the positions of Peking and Taiwan on Tibet and the Indian border were identical, and attributes to Chiang a continuing recognition of Tibet’s right of self-determination. The statement also emphasizes Chiang’s wartime advocacy of Indian independence, the warmth of relations between China and India, India’s freedom of parliamentary opposition and press discussion, and the strategic importance of Quemoy and Matsu in the Cold War balance. The pages do not establish whether the typed statement was published or identify its year.
 ---
 
+## Summary
+
+This two-page archival item combines a Times of India clipping dated 9 January 1973 with typed press material headed “For favour of publication.” The newspaper clipping reports a civic tribute by the Bombay municipal corporation to the late C. Rajagopalachari and former American president Harry S. Truman. It records tributes from the mayor, a deputy leader of the Congress, and a deputy leader of Shiv Sena, presenting the event as a public acknowledgment of Rajagopalachari’s civic and political stature.
+
+The typed material reports remarks by M. R. Masani after his visit to Taiwan and conversations with President Chiang Kai-shek and other leaders of the Republic of China. Masani challenges the view that the positions of Peking and Taiwan on Tibet and the Indian border were identical, and attributes to Chiang a continuing recognition of Tibet’s right of self-determination. The statement also emphasizes Chiang’s wartime advocacy of Indian independence, the warmth of relations between China and India, India’s freedom of parliamentary opposition and press discussion, and the strategic importance of Quemoy and Matsu in the Cold War balance. The pages do not establish whether the typed statement was published or identify its year.
+
 ## Key points
 
 - A Times of India clipping dated 9 January 1973 reports a civic tribute by Bombay’s municipal corporation.

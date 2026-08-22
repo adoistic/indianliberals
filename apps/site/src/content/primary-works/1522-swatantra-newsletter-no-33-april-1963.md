@@ -63,3 +63,9 @@ summary: |-
   
   The issue also links budgetary policy to opposition politics and national security. Contributors argue for stronger parliamentary opposition, criticize the continuation of emergency powers after the immediate China crisis, and challenge non-alignment as inadequate to India’s defence needs. The closing advertisement reproduces Ludwig Erhard’s argument that consumer freedom and freedom to work are fundamental economic rights.
 ---
+
+## Summary
+
+Issue No. 33 of the Swatantra Newsletter, dated April 1963, presents the Swatantra Party’s case against the Union Budget through parliamentary speeches, press extracts, public-meeting reports, state-party news, and reproduced legislative debates. Its central criticism is that steep direct and indirect taxation, compulsory contributions, Super-Profits Tax proposals, and wasteful public expenditure would burden consumers, farmers, workers, and efficient private firms while weakening savings, investment, and production.
+
+The issue also links budgetary policy to opposition politics and national security. Contributors argue for stronger parliamentary opposition, criticize the continuation of emergency powers after the immediate China crisis, and challenge non-alignment as inadequate to India’s defence needs. The closing advertisement reproduces Ludwig Erhard’s argument that consumer freedom and freedom to work are fundamental economic rights.

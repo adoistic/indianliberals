@@ -48,6 +48,10 @@ summary: |-
   In this three-page handwritten letter from Gondal to Minoo Masani, the sender, signing as “Khusru,” discusses a political crisis within the Gujarat Swatantra Party. After reviewing papers, including C. C. Desai’s reply and the national headquarters’ notes, the sender argues that the only practical course is to remove an “undisciplined opportunist” from the party. The letter describes tensions between Patels and Rajputs in Gujarat, with the Bhai Kaka controversy presented as a destabilising factor.
 ---
 
+## Summary
+
+In this three-page handwritten letter from Gondal to Minoo Masani, the sender, signing as “Khusru,” discusses a political crisis within the Gujarat Swatantra Party. After reviewing papers, including C. C. Desai’s reply and the national headquarters’ notes, the sender argues that the only practical course is to remove an “undisciplined opportunist” from the party. The letter describes tensions between Patels and Rajputs in Gujarat, with the Bhai Kaka controversy presented as a destabilising factor.
+
 ## Key points
 
 - The sender urges Masani not to let Gujarat’s political difficulties disturb him, while explaining the decision to attend a meeting.

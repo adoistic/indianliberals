@@ -60,6 +60,12 @@ summary: |-
   The address defines the Swatantra Party’s economic alternative around private enterprise, property and profit, employment, and relief for the poor without bureaucratic dependence. Santosham attacks socialism, public-sector expansion, controls, high taxation, and state planning, citing a reported rise in public-sector investment alongside a much smaller increase in private-sector investment between 1950–51 and 1953–54. He argues that private capital and enterprise offer greater employment potential and production, while insisting that the party’s aim is to make the poor prosperous rather than to defend wealth for its own sake. The speech closes with confidence that the convention will clarify Swatantra’s programme and serve the common citizen.
 ---
 
+## Summary
+
+This pamphlet reproduces Dr. M. Santosham’s address as Chairman of the Reception Committee at the Swatantra Party Convention in Madras City on 31 October 1959. He welcomes M. R. Masani, V. P. Menon, C. Rajagopalachari, and other delegates, presenting the new party as a response to what he describes as Congress’s political exhaustion, vested interests, and failure to improve living standards during twelve years of administration.
+
+The address defines the Swatantra Party’s economic alternative around private enterprise, property and profit, employment, and relief for the poor without bureaucratic dependence. Santosham attacks socialism, public-sector expansion, controls, high taxation, and state planning, citing a reported rise in public-sector investment alongside a much smaller increase in private-sector investment between 1950–51 and 1953–54. He argues that private capital and enterprise offer greater employment potential and production, while insisting that the party’s aim is to make the poor prosperous rather than to defend wealth for its own sake. The speech closes with confidence that the convention will clarify Swatantra’s programme and serve the common citizen.
+
 ## Key points
 
 - The address welcomes delegates to the Swatantra Party’s Madras City convention of 31 October 1959.

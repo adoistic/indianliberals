@@ -48,6 +48,10 @@ summary: |-
   In this letter dated 26 September 1959, Ranbir Singh Jain of The Himalayan Journals writes to H. P. Mody seeking an opportunity to meet and discuss the Swatantra Party. Jain refers to Rajaji's appeal for party funds, explains that his journal has recently published an article on the party, and argues that public opinion should be educated about the need for an alternative to the Indian National Congress.
 ---
 
+## Summary
+
+In this letter dated 26 September 1959, Ranbir Singh Jain of The Himalayan Journals writes to H. P. Mody seeking an opportunity to meet and discuss the Swatantra Party. Jain refers to Rajaji's appeal for party funds, explains that his journal has recently published an article on the party, and argues that public opinion should be educated about the need for an alternative to the Indian National Congress.
+
 ## Key points
 
 - The letter is addressed to H. P. Mody and signed by Ranbir Singh Jain.

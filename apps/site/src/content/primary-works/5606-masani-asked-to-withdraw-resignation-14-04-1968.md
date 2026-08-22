@@ -52,6 +52,12 @@ summary: |-
   The second page reproduces a resolution moved by Mr. P.P.K. Deo and unanimously adopted by the Swatantra Party General Council. It expresses concern about growing interference by the Centre in the working of State governments and about the use of Governors to install minority governments. The visible pages therefore link an internal party leadership dispute with a broader constitutional objection to central intervention in the states.
 ---
 
+## Summary
+
+This two-page archival dossier records a Swatantra Party controversy in April 1968. A Times of India News Service clipping reports that the party’s Central Parliamentary Board asked M. R. Masani to withdraw his resignation, which followed his criticism of the party’s national executive and its handling of the Gujarat parliamentary by-election. The report also describes disputes involving the Gujarat unit, alleged organisational and electoral failures, and a proposed programme of satyagraha against the Kutch livestock-tax decision.
+
+The second page reproduces a resolution moved by Mr. P.P.K. Deo and unanimously adopted by the Swatantra Party General Council. It expresses concern about growing interference by the Centre in the working of State governments and about the use of Governors to install minority governments. The visible pages therefore link an internal party leadership dispute with a broader constitutional objection to central intervention in the states.
+
 ## Key points
 
 - The Times of India clipping is dated New Delhi, April 13, and concerns M. R. Masani’s resignation from the Swatantra Party.

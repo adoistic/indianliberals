@@ -52,6 +52,12 @@ summary: |-
   In the rendered page, Munshi links national defence to both political awareness and economic policy. He defended new taxes as evidence of India's determination to resist Chinese aggression, challenged their critics to identify alternative sacrifices necessary to preserve freedom, and argued that the emergency should be maintained by competent people as protection against external aggression and internal sabotage. The report also records that Dr. Jal F. Bulsara presided and that Rotarian R. G. Sariya proposed a vote of thanks.
 ---
 
+## Summary
+
+This one-page newspaper clipping reports remarks by K. M. Munshi, vice-chairman of the Swatantra Party, at a Rotary Club luncheon meeting in Bombay. Munshi defended the continuation of the emergency until India could emerge as a military power capable of resisting the Chinese thrust, describing the Chinese invasion as a major event that had exposed the limits of the Himalayan barrier.
+
+In the rendered page, Munshi links national defence to both political awareness and economic policy. He defended new taxes as evidence of India's determination to resist Chinese aggression, challenged their critics to identify alternative sacrifices necessary to preserve freedom, and argued that the emergency should be maintained by competent people as protection against external aggression and internal sabotage. The report also records that Dr. Jal F. Bulsara presided and that Rotarian R. G. Sariya proposed a vote of thanks.
+
 ## Key points
 
 - K. M. Munshi supported continuing the emergency until India became militarily capable of resisting China.

@@ -59,6 +59,12 @@ summary: |-
   The proposed association is intended to examine public issues from an impartial democratic standpoint, defend civil liberties and mass-media independence, combat untouchability, casteism, communalism, corruption, and electoral malpractice, and suggest democratic responses to poverty, unemployment, and inequality. It would propagate democratic views through Hindi and other accessible languages, maintain a loose structure, avoid alignment with any political party, and issue statements under the names of individual members. The document concludes by proposing organizing committees in major cities, beginning with Delhi, followed by an all-India convention to launch the association.
 ---
 
+## Summary
+
+This two-page statement records a September 17, 1972 meeting at the Gandhi Peace Foundation in New Delhi, convened on an invitation from Jayaprakash Narayan and V. M. Tarkunde on behalf of the Radical Humanist Association. The participants agreed on the desirability of an association for people with an “unshakable faith” in democratic and ethical values who were not committed to any political party. The drafting committee’s statement diagnoses a weakening of democratic values, ineffective opposition parties, the disappearance of internal checks and balances within the ruling party, pressure on the press, and the declining democratic significance of elections because of money, coercion, and malpractice.
+
+The proposed association is intended to examine public issues from an impartial democratic standpoint, defend civil liberties and mass-media independence, combat untouchability, casteism, communalism, corruption, and electoral malpractice, and suggest democratic responses to poverty, unemployment, and inequality. It would propagate democratic views through Hindi and other accessible languages, maintain a loose structure, avoid alignment with any political party, and issue statements under the names of individual members. The document concludes by proposing organizing committees in major cities, beginning with Delhi, followed by an all-India convention to launch the association.
+
 ## Key points
 
 - The statement emerged from a September 17, 1972 meeting at the Gandhi Peace Foundation in New Delhi.

@@ -50,6 +50,12 @@ summary: |-
   Rajagopalachari presents Masani’s position as consistent with both the Parliamentary Board’s current statement and Rajagopalachari’s own public remarks over the preceding four years. He recommends that Vyas read the last three issues of Swarajya, especially his article on the front page of the 16 May issue, in order to understand and explain the position. The letter is signed by Rajagopalachari and copied to M. R. Masani, identified as the Swatantra Party’s General Secretary.
 ---
 
+## Summary
+
+This single-page letter, dated 18 May 1964 and written from C. Rajagopalachari’s Madras address, responds to P. J. Vyas’s postcard of 4 May. Rajagopalachari says that Minoo Masani has been misunderstood, accounting for the controversy, and directs Vyas to the Swatantra Party Parliamentary Board’s statement issued from Madras after consideration of the Kashmir issue.
+
+Rajagopalachari presents Masani’s position as consistent with both the Parliamentary Board’s current statement and Rajagopalachari’s own public remarks over the preceding four years. He recommends that Vyas read the last three issues of Swarajya, especially his article on the front page of the 16 May issue, in order to understand and explain the position. The letter is signed by Rajagopalachari and copied to M. R. Masani, identified as the Swatantra Party’s General Secretary.
+
 ## Key points
 
 - Rajagopalachari’s letter is dated 18 May 1964 and addressed to P. J. Vyas in Rajkot.

@@ -48,6 +48,12 @@ summary: |-
   Masani also encloses a copy of the September issue of Freedom First, drawing attention to a front-page article by S. V. Raju, who had served for many years as the party’s Executive Secretary. The letter is signed by Masani and includes the recipient’s Bangalore address.
 ---
 
+## Summary
+
+In this letter dated August 21, 1974, M. R. Masani replies to P. S. Sridharamurthy’s August 12 letter. Masani declines to act as an intermediary among the various State Units, arguing that coordination should be undertaken by the office-bearers of the units themselves. He suggests contacting Mr. Sundaram of Tamil Nadu and Mr. Girish Munshi of Maharashtra.
+
+Masani also encloses a copy of the September issue of Freedom First, drawing attention to a front-page article by S. V. Raju, who had served for many years as the party’s Executive Secretary. The letter is signed by Masani and includes the recipient’s Bangalore address.
+
 ## Key points
 
 - Masani responds to a letter from P. S. Sridharamurthy dated August 12, 1974.

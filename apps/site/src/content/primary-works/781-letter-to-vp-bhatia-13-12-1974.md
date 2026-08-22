@@ -49,6 +49,12 @@ summary: |-
   Masani reports that he discussed the matter with Mr. Sundaram, the party’s President and Honorary Treasurer, and Mr. Sadasivam, who was helping prepare C. Rajagopalachari’s biography. He proposes transferring the proceeds from the shares in question to Sundaram, who together with Sadasivam would decide whether to finance Rajaji’s biography or support Jayaprakash Narayan’s constructive activities. He asks Bhatia to send the shares so that he can act accordingly.
 ---
 
+## Summary
+
+This letter from M. R. Masani to V. P. Bhatia, dated December 13, 1974, concerns the revival of the functioning of the Swatantra Party after a General Council meeting in Madras. Masani says that, because the party has been revived, the question of using certain funds for other purposes no longer arises.
+
+Masani reports that he discussed the matter with Mr. Sundaram, the party’s President and Honorary Treasurer, and Mr. Sadasivam, who was helping prepare C. Rajagopalachari’s biography. He proposes transferring the proceeds from the shares in question to Sundaram, who together with Sadasivam would decide whether to finance Rajaji’s biography or support Jayaprakash Narayan’s constructive activities. He asks Bhatia to send the shares so that he can act accordingly.
+
 ## Key points
 
 - The letter is dated December 13, 1974, and is addressed by M. R. Masani to V. P. Bhatia.

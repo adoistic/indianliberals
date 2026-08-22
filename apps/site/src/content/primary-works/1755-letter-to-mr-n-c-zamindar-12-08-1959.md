@@ -49,6 +49,12 @@ summary: |-
   The letter also addresses Zamindar’s proposal for a Hindi newspaper. Although similar suggestions have come from other quarters, the sender explains that the party does not yet have sufficient resources for ventures in journalism. The recipient is encouraged to continue taking an interest in the party’s fortunes. The sender’s name is not printed, and the visible closing contains no signature.
 ---
 
+## Summary
+
+This single-page letter, dated 12 August 1959, thanks N. C. Zamindar for his letter of 7 August and reports a gratifying response to the newly established Swatantra Party. The unnamed sender hopes the party can establish organisations in every important centre in India; its headquarters are temporarily in Bangalore, with a possible future move to Bombay.
+
+The letter also addresses Zamindar’s proposal for a Hindi newspaper. Although similar suggestions have come from other quarters, the sender explains that the party does not yet have sufficient resources for ventures in journalism. The recipient is encouraged to continue taking an interest in the party’s fortunes. The sender’s name is not printed, and the visible closing contains no signature.
+
 ## Key points
 
 - The sender thanks N. C. Zamindar for his letter of 7 August 1959.

@@ -53,6 +53,12 @@ summary: |-
   The principal substantive resolution concerns members’ salaries, allowances, and other amenities. The Executive Committee argues that it is embarrassing for legislators to legislate their own emoluments and recommends that a quasi-judicial authority, appointed by the Chairman of the Rajya Sabha and the Speaker of the Lok Sabha, determine reasonable remuneration. The record states that this authority’s opinion should be accepted by all parties in Parliament and submits the proposal to the party’s General Body for approval.
 ---
 
+## Summary
+
+This one-page office record, dated November 27, 1968, reports a meeting of the Swatantra Party Executive Committee held two days earlier in Parliament House. It lists eight members present and assigns speakers to discussions on drought, Centre–State relations, the Insurance Amendment Bill, the Food Corporation Bill, sugar policy, and approaches to the Fourth Five-Year Plan. The agenda reflects the party’s engagement with agricultural conditions, economic planning, and the distribution of powers between the Union and the states.
+
+The principal substantive resolution concerns members’ salaries, allowances, and other amenities. The Executive Committee argues that it is embarrassing for legislators to legislate their own emoluments and recommends that a quasi-judicial authority, appointed by the Chairman of the Rajya Sabha and the Speaker of the Lok Sabha, determine reasonable remuneration. The record states that this authority’s opinion should be accepted by all parties in Parliament and submits the proposal to the party’s General Body for approval.
+
 ## Key points
 
 - The Executive Committee meeting took place on November 25, 1968, at 10 a.m. in Parliament House.

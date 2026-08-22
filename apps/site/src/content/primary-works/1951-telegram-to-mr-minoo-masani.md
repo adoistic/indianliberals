@@ -46,6 +46,12 @@ summary: |-
   The page does not reproduce the speech itself; it records only its transmission. The document has no printed title, date, authorial byline, publication imprint, or further contextual information. Handwritten annotations and the postal stamp are visible, but they do not establish a definitive publication year.
 ---
 
+## Summary
+
+This one-page English telegram is an Indian Posts and Telegraphs Department transmission record. Its typed message states that the text of “Professor Ranga”'s speech on Kerala is being sent through “Him VV Jain.” The routing strip identifies Masani as the recipient or routing reference, with Delhi and Bombay among the locations shown on the form.
+
+The page does not reproduce the speech itself; it records only its transmission. The document has no printed title, date, authorial byline, publication imprint, or further contextual information. Handwritten annotations and the postal stamp are visible, but they do not establish a definitive publication year.
+
 ## Key points
 
 - The document is a one-page telegram form issued by the Indian Posts and Telegraphs Department.

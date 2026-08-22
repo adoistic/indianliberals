@@ -50,6 +50,12 @@ summary: |-
   The sender argues that the election results vindicate Masani’s earlier insistence that the three parties involved should have contested the election on the basis of a joint manifesto and programme. The letter criticises the Congress, Jan Sangh, and SSP for their electoral arrangements, calling their rejection of Masani’s advice at the last moment a serious error of judgment.
 ---
 
+## Summary
+
+This one-page letter, dated March 11, 1971, is addressed to Minoo Masani after his failure to win election to the Lok Sabha. The unidentified sender, signing as “Dilu,” expresses personal disappointment while acknowledging disagreement with the Swatantra Party programme. The letter praises Masani as one of the few politicians who continues to advocate and practise principled politics despite obstacles and discouragements.
+
+The sender argues that the election results vindicate Masani’s earlier insistence that the three parties involved should have contested the election on the basis of a joint manifesto and programme. The letter criticises the Congress, Jan Sangh, and SSP for their electoral arrangements, calling their rejection of Masani’s advice at the last moment a serious error of judgment.
+
 ## Key points
 
 - The letter conveys sympathy to Minoo Masani after his defeat in the 1971 Lok Sabha election.

@@ -50,6 +50,12 @@ summary: |-
   Masani reflects on his association with the people of Rajkot, saying that it has lasted eight years and has now been brought to an end in this manner. He nevertheless urges Raval to view the outcome as an opportunity to turn defeat into victory. The page contains no further explanation of the events or circumstances to which the letter refers.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani to A. D. Raval is dated 16 March 1971. Masani thanks Raval for his letter of 11 March and acknowledges Raval's expression of solidarity.
+
+Masani reflects on his association with the people of Rajkot, saying that it has lasted eight years and has now been brought to an end in this manner. He nevertheless urges Raval to view the outcome as an opportunity to turn defeat into victory. The page contains no further explanation of the events or circumstances to which the letter refers.
+
 ## Key points
 
 - The letter is dated 16 March 1971 and addressed to Mr. A. D. Raval in Rajkot.

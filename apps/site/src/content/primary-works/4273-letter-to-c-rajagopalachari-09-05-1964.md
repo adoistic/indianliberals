@@ -45,6 +45,10 @@ summary: |-
   This single-page personal letter, dated May 9, 1964, was sent by Jawaharlal Nehru from the Prime Minister's House in New Delhi to C. Rajagopalachari (“Rajaji”). Nehru responds to Rajagopalachari's letter of May 8 concerning the 19th Amendment to the Constitution.
 ---
 
+## Summary
+
+This single-page personal letter, dated May 9, 1964, was sent by Jawaharlal Nehru from the Prime Minister's House in New Delhi to C. Rajagopalachari (“Rajaji”). Nehru responds to Rajagopalachari's letter of May 8 concerning the 19th Amendment to the Constitution.
+
 ## Key points
 
 - Nehru says that changing the 19th Amendment would be difficult at this stage.

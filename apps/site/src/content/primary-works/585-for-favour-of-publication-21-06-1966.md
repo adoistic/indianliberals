@@ -56,6 +56,10 @@ summary: |-
   This two-page press statement reports M. R. Masani’s address to a Progressive Group in Bombay on whether India could escape impending bankruptcy. Masani attributes the danger to the Congress government’s economic and planning policies, arguing that indiscriminate foreign aid, an overvalued rupee, inflation, excessive emphasis on heavy industry, and the proposed Fourth Plan were worsening India’s position. He calls for economic discipline, agricultural priority, a more realistic exchange rate, and greater reliance on private foreign-equity capital.
 ---
 
+## Summary
+
+This two-page press statement reports M. R. Masani’s address to a Progressive Group in Bombay on whether India could escape impending bankruptcy. Masani attributes the danger to the Congress government’s economic and planning policies, arguing that indiscriminate foreign aid, an overvalued rupee, inflation, excessive emphasis on heavy industry, and the proposed Fourth Plan were worsening India’s position. He calls for economic discipline, agricultural priority, a more realistic exchange rate, and greater reliance on private foreign-equity capital.
+
 ## Key points
 
 - Masani argues that India’s economic crisis is the result of government policy rather than an unavoidable shortage of foreign exchange.

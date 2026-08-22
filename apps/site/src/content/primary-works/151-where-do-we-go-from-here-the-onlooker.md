@@ -52,3 +52,7 @@ ai:
 summary: |-
   This rendered portion of The Onlooker contains two articles and a commercial advertisement. Minoo Masani’s “where do we go from here?” is a political and economic diagnosis of India, criticizing stagnation, bureaucratic planning, public indiscipline, weak political leadership, and the erosion of democratic capacity. It argues for stronger discipline, purposeful governance, democratic unity, and renewed courage in public life, while warning against both communist influence and authoritarian solutions. Firoze Kanga’s “Goodness Gracious, Now Mauritius!” is a travel report on Mauritius, describing its Indian cultural connections, demographic composition, economy, language environment, and prospects for industrial development and independence.
 ---
+
+## Summary
+
+This rendered portion of The Onlooker contains two articles and a commercial advertisement. Minoo Masani’s “where do we go from here?” is a political and economic diagnosis of India, criticizing stagnation, bureaucratic planning, public indiscipline, weak political leadership, and the erosion of democratic capacity. It argues for stronger discipline, purposeful governance, democratic unity, and renewed courage in public life, while warning against both communist influence and authoritarian solutions. Firoze Kanga’s “Goodness Gracious, Now Mauritius!” is a travel report on Mauritius, describing its Indian cultural connections, demographic composition, economy, language environment, and prospects for industrial development and independence.

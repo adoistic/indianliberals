@@ -44,6 +44,12 @@ summary: |-
   The letter adds that Masani would be in Delhi for the next session of Parliament in November and conveys his appreciation for Gulatia’s sentiments and good wishes. No subject beyond this acknowledgment and personal communication is discussed.
 ---
 
+## Summary
+
+This single-page English office letter, dated 17 September 1959, acknowledges Mr. K. N. Gulatia’s letter of 28 July, which had been addressed to Mr. M. R. Masani. Written by Miss B. S. Hira in her capacity as Masani’s secretary, it explains that Masani was then in the United Kingdom and expected to return to India around 6 October.
+
+The letter adds that Masani would be in Delhi for the next session of Parliament in November and conveys his appreciation for Gulatia’s sentiments and good wishes. No subject beyond this acknowledgment and personal communication is discussed.
+
 ## Key points
 
 - The letter is dated 17 September 1959.

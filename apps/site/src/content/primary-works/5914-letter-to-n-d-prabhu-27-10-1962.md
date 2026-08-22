@@ -48,6 +48,12 @@ summary: |-
   The document is a brief piece of correspondence rather than the article itself. It provides no substantive discussion of press freedom, political parties, or the article’s argument; those themes are present only through the article title and the context of the proposed contribution.
 ---
 
+## Summary
+
+This single-page letter, dated October 27, 1962, records M. R. Masani’s response to N. D. Prabhu’s invitation to contribute an article to a souvenir. Masani apologises for the delayed reply, explains that he had been out of India, and confirms that he is forwarding an article titled “Press, Parties and the People.”
+
+The document is a brief piece of correspondence rather than the article itself. It provides no substantive discussion of press freedom, political parties, or the article’s argument; those themes are present only through the article title and the context of the proposed contribution.
+
 ## Key points
 
 - The letter is dated October 27, 1962.

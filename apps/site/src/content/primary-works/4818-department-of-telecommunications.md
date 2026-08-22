@@ -48,6 +48,12 @@ summary: |-
   The second page prints instructions for complaints and refunds, followed by two conditions governing acceptance of telegrams. It states that telegrams are sent according to the relevant rules in the Telegraph Guide and Indian Telegraph Rules, and that the Director General is not liable for losses or damage caused by non-transmission, non-delivery, wrong delivery, delay, errors, or omissions. The document is therefore an administrative telecommunications form rather than a completed personal or official message.
 ---
 
+## Summary
+
+This two-page bilingual blank telegram form was issued under the heading “DEPARTMENT OF TELECOMMUNICATIONS, INDIA.” The first page provides fields for charges, examination details, destination, date stamp, service indicators, sender and recipient addresses, telephone and telex numbers, the message itself, and the sender’s name and signature. No sender, recipient, date, or message has been filled in.
+
+The second page prints instructions for complaints and refunds, followed by two conditions governing acceptance of telegrams. It states that telegrams are sent according to the relevant rules in the Telegraph Guide and Indian Telegraph Rules, and that the Director General is not liable for losses or damage caused by non-transmission, non-delivery, wrong delivery, delay, errors, or omissions. The document is therefore an administrative telecommunications form rather than a completed personal or official message.
+
 ## Key points
 
 - The document is a blank official telegram form issued by the Department of Telecommunications, India.

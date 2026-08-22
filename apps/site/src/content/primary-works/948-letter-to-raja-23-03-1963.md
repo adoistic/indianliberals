@@ -51,6 +51,12 @@ summary: |-
   Ranga then assesses the recent parliamentary debate on external affairs, calling Jawaharlal Nehru’s concluding speech ineffective and claiming that the Opposition scored on several points. He notes that Congress speakers continued to support the government’s non-alignment policy, while Gayathri Devi and C. L. Narasimha Reddy delivered effective speeches for the Opposition. The letter closes with a personal expression of goodwill and a handwritten instruction to copy M. R. Masani.
 ---
 
+## Summary
+
+In this letter dated 21 March 1963, N. G. Ranga writes to C. Rajagopalachari about parliamentary and political developments. He encloses C. L. Narasimha Reddy’s dissenting note on the constitutional-amendment bill concerning the DMK, reports that DMK supporters appeared broadly satisfied, and relays rumours that the Madras government might take action against Ranga and Rajagopalachari. He also comments on Morarji Desai’s appeal for support for the Budget proposals, suggesting that Desai may be anticipating public agitation against the new taxes.
+
+Ranga then assesses the recent parliamentary debate on external affairs, calling Jawaharlal Nehru’s concluding speech ineffective and claiming that the Opposition scored on several points. He notes that Congress speakers continued to support the government’s non-alignment policy, while Gayathri Devi and C. L. Narasimha Reddy delivered effective speeches for the Opposition. The letter closes with a personal expression of goodwill and a handwritten instruction to copy M. R. Masani.
+
 ## Key points
 
 - Ranga encloses C. L. Narasimha Reddy’s dissenting note on a constitutional-amendment bill concerning the DMK.

@@ -55,6 +55,12 @@ summary: |-
   The essay then turns to contemporary prospects for peace. Raju discusses the Line of Control, militancy in Kashmir, the exclusion of Kashmiri voices, domestic political pressures, and the nuclear tests by India and Pakistan. He is skeptical that nuclear deterrence alone guarantees peace and identifies the survival of democracy in Pakistan, rather than military domination, as a key condition. The proposed bus journey to Pakistan is presented as a valuable symbolic gesture, but not a solution in itself. Drawing on his experience at a Karachi civil-society seminar, Raju concludes that ordinary people on both sides want peace, trade, travel, communication, and normal neighbourly relations.
 ---
 
+## Summary
+
+In this essay, written in 1999, S. V. Raju traces the historical roots of India-Pakistan distrust from precolonial political fragmentation through Mughal and British rule, the growth of separate communal political identities, and Partition. He argues that Hindu-Muslim relations were often broadly harmonious before the freedom movement, but that British “divide and rule” policies, separate electorates, Muslim political anxieties, and contradictory Congress practices widened the divide. The creation of Pakistan and the violence of Partition left Kashmir as the central unresolved dispute, producing wars in 1947, 1965, and 1971 and an enduring India-Pakistan “cold war.”
+
+The essay then turns to contemporary prospects for peace. Raju discusses the Line of Control, militancy in Kashmir, the exclusion of Kashmiri voices, domestic political pressures, and the nuclear tests by India and Pakistan. He is skeptical that nuclear deterrence alone guarantees peace and identifies the survival of democracy in Pakistan, rather than military domination, as a key condition. The proposed bus journey to Pakistan is presented as a valuable symbolic gesture, but not a solution in itself. Drawing on his experience at a Karachi civil-society seminar, Raju concludes that ordinary people on both sides want peace, trade, travel, communication, and normal neighbourly relations.
+
 ## Key points
 
 - The essay presents precolonial South Asia as politically fragmented but not defined by simple Hindu-versus-Muslim warfare.

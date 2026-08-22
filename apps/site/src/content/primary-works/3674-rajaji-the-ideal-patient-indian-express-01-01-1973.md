@@ -48,6 +48,12 @@ summary: |-
   The article also emphasizes Rajaji’s personal consideration toward his doctors. He is described as treating Dr. Satyanarayana as a friend, philosopher, guardian, and physician, and as being reluctant to impose on him even when he needed medical care. The closing anecdotes describe Rajaji’s modest diet, his insistence that his doctor accompany him on an American trip, and the doctor’s responsibilities, including a Gandhi Peace Foundation mission funded by the Prime Minister. The article is credited to Express News Service; no individual author is named.
 ---
 
+## Summary
+
+This Indian Express profile presents C. Rajagopalachari (Rajaji) through his conduct as a hospital patient and his long friendship with Dr. Satyanarayana. It portrays him as cheerful, self-confident, disciplined, and unusually attentive to medical advice, while recounting his asthma, hernia operation, a later hip injury, and his habit of resuming his morning walks after illness.
+
+The article also emphasizes Rajaji’s personal consideration toward his doctors. He is described as treating Dr. Satyanarayana as a friend, philosopher, guardian, and physician, and as being reluctant to impose on him even when he needed medical care. The closing anecdotes describe Rajaji’s modest diet, his insistence that his doctor accompany him on an American trip, and the doctor’s responsibilities, including a Gandhi Peace Foundation mission funded by the Prime Minister. The article is credited to Express News Service; no individual author is named.
+
 ## Key points
 
 - The profile characterizes Rajaji as an exceptionally cheerful, confident, and cooperative patient.

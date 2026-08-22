@@ -52,6 +52,12 @@ summary: |-
   Masani frames the episode as a test of the party’s willingness to confront corruption. He proposes seeking explanations from the individuals concerned, allowing the evidence to determine the outcome, and using a Party Tribunal if necessary. He argues that the alleged wrongdoing is rooted in Patna and that action there could prevent further misconduct in Delhi, while asking whether the party can deny Kejriwal a fair hearing. The letter closes with a request for advice before forthcoming party meetings in Bombay.
 ---
 
+## Summary
+
+In this confidential letter dated April 8, 1964, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about allegations arising from the Rajya Sabha elections in Patna. Enclosing Parmanand Kejriwal’s account, Masani says he plans to discuss the matter with Professor Ranga and seeks Rajagopalachari’s guidance before doing so.
+
+Masani frames the episode as a test of the party’s willingness to confront corruption. He proposes seeking explanations from the individuals concerned, allowing the evidence to determine the outcome, and using a Party Tribunal if necessary. He argues that the alleged wrongdoing is rooted in Patna and that action there could prevent further misconduct in Delhi, while asking whether the party can deny Kejriwal a fair hearing. The letter closes with a request for advice before forthcoming party meetings in Bombay.
+
 ## Key points
 
 - Masani encloses Parmanand Kejriwal’s communication concerning events connected with the Rajya Sabha elections in Patna.

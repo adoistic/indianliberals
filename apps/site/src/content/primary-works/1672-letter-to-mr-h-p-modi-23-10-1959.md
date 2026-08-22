@@ -51,6 +51,12 @@ summary: |-
   The letter also discusses the decentralisation of printing work. As provincial organisations begin operating, Krishnaswamy proposes placing responsibility for printing forms on them gradually, according to the availability of local resources, while relieving the Madras and Bombay offices of some work. He agrees to follow Modi's proposed procedure for routing subsidy requests through the Central Office and says the enclosed allocation budget accurately reflects the position.
 ---
 
+## Summary
+
+This one-page letter, written by S. Y. Krishnaswamy from the Swatantra Party's Madras office on 23 October 1959, responds to Shri Homi P. Modi about party administration. Krishnaswamy clarifies that Rs. 10,000 attributed to Rajaji was not a debit because the money had been credited to the Central Party Office in Bangalore and remained there; he confirms that the other financial entries are correct and recorded in his files.
+
+The letter also discusses the decentralisation of printing work. As provincial organisations begin operating, Krishnaswamy proposes placing responsibility for printing forms on them gradually, according to the availability of local resources, while relieving the Madras and Bombay offices of some work. He agrees to follow Modi's proposed procedure for routing subsidy requests through the Central Office and says the enclosed allocation budget accurately reflects the position.
+
 ## Key points
 
 - The letter is dated 23 October 1959 and is sent from the Swatantra Party office at 106 Armenian Street, Madras.

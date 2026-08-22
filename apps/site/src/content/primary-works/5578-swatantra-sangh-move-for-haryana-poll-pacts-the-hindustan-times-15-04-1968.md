@@ -49,6 +49,10 @@ summary: |-
   This one-page Hindustan Times report dated April 15, 1968, describes negotiations between the Swatantra Party and the Jana Sangh over an electoral pact for the Haryana Assembly election. Swatantra general secretary Dandekar says the party will not accept government interference in candidate selection and criticizes the Haryana Chief Minister for allegedly prompting the resignation of a Swatantra member. The report also notes that the Haryana Assembly election will take place on April 17 and that nomination papers have already been filed.
 ---
 
+## Summary
+
+This one-page Hindustan Times report dated April 15, 1968, describes negotiations between the Swatantra Party and the Jana Sangh over an electoral pact for the Haryana Assembly election. Swatantra general secretary Dandekar says the party will not accept government interference in candidate selection and criticizes the Haryana Chief Minister for allegedly prompting the resignation of a Swatantra member. The report also notes that the Haryana Assembly election will take place on April 17 and that nomination papers have already been filed.
+
 ## Key points
 
 - The Swatantra Party and Jana Sangh are negotiating a seat-sharing arrangement for the Haryana Assembly election.

@@ -50,6 +50,12 @@ summary: |-
   Ramanan considers this portrayal tactless or childish and asks Masani to ensure that the party’s newer politicians weigh their words more carefully. The letter also leaves open the possibility that the correspondent misunderstood Mahida, in which case Mahida should contradict the report. The document therefore combines internal party discipline with concern about how party statements are represented in the press.
 ---
 
+## Summary
+
+This one-page letter from the Swatantra Party, Uttar Pradesh, dated 23 May 1962, is addressed to M. R. Masani and signed by N. Ramanan. It draws Masani’s attention to a Statesman article titled “New in Parliament,” which presents a brief account of Swatantra Party member Ranjit Singh Mahida, M.P., including the article’s claim that Mahida moved away from Congress ideology after Congress declined to provide his Kshatriya supporters an adequate share of tickets.
+
+Ramanan considers this portrayal tactless or childish and asks Masani to ensure that the party’s newer politicians weigh their words more carefully. The letter also leaves open the possibility that the correspondent misunderstood Mahida, in which case Mahida should contradict the report. The document therefore combines internal party discipline with concern about how party statements are represented in the press.
+
 ## Key points
 
 - The letter is issued on Swatantra Party, Uttar Pradesh, letterhead from Lucknow and is dated 23 May 1962.

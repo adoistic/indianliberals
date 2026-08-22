@@ -56,6 +56,12 @@ summary: |-
   The outline also raises practical questions about budgets, taxation, monetary policy, food, education, defence, and the division of authority between the Centre and the states. It proposes targeting resources toward growth and economic opportunity, rejects monopoly, and treats decentralisation and federalism as safeguards against excessive concentration of power. References to B. R. Shenoy, Galbraith, Lenin, and Mises place the notes within contemporary debates over planning, socialism, and economic freedom, although the document remains a preliminary set of prompts and policy headings rather than a finished argument.
 ---
 
+## Summary
+
+This four-page handwritten working outline, headed “Planning & Democracy” and dated 4/4/62, sketches a liberal case for democratic rather than authoritarian planning. It links planning to employment, growth, agricultural development, education, defence, and the allocation of resources, while insisting that planning must remain reversible and compatible with competition, consumer choice, and private initiative. The notes contrast democratic planning with “command economy” and with systems that are “incompatible with democracy.”
+
+The outline also raises practical questions about budgets, taxation, monetary policy, food, education, defence, and the division of authority between the Centre and the states. It proposes targeting resources toward growth and economic opportunity, rejects monopoly, and treats decentralisation and federalism as safeguards against excessive concentration of power. References to B. R. Shenoy, Galbraith, Lenin, and Mises place the notes within contemporary debates over planning, socialism, and economic freedom, although the document remains a preliminary set of prompts and policy headings rather than a finished argument.
+
 ## Key points
 
 - The document frames democratic planning as an alternative to authoritarian or command-economy planning.

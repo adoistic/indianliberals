@@ -51,6 +51,12 @@ summary: |-
   The second letter responds to the resignation of Sri T. Krishnamma Choudary, linking it to the defeat of the official Swatantra candidate and the success of a rebel candidate in a Rajya Sabha election from a Gujarat Assembly constituency. It characterizes the resignation as an act of atonement, notes that the Gujarat Assembly leader and deputy leader have also resigned, and urges the National Leadership to address disorder within party units at the next National Executive meeting.
 ---
 
+## Summary
+
+This two-page English correspondence from the Swatantra Party's central office, dated 31 March 1968, addresses an internal party crisis. The first letter requests an emergency meeting of the General Council following Minoo Masani's resignation from the National Executive and Central Parliamentary Board, with the stated aim of restoring unity and coordinated leadership. The sender is not identified by a legible typed name or confidently readable signature.
+
+The second letter responds to the resignation of Sri T. Krishnamma Choudary, linking it to the defeat of the official Swatantra candidate and the success of a rebel candidate in a Rajya Sabha election from a Gujarat Assembly constituency. It characterizes the resignation as an act of atonement, notes that the Gujarat Assembly leader and deputy leader have also resigned, and urges the National Leadership to address disorder within party units at the next National Executive meeting.
+
 ## Key points
 
 - The correspondence concerns an internal crisis in the Swatantra Party in March–April 1968.

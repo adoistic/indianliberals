@@ -51,6 +51,12 @@ summary: |-
   The second rendered page contains an attached BLITZ clipping dated 22 June 1963, headed “Swatantra Split Over Rajaji Stand.” The clipping describes an ideological rift within the Swatantra Party, contrasting a “LEFT” associated with C. Rajagopalachari and a “RIGHT” associated with K. M. Munshi, and reports disagreement over Morarji Desai’s policies and the party’s response to regional and linguistic issues. The clipping is contextual material attached to the letter, not a separate work.
 ---
 
+## Summary
+
+In this letter dated 26 June 1963, C. Rajagopalachari writes to M. R. Masani about the impact of recent by-elections and other developments on people across India. He observes that politically sympathetic individuals are writing to offer help but remain disconnected from local party units, and proposes using life membership as a way to build an all-India cadre of people aged between 25 and 50. He asks Masani to consider devising an executive plan for this initiative.
+
+The second rendered page contains an attached BLITZ clipping dated 22 June 1963, headed “Swatantra Split Over Rajaji Stand.” The clipping describes an ideological rift within the Swatantra Party, contrasting a “LEFT” associated with C. Rajagopalachari and a “RIGHT” associated with K. M. Munshi, and reports disagreement over Morarji Desai’s policies and the party’s response to regional and linguistic issues. The clipping is contextual material attached to the letter, not a separate work.
+
 ## Key points
 
 - Rajagopalachari links recent by-elections and other developments to increased public interest in political activity.

@@ -54,6 +54,12 @@ summary: |-
   The note then turns to the cost and organisation of elections. Masani criticises the unequal spending power of political parties and proposes that election administration— including the distribution of candidates’ manifestos and voter slips, mobile polling stations, and possibly television—should become a state responsibility. He presents efficient organisation and a clear, worthwhile party platform as the two main determinants of electoral success, but concludes that elections remain unpredictable, citing the unexpectedly close Rajkot result and the intense public celebrations after the count.
 ---
 
+## Summary
+
+This two-page press note reports M. R. Masani’s remarks to the Rotary Club of Bombay about his recent campaign as a parliamentary candidate in the Rajkot Lok Sabha by-election. Masani identifies two lessons: the continuing fear of authority among much of the rural population, attributed to Saurashtra’s history of arbitrary action, and hostility toward people wearing the Gandhi cap. He argues that Rajkot voters were nevertheless politically conscious and willing to support an “outsider,” while warning Congressmen that the cap could eventually lose public confidence if its wearers became masters rather than servants of the people.
+
+The note then turns to the cost and organisation of elections. Masani criticises the unequal spending power of political parties and proposes that election administration— including the distribution of candidates’ manifestos and voter slips, mobile polling stations, and possibly television—should become a state responsibility. He presents efficient organisation and a clear, worthwhile party platform as the two main determinants of electoral success, but concludes that elections remain unpredictable, citing the unexpectedly close Rajkot result and the intense public celebrations after the count.
+
 ## Key points
 
 - Masani describes fear of authority as a major political problem among rural voters.

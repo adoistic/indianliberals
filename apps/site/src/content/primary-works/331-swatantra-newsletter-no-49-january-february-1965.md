@@ -57,3 +57,9 @@ summary: |-
   
   The remaining pages combine arguments on nuclear defence and non-alignment, criticism of both “Right” and “Left” Communists, advocacy of Indian support for Malaysia and South Vietnam, and reports from state units in Andhra, Bombay, Gujarat, Kerala, Madras, and Mysore. These reports emphasise opposition to food controls, planning, land revenue, compulsory procurement, and state acquisition of agricultural land, while the final boxed statement presents the Swatantra Party as a consumers’ and individual-rights party committed to free enterprise, reduced state activity, agrarian security, employment, and democratic law.
 ---
+
+## Summary
+
+Issue No. 49 of the Swatantra Newsletter, dated January–February 1965, reports on the party’s preparations for elections and internal organisation. It announces the relocation of the General Council meeting from Jaipur to Bombay, lists 14 Swatantra candidates for the Kerala Assembly elections, and reproduces extracts from Rajaji’s Kerala tour, including attacks on Congress administration and appeals for anti-Communist electoral cooperation. The issue also presents Minoo Masani’s proposals for reducing taxation, suspending planning, decontrolling the economy, and shifting defence policy toward interdependence with democratic countries.
+
+The remaining pages combine arguments on nuclear defence and non-alignment, criticism of both “Right” and “Left” Communists, advocacy of Indian support for Malaysia and South Vietnam, and reports from state units in Andhra, Bombay, Gujarat, Kerala, Madras, and Mysore. These reports emphasise opposition to food controls, planning, land revenue, compulsory procurement, and state acquisition of agricultural land, while the final boxed statement presents the Swatantra Party as a consumers’ and individual-rights party committed to free enterprise, reduced state activity, agrarian security, employment, and democratic law.

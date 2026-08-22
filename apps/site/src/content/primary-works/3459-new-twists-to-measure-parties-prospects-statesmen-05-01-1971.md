@@ -50,6 +50,12 @@ summary: |-
   The report presents Minoo Masani’s reaction as a strategic attempt to create a credible minimum programme rather than simply displace Indira Gandhi. It describes disagreements over the timing and terms of the alliance, including the view that Swatantra’s entry had been announced prematurely and that the proposed minimum programme was too narrow. The clipping also records the expectation that the front would need to remain within its existing three-party form, while noting that Swatantra leaders felt the arrangement had treated them unfairly.
 ---
 
+## Summary
+
+This anonymous Statesman political report examines how the Swatantra Party’s decision to join a three-party electoral front with the Samyukta Socialist Party (SSP) could alter the prospects of the major parties. It argues that the new alignment may affect Congress’s position particularly in the Hindi-speaking states of Uttar Pradesh and Bihar, while also giving Congress (O) and the SSP a stronger electoral base. The article suggests that the front could consolidate opposition strength, although Congress members reportedly believed that the arrangement might eventually bring Swatantra into a wider three-party alliance led by Congress (O) and the SSP.
+
+The report presents Minoo Masani’s reaction as a strategic attempt to create a credible minimum programme rather than simply displace Indira Gandhi. It describes disagreements over the timing and terms of the alliance, including the view that Swatantra’s entry had been announced prematurely and that the proposed minimum programme was too narrow. The clipping also records the expectation that the front would need to remain within its existing three-party form, while noting that Swatantra leaders felt the arrangement had treated them unfairly.
+
 ## Key points
 
 - Swatantra’s inclusion in a three-party front is presented as a potentially important development before the elections.

@@ -69,6 +69,12 @@ summary: |-
   The statement advocates self-employed peasant proprietorship, improved agricultural inputs and credit, private and competitive enterprise, restricted state ownership, free choice for producers and consumers, restrained taxation and public expenditure, opposition to deficit financing and inflation, decentralised industrial development, and full employment. It also defends small artisans and traders, workers’ rights to organise and bargain collectively, freedom of education, constitutional property guarantees, the rule of law, an independent judiciary, judicial review, Gandhian trusteeship, truth and non-violence, and freedom of opinion within the party. The document is institutional rather than individually authored; no content beyond these 21 principles is present in the rendered six pages.
 ---
 
+## Summary
+
+This six-page statement, adopted at the Swatantra Party’s Preparatory Convention in Bombay on August 1–2, 1959, sets out 21 principles combining social justice and equality of opportunity with individual initiative, enterprise, property rights, and limited state intervention. It presents the party as opposed to coercive collectivism, class conflict, excessive official power, and the expansion of the bureaucratic state, while retaining a role for government in protecting citizens, preventing anti-social activity, providing essential services, and supporting basic needs such as food, water, housing, and clothing.
+
+The statement advocates self-employed peasant proprietorship, improved agricultural inputs and credit, private and competitive enterprise, restricted state ownership, free choice for producers and consumers, restrained taxation and public expenditure, opposition to deficit financing and inflation, decentralised industrial development, and full employment. It also defends small artisans and traders, workers’ rights to organise and bargain collectively, freedom of education, constitutional property guarantees, the rule of law, an independent judiciary, judicial review, Gandhian trusteeship, truth and non-violence, and freedom of opinion within the party. The document is institutional rather than individually authored; no content beyond these 21 principles is present in the rendered six pages.
+
 ## Key points
 
 - The party links social justice and equality of opportunity to individual initiative, enterprise, and energy.

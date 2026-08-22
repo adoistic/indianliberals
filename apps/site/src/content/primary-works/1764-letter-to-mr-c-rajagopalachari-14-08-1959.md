@@ -51,6 +51,12 @@ summary: |-
   The proposed 24- or 32-page pamphlet would reproduce the party’s credo, selected recent articles by Rajagopalachari, a summary of the Bombay Convention, brief accounts of recent pronouncements by party figures, and favourable editorial commentary from leading newspapers. The writer estimates that at least 100,000 copies could be sold at four annas each, covering production costs while also serving an “educative” purpose. The letter closes by offering to prepare a complete dummy if Rajagopalachari approves the suggestion.
 ---
 
+## Summary
+
+This one-page letter, dated August 14, 1959, is addressed to C. Rajagopalachari (“Raja Ji”) and proposes a publicity pamphlet for the newly established Swatantra Party. The writer agrees that the party does not need a new journal devoted exclusively to its cause, but recommends an organised publicity campaign and identifies pamphleteering as an especially effective medium.
+
+The proposed 24- or 32-page pamphlet would reproduce the party’s credo, selected recent articles by Rajagopalachari, a summary of the Bombay Convention, brief accounts of recent pronouncements by party figures, and favourable editorial commentary from leading newspapers. The writer estimates that at least 100,000 copies could be sold at four annas each, covering production costs while also serving an “educative” purpose. The letter closes by offering to prepare a complete dummy if Rajagopalachari approves the suggestion.
+
 ## Key points
 
 - The letter rejects the need for a new Swatantra Party journal devoted solely to party affairs.

@@ -52,6 +52,12 @@ summary: |-
   Masani contrasts the Maharashtra censorship order with the Delhi order, calling the former broader and wider in scope. In a postscript, he reports that the Bombay High Court has admitted the petition challenging the Maharashtra Censorship Order and the censor’s prohibition on publishing Tarkunde’s article and other referenced material. The Court has fixed 29 August for the matter to be placed before a Bench, and Masani states that Freedom First will not appear until then.
 ---
 
+## Summary
+
+In this letter dated 17 July 1975, M. R. Masani tells V. H. Tarkunde that Freedom First has published Tarkunde’s article on the scope of the Censorship Order and submitted it to the local censor. The censor rejected the article in full, as well as the Maharashtra Bar Council’s appeal to the President to revoke the Emergency and a summary of the Swatantrya case reprinted from the Financial Express. Masani reports that the editors have filed a writ petition challenging what he regards as the censors’ misuse of their position, and notes that Tarkunde intends to take similar action in Delhi.
+
+Masani contrasts the Maharashtra censorship order with the Delhi order, calling the former broader and wider in scope. In a postscript, he reports that the Bombay High Court has admitted the petition challenging the Maharashtra Censorship Order and the censor’s prohibition on publishing Tarkunde’s article and other referenced material. The Court has fixed 29 August for the matter to be placed before a Bench, and Masani states that Freedom First will not appear until then.
+
 ## Key points
 
 - Freedom First published Tarkunde’s article on the scope of the Censorship Order and submitted it to the local censor.

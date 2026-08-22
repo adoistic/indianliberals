@@ -50,6 +50,12 @@ summary: |-
   The extract also records Deo's welcome for Sheikh Abdullah's release alongside his demand for the abrogation of Article 370 and the abolition of Kashmir's special constitutional status in its relationship with India. No author or byline is visible, and the page does not provide the wider context of the Lok Sabha discussion or the proposed Asian nations' meeting.
 ---
 
+## Summary
+
+This one-page English newspaper extract, dated 10 April 1964 and attributed to the Hindustan Times, reports a demand in the Lok Sabha to convene a meeting of Asian nations. The visible passage focuses on Kashmir and contrasts the position of Swatantra Party spokesman M. R. Masani with that of P. K. Deo. Deo is reported as opposing hesitation over Kashmir's complete integration with India and rejecting the possibility that Pakistan could pressure India through a proposed plebiscite.
+
+The extract also records Deo's welcome for Sheikh Abdullah's release alongside his demand for the abrogation of Article 370 and the abolition of Kashmir's special constitutional status in its relationship with India. No author or byline is visible, and the page does not provide the wider context of the Lok Sabha discussion or the proposed Asian nations' meeting.
+
 ## Key points
 
 - The page is an extract from the Hindustan Times dated Friday, 10 April 1964.

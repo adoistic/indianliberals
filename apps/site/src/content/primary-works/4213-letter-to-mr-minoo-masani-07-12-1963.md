@@ -50,6 +50,12 @@ summary: |-
   Rajagopalachari also congratulates Masani on a speech in Parliament, describing the response as exceptionally strong and expressing the view that Masani had reached the peak of his parliamentary effectiveness. He then reports that he has cancelled engagements in Bangalore and plans to spend the first, second, and third days of the month there, where people have worked hard. The letter closes with a note that he is recovering and is occupied with arrangements for expected engineers.
 ---
 
+## Summary
+
+In this handwritten letter dated 7 December 1963, C. Rajagopalachari writes to Minoo Masani about the Unit Trust scheme. He asks whether a demand can be made for the total withdrawal of compulsory deposits, specifically in light of the scheme, indicating concern about the coercive or financially restrictive character of the arrangement.
+
+Rajagopalachari also congratulates Masani on a speech in Parliament, describing the response as exceptionally strong and expressing the view that Masani had reached the peak of his parliamentary effectiveness. He then reports that he has cancelled engagements in Bangalore and plans to spend the first, second, and third days of the month there, where people have worked hard. The letter closes with a note that he is recovering and is occupied with arrangements for expected engineers.
+
 ## Key points
 
 - Rajagopalachari asks whether the total withdrawal of compulsory deposits can be demanded under the Unit Trust scheme.

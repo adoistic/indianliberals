@@ -49,6 +49,12 @@ summary: |-
   The letter states that the Swatantra Party holds principles that make an agreement with the ruling party impossible in the foreseeable future. It also declines to circulate a contributed article on the P.M. Symposium before its volume is published. The closing paragraph reports that regional committee organisation and member enrolment are progressing across the country and have made a good start. The sender is not identified on the page; the document is addressed to Lt.-General Nathu Singh.
 ---
 
+## Summary
+
+This one-page personal letter, dated 1 October 1959, responds to a correspondent's suggestions about the forthcoming Swatantra Party manifesto and the principles on which profits from an undertaking should be divided. The unidentified sender says the manifesto will clarify the party's position on the political and economic issues of the day and address some of the recipient's doubts. The sender also offers to explain the position personally if they meet.
+
+The letter states that the Swatantra Party holds principles that make an agreement with the ruling party impossible in the foreseeable future. It also declines to circulate a contributed article on the P.M. Symposium before its volume is published. The closing paragraph reports that regional committee organisation and member enrolment are progressing across the country and have made a good start. The sender is not identified on the page; the document is addressed to Lt.-General Nathu Singh.
+
 ## Key points
 
 - The forthcoming Swatantra Party manifesto is expected to set out the party's political and economic position.

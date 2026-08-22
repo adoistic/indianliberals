@@ -51,6 +51,10 @@ summary: |-
   This three-page Lok Sabha Secretariat memorandum, dated 11 March 1965, forwards the minutes of the fourth meeting of the Jawaharlal Nehru Portrait Parliamentary Committee, held in the Speaker’s Chamber on 8 March 1965. The committee reviewed portrait submissions for display in the Central Hall, considered funding and artist payments, and discussed the practical requirements of producing Nehru’s portrait.
 ---
 
+## Summary
+
+This three-page Lok Sabha Secretariat memorandum, dated 11 March 1965, forwards the minutes of the fourth meeting of the Jawaharlal Nehru Portrait Parliamentary Committee, held in the Speaker’s Chamber on 8 March 1965. The committee reviewed portrait submissions for display in the Central Hall, considered funding and artist payments, and discussed the practical requirements of producing Nehru’s portrait.
+
 ## Key points
 
 - The committee examined 14 portraits submitted by artists and rejected nine as unsuitable.

@@ -50,6 +50,12 @@ summary: |-
   The extract then defends Jawaharlal Nehru’s policy of non-alignment as a successful response to the Cold War, while attributing later difficulties in Kashmir to American involvement and Pakistan’s expectations of British support. It concludes with a pessimistic assessment of Indo-British relations, asserting that Britain did not welcome a strong India and would not regret India’s disruption.
 ---
 
+## Summary
+
+This two-page extract, identified as passages from Justice S. S. Dhavan’s article “Has India's Foreign Policy Failed?” published in Blitz on January 29, 1966, presents a sharply critical account of India’s diplomatic position. It argues that British rule destroyed India’s earlier diplomatic standing, reduced Indians to subordinate roles, and propagated racial stereotypes, despite India’s historical contribution to international law and political civilization.
+
+The extract then defends Jawaharlal Nehru’s policy of non-alignment as a successful response to the Cold War, while attributing later difficulties in Kashmir to American involvement and Pakistan’s expectations of British support. It concludes with a pessimistic assessment of Indo-British relations, asserting that Britain did not welcome a strong India and would not regret India’s disruption.
+
 ## Key points
 
 - British colonial rule is presented as having eliminated India’s independent diplomatic role and excluded Indians from the External Affairs Department.

@@ -54,3 +54,7 @@ ai:
 summary: |-
   Swatantra Newsletter No. 46, dated August/September 1964, reports on the Swatantra Party's organisational activities and presents its criticism of food scarcity, inflation, economic planning, and administrative centralisation. The issue describes the Party's first training course for organisers, the proposed inquiry into officials in Orissa, the dissolution of the Bihar unit, and activities of state organisations in Andhra, Bombay, Gujarat, and Mysore. Its political reporting consistently links rising prices and shortages to government controls, planning priorities, monetary expansion, taxation, and administrative failure.
 ---
+
+## Summary
+
+Swatantra Newsletter No. 46, dated August/September 1964, reports on the Swatantra Party's organisational activities and presents its criticism of food scarcity, inflation, economic planning, and administrative centralisation. The issue describes the Party's first training course for organisers, the proposed inquiry into officials in Orissa, the dissolution of the Bihar unit, and activities of state organisations in Andhra, Bombay, Gujarat, and Mysore. Its political reporting consistently links rising prices and shortages to government controls, planning priorities, monetary expansion, taxation, and administrative failure.

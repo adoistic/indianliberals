@@ -49,6 +49,12 @@ summary: |-
   Raju also asks Ramabhedran to inform Mr. Arya of his Delhi arrangements and remain in contact with him, since Arya can arrange meetings with Masani and others who share Ramabhedran’s views. The letter is therefore a practical piece of political coordination, linking an ongoing discussion to an upcoming General Council meeting.
 ---
 
+## Summary
+
+In this one-page letter dated May 30, 1974, S. V. Raju writes to J. Ramabhedran about a matter they have discussed extensively. Raju asks Ramabhedran to travel to Delhi for the General Council meeting on June 9–10, where he can present his views forcefully and coherently and discuss details with Minoo Masani.
+
+Raju also asks Ramabhedran to inform Mr. Arya of his Delhi arrangements and remain in contact with him, since Arya can arrange meetings with Masani and others who share Ramabhedran’s views. The letter is therefore a practical piece of political coordination, linking an ongoing discussion to an upcoming General Council meeting.
+
 ## Key points
 
 - The letter is dated May 30, 1974, and is signed by S. V. Raju.

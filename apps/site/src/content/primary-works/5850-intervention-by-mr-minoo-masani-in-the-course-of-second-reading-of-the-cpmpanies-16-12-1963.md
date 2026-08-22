@@ -52,6 +52,12 @@ summary: |-
   The second intervention addresses the deprivation of individual trustees' voting rights. Masani accepts a system in which voting rights may be withdrawn for misconduct or misuse, but insists on safeguards, judicial oversight, and a Public Trustee independent of the executive. In the third, he attacks proposed grounds for referring company directors and managers to a tribunal. While supporting action against fraud and breach of trust, he rejects vague standards such as failure to follow supposedly sound business principles or conduct thought likely to damage a business. He warns that bureaucratic judgment over commercial risk would undermine enterprise and concludes by criticizing the tension between the government's stated support for individual initiative and the bill's restrictive clauses.
 ---
 
+## Summary
+
+This transcript records three interventions by Mr. K. R. Masani during the Lok Sabha's second reading of the Companies (Amendment) Bill, 1963, on 16 December 1963. In the first intervention, Masani opposes Finance Minister amendments that would weaken the Select Committee's provision concerning the conversion of loans into share capital. He argues that disregarding the committee's recommendation would damage India's creditworthiness abroad and emphasizes that foreign investors will judge the actions of Parliament and government rather than individual speeches.
+
+The second intervention addresses the deprivation of individual trustees' voting rights. Masani accepts a system in which voting rights may be withdrawn for misconduct or misuse, but insists on safeguards, judicial oversight, and a Public Trustee independent of the executive. In the third, he attacks proposed grounds for referring company directors and managers to a tribunal. While supporting action against fraud and breach of trust, he rejects vague standards such as failure to follow supposedly sound business principles or conduct thought likely to damage a business. He warns that bureaucratic judgment over commercial risk would undermine enterprise and concludes by criticizing the tension between the government's stated support for individual initiative and the bill's restrictive clauses.
+
 ## Key points
 
 - Masani defends the Select Committee's provisions on converting government loans into share capital against Finance Minister amendments.

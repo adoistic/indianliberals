@@ -48,6 +48,12 @@ summary: |-
   Rajagopalachari adds that Raja Saheb readily agreed with the objection, so readily that he suspected Raja Saheb was pleased by it. The letter records a small but revealing episode of party-related judgment and interpersonal diplomacy; no further details about the seat, the objection, or the individuals involved are provided on the page.
 ---
 
+## Summary
+
+This single-page letter, dated January 26, 1963, is C. Rajagopalachari’s affectionate reply to M. R. Masani, then General Secretary of the Swatantra Party. Rajagopalachari refers to Masani’s letter of January 25 and explains why he had thought it unwise to give Masani “the seat” in question, given the mutual prejudices that might have produced a misunderstanding.
+
+Rajagopalachari adds that Raja Saheb readily agreed with the objection, so readily that he suspected Raja Saheb was pleased by it. The letter records a small but revealing episode of party-related judgment and interpersonal diplomacy; no further details about the seat, the objection, or the individuals involved are provided on the page.
+
 ## Key points
 
 - The letter is dated January 26, 1963, and is addressed to M. R. Masani.

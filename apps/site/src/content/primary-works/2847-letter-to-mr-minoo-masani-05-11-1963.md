@@ -53,6 +53,12 @@ summary: |-
   Ranga argues for a modest, business-like convention rather than an expensive pageant. He proposes limiting expenditure, charging delegates for boarding, and avoiding elaborate processions, large pandals, and oversized volunteer arrangements. He recalls a well-attended State convention and public meeting at Vijayawada against the 17th Amendment, and invites Masani to speak on his experiences abroad and democratic forces worldwide under the auspices of the Swatantra club. The letter closes with requests concerning meetings in Punjab and the organisation of a programme on the 17th Amendment.
 ---
 
+## Summary
+
+In this letter dated 5 November 1963, N. G. Ranga writes to Minoo Masani about Swatantra Party organisational and electoral matters. He asks how the party should respond to forthcoming by-elections to the assemblies in Mysore and Bihar and to parliamentary vacancies in Madras and Cooch Behar, suggesting that state units might be consulted by circulation. He also discusses whether a national convention is necessary to ratify changes to party membership rules and fees, noting that comparable changes had previously been made by the AICC pending formal endorsement.
+
+Ranga argues for a modest, business-like convention rather than an expensive pageant. He proposes limiting expenditure, charging delegates for boarding, and avoiding elaborate processions, large pandals, and oversized volunteer arrangements. He recalls a well-attended State convention and public meeting at Vijayawada against the 17th Amendment, and invites Masani to speak on his experiences abroad and democratic forces worldwide under the auspices of the Swatantra club. The letter closes with requests concerning meetings in Punjab and the organisation of a programme on the 17th Amendment.
+
 ## Key points
 
 - Ranga seeks guidance on party responses to assembly and parliamentary by-elections in several states.

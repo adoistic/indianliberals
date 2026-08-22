@@ -57,6 +57,10 @@ summary: |-
   In this essay, S. V. Raju argues that liberalism requires neither an all-purpose state nor a minimal state indifferent to public need. Drawing on Minoo Masani’s writings and the Swatantra Party’s policy, he distinguishes between activities from which government should withdraw—especially commercial and industrial enterprise—and public services for which the state must accept responsibility. These include law and order, clean drinking water, primary education and health, transport infrastructure, and targeted support for the poor. The essay presents Masani’s “New Liberalism” as a position combining free-market economics with social welfare and a firm commitment to individual freedom and dignity.
 ---
 
+## Summary
+
+In this essay, S. V. Raju argues that liberalism requires neither an all-purpose state nor a minimal state indifferent to public need. Drawing on Minoo Masani’s writings and the Swatantra Party’s policy, he distinguishes between activities from which government should withdraw—especially commercial and industrial enterprise—and public services for which the state must accept responsibility. These include law and order, clean drinking water, primary education and health, transport infrastructure, and targeted support for the poor. The essay presents Masani’s “New Liberalism” as a position combining free-market economics with social welfare and a firm commitment to individual freedom and dignity.
+
 ## Key points
 
 - The state should govern rather than conduct business, while retaining responsibility for essential public services.

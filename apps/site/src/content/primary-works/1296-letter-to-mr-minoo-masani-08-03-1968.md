@@ -48,6 +48,12 @@ summary: |-
   The document is administrative and narrowly focused: it records proposed nominations to a trade advisory body rather than presenting an extended argument about commerce or economic policy. The signatory is tentatively identified from the handwritten signature as Dinesh Singh; no typed name appears beneath the signature.
 ---
 
+## Summary
+
+This single-page English letter, dated March 8, 1968, is written by the Minister of Commerce in New Delhi to Minoo Masani. It follows up on an earlier letter of February 23, 1968, and reports that the ministry is taking steps to nominate N. K. Somani and K. Rajaram, both Members of the Lok Sabha, to the Advisory Council on Trade.
+
+The document is administrative and narrowly focused: it records proposed nominations to a trade advisory body rather than presenting an extended argument about commerce or economic policy. The signatory is tentatively identified from the handwritten signature as Dinesh Singh; no typed name appears beneath the signature.
+
 ## Key points
 
 - The letter is dated March 8, 1968, and issued on the letterhead of the Minister of Commerce, New Delhi-11.

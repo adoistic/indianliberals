@@ -50,6 +50,10 @@ summary: |-
   In this letter dated 8 June 1968, Bhanu Pratap Singh reports to C. Rajagopalachari on discussions in Delhi about a possible merger of the Bharatiya Kranti Dal (BKD), the Swatantra Party, and the Praja Socialist Party (PSP). Singh describes his opposition to any arrangement while the West Bengal unit of the BKD remained associated with the Communists, but notes that the BKD’s national executive subsequently dissolved that state executive and that Ajay Mukerjee resigned from the BKD. He also relays plans for Charan Singh to meet Rajagopalachari and other leaders in Madras, Bangalore, and Hyderabad to explore a broader merger among non-Congress parties.
 ---
 
+## Summary
+
+In this letter dated 8 June 1968, Bhanu Pratap Singh reports to C. Rajagopalachari on discussions in Delhi about a possible merger of the Bharatiya Kranti Dal (BKD), the Swatantra Party, and the Praja Socialist Party (PSP). Singh describes his opposition to any arrangement while the West Bengal unit of the BKD remained associated with the Communists, but notes that the BKD’s national executive subsequently dissolved that state executive and that Ajay Mukerjee resigned from the BKD. He also relays plans for Charan Singh to meet Rajagopalachari and other leaders in Madras, Bangalore, and Hyderabad to explore a broader merger among non-Congress parties.
+
 ## Key points
 
 - The letter discusses a proposed merger involving the BKD, Swatantra Party, and PSP.

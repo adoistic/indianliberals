@@ -52,6 +52,12 @@ summary: |-
   The remaining pages enumerate the party’s general council members from Maharashtra and members elected to the Maharashtra State Council, dated 17 November 1973. The state-council list is organised by electoral districts, including Bombay South, Bombay Central South, Bombay Central, Bombay North West, Bombay North East, Poona, Sholapur, Osmanabad, and Aurangabad. The final page identifies past presidents M. R. Masani, N. Dandekar, Lalchand Hirachand, Madhu Mehta, K. R. Koshti, and H. G. Vaishnav. The document is an administrative record rather than an argumentative or biographical text.
 ---
 
+## Summary
+
+This seven-page English organisational directory records the office bearers and membership of the Swatantra Party in Maharashtra. The opening page lists the president, vice-presidents, general secretary, joint secretaries, treasurer, and members of the executive committee, together with postal addresses and telephone numbers. The document identifies Madhu Mehta as president and Girish Munshi as general secretary; it also lists figures including Parmanand Kejriwal, Mrs. Manorama Dandekar, A. J. Pimenta, Sarla Datar, and Hiren Shah.
+
+The remaining pages enumerate the party’s general council members from Maharashtra and members elected to the Maharashtra State Council, dated 17 November 1973. The state-council list is organised by electoral districts, including Bombay South, Bombay Central South, Bombay Central, Bombay North West, Bombay North East, Poona, Sholapur, Osmanabad, and Aurangabad. The final page identifies past presidents M. R. Masani, N. Dandekar, Lalchand Hirachand, Madhu Mehta, K. R. Koshti, and H. G. Vaishnav. The document is an administrative record rather than an argumentative or biographical text.
+
 ## Key points
 
 - Lists the Maharashtra Swatantra Party’s office bearers and executive committee members.

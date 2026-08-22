@@ -49,6 +49,12 @@ summary: |-
   The letter asks Raju to direct any necessary further correspondence to Majhi at his village address in Kalahandi district. It is signed by B. S. Joshi on behalf of the House-hold Office, Bolangir, and preserves a small but concrete administrative link between Raju, the palace office, and former Swatantra Party records.
 ---
 
+## Summary
+
+This one-page English letter, dated 8 March 1985 and issued from Shailashree Palace, Bolangir, informs S. V. Raju that his letter of 28 February 1985, addressed to Maharaja R. R. Singh Deo of Patna, Bolangir, has been received. The writer explains that the letter has been forwarded to Shri Ghasiram Majhi, identified as the Swatantra Party's District Secretary, because he may hold records and papers relating to the party.
+
+The letter asks Raju to direct any necessary further correspondence to Majhi at his village address in Kalahandi district. It is signed by B. S. Joshi on behalf of the House-hold Office, Bolangir, and preserves a small but concrete administrative link between Raju, the palace office, and former Swatantra Party records.
+
 ## Key points
 
 - The letter is dated 8 March 1985 and originates from Shailashree Palace, Bolangir, Orissa.

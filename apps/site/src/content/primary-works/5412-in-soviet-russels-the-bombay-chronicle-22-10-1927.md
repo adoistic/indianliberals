@@ -52,6 +52,12 @@ summary: |-
   The article then examines the Palace of Labour and its museum, emphasizing the Soviet celebration of Lenin and the history of Russian trade-union struggle. It observes that Menshevik leaders and even the controversial priest Gapon receive recognition alongside the Bolsheviks. A discussion of Leningrad’s shops, theatres, traders, and highly paid technical specialists introduces the New Economic Policy and questions whether these individuals constitute a coherent new rich class. The article closes the visible instalment with the journey to Moscow, where the British visitors attract intense media attention and are repeatedly asked to assess Soviet achievements and defects.
 ---
 
+## Summary
+
+This 1927 Bombay Chronicle article records an English visitors’ three-week journey through Soviet Russia, beginning in Leningrad. The writer explains that the group’s composition—former Quaker Relief Mission workers, Trade Unionists, and Labour Party members—gave the visit an unintended political significance. Leningrad is presented through contrasts: its imperial architecture and former grandeur coexist with neglected buildings, poor roads, insanitary public facilities, and visible evidence of post-revolutionary decline. The writer also notes that the city’s reduced status after the capital moved to Moscow affected its population and institutions.
+
+The article then examines the Palace of Labour and its museum, emphasizing the Soviet celebration of Lenin and the history of Russian trade-union struggle. It observes that Menshevik leaders and even the controversial priest Gapon receive recognition alongside the Bolsheviks. A discussion of Leningrad’s shops, theatres, traders, and highly paid technical specialists introduces the New Economic Policy and questions whether these individuals constitute a coherent new rich class. The article closes the visible instalment with the journey to Moscow, where the British visitors attract intense media attention and are repeatedly asked to assess Soviet achievements and defects.
+
 ## Key points
 
 - The visitors’ Labour and Trade Union associations give their Soviet journey political significance despite their original intentions.

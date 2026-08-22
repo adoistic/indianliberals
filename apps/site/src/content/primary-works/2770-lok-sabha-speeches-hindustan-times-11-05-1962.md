@@ -50,6 +50,12 @@ summary: |-
   Vats distinguishes between a member’s occasional use of notes and the routine reading of a manuscript. Citing May’s Parliamentary Practice, he says that members may read “bona fide unwritten compositions” when these take account of the arguments already made. He concludes by urging members to resist the temptation to read speeches that have no relation to the debate, while recalling the Prime Minister’s ridicule of B. Kripalani’s manuscript eloquence in the previous Lok Sabha.
 ---
 
+## Summary
+
+In this letter to the editor under the heading “Lok Sabha Speeches,” B. R. Vats criticizes the growing practice of Lok Sabha members reading prepared speeches. He argues that parliamentary debate should involve genuine discussion and response to other members’ arguments, rather than the delivery of pre-written texts—a convention he associates with the British House of Commons.
+
+Vats distinguishes between a member’s occasional use of notes and the routine reading of a manuscript. Citing May’s Parliamentary Practice, he says that members may read “bona fide unwritten compositions” when these take account of the arguments already made. He concludes by urging members to resist the temptation to read speeches that have no relation to the debate, while recalling the Prime Minister’s ridicule of B. Kripalani’s manuscript eloquence in the previous Lok Sabha.
+
 ## Key points
 
 - The letter objects to the increasing practice of reading written speeches in the Lok Sabha.

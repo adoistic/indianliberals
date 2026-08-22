@@ -48,6 +48,12 @@ summary: |-
   The letter cautions that Shri Lohia’s proposed no-confidence motion will have little purpose unless opposition parties concentrate on issues where broad agreement exists. Although the PSP and Jan Sangh have announced their readiness to support the motion, the sender prefers to await a meeting of the Congress Parliamentary Party and an informal meeting of opposition leaders before determining the appropriate course of action.
 ---
 
+## Summary
+
+This single-page letter, dated 28 June 1963 and addressed to “Dada (Kriplani),” responds to a proposal for exploring united action among democratic opposition parties. The unidentified sender endorses cooperation on a minimum programme but argues that recent public and impatient disagreements among allied parties have weakened the limited mutual trust built over the previous three parliamentary sessions.
+
+The letter cautions that Shri Lohia’s proposed no-confidence motion will have little purpose unless opposition parties concentrate on issues where broad agreement exists. Although the PSP and Jan Sangh have announced their readiness to support the motion, the sender prefers to await a meeting of the Congress Parliamentary Party and an informal meeting of opposition leaders before determining the appropriate course of action.
+
 ## Key points
 
 - The letter acknowledges receipt of a proposal for united action by democratic opposition parties.

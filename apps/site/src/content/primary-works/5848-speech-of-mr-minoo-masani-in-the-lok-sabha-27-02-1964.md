@@ -56,6 +56,12 @@ summary: |-
   In the rendered pages, Masani contrasts a shorter route across the northern perimeter of Saurashtra with an alternative through Morvi, Wankaner, and Surendranagar. He favours the latter because it would serve more people, stimulate industrialisation, and connect the railway to existing centres of economic activity, while urging the Railway Ministry not to let competing alternatives become an excuse for delay. The supplementary extract on pages 3–4 records Deputy Minister S. V. Ramaswamy’s reply: the government is assessing expected port and passenger traffic, the relative costs and benefits of the routes, and the need to use public funds prudently, but he assures the House that a decision will be taken and that Saurashtra will not be disappointed.
 ---
 
+## Summary
+
+In the rendered pages, H. R. Masani moves a cut motion on the 1964–65 Railway Budget to press for expedited construction of the broad-gauge link from Jhunda to Kandla and its alignment through Saurashtra. He argues that the existing metre-gauge network is inadequate for the region’s development and that a broad-gauge line should connect Kandla with Gujarat and Rajasthan as well as with heavily populated and industrial centres such as Morvi, Wankaner, and Surendranagar. Masani cites regional public opinion, a Rajkot Chamber of Commerce telegram, and the Gujarat Transport Parishad’s discussion of the project in support of an urgent decision.
+
+In the rendered pages, Masani contrasts a shorter route across the northern perimeter of Saurashtra with an alternative through Morvi, Wankaner, and Surendranagar. He favours the latter because it would serve more people, stimulate industrialisation, and connect the railway to existing centres of economic activity, while urging the Railway Ministry not to let competing alternatives become an excuse for delay. The supplementary extract on pages 3–4 records Deputy Minister S. V. Ramaswamy’s reply: the government is assessing expected port and passenger traffic, the relative costs and benefits of the routes, and the need to use public funds prudently, but he assures the House that a decision will be taken and that Saurashtra will not be disappointed.
+
 ## Key points
 
 - Masani supports a cut motion concerning the delayed broad-gauge connection between Jhunda and Kandla.

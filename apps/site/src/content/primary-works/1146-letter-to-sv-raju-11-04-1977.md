@@ -48,6 +48,12 @@ summary: |-
   The note indicates Masani has separately written to Girish, and asks Raju to inform "KH and Sanpat" so they can also be present. The letter is addressed C/o the Maharashtra Swatantra Party office, 143 Mahatma Gandhi Road, Bombay 1, situating the exchange within Masani's ongoing coordination with Swatantra Party colleagues in the years after the party's formal 1974 dissolution.
 ---
 
+## Summary
+
+A one-page typed letter from M. R. Masani to S. V. Raju dated 11 April 1977, following up on an earlier letter of April 4. Masani asks Raju to come to his office at Army & Navy Building on April 14 at 3 p.m. for a preliminary discussion of unspecified "matters under dispute."
+
+The note indicates Masani has separately written to Girish, and asks Raju to inform "KH and Sanpat" so they can also be present. The letter is addressed C/o the Maharashtra Swatantra Party office, 143 Mahatma Gandhi Road, Bombay 1, situating the exchange within Masani's ongoing coordination with Swatantra Party colleagues in the years after the party's formal 1974 dissolution.
+
 ## Key points
 
 - Short administrative letter from M. R. Masani to S. V. Raju, dated 11 April 1977.

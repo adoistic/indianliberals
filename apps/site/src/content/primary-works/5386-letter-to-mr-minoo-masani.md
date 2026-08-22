@@ -50,6 +50,10 @@ summary: |-
   This two-page English letter, issued from the Bharatiya Kranti Dal in Patna and signed by its president Mahamaya Prasad Sinha, invites Minoo Masani to participate in a proposed Conference of National Democratic Parties. The letter proposes bringing together parties and individuals committed to nationalism, secularism, and democratic socialism, presenting these principles as essential to India's security, integrity, and democratic life.
 ---
 
+## Summary
+
+This two-page English letter, issued from the Bharatiya Kranti Dal in Patna and signed by its president Mahamaya Prasad Sinha, invites Minoo Masani to participate in a proposed Conference of National Democratic Parties. The letter proposes bringing together parties and individuals committed to nationalism, secularism, and democratic socialism, presenting these principles as essential to India's security, integrity, and democratic life.
+
 ## Key points
 
 - The letter proposes a preliminary conference of national democratic parties and politically aligned individuals.

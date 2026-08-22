@@ -50,6 +50,12 @@ summary: |-
   The letter then reports administrative changes at the University of Agriculture and Technology, Orissa. The resignation of ex-Vice-Chancellor Dr. K. Ranjah has been accepted; Dr. B. Sauantral has been appointed Vice-Chancellor, and Dr. D. Misra has been appointed Registrar. Mishra also describes plans to transfer all agricultural research to the University, examine procedures used by other agricultural universities in India, and introduce a model Act based on comparable university statutes. The handwritten annotation on page 1 is not fully legible.
 ---
 
+## Summary
+
+In this two-page official letter dated 22 March 1968, R. B. Mishra, Orissa's Minister for Community Development and Panchayati Raj, Agriculture and Labour, replies to Dr. M. R. Masani about forthcoming meetings in Delhi. Mishra says he will try to arrive on 14 April to participate in discussions on 15 April, alongside the Parliamentary Board and National Executive meetings and the Labour Ministers' and Indian Labour conferences.
+
+The letter then reports administrative changes at the University of Agriculture and Technology, Orissa. The resignation of ex-Vice-Chancellor Dr. K. Ranjah has been accepted; Dr. B. Sauantral has been appointed Vice-Chancellor, and Dr. D. Misra has been appointed Registrar. Mishra also describes plans to transfer all agricultural research to the University, examine procedures used by other agricultural universities in India, and introduce a model Act based on comparable university statutes. The handwritten annotation on page 1 is not fully legible.
+
 ## Key points
 
 - Mishra acknowledges Masani's invitation to attend meetings in Delhi in April 1968.

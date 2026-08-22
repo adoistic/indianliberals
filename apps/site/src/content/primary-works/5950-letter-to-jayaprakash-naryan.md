@@ -46,6 +46,12 @@ summary: |-
   The message states that the sender will travel from Calcutta to Patna on Saturday, 2 November, arriving at 11:35 by flight IC 410. The document contains no political argument, explanation, or further correspondence.
 ---
 
+## Summary
+
+This single-page English express telegram is a confirmation copy dated 31 October 1974. It is addressed to Shri Jayaprakash Narayan at the Indian Express office, 9 Bahadur Shah Zafar Road, New Delhi 1. The sender is not identified on the page.
+
+The message states that the sender will travel from Calcutta to Patna on Saturday, 2 November, arriving at 11:35 by flight IC 410. The document contains no political argument, explanation, or further correspondence.
+
 ## Key points
 
 - The document is formatted as an express telegram and confirmation copy.

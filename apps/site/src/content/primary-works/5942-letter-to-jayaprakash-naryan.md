@@ -47,6 +47,12 @@ summary: |-
   Masani proposes instead to meet Narayan in Delhi on the 24th or in Bombay on the 30th or 31st, and asks Narayan to wire his preference. The scan contains no printed title, salutation, complimentary close, or further correspondence.
 ---
 
+## Summary
+
+This one-page English telegram-like communication from Minoo Masani to Jayaprakash Narayan is dated December 11, 1974, and is addressed to Narayan at Kadan Kuan, Patna 3. Masani regrets that he cannot see Narayan in Patna on the stated occasion because he is committed to a seminar in Delhi.
+
+Masani proposes instead to meet Narayan in Delhi on the 24th or in Bombay on the 30th or 31st, and asks Narayan to wire his preference. The scan contains no printed title, salutation, complimentary close, or further correspondence.
+
 ## Key points
 
 - The document is a one-page English telegram-like communication dated December 11, 1974.

@@ -49,6 +49,10 @@ summary: |-
   In this untitled letter dated May 20, 1975, S. V. Raju reports on discussions in Ahmedabad about the forthcoming Gujarat elections. Citing Prof. K. D. Desai’s assessment, he predicts that neither the Janata group nor the ruling Congress will secure an overwhelming majority, while Chimanlal Patel’s party may hold the balance. He also expects the Assembly to be short-lived, lasting no more than six months.
 ---
 
+## Summary
+
+In this untitled letter dated May 20, 1975, S. V. Raju reports on discussions in Ahmedabad about the forthcoming Gujarat elections. Citing Prof. K. D. Desai’s assessment, he predicts that neither the Janata group nor the ruling Congress will secure an overwhelming majority, while Chimanlal Patel’s party may hold the balance. He also expects the Assembly to be short-lived, lasting no more than six months.
+
 ## Key points
 
 - The letter concerns the political outlook for the forthcoming Gujarat elections.

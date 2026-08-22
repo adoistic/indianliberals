@@ -50,6 +50,12 @@ summary: |-
   The notice also records the party office’s concern that some members had recently signed memoranda alongside members of other parties whose positions differed from the Swatantra Party’s line on various matters. It is signed by K. S. Singh Deo as Whip and addressed to all members of the party.
 ---
 
+## Summary
+
+This one-page Swatantra Party parliamentary whip, dated May 3, 1968, reminds all party members of earlier circulars concerning public statements and joint memoranda. It instructs members not to issue statements to the press or sign memoranda with members of other parties without prior permission from the party, its Leader, or its Deputy Leader.
+
+The notice also records the party office’s concern that some members had recently signed memoranda alongside members of other parties whose positions differed from the Swatantra Party’s line on various matters. It is signed by K. S. Singh Deo as Whip and addressed to all members of the party.
+
 ## Key points
 
 - The document is a Swatantra Party parliamentary whip dated May 3, 1968.

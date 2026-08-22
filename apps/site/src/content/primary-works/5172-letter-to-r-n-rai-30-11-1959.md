@@ -44,6 +44,10 @@ summary: |-
   This one-page letter from M. R. Masani to R. N. Rai, dated 30 November 1959, acknowledges receipt of Rai's letter of 27 November (No. 51/11/59). Masani does not address the substance of Rai's proposal on the visible page, but suggests meeting in Calcutta to discuss the matter personally.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to R. N. Rai, dated 30 November 1959, acknowledges receipt of Rai's letter of 27 November (No. 51/11/59). Masani does not address the substance of Rai's proposal on the visible page, but suggests meeting in Calcutta to discuss the matter personally.
+
 ## Key points
 
 - The letter is dated 30 November 1959.

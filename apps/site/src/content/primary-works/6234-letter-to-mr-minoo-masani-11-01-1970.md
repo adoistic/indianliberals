@@ -49,6 +49,12 @@ summary: |-
   The letter also notes that the State Executive will meet in Rourkela on the same occasion and requests an early reply. It is typed on Swatantra Party (Orissa Unit) letterhead from Bhubaneswar and bears a handwritten signature.
 ---
 
+## Summary
+
+This one-page English office letter, dated 11 January 1970, is from G. R. Majhi, General Secretary of the Swatantra Party (Orissa Unit), to M. R. Masani, President of the All India Swatantra Party. Majhi invites Masani to attend the Sundargarh District Workers’ Conference in Rourkela on 9–10 February 1970.
+
+The letter also notes that the State Executive will meet in Rourkela on the same occasion and requests an early reply. It is typed on Swatantra Party (Orissa Unit) letterhead from Bhubaneswar and bears a handwritten signature.
+
 ## Key points
 
 - The letter is dated 11 January 1970 and carries reference number 222/70.

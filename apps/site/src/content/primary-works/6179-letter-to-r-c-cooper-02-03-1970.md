@@ -48,6 +48,12 @@ summary: |-
   Masani also notes that he will be in Bombay from the afternoon of 4 April through the weekend and proposes meeting his correspondent on the morning of 5 April. The letter is addressed to “Russi” and copied in its closing address to Dr. R. C. Cooper, Bombay. It is an administrative communication focused on coordinating party leadership and parliamentary organisational work.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani, written on Swatantra Party National Headquarters letterhead and dated 2 March 1970, concerns the scheduling of the party's next National Executive meeting. Masani proposes meeting after the Rajya Sabha elections and the adjournment of the Gujarat Assembly, suggesting 11 and 12 April in Delhi and asking the recipient to keep those dates free.
+
+Masani also notes that he will be in Bombay from the afternoon of 4 April through the weekend and proposes meeting his correspondent on the morning of 5 April. The letter is addressed to “Russi” and copied in its closing address to Dr. R. C. Cooper, Bombay. It is an administrative communication focused on coordinating party leadership and parliamentary organisational work.
+
 ## Key points
 
 - Masani writes from the Swatantra Party National Headquarters in Bombay on 2 March 1970.

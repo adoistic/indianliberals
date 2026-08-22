@@ -57,6 +57,12 @@ summary: |-
   Masani’s central criticism is directed at the budget’s treatment of enterprise and capital. He attacks the wealth, expenditure, estate, gift, capital-gains, dividend, and surtax proposals as disincentives to saving, equity finance, and business expansion, and warns that tax secrecy reforms could facilitate blackmail and corruption. He supports an inquiry into monopoly and concentration, but insists that it cover public as well as private monopolies and operate without arbitrary industrial discrimination. The speech closes by arguing that the budget will not promote industrial or agricultural growth, will intensify inflation by favouring capital-intensive projects over labour-intensive employment, and neglects the poorest and weakest members of the population.
 ---
 
+## Summary
+
+In this speech delivered during the Lok Sabha’s general discussion of the Budget on 3 March 1964, Minoo Masani welcomes several stated government objectives—especially incentives for savings, capital formation, growth, and foreign equity—but argues that the budget’s detailed measures fail to follow through on those principles. He criticises the additional Rs.40 crore tax burden, saying indirect taxes will fall disproportionately on poor rural consumers, while direct-tax proposals and compulsory or annuity deposits will discourage investment and capital formation. He acknowledges limited relief for fixed-income taxpayers below Rs.15,000 annually, but regards it as inadequate and illusory for those above that threshold.
+
+Masani’s central criticism is directed at the budget’s treatment of enterprise and capital. He attacks the wealth, expenditure, estate, gift, capital-gains, dividend, and surtax proposals as disincentives to saving, equity finance, and business expansion, and warns that tax secrecy reforms could facilitate blackmail and corruption. He supports an inquiry into monopoly and concentration, but insists that it cover public as well as private monopolies and operate without arbitrary industrial discrimination. The speech closes by arguing that the budget will not promote industrial or agricultural growth, will intensify inflation by favouring capital-intensive projects over labour-intensive employment, and neglects the poorest and weakest members of the population.
+
 ## Key points
 
 - Masani welcomes the budget’s stated commitment to growth, savings, capital formation, and foreign equity, but finds a sharp contradiction between its principles and its operative proposals.

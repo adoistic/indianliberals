@@ -49,6 +49,12 @@ summary: |-
   The discussion focuses on the limited space available in the Parliament House Estate and on proposals for statues of Lala Lajpat Rai and Maulana Abul Kalam Azad. Members agree that the committee should not proceed hastily and suggest preparing a broader list of national leaders, including major parliamentarians and figures associated with Parliament. Names mentioned include Motilal Nehru, Chandra Gupta Maurya, Vithal Bhai Patel, Bhola Bhai Desai, S. Satyamurthi, and Dr. Ambedkar. The committee requests plans showing possible locations for statues, busts, and decorative statues, and adjourns at 16.15 hours.
 ---
 
+## Summary
+
+These two pages record the seventh meeting of the Jawaharlal Nehru Portrait Parliamentary Committee, held in the Speaker’s Chamber on 18 November 1965. The minutes list the committee members, invited officials, secretariat, and Ministry of Works and Housing representatives. The Minister explains that the Government has asked the committee to identify suitable sites in Delhi for statues of national leaders, with no expenditure to be incurred by the Government for installation.
+
+The discussion focuses on the limited space available in the Parliament House Estate and on proposals for statues of Lala Lajpat Rai and Maulana Abul Kalam Azad. Members agree that the committee should not proceed hastily and suggest preparing a broader list of national leaders, including major parliamentarians and figures associated with Parliament. Names mentioned include Motilal Nehru, Chandra Gupta Maurya, Vithal Bhai Patel, Bhola Bhai Desai, S. Satyamurthi, and Dr. Ambedkar. The committee requests plans showing possible locations for statues, busts, and decorative statues, and adjourns at 16.15 hours.
+
 ## Key points
 
 - The committee met on 18 November 1965 in the Speaker’s Chamber.

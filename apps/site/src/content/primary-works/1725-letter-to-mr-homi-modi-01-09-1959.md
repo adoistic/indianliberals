@@ -52,6 +52,12 @@ summary: |-
   The letter also records an early financial discussion about the Swatantra Party’s regional organisation. Rajaji believes that each regional organisation will initially need a subsidy of at least Rs. 5,000, while Krishnaswamy reports that the party’s funds are scarce and asks Modi for his views. The document therefore offers a brief, practical glimpse of party-building, financial constraints, and organisational delegation at the party’s founding stage.
 ---
 
+## Summary
+
+This one-page English letter, dated 7 September 1959 and signed by S. Y. Krishnaswamy on Swatantra Party letterhead, is addressed to Sir Homi P. Modi. Krishnaswamy forwards a circular issued by C. Rajagopalachari (“Rajaji”) and warns that the resulting administrative work will require Modi to sign all the party’s money orders, suggesting that he delegate this responsibility to someone else.
+
+The letter also records an early financial discussion about the Swatantra Party’s regional organisation. Rajaji believes that each regional organisation will initially need a subsidy of at least Rs. 5,000, while Krishnaswamy reports that the party’s funds are scarce and asks Modi for his views. The document therefore offers a brief, practical glimpse of party-building, financial constraints, and organisational delegation at the party’s founding stage.
+
 ## Key points
 
 - The letter was sent by S. Y. Krishnaswamy from Madras on 7 September 1959.

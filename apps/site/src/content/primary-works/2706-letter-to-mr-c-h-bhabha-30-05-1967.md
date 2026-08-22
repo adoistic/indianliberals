@@ -45,6 +45,10 @@ summary: |-
   In this one-page letter dated May 30, 1967, M. R. Masani writes to Cooverji H. Bhabha about a possible visit to Orissa. Masani reports that R. N. Singh Deo, the state's Chief Minister, is expected to be in Bhubaneshwar on June 24 and 25, and says he has written to Singh Deo to discuss the proposed visit.
 ---
 
+## Summary
+
+In this one-page letter dated May 30, 1967, M. R. Masani writes to Cooverji H. Bhabha about a possible visit to Orissa. Masani reports that R. N. Singh Deo, the state's Chief Minister, is expected to be in Bhubaneshwar on June 24 and 25, and says he has written to Singh Deo to discuss the proposed visit.
+
 ## Key points
 
 - The letter is dated May 30, 1967.

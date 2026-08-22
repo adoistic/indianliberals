@@ -48,6 +48,12 @@ summary: |-
   Masani emphasizes that he is mentioning the logistical difficulties only to avoid appearing insufficiently cooperative. He regrets that he will have to postpone his Mangalore visit for another day and closes by wishing the conference success, sending regards to Hegde and to Mr. Lobo Prabhu. The page also copies Prabhu Lobo and K. Ugappa Shetty, both associated with the Swatantra Party.
 ---
 
+## Summary
+
+In this letter dated 21 October 1959, M. R. Masani explains to K. B. Jinaraja Hegde that he cannot travel from Bombay to Mangalore for the conference because no air passage is available on 25 October and he has commitments that cannot be left at such short notice. He notes that the invitation reached him too late: had he known earlier, he could have arranged to arrive on the 5th or secured an air passage in advance.
+
+Masani emphasizes that he is mentioning the logistical difficulties only to avoid appearing insufficiently cooperative. He regrets that he will have to postpone his Mangalore visit for another day and closes by wishing the conference success, sending regards to Hegde and to Mr. Lobo Prabhu. The page also copies Prabhu Lobo and K. Ugappa Shetty, both associated with the Swatantra Party.
+
 ## Key points
 
 - Masani declines an invitation to attend a conference in Mangalore on account of unavailable air travel.

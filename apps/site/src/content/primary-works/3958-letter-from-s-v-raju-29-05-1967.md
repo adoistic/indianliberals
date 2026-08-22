@@ -52,6 +52,12 @@ summary: |-
   The letter asks state units to restart sending regular reports of party activities, with material due by the 10th of each month for publication in the following month's issue. It gives a concrete schedule—reports of May activities were requested by 10 June for inclusion in the July issue—and closes by urging recipients to submit reports regularly and on time.
 ---
 
+## Summary
+
+This one-page Central Office Circular of the Swatantra Party, dated 29 May 1967, announces that the Swatantra Newsletter will resume publication in June 1967 after having been suspended since July 1966 because of pressure of work. Signed by Executive Secretary S. V. Raju, the circular explains that the June issue will not include news from state units because of limited time.
+
+The letter asks state units to restart sending regular reports of party activities, with material due by the 10th of each month for publication in the following month's issue. It gives a concrete schedule—reports of May activities were requested by 10 June for inclusion in the July issue—and closes by urging recipients to submit reports regularly and on time.
+
 ## Key points
 
 - The Swatantra Newsletter had been suspended since July 1966.

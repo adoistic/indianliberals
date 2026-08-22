@@ -53,6 +53,12 @@ summary: |-
   The letter argues that creating a genuine alternative to Congress requires political honesty and public rejection of unscrupulous politicians. It refers to the Swatantra Party’s expulsion of R. V. Singh for allegedly bribing his electorate while heading a Swatantra government, and asks whether that incident proves the party itself was dishonest. The letter also mentions a proposed Tamil Nadu Swatantra Party alliance involving D. P. and J. P. and expresses the writer’s hope of meeting the recipient in Madras. The remaining scans are heterogeneous: they include a typed list of restaurants, a typed committee document concerning railway fares, municipal elections, and Tamil Nadu food-grain policy, and a separate handwritten Hindi letter whose full context and relationship to the English letter cannot be established from the scan alone.
 ---
 
+## Summary
+
+The principal document in this scan is a handwritten English letter dated 18 November 1974, addressed “Dear Sir” and signed “Jayaprakash,” although the sender’s identity and the role of “P. Rengaswami” at the top of the page require verification. The writer thanks the recipient for a previous letter and clarifies a disagreement about honesty in politics. While agreeing that honesty ultimately pays, the writer questions how the Bharatiya Lok Dal can claim to represent a clean political alternative when dishonest or self-serving elements may exist within it.
+
+The letter argues that creating a genuine alternative to Congress requires political honesty and public rejection of unscrupulous politicians. It refers to the Swatantra Party’s expulsion of R. V. Singh for allegedly bribing his electorate while heading a Swatantra government, and asks whether that incident proves the party itself was dishonest. The letter also mentions a proposed Tamil Nadu Swatantra Party alliance involving D. P. and J. P. and expresses the writer’s hope of meeting the recipient in Madras. The remaining scans are heterogeneous: they include a typed list of restaurants, a typed committee document concerning railway fares, municipal elections, and Tamil Nadu food-grain policy, and a separate handwritten Hindi letter whose full context and relationship to the English letter cannot be established from the scan alone.
+
 ## Key points
 
 - The principal English letter is dated 18 November 1974 and is signed “Jayaprakash,” though attribution is uncertain.

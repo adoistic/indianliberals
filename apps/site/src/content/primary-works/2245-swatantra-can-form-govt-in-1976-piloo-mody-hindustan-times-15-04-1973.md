@@ -54,6 +54,12 @@ summary: |-
   The report also records criticism of India’s democratic and constitutional direction. Mody says the democratic fabric is being worn thin by the ruling party’s alleged violations of law and Constitution, while Minoo Masani calls for a more radical opposition to the socialist establishment, Marxist dogma, and bureaucratic state capitalism. Masani additionally criticises the party’s Orissa leadership, particularly its alignment with Biju Patnaik, and alleges that the state government failed to act properly in a judicial investigation. The summary is limited to this single newspaper clipping; it contains no byline or additional surrounding context.
 ---
 
+## Summary
+
+This 15 April 1973 Hindustan Times report covers Piloo Mody’s address to the Swatantra Party’s sixth national convention in Madras. Mody argues that the party could win 300 seats in the 1976 parliamentary elections and form the government, presenting Swatantra as distinct from other parties because it places the individual, rather than the state or party, at the centre of society. He links development to local initiative, the effective use of resources, managerial skills, and the mobilisation of human energy.
+
+The report also records criticism of India’s democratic and constitutional direction. Mody says the democratic fabric is being worn thin by the ruling party’s alleged violations of law and Constitution, while Minoo Masani calls for a more radical opposition to the socialist establishment, Marxist dogma, and bureaucratic state capitalism. Masani additionally criticises the party’s Orissa leadership, particularly its alignment with Biju Patnaik, and alleges that the state government failed to act properly in a judicial investigation. The summary is limited to this single newspaper clipping; it contains no byline or additional surrounding context.
+
 ## Key points
 
 - Piloo Mody predicted that the Swatantra Party could win 300 parliamentary seats and form a government in 1976.

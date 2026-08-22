@@ -50,6 +50,12 @@ summary: |-
   The resolution also commends the humanitarian and selfless service of the Swamies of Anand Marg, as well as the “spirited and honest service” of the state government’s administrative staff. The page presents these measures as evidence of responsible and ethical governance, but gives no date, named mover, or further policy discussion.
 ---
 
+## Summary
+
+This one-page English resolution records the Swatantra Party General Council’s unanimous appreciation of the Orissa Government’s performance. It specifically praises the abolition of land revenue and panchayat taxes, the adoption of a Code of Conduct for Ministers, the administration of cyclone-relief work, and what it calls “clean administration.”
+
+The resolution also commends the humanitarian and selfless service of the Swamies of Anand Marg, as well as the “spirited and honest service” of the state government’s administrative staff. The page presents these measures as evidence of responsible and ethical governance, but gives no date, named mover, or further policy discussion.
+
 ## Key points
 
 - The Swatantra Party General Council unanimously adopted the resolution.

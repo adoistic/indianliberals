@@ -53,6 +53,12 @@ summary: |-
   Masani also argues that the front partners could form a coalition government at the Centre despite campaigning on separate manifestos. He says they had accepted the AICC (O) resolution of June 28 as a common basis for economic progress and the welfare of the common person, while alleging that Congress (O) workers in Rajkot District were working wholeheartedly for the coalition's success and that Vallabhbhai Patel and others were not assisting them. The item is a news report of Masani's statements, not a formally signed essay.
 ---
 
+## Summary
+
+This one-page Bharat Jyoti clipping, datelined Ahmedabad, February 13, reports remarks by Swatantra Party president Minoo Masani at a North Ahmedabad Junior Chamber meeting. Masani contrasts Indira Gandhi's alleged communism with the four-party front's stated commitment to Mahatma Gandhi's socialism, and attacks the Prime Minister's reported intention to amend the Constitution and remove the fundamental right to property.
+
+Masani also argues that the front partners could form a coalition government at the Centre despite campaigning on separate manifestos. He says they had accepted the AICC (O) resolution of June 28 as a common basis for economic progress and the welfare of the common person, while alleging that Congress (O) workers in Rajkot District were working wholeheartedly for the coalition's success and that Vallabhbhai Patel and others were not assisting them. The item is a news report of Masani's statements, not a formally signed essay.
+
 ## Key points
 
 - Minoo Masani is reported as criticizing Indira Gandhi's association with communism.

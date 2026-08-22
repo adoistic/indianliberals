@@ -46,6 +46,12 @@ summary: |-
   The enclosure is a formal certification addressed to the RTO Recovery Branch concerning Jeep No. MRA 4093. It states that the vehicle was purchased from the General Secretary of the Swatantra Party in 1967. The document is administrative and narrowly focused on providing evidence of the vehicle's ownership history.
 ---
 
+## Summary
+
+This two-page English letter, dated December 7, 1979, was written by S. V. Raju to Mr. P. K. Deo. Raju acknowledges Deo's letter of November 22 and says he is writing to Ghasirambabu as suggested. He also thanks Deo for offering to write to the Regional Transport Office in Bombay and encloses a draft for that purpose.
+
+The enclosure is a formal certification addressed to the RTO Recovery Branch concerning Jeep No. MRA 4093. It states that the vehicle was purchased from the General Secretary of the Swatantra Party in 1967. The document is administrative and narrowly focused on providing evidence of the vehicle's ownership history.
+
 ## Key points
 
 - S. V. Raju's letter is dated December 7, 1979, and addressed to Mr. P. K. Deo.

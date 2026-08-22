@@ -52,6 +52,12 @@ summary: |-
   The enclosed telegram, dated 12 March 1975, urges Narayan to issue a statement of solidarity with the Vellore Hospital doctors and students. It characterizes their struggle as being against corruption, trade-union violence, and police hostility, and identifies the arrest of Doctor Mathias as an instance requiring condemnation. The document presents the hospital dispute as a civil-liberties and anti-corruption matter involving alleged political and police intimidation.
 ---
 
+## Summary
+
+In this letter dated 13 March 1975, Minoo Masani writes to Jayaprakash Narayan about what he calls the “ugly situation” developing at Vellore Hospital. He reports that doctors and students are being persecuted by Karunanidhi and his supporters, allegedly with the backing of local police, and asks Narayan to act publicly and privately on their behalf. Masani encloses a copy of his telegram, a clipping from that morning’s Times of India, and a clipping of a recent talk to the Junior Chamber of Commerce in Bombay.
+
+The enclosed telegram, dated 12 March 1975, urges Narayan to issue a statement of solidarity with the Vellore Hospital doctors and students. It characterizes their struggle as being against corruption, trade-union violence, and police hostility, and identifies the arrest of Doctor Mathias as an instance requiring condemnation. The document presents the hospital dispute as a civil-liberties and anti-corruption matter involving alleged political and police intimidation.
+
 ## Key points
 
 - Masani’s covering letter is dated 13 March 1975 and addressed to Jayaprakash Narayan.

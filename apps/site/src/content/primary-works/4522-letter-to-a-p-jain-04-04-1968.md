@@ -49,6 +49,12 @@ summary: |-
   Masani says that he will provide more information about the Madras proceedings when he comes to Delhi on 1 July for Parliamentary Accounts Committee meetings. In the meantime, he directs Jain to reports in The Hindu and The Times of India, which he considers reasonably accurate. The letter is signed from the Swatantra Party Parliamentary Office context and offers only a brief update rather than a substantive discussion of policy.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to A. P. Jain is dated 4 June 1968. Masani acknowledges Jain's letters of 25 and 29 May and thanks him for sending newspaper clippings, noting that some were unfamiliar to him.
+
+Masani says that he will provide more information about the Madras proceedings when he comes to Delhi on 1 July for Parliamentary Accounts Committee meetings. In the meantime, he directs Jain to reports in The Hindu and The Times of India, which he considers reasonably accurate. The letter is signed from the Swatantra Party Parliamentary Office context and offers only a brief update rather than a substantive discussion of policy.
+
 ## Key points
 
 - Masani writes to A. P. Jain on 4 June 1968.

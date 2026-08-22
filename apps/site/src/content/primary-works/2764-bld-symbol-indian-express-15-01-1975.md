@@ -50,6 +50,10 @@ summary: |-
   This two-page archival composite contains a short Indian Express news clipping titled “BLD symbol” and a separate printed electoral-roll form. The clipping reports that the Election Commission had decided to recognise the newly formed Bharatiya Lok Dal (BLD) as a national party for purposes of the Symbols Order. It also says that the Commission would separately reserve a symbol for the party after receiving particulars from it.
 ---
 
+## Summary
+
+This two-page archival composite contains a short Indian Express news clipping titled “BLD symbol” and a separate printed electoral-roll form. The clipping reports that the Election Commission had decided to recognise the newly formed Bharatiya Lok Dal (BLD) as a national party for purposes of the Symbols Order. It also says that the Commission would separately reserve a symbol for the party after receiving particulars from it.
+
 ## Key points
 
 - The Election Commission decided to recognise the Bharatiya Lok Dal as a national party.

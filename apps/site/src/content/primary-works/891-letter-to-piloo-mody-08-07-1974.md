@@ -50,6 +50,12 @@ summary: |-
   Masani explains that the draft is designed to facilitate the future activities of those holding conflicting views without legitimising one position over another. Its central proposal is that the party should transform itself from an ongoing political party into a non-party organisation, thereby dropping the question of formal dissolution. He says this approach can succeed only if both Mody and those who wish to continue the party as a political organisation are willing to accept and adapt to it.
 ---
 
+## Summary
+
+In this one-page letter dated July 8, 1974, Minoo Masani writes to Piloo Mody about a draft resolution intended for possible presentation at the Swatantra Party's National Convention on August 4. Masani invites Mody's comments and suggestions, with the aim of developing a consensus among competing views within the party.
+
+Masani explains that the draft is designed to facilitate the future activities of those holding conflicting views without legitimising one position over another. Its central proposal is that the party should transform itself from an ongoing political party into a non-party organisation, thereby dropping the question of formal dissolution. He says this approach can succeed only if both Mody and those who wish to continue the party as a political organisation are willing to accept and adapt to it.
+
 ## Key points
 
 - Masani sends Piloo Mody a tentative draft resolution for comment.

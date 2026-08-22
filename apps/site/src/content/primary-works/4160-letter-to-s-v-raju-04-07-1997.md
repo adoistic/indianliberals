@@ -53,6 +53,12 @@ summary: |-
   Raghaw maintains that Parliament lacked jurisdiction to amend the Preamble because the Preamble precedes the Constitution and is not itself a constitutional provision, even though Article 368 permits constitutional amendment. He calls Section 29(a) unconstitutional and says the writ should succeed, while acknowledging that pursuing the matter would require legal acumen and craftsmanship. The letter closes with a personal recollection of his years devoted to the Swatantra Party in Gujarat and Rajasthan and an offer to assist Raju.
 ---
 
+## Summary
+
+This 4 July 1997 letter from Rajasthan High Court advocate Mohan Singh Raghaw to S. V. Raju, editor of Freedom First, discusses constitutional challenges then before the Rajasthan High Court. Raghaw reports that a writ petition concerning the Forty-Second Constitutional Amendment of 1976 and its addition of “Socialism” to the Preamble had been dismissed, while a separate challenge to the addition of “Secularism” was expected to be heard later that month. He argues that the constitutional amendment should be challenged before pursuing a related challenge to Section 29(a) of the Representation of the People Act, 1951, concerning the registration of political parties.
+
+Raghaw maintains that Parliament lacked jurisdiction to amend the Preamble because the Preamble precedes the Constitution and is not itself a constitutional provision, even though Article 368 permits constitutional amendment. He calls Section 29(a) unconstitutional and says the writ should succeed, while acknowledging that pursuing the matter would require legal acumen and craftsmanship. The letter closes with a personal recollection of his years devoted to the Swatantra Party in Gujarat and Rajasthan and an offer to assist Raju.
+
 ## Key points
 
 - Raghaw writes to S. V. Raju on 4 July 1997 about constitutional writ petitions.

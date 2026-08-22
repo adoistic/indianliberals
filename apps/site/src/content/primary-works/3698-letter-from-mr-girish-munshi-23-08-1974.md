@@ -50,6 +50,12 @@ summary: |-
   Munshi asks Bhatia to confirm by August 26 that the premises will be handed over to the Maharashtra Swatantra Party, or otherwise made available to another party not connected with it. He frames the letter as formal notice to return the space allocated to the national headquarters and states that, if the central party continues under another arrangement, the national headquarters will be permitted to occupy the premises.
 ---
 
+## Summary
+
+This one-page letter, dated August 23, 1974, is addressed by Girish Munshi, General Secretary of the Swatantra Party, to V. P. Bhatia, the party's Executive Secretary at its national headquarters. Munshi informs Bhatia that the Swatantra Party at the Centre will cease to exist from August 29, 1974, and therefore the national headquarters office space in Bombay will no longer be required by the central organisation.
+
+Munshi asks Bhatia to confirm by August 26 that the premises will be handed over to the Maharashtra Swatantra Party, or otherwise made available to another party not connected with it. He frames the letter as formal notice to return the space allocated to the national headquarters and states that, if the central party continues under another arrangement, the national headquarters will be permitted to occupy the premises.
+
 ## Key points
 
 - The letter is dated August 23, 1974, and is issued on Swatantra Party, Maharashtra letterhead from Bombay.

@@ -50,6 +50,12 @@ summary: |-
   Masani then urges Joshi to attend forthcoming party meetings: the National Executive on April 16 and the General Council on April 17 and 18. He notes that the meetings have been moved from Madras to Bombay so that Joshi and other colleagues can attend, and asks her to make a special effort to come.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani to Kusum Kumari Joshi, dated March 24, 1971, responds to Joshi's analysis of the Swatantra Party's electoral defeat. Masani describes the analysis as partly valuable but sharply qualified, and expresses hope that writing it has been cathartic.
+
+Masani then urges Joshi to attend forthcoming party meetings: the National Executive on April 16 and the General Council on April 17 and 18. He notes that the meetings have been moved from Madras to Bombay so that Joshi and other colleagues can attend, and asks her to make a special effort to come.
+
 ## Key points
 
 - Masani acknowledges receiving Joshi's letter to Morarji Desai and her notes on the reasons for the party's electoral defeat.

@@ -52,6 +52,12 @@ summary: |-
   In the attached letter to Orissa Chief Minister R. N. Singh Deo, Masani argues that the state publishing system was inherited from the previous government and conflicts with his party’s opposition to government publication of textbooks. He asks the Education Minister to restore the normal process of private printing and publishing, characterising the state monopoly as an “undoubted failure throughout India.” Because the syllabus and textbooks were due to change in 1969, he presents the coming revision as an opportunity to change policy.
 ---
 
+## Summary
+
+This three-page letter dated 20 June 1968 records M. R. Masani’s appeal to the Orissa government to end its monopoly over textbook publication. In the covering note to Commerce, Home and Education Minister Harihar Patel, Masani forwards an appeal from the Orissa Printers and Publishers Association, represented by its president, S. Mahapatra, against the government’s textbook policy and the accompanying “nationalisation” of textbooks.
+
+In the attached letter to Orissa Chief Minister R. N. Singh Deo, Masani argues that the state publishing system was inherited from the previous government and conflicts with his party’s opposition to government publication of textbooks. He asks the Education Minister to restore the normal process of private printing and publishing, characterising the state monopoly as an “undoubted failure throughout India.” Because the syllabus and textbooks were due to change in 1969, he presents the coming revision as an opportunity to change policy.
+
 ## Key points
 
 - Masani’s covering note forwards a printers’ and publishers’ appeal to Orissa’s education authorities.

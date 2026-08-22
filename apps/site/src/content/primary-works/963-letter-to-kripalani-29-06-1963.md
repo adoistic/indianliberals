@@ -51,6 +51,12 @@ summary: |-
   The letter nevertheless urges Kripalani not to abandon the project. Rajagopalachari proposes “Good Government” as a simple, mass-appeal issue around which the opposition could unite, including the possibility of a parliamentary no-confidence motion. He suggests that this framing would target the ruling party's alleged failure to provide Indians with the good government they most needed while leaving the Communists politically embarrassed.
 ---
 
+## Summary
+
+In this personal and confidential letter dated 29 June 1963, C. Rajagopalachari warns H. B. Kripalani that Jayaprakash Narayan's recent statements could undermine efforts to build an anti-Congress United Front. Rajagopalachari argues that conducting these efforts publicly, and involving figures outside Parliament, may allow Congress to portray the opposition's successes—including the result at Amroha—as a defeat and strengthen Jawaharlal Nehru's criticism of the coalition as a motley mixture.
+
+The letter nevertheless urges Kripalani not to abandon the project. Rajagopalachari proposes “Good Government” as a simple, mass-appeal issue around which the opposition could unite, including the possibility of a parliamentary no-confidence motion. He suggests that this framing would target the ruling party's alleged failure to provide Indians with the good government they most needed while leaving the Communists politically embarrassed.
+
 ## Key points
 
 - Rajagopalachari criticizes Jayaprakash Narayan's public statements concerning the formation of an anti-Congress United Front.

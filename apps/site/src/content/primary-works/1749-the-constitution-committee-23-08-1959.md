@@ -51,6 +51,10 @@ summary: |-
   This two-page English-language office record documents a Constitution Committee meeting held in Bombay on 23 August 1959. Prof. N. G. Ranga is identified as chairman, and the attendees include Shri G. N. Lawande, Shri M. R. Masani, and several names obscured by the scan. Shri M. H. Masani is recorded as absent but having submitted his views in a note. The note discusses a draft constitution prepared by Shri M. R. Masani, the aims of the party, membership, organisation, elections, subscriptions, and preparation of a new draft.
 ---
 
+## Summary
+
+This two-page English-language office record documents a Constitution Committee meeting held in Bombay on 23 August 1959. Prof. N. G. Ranga is identified as chairman, and the attendees include Shri G. N. Lawande, Shri M. R. Masani, and several names obscured by the scan. Shri M. H. Masani is recorded as absent but having submitted his views in a note. The note discusses a draft constitution prepared by Shri M. R. Masani, the aims of the party, membership, organisation, elections, subscriptions, and preparation of a new draft.
+
 ## Key points
 
 - The committee met in Bombay on 23 August 1959 under the chairmanship of Prof. N. G. Ranga.

@@ -50,6 +50,12 @@ summary: |-
   The dispatch's rhetorical bite lies in Bakht's characterisation that the defaulters include parties 'both existent and non-existent' — implying that outfits which have already ceased to function politically are still holding, and failing to pay for, public premises. The clipping is preserved in the Forum of Free Enterprise's cuttings file with a manuscript note 'Discuss with MRP' (M. R. Pai) and a top-corner underline flagging the Swatantra Party's inclusion, indicating the item was pulled for internal review of party financial discipline and misuse of public property.
 ---
 
+## Summary
+
+A brief news dispatch clipped from the Indian Express of 4 May 1978, filed out of New Delhi on the UNI wire, reporting Union Minister for Works and Housing Sikander Bakht's reply in the Rajya Sabha on unpaid rent by political parties occupying government-allotted accommodation. As of 31 March 1978, ten parties — ranging from the ruling Janata Party and its BKD partner to the two Communist parties, the DMK, Swatantra and Congress (O) — still owed the exchequer sums between a few hundred and roughly eleven thousand rupees.
+
+The dispatch's rhetorical bite lies in Bakht's characterisation that the defaulters include parties 'both existent and non-existent' — implying that outfits which have already ceased to function politically are still holding, and failing to pay for, public premises. The clipping is preserved in the Forum of Free Enterprise's cuttings file with a manuscript note 'Discuss with MRP' (M. R. Pai) and a top-corner underline flagging the Swatantra Party's inclusion, indicating the item was pulled for internal review of party financial discipline and misuse of public property.
+
 ## Key points
 
 - One-page news brief dated 4 May 1978, sourced from a UNI wire dispatch filed from New Delhi on 3 May.

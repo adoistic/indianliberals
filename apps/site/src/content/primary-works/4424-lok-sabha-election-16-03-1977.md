@@ -56,6 +56,10 @@ summary: |-
   This four-page English campaign leaflet appeals to voters in Bombay-South to support Ratansinh Rajda, identified as the Janata Party candidate for the 16 March 1977 Lok Sabha election. The cover presents Rajda as a High Court advocate and uses the Janata Party symbol throughout the leaflet. The campaign frames the election as an opportunity to join a wider movement led by Jayaprakash Narayan and Morarji Desai.
 ---
 
+## Summary
+
+This four-page English campaign leaflet appeals to voters in Bombay-South to support Ratansinh Rajda, identified as the Janata Party candidate for the 16 March 1977 Lok Sabha election. The cover presents Rajda as a High Court advocate and uses the Janata Party symbol throughout the leaflet. The campaign frames the election as an opportunity to join a wider movement led by Jayaprakash Narayan and Morarji Desai.
+
 ## Key points
 
 - The leaflet promotes Ratansinh Rajda as the Janata Party candidate in the Bombay-South constituency.

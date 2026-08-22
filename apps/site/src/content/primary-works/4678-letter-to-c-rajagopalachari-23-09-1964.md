@@ -51,6 +51,10 @@ summary: |-
   In this letter dated 23 September 1964, M. R. Masani tells C. Rajagopalachari about comments he made to Sabavala of the Christian Science Monitor concerning Bakshi's arrest in Kashmir. Masani explains that he avoided commenting on the matter in an upcoming Foreign Affairs debate because Ranga was scheduled to speak on Friday, but sets out the position he had taken in the interview.
 ---
 
+## Summary
+
+In this letter dated 23 September 1964, M. R. Masani tells C. Rajagopalachari about comments he made to Sabavala of the Christian Science Monitor concerning Bakshi's arrest in Kashmir. Masani explains that he avoided commenting on the matter in an upcoming Foreign Affairs debate because Ranga was scheduled to speak on Friday, but sets out the position he had taken in the interview.
+
 ## Key points
 
 - Masani describes India's position in Kashmir as politically untenable.

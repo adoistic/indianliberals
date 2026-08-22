@@ -45,6 +45,10 @@ summary: |-
   A brief typewritten note of 29 March 1971 from M. R. Masani to Mr. Yaskov Morris, the Israeli Consul in Bombay, acknowledging Morris's letter of 17 March and the expression of solidarity it carried. Masani apologises that whatever modest work he had been able to do in Parliament to strengthen friendship between India and Israel may no longer be possible, but promises that he will certainly continue to do whatever he can outside the legislature. The letter is signed off cordially, thanking Morris for having taken the trouble to write.
 ---
 
+## Summary
+
+A brief typewritten note of 29 March 1971 from M. R. Masani to Mr. Yaskov Morris, the Israeli Consul in Bombay, acknowledging Morris's letter of 17 March and the expression of solidarity it carried. Masani apologises that whatever modest work he had been able to do in Parliament to strengthen friendship between India and Israel may no longer be possible, but promises that he will certainly continue to do whatever he can outside the legislature. The letter is signed off cordially, thanking Morris for having taken the trouble to write.
+
 ## Key points
 
 - One-page personal letter dated 29 March 1971, addressed from Masani to Yaskov Morris, Consul for Israel, at 'Kailas', 50 Pedder Road, Bombay 26.

@@ -50,6 +50,10 @@ summary: |-
   This two-page institutional document records the Maharashtra State Council of the Swatantra Party’s opposition to dissolving the party as part of a proposed merger with six other parties. The resolution, adopted in Bombay on 6 July 1974, argues that the Swatantra Party’s principles and policies remain valid and that a new coalition based on a vague general programme would not provide a genuine national alternative. It also warns that the continued existence of both the Congress and the Jana Sangh would undermine the prospect of a competitive two-party system.
 ---
 
+## Summary
+
+This two-page institutional document records the Maharashtra State Council of the Swatantra Party’s opposition to dissolving the party as part of a proposed merger with six other parties. The resolution, adopted in Bombay on 6 July 1974, argues that the Swatantra Party’s principles and policies remain valid and that a new coalition based on a vague general programme would not provide a genuine national alternative. It also warns that the continued existence of both the Congress and the Jana Sangh would undermine the prospect of a competitive two-party system.
+
 ## Key points
 
 - The Maharashtra State Council rejects the proposal to dissolve the Swatantra Party.

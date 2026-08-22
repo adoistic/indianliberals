@@ -51,6 +51,12 @@ summary: |-
   Masani expresses regret about the outcome of the recent Delhi Municipal elections, while noting that Pasricha's efforts appeared positive. He argues that Pasricha's resignation is not pointless, because it may enable a younger and fresher person to take over and revive the party. The letter refers to the General Council and encourages Pasricha to attend the Bombay meetings despite his resignation.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to Lt. Col. H. R. Pasricha, dated 7 April 1971, urges Pasricha to attend Swatantra Party meetings in Bombay scheduled for 16–18 April. Masani presents the meetings as an opportunity to help shape the party's future and praises Pasricha as one of the few people who thinks independently and speaks “freely and fearlessly.”
+
+Masani expresses regret about the outcome of the recent Delhi Municipal elections, while noting that Pasricha's efforts appeared positive. He argues that Pasricha's resignation is not pointless, because it may enable a younger and fresher person to take over and revive the party. The letter refers to the General Council and encourages Pasricha to attend the Bombay meetings despite his resignation.
+
 ## Key points
 
 - Masani asks Pasricha to attend Swatantra Party meetings in Bombay on 16, 17, and 18 April 1971.

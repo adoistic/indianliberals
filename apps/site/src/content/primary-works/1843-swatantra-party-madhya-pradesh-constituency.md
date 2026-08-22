@@ -51,6 +51,10 @@ summary: |-
   This two-page typed office record lists prospective Swatantra Party members and supporters in Madhya Pradesh, giving their names, addresses, occupations or credentials, and brief organisational remarks. The entries span Jabalpur, Ratlam, Ujjain, Indore, Bhopal, Gwalior, Mandla, Raisen, and other places. Many individuals offer to join, organise locally, recruit others, or support a forthcoming convention.
 ---
 
+## Summary
+
+This two-page typed office record lists prospective Swatantra Party members and supporters in Madhya Pradesh, giving their names, addresses, occupations or credentials, and brief organisational remarks. The entries span Jabalpur, Ratlam, Ujjain, Indore, Bhopal, Gwalior, Mandla, Raisen, and other places. Many individuals offer to join, organise locally, recruit others, or support a forthcoming convention.
+
 ## Key points
 
 - The record documents prospective Swatantra Party membership and support in Madhya Pradesh.

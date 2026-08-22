@@ -46,6 +46,10 @@ summary: |-
   This two-page archival item is a brief personal letter from C. Rajagopalachari to M. R. Masani. Written on Rajagopalachari’s Madras letterhead and dated 30 December 1963, it acknowledges Masani’s letter of 27 December and the enclosed cheque, then extends New Year greetings to Masani and Mrs. Masani. The second rendered page shows the reverse of the letter and the addressed envelope, including a receipt stamp dated 2 January 1964.
 ---
 
+## Summary
+
+This two-page archival item is a brief personal letter from C. Rajagopalachari to M. R. Masani. Written on Rajagopalachari’s Madras letterhead and dated 30 December 1963, it acknowledges Masani’s letter of 27 December and the enclosed cheque, then extends New Year greetings to Masani and Mrs. Masani. The second rendered page shows the reverse of the letter and the addressed envelope, including a receipt stamp dated 2 January 1964.
+
 ## Key points
 
 - C. Rajagopalachari writes from his Bazlullah Road address in Madras.

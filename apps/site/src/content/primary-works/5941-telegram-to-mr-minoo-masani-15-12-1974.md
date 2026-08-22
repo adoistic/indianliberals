@@ -45,6 +45,10 @@ summary: |-
   This one-page English telegram, dated 15 December 1974, is addressed to Minoo Masani at 148 Mahatma Gandhi Road, Bombay. Signed “SACHIDANAND,” it responds to Masani’s telegram and clarifies that the sender will not be visiting Delhi or Bombay in December.
 ---
 
+## Summary
+
+This one-page English telegram, dated 15 December 1974, is addressed to Minoo Masani at 148 Mahatma Gandhi Road, Bombay. Signed “SACHIDANAND,” it responds to Masani’s telegram and clarifies that the sender will not be visiting Delhi or Bombay in December.
+
 ## Key points
 
 - The telegram is dated 15 December 1974.

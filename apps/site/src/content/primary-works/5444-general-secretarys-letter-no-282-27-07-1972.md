@@ -67,6 +67,12 @@ summary: |-
   The enclosed statement sets out a rights-based programme covering agricultural returns, housing, productive work, fair prices, labour, minorities, press freedom and social justice, followed by a call for political education and agitation. The resolutions address the fall of the Orissa coalition government, India–Pakistan summit talks, the treatment of Harijans and Adivasis, electoral reform, the Tamil Nadu farmers’ agitation, college education in Kerala, threats to press freedom, and land ceilings. Across these texts, the Party combines support for private and peasant property with demands for fair compensation, tenure security, employment, minority protection, institutional checks, electoral accountability, and resistance to state pressure on education and the press.
 ---
 
+## Summary
+
+This 27 June 1972 letter from Swatantra Party General Secretary Madhu Mehta circulates a statement approved by the Party’s General Council and eight accompanying resolutions adopted in Madras on 24–25 June. Mehta asks recipients to translate and publicise the documents through party workers and committees. The statement presents the Party as an opposition force defending liberty and justice against corruption, economic stagnation, restrictions on the media, electoral manipulation, constitutional amendments, judicial denigration, and the concentration of power in the Union Government and ruling party.
+
+The enclosed statement sets out a rights-based programme covering agricultural returns, housing, productive work, fair prices, labour, minorities, press freedom and social justice, followed by a call for political education and agitation. The resolutions address the fall of the Orissa coalition government, India–Pakistan summit talks, the treatment of Harijans and Adivasis, electoral reform, the Tamil Nadu farmers’ agitation, college education in Kerala, threats to press freedom, and land ceilings. Across these texts, the Party combines support for private and peasant property with demands for fair compensation, tenure security, employment, minority protection, institutional checks, electoral accountability, and resistance to state pressure on education and the press.
+
 ## Key points
 
 - Madhu Mehta’s letter forwards a General Council statement and eight unanimously adopted resolutions for translation and wider publicity.

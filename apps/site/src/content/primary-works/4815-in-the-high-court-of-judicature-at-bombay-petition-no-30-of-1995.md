@@ -54,6 +54,12 @@ summary: |-
   The motion asks the High Court to direct the relevant respondents to grant the petitioners provisional registration as a political party under the Representation of People Act without requiring compliance with Section 29-A. Alternatively, it seeks an interim stay preventing the respondents from insisting on that statutory requirement. The petitioners also ask the Court to fix an early final-hearing date for Writ Petition No. 14 of 1995, preferably before 30 October 1995, and to issue any further orders it considers appropriate. The notice records that counsel would appear before a Division Bench comprising Agarwal and Majithia JJ. on 22 September 1995, and that an affidavit by L. R. Sampat would support the motion.
 ---
 
+## Summary
+
+This eight-page English-language legal filing is a Notice of Motion No. 1995 in Writ Petition No. 14 of 1995 before the High Court of Judicature at Bombay. The petitioners are the Swatantra Party (Maharashtra), through its General Secretary L. R. Sampat, and S. V. Raju, identified as a citizen of India and editor of “Freedom First.” The respondents are the Union of India, the Chief Election Commissioner of India, and the Secretary of the Election Commission of India.
+
+The motion asks the High Court to direct the relevant respondents to grant the petitioners provisional registration as a political party under the Representation of People Act without requiring compliance with Section 29-A. Alternatively, it seeks an interim stay preventing the respondents from insisting on that statutory requirement. The petitioners also ask the Court to fix an early final-hearing date for Writ Petition No. 14 of 1995, preferably before 30 October 1995, and to issue any further orders it considers appropriate. The notice records that counsel would appear before a Division Bench comprising Agarwal and Majithia JJ. on 22 September 1995, and that an affidavit by L. R. Sampat would support the motion.
+
 ## Key points
 
 - The filing concerns Notice of Motion No. 1995 in Writ Petition No. 14 of 1995 before the Bombay High Court.

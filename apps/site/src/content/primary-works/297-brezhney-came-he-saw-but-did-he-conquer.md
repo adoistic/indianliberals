@@ -55,6 +55,12 @@ summary: |-
   The essay then examines the character of the Soviet regime, its record of violating treaties, the unequal power relationship between India and the USSR, and the treaty’s effects on India’s relations with China, Japan, Southeast Asia, and the United States. Masani also criticizes the economic agreements associated with Brezhnev’s visit, arguing that rupee trade, Soviet pricing practices, and the integration of Indian planning with Soviet Five-Year Plans risked deepening India’s dependence. The final pages of the rendered set shift abruptly to a numbered questionnaire on the Indian Constitution, federal financial powers, legislative quality, and proportional representation; these pages appear to be a separate appended text or document rather than a continuation of the essay.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that Leonid Brezhnev’s 1973 visit to India should not be judged by its orchestrated public welcome but by the strategic and legal consequences of the 1971 Indo-Soviet Treaty. He presents the treaty as the public legitimation of a relationship that had already existed for years, and contends that Articles IX and X commit India to consultations and obligations resembling a defensive military alliance. In Masani’s reading, the treaty marks a decisive break with India’s earlier non-alignment because Soviet and Indian interpretations of “non-alignment” diverge sharply: Moscow treats it as part of an anti-imperialist struggle rather than as equal distance from competing power blocs.
+
+The essay then examines the character of the Soviet regime, its record of violating treaties, the unequal power relationship between India and the USSR, and the treaty’s effects on India’s relations with China, Japan, Southeast Asia, and the United States. Masani also criticizes the economic agreements associated with Brezhnev’s visit, arguing that rupee trade, Soviet pricing practices, and the integration of Indian planning with Soviet Five-Year Plans risked deepening India’s dependence. The final pages of the rendered set shift abruptly to a numbered questionnaire on the Indian Constitution, federal financial powers, legislative quality, and proportional representation; these pages appear to be a separate appended text or document rather than a continuation of the essay.
+
 ## Key points
 
 - Masani treats the 1971 Indo-Soviet Treaty as an alliance rather than a neutral friendship agreement.

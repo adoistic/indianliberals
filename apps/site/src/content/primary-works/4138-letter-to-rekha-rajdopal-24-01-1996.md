@@ -51,6 +51,12 @@ summary: |-
   The writer states that notice was served on 14 December 1995, that the recipients appeared before the division bench on 8 January 1996, and that the matter was subsequently directed to be moved before the bench presided over by the Chief Justice. The returnable date was extended to 25 January 1996. The letter encloses a further copy of the notice of motion and supporting affidavit, and invites the recipients to appear at the hearing if they wish. The signatory is not clearly identified beyond “Adv. for petitioners.”
 ---
 
+## Summary
+
+This two-page letter, dated 24 January 1996, concerns a notice of motion in the Bombay High Court matter Swatantra Party v. Union of India & ors., identified as petition no. 14 of 1995. Addressed to the Union of India’s Law Officer and Mrs. Rekha Rajgopal, Advocate for the Election Commission of India, it records the procedural history of the motion and its scheduled return before a division bench.
+
+The writer states that notice was served on 14 December 1995, that the recipients appeared before the division bench on 8 January 1996, and that the matter was subsequently directed to be moved before the bench presided over by the Chief Justice. The returnable date was extended to 25 January 1996. The letter encloses a further copy of the notice of motion and supporting affidavit, and invites the recipients to appear at the hearing if they wish. The signatory is not clearly identified beyond “Adv. for petitioners.”
+
 ## Key points
 
 - The letter is dated 24 January 1996 and concerns a Bombay High Court notice of motion.

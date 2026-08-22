@@ -49,6 +49,12 @@ summary: |-
   The letter is brief and does not identify the party, describe the controversy, or state a substantive position on the issues at stake. It records an intention to review the enclosed material and closes with good wishes. The document is preserved as a one-page English business letter from Bombay.
 ---
 
+## Summary
+
+This untitled letter, dated 18 June 1968 and written on Tata Industries Private Limited letterhead, is addressed to Minoo Masani. S. Moolgaokar acknowledges Masani's letter of 7 June and accompanying documents concerning controversy within a political party. The sender says the correspondence will be read carefully in order to form a fair understanding of developments within the party.
+
+The letter is brief and does not identify the party, describe the controversy, or state a substantive position on the issues at stake. It records an intention to review the enclosed material and closes with good wishes. The document is preserved as a one-page English business letter from Bombay.
+
 ## Key points
 
 - The letter is dated 18 June 1968 and issued on Tata Industries Private Limited letterhead in Bombay.

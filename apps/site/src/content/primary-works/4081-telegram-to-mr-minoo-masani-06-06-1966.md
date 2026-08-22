@@ -54,6 +54,10 @@ summary: |-
   This one-page English telegram from C. Rajagopalachari (“Rajaji”) to Minoo Masani, received on 6 June 1966, reports that Rajagopalachari had just given an interview to PTI and UNI. The message argues that the devaluation order indicates the necessity of forming a national government without waiting for elections.
 ---
 
+## Summary
+
+This one-page English telegram from C. Rajagopalachari (“Rajaji”) to Minoo Masani, received on 6 June 1966, reports that Rajagopalachari had just given an interview to PTI and UNI. The message argues that the devaluation order indicates the necessity of forming a national government without waiting for elections.
+
 ## Key points
 
 - The document is a telegram sent by Rajaji to Minoo Masani.

@@ -49,6 +49,12 @@ summary: |-
   Masani says that postponing conventions in the hope of Rajaji's recovery must be abandoned, and advises organisers to proceed with their existing plans. He notes that Prof. Ranga has agreed to attend conventions to which Rajaji had already accepted invitations, while Masani will attend as many as possible. The party will also try to arrange appearances by Mr. Dandekar and Mr. Dayabhai Patel, though Masani acknowledges that Rajaji's absence cannot fully be compensated for.
 ---
 
+## Summary
+
+Dated 14 September 1966, this General Secretary's Letter from the Swatantra Party Central Office addresses the scheduling of State Conventions in light of C. Rajagopalachari's deteriorating health. M. R. Masani reports that Rajaji's doctors have ordered several weeks of complete rest and prohibited him from travelling outside Madras until the end of the year; he therefore asks party organisers not to persuade Rajaji to attend their conventions.
+
+Masani says that postponing conventions in the hope of Rajaji's recovery must be abandoned, and advises organisers to proceed with their existing plans. He notes that Prof. Ranga has agreed to attend conventions to which Rajaji had already accepted invitations, while Masani will attend as many as possible. The party will also try to arrange appearances by Mr. Dandekar and Mr. Dayabhai Patel, though Masani acknowledges that Rajaji's absence cannot fully be compensated for.
+
 ## Key points
 
 - The letter is dated 14 September 1966 and is signed by M. R. Masani as Swatantra Party General Secretary.

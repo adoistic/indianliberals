@@ -47,6 +47,12 @@ summary: |-
   The letter is a brief piece of party correspondence documenting the Swatantra Party's efforts to publicise and organise its early Tamil Nadu activities. It also conveys the urgency of the request, asking Masani to send the material within a few days or at his earliest convenience.
 ---
 
+## Summary
+
+This one-page English letter, dated 16 October 1959, was sent from the Swatantra Party (Tamil Nadu) secretary, S. S. Mariswamy, to Minoo Masani. It explains that the Madras committee was preparing a souvenir for its convention on 31 October 1959 and asks Masani to contribute an article in English, together with a photograph for publication alongside it.
+
+The letter is a brief piece of party correspondence documenting the Swatantra Party's efforts to publicise and organise its early Tamil Nadu activities. It also conveys the urgency of the request, asking Masani to send the material within a few days or at his earliest convenience.
+
 ## Key points
 
 - The letter is dated 16 October 1959 and is issued on Swatantra Party (Tamil Nadu) letterhead.

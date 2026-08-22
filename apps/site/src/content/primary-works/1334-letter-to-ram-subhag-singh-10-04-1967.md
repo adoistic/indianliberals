@@ -51,6 +51,12 @@ summary: |-
   The letter lists nominees affiliated with several political parties, including the Swatantra Party, Jan Sangh, Communist Party of India, Communist Party of India (Marxist), Dravida Munnetra Kazhagam, United Socialist Party, and others. It covers committees associated with the Central, Eastern, Northern, North Eastern, Southern, South Eastern, South Central, and Western Railways. Gowd concludes that seats intended for the Republican Party of India and independents could not be proposed because those groups had not submitted their nominees in time.
 ---
 
+## Summary
+
+This two-page letter, dated April 10, 1967, was sent by Y. G. Gowd, a Swatantra Party Member of Parliament, to Dr. Ram Subhag Singh, Minister for Parliamentary Affairs. Gowd forwards names of Lok Sabha members for nomination to the National Railway Users' Consultative Committee and to railway zonal committees, stating that he is acting on the advice of party leader M. R. Masani.
+
+The letter lists nominees affiliated with several political parties, including the Swatantra Party, Jan Sangh, Communist Party of India, Communist Party of India (Marxist), Dravida Munnetra Kazhagam, United Socialist Party, and others. It covers committees associated with the Central, Eastern, Northern, North Eastern, Southern, South Eastern, South Central, and Western Railways. Gowd concludes that seats intended for the Republican Party of India and independents could not be proposed because those groups had not submitted their nominees in time.
+
 ## Key points
 
 - Y. G. Gowd writes from New Delhi on April 10, 1967, in his capacity as a Lok Sabha Member and Swatantra Party Chief Whip.

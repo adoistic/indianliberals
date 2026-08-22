@@ -50,6 +50,10 @@ summary: |-
   This one-page English-language telegram, addressed to M. R. Masani in New Delhi, reports that the Madhya Pradesh Assembly's proposed immediate formation of a Samyukta Dal government is being denounced as unconstitutional and undemocratic. The message urges attention to the demand and lists several political figures and party affiliations, including Prabash Roy, C. P. ..., K. L. Gumasta, J. K. D., Sheokumar Shastri, Jansangh, Badwaia, S. S. P., and Kadarbhai.
 ---
 
+## Summary
+
+This one-page English-language telegram, addressed to M. R. Masani in New Delhi, reports that the Madhya Pradesh Assembly's proposed immediate formation of a Samyukta Dal government is being denounced as unconstitutional and undemocratic. The message urges attention to the demand and lists several political figures and party affiliations, including Prabash Roy, C. P. ..., K. L. Gumasta, J. K. D., Sheokumar Shastri, Jansangh, Badwaia, S. S. P., and Kadarbhai.
+
 ## Key points
 
 - The document is a one-page telegram addressed to M. R. Masani in New Delhi.

@@ -50,6 +50,12 @@ summary: |-
   The document is administrative and electoral rather than argumentative. Its principal function is to associate named candidates with particular constituencies, including some marked “(R)” and one candidate identified as “(Provisional).” The second page continues the constituency-by-constituency list and ends with the approved candidate for Mudabidri (R) in Udupi.
 ---
 
+## Summary
+
+This two-page annexure is a typed list of approved Lok Sabha and Vidhan Sabha candidates for Mysore. It begins with seven parliamentary constituencies—including Mysore, Bijapur North and South, Mangalore, Bellary and Bangalore rural—and then lists candidates for assembly constituencies and municipal wards across Bangalore, Bangalore district rural, Belgaum, Bijapur, Chamarajanagar, Chickballapur, Chitradurga, Hassan, Mysore, North Canara, Raichur, South Canara and Coorg, and Udupi districts.
+
+The document is administrative and electoral rather than argumentative. Its principal function is to associate named candidates with particular constituencies, including some marked “(R)” and one candidate identified as “(Provisional).” The second page continues the constituency-by-constituency list and ends with the approved candidate for Mudabidri (R) in Udupi.
+
 ## Key points
 
 - The document is headed “LIST OF APPROVED LOK SABHA-VIDHAN SABHA CANDIDATES - MYSORE.”

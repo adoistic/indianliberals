@@ -46,6 +46,10 @@ summary: |-
   The article reports on a temporary lull in the Chambal ravines as dacoits surrender to Acharya Vinoba Bhave. It describes daily gatherings at the designated surrender site, where hundreds of people come to watch, while police and officials negotiate acceptable terms for the surrender and rehabilitation of the bandits. The report notes that Bhave's 1960 mission led to the surrender of many dacoits, but argues that the present effort faces a more difficult and potentially violent set of gangs.
 ---
 
+## Summary
+
+The article reports on a temporary lull in the Chambal ravines as dacoits surrender to Acharya Vinoba Bhave. It describes daily gatherings at the designated surrender site, where hundreds of people come to watch, while police and officials negotiate acceptable terms for the surrender and rehabilitation of the bandits. The report notes that Bhave's 1960 mission led to the surrender of many dacoits, but argues that the present effort faces a more difficult and potentially violent set of gangs.
+
 ## Key points
 
 - Dacoits from the Chambal region are surrendering to Acharya Vinoba Bhave.

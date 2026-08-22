@@ -51,6 +51,10 @@ summary: |-
   This two-page archival item contains two letters by C. Rajagopalachari, both dated 31 March 1968. In the first, addressed to N. Dandekar, Rajagopalachari urges the Swatantra Party not to approve Minoo Masani’s proposed resignations. He characterizes the resignations as potentially self-purifying gestures arising from fatigue, and argues that the party should distinguish symbolic renunciation from its continuing duties and responsibilities. He also cautions that political promises must be understood in light of the limited power available to a party outside office, while recommending condemnation of the Gujarat party leaders’ conduct and withdrawal of acceptance of Masani’s resignations.
 ---
 
+## Summary
+
+This two-page archival item contains two letters by C. Rajagopalachari, both dated 31 March 1968. In the first, addressed to N. Dandekar, Rajagopalachari urges the Swatantra Party not to approve Minoo Masani’s proposed resignations. He characterizes the resignations as potentially self-purifying gestures arising from fatigue, and argues that the party should distinguish symbolic renunciation from its continuing duties and responsibilities. He also cautions that political promises must be understood in light of the limited power available to a party outside office, while recommending condemnation of the Gujarat party leaders’ conduct and withdrawal of acceptance of Masani’s resignations.
+
 ## Key points
 
 - Rajagopalachari asks N. Dandekar not to approve Minoo Masani’s proposed resignations.

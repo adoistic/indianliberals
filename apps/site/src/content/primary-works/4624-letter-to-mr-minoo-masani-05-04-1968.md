@@ -53,6 +53,12 @@ summary: |-
   The memo summarizes statements attributed to Bhailalbhai Patel, Jaideepsinhji, H. M. Patel, Pravinsinhji Solanki, and Piloo Mody. The reported dispute centered on the party’s failure, in the writers’ view, to honour a promise concerning Mr. Babubhai Vaidya’s candidacy, the resulting defeat of the official candidate in the Rajya Sabha election, and the question of whether the resignations represented a principled protest or a political stunt. H. M. Patel is reported as arguing that disciplinary action might be necessary, while also emphasizing that the party should act in a way that restored public trust.
 ---
 
+## Summary
+
+This three-page Swatantra Party office memo, dated April 5, 1968, reports to Mr. E.R. Masani on Gujarati newspaper coverage of resignations from the party’s National Executive and Central Parliamentary Board. The memo states that the press statement about the resignations was objectively reported and reviews editorials that interpreted the resignations as a response to a breakdown of party assurances and confidence in its leadership.
+
+The memo summarizes statements attributed to Bhailalbhai Patel, Jaideepsinhji, H. M. Patel, Pravinsinhji Solanki, and Piloo Mody. The reported dispute centered on the party’s failure, in the writers’ view, to honour a promise concerning Mr. Babubhai Vaidya’s candidacy, the resulting defeat of the official candidate in the Rajya Sabha election, and the question of whether the resignations represented a principled protest or a political stunt. H. M. Patel is reported as arguing that disciplinary action might be necessary, while also emphasizing that the party should act in a way that restored public trust.
+
 ## Key points
 
 - The memo reports that Gujarati newspapers objectively covered resignations from the Swatantra Party’s National Executive and Central Parliamentary Board.

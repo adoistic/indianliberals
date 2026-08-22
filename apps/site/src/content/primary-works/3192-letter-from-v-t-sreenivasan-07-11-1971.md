@@ -54,6 +54,12 @@ summary: |-
   The documents also expose a bitter dispute within the party after a new Executive Committee alleged that party accounts had not been audited for twelve years and that funds had been diverted or invested improperly. The confidential trustee note supplies a detailed defence of the Trust’s origins, investments, and governance structure, while Sreenivasan’s later letter rejects what he calls unwarranted aspersions against former office-bearers. He argues that the Trust deed did not require its trustees to mirror the party’s changing office-bearers and that the party’s constitutional provisions were deliberately framed to protect anonymous supporters. The correspondence therefore combines a financial and legal defence of the Trust with an account of factional conflict, reputational injury, and threatened resignations within the Swatantra Party.
 ---
 
+## Summary
+
+This 7 November 1971 letter from V.T. Sreenivasan to Dr. R.C. Cooper encloses correspondence and internal documents concerning the Bangalore Educational Trust, which held surplus funds of the Mysore State unit of the Swatantra Party. Sreenivasan presents the Trust as a mechanism created to protect party funds from being spent during elections and to provide a continuing source of income for the party office. The enclosures trace investments made between 1964 and 1971, describe the Trust’s formation and tax-related complications, and record questions about the authority of the State Executive and Finance Sub-Committee to approve those investments.
+
+The documents also expose a bitter dispute within the party after a new Executive Committee alleged that party accounts had not been audited for twelve years and that funds had been diverted or invested improperly. The confidential trustee note supplies a detailed defence of the Trust’s origins, investments, and governance structure, while Sreenivasan’s later letter rejects what he calls unwarranted aspersions against former office-bearers. He argues that the Trust deed did not require its trustees to mirror the party’s changing office-bearers and that the party’s constitutional provisions were deliberately framed to protect anonymous supporters. The correspondence therefore combines a financial and legal defence of the Trust with an account of factional conflict, reputational injury, and threatened resignations within the Swatantra Party.
+
 ## Key points
 
 - Sreenivasan forwards documents about the Bangalore Educational Trust and its relationship to the Mysore State unit of the Swatantra Party.

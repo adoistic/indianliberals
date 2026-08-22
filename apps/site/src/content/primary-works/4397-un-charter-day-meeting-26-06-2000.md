@@ -56,6 +56,12 @@ summary: |-
   The address then considers the Preamble’s commitment to saving succeeding generations from war. It lists completed and current UN peacekeeping operations to argue that local wars remain as significant to those who suffer them as world wars. The speaker attributes wars to vested interests, power-hungry political and military leaders, and religious fundamentalists, and argues that better-informed people-to-people communication could help remove the conditions that sustain conflict. The final section links social progress and “larger freedom” to a future world federation in which national boundaries serve mainly administrative purposes and the UN Charter has worldwide constitutional relevance. The manuscript closes by quoting Alvin Toffler on collective knowledge, civic action, and the creation of new institutions.
 ---
 
+## Summary
+
+This prepared speech for UN Charter Day, held at Godrej Bhavan on 26 June 2000, presents the UN Charter’s Preamble as a framework for thinking about an information-connected world. The speaker focuses on the phrase “We the peoples,” arguing that advances in satellite communication, the internet, television, and related technologies can enable direct contact among people across national boundaries. Such contact, the speech suggests, may weaken state restrictions, make passports and visas less necessary, and bring citizens closer to the idea of one world.
+
+The address then considers the Preamble’s commitment to saving succeeding generations from war. It lists completed and current UN peacekeeping operations to argue that local wars remain as significant to those who suffer them as world wars. The speaker attributes wars to vested interests, power-hungry political and military leaders, and religious fundamentalists, and argues that better-informed people-to-people communication could help remove the conditions that sustain conflict. The final section links social progress and “larger freedom” to a future world federation in which national boundaries serve mainly administrative purposes and the UN Charter has worldwide constitutional relevance. The manuscript closes by quoting Alvin Toffler on collective knowledge, civic action, and the creation of new institutions.
+
 ## Key points
 
 - The speech interprets the UN Charter’s Preamble in light of the information revolution and advances in communication technology.

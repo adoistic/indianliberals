@@ -54,6 +54,12 @@ summary: |-
   In the rendered pages, Masani then challenges proposals for comprehensive nationalisation. He distinguishes State control from State ownership and management, arguing that bureaucratic monopoly would discourage enterprise, weaken efficiency and obstruct industrial growth. Comparisons between the United States and the Soviet Union are used to support his preference for free enterprise, while reports of poverty and pronounced income inequality in Moscow are offered as evidence against the egalitarian claims of Soviet socialism. The later discussion defends profits as compensation for risk, enterprise and the replacement and expansion of plant, and argues that India’s limited domestic and foreign capital makes doctrinaire nationalisation especially dangerous. The visible text ends while Masani is still developing his discussion of capital and industrial finance.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that India’s immediate economic priority must be increased production and rapid industrialisation. He begins from a stark account of post-war decline: falling output of steel, electricity, cloth, coal and foodgrains, alongside population growth and rising prices. Masani accepts that the gains from production must ultimately be widely distributed, but insists that equitable distribution has little meaning without a larger national income and greater purchasing power. He presents production and distribution as sequential rather than competing priorities.
+
+In the rendered pages, Masani then challenges proposals for comprehensive nationalisation. He distinguishes State control from State ownership and management, arguing that bureaucratic monopoly would discourage enterprise, weaken efficiency and obstruct industrial growth. Comparisons between the United States and the Soviet Union are used to support his preference for free enterprise, while reports of poverty and pronounced income inequality in Moscow are offered as evidence against the egalitarian claims of Soviet socialism. The later discussion defends profits as compensation for risk, enterprise and the replacement and expansion of plant, and argues that India’s limited domestic and foreign capital makes doctrinaire nationalisation especially dangerous. The visible text ends while Masani is still developing his discussion of capital and industrial finance.
+
 ## Key points
 
 - India’s industrial and agricultural production had declined after the Second World War, while population and prices continued to rise.

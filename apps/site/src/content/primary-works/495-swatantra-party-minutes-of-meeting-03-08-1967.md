@@ -52,6 +52,10 @@ summary: |-
   This one-page record from the Swatantra Party Parliamentary Office documents an executive-committee meeting held in Parliament House, New Delhi, on 1 August 1967. The meeting addressed overdue party subscriptions, a constrained office budget, and the need for members to make additional contributions. M. R. Masani offered to raise up to Rs. 500 per month toward the deficit, conditional on members paying their subscriptions regularly.
 ---
 
+## Summary
+
+This one-page record from the Swatantra Party Parliamentary Office documents an executive-committee meeting held in Parliament House, New Delhi, on 1 August 1967. The meeting addressed overdue party subscriptions, a constrained office budget, and the need for members to make additional contributions. M. R. Masani offered to raise up to Rs. 500 per month toward the deficit, conditional on members paying their subscriptions regularly.
+
 ## Key points
 
 - The executive committee met on 1 August 1967 in the Party Committee Room, Parliament House, New Delhi.

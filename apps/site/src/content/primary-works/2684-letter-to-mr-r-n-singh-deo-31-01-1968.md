@@ -47,6 +47,12 @@ summary: |-
   Masani asks the Chief Minister to meet the visitors on either date and extend them courtesy during their stay. The document is administrative and social in purpose; it contains no sustained political or economic argument.
 ---
 
+## Summary
+
+This one-page post copy of a telegram, dated January 31, 1968, records M. R. Masani’s request to Odisha Chief Minister R. N. Singh Deo. Masani informs him that the Countess and Earl of Harewood, described as cousins of the British Queen, would arrive in Bhubneshwar by plane from Calcutta on the morning of February 5, travel onward to Puri, and leave for Calcutta on the afternoon of February 7.
+
+Masani asks the Chief Minister to meet the visitors on either date and extend them courtesy during their stay. The document is administrative and social in purpose; it contains no sustained political or economic argument.
+
 ## Key points
 
 - The document is a post copy of a telegram sent by M. R. Masani from New Delhi on January 31, 1968.

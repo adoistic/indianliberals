@@ -50,6 +50,10 @@ summary: |-
   This Hindustan Times report, datelined Ahmedabad, 5 January 1971, describes the collapse of an attempted electoral alliance involving the Swatantra Party. Morarji Desai reportedly left alliance negotiations after concluding that the proposed arrangement had been undermined by Minoo Masani’s walk-out from the Congress (O) leadership meeting. Congress (O) figures acknowledged that Masani’s departure had unsettled negotiations and revived earlier anti-alliance sentiment among Gujarat Congress leaders.
 ---
 
+## Summary
+
+This Hindustan Times report, datelined Ahmedabad, 5 January 1971, describes the collapse of an attempted electoral alliance involving the Swatantra Party. Morarji Desai reportedly left alliance negotiations after concluding that the proposed arrangement had been undermined by Minoo Masani’s walk-out from the Congress (O) leadership meeting. Congress (O) figures acknowledged that Masani’s departure had unsettled negotiations and revived earlier anti-alliance sentiment among Gujarat Congress leaders.
+
 ## Key points
 
 - The proposed Swatantra–Congress (O) alliance in Gujarat was thwarted after Minoo Masani walked out of a Congress (O) meeting.

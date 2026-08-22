@@ -48,6 +48,12 @@ summary: |-
   The letter states that all the vehicles were registered in January 1971 and dispatched from Mahindra & Mahindra to destinations including Gujarat, Mysore, Orissa, Himachal Pradesh, and Rajasthan. It further asserts that registration charges and wheel taxes were collected at the factory, that none of the vehicles returned to Bombay because they were sold in the areas to which they were sent, and asks the Regional Transport Office to correct its records and cancel notices issued against the vehicles.
 ---
 
+## Summary
+
+This two-page English office letter, dated March 29, 1976, is written on Bharatiya Lok Dal letterhead by Executive Secretary V.P. Bhatia to the Regional Transport Officer in Bombay. It confirms a prior conversation and supplies details of 25 vehicles purchased by the former Swatantra Party and subsequently associated with Bharatiya Lok Dal under the names of several individuals, including G.B. Sukhee, V.P. Bhatia, S.V. Raju, Padma Vaswani, and M.R. Masani.
+
+The letter states that all the vehicles were registered in January 1971 and dispatched from Mahindra & Mahindra to destinations including Gujarat, Mysore, Orissa, Himachal Pradesh, and Rajasthan. It further asserts that registration charges and wheel taxes were collected at the factory, that none of the vehicles returned to Bombay because they were sold in the areas to which they were sent, and asks the Regional Transport Office to correct its records and cancel notices issued against the vehicles.
+
 ## Key points
 
 - The letter is dated March 29, 1976 and is addressed to the Regional Transport Officer in Bombay.

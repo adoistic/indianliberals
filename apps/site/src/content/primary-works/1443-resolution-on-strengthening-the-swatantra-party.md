@@ -61,6 +61,14 @@ summary: |-
   The final resolutions acknowledge that the Tamil Nadu Government shares responsibility for high rice prices, oppose a proposed levy on agriculturists, and recommend obtaining foodgrain for public distribution through mills and wholesalers. They highlight severe shortages of drinking water, especially in Madras, urge accelerated implementation of the Veeranam Scheme, and call for priority attention to villages and small towns. The document concludes by endorsing independent Swatantra candidates in forthcoming municipal elections, seeking coordination with party leaders in other states, and proposing a national convention no later than October 1974.
 ---
 
+## Summary
+
+This five-page English document records eight resolutions adopted by a combined meeting of the Swatantra Party's Executive Committee, General Council, legislators, and district and constituency office-bearers in Tamil Nadu. The first resolution calls for immediate grassroots strengthening: completing constituency committees by 31 December 1974, undertaking intensive organisational and propaganda work in at least 50 constituencies, and forming party cells in villages and municipalities. It also establishes a high-power committee under G. Swaminathan to prepare recommendations for strengthening the party.
+
+The resolutions defend the Swatantra Party against claims by former party members and leaders who had joined the B.L.D., arguing that the party's constitution did not permit dissolution or merger. They affirm support for the reintroduction of prohibition and abolition of horse-racing and betting in Tamil Nadu, while invoking C. Rajagopalachari (Rajaji) as the party's exemplary statesman. The document then attributes inflation and economic distress primarily to the ruling Congress's policies, criticises controls, taxes, compulsory deposits, dividend restrictions, and increases in railway fares, and calls for greater agricultural and industrial production through incentives and the removal of unnecessary controls.
+
+The final resolutions acknowledge that the Tamil Nadu Government shares responsibility for high rice prices, oppose a proposed levy on agriculturists, and recommend obtaining foodgrain for public distribution through mills and wholesalers. They highlight severe shortages of drinking water, especially in Madras, urge accelerated implementation of the Veeranam Scheme, and call for priority attention to villages and small towns. The document concludes by endorsing independent Swatantra candidates in forthcoming municipal elections, seeking coordination with party leaders in other states, and proposing a national convention no later than October 1974.
+
 ## Key points
 
 - The meeting demands immediate grassroots organisational expansion of the Swatantra Party in Tamil Nadu.

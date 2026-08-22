@@ -49,6 +49,12 @@ summary: |-
   The letter also requests an English article and a photograph from Modi for a souvenir being prepared for the Madras District party convention, scheduled for 31 October 1959. The document therefore combines political endorsement with practical party-organising correspondence, showing the Swatantra Party’s effort to circulate anti-socialist arguments and build support through its district convention.
 ---
 
+## Summary
+
+This one-page letter, dated 16 October 1959, is written by S. S. Mariswamy, Secretary of the Swatantra Party (Tamil Nadu), to Sir H. P. Modi. Mariswamy congratulates Modi on a speech responding to what he calls the “parrot-like criticism” of neo-socialist Congress leaders. He says he read the speech in The Hindu and translated it for his Tamil paper, “Berigai,” for party workers in Tamil Nadu.
+
+The letter also requests an English article and a photograph from Modi for a souvenir being prepared for the Madras District party convention, scheduled for 31 October 1959. The document therefore combines political endorsement with practical party-organising correspondence, showing the Swatantra Party’s effort to circulate anti-socialist arguments and build support through its district convention.
+
 ## Key points
 
 - The letter is dated 16 October 1959 and is issued on Swatantra Party (Tamil Nadu) letterhead from Madras.

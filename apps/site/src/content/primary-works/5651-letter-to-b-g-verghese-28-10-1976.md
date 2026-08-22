@@ -43,6 +43,10 @@ summary: |-
   This one-page English letter from Minoo Masani to B. G. Verghese is dated October 28, 1976. Masani acknowledges Verghese's letter of October 19 and returns a statement that he has endorsed, noting that it was also endorsed by Professor V. V. John, identified as a writer and one of the editors of QUEST Magazine.
 ---
 
+## Summary
+
+This one-page English letter from Minoo Masani to B. G. Verghese is dated October 28, 1976. Masani acknowledges Verghese's letter of October 19 and returns a statement that he has endorsed, noting that it was also endorsed by Professor V. V. John, identified as a writer and one of the editors of QUEST Magazine.
+
 ## Key points
 
 - The document is a typed personal letter signed by Minoo Masani.

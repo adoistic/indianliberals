@@ -74,6 +74,10 @@ summary: |-
   The National Alternative is a draft political policy statement that presents India as being at a crossroads after 27 years of independence. Its opening diagnosis attributes poverty, inflation, unemployment, corruption, administrative failure, weak rural development, and democratic erosion to prolonged one-party rule by Congress. The document argues that a viable national alternative must be rooted in Indian realities and political traditions, drawing particularly on Mahatma Gandhi's ideas of self-government, decentralisation, individual responsibility, and limits on state power. It rejects both Soviet-style socialism and unrestrained private exploitation, proposing instead a democratic, nationalist, secular, and socially just order.
 ---
 
+## Summary
+
+The National Alternative is a draft political policy statement that presents India as being at a crossroads after 27 years of independence. Its opening diagnosis attributes poverty, inflation, unemployment, corruption, administrative failure, weak rural development, and democratic erosion to prolonged one-party rule by Congress. The document argues that a viable national alternative must be rooted in Indian realities and political traditions, drawing particularly on Mahatma Gandhi's ideas of self-government, decentralisation, individual responsibility, and limits on state power. It rejects both Soviet-style socialism and unrestrained private exploitation, proposing instead a democratic, nationalist, secular, and socially just order.
+
 ## Key points
 
 - The document portrays India as facing economic decline, inflation, unemployment, rural distress, corruption, and institutional decay.

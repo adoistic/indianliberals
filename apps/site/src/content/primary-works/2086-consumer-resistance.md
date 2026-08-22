@@ -52,6 +52,12 @@ summary: |-
   The page associates communist economic management with suppressed inflation, shortages of food and consumer goods, long queues, accumulated bank balances, centrally dictated prices, and official cost-of-living figures that may not reflect actual availability. It further criticizes dual pricing: party members receive access to local and imported goods through special shops at subsidized rates, while the wider population lacks access to essential goods. The page does not identify an author, publisher, date, or issuing organization.
 ---
 
+## Summary
+
+This single-page illustrated leaflet argues that consumer resistance is an ineffective way to reduce prices because consumers have little choice among alternative products and because the consumer movement is too young to organize nationwide. It presents state control of the economy as a “last-ditch remedy,” but uses the communist system as a warning rather than a solution.
+
+The page associates communist economic management with suppressed inflation, shortages of food and consumer goods, long queues, accumulated bank balances, centrally dictated prices, and official cost-of-living figures that may not reflect actual availability. It further criticizes dual pricing: party members receive access to local and imported goods through special shops at subsidized rates, while the wider population lacks access to essential goods. The page does not identify an author, publisher, date, or issuing organization.
+
 ## Key points
 
 - Consumer resistance is described as ineffective because consumers have few alternative products to choose from.

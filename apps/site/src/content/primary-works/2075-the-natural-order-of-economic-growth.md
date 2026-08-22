@@ -52,6 +52,12 @@ summary: |-
   The page therefore links agricultural reform to industrialisation through a chain of demand, investment, and savings. It concludes that savings generated at each stage of development provide the investment needed for the next stage. No author, publisher, organisation, or publication date is identified on the visible page.
 ---
 
+## Summary
+
+This single-page illustrated argument presents agricultural development as the first stage in a natural sequence of economic growth. As agriculture develops, farmers gain discretionary spending power and purchase consumer goods such as cloth, creating demand for producer goods such as machinery. Investment in consumer-goods industries then generates demand for heavy-industry products, including steel bars and steel caps, which supports the subsequent development of heavy industry.
+
+The page therefore links agricultural reform to industrialisation through a chain of demand, investment, and savings. It concludes that savings generated at each stage of development provide the investment needed for the next stage. No author, publisher, organisation, or publication date is identified on the visible page.
+
 ## Key points
 
 - Agricultural development is presented as the foundation of economic growth.

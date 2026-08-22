@@ -49,6 +49,12 @@ summary: |-
   Latchanna asks Patel to circulate three resolutions passed unanimously at a joint meeting of the Andhra Pradesh State Executive, State Parliamentary Board, and district-unit office bearers. He requests that the National Executive and General Council give the resolutions serious consideration and communicate their decisions, while announcing plans to convene a joint meeting in Andhra Pradesh in the last week of April 1972. The document records intra-party coordination, election-related scheduling, and a formal request for organisational follow-through.
 ---
 
+## Summary
+
+In this one-page letter dated 22 March 1972 from Camp Hyderabad, G. Latchanna, identified as President of the Andhra Pradesh Swatantra Party, writes to H. M. Patel about the proposed National Executive and General Council meetings in Bombay on 8–9 April. He explains that he may be unable to attend, apparently because of circumstances connected with the Rajya Sabha election in Andhra Pradesh, where Prof. Ranga is a candidate and polling is scheduled for 9 April.
+
+Latchanna asks Patel to circulate three resolutions passed unanimously at a joint meeting of the Andhra Pradesh State Executive, State Parliamentary Board, and district-unit office bearers. He requests that the National Executive and General Council give the resolutions serious consideration and communicate their decisions, while announcing plans to convene a joint meeting in Andhra Pradesh in the last week of April 1972. The document records intra-party coordination, election-related scheduling, and a formal request for organisational follow-through.
+
 ## Key points
 
 - The letter is dated 22 March 1972 and sent from Hyderabad to H. M. Patel.

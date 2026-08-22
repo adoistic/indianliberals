@@ -51,6 +51,12 @@ summary: |-
   The report says the national executive had decided that disciplinary action, including expulsion, could be taken against party members who had campaigned against the party's candidates in the Rajya Sabha elections from Gujarat. It portrays Masani as challenging the executive's failure to address the party leader's, opposition leader's, state president's, and general secretary's alleged failures of duty, and closes by noting his appeal for constructive work and the party council's planned consideration of the issue in Madras. No byline is visible on the clipping.
 ---
 
+## Summary
+
+This 14 May 1968 news report, published in the Indian Express, Vijayawada, describes M. R. Masani's refusal to withdraw his resignation from the Swatantra Party's national executive. Masani argues in a letter to the party's general secretary, N. Dandekar, that he would reconsider his decision if the party restored ethical and disciplined functioning and permitted him to share responsibility for guiding its work.
+
+The report says the national executive had decided that disciplinary action, including expulsion, could be taken against party members who had campaigned against the party's candidates in the Rajya Sabha elections from Gujarat. It portrays Masani as challenging the executive's failure to address the party leader's, opposition leader's, state president's, and general secretary's alleged failures of duty, and closes by noting his appeal for constructive work and the party council's planned consideration of the issue in Madras. No byline is visible on the clipping.
+
 ## Key points
 
 - M. R. Masani refuses to withdraw his resignation from the Swatantra Party's national executive.

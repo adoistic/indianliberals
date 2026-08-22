@@ -50,6 +50,12 @@ summary: |-
   The listed constituencies extend across the Madras region, from Wandhiwash, Chidambaram, Tindivanam, and Tanjore to Coimbatore and the Nilgiris. Candidate names are accompanied in several cases by academic or professional qualifications, including B.A., B.L., B.B., and professorial or doctoral titles. The document is dated neither on the visible page nor in the printed heading; it is marked “Annexure C” and gives the party address as 76, Gopethy Narayanaswamy Road, Madras -17.
 ---
 
+## Summary
+
+This one-page Annexure C document, issued by the Swatantra Party in Madras, presents a parliamentary candidate roster for 17 constituencies. It is headed “LIST OF SWATANTRA PARTY CANDIDATES - MADRAS” with the subtitle “(PARLIAMENT)” and provides two columns: constituency and candidate name.
+
+The listed constituencies extend across the Madras region, from Wandhiwash, Chidambaram, Tindivanam, and Tanjore to Coimbatore and the Nilgiris. Candidate names are accompanied in several cases by academic or professional qualifications, including B.A., B.L., B.B., and professorial or doctoral titles. The document is dated neither on the visible page nor in the printed heading; it is marked “Annexure C” and gives the party address as 76, Gopethy Narayanaswamy Road, Madras -17.
+
 ## Key points
 
 - The document is an Annexure C candidate list issued by the Swatantra Party.

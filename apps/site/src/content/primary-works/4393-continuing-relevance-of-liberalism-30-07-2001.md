@@ -49,6 +49,10 @@ summary: |-
   This one-page English-language programme records a lecture event titled “CONTINUING RELEVANCE OF LIBERALISM,” organised by the Indian Liberal Group’s Tirupati Chapter on Monday, 30 July 2001. The schedule comprises a welcome, an introduction to the Indian Liberal Group and its guests, a presidential address, a 45-minute lecture by Shri S.V. Raju, a discussion, and a vote of thanks.
 ---
 
+## Summary
+
+This one-page English-language programme records a lecture event titled “CONTINUING RELEVANCE OF LIBERALISM,” organised by the Indian Liberal Group’s Tirupati Chapter on Monday, 30 July 2001. The schedule comprises a welcome, an introduction to the Indian Liberal Group and its guests, a presidential address, a 45-minute lecture by Shri S.V. Raju, a discussion, and a vote of thanks.
+
 ## Key points
 
 - The document is an event programme rather than a substantive lecture text or authored essay.

@@ -50,6 +50,12 @@ summary: |-
   The second part focuses on Punjab's United Opposition and a forthcoming by-election. Patel argues that Ch. Devlal, associated with the formation of the United Opposition in Punjab, should be consulted because he can help secure cooperation between Sikhs and Hindus. He proposes supporting a suitable candidate—possibly through financial assistance—and criticizes Prof. Ranga's lack of enthusiasm. The attached second page records the Indian delegation's itinerary for the APACL Conference, including travel from New Delhi through Hong Kong, Taipei, Japan, South Korea, and back to Hong Kong, with associated hotel and league addresses.
 ---
 
+## Summary
+
+This letter, dated November 17, 1964, from Dahyabhai Vallabhbhai Patel to M. R. Masani, discusses political coordination around Anand Chand and Ch. Devlal of Punjab. Patel urges Masani to clarify Anand Chand's position and bring him onto the side of the political group, while noting that Prof. Ratnaswami and Lok Nath are also attempting to influence him. The letter refers to Rajaji's earlier correspondence and expresses confidence that Anand Chand will remain with them in Delhi.
+
+The second part focuses on Punjab's United Opposition and a forthcoming by-election. Patel argues that Ch. Devlal, associated with the formation of the United Opposition in Punjab, should be consulted because he can help secure cooperation between Sikhs and Hindus. He proposes supporting a suitable candidate—possibly through financial assistance—and criticizes Prof. Ranga's lack of enthusiasm. The attached second page records the Indian delegation's itinerary for the APACL Conference, including travel from New Delhi through Hong Kong, Taipei, Japan, South Korea, and back to Hong Kong, with associated hotel and league addresses.
+
 ## Key points
 
 - Patel asks Masani to resolve Anand Chand's position and secure his active political cooperation.

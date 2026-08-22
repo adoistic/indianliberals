@@ -47,6 +47,10 @@ summary: |-
   This one-page confirmatory copy, dated January 14, 1970, is a typed letter from S. V. Raju of the Swatantra Party. It concerns a programme scheduled for Ahmedabad on the 21st and a subsequent address at Ravanji Patil College on the 30th; handwritten corrections appear in the programme description. The document does not state a formal title or identify the recipient.
 ---
 
+## Summary
+
+This one-page confirmatory copy, dated January 14, 1970, is a typed letter from S. V. Raju of the Swatantra Party. It concerns a programme scheduled for Ahmedabad on the 21st and a subsequent address at Ravanji Patil College on the 30th; handwritten corrections appear in the programme description. The document does not state a formal title or identify the recipient.
+
 ## Key points
 
 - The document is a confirmatory office letter dated January 14, 1970.

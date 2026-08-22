@@ -46,6 +46,12 @@ summary: |-
   The rendered page contains no details of the underlying event or of the police complaint itself. It records only Panday’s brief notification, closing with a handwritten signature and the typed name “Sosan Panday.”
 ---
 
+## Summary
+
+This single-page letter, dated October 16, 1984, is written by Sosan Panday to Minoo Masani. Panday draws Masani’s attention to a sad event that occurred on the first floor of 143 Mahatma Gandhi Road, premises with which Masani had once been closely involved. The letter says that a copy of a police complaint lodged at Paltan Road Police Station on September 17, 1984, is attached and describes the complaint as self-explanatory.
+
+The rendered page contains no details of the underlying event or of the police complaint itself. It records only Panday’s brief notification, closing with a handwritten signature and the typed name “Sosan Panday.”
+
 ## Key points
 
 - The document is a typed letter dated October 16, 1984, from Sosan Panday to Minoo Masani.

@@ -48,6 +48,10 @@ summary: |-
   In this registered letter dated 4 August 1965, M. R. Masani writes to A. P. Jain at the Swatantra Party Parliamentary Office in New Delhi. Masani says he is enclosing a letter to the Secretary of the Lok Sabha, signed by both men, giving notice of a "No Confidence" Motion. He asks Jain to complete the blank date and arrange for the motion to be submitted at the first appropriate opportunity.
 ---
 
+## Summary
+
+In this registered letter dated 4 August 1965, M. R. Masani writes to A. P. Jain at the Swatantra Party Parliamentary Office in New Delhi. Masani says he is enclosing a letter to the Secretary of the Lok Sabha, signed by both men, giving notice of a "No Confidence" Motion. He asks Jain to complete the blank date and arrange for the motion to be submitted at the first appropriate opportunity.
+
 ## Key points
 
 - The letter is dated 4 August 1965 and marked "REGISTERED."

@@ -51,6 +51,10 @@ summary: |-
   This two-page archival file combines a newspaper clipping from Ahmedabad, dated March 29, with a Swatantra Party administrative list. The clipping reports that the Gujarat Assembly had met without a formally designated opposition leader: opposition members reportedly followed M. R. Pai in choosing him as leader of the Swatantra Legislature Party, while the party's meeting considered whether a temporary leader should be appointed after the resignation of its previous leader. It also reports the ending of the fast by Gujarat Harijan MLAs seeking an early government examination of the demand to facilitate examination by the Government of their demand for a portrait of the late Dr B. R. Ambedkar in the Gujarat Assembly chamber.
 ---
 
+## Summary
+
+This two-page archival file combines a newspaper clipping from Ahmedabad, dated March 29, with a Swatantra Party administrative list. The clipping reports that the Gujarat Assembly had met without a formally designated opposition leader: opposition members reportedly followed M. R. Pai in choosing him as leader of the Swatantra Legislature Party, while the party's meeting considered whether a temporary leader should be appointed after the resignation of its previous leader. It also reports the ending of the fast by Gujarat Harijan MLAs seeking an early government examination of the demand to facilitate examination by the Government of their demand for a portrait of the late Dr B. R. Ambedkar in the Gujarat Assembly chamber.
+
 ## Key points
 
 - A UNI newspaper report describes the Gujarat Assembly as meeting without a formally designated opposition leader.

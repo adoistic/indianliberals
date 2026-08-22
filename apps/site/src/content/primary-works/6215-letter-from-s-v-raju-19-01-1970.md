@@ -46,6 +46,12 @@ summary: |-
   Because of these scheduling constraints, Masani cannot accept the invitation to speak on the afternoon of February 2. Raju apologises and asks Dholakia to excuse Masani on this occasion.
 ---
 
+## Summary
+
+This one-page letter from S. V. Raju, dated January 19, 1970, replies to J. L. Dholakia's invitation for Minoo Masani to address students. Raju explains that although Masani will be in Ahmedabad on February 1, he must return to Bombay that night and already has a heavily crowded programme.
+
+Because of these scheduling constraints, Masani cannot accept the invitation to speak on the afternoon of February 2. Raju apologises and asks Dholakia to excuse Masani on this occasion.
+
 ## Key points
 
 - The letter is dated January 19, 1970.

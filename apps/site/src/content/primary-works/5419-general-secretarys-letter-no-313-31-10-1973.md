@@ -50,6 +50,12 @@ summary: |-
   The circular reaffirms the party's commitment to constitutionalism and the individual's right to express an opinion, insisting that members should not support activity intended to intimidate others. It instructs party units and members not to participate in disruptive actions such as breaking up meetings, while distinguishing this restraint from political support for Gandhi or her party. The document closes by directing that the circular be read by party units and as many members as possible in each state.
 ---
 
+## Summary
+
+Dated October 31, 1973, this Swatantra Party circular from General Secretary Madhu Mehta responds to opposition protests against Indira Gandhi's visit to Ahmedabad and a public meeting addressed by her on October 30. It argues that the boycott and disruption have given Gandhi an opportunity to portray the opposition as responsible for blocking India's progress, while asserting that the country's deteriorating condition is chiefly attributable to her inability to govern.
+
+The circular reaffirms the party's commitment to constitutionalism and the individual's right to express an opinion, insisting that members should not support activity intended to intimidate others. It instructs party units and members not to participate in disruptive actions such as breaking up meetings, while distinguishing this restraint from political support for Gandhi or her party. The document closes by directing that the circular be read by party units and as many members as possible in each state.
+
 ## Key points
 
 - The circular criticizes opposition parties for boycotting and disrupting Indira Gandhi's Ahmedabad visit and public meeting.

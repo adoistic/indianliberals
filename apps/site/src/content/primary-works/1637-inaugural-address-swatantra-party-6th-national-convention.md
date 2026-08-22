@@ -68,6 +68,10 @@ summary: |-
   In this inaugural address to the Swatantra Party’s Sixth National Convention in Madras on 14–15 April 1973, M. R. Masani reviews the political developments since the party’s previous convention in 1968. He criticises the Congress split, the failure to construct an opposition bloc, the 1971 election system and mandate, and the concentration of power under Indira Gandhi. He argues that the 24th and 25th Constitutional Amendments, restrictions on the press and academic institutions, and attacks on trade-union freedom threaten fundamental rights, constitutional government and the rule of law. The address also presents a moral critique of political opportunism and corruption.
 ---
 
+## Summary
+
+In this inaugural address to the Swatantra Party’s Sixth National Convention in Madras on 14–15 April 1973, M. R. Masani reviews the political developments since the party’s previous convention in 1968. He criticises the Congress split, the failure to construct an opposition bloc, the 1971 election system and mandate, and the concentration of power under Indira Gandhi. He argues that the 24th and 25th Constitutional Amendments, restrictions on the press and academic institutions, and attacks on trade-union freedom threaten fundamental rights, constitutional government and the rule of law. The address also presents a moral critique of political opportunism and corruption.
+
 ## Key points
 
 - Masani presents the Swatantra Party as seeking a credible alternative government through cooperation among democratic opposition parties.

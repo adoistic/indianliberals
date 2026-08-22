@@ -49,6 +49,10 @@ summary: |-
   This two-page English letter, dated 10 January 1995, is from Rajiv Patil, Advocate, to the Union of India's Law Officer, the Chief Election Commissioner of India, and the Secretary of the Election Commission of India. It concerns Swatantra Party's writ petition no. 12 of 1995 before the Bombay High Court, naming the Union of India and others as respondents.
 ---
 
+## Summary
+
+This two-page English letter, dated 10 January 1995, is from Rajiv Patil, Advocate, to the Union of India's Law Officer, the Chief Election Commissioner of India, and the Secretary of the Election Commission of India. It concerns Swatantra Party's writ petition no. 12 of 1995 before the Bombay High Court, naming the Union of India and others as respondents.
+
 ## Key points
 
 - The letter gives formal notice of the writ petition's listing before a Division Bench of the Bombay High Court.

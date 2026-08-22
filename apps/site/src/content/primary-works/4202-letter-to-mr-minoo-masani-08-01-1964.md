@@ -52,6 +52,12 @@ summary: |-
   Rajagopalachari then addresses the 17th Amendment and Latchanna's campaign against it. He supports lawful public opposition through demonstrations, processions, and meetings, but rejects direct action while the amendment remains a bill. If it becomes law, he says, individual action and support for agricultural and peasant organisations may be appropriate. He closes by noting his recovery and his hope of being well enough to attend the Bangalore functions.
 ---
 
+## Summary
+
+In this letter dated 8 January 1964, C. Rajagopalachari congratulates M. R. Masani on the successful Bangalore convention of the Swatantra Party and welcomes Gayatri Devi's participation in its public meeting. He reports satisfaction with the party's civic-election successes and with the Congress's difficulties in Rajasthan, while warning that the Jan Sangh's narrow response to the Rajasthan battle could make future joint action more difficult.
+
+Rajagopalachari then addresses the 17th Amendment and Latchanna's campaign against it. He supports lawful public opposition through demonstrations, processions, and meetings, but rejects direct action while the amendment remains a bill. If it becomes law, he says, individual action and support for agricultural and peasant organisations may be appropriate. He closes by noting his recovery and his hope of being well enough to attend the Bangalore functions.
+
 ## Key points
 
 - Rajagopalachari praises Masani's work in making the Bangalore convention a success.

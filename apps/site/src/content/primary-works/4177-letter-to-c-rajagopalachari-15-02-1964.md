@@ -48,6 +48,12 @@ summary: |-
   The letter is warm and lightly teasing. Masani thanks Rajagopalachari for his appreciation of his efforts, but recalls Rajagopalachari’s earlier suggestion that he stop wasting his “valuable talent” in the Swatantra Party and settle down as a schoolmaster. The document combines personal correspondence with a brief reference to Masani’s political role in the Swatantra Party.
 ---
 
+## Summary
+
+In this one-page letter dated February 18, 1964, Minoo Masani writes from New Delhi to C. Rajagopalachari (“Rajaji”) after receiving Rajagopalachari’s letter of August 5, 1950. Masani explains that Mr. Hawkins of Oxford University Press sent him a copy of the earlier letter after seeing Masani’s book, "Our Growing Human Family."
+
+The letter is warm and lightly teasing. Masani thanks Rajagopalachari for his appreciation of his efforts, but recalls Rajagopalachari’s earlier suggestion that he stop wasting his “valuable talent” in the Swatantra Party and settle down as a schoolmaster. The document combines personal correspondence with a brief reference to Masani’s political role in the Swatantra Party.
+
 ## Key points
 
 - The letter is dated February 18, 1964, and was sent from 57 Lodi Estate, New Delhi 11.

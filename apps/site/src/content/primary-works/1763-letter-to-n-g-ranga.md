@@ -46,6 +46,12 @@ summary: |-
   The page does not identify a title, date, publisher, formal authorial byline, or the subject of the requested information or action. It therefore documents a brief office communication, but its broader political or administrative context cannot be established from the rendered page alone.
 ---
 
+## Summary
+
+This single-page English compliments slip is printed on “RED GATE” letterhead from Nizam-U-Din Extension, New Delhi-13. It bears the phrase “With the Compliments of Dhanam Yash Dev” and is addressed to “Shri N G Ranga, M P, New Delhi.” The sender asks that the document be used “For Information & any action he may consider necessary.”
+
+The page does not identify a title, date, publisher, formal authorial byline, or the subject of the requested information or action. It therefore documents a brief office communication, but its broader political or administrative context cannot be established from the rendered page alone.
+
 ## Key points
 
 - The document is a one-page printed compliments slip in English.

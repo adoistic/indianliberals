@@ -54,6 +54,12 @@ summary: |-
   The central political discussion concerned the collapse of negotiations for a broader democratic alliance or electoral front before the Lok Sabha elections. The Executive unanimously criticised the abandonment of the proposed arrangement, reaffirmed the Party's desire for a full-fledged alliance, and decided that the Swatantra Party should join a Front meeting in Delhi on 3 January 1971, provided there was one agreed candidate in each constituency. The final pages turn to the Party's election manifesto. They authorise Masani, Dandekar, H. M. Patel, and R. C. Cooper to settle its draft in relation to the AICC (O) resolution of 28 June 1970, with proposed themes including employment, prices, production, agricultural support prices, constitutional liberties, good government, rural welfare, minorities, backward areas, infrastructure, and poverty eradication.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party National Executive's sixth meeting, held in Madras on 8–9 January 1971. The meeting reviewed the postponement of the National Convention, election broadcasts, the political situation in Orissa, and negotiations concerning an electoral alliance with Congress (O), the Jan Sangh, and the SSP. The Executive accepted the need to monitor developments in Orissa, while expressing satisfaction with the Chief Minister's efforts to test his government's strength in the Assembly.
+
+The central political discussion concerned the collapse of negotiations for a broader democratic alliance or electoral front before the Lok Sabha elections. The Executive unanimously criticised the abandonment of the proposed arrangement, reaffirmed the Party's desire for a full-fledged alliance, and decided that the Swatantra Party should join a Front meeting in Delhi on 3 January 1971, provided there was one agreed candidate in each constituency. The final pages turn to the Party's election manifesto. They authorise Masani, Dandekar, H. M. Patel, and R. C. Cooper to settle its draft in relation to the AICC (O) resolution of 28 June 1970, with proposed themes including employment, prices, production, agricultural support prices, constitutional liberties, good government, rural welfare, minorities, backward areas, infrastructure, and poverty eradication.
+
 ## Key points
 
 - The National Executive confirmed the minutes of its 8 November 1970 meeting.

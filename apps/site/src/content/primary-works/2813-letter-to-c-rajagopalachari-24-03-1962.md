@@ -50,6 +50,12 @@ summary: |-
   The second page turns to the convention and associated public meetings. Masani rejects postponement after consulting K. M. Munshi and other colleagues, noting that Parliament and the Parliamentary Board must meet in Delhi on 15 April. The convention is therefore scheduled for 7–8 April, with a working-class public meeting in Mazagaon on the night of 8 April. The letter also sketches the intended multilingual format: Dandekar will preside and speak in Marathi, Rajagopalachari in English, and Masani and others in Hindustani.
 ---
 
+## Summary
+
+This letter from M. R. Masani to C. Rajagopalachari, dated 24 March 1962, concerns the organisation of the Swatantra Party's leadership and forthcoming convention. Masani encloses two alternative letters for Rajagopalachari to sign and send to Aney, explaining that he has removed a provocative sentence about pooling efforts with the DMK in the newly elected Madras Assembly. He also discusses whether the Lok Sabha Group should be encouraged to nominate Rajagopalachari as its leader, while cautioning that reports of rival canvassing make it premature to raise expectations before the group and Parliamentary Board have decided the matter.
+
+The second page turns to the convention and associated public meetings. Masani rejects postponement after consulting K. M. Munshi and other colleagues, noting that Parliament and the Parliamentary Board must meet in Delhi on 15 April. The convention is therefore scheduled for 7–8 April, with a working-class public meeting in Mazagaon on the night of 8 April. The letter also sketches the intended multilingual format: Dandekar will preside and speak in Marathi, Rajagopalachari in English, and Masani and others in Hindustani.
+
 ## Key points
 
 - Masani sends Rajagopalachari two alternative letters to forward to Aney.

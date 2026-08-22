@@ -47,6 +47,12 @@ summary: |-
   Shah expresses willingness to make efforts to maintain the party’s identity and existence under Masani’s guidance. He reiterates his request that the party’s leaders not proceed further toward a merger, suggesting that it may not yet be too late to reverse that course, while acknowledging that Masani may have difficulty persuading them.
 ---
 
+## Summary
+
+In this letter dated 27 May 1974, Sumatilal P. Shah replies to Minoo Masani about the future of the Swatantra Party. Shah thanks Masani for reading his earlier letter with “great interest and a considerable amount of agreement and sympathy,” and says this response has reassured him.
+
+Shah expresses willingness to make efforts to maintain the party’s identity and existence under Masani’s guidance. He reiterates his request that the party’s leaders not proceed further toward a merger, suggesting that it may not yet be too late to reverse that course, while acknowledging that Masani may have difficulty persuading them.
+
 ## Key points
 
 - The letter is dated 27 May 1974 and was sent from Poona City.

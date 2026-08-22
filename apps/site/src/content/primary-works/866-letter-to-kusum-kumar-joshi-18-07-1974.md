@@ -47,6 +47,12 @@ summary: |-
   Masani also encloses a resolution he has tabled for discussion. Its stated purpose is to help the party find a way out of an impending split, and he asks Joshi whether she approves of his approach. The letter is signed by Masani and addressed to Joshi at Mahadev Wadi, Gondal, Rajkot District, Gujarat.
 ---
 
+## Summary
+
+In this typed letter dated July 18, 1974, M. R. Masani writes to Kusum Kumari Joshi about his proposed attendance at the National Convention in Delhi on August 4 and 5. He anticipates seeing Joshi there and acknowledges her continuing willingness to speak out.
+
+Masani also encloses a resolution he has tabled for discussion. Its stated purpose is to help the party find a way out of an impending split, and he asks Joshi whether she approves of his approach. The letter is signed by Masani and addressed to Joshi at Mahadev Wadi, Gondal, Rajkot District, Gujarat.
+
 ## Key points
 
 - The letter is dated July 18, 1974, and is signed by M. R. Masani.

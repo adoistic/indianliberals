@@ -51,6 +51,12 @@ summary: |-
   In the rendered page, the article also examines the electoral position of the DMK in Tamil Nadu and the Congress governments in Mysore and Gujarat. It suggests that the DMK’s declining prestige has encouraged an electoral adjustment with several opposition parties, while the Congress’s prospects depend on whether it retains a majority and whether Prime Minister Mrs Gandhi continues in office. The article concludes that post-election developments may produce pressure within Congress if competing groups win majorities in both state and national contests.
 ---
 
+## Summary
+
+In the rendered page, the article criticizes the dissolution of Parliament and the hurried electoral realignments that follow it. It argues that parties are making state-level alliances without consistent national principles: the Communist Party of India and the Muslim League cooperate in Kerala but not necessarily in the Lok Sabha election, while the BKD aligns with the Organisation Congress, Jan Sangh, Swatantra and SSP in Rajasthan but adopts a different posture in Uttar Pradesh. The article presents these arrangements as tactical and potentially misleading rather than as expressions of coherent political programmes.
+
+In the rendered page, the article also examines the electoral position of the DMK in Tamil Nadu and the Congress governments in Mysore and Gujarat. It suggests that the DMK’s declining prestige has encouraged an electoral adjustment with several opposition parties, while the Congress’s prospects depend on whether it retains a majority and whether Prime Minister Mrs Gandhi continues in office. The article concludes that post-election developments may produce pressure within Congress if competing groups win majorities in both state and national contests.
+
 ## Key points
 
 - The article links the dissolution of Parliament to rushed candidate selection and unstable political alliances.

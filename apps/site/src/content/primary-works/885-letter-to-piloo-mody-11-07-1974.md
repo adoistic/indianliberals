@@ -53,6 +53,12 @@ summary: |-
   Mody also challenges Masani’s political consistency. He contrasts Masani’s reported view that existing parties had become irrelevant with his opposition to dissolving them, and urges him to continue political and social work in order to preserve India’s democratic system. Mody argues that the emerging party already has a clear programme and could eventually expand to include Congress (O), Jan Sangh, DMK and the Akalis. The letter closes by addressing procedural disputes over resolutions at Maharashtra and Gujarat State Council meetings and by accepting, in principle, the idea of transforming Swatantra into a non-political service organisation, provided that this question is kept distinct from the immediate political reorganisation.
 ---
 
+## Summary
+
+This 11 July 1974 letter from Piloo Mody to Minoo Masani is a detailed rebuttal of Masani’s objections to the proposed reorganisation of the Swatantra Party and the creation of a broader non-Communist political alternative. Mody disputes Masani’s account of their earlier discussions, rejects the claim that the proposed programme is “vague and platonic,” and defends the effort to bring multiple parties together. He cites negotiations involving the BKD, Charan Singh, Prof. Ranga and N. Dandekar, arguing that ideological differences—especially over socialism—had complicated a merger or alliance.
+
+Mody also challenges Masani’s political consistency. He contrasts Masani’s reported view that existing parties had become irrelevant with his opposition to dissolving them, and urges him to continue political and social work in order to preserve India’s democratic system. Mody argues that the emerging party already has a clear programme and could eventually expand to include Congress (O), Jan Sangh, DMK and the Akalis. The letter closes by addressing procedural disputes over resolutions at Maharashtra and Gujarat State Council meetings and by accepting, in principle, the idea of transforming Swatantra into a non-political service organisation, provided that this question is kept distinct from the immediate political reorganisation.
+
 ## Key points
 
 - Mody rejects Masani’s claim that his earlier reply gave excessive publicity to the dispute.

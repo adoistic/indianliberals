@@ -50,6 +50,12 @@ summary: |-
   Raju discusses pending organisational and political correspondence. He says that Masani's speech to the Bombay Regional Convention has not yet been transcribed, records having promised a transcription by March 2, and notes that he has shown Masani's letter concerning opposition to Dayabhai Patel's nomination to H. M. Patel. He adds that a letter to H. M. Patel and Baria about the Central Parliamentary Board's decision on Dayabhai Patel has been issued. A handwritten postscript refers to enclosed replies concerning H. M. Patel, Jaydeep... and H. R. N. Singh, and the Rajya Sabha election.
 ---
 
+## Summary
+
+This letter from S. V. Raju to Minoo Masani, dated February 25, 1970, acknowledges two telegrams and transmits three items: minutes of a joint meeting held at Masani's Delhi residence on May 26–27, 1969; Jam Saheb's voting record; and a circular asking state units to guard against “Railway Budget.” Raju also reports that material concerning the Consumer Guidance Society will be delivered by Dr. Cooper during a visit to Delhi.
+
+Raju discusses pending organisational and political correspondence. He says that Masani's speech to the Bombay Regional Convention has not yet been transcribed, records having promised a transcription by March 2, and notes that he has shown Masani's letter concerning opposition to Dayabhai Patel's nomination to H. M. Patel. He adds that a letter to H. M. Patel and Baria about the Central Parliamentary Board's decision on Dayabhai Patel has been issued. A handwritten postscript refers to enclosed replies concerning H. M. Patel, Jaydeep... and H. R. N. Singh, and the Rajya Sabha election.
+
 ## Key points
 
 - Raju acknowledges two telegrams from Minoo Masani.

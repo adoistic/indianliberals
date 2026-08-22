@@ -50,6 +50,12 @@ summary: |-
   The executive authorised its president, H. M. Patel, to present the Gujarat unit's position at the Swatantra Party's all-India general council meeting in Madras on June 1 and 2. It also discussed the case of Bhagwanji Patel and finalised a recommendation for consideration by the council. The clipping is credited to Express News Service and is dated Ahmedabad, May 27; the year is not printed in the clipping itself.
 ---
 
+## Summary
+
+This one-page English newspaper clipping reports disagreement within the Gujarat Swatantra Party over Minoo Masani's suggestion that the party's existing executive be replaced by an ad hoc committee. The executive, meeting in Ahmedabad, rejected the proposal and maintained that the party remained strong despite recent events.
+
+The executive authorised its president, H. M. Patel, to present the Gujarat unit's position at the Swatantra Party's all-India general council meeting in Madras on June 1 and 2. It also discussed the case of Bhagwanji Patel and finalised a recommendation for consideration by the council. The clipping is credited to Express News Service and is dated Ahmedabad, May 27; the year is not printed in the clipping itself.
+
 ## Key points
 
 - The Gujarat Swatantra Party executive opposed replacing the existing set-up with an ad hoc committee.

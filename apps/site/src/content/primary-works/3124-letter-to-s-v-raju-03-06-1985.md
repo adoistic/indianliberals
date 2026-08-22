@@ -46,6 +46,12 @@ summary: |-
   The document is a brief covering letter rather than an argumentative or analytical work. It provides evidence of a circulation link between the Farmers’ Federation of India, Freedom First, and a memorial lecture associated with M. R. Masani.
 ---
 
+## Summary
+
+This one-page letter, dated 3 June 1985, is from N. K. Ganapathiah, Secretary General of the Farmers’ Federation of India, to S. V. Raju, editor of Freedom First. Ganapathiah reports that he is sending ten copies of the Second Rajaji Memorial Lecture, delivered by M. R. Masani in Bangalore on 22 December 1984, and asks Raju to acknowledge receipt.
+
+The document is a brief covering letter rather than an argumentative or analytical work. It provides evidence of a circulation link between the Farmers’ Federation of India, Freedom First, and a memorial lecture associated with M. R. Masani.
+
 ## Key points
 
 - The letter is dated 3 June 1985 and was sent from Harley Estate, Sakleshpur, India.

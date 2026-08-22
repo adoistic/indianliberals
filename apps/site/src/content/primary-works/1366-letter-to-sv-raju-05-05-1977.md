@@ -51,6 +51,12 @@ summary: |-
   The PDF also contains fifteen appended pages of apparently unrelated Hindi and English parliamentary transcript material, marked “Uncorrected—Not for Publication” and headed “Shri Lobo Prabhu—contd.” Those pages discuss the Home Ministry, minority protection, religious freedom, police independence, Centre–State relations, administrative reform, corruption, and public servants. They do not appear to form part of Singh’s letter and are catalogued here as an appended archival anomaly rather than as evidence of the letter’s argument.
 ---
 
+## Summary
+
+This item is a signed letter from Bhanu Pratap Singh, dated 5 May 1977 and written on his Rajya Sabha parliamentary letterhead in New Delhi. Addressed to “Mr. Raju,” it explains why the Janata Party could not admit Swatantra Party workers as a group: the party had already decided to absorb new entrants only as individuals, alongside members of four other constituent groups. Singh reports that he had urged Chandrashekhar to invite opposition members from other parties to join the Janata Party individually and expresses his personal willingness to remain associated with his Swatantra Party colleagues.
+
+The PDF also contains fifteen appended pages of apparently unrelated Hindi and English parliamentary transcript material, marked “Uncorrected—Not for Publication” and headed “Shri Lobo Prabhu—contd.” Those pages discuss the Home Ministry, minority protection, religious freedom, police independence, Centre–State relations, administrative reform, corruption, and public servants. They do not appear to form part of Singh’s letter and are catalogued here as an appended archival anomaly rather than as evidence of the letter’s argument.
+
 ## Key points
 
 - The principal document is a personal letter dated 5 May 1977 from Bhanu Pratap Singh to “Mr. Raju.”

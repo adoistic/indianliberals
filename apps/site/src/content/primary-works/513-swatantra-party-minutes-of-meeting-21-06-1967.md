@@ -52,6 +52,10 @@ summary: |-
   These two pages record the Swatantra Party Executive Committee meeting held on June 21, 1967, at Parliament House in New Delhi. The committee discussed the party’s response to Communist China’s recent hydrogen-bomb explosion and supported seeking a nuclear shield or guarantee from friendly countries, on the grounds that manufacturing an atomic weapon was not economically feasible and that the country lacked military capability to maintain one. It also decided to move a motion concerning the Unlawful Activities (Prevention) Bill and to oppose the proposed Select Committee on Nath Pai’s Fundamental Rights Bill.
 ---
 
+## Summary
+
+These two pages record the Swatantra Party Executive Committee meeting held on June 21, 1967, at Parliament House in New Delhi. The committee discussed the party’s response to Communist China’s recent hydrogen-bomb explosion and supported seeking a nuclear shield or guarantee from friendly countries, on the grounds that manufacturing an atomic weapon was not economically feasible and that the country lacked military capability to maintain one. It also decided to move a motion concerning the Unlawful Activities (Prevention) Bill and to oppose the proposed Select Committee on Nath Pai’s Fundamental Rights Bill.
+
 ## Key points
 
 - The Executive Committee met with Prof. N. G. Ranga in the chair and J. M. Lobo Prabhu acting as secretary.

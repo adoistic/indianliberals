@@ -49,6 +49,12 @@ summary: |-
   The entries show a wide range of institutional responsibilities, including taxation, general insurance, railways, agriculture, wildlife, social welfare, subordinate legislation, criminal law, contract labour, and government liability. The second page continues the list with members associated with contract-labour legislation, private members’ bills and resolutions, parliamentary assurances, and the Central Silk Board. The document is a personnel and committee-service record rather than an authored argument; no date, issuing body, title, or author is printed on the pages.
 ---
 
+## Summary
+
+This untitled two-page administrative list records members who had expressed a desire to serve on one of three financial committees. For each member, it lists previous or current service on parliamentary committees, advisory committees, boards, and select committees dealing with legislation and public policy.
+
+The entries show a wide range of institutional responsibilities, including taxation, general insurance, railways, agriculture, wildlife, social welfare, subordinate legislation, criminal law, contract labour, and government liability. The second page continues the list with members associated with contract-labour legislation, private members’ bills and resolutions, parliamentary assurances, and the Central Silk Board. The document is a personnel and committee-service record rather than an authored argument; no date, issuing body, title, or author is printed on the pages.
+
 ## Key points
 
 - The document identifies members who wished to serve on one of three financial committees.

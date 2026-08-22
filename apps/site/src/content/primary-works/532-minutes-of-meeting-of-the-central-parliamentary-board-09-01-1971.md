@@ -52,6 +52,10 @@ summary: |-
   These draft minutes record the Swatantra Party Central Parliamentary Board meeting held in Madras on 9 January 1971. The Board confirmed the previous minutes, established principles for allocating constituencies among the parties forming an electoral Front, and discussed joint campaigning. The party that had held a Lok Sabha constituency in the previous election would ordinarily receive the nomination; where it had no nominee, the nomination was to go to the candidate judged most likely to win. State units were asked to coordinate campaign arrangements, while candidates were to decide how jointly issued posters, leaflets, and publicity material would be handled. Party leaders were assigned tours, and candidates were offered motorcycles and jeeps, with costs recovered through deductions from their subsidies or campaign allocations.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Central Parliamentary Board meeting held in Madras on 9 January 1971. The Board confirmed the previous minutes, established principles for allocating constituencies among the parties forming an electoral Front, and discussed joint campaigning. The party that had held a Lok Sabha constituency in the previous election would ordinarily receive the nomination; where it had no nominee, the nomination was to go to the candidate judged most likely to win. State units were asked to coordinate campaign arrangements, while candidates were to decide how jointly issued posters, leaflets, and publicity material would be handled. Party leaders were assigned tours, and candidates were offered motorcycles and jeeps, with costs recovered through deductions from their subsidies or campaign allocations.
+
 ## Key points
 
 - The Board confirmed the minutes of its 7 November 1970 meeting.

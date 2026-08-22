@@ -52,6 +52,10 @@ summary: |-
   These minutes record a General Body meeting of the Swatantra Party in Parliament held on 6 August 1968. Twenty-three party members are listed as present, including N. G. Ranga, Minoo Masani, C. C. Desai, D. N. Patodia, Piloo Mody, and R. K. Amin. The meeting took place at Room 62, First Floor, Parliament House, New Delhi, and the minutes were issued by the party's Parliamentary Office on 7 August 1968.
 ---
 
+## Summary
+
+These minutes record a General Body meeting of the Swatantra Party in Parliament held on 6 August 1968. Twenty-three party members are listed as present, including N. G. Ranga, Minoo Masani, C. C. Desai, D. N. Patodia, Piloo Mody, and R. K. Amin. The meeting took place at Room 62, First Floor, Parliament House, New Delhi, and the minutes were issued by the party's Parliamentary Office on 7 August 1968.
+
 ## Key points
 
 - The meeting was held at 5:00 p.m. on Monday, 6 August 1968.

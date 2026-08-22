@@ -49,6 +49,12 @@ summary: |-
   Speakers described Rajaji as a bridge between the past and the present and emphasized that his literary friendships brought him closer to people than his political associations did. Dr. V. Raghavan read Rajaji's Sanskrit poem “Kavitān̄jali,” while other participants recalled his educational and literary contributions; the meeting concluded as a mark of respect to his memory.
 ---
 
+## Summary
+
+This newspaper clipping reports tributes paid to the late C. Rajagopalachari (Rajaji) at a meeting of the Southern Sahitya Akademi in Madras. The resolution recalled his association with the Akademi from its inception, his receipt of its 1958 award for Tamil, and his work in both English and Tamil. It presented Rajaji's writing as marked by introspection, persuasion, and purposeful expression.
+
+Speakers described Rajaji as a bridge between the past and the present and emphasized that his literary friendships brought him closer to people than his political associations did. Dr. V. Raghavan read Rajaji's Sanskrit poem “Kavitān̄jali,” while other participants recalled his educational and literary contributions; the meeting concluded as a mark of respect to his memory.
+
 ## Key points
 
 - The clipping reports a resolution honoring the late C. Rajagopalachari at a meeting of the Southern Sahitya Akademi.

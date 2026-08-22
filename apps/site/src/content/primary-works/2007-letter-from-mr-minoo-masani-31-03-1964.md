@@ -47,6 +47,10 @@ summary: |-
   This untitled English letter, dated 31 March 1964, is written by Minoo Masani from the Swatantra Party Parliamentary Group Office to Mr. A. P. Jain. Masani asks that summaries of speeches delivered by the party’s Members of Parliament be sent to the editor of Politics, a newspaper in Choti Brahmapuri, Udaipur, which he describes as supporting the Swatantra Party and potentially willing to publish the reports. The letter notes that a copy of the newspaper is attached.
 ---
 
+## Summary
+
+This untitled English letter, dated 31 March 1964, is written by Minoo Masani from the Swatantra Party Parliamentary Group Office to Mr. A. P. Jain. Masani asks that summaries of speeches delivered by the party’s Members of Parliament be sent to the editor of Politics, a newspaper in Choti Brahmapuri, Udaipur, which he describes as supporting the Swatantra Party and potentially willing to publish the reports. The letter notes that a copy of the newspaper is attached.
+
 ## Key points
 
 - The letter is dated 31 March 1964.

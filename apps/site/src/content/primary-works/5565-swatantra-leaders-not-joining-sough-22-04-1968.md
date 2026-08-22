@@ -49,6 +49,10 @@ summary: |-
   This one-page newspaper clipping reports that Pravinsinhji Solanki, General Secretary of the Gujarat Swatantra Party, categorically denied a statement attributed to Atal Bihari Vajpayee, identified as president of the Jan Sangh. Solanki denied that he had held talks with Vajpayee about joining the Sangh.
 ---
 
+## Summary
+
+This one-page newspaper clipping reports that Pravinsinhji Solanki, General Secretary of the Gujarat Swatantra Party, categorically denied a statement attributed to Atal Bihari Vajpayee, identified as president of the Jan Sangh. Solanki denied that he had held talks with Vajpayee about joining the Sangh.
+
 ## Key points
 
 - The report is datelined Ahmedabad, April 21.

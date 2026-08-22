@@ -46,6 +46,10 @@ summary: |-
   This two-page scan contains a typed letter from Girish Munshi to Shri V. S. Srikumar, dated June 27, 1975. Munshi acknowledges Srikumar's letters of June 20 and June 23 and a telegram dated June 25, and explains that he tried unsuccessfully to reach him by telephone at both the office and residence. He asks Srikumar to telephone him at night through the Party office.
 ---
 
+## Summary
+
+This two-page scan contains a typed letter from Girish Munshi to Shri V. S. Srikumar, dated June 27, 1975. Munshi acknowledges Srikumar's letters of June 20 and June 23 and a telegram dated June 25, and explains that he tried unsuccessfully to reach him by telephone at both the office and residence. He asks Srikumar to telephone him at night through the Party office.
+
 ## Key points
 
 - The letter is dated June 27, 1975, and is signed by Girish Munshi.

@@ -55,6 +55,12 @@ summary: |-
   The circular combines administrative rules with a district-by-district allocation of committee representation for Maharashtra, including Bombay, Poona, Sholapur, Osmanabad, Aurangabad, and Nashik. It identifies returning officers, provides election dates, times, and venues for numerous local units, and states that their decisions on primary-unit and district committee elections will be final. The final page is a blank nomination form requiring the nominator, seconder, and candidate to provide signatures, card numbers, and dates.
 ---
 
+## Summary
+
+This 15 October 1973 Swatantra Party Maharashtra circular sets out the procedure and timetable for the party’s fifth internal elections. It requires primary- and district-level elections to be completed by 15 November 1973, State Executive Committee and State Council elections by 30 November, and elections to the National Executive by 31 December. It also explains eligibility requirements for voters and candidates at primary-unit, district, state, and national levels, including the requirement that candidates appear on the relevant party electoral roll.
+
+The circular combines administrative rules with a district-by-district allocation of committee representation for Maharashtra, including Bombay, Poona, Sholapur, Osmanabad, Aurangabad, and Nashik. It identifies returning officers, provides election dates, times, and venues for numerous local units, and states that their decisions on primary-unit and district committee elections will be final. The final page is a blank nomination form requiring the nominator, seconder, and candidate to provide signatures, card numbers, and dates.
+
 ## Key points
 
 - The circular is dated 15 October 1973 and concerns the Swatantra Party’s fifth party elections.

@@ -48,6 +48,10 @@ summary: |-
   In this letter dated July 1, 1974, S. V. Raju urges Girish to reconsider a proposal to transfer the Swatantra Party’s assets to a new party. Raju argues that the assets belong exclusively to the Swatantra Party and were accumulated to advance its principles, not to support an organisation with a different philosophy. He is particularly concerned that the party’s properties and assets may be dissipated under Piloo Mody’s leadership at the national level.
 ---
 
+## Summary
+
+In this letter dated July 1, 1974, S. V. Raju urges Girish to reconsider a proposal to transfer the Swatantra Party’s assets to a new party. Raju argues that the assets belong exclusively to the Swatantra Party and were accumulated to advance its principles, not to support an organisation with a different philosophy. He is particularly concerned that the party’s properties and assets may be dissipated under Piloo Mody’s leadership at the national level.
+
 ## Key points
 
 - Raju rejects transferring Swatantra Party assets to a new party.

@@ -45,6 +45,10 @@ summary: |-
   This untitled personal letter, dated June 3, 1970, is written by Asoka Mehta from New Delhi to Minoo Masani. Mehta thanks Masani for a letter dated May 29 and says he has not yet had time to read carefully a note Masani sent before Morarji Desai returns to Delhi. On an initial reading, however, Mehta finds the note welcome and asks when Masani is likely to be in Delhi.
 ---
 
+## Summary
+
+This untitled personal letter, dated June 3, 1970, is written by Asoka Mehta from New Delhi to Minoo Masani. Mehta thanks Masani for a letter dated May 29 and says he has not yet had time to read carefully a note Masani sent before Morarji Desai returns to Delhi. On an initial reading, however, Mehta finds the note welcome and asks when Masani is likely to be in Delhi.
+
 ## Key points
 
 - The letter is dated June 3, 1970, and is written on Asoka Mehta's Member of Parliament (Lok Sabha) letterhead.

@@ -49,6 +49,12 @@ summary: |-
   The page records a brief logistical communication within the Swatantra Party rather than an extended political argument. The sender’s full identity and the precise purpose of the visit are not stated on the rendered page.
 ---
 
+## Summary
+
+This single-page English telegram, dated 21 October 1959, is addressed to Uggappashetty of the Swatantra Party in Mangalore. Signed or identified as “MASANI,” it communicates travel plans: arrival by plane on the morning of the 25th and return the same day. The document also bears a Bombay address for Masani at 148 Mahatma Gandhi Road, Bombay 1.
+
+The page records a brief logistical communication within the Swatantra Party rather than an extended political argument. The sender’s full identity and the precise purpose of the visit are not stated on the rendered page.
+
 ## Key points
 
 - The document is a one-page telegram in English.

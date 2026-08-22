@@ -64,6 +64,12 @@ summary: |-
   The paper argues that human development cannot be separated from freedom, morality, and ethics, rejecting the claim that economic gains justify political repression. It presents unemployment, poverty, illiteracy, and inadequate rural development as evidence that the Emergency's economic achievements are temporary or overstated. Its proposed response is explicitly Gandhian: Indians in the United States will begin a 120-mile satyagraha march from Philadelphia's Independence Hall to the United Nations in New York from September 20 to October 1, ending in a vigil and prayers. The concluding appeal asks Gandhi to release prisoners held without trial, restore democratic processes, and call elections, while warning that continued repression will provoke wider nonviolent resistance.
 ---
 
+## Summary
+
+This 1976 position paper, issued in the name of Indians for Democracy (IFD), condemns the Indian Emergency as an assault on conscience, constitutional government, and basic human rights. It links the revocation of an Indian student's scholarship, the impounding of passports belonging to Indian citizens in North America, preventive detention, censorship, constitutional amendments, and the postponement of elections to a broader suppression of democratic accountability. The document addresses its memorandum directly to Prime Minister Indira Gandhi and calls for the restoration of passports, civil liberties, judicial independence, press freedom, and the electoral process.
+
+The paper argues that human development cannot be separated from freedom, morality, and ethics, rejecting the claim that economic gains justify political repression. It presents unemployment, poverty, illiteracy, and inadequate rural development as evidence that the Emergency's economic achievements are temporary or overstated. Its proposed response is explicitly Gandhian: Indians in the United States will begin a 120-mile satyagraha march from Philadelphia's Independence Hall to the United Nations in New York from September 20 to October 1, ending in a vigil and prayers. The concluding appeal asks Gandhi to release prisoners held without trial, restore democratic processes, and call elections, while warning that continued repression will provoke wider nonviolent resistance.
+
 ## Key points
 
 - The statement identifies freedom of conscience as a fundamental human right and condemns its suppression.

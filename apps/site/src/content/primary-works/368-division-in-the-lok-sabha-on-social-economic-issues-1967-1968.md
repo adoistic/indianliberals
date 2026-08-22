@@ -60,6 +60,12 @@ summary: |-
   The pages show a legislature engaged both in routine financial and legislative business and in disputes over the scope of government intervention. Particularly visible are divisions over Gold Control, the Finance Bills, the Banking Laws (Amendment) Bill, the Essential Services Maintenance Bill, and constitutional aspects of legislation. The document also records motions relating to Scheduled Castes and Scheduled Tribes, flood conditions, rural housing, Bihar, and the powers of the Attorney-General. It is a procedural record rather than an argumentative essay: it documents parliamentary positions and interventions, but does not explain the parties’ broader ideological programmes or the outcomes beyond the brief descriptions in the table.
 ---
 
+## Summary
+
+This occasional paper is a chronological tabular record of divisions, motions, amendments, and bill proceedings in the Lok Sabha during 1967–1968. The entries identify the date, the subject matter, the recorded vote positions of the Swatantra Party and Jan Sangh, and a brief description of the question or motion on which a division was sought. The record covers legislation and parliamentary business concerning land acquisition, budgets and grants, finance, gold control, banking, property acquisition, public premises, rural housing, railways, essential services, insurance, industrial security, education, defence, external affairs, and state administration.
+
+The pages show a legislature engaged both in routine financial and legislative business and in disputes over the scope of government intervention. Particularly visible are divisions over Gold Control, the Finance Bills, the Banking Laws (Amendment) Bill, the Essential Services Maintenance Bill, and constitutional aspects of legislation. The document also records motions relating to Scheduled Castes and Scheduled Tribes, flood conditions, rural housing, Bihar, and the powers of the Attorney-General. It is a procedural record rather than an argumentative essay: it documents parliamentary positions and interventions, but does not explain the parties’ broader ideological programmes or the outcomes beyond the brief descriptions in the table.
+
 ## Key points
 
 - The document records Lok Sabha divisions and motions from 1967 through 1968 in chronological order.

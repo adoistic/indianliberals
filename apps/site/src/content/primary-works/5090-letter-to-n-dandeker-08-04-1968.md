@@ -51,6 +51,12 @@ summary: |-
   The letter urges the party to take appropriate action so that it can close its ranks and resume united work under the leadership of its respected leaders. It documents an immediate organisational response to Masani’s resignation, but does not provide further details about the reasons for the resignation or the subsequent deliberations.
 ---
 
+## Summary
+
+This one-page English letter, dated “5.4.68,” is from Tarachand Jain to N. Dandeker, General Secretary of the Swatantra Party. Jain requests that an emergency meeting of the party’s General Council be called to discuss M. R. Masani’s resignation from the National Executive and Central Parliamentary Board.
+
+The letter urges the party to take appropriate action so that it can close its ranks and resume united work under the leadership of its respected leaders. It documents an immediate organisational response to Masani’s resignation, but does not provide further details about the reasons for the resignation or the subsequent deliberations.
+
 ## Key points
 
 - Tarachand Jain wrote to N. Dandeker, General Secretary of the Swatantra Party.

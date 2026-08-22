@@ -55,3 +55,7 @@ ai:
 summary: |-
   This English-language packet assembles extracts from Encounter magazine (June 1972), The Times of India, and the Tata Monthly Bulletin. The visible material ranges from literary and historical reflections on India to arguments about minority safeguards, education, student politics, and Asian international relations. No editor or issuing publisher is identified, and the compilation uses mixed source pagination.
 ---
+
+## Summary
+
+This English-language packet assembles extracts from Encounter magazine (June 1972), The Times of India, and the Tata Monthly Bulletin. The visible material ranges from literary and historical reflections on India to arguments about minority safeguards, education, student politics, and Asian international relations. No editor or issuing publisher is identified, and the compilation uses mixed source pagination.

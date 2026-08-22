@@ -56,3 +56,7 @@ ai:
 summary: |-
   Issue no. 31 of the Swatantra Newsletter, dated February 1963, reports the party's response to the Chinese offensive, the cease-fire, and the Colombo Proposals. Its central political position is that India should reject an accommodation that would consolidate Chinese gains, seek military and diplomatic support from democratic countries, and preserve the ability to criticize the government during the National Emergency. Reports on parliamentary meetings, public meetings, state-party organisation, and speeches by Rajaji, M. R. Masani, Prof. Ranga, Piloo Mody, and Dahyabhai V. Patel present a coordinated Swatantra critique of non-alignment and the government's handling of the crisis.
 ---
+
+## Summary
+
+Issue no. 31 of the Swatantra Newsletter, dated February 1963, reports the party's response to the Chinese offensive, the cease-fire, and the Colombo Proposals. Its central political position is that India should reject an accommodation that would consolidate Chinese gains, seek military and diplomatic support from democratic countries, and preserve the ability to criticize the government during the National Emergency. Reports on parliamentary meetings, public meetings, state-party organisation, and speeches by Rajaji, M. R. Masani, Prof. Ranga, Piloo Mody, and Dahyabhai V. Patel present a coordinated Swatantra critique of non-alignment and the government's handling of the crisis.

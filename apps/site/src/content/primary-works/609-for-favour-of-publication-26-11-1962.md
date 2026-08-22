@@ -51,6 +51,12 @@ summary: |-
   Masani argues that a clear declaration should preserve the Indian armed forces' freedom to attack Chinese positions or harry a withdrawal. He contends that, with equipment and assistance from the United States and the United Kingdom—including possible tactical air support—India could establish numerical superiority and launch a counter-attack on its own territory. He rejects withdrawal from exposed positions as an abdication of responsibility, invoking Winston Churchill's “The time to fight is now or never.”
 ---
 
+## Summary
+
+This one-page press statement, dated Bombay, November 26, reports M. R. Masani's address at the inaugural meeting of “Indians for Victory,” a new organisation formed during the Sino-Indian conflict. Masani urges the Indian Government to categorically reject the Chinese ultimatum by November 30, warning that failure to do so would be interpreted by the enemy and the wider world as an acceptance of defeat.
+
+Masani argues that a clear declaration should preserve the Indian armed forces' freedom to attack Chinese positions or harry a withdrawal. He contends that, with equipment and assistance from the United States and the United Kingdom—including possible tactical air support—India could establish numerical superiority and launch a counter-attack on its own territory. He rejects withdrawal from exposed positions as an abdication of responsibility, invoking Winston Churchill's “The time to fight is now or never.”
+
 ## Key points
 
 - Masani calls for categorical rejection of the Chinese ultimatum by November 30.

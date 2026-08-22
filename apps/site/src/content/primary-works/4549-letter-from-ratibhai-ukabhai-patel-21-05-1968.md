@@ -49,6 +49,10 @@ summary: |-
   This three-page letter, dated 21 May 1968 and written by Ratibhai Ukabhai Patel as General Secretary of the Rajkot District Swatantra Party Committee, is addressed to H. M. Patel, president of the Gujarat Swatantra Party. It concerns party proceedings against Bhagwanjibhai Patel, whom the writer accuses of anti-party activity, opposition to official candidates, and conduct that contributed to organisational conflict in Rajkot and Junagadh. The writer objects that an investigation report has not been circulated to the executive committee, despite repeated requests, and argues that members must receive the report before discussing disciplinary action.
 ---
 
+## Summary
+
+This three-page letter, dated 21 May 1968 and written by Ratibhai Ukabhai Patel as General Secretary of the Rajkot District Swatantra Party Committee, is addressed to H. M. Patel, president of the Gujarat Swatantra Party. It concerns party proceedings against Bhagwanjibhai Patel, whom the writer accuses of anti-party activity, opposition to official candidates, and conduct that contributed to organisational conflict in Rajkot and Junagadh. The writer objects that an investigation report has not been circulated to the executive committee, despite repeated requests, and argues that members must receive the report before discussing disciplinary action.
+
 ## Key points
 
 - The letter reports that a Gujarat Swatantra Party office-bearers meeting sought to prevent a split in the party organisation in Saurashtra while urging corrective action against Bhagwanjibhai Patel.

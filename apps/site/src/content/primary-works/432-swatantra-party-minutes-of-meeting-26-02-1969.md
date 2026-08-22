@@ -53,6 +53,10 @@ summary: |-
   These two pages record the proceedings of a Swatantra Party Parliamentary Office Executive Committee meeting held on 25 February 1969 at Parliament House, New Delhi. The minutes list seven members present and assign party members to speak on the General Budget, Finance Bill, and Railway Budget. They also establish a procedural rule that members handling major budgetary or financial debates should not be the principal or first speakers on demands for grants.
 ---
 
+## Summary
+
+These two pages record the proceedings of a Swatantra Party Parliamentary Office Executive Committee meeting held on 25 February 1969 at Parliament House, New Delhi. The minutes list seven members present and assign party members to speak on the General Budget, Finance Bill, and Railway Budget. They also establish a procedural rule that members handling major budgetary or financial debates should not be the principal or first speakers on demands for grants.
+
 ## Key points
 
 - The Executive Committee meeting was held on 25 February 1969 at 10:15 a.m. in the Central Hall, Parliament House, New Delhi.

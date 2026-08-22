@@ -50,6 +50,12 @@ summary: |-
   The passage also presents inflation as incompatible with social justice because it penalises people on honest and fixed incomes while benefiting spenders and holders of black money. It concludes that inflation is curable rather than inevitable, requiring an educated and vigilant citizenry together with sensible government economic policy. The author is not identified on the visible page.
 ---
 
+## Summary
+
+The visible excerpt argues that inflation is not a temporary economic aberration but a serious threat to political and social order. It points to the Weimar Republic, Kuomintang China, Indonesia under Sukarno, South Korea, and the Philippines as examples of democratic societies becoming authoritarian amid rising inflation.
+
+The passage also presents inflation as incompatible with social justice because it penalises people on honest and fixed incomes while benefiting spenders and holders of black money. It concludes that inflation is curable rather than inevitable, requiring an educated and vigilant citizenry together with sensible government economic policy. The author is not identified on the visible page.
+
 ## Key points
 
 - Inflation is presented as a serious political and social danger, not a temporary economic abnormality.

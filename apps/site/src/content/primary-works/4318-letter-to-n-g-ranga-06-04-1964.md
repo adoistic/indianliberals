@@ -46,6 +46,10 @@ summary: |-
   In this typed letter dated 6 April 1964, M. R. Masani writes to Professor N. G. Ranga about arrangements for a Bombay City Convention and an upcoming discussion on the demands for grants of the Home Ministry. Masani and Gayatri Devi have agreed that she will open the discussion on Saturday, 11 April, while Masani will speak first on Monday, 13 April; each is allotted fifteen minutes. Masani also notes that he is returning to Delhi by plane on Monday morning specifically for the discussion.
 ---
 
+## Summary
+
+In this typed letter dated 6 April 1964, M. R. Masani writes to Professor N. G. Ranga about arrangements for a Bombay City Convention and an upcoming discussion on the demands for grants of the Home Ministry. Masani and Gayatri Devi have agreed that she will open the discussion on Saturday, 11 April, while Masani will speak first on Monday, 13 April; each is allotted fifteen minutes. Masani also notes that he is returning to Delhi by plane on Monday morning specifically for the discussion.
+
 ## Key points
 
 - Masani coordinates his and Gayatri Devi's speaking roles at the Bombay City Convention.

@@ -50,6 +50,12 @@ summary: |-
   The letter records a total pool of 83 bungalows. After adjustments, the parties receive allocations ranging from 2 bungalows for the United Arab group to 18 for Congress, with the Swatantra Party receiving 6. Mody argues that the calculation is equitable, emphasizing that fractional shares were considered and that Swatantra ultimately lost one bungalow marginally to the PSP.
 ---
 
+## Summary
+
+In this letter dated April 21, 1967, Piloo Mody writes from the Swatantra Party's Bombay office to M. R. Masani to clarify the allocation of party bungalows in the Lok Sabha pool. Mody presents a tabulation based on each party's parliamentary strength, deductions for ministerial and VIP allocations, and the resulting percentage shares.
+
+The letter records a total pool of 83 bungalows. After adjustments, the parties receive allocations ranging from 2 bungalows for the United Arab group to 18 for Congress, with the Swatantra Party receiving 6. Mody argues that the calculation is equitable, emphasizing that fractional shares were considered and that Swatantra ultimately lost one bungalow marginally to the PSP.
+
 ## Key points
 
 - The letter is addressed to M. R. Masani and seeks to resolve his doubts about bungalow allocations.

@@ -46,6 +46,12 @@ summary: |-
   Singh Deo explains that he will himself be in Calcutta on 24 June, having arrived from Bhubaneswar on the afternoon of 23 June. He proposes that, instead of Bhabha travelling to Bhubaneswar for two days, they meet in Calcutta on the 23rd or 24th morning; he also offers to remain in Calcutta on the 25th if further discussion is needed. A copy of the letter is sent to M. R. Masani in New Delhi.
 ---
 
+## Summary
+
+This single-page official letter, dated 6 June 1967, is from R. N. Singh Deo, Chief Minister of Orissa State, to C. H. Bhabha, Vice Chairman of the Central Bank of India. Singh Deo refers to M. R. Masani’s discussion with Bhabha and to Bhabha’s proposed visit to Calcutta on 23 June 1967.
+
+Singh Deo explains that he will himself be in Calcutta on 24 June, having arrived from Bhubaneswar on the afternoon of 23 June. He proposes that, instead of Bhabha travelling to Bhubaneswar for two days, they meet in Calcutta on the 23rd or 24th morning; he also offers to remain in Calcutta on the 25th if further discussion is needed. A copy of the letter is sent to M. R. Masani in New Delhi.
+
 ## Key points
 
 - The letter is dated 6 June 1967 and issued from the Orissa State Chief Minister’s office in Bhubaneswar.

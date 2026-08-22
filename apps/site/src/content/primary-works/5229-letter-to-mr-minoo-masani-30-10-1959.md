@@ -50,6 +50,12 @@ summary: |-
   The letter says that district conventions have begun and that the Punjab organisation is planning a campaign of public conferences to reach the wider population directly. Basant Singh also praises Masani’s inaugural address at the Bangalore Convention for its clarity and precision, and closes by offering assistance during the forthcoming parliamentary session in Delhi.
 ---
 
+## Summary
+
+This one-page letter, dated 30 October 1959 and issued from the Swatantra Party (Punjab) State Office in Patiala, reports on the Punjab State Swatantra Party Convention held at Patiala on 25 October. Basant Singh tells Minoo Masani that the convention was highly successful, attracting more than 8,000 delegates and strong participation from several regions. He presents this turnout as evidence of growing organisational strength and as a response to the Communist opposition to the party.
+
+The letter says that district conventions have begun and that the Punjab organisation is planning a campaign of public conferences to reach the wider population directly. Basant Singh also praises Masani’s inaugural address at the Bangalore Convention for its clarity and precision, and closes by offering assistance during the forthcoming parliamentary session in Delhi.
+
 ## Key points
 
 - The Punjab State Swatantra Party Convention was held at Patiala on 25 October 1959.

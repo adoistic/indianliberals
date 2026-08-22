@@ -43,6 +43,10 @@ summary: |-
   This one-page official letter, dated August 17, 1965, was sent from the Ministry of External Affairs in New Delhi by N. R. Pillai, identified as Chairman of the Ties Committee, to Minoo Masani, M.P. The letter acknowledges Masani's August 9 correspondence and responds courteously to his apparent delay in replying.
 ---
 
+## Summary
+
+This one-page official letter, dated August 17, 1965, was sent from the Ministry of External Affairs in New Delhi by N. R. Pillai, identified as Chairman of the Ties Committee, to Minoo Masani, M.P. The letter acknowledges Masani's August 9 correspondence and responds courteously to his apparent delay in replying.
+
 ## Key points
 
 - The document is a single-page letter on Ministry of External Affairs letterhead.

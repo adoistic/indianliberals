@@ -48,6 +48,12 @@ summary: |-
   The document is an administrative communication rather than a sustained political or theoretical work. Its surviving content consists of abbreviated routing and logistical information concerning jeep receipts and destinations.
 ---
 
+## Summary
+
+This one-page English telegram, issued on an Indian Posts and Telegraphs Department form and dated 21 January 1962, is addressed to Raju Surajyam in Bombay. Its clipped telegraphic text records that two more receipts had been obtained for jeeps bound for Sasaram and Bhagalpur, with Mohanlal also named in the message. The sender is not clearly identified; a handwritten note or signature is present but not sufficiently legible for attribution.
+
+The document is an administrative communication rather than a sustained political or theoretical work. Its surviving content consists of abbreviated routing and logistical information concerning jeep receipts and destinations.
+
 ## Key points
 
 - The document is a one-page telegram from the Indian Posts and Telegraphs Department.

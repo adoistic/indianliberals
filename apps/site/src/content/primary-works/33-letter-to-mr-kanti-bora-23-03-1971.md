@@ -43,6 +43,10 @@ summary: |-
   This single-page letter, dated 23 March 1971, is written by M. R. Masani to Mr. Kanti Bora of Sunder Sahitya Sansthan in Jodhpur. Masani acknowledges Bora’s postcard of 15 March and expresses appreciation for the solidarity conveyed by it.
 ---
 
+## Summary
+
+This single-page letter, dated 23 March 1971, is written by M. R. Masani to Mr. Kanti Bora of Sunder Sahitya Sansthan in Jodhpur. Masani acknowledges Bora’s postcard of 15 March and expresses appreciation for the solidarity conveyed by it.
+
 ## Key points
 
 - The document is a personal letter dated 23 March 1971.

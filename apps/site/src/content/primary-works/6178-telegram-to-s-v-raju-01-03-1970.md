@@ -51,6 +51,12 @@ summary: |-
   The document records a brief episode of organisational or political coordination rather than a developed argument. The exact date is not fully legible: the form shows “BOMBAY 71” and a postal stamp, but no unambiguous year is printed. The sender and recipient strips are visible, while parts of the message remain difficult to read.
 ---
 
+## Summary
+
+This one-page English telegram from M. M. Masani to S. V. Raju concerns the selection of a speaker on the budget. Masani says that the recipient's twenty-eighth suggestion has failed because a fifth candidate—whose name appears to be “S Palkhivala”—is already speaking on the budget, and proposes trying a sixth candidate identified in the telegram as “HOSAINI MOSANI.”
+
+The document records a brief episode of organisational or political coordination rather than a developed argument. The exact date is not fully legible: the form shows “BOMBAY 71” and a postal stamp, but no unambiguous year is printed. The sender and recipient strips are visible, while parts of the message remain difficult to read.
+
 ## Key points
 
 - Masani communicates with S. V. Raju about finding a speaker on the budget.

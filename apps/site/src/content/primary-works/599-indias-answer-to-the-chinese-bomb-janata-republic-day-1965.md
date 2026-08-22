@@ -50,6 +50,12 @@ summary: |-
   In the rendered pages, Masani presents deterrence—not retaliation—as the central objective. He argues that India cannot credibly threaten a first strike against China and therefore needs a public mutual-security guarantee that would make Beijing believe an attack would bring an immediate nuclear response. He insists that such an arrangement would not necessarily abandon non-alignment: in the rendered pages, he distinguishes neutrality between power blocs from cooperation with other countries for national survival. The essay concludes by urging India to abandon isolation and humiliation, cultivate friendly relations with its neighbours, and become self-reliant in conventional arms while relying on a wider security arrangement for nuclear deterrence. Printed page 8 is an advertisement and contains no part of the essay.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that India faces three possible responses to China's acquisition of nuclear weapons: appeal to world opinion, build an Indian bomb, or accept the principle of international interdependence and seek a credible nuclear deterrent from the United States and, if possible, the Soviet Union. He rejects reliance on world opinion as dangerously passive, pointing to China's attacks on Tibet and India and its disregard for international appeals. He also dismisses an indigenous bomb as financially, industrially, and strategically impractical, noting the enormous costs of production, delivery systems, and the diversion of resources from development.
+
+In the rendered pages, Masani presents deterrence—not retaliation—as the central objective. He argues that India cannot credibly threaten a first strike against China and therefore needs a public mutual-security guarantee that would make Beijing believe an attack would bring an immediate nuclear response. He insists that such an arrangement would not necessarily abandon non-alignment: in the rendered pages, he distinguishes neutrality between power blocs from cooperation with other countries for national survival. The essay concludes by urging India to abandon isolation and humiliation, cultivate friendly relations with its neighbours, and become self-reliant in conventional arms while relying on a wider security arrangement for nuclear deterrence. Printed page 8 is an advertisement and contains no part of the essay.
+
 ## Key points
 
 - Masani identifies appeals to world opinion, an Indian nuclear weapon, and an external deterrent based on interdependence as India's three options.

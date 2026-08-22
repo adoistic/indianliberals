@@ -47,6 +47,10 @@ summary: |-
   This one-page letter, dated May 21, 1964, is from S. V. Raju to C. Rajagopalachari (Rajaji). Raju explains that he had sent the full text of an article to S. Mulgaonkar with a personal letter, and that Mulgaonkar had published it in the May 20 issue after initially missing it. Raju is also forwarding the text to Dr. Radhakrishnan with a covering letter, but says he does not feel inclined to send it personally to the Prime Minister.
 ---
 
+## Summary
+
+This one-page letter, dated May 21, 1964, is from S. V. Raju to C. Rajagopalachari (Rajaji). Raju explains that he had sent the full text of an article to S. Mulgaonkar with a personal letter, and that Mulgaonkar had published it in the May 20 issue after initially missing it. Raju is also forwarding the text to Dr. Radhakrishnan with a covering letter, but says he does not feel inclined to send it personally to the Prime Minister.
+
 ## Key points
 
 - The letter is dated May 21, 1964.

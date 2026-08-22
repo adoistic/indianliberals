@@ -49,6 +49,10 @@ summary: |-
   This one-page letter, dated 23 June 1962 and addressed to the Deputy Manager of the Central Bank of India Limited in Bombay, concerns the repayment of an overdraft associated with the Swatantra Party. The writer explains that a prior bank letter arrived after Raja Bahadur Kamakhya Narain Singh had left India for Europe, and states that repayments had previously been made by the party's Central Office.
 ---
 
+## Summary
+
+This one-page letter, dated 23 June 1962 and addressed to the Deputy Manager of the Central Bank of India Limited in Bombay, concerns the repayment of an overdraft associated with the Swatantra Party. The writer explains that a prior bank letter arrived after Raja Bahadur Kamakhya Narain Singh had left India for Europe, and states that repayments had previously been made by the party's Central Office.
+
 ## Key points
 
 - The correspondence concerns an overdraft account held by or associated with the Swatantra Party.

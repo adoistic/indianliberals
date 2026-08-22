@@ -53,6 +53,12 @@ summary: |-
   The circular also revises an earlier procedural proposal. Although the National Executive had approved proposals concerning office bearers and members of the new National Executive and the procedure for inviting nominations, it withdraws the proposal to invite nominations before the General Council meeting. The decision is attributed to the views expressed by President Prof. Ranga, supported by Rajaji. Signed by N. Dandeker as Officiating General Secretary, the document records a narrowly administrative decision within the party’s organisational transition.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated October 25, 1967, announces the final meeting of the current National Executive, scheduled for November 25 at Vithalbhai Patel Bhavan in New Delhi. Its agenda comprises confirmation of the previous meeting’s minutes, preparation for the first meeting of the newly elected General Council, and any other matter permitted by the Chair.
+
+The circular also revises an earlier procedural proposal. Although the National Executive had approved proposals concerning office bearers and members of the new National Executive and the procedure for inviting nominations, it withdraws the proposal to invite nominations before the General Council meeting. The decision is attributed to the views expressed by President Prof. Ranga, supported by Rajaji. Signed by N. Dandeker as Officiating General Secretary, the document records a narrowly administrative decision within the party’s organisational transition.
+
 ## Key points
 
 - The circular is dated October 25, 1967, and is issued on Swatantra Party Central Office letterhead.

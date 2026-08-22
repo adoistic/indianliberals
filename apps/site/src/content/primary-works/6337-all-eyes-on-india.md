@@ -59,3 +59,7 @@ ai:
 summary: |-
   This issue of HIMMAT, dated April 16, 1971, combines editorials, political reporting, international affairs, regional news, environmental journalism, travel writing, letters, cartoons, and commercial advertising. The visible pages focus especially on the crisis in East Pakistan, the prospects of Indian democracy after the elections, the political influence of China and Maoism, violence in Ceylon, and conflicts in Vietnam, Palestine, Northern Ireland, and Germany. The issue also addresses domestic party politics through reports on Minoo Masani, Uttar Pradesh Chief Minister Kamlapati Tripathi, Tamil Nadu politics and Kamaraj, and the responsibilities of defeated opposition leaders.
 ---
+
+## Summary
+
+This issue of HIMMAT, dated April 16, 1971, combines editorials, political reporting, international affairs, regional news, environmental journalism, travel writing, letters, cartoons, and commercial advertising. The visible pages focus especially on the crisis in East Pakistan, the prospects of Indian democracy after the elections, the political influence of China and Maoism, violence in Ceylon, and conflicts in Vietnam, Palestine, Northern Ireland, and Germany. The issue also addresses domestic party politics through reports on Minoo Masani, Uttar Pradesh Chief Minister Kamlapati Tripathi, Tamil Nadu politics and Kamaraj, and the responsibilities of defeated opposition leaders.

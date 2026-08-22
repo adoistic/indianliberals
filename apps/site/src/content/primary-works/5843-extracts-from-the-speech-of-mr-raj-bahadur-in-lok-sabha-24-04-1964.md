@@ -54,6 +54,12 @@ summary: |-
   The speech also presents automobile production and licensing figures as evidence of industrial expansion, while acknowledging constraints on transport capacity. Bahadur defends the existing Inter-State Transport Commission, reports proposed roads in Assam, Rajasthan, southern India, and Gujarat, and supports mechanisation of road construction. He rejects a recommendation attributed to Dr. Beeching for closing thousands of railway stations, concluding with an appeal to the Railway Minister to reconsider that proposal.
 ---
 
+## Summary
+
+This four-page English extract from Raj Bahadur’s Lok Sabha speech of March 24, 1964, addresses roads, road transport, automobile production, taxation, and inter-State transport administration. Bahadur responds to criticisms by M. R. Masani and other members, arguing that road allocations and expenditure must be judged against the rapid expansion of the national highways system, difficult foreign-exchange conditions, and spending on border roads. He cites increased expenditure on national highways, the construction of major road links and bridges, and improvements to previously poor-quality roads.
+
+The speech also presents automobile production and licensing figures as evidence of industrial expansion, while acknowledging constraints on transport capacity. Bahadur defends the existing Inter-State Transport Commission, reports proposed roads in Assam, Rajasthan, southern India, and Gujarat, and supports mechanisation of road construction. He rejects a recommendation attributed to Dr. Beeching for closing thousands of railway stations, concluding with an appeal to the Railway Minister to reconsider that proposal.
+
 ## Key points
 
 - Bahadur defends government road allocations and expenditure against criticisms raised during the Lok Sabha debate.

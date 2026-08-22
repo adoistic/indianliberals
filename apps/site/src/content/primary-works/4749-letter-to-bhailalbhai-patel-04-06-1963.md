@@ -49,6 +49,12 @@ summary: |-
   Masani also asks Patel to postpone a State Executive meeting scheduled for 16 June at Vallabh Vidya Nagar, arguing that the proposed resignation should first be discussed informally with colleagues, including Rajaji and Professor Ranga. He notes that Patel's positions on the Central Organising Committee, Parliamentary Board, and General Council are held in his individual capacity, so his resignation from those bodies need not be decided immediately. The letter closes with Masani's plan to visit Patel on his seventy-fifth birthday, 7 June.
 ---
 
+## Summary
+
+In this letter dated 4 June 1963, M. R. Masani urges Bhailalbhai Patel not to retire from political life or from the presidency of the Gujarat Party Unit. Masani recalls Patel's recent agreement at Gondal to continue until after the next General Elections and argues that his withdrawal would damage the party and deprive it of his mature leadership and guidance.
+
+Masani also asks Patel to postpone a State Executive meeting scheduled for 16 June at Vallabh Vidya Nagar, arguing that the proposed resignation should first be discussed informally with colleagues, including Rajaji and Professor Ranga. He notes that Patel's positions on the Central Organising Committee, Parliamentary Board, and General Council are held in his individual capacity, so his resignation from those bodies need not be decided immediately. The letter closes with Masani's plan to visit Patel on his seventy-fifth birthday, 7 June.
+
 ## Key points
 
 - Masani expresses dismay at Bhailalbhai Patel's proposed retirement from political life.

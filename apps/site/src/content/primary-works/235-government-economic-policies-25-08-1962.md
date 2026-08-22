@@ -63,6 +63,12 @@ summary: |-
   In the rendered pages, the paper applies this framework to India’s post-Independence experience. Masani criticises centralised planning, the dominance of the State sector, the priority given to heavy industry, neglect of agriculture and education, restrictions on transport and private enterprise, and policies of autarky. He uses figures from the Five Year Plans and contemporary economic reports to argue that public investment has produced low returns while taxation and non-developmental expenditure have impaired private saving. The paper closes in the rendered pages by advocating a change from doctrinaire socialism and self-sufficiency toward policies centred on consumption, social amenities, productivity, foreign capital, and international trade. The final page of the PDF was not rendered.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that economic development is a means to human welfare rather than an end in itself, and that capital formation requires more than administrative direction. He identifies four institutional conditions for productive investment: the rule of law, a stable currency, security of property, and profit and reward. The discussion presents inflation, insecure property rights, nationalisation, excessive taxation, and weakened incentives as barriers to saving, enterprise, and industrial growth. Masani also argues that democratic government should act chiefly as an impartial rule-maker and provider of infrastructure, not as the day-to-day controller of production.
+
+In the rendered pages, the paper applies this framework to India’s post-Independence experience. Masani criticises centralised planning, the dominance of the State sector, the priority given to heavy industry, neglect of agriculture and education, restrictions on transport and private enterprise, and policies of autarky. He uses figures from the Five Year Plans and contemporary economic reports to argue that public investment has produced low returns while taxation and non-developmental expenditure have impaired private saving. The paper closes in the rendered pages by advocating a change from doctrinaire socialism and self-sufficiency toward policies centred on consumption, social amenities, productivity, foreign capital, and international trade. The final page of the PDF was not rendered.
+
 ## Key points
 
 - Economic growth is presented as a means of improving mass living standards, not as an autonomous political objective.

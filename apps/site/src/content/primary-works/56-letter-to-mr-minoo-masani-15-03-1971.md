@@ -52,6 +52,12 @@ summary: |-
   The letter nevertheless argues that democratic participation remains possible outside elected office. Shroff says that intelligent citizens can play an effective role from outside Parliament and reports that he is encouraging friends and associates to engage their respective MPs. The aim is to maintain pressure on MPs to honour the pledges they made to their constituents.
 ---
 
+## Summary
+
+In this letter dated March 15, 1971, Minoo Shroff writes to Minoo R. Masani after Masani was not returned to the Lok Sabha. Shroff describes the result as a tragedy, particularly because the parliamentary opposition had been reduced to what he calls “such ineffective proportions.”
+
+The letter nevertheless argues that democratic participation remains possible outside elected office. Shroff says that intelligent citizens can play an effective role from outside Parliament and reports that he is encouraging friends and associates to engage their respective MPs. The aim is to maintain pressure on MPs to honour the pledges they made to their constituents.
+
 ## Key points
 
 - The letter expresses dismay at Minoo R. Masani’s failure to return to the Lok Sabha.

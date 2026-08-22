@@ -49,6 +49,12 @@ summary: |-
   Masani welcomes the Speaker’s stated intention to discuss the matter with the Government following a controversy in the House. He asks the Speaker to pursue the conversion of the committees so that their work can proceed effectively and without informal references to confidential meetings appearing on the parliamentary floor or in the press.
 ---
 
+## Summary
+
+In this letter dated 6 August 1970, M. R. Masani writes to the Speaker of the Lok Sabha about his earlier request to convert Consultative Committees for the Ministries of External Affairs and Transport into Parliamentary Committees under Rule 275. He argues that press reports of closed-door committee discussions are often garbled and that formal parliamentary status would protect proceedings from publication while allowing franker exchanges and more effective government disclosure to members.
+
+Masani welcomes the Speaker’s stated intention to discuss the matter with the Government following a controversy in the House. He asks the Speaker to pursue the conversion of the committees so that their work can proceed effectively and without informal references to confidential meetings appearing on the parliamentary floor or in the press.
+
 ## Key points
 
 - Masani refers to a 17 December 1969 request concerning Consultative Committees for the Ministries of External Affairs and Transport.

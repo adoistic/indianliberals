@@ -45,6 +45,10 @@ summary: |-
   This one-page English telegram, sent from Bombay on 1 March 1971, is addressed to Minoo Masani at Lighthouse, Dhebar Road, Rajkot. Nargis and Vinci send him congratulations and express confidence in his electoral success, apparently in connection with the 1971 general election. The message is carried on an Indian Posts and Telegraphs Department telegram form with pasted teleprinter strips.
 ---
 
+## Summary
+
+This one-page English telegram, sent from Bombay on 1 March 1971, is addressed to Minoo Masani at Lighthouse, Dhebar Road, Rajkot. Nargis and Vinci send him congratulations and express confidence in his electoral success, apparently in connection with the 1971 general election. The message is carried on an Indian Posts and Telegraphs Department telegram form with pasted teleprinter strips.
+
 ## Key points
 
 - The document is a personal telegram addressed to Minoo Masani.

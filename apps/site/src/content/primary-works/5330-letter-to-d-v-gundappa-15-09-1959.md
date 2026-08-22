@@ -43,6 +43,10 @@ summary: |-
   This one-page English letter, dated 15 September 1959, is addressed to D. V. Gundappa, honorary secretary of the Gokhale Institute of Public Affairs in Bangalore. Miss B.S. Hirza, identified as secretary to M. R. Masani, acknowledges Gundappa’s letter of 20 July and conveys Masani’s thanks for sending him the Institute’s journal.
 ---
 
+## Summary
+
+This one-page English letter, dated 15 September 1959, is addressed to D. V. Gundappa, honorary secretary of the Gokhale Institute of Public Affairs in Bangalore. Miss B.S. Hirza, identified as secretary to M. R. Masani, acknowledges Gundappa’s letter of 20 July and conveys Masani’s thanks for sending him the Institute’s journal.
+
 ## Key points
 
 - The letter is dated 15 September 1959.

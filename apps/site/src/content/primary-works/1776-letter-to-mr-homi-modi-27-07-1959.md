@@ -48,6 +48,12 @@ summary: |-
   The letter also refers to Congress and the Communist Party, suggesting that their cooperation or electoral alignment could give them greater opportunity to advance. It records arrangements involving Sri M. R. Masani, including a reception committee and an anticipated meeting, and closes in a personal, collegial tone. The document is fully visible across the two rendered pages, though several passages of the handwriting remain difficult to decipher.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 27 July 1959 and signed by Ruttonchund Master, reports on political and administrative developments in Bombay and New Delhi. The writer discusses a meeting involving H.E., Dr. Radhakrishnan, and police and ministerial officials, including a proposed appointment and the timing of a special plane journey to Madras and return to New Delhi.
+
+The letter also refers to Congress and the Communist Party, suggesting that their cooperation or electoral alignment could give them greater opportunity to advance. It records arrangements involving Sri M. R. Masani, including a reception committee and an anticipated meeting, and closes in a personal, collegial tone. The document is fully visible across the two rendered pages, though several passages of the handwriting remain difficult to decipher.
+
 ## Key points
 
 - The letter is dated 27 July 1959 and is signed by Ruttonchund Master.

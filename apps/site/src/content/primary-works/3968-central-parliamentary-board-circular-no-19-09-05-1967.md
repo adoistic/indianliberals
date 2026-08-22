@@ -51,6 +51,12 @@ summary: |-
   The remaining business concerns by-elections to the Rajya Sabha, Lok Sabha, and State Assemblies; the formation of coalition governments in Haryana and Uttar Pradesh; and the functioning of the Swatantra Party parliamentary group during the previous and forthcoming parliamentary sessions. The circular closes with provision for other business and is signed on behalf of N. Dandekar, identified as Officiating General Secretary.
 ---
 
+## Summary
+
+Dated 9 May 1967, this one-page Central Parliamentary Board circular of the Swatantra Party confirms that the Board will meet in New Delhi on 20 May at the Vithalbhai Patel Bhavan. It records the meeting's agenda, including approval of the minutes of the Board's 1–2 March meeting in Madras and a review of the recent Presidential Election and its implications.
+
+The remaining business concerns by-elections to the Rajya Sabha, Lok Sabha, and State Assemblies; the formation of coalition governments in Haryana and Uttar Pradesh; and the functioning of the Swatantra Party parliamentary group during the previous and forthcoming parliamentary sessions. The circular closes with provision for other business and is signed on behalf of N. Dandekar, identified as Officiating General Secretary.
+
 ## Key points
 
 - The circular is dated 9 May 1967 and issued from the Swatantra Party Central Office in Bombay.

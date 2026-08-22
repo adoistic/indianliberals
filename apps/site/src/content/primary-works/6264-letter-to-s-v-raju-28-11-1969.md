@@ -46,6 +46,12 @@ summary: |-
   The correspondence identifies the proposed trustees and records the administrative steps being taken to regularise the trust. Srinivasan asks Raju to explain the situation to Masani and to meet him during a visit to Delhi between 3 and 6 December, while the third page records Srinivasan’s acknowledgment to Masani and his intention to meet him in Delhi. The surviving pages document an organisational and personal exchange rather than a developed political or theoretical argument.
 ---
 
+## Summary
+
+This three-page English correspondence from Madras, dated 27–28 November 1969, concerns the formation and registration of the Bhaskaran Society as a trust. K. Srinivasan writes to S. V. Raju that a copy of his letter to M. R. Masani is enclosed, and reports that Masani has agreed to serve on the board of trustees. Because the trust deed could not be circulated physically among the out-of-town trustees, the deed was registered on the 19th; Srinivasan explains that certain local trustees were therefore asked to register it and co-opt the remaining trustees once their consent was obtained.
+
+The correspondence identifies the proposed trustees and records the administrative steps being taken to regularise the trust. Srinivasan asks Raju to explain the situation to Masani and to meet him during a visit to Delhi between 3 and 6 December, while the third page records Srinivasan’s acknowledgment to Masani and his intention to meet him in Delhi. The surviving pages document an organisational and personal exchange rather than a developed political or theoretical argument.
+
 ## Key points
 
 - K. Srinivasan writes from Madras to S. V. Raju on 28 November 1969.

@@ -48,6 +48,10 @@ summary: |-
   This single-page letter, dated 14 August 1960, records M. R. Masani's preparations to oppose Nath Pai's Bill in Parliament on Friday, 23 August. Writing to A. P. Jain, Masani asks that several documents be assembled before his arrival in Delhi, including the Maharaja of Dhrangadhra's Bill, Piloo Mody's earlier opposing speech, and evidence submitted to the Select Committee, with Nani Palkhivala's evidence marked for reference.
 ---
 
+## Summary
+
+This single-page letter, dated 14 August 1960, records M. R. Masani's preparations to oppose Nath Pai's Bill in Parliament on Friday, 23 August. Writing to A. P. Jain, Masani asks that several documents be assembled before his arrival in Delhi, including the Maharaja of Dhrangadhra's Bill, Piloo Mody's earlier opposing speech, and evidence submitted to the Select Committee, with Nani Palkhivala's evidence marked for reference.
+
 ## Key points
 
 - Masani writes to A. P. Jain from correspondence dated 14 August 1960.

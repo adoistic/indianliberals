@@ -48,6 +48,10 @@ summary: |-
   This single-page letter, dated 12 August 1974, is written by Girish Munshi, General Secretary of the Swatantra Party, Maharashtra, to Sham Lal, editor of The Times of India. Munshi thanks Lal for publishing a 2 August editorial that reflected the views of Swatantra Party members who opposed a resolution to dissolve the party at its National Convention.
 ---
 
+## Summary
+
+This single-page letter, dated 12 August 1974, is written by Girish Munshi, General Secretary of the Swatantra Party, Maharashtra, to Sham Lal, editor of The Times of India. Munshi thanks Lal for publishing a 2 August editorial that reflected the views of Swatantra Party members who opposed a resolution to dissolve the party at its National Convention.
+
 ## Key points
 
 - The letter is dated 12 August 1974 and is issued from the Swatantra Party, Maharashtra, in Bombay.

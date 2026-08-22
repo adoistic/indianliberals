@@ -57,6 +57,16 @@ summary: |-
   Across both documents the rendered pages foreground a constitutional-liberal use of civil courts to defend an ideological party against its own leadership: the suit reads as a defence of Swatantra's founding creed against a merger the plaintiffs regard as ideologically diluting.
 ---
 
+## Summary
+
+This document is a plaint filed on 27 July 1974 in the City Civil Court, Madras (I.A. in O.S. No. 5526/1974) by five Tamil Nadu members of the Swatantra Party — E. Adhikesva Pillai, T. Aravamudhan, M. Poosalingam, T. Ramanujam and V. S. Srikumar — against Piloo Mody (President of the Swatantra Party), Madhu Mehta (Vice-President), the Acting General Secretary, Dr. M. Santhosham (Joint Secretary) and the All India Swatantra Party. The plaintiffs seek a declaration and permanent injunction to restrain the party's own National Executive from convening a Convention at New Delhi on 4th and 5th August 1974 for the purpose of dissolving the Swatantra Party and merging it into a proposed new political formation.
+
+The legal argument rests on the Constitution of the Swatantra Party as modified at the Rajaji Nagar convention of 4 April 1973: the plaintiffs contend that neither the National Executive nor a National Convention has any power to dissolve the party, that such dissolution would be ultra vires the party constitution, and that defendants 1 to 32 held their offices in a fiduciary capacity vis-à-vis the party's assets, funds and members. They stress that the Swatantra Party was founded in 1959 by 'a National leader and pre-eminent Statesman Sri C. Rajagopalachari' as an ideologically distinct alternative to the Congress, and that its principles remain a matter of vital national and international importance.
+
+An accompanying statement (paragraphs 1–20 of a separate document appended after the plaint) walks the court through the sequence of events: the Swatantra Party's constitution in May 1959; the acquisition by Shri M. R. Masani of Bombay office premises in 1959; the National Executive resolutions of 6–7 April 1974 endorsing exploration of a two-party alternative; a General Council meeting in New Delhi on 9–10 June 1974 that produced the draft policy pamphlet 'The National Alternative, India's only hope'; the President's circular of 16 June 1974 proposing a two-party system that would 'imply a dissolution of all parties and the creation of a new party'; the Maharashtra State Council resolution of 5 July 1974 opposing dissolution; and the Seventh National Convention at the Sapru House on 4–5 August 1974, at which 407 of 484 delegates voted for dissolution while 55 opposed it. The plaintiffs treat this vote as unauthorised and non-binding on the Tamil Nadu unit.
+
+Across both documents the rendered pages foreground a constitutional-liberal use of civil courts to defend an ideological party against its own leadership: the suit reads as a defence of Swatantra's founding creed against a merger the plaintiffs regard as ideologically diluting.
+
 ## Key points
 
 - The plaint is filed in Madras City Civil Court on 27 July 1974 by five Tamil Nadu Swatantra Party members against the party's own national office-bearers.

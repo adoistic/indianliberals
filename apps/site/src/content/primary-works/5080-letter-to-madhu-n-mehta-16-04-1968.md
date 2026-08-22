@@ -48,6 +48,12 @@ summary: |-
   Lobo Prabhu proposes that the National Executive persuade Mr. Masani to withdraw his resignation, presenting this as being in the party's greater interest. The document bears a Western Court, New Delhi receipt stamp dated April 8, 1968; this is a receipt date rather than a clearly printed composition date. A copy is marked to N. Dandekar, General Secretary of the Swatantra Party.
 ---
 
+## Summary
+
+This single-page English letter from J. M. Lobo Prabhu, written on Member of Parliament (Lok Sabha) letterhead, responds to Shri Madhu N. Mehta's letter of March 31. Lobo Prabhu expresses concern that Mehta intends to publicize the Swatantra Party's internal affairs, arguing that these matters would be better settled privately.
+
+Lobo Prabhu proposes that the National Executive persuade Mr. Masani to withdraw his resignation, presenting this as being in the party's greater interest. The document bears a Western Court, New Delhi receipt stamp dated April 8, 1968; this is a receipt date rather than a clearly printed composition date. A copy is marked to N. Dandekar, General Secretary of the Swatantra Party.
+
 ## Key points
 
 - Lobo Prabhu writes to Madhu N. Mehta in response to a March 31 letter.

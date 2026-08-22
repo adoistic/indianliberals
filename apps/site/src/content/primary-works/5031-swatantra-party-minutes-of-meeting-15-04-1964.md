@@ -53,6 +53,12 @@ summary: |-
   The committee also advised Masani not to raise the Kashmir question during his Finance Bill speech unless provoked. It selected speakers for two Private Members' Resolutions scheduled for 17 April: Ranga would support Dr. Singhvi's resolution on public prosecutors, while Yashpal Singh would oppose B. P. Yadav's resolution concerning disparity in income. The minutes were signed by Kapur Singh, Secretary.
 ---
 
+## Summary
+
+This one-page memorandum records a meeting of the Swatantra Party's Executive Committee held in New Delhi on 15 April 1964. Chaired by Prof. N. G. Ranga, the committee approved amendments to the Finance Bill drafted by Minoo Masani and agreed to seek divisions at the Bill's second and third readings as a formal protest, while not pressing for divisions on individual items.
+
+The committee also advised Masani not to raise the Kashmir question during his Finance Bill speech unless provoked. It selected speakers for two Private Members' Resolutions scheduled for 17 April: Ranga would support Dr. Singhvi's resolution on public prosecutors, while Yashpal Singh would oppose B. P. Yadav's resolution concerning disparity in income. The minutes were signed by Kapur Singh, Secretary.
+
 ## Key points
 
 - The Swatantra Party Executive Committee met in its Party Committee Room at Central Hall, Parliament House, New Delhi, on 15 April 1964.

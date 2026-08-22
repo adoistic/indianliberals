@@ -49,6 +49,12 @@ summary: |-
   The document proposes replacing clauses 12(a) and 12(b). Clause 12(a) would require the first elections to the party's primary bodies, District Committees, State or Regional Councils, and General Council under revised rules to be held before the end of 1964 and thereafter by the end of every alternate year. Clause 12(b) would define which Workers, Life Workers, and Life Members were entitled to vote in those first elections. The text also records that consequential amendments follow a General Council decision taken in Bangalore on January 31.
 ---
 
+## Summary
+
+This one-page institutional document, issued under the Swatantra Party's General Council, presents draft amendments to the party constitution. The amendments were recommended by the Constitution (other than membership) Sub-Committee appointed by the Third National Convention.
+
+The document proposes replacing clauses 12(a) and 12(b). Clause 12(a) would require the first elections to the party's primary bodies, District Committees, State or Regional Councils, and General Council under revised rules to be held before the end of 1964 and thereafter by the end of every alternate year. Clause 12(b) would define which Workers, Life Workers, and Life Members were entitled to vote in those first elections. The text also records that consequential amendments follow a General Council decision taken in Bangalore on January 31.
+
 ## Key points
 
 - The document is headed “SWATANTRA PARTY / GENERAL COUNCIL” and concerns amendments to the party constitution.

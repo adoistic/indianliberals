@@ -52,6 +52,12 @@ summary: |-
   Sivaji discusses the Delhi conference as narrated by Mr. Latchanna. Although he had opposed the merger of Swatantra with other parties and preferred a regional party as an alternative to the B.L.D., he now doubts whether the B.L.D. will amount to more than a limited challenge to Charan Singh in Uttar Pradesh. The letter also turns to Sivaji’s professional concerns: his House Surgeoncy is nearing completion, and he asks Raju for information about admission to an M.D. postgraduate psychiatry programme at K.E.M. Hospital in Bombay.
 ---
 
+## Summary
+
+In this letter dated 26 September 1974, Y. Sivaji writes from Guntur to S. V. Raju after receiving Raju’s letter and a copy of Freedom First. Sivaji says he had expected an article by Minoo Masani but instead read Raju’s “National alternative,” which he regards as a “punny game.” He argues that Masani’s earlier activity might have prevented the Swatantra Party from declining so badly and describes the party’s defeat as a missed opportunity handled dishonourably.
+
+Sivaji discusses the Delhi conference as narrated by Mr. Latchanna. Although he had opposed the merger of Swatantra with other parties and preferred a regional party as an alternative to the B.L.D., he now doubts whether the B.L.D. will amount to more than a limited challenge to Charan Singh in Uttar Pradesh. The letter also turns to Sivaji’s professional concerns: his House Surgeoncy is nearing completion, and he asks Raju for information about admission to an M.D. postgraduate psychiatry programme at K.E.M. Hospital in Bombay.
+
 ## Key points
 
 - Sivaji acknowledges receiving Raju’s letter and a copy of Freedom First.

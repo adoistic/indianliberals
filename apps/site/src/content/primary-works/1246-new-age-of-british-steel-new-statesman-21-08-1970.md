@@ -45,3 +45,9 @@ summary: |-
   
   The accompanying page contains the unsigned column “London Diary,” signed “Crux,” and shorter material under “This England.” The diary comments satirically on ministerial salaries and expenses, civil servants’ public conduct, the abolition of the Land Commission, and the shortcomings of abridged reference books, before concluding with a tribute to Hugh Anderson. The “This England” items report local observations and letters concerning illegality and public nuisance. The extract does not provide a formal contents page, issue number, or byline for the titled advertisement.
 ---
+
+## Summary
+
+This two-page extract from the New Statesman, dated 21 August 1970, combines a full-page British Steel Corporation advertisement with a page of periodical editorial matter. The advertisement presents the corporation's Constructional Engineering Division as a comprehensive provider of industrialised building services, extending from structural design and steelwork to foundations, prestressed-concrete floors, construction, and contract management in the United Kingdom and abroad.
+
+The accompanying page contains the unsigned column “London Diary,” signed “Crux,” and shorter material under “This England.” The diary comments satirically on ministerial salaries and expenses, civil servants’ public conduct, the abolition of the Land Commission, and the shortcomings of abridged reference books, before concluding with a tribute to Hugh Anderson. The “This England” items report local observations and letters concerning illegality and public nuisance. The extract does not provide a formal contents page, issue number, or byline for the titled advertisement.

@@ -54,6 +54,12 @@ summary: |-
   The letter proposes a range of possible projects and investment sites: the Talcher Industrial Complex, a large fertiliser plant and related chemical industries at Paradeep, caprolactum at Rourkela, soda ash and ammonium chloride plants in Ganjam, cement and newsprint production in Koraput, and a ferro-vanadium project in Mayurbhanj. Singh Deo describes foreign participation by Krupp, Salzgitter, Buckau-Wolf, and Kobe Steel as a possibility for Talcher, notes the lack of final central approval and financial assistance, and asks Tata Chemicals and TISCO representatives to visit sites. He closes by appealing to Tata to undertake new ventures even as the company considers closing two of its existing mines in Orissa.
 ---
 
+## Summary
+
+In this official letter dated 9 November 1967, Orissa Chief Minister R. N. Singh Deo urges M. R. Masani to persuade Tata companies to establish major industries in Orissa. Singh Deo acknowledges that Tata Iron & Steel Company has decided not to install a pelletisation plant near Gorumahisani or Badampahar, but argues that Orissa urgently needs industrial investment after several plan periods focused mainly on water and power development. He presents industrialisation as a response to unemployment, drought, floods, and a recent cyclone, and contrasts Orissa’s slower progress with that of Maharashtra, Gujarat, West Bengal, Madras, and Bihar.
+
+The letter proposes a range of possible projects and investment sites: the Talcher Industrial Complex, a large fertiliser plant and related chemical industries at Paradeep, caprolactum at Rourkela, soda ash and ammonium chloride plants in Ganjam, cement and newsprint production in Koraput, and a ferro-vanadium project in Mayurbhanj. Singh Deo describes foreign participation by Krupp, Salzgitter, Buckau-Wolf, and Kobe Steel as a possibility for Talcher, notes the lack of final central approval and financial assistance, and asks Tata Chemicals and TISCO representatives to visit sites. He closes by appealing to Tata to undertake new ventures even as the company considers closing two of its existing mines in Orissa.
+
 ## Key points
 
 - The Chief Minister asks M. R. Masani to encourage Tata companies to invest in major industries in Orissa.

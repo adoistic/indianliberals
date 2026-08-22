@@ -48,6 +48,10 @@ summary: |-
   This handwritten letter, dated 14 July 1959 and addressed to “Sir Homi,” discusses Shri Radhakrishnan’s travel plans and several political developments. The writer says Radhakrishnan has changed his programme, will travel from Bombay to New Delhi on 26 July, and may meet Rajaji. The letter also reports that Radhakrishnan is in contact with the Swatantra Party and considers it necessary to form a strong opposition party in the country.
 ---
 
+## Summary
+
+This handwritten letter, dated 14 July 1959 and addressed to “Sir Homi,” discusses Shri Radhakrishnan’s travel plans and several political developments. The writer says Radhakrishnan has changed his programme, will travel from Bombay to New Delhi on 26 July, and may meet Rajaji. The letter also reports that Radhakrishnan is in contact with the Swatantra Party and considers it necessary to form a strong opposition party in the country.
+
 ## Key points
 
 - The letter is dated 14 July 1959 and is written from Rukhamani Mahal, Jogeshwari, Bombay-42.

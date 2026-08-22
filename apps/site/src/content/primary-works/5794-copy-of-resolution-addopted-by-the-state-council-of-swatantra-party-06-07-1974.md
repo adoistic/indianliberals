@@ -55,6 +55,12 @@ summary: |-
   The resolution maintains that the party’s principles and policies remain valid and that government policies based on them could have prevented India’s present critical situation. It rejects the timing of the party’s disappearance from Indian political life, citing the continuing existence of the Congress and Jana Sangh and warning that a two-party system would remain unattainable while these parties retain their separate identities. The council therefore asks the party’s office-bearers to convene another General Council meeting before the matter reaches the National Convention. It adds that, if dissolution is nevertheless approved, the Maharashtra unit will retain its identity as the Swatantra Party and carry on its message and flag.
 ---
 
+## Summary
+
+This one-page resolution records the Maharashtra State Council of the Swatantra Party’s meeting in Bombay on 6 July 1974. The council considers a proposal to dissolve the Swatantra Party alongside six other parties in order to facilitate the formation of a new party, but argues that the Swatantra Party is the only national party among them and that the proposed merger would obscure disagreements over the interpretation of broad policy principles.
+
+The resolution maintains that the party’s principles and policies remain valid and that government policies based on them could have prevented India’s present critical situation. It rejects the timing of the party’s disappearance from Indian political life, citing the continuing existence of the Congress and Jana Sangh and warning that a two-party system would remain unattainable while these parties retain their separate identities. The council therefore asks the party’s office-bearers to convene another General Council meeting before the matter reaches the National Convention. It adds that, if dissolution is nevertheless approved, the Maharashtra unit will retain its identity as the Swatantra Party and carry on its message and flag.
+
 ## Key points
 
 - The Maharashtra State Council met in Bombay on 6 July 1974 to consider dissolving the Swatantra Party.

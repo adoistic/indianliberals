@@ -49,6 +49,12 @@ summary: |-
   He then refers to the party’s final meeting at a restaurant, which he did not attend. According to an attendee, the only business conducted was the declaration of the party’s dissolution. Pasricha identifies an enclosed circular dated 29 August 1974 as the only available clue to the proceedings of the meeting held on 28 August 1974, and closes by saying that they are trying to do what Raju requested.
 ---
 
+## Summary
+
+In this handwritten letter dated 4 March 1975, Lt. Col. H. R. Pasricha responds to S. V. Raju’s 24 February letter concerning the Swatantra Party’s records and its dissolution. Pasricha says he cannot locate minutes for a meeting held on the morning of the last National Convention and doubts that there was enough time for minutes to be issued.
+
+He then refers to the party’s final meeting at a restaurant, which he did not attend. According to an attendee, the only business conducted was the declaration of the party’s dissolution. Pasricha identifies an enclosed circular dated 29 August 1974 as the only available clue to the proceedings of the meeting held on 28 August 1974, and closes by saying that they are trying to do what Raju requested.
+
 ## Key points
 
 - The letter replies to S. V. Raju’s letter dated 24 February 1975.

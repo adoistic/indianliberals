@@ -47,6 +47,10 @@ summary: |-
   This single-page reference document, headed “LIST OF SWATANTRA M.P.S.”, presents a numbered roster of eight members associated with the Swatantra Party. The listed names are Mr. H. M. Patel, Mr. Dharamsinh Patel (Porbander), Prof. R. K. Amin, Mr. Ainthku Sahoo, Mr. Dabanant Amet, Mr. Meethalal Amin, Mr. M. A. Hanan, and Mr. Viren Shah (Rajya Sabha).
 ---
 
+## Summary
+
+This single-page reference document, headed “LIST OF SWATANTRA M.P.S.”, presents a numbered roster of eight members associated with the Swatantra Party. The listed names are Mr. H. M. Patel, Mr. Dharamsinh Patel (Porbander), Prof. R. K. Amin, Mr. Ainthku Sahoo, Mr. Dabanant Amet, Mr. Meethalal Amin, Mr. M. A. Hanan, and Mr. Viren Shah (Rajya Sabha).
+
 ## Key points
 
 - The document is a one-page English-language membership list.

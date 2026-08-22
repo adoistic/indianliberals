@@ -58,6 +58,12 @@ summary: |-
   The minutes also record plans to draft party amendments, hold elections for office-bearers and Executive Committee members on 6 May 1969, and include N. K. Somani and R. K. Amin in a parliamentary delegation likely to visit Ladakh. The rendered page captures administrative and parliamentary coordination rather than substantive policy arguments.
 ---
 
+## Summary
+
+This one-page document records the minutes of a Swatantra Party Executive Committee meeting held at Parliament House on 18 April 1969. The listed attendees included Prof. N. G. Ranga, H. M. Masani, C. C. Desai, N. K. Somani, Piloo Mody, Prof. R. K. Amin, and K. M. Koushik. The committee assigned speakers for parliamentary demands concerning Information and Broadcasting, Health and Family Planning, the Planning Commission, and the Finance Bill, including substitutions for Maharaja Dhrangadhra and N. Dandekar.
+
+The minutes also record plans to draft party amendments, hold elections for office-bearers and Executive Committee members on 6 May 1969, and include N. K. Somani and R. K. Amin in a parliamentary delegation likely to visit Ladakh. The rendered page captures administrative and parliamentary coordination rather than substantive policy arguments.
+
 ## Key points
 
 - The Executive Committee met on 18 April 1969 in the Swatantra Party room at Parliament House.

@@ -48,6 +48,12 @@ summary: |-
   The page is an administrative financial communication rather than a political or theoretical text. No author signature, date, or year is legible; the identities of “Mr. Raji” and “Rajasaheb” cannot be established from the page alone.
 ---
 
+## Summary
+
+This one-page handwritten office memo, issued on Swatantra Party Central Office letterhead and numbered 3312, is addressed to “Mr. Raji.” It instructs the recipient to inform “Rajasaheb” that a letter will be sent to New India’s Calcutta office, to be handed over to Rajasaheb on the memo’s payment instructions. The memo records a cash amount calculated as Rs 120,000 plus Rs 20,131, totalling Rs 140,131.
+
+The page is an administrative financial communication rather than a political or theoretical text. No author signature, date, or year is legible; the identities of “Mr. Raji” and “Rajasaheb” cannot be established from the page alone.
+
 ## Key points
 
 - The document is a one-page internal memo on Swatantra Party Central Office letterhead.

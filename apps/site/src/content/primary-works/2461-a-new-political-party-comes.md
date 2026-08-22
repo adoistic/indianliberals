@@ -56,6 +56,12 @@ summary: |-
   Masani's central target is the economic programme associated with Prime Minister Jawaharlal Nehru, especially land ceilings, cooperative farming, state monopolies in food-grain trading, heavy-industry planning, licensing, taxation, and bureaucratic interference. He argues that these policies burden farmers, consumers, middle-class taxpayers, investors, and entrepreneurs, while risking the concentration of political and economic power. The article also frames the Swatantra Party as an anti-Communist alternative: it seeks to draw together peasants, middle classes, and others dissatisfied with the Congress-Communist binary, while limiting state enterprise to essential heavy industries and public services. Masani closes by presenting the party's prospects as uncertain but historically significant, since its emergence gives Indian voters a clearer non-socialist alternative.
 ---
 
+## Summary
+
+In this article, Minoo Masani presents the formation of the Swatantra (Freedom) Party as a liberal challenge to the Congress party's socialist economic direction. He describes the new party as committed to individual liberty, peasant proprietorship, private enterprise, parliamentary democracy, and moral values, while rejecting both statist socialism and excessive government regulation. The party's philosophy, he argues, rests on confidence in people's capacity to serve the country through voluntary effort rather than through rigid party control.
+
+Masani's central target is the economic programme associated with Prime Minister Jawaharlal Nehru, especially land ceilings, cooperative farming, state monopolies in food-grain trading, heavy-industry planning, licensing, taxation, and bureaucratic interference. He argues that these policies burden farmers, consumers, middle-class taxpayers, investors, and entrepreneurs, while risking the concentration of political and economic power. The article also frames the Swatantra Party as an anti-Communist alternative: it seeks to draw together peasants, middle classes, and others dissatisfied with the Congress-Communist binary, while limiting state enterprise to essential heavy industries and public services. Masani closes by presenting the party's prospects as uncertain but historically significant, since its emergence gives Indian voters a clearer non-socialist alternative.
+
 ## Key points
 
 - The Swatantra Party is presented as a new parliamentary alternative to Congress socialism and Communist politics.

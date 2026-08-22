@@ -53,6 +53,12 @@ summary: |-
   The petitioners contend that the Government has no legislative authority to maintain a monopoly over radio and television, and that the arrangement rests only on an administrative order that is therefore “null and void in law.” They ask the court not only to permit an independent radio and television station, but also to declare the Government monopoly ultra vires the Constitution. The report says the Union Government rejected an earlier application by Masani and Chatterjee to establish an independent radio and television broadcasting station with medium-power transmitters, and notes the petitioners’ reliance on studies by the Indian Liberal Group and the Indian Committee for Cultural Freedom.
 ---
 
+## Summary
+
+This newspaper report describes a Bombay High Court petition challenging the Government's monopoly over radio and television broadcasting through All India Radio (AIR) and Doordarshan. Filed by MP Minoo Masani and former Director General of AIR P. C. Chatterjee, the petition argues that the broadcasting restrictions violate Article 19(1)(A) of the Indian Constitution, which guarantees freedom of expression.
+
+The petitioners contend that the Government has no legislative authority to maintain a monopoly over radio and television, and that the arrangement rests only on an administrative order that is therefore “null and void in law.” They ask the court not only to permit an independent radio and television station, but also to declare the Government monopoly ultra vires the Constitution. The report says the Union Government rejected an earlier application by Masani and Chatterjee to establish an independent radio and television broadcasting station with medium-power transmitters, and notes the petitioners’ reliance on studies by the Indian Liberal Group and the Indian Committee for Cultural Freedom.
+
 ## Key points
 
 - Minoo Masani and P. C. Chatterjee filed a petition in the Bombay High Court challenging the Government broadcasting monopoly.

@@ -52,6 +52,12 @@ summary: |-
   The signatories argue that worsening conditions, repressive measures by the ruling party and the CPI, popular unrest, and the drift of political organisations toward election preparations make a nationwide civil disobedience movement urgent. They propose that the committee call for nationwide civil disobedience within six weeks around the issues in the People's Charter, with national leaders touring to prepare the public and initiating struggles by offering arrests. The letter closes by arguing that such action would shift the situation in favour of people's power.
 ---
 
+## Summary
+
+This two-page letter, dated 7 April 1975 and signed by George Fernandes and Surendra Mohan, urges the National Coordination Committee for People's Struggle to act decisively against the deteriorating political situation. The writers report that state-level Jan Sangharsh Samvay Samitis have been formed in several states but are mostly inactive, have not developed lower-level organisation, and have failed to formulate concrete programmes of struggle. Uttar Pradesh is presented as the main exception, with district committees being formed and a programme of satyagrahas finalised. The letter also notes weak responses to anti-Emergency mobilisation in Punjab and Delhi.
+
+The signatories argue that worsening conditions, repressive measures by the ruling party and the CPI, popular unrest, and the drift of political organisations toward election preparations make a nationwide civil disobedience movement urgent. They propose that the committee call for nationwide civil disobedience within six weeks around the issues in the People's Charter, with national leaders touring to prepare the public and initiating struggles by offering arrests. The letter closes by arguing that such action would shift the situation in favour of people's power.
+
 ## Key points
 
 - State-level Jan Sangharsh Samvay Samitis exist in several states but are generally inactive.

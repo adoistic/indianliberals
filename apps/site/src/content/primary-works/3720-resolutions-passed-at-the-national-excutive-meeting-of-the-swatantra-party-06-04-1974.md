@@ -65,6 +65,12 @@ summary: |-
   The economic resolution advocates a “drastic surgical operation” consisting of commercially efficient public enterprises or their disposal, substantial tax reductions, economic deregulation, a floating rupee, major rural infrastructure investment, and a thorough reorientation of education toward practical, scientific, and technical needs. The remaining resolutions support the youth movements in Gujarat and Bihar, endorse Jayaprakash Narayan's leadership, demand a judicial inquiry into the destruction of the office of Searchlight, oppose the deportation of Raj Narain and Biju Patnaik from Bihar, and urge the government to avert an impending railway strike by addressing railway employees' demands.
 ---
 
+## Summary
+
+Issued in the name of the Swatantra Party after its national executive meeting in New Delhi on 6–7 April 1974, this four-page document presents five resolutions. It portrays India as facing severe inflation, unemployment, corruption, shortages, injustice, and political paralysis, attributing the crisis chiefly to the Congress government's failures and to the erosion of legitimate avenues for protest and electoral choice. The resolutions criticize alleged electoral malpractices, foreign and Communist pressures on Congress, and the government's handling of popular unrest in Gujarat and Bihar. They call on the Swatantra Party to prepare itself as a credible alternative, build local cadres, mobilize youth, promote a two-party system, and pursue free and fair elections, including through non-violent movements if necessary.
+
+The economic resolution advocates a “drastic surgical operation” consisting of commercially efficient public enterprises or their disposal, substantial tax reductions, economic deregulation, a floating rupee, major rural infrastructure investment, and a thorough reorientation of education toward practical, scientific, and technical needs. The remaining resolutions support the youth movements in Gujarat and Bihar, endorse Jayaprakash Narayan's leadership, demand a judicial inquiry into the destruction of the office of Searchlight, oppose the deportation of Raj Narain and Biju Patnaik from Bihar, and urge the government to avert an impending railway strike by addressing railway employees' demands.
+
 ## Key points
 
 - The document depicts inflation, unemployment, corruption, shortages, and injustice as evidence of governmental failure and political paralysis.

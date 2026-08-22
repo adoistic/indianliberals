@@ -51,6 +51,12 @@ summary: |-
   The letter identifies the proposed participants in the briefing: M. R. Masani, former president of the party; T. R. Sankaranarayan, joint secretary of the Tamil Nadu Swatantra Party; Parmanand Kejriwal and G. Girish Munshi, vice president and general secretary of the Maharashtra Swatantra Party; and Mohan Lal Jatav, H. R. Pasricha, and M. R. Arya, respectively the acting president, vice president, and general secretary of the Delhi Pradesh Swatantra Party. The document does not state its year or identify the recipient beyond the title “The Chief Reporter.”
 ---
 
+## Summary
+
+This single-page English letter from S. V. Raju, signed as a delegate from Maharashtra, is addressed to “The Chief Reporter.” Raju explains that the press was denied admission to the Swatantra Party Convention scheduled for August 4 and 5. He therefore invites press representatives to a briefing on the convention’s proceedings and implications, to be held on Monday, August 5 at 7 p.m. at the Deputy Speaker’s Hall, Vithalbhai Patel Bhavan, Rafi Marg, New Delhi.
+
+The letter identifies the proposed participants in the briefing: M. R. Masani, former president of the party; T. R. Sankaranarayan, joint secretary of the Tamil Nadu Swatantra Party; Parmanand Kejriwal and G. Girish Munshi, vice president and general secretary of the Maharashtra Swatantra Party; and Mohan Lal Jatav, H. R. Pasricha, and M. R. Arya, respectively the acting president, vice president, and general secretary of the Delhi Pradesh Swatantra Party. The document does not state its year or identify the recipient beyond the title “The Chief Reporter.”
+
 ## Key points
 
 - S. V. Raju writes to the chief reporter on behalf of the press.

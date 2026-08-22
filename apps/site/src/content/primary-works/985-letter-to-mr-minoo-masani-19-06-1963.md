@@ -51,6 +51,12 @@ summary: |-
   Ranga urges the party to convene both the General Council and the COC in Delhi shortly before the parliamentary session, arguing that this would be more convenient and economical for MPs and would generate useful publicity. He also warns that disagreements between Kriplani and Lohia could dissipate the public atmosphere of opposition to the government. To avoid confusing the public and allowing the government to ridicule the opposition, he recommends that opposition parties meet in advance and agree on common points for their attacks.
 ---
 
+## Summary
+
+This single-page letter, dated 19 June 1963 and written by N. G. Ranga to Minoo Masani, concerns the Swatantra Party's parliamentary and organisational strategy. Ranga proposes a meeting of the Parliamentary Group on the 12th, followed by lunch, and discusses whether nominations should receive prior notice in response to objections from Dahyabhai and Ratnaswami about his earlier informal, “family-circle-wise” procedure.
+
+Ranga urges the party to convene both the General Council and the COC in Delhi shortly before the parliamentary session, arguing that this would be more convenient and economical for MPs and would generate useful publicity. He also warns that disagreements between Kriplani and Lohia could dissipate the public atmosphere of opposition to the government. To avoid confusing the public and allowing the government to ridicule the opposition, he recommends that opposition parties meet in advance and agree on common points for their attacks.
+
 ## Key points
 
 - Ranga proposes a Parliamentary Group meeting on the 12th, followed by lunch at the Western Court.

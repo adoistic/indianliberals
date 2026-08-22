@@ -48,6 +48,12 @@ summary: |-
   The enclosed letter criticises Minoo Masani and, through him, K. M. Munshi, for attempting to impose their position through the threat of resignation. It asks whether the Swatantra Party can function under such pressure tactics and argues that any disciplinary action, including expulsion, should follow a thorough inquiry. The writer particularly objects to making scapegoats of some members and concludes that, if resignation threats determine the General Council’s decisions, he will have to reconsider his membership. The document is signed “SD: Jaideepsingh”; the recipient’s name on the covering letter is not fully legible.
 ---
 
+## Summary
+
+This three-page English correspondence, dated 25 May 1968 from Rajmahal Palace, Devgad Baria, concerns an internal dispute in the Swatantra Party. The covering letter says that an enclosed letter to “Prof.Ranga” explains the sender’s position and objects to K. M. Munshi’s alleged use of threats to influence the General Council. The sender warns that, if such tactics prevail, he may be unable to remain in the party.
+
+The enclosed letter criticises Minoo Masani and, through him, K. M. Munshi, for attempting to impose their position through the threat of resignation. It asks whether the Swatantra Party can function under such pressure tactics and argues that any disciplinary action, including expulsion, should follow a thorough inquiry. The writer particularly objects to making scapegoats of some members and concludes that, if resignation threats determine the General Council’s decisions, he will have to reconsider his membership. The document is signed “SD: Jaideepsingh”; the recipient’s name on the covering letter is not fully legible.
+
 ## Key points
 
 - The correspondence is dated 25 May 1968 and was sent from Rajmahal Palace, Devgad Baria.

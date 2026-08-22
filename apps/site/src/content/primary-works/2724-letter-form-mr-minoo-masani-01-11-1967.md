@@ -49,6 +49,10 @@ summary: |-
   In this letter dated November 1, 1967, M. R. Masani congratulates an unnamed colleague on election to the Swatantra Party's General Council and discusses the forthcoming election of party office-bearers. After seven years as General Secretary, Masani argues that the party should rotate its leadership just as parliamentary democracy benefits from changes of government. He compares this principle to job rotation in industrial management and asks the party president and Rajaji not to retain him in the post.
 ---
 
+## Summary
+
+In this letter dated November 1, 1967, M. R. Masani congratulates an unnamed colleague on election to the Swatantra Party's General Council and discusses the forthcoming election of party office-bearers. After seven years as General Secretary, Masani argues that the party should rotate its leadership just as parliamentary democracy benefits from changes of government. He compares this principle to job rotation in industrial management and asks the party president and Rajaji not to retain him in the post.
+
 ## Key points
 
 - Masani writes after the recipient's election to the Swatantra Party's General Council.

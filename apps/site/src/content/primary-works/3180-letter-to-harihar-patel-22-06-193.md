@@ -48,6 +48,12 @@ summary: |-
   Raju says he cannot immediately travel to Bhubaneswar, but invites Patel to Bombay for a detailed discussion and offers to consider reimbursing Patel’s first-class rail fare if the visit can be presented as connected with Adult Education Institute work. The letter closes with Raju’s hope that Hande’s defection is an isolated instance.
 ---
 
+## Summary
+
+This one-page letter, dated June 22, 1973, is S. V. Raju’s reply to Harihar Patel concerning the Pragati Party meeting and Patel’s postscript. Raju signals that he understands a political development underway and says he is uneasy about events in Bhubaneswar, while noting that Patel must have read about Dr. Hande’s surprise defection to the ADMK.
+
+Raju says he cannot immediately travel to Bhubaneswar, but invites Patel to Bombay for a detailed discussion and offers to consider reimbursing Patel’s first-class rail fare if the visit can be presented as connected with Adult Education Institute work. The letter closes with Raju’s hope that Hande’s defection is an isolated instance.
+
 ## Key points
 
 - S. V. Raju acknowledges receipt of Harihar Patel’s June 12 letter and the Pragati Party meeting materials.

@@ -52,6 +52,12 @@ summary: |-
   The attached report records the immersion of C. Rajagopalachari's ashes at the Sangam in Allahabad. It describes the public procession from the Allahabad Museum, the police escort and guard of honour, the ceremonial transfer of the urn to a motor boat, and the final immersion in the confluence of the Ganga, Yamuna and invisible Saraswati. The pages document both the Swatantra Party's effort to preserve contemporary press coverage and the public mourning surrounding Rajaji's death.
 ---
 
+## Summary
+
+This two-page archival item combines a Swatantra Party letter dated January 6, 1973, with a clipped report from The Sunday Standard dated January 7, 1973. Signed by S. V. Raju as Executive Secretary, the letter asks the newspaper's circulation manager to provide four copies of each issue published from December 20, when Rajaji was admitted to hospital, through January 4, for the party's records and forthcoming National Convention.
+
+The attached report records the immersion of C. Rajagopalachari's ashes at the Sangam in Allahabad. It describes the public procession from the Allahabad Museum, the police escort and guard of honour, the ceremonial transfer of the urn to a motor boat, and the final immersion in the confluence of the Ganga, Yamuna and invisible Saraswati. The pages document both the Swatantra Party's effort to preserve contemporary press coverage and the public mourning surrounding Rajaji's death.
+
 ## Key points
 
 - S. V. Raju wrote from the Swatantra Party's national headquarters on January 6, 1973.

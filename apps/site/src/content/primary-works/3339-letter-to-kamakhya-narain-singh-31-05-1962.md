@@ -50,6 +50,12 @@ summary: |-
   Masani refers to earlier letters of 18 April, 8 May, and 19 April, and invokes the position of several Jeeps belonging to the Centre. He states that the Centre could not authorize their retention unless and until Jeep No. BMC-5256 was received as directed by the Parliamentary Sub-Committee. The letter is a concise administrative appeal within the organisational and political context of the Bihar Rajya Swatantra Party.
 ---
 
+## Summary
+
+In this one-page letter dated 31 May 1962, M. R. Masani asks Raja Kamakhya Singh of Ramgarh to arrange the immediate return to Bombay of Jeep No. BMC-5256. Masani notes that the vehicle had been taken from Mr. Janki Nandan Singh and had originally been loaned by the Bihar Party, whose owner was pressing for its return.
+
+Masani refers to earlier letters of 18 April, 8 May, and 19 April, and invokes the position of several Jeeps belonging to the Centre. He states that the Centre could not authorize their retention unless and until Jeep No. BMC-5256 was received as directed by the Parliamentary Sub-Committee. The letter is a concise administrative appeal within the organisational and political context of the Bihar Rajya Swatantra Party.
+
 ## Key points
 
 - The letter is dated 31 May 1962 and is signed by M. R. Masani.

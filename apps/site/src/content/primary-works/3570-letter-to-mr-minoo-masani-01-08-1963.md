@@ -45,6 +45,10 @@ summary: |-
   In this letter dated 1 August 1963 from Bombay, R. S. Vatcha replies to Minoo Masani’s request for a contribution to the Swatantra Party. Vatcha explains that he sends an annual cheque through his brother, Jamshed S. Vatcha, who collects a lump sum for the Party.
 ---
 
+## Summary
+
+In this letter dated 1 August 1963 from Bombay, R. S. Vatcha replies to Minoo Masani’s request for a contribution to the Swatantra Party. Vatcha explains that he sends an annual cheque through his brother, Jamshed S. Vatcha, who collects a lump sum for the Party.
+
 ## Key points
 
 - The letter is dated 1 August 1963 and sent from 32 Hughes Road, Bombay.

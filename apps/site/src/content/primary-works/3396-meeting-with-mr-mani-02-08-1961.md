@@ -50,6 +50,12 @@ summary: |-
   The memo also discusses insurance, registration, and alternative transportation by wagon. The Raja Saheb says he may arrange registration himself and notes that his Calcutta firm is an agent of New India, while Mr. Mani is to investigate transportation costs and wagon availability. The document concludes with two action points: the Raja Saheb will verify the lower price, and Mr. Mani will check the costs and availability of wagon transport.
 ---
 
+## Summary
+
+This one-page English memorandum, dated 2 August 1961 and signed by S. V. Raju, records a meeting with Mr. Mani of Mahindra & Mahindra concerning the proposed purchase of jeeps. The quoted vehicle cost is Rs. 15,094, including sales tax, transportation costs, transit insurance, and temporary registration, but excluding permanent registration and comprehensive insurance. The Raja Saheb of Ramgarh reports that two firms—one in Patna and another in Jamshedpur—may offer the jeeps at a consolidated price of Rs. 14,600, pending confirmation from his brother in Calcutta.
+
+The memo also discusses insurance, registration, and alternative transportation by wagon. The Raja Saheb says he may arrange registration himself and notes that his Calcutta firm is an agent of New India, while Mr. Mani is to investigate transportation costs and wagon availability. The document concludes with two action points: the Raja Saheb will verify the lower price, and Mr. Mani will check the costs and availability of wagon transport.
+
 ## Key points
 
 - The memorandum concerns a proposed purchase of Mahindra & Mahindra jeeps.

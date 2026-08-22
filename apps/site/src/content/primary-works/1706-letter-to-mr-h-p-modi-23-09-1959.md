@@ -51,6 +51,10 @@ summary: |-
   This two-page letter, dated 23 September 1959 and written by C. Rajagopalachari on Swatantra Party letterhead, concerns the party's early organisation and leadership. Rajagopalachari tells H. P. Modi that S. Y. Krishnaswamy's absence has complicated financial arrangements, but says the proposed arrangements are satisfactory if implemented. He proposes that Minoo Masani be made General Secretary immediately, with responsibility for touring India, coordinating regional leaders, and guiding party workers.
 ---
 
+## Summary
+
+This two-page letter, dated 23 September 1959 and written by C. Rajagopalachari on Swatantra Party letterhead, concerns the party's early organisation and leadership. Rajagopalachari tells H. P. Modi that S. Y. Krishnaswamy's absence has complicated financial arrangements, but says the proposed arrangements are satisfactory if implemented. He proposes that Minoo Masani be made General Secretary immediately, with responsibility for touring India, coordinating regional leaders, and guiding party workers.
+
 ## Key points
 
 - Rajagopalachari describes organisational and financial difficulties caused by S. Y. Krishnaswamy's absence in Trivandrum.

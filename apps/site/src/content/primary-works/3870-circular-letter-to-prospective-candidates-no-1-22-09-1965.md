@@ -51,6 +51,12 @@ summary: |-
   The requirement is to take effect with the next quarterly report and expense statement that candidates are required to submit to the Central Office. The letter is signed by M. R. Masani in his capacity as General Secretary and is issued from the Party’s Bombay office.
 ---
 
+## Summary
+
+Dated 22 September 1965, this one-page Swatantra Party circular from the Central Office instructs prospective candidates to submit copies of their quarterly reports and statements of expenses to the State Office for review by the State Parliamentary Board. The stated purpose is to ensure that candidate nominations receive the Board’s recommendation before approval by the Central Parliamentary Board.
+
+The requirement is to take effect with the next quarterly report and expense statement that candidates are required to submit to the Central Office. The letter is signed by M. R. Masani in his capacity as General Secretary and is issued from the Party’s Bombay office.
+
 ## Key points
 
 - The circular is dated 22 September 1965 and issued on Swatantra Party Central Office letterhead.

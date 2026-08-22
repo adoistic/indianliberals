@@ -53,6 +53,12 @@ summary: |-
   Masani presents the underlying issue as the Bihar President’s willingness to accept the minimum discipline and integrated character required of a modern national democratic party while retaining substantial autonomy for the state unit. He also addresses disagreements over endorsed parliamentary seats, rejects caste as a proper basis for party recommendations, and maintains that the Central Parliamentary Sub-Committee acted within the recommendations of the Bihar Election Committee. He concludes by urging Raja Saheb to set aside the personal dispute and focus on the party’s organisational and constitutional difficulties.
 ---
 
+## Summary
+
+In this personal and confidential letter dated November 14, 1961, Minoo Masani replies frankly to Raja Saheb about political difficulties in the Bihar unit of the Swatantra Party. Masani argues that the dispute between Raja Saheb’s President and “Jankibabu” is being given disproportionate importance and is not the real cause of the breakdown in relations. He identifies three more substantive incidents: a Bihar State Executive resolution alleging that the Centre had failed to provide promised financial support; the Election Commission’s cancellation of recognition for the Swatantra Party in Bihar; and a vote of censure against the party’s General Secretary.
+
+Masani presents the underlying issue as the Bihar President’s willingness to accept the minimum discipline and integrated character required of a modern national democratic party while retaining substantial autonomy for the state unit. He also addresses disagreements over endorsed parliamentary seats, rejects caste as a proper basis for party recommendations, and maintains that the Central Parliamentary Sub-Committee acted within the recommendations of the Bihar Election Committee. He concludes by urging Raja Saheb to set aside the personal dispute and focus on the party’s organisational and constitutional difficulties.
+
 ## Key points
 
 - Masani says the conflict involving Raja Saheb’s President and Jankibabu is not the central issue in Bihar.

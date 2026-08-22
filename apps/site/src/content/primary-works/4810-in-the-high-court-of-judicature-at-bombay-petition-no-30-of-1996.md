@@ -54,6 +54,12 @@ summary: |-
   The affidavit emphasizes the urgency of the petition in view of upcoming elections. It records that the Court admitted the matter, issued rule, and expedited the hearing, but declined to grant provisional registration as interim relief. The petitioners argue that the lack of registration prevented the party from contesting the February 1995 Maharashtra Legislative Assembly elections and could similarly prevent it from fielding candidates in the anticipated December 1995 Lok Sabha elections. The document concludes by asserting that allowing the notice of motion is essential in the interests of justice.
 ---
 
+## Summary
+
+This four-page affidavit, filed by L. R. Sampat as General Secretary of the Swatantra Party (Maharashtra), supports a constitutional challenge before the High Court of Judicature at Bombay. The petitioners question subsection 5 of section 29(A) of the Representation of the People Act, 1951, which requires a political party seeking registration to affirm faith in and allegiance to the principle of socialism. They ask the Election Commission of India to register the Swatantra Party (Maharashtra) under the Act.
+
+The affidavit emphasizes the urgency of the petition in view of upcoming elections. It records that the Court admitted the matter, issued rule, and expedited the hearing, but declined to grant provisional registration as interim relief. The petitioners argue that the lack of registration prevented the party from contesting the February 1995 Maharashtra Legislative Assembly elections and could similarly prevent it from fielding candidates in the anticipated December 1995 Lok Sabha elections. The document concludes by asserting that allowing the notice of motion is essential in the interests of justice.
+
 ## Key points
 
 - The Swatantra Party (Maharashtra) challenges the constitutional validity of the statutory requirement that registered parties affirm allegiance to socialism.

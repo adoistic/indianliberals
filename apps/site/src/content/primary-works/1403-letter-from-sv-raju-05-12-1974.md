@@ -49,6 +49,12 @@ summary: |-
   Raju nevertheless indicates his willingness to serve if the Council Members require him to do so at the General Council or as a member of the National Executive. The letter closes with wishes for the meeting's success and is signed by Raju from his Bombay address.
 ---
 
+## Summary
+
+This one-page letter, dated 5 December 1974, is from S. V. Raju to the President of the Swatantra Party at its national headquarters in Madras. Raju thanks the President for inviting him to the Party's General Council Meeting scheduled for 8 December 1974, but explains that unavoidable circumstances prevent him from attending.
+
+Raju nevertheless indicates his willingness to serve if the Council Members require him to do so at the General Council or as a member of the National Executive. The letter closes with wishes for the meeting's success and is signed by Raju from his Bombay address.
+
 ## Key points
 
 - S. V. Raju wrote the letter from Bombay on 5 December 1974.

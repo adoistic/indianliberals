@@ -47,6 +47,10 @@ summary: |-
   This one-page English letter, dated January 12, 1970, is an invitation from J. I. Dholakia, writing on behalf of the Students' Union of the University School of Social Sciences at Gujarat University, Ahmedabad, to M. R. Masani. It asks Masani to deliver a lecture to students and staff on the afternoon of Monday, February 2, 1970, during his expected visit to Ahmedabad.
 ---
 
+## Summary
+
+This one-page English letter, dated January 12, 1970, is an invitation from J. I. Dholakia, writing on behalf of the Students' Union of the University School of Social Sciences at Gujarat University, Ahmedabad, to M. R. Masani. It asks Masani to deliver a lecture to students and staff on the afternoon of Monday, February 2, 1970, during his expected visit to Ahmedabad.
+
 ## Key points
 
 - The letter is dated January 12, 1970, and is written on Gujarat University letterhead.

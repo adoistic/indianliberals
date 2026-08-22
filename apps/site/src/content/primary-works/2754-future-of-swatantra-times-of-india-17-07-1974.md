@@ -50,6 +50,12 @@ summary: |-
   The clipping describes the proposal as a compromise intended to preserve the Swatantra Party’s political identity while ending its role as an electoral party. It says the organisation would continue as a “political force,” under the proposed name “Swatantra Seva Sangh,” while noting that some party members reportedly sought to dissolve the party to facilitate a broader opposition. The second rendered page is a separate Hindi document containing an appeal concerning difficulties caused by the Hindustan Aeronautics railway crossing; it has no visible title, author, date, or publication details and is not treated as part of the titled clipping.
 ---
 
+## Summary
+
+The visible Times of India clipping, dated by a handwritten annotation “17/7/74,” reports a proposed reorganisation of the Swatantra Party. M. R. Masani has submitted a draft resolution calling for the party to convert itself into a non-party service organisation, “eschewing electoral and parliamentary activities at both the Union and state levels.” The proposal is presented as an alternative to joining a proposed multi-party opposition led by Congress president Piloo Mody.
+
+The clipping describes the proposal as a compromise intended to preserve the Swatantra Party’s political identity while ending its role as an electoral party. It says the organisation would continue as a “political force,” under the proposed name “Swatantra Seva Sangh,” while noting that some party members reportedly sought to dissolve the party to facilitate a broader opposition. The second rendered page is a separate Hindi document containing an appeal concerning difficulties caused by the Hindustan Aeronautics railway crossing; it has no visible title, author, date, or publication details and is not treated as part of the titled clipping.
+
 ## Key points
 
 - M. R. Masani submitted a draft resolution proposing a transformation of the Swatantra Party.

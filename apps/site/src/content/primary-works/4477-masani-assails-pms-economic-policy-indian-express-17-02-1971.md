@@ -53,6 +53,12 @@ summary: |-
   Masani also opposed the Planning Commission, calling for its abolition on the grounds that it functioned as a “super Cabinet.” In the electoral context, he contrasted a vote for Mr. Chokhamala with communism and a vote for Morarji Desai with democratic socialism, while praising Desai as an honest and disciplined leader who could rise above party considerations. The article reports Masani’s appeal for Desai’s return with a large majority.
 ---
 
+## Summary
+
+This Indian Express report, dated 17 February 1971, records Swatantra Party chairman Minoo Masani’s criticism of Prime Minister Indira Gandhi’s economic policies at a public meeting in Navsari. Masani attributed rising poverty over the preceding five years to the government’s policies and argued that the electorate should reject what he presented as an unchecked mandate for the Prime Minister.
+
+Masani also opposed the Planning Commission, calling for its abolition on the grounds that it functioned as a “super Cabinet.” In the electoral context, he contrasted a vote for Mr. Chokhamala with communism and a vote for Morarji Desai with democratic socialism, while praising Desai as an honest and disciplined leader who could rise above party considerations. The article reports Masani’s appeal for Desai’s return with a large majority.
+
 ## Key points
 
 - Minoo Masani blamed the government’s economic policies for worsening poverty during the previous five years.

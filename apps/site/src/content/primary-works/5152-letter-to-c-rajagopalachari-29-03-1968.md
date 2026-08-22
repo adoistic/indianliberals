@@ -50,6 +50,12 @@ summary: |-
   Masani defends his decision as preferable to continuing an argument with the party president over the desirability of clean methods and party discipline, an approach he says had been tried for several years without conspicuous success. He asks Rajagopalachari to send his comments on the incident and suggests that an expression of distress in Swarajya would be valuable. The letter closes with Masani’s hope of visiting Madras in late April so that they can discuss the state of the party and its rapidly declining political fortunes.
 ---
 
+## Summary
+
+In this letter dated 29 March 1968, Minoo Masani writes to C. Rajagopalachari (“Rajaji”) from New Delhi about his resignation from the Swatantra Party’s National Executive and Central Parliamentary Board. Masani explains that he had wanted to consult Rajagopalachari before making the announcement, but that waiting for a response would have diminished the resignation’s spontaneity and value in the wake of events in Ahmedabad. He says that Bhailalbhai and Baria had acted rightly in resigning from their offices and that he should remain at the Centre as someone who had supported their pledge.
+
+Masani defends his decision as preferable to continuing an argument with the party president over the desirability of clean methods and party discipline, an approach he says had been tried for several years without conspicuous success. He asks Rajagopalachari to send his comments on the incident and suggests that an expression of distress in Swarajya would be valuable. The letter closes with Masani’s hope of visiting Madras in late April so that they can discuss the state of the party and its rapidly declining political fortunes.
+
 ## Key points
 
 - Masani informs Rajagopalachari of his resignation from the Swatantra Party’s National Executive and Central Parliamentary Board.

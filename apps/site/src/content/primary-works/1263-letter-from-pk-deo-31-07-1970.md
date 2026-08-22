@@ -51,6 +51,12 @@ summary: |-
   The attached note reconstructs the party’s internal consideration of Deo’s private members’ bills, including proposals concerning the impeachment of state governors and a constitutional amendment requiring an Assembly vote before the appointment of a chief minister. The documents show an evolving balance between party discipline and members’ freedom to oppose a bill: the Central Parliamentary Board initially sought withdrawal or abstention, but later approved a procedure requiring members to submit proposed bills for review while allowing dissenters to oppose them. Deo closes by expressing disappointment at the casual treatment of his bill and by making the party president aware of his sentiments.
 ---
 
+## Summary
+
+This four-page English document consists of P. K. Deo’s letter of July 31, 1970, to the president of the Swatantra Party, followed by a supporting note and extracts from party minutes. Deo protests the party’s handling of his bill proposing a procedure for appointing state chief ministers. He argues that inadequate lobbying, the absence of a party whip, and members’ failure to participate in the Lok Sabha division allowed the government to survive by only 19 votes, repeating what he describes as the party’s earlier failure over the Lokpal Bill.
+
+The attached note reconstructs the party’s internal consideration of Deo’s private members’ bills, including proposals concerning the impeachment of state governors and a constitutional amendment requiring an Assembly vote before the appointment of a chief minister. The documents show an evolving balance between party discipline and members’ freedom to oppose a bill: the Central Parliamentary Board initially sought withdrawal or abstention, but later approved a procedure requiring members to submit proposed bills for review while allowing dissenters to oppose them. Deo closes by expressing disappointment at the casual treatment of his bill and by making the party president aware of his sentiments.
+
 ## Key points
 
 - P. K. Deo’s July 31, 1970 letter criticises the Swatantra Party’s handling of his bill on the appointment of state chief ministers.

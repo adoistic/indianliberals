@@ -52,6 +52,12 @@ summary: |-
   The minutes also document the Board's response to the Andhra State Legislature Party's resignation from the legislature over the Vizag Steel Plant issue. After considering correspondence and telegrams from G. Latchanna and C. Rajagopalachari, the Board concluded that the resignations had not been justified because the Andhra members had acted without awaiting Central Parliamentary Board guidance. It recorded its regret and asked Dahyabhai Patel to support the Party's election campaign by touring states beyond Bihar.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Central Parliamentary Board meeting held in Jaipur on November 19, 1966. Professor N. G. Ranga chaired the meeting, which confirmed the previous minutes, noted the death of Sir R. P. Masani, and reviewed developments concerning M. R. Masani's proposed candidacy in the Rajkot parliamentary constituency. The Board modified an earlier decision to permit Masani to contest if satisfactory arrangements could be made for him to continue his duties as General Secretary, and approved recommended candidates for several Assembly constituencies within Rajkot.
+
+The minutes also document the Board's response to the Andhra State Legislature Party's resignation from the legislature over the Vizag Steel Plant issue. After considering correspondence and telegrams from G. Latchanna and C. Rajagopalachari, the Board concluded that the resignations had not been justified because the Andhra members had acted without awaiting Central Parliamentary Board guidance. It recorded its regret and asked Dahyabhai Patel to support the Party's election campaign by touring states beyond Bihar.
+
 ## Key points
 
 - The Central Parliamentary Board met in Jaipur on November 19, 1966, under the chairmanship of Professor N. G. Ranga.

@@ -50,6 +50,12 @@ summary: |-
   The attached second page is a temporary visitors' pass for M. R. Masani at Nehru Hospital, Chandigarh. It permits him to visit Ward ICU, on the second floor, and is valid until 20 November 1975. The sender's name and some handwritten administrative details on the first page are not sufficiently legible to identify with confidence.
 ---
 
+## Summary
+
+This two-page English administrative record from the Delhi Administration, dated 12 November 1975, orders the release on parole of Shri Jaya Shankar Narayan, identified as the son of Shri Hanuman Das and as detained under the Maintenance of Internal Security Act (MISA), 1971. The parole is granted for one month with immediate effect, after which Narayan is required to surrender before the District Magistrate, Chandigarh.
+
+The attached second page is a temporary visitors' pass for M. R. Masani at Nehru Hospital, Chandigarh. It permits him to visit Ward ICU, on the second floor, and is valid until 20 November 1975. The sender's name and some handwritten administrative details on the first page are not sufficiently legible to identify with confidence.
+
 ## Key points
 
 - The Delhi Administration issued the record on 12 November 1975.

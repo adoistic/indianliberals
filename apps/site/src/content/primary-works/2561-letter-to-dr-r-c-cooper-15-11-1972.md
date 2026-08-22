@@ -46,6 +46,10 @@ summary: |-
   In this one-page letter dated 15 November 1972, J. Venkiteswaran writes to Dr. Cooper about Swatantra Party strategy ahead of the Bombay municipal elections. Venkiteswaran states that he does not wish to contest an election himself, but argues that the party should support capable Swatantra workers who have a reasonable chance of winning a seat.
 ---
 
+## Summary
+
+In this one-page letter dated 15 November 1972, J. Venkiteswaran writes to Dr. Cooper about Swatantra Party strategy ahead of the Bombay municipal elections. Venkiteswaran states that he does not wish to contest an election himself, but argues that the party should support capable Swatantra workers who have a reasonable chance of winning a seat.
+
 ## Key points
 
 - The letter concerns the forthcoming Bombay municipal elections.

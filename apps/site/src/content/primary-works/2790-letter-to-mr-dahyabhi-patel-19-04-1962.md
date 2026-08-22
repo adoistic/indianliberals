@@ -50,6 +50,12 @@ summary: |-
   Masani also encloses a letter and telegram sent to Mr. Wahida concerning the Deputy Speaker's election, apparently for Patel's consideration in the Upper House. The page records a specific political exchange rather than a developed argument or policy programme.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to Dahyabhai Patel, dated 19 April 1962, concerns electoral and parliamentary manoeuvring. Masani reports sending a telegram to Raja Raghavendra Pratap Singh of Pankapur, identified as a leader in the U.P. Assembly, while acknowledging that he does not believe they can control the candidate.
+
+Masani also encloses a letter and telegram sent to Mr. Wahida concerning the Deputy Speaker's election, apparently for Patel's consideration in the Upper House. The page records a specific political exchange rather than a developed argument or policy programme.
+
 ## Key points
 
 - The letter is dated 19 April 1962 and is addressed to Dahyabhai Patel, M.P.

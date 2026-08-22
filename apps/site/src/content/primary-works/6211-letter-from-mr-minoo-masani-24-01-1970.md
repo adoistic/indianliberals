@@ -46,6 +46,12 @@ summary: |-
   The letter closes with Masani’s anticipation of meeting Patodia in Delhi. The page is a brief item of personal and political correspondence; it does not disclose the subjects of the invitations or identify the two parties beyond the reference to enclosed letters.
 ---
 
+## Summary
+
+This one-page English letter, dated January 24, 1970, is from M. R. Masani to Mr. D. M. Patodia, MP. Masani apologizes for not having responded sooner to Patodia’s letter of January 8, explaining that he had only recently returned from abroad. He says he has regretfully declined both invitations mentioned by Patodia and encloses copies of letters sent to the two parties concerned.
+
+The letter closes with Masani’s anticipation of meeting Patodia in Delhi. The page is a brief item of personal and political correspondence; it does not disclose the subjects of the invitations or identify the two parties beyond the reference to enclosed letters.
+
 ## Key points
 
 - M. R. Masani wrote to D. M. Patodia on January 24, 1970.

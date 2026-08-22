@@ -53,6 +53,10 @@ summary: |-
   The rendered pages are promotional and front-matter material for When The Wind Blows - India's Ballot Box Revolution, a 482-page account by S. P. Aiyar and S. V. Raju. Reviews describe the book as a documented, relatively even-tempered study of the political developments leading to the Emergency, the Emergency administration and Resistance, the formation of the Janata party, and the March 1977 election. The contents page lists chapters covering Indira Gandhi’s India, the deepening Emergency, legitimacy, opposition strategy, alliances, elections, campaign finance, the popular vote, perspective, and statistical data, followed by references and an index.
 ---
 
+## Summary
+
+The rendered pages are promotional and front-matter material for When The Wind Blows - India's Ballot Box Revolution, a 482-page account by S. P. Aiyar and S. V. Raju. Reviews describe the book as a documented, relatively even-tempered study of the political developments leading to the Emergency, the Emergency administration and Resistance, the formation of the Janata party, and the March 1977 election. The contents page lists chapters covering Indira Gandhi’s India, the deepening Emergency, legitimacy, opposition strategy, alliances, elections, campaign finance, the popular vote, perspective, and statistical data, followed by references and an index.
+
 ## Key points
 
 - The work is presented as a 482-page study of India from the period preceding the Emergency through the March 1977 election.

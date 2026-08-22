@@ -50,6 +50,12 @@ summary: |-
   The letter is courteous and personal in tone, closing with thanks for Verma's kind thoughts and Masani's signed subscription.
 ---
 
+## Summary
+
+In this one-page letter dated 23 March 1971, Minoo Masani thanks Mr. K. V. Verma for a letter expressing solidarity. Masani describes democratic practice as requiring acceptance of the people's right to make mistakes, together with continued faith in them.
+
+The letter is courteous and personal in tone, closing with thanks for Verma's kind thoughts and Masani's signed subscription.
+
 ## Key points
 
 - The letter is dated 23 March 1971 and addressed to Mr. K. V. Verma.

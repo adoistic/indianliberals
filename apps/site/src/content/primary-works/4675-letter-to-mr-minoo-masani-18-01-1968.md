@@ -52,6 +52,12 @@ summary: |-
   The enclosed correspondence argues that Sumant Patel had previously been selected as a candidate, while the possibility of allowing him to nominate another person—identified as U. N. Mahida—is presented as a new and procedurally improper development. Shivbhadrasinhji contrasts the Central Board’s earlier rejection of such a proposal with later communications from N. Dandekar, and warns that permitting substitution would be undemocratic, weaken party discipline, and damage public confidence. A copy of a 19 January letter from Chandrasinhji of Dhrol repeats the criticism, while H. M. Patel’s 12 January letter offers a conflicting account: he says the party had committed itself to Babubhai Vaidya for the first Rajya Sabha vacancy and Sumant Patel, or his nominee, for the next.
 ---
 
+## Summary
+
+This six-page correspondence packet records Maharajkumar Shivbhadrasinhji’s objection to an alleged change in the Swatantra Party’s nomination process for the 1968 Rajya Sabha elections. In a covering letter dated 18 January 1968 to M. R. Masani, Shivbhadrasinhji encloses a letter to Professor N. G. Ranga and asks that the Central Parliamentary Board uphold the principle that a candidate selected by the Board should not be permitted to substitute another nominee.
+
+The enclosed correspondence argues that Sumant Patel had previously been selected as a candidate, while the possibility of allowing him to nominate another person—identified as U. N. Mahida—is presented as a new and procedurally improper development. Shivbhadrasinhji contrasts the Central Board’s earlier rejection of such a proposal with later communications from N. Dandekar, and warns that permitting substitution would be undemocratic, weaken party discipline, and damage public confidence. A copy of a 19 January letter from Chandrasinhji of Dhrol repeats the criticism, while H. M. Patel’s 12 January letter offers a conflicting account: he says the party had committed itself to Babubhai Vaidya for the first Rajya Sabha vacancy and Sumant Patel, or his nominee, for the next.
+
 ## Key points
 
 - The packet is dated principally 18 January 1968 and concerns nominations for the 1968 Rajya Sabha elections.

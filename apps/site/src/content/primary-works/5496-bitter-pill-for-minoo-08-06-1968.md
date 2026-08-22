@@ -51,6 +51,12 @@ summary: |-
   The article’s sections—“Front Man,” “Mistaken,” and “Revolt!”—discuss the party’s origins, its leadership in Gujarat, and disagreements involving figures such as K. M. Munshi, S. V. Raju, and M. R. Pai. It portrays the Swatantra Party as divided over tactics, leadership, and its public role, while suggesting that Masani’s prominence has become a liability rather than an asset. The final section presents Masani’s predicament as part of a wider crisis of direction for the party, including uncertainty over its relationship to other political forces and its ability to attract wider support.
 ---
 
+## Summary
+
+“Bitter pill for Minoo,” published on page 14 of the June 8, 1968 issue or section headed “National Affairs,” examines the internal condition of the Swatantra Party and the political difficulties confronting its prominent leader, Minoo Masani. The article argues that Masani’s organisational and campaigning abilities have been overstated, and contrasts his position with the party’s broader leadership and institutional problems.
+
+The article’s sections—“Front Man,” “Mistaken,” and “Revolt!”—discuss the party’s origins, its leadership in Gujarat, and disagreements involving figures such as K. M. Munshi, S. V. Raju, and M. R. Pai. It portrays the Swatantra Party as divided over tactics, leadership, and its public role, while suggesting that Masani’s prominence has become a liability rather than an asset. The final section presents Masani’s predicament as part of a wider crisis of direction for the party, including uncertainty over its relationship to other political forces and its ability to attract wider support.
+
 ## Key points
 
 - The article assesses Minoo Masani’s leadership and campaigning role in the Swatantra Party.

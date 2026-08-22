@@ -57,6 +57,12 @@ summary: |-
   The statement explains the Swatantra Party’s emergence as a reaction to the Nagpur Resolution’s threat of land collectivisation, the concentration of power, restrictions on productive forces, and the absence of a non-socialist electoral alternative. It argues that parliamentary democracy requires freedom of choice for workers, investors, and consumers, and cites West Germany, Japan, and the British elections as evidence of movement away from state socialism. Masani also rejects Nehru’s charge that the party represents vested business interests, arguing instead that controlled economic conditions make businessmen dependent on government and that the principal vested interests are politicians, bureaucrats, and businesses attached to the state.
 ---
 
+## Summary
+
+This three-page English press communication, dated Delhi, November 23, reports remarks by M. R. Masani at a public meeting at Sapru House, with K. M. Munshi in the chair. Masani presents the economic choice as one between the Swatantra Party’s program of initiative, enterprise, incentives, and individual choice, and Prime Minister Jawaharlal Nehru’s “State Capitalism,” which he associates with Soviet-type planning, collective farming, bureaucracy, regulation, inflation, rising prices, and excessive taxation.
+
+The statement explains the Swatantra Party’s emergence as a reaction to the Nagpur Resolution’s threat of land collectivisation, the concentration of power, restrictions on productive forces, and the absence of a non-socialist electoral alternative. It argues that parliamentary democracy requires freedom of choice for workers, investors, and consumers, and cites West Germany, Japan, and the British elections as evidence of movement away from state socialism. Masani also rejects Nehru’s charge that the party represents vested business interests, arguing instead that controlled economic conditions make businessmen dependent on government and that the principal vested interests are politicians, bureaucrats, and businesses attached to the state.
+
 ## Key points
 
 - Masani frames the central economic question as how to expand output with the least social strain.

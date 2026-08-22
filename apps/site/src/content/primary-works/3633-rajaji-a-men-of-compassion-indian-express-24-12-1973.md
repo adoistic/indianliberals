@@ -50,6 +50,12 @@ summary: |-
   The speakers also recall Rajaji’s views on major national events, including the partition of India and the granting of political independence. One speaker argues that Rajaji correctly understood the consequences of accepting partition, while another stresses that his private character was greater than his public reputation and that he was exceptionally scrupulous in handling public money. The article closes with tributes describing Rajaji as one of India’s greatest men and as a leading figure in South Indian public life.
 ---
 
+## Summary
+
+This one-page newspaper report, published in the Indian Express, Madras, on 24 December 1973, records a memorial meeting for C. Rajagopalachari (Rajaji). Speakers portray him as a public figure whose influence arose not only from political achievement but also from compassion, humility, warmth, and close attention to ordinary people. The report emphasizes that his conduct in office was marked by personal feeling rather than administrative coldness.
+
+The speakers also recall Rajaji’s views on major national events, including the partition of India and the granting of political independence. One speaker argues that Rajaji correctly understood the consequences of accepting partition, while another stresses that his private character was greater than his public reputation and that he was exceptionally scrupulous in handling public money. The article closes with tributes describing Rajaji as one of India’s greatest men and as a leading figure in South Indian public life.
+
 ## Key points
 
 - The article reports on a memorial meeting held for C. Rajagopalachari after his death.

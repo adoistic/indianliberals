@@ -45,3 +45,7 @@ ai:
 summary: |-
   This four-page Lok Sabha Bulletin—Part II, dated Wednesday, April 29, 1964 (Vaisakha 9, 1886 Saka), records parliamentary committee appointments for the term beginning May 1, 1964. Notices Nos. 927–935 list the nominated personnel and, where applicable, identify each committee chairperson.
 ---
+
+## Summary
+
+This four-page Lok Sabha Bulletin—Part II, dated Wednesday, April 29, 1964 (Vaisakha 9, 1886 Saka), records parliamentary committee appointments for the term beginning May 1, 1964. Notices Nos. 927–935 list the nominated personnel and, where applicable, identify each committee chairperson.

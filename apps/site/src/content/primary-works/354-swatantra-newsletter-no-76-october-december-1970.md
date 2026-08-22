@@ -62,3 +62,7 @@ ai:
 summary: |-
   Swatantra Newsletter No. 76, issued by the National Headquarters of the Swatantra Party in Bombay and dated October–December 1970, reports on the Party’s parliamentary strategy, organisational activity, electoral preparations, and political resolutions. The issue records disappointment at the failure of Congress(O), Jana Sangh, and BKD leaders to establish a proposed nationalist-democratic bloc, while continuing to advocate coordinated opposition action. It also explains the Party’s conditional support for the SVD Ministry in Uttar Pradesh, its withdrawal from the Mysore SVD, candidate nominations, the Dakala by-election decision, and preparations for the Sixth National Convention.
 ---
+
+## Summary
+
+Swatantra Newsletter No. 76, issued by the National Headquarters of the Swatantra Party in Bombay and dated October–December 1970, reports on the Party’s parliamentary strategy, organisational activity, electoral preparations, and political resolutions. The issue records disappointment at the failure of Congress(O), Jana Sangh, and BKD leaders to establish a proposed nationalist-democratic bloc, while continuing to advocate coordinated opposition action. It also explains the Party’s conditional support for the SVD Ministry in Uttar Pradesh, its withdrawal from the Mysore SVD, candidate nominations, the Dakala by-election decision, and preparations for the Sixth National Convention.

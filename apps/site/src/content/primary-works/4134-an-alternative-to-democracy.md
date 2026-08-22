@@ -53,6 +53,12 @@ summary: |-
   The proposal described in the clipping combines decentralisation, community organisation, and self-government. Narayan advocates a “more satisfying participatory democracy,” with greater decentralisation of economic and political power, and argues that modern civilisation should restore meaningful human relationships rather than maintain merely “controllable relationships.” The report also summarises his interest in reconstructing Indian community life, developing political and economic institutions for the future, and enabling people to enjoy liberty and freedom through self-government.
 ---
 
+## Summary
+
+This newspaper clipping reports from Banaras on discussions among Sarvodaya leaders about Jayaprakash Narayan’s proposal to reconstruct Indian political life. Narayan is presented as seeking a national programme that could serve as an alternative to parliamentary democracy. The report says his approach is non-partisan and non-sectarian, and that he objects to parliamentary democracy because it produces what he calls “democratic oligarchy,” in which people do not feel involved in decision-making or the administration of government.
+
+The proposal described in the clipping combines decentralisation, community organisation, and self-government. Narayan advocates a “more satisfying participatory democracy,” with greater decentralisation of economic and political power, and argues that modern civilisation should restore meaningful human relationships rather than maintain merely “controllable relationships.” The report also summarises his interest in reconstructing Indian community life, developing political and economic institutions for the future, and enabling people to enjoy liberty and freedom through self-government.
+
 ## Key points
 
 - Sarvodaya leaders gathered in Banaras to discuss Jayaprakash Narayan’s proposal for reconstructing Indian politics.

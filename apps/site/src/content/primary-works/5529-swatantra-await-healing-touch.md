@@ -54,6 +54,12 @@ summary: |-
   The draft letter explains that the Swatantra Party is willing to cooperate with the government on the Fourth Five-Year Plan, but objects to planning as a system of pervasive controls, licences, and permits. It argues that such controls encourage corruption and patronage rather than serving economic necessity, and uses Food Zones, sugar distribution, and export restrictions as examples. The letter calls for the abolition of Food Zones and a broader relaxation or removal of controls, while maintaining that freer production and trade would improve supplies, prices, and public welfare.
 ---
 
+## Summary
+
+This two-page English-language archival item combines a 25 May 1968 Indian Express clipping with a typed draft letter to the Prime Minister. The clipping reports that the Swatantra Party was seeking advice from its senior leaders after electoral setbacks, particularly the defeat of its Gujarat Assembly candidate, the resignation of M. R. Masani, and disputes over party discipline and leadership. It presents C. Rajagopalachari’s forthcoming party-council address and Masani’s criticism of indiscipline, defections, and the party’s weakening public image as possible elements of a “healing” process.
+
+The draft letter explains that the Swatantra Party is willing to cooperate with the government on the Fourth Five-Year Plan, but objects to planning as a system of pervasive controls, licences, and permits. It argues that such controls encourage corruption and patronage rather than serving economic necessity, and uses Food Zones, sugar distribution, and export restrictions as examples. The letter calls for the abolition of Food Zones and a broader relaxation or removal of controls, while maintaining that freer production and trade would improve supplies, prices, and public welfare.
+
 ## Key points
 
 - An Indian Express report describes the Swatantra Party’s internal difficulties after electoral reverses in Gujarat and Rajasthan.

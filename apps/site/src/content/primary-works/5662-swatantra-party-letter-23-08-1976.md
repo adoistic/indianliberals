@@ -55,6 +55,12 @@ summary: |-
   The letter’s central political argument is that the real issue is not whether the Indian people must be compelled to obey, but how government can be made responsible to them. It rejects the idea that Indians are incapable of democratic self-government because they are poor or illiterate, warning instead that paternalistic arguments for “guidance” and stronger executive power are themselves authoritarian. The letter closes by invoking John Barbour’s praise of freedom as a noble and deeply human value.
 ---
 
+## Summary
+
+This letter dated 23 August 1976 argues that India’s Emergency has produced an atmosphere in which the government’s claims cannot be trusted and dissent is treated as hostility. It criticizes Prime Minister Indira Gandhi’s statements that the Emergency has been relaxed, that press censorship has ended, and that most detainees have been released, contrasting those claims with continued imprisonment without trial, pre-censorship, and the absence of meaningful civil freedoms.
+
+The letter’s central political argument is that the real issue is not whether the Indian people must be compelled to obey, but how government can be made responsible to them. It rejects the idea that Indians are incapable of democratic self-government because they are poor or illiterate, warning instead that paternalistic arguments for “guidance” and stronger executive power are themselves authoritarian. The letter closes by invoking John Barbour’s praise of freedom as a noble and deeply human value.
+
 ## Key points
 
 - The letter condemns the Emergency government’s alleged habit of confusing fact with official assertion.

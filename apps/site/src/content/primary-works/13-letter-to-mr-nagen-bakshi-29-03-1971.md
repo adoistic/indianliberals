@@ -48,6 +48,12 @@ summary: |-
   Masani also says that he is writing to Bakshi’s son to ask what he can do for him. The letter closes with a brief expression of goodwill for Bakshi’s health and spirits.
 ---
 
+## Summary
+
+In this letter dated 29 March 1971, M. R. Masani thanks Mr. N. Bakshi for expressing solidarity during a period of misfortune. Masani invokes Mahatma Gandhi’s advice to “Turn the searchlight inwards,” presenting it as a reminder of self-examination in difficult circumstances.
+
+Masani also says that he is writing to Bakshi’s son to ask what he can do for him. The letter closes with a brief expression of goodwill for Bakshi’s health and spirits.
+
 ## Key points
 
 - The letter is dated 29 March 1971 and addressed to Mr. N. Bakshi in Ranchi.

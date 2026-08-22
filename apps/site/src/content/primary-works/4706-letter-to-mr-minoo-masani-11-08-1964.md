@@ -48,6 +48,10 @@ summary: |-
   This 13 August 1964 letter from C. Rajagopalachari to Minoo Masani concerns a telegram involving K. M. Munshi and an internal dispute in the Swatantra Party's Bihar organisation. Rajagopalachari explains that he had received Masani's telegram and had not understood himself to have been asked to send Munshi a wire or letter. He reports that he instead sent Munshi a telegram seeking clarification and encloses related press material.
 ---
 
+## Summary
+
+This 13 August 1964 letter from C. Rajagopalachari to Minoo Masani concerns a telegram involving K. M. Munshi and an internal dispute in the Swatantra Party's Bihar organisation. Rajagopalachari explains that he had received Masani's telegram and had not understood himself to have been asked to send Munshi a wire or letter. He reports that he instead sent Munshi a telegram seeking clarification and encloses related press material.
+
 ## Key points
 
 - The letter is dated 13 August 1964 and is addressed to Minoo Masani.

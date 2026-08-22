@@ -48,6 +48,10 @@ summary: |-
   This single-page letter, dated March 11, 1964, is from M. R. Masani in New Delhi to M. C. Chagla, then Minister of Education. Masani forwards a table documenting losses in sales of nationalised textbooks in Bihar, attributing them to spurious books being placed on the market, and asks Chagla to consider the issue in his parliamentary reply.
 ---
 
+## Summary
+
+This single-page letter, dated March 11, 1964, is from M. R. Masani in New Delhi to M. C. Chagla, then Minister of Education. Masani forwards a table documenting losses in sales of nationalised textbooks in Bihar, attributing them to spurious books being placed on the market, and asks Chagla to consider the issue in his parliamentary reply.
+
 ## Key points
 
 - Masani writes to Education Minister M. C. Chagla from 57 Lodi Estate, New Delhi.

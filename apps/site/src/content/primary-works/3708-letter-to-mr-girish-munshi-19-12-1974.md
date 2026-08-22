@@ -48,6 +48,12 @@ summary: |-
   Mody closes by saying that he will ask Bhatia to inform Munshi when the arrangements are known. The letter is typed on Mody’s New Delhi parliamentary letterhead and includes a carbon-copy notation for V. P. Bhatia.
 ---
 
+## Summary
+
+This single-page English letter from Piloo Mody, dated December 19, 1974, acknowledges Girish Munshi’s letter of December 6. Mody explains that he has no current plans to visit Bombay but may do so once his programme is fixed.
+
+Mody closes by saying that he will ask Bhatia to inform Munshi when the arrangements are known. The letter is typed on Mody’s New Delhi parliamentary letterhead and includes a carbon-copy notation for V. P. Bhatia.
+
 ## Key points
 
 - The letter is dated December 19, 1974, and was sent from Piloo Mody’s New Delhi parliamentary office.

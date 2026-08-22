@@ -50,6 +50,12 @@ summary: |-
   The listed agenda is limited to consideration of the party's business in the coming session of Parliament, with provision for any other item to be intimated later. The document is signed by N. G. Ranga, identified as the parliamentary leader. Archival marks include a receipt stamp dated 20 October 1965 and the handwritten reference number 3865.
 ---
 
+## Summary
+
+This one-page English circular, issued by the Swatantra Party Parliament Office in New Delhi on 22 October 1965, announces a General Body meeting for Tuesday, 2 November 1965, at 10:30 a.m. The meeting is to take place in the Party Committee Room, Parliament House, New Delhi, and members are requested to attend.
+
+The listed agenda is limited to consideration of the party's business in the coming session of Parliament, with provision for any other item to be intimated later. The document is signed by N. G. Ranga, identified as the parliamentary leader. Archival marks include a receipt stamp dated 20 October 1965 and the handwritten reference number 3865.
+
 ## Key points
 
 - The Swatantra Party Parliament Office circulated notice of a General Body meeting.

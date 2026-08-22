@@ -51,6 +51,12 @@ summary: |-
   The extracts then trace M. N. Roy's attempt to use the CSP as a base from which to attract and ultimately absorb what he regarded as the genuinely proletarian elements of the nationalist movement. Roy's strategy produced a bitter rupture in 1937, followed by organised Royist resignations and accusations of betrayal from Jayaprakash Narayan. The later pages describe the growing influence of communists within the CSP, the decision to stop admitting new communist members in 1937, and the eventual expulsion of communists in 1940. The final visible passage turns to Roy's critique of Gandhi, contrasting Gandhi's culturally rooted nationalism with Roy's Marxist argument that religious and cultural revivalism was socially reactionary.
 ---
 
+## Summary
+
+These extracts from John Haithcox's Communism and Nationalism in India examine the Congress Socialist Party (CSP) and its internal ideological divisions, especially during the 1930s. The pages describe a leadership divided among Marxists, democratic socialists, and Gandhian decentralists, while the party's public language often appeared more Marxist than its heterogeneous leadership actually was. Bombay is presented as a crucial CSP and labour-organising centre, although Royists encountered hostility from some socialist leaders and remained only partly integrated into the party.
+
+The extracts then trace M. N. Roy's attempt to use the CSP as a base from which to attract and ultimately absorb what he regarded as the genuinely proletarian elements of the nationalist movement. Roy's strategy produced a bitter rupture in 1937, followed by organised Royist resignations and accusations of betrayal from Jayaprakash Narayan. The later pages describe the growing influence of communists within the CSP, the decision to stop admitting new communist members in 1937, and the eventual expulsion of communists in 1940. The final visible passage turns to Roy's critique of Gandhi, contrasting Gandhi's culturally rooted nationalism with Roy's Marxist argument that religious and cultural revivalism was socially reactionary.
+
 ## Key points
 
 - The CSP leadership contained Marxists, democratic socialists, and Gandhian decentralists rather than a single coherent ideological tendency.

@@ -52,6 +52,12 @@ summary: |-
   The letter sets out two reporting categories. Under “Organisation,” it requests figures on workers’ subscription renewals, new enrolments, total workers and life workers, primary units, district committees, council meetings, and party activities. Under “Legislative,” it asks for the number of legislators elected in the last general elections, current legislative strength and the reasons for any decline, by-elections contested and their outcomes, and a brief account of the party’s work in state legislatures. The document is signed by R. C. Cooper as General Secretary.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated December 17, 1970, asks state units to submit reports for the General Secretary's Report to the National Convention in Bombay on January 30 and 31. The requested reports are to cover party activity since the previous national convention at Bhubaneswar in October 1968, with submissions due by January 8, 1971.
+
+The letter sets out two reporting categories. Under “Organisation,” it requests figures on workers’ subscription renewals, new enrolments, total workers and life workers, primary units, district committees, council meetings, and party activities. Under “Legislative,” it asks for the number of legislators elected in the last general elections, current legislative strength and the reasons for any decline, by-elections contested and their outcomes, and a brief account of the party’s work in state legislatures. The document is signed by R. C. Cooper as General Secretary.
+
 ## Key points
 
 - The circular is dated December 17, 1970 and is issued from the Swatantra Party's National Headquarters in Bombay.

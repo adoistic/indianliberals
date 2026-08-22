@@ -49,6 +49,12 @@ summary: |-
   Masani then shifts from political disappointment to a personal invitation, suggesting that Merchant meet him for lunch in town and asking him to telephone so they can arrange a date. The page is a brief, informal exchange combining commentary on the Front’s electoral defeat with an appeal to maintain personal contact.
 ---
 
+## Summary
+
+In this letter dated 17 March 1971, M. R. Masani thanks K. D. Merchant for his letter of 11 March and agrees that the political situation is “all very sad.” Masani says the Front lost the elections held on 3 January and expresses doubt that the electorate has learned any lesson, apart from a small number of people.
+
+Masani then shifts from political disappointment to a personal invitation, suggesting that Merchant meet him for lunch in town and asking him to telephone so they can arrange a date. The page is a brief, informal exchange combining commentary on the Front’s electoral defeat with an appeal to maintain personal contact.
+
 ## Key points
 
 - The letter is dated 17 March 1971 and is addressed to K. D. Merchant, whom Masani calls “Illubhai.”

@@ -52,6 +52,12 @@ summary: |-
   Masani also proposes moving an adjournment motion on the opening day of the session to register concern over the arrest of three unnamed 'patriots', in furtherance of a Swatantra resolution already on the subject. A handwritten 'on opening day' clarifies the timing of the adjournment motion. The telegram is stamped 'Not to be telegraphed' with a note that a confirmation copy is being sent by express delivery, indicating it was intended as a hand-delivered instruction rather than a wired message.
 ---
 
+## Summary
+
+A one-page express telegram dated 15 January 1963 from Minoo Masani, at the Swatantra Party Central Office on Mahatma Gandhi Road, Bombay, to Professor N. G. Ranga at Nidubrolu in Guntur District. Masani urges Ranga to have the party table a parliamentary amendment rejecting the Government of India's apparent intention to accept the Colombo Proposals for a Sino-Indian settlement, which Masani frames as a capitulation. He restates Swatantra's line that there should be no negotiations with China until after total Chinese aggression has ceased.
+
+Masani also proposes moving an adjournment motion on the opening day of the session to register concern over the arrest of three unnamed 'patriots', in furtherance of a Swatantra resolution already on the subject. A handwritten 'on opening day' clarifies the timing of the adjournment motion. The telegram is stamped 'Not to be telegraphed' with a note that a confirmation copy is being sent by express delivery, indicating it was intended as a hand-delivered instruction rather than a wired message.
+
 ## Key points
 
 - Telegram from Masani (Swatantra Party Central Office, Bombay) to Prof. N. G. Ranga at Nidubrolu, Guntur District, dated 15 January 1963.

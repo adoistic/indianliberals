@@ -49,6 +49,12 @@ summary: |-
   Raju supports strict supervision of foreign aid because of what he calls the waste of aid within India, while rejecting the idea that an aid-giving country should dictate another country's internal political affairs. He concludes that India's foreign minister should not offer foreign governments advice that he would rightly reject if directed at India. The letter therefore combines a critique of Pakistan's repression with a defence of national sovereignty and consistency in foreign-policy principles.
 ---
 
+## Summary
+
+In this letter dated June 15, 1971, S. V. Raju writes to the editor of The Times of India about reported remarks by Foreign Minister Swaran Singh at a press conference in Bonn. Singh is reported to have linked economic aid for Pakistan's reconstruction to corrective political action and an end to repressive policies. Raju questions whether this represented a change in India's policy from demanding aid without strings attached, and argues that India's condemnation of Pakistan's suppression of East Bengal should not be weakened by proposing a solution that might later be used against India.
+
+Raju supports strict supervision of foreign aid because of what he calls the waste of aid within India, while rejecting the idea that an aid-giving country should dictate another country's internal political affairs. He concludes that India's foreign minister should not offer foreign governments advice that he would rightly reject if directed at India. The letter therefore combines a critique of Pakistan's repression with a defence of national sovereignty and consistency in foreign-policy principles.
+
 ## Key points
 
 - The letter responds to reported comments by Swaran Singh after meetings with Willy Brandt and Walter Scheel in Bonn.

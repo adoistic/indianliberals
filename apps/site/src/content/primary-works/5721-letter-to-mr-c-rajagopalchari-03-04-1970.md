@@ -49,6 +49,12 @@ summary: |-
   Ranga frames the dispute as especially regrettable because both men are seeking a firm understanding among the Congress (O), Jan Sangh, and other democratic elements. He calls for patience among politically distant allies who nevertheless agree on “21 principles,” and worries about whether their statesmanship can sustain a future political comradeship across ideological and personal differences. He closes by condemning the country’s descent into “political immorality,” attributing it to Indira Gandhi’s “reckless adventurism,” while noting the election of the new President.
 ---
 
+## Summary
+
+This two-page letter, dated April 3, 1970, is from Prof. N. G. Ranga to C. Rajagopalachari (“Rajaji”). Ranga encloses a letter from Jaideep Singh of Balia and explains his refusal to participate in a proposed discussion of a lengthy preliminary charge-sheet against C. C. Desai. He says he disagrees with Minoo Masani’s approach to the matter and welcomes Masani’s suggestion that Ranga’s other engagements might allow him to avoid an unpleasant confrontation at the next National Executive meeting.
+
+Ranga frames the dispute as especially regrettable because both men are seeking a firm understanding among the Congress (O), Jan Sangh, and other democratic elements. He calls for patience among politically distant allies who nevertheless agree on “21 principles,” and worries about whether their statesmanship can sustain a future political comradeship across ideological and personal differences. He closes by condemning the country’s descent into “political immorality,” attributing it to Indira Gandhi’s “reckless adventurism,” while noting the election of the new President.
+
 ## Key points
 
 - Ranga writes to Rajaji on April 3, 1970, enclosing a letter from Jaideep Singh of Balia.

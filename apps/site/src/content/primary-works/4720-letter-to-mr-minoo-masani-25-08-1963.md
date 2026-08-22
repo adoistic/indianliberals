@@ -54,6 +54,12 @@ summary: |-
   The enclosure sets out a programme for the Swatantra Party to counter the Kamaraj Plan and consolidate opposition to Congress policies. Its recommendations include coordinated publicity for compatible non-communist initiatives, invitations to prominent opposition leaders to write and participate in symposia, consultations and joint statements across states, cooperation among grassroots workers, and constructive social and welfare programmes. It also argues for reducing reliance on government, countering the “false glamour” of community development schemes, drawing on India’s religious and spiritual traditions, and building a minimum programme acceptable to opposition parties against Congress and Communists. The enclosure closes by referring to a separate 1,004-word article criticising the government’s foreign policy in the field of internationalism and peace.
 ---
 
+## Summary
+
+This letter, dated 25 August 1963, is C. Rajagopalachari’s transmission to M. R. Masani of an enclosed letter by Smt. Vasanta Subramaniam. Rajagopalachari describes the enclosure as “an unusual letter of great importance,” praising its earnestness, practical sense, and connection with Gandhian non-violence. He proposes that it be circulated, with suitable covering letters, to Ranga Singh Deo, J. R. D. Tata, and Dharamsey Khatau.
+
+The enclosure sets out a programme for the Swatantra Party to counter the Kamaraj Plan and consolidate opposition to Congress policies. Its recommendations include coordinated publicity for compatible non-communist initiatives, invitations to prominent opposition leaders to write and participate in symposia, consultations and joint statements across states, cooperation among grassroots workers, and constructive social and welfare programmes. It also argues for reducing reliance on government, countering the “false glamour” of community development schemes, drawing on India’s religious and spiritual traditions, and building a minimum programme acceptable to opposition parties against Congress and Communists. The enclosure closes by referring to a separate 1,004-word article criticising the government’s foreign policy in the field of internationalism and peace.
+
 ## Key points
 
 - Rajagopalachari forwards Vasanta Subramaniam’s letter to M. R. Masani and recommends its circulation to several political and business figures.

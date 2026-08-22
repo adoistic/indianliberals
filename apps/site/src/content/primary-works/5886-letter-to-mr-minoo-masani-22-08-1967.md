@@ -53,6 +53,12 @@ summary: |-
   The letter presents the Bharatiya Kranti Dal as a newly emerging political force responding to what it calls two decades of Congress misrule. It attributes the country's difficulties primarily to a failure of leadership and asks Masani to write on political, economic, industrial, fiscal, and administrative policy. The appeal is deliberately open-ended: although food policy is suggested as a subject, Masani is invited to choose another topic and to offer ideas that could help the country and its people overcome stagnation and decay.
 ---
 
+## Summary
+
+This one-page letter, dated 22 August 1967 and issued on Bharatiya Kranti Dal National Convention letterhead, invites M. R. Masani to contribute an article for the party's first National Convention at Indore, scheduled for 1–2 October 1967. The proposed souvenir is intended to place the country's current problems in proper perspective, with the subject line identifying the requested contribution as “HOW CONGRESS HAS MADE A MESS OF ITS FOOD POLICY.”
+
+The letter presents the Bharatiya Kranti Dal as a newly emerging political force responding to what it calls two decades of Congress misrule. It attributes the country's difficulties primarily to a failure of leadership and asks Masani to write on political, economic, industrial, fiscal, and administrative policy. The appeal is deliberately open-ended: although food policy is suggested as a subject, Masani is invited to choose another topic and to offer ideas that could help the country and its people overcome stagnation and decay.
+
 ## Key points
 
 - The letter is dated 22 August 1967 and addressed to M. R. Masani, MP.

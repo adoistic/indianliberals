@@ -49,6 +49,12 @@ summary: |-
   The letter then turns to a professional matter concerning Irani’s newspaper staff. The sender recommends that Irani seriously consider S. R. Purohit’s application to fill a vacancy created by the death of the paper’s Jaipur staff correspondent, describing Purohit as decent and unconnected with the party. The page does not identify the newspaper or the sender beyond the signature “Ranga,” which is itself uncertain.
 ---
 
+## Summary
+
+This one-page English letter, dated June 7, 1971, is addressed to C. R. Irani in Calcutta and signed “Ranga.” The sender begins with a personal reprimand, saying that Irani had failed to telephone as promised before leaving for Calcutta. The sender also expresses concern about Irani’s daughter’s operation and urges him to put his family before everything else, criticizing his decision to attend a meeting in Bombay while his daughter was ill.
+
+The letter then turns to a professional matter concerning Irani’s newspaper staff. The sender recommends that Irani seriously consider S. R. Purohit’s application to fill a vacancy created by the death of the paper’s Jaipur staff correspondent, describing Purohit as decent and unconnected with the party. The page does not identify the newspaper or the sender beyond the signature “Ranga,” which is itself uncertain.
+
 ## Key points
 
 - The letter is dated June 7, 1971, and is sent from 143, Mahatma Gandhi Road, Bombay 1.

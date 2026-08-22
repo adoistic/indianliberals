@@ -52,6 +52,12 @@ summary: |-
   Masani attributes the party’s recent electoral setback chiefly to its failure to build a visible alternative and to unite with other opposition parties around policies and programmes. He argues for younger leadership, explaining that he has agreed to step down as party president, and urges immediate political education and grassroots organisation. The letter closes by warning that voters may otherwise turn toward the Naxalites and Maoists when current electoral promises fail, and asks Ghorpade’s meeting to consider these issues and reach fruitful conclusions.
 ---
 
+## Summary
+
+In this letter dated May 7, 1971, M. R. Masani writes to Rajkumar R. Ghorpade of the Swatantra Party’s Coorg Unit, encouraging a forthcoming meeting of party supporters, including planters and agriculturists. Masani presents the Swatantra Party, founded in 1959, as a necessary democratic alternative to socialism and communism, and credits it with resisting political adventurism and demagogy while offering an alternative to the prevailing Socialist Establishment.
+
+Masani attributes the party’s recent electoral setback chiefly to its failure to build a visible alternative and to unite with other opposition parties around policies and programmes. He argues for younger leadership, explaining that he has agreed to step down as party president, and urges immediate political education and grassroots organisation. The letter closes by warning that voters may otherwise turn toward the Naxalites and Maoists when current electoral promises fail, and asks Ghorpade’s meeting to consider these issues and reach fruitful conclusions.
+
 ## Key points
 
 - Masani endorses a meeting of Swatantra Party supporters in Coorg, including leading planters and agriculturists.

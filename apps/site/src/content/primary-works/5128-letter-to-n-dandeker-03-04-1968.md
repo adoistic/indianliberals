@@ -49,6 +49,10 @@ summary: |-
   In this letter dated 3 April 1968 (the day-month order is inferred from the handwritten date), Jai Prakash Narayan asks N. Dandekar, General Secretary of the Swatantra Party, to convene an emergency meeting of the party’s General Council. The stated purpose is to discuss Minoo Masani’s resignation from the National Executive and the Central Parliamentary Board.
 ---
 
+## Summary
+
+In this letter dated 3 April 1968 (the day-month order is inferred from the handwritten date), Jai Prakash Narayan asks N. Dandekar, General Secretary of the Swatantra Party, to convene an emergency meeting of the party’s General Council. The stated purpose is to discuss Minoo Masani’s resignation from the National Executive and the Central Parliamentary Board.
+
 ## Key points
 
 - The letter is addressed to N. Dandekar, the Swatantra Party’s General Secretary.

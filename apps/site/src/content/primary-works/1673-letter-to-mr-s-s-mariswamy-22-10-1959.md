@@ -47,6 +47,12 @@ summary: |-
   The sender explains that several matters currently require attention and therefore declines Mariswamy's request for a contribution to a souvenir being prepared for the Madras District Party Convention. The sender adds that, under other circumstances, they would have been pleased to comply. The sender's name or signature is not legible on the rendered page.
 ---
 
+## Summary
+
+This single-page English letter, dated 22 October 1959, is addressed to Mr. S.S. Mariswamy. The sender thanks him for his letter of 16 October and acknowledges his comments about the sender's speech.
+
+The sender explains that several matters currently require attention and therefore declines Mariswamy's request for a contribution to a souvenir being prepared for the Madras District Party Convention. The sender adds that, under other circumstances, they would have been pleased to comply. The sender's name or signature is not legible on the rendered page.
+
 ## Key points
 
 - The letter is dated 22 October 1959.

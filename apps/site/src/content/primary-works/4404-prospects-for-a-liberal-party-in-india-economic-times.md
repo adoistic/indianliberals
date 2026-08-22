@@ -54,6 +54,10 @@ summary: |-
   In this two-page essay, S. V. Raju examines whether a liberal party can legally enter India's electoral process, whether it could achieve even marginal electoral success, and what its raison d’être should be. He argues that existing legal requirements oblige parties contesting elections to affirm democracy, secularism, and socialism. Using the Swatantra Party's unsuccessful attempt to register as an example, he concludes that a genuinely liberal party cannot currently contest elections without falsely claiming adherence to socialism.
 ---
 
+## Summary
+
+In this two-page essay, S. V. Raju examines whether a liberal party can legally enter India's electoral process, whether it could achieve even marginal electoral success, and what its raison d’être should be. He argues that existing legal requirements oblige parties contesting elections to affirm democracy, secularism, and socialism. Using the Swatantra Party's unsuccessful attempt to register as an example, he concludes that a genuinely liberal party cannot currently contest elections without falsely claiming adherence to socialism.
+
 ## Key points
 
 - Indian electoral law, as described in the essay, requires political parties to affirm democracy, secularism, and socialism.

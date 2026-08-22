@@ -59,6 +59,12 @@ summary: |-
   The English appeal treats the election as a referendum on the Emergency and on the preservation of democratic institutions. It calls for freedom of the press, an independent judiciary, civil liberties, tolerance, human rights, and an end to authoritarian rule, while also promising action on unemployment and rising prices. Pages 3–4 shift to Gujarati and provide a biographical tribute to Purushottam Ganesh Malvankar, describing his public, educational, legal, journalistic, and political associations and presenting him as a figure strongly connected with Ahmedabad and Gujarat. The leaflet is fully visible in the supplied four-page rendering; the Gujarati passages are summarized here in English.
 ---
 
+## Summary
+
+This bilingual four-page election leaflet, issued by the Janata Party’s South Bombay Constituency Propaganda Committees for the 16 March 1977 Lok Sabha election, presents Ratansinh Rajda as the party’s candidate. The cover frames the contest as a stark choice between “Democracy” and “Dictatorship,” “Freedom” and “Slavery,” and a “Free & Fearless Society” and a “Regimented Society.” The accompanying appeal portrays Rajda as a young advocate, municipal councillor, youth-movement activist, and former detainee under MISA during the Emergency.
+
+The English appeal treats the election as a referendum on the Emergency and on the preservation of democratic institutions. It calls for freedom of the press, an independent judiciary, civil liberties, tolerance, human rights, and an end to authoritarian rule, while also promising action on unemployment and rising prices. Pages 3–4 shift to Gujarati and provide a biographical tribute to Purushottam Ganesh Malvankar, describing his public, educational, legal, journalistic, and political associations and presenting him as a figure strongly connected with Ahmedabad and Gujarat. The leaflet is fully visible in the supplied four-page rendering; the Gujarati passages are summarized here in English.
+
 ## Key points
 
 - The leaflet campaigns for the Janata Party in the South-Bombay Lok Sabha constituency on 16 March 1977.

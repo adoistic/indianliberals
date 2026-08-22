@@ -48,6 +48,10 @@ summary: |-
   Dated 9 November 1963, this confidential letter from M. L. Dahanukar & Co. (Private) Ltd. to the Swatantra Party, for the attention of M. R. Masani, encloses a cheque for Rs. 5,000. The donation is explicitly earmarked for party propaganda and agitation on behalf of joint-stock sugar factories in Maharashtra.
 ---
 
+## Summary
+
+Dated 9 November 1963, this confidential letter from M. L. Dahanukar & Co. (Private) Ltd. to the Swatantra Party, for the attention of M. R. Masani, encloses a cheque for Rs. 5,000. The donation is explicitly earmarked for party propaganda and agitation on behalf of joint-stock sugar factories in Maharashtra.
+
 ## Key points
 
 - The letter is dated 9 November 1963 and addressed to the Swatantra Party in Bombay.

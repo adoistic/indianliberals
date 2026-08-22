@@ -48,6 +48,12 @@ summary: |-
   Masani outlines his travel and meeting plans: he is leaving for Calcutta and Jamshedpur, expects to meet Kunte on his return to Delhi, and will be in Delhi from July 1 to 9 for meetings of the Public Accounts Committee and the Railway Accidents Inquiry Committee. He mentions the possibility of meeting Charan Singh and invites Singh to Lucknow on July 7. The page records correspondence and political coordination rather than a developed policy argument.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani to Bhanu Pratap Singh, dated June 15, 1968, responds positively to a proposal concerning the Swatantra Party and the BKD, particularly in light of their opposition to the dissolution of the Bengal unit. Masani also acknowledges concerns that some people on their side may be attempting to sabotage the initiative, saying that something like this may already be happening.
+
+Masani outlines his travel and meeting plans: he is leaving for Calcutta and Jamshedpur, expects to meet Kunte on his return to Delhi, and will be in Delhi from July 1 to 9 for meetings of the Public Accounts Committee and the Railway Accidents Inquiry Committee. He mentions the possibility of meeting Charan Singh and invites Singh to Lucknow on July 7. The page records correspondence and political coordination rather than a developed policy argument.
+
 ## Key points
 
 - Masani acknowledges Bhanu Pratap Singh’s June 8 letter and enclosure.

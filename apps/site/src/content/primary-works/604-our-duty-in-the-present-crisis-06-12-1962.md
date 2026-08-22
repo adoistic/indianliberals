@@ -52,6 +52,10 @@ summary: |-
   These typed speech notes, prepared for delivery at the North Bombay Rotary Club on 6 December 1962, assess India's position during the Sino-Indian crisis. The opening “balance sheet” lists perceived gains from public education about Chinese and international communism, the testing of aligned and non-aligned friends, national solidarity, a reduced cult of personality, a possible need for friendship with Pakistan, and the will to win. The losses include military casualties, territory, and damage to national self-respect and prestige after the cease-fire. The notes argue that Chinese advances have exposed the limits of non-alignment as a security policy and present Mao's truce offer as strategically advantageous to China rather than as evidence of genuine conciliation.
 ---
 
+## Summary
+
+These typed speech notes, prepared for delivery at the North Bombay Rotary Club on 6 December 1962, assess India's position during the Sino-Indian crisis. The opening “balance sheet” lists perceived gains from public education about Chinese and international communism, the testing of aligned and non-aligned friends, national solidarity, a reduced cult of personality, a possible need for friendship with Pakistan, and the will to win. The losses include military casualties, territory, and damage to national self-respect and prestige after the cease-fire. The notes argue that Chinese advances have exposed the limits of non-alignment as a security policy and present Mao's truce offer as strategically advantageous to China rather than as evidence of genuine conciliation.
+
 ## Key points
 
 - The speech frames the 1962 crisis as a balance sheet of political gains and military, territorial, and psychological losses.

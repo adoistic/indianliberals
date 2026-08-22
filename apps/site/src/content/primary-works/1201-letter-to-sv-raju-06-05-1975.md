@@ -45,6 +45,12 @@ summary: |-
   He notes that the Federation had earlier placed money in reputed funds belonging to the Bangalore Education Trust, and says he now needs to check whether such permission had in fact been secured for that investment. The note closes with thanks for Raju's advice and warm wishes, signed under Ganapaiah's title as Secretary General. The second rendered page is the outside of the inland-letter card carrying the postal address, stamp and Bombay postmark, with no additional body text.
 ---
 
+## Summary
+
+A brief typed letter dated 6 May 1975 from N. K. Ganapaiah, Secretary General of The Farmers' Federation of India (Harley Estate, Saklaspur, Karnataka; state office at 21 J. C. Road, Bangalore), replying to S. V. Raju at 148 Mahatma Gandhi Road, Bombay. Ganapaiah thanks Raju for his letter of 2 May 1975 and acknowledges that he had not been aware that prior permission of the Charity Commissioner must be obtained before the Federation invests its funds in reputable firms.
+
+He notes that the Federation had earlier placed money in reputed funds belonging to the Bangalore Education Trust, and says he now needs to check whether such permission had in fact been secured for that investment. The note closes with thanks for Raju's advice and warm wishes, signed under Ganapaiah's title as Secretary General. The second rendered page is the outside of the inland-letter card carrying the postal address, stamp and Bombay postmark, with no additional body text.
+
 ## Key points
 
 - One-page typewritten reply on The Farmers' Federation of India letterhead, reference No. FFI/165/75-76, dated 6 May 1975.

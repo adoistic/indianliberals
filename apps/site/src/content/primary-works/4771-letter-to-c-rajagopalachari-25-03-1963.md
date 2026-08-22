@@ -49,6 +49,12 @@ summary: |-
   Masani says that such a tour would have been a good idea, but criticises what he sees as the continued commitment to “unconditional support” expressed in Munshi’s opening statement at the outbreak of hostilities. The letter therefore combines concern about public discussion of the Budget with a political disagreement over whether that position should have been abandoned.
 ---
 
+## Summary
+
+In this letter dated 25 March 1963, Minoo Masani writes to C. Rajagopalachari (“Rajaji”) about a newspaper clipping summarising Munshi’s speech to the Junior Chamber of Commerce in Ahmedabad. Masani expresses sympathy with the Gujarati colleagues discussed in the clipping and draws attention to the speech because Rajagopalachari had earlier suggested that Munshi travel around the country speaking on the Budget.
+
+Masani says that such a tour would have been a good idea, but criticises what he sees as the continued commitment to “unconditional support” expressed in Munshi’s opening statement at the outbreak of hostilities. The letter therefore combines concern about public discussion of the Budget with a political disagreement over whether that position should have been abandoned.
+
 ## Key points
 
 - Masani encloses a Free Press Journal clipping summarising Munshi’s speech in Ahmedabad.

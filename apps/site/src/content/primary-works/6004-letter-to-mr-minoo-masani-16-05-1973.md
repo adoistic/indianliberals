@@ -46,6 +46,12 @@ summary: |-
   The letter does not discuss the article’s subject or reproduce its title. Instead, it presents the enclosure to Masani for his information and for any action he may consider necessary. The document is therefore chiefly a brief transmission note accompanying material not included in the scanned page.
 ---
 
+## Summary
+
+In this one-page letter dated May 16, 1973, from New Delhi, Jayaprakash Narayan writes to Minoo Masani about an enclosed article. Narayan says the article was published in full in The Indian Express and briefly reported in other newspapers.
+
+The letter does not discuss the article’s subject or reproduce its title. Instead, it presents the enclosure to Masani for his information and for any action he may consider necessary. The document is therefore chiefly a brief transmission note accompanying material not included in the scanned page.
+
 ## Key points
 
 - The document is a dated personal letter from Jayaprakash Narayan to Minoo Masani.

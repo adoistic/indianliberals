@@ -57,6 +57,10 @@ summary: |-
   In this two-page article, M. R. Masani argues that the Nehru Government’s 1962–63 Union Budget is economically damaging and strategically misguided. He presents the budget as an oppressive increase in taxation that will depress savings, investment, industrial growth, and consumption, while placing a disproportionate burden on the lower middle class and salaried people. Masani particularly criticizes the proposed super-profits tax, income and corporate taxes, price controls, and additional taxation introduced under the Defence of India Rules.
 ---
 
+## Summary
+
+In this two-page article, M. R. Masani argues that the Nehru Government’s 1962–63 Union Budget is economically damaging and strategically misguided. He presents the budget as an oppressive increase in taxation that will depress savings, investment, industrial growth, and consumption, while placing a disproportionate burden on the lower middle class and salaried people. Masani particularly criticizes the proposed super-profits tax, income and corporate taxes, price controls, and additional taxation introduced under the Defence of India Rules.
+
 ## Key points
 
 - Masani presents the budget as a consequence of the Government’s security and defence policies after the 1962 conflict with Communist China.

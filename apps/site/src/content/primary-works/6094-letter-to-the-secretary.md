@@ -46,6 +46,10 @@ summary: |-
   This two-page English correspondence consists of an envelope/address leaf and a brief typed letter from C. Rajagopalachari, dated December 9, 1962. The letter is addressed to the Secretary of the Swatantra Party's Bombay Office at 143 Mahatma Gandhi Road, Bombay-1.
 ---
 
+## Summary
+
+This two-page English correspondence consists of an envelope/address leaf and a brief typed letter from C. Rajagopalachari, dated December 9, 1962. The letter is addressed to the Secretary of the Swatantra Party's Bombay Office at 143 Mahatma Gandhi Road, Bombay-1.
+
 ## Key points
 
 - The letter is dated December 9, 1962.

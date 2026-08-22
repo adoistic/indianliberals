@@ -50,6 +50,12 @@ summary: |-
   The procedure prioritises constituencies judged likely to be receptive to the party because of local contacts, workers’ services, and social and economic conditions. Candidate recommendations are to consider character, personality, political record, suitability, and constituency acceptability, followed by inquiries by the Central Office and a formal decision by the Central Parliamentary Board. Similar arrangements apply to State Assembly candidates, with greater responsibility assigned to State Boards. The document also calls for the simultaneous recruitment and training of full-time field organisers, referring to a training course held in Bombay in August 1964.
 ---
 
+## Summary
+
+This two-page Swatantra Party office document establishes procedures for preparing for the 1967 general election. It assigns the Central Parliamentary Board responsibility for decisions on parliamentary constituencies and candidates, State Parliamentary Boards responsibility for recommending priorities and candidates, and party units responsibility for organising field workers. It also identifies participation in intervening by-elections as a matter requiring central decision.
+
+The procedure prioritises constituencies judged likely to be receptive to the party because of local contacts, workers’ services, and social and economic conditions. Candidate recommendations are to consider character, personality, political record, suitability, and constituency acceptability, followed by inquiries by the Central Office and a formal decision by the Central Parliamentary Board. Similar arrangements apply to State Assembly candidates, with greater responsibility assigned to State Boards. The document also calls for the simultaneous recruitment and training of full-time field organisers, referring to a training course held in Bombay in August 1964.
+
 ## Key points
 
 - The Central Parliamentary Board is tasked with supervising the campaign and deciding which parliamentary constituencies to contest.

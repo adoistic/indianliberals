@@ -47,6 +47,12 @@ summary: |-
   The first proposal is the constitution of a standing General Purposes Committee comprising the Speaker, the Deputy Speaker and the leaders of the major political parties. Masani argues that such a body should be formally constituted and should meet periodically to take up matters of broad concern that the House's subject-specific committees cannot adequately handle. The second proposal is that the existing Consultative Committees attached to individual Ministries — which Masani calls too big, flabby and ineffective — be replaced by small, compact Parliamentary Committees for each Ministry, modelled on the arrangement instituted by the Labour Government in the United Kingdom, and placed under the overall control of the Speaker. Masani closes by asking the Speaker to consider the suggestions and give effect to them in whatever manner he thinks feasible.
 ---
 
+## Summary
+
+This single-page letter, typed on Minoo Masani's Bombay letterhead and dated 8th March 1967, is addressed to the Honourable Speaker of the Lok Sabha in New Delhi on the eve of the Fourth Lok Sabha. Masani places two procedural suggestions before the Speaker for possible adoption with the new House.
+
+The first proposal is the constitution of a standing General Purposes Committee comprising the Speaker, the Deputy Speaker and the leaders of the major political parties. Masani argues that such a body should be formally constituted and should meet periodically to take up matters of broad concern that the House's subject-specific committees cannot adequately handle. The second proposal is that the existing Consultative Committees attached to individual Ministries — which Masani calls too big, flabby and ineffective — be replaced by small, compact Parliamentary Committees for each Ministry, modelled on the arrangement instituted by the Labour Government in the United Kingdom, and placed under the overall control of the Speaker. Masani closes by asking the Speaker to consider the suggestions and give effect to them in whatever manner he thinks feasible.
+
 ## Key points
 
 - Letter from M. R. (Minoo) Masani, dated 8th March 1967, sent from 148 Mahatma Gandhi Road, Bombay 1, to the Speaker of the Lok Sabha in New Delhi.

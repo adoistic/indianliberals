@@ -50,6 +50,12 @@ summary: |-
   A copy was sent by post to M. R. Masani, identified as President of the Swatantra Party, at 143 Mahatma Gandhi Road, Bombay. The page also bears a received stamp dated 25 November 1970, although the transmission date is not printed and cannot be established from the document alone.
 ---
 
+## Summary
+
+This one-page English telegram, sent from Bombay, concerns travel arrangements for “DRP ARTURE” (the name is difficult to read in the scan), apparently to Bhubaneswar via the Baurkela route. It states that departure on the fifth morning may be fixed and adds that a letter will follow.
+
+A copy was sent by post to M. R. Masani, identified as President of the Swatantra Party, at 143 Mahatma Gandhi Road, Bombay. The page also bears a received stamp dated 25 November 1970, although the transmission date is not printed and cannot be established from the document alone.
+
 ## Key points
 
 - The document is a one-page express telegram in English.

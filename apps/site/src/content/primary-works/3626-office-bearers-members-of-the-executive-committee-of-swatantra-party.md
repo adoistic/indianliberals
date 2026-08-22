@@ -48,6 +48,12 @@ summary: |-
   The right-hand column names the executive-committee members, including Girish Pathak, Pramod Tejookaya, H. G. Vaishnav, Abdulla Sheriff, Nooruddin Azad, Ishrat Jehan Mussafir, Natvarlal J. Barot, L. H. Bharkhada, G. S. Dhende, B. R. More, Gulam Vohra, Motilal Sharma, and Dr. Simon Fernandes. The document supplies residential or office addresses and, for some entries, telephone numbers. No publication date, author, or formal imprint is printed on the page.
 ---
 
+## Summary
+
+This single-page English institutional roster lists the office bearers and executive-committee members of the Swatantra Party, Maharashtra. It identifies Mr. Parmanand Kejriwal as president; Mrs. Manorama Dandekar, Mr. P. V. Kanbaskar, and Mr. Laxmanrao G. Pansare as vice presidents; Mr. Girish Munshi as general secretary and acting treasurer; and Mr. Dhiraj M. Shah, Mr. A. J. Pimenta, Mr. K. B. Panday, and Dr. Y. B. Bhosle as joint secretaries.
+
+The right-hand column names the executive-committee members, including Girish Pathak, Pramod Tejookaya, H. G. Vaishnav, Abdulla Sheriff, Nooruddin Azad, Ishrat Jehan Mussafir, Natvarlal J. Barot, L. H. Bharkhada, G. S. Dhende, B. R. More, Gulam Vohra, Motilal Sharma, and Dr. Simon Fernandes. The document supplies residential or office addresses and, for some entries, telephone numbers. No publication date, author, or formal imprint is printed on the page.
+
 ## Key points
 
 - The document is a one-page roster of the Maharashtra branch of the Swatantra Party.

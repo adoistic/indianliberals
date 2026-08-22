@@ -49,6 +49,12 @@ summary: |-
   The writers say that the party has clear alternative policies for the country’s betterment, but that its present condition reflects inadequate guidance from its leadership. They invoke the party’s late leader, Rev. Rajaji, as a memorial obligation and ask Masani for advice and direction during what they describe as a confused period. The second rendered page shows the reverse and postal address of the inland letter card; it contains no additional substantive letter text.
 ---
 
+## Summary
+
+This handwritten letter, dated 24 April 1974, is from Dr. A. Seshadri on behalf of Swatantra Party workers in Chingleput district of Tamil Nadu to Minoo Masani. The writers object to the party leadership’s decision to merge the Swatantra Party with regional parties, arguing that the move would encourage political polarisation and that the party should continue to function independently.
+
+The writers say that the party has clear alternative policies for the country’s betterment, but that its present condition reflects inadequate guidance from its leadership. They invoke the party’s late leader, Rev. Rajaji, as a memorial obligation and ask Masani for advice and direction during what they describe as a confused period. The second rendered page shows the reverse and postal address of the inland letter card; it contains no additional substantive letter text.
+
 ## Key points
 
 - Dr. A. Seshadri writes on behalf of Swatantra Party workers in Chingleput district.

@@ -55,6 +55,12 @@ summary: |-
   The article presents competing concerns about democratic survival: Gandhi's authoritarian conduct is criticised, but the collapse of central authority and the absence of a credible alternative are also portrayed as serious dangers. It reports Masani's view that the charges against Gandhi are legally doubtful and politically motivated, while noting allegations of corruption, nepotism, poverty, and administrative failure. The clipping ends by considering whether Gandhi might restore emergency freedoms and whether an election could be held under opposition leadership.
 ---
 
+## Summary
+
+This one-page English newspaper article examines the prosecution and political position of Prime Minister Indira Gandhi during the Emergency. Drawing on an interview with Roy Povey, biographer Zareer Masani argues that Gandhi's actions are deplorable but asks what alternative leadership could replace her. The article discusses mass arrests, censorship, restrictions on the press, the electoral case against Gandhi, and the possibility of a snap election if she is removed from office.
+
+The article presents competing concerns about democratic survival: Gandhi's authoritarian conduct is criticised, but the collapse of central authority and the absence of a credible alternative are also portrayed as serious dangers. It reports Masani's view that the charges against Gandhi are legally doubtful and politically motivated, while noting allegations of corruption, nepotism, poverty, and administrative failure. The clipping ends by considering whether Gandhi might restore emergency freedoms and whether an election could be held under opposition leadership.
+
 ## Key points
 
 - The article reports Western concern over mass arrests and censorship in India.

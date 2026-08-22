@@ -51,6 +51,12 @@ summary: |-
   Pages 2–4 reproduce General Secretary's Letter No. 247 concerning the Sixth National Convention, scheduled for Bombay on January 28–31, 1971. The circular sets out the convention programme, deadlines for resolutions and constitutional amendments, delegate quotas, eligibility requirements, and procedures for selecting delegates. The quota is calculated at one delegate per ten worker, life-worker, or life members, subject to a maximum of 200 per state or region; the attached table totals 2,149 delegates. The final page repeats Letter No. 246, suggesting that the PDF combines or duplicates related office papers.
 ---
 
+## Summary
+
+This five-page English circular from the Swatantra Party's national headquarters, dated November 16, 1970, contains General Secretary's Letter No. 246 and related material. Letter No. 246 asks party units to submit state-level problems with national relevance for a draft programme intended to “bring prosperity to the people of India.” A sub-committee chaired by J. M. Lobo, with Professors Ranga and Ruthnaswamy and D. N. Patodia as members, was instructed to prepare the draft within a month.
+
+Pages 2–4 reproduce General Secretary's Letter No. 247 concerning the Sixth National Convention, scheduled for Bombay on January 28–31, 1971. The circular sets out the convention programme, deadlines for resolutions and constitutional amendments, delegate quotas, eligibility requirements, and procedures for selecting delegates. The quota is calculated at one delegate per ten worker, life-worker, or life members, subject to a maximum of 200 per state or region; the attached table totals 2,149 delegates. The final page repeats Letter No. 246, suggesting that the PDF combines or duplicates related office papers.
+
 ## Key points
 
 - The Swatantra Party sought suggestions from state units for a national draft programme to bring prosperity to India.

@@ -49,6 +49,12 @@ summary: |-
   The letter encloses a draft of the minutes of a National Executive Committee meeting held on 9 April at the L.M.A. Building on Mount Road, Madras, and requests the recipient’s perusal and approval. It also notes that copies have been sent to two other party figures whose names are partly obscured or difficult to read in the scan. The document records internal party administration rather than presenting a substantive political argument.
 ---
 
+## Summary
+
+This one-page English office letter, dated 15 April 1975, is written from the Swatantra Party National Headquarters in Madras to Shri Girish Munshi, identified as General Secretary of the All India Swatantra Party. V. S. Srinivasan reports that he has returned from Delhi and will send a detailed report on an upcoming meeting of the National Governing Committee.
+
+The letter encloses a draft of the minutes of a National Executive Committee meeting held on 9 April at the L.M.A. Building on Mount Road, Madras, and requests the recipient’s perusal and approval. It also notes that copies have been sent to two other party figures whose names are partly obscured or difficult to read in the scan. The document records internal party administration rather than presenting a substantive political argument.
+
 ## Key points
 
 - The letter is dated 15 April 1975 and is issued on Swatantra Party National Headquarters letterhead in Madras.

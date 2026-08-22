@@ -53,6 +53,12 @@ summary: |-
   Masani also defends Singh’s conduct during a disruptive parliamentary episode, praising his extended, uninterrupted Budget speech after order was restored. He welcomes the Budget’s attempt to balance stimulus with fiscal restraint, particularly its proposed reduction in the deficit and direct taxation, while acknowledging that he is not a financial expert. The visible article ends mid-discussion, so its concluding assessment cannot be read.
 ---
 
+## Summary
+
+In this column, Minoo Masani rejects press reports that Finance Minister Manmohan Singh had leaked Budget details to the World Bank. He argues that India had needed World Bank and International Monetary Fund loans since November 1991 and that the Finance Minister had properly informed the banks about measures to liberalise the economy. Masani characterises the leakage allegation as a politically motivated attack by opponents of liberalisation and by people invoking “Socialism.”
+
+Masani also defends Singh’s conduct during a disruptive parliamentary episode, praising his extended, uninterrupted Budget speech after order was restored. He welcomes the Budget’s attempt to balance stimulus with fiscal restraint, particularly its proposed reduction in the deficit and direct taxation, while acknowledging that he is not a financial expert. The visible article ends mid-discussion, so its concluding assessment cannot be read.
+
 ## Key points
 
 - Masani calls allegations that the Budget was leaked to the World Bank false and misleading.

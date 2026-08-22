@@ -59,6 +59,12 @@ summary: |-
   The remaining pages reproduce resolutions adopted by the General Council in Madras on 24–25 June 1972. They condemn Congress tactics in Orissa, welcome Indo-Pakistan summit talks, and call for action against the mistreatment of harijans, adivasis, and other backward classes. The resolutions advocate a thorough electoral-system review, including possible proportional representation and safeguards against ballot-rigging; support the Tamil Nadu farmers’ demands; oppose Kerala’s fee policy toward private colleges; defend press freedom; and argue for land-tenure security, fair compensation, peasant proprietorship, and resistance to compulsory collectivisation. The packet records the party’s opposition to Congress, the DMK, and Marxist-inspired land-ceiling policies while combining civil-libertarian, electoral, educational, foreign-policy, and agrarian concerns.
 ---
 
+## Summary
+
+This seven-page Swatantra Party packet brings together three administrative and political documents from 1972. The first is a 5 August notice calling a Bombay Region Executive Committee meeting and listing an agenda concerned with previous minutes, General Council proceedings, party programmes, and other business. The second, a 26 May letter from General Secretary Madhu Mehta, asks regional units to prepare proposals for the forthcoming Madras General Council meeting within the framework of an earlier consensus and urges them to ensure maximum attendance.
+
+The remaining pages reproduce resolutions adopted by the General Council in Madras on 24–25 June 1972. They condemn Congress tactics in Orissa, welcome Indo-Pakistan summit talks, and call for action against the mistreatment of harijans, adivasis, and other backward classes. The resolutions advocate a thorough electoral-system review, including possible proportional representation and safeguards against ballot-rigging; support the Tamil Nadu farmers’ demands; oppose Kerala’s fee policy toward private colleges; defend press freedom; and argue for land-tenure security, fair compensation, peasant proprietorship, and resistance to compulsory collectivisation. The packet records the party’s opposition to Congress, the DMK, and Marxist-inspired land-ceiling policies while combining civil-libertarian, electoral, educational, foreign-policy, and agrarian concerns.
+
 ## Key points
 
 - A Bombay Region notice schedules an Executive Committee meeting for 16 August 1972 and sets out four agenda items.

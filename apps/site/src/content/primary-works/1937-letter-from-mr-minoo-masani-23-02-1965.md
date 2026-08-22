@@ -51,6 +51,12 @@ summary: |-
   The attached newspaper clippings include the report discussed in the letter, under the headline “BILL TO AMEND COMPANIES ACT,” and a separate visible clipping headed “U.S. Foreign Policy Paradoxical.” The latter discusses the limits of assuming shared interests between friendly countries and refers more generally to foreign-policy principles and the handling of foreign affairs. The summary is limited to the letter and the text visible in these three rendered pages.
 ---
 
+## Summary
+
+This three-page English-language document is a letter from Minoo Masani, dated February 23, 1965, written on Parliamentary Group Office letterhead and addressed to the editor of the Press Trust of India. Masani corrects a report in The Times of India that described Yashpal Singh as a Swatantra Party member. He states that Singh had left the party and joined the S.S.P. during Parliament's November–December session, and asks that future reports not use the inaccurate designation because it could confuse readers.
+
+The attached newspaper clippings include the report discussed in the letter, under the headline “BILL TO AMEND COMPANIES ACT,” and a separate visible clipping headed “U.S. Foreign Policy Paradoxical.” The latter discusses the limits of assuming shared interests between friendly countries and refers more generally to foreign-policy principles and the handling of foreign affairs. The summary is limited to the letter and the text visible in these three rendered pages.
+
 ## Key points
 
 - Minoo Masani wrote to the Press Trust of India on February 23, 1965.

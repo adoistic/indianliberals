@@ -59,6 +59,12 @@ summary: |-
   The programme combines anti-corruption and administrative reforms with a critique of excessive controls, permits, licences, quotas, and wasteful expenditure. It calls for abolition of land revenue, reduction of tax burdens, university expansion, wider technical and general education, development of agriculture and infrastructure, support for Scheduled Castes and Tribes and backward areas, decentralization through Panchayats, introduction of Oriya as the state language in administration, and a commission of inquiry into all aspects of Orissa’s finances. The document is a concise institutional statement of coalition policy rather than a discursive argument.
 ---
 
+## Summary
+
+The two-page “SWATANTRA - JANA CONGRESS COMMON PROGRAMME” records an agreement between the Swatantra Party and the Orissa Jana Congress, dated 30 December 1966, and signed by P. M. Pradhan and R.N. Singh Deo on 14 February 1967. It presents a 21-point programme for a coalition government in Orissa, centered on clean and efficient administration, the rule of law, impartial public service, and the reduction of political interference and bureaucratic delay.
+
+The programme combines anti-corruption and administrative reforms with a critique of excessive controls, permits, licences, quotas, and wasteful expenditure. It calls for abolition of land revenue, reduction of tax burdens, university expansion, wider technical and general education, development of agriculture and infrastructure, support for Scheduled Castes and Tribes and backward areas, decentralization through Panchayats, introduction of Oriya as the state language in administration, and a commission of inquiry into all aspects of Orissa’s finances. The document is a concise institutional statement of coalition policy rather than a discursive argument.
+
 ## Key points
 
 - The programme implements an agreement between the Swatantra Party and the Orissa Jana Congress for a coalition in Orissa.

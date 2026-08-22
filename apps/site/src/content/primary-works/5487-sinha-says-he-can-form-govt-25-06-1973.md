@@ -54,6 +54,12 @@ summary: |-
   The report also records opposition to a mid-term poll preceded by President’s Rule, attributed to Congress Opposition leader Mr. Mahesh Prasad Sinha. Sinha argues that there is no constitutional crisis following Paswan’s resignation and says that, as leader of the largest single party with the support of like-minded parties, he can form an alternative government. The clipping notes alleged Congress dissent over Sinha’s leadership, possible support from the Socialist Dal and Janata Party, and additional disputes involving Paswan’s ministerial portfolio, legal cases, and transfers of officials.
 ---
 
+## Summary
+
+This one-page English newspaper clipping, datelined Patna, June 25, reports a political crisis surrounding the outgoing Chief Minister, Mr. Bhola Paswan. Paswan says that a mid-term poll is the only way out of the State’s political uncertainty and explains that he has been asked by the Governor, Mr. K. Raghunath, to continue as caretaker Chief Minister until alternative arrangements are made. He says his talks with the Governor made clear that the people should be given a fresh chance through a mid-term poll to determine the State’s future government.
+
+The report also records opposition to a mid-term poll preceded by President’s Rule, attributed to Congress Opposition leader Mr. Mahesh Prasad Sinha. Sinha argues that there is no constitutional crisis following Paswan’s resignation and says that, as leader of the largest single party with the support of like-minded parties, he can form an alternative government. The clipping notes alleged Congress dissent over Sinha’s leadership, possible support from the Socialist Dal and Janata Party, and additional disputes involving Paswan’s ministerial portfolio, legal cases, and transfers of officials.
+
 ## Key points
 
 - Bhola Paswan says a mid-term poll is the only solution to Bihar’s political uncertainty.

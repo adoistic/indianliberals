@@ -49,6 +49,10 @@ summary: |-
   In this handwritten letter dated 5 September 1974, Minoo Masani congratulates S. V. Raju on Raju’s article “National Alternative,” published in Freedom First. Masani then turns to the recent handling of the Swatantra Party, arguing that making Piloo Mody president was a serious mistake and questioning whether the party’s national convention could validly approve dissolution or merger when the party constitution contained no provision for either.
 ---
 
+## Summary
+
+In this handwritten letter dated 5 September 1974, Minoo Masani congratulates S. V. Raju on Raju’s article “National Alternative,” published in Freedom First. Masani then turns to the recent handling of the Swatantra Party, arguing that making Piloo Mody president was a serious mistake and questioning whether the party’s national convention could validly approve dissolution or merger when the party constitution contained no provision for either.
+
 ## Key points
 
 - Masani congratulates S. V. Raju on the article “National Alternative” in Freedom First.

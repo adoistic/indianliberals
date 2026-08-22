@@ -45,6 +45,10 @@ summary: |-
   This two-page English office letter, dated 11 April 1975, is issued on Swatantra Party Maharashtra letterhead from Sassoon Building, Bombay. Addressed to the Executive Secretary of Bharatiya Lok Dal, it reports the rent and electricity charges paid for the party premises during March 1975.
 ---
 
+## Summary
+
+This two-page English office letter, dated 11 April 1975, is issued on Swatantra Party Maharashtra letterhead from Sassoon Building, Bombay. Addressed to the Executive Secretary of Bharatiya Lok Dal, it reports the rent and electricity charges paid for the party premises during March 1975.
+
 ## Key points
 
 - The letter is dated 11 April 1975.

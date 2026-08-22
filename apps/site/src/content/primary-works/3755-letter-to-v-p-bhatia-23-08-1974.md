@@ -51,6 +51,12 @@ summary: |-
   The letter asks Bhatia to confirm by August 26 that the national office will surrender the allocated premises, while noting that the Maharashtra unit would permit continued occupation if the central organisation decided to continue. The attached second and third PDF pages are fragments of a postal insurance receipt or related postal notice, with handwritten markings; they do not add substantive information about the party's affairs.
 ---
 
+## Summary
+
+Dated August 23, 1974, this typed letter from Girish Munsht, identified as General Secretary of the Swatantra Party, Maharashtra, is addressed to V. P. Bhatia, Executive Secretary of the party's National Headquarters. It states that the Swatantra Party at the centre is expected to cease to exist from August 29, 1974, and explains that the Maharashtra unit's office space had been provided solely for the party's national work.
+
+The letter asks Bhatia to confirm by August 26 that the national office will surrender the allocated premises, while noting that the Maharashtra unit would permit continued occupation if the central organisation decided to continue. The attached second and third PDF pages are fragments of a postal insurance receipt or related postal notice, with handwritten markings; they do not add substantive information about the party's affairs.
+
 ## Key points
 
 - The letter is dated August 23, 1974 and was issued on Swatantra Party, Maharashtra letterhead.

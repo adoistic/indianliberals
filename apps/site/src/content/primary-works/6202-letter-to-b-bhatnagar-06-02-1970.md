@@ -47,6 +47,12 @@ summary: |-
   Masani nevertheless offers the text of a press conference he addressed in New Delhi on December 31, noting that it remains topical. He says he is enclosing a copy of that text, but the enclosure is not present in the rendered PDF. The letter is signed by Masani and addressed to Bhatnagar in his capacity as Chief Editor of Public Relations.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to B. Bhatnagar, dated February 6, 1970, acknowledges Bhatnagar's earlier letter of December 30. Masani explains that an overseas absence and pressure of work prevented him from preparing a special article for Bhatnagar's periodical.
+
+Masani nevertheless offers the text of a press conference he addressed in New Delhi on December 31, noting that it remains topical. He says he is enclosing a copy of that text, but the enclosure is not present in the rendered PDF. The letter is signed by Masani and addressed to Bhatnagar in his capacity as Chief Editor of Public Relations.
+
 ## Key points
 
 - Masani's letter is dated February 6, 1970.

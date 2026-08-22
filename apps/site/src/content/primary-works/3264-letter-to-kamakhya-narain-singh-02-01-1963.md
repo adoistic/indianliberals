@@ -50,6 +50,12 @@ summary: |-
   The second page is a December 28, 1962, true copy of Singh’s preceding letter to Rajagopalachari, sent on Swatantra Party Bihar letterhead. Singh describes his return to India after six months abroad, reflects on the “crisis” experienced by both the party and the country, and asks Rajagopalachari to make time for a tour of Bihar. Together, the letters show party-political coordination, concern with organisational order, and an appeal to democratic decision-making within the Bihar party.
 ---
 
+## Summary
+
+This two-page correspondence from January 1, 1963, records C. Rajagopalachari’s response to Kamakhya Narain Singh, Raja of Ramgarh, after Singh’s return from abroad. Rajagopalachari welcomes him back, says he hopes to give time to Bihar, and makes that visit conditional on the Bihar party first settling its internal affairs. He urges Singh to accept the democratic solutions being offered to him.
+
+The second page is a December 28, 1962, true copy of Singh’s preceding letter to Rajagopalachari, sent on Swatantra Party Bihar letterhead. Singh describes his return to India after six months abroad, reflects on the “crisis” experienced by both the party and the country, and asks Rajagopalachari to make time for a tour of Bihar. Together, the letters show party-political coordination, concern with organisational order, and an appeal to democratic decision-making within the Bihar party.
+
 ## Key points
 
 - Rajagopalachari welcomes Kamakhya Narain Singh back from abroad.

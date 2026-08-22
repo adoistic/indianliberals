@@ -55,6 +55,12 @@ summary: |-
   The committee decided that the party should oppose the 18th Amendment Bill, expected to be introduced in the Lok Sabha during the current session. It also agreed that party members should not participate in functions organised for an imminent Soviet parliamentary delegation. The record closes with the meeting’s adjournment and a vote of thanks to the chair.
 ---
 
+## Summary
+
+This one-page record, issued by the Swatantra Party Parliamentary Office in New Delhi, documents a meeting of the Executive Committee of the Swatantra Party Parliamentary Group held on 12 February 1964. Prof. N. G. Ranga chaired the meeting, which approved an amendment by Shri P. K. Deo to the Motion of Thanks on the President’s Address.
+
+The committee decided that the party should oppose the 18th Amendment Bill, expected to be introduced in the Lok Sabha during the current session. It also agreed that party members should not participate in functions organised for an imminent Soviet parliamentary delegation. The record closes with the meeting’s adjournment and a vote of thanks to the chair.
+
 ## Key points
 
 - The Executive Committee of the Swatantra Party Parliamentary Group met on 12 February 1964 in Parliament House, New Delhi.

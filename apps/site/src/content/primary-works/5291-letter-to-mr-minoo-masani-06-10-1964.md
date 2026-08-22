@@ -51,6 +51,10 @@ summary: |-
   This one-page English letter from the Swatantra Party (Punjab) State Office in Patiala invites Minoo Masani to deliver a special address at the Punjab State Convention on 25 October at 11:00 a.m. The letter explains that K. M. Munshi will inaugurate the convention and N. G. Ranga will preside. It asks Masani to discuss the Swatantra Party's aims and objects, its justification, and its position inside and outside Parliament.
 ---
 
+## Summary
+
+This one-page English letter from the Swatantra Party (Punjab) State Office in Patiala invites Minoo Masani to deliver a special address at the Punjab State Convention on 25 October at 11:00 a.m. The letter explains that K. M. Munshi will inaugurate the convention and N. G. Ranga will preside. It asks Masani to discuss the Swatantra Party's aims and objects, its justification, and its position inside and outside Parliament.
+
 ## Key points
 
 - The Punjab State Convention of the Swatantra Party is scheduled for 25 October in Patiala.

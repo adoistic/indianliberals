@@ -48,6 +48,12 @@ summary: |-
   Masani states that he was not prepared to reconsider Desai’s position. He says he had already conveyed the matter to the General Secretary, had taken care that the action would not be published in the press, and expected Desai to explain his conduct. The note is signed by Masani as President and dated 21 February 1970.
 ---
 
+## Summary
+
+This single-page office note records M. R. Masani’s account of a discussion held after a National Executive meeting on 17 February 1970. Masani had invited C. C. Desai to explain his position and to discuss the Executive’s decision concerning him; Mr. Dal-Patodia was also present. Desai maintained that his conduct was “thoroughly justified” and that he had not acted against party discipline, while Masani treated the disagreement as serious enough to warrant possible party action.
+
+Masani states that he was not prepared to reconsider Desai’s position. He says he had already conveyed the matter to the General Secretary, had taken care that the action would not be published in the press, and expected Desai to explain his conduct. The note is signed by Masani as President and dated 21 February 1970.
+
 ## Key points
 
 - The note reports a discussion following a National Executive meeting on 17 February 1970.

@@ -63,6 +63,12 @@ summary: |-
   The statement criticises labour legislation for encouraging bureaucratic control, litigation, corruption, and barriers between labour, management, and government. It rejects compulsory industrial peace and proposed legal moratoria on strikes and lockouts, treating conflict as inevitable in a free society and advocating rational procedures and collective bargaining instead. The State’s role should be limited to providing services, maintaining a neutral position between labour and management, and intervening only where the public good is affected. The final section insists that labour and management have distinct identities and legitimate interests that cannot be merged, but can be reconciled through free collective bargaining between democratic, worker-controlled unions and management.
 ---
 
+## Summary
+
+This four-page draft statement, issued by the Swatantra Party in Bombay and dated 5 October 1959, presents self-help as the core of the party’s labour policy. It rejects the idea that workers are too illiterate or backward to identify their own interests, arguing instead that industrial workers should control their own unions and should not be represented by non-worker political proxies. The statement opposes the domination of trade unions by political parties, including the Swatantra Party itself, while welcoming worker-members and worker-leaders into the party.
+
+The statement criticises labour legislation for encouraging bureaucratic control, litigation, corruption, and barriers between labour, management, and government. It rejects compulsory industrial peace and proposed legal moratoria on strikes and lockouts, treating conflict as inevitable in a free society and advocating rational procedures and collective bargaining instead. The State’s role should be limited to providing services, maintaining a neutral position between labour and management, and intervening only where the public good is affected. The final section insists that labour and management have distinct identities and legitimate interests that cannot be merged, but can be reconciled through free collective bargaining between democratic, worker-controlled unions and management.
+
 ## Key points
 
 - Self-help is presented as the central principle of Swatantra labour and industrial-relations policy.

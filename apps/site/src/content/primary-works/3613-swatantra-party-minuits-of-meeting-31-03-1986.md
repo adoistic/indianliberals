@@ -52,6 +52,12 @@ summary: |-
   The minutes also document a dispute concerning the Party’s premises at 143 Mahatma Gandhi Road, involving the White Star, Mr. P. N. Subramanian, Mr. Ratansingh Rajda, and the landlords, M/s. Khyber Hotel Corporation. The committee resolved to pay rent by account-payee cheque, explore legal action against Rajda for eviction, appoint a senior lawyer, protest the locked toilet, and keep the Party’s space open for meetings. The existing managing committee and office-bearers were unanimously continued for 1986–87. S. V. Raju reported broad support among members and well-wishers for reviving the Swatantra Party politically, and members urged him to continue those efforts.
 ---
 
+## Summary
+
+These two pages record the minutes of the Swatantra Party, Maharashtra, Managing Committee meeting held at the N.S.C.I. on 31 March 1986. The committee adopted the balance sheet and income-and-expenditure statement for 31 December 1985 and noted a provisional budget for 1986. It discussed increasing compensation paid by Mrs. Sosan Panday and the Adult Education Institute, as well as seeking larger donations from well-wishers.
+
+The minutes also document a dispute concerning the Party’s premises at 143 Mahatma Gandhi Road, involving the White Star, Mr. P. N. Subramanian, Mr. Ratansingh Rajda, and the landlords, M/s. Khyber Hotel Corporation. The committee resolved to pay rent by account-payee cheque, explore legal action against Rajda for eviction, appoint a senior lawyer, protest the locked toilet, and keep the Party’s space open for meetings. The existing managing committee and office-bearers were unanimously continued for 1986–87. S. V. Raju reported broad support among members and well-wishers for reviving the Swatantra Party politically, and members urged him to continue those efforts.
+
 ## Key points
 
 - The committee adopted the balance sheet and income-and-expenditure statement as of 31 December 1985.

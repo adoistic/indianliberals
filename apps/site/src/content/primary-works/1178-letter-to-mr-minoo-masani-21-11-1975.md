@@ -51,6 +51,14 @@ summary: |-
   The letter closes with a personal request for detailed news on the health of Jayaprakash Narayan, and a handwritten postscript records that a confirming telegram has since arrived from Shanti Bhushan agreeing to address the meeting on 8 December 1975. The second image shows the reverse of the inland-letter form, addressed to Masani at 148 Mahatma Gandhi Road, Bombay 1, with a 20-paise stamp postmarked Flowers Road.
 ---
 
+## Summary
+
+This is a brief typewritten letter dated 21 November 1975, sent on Swatantra Party National Head Quarters letterhead (10-A Flowers Road, Madras) by V. S. Srinivasan, Joint Secretary, to Minoo Masani in Bombay. It concerns the logistical arrangements for a public meeting in Madras on 8 December 1975 to mark the birthday of C. Rajagopalachari ("Revered Rajaji").
+
+Srinivasan reports that Shanti Bhushan of Allahabad has "almost agreed" to travel to Madras for the meeting, at which Masani has already consented to speak. The venue is described as an auditorium seating about 2,000 with an adjoining open space that can accommodate around 50,000, and Srinivasan says he intends to give the event wide publicity to make it "a big success." He proposes that K. Subba Rao preside, that Masani speak for thirty to forty minutes and Shanti Bhushan for about an hour, and notes that G. K. Sundaram has been asked to receive them in Madras. He asks Masani to confirm the address he will deliver.
+
+The letter closes with a personal request for detailed news on the health of Jayaprakash Narayan, and a handwritten postscript records that a confirming telegram has since arrived from Shanti Bhushan agreeing to address the meeting on 8 December 1975. The second image shows the reverse of the inland-letter form, addressed to Masani at 148 Mahatma Gandhi Road, Bombay 1, with a 20-paise stamp postmarked Flowers Road.
+
 ## Key points
 
 - Letter of 21 November 1975 from V. S. Srinivasan, Joint Secretary of the Swatantra Party at its Madras head office, to Minoo Masani in Bombay.

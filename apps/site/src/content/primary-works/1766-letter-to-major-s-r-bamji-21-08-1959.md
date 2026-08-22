@@ -52,6 +52,12 @@ summary: |-
   The letter presents the Swatantra Party as an opportunity for members of the recipient’s community to participate in political activity and closes by proposing a personal discussion after the holidays. The remaining rendered pages comprise handwritten Gujarati correspondence and printed Gujarati material from the Bombay Parsi Association, including membership or subscription forms and a statement of the association’s objectives. These attachments are only partially legible in the rendered images and are not treated as a separately authored work.
 ---
 
+## Summary
+
+This archival file contains a typed personal letter dated 21 August 1959 and addressed to Major S. R. Bamji. The unidentified sender thanks Bamji for his letter and explains that neither the sender nor his wife can presently become a donor or patron of Bamji’s association. The sender also addresses a possible merger, noting that the Swatantra Party’s constitution appears not to provide for corporate bodies as members, while expressing the hope that individual members of Bamji’s association can join the Party.
+
+The letter presents the Swatantra Party as an opportunity for members of the recipient’s community to participate in political activity and closes by proposing a personal discussion after the holidays. The remaining rendered pages comprise handwritten Gujarati correspondence and printed Gujarati material from the Bombay Parsi Association, including membership or subscription forms and a statement of the association’s objectives. These attachments are only partially legible in the rendered images and are not treated as a separately authored work.
+
 ## Key points
 
 - The principal document is a personal letter dated 21 August 1959 and addressed to Major S. R. Bamji.

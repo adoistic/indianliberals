@@ -51,6 +51,12 @@ summary: |-
   In his reply from London dated 4 September, Masani denies that he wanted Mahida removed. He explains that it was his duty to place the matter before the party’s Parliamentary Board and consult the Acting Leader and others about the appointment of office-bearers for the next session. Masani thanks Mahida for writing openly and advises him not to rely on second- or third-hand gossip. The exchange documents an internal party dispute centred on office-bearing, communication, trust, and orderly party procedure.
 ---
 
+## Summary
+
+This three-page English-language correspondence dossier contains two confidential letters exchanged in 1962 between Narendra(singh) Mahida, a Lok Sabha member and Secretary of the Swatantra Party Parliamentary Group, and M. R. Masani. In his letter of 21 August, Mahida explains that he resigned after becoming dissatisfied with the situation in the party, though the group asked him to continue. He says he had heard from reliable sources that Masani did not want him to remain secretary and asks for frankness, mutual confidence, and clarity about whether another person should take over.
+
+In his reply from London dated 4 September, Masani denies that he wanted Mahida removed. He explains that it was his duty to place the matter before the party’s Parliamentary Board and consult the Acting Leader and others about the appointment of office-bearers for the next session. Masani thanks Mahida for writing openly and advises him not to rely on second- or third-hand gossip. The exchange documents an internal party dispute centred on office-bearing, communication, trust, and orderly party procedure.
+
 ## Key points
 
 - The dossier consists of Mahida’s letter of 21 August 1962 and Masani’s reply of 4 September 1962.

@@ -53,6 +53,12 @@ summary: |-
   In the rendered pages, Mathur also recalls Rajaji’s reflections on Gandhi’s legacy. Rajaji cautions against turning Gandhi into the founder of a rigid doctrine or formal memorial cult, while affirming Gandhi’s practical commitment to truth and non-violence. The article closes with Rajaji’s account of Gandhi’s spiritual influence and the importance of preserving his teachings as living practice rather than as an institutionalized dogma. The third rendered PDF page contains an apparently unrelated clipping fragment headed “Close Liaison” and is not part of this article.
 ---
 
+## Summary
+
+In the rendered pages, P. S. Mathur recounts the meeting of Mahatma Gandhi and C. Rajagopalachari (Rajaji) in Calcutta during the communal tension of August–September 1947. The article describes Gandhi’s arrival in Calcutta, the public response to his presence, the fragile peace surrounding his stay, and Rajaji’s efforts to support Gandhi’s fast and his non-violent intervention. It presents the episode as a moment when personal moral authority, public trust, and non-violence were brought to bear against communal violence.
+
+In the rendered pages, Mathur also recalls Rajaji’s reflections on Gandhi’s legacy. Rajaji cautions against turning Gandhi into the founder of a rigid doctrine or formal memorial cult, while affirming Gandhi’s practical commitment to truth and non-violence. The article closes with Rajaji’s account of Gandhi’s spiritual influence and the importance of preserving his teachings as living practice rather than as an institutionalized dogma. The third rendered PDF page contains an apparently unrelated clipping fragment headed “Close Liaison” and is not part of this article.
+
 ## Key points
 
 - The article recalls Gandhi’s arrival in Calcutta amid communal anxiety and public unrest in August 1947.

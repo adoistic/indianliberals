@@ -48,6 +48,10 @@ summary: |-
   This one-page official memorandum from the Lok Sabha Secretariat's Table Office, dated March 3, 1970, forwards to the Speaker a letter dated February 27, 1970, from Shri M. R. Masani, M.P. The enclosed letter concerns the Banking Companies (Acquisition of Undertakings) Bill, 1970. The memorandum requests that the matter be placed before the Minister of Parliamentary Affairs for any action considered appropriate.
 ---
 
+## Summary
+
+This one-page official memorandum from the Lok Sabha Secretariat's Table Office, dated March 3, 1970, forwards to the Speaker a letter dated February 27, 1970, from Shri M. R. Masani, M.P. The enclosed letter concerns the Banking Companies (Acquisition of Undertakings) Bill, 1970. The memorandum requests that the matter be placed before the Minister of Parliamentary Affairs for any action considered appropriate.
+
 ## Key points
 
 - The document is an official forwarding memorandum from the Lok Sabha Secretariat's Table Office.

@@ -47,6 +47,12 @@ summary: |-
   The telegram requests the immediate dispatch and distribution of fifteen new jeeps among endorsed units. It asks for confirmation that, when a central observer visits Patna on the eighteenth, he will hand over a draft for the amount after verifying that fifteen jeeps have been allotted to fifteen endorsed units. The document records an administrative and logistical transaction, but does not identify the parties responsible for it.
 ---
 
+## Summary
+
+This single-page English telegram is printed on an Indian Posts and Telegraphs Department form. The sender, recipient, date, and issuing political organisation are not legible, and the message is addressed or associated with “RAMGARH.”
+
+The telegram requests the immediate dispatch and distribution of fifteen new jeeps among endorsed units. It asks for confirmation that, when a central observer visits Patna on the eighteenth, he will hand over a draft for the amount after verifying that fifteen jeeps have been allotted to fifteen endorsed units. The document records an administrative and logistical transaction, but does not identify the parties responsible for it.
+
 ## Key points
 
 - The document is a one-page English telegram on an Indian Posts and Telegraphs Department form.

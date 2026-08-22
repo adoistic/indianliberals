@@ -49,6 +49,10 @@ summary: |-
   This Indian Express report, dated 6 January 1971, records Old Congress president S. Nijalingappa's view that the three-party “national front” formed by the Old Congress, the Samyukta Socialist Party (SSP), and the Jan Sangh could develop a common programme after the elections. He says the alliance's immediate basis is opposition to the New Congress and to Indira Gandhi, but argues that the Swatantra Party may ultimately join it and that the coalition would gain strength by bringing together all democratic forces.
 ---
 
+## Summary
+
+This Indian Express report, dated 6 January 1971, records Old Congress president S. Nijalingappa's view that the three-party “national front” formed by the Old Congress, the Samyukta Socialist Party (SSP), and the Jan Sangh could develop a common programme after the elections. He says the alliance's immediate basis is opposition to the New Congress and to Indira Gandhi, but argues that the Swatantra Party may ultimately join it and that the coalition would gain strength by bringing together all democratic forces.
+
 ## Key points
 
 - S. Nijalingappa says the Old Congress, SSP, and Jan Sangh may formulate a common programme after the elections.

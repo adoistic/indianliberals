@@ -48,6 +48,10 @@ summary: |-
   This one-page English letter, dated September 1, 1974, is from M. R. Masani to James Cherian. Masani acknowledges Cherian's August 9 letter and encloses the September issue of Freedom First, directing him to an article by S. V. Raju, described as having served for many years as the Executive Secretary of Masani's party. The letter presents the enclosed article as potentially useful guidance to Cherian.
 ---
 
+## Summary
+
+This one-page English letter, dated September 1, 1974, is from M. R. Masani to James Cherian. Masani acknowledges Cherian's August 9 letter and encloses the September issue of Freedom First, directing him to an article by S. V. Raju, described as having served for many years as the Executive Secretary of Masani's party. The letter presents the enclosed article as potentially useful guidance to Cherian.
+
 ## Key points
 
 - The letter is dated September 1, 1974.

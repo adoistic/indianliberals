@@ -46,6 +46,12 @@ summary: |-
   Masani explains that the visitors' schedule has changed because they had to go to Delhi at the request of their Foreign Minister. Their visit has therefore been postponed by one week: they are expected to reach Bhubaneshwar on 28 February and stay for three or four days. He expresses hope that Singh Deo will still be able to meet them.
 ---
 
+## Summary
+
+This single-page letter, dated 13 February 1968 and written by M. R. Masani from 2 Tughlaq Road, New Delhi, acknowledges a letter from R. N. Singh Deo concerning a proposed visit to Orissa by Dr. and Mrs. Van of South Vietnam. Masani says he has conveyed Singh Deo's invitation and that the visitors appreciated his courtesy and hospitality.
+
+Masani explains that the visitors' schedule has changed because they had to go to Delhi at the request of their Foreign Minister. Their visit has therefore been postponed by one week: they are expected to reach Bhubaneshwar on 28 February and stay for three or four days. He expresses hope that Singh Deo will still be able to meet them.
+
 ## Key points
 
 - M. R. Masani wrote the letter on 13 February 1968 from New Delhi.

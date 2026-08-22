@@ -54,6 +54,14 @@ summary: |-
   The correspondence records coordination between the Swatantra Party's central office and a peasant organisation in Gujarat around the party's constitutional opposition to the Seventeenth Constitutional Amendment of 1964, which had further empowered the state to acquire agricultural land and modify ceiling laws. The planned 6 September action-committee meeting in Delhi is proposed on 13 August by the Bardoli end and, on the evidence of Masani's 17 August wire, deferred four days later from the Bombay end.
 ---
 
+## Summary
+
+This four-page archival bundle centres on a short express telegram from Minoo Masani, dated 17 August 1964, wiring Prof. Ranga at both the Swatantra Party's New Delhi addresses (53 North Avenue and 164 South Avenue) to 'KINDLY NOTIFY CANCELLATION KISAN SAMMELAN MEETING SIXTH SEPTEMBER NEWDELHI BEFORE YOUR DEPARTURE.' The wire carries Masani's Bombay address at 143 Mahatma Gandhi Road and his telephone number, and stands as the operative message calling off the planned September meeting.
+
+Bundled with the telegram are two related enclosures from Dahyabhai Prabhubhai Patel, Secretary of the Khedut Sangh at Bardoli (Surat District, Gujarat), both dated 13 August 1964. The English enclosure reports that the 'action committee for Satyagraha against the 17th Amendment' is to meet in Delhi on 6-9-64 and that Gujarat will be represented by four named delegates — Khusalbhai, Dahyabhai V. Patel, Bhaikaka, and Ratibhai Ukabhai Patel. It relays Khusalbhai's suggestion that Dharamsinh Patel of Junagadh, secretary of the Samastha Khedut Samaj, should also be invited to Delhi. A parallel Gujarati-script sheet on Khedut Sangh letterhead conveys the same information; the outer face of the Inland Letter envelope, addressed to Masani in Bombay, closes the packet.
+
+The correspondence records coordination between the Swatantra Party's central office and a peasant organisation in Gujarat around the party's constitutional opposition to the Seventeenth Constitutional Amendment of 1964, which had further empowered the state to acquire agricultural land and modify ceiling laws. The planned 6 September action-committee meeting in Delhi is proposed on 13 August by the Bardoli end and, on the evidence of Masani's 17 August wire, deferred four days later from the Bombay end.
+
 ## Key points
 
 - Express telegram from Minoo Masani in Bombay to Prof. Ranga in New Delhi, dated 17 August 1964, cancelling the Kisan Sammelan meeting set for 6 September in New Delhi.

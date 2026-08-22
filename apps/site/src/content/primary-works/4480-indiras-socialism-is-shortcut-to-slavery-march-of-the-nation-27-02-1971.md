@@ -52,6 +52,10 @@ summary: |-
   This one-page newspaper article reports Minoo Masani’s criticism of Indira Gandhi’s socialism and predicts that her electoral gamble will fail. Masani argues that socialism reduces people to a “property-less status,” echoing Karl Marx’s distinction between a free person and a slave, but contends that Marx’s remedy was fatal. The article presents private property and individual ownership as the alternative to the state-directed systems associated with China, Russia, and other countries.
 ---
 
+## Summary
+
+This one-page newspaper article reports Minoo Masani’s criticism of Indira Gandhi’s socialism and predicts that her electoral gamble will fail. Masani argues that socialism reduces people to a “property-less status,” echoing Karl Marx’s distinction between a free person and a slave, but contends that Marx’s remedy was fatal. The article presents private property and individual ownership as the alternative to the state-directed systems associated with China, Russia, and other countries.
+
 ## Key points
 
 - Minoo Masani predicts that Mrs Gandhi’s electoral gamble will fail and that she will return substantially weakened.

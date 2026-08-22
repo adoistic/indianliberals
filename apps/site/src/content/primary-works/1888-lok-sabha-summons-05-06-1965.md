@@ -49,6 +49,12 @@ summary: |-
   The English page identifies S. L. Shakdher as Secretary, acting by order of the President; the second page presents the Hindi version of the same notice. The document is an administrative parliamentary record rather than an authored argument or essay.
 ---
 
+## Summary
+
+This two-page bilingual official summons, issued in New Delhi on June 5, 1965, directs Shri M. R. Masani to attend a Lok Sabha session. It states that the President, exercising powers under clause (1) of Article 85 of the Constitution, has directed that the session be held at New Delhi and has fixed Monday, August 16, 1965, at 11 A.M. for its commencement.
+
+The English page identifies S. L. Shakdher as Secretary, acting by order of the President; the second page presents the Hindi version of the same notice. The document is an administrative parliamentary record rather than an authored argument or essay.
+
 ## Key points
 
 - The document is a formal Lok Sabha summons dated June 5, 1965.

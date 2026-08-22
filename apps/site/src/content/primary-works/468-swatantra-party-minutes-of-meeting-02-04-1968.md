@@ -54,6 +54,12 @@ summary: |-
   With the Leader’s permission, the party’s General Secretary, Shri N. Dandekar, gave a factual account of the Rajya Sabha elections from Gujarat. The record is signed by C. C. Desai in his capacity as Secretary. No substantive debate, resolutions, or further proceedings are recorded on the page.
 ---
 
+## Summary
+
+This one-page English office record documents a General Body meeting of the Swatantra Party in Parliament, held in Room No. 53 at 10:00 a.m. on 2 April 1968 at the Swatantra Party Parliamentary Office, 53 North Avenue, New Delhi. It lists 26 members as present, including Prof. N. G. Ranga, M. R. Masani, C. C. Desai, J. M. Lobo Prabhu, M. R. Pai, N. Dandekar, R. K. Amin, and Piloo Mody.
+
+With the Leader’s permission, the party’s General Secretary, Shri N. Dandekar, gave a factual account of the Rajya Sabha elections from Gujarat. The record is signed by C. C. Desai in his capacity as Secretary. No substantive debate, resolutions, or further proceedings are recorded on the page.
+
 ## Key points
 
 - The General Body of the Swatantra Party in Parliament met on 2 April 1968.

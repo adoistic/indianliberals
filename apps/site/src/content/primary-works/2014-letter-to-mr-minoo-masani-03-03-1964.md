@@ -47,6 +47,10 @@ summary: |-
   This two-page archival correspondence records official efforts to convene M.R. Masani and other parliamentary party leaders for cross-party discussions in Parliament in February and March 1964. C.I. Nanda's letter of 25 February invites Masani to a meeting in Room No. 13 of Parliament House on 26 February; W.V. Oak's letter of 3 March refers to that earlier meeting and requests Masani's attendance at a continuation scheduled for 5 March.
 ---
 
+## Summary
+
+This two-page archival correspondence records official efforts to convene M.R. Masani and other parliamentary party leaders for cross-party discussions in Parliament in February and March 1964. C.I. Nanda's letter of 25 February invites Masani to a meeting in Room No. 13 of Parliament House on 26 February; W.V. Oak's letter of 3 March refers to that earlier meeting and requests Masani's attendance at a continuation scheduled for 5 March.
+
 ## Key points
 
 - C.I. Nanda invited M.R. Masani to a meeting of the leaders of all parties in Parliament on 26 February 1964.

@@ -49,6 +49,12 @@ summary: |-
   The letter communicates that the Collector of Bombay had been instructed to drop the proceedings concerning those vessels. No further explanation of the proceedings, the vessels, or the reasons for discontinuing the matter appears on the rendered page.
 ---
 
+## Summary
+
+This one-page administrative letter, dated 15 March 1975, was sent by P.G. Deshmukh, Regional Transport Officer (Recovery), Bombay, to Shri M.R. Masani. It refers to Masani's letter of 13 March 1975 and to four motor vessels identified by reference numbers MRA-4024, MRA-4092, MRA-4095, and MRA-4096.
+
+The letter communicates that the Collector of Bombay had been instructed to drop the proceedings concerning those vessels. No further explanation of the proceedings, the vessels, or the reasons for discontinuing the matter appears on the rendered page.
+
 ## Key points
 
 - The document is an official letter from the Regional Transport Office (Recovery), Bombay.

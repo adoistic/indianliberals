@@ -51,6 +51,12 @@ summary: |-
   The committee appointed a seven-member sub-committee, convened by K. H. Subramaniam, to draft an election manifesto for the forthcoming Assembly elections, with a report due at a special Executive Committee meeting on 29 October. Further agenda items covered party fundraising through a cash collection box, membership-screening procedures, the appointment of Indukumar Thakkar as Organiser, completion of bank-account formalities, referral of a note on "Gram Swaraj" to National Headquarters, a proposed seminar on Bombay building repairs, the scheduling of a Regional Council meeting, and a Rs. 20 monthly ex-gratia allowance for office boy Vijay Kumar. The minutes end with a vote of thanks to the Chair and bear the chairman's signature.
 ---
 
+## Summary
+
+These minutes record the meeting of the Executive Committee of the Swatantra Party, Bombay Region, held at the Party Office on 22 October 1971. The document lists thirteen members present and records the confirmation of the previous meeting's minutes. The committee unanimously approved the formation of a Parliamentary Board, comprising Shantilal Thar as convener, R. V. Murthy, Parmanand Kejriwal, and Dr. Simon Fernandes. It also decided that the President and General Secretary, together with the relevant Primary Unit representatives, would be invited to Parliamentary Board meetings.
+
+The committee appointed a seven-member sub-committee, convened by K. H. Subramaniam, to draft an election manifesto for the forthcoming Assembly elections, with a report due at a special Executive Committee meeting on 29 October. Further agenda items covered party fundraising through a cash collection box, membership-screening procedures, the appointment of Indukumar Thakkar as Organiser, completion of bank-account formalities, referral of a note on "Gram Swaraj" to National Headquarters, a proposed seminar on Bombay building repairs, the scheduling of a Regional Council meeting, and a Rs. 20 monthly ex-gratia allowance for office boy Vijay Kumar. The minutes end with a vote of thanks to the Chair and bear the chairman's signature.
+
 ## Key points
 
 - The Executive Committee of the Swatantra Party's Bombay Region met on 22 October 1971 with thirteen members recorded as present.

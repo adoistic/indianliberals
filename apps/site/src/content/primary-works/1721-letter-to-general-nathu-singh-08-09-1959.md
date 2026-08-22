@@ -47,6 +47,12 @@ summary: |-
   The writer also advises Singh not to join the Party unless he is prepared to tolerate other people's weaknesses and occasional backsliding, noting that Singh is “much too downright” for such compromises. The letter closes with an apology for its brevity, explaining that the writer is leaving for Delhi shortly. The sender's name and signature are not visible on the rendered page.
 ---
 
+## Summary
+
+This single-page personal letter, dated 8 September 1959, responds to Lt. Gen. Nathu Singh's analysis of the leadership of a political party. The writer agrees that substantial work remains to be done “amongst ‘the toilers’,” but cautions that progress will take time and urges Singh to wait and assess the organisation being established in his region before committing himself.
+
+The writer also advises Singh not to join the Party unless he is prepared to tolerate other people's weaknesses and occasional backsliding, noting that Singh is “much too downright” for such compromises. The letter closes with an apology for its brevity, explaining that the writer is leaving for Delhi shortly. The sender's name and signature are not visible on the rendered page.
+
 ## Key points
 
 - The writer agrees with Nathu Singh's analysis of the Party's leadership.

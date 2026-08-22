@@ -52,6 +52,12 @@ summary: |-
   The notice instructs members to support the party’s amendments to the Monopolies and Restrictive Trade Practices Bill and to vote against the Bill’s final passage. It is signed by the apparent Chief Whip, “(Y.G. Mody),” although the scan is faint and the signatory could not be resolved against the supplied authority file.
 ---
 
+## Summary
+
+This one-page English circular, headed “WHIP,” was issued by the Swatantra Party Parliamentary Office in New Delhi on December 10, 1969. Addressed to all party members of the Lok Sabha, it directs them to attend parliamentary proceedings on Monday afternoon, December 15, and again on Tuesday.
+
+The notice instructs members to support the party’s amendments to the Monopolies and Restrictive Trade Practices Bill and to vote against the Bill’s final passage. It is signed by the apparent Chief Whip, “(Y.G. Mody),” although the scan is faint and the signatory could not be resolved against the supplied authority file.
+
 ## Key points
 
 - The document is a Swatantra Party parliamentary whip dated December 10, 1969.

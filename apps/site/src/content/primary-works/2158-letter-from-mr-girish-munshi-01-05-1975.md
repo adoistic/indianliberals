@@ -59,6 +59,10 @@ summary: |-
   This four-page Swatantra Party General Secretary’s Circular No. 322, dated 1 May 1975, reviews the party’s response to the opposition movement led by Jayaprakash Narayan. It argues that an immediate merger of non-Congress (R) and non-communist parties was premature, while supporting a federated arrangement in which constituent parties retained their identities and cooperated around a common programme. The circular presents the Jayaprakash movement as a democratic alternative to the concentration of power, corruption, nepotism, and repression attributed to the contemporary administration.
 ---
 
+## Summary
+
+This four-page Swatantra Party General Secretary’s Circular No. 322, dated 1 May 1975, reviews the party’s response to the opposition movement led by Jayaprakash Narayan. It argues that an immediate merger of non-Congress (R) and non-communist parties was premature, while supporting a federated arrangement in which constituent parties retained their identities and cooperated around a common programme. The circular presents the Jayaprakash movement as a democratic alternative to the concentration of power, corruption, nepotism, and repression attributed to the contemporary administration.
+
 ## Key points
 
 - The circular recalls Minoo Masani’s criticism of parliamentary ineffectiveness and excessive concentration of power in the Prime Minister’s hands.

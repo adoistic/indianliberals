@@ -47,6 +47,10 @@ summary: |-
   This one-page letter, dated 18 November 1959, is from M. R. Masani in New Delhi to A. N. Hegde, Chairman of the Swatantra Party Committee in Sirsi, North Kanara. Masani acknowledges Hegde’s notice that the North Kanara District Swatantra Party Convention will be held at Sirsi on 22 November.
 ---
 
+## Summary
+
+This one-page letter, dated 18 November 1959, is from M. R. Masani in New Delhi to A. N. Hegde, Chairman of the Swatantra Party Committee in Sirsi, North Kanara. Masani acknowledges Hegde’s notice that the North Kanara District Swatantra Party Convention will be held at Sirsi on 22 November.
+
 ## Key points
 
 - M. R. Masani wrote the letter from 40 Canning Lane, New Delhi, on 18 November 1959.

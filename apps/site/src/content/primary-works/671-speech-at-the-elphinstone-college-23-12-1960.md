@@ -51,6 +51,12 @@ summary: |-
   The speech then calls for intellectual curiosity, critical questioning, disciplined inquiry, and intellectual humility. It invokes the Socratic method, Gandhi's injunction that India must learn to say “NO,” and examples involving George Washington, Mark Twain, and Tennyson to illustrate the need to test received stories and claims. The final pages broaden education to physical and emotional development: discipline, sports, games, and character formation. A proposal attributed to B. K. Gokhale would assign marks for physical health, games and sports, and conduct and discipline. The pages do not identify the speaker by a clear printed byline; “Professor Sidhanta” appears in the source material but cannot be confirmed as the author.
 ---
 
+## Summary
+
+These five pages are typescript notes for a speech delivered at Elphinstone College's College Day function on 23 December 1960. The speaker connects political conflict on campus with the purposes of education, contrasting inherited, examination-oriented instruction with an education that develops initiative, independent thinking, leadership, character, health, and specialised competence. The notes identify unemployment among graduates and an outdated curriculum as background problems, while also quoting a Swatantra Party statement on education versus indoctrination.
+
+The speech then calls for intellectual curiosity, critical questioning, disciplined inquiry, and intellectual humility. It invokes the Socratic method, Gandhi's injunction that India must learn to say “NO,” and examples involving George Washington, Mark Twain, and Tennyson to illustrate the need to test received stories and claims. The final pages broaden education to physical and emotional development: discipline, sports, games, and character formation. A proposal attributed to B. K. Gokhale would assign marks for physical health, games and sports, and conduct and discipline. The pages do not identify the speaker by a clear printed byline; “Professor Sidhanta” appears in the source material but cannot be confirmed as the author.
+
 ## Key points
 
 - Political fights, group loyalties, and party allegiances are presented as disruptive of harmony and communication in university life.

@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated September 3, 1974, is from I. S. Bhargava in Jaipur to S. V. Raju in Bombay. Bhargava asks for Raju's advice following the implementation of the majority decision to merge the Swatantra Party into the Bhartiya Lok Dal.
 ---
 
+## Summary
+
+This one-page letter, dated September 3, 1974, is from I. S. Bhargava in Jaipur to S. V. Raju in Bombay. Bhargava asks for Raju's advice following the implementation of the majority decision to merge the Swatantra Party into the Bhartiya Lok Dal.
+
 ## Key points
 
 - The letter is dated September 3, 1974, and was sent from Jaipur.

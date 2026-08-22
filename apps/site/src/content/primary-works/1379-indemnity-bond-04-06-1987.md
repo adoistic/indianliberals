@@ -49,6 +49,12 @@ summary: |-
   The bond records that the Valladares have already executed a guarantee bond in favour of the President of India for tax liabilities arising under several Indian tax statutes. In return for the issuance of that guarantee bond, they jointly and severally promise to indemnify S. V. Raju, his successors, and assigns against claims, proceedings, costs, taxes, interest, penalties, and other liabilities. The document ends with the parties’ signatures and blank spaces for two witnesses.
 ---
 
+## Summary
+
+This two-page English legal instrument, dated 4 June 1987, is an indemnity bond addressed to S. V. Raju. Jeffery Roque Valladares and Lorraine Jeanette Sunita Valladares state that they are travelling to Melbourne, Australia, and have applied to the Income Tax Officer, BSD (North), Bombay, for an authorisation certificate under section 230(1) of the Income Tax Act, 1961.
+
+The bond records that the Valladares have already executed a guarantee bond in favour of the President of India for tax liabilities arising under several Indian tax statutes. In return for the issuance of that guarantee bond, they jointly and severally promise to indemnify S. V. Raju, his successors, and assigns against claims, proceedings, costs, taxes, interest, penalties, and other liabilities. The document ends with the parties’ signatures and blank spaces for two witnesses.
+
 ## Key points
 
 - The document is a two-page indemnity bond dated 4 June 1987.

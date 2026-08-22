@@ -48,6 +48,10 @@ summary: |-
   These two pages record the minutes of a Swatantra Party Organising Committee of Greater Bombay meeting held on 29 June 1960. Chaired by Murarji J. Vaidya, the committee confirmed the previous minutes, revised the bank account's authorised office-bearers, and approved a budget of Rs. 9,000 for functions during C. Rajagopalachari's visit. Members were also assigned responsibility for contacting prospective subscribers for a subscription dinner.
 ---
 
+## Summary
+
+These two pages record the minutes of a Swatantra Party Organising Committee of Greater Bombay meeting held on 29 June 1960. Chaired by Murarji J. Vaidya, the committee confirmed the previous minutes, revised the bank account's authorised office-bearers, and approved a budget of Rs. 9,000 for functions during C. Rajagopalachari's visit. Members were also assigned responsibility for contacting prospective subscribers for a subscription dinner.
+
 ## Key points
 
 - The Greater Bombay Organising Committee met at the Swatantra Party office on 29 June 1960.

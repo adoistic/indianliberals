@@ -50,6 +50,12 @@ summary: |-
   Masani asks Singh Deo to facilitate Eichstedt’s return to Orissa so that she can complete and submit her final report on the Leprosy Control Project. He emphasizes both the practical importance of the report and Eichstedt’s twelve years of dedicated service to the tribal population, including broader health and social work. The letter is a direct appeal for administrative intervention concerning religious-freedom protections, police conduct, and public-health work.
 ---
 
+## Summary
+
+In this letter dated 6 November 1968, Minoo Masani appeals to Mr. R. N. Singh Deo, Chief Minister of Orissa, on behalf of Sister Ursula Eichstedt, a young German worker associated with the German Volunteer Service. Masani reports that police harassment and alleged misuse of the Orissa Freedom of Religion Act had forced Eichstedt to move to Delhi before completing her service in Orissa.
+
+Masani asks Singh Deo to facilitate Eichstedt’s return to Orissa so that she can complete and submit her final report on the Leprosy Control Project. He emphasizes both the practical importance of the report and Eichstedt’s twelve years of dedicated service to the tribal population, including broader health and social work. The letter is a direct appeal for administrative intervention concerning religious-freedom protections, police conduct, and public-health work.
+
 ## Key points
 
 - Masani writes to the Chief Minister of Orissa on 6 November 1968.

@@ -54,6 +54,12 @@ summary: |-
   On C. Rajagopalachari’s proposal, the committee decided that Prof. Ranga should write to the President and Prime Minister seeking serious consideration of the Convention’s resolution on the 17th Amendment, while postponing further national or state-level action. The minutes clarify that individual Kisan Sammelan participants could undertake satyagraha, but party office-bearers should not do so. The committee then planned a National Kisan Sammelan and demonstration in Delhi, with participation expected from Rajasthan, Uttar Pradesh, Punjab, Delhi, and other states. It also discussed party organisation in Kerala ahead of the 1965 Assembly elections and concluded with thanks to V. P. Menon and other Mysore delegates.
 ---
 
+## Summary
+
+These draft minutes record the adjourned meeting of the Swatantra Party’s Central Organising Committee, held at Madras Woodlands Hotel on 3 February 1964. The attendance list includes Prof. N. G. Ranga, C. Rajagopalachari, M. R. Masani, Piloo Mody, V. P. Menon, and other party office-bearers and legislators. The committee discussed filling a vacancy created by the deaths of Sardar Bahadur Lal Singh and Maharani Gayatri Devi of Jaipur, and considered a request from the Andhra unit to organise a satyagraha against the 17th Amendment, enhanced land revenue, suspension of gold-distribution controls, and the Emergency.
+
+On C. Rajagopalachari’s proposal, the committee decided that Prof. Ranga should write to the President and Prime Minister seeking serious consideration of the Convention’s resolution on the 17th Amendment, while postponing further national or state-level action. The minutes clarify that individual Kisan Sammelan participants could undertake satyagraha, but party office-bearers should not do so. The committee then planned a National Kisan Sammelan and demonstration in Delhi, with participation expected from Rajasthan, Uttar Pradesh, Punjab, Delhi, and other states. It also discussed party organisation in Kerala ahead of the 1965 Assembly elections and concluded with thanks to V. P. Menon and other Mysore delegates.
+
 ## Key points
 
 - The record lists the participants in a Swatantra Party Central Organising Committee meeting held in Madras on 3 February 1964.

@@ -49,6 +49,12 @@ summary: |-
   Subramaniam is sharply sceptical of the new party's claim to be a national alternative capable of replacing Congress through elections. He portrays its leaders as united chiefly by frustration and proximity to power, questions the President's confidence in electoral success, and mocks the expectation that a fragmented coalition can become a stable two-party alternative. The document ends after comparing the coalition's leaders to prospectors in an American gold rush, with little genuine political substance and an anticipated scramble for spoils.
 ---
 
+## Summary
+
+This document is a covering letter dated 10 August 1974 from K. H. Subramaniam to M. R. Masani, enclosing a transcript of a speech delivered at a party convention. The transcript argues that the Swatantra Party should not be dissolved or absorbed into a new coalition merely because of electoral weakness. It presents the proposed merger as an ideologically overloaded and politically opportunistic combination of Swatantra principles, Bharatiya Kranti Dal casteism, Samyukta Socialist Party socialism, and the programmes of other parties.
+
+Subramaniam is sharply sceptical of the new party's claim to be a national alternative capable of replacing Congress through elections. He portrays its leaders as united chiefly by frustration and proximity to power, questions the President's confidence in electoral success, and mocks the expectation that a fragmented coalition can become a stable two-party alternative. The document ends after comparing the coalition's leaders to prospectors in an American gold rush, with little genuine political substance and an anticipated scramble for spoils.
+
 ## Key points
 
 - The letter forwards an enclosed convention speech to M. R. Masani and requests acknowledgement of receipt.

@@ -53,6 +53,12 @@ summary: |-
   Masani’s letter of 27 February 1970 responds to the Secretariat’s concern that the resolution was insufficiently precise. He argues that its wording is already clear, but offers an alternative formulation: replacing “in the mixed economy now in force” with “of an economic nature now issued by the Union Government or any of its ministries or departments.” The second page is a related letter dated 20 February 1970, giving notice of the same resolution; its signature is not visibly present or legible.
 ---
 
+## Summary
+
+This two-page English correspondence packet from February 1970 records M. R. Masani’s effort, as Deputy Leader of the Swatantra Party Parliamentary Group, to place a parliamentary resolution concerning the administration of permits and licences in India’s mixed economy. The proposed resolution would transfer this administration to a fully autonomous, non-party board of economists and statesmen functioning independently of the government.
+
+Masani’s letter of 27 February 1970 responds to the Secretariat’s concern that the resolution was insufficiently precise. He argues that its wording is already clear, but offers an alternative formulation: replacing “in the mixed economy now in force” with “of an economic nature now issued by the Union Government or any of its ministries or departments.” The second page is a related letter dated 20 February 1970, giving notice of the same resolution; its signature is not visibly present or legible.
+
 ## Key points
 
 - The packet concerns parliamentary notice for a resolution on the administration of permits and licences.

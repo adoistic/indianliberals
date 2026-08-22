@@ -48,6 +48,10 @@ summary: |-
   This three-page correspondence records M. R. Masani’s reply, dated 20 July 1971, to B. Satyanarayana, a Swatantra Party field organiser in Narasipatnam, Andhra Pradesh. Masani explains that his personal financial circumstances do not permit him to provide the assistance requested and that the Party is likewise unable to help after consultation with its National Headquarters.
 ---
 
+## Summary
+
+This three-page correspondence records M. R. Masani’s reply, dated 20 July 1971, to B. Satyanarayana, a Swatantra Party field organiser in Narasipatnam, Andhra Pradesh. Masani explains that his personal financial circumstances do not permit him to provide the assistance requested and that the Party is likewise unable to help after consultation with its National Headquarters.
+
 ## Key points
 
 - Masani’s reply is dated 20 July 1971 and is addressed to B. Satyanarayana.

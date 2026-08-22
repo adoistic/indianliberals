@@ -48,6 +48,12 @@ summary: |-
   The letter closes by referring to Masani's earlier request, in a letter of 15 June, to arrange a meeting with Charan Singh in Delhi or Lucknow. The page is a private political correspondence document; it does not reproduce the enclosed newspaper clipping or the speech itself.
 ---
 
+## Summary
+
+In this letter dated 24 June 1968, Minoo Masani writes to Bhanu Pratap Singh about an enclosed clipping from The Times of India reporting on a speech Masani delivered in Bombay the previous evening. Masani says he expects Singh to approve of his position regarding the B.K.D. initiative and notes that Kunte was pleased with it. He also asks Singh to show the clipping to Charan Singh.
+
+The letter closes by referring to Masani's earlier request, in a letter of 15 June, to arrange a meeting with Charan Singh in Delhi or Lucknow. The page is a private political correspondence document; it does not reproduce the enclosed newspaper clipping or the speech itself.
+
 ## Key points
 
 - Masani's letter is dated 24 June 1968 and addressed to Bhanu Pratap Singh.

@@ -50,6 +50,12 @@ summary: |-
   The second letter, addressed to Girish Munshi, acknowledges a telegram requesting authorisation letters for the Maharashtra delegates and confirms that one letter addressed to Ramachandran has been sent. Srikumar explains that separate authorisations for each delegate should not be necessary, notes that Munshi will lead the Maharashtra delegation, and states that he cannot attend the convention for personal reasons. The item documents inter-party coordination and delegate logistics during the formation of the Janata Party.
 ---
 
+## Summary
+
+This archival item contains two related administrative letters dated 25 April 1977, typed on the Swatantra Party National Headquarters letterhead in Madras. In the first, Joint Secretary V. S. Srikumar writes to P. Ramachandran, Chairman of the Tamilnad Janata Party, explaining that General Secretary Girish Munshi will bring approximately 30 Swatantra Party colleagues from Maharashtra to Delhi for the Janata Party convention. Ramachandran is asked to arrange the papers, badges, and authorisations needed for their participation as delegates at the inaugural convention on 1 May 1977.
+
+The second letter, addressed to Girish Munshi, acknowledges a telegram requesting authorisation letters for the Maharashtra delegates and confirms that one letter addressed to Ramachandran has been sent. Srikumar explains that separate authorisations for each delegate should not be necessary, notes that Munshi will lead the Maharashtra delegation, and states that he cannot attend the convention for personal reasons. The item documents inter-party coordination and delegate logistics during the formation of the Janata Party.
+
 ## Key points
 
 - Two related Swatantra Party letters are dated 25 April 1977.

@@ -49,6 +49,10 @@ summary: |-
   This one-page typed carbon-copy letter, dated 6 May 1985, is from M. R. Masani to the Regional Transport Officer in Bombay concerning vehicle MRG-2347. Masani states that his protests that he neither owned nor possessed the vehicle had been disregarded and returns the demand notice relating to it.
 ---
 
+## Summary
+
+This one-page typed carbon-copy letter, dated 6 May 1985, is from M. R. Masani to the Regional Transport Officer in Bombay concerning vehicle MRG-2347. Masani states that his protests that he neither owned nor possessed the vehicle had been disregarded and returns the demand notice relating to it.
+
 ## Key points
 
 - M. R. Masani addresses the Regional Transport Officer, Bombay, regarding vehicle MRG-2347.

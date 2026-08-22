@@ -53,6 +53,12 @@ summary: |-
   The principal organisational decisions concern a nationwide membership enrolment drive, the printing of membership books by state units, and the completion of internal elections by October 1962 so that new state, district, and central bodies could begin functioning from January 1963. The second page sets out interim arrangements for Bihar, Bengal, Maharashtra, Kerala, and Punjab, and records a decision to discontinue monthly subventions to state parties from April 1962. The document is an administrative record rather than a statement of political doctrine; its visible focus is party-building, regional reorganisation, and financial administration.
 ---
 
+## Summary
+
+These draft minutes record a meeting of the Swatantra Party Organisation Sub-Committee held at Sir Homi Mody’s residence in Bombay on 14 March 1962, with the document issued on 19 March. The minutes list the attendees, confirm the previous meeting’s minutes, and report the merger of the Ganatantra Parishad in Orissa with the Swatantra Party, including the proposed co-option of four Parishad members to the General Council.
+
+The principal organisational decisions concern a nationwide membership enrolment drive, the printing of membership books by state units, and the completion of internal elections by October 1962 so that new state, district, and central bodies could begin functioning from January 1963. The second page sets out interim arrangements for Bihar, Bengal, Maharashtra, Kerala, and Punjab, and records a decision to discontinue monthly subventions to state parties from April 1962. The document is an administrative record rather than a statement of political doctrine; its visible focus is party-building, regional reorganisation, and financial administration.
+
 ## Key points
 
 - The Organisation Sub-Committee met in Bombay on 14 March 1962 and confirmed the minutes of its previous meeting.

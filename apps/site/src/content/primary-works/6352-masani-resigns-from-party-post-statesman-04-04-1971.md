@@ -50,6 +50,12 @@ summary: |-
   It also reports that Swatantra Party leader C. Rajagopalachari was attempting to persuade Masani to withdraw his resignation and continue leading the party. No reporter byline is printed; the clipping attributes the account to PTI and cites a UNI report from Madras.
 ---
 
+## Summary
+
+This one-page English newspaper report, published in the Statesman, Calcutta, on 4 April 1971, reports that M. R. Masani resigned as chairman or president of the Swatantra Party. The report says Masani intended to remain a party member and continue advocating its philosophy and principles.
+
+It also reports that Swatantra Party leader C. Rajagopalachari was attempting to persuade Masani to withdraw his resignation and continue leading the party. No reporter byline is printed; the clipping attributes the account to PTI and cites a UNI report from Madras.
+
 ## Key points
 
 - M. R. Masani resigned from the presidency or chairmanship of the Swatantra Party.

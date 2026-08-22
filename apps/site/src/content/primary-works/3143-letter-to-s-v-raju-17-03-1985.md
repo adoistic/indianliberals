@@ -48,6 +48,12 @@ summary: |-
   Ganapaiah also discusses the ages and forthcoming birthdays of Minoo Masani and himself, recording his date of birth as 22 July 1903. A handwritten postscript below the typed letter concerns his expected attendance at a function in Bombay on 20 November and his willingness to serve on a committee. The letterhead identifies him as a coffee planter and Secretary General of The Farmers’ Federation of India.
 ---
 
+## Summary
+
+In this letter dated 17 March 1985, N. K. Ganapaiah writes to S. V. Raju about correspondence and materials relating to the Swatantra Party and C. Rajagopalachari (Rajaji). He explains that C. L. Rao had sent him a file containing Rajaji’s letters to Swatantra Party workers, which he returned, and says he will ask Rao to reserve 500 copies of a Rajaji Foundation booklet and communicate its cost.
+
+Ganapaiah also discusses the ages and forthcoming birthdays of Minoo Masani and himself, recording his date of birth as 22 July 1903. A handwritten postscript below the typed letter concerns his expected attendance at a function in Bombay on 20 November and his willingness to serve on a committee. The letterhead identifies him as a coffee planter and Secretary General of The Farmers’ Federation of India.
+
 ## Key points
 
 - Ganapaiah acknowledges S. V. Raju’s letter of 11 March 1985 and notes that Raju’s wife is well.

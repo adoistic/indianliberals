@@ -46,6 +46,10 @@ summary: |-
   This one-page English office document is headed “Draft item for Agenda of C.O.C. and General Council Meetings.” It proposes consideration of developments in Bihar, specifically the alleged non-compliance with a resolution adopted at a joint meeting of the Organisation Sub-Committee and the Parliamentary Board on July 22, 1962.
 ---
 
+## Summary
+
+This one-page English office document is headed “Draft item for Agenda of C.O.C. and General Council Meetings.” It proposes consideration of developments in Bihar, specifically the alleged non-compliance with a resolution adopted at a joint meeting of the Organisation Sub-Committee and the Parliamentary Board on July 22, 1962.
+
 ## Key points
 
 - The document is a draft agenda item for meetings of the C.O.C. and General Council.

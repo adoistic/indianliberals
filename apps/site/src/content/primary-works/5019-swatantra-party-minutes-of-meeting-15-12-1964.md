@@ -52,6 +52,10 @@ summary: |-
   This single-page English office record from the Swatantra Party Parliamentary Office documents an Executive Committee meeting held on 14 December 1964 in the Party Committee Room, Parliament House. S. Kapur Singh and Himmat Singhji are listed as present. The minutes assign party speakers to parliamentary business including the Banaras Hindu University Bill, supplementary railway demands, company and gold-control legislation, the Official Trustees Bill, the Indian Tariff Bill, a UPSC report, ordinance factories, and a motion on the price of small cars.
 ---
 
+## Summary
+
+This single-page English office record from the Swatantra Party Parliamentary Office documents an Executive Committee meeting held on 14 December 1964 in the Party Committee Room, Parliament House. S. Kapur Singh and Himmat Singhji are listed as present. The minutes assign party speakers to parliamentary business including the Banaras Hindu University Bill, supplementary railway demands, company and gold-control legislation, the Official Trustees Bill, the Indian Tariff Bill, a UPSC report, ordinance factories, and a motion on the price of small cars.
+
 ## Key points
 
 - The Executive Committee met on 14 December 1964 at Parliament House.

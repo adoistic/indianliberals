@@ -52,6 +52,12 @@ summary: |-
   The second rendered page is a typed discussion of the performance of the H.S.L., apparently Hindustan Steel Limited, and rebuts a ministerial explanation that newer public-sector plants are inefficient because depreciation and interest charges are higher. It argues that modern plants should generate compensating economies through greater efficiency, especially reduced manpower requirements. The page cites alleged excess staffing and substantial overtime payments at Durgapur and Rourkela as evidence of operational inefficiency. The relationship between this fragment and the newspaper clipping is not established by the pages supplied.
 ---
 
+## Summary
+
+“Visible Decay” criticizes the Swatantra Party’s condition after poor performances in electoral contests in Gujarat, Rajasthan, Haryana, Bombay, and Bombay city. The clipping argues that the party’s visible indiscipline is a symptom of a deeper malaise: it must reconcile the interests of rural and urban elites while preserving a coherent alternative to the Congress. It questions whether the party’s general council can resolve these internal contradictions and restore unity of purpose. The visible passage ends before the argument is complete.
+
+The second rendered page is a typed discussion of the performance of the H.S.L., apparently Hindustan Steel Limited, and rebuts a ministerial explanation that newer public-sector plants are inefficient because depreciation and interest charges are higher. It argues that modern plants should generate compensating economies through greater efficiency, especially reduced manpower requirements. The page cites alleged excess staffing and substantial overtime payments at Durgapur and Rourkela as evidence of operational inefficiency. The relationship between this fragment and the newspaper clipping is not established by the pages supplied.
+
 ## Key points
 
 - The Swatantra Party is portrayed as suffering from electoral setbacks and serious internal indiscipline.

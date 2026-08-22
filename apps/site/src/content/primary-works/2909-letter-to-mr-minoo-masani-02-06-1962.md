@@ -48,6 +48,12 @@ summary: |-
   Deo then turns to the Swatantra Party's internal organisation. He complains that members act on individual impulse, that party attendance in Parliament is poor, and that the Akali members have threatened to leave. Although only a small number of members are regularly present, he says they are trying to advance the party's position in the Lok Sabha. The letter concludes with a request that Masani help establish a Research Bureau in Delhi and encourage greater discipline within the party.
 ---
 
+## Summary
+
+This two-page letter, dated 2 June 1962 and addressed to Minoo Masani, records P. K. Deo's agreement with Masani's criticism of the Swatantra Party's attitude toward V. K. Krishna Menon. Deo describes a parliamentary episode involving the admissibility of an adjournment motion, the Speaker's decision to reserve a ruling, and the party's attempt to raise questions about the Defence Minister's criticism of the Auditor General and an ambassador's remarks on India's inadequate defence. He also recounts a subsequent walk-out by the communist bloc and Kapur Singh, despite his instructions to remain seated.
+
+Deo then turns to the Swatantra Party's internal organisation. He complains that members act on individual impulse, that party attendance in Parliament is poor, and that the Akali members have threatened to leave. Although only a small number of members are regularly present, he says they are trying to advance the party's position in the Lok Sabha. The letter concludes with a request that Masani help establish a Research Bureau in Delhi and encourage greater discipline within the party.
+
 ## Key points
 
 - Deo endorses Masani's position on the party's attitude toward V. K. Krishna Menon.

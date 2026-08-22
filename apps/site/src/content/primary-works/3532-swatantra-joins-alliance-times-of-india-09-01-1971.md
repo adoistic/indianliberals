@@ -50,6 +50,12 @@ summary: |-
   Party president Minoo Masani said the alliance could still form a stable government despite differences among its constituent parties, pointing to West Germany as an example. He expressed hope that the other parties would reconsider their opposition to a common minimum programme, including the Communist Party’s participation in some areas. The report also records the party’s position on election broadcasting time, its decision to postpone its convention until after the mid-term poll, and Masani’s intention to contest from Rajkot.
 ---
 
+## Summary
+
+This Times of India report from Madras describes the Swatantra Party’s decision to join an electoral front with Congress (O), Jana Sangh and the SSP. The party’s national executive justified the move by citing the circumstances of the period, including what it called a threat to the Constitution and danger to vital national interests, and argued that a change of government should be pursued through the impending general election.
+
+Party president Minoo Masani said the alliance could still form a stable government despite differences among its constituent parties, pointing to West Germany as an example. He expressed hope that the other parties would reconsider their opposition to a common minimum programme, including the Communist Party’s participation in some areas. The report also records the party’s position on election broadcasting time, its decision to postpone its convention until after the mid-term poll, and Masani’s intention to contest from Rajkot.
+
 ## Key points
 
 - The Swatantra Party decided to join an electoral front with Congress (O), Jana Sangh and the SSP.

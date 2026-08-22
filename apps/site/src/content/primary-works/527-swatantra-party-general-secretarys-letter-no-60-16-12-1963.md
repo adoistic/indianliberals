@@ -52,6 +52,12 @@ summary: |-
   The proposed cooperation is conditional rather than a full merger: parties should act jointly where agreement exists, while retaining freedom to pursue their own positions where no agreement is possible. Suggested areas for common action include opposition to communist China, corruption, inflation, excessive taxation, gold control, and the Seventeenth Amendment. The letter also urges consultation before filling parliamentary or assembly vacancies, discreet and informal negotiations, and avoidance of unilateral action. The attached resolution from the Third National Convention at Bangalore reiterates the goal of avoiding multilateral contests that could benefit Congress, while insisting that coalition-building should not displace the Swatantra Party's own organisation and programme.
 ---
 
+## Summary
+
+In this 16 December 1963 letter, M. R. Masani, General Secretary of the Swatantra Party, asks party contacts to pursue closer coordination with other democratic opposition parties in response to perceived threats facing India. He proposes stronger liaison among opposition groups in state assemblies, joint action on agreed issues, and early discussions about electoral understandings for the 1967 general elections. The letter names the Jana Sangh, Socialist Party, Praja Socialist Party, and other groups as potential partners.
+
+The proposed cooperation is conditional rather than a full merger: parties should act jointly where agreement exists, while retaining freedom to pursue their own positions where no agreement is possible. Suggested areas for common action include opposition to communist China, corruption, inflation, excessive taxation, gold control, and the Seventeenth Amendment. The letter also urges consultation before filling parliamentary or assembly vacancies, discreet and informal negotiations, and avoidance of unilateral action. The attached resolution from the Third National Convention at Bangalore reiterates the goal of avoiding multilateral contests that could benefit Congress, while insisting that coalition-building should not displace the Swatantra Party's own organisation and programme.
+
 ## Key points
 
 - Masani calls for closer coordination among democratic opposition parties.

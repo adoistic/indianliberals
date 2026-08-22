@@ -59,6 +59,12 @@ summary: |-
   Masani sharply criticises the Planning Commission’s preference for steel, machinery, and other capital-intensive projects, citing losses at Hindustan Steel and the delayed returns from heavy industry. He also attacks deficit finance, state-controlled cooperatives, compulsory procurement, grain controls, and zonal restrictions, arguing that these policies burden peasants and create opportunities for profiteering. His proposed remedies are to redirect development expenditure toward land, irrigation, fertilisers, seeds, roads, credit, and floor prices; release government buffer stocks; abolish zonal restrictions; stop food exports temporarily; and move away from the existing planning framework. The transcript closes by calling for public opinion to assert itself against what Masani describes as inherited statist and socialist policies.
 ---
 
+## Summary
+
+In this transcript of a speech delivered in Bombay on 6 August 1964, M. R. Masani attributes India’s food shortage and high prices primarily to stagnant food production, rapid population growth, inflation, and a planning system that has placed heavy industry before agriculture. He argues that the figures for foodgrain production had remained broadly stagnant while population grew by roughly 2.4 per cent annually, and that wholesale prices had risen by about 15 per cent over four years. The speech treats the resulting crisis as a failure of production aggravated by inflationary public expenditure.
+
+Masani sharply criticises the Planning Commission’s preference for steel, machinery, and other capital-intensive projects, citing losses at Hindustan Steel and the delayed returns from heavy industry. He also attacks deficit finance, state-controlled cooperatives, compulsory procurement, grain controls, and zonal restrictions, arguing that these policies burden peasants and create opportunities for profiteering. His proposed remedies are to redirect development expenditure toward land, irrigation, fertilisers, seeds, roads, credit, and floor prices; release government buffer stocks; abolish zonal restrictions; stop food exports temporarily; and move away from the existing planning framework. The transcript closes by calling for public opinion to assert itself against what Masani describes as inherited statist and socialist policies.
+
 ## Key points
 
 - Foodgrain production is presented as stagnant while population growth has increased demand.

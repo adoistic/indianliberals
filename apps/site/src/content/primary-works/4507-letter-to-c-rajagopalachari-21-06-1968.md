@@ -51,6 +51,12 @@ summary: |-
   Vaidya argues that Gujarat Swatantrites conspired against him, then secured Rajagopalachari’s endorsement through disciplinary action that he calls a “sheer eyewash.” He links the dispute to an unconditional pledge made by Gujarat leaders in 1966, which helped Beharilal Antani win a seat in the Council of State, and invokes Mahatma Gandhi’s fasting against Darbar Virawala as an example of refusing to tolerate a broken promise. The letter closes with an appeal to Rajagopalachari to uphold moral values and demand genuine repentance from the Gujarat party leaders.
 ---
 
+## Summary
+
+In this three-page letter dated 21 June 1968, Babulal P. Vaidya writes to C. Rajagopalachari (“Rajaji”) in distress over the Gujarat Swatantra Party’s role in defeating him in a Rajya Sabha election. Vaidya contrasts Rajagopalachari’s public image as an exponent of Dharma and truth with what he sees as Rajaji’s willingness to excuse an “unfortunate, immoral situation” created by Gujarat Swatantra leaders. He rejects their supposed repentance, citing the absence of regret, hostile correspondence from Pravinsinh Solanki, and H. M. Patel’s public accusation of ingratitude.
+
+Vaidya argues that Gujarat Swatantrites conspired against him, then secured Rajagopalachari’s endorsement through disciplinary action that he calls a “sheer eyewash.” He links the dispute to an unconditional pledge made by Gujarat leaders in 1966, which helped Beharilal Antani win a seat in the Council of State, and invokes Mahatma Gandhi’s fasting against Darbar Virawala as an example of refusing to tolerate a broken promise. The letter closes with an appeal to Rajagopalachari to uphold moral values and demand genuine repentance from the Gujarat party leaders.
+
 ## Key points
 
 - Vaidya expresses pain and disappointment at Rajagopalachari’s apparent support for Gujarat Swatantra leaders.

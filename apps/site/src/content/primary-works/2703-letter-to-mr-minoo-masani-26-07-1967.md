@@ -46,6 +46,10 @@ summary: |-
   This personal letter, dated 26 June 1967 and written from the Central Bank Building in Fort, Bombay, records C. H. Bhabha's recent meeting with the Chief Minister of Orissa in Calcutta. Bhabha says they discussed matters of importance to the state and that he recommended three or four people who might be useful to the Chief Minister.
 ---
 
+## Summary
+
+This personal letter, dated 26 June 1967 and written from the Central Bank Building in Fort, Bombay, records C. H. Bhabha's recent meeting with the Chief Minister of Orissa in Calcutta. Bhabha says they discussed matters of importance to the state and that he recommended three or four people who might be useful to the Chief Minister.
+
 ## Key points
 
 - Bhabha reports a frank meeting with the Chief Minister of Orissa during a trip to Calcutta.

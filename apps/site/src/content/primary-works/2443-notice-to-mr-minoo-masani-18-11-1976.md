@@ -47,6 +47,10 @@ summary: |-
   This two-page English-language administrative record consists of an 18 November 1976 notice from the Regional Transport Office, Bombay, addressed to Shri M. R. Masani concerning unpaid tax on motor vehicle M.V. No. MRG 2347. The notice states that the arrears had remained unpaid from February 1976 and warns that prosecution could follow under sections 16 and 12 of the Bombay Motor Vehicles Tax Act, 1958. It also offers the recipient an opportunity to compound the offence by paying the composition fee calculated under rule 19 of the Bombay Motor Vehicles Tax Rules, 1959.
 ---
 
+## Summary
+
+This two-page English-language administrative record consists of an 18 November 1976 notice from the Regional Transport Office, Bombay, addressed to Shri M. R. Masani concerning unpaid tax on motor vehicle M.V. No. MRG 2347. The notice states that the arrears had remained unpaid from February 1976 and warns that prosecution could follow under sections 16 and 12 of the Bombay Motor Vehicles Tax Act, 1958. It also offers the recipient an opportunity to compound the offence by paying the composition fee calculated under rule 19 of the Bombay Motor Vehicles Tax Rules, 1959.
+
 ## Key points
 
 - The Regional Transport Office, Bombay, issued the notice on 18 November 1976.

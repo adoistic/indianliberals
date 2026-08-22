@@ -47,6 +47,10 @@ summary: |-
   This two-page English letter, dated 3 April 1968 and written on Swatantra Party letterhead from Ahmedabad, is signed by Chimanbhai Desai and addressed to Madhu N. Mehta. Desai acknowledges Mehta’s concern about “the recent happenings” within the party but advises waiting for the forthcoming meetings of the National Executive and Central Parliamentary Board in Delhi before taking action.
 ---
 
+## Summary
+
+This two-page English letter, dated 3 April 1968 and written on Swatantra Party letterhead from Ahmedabad, is signed by Chimanbhai Desai and addressed to Madhu N. Mehta. Desai acknowledges Mehta’s concern about “the recent happenings” within the party but advises waiting for the forthcoming meetings of the National Executive and Central Parliamentary Board in Delhi before taking action.
+
 ## Key points
 
 - The letter responds to a circular letter from Madhu N. Mehta dated 31 March.

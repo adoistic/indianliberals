@@ -50,6 +50,12 @@ summary: |-
   The letter informs the unnamed recipient of their specific outstanding balance and requests immediate payment. A distribution list identifies several members and the amounts attributed to them, with copies marked to other party figures and associated recipients. The document is dated 18 January 1965 and is printed on Swatantra Party Central Office letterhead.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani, General Secretary of the Swatantra Party, is an administrative reminder concerning unpaid contributions by the Party’s Members of Parliament. Referring to a statement placed before the Organisation Sub-Committee at its January 8 meeting in Madras, Masani reports total arrears of approximately Rs. 7,820 as of December 31, 1964, and conveys the Committee’s concern at members’ failure to meet their obligations.
+
+The letter informs the unnamed recipient of their specific outstanding balance and requests immediate payment. A distribution list identifies several members and the amounts attributed to them, with copies marked to other party figures and associated recipients. The document is dated 18 January 1965 and is printed on Swatantra Party Central Office letterhead.
+
 ## Key points
 
 - M. R. Masani writes as General Secretary of the Swatantra Party.

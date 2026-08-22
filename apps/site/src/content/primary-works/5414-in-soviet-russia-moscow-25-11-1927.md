@@ -54,6 +54,12 @@ summary: |-
   The essay then examines women’s civic and political position under Soviet rule, citing expanded voting rights, participation in local and provincial Soviets, and access to professional and public-service roles. Its discussion of elections is more qualified: Soviet representation is described as functional rather than territorial, and the author acknowledges broad participation while noting disfranchisement, public voting by show of hands, and the suppression of rival party elections. The final section records a visit to Lenin’s Mausoleum and reflects on the continuing devotional attachment of Soviet officials and citizens to Lenin and the revolutionary cause. The supplied PDF contains duplicate scans of the same four printed pages.
 ---
 
+## Summary
+
+This English-language essay, headed “IN SOVIET RUSSIA” and “MOSCOW,” presents a first-person account of observations in Moscow. It begins with the scale of unemployment accompanying rapid industrialisation and the movement of peasants into towns. The writer is disappointed that Soviet planning has not eliminated chronic unemployment, but describes the Moscow Unemployment Exchange and Central Institute of Labour, where unemployed workers undergo aptitude and physiological tests and receive accelerated industrial training through the application of Taylorism.
+
+The essay then examines women’s civic and political position under Soviet rule, citing expanded voting rights, participation in local and provincial Soviets, and access to professional and public-service roles. Its discussion of elections is more qualified: Soviet representation is described as functional rather than territorial, and the author acknowledges broad participation while noting disfranchisement, public voting by show of hands, and the suppression of rival party elections. The final section records a visit to Lenin’s Mausoleum and reflects on the continuing devotional attachment of Soviet officials and citizens to Lenin and the revolutionary cause. The supplied PDF contains duplicate scans of the same four printed pages.
+
 ## Key points
 
 - Rapid industrialisation and rural-to-urban migration are presented as contributing to roughly one million unemployed people.

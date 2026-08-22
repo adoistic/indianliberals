@@ -56,6 +56,12 @@ summary: |-
   The attached list of demands translates that campaign into specific fiscal and economic measures: no additional taxation in the forthcoming Union Budget; no increases in land revenue or cesses; abolition of central excise on basic goods including kerosene, bidis, tobacco products, sugar, cloth, and betel nut; substantial reduction of direct taxation on middle-class earners with annual incomes up to Rs. 25,000; relaxation of the Gold Control Order; removal of restrictions on inter-zone and inter-district movement and distribution of foodgrains; and avoidance of inflationary policies that raise prices.
 ---
 
+## Summary
+
+This 2 February 1966 circular from Swatantra Party General Secretary M. R. Masani instructs party units to observe 20 February as "Anti Excessive Taxation Day." Masani asks state organisations to arrange public meetings, processions, and explanatory leaflets, while adapting the campaign to local conditions. The stated purpose is to draw public attention to what the letter calls an almost unbearable tax burden that is increasing from day to day.
+
+The attached list of demands translates that campaign into specific fiscal and economic measures: no additional taxation in the forthcoming Union Budget; no increases in land revenue or cesses; abolition of central excise on basic goods including kerosene, bidis, tobacco products, sugar, cloth, and betel nut; substantial reduction of direct taxation on middle-class earners with annual incomes up to Rs. 25,000; relaxation of the Gold Control Order; removal of restrictions on inter-zone and inter-district movement and distribution of foodgrains; and avoidance of inflationary policies that raise prices.
+
 ## Key points
 
 - M. R. Masani announces 20 February 1966 as the Swatantra Party's "Anti Excessive Taxation Day."

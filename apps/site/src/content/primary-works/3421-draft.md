@@ -51,6 +51,12 @@ summary: |-
   The draft identifies the erosion of law and order and the spread of violence as major threats to India's young democracy. It attributes the government's inability to respond effectively to its lack of a parliamentary and popular majority, as well as its dependence on Communist parties, which the text portrays as having extra-territorial loyalties and designs against the democratic Constitution. Particular emphasis is placed on Naxalite activity in Bengal and elsewhere, the continuing threat to people's lives, liberties, and property, and the alleged spread of Mao Tse-tung's influence in India. The page ends mid-sentence, so the document's proposed political remedy is not visible.
 ---
 
+## Summary
+
+This untitled, undated draft argues that India entered the 1970s amid a changed political balance following the fragmentation of the Congress Party in 1969. It presents the Congress government's earlier middle-of-the-road position as a source of stability and policy continuity, but contends that its splintering left a political vacuum that needed to be filled constructively.
+
+The draft identifies the erosion of law and order and the spread of violence as major threats to India's young democracy. It attributes the government's inability to respond effectively to its lack of a parliamentary and popular majority, as well as its dependence on Communist parties, which the text portrays as having extra-territorial loyalties and designs against the democratic Constitution. Particular emphasis is placed on Naxalite activity in Bengal and elsewhere, the continuing threat to people's lives, liberties, and property, and the alleged spread of Mao Tse-tung's influence in India. The page ends mid-sentence, so the document's proposed political remedy is not visible.
+
 ## Key points
 
 - The draft locates India's political transition to the 1970s in the Congress Party's fragmentation during 1969.

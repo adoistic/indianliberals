@@ -51,6 +51,12 @@ summary: |-
   The letter authorizes functioning Constituency Committees to renew cards, record the renewal and the receiving authority's signature, notify Workers when their subscriptions are due, and remit the Centre's quota through the District Office. It also sets out the information to accompany remittances, including the register entry number, name, Worker’s Card number, and renewal date. Where no Constituency Committee exists, the District Committee is asked to arrange renewals; other arrangements may be adapted to local conditions.
 ---
 
+## Summary
+
+This two-page Swatantra Party circular, dated 19 June 1965 and signed by General Secretary M. R. Masani, explains how constituency and district units should renew Workers' subscriptions. It notes that each Worker card is valid for one year from its date of issue, so renewals will fall due at different times rather than simultaneously. The Central Office offers guidance without imposing a rigid procedure, emphasizing that renewal should be handled locally wherever possible.
+
+The letter authorizes functioning Constituency Committees to renew cards, record the renewal and the receiving authority's signature, notify Workers when their subscriptions are due, and remit the Centre's quota through the District Office. It also sets out the information to accompany remittances, including the register entry number, name, Worker’s Card number, and renewal date. Where no Constituency Committee exists, the District Committee is asked to arrange renewals; other arrangements may be adapted to local conditions.
+
 ## Key points
 
 - Worker cards are valid for one year from their date of issue and must be renewed every twelve months.

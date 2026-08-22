@@ -46,6 +46,10 @@ summary: |-
   This single-page letter, dated Bombay, 8 April 1968, is from Minoo J. Shroff to Madhu N. Mehta. Shroff responds to Mehta's letter of 31 March concerning M. R. Masani's resignation from the National Executive and Central Parliamentary Board of the Swatantra Party.
 ---
 
+## Summary
+
+This single-page letter, dated Bombay, 8 April 1968, is from Minoo J. Shroff to Madhu N. Mehta. Shroff responds to Mehta's letter of 31 March concerning M. R. Masani's resignation from the National Executive and Central Parliamentary Board of the Swatantra Party.
+
 ## Key points
 
 - The letter is dated 8 April 1968 and was sent from Bombay.

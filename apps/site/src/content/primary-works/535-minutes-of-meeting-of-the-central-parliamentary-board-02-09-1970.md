@@ -51,6 +51,10 @@ summary: |-
   This one-page draft records the meeting of the Swatantra Party’s Central Parliamentary Board held at M. R. Masani’s residence in New Delhi on 2 September 1970. The attendees included M. R. Masani, N. G. Ranga, R. N. Singh Deo, Daryabhai Patel, Maharawal Laxmansingh of Dungarpur, and N. Dandekar, who attended by special invitation. The minutes confirm the previous meeting’s record and then turn to current political developments in Kerala and Orissa.
 ---
 
+## Summary
+
+This one-page draft records the meeting of the Swatantra Party’s Central Parliamentary Board held at M. R. Masani’s residence in New Delhi on 2 September 1970. The attendees included M. R. Masani, N. G. Ranga, R. N. Singh Deo, Daryabhai Patel, Maharawal Laxmansingh of Dungarpur, and N. Dandekar, who attended by special invitation. The minutes confirm the previous meeting’s record and then turn to current political developments in Kerala and Orissa.
+
 ## Key points
 
 - The Central Parliamentary Board met in New Delhi on 2 September 1970.

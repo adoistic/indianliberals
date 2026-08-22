@@ -55,6 +55,10 @@ summary: |-
   In this speech, delivered to the North Bombay Junior Chamber on 21 June 1968, M. R. Masani examines the condition and prospects of party politics in India. He begins by arguing that political parties, despite their defects, are indispensable to democracy: they help identify representative candidates and provide the organised opposition necessary for constitutional government. He rejects both partyless democracy and the elevation of parties into ends in themselves, insisting that parties are instruments for representing citizens and pursuing limited public objectives.
 ---
 
+## Summary
+
+In this speech, delivered to the North Bombay Junior Chamber on 21 June 1968, M. R. Masani examines the condition and prospects of party politics in India. He begins by arguing that political parties, despite their defects, are indispensable to democracy: they help identify representative candidates and provide the organised opposition necessary for constitutional government. He rejects both partyless democracy and the elevation of parties into ends in themselves, insisting that parties are instruments for representing citizens and pursuing limited public objectives.
+
 ## Key points
 
 - Masani argues that political parties are necessary for representative government because they help identify candidates and organise opposition.

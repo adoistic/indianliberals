@@ -65,6 +65,12 @@ summary: |-
   The resolutions present the Swatantra Party as a constitutional and economically liberal alternative to Congress planning. They demand electoral reform, coordinated democratic opposition, an end to the Emergency, restoration of fundamental rights, and greater redistribution of power to the states. Their economic programme rejects the existing Five-Year Plans and state monopolies while retaining a role for government in infrastructure, basic necessities, stable prices, credit, education, and social welfare. The document opposes the proposed Seventeenth Amendment, state banking monopoly, coercive land collectivisation, and the expansion of executive control, while also setting out detailed rules for party membership and organisation.
 ---
 
+## Summary
+
+Adopted at the Swatantra Party's Third National Convention in Bangalore on February 1–2, 1964, this four-page document records the party's resolutions on national mourning, international relations, defence, emergency powers, elections, economic policy, banking, land reform, party organisation, federalism, and constitutional amendments. The opening resolutions honour Rajendra Prasad and other deceased party figures, condemn the assassination of President Kennedy, and criticise what the party calls the government's appeasement of Communist China and the failures of non-alignment. They call for stronger regional security cooperation in South-East Asia, vigilance against infiltration, and an armed forces insulated from political manipulation.
+
+The resolutions present the Swatantra Party as a constitutional and economically liberal alternative to Congress planning. They demand electoral reform, coordinated democratic opposition, an end to the Emergency, restoration of fundamental rights, and greater redistribution of power to the states. Their economic programme rejects the existing Five-Year Plans and state monopolies while retaining a role for government in infrastructure, basic necessities, stable prices, credit, education, and social welfare. The document opposes the proposed Seventeenth Amendment, state banking monopoly, coercive land collectivisation, and the expansion of executive control, while also setting out detailed rules for party membership and organisation.
+
 ## Key points
 
 - The convention records the party's grief over the deaths of Rajendra Prasad, Sardar Bahadur Lal Singh, Raja Kalyan Singh, H. K. Baria, and Muthuramalinga Thevar, and condemns the assassination of President Kennedy.

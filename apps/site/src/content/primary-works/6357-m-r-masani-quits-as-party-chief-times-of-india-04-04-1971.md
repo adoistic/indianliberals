@@ -50,6 +50,12 @@ summary: |-
   The report says Masani intended to remain a party member and continue advocating its philosophy and principles. He attributed the party’s difficult position to accumulated shortcomings and mistakes, and accepted a share of responsibility as president.
 ---
 
+## Summary
+
+This Times of India report dated 4 April 1971 announces that M. R. Masani had resigned as president of the Swatantra Party after the party’s poor performance in the mid-term election. His resignation letter was sent to members of the party’s general council and was to be considered at a council meeting in Bombay on 17–18 April.
+
+The report says Masani intended to remain a party member and continue advocating its philosophy and principles. He attributed the party’s difficult position to accumulated shortcomings and mistakes, and accepted a share of responsibility as president.
+
 ## Key points
 
 - M. R. Masani resigned as president of the Swatantra Party.

@@ -49,6 +49,12 @@ summary: |-
   Raju emphasizes the value of a brief but adaptable party constitution. Recalling a remark by K. M. Munshi about the Indian National Congress’s numerous constitutional complications, he says the Swatantra Party’s document established the party’s framework without becoming rigid enough to obstruct its growth. He encloses a copy and closes with a lightly personal acknowledgment that he continues writing despite receiving no replies, partly because the recipient is now a member of the ruling party.
 ---
 
+## Summary
+
+In this letter dated April 13, 1977, S. V. Raju writes to Bhanu Pratap Singh, who is serving on the sub-committee drafting the Janata Party Constitution. Raju recalls the Constitution drafted for the Swatantra Party in Patna in 1960 and the discussions surrounding it, presenting that earlier document as a useful model for the new party’s constitutional work.
+
+Raju emphasizes the value of a brief but adaptable party constitution. Recalling a remark by K. M. Munshi about the Indian National Congress’s numerous constitutional complications, he says the Swatantra Party’s document established the party’s framework without becoming rigid enough to obstruct its growth. He encloses a copy and closes with a lightly personal acknowledgment that he continues writing despite receiving no replies, partly because the recipient is now a member of the ruling party.
+
 ## Key points
 
 - The letter is dated April 13, 1977, and is addressed to Bhanu Pratap Singh.

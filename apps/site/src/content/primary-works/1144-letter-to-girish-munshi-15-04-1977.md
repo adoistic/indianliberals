@@ -44,6 +44,10 @@ summary: |-
   A brief typed note from M. R. Masani in Bombay to Girish Munshi of the Maharashtra Swatantra Party, dated 15 April 1977. Masani apologises that a meeting held the previous day had to be ended abruptly and proposes that Munshi and a colleague named Kejriwal come to his residence for a fuller discussion on Saturday, 23 April, at 10 a.m. A copy of the letter is being sent to S. V. Raju, whom Masani instructs, in a carbon-copy note, to attend as well and bring along two other colleagues referred to only as KH and Sampat. The document is a single-page piece of Swatantra Party organisational correspondence and offers no substantive argument beyond the logistics of the proposed meeting.
 ---
 
+## Summary
+
+A brief typed note from M. R. Masani in Bombay to Girish Munshi of the Maharashtra Swatantra Party, dated 15 April 1977. Masani apologises that a meeting held the previous day had to be ended abruptly and proposes that Munshi and a colleague named Kejriwal come to his residence for a fuller discussion on Saturday, 23 April, at 10 a.m. A copy of the letter is being sent to S. V. Raju, whom Masani instructs, in a carbon-copy note, to attend as well and bring along two other colleagues referred to only as KH and Sampat. The document is a single-page piece of Swatantra Party organisational correspondence and offers no substantive argument beyond the logistics of the proposed meeting.
+
 ## Key points
 
 - Single-page typed letter from M. R. Masani to Girish Munshi, dated 15 April 1977, sent from 143 Mahatma Gandhi Road, Bombay 400 023.

@@ -48,6 +48,12 @@ summary: |-
   The letter also states that a copy of the Chairman's circular letter is enclosed for reference. No substantive policy argument or discussion of the IFS Committee is included on the rendered page.
 ---
 
+## Summary
+
+This one-page letter, dated November 16, 1965, is from N. Krishnan, Secretary of the IFS Committee, to M. R. Masani. Krishnan confirms a telephone conversation and invites Masani to a meeting at 9:30 a.m. on Monday, December 6, 1965, at Room No. 161-B, First Floor, South Block, Ministry of External Affairs, New Delhi.
+
+The letter also states that a copy of the Chairman's circular letter is enclosed for reference. No substantive policy argument or discussion of the IFS Committee is included on the rendered page.
+
 ## Key points
 
 - The correspondence is dated November 16, 1965.

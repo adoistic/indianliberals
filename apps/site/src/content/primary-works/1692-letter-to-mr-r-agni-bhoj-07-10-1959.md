@@ -51,6 +51,12 @@ summary: |-
   The letter also addresses practical party administration. Rajagopalachari says subscription arrangements can be considered at the meeting and instructs Bhoj to ensure that workers do not collect one rupee and account for only eight annas. He closes by asking for a report on whether Sri Zamindar's complaints have been addressed and whether he is cooperating. Copies were sent to Sir H. P. Modi and Sri S. Y. Krishnaswamy.
 ---
 
+## Summary
+
+This single-page letter, dated 7 October 1959 and written by C. Rajagopalachari to Sri R. Agni Bhoj, discusses preparations for an upcoming all-India meeting of the Swatantra Party's leading members. Rajagopalachari acknowledges Bhoj's proposal concerning the party's national colours but argues that the question should not be settled hastily, since the competing proposals may create division within the party. As a temporary measure, he suggests a green flag bearing the word "Swatantra" in a local language, stitched in white or yellow.
+
+The letter also addresses practical party administration. Rajagopalachari says subscription arrangements can be considered at the meeting and instructs Bhoj to ensure that workers do not collect one rupee and account for only eight annas. He closes by asking for a report on whether Sri Zamindar's complaints have been addressed and whether he is cooperating. Copies were sent to Sir H. P. Modi and Sri S. Y. Krishnaswamy.
+
 ## Key points
 
 - Rajagopalachari writes from the Swatantra Party office in Madras on 7 October 1959.

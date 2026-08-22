@@ -53,6 +53,12 @@ summary: |-
   The resolution endorses the formation of a new party through the amalgamation of political forces other than the ruling Congress and the Communist parties, identifying the proposed organisation as Bharatiya Lok Dal. It authorises party president Piloo Mody to announce the Swatantra Party’s dissolution and merger after reviewing developments, to notify the Chief Election Commissioner, and to request that the party’s electoral symbol be frozen. Members who do not join the new party are permitted to continue non-partisan activities under another name.
 ---
 
+## Summary
+
+This two-page resolution, issued for the Swatantra Party’s Seventh National Convention in Delhi on August 4–5, 1974, records the party’s decision to pursue a “National Alternative” to address what it describes as political chaos and electoral confusion. It reviews earlier National Executive and General Council discussions, welcomes cooperation among political parties, and calls for a common programme capable of fulfilling the aspirations of the people.
+
+The resolution endorses the formation of a new party through the amalgamation of political forces other than the ruling Congress and the Communist parties, identifying the proposed organisation as Bharatiya Lok Dal. It authorises party president Piloo Mody to announce the Swatantra Party’s dissolution and merger after reviewing developments, to notify the Chief Election Commissioner, and to request that the party’s electoral symbol be frozen. Members who do not join the new party are permitted to continue non-partisan activities under another name.
+
 ## Key points
 
 - The Swatantra Party presents a two-party or broader opposition-based alternative as a response to political disorder and confusion among voters.

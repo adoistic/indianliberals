@@ -49,6 +49,12 @@ summary: |-
   Datar thanks the office-bearers and members of the Executive Committee for their cooperation and assistance during her term of office. The page records no further explanation of the circumstances prompting the resignation.
 ---
 
+## Summary
+
+This untitled letter, dated Bombay, 2 June 1972, is addressed to the President of the Swatantra Party, Bombay Region. Mrs. Sarla Datar resigns as Joint Treasurer of the regional party organisation, attributing her resignation to “circumstances beyond my control.”
+
+Datar thanks the office-bearers and members of the Executive Committee for their cooperation and assistance during her term of office. The page records no further explanation of the circumstances prompting the resignation.
+
 ## Key points
 
 - The document is a resignation letter dated Bombay, 2 June 1972.

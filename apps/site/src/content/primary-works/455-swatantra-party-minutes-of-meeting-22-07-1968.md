@@ -56,6 +56,12 @@ summary: |-
   The minutes present the party's labour position as favouring negotiation and arbitration rather than an unjustified strike, while also recognising railway firemen's grievances over union organisation, working hours, and wages. They further record disagreement over whether to attend a Planning Commission meeting on the draft Fourth Five-Year Plan. The meeting decided to prepare a detailed note on the party's approach to the Fourth Plan, circulate the Planning Commission's replies to party units and Members of Parliament, and consider a public symposium. The page ends while recording Chief Whip Y. G. Gowd's discussions with independent member Yashpal Singh; no further pages were available.
 ---
 
+## Summary
+
+This one-page record documents a General Body meeting of the Swatantra Party in Parliament held on 22 July 1968 at Parliament House, New Delhi. It lists 30 members present and records discussion of arms aid to Pakistan, a parliamentary motion concerning the Soviet Union's reported decision to support India, proposed industrial action by Central Government employees, and a firemen's strike in the Southern and South Eastern Railways. The members supported Nath Pai's motion expressing concern over the Soviet decision, while deciding to press an adjournment motion in Piloo Mody's name if the motion was disallowed; they also agreed that a parliamentary walk-out should not be permitted to result from the dispute.
+
+The minutes present the party's labour position as favouring negotiation and arbitration rather than an unjustified strike, while also recognising railway firemen's grievances over union organisation, working hours, and wages. They further record disagreement over whether to attend a Planning Commission meeting on the draft Fourth Five-Year Plan. The meeting decided to prepare a detailed note on the party's approach to the Fourth Plan, circulate the Planning Commission's replies to party units and Members of Parliament, and consider a public symposium. The page ends while recording Chief Whip Y. G. Gowd's discussions with independent member Yashpal Singh; no further pages were available.
+
 ## Key points
 
 - The Swatantra Party's parliamentary General Body met on 22 July 1968 with 30 members present.

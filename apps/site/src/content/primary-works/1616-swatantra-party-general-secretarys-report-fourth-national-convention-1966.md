@@ -60,6 +60,10 @@ summary: |-
   This institutional report records the Swatantra Party’s organisation and political activity between the Third National Convention in Bangalore in February 1964 and the Fourth National Convention in New Delhi in December 1966. In the rendered pages, it describes the shift from mass membership toward a cadre-based party, the introduction of active membership and regular internal elections, and the work of the General Council, National Executive, and Central Parliamentary Board. It presents the party as pursuing an orderly, businesslike political organisation while preparing for the 1967 General Elections.
 ---
 
+## Summary
+
+This institutional report records the Swatantra Party’s organisation and political activity between the Third National Convention in Bangalore in February 1964 and the Fourth National Convention in New Delhi in December 1966. In the rendered pages, it describes the shift from mass membership toward a cadre-based party, the introduction of active membership and regular internal elections, and the work of the General Council, National Executive, and Central Parliamentary Board. It presents the party as pursuing an orderly, businesslike political organisation while preparing for the 1967 General Elections.
+
 ## Key points
 
 - The report reviews party development from the 1964 Bangalore Convention through preparations for the 1967 General Elections.

@@ -47,6 +47,10 @@ summary: |-
   In this two-page letter dated 28 June 1968, N. G. Ranga writes to Minoo Masani about proposals to form a Democratic Front comprising non-Communist and non-Congress parties. Ranga reports that N. Dandekar has discussed the idea with Charan Singh and the B.K.D. secretary, and that a new party formed through the merger of non-Communist, non-Congress and non-Jan Sangh parties has been proposed. He questions whether the formula should exclude the Jan Sangh and warns against a rushed process that could leave no final agreement.
 ---
 
+## Summary
+
+In this two-page letter dated 28 June 1968, N. G. Ranga writes to Minoo Masani about proposals to form a Democratic Front comprising non-Communist and non-Congress parties. Ranga reports that N. Dandekar has discussed the idea with Charan Singh and the B.K.D. secretary, and that a new party formed through the merger of non-Communist, non-Congress and non-Jan Sangh parties has been proposed. He questions whether the formula should exclude the Jan Sangh and warns against a rushed process that could leave no final agreement.
+
 ## Key points
 
 - Ranga supports discussion of a Democratic Front bringing together non-Communist and non-Congress parties.

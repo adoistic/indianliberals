@@ -49,6 +49,12 @@ summary: |-
   The printed invitation is signed by Charan Singh, Karpuri Thakur, Piloo Mody, Biju Patnaik, Balraj Madhok, Ram Subhag Singh, Chand Ram, and Raj Narayan. The reverse carries a handwritten Urdu-script address to Mr. Girish Munshi at Bharatiya Vidya Bhavan, Bombay. The rendered item contains no title, extended argument, or material beyond this political invitation and its mailing details.
 ---
 
+## Summary
+
+This two-page bilingual postcard is an invitation issued by the National Headquarters of the Bharatiya Lok Dal in New Delhi. Addressed as “Dear Friend,” it announces that the party’s inauguration and the launch of a “National Alternative” will take place on August 29, 1974, at 10:00 a.m. at Mayamkhar Hall, Rafi Marg, New Delhi. The Hindi text presents the event as the inauguration of the Bharatiya Lok Dal for establishing a national alternative, while the parallel English text asks the recipient to attend and witness the “historic event.”
+
+The printed invitation is signed by Charan Singh, Karpuri Thakur, Piloo Mody, Biju Patnaik, Balraj Madhok, Ram Subhag Singh, Chand Ram, and Raj Narayan. The reverse carries a handwritten Urdu-script address to Mr. Girish Munshi at Bharatiya Vidya Bhavan, Bombay. The rendered item contains no title, extended argument, or material beyond this political invitation and its mailing details.
+
 ## Key points
 
 - The postcard was issued by the National Headquarters of the Bharatiya Lok Dal in New Delhi.

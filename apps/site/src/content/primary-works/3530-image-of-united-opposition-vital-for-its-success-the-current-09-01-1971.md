@@ -46,3 +46,7 @@ ai:
 summary: |-
   In the rendered pages, the cover presents an issue of The Current Weekly, an All India Edition identified as Vol. XXII, No. 19, for the week ending Saturday January 9. In the rendered pages, its principal feature is headlined “IMAGE OF UNITED OPPOSITION VITAL FOR ITS SUCCESS,” framing the issue around the political importance of opposition unity.
 ---
+
+## Summary
+
+In the rendered pages, the cover presents an issue of The Current Weekly, an All India Edition identified as Vol. XXII, No. 19, for the week ending Saturday January 9. In the rendered pages, its principal feature is headlined “IMAGE OF UNITED OPPOSITION VITAL FOR ITS SUCCESS,” framing the issue around the political importance of opposition unity.

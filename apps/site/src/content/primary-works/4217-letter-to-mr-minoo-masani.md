@@ -44,6 +44,10 @@ summary: |-
   This handwritten English letter, dated 11 November 1963, is addressed to M. Masani, identifiable as Minoo Masani. The writer, signing as “Ranga,” explains a postal routine: letters are posted daily at 5 p.m. rather than making several trips to the post office. The writer makes an exception for the enclosed or referenced urgent letter, requesting express delivery.
 ---
 
+## Summary
+
+This handwritten English letter, dated 11 November 1963, is addressed to M. Masani, identifiable as Minoo Masani. The writer, signing as “Ranga,” explains a postal routine: letters are posted daily at 5 p.m. rather than making several trips to the post office. The writer makes an exception for the enclosed or referenced urgent letter, requesting express delivery.
+
 ## Key points
 
 - The letter is addressed to M. Masani and dated 11 November 1963.

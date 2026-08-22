@@ -61,6 +61,10 @@ summary: |-
   These draft minutes record the Swatantra Party Central Organising Committee’s meeting in Madras on 4 August 1963. The committee reviewed opposition cooperation in Bombay, constitutional and parliamentary questions, political developments in Punjab and Orissa, the continuation of the Emergency, the Voice of America agreement, and the Party’s financial position. It permitted state units discretion to join legitimate democratic agitations while excluding direct action and any agitation that would benefit the Communist Party. It also authorised the Party’s Parliamentary Group to determine its position on a possible no-confidence motion and approved resolutions on maintaining democratic processes and opposing the Constitution (17th Amendment) Bill.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Central Organising Committee’s meeting in Madras on 4 August 1963. The committee reviewed opposition cooperation in Bombay, constitutional and parliamentary questions, political developments in Punjab and Orissa, the continuation of the Emergency, the Voice of America agreement, and the Party’s financial position. It permitted state units discretion to join legitimate democratic agitations while excluding direct action and any agitation that would benefit the Communist Party. It also authorised the Party’s Parliamentary Group to determine its position on a possible no-confidence motion and approved resolutions on maintaining democratic processes and opposing the Constitution (17th Amendment) Bill.
+
 ## Key points
 
 - The committee confirmed the previous minutes and reviewed correspondence concerning inter-opposition cooperation, including discussions with Acharya Kripalani.

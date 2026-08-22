@@ -52,6 +52,12 @@ summary: |-
   The agenda covers the election of the Parliamentary Group's leader, secretaries, whips, and executive committee; the Party's position on elections for the President and Vice-President of India and the Speaker and Deputy Speaker of the Lok Sabha; business before both Houses of Parliament; and any other business permitted by the chair. The page records no substantive policy argument beyond these organisational and parliamentary matters.
 ---
 
+## Summary
+
+This one-page English office circular, issued by the Swatantra Party Central Office on 23 March 1967 and signed by General Secretary M. R. Masani, invites members of the Party's Parliamentary Group to its first meeting in the new Parliament. The meeting was scheduled for 15 March 1967 at Vithalbhai Patel House, Rafi Marg, New Delhi; the document therefore appears to have been issued after the announced meeting date, although no explanation is provided.
+
+The agenda covers the election of the Parliamentary Group's leader, secretaries, whips, and executive committee; the Party's position on elections for the President and Vice-President of India and the Speaker and Deputy Speaker of the Lok Sabha; business before both Houses of Parliament; and any other business permitted by the chair. The page records no substantive policy argument beyond these organisational and parliamentary matters.
+
 ## Key points
 
 - The document is headed "GENERAL SECRETARY'S LETTER TO M.P.s No. 11" and is issued on Swatantra Party Central Office letterhead.

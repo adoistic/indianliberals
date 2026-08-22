@@ -47,6 +47,10 @@ summary: |-
   This one-page letter, dated May 14, 1970, is from Jagannalal B. Joshi of the District Swatantra Party in Jamnagar to M. R. Masani, M.P. Joshi informs Masani that the General Council of the Nawanagar Chamber of Commerce has scheduled a meeting for May 22 and has specially invited Masani and other Swatantra Party members from the Saurashtra region.
 ---
 
+## Summary
+
+This one-page letter, dated May 14, 1970, is from Jagannalal B. Joshi of the District Swatantra Party in Jamnagar to M. R. Masani, M.P. Joshi informs Masani that the General Council of the Nawanagar Chamber of Commerce has scheduled a meeting for May 22 and has specially invited Masani and other Swatantra Party members from the Saurashtra region.
+
 ## Key points
 
 - The General Council of the Nawanagar Chamber of Commerce scheduled a meeting for May 22.

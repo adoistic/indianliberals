@@ -55,6 +55,12 @@ summary: |-
   The letter then addresses election financing. Tata informs Rajagopalachari that Tata companies will financially support the election efforts of both the Swatantra Party and the Congress, defending this seemingly unusual decision by citing Congress’s role in the independence struggle and its stabilizing influence, alongside the need for a democratic alternative represented by Swatantra. He says that specific recommendations will be made to the boards of the various Tata companies, although the extent of support for Swatantra will await shareholder discussions at annual general meetings. The letter closes with personal good wishes concerning Rajagopalachari’s health and public responsibilities.
 ---
 
+## Summary
+
+In this two-page letter dated 15 July 1961, J. R. D. Tata replies to C. Rajagopalachari (addressed as “Rajaji”) after receiving his proposal concerning the creation of a new democratic party. Tata says that he and his colleagues view such a party as essential to the effective working of parliamentary democracy and to ensuring that the Communist Party is not the only effective alternative to the Congress Party. He argues for a political system organized around two opposing parties, neither at the extreme Left nor the extreme Right, and identifies a liberal or conservative democratic party as the appropriate parliamentary counterweight to the Communists.
+
+The letter then addresses election financing. Tata informs Rajagopalachari that Tata companies will financially support the election efforts of both the Swatantra Party and the Congress, defending this seemingly unusual decision by citing Congress’s role in the independence struggle and its stabilizing influence, alongside the need for a democratic alternative represented by Swatantra. He says that specific recommendations will be made to the boards of the various Tata companies, although the extent of support for Swatantra will await shareholder discussions at annual general meetings. The letter closes with personal good wishes concerning Rajagopalachari’s health and public responsibilities.
+
 ## Key points
 
 - Tata endorses the creation of a new democratic party as necessary for the effective operation of parliamentary democracy.

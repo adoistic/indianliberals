@@ -49,6 +49,12 @@ summary: |-
   Masani warns that the Raja may raise the matter during an impending visit to Madras. He also encloses a letter by Janki Nandan Singh to Munshi, which refers to other litigation involving the Raja. The visible pages contain no further explanation of the loan, the litigation, or the response of either recipient.
 ---
 
+## Summary
+
+This personal letter, dated 27 July 1963, is from M. R. Masani to C. Rajagopalachari and, in a duplicate or address variant, to Professor N. G. Ranga. Masani reports that the Raja of Ramgarh is refusing to repay a jeep loan and the interest owed to the Central Bank and New India Assurance Company. He says the Raja has approached the Swatantra Party and proposed that it pay Rs. 27,000 in accrued interest caused by delays in repaying his share of the loan.
+
+Masani warns that the Raja may raise the matter during an impending visit to Madras. He also encloses a letter by Janki Nandan Singh to Munshi, which refers to other litigation involving the Raja. The visible pages contain no further explanation of the loan, the litigation, or the response of either recipient.
+
 ## Key points
 
 - The document is a personal letter dated 27 July 1963 from M. R. Masani.

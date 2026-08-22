@@ -51,6 +51,12 @@ summary: |-
   The typed resolution, moved by M. R. Masani and unanimously adopted by the General Council, endorses earlier Swatantra Party decisions against joining a central government that included Communists and calls for both Communist parties to be banned. It welcomes the dismissal of a cabinet allegedly turned into an instrument of Communist disruption and subversion, citing events at Gheraoes and Naxalbari. The pages therefore present an explicitly anti-Communist party position alongside an internal disciplinary dispute in Gujarat.
 ---
 
+## Summary
+
+The two-page file combines a Hindustan Times clipping with a typed Swatantra Party General Council resolution. The clipping reports that the party's Central Parliamentary Board had discussed disciplinary action against members in Gujarat who had supported or sponsored candidates opposing the party's official nominees, including Bababhai Vaidya. It also describes debate over the defeat of the party's candidate in the Rajya Sabha election, the possibility of convening a special executive meeting, and M. R. Masani's resignation from the party's national executive and Board of Management.
+
+The typed resolution, moved by M. R. Masani and unanimously adopted by the General Council, endorses earlier Swatantra Party decisions against joining a central government that included Communists and calls for both Communist parties to be banned. It welcomes the dismissal of a cabinet allegedly turned into an instrument of Communist disruption and subversion, citing events at Gheraoes and Naxalbari. The pages therefore present an explicitly anti-Communist party position alongside an internal disciplinary dispute in Gujarat.
+
 ## Key points
 
 - The Central Parliamentary Board considered disciplinary action against Swatantra Party members in Gujarat.

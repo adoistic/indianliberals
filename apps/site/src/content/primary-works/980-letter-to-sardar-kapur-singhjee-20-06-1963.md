@@ -51,6 +51,12 @@ summary: |-
   The correspondence then turns to organisational preparations: the sender asks whether the deadline for nominations for office-bearers’ selection should be moved earlier than 12 August, says that Jain should consult the recipient about typewriters, and mentions sending a copy to M. Masani for comment. An attached note invites the recipient to an informal meeting in the Western Court Lounge on 12 August to exchange ideas about issues likely to arise in the Lok Sabha during the August session. A separate list names fourteen leaders proposed for an informal meeting on 14 August 1963.
 ---
 
+## Summary
+
+Dated Nidubrolu, 20 June 1963, this unsigned letter to Sardar Kapur Singhjee discusses the proposed seating order for members of a political group. The sender accepts a seniority-based arrangement, argues that Yashpal Singh should be retained by seating him prominently, and proposes placing Shri Reddi and B. N. Singh on the fourth bench because of their attachment to the party and experience in its national organisations. The letter also asks where Rao, Krishna Pal Singhjee, and Mohida should sit, while noting that other members, including Gayatri Devijee, can remain in their existing places.
+
+The correspondence then turns to organisational preparations: the sender asks whether the deadline for nominations for office-bearers’ selection should be moved earlier than 12 August, says that Jain should consult the recipient about typewriters, and mentions sending a copy to M. Masani for comment. An attached note invites the recipient to an informal meeting in the Western Court Lounge on 12 August to exchange ideas about issues likely to arise in the Lok Sabha during the August session. A separate list names fourteen leaders proposed for an informal meeting on 14 August 1963.
+
 ## Key points
 
 - The letter proposes a detailed seating order based on seniority, party attachment, and organisational responsibility.

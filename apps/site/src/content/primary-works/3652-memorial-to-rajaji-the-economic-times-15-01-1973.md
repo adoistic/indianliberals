@@ -51,6 +51,12 @@ summary: |-
   The article argues that a Rajaji memorial should reach beyond an elite audience and place his ideas before the wider public. It also presents the memorial as an opportunity to reconnect Rajaji’s legacy with those of Mahatma Gandhi and Jawaharlal Nehru, describing the three leaders as forming a historical “complex.” The clipping is unsigned; the reverse page is blank.
 ---
 
+## Summary
+
+This 15 January 1973 Economic Times article considers proposals for a memorial to C. Rajagopalachari (Rajaji). It reports the suggestion of establishing a political and philosophical research institution along the lines of the Harold Laski Institute, as well as a possible university. T. T. Krishnamachari is said to have proposed an institution that would transmit Rajaji’s ideas and message to younger generations, while leaving open whether it should be a university or another institution of higher learning.
+
+The article argues that a Rajaji memorial should reach beyond an elite audience and place his ideas before the wider public. It also presents the memorial as an opportunity to reconnect Rajaji’s legacy with those of Mahatma Gandhi and Jawaharlal Nehru, describing the three leaders as forming a historical “complex.” The clipping is unsigned; the reverse page is blank.
+
 ## Key points
 
 - The article reports proposals for an appropriate memorial to C. Rajagopalachari near Gandhi Mantapam in Madras.

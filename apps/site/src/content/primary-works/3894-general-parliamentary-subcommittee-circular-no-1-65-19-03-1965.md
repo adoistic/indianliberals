@@ -52,6 +52,12 @@ summary: |-
   The circular states that Mr. R. N. Singh Deo will settle the precise time and place of the meeting and communicate those details to the other members upon their arrival in Dhenkanal. Signed by M. R. Masani as General Secretary, the document is an administrative communication concerning party coordination and parliamentary organisation.
 ---
 
+## Summary
+
+This one-page English office circular, issued by the Swatantra Party's Central Office on March 19, 1965, announces the first meeting of a sub-committee appointed by the Central Parliamentary Board. The meeting is scheduled for Sunday, March 28, in Dhenkanal, Orissa, following the Board's March 14 meeting in Delhi.
+
+The circular states that Mr. R. N. Singh Deo will settle the precise time and place of the meeting and communicate those details to the other members upon their arrival in Dhenkanal. Signed by M. R. Masani as General Secretary, the document is an administrative communication concerning party coordination and parliamentary organisation.
+
 ## Key points
 
 - The document is Circular No. 1/65 of the Swatantra Party's Central Parliamentary Sub-Committee.

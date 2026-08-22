@@ -56,6 +56,12 @@ summary: |-
   The notes connect socialism with a tightening of social and economic controls, describe the public-sector and monopoly-state tendencies of institutions such as LIC and STC, and warn that economic plans create disincentives to work and production while grounding down the middle class and traders. They also refer to the Nagpur Resolution, the defence of farm and family, and the need for a strong opposition and an alternative government. The second page praises Rajaji's leadership and personal sacrifice, calls for hard work and organisation, and anticipates that India may respond in March 1962.
 ---
 
+## Summary
+
+These two pages are typed lecture notes for Flag & Founders' Day in Delhi on 9 December 1960. They explain why C. Rajagopalachari (“Rajaji”) launched the Swatantra Party, presenting the party as a response to what the notes call a “crying need” in Indian public life. The outline identifies moral degeneration, the widening gulf between profession and practice, growing cynicism and loss of faith, concentration of power in the state and ruling party, and the economic consequences of government planning and inflation.
+
+The notes connect socialism with a tightening of social and economic controls, describe the public-sector and monopoly-state tendencies of institutions such as LIC and STC, and warn that economic plans create disincentives to work and production while grounding down the middle class and traders. They also refer to the Nagpur Resolution, the defence of farm and family, and the need for a strong opposition and an alternative government. The second page praises Rajaji's leadership and personal sacrifice, calls for hard work and organisation, and anticipates that India may respond in March 1962.
+
 ## Key points
 
 - The notes present the launch of the Swatantra Party as a response to a perceived need for an alternative political force.

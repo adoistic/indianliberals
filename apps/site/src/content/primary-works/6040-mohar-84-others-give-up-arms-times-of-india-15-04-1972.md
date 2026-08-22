@@ -46,6 +46,12 @@ summary: |-
   The report describes multiple surrender groups and identifies several dacoit leaders among those who gave themselves up. It records the formal reception of the men by local officials, police, and social workers, and notes that they were taken into custody after making their surrender. The clipping is a contemporaneous news account rather than an analysis of the broader political or social causes of banditry.
 ---
 
+## Summary
+
+This one-page English newspaper clipping, dated 15 April 1972 and datelined Jaura, reports the surrender of Mohar Singh and 84 other armed outlaws from the Chambal ravines. It presents the event as a significant turn in the region’s criminal history, attributing the surrender to a “change of heart” mission associated with Jayaprakash Narayan and the example of Mahatma Gandhi. The surrendered men reportedly laid down their arms, including rifles and other weapons, before Sarvodaya leaders and officials.
+
+The report describes multiple surrender groups and identifies several dacoit leaders among those who gave themselves up. It records the formal reception of the men by local officials, police, and social workers, and notes that they were taken into custody after making their surrender. The clipping is a contemporaneous news account rather than an analysis of the broader political or social causes of banditry.
+
 ## Key points
 
 - Mohar Singh and 84 other armed outlaws reportedly surrendered at Jaura on April 14, 1972.

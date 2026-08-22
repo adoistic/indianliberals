@@ -53,6 +53,12 @@ summary: |-
   The meeting also marks an effort to establish a minimum political programme in Maharashtra. Members agreed to concentrate on two immediate issues—rising prices and corruption—and appointed a sub-committee to develop ways of pursuing them. A separate group was tasked with preparing schemes to raise funds for the Party office. The meeting concluded at about 6.00 p.m. with a vote of thanks to the Chair.
 ---
 
+## Summary
+
+These two pages record the 28 October 1974 meeting of the Swatantra Party, Maharashtra, held at its Bombay office. The minutes document attendance, confirmation of the previous meeting's minutes, and the removal of eight Executive Committee members who had missed more than three consecutive meetings without leave, in addition to two earlier resignations. Seven members were co-opted to strengthen the Party's working, while five others were designated permanent invitees.
+
+The meeting also marks an effort to establish a minimum political programme in Maharashtra. Members agreed to concentrate on two immediate issues—rising prices and corruption—and appointed a sub-committee to develop ways of pursuing them. A separate group was tasked with preparing schemes to raise funds for the Party office. The meeting concluded at about 6.00 p.m. with a vote of thanks to the Chair.
+
 ## Key points
 
 - The Executive Committee met at the Swatantra Party, Maharashtra, office in Sassoon Building, Bombay, on 28 October 1974.

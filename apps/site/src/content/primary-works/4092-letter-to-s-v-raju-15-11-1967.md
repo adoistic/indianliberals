@@ -54,6 +54,12 @@ summary: |-
   The political discussion focuses on opposition to the Communist ministry in Kerala. The sender describes divisions within the Muslim League, contacts with League figures, and the possibility of joint meetings to promote free trade in food grains. The file also includes a separate, heavily abbreviated handwritten postcard or document addressed to Minoo Masani; much of this material is difficult to read, but its visible heading objects to “dirty politics” and refers to defections and party strategy.
 ---
 
+## Summary
+
+This archival correspondence file contains a typed two-page letter dated 15 November 1967 from the Kerala State Swatantra Party office to S. V. Raju. The unnamed sender reports arrangements for a united stand at the party’s general council meeting and argues for a unitary party structure in which the national executive is the supreme body between council meetings, with state units required to follow its decisions. The letter also discusses support for N. Dandekar’s candidacy and the allocation of Kerala’s representation on the next national executive.
+
+The political discussion focuses on opposition to the Communist ministry in Kerala. The sender describes divisions within the Muslim League, contacts with League figures, and the possibility of joint meetings to promote free trade in food grains. The file also includes a separate, heavily abbreviated handwritten postcard or document addressed to Minoo Masani; much of this material is difficult to read, but its visible heading objects to “dirty politics” and refers to defections and party strategy.
+
 ## Key points
 
 - The typed letter is dated 15 November 1967 and is issued on Kerala State Swatantra Party letterhead.

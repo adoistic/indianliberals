@@ -52,6 +52,12 @@ summary: |-
   The letter says that the Maharashtra unit intends to continue even after the Swatantra Party at the Centre ceases to exist. Munshi anticipates that people representing the Bharatiya Lok Dal (BLD) may forcibly enter and occupy the offices, potentially causing a breach of the peace. He therefore asks the police to prevent any illegal occupation and to provide a constable at the party's cost. The second page is a handwritten filing note reading “PRESS CUTTINGS” and “R. MERGER F. MARCH”; no substantive press cuttings are visible.
 ---
 
+## Summary
+
+This two-page English letter, dated August 28, 1974, is addressed by Girish Munshi, General Secretary of the Swatantra Party Maharashtra, to the Commissioner of Police, Bombay. Munshi states that the Maharashtra unit has occupied premises at Sassoon Building, 143 Mahatma Gandhi Road, since May 1959, and that the national headquarters was later permitted to use part of the same premises.
+
+The letter says that the Maharashtra unit intends to continue even after the Swatantra Party at the Centre ceases to exist. Munshi anticipates that people representing the Bharatiya Lok Dal (BLD) may forcibly enter and occupy the offices, potentially causing a breach of the peace. He therefore asks the police to prevent any illegal occupation and to provide a constable at the party's cost. The second page is a handwritten filing note reading “PRESS CUTTINGS” and “R. MERGER F. MARCH”; no substantive press cuttings are visible.
+
 ## Key points
 
 - The letter is dated August 28, 1974 and addressed to the Commissioner of Police, Bombay.

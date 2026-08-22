@@ -45,6 +45,10 @@ summary: |-
   This one-page English telegram, sent by A. M. Hegde, conveys greetings to M. R. Masani in connection with a Swatantra Party convention in North Kanara district. It states that the convention is fixed for the 22nd at Sirsi and asks Masani to send his blessings.
 ---
 
+## Summary
+
+This one-page English telegram, sent by A. M. Hegde, conveys greetings to M. R. Masani in connection with a Swatantra Party convention in North Kanara district. It states that the convention is fixed for the 22nd at Sirsi and asks Masani to send his blessings.
+
 ## Key points
 
 - The document is an Indian Posts and Telegraphs Department telegram.

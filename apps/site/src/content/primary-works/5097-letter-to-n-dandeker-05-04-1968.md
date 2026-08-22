@@ -50,6 +50,12 @@ summary: |-
   The typed enclosures focus on the resignations of Minoo Masani and other party figures after the Gujarat elections. They urge Rajaji and the party leadership to convene the General Council, prevent an immediate decision by the National Executive, and restore party discipline. The packet frames the crisis as a test of collective responsibility: its appeal is for deliberation, reconciliation, and adherence to the party constitution rather than for unilateral acceptance of resignations.
 ---
 
+## Summary
+
+This four-page English correspondence packet, dated 5 April 1968 from Gondal, contains a handwritten letter from Miss Kusum Kumari C. Joshi to Mr. N. Dandekar, followed by typed copies of related appeals. Joshi writes that, as a member of the General Council, she is failing in her duty to the party by not requesting a meeting before accepting the resignations, and asks that the National Executive take no action without consulting the General Council. She encloses copies of letters addressed to Rajaji and Professor Ranga, noting that the matter may be decided on 10 April and expressing hope for a favourable result.
+
+The typed enclosures focus on the resignations of Minoo Masani and other party figures after the Gujarat elections. They urge Rajaji and the party leadership to convene the General Council, prevent an immediate decision by the National Executive, and restore party discipline. The packet frames the crisis as a test of collective responsibility: its appeal is for deliberation, reconciliation, and adherence to the party constitution rather than for unilateral acceptance of resignations.
+
 ## Key points
 
 - The sender identifies herself as a member of the Swatantra Party's General Council and objects to proceeding without a prior meeting.

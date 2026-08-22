@@ -46,6 +46,12 @@ summary: |-
   Masani adds that mounting work in Bombay, followed by travel to Delhi for Parliament and then directly to Europe and America, will prevent him from returning to Bombay. He closes by assuring Rajagopalachari that the circumstances will be understood.
 ---
 
+## Summary
+
+In this letter dated 31 July 1963, M. R. Masani informs C. Rajagopalachari that he will fly to Madras on Saturday, 3 August, and return to Bombay the following evening. Masani explains that the postponement of a Bangalore meeting from 5 to 6 August has made it impossible for him to spend two days in Madras and Bangalore as originally intended.
+
+Masani adds that mounting work in Bombay, followed by travel to Delhi for Parliament and then directly to Europe and America, will prevent him from returning to Bombay. He closes by assuring Rajagopalachari that the circumstances will be understood.
+
 ## Key points
 
 - The letter is dated 31 July 1963 and is addressed to C. Rajagopalachari.

@@ -50,6 +50,12 @@ summary: |-
   The statement separately records in-kind assistance valued at Rs 9,07,737: election publicity material supplied through CACO, valued at Rs 4,81,737, and the first instalment for jeeps under hire-purchase, also through CACO, valued at Rs 4,26,000. Its concluding summary gives a grand total of Rs 1,00,13,362.00. The pages do not identify the campaign, recipient, author, issuer, date, or place of preparation.
 ---
 
+## Summary
+
+This three-page confidential statement records cash and in-kind assistance, apparently for an electoral or political campaign. Cash contributions are listed by business affiliation: the Walchand Group, Thackersey Group, Khatau Group, Martin Group, and Tata Group, followed by a longer list of companies, named individuals, business groups, and an anonymous contribution. The document reports total cash receipts of Rs 91,05,625.00.
+
+The statement separately records in-kind assistance valued at Rs 9,07,737: election publicity material supplied through CACO, valued at Rs 4,81,737, and the first instalment for jeeps under hire-purchase, also through CACO, valued at Rs 4,26,000. Its concluding summary gives a grand total of Rs 1,00,13,362.00. The pages do not identify the campaign, recipient, author, issuer, date, or place of preparation.
+
 ## Key points
 
 - The document is marked “Strictly Confidential” and presents a financial statement of assistance received.

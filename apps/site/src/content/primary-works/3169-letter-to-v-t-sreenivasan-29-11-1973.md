@@ -49,6 +49,12 @@ summary: |-
   Raju says that he is now returning most of the enclosures while retaining Sreenivasan's February 1972 letter and a document titled “the stinking allegations.” He describes the intervening political period as one in which new leaders were “sadder but wiser men,” and notes that he is completing fourteen years of service in the Party before joining Minoo Masani's firm, PPS, as a consultant from January 1, 1974. The letter is a brief personal and political record of a leadership transition, unresolved allegations, and Raju's move out of party work.
 ---
 
+## Summary
+
+In this letter dated November 29, 1973, S. V. Raju writes to V. T. Sreenivasan about papers and correspondence sent in February 1972 concerning Raju's departure from the Swatantra Party's general secretaryship, the new team's takeover, and a controversy involving a Trust. Raju explains that he had carefully reviewed the material at the time and had briefed H. M. Patel, but delayed returning the papers for more than a year.
+
+Raju says that he is now returning most of the enclosures while retaining Sreenivasan's February 1972 letter and a document titled “the stinking allegations.” He describes the intervening political period as one in which new leaders were “sadder but wiser men,” and notes that he is completing fourteen years of service in the Party before joining Minoo Masani's firm, PPS, as a consultant from January 1, 1974. The letter is a brief personal and political record of a leadership transition, unresolved allegations, and Raju's move out of party work.
+
 ## Key points
 
 - Raju's letter is dated November 29, 1973 and addressed to V. T. Sreenivasan.

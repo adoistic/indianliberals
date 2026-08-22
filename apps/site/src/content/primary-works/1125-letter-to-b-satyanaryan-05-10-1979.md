@@ -48,6 +48,12 @@ summary: |-
   Masani flatly disowns the claim on three grounds. He never gave such advice; the Swatantra Party has in any case been dissolved, so nobody can stand as its candidate; and he himself "retired from party politics as far back as the early seventies" and now takes little interest in politics. He also politely declines a proposed meeting, telling Satyanarayan there is very little he can add in person to what the letter already says and asking him not to waste energy travelling. The note closes with best wishes and Masani's typed initials "MRM/LP" at the foot.
 ---
 
+## Summary
+
+This single-page typed letter, dated 5 October 1979 and signed by M. R. Masani (Minoo Masani), replies to a Mr. B. Satyanarayan of the Taluk Backward Class & Weaker Section's Association in Narsipatnam (Vizag Dt.). Masani writes to correct what he calls a misimpression on his correspondent's part: Satyanarayan had apparently indicated in a letter of 1 October 1979 that he intended to stand for election on the Swatantra Party label "in accordance with" Masani's advice.
+
+Masani flatly disowns the claim on three grounds. He never gave such advice; the Swatantra Party has in any case been dissolved, so nobody can stand as its candidate; and he himself "retired from party politics as far back as the early seventies" and now takes little interest in politics. He also politely declines a proposed meeting, telling Satyanarayan there is very little he can add in person to what the letter already says and asking him not to waste energy travelling. The note closes with best wishes and Masani's typed initials "MRM/LP" at the foot.
+
 ## Key points
 
 - Personal letter from M. R. Masani to B. Satyanarayan dated 5 October 1979, replying to Satyanarayan's letter of 1 October 1979.

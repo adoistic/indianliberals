@@ -52,6 +52,12 @@ summary: |-
   Masani also asks that the newspaper Jai Hind report his resignation accurately and publish an editorial supporting clean politics in Saurashtra and Gujarat. He proposes that the Yuvraj of Wankaner and Patel, as President and General Secretary of the Party, write to N. Dandekar expressing concern about the Rajkot Swatantra Party's conduct and its effect on the Party's prestige in Saurashtra. The letter closes by suggesting that Masani's resignation may help mitigate the damage to the Party's image and uphold its honour.
 ---
 
+## Summary
+
+In this letter dated 30 March 1958, M. R. Masani asks Ratibhai Ukabhai Patel to ensure that Babubhai Vaidya responds to charges being raised against him before the Party's National Executive meets. Masani says he will not attend personally to contest the accusations because he has resigned from the Party Executive, and asks that Vaidya's letter be placed before the meeting.
+
+Masani also asks that the newspaper Jai Hind report his resignation accurately and publish an editorial supporting clean politics in Saurashtra and Gujarat. He proposes that the Yuvraj of Wankaner and Patel, as President and General Secretary of the Party, write to N. Dandekar expressing concern about the Rajkot Swatantra Party's conduct and its effect on the Party's prestige in Saurashtra. The letter closes by suggesting that Masani's resignation may help mitigate the damage to the Party's image and uphold its honour.
+
 ## Key points
 
 - Masani reports that he has sent Babubhai Vaidya a telegram and wants Vaidya's reply placed before the Party's National Executive.

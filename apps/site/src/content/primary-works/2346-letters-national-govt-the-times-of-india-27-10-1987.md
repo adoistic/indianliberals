@@ -55,6 +55,12 @@ summary: |-
   The letter maintains that a large parliamentary majority does not necessarily provide stability, pointing to elections and public voting patterns as evidence of institutional weakness. It proposes an interim national government lasting six months, potentially including eminent people from outside political parties, followed by fresh elections. In the authors’ view, such an arrangement would create time for politicians to find a new alignment of forces and restore public hope and continuity to Indian democracy. The clipping is in English and is marked “Bombay”; no reliable printed publication date or publisher line is visible.
 ---
 
+## Summary
+
+This published public appeal, signed by M. R. Masani, S. V. Raju, and twelve other signatories, argues that India’s continuing political stalemate and crisis require the establishment of a temporary national government. The writers contend that the government at the Centre has lost credibility and moral legitimacy and is increasingly unable to address drought, terrorism, communalism, and general law and order.
+
+The letter maintains that a large parliamentary majority does not necessarily provide stability, pointing to elections and public voting patterns as evidence of institutional weakness. It proposes an interim national government lasting six months, potentially including eminent people from outside political parties, followed by fresh elections. In the authors’ view, such an arrangement would create time for politicians to find a new alignment of forces and restore public hope and continuity to Indian democracy. The clipping is in English and is marked “Bombay”; no reliable printed publication date or publisher line is visible.
+
 ## Key points
 
 - The signatories appeal for a temporary national government to overcome a political and governmental crisis.

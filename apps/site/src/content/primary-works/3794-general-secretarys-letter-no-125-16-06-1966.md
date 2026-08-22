@@ -50,6 +50,12 @@ summary: |-
   The letter also addresses the formation of Constituency Committees. Where membership enrolment has progressed sufficiently, elections may be held at the constituency level. The resulting committees would be represented on District Committees in the proportion fixed for other constituencies. The document is a practical communication about internal party administration, membership procedures, and representative organisation.
 ---
 
+## Summary
+
+In this one-page office letter dated 16 June 1966, M. R. Masani reports decisions from the 29 May meeting of the General Secretaries of State Units concerning membership renewal and lost worker cards. A worker who has lost a membership card may receive either a replacement card or a receipt to serve in its place until the membership comes up for renewal; a nominal fee may be charged for a duplicate card.
+
+The letter also addresses the formation of Constituency Committees. Where membership enrolment has progressed sufficiently, elections may be held at the constituency level. The resulting committees would be represented on District Committees in the proportion fixed for other constituencies. The document is a practical communication about internal party administration, membership procedures, and representative organisation.
+
 ## Key points
 
 - The letter records decisions taken at a 29 May 1966 meeting of General Secretaries of State Units held in Bombay.

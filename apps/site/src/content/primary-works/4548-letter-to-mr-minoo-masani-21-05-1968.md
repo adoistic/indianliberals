@@ -49,6 +49,10 @@ summary: |-
   This untitled Swatantra Party correspondence, dated 21 May 1968, is from Ratibhai Ukabhai Patel, General Secretary of the Rajkot District Swatantra Party Committee, to H. M. Patel, with a copy sent to Minoo Masani. The letter concerns the party’s handling of allegations against Bhagwanjibhai Patel. Ratibhai reports that an office-bearers’ meeting at Vallabh Vidyanagar had favoured avoiding disciplinary action for fear of damaging party unity, but argues that the investigation report should have been circulated to all members before the Executive Committee meeting scheduled for 27 May 1968.
 ---
 
+## Summary
+
+This untitled Swatantra Party correspondence, dated 21 May 1968, is from Ratibhai Ukabhai Patel, General Secretary of the Rajkot District Swatantra Party Committee, to H. M. Patel, with a copy sent to Minoo Masani. The letter concerns the party’s handling of allegations against Bhagwanjibhai Patel. Ratibhai reports that an office-bearers’ meeting at Vallabh Vidyanagar had favoured avoiding disciplinary action for fear of damaging party unity, but argues that the investigation report should have been circulated to all members before the Executive Committee meeting scheduled for 27 May 1968.
+
 ## Key points
 
 - The correspondence protests the failure to circulate an investigation-committee report concerning Bhagwanjibhai Patel.

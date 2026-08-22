@@ -44,6 +44,12 @@ summary: |-
   The transmitted messages refer to “JAYAPRAKASH” and “JAIPRAKASH,” but the sender is not explicitly identified on the visible forms. The documents show Indian Posts and Telegraphs Department telegram stationery, serial numbers, addresses, stamps, and handwritten processing marks; no legible year is visible.
 ---
 
+## Summary
+
+This two-page English telegram exchange concerns an operation scheduled for 29 April at Vellore. The first telegram tells M. R. Masani that the operation is not serious enough for him to travel all the way from Bombay, while the reply acknowledges Masani's letter and repeats the Vellore arrangements. The forms identify the addressee as M. R. Masani at 148 Mahatma Gandhi Road, Bombay-1.
+
+The transmitted messages refer to “JAYAPRAKASH” and “JAIPRAKASH,” but the sender is not explicitly identified on the visible forms. The documents show Indian Posts and Telegraphs Department telegram stationery, serial numbers, addresses, stamps, and handwritten processing marks; no legible year is visible.
+
 ## Key points
 
 - The document is a two-page exchange on Indian Posts and Telegraphs Department telegram forms.

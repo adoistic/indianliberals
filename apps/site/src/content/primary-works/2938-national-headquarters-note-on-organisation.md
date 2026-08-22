@@ -57,6 +57,12 @@ summary: |-
   The note calls for a renewed affirmation of Swatantra policies and principles, a disciplined cadre-based organisation, mass education in the Party's programme, stronger feeder organisations among farmers, women, and youth, and candidate selection based chiefly on quality and party work. It accepts that such a programme might initially reduce membership, but argues that it would produce a smaller, cleaner, more disciplined, and ideologically motivated party capable of offering an alternative to socialist politics. The note closes by invoking Lenin's observation about the power of an organised minority. The document contains no named human author or signatory.
 ---
 
+## Summary
+
+This three-page National Headquarters' note, dated Bombay, April 12, 1971, diagnoses the Swatantra Party's poor electoral performance as an organisational and ideological failure rather than a rejection of its principles. It argues that the Party's Mid-Term Report was ignored because members pursued short-term power, lacked ideological commitment, and treated recruitment and candidate selection casually. Large-scale defections, last-minute candidacies, and the privileging of electoral numbers over principled organisation are presented as evidence of this problem.
+
+The note calls for a renewed affirmation of Swatantra policies and principles, a disciplined cadre-based organisation, mass education in the Party's programme, stronger feeder organisations among farmers, women, and youth, and candidate selection based chiefly on quality and party work. It accepts that such a programme might initially reduce membership, but argues that it would produce a smaller, cleaner, more disciplined, and ideologically motivated party capable of offering an alternative to socialist politics. The note closes by invoking Lenin's observation about the power of an organised minority. The document contains no named human author or signatory.
+
 ## Key points
 
 - The note attributes the Party's disastrous electoral performance chiefly to organisational weakness and members' reluctance to undertake sustained work.

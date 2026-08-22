@@ -57,3 +57,9 @@ summary: |-
   
   The newsletter also records General Council decisions on membership subscriptions and criticises the Union Budget's excise increases for raising production and living costs. A substantial report follows C. Rajagopalachari's North India tour, reproducing his arguments for freedom, opposition to communism and non-alignment, and the Swatantra Party as an alternative to Congress rule. The closing section advertises Party literature, including works by Rajaji, N. G. Ranga, K. M. Munshi, and M. R. Masani, as well as a comparison between Swatantra principles and those of West Germany's Social Democratic Party.
 ---
+
+## Summary
+
+The March 1960 issue of Swatantra Newsletter, issued by the Central Office of the Swatantra Party, reports on the Party's first National Convention, held in Patna on March 19–20 before more than 700 delegates and a much larger public audience. It describes the adoption of a Party Constitution, the revision of the Statement of Policy, the selection of a white five-pointed star on a blue background as the Party flag, and resolutions on national defence and Tibet. The issue presents the Convention as an open and energetic political gathering, while stressing opposition to communism, economic controls, inflationary deficit financing, and the Congress government's socialist programme.
+
+The newsletter also records General Council decisions on membership subscriptions and criticises the Union Budget's excise increases for raising production and living costs. A substantial report follows C. Rajagopalachari's North India tour, reproducing his arguments for freedom, opposition to communism and non-alignment, and the Swatantra Party as an alternative to Congress rule. The closing section advertises Party literature, including works by Rajaji, N. G. Ranga, K. M. Munshi, and M. R. Masani, as well as a comparison between Swatantra principles and those of West Germany's Social Democratic Party.

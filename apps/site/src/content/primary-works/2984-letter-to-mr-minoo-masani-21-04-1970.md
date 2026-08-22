@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated April 21, 1970, is from P. K. Deo, a Lok Sabha member, to M. R. Masani. Deo discusses whether to ask K. P. to withdraw from the contest for Chief Whip, explaining that he feels constrained because K. P. is his son-in-law. He notes that K. P. has argued that, since Mr. Tribikram Tripathi is junior to him in college yet serves on the National Executive, he too should be considered for the party position, particularly while Mr. Gowd is physically unfit.
 ---
 
+## Summary
+
+This one-page letter, dated April 21, 1970, is from P. K. Deo, a Lok Sabha member, to M. R. Masani. Deo discusses whether to ask K. P. to withdraw from the contest for Chief Whip, explaining that he feels constrained because K. P. is his son-in-law. He notes that K. P. has argued that, since Mr. Tribikram Tripathi is junior to him in college yet serves on the National Executive, he too should be considered for the party position, particularly while Mr. Gowd is physically unfit.
+
 ## Key points
 
 - The letter is dated April 21, 1970, and was sent from P. K. Deo's New Delhi parliamentary address.

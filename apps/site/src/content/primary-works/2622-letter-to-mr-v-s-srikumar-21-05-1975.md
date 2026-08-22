@@ -55,6 +55,12 @@ summary: |-
   The related letters signed by V. S. Srikumar and B. S. Srikumar address the same practical and legal concerns. They propose clarifying the addresses of the General Secretary and national headquarters, seeking certified copies of court orders, and consulting counsel about an interim stay in a writ petition. A separate note concerning Piloo Mody recommends filing a recovery suit and seeking attachment of movable property if the matter is not settled promptly. The packet provides a narrow but concrete view of Swatantra Party correspondence, postal administration, and litigation-related work in 1975.
 ---
 
+## Summary
+
+This four-page correspondence packet from the Swatantra Party National Headquarters in Madras records party administrative and legal difficulties in May 1975. A letter signed by P. Narayan discusses the relocation of the party’s national headquarters from Bombay to Madras and the need to persuade postal authorities to redirect correspondence. The exchange concerns proof of a court stay order relating to the Swatantra Party and an ex-parte decree from the Madras City Civil Court, amid uncertainty over proceedings before the Madras High Court and the Election Commission.
+
+The related letters signed by V. S. Srikumar and B. S. Srikumar address the same practical and legal concerns. They propose clarifying the addresses of the General Secretary and national headquarters, seeking certified copies of court orders, and consulting counsel about an interim stay in a writ petition. A separate note concerning Piloo Mody recommends filing a recovery suit and seeking attachment of movable property if the matter is not settled promptly. The packet provides a narrow but concrete view of Swatantra Party correspondence, postal administration, and litigation-related work in 1975.
+
 ## Key points
 
 - The Swatantra Party’s national headquarters had shifted from Bombay to Madras, creating problems with postal delivery and official correspondence.

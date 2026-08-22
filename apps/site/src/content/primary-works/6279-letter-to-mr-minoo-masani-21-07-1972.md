@@ -51,6 +51,12 @@ summary: |-
   Dubey frames the Swatantra Party's recent setback as only a temporary defeat rather than a final loss. He expresses confidence that further battles will be necessary, but that firm conviction in the party's ideology will ultimately prevail. The letter closes with a renewed appeal for Masani to assume leadership, under which Dubey says the party will be safe.
 ---
 
+## Summary
+
+This single-page English letter, typed on the District Swatantra Party Office, Firozabad letterhead and dated 21 July 1971, is addressed to Minoo Masani. Subhash Chandra Dubey thanks Masani for a letter dated 10 July and praises him for setting a precedent that will inspire public confidence in future generations.
+
+Dubey frames the Swatantra Party's recent setback as only a temporary defeat rather than a final loss. He expresses confidence that further battles will be necessary, but that firm conviction in the party's ideology will ultimately prevail. The letter closes with a renewed appeal for Masani to assume leadership, under which Dubey says the party will be safe.
+
 ## Key points
 
 - The letter is addressed to Minoo Masani and responds to his letter of 10 July 1971.

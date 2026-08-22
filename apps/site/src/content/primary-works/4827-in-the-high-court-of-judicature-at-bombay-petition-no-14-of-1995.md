@@ -57,6 +57,12 @@ summary: |-
   The motion seeks provisional registration of the petitioners as a political party without insisting on compliance with Section 29-A of the Representation of the People Act. In the alternative, it asks for an interim stay restraining the respondents from insisting on that compliance, or for an early final hearing of the writ petition before 30 October 1995. The filing records procedural orders concerning leave to take out the notice of motion, waiver of service, and extension of the returnable date. The rendered pages contain the notice and procedural endorsements, but not the underlying writ petition, supporting affidavit, respondents’ arguments, or the Court’s final determination.
 ---
 
+## Summary
+
+This four-page English court filing is a Notice of Motion No. 30 of 1996 in Writ Petition No. 14 of 1995 before the High Court of Judicature at Bombay. The petitioners are Swatantra Party (Maharashtra), through its General Secretary L. R. Sampat, and S. V. Raju, identified as a citizen of India and editor of Freedom First. The respondents are the Union of India, the Chief Election Commissioner of India, and the Secretary of the Election Commission of India.
+
+The motion seeks provisional registration of the petitioners as a political party without insisting on compliance with Section 29-A of the Representation of the People Act. In the alternative, it asks for an interim stay restraining the respondents from insisting on that compliance, or for an early final hearing of the writ petition before 30 October 1995. The filing records procedural orders concerning leave to take out the notice of motion, waiver of service, and extension of the returnable date. The rendered pages contain the notice and procedural endorsements, but not the underlying writ petition, supporting affidavit, respondents’ arguments, or the Court’s final determination.
+
 ## Key points
 
 - The document is a Bombay High Court Notice of Motion No. 30 of 1996 in Writ Petition No. 14 of 1995.

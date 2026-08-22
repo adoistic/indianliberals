@@ -50,6 +50,12 @@ summary: |-
   Trani rejects the view that electoral numbers or expediency should determine the party's response. He argues instead that Swatantra's reputation depends on decisions taken at higher levels being implemented, cites the DMK's discipline as a comparison, and proposes charge-sheets and further proceedings against those involved. He closes by recommending a serious public stance, warning that failure to learn from the episode would jeopardise the party's future, while noting that Raju would explain the broader background.
 ---
 
+## Summary
+
+In this letter dated 16 April 1968, G. R. Trani writes to Minoo Masani about recent meetings of the Swatantra Party's Central Parliamentary Board and National Executive. Trani says Masani's absence from the National Executive was damaging, criticises the abandonment of a proposed Gujarat Executive suspension and ad hoc committee under Baria, and sets out the arguments he made in defence of party discipline and decisive action against rebellion.
+
+Trani rejects the view that electoral numbers or expediency should determine the party's response. He argues instead that Swatantra's reputation depends on decisions taken at higher levels being implemented, cites the DMK's discipline as a comparison, and proposes charge-sheets and further proceedings against those involved. He closes by recommending a serious public stance, warning that failure to learn from the episode would jeopardise the party's future, while noting that Raju would explain the broader background.
+
 ## Key points
 
 - The letter reports on Central Parliamentary Board and National Executive meetings concerning organisational disputes in Gujarat.

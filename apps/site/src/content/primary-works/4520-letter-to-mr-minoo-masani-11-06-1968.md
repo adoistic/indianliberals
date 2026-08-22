@@ -43,6 +43,10 @@ summary: |-
   This single-page English letter, dated June 11, 1968, was written by Naval H. Tata from Bombay House, Fort, Bombay, to M. P. Masani, addressed familiarly as “Minoo.” Tata acknowledges receipt of Masani’s letter of June 7, 1968, together with its enclosures, and says he will read them over the coming weekend.
 ---
 
+## Summary
+
+This single-page English letter, dated June 11, 1968, was written by Naval H. Tata from Bombay House, Fort, Bombay, to M. P. Masani, addressed familiarly as “Minoo.” Tata acknowledges receipt of Masani’s letter of June 7, 1968, together with its enclosures, and says he will read them over the coming weekend.
+
 ## Key points
 
 - The document is a personal letter dated June 11, 1968.

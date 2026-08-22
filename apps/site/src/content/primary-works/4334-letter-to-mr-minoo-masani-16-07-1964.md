@@ -49,6 +49,12 @@ summary: |-
   A handwritten annotation extends the concern to Bihar, asking whether there is enough time to complete the election process there as well. The note frames the issue as one of administrative timing and state-specific electoral needs. The page is a typed English office letter on Ranga's parliamentary letterhead, with handwritten additions and signature.
 ---
 
+## Summary
+
+In this letter dated 17 June 1964 from Nidubrolu, Prof. N. G. Ranga sends Minoo Masani separate suggestions on election procedure. He asks Masani to consider the proposals carefully and incorporate as many as are practicable into the relevant rules, while giving special attention to Madhya Pradesh, Bengal, and Assam.
+
+A handwritten annotation extends the concern to Bihar, asking whether there is enough time to complete the election process there as well. The note frames the issue as one of administrative timing and state-specific electoral needs. The page is a typed English office letter on Ranga's parliamentary letterhead, with handwritten additions and signature.
+
 ## Key points
 
 - Ranga forwards separate suggestions concerning election procedure.

@@ -49,6 +49,12 @@ summary: |-
   Desai asks Masani to contribute a message or short article to a special memorial issue of the fortnightly journal Vallabh Vidyanagar, requesting the contribution by 15 April. Masani replies that he would be glad to send a few lines but cannot attend the memorial meeting because he is caring for his critically ill mother in hospital. He promises to write about Bhaikaka within a couple of weeks.
 ---
 
+## Summary
+
+This two-page correspondence from April 1970 consists of a 7 April request from Chimanbhai D. Desai of Charutar Vidyamandal and Minoo Masani’s 10 April reply. Desai explains that Bhaikaka—identified as Shri Bhailalbhai D. Patel, founder of the Educational Township and the University in Vallabh Vidyanagar and a founding leader of the Gujarat Swatantra Party—died on 31 March 1970. He describes the death as a major loss to the country, Gujarat, and Vallabh Vidyanagar.
+
+Desai asks Masani to contribute a message or short article to a special memorial issue of the fortnightly journal Vallabh Vidyanagar, requesting the contribution by 15 April. Masani replies that he would be glad to send a few lines but cannot attend the memorial meeting because he is caring for his critically ill mother in hospital. He promises to write about Bhaikaka within a couple of weeks.
+
 ## Key points
 
 - Charutar Vidyamandal invited Minoo Masani to contribute to a special memorial issue for Bhaikaka.

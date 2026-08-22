@@ -47,6 +47,10 @@ summary: |-
   In this brief personal letter dated 21 August 1963, C. Rajagopalachari writes from Madras to M. R. Masani, General Secretary of the Swatantra Party, expressing appreciation for Masani's speech on a no-confidence motion. Rajagopalachari reports that “Ranga” had also written a very appreciative letter about the speech. The page includes Rajagopalachari's handwritten signature and an additional handwritten note, but the note is not fully legible.
 ---
 
+## Summary
+
+In this brief personal letter dated 21 August 1963, C. Rajagopalachari writes from Madras to M. R. Masani, General Secretary of the Swatantra Party, expressing appreciation for Masani's speech on a no-confidence motion. Rajagopalachari reports that “Ranga” had also written a very appreciative letter about the speech. The page includes Rajagopalachari's handwritten signature and an additional handwritten note, but the note is not fully legible.
+
 ## Key points
 
 - The letter is dated 21 August 1963 and is written on C. Rajagopalachari's Madras letterhead.

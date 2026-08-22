@@ -50,6 +50,12 @@ summary: |-
   The letter also records the Commission’s decision regarding party symbols. The symbols “STAR,” “Haldhar” and “Water wheel and plough,” previously reserved for the three merging parties, are to be frozen. To prevent confusion among voters, the Commission further directs that no political organisation seeking registration under the symbols order should use the same or a similar name to the Swatantra Party, Bharatiya Kranti Dal, or Utkal Congress.
 ---
 
+## Summary
+
+This two-page official letter, dated 8 January 1975, is addressed to Girish Munshi and concerns the merger of the Swatantra Party, Bharatiya Kranti Dal, and Utkal Congress into a new party named the Bharatiya Lok Dal. K. Ganesan, Under Secretary (Legal) in the Secretariat of the Election Commission of India, reports that the Commission has already recognised the Bharatiya Lok Dal as a National Party under the Elections Symbols (Reservation and Allotment) Order, 1968.
+
+The letter also records the Commission’s decision regarding party symbols. The symbols “STAR,” “Haldhar” and “Water wheel and plough,” previously reserved for the three merging parties, are to be frozen. To prevent confusion among voters, the Commission further directs that no political organisation seeking registration under the symbols order should use the same or a similar name to the Swatantra Party, Bharatiya Kranti Dal, or Utkal Congress.
+
 ## Key points
 
 - The letter is dated 8 January 1975 and bears reference number 56/25/74/128.

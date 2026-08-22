@@ -53,6 +53,12 @@ summary: |-
   The writer argues that opposition cooperation should develop incrementally: first through mutual understanding and joint action on common issues, and eventually through agreement to speak with one voice in Parliament on defence, good government, taxation, and inflation. The letter also reassures Masani—and asks that Rajaji be reassured—that participation in the joint opposition group does not represent the writer’s views in their entirety. Public statements are described as compromises among participating parties, with the writer’s role being to prevent ideas contrary to their principles from entering the common platform while preserving the unity of the front.
 ---
 
+## Summary
+
+This two-page letter, dated 19 June 1963 and written on Swatantra Party letterhead, explains the circumstances behind a joint appeal by the Praja Socialist Party and Jana Sangh representatives. The writer says the appeal was intended to provide a basis for cooperation, especially around “Resolute Defence,” without compromising the parties’ principles or restricting future arrangements. The letter suggests that the joint-front initiative was motivated partly by electoral setbacks and the need to prevent opposition votes from being divided.
+
+The writer argues that opposition cooperation should develop incrementally: first through mutual understanding and joint action on common issues, and eventually through agreement to speak with one voice in Parliament on defence, good government, taxation, and inflation. The letter also reassures Masani—and asks that Rajaji be reassured—that participation in the joint opposition group does not represent the writer’s views in their entirety. Public statements are described as compromises among participating parties, with the writer’s role being to prevent ideas contrary to their principles from entering the common platform while preserving the unity of the front.
+
 ## Key points
 
 - The joint letter was written at the insistence of Praja Socialist Party and Jana Sangh representatives.

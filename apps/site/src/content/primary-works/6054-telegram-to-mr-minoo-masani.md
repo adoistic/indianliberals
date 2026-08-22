@@ -43,6 +43,10 @@ summary: |-
   This single-page English telegram, sent from New Delhi and dated only as “9 16” on the form, is addressed to M. R. Masani at 148 Mahatma Gandhi Road, Bombay. Its message confirms a dinner appointment for 25 April and ends with the name “JAYAPARKASH,” apparently identifying the sender or arranging party, though the form does not explicitly label the sender.
 ---
 
+## Summary
+
+This single-page English telegram, sent from New Delhi and dated only as “9 16” on the form, is addressed to M. R. Masani at 148 Mahatma Gandhi Road, Bombay. Its message confirms a dinner appointment for 25 April and ends with the name “JAYAPARKASH,” apparently identifying the sender or arranging party, though the form does not explicitly label the sender.
+
 ## Key points
 
 - The document is a single-page Indian Posts and Telegraphs Department telegram form.

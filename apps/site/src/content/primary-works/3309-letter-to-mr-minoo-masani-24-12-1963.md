@@ -50,6 +50,12 @@ summary: |-
   Ranga proposes that a comprehensive report on the Parliamentary Party's work be prepared by Jain and signed by Masani and Kapoor Sahib, then circulated among the approximately 150 members of the General Council. He outlines travel plans to attend the Q.M.S. tour and to visit Bombay, asks Masani to arrange a Gujarat tour in mid-January, and closes with New Year greetings. The summary is based on the complete two-page letter; no pages are missing from this item.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 24 December 1963 and written by Prof. N. G. Ranga from Nidubrolu to Minoo Masani, discusses several organisational and political matters concerning the Swatantra Party. Ranga reports that the Rajah of Rampur has agreed to settle a bank-loan dispute involving an outstanding claim and asks Masani to help ensure that the matter is resolved amicably. He also discusses funding for Jain's role in the Jaipur municipal elections and notes that the available amount may not cover Jain's expenses.
+
+Ranga proposes that a comprehensive report on the Parliamentary Party's work be prepared by Jain and signed by Masani and Kapoor Sahib, then circulated among the approximately 150 members of the General Council. He outlines travel plans to attend the Q.M.S. tour and to visit Bombay, asks Masani to arrange a Gujarat tour in mid-January, and closes with New Year greetings. The summary is based on the complete two-page letter; no pages are missing from this item.
+
 ## Key points
 
 - Ranga reports progress toward settling a bank-loan claim involving the Rajah of Rampur.

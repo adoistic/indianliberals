@@ -51,6 +51,12 @@ summary: |-
   The letter also outlines the administrative scrutiny required before units can participate in the elections. State offices are instructed to maintain completed workers’ and life-workers’ registers, enrolment forms, membership records, constituency-level breakdowns, lists of unenrolled primary areas, and accounts showing the allocation of subscriptions among party units. M. R. Masani stresses that the 30 June deadline for receipt of registers and subscription quotas is final and warns that units failing to comply will be excluded from the electoral process.
 ---
 
+## Summary
+
+Dated 21 March 1967, this General Secretary’s Letter from the Swatantra Party Central Office communicates a timetable adopted by the National Executive for internal party elections. It sets deadlines from worker and life-worker enrolment through constituency, district, state, and General Council elections, culminating in the election and assumption of office of a new National Executive on 15 November 1967.
+
+The letter also outlines the administrative scrutiny required before units can participate in the elections. State offices are instructed to maintain completed workers’ and life-workers’ registers, enrolment forms, membership records, constituency-level breakdowns, lists of unenrolled primary areas, and accounts showing the allocation of subscriptions among party units. M. R. Masani stresses that the 30 June deadline for receipt of registers and subscription quotas is final and warns that units failing to comply will be excluded from the electoral process.
+
 ## Key points
 
 - The National Executive adopted the party-election timetable at its New Delhi meeting on 15 March 1967.

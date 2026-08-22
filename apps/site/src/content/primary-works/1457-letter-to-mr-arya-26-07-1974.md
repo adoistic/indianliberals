@@ -48,6 +48,12 @@ summary: |-
   The letter notes that Raju would reach New Delhi on the evening of August 3 and includes a copy notation addressed to Raju at the Personnel & Productivity Service, 148 M. G. Road, Bombay-1. No broader political or ideological argument appears in the rendered page.
 ---
 
+## Summary
+
+This one-page English office letter, dated July 26, 1974, is written on Swatantra Party Delhi Pradesh letterhead and signed by M. R. Arya, identified as General Secretary. It requests the Manager of the Central Court Hotel, Connaught Circus, New Delhi, to reserve one non-air-conditioned double-bed room for S. V. Raju and K. H. Subramaniam from August 3 through August 6, 1974.
+
+The letter notes that Raju would reach New Delhi on the evening of August 3 and includes a copy notation addressed to Raju at the Personnel & Productivity Service, 148 M. G. Road, Bombay-1. No broader political or ideological argument appears in the rendered page.
+
 ## Key points
 
 - The document is dated July 26, 1974.

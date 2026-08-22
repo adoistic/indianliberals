@@ -50,6 +50,12 @@ summary: |-
   Masani asks Sinha to return the papers to the Regional Transport Officer and to prevent further notices being sent to him. The enclosed letter of 18 February 1986 repeats the denial of ownership and possession, identifies a bill for Rs. 1,814.00, and requests relief from repeated demands. The document presents a narrowly focused administrative complaint about erroneous regulatory action, unwanted official correspondence, and the burden imposed on a person who denies liability.
 ---
 
+## Summary
+
+In this letter dated 23 February 1987, M. R. Masani writes to Mr. Sinha, the Collector of Bombay, objecting to the delivery of a notice concerning vehicle No. MRG 2347. Masani states that the notice, dated 23 August 1985, was more than a year and a half old when delivered, and that the vehicle had never belonged to him. He refers to repeated correspondence with the Regional Transport Officer explaining that the bill concerned jeeps formerly owned by the Swatantra Party and sold by the party in 1967.
+
+Masani asks Sinha to return the papers to the Regional Transport Officer and to prevent further notices being sent to him. The enclosed letter of 18 February 1986 repeats the denial of ownership and possession, identifies a bill for Rs. 1,814.00, and requests relief from repeated demands. The document presents a narrowly focused administrative complaint about erroneous regulatory action, unwanted official correspondence, and the burden imposed on a person who denies liability.
+
 ## Key points
 
 - Masani rejects responsibility for a notice concerning vehicle No. MRG 2347.

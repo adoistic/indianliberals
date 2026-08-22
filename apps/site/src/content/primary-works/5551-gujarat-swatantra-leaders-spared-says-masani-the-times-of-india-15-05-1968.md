@@ -48,6 +48,12 @@ summary: |-
   Under the subheading “COMMITTEE’S FAILURE,” the report says Masani criticised the committee for failing to investigate the conduct of the President and general secretary of the Gujarat State unit and certain members of Parliament. He argued that the committee had targeted lesser figures while sparing senior leaders, and said he could serve the party more effectively outside the national executive by devoting himself to constructive work.
 ---
 
+## Summary
+
+This Times of India report, dated 15 May 1968, describes statements by M. R. Masani, former general secretary of the Swatantra Party in Bombay, concerning the party’s handling of certain Gujarat leaders’ conduct during Rajya Sabha elections. Masani said the national executive had decided not to take serious disciplinary action against them, despite allegations that they had acted against the party’s candidate.
+
+Under the subheading “COMMITTEE’S FAILURE,” the report says Masani criticised the committee for failing to investigate the conduct of the President and general secretary of the Gujarat State unit and certain members of Parliament. He argued that the committee had targeted lesser figures while sparing senior leaders, and said he could serve the party more effectively outside the national executive by devoting himself to constructive work.
+
 ## Key points
 
 - M. R. Masani criticised the Swatantra Party’s national executive over its treatment of Gujarat leaders.

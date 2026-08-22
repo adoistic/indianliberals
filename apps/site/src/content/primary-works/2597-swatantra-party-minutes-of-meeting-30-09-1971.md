@@ -53,6 +53,12 @@ summary: |-
   The more substantive decisions concern party discipline, finances, and administration. After reviewing an Election Tribunal order and objections from several office-bearers, the committee unanimously recommended rejecting M. A. Rizvi’s application for readmission as a party worker. It approved an estimated expenditure statement for the next twelve months, acknowledged that the party’s financial position was unsound, and authorised the treasurers to explore fundraising. Two resolutions were unanimously passed: one expressing appreciation for former Bombay Region president Lalchand Hirachand, and another specifying the authorised signatories for the party’s Union Bank of India accounts. The next executive committee meeting was scheduled for 22 October 1971.
 ---
 
+## Summary
+
+These four pages record the proceedings of the Swatantra Party’s Bombay Region Executive Committee meeting held at the Party Office on 30 September 1971. The minutes list 16 attendees, confirm the previous meeting’s minutes, and document routine organisational decisions, including the proposed appointment of an office secretary, the formation of a parliamentary board, and the handling of a vacancy in the Bandra Primary Unit Committee. The committee also created a screening committee to examine applications for enrolment as party workers, with scrutiny to be completed within ten days and meetings held twice monthly.
+
+The more substantive decisions concern party discipline, finances, and administration. After reviewing an Election Tribunal order and objections from several office-bearers, the committee unanimously recommended rejecting M. A. Rizvi’s application for readmission as a party worker. It approved an estimated expenditure statement for the next twelve months, acknowledged that the party’s financial position was unsound, and authorised the treasurers to explore fundraising. Two resolutions were unanimously passed: one expressing appreciation for former Bombay Region president Lalchand Hirachand, and another specifying the authorised signatories for the party’s Union Bank of India accounts. The next executive committee meeting was scheduled for 22 October 1971.
+
 ## Key points
 
 - The Bombay Region Executive Committee met on 30 September 1971 with 16 members present.

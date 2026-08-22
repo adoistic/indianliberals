@@ -49,6 +49,10 @@ summary: |-
   Central Office Circular No. 44, dated 11 February 1966, is an internal Swatantra Party communication issued from Bombay and signed by Executive Secretary S. V. Raju. It follows Circular No. 43 of 10 February and informs party units that copies of a cartoon strip have been enclosed for use during Anti-excessive Taxation Day on 20 February.
 ---
 
+## Summary
+
+Central Office Circular No. 44, dated 11 February 1966, is an internal Swatantra Party communication issued from Bombay and signed by Executive Secretary S. V. Raju. It follows Circular No. 43 of 10 February and informs party units that copies of a cartoon strip have been enclosed for use during Anti-excessive Taxation Day on 20 February.
+
 ## Key points
 
 - The document is an internal Swatantra Party central-office circular.

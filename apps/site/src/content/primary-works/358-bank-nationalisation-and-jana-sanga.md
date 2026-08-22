@@ -55,6 +55,10 @@ summary: |-
   This pamphlet by Girish Mishra presents an emphatic defence of the 1969 nationalisation of fourteen major private commercial banks and an extended attack on the Jana Sangh’s opposition to the measure. Mishra argues that nationalisation fulfilled a long-standing Congress commitment and was necessary after the failure of “social control” over private banks. He portrays private banking as closely tied to monopolist business houses, which allegedly directed credit toward industry, commerce, speculation, and metropolitan interests while neglecting agriculture, small industry, rural areas, and ordinary depositors. The pamphlet cites figures on deposits, advances, agricultural credit, and bank profits to support this case.
 ---
 
+## Summary
+
+This pamphlet by Girish Mishra presents an emphatic defence of the 1969 nationalisation of fourteen major private commercial banks and an extended attack on the Jana Sangh’s opposition to the measure. Mishra argues that nationalisation fulfilled a long-standing Congress commitment and was necessary after the failure of “social control” over private banks. He portrays private banking as closely tied to monopolist business houses, which allegedly directed credit toward industry, commerce, speculation, and metropolitan interests while neglecting agriculture, small industry, rural areas, and ordinary depositors. The pamphlet cites figures on deposits, advances, agricultural credit, and bank profits to support this case.
+
 ## Key points
 
 - The pamphlet supports the July 1969 Banking Companies Ordinance and the takeover of fourteen major commercial banks.

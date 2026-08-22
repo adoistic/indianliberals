@@ -51,6 +51,10 @@ summary: |-
   This single-page letter, dated June 10, 1963, was sent from the Swatantra Party Parliamentary Office by A. P. Jain to M. R. Masani. Jain encloses press comments on the Rajkot elections and Dr. Rammanohar Lohia’s interview in Blitz, drawing particular attention to Lohia’s account of a parliamentary dispute over Hindi and English. The letter presents Lohia as seeking cooperation with opposition parties despite their differing political programmes.
 ---
 
+## Summary
+
+This single-page letter, dated June 10, 1963, was sent from the Swatantra Party Parliamentary Office by A. P. Jain to M. R. Masani. Jain encloses press comments on the Rajkot elections and Dr. Rammanohar Lohia’s interview in Blitz, drawing particular attention to Lohia’s account of a parliamentary dispute over Hindi and English. The letter presents Lohia as seeking cooperation with opposition parties despite their differing political programmes.
+
 ## Key points
 
 - A. P. Jain forwards press comments concerning the Rajkot elections and Lohia’s interview in Blitz.

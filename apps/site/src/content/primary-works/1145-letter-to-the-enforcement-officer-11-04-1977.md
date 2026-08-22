@@ -48,6 +48,12 @@ summary: |-
   The more pointed part of the letter turns political. Chandiramani observes that since all the Emergencies, internal as well as external, have now been lifted, he cannot see why an enquiry rooted in a 1971 Emergency-era foreign-exchange provision should still be pursued against a defunct firm. He requests an expedited reply and marks a copy of the letter to Shri M. R. Masani's 'Watch-Dog' Cell of the Janata Party in Bombay — evidently as a channel of political redress in the immediate post-Emergency months. The second rendered page is the reverse of the mailing envelope, hand-addressed and bearing a Bombay postal cancellation, which confirms the letter was actually posted.
 ---
 
+## Summary
+
+This is a short typewritten letter dated 11 April 1977 from Shri Gobindram M. Chandiramani of Borivali (East), Bombay, addressed to the Chief Enforcement Officer at the Ministry of Finance, Government of India, care of the Maharashtra Chamber of Commerce at Rampart Row, Fort. Written in reply to a post-card enquiry (Ref. ERI/EO/57/FINA/5080 dated 31 March 1977), the letter states that the writer's concern, Rollins Electrical Works, was closed down and the Enforcement Directorate was so informed in 1974; there is therefore no question of furnishing balance sheets or other documents, and the writer asks that the matter be treated as closed.
+
+The more pointed part of the letter turns political. Chandiramani observes that since all the Emergencies, internal as well as external, have now been lifted, he cannot see why an enquiry rooted in a 1971 Emergency-era foreign-exchange provision should still be pursued against a defunct firm. He requests an expedited reply and marks a copy of the letter to Shri M. R. Masani's 'Watch-Dog' Cell of the Janata Party in Bombay — evidently as a channel of political redress in the immediate post-Emergency months. The second rendered page is the reverse of the mailing envelope, hand-addressed and bearing a Bombay postal cancellation, which confirms the letter was actually posted.
+
 ## Key points
 
 - Two-page item: a one-page typewritten letter dated 11 April 1977 plus one page showing the reverse of the mailing envelope with a Bombay postmark.

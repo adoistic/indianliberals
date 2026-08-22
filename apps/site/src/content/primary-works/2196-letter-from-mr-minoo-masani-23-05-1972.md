@@ -49,6 +49,10 @@ summary: |-
   In this letter dated 23 May 1972, M. R. Masani responds to Mr. R. N. Rustonji's concern about India's deteriorating political situation. Masani rejects the suggestion that he has become silent or passive since the 1971 parliamentary election, explaining that he retired from the presidency of the Swatantra Party for reasons he says subsequent developments have vindicated. He presents himself as continuing to promote liberal principles and basic civic education.
 ---
 
+## Summary
+
+In this letter dated 23 May 1972, M. R. Masani responds to Mr. R. N. Rustonji's concern about India's deteriorating political situation. Masani rejects the suggestion that he has become silent or passive since the 1971 parliamentary election, explaining that he retired from the presidency of the Swatantra Party for reasons he says subsequent developments have vindicated. He presents himself as continuing to promote liberal principles and basic civic education.
+
 ## Key points
 
 - Masani acknowledges concern about the state of affairs in India and the country's movement toward disaster.

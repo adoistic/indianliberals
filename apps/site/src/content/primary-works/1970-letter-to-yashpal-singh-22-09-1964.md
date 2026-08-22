@@ -49,6 +49,12 @@ summary: |-
   The attached extract from the September 10, 1964, Executive Committee minutes supplies the Group’s account of the seating dispute. It says the plan was unanimously approved, that Singh objected to being assigned a fourth-bench seat, and that C. L. N. Reddy offered to surrender his third-bench seat in Singh’s favour. The document states that Singh declined that alternative seat and concludes that blaming Masani for the rearrangement was inappropriate.
 ---
 
+## Summary
+
+This two-page office letter, dated September 22, 1964, records the Swatantra Party Parliamentary Group’s response to Yashpal Singh’s resignation. Signed by P. N. Solanki, Secretary of the Group, it states that the Executive Committee considered Singh’s allegations against Deputy Leader M. R. Masani to be wholly baseless. The letter explains that a revised parliamentary seating plan placed P. K. Deo next to the Deputy Leader, while the Speaker could not provide the Party with a third seat on the second bench.
+
+The attached extract from the September 10, 1964, Executive Committee minutes supplies the Group’s account of the seating dispute. It says the plan was unanimously approved, that Singh objected to being assigned a fourth-bench seat, and that C. L. N. Reddy offered to surrender his third-bench seat in Singh’s favour. The document states that Singh declined that alternative seat and concludes that blaming Masani for the rearrangement was inappropriate.
+
 ## Key points
 
 - The letter responds to Yashpal Singh’s resignation from the Swatantra Party Parliamentary Group.

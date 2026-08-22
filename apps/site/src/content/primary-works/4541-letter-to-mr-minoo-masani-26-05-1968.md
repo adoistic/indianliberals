@@ -49,6 +49,10 @@ summary: |-
   This two-page letter, written from the Swatantra Party Rajkot District Office and dated 26 May 1968, is addressed to Minoo Masani. The sender forwards a press clipping concerning Masani’s letter to Mr. Dandekar and his reported decision not to withdraw from the National Executive. The sender explains that, after being away from Rajkot on party work, they could not remain for a meeting and had instead tried to persuade Masani to publish the press release.
 ---
 
+## Summary
+
+This two-page letter, written from the Swatantra Party Rajkot District Office and dated 26 May 1968, is addressed to Minoo Masani. The sender forwards a press clipping concerning Masani’s letter to Mr. Dandekar and his reported decision not to withdraw from the National Executive. The sender explains that, after being away from Rajkot on party work, they could not remain for a meeting and had instead tried to persuade Masani to publish the press release.
+
 ## Key points
 
 - The letter is addressed to Minoo Masani and dated 26 May 1968.

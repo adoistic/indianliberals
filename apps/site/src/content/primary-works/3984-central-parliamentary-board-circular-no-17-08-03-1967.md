@@ -51,6 +51,12 @@ summary: |-
   The document is an internal administrative communication rather than a statement of policy. It is signed by M. R. Masani in his capacity as General Secretary and is issued as Central Parliamentary Board Circular No. 17.
 ---
 
+## Summary
+
+This one-page Swatantra Party Central Office circular, dated March 8, 1967, informs a party colleague that the Central Parliamentary Board may need to meet on March 15 or the morning of March 16 if urgent business arises. Because recipients are already expected to be in Delhi for the National Executive meeting on March 15, the circular asks them to remain in the city on the morning of March 16 in case the additional meeting becomes necessary.
+
+The document is an internal administrative communication rather than a statement of policy. It is signed by M. R. Masani in his capacity as General Secretary and is issued as Central Parliamentary Board Circular No. 17.
+
 ## Key points
 
 - The circular is issued by the Swatantra Party Central Office in Bombay.

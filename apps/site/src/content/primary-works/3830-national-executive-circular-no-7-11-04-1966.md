@@ -52,6 +52,12 @@ summary: |-
   The circular does not provide an agenda, venue, or meeting time. Instead, it states that these details will follow later and asks recipients to keep themselves free on the specified date.
 ---
 
+## Summary
+
+This one-page English office circular, issued on Swatantra Party Central Office letterhead on April 11, 1966, gives advance notice of a meeting of the party's National Executive. Signed by General Secretary M. R. Masani, it announces that the meeting will take place in Bombay on Sunday, May 15, 1966.
+
+The circular does not provide an agenda, venue, or meeting time. Instead, it states that these details will follow later and asks recipients to keep themselves free on the specified date.
+
 ## Key points
 
 - The document is headed "NATIONAL EXECUTIVE CIRCULAR NO 7."

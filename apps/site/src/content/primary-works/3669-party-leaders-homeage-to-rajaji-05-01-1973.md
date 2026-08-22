@@ -51,6 +51,12 @@ summary: |-
   The clipping records tributes from leaders across party lines. Congress (O) president Sadiq Ali called Rajaji both a great Indian and a world citizen; Jana Sangh leader Balraj Madhok recalled Rajaji’s 1963 proposal to merge the Jana Sangh and Swatantra parties; Swatantra Party leader Dayabhai Patel praised his simplicity and ideals; and Madhu Dandavate of the Socialist Party described him as a great democrat. The clipping does not identify the newspaper or publication in which the PTI report appeared.
 ---
 
+## Summary
+
+This one-page English PTI news clipping, datelined New Delhi, January 4, 1973, reports tributes paid to the recently deceased C. Rajagopalachari (Rajaji) at a condolence meeting addressed by leaders of several political parties. Acharya Kripalani described Rajaji as a liberal in the best sense of the term, an embodiment of simple living and high thinking, and a person of universal interests.
+
+The clipping records tributes from leaders across party lines. Congress (O) president Sadiq Ali called Rajaji both a great Indian and a world citizen; Jana Sangh leader Balraj Madhok recalled Rajaji’s 1963 proposal to merge the Jana Sangh and Swatantra parties; Swatantra Party leader Dayabhai Patel praised his simplicity and ideals; and Madhu Dandavate of the Socialist Party described him as a great democrat. The clipping does not identify the newspaper or publication in which the PTI report appeared.
+
 ## Key points
 
 - The clipping reports a condolence meeting in New Delhi honouring the late C. Rajagopalachari.

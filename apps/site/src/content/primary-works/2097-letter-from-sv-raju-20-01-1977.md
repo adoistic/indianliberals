@@ -48,6 +48,10 @@ summary: |-
   This one-page English telegram from S. V. Raju, dated 20 January 1977, regrets that he cannot attend an unspecified engagement. Raju attributes his absence to the short notice and to other commitments. The message is addressed to V. S. Srikumar and identifies Raju as Joint Secretary of the Swatantra Party; a confirmatory copy was subsequently sent by post to Srikumar in his capacity as Joint Secretary of the All India Swatantra Party.
 ---
 
+## Summary
+
+This one-page English telegram from S. V. Raju, dated 20 January 1977, regrets that he cannot attend an unspecified engagement. Raju attributes his absence to the short notice and to other commitments. The message is addressed to V. S. Srikumar and identifies Raju as Joint Secretary of the Swatantra Party; a confirmatory copy was subsequently sent by post to Srikumar in his capacity as Joint Secretary of the All India Swatantra Party.
+
 ## Key points
 
 - S. V. Raju sends a telegram regretting that he cannot attend.

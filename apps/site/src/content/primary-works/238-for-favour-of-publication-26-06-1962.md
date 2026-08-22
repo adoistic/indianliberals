@@ -56,6 +56,12 @@ summary: |-
   Masani attributes the Swatantra Party’s limited reach to organisational weakness and inadequate resources, rather than to the irrelevance of its principles. He describes its programme as a defence of individual liberty, constitutional rights, liberalism, and Gandhian ideas, while contrasting it with communist authoritarianism and the Congress party’s electoral dominance. The statement proposes earlier and more provisional candidate selection, strict standards of integrity, grassroots organisation, a broad social base, party discipline, and small contributions from large numbers of middle- and lower-income supporters. It also advocates electoral reforms such as proportional representation or the alternative vote to prevent distorted majorities and reduce inter-party contests.
 ---
 
+## Summary
+
+This two-page press statement, dated Ahmedabad, June 26, 1962, reports M. R. Masani’s discussion of the role and prospects of political parties, with particular attention to the Swatantra Party and the 1962 general elections. Masani argues that a party is a means rather than an end, rejects both one-party domination and excessive party indiscipline, and presents the central political challenge as creating an effective democratic opposition capable of winning public confidence through competence, integrity, and good government.
+
+Masani attributes the Swatantra Party’s limited reach to organisational weakness and inadequate resources, rather than to the irrelevance of its principles. He describes its programme as a defence of individual liberty, constitutional rights, liberalism, and Gandhian ideas, while contrasting it with communist authoritarianism and the Congress party’s electoral dominance. The statement proposes earlier and more provisional candidate selection, strict standards of integrity, grassroots organisation, a broad social base, party discipline, and small contributions from large numbers of middle- and lower-income supporters. It also advocates electoral reforms such as proportional representation or the alternative vote to prevent distorted majorities and reduce inter-party contests.
+
 ## Key points
 
 - Masani presents political parties as instruments for democratic purposes rather than ends in themselves.

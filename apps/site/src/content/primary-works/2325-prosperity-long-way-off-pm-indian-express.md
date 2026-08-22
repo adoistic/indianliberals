@@ -49,6 +49,12 @@ summary: |-
   Addressing students from Pondicherry and Madras, Gandhi acknowledged that government efforts had not yet met the expectations of young people. She urged them not to become restless or to engage in destructive acts against public property. The second rendered page is a separate typed document concerning recruitment-service fees and selection staff; it does not belong to this newspaper clipping.
 ---
 
+## Summary
+
+This newspaper clipping reports remarks by Prime Minister Indira Gandhi at a rally in New Delhi on September 17. She argued that national prosperity is a slow evolutionary process, occurring over centuries and involving hardship, but said that India could not abandon the march of progress. Falling behind in the modern world, she warned, would expose a country to serious risks to its independence.
+
+Addressing students from Pondicherry and Madras, Gandhi acknowledged that government efforts had not yet met the expectations of young people. She urged them not to become restless or to engage in destructive acts against public property. The second rendered page is a separate typed document concerning recruitment-service fees and selection staff; it does not belong to this newspaper clipping.
+
 ## Key points
 
 - Indira Gandhi describes national prosperity as a slow process unfolding over centuries.

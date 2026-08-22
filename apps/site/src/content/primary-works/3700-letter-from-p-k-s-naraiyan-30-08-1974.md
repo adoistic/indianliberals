@@ -50,6 +50,12 @@ summary: |-
   The letter is signed by P.K.S. Naraiyan on behalf of the Under Secretary and is issued on the Election Commission Secretariat's New Delhi letterhead. Its subject line, “Swatantra Party- regarding,” places the document within the administrative record of the party during 1974, but the single page provides no further detail about the matter under correspondence.
 ---
 
+## Summary
+
+This one-page official letter from the Election Commission of India, dated 30 August 1974, concerns the Swatantra Party. Addressed to the party's General Secretary in Bombay, it acknowledges receipt of a letter dated 23 August 1974 on the same subject. The document does not state the substance of either the party's earlier letter or the Election Commission's position beyond acknowledging receipt.
+
+The letter is signed by P.K.S. Naraiyan on behalf of the Under Secretary and is issued on the Election Commission Secretariat's New Delhi letterhead. Its subject line, “Swatantra Party- regarding,” places the document within the administrative record of the party during 1974, but the single page provides no further detail about the matter under correspondence.
+
 ## Key points
 
 - The document is an official Election Commission of India letter dated 30 August 1974.

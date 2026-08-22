@@ -47,6 +47,12 @@ summary: |-
   Masani explains that he will be in Delhi from 16 November onward and hopes to see Basant Singh there. He also notes that they are due to meet in Hyderabad on 9 December. The letter is a brief item of political correspondence concerning the early activities and personal coordination of the Swatantra Party.
 ---
 
+## Summary
+
+In this one-page letter dated 9 November 1959, Minoo Masani thanks Sardar Basant Singh for his letter of 30 October and expresses pleasure at the success of the Patiala Convention. Masani says he had already heard about the convention from Professor Ranga while travelling with Rajaji in Madras the previous week.
+
+Masani explains that he will be in Delhi from 16 November onward and hopes to see Basant Singh there. He also notes that they are due to meet in Hyderabad on 9 December. The letter is a brief item of political correspondence concerning the early activities and personal coordination of the Swatantra Party.
+
 ## Key points
 
 - Masani writes to Sardar Basant Singh on 9 November 1959.

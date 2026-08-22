@@ -52,6 +52,12 @@ summary: |-
   Masani also advises that his Bombay office will send relevant literature. An internal instruction at the foot of the sheet asks Mr. H. Mehta to mail the Bombay Convention Handbook, the “Who is outdated?” folder, and a Swatantra Services Centre folder to the Israeli party, and to add it to the mailing list for future material.
 ---
 
+## Summary
+
+In this letter dated 1 December 1959, M. R. Masani thanks Moshe Kol for his earlier correspondence and greetings, and says he will pass Kol’s message to Professor Langa. Masani expresses hope that their two parties will maintain close contact, reports that he has heard the Progressive Party in Israel performed fairly well in recent elections, and notes that Kol had spoken positively of Masani’s group.
+
+Masani also advises that his Bombay office will send relevant literature. An internal instruction at the foot of the sheet asks Mr. H. Mehta to mail the Bombay Convention Handbook, the “Who is outdated?” folder, and a Swatantra Services Centre folder to the Israeli party, and to add it to the mailing list for future material.
+
 ## Key points
 
 - Masani replies to Moshe Kol’s letter of 28 October 1959.

@@ -56,6 +56,12 @@ summary: |-
   Masani identifies one dependable relationship: some measure of political stability is necessary for economic progress, whether under a parliament or a military regime. Beyond that, he argues that economic development and political stability can exist independently and should be pursued as separate, intrinsically desirable objectives. His practical prescription is a liberal “free competitive economy” alongside parliamentary democracy, with the state acting as an impartial referee rather than an economic participant. The essay concludes by urging Indian liberals to defend freedom, private property, competitive enterprise, and a locally rooted liberal tradition associated especially with Mahatma Gandhi, while communicating liberal ideas to peasants and the wider population.
 ---
 
+## Summary
+
+In this six-page essay, M. R. Masani examines whether economic development and political stability are causally related. He distinguishes stability in a free, democratic society from stability imposed by tyranny or slavery, and similarly distinguishes economic welfare from economic development, which he regards as morally neutral unless directed toward human welfare. He argues that prosperity generally supports political stability, but rejects the idea that poverty automatically produces communism or that prosperity alone guarantees freedom or democratic government. Historical, ethnic, linguistic, and emotional factors can be more important than economic conditions in generating instability.
+
+Masani identifies one dependable relationship: some measure of political stability is necessary for economic progress, whether under a parliament or a military regime. Beyond that, he argues that economic development and political stability can exist independently and should be pursued as separate, intrinsically desirable objectives. His practical prescription is a liberal “free competitive economy” alongside parliamentary democracy, with the state acting as an impartial referee rather than an economic participant. The essay concludes by urging Indian liberals to defend freedom, private property, competitive enterprise, and a locally rooted liberal tradition associated especially with Mahatma Gandhi, while communicating liberal ideas to peasants and the wider population.
+
 ## Key points
 
 - Political stability is not inherently desirable: stability grounded in freedom is good, while stability grounded in tyranny or slavery is bad.

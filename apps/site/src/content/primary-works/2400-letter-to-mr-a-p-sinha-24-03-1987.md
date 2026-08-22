@@ -49,6 +49,12 @@ summary: |-
   Masani reports that, despite Sinha’s earlier communication, the motor-vehicles recoveries section at the Tardeo office served him with a demand notice for payment of tax dated 23 August 1986. He asks Sinha to restrain the recovery section until the matter is reviewed and returns the notice as an enclosure. The second scanned page contains a handwritten address slip directing correspondence to the District Homepower Office, H Block, A.K. Sector, RTO Tardeo, Bombay 400 034.
 ---
 
+## Summary
+
+This undated-title administrative letter, dated 24 March 1987 and signed by M. R. Masani, is addressed to A. P. Sinha, Collector of Bombay and Bombay Suburban District. Masani acknowledges Sinha’s letter of 18 March concerning motor vehicle No. MRG 2347 and asks him to investigate the matter.
+
+Masani reports that, despite Sinha’s earlier communication, the motor-vehicles recoveries section at the Tardeo office served him with a demand notice for payment of tax dated 23 August 1986. He asks Sinha to restrain the recovery section until the matter is reviewed and returns the notice as an enclosure. The second scanned page contains a handwritten address slip directing correspondence to the District Homepower Office, H Block, A.K. Sector, RTO Tardeo, Bombay 400 034.
+
 ## Key points
 
 - The letter is dated 24 March 1987 and signed by M. R. Masani.

@@ -51,6 +51,10 @@ summary: |-
   “POINTS FOR PRESS CONFERENCE” is a nine-page set of typed and handwritten political talking points. The notes focus on opposition strategy, the rejection of a secret ballot, the political effects of opposition groupings, and the prospects for a new party or a broader national alternative. They argue that the proposed arrangement would not create a two-party system, would not necessarily attract electoral support, and could obstruct the formation of a national alternative.
 ---
 
+## Summary
+
+“POINTS FOR PRESS CONFERENCE” is a nine-page set of typed and handwritten political talking points. The notes focus on opposition strategy, the rejection of a secret ballot, the political effects of opposition groupings, and the prospects for a new party or a broader national alternative. They argue that the proposed arrangement would not create a two-party system, would not necessarily attract electoral support, and could obstruct the formation of a national alternative.
+
 ## Key points
 
 - The notes reject a secret-ballot proposal and list several political consequences of that rejection.

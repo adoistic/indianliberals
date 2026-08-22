@@ -52,6 +52,12 @@ summary: |-
   In the rendered pages, the report describes disagreements over the exclusion of Swatantra, Congress (O), and Jana Sangh from one another’s arrangements, as well as attempts by S. Nijalingappa, Atal Bihari Vajpayee, and other leaders to establish common ground. It also records the proposed creation of a coordinating committee to allocate constituencies and nominate candidates. A separate clipping in the scan reports grain and pulse prices in Delhi; it is related newspaper material rather than part of the principal political report.
 ---
 
+## Summary
+
+This newspaper clipping reports the outcome of day-long negotiations among the Swatantra Party, Congress (O), and other opposition groups over a possible electoral alliance for the mid-term Lok Sabha elections. Minoo Masani withdrew from the proposed arrangement after concluding that the draft agreement did not provide for a sufficiently clear common programme, while the other parties issued a joint declaration promising one agreed candidate in each constituency. The declaration presents the alliance as an effort to oppose what it calls the Government’s authoritarian and anti-democratic direction.
+
+In the rendered pages, the report describes disagreements over the exclusion of Swatantra, Congress (O), and Jana Sangh from one another’s arrangements, as well as attempts by S. Nijalingappa, Atal Bihari Vajpayee, and other leaders to establish common ground. It also records the proposed creation of a coordinating committee to allocate constituencies and nominate candidates. A separate clipping in the scan reports grain and pulse prices in Delhi; it is related newspaper material rather than part of the principal political report.
+
 ## Key points
 
 - The principal report covers negotiations among Swatantra, Congress (O), Jana Sangh, and the Samyukta Socialist Party.

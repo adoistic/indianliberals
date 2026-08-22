@@ -48,6 +48,12 @@ summary: |-
   The letter records a specific publication restriction rather than developing a broader argument. It is nevertheless relevant to press-freedom history because it documents an author's effort to control the language and circulation of his writing through correspondence with a newspaper's editorial department.
 ---
 
+## Summary
+
+This one-page English letter from S. V. Raju to Ashok Padbidri, dated 22 July 1963, concerns the submission of a short article by Minoo Masani to the Marathi daily Lokasatta. Raju asks Padbidri to ensure that Masani's article is published only in Marathi and not in English, noting that this condition had been agreed in advance.
+
+The letter records a specific publication restriction rather than developing a broader argument. It is nevertheless relevant to press-freedom history because it documents an author's effort to control the language and circulation of his writing through correspondence with a newspaper's editorial department.
+
 ## Key points
 
 - S. V. Raju wrote to Ashok Padbidri on 22 July 1963.

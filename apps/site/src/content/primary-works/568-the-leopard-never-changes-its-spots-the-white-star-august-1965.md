@@ -58,6 +58,12 @@ summary: |-
   In the rendered pages, Masani extends the critique to import controls, public-sector industry, foreign-exchange allocation, Soviet-linked trade, and government interference in private enterprise. He describes state enterprises as inefficient and argues that bureaucratic protection of them has displaced more productive activity. The essay concludes that India’s “new class” of corrupt politicians, officials, and businessmen benefits from the system while ordinary people bear its costs; Masani therefore calls for a decisive break with policies associated with Jawaharlal Nehru and urges readers to reject the Congress at the next election. A separate boxed item on page 15, attributed to The Journal of Commerce, reports Soviet discussion of profit incentives and managerial autonomy in unprofitable factories; it is editorial material rather than part of Masani’s argument.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that India in 1965 is approaching economic bankruptcy. He supports this claim with indicators including the depletion of sterling balances, rising foreign indebtedness, repayment obligations under the Five-Year Plans, dependence on foreign aid, the declining value of the rupee, and weakness in the capital market. He presents these conditions as consequences of what he calls fundamentally mistaken economic and planning policies rooted in state socialism and centralised planning.
+
+In the rendered pages, Masani extends the critique to import controls, public-sector industry, foreign-exchange allocation, Soviet-linked trade, and government interference in private enterprise. He describes state enterprises as inefficient and argues that bureaucratic protection of them has displaced more productive activity. The essay concludes that India’s “new class” of corrupt politicians, officials, and businessmen benefits from the system while ordinary people bear its costs; Masani therefore calls for a decisive break with policies associated with Jawaharlal Nehru and urges readers to reject the Congress at the next election. A separate boxed item on page 15, attributed to The Journal of Commerce, reports Soviet discussion of profit incentives and managerial autonomy in unprofitable factories; it is editorial material rather than part of Masani’s argument.
+
 ## Key points
 
 - Masani uses falling sterling reserves, foreign debt, repayment obligations, and foreign-aid dependence as evidence that India is nearing bankruptcy.

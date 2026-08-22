@@ -52,6 +52,10 @@ summary: |-
   In this letter dated July 26, 1967, from New Delhi, M. R. Masani asks C. Rajagopalachari to advise R. N. Singh Deo on the background and qualities desirable in a Governor of Orissa, whose incumbent Governor's term was nearing its end. Masani requests that Rajagopalachari reply directly to Singh Deo and send him a copy.
 ---
 
+## Summary
+
+In this letter dated July 26, 1967, from New Delhi, M. R. Masani asks C. Rajagopalachari to advise R. N. Singh Deo on the background and qualities desirable in a Governor of Orissa, whose incumbent Governor's term was nearing its end. Masani requests that Rajagopalachari reply directly to Singh Deo and send him a copy.
+
 ## Key points
 
 - Masani is concerned with the appointment of the next Governor of Orissa.

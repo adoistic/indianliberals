@@ -50,6 +50,12 @@ summary: |-
   Masani explains that he will miss seeing her during the remainder of the parliamentary session because he must travel from Bombay to Zurich for a Liberal International meeting and then spend a month in the United States, returning to India by the end of October. The letter closes with a lightly humorous observation that, although they will miss one another, at least one of them will be in Parliament during the session at any given time.
 ---
 
+## Summary
+
+This one-page personal letter, dated 22 August 1963, was sent by M. R. Masani from New Delhi to Maharani Gayatri Devi of Jaipur, whom Masani addresses as “Ayesha.” Masani acknowledges receiving her cable and says that her arrival in Delhi on or around 2 September would be convenient, noting that “Ranga” had shown him her letter.
+
+Masani explains that he will miss seeing her during the remainder of the parliamentary session because he must travel from Bombay to Zurich for a Liberal International meeting and then spend a month in the United States, returning to India by the end of October. The letter closes with a lightly humorous observation that, although they will miss one another, at least one of them will be in Parliament during the session at any given time.
+
 ## Key points
 
 - The letter is dated 22 August 1963 and was sent from Masani's New Delhi address.

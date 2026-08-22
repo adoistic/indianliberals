@@ -51,6 +51,12 @@ summary: |-
   Masani specifically praises the Matunga Unit’s decision to stand on its own feet by organising a programme and souvenir to raise funds. He treats this initiative as an encouraging sign and calls on party units elsewhere to follow the example set by Matunga at primary, district, and state levels. The document contains no date, named recipient, or discussion of policy beyond this organisational appeal.
 ---
 
+## Summary
+
+This undated three-page English message on Swatantra Party Central Office letterhead is addressed generally to the party’s Matunga Unit and signed by Minoo Masani. Masani commends the unit’s recent work and stresses that effective leadership at the top depends on a strong grassroots organisation. The message therefore presents local party organisation as the foundation of wider political strength.
+
+Masani specifically praises the Matunga Unit’s decision to stand on its own feet by organising a programme and souvenir to raise funds. He treats this initiative as an encouraging sign and calls on party units elsewhere to follow the example set by Matunga at primary, district, and state levels. The document contains no date, named recipient, or discussion of policy beyond this organisational appeal.
+
 ## Key points
 
 - Minoo Masani praises the recent work of the Swatantra Party’s Matunga Unit.

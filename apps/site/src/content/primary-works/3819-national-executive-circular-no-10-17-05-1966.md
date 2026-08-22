@@ -51,6 +51,10 @@ summary: |-
   This one-page administrative circular from the Swatantra Party Central Office, dated 17 May 1966, concerns the scheduling of party meetings in Bombay. M. R. Masani, signing as General Secretary, explains that the Central Parliamentary Board and National Executive may be unable to complete their business during meetings scheduled for the morning and afternoon of 26 May.
 ---
 
+## Summary
+
+This one-page administrative circular from the Swatantra Party Central Office, dated 17 May 1966, concerns the scheduling of party meetings in Bombay. M. R. Masani, signing as General Secretary, explains that the Central Parliamentary Board and National Executive may be unable to complete their business during meetings scheduled for the morning and afternoon of 26 May.
+
 ## Key points
 
 - The document is National Executive Circular No. 10, issued on 17 May 1966.

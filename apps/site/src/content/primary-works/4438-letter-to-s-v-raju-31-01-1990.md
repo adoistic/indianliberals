@@ -44,6 +44,10 @@ summary: |-
   This one-page English letter, dated January 31, 1990, was written by M. R. Masani from his Bombay address to S. V. Raju, editor of "Freedom First." Masani asks Raju to help him obtain, for a few days, a copy of B. K. Nehru's book "Thoughts on Present Discontents," published by Allied Publishers in Bombay.
 ---
 
+## Summary
+
+This one-page English letter, dated January 31, 1990, was written by M. R. Masani from his Bombay address to S. V. Raju, editor of "Freedom First." Masani asks Raju to help him obtain, for a few days, a copy of B. K. Nehru's book "Thoughts on Present Discontents," published by Allied Publishers in Bombay.
+
 ## Key points
 
 - The document is a personal letter from M. R. Masani to S. V. Raju.

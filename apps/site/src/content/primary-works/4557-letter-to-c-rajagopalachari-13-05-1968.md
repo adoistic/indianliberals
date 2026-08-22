@@ -45,6 +45,12 @@ summary: |-
   The page records a brief act of correspondence and document circulation rather than an argument or policy position. The sender’s personal name is not printed; the handwritten signature is not legible enough to identify the author.
 ---
 
+## Summary
+
+This confidential office letter, dated 13 May 1968, is addressed to C. Rajagopalachari (“Rajaji”) at his residence in Kilpauk, Madras. The unnamed secretary to Minoo Masani writes that, at Masani’s request, the enclosed material includes a copy of Masani’s letter to N. Dandekar dated 13 May and an advance copy of that letter intended for members of the General Council, which would be sent on 15 May.
+
+The page records a brief act of correspondence and document circulation rather than an argument or policy position. The sender’s personal name is not printed; the handwritten signature is not legible enough to identify the author.
+
 ## Key points
 
 - The letter is marked confidential and dated 13 May 1968.

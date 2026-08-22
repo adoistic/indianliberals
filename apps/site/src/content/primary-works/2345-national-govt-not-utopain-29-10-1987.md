@@ -52,6 +52,12 @@ summary: |-
   The page presents England's wartime experience before the Nazi blitz as an example of national government and stresses that the proposed government should include people from the Opposition and from all walks of life. It rejects the idea that only a small set of eminent leaders can form such a government, arguing instead that honest politicians and people of integrity could be drawn from within or outside Parliament. The visible text discusses Gandhi's broad use of the term “Utopian,” while Minoo Masani advocates a pragmatic, inclusive government whose members can command public confidence.
 ---
 
+## Summary
+
+This continuation page argues that a National Government must be more than a temporary coalition or a collection of parties speaking with one voice only in a crisis. It must function as a government in its own right, with shared confidence among its supporters and the capacity to act collectively. The article distinguishes this practical conception from utopian expectations, citing Nissim Ezekiel's criticism that merely substituting one government for another would not solve the underlying problem.
+
+The page presents England's wartime experience before the Nazi blitz as an example of national government and stresses that the proposed government should include people from the Opposition and from all walks of life. It rejects the idea that only a small set of eminent leaders can form such a government, arguing instead that honest politicians and people of integrity could be drawn from within or outside Parliament. The visible text discusses Gandhi's broad use of the term “Utopian,” while Minoo Masani advocates a pragmatic, inclusive government whose members can command public confidence.
+
 ## Key points
 
 - A National Government must function as one government rather than as a continuation of competing party governments.

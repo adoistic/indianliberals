@@ -52,6 +52,10 @@ summary: |-
   This five-page English-language archival item consists primarily of Minoo Masani’s letter of 15 October 1969 to A. P. Jain, together with attached correspondence, handwritten calculations, and an international invitee list. Masani discusses arrangements for entertaining delegates to the Inter-Parliamentary Union (IPU) conference during his Delhi visit on 19–21 October. He also revisits Jain’s proposal for a press conference, explaining that he has decided against holding it immediately because “the balance of advantage is against it at this point of time,” while leaving open the possibility of reconsideration.
 ---
 
+## Summary
+
+This five-page English-language archival item consists primarily of Minoo Masani’s letter of 15 October 1969 to A. P. Jain, together with attached correspondence, handwritten calculations, and an international invitee list. Masani discusses arrangements for entertaining delegates to the Inter-Parliamentary Union (IPU) conference during his Delhi visit on 19–21 October. He also revisits Jain’s proposal for a press conference, explaining that he has decided against holding it immediately because “the balance of advantage is against it at this point of time,” while leaving open the possibility of reconsideration.
+
 ## Key points
 
 - Masani plans to meet Jain in Delhi during 19–21 October 1969 to discuss arrangements for IPU delegates.

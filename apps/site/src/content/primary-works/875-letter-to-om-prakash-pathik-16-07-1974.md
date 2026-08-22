@@ -49,6 +49,12 @@ summary: |-
   Masani explains that he will be in Delhi from August 1 for other work at the Oberoi-Intercontinental and invites Pathik and his colleagues to contact him upon arriving before the convention on August 4. The letter is chiefly a brief piece of party correspondence concerning coordination and attendance at the convention.
 ---
 
+## Summary
+
+In this one-page letter dated July 16, 1974, M. R. Masani replies to Om Prakash Pathik, Joint Secretary of the U.P. Swatantra Party. Masani says he is pleased to hear that many party members in Uttar Pradesh share sound views and indicates that they are expected to attend the party’s National Convention in Delhi as delegates.
+
+Masani explains that he will be in Delhi from August 1 for other work at the Oberoi-Intercontinental and invites Pathik and his colleagues to contact him upon arriving before the convention on August 4. The letter is chiefly a brief piece of party correspondence concerning coordination and attendance at the convention.
+
 ## Key points
 
 - Masani responds affirmatively to Om Prakash Pathik’s report about the views of Swatantra Party members in Uttar Pradesh.

@@ -49,6 +49,12 @@ summary: |-
   Masani supplies the names of the Swatantra Party’s parliamentary office-bearers in both houses, asking that the correction be brought to the attention of those concerned. The letter therefore combines a press-correction request with a concise assertion of the party’s formal parliamentary structure.
 ---
 
+## Summary
+
+Dated March 12, 1965, this one-page letter from Minoo Masani to the editor of the Press Trust of India protests a report published in The Times of India and The Statesman. Masani says the PTI account of the Lok Sabha discussion on the Home Minister’s statement about pro-Peking communists wrongly described Piloo Mody as the Swatantra Party’s Deputy Leader.
+
+Masani supplies the names of the Swatantra Party’s parliamentary office-bearers in both houses, asking that the correction be brought to the attention of those concerned. The letter therefore combines a press-correction request with a concise assertion of the party’s formal parliamentary structure.
+
 ## Key points
 
 - Minoo Masani wrote to the editor of the Press Trust of India on March 12, 1965.

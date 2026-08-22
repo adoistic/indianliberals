@@ -50,6 +50,12 @@ summary: |-
   The enclosure is a Swatantra Party advertisement titled “The Country needs you.” It presents Rajaji's warning of a coming “upsurge against the Congress Party,” attributes Congress's electoral advantage to its greater financial resources, and appeals for qualified candidates who can finance their own campaigns. The advertisement says the party is considering contesting 300–400 parliamentary constituencies and urges readers to respond to the call.
 ---
 
+## Summary
+
+This two-page Swatantra Party circular, dated August 18, 1966, is an administrative cover note from the party's Central Office in Bombay. Signed by S. V. Raju as Executive Secretary, it informs recipients that a reprint of C. Rajagopalachari's Independence Day appeal, advertised in major national dailies on August 15, is enclosed for their office records and use.
+
+The enclosure is a Swatantra Party advertisement titled “The Country needs you.” It presents Rajaji's warning of a coming “upsurge against the Congress Party,” attributes Congress's electoral advantage to its greater financial resources, and appeals for qualified candidates who can finance their own campaigns. The advertisement says the party is considering contesting 300–400 parliamentary constituencies and urges readers to respond to the call.
+
 ## Key points
 
 - The circular is issued by the Swatantra Party Central Office in Bombay on August 18, 1966.

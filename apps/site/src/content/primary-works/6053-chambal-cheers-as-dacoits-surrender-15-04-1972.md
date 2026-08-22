@@ -48,6 +48,12 @@ summary: |-
   The article identifies Mohar Singh and Sarup Singh as leading figures among the surrendered groups and reports that Mohar Singh had offered to surrender earlier. It also records the crowd’s response, the men’s renunciation of violence, and police information about their alleged criminal histories. The report briefly connects the event to an earlier surrender associated with Man Singh and Vinoba Bhave, while noting that another released dacoit, Tehsildar Singh, had helped bring about the surrender.
 ---
 
+## Summary
+
+This one-page Indian Express report, credited to Express News Service and datelined Jaura (Gwalior), April 14, 1972, describes the surrender of eighty-five Chambal dacoits before Sarvodaya leader Jayaprakash Narayan. The report presents the event as a public and ceremonial occasion: the surrendered men arrived by bus, villagers and supporters gathered, prayers were held in the Gwalior Central Jail, and Narayan appealed to the government to accept the surrender and refrain from imposing the death penalty.
+
+The article identifies Mohar Singh and Sarup Singh as leading figures among the surrendered groups and reports that Mohar Singh had offered to surrender earlier. It also records the crowd’s response, the men’s renunciation of violence, and police information about their alleged criminal histories. The report briefly connects the event to an earlier surrender associated with Man Singh and Vinoba Bhave, while noting that another released dacoit, Tehsildar Singh, had helped bring about the surrender.
+
 ## Key points
 
 - Eighty-five Chambal dacoits surrendered before Jayaprakash Narayan at Jaura in the Gwalior region.

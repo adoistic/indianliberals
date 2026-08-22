@@ -51,6 +51,10 @@ summary: |-
   This four-page Swatantra Party record combines the proceedings of an informal meeting held in Bangalore on 6 August 1959 with two related letters dated 4 August. The meeting discusses moving the Central Office to 8 Grant Road, Bangalore; staffing, stationery, a typewriter and bicycle; the handling of party correspondence; and the collection and preparation of material for pamphlets, legislative questions and public criticism of government policy. It also sets out administrative arrangements for the party's Bombay and Bangalore accounts, including expenditure authorisations and the need to seek additional funds.
 ---
 
+## Summary
+
+This four-page Swatantra Party record combines the proceedings of an informal meeting held in Bangalore on 6 August 1959 with two related letters dated 4 August. The meeting discusses moving the Central Office to 8 Grant Road, Bangalore; staffing, stationery, a typewriter and bicycle; the handling of party correspondence; and the collection and preparation of material for pamphlets, legislative questions and public criticism of government policy. It also sets out administrative arrangements for the party's Bombay and Bangalore accounts, including expenditure authorisations and the need to seek additional funds.
+
 ## Key points
 
 - The Swatantra Party's Central Office is to be shifted to 8 Grant Road, Bangalore, while correspondence continues to use the former Race Course Road address.

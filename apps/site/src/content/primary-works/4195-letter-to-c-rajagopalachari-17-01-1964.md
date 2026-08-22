@@ -46,6 +46,12 @@ summary: |-
   The page contains no printed title, salutation, complimentary close, or explanation of the cover’s contents. The sender’s full identity cannot be established from the page alone.
 ---
 
+## Summary
+
+This single-page typed letter, dated 17 January 1964, is addressed to C. Rajagopalachari at Care Swarajya in Madras. The sender, identified only by the surname “Masani,” reports that a cover has been sent to the recipient by airfreight through IAC and asks him to arrange collection charges.
+
+The page contains no printed title, salutation, complimentary close, or explanation of the cover’s contents. The sender’s full identity cannot be established from the page alone.
+
 ## Key points
 
 - The document is a one-page typed letter dated 17 January 1964.

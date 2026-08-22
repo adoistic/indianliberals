@@ -53,6 +53,10 @@ summary: |-
   This one-page Indian Express, Bombay, report records K. M. Munshi, a Swatantra Party leader, arguing that India should retain the emergency declared in the context of the China conflict. Speaking at a Bombay Rotary Club luncheon, Munshi said continuation was necessary unless India could be confident that China would not launch another attack and that the country was sufficiently prepared militarily.
 ---
 
+## Summary
+
+This one-page Indian Express, Bombay, report records K. M. Munshi, a Swatantra Party leader, arguing that India should retain the emergency declared in the context of the China conflict. Speaking at a Bombay Rotary Club luncheon, Munshi said continuation was necessary unless India could be confident that China would not launch another attack and that the country was sufficiently prepared militarily.
+
 ## Key points
 
 - The report attributes the call to retain the emergency to K. M. Munshi.

@@ -47,6 +47,10 @@ summary: |-
   In this letter dated July 29, 1964, M. R. Masani writes to Prof. N. G. Ranga about a letter from Dahyabhai and encloses a parallel letter to C. Rajagopalachari (“Rajaji”). Masani asks Ranga for his views on the proposed venue and dates, and requests a prompt reply so that arrangements can be made.
 ---
 
+## Summary
+
+In this letter dated July 29, 1964, M. R. Masani writes to Prof. N. G. Ranga about a letter from Dahyabhai and encloses a parallel letter to C. Rajagopalachari (“Rajaji”). Masani asks Ranga for his views on the proposed venue and dates, and requests a prompt reply so that arrangements can be made.
+
 ## Key points
 
 - Masani refers to Dahyabhai's letter to Ranga dated July 27.

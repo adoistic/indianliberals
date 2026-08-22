@@ -48,6 +48,12 @@ summary: |-
   The letter then describes a return to the idea of declaring themselves “Swatantrites.” Sudhan explains that the erstwhile Swatantra State Council would meet on 10 November to make a formal declaration and asks Raju to send a draft resolution in time for consideration. The closing paragraphs combine political coordination with personal inquiries about Kumudu, a boy who speaks Tamil, and Minoo Masani’s return and future plans.
 ---
 
+## Summary
+
+This untitled letter, written by C. N. Sudhan in Kottayam on 31 October 1974 to S. V. Raju in Bombay, reports on efforts to form an ad hoc committee for the B.L.D. Sudhan says that Mr. Erasmos De Sequiera, who had been deputed to form the committee, declined to meet him despite expressing a desire to do so; the committee was subsequently announced under the presidency of Mr. Dominic.
+
+The letter then describes a return to the idea of declaring themselves “Swatantrites.” Sudhan explains that the erstwhile Swatantra State Council would meet on 10 November to make a formal declaration and asks Raju to send a draft resolution in time for consideration. The closing paragraphs combine political coordination with personal inquiries about Kumudu, a boy who speaks Tamil, and Minoo Masani’s return and future plans.
+
 ## Key points
 
 - Sudhan writes from Kottayam to S. V. Raju on 31 October 1974.

@@ -50,6 +50,12 @@ summary: |-
   Khanna congratulates Masani and C. Rajagopalachari on forming the Swatantra Party, describing it as a long-needed vehicle for constructive opposition since Partition. He praises Masani's courage and foresight, acknowledges the party's difficult prospects, and asks how he can enlist as a member, concluding that he would like to join the party.
 ---
 
+## Summary
+
+This typed letter, dated September 21, 1959, is from S. P. Khanna at Bishop's Villa, Dalhousie, Punjab, to M. R. Masani. Khanna recalls meeting Masani at the 1957 International Industrial Development Conference in San Francisco and says he has followed Masani's parliamentary activities through newspapers.
+
+Khanna congratulates Masani and C. Rajagopalachari on forming the Swatantra Party, describing it as a long-needed vehicle for constructive opposition since Partition. He praises Masani's courage and foresight, acknowledges the party's difficult prospects, and asks how he can enlist as a member, concluding that he would like to join the party.
+
 ## Key points
 
 - The letter is dated September 21, 1959, and was sent from Dalhousie, Punjab, to M. R. Masani in New Delhi.

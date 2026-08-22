@@ -46,6 +46,12 @@ summary: |-
   The letter renews an invitation for Masani to address Ahmedabad Junior Chamber members and their guests on any subject of his choice. Patel says the members are eager to hear him, asks for confirmation so that a guest-speaker function can be arranged, and promises to send the finalized programme. The document is a one-page typed invitation on Ahmedabad Junior Chamber letterhead, with the Himayal Samaj Kalyan Kendra, Paldi, Ahmedabad-4, named beneath the emblem.
 ---
 
+## Summary
+
+This untitled letter, dated January 19, 1970, is written by Bhalabhai C. Patel, President of the Ahmedabad Junior Chamber, to M. R. Masani, M.P. Patel refers to Masani's January 5 letter and his planned visit to Ahmedabad on February 1, 1970.
+
+The letter renews an invitation for Masani to address Ahmedabad Junior Chamber members and their guests on any subject of his choice. Patel says the members are eager to hear him, asks for confirmation so that a guest-speaker function can be arranged, and promises to send the finalized programme. The document is a one-page typed invitation on Ahmedabad Junior Chamber letterhead, with the Himayal Samaj Kalyan Kendra, Paldi, Ahmedabad-4, named beneath the emblem.
+
 ## Key points
 
 - The letter is dated January 19, 1970, and was sent from Ahmedabad.

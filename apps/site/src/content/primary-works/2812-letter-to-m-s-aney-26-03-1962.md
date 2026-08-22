@@ -49,6 +49,10 @@ summary: |-
   In this letter dated March 26, 1962, C. Rajagopalachari responds to Dr. M. S. Aney’s hesitation about joining the Swatantra Party. Rajagopalachari acknowledges that the party’s response to Aney’s concerns was unclear, but argues that the Swatantra Party had not committed itself to supporting the Andhra demand for the formation of a separate Andhra state, nor had it identified itself with that claim. He also says the party tried, unsuccessfully, to arrange electoral contests in Madras so that triangular contests would not disadvantage Congress candidates.
 ---
 
+## Summary
+
+In this letter dated March 26, 1962, C. Rajagopalachari responds to Dr. M. S. Aney’s hesitation about joining the Swatantra Party. Rajagopalachari acknowledges that the party’s response to Aney’s concerns was unclear, but argues that the Swatantra Party had not committed itself to supporting the Andhra demand for the formation of a separate Andhra state, nor had it identified itself with that claim. He also says the party tried, unsuccessfully, to arrange electoral contests in Madras so that triangular contests would not disadvantage Congress candidates.
+
 ## Key points
 
 - Rajagopalachari regrets that the Swatantra Party acted on Aney’s letter without adequately addressing his hesitation.

@@ -49,6 +49,12 @@ summary: |-
   The letter adopts a personal and advisory tone. Masani emphasizes that his advice is candid, recognizes that some of his concerns may seem excessive, and closes by affirming his trust in Narayan and his own continuing commitment to the issues at hand. The page does not provide enough context to identify the specific political events or proposals under discussion beyond the reference to a national disaster and an opportunity for action.
 ---
 
+## Summary
+
+This single-page handwritten letter from Minoo Masani to Jayaprakash Narayan, dated January 2, 1975, responds to what Masani presents as a national crisis. Masani acknowledges the danger of the moment while suggesting that it may also create an opportunity for decisive political action and for doing what is right.
+
+The letter adopts a personal and advisory tone. Masani emphasizes that his advice is candid, recognizes that some of his concerns may seem excessive, and closes by affirming his trust in Narayan and his own continuing commitment to the issues at hand. The page does not provide enough context to identify the specific political events or proposals under discussion beyond the reference to a national disaster and an opportunity for action.
+
 ## Key points
 
 - Masani writes personally to Jayaprakash Narayan during a moment he characterizes as a national disaster.

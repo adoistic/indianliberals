@@ -49,6 +49,12 @@ summary: |-
   The article presents Masani’s resignation as a protest against what he regarded as the party Executive’s failure to restore the party’s credibility in Gujarat. He accused the Executive of ignoring the conduct of opposition leaders and party members who had worked against Swatantra candidates in the Rajya Sabha elections. Masani also criticized what he called the party’s cynicism, arguing that its actions showed contempt for the electorate comparable to that attributed to the Congress Party. The clipping ends while reporting his further remarks to Dandekar; no byline is visible.
 ---
 
+## Summary
+
+This one-page Hindustan Times report dated 15 May 1968 describes M. R. Masani’s resignation from the Swatantra Party’s Central Parliamentary Board and National Executive. Masani’s letter to party secretary N. Dandekar reportedly said that he was withdrawing in response to disciplinary action against six Swatantra members, which he characterized as “eyewash.” Dandekar’s reply, as reported, accepted Masani’s resignation and attributed it to the disciplinary proceedings involving Mr. Mahida and five others.
+
+The article presents Masani’s resignation as a protest against what he regarded as the party Executive’s failure to restore the party’s credibility in Gujarat. He accused the Executive of ignoring the conduct of opposition leaders and party members who had worked against Swatantra candidates in the Rajya Sabha elections. Masani also criticized what he called the party’s cynicism, arguing that its actions showed contempt for the electorate comparable to that attributed to the Congress Party. The clipping ends while reporting his further remarks to Dandekar; no byline is visible.
+
 ## Key points
 
 - M. R. Masani announced his resignation from the Swatantra Party’s Central Parliamentary Board and National Executive.

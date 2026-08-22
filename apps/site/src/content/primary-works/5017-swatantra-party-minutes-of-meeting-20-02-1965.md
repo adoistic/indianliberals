@@ -50,6 +50,12 @@ summary: |-
   The committee reviewed draft amendments to the President's address prepared by Masani, approved some modifications for use in both Houses, and permitted P. K. Deo to submit additional amendments in his own name. It allocated speaking times for the address, nominated members to speak on the Railways Budget, and authorised Gayatri Devi and N. S. Mahida to speak on behalf of the Party on H. V. Kamath's bill concerning ministers' salaries and allowances. The document is an administrative record of parliamentary coordination rather than a developed statement of policy.
 ---
 
+## Summary
+
+This one-page office record, dated February 20, 1965, records a meeting of the Swatantra Party Executive Committee held two days earlier in the Party Committee Room at Central Hall. M. R. Masani chaired the meeting; other listed attendees included Dahyabhai Patel, Prof. M. Ruthnaswamy, Maharani Gayatri Devi, S. Kapur Singh, P. K. Deo, Loknath Misra, and Himmat Singh Ji.
+
+The committee reviewed draft amendments to the President's address prepared by Masani, approved some modifications for use in both Houses, and permitted P. K. Deo to submit additional amendments in his own name. It allocated speaking times for the address, nominated members to speak on the Railways Budget, and authorised Gayatri Devi and N. S. Mahida to speak on behalf of the Party on H. V. Kamath's bill concerning ministers' salaries and allowances. The document is an administrative record of parliamentary coordination rather than a developed statement of policy.
+
 ## Key points
 
 - The document records an Executive Committee meeting held on February 18, 1965, and issued on February 20, 1965.

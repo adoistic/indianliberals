@@ -49,6 +49,12 @@ summary: |-
   Jha suggests that Raju either visit Dungarpur or stay with him as a guest during the third week of April. He also explains that, even if Raju cannot come to Dungarpur, the writer's secretary, A. M. Patel, can provide access to papers relating to the relevant period of the Swatantra Party, which Raju may copy or take away. Jha further recommends contacting Rajmata Gayatri Devi because valuable party records may be held with her in Jaipur.
 ---
 
+## Summary
+
+In this two-page letter dated March 17, 1985, Lakshman Jha writes to S. V. Raju from Udaipur, Rajasthan, acknowledging Raju's decision to undertake a doctorate on the Swatantra Party during 1967–1974. Jha recalls Raju's earlier role as the party's Executive Secretary at its national headquarters and offers practical assistance with the research.
+
+Jha suggests that Raju either visit Dungarpur or stay with him as a guest during the third week of April. He also explains that, even if Raju cannot come to Dungarpur, the writer's secretary, A. M. Patel, can provide access to papers relating to the relevant period of the Swatantra Party, which Raju may copy or take away. Jha further recommends contacting Rajmata Gayatri Devi because valuable party records may be held with her in Jaipur.
+
 ## Key points
 
 - The letter is dated March 17, 1985, and is written from Udaipur, Rajasthan.

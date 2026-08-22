@@ -58,6 +58,12 @@ summary: |-
   The account follows repeated negotiations with Congress(O), the Jan Sangh, the BKD and the SSP. It describes delays, disagreements over a common programme, the failure to announce the Democratic Front before Parliament was dissolved, and the eventual decision to enter an attenuated electoral arrangement. The report attributes the alliance’s electoral failure to its inability to offer a coherent alternative and connects that failure to the Swatantra Party’s own organisational weaknesses. In its concluding discussion of the party’s Mid-Term Report, it calls for social modernisation, concern for under-privileged and tribal communities, engagement with youth and consumers, protection of minorities, disciplined political work and higher ethical standards.
 ---
 
+## Summary
+
+This confidential typed report records the Swatantra Party President’s efforts, from the General Council’s July 1970 mandate through January 1971, to consolidate a national democratic bloc against what the report describes as communist subversion and an increasingly authoritarian direction in government. The proposed coalition was to rest on national unity and security, defence of constitutional liberties and democratic institutions, law and order, and a secular society founded on social and economic justice and equality of status. The report distinguishes a principled common programme and electoral pact from a merely opportunistic allocation of constituencies.
+
+The account follows repeated negotiations with Congress(O), the Jan Sangh, the BKD and the SSP. It describes delays, disagreements over a common programme, the failure to announce the Democratic Front before Parliament was dissolved, and the eventual decision to enter an attenuated electoral arrangement. The report attributes the alliance’s electoral failure to its inability to offer a coherent alternative and connects that failure to the Swatantra Party’s own organisational weaknesses. In its concluding discussion of the party’s Mid-Term Report, it calls for social modernisation, concern for under-privileged and tribal communities, engagement with youth and consumers, protection of minorities, disciplined political work and higher ethical standards.
+
 ## Key points
 
 - The General Council authorised the President to pursue the consolidation of national democratic forces.

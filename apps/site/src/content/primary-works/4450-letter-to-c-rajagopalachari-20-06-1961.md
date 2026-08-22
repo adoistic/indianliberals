@@ -54,6 +54,12 @@ summary: |-
   Shroff argues that the Swatantra Party merits assistance not only because of its role in the independence struggle and its general background and policies, but also because it represents a stabilising force against disruptive elements, including Communists, whom he describes as a threat to the Constitution and democratic life. He supports the development of an effective democratic opposition and proposes that the company make an appropriate contribution alongside any support given to the Congress Party. He indicates that he has ₹3 lakhs in mind, while reserving the final decision for the Board.
 ---
 
+## Summary
+
+This two-page letter, dated 20 June 1961 and signed by A. D. Shroff as Chairman of the Associated Cement Companies, responds to C. Rajagopalachari's appeal concerning support for the development of the Swatantra Party. Shroff says he must first consult his company's Board of Directors, but outlines his view that businesses have an obligation, within the law, to assist political organisations whose policies support democratic institutions and conditions in which industry can flourish.
+
+Shroff argues that the Swatantra Party merits assistance not only because of its role in the independence struggle and its general background and policies, but also because it represents a stabilising force against disruptive elements, including Communists, whom he describes as a threat to the Constitution and democratic life. He supports the development of an effective democratic opposition and proposes that the company make an appropriate contribution alongside any support given to the Congress Party. He indicates that he has ₹3 lakhs in mind, while reserving the final decision for the Board.
+
 ## Key points
 
 - Shroff acknowledges Rajagopalachari's request for assistance connected with the development of the Swatantra Party.

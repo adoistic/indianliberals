@@ -46,6 +46,10 @@ summary: |-
   This two-page handwritten letter from A. D. Shroff to Minoo Masani, dated 5 November 1959, discusses the formation and prospects of the Swatantra Party. Shroff appears to welcome the emergence of an independent political party, while reflecting on the practical difficulties of organising it and communicating its principles to the public. He refers to the need for a clear programme and to the importance of economic reasoning in presenting the party’s case.
 ---
 
+## Summary
+
+This two-page handwritten letter from A. D. Shroff to Minoo Masani, dated 5 November 1959, discusses the formation and prospects of the Swatantra Party. Shroff appears to welcome the emergence of an independent political party, while reflecting on the practical difficulties of organising it and communicating its principles to the public. He refers to the need for a clear programme and to the importance of economic reasoning in presenting the party’s case.
+
 ## Key points
 
 - The letter is addressed to Minoo Masani and dated 5 November 1959.

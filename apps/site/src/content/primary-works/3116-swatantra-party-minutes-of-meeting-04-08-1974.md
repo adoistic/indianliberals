@@ -57,6 +57,12 @@ summary: |-
   The minutes also record the expulsion of members recommended by the Orissa State Executive, while authorising Madhu Mehta to investigate the case of Harihar Patel. The attached resolution sets out the proposed institutional outcome: the Swatantra Party would cease to exist and merge with a new Bharatiya Lok Dal, described as “The People’s Party of India,” bringing together political forces other than the Congress and Communist parties. The resolution authorises Piloo Mody to notify the Chief Election Commissioner and take the necessary steps to implement the merger.
 ---
 
+## Summary
+
+This four-page archival file records the draft minutes of the Swatantra Party National Executive meeting held at Sapra House, New Delhi, on August 4, 1974, chaired by Piloo Mody. The meeting confirmed the previous minutes, reviewed efforts toward a National Alternative, considered the draft resolution for the forthcoming National Convention, and debated whether the press should attend proceedings concerning the Party’s dissolution. The Executive decided that voting at the Convention would be by a show of hands rather than secret ballot.
+
+The minutes also record the expulsion of members recommended by the Orissa State Executive, while authorising Madhu Mehta to investigate the case of Harihar Patel. The attached resolution sets out the proposed institutional outcome: the Swatantra Party would cease to exist and merge with a new Bharatiya Lok Dal, described as “The People’s Party of India,” bringing together political forces other than the Congress and Communist parties. The resolution authorises Piloo Mody to notify the Chief Election Commissioner and take the necessary steps to implement the merger.
+
 ## Key points
 
 - The National Executive meeting was held in New Delhi on August 4, 1974, with Piloo Mody in the chair.

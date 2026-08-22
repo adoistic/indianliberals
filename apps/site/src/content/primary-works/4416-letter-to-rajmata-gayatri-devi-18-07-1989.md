@@ -51,6 +51,12 @@ summary: |-
   Raju predicts that the National Front will eventually fail because it combines state parties with national parties that are potential rivals within the states. He expects its collapse after the next general elections. The letter closes with a practical request that Rajmata subscribe to Freedom First, a publication Raju says he has sent her. No title, publisher, or place of issue is printed on the document.
 ---
 
+## Summary
+
+This one-page letter from S. V. Raju to Rajmata Gayatri Devi, dated July 18, 1989, responds positively to her decision to remain apart from existing political parties. Raju argues that state parties could cooperate in forming a credible national party if the centre's jurisdiction were limited to defence, foreign policy, currency, and a few other national concerns, leaving other matters to the states. The letter therefore links party formation to a federal division of powers.
+
+Raju predicts that the National Front will eventually fail because it combines state parties with national parties that are potential rivals within the states. He expects its collapse after the next general elections. The letter closes with a practical request that Rajmata subscribe to Freedom First, a publication Raju says he has sent her. No title, publisher, or place of issue is printed on the document.
+
 ## Key points
 
 - Raju welcomes Rajmata Gayatri Devi's decision to stay away from existing political parties.

@@ -53,6 +53,12 @@ summary: |-
   Raju argues that the 1972 election result reflected the emotional impact of India’s victory in the war with Pakistan and the Bangladesh crisis more than a rejection of Swatantra policies. He supports radical policy and organisational rethinking, including greater self-sufficiency, younger leadership, a stronger grassroots presence at polling-station level, and the use of peaceful agitation and public platforms. He rejects merging the party with other organisations and strongly opposes joining the Congress, presenting Swatantra as a necessary vehicle for individual liberty, initiative, enterprise, and reward, and warning that abandoning it would assist a drift toward dictatorship.
 ---
 
+## Summary
+
+In this letter dated March 30, 1972, S. V. Raju responds to Dr. R. C. Cooper’s proposal concerning the future of the Swatantra Party after its poor electoral performance. Raju rejects the claim that the party’s programme failed to attract Indians, arguing that its policies appealed to rural voters wherever they were properly explained. He also disputes the claim that the party made strenuous efforts to spread its programme, attributing its weakness to state-level conduct, inadequate discipline, and the subordination of policy to short-term political considerations.
+
+Raju argues that the 1972 election result reflected the emotional impact of India’s victory in the war with Pakistan and the Bangladesh crisis more than a rejection of Swatantra policies. He supports radical policy and organisational rethinking, including greater self-sufficiency, younger leadership, a stronger grassroots presence at polling-station level, and the use of peaceful agitation and public platforms. He rejects merging the party with other organisations and strongly opposes joining the Congress, presenting Swatantra as a necessary vehicle for individual liberty, initiative, enterprise, and reward, and warning that abandoning it would assist a drift toward dictatorship.
+
 ## Key points
 
 - Raju rejects the diagnosis that Swatantra Party policies were broadly unattractive, especially in rural India.

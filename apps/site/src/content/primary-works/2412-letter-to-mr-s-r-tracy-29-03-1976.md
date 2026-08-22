@@ -50,6 +50,12 @@ summary: |-
   The letter lists 25 vehicles registered in January 1971 and dispatched from Mahindra & Mahindra works to destinations including Gujarat, Mysore, Orissa, Himachal Pradesh, and Rajasthan. It states that registration charges and wheel taxes were collected at the factory, that the vehicles were sold in the areas to which they were sent, and requests corrections to the transport records and cancellation of notices issued against them. A copy was sent to M. R. Masani in reference to his letter of March 17, 1976.
 ---
 
+## Summary
+
+This two-page office letter, dated March 29, 1976, is addressed to the Regional Transport Officer in Bombay and marked for the attention of Mr. S. K. Tracy. V. P. Bhatia, signing as Executive Secretary of the Bharatiya Lok Dal, confirms a prior conversation and supplies details of vehicles purchased by the former Swatantra Party, which had merged into the Bharatiya Lok Dal.
+
+The letter lists 25 vehicles registered in January 1971 and dispatched from Mahindra & Mahindra works to destinations including Gujarat, Mysore, Orissa, Himachal Pradesh, and Rajasthan. It states that registration charges and wheel taxes were collected at the factory, that the vehicles were sold in the areas to which they were sent, and requests corrections to the transport records and cancellation of notices issued against them. A copy was sent to M. R. Masani in reference to his letter of March 17, 1976.
+
 ## Key points
 
 - The letter is dated March 29, 1976, and was issued from the Bharatiya Lok Dal office in Bombay.

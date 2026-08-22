@@ -52,6 +52,12 @@ summary: |-
   The circular also records the change in the Central Office number from 29687 to 25-1424. It instructs recipients to direct all trunk calls to the National Headquarters until the elections. The document is signed by S. V. Raju in his capacity as Executive Secretary.
 ---
 
+## Summary
+
+This one-page English-language office circular, issued by the Swatantra Party's Central Office in Bombay on 16 January 1967, communicates revised telephone arrangements to party correspondents. It refers to an earlier circular dated 22 December 1966 and announces an additional telephone line, number 25-2359, which may be used alongside 25-1919 for trunk calls to the office.
+
+The circular also records the change in the Central Office number from 29687 to 25-1424. It instructs recipients to direct all trunk calls to the National Headquarters until the elections. The document is signed by S. V. Raju in his capacity as Executive Secretary.
+
 ## Key points
 
 - The document is Central Office Circular No. 63, dated 16 January 1967.

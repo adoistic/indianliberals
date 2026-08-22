@@ -52,6 +52,12 @@ summary: |-
   The second page presents a balance sheet as of December 31, 1985. It records capital of Rs. 3,35,319 before drawings, net capital of Rs. 2,92,689, and assets including a depreciated car, company deposits, debentures, an American Express Bank balance, Talent House, cash on hand, and loans to friends and relatives. The statement is signed by S. V. Raju on both pages.
 ---
 
+## Summary
+
+This two-page English-language financial statement, prepared by S. V. Raju in Bombay and dated October 14, 1986, records his income and expenditure for the accounting year ending December 31, 1985. The first page lists professional fees, interest on company deposits and bank balances, honoraria, professional expenses, salary income from Airfreight, deductions, and the resulting taxable income. It reports gross total income of Rs. 12,624 and taxable income of Rs. 2,535, with tax payable, TDS on salaries, and refund due each recorded as nil.
+
+The second page presents a balance sheet as of December 31, 1985. It records capital of Rs. 3,35,319 before drawings, net capital of Rs. 2,92,689, and assets including a depreciated car, company deposits, debentures, an American Express Bank balance, Talent House, cash on hand, and loans to friends and relatives. The statement is signed by S. V. Raju on both pages.
+
 ## Key points
 
 - The document covers the accounting year ending December 31, 1985 and was signed in Bombay on October 14, 1986.

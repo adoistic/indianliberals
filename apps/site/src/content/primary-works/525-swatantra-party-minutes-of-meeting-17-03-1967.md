@@ -52,6 +52,12 @@ summary: |-
   The meeting discussed opposition strategy surrounding the election of the Speaker and Deputy Speaker of the Lok Sabha. In response to the Congress Party’s nomination of N. Sanjive Reddy for Speaker, the party decided to consult other opposition groups and, subject to their approval, propose Shri Mohd. Imam. For Deputy Speaker, the proposed names were Shri Mohd. Imam and the independent Maharashtra member Shri Kunte, with the opposition groups expected to agree on one candidate. Members also debated a proposed opposition motion to abstain from the President’s Address as a protest against the promulgation of President’s Rule in Rajasthan. Because the party had no official information about other opposition parties’ decisions, consideration of that motion was postponed until the next meeting.
 ---
 
+## Summary
+
+This one-page record, issued by the Swatantra Party Parliamentary Office on 17 March 1967, reports on a General Body meeting held the previous day in Room No. 62 of Parliament House, New Delhi. M. R. Masani chaired the meeting, which was attended by 41 listed members, including J. M. Lobo Prabhu, Piloo Mody, R. K. Amin, and Maharani Gayatri Devi; J. M. Lobo Prabhu signed the minutes as Secretary.
+
+The meeting discussed opposition strategy surrounding the election of the Speaker and Deputy Speaker of the Lok Sabha. In response to the Congress Party’s nomination of N. Sanjive Reddy for Speaker, the party decided to consult other opposition groups and, subject to their approval, propose Shri Mohd. Imam. For Deputy Speaker, the proposed names were Shri Mohd. Imam and the independent Maharashtra member Shri Kunte, with the opposition groups expected to agree on one candidate. Members also debated a proposed opposition motion to abstain from the President’s Address as a protest against the promulgation of President’s Rule in Rajasthan. Because the party had no official information about other opposition parties’ decisions, consideration of that motion was postponed until the next meeting.
+
 ## Key points
 
 - The General Body of the Swatantra Party met on 16 March 1967 in Parliament House, New Delhi.

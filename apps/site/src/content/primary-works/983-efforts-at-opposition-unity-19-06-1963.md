@@ -55,6 +55,12 @@ summary: |-
   The resolution also criticises the Praja Socialist Party's Bhopal resolution, arguing that it undermined the spirit of cooperation during a national crisis. The document is undated in its body but bears the Central Office letterhead date of June 19, 1963. No individual author is identified; the text speaks in the name of the Working Committee.
 ---
 
+## Summary
+
+This one-page institutional resolution, passed by the All India Working Committee of the Bharatiya Jana Sangh at Allahabad on June 13–14, 1963, welcomes recent calls by leaders of nationalist parties and groups for closer cooperation. It frames opposition unity as a response to what it calls critical national issues, especially foreign invasion and internal corruption, and states that the Jana Sangh is prepared to participate in such efforts.
+
+The resolution also criticises the Praja Socialist Party's Bhopal resolution, arguing that it undermined the spirit of cooperation during a national crisis. The document is undated in its body but bears the Central Office letterhead date of June 19, 1963. No individual author is identified; the text speaks in the name of the Working Committee.
+
 ## Key points
 
 - The resolution was passed by the Bharatiya Jana Sangh All India Working Committee at Allahabad on June 13–14, 1963.

@@ -48,6 +48,10 @@ summary: |-
   This single-page English administrative record headed “ORISSA” lists seven individuals or groups connected with prospective membership, local organisation, or support for the Swatantra Party. The remarks document requests for membership, interest in studying anti-Sanskrit and anti-English movements, offers to work for the party, and expressions of support for its political position.
 ---
 
+## Summary
+
+This single-page English administrative record headed “ORISSA” lists seven individuals or groups connected with prospective membership, local organisation, or support for the Swatantra Party. The remarks document requests for membership, interest in studying anti-Sanskrit and anti-English movements, offers to work for the party, and expressions of support for its political position.
+
 ## Key points
 
 - The record contains seven numbered entries from people and organisations in Puri, Parlakhemundi, Cuttack, Ganjam, and Balasore.

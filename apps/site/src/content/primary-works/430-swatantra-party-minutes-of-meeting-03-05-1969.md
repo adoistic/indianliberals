@@ -55,6 +55,12 @@ summary: |-
   The record also notes that the Party Leader had received a reply from C. Rajagopalachari (“Rajaji”) concerning C. C. Desai’s private member’s bill on reservation of seats for Scheduled Castes and Scheduled Tribes. Pending a further reply from Rajaji, the Party’s decision was to remain suspended. Finally, N. Dandekar reported on developments surrounding the formation of Congress ministries in Bihar, Uttar Pradesh and Punjab and on the Party’s attitude toward them. The document is signed by D. N. Patodia as Secretary.
 ---
 
+## Summary
+
+This one-page record reports a meeting of the Swatantra Party’s parliamentary General Body held in Room No. 50 on Monday, 3 March 1969, with 24 members listed as present. The meeting opened with discussion of the budget and proposed taxes affecting agriculture, including excise duties on fertilizers, pump sets and lubricants, and an agricultural wealth tax. The members decided to oppose all of these imposts on agricultural and agricultural wealth.
+
+The record also notes that the Party Leader had received a reply from C. Rajagopalachari (“Rajaji”) concerning C. C. Desai’s private member’s bill on reservation of seats for Scheduled Castes and Scheduled Tribes. Pending a further reply from Rajaji, the Party’s decision was to remain suspended. Finally, N. Dandekar reported on developments surrounding the formation of Congress ministries in Bihar, Uttar Pradesh and Punjab and on the Party’s attitude toward them. The document is signed by D. N. Patodia as Secretary.
+
 ## Key points
 
 - The parliamentary General Body met on 3 March 1969, with 24 members recorded as present.

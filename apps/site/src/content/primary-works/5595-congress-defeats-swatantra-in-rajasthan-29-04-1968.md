@@ -49,6 +49,10 @@ summary: |-
   This newspaper clipping, datelined Jaipur, April 24, reports Congress victories over the Swatantra Party in the Dausa Lok Sabha and Chomu Vidhan Sabha constituencies in Rajasthan. It describes the contests as closely fought and says the results were expected to strengthen Congress confidence, while noting that Swatantra candidates had previously held both seats.
 ---
 
+## Summary
+
+This newspaper clipping, datelined Jaipur, April 24, reports Congress victories over the Swatantra Party in the Dausa Lok Sabha and Chomu Vidhan Sabha constituencies in Rajasthan. It describes the contests as closely fought and says the results were expected to strengthen Congress confidence, while noting that Swatantra candidates had previously held both seats.
+
 ## Key points
 
 - Congress won both the Dausa Lok Sabha and Chomu Vidhan Sabha seats.

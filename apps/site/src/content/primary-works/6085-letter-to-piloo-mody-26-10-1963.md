@@ -51,6 +51,12 @@ summary: |-
   Rajagopalachari then expresses a political concern: the Prime Minister may flatter people in the newly “conquered” territory of Goa while ultimately pursuing his own intentions. The accompanying envelope identifies Mody as Executive Chairman of the Swatantra Party's Bombay Region. The second rendered page contains the envelope and faint, largely illegible reverse-side material; no additional clear argument can be established from it.
 ---
 
+## Summary
+
+This untitled personal letter, written by C. Rajagopalachari in Madras on 26 October 1963, responds to Piloo Mody's letter of 24 October. Rajagopalachari acknowledges Mody's optimistic view of Goa and says that the subject deserves attention.
+
+Rajagopalachari then expresses a political concern: the Prime Minister may flatter people in the newly “conquered” territory of Goa while ultimately pursuing his own intentions. The accompanying envelope identifies Mody as Executive Chairman of the Swatantra Party's Bombay Region. The second rendered page contains the envelope and faint, largely illegible reverse-side material; no additional clear argument can be established from it.
+
 ## Key points
 
 - The letter is dated 26 October 1963 and was sent from Rajagopalachari's address in Thyagarayanagar, Madras.

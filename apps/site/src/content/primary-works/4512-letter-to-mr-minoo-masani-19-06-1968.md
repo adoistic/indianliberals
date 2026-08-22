@@ -48,6 +48,10 @@ summary: |-
   This untitled letter from the Swatantra Party Central Office in Bombay, dated June 19, 1968, is addressed by N. Dandeker to M. R. Masani. Dandeker forwards an extract from the minutes of the National Executive meeting held in Madras on May 31, concerning action taken against U. N. Mahida and five Members of the Legislative Assembly who sponsored Mahida’s candidacy.
 ---
 
+## Summary
+
+This untitled letter from the Swatantra Party Central Office in Bombay, dated June 19, 1968, is addressed by N. Dandeker to M. R. Masani. Dandeker forwards an extract from the minutes of the National Executive meeting held in Madras on May 31, concerning action taken against U. N. Mahida and five Members of the Legislative Assembly who sponsored Mahida’s candidacy.
+
 ## Key points
 
 - The letter was issued by the Swatantra Party Central Office in Bombay.

@@ -52,6 +52,12 @@ summary: |-
   In a letter to the party’s general secretary, N. Dandekar, Masani reportedly described the disciplinary action initiated against the six members as “eyewash.” He argued that the party was developing the same cynicism about the sanctity of political pledges and the same contempt for the electorate that he associated with the Congress. Masani said he could do more for the party and democratic processes from outside its executive and parliamentary board, where he would also be free to express the suppressed feelings of rank-and-file members unhappy with the party’s condition.
 ---
 
+## Summary
+
+A newspaper clipping dated May 14, 1968, reports that M. R. Masani had refused appeals from the Swatantra Party’s Central Parliamentary Board and National Executive to withdraw his resignation from both bodies. He had resigned in early April after the conduct of some Swatantra Party members during the Rajya Sabha election in Gujarat: six party MLAs reportedly disregarded the party leadership’s directive, fielded their own candidate against the official nominee, and helped that candidate win.
+
+In a letter to the party’s general secretary, N. Dandekar, Masani reportedly described the disciplinary action initiated against the six members as “eyewash.” He argued that the party was developing the same cynicism about the sanctity of political pledges and the same contempt for the electorate that he associated with the Congress. Masani said he could do more for the party and democratic processes from outside its executive and parliamentary board, where he would also be free to express the suppressed feelings of rank-and-file members unhappy with the party’s condition.
+
 ## Key points
 
 - M. R. Masani declined to withdraw his resignation from the Swatantra Party’s Central Parliamentary Board and National Executive.

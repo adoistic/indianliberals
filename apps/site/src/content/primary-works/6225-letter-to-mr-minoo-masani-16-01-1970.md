@@ -51,6 +51,12 @@ summary: |-
   The second typed page asks Masani to confirm train reservations and addresses the Sundargarh District Conference at Rourkela, explaining that confirmation cannot be given until a returning correspondent is consulted. The two handwritten pages appear to be related travel and scheduling notes, but their handwriting, corrections, and incomplete text make several details difficult to read. The document records the practical coordination of liberal political activity rather than presenting a sustained argument or policy analysis.
 ---
 
+## Summary
+
+This four-page document is a typed letter from S. V. Raju to Minoo Masani, dated 16 January 1970, concerning revised travel arrangements and political meetings. Raju reports that Cooper will not attend Ahmedabad, that Mr. Dandekar’s health may require an operation, and that R. K. Amin is likely to leave for Southeast Asia but may be available in Ahmedabad between 16 and 27 January. He also forwards a proposed 1 February programme in Ahmedabad, including meetings with the Gujarat unit’s state executive, H. M. Patel, the press, and the public.
+
+The second typed page asks Masani to confirm train reservations and addresses the Sundargarh District Conference at Rourkela, explaining that confirmation cannot be given until a returning correspondent is consulted. The two handwritten pages appear to be related travel and scheduling notes, but their handwriting, corrections, and incomplete text make several details difficult to read. The document records the practical coordination of liberal political activity rather than presenting a sustained argument or policy analysis.
+
 ## Key points
 
 - S. V. Raju writes to Minoo Masani on 16 January 1970.

@@ -50,6 +50,12 @@ summary: |-
   The proposed symposium is intended to include leaders representing a broad political spectrum, from the CPI (Marxist) to the Jana Sangh, as well as independent non-party intellectuals. Totla requests an article of about 500 words, linking the invitation to the post-election political situation and asking whether the contributions can help analyse India's political future.
 ---
 
+## Summary
+
+This two-page English letter, dated August 26, 1967, is an invitation from Rameshwardayal M. Totla, Chairman of the Reception Committee for the Bharatiya Kranti Dal National Convention, to Minoo Masani. It announces a symposium to be included in the convention souvenir and asks Masani to contribute an opinion on the future of political parties in India and the prospects for democracy.
+
+The proposed symposium is intended to include leaders representing a broad political spectrum, from the CPI (Marxist) to the Jana Sangh, as well as independent non-party intellectuals. Totla requests an article of about 500 words, linking the invitation to the post-election political situation and asking whether the contributions can help analyse India's political future.
+
 ## Key points
 
 - The letter invites Minoo Masani to contribute to a symposium associated with the Bharatiya Kranti Dal's inaugural national convention.

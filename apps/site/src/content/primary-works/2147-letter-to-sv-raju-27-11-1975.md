@@ -55,6 +55,12 @@ summary: |-
   The attached resolutions condemn the Emergency, arrests of opposition leaders, press censorship, and restrictions on democratic and fundamental rights. They demand the release of political prisoners, restoration of democratic processes, lifting of censorship, withdrawal of the Emergency, and early elections. The documents invoke C. Rajagopalachari’s warnings about authoritarian government and offer cooperation to the DMK and Congress (O) in restoring civil liberties. The complete nine-page file was rendered and read; it consists of the principal letter and attached political notes and draft resolutions.
 ---
 
+## Summary
+
+This 27 November 1975 letter from S. V. Raju to V. S. Srikumar, together with an attached note and draft resolutions, addresses the Swatantra Party’s position during the Emergency. Raju argues that the party should support the consolidation of democratic opposition forces while retaining a clear distinction between the opposition and the ruling party. He also suggests that the government’s partial movement away from economic controls vindicates Swatantra’s criticism of socialist and statist policy, even though he regards those economic changes as inadequate and hesitant.
+
+The attached resolutions condemn the Emergency, arrests of opposition leaders, press censorship, and restrictions on democratic and fundamental rights. They demand the release of political prisoners, restoration of democratic processes, lifting of censorship, withdrawal of the Emergency, and early elections. The documents invoke C. Rajagopalachari’s warnings about authoritarian government and offer cooperation to the DMK and Congress (O) in restoring civil liberties. The complete nine-page file was rendered and read; it consists of the principal letter and attached political notes and draft resolutions.
+
 ## Key points
 
 - Raju links the Swatantra Party’s organizational future to the direction of Indian politics during the Emergency.

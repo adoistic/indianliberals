@@ -55,6 +55,12 @@ summary: |-
   The two enclosed biographical particulars present contrasting candidate profiles. Krishnamma, aged 62, is described as a B.A., B.L., retired District and Sessions Judge, former advocate, local-board member, and former General Secretary of the Andhra State Swatantra Party; he had contested an Assembly seat in 1962 and been defeated. Gopal Rao, aged 33, is described as an Urdu-educated Congress worker who held local cooperative and village-officer-organisation positions before joining the Swatantra Party in June 1965 and becoming vice-president of the Warangal Cooperative Land Mortgage Bank. The document is an administrative record of candidate selection rather than a statement of policy.
 ---
 
+## Summary
+
+This 16 August 1966 Swatantra Party Central Office circular, signed by M. R. Masani as General Secretary, communicates the Andhra Unit Parliamentary Board’s recommendations for two prospective Lok Sabha candidates. T. Krishnamma is proposed for the Narasaraopet constituency and D. Gopal Rao for Warangal, with the Central Office asked to approve or otherwise respond to the recommendations by 6 September 1966.
+
+The two enclosed biographical particulars present contrasting candidate profiles. Krishnamma, aged 62, is described as a B.A., B.L., retired District and Sessions Judge, former advocate, local-board member, and former General Secretary of the Andhra State Swatantra Party; he had contested an Assembly seat in 1962 and been defeated. Gopal Rao, aged 33, is described as an Urdu-educated Congress worker who held local cooperative and village-officer-organisation positions before joining the Swatantra Party in June 1965 and becoming vice-president of the Warangal Cooperative Land Mortgage Bank. The document is an administrative record of candidate selection rather than a statement of policy.
+
 ## Key points
 
 - The circular is dated August 16, 1966, and issued from the Swatantra Party Central Office in Bombay.

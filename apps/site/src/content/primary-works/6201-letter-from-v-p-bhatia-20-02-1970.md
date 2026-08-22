@@ -46,6 +46,10 @@ summary: |-
   This single-page English office letter, dated February 20, 1970, is a brief administrative communication from Mr. V. P. Bhatia of the Swatantra Party in Bombay. It is addressed to Narayan, care of Minoo Masani, at 2 Tughlaq Road, New Delhi 11.
 ---
 
+## Summary
+
+This single-page English office letter, dated February 20, 1970, is a brief administrative communication from Mr. V. P. Bhatia of the Swatantra Party in Bombay. It is addressed to Narayan, care of Minoo Masani, at 2 Tughlaq Road, New Delhi 11.
+
 ## Key points
 
 - The document is a typed office letter and confirmatory copy.

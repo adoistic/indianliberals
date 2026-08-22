@@ -52,3 +52,7 @@ ai:
 summary: |-
   This clipped four-page selection from the January 6, 1973 issue of March of the Nation presents a prominent posthumous tribute to C. Rajagopalachari (Rajaji), alongside an extended critique of Soviet agricultural policy and shorter news briefs and commercial advertisements. The Rajaji article argues that his contribution to Indian public life was clearest in opposition: it praises his administrative record, principled dissent, opposition to socialism, advocacy of Indo-Pak cooperation, and condemnation of Pakistan’s genocide in Bangladesh. It also recalls his relationships and disagreements with Jawaharlal Nehru and Vallabhbhai Patel, and presents his personality as marked by intellectual independence, sincerity, courage, and humility.
 ---
+
+## Summary
+
+This clipped four-page selection from the January 6, 1973 issue of March of the Nation presents a prominent posthumous tribute to C. Rajagopalachari (Rajaji), alongside an extended critique of Soviet agricultural policy and shorter news briefs and commercial advertisements. The Rajaji article argues that his contribution to Indian public life was clearest in opposition: it praises his administrative record, principled dissent, opposition to socialism, advocacy of Indo-Pak cooperation, and condemnation of Pakistan’s genocide in Bangladesh. It also recalls his relationships and disagreements with Jawaharlal Nehru and Vallabhbhai Patel, and presents his personality as marked by intellectual independence, sincerity, courage, and humility.

@@ -49,6 +49,12 @@ summary: |-
   The accompanying Hindi letter is from Kunwar Yashpal Singh, a Lok Sabha member, and is dated 14 September 1964. Addressed to the leader of the Swatantra Party in the Lok Sabha, it says that because of Mr. Masani’s misbehaviour, the writer has been forced to leave the Swatantra Party and asks that his resignation be accepted. The pages therefore document a party-political dispute and a related parliamentary attendance matter, although the precise relationship between the telegram and the letter is not stated.
 ---
 
+## Summary
+
+This two-page archival correspondence file contains an English-language telegram addressed to Minoo Masani and a separate Hindi letter retained with it. The telegram thanks Masani, confirms receipt of summons from the Secretary of the Lok Sabha to attend the next session, and states that the sender will arrive in Delhi by a Sunday evening BOAC flight and contact Masani that night. It is signed “DANDEKAR”; the telegram form itself does not show a clearly legible date.
+
+The accompanying Hindi letter is from Kunwar Yashpal Singh, a Lok Sabha member, and is dated 14 September 1964. Addressed to the leader of the Swatantra Party in the Lok Sabha, it says that because of Mr. Masani’s misbehaviour, the writer has been forced to leave the Swatantra Party and asks that his resignation be accepted. The pages therefore document a party-political dispute and a related parliamentary attendance matter, although the precise relationship between the telegram and the letter is not stated.
+
 ## Key points
 
 - The file consists of a government telegram form and a separate Hindi letter.

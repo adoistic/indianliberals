@@ -57,6 +57,12 @@ summary: |-
   The amendments also add a detailed agricultural commitment, assigning government responsibility for helping small farmers benefit from the Green Revolution through access to inputs, improved techniques, electric power, and remunerative support prices. A further amendment narrows the intended scope of state enterprise to heavy industries needed to supplement private enterprise, national services such as railways, and enterprises that private capital and initiative cannot establish. The document cites the Swatantra Party's Statement of Policy from Patna (March 1960) and its 1962 and 1967 manifestos as sources for the proposed wording.
 ---
 
+## Summary
+
+This two-page draft, attributed to Mr. M. R. Masani, proposes four amendments to the Swatantra Party's draft election manifesto. Its central economic argument is that government should act primarily as a helper and regulator rather than as a commercial participant: public resources should support roads, communications, transport, and cheap electric power instead of being invested in inefficient state trading and manufacturing enterprises. The proposed language retains the party's commitment to a mixed economy while insisting that public and private enterprise operate on equal and autonomous terms.
+
+The amendments also add a detailed agricultural commitment, assigning government responsibility for helping small farmers benefit from the Green Revolution through access to inputs, improved techniques, electric power, and remunerative support prices. A further amendment narrows the intended scope of state enterprise to heavy industries needed to supplement private enterprise, national services such as railways, and enterprises that private capital and initiative cannot establish. The document cites the Swatantra Party's Statement of Policy from Patna (March 1960) and its 1962 and 1967 manifestos as sources for the proposed wording.
+
 ## Key points
 
 - Government is presented as a helper and regulator in industry, not primarily as a participant in business.

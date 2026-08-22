@@ -52,6 +52,12 @@ summary: |-
   The article is especially skeptical of the proposed arrangement’s durability. It highlights disputes over the number of seats to be contested, the Jana Sangh’s demands, the incompatibility between the Swatantra Party and socialist groups, and the absence of agreement on economic policy. It concludes that an alliance formed without a shared programme would be unable to offer voters a credible alternative, while a Congress split could leave the opposition without a clear rallying point. The other rendered pages contain unrelated Financial Express market and commodity reports, including coverage of silver, gold, coffee, rubber, gur and foodgrains.
 ---
 
+## Summary
+
+This Financial Express “New Delhi Letter,” credited only to “From Our Special Representative,” examines the proposed opposition alliance against Prime Minister Indira Gandhi in January 1971. It reports disagreement among the Congress (O), Jana Sangh, Swatantra Party and SSP over a common programme, seat-sharing, leadership and the meaning of an alliance. The article argues that negotiations are being driven more by electoral arithmetic and hostility to Congress than by a coherent ideological or political basis.
+
+The article is especially skeptical of the proposed arrangement’s durability. It highlights disputes over the number of seats to be contested, the Jana Sangh’s demands, the incompatibility between the Swatantra Party and socialist groups, and the absence of agreement on economic policy. It concludes that an alliance formed without a shared programme would be unable to offer voters a credible alternative, while a Congress split could leave the opposition without a clear rallying point. The other rendered pages contain unrelated Financial Express market and commodity reports, including coverage of silver, gold, coffee, rubber, gur and foodgrains.
+
 ## Key points
 
 - The proposed opposition alliance is presented as a response to the Congress split and the challenge posed by Indira Gandhi.

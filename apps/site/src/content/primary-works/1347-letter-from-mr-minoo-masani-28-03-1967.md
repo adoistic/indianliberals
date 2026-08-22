@@ -49,6 +49,10 @@ summary: |-
   This two-page letter, dated March 28, 1967, is Minoo Masani’s response to a request from the Lok Sabha Secretariat concerning the constitution of parliamentary committees. Addressed to M. C. Chagla, Deputy Secretary, Masani forwards his party’s preferred nominees for nine committees and asks that the first choice in each case be accepted unless there are special reasons to the contrary.
 ---
 
+## Summary
+
+This two-page letter, dated March 28, 1967, is Minoo Masani’s response to a request from the Lok Sabha Secretariat concerning the constitution of parliamentary committees. Addressed to M. C. Chagla, Deputy Secretary, Masani forwards his party’s preferred nominees for nine committees and asks that the first choice in each case be accepted unless there are special reasons to the contrary.
+
 ## Key points
 
 - The letter concerns the constitution of parliamentary committees of the Lok Sabha.

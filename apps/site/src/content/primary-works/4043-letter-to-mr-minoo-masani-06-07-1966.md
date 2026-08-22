@@ -44,6 +44,10 @@ summary: |-
   This one-page English acknowledgment letter, dated July 6, 1966, was sent by L. K. Jha from the Prime Minister's Secretariat in New Delhi to M. R. Masani in Bombay. Jha thanks Masani for his June 27 letter and for enclosing a cutting of Leslie Sawhny's article, "The Conscience of Free Enterprise." The document records no substantive response to the article beyond this acknowledgment.
 ---
 
+## Summary
+
+This one-page English acknowledgment letter, dated July 6, 1966, was sent by L. K. Jha from the Prime Minister's Secretariat in New Delhi to M. R. Masani in Bombay. Jha thanks Masani for his June 27 letter and for enclosing a cutting of Leslie Sawhny's article, "The Conscience of Free Enterprise." The document records no substantive response to the article beyond this acknowledgment.
+
 ## Key points
 
 - The letter is dated July 6, 1966, and issued on Prime Minister's Secretariat letterhead.

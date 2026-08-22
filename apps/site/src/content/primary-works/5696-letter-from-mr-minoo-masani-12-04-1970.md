@@ -50,6 +50,12 @@ summary: |-
   Masani refers to an upcoming meeting of the Gujarat State Council on Sunday the 19th and asks the Maharaja to attend, help ensure that no further trouble occurs, and await an official communication from National Headquarters. The visible page does not identify the specific prior incident or explain the organisational context beyond these references.
 ---
 
+## Summary
+
+In this letter dated 12 April 1970, Minoo Masani writes from New Delhi to Maharaja Dalip Singh of Idar. He reports that the expected action has been taken and reassures the recipient that those involved did not lose their nerve. The letter is practical and politically oriented rather than argumentative.
+
+Masani refers to an upcoming meeting of the Gujarat State Council on Sunday the 19th and asks the Maharaja to attend, help ensure that no further trouble occurs, and await an official communication from National Headquarters. The visible page does not identify the specific prior incident or explain the organisational context beyond these references.
+
 ## Key points
 
 - The letter is dated 12 April 1970 and was sent from 2 Tughlak Road, New Delhi 11.

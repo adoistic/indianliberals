@@ -51,6 +51,12 @@ summary: |-
   The letter also sets out an administrative arrangement for improving communication between the National Headquarters, State Offices, district units, and constituency-level organisations. The headquarters would directly receive organisational information from units in states without functioning elected committees, while consulting better-organised states before proceeding. The arrangement is intended both to reduce routine administrative burdens on State Offices and to give active units recognition and encouragement. The letter is signed by Madhu Mehta as General Secretary; Piloo Mody is identified as the Party's President.
 ---
 
+## Summary
+
+This two-page letter from the Swatantra Party's national headquarters, dated March 14, 1973, reports decisions taken by the National Executive at its February 18 meeting in New Delhi. It instructs Party Units to contest village panchayat, block, taluka, and municipal elections wherever possible, arguing that success at Assembly and parliamentary levels requires a strong organisational base at the local level. The letter presents local elections as an opportunity to build the Party's machinery for future state and national contests.
+
+The letter also sets out an administrative arrangement for improving communication between the National Headquarters, State Offices, district units, and constituency-level organisations. The headquarters would directly receive organisational information from units in states without functioning elected committees, while consulting better-organised states before proceeding. The arrangement is intended both to reduce routine administrative burdens on State Offices and to give active units recognition and encouragement. The letter is signed by Madhu Mehta as General Secretary; Piloo Mody is identified as the Party's President.
+
 ## Key points
 
 - The National Executive reviewed the Party's policy on participating in block and panchayat elections.

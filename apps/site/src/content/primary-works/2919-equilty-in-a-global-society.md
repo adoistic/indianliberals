@@ -59,6 +59,12 @@ summary: |-
   In the rendered pages, Patel extends this framework to the emerging global society. He identifies globalisation, communication technologies, international civil society, and economic integration as sources of both opportunity and new inequality. The speech calls for greater equity in individual and group rights, international institutions, economic relations, environmental protection, and the matching of global responsibilities with resources. In the rendered pages, his economic discussion questions whether open trade and global growth distribute benefits fairly, highlights unemployment and wage pressures in advanced countries, and argues for more systematic international action against poverty, including increased aid. The final pages visible here begin a discussion of the international economic system, but the speech continues beyond the rendered material.
 ---
 
+## Summary
+
+In the rendered pages, Dr. I. G. Patel argues that social science must address not only how social relations work but also the values by which they should be judged and shaped. He presents equity as a balancing standard: it must reconcile individual rights with obligations to groups, reason with tradition, and change with continuity. Equity is broader than human rights alone because it includes both reasonable opportunities and freedom from unreasonable constraints, including constraints imposed by inherited status, disability, tradition, or political, social, economic, and religious power.
+
+In the rendered pages, Patel extends this framework to the emerging global society. He identifies globalisation, communication technologies, international civil society, and economic integration as sources of both opportunity and new inequality. The speech calls for greater equity in individual and group rights, international institutions, economic relations, environmental protection, and the matching of global responsibilities with resources. In the rendered pages, his economic discussion questions whether open trade and global growth distribute benefits fairly, highlights unemployment and wage pressures in advanced countries, and argues for more systematic international action against poverty, including increased aid. The final pages visible here begin a discussion of the international economic system, but the speech continues beyond the rendered material.
+
 ## Key points
 
 - Patel treats social science as concerned with both explanation and the values that guide social change.

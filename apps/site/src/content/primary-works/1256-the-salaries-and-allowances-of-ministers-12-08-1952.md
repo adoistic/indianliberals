@@ -50,6 +50,12 @@ summary: |-
   Pages 3–5 reproduce a separate Salaries and Allowances of Ministers Act 1970, while pages 6–7 contain its Statement of Object and Reasons. The 1970 text replaces the earlier benefits structure with an annual salary of Rs. 4,44,000, payable in monthly instalments of Rs. 37,000, and requires ministers to contribute toward facilities such as residences, telephones, personal travel, and motor-car use. It abolishes sumptuary allowances from 1 April 1971 and ends free government-hospital accommodation and medical treatment. The accompanying statement presents the reform as an effort to align ministers’ taxable compensation with that of other citizens and remove what it calls discrimination in their favour. The file should therefore be treated as a composite scan or its boundaries independently verified.
 ---
 
+## Summary
+
+The rendered pages contain a composite legislative scan. Pages 1–2 reproduce the Salaries and Allowances of Ministers Act, 1952, dated 12 August 1952 and numbered LVIII of 1952. The Act defines “Minister” to include a Deputy Minister and establishes salaries, furnished residences, a possible sumptuary allowance, travelling and daily allowances, medical treatment, and repayable advances for motor-car purchases. It also prevents ministers from drawing parliamentary salaries or allowances in addition to benefits under the Act, provides for Gazette notification of ministerial appointments, authorises Central Government rules, regularises certain earlier payments, and repeals the 1947 Act.
+
+Pages 3–5 reproduce a separate Salaries and Allowances of Ministers Act 1970, while pages 6–7 contain its Statement of Object and Reasons. The 1970 text replaces the earlier benefits structure with an annual salary of Rs. 4,44,000, payable in monthly instalments of Rs. 37,000, and requires ministers to contribute toward facilities such as residences, telephones, personal travel, and motor-car use. It abolishes sumptuary allowances from 1 April 1971 and ends free government-hospital accommodation and medical treatment. The accompanying statement presents the reform as an effort to align ministers’ taxable compensation with that of other citizens and remove what it calls discrimination in their favour. The file should therefore be treated as a composite scan or its boundaries independently verified.
+
 ## Key points
 
 - The scan begins with the 1952 Salaries and Allowances of Ministers Act, No. LVIII of 1952, dated 12 August 1952.

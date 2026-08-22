@@ -53,6 +53,12 @@ summary: |-
   The appeal distinguishes contributions to local branches from donations to the party’s Central Organisation and welcomes sums of any size. It provides addresses in Bangalore and Bombay for sending cheques and money orders. The document therefore combines a defence of the party’s social reach with a practical appeal for the financial resources needed to build a broad-based opposition to the ruling political party and its welfare-state programme.
 ---
 
+## Summary
+
+This single-page letter, dated 7 September 1959 and issued on Swatantra Party letterhead, asks its unnamed recipient to publicise a fundraising appeal headed “RAJAJI WRITES.” C. Rajagopalachari presents the party as committed to maximum freedom while protecting society’s weaker elements, rejecting the claim that it represents only wealthy interests. He calls for broad support across social classes, both through party membership and financial contributions.
+
+The appeal distinguishes contributions to local branches from donations to the party’s Central Organisation and welcomes sums of any size. It provides addresses in Bangalore and Bombay for sending cheques and money orders. The document therefore combines a defence of the party’s social reach with a practical appeal for the financial resources needed to build a broad-based opposition to the ruling political party and its welfare-state programme.
+
 ## Key points
 
 - The letter is dated 7 September 1959 and appears on Swatantra Party letterhead.

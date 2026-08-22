@@ -51,6 +51,12 @@ summary: |-
   Masani attributes the deterioration in relations to three incidents: a Bihar State Executive resolution alleging that the Centre had failed to honour financial-support promises; the Election Commission's cancellation of recognition of the Swatantra Party in Bihar over the head of the party and despite the President's requests; and a vote of censure against the party's General Secretary. He rejects claims that Central decisions were driven by prejudice or caste considerations, while acknowledging that caste may have been overlooked in recommending parliamentary constituencies. He closes by urging the recipient to set aside the dispute with Jankibabu and focus on the party's organisational and constitutional difficulties.
 ---
 
+## Summary
+
+In this two-page personal and confidential letter dated November 14, 1961, M. R. Masani responds to Raja Saheb's account of a dispute involving the Bihar unit of the Swatantra Party. Masani argues that the conflict with Jankibabu is not the central issue. He identifies the deeper question as whether the state unit's president is prepared to accept the minimum discipline and integrated character required of a modern national democratic party while retaining substantial autonomy for the state unit.
+
+Masani attributes the deterioration in relations to three incidents: a Bihar State Executive resolution alleging that the Centre had failed to honour financial-support promises; the Election Commission's cancellation of recognition of the Swatantra Party in Bihar over the head of the party and despite the President's requests; and a vote of censure against the party's General Secretary. He rejects claims that Central decisions were driven by prejudice or caste considerations, while acknowledging that caste may have been overlooked in recommending parliamentary constituencies. He closes by urging the recipient to set aside the dispute with Jankibabu and focus on the party's organisational and constitutional difficulties.
+
 ## Key points
 
 - Masani says the dispute between the Bihar President and Jankibabu is not the real cause of the trouble.

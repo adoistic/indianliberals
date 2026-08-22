@@ -43,6 +43,10 @@ summary: |-
   This two-page English correspondence from Bombay consists of a letter dated 9 April 1964 from Fazal A. Fazalbhoy to Minoo Masani, enclosing a letter dated 8 April to C. Rajagopalachari (Rajaji). Fazalbhoy acknowledges Masani’s letter and says he is enclosing his own invitation-related correspondence concerning Rajaji’s forthcoming talk.
 ---
 
+## Summary
+
+This two-page English correspondence from Bombay consists of a letter dated 9 April 1964 from Fazal A. Fazalbhoy to Minoo Masani, enclosing a letter dated 8 April to C. Rajagopalachari (Rajaji). Fazalbhoy acknowledges Masani’s letter and says he is enclosing his own invitation-related correspondence concerning Rajaji’s forthcoming talk.
+
 ## Key points
 
 - Fazal A. Fazalbhoy writes to Minoo Masani from Bombay on 9 April 1964.

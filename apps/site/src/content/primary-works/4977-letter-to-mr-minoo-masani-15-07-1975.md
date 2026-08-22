@@ -54,6 +54,12 @@ summary: |-
   The letter argues that the Swatantra Party should help mobilise public opinion in Tamil Nadu against the continuation of the Emergency and the detention of democratic-opposition leaders. It notes the Tamil Nadu government's helpful attitude under M. Karunanidhi and proposes inviting a senior Congress leader and Jan Sangh representative to participate in the meeting. The typed signature identifies the sender only partially as a joint secretary, appearing to read “V. S. Sri...”; the surname is not sufficiently legible for authoritative resolution. The second rendered page is an addressed envelope and contains no substantive additional argument.
 ---
 
+## Summary
+
+This two-page English letter, dated 13 July 1975 and issued from the Swatantra Party's National Headquarters in Madras, invites M. A. Masani to address a public meeting at Gokhale Hall or another suitable venue within ten days. The writer asks Masani to speak about the political situation following the declaration of the second Emergency on 26 June 1975 and the detention of opposition leaders, especially Jayaprakash Narayan.
+
+The letter argues that the Swatantra Party should help mobilise public opinion in Tamil Nadu against the continuation of the Emergency and the detention of democratic-opposition leaders. It notes the Tamil Nadu government's helpful attitude under M. Karunanidhi and proposes inviting a senior Congress leader and Jan Sangh representative to participate in the meeting. The typed signature identifies the sender only partially as a joint secretary, appearing to read “V. S. Sri...”; the surname is not sufficiently legible for authoritative resolution. The second rendered page is an addressed envelope and contains no substantive additional argument.
+
 ## Key points
 
 - The letter is dated 13 July 1975 and was sent from the Swatantra Party National Headquarters in Madras.

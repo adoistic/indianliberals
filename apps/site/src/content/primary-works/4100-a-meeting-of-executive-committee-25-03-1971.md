@@ -52,6 +52,12 @@ summary: |-
   The draft minutes list sixteen attendees and record remarks by Chairman Dr. R. C. Cooper on the Swatantra Party’s performance in the Lok Sabha mid-term elections. Cooper described the formation and electoral effect of an alliance with other parties, discussed the ruling party’s unexpectedly large victory, and addressed rumours of ballot-paper manipulation. He said the matter was being investigated, while distinguishing between the Party’s usual reluctance to litigate and individual voters’ right to seek legal redress. The meeting ended with a request that members study the election results for guidance in future elections.
 ---
 
+## Summary
+
+This two-page Swatantra Party (Bombay Region) office paper combines a notice dated 25 March 1971 with draft minutes of the Executive Committee meeting held on 17 March 1971. The notice sets an agenda for the forthcoming 31 March meeting: confirming previous minutes, considering whether to contest the Maharashtra Legislative Council (Graduates’ Constituency) vacancy created by Madhu Dandavate’s election to the Lok Sabha, discussing the 1972 Assembly elections, and taking up other business with the Chair’s consent. It also asks members whose subscriptions expired at the end of 1970 to renew their membership.
+
+The draft minutes list sixteen attendees and record remarks by Chairman Dr. R. C. Cooper on the Swatantra Party’s performance in the Lok Sabha mid-term elections. Cooper described the formation and electoral effect of an alliance with other parties, discussed the ruling party’s unexpectedly large victory, and addressed rumours of ballot-paper manipulation. He said the matter was being investigated, while distinguishing between the Party’s usual reluctance to litigate and individual voters’ right to seek legal redress. The meeting ended with a request that members study the election results for guidance in future elections.
+
 ## Key points
 
 - The paper announces a 31 March 1971 Executive Committee meeting of the Swatantra Party’s Bombay Region.

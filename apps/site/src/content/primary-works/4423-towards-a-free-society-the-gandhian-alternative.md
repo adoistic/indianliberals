@@ -65,6 +65,10 @@ summary: |-
   The four-page English pamphlet presents the Janata Party as a national political alternative committed to democracy, service, and a society organised around Gandhian principles. Its political programme stresses civil liberties, restoration of democratic institutions, opposition to authoritarian rule, decentralisation, village-level initiative, an independent judiciary, electoral reform, and safeguards against corruption and administrative abuse. The pamphlet also frames the Janata Party as a unified national party rather than merely an alliance of opposition groups, and contrasts its electoral prospects with Congress's past ability to win a disproportionate share of seats.
 ---
 
+## Summary
+
+The four-page English pamphlet presents the Janata Party as a national political alternative committed to democracy, service, and a society organised around Gandhian principles. Its political programme stresses civil liberties, restoration of democratic institutions, opposition to authoritarian rule, decentralisation, village-level initiative, an independent judiciary, electoral reform, and safeguards against corruption and administrative abuse. The pamphlet also frames the Janata Party as a unified national party rather than merely an alliance of opposition groups, and contrasts its electoral prospects with Congress's past ability to win a disproportionate share of seats.
+
 ## Key points
 
 - The pamphlet describes the Janata Party as a unified national party formed from the merger of opposition groups.

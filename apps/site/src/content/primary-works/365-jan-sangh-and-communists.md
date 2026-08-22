@@ -53,6 +53,12 @@ summary: |-
   In the rendered pages, the author traces this accommodation through electoral adjustments, cooperation with Left parties, support for selected socialist measures such as partial state trading and transport nationalisation, and the Jana Sangh's conduct during the 1969 bank-nationalisation and presidential-election controversies. The discussion also criticises Jana Sangh leaders for presenting tactical alliances as pragmatism while retaining occasional anti-communist rhetoric. Minoo Masani's criticism of these shifts is used to argue that the party sacrificed political judgement, consistency, and democratic-nationalist principles for office and influence. The pages end by portraying the Jana Sangh's cooperation with communists as an opportunistic effort to acquire respectability and share power.
 ---
 
+## Summary
+
+In the rendered pages, the author argues that the Bharatiya Jana Sangh's public opposition to communism concealed a pattern of tactical cooperation. Drawing on statements in Organiser, Link, Patriot, and other newspapers, the text presents both the Jana Sangh and the Communist parties as extremist, opportunistic, and willing to abandon ideological differences when political power was at stake. The central evidence is the post-1967 formation of coalition governments, especially in Bihar and other states, in which the Jana Sangh and the CPI worked together despite their declared antagonism.
+
+In the rendered pages, the author traces this accommodation through electoral adjustments, cooperation with Left parties, support for selected socialist measures such as partial state trading and transport nationalisation, and the Jana Sangh's conduct during the 1969 bank-nationalisation and presidential-election controversies. The discussion also criticises Jana Sangh leaders for presenting tactical alliances as pragmatism while retaining occasional anti-communist rhetoric. Minoo Masani's criticism of these shifts is used to argue that the party sacrificed political judgement, consistency, and democratic-nationalist principles for office and influence. The pages end by portraying the Jana Sangh's cooperation with communists as an opportunistic effort to acquire respectability and share power.
+
 ## Key points
 
 - The author disputes the common view that the Jana Sangh was consistently opposed to communism.

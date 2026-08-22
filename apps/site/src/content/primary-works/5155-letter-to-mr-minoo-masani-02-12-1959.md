@@ -45,6 +45,10 @@ summary: |-
   This single-page document is a handwritten telegram on a printed telegraph-office form, addressed to Minoo Masani. The form records standard transmission fields, including the recipient, sender, receipt details, service instructions, and a handwritten message. The message and sender's signature are too faint and damaged to read reliably from the rendered page, so its subject and exact wording cannot be established.
 ---
 
+## Summary
+
+This single-page document is a handwritten telegram on a printed telegraph-office form, addressed to Minoo Masani. The form records standard transmission fields, including the recipient, sender, receipt details, service instructions, and a handwritten message. The message and sender's signature are too faint and damaged to read reliably from the rendered page, so its subject and exact wording cannot be established.
+
 ## Key points
 
 - The document is a single-page handwritten telegram.

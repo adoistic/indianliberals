@@ -54,6 +54,12 @@ summary: |-
   The writer rejects the idea that either government can responsibly suppress Opinion merely because its reasoned columns challenge the authorities. The letter instead presents the prohibition as an attempt to shield the Indira Gandhi regime from truthful, independent criticism during the Emergency. It closes by urging readers to preserve their mental integrity and courage, arguing that freedom can survive even under severe pressure if people continue to think and judge independently.
 ---
 
+## Summary
+
+In this personal and confidential letter dated 13 July 1976, the signer, whose handwritten signature appears to read “Masani,” explains why no further issues of Opinion will appear. The letter states that the Government of Maharashtra, with the prior approval of the Government of India, has prohibited the publication from making and publishing Opinion and from using any press for those purposes, citing public safety, public order, and internal security.
+
+The writer rejects the idea that either government can responsibly suppress Opinion merely because its reasoned columns challenge the authorities. The letter instead presents the prohibition as an attempt to shield the Indira Gandhi regime from truthful, independent criticism during the Emergency. It closes by urging readers to preserve their mental integrity and courage, arguing that freedom can survive even under severe pressure if people continue to think and judge independently.
+
 ## Key points
 
 - The letter announces that no further issues of Opinion will be published.

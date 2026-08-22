@@ -52,6 +52,12 @@ summary: |-
   The article emphasizes that alliance participation would depend on agreement over a minimum common programme and on preserving the Swatantra Party's identity and policy position. It also reports on preparations for selecting candidates, consultations involving party leaders and Rajya Sabha members, and the party's assessment of the political situation in Orissa. The clipping is a single contemporary news report; its printed dateline is Bombay, January 7, while the archival sheet is handwritten 8/1/71.
 ---
 
+## Summary
+
+This Hindustan Times report describes the Swatantra Party's possible participation in an opposition alliance ahead of the 1971 elections. Its national executive was expected to approve active involvement in a broader national front of “democratic” parties, partly to prevent the Congress (R) from benefiting electorally from divisions among non-Communist opposition groups. The report says the party was particularly concerned about the implications of cooperation with the Samyukta Socialist Party and the Marxist Communist Party, while still resisting any formal merger.
+
+The article emphasizes that alliance participation would depend on agreement over a minimum common programme and on preserving the Swatantra Party's identity and policy position. It also reports on preparations for selecting candidates, consultations involving party leaders and Rajya Sabha members, and the party's assessment of the political situation in Orissa. The clipping is a single contemporary news report; its printed dateline is Bombay, January 7, while the archival sheet is handwritten 8/1/71.
+
 ## Key points
 
 - The Swatantra Party's national executive was expected to consider joining an opposition national front.

@@ -51,6 +51,12 @@ summary: |-
   Masani frames the moment as an opportunity for “an agonising reappraisal” of the principles the party stands for. He says he is arranging meetings of the party’s National Executive and General Council for the second half of April, when more information will be available and the immediate controversy will have settled.
 ---
 
+## Summary
+
+In this letter dated 17 March 1971, Minoo Masani thanks Siraj Meghrajji of Dhrangadhra for a telegram expressing solidarity after events in Rajkot. Masani says the situation is “very bad” and warns that the consequences of what he calls “our mistake” will be borne by the people in the coming months and years.
+
+Masani frames the moment as an opportunity for “an agonising reappraisal” of the principles the party stands for. He says he is arranging meetings of the party’s National Executive and General Council for the second half of April, when more information will be available and the immediate controversy will have settled.
+
 ## Key points
 
 - The letter is dated 17 March 1971 and addressed to Siraj Meghrajji of Dhrangadhra.

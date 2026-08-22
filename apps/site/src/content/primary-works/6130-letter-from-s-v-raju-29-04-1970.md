@@ -44,6 +44,10 @@ summary: |-
   This one-page English letter, dated April 29, 1970, is from S. V. Raju to Mr. R. Harwan in New Delhi. Raju thanks Harwan for his letter of April 24 and confirms that Harwan's friend Ajay has delivered two issues of Lok Sabha Debates for Raju to use for a few days. The letter closes with brief personal regards and Raju's signature.
 ---
 
+## Summary
+
+This one-page English letter, dated April 29, 1970, is from S. V. Raju to Mr. R. Harwan in New Delhi. Raju thanks Harwan for his letter of April 24 and confirms that Harwan's friend Ajay has delivered two issues of Lok Sabha Debates for Raju to use for a few days. The letter closes with brief personal regards and Raju's signature.
+
 ## Key points
 
 - The letter is dated April 29, 1970.

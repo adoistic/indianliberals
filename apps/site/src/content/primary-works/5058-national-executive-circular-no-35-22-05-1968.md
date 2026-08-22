@@ -51,6 +51,12 @@ summary: |-
   The reproduced explanations generally present the members as loyal party workers who acted amid confusion, changing instructions, competing assurances, and inadequate communication about the Central Board’s decision. The Gujarat State President’s comments reject or qualify these defences, stressing that members were expected to follow the Board’s decision once it had been communicated. The circular therefore documents an internal conflict over party discipline, candidate selection, authority between the central and state organisations, and the handling of confidential withdrawal letters. It includes the General Secretary N. Dandekar’s request that recipients study the papers and bring them to the forthcoming National Executive meeting.
 ---
 
+## Summary
+
+National Executive Circular No. 35, issued by the Swatantra Party Central Office in Bombay on 22 May 1968, assembles disciplinary charges, member explanations, and the Gujarat State Unit President’s comments concerning the March 1968 Rajya Sabha election. The central dispute concerned the nomination of U. N. Mahida by members of the Gujarat Legislative Assembly despite the Central Parliamentary Board’s decision to support Babubhai Vaidya as the Party’s candidate. Set I addresses Natwarsingh Solanki, Jambubhai Bhatt, and Chunilal Vasave; Set II addresses Chandrakant Parikh; and Set III addresses Thakore Saheb Chandrasinhji Jadeja of Dhrol.
+
+The reproduced explanations generally present the members as loyal party workers who acted amid confusion, changing instructions, competing assurances, and inadequate communication about the Central Board’s decision. The Gujarat State President’s comments reject or qualify these defences, stressing that members were expected to follow the Board’s decision once it had been communicated. The circular therefore documents an internal conflict over party discipline, candidate selection, authority between the central and state organisations, and the handling of confidential withdrawal letters. It includes the General Secretary N. Dandekar’s request that recipients study the papers and bring them to the forthcoming National Executive meeting.
+
 ## Key points
 
 - The circular is dated 22 May 1968 and was issued from the Swatantra Party Central Office in Bombay by General Secretary N. Dandekar.

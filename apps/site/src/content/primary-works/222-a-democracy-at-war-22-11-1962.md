@@ -57,6 +57,12 @@ summary: |-
   Masani then applies this framework to India’s response to Chinese expansionism. He attributes the 1962 crisis to years of appeasement, misplaced faith in Panchsheel, secrecy about Chinese incursions, and a failure to understand international communism. He criticises the government’s handling of Tibet, Ladakh, and parliamentary debate, and describes a widening gap between the Prime Minister, Parliament, the Opposition, and the Army. The closing section defends an active democratic Opposition: it should cooperate in the national defence effort while freely criticising policies it considers harmful to the country.
 ---
 
+## Summary
+
+In this 1962 address, M. R. Masani contrasts democratic national unity with the enforced unity of totalitarian regimes. Drawing on Britain’s wartime experience, he argues that a democracy can maintain constitutional government, parliamentary functioning, and an uncensored press while still pursuing military victory. The wartime Opposition, he contends, owed unconditional support to the defence effort but not automatic support to the government of the day; its proper role was loyal, critical, and constitutional.
+
+Masani then applies this framework to India’s response to Chinese expansionism. He attributes the 1962 crisis to years of appeasement, misplaced faith in Panchsheel, secrecy about Chinese incursions, and a failure to understand international communism. He criticises the government’s handling of Tibet, Ladakh, and parliamentary debate, and describes a widening gap between the Prime Minister, Parliament, the Opposition, and the Army. The closing section defends an active democratic Opposition: it should cooperate in the national defence effort while freely criticising policies it considers harmful to the country.
+
 ## Key points
 
 - Masani distinguishes democratic unity in freedom from totalitarian unity imposed by the state.

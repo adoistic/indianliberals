@@ -51,6 +51,12 @@ summary: |-
   The questionnaire asks where the country is headed; what industrial growth might look like under the new phase of the ruling Congress; how economic policy should address regional differences; whether parties should unite around politico-economic objectives; and what attitude should be taken toward the Princes’ Privy Purses. Its foreign-policy section characterizes India’s policy toward the Arab-Israeli conflict as half-witted and questions India’s unpredictability and limited international influence. The document records the magazine’s editorial agenda and questions, but does not include Masani’s responses or any published article.
 ---
 
+## Summary
+
+This two-page document is a 30 December 1969 solicitation from Bankey Behari Bhatnagar, chief editor of Press and Public Relations, to Minoo Masani, identified as Swatantra President. Bhatnagar describes the magazine as an intensely non-political, non-aligned periodical intended to present balanced opinion and seek the essential unity of the nation. He invites Masani to contribute an article on a political, economic, or social aspect of the country, and encloses a questionnaire to guide a possible contribution.
+
+The questionnaire asks where the country is headed; what industrial growth might look like under the new phase of the ruling Congress; how economic policy should address regional differences; whether parties should unite around politico-economic objectives; and what attitude should be taken toward the Princes’ Privy Purses. Its foreign-policy section characterizes India’s policy toward the Arab-Israeli conflict as half-witted and questions India’s unpredictability and limited international influence. The document records the magazine’s editorial agenda and questions, but does not include Masani’s responses or any published article.
+
 ## Key points
 
 - The document is an editorial invitation dated 30 December 1969.

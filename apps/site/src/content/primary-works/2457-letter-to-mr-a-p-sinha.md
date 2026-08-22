@@ -50,6 +50,12 @@ summary: |-
   Masani asks that the matter be treated as closed, while offering to show Sinha the complete file if required. The letter broadens the immediate vehicle dispute into a complaint about several years of harassment by the R.T.O.'s office, which Masani attributes to its incompetence and negligence in handling vehicles belonging to the Swatantra Party. The rendered file also includes a handwritten cover notation identifying “MODY AND COLGAN” and their Bombay address.
 ---
 
+## Summary
+
+This five-page archival file contains a draft letter from M. R. Masani to Mr. A. P. Sinha, dated in response to Sinha's letter of 27 February 1987. Masani says he conducted research concerning Motor Vehicle No. MRG 2347 and refers Sinha to an attached note. He states that the Regional Transport Office was informed of the vehicle's sale to Mr. Piloo Mody, M.P., and of its dispatch to Godhra, Gujarat; further enquiries are directed to Mody & Colgan in Bombay.
+
+Masani asks that the matter be treated as closed, while offering to show Sinha the complete file if required. The letter broadens the immediate vehicle dispute into a complaint about several years of harassment by the R.T.O.'s office, which Masani attributes to its incompetence and negligence in handling vehicles belonging to the Swatantra Party. The rendered file also includes a handwritten cover notation identifying “MODY AND COLGAN” and their Bombay address.
+
 ## Key points
 
 - The document is a draft administrative letter by M. R. Masani to Mr. A. P. Sinha.

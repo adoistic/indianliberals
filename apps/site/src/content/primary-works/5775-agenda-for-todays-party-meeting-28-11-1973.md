@@ -51,6 +51,12 @@ summary: |-
   The agenda indicates attention to both internal party administration and electoral organisation, with separate items for communications, student and labour engagement, local-unit mobilisation, and a specific Bombay Central election. No discussion, resolutions, speakers, or outcomes are included on the rendered page.
 ---
 
+## Summary
+
+This one-page document, dated Bombay, November 28, 1973, sets out the agenda for a party meeting. The listed business covers office matters, finances, press liaison, student liaison, labour, elections, organisation of districts and primary units, the Bombay Central election, and the first meeting of the executive committee.
+
+The agenda indicates attention to both internal party administration and electoral organisation, with separate items for communications, student and labour engagement, local-unit mobilisation, and a specific Bombay Central election. No discussion, resolutions, speakers, or outcomes are included on the rendered page.
+
 ## Key points
 
 - The document is an agenda for a party meeting held in Bombay on November 28, 1973.

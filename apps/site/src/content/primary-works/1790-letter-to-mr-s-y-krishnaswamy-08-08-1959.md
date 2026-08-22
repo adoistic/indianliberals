@@ -47,6 +47,12 @@ summary: |-
   In his reply dated 8 August, Cooper thanks Krishnaswamy for his letter of 4 August and accepts Krishnaswamy's nomination of him as a member of the Central Organising Committee of the Swatantra Party. The exchange offers brief administrative evidence of the party's early organisational and financial arrangements.
 ---
 
+## Summary
+
+This two-page correspondence records an exchange between S. Y. Krishnaswamy and R. C. Cooper in August 1959, during the formation of the Swatantra Party. In his letter dated 7 August, Krishnaswamy forwards a letter from Minoo Masani together with a draft for Rs. 151, explaining that a treasurer had not yet been formally constituted and asking Cooper to take the necessary action.
+
+In his reply dated 8 August, Cooper thanks Krishnaswamy for his letter of 4 August and accepts Krishnaswamy's nomination of him as a member of the Central Organising Committee of the Swatantra Party. The exchange offers brief administrative evidence of the party's early organisational and financial arrangements.
+
 ## Key points
 
 - The document contains two letters exchanged on 7 and 8 August 1959.

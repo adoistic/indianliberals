@@ -51,6 +51,12 @@ summary: |-
   The letter also discusses party finances, specifically the provision of funds to the Karnataka unit. Srikumar says that Minoo Masani’s efforts had produced negative results but suggests that, once the Karnataka unit establishes a stronger political presence, K. H. Srinivasan and V. I. Srinivasan might agree to provide financial assistance. The letter closes by noting that Raju will not be travelling to Madras for valid reasons.
 ---
 
+## Summary
+
+This one-page English letter, dated 5 April 1975 and written from the Swatantra Party National Headquarters in Madras, is addressed to S. V. Raju. V. S. Srikumar acknowledges Raju’s comments on the scheduling and relative roles of the National Executive and Central Parliamentary Board. Srikumar reports that an informal decision had been taken to convene the National Executive before the end of March, while noting that important matters would remain subject to approval by the National General Council.
+
+The letter also discusses party finances, specifically the provision of funds to the Karnataka unit. Srikumar says that Minoo Masani’s efforts had produced negative results but suggests that, once the Karnataka unit establishes a stronger political presence, K. H. Srinivasan and V. I. Srinivasan might agree to provide financial assistance. The letter closes by noting that Raju will not be travelling to Madras for valid reasons.
+
 ## Key points
 
 - The letter is dated 5 April 1975 and was sent from the Swatantra Party National Headquarters in Madras.

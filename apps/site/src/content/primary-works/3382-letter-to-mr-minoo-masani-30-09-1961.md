@@ -49,6 +49,12 @@ summary: |-
   The writer reports that the Central Bank of India paid Rs. 4,99,997 to Mahindra & Mahindra Ltd. against his overdraft account, as payment for 33 new Jeeps. He explains that the bank loan is to be repaid in monthly instalments of Rs. 20,000, beginning on August 21, and asks Masani to arrange payment of the first instalment, which fell due on September 21, as well as subsequent payments on their due dates.
 ---
 
+## Summary
+
+This three-page item consists of a typed letter dated September 30, 1961, on Swatantra Party Bihar letterhead, followed by the front and back of its envelope. The letter is addressed to M. R. Masani, the Swatantra Party of India's general secretary, in Bombay, and is signed by Ramakrishna Narain from the party's Bihar branch in Patna.
+
+The writer reports that the Central Bank of India paid Rs. 4,99,997 to Mahindra & Mahindra Ltd. against his overdraft account, as payment for 33 new Jeeps. He explains that the bank loan is to be repaid in monthly instalments of Rs. 20,000, beginning on August 21, and asks Masani to arrange payment of the first instalment, which fell due on September 21, as well as subsequent payments on their due dates.
+
 ## Key points
 
 - The letter is dated September 30, 1961, and was sent from the Swatantra Party Bihar branch in Patna.

@@ -55,6 +55,12 @@ summary: |-
   The letter focuses particularly on the government's support for a statewide “Bandh” or strike, arguing that a government cannot itself organise a strike while claiming to maintain law and order. It cites arrests of senior officials, disputes over Central Reserve Police protection at Central government installations, and the alleged humiliation of former Governor Shri Dharma Vira. The Swatantra Party calls on the Central government either to govern effectively or leave office, with priority given to constitutional preservation, law and order, and protection of Central government interests.
 ---
 
+## Summary
+
+This two-page letter, dated April 11, 1969, is issued by the Swatantra Party Parliamentary Office and attributed to Prof. N. G. Ranga, the party's parliamentary leader. Addressed to Prime Minister Indira Gandhi, it condemns the recently formed United Front government in West Bengal, which the letter alleges has violated the Constitution, obstructed the Central government, interfered with Central property and employees, and endangered India's unity and integrity.
+
+The letter focuses particularly on the government's support for a statewide “Bandh” or strike, arguing that a government cannot itself organise a strike while claiming to maintain law and order. It cites arrests of senior officials, disputes over Central Reserve Police protection at Central government installations, and the alleged humiliation of former Governor Shri Dharma Vira. The Swatantra Party calls on the Central government either to govern effectively or leave office, with priority given to constitutional preservation, law and order, and protection of Central government interests.
+
 ## Key points
 
 - The letter alleges that West Bengal's United Front government is acting unconstitutionally and unlawfully.

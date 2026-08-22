@@ -51,6 +51,12 @@ summary: |-
   In the rendered page, the article considers the proposal that anti-Congress and other democratic parties should merge into a single national democratic party. It distinguishes between merely tactical electoral cooperation and a deeper political organisation capable of presenting a credible alternative to the ruling party. The discussion also contrasts democratic opposition with communist and socialist tendencies, while stressing the need for a broad opposition platform suited to India's political circumstances. The supplied page does not identify the author, newspaper, publisher, or place of publication.
 ---
 
+## Summary
+
+This Marathi newspaper article, dated 28 July 1963, asks how India's opposition parties should unite. It begins from two principles of democratic government: where unanimity is impossible, administration should follow the majority decision, while the opposition must retain the right to challenge the government. Against this background, it argues that the existence of a large, effective opposition is essential to democracy and questions whether India's fragmented opposition can fulfil that role.
+
+In the rendered page, the article considers the proposal that anti-Congress and other democratic parties should merge into a single national democratic party. It distinguishes between merely tactical electoral cooperation and a deeper political organisation capable of presenting a credible alternative to the ruling party. The discussion also contrasts democratic opposition with communist and socialist tendencies, while stressing the need for a broad opposition platform suited to India's political circumstances. The supplied page does not identify the author, newspaper, publisher, or place of publication.
+
 ## Key points
 
 - Democratic government must rely on majority decisions when unanimity cannot be achieved.

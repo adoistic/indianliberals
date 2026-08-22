@@ -53,6 +53,12 @@ summary: |-
   The attached handwritten pages appear to be meeting-related notes rather than a separately titled document. They discuss the party’s difficult financial and organisational circumstances, possible resignations and disciplinary or leadership questions, the party’s declining influence, and the legacy of Rajaji. The notes also refer to Piloo Mody and M. R. Masani, and express a continuing commitment to the Swatantra Party despite criticism and uncertainty. The handwriting, crossings-out, and damaged or ambiguous passages make some details difficult to read.
 ---
 
+## Summary
+
+This 7 August 1974 circular from the Swatantra Party Maharashtra office announces an Executive Committee meeting in Bombay for 17 August 1974. Its agenda is to confirm the minutes of the 15 July meeting, receive reports from the National Convention held in Delhi on 4–5 August, and consider other matters with the chairman’s permission. Delegates from Maharashtra who attended the Delhi convention are specifically invited to report their impressions.
+
+The attached handwritten pages appear to be meeting-related notes rather than a separately titled document. They discuss the party’s difficult financial and organisational circumstances, possible resignations and disciplinary or leadership questions, the party’s declining influence, and the legacy of Rajaji. The notes also refer to Piloo Mody and M. R. Masani, and express a continuing commitment to the Swatantra Party despite criticism and uncertainty. The handwriting, crossings-out, and damaged or ambiguous passages make some details difficult to read.
+
 ## Key points
 
 - The circular is dated 7 August 1974 and is issued from the Swatantra Party Maharashtra office in Bombay.

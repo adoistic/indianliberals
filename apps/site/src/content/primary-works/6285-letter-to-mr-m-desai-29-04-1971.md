@@ -53,6 +53,12 @@ summary: |-
   The accompanying handwritten letter from Nalinkumar M. Desai urges Masani to resign. Desai cites the party’s setback in recent elections, argues that the president should acknowledge responsibility, and proposes that a younger and capable person take over. The two pages therefore document an internal debate over leadership responsibility, succession, and organisational renewal. The document’s dating is inconsistent: page 1 is printed April 29, 1973, while page 2 bears a 16 April 1971 receipt stamp and a handwritten date of 14/4/70.
 ---
 
+## Summary
+
+This two-page correspondence concerns Minoo Masani’s position as president of the Swatantra Party. In his typed letter dated April 29, 1973, Masani explains that he delayed replying until after the General Council meeting. He says he persuaded colleagues to permit him to step down from the presidency, arguing that this would serve the party’s long-term interests and create an opportunity for “stock-taking and long term action.”
+
+The accompanying handwritten letter from Nalinkumar M. Desai urges Masani to resign. Desai cites the party’s setback in recent elections, argues that the president should acknowledge responsibility, and proposes that a younger and capable person take over. The two pages therefore document an internal debate over leadership responsibility, succession, and organisational renewal. The document’s dating is inconsistent: page 1 is printed April 29, 1973, while page 2 bears a 16 April 1971 receipt stamp and a handwritten date of 14/4/70.
+
 ## Key points
 
 - Masani’s reply was deliberately delayed until after a Swatantra Party General Council meeting.

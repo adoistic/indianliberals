@@ -50,6 +50,12 @@ summary: |-
   The Committee protests the discontinuance of the Central Office’s monthly contribution toward organising Lok Sabha units in Bihar and requests continuation of the Rs. 25,000 subsidy. It approves diverting Rs. 9,000 to the General Account, while requiring the remaining funds to be used for their sanctioned purpose. Further conditions for continued subsidy include supplying new Jeeps, ensuring regular publication and despatch of the Party paper Swatantrata, and enrolling subscribers and members. In response to financial difficulties, the Committee also forms a fund-raising and budget-revision sub-committee. The document closes with a handwritten signature and the date 19 August 1961.
 ---
 
+## Summary
+
+This two-page office record documents an emergent meeting of the Working Committee of the Bihar State Swatantra Party, held at the Party Office in Patna on 17 August 1961. It lists 31 attendees, including the president, vice-presidents, secretaries, treasurer, members, permanent invitees, and special invitees, and records four resolutions concerning the Party’s election organisation and finances.
+
+The Committee protests the discontinuance of the Central Office’s monthly contribution toward organising Lok Sabha units in Bihar and requests continuation of the Rs. 25,000 subsidy. It approves diverting Rs. 9,000 to the General Account, while requiring the remaining funds to be used for their sanctioned purpose. Further conditions for continued subsidy include supplying new Jeeps, ensuring regular publication and despatch of the Party paper Swatantrata, and enrolling subscribers and members. In response to financial difficulties, the Committee also forms a fund-raising and budget-revision sub-committee. The document closes with a handwritten signature and the date 19 August 1961.
+
 ## Key points
 
 - The Working Committee of the Bihar State Swatantra Party met in Patna on 17 August 1961.

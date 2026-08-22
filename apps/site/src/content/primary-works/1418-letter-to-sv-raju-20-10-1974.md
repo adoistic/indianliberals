@@ -48,6 +48,12 @@ summary: |-
   Pasricha then reports that he has been told the person is attending meetings of the Delhi unit of the B.J.D. and that M. C. Sinha, identified as the unit’s president, had promised to nominate him to the unit’s Executive Committee. Pasricha also suspects that the person has been paying a donation, and asks Raju to keep the matter as impersonal as possible, avoiding names wherever feasible. He further says that he has advanced into the study of “Swatantra,” having named his son “Swatantra,” and asks that he not be given access to official files.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 20 October 1974, is addressed by Lt. Col. H. R. Pasricha to “Mr. Raju.” Pasricha retracts or qualifies information supplied in an earlier letter concerning an unnamed person who had allegedly “burned out” and was accused of joining the B.J.D. He says the person denied intending to join the organisation, while acknowledging that he had visited Piloo Mody on the excuse of collecting money from him.
+
+Pasricha then reports that he has been told the person is attending meetings of the Delhi unit of the B.J.D. and that M. C. Sinha, identified as the unit’s president, had promised to nominate him to the unit’s Executive Committee. Pasricha also suspects that the person has been paying a donation, and asks Raju to keep the matter as impersonal as possible, avoiding names wherever feasible. He further says that he has advanced into the study of “Swatantra,” having named his son “Swatantra,” and asks that he not be given access to official files.
+
 ## Key points
 
 - The letter is dated 20 October 1974 and is addressed to “Mr. Raju.”

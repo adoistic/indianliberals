@@ -55,6 +55,12 @@ summary: |-
   The report also lists Rajya Sabha motions concerning employment for unemployed people, the deteriorating employment situation, and an inquiry into the growth of monopoly and concentration of ownership in the newspaper industry. Additional motions concern the Kashmir issue, the removal of untouchability and progress among Harijans, and a proposed settlement of the Maharashtra–Mysore boundary dispute through the “Pavansar Formula.”
 ---
 
+## Summary
+
+This Hindustan Times report previews non-official motions scheduled for discussion in the Lok Sabha and Rajya Sabha in August 1962. The proposals address compulsory life insurance for citizens, recognition of trade unions, urban and rural housing and slum-clearance schemes, consumer co-operative stores for government employees, resignation of central and state governments six months before general elections, and price stabilisation for essential commodities.
+
+The report also lists Rajya Sabha motions concerning employment for unemployed people, the deteriorating employment situation, and an inquiry into the growth of monopoly and concentration of ownership in the newspaper industry. Additional motions concern the Kashmir issue, the removal of untouchability and progress among Harijans, and a proposed settlement of the Maharashtra–Mysore boundary dispute through the “Pavansar Formula.”
+
 ## Key points
 
 - The Lok Sabha is scheduled to discuss non-official motions beginning on August 10, with a further session on August 6.

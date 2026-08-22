@@ -48,6 +48,12 @@ summary: |-
   Hegde appeals to Masani to withdraw his resignation, praising him as a founder who built the party organisation through great personal sacrifice. He argues that political parties are experiencing dissension but must nevertheless continue their work, invokes Rajaji's agreement with Masani, and warns that the party would be weakened without Masani's services. The letter closes with an expectation that the Swatantra Party will make substantial gains in the next general elections while the governing party is deteriorating. The second rendered page is an inland-letter envelope; faint text from the reverse of the letter is visible but not reliably readable.
 ---
 
+## Summary
+
+This letter, written from Mangalore on 6 April 1968 by K. B. Jinaraja Hegde, addresses Minoo Masani's resignation from the Swatantra Party's national executive and other bodies. Hegde explains that ill health has prevented him from active party work, but says he has continued to follow political developments and is distressed by Masani's decision.
+
+Hegde appeals to Masani to withdraw his resignation, praising him as a founder who built the party organisation through great personal sacrifice. He argues that political parties are experiencing dissension but must nevertheless continue their work, invokes Rajaji's agreement with Masani, and warns that the party would be weakened without Masani's services. The letter closes with an expectation that the Swatantra Party will make substantial gains in the next general elections while the governing party is deteriorating. The second rendered page is an inland-letter envelope; faint text from the reverse of the letter is visible but not reliably readable.
+
 ## Key points
 
 - K. B. Jinaraja Hegde writes from Mangalore on 6 April 1968.

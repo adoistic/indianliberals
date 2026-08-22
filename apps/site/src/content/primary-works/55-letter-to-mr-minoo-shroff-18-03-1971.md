@@ -51,6 +51,12 @@ summary: |-
   Masani also anticipates a period of difficult self-examination among some members of their political circle. He describes the coming weeks as requiring an “agonising reappraisal” of what they stand for, what they do, and their relationship to the organisations to which they belong. The letter offers no further detail about the proposed initiative or the organisations involved.
 ---
 
+## Summary
+
+This one-page letter, dated 18 March 1971, is M. R. Masani’s reply to Minoo Shroff. Masani acknowledges Shroff’s expression of solidarity and agrees that “there is a great deal to be done outside Parliament,” endorsing an idea proposed in the recipient’s earlier letter.
+
+Masani also anticipates a period of difficult self-examination among some members of their political circle. He describes the coming weeks as requiring an “agonising reappraisal” of what they stand for, what they do, and their relationship to the organisations to which they belong. The letter offers no further detail about the proposed initiative or the organisations involved.
+
 ## Key points
 
 - Masani responds to Minoo Shroff’s letter of 15 March 1971 and expression of solidarity.

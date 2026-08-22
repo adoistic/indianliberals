@@ -54,6 +54,12 @@ summary: |-
   The statement calls for the Foreign Minister to withdraw such statements and to explain why India was rejected from the Rabat conference despite allegedly seeking to attend. It contrasts Singh's position with Industries Minister Fakhruddin Ali Ahmed's account of the humiliation at Rabat, questions the promotion of Mr. Larki to Prime Minister of Morocco after the statement says he was responsible for snubbing India, and criticises the government's hostile attitude toward Malaysia. It also demands an apology from the Arab League's New Delhi office and its immediate closure. The document is signed by eight MPs; no issuing organisation or formal title is printed.
 ---
 
+## Summary
+
+This one-page English press statement, dated New Delhi, 8 October 1969, challenges External Affairs Minister Dinesh Singh's claim that India remained a member of the Islamic Conference and intended to attend its forthcoming Foreign Ministers' meeting. The signatories demand disclosure of who authorised India's participation and whether the decision was consistent with the foreign-policy thinking associated with the late Prime Minister Jawaharlal Nehru and his successors. They accuse Singh of presenting the facts misleadingly and of being out of touch with Indian public opinion.
+
+The statement calls for the Foreign Minister to withdraw such statements and to explain why India was rejected from the Rabat conference despite allegedly seeking to attend. It contrasts Singh's position with Industries Minister Fakhruddin Ali Ahmed's account of the humiliation at Rabat, questions the promotion of Mr. Larki to Prime Minister of Morocco after the statement says he was responsible for snubbing India, and criticises the government's hostile attitude toward Malaysia. It also demands an apology from the Arab League's New Delhi office and its immediate closure. The document is signed by eight MPs; no issuing organisation or formal title is printed.
+
 ## Key points
 
 - The statement disputes Dinesh Singh's account of India's status in, and proposed attendance at, the Islamic Conference.

@@ -47,6 +47,12 @@ summary: |-
   The writer states that the matter is being looked into but provides no decision, names of nominees, or further substantive discussion. The document is therefore a brief acknowledgment of an administrative matter concerning parliamentary representation on a trade advisory body.
 ---
 
+## Summary
+
+This single-page official letter, dated February 23, 1968, is issued on the letterhead of the Minister of Commerce, New Delhi, and appears to be signed by Dinesh Singh. Addressed to Minoo Masani, it acknowledges Masani’s letter of February 22 concerning the nomination of Members of Parliament to the Advisory Council on Trade.
+
+The writer states that the matter is being looked into but provides no decision, names of nominees, or further substantive discussion. The document is therefore a brief acknowledgment of an administrative matter concerning parliamentary representation on a trade advisory body.
+
 ## Key points
 
 - The document is a one-page official letter dated February 23, 1968.

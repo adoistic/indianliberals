@@ -54,3 +54,9 @@ summary: |-
   
   The rendered interior pages consist chiefly of a page of quotations from Mahatma Gandhi on intellectual fallibility, moral independence, democracy, individual freedom, non-violent social justice, the relationship between means and ends, and inner freedom. The remaining visible material is advertising, including a Silvcrete cement advertisement and a Tata Industries advertisement emphasizing private enterprise, shareholder trust, and investment security. These pages provide contextual evidence of party politics, constitutional and individual-liberty concerns, and an economic vocabulary sympathetic to private enterprise, but they do not show the convention's speeches or resolutions.
 ---
+
+## Summary
+
+This four-page English-language item is an illustrated souvenir or proceedings-style booklet for the Swatantra Party's Third National Convention, held in Bangalore on February 1 and 2, 1964. The cover presents the party's name, convention details, and a photograph of a stage gathering, but no contributors, agenda, contents, or formal imprint are visible.
+
+The rendered interior pages consist chiefly of a page of quotations from Mahatma Gandhi on intellectual fallibility, moral independence, democracy, individual freedom, non-violent social justice, the relationship between means and ends, and inner freedom. The remaining visible material is advertising, including a Silvcrete cement advertisement and a Tata Industries advertisement emphasizing private enterprise, shareholder trust, and investment security. These pages provide contextual evidence of party politics, constitutional and individual-liberty concerns, and an economic vocabulary sympathetic to private enterprise, but they do not show the convention's speeches or resolutions.

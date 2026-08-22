@@ -46,6 +46,10 @@ summary: |-
   This confidential correspondence packet contains M. R. Masani's letters of 7 and 10 June 1968 concerning a controversy within the Swatantra Party. Masani refers to recent developments in Gujarat, Rajasthan, and Haryana, which he says have damaged the party's name and credibility. He presents the enclosed confidential letter to members of the General Council, together with K. M. Munshi's letter, as necessary for recipients to understand the events and the position he has taken to protect the party.
 ---
 
+## Summary
+
+This confidential correspondence packet contains M. R. Masani's letters of 7 and 10 June 1968 concerning a controversy within the Swatantra Party. Masani refers to recent developments in Gujarat, Rajasthan, and Haryana, which he says have damaged the party's name and credibility. He presents the enclosed confidential letter to members of the General Council, together with K. M. Munshi's letter, as necessary for recipients to understand the events and the position he has taken to protect the party.
+
 ## Key points
 
 - Masani writes in the context of a current controversy within the Swatantra Party.

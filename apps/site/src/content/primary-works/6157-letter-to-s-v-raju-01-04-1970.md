@@ -50,6 +50,12 @@ summary: |-
   Masani adds that he has sent, by airfreight, the National Headquarters’ comments on C. C. Desai’s explanation. The attached second page is an airfreight telegram or confirmation copy, addressed to Raju in care of Surajram, instructing him to collect the packet under an IAC consignment number. The pages document administrative coordination around political literature, signatures, donor communications, and the transmission of party headquarters’ comments.
 ---
 
+## Summary
+
+This two-page correspondence item is a letter from M. R. Masani to S. V. Raju, dated 1 April 1970, written from Bombay. Masani asks Raju to send the revised text of a brochure on the Jana Sangh, together with the original papers and notes previously supplied. He also requests letters for signature in Forms A and B, addressed to donors whose list had been given to Roshan the previous week.
+
+Masani adds that he has sent, by airfreight, the National Headquarters’ comments on C. C. Desai’s explanation. The attached second page is an airfreight telegram or confirmation copy, addressed to Raju in care of Surajram, instructing him to collect the packet under an IAC consignment number. The pages document administrative coordination around political literature, signatures, donor communications, and the transmission of party headquarters’ comments.
+
 ## Key points
 
 - Masani’s letter is dated 1 April 1970 and addressed to S. V. Raju in Bombay.

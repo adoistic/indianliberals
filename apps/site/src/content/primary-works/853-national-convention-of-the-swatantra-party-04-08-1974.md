@@ -53,6 +53,12 @@ summary: |-
   The resolution acknowledges delegates' disappointment but maintains that Swatantra principles remain valid and that their adoption by the Union Government would have prevented the country's critical situation. It therefore converts the party into a non-party organisation, the Swatantra Seva Sangh, dedicated to educational and constructive activity, excluding electoral and parliamentary work at both Union and State levels. This arrangement is presented as allowing some members to join the new party while enabling others to continue educating the public about Swatantra principles and serving India in a constructive manner.
 ---
 
+## Summary
+
+This two-page resolution proposes dissolving the Swatantra Party so that a new political party can be formed, while preserving the party's principles and policies. It argues that the Swatantra Party is the only one of the seven parties expected to dissolve that is a national party, and urges the proposed successor to build a credible national alternative to the Congress government by attracting other democratic opposition parties.
+
+The resolution acknowledges delegates' disappointment but maintains that Swatantra principles remain valid and that their adoption by the Union Government would have prevented the country's critical situation. It therefore converts the party into a non-party organisation, the Swatantra Seva Sangh, dedicated to educational and constructive activity, excluding electoral and parliamentary work at both Union and State levels. This arrangement is presented as allowing some members to join the new party while enabling others to continue educating the public about Swatantra principles and serving India in a constructive manner.
+
 ## Key points
 
 - The resolution recommends dissolving the Swatantra Party to facilitate the formation of a new political party.

@@ -50,6 +50,12 @@ summary: |-
   The substantive part of the letter concerns organisational rebuilding. Referring to correspondence from K. M. Munshi and from Uttar Pradesh, Srikumar believes that Mr. Arya remains interested in strengthening the party. He asks Raju whether his services may be used to identify suitable people for an ad hoc Uttar Pradesh committee, and proposes similar committees for Rajasthan and Gujarat. He further suggests that national party leaders visit these states to assess conditions and establish the committees. The second rendered page shows the addressed inland-letter envelope; it contains no additional substantive correspondence.
 ---
 
+## Summary
+
+This two-page typed office letter, dated 26 December 1974, is sent by V. S. Srikumar, Secretary of the Madras District Swatantra Party, to S. V. Raju in Bombay. Srikumar reciprocates Raju’s New Year greetings and expresses hope for the growth of the party and the destruction of its detractors. He also notes that he is leaving for a tour of Tirunelveli and Ramanathapuram and expects to return to Madras on New Year’s Day.
+
+The substantive part of the letter concerns organisational rebuilding. Referring to correspondence from K. M. Munshi and from Uttar Pradesh, Srikumar believes that Mr. Arya remains interested in strengthening the party. He asks Raju whether his services may be used to identify suitable people for an ad hoc Uttar Pradesh committee, and proposes similar committees for Rajasthan and Gujarat. He further suggests that national party leaders visit these states to assess conditions and establish the committees. The second rendered page shows the addressed inland-letter envelope; it contains no additional substantive correspondence.
+
 ## Key points
 
 - The letter is dated 26 December 1974 and is written on Madras District Swatantra Party letterhead.

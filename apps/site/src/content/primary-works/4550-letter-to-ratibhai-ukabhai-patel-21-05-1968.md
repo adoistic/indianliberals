@@ -48,6 +48,12 @@ summary: |-
   The document is administrative rather than argumentative, but it records a specific concern about the circulation or publication of political press material in Rajkot. It is headed from Ratibhai Ukabhai Patel's Rajkot address and directed to the issue of press visibility in local newspapers.
 ---
 
+## Summary
+
+This one-page express office communication, dated 21 May 1968, reports that a press release issued by Mr Masani had not appeared in Jaihind or other Rajkot newspapers. The Secretary to Mr Masani notes that copies were posted to Ratibhai Ukabhai Patel and Narottam Shah on 13 May and asks Patel to investigate the non-publication.
+
+The document is administrative rather than argumentative, but it records a specific concern about the circulation or publication of political press material in Rajkot. It is headed from Ratibhai Ukabhai Patel's Rajkot address and directed to the issue of press visibility in local newspapers.
+
 ## Key points
 
 - The document is marked “EXPRESS” and uses clipped telegram-style language.

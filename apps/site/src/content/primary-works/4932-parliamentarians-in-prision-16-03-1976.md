@@ -62,6 +62,12 @@ summary: |-
   The rendered pages describe cases across Latin America, Africa, India, Indonesia, Kenya, and Pakistan. The India section documents 59 legislators arrested during or after the state of emergency declared in June 1975, including members of opposition parties and dissenting members of the ruling Congress; it describes press censorship, the suspension of fundamental rights, and the operation of preventive detention under the Maintenance of Internal Security Act. The Indonesia section describes parliamentarians held for years after the attempted coup of 1965, while the Kenya and Pakistan sections focus on detention without charge or trial and the suppression of political opposition. Amnesty says the purpose of compiling the list is to draw attention to imprisoned parliamentarians and mobilise support for their release.
 ---
 
+## Summary
+
+PARLIAMENTARIANS IN PRISON is an Amnesty International report dated 16 March 1976. Its introduction states that it records 111 parliamentarians in 14 countries who had been imprisoned or had “disappeared” without trace. The report presents these cases as violations of the United Nations Universal Declaration of Human Rights: most detainees had not been charged or tried, and some had reportedly been tortured. Amnesty stresses that the list is not comprehensive, since it includes only cases taken up for adoption or investigation by the organisation.
+
+The rendered pages describe cases across Latin America, Africa, India, Indonesia, Kenya, and Pakistan. The India section documents 59 legislators arrested during or after the state of emergency declared in June 1975, including members of opposition parties and dissenting members of the ruling Congress; it describes press censorship, the suspension of fundamental rights, and the operation of preventive detention under the Maintenance of Internal Security Act. The Indonesia section describes parliamentarians held for years after the attempted coup of 1965, while the Kenya and Pakistan sections focus on detention without charge or trial and the suppression of political opposition. Amnesty says the purpose of compiling the list is to draw attention to imprisoned parliamentarians and mobilise support for their release.
+
 ## Key points
 
 - The report lists 111 imprisoned or disappeared parliamentarians in 14 countries as at 16 March 1976.

@@ -48,6 +48,10 @@ summary: |-
   This one-page English circular, issued on Swatantra Party Parliamentary Group letterhead in New Delhi on November 10, 1965, announces a meeting of the party's Executive Committee scheduled for Thursday, November 11, 1965, at 10:15 a.m. in the Opposition Members' Room, Central Hall, Parliament House. Members are requested to attend.
 ---
 
+## Summary
+
+This one-page English circular, issued on Swatantra Party Parliamentary Group letterhead in New Delhi on November 10, 1965, announces a meeting of the party's Executive Committee scheduled for Thursday, November 11, 1965, at 10:15 a.m. in the Opposition Members' Room, Central Hall, Parliament House. Members are requested to attend.
+
 ## Key points
 
 - The document is an internal Swatantra Party Parliamentary Group circular.

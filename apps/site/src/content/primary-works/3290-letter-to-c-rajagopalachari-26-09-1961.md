@@ -50,6 +50,12 @@ summary: |-
   Masani also objects to the financial and organisational burdens he is carrying while overseeing the General Secretary and General Elections operations. He describes resentment toward those seeking unconditional financial support without candidates or plans, and accuses the Bihar party president of suppressing correspondence, distorting discussions, and inventing grievances. On the second page, he raises a related concern about being beholden to the Raja Sahib for a Hazari­bagh constituency and asks Rajaji to intervene before forthcoming Bombay and Baroda meetings, warning that otherwise “things may go out of hand.”
 ---
 
+## Summary
+
+In this letter dated 26 September 1961, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about mounting tensions within the Bihar Jana­ta Party. Masani fears that the party’s agreement to give up its election symbol will be interpreted as appeasement, and that factional leaders may exploit the decision against party officials who supported adherence to the Star symbol. He warns that efforts to reverse Election Committee decisions in Patna, manipulate seat recommendations in Darbhanga, and privilege caste-group interests could weaken the party’s independence and institutional integrity.
+
+Masani also objects to the financial and organisational burdens he is carrying while overseeing the General Secretary and General Elections operations. He describes resentment toward those seeking unconditional financial support without candidates or plans, and accuses the Bihar party president of suppressing correspondence, distorting discussions, and inventing grievances. On the second page, he raises a related concern about being beholden to the Raja Sahib for a Hazari­bagh constituency and asks Rajaji to intervene before forthcoming Bombay and Baroda meetings, warning that otherwise “things may go out of hand.”
+
 ## Key points
 
 - Masani fears that surrendering the party symbol will be treated as an act of appeasement and invite further factional pressure.

@@ -45,6 +45,10 @@ summary: |-
   This one-page English office letter, dated 5 August 1965, is issued from the Swatantra Party Parliament Office in New Delhi and is signed by S. V. Raju. It acknowledges the recipient’s fifth letter and states that a reply was duly signed and posted the previous day by express delivery, with an additional copy sent by registered post.
 ---
 
+## Summary
+
+This one-page English office letter, dated 5 August 1965, is issued from the Swatantra Party Parliament Office in New Delhi and is signed by S. V. Raju. It acknowledges the recipient’s fifth letter and states that a reply was duly signed and posted the previous day by express delivery, with an additional copy sent by registered post.
+
 ## Key points
 
 - The document is a one-page typed office letter dated 5 August 1965.

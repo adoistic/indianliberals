@@ -55,6 +55,12 @@ summary: |-
   The record sets out six points proposed for action at the Madras meeting. These include declaring the National Convention held in Delhi in August illegal and ultra vires, affirming that the Swatantra Party continued to exist at national and state levels, treating defecting members as having automatically left the party, avoiding a fresh election of the National Executive, authorising state units to nominate replacements, and locating the party's national headquarters in Madras. The document therefore provides a concise snapshot of internal organisational conflict, constitutional procedure, and party restructuring.
 ---
 
+## Summary
+
+This one-page English meeting record lists the Swatantra Party workers present at a meeting held at the Party office on 5 December 1974. It records plans for a public meeting at Matunga on 14 December, where M. R. Masani was scheduled to speak on the current political situation, and arrangements for a General Council meeting in Madras on 8 December.
+
+The record sets out six points proposed for action at the Madras meeting. These include declaring the National Convention held in Delhi in August illegal and ultra vires, affirming that the Swatantra Party continued to exist at national and state levels, treating defecting members as having automatically left the party, avoiding a fresh election of the National Executive, authorising state units to nominate replacements, and locating the party's national headquarters in Madras. The document therefore provides a concise snapshot of internal organisational conflict, constitutional procedure, and party restructuring.
+
 ## Key points
 
 - The meeting took place at the Swatantra Party office at 6:00 p.m. on 5 December 1974.

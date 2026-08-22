@@ -56,6 +56,12 @@ summary: |-
   The recorded discussion reveals a sharp division over whether the Swatantra Party should dissolve and join a new formation, or preserve its identity through a federation or electoral alliance. Supporters of dissolution described the party’s declining electoral prospects, finances, organisation, and public image, and argued that its principles could be carried into a larger national party. Opponents warned that the merger was premature, could dilute Swatantra’s ideology, and might associate it with unsuitable partners. Several members proposed a cautious period of cooperation or a separate Swatantra Forum. The minutes conclude with unanimous resolutions welcoming the proposed new party and calling an early National Convention, congratulating Jayaprakash Narayan’s Bihar movement, and protesting the arrest of Ramender Kalia.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party General Council meeting held in New Delhi on 9–10 June 1974, chaired by Piloo Mody. The meeting was convened to consider a proposed National Alternative and a draft programme for bringing together non-Congress and non-Marxist parties. Members initially objected to the short notice and late circulation of the 24-page draft, but accepted Mody’s explanation that negotiations and preparation had taken place over several months. Mody argued that changing political circumstances and the fragmentation of opposition parties made consolidation urgent, while clarifying that a two-party system need not mean only two parties in existence.
+
+The recorded discussion reveals a sharp division over whether the Swatantra Party should dissolve and join a new formation, or preserve its identity through a federation or electoral alliance. Supporters of dissolution described the party’s declining electoral prospects, finances, organisation, and public image, and argued that its principles could be carried into a larger national party. Opponents warned that the merger was premature, could dilute Swatantra’s ideology, and might associate it with unsuitable partners. Several members proposed a cautious period of cooperation or a separate Swatantra Forum. The minutes conclude with unanimous resolutions welcoming the proposed new party and calling an early National Convention, congratulating Jayaprakash Narayan’s Bihar movement, and protesting the arrest of Ramender Kalia.
+
 ## Key points
 
 - The General Council met to discuss a proposed National Alternative and its draft programme.

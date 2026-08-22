@@ -48,6 +48,12 @@ summary: |-
   Narayan is quoted as explaining that the month of Ramzan would make the visit inconvenient for Pakistani leaders, and that an intimation to this effect had also reached him from Mr. Brohi through his friends in Delhi. The clipping notes that this is the second postponement of the visit — the first was timed to the eve of the announcement of official India–Pakistan talks — and that in the meantime Narayan is continuing a tour of Gujarat, leaving Ahmedabad for North Gujarat, reaching Bhavnagar on 4 February, and flying on to Bombay.
 ---
 
+## Summary
+
+A short news dispatch, filed by the Express News Service from Ahmedabad on 31 January 1963 and printed in the Indian Express of 1 February 1963, reports that Jayaprakash Narayan has again postponed a proposed four-day goodwill visit to Pakistan. He was to have flown from Delhi on the Friday of the week the item ran; the trip is now expected to take place late in March or early April.
+
+Narayan is quoted as explaining that the month of Ramzan would make the visit inconvenient for Pakistani leaders, and that an intimation to this effect had also reached him from Mr. Brohi through his friends in Delhi. The clipping notes that this is the second postponement of the visit — the first was timed to the eve of the announcement of official India–Pakistan talks — and that in the meantime Narayan is continuing a tour of Gujarat, leaving Ahmedabad for North Gujarat, reaching Bhavnagar on 4 February, and flying on to Bombay.
+
 ## Key points
 
 - Indian Express clipping dated 1 February 1963, filed by Express News Service from Ahmedabad on 31 January.

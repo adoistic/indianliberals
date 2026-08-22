@@ -51,6 +51,12 @@ summary: |-
   Jain also encloses a cutting from the Times of India Hindi weekly "Dharam Yug" containing Masani's interview on recent political developments. The letter further refers to an election petition filed in the Supreme Court against the President by Members of Congress, SSP, Swatantra, and independent Members, and lists several signatories to a related memorandum. The document is correspondence and does not present a sustained policy argument beyond recording opposition to cement decontrol and highlighting parliamentary and judicial activity.
 ---
 
+## Summary
+
+This one-page letter from the Swatantra Party Parliamentary Office, dated September 22, 1969, informs M. R. Masani about political and constitutional developments. A. M. Jain encloses a National Herald cutting concerning a memorandum signed by more than one hundred Members of Parliament opposing the Government's proposed decontrol of cement. The letter notes that Piloo Mody and members of the Left Communist, Right Communist, and R.S.P. parties also signed the memorandum.
+
+Jain also encloses a cutting from the Times of India Hindi weekly "Dharam Yug" containing Masani's interview on recent political developments. The letter further refers to an election petition filed in the Supreme Court against the President by Members of Congress, SSP, Swatantra, and independent Members, and lists several signatories to a related memorandum. The document is correspondence and does not present a sustained policy argument beyond recording opposition to cement decontrol and highlighting parliamentary and judicial activity.
+
 ## Key points
 
 - The letter is dated September 22, 1969, and was sent from the Swatantra Party Parliamentary Office in New Delhi.

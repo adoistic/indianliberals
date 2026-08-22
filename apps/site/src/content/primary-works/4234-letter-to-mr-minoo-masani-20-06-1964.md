@@ -44,6 +44,10 @@ summary: |-
   This single-page letter from C. Rajagopalachari to Minoo Masani, dated 20 June 1964, acknowledges receipt of Masani's June 17 letter and an enclosed memorandum. Rajagopalachari praises the memorandum as an excellent document and indicates that, because it is a public document, it may be printed in Swarajya without violating decorum.
 ---
 
+## Summary
+
+This single-page letter from C. Rajagopalachari to Minoo Masani, dated 20 June 1964, acknowledges receipt of Masani's June 17 letter and an enclosed memorandum. Rajagopalachari praises the memorandum as an excellent document and indicates that, because it is a public document, it may be printed in Swarajya without violating decorum.
+
 ## Key points
 
 - The letter is dated 20 June 1964 and was sent from Rajagopalachari's Madras address.

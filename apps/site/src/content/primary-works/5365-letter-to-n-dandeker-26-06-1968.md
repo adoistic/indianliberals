@@ -52,6 +52,10 @@ summary: |-
   In this letter dated 26 June 1968, Bhanu Pratap Singh replies to N. Dandekar about the proposed merger of the Swatantra Party and the group associated with Chaudhary Charan Singh. He acknowledges Dandekar’s advice on the choice of constitutions and candidates, while asking to retain the freedom to visit western Uttar Pradesh districts before making commitments. He is particularly concerned that the merger proposal has not received fair consideration and argues that the apparent disagreement concerns labels rather than fundamental principles.
 ---
 
+## Summary
+
+In this letter dated 26 June 1968, Bhanu Pratap Singh replies to N. Dandekar about the proposed merger of the Swatantra Party and the group associated with Chaudhary Charan Singh. He acknowledges Dandekar’s advice on the choice of constitutions and candidates, while asking to retain the freedom to visit western Uttar Pradesh districts before making commitments. He is particularly concerned that the merger proposal has not received fair consideration and argues that the apparent disagreement concerns labels rather than fundamental principles.
+
 ## Key points
 
 - Bhanu Pratap Singh discusses the proposed merger between the Swatantra Party and Charan Singh’s group.

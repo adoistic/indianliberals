@@ -53,6 +53,12 @@ summary: |-
   The attached report, headed “Report on Sampradayikta Virodhi Committee,” presents the committee’s rationale and activities. Joshi grounds opposition to communalism in a pluralist Indian tradition associated with Gandhi and Nehru, while describing communal riots as products of fear, rumor, propaganda, administrative inaction, and political sectarianism. The report criticizes both minority and majority communalism, but argues that majority communalism poses the greater danger to India’s existence as a united and free nation. It identifies the RSS as the principal ideological opponent under discussion, calls for scrutiny of its methods and possible prohibition, and describes the committee’s work studying riots, publishing research, coordinating secular organisations, and promoting secularism and communal harmony through conferences, seminars, exhibitions, study groups, and literature.
 ---
 
+## Summary
+
+This document is a letter dated 12 January 1970 from Subhadra Joshi, writing as secretary of the III National Convention Against Communalism, to “Shri Masani” (Minoo Masani). It invites him to address the convention in Allahabad on 8–10 February 1970, explains that the movement is non-party and excludes only those committed to communalist ideology or associated with communal parties, and refers to earlier conventions held in New Delhi in 1966 and 1968. The letter also mentions a report of the previous convention and asks Masani to send a message if he cannot attend.
+
+The attached report, headed “Report on Sampradayikta Virodhi Committee,” presents the committee’s rationale and activities. Joshi grounds opposition to communalism in a pluralist Indian tradition associated with Gandhi and Nehru, while describing communal riots as products of fear, rumor, propaganda, administrative inaction, and political sectarianism. The report criticizes both minority and majority communalism, but argues that majority communalism poses the greater danger to India’s existence as a united and free nation. It identifies the RSS as the principal ideological opponent under discussion, calls for scrutiny of its methods and possible prohibition, and describes the committee’s work studying riots, publishing research, coordinating secular organisations, and promoting secularism and communal harmony through conferences, seminars, exhibitions, study groups, and literature.
+
 ## Key points
 
 - The letter invites Minoo Masani to address the III National Convention Against Communalism in Allahabad in February 1970.

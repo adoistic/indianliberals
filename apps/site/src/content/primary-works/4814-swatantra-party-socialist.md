@@ -49,6 +49,10 @@ summary: |-
   This single handwritten archival sheet is headed “Socialist” and records a short list of Indian constitutional and legal cases. The notes appear to focus on challenges involving the Union of India, the state, minority rights, and the interpretation of constitutional provisions. Legible entries include Fraser versus Union of India, a case cited as A. 1979 SC 25, Prabhakar versus Union of India, A. 1983 SC 130, Minerva Mills versus U.O.I., A.I.R. 1980 S.C. 1789, and Adam Prakash versus State of Haryana, A. 1986 S.C. 857.
 ---
 
+## Summary
+
+This single handwritten archival sheet is headed “Socialist” and records a short list of Indian constitutional and legal cases. The notes appear to focus on challenges involving the Union of India, the state, minority rights, and the interpretation of constitutional provisions. Legible entries include Fraser versus Union of India, a case cited as A. 1979 SC 25, Prabhakar versus Union of India, A. 1983 SC 130, Minerva Mills versus U.O.I., A.I.R. 1980 S.C. 1789, and Adam Prakash versus State of Haryana, A. 1986 S.C. 857.
+
 ## Key points
 
 - The sheet is headed “Socialist.”

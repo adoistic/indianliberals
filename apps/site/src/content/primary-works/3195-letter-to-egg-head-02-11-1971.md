@@ -46,6 +46,12 @@ summary: |-
   The letter also reports a delay in handing over a typescript: only the editorials had been typed by October 31, while most articles remained unfinished. The writer expects to submit the completed typescript around November 12 or 13 after returning from Baroda, while assuring the recipient that publication of the book in January should not be delayed. The writer asks the recipient to telephone Mr. R. S. Gae about permission to reproduce passages from his book and confirms that Mr. An...’s article has arrived. Handwritten notes at the foot of the page mention Raju and Rangarajan and express concern about the recipient’s letterhead and papers.
 ---
 
+## Summary
+
+This single-page English letter, dated November 2, 1971, is addressed informally to “Egg-head (hardboiled).” The writer apologizes for delayed replies, explains that they have signed a contract with Agarwal, and discusses a contractual provision concerning royalties on cheap editions. The writer says they signed without creating further problems because the provision seemed unlikely to matter.
+
+The letter also reports a delay in handing over a typescript: only the editorials had been typed by October 31, while most articles remained unfinished. The writer expects to submit the completed typescript around November 12 or 13 after returning from Baroda, while assuring the recipient that publication of the book in January should not be delayed. The writer asks the recipient to telephone Mr. R. S. Gae about permission to reproduce passages from his book and confirms that Mr. An...’s article has arrived. Handwritten notes at the foot of the page mention Raju and Rangarajan and express concern about the recipient’s letterhead and papers.
+
 ## Key points
 
 - The letter is dated November 2, 1971, and begins with the salutation “My dear Egg-head (hardboiled).”

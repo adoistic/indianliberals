@@ -53,6 +53,12 @@ summary: |-
   The committee also discusses party organisation and mobilisation. It considers how to persuade shopkeepers and traders to contribute to a decentralised fund drive, including by helping them with municipal permits; plans training for party workers through the Leslie Sawhny Training Programme; reviews functioning district and primary units across Bombay; proposes a regional volunteer corps; and authorises efforts to reorganise inactive units. The meeting concludes with a decision to field Mrs. Sharayu Daftari as the party's candidate from the Graduates' Constituency for the Maharashtra Legislative Council. The document is an internal administrative record rather than an authored political essay.
 ---
 
+## Summary
+
+These two pages record the proceedings of the Swatantra Party's Bombay Region Executive Committee meeting held on 22 April 1970. The minutes list the members present, note leave granted to Shafi Thanawala, confirm the previous meeting's minutes, and report on absenteeism, a proposed workers' gathering at Andheri, a poster campaign on rationing, and public meetings concerning Fundamental Rights and opposition to Mr. Nath Pai's Bill.
+
+The committee also discusses party organisation and mobilisation. It considers how to persuade shopkeepers and traders to contribute to a decentralised fund drive, including by helping them with municipal permits; plans training for party workers through the Leslie Sawhny Training Programme; reviews functioning district and primary units across Bombay; proposes a regional volunteer corps; and authorises efforts to reorganise inactive units. The meeting concludes with a decision to field Mrs. Sharayu Daftari as the party's candidate from the Graduates' Constituency for the Maharashtra Legislative Council. The document is an internal administrative record rather than an authored political essay.
+
 ## Key points
 
 - The Bombay Region Executive Committee met on 22 April 1970 with Lalchand Hirachand eventually serving as chair.

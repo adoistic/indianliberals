@@ -53,6 +53,12 @@ summary: |-
   The recorded views show substantial opposition to an immediate merger, though some members supported merger in principle or regarded it as necessary for the party's survival. Critics stressed the importance of preserving Swatantra's principles and identity, questioned cooperation with parties of different ideologies, and objected to the leadership or regional character of prospective partners such as BKD, SSP, and Utkal Congress. Others supported a merger based on agreed principles or a minimum common programme. The meeting concluded that a gist of the discussion should be submitted to the National Executive, which could refer the matter to the General Council.
 ---
 
+## Summary
+
+These minutes record an urgent meeting of the Maharashtra State Council of the Swatantra Party held in Bombay on 27 April 1974 to consider the proposed merger of the party with other democratic parties. The discussion followed a National Executive meeting in Delhi on 6–7 April and press reports that eight parties, including Swatantra, had agreed to merge. Madhu Mehta explained that the National Executive had only concluded that the possibilities of a two-party system should be explored, and cautioned members against treating inaccurate press reports as a settled decision.
+
+The recorded views show substantial opposition to an immediate merger, though some members supported merger in principle or regarded it as necessary for the party's survival. Critics stressed the importance of preserving Swatantra's principles and identity, questioned cooperation with parties of different ideologies, and objected to the leadership or regional character of prospective partners such as BKD, SSP, and Utkal Congress. Others supported a merger based on agreed principles or a minimum common programme. The meeting concluded that a gist of the discussion should be submitted to the National Executive, which could refer the matter to the General Council.
+
 ## Key points
 
 - The meeting was convened to discuss a proposed merger of the Swatantra Party with other democratic parties.

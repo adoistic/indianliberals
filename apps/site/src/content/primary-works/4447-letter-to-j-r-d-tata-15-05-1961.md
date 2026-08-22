@@ -52,6 +52,10 @@ summary: |-
   This undated-title letter, dated 15 May 1961 and addressed to J. R. D. Tata, appeals for financial assistance to the Swatantra Party. The writer presents an effective opposition as essential to parliamentary democracy: it should operate in Parliament and legislatures as a check on the ruling Congress Party's policies, programmes, and methods. The letter argues that other non-Congress parties have failed to perform this checking function and instead tend to push the ruling party further in the same direction.
 ---
 
+## Summary
+
+This undated-title letter, dated 15 May 1961 and addressed to J. R. D. Tata, appeals for financial assistance to the Swatantra Party. The writer presents an effective opposition as essential to parliamentary democracy: it should operate in Parliament and legislatures as a check on the ruling Congress Party's policies, programmes, and methods. The letter argues that other non-Congress parties have failed to perform this checking function and instead tend to push the ruling party further in the same direction.
+
 ## Key points
 
 - The writer identifies a strong opposition party as an essential requirement of parliamentary democracy.

@@ -43,6 +43,10 @@ summary: |-
   This one-page letter from M. R. Masani to Jayaprakash Narayan, dated April 17, 1972, discusses Masani's upcoming trip to Delhi and his intention to meet Narayan on the morning of Sunday the 23rd. Masani also acknowledges Narayan's telegram and confirms that he has invited a small group of friends and associates to dinner at 8 p.m. on Tuesday the 25th.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to Jayaprakash Narayan, dated April 17, 1972, discusses Masani's upcoming trip to Delhi and his intention to meet Narayan on the morning of Sunday the 23rd. Masani also acknowledges Narayan's telegram and confirms that he has invited a small group of friends and associates to dinner at 8 p.m. on Tuesday the 25th.
+
 ## Key points
 
 - The letter is dated April 17, 1972, and addressed to Jayaprakash Narayan.

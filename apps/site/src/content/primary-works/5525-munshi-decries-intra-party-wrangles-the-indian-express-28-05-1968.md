@@ -51,6 +51,12 @@ summary: |-
   The report connects the dispute to disagreements over the mandate of the party’s Central Parliamentary Board concerning recent biennial elections to the Rajya Sabha from Gujarat. Munshi is said to have urged firm disciplinary action, warning that continued inaction would reduce the party’s numbers and recommending that the National Executive remove rebel members.
 ---
 
+## Summary
+
+This Indian Express report describes K. M. Munshi’s warning about mounting internal conflict within the Swatantra Party. Munshi, identified as the party’s vice-president, reportedly said he might withdraw from party affairs if its internal disputes continued, and argued that the party’s Gujarat unit was in serious disarray.
+
+The report connects the dispute to disagreements over the mandate of the party’s Central Parliamentary Board concerning recent biennial elections to the Rajya Sabha from Gujarat. Munshi is said to have urged firm disciplinary action, warning that continued inaction would reduce the party’s numbers and recommending that the National Executive remove rebel members.
+
 ## Key points
 
 - K. M. Munshi warned that he might stop taking an active interest in Swatantra Party affairs if internal squabbles continued.

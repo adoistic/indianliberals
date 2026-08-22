@@ -52,6 +52,12 @@ summary: |-
   The page reproduces Holland’s poem, which presents ethical character and public duty as safeguards against the temptations of office. A handwritten annotation appears below the printed article, but it is only partly legible in the rendered image and cannot be reliably summarized.
 ---
 
+## Summary
+
+This single-page continuation from TIME’s July 22, 1974 issue discusses how to guard against future Watergate scandals. It reports that Senator Sam Ervin regarded a poem by the largely forgotten American poet Josiah Gilbert Holland as an appropriate guide, particularly its call for public officials with strong minds, honor, independent opinions, and resistance to corruption and demagoguery.
+
+The page reproduces Holland’s poem, which presents ethical character and public duty as safeguards against the temptations of office. A handwritten annotation appears below the printed article, but it is only partly legible in the rendered image and cannot be reliably summarized.
+
 ## Key points
 
 - The clipping addresses safeguards against future Watergate-like political scandals.

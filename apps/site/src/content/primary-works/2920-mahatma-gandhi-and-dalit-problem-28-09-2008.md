@@ -52,3 +52,9 @@ summary: |-
   
   In the rendered pages, the article connects the Dalit question to British constitutional tactics, especially separate electorates and the wider policy of dividing Indian communities. It recounts Gandhi’s experiences in South Africa, his adoption of non-violent mass action, his work with reformers such as Vitthal Ramji Shinde, and his efforts to combine anti-colonial agitation with constructive programmes including education, khadi, Hindu-Muslim unity, and the abolition of untouchability. The article continues beyond the rendered pages, so its later argument and conclusion are not represented here.
 ---
+
+## Summary
+
+The rendered pages contain the opening section of Pannalal Surana’s article “Mahatma Gandhi and Dalit Problem,” published in the JANATA issue dated September 28, 2008 (Vol. 63, No. 36). In the rendered pages, Surana describes the social exclusion imposed on Dalits, traces nineteenth- and early twentieth-century reform efforts, and presents Gandhi’s engagement with untouchability as part of a wider project of religious reflection, social reform, and national unity.
+
+In the rendered pages, the article connects the Dalit question to British constitutional tactics, especially separate electorates and the wider policy of dividing Indian communities. It recounts Gandhi’s experiences in South Africa, his adoption of non-violent mass action, his work with reformers such as Vitthal Ramji Shinde, and his efforts to combine anti-colonial agitation with constructive programmes including education, khadi, Hindu-Muslim unity, and the abolition of untouchability. The article continues beyond the rendered pages, so its later argument and conclusion are not represented here.

@@ -55,6 +55,12 @@ summary: |-
   A second letter shows Masani declining K. Raghu Ramaiah’s invitation to meet the Prime Minister about the election of the Deputy Speaker, while authorising Dr. Ram Subhag Singh to speak for Masani and Professor Ranga. Ramaiah’s reply invites Masani to a meeting with the Prime Minister on 4 December to discuss the Deputy Speaker’s election. The file therefore documents both a constitutional-procedural demand for an effective parliamentary Opposition and the governmental effort to convene Opposition leaders around the Deputy Speaker election.
 ---
 
+## Summary
+
+This three-page correspondence file records an exchange in New Delhi on 3–4 December 1969 concerning the recognition and practical functioning of India’s first official Opposition in the Lok Sabha. Minoo Masani asks the Speaker to formally announce that Dr. Ram Subhag Singh is the Leader of the Opposition, arguing that official recognition would facilitate the conduct of House business and settle prevailing doubts. He also requests that the Leader of the Opposition be given the seat occupied by the Deputy Speaker, with another convenient seat allotted to the Deputy Speaker as in the British House of Commons.
+
+A second letter shows Masani declining K. Raghu Ramaiah’s invitation to meet the Prime Minister about the election of the Deputy Speaker, while authorising Dr. Ram Subhag Singh to speak for Masani and Professor Ranga. Ramaiah’s reply invites Masani to a meeting with the Prime Minister on 4 December to discuss the Deputy Speaker’s election. The file therefore documents both a constitutional-procedural demand for an effective parliamentary Opposition and the governmental effort to convene Opposition leaders around the Deputy Speaker election.
+
 ## Key points
 
 - Masani describes the emergence of an official Opposition Party in the Lok Sabha as unprecedented in the House’s history.

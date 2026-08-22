@@ -48,6 +48,12 @@ summary: |-
   Vaidya adds a personal political update: he had asked Bhaikaka to obtain pledges from Swatantra Party MLAs that they would vote for him, but says that the outcome discouraged him. The letter therefore records both concern about internal party cohesion and a contemporaneous effort to secure legislative support. No title is printed on the document.
 ---
 
+## Summary
+
+This one-page typed carbon-copy letter, dated 6 April 1968, was sent by Babubhai P. Vaidya from Rajkot to “Mr. Raju” at the Swatantra Party Central Office in Bombay. Vaidya forwards a reply from C. Rajagopalachari (Rajaji) and asks that it be given to Mr. Masani. Rajagopalachari’s enclosed message describes the situation as a major misfortune and urges the recipient, as a “true patriot,” to help prevent the party from breaking apart over it.
+
+Vaidya adds a personal political update: he had asked Bhaikaka to obtain pledges from Swatantra Party MLAs that they would vote for him, but says that the outcome discouraged him. The letter therefore records both concern about internal party cohesion and a contemporaneous effort to secure legislative support. No title is printed on the document.
+
 ## Key points
 
 - Babubhai P. Vaidya wrote the letter from Rajkot on 6 April 1968.

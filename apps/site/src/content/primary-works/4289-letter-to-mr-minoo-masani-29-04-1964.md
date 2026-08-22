@@ -47,6 +47,12 @@ summary: |-
   The letter's principal instruction is that the copy should be kept private. Its brief, cordial closing—“Yours affectionately”—indicates a personal rather than formal or public communication. The identity of the other addressee and some intervening words cannot be read with confidence from the rendered page.
 ---
 
+## Summary
+
+This single-page handwritten letter from C. Rajagopalachari to Minoo Masani is dated 29 April 1964 and written on Rajagopalachari's Madras letterhead. Rajagopalachari asks Masani to read an enclosed or accompanying copy of a letter addressed to another person whose name is only partly legible in the scan.
+
+The letter's principal instruction is that the copy should be kept private. Its brief, cordial closing—“Yours affectionately”—indicates a personal rather than formal or public communication. The identity of the other addressee and some intervening words cannot be read with confidence from the rendered page.
+
 ## Key points
 
 - The letter is from C. Rajagopalachari to Minoo Masani.

@@ -50,6 +50,12 @@ summary: |-
   The remarks present the party as a conservative and constitutional alternative to prevailing political currents. Several contacts describe the movement as an expression of “conservative ideals,” express concern that democracy is drifting toward a “totalitarian State,” or request information about the party’s economic programme. The document also shows an effort to build a geographically distributed organisation through local recruitment, Malayalam-language publicity, district secretaries, and contacts among lawyers, teachers, journalists, planters, merchants, and labour representatives. No author, title, date, or publisher is printed on the pages; the document appears to be an administrative constituency record rather than a public argument or meeting record.
 ---
 
+## Summary
+
+This untitled three-page internal record, headed “KERALA,” lists 34 prospective supporters, members, donors, and local organisers associated with the formation and expansion of the Swatantra Party in Kerala. The entries provide names, addresses, occupations, and brief remarks recording support for the party, requests for membership or pamphlets, offers of organisational assistance, financial contributions, and plans to attend or represent Kerala at party conventions in Ahmedabad, Karnataka, and Bombay.
+
+The remarks present the party as a conservative and constitutional alternative to prevailing political currents. Several contacts describe the movement as an expression of “conservative ideals,” express concern that democracy is drifting toward a “totalitarian State,” or request information about the party’s economic programme. The document also shows an effort to build a geographically distributed organisation through local recruitment, Malayalam-language publicity, district secretaries, and contacts among lawyers, teachers, journalists, planters, merchants, and labour representatives. No author, title, date, or publisher is printed on the pages; the document appears to be an administrative constituency record rather than a public argument or meeting record.
+
 ## Key points
 
 - The record lists 34 Kerala contacts connected with the formation and organisation of the Swatantra Party.

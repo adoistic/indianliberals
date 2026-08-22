@@ -52,6 +52,12 @@ summary: |-
   The statement further says that Maharashtra’s Swatantra Party unit would continue functioning even if the party were dissolved at the national level. Its stated justification is that the party’s principles and policies remained relevant in 1974, just as they had been when first formulated. The document is presented for press publication on Swatantra Party Maharashtra letterhead and does not identify a named author.
 ---
 
+## Summary
+
+This one-page press statement, issued by the Swatantra Party Maharashtra unit on 8 July 1974, contradicts reports that party members overwhelmingly wanted to dissolve the party to enable the formation of a new political organisation. It reports that the Maharashtra State Council met in Bombay on 6 July specifically to consider dissolution and, after discussion involving party leaders including Piloo Mody and M. R. Masani, adopted a resolution opposing it.
+
+The statement further says that Maharashtra’s Swatantra Party unit would continue functioning even if the party were dissolved at the national level. Its stated justification is that the party’s principles and policies remained relevant in 1974, just as they had been when first formulated. The document is presented for press publication on Swatantra Party Maharashtra letterhead and does not identify a named author.
+
 ## Key points
 
 - The statement disputes press reports of overwhelming support for dissolving the Swatantra Party.

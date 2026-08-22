@@ -47,6 +47,12 @@ summary: |-
   The letter concerns a property dispute or interference with property rights. Mehta says he will speak to Mr. Raida and tell him that he cannot simply "sit tight" on their property, promising to report the outcome of the conversation as soon as possible. The document ends with a handwritten signature above the printed name Madhu Mehta.
 ---
 
+## Summary
+
+This one-page English letter, dated March 23, 1995, is written by Madhu Mehta to S. V. Raju from the Hindustani Andolan's Bombay headquarters. Mehta acknowledges Raju's letter of March 21 and thanks him for clarifying the matter at issue.
+
+The letter concerns a property dispute or interference with property rights. Mehta says he will speak to Mr. Raida and tell him that he cannot simply "sit tight" on their property, promising to report the outcome of the conversation as soon as possible. The document ends with a handwritten signature above the printed name Madhu Mehta.
+
 ## Key points
 
 - The document is a one-page English letter dated March 23, 1995.

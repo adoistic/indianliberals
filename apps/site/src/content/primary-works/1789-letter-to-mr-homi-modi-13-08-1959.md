@@ -47,6 +47,12 @@ summary: |-
   The second rendered page is an accompanying address card, apparently addressed to “Mr. D. N. D. Khandalavala” at Beau-Site, Worli Parade, Bombay, with a telephone number. The card’s relationship to the letter’s addressee is not fully clear: the letter addresses “Homi,” while the card names D. N. D. Khandalavala. The closing signature appears to read “A. D. Shroff,” but remains somewhat uncertain.
 ---
 
+## Summary
+
+This two-page English document is a handwritten personal letter from A. D. Shroff, dated 13 August 1959, on headed stationery from Beau-Site, Worli Parade, Bombay. It begins “My dear Homi” and refers to a recent conversation in the Reading Room of the writer’s club. Shroff appears to discuss enclosing or sending a cheque for Rs. 20 and mentions his visiting card, although parts of the handwriting are difficult to decipher.
+
+The second rendered page is an accompanying address card, apparently addressed to “Mr. D. N. D. Khandalavala” at Beau-Site, Worli Parade, Bombay, with a telephone number. The card’s relationship to the letter’s addressee is not fully clear: the letter addresses “Homi,” while the card names D. N. D. Khandalavala. The closing signature appears to read “A. D. Shroff,” but remains somewhat uncertain.
+
 ## Key points
 
 - The document is a private handwritten letter dated 13 August 1959.

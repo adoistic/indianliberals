@@ -50,6 +50,12 @@ summary: |-
   Masani also invokes voting figures from Goa to argue that electoral support should be assessed by votes cast rather than seats won. He contrasts 109,000 votes cast for parties and groups supporting merger with 140,000 votes cast for the United Goans, Congress, and others defending the status quo or statehood against merger, while noting that the resulting difference in seats was merely coincidental. The page also records a copy to S. V. Raju and Masani’s planned return to Bombay.
 ---
 
+## Summary
+
+This single-page English letter from M. R. Masani to C. Rajagopalachari, dated 21 December 196—(the final year digit is illegible), concerns the interpretation of Point 21 of the party’s Statement of Policy. Masani agrees that the point applies to the matter under discussion but explains that public pronouncements by Rajagopalachari sometimes excite party members, who regard them as committing the party. He therefore proposes clarifying that the views expressed under this point are Rajagopalachari’s personal views.
+
+Masani also invokes voting figures from Goa to argue that electoral support should be assessed by votes cast rather than seats won. He contrasts 109,000 votes cast for parties and groups supporting merger with 140,000 votes cast for the United Goans, Congress, and others defending the status quo or statehood against merger, while noting that the resulting difference in seats was merely coincidental. The page also records a copy to S. V. Raju and Masani’s planned return to Bombay.
+
 ## Key points
 
 - Masani writes to C. Rajagopalachari about the application of Point 21 of the party’s Statement of Policy.

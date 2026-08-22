@@ -49,6 +49,12 @@ summary: |-
   Masani also suggests appending to the petition a study of the news in English produced by the Indian Committee for Cultural Freedom and the Indian Liberal Group. The page records the letter's immediate procedural purpose rather than the substantive arguments of the draft petition or the attached study; those enclosures are not included in the rendered page.
 ---
 
+## Summary
+
+In this letter dated 8 April 1987, M. R. Masani forwards Naoroz Seervai a draft petition concerning the Government Monopoly of Broadcasting, together with a file. Masani writes that he and Soli believe the petition should be finalised while awaiting a response from Arjun Singh. He notes that paragraphs 4 and 5 depend on correspondence with the Government that remains unresolved, but argues that the rest can be revised and sent to Soli for settlement and preparation.
+
+Masani also suggests appending to the petition a study of the news in English produced by the Indian Committee for Cultural Freedom and the Indian Liberal Group. The page records the letter's immediate procedural purpose rather than the substantive arguments of the draft petition or the attached study; those enclosures are not included in the rendered page.
+
 ## Key points
 
 - Masani forwards a draft petition concerning the Government Monopoly of Broadcasting.

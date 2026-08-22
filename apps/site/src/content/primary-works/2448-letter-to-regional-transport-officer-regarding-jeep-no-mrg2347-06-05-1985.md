@@ -49,6 +49,10 @@ summary: |-
   In this one-page letter dated 6 May 1985, M. R. Masani writes to the Regional Transport Officer in Bombay about a demand notice concerning Jeep MRG-2347. He states that he neither owns nor possesses the vehicle and is therefore returning the notice. Masani explains that the Jeep belonged to the Swatantra Party and had been disposed of in 1967, with due notice of the sale given to the authorities.
 ---
 
+## Summary
+
+In this one-page letter dated 6 May 1985, M. R. Masani writes to the Regional Transport Officer in Bombay about a demand notice concerning Jeep MRG-2347. He states that he neither owns nor possesses the vehicle and is therefore returning the notice. Masani explains that the Jeep belonged to the Swatantra Party and had been disposed of in 1967, with due notice of the sale given to the authorities.
+
 ## Key points
 
 - Masani responds to a demand notice concerning vehicle MRG-2347.

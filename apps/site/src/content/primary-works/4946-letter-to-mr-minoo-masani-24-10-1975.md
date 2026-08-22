@@ -49,6 +49,12 @@ summary: |-
   The letter closes with an explicit expression of support for Masani's struggle against censorship. It offers no further details about the review, the unpublished copy, or the circumstances behind the editorial decision.
 ---
 
+## Summary
+
+This one-page letter, dated 24 October 1975 and written from Bombay on The Times of India letterhead, is addressed by editor Inder Malhotra to Minoo Masani. Malhotra explains that he cannot publish Masani's material exactly as submitted and suggests that they "may drop the matter for the present." He separately refers to his inability to publish a review of Masani's book on Jayaprakash Narayan ("JP"), attributing the decision to a complex mixture of personal and professional reasons that he will explain privately.
+
+The letter closes with an explicit expression of support for Masani's struggle against censorship. It offers no further details about the review, the unpublished copy, or the circumstances behind the editorial decision.
+
 ## Key points
 
 - Inder Malhotra writes to Minoo Masani from Bombay on 24 October 1975.

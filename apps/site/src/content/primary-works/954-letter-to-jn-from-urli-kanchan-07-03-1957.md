@@ -51,6 +51,12 @@ summary: |-
   Narayan presents opposition parties as an essential democratic check, even when they are not individually superior to the ruling party. He says he was not concerned by warnings of political instability because he did not expect Congress to be removed from office; his immediate objective was instead the “deflation” of Congress power. The extract closes by noting that C. Rajagopalachari (“Rajaji”) had been thinking along similar lines, which Narayan takes as confirmation that his position was not irrational despite the ridicule directed at him.
 ---
 
+## Summary
+
+In these two pages, Jayaprakash Narayan explains his position on the 1957 elections in a letter to J.N. He argues that the Congress party’s large legislative majorities over the previous decade have harmed good government and that continued Congress dominance poses a serious danger to the country’s interests. He therefore advocated coordination among opposition parties so that they would not divide the anti-Congress vote, while stressing that this advice arose from political principles rather than personal hostility to Congress.
+
+Narayan presents opposition parties as an essential democratic check, even when they are not individually superior to the ruling party. He says he was not concerned by warnings of political instability because he did not expect Congress to be removed from office; his immediate objective was instead the “deflation” of Congress power. The extract closes by noting that C. Rajagopalachari (“Rajaji”) had been thinking along similar lines, which Narayan takes as confirmation that his position was not irrational despite the ridicule directed at him.
+
 ## Key points
 
 - Narayan regards Congress’s decade of large legislative majorities as harmful to good government.

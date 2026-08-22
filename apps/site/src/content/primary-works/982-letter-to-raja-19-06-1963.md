@@ -49,6 +49,12 @@ summary: |-
   Upadhyaya also encloses a resolution of the All India Working Committee, adopted at its Allahabad meeting on 13–14 June 1963, concerning opposition unity. The letter closes by congratulating Rajagopalachari on Minoo Masani’s electoral success. The document provides a brief contemporary account of opposition coordination, electoral setbacks, and inter-party political networking; no further correspondence or enclosure is included in the rendered page.
 ---
 
+## Summary
+
+This one-page letter, dated 19 June 1963 and signed by Deendayal Upadhyaya from the Bharatiya Jana Sangh Central Office, responds to C. Rajagopalachari’s interest in the Jaunpur election. Upadhyaya says that although victory would have strengthened their parliamentary work, the defeat is not discouraging and may precede future success. He asks for Rajagopalachari’s continued patronage and guidance, especially in building cooperation and goodwill among non-communist opposition forces.
+
+Upadhyaya also encloses a resolution of the All India Working Committee, adopted at its Allahabad meeting on 13–14 June 1963, concerning opposition unity. The letter closes by congratulating Rajagopalachari on Minoo Masani’s electoral success. The document provides a brief contemporary account of opposition coordination, electoral setbacks, and inter-party political networking; no further correspondence or enclosure is included in the rendered page.
+
 ## Key points
 
 - Upadhyaya writes to C. Rajagopalachari on 19 June 1963 from the Bharatiya Jana Sangh Central Office.

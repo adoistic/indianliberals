@@ -50,6 +50,12 @@ summary: |-
   The letter instructs each State Council to elect its General Council representative at a meeting to be held between October 15 and 30. It requests the immediate transmission of the elected representatives' names and complete addresses so that the Party can communicate with them before the first General Council meeting, scheduled for the latter half of November. The National Executive would separately announce its nominee to preside over each State Council meeting.
 ---
 
+## Summary
+
+Dated September 27, 1967, this one-page internal communication from N. Dandekar, the Swatantra Party's Officiating General Secretary, informs State Units of the representation formula for the Party's General Council. The formula provides three representatives for the first 400 Workers, Life Workers, or Life Members, plus one representative for every additional 150 members, subject to a maximum of 20 and a minimum of three under Clause 9(b) of the Party's Constitution.
+
+The letter instructs each State Council to elect its General Council representative at a meeting to be held between October 15 and 30. It requests the immediate transmission of the elected representatives' names and complete addresses so that the Party can communicate with them before the first General Council meeting, scheduled for the latter half of November. The National Executive would separately announce its nominee to preside over each State Council meeting.
+
 ## Key points
 
 - The National Executive sets a General Council representation formula for State Units.

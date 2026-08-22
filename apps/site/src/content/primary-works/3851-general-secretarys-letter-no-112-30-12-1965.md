@@ -52,6 +52,12 @@ summary: |-
   Masani also anticipates elections to state Upper Houses, or Vidhan Parishads, early the following year. He asks State Parliamentary Boards to discuss candidates and submit considered recommendations for both the Rajya Sabha and the state legislative councils at least a month before polling, and no later than 1 February 1966. The document is therefore an internal organisational communication focused on electoral coordination and legislative representation.
 ---
 
+## Summary
+
+In this 30 December 1965 letter, M. R. Masani, General Secretary of the Swatantra Party, alerts party colleagues to forthcoming elections by state legislatures for 71 Rajya Sabha seats. He provides the state-wise allocation of seats and notes that polling is expected to be completed by 2 April 1966.
+
+Masani also anticipates elections to state Upper Houses, or Vidhan Parishads, early the following year. He asks State Parliamentary Boards to discuss candidates and submit considered recommendations for both the Rajya Sabha and the state legislative councils at least a month before polling, and no later than 1 February 1966. The document is therefore an internal organisational communication focused on electoral coordination and legislative representation.
+
 ## Key points
 
 - The letter is dated December 30, 1965, and is issued from the Swatantra Party Central Office in Bombay.

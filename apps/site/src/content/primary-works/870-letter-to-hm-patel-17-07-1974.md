@@ -48,6 +48,12 @@ summary: |-
   Masani expresses hope that good sense will prevail on both sides and argues that his proposal could provide a dignified alternative to an otherwise damaging party split while remaining aligned with the country's present needs. The page ends with the enclosed resolution noted but does not reproduce it.
 ---
 
+## Summary
+
+In this typed letter dated July 17, 1974, M. R. Masani sends H. M. Patel a proposed resolution for discussion at the Swatantra Party's National Convention in Delhi on August 4–5. Masani presents the resolution as a compromise between two opposing factions: Piloo Mody's new party and members who oppose dissolving the party.
+
+Masani expresses hope that good sense will prevail on both sides and argues that his proposal could provide a dignified alternative to an otherwise damaging party split while remaining aligned with the country's present needs. The page ends with the enclosed resolution noted but does not reproduce it.
+
 ## Key points
 
 - The letter is dated July 17, 1974, and is addressed to H. M. Patel at Vallabh Vidyanagar, Gujarat.

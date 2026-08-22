@@ -50,6 +50,12 @@ summary: |-
   The letter argues that the Swatantra Party has not given the Congress any reason to claim that it sought to encourage a split. It describes attempts to secure adjustments in the party’s approach so as to avoid triangular contests that might benefit Congress candidates, but says these efforts failed. The writer urges a positive and united opposition, while insisting that the party is not opposed to individual members taking initiative. The closing pages suggest that the writer is seeking Aney’s support, possibly as an “appreciate member” rather than a full member in the parliamentary party.
 ---
 
+## Summary
+
+This undated handwritten letter, signed “C R” and apparently addressed to M. S. Aney, discusses the Swatantra Party’s position toward the Congress and an impending party convention. The writer says that an earlier recommendation to use a different venue was unsuitable, and expresses appreciation for Aney’s advice while regretting that the writer’s previous letter may have caused embarrassment or hesitation.
+
+The letter argues that the Swatantra Party has not given the Congress any reason to claim that it sought to encourage a split. It describes attempts to secure adjustments in the party’s approach so as to avoid triangular contests that might benefit Congress candidates, but says these efforts failed. The writer urges a positive and united opposition, while insisting that the party is not opposed to individual members taking initiative. The closing pages suggest that the writer is seeking Aney’s support, possibly as an “appreciate member” rather than a full member in the parliamentary party.
+
 ## Key points
 
 - The writer thanks M. S. Aney for advice concerning the venue and arrangements for a Swatantra Party convention.

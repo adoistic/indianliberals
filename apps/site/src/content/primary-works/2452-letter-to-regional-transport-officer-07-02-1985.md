@@ -50,6 +50,10 @@ summary: |-
   In this letter dated February 7, 1985, Minoo Masani returns a motor-vehicles tax bill to the Regional Transport Officer, Bombay, and requests its cancellation. The bill concerns Jeep No. MRG 2347 and covers February 1984 to January 1985, although Masani states that the vehicle had belonged to the Swatantra Party for election use in 1971 and had subsequently been sold.
 ---
 
+## Summary
+
+In this letter dated February 7, 1985, Minoo Masani returns a motor-vehicles tax bill to the Regional Transport Officer, Bombay, and requests its cancellation. The bill concerns Jeep No. MRG 2347 and covers February 1984 to January 1985, although Masani states that the vehicle had belonged to the Swatantra Party for election use in 1971 and had subsequently been sold.
+
 ## Key points
 
 - Masani disputes liability for Motor Vehicles Tax Bill No. 840201.

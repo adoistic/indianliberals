@@ -49,6 +49,12 @@ summary: |-
   Bisaria’s central concern is ideological and organisational: he questions how the “foremost rightist Party like Swatantra” could merge with parties he considers unlike-minded, particularly the S.S.P. associated with Raj Narain. He asks Mody to guide him so that he can prepare for the 1 May 1974 meeting. The page also contains handwritten annotations and a signature, but their full meaning is not always clear.
 ---
 
+## Summary
+
+In this letter dated 22 April 1974, A.C. Bisaria writes to Mr. Mody in his capacity as a State Executive member of the Delhi State Swatantra Party and a member of its General Council. He disputes a press report that the Swatantra Party had approved a merger with seven other parties, noting that the National Executive had instead only decided to explore the possibility of such a merger. He reports that R.N. Singh Deo and D.N. Patodia attended a meeting convened by Charan Singh, but says that no details had yet emerged about the proposed new party or the basis for discussion at the forthcoming General Council meeting.
+
+Bisaria’s central concern is ideological and organisational: he questions how the “foremost rightist Party like Swatantra” could merge with parties he considers unlike-minded, particularly the S.S.P. associated with Raj Narain. He asks Mody to guide him so that he can prepare for the 1 May 1974 meeting. The page also contains handwritten annotations and a signature, but their full meaning is not always clear.
+
 ## Key points
 
 - Bisaria identifies himself as a Delhi State Swatantra Party State Executive member and General Council member.

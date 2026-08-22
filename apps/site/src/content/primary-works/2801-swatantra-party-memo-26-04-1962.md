@@ -50,6 +50,12 @@ summary: |-
   The two typed letters, both dated April 13, 1962, originate from Lakshmi Nivas Palace, Padma, Hazaribagh. Shashank Manjari writes to the Secretary of the Lok Sabha requesting a seat in the block reserved for Swatantra Party members; a covering letter to Minoo Masani forwards that request and identifies the enclosed communication. The packet documents party coordination with Parliament and the practical use of a reserved party seating arrangement, rather than presenting a political argument or policy program.
 ---
 
+## Summary
+
+This three-page English correspondence packet from the Swatantra Party’s Central Office concerns the administrative allocation of a Lok Sabha seat to Maharajmata Shashank Manjari. A handwritten Central Office memo dated April 26, 1962, signed “Ranga,” states that Raymati’s signature had already been obtained in Delhi and handed to Mr. Masani, and that the attached letter could therefore be filed.
+
+The two typed letters, both dated April 13, 1962, originate from Lakshmi Nivas Palace, Padma, Hazaribagh. Shashank Manjari writes to the Secretary of the Lok Sabha requesting a seat in the block reserved for Swatantra Party members; a covering letter to Minoo Masani forwards that request and identifies the enclosed communication. The packet documents party coordination with Parliament and the practical use of a reserved party seating arrangement, rather than presenting a political argument or policy program.
+
 ## Key points
 
 - The packet consists of a Swatantra Party Central Office memo and two attached letters.

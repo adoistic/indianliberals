@@ -50,6 +50,12 @@ summary: |-
   The letter also asks the party to decide on closing its ranks and resuming united work under the leadership of its respected leaders. The sender's full identity is not clear from the rendered page: the handwritten signature appears to read "Andrews," while the handwritten address may begin "K. Andrews."
 ---
 
+## Summary
+
+This one-page letter, dated 8 April 1968, is addressed to Mr. N. Dandeker, M.P., at the Swatantra Party's Central Office in Bombay. The sender requests that Dandeker convene an emergency meeting of the party's General Council to discuss Minoo Masani's resignation from the National Executive and the Central Parliamentary Board.
+
+The letter also asks the party to decide on closing its ranks and resuming united work under the leadership of its respected leaders. The sender's full identity is not clear from the rendered page: the handwritten signature appears to read "Andrews," while the handwritten address may begin "K. Andrews."
+
 ## Key points
 
 - The letter is dated 8 April 1968 and addressed to Mr. N. Dandeker, M.P.

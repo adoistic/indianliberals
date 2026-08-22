@@ -55,6 +55,12 @@ summary: |-
   Parikh’s enclosure, “A WORD TO CONGRESSMAN AND OTHERS—INDIANS,” interprets the 1971 election as a decisive reorganisation of Congress and Indian politics. It calls for Congress’s old guard to accept a revitalised leadership, urges Indians to look toward the future rather than remain attached to the past, and advocates humane, Indianised laws grounded in justice rather than coercion. The packet is fully visible here; no pages or additional material are missing.
 ---
 
+## Summary
+
+This four-page correspondence packet, dated 15–21 April 1971, contains Minoo R. Masani’s reply to A. L. Parikh and Parikh’s original letter with a two-page enclosure. Masani defends the necessity of criticising serving governments in a free society, warning that abandoning such criticism risks a slide toward totalitarian dictatorship. Parikh, responding to Masani’s speech at the Jain Yuvak Sangh, argues that Masani has been changed by coalition politics and attacks his criticism of the Prime Minister, Indira Gandhi, and the electoral system.
+
+Parikh’s enclosure, “A WORD TO CONGRESSMAN AND OTHERS—INDIANS,” interprets the 1971 election as a decisive reorganisation of Congress and Indian politics. It calls for Congress’s old guard to accept a revitalised leadership, urges Indians to look toward the future rather than remain attached to the past, and advocates humane, Indianised laws grounded in justice rather than coercion. The packet is fully visible here; no pages or additional material are missing.
+
 ## Key points
 
 - Masani rejects the suggestion that criticism of the Prime Minister is inherently improper, presenting criticism of officeholders as essential to a free society.

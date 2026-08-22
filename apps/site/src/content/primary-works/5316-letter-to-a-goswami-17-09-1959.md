@@ -47,6 +47,12 @@ summary: |-
   The letter encloses two documents requested by Goswami: Masani's opening remarks at the Preparatory Convention of the Swatantra Party held in Bombay, and the party's statement of principles. The correspondence is therefore administrative in form but directly connected to the formation and public articulation of the Swatantra Party in 1959.
 ---
 
+## Summary
+
+This single-page English letter, dated 17 September 1959, is addressed to Mr. A. Goswami and signed by Miss B.S. Mirza as secretary to Mr. M.R. Masani. It acknowledges receipt of Goswami's 7 August letter and explains that Masani is then in the United Kingdom, expected to return to India around the first week of October.
+
+The letter encloses two documents requested by Goswami: Masani's opening remarks at the Preparatory Convention of the Swatantra Party held in Bombay, and the party's statement of principles. The correspondence is therefore administrative in form but directly connected to the formation and public articulation of the Swatantra Party in 1959.
+
 ## Key points
 
 - The letter is dated 17 September 1959 and addressed to Mr. A. Goswami.

@@ -55,6 +55,12 @@ summary: |-
   Mahida criticises compulsory or financially burdensome cooperative farming, arguing that experiments should not be conducted at the people’s expense. He attacks the Congress government’s statist and socialist pattern, questions the losses and subsidies associated with public-sector enterprises, and calls for a mixed economy in which private enterprise can operate alongside the public sector. He also argues that education and agriculture deserve priority over heavy industry, citing budgetary comparisons, and objects to conspicuous official luxury while ordinary people lack food, clothing, and water. The speech closes by presenting the Swatantra Party as nationalist rather than reactionary, advocating political competition, national unity, and greater attention to the needs of farmers and the common man.
 ---
 
+## Summary
+
+This eight-page transcript records Narendra Singh Mahida’s Lok Sabha speech of 10 May 1962 on the General Budget. Mahida begins by rejecting the perception that the Swatantra Party represents princes or wealthy interests, insisting that he is a “commoner” and that the party’s opposition to the government concerns policy rather than hostility to progress or to the common people. He distinguishes the party’s preferred “humanism” from the enforcement of socialism as a Western concept, and argues that poverty should be addressed through practical improvements in agriculture, education, and living standards.
+
+Mahida criticises compulsory or financially burdensome cooperative farming, arguing that experiments should not be conducted at the people’s expense. He attacks the Congress government’s statist and socialist pattern, questions the losses and subsidies associated with public-sector enterprises, and calls for a mixed economy in which private enterprise can operate alongside the public sector. He also argues that education and agriculture deserve priority over heavy industry, citing budgetary comparisons, and objects to conspicuous official luxury while ordinary people lack food, clothing, and water. The speech closes by presenting the Swatantra Party as nationalist rather than reactionary, advocating political competition, national unity, and greater attention to the needs of farmers and the common man.
+
 ## Key points
 
 - Mahida rejects the characterization of the Swatantra Party as a party of princes or the rich and presents it as a representative of common people and agriculturists.

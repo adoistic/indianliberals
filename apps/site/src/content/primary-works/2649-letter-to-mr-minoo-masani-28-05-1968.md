@@ -48,6 +48,12 @@ summary: |-
   Rao explains that the project's report is undergoing technical examination by the Central Water and Power Commission. He says the Commission has sent comments to the state government and requested replies and an officer for discussions to finalise the scheme and cost estimates. Rao has instructed the Commission to accelerate its scrutiny and place the report before the Advisory Committee for clearance of irrigation, power and flood-control projects at an early date.
 ---
 
+## Summary
+
+This official letter, dated 28 May 1968 and issued from New Delhi on the letterhead of India's Minister for Irrigation & Power, K. L. Rao, responds to M. R. Masani's letter of 29 February 1968. Rao reports that Raj Ballabh Mishra, Odisha's Minister for Community Development, Panchayati Raj and Agriculture, had requested expedited clearance of the Anandpur Barrage Project.
+
+Rao explains that the project's report is undergoing technical examination by the Central Water and Power Commission. He says the Commission has sent comments to the state government and requested replies and an officer for discussions to finalise the scheme and cost estimates. Rao has instructed the Commission to accelerate its scrutiny and place the report before the Advisory Committee for clearance of irrigation, power and flood-control projects at an early date.
+
 ## Key points
 
 - The letter is dated 28 May 1968 and was sent from New Delhi by India's Minister for Irrigation & Power.

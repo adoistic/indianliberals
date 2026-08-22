@@ -50,6 +50,12 @@ summary: |-
   The letter then turns to the political climate in India. The sender explains that Freedom First has suspended publication because of government censorship and says that a petition to the Bombay High Court concerning the Emergency has been admitted. Copies of a letter to readers explaining the journal's absence and of remarks made by the Prime Minister in the Lok Sabha are enclosed. The sender's identity is not visible on the page, and no signature appears.
 ---
 
+## Summary
+
+This one-page letter, dated August 13, 1975, is addressed to Zareer Masani at Oxford. The unnamed sender refers to an earlier letter about Masani's biography and encloses a friendly review of his book in Socialist India, along with a Toronto Star review describing it as a “timely new biography.” The sender also suggests that Masani obtain the latter review from his publishers.
+
+The letter then turns to the political climate in India. The sender explains that Freedom First has suspended publication because of government censorship and says that a petition to the Bombay High Court concerning the Emergency has been admitted. Copies of a letter to readers explaining the journal's absence and of remarks made by the Prime Minister in the Lok Sabha are enclosed. The sender's identity is not visible on the page, and no signature appears.
+
 ## Key points
 
 - The letter is dated August 13, 1975, and addressed to Zareer Masani in Oxford.

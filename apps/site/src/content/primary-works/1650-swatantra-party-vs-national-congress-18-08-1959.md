@@ -59,6 +59,12 @@ summary: |-
   The pamphlet frames C. Rajagopalachari's return to politics after roughly twelve years as an attempt to replace the Congress's alleged “fruit garden” of centralized administration with a political order based on democracy, free enterprise, productivity, and individual cooperation. Jain argues that the Congress's record after independence produced repeated divisions, ineffective governance, heavy borrowing, and inadequate relief for farmers and labourers. He closes by defending Swatantra as a forum for free enterprise that could expose the public to alternatives to Congress rule, while acknowledging that the new party had not yet fully reached the masses.
 ---
 
+## Summary
+
+Dated Haldwani, 18 August 1959, this six-page pamphlet by Ranbir Singh Jain presents the Swatantra Party as a response to what the author sees as the Indian National Congress's historical and post-independence failures. Jain traces India's political fragmentation from precolonial rivalries through Mughal and British rule, arguing that British “divide and rule” policies exploited existing divisions while the Congress inherited habits of quarrelling, disorder, and centralized political control. He is particularly critical of the Congress's earlier boycott of legislatures and its later electoral dominance.
+
+The pamphlet frames C. Rajagopalachari's return to politics after roughly twelve years as an attempt to replace the Congress's alleged “fruit garden” of centralized administration with a political order based on democracy, free enterprise, productivity, and individual cooperation. Jain argues that the Congress's record after independence produced repeated divisions, ineffective governance, heavy borrowing, and inadequate relief for farmers and labourers. He closes by defending Swatantra as a forum for free enterprise that could expose the public to alternatives to Congress rule, while acknowledging that the new party had not yet fully reached the masses.
+
 ## Key points
 
 - The pamphlet contrasts the newly formed Swatantra Party with the Indian National Congress.

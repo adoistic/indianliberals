@@ -48,6 +48,10 @@ summary: |-
   This 28 September 1974 letter from the Madras District Swatantra Party office to S. V. Raju concerns urgent organisational work. The writer asks Raju to compile lists of National General Council members in each state with a Swatantra Party unit, and reports having contacted V. T. Srinivasan of Bangalore about a meeting, sending him copies of plaints and court-filed affidavits. The letter also asks Raju to identify a reliable leader or worker willing to build the party in Andhra Pradesh. It requests names of sympathetic workers or leaders in Haryana, Punjab, Rajasthan, Gujarat, and Uttar Pradesh, so that the writer and Mr. Sundaram can contact them. The surviving pages consist of the letter and its inland-letter envelope; no further correspondence or attachments are visible.
 ---
 
+## Summary
+
+This 28 September 1974 letter from the Madras District Swatantra Party office to S. V. Raju concerns urgent organisational work. The writer asks Raju to compile lists of National General Council members in each state with a Swatantra Party unit, and reports having contacted V. T. Srinivasan of Bangalore about a meeting, sending him copies of plaints and court-filed affidavits. The letter also asks Raju to identify a reliable leader or worker willing to build the party in Andhra Pradesh. It requests names of sympathetic workers or leaders in Haryana, Punjab, Rajasthan, Gujarat, and Uttar Pradesh, so that the writer and Mr. Sundaram can contact them. The surviving pages consist of the letter and its inland-letter envelope; no further correspondence or attachments are visible.
+
 ## Key points
 
 - The letter is dated 28 September 1974 and is issued from the Madras District Swatantra Party office. S. V. Raju is asked to compile a state-wise list of National General Council members who remain aligned with the party. The writer considers the compilation an urgent task to be completed within a few days. V. T. Srinivasan of Bangalore has been contacted regarding a meeting and has received copies of plaints and court-filed affidavits. Raju is asked to find a dependable person to take responsibility for building the party in Andhra Pradesh.

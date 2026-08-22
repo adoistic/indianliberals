@@ -47,6 +47,10 @@ summary: |-
   In this single-page letter dated 5 January 1968, O. P. Pathak, identifying himself as an advocate and member of the Swatantra Party General Council from Katghar, Moradabad (U.P.), writes to N. Dandekar, the party's General Secretary. Pathak asks Dandekar to convene an emergency meeting of the General Council in response to Minoo Masani's resignation from the National Executive and the Central Parliamentary Board.
 ---
 
+## Summary
+
+In this single-page letter dated 5 January 1968, O. P. Pathak, identifying himself as an advocate and member of the Swatantra Party General Council from Katghar, Moradabad (U.P.), writes to N. Dandekar, the party's General Secretary. Pathak asks Dandekar to convene an emergency meeting of the General Council in response to Minoo Masani's resignation from the National Executive and the Central Parliamentary Board.
+
 ## Key points
 
 - The letter is addressed to N. Dandekar, M.P., General Secretary of the Swatantra Party.

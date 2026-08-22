@@ -51,6 +51,12 @@ summary: |-
   Bhatia asks that letters addressed to Swatantra Party National Headquarters be delivered directly to his office, and proposes returning to an earlier practice in which the two offices exchanged their respective mail. The letter frames the request as an effort to prevent further misunderstandings between friends. The document does not identify the recipient beyond “Girishbhai” or provide a printed title.
 ---
 
+## Summary
+
+This one-page letter, dated 22 April 1975 and signed by V. P. Bhatia on Bharatiya Lok Dal letterhead in Bombay, addresses “Girishbhai” about the handling of correspondence. Bhatia alleges that office staff are collecting mail from the postman, opening bank statements and other letters, and withholding some correspondence.
+
+Bhatia asks that letters addressed to Swatantra Party National Headquarters be delivered directly to his office, and proposes returning to an earlier practice in which the two offices exchanged their respective mail. The letter frames the request as an effort to prevent further misunderstandings between friends. The document does not identify the recipient beyond “Girishbhai” or provide a printed title.
+
 ## Key points
 
 - V. P. Bhatia wrote the letter on 22 April 1975 from Bharatiya Lok Dal’s Bombay office.

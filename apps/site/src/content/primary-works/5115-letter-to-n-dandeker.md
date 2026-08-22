@@ -48,6 +48,10 @@ summary: |-
   This one-page English letter, signed by Achyut Patwardhan, is addressed to N. Dandekar, General Secretary of the Swatantra Party, at its Bombay central office. Patwardhan requests an emergency meeting of the party’s General Council to consider Minoo Masani’s resignation from the National Executive and the Central Parliamentary Board.
 ---
 
+## Summary
+
+This one-page English letter, signed by Achyut Patwardhan, is addressed to N. Dandekar, General Secretary of the Swatantra Party, at its Bombay central office. Patwardhan requests an emergency meeting of the party’s General Council to consider Minoo Masani’s resignation from the National Executive and the Central Parliamentary Board.
+
 ## Key points
 
 - The letter requests an emergency meeting of the Swatantra Party’s General Council.

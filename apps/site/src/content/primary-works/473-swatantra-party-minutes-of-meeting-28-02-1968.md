@@ -55,6 +55,12 @@ summary: |-
   The record presents the party as opposing Congress’s refusal to join a coalition government in Bihar, while deciding to abstain on the relevant motion. On the Delhi teachers’ strike, it supported the Government of India’s position that the teachers’ demand was not well founded, citing the relatively high salaries of Delhi teachers and the inflationary consequences of increased pay and allowances. It also records Raja Venkatappa Naik’s nomination to the Select Committee on the Scheduled Castes and Scheduled Tribes Bill, 1967, D.R. Parmar’s nomination to the Select Committee on the Motor Vehicles Amendment Bill, and C.C. Desai’s signature as Secretary. The document has no printed title or author byline.
 ---
 
+## Summary
+
+This one-page office record, dated February 28, 1968, documents a meeting of the Swatantra Party Executive Committee held in the Party Room of Parliament House, New Delhi. It lists eleven members present and identifies K.M. Koushik as a special invitee. The committee resolved to support a no-confidence motion and recorded positions on constitutional developments in Bihar, a teachers’ strike in Delhi, and nominations to parliamentary select committees.
+
+The record presents the party as opposing Congress’s refusal to join a coalition government in Bihar, while deciding to abstain on the relevant motion. On the Delhi teachers’ strike, it supported the Government of India’s position that the teachers’ demand was not well founded, citing the relatively high salaries of Delhi teachers and the inflationary consequences of increased pay and allowances. It also records Raja Venkatappa Naik’s nomination to the Select Committee on the Scheduled Castes and Scheduled Tribes Bill, 1967, D.R. Parmar’s nomination to the Select Committee on the Motor Vehicles Amendment Bill, and C.C. Desai’s signature as Secretary. The document has no printed title or author byline.
+
 ## Key points
 
 - The Swatantra Party Executive Committee met on February 28, 1968, at Parliament House in New Delhi.

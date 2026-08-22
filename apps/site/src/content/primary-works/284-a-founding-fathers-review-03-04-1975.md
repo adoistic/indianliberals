@@ -57,6 +57,12 @@ summary: |-
   The discussion focuses especially on federalism, the distribution of legislative powers, planning, the relationship between the Union and the States, and the roles of the President and Governors. The speaker contends that socialist planning and the expansion of Union control over industry have weakened State autonomy, while arguing that strong Union and State governments should reinforce rather than undermine one another. The later pages examine presidential discretion, the dismissal of governments, the dissolution of legislatures, prolonged Emergency powers, and the need for an independent President who acts as a constitutional check rather than a ceremonial “rubber stamp.” The rendered sequence ends during the discussion of dismissal powers; the final seven PDF pages were not available.
 ---
 
+## Summary
+
+The visible pages present the Janashakti Press Trust Endowment Lectures delivered on April 3 and 4, 1975, as a retrospective examination of the Indian Constitution after twenty-five years. The speaker argues that constitutional success depends less on the text alone than on the people and political conventions through which it is administered. The opening rejects the view that the Constitution has become obsolete and instead calls for a return to its original spirit, vigilance in defence of liberty, and restraint in the use of constitutional powers.
+
+The discussion focuses especially on federalism, the distribution of legislative powers, planning, the relationship between the Union and the States, and the roles of the President and Governors. The speaker contends that socialist planning and the expansion of Union control over industry have weakened State autonomy, while arguing that strong Union and State governments should reinforce rather than undermine one another. The later pages examine presidential discretion, the dismissal of governments, the dissolution of legislatures, prolonged Emergency powers, and the need for an independent President who acts as a constitutional check rather than a ceremonial “rubber stamp.” The rendered sequence ends during the discussion of dismissal powers; the final seven PDF pages were not available.
+
 ## Key points
 
 - The Constitution should be judged through twenty-five years of political practice, not solely by its wording.

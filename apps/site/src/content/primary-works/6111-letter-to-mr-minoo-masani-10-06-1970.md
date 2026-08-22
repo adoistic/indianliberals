@@ -48,6 +48,12 @@ summary: |-
   Raju explains that the plan is to select 30 highly capable men, train each of them to train 20 others, and thereby create 300 trained personnel. He recommends Srikakulam, identified as the centre of Naxalite activity in Andhra, as the camp location, with a duration of 20–30 days.
 ---
 
+## Summary
+
+In this letter dated June 10, 1970, S. V. Raju reports to Minoo Masani on Lt. Appa Rao’s proposal for training camps intended to counter the Naxalite threat. The proposed camps would combine physical training—such as defending a village against attack—with ideological instruction about communism and its various manifestations.
+
+Raju explains that the plan is to select 30 highly capable men, train each of them to train 20 others, and thereby create 300 trained personnel. He recommends Srikakulam, identified as the centre of Naxalite activity in Andhra, as the camp location, with a duration of 20–30 days.
+
 ## Key points
 
 - The letter discusses Lt. Appa Rao’s proposal for camps addressing the Naxalite threat.

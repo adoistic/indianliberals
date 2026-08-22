@@ -48,6 +48,10 @@ summary: |-
   Dated April 28, 1967, this Swatantra Party Central Office letter from Acting General Secretary N. Dandekar addresses party MPs and MLAs about voting in the presidential election. It explains that the election uses a single transferable vote, allowing a second-preference vote if necessary.
 ---
 
+## Summary
+
+Dated April 28, 1967, this Swatantra Party Central Office letter from Acting General Secretary N. Dandekar addresses party MPs and MLAs about voting in the presidential election. It explains that the election uses a single transferable vote, allowing a second-preference vote if necessary.
+
 ## Key points
 
 - The letter is Swatantra Party General Secretary's Letter No. 13, dated April 28, 1967.

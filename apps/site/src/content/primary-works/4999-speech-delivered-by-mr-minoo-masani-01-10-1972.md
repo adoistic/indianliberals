@@ -61,6 +61,12 @@ summary: |-
   Masani’s central target is ceiling legislation. He distinguishes India’s policy from the compensatory, investment-oriented land ceilings adopted in Japan and Taiwan, arguing that India’s system will produce neither viable holdings nor employment. He warns that progressively smaller holdings could make peasant farming impossible and create the conditions for compulsory collective farming. The speech closes with an appeal for a non-party farmers’ organisation, cooperation between rural and urban middle classes, constitutional resistance, and peaceful civil disobedience if farmers’ land is taken. Masani also rejects demands for urban ceilings, describing them as a divisive strategy that benefits the “New Class” and ultimately threatens both farmers and industrialists.
 ---
 
+## Summary
+
+In this inaugural speech to the Farmers’ Federation of India in Bangalore on 1 October 1972, M. R. Masani presents the farm as a “bastion of freedom” and argues that the survival of India’s peasantry is a national, economic, and constitutional issue rather than a matter of party politics. He credits farmers with producing the Green Revolution and contends that government policy has instead neglected agriculture by diverting resources toward heavy industry, while Marxist influence has treated the independent farmer as an enemy of collectivism.
+
+Masani’s central target is ceiling legislation. He distinguishes India’s policy from the compensatory, investment-oriented land ceilings adopted in Japan and Taiwan, arguing that India’s system will produce neither viable holdings nor employment. He warns that progressively smaller holdings could make peasant farming impossible and create the conditions for compulsory collective farming. The speech closes with an appeal for a non-party farmers’ organisation, cooperation between rural and urban middle classes, constitutional resistance, and peaceful civil disobedience if farmers’ land is taken. Masani also rejects demands for urban ceilings, describing them as a divisive strategy that benefits the “New Class” and ultimately threatens both farmers and industrialists.
+
 ## Key points
 
 - Masani frames the farmer as a defender of India’s prosperity and freedom, and the Farmers’ Federation as a national rather than partisan organisation.

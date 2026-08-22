@@ -52,6 +52,12 @@ summary: |-
   The report says that Patel had contested a State Council seat but that Masani had invalidated the election on the grounds that Patel had stood while serving as a returning officer. Under the heading “PATEL’S CONTENTION,” it records Patel’s argument that he had resigned as returning officer before contesting. The committee also criticized Masani’s suggestion that the Gujarat unit be dissolved, attributing that suggestion to the unit’s alleged lack of discipline during a Rajya Sabha election. It noted that a majority of party members had voted against the official candidate, U. N. Mahida, while Mr. Babubhai Vaidya was reported as having been declared elected by the National Executive.
 ---
 
+## Summary
+
+This brief report in The Western Times describes the Gujarat Swatantra Party Executive Committee’s decision to strongly represent the case of Bhagwanji Patel, whose election had been set aside by the party’s then General Secretary, Minoo Masani. The committee, chaired by State Party Chief H. M. Patel, reviewed the election proceedings and concluded that Masani’s decision was unjustified.
+
+The report says that Patel had contested a State Council seat but that Masani had invalidated the election on the grounds that Patel had stood while serving as a returning officer. Under the heading “PATEL’S CONTENTION,” it records Patel’s argument that he had resigned as returning officer before contesting. The committee also criticized Masani’s suggestion that the Gujarat unit be dissolved, attributing that suggestion to the unit’s alleged lack of discipline during a Rajya Sabha election. It noted that a majority of party members had voted against the official candidate, U. N. Mahida, while Mr. Babubhai Vaidya was reported as having been declared elected by the National Executive.
+
 ## Key points
 
 - The Gujarat Swatantra Party Executive Committee resolved to support Bhagwanji Patel’s case.

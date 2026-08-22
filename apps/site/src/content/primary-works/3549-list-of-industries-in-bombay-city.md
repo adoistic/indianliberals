@@ -46,6 +46,12 @@ summary: |-
   The remaining sheets appear to group or annotate Bombay individuals and industrial concerns. Legible notes refer to “all scheduled Banks,” “all major Insurance Cos,” “all Bombay Millowners,” “brokers,” and “construction[s],” alongside names such as Shapoorji Pallonji, B. K. Shah, N. M. Wagle, Ahmed Fogal Fazalbhoy, S. R. Damani, M. K. Tata, and several firms or groups. The pages are heavily abbreviated, overwritten, and difficult to decipher; they do not provide a date, author, publisher, explanatory prose, or clear account of the purpose of the compilation.
 ---
 
+## Summary
+
+This four-page handwritten reference document is headed “Individuals in Bombay” and consists primarily of names arranged in numbered and unnumbered lists. The first sheet contains 23 numbered entries, including A. D. Shroff, J. D. Chokshi, Dharamsey Khabar, Pratappench Mathradas, Pratap Bhogilal, B. M. Shah, N. M. Wagle, J. H. Doshi, S. R. Damani, M. K. Tata, and S. P. Godrej; the final entry appears crossed out. A circled number, “3549,” is also visible.
+
+The remaining sheets appear to group or annotate Bombay individuals and industrial concerns. Legible notes refer to “all scheduled Banks,” “all major Insurance Cos,” “all Bombay Millowners,” “brokers,” and “construction[s],” alongside names such as Shapoorji Pallonji, B. K. Shah, N. M. Wagle, Ahmed Fogal Fazalbhoy, S. R. Damani, M. K. Tata, and several firms or groups. The pages are heavily abbreviated, overwritten, and difficult to decipher; they do not provide a date, author, publisher, explanatory prose, or clear account of the purpose of the compilation.
+
 ## Key points
 
 - The handwritten heading reads “Individuals in Bombay.”

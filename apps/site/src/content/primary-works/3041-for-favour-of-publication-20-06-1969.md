@@ -54,6 +54,12 @@ summary: |-
   The accompanying telegram presents the workers' case more forcefully, alleging indiscriminate disciplinary action, victimisation, threatened dismissals, and an attack on legitimate trade-union rights. Addressed to M. R. Masani, it asks for immediate intervention against the bank chairman and an end to repression. Together, the documents show a tension between the party's opposition to strikes as an industrial tactic and its concern that administrative reprisals and the neglect of local economic disputes may aggravate the crisis.
 ---
 
+## Summary
+
+This two-page Swatantra Party Parliamentary Office paper, dated June 20, 1969, combines a press statement with a separate ordinary telegram concerning the strike by the supervisory staff of the State Bank of India. The press statement says the Swatantra Party does not generally support strikes as a means of securing employee demands, but argues that the present stoppage has seriously disrupted commerce, industry, trade, and government functioning, with potentially damaging consequences for the national economy. It calls on the Government to act quickly and restore normal economic activity while ensuring justice for the bank's employees.
+
+The accompanying telegram presents the workers' case more forcefully, alleging indiscriminate disciplinary action, victimisation, threatened dismissals, and an attack on legitimate trade-union rights. Addressed to M. R. Masani, it asks for immediate intervention against the bank chairman and an end to repression. Together, the documents show a tension between the party's opposition to strikes as an industrial tactic and its concern that administrative reprisals and the neglect of local economic disputes may aggravate the crisis.
+
 ## Key points
 
 - The Swatantra Party states that it has never favoured resort to strikes as a means of advancing employee demands.

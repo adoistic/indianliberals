@@ -49,6 +49,10 @@ summary: |-
   This two-page letter, dated June 17, 1994, is addressed by the Swatantra Party, Maharashtra, to the Secretary of the Election Commission of India. It concerns the party's proposed registration under section 29A of the Representation of the People Act, 1951, and responds to the Commission's request for an application, party particulars, constitution, and a provision affirming allegiance to socialism, secularism, and democracy.
 ---
 
+## Summary
+
+This two-page letter, dated June 17, 1994, is addressed by the Swatantra Party, Maharashtra, to the Secretary of the Election Commission of India. It concerns the party's proposed registration under section 29A of the Representation of the People Act, 1951, and responds to the Commission's request for an application, party particulars, constitution, and a provision affirming allegiance to socialism, secularism, and democracy.
+
 ## Key points
 
 - The letter seeks clarification about registering the Swatantra Party under section 29A.

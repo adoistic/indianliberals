@@ -49,6 +49,12 @@ summary: |-
   In Masani’s reply, dated 25 November from New Delhi, he says that he will be in Calcutta from 4 to 7 December and invites Sen to meet him at the Great Eastern Hotel. The document is primarily logistical and introductory: it does not set out the party’s programme or provide substantive analysis of its organisation in West Bengal.
 ---
 
+## Summary
+
+This two-page English correspondence from November 1959 records an exchange between Minoo Masani and B. K. Sen about the newly formed Swatantra Party and its prospects in West Bengal. In his letter of 16 November, Sen refers to Masani’s article on the party in Life and to a report about the opening of a Swatantra Party office in West Bengal. He notes that a party convention in Calcutta had been announced for October but apparently had not taken place, and asks Masani about the party’s programme and future activities in the state.
+
+In Masani’s reply, dated 25 November from New Delhi, he says that he will be in Calcutta from 4 to 7 December and invites Sen to meet him at the Great Eastern Hotel. The document is primarily logistical and introductory: it does not set out the party’s programme or provide substantive analysis of its organisation in West Bengal.
+
 ## Key points
 
 - The document comprises reciprocal letters dated 16 and 25 November 1959.

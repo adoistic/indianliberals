@@ -46,6 +46,12 @@ summary: |-
   The letter explains that Masani is not currently in India and is expected to return only sometime in early October. As a result, he cannot accept the invitation, although Mirza states that she will place Pattabhy’s letter before him upon his return. The document records a brief piece of party correspondence during the formation of the Swatantra Party in 1959.
 ---
 
+## Summary
+
+This one-page English office letter, dated 26 September 1959, is marked “EXPRESS DELIVERY” and addressed to Mr. S. V. Pattabhy of the Swatantra Party in Hassan, Mysore State. Miss B. S. Mirza, writing as secretary to M. R. Masani, acknowledges Pattabhy’s invitation for Masani to attend the Swatantra Party’s first District Convention in Hassan on 27 September.
+
+The letter explains that Masani is not currently in India and is expected to return only sometime in early October. As a result, he cannot accept the invitation, although Mirza states that she will place Pattabhy’s letter before him upon his return. The document records a brief piece of party correspondence during the formation of the Swatantra Party in 1959.
+
 ## Key points
 
 - The letter is dated 26 September 1959 and marked for express delivery.

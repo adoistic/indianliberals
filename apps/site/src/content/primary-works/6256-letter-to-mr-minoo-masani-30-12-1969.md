@@ -47,6 +47,10 @@ summary: |-
   This one-page English express telegram, sent by S. V. Raju to M. R. Masani on December 30, 1969, concerns the cancellation of a party press conference. Raju refers to Masani's telex and states that there is no point in proceeding because the party has cancelled the press conference.
 ---
 
+## Summary
+
+This one-page English express telegram, sent by S. V. Raju to M. R. Masani on December 30, 1969, concerns the cancellation of a party press conference. Raju refers to Masani's telex and states that there is no point in proceeding because the party has cancelled the press conference.
+
 ## Key points
 
 - The document is an express telegram and confirmatory copy.

@@ -50,6 +50,12 @@ summary: |-
   The circular also asks State Units to provide the names, full addresses, and telephone numbers of State Council members and General Council members from their state. It is signed by V. P. Bhatia on behalf of the Swatantra Party Central Office.
 ---
 
+## Summary
+
+This one-page Swatantra Party Central Office circular, dated 17 October 1967, asks State Units to update their contact and office-bearer information so that party correspondence can be handled promptly and effectively. It requests each unit's full postal, telephone, and telegraphic details, followed by the names and addresses of its president, vice-president or vice-presidents, general secretary, joint secretary, treasurer or treasurers, and members.
+
+The circular also asks State Units to provide the names, full addresses, and telephone numbers of State Council members and General Council members from their state. It is signed by V. P. Bhatia on behalf of the Swatantra Party Central Office.
+
 ## Key points
 
 - The circular is issued by the Swatantra Party Central Office and dated 17 October 1967.

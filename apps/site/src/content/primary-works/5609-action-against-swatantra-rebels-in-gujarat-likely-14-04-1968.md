@@ -53,6 +53,12 @@ summary: |-
   The report says a committee may be appointed to examine the matter before the party executive’s next meeting at Bhubaneswar. It also records dissatisfaction among Gujarat members about the defeat of a party candidate, the resignation of Minoo Masani from the party’s Board and national executive, and related discussions about party membership and election results in Gujarat and Rajasthan. The article further notes preparations for the party’s campaign in Haryana and the expected return of Maharajkumar Gayatri Devi to contest the forthcoming Lok Sabha election.
 ---
 
+## Summary
+
+This one-page Hindustan Times report, datelined New Delhi, April 13, describes likely disciplinary action against Swatantra Party legislators in Gujarat who allegedly defied the party directive during a recent election. The party’s Central Parliamentary Board considered action against three Gujarat Assembly members, while also discussing whether the issue required a broader inquiry and how the party should respond to disagreements over the appropriate penalty.
+
+The report says a committee may be appointed to examine the matter before the party executive’s next meeting at Bhubaneswar. It also records dissatisfaction among Gujarat members about the defeat of a party candidate, the resignation of Minoo Masani from the party’s Board and national executive, and related discussions about party membership and election results in Gujarat and Rajasthan. The article further notes preparations for the party’s campaign in Haryana and the expected return of Maharajkumar Gayatri Devi to contest the forthcoming Lok Sabha election.
+
 ## Key points
 
 - The Swatantra Party’s Central Parliamentary Board considered disciplinary action against three Gujarat legislators.

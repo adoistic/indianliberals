@@ -49,6 +49,12 @@ summary: |-
   Raju says that the Swatantra Party’s offices remain active despite what he calls a “disaster” and describes as a setback. He acknowledges differing views about whether the democratic opposition’s defeat in India was genuine or contrived, while placing the event in a longer historical perspective. He closes by affirming that the Swatantra Party will continue to fight.
 ---
 
+## Summary
+
+In this one-page letter dated June 29, 1971, S. V. Raju thanks Howard Erdman for his letter and confirms that he expects to be in Bombay on September 24, when he will contact Erdman at his hotel. The letter combines this personal arrangement with a brief political assessment of conditions in India.
+
+Raju says that the Swatantra Party’s offices remain active despite what he calls a “disaster” and describes as a setback. He acknowledges differing views about whether the democratic opposition’s defeat in India was genuine or contrived, while placing the event in a longer historical perspective. He closes by affirming that the Swatantra Party will continue to fight.
+
 ## Key points
 
 - The letter is dated June 29, 1971, and is addressed to Howard Erdman.

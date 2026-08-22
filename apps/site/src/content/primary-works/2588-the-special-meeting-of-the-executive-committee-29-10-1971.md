@@ -51,6 +51,12 @@ summary: |-
   The record lists three members as present: R. V. Murthy, F. C. Cama, and J. Venkiteswaran. It was signed by F. C. Cama in his capacity as General Secretary and dated 30 October 1971. No substantive discussion of the manifesto or electoral policy is included.
 ---
 
+## Summary
+
+This one-page office record documents a special meeting of the Executive Committee of the Swatantra Party, Bombay Region, held on 29 October 1971 at the party office. The meeting was convened at 6:15 p.m. to consider the draft of the Election Manifesto, but it was postponed because the required quorum was not present.
+
+The record lists three members as present: R. V. Murthy, F. C. Cama, and J. Venkiteswaran. It was signed by F. C. Cama in his capacity as General Secretary and dated 30 October 1971. No substantive discussion of the manifesto or electoral policy is included.
+
 ## Key points
 
 - The document records a special meeting of the Swatantra Party's Bombay Region Executive Committee.

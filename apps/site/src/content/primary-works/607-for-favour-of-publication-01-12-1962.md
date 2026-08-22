@@ -51,6 +51,10 @@ summary: |-
   This press statement, issued from Bombay on December 1 and signed by M. R. Masani as General Secretary of the Swatantra Party, criticizes the Prime Minister's stated basis for negotiations with Pakistan over Kashmir. Masani argues that negotiations should not be subject to preconditions that preserve the status quo, warning that the government's position could dash hopes of Indo-Pakistani friendship. The statement also records his criticism of the cease-fire following the Chinese invasion, which he says has weakened India's will to continue resisting rather than securing the national objective.
 ---
 
+## Summary
+
+This press statement, issued from Bombay on December 1 and signed by M. R. Masani as General Secretary of the Swatantra Party, criticizes the Prime Minister's stated basis for negotiations with Pakistan over Kashmir. Masani argues that negotiations should not be subject to preconditions that preserve the status quo, warning that the government's position could dash hopes of Indo-Pakistani friendship. The statement also records his criticism of the cease-fire following the Chinese invasion, which he says has weakened India's will to continue resisting rather than securing the national objective.
+
 ## Key points
 
 - Masani describes the Prime Minister's position on negotiations with Pakistan over Kashmir as “most unfortunate.”

@@ -50,6 +50,12 @@ summary: |-
   The remaining pages provide state-level breakdowns, including seats contested, won, lost, and the final result, alongside votes polled, party positions, and votes held by other parties and Independents. The state tables cover Andhra, Assam, Bihar, Delhi, Gujarat, Kashmir, Madhya Pradesh, Maharashtra, Mysore, Punjab, Rajasthan, and additional states or regions. A final note identifies certain unusual or individually sponsored results, including an Independent candidate sponsored by the Swatantra Party in Madhya Pradesh. The pages are statistical and contain no author, publisher, issuing body, or date.
 ---
 
+## Summary
+
+The three-page report presents tabulated results for an all-India election with 2,722 seats. Its opening table compares seats contested, seats won, and seats held in the previous House for Congress, Jana Sangh, Congress (O), CPI, CPM, SP, Swatantra, other parties, and Independents. Congress contested 2,524 seats and won 1,926, while Independents contested the most seats overall, 4,955, and won 249. The table records 11,998 contests and a total of 2,722 seats won.
+
+The remaining pages provide state-level breakdowns, including seats contested, won, lost, and the final result, alongside votes polled, party positions, and votes held by other parties and Independents. The state tables cover Andhra, Assam, Bihar, Delhi, Gujarat, Kashmir, Madhya Pradesh, Maharashtra, Mysore, Punjab, Rajasthan, and additional states or regions. A final note identifies certain unusual or individually sponsored results, including an Independent candidate sponsored by the Swatantra Party in Madhya Pradesh. The pages are statistical and contain no author, publisher, issuing body, or date.
+
 ## Key points
 
 - The report lists an all-India total of 2,722 seats.

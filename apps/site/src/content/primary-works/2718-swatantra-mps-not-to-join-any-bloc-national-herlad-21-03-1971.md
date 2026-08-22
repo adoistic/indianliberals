@@ -52,6 +52,12 @@ summary: |-
   The continuation records the party’s dissatisfaction with the election results, especially what it described as the Congress’s “incredibly huge majority” and the distorted representation of opposition parties. Masani attributed this to a “faulty and archaic” electoral system and advocated proportional representation. He also cited the absence of a “common programme” among alliance candidates as a reason for their poor performance. The third rendered page contains unrelated material, including a music review and a report on food imports, rather than a continuation of this article.
 ---
 
+## Summary
+
+This National Herald clipping, dated 21 March 1971 and datelined New Delhi, reports that the Swatantra Party’s eight Lok Sabha members would not join any bloc. Party president M. R. Masani said the idea of a bloc was “no longer worth pursuing”; M. R. Pai was named leader of the parliamentary group, with H. M. Patel as deputy leader and Piloo Mody as secretary. Masani explained that the parliamentary board had directed party members to function independently and advance the party’s distinctive policies, while leaving state units free to make local adjustments or alignments.
+
+The continuation records the party’s dissatisfaction with the election results, especially what it described as the Congress’s “incredibly huge majority” and the distorted representation of opposition parties. Masani attributed this to a “faulty and archaic” electoral system and advocated proportional representation. He also cited the absence of a “common programme” among alliance candidates as a reason for their poor performance. The third rendered page contains unrelated material, including a music review and a report on food imports, rather than a continuation of this article.
+
 ## Key points
 
 - The Swatantra Party’s eight Lok Sabha MPs decided not to join any political bloc.

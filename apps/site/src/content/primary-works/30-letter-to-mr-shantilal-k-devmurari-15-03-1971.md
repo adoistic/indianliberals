@@ -52,6 +52,12 @@ summary: |-
   The Gujarati pages continue as political correspondence addressed to the Swatantra Party's prominent leadership. They discuss party work, the need for energetic organisation, electoral activity, and the importance of developing support among Gujarat's workers and voters. Because the handwriting is difficult to read in places and no metadata or table of contents was supplied, this summary is limited to the visible contents of the three rendered pages.
 ---
 
+## Summary
+
+This three-page correspondence, dated 15 March 1971, concerns the Swatantra Party's electoral prospects in Orissa and Gujarat. The English page reports that Shantilal K. Devmurari, a native of Rajkot District, had been asked to contest an election in Orissa after Maharajji of Bolangir requested that he remain there for the campaign. It also records a diagnosis of the Swatantra Party's weakness: its leaders had failed to connect with local workers and had instead pursued personal opportunities.
+
+The Gujarati pages continue as political correspondence addressed to the Swatantra Party's prominent leadership. They discuss party work, the need for energetic organisation, electoral activity, and the importance of developing support among Gujarat's workers and voters. Because the handwriting is difficult to read in places and no metadata or table of contents was supplied, this summary is limited to the visible contents of the three rendered pages.
+
 ## Key points
 
 - The document is dated 15 March 1971 and is addressed from or associated with Shantilal K. Devmurari.

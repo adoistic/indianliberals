@@ -47,6 +47,12 @@ summary: |-
   The memo further recommends making each payment before the 15th of the month and obtaining a receipt in the Raja’s name. No broader political or policy argument appears on the rendered page.
 ---
 
+## Summary
+
+This one-page Swatantra Party inter-office memo, dated 8 August 1962, is addressed to Mr. Raju and signed by M. R. Masani. It instructs that monthly payments of Rs. 20,000 on behalf of the Raja of Ramgarh to the Central Bank of India should continue during August, September, and October.
+
+The memo further recommends making each payment before the 15th of the month and obtaining a receipt in the Raja’s name. No broader political or policy argument appears on the rendered page.
+
 ## Key points
 
 - The document is an inter-office memo on Swatantra Party letterhead.

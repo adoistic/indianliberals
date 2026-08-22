@@ -53,6 +53,12 @@ summary: |-
   The Congo report describes continuing tension after Patrice Lumumba’s death. It reports attacks by armed youths on Roman Catholic missions in Bukavu, the killing of a Belgian priest, the burning and looting of a mission, and further attacks on priests. It also reports joint patrols by the Congolese Army and United Nations troops, renewed tribal and political antagonisms in Leopoldville, casualties among supporters and opponents of Lumumba, and demonstrations seeking protection for three men held by United Nations authorities. No author, newspaper title, publisher, publication year, or full clipping context is visible.
 ---
 
+## Summary
+
+This two-page English newspaper clipping contains a lead report from Hong Kong headed “PURGE OF PARTY INCOMPETENTS IN CHINA” and a separate report from Leopoldville, “BELGIAN PRIEST MURDERED IN CONGO.” The China report attributes famine-related suffering to administrative incompetence, weak management, shortages, malnutrition, and harsh local enforcement. It describes Chinese students returning from Lunar New Year holidays who reported inadequate managerial experience among party secretaries, commune managers, and bureaucrats, as well as executions and imprisonment following alleged brutality and mismanagement. The article says the Chinese Communist Party’s central committee was expected to remove inefficient commune officials and provide management training, while also noting official celebration of Soviet scientific and cultural achievements in Peking.
+
+The Congo report describes continuing tension after Patrice Lumumba’s death. It reports attacks by armed youths on Roman Catholic missions in Bukavu, the killing of a Belgian priest, the burning and looting of a mission, and further attacks on priests. It also reports joint patrols by the Congolese Army and United Nations troops, renewed tribal and political antagonisms in Leopoldville, casualties among supporters and opponents of Lumumba, and demonstrations seeking protection for three men held by United Nations authorities. No author, newspaper title, publisher, publication year, or full clipping context is visible.
+
 ## Key points
 
 - The China report links famine and malnutrition to administrative incompetence, poor management, and shortages.

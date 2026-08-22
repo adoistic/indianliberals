@@ -50,6 +50,12 @@ summary: |-
   The letter also reports local political activity: Meerut's Swatantra Party and another unspecified party have formed a joint front against an upcoming communist convention. Tirkha further asks Masani to write about the development and formation of the Swatantra Party for the country's youth, and closes by saying that Meerut is active in this effort. The page is an organisational communication concerned with party-building, public outreach, and opposition to communism.
 ---
 
+## Summary
+
+This one-page English office letter, dated 14 October 1959, was sent from the Swatantra Party's Meerut office by its president and advocate, Bal Raj Tirkha, to Minoo Masani. Tirkha thanks Masani for his earlier letter and asks him to provide a convenient date for a visit to Meerut during his October attendance at Parliament, so that the local party can arrange a function in his honour.
+
+The letter also reports local political activity: Meerut's Swatantra Party and another unspecified party have formed a joint front against an upcoming communist convention. Tirkha further asks Masani to write about the development and formation of the Swatantra Party for the country's youth, and closes by saying that Meerut is active in this effort. The page is an organisational communication concerned with party-building, public outreach, and opposition to communism.
+
 ## Key points
 
 - Bal Raj Tirkha writes from the Swatantra Party's Meerut Office to Minoo Masani.

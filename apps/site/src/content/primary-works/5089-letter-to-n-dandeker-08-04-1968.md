@@ -49,6 +49,12 @@ summary: |-
   The writer presents the meeting as necessary to restore unity within the party. The letter closes with an appeal for the party to work together again under the leadership of its respected leaders. The document is signed by R. K. Amin.
 ---
 
+## Summary
+
+This one-page letter asks N. Dandekar, the Swatantra Party's general secretary, to convene an emergency meeting of the party's General Council. The stated purpose is to discuss Minoo Masani's resignation from both the National Executive and the Central Parliamentary Board.
+
+The writer presents the meeting as necessary to restore unity within the party. The letter closes with an appeal for the party to work together again under the leadership of its respected leaders. The document is signed by R. K. Amin.
+
 ## Key points
 
 - The letter is addressed to N. Dandekar, General Secretary of the Swatantra Party.

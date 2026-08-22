@@ -50,6 +50,10 @@ summary: |-
   This one-page Swatantra Party National Headquarters circular, dated 29 August 1974, records two resolutions adopted by the party’s National Executive in New Delhi on 28 August 1974. The first authorizes party president Piloo Mody to declare the merger of the Swatantra Party with the Bharatiya Lok Dal (People’s Party of India) at the latter’s inaugural function on 29 August 1974, and transfers the Swatantra Party’s rights, assets, and liabilities to the Bharatiya Lok Dal.
 ---
 
+## Summary
+
+This one-page Swatantra Party National Headquarters circular, dated 29 August 1974, records two resolutions adopted by the party’s National Executive in New Delhi on 28 August 1974. The first authorizes party president Piloo Mody to declare the merger of the Swatantra Party with the Bharatiya Lok Dal (People’s Party of India) at the latter’s inaugural function on 29 August 1974, and transfers the Swatantra Party’s rights, assets, and liabilities to the Bharatiya Lok Dal.
+
 ## Key points
 
 - The circular communicates resolutions adopted at a Swatantra Party National Executive meeting held in New Delhi on 28 August 1974.

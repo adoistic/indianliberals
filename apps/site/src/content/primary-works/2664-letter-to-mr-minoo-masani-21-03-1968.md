@@ -47,6 +47,10 @@ summary: |-
   This one-page personal and confidential letter, dated 21 March 1968, is addressed to M. R. Masani. The unidentified sender apologises for not responding sooner to Masani's letter of 11 March concerning the Orissa Mining Corporation's failure to meet bills owed to Voltas Ltd. The sender says the matter had only just come to their attention because of legislative duties.
 ---
 
+## Summary
+
+This one-page personal and confidential letter, dated 21 March 1968, is addressed to M. R. Masani. The unidentified sender apologises for not responding sooner to Masani's letter of 11 March concerning the Orissa Mining Corporation's failure to meet bills owed to Voltas Ltd. The sender says the matter had only just come to their attention because of legislative duties.
+
 ## Key points
 
 - The letter is dated 21 March 1968 and addressed to M. R. Masani.

@@ -52,6 +52,12 @@ summary: |-
   The report also presents Masani’s defence of property rights against the demand for their removal as a fundamental right. He maintained that existing constitutional restrictions were already adequate, opposed compensation being subject to the whims of ruling parties, and rejected the claim that the Swatantra Party’s politics were merely middle-of-the-road. A second section reports his opposition to the nationalisation of foreign banks and his decision to contest the Ranchi election, where he expected a direct contest with Congress (O).
 ---
 
+## Summary
+
+This Times of India news report, dated 29 January 1971, records Swatantra Party president M. R. Masani’s view that the four-party alliance could merge if its constituents accepted the Lucknow resolution of Congress (O) as the basis for a common programme. Masani argued that the alliance’s differences were not fundamental and favoured a bloc or front before the elections, citing West Germany’s coalition experience as an example of parties governing together despite differing colourations.
+
+The report also presents Masani’s defence of property rights against the demand for their removal as a fundamental right. He maintained that existing constitutional restrictions were already adequate, opposed compensation being subject to the whims of ruling parties, and rejected the claim that the Swatantra Party’s politics were merely middle-of-the-road. A second section reports his opposition to the nationalisation of foreign banks and his decision to contest the Ranchi election, where he expected a direct contest with Congress (O).
+
 ## Key points
 
 - M. R. Masani foresaw a merger of the four alliance parties if they accepted the Lucknow resolution of Congress (O).

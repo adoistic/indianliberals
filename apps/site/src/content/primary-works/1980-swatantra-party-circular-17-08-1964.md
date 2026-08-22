@@ -48,6 +48,10 @@ summary: |-
   This two-page English office circular, issued by the Swatantra Party Parliamentary Office in New Delhi on 17 August 1964, announces a meeting for the party's members in both Houses of Parliament. The meeting was scheduled for Tuesday, 8 September 1964, at 6 p.m. at the party's group office at 53 North Avenue.
 ---
 
+## Summary
+
+This two-page English office circular, issued by the Swatantra Party Parliamentary Office in New Delhi on 17 August 1964, announces a meeting for the party's members in both Houses of Parliament. The meeting was scheduled for Tuesday, 8 September 1964, at 6 p.m. at the party's group office at 53 North Avenue.
+
 ## Key points
 
 - The document is an internal Swatantra Party parliamentary circular dated 17 August 1964.

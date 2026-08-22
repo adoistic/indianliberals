@@ -48,6 +48,12 @@ summary: |-
   The letter asks Masani to keep 26, 27, and 28 December free for the Calcutta engagements. It proposes that Masani meet the Executive Committee on 26 December to settle resolutions for consideration on 27 December, and requests confirmation of the arrangements. A handwritten annotation on the second scan reads “Replied 19/11”; the letter itself does not record Masani’s response.
 ---
 
+## Summary
+
+This two-page English letter, dated 13 November 1959, is written by A.C. Sampath Iyengar from the Swatantra Party’s West Bengal Branch in Calcutta to M.R. Masani. Iyengar reports that, following a suggestion from Rajaji and with Professor N.G. Ranga’s agreement, he is arranging a preparatory conference of the Swatantra Party for Calcutta on 27 December 1959.
+
+The letter asks Masani to keep 26, 27, and 28 December free for the Calcutta engagements. It proposes that Masani meet the Executive Committee on 26 December to settle resolutions for consideration on 27 December, and requests confirmation of the arrangements. A handwritten annotation on the second scan reads “Replied 19/11”; the letter itself does not record Masani’s response.
+
 ## Key points
 
 - The letter is dated 13 November 1959 and was sent from the Swatantra Party’s West Bengal Branch in Calcutta.

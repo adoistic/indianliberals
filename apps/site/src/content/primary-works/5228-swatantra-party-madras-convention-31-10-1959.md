@@ -69,6 +69,12 @@ summary: |-
   The resolutions extend this position to economic and public policy. They defend self-employed peasants and artisans, an independent peasantry, and a productive role for small enterprise; criticise excessive taxation, deficit financing, foreign borrowing, state trading, nationalisation, and restrictions on private initiative; and call for competitive industry with safeguards for labour. They also address foreign policy and border security, workers’ collective bargaining, surveillance of political opponents, handloom weavers, the rights of people of Indian origin in Ceylon, minority citizenship, Madras’s water supply, and housing for the city’s slum dwellers. Handwritten approval and office-holder annotations appear on several pages.
 ---
 
+## Summary
+
+This four-page English resolution booklet records fifteen resolutions adopted at the Swatantra Party’s Madras Convention on 31 October 1959. The resolutions endorse individual initiative, private enterprise, faith in the people rather than legislative compulsion, and the spiritual and cultural values associated with Gandhian democracy. They oppose the expanding role of the state under socialism, the centralisation of authority, and the prospect of a one-party state using government power for partisan purposes.
+
+The resolutions extend this position to economic and public policy. They defend self-employed peasants and artisans, an independent peasantry, and a productive role for small enterprise; criticise excessive taxation, deficit financing, foreign borrowing, state trading, nationalisation, and restrictions on private initiative; and call for competitive industry with safeguards for labour. They also address foreign policy and border security, workers’ collective bargaining, surveillance of political opponents, handloom weavers, the rights of people of Indian origin in Ceylon, minority citizenship, Madras’s water supply, and housing for the city’s slum dwellers. Handwritten approval and office-holder annotations appear on several pages.
+
 ## Key points
 
 - The convention reaffirms individual initiative, private enterprise, and governance based on public trust rather than compulsion.

@@ -50,6 +50,12 @@ summary: |-
   The circular is an administrative communication rather than a political argument. It is addressed to party members or associates for their information and is signed by S. V. Raju as Executive Secretary. The itinerary indicates that Masani was scheduled to attend or conduct party-related engagements in several Indian cities, but the document does not specify the purposes of the individual visits.
 ---
 
+## Summary
+
+This one-page Swatantra Party Central Office circular, dated June 16, 1966, provides the itinerary of General Secretary M. R. Masani for June 19 through July 3. It lists his flights between Bombay, Rajkot, Delhi, Bangalore, Madras, and Calcutta, along with stopovers, hotels, local contact details, and onward travel arrangements.
+
+The circular is an administrative communication rather than a political argument. It is addressed to party members or associates for their information and is signed by S. V. Raju as Executive Secretary. The itinerary indicates that Masani was scheduled to attend or conduct party-related engagements in several Indian cities, but the document does not specify the purposes of the individual visits.
+
 ## Key points
 
 - The document is Central Office Circular No. 46, issued by the Swatantra Party on June 16, 1966.

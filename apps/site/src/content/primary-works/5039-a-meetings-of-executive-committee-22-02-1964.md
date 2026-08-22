@@ -55,6 +55,12 @@ summary: |-
   The attached agenda assigns Party speakers to debates on the General Budget, the Gold Control Bill, Pakistan incursions, several private members’ bills, and demands for grants across a wide range of ministries. It also records estimated expenditure of Rs. 310 for producing 100 stencils, approximately 40 reams of paper, and a printed cover page. A separate statement lists arrears of Party contributions from members of both the Lok Sabha and Rajya Sabha, while the final page allocates speakers to ministerial demands including community development, defence, education, external affairs, food and agriculture, health, home affairs, industry, irrigation and power, labour, mines and fuel, transport, and works, housing and supply.
 ---
 
+## Summary
+
+This four-page Swatantra Party circular, dated February 22, 1964, announces an Executive Committee meeting of the Party in Parliament scheduled for February 26 at Parliament House, New Delhi. The meeting agenda covers publication of a report on the Party’s work during the previous two parliamentary sessions, members’ responses to invitations to visit foreign countries on behalf of other organisations, representation on parliamentary committees, speakers for debates, unpaid member subscriptions, and scrutiny of Party accounts.
+
+The attached agenda assigns Party speakers to debates on the General Budget, the Gold Control Bill, Pakistan incursions, several private members’ bills, and demands for grants across a wide range of ministries. It also records estimated expenditure of Rs. 310 for producing 100 stencils, approximately 40 reams of paper, and a printed cover page. A separate statement lists arrears of Party contributions from members of both the Lok Sabha and Rajya Sabha, while the final page allocates speakers to ministerial demands including community development, defence, education, external affairs, food and agriculture, health, home affairs, industry, irrigation and power, labour, mines and fuel, transport, and works, housing and supply.
+
 ## Key points
 
 - The circular convenes the Swatantra Party’s Executive Committee in Parliament for February 26, 1964.

@@ -54,6 +54,12 @@ summary: |-
   Cooper proposes organisational decentralisation, greater autonomy for state, district, and unit bodies, and financially self-sufficient party structures staffed by dedicated people from diverse social and professional backgrounds. The suggested public programme emphasises mass employment through increased production and public works, protection of small farmers and small property owners, stable agricultural prices, controlling the prices of essential commodities, national integration, restoration of law and order, protection of Muslims and other minorities as well as Scheduled Castes and Scheduled Tribes, and recognition of labour’s rights to collective bargaining and to strike. He concludes by urging the creation of a Youth Wing to reconnect the party leadership with the masses.
 ---
 
+## Summary
+
+In this two-page letter dated March 22, 1971, R. C. Cooper reflects on the Swatantra Party’s extremely poor performance in the Lok Sabha and Legislative Assembly elections. Although he initially considered winding up the party, he argues that it must continue and be revitalised to meet future responsibilities. He rejects the view that the defeat resulted from the party’s principles or programme, attributing it instead to the distorted public image of the party. He therefore opposes alliances or mergers with the Organisation Congress, the Jan Sangh, or other opposition parties, and calls for rebuilding the Swatantra Party through a strong grassroots organisation.
+
+Cooper proposes organisational decentralisation, greater autonomy for state, district, and unit bodies, and financially self-sufficient party structures staffed by dedicated people from diverse social and professional backgrounds. The suggested public programme emphasises mass employment through increased production and public works, protection of small farmers and small property owners, stable agricultural prices, controlling the prices of essential commodities, national integration, restoration of law and order, protection of Muslims and other minorities as well as Scheduled Castes and Scheduled Tribes, and recognition of labour’s rights to collective bargaining and to strike. He concludes by urging the creation of a Youth Wing to reconnect the party leadership with the masses.
+
 ## Key points
 
 - Cooper describes the Swatantra Party’s electoral defeat as a failure of public image rather than of its principles or programme.

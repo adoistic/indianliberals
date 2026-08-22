@@ -53,6 +53,12 @@ summary: |-
   The second resolution approves the immediate merger of the Swatantra Party with the Janata Party and its constituent parties. The sheet therefore documents both an institutional effort to preserve Rajaji’s ideological legacy and the party’s decision to enter the newly consolidated Janata political formation.
 ---
 
+## Summary
+
+This one-page English office paper records resolutions adopted by the Swatantra Party’s National Executive at its meeting on April 17, 1977. The first resolution establishes the Rajaji Trust, using Swatantra Party assets to propagate C. Rajagopalachari’s ideology, and appoints a committee empowered to co-opt members and prepare the trust deed and rules.
+
+The second resolution approves the immediate merger of the Swatantra Party with the Janata Party and its constituent parties. The sheet therefore documents both an institutional effort to preserve Rajaji’s ideological legacy and the party’s decision to enter the newly consolidated Janata political formation.
+
 ## Key points
 
 - The document contains resolutions adopted by the Swatantra Party National Executive on April 17, 1977.

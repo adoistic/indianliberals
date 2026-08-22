@@ -52,6 +52,10 @@ summary: |-
   In this one-page letter dated February 6, 1970, S. V. Raju writes to Minoo Masani about a proposed Lok Sabha resolution calling for an autonomous board to administer permits and licences in India's mixed economy. The proposed board would consist of non-party economists and experienced statesmen, operate independently of government as a quasi-judicial body, and have its advice considered by the government and placed before Parliament and the public.
 ---
 
+## Summary
+
+In this one-page letter dated February 6, 1970, S. V. Raju writes to Minoo Masani about a proposed Lok Sabha resolution calling for an autonomous board to administer permits and licences in India's mixed economy. The proposed board would consist of non-party economists and experienced statesmen, operate independently of government as a quasi-judicial body, and have its advice considered by the government and placed before Parliament and the public.
+
 ## Key points
 
 - The letter concerns a proposed resolution for the coming Lok Sabha session.

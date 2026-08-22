@@ -48,6 +48,12 @@ summary: |-
   The page provides no printed title, date, or signatory. It includes a copy-to block for Sir H. P. Mody at Bombay House, while the message itself is signed or identified only by the typed name “HOMI MODY.”
 ---
 
+## Summary
+
+This one-page English office communication on Swatantra Party letterhead is marked “URGENT” and addressed to the party secretary in Bangalore. Its clipped, telegram-like message instructs the recipient to treat the sender’s letter from the previous day as cancelled.
+
+The page provides no printed title, date, or signatory. It includes a copy-to block for Sir H. P. Mody at Bombay House, while the message itself is signed or identified only by the typed name “HOMI MODY.”
+
 ## Key points
 
 - The document is a single-page English communication issued on Swatantra Party letterhead.

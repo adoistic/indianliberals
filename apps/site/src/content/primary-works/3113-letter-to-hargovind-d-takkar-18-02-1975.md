@@ -49,6 +49,12 @@ summary: |-
   Raju asks Thakkar to take an interest in, and advise on, reviving Swatantra Party activities in Gujarat. He says that, after hearing from Thakkar, he will write to him in further detail. Copies are marked to Mr. Sundaram, identified as president, and Mr. Srikumar, identified as general secretary.
 ---
 
+## Summary
+
+In this typed letter dated February 18, 1975, S. V. Raju writes from Bombay to Hargovind D. Thakkar, an advocate in Mehsana district, Gujarat. Raju refers to Thakkar's receipt of the minutes of the Swatantra Party's National Executive meeting held in Madras on December 8, 1974, and infers that Thakkar opposed the decision to dissolve the party and had not joined the BLD.
+
+Raju asks Thakkar to take an interest in, and advise on, reviving Swatantra Party activities in Gujarat. He says that, after hearing from Thakkar, he will write to him in further detail. Copies are marked to Mr. Sundaram, identified as president, and Mr. Srikumar, identified as general secretary.
+
 ## Key points
 
 - The letter is dated February 18, 1975, and was sent by S. V. Raju from Chembur, Bombay.

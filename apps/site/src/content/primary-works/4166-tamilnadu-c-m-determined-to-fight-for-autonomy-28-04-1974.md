@@ -51,6 +51,10 @@ summary: |-
   This one-page The Hindu report describes Tamil Nadu Chief Minister M. Karunanidhi’s declared intention to continue pressing for greater State autonomy. Speaking in the Madras Legislative Council after the House adopted a resolution on State autonomy, Karunanidhi argued that the Centre’s powers over the States had expanded despite the federal framework of the Constitution. He cited the constitutional history of provincial autonomy, including the 1935 Government of India Act, and said the demand was not merely a Dravida Munnetra Kazhagam position but one supported by Congress leaders and others.
 ---
 
+## Summary
+
+This one-page The Hindu report describes Tamil Nadu Chief Minister M. Karunanidhi’s declared intention to continue pressing for greater State autonomy. Speaking in the Madras Legislative Council after the House adopted a resolution on State autonomy, Karunanidhi argued that the Centre’s powers over the States had expanded despite the federal framework of the Constitution. He cited the constitutional history of provincial autonomy, including the 1935 Government of India Act, and said the demand was not merely a Dravida Munnetra Kazhagam position but one supported by Congress leaders and others.
+
 ## Key points
 
 - M. Karunanidhi said he was prepared to step down from office to pursue the cause of State autonomy.

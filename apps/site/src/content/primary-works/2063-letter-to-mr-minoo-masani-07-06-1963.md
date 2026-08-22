@@ -53,6 +53,12 @@ summary: |-
   The letter also seeks advice on when to convene the Swatantra parliamentary group to elect office-bearers. Jain lists briefing subjects for the session—shortfalls in the Third Plan, opposition to bank nationalisation, and the Constitution (17th Amendment) Bill—and notes that approximately 150 questions have already been submitted in the names of party members. It further mentions the preparation and circulation of a synopsis of members’ speeches from the previous session.
 ---
 
+## Summary
+
+This single-page letter from the Swatantra Party Parliamentary Office, dated June 7, 1963, addresses Mr. M. R. Masani about preparations for the forthcoming parliamentary session. A. P. Jain reports a proposal from “Prof Ranga” to seek a no-confidence motion against the Union Government if sufficient support can be assembled, and asks Masani to help arrange a meeting of democratic opposition groups before the August session. The proposed consultations are intended to include opposition leaders beyond the Communists, including Karni Singh, Frank Anthony, and Prakashvir Shastry.
+
+The letter also seeks advice on when to convene the Swatantra parliamentary group to elect office-bearers. Jain lists briefing subjects for the session—shortfalls in the Third Plan, opposition to bank nationalisation, and the Constitution (17th Amendment) Bill—and notes that approximately 150 questions have already been submitted in the names of party members. It further mentions the preparation and circulation of a synopsis of members’ speeches from the previous session.
+
 ## Key points
 
 - The letter conveys a proposal to pursue a no-confidence motion against the government during the coming parliamentary session.

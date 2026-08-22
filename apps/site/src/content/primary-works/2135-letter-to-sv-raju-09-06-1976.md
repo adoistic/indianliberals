@@ -50,6 +50,12 @@ summary: |-
   Srikumar proposes the first fortnight of July, with 11 July identified as convenient by G. K. Sundaram, and asks Raju to help provide sufficient notice to colleagues. He also asks whether Minoo Masani will be available for consultation in connection with a meeting planned for 10 or 11 June 1976. The second rendered page is the registered inland-letter envelope; it contains no additional substantive correspondence.
 ---
 
+## Summary
+
+This English-language letter, dated 9 June 1976 and issued from the Swatantra Party's National Headquarters in Madras, is addressed to S. V. Raju. V. S. Srikumar acknowledges Raju's two letters and an enclosed draft, explains that K. M. Munshi's letter did not reach him, and reports efforts to arrange a meeting in Bombay. Scheduling is complicated by existing engagements in Coimbatore and a Tamilnad workers' and party-organisational meeting in Sirkali, Tanjore district.
+
+Srikumar proposes the first fortnight of July, with 11 July identified as convenient by G. K. Sundaram, and asks Raju to help provide sufficient notice to colleagues. He also asks whether Minoo Masani will be available for consultation in connection with a meeting planned for 10 or 11 June 1976. The second rendered page is the registered inland-letter envelope; it contains no additional substantive correspondence.
+
 ## Key points
 
 - The letter is dated 9 June 1976 and is written on Swatantra Party National Headquarters letterhead.

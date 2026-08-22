@@ -53,6 +53,12 @@ summary: |-
   Masani rejects the claim that plurality elections would produce a stable two-party system, noting that India's experience has instead preserved a large number of parties while wasting millions of votes. He advocates a mixed electoral system combining single-member constituencies with proportional representation through party lists, drawing on the Federal Republic of Germany as an example. He presents this arrangement as a way to correct distortions in the popular vote while retaining links between legislators and constituencies, and calls for a public campaign to educate citizens and legislators about electoral reform.
 ---
 
+## Summary
+
+In this five-page essay, M. R. Masani identifies India's adoption of the British single-member, first-past-the-post electoral system as the chief defect in the country's constitutional arrangements. He argues that administrative failures, excessive expenditure, misuse of power, and flaws in polling and vote-counting are secondary so long as the basic electoral system remains unchanged. In his view, the system has allowed the Congress Party to exercise prolonged political dominance despite securing only a minority of the votes, thereby distorting popular representation and facilitating constitutional changes that weakened fundamental rights, the President's veto power, and judicial independence.
+
+Masani rejects the claim that plurality elections would produce a stable two-party system, noting that India's experience has instead preserved a large number of parties while wasting millions of votes. He advocates a mixed electoral system combining single-member constituencies with proportional representation through party lists, drawing on the Federal Republic of Germany as an example. He presents this arrangement as a way to correct distortions in the popular vote while retaining links between legislators and constituencies, and calls for a public campaign to educate citizens and legislators about electoral reform.
+
 ## Key points
 
 - Masani treats the inherited British electoral system, rather than ancillary election procedures, as the central institutional defect.

@@ -50,6 +50,10 @@ summary: |-
   This single-page letter from S. V. Raju to V. P. Bhatia, dated December 19, 1974, responds to Bhatia's earlier correspondence concerning an enquiry by the R.T.O. into jeeps formerly registered in the name of the Swatantra Party. Raju dismisses most of Bhatia's December 17 letter as irrelevant to the matter raised in his own December 13 letter and declines to debate the issue further.
 ---
 
+## Summary
+
+This single-page letter from S. V. Raju to V. P. Bhatia, dated December 19, 1974, responds to Bhatia's earlier correspondence concerning an enquiry by the R.T.O. into jeeps formerly registered in the name of the Swatantra Party. Raju dismisses most of Bhatia's December 17 letter as irrelevant to the matter raised in his own December 13 letter and declines to debate the issue further.
+
 ## Key points
 
 - Raju acknowledges receipt of Bhatia's letter of December 17, 1974.

@@ -45,6 +45,10 @@ summary: |-
   This one-page handwritten letter from Dr. Rustom C. Cooper to Minoo Masani is dated 27 October 1974 and written on Cooper's Bombay chartered-accountant letterhead. Cooper refers to an earlier conversation and encloses a sum of Rs. 1,000 for forwarding to Jayaprakash Narayan.
 ---
 
+## Summary
+
+This one-page handwritten letter from Dr. Rustom C. Cooper to Minoo Masani is dated 27 October 1974 and written on Cooper's Bombay chartered-accountant letterhead. Cooper refers to an earlier conversation and encloses a sum of Rs. 1,000 for forwarding to Jayaprakash Narayan.
+
 ## Key points
 
 - The letter is dated 27 October 1974.

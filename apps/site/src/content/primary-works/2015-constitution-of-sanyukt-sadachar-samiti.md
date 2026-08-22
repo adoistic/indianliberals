@@ -51,6 +51,12 @@ summary: |-
   The constitution provides a central organisational structure consisting of a General Council and Working Committee, supported by departmental committees for research, information and social enlightenment, grievance redress, field organisation and training, and related activities. It defines the appointment and tenure of the President and other office-bearers, gives the Working Committee responsibility for policy execution, finances, property, rules, and State Units, and sets membership, quorum, audit, and official-year provisions. Gulzarilal Nanda is identified as the first President. The rendered pages contain the complete visible document; no printed publication year, publisher, issuer line, or author byline is shown.
 ---
 
+## Summary
+
+This three-page English constitution establishes the Sanyukt Sadachar Samiti, with its central office in Delhi, as an organisation devoted to creating a moral and social climate opposed to corruption. Its stated objects include fostering ethical conduct, building public capacity to fight corruption, mobilising social and religious organisations, and organising communities to pursue these aims. The document also assigns the Samiti functions such as public campaigning, research, publishing, training workers, developing social sanctions, and assisting with grievances relating to corruption.
+
+The constitution provides a central organisational structure consisting of a General Council and Working Committee, supported by departmental committees for research, information and social enlightenment, grievance redress, field organisation and training, and related activities. It defines the appointment and tenure of the President and other office-bearers, gives the Working Committee responsibility for policy execution, finances, property, rules, and State Units, and sets membership, quorum, audit, and official-year provisions. Gulzarilal Nanda is identified as the first President. The rendered pages contain the complete visible document; no printed publication year, publisher, issuer line, or author byline is shown.
+
 ## Key points
 
 - The organisation is named Sanyukt Sadachar Samiti and is headquartered in Delhi.

@@ -51,6 +51,12 @@ summary: |-
   Munshi presents the political disagreement as a matter of principle rather than temporary advantage. He argues that the party may be few in number but must stand by its principles, and claims that foreign writers have recognized the Swatantra Party as the only Indian party standing for definite principles regardless of temporary advantage. The pages therefore document a brief exchange within the Swatantra Party's liberal political network, but do not provide the underlying circular letter, Munshi's enclosed letter to Rajagopalachari, or the full report to which he refers.
 ---
 
+## Summary
+
+This two-page correspondence bundle contains two letters by K. M. Munshi, both dated April 4, 1968, written from Bharatiya Vidya Bhavan in Bombay. In the first, Munshi acknowledges M. R. Masani's letter of March 29 and says he is forwarding a copy of his own letter to C. Rajagopalachari. In the second, addressed to Rajagopalachari, Munshi refers to Masani's circular letter and reports on events involving Rajaji, stating that the rebels should be expelled.
+
+Munshi presents the political disagreement as a matter of principle rather than temporary advantage. He argues that the party may be few in number but must stand by its principles, and claims that foreign writers have recognized the Swatantra Party as the only Indian party standing for definite principles regardless of temporary advantage. The pages therefore document a brief exchange within the Swatantra Party's liberal political network, but do not provide the underlying circular letter, Munshi's enclosed letter to Rajagopalachari, or the full report to which he refers.
+
 ## Key points
 
 - Munshi writes two letters dated April 4, 1968, from Bharatiya Vidya Bhavan, Bombay.

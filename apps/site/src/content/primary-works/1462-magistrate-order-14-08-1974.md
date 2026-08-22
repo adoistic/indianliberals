@@ -51,6 +51,12 @@ summary: |-
   The summons requires the accused to appear personally or through an advocate before the Chief Presidency Magistrate Court, Bombay. Its printed instructions state that the accused may plead guilty in writing and pay or remit a fine, while also setting out the relevant statutory framework as sections 151 of the Bombay Police Act, 1951 and 130 of the Motor Vehicles Act, 1939. Handwritten entries include a fine amount of Rs. 20, a date of 14 August 1974, and a reference to 3 July 1974, although some annotations and signatures are difficult to read.
 ---
 
+## Summary
+
+This single-page English legal form is a summons issued in Bombay in 1974 by the Court of the Presidency Magistrate. It identifies Criminal Record No. 16664/1974 and instructs Shri S. V. Raju, whose address is recorded as 143 M. G. Road, Fort, Bombay 1, to respond to a charge arising from an alleged motor-vehicle offence. The form records vehicle and R.F. numbers, the place of offence as Tata Road, the date as 27 September 1973, and the time as 11:50 a.m.; the specific offence provision is directed to the reverse side, which is not included in the rendered page.
+
+The summons requires the accused to appear personally or through an advocate before the Chief Presidency Magistrate Court, Bombay. Its printed instructions state that the accused may plead guilty in writing and pay or remit a fine, while also setting out the relevant statutory framework as sections 151 of the Bombay Police Act, 1951 and 130 of the Motor Vehicles Act, 1939. Handwritten entries include a fine amount of Rs. 20, a date of 14 August 1974, and a reference to 3 July 1974, although some annotations and signatures are difficult to read.
+
 ## Key points
 
 - The document is a one-page Bombay Presidency Magistrate summons dated 1974.

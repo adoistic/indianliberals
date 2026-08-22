@@ -48,6 +48,12 @@ summary: |-
   The letter presents the article as a clear exposition of the party's purposes and notes that it had been well received in Europe. It therefore documents both an internal party communication and an effort to circulate the Swatantra Party's political position to a wider audience.
 ---
 
+## Summary
+
+In this letter dated October 21, 1959, M. R. Masani replies to S. S. Mariswamy, Secretary of the Swatantra Party in Tamil Nadu. Masani explains that he cannot write a new article for the recipient's souvenir because he must prepare a speech, but offers permission to reproduce an existing article on the Swatantra Party published in Life International, provided the source is acknowledged.
+
+The letter presents the article as a clear exposition of the party's purposes and notes that it had been well received in Europe. It therefore documents both an internal party communication and an effort to circulate the Swatantra Party's political position to a wider audience.
+
 ## Key points
 
 - Masani responds to a letter from S. S. Mariswamy dated October 16, 1959.

@@ -60,6 +60,12 @@ summary: |-
   The English appeal presents the party as an urgent opposition to what it describes as the Congress government's drift toward state control and “communistic” socialism. It defends individual freedom, private enterprise, agricultural and property rights, and limited government, while attacking joint/co-operative farming, low land ceilings, nationalisation, excessive taxation, centralised five-year planning, and administrative interference with the judiciary. It urges farmers, industrialists, traders, labourers, and the wider public to join and organise the Swatantra Party, invoking Mahatma Gandhi, C. Rajagopalachari, Professor Ranga, and Abraham Lincoln in support of its political and economic case.
 ---
 
+## Summary
+
+This archival packet centers on a letter dated 22 September 1959 from N. K. Ganapaiah of the Swatantra Party's Hassan District Reception Committee to Minoo Masani. Ganapaiah invites Masani to attend the district convention in Hassan on 27 September and, if he is inaugurating a South Kanara convention in Mangalore, asks him to visit Hassan on his return to Bombay to address a special meeting of local intelligentsia. The packet also preserves the convention invitation, Kannada-language convention material, and a four-page English appeal titled “Swatantra Party: Arise; Awake and Take Quick Action.”
+
+The English appeal presents the party as an urgent opposition to what it describes as the Congress government's drift toward state control and “communistic” socialism. It defends individual freedom, private enterprise, agricultural and property rights, and limited government, while attacking joint/co-operative farming, low land ceilings, nationalisation, excessive taxation, centralised five-year planning, and administrative interference with the judiciary. It urges farmers, industrialists, traders, labourers, and the wider public to join and organise the Swatantra Party, invoking Mahatma Gandhi, C. Rajagopalachari, Professor Ranga, and Abraham Lincoln in support of its political and economic case.
+
 ## Key points
 
 - Ganapaiah's 22 September 1959 letter invites Minoo Masani to the first Swatantra Party district convention in Hassan.

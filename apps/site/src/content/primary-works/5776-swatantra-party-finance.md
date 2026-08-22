@@ -49,6 +49,10 @@ summary: |-
   This one-page financial report sets out three bank accounts: General Account No. 1, Membership Funds No. 2, and Convention Account No. 3. It records balances of Rs. 400, Rs. 10,000, and Rs. 700 respectively, while stipulating that the membership and convention funds are not to be used for day-to-day expenses. Because of a funding shortfall, the document proposes transferring money to the general account; it also notes that Rs. 1,000 was drawn from Account No. 2 for current expenses and must be reimbursed.
 ---
 
+## Summary
+
+This one-page financial report sets out three bank accounts: General Account No. 1, Membership Funds No. 2, and Convention Account No. 3. It records balances of Rs. 400, Rs. 10,000, and Rs. 700 respectively, while stipulating that the membership and convention funds are not to be used for day-to-day expenses. Because of a funding shortfall, the document proposes transferring money to the general account; it also notes that Rs. 1,000 was drawn from Account No. 2 for current expenses and must be reimbursed.
+
 ## Key points
 
 - The document distinguishes between a general account, membership funds, and convention funds.

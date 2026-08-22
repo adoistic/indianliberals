@@ -45,6 +45,10 @@ summary: |-
   In this one-page letter dated March 3, 1975, M.R. Masani responds to R.S. Bharati's question about whether he was still leading the Swatantra Party. Masani clarifies that he remains a member but stopped leading the party in 1971, when he retired from its presidency. He adds that he is currently devoting his available energies to helping Jayaprakash Narayan.
 ---
 
+## Summary
+
+In this one-page letter dated March 3, 1975, M.R. Masani responds to R.S. Bharati's question about whether he was still leading the Swatantra Party. Masani clarifies that he remains a member but stopped leading the party in 1971, when he retired from its presidency. He adds that he is currently devoting his available energies to helping Jayaprakash Narayan.
+
 ## Key points
 
 - Masani confirms that he continues to be a member of the Swatantra Party.

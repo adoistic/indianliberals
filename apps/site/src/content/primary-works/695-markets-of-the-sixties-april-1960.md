@@ -51,3 +51,9 @@ summary: |-
   
   In the rendered pages, the article supports its criticism with comparisons of irrigation and power capacity, estimates of excess capacity in several industries, and figures from India’s first and second five-year plans. It concludes this visible section by challenging theories advanced by visiting experts who favor a government-directed economy, citing a December 1959 statement by the Prime Minister and Professor Max Millikan’s defense of the “big push” theory. The pages also contain advertisements for the book Markets of the Sixties and for Thompson Ramo Wooldridge Inc.; these advertisements are separate from the India article.
 ---
+
+## Summary
+
+In the rendered pages, Fortune’s continuing feature “The Right Road for India” criticizes the regulatory and planning practices of the Indian government. The article argues that detailed controls imposed under the India Companies Act of 1956 restrict business flexibility, slow decision-making, and conceal inefficiency behind inflation-generated profits. It also presents planned overcapacity, state direction of investment, and the diversion of savings from agriculture and lighter industries toward lower-return heavy industry and state enterprises as central sources of economic waste.
+
+In the rendered pages, the article supports its criticism with comparisons of irrigation and power capacity, estimates of excess capacity in several industries, and figures from India’s first and second five-year plans. It concludes this visible section by challenging theories advanced by visiting experts who favor a government-directed economy, citing a December 1959 statement by the Prime Minister and Professor Max Millikan’s defense of the “big push” theory. The pages also contain advertisements for the book Markets of the Sixties and for Thompson Ramo Wooldridge Inc.; these advertisements are separate from the India article.

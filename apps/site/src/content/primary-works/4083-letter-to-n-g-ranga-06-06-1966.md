@@ -51,6 +51,12 @@ summary: |-
   Masani also says that he has wired Rajaji to request his suggestions, while noting that Ranga's whereabouts are, as usual, unknown to him. The letter is a brief piece of political and economic correspondence, documenting liberal engagement with the policy debate surrounding devaluation.
 ---
 
+## Summary
+
+This letter from M. R. Masani to Prof. N. G. Ranga, dated 6 June 1966, concerns an invitation from the Prime Minister to discuss the implications of devaluation. Masani agrees to attend and suggests that he and Ranga might meet the Prime Minister together after their Bangalore meeting.
+
+Masani also says that he has wired Rajaji to request his suggestions, while noting that Ranga's whereabouts are, as usual, unknown to him. The letter is a brief piece of political and economic correspondence, documenting liberal engagement with the policy debate surrounding devaluation.
+
 ## Key points
 
 - The letter is dated 6 June 1966 and is signed by M. R. Masani.

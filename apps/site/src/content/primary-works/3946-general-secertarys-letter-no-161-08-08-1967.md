@@ -53,6 +53,12 @@ summary: |-
   The letter further clarifies the rules governing cooptions to state councils and the timing of elections, stating that coopted members must not be allowed to delay council meetings. Its second section interprets eligibility requirements across the party hierarchy: candidates need not already belong to the immediately subordinate committee or council. The only stated qualification is that they must have been enrolled on or before June 30, 1967, with membership valid when they seek election. The document is signed by N. Dandekar as officiating General Secretary.
 ---
 
+## Summary
+
+Dated August 8, 1967, this General Secretary's Letter from the Swatantra Party Central Office addresses procedural questions arising from the party elections held in 1964 and offers guidance for the forthcoming elections. It explains that state or regional committees may determine how district units are represented on state councils, provided that representation is democratic and does not exceed ten representatives per district. It also discusses the practical limits on council size, noting that actual enrollment may leave some seats unfilled and that later requests to expand representation will be considered on their merits.
+
+The letter further clarifies the rules governing cooptions to state councils and the timing of elections, stating that coopted members must not be allowed to delay council meetings. Its second section interprets eligibility requirements across the party hierarchy: candidates need not already belong to the immediately subordinate committee or council. The only stated qualification is that they must have been enrolled on or before June 30, 1967, with membership valid when they seek election. The document is signed by N. Dandekar as officiating General Secretary.
+
 ## Key points
 
 - The letter was issued by the Swatantra Party Central Office on August 8, 1967, as General Secretary's Letter No. 161.

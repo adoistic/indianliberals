@@ -45,6 +45,12 @@ summary: |-
   Mody explains that he is leaving Bombay briefly for a holiday but hopes to take an active interest in public affairs on his return. He also notes that Aiyar will shortly turn 70 and wishes him many more years of useful life. The letter closes with Mody’s typed signature, “Sd.H.P. Mody.”
 ---
 
+## Summary
+
+This one-page English carbon-copy letter, marked “(COPY),” was sent from Bombay House, Fort, Bombay, on 30 May 1959 by H. P. Mody to Mr. C. V. Ramanatha Aiyar of Pallavaram. Mody thanks Aiyar for his letter of 28 May and acknowledges the kindness of Aiyar’s expressed sentiments.
+
+Mody explains that he is leaving Bombay briefly for a holiday but hopes to take an active interest in public affairs on his return. He also notes that Aiyar will shortly turn 70 and wishes him many more years of useful life. The letter closes with Mody’s typed signature, “Sd.H.P. Mody.”
+
 ## Key points
 
 - The document is an untitled typed carbon copy marked “(COPY).”

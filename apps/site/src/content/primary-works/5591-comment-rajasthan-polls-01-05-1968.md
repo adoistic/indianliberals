@@ -49,6 +49,12 @@ summary: |-
   The clipping describes the Swatantra campaign in Dausa as involving the Rajmata of Gwalior and an effort to persuade the House of Udaipur to set aside old grievances against Jaipur. In Chomu, the Swatantra candidate was supported by M. R. Pai, whose campaign strategy reportedly aimed to persuade Congress MLAs to support him and thereby weaken Chief Minister Sukhadia. The commentary concludes that the Congress vote was not necessarily a mandate for the party, but may instead reflect anti-feudal sentiment in Rajasthan and dissatisfaction with the Swatantra leadership. The second rendered page is a separate employment-rejection letter dated May 23, 1968, and does not appear related to the political clipping.
 ---
 
+## Summary
+
+The visible political commentary, headed “Rajasthan poll,” discusses the Congress victory in the Lok Sabha by-election in Dausa and the Assembly election in Chomu. It argues that these results should help the Swatantra Party recover its self-confidence, particularly because the party had earlier held both seats. The commentary identifies the defeat in the Jaipur parliamentary constituency as especially significant and attributes it partly to divisions among anti-Congress forces.
+
+The clipping describes the Swatantra campaign in Dausa as involving the Rajmata of Gwalior and an effort to persuade the House of Udaipur to set aside old grievances against Jaipur. In Chomu, the Swatantra candidate was supported by M. R. Pai, whose campaign strategy reportedly aimed to persuade Congress MLAs to support him and thereby weaken Chief Minister Sukhadia. The commentary concludes that the Congress vote was not necessarily a mandate for the party, but may instead reflect anti-feudal sentiment in Rajasthan and dissatisfaction with the Swatantra leadership. The second rendered page is a separate employment-rejection letter dated May 23, 1968, and does not appear related to the political clipping.
+
 ## Key points
 
 - The Congress victory in the Dausa Lok Sabha by-election and Chomu Assembly election is presented as a setback for the Swatantra Party.

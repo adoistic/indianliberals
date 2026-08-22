@@ -51,6 +51,12 @@ summary: |-
   Raju also argues that Charan Singh had influenced Mody, citing an earlier, unsuccessful attempt in 1968 to undermine the party through Rajaji and the National Executive. He expresses confidence that the proposed new party would not adhere to the principles established by Rajaji and asks Girish for his views. The second scanned page is blank apart from Talent House letterhead.
 ---
 
+## Summary
+
+In this letter dated June 5, 1974, S. V. Raju writes to Girish about an effort to destroy the Swatantra Party by creating a new party from within it, with support from the BKD and other splinter groups. Raju attributes the initiative to Piloo Mody, whom he says is attempting to escape a difficult situation after failing as the party's president, and criticizes members of the National Executive for entertaining the proposal.
+
+Raju also argues that Charan Singh had influenced Mody, citing an earlier, unsuccessful attempt in 1968 to undermine the party through Rajaji and the National Executive. He expresses confidence that the proposed new party would not adhere to the principles established by Rajaji and asks Girish for his views. The second scanned page is blank apart from Talent House letterhead.
+
 ## Key points
 
 - The letter concerns an effort to replace or split the Swatantra Party through a new party.

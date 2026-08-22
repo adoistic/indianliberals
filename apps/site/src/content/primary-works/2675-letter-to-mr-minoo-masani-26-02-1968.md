@@ -49,6 +49,12 @@ summary: |-
   Mishra expresses support for private enterprise and praises TISCO's Resident Director, Mr. Modi, but asks Minoo Masani to use his influence to secure industrial peace. He suggests that, if necessary, the dispute could be resolved through a secret ballot or a fresh election of trade-union office-bearers, and requests action for both the mining area and Orissa as a whole.
 ---
 
+## Summary
+
+This two-page letter, dated 26 February 1968 and signed by R. B. Mishra, raises an industrial-relations dispute at the Ferro Manganese Plant at Joda, an Orissa-based TISCO concern. Mishra reports that two rival trade unions operate at the plant and are on poor terms, while local authorities allegedly favour one union and dislike the other, producing dissatisfaction and claims of victimisation.
+
+Mishra expresses support for private enterprise and praises TISCO's Resident Director, Mr. Modi, but asks Minoo Masani to use his influence to secure industrial peace. He suggests that, if necessary, the dispute could be resolved through a secret ballot or a fresh election of trade-union office-bearers, and requests action for both the mining area and Orissa as a whole.
+
 ## Key points
 
 - The letter concerns labour unrest at TISCO's Ferro Manganese Plant at Joda in Keonjhar district, Orissa.

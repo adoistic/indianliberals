@@ -51,6 +51,12 @@ summary: |-
   Masani reports that efforts were made at the party’s General Council to correct the situation through two resolutions, but both were rejected by a majority of members. He says that, under these circumstances, he had no alternative but to decline the offer of re-election to the Executive.
 ---
 
+## Summary
+
+In this newspaper clipping, M. R. Masani comments on the Swatantra Party National Executive’s decision to restore discipline in the party’s Gujarat unit. He argues that the decision would not aid the unit’s growth and might instead rebound on and damage the party. Masani characterizes the decision as another instance of yielding to short-term expediency, echoing the attitude he says marked the Executive’s previous meeting in Delhi in April 1968.
+
+Masani reports that efforts were made at the party’s General Council to correct the situation through two resolutions, but both were rejected by a majority of members. He says that, under these circumstances, he had no alternative but to decline the offer of re-election to the Executive.
+
 ## Key points
 
 - Masani criticizes the National Executive’s decision to restore discipline in the Swatantra Party’s Gujarat unit.

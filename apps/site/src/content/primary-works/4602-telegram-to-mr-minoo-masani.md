@@ -46,6 +46,10 @@ summary: |-
   This one-page English telegram from C. Rajagopalachari (“RAJAJI”) is addressed to Minoo Masani at 2 Tughlaq Road, New Delhi. The message records that Rajaji is delighted and expects to arrive at 11:23 in the afternoon; the telegram’s abbreviated routing and delivery notation is also visible on the form.
 ---
 
+## Summary
+
+This one-page English telegram from C. Rajagopalachari (“RAJAJI”) is addressed to Minoo Masani at 2 Tughlaq Road, New Delhi. The message records that Rajaji is delighted and expects to arrive at 11:23 in the afternoon; the telegram’s abbreviated routing and delivery notation is also visible on the form.
+
 ## Key points
 
 - The document is a telegram issued on an Indian Posts and Telegraphs Department form.

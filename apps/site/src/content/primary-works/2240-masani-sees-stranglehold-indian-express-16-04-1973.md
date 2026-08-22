@@ -52,6 +52,12 @@ summary: |-
   The resolution also argued that the treaty had limited India's options in pursuing the national interest and had given the Soviet bloc a “stranglehold” over India's foreign trade and economic life. It called for a détente between Pakistan and Bangladesh and for a phased programme to repatriate Pakistani prisoners of war and Bengalis from Pakistan. M. R. Masani, identified as the former president of the party and the mover of the resolution, supported the criticism with claims about Soviet naval access to the Indian Ocean and the duration of Soviet ships' presence there.
 ---
 
+## Summary
+
+This Indian Express report, dated 16 April 1973, covers the Swatantra Party's sixth national convention in Madras. The convention adopted a resolution criticising the Indo-Soviet Treaty of 1971, arguing that it had placed India in an unhappy and isolated position among the countries of the world, and called for speedy normalisation of India's relations with other countries and closer cooperation with neighbouring nations.
+
+The resolution also argued that the treaty had limited India's options in pursuing the national interest and had given the Soviet bloc a “stranglehold” over India's foreign trade and economic life. It called for a détente between Pakistan and Bangladesh and for a phased programme to repatriate Pakistani prisoners of war and Bengalis from Pakistan. M. R. Masani, identified as the former president of the party and the mover of the resolution, supported the criticism with claims about Soviet naval access to the Indian Ocean and the duration of Soviet ships' presence there.
+
 ## Key points
 
 - The report covers the Swatantra Party's sixth national convention, held in Madras in April 1973.

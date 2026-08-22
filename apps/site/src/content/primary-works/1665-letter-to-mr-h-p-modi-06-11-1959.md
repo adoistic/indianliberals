@@ -49,6 +49,10 @@ summary: |-
   This six-page Swatantra Party letter, dated 6 November 1959 and signed by S. Y. Krishnaswamy as Convenor of the Central Organising Committee, is addressed to Sri H. P. Modi. Krishnaswamy reports on discussions concerning the location of the Central Office and the Party’s finances, describes efforts to raise local donations, and asks Modi to send Rs. 5,000 for central expenses and Rs. 500 to support printing work in Assam. He also refers to forthcoming Organising Committee and All India Council meetings in Hyderabad.
 ---
 
+## Summary
+
+This six-page Swatantra Party letter, dated 6 November 1959 and signed by S. Y. Krishnaswamy as Convenor of the Central Organising Committee, is addressed to Sri H. P. Modi. Krishnaswamy reports on discussions concerning the location of the Central Office and the Party’s finances, describes efforts to raise local donations, and asks Modi to send Rs. 5,000 for central expenses and Rs. 500 to support printing work in Assam. He also refers to forthcoming Organising Committee and All India Council meetings in Hyderabad.
+
 ## Key points
 
 - The letter reports that Rajaji, Masani, Ranganathan, and Krishnaswamy discussed the Central Office’s location and the Party’s financial position.

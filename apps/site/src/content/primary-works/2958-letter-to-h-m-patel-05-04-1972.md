@@ -54,6 +54,12 @@ summary: |-
   The proposed programme combines institutional reform with economic and civil-libertarian demands. It calls for All-India Radio and Television to become an autonomous corporation, substantial reductions in ministerial salaries, price controls limiting annual price rises to 3 per cent, an end to the ruling party’s misuse of government machinery for elections, guaranteed employment including for educated unemployed people, a ban on illegal corporate donations to the ruling party, and non-interference with press freedom. The letter says these are illustrative points requiring further development and implementation.
 ---
 
+## Summary
+
+In this letter dated April 5, 1972, R. C. Cooper writes to H. M. Patel about the future of the Swatantra Party. Referring to an earlier letter, and to responses or comments from Rajaji, M. R. Masani, Minoo Amarsay and S. V. Raju, Cooper presents two alternatives: winding up the Party or adopting a time-bound programme of direct action. He notes that Rajaji has also advocated direct action for the Party and proposes that the matter be considered at the forthcoming meeting of the National Executive and General Council.
+
+The proposed programme combines institutional reform with economic and civil-libertarian demands. It calls for All-India Radio and Television to become an autonomous corporation, substantial reductions in ministerial salaries, price controls limiting annual price rises to 3 per cent, an end to the ruling party’s misuse of government machinery for elections, guaranteed employment including for educated unemployed people, a ban on illegal corporate donations to the ruling party, and non-interference with press freedom. The letter says these are illustrative points requiring further development and implementation.
+
 ## Key points
 
 - Cooper asks the Swatantra Party to consider a time-bound programme of direct action rather than simply winding up the Party.

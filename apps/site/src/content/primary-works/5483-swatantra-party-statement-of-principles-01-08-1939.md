@@ -72,6 +72,12 @@ summary: |-
   The statement presents an extensive economic and institutional critique of state control. It opposes collectivisation, bureaucratic management, excessive taxation, deficit financing, inflationary policies, uncontrolled public enterprise, and political pressure on officials. It advocates secure property rights, fair compensation, private and competitive enterprise, restricted state involvement in industry and trade, agricultural productivity led by self-employed proprietors, educational choice, decentralised industrial development, employment creation, labour’s right to organise, the rule of law, an independent judiciary, and constitutional judicial review. The final principle links these commitments to internal party democracy and freedom of opinion outside the document’s stated fundamental principles.
 ---
 
+## Summary
+
+This six-page English statement, adopted at the Swatantra Party’s Preparatory Convention in Bombay on August 1–2, 1959, sets out 21 principles combining social equality with individual freedom and limited government. It supports equal opportunity without discrimination, individual initiative and enterprise, minimum state interference, protection of weaker social groups, and a conception of public authority grounded in moral obligation and the party’s reading of Gandhian trusteeship.
+
+The statement presents an extensive economic and institutional critique of state control. It opposes collectivisation, bureaucratic management, excessive taxation, deficit financing, inflationary policies, uncontrolled public enterprise, and political pressure on officials. It advocates secure property rights, fair compensation, private and competitive enterprise, restricted state involvement in industry and trade, agricultural productivity led by self-employed proprietors, educational choice, decentralised industrial development, employment creation, labour’s right to organise, the rule of law, an independent judiciary, and constitutional judicial review. The final principle links these commitments to internal party democracy and freedom of opinion outside the document’s stated fundamental principles.
+
 ## Key points
 
 - The party affirms social justice and equality of opportunity while rejecting distinctions based on religion, caste, occupation, or political affiliation.

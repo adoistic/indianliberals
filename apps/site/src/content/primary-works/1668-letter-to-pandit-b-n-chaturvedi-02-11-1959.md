@@ -51,6 +51,12 @@ summary: |-
   The sender suggests that Chaturvedi contact Bhoj if he is interested in the Swatantra Party. The page contains no printed sender name or visible signature, so the author's identity cannot be established from the rendered document.
 ---
 
+## Summary
+
+This typed letter, dated 2 November 1959, is addressed to Pandit B. N. Chaturvedi. The unnamed sender acknowledges Chaturvedi's letter of 25 October and provides the name and address of the Swatantra Party's representative in Madhya Pradesh: Shri Agni Bhoj of Malaviyanagar, Bhopal.
+
+The sender suggests that Chaturvedi contact Bhoj if he is interested in the Swatantra Party. The page contains no printed sender name or visible signature, so the author's identity cannot be established from the rendered document.
+
 ## Key points
 
 - The letter is dated 2 November 1959.

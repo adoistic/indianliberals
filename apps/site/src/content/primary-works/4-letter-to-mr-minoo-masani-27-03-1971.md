@@ -49,6 +49,12 @@ summary: |-
   The letter then turns to age and illness. Sri Prakasa says he is approaching his sixtieth year and describes the accumulated strain of decades of work, the loss of former political comrades, and his prolonged hospitalization in Calcutta. He explains that he has undergone major operations since 1969 and is uncertain whether he can resume active work. He also refers to a possible appointment or committee role but makes clear that he now wants peace rather than further public responsibilities. The closing section reflects on leaving Calcutta and returning to family surroundings, while expressing gratitude for Masani’s friendship.
 ---
 
+## Summary
+
+This untitled, two-page handwritten letter from Sri Prakasa to Minoo Masani, dated March 27, 1971, is a personal exchange combining affection, political reminiscence, and an account of declining health. Sri Prakasa writes that receiving Masani’s letter brings back memories of old friends, many of whom are no longer alive or are scattered. He recalls a small group seminar in Benares and remarks on the loneliness of being separated from long-standing colleagues.
+
+The letter then turns to age and illness. Sri Prakasa says he is approaching his sixtieth year and describes the accumulated strain of decades of work, the loss of former political comrades, and his prolonged hospitalization in Calcutta. He explains that he has undergone major operations since 1969 and is uncertain whether he can resume active work. He also refers to a possible appointment or committee role but makes clear that he now wants peace rather than further public responsibilities. The closing section reflects on leaving Calcutta and returning to family surroundings, while expressing gratitude for Masani’s friendship.
+
 ## Key points
 
 - Sri Prakasa responds warmly to a letter from Minoo Masani and recalls shared political and personal associations.

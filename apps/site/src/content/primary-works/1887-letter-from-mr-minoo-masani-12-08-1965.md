@@ -51,6 +51,12 @@ summary: |-
   The letter reports that Prof. Ranga favours a separate discussion of the Government’s failure on the economic front rather than pressing the motion to a vote, since other motions might otherwise be disallowed for lacking the required support of 50 members. Jain says that a Swatantra Party meeting has been fixed for Monday morning and issues a whip requiring members to be present in the Lok Sabha on 16 August when the motion is expected to come to a vote. A separate one-page whip repeats the attendance instruction and specifies 11:45 a.m. as the latest expected time.
 ---
 
+## Summary
+
+This two-page Swatantra Party parliamentary correspondence, dated 11–12 August 1965, concerns a planned motion of no confidence in the Council of Ministers. A. P. Jain informs Minoo Masani that the motion has secured its first position and notes that additional no-confidence motions have been tabled by S. M. Banerjee, Hembarua on behalf of the PSP, Parkash Vir Shastri, and some Jan Sangh members.
+
+The letter reports that Prof. Ranga favours a separate discussion of the Government’s failure on the economic front rather than pressing the motion to a vote, since other motions might otherwise be disallowed for lacking the required support of 50 members. Jain says that a Swatantra Party meeting has been fixed for Monday morning and issues a whip requiring members to be present in the Lok Sabha on 16 August when the motion is expected to come to a vote. A separate one-page whip repeats the attendance instruction and specifies 11:45 a.m. as the latest expected time.
+
 ## Key points
 
 - The Swatantra Party’s no-confidence motion in the Council of Ministers had secured first position.

@@ -50,6 +50,12 @@ summary: |-
   Masani then narrates the drafting and formal notarisation of JP’s statement in December 1975. The document reaffirmed JP’s opposition to the Emergency and his determination to resist authoritarian rule, even while he was physically debilitated. Masani presents the testament as both a safeguard against political misrepresentation and evidence of JP’s commitment to democratic freedom. The article concludes by noting that, after press and associational freedoms were restored in January 1977, JP was able to issue his call for India’s liberation from the platform and through the press.
 ---
 
+## Summary
+
+In “J.P.'s Testament,” M. R. Masani recounts Jayaprakash Narayan’s critical illness after his release from solitary confinement during the Emergency and explains how the experience prompted him to prepare a political testament. Masani describes JP’s deteriorating condition, the anxiety of friends who feared that his death might be exploited by the government, and his concern that the regime could falsely claim that he had changed his political position and agreed to cooperate with Prime Minister Indira Gandhi.
+
+Masani then narrates the drafting and formal notarisation of JP’s statement in December 1975. The document reaffirmed JP’s opposition to the Emergency and his determination to resist authoritarian rule, even while he was physically debilitated. Masani presents the testament as both a safeguard against political misrepresentation and evidence of JP’s commitment to democratic freedom. The article concludes by noting that, after press and associational freedoms were restored in January 1977, JP was able to issue his call for India’s liberation from the platform and through the press.
+
 ## Key points
 
 - Masani describes Jayaprakash Narayan’s grave illness immediately after his release from solitary confinement during the Emergency.

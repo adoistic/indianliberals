@@ -48,6 +48,10 @@ summary: |-
   This one-page Times of India report describes M. R. Masani’s decision to resign from his posts in the Swatantra Party and to offer his resignation from party membership. The immediate dispute concerned the Gujarat elections to the Rajya Sabha: several Swatantra MLAs allegedly defied the party high command, fielded a candidate against its nominee, and helped that candidate win.
 ---
 
+## Summary
+
+This one-page Times of India report describes M. R. Masani’s decision to resign from his posts in the Swatantra Party and to offer his resignation from party membership. The immediate dispute concerned the Gujarat elections to the Rajya Sabha: several Swatantra MLAs allegedly defied the party high command, fielded a candidate against its nominee, and helped that candidate win.
+
 ## Key points
 
 - M. R. Masani rejected appeals from the party’s central parliamentary board and national executive to retain his posts.

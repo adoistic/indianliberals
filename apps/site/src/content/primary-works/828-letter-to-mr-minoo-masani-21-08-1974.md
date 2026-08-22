@@ -52,6 +52,12 @@ summary: |-
   The sender says they are going to meet Jayaprakash Narayan in Lucknow on 24 August and asks Masani to inform them if others are in Delhi. The sender's signature is not legible in the rendered scan. The second rendered page is the reverse/address side and contains no substantive letter text.
 ---
 
+## Summary
+
+This handwritten English letter, dated 21 August 1974 from Moradabad and addressed to Minoo Masani, reports on a two-day visit by Morarji Desai on 14–15 August. The sender states that approximately 250 delegates attended, describes a marshal procession on the night of 14 August, and refers to a public meeting held at the Town Hall grounds. The letter also mentions a resolution connected with Jayaprakash Narayan and expresses support for his movement.
+
+The sender says they are going to meet Jayaprakash Narayan in Lucknow on 24 August and asks Masani to inform them if others are in Delhi. The sender's signature is not legible in the rendered scan. The second rendered page is the reverse/address side and contains no substantive letter text.
+
 ## Key points
 
 - The letter is dated 21 August 1974 and was sent from Moradabad to Minoo Masani.

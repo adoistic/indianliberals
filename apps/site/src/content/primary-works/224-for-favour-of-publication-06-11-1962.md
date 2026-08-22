@@ -55,6 +55,12 @@ summary: |-
   The note records Masani’s response to the Prime Minister’s statement that officials had lost touch with modern reality and lists five measures he considered necessary for victory against Chinese Communist aggression: severing diplomatic relations with Communist China; securing arms, equipment, planes, and military assistance from friendly countries; adjusting relations with Pakistan; isolating the Communist “Fifth Column” in India and banning the Communist Party of India; and reviewing an obsolete foreign policy. It also reports his hope that Prime Minister Nehru would act on these matters and that President Ayub would assure India that Pakistan would not exploit India’s involvement with China.
 ---
 
+## Summary
+
+This single-page English press note, headed “For favour of publication” and dated Delhi, 6 November, reports remarks by M. R. Masani, General Secretary of the Swatantra Party, at a Party meeting at Gandhi Grounds. Masani presents the Swatantra Party as opposed to personal or partisan advantage and argues that an opposition party should support the Government’s defence effort while retaining the right to criticize policies that have weakened the country’s military position.
+
+The note records Masani’s response to the Prime Minister’s statement that officials had lost touch with modern reality and lists five measures he considered necessary for victory against Chinese Communist aggression: severing diplomatic relations with Communist China; securing arms, equipment, planes, and military assistance from friendly countries; adjusting relations with Pakistan; isolating the Communist “Fifth Column” in India and banning the Communist Party of India; and reviewing an obsolete foreign policy. It also reports his hope that Prime Minister Nehru would act on these matters and that President Ayub would assure India that Pakistan would not exploit India’s involvement with China.
+
 ## Key points
 
 - Masani says the Swatantra Party is concerned with policies rather than personalities or party advantage.

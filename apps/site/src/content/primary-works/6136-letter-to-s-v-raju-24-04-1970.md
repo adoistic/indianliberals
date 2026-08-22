@@ -44,6 +44,10 @@ summary: |-
   This handwritten letter, dated 24 April 1970 and addressed from 2 Tughlak Road, New Delhi, is a brief administrative note from Minoo Masani to S. V. Raju. Masani refers to royalty cheques dated 21 November and 5 December 1968, explains that they had been sent to him for forwarding, and arranges for them to be delivered to Raju in Bombay.
 ---
 
+## Summary
+
+This handwritten letter, dated 24 April 1970 and addressed from 2 Tughlak Road, New Delhi, is a brief administrative note from Minoo Masani to S. V. Raju. Masani refers to royalty cheques dated 21 November and 5 December 1968, explains that they had been sent to him for forwarding, and arranges for them to be delivered to Raju in Bombay.
+
 ## Key points
 
 - The letter is dated 24 April 1970 and was written from New Delhi.

@@ -54,6 +54,12 @@ summary: |-
   The committee also decided to reactivate the Swatantra Party, asked S. V. Raju to draft a public announcement, and discussed funding for the proposed litigation and other activities. It agreed to raise Rs. 5,000, including contributions from the Adult Education Institute and P. N. Subramanian, while continuing a 50/50 electricity-bill arrangement pending the court’s decision. The meeting approved the accounts for the year ended 31 March 1990, agreed to provide Kalidas a lifelong monthly pension of Rs. 60, and concluded with a vote of thanks to the chair.
 ---
 
+## Summary
+
+These two-page draft minutes record the Maharashtra Swatantra Party Executive Committee meeting held in Bombay on 21 August 1990. The minutes list those present, confirm earlier meeting records, and document decisions concerning the party office at 143 Mahatma Gandhi Road. The committee resolved to pursue eviction proceedings against the AFTERNOON in the Small Causes Court and to file a City Civil Court suit concerning the newspaper’s alleged unauthorised tapping of electricity. Nitin G. Raut was instructed to coordinate the legal action, with assistance from senior advocates where necessary.
+
+The committee also decided to reactivate the Swatantra Party, asked S. V. Raju to draft a public announcement, and discussed funding for the proposed litigation and other activities. It agreed to raise Rs. 5,000, including contributions from the Adult Education Institute and P. N. Subramanian, while continuing a 50/50 electricity-bill arrangement pending the court’s decision. The meeting approved the accounts for the year ended 31 March 1990, agreed to provide Kalidas a lifelong monthly pension of Rs. 60, and concluded with a vote of thanks to the chair.
+
 ## Key points
 
 - The minutes concern the Maharashtra Swatantra Party Executive Committee meeting held on 21 August 1990.

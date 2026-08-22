@@ -48,6 +48,12 @@ summary: |-
   The rendered page does not disclose the subject or arguments of the enclosed correspondence. A handwritten note appears on the lower portion of the page, but its full contents are not reliably legible in the rendered image.
 ---
 
+## Summary
+
+This single-page personal letter, written by C. Rajagopalachari to M. R. Masani on 25 May 1964, forwards two related items for Masani's attention. Rajagopalachari says that he has enclosed a letter from G. D. Birla, written from London, along with his own reply to Birla, and invites Masani to read both letters.
+
+The rendered page does not disclose the subject or arguments of the enclosed correspondence. A handwritten note appears on the lower portion of the page, but its full contents are not reliably legible in the rendered image.
+
 ## Key points
 
 - The letter is dated 25 May 1964 and is sent from Rajagopalachari's Madras address.

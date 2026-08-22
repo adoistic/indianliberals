@@ -46,6 +46,10 @@ summary: |-
   This one-page English letter, dated 3 June 1971, is from N. C. Zamindar in Indore to Minoo Masani in Bombay. Zamindar reports a conversation with Sardar C. S. Angre, who claimed that Masani had acquired enemies and that Atal Bihari Vajpayee and Smt. Sindhia had become hostile to him. Zamindar cautions that Angre may have been bluffing or attempting to sow discord, and emphasizes his own friendly relations with Masani.
 ---
 
+## Summary
+
+This one-page English letter, dated 3 June 1971, is from N. C. Zamindar in Indore to Minoo Masani in Bombay. Zamindar reports a conversation with Sardar C. S. Angre, who claimed that Masani had acquired enemies and that Atal Bihari Vajpayee and Smt. Sindhia had become hostile to him. Zamindar cautions that Angre may have been bluffing or attempting to sow discord, and emphasizes his own friendly relations with Masani.
+
 ## Key points
 
 - The letter is dated 3 June 1971 and was sent from Indore to Minoo Masani in Bombay.

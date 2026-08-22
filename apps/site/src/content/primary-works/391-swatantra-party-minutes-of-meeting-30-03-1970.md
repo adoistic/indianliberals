@@ -54,6 +54,12 @@ summary: |-
   The document then assigns members to speak on parliamentary business. The listed subjects include the Essential Commodities Bill and demands for grants covering Home Affairs, External Affairs, Irrigation and Power, and Foreign Trade. Speaking times are specified for several participants, ranging from 15 to 24 minutes. The record is signed by Y. G. Gowd in his capacity as Chief Whip and addressed to all Swatantra MPs.
 ---
 
+## Summary
+
+This one-page office record, issued on the letterhead of the Swatantra Parliamentary Party in New Delhi and dated March 30, 1970, records a meeting of the Party's Executive Committee. It states that the meeting was held in the Party Room at 12.30 p.m. and lists seven members present, including Prof. N. G. Ranga, Prof. M. Ruthnaswamy, Piloo Mody, Y. G. Gowd, Lokanath Misra, S. K. Tapuriah, and J. Mohd. Imam.
+
+The document then assigns members to speak on parliamentary business. The listed subjects include the Essential Commodities Bill and demands for grants covering Home Affairs, External Affairs, Irrigation and Power, and Foreign Trade. Speaking times are specified for several participants, ranging from 15 to 24 minutes. The record is signed by Y. G. Gowd in his capacity as Chief Whip and addressed to all Swatantra MPs.
+
 ## Key points
 
 - The Executive Committee meeting was held in the Swatantra Party Room at 12.30 p.m. on March 30, 1970.

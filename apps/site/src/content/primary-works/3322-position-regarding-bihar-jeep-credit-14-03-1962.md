@@ -52,6 +52,12 @@ summary: |-
   The note then traces correspondence and administrative action from April through October 1962. It states that no reply was received from Kamakhya Narain Singh concerning repayment, rejects claims by Bateshwar Prasad Singh that the overdraft was the Party's liability, and says the General Secretary corrected those representations to the bank with K. M. Munshi's approval. The Parliamentary Board authorised payments through October, after which the note states that no further payments would be made on the Rajah's behalf. The document is therefore primarily a chronological institutional record of liability, repayment commitments, and the Party's response to disputed representations.
 ---
 
+## Summary
+
+This two-page Swatantra Party office note sets out the Party's position on the Bihar jeep credit associated with the Rajah of Ramgarh. It records the Parliamentary Sub-Committee's March 1962 decision that the Party would assume responsibility for repaying the bank loan, subject to the Rajah paying Rs. 1,20,000 plus accrued interest, while continuing monthly instalments of Rs. 20,000 on his behalf if necessary. It also describes an arrangement under which jeeps retained in Bihar would be registered in the name of the Bihar State Party and held for the Centre's use.
+
+The note then traces correspondence and administrative action from April through October 1962. It states that no reply was received from Kamakhya Narain Singh concerning repayment, rejects claims by Bateshwar Prasad Singh that the overdraft was the Party's liability, and says the General Secretary corrected those representations to the bank with K. M. Munshi's approval. The Parliamentary Board authorised payments through October, after which the note states that no further payments would be made on the Rajah's behalf. The document is therefore primarily a chronological institutional record of liability, repayment commitments, and the Party's response to disputed representations.
+
 ## Key points
 
 - The Parliamentary Sub-Committee reviewed the Bihar jeep credit at its 14 March 1962 meeting in Bombay.

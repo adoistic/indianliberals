@@ -51,6 +51,12 @@ summary: |-
   The second page is a Hindi instruction sheet explaining basic telegram procedures. It refers to the Indian Telegraph Act of 1885 and the Indian Telegraph Rules of 1951, and states that compensation is not ordinarily available for loss, delay, or errors in transmission except under specified conditions. The document is therefore primarily an office communication accompanied by standard governmental telegraph instructions, rather than a political argument or extended publication.
 ---
 
+## Summary
+
+This two-page telegram records a brief logistical communication from a sender identified on the form as “M. R. MASANI M. P.” The English message confirms a meeting for Friday the sixth and states that further details will be provided when the parties meet on the fourth. The message ends with the name “RAJU,” whose role—recipient, intermediary, or signatory—is not clear from the rendered page.
+
+The second page is a Hindi instruction sheet explaining basic telegram procedures. It refers to the Indian Telegraph Act of 1885 and the Indian Telegraph Rules of 1951, and states that compensation is not ordinarily available for loss, delay, or errors in transmission except under specified conditions. The document is therefore primarily an office communication accompanied by standard governmental telegraph instructions, rather than a political argument or extended publication.
+
 ## Key points
 
 - The document is a Government of India phonogram/telegram form dated 9 February 1972.

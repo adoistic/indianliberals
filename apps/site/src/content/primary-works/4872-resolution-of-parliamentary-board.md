@@ -51,6 +51,12 @@ summary: |-
   The resolution also urges India to abandon its policy of non-interference in Laos, support demands for the withdrawal of Communist forces from occupied territory, and assist the Laotian government. It criticizes India's representative in Laos for failing to join the United States, Britain, Canada, Thailand, and South Vietnam in this demand, characterizing that position as unhelpful and equivocal. No date, signatory, place, or formal publication imprint is visible.
 ---
 
+## Summary
+
+This one-page Swatantra Party resolution asks the General Council to endorse Prime Minister Tunku Abdul Rahman's appeal for Commonwealth support to Malaysia against what it describes as aggression, following the invasion of India by Chinese Communist troops in October 1962. It calls on the Government of India to publicly support Malaysia's security and freedom and to provide all possible assistance.
+
+The resolution also urges India to abandon its policy of non-interference in Laos, support demands for the withdrawal of Communist forces from occupied territory, and assist the Laotian government. It criticizes India's representative in Laos for failing to join the United States, Britain, Canada, Thailand, and South Vietnam in this demand, characterizing that position as unhelpful and equivocal. No date, signatory, place, or formal publication imprint is visible.
+
 ## Key points
 
 - The Swatantra Party General Council is asked to support Malaysia's appeal for assistance against aggression.

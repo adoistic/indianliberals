@@ -45,6 +45,10 @@ summary: |-
   This one-page English office letter, dated August 21, 1964, is from M. R. Masani to M/s Walchand & Co. Private Ltd. in Bombay. Masani acknowledges the recipient's letter no. W/197 of August 18 and states that he does not yet know the details of the matter referred to.
 ---
 
+## Summary
+
+This one-page English office letter, dated August 21, 1964, is from M. R. Masani to M/s Walchand & Co. Private Ltd. in Bombay. Masani acknowledges the recipient's letter no. W/197 of August 18 and states that he does not yet know the details of the matter referred to.
+
 ## Key points
 
 - The letter is dated August 21, 1964.

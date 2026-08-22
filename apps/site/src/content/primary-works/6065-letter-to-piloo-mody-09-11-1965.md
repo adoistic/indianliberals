@@ -50,6 +50,12 @@ summary: |-
   In the enclosed letter, dated 9 December 1965, Rajagopalachari thanks Mody for his message and asks him to convey respectful and affectionate greetings to his father. The letter closes with a warm, lightly self-deprecating hope that Mody’s father will outlast him in his “tenacious attachment to life.” Handwritten annotations appear on the letterhead and near the date; the typescript is signed by Rajagopalachari.
 ---
 
+## Summary
+
+This two-page English correspondence item from December 1965 consists of a forwarding note by K. S. Srinivasan and an enclosed personal letter from C. Rajagopalachari to Piloo Mody. Srinivasan explains that he is sending Mody a copy of Rajagopalachari’s reply to a telegram sent on Rajagopalachari’s 88th birthday.
+
+In the enclosed letter, dated 9 December 1965, Rajagopalachari thanks Mody for his message and asks him to convey respectful and affectionate greetings to his father. The letter closes with a warm, lightly self-deprecating hope that Mody’s father will outlast him in his “tenacious attachment to life.” Handwritten annotations appear on the letterhead and near the date; the typescript is signed by Rajagopalachari.
+
 ## Key points
 
 - The item contains a forwarding letter dated 11 December 1965 and an enclosed personal letter dated 9 December 1965.

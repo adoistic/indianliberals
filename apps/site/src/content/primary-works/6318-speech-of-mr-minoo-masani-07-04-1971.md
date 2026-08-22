@@ -55,6 +55,12 @@ summary: |-
   Masani insists that the party’s principles remain sound, while its performance and methods require fundamental change. He calls for courage to face unpleasant facts, faith in the people, organisational innovation, outreach to younger voters, concern for disadvantaged communities, agricultural priority, attention to consumers, and cultivation of minorities. The speech closes with his argument that leadership must change after defeat, his defence of resignation as a public act of renewal, and a call for a rapid internal election process. He warns that future political success will depend on a quick reappraisal, new tactics and strategy, and renewed dedication to the party’s objectives.
 ---
 
+## Summary
+
+In this speech to the Swatantra Party General Council on 17 April 1971, Minoo Masani explains his decision to resign as party president after the party’s severe electoral setback. He rejects the view that the party has merely lost a battle, arguing instead that it has lost the war and must adopt a post-war posture. He attributes the defeat not simply to the decision to join the opposition Front, but to inadequate preparation, weak organisation, insufficient finance, and failures of leadership. He also criticises the Front’s January 1971 breakdown and the subsequent compromises that, in his account, weakened the party’s electoral position.
+
+Masani insists that the party’s principles remain sound, while its performance and methods require fundamental change. He calls for courage to face unpleasant facts, faith in the people, organisational innovation, outreach to younger voters, concern for disadvantaged communities, agricultural priority, attention to consumers, and cultivation of minorities. The speech closes with his argument that leadership must change after defeat, his defence of resignation as a public act of renewal, and a call for a rapid internal election process. He warns that future political success will depend on a quick reappraisal, new tactics and strategy, and renewed dedication to the party’s objectives.
+
 ## Key points
 
 - Masani presents his resignation as a necessary response to the Swatantra Party’s 1971 defeat and the loss of credibility of its existing leadership.

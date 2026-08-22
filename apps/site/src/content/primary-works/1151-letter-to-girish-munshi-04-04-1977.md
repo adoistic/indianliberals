@@ -47,6 +47,12 @@ summary: |-
   In view of the unanimous ask from both sides, Masani agrees to serve as the arbitrator in an internal party dispute. He requests that all relevant papers be forwarded to him so he can study the matter before summoning both parties for a discussion. The letter is signed off with kind regards and closes on the promise of a hearing once the record is in hand.
 ---
 
+## Summary
+
+A one-page typed letter dated 4 April 1977 from M. R. Masani to Girish Munshi, General Secretary of the Maharashtra Swatantra Party at 143 Mahatma Gandhi Road, Bombay. Masani acknowledges Munshi's letter of 1 April and notes that he has received a parallel request from K. H. Subramanian, L. R. Sampat and Raju.
+
+In view of the unanimous ask from both sides, Masani agrees to serve as the arbitrator in an internal party dispute. He requests that all relevant papers be forwarded to him so he can study the matter before summoning both parties for a discussion. The letter is signed off with kind regards and closes on the promise of a hearing once the record is in hand.
+
 ## Key points
 
 - Letter from M. R. Masani to Girish Munshi, General Secretary of the Maharashtra Swatantra Party, dated 4 April 1977.

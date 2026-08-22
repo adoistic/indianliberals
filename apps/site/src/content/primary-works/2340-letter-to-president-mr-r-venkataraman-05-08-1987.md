@@ -57,6 +57,12 @@ summary: |-
   Masani distinguishes the President’s obligation to follow the amended constitutional text from what he regards as residual presidential discretion. He argues that the 42nd Amendment did not remove the President’s authority to choose or dismiss a Prime Minister, or to accept, refuse, or manage a request for dissolution of the Lok Sabha. In the event of a dissolution request, he proposes seeking the government’s resignation, installing a National Government or caretaker administration as suggested by Rajaji, and holding fresh elections. He also argues that Article 352 requires the President’s own satisfaction before declaring an Emergency, and concludes that Fakhruddin Ali Ahmed’s Emergency proclamation was constitutionally unwarranted.
 ---
 
+## Summary
+
+This two-page letter, dated 5 August 1987, records Minoo Masani’s constitutional advice to R. Venkataraman, then President of India. Masani refers to his recent Statesman columns welcoming Venkataraman’s election and encloses an article arguing that the Constitution as framed by the Constituent Assembly was altered improperly by the 42nd Amendment, which he describes as ultra vires the Constitution.
+
+Masani distinguishes the President’s obligation to follow the amended constitutional text from what he regards as residual presidential discretion. He argues that the 42nd Amendment did not remove the President’s authority to choose or dismiss a Prime Minister, or to accept, refuse, or manage a request for dissolution of the Lok Sabha. In the event of a dissolution request, he proposes seeking the government’s resignation, installing a National Government or caretaker administration as suggested by Rajaji, and holding fresh elections. He also argues that Article 352 requires the President’s own satisfaction before declaring an Emergency, and concludes that Fakhruddin Ali Ahmed’s Emergency proclamation was constitutionally unwarranted.
+
 ## Key points
 
 - Masani writes to President R. Venkataraman about constitutional powers and recent public commentary on his election.

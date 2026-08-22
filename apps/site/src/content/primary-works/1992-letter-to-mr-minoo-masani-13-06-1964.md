@@ -51,6 +51,12 @@ summary: |-
   The letter then proposes producing a brochure on the Swatantra Party's fight against the 17th Amendment Bill. It suggests soliciting material from state party units, including articles and speeches by Rajaji, Prof. Ranga, Masani, and other leaders, as well as parliamentary resolutions. The document therefore combines an internal defence of the party's conduct in the Rajya Sabha with a practical proposal for building a broader public record of its constitutional opposition.
 ---
 
+## Summary
+
+This single-page letter, dated June 13, 1964, from the Swatantra Party Parliamentary Office to M. R. Masani, discusses the Constitution (17th Amendment) Bill and the party's parliamentary response. A. R. Jain reports that he has sent Masani a copy of the Members' Salaries and Allowances Bill, as passed by the Lok Sabha, and encloses a Hindu article titled “a brief but tragic Session.” The letter objects to the article's criticism of the Swatantra Party's Rajya Sabha group for not staging a walk-out at the introduction stage of the amendment bill, noting that the group had followed the Parliamentary Board's instructions and that Hindu allegedly overlooked this context.
+
+The letter then proposes producing a brochure on the Swatantra Party's fight against the 17th Amendment Bill. It suggests soliciting material from state party units, including articles and speeches by Rajaji, Prof. Ranga, Masani, and other leaders, as well as parliamentary resolutions. The document therefore combines an internal defence of the party's conduct in the Rajya Sabha with a practical proposal for building a broader public record of its constitutional opposition.
+
 ## Key points
 
 - The letter is dated June 13, 1964, and is issued on Swatantra Party Parliamentary Office letterhead.

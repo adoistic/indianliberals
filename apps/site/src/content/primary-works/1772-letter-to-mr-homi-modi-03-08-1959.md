@@ -50,6 +50,12 @@ summary: |-
   The letter combines political commentary with criticism of socialism and party leadership. It questions the idea of a “socialist pattern” for a religiously diverse country, calls the selection of a “savage man” as prime minister a crime against the people, and comments on Congress’s internal elections and provincial organisation. The final page shifts to immediate political correspondence, mentioning a special-plane visit to Bombay, a proposed meeting with ministers and police chiefs, and a request concerning a prior letter by Dr. Radhakrishnan.
 ---
 
+## Summary
+
+This three-page handwritten letter, dated 3 August 1959 and signed by Ruttonchund Master, addresses Sir Homi Modi from Bombay. The writer welcomes the formation of the Swatantra Party and expresses gratitude to Rajaji, Ranga, and Masani. He presents political history through a recurring pattern in which a powerful leader appears to rescue the country at a moment of crisis, invoking Shivaji, Gandhi, and Modi as examples and contrasting them with Congress and Nehru-era politics.
+
+The letter combines political commentary with criticism of socialism and party leadership. It questions the idea of a “socialist pattern” for a religiously diverse country, calls the selection of a “savage man” as prime minister a crime against the people, and comments on Congress’s internal elections and provincial organisation. The final page shifts to immediate political correspondence, mentioning a special-plane visit to Bombay, a proposed meeting with ministers and police chiefs, and a request concerning a prior letter by Dr. Radhakrishnan.
+
 ## Key points
 
 - The letter is dated 3 August 1959 and is signed by Ruttonchund Master.

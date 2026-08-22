@@ -49,6 +49,12 @@ summary: |-
   Masani explains that the research is intended to provide factual support against the allegation that the Swatantra Party is itself a party of princes and capitalists. He refers to an earlier unsuccessful request for similar information and sets September 15, 1966, as the deadline for receiving the material.
 ---
 
+## Summary
+
+This one-page letter, dated August 9, 1966, was issued by M. R. Masani from the Swatantra Party's Central Office in Bombay. Masani asks a party contact to compile information on former princes, zamindars, and big businessmen who are members of the Indian National Congress. The requested details include each person's name and social or economic background, legislative or parliamentary membership, position in the Congress hierarchy, and any other relevant information.
+
+Masani explains that the research is intended to provide factual support against the allegation that the Swatantra Party is itself a party of princes and capitalists. He refers to an earlier unsuccessful request for similar information and sets September 15, 1966, as the deadline for receiving the material.
+
 ## Key points
 
 - M. R. Masani writes as General Secretary of the Swatantra Party.

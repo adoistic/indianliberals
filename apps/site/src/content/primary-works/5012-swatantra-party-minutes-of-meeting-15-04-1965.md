@@ -53,6 +53,12 @@ summary: |-
   The minutes assign speakers for the Kerala Proclamation, Kerala Demands, and the general discussion of the Finance Bill. They call for a letter to the Speaker requesting 20 hours for the Bill's third-reading debate and decide that the House should be divided during both the consideration stage and the third reading. The final page records instructions to clear overdue party contributions, a warning that members in arrears would not be nominated to parliamentary committees, and a request to N. Dandekar to complete the audit of party accounts.
 ---
 
+## Summary
+
+These two pages reproduce minutes of a Swatantra Party Parliamentary Office meeting held in Parliament House, New Delhi, on 15 April 1965. Chaired by Prof. N. G. Ranga, the meeting addressed parliamentary discipline, the status of Bihar members, speaking assignments, and the Party's strategy for the Finance Bill. Members were instructed to occupy only their allotted seats and not allow members of other parties to use them. The meeting also recorded a decision that Bihar members could return as associate or full members only with permission from the National Executive and after expressing regret in writing.
+
+The minutes assign speakers for the Kerala Proclamation, Kerala Demands, and the general discussion of the Finance Bill. They call for a letter to the Speaker requesting 20 hours for the Bill's third-reading debate and decide that the House should be divided during both the consideration stage and the third reading. The final page records instructions to clear overdue party contributions, a warning that members in arrears would not be nominated to parliamentary committees, and a request to N. Dandekar to complete the audit of party accounts.
+
 ## Key points
 
 - The meeting was held by the Swatantra Party Parliamentary Office on 15 April 1965 in Parliament House, New Delhi.

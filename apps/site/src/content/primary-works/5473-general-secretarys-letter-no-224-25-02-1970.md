@@ -53,6 +53,12 @@ summary: |-
   The enclosed note argues that higher railway charges will increase the prices of everyday goods, placing the burden on ordinary consumers. It juxtaposes press quotations and preliminary comments by Swatantra Party leaders and MPs with a call for party workers to mobilise consumers and commuters, organise protest meetings and rallies, and launch a signature campaign addressed to the Railway Minister. The document frames the Railway Budget as evidence of inefficient and inflationary government policy, and attacks its presentation as “socialism.”
 ---
 
+## Summary
+
+Dated February 25, 1970, General Secretary R. C. Cooper's letter to Swatantra Party workers condemns the Railway Budget introduced in the Lok Sabha two days earlier. It characterizes the budget as an anti-people measure that raises passenger fares and freight rates, and calls for nationwide public meetings, protests, and demands for reduced fares. The letter encloses a two-page briefing note, “The Railway Budget—What It Means to the Common Man,” which translates the proposed increases into examples for third-class, first-class, season-ticket, platform-ticket, and goods traffic users.
+
+The enclosed note argues that higher railway charges will increase the prices of everyday goods, placing the burden on ordinary consumers. It juxtaposes press quotations and preliminary comments by Swatantra Party leaders and MPs with a call for party workers to mobilise consumers and commuters, organise protest meetings and rallies, and launch a signature campaign addressed to the Railway Minister. The document frames the Railway Budget as evidence of inefficient and inflationary government policy, and attacks its presentation as “socialism.”
+
 ## Key points
 
 - The Swatantra Party presents the February 1970 Railway Budget as the worst-ever budget and an anti-people measure.

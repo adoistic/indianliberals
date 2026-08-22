@@ -54,6 +54,12 @@ summary: |-
   The letter presents supporting organisational and legal claims: a General Council meeting at Madras on 8 December 1974 elected G. K. Sundaram as President, Girish Munshi as General Secretary, and Srikumar as Joint Secretary; the party headquarters had been shifted to Egmore; and a civil suit in the Sixth City Civil Court, Madras, had resulted in a decree in the party’s favour. Srikumar further contends that Piloo Mody, described as both the former Swatantra Party President and the BLD’s present General Secretary, lacked authority to represent the Swatantra Party before the Election Commission. The document is complete as rendered; it does not include the attached plaint or any material beyond the letter itself.
 ---
 
+## Summary
+
+This two-page letter, dated 2 January 1975 and signed by V. S. Srikumar as Joint Secretary of the All India Swatantra Party, asks the Election Commission of India not to freeze or reallocate the party’s “STAR” election symbol to the BLD. Srikumar argues that the Swatantra Party remains active across India despite defections by some members, and that a purported National Convention resolution to dissolve or merge the party was constitutionally invalid and legally non-binding.
+
+The letter presents supporting organisational and legal claims: a General Council meeting at Madras on 8 December 1974 elected G. K. Sundaram as President, Girish Munshi as General Secretary, and Srikumar as Joint Secretary; the party headquarters had been shifted to Egmore; and a civil suit in the Sixth City Civil Court, Madras, had resulted in a decree in the party’s favour. Srikumar further contends that Piloo Mody, described as both the former Swatantra Party President and the BLD’s present General Secretary, lacked authority to represent the Swatantra Party before the Election Commission. The document is complete as rendered; it does not include the attached plaint or any material beyond the letter itself.
+
 ## Key points
 
 - Srikumar asks the Election Commission not to freeze or allot the Swatantra Party’s “STAR” symbol to the BLD.

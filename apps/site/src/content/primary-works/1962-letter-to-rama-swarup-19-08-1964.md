@@ -48,6 +48,12 @@ summary: |-
   The proposed conference agenda centers on deterring Communist expansion in Southeast Asia, exploiting the Moscow–Peking rift, enforcing the embargo against the Chinese Communist regime, consolidating cooperation among free nations in Asia and Africa, and supporting captive nations seeking independence and freedom. The letter also outlines four conference committees, limits delegations to five delegates and two aides, specifies English and French as working languages, and offers logistical assistance with travel, accommodation, transportation, and visas.
 ---
 
+## Summary
+
+This two-page letter, dated August 19, 1964, was sent by Ku Cheng-kang, President of the Asian Peoples' Anti-Communist League's China Chapter, to Rama Swarup in New Delhi. It announces that the Tenth APACL Conference will be held in Taipei from November 23 to 27, followed by a three-day visiting programme, and invites a delegation from the Indian chapter.
+
+The proposed conference agenda centers on deterring Communist expansion in Southeast Asia, exploiting the Moscow–Peking rift, enforcing the embargo against the Chinese Communist regime, consolidating cooperation among free nations in Asia and Africa, and supporting captive nations seeking independence and freedom. The letter also outlines four conference committees, limits delegations to five delegates and two aides, specifies English and French as working languages, and offers logistical assistance with travel, accommodation, transportation, and visas.
+
 ## Key points
 
 - The Tenth APACL Conference was scheduled for November 23–27, 1964, in Taipei, followed by a three-day visiting programme.

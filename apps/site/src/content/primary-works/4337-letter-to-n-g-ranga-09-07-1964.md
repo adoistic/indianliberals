@@ -49,6 +49,12 @@ summary: |-
   The letter also concerns the expansion and organisation of the party. It reports that several workers and sympathisers questioned whether the party should assume responsibility for the Kashmir issue, which the writer says ought to remain with the Government. The writer relays Jaideep Singh Baria’s proposal concerning Madhya Pradesh, where 15 to 19 independent MLAs were reportedly willing to join the party, and asks the recipient to write to Rewa and other sympathisers to help establish a foothold in the state. The document is a typed “true copy” signed by N. G. Ranga.
 ---
 
+## Summary
+
+This one-page letter, dated 9 July 1964 from Camp Nidubrolu, is addressed to “Raja jee” and reports on the sender’s recent meetings with party workers in Dohad, Gujarat, and Hyderabad. The writer describes discussions of the Kashmir issue, Pakistan, and a proposed “friendship with Pakistan,” noting that the Dohad group ultimately agreed to make the “Madras resolution” public, though with some hesitation. Minoo Masani is described as having urged workers to approach the issue rationally and without emotion.
+
+The letter also concerns the expansion and organisation of the party. It reports that several workers and sympathisers questioned whether the party should assume responsibility for the Kashmir issue, which the writer says ought to remain with the Government. The writer relays Jaideep Singh Baria’s proposal concerning Madhya Pradesh, where 15 to 19 independent MLAs were reportedly willing to join the party, and asks the recipient to write to Rewa and other sympathisers to help establish a foothold in the state. The document is a typed “true copy” signed by N. G. Ranga.
+
 ## Key points
 
 - The letter is dated 9 July 1964 and was sent from Camp Nidubrolu.

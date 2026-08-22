@@ -43,6 +43,10 @@ summary: |-
   This two-page English-language PDF contains two related administrative letters dated July 25, 1974, concerning the transfer and registration of a Jeep bearing registration number MRG 2350. In the first letter, V. P. Bhatia, identified as Executive Secretary, asks Canara Banking Corporation to investigate the vehicle’s transfer from Central Stores, Mercera, to Mr. P. Purshottam Pai and to provide the new registration number. The letter refers to earlier correspondence dated September 28, 1971, and October 4, 1971.
 ---
 
+## Summary
+
+This two-page English-language PDF contains two related administrative letters dated July 25, 1974, concerning the transfer and registration of a Jeep bearing registration number MRG 2350. In the first letter, V. P. Bhatia, identified as Executive Secretary, asks Canara Banking Corporation to investigate the vehicle’s transfer from Central Stores, Mercera, to Mr. P. Purshottam Pai and to provide the new registration number. The letter refers to earlier correspondence dated September 28, 1971, and October 4, 1971.
+
 ## Key points
 
 - The PDF contains two separate letters, both dated July 25, 1974.

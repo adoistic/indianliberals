@@ -58,6 +58,12 @@ summary: |-
   In the rendered pages, the petition distinguishes the 42nd Constitutional Amendment’s addition of “socialist” to the Preamble from the statutory requirement imposed on political parties. It accepts allegiance to democracy, secularism, the Constitution and India’s territorial integrity, but rejects compulsory allegiance to an undefined socialist principle. The petition surveys multiple traditions described as socialist, contrasts collective decision-making with the market mechanism, and argues that non-socialist citizens must be able to organise as political parties and contest elections without resorting to false declarations. The rendered pages also include the filing’s requested remedies and the beginning of Exhibit A, the Swatantra Party’s 1960 policy statement; the later exhibits and affidavit are not visible.
 ---
 
+## Summary
+
+In the rendered pages, the petitioners—Swatantra Party (Maharashtra) and S. V. Raju, editor of *Freedom First*—challenge Section 29(A)(5) of the Representation of the People Act, 1951. They argue that the provision unlawfully requires political parties seeking registration to declare allegiance to the principle of socialism, even though the term is undefined and the same requirement is not imposed on individual candidates. The petition invokes Articles 14, 19 and 226 of the Constitution and asks the Bombay High Court to strike down the requirement as discriminatory, vague and incompatible with freedom of association, political participation and constitutional rights.
+
+In the rendered pages, the petition distinguishes the 42nd Constitutional Amendment’s addition of “socialist” to the Preamble from the statutory requirement imposed on political parties. It accepts allegiance to democracy, secularism, the Constitution and India’s territorial integrity, but rejects compulsory allegiance to an undefined socialist principle. The petition surveys multiple traditions described as socialist, contrasts collective decision-making with the market mechanism, and argues that non-socialist citizens must be able to organise as political parties and contest elections without resorting to false declarations. The rendered pages also include the filing’s requested remedies and the beginning of Exhibit A, the Swatantra Party’s 1960 policy statement; the later exhibits and affidavit are not visible.
+
 ## Key points
 
 - The petition challenges Section 29(A)(5) of the Representation of the People Act, 1951.

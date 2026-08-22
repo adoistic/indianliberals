@@ -47,6 +47,10 @@ summary: |-
   This single-page English-language events listing from the Times of India, dated 5 May 1999, provides a Mumbai cultural and civic calendar. It groups events under Films, Lectures, Exhibitions, Events, Religious Discourses, Seminars/Workshops, and Miscellaneous, with venues, times, speakers, artists, and programme descriptions.
 ---
 
+## Summary
+
+This single-page English-language events listing from the Times of India, dated 5 May 1999, provides a Mumbai cultural and civic calendar. It groups events under Films, Lectures, Exhibitions, Events, Religious Discourses, Seminars/Workshops, and Miscellaneous, with venues, times, speakers, artists, and programme descriptions.
+
 ## Key points
 
 - The Films section lists a screening of Hindi film 'Humayun', directed by Mehboob Khan, at the National Centre for the Performing Arts.

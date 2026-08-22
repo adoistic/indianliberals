@@ -47,6 +47,12 @@ summary: |-
   The schedule also identifies conference engagements in Bangalore on 6 August and Salem on 11 August, along with periods spent in Delhi on 13 and 14 August. The page includes handwritten annotations and a signature, but no printed author, publisher, or issuing organisation is identified.
 ---
 
+## Summary
+
+“Rajaji's Tour Programme” is a one-page typed schedule for August 1963. It records C. Rajagopalachari's planned travel between Bangalore, Madras, Salem, and Delhi, including departures by mail train, express train, and plane.
+
+The schedule also identifies conference engagements in Bangalore on 6 August and Salem on 11 August, along with periods spent in Delhi on 13 and 14 August. The page includes handwritten annotations and a signature, but no printed author, publisher, or issuing organisation is identified.
+
 ## Key points
 
 - The document is a single-page tour schedule dated August 1963.

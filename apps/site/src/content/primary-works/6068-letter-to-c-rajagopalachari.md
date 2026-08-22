@@ -48,6 +48,10 @@ summary: |-
   This one-page English office communication from Madhu N. Mehta of the Swatantra Party office in Bombay is addressed to C. Rajagopalachari. In clipped telegram-style wording, it conveys that a workers' meeting has been fixed for the twelfth at 8 p.m. at Bhavan, while explicitly marking the message “Not to be telegraphed.” The sheet is dated Bombay, 10 February 1965, and includes a telephone number.
 ---
 
+## Summary
+
+This one-page English office communication from Madhu N. Mehta of the Swatantra Party office in Bombay is addressed to C. Rajagopalachari. In clipped telegram-style wording, it conveys that a workers' meeting has been fixed for the twelfth at 8 p.m. at Bhavan, while explicitly marking the message “Not to be telegraphed.” The sheet is dated Bombay, 10 February 1965, and includes a telephone number.
+
 ## Key points
 
 - The communication is addressed to C. Rajagopalachari at 60, Baslullah Road, Madras-17.

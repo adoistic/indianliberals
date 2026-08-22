@@ -44,6 +44,10 @@ summary: |-
   This single-page English office letter, dated 25 September 1969 and issued from Bombay, records Masani's regret that he cannot join a study tour to Ladakh. It is addressed in the context of the Department of Parliamentary Affairs at Parliament House, New Delhi, and refers to Professor Ranga's letter to the Minister of Eighteenth.
 ---
 
+## Summary
+
+This single-page English office letter, dated 25 September 1969 and issued from Bombay, records Masani's regret that he cannot join a study tour to Ladakh. It is addressed in the context of the Department of Parliamentary Affairs at Parliament House, New Delhi, and refers to Professor Ranga's letter to the Minister of Eighteenth.
+
 ## Key points
 
 - The document is a brief typed office letter dated 25-9-69.

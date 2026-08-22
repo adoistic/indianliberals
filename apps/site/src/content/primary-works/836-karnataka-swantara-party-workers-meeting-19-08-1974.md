@@ -48,6 +48,10 @@ summary: |-
   This single-page English telegram reports that a meeting of Karnataka Swatantra Party workers decided to continue the party and rejected a proposed merger. The message is addressed to M. R. Masani in Bombay and is signed by Nagabhushana Rao. It is presented on an Indian Posts and Telegraphs Department form; the page does not print a title, publication year, or publisher.
 ---
 
+## Summary
+
+This single-page English telegram reports that a meeting of Karnataka Swatantra Party workers decided to continue the party and rejected a proposed merger. The message is addressed to M. R. Masani in Bombay and is signed by Nagabhushana Rao. It is presented on an Indian Posts and Telegraphs Department form; the page does not print a title, publication year, or publisher.
+
 ## Key points
 
 - The document is a one-page typed telegram in English.

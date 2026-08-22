@@ -51,6 +51,10 @@ summary: |-
   This two-page Swatantra Party report addresses an appeal by members claiming to represent the Bihar Unit against decisions taken by the Organisation Sub-Committee and Parliamentary Board. It reconstructs the dispute from an October 1961 award by K. M. Munshi, which divided Bihar for electoral purposes into the Tirhut Division and the rest of Bihar, through subsequent directions issued at Bangalore and Agra to facilitate implementation during the general elections. The report argues that the Parliamentary Board and Organisation Sub-Committee acted within their authority and that the award was a temporary electoral arrangement, later terminated after the elections.
 ---
 
+## Summary
+
+This two-page Swatantra Party report addresses an appeal by members claiming to represent the Bihar Unit against decisions taken by the Organisation Sub-Committee and Parliamentary Board. It reconstructs the dispute from an October 1961 award by K. M. Munshi, which divided Bihar for electoral purposes into the Tirhut Division and the rest of Bihar, through subsequent directions issued at Bangalore and Agra to facilitate implementation during the general elections. The report argues that the Parliamentary Board and Organisation Sub-Committee acted within their authority and that the award was a temporary electoral arrangement, later terminated after the elections.
+
 ## Key points
 
 - The report responds to an appeal concerning the organisation of the Swatantra Party's Bihar Unit.

@@ -49,6 +49,12 @@ summary: |-
   The page also provides a longer list of executive members, including C. Rajagopalachari, H. M. Patel, Minoo Masani, and other regional and national party figures. No author, publication year, place of publication, explanatory introduction, or information about the executive's activities is provided; the document is limited to identifying office-holders and members.
 ---
 
+## Summary
+
+This single-page English administrative document, issued under the Swatantra Party masthead, records the party's newly elected National Executive for the period 1967–69. It identifies Prof. N. G. Ranga as president; lists five vice-presidents, including Dr. K. M. Munshi, Prof. M. R. Masani, and Smt. Gayatri Devi; names N. Dandekar as general secretary; and records four joint secretaries and two treasurers.
+
+The page also provides a longer list of executive members, including C. Rajagopalachari, H. M. Patel, Minoo Masani, and other regional and national party figures. No author, publication year, place of publication, explanatory introduction, or information about the executive's activities is provided; the document is limited to identifying office-holders and members.
+
 ## Key points
 
 - The document is a one-page Swatantra Party list of its newly elected National Executive for 1967–69.

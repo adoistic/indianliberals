@@ -46,6 +46,10 @@ summary: |-
   This one-page English letter from the Lok Sabha Secretariat’s Question Branch, dated 24 November 1967, informs Minoo Masani, M.P., that his Starred Question No. 270-A concerning the nomination of a High Commissioner-designate to the United Kingdom has been included in the supplementary list for oral answer on 27 November 1967. The letter states that it will be the first question on that day and that Masani will be called upon to ask it.
 ---
 
+## Summary
+
+This one-page English letter from the Lok Sabha Secretariat’s Question Branch, dated 24 November 1967, informs Minoo Masani, M.P., that his Starred Question No. 270-A concerning the nomination of a High Commissioner-designate to the United Kingdom has been included in the supplementary list for oral answer on 27 November 1967. The letter states that it will be the first question on that day and that Masani will be called upon to ask it.
+
 ## Key points
 
 - The letter was issued by the Lok Sabha Secretariat’s Question Branch in Parliament House, New Delhi-1.

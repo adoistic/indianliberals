@@ -49,6 +49,12 @@ summary: |-
   Patel asks the party secretary to convene the Regional Committee to elect a new president in his place. He cites declining health and the need to prepare for the 1967 elections, arguing that a new president should assume control early enough to manage the party's activities. He also states that he will cease to serve on the G.O.C., C.O.C., and Parliamentary Board, while remaining available to provide guidance and directing further correspondence to the party secretary until his successor is appointed.
 ---
 
+## Summary
+
+In this letter dated 30 May 1963 from Vallabh Vidyanagar, B. D. Patel writes to Minoo Masani to announce his retirement from active political work upon reaching the age of 75 on 7 June. He explains that he had postponed the announcement while the Gujarat Swatantra Party contested two by-elections, but now considers retirement possible after victories in both constituencies.
+
+Patel asks the party secretary to convene the Regional Committee to elect a new president in his place. He cites declining health and the need to prepare for the 1967 elections, arguing that a new president should assume control early enough to manage the party's activities. He also states that he will cease to serve on the G.O.C., C.O.C., and Parliamentary Board, while remaining available to provide guidance and directing further correspondence to the party secretary until his successor is appointed.
+
 ## Key points
 
 - B. D. Patel announces his retirement from active work at age 75.

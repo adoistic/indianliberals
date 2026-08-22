@@ -55,6 +55,12 @@ summary: |-
   The Board discussed the functioning of the party's Parliamentary Group, advising that the General Secretary's election to the Lok Sabha should make him Senior Deputy Leader, with P. K. Deo as Junior Deputy Leader. It also considered Prof. N. G. Ranga's seating arrangements in the Lok Sabha, the possibility of a parliamentary no-confidence motion, opposition to the Constitution (17th Amendment) Bill, simultaneous candidacies for Panchayat and legislative elections, and approval of a Rs. 30,000 election account contribution for the Himachal Pradesh unit.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Parliamentary Board meeting held at Kaiki Building, Madras, on 3 August 1963. The document lists the members present, confirms the minutes of the April meeting, and records a report by R. N. Singh Deo concerning his acceptance and subsequent withdrawal from an assignment offered by the Orissa Chief Minister to inquire into corruption allegations against the Deputy Chief Minister of Orissa.
+
+The Board discussed the functioning of the party's Parliamentary Group, advising that the General Secretary's election to the Lok Sabha should make him Senior Deputy Leader, with P. K. Deo as Junior Deputy Leader. It also considered Prof. N. G. Ranga's seating arrangements in the Lok Sabha, the possibility of a parliamentary no-confidence motion, opposition to the Constitution (17th Amendment) Bill, simultaneous candidacies for Panchayat and legislative elections, and approval of a Rs. 30,000 election account contribution for the Himachal Pradesh unit.
+
 ## Key points
 
 - The minutes concern a Swatantra Party Parliamentary Board meeting held in Madras on 3 August 1963.

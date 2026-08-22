@@ -53,6 +53,12 @@ summary: |-
   The minutes also discuss a proposed parliamentary delegation to Mazar-i-Sharif, coordination with Jan Sangh, SSP, and PSP delegations, committee nominations, the selection of parliamentary speakers, and the responsibilities of whips and secretaries. The final section, headed "Secretaries," records members' speaking preferences on ministry demands and tabulates areas of broad agreement or excessive demand, including Home, External Affairs, Defence, Planning, Food and Agriculture, Commerce, and Communications. The document concludes by restating that members may raise questions and motions independently but should consult the party before moving policy-related bills.
 ---
 
+## Summary
+
+These minutes, issued by the Swatantra Party Parliamentary Office on July 10, 1967, record a General Body meeting held in Parliament House, New Delhi, on July 7. The document lists twenty members present and addresses internal party discipline, including advance notice of absences, the regular scheduling of General Body meetings, and the handling of members who miss meetings without informing the party.
+
+The minutes also discuss a proposed parliamentary delegation to Mazar-i-Sharif, coordination with Jan Sangh, SSP, and PSP delegations, committee nominations, the selection of parliamentary speakers, and the responsibilities of whips and secretaries. The final section, headed "Secretaries," records members' speaking preferences on ministry demands and tabulates areas of broad agreement or excessive demand, including Home, External Affairs, Defence, Planning, Food and Agriculture, Commerce, and Communications. The document concludes by restating that members may raise questions and motions independently but should consult the party before moving policy-related bills.
+
 ## Key points
 
 - The meeting was held on July 7, 1967, with Prof. N. G. Ranga in the chair and twenty members recorded as present.

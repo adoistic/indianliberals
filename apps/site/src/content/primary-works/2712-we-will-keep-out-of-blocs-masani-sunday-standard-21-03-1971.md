@@ -50,6 +50,12 @@ summary: |-
   The report presents Masani’s criticism of the composition of the new Lok Sabha, which he says does not fairly reflect the popular will because of an electoral system that produces over-representation and under-representation. He argues that proportional representation would be simpler and would better reflect voters’ preferences, and attributes the Congress majority partly to the Front’s decision to contest only some seats. The clipping also reports the election of P. K. Deo as leader of Swatantra’s Lok Sabha group and H. M. Patel as deputy leader, with Piloo Mody as secretary and whip.
 ---
 
+## Summary
+
+This Sunday Standard report records Swatantra Party president M. R. Masani’s decision that the party would not join any parliamentary bloc. Masani says the party will function independently and articulate its own distinctive approach and policies, while leaving open the possibility of a future merger if another party takes the initiative. He also announces that the party’s National Executive and General Council will meet in April to review the results of the recent elections.
+
+The report presents Masani’s criticism of the composition of the new Lok Sabha, which he says does not fairly reflect the popular will because of an electoral system that produces over-representation and under-representation. He argues that proportional representation would be simpler and would better reflect voters’ preferences, and attributes the Congress majority partly to the Front’s decision to contest only some seats. The clipping also reports the election of P. K. Deo as leader of Swatantra’s Lok Sabha group and H. M. Patel as deputy leader, with Piloo Mody as secretary and whip.
+
 ## Key points
 
 - M. R. Masani says the Swatantra Party will not join any parliamentary bloc.

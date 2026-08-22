@@ -47,6 +47,10 @@ summary: |-
   This two-page English-language Swatantra Party Parliamentary Office letter, dated January 27, 1965, is addressed by A. P. Jain to M. R. Masani. It forwards notice of a party meeting scheduled for February 17 and asks Masani to sign and return a Private Member’s Resolution for submission to the Lok Sabha. The letter also discusses arrears of party contributions owed by party members in both Houses of Parliament.
 ---
 
+## Summary
+
+This two-page English-language Swatantra Party Parliamentary Office letter, dated January 27, 1965, is addressed by A. P. Jain to M. R. Masani. It forwards notice of a party meeting scheduled for February 17 and asks Masani to sign and return a Private Member’s Resolution for submission to the Lok Sabha. The letter also discusses arrears of party contributions owed by party members in both Houses of Parliament.
+
 ## Key points
 
 - The letter is dated January 27, 1965, and was issued from the Swatantra Party Parliamentary Office in New Delhi.

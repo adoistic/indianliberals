@@ -53,6 +53,12 @@ summary: |-
   Masani calls for more effective administration of party affairs and presents recent electoral setbacks in Haryana and Rajasthan, together with the party’s Gujarat difficulties, as warnings. He urges the party to restore its credibility by addressing the need for reform, while defending his position that major wrongdoers should not escape punishment even if lesser offenders have been disciplined. The clipping reports that he would continue as Deputy Leader of the Swatantra Group in the Lok Sabha; it does not provide a broader account of the party’s future beyond these remarks.
 ---
 
+## Summary
+
+In this 3 June 1968 report from Madras, M. R. Masani argues that the Swatantra Party’s National Executive acted wrongly in seeking to restore discipline in its Gujarat unit. He says the decision was driven by short-term expediency rather than a considered party policy, and warns that it would arrest the unit’s growth, recoil on the party, and damage it. Masani also says that the General Council had rejected the Executive’s decision by a majority and that he therefore had no alternative but to decline an offer of re-election to the Executive.
+
+Masani calls for more effective administration of party affairs and presents recent electoral setbacks in Haryana and Rajasthan, together with the party’s Gujarat difficulties, as warnings. He urges the party to restore its credibility by addressing the need for reform, while defending his position that major wrongdoers should not escape punishment even if lesser offenders have been disciplined. The clipping reports that he would continue as Deputy Leader of the Swatantra Group in the Lok Sabha; it does not provide a broader account of the party’s future beyond these remarks.
+
 ## Key points
 
 - Masani criticises the National Executive’s decision to intervene in the Swatantra Party’s Gujarat unit.

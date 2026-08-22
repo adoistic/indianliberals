@@ -50,6 +50,12 @@ summary: |-
   Masani presents his resignation as a contribution to organisational renewal rather than a withdrawal from public life. He promises to continue serving the party in Parliament and outside it, spreading its principles through speech and writing. The accompanying press note and letter recommend Mr. N. Landeker, who had been officiating during Masani’s six-month leave as Chairman of the Public Accounts Committee, for election as the next General Secretary. The document engages directly with C. Rajagopalachari (“Rajaji”) and reports Masani’s appeal that Rajaji and the party president not insist on his continuation.
 ---
 
+## Summary
+
+This four-page English archival document, dated November 1–2, 1967, records M. R. Masani’s decision not to seek another term as General Secretary of the Swatantra Party. After seven years in the position, Masani argues that both parliamentary democracies and political parties benefit from changes in leadership. He compares this principle with “job rotation” in enlightened industrial management and says that party administration should not depend on a small number of office-bearers doing nearly all the work.
+
+Masani presents his resignation as a contribution to organisational renewal rather than a withdrawal from public life. He promises to continue serving the party in Parliament and outside it, spreading its principles through speech and writing. The accompanying press note and letter recommend Mr. N. Landeker, who had been officiating during Masani’s six-month leave as Chairman of the Public Accounts Committee, for election as the next General Secretary. The document engages directly with C. Rajagopalachari (“Rajaji”) and reports Masani’s appeal that Rajaji and the party president not insist on his continuation.
+
 ## Key points
 
 - M. R. Masani announces that he wishes to leave the Swatantra Party’s General Secretary position when his seven-year term expires on November 25, 1967.

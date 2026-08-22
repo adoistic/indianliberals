@@ -56,6 +56,12 @@ summary: |-
   The remaining resolutions address party reorganisation, including the revitalisation of state councils and executives, the appointment of state conveners, and the filling of vacancies under the party constitution. The Council supports Jayaprakash Narayan's movement to cleanse public life and authorises coordination with it. It also criticises the Congress government's 13-point programme announced at Narora, describing it as populist, inattentive to production, concentrated on distribution, and an attempt to bypass established forums for addressing national problems.
 ---
 
+## Summary
+
+This two-page office document records nine resolutions adopted by the Swatantra Party's National General Council in Madras on 8 December 1974. The Council declares that the party convention held in New Delhi in August 1974, which proposed dissolving or merging the Swatantra Party with other parties, was illegally convened; it therefore affirms the party's continued existence and its entitlement to its flag, election symbol, assets, and properties. The resolutions also remove members who have joined other parties and fill senior organisational vacancies, electing G. K. Sundaram as president and naming vice-presidents, secretaries, and members of the National Executive Committee.
+
+The remaining resolutions address party reorganisation, including the revitalisation of state councils and executives, the appointment of state conveners, and the filling of vacancies under the party constitution. The Council supports Jayaprakash Narayan's movement to cleanse public life and authorises coordination with it. It also criticises the Congress government's 13-point programme announced at Narora, describing it as populist, inattentive to production, concentrated on distribution, and an attempt to bypass established forums for addressing national problems.
+
 ## Key points
 
 - The Council rejects the August 1974 convention's proposal to dissolve or merge the Swatantra Party as illegal and void.

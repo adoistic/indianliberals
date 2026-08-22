@@ -46,6 +46,12 @@ summary: |-
   Masani also expresses gratitude for Shetty’s personal consideration, saying that it makes political work less arduous. The address identifies Shetty as an advocate and secretary of the Swatantra Party in Hampankatta, Mangalore.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to K. U. Shetty is dated 30 October 1959. Masani acknowledges Shetty’s letter of 28 October and thanks him for sending a cheque for Rs. 240 to cover air travel to and from Mangalore.
+
+Masani also expresses gratitude for Shetty’s personal consideration, saying that it makes political work less arduous. The address identifies Shetty as an advocate and secretary of the Swatantra Party in Hampankatta, Mangalore.
+
 ## Key points
 
 - The letter is dated 30 October 1959.

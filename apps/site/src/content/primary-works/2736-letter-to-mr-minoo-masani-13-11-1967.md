@@ -50,6 +50,12 @@ summary: |-
   The second letter, on Swatantra Party (Punjab) letterhead and dated 12 November 1967, is signed by Basant Singh. It urges Masani to reconsider his decision and argues that the Party has not yet achieved the organisational standard of the Communists and Jana Sangh. Singh proposes retaining Masani as General Secretary while appointing Dandekar as Joint Secretary, dividing organisational responsibilities regionally, and improving the Party's continuous, systematic political work. He presents Masani's leadership as essential to making the Party strong enough to attract and eventually absorb other democratic political parties.
 ---
 
+## Summary
+
+This three-page archival file contains two letters addressed to M. R. Masani in November 1967. In his letter from Bombay House dated 13 November, Piloo Mody acknowledges Masani's resignation as General Secretary of the Swatantra Party, records his appreciation for Masani's organisational work, and expresses confidence that N. Dandekar will succeed him. Mody nevertheless regrets that Masani's influence will be reduced to that of a “guide, philosopher and friend.”
+
+The second letter, on Swatantra Party (Punjab) letterhead and dated 12 November 1967, is signed by Basant Singh. It urges Masani to reconsider his decision and argues that the Party has not yet achieved the organisational standard of the Communists and Jana Sangh. Singh proposes retaining Masani as General Secretary while appointing Dandekar as Joint Secretary, dividing organisational responsibilities regionally, and improving the Party's continuous, systematic political work. He presents Masani's leadership as essential to making the Party strong enough to attract and eventually absorb other democratic political parties.
+
 ## Key points
 
 - Piloo Mody responds to M. R. Masani's resignation as General Secretary of the Swatantra Party.

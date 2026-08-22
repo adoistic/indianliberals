@@ -52,6 +52,12 @@ summary: |-
   Masani urges Patel to frame the issue through the Swatantra Party's commitment to free competition and the international division of labour. India, he argues, can export only by producing efficiently and competing in world markets; reliance on tariff preferences would ultimately be counterproductive. The surviving page records only this exchange and does not include the response or any subsequent discussion.
 ---
 
+## Summary
+
+In this letter dated August 4, 1962, Minoo Masani writes to Dahyabhai V. Patel about Prime Minister Morarji Desai's forthcoming Lok Sabha statement on the European Common Market (E.C.M.). Masani presents the E.C.M. as a major advance in human progress and warns that Communist opposition seeks to preserve a divided world. He also cautions against allowing the Congress Government to blame the E.C.M. for its own failures or to use it as a scapegoat.
+
+Masani urges Patel to frame the issue through the Swatantra Party's commitment to free competition and the international division of labour. India, he argues, can export only by producing efficiently and competing in world markets; reliance on tariff preferences would ultimately be counterproductive. The surviving page records only this exchange and does not include the response or any subsequent discussion.
+
 ## Key points
 
 - The letter concerns Morarji Desai's proposed Lok Sabha statement on the European Common Market.

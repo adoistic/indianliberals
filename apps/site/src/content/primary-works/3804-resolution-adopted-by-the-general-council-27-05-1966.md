@@ -54,6 +54,12 @@ summary: |-
   The resolution distinguishes government-to-government loans from private foreign capital. It criticises state loans as wasteful and inefficient, as exposing India to repayment of both principal and interest, and as carrying political implications. It argues instead that foreign and domestic investment should be encouraged through changes in economic policy, including the abandonment of socialism, removal of unnecessary controls, lower taxation, and an end to inflationary policies. The document also expresses concern that the Congress government is seeking foreign loans and colonial-style government-to-government assistance primarily to sustain its existing economic policies and prolong its tenure in office.
 ---
 
+## Summary
+
+This one-page resolution, adopted by the Swatantra Party General Council on May 27, 1966, reiterates the party’s opposition to large-scale foreign borrowing. It accepts that short-term foreign aid may be necessary to help India recover from what it describes as the economic damage caused by Congress government policies, but argues that extensive aid is dangerously dependent on international peace and can be suspended during conflict, as occurred during hostilities between India and Pakistan.
+
+The resolution distinguishes government-to-government loans from private foreign capital. It criticises state loans as wasteful and inefficient, as exposing India to repayment of both principal and interest, and as carrying political implications. It argues instead that foreign and domestic investment should be encouraged through changes in economic policy, including the abandonment of socialism, removal of unnecessary controls, lower taxation, and an end to inflationary policies. The document also expresses concern that the Congress government is seeking foreign loans and colonial-style government-to-government assistance primarily to sustain its existing economic policies and prolong its tenure in office.
+
 ## Key points
 
 - The Swatantra Party reiterates its opposition to the policy of incurring huge foreign debts.

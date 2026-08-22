@@ -53,6 +53,12 @@ summary: |-
   Munshi framed the conflict as one between democracy and totalitarianism. He rejected the claim that India had achieved freedom through non-violent means alone, arguing that several factors had contributed to independence. Although he acknowledged that defence expenditure had become considerable, he said it had to be increased to meet the Chinese danger. The clipping identifies the source as the Times of India, Bombay, dated 26 June 1963; the original newspaper edition and the reporter's identity are not visible.
 ---
 
+## Summary
+
+This one-page newspaper report records K. M. Munshi's plea that India's emergency should continue because the northern border remained unsettled and China was preparing for possible conflict. Speaking at the Rotary Club of Bombay, Munshi argued that emergency conditions required military preparedness, public acceptance of higher taxes and sacrifices, and restraint from criticising the government for alleged misuse of power while the emergency lasted.
+
+Munshi framed the conflict as one between democracy and totalitarianism. He rejected the claim that India had achieved freedom through non-violent means alone, arguing that several factors had contributed to independence. Although he acknowledged that defence expenditure had become considerable, he said it had to be increased to meet the Chinese danger. The clipping identifies the source as the Times of India, Bombay, dated 26 June 1963; the original newspaper edition and the reporter's identity are not visible.
+
 ## Key points
 
 - K. M. Munshi called for the continuation of the emergency because the northern border was not stabilised.

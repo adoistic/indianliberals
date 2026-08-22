@@ -59,6 +59,10 @@ summary: |-
   In this 1965 address to the Rotary Club of Patiala, Charanjit Rai explains why a businessman who had previously stayed outside active politics decided to join the Opposition. He recalls the hopes surrounding independence, followed by his disappointment with the Congress’s departure from Gandhi’s principles of trusteeship and faith in the people. Rai argues that expanding bureaucratic control diminished individual initiative, encouraged corruption, and placed trade and industry under damaging restrictions.
 ---
 
+## Summary
+
+In this 1965 address to the Rotary Club of Patiala, Charanjit Rai explains why a businessman who had previously stayed outside active politics decided to join the Opposition. He recalls the hopes surrounding independence, followed by his disappointment with the Congress’s departure from Gandhi’s principles of trusteeship and faith in the people. Rai argues that expanding bureaucratic control diminished individual initiative, encouraged corruption, and placed trade and industry under damaging restrictions.
+
 ## Key points
 
 - Rai begins from the contrast between Aristotle’s description of human beings as political animals and the reluctance of Indian business people to enter politics.

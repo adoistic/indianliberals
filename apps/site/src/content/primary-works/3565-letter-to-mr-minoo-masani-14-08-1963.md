@@ -47,6 +47,12 @@ summary: |-
   Khandekar closes by wishing Masani and the Swatantra Party success in their work. The page also contains a handwritten signature, the bracketed typed identification “[K. J. Khandekar],” and a handwritten production note reading “And stamped receipt.”
 ---
 
+## Summary
+
+This one-page letter, dated 14 August 1963, is addressed from Raja Mahal, Bombay, to Minocher R. Masani, General Secretary of the Swatantra Party. K. J. Khandekar acknowledges Masani's letter of 31 July and encloses a cheque for Rs. 100 as a contribution to the party.
+
+Khandekar closes by wishing Masani and the Swatantra Party success in their work. The page also contains a handwritten signature, the bracketed typed identification “[K. J. Khandekar],” and a handwritten production note reading “And stamped receipt.”
+
 ## Key points
 
 - The letter is dated 14 August 1963 and was sent from Raja Mahal, 144 Queen's Road, Fort, Bombay.

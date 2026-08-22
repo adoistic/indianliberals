@@ -60,6 +60,12 @@ summary: |-
   Raju also looks ahead to crucial state elections in Uttar Pradesh and Orissa, arguing that their results could affect the future of Indian democracy. He mentions reading an article by Sen Gupta on communism in India and says he disagrees with parts of it. The file includes Berry’s enclosed 3 June 1973 reply on Liberal Party of Israel letterhead, which praises Masani, discusses the distinction between the Israeli Liberal Party and the Independent Liberal Party, refers to articles on communism in India, and anticipates parliamentary and municipal elections in Israel.
 ---
 
+## Summary
+
+This four-page correspondence file centers on S. V. Raju’s 16 June 1973 letter to Yedidia Berry, written after the Swatantra Party’s national convention. Raju reports that more than 900 delegates from 14 Indian states attended and emphasizes that the party reaffirmed liberal principles rather than yielding to populist pressure, adopting a document titled “Swatantra Restated.” He discusses Minoo Masani’s role at the convention, the party’s effort to resist opportunistic alliances, and the difficult political environment marked by rising prices, deteriorating law and order, and the ruling party’s growing concentration of power.
+
+Raju also looks ahead to crucial state elections in Uttar Pradesh and Orissa, arguing that their results could affect the future of Indian democracy. He mentions reading an article by Sen Gupta on communism in India and says he disagrees with parts of it. The file includes Berry’s enclosed 3 June 1973 reply on Liberal Party of Israel letterhead, which praises Masani, discusses the distinction between the Israeli Liberal Party and the Independent Liberal Party, refers to articles on communism in India, and anticipates parliamentary and municipal elections in Israel.
+
 ## Key points
 
 - Raju reports that over 900 delegates from 14 Indian states attended the Swatantra Party’s national convention.

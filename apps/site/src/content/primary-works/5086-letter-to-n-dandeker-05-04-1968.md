@@ -50,6 +50,12 @@ summary: |-
   The letter presents the proposed meeting as a means of restoring unity within the party and enabling it to work together under the leadership of its senior figures. The printed date field is blank; the page includes handwritten annotations and Shroff’s signature.
 ---
 
+## Summary
+
+This one-page English office letter from Minoo Shroff to N. Dandekar requests an emergency meeting of the Swatantra Party’s General Council. Shroff says the meeting is needed to discuss Minoo Masani’s resignation from the National Executive and Central Parliamentary Board and to determine an appropriate response.
+
+The letter presents the proposed meeting as a means of restoring unity within the party and enabling it to work together under the leadership of its senior figures. The printed date field is blank; the page includes handwritten annotations and Shroff’s signature.
+
 ## Key points
 
 - Minoo Shroff addresses Mr. N. Dandekar, the Swatantra Party’s General Secretary.

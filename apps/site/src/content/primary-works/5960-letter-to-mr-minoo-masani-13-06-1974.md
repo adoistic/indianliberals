@@ -48,6 +48,12 @@ summary: |-
   Deshpande recounts that twenty dacoits surrendered in 1960, were imprisoned and later released, and subsequently undertook constructive work through the Chambal Ghati Shanti Samiti. She urges Masani to amend the article in the interests of truth and fairness, emphasizing that Reader’s Digest reaches millions and should not present an account that excludes what she regards as Vinoba’s essential contribution.
 ---
 
+## Summary
+
+This two-page letter, dated 13 June 1974 and written from Brahmavidya Mandir, Punar, Maharashtra, is addressed to Minoo Masani. Nirmala Deshpande acknowledges Masani’s article on Jayaprakash Narayan in the March 1974 issue of Reader’s Digest, praising its writing while objecting to its omission of Vinoba Bhave’s role in the Bhoodan movement and the Chambal Valley campaign against dacoity. She explains that Vinoba initiated Bhoodan in 1951, that Jayaprakash Narayan joined it in 1953 and offered “Jeevandan” in 1954, and that Vinoba also initiated the campaign encouraging Chambal dacoits to surrender and renounce violence.
+
+Deshpande recounts that twenty dacoits surrendered in 1960, were imprisoned and later released, and subsequently undertook constructive work through the Chambal Ghati Shanti Samiti. She urges Masani to amend the article in the interests of truth and fairness, emphasizing that Reader’s Digest reaches millions and should not present an account that excludes what she regards as Vinoba’s essential contribution.
+
 ## Key points
 
 - The letter responds to Minoo Masani’s article on Jayaprakash Narayan in the March 1974 Reader’s Digest.

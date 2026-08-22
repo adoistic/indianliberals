@@ -47,6 +47,12 @@ summary: |-
   The document is an administrative communication rather than a published argument or authored essay. Its sender, exact date, and some words in the message are obscured by damage, handwriting, and faded or detached text strips.
 ---
 
+## Summary
+
+This single-page English telegram is an Indian Posts and Telegraphs Department form addressed by hand to “Mr Masani Care” at Surajyam, Bombay; the recipient's full identity and the date are not fully legible. The message concerns travel from Rourkela to Bhubaneswar, stating that departure on the morning of the 5th may be arranged, and refers to a letter associated with Harihar Patel.
+
+The document is an administrative communication rather than a published argument or authored essay. Its sender, exact date, and some words in the message are obscured by damage, handwriting, and faded or detached text strips.
+
 ## Key points
 
 - The document is a one-page Indian Posts and Telegraphs Department telegram.

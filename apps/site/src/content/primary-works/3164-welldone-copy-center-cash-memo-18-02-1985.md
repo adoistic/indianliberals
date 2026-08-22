@@ -47,6 +47,12 @@ summary: |-
   The memo lists services including automatic Xeroxing, offset printing, cyclostyling, typing, and jumbo Xeroxing. The recorded charge is for 25 automatic Xerox copies, described as a double-foolscap copy, with labour charges only; the handwritten amount appears to be Rs. 12.50. No author, title, or liberal-intellectual argument appears on the page.
 ---
 
+## Summary
+
+This single-page English cash memo records a commercial copying-service transaction issued by WELLDONE COPY CENTRE in Bombay on 18 February 1985. The receipt is numbered 3164 and gives the business address as 18, B. Bharucha Marg, Fort, Bombay-400 023, with telephone number 27 17 82.
+
+The memo lists services including automatic Xeroxing, offset printing, cyclostyling, typing, and jumbo Xeroxing. The recorded charge is for 25 automatic Xerox copies, described as a double-foolscap copy, with labour charges only; the handwritten amount appears to be Rs. 12.50. No author, title, or liberal-intellectual argument appears on the page.
+
 ## Key points
 
 - The document is a commercial cash memo rather than a conventional authored publication.

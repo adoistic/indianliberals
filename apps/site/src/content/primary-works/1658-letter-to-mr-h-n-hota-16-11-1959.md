@@ -47,6 +47,12 @@ summary: |-
   The writer suggests that Mota take the matter up with Mr. Masani, who is expected to be available at Mota's location during the sittings of Parliament. The letter closes courteously and contains no printed author name or visible signature.
 ---
 
+## Summary
+
+This one-page personal letter, dated 16 November 1959, responds to Mr. H. N. Mota's letter of 6 November. The unnamed writer says they do not know what precise proposals Mota placed before Mr. Shroff, but doubts that meaningful contact can be established between Mota's paper and the Party while the Party's Central Office remains at a considerable distance from Delhi.
+
+The writer suggests that Mota take the matter up with Mr. Masani, who is expected to be available at Mota's location during the sittings of Parliament. The letter closes courteously and contains no printed author name or visible signature.
+
 ## Key points
 
 - The letter is dated 16 November 1959 and addressed to Mr. H. N. Mota.

@@ -53,6 +53,12 @@ summary: |-
   The resolution acknowledges delegates' disappointment at dissolving a party whose principles and policies remain, in its view, valid since their formulation in 1959–1960. It therefore proposes converting the Swatantra Party into a non-party service organisation, the Swatantra Sewa Sangh. The new organisation would pursue educational and constructive activities, avoid electoral and parliamentary activity at Union and State levels, and allow members either to join the proposed new party or to continue advocating Swatantra principles independently. The resolution was proposed by M. R. Masani and seconded by H. K. Subramaniam.
 ---
 
+## Summary
+
+This two-page resolution asks the Swatantra Party's National Convention to approve the party's dissolution in order to facilitate the formation of a new political party. It argues that the proposed successor should continue efforts to bring other major democratic opposition parties into a credible national alternative to the ruling Congress, which the resolution presents as an urgent political need.
+
+The resolution acknowledges delegates' disappointment at dissolving a party whose principles and policies remain, in its view, valid since their formulation in 1959–1960. It therefore proposes converting the Swatantra Party into a non-party service organisation, the Swatantra Sewa Sangh. The new organisation would pursue educational and constructive activities, avoid electoral and parliamentary activity at Union and State levels, and allow members either to join the proposed new party or to continue advocating Swatantra principles independently. The resolution was proposed by M. R. Masani and seconded by H. K. Subramaniam.
+
 ## Key points
 
 - The National Convention is asked to approve the dissolution of the Swatantra Party.

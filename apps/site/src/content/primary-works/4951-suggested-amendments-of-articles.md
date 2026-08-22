@@ -50,6 +50,10 @@ summary: |-
   This one-page English resolution records the All India Civil Liberties Conference’s opposition to proposed amendments to Article 226 and related constitutional provisions. It argues that the proposed changes would curtail or oust the jurisdiction of the courts, particularly the High Courts and Supreme Court, in matters affecting citizens.
 ---
 
+## Summary
+
+This one-page English resolution records the All India Civil Liberties Conference’s opposition to proposed amendments to Article 226 and related constitutional provisions. It argues that the proposed changes would curtail or oust the jurisdiction of the courts, particularly the High Courts and Supreme Court, in matters affecting citizens.
+
 ## Key points
 
 - The resolution objects to proposed amendments to Article 226 of the Constitution.

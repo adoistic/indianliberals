@@ -50,6 +50,12 @@ summary: |-
   The proposed agenda is a minimum programme for joint functioning with Congress (O), Jan Sangh, and the Socialists, along with the possibility of joining a federal grouping of democratic opposition parties that would exclude Congress (R) and the Communists. Srikumar says the proposal had been made officially in June 1974 and informally to Minoo Masani in January 1974, and asks Munshi to consult the other members of the National Executive and report the outcome.
 ---
 
+## Summary
+
+This 19 April 1975 office letter from V. S. Srikumar, Junior Secretary of the Swatantra Party, to Girish Munshi concerns a proposed meeting of opposition-party leaders. Srikumar clarifies that the party president is expected at the Taj Continental on 24 April and asks Munshi to meet him, Paramanand Kejriwal, and Raju for an important discussion.
+
+The proposed agenda is a minimum programme for joint functioning with Congress (O), Jan Sangh, and the Socialists, along with the possibility of joining a federal grouping of democratic opposition parties that would exclude Congress (R) and the Communists. Srikumar says the proposal had been made officially in June 1974 and informally to Minoo Masani in January 1974, and asks Munshi to consult the other members of the National Executive and report the outcome.
+
 ## Key points
 
 - The letter is dated 19 April 1975 and is issued from Swatantra Party National Headquarters in Madras.

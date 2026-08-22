@@ -53,6 +53,12 @@ summary: |-
   Lobo Prabhu's letter is politically candid about the Swatantra Party's electoral difficulties. He argues that its alliance with the Jan Sangh damaged its credibility, especially among voters concerned with secularism, and says he cannot expect to win as a Swatantra candidate in his electorate. He nevertheless reaffirms his belief in the party and discusses Louella's possible independent candidacy in the Surathkal constituency. The attached pages from Insight, edited by Lobo Prabhu, extend these concerns into a broader critique of political opportunism, moral weakness, and the failure of public ethics, particularly in relation to Indira Gandhi and the Bangladesh crisis. The Insight pages also contain an editorial declaration that political and economic ethics should be restored through public opinion.
 ---
 
+## Summary
+
+This four-page English correspondence comprises reciprocal letters exchanged between J. M. Lobo Prabhu in Mangalore and Minoo Masani in May 1971. Masani writes first, expressing relief that Lobo Prabhu's suspected cancer proved unfounded and supporting his decision to step down from the Swatantra Party presidency after the party's General Council meeting in Bombay. Lobo Prabhu replies that he is recovering from surgery but experiencing infections, and says he regrets Masani's resignation while urging him to return to party leadership.
+
+Lobo Prabhu's letter is politically candid about the Swatantra Party's electoral difficulties. He argues that its alliance with the Jan Sangh damaged its credibility, especially among voters concerned with secularism, and says he cannot expect to win as a Swatantra candidate in his electorate. He nevertheless reaffirms his belief in the party and discusses Louella's possible independent candidacy in the Surathkal constituency. The attached pages from Insight, edited by Lobo Prabhu, extend these concerns into a broader critique of political opportunism, moral weakness, and the failure of public ethics, particularly in relation to Indira Gandhi and the Bangladesh crisis. The Insight pages also contain an editorial declaration that political and economic ethics should be restored through public opinion.
+
 ## Key points
 
 - Minoo Masani's 5 May 1971 letter welcomes the news that Lobo Prabhu's suspected cancer was unfounded and supports his resignation from the Swatantra Party presidency.

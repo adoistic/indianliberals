@@ -50,6 +50,12 @@ summary: |-
   The letter also records Masani’s disappointment that those efforts did not result in electoral success. It is a brief piece of post-election correspondence, combining gratitude with an apology for the unsuccessful outcome.
 ---
 
+## Summary
+
+This one-page English letter from M. R. Masani to Ahmed Kassam Koonda is dated 11 March 1971. Masani thanks Koonda for his assistance during an election and acknowledges the effort Koonda made on his behalf.
+
+The letter also records Masani’s disappointment that those efforts did not result in electoral success. It is a brief piece of post-election correspondence, combining gratitude with an apology for the unsuccessful outcome.
+
 ## Key points
 
 - The letter is dated 11 March 1971.

@@ -44,6 +44,10 @@ summary: |-
   This single-page letter, dated 10 November 1970, is from Rev. M. Savino, leader of a 15-member delegation of the Naga Integration Central Council, to Minoo Masani, MP. Writing from New Delhi, Savino explains that the delegation has come to press the demand for integrating contiguous Naga-inhabited areas with Nagaland State.
 ---
 
+## Summary
+
+This single-page letter, dated 10 November 1970, is from Rev. M. Savino, leader of a 15-member delegation of the Naga Integration Central Council, to Minoo Masani, MP. Writing from New Delhi, Savino explains that the delegation has come to press the demand for integrating contiguous Naga-inhabited areas with Nagaland State.
+
 ## Key points
 
 - Rev. M. Savino writes as leader of the Naga Integration Central Council delegation.

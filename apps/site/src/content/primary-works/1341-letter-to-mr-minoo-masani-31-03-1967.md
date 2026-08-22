@@ -46,6 +46,10 @@ summary: |-
   In this letter dated March 31, 1967, N. Sanjiva Reddy, then Speaker of the Lok Sabha, responds to M. R. Masani's proposals for replacing the informal consultative committees attached to ministries with standing committees, and for establishing a General Purposes Committee. Reddy explains that an amendment providing for standing committees has already been introduced by Madhu Limaye and will soon be considered by the Rules Committee.
 ---
 
+## Summary
+
+In this letter dated March 31, 1967, N. Sanjiva Reddy, then Speaker of the Lok Sabha, responds to M. R. Masani's proposals for replacing the informal consultative committees attached to ministries with standing committees, and for establishing a General Purposes Committee. Reddy explains that an amendment providing for standing committees has already been introduced by Madhu Limaye and will soon be considered by the Rules Committee.
+
 ## Key points
 
 - The letter is addressed to M. R. Masani, M.P., and is dated March 31, 1967.

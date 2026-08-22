@@ -52,6 +52,12 @@ summary: |-
   Masani identifies two procedural questions: whether the State President had authority to suspend a party member in anticipation of action by the State Executive Committee, and whether a suspension made provisionally would deprive a General Council member of the seat to which the Centre nominated him while the matter remained pending and before he had a right of appeal. He stresses that the case could establish an important precedent, comparing it with the possible suspension of Murarji Vaidya as President of the Bombay unit. The letter is addressed to C. Rajagopalachari and Prof. N. G. Ranga and requests an immediate reply because notices must soon be issued.
 ---
 
+## Summary
+
+In this letter dated 12 June 1964, Minoo Masani asks for guidance on whether notice of a General Council meeting should be sent to Janki Nandan Singh, a Bihar member who has been suspended by the Raja of Ramgarh for allegedly creating schism and repeatedly ignoring party discipline. Masani notes that the relevant State Executive Committee has apparently not yet decided whether to expel Singh.
+
+Masani identifies two procedural questions: whether the State President had authority to suspend a party member in anticipation of action by the State Executive Committee, and whether a suspension made provisionally would deprive a General Council member of the seat to which the Centre nominated him while the matter remained pending and before he had a right of appeal. He stresses that the case could establish an important precedent, comparing it with the possible suspension of Murarji Vaidya as President of the Bombay unit. The letter is addressed to C. Rajagopalachari and Prof. N. G. Ranga and requests an immediate reply because notices must soon be issued.
+
 ## Key points
 
 - Masani seeks urgent advice about sending General Council meeting notice to suspended member Janki Nandan Singh.

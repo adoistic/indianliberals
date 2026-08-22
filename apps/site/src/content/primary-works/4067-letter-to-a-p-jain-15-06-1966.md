@@ -47,6 +47,10 @@ summary: |-
   This two-page English telegram record, dated 15 June 1966, was issued from the Swatantra Party Parliamentary Office in New Delhi under the name A P Jain. The message asks the recipient to confirm “RANGA” and states that the sender will meet the Prime Minister on 22 June at 5 p.m.; it also notes that Ranga has been informed.
 ---
 
+## Summary
+
+This two-page English telegram record, dated 15 June 1966, was issued from the Swatantra Party Parliamentary Office in New Delhi under the name A P Jain. The message asks the recipient to confirm “RANGA” and states that the sender will meet the Prime Minister on 22 June at 5 p.m.; it also notes that Ranga has been informed.
+
 ## Key points
 
 - The document is a telegram and confirmation copy rather than a conventional letter.

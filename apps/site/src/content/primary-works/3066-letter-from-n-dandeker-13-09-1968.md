@@ -52,6 +52,10 @@ summary: |-
   This untitled Swatantra Party letter, dated September 13, 1968, records N. Dandekar’s response to a proposal by Mr. C. C. Desai to introduce a constitutional amendment abolishing the President’s and Governors’ powers to nominate members to the Rajya Sabha and Vidhan Parishads. Dandekar states that the Central Parliamentary Board has approved the proposal in principle and asks Desai to submit a final draft limited to the stated objects, with no new questions of principle or policy.
 ---
 
+## Summary
+
+This untitled Swatantra Party letter, dated September 13, 1968, records N. Dandekar’s response to a proposal by Mr. C. C. Desai to introduce a constitutional amendment abolishing the President’s and Governors’ powers to nominate members to the Rajya Sabha and Vidhan Parishads. Dandekar states that the Central Parliamentary Board has approved the proposal in principle and asks Desai to submit a final draft limited to the stated objects, with no new questions of principle or policy.
+
 ## Key points
 
 - The letter refers to Desai’s earlier correspondence of August 22, 27, and 31, 1968.

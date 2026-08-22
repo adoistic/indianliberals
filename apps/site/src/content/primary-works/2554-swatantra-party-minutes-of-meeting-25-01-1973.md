@@ -52,6 +52,12 @@ summary: |-
   The meeting considered whether the party should sponsor a civic group for the forthcoming municipal elections. After discussion, the members unanimously resolved to establish a “Swatantra Civic Group” open both to Swatantra Party members and to others willing to subscribe to its manifesto. Candidates contesting under the group’s auspices would use the Swatantra symbol, and the group would be headed by Dr. Simon Fernandes, identified as the party’s leader in the Corporation.
 ---
 
+## Summary
+
+These minutes record a special executive meeting of the Swatantra Party held at the Party Office on Thursday the 25th, 1973; the month is not printed. Madhu Mehta chaired the meeting, which was attended by party officials and members, including Simon Fernandes, Shantilal Thar, J. Venkateswaran, Pramod Tejookaya, Dhiraj Shah, and invited participant Shantilal Popat.
+
+The meeting considered whether the party should sponsor a civic group for the forthcoming municipal elections. After discussion, the members unanimously resolved to establish a “Swatantra Civic Group” open both to Swatantra Party members and to others willing to subscribe to its manifesto. Candidates contesting under the group’s auspices would use the Swatantra symbol, and the group would be headed by Dr. Simon Fernandes, identified as the party’s leader in the Corporation.
+
 ## Key points
 
 - The document is the minutes of a Swatantra Party special executive meeting held at the Party Office in 1973.

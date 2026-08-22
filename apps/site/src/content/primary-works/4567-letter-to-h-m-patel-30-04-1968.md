@@ -50,6 +50,12 @@ summary: |-
   Dandekar says that, because of the seriousness of the findings, the President of the Gujarat State Unit should review the report with the State Executive and submit recommendations concerning disciplinary action to the National Executive. He requests a report before the National Executive's next meeting at the end of May 1968. The document is a single-page typed office letter dated April 30, 1968, on Swatantra Party Central Office letterhead.
 ---
 
+## Summary
+
+This letter from N. Dandekar, General Secretary of the Swatantra Party, to H. M. Patel reports the findings of an inquiry into alleged anti-Party activities by Bhagwanjibhai Patel. The Gujarat State Unit's Inquiry Committee concluded that Bhagwanjibhai Patel had worked against M. R. Masani, then the Party's General Secretary and its candidate from the Rajkot Parliamentary Constituency in the 1967 general elections.
+
+Dandekar says that, because of the seriousness of the findings, the President of the Gujarat State Unit should review the report with the State Executive and submit recommendations concerning disciplinary action to the National Executive. He requests a report before the National Executive's next meeting at the end of May 1968. The document is a single-page typed office letter dated April 30, 1968, on Swatantra Party Central Office letterhead.
+
 ## Key points
 
 - The letter reports the Gujarat State Unit's inquiry into alleged anti-Party activities by Bhagwanjibhai Patel.

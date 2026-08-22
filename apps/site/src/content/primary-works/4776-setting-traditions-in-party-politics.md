@@ -56,6 +56,12 @@ summary: |-
   In the rendered pages, Raju illustrates these traditions through Swatantra’s approach to trade unions, the party’s “21st Principle,” legislative accountability, bipartisan action on rupee devaluation, opposition to the abolition of privy purses, and standards of party-government relations. Rajaji is portrayed as a demanding institutionalist who opposed political stunts, insisted that elected legislators remain inside the legislature, and required party members to exercise conscience on issues outside the party’s prescribed principles. The pages also engage with assessments by Minoo Masani, Nani Palkhivala, B. R. Shenoy, and others, while placing Rajaji’s later career against the Congress dominance of the period.
 ---
 
+## Summary
+
+In the rendered pages, S. V. Raju presents C. Rajagopalachari’s final political phase through the founding and practice of the Swatantra Party. Drawing on his own experience as the party’s Central Office Secretary, Raju argues that Rajaji was not simply a disappointed former office-holder: he deliberately sought to create a party that opposed socialism, defended individual judgment, and treated political power as a means rather than an end. The account stresses Rajaji’s intellectual independence, his insistence that the party should educate the public, and his willingness to take unpopular positions on economic policy and constitutional principle.
+
+In the rendered pages, Raju illustrates these traditions through Swatantra’s approach to trade unions, the party’s “21st Principle,” legislative accountability, bipartisan action on rupee devaluation, opposition to the abolition of privy purses, and standards of party-government relations. Rajaji is portrayed as a demanding institutionalist who opposed political stunts, insisted that elected legislators remain inside the legislature, and required party members to exercise conscience on issues outside the party’s prescribed principles. The pages also engage with assessments by Minoo Masani, Nani Palkhivala, B. R. Shenoy, and others, while placing Rajaji’s later career against the Congress dominance of the period.
+
 ## Key points
 
 - Raju treats Rajaji’s political life after 1959 as an important and neglected final phase.

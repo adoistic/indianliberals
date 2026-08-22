@@ -48,6 +48,12 @@ summary: |-
   The message expresses shock and disappointment at Vaidya’s decision, arguing that it has destroyed the sender’s remaining faith in the presence of public figures who value friendship and honour. It closes as an appeal from an admirer: the sender asks Vaidya not to be influenced by interested people into working against someone he has always said he loved. The document is physically a typed telegram, with “STOP” markers, an address block, and the instruction “Not to be telegraphed.”
 ---
 
+## Summary
+
+This one-page English telegram confirmatory copy, dated February 1, 1971, is signed “RAJU” and addressed to Babubhai P. Vaidya in Rajkot. The sender says that, despite press reports, they had not believed Vaidya was filing a nomination against Masani, but personally checked with him on his return from Rajkot and found the reports correct.
+
+The message expresses shock and disappointment at Vaidya’s decision, arguing that it has destroyed the sender’s remaining faith in the presence of public figures who value friendship and honour. It closes as an appeal from an admirer: the sender asks Vaidya not to be influenced by interested people into working against someone he has always said he loved. The document is physically a typed telegram, with “STOP” markers, an address block, and the instruction “Not to be telegraphed.”
+
 ## Key points
 
 - The document is a one-page typed telegram confirmatory copy dated February 1, 1971.

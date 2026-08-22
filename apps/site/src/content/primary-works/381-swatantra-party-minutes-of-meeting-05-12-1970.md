@@ -53,6 +53,12 @@ summary: |-
   The minutes also record concern about double voting during discussion of the Constitution (24th Amendment) Bill. Party leaders called for appropriate punishment by the Speaker and resolved to oppose any government-backed attempt to alter the existing voting procedure for constitutional-amendment bills. Finally, Minoo Masani reported talks with leaders of other parties about forming a common bloc in Parliament.
 ---
 
+## Summary
+
+These minutes record a Swatantra Party General Body meeting held at Parliament House, New Delhi, on 5 December 1970. The meeting briefly considered referring the Mysore–Maharashtra dispute to a Parliamentary Committee and reviewed the Speaker’s handling of privilege motions concerning members allegedly assaulted or harassed by the police. Members decided that the concerned member should be allowed to make a statement before the Speaker determined what action to take.
+
+The minutes also record concern about double voting during discussion of the Constitution (24th Amendment) Bill. Party leaders called for appropriate punishment by the Speaker and resolved to oppose any government-backed attempt to alter the existing voting procedure for constitutional-amendment bills. Finally, Minoo Masani reported talks with leaders of other parties about forming a common bloc in Parliament.
+
 ## Key points
 
 - The Swatantra Party General Body met at Parliament House on 5 December 1970.

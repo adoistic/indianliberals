@@ -55,6 +55,12 @@ summary: |-
   The letter nevertheless argues that Parliament cannot ignore reports of abnormal conditions in Naxalbari, including violence, fear, deaths among Adivasis, and the involvement of landless people, tea-garden workers, peasants, and share-croppers. It presents the area as both socially troubled and strategically important because it links northeastern India to the rest of the country. The proposed delegation would report its findings to Parliament, help the state government initiate corrective action, and potentially reduce pressure for intervention under the Constitution’s Emergency provisions.
 ---
 
+## Summary
+
+This two-page letter, dated June 19, 1967, is addressed to West Bengal Chief Minister Ajoy Mukherjee and signed by a cross-party group of Members of Parliament. The signatories ask Mukherjee to reconsider his opposition to a representative parliamentary mission to Naxalbari in North Bengal, explaining that the proposal was intended as a fact-finding visit rather than an inquiry, investigation, or political intervention. They stress that Parliament has no intention of encroaching on the legislative or executive powers of the state government and that the mission would operate with the state’s cooperation.
+
+The letter nevertheless argues that Parliament cannot ignore reports of abnormal conditions in Naxalbari, including violence, fear, deaths among Adivasis, and the involvement of landless people, tea-garden workers, peasants, and share-croppers. It presents the area as both socially troubled and strategically important because it links northeastern India to the rest of the country. The proposed delegation would report its findings to Parliament, help the state government initiate corrective action, and potentially reduce pressure for intervention under the Constitution’s Emergency provisions.
+
 ## Key points
 
 - The signatories ask Ajoy Mukherjee to permit a representative parliamentary fact-finding mission to Naxalbari.

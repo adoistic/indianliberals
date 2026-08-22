@@ -49,6 +49,10 @@ summary: |-
   This one-page letter, dated Bombay, 4 July 1974, is addressed to the Executive Secretary of the Swatantra Party. Five members of the Party’s General Council urge that a Council meeting be scheduled before the National Convention planned for Delhi on 4–5 August 1974. They depart from the usual practice of holding the General Council meeting before the Convention, noting that no such meeting had been proposed this time.
 ---
 
+## Summary
+
+This one-page letter, dated Bombay, 4 July 1974, is addressed to the Executive Secretary of the Swatantra Party. Five members of the Party’s General Council urge that a Council meeting be scheduled before the National Convention planned for Delhi on 4–5 August 1974. They depart from the usual practice of holding the General Council meeting before the Convention, noting that no such meeting had been proposed this time.
+
 ## Key points
 
 - The letter was sent from Bombay on 4 July 1974 to the Swatantra Party’s Executive Secretary.

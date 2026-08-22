@@ -45,6 +45,12 @@ summary: |-
   The document is a brief expression of professional courtesy and appreciation rather than an argumentative or political text. It is marked “PERSONAL” and contains no title, publication imprint, or discussion of liberal ideas.
 ---
 
+## Summary
+
+This one-page personal letter from M. R. Masani, dated January 2, 1970, thanks Col. H. R. Pasricha and his colleagues in Delhi for the support they gave Masani in Madras. Masani explains that he was unable to meet the other Delhi colleagues because of limited time and asks Pasricha to convey his gratitude to them, with particular thanks to the General Secretary, Mr. M. R. Arya.
+
+The document is a brief expression of professional courtesy and appreciation rather than an argumentative or political text. It is marked “PERSONAL” and contains no title, publication imprint, or discussion of liberal ideas.
+
 ## Key points
 
 - The letter is dated January 2, 1970.

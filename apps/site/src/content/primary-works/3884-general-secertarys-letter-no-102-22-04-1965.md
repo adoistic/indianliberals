@@ -49,6 +49,10 @@ summary: |-
   Dated April 22, 1965, this General Secretary's Letter No. 102 from the Swatantra Party Central Office presses party units to respond to an earlier request concerning the prioritisation of parliamentary constituencies. M. R. Masani asks each unit to prepare, through its State Parliamentary Board, a ranked list of constituencies and to provide reasons for their inclusion.
 ---
 
+## Summary
+
+Dated April 22, 1965, this General Secretary's Letter No. 102 from the Swatantra Party Central Office presses party units to respond to an earlier request concerning the prioritisation of parliamentary constituencies. M. R. Masani asks each unit to prepare, through its State Parliamentary Board, a ranked list of constituencies and to provide reasons for their inclusion.
+
 ## Key points
 
 - Masani notes that no party unit has yet responded to the request made in General Secretary's Letter No. 97.

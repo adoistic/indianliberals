@@ -50,6 +50,12 @@ summary: |-
   The report says M. R. Masani communicated his dissatisfaction to the party's general secretary, M. R. Masani, and to members of the general council, while the party high command was reluctant to take precipitate disciplinary action against the Gujarat rebels. It also reports that K. M. Munshi had threatened to leave the party if the legislators were expelled. The clipping is attributed to P.T.I.; no named author or issue details are printed.
 ---
 
+## Summary
+
+This one-page Times of India news report, datelined New Delhi, May 29, describes an attempt by C. Rajagopalachari to repair a widening split in the Swatantra Party. The immediate dispute followed the defeat of the party's official candidate in the biennial Rajya Sabha elections by 32 Gujarat Swatantra legislators, who then reportedly challenged the party leadership's authority.
+
+The report says M. R. Masani communicated his dissatisfaction to the party's general secretary, M. R. Masani, and to members of the general council, while the party high command was reluctant to take precipitate disciplinary action against the Gujarat rebels. It also reports that K. M. Munshi had threatened to leave the party if the legislators were expelled. The clipping is attributed to P.T.I.; no named author or issue details are printed.
+
 ## Key points
 
 - C. Rajagopalachari was expected to attempt to reconcile factions within the Swatantra Party.

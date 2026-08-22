@@ -49,6 +49,12 @@ summary: |-
   The particulars section lists automatic xerox, offset printing, cyclostyling, typing, and jumbo xerox services. The visible handwritten entry records “AUTOMATIC XEROX” with an amount of Rs. 25 and 12 paise, while the lower total appears as Rs. 12.50, suggesting that the page may record a labour charge or an additional calculation that is not fully clear from the image. No author, title, recipient, or conventional publication content is present; this is an administrative commercial record rather than a published work.
 ---
 
+## Summary
+
+This single-page English cash memo records a transaction at Welldone Copy Centre, located at 15, B. Bharucha Marg, Fort, Bombay-400 023. The memo is numbered 3163 and dated 22-2-85, interpreted in the metadata as 22 February 1985.
+
+The particulars section lists automatic xerox, offset printing, cyclostyling, typing, and jumbo xerox services. The visible handwritten entry records “AUTOMATIC XEROX” with an amount of Rs. 25 and 12 paise, while the lower total appears as Rs. 12.50, suggesting that the page may record a labour charge or an additional calculation that is not fully clear from the image. No author, title, recipient, or conventional publication content is present; this is an administrative commercial record rather than a published work.
+
 ## Key points
 
 - The item is a one-page cash memo issued by Welldone Copy Centre.

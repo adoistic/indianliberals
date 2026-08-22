@@ -56,6 +56,10 @@ summary: |-
   This five-page archival bundle records Swatantra Party Maharashtra correspondence from October 1974. The first letter, signed by General Secretary Girish Munshi, asks S. V. Raju to consent to co-option onto the party’s Executive Committee. Two subsequent English notices, signed by Office Secretary P. Narayan, convene Executive Committee meetings in Bombay and set out an agenda including confirmation of earlier minutes, co-option of members, and consideration of a Bihar Day event with Sarvodaya workers.
 ---
 
+## Summary
+
+This five-page archival bundle records Swatantra Party Maharashtra correspondence from October 1974. The first letter, signed by General Secretary Girish Munshi, asks S. V. Raju to consent to co-option onto the party’s Executive Committee. Two subsequent English notices, signed by Office Secretary P. Narayan, convene Executive Committee meetings in Bombay and set out an agenda including confirmation of earlier minutes, co-option of members, and consideration of a Bihar Day event with Sarvodaya workers.
+
 ## Key points
 
 - Girish Munshi invites S. V. Raju to join the Swatantra Party Maharashtra Executive Committee by co-option.

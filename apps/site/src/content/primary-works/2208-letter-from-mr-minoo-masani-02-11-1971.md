@@ -57,6 +57,12 @@ summary: |-
   Masani proposes a shorter document focused on current issues: attacks on fundamental rights and the press, the Indo-Soviet Treaty, Bangladesh, continuing inflation, and rising unemployment. He suggests retaining a brief statement reaffirming the party's established principles and policies, and attaches handwritten notes identifying relevant passages from earlier texts. The surviving pages therefore document an internal effort to clarify the Swatantra Party's electoral message while preserving its liberal economic and civil-libertarian commitments.
 ---
 
+## Summary
+
+In this letter dated 2 November 1971, Minoo Masani writes to H. M. Patel about the circulated draft election manifesto of the Swatantra Party. He acknowledges the effort behind the draft but argues that its purpose is unclear. If it is intended as a genuine party manifesto, he says it omits fundamental commitments, including opposition to ceilings, monopoly, compulsory procurement, Soviet-style planning, and the concentration of industry in state and worker ownership, as well as support for minorities. If instead it is intended as a brief election appeal, he considers it too long and theoretical.
+
+Masani proposes a shorter document focused on current issues: attacks on fundamental rights and the press, the Indo-Soviet Treaty, Bangladesh, continuing inflation, and rising unemployment. He suggests retaining a brief statement reaffirming the party's established principles and policies, and attaches handwritten notes identifying relevant passages from earlier texts. The surviving pages therefore document an internal effort to clarify the Swatantra Party's electoral message while preserving its liberal economic and civil-libertarian commitments.
+
 ## Key points
 
 - Masani finds the draft election manifesto's purpose ambiguous.

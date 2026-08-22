@@ -53,6 +53,12 @@ summary: |-
   The committee discussed a letter from S.S.P. leader Madhu Limaye concerning the formation of a broader opposition bloc, the proposed timing of the next parliamentary session, and nominations for parliamentary speeches. Y. G. Gowd was assigned to speak on the Motion of Thanks to the President, while Mr. Mohd. Imam was asked to speak on the Railway Budget. The document is signed by J. M. Lobo Prabhu as Secretary.
 ---
 
+## Summary
+
+This one-page record from the Swatantra Party Parliamentary Office documents the Executive Committee meeting held in New Delhi on 27 March 1967. Chaired by M. R. Masani, the meeting included senior party members and established a sub-committee to propose nominees for the Financial Committee and the Speaker’s Committees. The minutes also record the party’s position on the Deputy Speaker’s election: support for Mr. Kunte was conditional on his consent, otherwise members were instructed to vote against the Congress nominee, Mr. Khadilkar.
+
+The committee discussed a letter from S.S.P. leader Madhu Limaye concerning the formation of a broader opposition bloc, the proposed timing of the next parliamentary session, and nominations for parliamentary speeches. Y. G. Gowd was assigned to speak on the Motion of Thanks to the President, while Mr. Mohd. Imam was asked to speak on the Railway Budget. The document is signed by J. M. Lobo Prabhu as Secretary.
+
 ## Key points
 
 - The Executive Committee met at 10 a.m. on 27 March 1967 in the Swatantra Party’s parliamentary committee room.

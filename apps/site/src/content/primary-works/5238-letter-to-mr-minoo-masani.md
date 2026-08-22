@@ -43,6 +43,10 @@ summary: |-
   This one-page handwritten English letter, dated apparently 20 October 1955, is addressed by Dahyabhai V. Patel to Minoo Masani. Patel thanks Masani for his letter and discusses returning or forwarding enclosed material, including a list and copies of correspondence. The letter refers to a General Secretary and appears to explain that copies are being sent in response to Masani's request.
 ---
 
+## Summary
+
+This one-page handwritten English letter, dated apparently 20 October 1955, is addressed by Dahyabhai V. Patel to Minoo Masani. Patel thanks Masani for his letter and discusses returning or forwarding enclosed material, including a list and copies of correspondence. The letter refers to a General Secretary and appears to explain that copies are being sent in response to Masani's request.
+
 ## Key points
 
 - The letter is addressed to Minoo Masani and appears to be dated 20 October 1955.

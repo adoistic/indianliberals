@@ -48,6 +48,10 @@ summary: |-
   This two-page handwritten letter, dated 13 September 1974 and sent by M. R. Arya to “Raju,” discusses Arya’s possible political affiliation and his financial difficulties. Arya says that Dr. Pasericha told him Raju had asked about his joining the BLD, but reports that he had made clear at a recent meeting that he would not join. He also describes correspondence concerning a justice programme and financial assistance, saying that he received no support from the people he approached and that Piloo Mody had personally contacted members about joining the BLD.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 13 September 1974 and sent by M. R. Arya to “Raju,” discusses Arya’s possible political affiliation and his financial difficulties. Arya says that Dr. Pasericha told him Raju had asked about his joining the BLD, but reports that he had made clear at a recent meeting that he would not join. He also describes correspondence concerning a justice programme and financial assistance, saying that he received no support from the people he approached and that Piloo Mody had personally contacted members about joining the BLD.
+
 ## Key points
 
 - Arya rejects, or at least says he will not pursue, joining the BLD despite inquiries about his position.

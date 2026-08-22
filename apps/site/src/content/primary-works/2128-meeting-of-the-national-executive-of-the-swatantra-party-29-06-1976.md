@@ -56,6 +56,12 @@ summary: |-
   The minutes also document the party’s cautious support for opposition unity. The Executive welcomed efforts under Jayaprakash Narayan’s guidance but objected to creating another party unless existing parties dissolved and the new organisation’s programme was acceptable. It stressed the need for a single non-communist democratic party, an explicit commitment to non-violence and parliamentary methods, restoration of fundamental freedoms, and a free press before meaningful elections could be held. The meeting further encouraged small-group study circles and discussions among party members during the Emergency. The final page is a handwritten covering note addressed to Girish Munshi and is not a continuation of the minutes.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party National Executive meeting held in Bombay on 29 June 1976. The meeting considered amendments proposed by the ruling party, an interim constitutional review report associated with Jayaprakash Narayan, and the proposed formation of a new opposition party. The Executive maintained that India’s difficulties arose from poor government, economic mismanagement, and wrong policies rather than defects in the Constitution, and reaffirmed its commitment to restoring the Constitution to its original form.
+
+The minutes also document the party’s cautious support for opposition unity. The Executive welcomed efforts under Jayaprakash Narayan’s guidance but objected to creating another party unless existing parties dissolved and the new organisation’s programme was acceptable. It stressed the need for a single non-communist democratic party, an explicit commitment to non-violence and parliamentary methods, restoration of fundamental freedoms, and a free press before meaningful elections could be held. The meeting further encouraged small-group study circles and discussions among party members during the Emergency. The final page is a handwritten covering note addressed to Girish Munshi and is not a continuation of the minutes.
+
 ## Key points
 
 - The National Executive met in Bombay on 29 June 1976 and recorded attendance, discussion, resolutions, activities, and the meeting’s termination.

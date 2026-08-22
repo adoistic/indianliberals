@@ -53,6 +53,12 @@ summary: |-
   The message expresses distress at the incident and commends Vira for his courage and steadfastness in upholding democratic processes against what the signatories describe as a ruthless attempt to subvert them. The document is also marked “Not to for publication” beneath the reproduced telegram and bears Masani’s signature.
 ---
 
+## Summary
+
+This one-page office paper, dated February 15, 1968, forwards a telegram for publication. The telegram was sent by several Members of Parliament, including M. R. Masani, to Dharam Vira, Governor of West Bengal, following the treatment he received in the Bengal Assembly while acting as the representative of the President of India.
+
+The message expresses distress at the incident and commends Vira for his courage and steadfastness in upholding democratic processes against what the signatories describe as a ruthless attempt to subvert them. The document is also marked “Not to for publication” beneath the reproduced telegram and bears Masani’s signature.
+
 ## Key points
 
 - The document is dated February 15, 1968, and originates from Parliament House, New Delhi.

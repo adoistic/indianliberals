@@ -51,6 +51,12 @@ summary: |-
   Munshi insists that the Swatantra Party remains active and had elected a new National Executive at its 8 December 1974 General Council meeting in Madras, naming G. K. Sundaram as President, Parmanand Kejriwal and Harihar Patel as Vice-Presidents, and Munshi as General Secretary. He asks the Election Commissioner not to decide the matter on the basis of Deo's letter without first notifying him and allowing the party to make a representation. The letter also records the party's new headquarters at 26 Halls Road, Egmore, Madras.
 ---
 
+## Summary
+
+This dated 31 December 1974 letter from Girish Munshi, General Secretary of the All-India Swatantra Party, addresses the Election Commissioner concerning claims that the Swatantra Party had ceased to exist or merged with the BLD. Munshi reports that Harihar Patel, the party's Vice-President and President of its Orissa state unit, says P. K. Deo had inaccurately represented the party's position to members of the Orissa Vidhan Sabha and obtained their signatures by creating a false impression that they had joined the BLD.
+
+Munshi insists that the Swatantra Party remains active and had elected a new National Executive at its 8 December 1974 General Council meeting in Madras, naming G. K. Sundaram as President, Parmanand Kejriwal and Harihar Patel as Vice-Presidents, and Munshi as General Secretary. He asks the Election Commissioner not to decide the matter on the basis of Deo's letter without first notifying him and allowing the party to make a representation. The letter also records the party's new headquarters at 26 Halls Road, Egmore, Madras.
+
 ## Key points
 
 - Munshi disputes claims that the Swatantra Party had ceased to exist or merged with the BLD.

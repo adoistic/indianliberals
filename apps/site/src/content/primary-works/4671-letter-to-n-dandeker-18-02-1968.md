@@ -52,6 +52,12 @@ summary: |-
   Patel says the two-member committee found that Bhagwanjibhai had made statements apparently hostile to the party and had been indiscreet, but recommends no immediate disciplinary action. Instead, Patel proposes a private discussion in which Bhagwanjibhai would be told where he had erred and asked to conduct himself more correctly in future. The committee also exonerated him from allegations that he had used lapsed membership forms in electing office-bearers and members of the Dhoraji Taluka Committee and its representative on the Rajkot District Committee. Patel recommends accepting these findings, stressing Bhagwanjibhai's past service and potential continued value to the party.
 ---
 
+## Summary
+
+In this letter dated February 18, 1968, H. M. Patel writes to N. Dandeker about the delayed reports concerning allegations against Bhagwanjibhai and an inquiry into the Dhoraji Taluka elections. Patel explains that he intends to place the committee's report before the Swatantra Party's Executive and Council after their meetings in March, while offering his own preliminary assessment in the meantime.
+
+Patel says the two-member committee found that Bhagwanjibhai had made statements apparently hostile to the party and had been indiscreet, but recommends no immediate disciplinary action. Instead, Patel proposes a private discussion in which Bhagwanjibhai would be told where he had erred and asked to conduct himself more correctly in future. The committee also exonerated him from allegations that he had used lapsed membership forms in electing office-bearers and members of the Dhoraji Taluka Committee and its representative on the Rajkot District Committee. Patel recommends accepting these findings, stressing Bhagwanjibhai's past service and potential continued value to the party.
+
 ## Key points
 
 - H. M. Patel explains the delay in sending reports on allegations concerning Bhagwanjibhai and the Dhoraji Taluka elections.

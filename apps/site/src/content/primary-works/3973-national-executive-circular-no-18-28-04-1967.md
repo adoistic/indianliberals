@@ -49,6 +49,12 @@ summary: |-
   The circular states that the agenda and other relevant details would be sent later and asks recipients to make their plans accordingly. It is signed by N. Dandekar as Officiating General Secretary. No policy questions, resolutions, or minutes are included.
 ---
 
+## Summary
+
+This one-page English office circular, issued on Swatantra Party Central Office letterhead and dated 28 April 1967, announces the next meeting of the party’s National Executive. The meeting was scheduled for Saturday, 20 May, at 3 p.m. at Vithalbhai Patel Bhavan in New Delhi, with a continuation on Sunday, 21 May, from 10 a.m. to 1 p.m.
+
+The circular states that the agenda and other relevant details would be sent later and asks recipients to make their plans accordingly. It is signed by N. Dandekar as Officiating General Secretary. No policy questions, resolutions, or minutes are included.
+
 ## Key points
 
 - The document is National Executive Circular No. 18 of the Swatantra Party.

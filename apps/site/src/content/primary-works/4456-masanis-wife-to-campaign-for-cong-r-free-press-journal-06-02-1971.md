@@ -48,6 +48,10 @@ summary: |-
   This one-page English newspaper clipping, attributed to the Free Press Journal News Service and datelined New Delhi, Feb. 5, reports that Smt. Subhadra Joshi agreed to campaign for a Congress (R) candidate in a Delhi constituency. It identifies her supporter as Shri O. P. Bahl, a Congress (R) member of the Metropolitan Council.
 ---
 
+## Summary
+
+This one-page English newspaper clipping, attributed to the Free Press Journal News Service and datelined New Delhi, Feb. 5, reports that Smt. Subhadra Joshi agreed to campaign for a Congress (R) candidate in a Delhi constituency. It identifies her supporter as Shri O. P. Bahl, a Congress (R) member of the Metropolitan Council.
+
 ## Key points
 
 - Subhadra Joshi is reported to have agreed to campaign for a Congress (R) candidate in Delhi.

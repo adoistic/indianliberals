@@ -48,6 +48,10 @@ summary: |-
   This newspaper report, datelined New Delhi, June 6, states that Prime Minister Indira Gandhi had sent telegrams to opposition-group members of both Houses of Parliament, inviting them to meet her individually or in groups over the next few days. The meetings were intended to discuss informally the background and implications of the decision to devalue the rupee.
 ---
 
+## Summary
+
+This newspaper report, datelined New Delhi, June 6, states that Prime Minister Indira Gandhi had sent telegrams to opposition-group members of both Houses of Parliament, inviting them to meet her individually or in groups over the next few days. The meetings were intended to discuss informally the background and implications of the decision to devalue the rupee.
+
 ## Key points
 
 - Prime Minister Indira Gandhi proposed meeting opposition-group MPs.

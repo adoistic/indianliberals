@@ -45,6 +45,12 @@ summary: |-
   The letter asks Das to contact Masani when he returns to India, expected around 6 October, and requests that Das write to him around that date. The page contains no printed title or substantive discussion beyond this arrangement for future correspondence.
 ---
 
+## Summary
+
+This single-page administrative letter, dated 14 September 1959, is addressed to Mr. Nabakishore Das of the Socialist Union of India in Cuttack, Orissa. Miss B. S. Mirza, writing as secretary to M. R. Masani, acknowledges Das's letter of 1 September and explains that Masani has left for the United Kingdom after reading it.
+
+The letter asks Das to contact Masani when he returns to India, expected around 6 October, and requests that Das write to him around that date. The page contains no printed title or substantive discussion beyond this arrangement for future correspondence.
+
 ## Key points
 
 - The letter is dated 14 September 1959.

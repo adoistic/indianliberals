@@ -51,6 +51,12 @@ summary: |-
   Masani also appeals for the “loyalty and disciplined support” of a large majority of the party’s members in Gujarat during the difficult period ahead. The letter is copied to R. C. Cooper of the Swatantra Party in Bombay.
 ---
 
+## Summary
+
+This one-page letter, dated 29 April 1970 and written from New Delhi by Minoo Masani to Malinkumar Desai and Shantilal Dave, acknowledges their earlier letter and endorses firm action against persistent indiscipline and disloyalty. Masani argues that the Swatantra Party’s credibility depends on demonstrating discipline rather than behaving like other political parties.
+
+Masani also appeals for the “loyalty and disciplined support” of a large majority of the party’s members in Gujarat during the difficult period ahead. The letter is copied to R. C. Cooper of the Swatantra Party in Bombay.
+
 ## Key points
 
 - Masani apologises for the delay in acknowledging the recipients’ letter of 15 April.

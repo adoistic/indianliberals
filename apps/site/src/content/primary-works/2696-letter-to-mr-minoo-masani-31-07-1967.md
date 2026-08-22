@@ -46,6 +46,12 @@ summary: |-
   The attached second page supplies the minister’s travel itinerary: departure from Bhubaneswar by air on 6 August, arrival in Delhi via Dum Dum and Palam, a halt in New Delhi for meetings including one with the Small Industries Board, and return to Bhubaneswar on 10 August. It identifies the party as Shri Harihar Patel, Minister for Industries, Commerce, etc., accompanied by a personal assistant, and circulates the programme to a wide range of Orissa and central-government officials while arranging transport and accommodation at Orissa Bhavan.
 ---
 
+## Summary
+
+This two-page English government letter, dated 31 July 1967, was sent from the Office of the Minister of Industries, Commerce, Co-operation, Forestry and Fisheries, Orissa, to Shri M. R. Masani, M.P. It informs Masani that the minister would be in New Delhi from 7 to 9 August 1967 and asks him to indicate a convenient time for a call during the minister’s stay. The visit is associated with an Orissa Bhavan convention.
+
+The attached second page supplies the minister’s travel itinerary: departure from Bhubaneswar by air on 6 August, arrival in Delhi via Dum Dum and Palam, a halt in New Delhi for meetings including one with the Small Industries Board, and return to Bhubaneswar on 10 August. It identifies the party as Shri Harihar Patel, Minister for Industries, Commerce, etc., accompanied by a personal assistant, and circulates the programme to a wide range of Orissa and central-government officials while arranging transport and accommodation at Orissa Bhavan.
+
 ## Key points
 
 - Letter No. 798 is dated 31 July 1967 and originates from the Orissa ministerial office in Bhubaneswar.

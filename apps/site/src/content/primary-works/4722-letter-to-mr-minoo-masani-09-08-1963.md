@@ -44,6 +44,10 @@ summary: |-
   In this one-page letter dated 9 August 1963, C. Rajagopalachari acknowledges Minoo Masani’s letter of 7 August and the materials enclosed with it. The enclosures included Nabakrishna Choudhury’s speech and other papers. Rajagopalachari adds that Mr. Krishna Jyothi is well known to the recipients, then closes the brief personal acknowledgement from his Madras address.
 ---
 
+## Summary
+
+In this one-page letter dated 9 August 1963, C. Rajagopalachari acknowledges Minoo Masani’s letter of 7 August and the materials enclosed with it. The enclosures included Nabakrishna Choudhury’s speech and other papers. Rajagopalachari adds that Mr. Krishna Jyothi is well known to the recipients, then closes the brief personal acknowledgement from his Madras address.
+
 ## Key points
 
 - The letter is dated 9 August 1963 and is written by C. Rajagopalachari from Madras.

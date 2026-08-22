@@ -48,6 +48,12 @@ summary: |-
   The second page is a Gujarati letter on the Chamber’s letterhead, dated 12 April 1970, addressed to Minoo Masani. Its wording appears to invite him to the anniversary function and suggests that his presence would add significance and inspiration to the event. The document is therefore primarily administrative and ceremonial correspondence; the rendered pages do not contain a substantive discussion of liberal ideas or policy.
 ---
 
+## Summary
+
+This two-page bilingual correspondence records an exchange connected with the 37th anniversary of the Nawanagar Chamber of Commerce in Jamnagar. A handwritten English note dated 12 May 1970 informs A. R. M. that the Chamber’s anniversary will be celebrated on 22 May 1970 at 5 p.m. and requests the recipient’s presence, along with details of the time and mode of arrival. The page also reproduces a reply telegram from Minoo Masani, dated 15 May 1970, conveying thanks and best wishes for the occasion.
+
+The second page is a Gujarati letter on the Chamber’s letterhead, dated 12 April 1970, addressed to Minoo Masani. Its wording appears to invite him to the anniversary function and suggests that his presence would add significance and inspiration to the event. The document is therefore primarily administrative and ceremonial correspondence; the rendered pages do not contain a substantive discussion of liberal ideas or policy.
+
 ## Key points
 
 - The document concerns the Nawanagar Chamber of Commerce’s 37th anniversary celebration.

@@ -47,6 +47,12 @@ summary: |-
   The letter is signed by K. H. Subramaniam, L. R. Sampat, and S. V. Raju. No title, letterhead, organisation, place, or further details about the proposal are visible on the page.
 ---
 
+## Summary
+
+This single-page English letter, dated April 18, 1977, is addressed to Girish. The writers refer to developments described in Girish's letter of April 15, 1977 and state that they agree to his proposal.
+
+The letter is signed by K. H. Subramaniam, L. R. Sampat, and S. V. Raju. No title, letterhead, organisation, place, or further details about the proposal are visible on the page.
+
 ## Key points
 
 - The document is a one-page letter dated April 18, 1977.

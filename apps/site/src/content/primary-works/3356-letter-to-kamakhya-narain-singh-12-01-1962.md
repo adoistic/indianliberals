@@ -50,6 +50,12 @@ summary: |-
   Masani asks Singh to ensure that the fifteen Jeeps are allotted to the endorsed candidates, including candidates from Purnea and Saharsa, as previously assured to the Parliamentary Sub-committee. He notes that only Rs. 20,000 has been earmarked for the two constituencies instead of the full Rs. 50,000, and warns that the party may have to cover the Rs. 30,000 shortfall if the parliamentary candidates do not receive the Centre's allocation. The letter also instructs Mohan Lal to collect the prescribed receipts and ensure that the Jeeps are delivered for use by the endorsed candidates. The referenced telegram is not included in the rendered page.
 ---
 
+## Summary
+
+This 12 January 1962 letter from M. R. Masani to Kamakhya Narain Singh concerns the allocation and delivery of fifteen Jeeps under an arrangement approved by a Parliamentary Sub-committee. Masani forwards extracts from the committee minutes and the approved draft agreement, and confirms that his representative, Mr. Mohan Lal, will arrive in Patna to take possession of the vehicles on 18 January.
+
+Masani asks Singh to ensure that the fifteen Jeeps are allotted to the endorsed candidates, including candidates from Purnea and Saharsa, as previously assured to the Parliamentary Sub-committee. He notes that only Rs. 20,000 has been earmarked for the two constituencies instead of the full Rs. 50,000, and warns that the party may have to cover the Rs. 30,000 shortfall if the parliamentary candidates do not receive the Centre's allocation. The letter also instructs Mohan Lal to collect the prescribed receipts and ensure that the Jeeps are delivered for use by the endorsed candidates. The referenced telegram is not included in the rendered page.
+
 ## Key points
 
 - Masani forwards extracts from Parliamentary Sub-committee minutes and an approved draft agreement concerning a Jeep-credit arrangement.

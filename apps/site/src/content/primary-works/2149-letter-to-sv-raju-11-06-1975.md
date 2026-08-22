@@ -50,6 +50,12 @@ summary: |-
   The letter is a concise piece of party administration, documenting financial coordination, reliance on internal instructions, and concern about disruption to postal communication. Srikumar encloses a copy of his letter for Sundaram, identified as the party’s president, and states that he will act according to Sundaram’s instructions.
 ---
 
+## Summary
+
+This typed letter, dated 11 June 1975, is from V. S. Srikumar, Joint Secretary of the Swatantra Party, to S. V. Raju. Srikumar acknowledges Raju’s letter of 9 June and explains arrangements to withdraw funds held with the Bank of India, Bombay, because the party feared difficulties with postal deliveries. After consulting G. K. Sundaram, he requested that Paramanand Kejriwalji withdraw the money or send it to Madras, and subsequently sent a bearer cheque for Rs. 5,000 in the name of Mr. Narayan by registered post.
+
+The letter is a concise piece of party administration, documenting financial coordination, reliance on internal instructions, and concern about disruption to postal communication. Srikumar encloses a copy of his letter for Sundaram, identified as the party’s president, and states that he will act according to Sundaram’s instructions.
+
 ## Key points
 
 - The letter is dated 11 June 1975 and is addressed to S. V. Raju in Chembur, Bombay.

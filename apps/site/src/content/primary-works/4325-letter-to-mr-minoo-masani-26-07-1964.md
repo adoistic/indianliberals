@@ -49,6 +49,12 @@ summary: |-
   The typed page focuses on rising prices and the government's inability to control them. Patel argues that the government's responses are adding to public confusion and urges an urgent meeting of the party's Parliamentary Board or Central Organisation Committee to assess the situation, issue directions to its parliamentary members, and consider whether a wider conference resolution should be moved. He criticises a Bombay unit demonstration at the Bombay Docks as a token action that fails to address the broader burden of inflation and warns that inaction could allow opponents to portray the party as representing the rich and the “Rajahs and Maharajas.”
 ---
 
+## Summary
+
+This three-page English letter, dated July 26, 1964, is from Dahyabhai V. Patel in New Delhi to C. Rajagopalachari (“Rajaji”) in Madras. The surviving handwritten pages appear to concern sending Rajagopalachari a copy of a letter and related political communication, but much of the handwriting is difficult to decipher from the rendered images.
+
+The typed page focuses on rising prices and the government's inability to control them. Patel argues that the government's responses are adding to public confusion and urges an urgent meeting of the party's Parliamentary Board or Central Organisation Committee to assess the situation, issue directions to its parliamentary members, and consider whether a wider conference resolution should be moved. He criticises a Bombay unit demonstration at the Bombay Docks as a token action that fails to address the broader burden of inflation and warns that inaction could allow opponents to portray the party as representing the rich and the “Rajahs and Maharajas.”
+
 ## Key points
 
 - The letter is dated July 26, 1964, and is addressed to C. Rajagopalachari (Rajaji).

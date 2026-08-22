@@ -48,6 +48,10 @@ summary: |-
   This 4 April 1971 Hindustan Times report announces M. R. Masani's resignation as chairman of the Swatantra Party. It says Masani will remain a party member and continue advocating its philosophy and principles. The report distinguishes his resignation from the party's defeat in the recent Lok Sabha election, presenting it instead as an application of a principle of institutional responsibility after a serious failure.
 ---
 
+## Summary
+
+This 4 April 1971 Hindustan Times report announces M. R. Masani's resignation as chairman of the Swatantra Party. It says Masani will remain a party member and continue advocating its philosophy and principles. The report distinguishes his resignation from the party's defeat in the recent Lok Sabha election, presenting it instead as an application of a principle of institutional responsibility after a serious failure.
+
 ## Key points
 
 - M. R. Masani resigned as chairman of the Swatantra Party.

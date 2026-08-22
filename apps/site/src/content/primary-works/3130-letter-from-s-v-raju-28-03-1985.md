@@ -47,6 +47,12 @@ summary: |-
   The document also preserves the earlier letter to Raju, dated 23 March 1985. That letter conveys the Rajmata's thanks for Raju's letter of 19 March, asks him to come to Jaipur as soon as possible, and notes that she would leave for abroad on 6 April 1985. The pages are administrative and logistical in character; they contain no discussion of political or economic ideas.
 ---
 
+## Summary
+
+This two-page English correspondence, dated 28 March 1985, records S. V. Raju's response to the Private Secretary of Rajmata Gayatri Devi of Jaipur. Raju explains that he will not be able to travel to Jaipur early in April as requested and will instead notify the office in advance if he can come after the Rajmata returns from an overseas trip.
+
+The document also preserves the earlier letter to Raju, dated 23 March 1985. That letter conveys the Rajmata's thanks for Raju's letter of 19 March, asks him to come to Jaipur as soon as possible, and notes that she would leave for abroad on 6 April 1985. The pages are administrative and logistical in character; they contain no discussion of political or economic ideas.
+
 ## Key points
 
 - The principal letter is dated 28 March 1985 and is signed on behalf of S. V. Raju.

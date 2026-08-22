@@ -45,6 +45,10 @@ summary: |-
   This single handwritten archival sheet is headed “Rajkot Address” and appears to function as an administrative address or distribution list rather than a substantive political or literary work. It records three numbered entries: Mr. Harisingh A. Solanki at Gadhula, via Savodra (shown in parentheses as “Savodhri” or a similar spelling); the Swatantra Party at Tricon Bagicha, Rajkot, with telephone number 1576; and Mr. Lachman Taageji at Haji Gupha Nivas, Gandhi Gram, Junagadh.
 ---
 
+## Summary
+
+This single handwritten archival sheet is headed “Rajkot Address” and appears to function as an administrative address or distribution list rather than a substantive political or literary work. It records three numbered entries: Mr. Harisingh A. Solanki at Gadhula, via Savodra (shown in parentheses as “Savodhri” or a similar spelling); the Swatantra Party at Tricon Bagicha, Rajkot, with telephone number 1576; and Mr. Lachman Taageji at Haji Gupha Nivas, Gandhi Gram, Junagadh.
+
 ## Key points
 
 - The sheet is handwritten and headed “Rajkot Address.”

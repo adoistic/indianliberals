@@ -47,6 +47,10 @@ summary: |-
   In this letter dated 5 September 1962, C. Rajagopalachari tells S. V. Raju that, despite his reluctance and pressure from Diwakar and Debhar, he has agreed to travel to Washington, London, and Paris. The proposed trip is expected to last three weeks, but its departure date remains unsettled because the External Affairs Ministry is awaiting Kennedy’s response about when he can meet the delegation.
 ---
 
+## Summary
+
+In this letter dated 5 September 1962, C. Rajagopalachari tells S. V. Raju that, despite his reluctance and pressure from Diwakar and Debhar, he has agreed to travel to Washington, London, and Paris. The proposed trip is expected to last three weeks, but its departure date remains unsettled because the External Affairs Ministry is awaiting Kennedy’s response about when he can meet the delegation.
+
 ## Key points
 
 - Rajagopalachari writes to S. V. Raju from his Madras address.

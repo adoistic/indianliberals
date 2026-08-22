@@ -66,6 +66,14 @@ summary: |-
   The closing section links the party’s prospects to a wider rejection of socialism and planning, claiming that India is beginning to turn away from state control toward a free economic order. The report is explicitly forward-looking, but its immediate concern is practical: converting an ideological message into an effective national organisation before 1962.
 ---
 
+## Summary
+
+M. R. Masani’s General Secretary’s Report, prepared for the Swatantra Party’s National Convention at Patna on March 19–20, 1960, reviews the party’s early development and sets out the organisational work required to turn public sympathy into a mass political movement. Masani describes the party’s foundation in 1959, its liberal principles, its reception by the Liberal International, and survey evidence suggesting an uncommitted constituency for a liberal, non-socialist opposition to the Congress. He stresses that sympathy alone is insufficient: the party must build workers, members, local units, literature, and financial resources across India’s vast and linguistically diverse population.
+
+The report presents C. Rajagopalachari’s leadership and the party’s Statement of Principles as its central assets, while warning against indiscriminate recruitment and dependence on wealthy supporters. Masani calls for training camps and study circles, multilingual publications, constructive public-service work, and a Public Advice Committee to receive complaints concerning fundamental rights, corruption, ministerial favouritism, and interference with judicial or administrative institutions. He also recommends sustained constituency work before elections and argues that the party must offer a democratic alternative to both Congress rule and communism.
+
+The closing section links the party’s prospects to a wider rejection of socialism and planning, claiming that India is beginning to turn away from state control toward a free economic order. The report is explicitly forward-looking, but its immediate concern is practical: converting an ideological message into an effective national organisation before 1962.
+
 ## Key points
 
 - The report explains the Swatantra Party’s formation in 1959 and its claim to represent liberal, non-socialist politics.

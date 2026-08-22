@@ -53,6 +53,12 @@ summary: |-
   The enclosures document the party’s Delhi organisation at an early stage of the Swatantra Party’s existence. The Regional Committee list identifies Sardar Lal Singh as convenor and names five other members; the delegate list contains nine numbered entries, including journalists, academics, local political figures, and former municipal officeholders. The document is primarily a record of party organisation and contact information rather than a statement of political doctrine.
 ---
 
+## Summary
+
+This three-page English-language administrative letter, issued from the Swatantra Party’s Bombay Office on 5 September 1959, is addressed to Sir H. P. Mody (saluted as “Sir Homi”). Signed by (Mrs) D. Lynn, it conveys the party office’s regards to its Delhi members and encloses two lists: the members of the Regional Committee for Delhi and delegates from Delhi, with addresses where available.
+
+The enclosures document the party’s Delhi organisation at an early stage of the Swatantra Party’s existence. The Regional Committee list identifies Sardar Lal Singh as convenor and names five other members; the delegate list contains nine numbered entries, including journalists, academics, local political figures, and former municipal officeholders. The document is primarily a record of party organisation and contact information rather than a statement of political doctrine.
+
 ## Key points
 
 - The letter is dated 5 September 1959 and was sent from the Swatantra Party’s Bombay Office.

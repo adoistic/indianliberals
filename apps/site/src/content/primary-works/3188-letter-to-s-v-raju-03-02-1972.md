@@ -50,6 +50,12 @@ summary: |-
   Sreenivasan focuses particularly on disputes over cash books, inventories, vouchers, the Educational Trust, and the proposed audit of twelve years of party accounts. He argues that apparent documentation gaps were either explainable or being deliberately misrepresented, and alleges that the new General Secretary was using these issues to damage his reputation. The letter also refers to earlier correspondence with Minoo Masani, which Sreenivasan says had warned that the party was falling into the hands of incompetent leadership. The final pages continue the rebuttal of alleged financial irregularities and criticise what Sreenivasan presents as a personal and politically motivated attack.
 ---
 
+## Summary
+
+This confidential letter, dated 3 February 1972, is V. T. Sreenivasan’s detailed response to allegations about the transfer of administrative responsibility in the Swatantra Party’s state office. Addressed to S. V. Raju and intended for H. M. Patel’s review, it recounts Sreenivasan’s objections to an attempted change in office-bearers, his offer to remain on the Executive Committee during the transition, and his claim that R. Y. G. and N. K. G. circulated abusive and unfounded accusations concerning party funds and administration.
+
+Sreenivasan focuses particularly on disputes over cash books, inventories, vouchers, the Educational Trust, and the proposed audit of twelve years of party accounts. He argues that apparent documentation gaps were either explainable or being deliberately misrepresented, and alleges that the new General Secretary was using these issues to damage his reputation. The letter also refers to earlier correspondence with Minoo Masani, which Sreenivasan says had warned that the party was falling into the hands of incompetent leadership. The final pages continue the rebuttal of alleged financial irregularities and criticise what Sreenivasan presents as a personal and politically motivated attack.
+
 ## Key points
 
 - Sreenivasan replies to allegations concerning the handover of the Swatantra Party’s state-office administration.

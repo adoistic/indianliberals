@@ -47,6 +47,10 @@ summary: |-
   In this letter dated 28 August 1964, C. Rajagopalachari forwards M. K. Munshi's account of a meeting with the Raja of Ramgarh about the political situation in Bihar. The reported proposal is to re-form the Janata Party before the Bihar Assembly meets, with the aim of retaining an organised opposition in the Assembly and the Council.
 ---
 
+## Summary
+
+In this letter dated 28 August 1964, C. Rajagopalachari forwards M. K. Munshi's account of a meeting with the Raja of Ramgarh about the political situation in Bihar. The reported proposal is to re-form the Janata Party before the Bihar Assembly meets, with the aim of retaining an organised opposition in the Assembly and the Council.
+
 ## Key points
 
 - The letter is addressed by C. Rajagopalachari to M. R. Masani and is dated 28 August 1964.

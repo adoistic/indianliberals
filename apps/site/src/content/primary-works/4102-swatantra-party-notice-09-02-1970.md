@@ -54,6 +54,14 @@ summary: |-
   The final pages show detailed delegate allocations by local unit and record a discussion of the Central Parliamentary Board’s decision on a “grand alliance,” including the proposed nomination of candidates for the Lok Sabha. The document is primarily an administrative record of party organisation, convention planning, financial controls, publicity, and electoral preparation; it does not present a sustained theoretical argument.
 ---
 
+## Summary
+
+This English-language Swatantra Party, Bombay Region document combines a notice dated 9 December 1970 with draft minutes of the Bombay Regional Executive Committee meeting held on 25 November 1970. The notice calls a further Executive Committee meeting for 16 December and lists four agenda items: confirmation of earlier minutes, matters arising, progress toward the Party’s National Convention, and other business with the Chair’s consent.
+
+The draft minutes record preparations for the National Convention, including meetings of organising and finance sub-committees, delegate accommodation, publicity, fundraising, women’s participation, and requests for suggestions on amendments to the Party constitution. They also discuss the activation of dormant local units, workers’ meetings, press handling, the Party’s position on a government employees’ strike, and efforts to communicate policy statements more accurately. The committee reviews office renovation costs, Public Assistance Bureau expenditure and accounting, telephone expenses incurred for Party work, and delegate quotas allocated across Bombay districts.
+
+The final pages show detailed delegate allocations by local unit and record a discussion of the Central Parliamentary Board’s decision on a “grand alliance,” including the proposed nomination of candidates for the Lok Sabha. The document is primarily an administrative record of party organisation, convention planning, financial controls, publicity, and electoral preparation; it does not present a sustained theoretical argument.
+
 ## Key points
 
 - A 9 December 1970 notice summons the Swatantra Party, Bombay Region Executive Committee to meet on 16 December.

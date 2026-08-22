@@ -47,6 +47,12 @@ summary: |-
   The pages show the dictionary’s broad lexical range: ordinary objects and actions sit alongside technical terms, regional and colloquial expressions, proper names, place names, and scientific vocabulary. The “hope” entries also demonstrate the work’s attention to grammatical distinctions and idiomatic usage, while the “hook” entries distinguish noun, verb, phrasal, sporting, nautical, medical, and figurative senses. No author statement, publication data, or title page is visible in the rendered extract.
 ---
 
+## Summary
+
+The rendered pages are alphabetical extracts from The Concise Oxford Dictionary, covering entries chiefly from “bookah” and “book” through “hook,” “hood,” and “Hoover.” They present headwords with pronunciation, grammatical labels, etymological notes, definitions, idioms, usage examples, and occasional illustrations, including entries for a hookah and a hoopoe.
+
+The pages show the dictionary’s broad lexical range: ordinary objects and actions sit alongside technical terms, regional and colloquial expressions, proper names, place names, and scientific vocabulary. The “hope” entries also demonstrate the work’s attention to grammatical distinctions and idiomatic usage, while the “hook” entries distinguish noun, verb, phrasal, sporting, nautical, medical, and figurative senses. No author statement, publication data, or title page is visible in the rendered extract.
+
 ## Key points
 
 - The extract is arranged alphabetically and includes entries from “bookah” through “hope” and “hood,” with a further page headed “hooded” through “Hoover.”

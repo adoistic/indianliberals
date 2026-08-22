@@ -50,6 +50,12 @@ summary: |-
   The report says the Board also barred several Gujarat politicians from holding party office for periods of two or three years. It links these actions to internal conflict involving M. R. Masani, whose resignation from the Parliamentary Board and National Executive followed the defeat of an official party candidate. Gujarat affairs were expected to dominate the party’s forthcoming general council meeting.
 ---
 
+## Summary
+
+This Indian Express news report from Madras, dated May 31, 1968, describes disciplinary action by the Swatantra Party against Gujarat members who defied party directives during the Rajya Sabha and general elections. The Central Parliamentary Board decided to expel U. N. Mahida after he contested and won a Rajya Sabha seat from Gujarat against the party line, while other members accused of working against Swatantra candidates faced disciplinary measures.
+
+The report says the Board also barred several Gujarat politicians from holding party office for periods of two or three years. It links these actions to internal conflict involving M. R. Masani, whose resignation from the Parliamentary Board and National Executive followed the defeat of an official party candidate. Gujarat affairs were expected to dominate the party’s forthcoming general council meeting.
+
 ## Key points
 
 - The Swatantra Party’s Central Parliamentary Board decided to expel U. N. Mahida for contesting and winning a Rajya Sabha election from Gujarat against the party directive.

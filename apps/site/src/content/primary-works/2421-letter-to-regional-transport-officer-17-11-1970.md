@@ -45,6 +45,12 @@ summary: |-
   The letter states that the four vehicles were sold in 1967. It records that vehicle MRA 4092 was sold to Maharani Gayatri Devi of Raj Mahal Palace, Jaipur; MRA 4093 to Maharaja P. K. Deo of Bhawanipatna, Kalahandi District, Orissa; and MRA 4095 and MRA 4096 to the Associated Cement Companies, Queens Road, Bombay 1. No title, publisher, or issuing organisation is printed on the document.
 ---
 
+## Summary
+
+This two-page typed office letter, marked “TRUE COPY” and dated November 17, 1970, is addressed to the Regional Transport Officer, Bombay (Recovery), at the Old Bodyguard Lines, Tulswadi. Signed by V.P. Bhatia, it responds to two letters dated October 24, 1970, concerning four motor vehicles: MRA 4092, MRA 4093, MRA 4095, and MRA 4096.
+
+The letter states that the four vehicles were sold in 1967. It records that vehicle MRA 4092 was sold to Maharani Gayatri Devi of Raj Mahal Palace, Jaipur; MRA 4093 to Maharaja P. K. Deo of Bhawanipatna, Kalahandi District, Orissa; and MRA 4095 and MRA 4096 to the Associated Cement Companies, Queens Road, Bombay 1. No title, publisher, or issuing organisation is printed on the document.
+
 ## Key points
 
 - The document is a typed office letter marked “TRUE COPY,” dated November 17, 1970.

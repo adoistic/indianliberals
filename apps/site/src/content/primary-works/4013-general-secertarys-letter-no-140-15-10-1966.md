@@ -51,6 +51,12 @@ summary: |-
   The letter asks state-level party colleagues to identify three or four problems that are especially agitating people in their state. It distinguishes nationally shared concerns, such as food shortages and high prices, from additional problems that may be locally distinctive. Masani requests consultation with colleagues and an early, considered reply so that the party's advertisements can address public concerns effectively.
 ---
 
+## Summary
+
+This one-page letter, dated 15 October 1966 and signed by M. R. Masani as General Secretary of the Swatantra Party, concerns the planning of the party's publicity campaign. Masani identifies newspaper advertising in prominent dailies as one of the campaign's principal media, following an earlier campaign.
+
+The letter asks state-level party colleagues to identify three or four problems that are especially agitating people in their state. It distinguishes nationally shared concerns, such as food shortages and high prices, from additional problems that may be locally distinctive. Masani requests consultation with colleagues and an early, considered reply so that the party's advertisements can address public concerns effectively.
+
 ## Key points
 
 - The document is General Secretary's Letter No. 140, dated 15 October 1966.

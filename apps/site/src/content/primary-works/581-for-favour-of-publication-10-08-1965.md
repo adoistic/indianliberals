@@ -59,6 +59,12 @@ summary: |-
   Masani identifies four planning fallacies: spending beyond the country's means, prioritising steel and machine-making over agriculture and labour-intensive projects, expecting the State to produce more while the public receives less, and granting the Planning Commission and government sweeping powers to dictate production and prices. He links these policies to deficit finance, inflation, rising prices, unemployment, production lags, wasteful controls, disincentives, and corruption. As an alternative, he proposes abandoning the existing approach, converting the Third Plan into a Seven Year Plan, postponing the Fourth Plan, and undertaking a two-year Plan holiday focused on using existing capacity and reducing unproductive expenditure. The paper closes with a call for more imaginative leadership, greater reliance on private initiative, and a less restrictive attitude toward technology, enterprise, and popular prosperity.
 ---
 
+## Summary
+
+In this two-page press note, M. R. Masani argues that the growth rate of the Indian economy had moved inversely to the size of the Second and Third Five Year Plans. Although the Second Plan was about twice the size of the First and the Third three times as large, he says that the fastest progress occurred during the First Plan and that growth subsequently declined. Masani attributes this performance to the ineffective use of human and material resources rather than simply to the amount of money invested.
+
+Masani identifies four planning fallacies: spending beyond the country's means, prioritising steel and machine-making over agriculture and labour-intensive projects, expecting the State to produce more while the public receives less, and granting the Planning Commission and government sweeping powers to dictate production and prices. He links these policies to deficit finance, inflation, rising prices, unemployment, production lags, wasteful controls, disincentives, and corruption. As an alternative, he proposes abandoning the existing approach, converting the Third Plan into a Seven Year Plan, postponing the Fourth Plan, and undertaking a two-year Plan holiday focused on using existing capacity and reducing unproductive expenditure. The paper closes with a call for more imaginative leadership, greater reliance on private initiative, and a less restrictive attitude toward technology, enterprise, and popular prosperity.
+
 ## Key points
 
 - Masani argues that India's economic growth declined as the Five Year Plans became larger.

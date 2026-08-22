@@ -49,6 +49,12 @@ summary: |-
   As a bureaucratic artefact rather than an essay, the document has no argumentative content; its interest to the archive is documentary. It captures Minoo Masani — a founder of the Swatantra Party — as a personally dues-paying donor to the party's Maharashtra Region only months into the Emergency period (which would be declared two months later), and it fixes an address, phone number, and receipt-book series for the party's Bombay operations in 1975.
 ---
 
+## Summary
+
+This single-page document is a printed Swatantra Party receipt, filled out by hand, acknowledging a monthly donation. The receipt is issued by the Maharashtra Region office of the Swatantra Party at Sassoon Building, 143, Mahatma Gandhi Road, Bombay-1, and is numbered 108, dated 16.4.75. It records a payment of Rs. 25 received from Mr. M. R. Masani towards his donation for April 1975, with a handwritten marginal note indicating that the same amount was also paid for May. The slip carries the receiver's signature and the printed line for the Hon. Treasurer.
+
+As a bureaucratic artefact rather than an essay, the document has no argumentative content; its interest to the archive is documentary. It captures Minoo Masani — a founder of the Swatantra Party — as a personally dues-paying donor to the party's Maharashtra Region only months into the Emergency period (which would be declared two months later), and it fixes an address, phone number, and receipt-book series for the party's Bombay operations in 1975.
+
 ## Key points
 
 - Printed receipt of the Swatantra Party's Maharashtra Region, filled by hand.

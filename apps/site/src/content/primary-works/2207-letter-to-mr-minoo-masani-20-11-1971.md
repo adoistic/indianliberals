@@ -51,6 +51,12 @@ summary: |-
   The writer nevertheless remains willing to support the Swatantra Party in the forthcoming election, citing prior work for Rajmata Gayatri Devi and the practical costs of contesting elections. They ask Masani for financial assistance, describing themselves as an independent candidate who intends to join the Swatantra Party after winning. The closing apologizes for errors arising from the writer's education in a Hindi-medium setting. The author's handwritten signature is not securely legible.
 ---
 
+## Summary
+
+This undated-authority letter, dated 20 November 1971 and addressed to Minoo Masani, discusses the possibility of forming a new national democratic opposition party. The writer reports that Masani had earlier suggested such a formation and says that others who have lost faith in democracy are also considering it. The letter criticizes the weakened public image of the Swatantra Party and argues that neither the Congress nor Congress-N offers a satisfactory democratic alternative, alleging that Indira Gandhi has influenced Congress-N's organization and administration, at least in Rajasthan.
+
+The writer nevertheless remains willing to support the Swatantra Party in the forthcoming election, citing prior work for Rajmata Gayatri Devi and the practical costs of contesting elections. They ask Masani for financial assistance, describing themselves as an independent candidate who intends to join the Swatantra Party after winning. The closing apologizes for errors arising from the writer's education in a Hindi-medium setting. The author's handwritten signature is not securely legible.
+
 ## Key points
 
 - The writer supports the idea of forming a new national democratic party.

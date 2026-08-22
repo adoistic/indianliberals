@@ -52,6 +52,12 @@ summary: |-
   Masani also reports that he has resigned as president of the Swatantra Party. He says he intends to devote himself to the neglected task of basic education, describing it as a responsibility that political leaders have failed to perform effectively. The letter closes with a personal hope that Sri Prakash's health will allow him to return home to Benares.
 ---
 
+## Summary
+
+In this letter dated April 21, 1971, M. R. Masani responds to Sri Prakash's concern about the political situation following Indira Gandhi's recent electoral victory. Masani argues that the victory was less overwhelming than it appeared, attributing its scale partly to distortions in the British-derived electoral system, while nevertheless agreeing that the result could be beneficial for India's future.
+
+Masani also reports that he has resigned as president of the Swatantra Party. He says he intends to devote himself to the neglected task of basic education, describing it as a responsibility that political leaders have failed to perform effectively. The letter closes with a personal hope that Sri Prakash's health will allow him to return home to Benares.
+
 ## Key points
 
 - Masani acknowledges Sri Prakash's gloomy assessment of the current political scene.

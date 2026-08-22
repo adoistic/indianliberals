@@ -51,6 +51,12 @@ summary: |-
   Masani believes that a majority of the National Executive may support Desai’s expulsion, but says that the support of four members from Madras—Prof. Ruthnaswamy, Mariaswamy, Sundaram and Hindo—is important. He asks Rajagopalachari to attend the meeting or send a letter commenting on Desai’s statement, while stressing that the letter should be neutral rather than an outright opposition to Ranga. Masani also describes the practical difficulty of continuing with Desai in the party, citing the reluctance of supporters to face constituents who confront them over party policy and the Delhi treasurer H. P. Nanda’s refusal to help unless Desai is removed.
 ---
 
+## Summary
+
+This letter, dated 2 April 1970 and written by M. R. Masani to C. Rajagopalachari (“Rajaji”), seeks Rajagopalachari’s intervention in a Swatantra Party dispute. Masani reports that C. C. Desai is attempting to organise opposition to disciplinary action against him, including possible defections from the Gujarat Party and resistance to restoring party discipline. He argues that Desai’s standing in Gujarat derives from his campaign against the national leadership of the party and from his opposition to Indira Gandhi and her group.
+
+Masani believes that a majority of the National Executive may support Desai’s expulsion, but says that the support of four members from Madras—Prof. Ruthnaswamy, Mariaswamy, Sundaram and Hindo—is important. He asks Rajagopalachari to attend the meeting or send a letter commenting on Desai’s statement, while stressing that the letter should be neutral rather than an outright opposition to Ranga. Masani also describes the practical difficulty of continuing with Desai in the party, citing the reluctance of supporters to face constituents who confront them over party policy and the Delhi treasurer H. P. Nanda’s refusal to help unless Desai is removed.
+
 ## Key points
 
 - Masani writes to C. Rajagopalachari about proposed disciplinary action against C. C. Desai within the Swatantra Party.

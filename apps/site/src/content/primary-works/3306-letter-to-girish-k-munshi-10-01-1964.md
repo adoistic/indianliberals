@@ -49,6 +49,12 @@ summary: |-
   Masani proposes that, unless Ramgarh fulfils earlier assurances and makes a response possible, the parties should refuse further discussions and allow the matter to take its course. He also asks Munshi, if he cannot travel to Bangalore, to write to Rajaji or Professor Ranga, copying Masani, and state the correct position. The page includes an enclosure, but the enclosure itself is not present in the rendered material.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to K. M. Munshi, dated January 10, 1964, concerns the current position on Bihar Jeep Credit. Masani warns that Ramgarh may attempt to reopen the matter and seek further concessions in Bangalore, and asks Munshi to help ensure that the Central Office takes the intended position.
+
+Masani proposes that, unless Ramgarh fulfils earlier assurances and makes a response possible, the parties should refuse further discussions and allow the matter to take its course. He also asks Munshi, if he cannot travel to Bangalore, to write to Rajaji or Professor Ranga, copying Masani, and state the correct position. The page includes an enclosure, but the enclosure itself is not present in the rendered material.
+
 ## Key points
 
 - Masani writes to K. M. Munshi about the current position regarding Bihar Jeep Credit.

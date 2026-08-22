@@ -48,6 +48,10 @@ summary: |-
   This untitled official letter, dated August 27, 1987, was sent from New Delhi by President R. Venkataraman to M. R. Masani. Venkataraman thanks Masani for his letter of August 5 and for the “warm observations” published in Masani’s column in The Statesman, expressing his appreciation for the sentiments conveyed. The letter also acknowledges Masani’s comments on constitutional matters. Venkataraman describes those observations as evidence of Masani’s “keenness of mind,” while cautiously noting that the practical viability of Masani’s suggestions would depend on the specifics of each contingency. The page presents a brief exchange of mutual respect rather than a developed constitutional argument.
 ---
 
+## Summary
+
+This untitled official letter, dated August 27, 1987, was sent from New Delhi by President R. Venkataraman to M. R. Masani. Venkataraman thanks Masani for his letter of August 5 and for the “warm observations” published in Masani’s column in The Statesman, expressing his appreciation for the sentiments conveyed. The letter also acknowledges Masani’s comments on constitutional matters. Venkataraman describes those observations as evidence of Masani’s “keenness of mind,” while cautiously noting that the practical viability of Masani’s suggestions would depend on the specifics of each contingency. The page presents a brief exchange of mutual respect rather than a developed constitutional argument.
+
 ## Key points
 
 - The letter is dated August 27, 1987, and was issued from New Delhi on the President of India’s letterhead. R. Venkataraman thanks M. R. Masani for a letter dated August 5, 1987. Venkataraman refers appreciatively to Masani’s observations published in his column in The Statesman. The letter specifically acknowledges Masani’s observations regarding constitutional matters. Venkataraman praises the keenness of Masani’s mind. He says the workability of Masani’s suggestions depends on the specifics of each contingency.

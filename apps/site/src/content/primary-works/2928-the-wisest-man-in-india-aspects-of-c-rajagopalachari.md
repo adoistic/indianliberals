@@ -54,6 +54,10 @@ summary: |-
   This essay presents C. Rajagopalachari (Rajaji) as a politician of unusual range, conviction, and intellectual independence. It recalls his career as lawyer, administrator, governor-general, chief minister, writer, and popular interpreter of the Ramayana and Mahabharata, while emphasizing his Hindu faith, affection for Christian values, advocacy of Hindu-Muslim reconciliation, support for better relations with Pakistan, and criticism of India's licence-permit-quota system. The author characterizes Rajaji's political life chiefly as a search for reconciliation across religious, regional, caste, and national divisions, but also acknowledges his conservative views on women and his limitations.
 ---
 
+## Summary
+
+This essay presents C. Rajagopalachari (Rajaji) as a politician of unusual range, conviction, and intellectual independence. It recalls his career as lawyer, administrator, governor-general, chief minister, writer, and popular interpreter of the Ramayana and Mahabharata, while emphasizing his Hindu faith, affection for Christian values, advocacy of Hindu-Muslim reconciliation, support for better relations with Pakistan, and criticism of India's licence-permit-quota system. The author characterizes Rajaji's political life chiefly as a search for reconciliation across religious, regional, caste, and national divisions, but also acknowledges his conservative views on women and his limitations.
+
 ## Key points
 
 - Rajaji is portrayed as a politically exceptional figure whose career combined public office, law, literature, administration, and religious thought.

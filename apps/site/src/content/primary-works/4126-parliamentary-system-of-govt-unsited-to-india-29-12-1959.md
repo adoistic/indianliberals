@@ -53,6 +53,12 @@ summary: |-
   The proposed alternative is decentralisation: village communities would become the foundation of democracy, with political parties and governmental agencies subordinated to them. Narayan points to the democratic decentralisation experiments in Andhra and Rajasthan, while warning that democracy without power and initiative at the local level can result in disorder. He also criticises frequent elections, caste-based political mobilisation, and what he describes as a system of elections shaped by coercion and violence. The report records his belief that Gandhi’s suggestion of disbanding the Congress and forming voluntary “sevak” organisations, together with leadership from figures such as Nehru, might offer a way forward.
 ---
 
+## Summary
+
+This newspaper report presents Jayaprakash Narayan’s argument that India’s parliamentary system, after twelve years of experimentation, is not serving the country’s purposes and should be replaced or substantially re-created around self-governing villages. Narayan argues that Western democracy was unsuited to India, that representative institutions had produced an oligarchy and poor-quality leadership, and that elections had become dominated by caste and party considerations rather than public welfare.
+
+The proposed alternative is decentralisation: village communities would become the foundation of democracy, with political parties and governmental agencies subordinated to them. Narayan points to the democratic decentralisation experiments in Andhra and Rajasthan, while warning that democracy without power and initiative at the local level can result in disorder. He also criticises frequent elections, caste-based political mobilisation, and what he describes as a system of elections shaped by coercion and violence. The report records his belief that Gandhi’s suggestion of disbanding the Congress and forming voluntary “sevak” organisations, together with leadership from figures such as Nehru, might offer a way forward.
+
 ## Key points
 
 - Jayaprakash Narayan questions the suitability of parliamentary government for India after twelve years of experimentation.

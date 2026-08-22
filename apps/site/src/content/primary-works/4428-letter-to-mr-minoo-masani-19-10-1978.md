@@ -47,6 +47,10 @@ summary: |-
   This archival correspondence file contains sixteen English-language letters exchanged between Tata Sons Limited and M. R. Masani of the Democratic Research Service (DRS), covering the period from 19 October 1978 to 1 November 1993. The letters document Tata Sons’ recurring financial contributions to the DRS, generally sent by cheque after Masani’s requests and the submission of audited accounts. The annual contribution was Rs. 10,000 in the letters for 1978–79, 1979–80, 1981–82, 1982–83, 1983–84, 1984–85, 1985–86, and 1986–87; it rose to Rs. 20,000 for 1987–88 through 1990–91, and to Rs. 25,000 for 1991–92 through 1993–94.
 ---
 
+## Summary
+
+This archival correspondence file contains sixteen English-language letters exchanged between Tata Sons Limited and M. R. Masani of the Democratic Research Service (DRS), covering the period from 19 October 1978 to 1 November 1993. The letters document Tata Sons’ recurring financial contributions to the DRS, generally sent by cheque after Masani’s requests and the submission of audited accounts. The annual contribution was Rs. 10,000 in the letters for 1978–79, 1979–80, 1981–82, 1982–83, 1983–84, 1984–85, 1985–86, and 1986–87; it rose to Rs. 20,000 for 1987–88 through 1990–91, and to Rs. 25,000 for 1991–92 through 1993–94.
+
 ## Key points
 
 - The file consists of separate Tata Sons Limited letters rather than a single authored text.

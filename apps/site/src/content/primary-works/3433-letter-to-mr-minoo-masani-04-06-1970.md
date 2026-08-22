@@ -44,6 +44,10 @@ summary: |-
   This single-page letter from C. Rajagopalachari to M. R. Masani is dated 1 June 1970 and acknowledges Masani's prior indication that Morarji Desai would visit Rajagopalachari. Rajagopalachari reports that Desai spent half an hour with him that morning.
 ---
 
+## Summary
+
+This single-page letter from C. Rajagopalachari to M. R. Masani is dated 1 June 1970 and acknowledges Masani's prior indication that Morarji Desai would visit Rajagopalachari. Rajagopalachari reports that Desai spent half an hour with him that morning.
+
 ## Key points
 
 - The letter is dated 1 June 1970 and was sent from C. Rajagopalachari's Madras address.

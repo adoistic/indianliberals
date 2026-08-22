@@ -57,6 +57,12 @@ summary: |-
   Masani nevertheless cautions that Gandhi's second innings will not be easy. He urges her to restore law, discipline, and security without dictatorship, enforce the law impartially, and adopt pragmatic economic policies free from dogma and populism. He specifically points to reduced taxation, incentives for higher production, and de-control. The article closes by recounting a conversation with Jayaprakash Narayan, who anticipated that Gandhi might again become prime minister and said that he would accept the people's verdict and expect her to obey the Constitution.
 ---
 
+## Summary
+
+In this reprinted 19 January 1980 article, M. R. Masani argues that Indira Gandhi's return to office should be understood neither as a political miracle nor as a simple restoration of authoritarianism. He attributes the Congress victory partly to the electoral system: with 42.58 per cent of the vote, Congress won 66.85 per cent of Lok Sabha seats. Masani contends that voters were primarily rejecting the Janata government's record of disorder and indiscipline, while warning that Indira Gandhi's opponents misread the election by framing it only as democracy versus authoritarianism.
+
+Masani nevertheless cautions that Gandhi's second innings will not be easy. He urges her to restore law, discipline, and security without dictatorship, enforce the law impartially, and adopt pragmatic economic policies free from dogma and populism. He specifically points to reduced taxation, incentives for higher production, and de-control. The article closes by recounting a conversation with Jayaprakash Narayan, who anticipated that Gandhi might again become prime minister and said that he would accept the people's verdict and expect her to obey the Constitution.
+
 ## Key points
 
 - Masani welcomes Indira Gandhi's return to office while warning that political success does not guarantee wise governance.

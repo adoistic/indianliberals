@@ -54,6 +54,12 @@ summary: |-
   The letter makes clear that the administrative arrangements are intended to secure every Swatantra Party legislator's vote for Shri Subba Rao, described as the Joint Opposition nominee. It asks recipients to ensure that MLAs attend and vote at the state capital, that MPs unable to travel to Delhi vote there instead, and that party leaders and chief whips encourage maximum turnout and canvass support among non-party MLAs. The document ends by requesting a report on the steps taken pursuant to the circular.
 ---
 
+## Summary
+
+Dated 18 April 1967, this Swatantra Party Central Office letter from acting General Secretary N. Dandekar instructs party contacts to mobilise MLAs and MPs for the Presidential Election scheduled for 6 May. It announces that state offices will reimburse eligible travel expenses for MLAs who travel to their state capitals after voting, while MPs with free rail passes will not require reimbursement.
+
+The letter makes clear that the administrative arrangements are intended to secure every Swatantra Party legislator's vote for Shri Subba Rao, described as the Joint Opposition nominee. It asks recipients to ensure that MLAs attend and vote at the state capital, that MPs unable to travel to Delhi vote there instead, and that party leaders and chief whips encourage maximum turnout and canvass support among non-party MLAs. The document ends by requesting a report on the steps taken pursuant to the circular.
+
 ## Key points
 
 - The letter concerns the forthcoming Presidential Election on 6 May 1967.

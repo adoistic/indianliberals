@@ -50,6 +50,12 @@ summary: |-
   The letter frames the proposed meeting as a means of enabling the party to close ranks and resume united work under the leadership of its respected leaders. The document provides no further detail about the reasons for Masani’s resignation or the party’s subsequent decisions.
 ---
 
+## Summary
+
+This one-page English letter, dated 5 April 1966, is from Pravat Kr. Raut to N. Dandeker, General Secretary of the Swatantra Party. Raut requests an emergency meeting of the party’s General Council to discuss Minoo Masani’s resignation from the National Executive and Central Parliamentary Board.
+
+The letter frames the proposed meeting as a means of enabling the party to close ranks and resume united work under the leadership of its respected leaders. The document provides no further detail about the reasons for Masani’s resignation or the party’s subsequent decisions.
+
 ## Key points
 
 - The letter is dated 5 April 1966 and is addressed to N. Dandeker, M.P., General Secretary of the Swatantra Party.

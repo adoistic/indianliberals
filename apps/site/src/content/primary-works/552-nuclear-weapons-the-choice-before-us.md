@@ -54,6 +54,12 @@ summary: |-
   In the rendered pages, Masani's preferred policy is an openly announced mutual-security arrangement with the United States and, if possible, the Soviet Union. He distinguishes deterrence from retaliation: India's aim should be to prevent an attack, not to acquire the capacity to destroy Chinese targets after an attack has occurred. Drawing on Lyndon Johnson's conditional offer of support to countries facing nuclear blackmail, Masani argues that India should publicly seek guarantees and pool its security with other free countries. The pages end with a call for a public agreement that would make the prospective aggressor understand that a nuclear attack on Northern India would bring immediate destruction upon the attacker.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani presents India with three possible responses to China's 1964 nuclear explosion: appeal to world opinion, build an Indian bomb, or accept the principle of interdependence in nuclear affairs. He rejects reliance on international opinion as unrealistic, arguing that Communist China has repeatedly disregarded it, and warns that passivity would leave India subordinate to either Moscow or Peking. He also rejects an indigenous bomb as an impractical and ineffective deterrent, emphasizing the enormous costs of producing fissile material, developing delivery systems, and diverting national resources from economic purposes.
+
+In the rendered pages, Masani's preferred policy is an openly announced mutual-security arrangement with the United States and, if possible, the Soviet Union. He distinguishes deterrence from retaliation: India's aim should be to prevent an attack, not to acquire the capacity to destroy Chinese targets after an attack has occurred. Drawing on Lyndon Johnson's conditional offer of support to countries facing nuclear blackmail, Masani argues that India should publicly seek guarantees and pool its security with other free countries. The pages end with a call for a public agreement that would make the prospective aggressor understand that a nuclear attack on Northern India would bring immediate destruction upon the attacker.
+
 ## Key points
 
 - Masani identifies three alternatives after China's nuclear explosion: appeal to world opinion, build an Indian bomb, or pursue collective security.

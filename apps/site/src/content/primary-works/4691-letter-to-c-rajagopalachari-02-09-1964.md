@@ -51,6 +51,12 @@ summary: |-
   Masani stresses the need for firmness and discipline within the party, arguing that power and firmness are necessary to command respect. He also recounts a friendly conversation with Dayabhai Patel and says he briefed Guru Golwalkar about the party’s difficult relationship with the Jan Sangh. He rejects immediate efforts at rapprochement, while allowing that an adjustment might be possible in 1966; he warns that premature approaches would likely worsen relations rather than improve them.
 ---
 
+## Summary
+
+In this letter dated September 2, 1964, Minoo Masani writes to C. Rajagopalachari (“Rajaji”) about forthcoming political meetings in Delhi and the Swatantra Forum. He reports that K. M. Munshi supports pursuing a show-cause notice to Ramgірh without weakening the party’s position, and notes that Maharani Gayatri Devi will be absent from the meeting because she will not return from London until September 21.
+
+Masani stresses the need for firmness and discipline within the party, arguing that power and firmness are necessary to command respect. He also recounts a friendly conversation with Dayabhai Patel and says he briefed Guru Golwalkar about the party’s difficult relationship with the Jan Sangh. He rejects immediate efforts at rapprochement, while allowing that an adjustment might be possible in 1966; he warns that premature approaches would likely worsen relations rather than improve them.
+
 ## Key points
 
 - Masani outlines his travel plans and arrangements for meetings in Delhi.

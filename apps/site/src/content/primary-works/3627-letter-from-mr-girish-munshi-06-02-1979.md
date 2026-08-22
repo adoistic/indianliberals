@@ -51,6 +51,12 @@ summary: |-
   The page also contains handwritten annotations concerning earlier periods and additional administrative matters, including the disposal of old files. The document is therefore primarily an internal party-governance record rather than a statement of political doctrine.
 ---
 
+## Summary
+
+This one-page English circular from the Swatantra Party, Maharashtra, dated February 6, 1979, announces an Executive Committee meeting scheduled for February 23 at the party office in Bombay. Signed by Girish Munshi, identified as General Secretary, the notice sets out four agenda items: reviewing developments since the previous meeting, adopting the accounts for the period ending December 1978, considering matters concerning the party's premises, and taking up other business with the chair's permission.
+
+The page also contains handwritten annotations concerning earlier periods and additional administrative matters, including the disposal of old files. The document is therefore primarily an internal party-governance record rather than a statement of political doctrine.
+
 ## Key points
 
 - The Swatantra Party, Maharashtra, issued the notice from its office at Sassoon Building, 143 Mahatma Gandhi Road, Bombay.

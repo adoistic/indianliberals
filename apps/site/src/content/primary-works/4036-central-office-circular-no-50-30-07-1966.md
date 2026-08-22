@@ -51,6 +51,12 @@ summary: |-
   The circular seeks constituency-office addresses to which literature can be sent, replacing the existing practice of sending material separately to organisers and candidates. It also asks recipients to specify the name under which the material should be addressed and the language or languages required. The document is signed by S. V. Raju as Executive Secretary.
 ---
 
+## Summary
+
+This one-page English circular, issued by the Swatantra Party's Central Office on 30 July 1966, asks recipients to help establish an organized distribution system for party literature. The proposed system is intended to serve prospective Parliamentary candidates, Field Organisers, and 3-Man Committees, and to cover material printed both in English and in regional languages.
+
+The circular seeks constituency-office addresses to which literature can be sent, replacing the existing practice of sending material separately to organisers and candidates. It also asks recipients to specify the name under which the material should be addressed and the language or languages required. The document is signed by S. V. Raju as Executive Secretary.
+
 ## Key points
 
 - The document is Central Office Circular No. 50, dated 30 July 1966.

@@ -54,6 +54,12 @@ summary: |-
   The substantive policy material concerns foreign affairs and party organisation. Draft foreign-policy proposals call for stronger armed forces, improved military equipment, settlement of outstanding issues with Pakistan, consultation with neighbouring South and South-East Asian countries, and vigilance against infiltration and “5th Column activities.” The committee also discusses multilingual party service folders, assistance for students attending a cultural programme, cooperation with the Committee for Solidarity with Tibet, opposition to proposed bus-fare increases, ward-level enrolment, and the adoption of the Convention’s statement of accounts.
 ---
 
+## Summary
+
+This three-page Swatantra Party office record combines a Bombay notice dated 28 December 1959 with minutes of the Greater Bombay Organising Committee meeting held on 2 December 1959. The notice, signed by honorary secretary D. Lynn, calls an Organising Committee meeting for 8 January 1960 at the Party office. The minutes record attendance, confirmation of earlier minutes, the co-option of Mrs. Premila Wagle and Mrs. Rhoda Mehta, appreciation for V. Paranjoti’s production of “Judas Maccabaeus,” and routine organisational and financial decisions.
+
+The substantive policy material concerns foreign affairs and party organisation. Draft foreign-policy proposals call for stronger armed forces, improved military equipment, settlement of outstanding issues with Pakistan, consultation with neighbouring South and South-East Asian countries, and vigilance against infiltration and “5th Column activities.” The committee also discusses multilingual party service folders, assistance for students attending a cultural programme, cooperation with the Committee for Solidarity with Tibet, opposition to proposed bus-fare increases, ward-level enrolment, and the adoption of the Convention’s statement of accounts.
+
 ## Key points
 
 - The notice calls a Swatantra Party Organising Committee meeting for 8 January 1960 at the Bombay Party office.

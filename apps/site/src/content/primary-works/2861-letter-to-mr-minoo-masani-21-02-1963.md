@@ -50,6 +50,12 @@ summary: |-
   The letter directs Masani to page 9 of the enclosed set for the text of the P.S.P. amendments and closes as a brief parliamentary coordination note. It is signed by A. P. Jain on Swatantra Party letterhead; no formal title is printed on the document.
 ---
 
+## Summary
+
+This one-page letter from the Swatantra Party Parliamentary Office, dated February 21, 1963, informs M. R. Masani that it follows an earlier letter of February 19 and encloses a copy of amendments moved to the motion on the President's Address. The writer says that the Praja Socialist Party (P.S.P.) had withdrawn from its commitments and had not signed the joint amendments, instead submitting its first two amendments independently.
+
+The letter directs Masani to page 9 of the enclosed set for the text of the P.S.P. amendments and closes as a brief parliamentary coordination note. It is signed by A. P. Jain on Swatantra Party letterhead; no formal title is printed on the document.
+
 ## Key points
 
 - The letter is dated February 21, 1963, and was issued from the Swatantra Party Parliamentary Office in New Delhi.

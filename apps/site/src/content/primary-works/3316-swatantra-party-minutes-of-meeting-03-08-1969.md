@@ -54,6 +54,12 @@ summary: |-
   The minutes also document administrative and financial decisions. The committee reviewed the disposal and repair of party jeeps in Andhra, directed that unspent funds be returned to the Central Office, authorised action concerning the party's claims against the Raja of Ramgarh in connection with Bihar Jeep Credit, and discussed the venue and timing of the next General Council meeting. It approved association with the Bharat Sevak Samaj on the ground that the organisation was professedly non-political, and decided that permanent membership should follow a member who moved between states. The meeting then terminated.
 ---
 
+## Summary
+
+These four pages are the draft minutes of the Swatantra Party Organisation Sub-Committee meeting held on 3 August 1963 in Rajaji's Room, Madras. They record attendance, confirmation of earlier minutes, and the committee's review and approval of reconstituted state executive committees for Bombay City, Madras, Gujarat, Uttar Pradesh, and Andhra Pradesh. The record emphasizes central oversight of state-level organisation, election timetables, membership enrolment, office-bearer appointments, and the handling of resignations or objections by state leaders.
+
+The minutes also document administrative and financial decisions. The committee reviewed the disposal and repair of party jeeps in Andhra, directed that unspent funds be returned to the Central Office, authorised action concerning the party's claims against the Raja of Ramgarh in connection with Bihar Jeep Credit, and discussed the venue and timing of the next General Council meeting. It approved association with the Bharat Sevak Samaj on the ground that the organisation was professedly non-political, and decided that permanent membership should follow a member who moved between states. The meeting then terminated.
+
 ## Key points
 
 - The Organisation Sub-Committee met on 3 August 1963 in Madras with N. G. Ranga in the chair and C. Rajagopalachari, K. M. Munshi, S. K. D. Paliwal, and M. R. Masani present.

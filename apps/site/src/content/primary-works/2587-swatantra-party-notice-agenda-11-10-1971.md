@@ -53,6 +53,12 @@ summary: |-
   The agenda also covers candidate selection, party finance, local-unit support, district allocation among joint secretaries, office administration and public relations, correspondence concerning past party officials, banking arrangements, and a letter from T. R. Ramakrishnan regarding "Gram Swaraj." The document is an internal organisational record rather than a policy essay; no formal title or author byline appears, although P. Narayan signs as Office Secretary.
 ---
 
+## Summary
+
+This two-page English office notice, issued by the Swatantra Party's Bombay Region on 11 October 1971, convenes the regional Executive Committee for a meeting on 22 October 1971 at the party office at 143 Mahatma Gandhi Road, Bombay. It identifies the meeting's administrative and political agenda: confirmation of earlier minutes, the formation of a Parliamentary Board, preparation and publication of an election manifesto for the forthcoming Assembly elections, and consideration of proceedings from the party's national meetings in Bangalore.
+
+The agenda also covers candidate selection, party finance, local-unit support, district allocation among joint secretaries, office administration and public relations, correspondence concerning past party officials, banking arrangements, and a letter from T. R. Ramakrishnan regarding "Gram Swaraj." The document is an internal organisational record rather than a policy essay; no formal title or author byline appears, although P. Narayan signs as Office Secretary.
+
 ## Key points
 
 - The Swatantra Party Bombay Region scheduled an Executive Committee meeting for 22 October 1971.

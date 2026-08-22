@@ -47,6 +47,10 @@ summary: |-
   This single-page English telegram, received on 12 March 1971 in Bombay, is addressed to Shri Minoo Masani, care of Surajayam. Its clipped block-capital message appears to congratulate Masani as an outstanding parliamentarian, although several words in the telegraphic text are difficult to read and may contain transcription or source errors. The apparent sender is Arvind Parekh.
 ---
 
+## Summary
+
+This single-page English telegram, received on 12 March 1971 in Bombay, is addressed to Shri Minoo Masani, care of Surajayam. Its clipped block-capital message appears to congratulate Masani as an outstanding parliamentarian, although several words in the telegraphic text are difficult to read and may contain transcription or source errors. The apparent sender is Arvind Parekh.
+
 ## Key points
 
 - The document is a one-page telegram rather than a conventional letter.

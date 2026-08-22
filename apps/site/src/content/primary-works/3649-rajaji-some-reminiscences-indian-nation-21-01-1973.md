@@ -54,6 +54,12 @@ summary: |-
   The rendered page also recounts Rajaji’s administrative career: his appointment as Governor of Bengal, Governor-General of India, Cabinet minister, Chief Minister of Madras, and later his role in forming the Swatantra Party. Kripalani characterizes that party as a defence of democracy, individual freedom, and unfettered initiative, while describing Rajaji as a principled liberal whose arguments combined logic, wit, metaphor, and anecdote. The article closes with appreciations of Rajaji’s literary accomplishments, journalism, courtesy, and moral conviction.
 ---
 
+## Summary
+
+In the rendered page, J. B. Kripalani presents a personal and political remembrance of C. Rajagopalachari (Rajaji), whom he had known for more than fifty years. The article follows Rajaji from his early association with Gandhi and the Congress through his work in the non-cooperation movement, his leadership in the Swaraj Party, and his later political disagreements over Pakistan, the Quit India movement, and Congress strategy. Kripalani emphasizes Rajaji’s intellectual independence, debating ability, and willingness to dissent from prevailing opinion.
+
+The rendered page also recounts Rajaji’s administrative career: his appointment as Governor of Bengal, Governor-General of India, Cabinet minister, Chief Minister of Madras, and later his role in forming the Swatantra Party. Kripalani characterizes that party as a defence of democracy, individual freedom, and unfettered initiative, while describing Rajaji as a principled liberal whose arguments combined logic, wit, metaphor, and anecdote. The article closes with appreciations of Rajaji’s literary accomplishments, journalism, courtesy, and moral conviction.
+
 ## Key points
 
 - Kripalani recalls knowing Rajaji for more than fifty years and describes his early political and legal career.

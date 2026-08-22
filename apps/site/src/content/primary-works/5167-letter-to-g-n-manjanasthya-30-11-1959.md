@@ -50,6 +50,12 @@ summary: |-
   Masani adds that he will be unable to attend the conference because he will be in Calcutta on that date. The page consists solely of this brief correspondence, with a handwritten signature and the recipient's address in Suntikoppa, Coorg.
 ---
 
+## Summary
+
+This untitled letter, dated 30 November 1959, is from M. R. Masani to G. M. Manjanathaya. Masani acknowledges Manjanathaya's letter of 24 November and explains that he is enclosing a message for the District Conference of the Swatantra Party in Coorg, scheduled for 6 December.
+
+Masani adds that he will be unable to attend the conference because he will be in Calcutta on that date. The page consists solely of this brief correspondence, with a handwritten signature and the recipient's address in Suntikoppa, Coorg.
+
 ## Key points
 
 - The letter is dated 30 November 1959.

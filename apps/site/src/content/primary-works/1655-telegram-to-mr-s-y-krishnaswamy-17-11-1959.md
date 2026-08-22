@@ -45,6 +45,10 @@ summary: |-
   This one-page English telegram, sent from Bombay and dated 17 November 1959, is addressed to “Sir Homi Modi” at Bombay House. Its brief message requests a reply to an earlier letter dated the sixth and refers to Krishnaswamy. The sender is not identified on the surviving form.
 ---
 
+## Summary
+
+This one-page English telegram, sent from Bombay and dated 17 November 1959, is addressed to “Sir Homi Modi” at Bombay House. Its brief message requests a reply to an earlier letter dated the sixth and refers to Krishnaswamy. The sender is not identified on the surviving form.
+
 ## Key points
 
 - The document is an Indian Posts and Telegraphs Department telegram form.

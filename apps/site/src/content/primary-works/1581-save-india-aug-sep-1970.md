@@ -67,3 +67,9 @@ summary: |-
   
   The latter half records resolutions and organisational initiatives concerning West Bengal, Cambodia, trade nationalisation, unemployment, prices, land agitation, agricultural taxation, steel plants and the recovery of territory occupied by China. It also reports a Fundamental Rights campaign and proposes a broad, non-partisan organisational network to defend constitutional rights, including freedom of speech, association, movement and property. The issue closes with guidance for the Fundamental Rights Front and a call to strengthen the party's local organisation, youth work and farmers' associations.
 ---
+
+## Summary
+
+This August/September 1970 issue of Swatantra Newsletter (No. 75) documents the Swatantra Party's response to the Organisation Congress's call for consolidating nationalist and democratic forces against communism. Its central materials are Minoo Masani's presidential address, C. Rajagopalachari's speeches, the unanimously adopted political resolution, and reports of party proceedings. Across these pages, the issue combines a defence of constitutional democracy, civil liberties, minority equality and secularism with criticism of communist influence, Soviet alignment, state controls, nationalisation and economic mismanagement.
+
+The latter half records resolutions and organisational initiatives concerning West Bengal, Cambodia, trade nationalisation, unemployment, prices, land agitation, agricultural taxation, steel plants and the recovery of territory occupied by China. It also reports a Fundamental Rights campaign and proposes a broad, non-partisan organisational network to defend constitutional rights, including freedom of speech, association, movement and property. The issue closes with guidance for the Fundamental Rights Front and a call to strengthen the party's local organisation, youth work and farmers' associations.

@@ -50,6 +50,12 @@ summary: |-
   The pamphlet also advocates stable agricultural pricing and the abolition of government monopolies in food marketing. It proposes that the government buy foodgrains at support prices in years of plenty and sell them cheaply to poor people during scarcity, explicitly identifying this as “social justice.” No author, publisher, place, or publication year is printed on the page.
 ---
 
+## Summary
+
+This one-page illustrated pamphlet presents a set of corrective measures for inflation, arguing that there is no single or instantaneous remedy. Its central recommendation is to give priority to agriculture and agricultural inputs, including fertilisers, agricultural implements, poultry farming, feeder roads, irrigation, pesticides, technical instruction, agricultural credit, warehousing, and marketing facilities.
+
+The pamphlet also advocates stable agricultural pricing and the abolition of government monopolies in food marketing. It proposes that the government buy foodgrains at support prices in years of plenty and sell them cheaply to poor people during scarcity, explicitly identifying this as “social justice.” No author, publisher, place, or publication year is printed on the page.
+
 ## Key points
 
 - The pamphlet rejects the idea that inflation can be solved by a single or instantaneous measure.

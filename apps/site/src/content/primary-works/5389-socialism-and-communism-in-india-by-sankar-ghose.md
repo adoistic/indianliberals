@@ -51,6 +51,12 @@ summary: |-
   The pages also contrast the economic performance of free-capitalist and communist systems. Masani argues that industrial workers in Western democracies and settler societies have become more prosperous, while Soviet communism has failed to produce either a materially superior standard of living or a free and equal society. The extract concludes that democratic opinion is moving away from state socialism and communism toward liberty and popular enterprise, while warning that the state remains the greatest concentration of power and a major threat to human freedom.
 ---
 
+## Summary
+
+These two rendered pages are extracts from Sankar Ghose's Socialism And Communism In India. They present Minoo Masani's argument that socialism is losing ground in Europe and that democratic socialist parties are moving away from state ownership, bureaucratic power, and centralized planning toward social-democratic values, private enterprise, competition, and limited public control where necessary. The extract quotes programmes of the Dutch, Swedish, Swiss, Australian, and German social-democratic parties to illustrate this shift.
+
+The pages also contrast the economic performance of free-capitalist and communist systems. Masani argues that industrial workers in Western democracies and settler societies have become more prosperous, while Soviet communism has failed to produce either a materially superior standard of living or a free and equal society. The extract concludes that democratic opinion is moving away from state socialism and communism toward liberty and popular enterprise, while warning that the state remains the greatest concentration of power and a major threat to human freedom.
+
 ## Key points
 
 - The extract quotes Ghose's 1969 characterization of Indira Gandhi as increasingly communist in outlook and as moving toward dictatorship.

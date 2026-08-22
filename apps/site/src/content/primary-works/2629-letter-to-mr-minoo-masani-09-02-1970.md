@@ -51,6 +51,12 @@ summary: |-
   The letter says that the unnamed gentleman involved has agreed to terms with “Manu.” Shroff asks Masani to communicate his conclusion so that Shroff can convey it to the gentleman and collect the necessary deposit. The page also bears the circled archival number “2629”; no title, publisher, place, or further correspondence is visible.
 ---
 
+## Summary
+
+This handwritten English letter, dated “9/2/70” (with the day/month order uncertain), is addressed to Minoo Masani and signed by Minoo Shroff. Shroff refers to a problem involving the Ferro Manganese Corporation and asks Masani to read the accompanying papers and assess whether the matter can be resolved.
+
+The letter says that the unnamed gentleman involved has agreed to terms with “Manu.” Shroff asks Masani to communicate his conclusion so that Shroff can convey it to the gentleman and collect the necessary deposit. The page also bears the circled archival number “2629”; no title, publisher, place, or further correspondence is visible.
+
 ## Key points
 
 - The letter is addressed to Minoo Masani and signed by Minoo Shroff.

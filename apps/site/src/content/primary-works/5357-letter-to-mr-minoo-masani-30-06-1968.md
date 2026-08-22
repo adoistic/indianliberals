@@ -50,6 +50,12 @@ summary: |-
   The letter advocates reducing purely symbolic campaign support—“mere symbol lending,” “mere name lending,” and “mere support”—while keeping open the possibility of recruiting successful 1967 independent candidates. It specifically notes that Sitaram Jaipuria, M.P. (Rajya Sabha), had indicated that some independents might be willing to join the Swatantra Party and contest as its candidates. The sender’s handwritten signature is not sufficiently legible to establish authorship; the letter is addressed to Minoo Masani.
 ---
 
+## Summary
+
+This two-page Swatantra Party Central Office letter, dated 30 June 1968, seeks Minoo Masani’s assistance with the party’s preparations for the mid-term election in Uttar Pradesh, expected in February 1969. It candidly assesses the party’s poor performance in the 1967 general election: 207 constituencies contested, 12 won, 195 lost, and 178 deposits forfeited. The writer argues that careful selection of constituencies and candidates is essential, and encloses lists of potentially viable constituencies together with earlier correspondence setting out party policy.
+
+The letter advocates reducing purely symbolic campaign support—“mere symbol lending,” “mere name lending,” and “mere support”—while keeping open the possibility of recruiting successful 1967 independent candidates. It specifically notes that Sitaram Jaipuria, M.P. (Rajya Sabha), had indicated that some independents might be willing to join the Swatantra Party and contest as its candidates. The sender’s handwritten signature is not sufficiently legible to establish authorship; the letter is addressed to Minoo Masani.
+
 ## Key points
 
 - The letter requests assistance for the Swatantra Party’s planned February 1969 mid-term election campaign in Uttar Pradesh.

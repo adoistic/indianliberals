@@ -48,6 +48,12 @@ summary: |-
   Kapasi also records the distribution of the material: one copy was sent to the Swatantra Party's head office in Bangalore, another to Bhailal Patel in Anand, and the full text of the press conference to M. R. Pai of Forum, apparently the Forum of Free Enterprise. The document is a brief administrative communication rather than an exposition of policy.
 ---
 
+## Summary
+
+In this letter dated 8 July 1959, B. B. Kapasi writes to Homi Mody about details concerning the Swatantra Party, referring to the Prime Minister's press conference of the previous day. Kapasi says the enclosed material is intended to be of interest to Mody.
+
+Kapasi also records the distribution of the material: one copy was sent to the Swatantra Party's head office in Bangalore, another to Bhailal Patel in Anand, and the full text of the press conference to M. R. Pai of Forum, apparently the Forum of Free Enterprise. The document is a brief administrative communication rather than an exposition of policy.
+
 ## Key points
 
 - The letter is dated 8 July 1959 and is written from New Delhi.

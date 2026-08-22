@@ -48,6 +48,10 @@ summary: |-
   This untitled Swatantra Party circular provides logistical instructions for members attending the General Council meetings in Bombay on May 26 and 27, 1966. It explains reception arrangements at Victoria Terminus, Bombay Central, and Santa Cruz Airport; identifies party volunteers by their badges; and outlines transport from arrival points to members’ residences or the city booking office. Members travelling by air are asked to provide arrival and accommodation details so that the Bombay Unit can coordinate assistance.
 ---
 
+## Summary
+
+This untitled Swatantra Party circular provides logistical instructions for members attending the General Council meetings in Bombay on May 26 and 27, 1966. It explains reception arrangements at Victoria Terminus, Bombay Central, and Santa Cruz Airport; identifies party volunteers by their badges; and outlines transport from arrival points to members’ residences or the city booking office. Members travelling by air are asked to provide arrival and accommodation details so that the Bombay Unit can coordinate assistance.
+
 ## Key points
 
 - The circular concerns the Swatantra Party General Council meetings scheduled for May 26 and 27, 1966.

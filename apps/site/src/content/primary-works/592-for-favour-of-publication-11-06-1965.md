@@ -51,6 +51,10 @@ summary: |-
   This two-page press-release-style paper reports M. R. Masani’s address to the annual general meeting of the Indian Council of World Affairs on India’s “neglected backyard” in Southeast Asia. Masani argues that India’s foreign-policy failures have weakened its position after the 1962 Chinese invasion, leaving Laos, Malaysia, South Vietnam, and India vulnerable to Chinese Communist expansion. He presents the Vietnam conflict as externally directed armed aggression rather than an indigenous “war of national liberation,” citing North Vietnamese infiltration, direction from Hanoi, foreign-supplied weapons, and alleged violations of the Geneva Convention.
 ---
 
+## Summary
+
+This two-page press-release-style paper reports M. R. Masani’s address to the annual general meeting of the Indian Council of World Affairs on India’s “neglected backyard” in Southeast Asia. Masani argues that India’s foreign-policy failures have weakened its position after the 1962 Chinese invasion, leaving Laos, Malaysia, South Vietnam, and India vulnerable to Chinese Communist expansion. He presents the Vietnam conflict as externally directed armed aggression rather than an indigenous “war of national liberation,” citing North Vietnamese infiltration, direction from Hanoi, foreign-supplied weapons, and alleged violations of the Geneva Convention.
+
 ## Key points
 
 - Masani warns that Chinese Communist influence could extend from Vietnam and Laos through Malaysia and Indonesia toward India.

@@ -50,6 +50,12 @@ summary: |-
   The letter also coordinates further party activity: a draft letter to Madhu is to be prepared after obtaining the informal consent of Bombay's other members, while information about Bhole is to be collected from the Bombay Law Reporter office. Munshi additionally asks Narayan to contact someone connected with the People's Education Society who may have information about Bhole. The document is an operational piece of Swatantra Party correspondence rather than a statement of political doctrine.
 ---
 
+## Summary
+
+This one-page letter, dated November 29, 1973, is addressed by Girish K. Munshi to Mr. Narayan regarding organisational preparations for the Bombay Central constituency. Munshi asks Narayan to prepare electoral roles, clarify whether a constituency plan exists, and secure Dhiraj and Pirzada's consent to undertake the main burden of the work.
+
+The letter also coordinates further party activity: a draft letter to Madhu is to be prepared after obtaining the informal consent of Bombay's other members, while information about Bhole is to be collected from the Bombay Law Reporter office. Munshi additionally asks Narayan to contact someone connected with the People's Education Society who may have information about Bhole. The document is an operational piece of Swatantra Party correspondence rather than a statement of political doctrine.
+
 ## Key points
 
 - The letter is dated November 29, 1973, and is addressed to Mr. Narayan.

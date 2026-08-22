@@ -55,6 +55,10 @@ summary: |-
   This one-page National Executive statement, issued by the Swatantra Party on February 17, 1970, opposes the Kerala Land Reforms (Amendment) Act, 1969. It argues that the Act invalidates voluntary land transfers made after publication of the Kerala Land Reforms Bill, 1963, potentially reducing affected landowners to penury or rendering them homeless. It also condemns the compensation provisions as effectively expropriatory.
 ---
 
+## Summary
+
+This one-page National Executive statement, issued by the Swatantra Party on February 17, 1970, opposes the Kerala Land Reforms (Amendment) Act, 1969. It argues that the Act invalidates voluntary land transfers made after publication of the Kerala Land Reforms Bill, 1963, potentially reducing affected landowners to penury or rendering them homeless. It also condemns the compensation provisions as effectively expropriatory.
+
 ## Key points
 
 - The Swatantra Party National Executive formally supports the Kerala unit's opposition to the Kerala Land Reforms (Amendment) Act, 1969.

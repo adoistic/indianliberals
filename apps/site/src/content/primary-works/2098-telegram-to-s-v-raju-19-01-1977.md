@@ -51,6 +51,10 @@ summary: |-
   This one-page English-language telegram is an operational communication from the Swatantra Party to S. V. Raju in Bombay. It instructs him to attend a meeting of the party's National Executive Committee in Madras on Tuesday the 25th instant, with the general election identified as the sole discussion item. The message is signed by Sri Kumar, Joint Secretary.
 ---
 
+## Summary
+
+This one-page English-language telegram is an operational communication from the Swatantra Party to S. V. Raju in Bombay. It instructs him to attend a meeting of the party's National Executive Committee in Madras on Tuesday the 25th instant, with the general election identified as the sole discussion item. The message is signed by Sri Kumar, Joint Secretary.
+
 ## Key points
 
 - The document is a typed telegram sent to S. V. Raju at Tilak Nagar, Bombay 89.

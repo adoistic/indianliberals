@@ -51,6 +51,10 @@ summary: |-
   Dated 20 November 1974, this one-page letter from G. K. Sundaram, Treasurer of the All India Swatantra Party and President of the Tamilnadu Swatantra Party, invites M. R. Masani to a National General Council meeting scheduled for 8 December 1974 at the Local Library Authority Building on Mount Road, Madras. The letter identifies the meeting's agenda as filling vacancies on the National Executive, strengthening the party after the defection of certain members, reviewing the political situation, and formulating the party's position on national problems.
 ---
 
+## Summary
+
+Dated 20 November 1974, this one-page letter from G. K. Sundaram, Treasurer of the All India Swatantra Party and President of the Tamilnadu Swatantra Party, invites M. R. Masani to a National General Council meeting scheduled for 8 December 1974 at the Local Library Authority Building on Mount Road, Madras. The letter identifies the meeting's agenda as filling vacancies on the National Executive, strengthening the party after the defection of certain members, reviewing the political situation, and formulating the party's position on national problems.
+
 ## Key points
 
 - The National General Council meeting is scheduled for 8 December 1974 in Madras.

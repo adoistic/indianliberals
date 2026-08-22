@@ -52,6 +52,12 @@ summary: |-
   The enclosures comprise draft alternate amendments and the Swatantra Party's constitution, adopted at its National Convention in Patna on 19–20 March 1960. The constitutional material defines membership, subscriptions, primary and district units, state or regional councils, the General Council, the National Executive, co-option, terms of office, conventions, rule-making, amendments, and transitional arrangements. The draft amendments lower the membership age from 21 to 18, specify work activities qualifying applicants for membership, revise subscription levels and membership administration, create an associate category without voting rights, reduce the threshold for forming primary-unit committees, and alter the composition and election of state and national bodies.
 ---
 
+## Summary
+
+This 24 January 1964 personal letter from M. R. Masani to C. Rajagopalachari discusses Rajagopalachari's proposed scheme for amending the Swatantra Party constitution. Masani observes that the scheme would require constitutional amendments and could be presented to the General Council as a substitute motion to the Central Organising Committee's recommendation. He prefers first attempting to secure the Committee's scheme, treating the alternative as a last resort, and encloses three documents.
+
+The enclosures comprise draft alternate amendments and the Swatantra Party's constitution, adopted at its National Convention in Patna on 19–20 March 1960. The constitutional material defines membership, subscriptions, primary and district units, state or regional councils, the General Council, the National Executive, co-option, terms of office, conventions, rule-making, amendments, and transitional arrangements. The draft amendments lower the membership age from 21 to 18, specify work activities qualifying applicants for membership, revise subscription levels and membership administration, create an associate category without voting rights, reduce the threshold for forming primary-unit committees, and alter the composition and election of state and national bodies.
+
 ## Key points
 
 - Masani writes to C. Rajagopalachari on 24 January 1964 about proposed amendments to the Swatantra Party constitution.

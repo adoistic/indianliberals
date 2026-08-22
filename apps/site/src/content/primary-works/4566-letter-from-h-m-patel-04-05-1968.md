@@ -50,6 +50,12 @@ summary: |-
   Patel states that the investigation report was submitted to the National Executive, which, at its meeting on 14 April 1968, cancelled the suspension. The Dhoraji Taluka Committee members, office-bearers, and representatives on the District Committee were therefore authorised to function officially again. Copies were sent to Bhagwanjibhai Bhanjibhai Patel, H. B. Shukla, and the Executive Secretary at the party’s central office.
 ---
 
+## Summary
+
+This one-page letter from H. M. Patel, President of the Gujarat Swatantra Party, is dated 4 May 1968 and addressed to the President of the Rajkot District Swatantra Party. Patel reports that the Gujarat party’s National Executive Committee had suspended the Dhoraji Taluka Committee and its representatives on the District Committee while investigating alleged bogus membership enrolments and other irregularities during the committee’s organisational elections.
+
+Patel states that the investigation report was submitted to the National Executive, which, at its meeting on 14 April 1968, cancelled the suspension. The Dhoraji Taluka Committee members, office-bearers, and representatives on the District Committee were therefore authorised to function officially again. Copies were sent to Bhagwanjibhai Bhanjibhai Patel, H. B. Shukla, and the Executive Secretary at the party’s central office.
+
 ## Key points
 
 - H. M. Patel wrote the letter from Vallabh Vidyanagar on 4 May 1968.

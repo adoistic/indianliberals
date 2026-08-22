@@ -57,6 +57,12 @@ summary: |-
   The attached resolutions express the party's support for Jayaprakash Narayan's anti-corruption movement and call for electoral safeguards, improved agricultural inputs and food-grain distribution, and the removal of controls and quota systems said to be restricting industrial output. The document presents these positions as formal decisions of the National Executive, while also documenting organisational consolidation and the party's concern with its finances and political support. The complete four-page record, including the attached resolutions, was rendered and read.
 ---
 
+## Summary
+
+This four-page office record contains the draft minutes of the Swatantra Party National Executive meeting held in Bombay on 22 January 1975. The meeting reviewed the disputed dissolution of the party, reconstituted the Central Parliamentary Board, approved steps concerning the Tamil Nadu Unit's challenge to an Election Commission decision, and discussed the party's financial position and state-level organisation. It also recorded support for Jayaprakash Narayan's movement, arrangements for party bank accounts, and resolutions on electoral reform, food policy, revision of electoral rolls, and industrial production.
+
+The attached resolutions express the party's support for Jayaprakash Narayan's anti-corruption movement and call for electoral safeguards, improved agricultural inputs and food-grain distribution, and the removal of controls and quota systems said to be restricting industrial output. The document presents these positions as formal decisions of the National Executive, while also documenting organisational consolidation and the party's concern with its finances and political support. The complete four-page record, including the attached resolutions, was rendered and read.
+
 ## Key points
 
 - The National Executive declined to confirm the minutes of its August 1974 meeting after declaring the alleged party dissolution unconstitutional and legally void.

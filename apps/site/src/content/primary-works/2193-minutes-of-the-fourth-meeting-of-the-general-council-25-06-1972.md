@@ -66,6 +66,12 @@ summary: |-
   The council adopted resolutions on the fall of the Orissa government, Indo-Pakistan summit talks, the condition of Harijans and Adivasis, electoral reform, college education in Kerala, Tamil Nadu’s farmers’ agitation, threats to press freedom, and land ceilings. The attached policy statement presents the party as a constitutional opposition defending liberty, justice, minority rights, agricultural property, productive employment, consumer interests, labour organisation, free information, and social mobility. Rajaji’s address and Piloo Mody’s acceptance speech frame the party’s immediate task as resisting dictatorship, communism, corruption, and political centralisation while rebuilding a mass-based organisation.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party General Council’s fourth meeting, held in Madras on 24–25 June 1972. The council confirmed earlier minutes, welcomed replacement members, opened proceedings to the press, and reorganised its leadership: H. M. Patel stepped down as president and Piloo Mody was elected unanimously. The meeting also accepted resignations, filled vacancies on the National Executive, and discussed the need for a younger, more energetic party organisation and closer contact with the public.
+
+The council adopted resolutions on the fall of the Orissa government, Indo-Pakistan summit talks, the condition of Harijans and Adivasis, electoral reform, college education in Kerala, Tamil Nadu’s farmers’ agitation, threats to press freedom, and land ceilings. The attached policy statement presents the party as a constitutional opposition defending liberty, justice, minority rights, agricultural property, productive employment, consumer interests, labour organisation, free information, and social mobility. Rajaji’s address and Piloo Mody’s acceptance speech frame the party’s immediate task as resisting dictatorship, communism, corruption, and political centralisation while rebuilding a mass-based organisation.
+
 ## Key points
 
 - The General Council met in Madras on 24–25 June 1972, with representatives from multiple state units, former president Minoo Masani, members of Parliament, and special invitees present.

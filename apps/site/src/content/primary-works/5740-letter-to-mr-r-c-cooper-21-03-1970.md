@@ -61,6 +61,14 @@ summary: |-
   On political questions, Desai insists that democratic dissent is not indiscipline unless it involves defiance of a party whip or mandate. He discusses Gujarat party politics, the 1968 Rajya Sabha election, the presidential election, and his support for dissent on President's Rule in West Bengal. He concludes that the charge-sheet is motivated by personal prejudice and reiterates that his economic and political positions fall within the Swatantra Party's principles.
 ---
 
+## Summary
+
+In this letter dated 21 March 1970, C. C. Desai replies to charges brought against him by R. C. Cooper, General Secretary of the Swatantra Party. Desai argues that Cooper has confused party policy with party principles, and party discipline with legitimate freedom of thought and speech. He accepts free enterprise as a Swatantra principle but distinguishes it from the protected, monopolistic private enterprise produced by India's licence-permit-quota system. He warns that defending large industrial houses at the expense of workers, consumers, traders, farmers, and small shareholders betrays the party's liberal commitments.
+
+Desai's economic argument centers on abolishing the managing-agency system, restraining managerial remuneration, broadening access to bank credit, and opposing the concentration of economic power. He criticizes party positions on industrial and agricultural management, arguing that support for established industrialists and monopoly interests is inconsistent with a genuinely competitive economy. The letter also defends his conduct in the Select Committee on the Monopolies and Restrictive Trade Practices Bill and his public disagreement with Minoo Masani.
+
+On political questions, Desai insists that democratic dissent is not indiscipline unless it involves defiance of a party whip or mandate. He discusses Gujarat party politics, the 1968 Rajya Sabha election, the presidential election, and his support for dissent on President's Rule in West Bengal. He concludes that the charge-sheet is motivated by personal prejudice and reiterates that his economic and political positions fall within the Swatantra Party's principles.
+
 ## Key points
 
 - Desai distinguishes party principles from particular policies and legitimate dissent from indiscipline.

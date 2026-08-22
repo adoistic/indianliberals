@@ -52,6 +52,12 @@ summary: |-
   Raju partly accepts Dandekar's proposal to replace the headquarters' comments with Dandekar's own text and recommends reducing the length. He says he has marked changes in an attached copy and asks Masani to airfreight the finally corrected version so that it reaches him by April 2, while acknowledging Masani's mother's illness. The page also contains handwritten editorial annotations and Raju's signature.
 ---
 
+## Summary
+
+In this letter dated March 31, 1970, S. V. Raju writes to Minoo Masani about N. Dandekar's comments on an earlier Swatantra Party National Headquarters draft. Raju reports that Dandekar wants the headquarters' comments confined to two issues: the abolition of the managing agency system and the Monopolies and Restrictive Trade Practices Bill, which Dandekar believes are sufficient grounds for expelling Morarji Desai.
+
+Raju partly accepts Dandekar's proposal to replace the headquarters' comments with Dandekar's own text and recommends reducing the length. He says he has marked changes in an attached copy and asks Masani to airfreight the finally corrected version so that it reaches him by April 2, while acknowledging Masani's mother's illness. The page also contains handwritten editorial annotations and Raju's signature.
+
 ## Key points
 
 - Raju responds to N. Dandekar's note on Swatantra Party headquarters comments.

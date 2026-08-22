@@ -51,6 +51,12 @@ summary: |-
   The agenda centers on internal party administration and preparations for the forthcoming general elections. It includes confirming the previous meeting’s minutes, reviewing progress in adopted parliamentary and assembly constituencies, considering candidate recommendations, preparing for the winter parliamentary session, negotiating electoral adjustments with democratic opposition parties, and assessing election preparations. The circular is signed by M. R. Masani as General Secretary.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated 18 October 1966, confirms that the Central Parliamentary Board will meet in New Delhi on 5 November at K. M. Munshi’s residence. It asks recipients to attend and provides practical instructions for arranging travel reservations and hotel bookings through the party’s Parliamentary Office.
+
+The agenda centers on internal party administration and preparations for the forthcoming general elections. It includes confirming the previous meeting’s minutes, reviewing progress in adopted parliamentary and assembly constituencies, considering candidate recommendations, preparing for the winter parliamentary session, negotiating electoral adjustments with democratic opposition parties, and assessing election preparations. The circular is signed by M. R. Masani as General Secretary.
+
 ## Key points
 
 - The Central Parliamentary Board meeting is scheduled for 5 November 1966 in New Delhi.

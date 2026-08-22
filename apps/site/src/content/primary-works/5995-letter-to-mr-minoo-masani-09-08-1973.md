@@ -46,6 +46,12 @@ summary: |-
   Mavalankar says he expects to visit Bombay later in August for three Jain Lecture Series engagements and hopes to call on Jayaprakash Narayan. He also asks whether Masani's autobiography has been published, closing with affectionate regards from his wife Purnima and himself. The second rendered page is an addressed airmail envelope for the letter.
 ---
 
+## Summary
+
+This two-page English letter, dated August 9, 1973, was written by P. G. Mavalankar to M. R. Masani from Mavalankar's New Delhi parliamentary address. Mavalankar thanks Masani for his courteous reply on behalf of Jayaprakashji and reports that Jayaprakash Narayan is recovering from a heart ailment.
+
+Mavalankar says he expects to visit Bombay later in August for three Jain Lecture Series engagements and hopes to call on Jayaprakash Narayan. He also asks whether Masani's autobiography has been published, closing with affectionate regards from his wife Purnima and himself. The second rendered page is an addressed airmail envelope for the letter.
+
 ## Key points
 
 - The letter is dated August 9, 1973, and is written on P. G. Mavalankar's Member of Parliament (Lok Sabha) letterhead.

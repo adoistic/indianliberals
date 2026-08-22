@@ -50,6 +50,12 @@ summary: |-
   The enclosed pages examine the growth of executive dominance and one-party rule in post-independence Africa. Gupta surveys the arguments used to justify one-party government—including claims about African political traditions, national unity, crisis conditions, and the dangers of factionalism—before describing mechanisms of opposition neutralization, association co-optation, and constitutional change. The pages then introduce comparative case studies of the Ivory Coast, Ghana, Tanzania, and Zambia. In the Ivory Coast section, Gupta attributes the durability of Félix Houphouët-Boigny’s regime to centralized authority, restricted popular participation, bureaucratic control, and economic growth, while also identifying inequality, urbanization, unemployment, generational tensions, and succession as potential sources of instability. The enclosed article is visibly incomplete at the end of the rendered pages.
 ---
 
+## Summary
+
+This undated archival item consists of a brief handwritten note addressed to “Mr M.R.M.” and signed apparently “Ranga,” together with an enclosed typeset article by Anirudha Gupta, “Political System and the One-Party States of Tropical Africa.” The note says that the enclosure is interesting but is not yet considered relevant to India. The recipient’s full identity, the date, and the sender’s full name are not visible.
+
+The enclosed pages examine the growth of executive dominance and one-party rule in post-independence Africa. Gupta surveys the arguments used to justify one-party government—including claims about African political traditions, national unity, crisis conditions, and the dangers of factionalism—before describing mechanisms of opposition neutralization, association co-optation, and constitutional change. The pages then introduce comparative case studies of the Ivory Coast, Ghana, Tanzania, and Zambia. In the Ivory Coast section, Gupta attributes the durability of Félix Houphouët-Boigny’s regime to centralized authority, restricted popular participation, bureaucratic control, and economic growth, while also identifying inequality, urbanization, unemployment, generational tensions, and succession as potential sources of instability. The enclosed article is visibly incomplete at the end of the rendered pages.
+
 ## Key points
 
 - The handwritten note is addressed to “Mr M.R.M.” and signed apparently “Ranga”; its date and full recipient identification are absent.

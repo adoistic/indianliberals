@@ -50,6 +50,12 @@ summary: |-
   Munshi asks whether Raju, Sampat, K. H., and others sharing Raju’s views would object to such an arrangement. The letter records an exploratory discussion about political realignment, party consolidation, and the disposition of party property after the Swatantra Party’s dissolution.
 ---
 
+## Summary
+
+This one-page letter from G. K. Munshi to S. V. Raju, dated June 14, 1975, concerns the delayed decision over the Swatantra Party’s office and assets. Munshi reports that Jayaprakash Narayan appears to be bringing several political parties, including J.S. and Congress (O), together, potentially creating conditions for a new party to assume the Swatantra Party’s assets.
+
+Munshi asks whether Raju, Sampat, K. H., and others sharing Raju’s views would object to such an arrangement. The letter records an exploratory discussion about political realignment, party consolidation, and the disposition of party property after the Swatantra Party’s dissolution.
+
 ## Key points
 
 - The letter addresses a delayed decision concerning the Swatantra Party’s office and assets.

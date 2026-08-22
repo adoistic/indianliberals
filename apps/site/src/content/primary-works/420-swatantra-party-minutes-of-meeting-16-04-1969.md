@@ -50,6 +50,10 @@ summary: |-
   This one-page Swatantra Party Parliamentary Office circular, dated April 16, 1969, amends an earlier whip dated April 7. It changes the date of elections to the party’s financial committees from Monday, April 28, to Tuesday, April 29, and instructs members to attend the Lok Sabha between 11:30 and 16:30 to vote. The elections are to be held in Room No. 62.
 ---
 
+## Summary
+
+This one-page Swatantra Party Parliamentary Office circular, dated April 16, 1969, amends an earlier whip dated April 7. It changes the date of elections to the party’s financial committees from Monday, April 28, to Tuesday, April 29, and instructs members to attend the Lok Sabha between 11:30 and 16:30 to vote. The elections are to be held in Room No. 62.
+
 ## Key points
 
 - The circular amends a whip issued on April 7, 1969.

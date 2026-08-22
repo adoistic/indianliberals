@@ -57,6 +57,12 @@ summary: |-
   The committee resolved to seek Select Committee scrutiny of the Companies Amendment Bill, press for extended clause-by-clause consideration of the Finance Bill, and prolong debate on the Monopolies Bill. It also supported a bill concerning the abolition of decorations and awards, planned a party meeting to discuss the draft Fourth Plan, and decided to oppose government acquisition of land near Birla House that was associated with Gandhi. Other decisions concerned the Gujarat Assembly by-election, party-office financing, and appreciation for contributors to the Sanaskartha parliamentary by-election fund.
 ---
 
+## Summary
+
+This one-page record from the Swatantra Party Parliamentary Office documents a meeting of the Party’s Executive Committee in Parliament, held on 29 April 1969. It lists twelve members present and records nine decisions concerning parliamentary strategy, legislation, party organisation, elections, and fundraising.
+
+The committee resolved to seek Select Committee scrutiny of the Companies Amendment Bill, press for extended clause-by-clause consideration of the Finance Bill, and prolong debate on the Monopolies Bill. It also supported a bill concerning the abolition of decorations and awards, planned a party meeting to discuss the draft Fourth Plan, and decided to oppose government acquisition of land near Birla House that was associated with Gandhi. Other decisions concerned the Gujarat Assembly by-election, party-office financing, and appreciation for contributors to the Sanaskartha parliamentary by-election fund.
+
 ## Key points
 
 - The Executive Committee meeting was held on 29 April 1969 at the Swatantra Party room in Central Hall, Parliament.

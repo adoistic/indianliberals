@@ -46,6 +46,12 @@ summary: |-
   The document is a carbon-copy or typescript office letter rather than a developed essay or argument. It contains no further discussion of the work being praised; the lower right is marked “confirmatory copy.”
 ---
 
+## Summary
+
+This one-page English letter, dated June 16, 1964, is from C. Rajagopalachari (“Rajaji”) in Madras to M. R. Masani. It is a brief message of congratulations on Masani’s work, “My Benediction,” which Rajaji says has achieved an especially apt tone.
+
+The document is a carbon-copy or typescript office letter rather than a developed essay or argument. It contains no further discussion of the work being praised; the lower right is marked “confirmatory copy.”
+
 ## Key points
 
 - The document is a one-page letter in English.

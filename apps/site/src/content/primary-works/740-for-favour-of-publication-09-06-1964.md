@@ -56,6 +56,12 @@ summary: |-
   Masani identifies five expected developments: stronger federalism and state rights after a possible break in the Congress monopoly over state governments; greater realism in foreign policy after the collapse of Panchsheel; increased attention to sound economic priorities and agriculture rather than heavy industry; more effective cabinet government with the Prime Minister as first among equals; and political realignment producing a better balance. He stresses that these changes will require active fostering rather than occurring automatically, and concludes that India must confront future problems instead of remaining absorbed in the past.
 ---
 
+## Summary
+
+In this one-page press statement dated Bangalore, June 9, M. R. Masani argues that it is too early to assess Jawaharlal Nehru's historical contribution and that the political moment is better suited to questioning than definitive answers. He regrets Nehru's removal just as India and Pakistan appeared ready for a major effort at reconciliation, and welcomes the prospect that Lal Bahadur Shastri and President Ayub Khan might revive that initiative. Referring to S. Radhakrishnan's view that an epoch had ended, Masani describes India as moving from the post-Independence era, marked by nationalism and paternalism inherited from British rule, toward a new phase.
+
+Masani identifies five expected developments: stronger federalism and state rights after a possible break in the Congress monopoly over state governments; greater realism in foreign policy after the collapse of Panchsheel; increased attention to sound economic priorities and agriculture rather than heavy industry; more effective cabinet government with the Prime Minister as first among equals; and political realignment producing a better balance. He stresses that these changes will require active fostering rather than occurring automatically, and concludes that India must confront future problems instead of remaining absorbed in the past.
+
 ## Key points
 
 - Masani considers any final assessment of Nehru's contribution premature.

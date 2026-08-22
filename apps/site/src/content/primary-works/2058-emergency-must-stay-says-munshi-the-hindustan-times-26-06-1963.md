@@ -52,6 +52,12 @@ summary: |-
   The report says Munshi made the statement while speaking on “the emergency and its implications” at a luncheon meeting of the Rotary Club of Bombay. The clipping presents a brief reported political position rather than a developed argument; no further discussion of the emergency, civil liberties, or military policy is visible on the page.
 ---
 
+## Summary
+
+This one-page Hindustan Times report, dated 26 June 1963, records Swatantra Party leader K. M. Munshi’s view that the emergency declared in response to the Chinese challenge should continue. Munshi argued that it should remain in force until India was militarily strong enough to deter neighbouring countries from contemplating war.
+
+The report says Munshi made the statement while speaking on “the emergency and its implications” at a luncheon meeting of the Rotary Club of Bombay. The clipping presents a brief reported political position rather than a developed argument; no further discussion of the emergency, civil liberties, or military policy is visible on the page.
+
 ## Key points
 
 - The clipping reports a statement by Swatantra Party leader K. M. Munshi.

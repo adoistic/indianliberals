@@ -44,6 +44,10 @@ summary: |-
   This single-page handwritten Gujarati letter, dated 3 April 1968, was written on the letterhead of Dhanabhai H. Patel, LL.B., a pleader in Kadi. The body appears to be a personal communication concerning contemporary public or political matters, but the handwriting is difficult to decipher reliably from the rendered image.
 ---
 
+## Summary
+
+This single-page handwritten Gujarati letter, dated 3 April 1968, was written on the letterhead of Dhanabhai H. Patel, LL.B., a pleader in Kadi. The body appears to be a personal communication concerning contemporary public or political matters, but the handwriting is difficult to decipher reliably from the rendered image.
+
 ## Key points
 
 - The document is a one-page handwritten letter in Gujarati.

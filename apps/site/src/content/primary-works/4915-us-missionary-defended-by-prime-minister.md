@@ -50,6 +50,10 @@ summary: |-
   This two-page English news clipping, datelined Washington, June 30, reports on U.S. congressional hearings concerning human rights in India during Prime Minister Indira Gandhi’s Emergency. It contrasts testimony defending the Emergency with sharp criticism from Indian jurist Ram Jethmalani and Congressman Donald M. Fraser, who characterizes the decrees as resembling authoritarian rule and martial law seen elsewhere.
 ---
 
+## Summary
+
+This two-page English news clipping, datelined Washington, June 30, reports on U.S. congressional hearings concerning human rights in India during Prime Minister Indira Gandhi’s Emergency. It contrasts testimony defending the Emergency with sharp criticism from Indian jurist Ram Jethmalani and Congressman Donald M. Fraser, who characterizes the decrees as resembling authoritarian rule and martial law seen elsewhere.
+
 ## Key points
 
 - A U.S. missionary defends Indira Gandhi’s Emergency before a congressional inquiry into human rights in India.

@@ -51,6 +51,12 @@ summary: |-
   Masani forwards Cooper a copy of a letter he has sent to Rajaji, suggesting that it be placed before the National Executive. The document is concerned with internal party coordination and the communication of information arising from negotiations in Delhi.
 ---
 
+## Summary
+
+In this typed office letter, dated visibly “13th June, 196…” with the final digit(s) clipped, M. R. Masani writes to Dr. R. C. Cooper about an impending meeting of the Swatantra Party’s National Executive in Madras. Masani explains that he will be absent and anticipates that the meeting will consider a report on discussions held in Delhi with the Jana Sangha and the B.K.D.
+
+Masani forwards Cooper a copy of a letter he has sent to Rajaji, suggesting that it be placed before the National Executive. The document is concerned with internal party coordination and the communication of information arising from negotiations in Delhi.
+
 ## Key points
 
 - Masani will not attend the Swatantra Party National Executive meeting in Madras.

@@ -57,6 +57,14 @@ summary: |-
   An appended “Case for Opinion,” prepared for Mr. Madhubhai Amarsey, supplies background on the party’s organisation and asks legal questions about dissolution, the continued use of the Swatantra name, flag and symbol, and the ownership of party assets. It discusses the Election Commission’s treatment of party symbols and cites the earlier merger and symbol dispute involving the Praja Socialist Party and Samyukta Socialist Party. The rendered pages include the full nine-page document, including the appended legal memorandum.
 ---
 
+## Summary
+
+This document sets out the Swatantra Party’s proposed resolutions for its National Convention in Delhi on 4–5 August 1974. It records the party’s earlier decision to pursue a two-party system and to cooperate with other political parties in creating a “National Alternative” to the Congress and Communist parties. The General Council had debated the proposal in June 1974, circulated a draft programme to state councils, and authorised the party president to convene the National Convention.
+
+The draft resolution welcomes the impending formation of a new party, provisionally named Bharatiya Lok Dal (The Peoples’ Party of India), through the amalgamation of political forces other than Congress and the Communist parties. It proposes that the Swatantra Party cease to exist and merge with the new party, while allowing members who do not join the new organisation to continue non-partisan activities under another name. The document also authorises Piloo Mody to notify the Chief Election Commissioner of the party’s dissolution and request that its electoral symbol be frozen.
+
+An appended “Case for Opinion,” prepared for Mr. Madhubhai Amarsey, supplies background on the party’s organisation and asks legal questions about dissolution, the continued use of the Swatantra name, flag and symbol, and the ownership of party assets. It discusses the Election Commission’s treatment of party symbols and cites the earlier merger and symbol dispute involving the Praja Socialist Party and Samyukta Socialist Party. The rendered pages include the full nine-page document, including the appended legal memorandum.
+
 ## Key points
 
 - The Swatantra Party’s National Executive endorsed exploring a two-party system and a broad opposition coalition.

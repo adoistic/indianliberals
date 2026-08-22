@@ -50,6 +50,12 @@ summary: |-
   The notes also point toward practical institutional concerns, including training directors, a forthcoming self-criticism session, and advice attributed to John Marsh. The handwritten pages shift to broader intellectual and biographical reminders, mentioning Gandhi, Tagore, “great men” and dynamics, a Nobel Prize reference, nationalism, government, and foreign culture. They appear to be prompts rather than a developed speech or argument; several handwritten readings remain uncertain.
 ---
 
+## Summary
+
+These three pages are aide-memoire notes for the PPS Annual Willingdon Sports Club Dinner, held on 9 June 1961 at the conclusion of a Bombay Managerial Performance Course. The typed page records brief speaking prompts: praise for an “Excellent Labour Minister,” a reference to Shantilal as an old friend and former C.S.P. member, appreciation of the group’s talk, the largely external composition of the PPS’s fourth course, and the importance of executive development.
+
+The notes also point toward practical institutional concerns, including training directors, a forthcoming self-criticism session, and advice attributed to John Marsh. The handwritten pages shift to broader intellectual and biographical reminders, mentioning Gandhi, Tagore, “great men” and dynamics, a Nobel Prize reference, nationalism, government, and foreign culture. They appear to be prompts rather than a developed speech or argument; several handwritten readings remain uncertain.
+
 ## Key points
 
 - The document concerns the PPS Annual Willingdon Sports Club Dinner on 9 June 1961.

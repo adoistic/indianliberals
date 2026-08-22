@@ -44,6 +44,10 @@ summary: |-
   In this single-page letter dated December 18, 1974, M. R. Masani writes to Sugata Das Gupta, Joint Director of the Gandhian Institute of Studies in Raj Ghat, Varanasi. Masani says he will be in Benaras from the morning of December 25 to the afternoon of December 26 to see Jayaprakash Narayan, whom he refers to as “J.P.”
 ---
 
+## Summary
+
+In this single-page letter dated December 18, 1974, M. R. Masani writes to Sugata Das Gupta, Joint Director of the Gandhian Institute of Studies in Raj Ghat, Varanasi. Masani says he will be in Benaras from the morning of December 25 to the afternoon of December 26 to see Jayaprakash Narayan, whom he refers to as “J.P.”
+
 ## Key points
 
 - Masani plans to visit Benaras from December 25 to 26.

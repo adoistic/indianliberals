@@ -45,6 +45,12 @@ summary: |-
   The note is cordial and personal in tone. Shroff leaves the decision to Masani—“Do as you like in the matter”—and closes by wishing him “a humble victory in Rajkot.” The page includes Masani’s Bombay address and handwritten editorial markings, but does not identify the publication from which the clipping was taken.
 ---
 
+## Summary
+
+This handwritten letter from Minoo Shroff to Shri M. R. Masani is dated 17 February 1971. Shroff encloses a clipping of editorial comments concerning Masani’s family and refers to material dated 16 February 1971.
+
+The note is cordial and personal in tone. Shroff leaves the decision to Masani—“Do as you like in the matter”—and closes by wishing him “a humble victory in Rajkot.” The page includes Masani’s Bombay address and handwritten editorial markings, but does not identify the publication from which the clipping was taken.
+
 ## Key points
 
 - The document is a one-page handwritten letter dated 17 February 1971.

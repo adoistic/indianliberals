@@ -55,6 +55,12 @@ summary: |-
   The reported arrangement called on other parties, groups, and individuals to join the effort. It proposed a single agreed candidate in each constituency, with candidate selection and nomination to be coordinated by a committee representing the participating parties. The clipping identifies the statement as a PTI report from New Delhi and carries no byline.
 ---
 
+## Summary
+
+This one-page Indian Express report, dated 4 January 1971, records an announcement made after talks between the Old Congress, the Bharatiya Jana Sangh, and the SSP. The parties declared that they would form an electoral front to contest Lok Sabha elections, presenting the alliance as an alternative to the existing government, which they described as taking the country in an authoritarian and anti-democratic direction.
+
+The reported arrangement called on other parties, groups, and individuals to join the effort. It proposed a single agreed candidate in each constituency, with candidate selection and nomination to be coordinated by a committee representing the participating parties. The clipping identifies the statement as a PTI report from New Delhi and carries no byline.
+
 ## Key points
 
 - The clipping reports the formation of an electoral front involving the Old Congress, Bharatiya Jana Sangh, and SSP.

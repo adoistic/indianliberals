@@ -44,6 +44,10 @@ summary: |-
   This one-page English letter, dated 15 June 1961, was written by M. R. Masani from 148 Mahatma Gandhi Road, Bombay 1, to Dharamsey Khatau. Masani forwards a letter from C. Rajagopalachari (“Rajaji”) addressed to Khatau in his capacity as Chairman of the A.C.C.
 ---
 
+## Summary
+
+This one-page English letter, dated 15 June 1961, was written by M. R. Masani from 148 Mahatma Gandhi Road, Bombay 1, to Dharamsey Khatau. Masani forwards a letter from C. Rajagopalachari (“Rajaji”) addressed to Khatau in his capacity as Chairman of the A.C.C.
+
 ## Key points
 
 - The letter is dated 15 June 1961 and originates from Bombay.

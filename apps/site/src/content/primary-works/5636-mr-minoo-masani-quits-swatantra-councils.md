@@ -46,6 +46,12 @@ summary: |-
   The clipping further reports that the Swatantra Party's national executive and parliamentary board were to meet in New Delhi on 13 and 14 April to discuss the party's internal structure and related organisational questions. The newspaper title, publication date, and source are not visible on the mounted clipping.
 ---
 
+## Summary
+
+This one-page English newspaper clipping reports that M. R. Masani has resigned from the Swatantra Party's national executive and parliamentary board. The report attributes the resignation to differences between the party's former Indian Civil Service leadership and its political leadership, while noting that several other senior members of the two bodies were also expected to leave.
+
+The clipping further reports that the Swatantra Party's national executive and parliamentary board were to meet in New Delhi on 13 and 14 April to discuss the party's internal structure and related organisational questions. The newspaper title, publication date, and source are not visible on the mounted clipping.
+
 ## Key points
 
 - The report is headlined "M.R. Masani quits Swatantra councils."

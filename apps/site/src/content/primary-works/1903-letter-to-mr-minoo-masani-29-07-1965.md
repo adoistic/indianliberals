@@ -49,6 +49,10 @@ summary: |-
   This one-page letter, dated July 29, 1965, is from A. P. Jain of the Swatantra Party Parliamentary Office to M. R. Masani. Jain acknowledges receiving Masani’s Express Telegram of July 28 concerning a no-confidence motion and explains the procedural obstacle created by the new parliamentary rules: no motion could be admitted before the first day’s business list had been circulated. Jain reports that he has asked N. Dandekar to submit a fresh motion so that it can be tabled immediately upon receipt of the business list. He also promises to try to secure first priority for the motion. The document is therefore a brief piece of parliamentary coordination focused on the timing and admissibility of an opposition no-confidence motion.
 ---
 
+## Summary
+
+This one-page letter, dated July 29, 1965, is from A. P. Jain of the Swatantra Party Parliamentary Office to M. R. Masani. Jain acknowledges receiving Masani’s Express Telegram of July 28 concerning a no-confidence motion and explains the procedural obstacle created by the new parliamentary rules: no motion could be admitted before the first day’s business list had been circulated. Jain reports that he has asked N. Dandekar to submit a fresh motion so that it can be tabled immediately upon receipt of the business list. He also promises to try to secure first priority for the motion. The document is therefore a brief piece of parliamentary coordination focused on the timing and admissibility of an opposition no-confidence motion.
+
 ## Key points
 
 - The letter was sent by A. P. Jain from the Swatantra Party Parliamentary Office on July 29, 1965. It acknowledges receipt of M. R. Masani’s Express Telegram concerning a no-confidence motion. Jain says he had already replied to N. Dandekar and sent Masani a copy of that reply. The new parliamentary rules prevented the motion from being admitted before circulation of the first day’s business list. Jain asked N. Dandekar to submit a fresh motion for immediate tabling once the business list was received.

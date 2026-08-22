@@ -52,6 +52,12 @@ summary: |-
   The sender describes having personally spent heavily on the party, including funds for a helicopter intended to help national leaders reach meetings across Bihar, but says that government action has damaged his financial position and made further expenditure impossible. The Bihar unit had sought a ten-lakh-rupee contribution and proposed using five lakhs immediately to purchase forty jeeps. The enclosed letter from Sir Homi Mody confirms that credit could not be arranged, while attributing the fundraising difficulty to businessmen’s fear of the ruling party. The Bihar president ultimately asks to be relieved of responsibility for conducting the election campaign, stressing that this is intended to prevent an unprepared contest and public disgrace rather than to evade duty.
 ---
 
+## Summary
+
+This five-page English correspondence, dated 23 July 1961, is addressed from the Swatantra Party’s Bihar branch to Prof. N. G. Ranga. The unidentified sender reports that the Bihar unit faces severe difficulty raising funds before the 1962 general election. Although the party is presented as having a strong chance against the Congress, the letter argues that it cannot mount an effective campaign without substantial financial support, vehicles, and other organisational means.
+
+The sender describes having personally spent heavily on the party, including funds for a helicopter intended to help national leaders reach meetings across Bihar, but says that government action has damaged his financial position and made further expenditure impossible. The Bihar unit had sought a ten-lakh-rupee contribution and proposed using five lakhs immediately to purchase forty jeeps. The enclosed letter from Sir Homi Mody confirms that credit could not be arranged, while attributing the fundraising difficulty to businessmen’s fear of the ruling party. The Bihar president ultimately asks to be relieved of responsibility for conducting the election campaign, stressing that this is intended to prevent an unprepared contest and public disgrace rather than to evade duty.
+
 ## Key points
 
 - The Bihar Swatantra Party unit is described as electorally promising but critically short of funds six months before the 1962 general election.

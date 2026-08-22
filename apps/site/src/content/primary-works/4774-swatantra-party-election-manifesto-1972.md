@@ -67,6 +67,12 @@ summary: |-
   The manifesto combines a limited but active conception of government with a strong defence of private initiative. It assigns the state responsibility for public utilities, water conservation, flood and drought prevention, infrastructure, research, agricultural support, and essential heavy industry, while rejecting state domination of trade and manufacturing. Its policy programme calls for incentives to farmers and competitive enterprise, fair wages through collective bargaining, protection for small producers and artisans, moderate taxation, reduced licensing and controls, cleaner administration, Lokpal and Lokayukta institutions, and resistance to indiscriminate nationalisation and public-sector expansion. The concluding statement frames these positions as a constructive programme based on individual self-interest, public service, and a Gandhian moral foundation.
 ---
 
+## Summary
+
+This five-page Swatantra Party election manifesto for the March 1972 Assembly elections presents the party as an alternative to Indira Gandhi's Congress, arguing that the ruling party's large parliamentary majority has enabled attacks on constitutional rights and democratic institutions. It condemns the proposed constitutional amendments, press controls, centralisation of broadcasting, and the expansion of state power, defending freedom of person, religion, education, association, speech, and property under the rule of law.
+
+The manifesto combines a limited but active conception of government with a strong defence of private initiative. It assigns the state responsibility for public utilities, water conservation, flood and drought prevention, infrastructure, research, agricultural support, and essential heavy industry, while rejecting state domination of trade and manufacturing. Its policy programme calls for incentives to farmers and competitive enterprise, fair wages through collective bargaining, protection for small producers and artisans, moderate taxation, reduced licensing and controls, cleaner administration, Lokpal and Lokayukta institutions, and resistance to indiscriminate nationalisation and public-sector expansion. The concluding statement frames these positions as a constructive programme based on individual self-interest, public service, and a Gandhian moral foundation.
+
 ## Key points
 
 - The manifesto argues that the Congress majority has facilitated constitutional amendments that threaten fundamental rights, including property rights.

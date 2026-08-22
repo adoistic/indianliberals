@@ -45,6 +45,10 @@ summary: |-
   This one-page English letter, dated June 28, 1975, is sent by G.K. Munshi from Bharatiya Vidya Bhavan to “Raju,” whom the letter asks to attend an informal discussion at the party office on the following Saturday. The sender also asks the recipient to bring K.H. and Sampat.
 ---
 
+## Summary
+
+This one-page English letter, dated June 28, 1975, is sent by G.K. Munshi from Bharatiya Vidya Bhavan to “Raju,” whom the letter asks to attend an informal discussion at the party office on the following Saturday. The sender also asks the recipient to bring K.H. and Sampat.
+
 ## Key points
 
 - The document is a personal office letter dated June 28, 1975.

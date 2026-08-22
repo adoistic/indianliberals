@@ -49,6 +49,12 @@ summary: |-
   Masani asks Singh Deo to obtain the relevant papers and explore a way out of the litigation without adversely affecting the state's interests. He offers to arrange a meeting between the company's director, Umashankar Agrawal, and Harihar Patel in Bhubaneswar. The page documents an attempt to secure an administrative settlement while litigation is pending, rather than making a general policy argument.
 ---
 
+## Summary
+
+In this letter dated 10 February 1970, M. R. Masani writes to R. N. Singh Deo, Chief Minister of Orissa, concerning Ferro Alloys Corporation Ltd.'s complaint that it has not received a fair deal from the Orissa Government. Masani explains that the company is already in litigation with the government but believes that the dispute could be resolved amicably if the government's petition and counterpetition were withdrawn.
+
+Masani asks Singh Deo to obtain the relevant papers and explore a way out of the litigation without adversely affecting the state's interests. He offers to arrange a meeting between the company's director, Umashankar Agrawal, and Harihar Patel in Bhubaneswar. The page documents an attempt to secure an administrative settlement while litigation is pending, rather than making a general policy argument.
+
 ## Key points
 
 - Masani raises Ferro Alloys Corporation Ltd.'s concern that it has not received a fair deal from the Orissa Government.

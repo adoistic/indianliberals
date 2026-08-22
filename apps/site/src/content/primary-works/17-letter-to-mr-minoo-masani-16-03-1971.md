@@ -54,6 +54,12 @@ summary: |-
   Patwari warns that public disillusionment with demagogues could produce an extreme-left and violent swing unless people are educated along liberal lines. He additionally proposes challenging the ruling Congress’s allegedly religious election symbol in the High Courts, with a possible Supreme Court hearing timed to coincide with growing public disillusionment. The letter therefore connects liberal education with the defense of parliamentary institutions, constitutional rights, and electoral legality.
 ---
 
+## Summary
+
+In this letter dated March 16, 1971, Prasanhadas D. Patwari writes to Minoo Masani about the political and civic work he hopes Masani will undertake during what he calls “the dark days ahead.” Patwari identifies cultural backwardness as the principal obstacle to effective parliamentary institutions and says he is preparing Gujarati booklets on the causes of economic misery, the judiciary, and fundamental rights. He also refers to educational efforts aimed at workers, teachers, and voters, including the publication of a Gujarati monthly and an edition of “Radical Humanist.”
+
+Patwari warns that public disillusionment with demagogues could produce an extreme-left and violent swing unless people are educated along liberal lines. He additionally proposes challenging the ruling Congress’s allegedly religious election symbol in the High Courts, with a possible Supreme Court hearing timed to coincide with growing public disillusionment. The letter therefore connects liberal education with the defense of parliamentary institutions, constitutional rights, and electoral legality.
+
 ## Key points
 
 - Patwari regards cultural backwardness as the main obstacle to successful parliamentary institutions.

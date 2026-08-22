@@ -51,6 +51,10 @@ summary: |-
   This two-page letter, dated April 18, 1972, is addressed by Madhu Mehta, General Secretary of the Swatantra Party at its National Headquarters, to the Director-General of Posts & Telegraphs. It explains that the Party is a national organisation whose State, District, City and Assembly-constituency units are autonomous administratively, financially and in their day-to-day functioning, except on matters relating to Party policy. The letter recounts disputes over unpaid telephone bills involving Party units in Hyderabad, Surendranagar and Bangalore, including a suit filed against the National Headquarters and the Surendranagar District Unit.
 ---
 
+## Summary
+
+This two-page letter, dated April 18, 1972, is addressed by Madhu Mehta, General Secretary of the Swatantra Party at its National Headquarters, to the Director-General of Posts & Telegraphs. It explains that the Party is a national organisation whose State, District, City and Assembly-constituency units are autonomous administratively, financially and in their day-to-day functioning, except on matters relating to Party policy. The letter recounts disputes over unpaid telephone bills involving Party units in Hyderabad, Surendranagar and Bangalore, including a suit filed against the National Headquarters and the Surendranagar District Unit.
+
 ## Key points
 
 - The Swatantra Party describes its State, District, City and Assembly-constituency units as autonomous in administration, finance and daily functioning.

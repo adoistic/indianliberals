@@ -58,6 +58,12 @@ summary: |-
   In the rendered pages, the negotiations move from pressure to a proposed restructuring of the companies. The Government seeks majority control through nominated directors and restrictions on the Goenkas’ role in editorial policy, while K. K. Birla acts as intermediary and eventual chairman. The account records provisional agreements in November and December 1975, the co-option of directors, policy resolutions requiring editors to consult the chairman, and subsequent disputes over nominees, editorial appointments, and administrative authority. By March 1976, the document reports that meetings held while R. N. Goenka was seriously ill produced changes with far-reaching consequences, including the dissolution or expansion of management committees, appointment of internal auditors, and the retirement of Editor-in-Chief S. Mulgaokar.
 ---
 
+## Summary
+
+This English-language aide-memoire records, in chronological form, negotiations between the Government and the Goenka family over the control, management, and editorial policy of the Indian Express Group. In the rendered pages, the account begins in July 1975 with assurances that B. D. Goenka would not be detained under MISA, followed in August by demands that the Goenkas surrender their newspapers to the Congress Party or its nominee. The document describes repeated meetings involving Rajni Patel, S. Ranganathan, V. C. Shukla, K. K. Birla, Dinesh Singh, and others, alongside threats of detention, tax and company-law action, and government takeover of the newspapers.
+
+In the rendered pages, the negotiations move from pressure to a proposed restructuring of the companies. The Government seeks majority control through nominated directors and restrictions on the Goenkas’ role in editorial policy, while K. K. Birla acts as intermediary and eventual chairman. The account records provisional agreements in November and December 1975, the co-option of directors, policy resolutions requiring editors to consult the chairman, and subsequent disputes over nominees, editorial appointments, and administrative authority. By March 1976, the document reports that meetings held while R. N. Goenka was seriously ill produced changes with far-reaching consequences, including the dissolution or expansion of management committees, appointment of internal auditors, and the retirement of Editor-in-Chief S. Mulgaokar.
+
 ## Key points
 
 - The rendered pages present a chronological account of government pressure on the Indian Express Group from July 1975 through March 1976.

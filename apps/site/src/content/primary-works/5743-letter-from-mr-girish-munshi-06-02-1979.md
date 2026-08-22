@@ -53,6 +53,12 @@ summary: |-
   The agenda comprises reviewing developments since the previous meeting, adopting the accounts for the period ending December 1978, considering matters concerning the party's premises, and taking up any other business with the chair's permission. The circular is signed by Girish Munshi, identified as General Secretary. No substantive policy argument or discussion of the party's broader programme appears on the rendered page.
 ---
 
+## Summary
+
+This one-page English office circular, issued on Swatantra Party, Maharashtra letterhead from Bombay on 6 February 1979, announces the next meeting of the party's Executive Committee. The meeting was scheduled for Friday, 23 February 1979, at 6 p.m. at the party office, and the notice is addressed to a party colleague as “Dear Friend.”
+
+The agenda comprises reviewing developments since the previous meeting, adopting the accounts for the period ending December 1978, considering matters concerning the party's premises, and taking up any other business with the chair's permission. The circular is signed by Girish Munshi, identified as General Secretary. No substantive policy argument or discussion of the party's broader programme appears on the rendered page.
+
 ## Key points
 
 - The Swatantra Party, Maharashtra, scheduled an Executive Committee meeting for 23 February 1979.

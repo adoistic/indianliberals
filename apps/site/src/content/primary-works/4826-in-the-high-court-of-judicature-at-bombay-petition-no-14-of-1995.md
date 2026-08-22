@@ -54,6 +54,12 @@ summary: |-
   The supporting affidavit states that the petition challenges the constitutional validity of Section 29-A(5) of the Representation of the People Act, 1951, which requires a party seeking registration to affirm true faith and allegiance to the principle of socialism. It emphasizes the approaching Maharashtra Legislative Assembly elections and expected October 1995 Lok Sabha elections, arguing that the party needs registration in order to contest. The affidavit records that the High Court had admitted the petition, issued a rule, and expedited the hearing, while noting that the petitioners' request for provisional registration had not been granted. The filing concludes by asking the court to allow the Notice of Motion.
 ---
 
+## Summary
+
+This eight-page English court filing is a Notice of Motion in Writ Petition No. 14 of 1995 before the High Court of Judicature at Bombay. Swatantra Party (Maharashtra), through its General Secretary L.R. Sampat, and S.V. Raju seek relief against the Union of India, the Chief Election Commissioner of India, and the Secretary of the Election Commission of India. The motion asks the court to direct provisional registration of the party under the Representation of the People Act without requiring compliance with Section 29-A, or alternatively to stay enforcement of that requirement and expedite final hearing.
+
+The supporting affidavit states that the petition challenges the constitutional validity of Section 29-A(5) of the Representation of the People Act, 1951, which requires a party seeking registration to affirm true faith and allegiance to the principle of socialism. It emphasizes the approaching Maharashtra Legislative Assembly elections and expected October 1995 Lok Sabha elections, arguing that the party needs registration in order to contest. The affidavit records that the High Court had admitted the petition, issued a rule, and expedited the hearing, while noting that the petitioners' request for provisional registration had not been granted. The filing concludes by asking the court to allow the Notice of Motion.
+
 ## Key points
 
 - The filing concerns Notice of Motion No. 1995 in Writ Petition No. 14 of 1995 before the Bombay High Court.

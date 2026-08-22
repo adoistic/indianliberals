@@ -48,6 +48,10 @@ summary: |-
   In this letter dated February 8, 1977, M. R. Masani responds to the Regional Transport Officer, Bombay, concerning vehicle M.V. No. MRA 4024 and a claim for arrears of taxation. Masani states that the vehicle never belonged to him personally; it was one of the vehicles owned by the Swatantra Party, of which he had been General Secretary.
 ---
 
+## Summary
+
+In this letter dated February 8, 1977, M. R. Masani responds to the Regional Transport Officer, Bombay, concerning vehicle M.V. No. MRA 4024 and a claim for arrears of taxation. Masani states that the vehicle never belonged to him personally; it was one of the vehicles owned by the Swatantra Party, of which he had been General Secretary.
+
 ## Key points
 
 - Masani disputes personal liability for taxation arrears relating to vehicle M.V. No. MRA 4024.

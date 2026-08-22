@@ -52,6 +52,12 @@ summary: |-
   Desai presents the dispute as one over freedom of expression and independent political thinking rather than party discipline. He defends his right to express views as a Swatantra Party member of Parliament and as someone whose constituents in Gujarat look to him for guidance. He argues that public representatives should be guided by what is required to maintain their standing with ordinary people, rather than by the preferences of a small group of capitalists or industrialists, while acknowledging the importance of capitalist support to the party's structure.
 ---
 
+## Summary
+
+In this typed letter dated April 7, 1970, C. C. Desai writes to C. Rajagopalachari ("Rajaji") about a chargesheet alleging anti-party activities and an anti-party line in Parliament. Desai encloses the chargesheet and his reply, and asks to know the National Executive's judgment at its forthcoming meeting.
+
+Desai presents the dispute as one over freedom of expression and independent political thinking rather than party discipline. He defends his right to express views as a Swatantra Party member of Parliament and as someone whose constituents in Gujarat look to him for guidance. He argues that public representatives should be guided by what is required to maintain their standing with ordinary people, rather than by the preferences of a small group of capitalists or industrialists, while acknowledging the importance of capitalist support to the party's structure.
+
 ## Key points
 
 - Desai informs Rajaji that a chargesheet has been issued against him for alleged anti-party activities and an anti-party line in Parliament.

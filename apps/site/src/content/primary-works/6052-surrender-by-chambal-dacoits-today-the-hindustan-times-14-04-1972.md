@@ -49,6 +49,12 @@ summary: |-
   The report describes the dacoit groups as operating in the Chambal ravines and notes that several leaders had already surrendered. It names Sarvodaya leader Mr Jayaprakash Narayan as a mediator and states that more than 200 dacoits were expected to follow the formal surrender. The clipping also mentions the planned presence of Gandhi Seva Samiti workers and the use of the term “Daku samarpan,” or dacoit surrender, for the event.
 ---
 
+## Summary
+
+This one-page Hindustan Times clipping, dated 14 April 1972 and datelined Bhopal, reports the expected surrender of Chambal dacoits. It says that six dacoits, including Jayaprakash Narayan and Sarvodaya leader Mr. Jagat Prakash Narayan's? No— the visible text identifies Jayaprakash Narayan as being associated with the surrender arrangements, while the dacoits were expected to surrender before him at Joura in Morena district on Sunday. The authorities had decided to restrict access and prevent photographers and journalists from entering the area during the surrender.
+
+The report describes the dacoit groups as operating in the Chambal ravines and notes that several leaders had already surrendered. It names Sarvodaya leader Mr Jayaprakash Narayan as a mediator and states that more than 200 dacoits were expected to follow the formal surrender. The clipping also mentions the planned presence of Gandhi Seva Samiti workers and the use of the term “Daku samarpan,” or dacoit surrender, for the event.
+
 ## Key points
 
 - The article reports that Chambal dacoits were expected to surrender at Joura in Morena district.

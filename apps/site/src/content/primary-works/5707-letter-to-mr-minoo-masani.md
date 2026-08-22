@@ -49,6 +49,12 @@ summary: |-
   The second page intensifies the warning, claiming that an attempt to overthrow Swatantra would effectively mean siding with Indira Gandhi, described as “the country's traitor no. 1.” The writer appeals to Masani to convey the message to Rajaji, whom they hope will intervene before it is too late, and concludes that Gujarat is again angry with Swatantra. No date, individual sender name, formal letterhead, or legible signature is visible.
 ---
 
+## Summary
+
+This undated, anonymous two-page handwritten letter from a Swatantraite in Bombay is addressed to Minoo Masani. It warns that the Swatantra Party is damaging its future in Gujarat through what the writer calls a crude attempt to overthrow the Syndicate government. The writer predicts that even a successful challenge would cause Gujarati voters to reject Swatantra in future elections and argues that some self-seeking leaders are laying the foundations for the party's destruction.
+
+The second page intensifies the warning, claiming that an attempt to overthrow Swatantra would effectively mean siding with Indira Gandhi, described as “the country's traitor no. 1.” The writer appeals to Masani to convey the message to Rajaji, whom they hope will intervene before it is too late, and concludes that Gujarat is again angry with Swatantra. No date, individual sender name, formal letterhead, or legible signature is visible.
+
 ## Key points
 
 - The anonymous writer identifies as a Swatantraite from Bombay and addresses Minoo Masani.

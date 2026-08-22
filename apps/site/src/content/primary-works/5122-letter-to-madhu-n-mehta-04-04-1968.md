@@ -50,6 +50,12 @@ summary: |-
   Sreenivasan also protests the inadequate time given to General Council members to discuss party affairs. He contrasts the proposed brief meeting with the considerable travel required of members, urging that the Council receive at least fifteen minutes per member and meet for two full working days. He concludes that a rushed meeting would prevent serious discussion of strengthening the party and says copies of the letter are being sent to leading party figures for information.
 ---
 
+## Summary
+
+This 4 April 1968 letter from V. T. Sreenivasan, General Secretary of the Swatantra Party's Mysore State Executive Committee, responds to Madhu N. Mehta's proposal for a special General Council meeting. The meeting would consider M. R. Masani's resignation from the Central Parliamentary Board and the National Executive, following what Sreenivasan describes as a shocking newspaper report. Sreenivasan supports taking action to persuade Masani to remain, but argues that the matter should be handled by the party's senior leadership, including Rajaji.
+
+Sreenivasan also protests the inadequate time given to General Council members to discuss party affairs. He contrasts the proposed brief meeting with the considerable travel required of members, urging that the Council receive at least fifteen minutes per member and meet for two full working days. He concludes that a rushed meeting would prevent serious discussion of strengthening the party and says copies of the letter are being sent to leading party figures for information.
+
 ## Key points
 
 - The letter concerns a proposed special General Council meeting about M. R. Masani's resignation from two Swatantra Party bodies.

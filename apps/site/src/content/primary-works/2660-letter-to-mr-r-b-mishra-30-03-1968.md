@@ -45,6 +45,10 @@ summary: |-
   This one-page English telegram confirmation copy, dated 30 March 1968, is addressed to Rajballabh Mishra, identified as Minister of Agriculture and Community Development in Bhubaneswar. Signed “MASANI,” it asks Mishra to postpone a planned visit to Delhi because the sender will be away on the 13th and 14th, proposing instead to meet in Bhubaneswar on 4 April.
 ---
 
+## Summary
+
+This one-page English telegram confirmation copy, dated 30 March 1968, is addressed to Rajballabh Mishra, identified as Minister of Agriculture and Community Development in Bhubaneswar. Signed “MASANI,” it asks Mishra to postpone a planned visit to Delhi because the sender will be away on the 13th and 14th, proposing instead to meet in Bhubaneswar on 4 April.
+
 ## Key points
 
 - The document is a one-page typed telegram confirmation copy.

@@ -49,6 +49,10 @@ summary: |-
   This letter from M. R. Masani to R. C. Cooper, dated 11 November 1969, sets out five matters for consideration by the Swatantra Party’s National Executive. Masani proposes a strategy concerning a censure motion against the Government over Rabat and related issues, and calls for specific guidance to the Parliamentary Party regarding statements by C. C. Desai and Piloo Mody that had caused concern within the party.
 ---
 
+## Summary
+
+This letter from M. R. Masani to R. C. Cooper, dated 11 November 1969, sets out five matters for consideration by the Swatantra Party’s National Executive. Masani proposes a strategy concerning a censure motion against the Government over Rabat and related issues, and calls for specific guidance to the Parliamentary Party regarding statements by C. C. Desai and Piloo Mody that had caused concern within the party.
+
 ## Key points
 
 - Masani asks that five political and organisational matters be placed before the National Executive.

@@ -50,6 +50,10 @@ summary: |-
   This one-page extract records resolutions of the Andhra Pradesh Swatantra Party Executive Committee meeting held at Bapatla on 19 April 1968. The committee expressed concern that some party legislators had acted in ways that lowered the party’s prestige during recent Rajya Sabha elections, and urged legislators to remain united and strengthen the party’s standing in future.
 ---
 
+## Summary
+
+This one-page extract records resolutions of the Andhra Pradesh Swatantra Party Executive Committee meeting held at Bapatla on 19 April 1968. The committee expressed concern that some party legislators had acted in ways that lowered the party’s prestige during recent Rajya Sabha elections, and urged legislators to remain united and strengthen the party’s standing in future.
+
 ## Key points
 
 - The Executive Committee criticised the conduct of some party legislators during the recent Rajya Sabha elections.

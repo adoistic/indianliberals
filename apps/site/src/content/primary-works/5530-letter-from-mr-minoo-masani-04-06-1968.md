@@ -52,6 +52,12 @@ summary: |-
   The attached clipping, headed “Masani’s Dilemma,” discusses internal tensions within the Swatantra Party. It reports disagreement between Masani and party colleagues over the Gujarat unit’s participation in the Kutch Award agitation, the scope of the party’s “twenty-first principle,” and the propriety of public disagreement among party leaders. The clipping presents Masani as defending an individual-rights-oriented interpretation of the party’s principles while warning that unresolved personal and organisational differences could lead to his isolation or departure.
 ---
 
+## Summary
+
+This two-page archival item is a 4 June 1968 office letter from M. R. Pai, Secretary of the Forum of Free Enterprise, to Shri Paripurnanand Varma of the All India Crime Prevention Society in Kanpur. Pai forwards Varma’s letter and an accompanying newspaper clipping to Minoo Masani, and supplies Masani’s office and residential addresses in Bombay.
+
+The attached clipping, headed “Masani’s Dilemma,” discusses internal tensions within the Swatantra Party. It reports disagreement between Masani and party colleagues over the Gujarat unit’s participation in the Kutch Award agitation, the scope of the party’s “twenty-first principle,” and the propriety of public disagreement among party leaders. The clipping presents Masani as defending an individual-rights-oriented interpretation of the party’s principles while warning that unresolved personal and organisational differences could lead to his isolation or departure.
+
 ## Key points
 
 - M. R. Pai writes as Secretary of the Forum of Free Enterprise on 4 June 1968.

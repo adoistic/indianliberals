@@ -48,6 +48,12 @@ summary: |-
   The letter briefly comments on the recent meeting of Liberal International in Edinburgh, which attracted little press attention, and gives a progress report on the sender’s own book: eight of fourteen chapters have been completed and the manuscript is with a London literary agent. The remainder of the letter concerns family news, a summer spent with Jennifer, and the hope that Masani’s planned European trip will lead to another meeting. The second rendered page is the reverse of the aerogramme and contains no additional legible letter text.
 ---
 
+## Summary
+
+This letter from Geneva, dated October 5, 1975, is a warm personal exchange between the sender, apparently B. R. Shenoy, and Minoo Masani. The sender reports receiving a second copy of Masani’s book, reading it with great interest, and lending it to Mel Lasky. He also notes that Lawrence de Neufville has asked about Masani and that the book appears to be selling reasonably well in India.
+
+The letter briefly comments on the recent meeting of Liberal International in Edinburgh, which attracted little press attention, and gives a progress report on the sender’s own book: eight of fourteen chapters have been completed and the manuscript is with a London literary agent. The remainder of the letter concerns family news, a summer spent with Jennifer, and the hope that Masani’s planned European trip will lead to another meeting. The second rendered page is the reverse of the aerogramme and contains no additional legible letter text.
+
 ## Key points
 
 - The sender writes from Geneva to Minoo Masani on October 5, 1975.

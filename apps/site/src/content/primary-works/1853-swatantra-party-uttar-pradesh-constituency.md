@@ -56,6 +56,12 @@ summary: |-
   The remarks emphasise recruiting members, forming district and local branches, arranging meetings and conventions, circulating party literature and the manifesto, raising funds, and establishing offices. Several correspondents describe themselves as former Congress workers or critics of Congress, socialism, statism, Nehru’s leadership, or agrarian policy; others offer practical help, including organising peasants, enrolling large numbers of members, publishing propaganda, and securing venues. The report also records support from some pro-Congress or formerly Communist individuals, suggesting that the party’s expansion effort sought to draw from a wide range of political and professional backgrounds.
 ---
 
+## Summary
+
+This undated internal Swatantra Party report, inferred from the visible dates to be from 1959, lists 80 contacts in Uttar Pradesh together with addresses, occupations, and assessments of their potential usefulness to the party. The entries document an emerging organisational network of lawyers, professors, journalists, former officials, businessmen, peasants’ representatives, social workers, and political activists across Lucknow, Allahabad, Moradabad, Meerut, Agra, Saharanpur, Kanpur, Dehradun, and other centres.
+
+The remarks emphasise recruiting members, forming district and local branches, arranging meetings and conventions, circulating party literature and the manifesto, raising funds, and establishing offices. Several correspondents describe themselves as former Congress workers or critics of Congress, socialism, statism, Nehru’s leadership, or agrarian policy; others offer practical help, including organising peasants, enrolling large numbers of members, publishing propaganda, and securing venues. The report also records support from some pro-Congress or formerly Communist individuals, suggesting that the party’s expansion effort sought to draw from a wide range of political and professional backgrounds.
+
 ## Key points
 
 - The document is a numbered organisational survey of 80 Uttar Pradesh contacts associated with the newly formed Swatantra Party.

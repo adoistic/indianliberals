@@ -50,6 +50,12 @@ summary: |-
   The essay identifies three central strains: the failure of competitive mechanisms and party-building, weak economic performance, and the tension between Congress's older consensus model and the more centralised, leader-driven style associated with Indira Gandhi. It argues that the system's future depends on whether Congress can preserve internal cohesion while maintaining democratic openness, improve economic performance, and rebuild institutions. The authors conclude that post-1971 dominance is “dominance with a difference,” and that its durability remains uncertain because the changed system may produce either a more cohesive but less open political order, a return of competitive party politics, or continuing instability.
 ---
 
+## Summary
+
+Ram Joshi and Kirtidev Desai examine the re-emergence of one-party dominance in India after the Congress victories of 1971 and 1972. They argue that this is not a simple restoration of the earlier Congress system: the new phase has different institutional conditions, goals, factional dynamics, and economic pressures. Drawing on a conceptual framework that treats party strength, intra-party competition, and opposition influence together, the essay describes one-party dominance as a system combining consensus, factional competition, and the incorporation or marginalisation of pressure groups.
+
+The essay identifies three central strains: the failure of competitive mechanisms and party-building, weak economic performance, and the tension between Congress's older consensus model and the more centralised, leader-driven style associated with Indira Gandhi. It argues that the system's future depends on whether Congress can preserve internal cohesion while maintaining democratic openness, improve economic performance, and rebuild institutions. The authors conclude that post-1971 dominance is “dominance with a difference,” and that its durability remains uncertain because the changed system may produce either a more cohesive but less open political order, a return of competitive party politics, or continuing instability.
+
 ## Key points
 
 - The post-1971 return of Congress dominance differs substantially from the earlier one-party dominance of the 1950s and early 1960s.

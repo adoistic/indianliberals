@@ -44,6 +44,10 @@ summary: |-
   This one-page English telegram, sent from Bombay on February 26, 1970, is addressed to Minoo Masani at his New Delhi address. The clipped, block-capital message appears to acknowledge or report the dispatch and receipt of material by air mail and express delivery, though portions of the central text are too blurred to read reliably.
 ---
 
+## Summary
+
+This one-page English telegram, sent from Bombay on February 26, 1970, is addressed to Minoo Masani at his New Delhi address. The clipped, block-capital message appears to acknowledge or report the dispatch and receipt of material by air mail and express delivery, though portions of the central text are too blurred to read reliably.
+
 ## Key points
 
 - The document is a one-page typed telegram rather than a conventional letter.

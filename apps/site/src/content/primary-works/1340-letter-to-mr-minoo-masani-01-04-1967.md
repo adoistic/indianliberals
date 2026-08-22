@@ -50,6 +50,12 @@ summary: |-
   Singh asks Masani to nominate five people representing the various Opposition groups in the Lok Sabha to serve on the committee. He notes that similar requests are being sent to the leaders of all Opposition groups and asks that the names be submitted by noon on April 5, 1967.
 ---
 
+## Summary
+
+This one-page official letter, dated April 1, 1967, is from Ram Subhag Singh, Minister of Communications and Parliamentary Affairs, to Minoo Masani, the Swatantra Party leader in the Lok Sabha. Singh reports that Dr. Triguna Sen, Minister of Education, intends to constitute a committee of approximately 15 members to consider educational matters, including five members from the Rajya Sabha.
+
+Singh asks Masani to nominate five people representing the various Opposition groups in the Lok Sabha to serve on the committee. He notes that similar requests are being sent to the leaders of all Opposition groups and asks that the names be submitted by noon on April 5, 1967.
+
 ## Key points
 
 - The letter is dated April 1, 1967, and is issued on the letterhead of the Minister of Communications and Parliamentary Affairs, New Delhi.

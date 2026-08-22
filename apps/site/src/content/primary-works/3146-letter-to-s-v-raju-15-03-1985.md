@@ -48,6 +48,12 @@ summary: |-
   Kalyani explains that he had destroyed the Swatantra Party's files, registers, and correspondence from its office at A/6 Modi Chambers two years earlier, but says he can still provide information and anecdotes from memory. He proposes meeting Raju during his next visit to Bombay, or receiving him in Rajkot, and asks him to convey his respects to Masaniji. The letter is therefore both a personal response and a small record of the archival difficulties surrounding research into the Swatantra Party.
 ---
 
+## Summary
+
+This one-page letter, dated March 15, 1985, is written by Pranlal C. Kalyani to S. V. Raju. Kalyani acknowledges Raju's decision to undertake doctoral research at Bombay University on the Swatantra Party during 1967–1974 and offers assistance with the project.
+
+Kalyani explains that he had destroyed the Swatantra Party's files, registers, and correspondence from its office at A/6 Modi Chambers two years earlier, but says he can still provide information and anecdotes from memory. He proposes meeting Raju during his next visit to Bombay, or receiving him in Rajkot, and asks him to convey his respects to Masaniji. The letter is therefore both a personal response and a small record of the archival difficulties surrounding research into the Swatantra Party.
+
 ## Key points
 
 - The letter is dated March 15, 1985, and is signed by Pranlal C. Kalyani in Rajkot.

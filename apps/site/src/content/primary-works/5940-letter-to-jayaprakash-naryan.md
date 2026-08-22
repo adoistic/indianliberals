@@ -46,6 +46,10 @@ summary: |-
   This one-page English telegram from Minoo Masani to Jayaprakash Narayan was sent from Bombay on December 16, 1974. Masani says he is planning to join Narayan in Varanasi on the morning of December 25, but must return to Delhi on December 26 at 13:35 hours. He asks Narayan to set aside time for a meeting on the afternoon or evening of December 25, or the morning of December 26.
 ---
 
+## Summary
+
+This one-page English telegram from Minoo Masani to Jayaprakash Narayan was sent from Bombay on December 16, 1974. Masani says he is planning to join Narayan in Varanasi on the morning of December 25, but must return to Delhi on December 26 at 13:35 hours. He asks Narayan to set aside time for a meeting on the afternoon or evening of December 25, or the morning of December 26.
+
 ## Key points
 
 - The document is a typescript telegram addressed to Jayaprakash Narayan in Patna.

@@ -47,6 +47,12 @@ summary: |-
   The statement lists rent of Rs. 394.79 and adjusted electricity charges of Rs. 75.86, producing a combined total of Rs. 470.65. It calculates the recipient's 40 percent share as Rs. 188.24, with the amount also written out in words. The document has no printed title, explanatory discussion, or additional correspondence.
 ---
 
+## Summary
+
+This two-page office statement, dated 19 September 1975 and issued on Swatantra Party, Maharashtra Division letterhead, records rent and electricity charges paid for August 1975. It is addressed to the Executive Secretary of the Bharatiya Lok Dal in Bombay and is signed by P. Narayan, Office Secretary.
+
+The statement lists rent of Rs. 394.79 and adjusted electricity charges of Rs. 75.86, producing a combined total of Rs. 470.65. It calculates the recipient's 40 percent share as Rs. 188.24, with the amount also written out in words. The document has no printed title, explanatory discussion, or additional correspondence.
+
 ## Key points
 
 - The document is dated 19 September 1975 and uses Swatantra Party, Maharashtra Division letterhead.

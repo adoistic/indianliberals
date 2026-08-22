@@ -55,6 +55,12 @@ summary: |-
   In the rendered pages, Masani develops a case against indiscriminate nationalisation and for a mixed economy combining limited state ownership, new public enterprises, and a much larger free-enterprise sector. He distinguishes state control from state ownership and management, warns that bureaucratic management can hinder industrialisation, and recommends that public corporations enjoy substantial autonomy while remaining politically accountable. The proposed system also includes worker participation, industrial democracy, decentralisation associated with Mahatma Gandhi, and controls designed to protect the community without stifling initiative. The pages visible here end after Masani outlines three industrial sectors and begins his comparison of free enterprise with a fully nationalised economy; the pamphlet’s remaining pages were not rendered.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that India’s immediate economic priority is increased production. He opens by comparing India’s low industrial output with that of countries such as the United Kingdom, the United States, Belgium, Sweden, France, Italy, and Germany, then documents post-war declines in steel, electricity, cloth, coal, and foodgrain production alongside rapid population growth, inflation, and falling living standards. Masani accepts that production must be accompanied by equitable distribution, but insists that distribution cannot substitute for creating greater national wealth.
+
+In the rendered pages, Masani develops a case against indiscriminate nationalisation and for a mixed economy combining limited state ownership, new public enterprises, and a much larger free-enterprise sector. He distinguishes state control from state ownership and management, warns that bureaucratic management can hinder industrialisation, and recommends that public corporations enjoy substantial autonomy while remaining politically accountable. The proposed system also includes worker participation, industrial democracy, decentralisation associated with Mahatma Gandhi, and controls designed to protect the community without stifling initiative. The pages visible here end after Masani outlines three industrial sectors and begins his comparison of free enterprise with a fully nationalised economy; the pamphlet’s remaining pages were not rendered.
+
 ## Key points
 
 - India’s most pressing economic need, as argued in the rendered pages, is increased production rather than immediate equalisation of incomes.

@@ -51,6 +51,12 @@ summary: |-
   The council also adopted a minimum programme for 1971–72, intended to make political and economic stability meaningful through employment creation, immediate relief in the supply and prices of daily necessities, loans and credit for small farmers, and support for small-scale and self-employed industrial activity. It criticised inflation and rising prices but reportedly concluded that there was “nothing fundamentally wrong” with the party’s policies and programmes, recommending a review committee and a national executive discussion.
 ---
 
+## Summary
+
+This Times of India report dated 19 April 1971 covers the Swatantra Party general council meeting in Bombay. The council accepted M. R. Masani’s resignation as party president, despite efforts by the general secretary, Dr. R. C. Cooper, to persuade him to withdraw it. N. Dandekar was to serve as acting president until new office-bearers were elected in September.
+
+The council also adopted a minimum programme for 1971–72, intended to make political and economic stability meaningful through employment creation, immediate relief in the supply and prices of daily necessities, loans and credit for small farmers, and support for small-scale and self-employed industrial activity. It criticised inflation and rising prices but reportedly concluded that there was “nothing fundamentally wrong” with the party’s policies and programmes, recommending a review committee and a national executive discussion.
+
 ## Key points
 
 - The Swatantra Party general council accepted M. R. Masani’s resignation as party president.

@@ -63,6 +63,12 @@ summary: |-
   The note combines electoral argument with a defence of economic liberty. Masani attacks the Congress manifesto’s proposals for banking and trade nationalisation and urban-income ceilings, warns that an electoral system can convert a minority vote into a parliamentary majority, and argues that the party’s main challenge is not peasant support but the failure of business and the intelligentsia to organise behind liberal alternatives. He urges supporters to overcome cynicism, provide candidates and funds, and join the party’s “Open Conspiracy” to replace Congress with a “new, clean and efficient government.”
 ---
 
+## Summary
+
+This Swatantra Party publication note reports M. R. Masani’s remarks at a subscription dinner in Bombay on the party’s strategy for the forthcoming General Elections. Masani presents the Swatantra Party as the necessary “Second Party” capable of ending Congress’s long monopoly of power while rejecting both Congress statism and Communist authoritarianism. He identifies the party’s appeal as democratic, non-denominational, rural, and committed to free enterprise, peasant proprietorship, and free trade unions. Its immediate objectives are to deny Congress a Lok Sabha majority and to win control of a small number of states in order to demonstrate what Swatantra-led governments could achieve.
+
+The note combines electoral argument with a defence of economic liberty. Masani attacks the Congress manifesto’s proposals for banking and trade nationalisation and urban-income ceilings, warns that an electoral system can convert a minority vote into a parliamentary majority, and argues that the party’s main challenge is not peasant support but the failure of business and the intelligentsia to organise behind liberal alternatives. He urges supporters to overcome cynicism, provide candidates and funds, and join the party’s “Open Conspiracy” to replace Congress with a “new, clean and efficient government.”
+
 ## Key points
 
 - M. R. Masani frames the Swatantra Party as the democratic alternative to Congress and Communism.

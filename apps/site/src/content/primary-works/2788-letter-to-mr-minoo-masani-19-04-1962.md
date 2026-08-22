@@ -50,6 +50,12 @@ summary: |-
   The letter also mentions a communication from Mr. David to the Speaker stating that he would not join the Swatantra Party and would instead sit as an independent in Parliament. The writer closes by expressing hope that Dr. Masani will be present on the 2nd and sends best wishes. The visible signature appears to read “Masani,” but the author’s full identity cannot be established from this page alone.
 ---
 
+## Summary
+
+This one-page handwritten letter, dated 19 April 1962 and written on Swatantra Party Central Office letterhead, is addressed to Dr. Masani. The writer reports difficulty dealing with new party members and says that the Akalis will not cooperate with the Swatantra Party in Parliament.
+
+The letter also mentions a communication from Mr. David to the Speaker stating that he would not join the Swatantra Party and would instead sit as an independent in Parliament. The writer closes by expressing hope that Dr. Masani will be present on the 2nd and sends best wishes. The visible signature appears to read “Masani,” but the author’s full identity cannot be established from this page alone.
+
 ## Key points
 
 - The letter is dated 19 April 1962 and originates from 16 South Avenue, New Delhi.

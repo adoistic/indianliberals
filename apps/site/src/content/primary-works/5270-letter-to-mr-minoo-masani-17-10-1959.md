@@ -52,6 +52,12 @@ summary: |-
   Shroff then turns to practical political organisation. He asks Masani to arrange a follow-up properly, designate an organising chairman, obtain the names and addresses of committee members, and provide the exact location and telephone number in Delhi. The complete three-page letter is visible, though several handwritten words are difficult to read with certainty.
 ---
 
+## Summary
+
+This untitled handwritten letter from A. D. Shroff to Minoo Masani, dated 17 October 1959, responds to Masani's draft speech and article on state trading. Shroff asks what the proposed discussion should address and stresses the need to speak to a broad social constituency, including peasants, villagers, the middle class, workers, clerks, craftsmen, traders, technicians, and leaders.
+
+Shroff then turns to practical political organisation. He asks Masani to arrange a follow-up properly, designate an organising chairman, obtain the names and addresses of committee members, and provide the exact location and telephone number in Delhi. The complete three-page letter is visible, though several handwritten words are difficult to read with certainty.
+
 ## Key points
 
 - The letter is dated 17 October 1959 and is addressed to Minoo Masani.

@@ -60,6 +60,12 @@ summary: |-
   The later pages connect this political instability to what Masani sees as India’s deeper institutional and economic weaknesses: insufficient traditions of individual liberty and grassroots citizenship, excessive state control, expanding bureaucracy, and the concentration of political and economic power. He argues for a shift toward limited government and criticises the existing parties for relying on defections and opportunistic alliances. The concluding outlook is bleak: the coming election is likely to turn on the Janata record and rising prices, while Indira Gandhi’s political revival raises renewed concerns about authoritarianism, civil liberties, the rule of law, and press freedom.
 ---
 
+## Summary
+
+This untitled English typescript, attributed to M. R. Masani, assesses India’s political crisis in the aftermath of the Janata Government’s collapse in 1979. It describes widespread public disgust with politicians, the erosion of the Janata majority through defections, Morarji Desai’s resignation, Charan Singh’s brief attempt to form a government, and the President’s decision to dissolve Parliament and call fresh elections. Masani presents the search for a “Third Force” as a response to public disillusionment with both the Janata Party and Indira Gandhi’s Congress, but doubts that any existing political formation can provide stable or principled government.
+
+The later pages connect this political instability to what Masani sees as India’s deeper institutional and economic weaknesses: insufficient traditions of individual liberty and grassroots citizenship, excessive state control, expanding bureaucracy, and the concentration of political and economic power. He argues for a shift toward limited government and criticises the existing parties for relying on defections and opportunistic alliances. The concluding outlook is bleak: the coming election is likely to turn on the Janata record and rising prices, while Indira Gandhi’s political revival raises renewed concerns about authoritarianism, civil liberties, the rule of law, and press freedom.
+
 ## Key points
 
 - The typescript opens with widespread public nausea and disillusionment with politicians after the Emergency and the Janata Government’s decline.

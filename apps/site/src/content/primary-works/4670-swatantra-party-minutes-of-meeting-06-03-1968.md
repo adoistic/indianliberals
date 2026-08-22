@@ -51,6 +51,12 @@ summary: |-
   The minutes show the practical and negotiated character of candidate selection. In Gujarat, the committee awaited a further recommendation and assigned Dandekar to visit Ahmedabad; in Orissa, it deferred changes pending comments from the state unit’s president; and in Rajasthan, it approved Mahendra Kumar Mohta in principle while requiring procedural issues within the state party organisation to be addressed. The meeting concluded by approving Bhanu Pratap Singh’s candidature for the Uttar Pradesh Vidhan Parishad. The document is an administrative record rather than a programmatic statement, and its focus is party organisation, legislative representation, and nomination procedure.
 ---
 
+## Summary
+
+These two pages record the minutes of a Swatantra Party Central Parliamentary Board sub-committee meeting held on 6 March 1968 at Prof. N. G. Ranga’s residence in New Delhi. Chaired by Ranga, with M. R. Masani and N. Dandekar present, the committee reviewed and approved recommendations for Rajya Sabha and Vidhan Parishad candidatures in several states, including Andhra, Assam, Mysore, Gujarat, Orissa, Rajasthan, Madras, and Uttar Pradesh.
+
+The minutes show the practical and negotiated character of candidate selection. In Gujarat, the committee awaited a further recommendation and assigned Dandekar to visit Ahmedabad; in Orissa, it deferred changes pending comments from the state unit’s president; and in Rajasthan, it approved Mahendra Kumar Mohta in principle while requiring procedural issues within the state party organisation to be addressed. The meeting concluded by approving Bhanu Pratap Singh’s candidature for the Uttar Pradesh Vidhan Parishad. The document is an administrative record rather than a programmatic statement, and its focus is party organisation, legislative representation, and nomination procedure.
+
 ## Key points
 
 - The sub-committee met on 6 March 1968 at Prof. N. G. Ranga’s residence in New Delhi.

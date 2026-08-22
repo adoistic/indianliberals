@@ -51,6 +51,12 @@ summary: |-
   Masani cites Dhawan's January 1966 article in Blitz, which accused Britain of betraying India and disrupting the country, and argues that this was not an isolated statement. He further points to Dhawan's leadership of the Blitz National Forum in Lucknow and his articles in the National Herald under the pseudonym “Sanjaya,” which Masani characterizes as consistently apologetic toward Soviet foreign policy. The letter is addressed only to “The Editor” and does not identify the publication receiving it.
 ---
 
+## Summary
+
+In this letter dated November 9, 1967, M. R. Masani challenges the Government of India's appointment of S. S. Dhawan as High Commissioner in Britain. Masani argues that Dhawan had publicly expressed hostility toward Britain, making his appointment inappropriate for representing India in a Commonwealth country that had supported India economically and politically.
+
+Masani cites Dhawan's January 1966 article in Blitz, which accused Britain of betraying India and disrupting the country, and argues that this was not an isolated statement. He further points to Dhawan's leadership of the Blitz National Forum in Lucknow and his articles in the National Herald under the pseudonym “Sanjaya,” which Masani characterizes as consistently apologetic toward Soviet foreign policy. The letter is addressed only to “The Editor” and does not identify the publication receiving it.
+
 ## Key points
 
 - Masani questions whether a person who has publicly expressed hostility toward Britain should be appointed India's High Commissioner there.

@@ -55,6 +55,12 @@ summary: |-
   Raju also congratulates Sreenivasan on his assessment of “Ganapariah, Georpyade and Co.” In a postscript, he addresses correspondence concerning Piloo Mody’s alleged attempt to enforce his claim against Swatantra Party assets in Tamil Nadu and Bombay, and says he will bring the matter to Minoo Masani’s attention when Masani returns from abroad.
 ---
 
+## Summary
+
+In this letter dated September 11, 1974, S. V. Raju replies to V. T. Sreenivasan about proposed constitutional litigation. Raju reports that a similar initiative is already being pursued in the Civil Court in Madras and that Maharashtra is considering following suit. He agrees with Sreenivasan’s assessment of the constitutional position and offers to send the plaint to committed individuals in Bangalore who have the time and resources to pursue the matter in the Bangalore Civil Court. He notes that lawyers in Maharashtra and Tamil Nadu advise beginning in a Civil Court.
+
+Raju also congratulates Sreenivasan on his assessment of “Ganapariah, Georpyade and Co.” In a postscript, he addresses correspondence concerning Piloo Mody’s alleged attempt to enforce his claim against Swatantra Party assets in Tamil Nadu and Bombay, and says he will bring the matter to Minoo Masani’s attention when Masani returns from abroad.
+
 ## Key points
 
 - Raju says a similar constitutional initiative is already being pursued in the Civil Court in Madras.

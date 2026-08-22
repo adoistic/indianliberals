@@ -54,6 +54,12 @@ summary: |-
   The bill also retains a special provision for Bihar, Madhya Pradesh, and Orissa requiring a Minister in charge of tribal welfare, with possible responsibility for the welfare of Scheduled Castes, backward classes, or other work. Its Statement of Objects and Reasons argues that the Constitution provides no set procedure for appointing State Chief Ministers and that gubernatorial discretion has sometimes permitted appointments without regard to the electorate's verdict. The bill is therefore presented as a governance reform intended to align ministerial appointments more closely with legislative and electoral outcomes.
 ---
 
+## Summary
+
+This two-page 1967 proposed Lok Sabha bill, introduced by P.K. Deo, M.P., seeks to amend Article 164 of the Constitution of India. It would establish a specific procedure for appointing a State's Chief Minister: within a week of election results or a vacancy, the Governor would summon the Legislative Assembly to elect the Leader of the House, who would then be appointed Chief Minister. Other Ministers would be appointed by the Governor on the Chief Minister's advice and would hold office during the Governor's pleasure.
+
+The bill also retains a special provision for Bihar, Madhya Pradesh, and Orissa requiring a Minister in charge of tribal welfare, with possible responsibility for the welfare of Scheduled Castes, backward classes, or other work. Its Statement of Objects and Reasons argues that the Constitution provides no set procedure for appointing State Chief Ministers and that gubernatorial discretion has sometimes permitted appointments without regard to the electorate's verdict. The bill is therefore presented as a governance reform intended to align ministerial appointments more closely with legislative and electoral outcomes.
+
 ## Key points
 
 - The document is a proposed Constitution (Amendment) Bill introduced in the Lok Sabha in 1967 by P.K. Deo, M.P.

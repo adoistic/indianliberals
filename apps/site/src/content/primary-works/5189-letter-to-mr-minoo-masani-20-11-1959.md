@@ -49,6 +49,12 @@ summary: |-
   The letter explains that current expenses are being met, but that the party's expanding work will require substantially greater resources. It therefore requests information about the extent and scope of funds that may be made available to the party from the Centre. The handwritten signature is not legible enough to identify the sender with confidence.
 ---
 
+## Summary
+
+This one-page English letter, dated 20 November 1959 and issued from the Bihar State Janata Party office in Patna, is addressed to M. R. Masani, M.P. The unidentified signatory reports progress in Bihar and asks Masani to consider the party's financial requirements.
+
+The letter explains that current expenses are being met, but that the party's expanding work will require substantially greater resources. It therefore requests information about the extent and scope of funds that may be made available to the party from the Centre. The handwritten signature is not legible enough to identify the sender with confidence.
+
 ## Key points
 
 - The letter is dated 20 November 1959 and originates from the Bihar State Janata Party office in Patna.

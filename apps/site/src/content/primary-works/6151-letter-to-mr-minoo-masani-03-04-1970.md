@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated April 3, 1970, is from S. V. Raju to Minoo Masani. Raju says he is enclosing a revised article on the Jan Sangh and hopes Masani will consider the revision an improvement. The letter notes that the revision incorporates contributions associated with Morarji Desai and Dilly Chitre.
 ---
 
+## Summary
+
+This one-page letter, dated April 3, 1970, is from S. V. Raju to Minoo Masani. Raju says he is enclosing a revised article on the Jan Sangh and hopes Masani will consider the revision an improvement. The letter notes that the revision incorporates contributions associated with Morarji Desai and Dilly Chitre.
+
 ## Key points
 
 - The letter is dated April 3, 1970.

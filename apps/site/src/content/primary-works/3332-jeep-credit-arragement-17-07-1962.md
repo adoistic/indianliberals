@@ -56,6 +56,12 @@ summary: |-
   The report tracks later payments and revises the settlement after the Treasury increased the pro rata contribution for endorsed constituencies. It proposes that certain jeeps be retained by the Bihar State Party as trustees for the Centre, while requiring repayment arrangements with the Raja. Subsequent correspondence led to a dispute over whether the Swatantra Party was responsible for the overdraft; the report rejects that implication and asks the Parliamentary Board to determine how to handle the remaining Rs. 60,000 and protect the Party from being wrongly associated with the Raja’s bank liability.
 ---
 
+## Summary
+
+This confidential Swatantra Party report, dated 27 July 1962, records the Parliamentary Sub-Committee’s review of a jeep-credit arrangement involving the Raja of Ramgarh, the Bihar unit, and the Central Bank of India. It recounts that, from an allocation of Rs. 3.75 lakhs for 15 endorsed constituencies, Rs. 50,000 had been paid in cash and Rs. 80,000 had been paid to the Bank on the Raja’s behalf. The Committee subsequently authorized monthly instalments, subject to the delivery of the jeeps and the Raja’s obligations under the draft agreement.
+
+The report tracks later payments and revises the settlement after the Treasury increased the pro rata contribution for endorsed constituencies. It proposes that certain jeeps be retained by the Bihar State Party as trustees for the Centre, while requiring repayment arrangements with the Raja. Subsequent correspondence led to a dispute over whether the Swatantra Party was responsible for the overdraft; the report rejects that implication and asks the Parliamentary Board to determine how to handle the remaining Rs. 60,000 and protect the Party from being wrongly associated with the Raja’s bank liability.
+
 ## Key points
 
 - The Parliamentary Sub-Committee reviewed the jeep-credit arrangement at meetings in Madras and Bombay.

@@ -51,6 +51,12 @@ summary: |-
   Raju also argues that the B.L.D.’s claim to represent a national alternative is calculated to mislead the public, while welcoming decisions by the Maharashtra and Tamil Nadu units to preserve the Swatantra Party’s identity. The letter briefly discusses Babu Joseph, Masani, and Masani’s involvement with Citizens for Democracy, including his recent meeting with J. P. The complete two-page letter is visible, although no printed title or publication details are provided.
 ---
 
+## Summary
+
+In this two-page letter dated 4 November 1974, S. V. Raju writes to C. N. Sudhan about the political status of the Swatantra Party in Kerala. Raju supports convening a State Council meeting to reaffirm the Kerala unit’s continuation and to reject an alleged unilateral merger by some office-bearers with the B.L.D. He proposes a resolution declaring such action unwarranted and, apart from being undemocratic, a gross misuse of official positions.
+
+Raju also argues that the B.L.D.’s claim to represent a national alternative is calculated to mislead the public, while welcoming decisions by the Maharashtra and Tamil Nadu units to preserve the Swatantra Party’s identity. The letter briefly discusses Babu Joseph, Masani, and Masani’s involvement with Citizens for Democracy, including his recent meeting with J. P. The complete two-page letter is visible, although no printed title or publication details are provided.
+
 ## Key points
 
 - Raju endorses a Kerala State Council meeting to formally reaffirm the continuation of the Swatantra Party.

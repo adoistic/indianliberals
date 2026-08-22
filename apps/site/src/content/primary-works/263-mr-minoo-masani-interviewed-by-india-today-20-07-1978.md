@@ -57,6 +57,12 @@ summary: |-
   Masani views contemporary Indian politics through a cyclical lens. He compares the unstable coalition governments that followed the 1967 elections with the Janata Government, warning that political disorder, declining law and order, and weak labour discipline could again produce an authoritarian regime. He distinguishes the 1978 situation from the pre-Emergency period, but insists that democratic critics should not remain silent. On economic policy, he attacks the Janata Government for continuing what he regards as Nehru-era fiscal errors, including high taxation, deficit finance, and monetary expansion. He endorses Nani Palkhivala’s call for a tax-policy “U Turn” and concludes by advocating a non-partisan middle-class movement inspired by California’s property-tax revolt.
 ---
 
+## Summary
+
+In this 20 June 1978 interview, Minoo Masani discusses his resignation as chairman of the Minorities Commission, arguing that the Commission’s report on the Aligarh Muslim University (Amendment) Bill should be published before Parliament debates the measure. He says his interest in minority issues remains undiminished, while also describing his return to writing his memoirs, whose planned second volume would cover the period from Independence through his years in Parliament, 1957–1970.
+
+Masani views contemporary Indian politics through a cyclical lens. He compares the unstable coalition governments that followed the 1967 elections with the Janata Government, warning that political disorder, declining law and order, and weak labour discipline could again produce an authoritarian regime. He distinguishes the 1978 situation from the pre-Emergency period, but insists that democratic critics should not remain silent. On economic policy, he attacks the Janata Government for continuing what he regards as Nehru-era fiscal errors, including high taxation, deficit finance, and monetary expansion. He endorses Nani Palkhivala’s call for a tax-policy “U Turn” and concludes by advocating a non-partisan middle-class movement inspired by California’s property-tax revolt.
+
 ## Key points
 
 - Masani defends publication of the Minorities Commission’s report on the Aligarh Muslim University (Amendment) Bill before parliamentary debate.

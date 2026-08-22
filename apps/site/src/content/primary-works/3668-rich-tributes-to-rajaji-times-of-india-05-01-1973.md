@@ -51,6 +51,12 @@ summary: |-
   The accompanying letter, on Swatantra Party national headquarters letterhead, asks The Times of India’s circulation manager for four copies of each issue published from December 20, when Rajaji was admitted to hospital, through January 4. Raju explains that the copies are wanted for record purposes and particularly in connection with the forthcoming National Convention, offering to pay the cost. The rendered pages contain the complete two-page document; no further correspondence or contextual material is present.
 ---
 
+## Summary
+
+This two-page English archival item combines a January 5, 1973 Times of India clipping with a January 6, 1973 administrative letter from S. V. Raju, Executive Secretary of the Swatantra Party. The clipping, headed “Rich tributes to CR,” reports political leaders’ praise for C. Rajagopalachari (Rajaji), who had recently been admitted to hospital. It records descriptions of Rajaji as a fine leader, a true Gandhian and democrat, a far-sighted and incomparable statesman, and a “giant” among the leaders of his era.
+
+The accompanying letter, on Swatantra Party national headquarters letterhead, asks The Times of India’s circulation manager for four copies of each issue published from December 20, when Rajaji was admitted to hospital, through January 4. Raju explains that the copies are wanted for record purposes and particularly in connection with the forthcoming National Convention, offering to pay the cost. The rendered pages contain the complete two-page document; no further correspondence or contextual material is present.
+
 ## Key points
 
 - The item is a January 6, 1973 letter from S. V. Raju to The Times of India’s circulation manager in Bombay.

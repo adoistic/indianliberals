@@ -47,6 +47,10 @@ summary: |-
   This one-page English letter, dated 25 November 1959, is written by Mohan Murari, principal of Navjivan Inter College in Farrukhnagar (Meerut), to Minoo Masani in New Delhi. Murari refers to an earlier letter dated 1 September 1959 and to advice from Masani's secretary that he should contact Masani in November while Masani was at Delhi.
 ---
 
+## Summary
+
+This one-page English letter, dated 25 November 1959, is written by Mohan Murari, principal of Navjivan Inter College in Farrukhnagar (Meerut), to Minoo Masani in New Delhi. Murari refers to an earlier letter dated 1 September 1959 and to advice from Masani's secretary that he should contact Masani in November while Masani was at Delhi.
+
 ## Key points
 
 - The letter is dated 25 November 1959 and is written on Navjivan Inter College letterhead.

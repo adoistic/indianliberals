@@ -49,6 +49,12 @@ summary: |-
   The letter also addresses the scheduling of a convention, reporting Sri Jinraj Hegde’s information that it would be held only on 6 August rather than 5 August. The writer proposes that the Madras city party unit, or another unit en route to Bangalore, organise a meeting for North Indian participants on 5 August so they might remain for the additional two days. The letter closes by praising a leaflet on the Bill published in English by Sardar Basant Singh and briefly mentions the end of Shri R. N. Singh Deo’s responsibility for the inquiry into the Biren Mitra affair. The sender is not identified on the supplied pages.
 ---
 
+## Summary
+
+This two-page typed letter, dated 24 July 1963 from Nidubrolu and addressed to C. Rajagopalachari (“Rajajee”), discusses the growing campaign against the Test Ban through postcard petitions in Andhra districts. The writer congratulates Rajagopalachari on the campaign’s development and hopes that the Madras unit is becoming similarly active, while noting that the Lok Sabha Secretariat has received large numbers of petitions.
+
+The letter also addresses the scheduling of a convention, reporting Sri Jinraj Hegde’s information that it would be held only on 6 August rather than 5 August. The writer proposes that the Madras city party unit, or another unit en route to Bangalore, organise a meeting for North Indian participants on 5 August so they might remain for the additional two days. The letter closes by praising a leaflet on the Bill published in English by Sardar Basant Singh and briefly mentions the end of Shri R. N. Singh Deo’s responsibility for the inquiry into the Biren Mitra affair. The sender is not identified on the supplied pages.
+
 ## Key points
 
 - The writer congratulates Rajagopalachari on the development of a campaign against the Test Ban.

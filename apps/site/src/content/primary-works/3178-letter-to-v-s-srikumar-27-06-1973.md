@@ -49,6 +49,12 @@ summary: |-
   Raju urges Srikumar to contact active and lapsed party members, prevent Members of the Legislative Assembly and other members from following Hande, and counter reports that Hande’s departure could take half the party with him. He also calls for a more vigorous enrollment campaign and a tour of the districts after the State Council meeting to raise members’ morale. The page includes handwritten editorial annotations and corrections, which are not incorporated into the typed summary.
 ---
 
+## Summary
+
+This letter, dated June 27, 1973, is from S. V. Raju to V. S. Srikumar of the Swatantra Party’s Madras District. Raju discusses Dr. Hande’s political association with the party, which he characterizes as temporary, and expresses surprise that Hande has joined another party. He asks Srikumar to obtain a list of district presidents and general secretaries and to address resentment reportedly generated in some districts by Hande and S. K. Srinivasan.
+
+Raju urges Srikumar to contact active and lapsed party members, prevent Members of the Legislative Assembly and other members from following Hande, and counter reports that Hande’s departure could take half the party with him. He also calls for a more vigorous enrollment campaign and a tour of the districts after the State Council meeting to raise members’ morale. The page includes handwritten editorial annotations and corrections, which are not incorporated into the typed summary.
+
 ## Key points
 
 - Raju regards Dr. Hande’s association with the Swatantra Party as temporary and is surprised by the party Hande has joined.

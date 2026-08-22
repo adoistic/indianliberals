@@ -53,6 +53,12 @@ summary: |-
   The convention welcomes the creation of a “National Alternative” through the coming together of political forces other than the ruling Congress and Communist parties. It approves the impending formation of the Bharatiya Lok Dal, or People’s Party of India, and resolves that the Swatantra Party should cease to exist and merge with the new party once the executive reviews subsequent developments. Members unwilling to join are permitted to continue non-partisan activity, but not under the name “Swatantra.” Piloo Mody is authorised to notify the Chief Election Commissioner about the party’s dissolution and request that its electoral symbol be frozen.
 ---
 
+## Summary
+
+This two-page resolution, issued for the Swatantra Party’s Seventh National Convention in Delhi on 4–5 August 1974, records the party’s response to India’s political situation. It calls for exploring a two-party system to remove the “chaos” and “confusion” of contemporary political life, and urges political parties and politicians to cooperate for the common good. The document describes negotiations among senior Swatantra Party members and a General Council decision to circulate a draft programme to state councils before the convention took a final position.
+
+The convention welcomes the creation of a “National Alternative” through the coming together of political forces other than the ruling Congress and Communist parties. It approves the impending formation of the Bharatiya Lok Dal, or People’s Party of India, and resolves that the Swatantra Party should cease to exist and merge with the new party once the executive reviews subsequent developments. Members unwilling to join are permitted to continue non-partisan activity, but not under the name “Swatantra.” Piloo Mody is authorised to notify the Chief Election Commissioner about the party’s dissolution and request that its electoral symbol be frozen.
+
 ## Key points
 
 - The resolution presents a two-party system as a way to address political chaos and electoral confusion.

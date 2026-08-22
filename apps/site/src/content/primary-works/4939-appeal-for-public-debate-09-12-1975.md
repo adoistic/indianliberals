@@ -55,6 +55,12 @@ summary: |-
   The attached document, “A Fresh Look of Our Constitution: Some Suggestions,” presents an alternative constitutional design centered on a directly elected six-year President, a similarly elected Vice-President, a six-year Lok Sabha, and a stronger executive. It proposes a Superior Council of the Judiciary, drawing comparatively on constitutional provisions from France, Italy, Greece, Belgium, Guatemala, Japan, and Argentina. The annexures specify proposed amendments affecting Articles 13, 19, 22, 32, 124, 217, 218, 225, 226, 233–235, and 311, including restrictions on judicial review, changes to judicial appointments and discipline, and the banning of “communal, fascist, anti-national and anti-social organisations.”
 ---
 
+## Summary
+
+Dated December 9, 1975, this letter from advocate C. T. Daru urges public opposition to proposed constitutional changes that, in his account, would concentrate power in the President, subordinate the judiciary to the executive, weaken Parliament, curtail fundamental rights, remove safeguards against preventive detention, reduce minority protections, and end meaningful judicial review and federalism. Daru warns that these changes are being advanced without public debate and asks readers to raise their voices before the ensuing parliamentary session.
+
+The attached document, “A Fresh Look of Our Constitution: Some Suggestions,” presents an alternative constitutional design centered on a directly elected six-year President, a similarly elected Vice-President, a six-year Lok Sabha, and a stronger executive. It proposes a Superior Council of the Judiciary, drawing comparatively on constitutional provisions from France, Italy, Greece, Belgium, Guatemala, Japan, and Argentina. The annexures specify proposed amendments affecting Articles 13, 19, 22, 32, 124, 217, 218, 225, 226, 233–235, and 311, including restrictions on judicial review, changes to judicial appointments and discipline, and the banning of “communal, fascist, anti-national and anti-social organisations.”
+
 ## Key points
 
 - The letter presents the proposed constitutional amendments as a threat to fundamental liberties and democratic government.

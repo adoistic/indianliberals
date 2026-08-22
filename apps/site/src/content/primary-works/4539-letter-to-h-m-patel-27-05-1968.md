@@ -51,6 +51,12 @@ summary: |-
   The letter states that the party’s joint secretaries knew of these expenditures, that repeated letters seeking reimbursement received no satisfactory response, and that the office-bearers’ neglect caused hardship to the client. It demands payment of the claimed amount within 15 days, warning that failure to settle the dues will leave the client with no alternative but to take legal action. The final page records copies sent to several party figures and office-bearers. The document’s central concerns are internal party accountability, reimbursement of expenses, and formal notice before litigation.
 ---
 
+## Summary
+
+This five-page handwritten legal notice, dated 27 May 1968 and signed by advocate Narayanbhai R. Patel, is addressed to H. M. Patel, President of the Gujarat Swatantra Party. Patel writes on behalf of K. B. Patel of Ahmedabad, who had served as the party’s general secretary and as a member of its State Council. The notice alleges that, during roughly the two-and-a-half years ending in November 1967, the client personally paid Rs. 503 and 37 paise for party sales and other party-related expenses from his own pocket.
+
+The letter states that the party’s joint secretaries knew of these expenditures, that repeated letters seeking reimbursement received no satisfactory response, and that the office-bearers’ neglect caused hardship to the client. It demands payment of the claimed amount within 15 days, warning that failure to settle the dues will leave the client with no alternative but to take legal action. The final page records copies sent to several party figures and office-bearers. The document’s central concerns are internal party accountability, reimbursement of expenses, and formal notice before litigation.
+
 ## Key points
 
 - Narayanbhai R. Patel, Advocate, sends the notice from Ahmedabad on 27 May 1968.

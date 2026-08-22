@@ -46,6 +46,12 @@ summary: |-
   The sender says that the immediate action discussed earlier has been approved and asks Singh to arrange for someone to meet the sender in Bombay and carry out the agreed arrangements, originally discussed during the sender’s visit to Patna. The letter stresses that proper steps must be taken to authenticate the person’s identity and closes by awaiting Singh’s guidance in Bombay. The handwritten signature is not legible.
 ---
 
+## Summary
+
+This one-page typed letter, dated “Camp: Madras. 15th May 1961,” is addressed to Kamakhya Narayan Singh, Raja of Ramgarh. The unidentified sender reports having spent a useful day with Rajaji and Ranga before leaving for Bombay.
+
+The sender says that the immediate action discussed earlier has been approved and asks Singh to arrange for someone to meet the sender in Bombay and carry out the agreed arrangements, originally discussed during the sender’s visit to Patna. The letter stresses that proper steps must be taken to authenticate the person’s identity and closes by awaiting Singh’s guidance in Bombay. The handwritten signature is not legible.
+
 ## Key points
 
 - The letter is dated 15 May 1961 and sent from Madras.

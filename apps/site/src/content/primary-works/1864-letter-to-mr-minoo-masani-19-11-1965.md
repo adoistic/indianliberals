@@ -44,6 +44,10 @@ summary: |-
   This single-page English letter, dated 19 November 1965, was issued from the Indian Parliamentary & Scientific Committee at 52-B, Parliament House, New Delhi. Addressed to Shri M. R. Masani, it asks him to renew his membership of the committee by paying the annual subscription of Rs. 10 for 1965–66.
 ---
 
+## Summary
+
+This single-page English letter, dated 19 November 1965, was issued from the Indian Parliamentary & Scientific Committee at 52-B, Parliament House, New Delhi. Addressed to Shri M. R. Masani, it asks him to renew his membership of the committee by paying the annual subscription of Rs. 10 for 1965–66.
+
 ## Key points
 
 - The letter is dated 19 November 1965.

@@ -50,6 +50,12 @@ summary: |-
   Mehta reiterates his view that the Swatantra Party should suspend electoral politics and concentrate on propagating its ideals and undertaking constructive work. He says that the contemporary political situation has made all parties irrelevant, and, after failing to persuade the council to withdraw its resolution, tenders his resignation as President of the Maharashtra State Swatantra Party. He closes by thanking the state council and executive committee for their cooperation.
 ---
 
+## Summary
+
+In this letter dated 11 July 1974, Madhu Mehta writes to Girish Munshi about a Maharashtra State Council resolution opposing the dissolution of the Swatantra Party. He argues that the resolution served no useful purpose, that council members were entitled to express their views through the proper channels, and that the party's identity and flag would remain pending a decision at the national convention. Mehta criticizes Munshi for issuing a press statement about the resolution without first consulting him, despite an earlier understanding that the text would not be released to the press.
+
+Mehta reiterates his view that the Swatantra Party should suspend electoral politics and concentrate on propagating its ideals and undertaking constructive work. He says that the contemporary political situation has made all parties irrelevant, and, after failing to persuade the council to withdraw its resolution, tenders his resignation as President of the Maharashtra State Swatantra Party. He closes by thanking the state council and executive committee for their cooperation.
+
 ## Key points
 
 - The Maharashtra State Council passed a resolution opposing the proposal to dissolve the Swatantra Party.

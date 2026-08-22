@@ -53,6 +53,12 @@ summary: |-
   In the meeting message, Rajagopalachari presents religious observance as a shared civic concern, arguing that every religious community’s sacred days should be respected. He links religious inspiration to the possibility of achieving lasting public good and states that the Swatantra Party will uphold impartiality and respect for all religions, rites, and ceremonies. The party’s invitation extends to people of every religion and combines this commitment to religious pluralism with a call for a free life and a free economy, including participation by people who also belong to other organisations. The final page is limited to a courteous acknowledgment and contains no further argument.
 ---
 
+## Summary
+
+This archival unit contains two typed versions of C. Rajagopalachari’s message for a Swatantra Party meeting scheduled for 6 February 1965, followed by a brief acknowledgment of Madhu N. Mehta’s letter of 29 January. The two versions are substantively similar, with minor differences in typography, layout, and closing format.
+
+In the meeting message, Rajagopalachari presents religious observance as a shared civic concern, arguing that every religious community’s sacred days should be respected. He links religious inspiration to the possibility of achieving lasting public good and states that the Swatantra Party will uphold impartiality and respect for all religions, rites, and ceremonies. The party’s invitation extends to people of every religion and combines this commitment to religious pluralism with a call for a free life and a free economy, including participation by people who also belong to other organisations. The final page is limited to a courteous acknowledgment and contains no further argument.
+
 ## Key points
 
 - The document is dated 1 February 1965 and is addressed to Madhu N. Mehta, General Secretary of the Swatantra Party’s Bombay Region.

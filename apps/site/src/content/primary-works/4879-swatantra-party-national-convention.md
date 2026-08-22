@@ -49,6 +49,12 @@ summary: |-
   The proposed membership rules make people over 18 eligible to become Workers if they subscribe in writing to the Party’s principles and express readiness to work for it. Listed activities include enrolling members, campaigning, addressing public grievances, contesting elections when called upon, fundraising, preparing and distributing literature, organising study circles, and assisting party offices. The amendments also establish worker subscriptions and life-membership fees, allocate subscription receipts among constituency, district, state or regional, and central bodies, require annual auditing, and give the National Executive authority over enrolment and expulsion. A further amendment would reduce the minimum membership of primary units from 250 members to 20 Workers.
 ---
 
+## Summary
+
+This two-page Swatantra Party convention document proposes amendments to the Party Constitution concerning membership, subscriptions, members, and primary units. It distinguishes between “Workers” who actively undertake party work and ordinary members who may be consulted and associated with party activities but do not pay a fee or vote in party elections.
+
+The proposed membership rules make people over 18 eligible to become Workers if they subscribe in writing to the Party’s principles and express readiness to work for it. Listed activities include enrolling members, campaigning, addressing public grievances, contesting elections when called upon, fundraising, preparing and distributing literature, organising study circles, and assisting party offices. The amendments also establish worker subscriptions and life-membership fees, allocate subscription receipts among constituency, district, state or regional, and central bodies, require annual auditing, and give the National Executive authority over enrolment and expulsion. A further amendment would reduce the minimum membership of primary units from 250 members to 20 Workers.
+
 ## Key points
 
 - The document recommends constitutional amendments for the Swatantra Party’s national convention.

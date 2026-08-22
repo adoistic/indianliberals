@@ -52,6 +52,12 @@ summary: |-
   In the enclosed letter, Munshi refers to a circular letter from Hemanth dated March 29 and to a report from Raju concerning an unspecified incident. He argues that the Swatantra Party should expel the rebels, maintaining that the party must uphold its principles despite being small and despite temporary political advantages. He also claims that foreign writers have recognised Swatantra as the only party in India standing for definite principles.
 ---
 
+## Summary
+
+This two-page archival item consists of K. M. Munshi’s covering letter to N. Dandekar and an enclosed letter to C. Rajagopalachari, both dated April 4, 1968. Munshi says that the enclosed letter to “Rajaji” speaks for itself and identifies Dandekar as the recipient of the covering note.
+
+In the enclosed letter, Munshi refers to a circular letter from Hemanth dated March 29 and to a report from Raju concerning an unspecified incident. He argues that the Swatantra Party should expel the rebels, maintaining that the party must uphold its principles despite being small and despite temporary political advantages. He also claims that foreign writers have recognised Swatantra as the only party in India standing for definite principles.
+
 ## Key points
 
 - Munshi’s covering letter forwards an enclosed letter to C. Rajagopalachari, whom he addresses as “Rajaji.”

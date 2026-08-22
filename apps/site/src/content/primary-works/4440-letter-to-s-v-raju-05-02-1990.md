@@ -50,6 +50,12 @@ summary: |-
   Singh tells Raju that he will send background material for a committee he is to chair, relying on Raju's editorial expertise to put it into publishable form. He also asks Raju to convey his compliments to Minoo Masani, recalls earlier L.S.P. seminars on agriculture, and notes that he may soon move to Delhi to conduct the committee's affairs. The page offers no further details about the committee, its mandate, or the proposed material.
 ---
 
+## Summary
+
+In this letter dated 5 February 1990, Bhanu Pratap Singh thanks S. V. Raju for his letter and cheque, explaining that he writes not for monetary gain but to shape public opinion in favour of rural communities. He describes the deterioration of the rural economy, the migration of able-bodied villagers to cities, and his belief that meaningful progress requires systemic change. He singles out Vishwanath Pratap Singh as perhaps the only political figure with the imagination or determination to depart from the established economic path.
+
+Singh tells Raju that he will send background material for a committee he is to chair, relying on Raju's editorial expertise to put it into publishable form. He also asks Raju to convey his compliments to Minoo Masani, recalls earlier L.S.P. seminars on agriculture, and notes that he may soon move to Delhi to conduct the committee's affairs. The page offers no further details about the committee, its mandate, or the proposed material.
+
 ## Key points
 
 - Singh says he writes to influence public opinion in favour of rural communities rather than for financial gain.

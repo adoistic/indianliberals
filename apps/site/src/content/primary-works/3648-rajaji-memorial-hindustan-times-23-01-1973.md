@@ -54,6 +54,12 @@ summary: |-
   The second page turns to contemporary politics. The writer criticises the Government of India’s economic policies for failing to address the economic disruption caused by refugee inflows and war, and calls for pragmatic policies to revive the economy. The letter also condemns the Constitution’s Twenty-fourth and Twenty-fifth Amendments as attacks on fundamental rights, presents the author’s party as a constitutional opponent of those amendments, and appeals for Rs. 251 contributions to fund its campaign in the forthcoming Assembly elections against what it calls “totalitarian reaction.”
 ---
 
+## Summary
+
+In this letter published in the Hindustan Times on 23 January 1973, K. Vedamurthy responds to T. K. Krishnamachari’s proposal for a Rajaji memorial institution. The writer argues that the Central Government’s failure to mark C. Rajagopalachari’s death appropriately reflects a broader neglect of Rajaji’s political legacy, including his commitment to peace, harmony, and freedom. The letter also questions whether official commemorations might obscure Rajaji’s distinct contribution rather than preserve it honestly.
+
+The second page turns to contemporary politics. The writer criticises the Government of India’s economic policies for failing to address the economic disruption caused by refugee inflows and war, and calls for pragmatic policies to revive the economy. The letter also condemns the Constitution’s Twenty-fourth and Twenty-fifth Amendments as attacks on fundamental rights, presents the author’s party as a constitutional opponent of those amendments, and appeals for Rs. 251 contributions to fund its campaign in the forthcoming Assembly elections against what it calls “totalitarian reaction.”
+
 ## Key points
 
 - The letter supports commemorating C. Rajagopalachari but questions whether the proposed memorial would genuinely preserve his ideals.

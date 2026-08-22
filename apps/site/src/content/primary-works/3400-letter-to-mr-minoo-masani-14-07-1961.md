@@ -49,6 +49,12 @@ summary: |-
   Despite that pessimism, the sender expresses confidence that a concrete development may still enable the party’s success. The handwritten signature is not sufficiently legible to identify the sender; the letter is therefore catalogued as an unsigned-by-typed-name political correspondence item.
 ---
 
+## Summary
+
+This one-page English letter, dated 14 July 1961, is written from the Swatantra Party Bihar office in Patna to M. R. Masani in Bombay. The sender acknowledges Masani’s letter of 7 July and reports that the awaited communication from Bombay has arrived, though accompanied by pessimistic expectations.
+
+Despite that pessimism, the sender expresses confidence that a concrete development may still enable the party’s success. The handwritten signature is not sufficiently legible to identify the sender; the letter is therefore catalogued as an unsigned-by-typed-name political correspondence item.
+
 ## Key points
 
 - The letter was sent from the Swatantra Party Bihar office in Patna on 14 July 1961.

@@ -57,6 +57,12 @@ summary: |-
   In the rendered pages, Masani proposes a two-year “Plan holiday” rather than a further extension of the Five Year Plan. He presents this pause as an opportunity to complete unfinished projects, use existing capacity, reduce red tape, reconsider economic priorities, and redirect resources toward agriculture, roads, and power. He argues that such a change would increase production, savings, investment, rural purchasing power, and tax revenues. The article closes by invoking Ceylon’s shift toward liberal economic policies as evidence that economic problems can have political solutions, while attributing India’s difficulties partly to a lack of decisive leadership and confidence in enterprise.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that India’s economic crisis is the consequence of political choices: excessive state planning, expanding public-sector commitments, monetary mismanagement, taxation, and controls over production and trade. He identifies several “fallacies” behind the planning regime, including the belief that government should produce ever more, that heavy industry automatically constitutes industrialisation, and that the Planning Commission should dictate what is produced and at what price. The article links these policies to inflation, devaluation, wasteful investment, diminished private-sector resources, and corruption.
+
+In the rendered pages, Masani proposes a two-year “Plan holiday” rather than a further extension of the Five Year Plan. He presents this pause as an opportunity to complete unfinished projects, use existing capacity, reduce red tape, reconsider economic priorities, and redirect resources toward agriculture, roads, and power. He argues that such a change would increase production, savings, investment, rural purchasing power, and tax revenues. The article closes by invoking Ceylon’s shift toward liberal economic policies as evidence that economic problems can have political solutions, while attributing India’s difficulties partly to a lack of decisive leadership and confidence in enterprise.
+
 ## Key points
 
 - Masani attributes India’s economic difficulties to political decisions rather than unavoidable economic conditions.

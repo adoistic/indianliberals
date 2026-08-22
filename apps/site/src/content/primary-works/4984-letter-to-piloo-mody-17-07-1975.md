@@ -54,6 +54,12 @@ summary: |-
   Masani points to the Prime Minister's stated willingness to see an alternative party emerge and proposes a National Democratic Party founded on democratic principles and liberal-Gandhian economic policies. He notes that even if detained politicians are returned to jail, those remaining outside can organise the party. The single page does not provide further detail about the proposed party's programme, organisation, or subsequent prospects.
 ---
 
+## Summary
+
+In this letter dated July 17, 1975, M. R. Masani writes to Piloo Mody against the backdrop of parliamentary detention and the suspension of normal political activity. Masani argues that, if Mody and his colleagues are released for the next parliamentary session, they should do more than speak in Parliament: they should use the opportunity to create a new democratic opposition party through constitutional and legal means.
+
+Masani points to the Prime Minister's stated willingness to see an alternative party emerge and proposes a National Democratic Party founded on democratic principles and liberal-Gandhian economic policies. He notes that even if detained politicians are returned to jail, those remaining outside can organise the party. The single page does not provide further detail about the proposed party's programme, organisation, or subsequent prospects.
+
 ## Key points
 
 - Masani's letter is dated July 17, 1975, and addressed to Piloo Mody, M.P.

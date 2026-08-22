@@ -48,6 +48,12 @@ summary: |-
   The letter frames their disagreement as a difference over the nature of “politics” in the contemporary Indian context. Masani presents political affiliation as a matter of personal choice: he has chosen Jayaprakash Narayan, while Mody has chosen Biju Patnaik. The page offers no further explanation of these choices or of the substantive issues separating the two correspondents.
 ---
 
+## Summary
+
+In this letter dated 15 July 1974, Minoo Masani responds sharply to Piloo Mody's letter of 11 July, dismissing it as containing “diversionary red herrings, unfounded assumptions and half-truths.” Masani declines to rebut Mody's individual debating points, arguing that doing so would serve no purpose.
+
+The letter frames their disagreement as a difference over the nature of “politics” in the contemporary Indian context. Masani presents political affiliation as a matter of personal choice: he has chosen Jayaprakash Narayan, while Mody has chosen Biju Patnaik. The page offers no further explanation of these choices or of the substantive issues separating the two correspondents.
+
 ## Key points
 
 - Masani replies to Piloo Mody's letter of 11 July 1974.

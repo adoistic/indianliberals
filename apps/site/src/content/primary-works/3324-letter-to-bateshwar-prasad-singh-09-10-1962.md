@@ -50,6 +50,12 @@ summary: |-
   Masani further insists that Raja Saheb was responsible for repaying the loan's interest as well as the outstanding principal. He describes an arrangement approved by the Party under which the balance of Rs. 1,20,000 and accrued interest would be repaid, with monthly payments of Rs. 20,000 continuing on Raja Saheb's behalf until Rs. 2,80,000 had been exhausted. The letter states that the final Rs. 20,000 payment for October 1962 was made on 5 October and that no further payment to the Bank on Raja Saheb's behalf would be possible.
 ---
 
+## Summary
+
+In this letter dated 9 October 1962, M. R. Masani, writing as General Secretary, responds to Thakur Bateshwar Prasad Singh's allegations concerning a loan and credit account opened in the name of Raja Bahadur of Ramgarh. Masani rejects what he calls a series of baseless misstatements and points to the records and approved minutes of the Party's Parliamentary Sub-Committee and Parliamentary Board. He denies that the credit was opened in Raja Saheb's name merely because the Party could not obtain an overdraft, or that Raja Saheb merely lent his name to the arrangement.
+
+Masani further insists that Raja Saheb was responsible for repaying the loan's interest as well as the outstanding principal. He describes an arrangement approved by the Party under which the balance of Rs. 1,20,000 and accrued interest would be repaid, with monthly payments of Rs. 20,000 continuing on Raja Saheb's behalf until Rs. 2,80,000 had been exhausted. The letter states that the final Rs. 20,000 payment for October 1962 was made on 5 October and that no further payment to the Bank on Raja Saheb's behalf would be possible.
+
 ## Key points
 
 - Masani rejects Singh's allegations as unsupported by the Party's letters and records.

@@ -50,6 +50,12 @@ summary: |-
   Masani argues that the Swatantra Party should occupy the opposition seats previously assigned to the P.S.P., immediately next to the Communist Party. He also requests two Opposition Front Bench seats for the party's leader and deputy leader, contending that the two largest opposition parties should receive two seats each rather than allowing unofficial members to overflow onto the front benches. The attached second page lists all 28 Swatantra Party members and their associated states or regions. The document does not include a printed title, publisher line, or letterhead identifying a publisher.
 ---
 
+## Summary
+
+This letter, dated 2 April 1962, records M. R. Masani's request to M. N. Kaul, Secretary of the Lok Sabha, concerning seating arrangements for Swatantra Party members in the newly constituted House. Masani states that the party group numbers 28: 18 members stood as official Swatantra Party candidates, while four additional members had contested on the Ganatantra Parishad platform before its merger with the Swatantra Party on 3 March 1962. He offers to obtain written confirmations from members joining as associate members if required.
+
+Masani argues that the Swatantra Party should occupy the opposition seats previously assigned to the P.S.P., immediately next to the Communist Party. He also requests two Opposition Front Bench seats for the party's leader and deputy leader, contending that the two largest opposition parties should receive two seats each rather than allowing unofficial members to overflow onto the front benches. The attached second page lists all 28 Swatantra Party members and their associated states or regions. The document does not include a printed title, publisher line, or letterhead identifying a publisher.
+
 ## Key points
 
 - Masani writes to M. N. Kaul about seating arrangements for the Swatantra Party in the new Lok Sabha.

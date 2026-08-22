@@ -49,6 +49,10 @@ summary: |-
   This confidential letter, dated 26 December 1980 and written on Swatantra Party (Maharashtra Region) letterhead, concerns Mrs. Sosan Panday's formation of an ad hoc “Committee for Electoral Rights” on behalf of the Parsi Panchayat. J. Venkateswaran, identified as the party's Joint Secretary, notes that Panday has listed the party's premises as the committee's address without first seeking permission.
 ---
 
+## Summary
+
+This confidential letter, dated 26 December 1980 and written on Swatantra Party (Maharashtra Region) letterhead, concerns Mrs. Sosan Panday's formation of an ad hoc “Committee for Electoral Rights” on behalf of the Parsi Panchayat. J. Venkateswaran, identified as the party's Joint Secretary, notes that Panday has listed the party's premises as the committee's address without first seeking permission.
+
 ## Key points
 
 - The letter reports the formation of an ad hoc Committee for Electoral Rights.

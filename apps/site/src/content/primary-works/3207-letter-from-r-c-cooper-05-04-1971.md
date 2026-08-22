@@ -52,6 +52,12 @@ summary: |-
   The certificate is signed by R. C. Cooper, identified as General Secretary. No printed document title or broader argument is present; the document functions as an institutional employment and tax record.
 ---
 
+## Summary
+
+This one-page English office certificate, issued on Swatantra Party National Headquarters letterhead and dated April 5, 1971, certifies that S. V. Raju was employed as Executive Secretary at the party’s national headquarters. It records an annual salary of Rs 18,000 and states that annual income tax of Rs 2,028 was deducted at source and paid into the Reserve Bank of India.
+
+The certificate is signed by R. C. Cooper, identified as General Secretary. No printed document title or broader argument is present; the document functions as an institutional employment and tax record.
+
 ## Key points
 
 - The document is an employment and income-tax certificate issued by the Swatantra Party National Headquarters.

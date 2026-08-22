@@ -52,6 +52,12 @@ summary: |-
   In the rendered pages, Masani connects weak leadership to indecision in government and politics. He criticizes political “tailism”—Lenin’s term for following a party’s dominant trend rather than leading it—and argues that India has had large governments without strong government. The essay concludes, in the rendered pages, that Indian democracy requires education in citizenship and leadership, pointing to the Leslie Sawhny Programme of Training in Democracy and Lao Tse’s model of a leader whose work is ultimately credited to the people themselves.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that India’s central need is good leadership, not merely leadership understood as political authority. He attributes the scarcity of effective leaders to cultural habits that discourage courage, dissent, adventure, and non-conformity, including excessive deference to age and authority. The essay contrasts these habits with the willingness of figures such as Mahatma Gandhi, Winston Churchill, and Charles de Gaulle to lead according to their own principles and accept the consequences when their parties would not follow them.
+
+In the rendered pages, Masani connects weak leadership to indecision in government and politics. He criticizes political “tailism”—Lenin’s term for following a party’s dominant trend rather than leading it—and argues that India has had large governments without strong government. The essay concludes, in the rendered pages, that Indian democracy requires education in citizenship and leadership, pointing to the Leslie Sawhny Programme of Training in Democracy and Lao Tse’s model of a leader whose work is ultimately credited to the people themselves.
+
 ## Key points
 
 - The essay presents good leadership as an urgent need in India across politics, education, management, and public life.

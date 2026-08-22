@@ -49,6 +49,12 @@ summary: |-
   The letter explains that the balance fluctuates with receipts and expenses, and argues that the Foundation must retain sufficient cash because it may need to subsidise Freedom First as expenses rise with prices. The interest earned on the bank deposit is described as inadequate to meet current expenses. Pinto closes by characterising the situation as a recurring problem of institutional poverty: dependence on capital to fund ongoing work.
 ---
 
+## Summary
+
+This one-page letter from S.A.A. Pinto of the Freedom First Foundation, dated October 4, 1989, responds to Minoo Masani about the investment and use of the Foundation's funds. Pinto reports that the Foundation received Rs. 86,839, invested Rs. 60,000 with the Bank of India for two years at 10% per annum, and held a remaining bank balance of Rs. 20,446 as of September 30, 1989.
+
+The letter explains that the balance fluctuates with receipts and expenses, and argues that the Foundation must retain sufficient cash because it may need to subsidise Freedom First as expenses rise with prices. The interest earned on the bank deposit is described as inadequate to meet current expenses. Pinto closes by characterising the situation as a recurring problem of institutional poverty: dependence on capital to fund ongoing work.
+
 ## Key points
 
 - The Foundation received a total of Rs. 86,839.

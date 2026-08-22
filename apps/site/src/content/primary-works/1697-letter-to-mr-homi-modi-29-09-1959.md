@@ -53,6 +53,12 @@ summary: |-
   The handwriting is difficult to read in several places, and the precise subject of the application and the political arrangements under discussion cannot be established confidently from the rendered pages. The accompanying envelope is addressed to H. P. Modi and bears Indian postage and cancellation marks.
 ---
 
+## Summary
+
+This handwritten letter, dated 29 September 1959 and sent from North Avenue, New Delhi, is addressed to Homi Modi. A. D. Shroff discusses enclosing or sending a copy of an application and refers to consultations involving Bombay, Nehru, and what appears to be the future of a political party. The letter also mentions meeting to discuss these matters and expresses hope that the recipient will communicate or act on them.
+
+The handwriting is difficult to read in several places, and the precise subject of the application and the political arrangements under discussion cannot be established confidently from the rendered pages. The accompanying envelope is addressed to H. P. Modi and bears Indian postage and cancellation marks.
+
 ## Key points
 
 - The letter is dated 29 September 1959 and originates from North Avenue, New Delhi.

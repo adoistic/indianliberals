@@ -46,6 +46,10 @@ summary: |-
   In this letter dated 14 June 1963, C. Rajagopalachari writes to Minoo Masani about delayed correspondence and a disagreement with Pasricha's circular. Rajagopalachari says he has forwarded the circular to Masani with his disapproval and has not replied to Pasricha or the other signatories.
 ---
 
+## Summary
+
+In this letter dated 14 June 1963, C. Rajagopalachari writes to Minoo Masani about delayed correspondence and a disagreement with Pasricha's circular. Rajagopalachari says he has forwarded the circular to Masani with his disapproval and has not replied to Pasricha or the other signatories.
+
 ## Key points
 
 - The letter concerns delayed postal communication between Rajagopalachari and Minoo Masani.

@@ -47,6 +47,12 @@ summary: |-
   The remaining rendered pages continue the directory, supplying editors’ and chief reporters’ postal addresses in Bombay, Calcutta, Delhi, Madras, Patna, Ahmedabad, Baroda, Rajkot, Lucknow, Hyderabad, Bangalore, and other cities. The list spans English, Hindi, Gujarati, Bengali, Tamil, Malayalam, Telugu, Kannada, Oriya, and Urdu publications. Abbreviations such as “PE,” “PG,” “PM,” “PR,” “FU,” and “NA” appear beside many entries, apparently as internal distribution or classification markings, but their meanings are not explained in the visible pages. No author, issuing institution, publication date, or formal imprint is shown.
 ---
 
+## Summary
+
+This undated office-style document is headed “LIST OF NEWSPAPERS AND PERIODICALS” and functions as a contact and distribution list rather than a conventional authored publication. Its first page contains 25 numbered entries naming newspaper or news-agency correspondents and publications, including the Times of India, Hindustan Times, Indian Express, Statesman, Hindusthan Samachar, PTI, UNI, All India Radio, and several regional-language outlets. Some entries are crossed out or marked with handwritten ticks and annotations.
+
+The remaining rendered pages continue the directory, supplying editors’ and chief reporters’ postal addresses in Bombay, Calcutta, Delhi, Madras, Patna, Ahmedabad, Baroda, Rajkot, Lucknow, Hyderabad, Bangalore, and other cities. The list spans English, Hindi, Gujarati, Bengali, Tamil, Malayalam, Telugu, Kannada, Oriya, and Urdu publications. Abbreviations such as “PE,” “PG,” “PM,” “PR,” “FU,” and “NA” appear beside many entries, apparently as internal distribution or classification markings, but their meanings are not explained in the visible pages. No author, issuing institution, publication date, or formal imprint is shown.
+
 ## Key points
 
 - The document is a directory of newspaper, periodical, news-agency, and broadcasting contacts.

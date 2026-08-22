@@ -45,6 +45,12 @@ summary: |-
   Masani states that he has replied directly to the office of the Lok Sabha and has sent Ray a spare copy for forwarding to that office. The letter is a brief administrative acknowledgment and does not disclose the underlying subject of the correspondence.
 ---
 
+## Summary
+
+In this letter dated 16 April 1992, M. R. Masani replies to Basudev Ray of The Statesman, Calcutta, acknowledging Ray's letter of 14 April. Masani explains that his earlier letter to Mr. Irani, dated 13 April, has apparently already reached its destination by post.
+
+Masani states that he has replied directly to the office of the Lok Sabha and has sent Ray a spare copy for forwarding to that office. The letter is a brief administrative acknowledgment and does not disclose the underlying subject of the correspondence.
+
 ## Key points
 
 - The letter is dated 16 April 1992 and carries the reference “Col/851”.

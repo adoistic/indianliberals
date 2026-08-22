@@ -51,6 +51,12 @@ summary: |-
   Masani asks Devashayam to exercise discretion in censoring his letter and to forward any reply Narayan may wish to send, also duly censored. He cites the British authorities' permission in 1943 for correspondence with Narayan during his detention in Lahore Fort, and requests permission to send Narayan reading material, described as non-political literature intended to cheer him. Masani also asks for assistance in arranging a future visit with Narayan at Chandigarh.
 ---
 
+## Summary
+
+In this letter dated July 17, 1975, M. R. Masani writes to Deputy Commissioner Devashayam regarding an enclosed letter to his longtime friend and colleague Jayaprakash Narayan, who is detained at Chandigarh under the recipient's jurisdiction. Masani recalls that he and Narayan had been friends and colleagues since 1933, when both served as secretaries of the Congress Socialist Party.
+
+Masani asks Devashayam to exercise discretion in censoring his letter and to forward any reply Narayan may wish to send, also duly censored. He cites the British authorities' permission in 1943 for correspondence with Narayan during his detention in Lahore Fort, and requests permission to send Narayan reading material, described as non-political literature intended to cheer him. Masani also asks for assistance in arranging a future visit with Narayan at Chandigarh.
+
 ## Key points
 
 - The letter is dated July 17, 1975, and is addressed to Deputy Commissioner Devashayam.

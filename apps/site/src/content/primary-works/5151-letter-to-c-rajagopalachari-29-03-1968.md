@@ -50,6 +50,12 @@ summary: |-
   Masani presents his resignation as a deliberate alternative to another conventional argument with the party president and colleagues over clean methods and discipline. He asks for Rajagopalachari's comments, noting the significance of his distress at developments in Gujarat and Swarajya, and proposes visiting Madras toward the end of April. The letter closes with a broader warning that political life is descending rapidly into a spiral of demoralisation, provoking similar responses elsewhere.
 ---
 
+## Summary
+
+In this typed copy of a letter dated 29 March 1968, M. R. Masani writes to C. Rajagopalachari about his decision to resign from the Swatantra Party's National Executive and Central Parliamentary Board. Masani explains that he had hoped to consult Rajagopalachari before making the announcement, but that waiting would have made his action appear cold-hearted in light of events in Ahmedabad. He says that Bhailalbhai and Baria had done the right thing by resigning and that he should stand with them at the Centre, as they had stood by him previously.
+
+Masani presents his resignation as a deliberate alternative to another conventional argument with the party president and colleagues over clean methods and discipline. He asks for Rajagopalachari's comments, noting the significance of his distress at developments in Gujarat and Swarajya, and proposes visiting Madras toward the end of April. The letter closes with a broader warning that political life is descending rapidly into a spiral of demoralisation, provoking similar responses elsewhere.
+
 ## Key points
 
 - Masani informs Rajagopalachari of his resignation from the Swatantra Party's National Executive and Central Parliamentary Board.

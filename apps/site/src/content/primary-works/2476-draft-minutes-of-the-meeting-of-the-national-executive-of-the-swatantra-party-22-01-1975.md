@@ -54,6 +54,12 @@ summary: |-
   The minutes show the party positioning itself in support of Jayaprakash Narayan’s movement, including an initiative to form an all-party coordination committee in Tamil Nadu to support the movement in Bihar. The Executive also condemned the Election Commission’s freezing of the party’s “STAR” symbol, recording the decision as arbitrary and unacceptable, and adopted resolutions concerning electoral reforms, revision of electoral rolls, food policy, and industrial production. The document closes with a vote of thanks to the chair.
 ---
 
+## Summary
+
+These two pages record the draft minutes of the Swatantra Party National Executive meeting held in Bombay on 22 January 1975, chaired by G. K. Sundaram. The meeting reviewed the legality of decisions taken at an earlier meeting, reconstituted the Central Parliamentary Board after alleged constitutional violations, and approved efforts to recruit additional members to the National Executive. It also addressed the party’s financial position, fundraising, organisational rebuilding in Uttar Pradesh, Rajasthan, Gujarat, and Delhi, and arrangements for operating party bank accounts.
+
+The minutes show the party positioning itself in support of Jayaprakash Narayan’s movement, including an initiative to form an all-party coordination committee in Tamil Nadu to support the movement in Bihar. The Executive also condemned the Election Commission’s freezing of the party’s “STAR” symbol, recording the decision as arbitrary and unacceptable, and adopted resolutions concerning electoral reforms, revision of electoral rolls, food policy, and industrial production. The document closes with a vote of thanks to the chair.
+
 ## Key points
 
 - The National Executive refused to confirm the minutes of the August 1974 meeting, declaring decisions taken there illegal and void because the meeting was allegedly unconstitutional.

@@ -50,6 +50,10 @@ summary: |-
   The Economic Times clipping reports from New Delhi on January 4 that leaders of the Swatantra Party had decided to stay out of a proposed conference of political parties. The meeting brought together party representatives from several states and focused on the party’s electoral strategy and its response to the political situation created by divisions within the opposition.
 ---
 
+## Summary
+
+The Economic Times clipping reports from New Delhi on January 4 that leaders of the Swatantra Party had decided to stay out of a proposed conference of political parties. The meeting brought together party representatives from several states and focused on the party’s electoral strategy and its response to the political situation created by divisions within the opposition.
+
 ## Key points
 
 - The article reports that the Swatantra Party would not participate in the proposed all-party discussions.

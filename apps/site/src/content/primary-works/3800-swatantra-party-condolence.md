@@ -50,6 +50,12 @@ summary: |-
   The resolution lists eight deceased colleagues and identifies their party roles or public positions. Those named include a General Council member, the party's vice-president and a Kisan leader, another General Council member, an MP and General Council member, district-unit office-bearers, the vice-president of the Tamil Nadu organisation, and the president of the Jaipur district unit.
 ---
 
+## Summary
+
+This one-page English-language resolution, issued by the Swatantra Party, records the deaths of party colleagues and conveys the General Council's sympathy to their families. It presents the losses as affecting both the party and the country, without providing a date, authorial signature, or further explanation of the circumstances of death.
+
+The resolution lists eight deceased colleagues and identifies their party roles or public positions. Those named include a General Council member, the party's vice-president and a Kisan leader, another General Council member, an MP and General Council member, district-unit office-bearers, the vice-president of the Tamil Nadu organisation, and the president of the Jaipur district unit.
+
 ## Key points
 
 - The document is a condolence resolution of the Swatantra Party's General Council.

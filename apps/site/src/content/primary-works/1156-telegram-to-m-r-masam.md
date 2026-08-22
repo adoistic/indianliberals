@@ -47,6 +47,12 @@ summary: |-
   The service header "O 1120 AP 89.5 MADRAS 21 25 SRI M R MASAM 148" indicates a twenty-five-word wire routed to the addressee's Bombay residence. The document is a piece of organisational correspondence rather than an argument or essay — it belongs to the routine machinery by which colleagues summoned Minoo Masani to a National Executive meeting, and the surname on the address ("MASAM") is a telegraphist's mangling of "Masani." No date is legible on the rendered image, and the sender's full identity is not spelled out beyond the surname "Srikumar."
 ---
 
+## Summary
+
+This single-sheet telegram, dispatched on an Indian Posts and Telegraphs Department form and addressed in a hand-written pen to "Shri M. R. Masam" at 148 Mahatma Gandhi Road, Bombay, carries a short, urgent appeal from a sender identified only as "Srikumar" filing from Madras. The pasted teleprinter tape reproduces the message in the standard capitals of Indian wire traffic: "ALL OF US FEEL YOUR PARTICIPATION IN THE NATIONAL EXECUTIVE VERY ESSENTIAL PLEASE DO COME."
+
+The service header "O 1120 AP 89.5 MADRAS 21 25 SRI M R MASAM 148" indicates a twenty-five-word wire routed to the addressee's Bombay residence. The document is a piece of organisational correspondence rather than an argument or essay — it belongs to the routine machinery by which colleagues summoned Minoo Masani to a National Executive meeting, and the surname on the address ("MASAM") is a telegraphist's mangling of "Masani." No date is legible on the rendered image, and the sender's full identity is not spelled out beyond the surname "Srikumar."
+
 ## Key points
 
 - A single Indian Posts and Telegraphs telegram sheet, hand-addressed to M. R. Masani at 148 Mahatma Gandhi Road, Bombay.

@@ -51,6 +51,12 @@ summary: |-
   The meeting set the Party's parliamentary position on several immediate matters. Prof. N. G. Ranga was designated to open the debate on the Kutch Cease Fire Agreement, while criticizing the Government for neglecting the country's borders. Members decided to oppose an Ordinance on the Bonus Commission Report, describing it as a misuse of the Government's ordinance-making power; N. Dandekar was asked to draft amendments and open the Bill's debate. Dandekar was also asked to speak on the Companies Second Amendment Bill. Finally, Minoo Masani and Dandekar's no-confidence motion on behalf of the Party was approved for presentation, and members were instructed to attend and vote for it.
 ---
 
+## Summary
+
+This one-page record documents a meeting of Swatantra Party members from both Houses, held on 16 August 1965 in the Party Committee Room, Parliament House. It lists fifteen attendees and records a condolence resolution following the death of Shanker Partap Singh Dev of Dhenkanal.
+
+The meeting set the Party's parliamentary position on several immediate matters. Prof. N. G. Ranga was designated to open the debate on the Kutch Cease Fire Agreement, while criticizing the Government for neglecting the country's borders. Members decided to oppose an Ordinance on the Bonus Commission Report, describing it as a misuse of the Government's ordinance-making power; N. Dandekar was asked to draft amendments and open the Bill's debate. Dandekar was also asked to speak on the Companies Second Amendment Bill. Finally, Minoo Masani and Dandekar's no-confidence motion on behalf of the Party was approved for presentation, and members were instructed to attend and vote for it.
+
 ## Key points
 
 - The Swatantra Party Parliamentary Office recorded a meeting held on 16 August 1965.

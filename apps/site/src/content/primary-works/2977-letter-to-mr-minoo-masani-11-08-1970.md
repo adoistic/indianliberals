@@ -48,6 +48,12 @@ summary: |-
   The letter distinguishes between domestic affinities and international disagreements: although the Indian Swatantra Party and the British Conservative Party may share some domestic principles, Siraj argues that their foreign-policy positions are not identical. He also warns that the governments of the United Kingdom and the United States may be taking the Swatantra Party and its pro-Western stance for granted, producing an “indifference” that, he says, must be counteracted.
 ---
 
+## Summary
+
+In this one-page letter dated 18 August 1970, Siraj of Dhrangadhra writes to Minoo Masani, President of the Swatantra Party, about the foreign policy of the newly elected Conservative Government in the United Kingdom. He urges the party to protest the British Government’s supply of arms to South Africa and to oppose other aspects of its new foreign policy.
+
+The letter distinguishes between domestic affinities and international disagreements: although the Indian Swatantra Party and the British Conservative Party may share some domestic principles, Siraj argues that their foreign-policy positions are not identical. He also warns that the governments of the United Kingdom and the United States may be taking the Swatantra Party and its pro-Western stance for granted, producing an “indifference” that, he says, must be counteracted.
+
 ## Key points
 
 - The letter is dated 18 August 1970 and is addressed to Minoo Masani, President of the Swatantra Party.

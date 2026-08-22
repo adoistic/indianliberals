@@ -47,6 +47,10 @@ summary: |-
   This one-page Swatantra Party letter, dated February 23, 1970, is addressed by General Secretary P.C. Cooper to C.C. Desai, M.P. It refers back to a February 18 letter and asks Desai to incorporate a press report of his interview with the Sard...? (Ahmedabad) into an explanatory note.
 ---
 
+## Summary
+
+This one-page Swatantra Party letter, dated February 23, 1970, is addressed by General Secretary P.C. Cooper to C.C. Desai, M.P. It refers back to a February 18 letter and asks Desai to incorporate a press report of his interview with the Sard...? (Ahmedabad) into an explanatory note.
+
 ## Key points
 
 - The letter is issued from the Swatantra Party's national headquarters in Bombay.

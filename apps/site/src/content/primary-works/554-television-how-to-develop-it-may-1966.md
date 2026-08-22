@@ -52,6 +52,12 @@ summary: |-
   In the rendered pages, Masani proposes two alternatives to a taxpayer-funded service: a commercially financed system modeled on the United States, or an autonomous statutory corporation modeled on Britain’s Independent Television Authority, with licence fees, sponsored programmes, and advertising. He rejects the Chanda Committee’s proposed government capital contribution and argues that an autonomous corporation should become self-financing rather than being bound by an arbitrary seven-year national coverage target. The article is based on a speech in Parliament and closes by emphasizing that television is desirable but should rank below more urgent claims on public funds.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that India should develop television but should not finance or administer it through the state. He welcomes television for its potential to provide entertainment and information to underserved rural audiences and to support adult literacy and education. At the same time, he endorses the Chanda Committee’s view that television should remain outside direct governmental control and insists that public revenues should not be used for its expansion. He warns that the proposed expenditure—estimated at roughly Rs. 50 to Rs. 100 crores—would divert scarce resources from food, schools, hospitals, and compulsory primary education.
+
+In the rendered pages, Masani proposes two alternatives to a taxpayer-funded service: a commercially financed system modeled on the United States, or an autonomous statutory corporation modeled on Britain’s Independent Television Authority, with licence fees, sponsored programmes, and advertising. He rejects the Chanda Committee’s proposed government capital contribution and argues that an autonomous corporation should become self-financing rather than being bound by an arbitrary seven-year national coverage target. The article is based on a speech in Parliament and closes by emphasizing that television is desirable but should rank below more urgent claims on public funds.
+
 ## Key points
 
 - Masani supports introducing television in India for rural entertainment, information, adult literacy, and education.

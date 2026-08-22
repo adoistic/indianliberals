@@ -59,6 +59,12 @@ summary: |-
   The speaker attributes the victory to an unusually broad United Front: Swatantra campaigners were joined by socialist and Jana Sangh groups, railway workers, independent legislators, disillusioned Congressmen, and the local newspaper Jaihind. He presents the campaign as a form of political education based on meetings, debate, village outreach, and the avoidance of personal attacks. The final pages interpret Rajkot as evidence of a wider national shift against Congress, while also warning that the result gives Congress one more chance to reform its policies. For the Swatantra Party, the election demonstrates that a united opposition could convert a large Congress majority into defeat and potentially build an alternative government by 1967.
 ---
 
+## Summary
+
+In these fifteen pages, the speaker reflects on the Swatantra Party's victory in the Rajkot election and explains why the result overturned the Congress Party's confidence. He recalls that Congress had held the seat in three consecutive elections, but argues that its apparent invincibility concealed deep public dissatisfaction. The speech identifies high taxes and prices, the Gold Control Order, neglect of national defence, administrative arrogance, and the dishonest implementation of policy as central causes of Congress's defeat. It also describes Rajkot's poverty, acute water scarcity, and the warmth and hospitality of its residents.
+
+The speaker attributes the victory to an unusually broad United Front: Swatantra campaigners were joined by socialist and Jana Sangh groups, railway workers, independent legislators, disillusioned Congressmen, and the local newspaper Jaihind. He presents the campaign as a form of political education based on meetings, debate, village outreach, and the avoidance of personal attacks. The final pages interpret Rajkot as evidence of a wider national shift against Congress, while also warning that the result gives Congress one more chance to reform its policies. For the Swatantra Party, the election demonstrates that a united opposition could convert a large Congress majority into defeat and potentially build an alternative government by 1967.
+
 ## Key points
 
 - The speech celebrates the Swatantra Party's victory in the Rajkot election and explains the collapse of Congress's confidence.

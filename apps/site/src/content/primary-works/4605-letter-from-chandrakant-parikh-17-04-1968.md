@@ -51,6 +51,12 @@ summary: |-
   The letter alleges that Parikh defied the decision of the party’s Central Parliamentary Board, which had approved Shri Babubhai Vaidya as the party’s sole candidate, by acting as the election or polling agent of another candidate without the Board’s approval. It instructs Parikh to submit an explanation within a fortnight through H. M. Patel, President of the Gujarat Swatantra Party, with a copy sent directly to Dandekar.
 ---
 
+## Summary
+
+This untitled letter, dated 17 April 1968, is issued by N. Dandekar, General Secretary of the Swatantra Party, to Chandrakant Parikh. It asks Parikh to show cause why disciplinary action should not be taken against him in connection with the March 1968 Rajya Sabha election in Gujarat.
+
+The letter alleges that Parikh defied the decision of the party’s Central Parliamentary Board, which had approved Shri Babubhai Vaidya as the party’s sole candidate, by acting as the election or polling agent of another candidate without the Board’s approval. It instructs Parikh to submit an explanation within a fortnight through H. M. Patel, President of the Gujarat Swatantra Party, with a copy sent directly to Dandekar.
+
 ## Key points
 
 - The letter is dated 17 April 1968 and is issued from the Swatantra Party Central Office.

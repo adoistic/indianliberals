@@ -49,6 +49,12 @@ summary: |-
   The letter calls for an appropriate decision that would allow the party to close ranks and work unitedly under the leadership of its respected leaders. The sender's handwritten signature appears to read “Rajendra Singh Singh,” but the reading is uncertain and remains unresolved.
 ---
 
+## Summary
+
+This one-page letter, dated 4 April 1968 and addressed to N. Dandeker, M.P., requests an emergency meeting of the Swatantra Party's General Council. The writer attributes the urgency to the situation created by Minoo Masani's resignation from the party's National Executive and Central Parliamentary Board.
+
+The letter calls for an appropriate decision that would allow the party to close ranks and work unitedly under the leadership of its respected leaders. The sender's handwritten signature appears to read “Rajendra Singh Singh,” but the reading is uncertain and remains unresolved.
+
 ## Key points
 
 - The letter is dated 4 April 1968 and addressed to N. Dandeker, M.P.

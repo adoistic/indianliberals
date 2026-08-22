@@ -49,6 +49,12 @@ summary: |-
   The report concludes that the leaders eventually joined a meeting at 6, Janpath, at Nijalingappa’s house, while noting that the Keralites had earlier rejected a proposal. Its tone is lightly satirical, framing the failed meeting as an emblematic episode of political disorganization rather than offering substantive policy analysis.
 ---
 
+## Summary
+
+The newspaper clipping reports an unsuccessful effort by Minoo Masani of the Swatantra Party and Atal Bihari Vajpayee of the Jan Sangh to meet in Delhi. The article presents the episode as a sequence of missed connections: Vajpayee was delayed after an engagement in Ambala, Masani left a meeting angry, and the two leaders repeatedly arrived at one another’s residences after the other had departed.
+
+The report concludes that the leaders eventually joined a meeting at 6, Janpath, at Nijalingappa’s house, while noting that the Keralites had earlier rejected a proposal. Its tone is lightly satirical, framing the failed meeting as an emblematic episode of political disorganization rather than offering substantive policy analysis.
+
 ## Key points
 
 - The article covers an attempted meeting between Minoo Masani and Atal Bihari Vajpayee.

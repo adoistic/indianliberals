@@ -48,6 +48,12 @@ summary: |-
   The letter closes on a restrained, conciliatory note: Masani appreciates Trivedi's kind thought and urges everyone to do their best. The page provides no further details about the election, the parties involved, or the political circumstances to which it refers.
 ---
 
+## Summary
+
+This single-page letter, dated 23 March 1971, is addressed by H. R. Masani to U. M. Trivedi, an advocate at Neemuch Cantonment. Masani acknowledges Trivedi's letter of 11 March and its expression of solidarity following a recent election. He agrees that the election leaves much to intrigue and warns that the country will have to pay a heavy price for what has happened.
+
+The letter closes on a restrained, conciliatory note: Masani appreciates Trivedi's kind thought and urges everyone to do their best. The page provides no further details about the election, the parties involved, or the political circumstances to which it refers.
+
 ## Key points
 
 - The letter is dated 23 March 1971 and is addressed to U. M. Trivedi.

@@ -54,3 +54,7 @@ ai:
 summary: |-
   This archival packet, assembled in Patna on September 27, 1972, contains three letters by Jayaprakash Narayan followed by J. B. Kripalani’s four-page typescript essay, “Some Of The Main Problems.” The letters urge business leaders, especially Arvind Mafatlal and the Tata group, to treat social responsibility as a practical programme involving rural development, industrial decentralisation, social audit, and cooperation with public authorities. Narayan also proposes that Tata Industries undertake integrated development in Singhbhum district, including agriculture, industry, family planning, and health.
 ---
+
+## Summary
+
+This archival packet, assembled in Patna on September 27, 1972, contains three letters by Jayaprakash Narayan followed by J. B. Kripalani’s four-page typescript essay, “Some Of The Main Problems.” The letters urge business leaders, especially Arvind Mafatlal and the Tata group, to treat social responsibility as a practical programme involving rural development, industrial decentralisation, social audit, and cooperation with public authorities. Narayan also proposes that Tata Industries undertake integrated development in Singhbhum district, including agriculture, industry, family planning, and health.

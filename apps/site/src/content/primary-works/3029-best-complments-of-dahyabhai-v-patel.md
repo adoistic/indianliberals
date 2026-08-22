@@ -53,6 +53,10 @@ summary: |-
   This seven-page English correspondence from August 1969 records an internal dispute at Swarajya-Sandesh and the Swatantra Party. In a letter dated August 27, A. P. Jain alleges that Sharma obstructed the parliamentary office’s work by withholding an office key, mishandling posters and banners intended for an event at the Russian Embassy, retaining envelopes, and creating difficulties over electricity and water connections. Jain presents these incidents as intentional interference and asks Dahyabhai V. Patel to intervene and warn Sharma.
 ---
 
+## Summary
+
+This seven-page English correspondence from August 1969 records an internal dispute at Swarajya-Sandesh and the Swatantra Party. In a letter dated August 27, A. P. Jain alleges that Sharma obstructed the parliamentary office’s work by withholding an office key, mishandling posters and banners intended for an event at the Russian Embassy, retaining envelopes, and creating difficulties over electricity and water connections. Jain presents these incidents as intentional interference and asks Dahyabhai V. Patel to intervene and warn Sharma.
+
 ## Key points
 
 - A. P. Jain’s August 27 letter alleges repeated obstruction of the Swatantra Party parliamentary office by Sharma.

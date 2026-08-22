@@ -52,6 +52,12 @@ summary: |-
   Vaidya says he does not want the Swatantra Party to split and is willing to follow Rajaji’s guidance, but warns that he and other longstanding supporters may no longer be willing to work for the Gujarat unit. He argues that the party has damaged its public image, that only “drastic action” can partially restore it, and that the Gujarat Congress has benefited from the episode. Although he feels deliberately let down by the party leadership, he says personal grievances must not obscure wider national interests and that he will remain silent and endure the pain privately.
 ---
 
+## Summary
+
+This 6 April 1968 letter from Babubhai P. Vaidya to C. Rajagopalachari (“Rajaji”) responds to the collapse of the Rajya Sabha election in Gujarat and the resulting resignations within the Gujarat Swatantra Party. Vaidya criticizes party leaders for failing to maintain healthy traditions of public life, while acknowledging that the electoral debacle should not by itself break up the party. He describes Maharaja Shree Jayadeepsinhji’s resignation as a consequence of the party’s failure and calls M. R. Masani’s resignation another serious shock.
+
+Vaidya says he does not want the Swatantra Party to split and is willing to follow Rajaji’s guidance, but warns that he and other longstanding supporters may no longer be willing to work for the Gujarat unit. He argues that the party has damaged its public image, that only “drastic action” can partially restore it, and that the Gujarat Congress has benefited from the episode. Although he feels deliberately let down by the party leadership, he says personal grievances must not obscure wider national interests and that he will remain silent and endure the pain privately.
+
 ## Key points
 
 - The letter discusses the aftermath of the Rajya Sabha election controversy in Gujarat.

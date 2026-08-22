@@ -52,6 +52,12 @@ summary: |-
   Ambalavanan frames the party's strength as resting on its ideals rather than on the size of its membership. He calls for foresight, disciplined leadership, and efficient administration as the foundations of democracy, rather than reliance on winning elections or organising agitations. The letter asks the president to ensure that Masani is brought back into active political work and that concrete advice be distributed among party members to stabilise and strengthen the organisation. The document is a complete two-page office letter; no printed title is provided.
 ---
 
+## Summary
+
+In this dated 20 May 1974 letter, S. T. Ambalavanan, Madurai District Secretary of the Swatantra Party, appeals to the party president to prevent the Tamil Nadu Swatantra Party from being dissolved or amalgamated with other parties. He argues that the other parties involved in the proposed seven-party arrangement lack a sufficiently strong national political character and recalls the party's earlier losses after alliances formed without a shared ideological basis. He specifically criticises the Congress syndicate and Jana Sangh for acting superior to the Swatantra Party, and identifies the loss of M. R. Masani's leadership as a major setback.
+
+Ambalavanan frames the party's strength as resting on its ideals rather than on the size of its membership. He calls for foresight, disciplined leadership, and efficient administration as the foundations of democracy, rather than reliance on winning elections or organising agitations. The letter asks the president to ensure that Masani is brought back into active political work and that concrete advice be distributed among party members to stabilise and strengthen the organisation. The document is a complete two-page office letter; no printed title is provided.
+
 ## Key points
 
 - Ambalavanan opposes dissolving or amalgamating the Swatantra Party with other parties.

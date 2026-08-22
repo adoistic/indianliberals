@@ -48,6 +48,12 @@ summary: |-
   He directs Raju to the relevant volumes in the Parliament library, which he expects will provide substantial information about the performance of Swatantra Party members in Parliament. Patodia also offers to remain available for an interview or any other assistance needed for the research.
 ---
 
+## Summary
+
+In this one-page letter dated 28 February 1985, D. N. Patodia replies to S. V. Raju and acknowledges Raju's decision to pursue doctoral research on the Swatantra Party's parliamentary record from 1967 to 1974. Patodia explains that, as a committee member rather than an office-bearer, he did not maintain specific records.
+
+He directs Raju to the relevant volumes in the Parliament library, which he expects will provide substantial information about the performance of Swatantra Party members in Parliament. Patodia also offers to remain available for an interview or any other assistance needed for the research.
+
 ## Key points
 
 - The letter is dated 28 February 1985 and is addressed to S. V. Raju.

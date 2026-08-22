@@ -50,6 +50,12 @@ summary: |-
   The sender recommends that India adopt an objective attitude, avoid taking sides or expressing blame prematurely, and maintain the country's position as a whole. The letter presents such restraint as a way for India to play an honourable part in bringing peace to West Asia. The handwritten signature is not legible, and no recipient's personal name is printed.
 ---
 
+## Summary
+
+This single-page letter, dated June 5, 1967, is addressed to the Prime Minister of India from New Delhi. The unidentified sender urges the government to consider developments in West Asia not only in relation to the genuine threat to world peace but also in terms of India's national interests and the well-being of its people.
+
+The sender recommends that India adopt an objective attitude, avoid taking sides or expressing blame prematurely, and maintain the country's position as a whole. The letter presents such restraint as a way for India to play an honourable part in bringing peace to West Asia. The handwritten signature is not legible, and no recipient's personal name is printed.
+
 ## Key points
 
 - The letter discusses the developments in West Asia and their implications for world peace.

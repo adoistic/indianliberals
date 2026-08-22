@@ -74,6 +74,12 @@ summary: |-
   Masani links these political failures to economic regression. He attacks population growth, unemployment, inflation, shortages, deficit financing, state monopolies, nationalisation, excessive planning, public-sector losses, land-ceiling legislation, and the collectivist direction of agricultural policy. He also warns that India’s 1971 defence treaty with the Soviet Union has compromised its non-aligned position and contributed to diplomatic isolation in South-East Asia. Despite this bleak diagnosis, the address rejects fatalism: Masani sees rising public expectations and historical limits to authoritarian leadership as grounds for hope. He calls for a principled, peaceful, programmatic opposition and presents the Swatantra Party as a possible vehicle for restoring pluralist democracy and pragmatic economic policy.
 ---
 
+## Summary
+
+In this inaugural address to the Swatantra Party’s Sixth National Convention in Madras in April 1973, M. R. Masani reviews the political developments since the 1968 Bhubaneswar convention and argues that the Congress government has used an inflated parliamentary majority to weaken constitutional protections, centralise authority, and erode democratic standards. He criticises the breakdown of opposition cooperation, the dissolution of the Lok Sabha, restrictions affecting the press, films, books, travel, universities, minorities, and trade unions, and what he describes as a broader decline in public morality and political integrity.
+
+Masani links these political failures to economic regression. He attacks population growth, unemployment, inflation, shortages, deficit financing, state monopolies, nationalisation, excessive planning, public-sector losses, land-ceiling legislation, and the collectivist direction of agricultural policy. He also warns that India’s 1971 defence treaty with the Soviet Union has compromised its non-aligned position and contributed to diplomatic isolation in South-East Asia. Despite this bleak diagnosis, the address rejects fatalism: Masani sees rising public expectations and historical limits to authoritarian leadership as grounds for hope. He calls for a principled, peaceful, programmatic opposition and presents the Swatantra Party as a possible vehicle for restoring pluralist democracy and pragmatic economic policy.
+
 ## Key points
 
 - Masani situates the address in the political crisis following the Congress split, opposition fragmentation, and the 1971 general election.

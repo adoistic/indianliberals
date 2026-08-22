@@ -52,6 +52,12 @@ summary: |-
   The circular further provides that the Swatantra Party's rights, assets, and liabilities will be transferred to the Bharatiya Lok Dal. Its second resolution rejects any claim by remaining or dissenting members to represent the Swatantra Party or exercise any of its rights, asserting that there has been only one Swatantra Party and that its merger was decided at the August 5 National Convention.
 ---
 
+## Summary
+
+This one-page National Headquarters Circular, dated August 29, 1974, records two resolutions adopted by the Swatantra Party's National Executive at its meeting in New Delhi on August 28. The first authorizes party president Piloo Mody to declare the Swatantra Party's merger with the Bharatiya Lok Dal (People's Party of India) at the latter's inaugural function on August 29, pursuant to the seventh National Convention's resolution.
+
+The circular further provides that the Swatantra Party's rights, assets, and liabilities will be transferred to the Bharatiya Lok Dal. Its second resolution rejects any claim by remaining or dissenting members to represent the Swatantra Party or exercise any of its rights, asserting that there has been only one Swatantra Party and that its merger was decided at the August 5 National Convention.
+
 ## Key points
 
 - The circular was issued by the Swatantra Party's National Headquarters on August 29, 1974.

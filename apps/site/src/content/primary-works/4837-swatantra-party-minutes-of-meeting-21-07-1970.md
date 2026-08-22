@@ -68,6 +68,12 @@ summary: |-
   The attached presidential address and Rajaji’s speech frame the meeting around the proposed consolidation of “nationalist and democratic forces.” Masani argues for cooperation among democratic parties while defending constitutionalism, minority rights, secularism, and civil liberties; he also sharply criticises the Congress government’s alleged dependence on the Soviet Union, its handling of West Bengal and Cambodia, restrictions on the press, and appointments said to favour communists. Rajaji’s speech adopts a more combative tone, urging unity, organisational mobilisation, and a direct struggle against authoritarianism. The rendered pages end with the minutes’ concluding remarks and annexures containing only the opening portions of the speeches; later annexures and other material in the 40-page PDF were not seen.
 ---
 
+## Summary
+
+These draft minutes record the second meeting of the Swatantra Party’s General Council, held in Madras on 21–22 July 1970. The meeting confirmed the previous minutes, paid tribute to deceased party members, heard M. R. Masani’s presidential address, and adopted resolutions on the political situation, West Bengal, Cambodia, nationalisation of the cotton and distributive trades, unemployment and prices, land agitation in Bihar, agricultural wealth tax, steel plants, and party organisation. The resolutions were generally carried unanimously, while the attendance lists show broad representation from state units across India.
+
+The attached presidential address and Rajaji’s speech frame the meeting around the proposed consolidation of “nationalist and democratic forces.” Masani argues for cooperation among democratic parties while defending constitutionalism, minority rights, secularism, and civil liberties; he also sharply criticises the Congress government’s alleged dependence on the Soviet Union, its handling of West Bengal and Cambodia, restrictions on the press, and appointments said to favour communists. Rajaji’s speech adopts a more combative tone, urging unity, organisational mobilisation, and a direct struggle against authoritarianism. The rendered pages end with the minutes’ concluding remarks and annexures containing only the opening portions of the speeches; later annexures and other material in the 40-page PDF were not seen.
+
 ## Key points
 
 - The General Council met in Madras on 21–22 July 1970 under the presidency of M. R. Masani.

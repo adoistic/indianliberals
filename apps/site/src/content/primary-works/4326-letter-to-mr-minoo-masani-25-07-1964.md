@@ -49,6 +49,12 @@ summary: |-
   He also asks Masani whether he has noticed P. Kodanda Rao's criticism of, or challenge to, some of Noorani's statements. The letter is brief and does not explain the underlying dispute, identify Noorani's book, or elaborate on Kodanda Rao's objections.
 ---
 
+## Summary
+
+In this one-page letter dated 25 July 1964, C. Rajagopalachari replies to Minoo Masani about a proposed foreword for a book by Mr. Noorani. Rajagopalachari says that he would rather not write forewords for other people's books, rejecting the practice of forewords that recommend books as vulgar and popular in India.
+
+He also asks Masani whether he has noticed P. Kodanda Rao's criticism of, or challenge to, some of Noorani's statements. The letter is brief and does not explain the underlying dispute, identify Noorani's book, or elaborate on Kodanda Rao's objections.
+
 ## Key points
 
 - Rajagopalachari responds to Masani's letter of 24 July 1964.

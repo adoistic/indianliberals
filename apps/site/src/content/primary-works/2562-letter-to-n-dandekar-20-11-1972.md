@@ -50,6 +50,12 @@ summary: |-
   The second letter, dated 18th November 1972 and addressed to R. V. Murthy, records the Bombay Region Executive Committee’s unanimous acceptance of Murthy’s resignation because of time preoccupation. It expresses appreciation for his long service as an office-bearer and Executive Committee member, while urging him to retain an active interest in the party. Together, the letters document party administration, recruitment of experienced guidance, and the maintenance of organisational involvement during a period of internal transition.
 ---
 
+## Summary
+
+This two-page English-language archival bundle contains two formal letters signed by F. C. Cama as General Secretary of the Swatantra Party in Bombay. The letter dated November 20, 1972, addressed to N. Dandekar, asks him to attend a Bombay Region party meeting on November 27 and emphasizes the value of his guidance and advice.
+
+The second letter, dated 18th November 1972 and addressed to R. V. Murthy, records the Bombay Region Executive Committee’s unanimous acceptance of Murthy’s resignation because of time preoccupation. It expresses appreciation for his long service as an office-bearer and Executive Committee member, while urging him to retain an active interest in the party. Together, the letters document party administration, recruitment of experienced guidance, and the maintenance of organisational involvement during a period of internal transition.
+
 ## Key points
 
 - The PDF contains two Swatantra Party letters issued from Bombay in November 1972.

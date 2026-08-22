@@ -56,6 +56,12 @@ summary: |-
   In the rendered pages, MRM links democratic stability to individual citizenship and political pluralism. He criticizes public dependence on government, calls for more voluntary civic activity, and describes both a policy imbalance between government and opposition and an ideological imbalance among parties. Referring to C. Rajagopalachari and Jayaprakash Narayan, he presents the establishment of a conservative party as an urgent need. He also advocates a liberal or centre party defending the landed peasantry, middle class, and business against over-centralised and bureaucratic state capitalism, while urging industry and business to accept their public obligations.
 ---
 
+## Summary
+
+This two-page press report records remarks by “MRM” at a Rotary Club of Bombay luncheon on the growth of parliamentary democracy. In the rendered pages, MRM warns against complacency about the possibility of dictatorship in India, arguing that military dictatorships in Burma, Iraq, Pakistan, and Sudan had filled a political vacuum produced by weakened moral and spiritual foundations, corrosive materialism, indiscipline, a gulf between profession and practice, growing cynicism, and the absence of an alternative government. The report says these dangers existed in India in incipient form and called for them to be checked and reversed.
+
+In the rendered pages, MRM links democratic stability to individual citizenship and political pluralism. He criticizes public dependence on government, calls for more voluntary civic activity, and describes both a policy imbalance between government and opposition and an ideological imbalance among parties. Referring to C. Rajagopalachari and Jayaprakash Narayan, he presents the establishment of a conservative party as an urgent need. He also advocates a liberal or centre party defending the landed peasantry, middle class, and business against over-centralised and bureaucratic state capitalism, while urging industry and business to accept their public obligations.
+
 ## Key points
 
 - The speaker warns that complacency about dictatorship is dangerous even in a formally democratic India.

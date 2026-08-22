@@ -46,6 +46,10 @@ summary: |-
   This single-page English telegram, received on 13 June 1966, records an administrative communication from the sender signed “JAIN” to M. R. Masani. It conveys that the Prime Minister’s Secretary had arranged a meeting for Monday, 13 June, at 5 p.m., and asks Masani to confirm his arrival.
 ---
 
+## Summary
+
+This single-page English telegram, received on 13 June 1966, records an administrative communication from the sender signed “JAIN” to M. R. Masani. It conveys that the Prime Minister’s Secretary had arranged a meeting for Monday, 13 June, at 5 p.m., and asks Masani to confirm his arrival.
+
 ## Key points
 
 - The document is a government telegraph-form telegram rather than a conventional letter.

@@ -51,3 +51,7 @@ ai:
 summary: |-
   This special section of The Economist, dated January 28, 1961, surveys India at the close of its second Five-Year Plan and as the third plan takes shape. Across its articles, it weighs rapid industrialisation and public investment against shortages of foreign exchange, managerial capacity, coal, food, and administrative competence. The section is broadly sympathetic to India's development ambitions while sharply questioning planning assumptions, public-sector management, protectionism, tied aid, and the state's tendency to substitute bureaucratic control for economic judgment.
 ---
+
+## Summary
+
+This special section of The Economist, dated January 28, 1961, surveys India at the close of its second Five-Year Plan and as the third plan takes shape. Across its articles, it weighs rapid industrialisation and public investment against shortages of foreign exchange, managerial capacity, coal, food, and administrative competence. The section is broadly sympathetic to India's development ambitions while sharply questioning planning assumptions, public-sector management, protectionism, tied aid, and the state's tendency to substitute bureaucratic control for economic judgment.

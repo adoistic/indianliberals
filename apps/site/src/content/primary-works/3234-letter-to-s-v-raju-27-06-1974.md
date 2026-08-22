@@ -50,6 +50,12 @@ summary: |-
   Munshi concludes that if the new party is formed, the Swatantra Party's assets, including tenancy rights, would presumably pass to it. He recommends discussing the matter with their colleagues before any decision is made. The letter therefore combines an immediate organizational question about party assets with a political judgment about the motivations and viability of a proposed realignment.
 ---
 
+## Summary
+
+In this letter dated June 27, 1974, G. K. Munshi writes to S. V. Raju after reconsidering the future of the Maharashtra Swatantra Party. He reports uncertainty about what would happen to the party's assets, including the office premises, and notes that some colleagues oppose ending the Swatantra Party while the proposed alternative remains uncertain. The letter identifies the proposed new party, without the Congress or Jan Sangh, as an effort by Charan Singh to recover an all-India political status lost when he ceased to be B.K.D. Chief.
+
+Munshi concludes that if the new party is formed, the Swatantra Party's assets, including tenancy rights, would presumably pass to it. He recommends discussing the matter with their colleagues before any decision is made. The letter therefore combines an immediate organizational question about party assets with a political judgment about the motivations and viability of a proposed realignment.
+
 ## Key points
 
 - Munshi is uncertain what will happen to the Maharashtra Swatantra Party's assets and office premises.

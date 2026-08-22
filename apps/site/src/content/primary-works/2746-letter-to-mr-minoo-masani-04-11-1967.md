@@ -47,6 +47,12 @@ summary: |-
   Desai nevertheless urges Masani to remain available as an elder statesman of the party and not to reverse his decision merely because well-intentioned colleagues press him to continue. He also endorses the suggestion that Dandekar become General Secretary, stating that Dandekar is acceptable to everyone and that his election would receive broad approval.
 ---
 
+## Summary
+
+This letter, dated November 4, 1967, is from C. C. Desai, identified on the letterhead as a Member of Parliament, to Minoo Masani. Desai supports Masani’s decision not to stand again for election as General Secretary of the Swatantra Party at the forthcoming Delhi meeting. He argues that periodic changes in leadership are valuable, even when an office-holder is highly capable and indispensable.
+
+Desai nevertheless urges Masani to remain available as an elder statesman of the party and not to reverse his decision merely because well-intentioned colleagues press him to continue. He also endorses the suggestion that Dandekar become General Secretary, stating that Dandekar is acceptable to everyone and that his election would receive broad approval.
+
 ## Key points
 
 - C. C. Desai writes to Minoo Masani on November 4, 1967.

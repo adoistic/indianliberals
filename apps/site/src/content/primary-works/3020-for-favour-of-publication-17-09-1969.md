@@ -53,6 +53,12 @@ summary: |-
   The paper reproduces Desai’s letter to the Prime Minister. Desai states that his concern is with the facts rather than the criticism or abuse in the accompanying Organiser report, and asks whether the map was correctly reproduced, whether Sainik Samachar was issued under Defence Ministry imprint, who was responsible for the map, and what action the Government would take. A copy was also sent to Sardar Swaran Singh, Minister for Defence. The document is signed by A. P. Jain as Executive Secretary of the Swatantra Party Parliamentary Office.
 ---
 
+## Summary
+
+This untitled Swatantra Party Parliamentary Office paper, dated 17 September 1969, is issued “FOR FAVOUR OF PUBLICATION.” It reports that C. C. Desai, MP and Secretary of the Swatantra Party in Parliament, objected to a Defence Ministry map of India published in the special issue of Sainik Samachar, which did not show Kashmir as part of India. The document characterises the omission as a serious lapse by the Defence Ministry.
+
+The paper reproduces Desai’s letter to the Prime Minister. Desai states that his concern is with the facts rather than the criticism or abuse in the accompanying Organiser report, and asks whether the map was correctly reproduced, whether Sainik Samachar was issued under Defence Ministry imprint, who was responsible for the map, and what action the Government would take. A copy was also sent to Sardar Swaran Singh, Minister for Defence. The document is signed by A. P. Jain as Executive Secretary of the Swatantra Party Parliamentary Office.
+
 ## Key points
 
 - The document concerns a Defence Ministry publication containing a map of India that omitted Kashmir.

@@ -48,6 +48,10 @@ summary: |-
   In this letter from Camp Nabinagar (Gaya), dated June 20, 1963, Jayaprakash Narayan replies to Acharya J. B. Kripalani's letters and attached proposals. Narayan says that, although he agrees with some of Kripalani's views, he does not want to be associated with the proposed political initiative. He rejects party and power politics and distances himself from efforts aimed at winning political power.
 ---
 
+## Summary
+
+In this letter from Camp Nabinagar (Gaya), dated June 20, 1963, Jayaprakash Narayan replies to Acharya J. B. Kripalani's letters and attached proposals. Narayan says that, although he agrees with some of Kripalani's views, he does not want to be associated with the proposed political initiative. He rejects party and power politics and distances himself from efforts aimed at winning political power.
+
 ## Key points
 
 - Narayan acknowledges agreement with some of Kripalani's ideas but refuses association with the proposed initiative.

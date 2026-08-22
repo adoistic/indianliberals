@@ -55,6 +55,12 @@ summary: |-
   The clipping also follows Rajaji’s public career as Governor-General, Chief Minister of Madras, and founder of the Swatantra Party. Kripalani describes Rajaji’s conflicts with Congress leaders over Pakistan, the “Quit India” movement, ministerial responsibility, education policy, prohibition, and birth control, while portraying him as a principled critic of concentrated political power. The final continuation characterizes Rajaji as a journalist and prolific writer whose work ranged across Tamil and English, religion, philosophy, politics, and children’s literature. The rendered set includes the article’s opening pages, a continuation, and a final brief continuation; intervening rendered pages contain a portrait and unrelated newspaper material rather than this article.
 ---
 
+## Summary
+
+In “RAJAJI: Some reminiscences,” J. B. Kripalani presents a personal and political portrait of C. Rajagopalachari (Rajaji), tracing their association from the freedom movement and the Congress Working Committee to Rajaji’s later role in independent India. Kripalani recalls Rajaji’s early legal career, his participation in satyagraha, his ascetic village and khadi work, and his intellectual and political disagreements with colleagues including Mahatma Gandhi and Jawaharlal Nehru. The account emphasizes Rajaji’s independence of mind, religious non-conformity, political courage, and unusual ability to combine practical judgment with moral conviction.
+
+The clipping also follows Rajaji’s public career as Governor-General, Chief Minister of Madras, and founder of the Swatantra Party. Kripalani describes Rajaji’s conflicts with Congress leaders over Pakistan, the “Quit India” movement, ministerial responsibility, education policy, prohibition, and birth control, while portraying him as a principled critic of concentrated political power. The final continuation characterizes Rajaji as a journalist and prolific writer whose work ranged across Tamil and English, religion, philosophy, politics, and children’s literature. The rendered set includes the article’s opening pages, a continuation, and a final brief continuation; intervening rendered pages contain a portrait and unrelated newspaper material rather than this article.
+
 ## Key points
 
 - Kripalani recalls knowing Rajaji for more than five decades, beginning with their contact through Gandhi and the satyagraha movement.

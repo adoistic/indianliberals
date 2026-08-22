@@ -50,6 +50,12 @@ summary: |-
   The letter asks Hirachand to continue assisting the Bombay Region with valuable advice and expresses confidence that his guidance will help strengthen the party and fulfil its stated objectives and ideals. The document is both a formal acknowledgement of party leadership and a request for ongoing counsel.
 ---
 
+## Summary
+
+This typed letter, dated 6 October 1971, conveys a unanimous resolution of the Swatantra Party's Bombay Region Executive Committee to Shri Lalchand Hirachand, the region's immediate past president. Signed by P. C. Cama in the capacity of General Secretary, it records the party's appreciation of Hirachand's service, guidance, and continued involvement despite his extensive business commitments.
+
+The letter asks Hirachand to continue assisting the Bombay Region with valuable advice and expresses confidence that his guidance will help strengthen the party and fulfil its stated objectives and ideals. The document is both a formal acknowledgement of party leadership and a request for ongoing counsel.
+
 ## Key points
 
 - The Bombay Region Executive Committee of the Swatantra Party passed the resolution unanimously on 30 September 1971.

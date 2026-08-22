@@ -56,6 +56,12 @@ summary: |-
   The note also calls for restricting government-to-government foreign borrowing to legitimate infrastructure and maintenance imports, postponing and recasting the Fourth Plan, reducing direct and indirect taxes, dismantling import licensing, exchange controls, and gold controls, and encouraging domestic and foreign capital to produce needed goods. Immediate relief measures include easy loans for stranded industrial projects, imported raw materials for non-traditional exporters, withdrawal of new export duties introduced with devaluation, and abolition of import duties and surcharges on essential inputs. The document refers to warnings by Swatantra Party spokesmen but carries no author, issuer, or publisher line.
 ---
 
+## Summary
+
+This two-page position paper, dated June 22, 1966, argues that the economic crisis surrounding currency devaluation was the cumulative result of mistaken Union Government economic policies and planning over the preceding decade and a half. It contends that devaluation can produce its intended corrective effects only if accompanied by a firm policy declaration against inflation, reductions in non-developmental expenditure, fiscal discipline by both Union and state governments, and an end to further civil-service and clerical recruitment.
+
+The note also calls for restricting government-to-government foreign borrowing to legitimate infrastructure and maintenance imports, postponing and recasting the Fourth Plan, reducing direct and indirect taxes, dismantling import licensing, exchange controls, and gold controls, and encouraging domestic and foreign capital to produce needed goods. Immediate relief measures include easy loans for stranded industrial projects, imported raw materials for non-traditional exporters, withdrawal of new export duties introduced with devaluation, and abolition of import duties and surcharges on essential inputs. The document refers to warnings by Swatantra Party spokesmen but carries no author, issuer, or publisher line.
+
 ## Key points
 
 - The note attributes the economic crisis to cumulative failures in economic policy and planning, not to devaluation alone.

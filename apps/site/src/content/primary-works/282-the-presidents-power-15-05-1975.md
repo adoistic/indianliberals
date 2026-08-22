@@ -53,6 +53,12 @@ summary: |-
   The article then examines the President’s role as Commander-in-Chief and the controversy over presidential authority in defence appointments, before turning to Articles 61, 123 and 352. Masani maintains that emergency and ordinance powers cannot be treated as personal presidential discretion: the President must determine whether the constitutional conditions for their exercise actually exist. He presents President V. V. Giri’s 1969 ordinance on bank nationalisation as an example of what he regards as a serious misuse of presidential power, and concludes that the President should defend the Constitution by exercising independent judgment rather than acting as an automatic rubber stamp.
 ---
 
+## Summary
+
+In this newspaper article, M. R. Masani argues that India’s President was conceived as a constitutional head within a parliamentary system, not as an executive president in the French or American mould. Drawing on Jawaharlal Nehru’s 1947 statement and Articles 74 and 75 of the Constitution, Masani emphasises that the President is expected to act on the advice of the Council of Ministers, while retaining a constitutional responsibility to scrutinise that advice and, where necessary, ask the Cabinet to reconsider it.
+
+The article then examines the President’s role as Commander-in-Chief and the controversy over presidential authority in defence appointments, before turning to Articles 61, 123 and 352. Masani maintains that emergency and ordinance powers cannot be treated as personal presidential discretion: the President must determine whether the constitutional conditions for their exercise actually exist. He presents President V. V. Giri’s 1969 ordinance on bank nationalisation as an example of what he regards as a serious misuse of presidential power, and concludes that the President should defend the Constitution by exercising independent judgment rather than acting as an automatic rubber stamp.
+
 ## Key points
 
 - Masani distinguishes India’s parliamentary presidency from the stronger executive presidencies of France and the United States.

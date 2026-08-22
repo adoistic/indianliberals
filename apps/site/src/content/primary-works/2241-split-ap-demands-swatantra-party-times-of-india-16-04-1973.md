@@ -59,6 +59,12 @@ summary: |-
   In the rendered page, the party attacks Union economic policy since 1971, associating controls, unemployment, inflation, shortages and food scarcity with excessive state intervention. It calls for more effective production controls, an end to corruption, reconsideration of bank nationalisation, and statutory management of inter-state rivers. The report also records criticism of the Indo-Soviet treaty and foreign policy, including concern that the treaty limited India's options, strengthened Soviet influence over India's foreign trade and economic life, and left India isolated in the international community. The convention advocated closer relations with Bhutan, Sikkim and Nepal, mutual cooperation among South-East Asian countries, and a phased repatriation programme for Pakistani prisoners of war and Bengalis from Pakistan.
 ---
 
+## Summary
+
+This Times of India report, dated 16 April 1973, covers the Swatantra Party's sixth convention in Madras. The convention demanded that Andhra Pradesh be divided into Andhra and Telangana according to the wishes of the people of the two regions, and called for the state assembly to be dissolved and a referendum held. It also condemned the treatment of the Andhra movement, alleging that the Prime Minister had portrayed it as a law-and-order problem.
+
+In the rendered page, the party attacks Union economic policy since 1971, associating controls, unemployment, inflation, shortages and food scarcity with excessive state intervention. It calls for more effective production controls, an end to corruption, reconsideration of bank nationalisation, and statutory management of inter-state rivers. The report also records criticism of the Indo-Soviet treaty and foreign policy, including concern that the treaty limited India's options, strengthened Soviet influence over India's foreign trade and economic life, and left India isolated in the international community. The convention advocated closer relations with Bhutan, Sikkim and Nepal, mutual cooperation among South-East Asian countries, and a phased repatriation programme for Pakistani prisoners of war and Bengalis from Pakistan.
+
 ## Key points
 
 - The Swatantra Party demanded the division of Andhra Pradesh into Andhra and Telangana.

@@ -57,6 +57,12 @@ summary: |-
   The proposed programme combines production-oriented economic messaging with popular campaigns on poverty, prices, property rights, civil liberties, and the abolition of privy purses and princely privileges. Mehta calls for simple and specific plans, slogans such as “More production, more prosperity,” and a Charter of Demand to reduce prices. In Parliament, the party is urged to cooperate with the government when it is right, offer constructive alternatives, introduce bills and amendments, and oppose measures that violate democratic values and constitutional principles. The final section allows for peaceful mass resistance when constitutional means have been exhausted.
 ---
 
+## Summary
+
+In this three-page programme, Madhu Mehta argues that the Swatantra Party should survive its poor mid-term election performance through an honest reassessment of its policies, conduct, organisation, and public image. The document attributes Indira Gandhi’s victory to her appeal to weaker sections, her removal of Mr. Desai from the Cabinet, bank nationalisation and cabinet reshuffles, her handling of minorities and backward classes, and divisions among opposition parties. It concludes that the party must respond with new leadership, a stronger emphasis on youth, practical policies, and an organised programme of mass action rather than merely repeating principles.
+
+The proposed programme combines production-oriented economic messaging with popular campaigns on poverty, prices, property rights, civil liberties, and the abolition of privy purses and princely privileges. Mehta calls for simple and specific plans, slogans such as “More production, more prosperity,” and a Charter of Demand to reduce prices. In Parliament, the party is urged to cooperate with the government when it is right, offer constructive alternatives, introduce bills and amendments, and oppose measures that violate democratic values and constitutional principles. The final section allows for peaceful mass resistance when constitutional means have been exhausted.
+
 ## Key points
 
 - The Swatantra Party’s electoral defeat is presented as requiring organisational renewal rather than dissolution.

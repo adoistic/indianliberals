@@ -48,6 +48,12 @@ summary: |-
   The sheet is a clerical logistics note rather than an argumentative or political text: no speech content, correspondence, or policy discussion appears. It is signed at the foot by a Swatantra Party staffer (signature reads as "S. Krishnamurthi Rao" or similar) and dated 24-1-63. The page carries the archive control number "1051" pencilled in the top-right corner.
 ---
 
+## Summary
+
+A one-page typed tour programme, dated 24 January 1963, laying out C. Rajagopalachari's four-day travel schedule from Madras to Bangalore and back. Rajaji is booked to depart Madras by Mail train at 8.45 p.m. on Sunday, 27 January 1963, stay at the Madras Woodlands Hotel on Sampangi Tank Road in Bangalore, address a public meeting at 6.15 p.m. on Tuesday, 29 January before departing for Madras at 8.40 p.m. by Mail, and arrive Madras Central on Wednesday, 30 January.
+
+The sheet is a clerical logistics note rather than an argumentative or political text: no speech content, correspondence, or policy discussion appears. It is signed at the foot by a Swatantra Party staffer (signature reads as "S. Krishnamurthi Rao" or similar) and dated 24-1-63. The page carries the archive control number "1051" pencilled in the top-right corner.
+
 ## Key points
 
 - One-page typed itinerary for C. Rajagopalachari covering 27-30 January 1963.

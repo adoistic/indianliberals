@@ -56,6 +56,12 @@ summary: |-
   Tavaria’s practical recommendations focus on political renewal and public communication. The party should recruit younger, more approachable figures; identify talented speakers in regional languages; build village-level networks; use films and vernacular newspapers; expose corruption and private- and public-sector malpractice; and investigate the backgrounds of Congress politicians. The closing recommendation is to spend the next 18 to 20 months building an organization willing to act energetically rather than rely on the “sober and salutary advice” of the party’s elders.
 ---
 
+## Summary
+
+In this dated letter of 14 March 1972, N.J. Tavaria writes to Dr. R.C. Cooper at Swatantra Party headquarters, offering an outsider’s assessment of the party’s political and economic difficulties. Tavaria argues that India is likely to fare worse economically if current policy thinking continues, and warns that the erosion of fundamental rights is being overlooked by much of the public. The letter defends individual rights, economic freedom, and resistance to arbitrary state power, while criticizing socialism, Congress governance, and the Swatantra Party’s failure to communicate its ideas beyond affluent circles.
+
+Tavaria’s practical recommendations focus on political renewal and public communication. The party should recruit younger, more approachable figures; identify talented speakers in regional languages; build village-level networks; use films and vernacular newspapers; expose corruption and private- and public-sector malpractice; and investigate the backgrounds of Congress politicians. The closing recommendation is to spend the next 18 to 20 months building an organization willing to act energetically rather than rely on the “sober and salutary advice” of the party’s elders.
+
 ## Key points
 
 - Tavaria predicts worsening economic conditions if prevailing economic policy continues.

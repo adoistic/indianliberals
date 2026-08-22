@@ -47,6 +47,12 @@ summary: |-
   On this counsel, Rajaji declines to publish Kripalani's article as sent and asks Kripalani to meet Masani and Ranga in person before any further public canvassing. He offers a compromise: if Kripalani will permit him to edit the piece down, he can place Kripalani's views in print without the appearance that Kripalani is soliciting cooperation from parties that are currently keeping their distance. The letter is a short, tactical intervention in inter-party coordination among opposition leaders on the eve of, or during, an initiative whose specifics are not named in the letter itself.
 ---
 
+## Summary
+
+A brief typewritten letter from C. Rajagopalachari at 60, Bazlullah Road, Tyagarayanagar, Madras, to J. B. Kripalani in Lucknow, dated 16 June 1963. Rajaji is replying to a letter Kripalani sent from Lucknow on 11 June, together with an article intended for publication. He reports that Minoo Masani and N. G. Ranga have concluded that pushing Kripalani's proposal further in public will complicate rather than advance it, and that the remaining work should now be pursued privately.
+
+On this counsel, Rajaji declines to publish Kripalani's article as sent and asks Kripalani to meet Masani and Ranga in person before any further public canvassing. He offers a compromise: if Kripalani will permit him to edit the piece down, he can place Kripalani's views in print without the appearance that Kripalani is soliciting cooperation from parties that are currently keeping their distance. The letter is a short, tactical intervention in inter-party coordination among opposition leaders on the eve of, or during, an initiative whose specifics are not named in the letter itself.
+
 ## Key points
 
 - Rajaji writes from Madras on 16 June 1963, replying to Kripalani's letter of 11 June from Lucknow.

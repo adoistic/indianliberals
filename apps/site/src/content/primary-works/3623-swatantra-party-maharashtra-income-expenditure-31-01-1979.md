@@ -50,6 +50,12 @@ summary: |-
   Expenditure included rent and electricity, salaries, postage and telegrams, conveyance, and office expenses. The statement reports an excess of income over expenditure of Rs. 912.43. The accompanying balance sheet, dated 31 January 1979, lists liabilities of Rs. 482.19 in the capital fund and Rs. 605.85 in the Income & Expenditure Account, against assets comprising Rs. 1,078.04 cash at the Union Bank of India and Rs. 10.00 cash on hand.
 ---
 
+## Summary
+
+This one-page financial statement, issued under the heading “SWATANTRA PARTY, MAHARASHTRA,” records the organisation’s income and expenditure for the period 1 March 1978 to 31 January 1979. Reported income comprised donations of Rs. 3,550.00, rent receipts of Rs. 4,149.41, and miscellaneous receipts of Rs. 57.20, for a total of Rs. 7,756.61.
+
+Expenditure included rent and electricity, salaries, postage and telegrams, conveyance, and office expenses. The statement reports an excess of income over expenditure of Rs. 912.43. The accompanying balance sheet, dated 31 January 1979, lists liabilities of Rs. 482.19 in the capital fund and Rs. 605.85 in the Income & Expenditure Account, against assets comprising Rs. 1,078.04 cash at the Union Bank of India and Rs. 10.00 cash on hand.
+
 ## Key points
 
 - The statement covers the accounting period from 1 March 1978 to 31 January 1979.

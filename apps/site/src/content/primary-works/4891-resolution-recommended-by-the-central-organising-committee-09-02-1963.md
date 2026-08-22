@@ -47,6 +47,10 @@ summary: |-
   This one-page English resolution records the General Council's response to an appeal by some Party members in Bihar against a decision taken at Madras the previous July by the Organisation Sub-Committee and the Parliamentary Board. The appeal had been withdrawn, and the Council reaffirmed its confidence in the Central Organising Committee, the Organisation Sub-Committee, and the Parliamentary Board.
 ---
 
+## Summary
+
+This one-page English resolution records the General Council's response to an appeal by some Party members in Bihar against a decision taken at Madras the previous July by the Organisation Sub-Committee and the Parliamentary Board. The appeal had been withdrawn, and the Council reaffirmed its confidence in the Central Organising Committee, the Organisation Sub-Committee, and the Parliamentary Board.
+
 ## Key points
 
 - The document is a resolution recommended by the Central Organising Committee for adoption by the General Council of the Party.

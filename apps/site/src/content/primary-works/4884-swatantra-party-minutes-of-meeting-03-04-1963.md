@@ -57,6 +57,12 @@ summary: |-
   The minutes also set out campaign and finance arrangements, including authority for the General Secretary and State President to conduct the campaign, permission for the Honorary Treasurer to remit earmarked funds to the Gujarat State unit, and an appeal for logistical assistance. The Board reviewed other by-elections, adopted a non-alignment position in selected contests in Uttar Pradesh, and reaffirmed Members’ freedom to express views and vote independently on matters outside the Party’s Statement of Policy and Manifesto. The document concludes with the Board’s criticism of the Congress Government’s taxation, compulsory savings, gold-control, and corruption record, as well as guidance on the Official Languages Bill and the Vivian Bose Commission Report.
 ---
 
+## Summary
+
+These draft minutes record a meeting of the Swatantra Party Parliamentary Board held in Madras on April 23, 1963. The Board considered the Rajkot Lok Sabha by-election, reviewed a recommendation that Minoo Masani be the Party’s candidate, and noted Masani’s assessment that the constituency was difficult and his chances were limited. It nevertheless agreed to nominate him, subject to a straight contest with the Congress candidate, and approved the requested financial assistance.
+
+The minutes also set out campaign and finance arrangements, including authority for the General Secretary and State President to conduct the campaign, permission for the Honorary Treasurer to remit earmarked funds to the Gujarat State unit, and an appeal for logistical assistance. The Board reviewed other by-elections, adopted a non-alignment position in selected contests in Uttar Pradesh, and reaffirmed Members’ freedom to express views and vote independently on matters outside the Party’s Statement of Policy and Manifesto. The document concludes with the Board’s criticism of the Congress Government’s taxation, compulsory savings, gold-control, and corruption record, as well as guidance on the Official Languages Bill and the Vivian Bose Commission Report.
+
 ## Key points
 
 - The Parliamentary Board considered the Rajkot Lok Sabha by-election and Masani’s proposed candidacy.

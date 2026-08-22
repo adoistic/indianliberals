@@ -52,6 +52,12 @@ summary: |-
   Masani also updates Rajagopalachari on political and organisational matters. He says the Delhi Party has publicised Rajagopalachari’s appeal and a General Council resolution, expresses regret that developments concerning the Belgaum constituency disappointed him, and comments on correspondence involving Katti and Ranga. He closes by agreeing to attend the Trichy District Convention on 21 April. The page is a typed office letter, signed by Masani, with two enclosures noted.
 ---
 
+## Summary
+
+In this letter dated 22 March 1963, Minoo Masani responds to C. Rajagopalachari’s concerns about the Federation of Indian Chambers of Commerce and Industry (FICCI) proceedings and opposition to the S.P. (Super Profits) Tax. Masani agrees that the business community’s position is justified, but emphasizes that national interest—not an obligation to business interests—should guide their conduct. He reports having shared Rajagopalachari’s correspondence with business contacts, who confirmed that they had requested tax relief while opposing the measure itself.
+
+Masani also updates Rajagopalachari on political and organisational matters. He says the Delhi Party has publicised Rajagopalachari’s appeal and a General Council resolution, expresses regret that developments concerning the Belgaum constituency disappointed him, and comments on correspondence involving Katti and Ranga. He closes by agreeing to attend the Trichy District Convention on 21 April. The page is a typed office letter, signed by Masani, with two enclosures noted.
+
 ## Key points
 
 - Masani replies to Rajagopalachari’s letter of 1 March concerning FICCI proceedings.

@@ -55,6 +55,10 @@ summary: |-
   This 1995 document, issued on behalf of the Swatantra Party (Maharashtra), consists of a Bombay High Court writ petition, supporting affidavit, draft amendment, interim-relief application, and a press-publication cover letter. The petition challenges Section 29(A)(5) of the Representation of the People Act, 1951, as amended in 1988, which required political parties seeking registration to declare true faith and allegiance to the principles of socialism, secularism, democracy, and the sovereignty, unity, and integrity of India. The petitioners argue that the socialism requirement is vague, discriminatory, and inconsistent with constitutional freedoms of association, thought, and expression.
 ---
 
+## Summary
+
+This 1995 document, issued on behalf of the Swatantra Party (Maharashtra), consists of a Bombay High Court writ petition, supporting affidavit, draft amendment, interim-relief application, and a press-publication cover letter. The petition challenges Section 29(A)(5) of the Representation of the People Act, 1951, as amended in 1988, which required political parties seeking registration to declare true faith and allegiance to the principles of socialism, secularism, democracy, and the sovereignty, unity, and integrity of India. The petitioners argue that the socialism requirement is vague, discriminatory, and inconsistent with constitutional freedoms of association, thought, and expression.
+
 ## Key points
 
 - The Swatantra Party (Maharashtra) and S. V. Raju challenge the constitutional validity of Section 29(A)(5) of the Representation of the People Act, 1951.

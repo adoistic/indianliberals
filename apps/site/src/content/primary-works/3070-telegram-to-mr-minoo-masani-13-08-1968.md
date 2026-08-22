@@ -49,6 +49,10 @@ summary: |-
   This one-page English telegram records a communication sent to Surajyam at the Swatantra Party office in Bombay. The message states that 23 August had been fixed for discussion of Nath Pai's bill, and is signed or identified in the message strip as “JAIN.” The form bears Indian Posts and Telegraphs Department markings and a received stamp dated 13 August 1968.
 ---
 
+## Summary
+
+This one-page English telegram records a communication sent to Surajyam at the Swatantra Party office in Bombay. The message states that 23 August had been fixed for discussion of Nath Pai's bill, and is signed or identified in the message strip as “JAIN.” The form bears Indian Posts and Telegraphs Department markings and a received stamp dated 13 August 1968.
+
 ## Key points
 
 - The document is a one-page telegram rather than a conventional letter or published text.

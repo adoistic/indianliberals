@@ -50,6 +50,12 @@ summary: |-
   The notice records a partial payment of Rs. 500 and claims that Rs. 4534.37 remains due. It gives H. M. Patel fifteen days from receipt to pay the balance or make an arrangement, failing which K. B. Patel will take legally advised action against the party. Copies were sent to past and present party office-bearers, including officials of the Gujarat and All India Swatantra Party.
 ---
 
+## Summary
+
+This two-page legal notice, dated 27 May 1968, was issued by advocate Narayanbhai R. Patel on behalf of his client K. B. Patel and addressed to H. M. Patel, President of the Gujarat Swatantra Party. It alleges that K. B. Patel, while serving as office-secretary of the Ahmedabad office of the party, spent Rs. 5034.37 from his own pocket for party purposes during an unusual period when funds were unavailable. The notice states that party office-bearers knew of the expenditure and that repeated requests for reimbursement had received no satisfactory response.
+
+The notice records a partial payment of Rs. 500 and claims that Rs. 4534.37 remains due. It gives H. M. Patel fifteen days from receipt to pay the balance or make an arrangement, failing which K. B. Patel will take legally advised action against the party. Copies were sent to past and present party office-bearers, including officials of the Gujarat and All India Swatantra Party.
+
 ## Key points
 
 - The document is a legal notice dated 27 May 1968 and issued from Ahmedabad.

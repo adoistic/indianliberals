@@ -51,6 +51,12 @@ summary: |-
   The letter frames opposition to C. C. Desai as a matter requiring organized political action. Masani reports that party members outside Gujarat are clear on this need, names several political contacts, and encourages Raju to approach additional supporters. He offers to reimburse travel expenses for those coming to Delhi and advises that uncertain voters should be encouraged to remain at home rather than vote against C. C. Desai. A postscript asks Raju to correct a note that incorrectly identifies the Gujarat Herald as being published from New Delhi.
 ---
 
+## Summary
+
+In this 5 April 1970 express-delivery letter, M. R. Masani writes to S. V. Raju about rescheduling a Gujarat State Parliamentary Board meeting so that H. M. Patel can attend and lead a discussion on C. C. Desai. Masani also outlines his travel plans from Calcutta to Bombay, mentions meetings with Piloo Mody and Baria, and asks Raju to issue invitations and coordinate party-related communications.
+
+The letter frames opposition to C. C. Desai as a matter requiring organized political action. Masani reports that party members outside Gujarat are clear on this need, names several political contacts, and encourages Raju to approach additional supporters. He offers to reimburse travel expenses for those coming to Delhi and advises that uncertain voters should be encouraged to remain at home rather than vote against C. C. Desai. A postscript asks Raju to correct a note that incorrectly identifies the Gujarat Herald as being published from New Delhi.
+
 ## Key points
 
 - Masani asks Raju to reschedule a Gujarat State Parliamentary Board meeting from 11 to 12 April so H. M. Patel can attend.

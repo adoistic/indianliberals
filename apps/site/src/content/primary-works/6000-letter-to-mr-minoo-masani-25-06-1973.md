@@ -48,6 +48,12 @@ summary: |-
   In the June 25 letter, Narayan apologises for delayed replies and describes a period of depression and physical weakness. He says that reading Prabhavati's preserved letters, dating from 1921 onward, has made him relive much of their shared life. He also gives Masani his July travel itinerary for Bombay and Poona, and notes that Govindrao and other friends are arranging his programme, partly in connection with trusteeship matters.
 ---
 
+## Summary
+
+This two-page correspondence from Jayaprakash Narayan to Minoo Masani records Narayan's grief after the death of his wife, Prabhavati. In the April 24 letter, he thanks Masani for his sympathy, explains that Prabhavati's sudden death has left him shattered, and postpones discussion of his future programme while outlining travel plans involving Patna, Delhi, Vinoba's place, and possibly Calcutta.
+
+In the June 25 letter, Narayan apologises for delayed replies and describes a period of depression and physical weakness. He says that reading Prabhavati's preserved letters, dating from 1921 onward, has made him relive much of their shared life. He also gives Masani his July travel itinerary for Bombay and Poona, and notes that Govindrao and other friends are arranging his programme, partly in connection with trusteeship matters.
+
 ## Key points
 
 - Narayan writes to Minoo Masani in the aftermath of Prabhavati's death.

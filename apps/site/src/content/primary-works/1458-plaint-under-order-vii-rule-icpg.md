@@ -53,6 +53,12 @@ summary: |-
   The plaint grounds its challenge in the Swatantra Party’s founding statement of principles and constitutional arrangements. It argues that the party’s objectives—social justice, equality of opportunity, individual initiative, enterprise, democratic politics, and the welfare of citizens—cannot be overridden by the National Executive or an improperly convened convention. The plaintiffs seek declarations that the proposed 4–5 August 1974 convention and related circulars are illegal, ultra vires, and unauthorised, together with an injunction preventing the defendants from proceeding with dissolution. The document also invokes the party’s national significance and the legacy of its founder, C. Rajagopalachari, while citing opposition to dissolution from the Tamil Nadu General Council and M. R. Masani.
 ---
 
+## Summary
+
+This 27 July 1974 plaint, filed in the City Civil Court, Madras under Order VII Rule I of the Code of Civil Procedure, is brought by five members and office-bearers of the Swatantra Party against its president Piloo Mody, vice-president and acting general secretary Madhu Mehta, and joint secretary Dr. M. Santhosham. The plaintiffs contend that the defendants are attempting to dissolve the party and create a new political formation without authority under the party constitution.
+
+The plaint grounds its challenge in the Swatantra Party’s founding statement of principles and constitutional arrangements. It argues that the party’s objectives—social justice, equality of opportunity, individual initiative, enterprise, democratic politics, and the welfare of citizens—cannot be overridden by the National Executive or an improperly convened convention. The plaintiffs seek declarations that the proposed 4–5 August 1974 convention and related circulars are illegal, ultra vires, and unauthorised, together with an injunction preventing the defendants from proceeding with dissolution. The document also invokes the party’s national significance and the legacy of its founder, C. Rajagopalachari, while citing opposition to dissolution from the Tamil Nadu General Council and M. R. Masani.
+
 ## Key points
 
 - Five Swatantra Party members and office-bearers filed the plaint against three senior party officials.

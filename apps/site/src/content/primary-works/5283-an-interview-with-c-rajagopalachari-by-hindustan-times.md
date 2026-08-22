@@ -65,6 +65,12 @@ summary: |-
   The interview develops this position across agriculture, industry, taxation, education, foreign policy, and party strategy. Rajaji supports voluntary cooperation rather than compulsory cooperative farming, private incentives rather than socialism, and democratic planning that sets direction without relying on coercion. He also invokes Gandhi’s doctrine of trusteeship and dharma, arguing that wealth should be increased through enterprise and that social responsibility should be encouraged by moral persuasion rather than confiscatory regulation. The closing discussion addresses Swatantra’s electoral prospects, its relationship to Congress and the Communist Party, the bifurcation of Bombay State, religious non-discrimination, and the party’s eventual aim of reaching power in Delhi.
 ---
 
+## Summary
+
+This eight-page interview presents C. Rajagopalachari’s case for the newly formed Swatantra Party as a defense of individual freedom, private enterprise, and limited government. Rajaji argues that the Congress government’s programme of “improvement by compulsion,” expanding state control, and collectivist planning threatens individual initiative and the freedom to pursue enterprise. He presents Swatantra as an opposition to totalitarianism and as a political alternative to both Congress and Communism, while accepting state action to protect weaker sections and provide essential services.
+
+The interview develops this position across agriculture, industry, taxation, education, foreign policy, and party strategy. Rajaji supports voluntary cooperation rather than compulsory cooperative farming, private incentives rather than socialism, and democratic planning that sets direction without relying on coercion. He also invokes Gandhi’s doctrine of trusteeship and dharma, arguing that wealth should be increased through enterprise and that social responsibility should be encouraged by moral persuasion rather than confiscatory regulation. The closing discussion addresses Swatantra’s electoral prospects, its relationship to Congress and the Communist Party, the bifurcation of Bombay State, religious non-discrimination, and the party’s eventual aim of reaching power in Delhi.
+
 ## Key points
 
 - Rajagopalachari identifies individual freedom as both a moral ideal and an instrument for increasing national wealth through production.

@@ -76,6 +76,12 @@ summary: |-
   The enclosure sets out the convention’s resolutions. In the rendered pages, the party criticises inflation, unemployment, foodgrain takeovers, nationalisation, state controls, public-sector inefficiency, power shortages, and what it presents as excessive centralisation. It argues for freeing the economy from controls while opposing monopoly, calls for democratic consultation on Andhra–Telangana separation, advocates a less Soviet-aligned foreign policy, and addresses working women, inter-state rivers, universities, weavers, labour, elections, and youth participation. The final pages pay tribute to Rajaji and list other deceased party stalwarts. This summary covers the complete 20-page PDF, including the letter and the attached resolutions.
 ---
 
+## Summary
+
+Dated April 27, 1973, this letter from Swatantra Party General Secretary Madhu Mehta reports on the party’s Sixth National Convention, held at Rajahmundry on April 14–15. Mehta says more than 800 delegates and associate delegates attended and highlights three principal outcomes: amendments to the party constitution, a restatement of Swatantra policy, and the adoption of 19 resolutions. The constitutional changes described in the letter simplify membership into a single category, fix the annual subscription at Re. 1, establish procedures for enrolment and appeals, and reorganise the primary and district units. The letter also announces the policy document “Swatantra Party—India’s Only Hope” and asks party units to publicise the resolutions.
+
+The enclosure sets out the convention’s resolutions. In the rendered pages, the party criticises inflation, unemployment, foodgrain takeovers, nationalisation, state controls, public-sector inefficiency, power shortages, and what it presents as excessive centralisation. It argues for freeing the economy from controls while opposing monopoly, calls for democratic consultation on Andhra–Telangana separation, advocates a less Soviet-aligned foreign policy, and addresses working women, inter-state rivers, universities, weavers, labour, elections, and youth participation. The final pages pay tribute to Rajaji and list other deceased party stalwarts. This summary covers the complete 20-page PDF, including the letter and the attached resolutions.
+
 ## Key points
 
 - The Sixth National Convention adopted constitutional amendments, a restatement of party policy, and 19 resolutions.

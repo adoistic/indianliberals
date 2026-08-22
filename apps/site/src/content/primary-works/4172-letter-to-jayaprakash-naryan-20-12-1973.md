@@ -51,6 +51,12 @@ summary: |-
   Masani proposes cooperation over the nature and participants of the discussion. He envisages an event involving publicists, journalists, educationists, public figures, and members of the intelligentsia, with the Institute of Adult Education serving as a possible sponsor. He offers to approach the Institute and suggests that Narayan’s associated institution could also co-sponsor the event, while making clear that Narayan would not be expected to bear most of the financial burden. The letter closes by asking that the proposal be forwarded to Narayan in Patna.
 ---
 
+## Summary
+
+In this letter dated December 26, 1973, Minoo Masani writes to Jayaprakash Narayan about organizing a further, non-party and non-partisan discussion on “Economic Development and State Autonomy.” Masani recalls a trustees’ meeting at the Institute of Adult Education in Poona, where Dandekar and R. C. Cooper agreed that the controversy between the Prime Minister and Narayan, together with their own past interest in the subject, made a renewed discussion desirable. He notes that Narayan’s reported proposal for a similar meeting appears to be moving in the same direction.
+
+Masani proposes cooperation over the nature and participants of the discussion. He envisages an event involving publicists, journalists, educationists, public figures, and members of the intelligentsia, with the Institute of Adult Education serving as a possible sponsor. He offers to approach the Institute and suggests that Narayan’s associated institution could also co-sponsor the event, while making clear that Narayan would not be expected to bear most of the financial burden. The letter closes by asking that the proposal be forwarded to Narayan in Patna.
+
 ## Key points
 
 - Masani proposes a further discussion on economic development and state autonomy.

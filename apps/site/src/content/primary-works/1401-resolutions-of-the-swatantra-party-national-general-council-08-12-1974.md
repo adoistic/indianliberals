@@ -54,6 +54,12 @@ summary: |-
   The resolutions relocate the party's national headquarters from Bombay to Madras, endorse the reorganisation of state units, and authorise measures to fill vacancies. They also support Jayaprakash Narayan's movement to cleanse public life of corruption and nepotism, while criticising the ruling party's 13-point programme as populist and insufficiently attentive to production and underlying economic problems. The document presents the Swatantra Party as seeking organisational continuity and political renewal rather than accepting its proposed dissolution.
 ---
 
+## Summary
+
+This two-page document records resolutions adopted by the Swatantra Party National General Council at Madras on 8 December 1974. The council rejects the earlier National Convention's resolution proposing to dissolve or merge the party, declaring that resolution illegal, incompetent, and void. It also removes members who have joined another party, reconstitutes party offices and the National Executive, and affirms the party's continuing institutional existence, including its flag, election symbol, assets, and properties.
+
+The resolutions relocate the party's national headquarters from Bombay to Madras, endorse the reorganisation of state units, and authorise measures to fill vacancies. They also support Jayaprakash Narayan's movement to cleanse public life of corruption and nepotism, while criticising the ruling party's 13-point programme as populist and insufficiently attentive to production and underlying economic problems. The document presents the Swatantra Party as seeking organisational continuity and political renewal rather than accepting its proposed dissolution.
+
 ## Key points
 
 - The General Council declares the August 1974 convention's proposal to dissolve or merge the Swatantra Party illegal, incompetent, and void.

@@ -49,6 +49,12 @@ summary: |-
   The letter also asks the party to take appropriate decisions so that it can close its ranks and reunite under the leadership of its respected leaders. The document records an internal party crisis and an appeal for organizational unity; no further details about the resignation or the proposed meeting are provided.
 ---
 
+## Summary
+
+This one-page English letter, dated 3 April 1968 and signed by Dr. Mehar Singh of Amritsar, is addressed to Mr. N. Dandeker, M.P., the General Secretary of the Swatantra Party. Singh requests that Dandeker convene an emergency meeting of the party's General Council to discuss Minoo Masani's resignation from the National Executive and the Central Parliamentary Board.
+
+The letter also asks the party to take appropriate decisions so that it can close its ranks and reunite under the leadership of its respected leaders. The document records an internal party crisis and an appeal for organizational unity; no further details about the resignation or the proposed meeting are provided.
+
 ## Key points
 
 - The letter is dated 3 April 1968 and was sent from Amritsar.

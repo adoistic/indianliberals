@@ -50,6 +50,12 @@ summary: |-
   The letter also provides Munshi's temporary location and contact details. He will remain at Juhu for another week, can be contacted by telephone for urgent work, and may receive correspondence through Bharatiya Vidya Bhavan. The document is administrative correspondence focused on party affairs and an election-related legal or procedural matter; no broader argument is developed.
 ---
 
+## Summary
+
+This one-page letter, dated June 5, 1975, is from P. Narayan to V. S. Srikumar, Junior Secretary of the All-India Swatantra Party. Narayan reports that K. M. Munshi has returned to Bombay and received Srikumar's April 26 letter, together with the counter-affidavit of Mr. Ganesan concerning the Election Commission. Munshi is expected to write to Srikumar within a day or two, while Raju is expected in Bombay by June 8.
+
+The letter also provides Munshi's temporary location and contact details. He will remain at Juhu for another week, can be contacted by telephone for urgent work, and may receive correspondence through Bharatiya Vidya Bhavan. The document is administrative correspondence focused on party affairs and an election-related legal or procedural matter; no broader argument is developed.
+
 ## Key points
 
 - P. Narayan acknowledges receipt of Srikumar's June 3 letter.

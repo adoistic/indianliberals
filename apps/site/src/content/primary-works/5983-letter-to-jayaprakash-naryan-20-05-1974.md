@@ -44,6 +44,10 @@ summary: |-
   This one-page English telegram from Minoo Masani to Jayaprakash Narayan is dated Bombay, May 20, 1974. Masani asks whether he can meet Narayan before Narayan returns to Bihar and reports that he will be in Bangalore on May 31 and in Madras on the afternoon of June 30. He also asks whether Narayan may be travelling to Bombay and requests information about his movements.
 ---
 
+## Summary
+
+This one-page English telegram from Minoo Masani to Jayaprakash Narayan is dated Bombay, May 20, 1974. Masani asks whether he can meet Narayan before Narayan returns to Bihar and reports that he will be in Bangalore on May 31 and in Madras on the afternoon of June 30. He also asks whether Narayan may be travelling to Bombay and requests information about his movements.
+
 ## Key points
 
 - The document is an express telegram and confirmation copy rather than a conventional letter.

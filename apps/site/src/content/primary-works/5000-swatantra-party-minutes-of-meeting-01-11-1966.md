@@ -50,6 +50,10 @@ summary: |-
   These one-page minutes record a Swatantra Party parliamentary meeting held on the morning of 1 November 1966 in the Opposition Members' Room, Parliament House. M. R. Masani chaired the meeting, which was attended by twelve members, including N. Dandeker, Dabyabhai V. Patel, P. K. Deo, Kapur Singh, Dhanna Singh Gulshan, P. H. Bheel, S. S. Mariswamy, C. L. N. Reddy, Ram Singh, and P. N. Solanki.
 ---
 
+## Summary
+
+These one-page minutes record a Swatantra Party parliamentary meeting held on the morning of 1 November 1966 in the Opposition Members' Room, Parliament House. M. R. Masani chaired the meeting, which was attended by twelve members, including N. Dandeker, Dabyabhai V. Patel, P. K. Deo, Kapur Singh, Dhanna Singh Gulshan, P. H. Bheel, S. S. Mariswamy, C. L. N. Reddy, Ram Singh, and P. N. Solanki.
+
 ## Key points
 
 - The document records a Swatantra Party parliamentary meeting dated 1 November 1966.

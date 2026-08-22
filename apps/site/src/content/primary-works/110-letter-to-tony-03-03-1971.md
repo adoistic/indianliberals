@@ -44,6 +44,12 @@ summary: |-
   The substantive portion of the letter reports that two of the three loaned jeeps (marginally noted as registrations MRZ 3707 and GJR 4376) proved troublesome from the day they arrived. Masani explains that he had arranged for Messrs. P. H. Wadia & Sons, whom he describes as very dependable friends, to look after the vehicles on Mango's behalf. He notes that a bill of Rs. 730.32 dated 27th February has been raised for repairs and replacement of tyres, encloses a copy, and requests that it be settled expeditiously.
 ---
 
+## Summary
+
+A single-page personal and confidential letter dated 3rd March 1971 from M. R. Masani to Tony Mango of Rallis India Ltd., Bombay. Masani thanks the recipient for the loan of three jeeps over the preceding few weeks and expresses appreciation for the goodwill involved.
+
+The substantive portion of the letter reports that two of the three loaned jeeps (marginally noted as registrations MRZ 3707 and GJR 4376) proved troublesome from the day they arrived. Masani explains that he had arranged for Messrs. P. H. Wadia & Sons, whom he describes as very dependable friends, to look after the vehicles on Mango's behalf. He notes that a bill of Rs. 730.32 dated 27th February has been raised for repairs and replacement of tyres, encloses a copy, and requests that it be settled expeditiously.
+
 ## Key points
 
 - Personal and confidential letter from M. R. Masani to Tony Mango of Rallis India Ltd., dated 3rd March 1971.

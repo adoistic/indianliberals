@@ -48,6 +48,12 @@ summary: |-
   Rajaji urges restraint. He tells Masani he considers the planned protest meetings 'a bit premature & unnecessary,' explains that he has himself written an article warning against acceptance of the proposals, and reports that an advance proof copy is on its way — the article is set to reach his correspondents' hands on Monday morning, with the Tuesday issue carrying it expected to arrive by Thursday. Until the argument has been laid before readers, he tells Masani, meetings 'would be premature noise based on surmise.' The letter closes 'Yours truly, C Rajagopalachari.'
 ---
 
+## Summary
+
+This is a brief handwritten letter from C. Rajagopalachari, written on his 60 Bazlullah Road, Tyagarayanagar, Madras 17 letterhead and dated 18 January 1963, to Minoo Masani. Rajaji has just seen a press notice reporting that Masani has issued a circular asking all units of his party (the Swatantra Party) to hold meetings of protest against 'Capitulation to' the Colombo proposals — the six-nation formula floated after the 1962 Sino-Indian war for defusing the India–China border dispute. The marginal note 'Chinese aggression' at the head of the sheet flags the subject.
+
+Rajaji urges restraint. He tells Masani he considers the planned protest meetings 'a bit premature & unnecessary,' explains that he has himself written an article warning against acceptance of the proposals, and reports that an advance proof copy is on its way — the article is set to reach his correspondents' hands on Monday morning, with the Tuesday issue carrying it expected to arrive by Thursday. Until the argument has been laid before readers, he tells Masani, meetings 'would be premature noise based on surmise.' The letter closes 'Yours truly, C Rajagopalachari.'
+
 ## Key points
 
 - Handwritten personal letter from C. Rajagopalachari to Minoo Masani, dated 'Jan 18 '63', on Rajaji's Madras letterhead (60 Bazlullah Road, Tyagarayanagar).

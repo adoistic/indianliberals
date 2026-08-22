@@ -51,6 +51,12 @@ summary: |-
   The notice also requests members’ attendance and provides travel-booking instructions through M. R. Arya of the Swatantra Party’s Delhi Pradesh organisation. It is signed by Madhu Mehta, identified as Vice-President, and separately records M. R. Masani as a special invitee. The page documents the party’s meeting procedures and internal coordination rather than presenting a substantive policy argument.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated July 13, 1974, announces a National Executive meeting scheduled for August 4 at Sapru House, New Delhi, immediately before the party’s National Convention. Issued from the party’s national headquarters, it asks members to confirm the minutes of the previous Executive meeting, hear the President’s briefing on the latest General Council meeting, and consider other business with the Chair’s permission.
+
+The notice also requests members’ attendance and provides travel-booking instructions through M. R. Arya of the Swatantra Party’s Delhi Pradesh organisation. It is signed by Madhu Mehta, identified as Vice-President, and separately records M. R. Masani as a special invitee. The page documents the party’s meeting procedures and internal coordination rather than presenting a substantive policy argument.
+
 ## Key points
 
 - The circular is dated July 13, 1974, and is issued by the Swatantra Party national headquarters.

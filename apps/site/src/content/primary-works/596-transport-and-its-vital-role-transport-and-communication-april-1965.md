@@ -53,6 +53,10 @@ summary: |-
   In the rendered pages, M. R. Masani argues that India’s transport policy is producing a damaging bottleneck. He points to acute railway-wagon shortages affecting coal, textiles, and salt manufacturers; inadequate road investment; delayed highway projects; and planning allocations that do not match the economic importance of roads. He contrasts India’s preference for railways with the growing use of road transport elsewhere, and criticizes taxation, import restrictions, licensing, and shortages of components for holding back automobile and truck production. He presents road transport and automobile manufacturing as essential infrastructure rather than luxuries, and opposes the expansion of state monopolies and the nationalisation of goods transport.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that India’s transport policy is producing a damaging bottleneck. He points to acute railway-wagon shortages affecting coal, textiles, and salt manufacturers; inadequate road investment; delayed highway projects; and planning allocations that do not match the economic importance of roads. He contrasts India’s preference for railways with the growing use of road transport elsewhere, and criticizes taxation, import restrictions, licensing, and shortages of components for holding back automobile and truck production. He presents road transport and automobile manufacturing as essential infrastructure rather than luxuries, and opposes the expansion of state monopolies and the nationalisation of goods transport.
+
 ## Key points
 
 - Masani links railway-wagon shortages to disruptions in coal, textile, and other industries.

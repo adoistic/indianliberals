@@ -47,6 +47,12 @@ summary: |-
   The substantive news of the letter is party-organisational: Bharati reports that the National Executive of the Party has recognised the U.P. Executive and that he himself has been asked to act as General Secretary of U.P. He closes by asking for Masani's good will and guidance in this new role, signing off as "Advocate." The document is a piece of correspondence rather than an argumentative work.
 ---
 
+## Summary
+
+A short handwritten note dated 25 April 1975, sent from Shahjahanpur by the advocate R. S. Bharati to Minoo Masani ("My dear Masani Sahib"). Bharati thanks Masani for his kind reply and explains that the delay in writing was caused by Mrs Bharati's operation, adding that she is doing well now.
+
+The substantive news of the letter is party-organisational: Bharati reports that the National Executive of the Party has recognised the U.P. Executive and that he himself has been asked to act as General Secretary of U.P. He closes by asking for Masani's good will and guidance in this new role, signing off as "Advocate." The document is a piece of correspondence rather than an argumentative work.
+
 ## Key points
 
 - Handwritten personal letter dated 25 April 1975, sent from Shahjahanpur.

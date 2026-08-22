@@ -48,6 +48,10 @@ summary: |-
   This one-page English newspaper clipping, headed “PARLIAMENT PANELS” and subheaded “Members Named,” reports from New Delhi that the Speaker has nominated members to seven committees of the Lok Sabha. The report, attributed to Express News Service, lists the membership of the Committee of Privileges, the Committee of Absence of Members from the Sittings of the House, the Committee on Government Assurances, and the Committee on Petitions.
 ---
 
+## Summary
+
+This one-page English newspaper clipping, headed “PARLIAMENT PANELS” and subheaded “Members Named,” reports from New Delhi that the Speaker has nominated members to seven committees of the Lok Sabha. The report, attributed to Express News Service, lists the membership of the Committee of Privileges, the Committee of Absence of Members from the Sittings of the House, the Committee on Government Assurances, and the Committee on Petitions.
+
 ## Key points
 
 - The clipping reports the nomination of Lok Sabha committee members.

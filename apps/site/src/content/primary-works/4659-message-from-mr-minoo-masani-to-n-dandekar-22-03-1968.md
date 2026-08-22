@@ -48,6 +48,12 @@ summary: |-
   Masani asks Dandekar to wire H. M. Patel to suspend Mahida from Party membership with immediate effect and to have Patel announce the suspension publicly. The document is a clipped telegraphic communication rather than a conventional letter, and it does not identify the Party or explain the underlying election dispute.
 ---
 
+## Summary
+
+This single-page English message from M. R. Masani to N. Dandekar, dated 22 March 1968, responds to reports that efforts to persuade Mahida to withdraw an election nomination had failed. Masani recommends an intervention to protect the Party's candidate and discourage wavering members from voting for Mahida.
+
+Masani asks Dandekar to wire H. M. Patel to suspend Mahida from Party membership with immediate effect and to have Patel announce the suspension publicly. The document is a clipped telegraphic communication rather than a conventional letter, and it does not identify the Party or explain the underlying election dispute.
+
 ## Key points
 
 - Masani refers to newspaper reports that efforts to persuade Mahida to withdraw a nomination had failed.

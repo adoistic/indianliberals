@@ -51,6 +51,12 @@ summary: |-
   The letter argues that such an institution is urgently needed amid public concern about price rises, corruption, smuggling, and political disorder. It praises Madhu Mehta’s non-political activities and presents him as a possible future leader who is “a MAN OF ACTION AND ALOOF FROM CONTROVERSY.” Ahuja asks the recipients to use their influence to secure acceptance of the proposal and promises the organisation’s cooperation.
 ---
 
+## Summary
+
+This one-page letter, dated July 22, 1974, is written by Sree S. Ahuja of Bharati Sewak Saina to M. R. Masani and Madhu Mehta. It endorses a proposed initiative titled “FUTURE OF SWATANTRA,” described as a non-political, state-level social-service organisation intended to coordinate social, cultural, and educational work across India.
+
+The letter argues that such an institution is urgently needed amid public concern about price rises, corruption, smuggling, and political disorder. It praises Madhu Mehta’s non-political activities and presents him as a possible future leader who is “a MAN OF ACTION AND ALOOF FROM CONTROVERSY.” Ahuja asks the recipients to use their influence to secure acceptance of the proposal and promises the organisation’s cooperation.
+
 ## Key points
 
 - The letter is dated July 22, 1974, and is addressed to M. R. Masani and Madhu Mehta.

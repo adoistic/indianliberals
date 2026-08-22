@@ -49,6 +49,12 @@ summary: |-
   The letter responds to allegations attributed to Bhailalbhai in another Loksatta interview: that the writer had defected from Congress and the Socialist Party, secretly made a deal with Congress, and had been nominated chairman of the Public Accounts Committee out of turn. The writer rejects or documents these claims through the enclosed clipping, notes Bhailalbhai’s retirement from several Gujarat political posts, and says he will write to Rajaji as discussed. The remaining rendered pages consist chiefly of attached Gujarati newspaper clippings; their full contents have not been translated here.
 ---
 
+## Summary
+
+This 29 May 1968 letter from a signer whose handwritten name appears to be “Bhalabhai Patel” is addressed to Minoo Masani, a leader of the Swatantra Party. The writer encloses a page from the Gujarati newspaper Loksatta reporting on an interview in which he says he endorsed Masani’s and “Mr. Manshi’s” views about Gujarat’s leadership. He also states that, if necessary, he is prepared to resign both his Swatantra Party membership and his seat in Parliament.
+
+The letter responds to allegations attributed to Bhailalbhai in another Loksatta interview: that the writer had defected from Congress and the Socialist Party, secretly made a deal with Congress, and had been nominated chairman of the Public Accounts Committee out of turn. The writer rejects or documents these claims through the enclosed clipping, notes Bhailalbhai’s retirement from several Gujarat political posts, and says he will write to Rajaji as discussed. The remaining rendered pages consist chiefly of attached Gujarati newspaper clippings; their full contents have not been translated here.
+
 ## Key points
 
 - The document is a dated English letter from 29 May 1968 addressed to Minoo Masani.

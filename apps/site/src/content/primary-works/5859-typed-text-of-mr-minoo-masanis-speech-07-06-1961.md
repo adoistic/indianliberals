@@ -46,6 +46,10 @@ summary: |-
   This single-sheet English archival note records that the typed text of Mr. N.R. Masani's speech in the Lok Sabha on 5 April 1961, delivered during discussion of the Demands for Grants of the Ministry of Transport and Communications, was replaced by an article in the I.R.M.D.A. Newsletter dated 30 April 1961. The note states that the typed copy had been sent to Mr. Y.G.L. Narasimha Rao, Editor and Publisher of Praja Mithra, in Bangalore.
 ---
 
+## Summary
+
+This single-sheet English archival note records that the typed text of Mr. N.R. Masani's speech in the Lok Sabha on 5 April 1961, delivered during discussion of the Demands for Grants of the Ministry of Transport and Communications, was replaced by an article in the I.R.M.D.A. Newsletter dated 30 April 1961. The note states that the typed copy had been sent to Mr. Y.G.L. Narasimha Rao, Editor and Publisher of Praja Mithra, in Bangalore.
+
 ## Key points
 
 - The document concerns a Lok Sabha speech by Mr. N.R. Masani.

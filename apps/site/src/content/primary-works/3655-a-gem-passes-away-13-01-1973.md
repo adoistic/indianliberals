@@ -55,6 +55,12 @@ summary: |-
   The tribute frames Rajaji as a defender of individual freedom, democracy, free society, and practical economic counsel. It contrasts his political morality with what it describes as the Congress leadership’s use of progressive rhetoric while restricting economic and social progress. The article closes by presenting Rajaji as an exemplary patriot and a source of guidance for Indian youth. The summary is based only on the single rendered page.
 ---
 
+## Summary
+
+This one-page tribute, published after C. Rajagopalachari’s death on December 25, 1972, presents Rajaji as an unusually principled figure in Indian public life. It praises his political brilliance, intellectual ability, courage of conviction, and willingness to pursue what he believed was right despite criticism from those in power. The article recalls his resignation from the Congress in 1942, his opposition to the Congress’s adoption of a “socialistic pattern” at Avadi, and his founding of the Swatantra Party in 1959 at the age of 81.
+
+The tribute frames Rajaji as a defender of individual freedom, democracy, free society, and practical economic counsel. It contrasts his political morality with what it describes as the Congress leadership’s use of progressive rhetoric while restricting economic and social progress. The article closes by presenting Rajaji as an exemplary patriot and a source of guidance for Indian youth. The summary is based only on the single rendered page.
+
 ## Key points
 
 - The article commemorates C. Rajagopalachari, who died on December 25, 1972.

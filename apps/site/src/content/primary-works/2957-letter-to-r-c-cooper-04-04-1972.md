@@ -48,6 +48,10 @@ summary: |-
   In this letter dated 4 April 1972, M. R. Masani responds to R. C. Cooper's proposals concerning the future of the Swatantra Party. Masani says that, after reading S. V. Raju's analysis of the party's condition, he agrees with its broad conclusions but rejects all three suggested courses of action: dissolution, merger with another party, and a further attempt to continue along existing lines. He questions whether dissolution would serve any useful purpose, arguing that the party's continued existence could preserve an alternative to the ruling Congress and sustain liberal political activity.
 ---
 
+## Summary
+
+In this letter dated 4 April 1972, M. R. Masani responds to R. C. Cooper's proposals concerning the future of the Swatantra Party. Masani says that, after reading S. V. Raju's analysis of the party's condition, he agrees with its broad conclusions but rejects all three suggested courses of action: dissolution, merger with another party, and a further attempt to continue along existing lines. He questions whether dissolution would serve any useful purpose, arguing that the party's continued existence could preserve an alternative to the ruling Congress and sustain liberal political activity.
+
 ## Key points
 
 - Masani endorses the broad analysis in S. V. Raju's reply regarding the Swatantra Party's condition.

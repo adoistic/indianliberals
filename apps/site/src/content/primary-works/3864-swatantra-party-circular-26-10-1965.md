@@ -51,6 +51,12 @@ summary: |-
   The attached lists identify positions and existing office holders for the Lok Sabha and Rajya Sabha, as well as proposed Executive Committee places for 1965–66. The pages show typed names alongside handwritten annotations, corrections, deletions, and indications of vacancies. The circular is signed on behalf of P. N. Solanki, Secretary. No substantive policy argument or discussion of electoral reform appears in the rendered pages.
 ---
 
+## Summary
+
+This three-page English-language circular, issued by the Swatantra Party Parliamentary Office in New Delhi on 26 October 1965, announces a General Body meeting scheduled for 2 November 1965 at the Party Committee Room in Central Hall, Parliament House. It asks party members to attend and states that the meeting will include the election of office bearers and the Executive Committee of the parliamentary group; nominations are to be received during the meeting itself.
+
+The attached lists identify positions and existing office holders for the Lok Sabha and Rajya Sabha, as well as proposed Executive Committee places for 1965–66. The pages show typed names alongside handwritten annotations, corrections, deletions, and indications of vacancies. The circular is signed on behalf of P. N. Solanki, Secretary. No substantive policy argument or discussion of electoral reform appears in the rendered pages.
+
 ## Key points
 
 - The circular is dated 26 October 1965 and comes from the Swatantra Party Parliamentary Office, New Delhi.

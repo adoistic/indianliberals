@@ -47,6 +47,12 @@ summary: |-
   The third page is addressed to The Adult Education Institute, Bombay. It repeats the same rent, electricity, and total figures but calculates a 10 percent share for use of the cabin as Rs. 54.29. The document is administrative and financial in character; the third page also contains visible textual inconsistencies, including a reference to May 1975 electricity charges despite the surrounding statement referring to April, and a handwritten correction or overtyping in the percentage line.
 ---
 
+## Summary
+
+This three-page English office correspondence, dated 20 May 1975, is issued on Swatantra Party, Maharashtra Vibhag letterhead and signed by P. Narayan, Office Secretary. The first two pages, addressed to Bharatiya Lok Dal in Bombay, report April 1975 rent of Rs. 394.29 and electricity charges of Rs. 148.58, for a stated total of Rs. 542.87. They calculate the recipient's 40 percent share as Rs. 271.45.
+
+The third page is addressed to The Adult Education Institute, Bombay. It repeats the same rent, electricity, and total figures but calculates a 10 percent share for use of the cabin as Rs. 54.29. The document is administrative and financial in character; the third page also contains visible textual inconsistencies, including a reference to May 1975 electricity charges despite the surrounding statement referring to April, and a handwritten correction or overtyping in the percentage line.
+
 ## Key points
 
 - Dated 20 May 1975 and issued on Swatantra Party Maharashtra Vibhag letterhead.

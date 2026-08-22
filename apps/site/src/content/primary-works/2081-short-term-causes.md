@@ -51,6 +51,12 @@ summary: |-
   The leaflet then shows how black money is hoarded in jewellery or converted into assets such as buildings, invested in businesses through undetected channels, spent on conspicuous consumption such as gala weddings, and used to hoard essential commodities including oil, rice, and sugar. It concludes that when black money is used for conspicuous consumption, hoarding, or speculation, it adds fuel to inflation. The rendered page does not explain the second listed cause—the state takeover of the wholesale wheat trade—beyond naming it.
 ---
 
+## Summary
+
+This single-page English illustrated leaflet identifies two short-term causes of rapid price rises: the presence of black money in the economy and the state takeover of the wholesale wheat trade. It presents black money as an outcome of wrong economic policies, arising through illegal activities, evasion of controls, high taxation that encourages avoidance, a low tax exemption limit, and political activities such as election spending and trade-union work by politicians.
+
+The leaflet then shows how black money is hoarded in jewellery or converted into assets such as buildings, invested in businesses through undetected channels, spent on conspicuous consumption such as gala weddings, and used to hoard essential commodities including oil, rice, and sugar. It concludes that when black money is used for conspicuous consumption, hoarding, or speculation, it adds fuel to inflation. The rendered page does not explain the second listed cause—the state takeover of the wholesale wheat trade—beyond naming it.
+
 ## Key points
 
 - The leaflet names black money and state control of wholesale wheat as two short-term causes of rapid price rises.

@@ -49,6 +49,12 @@ summary: |-
   The article argues that the party’s electoral difficulties were compounded by the so-called Alliance, which several party workers regarded as more harmful than helpful. It concludes by acknowledging the difficulty of finding another chairman with Masani’s ability. The clipping is attributed to V. T. Sreenivasan and carries the masthead March of the Nation, Bangalore; a handwritten annotation dates it 24 April 1971.
 ---
 
+## Summary
+
+This newspaper commentary presents M. R. Masani’s resignation as chairman of the Swatantra Party as a principled act rather than a response to personal failure. It says Masani accepted responsibility for the party’s poor performance in the mid-term Lok Sabha elections, contrasting its 44 seats in 1967 with only 8 in 1971.
+
+The article argues that the party’s electoral difficulties were compounded by the so-called Alliance, which several party workers regarded as more harmful than helpful. It concludes by acknowledging the difficulty of finding another chairman with Masani’s ability. The clipping is attributed to V. T. Sreenivasan and carries the masthead March of the Nation, Bangalore; a handwritten annotation dates it 24 April 1971.
+
 ## Key points
 
 - Masani’s resignation from the Swatantra Party chairmanship is described as motivated by lofty principles.

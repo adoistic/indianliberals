@@ -46,6 +46,12 @@ summary: |-
   The page is a brief piece of logistical correspondence rather than a substantive political or intellectual argument. It does not identify the subject of the proposed meeting or provide further information about the relationship between Raju, Singh, and Mr. Masani.
 ---
 
+## Summary
+
+This one-page letter, dated January 13, 1970, is S. V. Raju’s reply to Maharaja Daljit Singh. Raju acknowledges Singh’s letter of January 9 and explains that Mr. Masani is currently abroad and will not return until January 23. As a result, arranging a meeting the following week, when Singh is in town, is no longer possible. The letter closes with seasonal greetings and best wishes for the New Year.
+
+The page is a brief piece of logistical correspondence rather than a substantive political or intellectual argument. It does not identify the subject of the proposed meeting or provide further information about the relationship between Raju, Singh, and Mr. Masani.
+
 ## Key points
 
 - The letter is dated January 13, 1970.

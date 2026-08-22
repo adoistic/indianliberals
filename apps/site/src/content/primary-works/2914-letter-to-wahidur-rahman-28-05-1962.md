@@ -47,6 +47,10 @@ summary: |-
   In this letter dated 28 May 1962, M. R. Masani acknowledges Wahidur Rahman's report about an unfortunate statement made by a Member of Parliament to a press correspondent. Masani agrees that the statement was regrettable but says that little can be done after the fact, especially because it is difficult to exercise control at a distance.
 ---
 
+## Summary
+
+In this letter dated 28 May 1962, M. R. Masani acknowledges Wahidur Rahman's report about an unfortunate statement made by a Member of Parliament to a press correspondent. Masani agrees that the statement was regrettable but says that little can be done after the fact, especially because it is difficult to exercise control at a distance.
+
 ## Key points
 
 - The letter is dated 28 May 1962 and is addressed to Wahidur Rahman.

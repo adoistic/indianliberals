@@ -44,6 +44,10 @@ summary: |-
   This letter, dated December 20, 1963, is from C. Rajagopalachari in Madras to M. R. Masani, M.P., in New Delhi. Rajagopalachari asks whether Masani will be unable to continue sending money from the Central Office budget to his Madras office, as had been done previously.
 ---
 
+## Summary
+
+This letter, dated December 20, 1963, is from C. Rajagopalachari in Madras to M. R. Masani, M.P., in New Delhi. Rajagopalachari asks whether Masani will be unable to continue sending money from the Central Office budget to his Madras office, as had been done previously.
+
 ## Key points
 
 - The letter is dated December 20, 1963.

@@ -51,6 +51,12 @@ summary: |-
   The letter stresses urgency and accuracy: the party’s publicity work is being delayed because correct addresses are unavailable, and incomplete or late addresses could cause candidates to miss limited publicity material and suffer an electoral disadvantage. A blank table headed “Name of Candidate” and “Name of Constituency” appears at the bottom of the page, apparently for supplying the requested information.
 ---
 
+## Summary
+
+This untitled Swatantra Party office letter, dated December 31, 1966, is signed by S. V. Raju in his capacity as Executive Secretary. Addressed to Mr. R. K. A. Narayan in Bombay, it requests the parliamentary constituency addresses of prospective party candidates standing in the recipient’s state.
+
+The letter stresses urgency and accuracy: the party’s publicity work is being delayed because correct addresses are unavailable, and incomplete or late addresses could cause candidates to miss limited publicity material and suffer an electoral disadvantage. A blank table headed “Name of Candidate” and “Name of Constituency” appears at the bottom of the page, apparently for supplying the requested information.
+
 ## Key points
 
 - The letter was issued by the Swatantra Party Central Office on December 31, 1966.

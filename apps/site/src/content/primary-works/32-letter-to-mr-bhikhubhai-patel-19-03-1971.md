@@ -51,6 +51,12 @@ summary: |-
   Pages 2 and 3 continue in handwritten Gujarati and appear to develop further political points, but the handwriting is not sufficiently legible to support a reliable English summary or verbatim Gujarati transcription. The writer's signature is also not safely identifiable from the rendered pages.
 ---
 
+## Summary
+
+This undated-title letter, dated 19 March 1971, is addressed to Bhikhubhai Narotambhai Patel of Olpad, via Sayan Station, Surat, Gujarat. On the visible English page, the writer argues that it was a mistake for the Swatantra Party to join three other parties whose policies were opposed to its own. The writer recommends that the party stand on its own and remain faithful to the 21 principles adopted when it was founded.
+
+Pages 2 and 3 continue in handwritten Gujarati and appear to develop further political points, but the handwriting is not sufficiently legible to support a reliable English summary or verbatim Gujarati transcription. The writer's signature is also not safely identifiable from the rendered pages.
+
 ## Key points
 
 - The letter is dated 19 March 1971 and addressed to Bhikhubhai Narotambhai Patel in Olpad, Gujarat.

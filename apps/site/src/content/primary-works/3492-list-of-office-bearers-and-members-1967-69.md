@@ -48,6 +48,10 @@ summary: |-
   This two-page administrative roster identifies the office-bearers and executive committee members of the Uttar Pradesh Swatantra Party. It records a president, two vice presidents, a general secretary, two joint secretaries, a treasurer, and twenty members, presenting their names, titles, professional descriptions, and postal addresses.
 ---
 
+## Summary
+
+This two-page administrative roster identifies the office-bearers and executive committee members of the Uttar Pradesh Swatantra Party. It records a president, two vice presidents, a general secretary, two joint secretaries, a treasurer, and twenty members, presenting their names, titles, professional descriptions, and postal addresses.
+
 ## Key points
 
 - The document is an organisational list for the Uttar Pradesh Swatantra Party.

@@ -54,6 +54,12 @@ summary: |-
   The circular encloses three General Council resolutions. These endorse circulating the proposed programme of the emerging political group and authorise the party president to set the date and venue of the National Convention. They also congratulate Jayaprakash Narayan on his non-violent movement, especially its support among Bihar’s students, and criticise the ruling Congress for failing to provide a “clean and honest administration.” A final resolution asks the Haryana government to investigate the arrest of Swatantra Party joint secretary Ramander Kalia, alleging that political vendetta may have been involved.
 ---
 
+## Summary
+
+National Executive Circular No. 120, dated June 19, 1974, reports on the Swatantra Party General Council meeting held in New Delhi on June 9–10. The circular welcomes efforts by several parties to create a “National Alternative” but maintains that the Swatantra Party’s final decision must be taken by a National Convention. It proposes convening that body quickly and recommends sending one delegate for every 100 members, citing the need to hold the convention in a hall with limited accommodation. The attached statewise table records 70,638 members and 705 representatives, based on membership as of September 30, 1973.
+
+The circular encloses three General Council resolutions. These endorse circulating the proposed programme of the emerging political group and authorise the party president to set the date and venue of the National Convention. They also congratulate Jayaprakash Narayan on his non-violent movement, especially its support among Bihar’s students, and criticise the ruling Congress for failing to provide a “clean and honest administration.” A final resolution asks the Haryana government to investigate the arrest of Swatantra Party joint secretary Ramander Kalia, alleging that political vendetta may have been involved.
+
 ## Key points
 
 - The General Council welcomed negotiations among opposition parties to create a National Alternative.

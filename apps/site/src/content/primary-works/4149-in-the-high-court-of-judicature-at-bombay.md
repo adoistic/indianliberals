@@ -53,6 +53,12 @@ summary: |-
   The listed materials range from the petitioner’s Statement of Policy dated 19/20 March 1960 to press coverage in The Times of India, a June 1989 notification issued under Section 29A of the Representation of the People Act, correspondence between the petitioners and the Election Commission in 1989 and 1994, and any other pre-petition correspondence. The page is a document list rather than the petition’s substantive legal argument; it does not disclose the relief sought, the grounds of challenge, or the identity of the second petitioner.
 ---
 
+## Summary
+
+This one-page 1994 filing is submitted in the High Court of Judicature at Bombay under its Ordinary Original and Constitutional Jurisdiction. Captioned “Swatantra Party (Maharashtra) and Another versus Union of India and Others,” it identifies the petitioners’ reliance on a series of documents concerning the party’s status and dealings with the Election Commission.
+
+The listed materials range from the petitioner’s Statement of Policy dated 19/20 March 1960 to press coverage in The Times of India, a June 1989 notification issued under Section 29A of the Representation of the People Act, correspondence between the petitioners and the Election Commission in 1989 and 1994, and any other pre-petition correspondence. The page is a document list rather than the petition’s substantive legal argument; it does not disclose the relief sought, the grounds of challenge, or the identity of the second petitioner.
+
 ## Key points
 
 - The document is a High Court of Judicature at Bombay writ-petition filing from 1994.

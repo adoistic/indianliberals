@@ -48,6 +48,12 @@ summary: |-
   Kripalani proposes arranging a preliminary meeting among Rajaji, Jayaprakash Narayan, Minoo Masani, and himself. He asks Rajaji to communicate with Masani, while cautioning that the reaction of “Ranga's” to such a meeting would also need to be considered. He separately agrees to the publication of explanatory notes on the six points, provided he receives a copy showing the final division of his article into sections. The document is marked “(true copy)” and does not print a formal title.
 ---
 
+## Summary
+
+This one-page letter, written by J. B. Kripalani from Lucknow on June 19, 1963, is addressed to Rajaji after the election results were announced. Kripalani says he has been travelling in his constituency to thank voters and reports that he has sent Rajaji copies of his speech at the Unity Conference and his explanation of a six-point common programme to Jayaprakash Narayan, without receiving a response.
+
+Kripalani proposes arranging a preliminary meeting among Rajaji, Jayaprakash Narayan, Minoo Masani, and himself. He asks Rajaji to communicate with Masani, while cautioning that the reaction of “Ranga's” to such a meeting would also need to be considered. He separately agrees to the publication of explanatory notes on the six points, provided he receives a copy showing the final division of his article into sections. The document is marked “(true copy)” and does not print a formal title.
+
 ## Key points
 
 - The letter is dated June 19, 1963, and was sent from 11, Gautam Palli, Lucknow.

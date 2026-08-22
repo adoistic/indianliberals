@@ -58,6 +58,12 @@ summary: |-
   Masani presents his resignation as an ethical protest rather than a withdrawal from political work. He argues that the Party must put the country before the Party, restore public credibility through truthfulness and disciplined functioning, and pursue “constructive work” outside its executive bodies, including training young workers and campaigning for candidates who uphold its principles. The document closes with Masani making his resignation public and leaving open a future return if the Party accepts that its means must be as clean as its ends.
 ---
 
+## Summary
+
+This four-page document reproduces correspondence concerning M. R. Masani’s resignation from the Swatantra Party’s National Executive and Parliamentary Board in April–May 1968. N. Dandeker’s letter of 22 April records the unanimous request of the Central Parliamentary Board and National Executive that Masani withdraw his resignation, on the grounds that disciplinary action had already been initiated against Mahida and five supporters of his candidacy. Masani’s reply of 13 May rejects that appeal, arguing that the Party had failed to address breaches of discipline and electoral conduct in Gujarat and had instead treated the issue as a minor misunderstanding.
+
+Masani presents his resignation as an ethical protest rather than a withdrawal from political work. He argues that the Party must put the country before the Party, restore public credibility through truthfulness and disciplined functioning, and pursue “constructive work” outside its executive bodies, including training young workers and campaigning for candidates who uphold its principles. The document closes with Masani making his resignation public and leaving open a future return if the Party accepts that its means must be as clean as its ends.
+
 ## Key points
 
 - N. Dandeker reports that the Swatantra Party’s Central Parliamentary Board and National Executive unanimously asked Masani to withdraw his resignation.

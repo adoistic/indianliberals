@@ -55,6 +55,12 @@ summary: |-
   The extract then describes the apparent suppression of Freedom First through a printer's letter announcing that no further issues could be produced and that the printer's association with the journal would end with the August issue. Masani attributed the letter to official pressure and characterized the episode as "a war of nerves."
 ---
 
+## Summary
+
+This one-page Washington Post extract dated 11 September 1976 reports Minoo Masani's legal conflict with the censor over Freedom First, a monthly pamphlet advocating free trade and liberal principles. It says the Bombay High Court ruled firmly in Masani's favour, endorsing the view that censorship should serve democracy rather than destroy it.
+
+The extract then describes the apparent suppression of Freedom First through a printer's letter announcing that no further issues could be produced and that the printer's association with the journal would end with the August issue. Masani attributed the letter to official pressure and characterized the episode as "a war of nerves."
+
 ## Key points
 
 - Minoo Masani is described as a retired politician and former ambassador.

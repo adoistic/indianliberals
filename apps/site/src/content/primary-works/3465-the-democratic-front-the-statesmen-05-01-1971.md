@@ -51,6 +51,12 @@ summary: |-
   The editorial also questions the coherence of the democratic opposition. It faults separate election symbols and manifestos, warns against opportunistic alliances and the use of official machinery, and contrasts calls for unity with the continuing divisions among opposition leaders. It specifically examines C. Rajagopalachari's appeal for the Swatantra Party's participation and Charan Singh's changing position, concluding that a democratic front requires substantive agreement rather than merely tactical cooperation.
 ---
 
+## Summary
+
+The editorial, published in The Statesman on 5 January 1971, welcomes the three-party electoral front formed by Congress (O), Jana Sangh and the Samyukta Socialist Party as a possible step toward consolidating democratic forces. It argues that the alliance could have offered a credible alternative to the government, but criticises the Swatantra Party's last-minute withdrawal and the dilution of the proposed common minimum programme into a narrower electoral arrangement.
+
+The editorial also questions the coherence of the democratic opposition. It faults separate election symbols and manifestos, warns against opportunistic alliances and the use of official machinery, and contrasts calls for unity with the continuing divisions among opposition leaders. It specifically examines C. Rajagopalachari's appeal for the Swatantra Party's participation and Charan Singh's changing position, concluding that a democratic front requires substantive agreement rather than merely tactical cooperation.
+
 ## Key points
 
 - The editorial welcomes the Congress (O), Jana Sangh and Samyukta Socialist Party electoral front as a possible consolidation of democratic forces.

@@ -52,6 +52,10 @@ summary: |-
   In this speech delivered in Bombay on 11 June 1965, M. R. Masani argues that India’s strategic attention is fixed on its northern and western frontiers while its “backyard”—South-East Asia—is being neglected. He surveys India’s strained relations with Pakistan, China, Nepal, the Naga movement, Burma, Laos, Vietnam, Malaysia, and Indonesia, and contends that India has failed to cultivate regional friendships or recognize the interconnectedness of Asian security. Drawing on a 1961 report by Samar Guha commissioned by Jayaprakash Narayan, Masani presents South-East Asian governments as having sought greater Indian leadership and regional cooperation.
 ---
 
+## Summary
+
+In this speech delivered in Bombay on 11 June 1965, M. R. Masani argues that India’s strategic attention is fixed on its northern and western frontiers while its “backyard”—South-East Asia—is being neglected. He surveys India’s strained relations with Pakistan, China, Nepal, the Naga movement, Burma, Laos, Vietnam, Malaysia, and Indonesia, and contends that India has failed to cultivate regional friendships or recognize the interconnectedness of Asian security. Drawing on a 1961 report by Samar Guha commissioned by Jayaprakash Narayan, Masani presents South-East Asian governments as having sought greater Indian leadership and regional cooperation.
+
 ## Key points
 
 - Masani frames South-East Asia as India’s neglected strategic backyard and links regional conflicts to India’s own security.

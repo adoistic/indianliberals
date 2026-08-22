@@ -50,6 +50,12 @@ summary: |-
   The letter explains that party meetings are generally held in committee rooms, which are made available whenever required, including at short notice. It rejects a request for Room No. 19 on the grounds that it falls within the quota allotted to Lok Sabha Secretariat officers and is occupied by the Speaker's Private Secretary. It also records that, at N.G. Ranga's request, three stenographers were being moved from Members' Lounge No. 2 in Central Hall. The document is administrative correspondence rather than an argument or policy essay.
 ---
 
+## Summary
+
+This one-page official letter, dated 26 May 1967, is from R.P. Kaushik, Deputy Secretary of the Lok Sabha Secretariat, to M.R. Masani, M.P. Its subject is the allotment of office rooms to parliamentary parties and groups in Parliament House. The Secretariat states that Masani's group had already been allotted a room in the Central Hall lobby during the previous Parliament, while rooms of the same size or smaller had been allotted to other parties and groups for use as party offices.
+
+The letter explains that party meetings are generally held in committee rooms, which are made available whenever required, including at short notice. It rejects a request for Room No. 19 on the grounds that it falls within the quota allotted to Lok Sabha Secretariat officers and is occupied by the Speaker's Private Secretary. It also records that, at N.G. Ranga's request, three stenographers were being moved from Members' Lounge No. 2 in Central Hall. The document is administrative correspondence rather than an argument or policy essay.
+
 ## Key points
 
 - The letter concerns office-room allotments for parliamentary parties and groups.

@@ -48,6 +48,12 @@ summary: |-
   Masani proposes that the opposition group leaders meet on the same day, but at a different time: the Swatantra Party should meet late in the morning or early in the afternoon, followed by the group meeting later that afternoon or in the evening. The letter reflects practical coordination within opposition-party politics rather than a discussion of policy.
 ---
 
+## Summary
+
+This letter from M. R. Masani to A. P. Jain, dated 12 June 1963, concerns the scheduling of two political meetings before an upcoming session. Masani refers to Professor Ranga's proposed meetings and agrees that the Swatantra Party's own meeting should take place on Monday, 12 August, the day before the session begins.
+
+Masani proposes that the opposition group leaders meet on the same day, but at a different time: the Swatantra Party should meet late in the morning or early in the afternoon, followed by the group meeting later that afternoon or in the evening. The letter reflects practical coordination within opposition-party politics rather than a discussion of policy.
+
 ## Key points
 
 - The letter is dated 12 June 1963 and is addressed to A. P. Jain.

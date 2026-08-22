@@ -47,6 +47,10 @@ summary: |-
   In this letter dated 5 February 1975, Lt. Col. H. R. Pasricha informs S. V. Raju that he had received similar telegrams from V. S. Srikumar and Sundaram concerning an unspecified matter before Raju's telegram arrived. Pasricha reports that he visited the Election Commission Office and spoke with the Under Secretary (Legal), who was handling the matter and had received the telegrams.
 ---
 
+## Summary
+
+In this letter dated 5 February 1975, Lt. Col. H. R. Pasricha informs S. V. Raju that he had received similar telegrams from V. S. Srikumar and Sundaram concerning an unspecified matter before Raju's telegram arrived. Pasricha reports that he visited the Election Commission Office and spoke with the Under Secretary (Legal), who was handling the matter and had received the telegrams.
+
 ## Key points
 
 - The letter is addressed to S. V. Raju and dated 5 February 1975.

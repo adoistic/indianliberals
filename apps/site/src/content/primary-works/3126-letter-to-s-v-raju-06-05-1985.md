@@ -50,6 +50,12 @@ summary: |-
   The letter refers to Minoo Masani’s “As I see it” columns, including one discussing N. T. R. and political efforts that the sender considers outdated or unsuitable to present conditions. The sender nevertheless expresses confidence that Raju can give the material “a good start” and closes with cordial regards to Masani. The sender’s signature is not legible in the rendered scans.
 ---
 
+## Summary
+
+This handwritten English letter, dated 6 May 1985 and addressed to S. V. Raju in Bombay, apologizes for a delay in sending papers and explains that some papers were transferred to the sender’s Singapore residence. The sender says the papers may be useful for their forthcoming meeting and discussion of future political activities.
+
+The letter refers to Minoo Masani’s “As I see it” columns, including one discussing N. T. R. and political efforts that the sender considers outdated or unsuitable to present conditions. The sender nevertheless expresses confidence that Raju can give the material “a good start” and closes with cordial regards to Masani. The sender’s signature is not legible in the rendered scans.
+
 ## Key points
 
 - The writer apologizes for an inordinate delay in sending papers.

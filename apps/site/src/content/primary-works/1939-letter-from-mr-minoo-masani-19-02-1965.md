@@ -50,6 +50,12 @@ summary: |-
   Masani explains that paragraph (b) of the amendment was accidentally omitted from the circulated copy. He requests that the amendment be reduplicated and circulated with the missing paragraph restored, which he considers important. He also suggests dropping any clauses beyond the contained paragraph if they do not form part of the amendment tabled by his group.
 ---
 
+## Summary
+
+In this letter dated February 19, 1965, M. R. Masani writes from the Parliamentary Group Office to the Secretary of the Lok Sabha, for the attention of Mr. P. K. Patnaik. He refers to an amendment to the President's Address that had been tabled in his name and in the names of others in List 2.
+
+Masani explains that paragraph (b) of the amendment was accidentally omitted from the circulated copy. He requests that the amendment be reduplicated and circulated with the missing paragraph restored, which he considers important. He also suggests dropping any clauses beyond the contained paragraph if they do not form part of the amendment tabled by his group.
+
 ## Key points
 
 - The letter is dated February 19, 1965, and originates from 57 Lodi Estate, New Delhi 3.

@@ -50,6 +50,12 @@ summary: |-
   The agenda includes confirmation of the previous meeting’s minutes, follow-up on resolutions adopted at the Party’s 15 February special convention, further action concerning Shri M. R. Pai’s Bill, proposals for decentralised fund collection, preparation of policy papers requested by National Headquarters, workers’ training under Col. Sawhny’s programme, and consideration of correspondence from Mr. Chinoy and Dr. V. Y. Kolbekar. The notice does not record the meeting’s proceedings or decisions.
 ---
 
+## Summary
+
+This one-page English notice, issued by the Swatantra Party’s Bombay Region on 18 March 1970, convenes a meeting of the regional Executive Committee for 25 March 1970 at Hiren H. Shah’s residence in Andheri, Bombay. Signed by Office Secretary K. S. Srinivasan, it records the meeting’s administrative and political agenda.
+
+The agenda includes confirmation of the previous meeting’s minutes, follow-up on resolutions adopted at the Party’s 15 February special convention, further action concerning Shri M. R. Pai’s Bill, proposals for decentralised fund collection, preparation of policy papers requested by National Headquarters, workers’ training under Col. Sawhny’s programme, and consideration of correspondence from Mr. Chinoy and Dr. V. Y. Kolbekar. The notice does not record the meeting’s proceedings or decisions.
+
 ## Key points
 
 - The Swatantra Party’s Bombay Region scheduled an Executive Committee meeting for 25 March 1970.

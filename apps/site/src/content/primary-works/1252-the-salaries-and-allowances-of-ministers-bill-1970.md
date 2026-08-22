@@ -53,6 +53,12 @@ summary: |-
   The document argues that the measure would not reduce ministers' existing net salary or the aggregate value of their emoluments. Instead, it would make benefits such as rent-free housing and furnishings, domestic staff, electricity and water, personal use of motor cars, travel allowances, and telephone facilities subject to taxation. The publication note identifies the bill as a Swatantra Party initiative following a 20 July 1970 National Executive meeting in Madras, and estimates the listed perquisites at an average of Rs. 4,44,000 per year, or Rs. 37,000 per month.
 ---
 
+## Summary
+
+This three-page draft memorandum presents the Swatantra Party's proposed Salaries & Allowances of Ministers Bill, 1970. Its stated purpose is to disclose to the public, and especially to taxpayers, the full value of the salaries, benefits, perquisites, and amenities received by ministers of the Central Government. The proposal would convert tax-free benefits into money terms and increase gross salaries so that ministers' post-tax income would preserve their existing net salary and overall remuneration.
+
+The document argues that the measure would not reduce ministers' existing net salary or the aggregate value of their emoluments. Instead, it would make benefits such as rent-free housing and furnishings, domestic staff, electricity and water, personal use of motor cars, travel allowances, and telephone facilities subject to taxation. The publication note identifies the bill as a Swatantra Party initiative following a 20 July 1970 National Executive meeting in Madras, and estimates the listed perquisites at an average of Rs. 4,44,000 per year, or Rs. 37,000 per month.
+
 ## Key points
 
 - The bill seeks to make the public aware of ministers' total emoluments and their cost to taxpayers.

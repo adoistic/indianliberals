@@ -53,6 +53,12 @@ summary: |-
   The stated agenda covers four items: business before Parliament, discussion of the General Budget, submission of a committee report, and any other item permitted by the Chair. The document is an administrative party notice rather than a substantive statement of policy.
 ---
 
+## Summary
+
+This one-page Swatantra Party Parliamentary Office circular, dated 4 March 1965, informs all members of the Executive Committee that a meeting will be held on Monday, 8 March 1965, at 10:15 a.m. in the Party Committee Room in Parliament House. The notice is signed by Shri M. R. Masani and P. K. Sodhi, Secretary.
+
+The stated agenda covers four items: business before Parliament, discussion of the General Budget, submission of a committee report, and any other item permitted by the Chair. The document is an administrative party notice rather than a substantive statement of policy.
+
 ## Key points
 
 - The circular is issued by the Swatantra Party Parliamentary Office.

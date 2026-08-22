@@ -50,6 +50,12 @@ summary: |-
   It states that bulk purchasers of 100 copies or more receive the usual 25% discount, while a single copy costs 20 paise. The document is signed by A. X. Coelho, identified as Office Manager. The advertised publication by M. R. Masani is not included in the rendered page and should not be treated as part of this circular’s contents.
 ---
 
+## Summary
+
+This one-page English office circular, issued by the Swatantra Party Central Office in Bombay on December 17, 1965, announces the enclosure of a publication titled “Our Foreign Policy” by M. R. Masani. The circular is addressed to a general recipient as “Dear Friend” and functions primarily as a distribution notice rather than an argument about foreign policy itself.
+
+It states that bulk purchasers of 100 copies or more receive the usual 25% discount, while a single copy costs 20 paise. The document is signed by A. X. Coelho, identified as Office Manager. The advertised publication by M. R. Masani is not included in the rendered page and should not be treated as part of this circular’s contents.
+
 ## Key points
 
 - The document is headed “CENTRAL OFFICE CIRCULAR NO. 42.”

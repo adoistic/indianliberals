@@ -51,6 +51,12 @@ summary: |-
   The letter lists proposed dates for conventions in Mysore, Madras, Rajasthan, Orissa, Gujarat, Andhra, and Punjab, and asks recipients to confirm the date and venue for their respective State convention. It also announces that the National Convention is tentatively fixed for Delhi in the first half of November. The supplied filename identifies the document as Letter No. 123, while the page itself labels it General Secretary’s Letter No. 122.
 ---
 
+## Summary
+
+Dated June 6, 1966, this one-page letter from M. R. Masani, General Secretary of the Swatantra Party, communicates a schedule of forthcoming conventions for the Party’s State Units. It explains that the schedule was prepared at a meeting of State Unit secretaries in Bombay on May 29 to avoid clashes of dates and to enable Party leaders to attend the conventions when invited.
+
+The letter lists proposed dates for conventions in Mysore, Madras, Rajasthan, Orissa, Gujarat, Andhra, and Punjab, and asks recipients to confirm the date and venue for their respective State convention. It also announces that the National Convention is tentatively fixed for Delhi in the first half of November. The supplied filename identifies the document as Letter No. 123, while the page itself labels it General Secretary’s Letter No. 122.
+
 ## Key points
 
 - M. R. Masani writes as General Secretary of the Swatantra Party.

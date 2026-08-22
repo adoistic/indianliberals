@@ -54,6 +54,12 @@ summary: |-
   The committee further considers relief during cyclones and floods, including a proposed cyclone or food-relief fund, debt repayment and tax arrears, and the cancellation of hereditary debts incurred by landless labourers. Prof. Ranga argues for extended security of tenure and tenant first-option rights when land is sold, while the discussion generally treats land reform as requiring both protection for cultivators and practical information about existing state legislation. The document is headed “Draft Minutes” and is dated by a handwritten notation as 12-4-70; no formal author, publisher, or printed title is visible.
 ---
 
+## Summary
+
+This two-page draft records a committee meeting appointed by the National Executive to examine the agricultural resolution adopted by the Fifth National Convention and recommend any necessary modifications. The discussion focuses on two issues: the resumption of land by landlords from tenants or sharecroppers, and the relationship between minimum agricultural wages and floor prices. Members consider tenant security, absentee landlordism, guarantees against eviction, rent fixation, tenants’ purchase options, and the possibility of state loans to finance such purchases. The minutes also request comparative data on land legislation, landholding patterns, minimum-wage laws, actual agricultural remuneration, and Agricultural Prices Commission principles.
+
+The committee further considers relief during cyclones and floods, including a proposed cyclone or food-relief fund, debt repayment and tax arrears, and the cancellation of hereditary debts incurred by landless labourers. Prof. Ranga argues for extended security of tenure and tenant first-option rights when land is sold, while the discussion generally treats land reform as requiring both protection for cultivators and practical information about existing state legislation. The document is headed “Draft Minutes” and is dated by a handwritten notation as 12-4-70; no formal author, publisher, or printed title is visible.
+
 ## Key points
 
 - The committee was asked to examine the agricultural resolution adopted by the Fifth National Convention.

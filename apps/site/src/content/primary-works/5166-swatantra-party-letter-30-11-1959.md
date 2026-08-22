@@ -49,6 +49,12 @@ summary: |-
   The letter praises the people of Coorg as among the most progressive and valiant in India, noting their contribution to the country's military leadership. It closes by wishing the conference success. The author's identity, recipient, and signature are not visible on the rendered page.
 ---
 
+## Summary
+
+This single-page English letter, dated 30 November 1959, expresses regret at the writer's inability to attend the Swatantra Party District Conference in Coorg because of a previous engagement in Calcutta. The writer conveys support for the conference and confidence in the party's prospects in the district.
+
+The letter praises the people of Coorg as among the most progressive and valiant in India, noting their contribution to the country's military leadership. It closes by wishing the conference success. The author's identity, recipient, and signature are not visible on the rendered page.
+
 ## Key points
 
 - The letter is dated 30 November 1959.

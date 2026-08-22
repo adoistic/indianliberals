@@ -48,6 +48,10 @@ summary: |-
   This letter, dated 16 May 1968 and sent from Mangalore by J. M. Lobo Prabhu to Minoo Masani, is a sharply worded intervention in a dispute within the Swatantra Party. Prabhu argues that Masani’s demand for “ethical and disciplined functioning” risks publicly suggesting that the Party is worse than its opponents, and he criticises Masani’s treatment of Ranga and Dandekar as implying a monopoly on rectitude. He further describes Masani’s claim to supersede the National Executive and the Gujarat State Unit in deciding disciplinary action as undemocratic and undisciplined.
 ---
 
+## Summary
+
+This letter, dated 16 May 1968 and sent from Mangalore by J. M. Lobo Prabhu to Minoo Masani, is a sharply worded intervention in a dispute within the Swatantra Party. Prabhu argues that Masani’s demand for “ethical and disciplined functioning” risks publicly suggesting that the Party is worse than its opponents, and he criticises Masani’s treatment of Ranga and Dandekar as implying a monopoly on rectitude. He further describes Masani’s claim to supersede the National Executive and the Gujarat State Unit in deciding disciplinary action as undemocratic and undisciplined.
+
 ## Key points
 
 - Prabhu warns that public criticism of the Party’s internal conduct could be exploited by political opponents during elections.

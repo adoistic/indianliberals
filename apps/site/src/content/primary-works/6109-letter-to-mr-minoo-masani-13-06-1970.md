@@ -48,6 +48,10 @@ summary: |-
   This single-page letter, dated June 15, 1970, is addressed to Minoo Masani and signed by S. V. Raju. Raju sends materials requested in Masani’s June 7 letter: a May 9 issue of Swarajya welcoming President Nixon’s action, additional Swarajya comments on Indo-China matters, a Statesman clipping reporting on Masani’s press conference at Srinagar, and a press handout from the Dhanbad Convention.
 ---
 
+## Summary
+
+This single-page letter, dated June 15, 1970, is addressed to Minoo Masani and signed by S. V. Raju. Raju sends materials requested in Masani’s June 7 letter: a May 9 issue of Swarajya welcoming President Nixon’s action, additional Swarajya comments on Indo-China matters, a Statesman clipping reporting on Masani’s press conference at Srinagar, and a press handout from the Dhanbad Convention.
+
 ## Key points
 
 - The letter is dated June 15, 1970, and addressed to Mr. Masani.

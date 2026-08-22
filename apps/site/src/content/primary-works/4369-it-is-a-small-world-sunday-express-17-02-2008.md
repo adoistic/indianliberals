@@ -47,3 +47,9 @@ summary: |-
   
   The article combines personal histories, quotations, and photographs to present the men as performers and workers rather than objects of pity. The rendered pages also contain other newspaper material, including a brief item on NATO perspectives and additional photographs, but those pieces are not sufficiently visible here for detailed summary.
 ---
+
+## Summary
+
+The rendered pages from this February 17, 2008 Sunday Express issue include the feature “It is a Small World,” reported by Shevlin Sebastian. The article profiles a group of unusually short men from Kerala who have formed a performance troupe and found work, companionship, and public visibility through entertainment. It also describes their everyday experiences of being stared at, mocked, or treated as curiosities, while emphasizing their determination to live and work on their own terms.
+
+The article combines personal histories, quotations, and photographs to present the men as performers and workers rather than objects of pity. The rendered pages also contain other newspaper material, including a brief item on NATO perspectives and additional photographs, but those pieces are not sufficiently visible here for detailed summary.

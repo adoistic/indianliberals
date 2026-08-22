@@ -50,6 +50,12 @@ summary: |-
   The report presents Masani as rejecting responsibility for naming or owning the alliance. He described it first as a “nameless front” and then dismissed it as simply “a front,” refusing reporters’ suggestion that he should christen it.
 ---
 
+## Summary
+
+This one-page Statesman clipping reports remarks by M. R. Masani, president of the Swatantra Party, about a four-party electoral front led by Congress (O). Masani said the alliance had briefly been called the “Democratic Front” before the name was withdrawn on January 2 at the insistence of the SSP.
+
+The report presents Masani as rejecting responsibility for naming or owning the alliance. He described it first as a “nameless front” and then dismissed it as simply “a front,” refusing reporters’ suggestion that he should christen it.
+
 ## Key points
 
 - The clipping is datelined Madras, January 10, and reports remarks attributed to M. R. Masani.

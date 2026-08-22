@@ -48,6 +48,12 @@ summary: |-
   The enclosed invitation, dated 28 December 1969 and signed by D. Nanda, provides further context for the request. It describes the conference as part of the Golden Jubilee celebrations of the Institution of Engineers (India), Orissa Centre, notes that each organising body has more than 3,500 members, and says that engineers and technologists from medical, agricultural, and veterinary fields will participate. The organisers hope Masani will offer guidance on problems facing technologists and engineers. The main letter is undated; the document is catalogued with the year 1969 because of the enclosed invitation.
 ---
 
+## Summary
+
+This three-page correspondence records R. B. Mishra’s response to M. R. Masani’s election as President of the Swatantra Party of India. Mishra congratulates Masani, apologises for missing the party’s meeting in Madras, and invites him to visit Orissa in the second fortnight of January 1970. The proposed programme includes Masani serving as Chief Guest at the annual conference of the Orissa Engineering Congress and the Orissa Engineers Service Association on 19–20 January 1970.
+
+The enclosed invitation, dated 28 December 1969 and signed by D. Nanda, provides further context for the request. It describes the conference as part of the Golden Jubilee celebrations of the Institution of Engineers (India), Orissa Centre, notes that each organising body has more than 3,500 members, and says that engineers and technologists from medical, agricultural, and veterinary fields will participate. The organisers hope Masani will offer guidance on problems facing technologists and engineers. The main letter is undated; the document is catalogued with the year 1969 because of the enclosed invitation.
+
 ## Key points
 
 - R. B. Mishra congratulates M. R. Masani on becoming President of the Swatantra Party of India.

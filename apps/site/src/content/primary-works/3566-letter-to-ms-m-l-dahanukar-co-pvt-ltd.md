@@ -45,6 +45,12 @@ summary: |-
   A clearly legible entry on the first page refers to “M/s M. L. Dahanukar & Co. Pvt. Ltd.” The second page continues the list and includes a visible “TISCO” entry, along with further names and addresses. No date, salutation, signature, authorial identification, title, or explanation of the list’s purpose is visible in the rendered pages; the document’s classification as a letter therefore remains provisional.
 ---
 
+## Summary
+
+The two rendered pages contain a handwritten list of names and postal addresses, apparently assembled for correspondence or office reference. The entries include individuals and firms in Bombay, Calcutta, and other locations, with several addresses partially obscured, overwritten, or difficult to decipher.
+
+A clearly legible entry on the first page refers to “M/s M. L. Dahanukar & Co. Pvt. Ltd.” The second page continues the list and includes a visible “TISCO” entry, along with further names and addresses. No date, salutation, signature, authorial identification, title, or explanation of the list’s purpose is visible in the rendered pages; the document’s classification as a letter therefore remains provisional.
+
 ## Key points
 
 - The document consists of two handwritten pages dominated by names and postal addresses.

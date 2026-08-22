@@ -59,6 +59,14 @@ summary: |-
   The report also cites the party’s proposed organisational renewal: social and economic modernisation, attention to underprivileged and tribal communities, engagement with youth, consumer organisation, and stronger protection for minorities. Its final emphasis is ethical and organisational, calling for disciplined work, high standards of conduct, and a willingness to examine and correct the party’s own deficiencies.
 ---
 
+## Summary
+
+This confidential Swatantra Party President’s Report recounts negotiations from July 1970 through January 1971 to consolidate a national democratic opposition front. It reproduces the General Council’s endorsement of cooperation with the Congress (Organisation), and identifies the proposed basis of cooperation as national unity and security, constitutional liberties, democratic institutions, law and order, secularism, social and economic justice, equality of status, and a basic minimum standard of living. The report initially envisages both a common parliamentary bloc and an electoral pact in which participating parties would field one agreed candidate per constituency.
+
+The account then follows repeated attempts to secure agreement among the Congress(O), Bharatiya Jana Sangh, and Bharatiya Kranti Dal, later involving the Socialist Party. The narrator presents the negotiations as hampered by delay, disagreement over a common programme, and last-minute changes. A Democratic Front was announced in January 1971, but the Swatantra Party objected to an arrangement that reduced the alliance to electoral adjustments without an agreed programme. The report concludes that the failed alliance contributed to the opposition’s electoral defeat and turns inward, arguing that the party’s weak organisation, inadequate funds, loss of popular enthusiasm, and failure to implement its own mid-term programme had narrowed its options.
+
+The report also cites the party’s proposed organisational renewal: social and economic modernisation, attention to underprivileged and tribal communities, engagement with youth, consumer organisation, and stronger protection for minorities. Its final emphasis is ethical and organisational, calling for disciplined work, high standards of conduct, and a willingness to examine and correct the party’s own deficiencies.
+
 ## Key points
 
 - The Swatantra Party General Council approved cooperation with other democratic forces in response to what it described as grave threats to the country.

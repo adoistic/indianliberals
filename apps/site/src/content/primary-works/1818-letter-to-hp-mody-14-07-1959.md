@@ -47,6 +47,10 @@ summary: |-
   This 14 July 1959 letter from Saharanpur is Yajna Datta Tyagi’s congratulatory message to H. P. Mody on his election as Treasurer of the newly formed Swatantra Party. Tyagi recalls his earlier association with Mody during Mody’s governorship of Uttar Pradesh and at the 1950 All India Diplomatic Studies Convention in Allahabad. He also describes his own work as a lawyer and as editor of the Hindi weekly Loksatta, and offers his active cooperation to the party.
 ---
 
+## Summary
+
+This 14 July 1959 letter from Saharanpur is Yajna Datta Tyagi’s congratulatory message to H. P. Mody on his election as Treasurer of the newly formed Swatantra Party. Tyagi recalls his earlier association with Mody during Mody’s governorship of Uttar Pradesh and at the 1950 All India Diplomatic Studies Convention in Allahabad. He also describes his own work as a lawyer and as editor of the Hindi weekly Loksatta, and offers his active cooperation to the party.
+
 ## Key points
 
 - Tyagi congratulates H. P. Mody on becoming Treasurer of the Swatantra Party.

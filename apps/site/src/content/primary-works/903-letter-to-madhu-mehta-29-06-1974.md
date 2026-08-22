@@ -52,6 +52,10 @@ summary: |-
   In this two-page letter dated 29 June 1974, Lt. Col. H. R. Pasricha writes to Swatantra Party Vice-President Madhu Mehta about proposed convention representation and the conduct of the party's leadership. He supports the principle of one delegate per hundred members but insists on a maximum delegation for each state, arguing that an upper limit is necessary to prevent the leadership from manipulating the convention by bringing in disproportionately large numbers from one state. He also challenges the accuracy and fairness of recent accounts of party proceedings, citing the handling of the proposed “Two Party” idea and the reported position of the Gujarat Party's General Secretary.
 ---
 
+## Summary
+
+In this two-page letter dated 29 June 1974, Lt. Col. H. R. Pasricha writes to Swatantra Party Vice-President Madhu Mehta about proposed convention representation and the conduct of the party's leadership. He supports the principle of one delegate per hundred members but insists on a maximum delegation for each state, arguing that an upper limit is necessary to prevent the leadership from manipulating the convention by bringing in disproportionately large numbers from one state. He also challenges the accuracy and fairness of recent accounts of party proceedings, citing the handling of the proposed “Two Party” idea and the reported position of the Gujarat Party's General Secretary.
+
 ## Key points
 
 - Pasricha proposes a maximum limit on the number of delegates from each state in addition to proportional representation.

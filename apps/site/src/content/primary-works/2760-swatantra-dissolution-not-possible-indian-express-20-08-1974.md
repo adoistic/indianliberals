@@ -52,6 +52,12 @@ summary: |-
   The resolution rejects the proposal to dissolve the Swatantra Party together with six other parties to facilitate the creation of a new party. It argues that the Swatantra Party’s principles and policies remain valid, that a new party based only on a vague general programme would not provide a genuine national alternative, and that retaining the Congress and Jan Sangh as separate opposition parties would frustrate the emergence of a two-party system. The Maharashtra State Council therefore requests another General Council meeting to reconsider dissolution, while stating that, if dissolution is nevertheless approved, the Maharashtra organisation will retain the Swatantra identity, message, and flag.
 ---
 
+## Summary
+
+This two-page archival file combines an Indian Express clipping dated Madras, 19 August 1974, with a typed resolution adopted by the State Council of the Swatantra Party, Maharashtra, at Bombay on 6 July 1974. The clipping reports a Civil Court judge’s view that the proposed dissolution of the Swatantra Party could not be prevented through the petition before him, because the party’s convention had already taken place and there was no immediate danger requiring judicial intervention.
+
+The resolution rejects the proposal to dissolve the Swatantra Party together with six other parties to facilitate the creation of a new party. It argues that the Swatantra Party’s principles and policies remain valid, that a new party based only on a vague general programme would not provide a genuine national alternative, and that retaining the Congress and Jan Sangh as separate opposition parties would frustrate the emergence of a two-party system. The Maharashtra State Council therefore requests another General Council meeting to reconsider dissolution, while stating that, if dissolution is nevertheless approved, the Maharashtra organisation will retain the Swatantra identity, message, and flag.
+
 ## Key points
 
 - The file contains both a newspaper report and a formal Swatantra Party resolution.

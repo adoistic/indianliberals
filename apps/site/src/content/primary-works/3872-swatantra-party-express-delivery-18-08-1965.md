@@ -50,6 +50,10 @@ summary: |-
   This one-page Swatantra Party Central Office circular, dated 18 August 1965, announces a meeting of the Central Parliamentary Sub-Committee. It informs recipients that the meeting will take place on Saturday, 28 August, at 10 a.m. in the party leader's room at 44 Western Court, New Delhi.
 ---
 
+## Summary
+
+This one-page Swatantra Party Central Office circular, dated 18 August 1965, announces a meeting of the Central Parliamentary Sub-Committee. It informs recipients that the meeting will take place on Saturday, 28 August, at 10 a.m. in the party leader's room at 44 Western Court, New Delhi.
+
 ## Key points
 
 - The document is an internal Swatantra Party office circular.

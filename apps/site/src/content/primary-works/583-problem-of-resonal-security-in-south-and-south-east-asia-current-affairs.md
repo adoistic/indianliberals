@@ -54,6 +54,12 @@ summary: |-
   In the rendered pages, Masani criticizes nationalism when it becomes chauvinism, xenophobia, economic autarky, or an excuse for refusing to judge between freedom and tyranny. He distinguishes legitimate national independence from non-alignment understood as moral evasion, and calls instead for interdependence, international cooperation, and a regional order grounded in political freedom. His economic argument links Soviet-style planning and autarkic industrialization to wasted capital, food shortages, and debt; he prefers productive infrastructure, equity investment, conditional aid, and frank intellectual cooperation. The essay closes by presenting Asia’s choice as one between participation in a wider world order and Balkanization, while warning that Cold War ideological conflict remains acute in Asia.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that the ideal of Asian unity has been damaged by competing nationalisms, Communist expansion, regional rivalries, and the weakening of meaningful national sovereignty. He surveys conflicts and alignments involving Pakistan, Afghanistan, India, Burma, Ceylon, Laos, Vietnam, Cambodia, Malaysia, Indonesia, China, and the Middle East, presenting the security environment as one in which neighbouring states repeatedly undermine one another instead of responding collectively to external threats.
+
+In the rendered pages, Masani criticizes nationalism when it becomes chauvinism, xenophobia, economic autarky, or an excuse for refusing to judge between freedom and tyranny. He distinguishes legitimate national independence from non-alignment understood as moral evasion, and calls instead for interdependence, international cooperation, and a regional order grounded in political freedom. His economic argument links Soviet-style planning and autarkic industrialization to wasted capital, food shortages, and debt; he prefers productive infrastructure, equity investment, conditional aid, and frank intellectual cooperation. The essay closes by presenting Asia’s choice as one between participation in a wider world order and Balkanization, while warning that Cold War ideological conflict remains acute in Asia.
+
 ## Key points
 
 - Masani surveys conflicts and rivalries across South and South-East Asia, linking them to the failure of regional security.

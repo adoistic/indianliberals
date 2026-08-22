@@ -50,6 +50,12 @@ summary: |-
   The letter is brief and administrative in character, but it records an internal organizational disagreement following the Swatantra Party's dissolution. A handwritten postscript states that an answer will be sent, while the handwritten address at the foot of the page appears to identify the recipient as being in Bombay.
 ---
 
+## Summary
+
+This one-page English letter from S. V. Raju, dated 13 June 1975, is addressed to Girish and concerns the unresolved question of what should be done with the assets of the Swatantra Party. Raju indicates that discussions have stalled and asks for a decision on placing the party's assets in trust.
+
+The letter is brief and administrative in character, but it records an internal organizational disagreement following the Swatantra Party's dissolution. A handwritten postscript states that an answer will be sent, while the handwritten address at the foot of the page appears to identify the recipient as being in Bombay.
+
 ## Key points
 
 - The letter is dated 13 June 1975 and signed by S. V. Raju.

@@ -48,6 +48,12 @@ summary: |-
   Patel argues that the Swatantra Party may become the largest opposition party in the Rajya Sabha. He bases this assessment on the Communist Party's apparently static strength, the Praja Socialist Party's losses, and the expected support of several former PSP members. He also reports that Brahm Kumar Bhatt is the only PSP member believed to be preventing a full voting alignment with the Swatantra Party, while Ishwarlal Desai and some colleagues are expected to vote with it.
 ---
 
+## Summary
+
+In this letter dated 24 March 1962, Dahyabhai Vallabhbhai Patel writes to Minoo Masani about the composition and prospects of the Swatantra Party in the Rajya Sabha. He encloses a list of party members, including two Ganatantra Parishad members who are also joining the party, and anticipates further additions from Bihar and Rajasthan. The accompanying list names nine members from several states, including Dahyabhai Patel, Darshan Singh, Kanta Singh, Mirza Ahmad Ali, R. G. Gupta, Anandchand, Bairagi Dwivedi, Loknath Misra, and J. Jaipal Singh.
+
+Patel argues that the Swatantra Party may become the largest opposition party in the Rajya Sabha. He bases this assessment on the Communist Party's apparently static strength, the Praja Socialist Party's losses, and the expected support of several former PSP members. He also reports that Brahm Kumar Bhatt is the only PSP member believed to be preventing a full voting alignment with the Swatantra Party, while Ishwarlal Desai and some colleagues are expected to vote with it.
+
 ## Key points
 
 - The letter is dated 24 March 1962 and is addressed to Minoo Masani.

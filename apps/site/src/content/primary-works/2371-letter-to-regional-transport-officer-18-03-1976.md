@@ -51,6 +51,12 @@ summary: |-
   Masani states that the jeep was sold in late 1971 or early 1972 and has not been in his ownership or possession since. He has asked V. P. Bhatia, then Executive Secretary of the Swatantra Party and the custodian of the relevant records, to provide details of the sale. Masani promises to forward those details so that the transport authorities can pursue the outstanding matter with the vehicle's purchaser. The accompanying postal forms identify Masani's Bombay address at Personnel & Productivity Services and show that the letter was sent by registered post.
 ---
 
+## Summary
+
+This three-page English-language document is a registered letter dated March 18, 1976, from M. R. Masani to the Regional Transport Officer in Bombay. Masani responds to a notice concerning arrears of motor-vehicle tax for vehicle M.V. No. MRG-2184 and explains that the vehicle was a jeep registered in his name while he was President of the Swatantra Party.
+
+Masani states that the jeep was sold in late 1971 or early 1972 and has not been in his ownership or possession since. He has asked V. P. Bhatia, then Executive Secretary of the Swatantra Party and the custodian of the relevant records, to provide details of the sale. Masani promises to forward those details so that the transport authorities can pursue the outstanding matter with the vehicle's purchaser. The accompanying postal forms identify Masani's Bombay address at Personnel & Productivity Services and show that the letter was sent by registered post.
+
 ## Key points
 
 - The letter is dated March 18, 1976, and is addressed to the Regional Transport Officer in Bombay.

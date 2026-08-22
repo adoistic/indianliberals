@@ -58,6 +58,12 @@ summary: |-
   Mody then answers accusations directed at the newly formed Swatantra Party. He rejects the claims that its members are old, frustrated men defending vested interests, arguing that party leaders—including Rajaji, K. M. Munshi, and Mody himself—are active, economically independent, and not dependent on government jobs, contracts, or licences. He redirects the charge of vested interests toward ministers, legislators, Congress bosses, and the bureaucratic hierarchy sustained by the Welfare State. The speech concludes by arguing that Congress leaders remain attached to an outdated, Marxist-influenced conception of socialism and that their drive to regulate social life threatens individual liberty and democratic government; Mody then yields the meeting to Shroff to explain the party’s economic policy.
 ---
 
+## Summary
+
+In this three-page speech delivered at Sunderbai Hall on 14 October 1959, Sir Homi Mody introduces A. D. Shroff as a leading businessman and economist who founded the Forum of Free Enterprise. Mody defends Shroff’s independence and argues that economists in India are judged according to their relationship with the Delhi court: those willing to speak truth to power risk political criticism, but must not be forced to abandon their convictions.
+
+Mody then answers accusations directed at the newly formed Swatantra Party. He rejects the claims that its members are old, frustrated men defending vested interests, arguing that party leaders—including Rajaji, K. M. Munshi, and Mody himself—are active, economically independent, and not dependent on government jobs, contracts, or licences. He redirects the charge of vested interests toward ministers, legislators, Congress bosses, and the bureaucratic hierarchy sustained by the Welfare State. The speech concludes by arguing that Congress leaders remain attached to an outdated, Marxist-influenced conception of socialism and that their drive to regulate social life threatens individual liberty and democratic government; Mody then yields the meeting to Shroff to explain the party’s economic policy.
+
 ## Key points
 
 - Mody presents A. D. Shroff as an independent economist and founder of the Forum of Free Enterprise.

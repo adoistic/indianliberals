@@ -50,6 +50,12 @@ summary: |-
   The meeting recorded the party's presidential-election preferences: Minoo Masani and Prof. Ranga explained their decision to cast the party's first-preference vote for C. D. Deshmukh and its second-preference vote for Dr. Sarjiva Reddy. The minutes also note that the Central Parliamentary Board had been asked to postpone a decision concerning the election of the Vice-President until a few days before polling.
 ---
 
+## Summary
+
+This one-page office record contains the minutes of a meeting of the Swatantra Party General Body held at Parliament House, New Delhi, at 10 a.m. on 12 August 1969. It lists 20 members present, including Minoo Masani, Prof. N. G. Ranga, C. D. Deshmukh, and L. N. Patodia, who signed as secretary.
+
+The meeting recorded the party's presidential-election preferences: Minoo Masani and Prof. Ranga explained their decision to cast the party's first-preference vote for C. D. Deshmukh and its second-preference vote for Dr. Sarjiva Reddy. The minutes also note that the Central Parliamentary Board had been asked to postpone a decision concerning the election of the Vice-President until a few days before polling.
+
 ## Key points
 
 - The document records a Swatantra Party General Body meeting held on 12 August 1969 in Room No. 53, Parliament House, New Delhi.

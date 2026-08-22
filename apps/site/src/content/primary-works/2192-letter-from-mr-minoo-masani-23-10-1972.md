@@ -51,6 +51,12 @@ summary: |-
   Masani’s objection to the fourth proposal rests on accountability in presidential and vice-presidential elections: he sees no reason why such an election should not be set aside when bribery or undue influence can be proved. He closes by asking Dandekar to pass his comments, together with Masani’s own, to Mr. Raju. The handwritten correction in item three is not fully legible in the rendered pages.
 ---
 
+## Summary
+
+In this letter dated October 23, 1972, Minoo Masani tells Mr. Dandekar that he is inclined to think the Bill is moving in the right direction. He then responds to five concrete proposals concerning the procedure for filling a legislative election and related constitutional arrangements. Masani answers “Yes” to proposals one, two, and five, expresses uncertainty about whether proposal three makes the filling of a legislative election excessively difficult, and opposes proposal four.
+
+Masani’s objection to the fourth proposal rests on accountability in presidential and vice-presidential elections: he sees no reason why such an election should not be set aside when bribery or undue influence can be proved. He closes by asking Dandekar to pass his comments, together with Masani’s own, to Mr. Raju. The handwritten correction in item three is not fully legible in the rendered pages.
+
 ## Key points
 
 - Masani considers the Bill to be moving in the right direction.

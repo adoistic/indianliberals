@@ -51,3 +51,7 @@ ai:
 summary: |-
   Freedom First No. 249 (February 1973) presents a liberal critique of post-Independence Indian politics alongside commentary on Vietnam and notices of further cultural and political articles listed in the contents. The visible pages center on S. V. Raju’s tribute to C. Rajagopalachari (Rajaji), portraying him as a persistent defender of individual liberty and a one-man opposition to Congress dominance, state socialism, and political conformity. The issue also carries editor M. R. Masani’s account of a visit to South Vietnam, emphasizing the country’s stability, anti-Communist resistance, and the dangers of a premature peace settlement.
 ---
+
+## Summary
+
+Freedom First No. 249 (February 1973) presents a liberal critique of post-Independence Indian politics alongside commentary on Vietnam and notices of further cultural and political articles listed in the contents. The visible pages center on S. V. Raju’s tribute to C. Rajagopalachari (Rajaji), portraying him as a persistent defender of individual liberty and a one-man opposition to Congress dominance, state socialism, and political conformity. The issue also carries editor M. R. Masani’s account of a visit to South Vietnam, emphasizing the country’s stability, anti-Communist resistance, and the dangers of a premature peace settlement.

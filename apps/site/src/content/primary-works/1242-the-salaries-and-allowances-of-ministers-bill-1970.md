@@ -49,6 +49,12 @@ summary: |-
   The principal change described is a restructuring of ministers’ and deputy ministers’ remuneration so that, after income tax, surcharge, and deductions for specified benefits and amenities, their net “take-home” amounts remain broadly comparable to existing levels. The note sets out proposed salary figures and deductions for rent, staff, electricity, water, telephone, and travel. It also explains the valuation of benefits, transitional payments after resignation or death, the prohibition of entertainment allowances for ministers other than the Prime Minister, and a requirement that ministers bear Rs. 7,200 per annum for the personal component of official travel. Clauses 7 to 11 are described as making no substantive change, while clause 12 repeals the 1952 Act.
 ---
 
+## Summary
+
+This two-page note by N. Dandekar explains the clauses of the Salaries and Allowances of Ministers Bill, 1970. The Bill consolidates and amends the law governing ministers’ salaries and allowances, replacing the framework in the Salaries and Allowances of Ministers Act, 1952, as amended in 1969. It is intended to come into force on 1 April 1971 and repeats the statutory definition of “Minister.”
+
+The principal change described is a restructuring of ministers’ and deputy ministers’ remuneration so that, after income tax, surcharge, and deductions for specified benefits and amenities, their net “take-home” amounts remain broadly comparable to existing levels. The note sets out proposed salary figures and deductions for rent, staff, electricity, water, telephone, and travel. It also explains the valuation of benefits, transitional payments after resignation or death, the prohibition of entertainment allowances for ministers other than the Prime Minister, and a requirement that ministers bear Rs. 7,200 per annum for the personal component of official travel. Clauses 7 to 11 are described as making no substantive change, while clause 12 repeals the 1952 Act.
+
 ## Key points
 
 - The Bill consolidates and amends the existing law on ministers’ salaries and allowances.

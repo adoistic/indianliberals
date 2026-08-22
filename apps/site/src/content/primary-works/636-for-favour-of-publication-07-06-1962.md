@@ -56,6 +56,12 @@ summary: |-
   The statement links this economic argument to a critique of the existing tax system. It contends that taxation particularly victimises the poor, agricultural investment remains inadequate, and excise duties burden cloth and building materials despite shortages. Citing an increase in foodgrain production from 69 to 79 million tons over five years, it questions whether the Third Plan’s target of 100 million tons by 1965–66 is realistic. The proposed fiscal programme includes abolishing land revenue, sharply reducing excise duties on necessities and production inputs, reducing corporate and direct income taxation, avoiding deficit finance and inflationary measures, and cutting civil expenditure and bureaucratic expansion.
 ---
 
+## Summary
+
+This two-page Swatantra Party press statement, issued from its Central Office for publication on June 7, attacks the forthcoming Finance Bill as the latest in a succession of budgets that have brought India toward “bankruptcy” through excessive taxation and wasteful public expenditure. Speaking at a Swatantra Party meeting, General Secretary M. R. Masani calls for a wholesale revision of planning and taxation so that every household can obtain food, clothing, and shelter within a few years. The statement argues that consumption, purchasing power, and mass demand are necessary conditions for productive growth, and therefore recommends giving priority to agriculture and light industry over heavy industry.
+
+The statement links this economic argument to a critique of the existing tax system. It contends that taxation particularly victimises the poor, agricultural investment remains inadequate, and excise duties burden cloth and building materials despite shortages. Citing an increase in foodgrain production from 69 to 79 million tons over five years, it questions whether the Third Plan’s target of 100 million tons by 1965–66 is realistic. The proposed fiscal programme includes abolishing land revenue, sharply reducing excise duties on necessities and production inputs, reducing corporate and direct income taxation, avoiding deficit finance and inflationary measures, and cutting civil expenditure and bureaucratic expansion.
+
 ## Key points
 
 - The Finance Bill is presented as part of a damaging pattern of excessive taxation and wasteful public expenditure.

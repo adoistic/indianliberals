@@ -56,6 +56,10 @@ summary: |-
   In this two-page press-publication statement, M. R. Masani argues that India’s Republic and Constitution are endangered by both external hostility and internal failures. He calls on citizens to renew their loyalty to the Constitution and rejects the division between responsible citizens and supposedly blameworthy politicians: in a democracy, governments reflect the people, and continual vigilance and participation are necessary to preserve freedom. He particularly criticises the business community for neglecting its civic responsibilities, citing public passivity toward legislation imposing “social control” over banking and insurance.
 ---
 
+## Summary
+
+In this two-page press-publication statement, M. R. Masani argues that India’s Republic and Constitution are endangered by both external hostility and internal failures. He calls on citizens to renew their loyalty to the Constitution and rejects the division between responsible citizens and supposedly blameworthy politicians: in a democracy, governments reflect the people, and continual vigilance and participation are necessary to preserve freedom. He particularly criticises the business community for neglecting its civic responsibilities, citing public passivity toward legislation imposing “social control” over banking and insurance.
+
 ## Key points
 
 - Masani presents the Republic as threatened by Chinese Communist aggression, Communist subversion, economic decline, corruption, disorder, and political irresponsibility.

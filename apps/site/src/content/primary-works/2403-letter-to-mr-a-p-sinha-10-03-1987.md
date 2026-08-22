@@ -51,6 +51,12 @@ summary: |-
   Masani promises to provide a definite reply within a few days. He states that the reply will show that no tax is payable by him and that the proceedings are based on a misconception. The letter is a narrowly focused response to an ongoing tax proceeding and does not set out the underlying legal or fiscal arguments.
 ---
 
+## Summary
+
+In this letter dated 10 March 1967, M. R. Masani replies to A. P. Sinha, Collector for the City of Bombay and Bombay Suburban District, acknowledging a letter dated 27 February and thanking him for his guidance. Masani says he is researching the relevant past records and that the process is lengthy.
+
+Masani promises to provide a definite reply within a few days. He states that the reply will show that no tax is payable by him and that the proceedings are based on a misconception. The letter is a narrowly focused response to an ongoing tax proceeding and does not set out the underlying legal or fiscal arguments.
+
 ## Key points
 
 - The letter is dated 10 March 1967 and is addressed to A. P. Sinha.

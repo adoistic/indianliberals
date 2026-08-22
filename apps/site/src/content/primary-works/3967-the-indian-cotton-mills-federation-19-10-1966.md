@@ -55,6 +55,10 @@ summary: |-
   This four-page final report, issued by The Indian Cotton Mills' Federation, records the recommendations of a sub-committee chaired by Shri Naval H. Tata on the problems of weak and marginal cotton-mill units. It distinguishes “uneconomic units,” which require targeted rehabilitation, from marginal units, which need broader measures to prevent further deterioration. For uneconomic mills, the report proposes temporary relief from provident-fund, bonus, and excise-duty payments; labour rationalisation; greater production flexibility; and exemption from retrenchment compensation where the Government takes over and operates a mill. It also recommends expert financial and technical assessment, followed by administrative control involving government, industry, research, financial institutions, previous management, and trade unions.
 ---
 
+## Summary
+
+This four-page final report, issued by The Indian Cotton Mills' Federation, records the recommendations of a sub-committee chaired by Shri Naval H. Tata on the problems of weak and marginal cotton-mill units. It distinguishes “uneconomic units,” which require targeted rehabilitation, from marginal units, which need broader measures to prevent further deterioration. For uneconomic mills, the report proposes temporary relief from provident-fund, bonus, and excise-duty payments; labour rationalisation; greater production flexibility; and exemption from retrenchment compensation where the Government takes over and operates a mill. It also recommends expert financial and technical assessment, followed by administrative control involving government, industry, research, financial institutions, previous management, and trade unions.
+
 ## Key points
 
 - The report distinguishes between uneconomic units and marginal units and calls for separate forms of assistance.

@@ -47,6 +47,10 @@ summary: |-
   In this letter dated 4 July 1964, M. R. Masani asks A. P. Jain to obtain two pieces of administrative information: who has recently become Director-General of the Council of Scientific and Industrial Research (CSIR), and who the new minister is, including the ministry responsible for CSIR. The letter is written from the Swatantra Party Parliamentary Office context in New Delhi and is a brief request for governmental clarification.
 ---
 
+## Summary
+
+In this letter dated 4 July 1964, M. R. Masani asks A. P. Jain to obtain two pieces of administrative information: who has recently become Director-General of the Council of Scientific and Industrial Research (CSIR), and who the new minister is, including the ministry responsible for CSIR. The letter is written from the Swatantra Party Parliamentary Office context in New Delhi and is a brief request for governmental clarification.
+
 ## Key points
 
 - The letter is dated 4 July 1964.

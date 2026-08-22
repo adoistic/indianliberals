@@ -49,6 +49,12 @@ summary: |-
   According to a press release attributed to Krishnan, those present considered revival necessary because, in their view, only Swatantra policies could bring “salvation” to the country. The clipping has no journalist byline and identifies the source as UNI; a handwritten note identifies The Times of India and dates the clipping 22/9/81.
 ---
 
+## Summary
+
+This one-page English news brief, datelined Madras, September 21, 1981, reports that former Swatantra Party members met the previous day and decided to revive the party. The meeting was chaired by Mr. S. Krishnan and attended by workers from across Tamil Nadu.
+
+According to a press release attributed to Krishnan, those present considered revival necessary because, in their view, only Swatantra policies could bring “salvation” to the country. The clipping has no journalist byline and identifies the source as UNI; a handwritten note identifies The Times of India and dates the clipping 22/9/81.
+
 ## Key points
 
 - Former Swatantra Party members met in Madras in September 1981.

@@ -64,3 +64,9 @@ summary: |-
   
   The economic material attributes the rupee's devaluation and related hardship to inflationary policies, excessive taxation, borrowing, planning failures, and state controls. The proposed remedy is a sharp policy change involving fiscal restraint, reduced controls, greater room for competitive enterprise, revised development priorities, and protection for productive activity. Other sections advocate electoral alliances against Congress, support American action in Vietnam, oppose Indian nuclear weapons, demand autonomous or locally administered arrangements in Assam Hills and Bastar, and document drought distress in Orissa.
 ---
+
+## Summary
+
+Issue 60 of the Swatantra Newsletter, issued in July 1966 for private circulation, presents the Swatantra Party's responses to devaluation, Congress rule, electoral strategy, regional grievances, famine relief, national security, and party organisation. Its central political line is opposition to the Congress while rejecting electoral cooperation with Communist parties. The issue combines statements by party leaders, reports from state units, resolutions, and a General Secretary's editorial arguing for a policy of “double rejection.”
+
+The economic material attributes the rupee's devaluation and related hardship to inflationary policies, excessive taxation, borrowing, planning failures, and state controls. The proposed remedy is a sharp policy change involving fiscal restraint, reduced controls, greater room for competitive enterprise, revised development priorities, and protection for productive activity. Other sections advocate electoral alliances against Congress, support American action in Vietnam, oppose Indian nuclear weapons, demand autonomous or locally administered arrangements in Assam Hills and Bastar, and document drought distress in Orissa.

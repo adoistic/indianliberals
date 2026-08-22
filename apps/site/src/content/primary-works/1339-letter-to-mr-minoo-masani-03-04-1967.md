@@ -49,6 +49,12 @@ summary: |-
   Chawla states that the Speaker intends to nominate a member of Masani's group to represent the Lok Sabha. He asks Masani to provide a prioritized panel of three members of the Swatantra Group from which the Speaker can select a nominee, and requests an early response. The document records an administrative step linking parliamentary party representation with participation in an international cultural-relations body.
 ---
 
+## Summary
+
+This one-page official letter, dated April 3, 1967, was issued by A.C. Chawla, Deputy Secretary of the Lok Sabha Secretariat, to M.R. Masani, M.P. Its subject is the nomination of two Lok Sabha members to the General Assembly of the Indian Council for Cultural Relations.
+
+Chawla states that the Speaker intends to nominate a member of Masani's group to represent the Lok Sabha. He asks Masani to provide a prioritized panel of three members of the Swatantra Group from which the Speaker can select a nominee, and requests an early response. The document records an administrative step linking parliamentary party representation with participation in an international cultural-relations body.
+
 ## Key points
 
 - The letter is dated April 3, 1967, and is issued on Lok Sabha Secretariat letterhead from Parliament House, New Delhi.

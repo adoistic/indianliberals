@@ -45,6 +45,10 @@ summary: |-
   Dated August 16, 1972, this one-page letter from R. V. Murthy to the President of the Swatantra Party’s Bombay Region announces Murthy’s resignation from the party’s Executive Committee. Murthy explains that the timing of committee meetings repeatedly conflicts with professional engagements, making regular attendance impractical. Murthy makes clear that the resignation is from the committee rather than from the party itself. He states that he will remain an ordinary member and expresses continuing pride in that association. The letter is typed on Eastern Economist letterhead and bears a Swatantra Party receipt stamp dated August 16, 1972.
 ---
 
+## Summary
+
+Dated August 16, 1972, this one-page letter from R. V. Murthy to the President of the Swatantra Party’s Bombay Region announces Murthy’s resignation from the party’s Executive Committee. Murthy explains that the timing of committee meetings repeatedly conflicts with professional engagements, making regular attendance impractical. Murthy makes clear that the resignation is from the committee rather than from the party itself. He states that he will remain an ordinary member and expresses continuing pride in that association. The letter is typed on Eastern Economist letterhead and bears a Swatantra Party receipt stamp dated August 16, 1972.
+
 ## Key points
 
 - R. V. Murthy addresses the President of the Swatantra Party, Bombay Region. He apologises for being unable to attend an Executive Committee meeting scheduled for the day of the letter. He says professional engagements have repeatedly clashed with committee meetings. He offers his resignation from the Executive Committee so that someone with more available time can serve. He intends to remain an ordinary member of the Swatantra Party.

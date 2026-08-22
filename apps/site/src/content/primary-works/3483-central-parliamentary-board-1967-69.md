@@ -47,6 +47,10 @@ summary: |-
   This one-page English office roster, headed “SWATANTRA PARTY (APPENDIX C),” records the composition of the Central Parliamentary Board for 1967–69. It distinguishes six members from ten ex-officio members and identifies the latter’s party offices, including president, vice presidents, senior treasurer, general secretary, and leader of the party’s group in the Rajya Sabha.
 ---
 
+## Summary
+
+This one-page English office roster, headed “SWATANTRA PARTY (APPENDIX C),” records the composition of the Central Parliamentary Board for 1967–69. It distinguishes six members from ten ex-officio members and identifies the latter’s party offices, including president, vice presidents, senior treasurer, general secretary, and leader of the party’s group in the Rajya Sabha.
+
 ## Key points
 
 - The document is an administrative roster rather than a signed essay or argument.

@@ -51,6 +51,10 @@ summary: |-
   This five-page memorandum, attributed to B.S. Gopal Krishna, evaluates the Swatantra Party's position after the Lok Sabha elections and argues that its immediate task is organisational renewal rather than opposition for its own sake. It criticises the decision to enter a United National Front without a common minimum programme, questions the allocation of approximately 75 seats among the partners, and interprets the Congress (R)'s success—especially in Mysore State—as a primarily pro-Indira vote rather than a clear endorsement of either socialism or rightist ideology. The note attributes Congress (R)'s appeal to minority support, Harijan voters, lower and lower-middle classes, women, regional anti-Lingayat sentiment, non-voting educated citizens, and defective electoral rolls.
 ---
 
+## Summary
+
+This five-page memorandum, attributed to B.S. Gopal Krishna, evaluates the Swatantra Party's position after the Lok Sabha elections and argues that its immediate task is organisational renewal rather than opposition for its own sake. It criticises the decision to enter a United National Front without a common minimum programme, questions the allocation of approximately 75 seats among the partners, and interprets the Congress (R)'s success—especially in Mysore State—as a primarily pro-Indira vote rather than a clear endorsement of either socialism or rightist ideology. The note attributes Congress (R)'s appeal to minority support, Harijan voters, lower and lower-middle classes, women, regional anti-Lingayat sentiment, non-voting educated citizens, and defective electoral rolls.
+
 ## Key points
 
 - The memorandum says the United National Front was a sound response to the immediate danger posed by Congress (R), but faults the Swatantra Party for accepting the arrangement without a common minimum programme.

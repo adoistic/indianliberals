@@ -48,6 +48,12 @@ summary: |-
   Masani says he will not reach Delhi until 12 August but hopes to meet Kripalani then. He notes that C. Rajagopalachari may visit Delhi around 13 or 14 August, creating an opportunity for further discussions. The letter also stresses the need for discretion: Masani fears that premature publicity could undermine efforts to reach an understanding and generate unnecessary press speculation.
 ---
 
+## Summary
+
+In this letter dated 15 July 1963, M. R. Masani thanks Acharya J. B. Kripalani for forwarding correspondence with Jai Prakash Narayan and expresses regret that their discussion became public. Masani agrees that the idea of a minimum programme will have to be set aside for the moment.
+
+Masani says he will not reach Delhi until 12 August but hopes to meet Kripalani then. He notes that C. Rajagopalachari may visit Delhi around 13 or 14 August, creating an opportunity for further discussions. The letter also stresses the need for discretion: Masani fears that premature publicity could undermine efforts to reach an understanding and generate unnecessary press speculation.
+
 ## Key points
 
 - Masani acknowledges Kripalani's letters of 27 June and 4 July and correspondence involving Jai Prakash Narayan.

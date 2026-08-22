@@ -53,6 +53,12 @@ summary: |-
   The enclosed records document negotiations held on 31 December 1968 and 2 January 1969 over a Swatantra–Janasangh electoral understanding in Bihar. The discussions classify constituencies as “unitary,” “neutral,” “binary,” “accordable,” or “open,” while disagreements emerge over whether previously settled constituencies can be reopened and how much authority local party organisations should have. The appendix records detailed constituency-level outcomes: Swatantra initially claimed an interest in 77 of Bihar’s 318 constituencies, while the negotiations eventually reduced its recorded interest to 39. The second conference ended with disappointment but in a cordial atmosphere; the pages shown do not establish whether the broader accord was ultimately signed or implemented.
 ---
 
+## Summary
+
+In the rendered pages, Siraj of Dhrangadhara writes to Viren Shah from Pune on 7 December 2003 to recover the Swatantra Party’s political record and argue that many of its economic positions, advocated four decades earlier, had since become national policy. He fears that the party’s history may have been lost and presents its liberal opposition to Congress dominance as an important but neglected part of India’s political development. He also recalls a 1970 electoral accord between Swatantra and Janasangh in Bihar and Uttar Pradesh, enclosing a conference record as evidence.
+
+The enclosed records document negotiations held on 31 December 1968 and 2 January 1969 over a Swatantra–Janasangh electoral understanding in Bihar. The discussions classify constituencies as “unitary,” “neutral,” “binary,” “accordable,” or “open,” while disagreements emerge over whether previously settled constituencies can be reopened and how much authority local party organisations should have. The appendix records detailed constituency-level outcomes: Swatantra initially claimed an interest in 77 of Bihar’s 318 constituencies, while the negotiations eventually reduced its recorded interest to 39. The second conference ended with disappointment but in a cordial atmosphere; the pages shown do not establish whether the broader accord was ultimately signed or implemented.
+
 ## Key points
 
 - Siraj presents the Swatantra Party’s economic advocacy as an early source of policies adopted by later governments.

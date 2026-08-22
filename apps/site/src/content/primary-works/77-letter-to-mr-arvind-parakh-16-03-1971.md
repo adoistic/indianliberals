@@ -45,6 +45,12 @@ summary: |-
   The letter is brief and contains no discussion of the event or issue that prompted the telegram. It closes formally with “Yours truly,” followed by Masani’s printed name and the initials “MRM/pay.”
 ---
 
+## Summary
+
+This one-page typed letter, dated 16 March 1971, is addressed by M. R. Masani to Mr. Arvind Parakh in Gonda. Masani acknowledges Parakh's telegram of the 12th and expresses appreciation for his message of sympathy and solidarity.
+
+The letter is brief and contains no discussion of the event or issue that prompted the telegram. It closes formally with “Yours truly,” followed by Masani’s printed name and the initials “MRM/pay.”
+
 ## Key points
 
 - The letter is dated 16 March 1971.

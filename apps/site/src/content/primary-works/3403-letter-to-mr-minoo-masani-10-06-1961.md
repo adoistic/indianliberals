@@ -47,6 +47,10 @@ summary: |-
   This single-page letter, dated June 10, 1961, is written from the Bihar party office in Patna by a signer provisionally identified as Sachchidanand Narain to M. R. Masani. It concerns financial assistance for the Bihar Party and seeks clarification about apparently differing figures: a proposed loan of Rs. 5 lakhs, a previously agreed assistance of Rs. 10 lakhs, and monthly contributions of Rs. 25,000 from May through December 1961.
 ---
 
+## Summary
+
+This single-page letter, dated June 10, 1961, is written from the Bihar party office in Patna by a signer provisionally identified as Sachchidanand Narain to M. R. Masani. It concerns financial assistance for the Bihar Party and seeks clarification about apparently differing figures: a proposed loan of Rs. 5 lakhs, a previously agreed assistance of Rs. 10 lakhs, and monthly contributions of Rs. 25,000 from May through December 1961.
+
 ## Key points
 
 - The writer acknowledges support from Rajaji, Prof. Ranga, Sir Homi Mody, and M. R. Masani for enabling the Bihar Party to raise loans.

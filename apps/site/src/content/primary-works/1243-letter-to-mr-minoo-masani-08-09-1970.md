@@ -44,6 +44,12 @@ summary: |-
   The document itself contains no substantive argument on the bill; it is a purely procedural acknowledgement issued under file reference No. 21/9(32)/70/L. Its archival value lies in documenting Masani's move — during his tenure as a Swatantra Party member of the Fourth Lok Sabha — to legislate on the emoluments of the executive, and in fixing the paper trail of that legislative initiative in the parliamentary record.
 ---
 
+## Summary
+
+This single-page letter from the Lok Sabha Secretariat, dated 8 September 1970 (Bhadra 17, 1892 Saka), is an official acknowledgement addressed to Shri M. R. Masani, M.P. Signed by P. K. Patnaik, Deputy Secretary, and issued from Parliament House, New Delhi, it formally confirms receipt of Masani's letter of 2 September 1970 giving notice of his intention to move for leave to introduce a Private Member's Bill titled 'The Salaries and Allowances of Ministers Bill, 1970' in the Lok Sabha.
+
+The document itself contains no substantive argument on the bill; it is a purely procedural acknowledgement issued under file reference No. 21/9(32)/70/L. Its archival value lies in documenting Masani's move — during his tenure as a Swatantra Party member of the Fourth Lok Sabha — to legislate on the emoluments of the executive, and in fixing the paper trail of that legislative initiative in the parliamentary record.
+
 ## Key points
 
 - A one-page official acknowledgement issued by the Lok Sabha Secretariat, Parliament House, New Delhi.

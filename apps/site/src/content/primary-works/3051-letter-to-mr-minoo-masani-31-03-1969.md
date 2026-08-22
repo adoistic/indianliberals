@@ -49,6 +49,12 @@ summary: |-
   Somani asks Masani to arrange his nomination to the PAC and closes with personal regards. The letter is a brief piece of intra-party correspondence focused on parliamentary committee appointments and the forthcoming electoral process.
 ---
 
+## Summary
+
+This two-page English-language letter, dated March 31, 1969, is from N. K. Somani, M.P., to Minoo Masani. Somani writes that forthcoming elections for the PAC, PUC, and Estimates Committees are due shortly, noting that the existing Swatantra nominees have served for the past two years.
+
+Somani asks Masani to arrange his nomination to the PAC and closes with personal regards. The letter is a brief piece of intra-party correspondence focused on parliamentary committee appointments and the forthcoming electoral process.
+
 ## Key points
 
 - The letter is dated March 31, 1969, and is written from Bombay.

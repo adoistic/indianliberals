@@ -52,6 +52,10 @@ summary: |-
   These one-page minutes record a meeting of the Swatantra Party’s parliamentary body held in Room No. 50 of Parliament House, New Delhi, on November 11, 1968. Eighteen members are listed as present, including M. R. Masani, B. N. Atarti, Rajagopanna Naik, K. P. Singh Deo, N. Dandekar, Piloo Mody, R. K. Amin, and C. C. Desai. The meeting addressed the Party’s parliamentary conduct, its position on a no-confidence motion introduced by Jan Sangh members, and preparations for a forthcoming no-confidence debate.
 ---
 
+## Summary
+
+These one-page minutes record a meeting of the Swatantra Party’s parliamentary body held in Room No. 50 of Parliament House, New Delhi, on November 11, 1968. Eighteen members are listed as present, including M. R. Masani, B. N. Atarti, Rajagopanna Naik, K. P. Singh Deo, N. Dandekar, Piloo Mody, R. K. Amin, and C. C. Desai. The meeting addressed the Party’s parliamentary conduct, its position on a no-confidence motion introduced by Jan Sangh members, and preparations for a forthcoming no-confidence debate.
+
 ## Key points
 
 - The meeting was held at 9:30 p.m. on November 11, 1968, at Parliament House in New Delhi.

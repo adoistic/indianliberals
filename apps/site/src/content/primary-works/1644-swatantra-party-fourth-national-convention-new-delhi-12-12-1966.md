@@ -54,3 +54,9 @@ summary: |-
   
   In the rendered pages, the advertisements present industrial production, indigenous manufacture, self-reliance, engineering, textiles, agriculture, pharmaceuticals, and consumer goods as signs of national development. In the rendered pages, no speeches, resolutions, editorial introduction, contents page, or named contributors are visible, so the convention’s political arguments and proceedings cannot yet be summarized.
 ---
+
+## Summary
+
+In the rendered pages, this 1966 publication is identifiable as the Swatantra Party’s Fourth National Convention souvenir, held in New Delhi on December 12 and 13. In the rendered pages, the opening section consists predominantly of commercial advertisements, accompanied by the cover and running headers identifying the item as “Swatantra Souvenir 1966.”
+
+In the rendered pages, the advertisements present industrial production, indigenous manufacture, self-reliance, engineering, textiles, agriculture, pharmaceuticals, and consumer goods as signs of national development. In the rendered pages, no speeches, resolutions, editorial introduction, contents page, or named contributors are visible, so the convention’s political arguments and proceedings cannot yet be summarized.

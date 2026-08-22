@@ -56,6 +56,10 @@ summary: |-
   This undated Swatantra Party press statement, issued by General Secretary Girish Munshi, condemns the Central Government's declaration of an internal emergency under Prime Minister Indira Gandhi and the arrest of Jayaprakash Narayan and other non-Congress opposition leaders. It portrays the emergency as an attempt to consolidate dictatorial power, criticizes the use of a Supreme Court-granted conditional stay to impose the emergency, and argues that the government is preparing to destroy democracy.
 ---
 
+## Summary
+
+This undated Swatantra Party press statement, issued by General Secretary Girish Munshi, condemns the Central Government's declaration of an internal emergency under Prime Minister Indira Gandhi and the arrest of Jayaprakash Narayan and other non-Congress opposition leaders. It portrays the emergency as an attempt to consolidate dictatorial power, criticizes the use of a Supreme Court-granted conditional stay to impose the emergency, and argues that the government is preparing to destroy democracy.
+
 ## Key points
 
 - The statement condemns the declaration of an internal emergency and the arrests of Jayaprakash Narayan and other non-Congress opposition leaders.

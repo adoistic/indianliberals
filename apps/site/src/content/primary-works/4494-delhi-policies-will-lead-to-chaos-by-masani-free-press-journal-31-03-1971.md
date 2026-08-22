@@ -50,6 +50,10 @@ summary: |-
   This Free Press Journal report covers M. R. Masani's address to the Rotary Club of Bombay on the political and economic situation following the recent parliamentary elections. Masani warned that the high expectations raised by the Indira Gandhi government could turn into public disappointment and anger within a few years, potentially producing violent disorder and chaos unless citizens were educated in democratic values and the facts of economic life.
 ---
 
+## Summary
+
+This Free Press Journal report covers M. R. Masani's address to the Rotary Club of Bombay on the political and economic situation following the recent parliamentary elections. Masani warned that the high expectations raised by the Indira Gandhi government could turn into public disappointment and anger within a few years, potentially producing violent disorder and chaos unless citizens were educated in democratic values and the facts of economic life.
+
 ## Key points
 
 - M. R. Masani warned that Delhi's policies could ultimately produce chaos.

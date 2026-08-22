@@ -54,6 +54,12 @@ summary: |-
   The minutes assign speakers to a series of legislative and administrative matters, including the Unlawful Activities (Prevention) Bill, Advocates Amendment Bill, Coal Mines Labour Welfare Fund Bill, the Delhi High Court Bill as reported by the Select Committee, Registration of Births and Deaths Bill, Essential Commodities (Amendment) Bill, and Customs (Amendment) Bill. They also record discussion of the Jayanti Shopping Company’s management and a representation by office stenographer Shri Avinash Chandra concerning termination of his services. The meeting ended with a vote of thanks to the chair.
 ---
 
+## Summary
+
+This one-page document records the Swatantra Party Executive Committee meeting held on 4 August 1966 in the Party Committee Room, Central Hall, Parliament House, New Delhi. Dated 5 August 1966, the minutes list six members present, with Shri N. Dandekar in the chair, and state that members were asked to vote on a no-confidence motion.
+
+The minutes assign speakers to a series of legislative and administrative matters, including the Unlawful Activities (Prevention) Bill, Advocates Amendment Bill, Coal Mines Labour Welfare Fund Bill, the Delhi High Court Bill as reported by the Select Committee, Registration of Births and Deaths Bill, Essential Commodities (Amendment) Bill, and Customs (Amendment) Bill. They also record discussion of the Jayanti Shopping Company’s management and a representation by office stenographer Shri Avinash Chandra concerning termination of his services. The meeting ended with a vote of thanks to the chair.
+
 ## Key points
 
 - The Swatantra Party Executive Committee met on 4 August 1966 in Parliament House, New Delhi.

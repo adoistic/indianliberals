@@ -56,6 +56,12 @@ summary: |-
   The second page develops three linked areas: wage policy, collective bargaining and taxation. It contrasts management with labour representation, refers to the right to strike and arbitration, and asks how far wage decisions should be determined by public policy. The taxation notes argue against discrimination and discuss exempting state enterprises from municipal taxation, while also noting the resulting burden on local authorities. The pages are fragmentary working notes rather than a completed argument; several words, figures and references are difficult to decipher.
 ---
 
+## Summary
+
+This two-page handwritten memorandum, dated Bombay 12 April 1962, considers state enterprises and their local obligations. The notes begin by distinguishing possible organisational forms—shareholders, employees, communities or the state—and then turn to public-sector management, asking whether the state should act as proprietor, administrator or regulator. The discussion raises questions about efficiency, incentives, accountability and the consequences of government ownership.
+
+The second page develops three linked areas: wage policy, collective bargaining and taxation. It contrasts management with labour representation, refers to the right to strike and arbitration, and asks how far wage decisions should be determined by public policy. The taxation notes argue against discrimination and discuss exempting state enterprises from municipal taxation, while also noting the resulting burden on local authorities. The pages are fragmentary working notes rather than a completed argument; several words, figures and references are difficult to decipher.
+
 ## Key points
 
 - The memorandum examines the obligations and organisational forms of state enterprises.

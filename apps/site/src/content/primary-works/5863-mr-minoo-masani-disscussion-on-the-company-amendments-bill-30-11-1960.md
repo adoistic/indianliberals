@@ -55,6 +55,12 @@ summary: |-
   Masani’s central argument is that corporate donations can join economic power to political power, concentrating influence in a small number of hands and undermining liberty and democratic checks and balances. He distinguishes ideological support for a party from donations motivated by fear, retaliation, licences, permits, priorities, and other governmental decisions. Drawing on the LIC Inquiry Commission and judgments attributed to Justices Vivian Bose and Tendulkar, he argues that the real issue is not whether contributions are formally voluntary, but whether companies are pressured to finance the ruling party. The supplied scan contains the complete four-page speech transcript, duplicated in the eight-page PDF.
 ---
 
+## Summary
+
+In this Lok Sabha intervention on the Companies (Amendment) Bill, 1960, M. R. Masani supports amendments intended to prevent companies and their boards of directors from contributing funds to political parties or political funds. He welcomes limits on corporate donations but argues that merely capping contributions does not address the underlying danger: the coercive use of company resources and the conversion of political access into administrative favours. He also challenges the Government’s claim that the Bill would provide timely publicity about corporate donations, noting that contributions made before a general election might become public only after polling or even after the relevant political moment has passed.
+
+Masani’s central argument is that corporate donations can join economic power to political power, concentrating influence in a small number of hands and undermining liberty and democratic checks and balances. He distinguishes ideological support for a party from donations motivated by fear, retaliation, licences, permits, priorities, and other governmental decisions. Drawing on the LIC Inquiry Commission and judgments attributed to Justices Vivian Bose and Tendulkar, he argues that the real issue is not whether contributions are formally voluntary, but whether companies are pressured to finance the ruling party. The supplied scan contains the complete four-page speech transcript, duplicated in the eight-page PDF.
+
 ## Key points
 
 - Masani supports amendments Nos. 1 and 14 to prohibit companies and boards of directors from making political contributions.

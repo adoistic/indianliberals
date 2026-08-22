@@ -50,6 +50,12 @@ summary: |-
   The committee discussed the difficulty of sending volunteers because of its precarious financial position and instead accepted a proposal to organise a synchronised march in Bombay. The march was to be arranged, if possible, jointly with the Congress (Organisation), Jana Sangh, Socialist Party, and Shiv Sena. K. B. Pandey, M. S. Pirzada, and Adi Narain were asked to explore mobilising workers and estimate expenses by 27 February. The minutes also record the acceptance, with regret, of Mrs Sarla Datar’s resignation and conclude with the meeting’s termination at approximately 6:30 p.m.
 ---
 
+## Summary
+
+This one-page record gives the minutes of the Swatantra Party Maharashtra Executive Committee meeting held in Bombay on 24 February 1975. It lists the attendees, records leave granted to two members, and states that the agenda was confined to the party’s proposed participation in a 6 March demonstration in Delhi under the leadership of Jayaprakash Narayan.
+
+The committee discussed the difficulty of sending volunteers because of its precarious financial position and instead accepted a proposal to organise a synchronised march in Bombay. The march was to be arranged, if possible, jointly with the Congress (Organisation), Jana Sangh, Socialist Party, and Shiv Sena. K. B. Pandey, M. S. Pirzada, and Adi Narain were asked to explore mobilising workers and estimate expenses by 27 February. The minutes also record the acceptance, with regret, of Mrs Sarla Datar’s resignation and conclude with the meeting’s termination at approximately 6:30 p.m.
+
 ## Key points
 
 - The Swatantra Party Maharashtra Executive Committee met in Bombay on 24 February 1975.

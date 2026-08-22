@@ -49,6 +49,12 @@ summary: |-
   Masani specifically denied that the Swatantra Party would support Fernandes, while stating that individual party members were free to vote as they wished. The clipping ends while reporting that a contrary statement had been issued by P. S. Koppikar, secretary of the Bombay unit; the remainder of that statement is not visible.
 ---
 
+## Summary
+
+This one-page English newspaper report states that M. R. Masani, president of the Swatantra Party, rejected his party's Bombay branch secretary's attempt to identify the party with George Fernandes's candidacy in Bombay South. After returning from Rajkot, Masani said the party had decided to withdraw from the Bombay South campaign in light of relevant considerations.
+
+Masani specifically denied that the Swatantra Party would support Fernandes, while stating that individual party members were free to vote as they wished. The clipping ends while reporting that a contrary statement had been issued by P. S. Koppikar, secretary of the Bombay unit; the remainder of that statement is not visible.
+
 ## Key points
 
 - M. R. Masani is identified as president of the Swatantra Party.

@@ -53,6 +53,12 @@ summary: |-
   The paper also attacks the compensation scheme for landlords, describing its graduated rates, delayed payment, and eight annual instalments as economically ruinous. It argues that the system effectively converts private landlordism into state landlordism and characterizes the sale of vacant land to landless people at 55 percent of actual value, with payment possibly deferred through sixteen-year bonds, as confiscation rather than compensation. The final section claims that the Act also disrupts the administration and rental income of temples, churches, mosques, and other religious institutions, allegedly forcing some places of worship to close.
 ---
 
+## Summary
+
+This three-page position paper criticizes provisions of the Kerala Land Reforms Act as amended by Act 35 of 1969. It objects to the ceiling on landholding, the invalidation of voluntary transfers made after publication of the Kerala Land Reforms Bill, 1963, and the vesting of surrendered land and tenants’ holdings in the Government. The paper emphasizes the consequences for purchasers who may lose homes and life savings, arguing that some innocent purchasers could be rendered homeless with inadequate compensation.
+
+The paper also attacks the compensation scheme for landlords, describing its graduated rates, delayed payment, and eight annual instalments as economically ruinous. It argues that the system effectively converts private landlordism into state landlordism and characterizes the sale of vacant land to landless people at 55 percent of actual value, with payment possibly deferred through sixteen-year bonds, as confiscation rather than compensation. The final section claims that the Act also disrupts the administration and rental income of temples, churches, mosques, and other religious institutions, allegedly forcing some places of worship to close.
+
 ## Key points
 
 - The paper objects to statutory ceilings on the ownership, holding, possession, and mortgaging of land.

@@ -51,6 +51,12 @@ summary: |-
   The pamphlet then sets out a practical organizational system: broad-based ad hoc committees, continuous membership drives, primary units once membership exceeds 100, functional local offices, elected committees, assigned duties, regular reporting, and year-round fundraising and literature distribution. It also calls for study circles, participation in existing social and professional organizations, the creation of affiliated fronts, and direct involvement in people’s just causes. Its final code of conduct emphasizes internal solidarity, open criticism, mutual respect, honesty, and truthfulness, concluding that public conduct should make a good person recognizable as a Swatantra Party member—and a party member recognizable as a good person.
 ---
 
+## Summary
+
+“How to Start a Party Unit” is a four-page Swatantra Party organizational pamphlet that presents party-building as a democratic and ideological mission. It urges the party to organize from the village and mohalla upward through tehsil, taluk, ward, district, constituency, state, region, and country, framing members as both holders of a cause and active crusaders. The instructions begin with appointing a district convenor and recruiting respected local people who combine belief in party principles with honesty, influence, and willingness to sacrifice time and money.
+
+The pamphlet then sets out a practical organizational system: broad-based ad hoc committees, continuous membership drives, primary units once membership exceeds 100, functional local offices, elected committees, assigned duties, regular reporting, and year-round fundraising and literature distribution. It also calls for study circles, participation in existing social and professional organizations, the creation of affiliated fronts, and direct involvement in people’s just causes. Its final code of conduct emphasizes internal solidarity, open criticism, mutual respect, honesty, and truthfulness, concluding that public conduct should make a good person recognizable as a Swatantra Party member—and a party member recognizable as a good person.
+
 ## Key points
 
 - The Swatantra Party is presented as a democratic alternative to dictatorship and must build an organization throughout the country.

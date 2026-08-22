@@ -48,6 +48,12 @@ summary: |-
   A separate letter dated 19 December 1975 is addressed to the Adult Education Institute, Bombay. It reports the same rent and electricity total and bills the institute 10%—described as its share for use of the office cabin—amounting to Rs 54.00. All three pages are signed only with a handwritten mark above the printed designation “For Office Secretary”; no individual author is identified.
 ---
 
+## Summary
+
+This three-page administrative correspondence from the Swatantra Party’s Bombay Region records rent and electricity expenses for November 1975. Dated 17 December 1975, the first two pages are addressed to the Executive Secretary of the Bharatiya Lok Dal and state that the recipient’s 40% share of the combined expense is Rs 216.00, against a total of Rs 540.01.
+
+A separate letter dated 19 December 1975 is addressed to the Adult Education Institute, Bombay. It reports the same rent and electricity total and bills the institute 10%—described as its share for use of the office cabin—amounting to Rs 54.00. All three pages are signed only with a handwritten mark above the printed designation “For Office Secretary”; no individual author is identified.
+
 ## Key points
 
 - The correspondence is issued on Swatantra Party, Bombay Region letterhead from Sassoon Building, 143 Mahatma Gandhi Road, Bombay-1.

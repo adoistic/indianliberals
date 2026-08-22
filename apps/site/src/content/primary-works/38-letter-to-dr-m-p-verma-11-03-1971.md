@@ -51,6 +51,12 @@ summary: |-
   The letter is a concise statement of confidence in democratic learning, public accountability, and solidarity. The visible page contains no further explanation of the issue that prompted Verma’s letter, and no date, title, sender address, or publication details are printed.
 ---
 
+## Summary
+
+In this brief letter, M. R. Masani thanks Dr. M. P. Verma for his letter of the 11th and for the solidarity it expresses. Masani presents the exchange as an instance of democratic principle: people must be allowed to make mistakes and learn from them, while those mistakes should be brought to public notice in due course.
+
+The letter is a concise statement of confidence in democratic learning, public accountability, and solidarity. The visible page contains no further explanation of the issue that prompted Verma’s letter, and no date, title, sender address, or publication details are printed.
+
 ## Key points
 
 - Masani acknowledges Dr. Verma’s letter of the 11th and its expression of solidarity.

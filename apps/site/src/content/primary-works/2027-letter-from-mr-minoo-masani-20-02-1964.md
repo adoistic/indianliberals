@@ -52,6 +52,12 @@ summary: |-
   Masani then proposes a settled procedure for future major issues. Before a vote, the Party Executive should decide the matter; if that is not possible, the Leader or Deputy Leader should issue a written whip or telephone all members present in Delhi. He warns that proceeding without these preparations risks damaging the Party's prestige. The page also records a copy to Professor N. G. Ranga and contains handwritten annotations beside the closing procedural paragraph.
 ---
 
+## Summary
+
+In this letter dated February 20, 1964, Minoo Masani writes to Maraksha Reddy, the Swatantra Party's Chief Whip, about the Party's having mustered only three votes in a division the previous day. Masani identifies three failures: the issue was not raised at the Executive Committee meeting in time, no whip was issued to Party members in Delhi, and a division was called without adequate preparation. Although he acknowledges shared responsibility, he places particular responsibility for timely coordination and attendance on the Chief Whip.
+
+Masani then proposes a settled procedure for future major issues. Before a vote, the Party Executive should decide the matter; if that is not possible, the Leader or Deputy Leader should issue a written whip or telephone all members present in Delhi. He warns that proceeding without these preparations risks damaging the Party's prestige. The page also records a copy to Professor N. G. Ranga and contains handwritten annotations beside the closing procedural paragraph.
+
 ## Key points
 
 - Masani criticizes the Swatantra Party's weak performance in a recent division, where it mustered only three votes.

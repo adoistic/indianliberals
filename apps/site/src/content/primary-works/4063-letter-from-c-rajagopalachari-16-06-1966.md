@@ -50,6 +50,12 @@ summary: |-
   Jain also states that he will inform Professor Ranga about the meeting with the Prime Minister. The accompanying inland-letter envelope repeats Masani’s Bombay address. The document records party-linked political coordination and scheduling but does not disclose the subject of the proposed meeting.
 ---
 
+## Summary
+
+This two-page English office letter, dated 17 June 1966 and issued from the Swatantra Party Parliamentary Office in New Delhi, is addressed to M. R. Masani MP. A. B. Jain confirms that, after receiving a confirmatory copy of Masani’s telegram, he arranged a meeting with the Prime Minister’s Private Secretary for 22 June at 5 p.m. The proposed discussion was expected to last no more than an hour, allowing Masani to leave for the airport by 6 p.m. for his return journey to Bombay.
+
+Jain also states that he will inform Professor Ranga about the meeting with the Prime Minister. The accompanying inland-letter envelope repeats Masani’s Bombay address. The document records party-linked political coordination and scheduling but does not disclose the subject of the proposed meeting.
+
 ## Key points
 
 - The letter is dated 17 June 1966 and was sent from the Swatantra Party Parliamentary Office in New Delhi.

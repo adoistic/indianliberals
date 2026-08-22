@@ -49,6 +49,12 @@ summary: |-
   Raju links this generational change to a broader deterioration in political standards, writing that the new leaders do not appear able to provide the inspiration and dedication associated with the old guard. He proposes that they discuss the matter at the General Council meeting in Lucknow on December 15 and 16. The letter also records Raju's imminent professional transition: he expects to remain in his current job until the end of December 1973 and then join Mehta's firm from January 1, 1974.
 ---
 
+## Summary
+
+In this personal letter dated November 6, 1973, S. V. Raju responds sympathetically to G. M. Gopal Krishna's confidential letter, which he had discussed with Madhu Mehta before Mehta left for a tour of districts in Uttar Pradesh. Raju describes himself and Mehta as “terribly distressed” by Krishna's predicament and attributes it partly to the decline of an older political generation and the inadequacy of its successors.
+
+Raju links this generational change to a broader deterioration in political standards, writing that the new leaders do not appear able to provide the inspiration and dedication associated with the old guard. He proposes that they discuss the matter at the General Council meeting in Lucknow on December 15 and 16. The letter also records Raju's imminent professional transition: he expects to remain in his current job until the end of December 1973 and then join Mehta's firm from January 1, 1974.
+
 ## Key points
 
 - Raju replies to G. M. Gopal Krishna's confidential letter and expresses sympathy for his predicament.

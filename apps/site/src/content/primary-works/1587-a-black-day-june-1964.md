@@ -58,3 +58,7 @@ ai:
 summary: |-
   This issue of the Swatantra Newsletter (No. 44, June 1964) presents the Swatantra Party's opposition to the Seventeenth Amendment to the Constitution. The newsletter argues that the amendment weakened fundamental rights, property rights, judicial review, and constitutional safeguards while facilitating compulsory collectivisation and the erosion of peasant proprietorship. It reports parliamentary speeches, voting figures, appeals to the President, party resolutions, and the party's proposed response. The issue also addresses food scarcity and high prices, criticising land ceilings, inflationary policy, state trading, compulsory procurement, and the neglect of agriculture in favour of heavy industry and slow-yielding projects.
 ---
+
+## Summary
+
+This issue of the Swatantra Newsletter (No. 44, June 1964) presents the Swatantra Party's opposition to the Seventeenth Amendment to the Constitution. The newsletter argues that the amendment weakened fundamental rights, property rights, judicial review, and constitutional safeguards while facilitating compulsory collectivisation and the erosion of peasant proprietorship. It reports parliamentary speeches, voting figures, appeals to the President, party resolutions, and the party's proposed response. The issue also addresses food scarcity and high prices, criticising land ceilings, inflationary policy, state trading, compulsory procurement, and the neglect of agriculture in favour of heavy industry and slow-yielding projects.

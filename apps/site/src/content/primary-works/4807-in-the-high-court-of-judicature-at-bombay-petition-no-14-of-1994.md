@@ -51,6 +51,12 @@ summary: |-
   The rendered page contains only the petition cover or opening sheet. It identifies the document as a “PETITION” and names Shri Raju Patil as advocate for the petitioners, with an address in Dadar, Bombay. No substantive grounds, constitutional arguments, relief sought, orders, or subsequent proceedings are visible on this page.
 ---
 
+## Summary
+
+This single-page English court document is a petition filed in October 1994 before the High Court of Judicature at Bombay, in its Civil Appellate and Constitutional Jurisdiction. The case is identified as Writ Petition No. 14 of 1994, concerning the Districts of Bombay/Pune. Swatantra Party (Maharashtra) is named as petitioner, with the Union of India and others listed as respondents.
+
+The rendered page contains only the petition cover or opening sheet. It identifies the document as a “PETITION” and names Shri Raju Patil as advocate for the petitioners, with an address in Dadar, Bombay. No substantive grounds, constitutional arguments, relief sought, orders, or subsequent proceedings are visible on this page.
+
 ## Key points
 
 - The document is a writ petition before the High Court of Judicature at Bombay.

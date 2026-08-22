@@ -53,6 +53,12 @@ summary: |-
   The proposed policy measures include selling 49% of public-sector shares to the public while retaining a controlling interest with the government, listing the shares on the stock exchange, making units autonomous, and selling part of the employee stake to workers. Public-sector units are also urged to compete with private or cooperative enterprises, borrowing from financial institutions rather than the government. The page’s subsequent section on planning and resources calls for planning within available genuine resources, ending central and state deficit budgets, and stabilising the rupee so that small investments can outperform larger investments in an inflationary economy. Only this visible page—printed page 22—was read; the surrounding document is unavailable.
 ---
 
+## Summary
+
+The visible page argues that government-owned businesses, industries, and utilities should be consolidated before receiving further public investment, with a target of at least 10% profitability. It cites more than Rs. 7,000 crores invested in state electricity boards, none of which is operating at a profit, and attributes transmission losses of up to 27% to inefficient management. Referring to the Sixth Finance Commission, it argues that reducing losses to 15% could increase state revenues by Rs. 55 crores and release power for industry and agriculture.
+
+The proposed policy measures include selling 49% of public-sector shares to the public while retaining a controlling interest with the government, listing the shares on the stock exchange, making units autonomous, and selling part of the employee stake to workers. Public-sector units are also urged to compete with private or cooperative enterprises, borrowing from financial institutions rather than the government. The page’s subsequent section on planning and resources calls for planning within available genuine resources, ending central and state deficit budgets, and stabilising the rupee so that small investments can outperform larger investments in an inflationary economy. Only this visible page—printed page 22—was read; the surrounding document is unavailable.
+
 ## Key points
 
 - Public-sector investments should be consolidated before further funds are committed.

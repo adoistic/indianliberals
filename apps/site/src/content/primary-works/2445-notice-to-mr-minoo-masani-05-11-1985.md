@@ -45,6 +45,12 @@ summary: |-
   Bhatia says the older letter is self-explanatory and represents the only information currently available to him. He recommends that Masani write to the R.T.O. explaining that the vehicles in question were purchased for an election, making them difficult to locate at the present time. The letter closes by inviting Masani to request any further assistance.
 ---
 
+## Summary
+
+This one-page typed copy of a letter from V. P. Bhatia to M. R. Masani is dated 5 November 1985 and sent from Feltham House, Ballard Estate, Bombay. Bhatia acknowledges Masani’s letter of 19 October 1984 and reports finding a 1976 letter in his files addressed to the Regional Transport Officer.
+
+Bhatia says the older letter is self-explanatory and represents the only information currently available to him. He recommends that Masani write to the R.T.O. explaining that the vehicles in question were purchased for an election, making them difficult to locate at the present time. The letter closes by inviting Masani to request any further assistance.
+
 ## Key points
 
 - The document is a copy of a personal letter dated 5 November 1985.

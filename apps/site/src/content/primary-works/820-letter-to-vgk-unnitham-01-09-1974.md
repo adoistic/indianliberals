@@ -45,6 +45,12 @@ summary: |-
   The letter presents the enclosed article as potentially useful guidance to Unnithan. It is a brief item of correspondence rather than an argumentative essay, and the page contains no further discussion of the article’s subject or contents.
 ---
 
+## Summary
+
+In this letter dated September 1, 1974, M. R. Masani writes to V. G. K. Unnithan and acknowledges receipt of Unnithan’s August 8 letter. Masani encloses a copy of the September issue of Freedom First, drawing particular attention to its front-page article by S. V. Raju.
+
+The letter presents the enclosed article as potentially useful guidance to Unnithan. It is a brief item of correspondence rather than an argumentative essay, and the page contains no further discussion of the article’s subject or contents.
+
 ## Key points
 
 - The letter is dated September 1, 1974.

@@ -56,6 +56,12 @@ summary: |-
   In the rendered pages, Raju’s central objection is constitutional and liberal: socialism is undefined and encompasses sharply conflicting doctrines, while Section 29(A) discriminates against citizens who wish to organise politically around non-socialist principles. He maintains that the provision violates equality, freedom of association, freedom of thought and expression, and the democratic right to seek constitutional change. The pages conclude with the petition’s requests that the offending subsection be struck down and that the Swatantra Party be registered. Page 21 also contains a separate boxed item, “Change the Law” says Mr. Seshan, concerning the same registration dispute; it is treated as accompanying content rather than part of the main article.
 ---
 
+## Summary
+
+In the rendered pages, S. V. Raju argues that Section 29(A) of the Representation of the People Act, 1951, makes allegiance to socialism a condition for registering a political party. He traces the provision to the 1976 Emergency-era amendment that inserted “socialist” into the Constitution’s Preamble, and explains how the Swatantra Party’s attempt to register in Maharashtra was rejected because it could not swear allegiance to socialism. The article presents the party’s writ petition as a challenge to this requirement and to the unequal treatment of political parties and independent candidates.
+
+In the rendered pages, Raju’s central objection is constitutional and liberal: socialism is undefined and encompasses sharply conflicting doctrines, while Section 29(A) discriminates against citizens who wish to organise politically around non-socialist principles. He maintains that the provision violates equality, freedom of association, freedom of thought and expression, and the democratic right to seek constitutional change. The pages conclude with the petition’s requests that the offending subsection be struck down and that the Swatantra Party be registered. Page 21 also contains a separate boxed item, “Change the Law” says Mr. Seshan, concerning the same registration dispute; it is treated as accompanying content rather than part of the main article.
+
 ## Key points
 
 - The article links the party-registration requirement to the 1976 amendment adding “socialist” to the Constitution’s Preamble.

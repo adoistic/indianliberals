@@ -51,6 +51,12 @@ summary: |-
   The principal business concerned the judgment in notice of motion No. 663/90, filed against Courier Publications Pvt. Ltd. and others. The minutes state that the judgment, delivered on 25 November 1997, allowed the party's prayer 'A' but refused relief 'B'. After Raut explained the judgment and what the committee considered the judge's errors, the committee decided to file an appeal as soon as possible. S. V. Raju was authorised to take immediate action, while Ramachandran and Sampat were asked to coordinate with senior advocates and Raut. The meeting then ended with a vote of thanks to the chair.
 ---
 
+## Summary
+
+These minutes record a special meeting of the Executive Committee of the Swatantra Party, Maharashtra, held on 20 December 1997 at the party office in Mumbai. S. Ramachandran chaired the meeting; the attendance list also records L. R. Sampat, P. N. Subramanian, S. V. Raju, K. H. Subramanian, S. L. Popat, and legal adviser Nitin G. Raut. Leave of absence was granted to J. Venkiteswaran.
+
+The principal business concerned the judgment in notice of motion No. 663/90, filed against Courier Publications Pvt. Ltd. and others. The minutes state that the judgment, delivered on 25 November 1997, allowed the party's prayer 'A' but refused relief 'B'. After Raut explained the judgment and what the committee considered the judge's errors, the committee decided to file an appeal as soon as possible. S. V. Raju was authorised to take immediate action, while Ramachandran and Sampat were asked to coordinate with senior advocates and Raut. The meeting then ended with a vote of thanks to the chair.
+
 ## Key points
 
 - The Executive Committee of the Swatantra Party, Maharashtra, met in Mumbai on 20 December 1997.

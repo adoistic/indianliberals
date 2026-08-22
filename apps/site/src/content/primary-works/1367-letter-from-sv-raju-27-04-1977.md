@@ -49,6 +49,12 @@ summary: |-
   Raju instead encourages Budhi Prakash to contact Bhanu Pratap Singh in New Delhi, who can connect him with Janata Party members in Himachal Pradesh. He suggests that meeting Singh in Delhi would be cheaper and more effective than travelling to Bombay, and notes that Ashok Mehta has invited the party to send a representative. The letter closes with a copy to Bhanu Pratap Singh and a request that he receive Budhi Prakash as a long-standing and faithful Swatantra Party member.
 ---
 
+## Summary
+
+In this letter dated April 27, 1977, S. V. Raju replies to Budhi Prakash about the political reorganisation of the Swatantra Party after its Madras meeting of the National Executive. He reports two decisions: to establish a Rajaji Trust and transfer the party’s assets and property to it, and, as far as the party’s political identity is concerned, to merge with the Janata Party. Raju clarifies that he has no present intention of joining Janata, despite Budhi Prakash’s apparent interest in doing so.
+
+Raju instead encourages Budhi Prakash to contact Bhanu Pratap Singh in New Delhi, who can connect him with Janata Party members in Himachal Pradesh. He suggests that meeting Singh in Delhi would be cheaper and more effective than travelling to Bombay, and notes that Ashok Mehta has invited the party to send a representative. The letter closes with a copy to Bhanu Pratap Singh and a request that he receive Budhi Prakash as a long-standing and faithful Swatantra Party member.
+
 ## Key points
 
 - The letter records two decisions of the Swatantra Party’s National Executive: creating a Rajaji Trust and merging the party’s political entity with the Janata Party.

@@ -54,6 +54,12 @@ summary: |-
   The enclosed “AS I SEE IT” column by Minoo Masani disputes the claim that the Finance Minister’s Budget contained a “leakage” to the World Bank. Masani presents the Budget as a continuation of liberalising measures announced in November 1991, criticises the parliamentary disruption, and praises the Speaker’s handling of the incident and Dr Manmohan Singh’s performance. He welcomes reductions in direct taxation, action against gold smuggling, and limits on rupee convertibility, while expressing reservations about aspects of the Budget and inflationary fiscal practice. The rendered pages contain the complete two-page document, but they do not identify the letter’s signatory in typed or otherwise reliably legible form.
 ---
 
+## Summary
+
+This two-page English-language archival document combines a parliamentary letter and an attached newspaper clipping. The letter, dated 15 March 1992 and addressed to the Speaker of the Lok Sabha, invokes Rule 222 to request permission to raise a question of privilege against the author, publisher, printer, and editor of The Statesman. It objects to a column describing the disruption of Finance Minister Dr Manmohan Singh’s speech in the Lok Sabha on 29 February 1992, arguing that the column’s language—particularly its references to “hooligan hooligans,” indiscipline, and alleged “Socialism”—defamed a large group of Members of Parliament and impaired the dignity of the House. The signatory’s handwritten name is not legible.
+
+The enclosed “AS I SEE IT” column by Minoo Masani disputes the claim that the Finance Minister’s Budget contained a “leakage” to the World Bank. Masani presents the Budget as a continuation of liberalising measures announced in November 1991, criticises the parliamentary disruption, and praises the Speaker’s handling of the incident and Dr Manmohan Singh’s performance. He welcomes reductions in direct taxation, action against gold smuggling, and limits on rupee convertibility, while expressing reservations about aspects of the Budget and inflationary fiscal practice. The rendered pages contain the complete two-page document, but they do not identify the letter’s signatory in typed or otherwise reliably legible form.
+
 ## Key points
 
 - A Lok Sabha office letter dated 15 March 1992 seeks leave under Rule 222 to raise a question of privilege.

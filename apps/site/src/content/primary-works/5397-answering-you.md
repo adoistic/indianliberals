@@ -57,6 +57,12 @@ summary: |-
   The language discussion argues that India's multilingual education system places an excessive burden on students and can leave them mastering neither their own language nor English. Myers proposes Basic English as a practical tool and imagines its wider use helping create a neutral, Roman-script Hindustani lingua franca, while acknowledging that Hindi and Urdu appear to be diverging. The speakers further argue for teaching modern English literature in Indian universities, identify Gandhi and Nehru as important Indian writers in English, describe journalism as an underdeveloped but promising profession, and distinguish humane patriotism from aggressive nationalism. The supplied pages do not identify the pamphlet's date, publisher, place of publication, or full speaker identities.
 ---
 
+## Summary
+
+ANSWERING YOU is a question-and-answer pamphlet in which speakers identified as Masani, Hampton, Myers, and Stimson discuss socialism and communism, post-war education, India's language problem, modern English literature, journalism, and patriotism. The discussion distinguishes socialism from communism primarily by method: communism is presented as accepting violent revolution and dictatorship to abolish private property, while socialism is associated with preserving political democracy and individual liberty while pursuing economic equality. The pamphlet also advocates broad, compulsory, practical education without privilege based on wealth or social status.
+
+The language discussion argues that India's multilingual education system places an excessive burden on students and can leave them mastering neither their own language nor English. Myers proposes Basic English as a practical tool and imagines its wider use helping create a neutral, Roman-script Hindustani lingua franca, while acknowledging that Hindi and Urdu appear to be diverging. The speakers further argue for teaching modern English literature in Indian universities, identify Gandhi and Nehru as important Indian writers in English, describe journalism as an underdeveloped but promising profession, and distinguish humane patriotism from aggressive nationalism. The supplied pages do not identify the pamphlet's date, publisher, place of publication, or full speaker identities.
+
 ## Key points
 
 - The pamphlet contrasts communist revolutionary dictatorship with socialist democratic methods.

@@ -50,6 +50,10 @@ summary: |-
   In this one-page letter dated 24 October 1963, Piloo Mody thanks C. Rajagopalachari for writing about Goa and reports that the Bombay Committee has agreed to seek the Central Party's permission for Bombay to help establish a Swatantra Party unit there. On the question of statehood, Mody says the Party should leave the decision open and allow the Goans to decide for themselves.
 ---
 
+## Summary
+
+In this one-page letter dated 24 October 1963, Piloo Mody thanks C. Rajagopalachari for writing about Goa and reports that the Bombay Committee has agreed to seek the Central Party's permission for Bombay to help establish a Swatantra Party unit there. On the question of statehood, Mody says the Party should leave the decision open and allow the Goans to decide for themselves.
+
 ## Key points
 
 - Mody reports Bombay's proposed role in helping establish a Swatantra Party unit in Goa.

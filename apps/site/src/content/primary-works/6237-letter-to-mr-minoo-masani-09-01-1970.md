@@ -44,6 +44,10 @@ summary: |-
   This single-page handwritten letter, dated 9 January 1970 from Pratap Palace, Himmatnagar, is addressed to M. R. Masani. The unidentified sender thanks Masani for his letter and says that they will reach Bombay the following Monday. The sender asks Masani to have S. V. Raju telephone them at the number 364243 on Monday and provide information about Masani's whereabouts and programme.
 ---
 
+## Summary
+
+This single-page handwritten letter, dated 9 January 1970 from Pratap Palace, Himmatnagar, is addressed to M. R. Masani. The unidentified sender thanks Masani for his letter and says that they will reach Bombay the following Monday. The sender asks Masani to have S. V. Raju telephone them at the number 364243 on Monday and provide information about Masani's whereabouts and programme.
+
 ## Key points
 
 - The letter is dated 9 January 1970 and written on Pratap Palace, Himmatnagar stationery.

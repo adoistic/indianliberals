@@ -53,6 +53,12 @@ summary: |-
   In the letter dated 6 May 1985, Masani renews his protest and explains that MRG-2347 was one of the Jeeps belonging to the Swatantra Party, disposed of in 1967 after notice of the sale was given to the transport authorities. He asks the officer not only to withdraw the demand notice for MRG-2347 but also to stop issuing bills for eight other vehicles listed in the letter.
 ---
 
+## Summary
+
+This two-page English correspondence records M. R. Masani’s efforts to stop the Regional Transport Office from sending him motor-vehicle bills for vehicles he says he neither owns nor possesses. In the letter dated 13 February 1985, Masani returns a bill concerning car No. MRG-2347 and attributes it to an administrative error, noting that repeated requests have not stopped the harassment.
+
+In the letter dated 6 May 1985, Masani renews his protest and explains that MRG-2347 was one of the Jeeps belonging to the Swatantra Party, disposed of in 1967 after notice of the sale was given to the transport authorities. He asks the officer not only to withdraw the demand notice for MRG-2347 but also to stop issuing bills for eight other vehicles listed in the letter.
+
 ## Key points
 
 - Masani disputes liability for motor-vehicle bills issued in relation to vehicles he says he does not own or possess.

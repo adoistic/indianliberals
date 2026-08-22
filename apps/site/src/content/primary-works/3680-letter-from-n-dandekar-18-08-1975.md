@@ -49,6 +49,10 @@ summary: |-
   This two-page letter, dated 18 August 1975 and signed by N. Dandekar as Adviser, addresses the payment of rent for premises occupied by The White Star as a sub-tenant. Dandekar reviews two letters from Bharatiya Lok Dal officials, Madhu Mehta and V. P. Bhatia, both demanding that the rent be paid to the BLD rather than to any other party. He also refers to the Chief Election Commissioner's January 1975 order concerning the amalgamation of the Swatantra Party, B.K.D., and Utkal Congress to form the Bharatiya Lok Dal.
 ---
 
+## Summary
+
+This two-page letter, dated 18 August 1975 and signed by N. Dandekar as Adviser, addresses the payment of rent for premises occupied by The White Star as a sub-tenant. Dandekar reviews two letters from Bharatiya Lok Dal officials, Madhu Mehta and V. P. Bhatia, both demanding that the rent be paid to the BLD rather than to any other party. He also refers to the Chief Election Commissioner's January 1975 order concerning the amalgamation of the Swatantra Party, B.K.D., and Utkal Congress to form the Bharatiya Lok Dal.
+
 ## Key points
 
 - The letter concerns rent for the portion of premises occupied by The White Star as a sub-tenant.

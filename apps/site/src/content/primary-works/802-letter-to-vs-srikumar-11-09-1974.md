@@ -49,6 +49,12 @@ summary: |-
   Raju also asks Srikumar to forward the judge’s observations on the injunction suits filed before the Convention, and requests an update on an executive meeting scheduled for September 8. The letter closes with a practical note that the venue for the test and interview of management trainees has been settled at the Woodlands. The page provides a brief glimpse of organisational and political correspondence, but does not explain the memorandum, litigation, Convention, or executive meeting in detail.
 ---
 
+## Summary
+
+In this letter dated September 11, 1974, S. V. Raju writes from Bombay to V. S. Srikumar about correspondence sent to Minoo Masani, who is abroad until mid-October. Raju considers Duraiswamy Nedar’s memorandum interesting and valid, but doubts that Piloo Mody will be persuaded by it, using a pointed metaphor to describe Mody’s resistance.
+
+Raju also asks Srikumar to forward the judge’s observations on the injunction suits filed before the Convention, and requests an update on an executive meeting scheduled for September 8. The letter closes with a practical note that the venue for the test and interview of management trainees has been settled at the Woodlands. The page provides a brief glimpse of organisational and political correspondence, but does not explain the memorandum, litigation, Convention, or executive meeting in detail.
+
 ## Key points
 
 - The letter was written by S. V. Raju in Bombay on September 11, 1974.

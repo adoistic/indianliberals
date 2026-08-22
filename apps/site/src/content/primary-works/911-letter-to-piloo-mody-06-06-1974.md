@@ -52,6 +52,12 @@ summary: |-
   Masani is particularly concerned that a hastily formed new party would be too small, politically heterogeneous, and insufficiently credible. He argues that merely adopting a declaratory statement of principles is inadequate: the new organisation would need a coherent programme and sufficient homogeneity to offer a genuine alternative to the policies of the parties that had governed for two decades. He therefore recommends a staged approach—maintaining Swatantra's separate identity while agreeing with other parties on a common programme for "Unity in Action." He closes by noting that the General Council can only recommend dissolution, while a National Convention has the constitutional authority to make the final decision.
 ---
 
+## Summary
+
+In this letter dated June 6, 1974, Minoo Masani writes to Piloo Mody about the proposed dissolution of the Swatantra Party and the formation of a broader non-Marxist political party. Masani accepts the principle of consolidation among non-Marxist parties, including Congress (O), Jan Sangh, the Akalis, and the DMK, but argues that dissolving Swatantra would not by itself create a meaningful national alternative or counter the advantages enjoyed by the ruling party under the British-derived electoral system.
+
+Masani is particularly concerned that a hastily formed new party would be too small, politically heterogeneous, and insufficiently credible. He argues that merely adopting a declaratory statement of principles is inadequate: the new organisation would need a coherent programme and sufficient homogeneity to offer a genuine alternative to the policies of the parties that had governed for two decades. He therefore recommends a staged approach—maintaining Swatantra's separate identity while agreeing with other parties on a common programme for "Unity in Action." He closes by noting that the General Council can only recommend dissolution, while a National Convention has the constitutional authority to make the final decision.
+
 ## Key points
 
 - Masani supports non-Marxist political consolidation in principle but opposes dissolving Swatantra Party without a stronger organisational and programmatic basis.

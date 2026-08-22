@@ -49,6 +49,12 @@ summary: |-
   The letter closes with Masani's offer of cooperation and goodwill. The rendered page contains no substantive discussion beyond this expression of support for the Institute and its work.
 ---
 
+## Summary
+
+In this letter dated March 30, 1971, M. R. Masani thanks L. M. Singhvi for his March 24 letter and for expressing solidarity. Masani assures Singhvi that he will do whatever he can from outside Parliament to assist the Institute of Constitutional and Parliamentary Studies.
+
+The letter closes with Masani's offer of cooperation and goodwill. The rendered page contains no substantive discussion beyond this expression of support for the Institute and its work.
+
 ## Key points
 
 - The letter is dated March 30, 1971.

@@ -47,6 +47,12 @@ summary: |-
   Masani reports that Raj Krishna had been unable to respond to the earlier letter for reasons explained in an enclosed letter. He asks Singh Deo to decide whether the proposed visit should still take place in the second half of June for four or five days. Since Masani is leaving for Europe, he requests that Singh Deo write directly to Raj Krishna, noting that he has passed the professor's offer on to him. The referenced enclosure is not included in the rendered page.
 ---
 
+## Summary
+
+This letter, written by M. R. Masani from New Delhi on 7 May 1968, is addressed to Shri R. N. Singh Deo, identified as Chief Minister of Orissa. Masani refers to an earlier proposal, made after consulting the recipient, for Prof. Raj Krishna of Rajasthan University to visit Orissa and study the food problem in relation to the policies then being pursued.
+
+Masani reports that Raj Krishna had been unable to respond to the earlier letter for reasons explained in an enclosed letter. He asks Singh Deo to decide whether the proposed visit should still take place in the second half of June for four or five days. Since Masani is leaving for Europe, he requests that Singh Deo write directly to Raj Krishna, noting that he has passed the professor's offer on to him. The referenced enclosure is not included in the rendered page.
+
 ## Key points
 
 - M. R. Masani wrote from 2 Tughlaq Road, New Delhi, on 7 May 1968.

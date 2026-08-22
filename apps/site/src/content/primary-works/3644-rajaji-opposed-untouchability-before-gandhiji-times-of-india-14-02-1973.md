@@ -50,6 +50,10 @@ summary: |-
   The 14 February 1973 Times of India clipping reports remarks by H. V. R. Iyengar about C. Rajagopalachari (“Rajaji”), emphasizing that Rajaji opposed untouchability before Mahatma Gandhi. The report recalls Rajaji’s refusal to accept caste-based discrimination, including his breaking bread with Harijans, and notes his later participation in Gandhi’s freedom struggle. Iyengar also presents Rajaji as an early advocate of swaraj, warning that government could otherwise produce corruption, power concentration, and injustice to ordinary people. The article records Rajaji’s opposition to the Quit India resolution in 1942 and an account of his respectful but politically independent relationship with Gandhi in prison.
 ---
 
+## Summary
+
+The 14 February 1973 Times of India clipping reports remarks by H. V. R. Iyengar about C. Rajagopalachari (“Rajaji”), emphasizing that Rajaji opposed untouchability before Mahatma Gandhi. The report recalls Rajaji’s refusal to accept caste-based discrimination, including his breaking bread with Harijans, and notes his later participation in Gandhi’s freedom struggle. Iyengar also presents Rajaji as an early advocate of swaraj, warning that government could otherwise produce corruption, power concentration, and injustice to ordinary people. The article records Rajaji’s opposition to the Quit India resolution in 1942 and an account of his respectful but politically independent relationship with Gandhi in prison.
+
 ## Key points
 
 - H. V. R. Iyengar said Rajaji opposed untouchability before Gandhi.

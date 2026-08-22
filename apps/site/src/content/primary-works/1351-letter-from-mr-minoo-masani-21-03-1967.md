@@ -51,6 +51,12 @@ summary: |-
   Masani distinguishes this political freedom from the separate expectation that the Speaker and Deputy Speaker serve as full-time parliamentary functionaries and do not take another profession or salaried job. Because Kunte had indicated that this latter issue was not relevant to his circumstances, Masani states that he is submitting Kunte's nomination and asks him to allow his name to proceed on 28 March.
 ---
 
+## Summary
+
+In this letter dated 21 March 1967, M. R. Masani responds to D. K. Kunte's concerns about whether serving as Deputy Speaker restricts his political activity. Masani reports that he consulted the Secretariat and concludes that there is no limitation on Kunte's political activity in that office. Kunte may address the House when the Speaker is in the Chair, and outside the House may act freely, including addressing public meetings and serving his constituency.
+
+Masani distinguishes this political freedom from the separate expectation that the Speaker and Deputy Speaker serve as full-time parliamentary functionaries and do not take another profession or salaried job. Because Kunte had indicated that this latter issue was not relevant to his circumstances, Masani states that he is submitting Kunte's nomination and asks him to allow his name to proceed on 28 March.
+
 ## Key points
 
 - Masani writes to D. K. Kunte on 21 March 1967 after consulting the Secretariat.

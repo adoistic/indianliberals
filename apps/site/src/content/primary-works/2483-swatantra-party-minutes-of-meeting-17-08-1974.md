@@ -50,6 +50,10 @@ summary: |-
   These two pages record the draft minutes of the Maharashtra Executive Committee of the Swatantra Party, held at the party office in Sassoon Building, Bombay, on 17 August 1974. The minutes list the committee members and invited attendees, confirm the previous meeting's minutes, and ratify the acceptance of Madhu Mehta's resignation as President of the Maharashtra unit.
 ---
 
+## Summary
+
+These two pages record the draft minutes of the Maharashtra Executive Committee of the Swatantra Party, held at the party office in Sassoon Building, Bombay, on 17 August 1974. The minutes list the committee members and invited attendees, confirm the previous meeting's minutes, and ratify the acceptance of Madhu Mehta's resignation as President of the Maharashtra unit.
+
 ## Key points
 
 - The Executive Committee meeting took place in Bombay on 17 August 1974, from approximately 3:00 to 5:00 p.m.

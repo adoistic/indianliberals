@@ -48,6 +48,12 @@ summary: |-
   Rajagopalachari distinguishes this proposed trip from a planned Delhi meeting, whose purpose he says remains unchanged. The only qualification concerns party elections mentioned by Ranga, which he leaves Masani to assess. The letter is therefore a brief piece of Swatantra Party correspondence about coordinating political engagements and travel.
 ---
 
+## Summary
+
+In this letter dated 12 August 1964, C. Rajagopalachari writes to Minoo Masani about a possible engagement in Washington involving a meeting of World Peasants. Rajagopalachari relays Ranga’s proposal and expresses the view that Ranga should attend if the expenses can be met.
+
+Rajagopalachari distinguishes this proposed trip from a planned Delhi meeting, whose purpose he says remains unchanged. The only qualification concerns party elections mentioned by Ranga, which he leaves Masani to assess. The letter is therefore a brief piece of Swatantra Party correspondence about coordinating political engagements and travel.
+
 ## Key points
 
 - The letter is dated 12 August 1964 and is addressed to Minoo Masani.

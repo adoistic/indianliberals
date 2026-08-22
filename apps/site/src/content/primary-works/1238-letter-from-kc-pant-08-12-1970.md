@@ -49,6 +49,12 @@ summary: |-
   Pant conveys that the President of India, having been informed of the subject matter of the Bill — which seeks to consolidate and amend the law relating to the salaries and allowances of ministers — recommends its introduction in the Lok Sabha under Articles 117(1) and 274(1) of the Constitution, and further recommends the Bill's consideration in the Lok Sabha under Article 117(3). The letter is a procedural instrument: it transmits the executive assent required for a financial private member's bill to be taken up by the House.
 ---
 
+## Summary
+
+This one-page official letter, issued by the Government of India's Ministry of Home Affairs (No. F.25/6/70-Pub.I) on 8 December 1970, is a formal communication from Minister K. C. Pant to the Secretary of the Lok Sabha. It concerns a private member's bill titled 'The Salaries and Allowances of Ministers Bill, 1970,' tabled by Members of Parliament N. Dandekar and M. R. Masani.
+
+Pant conveys that the President of India, having been informed of the subject matter of the Bill — which seeks to consolidate and amend the law relating to the salaries and allowances of ministers — recommends its introduction in the Lok Sabha under Articles 117(1) and 274(1) of the Constitution, and further recommends the Bill's consideration in the Lok Sabha under Article 117(3). The letter is a procedural instrument: it transmits the executive assent required for a financial private member's bill to be taken up by the House.
+
 ## Key points
 
 - Official letter from the Ministry of Home Affairs, reference No. F.25/6/70-Pub.I, dated 8 December 1970, New Delhi.

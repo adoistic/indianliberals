@@ -53,6 +53,12 @@ summary: |-
   In the rendered pages, Masani’s central criticism is directed at the Great Power veto, especially Russia’s repeated use of it in disputes involving Iran, Albania, Greece, and Hungary. He argues that the veto can make collective security ineffective and leave smaller nations exposed to aggression or political coercion. The address therefore defends democratic vigilance and cooperation among free nations, treats the Truman Doctrine and Marshall Plan as provisional responses to UN paralysis, and calls for a constructive international order extending beyond Europe to Asia. The final rendered pages do not include the conclusion of the address.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani evaluates the United Nations two years after the signing of its Charter. He contrasts the Charter’s commitments to human rights, peaceful change, international law, collective security, and economic and social advancement with the practical record of the new organisation. The address presents the UN’s expanding network of specialised agencies and its handling of Palestine, South Africa, disarmament, atomic control, and other international disputes as evidence of meaningful progress, while warning that its success depends on whether nations accept limits on sovereignty and work through common institutions.
+
+In the rendered pages, Masani’s central criticism is directed at the Great Power veto, especially Russia’s repeated use of it in disputes involving Iran, Albania, Greece, and Hungary. He argues that the veto can make collective security ineffective and leave smaller nations exposed to aggression or political coercion. The address therefore defends democratic vigilance and cooperation among free nations, treats the Truman Doctrine and Marshall Plan as provisional responses to UN paralysis, and calls for a constructive international order extending beyond Europe to Asia. The final rendered pages do not include the conclusion of the address.
+
 ## Key points
 
 - Masani revisits the UN Charter’s promises of peace, human rights, justice, social progress, and international cooperation.

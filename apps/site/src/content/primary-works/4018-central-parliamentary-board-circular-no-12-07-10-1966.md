@@ -44,6 +44,10 @@ summary: |-
   This one-page English office circular, issued by the Swatantra Party Central Office on 7 October 1966, announces that the next meeting of the Central Parliamentary Board will take place in New Delhi on Saturday, 5 November. It explains that the detailed agenda and other meeting information will be communicated later, while giving recipients advance notice so they can make travel and other arrangements.
 ---
 
+## Summary
+
+This one-page English office circular, issued by the Swatantra Party Central Office on 7 October 1966, announces that the next meeting of the Central Parliamentary Board will take place in New Delhi on Saturday, 5 November. It explains that the detailed agenda and other meeting information will be communicated later, while giving recipients advance notice so they can make travel and other arrangements.
+
 ## Key points
 
 - The document is Central Parliamentary Board Circular No. 12.

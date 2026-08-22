@@ -53,6 +53,12 @@ summary: |-
   The attached resolution records the political and organisational basis for this transition. It presents a two-party system as a means of reducing political chaos and electoral confusion, endorses cooperation among non-Congress and non-Communist parties, and authorises Mody to implement the merger, notify the Chief Election Commissioner of the party’s dissolution, and request that its electoral symbol be frozen. Bhatia advises Munshi to wait for the National Executive’s meeting and to discuss the matter with Mody when he arrives in Bombay. The document therefore captures the Swatantra Party’s intended dissolution and its proposed incorporation into a broader national opposition formation.
 ---
 
+## Summary
+
+This 27 August 1974 letter from V. P. Bhatia, Executive Secretary of the Swatantra Party, responds to Girish Munshi’s request that the party’s national headquarters premises be handed over on the grounds that the Swatantra Party would cease to exist. Bhatia cites the National Convention’s resolution approving the formation of a National Alternative through the amalgamation of political forces other than the ruling Congress and Communist parties, and explains that the Swatantra Party would merge with the new Bharatiya Lok Dal once the National Executive had reviewed developments and Piloo Mody had announced the final decision.
+
+The attached resolution records the political and organisational basis for this transition. It presents a two-party system as a means of reducing political chaos and electoral confusion, endorses cooperation among non-Congress and non-Communist parties, and authorises Mody to implement the merger, notify the Chief Election Commissioner of the party’s dissolution, and request that its electoral symbol be frozen. Bhatia advises Munshi to wait for the National Executive’s meeting and to discuss the matter with Mody when he arrives in Bombay. The document therefore captures the Swatantra Party’s intended dissolution and its proposed incorporation into a broader national opposition formation.
+
 ## Key points
 
 - V. P. Bhatia rejects the immediate handover of the Swatantra Party’s national headquarters premises.

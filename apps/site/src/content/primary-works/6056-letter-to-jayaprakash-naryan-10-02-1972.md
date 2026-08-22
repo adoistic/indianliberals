@@ -52,6 +52,12 @@ summary: |-
   The pages also preserve Narayan’s reflections on the political crisis in the subcontinent. Writing in December 1971, he expresses hope that Bangladesh will become independent and that West Pakistan will emerge free from military dictatorship and religious jingoism. Newspaper clippings dated 7 February 1972 report Narayan’s planned year-long retreat from public life while emphasizing that he would remain available in a national emergency. The rendered set contains the complete five-page dossier, but no printed title or broader archival context is visible.
 ---
 
+## Summary
+
+This untitled English-language dossier centers on Minoo Masani’s correspondence with Jayaprakash Narayan in late 1971 and February 1972. Masani’s letter of 10 February acknowledges Narayan’s decision to withdraw from public life for at least a year because of his physical condition, expresses hope that rest will restore his health, and discusses Narayan’s difficulty in contributing an article to Freedom First. Related correspondence describes Narayan’s confinement to bed, medical treatment, and gradual recovery, while also noting his intention to continue working within the limits imposed by his doctors.
+
+The pages also preserve Narayan’s reflections on the political crisis in the subcontinent. Writing in December 1971, he expresses hope that Bangladesh will become independent and that West Pakistan will emerge free from military dictatorship and religious jingoism. Newspaper clippings dated 7 February 1972 report Narayan’s planned year-long retreat from public life while emphasizing that he would remain available in a national emergency. The rendered set contains the complete five-page dossier, but no printed title or broader archival context is visible.
+
 ## Key points
 
 - Masani writes to Jayaprakash Narayan on 10 February 1972 about Narayan’s decision to retire from public life temporarily for health reasons.

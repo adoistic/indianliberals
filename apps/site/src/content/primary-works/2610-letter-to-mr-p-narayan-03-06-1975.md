@@ -48,6 +48,10 @@ summary: |-
   This typed letter, dated 3 June 1975, was sent from the Swatantra Party's National Headquarters in Madras by Joint Secretary V. S. Srikumar to P. Narayan of the party's Maharashtra unit. Srikumar acknowledges Narayan's letter of 29 May and reports that he has written twice to S. V. Raju at his house address.
 ---
 
+## Summary
+
+This typed letter, dated 3 June 1975, was sent from the Swatantra Party's National Headquarters in Madras by Joint Secretary V. S. Srikumar to P. Narayan of the party's Maharashtra unit. Srikumar acknowledges Narayan's letter of 29 May and reports that he has written twice to S. V. Raju at his house address.
+
 ## Key points
 
 - The letter is dated 3 June 1975 and issued on Swatantra Party National Headquarters letterhead in Madras.

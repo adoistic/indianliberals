@@ -53,6 +53,12 @@ summary: |-
   The accompanying pages preserve related parliamentary material: a typed list of fourteen no-confidence motions, a list of adjournment motions concerning the Rabat Conference, and two additional August 1969 notices for no-confidence motions. One of these broader formulations criticizes the government for compromising India’s professed policy of non-alignment and its identity as a non-denominational state. The dossier therefore documents parliamentary opposition to the government’s foreign-policy conduct, especially its diplomatic handling of the Rabat Conference, rather than presenting a developed policy argument beyond these formal motions.
 ---
 
+## Summary
+
+This five-page scanned dossier is centered on Madhu Limaye’s letter of November 13, 1969, addressed to the Secretary of the Lok Sabha. Limaye gives notice of his intention to move a no-confidence motion against the Council of Ministers under Rule 198, condemning the government’s handling of the Rabat Conference. He argues that India’s late effort to secure admission to the conference resulted in a humiliating and avoidable exclusion from the meeting of the heads of Islamic states.
+
+The accompanying pages preserve related parliamentary material: a typed list of fourteen no-confidence motions, a list of adjournment motions concerning the Rabat Conference, and two additional August 1969 notices for no-confidence motions. One of these broader formulations criticizes the government for compromising India’s professed policy of non-alignment and its identity as a non-denominational state. The dossier therefore documents parliamentary opposition to the government’s foreign-policy conduct, especially its diplomatic handling of the Rabat Conference, rather than presenting a developed policy argument beyond these formal motions.
+
 ## Key points
 
 - Madhu Limaye’s principal letter is dated November 13, 1969, and is addressed to the Secretary of the Lok Sabha.

@@ -52,6 +52,12 @@ summary: |-
   Masani asks the Speaker to recognize the group and extend to it the same facilities provided to other parliamentary groups, including the Communist Party, the Praja Socialist Party, the Independent Parliamentary Group, and the Ganatantra Parishad. The requested facilities would allow the Swatantra Party to function in an organized manner from the beginning of the next parliamentary session in early 1960. The letter also requests contiguous seating for members of the group behind the seats occupied by Ranga and Masani.
 ---
 
+## Summary
+
+This one-page letter, dated 22 December 1959 and signed “(Leader)” with the initials “MRM,” informs the Speaker of the Lok Sabha that ten Swatantra Party members have formed an organized parliamentary group. It lists the group’s members and office-bearers: Professor N. G. Ranga as Leader, M. R. Masani as Deputy Leader, Mohamed Imam as Secretary, and S. A. Matin as Whip. The letter identifies the Party’s Statement of Principles, adopted at its preparatory convention in Bombay on 1–2 August, and its Constitution, adopted by the General Council at Hyderabad on 9 December, as attached documents.
+
+Masani asks the Speaker to recognize the group and extend to it the same facilities provided to other parliamentary groups, including the Communist Party, the Praja Socialist Party, the Independent Parliamentary Group, and the Ganatantra Parishad. The requested facilities would allow the Swatantra Party to function in an organized manner from the beginning of the next parliamentary session in early 1960. The letter also requests contiguous seating for members of the group behind the seats occupied by Ranga and Masani.
+
 ## Key points
 
 - The letter announces the formation of a Swatantra Party group among its Lok Sabha members.

@@ -54,6 +54,12 @@ summary: |-
   The petition also contends that broadcasting is a public resource and that a government monopoly restricts the circulation of news, information, and opinion. It calls for the licensing of private broadcasting services under an independent authority, while recognising that reasonable restrictions may be imposed in the public interest. The clipping refers to a prior representation submitted to the Ministry of Information and Broadcasting and notes the petitioners’ concern that the Government had not acted on their request.
 ---
 
+## Summary
+
+This single-page newspaper clipping reports a petition challenging the Union Government’s exclusive control over radio and television broadcasting in India. The petitioners argue that, under the Constitution, the airwaves belong to the people rather than to the Government, and that the Government’s control of All India Radio and Doordarshan is inconsistent with constitutional guarantees of freedom of speech and expression.
+
+The petition also contends that broadcasting is a public resource and that a government monopoly restricts the circulation of news, information, and opinion. It calls for the licensing of private broadcasting services under an independent authority, while recognising that reasonable restrictions may be imposed in the public interest. The clipping refers to a prior representation submitted to the Ministry of Information and Broadcasting and notes the petitioners’ concern that the Government had not acted on their request.
+
 ## Key points
 
 - The petition challenges the Union Government’s monopoly over radio and television broadcasting.

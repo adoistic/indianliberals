@@ -50,6 +50,12 @@ summary: |-
   The acknowledgment is issued and signed by S.V. Raju in his capacity as Office Secretary. No printed title, address, or place of issue appears on the page.
 ---
 
+## Summary
+
+This single-page English office letter, dated July 15, 1963, acknowledges receipt of a voluntary donation from Mr. S.S. Khambata. The contribution, amounting to five hundred rupees, was made to the Central Office of the Swatantra Party.
+
+The acknowledgment is issued and signed by S.V. Raju in his capacity as Office Secretary. No printed title, address, or place of issue appears on the page.
+
 ## Key points
 
 - The document is dated July 15, 1963.

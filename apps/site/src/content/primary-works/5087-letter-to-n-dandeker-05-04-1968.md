@@ -50,6 +50,12 @@ summary: |-
   The letter's immediate purpose is organisational: it seeks an appropriate decision that will allow the party to close ranks and resume united work under its leadership. The page is signed in handwriting that appears to read “R. S. Smiley,” while the name field at the top appears to read “Raghubir Saran Srivastava”; the identity of the signatory therefore remains uncertain.
 ---
 
+## Summary
+
+This single-page English letter, dated 5 April 1968 and addressed to N. Dandekar, requests an emergency meeting of the Swatantra Party's General Council. The writer asks that the meeting address Minoo Masani's resignation from the National Executive and the Central Parliamentary Board.
+
+The letter's immediate purpose is organisational: it seeks an appropriate decision that will allow the party to close ranks and resume united work under its leadership. The page is signed in handwriting that appears to read “R. S. Smiley,” while the name field at the top appears to read “Raghubir Saran Srivastava”; the identity of the signatory therefore remains uncertain.
+
 ## Key points
 
 - The letter is dated 5 April 1968 and addressed to N. Dandekar.

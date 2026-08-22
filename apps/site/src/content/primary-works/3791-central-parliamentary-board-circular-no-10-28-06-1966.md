@@ -52,6 +52,12 @@ summary: |-
   The circular specifies the meeting schedule, venue, and logistical purpose. The session was to begin at 3:00 p.m. on Friday, 22 July, continue through the following morning, and conclude at 1:00 p.m. on Saturday, 23 July, at Rajaji’s room in Kalki Building, Kilpauk, Madras. The agenda would be sent separately; this advance notice was intended to help the recipient arrange travel and attendance.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated 28 June 1966, announces a forthcoming meeting of the Central Parliamentary Board in Madras. Issued by General Secretary M. R. Masani, it states that the meeting was arranged in consultation with the party president and Rajaji and would take place on 22–23 July 1966.
+
+The circular specifies the meeting schedule, venue, and logistical purpose. The session was to begin at 3:00 p.m. on Friday, 22 July, continue through the following morning, and conclude at 1:00 p.m. on Saturday, 23 July, at Rajaji’s room in Kalki Building, Kilpauk, Madras. The agenda would be sent separately; this advance notice was intended to help the recipient arrange travel and attendance.
+
 ## Key points
 
 - The document is Central Parliamentary Board Circular No. 10 of the Swatantra Party.

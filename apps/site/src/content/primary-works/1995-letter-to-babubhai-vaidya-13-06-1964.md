@@ -50,6 +50,12 @@ summary: |-
   The second page reproduces a Gujarati newspaper report about the incident. Its headline describes the beating, arrest, and release on bail of an MLA by railway police, while the article supplies additional narrative detail about the confrontation and the subsequent medical treatment. The pages document a specific allegation of police misconduct and the circulation of the incident in the contemporary press; they do not show the letter's recipient, wider correspondence, or any subsequent action taken.
 ---
 
+## Summary
+
+This two-page archival item is a handwritten letter dated 13 June 1964 concerning the alleged assault and arrest of Shri Babubhai Vaidya, an MLA from Rajkot. The letter states that Vaidya and another person, Athul, were travelling by train and were beaten by railway police at Viramgam station after Vaidya refused to vacate a compartment occupied by a companion. It records that both men were arrested and later released on bail, and that Vaidya received treatment for his injuries at Surendranagar.
+
+The second page reproduces a Gujarati newspaper report about the incident. Its headline describes the beating, arrest, and release on bail of an MLA by railway police, while the article supplies additional narrative detail about the confrontation and the subsequent medical treatment. The pages document a specific allegation of police misconduct and the circulation of the incident in the contemporary press; they do not show the letter's recipient, wider correspondence, or any subsequent action taken.
+
 ## Key points
 
 - The handwritten letter is dated 13 June 1964.

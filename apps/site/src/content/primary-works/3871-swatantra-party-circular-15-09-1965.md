@@ -53,6 +53,12 @@ summary: |-
   The meeting endorsed immediate acceptance of the Security Council's ceasefire suggestion, while retaining the party's position as stated by the Prime Minister in a letter to U Thant and in Parliament. Members were instructed not to participate in a proposed delegation visiting High Commissioner's offices to protest Britain's attitude. The minutes also record administrative decisions: N. Dandekar would take the office stenographer onto the pay roll at Rs. 350 per month, and an additional research-assistant-cum-stenographer would be appointed at Rs. 400 per month.
 ---
 
+## Summary
+
+This two-page English-language Swatantra Party Parliamentary Office packet contains an 18 September 1965 circular and minutes dated 20 September 1965. The circular informs members that, because of the current crisis, elections of the party's office-bearers and Parliamentary Group executives will be postponed to the November session. The minutes record a meeting of members of both Houses of Parliament in which the Indo-Pakistan conflict and the United Nations Security Council's proposed unconditional ceasefire were discussed.
+
+The meeting endorsed immediate acceptance of the Security Council's ceasefire suggestion, while retaining the party's position as stated by the Prime Minister in a letter to U Thant and in Parliament. Members were instructed not to participate in a proposed delegation visiting High Commissioner's offices to protest Britain's attitude. The minutes also record administrative decisions: N. Dandekar would take the office stenographer onto the pay roll at Rs. 350 per month, and an additional research-assistant-cum-stenographer would be appointed at Rs. 400 per month.
+
 ## Key points
 
 - The 18 September circular postpones elections of party office-bearers and Parliamentary Group executives to the November session.

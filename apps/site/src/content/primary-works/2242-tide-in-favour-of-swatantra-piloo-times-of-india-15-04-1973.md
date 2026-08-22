@@ -52,6 +52,12 @@ summary: |-
   The report also records Mody's claim that Swatantra could win 300 seats in the 1976 parliamentary elections and form a government at the Centre. Its economic argument centres on development as a process driven by individual and local initiative rather than government direction. Minoo Masani, inaugurating the convention, similarly called for a more radical and socially engaged Swatantra Party, defending civil freedoms and warning about declining public morality. The page also briefly reports a separate convention episode in which Congress leader E. K. Kumaran was greeted by Swatantrites.
 ---
 
+## Summary
+
+This Times of India News Service report, published from Madras on 15 April 1973, presents Piloo Mody's argument that the Swatantra Party was gaining political momentum. Speaking at the party's sixth national convention, Mody said the party's prospects had improved because the policies of Prime Minister Indira Gandhi had produced economic and political disappointment. He accused the Congress of applying “constitutional double standards,” criticised what he described as socialist economic policies, and argued that the party could capitalise on public frustration and disillusionment.
+
+The report also records Mody's claim that Swatantra could win 300 seats in the 1976 parliamentary elections and form a government at the Centre. Its economic argument centres on development as a process driven by individual and local initiative rather than government direction. Minoo Masani, inaugurating the convention, similarly called for a more radical and socially engaged Swatantra Party, defending civil freedoms and warning about declining public morality. The page also briefly reports a separate convention episode in which Congress leader E. K. Kumaran was greeted by Swatantrites.
+
 ## Key points
 
 - Piloo Mody said the Swatantra Party's political prospects had improved amid dissatisfaction with Indira Gandhi's policies.

@@ -51,6 +51,12 @@ summary: |-
   In the rendered page, Verghese uses Maharashtra’s sugar industry as his central case. He cites higher productivity on joint-stock company farms than on co-operative farms, as well as their investment in irrigation, mechanisation, drainage, improved seed, and fertiliser. He criticises the Maharashtra Bill for exempting sugar-factory farms only ambiguously and for empowering the State Government to reorganise them, arguing that such intervention could reduce production, jeopardise factory supplies, and undermine both economic efficiency and social justice. The article closes by questioning whether the policy could achieve socialism through administrative controls while leaving the underlying productivity problem unresolved.
 ---
 
+## Summary
+
+In the rendered page, B. G. Verghese examines Maharashtra’s proposed land-ceiling policy and argues that uniform limits on agricultural holdings could damage productive sugar-factory farms. The article distinguishes between the social objective of reducing landlessness and the practical consequences of breaking up large, efficiently managed units. It presents the Planning Commission’s proposed ceiling—land yielding an annual income of Rs. 3,600—as an arbitrary figure and contends that ceilings should be assessed in relation to cultivation, productivity, and local conditions rather than acreage alone.
+
+In the rendered page, Verghese uses Maharashtra’s sugar industry as his central case. He cites higher productivity on joint-stock company farms than on co-operative farms, as well as their investment in irrigation, mechanisation, drainage, improved seed, and fertiliser. He criticises the Maharashtra Bill for exempting sugar-factory farms only ambiguously and for empowering the State Government to reorganise them, arguing that such intervention could reduce production, jeopardise factory supplies, and undermine both economic efficiency and social justice. The article closes by questioning whether the policy could achieve socialism through administrative controls while leaving the underlying productivity problem unresolved.
+
 ## Key points
 
 - The article supports the objective of promoting Indian prosperity and welfare but questions whether land ceilings are an effective instrument of social justice.

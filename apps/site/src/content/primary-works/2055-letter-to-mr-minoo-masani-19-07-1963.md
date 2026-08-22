@@ -52,6 +52,12 @@ summary: |-
   The letter explains a procedural change: Members no longer submit the full text of a proposed resolution in advance, but instead ballot their names to indicate an intention to move resolutions during the coming session. If selected, a Member may move a resolution with the Speaker’s permission. Jain says the party wishes to raise the recent Patnaik–Mehta controversy, including questions of corruption in high offices and developments in the Centre and the state of Orissa, alongside other subjects requiring parliamentary discussion.
 ---
 
+## Summary
+
+This one-page letter, dated July 19, 1963, was sent from the Swatantra Party Parliamentary Office to M. R. Masani. A. P. Jain encloses a proposed letter to the Lok Sabha Secretary and asks Masani to sign and return it so that the resolution can be submitted to the Lok Sabha Secretariat.
+
+The letter explains a procedural change: Members no longer submit the full text of a proposed resolution in advance, but instead ballot their names to indicate an intention to move resolutions during the coming session. If selected, a Member may move a resolution with the Speaker’s permission. Jain says the party wishes to raise the recent Patnaik–Mehta controversy, including questions of corruption in high offices and developments in the Centre and the state of Orissa, alongside other subjects requiring parliamentary discussion.
+
 ## Key points
 
 - A. P. Jain writes from the Swatantra Party Parliamentary Office to M. R. Masani on July 19, 1963.

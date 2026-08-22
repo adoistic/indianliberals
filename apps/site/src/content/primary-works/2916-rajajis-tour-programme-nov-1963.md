@@ -52,6 +52,12 @@ summary: |-
   The schedule includes Rajaji's attendance at the 17th Amendment Conference in Vijayawada and a Swatantra Party conference in Tirunelveli, followed by planned visits to Delhi on 23 and 24 November. The document is an administrative itinerary rather than an argumentative or literary work.
 ---
 
+## Summary
+
+This single-page office record, headed “Rajaji's Tour Programme for November 63,” lists C. Rajagopalachari's scheduled movements during November 1963. It records departures and arrivals by train and air between Vijayawada, Madras, Tirunelveli, and Delhi, with times and railway termini specified where applicable.
+
+The schedule includes Rajaji's attendance at the 17th Amendment Conference in Vijayawada and a Swatantra Party conference in Tirunelveli, followed by planned visits to Delhi on 23 and 24 November. The document is an administrative itinerary rather than an argumentative or literary work.
+
 ## Key points
 
 - The document is a one-page typed itinerary for Rajaji's November 1963 tour.

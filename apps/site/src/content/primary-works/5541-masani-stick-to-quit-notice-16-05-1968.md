@@ -48,6 +48,12 @@ summary: |-
   The report attributes Masani’s resignation to the conduct of Swatantra Party legislators during the Rajya Sabha election in Gujarat. It says that the legislators defied the party high command by backing their own candidate, who won, and that Masani regarded the disciplinary action initiated against six Gujarat party members as a mere “eyewash.”
 ---
 
+## Summary
+
+This 1968 newspaper report describes M. R. Masani’s refusal to withdraw his resignation from the Swatantra Party’s Central Parliamentary Board and National Executive. In a letter to the party’s general secretary, N. Dandekar, Masani reportedly said that his decision was final.
+
+The report attributes Masani’s resignation to the conduct of Swatantra Party legislators during the Rajya Sabha election in Gujarat. It says that the legislators defied the party high command by backing their own candidate, who won, and that Masani regarded the disciplinary action initiated against six Gujarat party members as a mere “eyewash.”
+
 ## Key points
 
 - M. R. Masani rejected an appeal to withdraw his resignation from two Swatantra Party bodies.

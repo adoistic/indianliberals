@@ -48,6 +48,12 @@ summary: |-
   Singh presents the meeting as necessary for the party to make an appropriate decision, close ranks, and resume united work under the leadership of its senior figures. The document is a brief piece of internal party correspondence rather than a policy argument; its central concerns are party cohesion, organisational decision-making, and leadership during a moment of internal disruption.
 ---
 
+## Summary
+
+This single-page English letter, dated 7 April 1968, is from Baldeo Singh to N. Dandekar, M.P., the General Secretary of the Swatantra Party. Singh requests that Dandekar convene an emergency meeting of the party’s General Council to address Minoo Masani’s resignation from the National Executive and the Central Parliamentary Board.
+
+Singh presents the meeting as necessary for the party to make an appropriate decision, close ranks, and resume united work under the leadership of its senior figures. The document is a brief piece of internal party correspondence rather than a policy argument; its central concerns are party cohesion, organisational decision-making, and leadership during a moment of internal disruption.
+
 ## Key points
 
 - The letter is dated 7 April 1968 and is signed by Baldeo Singh.

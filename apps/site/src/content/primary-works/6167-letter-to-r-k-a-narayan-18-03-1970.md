@@ -46,6 +46,12 @@ summary: |-
   Raju also discusses the large volume of correspondence arriving in Hindi, Urdu, Gujarati, and other Indian languages. He says he normally forwards Masani only letters requiring his attention, but intends to impose stricter scrutiny to reduce the volume. The document is administrative and personal in tone, with a handwritten signature and an archival reference number, 6167.
 ---
 
+## Summary
+
+This one-page letter, dated March 18, 1970, from S. V. Raju to R. K. A. Narayan, concerns the whereabouts and accessibility of Minoo Masani. Raju directs Narayan to contact H. M. Patel at the Gujarat Assembly, noting that Masani is generally expected to return to Vallabh Vidyanagar at night.
+
+Raju also discusses the large volume of correspondence arriving in Hindi, Urdu, Gujarati, and other Indian languages. He says he normally forwards Masani only letters requiring his attention, but intends to impose stricter scrutiny to reduce the volume. The document is administrative and personal in tone, with a handwritten signature and an archival reference number, 6167.
+
 ## Key points
 
 - The letter is dated March 18, 1970, and is signed by S. V. Raju.

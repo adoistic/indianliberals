@@ -51,6 +51,12 @@ summary: |-
   Masani rejects the idea that nuclear war is necessary to defend the values of the “free world,” identifying those values as individual and national freedom, the rule of law, free elections, respect for human personality, and opposition to totalitarianism. He supports a verifiable nuclear-test-ban treaty but defends continued U.S. testing as necessary to prevent a Soviet nuclear lead. The interview concludes with his opposition to Indian nuclear armament and his call for a conference of the free countries of South and South-East Asia, followed by regional defence measures and the removal of Chinese forces from Indian territory.
 ---
 
+## Summary
+
+This three-page India Press Agency special dispatch reproduces an exclusive interview with M. R. Masani, then General Secretary of the Swatantra Party, on disarmament, nuclear testing, communism, and India's security. Masani argues that the central issue is not simply disarmament but international control of arms, with verification and inspection free from a veto by any Great Power. He attributes the postwar arms race to both Western and Soviet policies, while placing particular responsibility on the Soviet government because of its alleged breaches of agreements and resistance to enforceable controls.
+
+Masani rejects the idea that nuclear war is necessary to defend the values of the “free world,” identifying those values as individual and national freedom, the rule of law, free elections, respect for human personality, and opposition to totalitarianism. He supports a verifiable nuclear-test-ban treaty but defends continued U.S. testing as necessary to prevent a Soviet nuclear lead. The interview concludes with his opposition to Indian nuclear armament and his call for a conference of the free countries of South and South-East Asia, followed by regional defence measures and the removal of Chinese forces from Indian territory.
+
 ## Key points
 
 - Masani distinguishes disarmament from arms control and calls for an international authority with effective verification, inspection, and control powers.

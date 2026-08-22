@@ -55,6 +55,12 @@ summary: |-
   The resolution urges the Swatantra Party’s National Executive to withdraw Masani’s resignation, stressing that his services and contributions are indispensable. It also calls on the Gujarat Unit to acknowledge and address Masani’s sense of injury, asks the National Executive to take appropriate disciplinary action, and authorises the Orissa president to convey the state unit’s views to the National Executive. The rendered page contains only these proceedings and does not provide broader background on the dispute or subsequent action.
 ---
 
+## Summary
+
+This one-page record documents an emergent meeting of the Swatantra Party’s Orissa Unit, held at 9 a.m. on 12 April 1968 at the Bhubaneswar residence of state president R. N. Singh Deo. Fourteen members are listed as present, including the state president, vice-president Sundarmani Patel, general secretary K. M. Panigrahy, and other state executive members. The meeting discussed Minoo Masani’s resignation from various party offices and expressed concern about its implications for party discipline.
+
+The resolution urges the Swatantra Party’s National Executive to withdraw Masani’s resignation, stressing that his services and contributions are indispensable. It also calls on the Gujarat Unit to acknowledge and address Masani’s sense of injury, asks the National Executive to take appropriate disciplinary action, and authorises the Orissa president to convey the state unit’s views to the National Executive. The rendered page contains only these proceedings and does not provide broader background on the dispute or subsequent action.
+
 ## Key points
 
 - The document records an emergent meeting of the Swatantra Party’s Orissa Unit on 12 April 1968 in Bhubaneswar.

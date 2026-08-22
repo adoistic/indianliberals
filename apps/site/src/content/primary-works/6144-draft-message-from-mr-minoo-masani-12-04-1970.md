@@ -53,6 +53,12 @@ summary: |-
   The message also criticises compulsory procurement and non-remunerative prices, which it says harm producers, dealers, and consumers alike. Masani urges the Government of India to abandon its “doctrinaire approach” and allow normal trade channels to operate in the broader national interest, before wishing the convention success.
 ---
 
+## Summary
+
+This one-page draft message, dated 12 April 1970, conveys M. R. Masani’s support to foodgrain dealers gathered in New Delhi to discuss their problems. Masani states that the Swatantra Party opposes state trading in foodgrains, arguing that it depresses agricultural production and obstructs ordinary distribution channels.
+
+The message also criticises compulsory procurement and non-remunerative prices, which it says harm producers, dealers, and consumers alike. Masani urges the Government of India to abandon its “doctrinaire approach” and allow normal trade channels to operate in the broader national interest, before wishing the convention success.
+
 ## Key points
 
 - The document is a draft message from M. R. Masani to a foodgrain dealers convention held in New Delhi.

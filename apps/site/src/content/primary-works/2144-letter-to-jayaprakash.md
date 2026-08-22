@@ -53,6 +53,10 @@ summary: |-
   This untitled two-page letter from Swatantra Party office-bearers to Jayaprakash Narayan assesses the Janata Front's performance in Gujarat. The signatories call the result creditable but disappointing because the Front failed to secure an absolute majority, attributing the shortfall to doubts among part of the electorate about its ability to form a homogeneous ministry. They argue that the Gujarat vote has partly dispelled fears about the irrelevance of the electoral process and demonstrates public support for an effective opposition capable of providing clean and honest administration.
 ---
 
+## Summary
+
+This untitled two-page letter from Swatantra Party office-bearers to Jayaprakash Narayan assesses the Janata Front's performance in Gujarat. The signatories call the result creditable but disappointing because the Front failed to secure an absolute majority, attributing the shortfall to doubts among part of the electorate about its ability to form a homogeneous ministry. They argue that the Gujarat vote has partly dispelled fears about the irrelevance of the electoral process and demonstrates public support for an effective opposition capable of providing clean and honest administration.
+
 ## Key points
 
 - The Janata Front's Gujarat performance is described as creditable but insufficient because it did not win an absolute majority.

@@ -55,6 +55,12 @@ summary: |-
   The statement criticizes the government's earlier Super Profits Tax, Gold Control Order, Compulsory Savings Scheme, and proposed expansion of the public sector, while cautiously welcoming recent official emphasis on agricultural production, incentives, and private industry. Masani warns that such policy statements must be judged by government action, specifically calling for withdrawal of the 17th Amendment, abandonment of plans for additional steel plants in the state sector, and reductions in oppressive taxation. The note also attacks the Prime Minister's treatment of domestic critics, the proposed public appearance of Krishna Menon, and alleged assurances to Chou En-lai concerning the Indian army's position in NEFA.
 ---
 
+## Summary
+
+This two-page Swatantra Party press note, issued from its Bombay Central Office and attributed to General Secretary M. R. Masani, presents the party's response to political and economic developments after two months of his absence abroad. Masani describes the Congress as undergoing active disintegration and argues that the Kamraj Plan has exposed rather than resolved internal divisions. He frames the central political conflict as a struggle over the direction of India's leadership: whether the government will continue toward socialist and statist policies or resist what he calls communist influence and the possibility of India becoming a Soviet satellite.
+
+The statement criticizes the government's earlier Super Profits Tax, Gold Control Order, Compulsory Savings Scheme, and proposed expansion of the public sector, while cautiously welcoming recent official emphasis on agricultural production, incentives, and private industry. Masani warns that such policy statements must be judged by government action, specifically calling for withdrawal of the 17th Amendment, abandonment of plans for additional steel plants in the state sector, and reductions in oppressive taxation. The note also attacks the Prime Minister's treatment of domestic critics, the proposed public appearance of Krishna Menon, and alleged assurances to Chou En-lai concerning the Indian army's position in NEFA.
+
 ## Key points
 
 - Masani portrays the Congress Party as experiencing active internal disintegration and describes the Kamraj Plan as having brought disruptive forces to the surface.

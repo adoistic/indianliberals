@@ -55,6 +55,12 @@ summary: |-
   The signatories ask the Prime Minister to preserve Parliament’s tradition of not discussing or legislating on matters under judicial consideration. They criticise proposals to introduce a bank-nationalisation Bill while the case is pending as “extremely misconceived and mischievous,” arguing that this would show disrespect for the Supreme Court and depart from the spirit of the Rule of Law. At the same time, they offer a pragmatic procedural argument: because the Ordinance remains valid for six weeks, there would be sufficient time to consider and pass legislation after the Court’s judgment, thereby reducing the risk of a further reference to the Court or of legislation being struck down.
 ---
 
+## Summary
+
+This two-page letter, dated July 23, 1969, is addressed by four parliamentary signatories to Prime Minister Indira Gandhi concerning the Banking Companies (Acquisition and Transfer of Undertakings) Ordinance. The writers note that the Supreme Court has admitted petitions challenging the Ordinance and has restrained the Government from taking certain actions until the hearing scheduled for August 11. They stress that both the manner of enactment and the substance of the Ordinance—particularly the nationalisation of banks—are before the Court and therefore sub judice.
+
+The signatories ask the Prime Minister to preserve Parliament’s tradition of not discussing or legislating on matters under judicial consideration. They criticise proposals to introduce a bank-nationalisation Bill while the case is pending as “extremely misconceived and mischievous,” arguing that this would show disrespect for the Supreme Court and depart from the spirit of the Rule of Law. At the same time, they offer a pragmatic procedural argument: because the Ordinance remains valid for six weeks, there would be sufficient time to consider and pass legislation after the Court’s judgment, thereby reducing the risk of a further reference to the Court or of legislation being struck down.
+
 ## Key points
 
 - The letter records that the Supreme Court has admitted petitions challenging the bank-nationalisation Ordinance.

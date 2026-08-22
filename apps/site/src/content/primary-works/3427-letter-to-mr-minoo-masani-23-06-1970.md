@@ -50,6 +50,12 @@ summary: |-
   Rajagopalachari expresses strong support for Kamaraj's proposal for a "Save India Front" to oppose Indira Gandhi before the coming general elections, but advises that the front should limit itself to three or four major issues. He suggests that, if Kamaraj and his colleagues can reach consensus on the front, the broader programme covering public affairs can wait until after the elections. A handwritten postscript adds that Indira Gandhi's position, glamour, and name may prove stronger than the appeal of Masani's proposed statement.
 ---
 
+## Summary
+
+In this letter dated 23 June 1970, C. Rajagopalachari tells M. R. Masani that he has listened to Masani's 14-page draft programme for the Congress (O) Party. Rajagopalachari declines to address the draft's typographical errors and possible wording changes, instead questioning whether such an elaborate and comprehensive statement would benefit the party at its present stage.
+
+Rajagopalachari expresses strong support for Kamaraj's proposal for a "Save India Front" to oppose Indira Gandhi before the coming general elections, but advises that the front should limit itself to three or four major issues. He suggests that, if Kamaraj and his colleagues can reach consensus on the front, the broader programme covering public affairs can wait until after the elections. A handwritten postscript adds that Indira Gandhi's position, glamour, and name may prove stronger than the appeal of Masani's proposed statement.
+
 ## Key points
 
 - Rajagopalachari has reviewed Masani's 14-page draft programme for the Congress (O) Party.

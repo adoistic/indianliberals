@@ -48,6 +48,12 @@ summary: |-
   The letter also asks Masani to arrange for a typed copy of the article to be sent to an unnamed person whom Rajagopalachari believes may be changing his position. He closes by expressing uncertainty about whether he has correctly understood that person's views and hopes that Masani and he can help him understand the subject.
 ---
 
+## Summary
+
+In this handwritten letter dated approximately 16 April 1964, C. Rajagopalachari writes to Minoo Masani about a recent telegram and encloses a copy of one of his speeches or articles for Masani to read before speaking in Parliament. Rajagopalachari indicates that the material may still be useful even if it reaches Masani late.
+
+The letter also asks Masani to arrange for a typed copy of the article to be sent to an unnamed person whom Rajagopalachari believes may be changing his position. He closes by expressing uncertainty about whether he has correctly understood that person's views and hopes that Masani and he can help him understand the subject.
+
 ## Key points
 
 - Rajagopalachari refers to a telegram sent to Minoo Masani.

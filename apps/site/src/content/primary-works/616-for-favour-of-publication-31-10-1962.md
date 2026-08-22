@@ -52,6 +52,10 @@ summary: |-
   This three-page English press statement, dated Bombay, October 31, records M. R. Masani's address at a Swatantra Party public meeting in Napoo Gardens. Masani argues that India's war against China made Indo-Pakistani friendship an urgent strategic necessity: Indian forces concentrated around Kashmir left the country exposed, while Assam's narrow connection to the rest of India and East Pakistan's position between them made Assam's defence inseparable from Pakistan's cooperation.
 ---
 
+## Summary
+
+This three-page English press statement, dated Bombay, October 31, records M. R. Masani's address at a Swatantra Party public meeting in Napoo Gardens. Masani argues that India's war against China made Indo-Pakistani friendship an urgent strategic necessity: Indian forces concentrated around Kashmir left the country exposed, while Assam's narrow connection to the rest of India and East Pakistan's position between them made Assam's defence inseparable from Pakistan's cooperation.
+
 ## Key points
 
 - Masani links the defence of Ladakh and NEFA against China to the defence of Pakistan's borders.

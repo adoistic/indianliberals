@@ -60,3 +60,9 @@ summary: |-
   
   The newsletter also reports Swatantra's electoral activity and calls for unity among non-Communist opposition parties. It records the party's victory at Dohad, campaigns in Rajkot and other constituencies, regional organizational work, and parliamentary speeches on defence, transport, steel, railways, home affairs, and the Orissa budget. Recurring political themes include criticism of Congress patronage and corruption, opposition to separatism and the anti-secession bill's effect on free speech, concern over non-alignment and the Chinese threat, and Rajaji's disputes with Jawaharlal Nehru.
 ---
+
+## Summary
+
+The May 1963 issue of Swatantra Newsletter, issued by the Central Office of the Swatantra Party, presents the party's critique of the Union Budget and of Congress economic and political policy. Its contributors argue that higher taxation, super-profit taxes, expanded government expenditure, industrial controls, and public-sector inefficiency will weaken investment, employment, production, and living standards. The issue repeatedly contrasts centralized socialist planning with private enterprise, fiscal restraint, and administrative accountability.
+
+The newsletter also reports Swatantra's electoral activity and calls for unity among non-Communist opposition parties. It records the party's victory at Dohad, campaigns in Rajkot and other constituencies, regional organizational work, and parliamentary speeches on defence, transport, steel, railways, home affairs, and the Orissa budget. Recurring political themes include criticism of Congress patronage and corruption, opposition to separatism and the anti-secession bill's effect on free speech, concern over non-alignment and the Chinese threat, and Rajaji's disputes with Jawaharlal Nehru.

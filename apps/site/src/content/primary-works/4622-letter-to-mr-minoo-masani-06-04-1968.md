@@ -49,6 +49,10 @@ summary: |-
   In this personal and confidential letter dated April 6, 1968, S. V. Raju writes to Minoo Masani after returning from Junagadh and Rajkot. Raju says the legal case there appears likely to be dismissed and addresses Masani’s planned attendance at National Executive and Central Parliamentary Board meetings. He disagrees with Masani’s decision not to attend, arguing that Masani’s presence is important while his resignation is being discussed and warning that his absence could allow responsibility for the party’s actions to be shifted onto him.
 ---
 
+## Summary
+
+In this personal and confidential letter dated April 6, 1968, S. V. Raju writes to Minoo Masani after returning from Junagadh and Rajkot. Raju says the legal case there appears likely to be dismissed and addresses Masani’s planned attendance at National Executive and Central Parliamentary Board meetings. He disagrees with Masani’s decision not to attend, arguing that Masani’s presence is important while his resignation is being discussed and warning that his absence could allow responsibility for the party’s actions to be shifted onto him.
+
 ## Key points
 
 - Raju reports that the case connected with Junagadh and Rajkot appears likely to be dismissed.

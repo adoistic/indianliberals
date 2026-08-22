@@ -49,6 +49,12 @@ summary: |-
   Several speakers paid tribute to Rajaji as a writer and recalled their personal associations with him. K. Chandrasekaran described him as a bridge between the past and the present; Dr. A. Raghavan read a Sanskrit tribute and highlighted Rajaji’s role, as Education Minister, in laying the foundation for the Akademi. The report also records tributes from Justice S. Maharajan of the Madras High Court and other speakers, concluding with a two-minute silence in Rajaji’s memory.
 ---
 
+## Summary
+
+The Hindu’s 13 January 1973 report describes a condolence resolution adopted by the Southern Regional Office of the Sahitya Akademi in Madras after the death of C. Rajagopalachari (Rajaji). It recalls his association with the Akademi from its inception, notes that he received the Akademi Award for Tamil in 1958, and presents him as a writer in both Tamil and English. The report emphasises his use of language as an instrument of instruction, persuasion and purposeful action.
+
+Several speakers paid tribute to Rajaji as a writer and recalled their personal associations with him. K. Chandrasekaran described him as a bridge between the past and the present; Dr. A. Raghavan read a Sanskrit tribute and highlighted Rajaji’s role, as Education Minister, in laying the foundation for the Akademi. The report also records tributes from Justice S. Maharajan of the Madras High Court and other speakers, concluding with a two-minute silence in Rajaji’s memory.
+
 ## Key points
 
 - The Southern Regional Office of the Sahitya Akademi adopted a condolence resolution for C. Rajagopalachari.

@@ -48,6 +48,12 @@ summary: |-
   Ranga explains that the National Executive has already expelled Shri C. C. Desai, making it impossible for him to place the matter before the Parliamentary Party. He also rejects Amin’s proposal that the Parliamentary Group itself entertain a No Confidence Motion, arguing that such a motion must be initiated by the National Executive or General Council with proper notice. Actions taken by Mr. Masani, Ranga adds, were undertaken in his capacity as President of the National Party and through the National Executive, and therefore fall outside the Parliamentary Group’s remit.
 ---
 
+## Summary
+
+In this letter dated April 30, 1970, Prof. N. G. Ranga responds to Shri Ramachandra Amin’s proposal concerning the Parliamentary Group and a possible No Confidence Motion. Ranga states that the Parliamentary Group is not empowered to judge or reverse decisions of the National Executive; at most, it can offer suggestions or recommendations on matters referred to it.
+
+Ranga explains that the National Executive has already expelled Shri C. C. Desai, making it impossible for him to place the matter before the Parliamentary Party. He also rejects Amin’s proposal that the Parliamentary Group itself entertain a No Confidence Motion, arguing that such a motion must be initiated by the National Executive or General Council with proper notice. Actions taken by Mr. Masani, Ranga adds, were undertaken in his capacity as President of the National Party and through the National Executive, and therefore fall outside the Parliamentary Group’s remit.
+
 ## Key points
 
 - The Parliamentary Group is not a forum for judging decisions of the National Executive.

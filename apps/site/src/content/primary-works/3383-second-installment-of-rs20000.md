@@ -44,6 +44,10 @@ summary: |-
   This single-page handwritten note, signed by Piloo Mody and dated 24 October 1961, records payment of a second instalment of Rs. 20,000 to the Central Bank. The payment was made on the Treasurer’s instructions, and the note confirms that a formal receipt was handed over to the Treasurer.
 ---
 
+## Summary
+
+This single-page handwritten note, signed by Piloo Mody and dated 24 October 1961, records payment of a second instalment of Rs. 20,000 to the Central Bank. The payment was made on the Treasurer’s instructions, and the note confirms that a formal receipt was handed over to the Treasurer.
+
 ## Key points
 
 - The note records a second instalment of Rs. 20,000.

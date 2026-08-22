@@ -51,6 +51,12 @@ summary: |-
   The article also questions the logic of an expansive welfare state and argues that welfare should be understood as a condition in which people can improve their own lives, rather than as a permanent administrative mechanism. It links economic freedom and prosperity to democracy, citing Scandinavian countries, Australia, New Zealand, West Germany, Britain, and the United States as examples. It concludes by urging government to create conditions for rapid and large-scale economic growth, encourage wider ownership of wealth, and use taxation to expand consumers’ purchasing power and access to goods.
 ---
 
+## Summary
+
+This one-page newspaper article argues for a fundamental reconsideration of India’s tax structure. It discusses Professor Nicholas Kaldor’s proposal for an integrated system combining wealth tax, expenditure tax, estate duty, capital-gains tax, and other levies, while insisting that the total burden should not exceed 45 per cent of income. The article presents this ceiling as a way to preserve incentives to earn and invest, and suggests that additional tax revenue should be directed toward productive enterprise rather than imposed on those already carrying the heaviest burden.
+
+The article also questions the logic of an expansive welfare state and argues that welfare should be understood as a condition in which people can improve their own lives, rather than as a permanent administrative mechanism. It links economic freedom and prosperity to democracy, citing Scandinavian countries, Australia, New Zealand, West Germany, Britain, and the United States as examples. It concludes by urging government to create conditions for rapid and large-scale economic growth, encourage wider ownership of wealth, and use taxation to expand consumers’ purchasing power and access to goods.
+
 ## Key points
 
 - The article calls for an integrated tax structure combining several forms of taxation.

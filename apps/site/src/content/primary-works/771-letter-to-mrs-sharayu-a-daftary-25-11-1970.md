@@ -51,6 +51,12 @@ summary: |-
   Raju distinguishes between open sessions, which debate political, economic, and social resolutions in the presence of the press and paying visitors, and closed sessions, which focus on party organization and candid discussion of internal matters. He gives sample programmes for both the inaugural open session and the closed session, including leadership addresses, reports, political resolutions, constitutional amendments, and other organizational questions. The letter is signed by Raju as Executive Secretary from the Swatantra Party’s national headquarters in Bombay.
 ---
 
+## Summary
+
+In this two-page letter dated November 25, 1970, S. V. Raju explains the purpose and format of the Swatantra Party’s National Convention to Mrs. Sharayu A. Daftary. He describes the convention as the party’s parliament, where delegates representing the rank and file discuss policy, attend to constitutional amendments, and undertake organizational stocktaking. Representation is set at one delegate for every ten members, subject to a maximum of 200 delegates.
+
+Raju distinguishes between open sessions, which debate political, economic, and social resolutions in the presence of the press and paying visitors, and closed sessions, which focus on party organization and candid discussion of internal matters. He gives sample programmes for both the inaugural open session and the closed session, including leadership addresses, reports, political resolutions, constitutional amendments, and other organizational questions. The letter is signed by Raju as Executive Secretary from the Swatantra Party’s national headquarters in Bombay.
+
 ## Key points
 
 - The National Convention is presented as the Swatantra Party’s internal parliament and an occasion for organizational stocktaking.

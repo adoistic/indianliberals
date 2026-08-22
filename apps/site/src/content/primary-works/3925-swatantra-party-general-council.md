@@ -57,6 +57,12 @@ summary: |-
   The policy agenda ranges across Indian federal and party politics, including the functioning of United Front governments, developments in Haryana and Bengal, relations with opposition-led United Fronts, rising prices, devaluation, banking and insurance nationalisation, food procurement, language policy, and the abolition of privy purses. International items include West Asia, Vietnam, Kashmir, nuclear non-proliferation, and the Prime Minister's visit to Moscow. The related National Executive agendas address party constitutional and organisational arrangements, ad hoc committees for Bengal and Kashmir, acquisition of central-office premises, the next national convention, and correspondence concerning Centre–State relations, party working policy, civil liberties, and linguistic states.
 ---
 
+## Summary
+
+This four-page Swatantra Party office-paper bundle records agendas for General Council and National Executive meetings in New Delhi on November 25–26, 1967. The General Council agenda covers confirmation of earlier minutes, election of party office-bearers and twenty National Executive members, the condition of party organisation, and matters referred by the National Executive. Handwritten annotations indicate proposed changes and follow-up actions, but the pages do not contain minutes or decisions from the meetings themselves.
+
+The policy agenda ranges across Indian federal and party politics, including the functioning of United Front governments, developments in Haryana and Bengal, relations with opposition-led United Fronts, rising prices, devaluation, banking and insurance nationalisation, food procurement, language policy, and the abolition of privy purses. International items include West Asia, Vietnam, Kashmir, nuclear non-proliferation, and the Prime Minister's visit to Moscow. The related National Executive agendas address party constitutional and organisational arrangements, ad hoc committees for Bengal and Kashmir, acquisition of central-office premises, the next national convention, and correspondence concerning Centre–State relations, party working policy, civil liberties, and linguistic states.
+
 ## Key points
 
 - The document is an institutional agenda bundle, not a report of completed proceedings.

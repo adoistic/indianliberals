@@ -48,6 +48,12 @@ summary: |-
   The letter also briefly notes that a circular concerning the railway budget is satisfactory. It is an example of internal liberal-party correspondence combining political research, document circulation, and coordination between Swatantra Party associates.
 ---
 
+## Summary
+
+This single-page letter, dated 26 February 1970 and written by M. R. Masani to S. V. Raju, concerns the circulation of material related to the Jana Sangh and an article in The Radical Humanist. Masani clarifies that by asking for the voting record he meant all available material on the Jana Sangh, including the article Raju had previously shown him. He asks Raju to send the article immediately, along with a translation by B. K. Sinha and a pamphlet referred to in handwritten annotations.
+
+The letter also briefly notes that a circular concerning the railway budget is satisfactory. It is an example of internal liberal-party correspondence combining political research, document circulation, and coordination between Swatantra Party associates.
+
 ## Key points
 
 - M. R. Masani acknowledges receipt of S. V. Raju's express-delivery letter of 25 February 1970 and its enclosures.

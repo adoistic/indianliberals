@@ -55,6 +55,12 @@ summary: |-
   The enclosed circular explains that some committee members and office-bearers had not renewed their subscriptions and that, under the party constitution, non-renewal could imply loss of party membership and elective office. It recommends treating the extension as a special case, subject to ratification by the National Convention, while also citing uniform renewal fees fixed after a General Council decision in Baroda. The letter is signed by M. N. Amorey as Acting General Secretary.
 ---
 
+## Summary
+
+This two-page Swatantra Party administrative letter, dated October 25, 1972, forwards National Executive Circular No. 108 to members of the National Executive in advance of their replies. The circular seeks approval to extend the deadline for renewal of party membership subscriptions for 1972 until October 31, noting that the party constitution ordinarily sets March 31 as the closing date.
+
+The enclosed circular explains that some committee members and office-bearers had not renewed their subscriptions and that, under the party constitution, non-renewal could imply loss of party membership and elective office. It recommends treating the extension as a special case, subject to ratification by the National Convention, while also citing uniform renewal fees fixed after a General Council decision in Baroda. The letter is signed by M. N. Amorey as Acting General Secretary.
+
 ## Key points
 
 - General Secretary's Letter No. 290 is dated October 25, 1972, and encloses National Executive Circular No. 108.

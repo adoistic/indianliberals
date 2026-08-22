@@ -51,6 +51,12 @@ summary: |-
   The letter sets out administrative requirements for the inspection: separate registers for Workers, Life Workers, and unconverted Life Members; pages allocated by Primary Unit; a district-wise summary of membership as of June 30, 1967; and accounting records showing the allocation of subscriptions among Primary, District, State, and Central units. It concludes that state party elections may begin only after the Central Office certifies the membership, making verification a prerequisite for the party’s electoral process.
 ---
 
+## Summary
+
+This two-page Swatantra Party Central Office letter, dated July 7, 1967, instructs a state office to prepare for scrutiny and verification of its membership records. The Centre has deputed a representative to inspect enrolment forms, membership registers, and related books of account; the letter asks the state office to keep these materials ready and confirms that Workers’ and Life Workers’ enrolments should have been considered and approved by the State Committee or an enrolment sub-committee.
+
+The letter sets out administrative requirements for the inspection: separate registers for Workers, Life Workers, and unconverted Life Members; pages allocated by Primary Unit; a district-wise summary of membership as of June 30, 1967; and accounting records showing the allocation of subscriptions among Primary, District, State, and Central units. It concludes that state party elections may begin only after the Central Office certifies the membership, making verification a prerequisite for the party’s electoral process.
+
 ## Key points
 
 - The Central Office has deputed a representative to verify a state unit’s membership registers and accounts.

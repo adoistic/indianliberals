@@ -47,6 +47,10 @@ summary: |-
   This one-page English office letter, dated June 19, 1968, was sent by N. Dandekar of the Swatantra Party Central Office in Bombay to M. R. Masani. Dandekar states that he is enclosing a copy of the Party's letter to Mr. Bhagwanjibhai Patel concerning disciplinary action taken by the National Executive at its May 30 meeting in Madras.
 ---
 
+## Summary
+
+This one-page English office letter, dated June 19, 1968, was sent by N. Dandekar of the Swatantra Party Central Office in Bombay to M. R. Masani. Dandekar states that he is enclosing a copy of the Party's letter to Mr. Bhagwanjibhai Patel concerning disciplinary action taken by the National Executive at its May 30 meeting in Madras.
+
 ## Key points
 
 - The letter is dated June 19, 1968, and was issued from the Swatantra Party Central Office in Bombay.

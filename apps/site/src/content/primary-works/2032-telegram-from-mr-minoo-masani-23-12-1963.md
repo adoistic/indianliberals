@@ -48,6 +48,12 @@ summary: |-
   The handwritten message emphasizes the recipient's attendance in Parliament, describing his presence on the morning of the 28th as desirable. The document's dates are not fully consistent: the telegram form bears an office stamp dated 23 December 1963, while the handwritten page appears dated 15 December 1963; the typed block also includes the sequence “23 11.”
 ---
 
+## Summary
+
+This two-page English-language archival telegram records Minoo Masani's request to Professor Ranga, identified on the handwritten address as associated with the Swatantra Party and located in Cooch Behar, Bengal. The typed message concerns an upcoming parliamentary session, stating that the session would begin on 10 February and directing the telegram to Ranga in Bombay.
+
+The handwritten message emphasizes the recipient's attendance in Parliament, describing his presence on the morning of the 28th as desirable. The document's dates are not fully consistent: the telegram form bears an office stamp dated 23 December 1963, while the handwritten page appears dated 15 December 1963; the typed block also includes the sequence “23 11.”
+
 ## Key points
 
 - The document is an India Posts and Telegraphs Department telegram form.

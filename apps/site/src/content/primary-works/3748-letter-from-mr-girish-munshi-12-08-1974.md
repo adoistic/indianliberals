@@ -50,6 +50,12 @@ summary: |-
   The resolution maintains that the Swatantra Party's principles and policies remain valid and that a proposed merger would not create a genuinely national alternative because the participating parties would disagree over the meaning of a vague common programme. It also warns that a two-party system involving the Congress and Jan Sangh would bring electoral advantages to both while leaving the ruling Congress and Jan Sangh as potential beneficiaries. The convention therefore rejects the proposal to dissolve the Swatantra Party and declares that the time is not right for its disappearance from Indian political life.
 ---
 
+## Summary
+
+In this letter dated 12 August 1974, Girish Munshi, General Secretary of the Maharashtra Unit of the Swatantra Party, writes to the Editor of The Times of India in response to an editorial supporting the party's dissolution. Munshi reproduces a resolution adopted at the Swatantra Party's seventh National Convention in New Delhi on 4–5 August 1974, arguing that the party should not merge with other regional or state-based parties to form a new political organisation.
+
+The resolution maintains that the Swatantra Party's principles and policies remain valid and that a proposed merger would not create a genuinely national alternative because the participating parties would disagree over the meaning of a vague common programme. It also warns that a two-party system involving the Congress and Jan Sangh would bring electoral advantages to both while leaving the ruling Congress and Jan Sangh as potential beneficiaries. The convention therefore rejects the proposal to dissolve the Swatantra Party and declares that the time is not right for its disappearance from Indian political life.
+
 ## Key points
 
 - The letter responds to a Times of India editorial favouring the dissolution and merger of the Swatantra Party.

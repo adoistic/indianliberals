@@ -51,6 +51,10 @@ summary: |-
   This two-page financial memorandum examines the additional expenditure associated with the Salaries and Allowances of Ministers Bill, 1970. It calculates the gross annual cost as Rs. 4,23,000 per Minister and Rs. 1,74,000 per Deputy Minister, while listing recoveries and savings arising from income tax, residence-related charges, staff salaries, utilities, travel, transport, and the abolition of the sumptuary allowance.
 ---
 
+## Summary
+
+This two-page financial memorandum examines the additional expenditure associated with the Salaries and Allowances of Ministers Bill, 1970. It calculates the gross annual cost as Rs. 4,23,000 per Minister and Rs. 1,74,000 per Deputy Minister, while listing recoveries and savings arising from income tax, residence-related charges, staff salaries, utilities, travel, transport, and the abolition of the sumptuary allowance.
+
 ## Key points
 
 - Clause 3 of the Bill is identified as involving additional expenditure on ministerial salaries.

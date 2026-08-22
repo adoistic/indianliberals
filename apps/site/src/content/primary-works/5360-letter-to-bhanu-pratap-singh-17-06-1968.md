@@ -51,6 +51,12 @@ summary: |-
   The letter also addresses electoral understandings. It advises against agreements with Leftists or Communist Parties, while allowing for local adjustments, and discusses a possible arrangement with the B.K.D. in Uttar Pradesh. Dandekar links this possibility to Ajay Mukherji's departure from the B.K.D. and the Bengal Unit's break with that party's decision not to align with communists. He proposes an arrangement similar to the Swatantra Party's 1967 understanding with the Jana Congress in Orissa. The document is addressed to B. P. Singh of the Swatantra Party in Uttar Pradesh.
 ---
 
+## Summary
+
+This one-page copy of a Swatantra Party Central Office letter, dated 17 June 1968 and signed by General Secretary N. Dandekar, sets out the Party's approach to forthcoming mid-term elections in Uttar Pradesh. Dandekar reports that the Central Parliamentary Board decided to concentrate the Party's effort only in areas where its 1967 performance justified a reasonable chance of success, rather than repeat the scale of the last general election campaign.
+
+The letter also addresses electoral understandings. It advises against agreements with Leftists or Communist Parties, while allowing for local adjustments, and discusses a possible arrangement with the B.K.D. in Uttar Pradesh. Dandekar links this possibility to Ajay Mukherji's departure from the B.K.D. and the Bengal Unit's break with that party's decision not to align with communists. He proposes an arrangement similar to the Swatantra Party's 1967 understanding with the Jana Congress in Orissa. The document is addressed to B. P. Singh of the Swatantra Party in Uttar Pradesh.
+
 ## Key points
 
 - The Central Parliamentary Board discussed party strategy for Uttar Pradesh's expected mid-term elections.

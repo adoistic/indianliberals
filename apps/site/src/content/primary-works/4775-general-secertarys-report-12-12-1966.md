@@ -58,6 +58,12 @@ summary: |-
   The report combines organisational accounting with an assessment of shortcomings. It gives figures for workers and members, criticises weak state-level recruitment and inactive local committees, and notes that the Central Office operated under severe financial constraints. It also details candidate selection, proposed electoral understandings with opposition parties, parliamentary work, and campaigns on behalf of peasants and goldsmiths. The visible pages close amid the report’s account of Party activity; later sections of the 35-page booklet were not rendered.
 ---
 
+## Summary
+
+The General Secretary’s Report records the Swatantra Party’s organisation and political activity between the Third National Convention in Bangalore (February 1964) and preparations for the Fourth National Convention in New Delhi (December 1966). It describes the Party’s transition from a mass organisation to a cadre party, the introduction of active membership, internal elections, committee structures, and efforts to prepare for the 1967 General Elections. The report presents the Bangalore convention as notably disciplined and economical, while also recording the adoption of resolutions on defence, international relations, the Emergency, electoral reform, banking, food scarcity, and constitutional amendments.
+
+The report combines organisational accounting with an assessment of shortcomings. It gives figures for workers and members, criticises weak state-level recruitment and inactive local committees, and notes that the Central Office operated under severe financial constraints. It also details candidate selection, proposed electoral understandings with opposition parties, parliamentary work, and campaigns on behalf of peasants and goldsmiths. The visible pages close amid the report’s account of Party activity; later sections of the 35-page booklet were not rendered.
+
 ## Key points
 
 - The report covers the period from the Third National Convention in Bangalore in February 1964 to the Fourth National Convention in New Delhi in December 1966.

@@ -46,6 +46,12 @@ summary: |-
   Masani also asks Rajagopalachari to request Krishnamurti Rao to send him a copy of Rajagopalachari's letter to Kalahandi, so that Professor Ranga and Masani can have it available for reference in Delhi. The page is a single item of private correspondence, with no printed title, publisher, or broader contextual material.
 ---
 
+## Summary
+
+In this untitled letter dated July 9, 1964, M. R. Masani writes to C. Rajagopalachari, returning Kalahandi's June 18 letter together with a draft for Rajagopalachari's consideration. Masani expresses confidence that Rajagopalachari will revise the draft in a way that will make its purpose more effective in relation to Kalahandi.
+
+Masani also asks Rajagopalachari to request Krishnamurti Rao to send him a copy of Rajagopalachari's letter to Kalahandi, so that Professor Ranga and Masani can have it available for reference in Delhi. The page is a single item of private correspondence, with no printed title, publisher, or broader contextual material.
+
 ## Key points
 
 - The letter is dated July 9, 1964, and is addressed to C. Rajagopalachari.

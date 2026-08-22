@@ -51,6 +51,12 @@ summary: |-
   Masani instructs District Committees and three-member Campaign Committees to register eligible omitted voters and to prepare objections when electoral rolls become available for filing from 1 August. He presents the work as urgent and as a means of generating goodwill among newly registered voters.
 ---
 
+## Summary
+
+In this 11 July 1966 General Secretary's Letter, M. R. Masani urges Swatantra Party workers to address the large number of people omitted from electoral rolls. He notes that political parties in other countries treat voter registration as an important organisational activity, whereas Indian parties generally neglect it.
+
+Masani instructs District Committees and three-member Campaign Committees to register eligible omitted voters and to prepare objections when electoral rolls become available for filing from 1 August. He presents the work as urgent and as a means of generating goodwill among newly registered voters.
+
 ## Key points
 
 - The letter identifies the exclusion of many people from electoral rolls as an urgent political concern.

@@ -52,6 +52,12 @@ summary: |-
   Masani also rejects the suggestion that his withdrawal from responsibility reflects “lurking fatigue.” He describes his continuing commitments, including a parliamentary committee on railway accidents, the Leslie Sawhny Programme of Training for Democracy, and a training camp for Swatantra Party volunteer captains. He nevertheless says he is tired of dishonest people and of condoning their misdeeds, and states that he will campaign for party candidates while declining responsibility for running the party until its leadership takes corrective measures. The letter closes with brief references to his Budget speech, the Nuclear Non-Proliferation Treaty, and foreign policy.
 ---
 
+## Summary
+
+In this confidential letter dated 3 April 1968, Minoo Masani responds to C. Rajagopalachari’s criticism of his conduct within the Swatantra Party. Masani rejects the idea that permitting freedom of opinion on fundamental principles should also require party members to vote against the party’s own nominee. He cites earlier disciplinary actions involving Acharya Kripalani and Babubhai Vaidya, questions the propriety of expelling party members for dissent, and objects to alleged financial inducements in a Gujarat election.
+
+Masani also rejects the suggestion that his withdrawal from responsibility reflects “lurking fatigue.” He describes his continuing commitments, including a parliamentary committee on railway accidents, the Leslie Sawhny Programme of Training for Democracy, and a training camp for Swatantra Party volunteer captains. He nevertheless says he is tired of dishonest people and of condoning their misdeeds, and states that he will campaign for party candidates while declining responsibility for running the party until its leadership takes corrective measures. The letter closes with brief references to his Budget speech, the Nuclear Non-Proliferation Treaty, and foreign policy.
+
 ## Key points
 
 - Masani distinguishes freedom of opinion from freedom to vote against a party nominee in an election.

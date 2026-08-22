@@ -54,6 +54,12 @@ summary: |-
   The resolutions also set rules for campaign conduct. Swatantra workers are urged to criticize the assault on civil liberties and the press without making personal attacks on the Prime Minister or named New Congress leaders. Criticism should focus on policies and offer concrete alternatives, while avoiding character assassination. Until election results are declared, workers should campaign as Janata Party workers and not project the Swatantra Party's flag or interests. In Maharashtra, local Swatantra units are asked to cooperate with Janata candidates, with a possible role for the Swatantra office in monitoring Congress criticism and preparing rebuttals. The final two rendered pages are handwritten address-cover material rather than substantive text.
 ---
 
+## Summary
+
+This four-page document records decisions taken at a meeting of Swatantra Party workers in Maharashtra on 24 January 1977. The workers reject immediate dissolution of the party, arguing that available time should instead be used to strengthen Janata Party candidates. Although the national opposition coordinating group had reportedly ignored the Swatantra Party, the document endorses de facto cooperation with Janata rather than adherence to formal arrangements, and advises members not to seek seats unless invited to contest.
+
+The resolutions also set rules for campaign conduct. Swatantra workers are urged to criticize the assault on civil liberties and the press without making personal attacks on the Prime Minister or named New Congress leaders. Criticism should focus on policies and offer concrete alternatives, while avoiding character assassination. Until election results are declared, workers should campaign as Janata Party workers and not project the Swatantra Party's flag or interests. In Maharashtra, local Swatantra units are asked to cooperate with Janata candidates, with a possible role for the Swatantra office in monitoring Congress criticism and preparing rebuttals. The final two rendered pages are handwritten address-cover material rather than substantive text.
+
 ## Key points
 
 - The Maharashtra Swatantra Party workers' meeting was held on Monday, 24 January 1977.

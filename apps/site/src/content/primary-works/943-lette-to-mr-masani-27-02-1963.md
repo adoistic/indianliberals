@@ -45,6 +45,10 @@ summary: |-
   In this brief handwritten letter dated 27 February 1963, C. Rajagopalachari writes to M. R. Masani about the publication of an advertisement. He reports that it has appeared in newspapers, including the Hindustan Times and Express, and asks Masani to let him know when it appears in the Times of India.
 ---
 
+## Summary
+
+In this brief handwritten letter dated 27 February 1963, C. Rajagopalachari writes to M. R. Masani about the publication of an advertisement. He reports that it has appeared in newspapers, including the Hindustan Times and Express, and asks Masani to let him know when it appears in the Times of India.
+
 ## Key points
 
 - The letter is dated 27 February 1963 and is written from Rajagopalachari's Madras address.

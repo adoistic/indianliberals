@@ -51,6 +51,12 @@ summary: |-
   The letter also notes that a list of the Committee’s members is enclosed. No further political argument, policy discussion, or information about the nominee appears on the rendered page.
 ---
 
+## Summary
+
+This one-page English letter, issued on Swatantra Party letterhead from Madras on 4 August 1959, records the party’s request to an unnamed recipient. S. Y. Krishnaswamy states that a resolution at the recent Bombay Convention nominated the recipient to the Party’s Central Organising Committee and asks them to accept the nomination.
+
+The letter also notes that a list of the Committee’s members is enclosed. No further political argument, policy discussion, or information about the nominee appears on the rendered page.
+
 ## Key points
 
 - The letter is dated 4 August 1959 and issued from the Swatantra Party’s Madras office.

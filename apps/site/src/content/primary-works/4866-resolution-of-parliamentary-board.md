@@ -52,6 +52,12 @@ summary: |-
   The document rejects the allegation that the Swatantra Party wants Kashmir handed over to Pakistan, but maintains that Kashmiri opinion cannot be secured through coercion. It calls for a possible reconsideration or adjustment of India's position on Kashmir if that would promote Indo-Pakistan amity, and insists that no political decision concerning national security should be regarded as irreversible. Its final provision diagnoses mutual mistrust and fear in India and Pakistan as a self-reinforcing cycle, urging both the Prime Minister and the Congress Party to seize the opportunity for reconciliation.
 ---
 
+## Summary
+
+This two-page Swatantra Party Parliamentary Board resolution argues that Indo-Pakistan amity is essential to the security, progress, and prosperity of both countries. It reiterates earlier party positions from December 1959, March 1960, and February 1963 that India should seek friendship and understanding with Pakistan while settling outstanding disputes and strengthening the subcontinent's defence against foreign aggression. The resolution welcomes Sheikh Abdullah's release and supports discussions between him, Prime Minister Jawaharlal Nehru, and President Ayub Khan as a possible route toward reducing Indo-Pakistan hostility and establishing an honourable status for Kashmir.
+
+The document rejects the allegation that the Swatantra Party wants Kashmir handed over to Pakistan, but maintains that Kashmiri opinion cannot be secured through coercion. It calls for a possible reconsideration or adjustment of India's position on Kashmir if that would promote Indo-Pakistan amity, and insists that no political decision concerning national security should be regarded as irreversible. Its final provision diagnoses mutual mistrust and fear in India and Pakistan as a self-reinforcing cycle, urging both the Prime Minister and the Congress Party to seize the opportunity for reconciliation.
+
 ## Key points
 
 - The resolution presents Indo-Pakistan friendship as necessary for the security and prosperity of both countries.

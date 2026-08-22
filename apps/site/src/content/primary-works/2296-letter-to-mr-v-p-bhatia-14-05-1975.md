@@ -48,6 +48,12 @@ summary: |-
   The substantive dispute concerns the forwarding of correspondence and an overdue payment. Subramanian says that letters addressed to the Swatantra Party's former national headquarters are being delivered to the Swatantra Party's office because the headquarters has moved to Madras, while letters addressed to the party at its old address cannot be delivered to Bhatia. He asks Bhatia to instruct his staff to forward all such letters promptly and appeals to their friendship to secure payment of an amount outstanding since September 1974.
 ---
 
+## Summary
+
+This single-page letter, dated May 14, 1975, is written by K. H. Subramanian of the Swatantra Party's Maharashtra Division to V. P. Bhatia of the Bharatiya Lok Dal in Bombay. Subramanian explains that Bhatia's April 22 letter, addressed to Girish Munshi, has been delayed because Munshi is away from Bombay.
+
+The substantive dispute concerns the forwarding of correspondence and an overdue payment. Subramanian says that letters addressed to the Swatantra Party's former national headquarters are being delivered to the Swatantra Party's office because the headquarters has moved to Madras, while letters addressed to the party at its old address cannot be delivered to Bhatia. He asks Bhatia to instruct his staff to forward all such letters promptly and appeals to their friendship to secure payment of an amount outstanding since September 1974.
+
 ## Key points
 
 - The letter is dated May 14, 1975, and is sent from the Swatantra Party's Maharashtra Division.

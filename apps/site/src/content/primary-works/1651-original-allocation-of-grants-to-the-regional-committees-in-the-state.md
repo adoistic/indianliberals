@@ -46,6 +46,12 @@ summary: |-
   The sheet states that the allocation was subsequently increased to Rs. 15,000 per month to cover expenses for additional units, including Bihar, Kerala, and Assam. It also records a later decision that the Madras and Mysore units would finance themselves, while Bombay, West Bengal, and Delhi were assumed to be self-sufficient. No author, date, publisher, or issuing organisation is printed on the page.
 ---
 
+## Summary
+
+This one-page administrative sheet records the original monthly allocation of grants to regional committees and offices. Madras, Rajasthan, Punjab, and Mysore were each assigned Rs. 1,000; Gujarat, Andhra, and Uttar Pradesh Rs. 2,000 each; and Orissa Rs. 500. The Leader's office and Central office were each allocated Rs. 1,000, bringing the original total to Rs. 12,500 per month.
+
+The sheet states that the allocation was subsequently increased to Rs. 15,000 per month to cover expenses for additional units, including Bihar, Kerala, and Assam. It also records a later decision that the Madras and Mysore units would finance themselves, while Bombay, West Bengal, and Delhi were assumed to be self-sufficient. No author, date, publisher, or issuing organisation is printed on the page.
+
 ## Key points
 
 - The original monthly grant allocation totalled Rs. 12,500.

@@ -50,6 +50,12 @@ summary: |-
   The report also records George Fernandes’s discussions with Swatantra leaders. Fernandes argued that Masani was wrong to have opted out of the alliance and said the Samyukta Socialist Party was free to maintain bilateral relations with any party, including the Communist Party of India (Marxist). He further claimed that Congress (R) could not be defeated in Kerala and West Bengal without Communist support, while reporting that the SSP’s central parliamentary board was meeting in Patna to finalise candidates. The clipping ends with Fernandes preparing to launch his Bombay election campaign.
 ---
 
+## Summary
+
+This 6 January 1971 Times of India report describes talks between M. R. Masani of the Swatantra Party and Morarji Desai, the Congress (O) leader, about the Swatantra Party’s proposed electoral alliance with other opposition parties. The discussions focused on electoral adjustments and an agreed minimum programme. Masani reportedly told Desai that he had walked out of a Swatantra Party meeting after it adopted such a programme as the basis for an alliance, and was expected to state his position before the party’s national executive met in Bombay.
+
+The report also records George Fernandes’s discussions with Swatantra leaders. Fernandes argued that Masani was wrong to have opted out of the alliance and said the Samyukta Socialist Party was free to maintain bilateral relations with any party, including the Communist Party of India (Marxist). He further claimed that Congress (R) could not be defeated in Kerala and West Bengal without Communist support, while reporting that the SSP’s central parliamentary board was meeting in Patna to finalise candidates. The clipping ends with Fernandes preparing to launch his Bombay election campaign.
+
 ## Key points
 
 - M. R. Masani and Morarji Desai held talks in Bombay about an opposition electoral alliance.

@@ -48,6 +48,10 @@ summary: |-
   This Statesman editorial, titled “STERILE APPRAISAL,” evaluates the Jana Sangh’s poor performance in the mid-term elections and the party’s participation in the Lok Sabha opposition alliance. It argues that the alliance’s electoral failure should not be explained through mutual recrimination, and cites Atal Behari Vajpayee’s view that the verdict should be accepted “in a sporting spirit.” The editorial instead attributes the result partly to the alliance’s lack of a coherent common programme and to the damage caused by associating with Congress (O) and the Swatantra Party.
 ---
 
+## Summary
+
+This Statesman editorial, titled “STERILE APPRAISAL,” evaluates the Jana Sangh’s poor performance in the mid-term elections and the party’s participation in the Lok Sabha opposition alliance. It argues that the alliance’s electoral failure should not be explained through mutual recrimination, and cites Atal Behari Vajpayee’s view that the verdict should be accepted “in a sporting spirit.” The editorial instead attributes the result partly to the alliance’s lack of a coherent common programme and to the damage caused by associating with Congress (O) and the Swatantra Party.
+
 ## Key points
 
 - The editorial criticises the unproductive and bitter discussion following the Jana Sangh’s electoral failure.

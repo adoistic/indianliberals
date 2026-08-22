@@ -46,6 +46,12 @@ summary: |-
   Deputy Prime Minister and Finance Minister Shri Morarji Desai replies that there had been no deficit financing during the first seven months. He gives no reason for the reported development, confirms that his attention had been drawn to the newspaper report, and says it is premature to predict whether deficit financing will occur during the rest of the year because the outcome depends on revenue collections and external-aid receipts.
 ---
 
+## Summary
+
+This single-page Lok Sabha document records Unstarred Question No. 956, asked by Shri M. R. Masani and scheduled for answer on 16 November 1967. The question asks the Finance Minister about the Central Government’s use of deficit financing during the first seven months of the financial year, the reasons for any departure from the budget undertaking not to resort to deficit financing, a contemporaneous United News of India report published in the Hindustan Times, and measures being taken to avoid deficit financing.
+
+Deputy Prime Minister and Finance Minister Shri Morarji Desai replies that there had been no deficit financing during the first seven months. He gives no reason for the reported development, confirms that his attention had been drawn to the newspaper report, and says it is premature to predict whether deficit financing will occur during the rest of the year because the outcome depends on revenue collections and external-aid receipts.
+
 ## Key points
 
 - The document is Lok Sabha Unstarred Question No. 956, dated for answer on 16 November 1967.

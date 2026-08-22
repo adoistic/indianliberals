@@ -49,6 +49,12 @@ summary: |-
   Kunte writes that further examination of parliamentary proceedings has raised doubts about whether those assumptions are correct. He asks Masani to clarify the position before his name is formally proposed, stressing that he does not want to sacrifice his freedom to pursue political work outside the House or to participate in its proceedings.
 ---
 
+## Summary
+
+This single-page letter, dated March 20, 1967, is written by D. K. Kunte to Minoo Masani, the Leader of the Swatantra Party. Kunte explains that the whole Opposition has decided to propose him as Deputy Speaker of the Lok Sabha, and that he initially consented on the understanding that the office would not prevent him from participating in House proceedings as an ordinary member or from continuing his political activities outside Parliament.
+
+Kunte writes that further examination of parliamentary proceedings has raised doubts about whether those assumptions are correct. He asks Masani to clarify the position before his name is formally proposed, stressing that he does not want to sacrifice his freedom to pursue political work outside the House or to participate in its proceedings.
+
 ## Key points
 
 - The Opposition intends to propose D. K. Kunte as Deputy Speaker of the Lok Sabha.

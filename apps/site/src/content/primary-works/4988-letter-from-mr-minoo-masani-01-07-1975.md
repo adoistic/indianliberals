@@ -51,6 +51,12 @@ summary: |-
   Masani urges that daily bulletins, signed by doctors, be broadcast on the radio and published through the press in order to prevent alarmist rumours. The page is a brief intervention linking medical transparency with responsible public information; no further correspondence or response is included.
 ---
 
+## Summary
+
+This single-page express communication, dated 1 July 1975, was sent by Minoo Masani to Prime Minister Indira Gandhi at Safdarjung Road, New Delhi. It concerns the public communication of Jayaprakash Narayan’s medical condition.
+
+Masani urges that daily bulletins, signed by doctors, be broadcast on the radio and published through the press in order to prevent alarmist rumours. The page is a brief intervention linking medical transparency with responsible public information; no further correspondence or response is included.
+
 ## Key points
 
 - The document is marked “EXPRESS” and is dated 1 July 1975.

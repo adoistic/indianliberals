@@ -50,6 +50,12 @@ summary: |-
   The executive passed a resolution authorising H. M. Patel to convey these feelings at the national executive meeting scheduled in Madras on 31 May. The meeting also discussed an inquiry-committee report concerning a complaint against Mr. Bhagwati, described in the clipping as a popular bazaar leader of Maharashtra. The second rendered page is an unrelated archival contents page and contains no further material from this report.
 ---
 
+## Summary
+
+The newspaper report describes a meeting of the executive of the Gujarat Swatantra Party in Ahmedabad, where members strongly condemned a recent statement by Minoo Masani, identified as the party's former general secretary. According to the report, several members believed Masani's statement had harmed the party and urged that a strong protest be lodged with its national executive.
+
+The executive passed a resolution authorising H. M. Patel to convey these feelings at the national executive meeting scheduled in Madras on 31 May. The meeting also discussed an inquiry-committee report concerning a complaint against Mr. Bhagwati, described in the clipping as a popular bazaar leader of Maharashtra. The second rendered page is an unrelated archival contents page and contains no further material from this report.
+
 ## Key points
 
 - The Gujarat Swatantra Party executive condemned a statement attributed to Minoo Masani.

@@ -55,6 +55,12 @@ summary: |-
   The document also sets out the party's institutional calendar and procedures. It provides for elections at regular intervals, an annual National Convention, State or Regional Conventions, rule-making powers, constitutional amendments, and transitional arrangements. The constitution presents the Swatantra Party as a formally decentralised political organisation whose central and regional bodies coordinate policy, representation, finances, and administration.
 ---
 
+## Summary
+
+The Swatantra Party Constitution establishes the party's name, objective, headquarters, membership rules, subscription structure, and organisational hierarchy. It defines primary units for legislative constituencies, district committees, State or Regional Councils, a General Council of up to 250 members, and a National Executive. Elections within these bodies are generally conducted through direct or proportional representation, with detailed provisions for office-bearers, membership allocation, and co-option.
+
+The document also sets out the party's institutional calendar and procedures. It provides for elections at regular intervals, an annual National Convention, State or Regional Conventions, rule-making powers, constitutional amendments, and transitional arrangements. The constitution presents the Swatantra Party as a formally decentralised political organisation whose central and regional bodies coordinate policy, representation, finances, and administration.
+
 ## Key points
 
 - The party is named the Swatantra Party and is committed to implementing principles adopted at the Bombay Convention of 1–2 August 1959.

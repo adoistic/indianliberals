@@ -48,6 +48,10 @@ summary: |-
   This two-page handwritten letter, dated 15 April 1970, addresses the General Secretary of the Swatantra Party in Bombay regarding the removal of Shri C. C. Desai from party membership. The writer says he has read the National Headquarters statement circulated among party legislators and MPs. Although he remains doubtful about the party's position on economic questions such as managing agencies and the removal of managing directors and directors, he supports the judgment and disciplinary decision concerning Desai.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 15 April 1970, addresses the General Secretary of the Swatantra Party in Bombay regarding the removal of Shri C. C. Desai from party membership. The writer says he has read the National Headquarters statement circulated among party legislators and MPs. Although he remains doubtful about the party's position on economic questions such as managing agencies and the removal of managing directors and directors, he supports the judgment and disciplinary decision concerning Desai.
+
 ## Key points
 
 - The letter protests the removal of Shri C. C. Desai from Swatantra Party membership.

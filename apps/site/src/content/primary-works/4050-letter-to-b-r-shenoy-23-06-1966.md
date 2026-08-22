@@ -50,6 +50,12 @@ summary: |-
   Masani reports that L. K. Jha observed during the discussion that the 10% export duties had been imposed only on traditional exports such as tea, while most other exports were duty-free. He adds that the authorities have promised to examine Shenoy’s objection and that he advised the Prime Minister to draw on Shenoy’s expertise.
 ---
 
+## Summary
+
+In this letter dated 23 June 1966, M. R. Masani thanks B. R. Shenoy for letters of 18 and 20 June and for his policy suggestions. Masani encloses a copy of a note submitted to the Prime Minister in Delhi, saying that most of Shenoy’s suggestions—including a paragraph on export duties—have been incorporated.
+
+Masani reports that L. K. Jha observed during the discussion that the 10% export duties had been imposed only on traditional exports such as tea, while most other exports were duty-free. He adds that the authorities have promised to examine Shenoy’s objection and that he advised the Prime Minister to draw on Shenoy’s expertise.
+
 ## Key points
 
 - Masani acknowledges Shenoy’s letters of 18 and 20 June 1966.

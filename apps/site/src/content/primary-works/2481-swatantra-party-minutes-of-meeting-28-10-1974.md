@@ -52,6 +52,12 @@ summary: |-
   The committee co-opted seven members to strengthen the party’s working and designated six individuals as permanent invitees. The meeting also marks an effort to organise the party’s political activity in Maharashtra around a minimum programme, with “rise in prices” and “corruption” identified as its two vital issues. Sub-committees were appointed both to develop ways of pursuing these issues and to formulate schemes for raising funds to run the party office. The meeting ended at approximately 6:00 p.m. with a vote of thanks to the Chair.
 ---
 
+## Summary
+
+This two-page office record documents a meeting of the Executive Committee of the Swatantra Party, Maharashtra, held at the party office in Bombay. Although the heading gives the date as 23 October 1974, the body states that the meeting took place on 28 October 1974; the signed copy is dated 19 November 1974. The record lists those present, confirms the previous meeting’s minutes, and reports the removal of members who had repeatedly been absent without leave, alongside earlier resignations.
+
+The committee co-opted seven members to strengthen the party’s working and designated six individuals as permanent invitees. The meeting also marks an effort to organise the party’s political activity in Maharashtra around a minimum programme, with “rise in prices” and “corruption” identified as its two vital issues. Sub-committees were appointed both to develop ways of pursuing these issues and to formulate schemes for raising funds to run the party office. The meeting ended at approximately 6:00 p.m. with a vote of thanks to the Chair.
+
 ## Key points
 
 - The record concerns an Executive Committee meeting of the Swatantra Party, Maharashtra, held in Bombay.

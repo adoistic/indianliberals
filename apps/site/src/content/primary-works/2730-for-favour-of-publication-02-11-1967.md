@@ -53,6 +53,12 @@ summary: |-
   Masani rejects the idea that party work should be concentrated in the hands of office-bearers while other members remain passive. Instead, he calls for a disciplined cadre of dedicated workers who need not hold formal office, and says he will continue to serve the Party in Parliament and outside it. He recommends that N. Landker, who had been officiating during Masani’s leave, be elected the next General Secretary. The document does not print a year and contains no publisher line.
 ---
 
+## Summary
+
+This two-page press note, dated Bombay, November 2, reports M. R. Masani’s intention to step down as General Secretary of the Swatantra Party when his seven-year term expires on November 25. Addressing the Party’s General Council, Masani argues that prolonged incumbency is undesirable both for the country and for parliamentary democracy, extending the same logic to the administration of a political party. He compares the proposed change to “job rotation” practices in industrial management.
+
+Masani rejects the idea that party work should be concentrated in the hands of office-bearers while other members remain passive. Instead, he calls for a disciplined cadre of dedicated workers who need not hold formal office, and says he will continue to serve the Party in Parliament and outside it. He recommends that N. Landker, who had been officiating during Masani’s leave, be elected the next General Secretary. The document does not print a year and contains no publisher line.
+
 ## Key points
 
 - M. R. Masani announces his desire to leave the Swatantra Party’s General Secretaryship after seven years in office.

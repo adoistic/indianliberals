@@ -50,6 +50,12 @@ summary: |-
   The letter focuses on the future of liberal party politics in India. Kulkarni explains that he has not joined the new party in Bhatinda because he is dissatisfied with the principles it has adopted, while welcoming the formation of a Swatantra Party and referring to the role of Minoo Masani and Rajaji. He also asks Raju to send him the proposed constitutional amendments, promising to pay the postage, and reports that he has been working in the Supreme Court. The document is a two-page English inland letter card; no content beyond these pages is missing.
 ---
 
+## Summary
+
+In this handwritten letter dated 25 September 1974, R. K. Kulkarni writes to S. V. Raju after reading Raju’s covering letter and asks him to resend a separate cover containing an article from Freedom First. Kulkarni says he was pleased to learn that Raju had recovered and expresses interest in the article, which he understands concerns “Freedom First.”
+
+The letter focuses on the future of liberal party politics in India. Kulkarni explains that he has not joined the new party in Bhatinda because he is dissatisfied with the principles it has adopted, while welcoming the formation of a Swatantra Party and referring to the role of Minoo Masani and Rajaji. He also asks Raju to send him the proposed constitutional amendments, promising to pay the postage, and reports that he has been working in the Supreme Court. The document is a two-page English inland letter card; no content beyond these pages is missing.
+
 ## Key points
 
 - Kulkarni acknowledges Raju’s letter dated 13 September 1974 and is pleased to hear that Raju has recovered.

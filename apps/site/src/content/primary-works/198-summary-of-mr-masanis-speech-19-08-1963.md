@@ -58,6 +58,10 @@ summary: |-
   This four-page English report reproduces parliamentary remarks from August 1963 concerning a no-confidence motion against the Prime Minister and the Congress government. In the rendered pages, the speakers argue that the motion was driven by political frustration but lacked a coherent programme or common purpose. The discussion also defends non-alignment as a historically grounded foreign-policy position while criticising the government's handling of Chinese aggression, defence preparedness, Tibet, and the appeal to the Dalai Lama.
 ---
 
+## Summary
+
+This four-page English report reproduces parliamentary remarks from August 1963 concerning a no-confidence motion against the Prime Minister and the Congress government. In the rendered pages, the speakers argue that the motion was driven by political frustration but lacked a coherent programme or common purpose. The discussion also defends non-alignment as a historically grounded foreign-policy position while criticising the government's handling of Chinese aggression, defence preparedness, Tibet, and the appeal to the Dalai Lama.
+
 ## Key points
 
 - The no-confidence motion is presented as an unstable alliance of opposition parties with different ideologies and no shared governing programme.

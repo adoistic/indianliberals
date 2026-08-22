@@ -45,6 +45,12 @@ summary: |-
   Because the copy has not arrived, Masani asks Jain to obtain it and send it promptly by registered book post, explaining that he needs the report urgently. The document is a brief piece of private correspondence focused on securing access to an official labour report.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to A. P. Jain, dated 8 September 1969, concerns the report of the National Commission on Labour. Masani refers to Jain's earlier promise to send him a copy once it became available and notes that members had been told copies would be ready within three or four days.
+
+Because the copy has not arrived, Masani asks Jain to obtain it and send it promptly by registered book post, explaining that he needs the report urgently. The document is a brief piece of private correspondence focused on securing access to an official labour report.
+
 ## Key points
 
 - The letter is dated 8 September 1969 and is addressed to A. P. Jain in New Delhi.

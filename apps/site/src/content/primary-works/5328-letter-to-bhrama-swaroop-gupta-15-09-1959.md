@@ -45,6 +45,12 @@ summary: |-
   Miss B. S. Hinsa, identified as Mr. H. R. Masani’s secretary, advises Gupta that Krishnawamy will take the necessary action and requests that any further correspondence be directed to him. A copy of Gupta’s letter is noted as enclosed for action. No substantive political, economic, or ideological argument appears on the page.
 ---
 
+## Summary
+
+This typed office letter, dated 15 September 1959, acknowledges receipt of Mr. Brahma Swaroop Gupta’s letter of 3 August. The letter, addressed to Mr. H. R. Masani, had been forwarded to Mr. S. Y. Krishnawamy in Madras because Masani was abroad.
+
+Miss B. S. Hinsa, identified as Mr. H. R. Masani’s secretary, advises Gupta that Krishnawamy will take the necessary action and requests that any further correspondence be directed to him. A copy of Gupta’s letter is noted as enclosed for action. No substantive political, economic, or ideological argument appears on the page.
+
 ## Key points
 
 - The letter is dated 15 September 1959.

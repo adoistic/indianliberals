@@ -52,6 +52,12 @@ summary: |-
   The circular also encloses a specimen copy of “Must India Go The Vietnam Way?” by M. R. Masani, M.P., published by the Swatantra Party in Delhi. Recipients are invited to request additional copies in writing from S. N. Kumar, Secretary of the Swatantra Party, Delhi Unit. The letter is signed by V. P. Bhatia and identifies the enclosure as two publications.
 ---
 
+## Summary
+
+This one-page Central Office Circular of the Swatantra Party, dated 17 October 1967, distributes two recent party publications. It announces that ten copies of “Naxalbari”: a Report by N. Dandekar, M.P., and D. N. Patodia, M.P., are enclosed, and offers bulk orders of 100 copies or more at a 25 per cent discount on the stated cost of 15 paise per copy.
+
+The circular also encloses a specimen copy of “Must India Go The Vietnam Way?” by M. R. Masani, M.P., published by the Swatantra Party in Delhi. Recipients are invited to request additional copies in writing from S. N. Kumar, Secretary of the Swatantra Party, Delhi Unit. The letter is signed by V. P. Bhatia and identifies the enclosure as two publications.
+
 ## Key points
 
 - The circular is dated 17 October 1967 and issued from the Swatantra Party's Central Office in Bombay.

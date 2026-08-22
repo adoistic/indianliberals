@@ -52,6 +52,12 @@ summary: |-
   The letter also proposes using the committee process to strengthen the party’s local organisation. Party leaders are encouraged to help kisans form or take over local organisations, while state and local leaders would appear as representatives of peasants as well as Swatantra members. The writer urges broad participation by peasant and bar associations, suggests that the Jan Sangh and lawyers’ associations be consulted on a proposed provision, and calls for the “justiciability of the public purpose” to be incorporated. Kisan organisations and party units are advised to remain independent of compromise so they can pursue a legitimate satyagraha campaign against the Bill. The author’s handwritten signature is not securely identifiable from the page.
 ---
 
+## Summary
+
+This undated-in-title letter, dated 1 November 1963 and addressed to “Munshijee,” sets out a strategy for the Swatantra Party’s engagement with the Joint Select Committee on the 17th Amendment Bill. The writer rejects the need for a formal party memorandum or for a senior leader to appear before the committee, arguing instead that state units should submit memoranda and oral evidence. The central recommendation is to mobilise local peasant leaders and existing kisan or agricultural organisations to present the breadth of rural reaction against the Bill.
+
+The letter also proposes using the committee process to strengthen the party’s local organisation. Party leaders are encouraged to help kisans form or take over local organisations, while state and local leaders would appear as representatives of peasants as well as Swatantra members. The writer urges broad participation by peasant and bar associations, suggests that the Jan Sangh and lawyers’ associations be consulted on a proposed provision, and calls for the “justiciability of the public purpose” to be incorporated. Kisan organisations and party units are advised to remain independent of compromise so they can pursue a legitimate satyagraha campaign against the Bill. The author’s handwritten signature is not securely identifiable from the page.
+
 ## Key points
 
 - The writer opposes a formal Swatantra Party memorandum or senior-leader appearance before the Joint Select Committee on the 17th Amendment Bill.

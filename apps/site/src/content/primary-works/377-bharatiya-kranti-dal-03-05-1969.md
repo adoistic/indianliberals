@@ -55,6 +55,12 @@ summary: |-
   The statement attributes the breakdown chiefly to delays and procedural decisions by the Jana Sangh leadership. It says that a meeting scheduled for 26–27 May was altered after Vajpayee’s unexpected travel to Allahabad for an Assembly by-election, and that the Jana Sangh subsequently treated merger as outside the immediate agenda. The document concludes that continuing the talks was pointless, while leaving open the possibility of cooperation inside Parliament. It is signed by Charan Singh as Chairman; no formal descriptive title or individual author byline is printed.
 ---
 
+## Summary
+
+This two-page English-language statement, headed “BHARATIYA KRANTI DAL” and dated 30 May 1969, explains the organisation’s decision to discontinue talks with the Bharatiya Jana Sangh about forming a new party. It recounts meetings involving Atal Bihari Vajpayee, Swatantra leaders, and representatives associated with the PSP, arguing that the Bharatiya Kranti Dal had sought an immediate discussion of a merger among democratic and nationalist parties rather than preliminary negotiations limited to a narrower agenda.
+
+The statement attributes the breakdown chiefly to delays and procedural decisions by the Jana Sangh leadership. It says that a meeting scheduled for 26–27 May was altered after Vajpayee’s unexpected travel to Allahabad for an Assembly by-election, and that the Jana Sangh subsequently treated merger as outside the immediate agenda. The document concludes that continuing the talks was pointless, while leaving open the possibility of cooperation inside Parliament. It is signed by Charan Singh as Chairman; no formal descriptive title or individual author byline is printed.
+
 ## Key points
 
 - The Bharatiya Kranti Dal responds to a Bharatiya Jana Sangh resolution proposing no further talks on forming a new party.

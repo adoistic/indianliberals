@@ -49,6 +49,12 @@ summary: |-
   The writer also comments on economic policy and the party’s programme, including the need to clarify its approach to development and to distinguish it from Congress policies. The closing is signed only as “Ranga,” although the signature is not fully legible. A separate envelope addressed to Minoo Masani accompanies the letter.
 ---
 
+## Summary
+
+This handwritten English letter, dated in the document as 28 March 1968, is addressed to Minoo Masani and appears to congratulate him in connection with a state election. The writer discusses the Swatantra Party, its manifesto, and the importance of presenting an effective opposition to the Congress. The letter reflects concern with the party’s organisation, candidate selection, and public political positioning.
+
+The writer also comments on economic policy and the party’s programme, including the need to clarify its approach to development and to distinguish it from Congress policies. The closing is signed only as “Ranga,” although the signature is not fully legible. A separate envelope addressed to Minoo Masani accompanies the letter.
+
 ## Key points
 
 - The writer congratulates Minoo Masani in connection with a state election.

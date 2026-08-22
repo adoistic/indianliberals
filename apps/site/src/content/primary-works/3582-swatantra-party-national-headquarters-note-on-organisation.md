@@ -57,6 +57,12 @@ summary: |-
   The proposed remedy is a restatement of Swatantra principles, a renewed emphasis on quality rather than numerical strength, ideological education, dedicated work among farmers, women, and youth, and the selection of candidates on the basis of character and party record rather than electoral convenience. The note presents the Party as a distinct alternative to both opportunistic politics and the “shades of the socialist hue,” and warns that its future depends on disciplined organisation and public education before the anticipated failure of Mrs. Gandhi’s policies. It closes by invoking Lenin’s claim that an organised minority can overcome a disorganised majority.
 ---
 
+## Summary
+
+This three-page organisational note attributes the Swatantra Party’s poor electoral performance not primarily to rejection of its policies, but to organisational weakness, inadequate ideological commitment, short-term ambitions, and insufficiently sustained work by its members. It argues that the Party’s Mid-Term Report was ignored because implementing it would have required abandoning the pursuit of immediate power, improving member selection, and building a smaller but more committed cadre organisation. The note also criticises last-minute candidate selection and the tendency of legislators and leaders to prioritise the prospect of toppling governments over maintaining a principled party identity.
+
+The proposed remedy is a restatement of Swatantra principles, a renewed emphasis on quality rather than numerical strength, ideological education, dedicated work among farmers, women, and youth, and the selection of candidates on the basis of character and party record rather than electoral convenience. The note presents the Party as a distinct alternative to both opportunistic politics and the “shades of the socialist hue,” and warns that its future depends on disciplined organisation and public education before the anticipated failure of Mrs. Gandhi’s policies. It closes by invoking Lenin’s claim that an organised minority can overcome a disorganised majority.
+
 ## Key points
 
 - The note explains the Swatantra Party’s electoral debacle through organisational weakness rather than popular rejection of its principles.

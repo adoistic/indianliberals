@@ -55,6 +55,12 @@ summary: |-
   The record also reports the distribution of membership forms, with 3,662 of 4,500 printed books issued, most outside Bombay. Convenors’ reports cover meetings, a proposed public meeting on India’s frontiers, a forthcoming meeting during C. Rajagopalachari’s visit to Bombay, fundraising of Rs. 12,000 through advertisements, and greetings to the Party’s Madras Convention. The document is an administrative snapshot rather than a substantive statement of political doctrine.
 ---
 
+## Summary
+
+This two-page office record reports a meeting of the Swatantra Party’s Organising Committee of Greater Bombay held on Thursday, 29 October 1959. It records attendance, confirms the previous minutes, notes M. M. Bhimani’s agreement to serve and Mr. Mendieta’s absence, and addresses practical organisational matters including premises and supervision for a Labour Contact Centre, the appointment of a paid executive secretary, and the proposed Youth Contact Centre.
+
+The record also reports the distribution of membership forms, with 3,662 of 4,500 printed books issued, most outside Bombay. Convenors’ reports cover meetings, a proposed public meeting on India’s frontiers, a forthcoming meeting during C. Rajagopalachari’s visit to Bombay, fundraising of Rs. 12,000 through advertisements, and greetings to the Party’s Madras Convention. The document is an administrative snapshot rather than a substantive statement of political doctrine.
+
 ## Key points
 
 - The Greater Bombay Organising Committee met on 29 October 1959 with M. R. Masani in the chair.

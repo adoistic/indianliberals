@@ -44,6 +44,10 @@ summary: |-
   This one-page English letter from M. R. Masani, dated 16 March 1971, thanks Mr. Ramjibhai Talsania for making a jeep available for the Yuvraj of Jasdan from 25 February to 2 March. Masani also acknowledges Talsania’s help and cooperation during that period.
 ---
 
+## Summary
+
+This one-page English letter from M. R. Masani, dated 16 March 1971, thanks Mr. Ramjibhai Talsania for making a jeep available for the Yuvraj of Jasdan from 25 February to 2 March. Masani also acknowledges Talsania’s help and cooperation during that period.
+
 ## Key points
 
 - The letter is dated 16 March 1971.

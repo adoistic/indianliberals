@@ -60,6 +60,12 @@ summary: |-
   The speech surveys Rajaji’s roles as freedom fighter, administrator, political philosopher, and writer. Patel highlights his administrative standards in Madras and at the Centre, his protection of civil servants from political interference, and his belief that policy-making should remain distinct from routine administration. The later sections defend Rajaji’s commitment to individual dignity, initiative, and freedom against what he called the “permit, licence and quota Raj,” and describe his opposition to controls, government–industry collusion, gigantism, and excessive centralisation. Patel closes by recalling Rajaji’s literary contribution in Tamil and English and urging systematic study of his ideas so that they might help build an India that is free, fearless, and self-reliant.
 ---
 
+## Summary
+
+In this memorial speech, H. M. Patel presents C. Rajagopalachari (Rajaji) as a statesman whose intellectual force, moral independence, and longevity made him “the Bhishma of Indian politics.” Patel emphasizes that Rajaji exercised influence without a mass political base, relying instead on his reasoning, integrity, and willingness to dissent. He links Rajaji’s public life to the ethical ideals of Mahatma Gandhi, while also stressing Rajaji’s distinctive opposition to political monopoly, concentrated power, and the expanding authority of the state.
+
+The speech surveys Rajaji’s roles as freedom fighter, administrator, political philosopher, and writer. Patel highlights his administrative standards in Madras and at the Centre, his protection of civil servants from political interference, and his belief that policy-making should remain distinct from routine administration. The later sections defend Rajaji’s commitment to individual dignity, initiative, and freedom against what he called the “permit, licence and quota Raj,” and describe his opposition to controls, government–industry collusion, gigantism, and excessive centralisation. Patel closes by recalling Rajaji’s literary contribution in Tamil and English and urging systematic study of his ideas so that they might help build an India that is free, fearless, and self-reliant.
+
 ## Key points
 
 - Patel memorializes Rajaji as an exceptionally influential statesman whose intellectual authority compensated for the absence of a mass political following.

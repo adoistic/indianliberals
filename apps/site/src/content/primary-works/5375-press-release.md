@@ -52,6 +52,12 @@ summary: |-
   The agreement condemns the Congress administration's alleged corruption, nepotism, wasteful expenditure, and disregard for moral values. It establishes non-contest arrangements in specified constituencies, leaves other constituencies open to either party, and commits both parties to a common programme. The supplementary points specify reciprocal support for candidates, joint appeals to voters, and Swatantra Party concessions in the Hindol and Boudh-Daspalla Assembly constituencies on the condition that Dr. H. K. Mahtab withdraw from those contests.
 ---
 
+## Summary
+
+This three-page English-language document, dated Bhubaneswar on 30 December 1966, consists of a press release and an accompanying electoral-adjustment agreement between the Orissa Swatantra Party and the Orissa Jana Congress. It announces that differences over electoral arrangements have been resolved and that the two parties will form a coalition intended to remove the Congress Party from power in Orissa. The press release presents the alliance as offering voters a clear non-Congress alternative in the 1967 General Election.
+
+The agreement condemns the Congress administration's alleged corruption, nepotism, wasteful expenditure, and disregard for moral values. It establishes non-contest arrangements in specified constituencies, leaves other constituencies open to either party, and commits both parties to a common programme. The supplementary points specify reciprocal support for candidates, joint appeals to voters, and Swatantra Party concessions in the Hindol and Boudh-Daspalla Assembly constituencies on the condition that Dr. H. K. Mahtab withdraw from those contests.
+
 ## Key points
 
 - The Orissa Swatantra Party and Orissa Jana Congress announce resolution of their electoral differences.

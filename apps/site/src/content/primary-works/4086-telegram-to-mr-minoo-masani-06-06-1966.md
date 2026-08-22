@@ -50,6 +50,12 @@ summary: |-
   The document does not disclose the decision itself. Its principal evidentiary value is as a brief piece of political correspondence showing an attempt by the prime minister to arrange a direct discussion with Masani concerning an unspecified government action.
 ---
 
+## Summary
+
+This one-page telegram, dated 6 June 1966, is addressed to Shri M. R. Masani, identified as a Member of Parliament at 148 Mahatma Gandhi Road, Bombay-1. The message states that Masani may already know of an important government decision and proposes a meeting in Delhi within the next few days, if convenient, so that the decision's implications and background can be discussed fully. The telegram is signed “INDIRA GANDHI.”
+
+The document does not disclose the decision itself. Its principal evidentiary value is as a brief piece of political correspondence showing an attempt by the prime minister to arrange a direct discussion with Masani concerning an unspecified government action.
+
 ## Key points
 
 - The telegram was sent on 6 June 1966 from New Delhi.

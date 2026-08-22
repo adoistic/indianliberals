@@ -51,6 +51,12 @@ summary: |-
   The sender explains that Monday may not suit Masani because of his commitments concerning the Bangalore convention and proposes that another day be arranged for Masani and Shri Patel. The letter also notes that neither the Prime Minister's Secretariat nor the sender has received confirmation from Prof. Ranga about whether he will meet the Prime Minister. A handwritten postscript adds that party leaders are being invited by the Prime Minister individually, as before. The accompanying envelope is addressed to M. R. Masani MP at the Swatantra Party State Office in Bangalore.
 ---
 
+## Summary
+
+This typed Swatantra Party Parliamentary Office letter, dated 10 June 1966, is addressed to Shri M. R. Masani MP in Bangalore. The unidentified sender acknowledges Masani's letter of 8 June and refers to a telegram sent to him after receiving information from the Prime Minister's Secretariat. The Secretariat had indicated that the Prime Minister had agreed to discuss the Government of India's decision to devolve the “super” on Monday, 13 June, at 5 p.m. in her South Block office.
+
+The sender explains that Monday may not suit Masani because of his commitments concerning the Bangalore convention and proposes that another day be arranged for Masani and Shri Patel. The letter also notes that neither the Prime Minister's Secretariat nor the sender has received confirmation from Prof. Ranga about whether he will meet the Prime Minister. A handwritten postscript adds that party leaders are being invited by the Prime Minister individually, as before. The accompanying envelope is addressed to M. R. Masani MP at the Swatantra Party State Office in Bangalore.
+
 ## Key points
 
 - The letter is dated 10 June 1966 and was sent from the Swatantra Party Parliamentary Office in New Delhi.

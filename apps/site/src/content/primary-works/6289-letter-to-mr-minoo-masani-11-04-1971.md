@@ -54,6 +54,12 @@ summary: |-
   The reproduced correspondence revisits earlier disagreements between Rajagopalachari and Rajaji, including disputes over Congress’s relationship with ordinary people, political toleration, religion in public judgment, and the proper standards by which the political left and right should be assessed. The pamphlet then turns to a direct electoral appeal: it credits the D.M.K. government with addressing rice shortages, the language question, and prosecutions arising from religious disputes, and urges Tamil Nadu voters to support D.M.K.-backed candidates and its “Rising Sun” symbol. Rajagopalachari closes by arguing that democratic leadership requires detecting political dangers early and warning the public before they threaten the people.
 ---
 
+## Summary
+
+My Apology to Rajaji is a 1971 political pamphlet in which C. V. Rajagopalachari explains his decision to oppose Rajaji’s position and support the Dravida Munnetra Kazhagam (D.M.K.) in Tamil Nadu. In the covering letter to Minoo Masani, Rajagopalachari praises Masani’s willingness to accept the majority’s verdict and criticises Rajaji’s refusal to reconcile himself to the people’s decision. He presents his own intervention as a matter of public duty rather than personal hostility, while acknowledging Rajaji’s courage and conviction.
+
+The reproduced correspondence revisits earlier disagreements between Rajagopalachari and Rajaji, including disputes over Congress’s relationship with ordinary people, political toleration, religion in public judgment, and the proper standards by which the political left and right should be assessed. The pamphlet then turns to a direct electoral appeal: it credits the D.M.K. government with addressing rice shortages, the language question, and prosecutions arising from religious disputes, and urges Tamil Nadu voters to support D.M.K.-backed candidates and its “Rising Sun” symbol. Rajagopalachari closes by arguing that democratic leadership requires detecting political dangers early and warning the public before they threaten the people.
+
 ## Key points
 
 - Rajagopalachari apologises to Rajaji while defending his decision to support the D.M.K. against Congress.

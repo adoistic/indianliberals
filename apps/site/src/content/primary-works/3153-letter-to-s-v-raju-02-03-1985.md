@@ -47,6 +47,12 @@ summary: |-
   The letter’s political subject is the Swatantra Party. Gopal Krishna notes that the party formerly had MLAs and MPs but is now about to have a “SWATANTRA PARTY DOCTOR,” referring to Raju’s doctoral research on the party. He offers to look for relevant material and to complete a questionnaire if requested. The letter closes with Gopal Krishna’s Bangalore address and phone number.
 ---
 
+## Summary
+
+This one-page personal letter, dated 2 March 1985, is from planter G. M. Gopal Krishna to “Raju,” identified in the archival metadata as S. V. Raju. Gopal Krishna warmly acknowledges receiving Raju’s letter after a long interval and jokes about whether Raju, apparently living in the Gulf countries, has lost the rose-plant cuttings sent from Bangalore for his terrace garden in Bombay.
+
+The letter’s political subject is the Swatantra Party. Gopal Krishna notes that the party formerly had MLAs and MPs but is now about to have a “SWATANTRA PARTY DOCTOR,” referring to Raju’s doctoral research on the party. He offers to look for relevant material and to complete a questionnaire if requested. The letter closes with Gopal Krishna’s Bangalore address and phone number.
+
 ## Key points
 
 - The letter is dated 2 March 1985 and is addressed to “Raju.”

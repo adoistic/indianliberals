@@ -53,6 +53,12 @@ summary: |-
   Masani presents his subsequent position as a synthesis of Western liberalism and Gandhian teaching. He argues that freedom-loving traditions on the Left and Right share more than their labels suggest, and calls for liberals and socialists to unite when democratic institutions and a free society are threatened. The message concludes by contrasting a free society with totalitarian communism and by warning that the United States, despite its capitalist form, is increasingly shaped by welfare-state policies. The summary is based on both rendered pages; no additional material is missing from this two-page item.
 ---
 
+## Summary
+
+In this 1969 Silver Jubilee message to the Praja Socialist Party, Minoo Masani recalls the party's formative discussions in 1933, when he and fellow activists including Jayaprakash Narayan worked out plans for the Congress Socialist Party. He pays tribute to the fraternity that survived later political differences and even organizational separation, while explaining why some former socialists moved outside the party's orbit: the influence of Mahatma Gandhi and growing disappointment with the authoritarian implications of orthodox socialist policy.
+
+Masani presents his subsequent position as a synthesis of Western liberalism and Gandhian teaching. He argues that freedom-loving traditions on the Left and Right share more than their labels suggest, and calls for liberals and socialists to unite when democratic institutions and a free society are threatened. The message concludes by contrasting a free society with totalitarian communism and by warning that the United States, despite its capitalist form, is increasingly shaped by welfare-state policies. The summary is based on both rendered pages; no additional material is missing from this two-page item.
+
 ## Key points
 
 - Masani recalls the 1933 efforts of socialist activists to formulate the programme of the Congress Socialist Party.

@@ -49,6 +49,12 @@ summary: |-
   Signed by Shri M. S. Sundaresan, Under Secretary, the letter forwards a copy of the minutes of the committee's seventh meeting, held on 18 November 1965 in the Speaker's Chamber. The rendered page contains the forwarding communication only; the meeting minutes referred to in the letter are not included.
 ---
 
+## Summary
+
+This one-page official letter from the Lok Sabha Secretariat, dated 23 November 1965, is addressed to all members of the Jawaharlal Nehru Portrait Parliamentary Committee. Its subject is the installation of statues of national leaders in the Parliament House Estate.
+
+Signed by Shri M. S. Sundaresan, Under Secretary, the letter forwards a copy of the minutes of the committee's seventh meeting, held on 18 November 1965 in the Speaker's Chamber. The rendered page contains the forwarding communication only; the meeting minutes referred to in the letter are not included.
+
 ## Key points
 
 - The document is an official communication issued on Lok Sabha Secretariat letterhead.

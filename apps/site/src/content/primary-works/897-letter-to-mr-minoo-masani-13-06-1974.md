@@ -49,6 +49,12 @@ summary: |-
   The letter expresses hope that the proposal to form a common-programme front for joint action will prevail, while the partially visible continuation indicates Shah's concern that the party should not be dissolved hastily. The final page is a later typed receipt and filing note concerning a separate Masani letter dated 1 July 1974, received on 3 July 1974.
 ---
 
+## Summary
+
+In this handwritten letter dated 13 June 1974, Sumantilal Daptalal Shah writes to M. R. Masani after attending the Swatantra Party's General Council meeting in Delhi. Shah reports that he presented his views forcefully and that senior council members, including C. R. Narasimbhan, Maharana Lakshman Singhji, H. M. Patel, and D. N. Patodia, appreciated his intervention. He also says that Masani's circulated letter to Piloo Mody had a strong effect on the meeting, particularly by putting Masani's views on the proposed dissolution of the party before its members.
+
+The letter expresses hope that the proposal to form a common-programme front for joint action will prevail, while the partially visible continuation indicates Shah's concern that the party should not be dissolved hastily. The final page is a later typed receipt and filing note concerning a separate Masani letter dated 1 July 1974, received on 3 July 1974.
+
 ## Key points
 
 - Shah attended the Swatantra Party General Council meeting in Delhi and presented his views before the meeting.

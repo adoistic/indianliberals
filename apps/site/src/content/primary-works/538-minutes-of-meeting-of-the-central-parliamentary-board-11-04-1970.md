@@ -53,6 +53,12 @@ summary: |-
   The minutes then assess electoral coordination and party discipline across several states. They note cooperation or disputes involving Congress (O), Jana Sangh, the PSP, the DMK, the Forward Bloc, and other opposition groups; approve or review candidates for forthcoming by-elections; criticise poor parliamentary attendance; and discuss the organisation of a non-Communist opposition front in Andhra. The meeting concludes with a reminder that MPs should obtain prior approval before issuing joint statements or signing memoranda with other political parties.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Central Parliamentary Board meeting held at M.R. Masani’s residence in New Delhi on 11 April 1970. The Board confirmed the previous minutes and reviewed party activity concerning the Orissa Preventive Detention Act, parliamentary by-elections in Buldana and Mathura, and complaints about party members making statements contrary to party policy.
+
+The minutes then assess electoral coordination and party discipline across several states. They note cooperation or disputes involving Congress (O), Jana Sangh, the PSP, the DMK, the Forward Bloc, and other opposition groups; approve or review candidates for forthcoming by-elections; criticise poor parliamentary attendance; and discuss the organisation of a non-Communist opposition front in Andhra. The meeting concludes with a reminder that MPs should obtain prior approval before issuing joint statements or signing memoranda with other political parties.
+
 ## Key points
 
 - The Board confirmed the minutes of its 19 March 1970 meeting.

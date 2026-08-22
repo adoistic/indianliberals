@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated June 18, 1971, is addressed to Rajubhai and signed by Stewart. The writer reports that a Government of India visa has still not arrived after fifteen weeks, creating considerable inconvenience, but expects to reach India in September after stops in London and Geneva. The planned itinerary runs from Boston to London, Geneva, and then Bombay, followed by travel to Baroda or Ahmedabad.
 ---
 
+## Summary
+
+This one-page letter, dated June 18, 1971, is addressed to Rajubhai and signed by Stewart. The writer reports that a Government of India visa has still not arrived after fifteen weeks, creating considerable inconvenience, but expects to reach India in September after stops in London and Geneva. The planned itinerary runs from Boston to London, Geneva, and then Bombay, followed by travel to Baroda or Ahmedabad.
+
 ## Key points
 
 - The writer is still waiting for a Government of India visa after fifteen weeks.

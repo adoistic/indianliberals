@@ -51,6 +51,12 @@ summary: |-
   Masani also criticizes other parties, including the Congress Party’s decision to cast second-preference votes against the Swatantra candidate, while distinguishing political solidarity from opportunistic bargaining. He calls for “clean politics and democratic discipline,” leadership grounded in public trust rather than pressure or mechanical majorities, and fidelity to pledged words. His resignation, he concludes, was an act of atonement rather than a conditional tactic intended to force the party into a particular course; if it has challenged the conscience of colleagues and renewed public hope, it has not been in vain.
 ---
 
+## Summary
+
+In this short pamphlet, M. R. Masani explains why he has remained “adamant” in adhering to his resignation from the Swatantra Party’s National Executive and Central Parliamentary Board. He presents the immediate dispute in Gujarat as part of a wider deterioration of political standards: defections, breaches of faith, indiscipline, and the buying and selling of votes and seats. He argues that the failure to confront such conduct damages the credibility of political parties and risks deepening public disillusionment with parliamentary democracy.
+
+Masani also criticizes other parties, including the Congress Party’s decision to cast second-preference votes against the Swatantra candidate, while distinguishing political solidarity from opportunistic bargaining. He calls for “clean politics and democratic discipline,” leadership grounded in public trust rather than pressure or mechanical majorities, and fidelity to pledged words. His resignation, he concludes, was an act of atonement rather than a conditional tactic intended to force the party into a particular course; if it has challenged the conscience of colleagues and renewed public hope, it has not been in vain.
+
 ## Key points
 
 - Masani frames his resignation from the Swatantra Party as a principled response to party indiscipline and a breach of its pledged word.

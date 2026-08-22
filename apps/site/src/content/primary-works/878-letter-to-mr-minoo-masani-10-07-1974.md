@@ -47,6 +47,10 @@ summary: |-
   This two-page handwritten letter, dated 10 July 1974 and sent from Moradabad by Om Praksh Pathik to Minoo Masani, concerns the proposed dissolution of the Swatantra Party. Pathik recounts attending a Delhi meeting of the party's General Council, where most members present reportedly opposed dissolution, while H. K. Pathak and other members supported the motion. He states that a State Council meeting in Lucknow was scheduled for 14 July and asks Masani to use his letters and influence to support the suggestions made by the state members.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 10 July 1974 and sent from Moradabad by Om Praksh Pathik to Minoo Masani, concerns the proposed dissolution of the Swatantra Party. Pathik recounts attending a Delhi meeting of the party's General Council, where most members present reportedly opposed dissolution, while H. K. Pathak and other members supported the motion. He states that a State Council meeting in Lucknow was scheduled for 14 July and asks Masani to use his letters and influence to support the suggestions made by the state members.
+
 ## Key points
 
 - The letter is dated 10 July 1974 and was written from Moradabad by Om Praksh Pathik.

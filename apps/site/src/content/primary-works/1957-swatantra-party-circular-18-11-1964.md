@@ -51,6 +51,12 @@ summary: |-
   Dated 18 November 1964, the notice requests recipients to attend and is signed by P. N. Solanki, identified as Secretary. The document is an administrative party communication rather than a substantive political statement.
 ---
 
+## Summary
+
+This one-page English circular, issued on Swatantra Party Parliamentary Office letterhead, announces a meeting of the party's Executive Committee. The meeting was scheduled for Friday, 20 November 1964, from 10:15 a.m. in the Committee Room, Central Hall, Parliament House, New Delhi.
+
+Dated 18 November 1964, the notice requests recipients to attend and is signed by P. N. Solanki, identified as Secretary. The document is an administrative party communication rather than a substantive political statement.
+
 ## Key points
 
 - The document is headed "CIRCULAR" and issued by the Swatantra Party Parliamentary Office.

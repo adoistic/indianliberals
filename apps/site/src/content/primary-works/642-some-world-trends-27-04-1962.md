@@ -55,6 +55,10 @@ summary: |-
   These seven handwritten pages, dated apparently 27 April 1962, are working notes on contemporary world affairs and political ideas. The opening pages range across colonialism and Algeria, Charles de Gaulle, Berlin, China, Russia, and the international consequences of changing power relationships. The notes are fragmentary rather than a continuous argument, and include brief observations, questions, and comparative references rather than developed prose.
 ---
 
+## Summary
+
+These seven handwritten pages, dated apparently 27 April 1962, are working notes on contemporary world affairs and political ideas. The opening pages range across colonialism and Algeria, Charles de Gaulle, Berlin, China, Russia, and the international consequences of changing power relationships. The notes are fragmentary rather than a continuous argument, and include brief observations, questions, and comparative references rather than developed prose.
+
 ## Key points
 
 - The notes consider colonialism and the Algerian question, including Charles de Gaulle.

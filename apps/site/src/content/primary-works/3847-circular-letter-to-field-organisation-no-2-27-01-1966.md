@@ -51,6 +51,12 @@ summary: |-
   The circular stresses that the meeting is important and that recipients are expected to attend for the whole day. It asks organisers to cancel other engagements so they can arrive in Hyderabad first thing that morning, and authorises them to claim travel expenses in their February monthly T.A. bill. The document is an internal party-organisational communication rather than a statement of policy.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated 27 January 1966, is addressed exclusively to Andhra field organisers. M. R. Masani announces a meeting in Hyderabad on Saturday, 5 February, for prospective parliamentary candidates and parliamentary constituency organisers.
+
+The circular stresses that the meeting is important and that recipients are expected to attend for the whole day. It asks organisers to cancel other engagements so they can arrive in Hyderabad first thing that morning, and authorises them to claim travel expenses in their February monthly T.A. bill. The document is an internal party-organisational communication rather than a statement of policy.
+
 ## Key points
 
 - The circular is issued by the Swatantra Party Central Office on 27 January 1966.

@@ -46,6 +46,12 @@ summary: |-
   Raju states that V. P. Bhatia succeeded him as Executive Secretary and that the vehicles were registered in the name of that office. Because the relevant papers and documents are with Bhatia, Raju directs the Collector to pursue the recovery matter with him and confirms that he has forwarded the Collector's letter and enclosure to Bhatia.
 ---
 
+## Summary
+
+In this letter dated December 13, 1974, S. V. Raju replies to the Collector of Bombay regarding the recovery of motor-vehicle tax dues listed against four vehicles. He explains that the correspondence had been addressed to M. R. Masani, but that Raju had resigned as Executive Secretary of the Swatantra Party effective January 1, 1974.
+
+Raju states that V. P. Bhatia succeeded him as Executive Secretary and that the vehicles were registered in the name of that office. Because the relevant papers and documents are with Bhatia, Raju directs the Collector to pursue the recovery matter with him and confirms that he has forwarded the Collector's letter and enclosure to Bhatia.
+
 ## Key points
 
 - The letter is dated December 13, 1974, and is addressed to the Collector of Bombay.

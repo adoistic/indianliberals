@@ -61,6 +61,12 @@ summary: |-
   In the rendered pages, Masani directs his sharpest criticism at what he calls Statism: the politicisation of economic life, state capitalism, central planning, economic nationalism, government ownership, licensing, controls, and politically managed trade unions. He associates India’s low productivity and inflation with the priorities of its Five-Year Plans, excessive emphasis on heavy industry, protectionism, and state management. The concluding pages in the rendered set distinguish democracy from majority rule and defend limited government, minority protection, individual conscience, and a constitutional order. The pages rendered include printed pages 11, 82–84, and 87–88; printed pages 85–86 were not visible in the supplied scan.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani examines whether political democracy is necessary for industrial efficiency, productivity, and economic progress. He distinguishes productivity from mere increases in output and argues that liberal democracy supplies the institutional foundations of productive industry: contract, property and patent rights, the rule of law, reasonable taxation, education, infrastructure, trained manpower, and a stable currency. Historical examples from Japan, Taiwan, South Korea, Iran, Brazil, and the Soviet Union are used in the rendered pages to argue that industrial growth can occur under authoritarian rule, but that democracy is not inherently hostile to productivity and may provide a more secure social and political environment for it.
+
+In the rendered pages, Masani directs his sharpest criticism at what he calls Statism: the politicisation of economic life, state capitalism, central planning, economic nationalism, government ownership, licensing, controls, and politically managed trade unions. He associates India’s low productivity and inflation with the priorities of its Five-Year Plans, excessive emphasis on heavy industry, protectionism, and state management. The concluding pages in the rendered set distinguish democracy from majority rule and defend limited government, minority protection, individual conscience, and a constitutional order. The pages rendered include printed pages 11, 82–84, and 87–88; printed pages 85–86 were not visible in the supplied scan.
+
 ## Key points
 
 - Productivity is defined as more efficient production, not simply a larger volume of output.

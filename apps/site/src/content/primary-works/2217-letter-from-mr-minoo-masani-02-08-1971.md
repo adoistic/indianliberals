@@ -51,6 +51,12 @@ summary: |-
   Masani focuses especially on the danger of allowing the 24th Amendment to pass. He warns that the resulting legislation would “definitely destroy the freedom of the Press and of the Editor,” and appeals to Mehta to heed this warning from a fellow liberal. The single rendered page does not provide the titles or text of the Bills beyond this discussion, nor does it show any further correspondence or contextual material.
 ---
 
+## Summary
+
+In this letter dated August 2, 1971, M. R. Masani urges A. D. Mehta, MP, to oppose both Constitution Bills then due for consideration in the Rajya Sabha. Writing as “a liberal and a believer in the freedom of the Press,” Masani argues that the Bills are equally objectionable, despite George Verghese’s article suggesting that one might open the door to the other.
+
+Masani focuses especially on the danger of allowing the 24th Amendment to pass. He warns that the resulting legislation would “definitely destroy the freedom of the Press and of the Editor,” and appeals to Mehta to heed this warning from a fellow liberal. The single rendered page does not provide the titles or text of the Bills beyond this discussion, nor does it show any further correspondence or contextual material.
+
 ## Key points
 
 - Masani asks A. D. Mehta to oppose both Constitution Bills before the Rajya Sabha.

@@ -62,3 +62,7 @@ ai:
 summary: |-
   Issue No. 75 of the Swatantra Newsletter, dated August/September 1970, presents the party's response to the Organisation Congress's call for consolidating nationalist and democratic forces. Its central political message is that democratic parties should cooperate against communist subversion and authoritarian tendencies without abandoning constitutionalism, secularism, minority protections, or the party's liberal identity. The issue reproduces speeches by Minoo Masani and C. Rajagopalachari, the General Council's political resolution, reports of party proceedings, policy resolutions, and organisational guidance.
 ---
+
+## Summary
+
+Issue No. 75 of the Swatantra Newsletter, dated August/September 1970, presents the party's response to the Organisation Congress's call for consolidating nationalist and democratic forces. Its central political message is that democratic parties should cooperate against communist subversion and authoritarian tendencies without abandoning constitutionalism, secularism, minority protections, or the party's liberal identity. The issue reproduces speeches by Minoo Masani and C. Rajagopalachari, the General Council's political resolution, reports of party proceedings, policy resolutions, and organisational guidance.

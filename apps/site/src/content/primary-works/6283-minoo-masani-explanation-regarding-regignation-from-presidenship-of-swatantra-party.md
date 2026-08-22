@@ -48,6 +48,12 @@ summary: |-
   Masani also stresses that his resignation was not taken without awareness of his obligations to colleagues. He expresses confidence that he and the recipient will continue to have opportunities to serve the country, and assures the recipient that he remains available for advice on public matters. The page does not include the attached speech itself; it records only the covering letter.
 ---
 
+## Summary
+
+In this undated single-page letter, M. R. Masani responds to friends seeking an explanation for his resignation from the presidency of the Swatantra Party and an indication of his view of the Party and the country. Rather than answer each inquiry individually, he sends them the text of his speech inaugurating the Swatantra Party's General Council meeting in Bombay on 17 April 1971, which he presents as a fuller account of his position and of what he believes needs to be done.
+
+Masani also stresses that his resignation was not taken without awareness of his obligations to colleagues. He expresses confidence that he and the recipient will continue to have opportunities to serve the country, and assures the recipient that he remains available for advice on public matters. The page does not include the attached speech itself; it records only the covering letter.
+
 ## Key points
 
 - Masani explains that friends had asked why he resigned from the presidency of the Swatantra Party.

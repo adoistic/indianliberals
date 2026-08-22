@@ -52,6 +52,12 @@ summary: |-
   The reports also record competing leadership claims and efforts to contain the dispute. Dahyabhai Patel is identified as a possible new Gujarat party chairman with support from several MPs, while the party’s executive committee authorises H. M. Patel to present Gujarat’s views to the General Council. The coverage frames the controversy as a struggle over party discipline, leadership, electoral responsibility, and the future of the Gujarat organisation.
 ---
 
+## Summary
+
+This two-page typed document translates reports from Jan Satta dated 26 May 1968 and Bombay Samachar dated 28 May 1968. The reports describe mounting opposition within the Gujarat Swatantra Party to Minoo Masani’s proposal for an ad hoc committee to reorganise the Gujarat unit after the party’s defeat in Rajya Sabha elections. Party leaders, especially Bhailalbhai Patel and H. M. Patel, portray Masani’s initiative as disruptive and accuse him of acting in the interests of the Congress.
+
+The reports also record competing leadership claims and efforts to contain the dispute. Dahyabhai Patel is identified as a possible new Gujarat party chairman with support from several MPs, while the party’s executive committee authorises H. M. Patel to present Gujarat’s views to the General Council. The coverage frames the controversy as a struggle over party discipline, leadership, electoral responsibility, and the future of the Gujarat organisation.
+
 ## Key points
 
 - Minoo Masani’s proposal for an ad hoc committee for Gujarat provokes opposition among Gujarat Swatantra Party leaders.

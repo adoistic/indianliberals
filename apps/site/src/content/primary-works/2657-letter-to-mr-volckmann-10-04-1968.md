@@ -53,6 +53,12 @@ summary: |-
   The attached research statement explains that Volckmann, a University of California, Berkeley Ph.D. candidate in political science, planned to study the impact of capital-intensive investment on district administration in Sundargarh, Orissa. He sought data on social and economic change, development-project allocation, district-administration personnel and structures, planning processes, election results, and voluntary organisations. The final pages present the project as dependent on cooperation from district officials, administrators, and prominent citizens, while acknowledging that much of the research would have to be conducted independently.
 ---
 
+## Summary
+
+This four-page correspondence packet begins with M. R. Masani’s 10 April 1958 letter to Russell W. Volckmann, directing him to contact S. K. Bose, Additional Chief Secretary to the Government of Orissa, for assistance during a visit to Bhubaneswar. The packet also includes a 4 April 1968 communication from the Private Secretary to the Chief Minister of Orissa, confirming that Masani had forwarded Volckmann’s note and advising him to contact Bose on arrival.
+
+The attached research statement explains that Volckmann, a University of California, Berkeley Ph.D. candidate in political science, planned to study the impact of capital-intensive investment on district administration in Sundargarh, Orissa. He sought data on social and economic change, development-project allocation, district-administration personnel and structures, planning processes, election results, and voluntary organisations. The final pages present the project as dependent on cooperation from district officials, administrators, and prominent citizens, while acknowledging that much of the research would have to be conducted independently.
+
 ## Key points
 
 - Masani’s 10 April 1958 letter directs Volckmann to S. K. Bose for assistance in Orissa.

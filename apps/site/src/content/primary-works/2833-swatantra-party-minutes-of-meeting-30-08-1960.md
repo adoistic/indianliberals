@@ -54,6 +54,12 @@ summary: |-
   The meeting established procedures for party members wishing to introduce Bills, motions, or amendments in the Lok Sabha: proposals were to be shown to the party whip, who would consult the Leader or Deputy Leader and, where necessary, place them before the group. The minutes also assign Ranga to speak in the foreign-policy debate and J. M. Inam to speak on Assam, ask Anand Chowd and S. A. Matin to maintain day-to-day coordination as whips, and record a proposal to invite Swatantra Party MPs as special invitees to General Council meetings.
 ---
 
+## Summary
+
+This one-page English memorandum records the 30 August 1960 meeting of the Swatantra Parliamentary Group at Central Hall, chaired by Professor N. G. Ranga. It lists those present, notes that the previous meeting's minutes were unavailable for confirmation, and records the disposal of correspondence from the Speaker concerning M. R. Masani's letter.
+
+The meeting established procedures for party members wishing to introduce Bills, motions, or amendments in the Lok Sabha: proposals were to be shown to the party whip, who would consult the Leader or Deputy Leader and, where necessary, place them before the group. The minutes also assign Ranga to speak in the foreign-policy debate and J. M. Inam to speak on Assam, ask Anand Chowd and S. A. Matin to maintain day-to-day coordination as whips, and record a proposal to invite Swatantra Party MPs as special invitees to General Council meetings.
+
 ## Key points
 
 - The Swatantra Parliamentary Group met at Central Hall on 30 August 1960 at 12.30 p.m., with Professor N. G. Ranga in the chair.

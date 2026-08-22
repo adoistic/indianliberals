@@ -56,3 +56,7 @@ ai:
 summary: |-
   This scanned Mumbai edition of The Times of India, dated 15 January 2008, presents a wide-ranging mix of opinion, reporting, cultural features, reader correspondence, notices, and advertisements. The visible opinion pages are anchored by debates over liberalism, socialism, constitutional rights, press independence, civilian honours, public safety, foreign policy, and the relationship between state institutions and individual freedom.
 ---
+
+## Summary
+
+This scanned Mumbai edition of The Times of India, dated 15 January 2008, presents a wide-ranging mix of opinion, reporting, cultural features, reader correspondence, notices, and advertisements. The visible opinion pages are anchored by debates over liberalism, socialism, constitutional rights, press independence, civilian honours, public safety, foreign policy, and the relationship between state institutions and individual freedom.

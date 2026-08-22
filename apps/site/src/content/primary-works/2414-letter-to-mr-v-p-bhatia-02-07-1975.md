@@ -47,6 +47,10 @@ summary: |-
   In this letter dated July 2, 1975, M. R. Masani writes to V. P. Bhatia regarding a traffic-offence notice concerning Jeep No. MRG-2347. Masani explains that he is preparing a tentative reply stating that the vehicle had been sold and asks Bhatia to provide documentation about the transaction.
 ---
 
+## Summary
+
+In this letter dated July 2, 1975, M. R. Masani writes to V. P. Bhatia regarding a traffic-offence notice concerning Jeep No. MRG-2347. Masani explains that he is preparing a tentative reply stating that the vehicle had been sold and asks Bhatia to provide documentation about the transaction.
+
 ## Key points
 
 - Masani received a traffic-offence notice from the Deputy Commissioner of Police, Traffic Control Branch.

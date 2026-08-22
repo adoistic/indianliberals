@@ -58,3 +58,9 @@ summary: |-
   
   The issue combines foreign-policy advocacy with domestic liberal critiques. Its resolutions oppose the misuse or indefinite extension of emergency powers, an amendment concerning the Attorney-General, and the Gold Control Order, which the party argues would encourage smuggling, damage small artisans, and undermine ordinary citizens’ savings. The newsletter also reproduces speeches by Prof. Ranga and Dahayabhai V. Patel on the Colombo proposals, Rajaji’s article on alliance-building, and a Liberal International communiqué defending economic liberalism, private enterprise, democratic institutions, and international cooperation.
 ---
+
+## Summary
+
+The February 1963 issue of Swatantra Newsletter (No. 31), issued by the Central Office of the Swatantra Party, presents the party’s response to the 1962 Chinese invasion, the Colombo proposals, and the continuing National Emergency. Reports on parliamentary and organisational meetings, public gatherings, and state units portray the party as urging a harder line against China, closer defence cooperation with democratic powers, and recovery of territory lost in the conflict. Rajaji’s call for the dissolution of Parliament and criticism of the government’s handling of foreign policy are also featured.
+
+The issue combines foreign-policy advocacy with domestic liberal critiques. Its resolutions oppose the misuse or indefinite extension of emergency powers, an amendment concerning the Attorney-General, and the Gold Control Order, which the party argues would encourage smuggling, damage small artisans, and undermine ordinary citizens’ savings. The newsletter also reproduces speeches by Prof. Ranga and Dahayabhai V. Patel on the Colombo proposals, Rajaji’s article on alliance-building, and a Liberal International communiqué defending economic liberalism, private enterprise, democratic institutions, and international cooperation.

@@ -49,6 +49,12 @@ summary: |-
   Ranga also forwards an invitation to visit Ladakh and asks Masani to represent them in that delegation, suggesting October 3–8 as suitable dates. He outlines his own forthcoming travel to Paris and London and offers to contact Masani’s friends in London. The letter documents political representation, international parliamentary engagement, and travel coordination; handwritten annotations record alternative dates and a brief negative response.
 ---
 
+## Summary
+
+This one-page letter, dated September 19, 1969, is written by N. G. Ranga from New Delhi to M. R. (Minoo) Masani. Ranga asks Masani to attend the Indian Union Executive meeting on September 27 as their delegate, in connection with the forthcoming Inter-Parliamentary Conference, whose Executive meetings are scheduled for September 28–29 and whose full conference runs from October 30 to November 7.
+
+Ranga also forwards an invitation to visit Ladakh and asks Masani to represent them in that delegation, suggesting October 3–8 as suitable dates. He outlines his own forthcoming travel to Paris and London and offers to contact Masani’s friends in London. The letter documents political representation, international parliamentary engagement, and travel coordination; handwritten annotations record alternative dates and a brief negative response.
+
 ## Key points
 
 - N. G. Ranga wrote the letter from 4, Sunehri Bagh Road, New Delhi, on September 19, 1969.

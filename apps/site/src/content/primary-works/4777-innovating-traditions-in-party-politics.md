@@ -54,6 +54,12 @@ summary: |-
   In the rendered pages, Raju treats the 1971 defeat and Masani’s resignation as decisive blows to Rajaji and to the Swatantra Party’s organisational continuity. The essay’s concluding assessment is admiring but not uncritical: Rajaji is credited with reviving liberal political ideas in India at an advanced age, while his late tactical concession to Kamaraj is described as a momentary departure from his own principles that helped bring about the party’s collapse. The final pages frame Rajaji’s enduring contribution in terms of freedom, the rule of law, democracy, and civil liberty.
 ---
 
+## Summary
+
+In the rendered pages, S. V. Raju describes the final phase of C. Rajagopalachari’s political career through the rise and collapse of the Swatantra Party. The essay recounts the party’s early electoral success, its opposition to Congress dominance and state control, and the close strategic relationship between Rajaji and Minoo Masani. It also presents Rajaji’s refusal to compromise the party’s common-minimum programme during negotiations for the 1971 opposition “Grand Alliance,” even when coalition partners demanded an exclusive anti-Indira slogan.
+
+In the rendered pages, Raju treats the 1971 defeat and Masani’s resignation as decisive blows to Rajaji and to the Swatantra Party’s organisational continuity. The essay’s concluding assessment is admiring but not uncritical: Rajaji is credited with reviving liberal political ideas in India at an advanced age, while his late tactical concession to Kamaraj is described as a momentary departure from his own principles that helped bring about the party’s collapse. The final pages frame Rajaji’s enduring contribution in terms of freedom, the rule of law, democracy, and civil liberty.
+
 ## Key points
 
 - The essay explains how the Swatantra Party emerged as a major opposition force despite early criticism from Jawaharlal Nehru and Congress.

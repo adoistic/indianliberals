@@ -48,6 +48,12 @@ summary: |-
   In the enclosed message, Masani welcomes the conference being organised by the Swatantra Party in the taluks of Belur, Alur and Muzerabad, following the Party’s successful convention in Hassan. He urges the conference to focus on building a strong local organisation for the Party and expresses his wishes for its success.
 ---
 
+## Summary
+
+This two-page letter, dated 9 November 1959, is from M. R. Masani to N. K. Ganapaiah. Masani thanks Ganapaiah for his letter of 4 November and encloses greetings for an upcoming conference on 12 November. The correspondence is written from Masani’s Bombay address and bears his handwritten signature.
+
+In the enclosed message, Masani welcomes the conference being organised by the Swatantra Party in the taluks of Belur, Alur and Muzerabad, following the Party’s successful convention in Hassan. He urges the conference to focus on building a strong local organisation for the Party and expresses his wishes for its success.
+
 ## Key points
 
 - M. R. Masani wrote to N. K. Ganapaiah on 9 November 1959.

@@ -48,6 +48,14 @@ summary: |-
   The writer notes that he is 'risking the displeasure of these persons' by writing at all, promises a fuller letter with the full facts, and closes by saying he did all he could 'single handed' and prays for Masani's success. The letter is marked 'Personal' at the top left.
 ---
 
+## Summary
+
+A one-page typed letter from Dr. H. U. Bhambhani in Rajkot to Minoo Masani, dated 1 March 1971, sent immediately after the general election. Bhambhani writes to unburden himself about what he calls the 'sad state of affairs' before and on polling day, alleging that Masani was betrayed by the three men he had placed in charge of the local campaign — 'M/s Kalyani, Ratibhai and Chhotubhai' — in whom he had reposed his 'utmost trust'.
+
+Bhambhani's charge is that these three ran the election machinery in a 'selfcentered and monopolistic' manner, humiliated the sincere and honorary workers of the party, ignored healthy suggestions, and thereby put down 'a noble man' like Masani. He frames the handling as 'arrogant and deceitful', arguing that the trio hoarded power to conceal their own mishandling and turned the campaign into a 'farce'. He nevertheless assures Masani that the work was done, on the campaign and on polling day itself, with due regard to the party's interest and to Masani personally.
+
+The writer notes that he is 'risking the displeasure of these persons' by writing at all, promises a fuller letter with the full facts, and closes by saying he did all he could 'single handed' and prays for Masani's success. The letter is marked 'Personal' at the top left.
+
 ## Key points
 
 - Private post-election letter from Dr. H. U. Bhambhani (Rajkot) to Minoo Masani, dated 1 March 1971, marked 'Personal'.

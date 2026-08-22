@@ -48,6 +48,10 @@ summary: |-
   This single-page English telegram, sent from Bombay on 12 June 1966, is addressed to M. R. Masani at the Westend Hotel in Bangalore. It reports that the Prime Minister’s secretary has informed the sender that a meeting has been fixed for Monday the 13th at 5 p.m., and asks Masani to confirm his arrival.
 ---
 
+## Summary
+
+This single-page English telegram, sent from Bombay on 12 June 1966, is addressed to M. R. Masani at the Westend Hotel in Bangalore. It reports that the Prime Minister’s secretary has informed the sender that a meeting has been fixed for Monday the 13th at 5 p.m., and asks Masani to confirm his arrival.
+
 ## Key points
 
 - The document is an Indian Posts and Telegraphs Department telegram form.

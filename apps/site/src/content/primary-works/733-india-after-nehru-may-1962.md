@@ -61,6 +61,12 @@ summary: |-
   The essay also anticipates changes in foreign and economic policy. Masani expects India to learn from the failures of Panchsheel and an overly idealistic foreign policy, to pay closer attention to its South Asian neighbourhood, and to seek a more normal relationship with Pakistan. Economically, he calls for greater priority for agriculture, less “gigantism” and fewer costly “white elephants,” and a more welcoming attitude toward foreign capital. He predicts new political alignments and presents the Swatantra Party’s role as that of a constitutional, democratic opposition. The final pages urge Indians to face the future rather than remain absorbed in the glories of the past.
 ---
 
+## Summary
+
+In the visible pages, M. R. Masani considers the political consequences of Jawaharlal Nehru’s death and argues that India is moving beyond the post-independence phase dominated by a single national leader. He identifies two inherited political habits as obstacles to democratic maturity: dependence on the paternal state, expressed through the “Mother-Father Government” idea, and the tendency to blame an external “They” rather than accept civic responsibility. Masani hopes that policy will increasingly be judged on its own merits and that political power will become more competitive and federal, with the states asserting greater rights against the Union government.
+
+The essay also anticipates changes in foreign and economic policy. Masani expects India to learn from the failures of Panchsheel and an overly idealistic foreign policy, to pay closer attention to its South Asian neighbourhood, and to seek a more normal relationship with Pakistan. Economically, he calls for greater priority for agriculture, less “gigantism” and fewer costly “white elephants,” and a more welcoming attitude toward foreign capital. He predicts new political alignments and presents the Swatantra Party’s role as that of a constitutional, democratic opposition. The final pages urge Indians to face the future rather than remain absorbed in the glories of the past.
+
 ## Key points
 
 - Nehru’s death is presented as the likely end of a political era centred on one dominant leader and the beginning of a new phase in independent India.

@@ -49,6 +49,12 @@ summary: |-
   The substantive request is organisational: Rajaji urges that a circular letter be sent to "all our branches" — the Swatantra Party's — instructing them to arrange public meetings that both protest the taxes newly imposed and express sympathy for the goldsmiths affected. A handwritten postscript asks Masani what he thinks of the plan. The received stamp records the letter's arrival on 8 March 1963.
 ---
 
+## Summary
+
+A brief typed letter from C. Rajagopalachari, written from his 60, Bazlullah Road, T. Nagar (Madras) address on 5 March 1963 to Minoo Masani at 40, Canning Lane, New Delhi, with a copy noted to Bombay. Rajaji tells Masani that he proposes to insert a paragraph in the "Dear Reader" column of Swarajya on the subject at hand and encloses a copy of the intended text.
+
+The substantive request is organisational: Rajaji urges that a circular letter be sent to "all our branches" — the Swatantra Party's — instructing them to arrange public meetings that both protest the taxes newly imposed and express sympathy for the goldsmiths affected. A handwritten postscript asks Masani what he thinks of the plan. The received stamp records the letter's arrival on 8 March 1963.
+
 ## Key points
 
 - One-page typed letter from C. Rajagopalachari to Minoo Masani, dated 5 March 1963, sent from Rajaji's 60 Bazlullah Road, T. Nagar, Madras-17 address.

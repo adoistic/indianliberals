@@ -50,6 +50,12 @@ summary: |-
   The letter records a revised financing plan following a reduction in Bihar’s endorsed seats from 25 to 15. On the figures presented, the Centre is expected to provide Rs. 25,000 per constituency, with Rs. 3,75,000 payable for 15 seats; it had already advanced Rs. 50,000 and arranged further payments through the Central Bank. Masani proposes that the Centre retain priority over eight jeeps while Singh’s organisation receives the remaining 25, and separately describes arrangements to provide up to Rs. 25,000 for five constituencies whose candidates could not receive jeeps. The document also refers to recommendations from district presidents, the Baroda Award, and decisions of parliamentary sub-committees in Bangalore and Agra.
 ---
 
+## Summary
+
+This two-page letter from M. R. Masani to Shri Kamakhya Narain Singh, dated 21 December 1961, addresses the Bihar Swatantra Party’s preparations for the forthcoming elections. Masani presses Singh for overdue replies on parliamentary candidates, constituency arrangements, jeep distribution, and the party’s Election Finance Sub-committee, stressing that endorsed candidates need timely logistical and financial support.
+
+The letter records a revised financing plan following a reduction in Bihar’s endorsed seats from 25 to 15. On the figures presented, the Centre is expected to provide Rs. 25,000 per constituency, with Rs. 3,75,000 payable for 15 seats; it had already advanced Rs. 50,000 and arranged further payments through the Central Bank. Masani proposes that the Centre retain priority over eight jeeps while Singh’s organisation receives the remaining 25, and separately describes arrangements to provide up to Rs. 25,000 for five constituencies whose candidates could not receive jeeps. The document also refers to recommendations from district presidents, the Baroda Award, and decisions of parliamentary sub-committees in Bangalore and Agra.
+
 ## Key points
 
 - Masani seeks an urgent response from Singh on candidate endorsements, self-supporting candidates, remaining constituencies, and the composition of the Patna Assembly constituencies.

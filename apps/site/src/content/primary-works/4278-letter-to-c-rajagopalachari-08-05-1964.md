@@ -52,6 +52,12 @@ summary: |-
   Tata proposes Monday, 15 June, for the event and gives practical details: it would take place in the Tata Auditorium, which could seat over 400 people, and would last no more than an hour and a half, including half an hour for questions. A handwritten annotation at the foot of the page, signed by C. Rajagopalachari, refers to sending a reply to M. R. Masani for disposition and to taking the matter into account at the next working-committee meeting.
 ---
 
+## Summary
+
+This single-page letter from J. R. D. Tata, dated 8 May 1964 and written on Bombay House letterhead, invites C. Rajagopalachari (“Rajaji”) to address the Indian Council of World Affairs during his June visit to Bombay for the Swatantra Party meetings. Tata, identifying himself as the Council’s Life President, says Rajagopalachari may choose any subject for the address.
+
+Tata proposes Monday, 15 June, for the event and gives practical details: it would take place in the Tata Auditorium, which could seat over 400 people, and would last no more than an hour and a half, including half an hour for questions. A handwritten annotation at the foot of the page, signed by C. Rajagopalachari, refers to sending a reply to M. R. Masani for disposition and to taking the matter into account at the next working-committee meeting.
+
 ## Key points
 
 - J. R. D. Tata writes from Bombay House on 8 May 1964 to C. Rajagopalachari.

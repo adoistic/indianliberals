@@ -45,6 +45,12 @@ summary: |-
   In the second page, the sender discusses receiving a card and having “the yarn editor and organisation booklet” for which Masani had asked. The sender says that “Mailboxes” will have the information, describes visiting a house several times, and expresses affection and collegial respect for Masani, whom they have known for many years. The message closes by saying that it is a pleasure to work with Masani as a colleague and begins a further discussion of “Continues” and “a number of spheres,” which is cut off by the end of the postcard.
 ---
 
+## Summary
+
+This two-page handwritten postcard, signed “Ranga,” is addressed to M. R. Masani at the Army Navy Building in Kala Ghoda, Bombay. The sender opens with a reflection that it is “the PEOPLE who make and not the leaders,” then refers to having met Masani and to “Honey Hoby” at the House, though several words in this opening passage are difficult to decipher.
+
+In the second page, the sender discusses receiving a card and having “the yarn editor and organisation booklet” for which Masani had asked. The sender says that “Mailboxes” will have the information, describes visiting a house several times, and expresses affection and collegial respect for Masani, whom they have known for many years. The message closes by saying that it is a pleasure to work with Masani as a colleague and begins a further discussion of “Continues” and “a number of spheres,” which is cut off by the end of the postcard.
+
 ## Key points
 
 - The postcard is signed “Ranga” and addressed to M. R. Masani in Bombay.

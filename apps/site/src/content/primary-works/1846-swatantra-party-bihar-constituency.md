@@ -50,6 +50,12 @@ summary: |-
   The record also documents an apparent mobilisation strategy around C. Rajagopalachari (referred to as “Rajaji”). Several contacts express enthusiasm about his proposed visit to Patna, while one entry reports that Rajaji had written directly to a supporter. The page is headed “BIHAR”; it has no printed title, author, publisher, issuer, or year. The circled handwritten “1846” is treated as an archival mark rather than a date.
 ---
 
+## Summary
+
+This single-page Bihar office record lists ten individuals, their addresses, and their responses to efforts to organise the Swatantra Party. The entries include pleaders, agriculturalists, a student representative, and other local contacts from Ranchi, Patna, Motihari, Dhanbad, Palamau, and Saran. Their remarks range from offers of support and willingness to sacrifice for the organisation to requests for a programme of action and interest in opening a party branch.
+
+The record also documents an apparent mobilisation strategy around C. Rajagopalachari (referred to as “Rajaji”). Several contacts express enthusiasm about his proposed visit to Patna, while one entry reports that Rajaji had written directly to a supporter. The page is headed “BIHAR”; it has no printed title, author, publisher, issuer, or year. The circled handwritten “1846” is treated as an archival mark rather than a date.
+
 ## Key points
 
 - The page is a Bihar-based contact and support list concerning Swatantra Party organisation.

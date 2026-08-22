@@ -50,6 +50,12 @@ summary: |-
   Masani connects the party’s organizational weakness to electoral reverses and declining public credibility, citing the 1967 general elections, the March 1968 Rajya Sabha defeat in Gujarat, the April 1968 defeat in the Damoh election, and the loss of candidates in the Haryana Assembly elections in May 1968. He calls for the rank and file, including ordinary and young party members, to assert themselves and demands a change of heart among leaders at every level. The essay’s closing appeal is for renewed discipline, ethical methods, dedication, and a sincere effort to restore popular faith in the party and in the cause of freedom.
 ---
 
+## Summary
+
+In “Last Hope or Lost Hope?”, M. R. Masani revisits the hope attached to the Swatantra Party when it was founded in Bombay in August 1959: that it would provide an alternative to the Congress Party and demonstrate that India could be governed well. He argues that public disappointment does not primarily reflect a failure of the party’s principles or policies, but its inability to build a disciplined, articulate cadre capable of carrying its message—especially into rural areas.
+
+Masani connects the party’s organizational weakness to electoral reverses and declining public credibility, citing the 1967 general elections, the March 1968 Rajya Sabha defeat in Gujarat, the April 1968 defeat in the Damoh election, and the loss of candidates in the Haryana Assembly elections in May 1968. He calls for the rank and file, including ordinary and young party members, to assert themselves and demands a change of heart among leaders at every level. The essay’s closing appeal is for renewed discipline, ethical methods, dedication, and a sincere effort to restore popular faith in the party and in the cause of freedom.
+
 ## Key points
 
 - Masani recalls the Swatantra Party’s founding hope of becoming an alternative to the Congress Party and providing India with effective government.

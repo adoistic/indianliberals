@@ -52,6 +52,12 @@ summary: |-
   The minutes devote considerable attention to financial controls: expenses above Rs. 100 required committee consent, payments needed supporting vouchers or bills, advances required authorisation, and entertainment expenses for visitors and workers were prohibited. The committee also discontinued the Bombay branch’s clipping service, noted reports concerning Raja Hutheesing’s resignation, elected Piloo Mody and B. K. Mistry as Vice-Chairman and Honorary Secretary, and reviewed Service Centre activities. The final pages describe planned public meetings for the Party’s anniversary, the creation of a 50–80-person volunteer corps, and a decision not to field official candidates in forthcoming municipal elections while supporting Party members who contested as independents.
 ---
 
+## Summary
+
+These three pages record the minutes of a meeting of the Swatantra Party Organising Committee of Greater Bombay, held at the Party office on 2 June 1960. The committee confirmed and amended the previous minutes, including deleting a reference to Sir H. P. Mody, adding R. V. Murthy to the attendance list, and recording an agreement to share the cost of a cyclostyling machine with the Bombay branch. M. R. Masani reported on disputed bills of approximately Rs. 13,000 for printing publicity literature, and the committee decided to defer the matter pending K. M. Munshi’s return to Bombay.
+
+The minutes devote considerable attention to financial controls: expenses above Rs. 100 required committee consent, payments needed supporting vouchers or bills, advances required authorisation, and entertainment expenses for visitors and workers were prohibited. The committee also discontinued the Bombay branch’s clipping service, noted reports concerning Raja Hutheesing’s resignation, elected Piloo Mody and B. K. Mistry as Vice-Chairman and Honorary Secretary, and reviewed Service Centre activities. The final pages describe planned public meetings for the Party’s anniversary, the creation of a 50–80-person volunteer corps, and a decision not to field official candidates in forthcoming municipal elections while supporting Party members who contested as independents.
+
 ## Key points
 
 - The meeting was held on 2 June 1960 by the Swatantra Party Organising Committee of Greater Bombay.

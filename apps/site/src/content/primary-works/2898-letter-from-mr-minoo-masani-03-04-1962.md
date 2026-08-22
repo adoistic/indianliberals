@@ -52,6 +52,10 @@ summary: |-
   In this letter dated 3 August 1962, M. R. Masani asks H. H. Maharaja P. K. Deo to clarify whether press reports have accurately represented his position at a meeting of the National Integration Committee on communalism. Masani distinguishes the Swatantra Party’s commitment to secular, non-denominational democracy from support for banning communal parties, arguing that the latter would contradict the party’s stated philosophy and Article 60 of its proposed programme. He urges Deo to write to committee chairman Asok Mehta if the report is inaccurate, or to identify any pro-ban statement as his personal view rather than the party’s position.
 ---
 
+## Summary
+
+In this letter dated 3 August 1962, M. R. Masani asks H. H. Maharaja P. K. Deo to clarify whether press reports have accurately represented his position at a meeting of the National Integration Committee on communalism. Masani distinguishes the Swatantra Party’s commitment to secular, non-denominational democracy from support for banning communal parties, arguing that the latter would contradict the party’s stated philosophy and Article 60 of its proposed programme. He urges Deo to write to committee chairman Asok Mehta if the report is inaccurate, or to identify any pro-ban statement as his personal view rather than the party’s position.
+
 ## Key points
 
 - Masani requests a report of Deo’s meeting with the Prime Minister because press reports may be misleading.

@@ -49,6 +49,12 @@ summary: |-
   Narayan also outlines the journal's proposed Books & Authors column, asking the recipient to recommend books from different disciplines and languages or to submit reviews, with prior consultation to avoid duplication. He further offers space for substantial essays or planned series on subjects of national importance. The page records no response from the recipient and provides no further information about the journal's subsequent publication.
 ---
 
+## Summary
+
+In this untitled letter dated June 16, 1973, Jayaprakash Narayan invites the recipient to contribute to EVERYMAN'S, a proposed journal associated with the Lok Niti Parishad. He describes the publication as seeking the support of Indian intellectuals and public figures who are not aligned with existing political parties and who value social and democratic principles for India's future. He directs questions about subjects, themes, article length, and deadlines to Shri S. H. Vatsyayan, identified as the journal's Executive Editor in Delhi.
+
+Narayan also outlines the journal's proposed Books & Authors column, asking the recipient to recommend books from different disciplines and languages or to submit reviews, with prior consultation to avoid duplication. He further offers space for substantial essays or planned series on subjects of national importance. The page records no response from the recipient and provides no further information about the journal's subsequent publication.
+
 ## Key points
 
 - The letter is an invitation to contribute to the proposed journal EVERYMAN'S.

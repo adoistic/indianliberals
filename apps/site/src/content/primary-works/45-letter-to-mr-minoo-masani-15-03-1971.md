@@ -49,6 +49,12 @@ summary: |-
   The writer identifies as a socialist but welcomes Masani’s views on the mid-term elections, describing his position in favour of India and the Congress as appreciable. The letter closes by arguing that the nation still needs Masani’s services. The sender’s signature appears to read “Ranga,” though this identification is uncertain; the first page also carries a partially obscured Hindi institutional letterhead from Jodhpur.
 ---
 
+## Summary
+
+This two-page English letter, dated 15 March 1971 from Jodhpur, is addressed to Minoo Masani, president of the Swatantra Party of India. The writer expresses personal respect for Masani despite his electoral defeat, emphasizing his personality and literary outlook and affirming that he retains the writer’s faith and regard.
+
+The writer identifies as a socialist but welcomes Masani’s views on the mid-term elections, describing his position in favour of India and the Congress as appreciable. The letter closes by arguing that the nation still needs Masani’s services. The sender’s signature appears to read “Ranga,” though this identification is uncertain; the first page also carries a partially obscured Hindi institutional letterhead from Jodhpur.
+
 ## Key points
 
 - The letter is dated 15 March 1971 and was sent from Jodhpur.

@@ -49,6 +49,12 @@ summary: |-
   Masani requests that the room next to the one occupied by Mr. Shakdher be allotted to the party as a meeting point and office. He notes that he had already raised the issue with the Speaker in a letter sent at the beginning of March, before the Speaker's election, but had received no suitable accommodation by the date of this correspondence.
 ---
 
+## Summary
+
+In this letter dated May 22, 1967, M. R. Masani asks the Speaker of the Lok Sabha to provide the Swatantra Party with more suitable accommodation within Parliament House. He states that the party has 45 members in the Lok Sabha and 13 in the Rajya Sabha, but only a small cubicle adjacent to Central Hall, which can seat six people and is smaller than rooms assigned to much smaller parties.
+
+Masani requests that the room next to the one occupied by Mr. Shakdher be allotted to the party as a meeting point and office. He notes that he had already raised the issue with the Speaker in a letter sent at the beginning of March, before the Speaker's election, but had received no suitable accommodation by the date of this correspondence.
+
 ## Key points
 
 - Masani writes to the Speaker of the Lok Sabha on May 22, 1967.

@@ -44,6 +44,10 @@ summary: |-
   This single-page letter from C. Rajagopalachari to Piloo Mody is dated 9 December 1964 and sent from Rajagopalachari’s address at 60 Bazullah Road, T. Nagar, Madras-17. In a brief, cordial reply, Rajagopalachari thanks Mody for his kind message and refers appreciatively to Mody’s enjoyable time in the United States.
 ---
 
+## Summary
+
+This single-page letter from C. Rajagopalachari to Piloo Mody is dated 9 December 1964 and sent from Rajagopalachari’s address at 60 Bazullah Road, T. Nagar, Madras-17. In a brief, cordial reply, Rajagopalachari thanks Mody for his kind message and refers appreciatively to Mody’s enjoyable time in the United States.
+
 ## Key points
 
 - The letter is dated 9 December 1964.

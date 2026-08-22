@@ -46,6 +46,10 @@ summary: |-
   This single-page English letter, dated 6 April 1968, is addressed by P. K. Deo to N. Dandeker, M.P., General Secretary of the Swatantra Party. Deo requests that an emergency meeting of the Party's General Council be convened to discuss the situation arising from Mr. Mesani's resignation from the National Executive and the Central Parliamentary Board.
 ---
 
+## Summary
+
+This single-page English letter, dated 6 April 1968, is addressed by P. K. Deo to N. Dandeker, M.P., General Secretary of the Swatantra Party. Deo requests that an emergency meeting of the Party's General Council be convened to discuss the situation arising from Mr. Mesani's resignation from the National Executive and the Central Parliamentary Board.
+
 ## Key points
 
 - P. K. Deo writes to the Swatantra Party's General Secretary, N. Dandeker, M.P.

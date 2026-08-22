@@ -50,6 +50,12 @@ summary: |-
   The letter also divides their work into policy and organisational functions. Amin is assigned preparation of background papers on matters dealing with economic policy, while Mehta is responsible for cadre development and constructive work. In states with little or no party organisation, the Joint Secretaries are to survey organisational conditions, establish ad hoc committees and help create district-level units; in organised states, they are to liaise between state or regional units and National Headquarters. The final instructions establish regular information-sharing, meeting participation and tour-programme reporting, while stressing that the secretaries’ effectiveness depends on cooperation from the units they serve.
 ---
 
+## Summary
+
+Dated January 14, 1970, this General Secretary’s Letter No. 218 reports the election of five Joint Secretaries to the Swatantra Party’s new National Executive. It explains that the larger group is intended to meet increased organisational demands and assigns each secretary responsibility for particular geographical areas: Harihar Patel for Assam, Bihar, Bengal, Madhya Pradesh and Orissa; H. V. Hande for Mysore, Andhra, Kerala and Tamil Nadu; R. K. Amin for Gujarat; N. K. Somani for Rajasthan and Himachal Pradesh; and Madhu Mehta for Maharashtra.
+
+The letter also divides their work into policy and organisational functions. Amin is assigned preparation of background papers on matters dealing with economic policy, while Mehta is responsible for cadre development and constructive work. In states with little or no party organisation, the Joint Secretaries are to survey organisational conditions, establish ad hoc committees and help create district-level units; in organised states, they are to liaise between state or regional units and National Headquarters. The final instructions establish regular information-sharing, meeting participation and tour-programme reporting, while stressing that the secretaries’ effectiveness depends on cooperation from the units they serve.
+
 ## Key points
 
 - The letter announces the election of five Joint Secretaries to the Swatantra Party’s National Executive.

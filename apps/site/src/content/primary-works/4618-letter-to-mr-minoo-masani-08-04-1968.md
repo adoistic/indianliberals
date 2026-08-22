@@ -49,6 +49,12 @@ summary: |-
   The diary note reports discussion of whether party members who supported Mahida should be expelled, and records the view that action should not injure the party or target only one individual when other figures were considered responsible. It also conveys the writer’s warning that the party in Gujarat could be finished if it failed to act, while arguing that a political party needs a common purpose, a soul, and leadership guided by recognised principles. The note further records disputed claims about a financial demand involving Vaidya and a proposed condition concerning V joining the party, and concludes that those consulted supported Minoo Masani’s resignation from party posts. The handwritten author’s identity, the precise identities of several abbreviated or surname-only figures, and the relationship between the letter and diary note remain uncertain.
 ---
 
+## Summary
+
+This two-page English archival item from Limbdi, dated 8 April 1968, consists of a handwritten letter addressed to “Minoo” and an associated typed diary note. The letter itself is brief and personal; its author and signature cannot be identified confidently from the rendered page. The attached note, marked “NVS,” records a 5 April 1968 discussion in Ahmedabad involving Bhailal Patel, H. M. Patel, and the Maharaja of Dhrangadhra, with the Swatantra Party’s internal crisis in Gujarat as its central subject.
+
+The diary note reports discussion of whether party members who supported Mahida should be expelled, and records the view that action should not injure the party or target only one individual when other figures were considered responsible. It also conveys the writer’s warning that the party in Gujarat could be finished if it failed to act, while arguing that a political party needs a common purpose, a soul, and leadership guided by recognised principles. The note further records disputed claims about a financial demand involving Vaidya and a proposed condition concerning V joining the party, and concludes that those consulted supported Minoo Masani’s resignation from party posts. The handwritten author’s identity, the precise identities of several abbreviated or surname-only figures, and the relationship between the letter and diary note remain uncertain.
+
 ## Key points
 
 - The item comprises a short handwritten letter to Minoo and an attached or associated typed diary note.

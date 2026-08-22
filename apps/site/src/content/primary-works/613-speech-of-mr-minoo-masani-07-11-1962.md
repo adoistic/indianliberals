@@ -50,6 +50,12 @@ summary: |-
   The notes then turn to Tibet, mentioning a 1950 debate, retribution, and the possibility of arming the Dalai Lama as head of government. They urge India to distinguish friends from enemies, cite Nkrumah in that context, and conclude with the strategic maxim that “Enemy's enemy is our friend,” followed by references to Hindu doctrine, a two-front war, and Chiang as a friend of India. The surviving page is an annotated outline rather than a complete speech, and it does not establish a printed title, byline, venue, or publisher.
 ---
 
+## Summary
+
+This single-page English speech note, headed “Delhi 6 + 7/11/62,” frames the international situation as a difficult time requiring unity among free people. It refers to events in Britain and names Chamberlain, Greenwood, and Krishna Menon before asking what should be done. The proposed response is active rather than defensive: “attack,” seize the initiative, and secure arms for India while remaining consistent with non-alignment.
+
+The notes then turn to Tibet, mentioning a 1950 debate, retribution, and the possibility of arming the Dalai Lama as head of government. They urge India to distinguish friends from enemies, cite Nkrumah in that context, and conclude with the strategic maxim that “Enemy's enemy is our friend,” followed by references to Hindu doctrine, a two-front war, and Chiang as a friend of India. The surviving page is an annotated outline rather than a complete speech, and it does not establish a printed title, byline, venue, or publisher.
+
 ## Key points
 
 - The notes describe the period as difficult and call for unity among free people.

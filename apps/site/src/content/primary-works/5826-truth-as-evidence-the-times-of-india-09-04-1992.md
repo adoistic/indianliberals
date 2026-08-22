@@ -52,6 +52,12 @@ summary: |-
   The rendered page also discusses an incident involving Vice-President Dr S. D. Sharma and parliamentary behaviour during the presentation of the Finance Minister's budget. Dabke argues that the conduct of both Opposition members and the Speaker deserved criticism, and concludes that Parliament must become sufficiently mature to examine evidence before accepting allegations about its members.
 ---
 
+## Summary
+
+In the rendered page, K. B. Dabke responds to criticism of parliamentary conduct attributed to Minoo Masani, who had reportedly described some Members of Parliament as “howling hooligans.” The article argues that the allegation was based on a newspaper report that distorted an incident in the First Rajya Sabha, and that the newspaper's subsequent reliance on “truth” as a defence in a defamation case was itself undermined when the matter was dropped.
+
+The rendered page also discusses an incident involving Vice-President Dr S. D. Sharma and parliamentary behaviour during the presentation of the Finance Minister's budget. Dabke argues that the conduct of both Opposition members and the Speaker deserved criticism, and concludes that Parliament must become sufficiently mature to examine evidence before accepting allegations about its members.
+
 ## Key points
 
 - The article challenges a report alleging that some MPs behaved as “howling hooligans.”

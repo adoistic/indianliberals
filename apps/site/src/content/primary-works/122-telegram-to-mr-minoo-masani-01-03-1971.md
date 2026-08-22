@@ -47,6 +47,12 @@ summary: |-
   The telegram carries archival file number 122 and a Rajkot receiving-office stamp dated 1-3-71. It is signed by Chhotalal M. Parekh and the 'Jetpur morcha workers', identifying its senders as a local Swatantra Party cadre in Saurashtra rather than any organisational leadership.
 ---
 
+## Summary
+
+A single-page telegram sent on 1 March 1971 via the Indian Posts and Telegraphs Department from Jetpur to M. R. Masani at the Swatantra Party office in Rajkot. The message is a one-line goodwill note wishing Masani success, sent on the day polling opened for the 1971 general election in which Masani was contesting from the Rajkot constituency.
+
+The telegram carries archival file number 122 and a Rajkot receiving-office stamp dated 1-3-71. It is signed by Chhotalal M. Parekh and the 'Jetpur morcha workers', identifying its senders as a local Swatantra Party cadre in Saurashtra rather than any organisational leadership.
+
 ## Key points
 
 - Telegram addressed to M. R. Masani, Swatantra Party, Rajkot.

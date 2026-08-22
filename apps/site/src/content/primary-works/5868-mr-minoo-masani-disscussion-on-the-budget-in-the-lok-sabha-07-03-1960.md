@@ -55,6 +55,12 @@ summary: |-
   Masani also attacks the expansion of the state sector and the lack of public information about state enterprises. He argues that excise duties function as taxes on production as well as consumption, raising industrial costs and prices. The speech links inflation to the neglect of agriculture: agricultural production is growing more slowly than national income, while food prices rise. Drawing on Professor Arthur Lewis's estimates, Masani argues that substantially greater capital investment in agriculture is required. He concludes by urging a choice between restoring agriculture and pursuing heavy industrialization, and criticizes excessive taxation of road transport and resistance to technological change.
 ---
 
+## Summary
+
+In this seven-page Lok Sabha speech delivered on 7 March 1960, M. R. Masani criticizes the Union budget as subordinate to the Planning Commission and its commitment to rapid industrialization. He argues that additional taxation has exceeded earlier planning estimates, while civil and capital expenditure have expanded sharply. The resulting burden, he contends, falls disproportionately on ordinary people through taxation and inflation, with indirect taxes particularly harmful to poorer households.
+
+Masani also attacks the expansion of the state sector and the lack of public information about state enterprises. He argues that excise duties function as taxes on production as well as consumption, raising industrial costs and prices. The speech links inflation to the neglect of agriculture: agricultural production is growing more slowly than national income, while food prices rise. Drawing on Professor Arthur Lewis's estimates, Masani argues that substantially greater capital investment in agriculture is required. He concludes by urging a choice between restoring agriculture and pursuing heavy industrialization, and criticizes excessive taxation of road transport and resistance to technological change.
+
 ## Key points
 
 - Masani presents the budget as a prisoner of the Planning Commission and its industrialization strategy.

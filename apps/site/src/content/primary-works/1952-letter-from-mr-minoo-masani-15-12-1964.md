@@ -50,6 +50,12 @@ summary: |-
   Masani also reflects on his own communication style. He acknowledges that his frank and direct manner toward friends and colleagues can be misunderstood, concedes that he could be more tactful, and cautions against being needlessly touchy in such matters. The page presents the exchange as an interpersonal clarification connected to party coordination and political representation, rather than as a substantive policy argument.
 ---
 
+## Summary
+
+This one-page letter, dated 15 December 1964 and written by M. R. Masani from New Delhi to Sardar Kapur Singh, addresses a misunderstanding about a telegram concerning a Lok Sabha Group meeting. Masani explains that he had not intended to express concern about the people involved; rather, he wanted the Swatantra Party’s point of view to be represented alongside Professor Ranga’s or his own, so that the Party’s position could be argued rather than omitted by default.
+
+Masani also reflects on his own communication style. He acknowledges that his frank and direct manner toward friends and colleagues can be misunderstood, concedes that he could be more tactful, and cautions against being needlessly touchy in such matters. The page presents the exchange as an interpersonal clarification connected to party coordination and political representation, rather than as a substantive policy argument.
+
 ## Key points
 
 - Masani writes to clarify the meaning and intent of a previous telegram.

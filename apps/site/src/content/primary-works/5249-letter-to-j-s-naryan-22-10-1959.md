@@ -49,6 +49,12 @@ summary: |-
   Masani explains that, as a member of the Central Organising Committee, he does not wish to interfere with the Party's organisational work, but he sends Narayan a handbook of the Bombay Convention and arranges for the Bombay office to provide 500 English copies of the Statement of Principles. He closes by wishing Narayan success and hoping they can meet soon.
 ---
 
+## Summary
+
+This single-page letter, dated October 22, 1959, is M. R. Masani's reply to Mr. J. S. Narayan. Masani acknowledges Narayan's difficulties in working for the Party and expresses sympathy with his need for literature and guidance.
+
+Masani explains that, as a member of the Central Organising Committee, he does not wish to interfere with the Party's organisational work, but he sends Narayan a handbook of the Bombay Convention and arranges for the Bombay office to provide 500 English copies of the Statement of Principles. He closes by wishing Narayan success and hoping they can meet soon.
+
 ## Key points
 
 - Masani responds sympathetically to Narayan's request for literature and guidance.

@@ -47,6 +47,10 @@ summary: |-
   This Hindustan Times report describes Jayaprakash Narayan’s assurance to dacoits in the Chambal region that those who surrendered would not be hanged. The article says that dacoits Mohar Singh and Madhosingh formally surrendered at a ceremony attended by Narayan, and that the government had agreed to accept their surrender without imposing the death penalty. It presents the event as an unusual and significant step toward bringing armed bandits into civil society.
 ---
 
+## Summary
+
+This Hindustan Times report describes Jayaprakash Narayan’s assurance to dacoits in the Chambal region that those who surrendered would not be hanged. The article says that dacoits Mohar Singh and Madhosingh formally surrendered at a ceremony attended by Narayan, and that the government had agreed to accept their surrender without imposing the death penalty. It presents the event as an unusual and significant step toward bringing armed bandits into civil society.
+
 ## Key points
 
 - Jayaprakash Narayan assured Chambal dacoits that they would not be hanged if they surrendered.

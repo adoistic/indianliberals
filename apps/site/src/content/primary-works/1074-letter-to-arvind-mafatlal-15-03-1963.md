@@ -50,6 +50,12 @@ summary: |-
   The body is a single paragraph of political exhortation. Rajaji admits to a fear that "our friends", terrified of what may happen, will yield too easily to "the tyrant", and urges Mafatlal that the "monstrous Budget" must be resisted as if it were a matter of life and death. The note closes with the assurance that Masani has conveyed Mafatlal's full agreement, followed by Rajaji's autograph signature and the addressee block.
 ---
 
+## Summary
+
+A short typed letter of 15 March 1963 from C. Rajagopalachari, writing from 60 Bazlullah Road, Tyagarayanagar, Madras-17, to the Bombay industrialist Arvind Mafatlal. Rajaji reports that M. R. Masani has just briefed him on Mafatlal's reaction to the Union Budget, and expresses relief that Mafatlal shares his own alarm about it.
+
+The body is a single paragraph of political exhortation. Rajaji admits to a fear that "our friends", terrified of what may happen, will yield too easily to "the tyrant", and urges Mafatlal that the "monstrous Budget" must be resisted as if it were a matter of life and death. The note closes with the assurance that Masani has conveyed Mafatlal's full agreement, followed by Rajaji's autograph signature and the addressee block.
+
 ## Key points
 
 - Personal letter from C. Rajagopalachari at 60 Bazlullah Road, Tyagarayanagar, Madras-17, dated 15 March 1963.

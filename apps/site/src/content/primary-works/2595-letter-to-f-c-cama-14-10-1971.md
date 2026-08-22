@@ -47,6 +47,12 @@ summary: |-
   Hirachand expresses gratitude to the Executive Committee for its appreciation of his past service as President of the party and closes with a brief note of thanks. The document is a courteous acknowledgement rather than a substantive discussion of party policy or political strategy.
 ---
 
+## Summary
+
+This one-page letter, dated October 14, 1971, is written by Lalchand Hirachand from Construction House, Ballard Estate, Bombay, to F. C. Cama, General Secretary of the Swatantra Party (Bombay Region). Hirachand acknowledges receiving Cama’s October 6 letter conveying a resolution passed by the Bombay Region Executive Committee at its meeting on September 30, 1971.
+
+Hirachand expresses gratitude to the Executive Committee for its appreciation of his past service as President of the party and closes with a brief note of thanks. The document is a courteous acknowledgement rather than a substantive discussion of party policy or political strategy.
+
 ## Key points
 
 - The letter is dated October 14, 1971, and originates from Construction House, Ballard Estate, Bombay.

@@ -52,6 +52,12 @@ summary: |-
   The letter then turns to monetary and fiscal matters. It comments on the scale of the state loan, foreign-exchange pressures involving Nepal, Tibet, and Hong Kong, and the historical relationship between Indian states and the central government. The closing predicts an improvement in the share market, lower bank interest rates, and greater public confidence in bank deposits. The pages combine personal political correspondence with a broadly pro-market critique of government finance and monetary management.
 ---
 
+## Summary
+
+This handwritten letter, dated 15 August 1959 and signed by Ruttonchund Master, opens with a complaint that the writer and other Swatantra Party committee members were not invited to a reception for A. D. Shroff on his return from Europe. The writer recounts attending an Independence Day dinner, praises Shroff as a person who had served the country despite serious illness, and expresses concern about the expense of his foreign trip and the public burden of financing it.
+
+The letter then turns to monetary and fiscal matters. It comments on the scale of the state loan, foreign-exchange pressures involving Nepal, Tibet, and Hong Kong, and the historical relationship between Indian states and the central government. The closing predicts an improvement in the share market, lower bank interest rates, and greater public confidence in bank deposits. The pages combine personal political correspondence with a broadly pro-market critique of government finance and monetary management.
+
 ## Key points
 
 - The writer says Swatantra Party committee members were excluded from a reception for A. D. Shroff.

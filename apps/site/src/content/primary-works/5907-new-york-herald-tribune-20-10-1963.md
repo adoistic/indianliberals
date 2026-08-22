@@ -50,6 +50,10 @@ summary: |-
   This two-page New York Herald Tribune article, dated October 20, 1963, reports speculation that Prime Minister Jawaharlal Nehru may be preparing his daughter, Mrs. Indira Gandhi, to succeed him. The article presents the succession question primarily through Nehru’s relationship with Defence Minister V. K. Krishna Menon, arguing that retaining Menon’s influence after Nehru leaves office may explain the reported preference for Indira Gandhi. It also places this possibility against a recent Cabinet reshuffle and the perceived opposition of Morarji Desai, Lal Bahadur Shastri, and S. K. Patil to Nehru’s socialist programme, especially land reform.
 ---
 
+## Summary
+
+This two-page New York Herald Tribune article, dated October 20, 1963, reports speculation that Prime Minister Jawaharlal Nehru may be preparing his daughter, Mrs. Indira Gandhi, to succeed him. The article presents the succession question primarily through Nehru’s relationship with Defence Minister V. K. Krishna Menon, arguing that retaining Menon’s influence after Nehru leaves office may explain the reported preference for Indira Gandhi. It also places this possibility against a recent Cabinet reshuffle and the perceived opposition of Morarji Desai, Lal Bahadur Shastri, and S. K. Patil to Nehru’s socialist programme, especially land reform.
+
 ## Key points
 
 - The article reports an unconfirmed but supposedly well-informed belief that Nehru favours Indira Gandhi as his successor.

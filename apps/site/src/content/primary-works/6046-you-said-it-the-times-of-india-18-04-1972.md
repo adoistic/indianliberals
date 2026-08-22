@@ -47,6 +47,12 @@ summary: |-
   The cartoon’s humor rests on the group’s wary reaction to Jayaprakash’s arrival. Its caption asks what he wants from them, presenting his intervention as an unexpected political or public development rather than explaining the underlying issue.
 ---
 
+## Summary
+
+This one-page English newspaper cartoon, titled “You Said It” and credited to LAXMAN, was published in the Times of India on 18 April 1972. The illustration shows Jayaprakash Narayan approaching a group of people outside a building, while the surrounding figures appear surprised and uncertain about his purpose.
+
+The cartoon’s humor rests on the group’s wary reaction to Jayaprakash’s arrival. Its caption asks what he wants from them, presenting his intervention as an unexpected political or public development rather than explaining the underlying issue.
+
 ## Key points
 
 - The item is a single illustrated newspaper column or cartoon.

@@ -54,6 +54,12 @@ summary: |-
   The editorial insists that popular sovereignty is expressed through Parliament and other constitutional institutions rather than through an abstract conception of “the people.” It defends the primacy of the Lok Sabha, elected by adult suffrage, and warns that attempts to separate the legislative houses could confuse voters and obstruct collective economic and cultural progress. It nevertheless treats the existing electoral confusion as temporary, predicting that the next Lok Sabha will produce greater stability and enable socialist and democratic amendments to the Constitution.
 ---
 
+## Summary
+
+This unsigned Patriot editorial, dated February 15, 1971, attacks Minoo Masani’s effort to frame the forthcoming Lok Sabha election as a referendum on constitutional reform. It argues that disagreements within Congress and between Congress and its allies may prevent the government from securing the votes needed to make substantial changes to the Constitution. The article presents Masani’s appeal to popular sovereignty as a political tactic serving vested interests and criticizes the redistribution of concentrated economic power as a goal increasingly adopted by parties presenting themselves as progressive.
+
+The editorial insists that popular sovereignty is expressed through Parliament and other constitutional institutions rather than through an abstract conception of “the people.” It defends the primacy of the Lok Sabha, elected by adult suffrage, and warns that attempts to separate the legislative houses could confuse voters and obstruct collective economic and cultural progress. It nevertheless treats the existing electoral confusion as temporary, predicting that the next Lok Sabha will produce greater stability and enable socialist and democratic amendments to the Constitution.
+
 ## Key points
 
 - The editorial describes Minoo Masani’s electoral intervention as evidence of reactionary self-confidence and political miscalculation.

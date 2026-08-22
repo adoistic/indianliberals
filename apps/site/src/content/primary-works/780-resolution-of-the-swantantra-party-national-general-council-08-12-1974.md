@@ -56,6 +56,12 @@ summary: |-
   The resolutions establish Madras as the location of the party's national headquarters and call for organisational reorganisation and revitalisation in Tamil Nadu, Orissa, Kerala, Maharashtra, and Karnataka. They support Jayaprakash Narayan's movement against corruption and nepotism and authorise coordination between that movement and the Swatantra Party. The final resolution criticises the ruling party's 13-point programme at Narora as populist, arguing that it neglects production and bypasses established forums for addressing the country's economic problems.
 ---
 
+## Summary
+
+This two-page institutional document records nine resolutions adopted by the Swatantra Party National General Council at Madras on 8 December 1974. The council rejects the legality of an earlier national convention's attempt to dissolve or merge the party, declares that the party retains its name, flag, election symbol, assets, and properties, and orders the removal of members who have joined another party. It also fills senior offices, elects members to the National Executive, confirms G. K. Sundaram as treasurer, and authorises procedures for filling future vacancies.
+
+The resolutions establish Madras as the location of the party's national headquarters and call for organisational reorganisation and revitalisation in Tamil Nadu, Orissa, Kerala, Maharashtra, and Karnataka. They support Jayaprakash Narayan's movement against corruption and nepotism and authorise coordination between that movement and the Swatantra Party. The final resolution criticises the ruling party's 13-point programme at Narora as populist, arguing that it neglects production and bypasses established forums for addressing the country's economic problems.
+
 ## Key points
 
 - The council declares the 1974 convention's proposed dissolution or merger of the Swatantra Party illegal, incompetent, and void.

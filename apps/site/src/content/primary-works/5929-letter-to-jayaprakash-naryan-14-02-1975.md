@@ -49,6 +49,12 @@ summary: |-
   The document is therefore a brief piece of political correspondence whose substance is the circulation of an apparently anti-opposition statement attributed to Indira Gandhi. The page does not explain Masani’s own assessment of the quotation or provide further context about when or where the statement was made.
 ---
 
+## Summary
+
+This one-page letter, dated 14 February 1975, is from Minoo Masani to Jayaprakash Narayan. Masani says he is forwarding an extract from a biography of the Prime Minister, identified on the page as Uma Vasudev’s biography, published by Vikas, page 253. The extract attributes to Mrs. Gandhi a position expressed in the early 1950s: that opposition parties should be dispensed with in order to make the country strong, remove poverty, and eradicate illiteracy.
+
+The document is therefore a brief piece of political correspondence whose substance is the circulation of an apparently anti-opposition statement attributed to Indira Gandhi. The page does not explain Masani’s own assessment of the quotation or provide further context about when or where the statement was made.
+
 ## Key points
 
 - The document is a letter from Minoo Masani to Jayaprakash Narayan dated 14 February 1975.

@@ -46,6 +46,12 @@ summary: |-
   The second letter, addressed to M. A. Master, encloses forms for signature and asks that they be delivered to Dr. Sathu. Both letters are brief administrative correspondence and do not state the subject of the forms. No printed title, collection heading, or further contextual information is visible.
 ---
 
+## Summary
+
+This archival unit contains two separate typed office letters dated February 18, 1974, both sent from Bharatiya Vidya Bhavan, 4th Floor, K. M. Munshi Marg, Bombay-7, and signed by Girish Munshi. The first letter asks Dhirubhai Patel to sign forms, make his best effort to complete them, and return them by the evening of February 22.
+
+The second letter, addressed to M. A. Master, encloses forms for signature and asks that they be delivered to Dr. Sathu. Both letters are brief administrative correspondence and do not state the subject of the forms. No printed title, collection heading, or further contextual information is visible.
+
 ## Key points
 
 - The PDF contains two distinct letters rather than one continuous letter.

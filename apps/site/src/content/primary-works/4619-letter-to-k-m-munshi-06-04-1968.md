@@ -47,6 +47,10 @@ summary: |-
   This one-page letter from M. R. Masani to K. M. Munshi, dated 8 April 1968, acknowledges Munshi's earlier letter and notes that Masani has seen a copy of Munshi's communication to C. Rajagopalachari (“Rajaji”). Masani expresses approval of Munshi's statesmanlike position concerning the Award of the Kutch Tribunal.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to K. M. Munshi, dated 8 April 1968, acknowledges Munshi's earlier letter and notes that Masani has seen a copy of Munshi's communication to C. Rajagopalachari (“Rajaji”). Masani expresses approval of Munshi's statesmanlike position concerning the Award of the Kutch Tribunal.
+
 ## Key points
 
 - Masani writes from 2 Tughlak Road, New Delhi, on 8 April 1968.

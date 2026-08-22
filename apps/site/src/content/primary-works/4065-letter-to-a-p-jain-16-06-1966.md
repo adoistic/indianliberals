@@ -46,6 +46,12 @@ summary: |-
   Masani explains that he plans to fly from Bombay to Delhi on the morning of 22 June, arriving at 10:15 a.m., meet Ranga after arrival, and return to Bombay that evening on the 7 p.m. flight. He notes that the appointment remains tentative, requests advance notice of any further change, and asks Jain to ensure that he can leave for the airport at 6 p.m. because his house will be locked and he has nowhere to stay.
 ---
 
+## Summary
+
+This single-page letter, dated 16 June 1966, is M. R. Masani’s logistical reply to A. P. Jain concerning a proposed meeting with the Prime Minister. Masani confirms that he has asked the Prime Minister’s Secretariat to arrange a meeting for himself and Prof. Ranga on 22 June at 5 p.m., and asks Jain to communicate the information to Ranga when he reaches Delhi on 18 June.
+
+Masani explains that he plans to fly from Bombay to Delhi on the morning of 22 June, arriving at 10:15 a.m., meet Ranga after arrival, and return to Bombay that evening on the 7 p.m. flight. He notes that the appointment remains tentative, requests advance notice of any further change, and asks Jain to ensure that he can leave for the airport at 6 p.m. because his house will be locked and he has nowhere to stay.
+
 ## Key points
 
 - Masani writes to A. P. Jain on 16 June 1966 about a proposed meeting with the Prime Minister.

@@ -53,6 +53,12 @@ summary: |-
   The report develops three objections: a legal objection based on the Constitution’s basic structure, a political-propriety objection based on the limited share of the total vote received by Congress, and a moral-rights objection based on the existing Lok Sabha’s extension during the Emergency. The clipping argues that the amendment was being pursued without the broad, prior public discussion that had produced the existing Constitution. The reverse records receipt of “Rupees Six Hundred and Sixty only” from the Swatantra Party toward settlement of the signer’s dues; the signer is identified as Vijay Suvarna, but the relationship between the receipt and the newspaper clipping is unclear.
 ---
 
+## Summary
+
+This two-page English archival item consists of a Statesman newspaper clipping dated by a handwritten annotation “28/10/76,” together with a handwritten receipt on the reverse. The clipping reports an All-India Swatantra Party resolution opposing the 42nd Constitutional Amendment Bill. It presents the party’s position that Parliament lacked authority to alter the Constitution’s basic structure and that the 1971 election result did not give the ruling Congress a mandate for such a fundamental change.
+
+The report develops three objections: a legal objection based on the Constitution’s basic structure, a political-propriety objection based on the limited share of the total vote received by Congress, and a moral-rights objection based on the existing Lok Sabha’s extension during the Emergency. The clipping argues that the amendment was being pursued without the broad, prior public discussion that had produced the existing Constitution. The reverse records receipt of “Rupees Six Hundred and Sixty only” from the Swatantra Party toward settlement of the signer’s dues; the signer is identified as Vijay Suvarna, but the relationship between the receipt and the newspaper clipping is unclear.
+
 ## Key points
 
 - The Swatantra Party resolution rejects the 42nd Constitutional Amendment Bill.

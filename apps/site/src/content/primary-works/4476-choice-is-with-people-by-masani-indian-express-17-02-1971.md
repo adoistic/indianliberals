@@ -54,6 +54,12 @@ summary: |-
   The report presents Masani as warning that democracy might not survive the next few years and arguing that leaders such as Morarji Desai should therefore be returned to the Lok Sabha. It also records Masani's assessment that Desai had “much improved” and that Masani's respect for him had consequently increased. The clipping does not print an authorial byline; the article is attributed to PTI.
 ---
 
+## Summary
+
+This Indian Express report from Surat, dated 17 February 1971, records remarks by Minoo Masani, a Swatantra Party leader, at an election meeting. Masani said that pro-democracy forces were united on a common platform, but that voters had to choose between the Gandhian method and Karl Marx's approach.
+
+The report presents Masani as warning that democracy might not survive the next few years and arguing that leaders such as Morarji Desai should therefore be returned to the Lok Sabha. It also records Masani's assessment that Desai had “much improved” and that Masani's respect for him had consequently increased. The clipping does not print an authorial byline; the article is attributed to PTI.
+
 ## Key points
 
 - Minoo Masani is reported speaking at an election meeting in Surat.

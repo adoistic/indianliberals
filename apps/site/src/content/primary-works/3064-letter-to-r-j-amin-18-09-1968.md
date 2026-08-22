@@ -54,6 +54,12 @@ summary: |-
   Masani's brief reply expresses sympathy with Amin's point of view but does not endorse a specific programme in the visible text. He notes that the issue has also been discussed within party circles and suggests that they discuss it in person when both are in Delhi for Parliament's November session. The third rendered page is an envelope and contains no additional substantive argument.
 ---
 
+## Summary
+
+In this 18 September 1968 letter, Minoo Masani responds to R. J. Amin's appeal concerning India's linguistic states. Amin argues that linguistic reorganisation has harmed India, divided the nation, and obstructed national progress; he calls for the abolition of linguistic states and their replacement with non-linguistic zones. He attributes opposition to national unity to vested interests and proposes identifying and persuading those allegedly acting from personal motives.
+
+Masani's brief reply expresses sympathy with Amin's point of view but does not endorse a specific programme in the visible text. He notes that the issue has also been discussed within party circles and suggests that they discuss it in person when both are in Delhi for Parliament's November session. The third rendered page is an envelope and contains no additional substantive argument.
+
 ## Key points
 
 - The correspondence concerns the political consequences of India's linguistic states.

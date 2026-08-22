@@ -51,6 +51,10 @@ summary: |-
   This letter, dated October 4, 1989, is addressed by M. R. Masani, Chairman of the Indian Liberal Group Executive Committee, to President R. Venkataraman. Masani revisits a proposal he made in August 1987: if the Prime Minister sought dissolution of Parliament, the President should also request the Cabinet's resignation and appoint a caretaker government until new elections, following the suggestion of Rajaji. He argues that this course would help ensure free and fair elections, which he says are unlikely in the existing context.
 ---
 
+## Summary
+
+This letter, dated October 4, 1989, is addressed by M. R. Masani, Chairman of the Indian Liberal Group Executive Committee, to President R. Venkataraman. Masani revisits a proposal he made in August 1987: if the Prime Minister sought dissolution of Parliament, the President should also request the Cabinet's resignation and appoint a caretaker government until new elections, following the suggestion of Rajaji. He argues that this course would help ensure free and fair elections, which he says are unlikely in the existing context.
+
 ## Key points
 
 - Masani asks the President to act on a proposal concerning the dissolution of Parliament.

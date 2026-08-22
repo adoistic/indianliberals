@@ -55,6 +55,12 @@ summary: |-
   In the rendered pages, the diary becomes especially focused on censorship and the defence of press freedom. In the rendered pages, the author describes Delhi's newspaper blackout, pre-censorship orders in Delhi and Maharashtra, negotiations with censors, and the decision to challenge restrictions in court. In the rendered pages, the author also records conversations with Nani Palkhivala, lawyers, journalists, and political figures about returning the Prime Minister's brief, filing writ petitions, and sustaining Freedom First. In the rendered pages, the tone combines urgency, indignation, strategic calculation, personal loyalty, and occasional humour; the surviving pages end amid continuing efforts to litigate censorship and support imprisoned opposition leaders.
 ---
 
+## Summary
+
+In the rendered pages, this emergency diary records the author's political, editorial, legal, and personal activities during the period surrounding India's 1975 Emergency. In the rendered pages, the entries move between planning the Citizens for Democracy's work, preparing issues of Freedom First, arranging legal action, and visiting Jayaprakash Narayan in hospital. In the rendered pages, Jayaprakash Narayan's deteriorating health, arrests of opposition leaders, newspaper restrictions, and the difficulty of finding printers and publishers willing to carry dissenting material form a continuous background to the diary's daily observations.
+
+In the rendered pages, the diary becomes especially focused on censorship and the defence of press freedom. In the rendered pages, the author describes Delhi's newspaper blackout, pre-censorship orders in Delhi and Maharashtra, negotiations with censors, and the decision to challenge restrictions in court. In the rendered pages, the author also records conversations with Nani Palkhivala, lawyers, journalists, and political figures about returning the Prime Minister's brief, filing writ petitions, and sustaining Freedom First. In the rendered pages, the tone combines urgency, indignation, strategic calculation, personal loyalty, and occasional humour; the surviving pages end amid continuing efforts to litigate censorship and support imprisoned opposition leaders.
+
 ## Key points
 
 - The rendered pages document meetings of Citizens for Democracy and preparations for Freedom First during the Emergency.

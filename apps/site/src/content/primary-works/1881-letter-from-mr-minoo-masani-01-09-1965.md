@@ -52,6 +52,12 @@ summary: |-
   The Sub-Committee therefore decided to ask Swatantra Party members in both Houses of Parliament to abstain from participating. Masani asks Jain to communicate this decision to the party’s parliamentary members. The letter is typed on office letterhead from 57, Lodi Estate, New Delhi-3, and bears Masani’s handwritten signature.
 ---
 
+## Summary
+
+This one-page letter, dated September 1, 1965, records M. R. Masani’s communication to A. P. Jain about the Swatantra Party’s position on a proposed “Convention for the Defence of Kashmir.” Masani states that the Parliamentary Sub-Committee had noted the convention was sponsored by Communists and “fellow travellers.”
+
+The Sub-Committee therefore decided to ask Swatantra Party members in both Houses of Parliament to abstain from participating. Masani asks Jain to communicate this decision to the party’s parliamentary members. The letter is typed on office letterhead from 57, Lodi Estate, New Delhi-3, and bears Masani’s handwritten signature.
+
 ## Key points
 
 - M. R. Masani wrote the letter on September 1, 1965, from New Delhi.

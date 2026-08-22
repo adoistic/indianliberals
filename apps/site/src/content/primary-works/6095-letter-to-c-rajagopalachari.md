@@ -44,6 +44,10 @@ summary: |-
   This single-page English typed letter is from C. Rajagopalachari, whose address is given as 60, Bastiullah Road, Thyagarayanagar, Madras-17, to Piloo Mody of the Swatantra Party in Bombay. Its subject line records Rajagopalachari's gratitude for Mody's offer and states that he has decided to cancel his Bombay programme. No further body text, date, or year is visible on the rendered page.
 ---
 
+## Summary
+
+This single-page English typed letter is from C. Rajagopalachari, whose address is given as 60, Bastiullah Road, Thyagarayanagar, Madras-17, to Piloo Mody of the Swatantra Party in Bombay. Its subject line records Rajagopalachari's gratitude for Mody's offer and states that he has decided to cancel his Bombay programme. No further body text, date, or year is visible on the rendered page.
+
 ## Key points
 
 - The document is a one-page typed letter in English.

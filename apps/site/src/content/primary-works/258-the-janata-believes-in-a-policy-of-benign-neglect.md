@@ -56,6 +56,12 @@ summary: |-
   Masani says the commission could have undertaken substantial research on Urdu, discrimination in education and employment, and the conditions of Adivasis and Harijans. He rejects the idea that minority problems can be solved quickly, comparing them to a “sixty-four million dollar question,” but argues that sustained seriousness and effort could reduce alienation and strengthen national integration. He also defends public criticism of the government, invoking Abraham Lincoln’s warning against “sin by silence.” The interview concludes with Masani’s refusal to predict the commission’s report, which he says should be tabled in Parliament before its contents are disclosed.
 ---
 
+## Summary
+
+In this interview, Minoo Masani explains why he resigned as chairman of the Minorities Commission after concluding that the Janata Government had lost interest in the commission and was obstructing its work. He characterizes the government’s approach as one of “benign neglect,” arguing that ministers and officials treated minority issues as politically secondary, delayed promised constitutional amendments, and required the commission to seek bureaucratic sanctions for routine activities. He also criticizes the failure to consult the commission on the Aligarh Muslim University (Amendment) Bill and describes the government’s unfulfilled assurances as a breach of trust.
+
+Masani says the commission could have undertaken substantial research on Urdu, discrimination in education and employment, and the conditions of Adivasis and Harijans. He rejects the idea that minority problems can be solved quickly, comparing them to a “sixty-four million dollar question,” but argues that sustained seriousness and effort could reduce alienation and strengthen national integration. He also defends public criticism of the government, invoking Abraham Lincoln’s warning against “sin by silence.” The interview concludes with Masani’s refusal to predict the commission’s report, which he says should be tabled in Parliament before its contents are disclosed.
+
 ## Key points
 
 - Masani says the Janata Government showed initial interest in the Minorities Commission but subsequently neglected it.

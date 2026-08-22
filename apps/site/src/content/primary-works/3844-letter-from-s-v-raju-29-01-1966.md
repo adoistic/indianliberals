@@ -48,6 +48,10 @@ summary: |-
   This single-page English office letter, dated 29 January 1966, informs the recipient that a meeting of the Swatantra Party State Advisory Committee will be held on Saturday, 12 February, at 2 p.m. at the Palace Hotel in Patna. Minoo Masani is designated to chair the meeting.
 ---
 
+## Summary
+
+This single-page English office letter, dated 29 January 1966, informs the recipient that a meeting of the Swatantra Party State Advisory Committee will be held on Saturday, 12 February, at 2 p.m. at the Palace Hotel in Patna. Minoo Masani is designated to chair the meeting.
+
 ## Key points
 
 - The letter is issued from the Swatantra Party Central Office in Bombay.

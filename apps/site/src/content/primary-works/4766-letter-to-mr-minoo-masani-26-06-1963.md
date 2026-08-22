@@ -47,6 +47,12 @@ summary: |-
   He then turns to a personal family incident: his wife had slipped and fallen, breaking several bones. He reports that she is improving, while adding a wry observation about people continuing to use slippery bathrooms despite the obvious danger. The letter closes with an expression of hope for her recovery and a signature that appears to read “Rajaji.”
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 26 June 1963, is written by C. Rajagopalachari from his Madras address. Rajagopalachari acknowledges a letter concerning “the march of the Nation” and responds in a reflective, philosophical tone, observing that some matters are progressing well while others are not especially significant and may change quickly.
+
+He then turns to a personal family incident: his wife had slipped and fallen, breaking several bones. He reports that she is improving, while adding a wry observation about people continuing to use slippery bathrooms despite the obvious danger. The letter closes with an expression of hope for her recovery and a signature that appears to read “Rajaji.”
+
 ## Key points
 
 - Rajagopalachari acknowledges a letter about “the march of the Nation.”

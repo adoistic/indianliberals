@@ -50,6 +50,12 @@ summary: |-
   The letter presents the proposed meeting as a means of enabling the Swatantra Party to resolve its internal divisions, “close its ranks,” and resume united work under the leadership of its senior figures. The document does not provide further details about Masani’s resignation, the party dispute, or the proposed decision.
 ---
 
+## Summary
+
+This one-page English letter, dated 4 April 1968, is addressed to N. Dandekar, M.P., at the Swatantra Party Central Office in Bombay. The signer, identified as A. C. Modhwal, asks Dandekar to convene an emergency meeting of the party’s General Council following Minoo Masani’s resignation from the National Executive and Central Parliamentary Board.
+
+The letter presents the proposed meeting as a means of enabling the Swatantra Party to resolve its internal divisions, “close its ranks,” and resume united work under the leadership of its senior figures. The document does not provide further details about Masani’s resignation, the party dispute, or the proposed decision.
+
 ## Key points
 
 - The letter is dated 4 April 1968 and addressed to N. Dandekar, M.P.

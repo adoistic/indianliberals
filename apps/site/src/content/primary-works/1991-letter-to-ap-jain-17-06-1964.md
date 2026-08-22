@@ -49,6 +49,12 @@ summary: |-
   Masani closes by saying that he hopes to see Jain in Delhi on 24 July, when he will attend a meeting of the Joint Committee on the Gold Control Bill. The letter is written on Swatantra Party Parliamentary Office letterhead and reflects routine coordination among party-associated figures concerning publicity, parliamentary work, and an upcoming meeting.
 ---
 
+## Summary
+
+This typed letter, dated 17 June 1964, is from M. R. Masani to A. P. Jain. Masani thanks Jain for his letter and advises him not to be overly concerned by a comment attributed to “the Hindu correspondent.” He reports that a brochure on the Swatantra Party and the 17th Amendment, suggested by Prof. Ranga, is being prepared and is expected to go to press in early July.
+
+Masani closes by saying that he hopes to see Jain in Delhi on 24 July, when he will attend a meeting of the Joint Committee on the Gold Control Bill. The letter is written on Swatantra Party Parliamentary Office letterhead and reflects routine coordination among party-associated figures concerning publicity, parliamentary work, and an upcoming meeting.
+
 ## Key points
 
 - Masani acknowledges and thanks Jain for a letter dated, according to the reply, 30 June.

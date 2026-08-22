@@ -54,6 +54,12 @@ summary: |-
   Pages 2–3 reproduce the cited Opinion extract, credited to The Economist, which reflects on the first anniversary of the Emergency. The extract criticizes the suppression of democratic freedoms, the concentration of political authority around Indira Gandhi and Sanjay Gandhi, and the censorship surrounding the Turkman Gate incident. It describes arrests, restrictions on speech, press control, sterilization campaigns, and the demolition of homes in Delhi, while emphasizing how little information was available to the public. Page 4 is blank apart from a handwritten identification of M. A. D. Gorwala.
 ---
 
+## Summary
+
+This four-page English-language government order, issued by the Home Department (Special) of the Government of Maharashtra on 2 July 1976, prohibits A. D. Gorwala from publishing or using the press. The order invokes sub-rule (1) of rule 48 of the Defence and Internal Security of India Rules, 1971, and states that an extract from the 29 May 1976 issue of the English weekly Opinion contained prejudicial reports contrary to an earlier Government of India order dated 26 June 1975. It specifically prohibits Gorwala from editing, printing, or publishing Opinion and from using any press for those purposes.
+
+Pages 2–3 reproduce the cited Opinion extract, credited to The Economist, which reflects on the first anniversary of the Emergency. The extract criticizes the suppression of democratic freedoms, the concentration of political authority around Indira Gandhi and Sanjay Gandhi, and the censorship surrounding the Turkman Gate incident. It describes arrests, restrictions on speech, press control, sterilization campaigns, and the demolition of homes in Delhi, while emphasizing how little information was available to the public. Page 4 is blank apart from a handwritten identification of M. A. D. Gorwala.
+
 ## Key points
 
 - The Government of Maharashtra issued the order from its Home Department (Special) on 2 July 1976.

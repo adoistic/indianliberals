@@ -50,6 +50,12 @@ summary: |-
   The letter also addresses the Jan Sangh, including an article by V. K. Sinha and extracts concerning the party’s views on the Communists, and mentions an English translation of Balraj Madhok’s pamphlet. Raju discusses a proposed letter from Dr. Cooper concerning party leadership in the State Assembly, clarifies the position of V. T. Sreenivasan on membership of the Parliamentary Board, and asks Masani to review a draft correcting the omission of a Kerala by-election decision from the Communist Party of India minutes. He closes with a warning that a Shiva Sena-called Bombay bandh might disrupt office operations.
 ---
 
+## Summary
+
+This letter, dated February 28, 1970, records S. V. Raju’s follow-up to Minoo Masani on several organisational and political matters. Raju says he is enclosing a revised note on C. C. Desai, asks Masani to obtain the cost of publishing Swatantra in Parliament, and sends corrected copies of draft and final minutes for Rajaji’s Express Delivery. He reports that most action on the minutes has been completed, with a few items still pending before Masani’s return to Bombay.
+
+The letter also addresses the Jan Sangh, including an article by V. K. Sinha and extracts concerning the party’s views on the Communists, and mentions an English translation of Balraj Madhok’s pamphlet. Raju discusses a proposed letter from Dr. Cooper concerning party leadership in the State Assembly, clarifies the position of V. T. Sreenivasan on membership of the Parliamentary Board, and asks Masani to review a draft correcting the omission of a Kerala by-election decision from the Communist Party of India minutes. He closes with a warning that a Shiva Sena-called Bombay bandh might disrupt office operations.
+
 ## Key points
 
 - Raju sends Masani a revised note on C. C. Desai and asks him to arrange publication-cost information for Swatantra in Parliament.

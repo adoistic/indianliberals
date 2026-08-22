@@ -54,6 +54,12 @@ summary: |-
   The report presents Masani as supporting constitutional and electoral changes, including a referendum on constitutional amendments, while criticising government controls, excessive bureaucracy, deficit financing, industrial licensing, and the public sector's role in consumer-goods production and agriculture. It also records his views on Kashmir, the Congress, socialism, and the political positions of Mrs Gandhi, Morarji Desai, and George Fernandes. A separate short report on page 1 describes Masani's reaction to a statement that he had abandoned democratic tradition, quoting him as saying that he had been “in the wrong” and was still a socialist at 41.
 ---
 
+## Summary
+
+This two-page newspaper clipping reports Minoo Masani's comments on the Swatantra Party, its electoral prospects, and possible political realignment. Masani argues that a proposed merger between the Swatantra Party and the Jana Sangh should be considered in a longer-term perspective, while also defending the need for “radical change” rather than a return to the status quo. He criticises the four-party committee that selected candidates for the coming election and says the Jana Sangh's record in Gujarat offered insufficient grounds for an alliance.
+
+The report presents Masani as supporting constitutional and electoral changes, including a referendum on constitutional amendments, while criticising government controls, excessive bureaucracy, deficit financing, industrial licensing, and the public sector's role in consumer-goods production and agriculture. It also records his views on Kashmir, the Congress, socialism, and the political positions of Mrs Gandhi, Morarji Desai, and George Fernandes. A separate short report on page 1 describes Masani's reaction to a statement that he had abandoned democratic tradition, quoting him as saying that he had been “in the wrong” and was still a socialist at 41.
+
 ## Key points
 
 - Masani favours examining a Swatantra–Jana Sangh merger from a long-term perspective rather than only through the immediate election.

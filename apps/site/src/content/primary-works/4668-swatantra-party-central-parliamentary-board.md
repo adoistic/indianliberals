@@ -50,6 +50,12 @@ summary: |-
   The sub-committee resolved that the party should sponsor only Babubhai Vaidya from Gujarat and direct all of its first-preference votes to him. It further decided that U. N. Mahida and Prof. Shenoy should not be put forward, that Mahida should not contest independently, and that Shenoy should be requested not to stand for election. The document is signed by N. Dandeker as General Secretary.
 ---
 
+## Summary
+
+This one-page English office record contains the minutes of a Central Parliamentary Board sub-committee meeting held in New Delhi on 13 March 1968. Prof. N. G. Ranga chaired the meeting, with M. R. Masani and N. Dandeker present. The committee considered a letter from H. M. Patel, President of the Gujarat Unit, concerning the party’s Rajya Sabha candidate-selection process and the opposition to supporting Babubhai Vaidya as the party’s first-preference candidate.
+
+The sub-committee resolved that the party should sponsor only Babubhai Vaidya from Gujarat and direct all of its first-preference votes to him. It further decided that U. N. Mahida and Prof. Shenoy should not be put forward, that Mahida should not contest independently, and that Shenoy should be requested not to stand for election. The document is signed by N. Dandeker as General Secretary.
+
 ## Key points
 
 - The record concerns a Rajya Sabha/Vidhan Parishad sub-committee of the Central Parliamentary Board.

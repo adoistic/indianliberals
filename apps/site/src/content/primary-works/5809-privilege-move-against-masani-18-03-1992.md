@@ -53,6 +53,12 @@ summary: |-
   The report records competing views on parliamentary privilege, freedom of expression, and the limits of permissible criticism. Speaker Shivraj Patil referred the matter to the privileges committee after members debated whether comparable language would be tolerated if directed at another person. The clipping is dated by a handwritten notation “18.3.’92”; the newspaper title and author are not visible.
 ---
 
+## Summary
+
+This one-page UNI report describes a privilege motion raised in the Lok Sabha against Swatantra Party leader Minoo Masani over a newspaper article published on March 15. Left Front members alleged that the article described MPs as “hooligans” and used language contemptuous of Parliament, while several opposition members defended Masani and argued that the remarks should not be treated as a breach of privilege.
+
+The report records competing views on parliamentary privilege, freedom of expression, and the limits of permissible criticism. Speaker Shivraj Patil referred the matter to the privileges committee after members debated whether comparable language would be tolerated if directed at another person. The clipping is dated by a handwritten notation “18.3.’92”; the newspaper title and author are not visible.
+
 ## Key points
 
 - A Lok Sabha privilege motion was raised against Minoo Masani over a newspaper article published on March 15.

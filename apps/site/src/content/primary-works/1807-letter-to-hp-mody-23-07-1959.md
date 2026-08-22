@@ -59,6 +59,12 @@ summary: |-
   Pages 12–15 contain a separate letter from Jayaprakash, dated 18 July 1959, to H. P. Mody. It concerns efforts to fund the dispatch of Samar Guha to South and East Asia and criticizes the limited willingness of Indian capitalists to contribute. The file therefore brings together correspondence about international political work and a contemporaneous party document defending free enterprise, parliamentary opposition, individual initiative, and resistance to communism. The draft also invokes Gandhi, C. Rajagopalachari, Professor Ranga, Rajendra Prasad, Jawaharlal Nehru, Vallabhbhai Patel, Joseph McCarthy, Robert Benchley, and Abraham Lincoln.
 ---
 
+## Summary
+
+This composite archival file contains three distinct 1959 documents. Pages 1–2 are a letter from Jayaprakash to H. P. Mody concerning an Afro-Asian Committee on Tibet. Jayaprakash reports that Shri Samar Guha has been selected to travel to South and East Asia, but that approximately 8,000 rupees are still needed; he asks Mody to raise donations or arrange a loan. Pages 3–11 contain a draft of M. R. Masani’s opening remarks for the first convention of the Swatantra Party in Bombay. Masani presents the party as a democratic and individualist alternative to Congress socialism, state capitalism, collective farming, foodgrain monopolies, and an increasingly interventionist bureaucracy. He argues that the party should be financed chiefly by small contributors rather than “Big Business,” and that a broad coalition of peasants, workers, professionals, entrepreneurs, and middle classes is necessary to defend economic and political freedom.
+
+Pages 12–15 contain a separate letter from Jayaprakash, dated 18 July 1959, to H. P. Mody. It concerns efforts to fund the dispatch of Samar Guha to South and East Asia and criticizes the limited willingness of Indian capitalists to contribute. The file therefore brings together correspondence about international political work and a contemporaneous party document defending free enterprise, parliamentary opposition, individual initiative, and resistance to communism. The draft also invokes Gandhi, C. Rajagopalachari, Professor Ranga, Rajendra Prasad, Jawaharlal Nehru, Vallabhbhai Patel, Joseph McCarthy, Robert Benchley, and Abraham Lincoln.
+
 ## Key points
 
 - A letter dated 23 July 1959 asks H. P. Mody to help finance an Afro-Asian Committee on Tibet and the travel of Samar Guha.

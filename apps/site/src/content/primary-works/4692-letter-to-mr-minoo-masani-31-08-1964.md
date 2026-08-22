@@ -46,6 +46,12 @@ summary: |-
   Rajagopalachari explains that he has stopped reading long compositions, especially those written by people for whom he has not formed a high opinion. He nevertheless tells Masani to give the enclosed material due attention and to assume that Rajagopalachari agrees with the points it sets out. The page records only this brief covering letter; the enclosed correspondence is not included in the rendered page.
 ---
 
+## Summary
+
+This confidential letter, dated 31 August 1964, is from C. Rajagopalachari to M. R. Masani, then General Secretary of the Swatantra Party. Rajagopalachari says he is enclosing an original letter recently received from Sri Anandchand in Canada, but does not reproduce or discuss that enclosure in the page shown.
+
+Rajagopalachari explains that he has stopped reading long compositions, especially those written by people for whom he has not formed a high opinion. He nevertheless tells Masani to give the enclosed material due attention and to assume that Rajagopalachari agrees with the points it sets out. The page records only this brief covering letter; the enclosed correspondence is not included in the rendered page.
+
 ## Key points
 
 - The letter is dated 31 August 1964 and marked confidential.

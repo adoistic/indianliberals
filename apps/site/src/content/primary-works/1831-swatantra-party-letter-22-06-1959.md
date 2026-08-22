@@ -50,6 +50,12 @@ summary: |-
   The notice is addressed simply as "Dear Sir" and closes with the printed designation "Hon. Secretary." The handwritten signature appears to read "Raja Huth..."; the surname is not fully legible. The document records a practical party-organisational communication rather than a substantive statement of political doctrine.
 ---
 
+## Summary
+
+This single-page English office letter, issued on Swatantra Party letterhead from Bombay on 22 June 1959, invites the recipient to attend a meeting of the Organising Committee for Greater Bombay. The meeting is scheduled for 5 p.m. on Tuesday, 23 June, at Minoo Masani's office on the third floor of the Army & Navy Building, Mahatma Gandhi Road, Bombay 1.
+
+The notice is addressed simply as "Dear Sir" and closes with the printed designation "Hon. Secretary." The handwritten signature appears to read "Raja Huth..."; the surname is not fully legible. The document records a practical party-organisational communication rather than a substantive statement of political doctrine.
+
 ## Key points
 
 - The letter is dated 22 June 1959 and issued on Swatantra Party letterhead.

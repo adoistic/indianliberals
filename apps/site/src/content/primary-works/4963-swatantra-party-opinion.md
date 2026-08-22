@@ -49,6 +49,10 @@ summary: |-
   These two pages criticize the Emergency as a limited but potentially irreversible takeover, while rejecting official claims that the measures remain within the Constitution and that elections are imminent. The text argues that the pre-censorship of the press has reduced public information to a state of rumour, despite formal exemptions for parliamentary and court proceedings. It describes threats of indefinite detention under the M.I.S.A. and forfeiture of printing presses, and notes that even the names and whereabouts of detainees may not be disclosed.
 ---
 
+## Summary
+
+These two pages criticize the Emergency as a limited but potentially irreversible takeover, while rejecting official claims that the measures remain within the Constitution and that elections are imminent. The text argues that the pre-censorship of the press has reduced public information to a state of rumour, despite formal exemptions for parliamentary and court proceedings. It describes threats of indefinite detention under the M.I.S.A. and forfeiture of printing presses, and notes that even the names and whereabouts of detainees may not be disclosed.
+
 ## Key points
 
 - The Emergency is presented as a dangerous political takeover whose reversibility remains uncertain.

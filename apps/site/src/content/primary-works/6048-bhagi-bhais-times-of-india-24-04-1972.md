@@ -50,6 +50,12 @@ summary: |-
   The clipping contrasts this sympathetic account with a report attributed to M. R. Sethi, the Madhya Pradesh chief minister, concerning the background and conduct of at least one dacoit. It closes with a further exchange involving Nehru Singh and Jayaprakash Narayan over the newspaper report. The scan is a narrow, low-resolution clipping; several names and sentences are difficult to read with confidence.
 ---
 
+## Summary
+
+This one-page Times of India clipping, dated 24 April 1972 and headed “Baghi Bhais,” reports on the treatment of surrendered dacoits in Madhya Pradesh. The article describes Jayaprakash Narayan speaking courteously of the former outlaws, whom he calls “rebel brothers,” and arguing that many had been driven into banditry by circumstances. It also refers to the question of whether any of them should be executed, noting that none was hanged.
+
+The clipping contrasts this sympathetic account with a report attributed to M. R. Sethi, the Madhya Pradesh chief minister, concerning the background and conduct of at least one dacoit. It closes with a further exchange involving Nehru Singh and Jayaprakash Narayan over the newspaper report. The scan is a narrow, low-resolution clipping; several names and sentences are difficult to read with confidence.
+
 ## Key points
 
 - The clipping reports on surrendered dacoits in Madhya Pradesh.

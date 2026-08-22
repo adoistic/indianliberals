@@ -49,6 +49,12 @@ summary: |-
   Rajagopalachari argues that multiplying fixed polling stations would at least treble, and possibly quadruple, the number of stations. He is particularly concerned that the resulting increase in candidates' expenditure on party agents would be prohibitive. Without adequate agents present at each station and working outside it, he warns, village polling stations could give the ruling party greater opportunity to act legally or illegally. He continues to favour mobile booths, comparing their voter-oriented approach to the collection of census information.
 ---
 
+## Summary
+
+In this letter dated 2 April 1965, C. Rajagopalachari writes to Minoo Masani about the design of polling arrangements. He responds to Election Commissioner Sundaran's preference for more numerous fixed booths—ideally one in every village—rather than mobile polling stations that would bring voting facilities directly to voters.
+
+Rajagopalachari argues that multiplying fixed polling stations would at least treble, and possibly quadruple, the number of stations. He is particularly concerned that the resulting increase in candidates' expenditure on party agents would be prohibitive. Without adequate agents present at each station and working outside it, he warns, village polling stations could give the ruling party greater opportunity to act legally or illegally. He continues to favour mobile booths, comparing their voter-oriented approach to the collection of census information.
+
 ## Key points
 
 - The letter discusses fixed versus mobile polling stations.

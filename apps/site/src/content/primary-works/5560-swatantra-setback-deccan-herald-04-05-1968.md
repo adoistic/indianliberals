@@ -53,6 +53,12 @@ summary: |-
   The article cautions against reading the results as a decisive shift in popular support toward Congress. Instead, it suggests that earlier Swatantra successes were conditioned by anti-Congress feeling and that the party could still recover if it converted its political philosophy into a more effective relationship with the aspirations of the people it sought to serve.
 ---
 
+## Summary
+
+The article attributes the Swatantra Party's setback in two Rajasthan Assembly by-elections to more than inadequate organisation or propaganda. It argues that the party had previously benefited from anti-Congress sentiment and from the appeal of prominent leaders, including Maharani Gayatri Devi and the Rajmata of Gwalior, but that its defeat exposed serious internal dissensions. The immediate crisis included the open defiance of several legislators against the party whip and the resignation of its General Secretary, M. R. Masani.
+
+The article cautions against reading the results as a decisive shift in popular support toward Congress. Instead, it suggests that earlier Swatantra successes were conditioned by anti-Congress feeling and that the party could still recover if it converted its political philosophy into a more effective relationship with the aspirations of the people it sought to serve.
+
 ## Key points
 
 - Swatantra's defeat in two Rajasthan Assembly by-elections is presented as a warning about organisational weakness and internal conflict.

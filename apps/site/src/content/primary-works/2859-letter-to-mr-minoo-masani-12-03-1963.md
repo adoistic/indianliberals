@@ -50,6 +50,12 @@ summary: |-
   Patel also anticipates additional Rajya Sabha recruits, including two members from Bihar, and believes the party may equal or surpass the Communists in the chamber. The letter closes with criticism of the Finance Minister’s reported remarks about Rajkumari Amrit Kaur, which Patel regards as contrary to parliamentary practice and members’ equal rights. The document is a complete, personal political letter; no content is missing from the two rendered pages.
 ---
 
+## Summary
+
+In this two-page letter dated March 12, 1963, Dahyabhai V. Patel writes to Minoo Masani about the shifting balance of opposition politics in Punjab and the Rajya Sabha. Patel reports that a newly elected House member, whose election petition had been upheld and who had unseated the Punjab Congressman, intends to join the Swatantra Party after judgment on the appeal is announced. He asks Masani to persuade Punjab opposition figures not to merge with the Akali Party, arguing that such a move would weaken both the opposition in the Punjab Assembly and the Swatantra Party’s position.
+
+Patel also anticipates additional Rajya Sabha recruits, including two members from Bihar, and believes the party may equal or surpass the Communists in the chamber. The letter closes with criticism of the Finance Minister’s reported remarks about Rajkumari Amrit Kaur, which Patel regards as contrary to parliamentary practice and members’ equal rights. The document is a complete, personal political letter; no content is missing from the two rendered pages.
+
 ## Key points
 
 - A newly elected member is expected to join the Swatantra Party after a pending election appeal is decided.

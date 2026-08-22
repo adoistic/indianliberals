@@ -51,6 +51,12 @@ summary: |-
   Masani asks Narayan to consider discussing civil liberties at an upcoming conference, or alternatively to recommend that the matter be taken up at the conference in Tarkunde. The letter ends with a personal expression of concern about Narayan's constant travelling and health. The page also shows Masani's typed signature block and Narayan's address in Kadam Kuan, Patna 3, Bihar.
 ---
 
+## Summary
+
+In this one-page letter dated May 22, 1975, M. R. Masani writes to Jayaprakash Narayan about reviving the All India Civil Liberties Bulletin. Masani reports that the Executive Council considered the proposal, but that the suggestion that the Bulletin be taken over by the ICCP was not favourably received. He notes instead that the Bulletin, formerly the mouthpiece of the All-India Civil Liberties Council, could be published by Citizens for Democracy.
+
+Masani asks Narayan to consider discussing civil liberties at an upcoming conference, or alternatively to recommend that the matter be taken up at the conference in Tarkunde. The letter ends with a personal expression of concern about Narayan's constant travelling and health. The page also shows Masani's typed signature block and Narayan's address in Kadam Kuan, Patna 3, Bihar.
+
 ## Key points
 
 - Masani's Executive Council considered reviving the All India Civil Liberties Bulletin.

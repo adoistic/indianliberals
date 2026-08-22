@@ -57,6 +57,12 @@ summary: |-
   The paper also recommends limiting government-to-government foreign loans to infrastructure and essential maintenance imports, encouraging domestic and foreign capital to produce needed goods, dismantling permits, licences, import and exchange controls, and negotiating reduced foreign-debt servicing charges. Immediate relief measures include loans for stranded industrial projects, imported raw materials for exporters, withdrawal of new export duties, and abolition of import duties and related levies on raw materials, fuels, and spare parts. Its policy framework combines monetary and fiscal restraint with a substantial reduction of state controls and a stronger role for competitive enterprise.
 ---
 
+## Summary
+
+This two-page position paper, dated June 22, 1966, argues that the economic crisis accompanying India’s currency devaluation resulted from a decade and a half of mistaken Union Government policies and planning. It contends that devaluation will produce its intended corrective effects only if the government adopts fiscal discipline, curbs inflation, reduces non-developmental expenditure, abandons deficit financing and overdrafts, and postpones or recasts the proposed Fourth Plan, including most state-sector capital projects.
+
+The paper also recommends limiting government-to-government foreign loans to infrastructure and essential maintenance imports, encouraging domestic and foreign capital to produce needed goods, dismantling permits, licences, import and exchange controls, and negotiating reduced foreign-debt servicing charges. Immediate relief measures include loans for stranded industrial projects, imported raw materials for exporters, withdrawal of new export duties, and abolition of import duties and related levies on raw materials, fuels, and spare parts. Its policy framework combines monetary and fiscal restraint with a substantial reduction of state controls and a stronger role for competitive enterprise.
+
 ## Key points
 
 - The paper attributes the economic crisis accompanying devaluation to longstanding Union Government economic policies and planning.

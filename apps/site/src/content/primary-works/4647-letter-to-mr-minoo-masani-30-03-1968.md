@@ -51,6 +51,12 @@ summary: |-
   The letter presents the episode as evidence of weaknesses in candidate selection and party discipline. Sreenivasan argues that a smaller group of legislators with integrity would be preferable to a larger group of ineffective representatives, and closes by asking Masani to continue leading the party. The page is an office letter on Swatantra Party letterhead, with handwritten annotations and a handwritten signature.
 ---
 
+## Summary
+
+This one-page letter, dated 30 March 1968 and signed by V. T. Sreenivasan of the Swatantra Party (Mysore State), urges Minoo Masani to reconsider his resignation from the Central Parliamentary Board and the National Executive. Sreenivasan argues that party indiscipline is not confined to Gujarat: Mysore legislators also failed to support the party's official candidate, while an unnamed Member of Parliament allegedly worked against the party's candidate in the Bijapur by-election.
+
+The letter presents the episode as evidence of weaknesses in candidate selection and party discipline. Sreenivasan argues that a smaller group of legislators with integrity would be preferable to a larger group of ineffective representatives, and closes by asking Masani to continue leading the party. The page is an office letter on Swatantra Party letterhead, with handwritten annotations and a handwritten signature.
+
 ## Key points
 
 - Sreenivasan responds to Minoo Masani's reported resignation from two central Swatantra Party bodies.

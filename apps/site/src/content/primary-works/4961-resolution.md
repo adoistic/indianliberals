@@ -52,6 +52,12 @@ summary: |-
   The resolution also protests the implementation of pre-censorship, accusing censors of misunderstanding the order, applying it with undue sensitivity, and showing bias in favour of the ruling party. It alleges that governments and their agencies used pressure, coercion, threats of detention, withdrawal of advertisements, and possible closure of newspapers to suppress legally unobjectionable news and comment. The visible page ends during an appeal to those concerned, so the resolution's concluding language is not available.
 ---
 
+## Summary
+
+This one-page English resolution records a conference of editors, columnists, and reporters from several journals and periodicals in Gujarat opposing the Government of India's system of pre-censorship introduced after the proclamation of the Emergency. It presents press freedom as an essential component of freedom of expression and democratic society, arguing that even during a grave emergency a free press can serve the public interest.
+
+The resolution also protests the implementation of pre-censorship, accusing censors of misunderstanding the order, applying it with undue sensitivity, and showing bias in favour of the ruling party. It alleges that governments and their agencies used pressure, coercion, threats of detention, withdrawal of advertisements, and possible closure of newspapers to suppress legally unobjectionable news and comment. The visible page ends during an appeal to those concerned, so the resolution's concluding language is not available.
+
 ## Key points
 
 - A Gujarat conference of newspaper editors, columnists, and reporters opposes government-imposed pre-censorship during the Emergency.

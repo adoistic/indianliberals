@@ -47,6 +47,10 @@ summary: |-
   This one-page newspaper report states that M. R. Masani, former general secretary of the Swatantra Party, believed Gujarat party leaders had been spared serious disciplinary action. The leaders had reportedly been called by the party's national executive to explain their conduct during the Rajya Sabha elections from Gujarat. The report says this emerged from correspondence between Masani and N. Dandekar, the party's general secretary, released to the press in Bombay.
 ---
 
+## Summary
+
+This one-page newspaper report states that M. R. Masani, former general secretary of the Swatantra Party, believed Gujarat party leaders had been spared serious disciplinary action. The leaders had reportedly been called by the party's national executive to explain their conduct during the Rajya Sabha elections from Gujarat. The report says this emerged from correspondence between Masani and N. Dandekar, the party's general secretary, released to the press in Bombay.
+
 ## Key points
 
 - M. R. Masani described the disciplinary decision concerning Gujarat Swatantra Party leaders as an 'unpublished decision'.

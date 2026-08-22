@@ -51,6 +51,12 @@ summary: |-
   The letter notes that the Swatantra Party’s parliamentary group appears to have formulated a policy and asks whether that position is officially authoritative. If so, Mody requests that the Party’s regional units be informed, emphasizing that the Bombay unit wants an early clarification.
 ---
 
+## Summary
+
+In this one-page letter dated 10 April 1964, Piloo Mody writes from the Swatantra Party’s Bombay Region office to M. R. Masani about the Kashmir issue. Mody argues that the Party needs a single official position that all members can cite and present uniformly.
+
+The letter notes that the Swatantra Party’s parliamentary group appears to have formulated a policy and asks whether that position is officially authoritative. If so, Mody requests that the Party’s regional units be informed, emphasizing that the Bombay unit wants an early clarification.
+
 ## Key points
 
 - The letter concerns the Swatantra Party’s position on the Kashmir issue.

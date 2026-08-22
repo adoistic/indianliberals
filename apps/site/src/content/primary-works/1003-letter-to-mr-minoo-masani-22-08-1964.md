@@ -48,6 +48,14 @@ summary: |-
   The second rendered page is the outside of the aerogram itself — a Danish air-letter form ("AEROGRAM · LUFTPOST · PAR AVION", with a Denmark postage stamp) addressed in the sender's hand to "M. R. Masani Esq., M.P., General Secretary, Swatantra Party (Central), 143 Mahatma Gandhi Rd., Bombay-1, India."
 ---
 
+## Summary
+
+This is a handwritten aerogram to Minoo Masani, dated 22 August 1964 and sent from the Inter-Parliamentary Union (I.P.U.) Conference in Copenhagen. Writing from Parliament House at 9 a.m. and signed "Ranga" (from context, N. G. Ranga, then a Swatantra Party parliamentarian on the Indian delegation), the writer reports that the I.P.U. platform is proving useful for India: when a Pakistani delegate accused India of massacres, he pressed back by stressing the need for understanding, give-and-take, and keeping issues open for discussion and settlement. The day's agenda, he adds, turns to ending international disparities, on which he is to speak for the Indian delegation.
+
+On logistics, Ranga tells Masani that the I.P.U. has declined to fund his air passage to and from Washington (roughly Rs 2,500), so he is dropping that leg of his plan; he hopes to be back in Delhi by 6 September and available for their meetings. He then shifts to Swatantra Party affairs. Before leaving Delhi he received anxious enquiries from South Indian friends about the Bihar debacle: some had been impressed by complaints that certain colleagues had been condemned without being heard. He reports that P. K. Ghosh has "hived up" with those complainants, while B. R. Reddiar, who agrees with him, has suggested convening the C.O.E. to take the matter up.
+
+The second rendered page is the outside of the aerogram itself — a Danish air-letter form ("AEROGRAM · LUFTPOST · PAR AVION", with a Denmark postage stamp) addressed in the sender's hand to "M. R. Masani Esq., M.P., General Secretary, Swatantra Party (Central), 143 Mahatma Gandhi Rd., Bombay-1, India."
+
 ## Key points
 
 - Handwritten aerogram to Minoo Masani, signed "Ranga" and sent from the I.P.U. Conference in Copenhagen on 22 August 1964.

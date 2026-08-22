@@ -57,6 +57,12 @@ summary: |-
   The motion also objects to the Plan's dependence on foreign aid, its proposed joint cooperative farming, its emphasis on heavy industry over consumers' goods, and its expansion of the public sector. It warns that state monopolies, compulsory labour, excessive taxation of agricultural incomes, and politically distributed grants would weaken private enterprise, agricultural production, individual freedom, administrative impartiality, and the autonomy of the states. The document concludes that the Plan would reduce real incomes and living standards and work against the interests of the people.
 ---
 
+## Summary
+
+Dated 17 August 1960, this two-page parliamentary substitute motion rejects the draft outline of India's Third Five Year Plan. It argues that the Plan is unrealistic and improvident because it overestimates production and savings, understates expenditure amid inflation, leaves a large gap between resources and outlay, and relies on deficit finance and additional taxation without establishing a stable price and monetary policy.
+
+The motion also objects to the Plan's dependence on foreign aid, its proposed joint cooperative farming, its emphasis on heavy industry over consumers' goods, and its expansion of the public sector. It warns that state monopolies, compulsory labour, excessive taxation of agricultural incomes, and politically distributed grants would weaken private enterprise, agricultural production, individual freedom, administrative impartiality, and the autonomy of the states. The document concludes that the Plan would reduce real incomes and living standards and work against the interests of the people.
+
 ## Key points
 
 - The motion disapproves of the Third Five Year Plan because its production and savings estimates are considered unrealistic.

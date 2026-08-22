@@ -53,6 +53,12 @@ summary: |-
   The larger enclosure is a counter-affidavit filed in the Madras High Court in W.P. No. 558 of 1975. It defends the Election Commission’s January 1975 decision recognising the Bharatiya Lok Dal after the Swatantra Party’s merger with other parties, relying on majority support at the party’s August 1974 National Convention and on paragraph 16 of the Election Symbols Order. The affidavit contests the petitioners’ claims that the Commission lacked jurisdiction, violated natural justice, failed to give notice, or improperly treated the Swatantra Party as dissolved. The scanned document also includes verification, a press extract from The Hindu, and the cover of the respondents’ counter-affidavit; no judicial order or final outcome is included.
 ---
 
+## Summary
+
+This 26 April 1975 covering letter from V. S. Srikumar, Joint Secretary of the All India Swatantra Party, forwards correspondence concerning the validity of electoral rolls and an Election Commission counter-affidavit. Srikumar asks K. M. Munshi to consider A. Doraiswami Nadar’s arguments, prepare a detailed reply to the Commission’s counter, and coordinate with senior advocate N. C. Raghavachariar. The enclosures argue that the existing electoral rolls should be challenged and that fresh rolls should be prepared after a thorough census-style verification.
+
+The larger enclosure is a counter-affidavit filed in the Madras High Court in W.P. No. 558 of 1975. It defends the Election Commission’s January 1975 decision recognising the Bharatiya Lok Dal after the Swatantra Party’s merger with other parties, relying on majority support at the party’s August 1974 National Convention and on paragraph 16 of the Election Symbols Order. The affidavit contests the petitioners’ claims that the Commission lacked jurisdiction, violated natural justice, failed to give notice, or improperly treated the Swatantra Party as dissolved. The scanned document also includes verification, a press extract from The Hindu, and the cover of the respondents’ counter-affidavit; no judicial order or final outcome is included.
+
 ## Key points
 
 - The covering letter requests consideration of A. Doraiswami Nadar’s objections regarding the validity of the electoral roll.

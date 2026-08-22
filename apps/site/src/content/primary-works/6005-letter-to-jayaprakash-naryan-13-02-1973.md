@@ -50,6 +50,12 @@ summary: |-
   The letter argues that two considerations should temper expectations: the political situation represented by Patnaik and another unnamed or unclear figure, and the limited prospect of replacing the existing government in Delhi with a new coalition. At the same time, the sender insists that public interest requires action and asks Narayan to provide news about reports concerning “Prabhu’s” condition, while offering to gather further information from Calcutta or arrange an interview in Bombay. The sender’s identity is not clearly printed or signed on the visible page.
 ---
 
+## Summary
+
+This one-page letter, dated 13 February 1973 and addressed to Jayaprakash Narayan, discusses the political situation in India and urges a cautious but active response. The sender refers to efforts to counter what he calls the “cold shoulder” shown to Narayan by the Indian Express, noting that newspapers in Calcutta and Delhi may have become more responsive. He also comments on a possible positive response to Narayan’s political initiative and on the difficulty of forcing new political developments at that stage.
+
+The letter argues that two considerations should temper expectations: the political situation represented by Patnaik and another unnamed or unclear figure, and the limited prospect of replacing the existing government in Delhi with a new coalition. At the same time, the sender insists that public interest requires action and asks Narayan to provide news about reports concerning “Prabhu’s” condition, while offering to gather further information from Calcutta or arrange an interview in Bombay. The sender’s identity is not clearly printed or signed on the visible page.
+
 ## Key points
 
 - The letter is dated 13 February 1973 and addressed to Jayaprakash Narayan.

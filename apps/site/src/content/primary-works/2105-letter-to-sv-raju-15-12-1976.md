@@ -51,6 +51,12 @@ summary: |-
   The letter then reports that some district units in Tamil Nadu have decided to hold district-level conferences. It identifies Madurai as the venue for the first conference, scheduled for Sunday, 9 January 1977, and asks Raju to send his best wishes and any message to the organisers. Formal invitations, the letter says, will also be sent to Raju and to Sri Girish Munshi and Sri Keriwalji.
 ---
 
+## Summary
+
+This two-page English office letter, dated 15 December 1976, was sent from the Swatantra Party's Tamil Nadu headquarters in Madras by Joint Secretary V. S. Srikumar to S. V. Raju, then Joint Secretary of the All India Swatantra Party. It first asks Raju to report on his meeting with the Tax Recovery Officer and to explain the position concerning an unspecified tax matter.
+
+The letter then reports that some district units in Tamil Nadu have decided to hold district-level conferences. It identifies Madurai as the venue for the first conference, scheduled for Sunday, 9 January 1977, and asks Raju to send his best wishes and any message to the organisers. Formal invitations, the letter says, will also be sent to Raju and to Sri Girish Munshi and Sri Keriwalji.
+
 ## Key points
 
 - The letter is dated 15 December 1976 and was issued from the Swatantra Party's Tamil Nadu headquarters in Madras.

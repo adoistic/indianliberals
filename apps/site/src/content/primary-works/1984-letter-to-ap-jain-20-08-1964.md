@@ -46,6 +46,10 @@ summary: |-
   This one-page English express telegram, dated August 20, 1964, is signed “MASANI” and addressed to A. P. Jain in New Delhi, with a copy sent to M. R. Masani in Bombay. The sender asks Jain to wire notice of parliamentary group meetings scheduled for September 6 and 8, which had been arranged between “Prof. Ranga” and the sender in Delhi, and to send copies immediately.
 ---
 
+## Summary
+
+This one-page English express telegram, dated August 20, 1964, is signed “MASANI” and addressed to A. P. Jain in New Delhi, with a copy sent to M. R. Masani in Bombay. The sender asks Jain to wire notice of parliamentary group meetings scheduled for September 6 and 8, which had been arranged between “Prof. Ranga” and the sender in Delhi, and to send copies immediately.
+
 ## Key points
 
 - The document is a one-page typed express telegram dated August 20, 1964.

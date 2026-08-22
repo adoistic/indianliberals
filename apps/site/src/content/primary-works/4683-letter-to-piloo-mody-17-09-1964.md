@@ -49,6 +49,10 @@ summary: |-
   In this typed letter dated 17 September 1964, C. Rajagopalachari responds to Piloo Mody's letter of 11 September, saying that he does not wish to remain for as long as Mody has suggested. Rajagopalachari then outlines his travel schedule: he will travel from Delhi to Bombay on 29 September by Caravelle and return to Madras on 2 October by the same service.
 ---
 
+## Summary
+
+In this typed letter dated 17 September 1964, C. Rajagopalachari responds to Piloo Mody's letter of 11 September, saying that he does not wish to remain for as long as Mody has suggested. Rajagopalachari then outlines his travel schedule: he will travel from Delhi to Bombay on 29 September by Caravelle and return to Madras on 2 October by the same service.
+
 ## Key points
 
 - Rajagopalachari replies to Piloo Mody's letter of 11 September 1964.

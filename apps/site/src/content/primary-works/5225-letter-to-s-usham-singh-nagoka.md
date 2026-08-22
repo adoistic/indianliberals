@@ -49,6 +49,12 @@ summary: |-
   The letter’s immediate political objective is to recruit Kaul to the Swatantra Party. The sender argues that Kaul’s entry could attract at least ten thousand people and several hundred workers from trade unions, strengthening the party in Punjab, Himachal, and Kashmir. The scan preserves the sender’s signature only ambiguously, so the author remains unidentified.
 ---
 
+## Summary
+
+This letter, dated 3 February 1959 and written from Simla, is addressed to S. Usham Singh Nagoke at the Swatantra Party office in Patiala. The unidentified sender asks Nagoke to follow up on M. R. Masani’s suggestion that the sender contact Dr. Jogendra N. Kaul, described as an ex-socialist leader then residing in Simla. The sender explains that Kaul’s letter did not arrive in time for the proposed Patiala convention and asks Nagoke to intervene directly.
+
+The letter’s immediate political objective is to recruit Kaul to the Swatantra Party. The sender argues that Kaul’s entry could attract at least ten thousand people and several hundred workers from trade unions, strengthening the party in Punjab, Himachal, and Kashmir. The scan preserves the sender’s signature only ambiguously, so the author remains unidentified.
+
 ## Key points
 
 - The letter is dated 3 February 1959 and was sent from Simla to the Swatantra Party office in Patiala.

@@ -51,6 +51,12 @@ summary: |-
   The letter leaves open the possibility that the committee's examination may clarify how the party can best serve its cause. It also suggests that the records may reveal significant insights into the real dynamics of the state, potentially helping party members discharge their fundamental duties. The writer closes by affirming loyalty and devotion to the party. The signature appears to read “Rajpur Singh,” followed by “M.P.”
 ---
 
+## Summary
+
+This confidential letter, dated 15 April 1962 and addressed to Minoo Masani in New Delhi, responds to Masani's frank discussion with the writer on the previous day. The writer says that, after considering the necessary implications, it would be unfair to the party and its cause to accept office or hold a parliamentary function while the party is investigating the J.C.S. Service Case through a competent committee and reviewing the printed judicial records and Supreme Court record rooms.
+
+The letter leaves open the possibility that the committee's examination may clarify how the party can best serve its cause. It also suggests that the records may reveal significant insights into the real dynamics of the state, potentially helping party members discharge their fundamental duties. The writer closes by affirming loyalty and devotion to the party. The signature appears to read “Rajpur Singh,” followed by “M.P.”
+
 ## Key points
 
 - The writer addresses Minoo Masani after a frank conversation about the party's circumstances.

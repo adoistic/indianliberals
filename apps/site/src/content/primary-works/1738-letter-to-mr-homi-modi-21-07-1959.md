@@ -50,6 +50,12 @@ summary: |-
   Sodhi also discusses his views on the Federation of Chambers of Commerce and Industry, referring to advice he gave its members in 1956 to organise in defence of their interests. He criticises what he calls the government's worsening position and its attitude toward the head of state, and cites Lanka Sundaram's comments comparing Nehru's reply to President Rajendra Prasad with the fate of King Aman-Ullah of Afghanistan. The letter closes by enclosing earlier correspondence and asking Mody to respond before Sodhi travels to Bombay.
 ---
 
+## Summary
+
+In this two-page letter dated July 1959, Sirdar H. S. Sodhi writes to Sir Homi P. Mody about his political break with the Indian National Congress and his support for the newly formed Swatantra Party. Sodhi says that he had become increasingly dissatisfied with Jawaharlal Nehru's government and had considered joining efforts to organise an anti-Congress party with C. H. Bhabha. He now expects to attend the Swatantra convention in Bombay on 1–2 August and indicates that he may join the party.
+
+Sodhi also discusses his views on the Federation of Chambers of Commerce and Industry, referring to advice he gave its members in 1956 to organise in defence of their interests. He criticises what he calls the government's worsening position and its attitude toward the head of state, and cites Lanka Sundaram's comments comparing Nehru's reply to President Rajendra Prasad with the fate of King Aman-Ullah of Afghanistan. The letter closes by enclosing earlier correspondence and asking Mody to respond before Sodhi travels to Bombay.
+
 ## Key points
 
 - Sodhi expresses dissatisfaction with the Congress Party and Jawaharlal Nehru's government.

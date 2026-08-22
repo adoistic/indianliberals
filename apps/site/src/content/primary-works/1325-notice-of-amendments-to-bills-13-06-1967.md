@@ -53,6 +53,12 @@ summary: |-
   The proposed amendments seek to narrow or remove discretionary grounds for passport-related decisions. They would delete wording concerning the sovereignty and integrity of India, national security, friendly relations with foreign countries, and the general public interest; replace “shall” with “may” in clause 6; remove specified sub-clauses; delete the phrase “in the opinion of the Central Government”; and remove a restriction on appeals against orders of the Central Government. The pages record amendment proposals only and do not show debate, reasons offered by the member, or the bill’s final wording.
 ---
 
+## Summary
+
+This five-page English-language document comprises separate notices of amendments to the Passport Bill, 1967, addressed to the Secretary of the Lok Sabha in New Delhi. The sender is not named and is identified only as “Member, Division No. ____”; no signature is visible. The notices are dated 13 June 1967, except for an earlier date on the first form that has been crossed out.
+
+The proposed amendments seek to narrow or remove discretionary grounds for passport-related decisions. They would delete wording concerning the sovereignty and integrity of India, national security, friendly relations with foreign countries, and the general public interest; replace “shall” with “may” in clause 6; remove specified sub-clauses; delete the phrase “in the opinion of the Central Government”; and remove a restriction on appeals against orders of the Central Government. The pages record amendment proposals only and do not show debate, reasons offered by the member, or the bill’s final wording.
+
 ## Key points
 
 - The document contains five formal notices of amendments to the Passport Bill, 1967.

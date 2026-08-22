@@ -67,6 +67,12 @@ summary: |-
   The dossier also presents an economic and administrative critique of Emergency rule. Its reports describe forced collections and intimidation by Youth Congress workers, attacks on independent newspapers, alleged corruption and favouritism, and deteriorating economic conditions. A lengthy extract from Minoo Masani argues that repression has deepened rather than solved India’s political and economic problems, linking inflation, unemployment, industrial stagnation, and state control to the ruling system. The final pages call for the restoration of civil liberties and political prisoners’ rights, while the exact compiler, issuer, publication date, and original title remain unidentified.
 ---
 
+## Summary
+
+This undated English dossier assembles press extracts, political statements, letters, reports, and news items concerning the Emergency proclaimed by Indira Gandhi on 26 June 1975. The materials document arrests without trial, censorship, restrictions on political activity, alleged torture, postponed elections, raids on opposition offices, and pressure on newspapers and publishers. Reproduced statements by Friends of India Society International and the International League for the Rights of Man demand the release of political prisoners, restoration of press freedom, and withdrawal of Emergency-era constitutional changes.
+
+The dossier also presents an economic and administrative critique of Emergency rule. Its reports describe forced collections and intimidation by Youth Congress workers, attacks on independent newspapers, alleged corruption and favouritism, and deteriorating economic conditions. A lengthy extract from Minoo Masani argues that repression has deepened rather than solved India’s political and economic problems, linking inflation, unemployment, industrial stagnation, and state control to the ruling system. The final pages call for the restoration of civil liberties and political prisoners’ rights, while the exact compiler, issuer, publication date, and original title remain unidentified.
+
 ## Key points
 
 - The dossier records opposition to the Emergency declared on 26 June 1975 and attributes extensive abuses to the government.

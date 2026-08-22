@@ -50,6 +50,12 @@ summary: |-
   The writer asks Raju to send a copy of the plaint so that those involved can take further action. The letter recommends treating Ganapiah and his group as trespassers and expelling them from the park. The second rendered page shows the addressed inland-letter envelope; it contains no additional substantive correspondence.
 ---
 
+## Summary
+
+In this handwritten letter dated 13 September 1974, the writer, apparently P. Sreenivasan, writes to S. V. Raju about an alleged attempt by Ganapiah and his group to leave with assets belonging to the State Park. The writer reports that several people oppose this and are prepared to seek a court injunction, noting that the State Park’s treasurer and two joint secretaries are among them.
+
+The writer asks Raju to send a copy of the plaint so that those involved can take further action. The letter recommends treating Ganapiah and his group as trespassers and expelling them from the park. The second rendered page shows the addressed inland-letter envelope; it contains no additional substantive correspondence.
+
 ## Key points
 
 - The letter is dated 13 September 1974 and addressed to S. V. Raju.

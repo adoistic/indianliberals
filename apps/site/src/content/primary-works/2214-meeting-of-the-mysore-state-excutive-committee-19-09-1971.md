@@ -51,6 +51,12 @@ summary: |-
   The extract records demands for a serious investigation and a change in financial oversight. Dr. T. L. Lingaiah urged the Chair to address the matter and asked the General Secretary to assume responsibility for the finances so that the Finance Sub-Committee could examine the affairs and report to the next Executive Committee meeting. Treasurer V. L. Narasimha Moorthy alleged that funds had been diverted repeatedly and that investments had been made hurriedly without keeping the Executive informed.
 ---
 
+## Summary
+
+This one-page extract from the proceedings of the Mysore State Executive Committee meeting held on 19 September 1971 records a discussion of Party finances and the Bangalore Educational Trust. The President reported that the Party accounts had not been audited for twelve years, prompting members to express shock, regret, and concern that Party funds had been handled without sufficient respect for financial procedure.
+
+The extract records demands for a serious investigation and a change in financial oversight. Dr. T. L. Lingaiah urged the Chair to address the matter and asked the General Secretary to assume responsibility for the finances so that the Finance Sub-Committee could examine the affairs and report to the next Executive Committee meeting. Treasurer V. L. Narasimha Moorthy alleged that funds had been diverted repeatedly and that investments had been made hurriedly without keeping the Executive informed.
+
 ## Key points
 
 - The document is an extract from the Mysore State Executive Committee meeting of 19 September 1971.

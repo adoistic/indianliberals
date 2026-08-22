@@ -46,6 +46,10 @@ summary: |-
   The rendered pages show only a typed office letterhead associated with the Director of the Gandhian Institute of Studies in Varanasi. The document is addressed to Mr. Sugata Das Gupta and lists the institution's postal address, office and residential telephone numbers, and telegram designation. No substantive letter or telegram message is visible.
 ---
 
+## Summary
+
+The rendered pages show only a typed office letterhead associated with the Director of the Gandhian Institute of Studies in Varanasi. The document is addressed to Mr. Sugata Das Gupta and lists the institution's postal address, office and residential telephone numbers, and telegram designation. No substantive letter or telegram message is visible.
+
 ## Key points
 
 - The document is addressed to Mr. Sugata Das Gupta.

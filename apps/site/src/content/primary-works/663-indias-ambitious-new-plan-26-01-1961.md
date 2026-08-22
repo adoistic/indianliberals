@@ -49,6 +49,12 @@ summary: |-
   The extract presents India's industrial expansion as substantial, citing iron and steel, chemicals, electrical and mechanical machinery, railway equipment, lorries, cars, and bicycles. At the same time, it contrasts the performance of public and private enterprise: public projects had fallen 10 per cent short of their target, whereas private enterprise had exceeded its target by nearly 40 per cent. The page also reproduces contemporary commentary on India's widening income disparity with the United States and on the need for international assistance to be directed toward countries capable of using it effectively.
 ---
 
+## Summary
+
+This two-page extract, attributed to Richard Fry and dated January 26, 1961, examines India's economic performance during the transition from the Second to the Third Five-Year Plan. It reports that national output had grown by rather less than 4 per cent annually during the Second Plan, while population growth reduced the increase in output per head to about 2 per cent. The Third Plan's stated objective was to raise national output by 5 per cent annually, or approximately 3 per cent per head.
+
+The extract presents India's industrial expansion as substantial, citing iron and steel, chemicals, electrical and mechanical machinery, railway equipment, lorries, cars, and bicycles. At the same time, it contrasts the performance of public and private enterprise: public projects had fallen 10 per cent short of their target, whereas private enterprise had exceeded its target by nearly 40 per cent. The page also reproduces contemporary commentary on India's widening income disparity with the United States and on the need for international assistance to be directed toward countries capable of using it effectively.
+
 ## Key points
 
 - The Second Five-Year Plan produced annual national-output growth of less than 4 per cent, with population growth limiting per-capita growth to about 2 per cent.

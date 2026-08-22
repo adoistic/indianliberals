@@ -48,6 +48,12 @@ summary: |-
   The closing paragraph addresses a possible position for S. R. Purohit. The writer explains that the position will initially be filled internally, because a staff member is being sent to Jaipur, but promises to consider Raju’s suggestion if a vacancy later arises. The handwritten signature is not sufficiently legible to establish the sender’s identity with confidence.
 ---
 
+## Summary
+
+This one-page letter, dated Calcutta, 14 June 1971, is addressed to S. V. Raju in Bombay. The writer describes an unusually difficult visit to Bombay, marked by heavy flooding, failed telephone communication, delays in arranging meetings, and efforts to locate Nani Palkhivala. The letter also proposes meeting Raju in Bombay on 25 or 26 June and refers to an unexplained matter raised in Raju’s earlier letter.
+
+The closing paragraph addresses a possible position for S. R. Purohit. The writer explains that the position will initially be filled internally, because a staff member is being sent to Jaipur, but promises to consider Raju’s suggestion if a vacancy later arises. The handwritten signature is not sufficiently legible to establish the sender’s identity with confidence.
+
 ## Key points
 
 - The letter is dated 14 June 1971 and was written from Calcutta to S. V. Raju in Bombay.

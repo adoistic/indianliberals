@@ -52,6 +52,12 @@ summary: |-
   The listed business covers confirmation of the minutes of the December 1970 Madras meeting, business arising from those minutes, consideration of President M.R. Masani’s resignation, the condition of Party organisation after recent parliamentary and state-assembly elections in Orissa and Tamil Nadu, the current political situation, and matters referred by the National Executive. The document is therefore primarily an administrative communication, but its agenda records a moment of organisational review and political reassessment for the Swatantra Party.
 ---
 
+## Summary
+
+Dated April 2, 1971, this one-page Swatantra Party General Council Circular No. 40 confirms the forthcoming meeting of the General Council in Bombay on April 17–18, 1971. Issued from the Party’s national headquarters and signed by R.C. Cooper, General Secretary, the circular provides the venue, meeting hours, and logistical information concerning attendance, hotel accommodation, and mail or air bookings.
+
+The listed business covers confirmation of the minutes of the December 1970 Madras meeting, business arising from those minutes, consideration of President M.R. Masani’s resignation, the condition of Party organisation after recent parliamentary and state-assembly elections in Orissa and Tamil Nadu, the current political situation, and matters referred by the National Executive. The document is therefore primarily an administrative communication, but its agenda records a moment of organisational review and political reassessment for the Swatantra Party.
+
 ## Key points
 
 - The circular is dated April 2, 1971, and is issued on Swatantra Party national headquarters letterhead.

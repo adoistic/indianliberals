@@ -48,6 +48,12 @@ summary: |-
   A handwritten postscript conveys a suggestion from Sardar Kapur Singh that the Party's newsletter be circulated to all Swatantra MPs at their Delhi addresses, with Ranga asking Masani to instruct Raju to arrange this. A brief marginal note in another hand, dated 27/1/63, records that this practice is already being followed whenever Parliament is in session. The letter carries a Received stamp dated 22 JAN 1963 (No. 01824) and an archival number 1036.
 ---
 
+## Summary
+
+This one-page typed letter, dated 19 January 1963, is from Prof. N. G. Ranga, Member of Parliament (Lok Sabha), writing on his New Delhi address at 44-Western Court, to Minoo Masani in Bombay. Ranga reports having sent wires to Masani from Nidobrolu and again from Delhi, and expresses disappointment that Masani will not be joining him in the capital. He asks Masani for his views on a proposal to stage a walk-out — undertaken, if necessary, by "our Party alone", a clear reference to the Swatantra Party — and notes that Shri Dahyabhai Patel, who is present with him, endorses the plan without reservation.
+
+A handwritten postscript conveys a suggestion from Sardar Kapur Singh that the Party's newsletter be circulated to all Swatantra MPs at their Delhi addresses, with Ranga asking Masani to instruct Raju to arrange this. A brief marginal note in another hand, dated 27/1/63, records that this practice is already being followed whenever Parliament is in session. The letter carries a Received stamp dated 22 JAN 1963 (No. 01824) and an archival number 1036.
+
 ## Key points
 
 - Letter from Prof. N. G. Ranga (MP, Lok Sabha) to Minoo Masani, dated 19 January 1963, sent from 44-Western Court, New Delhi.

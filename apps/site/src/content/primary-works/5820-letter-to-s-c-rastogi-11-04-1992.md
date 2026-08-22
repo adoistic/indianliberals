@@ -49,6 +49,12 @@ summary: |-
   The letter identifies the complaint as concerning a column published in the March 15, 1992 issue, which the complainants alleged cast reflections on members belonging to left parties and their allies in the National Front. The Statesman says it will contact Masani before replying and asks for time to examine the matter fully. The document therefore records an early procedural response to a parliamentary privilege complaint involving newspaper publication and political criticism.
 ---
 
+## Summary
+
+This single-page letter from The Statesman Ltd., dated April 11, 1992, is addressed to S. C. Rastogi, Under Secretary of the Lok Sabha Secretariat. Basudev Ray, signing as Printer & Publisher, acknowledges notices of questions of privilege brought by Shri Hannan Mollah and eight other members against the newspaper's Editor, Printer and Publisher, as well as Minoo Masani, author of the column “As I See It.”
+
+The letter identifies the complaint as concerning a column published in the March 15, 1992 issue, which the complainants alleged cast reflections on members belonging to left parties and their allies in the National Front. The Statesman says it will contact Masani before replying and asks for time to examine the matter fully. The document therefore records an early procedural response to a parliamentary privilege complaint involving newspaper publication and political criticism.
+
 ## Key points
 
 - The letter is dated April 11, 1992 and is addressed to S. C. Rastogi of the Lok Sabha Secretariat.

@@ -48,6 +48,10 @@ summary: |-
   In this personal and confidential letter dated 11 March 1968, Minoo Masani writes from New Delhi to R. N. Singh Deo, Chief Minister of Orissa, about unpaid bills owed by the Orissa Mining Corporation to Voltas Limited. The bills, amounting to Rs. 13.16 lakhs, concern shovels and spares purchased by the Mining Corporation; although the Orissa Government had guaranteed payment, the bills had become overdue. Masani notes that Voltas had demanded payment by 1 March and that the Mining Corporation had requested time until 25 March. He invokes the Government's guarantee and asks Singh Deo to ensure that the Mining Corporation meets its obligation by that date, requesting an early reply. The document is a single-page letter; no further correspondence or resolution of the matter is available here.
 ---
 
+## Summary
+
+In this personal and confidential letter dated 11 March 1968, Minoo Masani writes from New Delhi to R. N. Singh Deo, Chief Minister of Orissa, about unpaid bills owed by the Orissa Mining Corporation to Voltas Limited. The bills, amounting to Rs. 13.16 lakhs, concern shovels and spares purchased by the Mining Corporation; although the Orissa Government had guaranteed payment, the bills had become overdue. Masani notes that Voltas had demanded payment by 1 March and that the Mining Corporation had requested time until 25 March. He invokes the Government's guarantee and asks Singh Deo to ensure that the Mining Corporation meets its obligation by that date, requesting an early reply. The document is a single-page letter; no further correspondence or resolution of the matter is available here.
+
 ## Key points
 
 - Masani reports that the Orissa Mining Corporation defaulted on bills payable to Voltas Limited. The bills covered shovels and spare parts purchased for Rs. 13.16 lakhs. The Orissa Government had guaranteed payment but had not met the overdue bills. Voltas had demanded payment by 1 March and received no response from either the Mining Corporation or the Orissa Government. The Mining Corporation requested time until 25 March.

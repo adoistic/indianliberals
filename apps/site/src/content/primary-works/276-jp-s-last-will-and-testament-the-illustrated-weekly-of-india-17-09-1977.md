@@ -55,3 +55,9 @@ summary: |-
   
   The only complete editorial feature visible in the rendered pages is Minoo Masani’s “JP’s ‘Last’ Will and Testament.” Through an account of Jayaprakash Narayan’s serious illness in late 1975, Masani explains how friends arranged for the political testament to be authenticated and preserved because they feared that the Emergency government might later misrepresent Narayan’s position. The issue’s remaining contents are listed but not rendered in their corresponding articles.
 ---
+
+## Summary
+
+This rendered issue of The Illustrated Weekly of India, dated September 11–17, 1977, combines political reporting, commentary, letters, book and film notices, cultural features, and advertising. Its contents page places Jayaprakash Narayan’s Emergency-era testament at the center of the issue, alongside discussions of planning, politics, public figures, literature, science, and culture. The rendered pages also include readers’ arguments about economic policy, food distribution, currency, press judgment, and the legacy of Annie Besant.
+
+The only complete editorial feature visible in the rendered pages is Minoo Masani’s “JP’s ‘Last’ Will and Testament.” Through an account of Jayaprakash Narayan’s serious illness in late 1975, Masani explains how friends arranged for the political testament to be authenticated and preserved because they feared that the Emergency government might later misrepresent Narayan’s position. The issue’s remaining contents are listed but not rendered in their corresponding articles.

@@ -50,6 +50,12 @@ summary: |-
   The letter is an administrative communication coordinating the circulation of committee and executive-meeting documents within the Swatantra Party. It closes by directing that copies be supplied to Raju, identified as SP-C, for immediate action. No substantive contents of the Inquiry Committee's Report or the National Executive minutes are included on the rendered page.
 ---
 
+## Summary
+
+This single-page English letter, written on Swatantra Party Central Office letterhead and dated 22 April 1968, is addressed by Bhagwanjibhai Patel to Minoo Masani. Patel refers to Masani's letters of 11 and 22 April concerning the matter under discussion and arranges for Raju to send an English translation of the Inquiry Committee's Report, H. M. Patel's covering letter forwarding the report, and the draft minutes of the National Executive meeting held in Delhi on 14 April.
+
+The letter is an administrative communication coordinating the circulation of committee and executive-meeting documents within the Swatantra Party. It closes by directing that copies be supplied to Raju, identified as SP-C, for immediate action. No substantive contents of the Inquiry Committee's Report or the National Executive minutes are included on the rendered page.
+
 ## Key points
 
 - The letter is dated 22 April 1968 and issued from the Swatantra Party Central Office.

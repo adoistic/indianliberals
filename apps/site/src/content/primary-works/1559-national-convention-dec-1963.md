@@ -59,3 +59,7 @@ ai:
 summary: |-
   The December 1963 issue of Swatantra Newsletter (No. 40), issued for private circulation by the Swatantra Party's Central Office, combines party news, regional reports, parliamentary commentary, and an annexure reproducing M. R. Masani's Lok Sabha speech. It announces the Party's forthcoming National Convention in Bangalore, reports celebrations of C. Rajagopalachari's 86th birthday, welcomes five hundred members of the Saurashtra Khedut Samaj, and records tributes to Sardar Bahadur Lal Singh and Muthuramalinga Thevar. Reports from Goa, Andhra Pradesh, Bombay, Delhi, Gujarat, Madras, Mysore, and Orissa present the Party as expanding electorally while opposing the Congress government's policies and the 17th Amendment.
 ---
+
+## Summary
+
+The December 1963 issue of Swatantra Newsletter (No. 40), issued for private circulation by the Swatantra Party's Central Office, combines party news, regional reports, parliamentary commentary, and an annexure reproducing M. R. Masani's Lok Sabha speech. It announces the Party's forthcoming National Convention in Bangalore, reports celebrations of C. Rajagopalachari's 86th birthday, welcomes five hundred members of the Saurashtra Khedut Samaj, and records tributes to Sardar Bahadur Lal Singh and Muthuramalinga Thevar. Reports from Goa, Andhra Pradesh, Bombay, Delhi, Gujarat, Madras, Mysore, and Orissa present the Party as expanding electorally while opposing the Congress government's policies and the 17th Amendment.

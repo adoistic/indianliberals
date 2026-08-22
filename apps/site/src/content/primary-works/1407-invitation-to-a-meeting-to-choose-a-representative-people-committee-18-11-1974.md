@@ -57,6 +57,12 @@ summary: |-
   The invitation presents the proposed organisation as above party politics and committed to achieving its objectives through peaceful and non-violent means. It records that the initiative followed a preliminary meeting in Madras on 15 November 1974 and schedules the committee-forming meeting for 29 November 1974 at the Local Library Authority Buildings, Mount Road, Madras. Page 2 reproduces the invitation in Tamil; the rendered pages contain no further organisational record beyond the appeal and meeting details.
 ---
 
+## Summary
+
+This two-page bilingual office invitation, dated 18 November 1974, calls for a representative meeting in Madras to establish a “Representative Peoples’ Committee.” The English notice seeks participation from social organisations, intellectuals, journalists, writers, and political parties that support the people’s movement in Bihar under Jayaprakash Narayan. It proposes concerted, non-party action to organise public opinion, combat corruption and nepotism, reform electoral and educational systems, and promote moral and ethical values.
+
+The invitation presents the proposed organisation as above party politics and committed to achieving its objectives through peaceful and non-violent means. It records that the initiative followed a preliminary meeting in Madras on 15 November 1974 and schedules the committee-forming meeting for 29 November 1974 at the Local Library Authority Buildings, Mount Road, Madras. Page 2 reproduces the invitation in Tamil; the rendered pages contain no further organisational record beyond the appeal and meeting details.
+
 ## Key points
 
 - Invites a broad coalition of organisations, intellectuals, journalists, writers, and political parties to form a representative people’s committee.

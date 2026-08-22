@@ -56,6 +56,12 @@ summary: |-
   The minutes also record a decision to support a calling-attention notice concerning Sheikh Abdullah’s release and restrictions preventing him from speaking to the press or leaving Delhi. Administrative matters included clearing members’ arrears, financing the repair of the party office’s cyclostyling machine through an interest-free advance from C. C. Desai, and arranging a subsequent General Board meeting to discuss the Unlawful Activities Bill and Dr. Ram Subhag Singh’s reply to the Informal Consultative Committees. The document is signed by C. C. Desai as Secretary.
 ---
 
+## Summary
+
+This one-page record from the Swatantra Party Parliamentary Office documents an Executive Committee meeting held on 11 December 1967, issued on 14 December 1967. The committee discussed C. Rajagopalachari’s proposal concerning suspension and implementation of the constitutional provision dealing with official language, deciding that the party’s motion already in circulation should be put to a vote in the House and that M. R. Masani should explain members’ reactions.
+
+The minutes also record a decision to support a calling-attention notice concerning Sheikh Abdullah’s release and restrictions preventing him from speaking to the press or leaving Delhi. Administrative matters included clearing members’ arrears, financing the repair of the party office’s cyclostyling machine through an interest-free advance from C. C. Desai, and arranging a subsequent General Board meeting to discuss the Unlawful Activities Bill and Dr. Ram Subhag Singh’s reply to the Informal Consultative Committees. The document is signed by C. C. Desai as Secretary.
+
 ## Key points
 
 - The Executive Committee meeting took place on 11 December 1967 in the Party Room, Central Hall, Parliament House, New Delhi.

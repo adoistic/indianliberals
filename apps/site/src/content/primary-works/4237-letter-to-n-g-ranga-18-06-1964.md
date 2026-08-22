@@ -48,6 +48,12 @@ summary: |-
   The page presents a brief administrative communication concerning party organisation and electoral scheduling. No further details about the proposed timetable, the party's election process, or the subsequent meeting are visible.
 ---
 
+## Summary
+
+In this letter dated 18 June 1964, M. R. Masani writes to Prof. N. G. Ranga about the Central Organising Committee's forthcoming decision on a programme for Party elections later that year. Masani encloses a draft timetable for Ranga's consideration before the committee meeting.
+
+The page presents a brief administrative communication concerning party organisation and electoral scheduling. No further details about the proposed timetable, the party's election process, or the subsequent meeting are visible.
+
 ## Key points
 
 - The letter is dated 18 June 1964.

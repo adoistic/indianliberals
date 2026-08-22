@@ -52,6 +52,12 @@ summary: |-
   Singh specifically criticises the Steering Committee's “Approach” paper for endorsing agitation over constitutional methods, expanding public distribution of foodgrains, adopting a one-sided labour policy, embracing total planning, and failing to give agriculture sufficient clarity and emphasis. He says the B.L.D. therefore passed an “out-spoken” resolution on May 31, while continuing to seek a larger meeting of the four party leaders. The letter closes by disputing the claim that all opposition leaders favoured merger, citing non-cooperation from Congress (O) units in several states, and insisting that the B.L.D. will not “take a leap in the dark.”
 ---
 
+## Summary
+
+In this three-page letter dated June 25, 1976, Bhanu Pratap Singh explains the Bharatiya Lok Dal's position on the proposed merger of opposition parties. He affirms the party's commitment to a genuine merger but rejects forming a new party without dissolving the existing parties and without agreement on a programme that is more Gandhian than socialist. Singh argues that the merger process has been procedurally defective: the parties should first have jointly drafted and approved a common policy statement before committing themselves to the new organisation.
+
+Singh specifically criticises the Steering Committee's “Approach” paper for endorsing agitation over constitutional methods, expanding public distribution of foodgrains, adopting a one-sided labour policy, embracing total planning, and failing to give agriculture sufficient clarity and emphasis. He says the B.L.D. therefore passed an “out-spoken” resolution on May 31, while continuing to seek a larger meeting of the four party leaders. The letter closes by disputing the claim that all opposition leaders favoured merger, citing non-cooperation from Congress (O) units in several states, and insisting that the B.L.D. will not “take a leap in the dark.”
+
 ## Key points
 
 - Singh reaffirms the B.L.D.'s commitment to a genuine merger of the opposition parties.

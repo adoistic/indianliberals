@@ -52,6 +52,12 @@ summary: |-
   The letter also turns to contemporary liberal politics. It welcomes the recipient's connection with the Swatantra Party and the Forum of Free Enterprise, arguing that Bombay remains insufficiently committed to free enterprise. The writer refers approvingly to A. D. Shroff and Minoo Masani and closes by expressing admiration for the recipient's service and wishing him continued health and longevity.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 9 July 1959 and written from Bombay, congratulates the recipient on reaching the age of 70 and reflects on his public and business career. The writer recalls efforts to establish Bombay's local time and standard time, describes the recipient's association with municipal and civic affairs, and praises his long partnership with Sir Shapurji Broacha from 1890 to 1920.
+
+The letter also turns to contemporary liberal politics. It welcomes the recipient's connection with the Swatantra Party and the Forum of Free Enterprise, arguing that Bombay remains insufficiently committed to free enterprise. The writer refers approvingly to A. D. Shroff and Minoo Masani and closes by expressing admiration for the recipient's service and wishing him continued health and longevity.
+
 ## Key points
 
 - The letter congratulates its recipient on reaching the age of 70.

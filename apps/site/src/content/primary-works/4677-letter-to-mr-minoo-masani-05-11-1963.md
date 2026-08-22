@@ -48,6 +48,12 @@ summary: |-
   Rajagopalachari also comments on the Swatantra Party's forthcoming National Convention. He recommends a practical, business-like meeting with little ceremony, argues that delegates should bear their own expenses, and says that a smaller but representative gathering is preferable to a large one. He notes that Bombay is the only feasible venue, while acknowledging that party members may hold differing views about the timing. The letter closes by observing that Masani has attracted international attention over Taiwan and that Jawaharlal Nehru is defending his freedom in India.
 ---
 
+## Summary
+
+In this letter dated 5 November 1963, C. Rajagopalachari writes to M. R. Masani about his forthcoming visit to Delhi and a proposed evening gathering commemorating the Moral Rearmament movement at the request of his grandson, Ramohan Gandhi. He is coordinating the date around a possible Andrews lecture at St Stephen's College and asks Masani's organization sub-committee to fix a convenient convention hour on Sunday, 24 November.
+
+Rajagopalachari also comments on the Swatantra Party's forthcoming National Convention. He recommends a practical, business-like meeting with little ceremony, argues that delegates should bear their own expenses, and says that a smaller but representative gathering is preferable to a large one. He notes that Bombay is the only feasible venue, while acknowledging that party members may hold differing views about the timing. The letter closes by observing that Masani has attracted international attention over Taiwan and that Jawaharlal Nehru is defending his freedom in India.
+
 ## Key points
 
 - Rajagopalachari plans to be in Delhi on 24 November 1963 for a Moral Rearmament gathering.

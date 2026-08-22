@@ -47,6 +47,10 @@ summary: |-
   This one-page letter, dated July 26, 1974, is written by P. Narayan on Swatantra Party Maharashtra letterhead to Madhu Mehta. Narayan explains that Mehta had not received a reply to his resignation letter as President of the Swatantra Party, Maharashtra.
 ---
 
+## Summary
+
+This one-page letter, dated July 26, 1974, is written by P. Narayan on Swatantra Party Maharashtra letterhead to Madhu Mehta. Narayan explains that Mehta had not received a reply to his resignation letter as President of the Swatantra Party, Maharashtra.
+
 ## Key points
 
 - The letter is dated July 26, 1974, and was issued from the Swatantra Party Maharashtra office in Bombay.

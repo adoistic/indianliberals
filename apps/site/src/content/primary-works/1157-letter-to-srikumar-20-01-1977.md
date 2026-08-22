@@ -48,6 +48,12 @@ summary: |-
   The message is a bare operational reply — no argument, no reasoning offered beyond regret. It documents a moment of party correspondence during the Emergency period, in which Masani, one of the founders of the Swatantra Party, maintains routine contact with the party's Madras headquarters while declining to travel south.
 ---
 
+## Summary
+
+This single-page item is a telegram confirmation copy sent by Minoo Masani on 20 January 1977 to V. S. Srikumar, Joint Secretary of the Swatantra Party National Headquarters at 10-A, Flowers Road, Madras. Acknowledging Srikumar's telegram of the nineteenth, Masani declines a proposed visit to Madras on the twenty-fifth of the month.
+
+The message is a bare operational reply — no argument, no reasoning offered beyond regret. It documents a moment of party correspondence during the Emergency period, in which Masani, one of the founders of the Swatantra Party, maintains routine contact with the party's Madras headquarters while declining to travel south.
+
 ## Key points
 
 - Telegram from Minoo Masani to V. S. Srikumar, dated 20 January 1977.

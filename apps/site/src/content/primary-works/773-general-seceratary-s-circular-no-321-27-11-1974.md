@@ -58,6 +58,12 @@ summary: |-
   The enclosed resolutions of the Swatantra Party’s National General Council, meeting in Madras on December 8, 1974, declare the August convention’s dissolution resolution illegal and affirm the party’s continuing right to its name, flag, symbol, assets, and properties. They reorganise party offices and state units, shift headquarters from Bombay to Madras, and support Jayaprakash Narayan’s movement against corruption and nepotism. The final resolution criticises the ruling Congress’s 13-point programme at Narora as populist and ineffective, particularly for concentrating on distribution while neglecting production.
 ---
 
+## Summary
+
+This four-page English circular, issued by Swatantra Party General Secretary Girish Munshi on November 27, 1974, reports on the party’s response to the August 1974 National Convention. Munshi argues that the convention’s attempted dissolution or merger abandoned the party’s founding ideology, as articulated in Piloo Mody’s June letter, in favour of a programme-based national alternative. He invokes C. Rajagopalachari’s final appeal to keep the party alive and announces a decision to rebuild it from the grassroots as a party representing workers, farmers, small traders, businessmen, and village artisans, while opposing despotism, corruption, nepotism, and an over-powerful state.
+
+The enclosed resolutions of the Swatantra Party’s National General Council, meeting in Madras on December 8, 1974, declare the August convention’s dissolution resolution illegal and affirm the party’s continuing right to its name, flag, symbol, assets, and properties. They reorganise party offices and state units, shift headquarters from Bombay to Madras, and support Jayaprakash Narayan’s movement against corruption and nepotism. The final resolution criticises the ruling Congress’s 13-point programme at Narora as populist and ineffective, particularly for concentrating on distribution while neglecting production.
+
 ## Key points
 
 - The circular rejects the August 1974 convention’s attempt to dissolve or merge the Swatantra Party.

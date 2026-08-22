@@ -51,6 +51,12 @@ summary: |-
   The committee decided to co-opt Faiz Noorani, A. R. Ramakishore, and Sosan Pandey; received a report on resolutions passed at the Swatantra Party's General Council meeting in Madras; and heard that well-attended meetings in Mazagaon and Matunga had been organised for Rajaji's 96th birthday. Members were reminded about enrolment and renewal of membership, while the General Secretary was authorised to arrange a demonstration on 28 December during the Prime Minister's visit to Bombay. The meeting ended at approximately 6:30 p.m. with a vote of thanks to the chair.
 ---
 
+## Summary
+
+This one-page office record documents the 21 December 1974 meeting of the Swatantra Party's Maharashtra Executive Committee at the party office in Bombay. It lists the members present, those attending by invitation, and members granted leave of absence, with Mr. Parmanand Kejriwal identified as chair. The previous meeting's minutes were read and confirmed, and the committee discussed a proposed symposium on the milk scheme, noting the government's issuance of more milk cards and the continuing issue of price variation.
+
+The committee decided to co-opt Faiz Noorani, A. R. Ramakishore, and Sosan Pandey; received a report on resolutions passed at the Swatantra Party's General Council meeting in Madras; and heard that well-attended meetings in Mazagaon and Matunga had been organised for Rajaji's 96th birthday. Members were reminded about enrolment and renewal of membership, while the General Secretary was authorised to arrange a demonstration on 28 December during the Prime Minister's visit to Bombay. The meeting ended at approximately 6:30 p.m. with a vote of thanks to the chair.
+
 ## Key points
 
 - The Maharashtra Executive Committee met in Bombay on 21 December 1974 under the chairmanship of Parmanand Kejriwal.

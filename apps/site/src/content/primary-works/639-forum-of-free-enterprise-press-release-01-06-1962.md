@@ -54,6 +54,10 @@ summary: |-
   This two-page press release reports M. R. Masani’s speech, delivered under the auspices of the Forum of Free Enterprise, on taxation in a planned economy. The speech argues that planning should first secure every household’s basic needs—food, clothing, and shelter—and that taxation should support economic development and social justice rather than penalize saving, investment, production, and consumption. Masani emphasizes that production must precede distribution, while fiscal resources should be directed toward irrigation, power, fuel, communications, and education.
 ---
 
+## Summary
+
+This two-page press release reports M. R. Masani’s speech, delivered under the auspices of the Forum of Free Enterprise, on taxation in a planned economy. The speech argues that planning should first secure every household’s basic needs—food, clothing, and shelter—and that taxation should support economic development and social justice rather than penalize saving, investment, production, and consumption. Masani emphasizes that production must precede distribution, while fiscal resources should be directed toward irrigation, power, fuel, communications, and education.
+
 ## Key points
 
 - Masani links the legitimacy of planning to providing households with basic necessities and expanding employment.

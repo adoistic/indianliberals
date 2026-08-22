@@ -53,6 +53,12 @@ summary: |-
   Seshadri appeals directly to Masani as a leader capable of resolving the crisis. He invokes Rajaji and Masani’s own past leadership, describes the party as suffering from “complexes,” and asks Masani to take up the party’s leadership in order to save its image and its cause. The surviving second side continues this appeal, asking Masani to meet or consult party workers and to help rebuild the organisation. The letter is a political intervention focused on party unity, leadership, and organisational renewal.
 ---
 
+## Summary
+
+This handwritten letter, dated 30 May 1974, is from Dr. A. Seshadri, a State Council Member of the Tamil Nad Swatantra Party, to M. R. Masani. Seshadri reports that the Swatantra Party’s workers and sympathisers in Chingleput district are deeply upset by the proposed decision to merge the party with another organisation and form a new party. He argues that the party’s effective leadership has been weakened by years of division and by people occupying positions in the government, and he urges Masani to reconsider the course being taken.
+
+Seshadri appeals directly to Masani as a leader capable of resolving the crisis. He invokes Rajaji and Masani’s own past leadership, describes the party as suffering from “complexes,” and asks Masani to take up the party’s leadership in order to save its image and its cause. The surviving second side continues this appeal, asking Masani to meet or consult party workers and to help rebuild the organisation. The letter is a political intervention focused on party unity, leadership, and organisational renewal.
+
 ## Key points
 
 - The writer identifies himself as a State Council Member of the Tamil Nad Swatantra Party.

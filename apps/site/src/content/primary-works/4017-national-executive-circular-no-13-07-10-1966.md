@@ -49,6 +49,10 @@ summary: |-
   This one-page English office circular, issued by the Swatantra Party Central Office in Bombay on 7 October 1966, informs party members that the next meeting of the National Executive will take place in New Delhi on Sunday, 6 November. It explains that the detailed agenda and related information will be circulated later, while providing the date early so recipients can arrange their travel and plans.
 ---
 
+## Summary
+
+This one-page English office circular, issued by the Swatantra Party Central Office in Bombay on 7 October 1966, informs party members that the next meeting of the National Executive will take place in New Delhi on Sunday, 6 November. It explains that the detailed agenda and related information will be circulated later, while providing the date early so recipients can arrange their travel and plans.
+
 ## Key points
 
 - The document is National Executive Circular No. 13 of the Swatantra Party.

@@ -48,6 +48,12 @@ summary: |-
   The letter encloses two documents: Masani's opening remarks at the preparatory convention of the Swatantra Party, held in Bombay in August, and the party's Statement of Principles. The substantive contents of those enclosures are not included in the rendered page; the document therefore records their transmission rather than presenting their arguments.
 ---
 
+## Summary
+
+This one-page English letter, dated 17 September 1959, is from Miss B.S. Mirza, identified as secretary to M.R. Masani, to Mr. T.P. Daver in Belgaum. It acknowledges Daver's letter of 4 August and conveys Masani's thanks for the good wishes expressed in it.
+
+The letter encloses two documents: Masani's opening remarks at the preparatory convention of the Swatantra Party, held in Bombay in August, and the party's Statement of Principles. The substantive contents of those enclosures are not included in the rendered page; the document therefore records their transmission rather than presenting their arguments.
+
 ## Key points
 
 - The letter is dated 17 September 1959.

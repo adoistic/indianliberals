@@ -46,6 +46,10 @@ summary: |-
   This single-page English document is an express telegram sent by “MASANI” from 143 Mahatma Gandhi Road, Bombay, to C. Rajagopalachari at 60 Bazullah Road, Madras. Dated 11.1.62, it asks for a reply to an earlier letter and refers to the forwarding of extracts from draft minutes. The page contains no salutation, closing, or further explanation of the matter under discussion.
 ---
 
+## Summary
+
+This single-page English document is an express telegram sent by “MASANI” from 143 Mahatma Gandhi Road, Bombay, to C. Rajagopalachari at 60 Bazullah Road, Madras. Dated 11.1.62, it asks for a reply to an earlier letter and refers to the forwarding of extracts from draft minutes. The page contains no salutation, closing, or further explanation of the matter under discussion.
+
 ## Key points
 
 - The document is physically an express telegram, although the metadata classifies it as a letter because no telegram category is available.

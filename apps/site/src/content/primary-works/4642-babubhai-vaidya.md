@@ -55,6 +55,12 @@ summary: |-
   The note emphasizes Vaidya’s active support for Swatantra candidates during the February 1967 elections, his reputation in Saurashtra, and his role as a forceful Gujarati speaker. It characterizes him as Gandhian, committed to social work among Harijans and underprivileged groups, and a pacifist who nevertheless distinguished himself from communists and affirmed individual liberty. The page also states that, if elected to the Rajya Sabha, Vaidya would retain an open relationship with the Swatantra Party while cooperating with and morally supporting its members. The document ends on this page; no publication or authorship information is visible.
 ---
 
+## Summary
+
+The page presents a biographical and political note on Babubhai Vaidya, described as the leader of the Independent Progressive Group in the Gujarat Assembly for at least five years. The group had approximately ten or eleven members, several of whom—including Yuvraj Manvijaysinhji of Wankaner, Yuvraj Dhananjaysinhji of Rajkot, Prince Shivbhadrasinhji of Bhavnagar, and Ratibhai Ukhabhai Patel—joined the Swatantra Party at the end of 1966 with Vaidya’s approval, after which he dissolved the group.
+
+The note emphasizes Vaidya’s active support for Swatantra candidates during the February 1967 elections, his reputation in Saurashtra, and his role as a forceful Gujarati speaker. It characterizes him as Gandhian, committed to social work among Harijans and underprivileged groups, and a pacifist who nevertheless distinguished himself from communists and affirmed individual liberty. The page also states that, if elected to the Rajya Sabha, Vaidya would retain an open relationship with the Swatantra Party while cooperating with and morally supporting its members. The document ends on this page; no publication or authorship information is visible.
+
 ## Key points
 
 - Babubhai Vaidya led the Independent Progressive Group in the Gujarat Assembly for at least five years.

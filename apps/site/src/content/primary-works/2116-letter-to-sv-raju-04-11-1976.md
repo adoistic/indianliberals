@@ -49,6 +49,10 @@ summary: |-
   This two-page letter, dated 4 November 1976 and written by V. S. S. Kumar in his capacity as Joint Secretary of the Swatantra Party, is addressed to S. V. Raju. Kumar thanks Raju for sending a photostat report from The Statesman on the party’s special conference concerning the 44th Constitutional Amendment Bill. He argues that the conference’s clear opposition to the amendment had attracted attention from the Prime Minister and had provoked Gopal Krishna Gokhale to refer to the party.
 ---
 
+## Summary
+
+This two-page letter, dated 4 November 1976 and written by V. S. S. Kumar in his capacity as Joint Secretary of the Swatantra Party, is addressed to S. V. Raju. Kumar thanks Raju for sending a photostat report from The Statesman on the party’s special conference concerning the 44th Constitutional Amendment Bill. He argues that the conference’s clear opposition to the amendment had attracted attention from the Prime Minister and had provoked Gopal Krishna Gokhale to refer to the party.
+
 ## Key points
 
 - The letter concerns the Swatantra Party’s special conference on the 44th Constitutional Amendment Bill.

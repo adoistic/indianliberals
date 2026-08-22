@@ -48,6 +48,12 @@ summary: |-
   Raju also notes that he has sent a similar reply to a telegraphic request concerning the District Workers' Conference. The letter is an administrative exchange focused on coordinating party meetings and responding to organizational correspondence; handwritten marginalia are visible on the page but are not part of the typed letter.
 ---
 
+## Summary
+
+In this typed letter dated January 17, 1970, S. V. Raju replies to Mr. Chaudhuri R. Iqbal about arrangements for the Swatantra Party's District Workers' Conference and the meeting of the State Executive at Rourkela on February 9 and 10. Raju explains that the relevant party office-holder is abroad until January 23 and promises to attend to Iqbal's requests after his return.
+
+Raju also notes that he has sent a similar reply to a telegraphic request concerning the District Workers' Conference. The letter is an administrative exchange focused on coordinating party meetings and responding to organizational correspondence; handwritten marginalia are visible on the page but are not part of the typed letter.
+
 ## Key points
 
 - The letter is dated January 17, 1970, and is signed by S. V. Raju.

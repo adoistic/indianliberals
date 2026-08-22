@@ -58,6 +58,12 @@ summary: |-
   In the rendered pages, the petition argues that the refusal to permit these stations violates Articles 14, 19(1)(a), and 19(1)(g) of the Constitution. It maintains that freedom of speech and expression includes the ability to communicate through radio and television, and that restrictions must be imposed by law, be reasonable, and fall within the purposes listed in Article 19(2). In the rendered pages, the petition further contends that the Indian Wireless Telegraphy Act, 1933 and the Indian Telegraph Act, 1885 regulate apparatus and licensing but do not authorise an exclusive state broadcasting monopoly. It seeks declarations that the monopoly and refusal of a licence are unconstitutional, together with a writ directing the respondents to withdraw the refusal and permit the proposed stations.
 ---
 
+## Summary
+
+In the rendered pages, this writ petition before the Bombay High Court challenges the Union Government’s monopoly over radio and television broadcasting through All India Radio and Doordarshan. Minoo R. Masani and P. C. Chatterjee state that they sought permission to establish independent medium-power radio and television stations in Bombay and the western region, operating alongside the government services. The petition presents the proposal as an effort to supplement government broadcasting with objective, non-official news and information rather than to acquire or operate a private wireless transmitter alone.
+
+In the rendered pages, the petition argues that the refusal to permit these stations violates Articles 14, 19(1)(a), and 19(1)(g) of the Constitution. It maintains that freedom of speech and expression includes the ability to communicate through radio and television, and that restrictions must be imposed by law, be reasonable, and fall within the purposes listed in Article 19(2). In the rendered pages, the petition further contends that the Indian Wireless Telegraphy Act, 1933 and the Indian Telegraph Act, 1885 regulate apparatus and licensing but do not authorise an exclusive state broadcasting monopoly. It seeks declarations that the monopoly and refusal of a licence are unconstitutional, together with a writ directing the respondents to withdraw the refusal and permit the proposed stations.
+
 ## Key points
 
 - In the rendered pages, the petitioners identify themselves as Minoo R. Masani, a former parliamentarian and advocate of individual freedom, and P. C. Chatterjee, a former Director-General of All India Radio.

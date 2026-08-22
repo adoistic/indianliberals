@@ -53,6 +53,12 @@ summary: |-
   The note focuses on equal application of tax law and demands clarification of the punitive action taken against each defaulting minister. It contrasts the reported treatment of ministers with that of ordinary citizens and calls for a categorical assurance that the government is “no respecter of persons.” The document closes with Desai’s request for an early reply because of the matter’s “great public importance.”
 ---
 
+## Summary
+
+This one-page Swatantra Party press note, issued on September 16, 1969, reproduces a letter from Dr. C. C. Desai to Prime Minister Indira Gandhi concerning alleged failures by Union Ministers to submit income-tax and wealth-tax returns. Desai refers to an earlier question in the Rajya Sabha, his correspondence with the Finance Minister, and a reply from Minister of State P. C. Sethi stating that assessments and penalty notices were being processed.
+
+The note focuses on equal application of tax law and demands clarification of the punitive action taken against each defaulting minister. It contrasts the reported treatment of ministers with that of ordinary citizens and calls for a categorical assurance that the government is “no respecter of persons.” The document closes with Desai’s request for an early reply because of the matter’s “great public importance.”
+
 ## Key points
 
 - The press note reproduces a letter by Dr. C. C. Desai, identified as Secretary of the Swatantra Party in Parliament.

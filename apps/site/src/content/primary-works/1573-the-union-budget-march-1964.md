@@ -61,3 +61,7 @@ ai:
 summary: |-
   Issue No. 42 of the Swatantra Newsletter, dated March 1964 and issued by the Central Office of the Swatantra Party in Bombay, presents the party's criticisms of the Union Budget, economic planning, foreign policy, parliamentary administration, state governments, corruption, and the continuing Emergency. Its dominant argument is that Congress-led centralisation and socialist planning have weakened economic growth, civil liberties, accountable government, and India's strategic position. The issue combines editorial reports, correspondence, regional political notes, and extracts from speeches by Swatantra Party parliamentarians.
 ---
+
+## Summary
+
+Issue No. 42 of the Swatantra Newsletter, dated March 1964 and issued by the Central Office of the Swatantra Party in Bombay, presents the party's criticisms of the Union Budget, economic planning, foreign policy, parliamentary administration, state governments, corruption, and the continuing Emergency. Its dominant argument is that Congress-led centralisation and socialist planning have weakened economic growth, civil liberties, accountable government, and India's strategic position. The issue combines editorial reports, correspondence, regional political notes, and extracts from speeches by Swatantra Party parliamentarians.

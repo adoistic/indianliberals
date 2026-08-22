@@ -51,6 +51,12 @@ summary: |-
   The enclosure, written on the letterhead of the Hindi daily Sainik in Agra, identifies Paliwal as a former Finance Minister of Uttar Pradesh and leader and president of the Independent Peoples Progressive Party, U.P. Its handwritten budget lists proposed expenditure on office superintendence, Hindi and English stationery, office rent, miscellaneous costs, travel, stationery and postage, touring, publicity and propaganda, telephone, paper, and newspaper funds. The pages document an early organizational and fundraising communication connected with the U.P. Swatantra Party.
 ---
 
+## Summary
+
+This 21 September 1959 letter from K. M. Munshi to Homi Mody transmits an enclosed letter from S. K. D. Paliwal concerning financial support for the U.P. Swatantra Party. Munshi asks Mody to take action on the request and identifies the enclosure as a letter accompanied by a party budget.
+
+The enclosure, written on the letterhead of the Hindi daily Sainik in Agra, identifies Paliwal as a former Finance Minister of Uttar Pradesh and leader and president of the Independent Peoples Progressive Party, U.P. Its handwritten budget lists proposed expenditure on office superintendence, Hindi and English stationery, office rent, miscellaneous costs, travel, stationery and postage, touring, publicity and propaganda, telephone, paper, and newspaper funds. The pages document an early organizational and fundraising communication connected with the U.P. Swatantra Party.
+
 ## Key points
 
 - K. M. Munshi wrote to Homi Mody from Bharatiya Vidya Bhavan in New Delhi on September 21, 1959.

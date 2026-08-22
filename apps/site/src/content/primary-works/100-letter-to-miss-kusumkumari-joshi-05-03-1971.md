@@ -48,6 +48,12 @@ summary: |-
   Masani credits Kusumben, Harish Chinoy and their Gondal colleagues with the campaign's drive, saying that if Gondal delivers a good result it will largely be down to their work. He asks her to overlook the moments when he had to "curb" her enthusiasm, explaining that those restraints were forced on him by the campaign's shortage of resources: obligations already undertaken for which no funds remain "come to quite a large amount", and he is now personally engaged in trying to meet them. He closes by expressing deep gratitude for her assistance and loyal cooperation, and — having not heard back from her — sends the letter to her Gondal address rather than waiting to see her in Bombay.
 ---
 
+## Summary
+
+A short post-campaign thank-you letter from Minoo Masani, dated 5th March 1971, addressed to Miss Kusumakumari Joshi ("Kusumben"), an advocate based in Gondal (Rajkot district). Having already written to visiting speakers and outside supporters, Masani turns to his "good friends in Rajkot" and tells Kusumben she is the first of them to receive such a letter, aside from a parallel note to Jairam Patel.
+
+Masani credits Kusumben, Harish Chinoy and their Gondal colleagues with the campaign's drive, saying that if Gondal delivers a good result it will largely be down to their work. He asks her to overlook the moments when he had to "curb" her enthusiasm, explaining that those restraints were forced on him by the campaign's shortage of resources: obligations already undertaken for which no funds remain "come to quite a large amount", and he is now personally engaged in trying to meet them. He closes by expressing deep gratitude for her assistance and loyal cooperation, and — having not heard back from her — sends the letter to her Gondal address rather than waiting to see her in Bombay.
+
 ## Key points
 
 - One-page personal letter from Minoo Masani (signing as M. R. Masani) to Miss Kusumakumari Joshi of Gondal, dated 5th March 1971 — written in the immediate aftermath of an election campaign.

@@ -50,6 +50,12 @@ summary: |-
   The letter also covers practical organisational matters: papers for a suit in Delhi, an unresolved electricity problem, and an offer of employment or assistance from Subramaniam for no more than Rs. 3,000, which Raju says he declined. The page presents Raju as coordinating political and personal tasks with Munshi, whom he calls a joint secretary.
 ---
 
+## Summary
+
+In this letter dated May 22, 1975, S. V. Raju writes to Girish Munshi about preparations for the forthcoming general election and the question of how actively they should participate. He proposes arranging a meeting in Bombay with Jayaprakash Narayan and others, and argues that a holiday should be used to continue political discussions rather than merely change location. Raju also says that compelling Jayaprakash Narayan to take the lead in forming a new party, with a minimum programme promising good and clean government, is necessary. He plans to write to Narayan and gather the manifestos of the parties listed by the Election Commission.
+
+The letter also covers practical organisational matters: papers for a suit in Delhi, an unresolved electricity problem, and an offer of employment or assistance from Subramaniam for no more than Rs. 3,000, which Raju says he declined. The page presents Raju as coordinating political and personal tasks with Munshi, whom he calls a joint secretary.
+
 ## Key points
 
 - Raju discusses the forthcoming general election and the extent of their participation.

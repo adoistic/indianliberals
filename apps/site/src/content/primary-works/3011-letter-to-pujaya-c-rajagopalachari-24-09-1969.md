@@ -52,6 +52,12 @@ summary: |-
   Somani instead emphasizes the severely debilitated state of public transport and urges that available funds be diverted toward mass-transit systems. The letter records a policy argument contrasting private automobile production with public transportation investment; it is copied to Minoo Masani and Piloo Mody and includes an enclosure whose contents are not visible in the rendered page.
 ---
 
+## Summary
+
+In this letter dated September 24, 1969, N. K. Somani writes to C. Rajagopalachari (“Rajaji”) after reviewing Rajagopalachari’s views on India’s automobile industry. Somani refers to a Parliamentary Consultative Committee attached to the Ministry of Industrial Development and argues that, under India’s prevailing economic conditions, manufacturing cars for private consumption cannot be justified.
+
+Somani instead emphasizes the severely debilitated state of public transport and urges that available funds be diverted toward mass-transit systems. The letter records a policy argument contrasting private automobile production with public transportation investment; it is copied to Minoo Masani and Piloo Mody and includes an enclosure whose contents are not visible in the rendered page.
+
 ## Key points
 
 - The letter is dated September 24, 1969, and is sent by N. K. Somani from Bombay to C. Rajagopalachari.

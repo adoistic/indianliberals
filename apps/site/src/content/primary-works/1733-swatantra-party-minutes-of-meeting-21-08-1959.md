@@ -53,6 +53,12 @@ summary: |-
   The committee’s organisational programme included regular public meetings, training and briefing for prospective speakers, fund-raising, publicity, and the production of a convention handbook. It planned to establish a Labour Section to attract working-class support, approved weekly internal meetings and weekend seminars for organisers, and reviewed a bank balance of approximately Rs. 85,000, subject to outstanding cheques. The minutes also state that trade unions and groups could not affiliate as organisations, although their members were welcome to join individually. The final page records plans for a 2 October Gandhi Jayanti symposium on “The Life and Teachings of Gandhiji,” with Jayaprakash Narayan proposed as chairman or principal speaker.
 ---
 
+## Summary
+
+These three pages record the 21 August 1959 meeting of the Swatantra Party’s Organising Committee for Greater Bombay, chaired by M. R. Masani. The committee confirmed the previous minutes, thanked J. M. Patel for supplying 10,000 membership forms, and appointed a sub-committee to select a full-time Executive Secretary. It also discussed multilingual membership forms, constituency organisation, enrolment centres, volunteer expenses, and a fixed one-rupee membership fee, with additional sums to be treated separately as donations.
+
+The committee’s organisational programme included regular public meetings, training and briefing for prospective speakers, fund-raising, publicity, and the production of a convention handbook. It planned to establish a Labour Section to attract working-class support, approved weekly internal meetings and weekend seminars for organisers, and reviewed a bank balance of approximately Rs. 85,000, subject to outstanding cheques. The minutes also state that trade unions and groups could not affiliate as organisations, although their members were welcome to join individually. The final page records plans for a 2 October Gandhi Jayanti symposium on “The Life and Teachings of Gandhiji,” with Jayaprakash Narayan proposed as chairman or principal speaker.
+
 ## Key points
 
 - The Greater Bombay Organising Committee met on 21 August 1959 under the chairmanship of M. R. Masani.

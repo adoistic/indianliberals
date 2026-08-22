@@ -49,6 +49,12 @@ summary: |-
   The circular instructs all party members not to participate in the committees’ deliberations and to submit their resignations from the committees to the Department of Parliamentary Affairs. It is signed by K. P. Singh Deo, identified as the Party’s Whip, and addressed to all members.
 ---
 
+## Summary
+
+This one-page English circular, issued by the Swatantra Party Parliamentary Office in New Delhi on 3 May 1968, communicates a decision taken by the Party’s Executive Committee on 2 May. It states that all Opposition Parties would continue their boycott of the Informal Consultative Committees.
+
+The circular instructs all party members not to participate in the committees’ deliberations and to submit their resignations from the committees to the Department of Parliamentary Affairs. It is signed by K. P. Singh Deo, identified as the Party’s Whip, and addressed to all members.
+
 ## Key points
 
 - The circular was issued by the Swatantra Party Parliamentary Office on 3 May 1968.

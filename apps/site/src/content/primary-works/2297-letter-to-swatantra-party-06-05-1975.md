@@ -45,6 +45,10 @@ summary: |-
   This one-page English letter, dated 6 May 1975, was issued by Eastley Lam & Co., Solicitors & Notary, in Bombay, to the Swatantra Party of Maharashtra. The firm states that it is forwarding, for the party’s information and records, a copy of a letter sent on the party’s behalf to Shri Piloo Mody.
 ---
 
+## Summary
+
+This one-page English letter, dated 6 May 1975, was issued by Eastley Lam & Co., Solicitors & Notary, in Bombay, to the Swatantra Party of Maharashtra. The firm states that it is forwarding, for the party’s information and records, a copy of a letter sent on the party’s behalf to Shri Piloo Mody.
+
 ## Key points
 
 - The document is dated 6 May 1975.

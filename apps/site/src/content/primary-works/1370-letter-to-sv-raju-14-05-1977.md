@@ -50,6 +50,10 @@ summary: |-
   This two-page letter from Dr. Yalamanchili Sivaji to “Raju,” dated 14 May 1976 in Guntur, recounts his detention and repeated efforts by the authorities to keep him imprisoned. Sivaji describes detention orders issued and revoked on technical grounds, proceedings before the Andhra Pradesh High Court, a habeas corpus petition transferred to a Full Bench, and his eventual release after the Government could not defend the detention in court. He presents the episode as a pattern of administrative evasion and encroachment on judicial authority during the Emergency.
 ---
 
+## Summary
+
+This two-page letter from Dr. Yalamanchili Sivaji to “Raju,” dated 14 May 1976 in Guntur, recounts his detention and repeated efforts by the authorities to keep him imprisoned. Sivaji describes detention orders issued and revoked on technical grounds, proceedings before the Andhra Pradesh High Court, a habeas corpus petition transferred to a Full Bench, and his eventual release after the Government could not defend the detention in court. He presents the episode as a pattern of administrative evasion and encroachment on judicial authority during the Emergency.
+
 ## Key points
 
 - Sivaji describes his detention beginning on 25 June and the successive detention orders served on him.

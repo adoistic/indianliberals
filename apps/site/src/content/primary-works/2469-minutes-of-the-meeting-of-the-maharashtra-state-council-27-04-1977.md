@@ -54,6 +54,12 @@ summary: |-
   The merger discussion exposed concerns about the Janata Party's lack of ideological clarity, the treatment of Swatantra workers, and the danger that dissolution would prevent the emergence of a genuine two-party system. Because the party constitution contained no provision for dissolution, the Council deferred ratification of the merger resolution, chose to wait for further developments, permitted members to join Janata by resigning from Swatantra, and suspended political activity temporarily. It also decided to send token observers to the Janata Party's Delhi Convention, led by Girish Munshi. The rendered document contains the complete two-page meeting record.
 ---
 
+## Summary
+
+These two pages record the Maharashtra State Council of the Swatantra Party meeting in Bombay on April 27, 1977. After confirming the previous minutes, the Council considered National Executive resolutions concerning the Rajaji Trust and a proposed merger with the Janata Party. Members welcomed the Trust as a means of continuing to propagate the party's ideological philosophy as associated with C. Rajagopalachari (Rajaji), Minoo Masani, and others, while noting that parts of the Janata Party manifesto did not accord with Swatantra thinking.
+
+The merger discussion exposed concerns about the Janata Party's lack of ideological clarity, the treatment of Swatantra workers, and the danger that dissolution would prevent the emergence of a genuine two-party system. Because the party constitution contained no provision for dissolution, the Council deferred ratification of the merger resolution, chose to wait for further developments, permitted members to join Janata by resigning from Swatantra, and suspended political activity temporarily. It also decided to send token observers to the Janata Party's Delhi Convention, led by Girish Munshi. The rendered document contains the complete two-page meeting record.
+
 ## Key points
 
 - The Maharashtra State Council met in Bombay on April 27, 1977, with Parmanand Kejriwal in the chair.

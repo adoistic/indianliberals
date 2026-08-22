@@ -51,6 +51,12 @@ summary: |-
   Jain asks Masani to clarify whether he is likely to visit Turkey during the winter, since Jain has not yet received an invitation to the Istanbul meeting and needs to plan his passport and visa arrangements. He also encloses a letter concerning a Private Member's Resolution addressed to the Lok Sabha Secretariat and asks Masani to sign and return it. The document is an administrative correspondence item rather than a substantive statement of policy.
 ---
 
+## Summary
+
+This one-page letter, dated October 23, 1964, is sent by A.P. Jain from the Swatantra Party Parliamentary Office to Minoo Masani. Jain reports that he has begun work on the parliamentary constituencies for the next General Elections and hopes to complete his report before the next session of Parliament begins. He is also seeking two copies of Volume I of the report on the Third General Elections from the Government of India's Publications Division, to be sent to Mr. Bhatia.
+
+Jain asks Masani to clarify whether he is likely to visit Turkey during the winter, since Jain has not yet received an invitation to the Istanbul meeting and needs to plan his passport and visa arrangements. He also encloses a letter concerning a Private Member's Resolution addressed to the Lok Sabha Secretariat and asks Masani to sign and return it. The document is an administrative correspondence item rather than a substantive statement of policy.
+
 ## Key points
 
 - A.P. Jain writes from the Swatantra Party Parliamentary Office to Minoo Masani on October 23, 1964.

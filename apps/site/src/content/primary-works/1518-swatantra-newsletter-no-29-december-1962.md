@@ -57,3 +57,7 @@ ai:
 summary: |-
   This December 1962 issue of the Swatantra Newsletter documents the party's response to the Chinese invasion and the National Emergency. Its central position is that India must mobilise fully for defence, accept military assistance from friendly countries, reconsider non-alignment, improve relations with Pakistan and Nepal, and pursue a more effective military and administrative strategy. At the same time, the issue insists that emergency powers must not extinguish parliamentary government, civil liberties, fundamental rights, press freedom, or the Rule of Law. It supports scrutiny of the Defence of India Ordinance and Bill while recording opposition concerns about the Government's preparedness and the possible misuse of extraordinary powers.
 ---
+
+## Summary
+
+This December 1962 issue of the Swatantra Newsletter documents the party's response to the Chinese invasion and the National Emergency. Its central position is that India must mobilise fully for defence, accept military assistance from friendly countries, reconsider non-alignment, improve relations with Pakistan and Nepal, and pursue a more effective military and administrative strategy. At the same time, the issue insists that emergency powers must not extinguish parliamentary government, civil liberties, fundamental rights, press freedom, or the Rule of Law. It supports scrutiny of the Defence of India Ordinance and Bill while recording opposition concerns about the Government's preparedness and the possible misuse of extraordinary powers.

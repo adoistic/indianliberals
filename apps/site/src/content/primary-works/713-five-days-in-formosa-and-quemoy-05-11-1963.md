@@ -60,6 +60,12 @@ summary: |-
   The speech then turns to Taiwan’s political and strategic position. Masani praises the existence of opposition parties, parliamentary debate, freedom of the press, and public criticism of the government, while acknowledging restrictions on civil liberty and the absence of national elections until the mainland is recovered. He discusses Taiwan’s military importance, the defensive role of Quemoy and Matsu, the weakness he attributes to Communist China’s industrial and military systems, and the uncertain Sino-Soviet relationship. The concluding argument is for an India–Taiwan relationship conducted by individuals, journalists, businesses, and civil society even without formal diplomatic recognition, alongside a distinction between the Chinese people and the Communist regime in Peking.
 ---
 
+## Summary
+
+In this speech, delivered in Bombay on 5 November 1963 after a five-day visit to Taiwan and Quemoy, M. R. Masani presents Taiwan as a striking example of economic development combined with political freedom. He describes land reform, intensive agricultural production, expanding industry, improved transport and communications, near-universal schooling, and rising living standards. He attributes Taiwan’s agricultural success especially to rent control, the transfer of land to tenant farmers, compensation for dispossessed landlords, substantial capital investment, and the expansion from single-crop farming to multiple annual crops. He also notes Taiwan’s agricultural exchanges with Asian and African countries and its role in training farmers and agricultural experts.
+
+The speech then turns to Taiwan’s political and strategic position. Masani praises the existence of opposition parties, parliamentary debate, freedom of the press, and public criticism of the government, while acknowledging restrictions on civil liberty and the absence of national elections until the mainland is recovered. He discusses Taiwan’s military importance, the defensive role of Quemoy and Matsu, the weakness he attributes to Communist China’s industrial and military systems, and the uncertain Sino-Soviet relationship. The concluding argument is for an India–Taiwan relationship conducted by individuals, journalists, businesses, and civil society even without formal diplomatic recognition, alongside a distinction between the Chinese people and the Communist regime in Peking.
+
 ## Key points
 
 - Masani reports that Taiwan combines economic growth with political freedoms that he considers unusually extensive in Asia.

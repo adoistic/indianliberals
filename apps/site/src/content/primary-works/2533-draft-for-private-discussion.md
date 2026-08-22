@@ -53,6 +53,12 @@ summary: |-
   The document urges the Party to define its opposition to Chinese aggression, mobilise public opinion, strengthen national defence, secure finance and military assistance where necessary, and establish friendlier relations with Pakistan to protect India’s western border while it faces pressure from the north. It rejects reliance on Russian neutrality, points to Soviet military assistance to China and alleged support for Chinese claims by East Germany and other Communist states, and warns that silence would damage both the country and the Party. The draft is signed “Sd/- Raja Hutheesing.”
 ---
 
+## Summary
+
+This three-page typed draft, marked “DRAFT FOR PRIVATE DISCUSSION,” calls on the Swatantra Party to move beyond its established focus on domestic policy and take a public position on India’s external relations. It presents the Chinese occupation of Tibet and the reported penetration of Communist armies into Indian territory as creating an urgent national-security crisis. The draft argues that public confidence in the Congress Government has been shaken by its handling of defence and foreign relations, and that the country’s administration must be placed in “trustworthy hands.”
+
+The document urges the Party to define its opposition to Chinese aggression, mobilise public opinion, strengthen national defence, secure finance and military assistance where necessary, and establish friendlier relations with Pakistan to protect India’s western border while it faces pressure from the north. It rejects reliance on Russian neutrality, points to Soviet military assistance to China and alleged support for Chinese claims by East Germany and other Communist states, and warns that silence would damage both the country and the Party. The draft is signed “Sd/- Raja Hutheesing.”
+
 ## Key points
 
 - The Swatantra Party is urged to address foreign-policy and defence questions in addition to domestic policy.

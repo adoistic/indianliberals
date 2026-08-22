@@ -48,6 +48,12 @@ summary: |-
   The article identifies four principal areas of consultancy: preventive assistance, remedial intervention, outside professional expertise, and the development of professional competence within enterprises. Masani contends that Indian businesses have underused the preventive and developmental functions of consultants, relying instead on remedial work after problems have become serious. He places Indian consultancy in the context of industrialisation and international practice, citing the much larger consulting industries of the United States and United Kingdom. The article concludes by suggesting that Indian consultants might eventually take on wider operational and policy-support roles, although it notes that such a development remains ahead of current Indian practice.
 ---
 
+## Summary
+
+In this four-page article, M. R. Masani argues that management consultancy in India has moved beyond its earlier concentration on time-and-motion studies, shop-floor production standards, labour, and costs. He describes consultants as independent and impartial advisers who can bring an outside perspective, specialised knowledge, and experience to enterprises whose executives may be too closely involved to assess problems objectively. Consultancy, he maintains, is not a sign of managerial weakness but a response to the increasing complexity of modern management.
+
+The article identifies four principal areas of consultancy: preventive assistance, remedial intervention, outside professional expertise, and the development of professional competence within enterprises. Masani contends that Indian businesses have underused the preventive and developmental functions of consultants, relying instead on remedial work after problems have become serious. He places Indian consultancy in the context of industrialisation and international practice, citing the much larger consulting industries of the United States and United Kingdom. The article concludes by suggesting that Indian consultants might eventually take on wider operational and policy-support roles, although it notes that such a development remains ahead of current Indian practice.
+
 ## Key points
 
 - Management consultancy in India has expanded from shop-floor studies and production standards into a wider range of management functions.

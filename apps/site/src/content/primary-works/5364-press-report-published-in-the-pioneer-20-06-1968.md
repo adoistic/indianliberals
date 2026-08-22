@@ -51,6 +51,12 @@ summary: |-
   The report describes competing proposals for opposition coordination. Singh's side proposed bringing together all-India parties and state-level groups other than Congress, Jan Sangh, and the Marxists to form a new nationalistic democratic party based broadly on a decentralised economy, the Gandhian conception, and the rule of law. Swatantra Party leaders instead proposed that the BKD merge with Swatantra, a proposal Singh rejected. The report concludes that the discussions therefore ended without an agreement.
 ---
 
+## Summary
+
+This one-page press report, headed as having been published in The Pioneer on 20 June 1968, records Charan Singh's denial that he was planning further talks with Swatantra Party leaders. It states that Singh and Gopala Shastri had already met N. G. Ranga and Dandekar on 15 June, and that the discussions had not produced an agreement.
+
+The report describes competing proposals for opposition coordination. Singh's side proposed bringing together all-India parties and state-level groups other than Congress, Jan Sangh, and the Marxists to form a new nationalistic democratic party based broadly on a decentralised economy, the Gandhian conception, and the rule of law. Swatantra Party leaders instead proposed that the BKD merge with Swatantra, a proposal Singh rejected. The report concludes that the discussions therefore ended without an agreement.
+
 ## Key points
 
 - Charan Singh denied that further talks with Swatantra Party leaders were planned.

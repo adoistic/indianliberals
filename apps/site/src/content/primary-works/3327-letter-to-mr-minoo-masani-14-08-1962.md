@@ -49,6 +49,12 @@ summary: |-
   Singh disputes Masani's apparent allegation that the Raja Bahadur was unaware of the transaction. He sets out how the overdraft was used to purchase thirty-three jeeps for the last general elections, records payments made by the Raja Bahadur and the Swatantra Party, and argues that the party should pay the bank interest attributable to its outstanding balance. He closes by asking Masani to reconsider the facts and arrange prompt payment of the party's share of the interest bills.
 ---
 
+## Summary
+
+This one-page letter, dated 14 August 1962 and addressed to M. R. Masani, concerns the Swatantra Party's overdraft account with the Central Bank of India Ltd. Thakur B. P. Singh explains that an account was opened in the name of the Raja Bahadur of Ramgarh because the bank would not advance money directly to a political party. The arrangement provided overdraft facilities of Rs. 5,00,000, with the Raja Bahadur lending his name as guarantor.
+
+Singh disputes Masani's apparent allegation that the Raja Bahadur was unaware of the transaction. He sets out how the overdraft was used to purchase thirty-three jeeps for the last general elections, records payments made by the Raja Bahadur and the Swatantra Party, and argues that the party should pay the bank interest attributable to its outstanding balance. He closes by asking Masani to reconsider the facts and arrange prompt payment of the party's share of the interest bills.
+
 ## Key points
 
 - The letter acknowledges Masani's correspondence about the overdraft account.

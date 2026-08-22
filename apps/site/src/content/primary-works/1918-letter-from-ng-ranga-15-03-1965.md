@@ -48,6 +48,10 @@ summary: |-
   This one-page English draft letter, dated by a handwritten notation “15/3/65,” is addressed to the Speaker of the Lok Sabha and signed by N. G. Ranga as “Leader.” Ranga reports that members of his party unanimously considered the 15 hours allotted for discussion of the Finance Bill, beginning on 3 May, inadequate. He argues that the Bill is unusually voluminous because it includes numerous amendments to substantive income-tax law, and that its clauses require careful scrutiny and proposed amendments.
 ---
 
+## Summary
+
+This one-page English draft letter, dated by a handwritten notation “15/3/65,” is addressed to the Speaker of the Lok Sabha and signed by N. G. Ranga as “Leader.” Ranga reports that members of his party unanimously considered the 15 hours allotted for discussion of the Finance Bill, beginning on 3 May, inadequate. He argues that the Bill is unusually voluminous because it includes numerous amendments to substantive income-tax law, and that its clauses require careful scrutiny and proposed amendments.
+
 ## Key points
 
 - The letter requests additional parliamentary time for consideration of the Finance Bill.

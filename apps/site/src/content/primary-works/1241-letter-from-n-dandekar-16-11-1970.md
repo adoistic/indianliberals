@@ -44,6 +44,12 @@ summary: |-
   Dandeker refers to the Salaries and Allowances of Ministers Bill, 1970, and to the Secretary's letter No. 21/9(32)/70/L of 8th September 1970. He notes that notice of the Bill was given by him in an earlier letter dated 2nd September 1970, and he now encloses NOTES ON CLAUSES (with a spare copy) to be attached to the Bill, requesting acknowledgement of receipt. A copy of the letter is marked to Mr. M. R. Masani, M.P., New Delhi, indicating coordination with a fellow Swatantra parliamentarian on the measure.
 ---
 
+## Summary
+
+This one-page official letter from N. Dandeker, I.C.S. (Retd.), Member of Parliament (Lok Sabha), is addressed to the Secretary of the Lok Sabha and dated 16th November 1970. Written on Dandeker's parliamentary letterhead at 18, Ferozshah Road, New Delhi, it transmits documentation in connection with a private legislative initiative on ministerial remuneration.
+
+Dandeker refers to the Salaries and Allowances of Ministers Bill, 1970, and to the Secretary's letter No. 21/9(32)/70/L of 8th September 1970. He notes that notice of the Bill was given by him in an earlier letter dated 2nd September 1970, and he now encloses NOTES ON CLAUSES (with a spare copy) to be attached to the Bill, requesting acknowledgement of receipt. A copy of the letter is marked to Mr. M. R. Masani, M.P., New Delhi, indicating coordination with a fellow Swatantra parliamentarian on the measure.
+
 ## Key points
 
 - Formal covering letter from N. Dandeker, I.C.S. (Retd.), Member of Parliament (Lok Sabha), on his parliamentary letterhead at 18, Ferozshah Road, New Delhi.

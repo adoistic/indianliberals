@@ -51,6 +51,10 @@ summary: |-
   Dated 9 September 1967, this Swatantra Party Central Office circular forwards recommendations to the Maharashtra and Madras State Councils. N. Dandekar, signing as Officiating General Secretary, asks recipients to indicate whether they approve the attached proposals and return a self-addressed card; absent a response by 20 September, approval would be presumed.
 ---
 
+## Summary
+
+Dated 9 September 1967, this Swatantra Party Central Office circular forwards recommendations to the Maharashtra and Madras State Councils. N. Dandekar, signing as Officiating General Secretary, asks recipients to indicate whether they approve the attached proposals and return a self-addressed card; absent a response by 20 September, approval would be presumed.
+
 ## Key points
 
 - The circular concerns the composition and representation of the Maharashtra and Madras State Councils.

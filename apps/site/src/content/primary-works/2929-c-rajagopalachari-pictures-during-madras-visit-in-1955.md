@@ -47,6 +47,10 @@ summary: |-
   This two-page English photographic reference spread documents C. Rajagopalachari (Rajaji) in meetings, conversations, and public encounters with Indian and international political, diplomatic, religious, journalistic, and academic figures. The captions date the depicted events from 1954 to 1970, including Rajaji’s 1955 interactions in Madras with Soviet leaders, his meetings with Richard Nixon, John F. Kennedy, and foreign diplomats, and his 1962 anti-nuclear mission to the United States and visit to Pope John XXIII at the Vatican.
 ---
 
+## Summary
+
+This two-page English photographic reference spread documents C. Rajagopalachari (Rajaji) in meetings, conversations, and public encounters with Indian and international political, diplomatic, religious, journalistic, and academic figures. The captions date the depicted events from 1954 to 1970, including Rajaji’s 1955 interactions in Madras with Soviet leaders, his meetings with Richard Nixon, John F. Kennedy, and foreign diplomats, and his 1962 anti-nuclear mission to the United States and visit to Pope John XXIII at the Vatican.
+
 ## Key points
 
 - The item consists of two photographic pages with English identifying captions and no visible title, author, publisher, or publication date.

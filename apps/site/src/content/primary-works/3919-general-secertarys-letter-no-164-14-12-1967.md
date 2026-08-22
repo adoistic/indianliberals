@@ -53,6 +53,10 @@ summary: |-
   General Secretary's Letter No. 164, dated November 14, 1967, asks Swatantra Party state committees to review proposals for establishing a youth wing. The letter recalls that an earlier proposal had been circulated in May and explains that the National Executive, while agreeing with it in principle, wanted comments before the scheme was finalised. It sets a December 20 deadline and states that failure to respond will be treated as having no comments.
 ---
 
+## Summary
+
+General Secretary's Letter No. 164, dated November 14, 1967, asks Swatantra Party state committees to review proposals for establishing a youth wing. The letter recalls that an earlier proposal had been circulated in May and explains that the National Executive, while agreeing with it in principle, wanted comments before the scheme was finalised. It sets a December 20 deadline and states that failure to respond will be treated as having no comments.
+
 ## Key points
 
 - The document concerns the formation of a Swatantra Youth Wing.

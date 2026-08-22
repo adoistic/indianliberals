@@ -45,6 +45,10 @@ summary: |-
   This two-page English office letter from V. P. Bhatia to Minoo Masani, dated 5 November 1985, concerns vehicles acquired under individual names for the Swatantra Party's election activities. Bhatia says that the only information currently available is a 1976 letter to the Regional Transport Officer and advises Masani to explain that locating the vehicles years later would be difficult. The letter is sent from Peltham House, Ballard Estate, Bombay.
 ---
 
+## Summary
+
+This two-page English office letter from V. P. Bhatia to Minoo Masani, dated 5 November 1985, concerns vehicles acquired under individual names for the Swatantra Party's election activities. Bhatia says that the only information currently available is a 1976 letter to the Regional Transport Officer and advises Masani to explain that locating the vehicles years later would be difficult. The letter is sent from Peltham House, Ballard Estate, Bombay.
+
 ## Key points
 
 - Bhatia acknowledges Masani's letter of 19 October 1984.

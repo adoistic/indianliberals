@@ -49,6 +49,12 @@ summary: |-
   Vaidya says that party figures, including H. M. Patel and Bhailaka, denied him an opportunity to answer the accusations or meet voters. He characterizes the party's conduct as a deliberate refusal to hear his explanation and notes that Keshubhai had filed his nomination before the Central Parliamentary Board's decision. The letter closes with the emphatic judgment that the entire episode was "nauseatingly sad."
 ---
 
+## Summary
+
+This two-page typed copy of a letter dated 31 March 1968 is addressed by Babubhai Vaidya to Minoo Masani from Rajkot. Vaidya reports what he describes as an organized campaign against him within the Swatantra Party during an election. He recounts a demand that he contribute Rs. 3,000 to the party fund, his refusal or inability to pay, and the subsequent circulation of allegations that he supported Mr. Masani, worked for another candidate, or was a Communist.
+
+Vaidya says that party figures, including H. M. Patel and Bhailaka, denied him an opportunity to answer the accusations or meet voters. He characterizes the party's conduct as a deliberate refusal to hear his explanation and notes that Keshubhai had filed his nomination before the Central Parliamentary Board's decision. The letter closes with the emphatic judgment that the entire episode was "nauseatingly sad."
+
 ## Key points
 
 - Vaidya describes secret opposition to his candidacy within the Swatantra Party.

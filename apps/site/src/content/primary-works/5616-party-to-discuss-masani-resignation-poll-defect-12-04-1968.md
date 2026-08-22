@@ -51,6 +51,12 @@ summary: |-
   The report presents Masani’s expected explanation as focused on two policy questions on which he had taken a strong position. It says he had questioned the party’s parliamentary constituency of Rajkot and had suggested that the party’s defeat could be connected with the dissipation of its influence in Gujarat. The article further reports disputes involving M. R. Vaidya, allegations concerning party conduct, and claims that Vaidya’s resignation was prompted by indiscipline within the party. The clipping is a contemporary news account rather than a full statement by Masani, and it does not include the subsequent discussion or any final party decision.
 ---
 
+## Summary
+
+This Hindustan Times report describes an impending meeting of the Swatantra Party’s national executive and parliamentary board to discuss M. R. Masani’s resignation and the party’s poor electoral performance. The article says the meeting was convened after Masani’s resignation and that party chairman N. G. Ranga was expected to study the reasons for the defeat, particularly the party’s failure to secure seats in the Rajya Sabha and the Lok Sabha. It also reports that the bodies would consider the resignation of the party’s executive and parliamentary board and the appointment of a new general secretary.
+
+The report presents Masani’s expected explanation as focused on two policy questions on which he had taken a strong position. It says he had questioned the party’s parliamentary constituency of Rajkot and had suggested that the party’s defeat could be connected with the dissipation of its influence in Gujarat. The article further reports disputes involving M. R. Vaidya, allegations concerning party conduct, and claims that Vaidya’s resignation was prompted by indiscipline within the party. The clipping is a contemporary news account rather than a full statement by Masani, and it does not include the subsequent discussion or any final party decision.
+
 ## Key points
 
 - The Swatantra Party’s national executive and parliamentary board were to meet to discuss M. R. Masani’s resignation and the party’s electoral defeat.

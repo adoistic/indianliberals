@@ -53,6 +53,12 @@ summary: |-
   Masani called for abolishing the Planning Commission, arguing that its Five-Year Plans had failed to deliver, and presented the parliamentary election as a contest between Marxist and Gandhian values. The report closes with his praise of Morarji Desai's integrity, honesty, and patriotism, alongside an appeal for voters to return Desai to Parliament with a large majority.
 ---
 
+## Summary
+
+This one-page English newspaper clipping reports remarks by Minoo Masani, chairman of the Swatantra Party, at an election meeting in Navsari on 17 February. Masani accused Prime Minister Indira Gandhi of pursuing a wrong economic policy and said that the public sector was losing Rs. 40 crores annually. He also criticised the licensing-permit-quota system, which he associated with corruption, malpractices, and hoarding.
+
+Masani called for abolishing the Planning Commission, arguing that its Five-Year Plans had failed to deliver, and presented the parliamentary election as a contest between Marxist and Gandhian values. The report closes with his praise of Morarji Desai's integrity, honesty, and patriotism, alongside an appeal for voters to return Desai to Parliament with a large majority.
+
 ## Key points
 
 - Minoo Masani accused Prime Minister Indira Gandhi of pursuing a wrong economic policy.

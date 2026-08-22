@@ -50,6 +50,12 @@ summary: |-
   Raju also explains why he has stopped sending Arya copies of Swatantra Jyoti and Lok Bharati. The letter closes with a sharply hostile political judgment: Raju says that Arya has aligned himself with “a bunch of crooks, self-seekers” under the leadership of a “megalomaniac.” The document is personal in form but reflects concerns about political allegiance, party conduct, and the reliability of partisan publications.
 ---
 
+## Summary
+
+This one-page letter, dated May 20, 1975, records S. V. Raju’s response to M. R. Arya after Arya corrected a report in the May 4 issue of Lok Bharati stating that he had become secretary of the BFD in Delhi. Raju thanks Arya for the clarification but reproaches him for not disclosing his intentions when they met in Delhi, suggesting that political developments since August have damaged his trust in people who had presented themselves as friends.
+
+Raju also explains why he has stopped sending Arya copies of Swatantra Jyoti and Lok Bharati. The letter closes with a sharply hostile political judgment: Raju says that Arya has aligned himself with “a bunch of crooks, self-seekers” under the leadership of a “megalomaniac.” The document is personal in form but reflects concerns about political allegiance, party conduct, and the reliability of partisan publications.
+
 ## Key points
 
 - S. V. Raju writes to M. R. Arya on May 20, 1975, from Bombay.

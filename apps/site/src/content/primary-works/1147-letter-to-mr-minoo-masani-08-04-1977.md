@@ -43,6 +43,10 @@ summary: |-
   A brief single-page administrative letter dated April 8, 1977, jointly signed by K. H. Subramanian, L. R. Sampat, and S. V. Raju from 143 Mahatma Gandhi Road, Bombay, and addressed to Minoo Masani at 148 Mahatma Gandhi Road, Bombay. The writers acknowledge receipt of Masani's letter of April 4 and welcome his agreement to arbitrate in a matter for which relevant papers have already been forwarded to him by a Mr. Girish Munshi. They close by requesting an appointment. The document is procedural correspondence rather than substantive argument, and offers no direct thematic content on liberal thought — its interest lies in documenting Masani's role, in the immediate aftermath of the Emergency, as a trusted arbitrator among figures associated with the Swatantra/Bombay classical-liberal circle.
 ---
 
+## Summary
+
+A brief single-page administrative letter dated April 8, 1977, jointly signed by K. H. Subramanian, L. R. Sampat, and S. V. Raju from 143 Mahatma Gandhi Road, Bombay, and addressed to Minoo Masani at 148 Mahatma Gandhi Road, Bombay. The writers acknowledge receipt of Masani's letter of April 4 and welcome his agreement to arbitrate in a matter for which relevant papers have already been forwarded to him by a Mr. Girish Munshi. They close by requesting an appointment. The document is procedural correspondence rather than substantive argument, and offers no direct thematic content on liberal thought — its interest lies in documenting Masani's role, in the immediate aftermath of the Emergency, as a trusted arbitrator among figures associated with the Swatantra/Bombay classical-liberal circle.
+
 ## Key points
 
 - Typewritten letter dated April 8, 1977, on plain letterhead from 143 Mahatma Gandhi Road, Bombay 1.

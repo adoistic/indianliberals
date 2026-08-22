@@ -50,6 +50,12 @@ summary: |-
   Raju argues that the Swatantra Party must not surrender its premises. He describes pressure from the new landlord, the use of parts of the office by other tenants and organisations, and the legal difficulty of establishing continuity between the Swatantra Party and the Janata Party. He reports efforts to create a "Rajaji Trust" under Clause 10(b) of the Swatantra Party's constitution, possibly accompanied by a sign identifying the premises as the "Swatantra Party Properties Trust." The letter closes by linking the tenancy dispute to internal conflict within the Janata Party and defending his own good faith and commitment to a principled solution.
 ---
 
+## Summary
+
+This strictly confidential letter from S. V. Raju to Mr. Dandekar, dated July 11, 1977, concerns the Swatantra Party's office tenancy in Bombay after the party's merger into the Janata Party. Raju compares the legal and tenancy arrangements of offices associated with Congress, Jana Sangh, and the Socialist Party, noting that several premises are now being used by Janata Party organisations while the leases remain in the names of earlier parties, individuals, or affiliated bodies.
+
+Raju argues that the Swatantra Party must not surrender its premises. He describes pressure from the new landlord, the use of parts of the office by other tenants and organisations, and the legal difficulty of establishing continuity between the Swatantra Party and the Janata Party. He reports efforts to create a "Rajaji Trust" under Clause 10(b) of the Swatantra Party's constitution, possibly accompanied by a sign identifying the premises as the "Swatantra Party Properties Trust." The letter closes by linking the tenancy dispute to internal conflict within the Janata Party and defending his own good faith and commitment to a principled solution.
+
 ## Key points
 
 - The letter surveys the office and tenancy arrangements of Congress, Jana Sangh, and Socialist Party premises now associated with the Janata Party.

@@ -59,6 +59,12 @@ summary: |-
   The annexed questions and answers record the BKD’s positions on a possible merger and on policy issues including minority reservations, Christian missionaries, language, Kashmir, nuclear weapons, and large-scale industry. The discussion favours continued negotiations, a possible wider merger involving more than two parties, and a “give and take” approach on unresolved issues. On economic policy, the document contrasts the Bharatiya Kranti Dal’s proposed exclusion or effective state control of large-scale industries with the Swatantra Party’s commitment to free enterprise. The rendered pages include the complete five-page document, including the letter, minutes extract, and two-page question-and-answer annexure.
 ---
 
+## Summary
+
+This 7 July 1969 letter from R. C. Cooper, Acting for the Swatantra Party’s General Secretary, is addressed to Choudhary Charan Singh and forwards an extract from the Party’s National Executive meeting in Madras on 22–23 June. The correspondence concerns negotiations with the Bharatiya Kranti Dal (BKD) and the Jan Sangh toward a broad democratic party capable of replacing the Congress at the Centre. The attached minutes describe the proposed cooperation as a response to Congress disintegration, political instability, and the perceived danger of communist expansion.
+
+The annexed questions and answers record the BKD’s positions on a possible merger and on policy issues including minority reservations, Christian missionaries, language, Kashmir, nuclear weapons, and large-scale industry. The discussion favours continued negotiations, a possible wider merger involving more than two parties, and a “give and take” approach on unresolved issues. On economic policy, the document contrasts the Bharatiya Kranti Dal’s proposed exclusion or effective state control of large-scale industries with the Swatantra Party’s commitment to free enterprise. The rendered pages include the complete five-page document, including the letter, minutes extract, and two-page question-and-answer annexure.
+
 ## Key points
 
 - The letter reports on Swatantra Party negotiations with the BKD and Jan Sangh after a National Executive meeting in Madras.

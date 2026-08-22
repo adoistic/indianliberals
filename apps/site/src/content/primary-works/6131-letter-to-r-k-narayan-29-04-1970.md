@@ -45,6 +45,12 @@ summary: |-
   The writer promises to send Narayan a few copies as soon as the supply is received from the press. The document is administrative correspondence and contains no broader political or intellectual argument.
 ---
 
+## Summary
+
+This single-page letter, dated 29 April 1970 and signed by A. K. Coelho, informs R. K. Narayan that the printing of an office directory has been delayed. Coelho reports that Inland Printers have now indicated that copies should be available by the end of the following week.
+
+The writer promises to send Narayan a few copies as soon as the supply is received from the press. The document is administrative correspondence and contains no broader political or intellectual argument.
+
 ## Key points
 
 - The letter is dated 29 April 1970.

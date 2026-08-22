@@ -50,6 +50,12 @@ summary: |-
   The attached pages contain a typed list of 45 Lok Sabha members, with Delhi addresses or accommodation details for most entries. The document therefore records both a specific administrative intervention over housing allocation and the broader set of party members whose accommodation was under consideration.
 ---
 
+## Summary
+
+In this letter dated 10 April 1967, M. R. Masani writes to B. Bhagwati about the allocation of government bungalows for members of Masani's party. He argues that N. Dandekar, a former Lok Sabha member, should receive a suitable bungalow on grounds of seniority, specifically on Canning Lane or Ferozeshah Road. For the remaining members, Masani proposes consulting Piloo Mody, who serves on the relevant sub-committee and is then in Bombay, and asks that the decision be deferred for a few days.
+
+The attached pages contain a typed list of 45 Lok Sabha members, with Delhi addresses or accommodation details for most entries. The document therefore records both a specific administrative intervention over housing allocation and the broader set of party members whose accommodation was under consideration.
+
 ## Key points
 
 - The letter is dated 10 April 1967 and was sent from 57 Lodi Estate, New Delhi, to B. Bhagwati, Chairman of the Lok Sabha House Committee.

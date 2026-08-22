@@ -52,6 +52,12 @@ summary: |-
   The motion asks the Court to direct provisional registration of the party without insisting on compliance with Section 29-A of the Representation of the People Act. Alternatively, it requests an interim stay against enforcement of that requirement, or an early final hearing of the writ petition before 30 October 1995. The notice identifies the scheduled hearing as 22 September 1995 before Justices Agarwal and Majithia, and states that advocate Rajiv Patil is acting for the petitioners. The rendered pages contain no factual affidavit or substantive judicial reasoning beyond the reliefs requested and the procedural details of the motion.
 ---
 
+## Summary
+
+This four-page English court filing is a Notice of Motion in Writ Petition No. 14 of 1995 before the High Court of Judicature at Bombay. Swatantra Party (Maharashtra), through its General Secretary L. R. Sampat, and petitioner S. V. Raju, seek relief against the Union of India, the Chief Election Commissioner of India, and the Secretary of the Election Commission of India.
+
+The motion asks the Court to direct provisional registration of the party without insisting on compliance with Section 29-A of the Representation of the People Act. Alternatively, it requests an interim stay against enforcement of that requirement, or an early final hearing of the writ petition before 30 October 1995. The notice identifies the scheduled hearing as 22 September 1995 before Justices Agarwal and Majithia, and states that advocate Rajiv Patil is acting for the petitioners. The rendered pages contain no factual affidavit or substantive judicial reasoning beyond the reliefs requested and the procedural details of the motion.
+
 ## Key points
 
 - The document is a September 1995 Notice of Motion in Bombay High Court Writ Petition No. 14 of 1995.

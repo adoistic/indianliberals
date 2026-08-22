@@ -54,6 +54,12 @@ summary: |-
   The record discusses the Vigilance Commission as an authority requiring full responsibility, independence, and adequate facilities, while also suggesting a public forum to explain legal and technical distinctions to ordinary citizens. Shri H. V. Kamath raises concerns about the choice of Vigilance Commissioner, government opposition to the Ministers’ Assets Bill, and the limited powers of district- and state-level Vigilance Committees. Other points concern clarification of the constitution and aims of the Samyukta Sadachar Samiti, public suspicion of corruption at the highest political levels, the obligations of party representatives serving on the Committee, and the possible legal exposure of Samiti members whose investigations later become court proceedings. A subsequent meeting was scheduled for 5 March 1964.
 ---
 
+## Summary
+
+This two-page typed record summarizes a 26 February 1964 meeting between the Home Minister and leaders of political parties on administrative reform and corruption. The Home Minister presents the problem as a national, rather than merely political, concern and calls for cooperation across party differences. The proposed approach includes creating a non-official climate that would discourage corrupt practices and associating representatives of significant political parties with the work so that political tensions do not obstruct it.
+
+The record discusses the Vigilance Commission as an authority requiring full responsibility, independence, and adequate facilities, while also suggesting a public forum to explain legal and technical distinctions to ordinary citizens. Shri H. V. Kamath raises concerns about the choice of Vigilance Commissioner, government opposition to the Ministers’ Assets Bill, and the limited powers of district- and state-level Vigilance Committees. Other points concern clarification of the constitution and aims of the Samyukta Sadachar Samiti, public suspicion of corruption at the highest political levels, the obligations of party representatives serving on the Committee, and the possible legal exposure of Samiti members whose investigations later become court proceedings. A subsequent meeting was scheduled for 5 March 1964.
+
 ## Key points
 
 - The Home Minister describes corruption and administrative reform as a national problem requiring cooperation among political parties.

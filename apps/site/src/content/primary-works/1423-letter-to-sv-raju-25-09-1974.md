@@ -48,6 +48,12 @@ summary: |-
   Arya also asks Raju to secure advertisements from two or three companies, suggesting Advani and Empire Dyeing as contacts. The letter records an annual subscription price of Rs. 6 and notes that Arya may visit Bombay in the third week of October 1974. The page provides no explicit discussion of party politics or press freedom beyond this practical effort to circulate and finance the publication.
 ---
 
+## Summary
+
+In this typed letter dated September 25, 1974, M. R. Arya, identified on the letterhead as editor of Swatantra Jyoti, asks S. V. Raju to help expand the magazine's circulation among colleges in Hindi-speaking states. Arya states that there are about 2,000 such colleges and seeks subscriptions for 100 copies from several companies, including arrangements through Dr. Cooper and possible support from Mr. M. K. Mohta, who has already subscribed for 100 copies for colleges in Rajasthan.
+
+Arya also asks Raju to secure advertisements from two or three companies, suggesting Advani and Empire Dyeing as contacts. The letter records an annual subscription price of Rs. 6 and notes that Arya may visit Bombay in the third week of October 1974. The page provides no explicit discussion of party politics or press freedom beyond this practical effort to circulate and finance the publication.
+
 ## Key points
 
 - M. R. Arya writes as editor of Swatantra Jyoti on September 25, 1974.

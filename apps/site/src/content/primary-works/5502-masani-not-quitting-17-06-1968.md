@@ -50,6 +50,12 @@ summary: |-
   The clipping presents Masani’s decision as a measure aimed at improving the party’s internal functioning rather than as a withdrawal from political life. The source newspaper is not identified; the report is credited to UNI.
 ---
 
+## Summary
+
+This one-page English newspaper clipping, datelined Lucknow, June 10, reports that Minoo Masani was not quitting the Swatantra Party. It attributes the statement to Bahu Pratap Singh, president of the party’s Uttar Pradesh unit, who described Masani’s proposed resignation as intended to stimulate greater awareness and dedication among party members.
+
+The clipping presents Masani’s decision as a measure aimed at improving the party’s internal functioning rather than as a withdrawal from political life. The source newspaper is not identified; the report is credited to UNI.
+
 ## Key points
 
 - The report is headed “Masani not quitting” and is datelined Lucknow, June 10.

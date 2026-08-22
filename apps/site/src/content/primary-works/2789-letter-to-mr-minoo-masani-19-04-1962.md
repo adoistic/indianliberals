@@ -51,6 +51,12 @@ summary: |-
   The letter then records complaints concerning David Munjgin, Sardar Balbir Singh, and Sardar Dhannanjay? [name unclear], as well as the status of petitions and signatures relating to the Deputy Speaker. It describes discussions among opposition groups about selecting a Deputy Speaker and notes that the Congress party had agreed to a non-party candidate. The writer says that an “unfortunate” amendment was accepted by the Congress party, that Balbir Singh had been nominated, and that the author had voted against him. The closing page is brief and personal, mentioning travel plans and a return on Sunday evening.
 ---
 
+## Summary
+
+This six-page handwritten letter, dated 19 April 1962 and written from New Delhi by a Member of Parliament whose signature appears to read “M. A. Venkata Rao,” is addressed to Minoo Masani. The writer reports having received Masani’s letters and discusses arrangements for the Swatantra Party parliamentary group, including the appointment of its secretary, the Speaker’s office, and the group’s fixed seating arrangements in the Lok Sabha.
+
+The letter then records complaints concerning David Munjgin, Sardar Balbir Singh, and Sardar Dhannanjay? [name unclear], as well as the status of petitions and signatures relating to the Deputy Speaker. It describes discussions among opposition groups about selecting a Deputy Speaker and notes that the Congress party had agreed to a non-party candidate. The writer says that an “unfortunate” amendment was accepted by the Congress party, that Balbir Singh had been nominated, and that the author had voted against him. The closing page is brief and personal, mentioning travel plans and a return on Sunday evening.
+
 ## Key points
 
 - The letter is dated 19 April 1962 and is addressed to Minoo Masani.

@@ -46,6 +46,12 @@ summary: |-
   He recounts that he had resolved in early January to help the Party candidates in the election campaign and had chosen to travel to Rajkot to work under Masani, whom he describes as an 'honourable man' and his Party President. Thakkar expresses regret that the voters of Rajkot District rejected Masani's candidature, remarking that 'good and honourable people who are very rare these days do not get what they deserve'. He records his satisfaction at having discharged his duty, promises to help again on any similar future occasion and to start much earlier next time, conveys his wife's thanks to Masani for remembering them both, and closes with an assurance of 'best co-operation at all times'. An office stamp shows the letter was received at the Swatantra Party office on 31 March 1971 and logged as No. 10.
 ---
 
+## Summary
+
+This single-page letter, dated 30th March 1971, is written by Indukumar C. Thakkar of 'Dalal Nivas', Walkeshwar Road, Malabar Hill, Bombay, to M. R. (Minoo) Masani, President of the Swatantra Party, in the immediate aftermath of the 1971 general election. Thakkar acknowledges receipt of Masani's letter of the 22nd instant and returns the appreciation with warmth, framing his own campaign work as an obligation of a Life Worker of the Party rather than a favour to any individual.
+
+He recounts that he had resolved in early January to help the Party candidates in the election campaign and had chosen to travel to Rajkot to work under Masani, whom he describes as an 'honourable man' and his Party President. Thakkar expresses regret that the voters of Rajkot District rejected Masani's candidature, remarking that 'good and honourable people who are very rare these days do not get what they deserve'. He records his satisfaction at having discharged his duty, promises to help again on any similar future occasion and to start much earlier next time, conveys his wife's thanks to Masani for remembering them both, and closes with an assurance of 'best co-operation at all times'. An office stamp shows the letter was received at the Swatantra Party office on 31 March 1971 and logged as No. 10.
+
 ## Key points
 
 - Personal letter dated 30 March 1971 from I. C. Thakkar (Dalal Nivas, 247 Walkeshwar Road, Malabar Hill, Bombay-6) to Minoo Masani, President of the Swatantra Party at Sassoon Building, Mahatma Gandhi Road, Bombay-1.

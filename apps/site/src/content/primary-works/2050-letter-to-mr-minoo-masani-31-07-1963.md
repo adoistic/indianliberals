@@ -52,6 +52,12 @@ summary: |-
   Jain also identifies two other writing projects. He says he has written a political biography of Motilal Nehru, published the previous year by a local publisher, and is completing a book on the changing concept of the Commonwealth. The latter arose from controversy over Britain’s possible entry into the Common Market, but will also survey the Commonwealth’s history from the Empire, the entry of Asian countries, the status of African members, republics in the Commonwealth, the Suez crisis, and South Africa’s withdrawal. Jain further mentions the Commonwealth Club of India and argues that the organisation has recently been poorly administered, while affirming its purpose of promoting the Commonwealth cause.
 ---
 
+## Summary
+
+This one-page letter, written from the Swatantra Party Parliamentary Office in New Delhi on 31 July 1963, thanks Minoo Masani for acknowledging receipt of A. C. Jain’s book The Voice of Freedom. Jain explains that he had assumed Masani already knew about the book and his pen name, so he had not asked the publisher to clarify this before sending the copy.
+
+Jain also identifies two other writing projects. He says he has written a political biography of Motilal Nehru, published the previous year by a local publisher, and is completing a book on the changing concept of the Commonwealth. The latter arose from controversy over Britain’s possible entry into the Common Market, but will also survey the Commonwealth’s history from the Empire, the entry of Asian countries, the status of African members, republics in the Commonwealth, the Suez crisis, and South Africa’s withdrawal. Jain further mentions the Commonwealth Club of India and argues that the organisation has recently been poorly administered, while affirming its purpose of promoting the Commonwealth cause.
+
 ## Key points
 
 - A. C. Jain thanks Minoo Masani for acknowledging receipt of The Voice of Freedom.

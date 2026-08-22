@@ -49,6 +49,10 @@ summary: |-
   This personal and confidential letter, written from Rajkot on 13 March 1968 and addressed to Minoo Masani, reports factional conflict within the Swatantra Party over the selection of Babubhai Vaidya as its Rajya Sabha candidate. Rathubhai Patel describes objections raised at the party’s Gujarat State Council and State Executive meetings, including claims that Vaidya had criticized the party and opposed its ideology. He argues that the Central Parliamentary Board should honour the Gujarat State Committee’s commitment to Vaidya, while acknowledging that some Gujarat legislators may not support the nomination.
 ---
 
+## Summary
+
+This personal and confidential letter, written from Rajkot on 13 March 1968 and addressed to Minoo Masani, reports factional conflict within the Swatantra Party over the selection of Babubhai Vaidya as its Rajya Sabha candidate. Rathubhai Patel describes objections raised at the party’s Gujarat State Council and State Executive meetings, including claims that Vaidya had criticized the party and opposed its ideology. He argues that the Central Parliamentary Board should honour the Gujarat State Committee’s commitment to Vaidya, while acknowledging that some Gujarat legislators may not support the nomination.
+
 ## Key points
 
 - The letter reports opposition within the Swatantra Party to Babubhai Vaidya’s nomination for the Rajya Sabha.

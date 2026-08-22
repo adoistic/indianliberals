@@ -48,6 +48,12 @@ summary: |-
   The correspondence is brief and administrative in purpose. It records Masani’s judgment that Singh Deo would be interested in reading Subramaniam’s letter, but does not disclose the contents or subject of the enclosed document.
 ---
 
+## Summary
+
+This one-page letter, dated 29 August 1963, is from M. R. Masani to Shri R. N. Singh Deo, President of the Orissa Swatantra Party. Masani forwards a letter that C. Rajagopalachari (“Rajaji”) received from Smt. Vasanta Subramaniam, whom he describes as a constructive worker of the Gandhian persuasion.
+
+The correspondence is brief and administrative in purpose. It records Masani’s judgment that Singh Deo would be interested in reading Subramaniam’s letter, but does not disclose the contents or subject of the enclosed document.
+
 ## Key points
 
 - The letter is dated 29 August 1963 and is signed by M. R. Masani.

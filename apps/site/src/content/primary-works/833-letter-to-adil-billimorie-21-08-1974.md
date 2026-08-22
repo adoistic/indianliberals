@@ -53,6 +53,12 @@ summary: |-
   Masani states that the Bombay party was compensated for providing this facility and endorses the position taken by “Mr. Girish Munshi” in correspondence with Sassoon J. David & Co. Ltd. He describes Munshi’s request as legitimate and encloses a copy of his own letter to the company’s general secretary for Billimoria’s reference. The page documents an internal party-administrative dispute concerning office space, organisational authority, and the allocation of party resources.
 ---
 
+## Summary
+
+In this one-page letter dated August 21, 1974, M. R. Masani writes to Adil Billimoria about premises in Bombay that had been secured for the Swatantra Party. Masani explains that he originally obtained the premises while serving as chairman of the local party, and later arranged for the national organisation to use part of the office after becoming its general secretary.
+
+Masani states that the Bombay party was compensated for providing this facility and endorses the position taken by “Mr. Girish Munshi” in correspondence with Sassoon J. David & Co. Ltd. He describes Munshi’s request as legitimate and encloses a copy of his own letter to the company’s general secretary for Billimoria’s reference. The page documents an internal party-administrative dispute concerning office space, organisational authority, and the allocation of party resources.
+
 ## Key points
 
 - Masani’s letter is dated August 21, 1974, and addressed to Adil Billimoria.

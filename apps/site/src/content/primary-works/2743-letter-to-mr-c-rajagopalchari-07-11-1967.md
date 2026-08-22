@@ -51,6 +51,12 @@ summary: |-
   Rajagopalachari ultimately favors the second arrangement, which he considers better in practice. He argues that separating the two offices would allow Ranga to focus on parliamentary leadership while Masani concentrated on building the party organisation and presenting the party's public image. He stresses the need for a strong organisational drive over the next three or four years, but says he does not wish to make the matter contentious and will accept Rajaji's considered view.
 ---
 
+## Summary
+
+In this letter dated 7 November 1967, C. Rajagopalachari writes to Rajaji about the future leadership of the Swatantra Party and its parliamentary group. He describes two acceptable arrangements: Professor Ranga could continue as both Parliamentary Leader and Party President, or he could remain Parliamentary Leader while Minoo Masani became Party President. Rajagopalachari rejects the idea of appointing a third person as Party President, arguing that either of these alternatives is preferable.
+
+Rajagopalachari ultimately favors the second arrangement, which he considers better in practice. He argues that separating the two offices would allow Ranga to focus on parliamentary leadership while Masani concentrated on building the party organisation and presenting the party's public image. He stresses the need for a strong organisational drive over the next three or four years, but says he does not wish to make the matter contentious and will accept Rajaji's considered view.
+
 ## Key points
 
 - The letter addresses the future leadership structure of the Swatantra Party.

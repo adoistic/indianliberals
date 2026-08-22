@@ -50,6 +50,12 @@ summary: |-
   Masani reports a discussion with Dr. Ram Manohar Lohia, who believes that agreement on a minimum programme is impossible but urges cooperation and the avoidance of unnecessary clashes. Lohia supports moving a no-confidence motion against the Congress Government at the opening of the parliamentary session on August 13. Masani says Lohia has proposed a one-line motion giving no reasons for lack of confidence, while maintaining that the decision must be taken by the Central Executive Committee or Parliamentary Board of the Socialist Party.
 ---
 
+## Summary
+
+In this letter dated June 17, 1963, M. R. Masani writes to C. Rajagopalachari about Acharya Kripalani's decision to proceed with a minimum programme despite widespread warnings. Masani says he has reiterated his position to Kripalani in a further letter, with a copy attached.
+
+Masani reports a discussion with Dr. Ram Manohar Lohia, who believes that agreement on a minimum programme is impossible but urges cooperation and the avoidance of unnecessary clashes. Lohia supports moving a no-confidence motion against the Congress Government at the opening of the parliamentary session on August 13. Masani says Lohia has proposed a one-line motion giving no reasons for lack of confidence, while maintaining that the decision must be taken by the Central Executive Committee or Parliamentary Board of the Socialist Party.
+
 ## Key points
 
 - Masani has received a telegram from Rajagopalachari concerning Kripalani's minimum programme.

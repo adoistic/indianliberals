@@ -57,6 +57,12 @@ summary: |-
   In the rendered pages, Masani argues that the future of Indian democracy depends on a generational transfer of responsibility. He urges young people to participate in national affairs while warning that freedom must be actively defended by each succeeding generation. His preferred form of participation extends beyond political parties to grassroots associations, voluntary organisations, civic vigilance, and resistance to excessive state power. The pages close by challenging the readers of Youth Times to improve on the record of Masani’s generation.
 ---
 
+## Summary
+
+In the rendered pages, Minoo Masani reflects on India’s political transition after the Emergency and the 1977 general election. He welcomes the restoration of normal political life but insists that the election should be understood less as a Janata Party victory than as a public rejection of dictatorship. He recalls his own political career, his association with Jayaprakash Narayan and C. Rajagopalachari, and his decision to support younger people rather than return to party politics.
+
+In the rendered pages, Masani argues that the future of Indian democracy depends on a generational transfer of responsibility. He urges young people to participate in national affairs while warning that freedom must be actively defended by each succeeding generation. His preferred form of participation extends beyond political parties to grassroots associations, voluntary organisations, civic vigilance, and resistance to excessive state power. The pages close by challenging the readers of Youth Times to improve on the record of Masani’s generation.
+
 ## Key points
 
 - Masani presents the lifting of the Emergency and the 1977 election as a return to political normalcy.

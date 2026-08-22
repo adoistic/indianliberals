@@ -48,6 +48,12 @@ summary: |-
   Masani states that Maksoodpore has misstated the problem, attributing this to the extent to which his thinking has been dominated in the matter. The page is a brief piece of correspondence and does not reproduce either Maksoodpore’s letter or Masani’s enclosed reply.
 ---
 
+## Summary
+
+This typed letter from M. R. Masani to C. Rajagopalachari, dated November 14, 1961, acknowledges Rajagopalachari’s letter of November 11 concerning a letter from Maksoodpore. Masani encloses his own reply to Maksoodpore for Rajagopalachari’s consideration.
+
+Masani states that Maksoodpore has misstated the problem, attributing this to the extent to which his thinking has been dominated in the matter. The page is a brief piece of correspondence and does not reproduce either Maksoodpore’s letter or Masani’s enclosed reply.
+
 ## Key points
 
 - The letter is dated November 14, 1961.

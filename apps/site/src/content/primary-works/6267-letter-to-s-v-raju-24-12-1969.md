@@ -50,6 +50,12 @@ summary: |-
   The second rendered page consists chiefly of handwritten annotations and appears to contain a short list of names and quantities, together with a note identifying an “Erdumann’s Book” and an address for Suresh Naglath in Agra. The annotations are only partly legible and their relationship to the typed letter is not explained on the visible pages.
 ---
 
+## Summary
+
+This two-page English office letter, dated 12 November 1969 and signed by M. R. Masani, is addressed to Mr. Raju. Masani asks that Mr. Kashyap be elected to the General Council from Maharashtra and not be overlooked. The letter is therefore a brief intervention concerning representation, candidate selection, and internal organisational politics.
+
+The second rendered page consists chiefly of handwritten annotations and appears to contain a short list of names and quantities, together with a note identifying an “Erdumann’s Book” and an address for Suresh Naglath in Agra. The annotations are only partly legible and their relationship to the typed letter is not explained on the visible pages.
+
 ## Key points
 
 - M. R. Masani writes to Mr. Raju on 12 November 1969.

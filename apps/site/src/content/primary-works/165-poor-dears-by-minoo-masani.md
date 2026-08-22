@@ -55,6 +55,12 @@ summary: |-
   In the rendered pages, Masani also describes the Ludgate Group as a voluntary working body of young executives and interested outsiders who read, exchange papers, and discuss overseas development. He closes by criticizing foreign experts and politicians who flatter developing-country governments instead of speaking frankly about policy failures. The extract therefore links economic liberalism with intellectual independence: aid should support infrastructure, donors should respect productive purposes, and democratic publics should not be treated as “poor dears” incapable of facing criticism. The final page identifies the text as an extract from a longer article by Masani on Problems of Nationalism.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani criticizes the economic nationalism and Soviet-style planning that he sees spreading across Asia. He argues that attempts at self-sufficiency, restrictions on foreign capital, and the pursuit of prestige projects such as steel plants and supersonic aircraft divert resources from agriculture and infrastructure, create shortages, and weaken participation in the world market. He recounts a disagreement with Jawaharlal Nehru over dependence on foreign capital and presents economic aid as useful only when tied to legitimate developmental purposes rather than manufacturing projects that recipient governments could finance through equity capital.
+
+In the rendered pages, Masani also describes the Ludgate Group as a voluntary working body of young executives and interested outsiders who read, exchange papers, and discuss overseas development. He closes by criticizing foreign experts and politicians who flatter developing-country governments instead of speaking frankly about policy failures. The extract therefore links economic liberalism with intellectual independence: aid should support infrastructure, donors should respect productive purposes, and democratic publics should not be treated as “poor dears” incapable of facing criticism. The final page identifies the text as an extract from a longer article by Masani on Problems of Nationalism.
+
 ## Key points
 
 - Masani opposes economic nationalism and argues that Asian countries should not isolate themselves from the world market.

@@ -50,6 +50,12 @@ summary: |-
   Masani compares the Gujarat situation with problems facing Morarji Desai’s government: factional rivalry, the alleged use of Indira Gandhi’s name and money, and the sharply contrasting methods of the two sides. He argues that a common programme being developed at the Centre risks being undermined by Gujarat Congress leaders. His proposed solution is a friendly disassociation between the Swatantra Party and the Congress while each accepts responsibility for its own conduct, though he acknowledges the difficulty of separating the Swatantra legislators from the party’s local minority. He closes by enclosing answers prepared with Cooper and Raju for PTI questions, including a refusal to comment on the Prime Minister’s alleged double talk.
 ---
 
+## Summary
+
+In this two-page letter dated April 25, 1970, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about the political crisis surrounding Gujarat. Masani says he and Cooper have chosen to remain quiet while the Gujarat controversy subsides, but worries that Mrs. Gandhi’s supporters, including Indira Gandhi’s Congress colleagues, are sustaining the issue despite the Assembly’s adjournment and the absence of a legal need to reconvene it. He reports that seven Gujarat legislators and eight others have gone to Delhi to lobby party quarters and that the Prime Minister has already seen some of them.
+
+Masani compares the Gujarat situation with problems facing Morarji Desai’s government: factional rivalry, the alleged use of Indira Gandhi’s name and money, and the sharply contrasting methods of the two sides. He argues that a common programme being developed at the Centre risks being undermined by Gujarat Congress leaders. His proposed solution is a friendly disassociation between the Swatantra Party and the Congress while each accepts responsibility for its own conduct, though he acknowledges the difficulty of separating the Swatantra legislators from the party’s local minority. He closes by enclosing answers prepared with Cooper and Raju for PTI questions, including a refusal to comment on the Prime Minister’s alleged double talk.
+
 ## Key points
 
 - Masani and Cooper have decided not to intensify the Gujarat controversy, but he fears that Mrs. Gandhi’s supporters are keeping it alive.

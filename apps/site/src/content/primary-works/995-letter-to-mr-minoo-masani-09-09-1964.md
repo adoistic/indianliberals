@@ -49,6 +49,12 @@ summary: |-
   The writer also gives travel plans, describing an intended journey by air and onward travel to Bombay. The closing expresses gratitude to Masani and his colleagues for sending the writer a “heart-warming” message, and conveys continuing commitment to the liberal movement. Because the handwriting, damage, tape, and faded ink obscure several words and names, some details of the itinerary and political references cannot be read with confidence.
 ---
 
+## Summary
+
+This two-page handwritten air-mail letter, dated 9 September 1964, is addressed to Minoo Masani in New Delhi. The writer reports on the outcome of recent elections, expressing hope that they have produced satisfactory results and noting that the people have shown confidence in the political effort being discussed.
+
+The writer also gives travel plans, describing an intended journey by air and onward travel to Bombay. The closing expresses gratitude to Masani and his colleagues for sending the writer a “heart-warming” message, and conveys continuing commitment to the liberal movement. Because the handwriting, damage, tape, and faded ink obscure several words and names, some details of the itinerary and political references cannot be read with confidence.
+
 ## Key points
 
 - The letter is dated 9 September 1964 and addressed to Minoo Masani in New Delhi.

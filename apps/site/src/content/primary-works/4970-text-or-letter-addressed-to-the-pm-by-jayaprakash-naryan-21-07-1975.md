@@ -59,6 +59,10 @@ summary: |-
   In this seven-page letter written from detention on July 21, 1975, Jayaprakash Narayan directly challenges Prime Minister Indira Gandhi's justification for the Emergency. He rejects the claim that the Bihar movement and the Opposition had devised a plan to paralyse the government or spread disaffection among the armed forces. Instead, he presents the movement as a response to corruption, administrative failure, and the Bihar government's refusal to negotiate with students and citizens. He argues that civil disobedience and satyagraha were limited, nonviolent efforts to secure political accountability, including the resignation of an elected government that had lost public confidence.
 ---
 
+## Summary
+
+In this seven-page letter written from detention on July 21, 1975, Jayaprakash Narayan directly challenges Prime Minister Indira Gandhi's justification for the Emergency. He rejects the claim that the Bihar movement and the Opposition had devised a plan to paralyse the government or spread disaffection among the armed forces. Instead, he presents the movement as a response to corruption, administrative failure, and the Bihar government's refusal to negotiate with students and citizens. He argues that civil disobedience and satyagraha were limited, nonviolent efforts to secure political accountability, including the resignation of an elected government that had lost public confidence.
+
 ## Key points
 
 - Narayan urges Gandhi to revoke the Emergency, restore fundamental rights, restore press freedom, and release political detainees.

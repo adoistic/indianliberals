@@ -47,6 +47,12 @@ summary: |-
   The programme includes a public meeting at Dharmapuri, reached by car from Salem, and specifies the return journey to Salem before the overnight train to Madras. Handwritten annotations amend or supplement some printed details, including the weekday entries and a note or signature near the bottom of the page. No issuing organisation, authorial byline, or publication imprint is visible.
 ---
 
+## Summary
+
+“Rajaji's Tour Programme” is a one-page English-language itinerary for April 1965. It records travel from 5 April, when Rajaji was scheduled to depart by train for Salem, through 7 April, when he was due to arrive at Madras Central, followed by a stay in Madras from 8 to 15 April.
+
+The programme includes a public meeting at Dharmapuri, reached by car from Salem, and specifies the return journey to Salem before the overnight train to Madras. Handwritten annotations amend or supplement some printed details, including the weekday entries and a note or signature near the bottom of the page. No issuing organisation, authorial byline, or publication imprint is visible.
+
 ## Key points
 
 - The document is a single-page tour itinerary headed “Rajaji's Tour Programme.”

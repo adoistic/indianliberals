@@ -49,6 +49,12 @@ summary: |-
   The second page contains a handwritten note in red ink, but its text is too faint and unclear to read reliably from the rendered image. No further printed argument or political discussion is visible beyond the letter’s reference to the elections and the sender’s anticipated return to Delhi.
 ---
 
+## Summary
+
+This two-page English letter from Minoo Masani to Mr. J. J. Singh is dated 3 February 1971. Masani acknowledges Singh’s note, explains that he has seen it during a brief visit to his office from his constituency, and promises to address the matter after the elections, when he can return to Delhi. The letter closes with greetings to “Maiti” and Singh and is signed by Masani.
+
+The second page contains a handwritten note in red ink, but its text is too faint and unclear to read reliably from the rendered image. No further printed argument or political discussion is visible beyond the letter’s reference to the elections and the sender’s anticipated return to Delhi.
+
 ## Key points
 
 - The letter is dated 3 February 1971.

@@ -50,6 +50,12 @@ summary: |-
   The report further records Masani’s criticism of the election results as “intriguing,” particularly the large majorities and the apparent disconnect between vote share and parliamentary representation. He warned that the Prime Minister had received no mandate to amend the Constitution and stated that the newly elected Lok Sabha did not fairly reflect the popular will because of what he called the ruling party’s disproportionate representation. The second page contains an image fragment but no additional readable article text.
 ---
 
+## Summary
+
+This 21 March 1971 Bharat Jyoti report presents Swatantra Party leader M. R. Masani’s allegation that the Jana Sangh and Congress (O) actively worked to defeat him in the Rajkot election. In a press conference, Masani said the Swatantra Party would not join a new parliamentary bloc, while leaving open the possibility of a merger with like-minded parties if circumstances required it. He also argued that the democratic front could not be revived in Parliament because disagreements among its constituent leaders over a common programme and policy had produced electoral defeat.
+
+The report further records Masani’s criticism of the election results as “intriguing,” particularly the large majorities and the apparent disconnect between vote share and parliamentary representation. He warned that the Prime Minister had received no mandate to amend the Constitution and stated that the newly elected Lok Sabha did not fairly reflect the popular will because of what he called the ruling party’s disproportionate representation. The second page contains an image fragment but no additional readable article text.
+
 ## Key points
 
 - M. R. Masani alleged that the Jana Sangh and Congress (O) collaborated to defeat him at Rajkot.

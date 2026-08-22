@@ -49,6 +49,12 @@ summary: |-
   The document records a specific administrative appointment and a response to the proposed substitution. It contains no salutation, closing, institutional letterhead, or printed title; the apparent signatory is “RANGA.”
 ---
 
+## Summary
+
+This one-page English telegram, dated 13 July 1968 and sent from Bombay, reports that the Prime Minister has nominated K. P. Singhdeo to the CSIR Inquiry Committee in place of Dandekar. The sender indicates agreement with the change, although the clipped wording makes the final sentence difficult to interpret precisely.
+
+The document records a specific administrative appointment and a response to the proposed substitution. It contains no salutation, closing, institutional letterhead, or printed title; the apparent signatory is “RANGA.”
+
 ## Key points
 
 - The communication is dated 13 July 1968 and located in Bombay.

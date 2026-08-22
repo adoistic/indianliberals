@@ -46,6 +46,12 @@ summary: |-
   The document is a typed telegram or carbon copy rather than a conventional letter: it uses block capitals, omits a salutation and complimentary close, and separates clauses with “STOP.” It records that the representative could reach Patna on any date from the thirteenth onward and requests a wire reply.
 ---
 
+## Summary
+
+This single-page English telegram from Minoo Masani to Raja Raggarh, dated 10 January 1962, concerns arrangements for Masani’s representative to visit and take possession of jeeps. Masani notes that only one week remains to complete the matter and asks the recipient to confirm a suitable date.
+
+The document is a typed telegram or carbon copy rather than a conventional letter: it uses block capitals, omits a salutation and complimentary close, and separates clauses with “STOP.” It records that the representative could reach Patna on any date from the thirteenth onward and requests a wire reply.
+
 ## Key points
 
 - The sender is identified as Masani, resolved in the metadata as Minoo Masani.

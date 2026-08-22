@@ -52,6 +52,12 @@ summary: |-
   The National Executive further authorized State Units to contest Gram Panchayat elections on the Swatantra Party label. It outlined arrangements for the Party's proposed Youth Wing: State Executive Committees should supervise it, State Committees should appoint Youth Organisers, membership should be limited to those aged 25 or below, and non-party workers should also be eligible to join. The document is signed by M. R. Masani as General Secretary.
 ---
 
+## Summary
+
+Dated June 14, 1965, this General Secretary's Letter reports decisions taken by the Swatantra Party's Central Parliamentary Board and National Executive at meetings in Madras on June 4–5. It asks State Parliamentary Boards to submit prioritized lists of parliamentary constituencies, with reasons supporting each proposed candidate, and urges them to explore electoral understandings with democratic opposition parties while keeping such discussions confidential. The letter also notes the Party's position on associating with the Swatantra Socialist Party in light of Indo-Pakistan relations and the Kutch issue.
+
+The National Executive further authorized State Units to contest Gram Panchayat elections on the Swatantra Party label. It outlined arrangements for the Party's proposed Youth Wing: State Executive Committees should supervise it, State Committees should appoint Youth Organisers, membership should be limited to those aged 25 or below, and non-party workers should also be eligible to join. The document is signed by M. R. Masani as General Secretary.
+
 ## Key points
 
 - The letter communicates follow-up decisions from Swatantra Party meetings held in Madras on June 4–5, 1965.

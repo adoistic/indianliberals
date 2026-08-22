@@ -51,6 +51,12 @@ summary: |-
   The attached statement, dated 30 July 1968, condemns Soviet interference in Czechoslovakia and the use of military pressure to obstruct the country's liberalisation. It argues that the crisis threatens both Czechoslovakia's domestic freedoms and world peace, and calls on the Government of India to act diplomatically, including by seeking an immediate meeting of the United Nations Security Council. The statement also specifically defends freedom of the press, freedom of expression, and a more rational and liberal economic order.
 ---
 
+## Summary
+
+This untitled letter from M. R. Masani to the Speaker of the Lok Sabha, dated 1 August 1968, requests permission for a short parliamentary discussion on the Czechoslovak-Soviet dispute. Masani notes that he and four other members—Balraj Madhok, S. N. Dwivedi, D. K. Kunte, and Humayun Kabir—have submitted a motion under Rule 184, and asks that the discussion follow their questions on the matter.
+
+The attached statement, dated 30 July 1968, condemns Soviet interference in Czechoslovakia and the use of military pressure to obstruct the country's liberalisation. It argues that the crisis threatens both Czechoslovakia's domestic freedoms and world peace, and calls on the Government of India to act diplomatically, including by seeking an immediate meeting of the United Nations Security Council. The statement also specifically defends freedom of the press, freedom of expression, and a more rational and liberal economic order.
+
 ## Key points
 
 - Masani asks the Speaker of the Lok Sabha to permit a short discussion on the Czechoslovak-Soviet dispute.

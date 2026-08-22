@@ -50,6 +50,10 @@ summary: |-
   This Indian Express clipping reports Prime Minister Indira Gandhi’s October 5, 1969 address to industrialists in Madras. Gandhi rejected the idea of imposing “controls for controls’ sake” and said that the long-term interests of business and government were not divergent. She offered to relax controls where private trade and industry demonstrated social responsibility, arguing that cooperation between private and public sectors was necessary for faster economic growth and social justice.
 ---
 
+## Summary
+
+This Indian Express clipping reports Prime Minister Indira Gandhi’s October 5, 1969 address to industrialists in Madras. Gandhi rejected the idea of imposing “controls for controls’ sake” and said that the long-term interests of business and government were not divergent. She offered to relax controls where private trade and industry demonstrated social responsibility, arguing that cooperation between private and public sectors was necessary for faster economic growth and social justice.
+
 ## Key points
 
 - Indira Gandhi said government controls should have a rational purpose rather than exist for their own sake.

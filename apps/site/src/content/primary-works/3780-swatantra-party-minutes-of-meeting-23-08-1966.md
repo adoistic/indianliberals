@@ -55,6 +55,10 @@ summary: |-
   These draft minutes record the Swatantra Party Central Parliamentary Board's meeting in Madras on 22–23 July 1966. The Board reviewed prospective parliamentary and assembly candidates across several states, including proposed changes in Anand, the withdrawal of a candidature in Junagadh, and arrangements involving Rajasthan, Uttar Pradesh, and other constituencies. It also considered campaign organisation, candidate fundraising, Rajaji's appeal for qualified candidates, and the party's preparations for the 1967 general elections.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Central Parliamentary Board's meeting in Madras on 22–23 July 1966. The Board reviewed prospective parliamentary and assembly candidates across several states, including proposed changes in Anand, the withdrawal of a candidature in Junagadh, and arrangements involving Rajasthan, Uttar Pradesh, and other constituencies. It also considered campaign organisation, candidate fundraising, Rajaji's appeal for qualified candidates, and the party's preparations for the 1967 general elections.
+
 ## Key points
 
 - The Board approved, modified, or deferred prospective candidate recommendations in Mysore, Madras, Bihar, West Bengal, Gujarat, Rajasthan, and Uttar Pradesh.

@@ -45,6 +45,12 @@ summary: |-
   Written only weeks before Indira Gandhi's declaration of the Emergency in June 1975, the note is significant less for its argument than for what it reveals about Masani's correspondence: a Bengali civil-society interlocutor seeking his engagement on the national situation, and a curt, cordial refusal to be drawn in. It is a fragment of the Swatantra founder's outgoing mail rather than a piece of political writing.
 ---
 
+## Summary
+
+This is a one-page typed courtesy letter that M. R. Masani sent on 15 April 1975 to Badal Gangopadhya at the Dakshin Sahartali Lokkalyan Sanstha, 141 Panchanantala Road, Calcutta 700 041. Masani acknowledges Gangopadhya's letter of 30 March, notes that a Satyapriya Basu — evidently despatched as an intermediary — never actually reached him ("perhaps he tried and found I was away"), and politely declines to enter into a substantive exchange on the issues Gangopadhya had raised about "the state of the country", pleading pressure of time.
+
+Written only weeks before Indira Gandhi's declaration of the Emergency in June 1975, the note is significant less for its argument than for what it reveals about Masani's correspondence: a Bengali civil-society interlocutor seeking his engagement on the national situation, and a curt, cordial refusal to be drawn in. It is a fragment of the Swatantra founder's outgoing mail rather than a piece of political writing.
+
 ## Key points
 
 - One-page typed letter from M. R. Masani dated 15 April 1975, addressed to Badal Gangopadhya in Calcutta.

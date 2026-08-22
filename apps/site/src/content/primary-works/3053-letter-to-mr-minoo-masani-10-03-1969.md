@@ -49,6 +49,12 @@ summary: |-
   The letter expresses appreciation for encouragement and frames public duty as something to be performed regardless of its consequences. The individual sender cannot be confidently identified from the handwritten signature, and the document does not state the purpose or substance of the referenced legislative address.
 ---
 
+## Summary
+
+This single-page letter, dated March 10, 1969, was sent from Raj Bhavan, Calcutta, on the letterhead of the Governor of West Bengal to M. R. Masani. The sender thanks Masani, Dahyabhai Patel, Lobo Prabhu, and Piloo Mody for a telegram concerning the sender's address to the Bengal Legislature.
+
+The letter expresses appreciation for encouragement and frames public duty as something to be performed regardless of its consequences. The individual sender cannot be confidently identified from the handwritten signature, and the document does not state the purpose or substance of the referenced legislative address.
+
 ## Key points
 
 - The letter is dated March 10, 1969, and was issued from Raj Bhavan, Calcutta.

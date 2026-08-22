@@ -48,6 +48,12 @@ summary: |-
   The document is an administrative coordination note rather than a substantive political or economic argument. The final digit of the year is cropped or illegible, and no title, publisher, place, or fuller recipient details are printed on the page.
 ---
 
+## Summary
+
+This single-page English letter from M. R. Masani, dated visibly as June 24, 197?, is addressed in substance to Mrs. C. Mirchandani and names S. V. Raju in the header. Masani requests that materials be supplied immediately for Mirchandani: a list of people he has approached who have not yet responded, copies of a letter he has written, and promotional materials including appeals and rate cards.
+
+The document is an administrative coordination note rather than a substantive political or economic argument. The final digit of the year is cropped or illegible, and no title, publisher, place, or fuller recipient details are printed on the page.
+
 ## Key points
 
 - M. R. Masani is the signatory.

@@ -50,6 +50,12 @@ summary: |-
   The agenda covers confirmation of the minutes of meetings held on November 24, 1971, and January 12, 1972; the party's financial position; organisational issues; and any other matter permitted by the Chair. The notice is signed by P. Narayan, identified as Office Secretary.
 ---
 
+## Summary
+
+This one-page English office notice, dated April 13, 1972, was issued by the Swatantra Party's Bombay Region from its office at Sassoon Building, Bombay. It announces a meeting of the regional Executive Committee to be held on Monday, April 24, 1972, at 6:15 p.m.
+
+The agenda covers confirmation of the minutes of meetings held on November 24, 1971, and January 12, 1972; the party's financial position; organisational issues; and any other matter permitted by the Chair. The notice is signed by P. Narayan, identified as Office Secretary.
+
 ## Key points
 
 - The Swatantra Party's Bombay Region announces an Executive Committee meeting for April 24, 1972.

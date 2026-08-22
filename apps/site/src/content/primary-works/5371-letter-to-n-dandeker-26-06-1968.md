@@ -51,6 +51,12 @@ summary: |-
   Singh maintains that the parties have no fundamental disagreement over principles, policies, or manifestos, provided Charan Singh accepts Swatantra's ideological position. He distinguishes the vague term "Socialism" from Marxism and argues that the Swatantra Party should not antagonize people who describe themselves as Gandhian Socialists. Citing the party's commitment to Gandhi's principle of trusteeship and to Gandhi's teachings, as well as a recent statement by Rajaji, he asks Dandekar to reconsider his opposition and support presenting the merger proposal to the National Executive.
 ---
 
+## Summary
+
+In this letter dated 26 June 1968, Bhanu Pratap Singh writes to N. Dandekar about the proposed merger of the Swatantra Party and the BKD. He acknowledges advice on the choice of constituencies and candidates, while insisting that he should continue visiting western districts of Uttar Pradesh before committing himself. He objects that Chaudhary Charan Singh's merger proposal has not received fair consideration and argues that Singh was led to believe that Swatantra Party leaders would consider the proposal sympathetically, only to be asked to surrender to the party unconditionally.
+
+Singh maintains that the parties have no fundamental disagreement over principles, policies, or manifestos, provided Charan Singh accepts Swatantra's ideological position. He distinguishes the vague term "Socialism" from Marxism and argues that the Swatantra Party should not antagonize people who describe themselves as Gandhian Socialists. Citing the party's commitment to Gandhi's principle of trusteeship and to Gandhi's teachings, as well as a recent statement by Rajaji, he asks Dandekar to reconsider his opposition and support presenting the merger proposal to the National Executive.
+
 ## Key points
 
 - The letter concerns a proposed merger between the Swatantra Party and the BKD.

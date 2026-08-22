@@ -51,6 +51,12 @@ summary: |-
   The letter records the committee’s decision that the Swatantra Party should continue to function as a separate entity. Srikumar says he was authorised to communicate this decision to Masani and to the other committees and individuals concerned. The document does not elaborate on the arguments for or against the proposed merger.
 ---
 
+## Summary
+
+In this letter dated 28 May 1974, V.S. Srikumar, Secretary of the Madras District Swatantra Party, reports to M.R. Masani on discussions concerning a proposed merger with other parties. Srikumar states that the executive committee and district committee met for three days, with an average attendance of about 28 members per day, and that nearly all participants expressed their views.
+
+The letter records the committee’s decision that the Swatantra Party should continue to function as a separate entity. Srikumar says he was authorised to communicate this decision to Masani and to the other committees and individuals concerned. The document does not elaborate on the arguments for or against the proposed merger.
+
 ## Key points
 
 - The Madras District Swatantra Party considered a proposed merger with other parties.

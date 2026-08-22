@@ -51,6 +51,12 @@ summary: |-
   The report also surveys the session’s principal controversies: the Kashmir issue, the Gold Control Bill, criticism of the Government’s handling of the Opposition, charges against Deputy Minister M. S. Sinha, and the dispute over the Deputy Chairmanship of the Rajya Sabha. It portrays the Congress as dominant but vulnerable to criticism over parliamentary procedure, while noting that the Swatantra Party had not yet established a strong presence in the Upper House. A second rendered page contains separate international news briefs and an advertisement rather than a continuation of this article.
 ---
 
+## Summary
+
+This 11 June 1964 newspaper article, published in The Hindu’s “The Week in Parliament” section, reviews a short parliamentary session held after Jawaharlal Nehru’s death. It presents the session as unusually restrained and courteous, contrasting the Opposition’s tributes to Nehru with the procedural and political tensions that followed his succession. The article highlights Nehru’s final parliamentary appearance, the appointment of Lal Bahadur Shastri as Prime Minister, and the impression made by Shastri’s first statements in the House.
+
+The report also surveys the session’s principal controversies: the Kashmir issue, the Gold Control Bill, criticism of the Government’s handling of the Opposition, charges against Deputy Minister M. S. Sinha, and the dispute over the Deputy Chairmanship of the Rajya Sabha. It portrays the Congress as dominant but vulnerable to criticism over parliamentary procedure, while noting that the Swatantra Party had not yet established a strong presence in the Upper House. A second rendered page contains separate international news briefs and an advertisement rather than a continuation of this article.
+
 ## Key points
 
 - The article characterizes the session as the briefest in Parliament but politically and emotionally significant because it followed Nehru’s death.

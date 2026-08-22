@@ -54,6 +54,12 @@ summary: |-
   The report places the session against an anxious international backdrop, citing events in Laos and the Congo and warning that the world appeared to be moving toward a major war. It also records criticism of the session’s arrangements, including inadequate protection and poor facilities, before summarising six resolutions on foreign affairs. The closing portion states that the session emphasised national integration, which it linked to a call for Congressmen to play a historical role in continuing to build national unity and resisting communalism and casteism. The clipping does not identify an individual author or print a year.
 ---
 
+## Summary
+
+This one-page English newspaper clipping, credited to “The Times of India” News Service and datelined Sardarnagar, January 7, reports on an Indian National Congress session whose principal theme was national unity. It describes Jawaharlal Nehru’s speeches as urging delegates to forge national unity and build a “modernised society,” while characterising the leadership’s approach as “momentous significance.”
+
+The report places the session against an anxious international backdrop, citing events in Laos and the Congo and warning that the world appeared to be moving toward a major war. It also records criticism of the session’s arrangements, including inadequate protection and poor facilities, before summarising six resolutions on foreign affairs. The closing portion states that the session emphasised national integration, which it linked to a call for Congressmen to play a historical role in continuing to build national unity and resisting communalism and casteism. The clipping does not identify an individual author or print a year.
+
 ## Key points
 
 - The Indian National Congress session at Sardarnagar is presented as centred on national unity.

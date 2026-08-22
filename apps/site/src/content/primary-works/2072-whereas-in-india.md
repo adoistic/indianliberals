@@ -52,6 +52,12 @@ summary: |-
   The sheet closes with a numerical illustration: a pensioner who received Rs. 100 on retirement in 1956 would have only barely Rs. 25 in purchasing power in 1974. Through cartoons and emphatic captions, it presents inflation as undermining the security that savings and pensions are intended to provide. No author, publisher, issuer, place, or publication year is printed on the visible page.
 ---
 
+## Summary
+
+This one-page illustrated sheet argues that Indian people must largely provide for their own old age through life insurance, provident funds, government servants' pensions, and small personal savings or bank deposits. Its central concern is that rising prices erode the purchasing power of these forms of provision, leaving pensioners and self-employed people especially exposed.
+
+The sheet closes with a numerical illustration: a pensioner who received Rs. 100 on retirement in 1956 would have only barely Rs. 25 in purchasing power in 1974. Through cartoons and emphatic captions, it presents inflation as undermining the security that savings and pensions are intended to provide. No author, publisher, issuer, place, or publication year is printed on the visible page.
+
 ## Key points
 
 - The sheet contrasts the situation in India with societies where people may rely on more secure collective provision, while stating that Indian people have to fend for themselves.

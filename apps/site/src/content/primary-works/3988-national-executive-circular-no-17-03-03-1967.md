@@ -49,6 +49,10 @@ summary: |-
   Dated 3 March 1967, this one-page internal circular from the Swatantra Party Central Office, signed by General Secretary M. R. Masani, announces a National Executive meeting to be held in New Delhi on 15 March at Vitthalbhai Patel House. It addresses party members as "Dear friend" and provides the meeting's logistical details.
 ---
 
+## Summary
+
+Dated 3 March 1967, this one-page internal circular from the Swatantra Party Central Office, signed by General Secretary M. R. Masani, announces a National Executive meeting to be held in New Delhi on 15 March at Vitthalbhai Patel House. It addresses party members as "Dear friend" and provides the meeting's logistical details.
+
 ## Key points
 
 - The circular is National Executive Circular No. 17, issued by the Swatantra Party Central Office.

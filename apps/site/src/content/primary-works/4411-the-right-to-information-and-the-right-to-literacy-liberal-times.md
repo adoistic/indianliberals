@@ -56,6 +56,12 @@ summary: |-
   In the rendered pages, Raju criticises state secrecy, official control of All India Radio and Doordarshan, press censorship during the Emergency, the Official Secrets Act, and government attempts to influence newspapers through newsprint and advertising. He discusses the proposed Freedom of Information Bill, the relationship between privacy and disclosure, the role of voluntary organisations and the women of Rajasthan in securing information, and the importance of publishing audit reports. The conclusion returns to literacy and information technology, arguing that information becomes power only when it leads to knowledge and action.
 ---
 
+## Summary
+
+In the rendered pages, S. V. Raju argues that access to information is essential to informed decision-making, accountable government, democratic participation, and effective local self-government. He connects the right to information to literacy: citizens must be able to read, understand, and use the information that surrounds them. The essay contrasts India’s weak and fragmented legal arrangements with examples from the United States, where public reports are generally available on request, and with the need for a stronger central Freedom of Information law in India.
+
+In the rendered pages, Raju criticises state secrecy, official control of All India Radio and Doordarshan, press censorship during the Emergency, the Official Secrets Act, and government attempts to influence newspapers through newsprint and advertising. He discusses the proposed Freedom of Information Bill, the relationship between privacy and disclosure, the role of voluntary organisations and the women of Rajasthan in securing information, and the importance of publishing audit reports. The conclusion returns to literacy and information technology, arguing that information becomes power only when it leads to knowledge and action.
+
 ## Key points
 
 - Information is presented as a precondition for knowledge, action, informed decisions, and democratic participation.

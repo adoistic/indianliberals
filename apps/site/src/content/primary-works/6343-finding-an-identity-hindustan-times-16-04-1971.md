@@ -50,6 +50,12 @@ summary: |-
   The article’s central concern is the Swatantra Party’s unresolved political identity. It asks whether the party should adopt a forward-looking, aggressively modern conservatism associated with Edward Heath, or develop a more specifically Indian position. The party is described as having acquired an identity problem because it is often regarded as representing feudal and moneyed interests, although the article says this characterization is not wholly applicable outside parts of Andhra and Tamil Nadu. The 1971 election results are presented as confirming this difficulty, while the article suggests that a natural democratic alternative to the Congress (O) could eventually emerge on the right, despite setbacks in the election.
 ---
 
+## Summary
+
+The article assesses Minoo Masani’s post-election admission of responsibility for the Swatantra Party’s poor performance, treating it as either an exemplary gesture or an effort to explain failures he had previously warned against. It notes that Masani opposed the party’s alliance without a common minimum programme and had argued that such a strategy would be politically indefensible and electorally damaging.
+
+The article’s central concern is the Swatantra Party’s unresolved political identity. It asks whether the party should adopt a forward-looking, aggressively modern conservatism associated with Edward Heath, or develop a more specifically Indian position. The party is described as having acquired an identity problem because it is often regarded as representing feudal and moneyed interests, although the article says this characterization is not wholly applicable outside parts of Andhra and Tamil Nadu. The 1971 election results are presented as confirming this difficulty, while the article suggests that a natural democratic alternative to the Congress (O) could eventually emerge on the right, despite setbacks in the election.
+
 ## Key points
 
 - Minoo Masani’s admission of responsibility for the Swatantra Party’s electoral performance is presented as politically significant.

@@ -53,6 +53,12 @@ summary: |-
   The meeting approved M. R. Masani’s proposed personal explanation to the Lok Sabha, rejected an initiative to table a substitute resolution concerning the Language Bill, and decided to whip members to support circulation of the Bill for public opinion. Members agreed to oppose the Unlawful Activities Bill and to follow arguments in a dissenting minute by Professor M. Ruthnaswamy. The record is signed by J. M. Lobo Prabhu as Secretary and provides no separately stated author or printed title.
 ---
 
+## Summary
+
+This one-page office record from the Swatantra Party Parliamentary Office reports a General Body meeting held in Parliament House, New Delhi, on 13 December 1967. It lists 20 members present and records decisions on parliamentary responses to allegations concerning foreign contributions to political parties, the Language Bill, a proposed short-duration discussion on Sheikh Abdullah, the Unlawful Activities Bill, supplementary grants, deficit financing, and outstanding party-member contributions.
+
+The meeting approved M. R. Masani’s proposed personal explanation to the Lok Sabha, rejected an initiative to table a substitute resolution concerning the Language Bill, and decided to whip members to support circulation of the Bill for public opinion. Members agreed to oppose the Unlawful Activities Bill and to follow arguments in a dissenting minute by Professor M. Ruthnaswamy. The record is signed by J. M. Lobo Prabhu as Secretary and provides no separately stated author or printed title.
+
 ## Key points
 
 - The General Body meeting took place on 13 December 1967 at 10 a.m. in Room No. 50, Parliament House, New Delhi.

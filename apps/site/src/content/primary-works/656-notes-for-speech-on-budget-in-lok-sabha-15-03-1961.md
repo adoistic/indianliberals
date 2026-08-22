@@ -59,6 +59,14 @@ summary: |-
   The final section proposes an alternative programme: sharply reduce civil expenditure, concentrate development spending on labour-intensive projects with quick returns, impose a reasonable limit on taxation, improve tax collection, convert sales tax into excise, reduce state-sector capital outlay, and replace foreign borrowing with equity capital. The appendices provide state-government revenue-expenditure estimates for the Third Plan period. The notes are unattributed in the printed material and include handwritten revisions, marginal comments, newspaper references, and statistical tables.
 ---
 
+## Summary
+
+These typed and heavily annotated notes prepare a Lok Sabha Budget speech delivered on 15 March 1961. They argue that the Budget’s indirect taxation, turnover taxes, excise duties, and related price increases would burden poorer consumers, raise the cost of living, damage small-scale industry, and worsen unemployment. The notes challenge the claim that socialism protects the poor, contrasting that claim with references to Soviet tax policy and Communist commentary. They also criticise opposition parties for accepting government-directed economic policy while avoiding its costs, and present the Swatantra Party as offering a genuinely different alternative based on private choice, competition, and a free society.
+
+A second line of argument treats inflation as a consequence of excessive monetary expansion and government spending. The notes cite increases in the wholesale price index, the faster growth of money supply than national income, and the effects of taxation and development policy on savings, investment, production, and exports. They argue that public-sector expansion has produced very low returns, while controls, bureaucracy, premature industrial projects, and state-directed investment have generated waste and impeded private enterprise.
+
+The final section proposes an alternative programme: sharply reduce civil expenditure, concentrate development spending on labour-intensive projects with quick returns, impose a reasonable limit on taxation, improve tax collection, convert sales tax into excise, reduce state-sector capital outlay, and replace foreign borrowing with equity capital. The appendices provide state-government revenue-expenditure estimates for the Third Plan period. The notes are unattributed in the printed material and include handwritten revisions, marginal comments, newspaper references, and statistical tables.
+
 ## Key points
 
 - The notes oppose the Budget’s reliance on indirect taxation, arguing that it shifts costs onto poorer consumers.

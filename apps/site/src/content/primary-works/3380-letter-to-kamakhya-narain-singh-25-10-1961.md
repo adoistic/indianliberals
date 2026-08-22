@@ -46,6 +46,10 @@ summary: |-
   This single-page confidential office letter, dated Bombay, 25 October 1961, is addressed to Kamakshya Narayansingh, Raja Bahadur of Ramgarh, at Ramgarh House near Dinapore Road, Patna. Issued on the letterhead of The Central Bank of India, Ltd., it concerns the recipient's overdraft account.
 ---
 
+## Summary
+
+This single-page confidential office letter, dated Bombay, 25 October 1961, is addressed to Kamakshya Narayansingh, Raja Bahadur of Ramgarh, at Ramgarh House near Dinapore Road, Patna. Issued on the letterhead of The Central Bank of India, Ltd., it concerns the recipient's overdraft account.
+
 ## Key points
 
 - The letter is dated 25 October 1961 and marked confidential.

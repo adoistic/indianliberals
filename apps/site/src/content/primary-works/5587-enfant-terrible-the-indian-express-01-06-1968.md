@@ -47,6 +47,10 @@ summary: |-
   The single-page item titled “Enfant terrible” is a political cartoon about the Congress party’s electoral success in Rajasthan. It depicts a central figure labelled “SUKHERDIA” pulling away a bound group labelled “SWARANTRA,” while two observers stand at the right. The caption identifies the event being satirised: Congress has won both Rajasthan by-elections.
 ---
 
+## Summary
+
+The single-page item titled “Enfant terrible” is a political cartoon about the Congress party’s electoral success in Rajasthan. It depicts a central figure labelled “SUKHERDIA” pulling away a bound group labelled “SWARANTRA,” while two observers stand at the right. The caption identifies the event being satirised: Congress has won both Rajasthan by-elections.
+
 ## Key points
 
 - The item is a single political cartoon rather than a prose essay.

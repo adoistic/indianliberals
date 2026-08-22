@@ -49,6 +49,10 @@ summary: |-
   This single-page English letter, dated August 1965, is addressed to the Secretary of the Lok Sabha in New Delhi. The unidentified Member of Parliament gives formal notice of a no-confidence motion and requests that it be placed on the agenda of the House's first sitting.
 ---
 
+## Summary
+
+This single-page English letter, dated August 1965, is addressed to the Secretary of the Lok Sabha in New Delhi. The unidentified Member of Parliament gives formal notice of a no-confidence motion and requests that it be placed on the agenda of the House's first sitting.
+
 ## Key points
 
 - The document is a formal parliamentary notice letter.

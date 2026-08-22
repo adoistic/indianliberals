@@ -47,6 +47,10 @@ summary: |-
   This one-page letter from Minoo Masani to Girish Munshi is dated April 15, 1977, and follows up on a meeting that had ended abruptly the previous day. Masani proposes a detailed discussion at his residence on Saturday, April 23, at 10 a.m., asking whether Munshi and Kejriwal can come over.
 ---
 
+## Summary
+
+This one-page letter from Minoo Masani to Girish Munshi is dated April 15, 1977, and follows up on a meeting that had ended abruptly the previous day. Masani proposes a detailed discussion at his residence on Saturday, April 23, at 10 a.m., asking whether Munshi and Kejriwal can come over.
+
 ## Key points
 
 - Minoo Masani writes to Girish Munshi from 143 Mahatma Gandhi Road, Bombay.

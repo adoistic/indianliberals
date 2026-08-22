@@ -49,6 +49,10 @@ summary: |-
   This one-page Swatantra Party circular, dated 24 September 1965, announces the next meeting of the party's National Executive. It states that the meeting will take place on Saturday, 30 October, at Kalki Buildings, Kilpauk, Madras 10; the exact time and agenda were to be notified later.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated 24 September 1965, announces the next meeting of the party's National Executive. It states that the meeting will take place on Saturday, 30 October, at Kalki Buildings, Kilpauk, Madras 10; the exact time and agenda were to be notified later.
+
 ## Key points
 
 - The document is headed "NATIONAL EXECUTIVE CIRCULAR NO. 2/1965."

@@ -51,6 +51,12 @@ summary: |-
   Cooper considers dissolution the best option, partly because opposition parties are too divided and poorly resourced to form an effective united front. He acknowledges that single-party rule can lead to dictatorship, but argues that opposition parties may be unable to challenge the ruling party through parliamentary politics alone unless they are prepared for the kind of direct action suggested by Rajaji. He asks Patel to circulate the letter before meetings of the National Executive and General Council, while also seeking the views of Rajaji, M. R. Masani, and N. Dandekar. The two rendered pages constitute the complete letter; no title is printed on the document.
 ---
 
+## Summary
+
+In this letter dated March 28, 1972, R. C. Cooper writes to H. M. Patel about the future of the Swatantra Party after its poor electoral performance. Cooper argues that the party’s programme has failed to attract the Indian public despite more than ten years of effort, with this rejection becoming especially clear after the 1971 mid-term poll and subsequent state elections. He presents three alternatives: continue the party unchanged, merge with like-minded parties, or dissolve it and allow members to choose their future political paths.
+
+Cooper considers dissolution the best option, partly because opposition parties are too divided and poorly resourced to form an effective united front. He acknowledges that single-party rule can lead to dictatorship, but argues that opposition parties may be unable to challenge the ruling party through parliamentary politics alone unless they are prepared for the kind of direct action suggested by Rajaji. He asks Patel to circulate the letter before meetings of the National Executive and General Council, while also seeking the views of Rajaji, M. R. Masani, and N. Dandekar. The two rendered pages constitute the complete letter; no title is printed on the document.
+
 ## Key points
 
 - Cooper says the Swatantra Party’s programme has failed to attract the Indian public despite more than a decade of effort.

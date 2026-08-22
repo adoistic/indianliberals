@@ -49,6 +49,12 @@ summary: |-
   The letter reflects on the bitterness of earlier opposition to “Sheikh” and argues that India is increasingly reconciled to the need to resolve the problem. It praises Rajagopalachari’s earlier work for the partition of the country and his willingness to advocate an unpopular cause, presenting political courage and national reconciliation as the central concerns of the correspondence. The page is marked “(true Copy).”
 ---
 
+## Summary
+
+This typed letter, dated 22 May 1964 and sent from London, is addressed by “Ghanshyamdas” to C. Rajagopalachari (“Rajajee”). The writer congratulates Rajagopalachari for changing public attitudes through his recent statements and articles, and credits Jayaprakash Narayan and Lal Bahadur Shastri with showing similar courage in seeking a resolution to India’s political problem, while criticizing Morarji Desai for not doing so.
+
+The letter reflects on the bitterness of earlier opposition to “Sheikh” and argues that India is increasingly reconciled to the need to resolve the problem. It praises Rajagopalachari’s earlier work for the partition of the country and his willingness to advocate an unpopular cause, presenting political courage and national reconciliation as the central concerns of the correspondence. The page is marked “(true Copy).”
+
 ## Key points
 
 - The letter is dated 22 May 1964 and was written from Grosvenor House, London.

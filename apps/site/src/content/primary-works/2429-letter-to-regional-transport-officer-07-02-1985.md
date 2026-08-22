@@ -51,6 +51,12 @@ summary: |-
   Masani supports his request by referring to earlier correspondence sent in 1976 by the Executive Secretary of the Bharatiya Lok Dal, the party into which the Swatantra Party had merged, and by S. V. Raju on behalf of Masani, Raju, and Mrs. Padma Vawani. The letter is a concise administrative appeal against the continued issuing of a tax demand despite prior notice that the vehicle had been sold.
 ---
 
+## Summary
+
+In this letter dated February 7, 1985, M. R. Masani returns a motor-vehicle tax bill to the Regional Transport Officer for cancellation. He explains that the bill concerns a Jeep formerly used by the Swatantra Party during the 1971 elections and sold immediately afterward, so he considers himself no longer liable for the tax covering February 1984 to January 1985.
+
+Masani supports his request by referring to earlier correspondence sent in 1976 by the Executive Secretary of the Bharatiya Lok Dal, the party into which the Swatantra Party had merged, and by S. V. Raju on behalf of Masani, Raju, and Mrs. Padma Vawani. The letter is a concise administrative appeal against the continued issuing of a tax demand despite prior notice that the vehicle had been sold.
+
 ## Key points
 
 - Masani received a motor-vehicle tax bill dated December 1, 1984, for the period February 1984 to January 1985.

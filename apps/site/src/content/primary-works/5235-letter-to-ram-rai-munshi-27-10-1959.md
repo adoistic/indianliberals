@@ -45,6 +45,10 @@ summary: |-
   This one-page English letter, dated 27 October 1959, is from M. R. Masani to Ram Rai Munshi. Masani agrees about the significance of Chinese action and directs Munshi to a report in the Indian Express reproducing remarks he made at Mangalore the previous day. He also outlines his immediate schedule: remaining in Bombay until travelling to Delhi for the Parliament session on 15 November, while spending intervening weekends away from Bombay on Swatantra Party engagements.
 ---
 
+## Summary
+
+This one-page English letter, dated 27 October 1959, is from M. R. Masani to Ram Rai Munshi. Masani agrees about the significance of Chinese action and directs Munshi to a report in the Indian Express reproducing remarks he made at Mangalore the previous day. He also outlines his immediate schedule: remaining in Bombay until travelling to Delhi for the Parliament session on 15 November, while spending intervening weekends away from Bombay on Swatantra Party engagements.
+
 ## Key points
 
 - Masani agrees with the recipient about the significance of Chinese action.

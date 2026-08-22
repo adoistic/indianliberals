@@ -49,6 +49,12 @@ summary: |-
   The message is a brief piece of political coordination rather than a developed argument. Its content indicates engagement with a resolution on Czechoslovakia and an effort to secure Masani’s participation, but the document provides no further explanation of the resolution, the event, or the sender’s organisational affiliation.
 ---
 
+## Summary
+
+This single-page telegram, received in Bombay on 13 August 1969, is addressed to Minoo Masani and signed “RANGA.” The sender refers to a previously intimated resolution concerning Czechoslovakia and asks Masani to attend and participate in an event on Wednesday.
+
+The message is a brief piece of political coordination rather than a developed argument. Its content indicates engagement with a resolution on Czechoslovakia and an effort to secure Masani’s participation, but the document provides no further explanation of the resolution, the event, or the sender’s organisational affiliation.
+
 ## Key points
 
 - The document is an Indian Posts and Telegraphs Department telegram received on 13 August 1969.

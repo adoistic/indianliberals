@@ -43,6 +43,10 @@ summary: |-
   In this one-page letter dated 27 June 1966, M. R. Masani writes to J. R. D. Tata, addressed as “Jeh,” enclosing brief notes on the Prime Minister’s reactions to proposals presented during a recent meeting. Masani explains that he is sending the notes because he thought Tata might be interested in reading them.
 ---
 
+## Summary
+
+In this one-page letter dated 27 June 1966, M. R. Masani writes to J. R. D. Tata, addressed as “Jeh,” enclosing brief notes on the Prime Minister’s reactions to proposals presented during a recent meeting. Masani explains that he is sending the notes because he thought Tata might be interested in reading them.
+
 ## Key points
 
 - The document is a personal letter from M. R. Masani to J. R. D. Tata.

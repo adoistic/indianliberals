@@ -51,6 +51,12 @@ summary: |-
   The remarks document a broad effort to recruit members, sympathisers, organisers, lawyers, journalists, merchants, farmers, legislators, and local association leaders. Individuals offer financial contributions, publicity, personal assistance, local branches, membership drives, organisational work, and even a fundraising drama. Several entries advocate a strongly organised, countrywide party to replace or challenge Congress, while others refer to building Socialist Party branches, convening meetings, and strengthening party activity in Andhra and Telangana. The document is an administrative snapshot rather than a programmatic statement: it contains no formal title, date, author, or detailed account of the party’s policies.
 ---
 
+## Summary
+
+This five-page internal Swatantra Party document, headed “ANDHRA,” is a constituency-level contact and mobilisation list. It records 91 individuals across Hyderabad, Andhra, Cuddapah, Guntur, Kakinada, Vijayawada, Nellore, Visakhapatnam, and other locations, together with occupations, addresses, political affiliations, and brief assessments of their usefulness to the party.
+
+The remarks document a broad effort to recruit members, sympathisers, organisers, lawyers, journalists, merchants, farmers, legislators, and local association leaders. Individuals offer financial contributions, publicity, personal assistance, local branches, membership drives, organisational work, and even a fundraising drama. Several entries advocate a strongly organised, countrywide party to replace or challenge Congress, while others refer to building Socialist Party branches, convening meetings, and strengthening party activity in Andhra and Telangana. The document is an administrative snapshot rather than a programmatic statement: it contains no formal title, date, author, or detailed account of the party’s policies.
+
 ## Key points
 
 - The document lists 91 Andhra-region contacts and prospective supporters of the Swatantra Party.

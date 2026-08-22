@@ -54,6 +54,12 @@ summary: |-
   Mohta identifies a revival of the capital market as the first requirement, criticizing high taxes, price and other controls, expensive credit, and the government's negative attitude toward stock-market activity. He recommends tax incentives for equity investment, permitting provident-fund money to enter securities, lower interest rates, reduced income-tax burdens, and greater investment in equities as protection against inflation. The memorandum also emphasizes rapid project implementation, foreign technical collaboration, export incentives, and a shift toward “growth with speed,” claiming that delays increase foreign-exchange losses, unemployment, inflation, and social unrest. The document is fully visible here, including the covering letter and all four pages of the memorandum.
 ---
 
+## Summary
+
+This 10 January 1969 covering letter from M. K. Mohta, Member of Parliament, sends Minoo Masani a memorandum that Mohta had submitted to Prime Minister Indira Gandhi on 4 January 1969. The enclosed memorandum, titled “The Problems of the Indian Economy,” argues that the private sector must be enabled to contribute more effectively to India's economic development as the country prepares its Fourth Plan.
+
+Mohta identifies a revival of the capital market as the first requirement, criticizing high taxes, price and other controls, expensive credit, and the government's negative attitude toward stock-market activity. He recommends tax incentives for equity investment, permitting provident-fund money to enter securities, lower interest rates, reduced income-tax burdens, and greater investment in equities as protection against inflation. The memorandum also emphasizes rapid project implementation, foreign technical collaboration, export incentives, and a shift toward “growth with speed,” claiming that delays increase foreign-exchange losses, unemployment, inflation, and social unrest. The document is fully visible here, including the covering letter and all four pages of the memorandum.
+
 ## Key points
 
 - The covering letter dated 10 January 1969 encloses a memorandum submitted to Indira Gandhi on 4 January 1969.

@@ -61,6 +61,12 @@ summary: |-
   The minutes also set out the party’s immediate parliamentary and political positions. Members were instructed to oppose the government’s foreign-policy stance on China while recognising that Sino-Soviet relations were likely to remain intact, and to maintain exploratory cooperation with like-minded opposition groups around opposition to the ruling party and restoration of the Fundamental Rights of the original Constitution of 1950. A study group was proposed to examine the consequences of faulty government planning and explain how the country might escape that predicament. The appended resolution addresses a prolonged dispute in the Bihar unit, revokes the authority previously granted to its president, dissolves committees appointed under that authority, and establishes an interim executive committee pending duly elected party bodies.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party’s joint Organisation Sub-Committee and Parliamentary Board meetings in Madras on 21–22 July 1962. The meeting reviewed election results, party finances, discipline cases, the Chittoor by-election, membership enrolment, state-unit organisation, and the functioning of the party’s parliamentary groups. It directed state and regional units to regularise accounts, return party jeeps, strengthen financial support for candidates, and restructure the Punjab organisation into interim state and regional committees.
+
+The minutes also set out the party’s immediate parliamentary and political positions. Members were instructed to oppose the government’s foreign-policy stance on China while recognising that Sino-Soviet relations were likely to remain intact, and to maintain exploratory cooperation with like-minded opposition groups around opposition to the ruling party and restoration of the Fundamental Rights of the original Constitution of 1950. A study group was proposed to examine the consequences of faulty government planning and explain how the country might escape that predicament. The appended resolution addresses a prolonged dispute in the Bihar unit, revokes the authority previously granted to its president, dissolves committees appointed under that authority, and establishes an interim executive committee pending duly elected party bodies.
+
 ## Key points
 
 - The meetings reviewed the Swatantra Party’s general-election performance, including candidate voting figures, second-place finishes, and forfeited security deposits.

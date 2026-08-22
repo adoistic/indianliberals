@@ -58,6 +58,12 @@ summary: |-
   The essay argues that prosperity generally supports stability, but rejects any simple causal equation between poverty and revolution or between prosperity and political order. Historical, racial, personal, emotional, linguistic, and other non-economic factors—including conflicts over Kashmir, language, and ethnic identity—can be more politically decisive than economic conditions. Masani’s principal conclusion is that political stability is a prerequisite for economic progress, while the two objectives should also be pursued as goods in themselves. He closes by advocating a free competitive economy, consumer choice, peasant proprietorship, and a politically impartial state, and presents liberalism as an Indian tradition drawing both on Gandhi and on Western liberal thinkers.
 ---
 
+## Summary
+
+In this six-page essay, M. R. Masani distinguishes political stability from the mere continuity of a government and economic development from growth pursued at the expense of human welfare. Stability is valuable when it rests on freedom and democracy, but not when it is produced by tyranny, slavery, or political serfdom. Likewise, development is morally ambiguous: growth without tears is beneficial, while growth achieved through exploitation and impoverishment is not prosperity. Masani therefore separates economic welfare from prosperity, treating the latter as dependent on how development is used.
+
+The essay argues that prosperity generally supports stability, but rejects any simple causal equation between poverty and revolution or between prosperity and political order. Historical, racial, personal, emotional, linguistic, and other non-economic factors—including conflicts over Kashmir, language, and ethnic identity—can be more politically decisive than economic conditions. Masani’s principal conclusion is that political stability is a prerequisite for economic progress, while the two objectives should also be pursued as goods in themselves. He closes by advocating a free competitive economy, consumer choice, peasant proprietorship, and a politically impartial state, and presents liberalism as an Indian tradition drawing both on Gandhi and on Western liberal thinkers.
+
 ## Key points
 
 - Political stability means more than an absence of governmental change; its value depends on whether it is grounded in freedom and democracy.

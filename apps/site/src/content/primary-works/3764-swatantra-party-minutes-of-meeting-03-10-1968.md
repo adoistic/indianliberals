@@ -55,6 +55,12 @@ summary: |-
   The Board then reviewed preparations for mid-term elections in West Bengal, Uttar Pradesh, and Bihar. It agreed that state units could formulate local manifestos within the framework of the party's 1967 national manifesto, discussed the Election Commission's recognition of the Swatantra Party and reservation of the star symbol, and considered confusion surrounding the flower symbol. On Kashmir, it decided that the party group in Parliament should neither participate nor vote as a bloc on Atal Bihari Vajpayee's resolution for the full integration of Kashmir, while allowing individual members to speak as they wished. The minutes conclude with the termination of the meeting.
 ---
 
+## Summary
+
+These draft minutes record the Swatantra Party Central Parliamentary Board meeting held at Red Cross Bhavan, Bhubaneswar, on 3 October 1968. The Board confirmed the previous meeting's minutes and reviewed two matters arising from them: the handling of proposed constitutional amendments concerning Fundamental Rights, and the decision to allow C. C. Desai freedom to support provisions in the Company Law Amendment Bill concerning political contributions by companies.
+
+The Board then reviewed preparations for mid-term elections in West Bengal, Uttar Pradesh, and Bihar. It agreed that state units could formulate local manifestos within the framework of the party's 1967 national manifesto, discussed the Election Commission's recognition of the Swatantra Party and reservation of the star symbol, and considered confusion surrounding the flower symbol. On Kashmir, it decided that the party group in Parliament should neither participate nor vote as a bloc on Atal Bihari Vajpayee's resolution for the full integration of Kashmir, while allowing individual members to speak as they wished. The minutes conclude with the termination of the meeting.
+
 ## Key points
 
 - The Board confirmed the minutes of its 31 August 1968 New Delhi meeting.

@@ -51,6 +51,10 @@ summary: |-
   This two-page English administrative letter from the Lok Sabha Secretariat, dated 27 July 1965, responds to a notice submitted by M. R. Masani and N. Dandekar concerning a motion of no-confidence in the Council of Ministers. Deputy Secretary B. B. Tewari states that the Speaker cannot consider the notice so far in advance of the session's commencement.
 ---
 
+## Summary
+
+This two-page English administrative letter from the Lok Sabha Secretariat, dated 27 July 1965, responds to a notice submitted by M. R. Masani and N. Dandekar concerning a motion of no-confidence in the Council of Ministers. Deputy Secretary B. B. Tewari states that the Speaker cannot consider the notice so far in advance of the session's commencement.
+
 ## Key points
 
 - The letter is dated 27 July 1965 and issued from Parliament House, New Delhi.

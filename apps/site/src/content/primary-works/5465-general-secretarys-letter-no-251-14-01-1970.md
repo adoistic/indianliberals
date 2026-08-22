@@ -53,6 +53,12 @@ summary: |-
   The letter also sets out reception arrangements at Dadar, Victoria Terminus, Bombay Central, and Santa Cruz airport. Delegates are instructed to carry their Workers' Card and an authorisation letter from their State or Regional Office, pay a Rs. 5 delegate fee, and wear a Swatantra Party badge for identification. Visitors are discouraged because free boarding and lodging are limited to accredited delegates. The annexures provide a detailed list of 25 hotels and room rates, a combined accommodation and return-journey reservation form, and a state-unit authorisation form for delegates.
 ---
 
+## Summary
+
+This circular, dated 14 December 1970 and signed by General Secretary R. C. Cooper, provides logistical instructions for the Swatantra Party's Sixth National Convention in Bombay on 30–31 January 1971. It explains how delegates can request hotel accommodation, free dormitory or dharmashala lodging, meals, and assistance with return rail or air reservations. Delegates are urged to submit accommodation and travel requests by specified deadlines because hotel demand in Bombay was expected to be especially high in January.
+
+The letter also sets out reception arrangements at Dadar, Victoria Terminus, Bombay Central, and Santa Cruz airport. Delegates are instructed to carry their Workers' Card and an authorisation letter from their State or Regional Office, pay a Rs. 5 delegate fee, and wear a Swatantra Party badge for identification. Visitors are discouraged because free boarding and lodging are limited to accredited delegates. The annexures provide a detailed list of 25 hotels and room rates, a combined accommodation and return-journey reservation form, and a state-unit authorisation form for delegates.
+
 ## Key points
 
 - The Sixth National Convention was scheduled for 30–31 January 1971 in Bombay.

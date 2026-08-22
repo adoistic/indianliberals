@@ -48,6 +48,10 @@ summary: |-
   In this one-page letter dated 21 December 1963, C. Rajagopalachari writes to Piloo Mody about the embarrassment caused by his reaction to recent political events. He clarifies that his principal concern was the total defeat of Congress candidates in Goa, rather than any personal or partisan motive.
 ---
 
+## Summary
+
+In this one-page letter dated 21 December 1963, C. Rajagopalachari writes to Piloo Mody about the embarrassment caused by his reaction to recent political events. He clarifies that his principal concern was the total defeat of Congress candidates in Goa, rather than any personal or partisan motive.
+
 ## Key points
 
 - Rajagopalachari acknowledges Piloo Mody's letter and a separate message from Minoo Masani.

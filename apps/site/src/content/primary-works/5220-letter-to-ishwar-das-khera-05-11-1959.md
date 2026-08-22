@@ -52,6 +52,12 @@ summary: |-
   Masani further addresses Khera’s efforts to secure office accommodation in Delhi. He declines to influence the decision because responsibility for implementing and financing the office should rest with local party members. Referring to conversations with Rajaji and Professor Ranga, he argues that Delhi should not necessarily require financial support from the Centre, and suggests that premises costing Rs. 750 in rent should not be considered excessive if the local group can raise the money. He closes by saying he will be in Delhi for the parliamentary session beginning 16 November.
 ---
 
+## Summary
+
+In this letter dated 5 November 1959, M. R. Masani replies to Ishwar Das Khera about two matters. He encloses a summary of his presidential address at the Madras District Convention and says that the absence of a written speech means the summary must serve in its place. He also asks Khera to keep confidential their discussion of the Party’s organisational affairs until the Central Organising Committee meets in Hyderabad on 9 December, warning that premature publicity could be harmful while several issues remain unsettled.
+
+Masani further addresses Khera’s efforts to secure office accommodation in Delhi. He declines to influence the decision because responsibility for implementing and financing the office should rest with local party members. Referring to conversations with Rajaji and Professor Ranga, he argues that Delhi should not necessarily require financial support from the Centre, and suggests that premises costing Rs. 750 in rent should not be considered excessive if the local group can raise the money. He closes by saying he will be in Delhi for the parliamentary session beginning 16 November.
+
 ## Key points
 
 - Masani encloses a summary of his presidential address to the Madras District Convention.

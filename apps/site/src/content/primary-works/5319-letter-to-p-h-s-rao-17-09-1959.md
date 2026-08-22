@@ -48,6 +48,12 @@ summary: |-
   The letter also records Masani's appreciation of the motto suggested for the newly formed Swatantra Party. Beyond this brief acknowledgment, the page does not provide the wording of the proposed motto or discuss the party's programme, organisation, or political position.
 ---
 
+## Summary
+
+This single-page letter, dated 17 September 1959, acknowledges Mr. P.H.S. Rao's letter of 29 July to M. R. Masani. Writing on Masani's behalf, the secretary notes that Masani was then in the United Kingdom and conveys his thanks for Rao's sentiments and good wishes.
+
+The letter also records Masani's appreciation of the motto suggested for the newly formed Swatantra Party. Beyond this brief acknowledgment, the page does not provide the wording of the proposed motto or discuss the party's programme, organisation, or political position.
+
 ## Key points
 
 - The letter is dated 17 September 1959 and addressed to Mr. P.H.S. Rao.

@@ -46,6 +46,12 @@ summary: |-
   Masani directs Lodha to contact Mr. C. Irani of the Swatantra Forum, who is expected to manage Masani’s Calcutta programme. The letter is primarily logistical and contains no substantive political or economic argument. Handwritten annotations and Masani’s signature are visible on the typescript.
 ---
 
+## Summary
+
+In this one-page English letter dated July 5, 1967, M. R. Masani apologises to Mr. R. S. Lodha for leaving an earlier letter of May 2 unanswered. Masani explains that he had hoped to visit Calcutta but that his plans had not materialised; he may instead travel from Orissa to Calcutta during the second half of July or in early August.
+
+Masani directs Lodha to contact Mr. C. Irani of the Swatantra Forum, who is expected to manage Masani’s Calcutta programme. The letter is primarily logistical and contains no substantive political or economic argument. Handwritten annotations and Masani’s signature are visible on the typescript.
+
 ## Key points
 
 - Masani’s letter is dated July 5, 1967, and addressed to Mr. R. S. Lodha.

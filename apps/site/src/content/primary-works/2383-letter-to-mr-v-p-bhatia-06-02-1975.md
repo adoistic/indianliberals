@@ -48,6 +48,12 @@ summary: |-
   Raju notes that the files and documents are already with Bhatia and expresses concern that correspondence concerning jeeps has continued to be forwarded to Raju despite an earlier request that such letters be handled directly by Bhatia. The letter closes with a request for immediate attention, illustrating a practical administrative concern with resolving official tax records and communication procedures.
 ---
 
+## Summary
+
+This untitled letter, dated 6 February 1975 and signed by S. V. Raju, asks Mr. V. P. Bhatia to pursue the recovery and clearance of motor vehicle tax dues with the Regional Transport Office (R.T.O.). It lists four motor vehicles, the amounts outstanding, and the relevant tax periods, with arrears ranging from 13/- to 339/-.
+
+Raju notes that the files and documents are already with Bhatia and expresses concern that correspondence concerning jeeps has continued to be forwarded to Raju despite an earlier request that such letters be handled directly by Bhatia. The letter closes with a request for immediate attention, illustrating a practical administrative concern with resolving official tax records and communication procedures.
+
 ## Key points
 
 - The letter is dated 6 February 1975 and is signed by S. V. Raju.

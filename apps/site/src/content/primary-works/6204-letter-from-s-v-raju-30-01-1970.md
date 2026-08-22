@@ -47,6 +47,12 @@ summary: |-
   Raju nevertheless leaves open the possibility of a future engagement, expressing hope that Masani will be able to respond to the invitation on a subsequent visit to Ahmedabad. The page preserves the typed correspondence together with Raju's handwritten signature.
 ---
 
+## Summary
+
+In this typed letter dated January 30, 1970, S. V. Raju replies to Mr. Bhalabhai C. Patel regarding an invitation for Minoo Masani to address the Ahmedabad Junior Chamber. Raju explains that Masani's office has already indicated that he cannot speak to the Chamber during his visit to Ahmedabad on February 1 because the entire day is booked with party work.
+
+Raju nevertheless leaves open the possibility of a future engagement, expressing hope that Masani will be able to respond to the invitation on a subsequent visit to Ahmedabad. The page preserves the typed correspondence together with Raju's handwritten signature.
+
 ## Key points
 
 - The letter is dated January 30, 1970.

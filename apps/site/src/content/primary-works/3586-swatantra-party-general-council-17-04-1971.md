@@ -55,6 +55,12 @@ summary: |-
   The letter sets out two guiding principles for the party: an individual right to property and freedom of speech and action, subject to accepted social traditions and culture. It also recommends that economic policy be developed through consultation between the party leadership and the four wings, allowing policies to remain flexible and acquire mass support. Electoral candidates should be distributed proportionally among the wings according to their share of the Indian population, with each wing raising its own election funds. The letter concludes by asking Mr. Masani to reconsider his stated irrevocable resignation.
 ---
 
+## Summary
+
+This two-page reproduced letter contains comments and suggestions by Mr. N. Parthasarathy, a Swatantra Party parliamentary candidate from Tamil Nadu, addressed to Mr. Masani and dated 6 April 1971. Parthasarathy argues that the party should avoid electoral alliances because they blur its separate identity, divert its resources toward other parties, and expose its weak organisation. He proposes rebuilding the party around four independent wings: agriculturists; small traders and merchants; professionals; and industrialists, with organisational units extending from local or district bases to state and national committees.
+
+The letter sets out two guiding principles for the party: an individual right to property and freedom of speech and action, subject to accepted social traditions and culture. It also recommends that economic policy be developed through consultation between the party leadership and the four wings, allowing policies to remain flexible and acquire mass support. Electoral candidates should be distributed proportionally among the wings according to their share of the Indian population, with each wing raising its own election funds. The letter concludes by asking Mr. Masani to reconsider his stated irrevocable resignation.
+
 ## Key points
 
 - Parthasarathy opposes future electoral alliances on the grounds that they damage the Swatantra Party's independent identity and organisation.

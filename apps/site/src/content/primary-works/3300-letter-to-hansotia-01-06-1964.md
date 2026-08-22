@@ -47,6 +47,12 @@ summary: |-
   Raju encloses a copy of a letter from Mr. Parmanand Kejriwal to his brother, Mr. Jagannath Kejriwal, concerning jeeps. He asks Hansotia to transmit the copy to Bhalla and request that Bhalla contact the person concerned. The page also carries handwritten annotations, including a reference to “jeeps” and a circled figure of 3300; their full context is not visible.
 ---
 
+## Summary
+
+This one-page letter, dated June 1, 1964, is from S. V. Raju to Mr. Hansotia of New India Assurance Co. Ltd., Bombay 1. Raju explains that intervening holidays prevented him from contacting Mr. Bhalla, whom he presumes has left for Patna as scheduled.
+
+Raju encloses a copy of a letter from Mr. Parmanand Kejriwal to his brother, Mr. Jagannath Kejriwal, concerning jeeps. He asks Hansotia to transmit the copy to Bhalla and request that Bhalla contact the person concerned. The page also carries handwritten annotations, including a reference to “jeeps” and a circled figure of 3300; their full context is not visible.
+
 ## Key points
 
 - The letter is dated June 1, 1964, and is signed by S. V. Raju.

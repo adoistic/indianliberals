@@ -49,6 +49,12 @@ summary: |-
   Verma also rejects the suggestion that Masani's wife's association with the opposition should affect political judgments, calling the relationship between husband and wife a private matter. He predicts that political circumstances may soon change and insists that Masani's departure would leave a significant gap. The letter closes by urging the party to preserve its respect for its leader and by expressing confidence that the present defeat is temporary.
 ---
 
+## Summary
+
+In this letter dated 4 April 1971, Battu Singh Verma writes to the General Secretary after hearing that Minoo Masani has resigned from the party leadership. He describes the news as a personal shock but argues that Masani should not be judged as defeated or as having failed the party. Verma praises Masani's self-control, political character, service to the country, and ability to speak with dignity, while warning party members not to blame him for the organisation's temporary setback.
+
+Verma also rejects the suggestion that Masani's wife's association with the opposition should affect political judgments, calling the relationship between husband and wife a private matter. He predicts that political circumstances may soon change and insists that Masani's departure would leave a significant gap. The letter closes by urging the party to preserve its respect for its leader and by expressing confidence that the present defeat is temporary.
+
 ## Key points
 
 - The letter responds emotionally to Minoo Masani's resignation from party leadership on 4 April 1971.

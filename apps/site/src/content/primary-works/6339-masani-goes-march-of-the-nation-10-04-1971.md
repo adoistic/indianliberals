@@ -51,6 +51,12 @@ summary: |-
   Masani is also reported to have described the party’s plight as the cumulative result of several shortcomings and mistakes, for which he accepted responsibility as president. The Swatantra president expressed hope that his resignation would help establish an example of accepting responsibility for political failure, whether in government or elsewhere, while assuring council members that he would continue to advocate the party’s philosophy and principles.
 ---
 
+## Summary
+
+This one-page newspaper clipping, headed “Masani Goes” and datelined Bombay, reports M. R. Masani’s resignation as President of the Swatantra Party. The article says Masani explained his resignation in a letter to members of the General Council, attributing it to the acceptance of what he described as a sound principle of administration: when a disaster overtakes a country, army, or organisation, the person at its head should take responsibility for the debacle and hand over office to someone who may bring fresh ideas and an open mind to the task.
+
+Masani is also reported to have described the party’s plight as the cumulative result of several shortcomings and mistakes, for which he accepted responsibility as president. The Swatantra president expressed hope that his resignation would help establish an example of accepting responsibility for political failure, whether in government or elsewhere, while assuring council members that he would continue to advocate the party’s philosophy and principles.
+
 ## Key points
 
 - The clipping reports M. R. Masani’s resignation as President of the Swatantra Party.

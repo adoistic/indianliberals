@@ -50,6 +50,10 @@ summary: |-
   This one-page English office circular, issued by the Swatantra Party Central Office on April 11, 1966, gives advance notice of a meeting of the Party's General Council in Bombay on May 16 and 17, 1966. It states that details of the venue, time, and agenda will follow, and asks recipients to keep those dates free.
 ---
 
+## Summary
+
+This one-page English office circular, issued by the Swatantra Party Central Office on April 11, 1966, gives advance notice of a meeting of the Party's General Council in Bombay on May 16 and 17, 1966. It states that details of the venue, time, and agenda will follow, and asks recipients to keep those dates free.
+
 ## Key points
 
 - The document is General Council Circular No. 20 of the Swatantra Party.

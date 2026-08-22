@@ -47,6 +47,12 @@ summary: |-
   He casts the moment as one calling for intellectual duty: every thinking person, he argues, must help "divert the future course of the Country" so as to correct the lapses of the last thirty years and steer the ship of State toward the visions India's independence generation once held. On that basis he accepts Masani's proposal for a meeting, confirming that he will attend the discussions at the Party Office in Sassoon Building, 143 Mahatma Gandhi Road, at 6 p.m. on Friday 29 July, and suggests that a longer follow-up meeting be arranged on a holiday so that everyone present can put forward their ideas.
 ---
 
+## Summary
+
+This one-page typewritten letter, dated 22 July 1977 and sent from Indukumar C. Thakkar's Chembur address in Bombay, replies to a note Minoo Masani had written four days earlier. Writing barely five months after the lifting of the Emergency, Thakkar shares Masani's reading that the political life of the country has genuinely improved since "the darkness of a period of about eighteen months," but insists the recovery is not yet secure. Unless the gains are consolidated and the forces of democracy and liberalism are further strengthened, he warns, "things might slip back."
+
+He casts the moment as one calling for intellectual duty: every thinking person, he argues, must help "divert the future course of the Country" so as to correct the lapses of the last thirty years and steer the ship of State toward the visions India's independence generation once held. On that basis he accepts Masani's proposal for a meeting, confirming that he will attend the discussions at the Party Office in Sassoon Building, 143 Mahatma Gandhi Road, at 6 p.m. on Friday 29 July, and suggests that a longer follow-up meeting be arranged on a holiday so that everyone present can put forward their ideas.
+
 ## Key points
 
 - Personal reply, dated 22 July 1977, from Indukumar C. Thakkar (Chembur, Bombay) to Minoo Masani, acknowledging Masani's letter of the 18th.

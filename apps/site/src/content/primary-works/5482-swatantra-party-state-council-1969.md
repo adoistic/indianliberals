@@ -55,6 +55,12 @@ summary: |-
   Page 3 sets out political and organisational talking points. It presents the party as an alternative to the Congress, calling for good, efficient, and honest government; criticises the present government's control over economic life; supports cooperation with other opposition parties; and advocates electoral changes that would enable poorer parties and candidates to contest elections. It also stresses honest elections, opposition to corruption for personal advantage, and the need for party members to develop understanding and the ability to explain their position to others. The document ends with an appreciation of Prof. Rao's work in championing India's rural causes and a call for others to continue that work.
 ---
 
+## Summary
+
+This three-page English-language Swatantra Party office document for the 1969 State Council has two functions. Pages 1–2 provide a state-by-state directory of party presidents and general secretaries, covering Andhra Pradesh, Bombay, Delhi, Gujarat, Himachal Pradesh, Jammu & Kashmir, Kerala, Madhya Pradesh, Mysore, Orissa, Punjab, Rajasthan, Tamil Nadu, and Uttar Pradesh. The roster records local addresses and, in several cases, telegraphic codes.
+
+Page 3 sets out political and organisational talking points. It presents the party as an alternative to the Congress, calling for good, efficient, and honest government; criticises the present government's control over economic life; supports cooperation with other opposition parties; and advocates electoral changes that would enable poorer parties and candidates to contest elections. It also stresses honest elections, opposition to corruption for personal advantage, and the need for party members to develop understanding and the ability to explain their position to others. The document ends with an appreciation of Prof. Rao's work in championing India's rural causes and a call for others to continue that work.
+
 ## Key points
 
 - Pages 1–2 list Swatantra Party state-level presidents and general secretaries, with addresses and some telegram codes.

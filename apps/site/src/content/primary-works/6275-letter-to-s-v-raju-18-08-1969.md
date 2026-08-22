@@ -51,6 +51,12 @@ summary: |-
   The bundle also includes Raju's 5 August office memo to N. Dandeker and an attached 16 June letter from Sugata Dasgupta. Dasgupta presents the Council as a non-party, non-governmental body intended to bring scholars, social workers, intellectuals, politicians, and political parties together to consider urgent national issues. He lists its committees on elections, grassroots democracy, inter-state relations, and unrest, and urges the Swatantra Party to reconsider its decision to remain outside the Council. Raju's memo records his uncertainty about the matter and asks Dandeker whether he has any information before Dr. Cooper replies to Dasgupta.
 ---
 
+## Summary
+
+This three-page correspondence bundle records internal Swatantra Party discussion in August 1969. In his letter of 18 August, M. R. Masani tells S. V. Raju that Jayaprakash Narayan had invited him to join the Council of National Conventions, but that he had declined because Communist Party representatives were also involved. Masani describes Jayaprakash Narayan as having later approached him again through Prof. Das Gupta, and criticises Ramesh Thapar's effort to bring the party into the organisation. He concludes that the party should not participate in organisations that include Communists.
+
+The bundle also includes Raju's 5 August office memo to N. Dandeker and an attached 16 June letter from Sugata Dasgupta. Dasgupta presents the Council as a non-party, non-governmental body intended to bring scholars, social workers, intellectuals, politicians, and political parties together to consider urgent national issues. He lists its committees on elections, grassroots democracy, inter-state relations, and unrest, and urges the Swatantra Party to reconsider its decision to remain outside the Council. Raju's memo records his uncertainty about the matter and asks Dandeker whether he has any information before Dr. Cooper replies to Dasgupta.
+
 ## Key points
 
 - Masani declined Jayaprakash Narayan's invitation to join the Council of National Conventions because Communist Party representatives participated in it.

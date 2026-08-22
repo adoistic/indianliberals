@@ -47,6 +47,12 @@ summary: |-
   The letter is narrowly informational: Pai presents the figures as potentially useful to Mody and closes without offering further analysis or policy recommendations. The page provides evidence of official overseas delegations and their reported foreign-exchange cost, but does not identify the delegations, their purposes, or the source and methodology of the figures.
 ---
 
+## Summary
+
+This one-page English letter from M. R. Pai to Sir Homi Mody, dated 14 October 1959, supplies comparative figures for delegations sent by the Government of India. Pai reports 215 delegations in 1958–59, associated with Rs. 47 lakhs in foreign exchange, compared with 172 delegations and Rs. 30.52 lakhs in 1957–58.
+
+The letter is narrowly informational: Pai presents the figures as potentially useful to Mody and closes without offering further analysis or policy recommendations. The page provides evidence of official overseas delegations and their reported foreign-exchange cost, but does not identify the delegations, their purposes, or the source and methodology of the figures.
+
 ## Key points
 
 - The document is a typed letter from M.R. Pai to Sir Homi Mody.

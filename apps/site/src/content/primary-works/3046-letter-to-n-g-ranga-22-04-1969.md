@@ -47,6 +47,12 @@ summary: |-
   Masani asks Ranga to have Jain confirm with the Parliamentary Affairs Ministry when the debate will be taken up and how much time will be allotted. He also notes that he will return to Delhi on the morning of Monday, April 28. The letter is a brief piece of political coordination centered on parliamentary discussion of national planning.
 ---
 
+## Summary
+
+In this letter dated April 22, 1969, M. R. Masani writes to Prof. N. G. Ranga about the Fourth Plan, which has been presented to Parliament and is scheduled for debate before the session ends. Masani offers to speak on the subject if Ranga and the party wish him to do so.
+
+Masani asks Ranga to have Jain confirm with the Parliamentary Affairs Ministry when the debate will be taken up and how much time will be allotted. He also notes that he will return to Delhi on the morning of Monday, April 28. The letter is a brief piece of political coordination centered on parliamentary discussion of national planning.
+
 ## Key points
 
 - The Fourth Plan has been presented to Parliament.

@@ -49,6 +49,10 @@ summary: |-
   This two-page letter dated 24 August 1974 is addressed to Piloo Mody, identified as president, and explains the writer’s absence from the Swatantra Party’s National Executive meeting. The writer says that prior commitments before the Revenue Board prevent attendance, then restates objections to the proposed dissolution of the party. The letter argues that reducing the number of political parties may be desirable, but that any such change must follow the party’s constitution and established procedure.
 ---
 
+## Summary
+
+This two-page letter dated 24 August 1974 is addressed to Piloo Mody, identified as president, and explains the writer’s absence from the Swatantra Party’s National Executive meeting. The writer says that prior commitments before the Revenue Board prevent attendance, then restates objections to the proposed dissolution of the party. The letter argues that reducing the number of political parties may be desirable, but that any such change must follow the party’s constitution and established procedure.
+
 ## Key points
 
 - The writer asks to be excused from the 28 August 1974 National Executive meeting because of Revenue Board hearings on 30 and 31 August.

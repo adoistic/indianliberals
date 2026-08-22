@@ -49,6 +49,12 @@ summary: |-
   The letter also records Sorabjee’s travel plans: he is leaving for Paris in connection with a matter before the International Chamber of Commerce and expects to be in Bombay on 30 November and 1 December. He proposes a preliminary conference with Nawroze and Dharmashuk, subject to convenience. The document is brief correspondence rather than a sustained exposition, but it directly connects freedom of speech, legal advocacy, and constitutional litigation.
 ---
 
+## Summary
+
+This untitled letter, written by Soli J. Sorabjee in New Delhi on 13 November 1987, is addressed to Minoo Masani. Sorabjee expresses concern about Masani’s cataract operation and says he is sending extracts from a leading book on freedom of speech for use in arguing a writ petition.
+
+The letter also records Sorabjee’s travel plans: he is leaving for Paris in connection with a matter before the International Chamber of Commerce and expects to be in Bombay on 30 November and 1 December. He proposes a preliminary conference with Nawroze and Dharmashuk, subject to convenience. The document is brief correspondence rather than a sustained exposition, but it directly connects freedom of speech, legal advocacy, and constitutional litigation.
+
 ## Key points
 
 - Soli J. Sorabjee wrote to Minoo Masani on 13 November 1987.

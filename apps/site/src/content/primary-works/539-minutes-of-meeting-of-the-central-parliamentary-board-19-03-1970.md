@@ -54,6 +54,10 @@ summary: |-
   These draft minutes record the Central Parliamentary Board meeting held at M. R. Masani’s residence in New Delhi on 19 March 1970. The Board confirmed the previous minutes, reviewed an alternative bill to replace the Orissa Preventive Detention Act, and made a series of decisions concerning biennial Rajya Sabha elections. These included candidate approvals and instructions on the distribution of first- and second-preference votes in Andhra, Gujarat, Tamil Nadu, Mysore, Orissa, Assam, Bihar, Punjab, Rajasthan, and Uttar Pradesh.
 ---
 
+## Summary
+
+These draft minutes record the Central Parliamentary Board meeting held at M. R. Masani’s residence in New Delhi on 19 March 1970. The Board confirmed the previous minutes, reviewed an alternative bill to replace the Orissa Preventive Detention Act, and made a series of decisions concerning biennial Rajya Sabha elections. These included candidate approvals and instructions on the distribution of first- and second-preference votes in Andhra, Gujarat, Tamil Nadu, Mysore, Orissa, Assam, Bihar, Punjab, Rajasthan, and Uttar Pradesh.
+
 ## Key points
 
 - The minutes list M. R. Masani as chair and record six other attendees, including Professor N. G. Ranga and R. N. Singh Deo.

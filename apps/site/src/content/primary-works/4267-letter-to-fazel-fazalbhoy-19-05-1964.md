@@ -45,6 +45,12 @@ summary: |-
   Masani also reports that, while in Madras, he met Satar and his wife Nazura, who had previously worked with him on Quest. He closes by recalling that they all remembered Fazal that evening. The document is a single-page personal and organisational correspondence item; no broader argument or publication context is visible on the page.
 ---
 
+## Summary
+
+This untitled English letter, dated 19 May 1964, is signed by M. R. Masani and addressed to Fazal Fazalbhoy. Masani confirms a telephone conversation about Fazal addressing the Rotary Club on Tuesday, 30 June, on “India and her Neighbours.”
+
+Masani also reports that, while in Madras, he met Satar and his wife Nazura, who had previously worked with him on Quest. He closes by recalling that they all remembered Fazal that evening. The document is a single-page personal and organisational correspondence item; no broader argument or publication context is visible on the page.
+
 ## Key points
 
 - The letter is dated 19 May 1964 and signed by M. R. Masani.

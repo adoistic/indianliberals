@@ -50,6 +50,12 @@ summary: |-
   The second page is written in Gujarati and appears to continue the correspondence, but its handwriting is not sufficiently legible here for a reliable full translation. The document therefore offers a bilingual record of post-election political communication, with the readable English portion focused on electoral disappointment, propaganda, and resilience.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 11 March 1971 and sent from Rajkot by A. D. Rawal to Minoo Masani, discusses the results of an election. In the English first page, Rawal says the outcome was unexpected and attributes the loss to being misled by propaganda. He reports that Masani nevertheless sent his regards after losing the election and invokes the consoling idea that defeat can also contain victory.
+
+The second page is written in Gujarati and appears to continue the correspondence, but its handwriting is not sufficiently legible here for a reliable full translation. The document therefore offers a bilingual record of post-election political communication, with the readable English portion focused on electoral disappointment, propaganda, and resilience.
+
 ## Key points
 
 - The letter is dated 11 March 1971 and originates in Rajkot.

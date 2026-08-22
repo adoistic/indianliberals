@@ -49,6 +49,12 @@ summary: |-
   Deo asks Rajaji to support the creation of two Swatantra Party deputy-leader posts in the Lok Sabha, one for Masani and one for himself. He argues that the party’s expected role as the principal opposition makes the arrangement appropriate, and notes that the Communist Party already has two deputy leaders. The letter also refers to internal disputes over seating and party status, including an incident involving Yashpal Singh and a proposal concerning Sardar Kapur Singh’s responsibilities.
 ---
 
+## Summary
+
+This one-page letter, written by P. K. Deo from Bhawanipatna on 18 June 1964 to C. Rajagopalachari (“Rajaji”), concerns Deo’s position within the Swatantra Party and his absence from forthcoming party meetings because of the Delimitation Commission’s work in Bhubaneswar. Deo explains that, after Minoo Masani’s election to the Lok Sabha, he accepted a reduced role as party secretary rather than continuing as deputy leader, a decision he now regrets because he feels personally and politically slighted.
+
+Deo asks Rajaji to support the creation of two Swatantra Party deputy-leader posts in the Lok Sabha, one for Masani and one for himself. He argues that the party’s expected role as the principal opposition makes the arrangement appropriate, and notes that the Communist Party already has two deputy leaders. The letter also refers to internal disputes over seating and party status, including an incident involving Yashpal Singh and a proposal concerning Sardar Kapur Singh’s responsibilities.
+
 ## Key points
 
 - Deo cannot attend the Swatantra Party’s Bombay meetings because he is engaged with the Delimitation Commission in Bhubaneswar.

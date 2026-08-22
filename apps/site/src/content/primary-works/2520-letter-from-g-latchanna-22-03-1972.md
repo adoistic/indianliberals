@@ -51,6 +51,12 @@ summary: |-
   The attached resolutions review the party’s recent Assembly-election performance, reporting 279,348 votes—30.9 percent—in the 18 constituencies it contested. They attribute the result partly to what they describe as an “Indira-Wave” accompanied by abuse of money and intimidation, while thanking youth, students, and party supporters. The resolutions call for a stronger democratic opposition, a substantial reorientation of party policies toward the aspirations of Harijans, Girijans, and other Backward Classes, and the formation of an opposition bloc in both Houses of the Andhra Pradesh Legislature.
 ---
 
+## Summary
+
+This 22 March 1972 letter from G. Latchanna, president of the Andhra Pradesh Swatantra Party, forwards three resolutions to H. M. Patel ahead of the party’s National Executive and General Council meetings in Bombay on 8–9 April. Latchanna explains that he may be unable to attend and asks that the Andhra Pradesh resolutions be circulated in advance. He also requests that the national bodies communicate their decisions before a proposed joint meeting of the Andhra Pradesh State Council, party legislators, and district-unit leaders later that month.
+
+The attached resolutions review the party’s recent Assembly-election performance, reporting 279,348 votes—30.9 percent—in the 18 constituencies it contested. They attribute the result partly to what they describe as an “Indira-Wave” accompanied by abuse of money and intimidation, while thanking youth, students, and party supporters. The resolutions call for a stronger democratic opposition, a substantial reorientation of party policies toward the aspirations of Harijans, Girijans, and other Backward Classes, and the formation of an opposition bloc in both Houses of the Andhra Pradesh Legislature.
+
 ## Key points
 
 - G. Latchanna forwards Andhra Pradesh Swatantra Party resolutions to H. M. Patel on 22 March 1972.

@@ -51,6 +51,12 @@ summary: |-
   The affidavit presents the Swatantra Party as a recognised national political organisation founded by leaders including C. Rajagopalachari, K. M. Munshi, H. P. Mody, and M. R. Masani. Srikumar states that the proposed dissolution would damage the party’s integrity and solidarity, create confusion among its members and supporters, and disrupt Tamil Nadu politics. He cites approximately 8,000 members, numerous supporters, and the party’s representation by five sitting MLAs and two MLCs in the Tamil Nadu legislatures. The requested interim injunction would restrain the respondents from canvassing or propagating the party’s dissolution, including at a proposed convention in New Delhi on 4–5 August 1974. The affidavit was solemnly affirmed at Madras on 2 July 1974.
 ---
 
+## Summary
+
+This four-page affidavit, filed by V. S. Srikumar in the City Civil Court, Madras, challenges a proposed dissolution of the Swatantra Party. Srikumar identifies himself as the fifth plaintiff and petitioner, and asks the court to permit the plaintiffs to sue in a representative capacity on behalf of members of the party’s Tamil Nadu unit. He argues that neither the party’s National Council nor its General Council possesses authority under the party Constitution to recommend dissolution, referring to a circular dated 1 July 1974 and a later circular dated 16 April 1974 concerning alternative party systems.
+
+The affidavit presents the Swatantra Party as a recognised national political organisation founded by leaders including C. Rajagopalachari, K. M. Munshi, H. P. Mody, and M. R. Masani. Srikumar states that the proposed dissolution would damage the party’s integrity and solidarity, create confusion among its members and supporters, and disrupt Tamil Nadu politics. He cites approximately 8,000 members, numerous supporters, and the party’s representation by five sitting MLAs and two MLCs in the Tamil Nadu legislatures. The requested interim injunction would restrain the respondents from canvassing or propagating the party’s dissolution, including at a proposed convention in New Delhi on 4–5 August 1974. The affidavit was solemnly affirmed at Madras on 2 July 1974.
+
 ## Key points
 
 - V. S. Srikumar files as the fifth plaintiff and petitioner in a Madras City Civil Court proceeding.

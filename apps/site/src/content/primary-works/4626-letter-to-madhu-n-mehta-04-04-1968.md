@@ -51,6 +51,12 @@ summary: |-
   The letter also raises a broader concern about the functioning of the General Council. Sreenivasan protests that members receive too little time to discuss party affairs at meetings held only once or twice a year, especially after travelling long distances. He recommends that speakers be given at least fifteen minutes and that meetings last two full days, arguing that otherwise members cannot properly consider how to strengthen the party.
 ---
 
+## Summary
+
+This single-page letter, dated 4 April 1968 and sent by V. T. Sreenivasan of the Swatantra Party (Mysore State) to Madhu N. Mehta, responds to M. R. Masani’s resignation from the Central Parliamentary Board and the National Executive. Sreenivasan agrees that every effort should be made to persuade Masani to remain in the party’s High Command, but argues against calling an immediate special meeting of the General Council, which was already scheduled to meet in Bhubaneswar at the end of May. He says the matter should instead be left to C. Rajagopalachari (“Rajaji”), whom he presents as the party’s respected leader and the appropriate person to handle the issue carefully.
+
+The letter also raises a broader concern about the functioning of the General Council. Sreenivasan protests that members receive too little time to discuss party affairs at meetings held only once or twice a year, especially after travelling long distances. He recommends that speakers be given at least fifteen minutes and that meetings last two full days, arguing that otherwise members cannot properly consider how to strengthen the party.
+
 ## Key points
 
 - The letter addresses M. R. Masani’s resignation from the Central Parliamentary Board and National Executive.

@@ -50,6 +50,10 @@ summary: |-
   This one-page English telegram, sent on an Indian Posts and Telegraphs Department form, is addressed to Shri Minoo Masani in Bombay. The sender is not identified by name; the message is attributed to “MERCHANT ASSOCIATION.” It expresses shock at Masani’s defeat and equates that defeat with the destruction of democracy.
 ---
 
+## Summary
+
+This one-page English telegram, sent on an Indian Posts and Telegraphs Department form, is addressed to Shri Minoo Masani in Bombay. The sender is not identified by name; the message is attributed to “MERCHANT ASSOCIATION.” It expresses shock at Masani’s defeat and equates that defeat with the destruction of democracy.
+
 ## Key points
 
 - The document is a telegram rather than a conventional letter.

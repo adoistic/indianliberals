@@ -48,6 +48,12 @@ summary: |-
   The letter is logistical rather than programmatic: Mody asks Rajagopalachari to approve the proposed arrangements and stresses that an early response is needed because considerable preparations must be made. The page does not identify the organisation whose councils are involved.
 ---
 
+## Summary
+
+This one-page English letter, dated 22 January 1965, is from Piloo Mody to C. Rajagopalachari (addressed as “Rajaji”). Mody proposes holding the forthcoming meetings of the General Council and Central Organising Committee as a public meeting, suggesting Chowpatty or preferably Shivaji Park on Sunday, 10 February 1965.
+
+The letter is logistical rather than programmatic: Mody asks Rajagopalachari to approve the proposed arrangements and stresses that an early response is needed because considerable preparations must be made. The page does not identify the organisation whose councils are involved.
+
 ## Key points
 
 - Piloo Mody wrote to C. Rajagopalachari on 22 January 1965.

@@ -47,6 +47,12 @@ summary: |-
   The letter is a covering note rather than the draft itself. It records an ongoing process of negotiation or joint revision, but the subject and substantive contents of the enclosed draft are not visible on this page.
 ---
 
+## Summary
+
+This one-page letter, dated June 19, 1970, is from M. R. Masani to Morarji Desai. Masani transmits a revised text of a draft intended to serve as the basis for further discussion, noting that a passage on page 11 has been retained for additional consideration because the parties were keen to preserve it. He states that the remainder of the draft reflects their agreement from the previous day.
+
+The letter is a covering note rather than the draft itself. It records an ongoing process of negotiation or joint revision, but the subject and substantive contents of the enclosed draft are not visible on this page.
+
 ## Key points
 
 - M. R. Masani wrote to Morarji Desai on June 19, 1970.

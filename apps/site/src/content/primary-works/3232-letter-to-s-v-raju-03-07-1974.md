@@ -47,6 +47,10 @@ summary: |-
   This one-page letter, dated July 3, 1974, is addressed by G. K. Munshi to S. V. Raju. Munshi reports that he has consulted “Parmanandji,” who agrees that if the Swatantra Party in Maharashtra joins the proposed new party, the Swatantra Party’s assets should pass to the new party as its successor. The letter therefore concerns party reorganisation and the disposition of party assets.
 ---
 
+## Summary
+
+This one-page letter, dated July 3, 1974, is addressed by G. K. Munshi to S. V. Raju. Munshi reports that he has consulted “Parmanandji,” who agrees that if the Swatantra Party in Maharashtra joins the proposed new party, the Swatantra Party’s assets should pass to the new party as its successor. The letter therefore concerns party reorganisation and the disposition of party assets.
+
 ## Key points
 
 - The letter is dated July 3, 1974, and addressed to S. V. Raju.

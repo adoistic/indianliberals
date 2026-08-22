@@ -50,6 +50,12 @@ summary: |-
   Masani notes that he will be leaving Delhi on 26 November and asks Khera to bear this date in mind. The letter is a brief piece of political correspondence concerning the organisation and publicity of a public meeting.
 ---
 
+## Summary
+
+This one-page letter from M. R. Masani to Ishwardas Khera, dated 10 November 1959, records Masani’s further discussion with K. M. Munshi about fixing a public meeting at Sapru Hall. Masani asks that the meeting be scheduled between 23 and 25 November so that, after arriving in Delhi, he and Munshi will have sufficient time to publicise it and ensure its success.
+
+Masani notes that he will be leaving Delhi on 26 November and asks Khera to bear this date in mind. The letter is a brief piece of political correspondence concerning the organisation and publicity of a public meeting.
+
 ## Key points
 
 - The letter is dated 10 November 1959 and is addressed to Ishwardas Khera.

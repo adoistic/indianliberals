@@ -53,6 +53,12 @@ summary: |-
   The later pages preserve additional typed cut-motion subjects, including inadequate budgetary and Five-Year Plan allocations for roads, insufficient foreign exchange for the automobile industry, failure to implement recommendations of the Road Transport Reorganisation Committee, 1959, and the alleged danger posed by state nationalisation of goods transport. The final item concerns government neglect of India’s potential for international tourist traffic. The form is addressed to the Secretary, Lok Sabha, and signed by Masani as an MP; several demand numbers, page references, and discussion details remain blank.
 ---
 
+## Summary
+
+This four-page bilingual parliamentary notice, dated New Delhi, 22 March 1965, is M. R. Masani’s Form No. 4 for proposing token cut motions in the Lok Sabha. The English form identifies Demand No. 23 under External Affairs and proposes reducing the demand by Rs. 100 to debate the Government’s alleged failure to take adequate steps for India’s security and for the defence of Malaysia, South Viet Nam, and Laos against Chinese Communist-backed aggression. A Hindi counterpart appears on the second page.
+
+The later pages preserve additional typed cut-motion subjects, including inadequate budgetary and Five-Year Plan allocations for roads, insufficient foreign exchange for the automobile industry, failure to implement recommendations of the Road Transport Reorganisation Committee, 1959, and the alleged danger posed by state nationalisation of goods transport. The final item concerns government neglect of India’s potential for international tourist traffic. The form is addressed to the Secretary, Lok Sabha, and signed by Masani as an MP; several demand numbers, page references, and discussion details remain blank.
+
 ## Key points
 
 - The document is Form No. 4, a parliamentary form for giving notice of token cut motions.

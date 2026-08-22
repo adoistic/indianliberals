@@ -52,6 +52,12 @@ summary: |-
   The circular also reports that, following Minoo Masani's resignation, more than 50 General Council members requested an early meeting to discuss the resignation and related matters. The National Executive therefore decided to convene the General Council on June 1 and 2, most probably in Madras, with further details on the venue, timings, and agenda to follow.
 ---
 
+## Summary
+
+This one-page English circular from the Swatantra Party Central Office, dated April 22, 1968, informs party members that the National Convention scheduled for June 1 and 2 in Bhubaneshwar has been postponed until after the monsoon because of unavoidable circumstances. It is signed by N. Dandekar as General Secretary.
+
+The circular also reports that, following Minoo Masani's resignation, more than 50 General Council members requested an early meeting to discuss the resignation and related matters. The National Executive therefore decided to convene the General Council on June 1 and 2, most probably in Madras, with further details on the venue, timings, and agenda to follow.
+
 ## Key points
 
 - The National Convention planned for June 1 and 2 in Bhubaneshwar was postponed until after the monsoon.

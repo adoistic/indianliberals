@@ -51,6 +51,12 @@ summary: |-
   The second point stresses that even a 10% price increase has a much greater impact on the Indian public than a comparable increase in advanced countries because many people can barely make ends meet. The third highlights the presence of social security and old-age pensions in those countries, suggesting that government support protects people from the effects of rising prices. The page uses numbered text blocks and cartoons to contrast Indian poverty with the more secure conditions depicted abroad; no author, organisation, publisher, place, or date is printed.
 ---
 
+## Summary
+
+This single-page illustrated advocacy leaflet argues that price rises in India should not be compared directly with inflation in economically advanced countries. Its first point is that, in countries such as the United Kingdom, France, and West Germany, rising prices may be accompanied by still faster increases in productivity and wages, which partly neutralise the effect of inflation. In India, by contrast, the page presents price increases as especially damaging to people living near subsistence.
+
+The second point stresses that even a 10% price increase has a much greater impact on the Indian public than a comparable increase in advanced countries because many people can barely make ends meet. The third highlights the presence of social security and old-age pensions in those countries, suggesting that government support protects people from the effects of rising prices. The page uses numbered text blocks and cartoons to contrast Indian poverty with the more secure conditions depicted abroad; no author, organisation, publisher, place, or date is printed.
+
 ## Key points
 
 - The leaflet rejects direct comparisons between price rises in India and those in economically advanced countries.

@@ -52,6 +52,12 @@ summary: |-
   The letter states that the party chairmanship and parliamentary party leadership should not be held by the same person, rejects any direct or indirect understanding with right- or left-wing communists under the label “Non-Congressism,” and asks the central leadership to retain K. K. Kuruvilla on the National Executive. Sebastian Paikada is designated leader of the Kerala delegation and is to speak officially on the affairs of the state unit. The letter also notes that the executive passed a resolution on the current political situation in Kerala, with a press report enclosed; that enclosure is not present in the rendered page.
 ---
 
+## Summary
+
+This one-page letter, dated 15 November 1967 and written from the Kerala State Swatantra Party office in Kottayam, records decisions taken at a combined meeting of the state executive and general council. Addressed to S. V. Raju, it anticipates controversial issues at an upcoming General Council meeting in Delhi and sets out Kerala's positions on party and parliamentary leadership, political alignments, and representation of the state unit.
+
+The letter states that the party chairmanship and parliamentary party leadership should not be held by the same person, rejects any direct or indirect understanding with right- or left-wing communists under the label “Non-Congressism,” and asks the central leadership to retain K. K. Kuruvilla on the National Executive. Sebastian Paikada is designated leader of the Kerala delegation and is to speak officially on the affairs of the state unit. The letter also notes that the executive passed a resolution on the current political situation in Kerala, with a press report enclosed; that enclosure is not present in the rendered page.
+
 ## Key points
 
 - The letter reports decisions of a combined meeting of the Kerala State Swatantra Party executive and general council.

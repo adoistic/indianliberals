@@ -63,3 +63,7 @@ ai:
 summary: |-
   This January/February 1969 issue of the Swatantra Newsletter combines tributes to C. Rajagopalachari (Rajaji), party reports, election preparations, policy statements, and state-unit news. It presents the Swatantra Party as a programme-based opposition committed to individual freedom, constitutional government, property rights, agricultural reform, administrative accountability, and resistance to Congress centralisation and socialist planning. The issue also records Rajaji's ninetieth-birthday celebrations, Prof. N. G. Ranga's sixty-ninth birthday, the party's mid-term-election strategy, and negotiations with the Jan Sangh and other opposition parties.
 ---
+
+## Summary
+
+This January/February 1969 issue of the Swatantra Newsletter combines tributes to C. Rajagopalachari (Rajaji), party reports, election preparations, policy statements, and state-unit news. It presents the Swatantra Party as a programme-based opposition committed to individual freedom, constitutional government, property rights, agricultural reform, administrative accountability, and resistance to Congress centralisation and socialist planning. The issue also records Rajaji's ninetieth-birthday celebrations, Prof. N. G. Ranga's sixty-ninth birthday, the party's mid-term-election strategy, and negotiations with the Jan Sangh and other opposition parties.

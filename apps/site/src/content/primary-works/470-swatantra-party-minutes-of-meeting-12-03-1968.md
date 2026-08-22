@@ -53,6 +53,12 @@ summary: |-
   The minutes record nominations to advisory committees in Uttar Pradesh and West Bengal, as well as nominations to several House committees. Discussion of Shri Kaushik's bill was postponed to the next Executive Committee meeting. The committee also approved the purchase of a typewriter from C. C. Desai, with four members agreeing to contribute Rs. 100 each. The document is an administrative record of party organisation and parliamentary coordination rather than a substantive statement of policy.
 ---
 
+## Summary
+
+This one-page office record reports a meeting of the Swatantra Party Executive Committee held at 10 a.m. on 12 March 1968 in the Party Room, Central Hall, Parliament House. It lists ten members present, including N. G. Ranga, M. R. Masani, C. C. Desai, J. M. Lobo Prabhu, and D. N. Patodia.
+
+The minutes record nominations to advisory committees in Uttar Pradesh and West Bengal, as well as nominations to several House committees. Discussion of Shri Kaushik's bill was postponed to the next Executive Committee meeting. The committee also approved the purchase of a typewriter from C. C. Desai, with four members agreeing to contribute Rs. 100 each. The document is an administrative record of party organisation and parliamentary coordination rather than a substantive statement of policy.
+
 ## Key points
 
 - The Executive Committee meeting took place on 12 March 1968 at Parliament House in New Delhi.

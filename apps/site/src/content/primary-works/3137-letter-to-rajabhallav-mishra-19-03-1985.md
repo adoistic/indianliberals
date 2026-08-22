@@ -49,6 +49,12 @@ summary: |-
   Mishra’s handwritten letter welcomes Raju’s communication, refers to Raju’s role as Executive Secretary of the Swatantra Party, and expresses goodwill toward his political work. It also discusses papers and correspondence connected with party activity in Orissa, including efforts to locate or contact other party figures. The visible material documents routine but politically relevant coordination, information-sharing, and organisational communication; it does not provide a broader account of the party’s affairs.
 ---
 
+## Summary
+
+This three-page English correspondence file contains a typed letter dated March 19, 1985, from S. V. Raju to Rajballabh Mishra, together with Mishra’s handwritten reply dated March 7, 1985, and an addressed Indian letter card. Raju thanks Mishra for his reply, notes that he will later seek information about the conduct of party affairs in Orissa, and asks for contact information for Ghasiram Majhi.
+
+Mishra’s handwritten letter welcomes Raju’s communication, refers to Raju’s role as Executive Secretary of the Swatantra Party, and expresses goodwill toward his political work. It also discusses papers and correspondence connected with party activity in Orissa, including efforts to locate or contact other party figures. The visible material documents routine but politically relevant coordination, information-sharing, and organisational communication; it does not provide a broader account of the party’s affairs.
+
 ## Key points
 
 - S. V. Raju’s typed letter is dated March 19, 1985, and is addressed to Rajballabh Mishra.

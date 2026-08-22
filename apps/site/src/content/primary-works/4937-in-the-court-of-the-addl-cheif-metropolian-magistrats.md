@@ -52,6 +52,12 @@ summary: |-
   The complaint states that the company donated Rs.1,000 to the Forum of Free Enterprise during the year ending 31 December 1971. After examining the Forum’s constitution and manifesto, the complainant concluded that the donation was for a political purpose and therefore contravened Section 293A. The company disputed this characterization, asserting that the Forum was neither a political organisation nor engaged in political activity. The complainant nevertheless sought issuance of process against the company and its directors or officers, requested that costs be awarded, and argued that the Bombay court had territorial jurisdiction because the company’s registered office and the alleged offence were located there. The document ends with a list of two proposed witnesses.
 ---
 
+## Summary
+
+This four-page English-language court complaint, filed in Bombay on 22 January 1976, was brought by the Assistant Registrar of Companies, Maharashtra, before the Additional Chief Metropolitan Magistrate. It names The Premier Construction Company Limited and six of its directors or officers as accused, alleging an offence under Section 293A of the Companies Act, 1956, concerning the prohibition on corporate political contributions.
+
+The complaint states that the company donated Rs.1,000 to the Forum of Free Enterprise during the year ending 31 December 1971. After examining the Forum’s constitution and manifesto, the complainant concluded that the donation was for a political purpose and therefore contravened Section 293A. The company disputed this characterization, asserting that the Forum was neither a political organisation nor engaged in political activity. The complainant nevertheless sought issuance of process against the company and its directors or officers, requested that costs be awarded, and argued that the Bombay court had territorial jurisdiction because the company’s registered office and the alleged offence were located there. The document ends with a list of two proposed witnesses.
+
 ## Key points
 
 - The Assistant Registrar of Companies, Maharashtra, filed the complaint in an official capacity before the Additional Chief Metropolitan Magistrate, Bombay.

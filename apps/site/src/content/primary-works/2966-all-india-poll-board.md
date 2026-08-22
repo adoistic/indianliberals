@@ -54,6 +54,12 @@ summary: |-
   The remaining tables disaggregate election outcomes by state and Union Territory and provide selected Assembly-election figures. They include seats contested and won, deposits lost and forfeited, valid and polled votes, votes polled by party, and percentages. The accompanying notes identify constituencies where no candidates were returned or where independents sponsored by the Swatantra Party were elected, and record several named successful candidates. The document is a statistical reference rather than an argumentative essay, and no author, publisher, or issuing statement beyond the heading is visible.
 ---
 
+## Summary
+
+This three-page English statistical report, headed “ALL-INDIA POLL BOARD,” presents aggregate results for the 1972 Indian elections. The first table records results for 2,722 seats nationwide: Congress contested 2,524 seats and won 1,926, while Jana Sangh, Congress (O), CPI, CPM, S.P., Swatantra, other parties, and independents won smaller totals. Independents contested the largest number of seats, 4,955, but won 249.
+
+The remaining tables disaggregate election outcomes by state and Union Territory and provide selected Assembly-election figures. They include seats contested and won, deposits lost and forfeited, valid and polled votes, votes polled by party, and percentages. The accompanying notes identify constituencies where no candidates were returned or where independents sponsored by the Swatantra Party were elected, and record several named successful candidates. The document is a statistical reference rather than an argumentative essay, and no author, publisher, or issuing statement beyond the heading is visible.
+
 ## Key points
 
 - The report states that the total number of seats was 2,722.

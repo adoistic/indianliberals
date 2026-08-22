@@ -55,6 +55,12 @@ summary: |-
   Masani proposes immediate relief for affected groups and exporters, loans for industrial projects stranded by devaluation, and the abolition of import duties and countervailing excise duties on essential inputs. His longer-term programme calls for reduced non-developmental expenditure, an end to deficit finance and overdrafts, limits on government borrowing, postponement and recasting of the Fourth Plan, lower taxation, and dismantling import licensing, exchange controls, and Gold Control. He maintains that devaluation would be justified only if accompanied by these measures, while doubting whether the Congress Government possessed the integrity, courage, and capacity to implement them.
 ---
 
+## Summary
+
+This two-page statement, prepared “For favour of publication” in Bombay on June 15, 1966, reports M. R. Masani’s criticism of the Congress Government’s decision to devalue the rupee. Masani argues that the Finance Minister’s stated reasons were unconvincing and that devaluation was effectively the price of foreign loans needed to finance the proposed Fourth Plan. He warns that the Plan’s existing form would intensify inflation and produce consequences more damaging than those of the Second and Third Plans. The statement attributes India’s economic crisis to deficit finance, excessive taxation and controls, overinvestment in heavy industry, neglect of agriculture and consumer goods, and dependence on foreign loans.
+
+Masani proposes immediate relief for affected groups and exporters, loans for industrial projects stranded by devaluation, and the abolition of import duties and countervailing excise duties on essential inputs. His longer-term programme calls for reduced non-developmental expenditure, an end to deficit finance and overdrafts, limits on government borrowing, postponement and recasting of the Fourth Plan, lower taxation, and dismantling import licensing, exchange controls, and Gold Control. He maintains that devaluation would be justified only if accompanied by these measures, while doubting whether the Congress Government possessed the integrity, courage, and capacity to implement them.
+
 ## Key points
 
 - Masani describes devaluation as a potentially dangerous instrument when used by an unqualified government.

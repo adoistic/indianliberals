@@ -46,6 +46,10 @@ summary: |-
   This one-page English telegram, received on 16 July 1968, is addressed to M. R. Masani at the Swatantra Party office in Bombay. It reports that “Rik​​hy” has consulted Pay and Accounts and states that departure on the twenty-second is not permissible; the journey will instead be treated as an interim journey during the session.
 ---
 
+## Summary
+
+This one-page English telegram, received on 16 July 1968, is addressed to M. R. Masani at the Swatantra Party office in Bombay. It reports that “Rik​​hy” has consulted Pay and Accounts and states that departure on the twenty-second is not permissible; the journey will instead be treated as an interim journey during the session.
+
 ## Key points
 
 - The telegram is addressed to M. R. Masani in Bombay.

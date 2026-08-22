@@ -43,6 +43,10 @@ summary: |-
   This one-page typed letter from M. R. Masani to Mr. Venkata Subbarao is dated 30 November 1959. Masani acknowledges Subbarao's letter of 18 November and explains that he has already reserved accommodation at the Ritz Hotel, so there is no need to trouble Khan Bahadur Taraporevala, whom he thanks for his kind hospitality.
 ---
 
+## Summary
+
+This one-page typed letter from M. R. Masani to Mr. Venkata Subbarao is dated 30 November 1959. Masani acknowledges Subbarao's letter of 18 November and explains that he has already reserved accommodation at the Ritz Hotel, so there is no need to trouble Khan Bahadur Taraporevala, whom he thanks for his kind hospitality.
+
 ## Key points
 
 - The letter is dated 30 November 1959.

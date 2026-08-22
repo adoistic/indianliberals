@@ -54,6 +54,12 @@ summary: |-
   The petition argues that Akola was selected deliberately rather than for administrative necessity, making the detention punitive rather than preventive. It documents the physical and institutional conditions at the prison: Gore was the only Class I female security prisoner, confined in a 40-by-10-foot barrack with one door and no window, near a prisoner with advanced leprosy and an unsegregated prisoner described as a dangerous lunatic. The filing invokes Maharashtra prison rules and the 1971 detention order to argue that the arrangements breached requirements concerning accommodation, separation, sanitation, exercise, reading light, and locking hours. The rendered document ends with the petitioner’s prayer for Gore’s removal to a central prison nearer Bombay; no judgment or final disposition is included in the pages seen.
 ---
 
+## Summary
+
+This 1976 writ petition before the High Court of Judicature at Bombay challenges the conditions under which Maharashtra MLA and political detainee Shrimati Mrinal Gore was held at Akola District Prison. Filed by her friend and colleague Prabhudas Tribhovandas Sanghvi, the petition states that Gore was arrested in December 1975 and detained under the Maintenance of Internal Security Act, 1971. It asks the Court to order her transfer from Akola to Yerawada or Nasik Central Prison, and, pending the hearing, to secure separate sanitary arrangements and her production before the Court.
+
+The petition argues that Akola was selected deliberately rather than for administrative necessity, making the detention punitive rather than preventive. It documents the physical and institutional conditions at the prison: Gore was the only Class I female security prisoner, confined in a 40-by-10-foot barrack with one door and no window, near a prisoner with advanced leprosy and an unsegregated prisoner described as a dangerous lunatic. The filing invokes Maharashtra prison rules and the 1971 detention order to argue that the arrangements breached requirements concerning accommodation, separation, sanitation, exercise, reading light, and locking hours. The rendered document ends with the petitioner’s prayer for Gore’s removal to a central prison nearer Bombay; no judgment or final disposition is included in the pages seen.
+
 ## Key points
 
 - The petition invokes Article 226 of the Constitution and challenges the conditions of Mrinal Gore’s preventive detention.

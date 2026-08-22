@@ -54,6 +54,12 @@ summary: |-
   The committee also agreed that the party’s principal speakers in both Houses should recommend adjourning Parliament until the ruling party elected a new prime minister, presenting this as a way to give the administration an appearance of stability. Finally, it discussed S. Kapur Singh’s complaint about the party’s recent nominations to select and parliamentary committees and resolved to adopt a more formal nomination procedure. The document is signed by Kapur Singh as secretary.
 ---
 
+## Summary
+
+This one-page internal record of the Swatantra Party Executive Committee meeting held on 29 May 1964 documents attendance, decisions, and follow-up arrangements. Chaired by Prof. N. G. Ranga, the meeting assigned party representatives to make obituary references for Prime Minister Jawaharlal Nehru in Parliament and to attend a public condolence meeting at Ramlila Grounds following his death. Maharani Gayatri Devi was nominated to speak for the party in the Central Hall, while M. R. Masani was asked to represent it at the public meeting.
+
+The committee also agreed that the party’s principal speakers in both Houses should recommend adjourning Parliament until the ruling party elected a new prime minister, presenting this as a way to give the administration an appearance of stability. Finally, it discussed S. Kapur Singh’s complaint about the party’s recent nominations to select and parliamentary committees and resolved to adopt a more formal nomination procedure. The document is signed by Kapur Singh as secretary.
+
 ## Key points
 
 - The Executive Committee met on 29 May 1964 in the Party Committee Room, Central Hall, Parliament House.

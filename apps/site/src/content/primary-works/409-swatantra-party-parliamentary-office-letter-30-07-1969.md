@@ -47,6 +47,10 @@ summary: |-
   This one-page English office letter, issued from the Swatantra Party Parliamentary Office in New Delhi on July 30, 1969, asks a parliamentary colleague to attend the House on August 8 for the election of the National Shipping Board. It identifies C.C. Desai as the Swatantra Party's candidate and requests the recipient's vote.
 ---
 
+## Summary
+
+This one-page English office letter, issued from the Swatantra Party Parliamentary Office in New Delhi on July 30, 1969, asks a parliamentary colleague to attend the House on August 8 for the election of the National Shipping Board. It identifies C.C. Desai as the Swatantra Party's candidate and requests the recipient's vote.
+
 ## Key points
 
 - The letter is issued on Swatantra Party Parliamentary Office letterhead at 53 North Avenue, New Delhi.

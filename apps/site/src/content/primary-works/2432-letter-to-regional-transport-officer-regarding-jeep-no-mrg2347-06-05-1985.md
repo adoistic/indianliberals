@@ -49,6 +49,12 @@ summary: |-
   Masani identifies MRG-2347 as one of the jeeps formerly belonging to the Swatantra Party and says it was disposed of in 1967, with notice of the sale given to the transport office. He asks that he not be harassed regarding nine vehicles sold by the Swatantra Party as far back as 1967, listing their registration numbers. The document is an administrative appeal focused on ownership, historical disposal of party property, and the consequences of continuing official demands decades after a sale.
 ---
 
+## Summary
+
+In this typed letter dated 6 May 1985, M. R. Masani writes from Bombay to the Regional Transport Officer concerning vehicle MRG-2347. He states that repeated protests regarding the vehicle have been ignored and returns the demand notice, explaining that he does not own or possess the vehicle.
+
+Masani identifies MRG-2347 as one of the jeeps formerly belonging to the Swatantra Party and says it was disposed of in 1967, with notice of the sale given to the transport office. He asks that he not be harassed regarding nine vehicles sold by the Swatantra Party as far back as 1967, listing their registration numbers. The document is an administrative appeal focused on ownership, historical disposal of party property, and the consequences of continuing official demands decades after a sale.
+
 ## Key points
 
 - The letter is dated 6 May 1985 and is addressed to the Regional Transport Officer, Old Body Guard Lines, Tulsinadi, Bombay.

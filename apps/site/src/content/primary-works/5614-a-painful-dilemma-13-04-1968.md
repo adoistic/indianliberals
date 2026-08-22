@@ -50,3 +50,7 @@ ai:
 summary: |-
   The rendered pages are from the April 13, 1968 issue of Swarajya. The visible editorial article, “GUJARAT LETTER: A PAINFUL DILEMMA,” examines an internal crisis in the Swatantra Party following the Rajya Sabha election in Gujarat. It reports disagreements over the official candidate, allegations of party indiscipline and disloyalty, resignations by senior party figures, and competing claims about how Swatantra legislators voted.
 ---
+
+## Summary
+
+The rendered pages are from the April 13, 1968 issue of Swarajya. The visible editorial article, “GUJARAT LETTER: A PAINFUL DILEMMA,” examines an internal crisis in the Swatantra Party following the Rajya Sabha election in Gujarat. It reports disagreements over the official candidate, allegations of party indiscipline and disloyalty, resignations by senior party figures, and competing claims about how Swatantra legislators voted.

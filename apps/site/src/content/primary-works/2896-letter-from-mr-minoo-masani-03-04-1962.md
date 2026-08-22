@@ -54,6 +54,12 @@ summary: |-
   The letter sets out the Board's positions on foreign affairs and parliamentary cooperation. It criticises the Government's policy toward Chinese aggression as weak, rejects the view that economic advantages justify dependence on Soviet aircraft and spare parts, and opposes an immediate larger opposition bloc including the Swatantra Party. At the same time, it supports continued exploratory discussions with like-minded groups, cooperation against statism, and preservation of the fundamental rights contained in the original Constitution of 1950.
 ---
 
+## Summary
+
+This two-page letter, dated 3 August 1962, records decisions of the Swatantra Party Parliamentary Board concerning the party's functioning in the Lok Sabha. Minoo Masani tells Maharaja P. K. Deo that there should be no change in the party's office-bearers for the forthcoming session; Yegh Pal Singh should be admitted as an associate member; members should clear subscription arrears; and the Central Office should appoint a Research Assistant, with a salary not exceeding Rs. 500 per month. Masani also recommends A. P. Jain for the post, citing his intelligence and previous work with Pandit H. N. Kunzru.
+
+The letter sets out the Board's positions on foreign affairs and parliamentary cooperation. It criticises the Government's policy toward Chinese aggression as weak, rejects the view that economic advantages justify dependence on Soviet aircraft and spare parts, and opposes an immediate larger opposition bloc including the Swatantra Party. At the same time, it supports continued exploratory discussions with like-minded groups, cooperation against statism, and preservation of the fundamental rights contained in the original Constitution of 1950.
+
 ## Key points
 
 - The Parliamentary Board recommended retaining the existing Swatantra Party office-bearers for the August–September 1962 Lok Sabha session.

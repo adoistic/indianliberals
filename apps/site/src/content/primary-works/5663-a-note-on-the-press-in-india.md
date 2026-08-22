@@ -53,6 +53,12 @@ summary: |-
   The document details the Bombay High Court's decision in the Freedom First case involving Minoo Masani, emphasizing limits on censorial discretion and the court's insistence that the press must remain a forum for competing political and economic ideas. It then records telephone censorship instructions, pressure on newspaper owners and editors, attempts to take over or control major newspapers, the removal of editors, new press ordinances, the suppression of periodicals, restrictions on foreign correspondents, and the creation of government-controlled news agencies. The closing pages reproduce a P.E.N. resolution defending unhampered communication and opposing censorship. No author, publisher, place, or year is printed in the rendered pamphlet.
 ---
 
+## Summary
+
+A Note on the Press in India examines press censorship during the Indian Emergency declared in June 1975. It contrasts the Ministry of Information and Broadcasting's claim that the Indian press remained free with the immediate imposition of censorship, the cutting of electricity to newspaper offices, compulsory submission of material for prior scrutiny, and restrictions issued under the Defence of India Rules, the Maintenance of Internal Security Act, and constitutional Emergency provisions. The pamphlet argues that censorship was applied far beyond the prevention of genuinely dangerous material, extending to criticism of government policy, judicial decisions, detentions, transfers of judges, and even reports of individual arrests and deaths in detention.
+
+The document details the Bombay High Court's decision in the Freedom First case involving Minoo Masani, emphasizing limits on censorial discretion and the court's insistence that the press must remain a forum for competing political and economic ideas. It then records telephone censorship instructions, pressure on newspaper owners and editors, attempts to take over or control major newspapers, the removal of editors, new press ordinances, the suppression of periodicals, restrictions on foreign correspondents, and the creation of government-controlled news agencies. The closing pages reproduce a P.E.N. resolution defending unhampered communication and opposing censorship. No author, publisher, place, or year is printed in the rendered pamphlet.
+
 ## Key points
 
 - The pamphlet challenges the official claim that the Indian press operated without interference during the Emergency.

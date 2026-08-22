@@ -52,6 +52,12 @@ summary: |-
   The central extract, headed “Public Corporations & Democracy,” uses the BBC’s institutional experience to question whether democratic purposes must always be pursued through conventional electoral mechanisms. Reith describes the BBC as autonomous and publicly accountable, yet governed by a nominated rather than elected body, and contrasts this arrangement with the timidity, compromise, and mediocrity he associates with electoral politics. He also links public-sector reform to nationalised rationalisation of coal mining and transport, criticises domestic social disorder, and expresses doubts about the League of Nations and the prospects for international stability. The postscript closes with a self-portrait of sustained, practical effort rather than conventional ambition.
 ---
 
+## Summary
+
+This six-page extract from Lord Reith’s autobiography Into The Wind presents three selected passages: an introduction to memoir-writing, reflections on the BBC and democratic government, and a short postscript. In the introduction, Reith considers why memoirs are written, describes the extensive diary material behind his account, and commits himself to telling the truth even when it may be improper, unkind, or hurtful.
+
+The central extract, headed “Public Corporations & Democracy,” uses the BBC’s institutional experience to question whether democratic purposes must always be pursued through conventional electoral mechanisms. Reith describes the BBC as autonomous and publicly accountable, yet governed by a nominated rather than elected body, and contrasts this arrangement with the timidity, compromise, and mediocrity he associates with electoral politics. He also links public-sector reform to nationalised rationalisation of coal mining and transport, criticises domestic social disorder, and expresses doubts about the League of Nations and the prospects for international stability. The postscript closes with a self-portrait of sustained, practical effort rather than conventional ambition.
+
 ## Key points
 
 - The introduction frames memoir-writing as a potentially historical and ethical act, not merely an exercise in publicity or self-justification.

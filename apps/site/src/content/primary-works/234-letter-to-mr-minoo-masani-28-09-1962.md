@@ -52,6 +52,12 @@ summary: |-
   Masani also presents a strongly pro-European position. Speaking as a member of an opposition party, he says Britain should take a more positive view of the European Economic Community and join the countries of Europe in limiting national sovereignty as part of a movement toward world order. He argues that a democratic united Europe could promote peace and freedom, facilitate the liberation of Eastern Europe without war, and reduce the danger of nuclear conflict. He further maintains that European integration need not exploit developing countries, contrasting his position with what he understood to be the Indian Prime Minister's less favourable attitude at the Commonwealth Prime Ministers' Conference in London. The document ends with Masani mentioning his friendship with Willy Brandt and anticipating another visit to Germany.
 ---
 
+## Summary
+
+This 28 September 1962 Deutsche Welle letter from E. N. Shaffer to M. R. Masani encloses a typed interview conducted at a Liberal World Union congress. Shaffer explains that the South Asia section had delayed sending the interview because it was still being organised. The interview records Masani's favourable assessment of the congress's liberal spirit, particularly its discussions of international relations and how the Cold War should be confronted while putting liberty first.
+
+Masani also presents a strongly pro-European position. Speaking as a member of an opposition party, he says Britain should take a more positive view of the European Economic Community and join the countries of Europe in limiting national sovereignty as part of a movement toward world order. He argues that a democratic united Europe could promote peace and freedom, facilitate the liberation of Eastern Europe without war, and reduce the danger of nuclear conflict. He further maintains that European integration need not exploit developing countries, contrasting his position with what he understood to be the Indian Prime Minister's less favourable attitude at the Commonwealth Prime Ministers' Conference in London. The document ends with Masani mentioning his friendship with Willy Brandt and anticipating another visit to Germany.
+
 ## Key points
 
 - The document is a Deutsche Welle covering letter dated 28 September 1962 with an enclosed interview transcript.

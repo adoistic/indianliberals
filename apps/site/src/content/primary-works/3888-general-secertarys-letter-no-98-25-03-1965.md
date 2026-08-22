@@ -51,6 +51,12 @@ summary: |-
   The letter reiterates an earlier decision that state units should retain discretion over contests for Zila Parishads, Panchayat Samitis, and municipal bodies. It also stresses that the decision to contest a specific local election must be made by the State Committee or its Parliamentary Board, rather than delegated to district or lower-level units, although district recommendations may inform the decision.
 ---
 
+## Summary
+
+Dated March 25, 1965, this General Secretary's Letter from M. R. Masani addresses Swatantra Party units about impending civic elections in several states. It reports the Central Parliamentary Board's view that state units should decide whether to contest municipal and Zila Parishad elections, while identifying the Bangalore and Ahmedabad municipal elections as a useful model: participation through a Civic Front excluding communists, combined with a civic programme.
+
+The letter reiterates an earlier decision that state units should retain discretion over contests for Zila Parishads, Panchayat Samitis, and municipal bodies. It also stresses that the decision to contest a specific local election must be made by the State Committee or its Parliamentary Board, rather than delegated to district or lower-level units, although district recommendations may inform the decision.
+
 ## Key points
 
 - The Central Parliamentary Board met in New Delhi on March 14 to discuss impending civic elections.

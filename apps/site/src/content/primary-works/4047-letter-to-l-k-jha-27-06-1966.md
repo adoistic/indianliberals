@@ -50,6 +50,12 @@ summary: |-
   Masani encloses a copy of the article and asks Jha to read it and place it before the Prime Minister. The letter is therefore a brief act of policy advocacy: it directs official attention toward competition, free enterprise, and the possible economic consequences of post-devaluation restraints.
 ---
 
+## Summary
+
+In this one-page letter dated June 27, 1966, M. R. Masani writes to L. K. Jha, Secretary to the Prime Minister, following a recent conversation in the Prime Minister's room. Masani says he has learned that Jha and an unnamed woman recipient had not read Leslie Sawhny's article, “The Conscience of Free Enterprise,” which discusses the dangers of restraining competition even after devaluation.
+
+Masani encloses a copy of the article and asks Jha to read it and place it before the Prime Minister. The letter is therefore a brief act of policy advocacy: it directs official attention toward competition, free enterprise, and the possible economic consequences of post-devaluation restraints.
+
 ## Key points
 
 - The letter is dated June 27, 1966, and is signed by M. R. Masani.

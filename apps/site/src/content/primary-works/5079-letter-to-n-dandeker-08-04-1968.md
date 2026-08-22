@@ -52,6 +52,12 @@ summary: |-
   Shroff adds that, if an emergency meeting cannot be called because of practical difficulties, the matter should receive priority at the next General Council meeting. The letter is typed on Shroff's Bombay legal-office letterhead and bears a handwritten signature and received stamp.
 ---
 
+## Summary
+
+In this letter dated 8 April 1968, Minoo J. Shroff writes to N. Dandekar about Minoo Masani's resignation from the party's National Executive and Central Parliamentary Board. Shroff describes the resignation as a matter of grave concern and asks Dandekar to convene an emergency meeting of the General Council so that appropriate action can be taken.
+
+Shroff adds that, if an emergency meeting cannot be called because of practical difficulties, the matter should receive priority at the next General Council meeting. The letter is typed on Shroff's Bombay legal-office letterhead and bears a handwritten signature and received stamp.
+
 ## Key points
 
 - The letter is dated 8 April 1968 and is addressed to N. Dandekar.

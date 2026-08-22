@@ -52,6 +52,10 @@ summary: |-
   This two-page archival packet combines an Express News Service newspaper clipping from Ahmedabad, dated March 28, with a typed Swatantra Party resolution. The clipping reports that Gujarat Swatantra Party legislators defied a Congress-backed whip in the elections. It names Jaisukhlal Hathi as a victorious Swatantra candidate from Gujarat and reports the election of Tribhuvandas Patel, while also listing numerous elected candidates and party affiliations across Gujarat and other states.
 ---
 
+## Summary
+
+This two-page archival packet combines an Express News Service newspaper clipping from Ahmedabad, dated March 28, with a typed Swatantra Party resolution. The clipping reports that Gujarat Swatantra Party legislators defied a Congress-backed whip in the elections. It names Jaisukhlal Hathi as a victorious Swatantra candidate from Gujarat and reports the election of Tribhuvandas Patel, while also listing numerous elected candidates and party affiliations across Gujarat and other states.
+
 ## Key points
 
 - The newspaper clipping reports electoral defiance by Gujarat Swatantra MLAs.

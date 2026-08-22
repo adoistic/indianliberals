@@ -56,6 +56,12 @@ summary: |-
   The enclosed resolution argues that agricultural land valuation would be impracticable because soil, size, weather, and improvements vary substantially; that more than half of the revenue might be absorbed by administrative costs; and that collection would encourage corruption and litigation. It further contends that the tax would reduce farmers’ incentives to improve land and crops and eventually diminish food-grain supplies. The attached June 20 circular and handwritten Maharashtra memorandum broaden the documentation request to tenancy, land ceilings, agricultural wages, landholding patterns, and the state’s position on agricultural wealth taxation. The Maharashtra notes list existing tenancy and land-ceiling legislation, provide approximate holding sizes and labour remuneration, and claim that large landowners support the Congress and have divided holdings among relatives to evade ceiling laws.
 ---
 
+## Summary
+
+This Swatantra Party General Secretary’s Letter No. 229, dated May 12, 1970, forwards a resolution adopted by the Mysore State Executive opposing the implementation of the Agricultural Wealth Tax Act. The covering letter asks party contacts to report the positions taken by their state governments and political parties, emphasizing that the party should formulate its opposition only after gathering information from across the country.
+
+The enclosed resolution argues that agricultural land valuation would be impracticable because soil, size, weather, and improvements vary substantially; that more than half of the revenue might be absorbed by administrative costs; and that collection would encourage corruption and litigation. It further contends that the tax would reduce farmers’ incentives to improve land and crops and eventually diminish food-grain supplies. The attached June 20 circular and handwritten Maharashtra memorandum broaden the documentation request to tenancy, land ceilings, agricultural wages, landholding patterns, and the state’s position on agricultural wealth taxation. The Maharashtra notes list existing tenancy and land-ceiling legislation, provide approximate holding sizes and labour remuneration, and claim that large landowners support the Congress and have divided holdings among relatives to evade ceiling laws.
+
 ## Key points
 
 - The May 12, 1970 letter transmits a Mysore State Executive resolution opposing the Agricultural Wealth Tax Act.

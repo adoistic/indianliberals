@@ -46,6 +46,10 @@ summary: |-
   In this confidential letter dated May 29, 1970, Minoo Masani reports to C. Rajagopalachari (“Rajaji”) on discussions among Morarji Desai, Ram Subhag Singh, Atal Bihari Vajpayee, and Madhok concerning a joint opposition response. Masani describes a proposed draft statement for the forthcoming AICC meeting and hopes that agreement between the Jan Sangh and other opposition forces might lead to a united parliamentary group with one leader, two deputy leaders, and a common discipline.
 ---
 
+## Summary
+
+In this confidential letter dated May 29, 1970, Minoo Masani reports to C. Rajagopalachari (“Rajaji”) on discussions among Morarji Desai, Ram Subhag Singh, Atal Bihari Vajpayee, and Madhok concerning a joint opposition response. Masani describes a proposed draft statement for the forthcoming AICC meeting and hopes that agreement between the Jan Sangh and other opposition forces might lead to a united parliamentary group with one leader, two deputy leaders, and a common discipline.
+
 ## Key points
 
 - Masani reports on a Delhi meeting involving Morarji Desai, Ram Subhag Singh, Atal Bihari Vajpayee, and Madhok.

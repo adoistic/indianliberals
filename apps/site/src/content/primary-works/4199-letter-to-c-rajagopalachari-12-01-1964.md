@@ -51,6 +51,12 @@ summary: |-
   Munshi therefore asks Rajagopalachari to relieve him of the burden and replace him with a younger, more effective person as Vice-President. The letter is copied to Prof. N. G. Ranga and M. R. Masani; no further political context or information about the proposed replacement appears on the page.
 ---
 
+## Summary
+
+In this personal and confidential letter dated January 12, 1964, K. M. Munshi tells C. Rajagopalachari that declining health has made him unfit for the travel and sustained discussion required by active politics. He says that being unable to perform active work leaves him feeling guilty and unhappy because he regards it as a breach of duty.
+
+Munshi therefore asks Rajagopalachari to relieve him of the burden and replace him with a younger, more effective person as Vice-President. The letter is copied to Prof. N. G. Ranga and M. R. Masani; no further political context or information about the proposed replacement appears on the page.
+
 ## Key points
 
 - Munshi reports repeated health setbacks during the preceding four months.

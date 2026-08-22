@@ -46,6 +46,12 @@ summary: |-
   The handwritten page records the circulation of three homemade copies for “favour of personal” attention. It says copies were given to P. Ranga, Shri Munshi, and Shri Masani through Shri Mulla, and that copies were also sent to Bangalore and to Shri Bhailal Patel. The pages contain no substantive argument or identifiable discussion of liberal ideas; they primarily document correspondence, reading, and the distribution of materials.
 ---
 
+## Summary
+
+This two-page English correspondence file brings together a typed letter dated 20 August 1959 and a separate handwritten letter on B. B. Kapasi’s New Delhi letterhead dated 8 August 1959. The typed letter is addressed to Mr. Kapasi and briefly thanks him for sending newspaper cuttings, which the writer says were read with much interest.
+
+The handwritten page records the circulation of three homemade copies for “favour of personal” attention. It says copies were given to P. Ranga, Shri Munshi, and Shri Masani through Shri Mulla, and that copies were also sent to Bangalore and to Shri Bhailal Patel. The pages contain no substantive argument or identifiable discussion of liberal ideas; they primarily document correspondence, reading, and the distribution of materials.
+
 ## Key points
 
 - The file contains two pages of English correspondence from August 1959.

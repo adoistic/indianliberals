@@ -54,6 +54,12 @@ summary: |-
   The paper also reviews the procedure used at the February 1965 meeting, when the existing National Executive was elected unanimously, and considers alternative methods for the forthcoming meeting. Where contests arise, it recommends a single non-transferable vote, with voters receiving one vote per vacancy but no more than one vote for any candidate. For multiple-seat elections, the earlier proposal discusses proportional representation through the single transferable vote, while leaving the final choice to the General Council because Article 10(a) of the Constitution is silent on the issue. Attached nomination forms cover the Presidency, four Vice-Presidencies, General Secretaryship, four Joint Secretaryships, two Treasurers, and twenty National Executive seats.
 ---
 
+## Summary
+
+This 1967 Swatantra Party procedural paper sets out proposed arrangements for electing office bearers and twenty members of the National Executive. It specifies the proposed structure—one President, four Vice-Presidents, one General Secretary, four Joint Secretaries, two Treasurers, and twenty additional Executive members—and provides a timetable for nominations, adjournments, secret ballots, scrutiny, counting, and declaration of results at the General Council meeting of 25–26 November 1967.
+
+The paper also reviews the procedure used at the February 1965 meeting, when the existing National Executive was elected unanimously, and considers alternative methods for the forthcoming meeting. Where contests arise, it recommends a single non-transferable vote, with voters receiving one vote per vacancy but no more than one vote for any candidate. For multiple-seat elections, the earlier proposal discusses proportional representation through the single transferable vote, while leaving the final choice to the General Council because Article 10(a) of the Constitution is silent on the issue. Attached nomination forms cover the Presidency, four Vice-Presidencies, General Secretaryship, four Joint Secretaryships, two Treasurers, and twenty National Executive seats.
+
 ## Key points
 
 - The proposed National Executive structure comprises one President, four Vice-Presidents, one General Secretary, four Joint Secretaries, two Treasurers, and twenty members.

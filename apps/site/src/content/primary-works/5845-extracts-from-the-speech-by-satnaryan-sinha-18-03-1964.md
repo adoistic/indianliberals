@@ -55,6 +55,12 @@ summary: |-
   The speech then turns to television. Sinha describes television as valuable for information, education, and entertainment, but says India’s financial circumstances make nationwide expansion impossible without choosing between commercialisation or postponement. He rejects commercialisation of All India Radio, while keeping an open mind about sponsored television and inviting a decision based on weighing its advantages and disadvantages. The pages end with this discussion; any subsequent portion of the speech is not visible.
 ---
 
+## Summary
+
+These two rendered pages reproduce extracts from Satyanarayan Sinha’s speech as Minister of Information and Broadcasting in the Lok Sabha on 18 March 1964. Responding to Minoo Masani’s proposal to convert All India Radio into an autonomous organisation, Sinha accepts the principle in the long term but argues that autonomy is impractical while the organisation remains financially dependent, subject to extensive parliamentary scrutiny, and vulnerable to takeover during an emergency. He maintains that the broadcasting service’s developmental needs require substantial capital and that the existing system of government control is necessary for accountability.
+
+The speech then turns to television. Sinha describes television as valuable for information, education, and entertainment, but says India’s financial circumstances make nationwide expansion impossible without choosing between commercialisation or postponement. He rejects commercialisation of All India Radio, while keeping an open mind about sponsored television and inviting a decision based on weighing its advantages and disadvantages. The pages end with this discussion; any subsequent portion of the speech is not visible.
+
 ## Key points
 
 - Sinha responds to Minoo Masani’s call for All India Radio to become autonomous.

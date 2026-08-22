@@ -56,6 +56,12 @@ summary: |-
   The selections advocate a mixed economy in which private and state enterprises operate freely and competitively, while the state concentrates on infrastructure, education, and limited regulation against anti-social practices. They attack nationalization, central planning, and policies that suppress consumption and agricultural prosperity in the name of building heavy industry. Later excerpts use rural income figures to illustrate the alleged failures of successive Five-Year Plans, criticize planners as economically inexperienced intellectuals, and insist that socialism cannot be reduced to slogans or state control.
 ---
 
+## Summary
+
+This three-page English compilation, headed “From Speeches in the Lok Sabha,” presents dated extracts from parliamentary interventions between 1960 and 1967. The excerpts argue that post-Independence socialism has benefited a politically connected “New Class” of politicians, officials, and allied businessmen rather than the mass of the population. They distinguish the stated aim of a free and equal society from the methods used to pursue it, criticizing statism, state capitalism, bureaucratic control, and the belief that government must do everything for citizens.
+
+The selections advocate a mixed economy in which private and state enterprises operate freely and competitively, while the state concentrates on infrastructure, education, and limited regulation against anti-social practices. They attack nationalization, central planning, and policies that suppress consumption and agricultural prosperity in the name of building heavy industry. Later excerpts use rural income figures to illustrate the alleged failures of successive Five-Year Plans, criticize planners as economically inexperienced intellectuals, and insist that socialism cannot be reduced to slogans or state control.
+
 ## Key points
 
 - The excerpts claim that the principal beneficiaries of fifteen years of post-Independence socialism were politically connected officials, politicians, and businessmen.

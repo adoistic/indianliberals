@@ -52,6 +52,12 @@ summary: |-
   Ranga asks Masani to give speeches offering the country a direct lead toward forming multilingual states on a linguistic basis, while also urging individuals, regardless of party affiliation, to express their views freely. The letter presents such intervention as a possible corrective to the contemporary political leadership and to what Ranga calls “linguistic frenzy.” The handwritten date appears to be 25-10-58, though the metadata and date reading require human review.
 ---
 
+## Summary
+
+This two-page handwritten letter from J. R. Ranga to Minoo Masani thanks Masani for a letter of 22 October and asks him to contact Mr. Maganbhai Joshi. Ranga urges Masani not to support Joshi only privately, but also in his individual public capacity. The letter describes political inaction in Bombay, attributing it partly to Congress discipline, and refers to the PSP's campaign to place Bombay under “Maha Gujarat.”
+
+Ranga asks Masani to give speeches offering the country a direct lead toward forming multilingual states on a linguistic basis, while also urging individuals, regardless of party affiliation, to express their views freely. The letter presents such intervention as a possible corrective to the contemporary political leadership and to what Ranga calls “linguistic frenzy.” The handwritten date appears to be 25-10-58, though the metadata and date reading require human review.
+
 ## Key points
 
 - Ranga thanks Minoo Masani for a letter dated 22 October and says he is contacting Maganbhai Joshi.

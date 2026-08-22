@@ -56,6 +56,12 @@ summary: |-
   The record also sets out a proposed 25 October Shibir at Bharat Scout's and Guides Hall, Shivaji Park, Dadar. Its programme includes sessions on student unrest, unemployment, the political situation, secularism in India, Swatantra philosophy, the National Convention, and labour and Swatantra, along with a lunch recess, tea breaks, a national anthem, and a vote of thanks. Further brief items concern Parliamentary Board nominations, proposed Youth Front workers, the resignation of J. Venkateswaran, and the selection of a new Hatunga Unit president. The document is an administrative snapshot rather than a substantive statement of policy.
 ---
 
+## Summary
+
+This two-page Swatantra Party office record, dated 23 September 1970, records matters arising from Item No. 3 of the Bombay Region Executive Committee meeting. It reports preparations for a National Convention, including the confirmation of 11 members of the Convention Organising Committee, the deferral of the remaining 10 names until the Finance Committee could suggest suitable candidates, and the formation of sub-committees for finance, accommodation, transport, press publicity, public relations and propaganda, catering, and extra functions.
+
+The record also sets out a proposed 25 October Shibir at Bharat Scout's and Guides Hall, Shivaji Park, Dadar. Its programme includes sessions on student unrest, unemployment, the political situation, secularism in India, Swatantra philosophy, the National Convention, and labour and Swatantra, along with a lunch recess, tea breaks, a national anthem, and a vote of thanks. Further brief items concern Parliamentary Board nominations, proposed Youth Front workers, the resignation of J. Venkateswaran, and the selection of a new Hatunga Unit president. The document is an administrative snapshot rather than a substantive statement of policy.
+
 ## Key points
 
 - The record follows up on Item No. 3 of the Bombay Region Executive Committee minutes dated 23 September 1970.

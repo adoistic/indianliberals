@@ -49,6 +49,10 @@ summary: |-
   This single-page institutional document is a membership directory for The Foreign Correspondents’ Association of India, issued in New Delhi for February 1960. It identifies the association’s President, Hans J. Bargman, and Vice-President & Secretary, Vassily V. Kondrashov, followed by a roster of foreign correspondents and news professionals working in India.
 ---
 
+## Summary
+
+This single-page institutional document is a membership directory for The Foreign Correspondents’ Association of India, issued in New Delhi for February 1960. It identifies the association’s President, Hans J. Bargman, and Vice-President & Secretary, Vassily V. Kondrashov, followed by a roster of foreign correspondents and news professionals working in India.
+
 ## Key points
 
 - The document records the association’s membership as of February 1960.

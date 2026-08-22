@@ -47,6 +47,10 @@ summary: |-
   This single-page English letter, dated 18 November 1972, is addressed by F. C. Cama, General Secretary of the Swatantra Party, to Mr. K. H. Subramaniam. Cama conveys a resolution unanimously passed by the Swatantra Party’s Bombay Region Executive Committee at its 13 November meeting, accepting Subramaniam’s resignation as Regional Secretary.
 ---
 
+## Summary
+
+This single-page English letter, dated 18 November 1972, is addressed by F. C. Cama, General Secretary of the Swatantra Party, to Mr. K. H. Subramaniam. Cama conveys a resolution unanimously passed by the Swatantra Party’s Bombay Region Executive Committee at its 13 November meeting, accepting Subramaniam’s resignation as Regional Secretary.
+
 ## Key points
 
 - The letter is dated 18 November 1972 and is addressed to Mr. K. H. Subramaniam.

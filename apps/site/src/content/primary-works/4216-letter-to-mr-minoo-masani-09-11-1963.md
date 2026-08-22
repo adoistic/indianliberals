@@ -47,6 +47,12 @@ summary: |-
   The letter is practical and conciliatory in tone. Rajagopalachari attributes the problem to the timing of the letters' dispatch, suggesting they are posted too late to reach the next day's mail, and closes with a courteous expression of sincerity. The recipient is identified as the General Secretary of the Swatantra Party.
 ---
 
+## Summary
+
+This single-page letter from C. Rajagopalachari to M. R. Masani, dated 9 November 1963, addresses a delay in their correspondence. Rajagopalachari acknowledges Masani's statement that he has not received a reply and explains that he has been responding promptly, but that Masani's letters appear to be delayed in the post.
+
+The letter is practical and conciliatory in tone. Rajagopalachari attributes the problem to the timing of the letters' dispatch, suggesting they are posted too late to reach the next day's mail, and closes with a courteous expression of sincerity. The recipient is identified as the General Secretary of the Swatantra Party.
+
 ## Key points
 
 - The letter is dated 9 November 1963 and is written by C. Rajagopalachari.

@@ -49,6 +49,12 @@ summary: |-
   The circular states that the exact time and venue will be communicated later and that the meeting's agenda remains unchanged from Circular No. 4/65. The rendered page contains no further information about that agenda or the committee's membership.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated 9 August 1965, announces a revision to Circular No. 4/65. Signed by General Secretary M. R. Masani, it informs party contacts that a previously postponed meeting of the General Parliamentary Sub-Committee will instead be held in New Delhi on the morning of Saturday, 28 August, because Mr. R. R. Singh Deo was unable to attend the earlier scheduled meeting.
+
+The circular states that the exact time and venue will be communicated later and that the meeting's agenda remains unchanged from Circular No. 4/65. The rendered page contains no further information about that agenda or the committee's membership.
+
 ## Key points
 
 - The document is General Parliamentary Sub-Committee Circular No. 5/65 of the Swatantra Party.

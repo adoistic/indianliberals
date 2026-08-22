@@ -55,6 +55,12 @@ summary: |-
   The draft also proposes a limited but active role for government in agriculture: helping small farmers benefit from the green revolution through water, fertiliser, seed, pesticides, tools, credit, improved techniques, electric power, and reasonable support prices. Finally, it restricts state enterprise to heavy industry needed to supplement private enterprise, essential national services such as the railways, and new enterprises that private capital and initiative cannot readily establish. The page cites the Swatantra Party's Statement of Policy from Patna in March 1960 and its 1962 and 1967 manifestos, but does not itself print a publication year.
 ---
 
+## Summary
+
+This one-page draft sets out four amendments proposed by M. R. Masani to the Swatantra Party's election manifesto. It defines the government's industrial role as that of a helper and regulator rather than a participant, arguing that government should concentrate on roads, communications, transport, and cheap electric power instead of entering trade and manufacturing unnecessarily. The amendment retains a mixed-economy position in which government and free enterprise cooperate as autonomous partners, while rejecting further wasteful investment in an ineffective government sector.
+
+The draft also proposes a limited but active role for government in agriculture: helping small farmers benefit from the green revolution through water, fertiliser, seed, pesticides, tools, credit, improved techniques, electric power, and reasonable support prices. Finally, it restricts state enterprise to heavy industry needed to supplement private enterprise, essential national services such as the railways, and new enterprises that private capital and initiative cannot readily establish. The page cites the Swatantra Party's Statement of Policy from Patna in March 1960 and its 1962 and 1967 manifestos, but does not itself print a publication year.
+
 ## Key points
 
 - The proposed industrial policy casts government primarily as a helper and regulator, not as a business operator.

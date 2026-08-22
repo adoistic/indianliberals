@@ -51,3 +51,7 @@ ai:
 summary: |-
   The March 1964 issue of Motor Transport presents two Lok Sabha speeches on the development of roads and road transport. M. R. Masani argues that transport policy has systematically favoured the railways, while neglecting roads, private operators, vehicle manufacturing, and the infrastructure needed for economic growth. Raj Bahadur, the Transport Minister, replies by defending the Government's allocations and reporting planned road, bridge, vehicle-production, and inter-State transport measures.
 ---
+
+## Summary
+
+The March 1964 issue of Motor Transport presents two Lok Sabha speeches on the development of roads and road transport. M. R. Masani argues that transport policy has systematically favoured the railways, while neglecting roads, private operators, vehicle manufacturing, and the infrastructure needed for economic growth. Raj Bahadur, the Transport Minister, replies by defending the Government's allocations and reporting planned road, bridge, vehicle-production, and inter-State transport measures.

@@ -43,6 +43,10 @@ summary: |-
   A brief telegram sent through the Indian Posts and Telegraphs Department from New Delhi to Shri Minoo Masani at 148 Mahatma Gandhi Road, Bombay, dated 9 March 1971. The one-line message reads simply "WISH YOU ALL SUCCESS" and is signed "SRIRAJ". Received under serial number 8774, the wire is a personal note of encouragement rather than a substantive political or policy communication, and offers no argumentative content beyond the good wishes themselves.
 ---
 
+## Summary
+
+A brief telegram sent through the Indian Posts and Telegraphs Department from New Delhi to Shri Minoo Masani at 148 Mahatma Gandhi Road, Bombay, dated 9 March 1971. The one-line message reads simply "WISH YOU ALL SUCCESS" and is signed "SRIRAJ". Received under serial number 8774, the wire is a personal note of encouragement rather than a substantive political or policy communication, and offers no argumentative content beyond the good wishes themselves.
+
 ## Key points
 
 - Telegram form of the Indian Posts and Telegraphs Department, received serial number 8774, addressed to Shri Minoo Masani at 148 Mahatma Gandhi Road, Bombay.

@@ -52,6 +52,12 @@ summary: |-
   The report names the winning and defeated candidates in the Jaipur and Assembly constituencies and briefly comments on the Swatantra Party’s organisation and campaign. The clipping ends with a continuation marker, “(Turn to Page 7, Col 2),” and a further fragment of text is visible below; the complete source publication and issue details are not visible on the mounted clipping.
 ---
 
+## Summary
+
+This one-page English newspaper clipping, dated Jaipur, April 29, reports that the Congress won both Jaipur constituencies in an electoral contest against the Swatantra Party. It describes the Swatantra Party’s defeat in the Jaipur district and gives vote figures for the Congress candidates, while noting that the Congress victories were achieved despite the party’s poor performance in the previous Assembly election.
+
+The report names the winning and defeated candidates in the Jaipur and Assembly constituencies and briefly comments on the Swatantra Party’s organisation and campaign. The clipping ends with a continuation marker, “(Turn to Page 7, Col 2),” and a further fragment of text is visible below; the complete source publication and issue details are not visible on the mounted clipping.
+
 ## Key points
 
 - Congress is reported to have won both Jaipur seats.

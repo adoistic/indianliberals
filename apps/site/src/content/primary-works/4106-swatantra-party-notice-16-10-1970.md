@@ -56,6 +56,12 @@ summary: |-
   The minutes list members present and absent, confirm the previous meeting’s minutes, and call for faster reporting on action arising from minutes. Much of the discussion concerns preparations for the Party’s National Convention and a proposed workers’ shibir: fundraising, enrollment, Maharashtra participation, invited All-India leaders, talks on the Party’s principles and fundamental rights, food charges, dates, and distribution of a party viewpoint brochure. The committee also addresses delegates to a preparatory convention of the National Youth Front, nominations to the General Council, a separate Union Bank account for the convention, staff remuneration, and the proposed acceptance of J. Venkiteswaran’s resignation as Matunga Unit President on health grounds.
 ---
 
+## Summary
+
+This four-page English office record combines a 15 October 1970 notice with the draft minutes of the Swatantra Party’s Bombay Region Executive Committee meeting held on 23 September 1970. The notice sets out four agenda items: confirmation of earlier minutes, matters arising, arrangements for the National Convention, and other business with the Chair’s consent. It identifies the party office at Sassoon Building, Bombay, and is signed by K. S. Srinivasan as Office Secretary.
+
+The minutes list members present and absent, confirm the previous meeting’s minutes, and call for faster reporting on action arising from minutes. Much of the discussion concerns preparations for the Party’s National Convention and a proposed workers’ shibir: fundraising, enrollment, Maharashtra participation, invited All-India leaders, talks on the Party’s principles and fundamental rights, food charges, dates, and distribution of a party viewpoint brochure. The committee also addresses delegates to a preparatory convention of the National Youth Front, nominations to the General Council, a separate Union Bank account for the convention, staff remuneration, and the proposed acceptance of J. Venkiteswaran’s resignation as Matunga Unit President on health grounds.
+
 ## Key points
 
 - The notice schedules a 21 October 1970 Executive Committee meeting and lists four agenda items.

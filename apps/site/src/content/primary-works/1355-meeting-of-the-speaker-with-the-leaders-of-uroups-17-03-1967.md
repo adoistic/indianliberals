@@ -47,6 +47,12 @@ summary: |-
   Issued from Parliament House, New Delhi, the notice requests attendance and permits any leader unable to attend to deputise another member of their group. It is addressed specifically to the leaders of opposition groups in the Lok Sabha and is signed by P. K. Parnatak, Deputy Secretary.
 ---
 
+## Summary
+
+This one-page English notice, dated March 17, 1967, announces that the Speaker of the Lok Sabha will meet leaders of groups on Saturday, March 18, immediately after the House rises for the day. The meeting is to take place in the Speaker’s Chamber, Room No. 17, and will address seating arrangements and other matters connected with the business of the House.
+
+Issued from Parliament House, New Delhi, the notice requests attendance and permits any leader unable to attend to deputise another member of their group. It is addressed specifically to the leaders of opposition groups in the Lok Sabha and is signed by P. K. Parnatak, Deputy Secretary.
+
 ## Key points
 
 - The notice is dated March 17, 1967, and issued from Parliament House, New Delhi.

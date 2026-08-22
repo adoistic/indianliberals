@@ -52,6 +52,12 @@ summary: |-
   The page further argues that deficit financing should require parliamentary authorization because, under the Constitution, only the Lok Sabha has the power to raise taxes. Finally, it calls for reduced government expenditure at every level, including smaller ministries at the Centre and in the states. The Ministry of Agriculture is singled out as an example of an allegedly excessive central ministry, with the page asserting that a poor country such as India cannot afford such administrative luxury.
 ---
 
+## Summary
+
+The rendered page presents numbered propositions 4–7 concerning economic growth, monetary stability, constitutional procedure, and government size. It argues that Indian people have a strong propensity to save and should therefore receive stronger incentives, including considerably higher interest rates on bank deposits and government securities. It also describes monetary correction as adjusting repayments such as bank deposits, life insurance, and government loans to preserve the currency’s purchasing power, citing an experiment in Brazil as evidence that the approach can reduce inflation.
+
+The page further argues that deficit financing should require parliamentary authorization because, under the Constitution, only the Lok Sabha has the power to raise taxes. Finally, it calls for reduced government expenditure at every level, including smaller ministries at the Centre and in the states. The Ministry of Agriculture is singled out as an example of an allegedly excessive central ministry, with the page asserting that a poor country such as India cannot afford such administrative luxury.
+
 ## Key points
 
 - Economic growth is linked to cultivating and incentivising household savings.

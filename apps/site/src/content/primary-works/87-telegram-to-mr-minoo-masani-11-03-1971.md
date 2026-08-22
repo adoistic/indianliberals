@@ -47,6 +47,10 @@ summary: |-
   This single-page telegram, received by the Telegraphs Department on 13 March 1971, is addressed to Minoobhai Masani at 148 Mahatma Gandhi Road, Bombay. Sent from Wankaner, it conveys the sender's grief and describes Masani's cause or outcome as a “moral national victory.” The sender is identified as Mulubhai Nautamlal.
 ---
 
+## Summary
+
+This single-page telegram, received by the Telegraphs Department on 13 March 1971, is addressed to Minoobhai Masani at 148 Mahatma Gandhi Road, Bombay. Sent from Wankaner, it conveys the sender's grief and describes Masani's cause or outcome as a “moral national victory.” The sender is identified as Mulubhai Nautamlal.
+
 ## Key points
 
 - The document is a one-page English telegram on a Telegraphs Department form.

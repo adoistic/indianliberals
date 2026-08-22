@@ -48,6 +48,12 @@ summary: |-
   Masani asks Menon to contact the local people and provide them with his cooperation. He also encloses a copy of the handbook of the Bombay Convention prepared by Masani’s group. The letter therefore records organisational coordination around a contemporary liberal-political convention and network.
 ---
 
+## Summary
+
+This single-page letter from M. R. Masani to K. S. K. Menon, dated 23 October 1959, apologises for the delayed reply after Masani’s return from Europe. Masani reports that a group has been formed in Delhi and identifies Sardar Lall Singh, of Kotah House, New Delhi, as its convener.
+
+Masani asks Menon to contact the local people and provide them with his cooperation. He also encloses a copy of the handbook of the Bombay Convention prepared by Masani’s group. The letter therefore records organisational coordination around a contemporary liberal-political convention and network.
+
 ## Key points
 
 - The letter is dated 23 October 1959 and is signed by M. R. Masani.

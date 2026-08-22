@@ -48,6 +48,12 @@ summary: |-
   The second page is dated by hand “3-7-1962” and bears an official stamp dated “3 JUL 1962.” It appears to authorize or record a cash payment of Rs. 2,000 to a recipient identified in handwriting as a Shri … Raja Maharaja of Rampur, although the recipient’s personal name cannot be confidently transcribed. The page ends with the printed designation “Accountant.”
 ---
 
+## Summary
+
+This two-page English office memorandum is printed on the letterhead of The Central Bank of India, Ltd., Bombay. No substantive title, human author, or publisher line is visible. The first page contains handwritten accounting calculations and figures, including “3 (18838-93)” and a circled “3330,” together with entries that appear to record amounts and account references; the handwriting is partly difficult to decipher.
+
+The second page is dated by hand “3-7-1962” and bears an official stamp dated “3 JUL 1962.” It appears to authorize or record a cash payment of Rs. 2,000 to a recipient identified in handwriting as a Shri … Raja Maharaja of Rampur, although the recipient’s personal name cannot be confidently transcribed. The page ends with the printed designation “Accountant.”
+
 ## Key points
 
 - The document is a two-page institutional memorandum on The Central Bank of India, Ltd. letterhead.

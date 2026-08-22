@@ -49,6 +49,12 @@ summary: |-
   Masani recounts that the jeep had once been registered in his name while he was General Secretary of the Swatantra Party, but that Tata Services Limited purchased it for the use of Tata companies and transferred possession to the Tata Iron & Steel Co. Ltd. in 1967. He encloses a 1975 confirmation from Tata Services Limited supporting this account and argues that, because he no longer owned or controlled the vehicle, he cannot complete the reply form concerning the alleged offence.
 ---
 
+## Summary
+
+In this letter dated March 19, 1980, M. R. Masani writes to the Deputy Commissioner of Police, Traffic Control Branch, Bombay, in response to a notice concerning an alleged traffic offence involving motor vehicle MRA 4024. He states that the offence—"driving against the police signal"—was attributed to him under a misunderstanding and explains that the vehicle had ceased to be connected with him years earlier.
+
+Masani recounts that the jeep had once been registered in his name while he was General Secretary of the Swatantra Party, but that Tata Services Limited purchased it for the use of Tata companies and transferred possession to the Tata Iron & Steel Co. Ltd. in 1967. He encloses a 1975 confirmation from Tata Services Limited supporting this account and argues that, because he no longer owned or controlled the vehicle, he cannot complete the reply form concerning the alleged offence.
+
 ## Key points
 
 - Masani responds to a traffic-offence notice concerning motor vehicle MRA 4024.

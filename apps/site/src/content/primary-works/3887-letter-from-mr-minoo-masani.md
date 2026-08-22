@@ -49,6 +49,12 @@ summary: |-
   The letter notes that some constituencies have already complied and asks the recipient to arrange the same locally. It requests the name of the bank, the current account number, and the names of the three committee members authorised to operate the account. The document is undated and addressed simply to “Dear Friend.”
 ---
 
+## Summary
+
+This untitled one-page office letter from the Swatantra Party Central Office, signed by M. R. Masani, instructs prospective Parliamentary candidates to open bank accounts for constituency funds. Masani explains that the accounts will facilitate the remittance of funds by mail transfer and help the local three-man committees maintain proper financial records.
+
+The letter notes that some constituencies have already complied and asks the recipient to arrange the same locally. It requests the name of the bank, the current account number, and the names of the three committee members authorised to operate the account. The document is undated and addressed simply to “Dear Friend.”
+
 ## Key points
 
 - The letter is issued by the Swatantra Party Central Office in Bombay.

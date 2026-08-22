@@ -52,6 +52,12 @@ summary: |-
   The remaining pages are administrative enclosures connected with the vehicle. They include a Marathi regional-transport-office note, an envelope addressed to M. R. Masani, a Bombay Regional Transport Office motor-vehicle tax bill for registration mark MRA-4024, and instructions concerning payment, arrears, interest, non-use periods, tax-payment cycles, and required certificates. The tax bill records an outstanding total of Rs. 3,642 and a current-tax grand total of Rs. 3,954. The file therefore documents the persistence of an administrative and tax matter concerning a vehicle long after its sale and transfer.
 ---
 
+## Summary
+
+This archival file contains M. R. Masani’s registered letter of 28 February 1985 to the Regional Transport Officer, Bombay, concerning vehicle MRA-4024. Masani refers the officer to earlier correspondence from 1977 and 1983 and states that the relevant details have already been supplied. He explains that the vehicle was sold by the Swatantra Party to Tata Services Limited on 3 May 1967 and was subsequently taken to Bhubaneswar by the Tata Iron and Steel Company. He asks that any further enquiries be directed to Tata Services Limited rather than to him.
+
+The remaining pages are administrative enclosures connected with the vehicle. They include a Marathi regional-transport-office note, an envelope addressed to M. R. Masani, a Bombay Regional Transport Office motor-vehicle tax bill for registration mark MRA-4024, and instructions concerning payment, arrears, interest, non-use periods, tax-payment cycles, and required certificates. The tax bill records an outstanding total of Rs. 3,642 and a current-tax grand total of Rs. 3,954. The file therefore documents the persistence of an administrative and tax matter concerning a vehicle long after its sale and transfer.
+
 ## Key points
 
 - Masani’s letter is dated 28 February 1985 and addressed to the Regional Transport Officer, Bombay.

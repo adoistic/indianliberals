@@ -51,6 +51,12 @@ summary: |-
   Section II lists twenty-six further constituencies where the party’s candidates secured either more than 50 percent of the winning vote or more than 7,500 votes. These entries cover districts across Uttar Pradesh, including Bijnor, Moradabad, Shahjahanpur, Sitapur, Barabanki, Bahraich, Gonda, Basti, Ballia, Ghazipur, Etawah, Mainpuri, Etah, Agra, Aligarh, and Meerut. Section III identifies two “Other Possible Constituencies”—Ekeshwar and Shikohabad—and names prospective candidates or notes prior electoral experience. The document is an internal electoral inventory rather than an argument about policy or political theory; no publication year or individual author is printed.
 ---
 
+## Summary
+
+This three-page Swatantra Party report records Uttar Pradesh constituencies in which the party either won or performed strongly. Section I lists twelve constituencies described as seats the party had won, including Lansdowne, Thakurdwara, Suar Tanda, Rampur, Bilaspur, Shahabad, Mahadewa, Bikramjot, Basti, Karhal, Ghiror, and Etah. For each seat, it gives the district, candidate names, party affiliations, and vote percentages. The reported Swatantra Party shares range from 33.52 percent in Etah to 70.97 percent in Rampur.
+
+Section II lists twenty-six further constituencies where the party’s candidates secured either more than 50 percent of the winning vote or more than 7,500 votes. These entries cover districts across Uttar Pradesh, including Bijnor, Moradabad, Shahjahanpur, Sitapur, Barabanki, Bahraich, Gonda, Basti, Ballia, Ghazipur, Etawah, Mainpuri, Etah, Agra, Aligarh, and Meerut. Section III identifies two “Other Possible Constituencies”—Ekeshwar and Shikohabad—and names prospective candidates or notes prior electoral experience. The document is an internal electoral inventory rather than an argument about policy or political theory; no publication year or individual author is printed.
+
 ## Key points
 
 - The report is headed “SWATANTRA PARTY” and concerns Uttar Pradesh electoral constituencies.

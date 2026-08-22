@@ -50,6 +50,12 @@ summary: |-
   Patel identifies himself as an opposition member of the Eighth Parliament and says that he will need Raju’s good wishes to function effectively. The letter is brief, cordial, and focused on electoral success, parliamentary opposition, and the responsibilities of legislative work.
 ---
 
+## Summary
+
+This single-page letter, dated 5 January 1985, is H. M. Patel’s personal acknowledgment to S. V. Raju. Patel thanks Raju for his good wishes following Patel’s success in the recent parliamentary elections.
+
+Patel identifies himself as an opposition member of the Eighth Parliament and says that he will need Raju’s good wishes to function effectively. The letter is brief, cordial, and focused on electoral success, parliamentary opposition, and the responsibilities of legislative work.
+
 ## Key points
 
 - H. M. Patel writes to S. V. Raju on 5 January 1985.

@@ -49,6 +49,12 @@ summary: |-
   Masani also refers to a letter from Narendrasingh Jhalla whose facts are unclear. He asks Patel to help Raju, on Raju's return from Kerala on 6 June, resolve the Gujarat accounts insofar as they concern Patel. The document is an administrative piece of correspondence focused on party coordination, parliamentary business, and accounting matters.
 ---
 
+## Summary
+
+In this letter dated 1 June 1962, M. R. Masani asks Dahyabhai V. Patel to proceed with party work for the Rajya Sabha session beginning on 14 June. Masani clarifies that the Parliamentary Board's nomination of Patel as party leader was intended to cover the whole session, including the second part after the intermission, and apologises for the confusion.
+
+Masani also refers to a letter from Narendrasingh Jhalla whose facts are unclear. He asks Patel to help Raju, on Raju's return from Kerala on 6 June, resolve the Gujarat accounts insofar as they concern Patel. The document is an administrative piece of correspondence focused on party coordination, parliamentary business, and accounting matters.
+
 ## Key points
 
 - Masani writes to Dahyabhai V. Patel on 1 June 1962.

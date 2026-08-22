@@ -45,6 +45,10 @@ summary: |-
   This one-page English telegram, dated 20 October 1959, is identified as an ordinary telegram from the Swatantra Party in Mangalore. Its clipped message states that the sender regrets being unable to come because no air passages are available. The sheet is marked as a confirmatory copy sent by ordinary post and is signed or identified only as “-- MASANI --”; the sender’s full name is not printed.
 ---
 
+## Summary
+
+This one-page English telegram, dated 20 October 1959, is identified as an ordinary telegram from the Swatantra Party in Mangalore. Its clipped message states that the sender regrets being unable to come because no air passages are available. The sheet is marked as a confirmatory copy sent by ordinary post and is signed or identified only as “-- MASANI --”; the sender’s full name is not printed.
+
 ## Key points
 
 - The document is an ordinary telegram and confirmatory copy by ordinary post.

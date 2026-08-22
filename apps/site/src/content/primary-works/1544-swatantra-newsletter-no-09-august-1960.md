@@ -59,3 +59,7 @@ ai:
 summary: |-
   The August 1960 issue of Swatantra Newsletter (No. 9), issued by the Central Office of the Swatantra Party, reports on the Party’s Central Organising Committee and General Council meetings in Bombay from 29–31 July. It describes resolutions concerning the Central Government employees’ strike, inflation, the Third Five-Year Plan, the next general elections, China and Tibet, Assam, and threats to national unity and democracy. The issue also announces an Anti-Inflation Day and Party Flag Day, reports on C. Rajagopalachari’s public addresses, and reproduces the General Council’s resolutions as Annexure A.
 ---
+
+## Summary
+
+The August 1960 issue of Swatantra Newsletter (No. 9), issued by the Central Office of the Swatantra Party, reports on the Party’s Central Organising Committee and General Council meetings in Bombay from 29–31 July. It describes resolutions concerning the Central Government employees’ strike, inflation, the Third Five-Year Plan, the next general elections, China and Tibet, Assam, and threats to national unity and democracy. The issue also announces an Anti-Inflation Day and Party Flag Day, reports on C. Rajagopalachari’s public addresses, and reproduces the General Council’s resolutions as Annexure A.

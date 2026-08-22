@@ -45,6 +45,12 @@ summary: |-
   The page identifies the sender and recipient in its heading and states the cancellation in block capitals. No further correspondence, explanation, or contextual detail is visible.
 ---
 
+## Summary
+
+This single-page English telex, dated January 30, 1970, records Mr. Masani's agreement to Mr. Raju's cancellation of a planned visit to Ahmedabad. The message is a brief administrative communication rather than an argumentative or programmatic text.
+
+The page identifies the sender and recipient in its heading and states the cancellation in block capitals. No further correspondence, explanation, or contextual detail is visible.
+
 ## Key points
 
 - The document is a one-page telex from Mr. Masani to Mr. Raju.

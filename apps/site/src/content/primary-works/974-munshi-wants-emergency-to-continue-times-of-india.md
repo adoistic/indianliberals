@@ -50,6 +50,12 @@ summary: |-
   Munshi characterised the conflict as one between democracy and totalitarianism, and argued that India had achieved independence through non-violent means while strengthening its defence expenditure to meet the Chinese danger. The report identifies Dr. Jal F. Bulsara as Rotary president and R. G. Saraiya as the proposer of a vote of thanks. The page also carries unrelated reports on an alleged theft from film star Meena Kumari's flat, demand for admission to a technical institute, alleged forged-cheque offences, cyclone relief, and an Air-India proving flight.
 ---
 
+## Summary
+
+This newspaper report describes K. M. Munshi's appeal at the Rotary Club of Bombay for the continuation of the Emergency. Munshi argued that the public should not criticise the government for allegedly misusing emergency powers, presenting the emergency as a necessary response to an unsettled northern border, Chinese massing of troops, and the need for greater taxation, sacrifice, and production. He urged citizens to be prepared for a prolonged crisis and claimed that the country must take steps to meet possible eventualities.
+
+Munshi characterised the conflict as one between democracy and totalitarianism, and argued that India had achieved independence through non-violent means while strengthening its defence expenditure to meet the Chinese danger. The report identifies Dr. Jal F. Bulsara as Rotary president and R. G. Saraiya as the proposer of a vote of thanks. The page also carries unrelated reports on an alleged theft from film star Meena Kumari's flat, demand for admission to a technical institute, alleged forged-cheque offences, cyclone relief, and an Air-India proving flight.
+
 ## Key points
 
 - K. M. Munshi called for the Emergency to continue.

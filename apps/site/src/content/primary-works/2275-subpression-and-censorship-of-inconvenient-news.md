@@ -54,6 +54,12 @@ summary: |-
   The pages argue that Doordarshan substituted politically harmless or ceremonial items for news of greater public importance. On 15 July, for example, the broadcast covered routine administrative and cultural events while omitting a major Chinese intrusion into Arunachal Pradesh; on 17 July it foregrounded official statements and diplomatic gestures while ignoring newspaper reports concerning terrorism, Pakistan, and China. The concluding discussion links these omissions to a broader loss of credibility, citing the non-coverage or delayed coverage of the Gurkhaland issue, Ahmedabad clashes, the border conflict, the Arnal firing, Sobharaj's escape, and the Chernobyl disaster. The text presents this pattern as an ingrained practice of public-relations broadcasting rather than independent news reporting.
 ---
 
+## Summary
+
+The work examines the suppression and censorship of inconvenient news in Doordarshan broadcasts, arguing that a government-controlled media outlet reverses the democratic function of the press as a watchdog. It compares television news with newspaper coverage across selected dates in May and July 1986, identifying repeated omissions of politically damaging stories, including the Karnataka–Maharashtra border conflict, the Arnal firing in Bihar, reports of a pre-planned police action, and the Talcher fire.
+
+The pages argue that Doordarshan substituted politically harmless or ceremonial items for news of greater public importance. On 15 July, for example, the broadcast covered routine administrative and cultural events while omitting a major Chinese intrusion into Arunachal Pradesh; on 17 July it foregrounded official statements and diplomatic gestures while ignoring newspaper reports concerning terrorism, Pakistan, and China. The concluding discussion links these omissions to a broader loss of credibility, citing the non-coverage or delayed coverage of the Gurkhaland issue, Ahmedabad clashes, the border conflict, the Arnal firing, Sobharaj's escape, and the Chernobyl disaster. The text presents this pattern as an ingrained practice of public-relations broadcasting rather than independent news reporting.
+
 ## Key points
 
 - The text presents government control of the media as a perversion of the press's watchdog role.

@@ -53,6 +53,12 @@ summary: |-
   The letter argues that the Constitution (Seventeenth Amendment) Act has weakened the protection of fundamental rights by placing legislation beyond ordinary constitutional scrutiny. It suggests that a petition should be filed asking the Supreme Court to restrain the President from giving assent to the proposed measure, and invokes the Preamble’s guarantees of social, economic, and political justice. The writer closes by urging the recipient to pursue the petition as a means of defending constitutional equality and fundamental rights.
 ---
 
+## Summary
+
+This two-page handwritten letter, dated 9 June 1964 and written on the Nagpur letterhead of advocate R. V. S. Mani, discusses the constitutional implications of land-ceiling legislation. The writer refers to the Supreme Court’s treatment of the Madras Land Reforms (Fixation of Ceiling on Land) Act, arguing that its definition of “family” and its land-ceiling scheme create inequality and may conflict with Article 14 of the Constitution.
+
+The letter argues that the Constitution (Seventeenth Amendment) Act has weakened the protection of fundamental rights by placing legislation beyond ordinary constitutional scrutiny. It suggests that a petition should be filed asking the Supreme Court to restrain the President from giving assent to the proposed measure, and invokes the Preamble’s guarantees of social, economic, and political justice. The writer closes by urging the recipient to pursue the petition as a means of defending constitutional equality and fundamental rights.
+
 ## Key points
 
 - The letter examines the constitutional validity of land-ceiling legislation, particularly the Madras Land Reforms (Fixation of Ceiling on Land) Act.

@@ -53,3 +53,9 @@ summary: |-
   
   The first article assesses election surveys and argues that India's electoral machinery has not adequately reflected popular preferences. The second, by B. Shiva Rao, recalls Rajaji's political career, his relationship with Gandhi and other national leaders, his interventions during the freedom struggle and early years of independence, and his later role as a critic of Congress dominance. The rendered issue is complete; no further pages are missing from the supplied PDF.
 ---
+
+## Summary
+
+This January 27, 1973 Republic Day supplement of March of the Nation brings together an argument for improving the fairness of Indian elections and a long illustrated remembrance of C. Rajagopalachari (Rajaji). The issue's editorial center is liberal-democratic: electoral legitimacy depends on impartial procedures, informed public judgment, and political competition, while public service requires independence from concentrated party power.
+
+The first article assesses election surveys and argues that India's electoral machinery has not adequately reflected popular preferences. The second, by B. Shiva Rao, recalls Rajaji's political career, his relationship with Gandhi and other national leaders, his interventions during the freedom struggle and early years of independence, and his later role as a critic of Congress dominance. The rendered issue is complete; no further pages are missing from the supplied PDF.

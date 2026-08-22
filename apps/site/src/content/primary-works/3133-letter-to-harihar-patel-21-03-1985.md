@@ -47,6 +47,10 @@ summary: |-
   This three-page English correspondence item from March 21, 1985, consists of a typed letter from S. V. Raju to Harihar Patel and a handwritten enclosure addressed to Raju. Raju thanks Patel for sending papers, says he is acting on Patel’s suggestion to write to Ghasiram Majhi, and agrees to pursue a meeting between former Swatantra Party members and Minoo Masani. The letter reflects efforts to maintain political and organisational connections among liberal and former Swatantra Party figures.
 ---
 
+## Summary
+
+This three-page English correspondence item from March 21, 1985, consists of a typed letter from S. V. Raju to Harihar Patel and a handwritten enclosure addressed to Raju. Raju thanks Patel for sending papers, says he is acting on Patel’s suggestion to write to Ghasiram Majhi, and agrees to pursue a meeting between former Swatantra Party members and Minoo Masani. The letter reflects efforts to maintain political and organisational connections among liberal and former Swatantra Party figures.
+
 ## Key points
 
 - S. V. Raju’s typed letter is dated March 21, 1985, and addressed to Harihar Patel, whom it calls “Haribabu.”

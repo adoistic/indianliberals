@@ -50,6 +50,12 @@ summary: |-
   The letter also records the party leadership’s expectation that Masani would continue working for the party in Parliament and outside it, despite resigning from its formal bodies. The document is a concise expression of institutional regret alongside an appeal for continued political engagement.
 ---
 
+## Summary
+
+Dated 18 June 1968, this letter from N. Dandekar to M. R. Masani acknowledges Masani’s resignation from the Swatantra Party’s National Executive and Central Parliamentary Board. Dandekar reports that the National Executive had been informed of the resignation at its meeting in Madras on 31 May and had accepted the decision with regret.
+
+The letter also records the party leadership’s expectation that Masani would continue working for the party in Parliament and outside it, despite resigning from its formal bodies. The document is a concise expression of institutional regret alongside an appeal for continued political engagement.
+
 ## Key points
 
 - The letter is dated 18 June 1968 and is signed by N. Dandekar as General Secretary.

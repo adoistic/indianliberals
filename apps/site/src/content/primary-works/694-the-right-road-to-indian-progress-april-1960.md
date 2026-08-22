@@ -56,3 +56,7 @@ ai:
 summary: |-
   The rendered pages from the April 1960 issue of Freedom include B. R. Shenoy’s article “The Right Road to Indian Progress,” alongside unrelated illustrated editorial material. In the pages seen, Shenoy argues that India’s commitment to centralized economic planning is producing excessive state intervention, inflation, administrative expansion, and wasteful investment. He advocates a decisive shift toward a flexible, largely self-regulating free-market economy, with government confined to essential public functions and the private sector given greater scope in agriculture, industry, and distribution.
 ---
+
+## Summary
+
+The rendered pages from the April 1960 issue of Freedom include B. R. Shenoy’s article “The Right Road to Indian Progress,” alongside unrelated illustrated editorial material. In the pages seen, Shenoy argues that India’s commitment to centralized economic planning is producing excessive state intervention, inflation, administrative expansion, and wasteful investment. He advocates a decisive shift toward a flexible, largely self-regulating free-market economy, with government confined to essential public functions and the private sector given greater scope in agriculture, industry, and distribution.

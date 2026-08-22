@@ -57,6 +57,12 @@ summary: |-
   Other rendered clippings document censorship of newspapers and political reporting, legal and constitutional disputes, demolition and slum-clearance programmes, political protests, and public criticism of government policy. The pages also include editorials and reports concerning human rights, judicial proceedings, foreign policy, economic policy, and the 1977 political transition. Because the material is a compilation of clippings rather than a continuous authored text, the pages do not establish a single sustained argument beyond their recurring concern with state power, censorship, detention, and accountability.
 ---
 
+## Summary
+
+The rendered pages consist of a scrapbook-like collection of Indian newspaper and periodical clippings concerning censorship, the Emergency, civil liberties, political detention, press freedom, and related public controversies. The principal clipping, headed “British rulers outdone,” compares detentions during India’s Emergency with those during the British Raj’s Quit India movement. It reports a claim that approximately 160,000 people were detained during the Emergency without trial, compared with about 50,000 detained by the British during Quit India, and questions the detention of Jayaprakash Narayan.
+
+Other rendered clippings document censorship of newspapers and political reporting, legal and constitutional disputes, demolition and slum-clearance programmes, political protests, and public criticism of government policy. The pages also include editorials and reports concerning human rights, judicial proceedings, foreign policy, economic policy, and the 1977 political transition. Because the material is a compilation of clippings rather than a continuous authored text, the pages do not establish a single sustained argument beyond their recurring concern with state power, censorship, detention, and accountability.
+
 ## Key points
 
 - A Times of India clipping dated July 14, 1977 compares Emergency detentions with detentions during the Quit India movement.

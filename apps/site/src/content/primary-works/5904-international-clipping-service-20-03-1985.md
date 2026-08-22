@@ -52,6 +52,12 @@ summary: |-
   No article body, headline, byline, source-publication title, or substantive discussion of Indian finance is visible on the page. The sheet therefore documents the circulation or filing of a clipping, but does not permit a summary of the clipped text itself. The supplied filename date is not supported by the visible page, which is dated 20 March 1965.
 ---
 
+## Summary
+
+The rendered page is a single-page English clipping-service sheet rather than the clipped article itself. Its header identifies the INTERNATIONAL CLIPPING SERVICE in Bombay and associates the sheet with the Swatantra Party. The visible routing or subject information includes “Thought, Dem.” and “Indian Finance, Calcutta,” alongside two date stamps reading 20 MAR 1965.
+
+No article body, headline, byline, source-publication title, or substantive discussion of Indian finance is visible on the page. The sheet therefore documents the circulation or filing of a clipping, but does not permit a summary of the clipped text itself. The supplied filename date is not supported by the visible page, which is dated 20 March 1965.
+
 ## Key points
 
 - The document is a one-page clipping-service sheet.

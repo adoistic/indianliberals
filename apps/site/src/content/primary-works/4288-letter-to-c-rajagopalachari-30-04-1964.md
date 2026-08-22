@@ -52,6 +52,12 @@ summary: |-
   The enclosed Security Council extract presents a formulation of India's position under which Kashmir's accession was accepted during an emergency but was not necessarily irreversible: after normal conditions returned, the people of Kashmir would be free, through a plebiscite, to ratify accession to India, accede to Pakistan, or remain independent. The accompanying letter from Shaikh Mohd. Abdullah thanks Masani and other friends for helping create the conditions for his release, while expressing concern that vested interests might damage the political atmosphere and curtail his freedom. The pages also refer to Jawaharlal Nehru, Rajaji, and Mr. Ranga in connection with Abdullah's planned meetings and requests for advice.
 ---
 
+## Summary
+
+In this letter dated 30 April 1964, M. R. Masani writes to C. Rajagopalachari about the imminent reintroduction of the Seventeenth Amendment, which he says will be rushed through Parliament by suspending standing orders or procedural rules. He describes this as an abuse of the Congress Party's majority and says he is returning to Delhi to participate in the discussion. Masani also forwards a letter from Shaikh Abdullah and an extract from the 1948 Security Council records concerning India's position on Kashmir's accession.
+
+The enclosed Security Council extract presents a formulation of India's position under which Kashmir's accession was accepted during an emergency but was not necessarily irreversible: after normal conditions returned, the people of Kashmir would be free, through a plebiscite, to ratify accession to India, accede to Pakistan, or remain independent. The accompanying letter from Shaikh Mohd. Abdullah thanks Masani and other friends for helping create the conditions for his release, while expressing concern that vested interests might damage the political atmosphere and curtail his freedom. The pages also refer to Jawaharlal Nehru, Rajaji, and Mr. Ranga in connection with Abdullah's planned meetings and requests for advice.
+
 ## Key points
 
 - Masani objects to the Seventeenth Amendment being reintroduced through the suspension of parliamentary standing orders or procedural rules.

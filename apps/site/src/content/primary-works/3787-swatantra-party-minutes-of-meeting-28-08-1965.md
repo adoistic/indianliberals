@@ -54,6 +54,12 @@ summary: |-
   The committee endorsed the Orissa State Council's opposition to postponing the state's elections and promised the Orissa unit political and material support. In response to the economic and food crisis, it planned an “Anti-Food Controls Week” focused on opposition to food controls, zonal restrictions, and maximum prices, while also publicising the party's pledge to abolish land revenue. The minutes finally record a decision to avoid participation in a proposed “Convention for the Defence of Kashmir,” which the committee associated with Communists and fellow travellers.
 ---
 
+## Summary
+
+These two pages record the draft minutes of a Swatantra Party Sub-Committee meeting held in New Delhi on 28 August 1965 under the chairmanship of Prof. N. G. Ranga. After confirming the previous minutes and noting the death of Maharaja S. P. Singh Deo, the committee considered prospective parliamentary candidates in Andhra, Gujarat, Mysore, and Uttar Pradesh. It also approved Sribatsa Mahapatra as the party's candidate for an Orissa Assembly by-election, while proposing a dummy candidate as a precaution, and discussed how to fill the Rajya Sabha vacancy caused by Singh Deo's death.
+
+The committee endorsed the Orissa State Council's opposition to postponing the state's elections and promised the Orissa unit political and material support. In response to the economic and food crisis, it planned an “Anti-Food Controls Week” focused on opposition to food controls, zonal restrictions, and maximum prices, while also publicising the party's pledge to abolish land revenue. The minutes finally record a decision to avoid participation in a proposed “Convention for the Defence of Kashmir,” which the committee associated with Communists and fellow travellers.
+
 ## Key points
 
 - The document records a 28 August 1965 meeting of the Swatantra Party's Central Parliamentary Board Sub-Committee.

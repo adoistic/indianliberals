@@ -49,6 +49,12 @@ summary: |-
   Ranga also discusses the Super Profit Tax, saying he will discharge his duty despite believing Masani is better suited to the subject. He reports having spoken on the Budget and notes that V. K. Krishna Menon and Morarji Desai criticised his points while recognising that the Swatantra Party was seeking to displace the government and was alone opposed to the Budget as a whole. The letter further refers to P. K. Deo’s speech on the development of Orissa and other underdeveloped states, Dahyabhai Patel’s speech, fundraising for “Katti,” and forthcoming participation by Gayathri Devi and Reddy in an External Affairs debate.
 ---
 
+## Summary
+
+In this letter dated 16 March 1963, Prof. N. G. Ranga writes to C. Rajagopalachari (“Rajaji”) about the Swatantra Party’s political prospects and parliamentary work. He regrets that Rajagopalachari and Minoo Masani have decided against proceeding under the prevailing circumstances, explaining that the party might have succeeded if it could mobilise sufficient men and money. The Jan Sangh’s unwillingness to cooperate has weakened his confidence, though he acknowledges that elections necessarily involve risk and that he must continue carrying the parliamentary burden without Masani’s assistance.
+
+Ranga also discusses the Super Profit Tax, saying he will discharge his duty despite believing Masani is better suited to the subject. He reports having spoken on the Budget and notes that V. K. Krishna Menon and Morarji Desai criticised his points while recognising that the Swatantra Party was seeking to displace the government and was alone opposed to the Budget as a whole. The letter further refers to P. K. Deo’s speech on the development of Orissa and other underdeveloped states, Dahyabhai Patel’s speech, fundraising for “Katti,” and forthcoming participation by Gayathri Devi and Reddy in an External Affairs debate.
+
 ## Key points
 
 - Ranga regrets Rajagopalachari and Minoo Masani’s decision not to proceed under the prevailing political circumstances.

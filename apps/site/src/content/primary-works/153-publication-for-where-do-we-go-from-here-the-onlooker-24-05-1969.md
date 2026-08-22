@@ -60,6 +60,12 @@ summary: |-
   Masani extends his diagnosis to parliamentary and civic life. He argues that politicians seek office and personal advantage, that party divisions have displaced national purpose, and that India’s non-alignment has produced diplomatic isolation while China and Pakistan remain hostile. He locates the deeper problem in a national failure of character, especially a lack of intellectual and moral courage and a lack of discipline in homes, schools, Parliament, and public administration. The proposed remedy is not further legislation but home training, sound education, academic freedom, and a democratic unity government bringing together the democratic opposition; the essay closes by warning that political and economic collapse may arrive before India recognizes the danger.
 ---
 
+## Summary
+
+In the four pages rendered, M. R. Masani asks why India has reached a point at which economic decline, political cynicism, weak leadership, indiscipline, and external insecurity appear mutually reinforcing. He attributes the economic crisis to the failure of economic planning, bureaucratic procedures, ideological bias, and a pseudo-scientific approach that imitates the forms of science without understanding it. The essay also criticizes inflationary policy, expanding defence demands, and the opportunity costs of concentrating on heavy industry while food and agriculture deteriorate.
+
+Masani extends his diagnosis to parliamentary and civic life. He argues that politicians seek office and personal advantage, that party divisions have displaced national purpose, and that India’s non-alignment has produced diplomatic isolation while China and Pakistan remain hostile. He locates the deeper problem in a national failure of character, especially a lack of intellectual and moral courage and a lack of discipline in homes, schools, Parliament, and public administration. The proposed remedy is not further legislation but home training, sound education, academic freedom, and a democratic unity government bringing together the democratic opposition; the essay closes by warning that political and economic collapse may arrive before India recognizes the danger.
+
 ## Key points
 
 - Masani presents economic planning, inflation, bureaucracy, and ideological policymaking as causes of India’s economic deterioration.

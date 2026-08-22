@@ -54,3 +54,9 @@ summary: |-
   
   The issue also presents material on civil liberties, press freedom, the prosecution of Blitz, imperialism, Africa, Congo, Nepal, China, and India’s international position. Several pages use historical reproductions and caricature to connect contemporary political disputes with the legacies of colonialism, socialism, communism, and post-independence state-building. The advertisements and promotional pages, including those for printing machinery and material-testing equipment, document the commercial and technological setting of the publication as well as its political content.
 ---
+
+## Summary
+
+BLITZ's Thirtieth Anniversary Special, No. Three (February 6, 1971) is an English-language illustrated periodical issue organized around the provocative cover question “Guilty of Nehrumania?”. Its visible pages combine political commentary, cartoons, advertisements, reprinted press material, and an extended mock-courtroom dialogue between “MASANI” and “KARANJIA.” The dialogue revisits Jawaharlal Nehru’s record, including industrialisation, foreign policy, relations with China, Kashmir, land reform, and the political consequences of Nehruvian planning. Masani’s cross-examination is sharply critical, while Karanjia’s replies defend Nehru’s intentions and historical context, producing a deliberately adversarial but often playful debate.
+
+The issue also presents material on civil liberties, press freedom, the prosecution of Blitz, imperialism, Africa, Congo, Nepal, China, and India’s international position. Several pages use historical reproductions and caricature to connect contemporary political disputes with the legacies of colonialism, socialism, communism, and post-independence state-building. The advertisements and promotional pages, including those for printing machinery and material-testing equipment, document the commercial and technological setting of the publication as well as its political content.

@@ -49,6 +49,10 @@ summary: |-
   This three-page legal correspondence dated 6 May 1975 consists of a forwarding letter from Eastley Lam & Co. to the Swatantra Party of Maharashtra and an enclosed demand letter addressed to Shri Piloo Mody. The forwarding letter states that the enclosed correspondence is being sent for the party’s information and records, with a copy to Shri G. K. Munshi, Advocate.
 ---
 
+## Summary
+
+This three-page legal correspondence dated 6 May 1975 consists of a forwarding letter from Eastley Lam & Co. to the Swatantra Party of Maharashtra and an enclosed demand letter addressed to Shri Piloo Mody. The forwarding letter states that the enclosed correspondence is being sent for the party’s information and records, with a copy to Shri G. K. Munshi, Advocate.
+
 ## Key points
 
 - Eastley Lam & Co. forwards a legal letter to the Swatantra Party of Maharashtra.

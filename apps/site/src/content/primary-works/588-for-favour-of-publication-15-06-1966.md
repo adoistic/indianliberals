@@ -56,6 +56,12 @@ summary: |-
   Masani calls for immediate relief for affected groups and industrial projects, including supplies of raw materials, easy public loans, and the abolition of import and countervailing excise duties on inputs. His longer-term programme includes reducing non-developmental expenditure and deficit finance, limiting government borrowing, postponing and recasting the Fourth Plan, reducing taxation, dismantling import-licensing and exchange controls, abolishing Gold Control, and restoring competitive enterprise. He maintains that only such measures could justify devaluation and restore India’s capacity to renegotiate its foreign debt; he doubts that the Congress Government possesses the integrity, courage, or capability to implement them.
 ---
 
+## Summary
+
+This two-page press-style document reports M. R. Masani’s Progressive Group address in Bombay on 15 June 1966, focused on the Indian government’s decision to devalue the rupee. Masani argues that devaluation was not an unavoidable fiscal correction but the consequence of persistent policy failures: deficit finance, excessive taxation, industrial bias, neglect of agriculture and consumer goods, dependence on foreign loans, and extensive controls. He suggests that the measure was effectively the price of obtaining foreign loans for the proposed Fourth Plan and warns that the Plan, in its existing form, would intensify inflation.
+
+Masani calls for immediate relief for affected groups and industrial projects, including supplies of raw materials, easy public loans, and the abolition of import and countervailing excise duties on inputs. His longer-term programme includes reducing non-developmental expenditure and deficit finance, limiting government borrowing, postponing and recasting the Fourth Plan, reducing taxation, dismantling import-licensing and exchange controls, abolishing Gold Control, and restoring competitive enterprise. He maintains that only such measures could justify devaluation and restore India’s capacity to renegotiate its foreign debt; he doubts that the Congress Government possesses the integrity, courage, or capability to implement them.
+
 ## Key points
 
 - Masani presents devaluation as the result of prolonged inflationary and interventionist policies rather than a wholly new fiscal necessity.

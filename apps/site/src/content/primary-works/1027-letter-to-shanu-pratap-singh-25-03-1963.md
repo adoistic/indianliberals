@@ -50,6 +50,12 @@ summary: |-
   Bhanu Pratap Singh urges Ranga to reorganise party units on more democratic lines, arguing that so long as bye-elections continue to be held, there is no valid reason under the party's own constitution to further postpone inter-party (internal) elections. He reports that the delay in appointing a new State Executive Committee is causing party work in U.P. to suffer, and requests early decisions on the matter. The extract functions as a documentary trace of grassroots pressure from a state legislator for constitutionally regular, transparent party procedure — a small but characteristic instance of the democratic-proceduralist temper of the correspondence circulating within India's classical-liberal political networks of the early 1960s.
 ---
 
+## Summary
+
+This single-page document is an extract from a letter dated 25 March 1963, sent by Shri Bhanu Pratap Singh, MLA (Uttar Pradesh), from Sohna in Basti District to Professor N. G. Ranga. It is a short intra-party communication concerning the internal governance of what appears to be the Swatantra Party's Uttar Pradesh unit.
+
+Bhanu Pratap Singh urges Ranga to reorganise party units on more democratic lines, arguing that so long as bye-elections continue to be held, there is no valid reason under the party's own constitution to further postpone inter-party (internal) elections. He reports that the delay in appointing a new State Executive Committee is causing party work in U.P. to suffer, and requests early decisions on the matter. The extract functions as a documentary trace of grassroots pressure from a state legislator for constitutionally regular, transparent party procedure — a small but characteristic instance of the democratic-proceduralist temper of the correspondence circulating within India's classical-liberal political networks of the early 1960s.
+
 ## Key points
 
 - Extract from a letter by Bhanu Pratap Singh, MLA (U.P.), written from Sohna in Basti District on 25 March 1963.

@@ -46,6 +46,10 @@ summary: |-
   This single-page English office communication, dated 18 August 1962, concerns how to handle the Bihar situation. It reports that Masani has proposed reviewing the matter through a subcommittee consisting of the recipient, K. M. Munshi, and Minoo Masani. Until Masani returns from Europe, the sender advises withholding replies to communications from Bihar.
 ---
 
+## Summary
+
+This single-page English office communication, dated 18 August 1962, concerns how to handle the Bihar situation. It reports that Masani has proposed reviewing the matter through a subcommittee consisting of the recipient, K. M. Munshi, and Minoo Masani. Until Masani returns from Europe, the sender advises withholding replies to communications from Bihar.
+
 ## Key points
 
 - The document addresses the political situation in Bihar.

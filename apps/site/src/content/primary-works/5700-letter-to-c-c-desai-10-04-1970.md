@@ -48,6 +48,10 @@ summary: |-
   This one-page express letter from C. Rajagopalachari, dated 10 April 1970, responds to a letter from C. C. Desai dated 7 April. Rajagopalachari advises Desai to resign from the Party, presenting resignation as the best course for both the Party and Desai himself.
 ---
 
+## Summary
+
+This one-page express letter from C. Rajagopalachari, dated 10 April 1970, responds to a letter from C. C. Desai dated 7 April. Rajagopalachari advises Desai to resign from the Party, presenting resignation as the best course for both the Party and Desai himself.
+
 ## Key points
 
 - The document is a personal political letter dated 10 April 1970.

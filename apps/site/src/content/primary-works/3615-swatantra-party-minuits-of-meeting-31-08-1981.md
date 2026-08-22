@@ -50,6 +50,12 @@ summary: |-
   The committee also acted on the resignation of J. Venkiteswaran as Joint Secretary, electing L. R. Sampat to replace him and authorising the necessary changes to the party's current-account signatories at the Union Bank of India. Finally, it unanimously resolved to transfer Rs. 8,000 from the party's current account into two fixed deposits of Rs. 5,000 and Rs. 3,000 for 61 months, naming Parmanand Kejriwal and K. H. Subramaniam as trustees. The meeting ended with a vote of thanks to the chair.
 ---
 
+## Summary
+
+This one-page draft minute records a meeting of the Executive Committee of the Swatantra Party, Maharashtra, held on 31 August 1981. Those present were Parmanand Kejriwal, K. H. Subramaniam, S. L. Popat and J. H. Sampat, with Kejriwal in the chair. The committee approved increases in the honoraria paid to Mrs. D'Souza and Kalidas, effective 1 August 1981.
+
+The committee also acted on the resignation of J. Venkiteswaran as Joint Secretary, electing L. R. Sampat to replace him and authorising the necessary changes to the party's current-account signatories at the Union Bank of India. Finally, it unanimously resolved to transfer Rs. 8,000 from the party's current account into two fixed deposits of Rs. 5,000 and Rs. 3,000 for 61 months, naming Parmanand Kejriwal and K. H. Subramaniam as trustees. The meeting ended with a vote of thanks to the chair.
+
 ## Key points
 
 - The Executive Committee of the Swatantra Party, Maharashtra, met on Monday, 31 August 1981, at 5 p.m.

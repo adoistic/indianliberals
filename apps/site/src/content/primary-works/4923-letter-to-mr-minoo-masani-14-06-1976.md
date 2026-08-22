@@ -55,6 +55,12 @@ summary: |-
   The letter then sets out six propositions for a proposed new party. Madhok calls for ideological clarity rather than a coalition held together by slogans, an appeal to peasants and the self-employed, and an unequivocal commitment to democratic norms. He links democracy to freedom of thought, freedom of living, limited state interference, and rejection of total planning. Drawing on Gandhi and an ancient account of the Licchavi republic, he presents democracy as evolutionary and rooted in tradition. The letter rejects total revolution, violence, clandestine activity, and authoritarian discipline, concluding that the Sangarsh Samiti should be dissolved and that the struggle for civil liberties should proceed through peaceful, nonviolent, constitutional political education.
 ---
 
+## Summary
+
+This four-page English letter, dated 14 June 1976 and addressed to Minoo Masani, opens with Balraj Madhok's assessment of India's political situation. Madhok argues that the country is moving toward a Soviet-type one-party and authoritarian system, and that the longer this continues, the harder it will be to restore freedom and democracy. He criticises Jayaprakash Narayan's failure to play a constructive role after his unconditional release, while warning that power seeks to perpetuate itself through force and manipulation.
+
+The letter then sets out six propositions for a proposed new party. Madhok calls for ideological clarity rather than a coalition held together by slogans, an appeal to peasants and the self-employed, and an unequivocal commitment to democratic norms. He links democracy to freedom of thought, freedom of living, limited state interference, and rejection of total planning. Drawing on Gandhi and an ancient account of the Licchavi republic, he presents democracy as evolutionary and rooted in tradition. The letter rejects total revolution, violence, clandestine activity, and authoritarian discipline, concluding that the Sangarsh Samiti should be dissolved and that the struggle for civil liberties should proceed through peaceful, nonviolent, constitutional political education.
+
 ## Key points
 
 - Madhok describes India as moving toward a Soviet-type one-party and authoritarian political order.

@@ -48,6 +48,10 @@ summary: |-
   This one-page English telegram, sent from Gondal and addressed to Minoo Masani, comments on his parliamentary defeat. The message presents the loss as a national disappointment, calling him the “best parliamentarian” and saying that the country has lost through his defeat. The telegram’s visible text includes “GONDAL 13-3-17,” but the year is not unambiguously established from the page.
 ---
 
+## Summary
+
+This one-page English telegram, sent from Gondal and addressed to Minoo Masani, comments on his parliamentary defeat. The message presents the loss as a national disappointment, calling him the “best parliamentarian” and saying that the country has lost through his defeat. The telegram’s visible text includes “GONDAL 13-3-17,” but the year is not unambiguously established from the page.
+
 ## Key points
 
 - The document is a one-page telegram on an Indian Posts and Telegraphs Department form.

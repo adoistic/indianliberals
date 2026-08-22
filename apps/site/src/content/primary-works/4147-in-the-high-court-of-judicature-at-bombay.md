@@ -55,6 +55,12 @@ summary: |-
   The filing records that the court admitted the petition and issued a rule on 12 January 1995, while directing an expedited hearing. It explains that interim relief was sought because Maharashtra Legislative Assembly elections were imminent, but that the court instead directed an early hearing of the main matter. The petitioners also emphasize their intention to contest the expected December 1995 Lok Sabha elections and argue that registration is essential for participation. The document concludes with Sampat’s solemn affirmation in Bombay in September 1995; it does not contain the court’s final decision.
 ---
 
+## Summary
+
+This three-page legal filing is a Notice of Motion in Writ Petition No. 14 of 1995 before the High Court of Judicature at Bombay. Swatantra Party (Maharashtra), represented by its General Secretary L. R. Sampat, challenges the constitutionality of subsection 5 of Section 29(A) of the Representation of the People Act, 1951. The challenged provision is described as requiring a political party seeking registration to affirm true faith and allegiance to the principle of socialism. The petition asks the court to direct the Election Commission of India to register the party under the Act.
+
+The filing records that the court admitted the petition and issued a rule on 12 January 1995, while directing an expedited hearing. It explains that interim relief was sought because Maharashtra Legislative Assembly elections were imminent, but that the court instead directed an early hearing of the main matter. The petitioners also emphasize their intention to contest the expected December 1995 Lok Sabha elections and argue that registration is essential for participation. The document concludes with Sampat’s solemn affirmation in Bombay in September 1995; it does not contain the court’s final decision.
+
 ## Key points
 
 - The filing challenges subsection 5 of Section 29(A) of the Representation of the People Act, 1951.

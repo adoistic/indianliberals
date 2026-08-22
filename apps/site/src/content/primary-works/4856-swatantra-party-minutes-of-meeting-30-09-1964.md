@@ -53,6 +53,12 @@ summary: |-
   A substantial portion of the record concerns the dissolution of the Bihar Unit. The Central Organising Committee endorsed the earlier decision to dissolve the unit, rejected an appeal by former office-bearers, resolved to expel Kamakhya Narayan Singh and Shyam Sunder Prasad, and set procedures for existing legislators, worker-members, and applicants to regularise their membership. The minutes conclude with arrangements for a temporary Central Office branch in Patna and the appointment of an advisory committee to assist with rebuilding the party in Bihar.
 ---
 
+## Summary
+
+These three pages record the Swatantra Party Organisation Sub-Committee meeting held in Bombay on September 30, 1964, at Sir H. P. Mody’s residence. The minutes list the participants and report on party administration in Uttar Pradesh, the appointment of an election officer, preparations for elections in Kerala, and procedural non-compliance by the Madras State Unit. The committee also considered appeals concerning the expulsion of party members in Orissa and recommended accepting the Orissa State Executive’s position.
+
+A substantial portion of the record concerns the dissolution of the Bihar Unit. The Central Organising Committee endorsed the earlier decision to dissolve the unit, rejected an appeal by former office-bearers, resolved to expel Kamakhya Narayan Singh and Shyam Sunder Prasad, and set procedures for existing legislators, worker-members, and applicants to regularise their membership. The minutes conclude with arrangements for a temporary Central Office branch in Patna and the appointment of an advisory committee to assist with rebuilding the party in Bihar.
+
 ## Key points
 
 - The meeting was held in Bombay on September 30, 1964, with Prof. N. G. Ranga in the chair.

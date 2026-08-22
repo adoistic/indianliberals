@@ -48,6 +48,12 @@ summary: |-
   Masani explains that the Central Office will try to arrange accommodation in Madras, but railway fares and two days of boarding expenses remain uncovered. He therefore asks Koder to contribute toward the travel costs, noting that Mr. Sudhen has written from Bombay to approach him on the same matter. The letter closes with Masani's hope that Koder will depart from his usual practice and attend the meeting.
 ---
 
+## Summary
+
+In this one-page letter dated December 8, 1969, M. R. Masani writes to S. S. Koder about preparations for the Swatantra Party's new General Council meeting in Madras on December 27. Masani reports that the Kerala Unit has enrolled enough members to fill its quota of 20 delegates and says that roughly half may be able to travel independently, while the remainder will need financial assistance.
+
+Masani explains that the Central Office will try to arrange accommodation in Madras, but railway fares and two days of boarding expenses remain uncovered. He therefore asks Koder to contribute toward the travel costs, noting that Mr. Sudhen has written from Bombay to approach him on the same matter. The letter closes with Masani's hope that Koder will depart from his usual practice and attend the meeting.
+
 ## Key points
 
 - The Kerala Unit has enrolled a large number of members and filled its quota of 20 delegates for the new General Council.

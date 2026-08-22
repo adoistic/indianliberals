@@ -45,6 +45,10 @@ summary: |-
   This one-page English express telegram, dated 28 April 1964, is addressed to C. Rajagopalachari in Madras and identified as being from “MASANI.” It conveys congratulations on the outcome of a political and constitutional campaign, stating that the “great fight against 17th amendment” led by Rajagopalachari has been rewarded.
 ---
 
+## Summary
+
+This one-page English express telegram, dated 28 April 1964, is addressed to C. Rajagopalachari in Madras and identified as being from “MASANI.” It conveys congratulations on the outcome of a political and constitutional campaign, stating that the “great fight against 17th amendment” led by Rajagopalachari has been rewarded.
+
 ## Key points
 
 - The document is an express telegram rather than a conventional letter.

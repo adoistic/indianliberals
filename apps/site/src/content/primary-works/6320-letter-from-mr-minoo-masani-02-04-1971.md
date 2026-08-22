@@ -54,6 +54,12 @@ summary: |-
   Masani identifies two principal tasks: political education in democratic values, free institutions, and the fundamental laws of economics; and the development of younger leadership capable of defending the Constitution and advancing sound economic policies. He accepts personal responsibility for the party’s shortcomings as its president and tenders his resignation, asking the General Council to accept it. He nevertheless states that he intends to remain a party member and continue advocating its philosophy and principles.
 ---
 
+## Summary
+
+In this letter dated 2 April 1971, Minoo Masani addresses a colleague before the Swatantra Party General Council meeting scheduled for 17–18 April. He describes the party’s performance in the recent General Elections as a disaster and argues that the party must undertake a serious self-examination if it is to help maintain freedom in India. Drawing on Mahatma Gandhi’s call for “searchlight inward,” Masani presents self-criticism as requiring both courage to reassess methods and courage to admit mistakes.
+
+Masani identifies two principal tasks: political education in democratic values, free institutions, and the fundamental laws of economics; and the development of younger leadership capable of defending the Constitution and advancing sound economic policies. He accepts personal responsibility for the party’s shortcomings as its president and tenders his resignation, asking the General Council to accept it. He nevertheless states that he intends to remain a party member and continue advocating its philosophy and principles.
+
 ## Key points
 
 - Masani characterizes the Swatantra Party’s recent electoral results as a serious setback requiring institutional self-examination.

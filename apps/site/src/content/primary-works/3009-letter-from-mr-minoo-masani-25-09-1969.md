@@ -49,6 +49,12 @@ summary: |-
   The document is a brief logistical communication rather than a developed political argument. Its references to a parliamentary group and a visit to Ladakh provide limited evidence for the metadata themes of party politics and foreign policy; no further context about the group, the proposed visit, or the correspondence is included on the page.
 ---
 
+## Summary
+
+This one-page English telegram confirmation copy, dated 25 September 1969, records Masani's response to Professor Ranga. Masani acknowledges receipt of the recipient's eighteenth and nineteenth letters and expresses regret at being unable to join a parliamentary group visiting Ladakh.
+
+The document is a brief logistical communication rather than a developed political argument. Its references to a parliamentary group and a visit to Ladakh provide limited evidence for the metadata themes of party politics and foreign policy; no further context about the group, the proposed visit, or the correspondence is included on the page.
+
 ## Key points
 
 - The document is a typed telegram confirmation copy dated 25-9-69.

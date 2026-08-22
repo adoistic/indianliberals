@@ -51,6 +51,12 @@ summary: |-
   The letter indicates that the requested digest is intended to help Masani respond to Morarji Desai’s attribution of certain views to him. Its focus is therefore documentary and political: clarifying Masani’s position on socialism and comparing Congress economic statements. The page contains no substantive discussion of the enclosed materials themselves.
 ---
 
+## Summary
+
+This single-page letter, dated January 23, 1970, is from S. V. Raju to Minoo Masani. Raju states that, in response to Masani’s January 7 letter written before Masani’s trip to China and Europe, he is enclosing two materials: a digest of Masani’s statements on socialism and a side-by-side comparison of the economic pronouncements made at the Congress sessions in Ahmedabad and Bombay.
+
+The letter indicates that the requested digest is intended to help Masani respond to Morarji Desai’s attribution of certain views to him. Its focus is therefore documentary and political: clarifying Masani’s position on socialism and comparing Congress economic statements. The page contains no substantive discussion of the enclosed materials themselves.
+
 ## Key points
 
 - The letter is dated January 23, 1970 and is addressed to Minoo Masani.

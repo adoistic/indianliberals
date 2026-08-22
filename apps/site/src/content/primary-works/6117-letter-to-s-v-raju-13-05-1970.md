@@ -44,6 +44,10 @@ summary: |-
   This single-page office letter, dated May 13, 1970, is from M. R. Masani to Mr. Raju (S. V. Raju). Masani asks Raju to review clippings attached to a letter from Prasannadas D. Patwari and determine whether they add anything to Raju’s existing clippings file on Gujarat and C. C. Desai.
 ---
 
+## Summary
+
+This single-page office letter, dated May 13, 1970, is from M. R. Masani to Mr. Raju (S. V. Raju). Masani asks Raju to review clippings attached to a letter from Prasannadas D. Patwari and determine whether they add anything to Raju’s existing clippings file on Gujarat and C. C. Desai.
+
 ## Key points
 
 - The letter is dated May 13, 1970.

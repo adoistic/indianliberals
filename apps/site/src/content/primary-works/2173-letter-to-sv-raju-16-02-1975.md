@@ -51,6 +51,12 @@ summary: |-
   The letter anticipates uneven participation across states: larger contingents may come from New Delhi, Uttar Pradesh, Haryana, Punjab, and Rajasthan, while Kerala, Karnataka, and Tamil Nadu may send smaller groups. It therefore urges Raju to make his state contingent “as large as humanly possible.” The second rendered page shows the reverse of the Inland Letter Card, including the recipient's Bombay address and the Swatantra Party headquarters' return address, but no additional substantive message.
 ---
 
+## Summary
+
+This letter, dated 16 February 1975 and issued from the Swatantra Party's National Headquarters in Madras, asks S. V. Raju to mobilise party workers for a demonstration before Parliament on 6 March 1975. V. S. Srikumar, signing as Joint Secretary, frames the action as part of the People's movement under Jayaprakash Narayan's leadership and requests full representation from Raju's state unit.
+
+The letter anticipates uneven participation across states: larger contingents may come from New Delhi, Uttar Pradesh, Haryana, Punjab, and Rajasthan, while Kerala, Karnataka, and Tamil Nadu may send smaller groups. It therefore urges Raju to make his state contingent “as large as humanly possible.” The second rendered page shows the reverse of the Inland Letter Card, including the recipient's Bombay address and the Swatantra Party headquarters' return address, but no additional substantive message.
+
 ## Key points
 
 - The letter is dated 16 February 1975 and was sent from the Swatantra Party National Headquarters in Madras.

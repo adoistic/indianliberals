@@ -50,6 +50,12 @@ summary: |-
   The letter states that the membership fee for all workers was reduced from Rs 3—and, for Scheduled Castes, Scheduled Tribes, and other Backward Classes, from Rs 1.50—to Re. 1 per calendar year. It further specifies that renewals for workers outside the Scheduled Castes and Scheduled Tribes would cost Re. 1, while the renewal subscription for Scheduled Castes and Scheduled Tribes would remain 50 paise. The document is an administrative communication focused on party membership policy and the implementation of a General Council decision.
 ---
 
+## Summary
+
+This one-page English letter from the Swatantra Party's national headquarters, dated November 19, 1971, clarifies an earlier circular on annual membership subscriptions. General Secretary Madhav Mehta explains that the General Council, meeting in Baroda on November 6, ratified a revised fee structure after finding Circular No. 271 ambiguous about renewals.
+
+The letter states that the membership fee for all workers was reduced from Rs 3—and, for Scheduled Castes, Scheduled Tribes, and other Backward Classes, from Rs 1.50—to Re. 1 per calendar year. It further specifies that renewals for workers outside the Scheduled Castes and Scheduled Tribes would cost Re. 1, while the renewal subscription for Scheduled Castes and Scheduled Tribes would remain 50 paise. The document is an administrative communication focused on party membership policy and the implementation of a General Council decision.
+
 ## Key points
 
 - The letter is dated November 19, 1971, and is identified as General Secretary's Letter No. 275.

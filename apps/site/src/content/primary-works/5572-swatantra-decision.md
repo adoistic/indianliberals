@@ -51,6 +51,12 @@ summary: |-
   The clipping also comments on the party executive’s limited credit for the decision, its declaration that India’s international obligations should be honoured in the Kutch dispute, and its announcement that Gujarat members would be free to join a proposed multi-party front and satyagraha against the award. It criticises the proposed participation in local political competition, arguing that the Kutch issue should be addressed through the constitutional conscience clause rather than regional political expediency.
 ---
 
+## Summary
+
+This one-page English clipping, headed “SWATANTRA DECISIONS,” discusses a decision by the Swatantra Party’s national executive to act against six members from Gujarat for defying a directive and filing a rival candidate in the Rajya Sabha election. It presents the action as an effort to enforce party discipline, while noting that the secret-ballot procedure made it difficult to identify the legislators responsible for defeating the party’s official candidate, Mr U. N. Mahida.
+
+The clipping also comments on the party executive’s limited credit for the decision, its declaration that India’s international obligations should be honoured in the Kutch dispute, and its announcement that Gujarat members would be free to join a proposed multi-party front and satyagraha against the award. It criticises the proposed participation in local political competition, arguing that the Kutch issue should be addressed through the constitutional conscience clause rather than regional political expediency.
+
 ## Key points
 
 - The Swatantra Party national executive decided to act against six Gujarat members who defied a party directive.

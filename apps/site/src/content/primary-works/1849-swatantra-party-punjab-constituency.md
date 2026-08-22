@@ -49,6 +49,12 @@ summary: |-
   The remarks present a network seeking to build opposition to socialist politics and to consolidate the Swatantra Party's presence in Punjab. Several contacts offer full or “all out” support, while others undertake area-level responsibility, promise to organise meetings, or provide further addresses. The list also records links with the Janata Party, Dehati Janta Party, educational institutions, medical services, and former Congress workers. No formal title, author, date, publisher, or explanatory introduction is printed on the pages.
 ---
 
+## Summary
+
+This two-page typed Punjab office list records prospective supporters, organisers, sympathisers, and contacts associated with the Swatantra Party. It gives 24 numbered entries with names, addresses, occupations or affiliations, and brief remarks about support, cooperation, mobilisation, meetings, pamphlets, and local organisation. The entries span Patiala, Ludhiana, Amritsar, Ambala, Gurgaon, Hisar, Panipat, Jullundur, and other Punjab locations.
+
+The remarks present a network seeking to build opposition to socialist politics and to consolidate the Swatantra Party's presence in Punjab. Several contacts offer full or “all out” support, while others undertake area-level responsibility, promise to organise meetings, or provide further addresses. The list also records links with the Janata Party, Dehati Janta Party, educational institutions, medical services, and former Congress workers. No formal title, author, date, publisher, or explanatory introduction is printed on the pages.
+
 ## Key points
 
 - The document is a two-page Punjab contact and support list connected to the Swatantra Party.

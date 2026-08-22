@@ -51,6 +51,12 @@ summary: |-
   The release reproduces a telegram sent by Minoo Masani, M.P., to Dr. P. C. Ghosh after Ghosh resigned from the West Bengal Ministry and 16 other legislators withdrew support from the United Front Government. Masani congratulates Ghosh for what he calls a patriotic decision and a blow for democracy. The sheet is signed by S. V. Raju, Executive Secretary of the Swatantra Party; no formal author or printed title is provided.
 ---
 
+## Summary
+
+This one-page Swatantra Party office communication, issued from its Bombay Central Office on November 5, 1967, reports the Party Executive’s discussion of the political situation in India. It states that the Executive unanimously supported cooperation to remove Communist-dominated state governments, citing West Bengal as an example. The document presents this position as part of the Party’s broader concern with protecting democracy and opposing Communist political control.
+
+The release reproduces a telegram sent by Minoo Masani, M.P., to Dr. P. C. Ghosh after Ghosh resigned from the West Bengal Ministry and 16 other legislators withdrew support from the United Front Government. Masani congratulates Ghosh for what he calls a patriotic decision and a blow for democracy. The sheet is signed by S. V. Raju, Executive Secretary of the Swatantra Party; no formal author or printed title is provided.
+
 ## Key points
 
 - The Swatantra Party Executive met in Madras on September 29, 1967, to discuss the country’s political situation.

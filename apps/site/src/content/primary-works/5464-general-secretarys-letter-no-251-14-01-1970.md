@@ -49,6 +49,12 @@ summary: |-
   The letter also sets out reception arrangements at Bombay railway stations and Santa Cruz airport, identification requirements, delegate fees, deadlines, and restrictions on visitors. Annexure A lists hotel accommodation options and daily rates across Bombay, while Annexures B and C provide forms for accommodation and return-journey reservations and a model authorization letter for accredited delegates. The document is primarily an administrative record of party organization and convention planning rather than a statement of political doctrine.
 ---
 
+## Summary
+
+This Swatantra Party circular, dated December 14, 1970, provides logistical instructions for delegates attending the party’s Sixth National Convention in Bombay on January 30–31, 1971. Signed by General Secretary R. C. Cooper, it explains how delegates can request hotel or low-cost dormitory accommodation, arrange return rail or air reservations, and submit the required forms and delegate authorization documents.
+
+The letter also sets out reception arrangements at Bombay railway stations and Santa Cruz airport, identification requirements, delegate fees, deadlines, and restrictions on visitors. Annexure A lists hotel accommodation options and daily rates across Bombay, while Annexures B and C provide forms for accommodation and return-journey reservations and a model authorization letter for accredited delegates. The document is primarily an administrative record of party organization and convention planning rather than a statement of political doctrine.
+
 ## Key points
 
 - The letter announces practical arrangements for the Swatantra Party’s Sixth National Convention in Bombay on January 30–31, 1971.

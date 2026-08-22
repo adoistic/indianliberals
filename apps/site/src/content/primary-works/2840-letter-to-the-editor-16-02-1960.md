@@ -46,6 +46,10 @@ summary: |-
   This one-page English letter, dated February 16, 1960, is addressed to an editor and reports that the Speaker of the Lok Sabha has formally recognised the Swatantra Party group in the House. It asks that several listed Lok Sabha members be identified as members of the Swatantra Party whenever their names are mentioned in reports of parliamentary proceedings.
 ---
 
+## Summary
+
+This one-page English letter, dated February 16, 1960, is addressed to an editor and reports that the Speaker of the Lok Sabha has formally recognised the Swatantra Party group in the House. It asks that several listed Lok Sabha members be identified as members of the Swatantra Party whenever their names are mentioned in reports of parliamentary proceedings.
+
 ## Key points
 
 - The letter is dated February 16, 1960, and addressed to “The Editor.”

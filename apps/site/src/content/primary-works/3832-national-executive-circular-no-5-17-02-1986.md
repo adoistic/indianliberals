@@ -53,6 +53,12 @@ summary: |-
   The document does not present the substance of Masani's letter or the Election Commission's response; it simply forwards a copy of the letter for the recipient's information. The visible page therefore records an internal party-communication step related to electoral administration and party recognition, rather than a developed argument on electoral policy.
 ---
 
+## Summary
+
+This one-page Swatantra Party circular, dated February 17, 1966, is issued from the party's central office in Bombay by General Secretary M. R. Masani. It informs party members that, following a decision of the Central Parliamentary Board at its October 31, 1965 meeting in New Delhi, Masani wrote to the Chief Election Commissioner concerning the recognition of parties and the allocation of election symbols in Bihar.
+
+The document does not present the substance of Masani's letter or the Election Commission's response; it simply forwards a copy of the letter for the recipient's information. The visible page therefore records an internal party-communication step related to electoral administration and party recognition, rather than a developed argument on electoral policy.
+
 ## Key points
 
 - The document is National Executive Circular No. 5 of the Swatantra Party.

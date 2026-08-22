@@ -51,6 +51,10 @@ summary: |-
   This one-page Swatantra Party Parliamentary Office whip, dated December 3, 1969, instructs party members in the Lok Sabha to attend Parliament on December 9 and vote for the party's amendment to the Constitution (Amendment) Bill concerning reservation of seats for Scheduled Castes and Scheduled Tribes. It also directs members to support the Opposition candidate for Deputy Speaker.
 ---
 
+## Summary
+
+This one-page Swatantra Party Parliamentary Office whip, dated December 3, 1969, instructs party members in the Lok Sabha to attend Parliament on December 9 and vote for the party's amendment to the Constitution (Amendment) Bill concerning reservation of seats for Scheduled Castes and Scheduled Tribes. It also directs members to support the Opposition candidate for Deputy Speaker.
+
 ## Key points
 
 - The notice is addressed to all members of the Lok Sabha.

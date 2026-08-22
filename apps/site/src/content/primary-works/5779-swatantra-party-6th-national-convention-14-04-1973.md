@@ -70,6 +70,12 @@ summary: |-
   The convention also addresses regional and constitutional questions, including demands for Andhra and Telangana separation, inter-State river management, alleged misuse of gubernatorial power in Orissa, and the DMK minister’s support for a secessionist demand. Its foreign-policy resolution criticises India’s alignment with the Soviet Union and calls for closer relations with neighbouring South Asian countries, especially Pakistan and Bangladesh. Organisational resolutions prescribe public education against Congress rule, early electoral preparation, independent trade unions, youth mobilisation, and wider political participation. The concluding condolence resolutions pay tribute to Rajaji and other deceased party stalwarts.
 ---
 
+## Summary
+
+This 1973 booklet records the resolutions adopted at the Swatantra Party’s Sixth National Convention, held in Rajajinagar, Madras, on 14–15 April. The economic and political resolutions present a wide-ranging critique of unemployment, inflation, foodgrain controls, nationalisation, power shortages, and excessive administrative control. They argue that production, competition, private enterprise, and individual freedom are being undermined by an inefficient and corrupt state apparatus, and call for freer economic activity alongside effective safeguards against monopoly and exploitation.
+
+The convention also addresses regional and constitutional questions, including demands for Andhra and Telangana separation, inter-State river management, alleged misuse of gubernatorial power in Orissa, and the DMK minister’s support for a secessionist demand. Its foreign-policy resolution criticises India’s alignment with the Soviet Union and calls for closer relations with neighbouring South Asian countries, especially Pakistan and Bangladesh. Organisational resolutions prescribe public education against Congress rule, early electoral preparation, independent trade unions, youth mobilisation, and wider political participation. The concluding condolence resolutions pay tribute to Rajaji and other deceased party stalwarts.
+
 ## Key points
 
 - The convention describes unemployment, inflation, shortages, and declining production as evidence of a severe economic crisis.

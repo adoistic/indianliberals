@@ -50,6 +50,12 @@ summary: |-
   The article points to the party’s recent by-election losses in Gujarat, Rajasthan, and Orissa as evidence that its appeal among the masses was declining. It concludes that the problem is not confined to the Swatantra Party: political parties generally face dissatisfaction, disunity, and indiscipline, and the party must address these organisational problems if it is to recover. The author is not identified in the clipping.
 ---
 
+## Summary
+
+This one-page, unsigned newspaper article examines the Swatantra Party’s weakening public image in 1968. It cites M. R. Masani’s recent claim that the party had become a “creeping socialism” movement, but argues that the party’s difficulties are more directly associated with internal weaknesses, including a lack of discipline, factionalism, disunity, and inadequate leadership.
+
+The article points to the party’s recent by-election losses in Gujarat, Rajasthan, and Orissa as evidence that its appeal among the masses was declining. It concludes that the problem is not confined to the Swatantra Party: political parties generally face dissatisfaction, disunity, and indiscipline, and the party must address these organisational problems if it is to recover. The author is not identified in the clipping.
+
 ## Key points
 
 - The article assesses the Swatantra Party’s declining public image.

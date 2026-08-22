@@ -51,6 +51,10 @@ summary: |-
   In this three-page letter dated 27 May 1968, N. G. Ranga explains to Minoo Masani why he will abstain from attending the Swatantra Party’s parliamentary, executive, and general-council sessions in Madras. He presents the decision as a quiet effort to protect the party’s interests while allowing Masani’s organizational proposals to receive frank and friendly discussion. Ranga notes that Masani’s thesis, supported by Vice-President K. M. Munshi, raises difficult questions about organizational relationships and party loyalties, but emphasizes that the dispute is not over the party’s fundamental ideals or its commitment to peasants, artisans, workers, and entrepreneurs.
 ---
 
+## Summary
+
+In this three-page letter dated 27 May 1968, N. G. Ranga explains to Minoo Masani why he will abstain from attending the Swatantra Party’s parliamentary, executive, and general-council sessions in Madras. He presents the decision as a quiet effort to protect the party’s interests while allowing Masani’s organizational proposals to receive frank and friendly discussion. Ranga notes that Masani’s thesis, supported by Vice-President K. M. Munshi, raises difficult questions about organizational relationships and party loyalties, but emphasizes that the dispute is not over the party’s fundamental ideals or its commitment to peasants, artisans, workers, and entrepreneurs.
+
 ## Key points
 
 - Ranga announces that he will abstain from the Swatantra Party’s Madras sessions for the first time since the party’s inception.

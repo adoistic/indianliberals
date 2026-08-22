@@ -47,6 +47,12 @@ summary: |-
   Masani also acknowledges a newspaper report about an attack on Rajagopalachari’s daughter. He expresses relief that the injury was not serious and that she had returned home, while hoping that the wound would heal satisfactorily. The letter closes with Masani’s personal regards and signature.
 ---
 
+## Summary
+
+In this one-page letter dated March 11, 1964, M. R. Masani thanks C. Rajagopalachari (addressed as “Rajaji”) for his kind and generous letter about Masani’s Budget speech. Masani says that Rajagopalachari’s appreciation is a great encouragement to him.
+
+Masani also acknowledges a newspaper report about an attack on Rajagopalachari’s daughter. He expresses relief that the injury was not serious and that she had returned home, while hoping that the wound would heal satisfactorily. The letter closes with Masani’s personal regards and signature.
+
 ## Key points
 
 - M. R. Masani writes to C. Rajagopalachari on March 11, 1964.

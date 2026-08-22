@@ -50,6 +50,12 @@ summary: |-
   The telegram nevertheless asks Masani to reconsider his decision, arguing that it would weaken rather than strengthen the shared objective of a disciplined and united party. The sender is identified only as “IRANI”; the document does not provide a full name, date, or further political context.
 ---
 
+## Summary
+
+This one-page English telegram, sent from Calcutta to Minoo Masani, records a unanimous resolution of an extraordinary meeting of Bengal Party workers. The message criticizes the actions of some Gujarat MLAs for allegedly flouting a Parliamentary Board directive and expresses support for Masani's position on party discipline and good faith.
+
+The telegram nevertheless asks Masani to reconsider his decision, arguing that it would weaken rather than strengthen the shared objective of a disciplined and united party. The sender is identified only as “IRANI”; the document does not provide a full name, date, or further political context.
+
 ## Key points
 
 - The document is a one-page telegram on an Indian Posts and Telegraphs Department form.

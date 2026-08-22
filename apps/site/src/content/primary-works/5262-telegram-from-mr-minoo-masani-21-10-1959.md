@@ -46,6 +46,10 @@ summary: |-
   This one-page English telegram form from the Indian Posts and Telegraphs Department records a message sent from Minnumassani, M. P. Mahatma Gandhi Road, Bombay, and addressed to Jinaraja Hegde. The Bombay postmark is dated 21 October 1959. The message is a brief request concerning an arrival or meeting: "RECD KINDLY COME 24TH OBLIGE".
 ---
 
+## Summary
+
+This one-page English telegram form from the Indian Posts and Telegraphs Department records a message sent from Minnumassani, M. P. Mahatma Gandhi Road, Bombay, and addressed to Jinaraja Hegde. The Bombay postmark is dated 21 October 1959. The message is a brief request concerning an arrival or meeting: "RECD KINDLY COME 24TH OBLIGE".
+
 ## Key points
 
 - The document is a one-page telegram rather than a conventional letter.

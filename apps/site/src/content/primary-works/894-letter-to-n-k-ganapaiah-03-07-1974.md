@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated 3 July 1974, is from Minoo Masani to N. K. Ganapaiah. Masani acknowledges Ganapaiah's letter of 26 June and states that he is enclosing copies of two letters addressed to the Swatantra Party president, which contain Masani's own views. The page is primarily a covering note and does not reproduce the enclosed letters.
 ---
 
+## Summary
+
+This one-page letter, dated 3 July 1974, is from Minoo Masani to N. K. Ganapaiah. Masani acknowledges Ganapaiah's letter of 26 June and states that he is enclosing copies of two letters addressed to the Swatantra Party president, which contain Masani's own views. The page is primarily a covering note and does not reproduce the enclosed letters.
+
 ## Key points
 
 - The letter is dated 3 July 1974.

@@ -52,6 +52,12 @@ summary: |-
   The attached statement describes Jangipur’s electoral geography, identifying its seven Assembly seats in Murshidabad District and three in Malda District, and argues that several of these seats offer strong prospects for the party. It lists Congress, independent, and Bangla Congress opponents, notes the absence of a Communist candidate, and presents Hannan as a young, energetic, reliable party worker with influence in Murshidabad and Malda. The circular therefore combines internal candidate approval with a practical assessment of constituency strength and opposition fragmentation.
 ---
 
+## Summary
+
+This two-page Swatantra Party Central Office circular, dated 19 December 1966, seeks approval for Mr. M. A. Hannan as the party’s parliamentary candidate for the Jangipur constituency in West Bengal. General Secretary M. R. Masani explains that the proposed candidacy would increase the party’s contested constituencies in Bengal to two and forwards a statement by the party’s West Bengal representative, C. R. Irani.
+
+The attached statement describes Jangipur’s electoral geography, identifying its seven Assembly seats in Murshidabad District and three in Malda District, and argues that several of these seats offer strong prospects for the party. It lists Congress, independent, and Bangla Congress opponents, notes the absence of a Communist candidate, and presents Hannan as a young, energetic, reliable party worker with influence in Murshidabad and Malda. The circular therefore combines internal candidate approval with a practical assessment of constituency strength and opposition fragmentation.
+
 ## Key points
 
 - The circular is dated 19 December 1966 and issued from the Swatantra Party Central Office in Bombay.

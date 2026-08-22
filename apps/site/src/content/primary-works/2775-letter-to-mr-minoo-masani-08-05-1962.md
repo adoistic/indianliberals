@@ -48,6 +48,10 @@ summary: |-
   This two-page handwritten letter from A. D. Shroff to Minoo Masani, dated 8 May 1962 and received on 9 May, reports on materials being sent to Masani, including copies of The Indian Express and a draft statement. Shroff says that a meeting or discussion concerning the relevant provisions has been delayed because a participant has gone to Chandigarh, and he expects to send the draft to Masani shortly.
 ---
 
+## Summary
+
+This two-page handwritten letter from A. D. Shroff to Minoo Masani, dated 8 May 1962 and received on 9 May, reports on materials being sent to Masani, including copies of The Indian Express and a draft statement. Shroff says that a meeting or discussion concerning the relevant provisions has been delayed because a participant has gone to Chandigarh, and he expects to send the draft to Masani shortly.
+
 ## Key points
 
 - Shroff writes to Masani in response to earlier instructions.

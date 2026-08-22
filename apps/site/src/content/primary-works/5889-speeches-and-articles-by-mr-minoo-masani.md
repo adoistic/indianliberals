@@ -53,6 +53,10 @@ summary: |-
   The rendered page is a contents sheet for a collected work headed “Speeches and Articles by Mr. Masani.” It lists eighteen items spanning political economy, socialism, mixed economic systems, anti-totalitarianism, foreign policy, agriculture, electoral politics, party organisation, convention reports, public finance, and international affairs. Several entries are dated or identify their source or occasion, including Korea (June 1952), Tibet (November–December 1952), a Bangalore speech to the Forum of Free Enterprise (May 1959), Cooperative Farming as an ICCF publication, and a Ranchi election manifesto (1963).
 ---
 
+## Summary
+
+The rendered page is a contents sheet for a collected work headed “Speeches and Articles by Mr. Masani.” It lists eighteen items spanning political economy, socialism, mixed economic systems, anti-totalitarianism, foreign policy, agriculture, electoral politics, party organisation, convention reports, public finance, and international affairs. Several entries are dated or identify their source or occasion, including Korea (June 1952), Tibet (November–December 1952), a Bangalore speech to the Forum of Free Enterprise (May 1959), Cooperative Farming as an ICCF publication, and a Ranchi election manifesto (1963).
+
 ## Key points
 
 - The page presents an eighteen-item contents list attributed in print to “Mr. Masani.”

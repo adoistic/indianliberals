@@ -47,6 +47,10 @@ summary: |-
   In this letter dated 8 June 1976, S. V. Raju writes to Bhanu Pratap Singh about rapidly developing discussions among India’s opposition parties. Raju says reports suggest that all the major opposition parties may be on the verge of merging, which would undermine earlier arguments—including Minoo Masani’s—for keeping the Swatantra Party alive rather than joining the BLD. Raju also asks whether Singh plans to visit Bombay and offers to arrange meetings with colleagues. He provides information about Masani’s travel schedule, including a possible meeting in Delhi at the Ashoka Hotel, and requests a prompt reply.
 ---
 
+## Summary
+
+In this letter dated 8 June 1976, S. V. Raju writes to Bhanu Pratap Singh about rapidly developing discussions among India’s opposition parties. Raju says reports suggest that all the major opposition parties may be on the verge of merging, which would undermine earlier arguments—including Minoo Masani’s—for keeping the Swatantra Party alive rather than joining the BLD. Raju also asks whether Singh plans to visit Bombay and offers to arrange meetings with colleagues. He provides information about Masani’s travel schedule, including a possible meeting in Delhi at the Ashoka Hotel, and requests a prompt reply.
+
 ## Key points
 
 - The letter is dated 8 June 1976 and is addressed to Bhanu Pratap Singh. Raju reports that the major opposition parties may be close to forming a unified party. He argues that this development weakens the case for preserving the Swatantra Party separately from the BLD. The letter refers to an earlier article by Raju in Freedom First. Raju seeks information about Singh’s possible visit to Bombay and offers to arrange meetings.

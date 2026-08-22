@@ -51,6 +51,12 @@ summary: |-
   Narayan asks that his friends and the Indian people understand that his views on the situation in India remained exactly what they had been on 25 June 1975. He says that subsequent events have confirmed his apprehensions and warns against any future misrepresentation of his position. The letter closes with hope that the people of India will soon liberate themselves from what he calls the present tyranny.
 ---
 
+## Summary
+
+This confidential one-page letter, dated 4 December 1975, was written by Jayaprakash Narayan while he was undergoing treatment at Jaslok Hospital in Bombay after four and a half months of solitary confinement. He reports that his kidneys had been badly damaged during his detention.
+
+Narayan asks that his friends and the Indian people understand that his views on the situation in India remained exactly what they had been on 25 June 1975. He says that subsequent events have confirmed his apprehensions and warns against any future misrepresentation of his position. The letter closes with hope that the people of India will soon liberate themselves from what he calls the present tyranny.
+
 ## Key points
 
 - The letter is marked confidential and dated 4 December 1975.

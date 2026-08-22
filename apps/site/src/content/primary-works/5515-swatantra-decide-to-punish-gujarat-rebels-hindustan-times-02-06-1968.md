@@ -52,6 +52,12 @@ summary: |-
   The report says the meeting was chaired by M. R. Ruthnasamy, with C. Rajagopalachari (Ranga) absent. Party secretary N. Dandekar reportedly hoped that Minoo Masani would reconsider his resignation from the party's National Executive and Parliamentary Board. The National Executive also discussed forthcoming mid-term elections in Uttar Pradesh and West Bengal, including a proposed concentrated campaign in Uttar Pradesh and criticism of the decision to hold West Bengal's election in November. The second clipping, “Masani reserves comment,” reports Masani's refusal to comment immediately, while noting his view that disciplinary action should be taken against those who defied the party mandate.
 ---
 
+## Summary
+
+This two-page Hindustan Times clipping, dated 2 June 1968, reports disciplinary action by the Swatantra Party against its Gujarat legislators following the party's electoral defeat in the state. The National Executive decided to expel M. R. U. N. Mahida, suspend three Gujarat MLAs for three years, and bar them from holding party office. The report names Tokersinh Chhabra Singh Jadeja, Natwarsinh Solanki, and Chandrakant Parikh as the suspended legislators, alleging that they had supported the candidature of Mr Mahida rather than the party-backed candidate Rajya Sabha nominee from Gujarat. It also records that no disciplinary action was taken against two other MLAs, Mr Jamn...bhai Bhat and Chunnilal Vasav..., after their explanations were considered.
+
+The report says the meeting was chaired by M. R. Ruthnasamy, with C. Rajagopalachari (Ranga) absent. Party secretary N. Dandekar reportedly hoped that Minoo Masani would reconsider his resignation from the party's National Executive and Parliamentary Board. The National Executive also discussed forthcoming mid-term elections in Uttar Pradesh and West Bengal, including a proposed concentrated campaign in Uttar Pradesh and criticism of the decision to hold West Bengal's election in November. The second clipping, “Masani reserves comment,” reports Masani's refusal to comment immediately, while noting his view that disciplinary action should be taken against those who defied the party mandate.
+
 ## Key points
 
 - The Swatantra Party decided to expel M. R. U. N. Mahida over his election activities in Gujarat.

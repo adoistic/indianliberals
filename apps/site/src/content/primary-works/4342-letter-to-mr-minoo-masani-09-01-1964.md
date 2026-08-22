@@ -50,6 +50,10 @@ summary: |-
   In this two-page letter dated 9 July 1964, Prof. N. G. Ranga thanks Minoo Masani for his advice to the Swatantra Party’s Andhra working committee and workers, including guidance on defending the party’s Kashmir policy with reference to the available facts. Ranga cautions against promising sitting MPs and MLAs that they will be renominated before the middle of 1966, arguing that premature assurances could create internal dissent and disrupt the party’s legislative and parliamentary leadership.
 ---
 
+## Summary
+
+In this two-page letter dated 9 July 1964, Prof. N. G. Ranga thanks Minoo Masani for his advice to the Swatantra Party’s Andhra working committee and workers, including guidance on defending the party’s Kashmir policy with reference to the available facts. Ranga cautions against promising sitting MPs and MLAs that they will be renominated before the middle of 1966, arguing that premature assurances could create internal dissent and disrupt the party’s legislative and parliamentary leadership.
+
 ## Key points
 
 - Ranga endorses Masani’s advice to the Andhra working committee and workers.

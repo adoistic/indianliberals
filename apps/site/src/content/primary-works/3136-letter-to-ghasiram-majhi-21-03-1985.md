@@ -46,6 +46,10 @@ summary: |-
   This one-page letter, dated March 21, 1985, is from S. V. Raju to Ghasiram Majhi. Raju explains that he had previously written to R. R. Singh Deo of Patna about the doctoral research he had undertaken on the Swatantra Party, but had delayed writing to Majhi because he did not have a current address beyond one at Mahuvalanagar.
 ---
 
+## Summary
+
+This one-page letter, dated March 21, 1985, is from S. V. Raju to Ghasiram Majhi. Raju explains that he had previously written to R. R. Singh Deo of Patna about the doctoral research he had undertaken on the Swatantra Party, but had delayed writing to Majhi because he did not have a current address beyond one at Mahuvalanagar.
+
 ## Key points
 
 - S. V. Raju writes to Ghasiram Majhi on March 21, 1985.

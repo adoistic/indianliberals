@@ -46,6 +46,12 @@ summary: |-
   The page identifies P. M. Shah as the periodical’s Editor, but does not explicitly identify the individual who signed the letter. No title for the document is printed, and the enclosed editorial itself is not included in the rendered page.
 ---
 
+## Summary
+
+This one-page English office letter, dated 8 July 1959, is printed on the letterhead of The Indian Exporter & Importer in Bombay. It is addressed to Sir Hormusji P. Mody at the Central Bank of India and informs him that a cutting of the editorial published in the magazine’s June issue is enclosed. The writer requests acknowledgment of receipt and signs only as “Secretary.”
+
+The page identifies P. M. Shah as the periodical’s Editor, but does not explicitly identify the individual who signed the letter. No title for the document is printed, and the enclosed editorial itself is not included in the rendered page.
+
 ## Key points
 
 - The document is a one-page English letter dated 8 July 1959.

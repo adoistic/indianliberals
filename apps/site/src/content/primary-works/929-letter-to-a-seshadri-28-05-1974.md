@@ -48,6 +48,10 @@ summary: |-
   In this letter dated May 28, 1974, M. R. Masani apologizes to Dr. A. Seshadri for delaying his reply to a letter of April 4. Masani agrees that Seshadri's proposal merits an express response and confirms that he will attend a General Council meeting of the party in Delhi on June 9–10.
 ---
 
+## Summary
+
+In this letter dated May 28, 1974, M. R. Masani apologizes to Dr. A. Seshadri for delaying his reply to a letter of April 4. Masani agrees that Seshadri's proposal merits an express response and confirms that he will attend a General Council meeting of the party in Delhi on June 9–10.
+
 ## Key points
 
 - Masani apologizes for the delay in replying to Seshadri's April 4 letter.

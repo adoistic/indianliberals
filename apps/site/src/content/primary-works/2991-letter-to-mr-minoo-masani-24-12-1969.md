@@ -47,6 +47,10 @@ summary: |-
   This one-page administrative letter, issued from the Swatantra Party Parliamentary Office on December 24, 1969, is addressed by A.P. Jain to M.R. Masani. Jain reports forwarding three blood-receipt documents from Willingdon Hospital to the Lok Sabha Secretariat for payment. He also notes that eight units received from Bombay through Masani’s office should not be submitted to the Secretariat because another party is handling those bills.
 ---
 
+## Summary
+
+This one-page administrative letter, issued from the Swatantra Party Parliamentary Office on December 24, 1969, is addressed by A.P. Jain to M.R. Masani. Jain reports forwarding three blood-receipt documents from Willingdon Hospital to the Lok Sabha Secretariat for payment. He also notes that eight units received from Bombay through Masani’s office should not be submitted to the Secretariat because another party is handling those bills.
+
 ## Key points
 
 - The letter is dated December 24, 1969, and bears Swatantra Party Parliamentary Office letterhead.

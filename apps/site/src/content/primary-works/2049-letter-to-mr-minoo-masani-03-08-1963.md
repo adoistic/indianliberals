@@ -46,6 +46,10 @@ summary: |-
   This one-page confidential letter, dated New Delhi, August 3, 1963, is issued on the letterhead of the Minister of Parliamentary Affairs and addressed to Shri M. R. Masani, M.P. The sender writes that the Prime Minister has proposed an informal meeting with leading members of Parliament.
 ---
 
+## Summary
+
+This one-page confidential letter, dated New Delhi, August 3, 1963, is issued on the letterhead of the Minister of Parliamentary Affairs and addressed to Shri M. R. Masani, M.P. The sender writes that the Prime Minister has proposed an informal meeting with leading members of Parliament.
+
 ## Key points
 
 - The letter is marked confidential and numbered No. F.9-2/63-CB.

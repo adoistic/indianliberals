@@ -54,6 +54,12 @@ summary: |-
   The committee resolved to challenge this requirement in the Bombay High Court. It authorised General Secretary L. R. Sampat to file a writ petition arguing that requiring the party to swear by socialism was illegal, discriminatory, arbitrary, and violative of the fundamental right of the citizen. The meeting concluded with a vote of thanks to the chair. The supplied scan contains duplicated images of the same two-page record.
 ---
 
+## Summary
+
+These minutes record a meeting of the Swatantra Party, Maharashtra Executive Committee held on September 26, 1994, at the party office in Bombay. The committee discussed the Election Commission of India's September 14 reply to the party's earlier letter concerning Section 29A of the Representation of the People Act. The minutes state that the Commission's position effectively required the party to adhere to a commitment to socialism, despite the party's stated political purpose of repudiating socialism in all its forms and manifestations.
+
+The committee resolved to challenge this requirement in the Bombay High Court. It authorised General Secretary L. R. Sampat to file a writ petition arguing that requiring the party to swear by socialism was illegal, discriminatory, arbitrary, and violative of the fundamental right of the citizen. The meeting concluded with a vote of thanks to the chair. The supplied scan contains duplicated images of the same two-page record.
+
 ## Key points
 
 - The record concerns a Swatantra Party, Maharashtra Executive Committee meeting held on September 26, 1994.

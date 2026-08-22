@@ -52,6 +52,12 @@ summary: |-
   An appendix lists elected General Council members by region, with numerical totals for Andhra, Bombay, Gujarat, Himachal Pradesh, Kerala, Madras, Maharashtra, Mysore, Orissa, Punjab, Rajasthan, and Uttar Pradesh. It also separately identifies co-opted members. The final page is a blank administrative expenditure and payment form, suggesting that the circular was accompanied by an office-record sheet rather than substantive political or economic argument.
 ---
 
+## Summary
+
+This three-page English administrative circular, printed in 1966 for private circulation, records members co-opted to the General Council at its meeting in Bombay on May 27 and 28, 1966. The first page lists nine co-opted members with their addresses, including representatives associated with Gujarat, Mysore State, Orissa, Rajasthan, and Andhra Pradesh.
+
+An appendix lists elected General Council members by region, with numerical totals for Andhra, Bombay, Gujarat, Himachal Pradesh, Kerala, Madras, Maharashtra, Mysore, Orissa, Punjab, Rajasthan, and Uttar Pradesh. It also separately identifies co-opted members. The final page is a blank administrative expenditure and payment form, suggesting that the circular was accompanied by an office-record sheet rather than substantive political or economic argument.
+
 ## Key points
 
 - The circular concerns members co-opted to a General Council meeting held in Bombay on May 27 and 28, 1966.

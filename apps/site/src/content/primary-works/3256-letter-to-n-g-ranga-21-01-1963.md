@@ -48,6 +48,12 @@ summary: |-
   Masani asks Ranga to indicate whether he wants alterations to the report. He states that, absent a response by the end of January, he will assume that Ranga approves the report without changes and that it may then be circulated to C.O.C. members. The page also bears a handwritten circled archival reference, “3256,” and a handwritten note near the top.
 ---
 
+## Summary
+
+Dated 21 January 1963, M. R. Masani writes to Professor N. G. Ranga about a factual report prepared by Rajaji and K. M. Munshi after an Organisation Sub-Committee meeting in Madras. The report is intended for consideration by the Central Organising Committee (C.O.C.) at its meeting in Bombay on 9 February, after which it would be passed to the General Council with any amendments made by the C.O.C.
+
+Masani asks Ranga to indicate whether he wants alterations to the report. He states that, absent a response by the end of January, he will assume that Ranga approves the report without changes and that it may then be circulated to C.O.C. members. The page also bears a handwritten circled archival reference, “3256,” and a handwritten note near the top.
+
 ## Key points
 
 - The letter is dated 21 January 1963 and is signed by M. R. Masani.

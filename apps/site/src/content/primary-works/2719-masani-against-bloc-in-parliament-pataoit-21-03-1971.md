@@ -51,6 +51,12 @@ summary: |-
   The report distinguishes parliamentary strategy from electoral cooperation. Although the party rejects a parliamentary bloc, it may still coordinate with electoral allies, including the Syndicate, the Jana Sangh, and the SSP, where necessary for Assembly elections. The clipping also records the replacement of N. G. Ranga by Dabyabhai Patel as parliamentary chairman and notes plans for a broader review of the party’s electoral performance and future direction.
 ---
 
+## Summary
+
+This one-page English press clipping reports M. R. Masani’s announcement that the Swatantra Party would not form a bloc or enter into a parliamentary alliance with other parties. Masani says the idea of a bloc is no longer worth pursuing and that Swatantra members in Parliament should function independently, articulating the party’s distinctive approach and policies.
+
+The report distinguishes parliamentary strategy from electoral cooperation. Although the party rejects a parliamentary bloc, it may still coordinate with electoral allies, including the Syndicate, the Jana Sangh, and the SSP, where necessary for Assembly elections. The clipping also records the replacement of N. G. Ranga by Dabyabhai Patel as parliamentary chairman and notes plans for a broader review of the party’s electoral performance and future direction.
+
 ## Key points
 
 - M. R. Masani announced that Swatantra would not form a parliamentary bloc or alliance.

@@ -48,6 +48,12 @@ summary: |-
   The directory spans a wide range of sectors, including banking, insurance, chemicals, textiles, engineering, petroleum, pharmaceuticals, tobacco, food processing, transport equipment, utilities, and publishing. Many entries also record managing agents, associates, proprietors, or affiliated companies, offering a compact view of corporate relationships and business-group structures in Bombay. The pages provide names and organisational connections rather than commentary, analysis, or policy argument.
 ---
 
+## Summary
+
+“List of Business Houses & Industries in Bombay City” is a seven-page English reference directory of 227 numbered business houses and industrial concerns. The entries are arranged alphabetically, beginning with Alcock Ashdown & Co. Ltd. and extending through Yorkshire Insurance Co. Ltd.; no author, issuing body, publisher, or date is printed on the visible pages.
+
+The directory spans a wide range of sectors, including banking, insurance, chemicals, textiles, engineering, petroleum, pharmaceuticals, tobacco, food processing, transport equipment, utilities, and publishing. Many entries also record managing agents, associates, proprietors, or affiliated companies, offering a compact view of corporate relationships and business-group structures in Bombay. The pages provide names and organisational connections rather than commentary, analysis, or policy argument.
+
 ## Key points
 
 - The document is a seven-page alphabetical directory titled “List of Business Houses & Industries in Bombay City.”

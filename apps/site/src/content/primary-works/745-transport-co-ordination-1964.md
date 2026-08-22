@@ -55,6 +55,14 @@ summary: |-
   In the rendered pages, Masani concludes that India faces a substantial transport shortage and that roads must be developed rapidly alongside the railways. He uses projected traffic volumes to argue that the railways cannot meet future demand by themselves, and calls for a bolder, economically grounded policy that co-ordinates the two services rather than preserving the railways’ monopoly.
 ---
 
+## Summary
+
+In the rendered pages, M. R. Masani argues that public interest and economic growth depend on efficient transportation, and that the State should create conditions for all modes—rail, road, water and air—to develop in a complementary relationship. He highlights the neglected potential of coastal shipping and inland waterways, while identifying India’s railway-centred transport policy as the central problem of co-ordination.
+
+In the rendered pages, Masani criticises the political and administrative privileges accorded to the railways at the expense of road transport. He points to restrictive licensing, route limits, multi-State permits, high and overlapping taxes, weight restrictions, inadequate roads and insufficient investment. The essay also challenges the claim that railways alone can carry bulky industrial materials, citing the technical capacity of road transport elsewhere.
+
+In the rendered pages, Masani concludes that India faces a substantial transport shortage and that roads must be developed rapidly alongside the railways. He uses projected traffic volumes to argue that the railways cannot meet future demand by themselves, and calls for a bolder, economically grounded policy that co-ordinates the two services rather than preserving the railways’ monopoly.
+
 ## Key points
 
 - Efficient transportation is presented as essential to public welfare and economic growth.

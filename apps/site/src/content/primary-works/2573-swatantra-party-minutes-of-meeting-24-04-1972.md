@@ -50,6 +50,10 @@ summary: |-
   This one-page set of minutes records a meeting of the Swatantra Party's Bombay Region Executive Committee held at the party office on 24 April 1972. It lists nine attendees, confirms earlier minutes from November 1971 and January 1972 with slight modifications, and records discussion of the region's finances and membership.
 ---
 
+## Summary
+
+This one-page set of minutes records a meeting of the Swatantra Party's Bombay Region Executive Committee held at the party office on 24 April 1972. It lists nine attendees, confirms earlier minutes from November 1971 and January 1972 with slight modifications, and records discussion of the region's finances and membership.
+
 ## Key points
 
 - The Bombay Region Executive Committee met on 24 April 1972 at 6.15 p.m.

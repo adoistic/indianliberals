@@ -56,6 +56,12 @@ summary: |-
   The clippings also record the Swatantra Party’s broader political positions. Its Madras council called on the state government to curb communist influence in economic and political life, criticized strikes and alleged communist activity, urged postponement of elections in West Bengal, supported autonomy demands from hill people in Assam, and expressed concern about Soviet and Chinese influence. A separate Hindi article by M. R. Masani reflects on the party’s significance, political instability, administrative reform, and the need to explain the party’s decisions to the public. The dossier includes reports from The Times of India News Service, Indian Express, a Hindi periodical, and Sambad Standard; it is a clipping file rather than a single authored publication.
 ---
 
+## Summary
+
+This four-page archival clipping dossier documents a June 1968 dispute within the Swatantra Party, centered on party discipline, the Gujarat legislative crisis, and Minoo Masani’s position in the party leadership. Reports describe sharp disagreement between General Secretary N. Dandekar and Masani: Dandekar presented the Gujarat crisis as effectively closed, while Masani argued that the party remained at a crossroads. The party council debated disciplinary action against Gujarat legislators, Masani’s re-election to the National Executive, and the implications of defections and internal dissent.
+
+The clippings also record the Swatantra Party’s broader political positions. Its Madras council called on the state government to curb communist influence in economic and political life, criticized strikes and alleged communist activity, urged postponement of elections in West Bengal, supported autonomy demands from hill people in Assam, and expressed concern about Soviet and Chinese influence. A separate Hindi article by M. R. Masani reflects on the party’s significance, political instability, administrative reform, and the need to explain the party’s decisions to the public. The dossier includes reports from The Times of India News Service, Indian Express, a Hindi periodical, and Sambad Standard; it is a clipping file rather than a single authored publication.
+
 ## Key points
 
 - The Swatantra Party’s 1968 general council meeting addressed continuing factional conflict connected with Gujarat.

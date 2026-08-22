@@ -54,6 +54,12 @@ summary: |-
   Raju argues that even a one-day appearance by Palkhivala would strengthen the Kerala unit politically and financially. He says the Swatantra Party is the only party opposing the Act, while other parties, including the Jan Sangh, support it; he also reports that the case has attracted substantial support from landowners. The letter closes with an update on local advocates’ efforts to contact Palkhivala and notes that the Chief Justice of the Kerala High Court, Justice Raman Nair, has reportedly asked when Palkhivala is coming.
 ---
 
+## Summary
+
+In this letter dated March 4, 1970, S. V. Raju asks Minoo Masani to persuade Nani Palkhivala to appear in the Kerala High Court in litigation concerning the Kerala Land Reforms Act. Raju recounts arrangements made through Dr. Cooper and representatives of the Kerala Land Owners’ Association, which he says is inspired by the Swatantra Party, and explains that Palkhivala’s professional services are sought for a constitutional argument concerning Article 31(a) and Fundamental Rights.
+
+Raju argues that even a one-day appearance by Palkhivala would strengthen the Kerala unit politically and financially. He says the Swatantra Party is the only party opposing the Act, while other parties, including the Jan Sangh, support it; he also reports that the case has attracted substantial support from landowners. The letter closes with an update on local advocates’ efforts to contact Palkhivala and notes that the Chief Justice of the Kerala High Court, Justice Raman Nair, has reportedly asked when Palkhivala is coming.
+
 ## Key points
 
 - Raju asks Masani to persuade Nani Palkhivala to appear in the Kerala High Court.

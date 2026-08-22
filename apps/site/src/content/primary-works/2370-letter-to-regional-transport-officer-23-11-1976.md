@@ -48,6 +48,12 @@ summary: |-
   Raju asks the officer to mark the relevant vehicles in the records, correct the records accordingly, and treat the notices as cancelled. The remaining pages reproduce Regional Transport Office notices and postcards addressed principally to M. R. Masani and Padma Vaswani, and in one instance to S. V. Raju. These notices assert that motor-vehicle taxes have remained unpaid, invoke sections 16 and 12 of the Bombay Motor Vehicles Tax Act, 1958, and warn of prosecution, recovery as land revenue, and further action if payment or proof of payment is not supplied.
 ---
 
+## Summary
+
+This 23 November 1976 letter from S. V. Raju to the Regional Transport Officer in Bombay concerns a series of notices about motor-vehicle tax records. Raju encloses a photocopy of a 29 March 1976 letter by V. P. Bhatia of the Bharatiya Lok Dal, which reportedly confirms that Bhatia had discussed the vehicles with S. R. Tracy of the transport office. Raju states that the vehicles, registered in January 1971, were never brought back to Bombay after being sold in the areas where they were located.
+
+Raju asks the officer to mark the relevant vehicles in the records, correct the records accordingly, and treat the notices as cancelled. The remaining pages reproduce Regional Transport Office notices and postcards addressed principally to M. R. Masani and Padma Vaswani, and in one instance to S. V. Raju. These notices assert that motor-vehicle taxes have remained unpaid, invoke sections 16 and 12 of the Bombay Motor Vehicles Tax Act, 1958, and warn of prosecution, recovery as land revenue, and further action if payment or proof of payment is not supplied.
+
 ## Key points
 
 - S. V. Raju's letter is dated 23 November 1976 and addressed to the Regional Transport Officer, Bombay.

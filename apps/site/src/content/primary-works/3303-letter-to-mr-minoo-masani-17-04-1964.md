@@ -49,6 +49,12 @@ summary: |-
   Raju recommends engaging Little & Co. after consulting K. M. Munshi, with Dara Mehta and Munshi preparing for the case in the Bombay High Court. The third rendered page is a related court certification enclosing the procedural basis for appointing a Court Receiver over the vehicles and restraining the defendant from dealing with or disposing of them. The pages also contain handwritten annotations and a signed correspondence page.
 ---
 
+## Summary
+
+In this letter dated April 17, 1964, S. V. Raju briefs Minoo Masani on a dispute involving jeeps claimed by the Swatantra Party. Raju recounts New India Assurance's attempts to locate and take possession of the vehicles, competing statements about whether they belonged to the Party, the Raja of Ramgarh, or Bokaro Industries, and the beginning of litigation after a notice of motion was served. The account presents the dispute as both a property-recovery matter and a political problem, involving the Raja's influence, election connections, and possible liability for disposing of hypothecated vehicles.
+
+Raju recommends engaging Little & Co. after consulting K. M. Munshi, with Dara Mehta and Munshi preparing for the case in the Bombay High Court. The third rendered page is a related court certification enclosing the procedural basis for appointing a Court Receiver over the vehicles and restraining the defendant from dealing with or disposing of them. The pages also contain handwritten annotations and a signed correspondence page.
+
 ## Key points
 
 - The Central Bank has served a notice of motion concerning jeeps associated with the Swatantra Party and the Raja of Ramgarh.

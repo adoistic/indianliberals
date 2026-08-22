@@ -47,6 +47,10 @@ summary: |-
   This two-page handwritten document, dated only as “Apr. 19.”, is a legal memorandum or case-note sheet prepared on the letterhead of Padmakar D. Kamerkar, Advocate, in Bombay. It consists almost entirely of citations to Indian Supreme Court and High Court decisions, with no visible title, recipient, explanatory argument, signature, or closing.
 ---
 
+## Summary
+
+This two-page handwritten document, dated only as “Apr. 19.”, is a legal memorandum or case-note sheet prepared on the letterhead of Padmakar D. Kamerkar, Advocate, in Bombay. It consists almost entirely of citations to Indian Supreme Court and High Court decisions, with no visible title, recipient, explanatory argument, signature, or closing.
+
 ## Key points
 
 - The document is written on the letterhead of Padmakar D. Kamerkar, Advocate, at New Shingne Building, 100 Girgaum Road, Bombay.

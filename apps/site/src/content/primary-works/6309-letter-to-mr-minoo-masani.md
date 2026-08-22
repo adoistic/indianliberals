@@ -49,6 +49,12 @@ summary: |-
   The writer concludes that M.R.M. is innocent, still has much to contribute to the party, and should remain president, although he should be persuaded to withdraw his resignation. The second page presents the party’s growing difficulties as evidence that M.R.M.’s position is becoming untenable, citing the alleged support of a Gujarat Swatantra Party group for Hitendra Desai. Pages 3–4 contain Gujarati handwritten material and an inland letter-card image; their content could not be reliably read or incorporated into this summary.
 ---
 
+## Summary
+
+This undated handwritten letter, sent from Jetpur (Kathiawar), is addressed to “M.R.M.” and discusses the position of M.R.M. within the Swatantra Party. The writer reports that Mr. Parekh has written to D. R. Cooper and S. V. Raju, arguing that M.R.M. should not be held responsible for the party’s electoral defeat in the Saurashtra elections. The letter attributes responsibility instead to the National Executive, claiming that M.R.M. had been compelled to rejoin the Alliance after walking out of its Delhi meeting.
+
+The writer concludes that M.R.M. is innocent, still has much to contribute to the party, and should remain president, although he should be persuaded to withdraw his resignation. The second page presents the party’s growing difficulties as evidence that M.R.M.’s position is becoming untenable, citing the alleged support of a Gujarat Swatantra Party group for Hitendra Desai. Pages 3–4 contain Gujarati handwritten material and an inland letter-card image; their content could not be reliably read or incorporated into this summary.
+
 ## Key points
 
 - The letter is undated and addressed to “M.R.M.” from Jetpur (Kathiawar), in the Rajkot district of Saurashtra.

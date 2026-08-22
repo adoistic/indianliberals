@@ -52,6 +52,12 @@ summary: |-
   The letter frames unemployment and rising prices as urgent political issues, calling for immediate government action to reduce unemployment and bring down prices. It concludes that resolving these problems is essential not only to public happiness but also to the survival of India’s democratic institutions.
 ---
 
+## Summary
+
+Dated December 8, 1970, this one-page letter from Swatantra Party General Secretary R. C. Cooper announces Monday, January 4, as “Unemployment and Spiralling Prices Day.” It asks party units at the state, district, and primary levels to organise public meetings, processions, leaflet campaigns, and memoranda addressed to the Ministers for Labour and Finance.
+
+The letter frames unemployment and rising prices as urgent political issues, calling for immediate government action to reduce unemployment and bring down prices. It concludes that resolving these problems is essential not only to public happiness but also to the survival of India’s democratic institutions.
+
 ## Key points
 
 - The letter is dated December 8, 1970, and is issued from the Swatantra Party’s national headquarters in Bombay.

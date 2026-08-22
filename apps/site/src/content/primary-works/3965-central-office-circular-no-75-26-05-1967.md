@@ -52,6 +52,12 @@ summary: |-
   Signed by S. V. Raju in his capacity as Executive Secretary, the circular says its purpose is to inform party units about the industry's unsatisfactory position and its principal causes. It asks recipients to use the report in proposing suitable remedial measures for conditions in their respective states and to draw the government's attention to the issues in order to obtain relief. The report itself is not included in the rendered page.
 ---
 
+## Summary
+
+This one-page Swatantra Party Central Office circular, dated 26 May 1967, is addressed to the party's Members of Parliament and Members of Legislative Assemblies in Gujarat, Madras, Uttar Pradesh, and Andhra Pradesh. Under the heading “COTTON TEXTILE INDUSTRY,” it forwards a report prepared by a sub-committee of the Indian Cotton Merchants' Federation on the plight of marginal and uneconomic cotton mills.
+
+Signed by S. V. Raju in his capacity as Executive Secretary, the circular says its purpose is to inform party units about the industry's unsatisfactory position and its principal causes. It asks recipients to use the report in proposing suitable remedial measures for conditions in their respective states and to draw the government's attention to the issues in order to obtain relief. The report itself is not included in the rendered page.
+
 ## Key points
 
 - The document is Central Office Circular No. 75 of the Swatantra Party, dated 26 May 1967.

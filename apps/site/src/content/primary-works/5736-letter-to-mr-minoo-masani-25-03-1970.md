@@ -50,6 +50,12 @@ summary: |-
   Mody proposes that any Gujarat arrangement should be an action of the Swatantra Party as a whole and should receive the support of its national leadership. He is willing to accept outside support but cautions against commitments or fraternisation with other parties. The letter also stresses the need to repair communication between the state and central organisations, arguing that personal hostility and misunderstanding have undermined trust. These recommendations are presented as both a party strategy and a matter of national responsibility.
 ---
 
+## Summary
+
+In this personal and confidential letter dated March 25, 1970, Piloo Mody writes about the political consequences of the changing situation in Gujarat. He recalls his long opposition to the “Ruling Congress” and explains that he had hoped the Swatantra Party would become a catalytic force for parties moving away from Congress, but argues that the party must now undertake a major strategic adjustment. He supports continuing efforts to oppose and, if possible, replace the government, while warning that forming a durable government independent of any major party will be more difficult than simply toppling the existing one.
+
+Mody proposes that any Gujarat arrangement should be an action of the Swatantra Party as a whole and should receive the support of its national leadership. He is willing to accept outside support but cautions against commitments or fraternisation with other parties. The letter also stresses the need to repair communication between the state and central organisations, arguing that personal hostility and misunderstanding have undermined trust. These recommendations are presented as both a party strategy and a matter of national responsibility.
+
 ## Key points
 
 - Mody argues that the changed political context requires the Swatantra Party to reconsider its strategy in Gujarat.

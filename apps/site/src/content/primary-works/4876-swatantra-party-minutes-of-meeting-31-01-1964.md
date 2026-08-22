@@ -64,6 +64,12 @@ summary: |-
   The minutes present the Swatantra Party’s economic and constitutional alternative to Congress-era planning. They criticize the Five Year Plans for producing higher taxes, rising prices, and indebtedness, while rejecting both laissez-faire and indiscriminate planning. The proposed alternative emphasizes basic necessities, infrastructure, competitive enterprise, reduced government controls, monetary discipline, tax reform, and the elimination of monopoly. The final resolution opposes the Constitution (17th Amendment) Bill as an attack on fundamental rights, property ownership, judicial independence, and the rule of law, and calls for a public campaign and parliamentary resistance.
 ---
 
+## Summary
+
+These draft minutes record the adjourned meeting of the Swatantra Party’s Central Organising Committee, held at Madras Woodlands Hotel on 31 January 1964. The document lists attendees and records decisions about the timing of resolutions before the National Convention, cooperation with the Sarvodaya movement, Rajya Sabha nominations, and the replacement of a resigned committee member. It also sets out resolutions concerning an independent non-political board for licenses and permits and a sub-committee to review constitutional proposals.
+
+The minutes present the Swatantra Party’s economic and constitutional alternative to Congress-era planning. They criticize the Five Year Plans for producing higher taxes, rising prices, and indebtedness, while rejecting both laissez-faire and indiscriminate planning. The proposed alternative emphasizes basic necessities, infrastructure, competitive enterprise, reduced government controls, monetary discipline, tax reform, and the elimination of monopoly. The final resolution opposes the Constitution (17th Amendment) Bill as an attack on fundamental rights, property ownership, judicial independence, and the rule of law, and calls for a public campaign and parliamentary resistance.
+
 ## Key points
 
 - The Central Organising Committee met on 31 January 1964 at the Madras Woodlands Hotel, with Professor N. G. Ranga in the chair.

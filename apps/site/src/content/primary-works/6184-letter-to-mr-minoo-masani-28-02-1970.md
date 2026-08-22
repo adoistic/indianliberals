@@ -48,6 +48,10 @@ summary: |-
   This one-page English confirmatory copy of a telegram, dated February 28, 1970, records S. V. Raju’s proposal to Minoo Masani concerning a public meeting on railway matters. The message relays Koppiker’s suggestion that Masani address a meeting in the port area on the evening of the fifth and asks him to confirm whether the arrangement is convenient. Handwritten annotations on the copy also refer to a public meeting and railway matters.
 ---
 
+## Summary
+
+This one-page English confirmatory copy of a telegram, dated February 28, 1970, records S. V. Raju’s proposal to Minoo Masani concerning a public meeting on railway matters. The message relays Koppiker’s suggestion that Masani address a meeting in the port area on the evening of the fifth and asks him to confirm whether the arrangement is convenient. Handwritten annotations on the copy also refer to a public meeting and railway matters.
+
 ## Key points
 
 - The document is a typed confirmatory copy of a telegram dated February 28, 1970.

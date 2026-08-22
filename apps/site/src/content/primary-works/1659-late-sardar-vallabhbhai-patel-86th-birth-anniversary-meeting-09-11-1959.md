@@ -53,6 +53,12 @@ summary: |-
   The invitation names Sir H. P. Mody, Frank Moraes, M. A. Master, and Lobo-Prabhu as speakers. It states that the meeting would also address the situation created by threats to India’s frontiers and security. The second rendered page is the addressed envelope for Sir Homi Mody; no speeches, proceedings, or further discussion are included.
 ---
 
+## Summary
+
+This two-page English-language Swatantra Party invitation, issued from the party’s Bombay Office on November 6, 1959, announces a public meeting to commemorate the late Sardar Vallabhbhai Patel’s 86th birth anniversary. The meeting was scheduled for November 9, 1959, at Bharatiya Vidya Bhavan Hall, Chowpatty, under the presidency of K. M. Munshi.
+
+The invitation names Sir H. P. Mody, Frank Moraes, M. A. Master, and Lobo-Prabhu as speakers. It states that the meeting would also address the situation created by threats to India’s frontiers and security. The second rendered page is the addressed envelope for Sir Homi Mody; no speeches, proceedings, or further discussion are included.
+
 ## Key points
 
 - The Swatantra Party’s Bombay Office issued the invitation on November 6, 1959.

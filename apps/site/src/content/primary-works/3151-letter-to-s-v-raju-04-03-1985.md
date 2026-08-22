@@ -46,6 +46,10 @@ summary: |-
   This single-page letter, dated 4 March 1985 and written from Lucknow by Bhanu Pratap Singh to S. V. Raju in Bombay, responds to Raju's request for documents concerning the Swatantra Party. Singh explains that he had left the party before its merger into the B.K.D., after which the party's state office came under the control of H. K. Srivasta. He does not know what happened to the office or the papers kept there, but offers to answer Raju's specific questions after receiving them.
 ---
 
+## Summary
+
+This single-page letter, dated 4 March 1985 and written from Lucknow by Bhanu Pratap Singh to S. V. Raju in Bombay, responds to Raju's request for documents concerning the Swatantra Party. Singh explains that he had left the party before its merger into the B.K.D., after which the party's state office came under the control of H. K. Srivasta. He does not know what happened to the office or the papers kept there, but offers to answer Raju's specific questions after receiving them.
+
 ## Key points
 
 - The letter is dated 4 March 1985 and is addressed to S. V. Raju.

@@ -51,6 +51,12 @@ summary: |-
   The clipping presents Masani's resignation as a dispute over party responsibility, internal consultation, and the right of a senior party figure to criticise its leadership and policies. It also records his contention that the party needed stronger organisation and a clearer public stance, while noting that he remained willing to support the party's work. The page is a news report rather than a signed article; no reporter byline is visible.
 ---
 
+## Summary
+
+This one-page Indian Express clipping, dated 15 May 1968, reports Minoo Masani's decision to resign as Deputy Leader of the Swatantra Party in Parliament and from the party's executive. The report attributes the decision to a letter Masani sent to the party's General Secretary, M. R. Dandekar, following what it describes as the party's failure to accept his advice and his view that he should be free to explain his position publicly.
+
+The clipping presents Masani's resignation as a dispute over party responsibility, internal consultation, and the right of a senior party figure to criticise its leadership and policies. It also records his contention that the party needed stronger organisation and a clearer public stance, while noting that he remained willing to support the party's work. The page is a news report rather than a signed article; no reporter byline is visible.
+
 ## Key points
 
 - The clipping reports Minoo Masani's resignation as Swatantra Party Deputy Leader in Parliament.

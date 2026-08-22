@@ -49,6 +49,12 @@ summary: |-
   The second page is a receipt form acknowledging payment, but its handwritten entries are too faint to establish a reliable amount, payer, or account description. The apparent signatories or senders are recorded on the telegram as “HARSHAD MULRAJ AND MANKAD”; their identities and the exact reading of the names require verification.
 ---
 
+## Summary
+
+This two-page archival document is a telegram sent from Rajkot on 13 August 1963 to Minoo Masani at 9-C, Pandara Road, New Delhi. The message congratulates Masani on entering the Lok Sabha as Deputy Leader of the senders' party and conveys their best wishes. The telegram is addressed in the context of parliamentary party politics, although the party itself is not named.
+
+The second page is a receipt form acknowledging payment, but its handwritten entries are too faint to establish a reliable amount, payer, or account description. The apparent signatories or senders are recorded on the telegram as “HARSHAD MULRAJ AND MANKAD”; their identities and the exact reading of the names require verification.
+
 ## Key points
 
 - The document is an Indian Posts and Telegraphs Department telegram sent from Rajkot.

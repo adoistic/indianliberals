@@ -48,6 +48,12 @@ summary: |-
   Masani also refers to repeated correspondence about bills for jeeps formerly owned by the Swatantra Party, which the party sold in 1967. Although the relevant information had previously been communicated to the transport office, he says that he continues to receive the bills and asks that this recurring inconvenience cease. The letter includes the referenced bill as an enclosure.
 ---
 
+## Summary
+
+In this typed letter dated 18 February 1986, M. R. Masani replies to the Regional Transport Officer concerning Bill No. MRG-2347-860201 for Rs. 1,814.00. He states that the vehicle identified as MRG 2347 never belonged to him and is not in his possession, and therefore returns the bill because no payment is due from him.
+
+Masani also refers to repeated correspondence about bills for jeeps formerly owned by the Swatantra Party, which the party sold in 1967. Although the relevant information had previously been communicated to the transport office, he says that he continues to receive the bills and asks that this recurring inconvenience cease. The letter includes the referenced bill as an enclosure.
+
 ## Key points
 
 - The letter is dated 18 February 1986 and is addressed to the Regional Transport Officer, Old Bodyguard Lines, Bombay-34.

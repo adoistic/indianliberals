@@ -50,6 +50,12 @@ summary: |-
   Patel’s enclosed letter, dated June 6, 1964, gives his account of the same failures. He says that a copy of his speech was left at his home because no one collected it as promised, and that a book and letter intended for Acharya Chandra Sekhar Shastri were likewise not delivered. Patel further objects that copies of his speech were not sent to Bombay or Gujarati papers and that incorrect information about alleged fee arrears was conveyed to Minoo Masani and Professor Ranga. Both letters frame the issues as failures of office communication, follow-through, and financial record-keeping.
 ---
 
+## Summary
+
+This two-page correspondence from the Swatantra Party Parliamentary Office concerns delays and inaccuracies in handling Dahyabhai V. Patel’s parliamentary work. In a forwarding letter dated June 9, 1964, A.P. Jain reports that instructions to collect and circulate Patel’s speech opposing the 17th Amendment were not carried out promptly, that papers intended for Acharya Chandra Sekhar Shastri were not delivered, and that copies for Gujarati newspapers were sent late or not at all. Jain also raises a disputed Rs. 500 payment made to the Socialist Party during Rajya Sabha by-elections and asks that the matter be properly accounted for.
+
+Patel’s enclosed letter, dated June 6, 1964, gives his account of the same failures. He says that a copy of his speech was left at his home because no one collected it as promised, and that a book and letter intended for Acharya Chandra Sekhar Shastri were likewise not delivered. Patel further objects that copies of his speech were not sent to Bombay or Gujarati papers and that incorrect information about alleged fee arrears was conveyed to Minoo Masani and Professor Ranga. Both letters frame the issues as failures of office communication, follow-through, and financial record-keeping.
+
 ## Key points
 
 - A.P. Jain forwards Patel’s complaint from the Swatantra Party Parliamentary Office.

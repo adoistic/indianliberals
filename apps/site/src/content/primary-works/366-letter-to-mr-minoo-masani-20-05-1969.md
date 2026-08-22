@@ -50,6 +50,12 @@ summary: |-
   Jain also encloses a press clipping concerning the Jan Sangh’s attitude toward the Home Minister’s efforts to consult political parties about stopping extremist activities. He criticises the Jan Sangh for refusing to participate in these discussions, characterising this as having “again fallen into the communist trap.” The letter refers to an upcoming talk by Mr. Krishna and encloses a copy of Professor Ranga’s letter to Rajaji.
 ---
 
+## Summary
+
+This one-page letter, dated May 20, 1969, from New Delhi and signed by A. P. Jain, forwards a statement on divisions in the Lok Sabha since 1967–68. Jain explains that the statement could only cover events through August 21, 1968, because later debates had not yet been printed; he notes that information is also being collected on divisions in the Rajya Sabha.
+
+Jain also encloses a press clipping concerning the Jan Sangh’s attitude toward the Home Minister’s efforts to consult political parties about stopping extremist activities. He criticises the Jan Sangh for refusing to participate in these discussions, characterising this as having “again fallen into the communist trap.” The letter refers to an upcoming talk by Mr. Krishna and encloses a copy of Professor Ranga’s letter to Rajaji.
+
 ## Key points
 
 - A. P. Jain writes to Minoo Masani from New Delhi on May 20, 1969.

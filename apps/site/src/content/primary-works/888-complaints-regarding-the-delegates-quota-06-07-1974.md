@@ -53,6 +53,12 @@ summary: |-
   Mody also frames the quota question as part of a larger decision over whether the Swatantra Party should make common cause with other opposition parties to create a national alternative. He urges members to deliberate faithfully and honestly, accept the convention’s verdict, keep the party united, and avoid a split that would undermine the objective of a two-party system. The letter closes by warning against groupism and personalised politics, which he says cause members to surrender their individual conscience and intelligence.
 ---
 
+## Summary
+
+In this two-page letter dated July 6, 1974, Piloo Mody explains and defends the Swatantra Party’s proposed delegate quota for its forthcoming National Convention. He presents the convention as taking place at a critical moment for India and argues that limited hall capacity, the party’s growth from a cadre-based to a mass-based organisation, and the need for equal representation of individual members justify a maximum of 1,000 delegates, with each delegate representing the same number of votes. He rejects arrangements in which one delegate could speak for substantially more members than another.
+
+Mody also frames the quota question as part of a larger decision over whether the Swatantra Party should make common cause with other opposition parties to create a national alternative. He urges members to deliberate faithfully and honestly, accept the convention’s verdict, keep the party united, and avoid a split that would undermine the objective of a two-party system. The letter closes by warning against groupism and personalised politics, which he says cause members to surrender their individual conscience and intelligence.
+
 ## Key points
 
 - The letter responds to complaints about a delegate quota approved by the National Executive by a vote of 23 to 3.

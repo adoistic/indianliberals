@@ -44,6 +44,10 @@ summary: |-
   This untitled letter from M. R. Masani to Shri Kamakhya Narain Singh of Ramgarh is dated 24 July 1961. Masani reports that, after a full day’s effort, the credit discussed during Singh’s recent stay in Bombay now appears likely to be secured. He says he will be able to confirm this definitively when they meet in Madras.
 ---
 
+## Summary
+
+This untitled letter from M. R. Masani to Shri Kamakhya Narain Singh of Ramgarh is dated 24 July 1961. Masani reports that, after a full day’s effort, the credit discussed during Singh’s recent stay in Bombay now appears likely to be secured. He says he will be able to confirm this definitively when they meet in Madras.
+
 ## Key points
 
 - The letter is dated 24 July 1961.

@@ -49,6 +49,10 @@ summary: |-
   This undated-title English letter, written on Madurai District Swatantra Party letterhead and apparently dated 3 January 1977, is addressed to S. V. Raju. P. Ramachandran invites Raju to attend the Swatantra Party State Council meeting and the party’s fourth Madurai District Political Conference, scheduled for 8 and 9 January 1977. The letter asks Raju to participate in the functions and notes separate venues for the two events in Madurai.
 ---
 
+## Summary
+
+This undated-title English letter, written on Madurai District Swatantra Party letterhead and apparently dated 3 January 1977, is addressed to S. V. Raju. P. Ramachandran invites Raju to attend the Swatantra Party State Council meeting and the party’s fourth Madurai District Political Conference, scheduled for 8 and 9 January 1977. The letter asks Raju to participate in the functions and notes separate venues for the two events in Madurai.
+
 ## Key points
 
 - The letter is addressed to S. V. Raju and appears to be signed by P. Ramachandran.

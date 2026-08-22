@@ -60,6 +60,12 @@ summary: |-
   The later pages describe the Sub-Committee on Fundamental Rights and the disagreements within it over the scope and enforceability of rights. The members sought uniform Fundamental Rights for citizens and debated whether Directive Principles should be justiciable. K. T. Shah advocated an expansive programme including free education, public maintenance during illness and disability, abolition of proprietary rights, and enforceable Directive Principles, while others preferred to leave social policy to Parliament. The extract concludes with debate material on equality and titles, including the prohibition of titles from the Union and restrictions on accepting foreign honours.
 ---
 
+## Summary
+
+This extract, attributed to B. Shiva Rao, traces the Constituent Assembly’s work on minority safeguards and Fundamental Rights. The Advisory Committee, chaired by Sardar Vallabhbhai Patel, was designed to represent Muslims, Scheduled Castes, Sikhs, Anglo-Indians, Parsis, tribal communities, and Nepali settlers. Its subcommittees covered Fundamental Rights, minority protection, and tribal areas. The extract records the decision to abandon separate electorates, while retaining forms of political and administrative protection, including provisions for Anglo-Indian representation and special officers for minorities.
+
+The later pages describe the Sub-Committee on Fundamental Rights and the disagreements within it over the scope and enforceability of rights. The members sought uniform Fundamental Rights for citizens and debated whether Directive Principles should be justiciable. K. T. Shah advocated an expansive programme including free education, public maintenance during illness and disability, abolition of proprietary rights, and enforceable Directive Principles, while others preferred to leave social policy to Parliament. The extract concludes with debate material on equality and titles, including the prohibition of titles from the Union and restrictions on accepting foreign honours.
+
 ## Key points
 
 - The Advisory Committee appointed in January 1947 was intended to include representatives of major religious, caste, tribal, and minority communities.

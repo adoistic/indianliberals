@@ -50,6 +50,10 @@ summary: |-
   This one-page English-language extract, headed “For Memoirs,” presents Sir Frank Roberts’s warning to Germans at Königswinter not to be misled by what he calls Britain’s tendency toward self-denigration. Roberts supports his appeal with a sequence of historical quotations expressing British pessimism: William Pitt in 1806, Lord Shaftesbury in 1848, Disraeli in 1849, and the Duke of Wellington in 1842.
 ---
 
+## Summary
+
+This one-page English-language extract, headed “For Memoirs,” presents Sir Frank Roberts’s warning to Germans at Königswinter not to be misled by what he calls Britain’s tendency toward self-denigration. Roberts supports his appeal with a sequence of historical quotations expressing British pessimism: William Pitt in 1806, Lord Shaftesbury in 1848, Disraeli in 1849, and the Duke of Wellington in 1842.
+
 ## Key points
 
 - Sir Frank Roberts is identified as a former British ambassador to Bonn and as connected with the European activities of Unilever and Dunlop.

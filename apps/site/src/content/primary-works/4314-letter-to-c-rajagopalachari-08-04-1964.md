@@ -45,6 +45,10 @@ summary: |-
   In this letter dated 8 April 1964, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about Zulfikar Ali Bhutto’s statement proposing talks with Sheikh Abdullah. Masani regards Bhutto’s initiative as constructive and urges Rajagopalachari to welcome it publicly. He highlights Abdullah’s claim that he is the only leader acceptable to Kashmiris on both sides of the cease-fire line and that he could settle the Kashmir issue through consultation with Indian and Pakistani leaders.
 ---
 
+## Summary
+
+In this letter dated 8 April 1964, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about Zulfikar Ali Bhutto’s statement proposing talks with Sheikh Abdullah. Masani regards Bhutto’s initiative as constructive and urges Rajagopalachari to welcome it publicly. He highlights Abdullah’s claim that he is the only leader acceptable to Kashmiris on both sides of the cease-fire line and that he could settle the Kashmir issue through consultation with Indian and Pakistani leaders.
+
 ## Key points
 
 - The letter is dated 8 April 1964 and is addressed to C. Rajagopalachari.

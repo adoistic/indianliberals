@@ -53,6 +53,12 @@ summary: |-
   The minutes also establish speaking allocations for ministry-wise grant demands, limiting each member to opening the debate on one ministry while permitting a second intervention elsewhere. P. K. Deo was assigned to speak on Nath Pai’s Fundamental Rights Bill. The document records proposed speakers for Defence, Commerce, Home Affairs, Food and Agriculture, and Irrigation and Power, and nominates K. P. Singh Deo, J. M. Lobo Prabhu, and Dr. M. Santhosham for offices of profit, the Central Board of Education, and the All India Institute of Medical Sciences respectively. Finally, it directs that party-whip proposals on committee representation be submitted to the Executive Committee for ratification, with Y. G. Gowd asked to consult other parties’ whips and finalise the proposals.
 ---
 
+## Summary
+
+These two pages are the minutes of a meeting of the Swatantra Party Executive Committee in Parliament, held on June 9, 1967, and issued by the party’s Parliamentary Office in New Delhi on June 10. The record lists Professor N. G. Ranga as chair and nine members present. The committee discussed a proposed motion by Madhu Limaye on rotating Lok Sabha debates among groups demanding grants, and decided that the Swatantra Party should oppose it on the ground that, as the largest party, it was entitled to initiate discussion on each demand and other legislative measures. The secretaries were asked to approach the Minister for Parliamentary Affairs and the Speaker.
+
+The minutes also establish speaking allocations for ministry-wise grant demands, limiting each member to opening the debate on one ministry while permitting a second intervention elsewhere. P. K. Deo was assigned to speak on Nath Pai’s Fundamental Rights Bill. The document records proposed speakers for Defence, Commerce, Home Affairs, Food and Agriculture, and Irrigation and Power, and nominates K. P. Singh Deo, J. M. Lobo Prabhu, and Dr. M. Santhosham for offices of profit, the Central Board of Education, and the All India Institute of Medical Sciences respectively. Finally, it directs that party-whip proposals on committee representation be submitted to the Executive Committee for ratification, with Y. G. Gowd asked to consult other parties’ whips and finalise the proposals.
+
 ## Key points
 
 - The Executive Committee meeting was held in Parliament on June 9, 1967, under the chairmanship of Professor N. G. Ranga.
