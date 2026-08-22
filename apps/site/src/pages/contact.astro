@@ -48,7 +48,12 @@ const blurb = t(
     </div>
   </section>
 
-  <div class="mx-auto max-w-6xl px-6 py-12 grid lg:grid-cols-[minmax(0,34rem)_1fr] gap-12 lg:gap-16">
+  {/* grid-cols-[minmax(0,1fr)] at mobile, not the implicit `auto` track: a
+      grid item's automatic minimum size is its min-content, so the single
+      column sized itself to the widest thing in the form and the page ran 4px
+      past the viewport at 320px. The lg: template already guards its first
+      track the same way. */}
+  <div class="mx-auto max-w-6xl px-4 sm:px-6 py-12 grid grid-cols-[minmax(0,1fr)] lg:grid-cols-[minmax(0,34rem)_1fr] gap-12 lg:gap-16">
     <div>
       <h2 class="font-(family-name:--font-display) font-semibold text-xl text-(--color-fg) mb-1">
         Write to the editors

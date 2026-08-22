@@ -53,14 +53,20 @@ const KINDS = [
   data-page={page ?? ""}
   novalidate
 >
-  <div class="grid gap-5">
-    <fieldset class="grid gap-2">
+  <div class="grid grid-cols-[minmax(0,1fr)] gap-5 min-w-0">
+    {/* fieldset carries min-width:min-content from the UA stylesheet and will
+        not shrink without this. */}
+    <fieldset class="grid grid-cols-[minmax(0,1fr)] gap-2 min-w-0">
       <legend class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-1">
         What is this about
       </legend>
-      <div class="grid sm:grid-cols-2 gap-2">
+      {/* min-w-0 on the grid and on each option: a grid item's automatic
+          minimum size is its min-content, so without this the widest option
+          set the track width and the form pushed the page 4px sideways at
+          320px. */}
+      <div class="grid grid-cols-[minmax(0,1fr)] sm:grid-cols-2 gap-2 min-w-0">
         {KINDS.map((k, i) => (
-          <label class="flex gap-2.5 items-start p-3 rounded-md border border-(--color-border) bg-(--color-bg) cursor-pointer hover:border-(--color-fg) transition-colors has-[:checked]:border-(--color-saffron-500) has-[:checked]:bg-(--color-saffron-100)/40">
+          <label class="flex gap-2.5 items-start p-3 min-w-0 rounded-md border border-(--color-border) bg-(--color-bg) cursor-pointer hover:border-(--color-fg) transition-colors has-[:checked]:border-(--color-saffron-500) has-[:checked]:bg-(--color-saffron-100)/40">
             <input
               type="radio"
               name="kind"
@@ -68,7 +74,7 @@ const KINDS = [
               checked={i === 0}
               class="mt-1 accent-(--color-saffron-500)"
             />
-            <span>
+            <span class="min-w-0">
               <span class="block text-sm font-semibold text-(--color-fg)">{k.label}</span>
               {k.hint && <span class="block text-xs text-(--color-fg-muted) leading-snug mt-0.5">{k.hint}</span>}
             </span>
@@ -77,7 +83,7 @@ const KINDS = [
       </div>
     </fieldset>
 
-    <div class="grid sm:grid-cols-2 gap-4">
+    <div class="grid grid-cols-[minmax(0,1fr)] sm:grid-cols-2 gap-4">
       <label class="grid gap-1.5">
         <span class="text-xs uppercase tracking-widest text-(--color-fg-muted)">Your name</span>
         <input
@@ -85,7 +91,7 @@ const KINDS = [
           name="name"
           autocomplete="name"
           maxlength="120"
-          class="px-3 py-2.5 rounded-md border border-(--color-border) bg-(--color-bg) text-(--color-fg) text-sm focus:border-(--color-fg) outline-0 transition-colors"
+          class="w-full min-w-0 px-3 py-2.5 rounded-md border border-(--color-border) bg-(--color-bg) text-(--color-fg) text-sm focus:border-(--color-fg) outline-0 transition-colors"
         />
         <span class="text-xs text-(--color-fg-muted)">Optional.</span>
       </label>
@@ -97,7 +103,7 @@ const KINDS = [
           name="email"
           autocomplete="email"
           maxlength="200"
-          class="px-3 py-2.5 rounded-md border border-(--color-border) bg-(--color-bg) text-(--color-fg) text-sm focus:border-(--color-fg) outline-0 transition-colors"
+          class="w-full min-w-0 px-3 py-2.5 rounded-md border border-(--color-border) bg-(--color-bg) text-(--color-fg) text-sm focus:border-(--color-fg) outline-0 transition-colors"
         />
         <span class="text-xs text-(--color-fg-muted)">Only if you would like a reply.</span>
       </label>
@@ -110,7 +116,7 @@ const KINDS = [
         rows="7"
         required
         maxlength="5000"
-        class="px-3 py-2.5 rounded-md border border-(--color-border) bg-(--color-bg) text-(--color-fg) text-sm leading-relaxed focus:border-(--color-fg) outline-0 transition-colors"
+        class="w-full min-w-0 px-3 py-2.5 rounded-md border border-(--color-border) bg-(--color-bg) text-(--color-fg) text-sm leading-relaxed focus:border-(--color-fg) outline-0 transition-colors"
       ></textarea>
       <span class="text-xs text-(--color-fg-muted)" id="fb-count"></span>
     </label>
@@ -121,8 +127,12 @@ const KINDS = [
       <label>Do not fill this in<input type="text" name="website" tabindex="-1" autocomplete="off" /></label>
     </div>
 
+    {/* Turnstile renders a fixed 300px iframe we do not control. Below about
+        330px of viewport that is wider than the column, and it pushed the whole
+        page sideways. Let it scroll inside its own box instead — the widget
+        stays fully usable and the page stops moving. */}
     {sitekey && (
-      <div>
+      <div class="max-w-full overflow-x-auto">
         <div
           class="cf-turnstile"
           data-sitekey={sitekey}

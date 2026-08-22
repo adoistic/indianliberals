@@ -212,10 +212,17 @@ const groupActive = (g: NavGroup) => g.items.some((i) => isActive(i.href));
   {/* Tricolor rule: the flag, reduced to a hairline. */}
   <span class="block h-[3px] bg-gradient-to-r from-(--color-saffron-500) via-(--color-bg-muted) to-(--color-forest-500)" aria-hidden="true"></span>
   <div class="border-b border-(--color-border)">
-    <div class="mx-auto max-w-6xl px-6 py-4 flex items-center justify-between gap-4">
-      <a href="/" class="flex items-center gap-3 no-underline shrink-0" aria-label="Indian Liberals home">
+    {/* px-4 below sm: at 320px (an iPhone SE, or any phone with the browser
+        zoomed) the 24px gutters are 48px of the 320 available, and the bar
+        overflowed the viewport by 43px. */}
+    <div class="mx-auto max-w-6xl px-4 sm:px-6 py-4 flex items-center justify-between gap-3 sm:gap-4">
+      <a href="/" class="flex items-center gap-2 sm:gap-3 no-underline min-w-0" aria-label="Indian Liberals home">
         <img src="/brand/brand-mark-crane.png" alt="" class="h-9 w-9" width="36" height="36" />
-        <span class="font-(family-name:--font-display) font-semibold text-lg tracking-tight text-(--color-fg) whitespace-nowrap">
+        {/* `shrink-0` on the link plus `whitespace-nowrap` here made the
+            wordmark immovable: 174px of a 320px bar that nothing could
+            reclaim. It may now truncate, which only happens on the narrowest
+            screens and is better than pushing the page sideways. */}
+        <span class="font-(family-name:--font-display) font-semibold text-lg tracking-tight text-(--color-fg) truncate">
           {t(copy, "title", "Indian Liberals")}
         </span>
       </a>
@@ -290,7 +297,7 @@ const groupActive = (g: NavGroup) => g.items.some((i) => isActive(i.href));
         ))}
       </nav>
 
-      <div class="flex items-center gap-2">
+      <div class="flex items-center gap-2 shrink-0">
         <Search />
         {/* Mobile: full-width disclosure menu */}
         <button

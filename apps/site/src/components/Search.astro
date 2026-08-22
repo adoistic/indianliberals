@@ -47,13 +47,16 @@ const tipFallback = `Tip: search runs across all languages; results are tokenise
   id="search-trigger"
   aria-label={label}
   aria-haspopup="dialog"
-  class="group inline-flex items-center gap-2.5 px-4 py-2.5 lg:min-w-[17rem] lg:justify-start text-sm lg:text-[0.9375rem] font-(family-name:--font-ui) text-(--color-fg-muted) bg-(--color-bg-muted) border border-(--color-border) rounded-full hover:border-(--color-fg) hover:text-(--color-fg) focus-visible:border-(--color-fg) transition-colors"
+  class="group inline-flex items-center gap-2 sm:gap-2.5 px-3 sm:px-4 py-2.5 lg:min-w-[17rem] lg:justify-start text-sm lg:text-[0.9375rem] font-(family-name:--font-ui) text-(--color-fg-muted) bg-(--color-bg-muted) border border-(--color-border) rounded-full hover:border-(--color-fg) hover:text-(--color-fg) focus-visible:border-(--color-fg) transition-colors"
 >
   <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="shrink-0" aria-hidden="true">
     <circle cx="11" cy="11" r="7"></circle>
     <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
   </svg>
-  <span class="lg:hidden">Search</span>
+  {/* The word costs 40px next to an icon that already says it. Below sm the
+      header has 320px to fit a wordmark, this control and a menu button, so
+      the icon carries it there and the label returns at sm. */}
+  <span class="hidden sm:inline lg:hidden">Search</span>
   <span class="hidden lg:inline whitespace-nowrap">{uiLabel(labels, "search.label", "Search the archive")}</span>
   <kbd class="hidden lg:inline-block ml-auto px-1.5 py-0.5 text-[10px] bg-(--color-bg) border border-(--color-border) rounded font-(family-name:--font-mono)">
     /

@@ -39,7 +39,7 @@ const INDEX_URL = "https://archive.indianliberals.in/search/pagefind.js";
   description={t(copy, "description", "Search inside every digitised document in the archive: 1,455 works and 36,000+ pages of pamphlets, books and periodicals, across English, Marathi, Hindi, Gujarati and Bengali.")}
 >
   <section class="border-b border-(--color-border)">
-    <div class="mx-auto max-w-5xl px-6 py-16">
+    <div class="mx-auto max-w-5xl px-4 sm:px-6 py-16">
       <p class="text-xs uppercase tracking-widest text-(--color-saffron-700) font-(family-name:--font-ui) font-semibold mb-3">
         {t(copy, "eyebrow", "The archive")}
       </p>
@@ -50,7 +50,7 @@ const INDEX_URL = "https://archive.indianliberals.in/search/pagefind.js";
       />
 
       <form id="fts-form" class="mt-8 max-w-2xl" role="search" aria-label="Full-text search">
-        <div class="flex items-center gap-3 px-4 py-3 bg-(--color-bg) border border-(--color-border) rounded-lg focus-within:border-(--color-fg) transition-colors shadow-sm">
+        <div class="flex items-center gap-2 sm:gap-3 min-w-0 px-3 sm:px-4 py-3 bg-(--color-bg) border border-(--color-border) rounded-lg focus-within:border-(--color-fg) transition-colors shadow-sm">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-(--color-fg-muted) shrink-0" aria-hidden="true">
             <circle cx="11" cy="11" r="7"></circle>
             <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
@@ -63,7 +63,7 @@ const INDEX_URL = "https://archive.indianliberals.in/search/pagefind.js";
             autocomplete="off"
             autocapitalize="off"
             spellcheck="false"
-            class="flex-1 bg-transparent border-0 outline-0 text-base text-(--color-fg) placeholder:text-(--color-fg-muted) font-(family-name:--font-ui)"
+            class="flex-1 min-w-0 bg-transparent border-0 outline-0 text-base text-(--color-fg) placeholder:text-(--color-fg-muted) font-(family-name:--font-ui)"
           />
           <button type="submit" class="px-4 py-1.5 text-sm font-(family-name:--font-ui) font-semibold bg-(--color-fg) text-(--color-bg) rounded-md hover:opacity-85 transition-opacity">
             Search
@@ -92,7 +92,7 @@ const INDEX_URL = "https://archive.indianliberals.in/search/pagefind.js";
     </div>
   </section>
 
-  <div class="mx-auto max-w-6xl px-6 py-12 md:grid md:grid-cols-[220px_1fr] md:gap-10">
+  <div class="mx-auto max-w-6xl px-4 sm:px-6 py-12 md:grid md:grid-cols-[220px_1fr] md:gap-10">
     {/* Filter rail — same skeleton as /primary-works/, but the chips are
         rendered at runtime from pagefind.filters() counts. */}
     <aside
