@@ -3,7 +3,8 @@ id: 2568-swatantra-party-notice-agenda-01-11-1972
 title:
   main: "[Swatantra Party Notice & Agenda]"
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

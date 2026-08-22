@@ -3,7 +3,8 @@ id: 3498-office-bearers-and-members-of-national-executive
 title:
   main: "Office Bearers and Members of the National Executive"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

@@ -3,7 +3,7 @@ id: 5502-masani-not-quitting-17-06-1968
 title:
   main: "Masani not quitting"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

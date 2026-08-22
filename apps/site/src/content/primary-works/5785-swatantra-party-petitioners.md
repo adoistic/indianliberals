@@ -3,7 +3,8 @@ id: 5785-swatantra-party-petitioners
 title:
   main: "[Swatantra Party Petitioners]"
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: summary
 authors:
   - s-v-raju
 editors: []

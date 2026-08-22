@@ -3,7 +3,7 @@ id: 3092-sub-committee-of-three-members
 title:
   main: "[Sub-Committee of Three Members]"
   subtitle: ""
-work_type: essay
+work_type: programme
 work_type_source: summary
 authors: []
 editors: []

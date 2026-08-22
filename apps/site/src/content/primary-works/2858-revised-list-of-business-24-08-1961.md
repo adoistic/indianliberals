@@ -3,7 +3,8 @@ id: 2858-revised-list-of-business-24-08-1961
 title:
   main: "REVISED LIST OF BUSINESS"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

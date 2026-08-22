@@ -3,7 +3,8 @@ id: 5746-national-party-of-india-good-living-next-to-freedom-is-our-birth-right
 title:
   main: "Good living, next to freedom, is our birthright"
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 purpose: manifesto
 authors: []
 editors: []

@@ -3,7 +3,7 @@ id: 4135-jp-confers-with-pak-president-the-hindustan-times-15-12-1959
 title:
   main: "JP Confers With Pak President"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

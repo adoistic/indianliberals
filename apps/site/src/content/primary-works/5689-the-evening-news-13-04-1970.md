@@ -3,7 +3,7 @@ id: 5689-the-evening-news-13-04-1970
 title:
   main: "[The Evening News]"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

@@ -3,7 +3,8 @@ id: 1801-swatantra-party-notice-29-07-1959
 title:
   main: "NOTICE"
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

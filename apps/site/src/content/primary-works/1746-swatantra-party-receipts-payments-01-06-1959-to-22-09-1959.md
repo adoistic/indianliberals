@@ -3,7 +3,7 @@ id: 1746-swatantra-party-receipts-payments-01-06-1959-to-22-09-1959
 title:
   main: "RECEIPTS AND PAYMENTS ACCOUNT FROM 1.6.1959 TO 22.9.1959"
   subtitle: ""
-work_type: essay
+work_type: financial_record
 work_type_source: summary
 purpose: report
 authors: []

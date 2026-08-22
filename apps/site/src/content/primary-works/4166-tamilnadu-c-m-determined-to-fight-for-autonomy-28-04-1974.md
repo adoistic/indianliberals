@@ -3,7 +3,7 @@ id: 4166-tamilnadu-c-m-determined-to-fight-for-autonomy-28-04-1974
 title:
   main: "T. Nadu C.M. Determined to Fight for Autonomy"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

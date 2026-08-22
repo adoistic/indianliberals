@@ -3,7 +3,7 @@ id: 2542-meeting-of-organising-committee-09-10-1959
 title:
   main: "Organising Committee For Greater Bombay"
   subtitle: ""
-work_type: minutes
+work_type: report
 work_type_source: summary
 authors: []
 editors: []

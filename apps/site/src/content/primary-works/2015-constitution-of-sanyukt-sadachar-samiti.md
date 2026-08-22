@@ -3,7 +3,8 @@ id: 2015-constitution-of-sanyukt-sadachar-samiti
 title:
   main: "CONSTITUTION"
   subtitle: "of SANYUKT SADACHAR SAMITI"
-work_type: occasional_paper
+work_type: constitution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

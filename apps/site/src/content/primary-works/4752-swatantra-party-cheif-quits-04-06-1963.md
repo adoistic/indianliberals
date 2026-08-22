@@ -3,7 +3,7 @@ id: 4752-swatantra-party-cheif-quits-04-06-1963
 title:
   main: "SWATANTRA PARTY CHIEF QUITS"
   subtitle: "Gujarat Unit"
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

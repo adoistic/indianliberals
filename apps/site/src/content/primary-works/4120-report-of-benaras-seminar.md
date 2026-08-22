@@ -3,7 +3,7 @@ id: 4120-report-of-benaras-seminar
 title:
   main: "REPORT ON BENARES SEMINAR"
   subtitle: ""
-work_type: essay
+work_type: report
 work_type_source: summary
 purpose: report
 authors: []

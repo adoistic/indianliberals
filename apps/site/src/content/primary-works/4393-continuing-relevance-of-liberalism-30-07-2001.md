@@ -3,7 +3,7 @@ id: 4393-continuing-relevance-of-liberalism-30-07-2001
 title:
   main: "CONTINUING RELEVANCE OF LIBERALISM"
   subtitle: ""
-work_type: lecture
+work_type: programme
 work_type_source: summary
 authors: []
 editors: []

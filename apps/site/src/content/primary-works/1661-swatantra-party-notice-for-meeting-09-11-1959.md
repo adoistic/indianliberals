@@ -3,7 +3,8 @@ id: 1661-swatantra-party-notice-for-meeting-09-11-1959
 title:
   main: "NOTICE"
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 4826-in-the-high-court-of-judicature-at-bombay-petition-no-14-of-1995
 title:
   main: "Notice of Motion"
   subtitle: "in Writ Petition No. 14 of 1995"
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

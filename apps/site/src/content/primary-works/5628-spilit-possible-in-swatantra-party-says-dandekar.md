@@ -3,7 +3,7 @@ id: 5628-spilit-possible-in-swatantra-party-says-dandekar
 title:
   main: "[Spilit possible in swatantra Party says Dandekar]"
   subtitle: ""
-work_type: essay
+work_type: roster
 work_type_source: summary
 authors: []
 editors: []

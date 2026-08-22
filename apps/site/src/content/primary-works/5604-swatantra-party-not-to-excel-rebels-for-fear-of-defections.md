@@ -3,7 +3,7 @@ id: 5604-swatantra-party-not-to-excel-rebels-for-fear-of-defections
 title:
   main: "SWATANTRA PARTY NOT TO EXPEL REBELS FOR FEAR OF DEFECTIONS"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

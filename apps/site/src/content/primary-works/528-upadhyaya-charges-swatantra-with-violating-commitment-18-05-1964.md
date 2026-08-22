@@ -3,7 +3,7 @@ id: 528-upadhyaya-charges-swatantra-with-violating-commitment-18-05-1964
 title:
   main: "UPADHYAYA CHARGES SWATANTRA WITH VIOLATING COMMITMENT"
   subtitle: ""
-work_type: essay
+work_type: report
 work_type_source: summary
 purpose: position_paper
 authors: []

@@ -3,7 +3,8 @@ id: 6282-acknowledgement-sent-on-16-04-1971
 title:
   main: "[Acknowledgement sent on]"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

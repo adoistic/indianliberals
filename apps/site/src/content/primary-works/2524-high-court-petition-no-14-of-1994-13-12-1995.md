@@ -3,7 +3,8 @@ id: 2524-high-court-petition-no-14-of-1994-13-12-1995
 title:
   main: "Notice of Motion No. 1995 in Writ Petition No. 14 of 1995"
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

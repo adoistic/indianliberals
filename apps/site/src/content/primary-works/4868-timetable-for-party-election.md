@@ -3,7 +3,8 @@ id: 4868-timetable-for-party-election
 title:
   main: "[Timetable for party Election]"
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

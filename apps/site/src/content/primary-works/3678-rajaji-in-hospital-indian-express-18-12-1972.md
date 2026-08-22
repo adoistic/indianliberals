@@ -3,7 +3,8 @@ id: 3678-rajaji-in-hospital-indian-express-18-12-1972
 title:
   main: "Rajaji in hospital"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

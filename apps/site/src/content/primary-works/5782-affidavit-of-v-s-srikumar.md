@@ -3,7 +3,8 @@ id: 5782-affidavit-of-v-s-srikumar
 title:
   main: "AFFIDAVIT OF V. S. SRIKUMAR"
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

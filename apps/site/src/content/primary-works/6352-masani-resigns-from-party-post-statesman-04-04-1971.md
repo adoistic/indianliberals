@@ -3,7 +3,7 @@ id: 6352-masani-resigns-from-party-post-statesman-04-04-1971
 title:
   main: "Masani Resigns From Party Post"
   subtitle: ""
-work_type: essay
+work_type: report
 work_type_source: summary
 authors: []
 editors: []

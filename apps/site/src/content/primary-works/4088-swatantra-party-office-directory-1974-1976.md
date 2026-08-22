@@ -3,7 +3,8 @@ id: 4088-swatantra-party-office-directory-1974-1976
 title:
   main: "SWATANTRA PARTY OFFICE DIRECTORY"
   subtitle: "1974 - 1975"
-work_type: occasional_paper
+work_type: roster
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

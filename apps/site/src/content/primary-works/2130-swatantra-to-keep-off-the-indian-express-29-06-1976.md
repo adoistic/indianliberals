@@ -3,7 +3,7 @@ id: 2130-swatantra-to-keep-off-the-indian-express-29-06-1976
 title:
   main: "Swatantra to keep off"
   subtitle: ""
-work_type: essay
+work_type: report
 work_type_source: summary
 authors: []
 editors: []

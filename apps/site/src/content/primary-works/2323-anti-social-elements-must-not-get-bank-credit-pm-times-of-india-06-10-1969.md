@@ -3,7 +3,7 @@ id: 2323-anti-social-elements-must-not-get-bank-credit-pm-times-of-india-06-10-1
 title:
   main: "Anti-social elements must not get bank credit: PM"
   subtitle: ""
-work_type: essay
+work_type: report
 work_type_source: summary
 authors: []
 editors: []

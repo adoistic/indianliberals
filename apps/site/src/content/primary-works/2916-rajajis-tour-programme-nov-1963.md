@@ -3,7 +3,8 @@ id: 2916-rajajis-tour-programme-nov-1963
 title:
   main: "Rajaji's Tour Programme for November 63"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

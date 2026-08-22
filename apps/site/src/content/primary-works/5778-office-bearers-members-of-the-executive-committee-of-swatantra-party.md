@@ -3,7 +3,8 @@ id: 5778-office-bearers-members-of-the-executive-committee-of-swatantra-party
 title:
   main: "[Office Bearers & Members Of The Executive Committee Of Swatantra Party]"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 2578-swatantra-party-notice-agenda-13-11-1971
 title:
   main: "NOTICE."
   subtitle: "AGENDA."
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

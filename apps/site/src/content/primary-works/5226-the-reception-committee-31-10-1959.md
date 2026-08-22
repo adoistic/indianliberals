@@ -3,7 +3,8 @@ id: 5226-the-reception-committee-31-10-1959
 title:
   main: "Madras Dist. Swatantra Party Convention"
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

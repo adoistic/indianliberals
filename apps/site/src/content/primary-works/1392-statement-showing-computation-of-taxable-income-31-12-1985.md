@@ -3,7 +3,7 @@ id: 1392-statement-showing-computation-of-taxable-income-31-12-1985
 title:
   main: "STATEMENT SHOWING COMPUTATION OF TAXABLE INCOME"
   subtitle: ""
-work_type: essay
+work_type: financial_record
 work_type_source: summary
 authors:
   - s-v-raju

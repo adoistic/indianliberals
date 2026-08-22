@@ -3,7 +3,7 @@ id: 4905-meetings-of-president-and-secretaries-of-state-parties-07-04-1962
 title:
   main: "[Meetings of President and Secretaries of State parties]"
   subtitle: ""
-work_type: minutes
+work_type: office_record
 work_type_source: summary
 purpose: report
 authors: []

@@ -3,7 +3,8 @@ id: 2918-the-reformist
 title:
   main: "THE REFORMIST"
   subtitle: "Aims, Policies and Views of the New SOCIAL REFORM PARTY OF INDIA"
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 purpose: statement_of_principles
 authors: []
 editors: []

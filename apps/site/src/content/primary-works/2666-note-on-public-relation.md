@@ -3,7 +3,7 @@ id: 2666-note-on-public-relation
 title:
   main: "Note on Public Relations"
   subtitle: ""
-work_type: essay
+work_type: programme
 work_type_source: summary
 authors: []
 editors: []

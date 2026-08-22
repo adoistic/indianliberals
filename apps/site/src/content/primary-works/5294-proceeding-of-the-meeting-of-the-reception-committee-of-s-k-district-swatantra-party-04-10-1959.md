@@ -3,7 +3,8 @@ id: 5294-proceeding-of-the-meeting-of-the-reception-committee-of-s-k-district-sw
 title:
   main: "Proceedings of the meeting of the Reception Committee of S. K. District Swatantra Party Conference held on 4–10–1959."
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

@@ -3,7 +3,8 @@ id: 2545-meeting-of-organising-committee-24-09-1959
 title:
   main: "Organising Committee for Greater Bombay"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

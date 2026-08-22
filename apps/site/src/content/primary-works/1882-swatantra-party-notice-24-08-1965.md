@@ -3,7 +3,8 @@ id: 1882-swatantra-party-notice-24-08-1965
 title:
   main: "[Swatantra Party Notice]"
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

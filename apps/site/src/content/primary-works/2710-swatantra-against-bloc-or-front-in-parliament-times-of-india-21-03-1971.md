@@ -3,7 +3,8 @@ id: 2710-swatantra-against-bloc-or-front-in-parliament-times-of-india-21-03-1971
 title:
   main: "Swatantra against bloc or front in Parliament"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

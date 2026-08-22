@@ -3,7 +3,8 @@ id: 1407-invitation-to-a-meeting-to-choose-a-representative-people-committee-18-
 title:
   main: "INVITATION TO A MEETING TO CHOOSE A REPRESENTATIVE PEOPLES' COMMITTEE."
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,7 @@ id: 5640-gujarat-swatantra-nominee-loses-in-rajya-sabha-poll-29-03-1968
 title:
   main: "GUJARAT SWATANTRA NOMINEE LOSES IN RAJYA SABHA POLL"
   subtitle: ""
-work_type: resolution
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

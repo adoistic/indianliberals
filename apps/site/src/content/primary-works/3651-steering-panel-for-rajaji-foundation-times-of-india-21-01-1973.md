@@ -3,7 +3,8 @@ id: 3651-steering-panel-for-rajaji-foundation-times-of-india-21-01-1973
 title:
   main: "Steering panel for Rajaji foundation"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

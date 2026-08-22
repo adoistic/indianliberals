@@ -3,7 +3,8 @@ id: 3478-central-parliamentary-board-appointed-by-national-executive-20-12-1969
 title:
   main: "CENTRAL PARLIAMENTARY BOARD APPOINTED BY THE NATIONAL EXECUTIVE OF THE SWATANTRA PARTY"
   subtitle: "ON 29TH DECEMBER, 1969"
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

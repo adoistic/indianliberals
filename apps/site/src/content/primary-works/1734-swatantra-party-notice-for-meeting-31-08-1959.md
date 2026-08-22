@@ -3,7 +3,8 @@ id: 1734-swatantra-party-notice-for-meeting-31-08-1959
 title:
   main: "NOTICE"
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

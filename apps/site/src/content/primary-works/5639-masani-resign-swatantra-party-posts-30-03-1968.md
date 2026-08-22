@@ -3,7 +3,7 @@ id: 5639-masani-resign-swatantra-party-posts-30-03-1968
 title:
   main: "Relief for Orissa Cyclone Victims"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

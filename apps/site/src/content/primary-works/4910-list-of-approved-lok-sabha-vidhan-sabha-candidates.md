@@ -3,7 +3,8 @@ id: 4910-list-of-approved-lok-sabha-vidhan-sabha-candidates
 title:
   main: "LIST OF APPROVED LOK SABHA-VIDHAN SABHA CANDIDATES - MYSORE"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

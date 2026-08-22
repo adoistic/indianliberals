@@ -3,7 +3,8 @@ id: 1839-swatantra-party-rajasthan-constituency
 title:
   main: "[Swatantra Party Rajasthan Constituency]"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

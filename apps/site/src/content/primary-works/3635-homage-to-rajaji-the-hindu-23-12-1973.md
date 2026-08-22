@@ -3,7 +3,7 @@ id: 3635-homage-to-rajaji-the-hindu-23-12-1973
 title:
   main: "[Homage To Rajaji-The Hindu]"
   subtitle: ""
-work_type: minutes
+work_type: report
 work_type_source: summary
 purpose: report
 authors: []

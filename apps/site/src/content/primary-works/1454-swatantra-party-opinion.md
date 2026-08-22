@@ -3,7 +3,8 @@ id: 1454-swatantra-party-opinion
 title:
   main: "OPINION"
   subtitle: ""
-work_type: occasional_paper
+work_type: constitution
+work_type_source: summary
 purpose: position_paper
 authors: []
 editors: []

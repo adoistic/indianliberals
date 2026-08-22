@@ -3,7 +3,8 @@ id: 4844-notes-of-disscussion-of-first-meeting-of-joint-secretaries
 title:
   main: "Notes of Discussion of First Meeting of Joint Secretaries"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 3506-the-foreign-correspondents-association-of-india
 title:
   main: "LIST OF MEMBERS, FEBRUARY, 1960"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

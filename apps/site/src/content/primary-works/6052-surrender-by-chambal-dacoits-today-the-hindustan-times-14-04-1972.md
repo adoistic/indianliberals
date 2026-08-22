@@ -3,7 +3,8 @@ id: 6052-surrender-by-chambal-dacoits-today-the-hindustan-times-14-04-1972
 title:
   main: "Surrender by Chambal dacoits today"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

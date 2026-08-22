@@ -3,7 +3,8 @@ id: 3492-list-of-office-bearers-and-members-1967-69
 title:
   main: "List of Office-Bearers and Members of the Executive Committee of the Uttar Pradesh Swatantra Party"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

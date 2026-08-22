@@ -3,7 +3,8 @@ id: 5132-meeting-of-the-executive-committee-03-04-1969
 title:
   main: "Copy of the proceedings of the meeting of the executive committee of the Kurnool Dt. Swatantra party held at Kurnool on 3.4.68."
   subtitle: ""
-work_type: occasional_paper
+work_type: report
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

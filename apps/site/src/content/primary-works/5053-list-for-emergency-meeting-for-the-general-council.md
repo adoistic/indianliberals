@@ -3,7 +3,8 @@ id: 5053-list-for-emergency-meeting-for-the-general-council
 title:
   main: "[List for Emergency Meeting for the General Council]"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -331,6 +331,23 @@ const primaryWorks = defineCollection({
       'circular', // party circular or notice sent to members
       'resolution', // a resolution as adopted, issued as its own document
       'press_note', // press note / statement to the press
+      // A second archival tranche, added 2026-08-22. The Swatantra papers are
+      // an office archive, and 468 works had no honest home in the values
+      // above: the model filed them all as `occasional_paper`, which is the
+      // schema's least specific print type and carries no information. These
+      // are the forms that actually occur, counted from the corpus rather than
+      // imagined. See docs/2026-08-22-archival-work-types.md.
+      'notice', // a posted or circulated announcement
+      'programme', // event programme, invitation, agenda, itinerary
+      'report', // a report, synopsis or written proceedings
+      'roster', // list, register or directory of people or units
+      'constitution', // a party or society constitution, rules, bye-laws
+      'agreement', // coalition arrangement, memorandum of understanding
+      'legal_filing', // affidavit, plaint, petition, writ, judgment
+      'financial_record', // receipt, bill, accounts, subscription record
+      'form', // a blank form awaiting completion
+      'press_clipping', // a cutting from a newspaper or magazine
+      'office_record', // internal working paper: memo, checklist, aide-memoire
     ]),
     // Optional sub-type qualifier. See `purposeEnum` definition in schemas/extraction.ts.
     purpose: purposeEnum.optional(),

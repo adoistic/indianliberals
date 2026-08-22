@@ -3,7 +3,7 @@ id: 157-report-on-kashmir-by-minoo-masani
 title:
   main: "REPORT ON KASHMIR"
   subtitle: ""
-work_type: essay
+work_type: report
 work_type_source: summary
 purpose: position_paper
 authors: []

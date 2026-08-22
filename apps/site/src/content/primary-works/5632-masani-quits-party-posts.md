@@ -3,7 +3,8 @@ id: 5632-masani-quits-party-posts
 title:
   main: "Masani quits Swatantra party posts"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 4825-swatantra-party-petition-in-high-court
 title:
   main: "[Swatantra party petition in High Court]"
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

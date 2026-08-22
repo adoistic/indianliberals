@@ -3,7 +3,8 @@ id: 5670-defence-and-internal-security-of-india-02-07-1976
 title:
   main: "[Defence and internal Security of India]"
   subtitle: ""
-work_type: occasional_paper
+work_type: report
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

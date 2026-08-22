@@ -3,7 +3,7 @@ id: 1596-swatantra-party-fifth-national-convention-06-10-1968
 title:
   main: "General Secretary’s Report"
   subtitle: ""
-work_type: essay
+work_type: report
 work_type_source: summary
 purpose: report
 authors: []

@@ -3,7 +3,8 @@ id: 5572-swatantra-decision
 title:
   main: "SWATANTRA DECISIONS"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

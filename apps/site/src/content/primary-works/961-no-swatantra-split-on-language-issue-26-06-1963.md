@@ -3,7 +3,7 @@ id: 961-no-swatantra-split-on-language-issue-26-06-1963
 title:
   main: "No Swatantra split on language issue"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

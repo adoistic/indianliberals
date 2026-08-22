@@ -3,7 +3,8 @@ id: 2012-a-meeting-of-the-executive-committee-of-the-swatantra-party-10-03-1964
 title:
   main: "[A Meeting of the Executive-Committee of the Swatantra Party]"
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

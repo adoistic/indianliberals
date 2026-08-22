@@ -3,7 +3,7 @@ id: 6053-chambal-cheers-as-dacoits-surrender-15-04-1972
 title:
   main: "Chambal cheers as dacoits surrender"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

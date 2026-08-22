@@ -3,7 +3,8 @@ id: 4164-in-the-high-court-of-judicature-at-rajasthan-1996
 title:
   main: "KARPOOR CHANDRA KULISH Versus UNION OF INDIA"
   subtitle: "S.B. CIVIL WRIT PETITION UNDER ARTICLE 226 OF THE CONSTITUTION OF INDIA."
-work_type: occasional_paper
+work_type: constitution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

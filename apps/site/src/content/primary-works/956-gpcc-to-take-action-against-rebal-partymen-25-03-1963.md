@@ -3,7 +3,7 @@ id: 956-gpcc-to-take-action-against-rebal-partymen-25-03-1963
 title:
   main: "GPCC to take action against rebel partymen"
   subtitle: ""
-work_type: essay
+work_type: report
 work_type_source: summary
 authors: []
 editors: []

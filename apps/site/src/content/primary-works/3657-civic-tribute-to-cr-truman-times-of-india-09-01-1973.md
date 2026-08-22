@@ -3,7 +3,7 @@ id: 3657-civic-tribute-to-cr-truman-times-of-india-09-01-1973
 title:
   main: "Civic tribute to C.R. Truman"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

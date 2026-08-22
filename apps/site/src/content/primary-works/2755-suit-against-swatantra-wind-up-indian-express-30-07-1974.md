@@ -3,7 +3,7 @@ id: 2755-suit-against-swatantra-wind-up-indian-express-30-07-1974
 title:
   main: "Suit against Swat. wind-up"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 purpose: position_paper
 authors: []

@@ -3,7 +3,8 @@ id: 2592-swatantra-party-notice-23-10-1971
 title:
   main: "NOTICE"
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

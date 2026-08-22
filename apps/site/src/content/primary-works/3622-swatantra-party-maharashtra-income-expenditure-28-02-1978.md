@@ -3,7 +3,7 @@ id: 3622-swatantra-party-maharashtra-income-expenditure-28-02-1978
 title:
   main: "INCOME & EXPENDITURE ACCOUNT FOR THE PERIOD SEPTEMBER 1976 TO 28TH FEBRUARY 1978"
   subtitle: ""
-work_type: essay
+work_type: financial_record
 work_type_source: summary
 purpose: report
 authors: []

@@ -3,7 +3,7 @@ id: 3526-swatantra-party-accepts-congress-programme-hindu-10-01-1971
 title:
   main: "Swatantra Party Accepts Cong. (O) Programme"
   subtitle: ""
-work_type: resolution
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

@@ -3,7 +3,8 @@ id: 3477-the-democratic-front-pladges-03-01-1971
 title:
   main: "[The Democratic Front Pladges]"
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 purpose: manifesto
 authors: []
 editors: []

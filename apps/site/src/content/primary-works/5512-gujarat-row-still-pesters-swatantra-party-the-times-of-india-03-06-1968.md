@@ -3,7 +3,8 @@ id: 5512-gujarat-row-still-pesters-swatantra-party-the-times-of-india-03-06-1968
 title:
   main: "Gujarat row still pesters Swatantra Party"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

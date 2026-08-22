@@ -3,7 +3,8 @@ id: 2283-in-the-bombay-city-civil-court-at-bombay
 title:
   main: "[In The Bombay City Civil Court At Bombay]"
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

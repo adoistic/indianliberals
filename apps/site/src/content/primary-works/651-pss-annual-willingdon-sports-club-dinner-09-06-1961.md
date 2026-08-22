@@ -3,7 +3,8 @@ id: 651-pss-annual-willingdon-sports-club-dinner-09-06-1961
 title:
   main: "[PSS-Annual Willingdon Sports Club Dinner]"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

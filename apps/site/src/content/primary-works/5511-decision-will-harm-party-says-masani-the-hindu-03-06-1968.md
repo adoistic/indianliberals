@@ -3,7 +3,8 @@ id: 5511-decision-will-harm-party-says-masani-the-hindu-03-06-1968
 title:
   main: "Decisions Will Harm Party, Says Masani"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

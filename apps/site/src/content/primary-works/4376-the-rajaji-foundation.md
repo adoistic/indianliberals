@@ -3,7 +3,7 @@ id: 4376-the-rajaji-foundation
 title:
   main: "[The Rajaji Foundation]"
   subtitle: ""
-work_type: press_note
+work_type: notice
 work_type_source: summary
 authors: []
 editors: []

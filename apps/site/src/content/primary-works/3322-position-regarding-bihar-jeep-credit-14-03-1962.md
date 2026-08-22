@@ -3,7 +3,7 @@ id: 3322-position-regarding-bihar-jeep-credit-14-03-1962
 title:
   main: "NOTE ON POSITION REGARDING BIHAR JEEP CREDIT."
   subtitle: ""
-work_type: essay
+work_type: office_record
 work_type_source: summary
 purpose: position_paper
 authors: []

@@ -3,7 +3,8 @@ id: 1885-swatantra-party-notice-19-08-1965
 title:
   main: "WHIP"
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

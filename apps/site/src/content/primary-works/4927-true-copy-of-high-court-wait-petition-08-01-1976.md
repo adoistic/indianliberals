@@ -3,7 +3,8 @@ id: 4927-true-copy-of-high-court-wait-petition-08-01-1976
 title:
   main: "A TRUE COPY OF THE HIGH COURT WRIT PETITION ON CONDITIONS OF DETENTION OF SMT. MRINAL GORE M.L.A."
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

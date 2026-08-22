@@ -3,7 +3,7 @@ id: 3623-swatantra-party-maharashtra-income-expenditure-31-01-1979
 title:
   main: "INCOME & EXPENDITURE ACCOUNT FOR THE PERIOD MARCH 1, 1978 TO 31ST JANUARY 1979"
   subtitle: "BALANCE SHEET AS AT 31.1.1979"
-work_type: essay
+work_type: financial_record
 work_type_source: summary
 purpose: annual_report
 authors: []

@@ -3,7 +3,8 @@ id: 5766-agenda-for-the-meeting-on-12th-points
 title:
   main: "Agenda for the meeting on 12th"
   subtitle: "Points"
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

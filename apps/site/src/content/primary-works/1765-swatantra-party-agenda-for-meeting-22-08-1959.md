@@ -3,7 +3,8 @@ id: 1765-swatantra-party-agenda-for-meeting-22-08-1959
 title:
   main: "Agenda for the Meeting of the Committee at Bombay on the 22nd August 1959."
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

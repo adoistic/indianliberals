@@ -3,7 +3,7 @@ id: 3312-swatantra-party-cash-memo
 title:
   main: "MEMO"
   subtitle: ""
-work_type: letter
+work_type: office_record
 work_type_source: summary
 authors: []
 editors: []

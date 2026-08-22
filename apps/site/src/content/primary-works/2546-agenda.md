@@ -3,7 +3,7 @@ id: 2546-agenda
 title:
   main: "AGENDA"
   subtitle: ""
-work_type: minutes
+work_type: programme
 work_type_source: summary
 authors: []
 editors: []

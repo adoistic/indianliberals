@@ -3,7 +3,8 @@ id: 3837-a-hotel-recommendation-of-a-prospective-parliament
 title:
   main: "A MODEL RECOMMENDATION OF A PROSPECTIVE PARLIAMENTARY CANDIDATURE"
   subtitle: ""
-work_type: occasional_paper
+work_type: report
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

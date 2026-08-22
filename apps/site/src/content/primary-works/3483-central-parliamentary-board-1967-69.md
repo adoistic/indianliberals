@@ -3,7 +3,8 @@ id: 3483-central-parliamentary-board-1967-69
 title:
   main: "CENTRAL PARLIAMENTARY BOARD"
   subtitle: "1967 - 69"
-work_type: occasional_paper
+work_type: roster
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

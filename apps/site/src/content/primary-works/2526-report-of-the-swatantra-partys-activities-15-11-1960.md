@@ -3,7 +3,7 @@ id: 2526-report-of-the-swatantra-partys-activities-15-11-1960
 title:
   main: "REPORT OF THE SWATANTRA PARTY'S ACTIVITIES FROM 15th NOVEMBER 1960 TO 5th JANUARY 1961."
   subtitle: ""
-work_type: essay
+work_type: report
 work_type_source: summary
 purpose: report
 authors: []

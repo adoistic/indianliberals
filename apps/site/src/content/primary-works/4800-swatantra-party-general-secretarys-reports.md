@@ -3,7 +3,7 @@ id: 4800-swatantra-party-general-secretarys-reports
 title:
   main: "General Secretary’s Report"
   subtitle: ""
-work_type: essay
+work_type: report
 work_type_source: summary
 purpose: report
 authors: []

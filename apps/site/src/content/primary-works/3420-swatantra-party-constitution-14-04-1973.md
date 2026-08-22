@@ -3,7 +3,8 @@ id: 3420-swatantra-party-constitution-14-04-1973
 title:
   main: "CONSTITUTION"
   subtitle: ""
-work_type: occasional_paper
+work_type: constitution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

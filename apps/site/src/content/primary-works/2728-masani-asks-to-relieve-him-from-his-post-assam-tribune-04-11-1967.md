@@ -3,7 +3,8 @@ id: 2728-masani-asks-to-relieve-him-from-his-post-assam-tribune-04-11-1967
 title:
   main: "Masani Asks To Relieve Him From His Post"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

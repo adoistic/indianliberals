@@ -3,7 +3,8 @@ id: 6110-mrms-itinerary-for-europe-visit-june-1970
 title:
   main: "MRM's Itinerary for Europe Visit - June 1970"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

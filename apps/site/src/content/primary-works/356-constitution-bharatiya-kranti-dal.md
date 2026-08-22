@@ -3,7 +3,8 @@ id: 356-constitution-bharatiya-kranti-dal
 title:
   main: "CONSTITUTION"
   subtitle: ""
-work_type: occasional_paper
+work_type: constitution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

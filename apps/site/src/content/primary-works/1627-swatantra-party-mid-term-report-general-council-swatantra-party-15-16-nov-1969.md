@@ -3,7 +3,7 @@ id: 1627-swatantra-party-mid-term-report-general-council-swatantra-party-15-16-n
 title:
   main: "MID-TERM REPORT"
   subtitle: ""
-work_type: essay
+work_type: report
 work_type_source: summary
 purpose: report
 authors: []

@@ -3,7 +3,8 @@ id: 2365-traffic-offence-notice-to-mr-minoo-masani
 title:
   main: "TRAFFIC OFFENCE NOTICE"
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

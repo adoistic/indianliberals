@@ -3,7 +3,8 @@ id: 3263-draft-items-for-agenda-of-general-council-of-meetings
 title:
   main: "Draft item for Agenda of C.O.C. and General Council Meetings"
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

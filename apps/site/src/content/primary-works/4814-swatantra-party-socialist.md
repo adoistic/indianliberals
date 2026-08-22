@@ -3,7 +3,8 @@ id: 4814-swatantra-party-socialist
 title:
   main: "Socialist"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

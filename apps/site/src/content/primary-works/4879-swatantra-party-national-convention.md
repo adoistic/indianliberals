@@ -3,7 +3,8 @@ id: 4879-swatantra-party-national-convention
 title:
   main: "Draft Amendments to the Constitution Recommended by the General Council of the Party"
   subtitle: ""
-work_type: occasional_paper
+work_type: constitution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

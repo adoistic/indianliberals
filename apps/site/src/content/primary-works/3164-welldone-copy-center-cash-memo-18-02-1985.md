@@ -3,7 +3,8 @@ id: 3164-welldone-copy-center-cash-memo-18-02-1985
 title:
   main: "[Welldone Copy Center Cash Memo]"
   subtitle: ""
-work_type: occasional_paper
+work_type: financial_record
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

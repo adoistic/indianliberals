@@ -3,7 +3,8 @@ id: 5528-transalation-of-report-in-the-jan-satta-20-05-1968
 title:
   main: "Translation of report in The JAN SATTA, Ahmedabad, 26.5.68"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

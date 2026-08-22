@@ -3,7 +3,8 @@ id: 2164-receipt-of-donation-no-107-29-03-1975
 title:
   main: "[Receipt of Donation No-107]"
   subtitle: ""
-work_type: occasional_paper
+work_type: financial_record
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

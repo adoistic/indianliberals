@@ -3,7 +3,7 @@ id: 4673-copy-of-the-report-of-the-committee
 title:
   main: "COPY OF THE REPORT OF THE COMMITTEE"
   subtitle: ""
-work_type: essay
+work_type: report
 work_type_source: summary
 purpose: report
 authors: []

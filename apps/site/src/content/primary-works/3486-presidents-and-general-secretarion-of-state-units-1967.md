@@ -3,7 +3,8 @@ id: 3486-presidents-and-general-secretarion-of-state-units-1967
 title:
   main: "Presidents and General Secretaries of State Units elected by the State Council in 1967."
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

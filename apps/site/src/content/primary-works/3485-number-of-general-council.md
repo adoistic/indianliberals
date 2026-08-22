@@ -3,7 +3,8 @@ id: 3485-number-of-general-council
 title:
   main: "MEMBERS OF THE GENERAL COUNCIL"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

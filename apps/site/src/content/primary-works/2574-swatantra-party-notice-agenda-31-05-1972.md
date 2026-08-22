@@ -3,7 +3,8 @@ id: 2574-swatantra-party-notice-agenda-31-05-1972
 title:
   main: "NOTICE"
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

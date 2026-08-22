@@ -3,7 +3,8 @@ id: 638-the-role-of-taxation-in-planned-economy-31-05-1962
 title:
   main: "THE ROLE OF TAXATION IN PLANNED ECONOMY"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 purpose: working_paper
 authors: []
 editors: []

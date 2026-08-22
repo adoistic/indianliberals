@@ -3,7 +3,8 @@ id: 3910-swatantra-party-central-parliamentary-board-1967-69
 title:
   main: "SWATANTRA PARTY\nCENTRAL PARLIAMENTARY BOARD\n1967 - 69"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

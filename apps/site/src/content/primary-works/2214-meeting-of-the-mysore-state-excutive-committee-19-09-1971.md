@@ -3,7 +3,8 @@ id: 2214-meeting-of-the-mysore-state-excutive-committee-19-09-1971
 title:
   main: "[Meeting of the Mysore State Excutive Committee]"
   subtitle: ""
-work_type: occasional_paper
+work_type: report
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

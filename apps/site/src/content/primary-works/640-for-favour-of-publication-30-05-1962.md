@@ -3,7 +3,8 @@ id: 640-for-favour-of-publication-30-05-1962
 title:
   main: "For Favour of Publication"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors:
   - minoo-masani
 editors: []

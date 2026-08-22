@@ -3,7 +3,7 @@ id: 2778-business-advisory-panel-formed-indian-express-01-05-1962
 title:
   main: "Business Advisory Panel Formed"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

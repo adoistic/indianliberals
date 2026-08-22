@@ -3,7 +3,8 @@ id: 1300-notice-of-amendments-to-bills-12-02-1968
 title:
   main: "Notice of Amendments to Bills."
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

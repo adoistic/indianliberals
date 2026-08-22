@@ -3,7 +3,8 @@ id: 3497-list-of-newspaper-and-periodicals
 title:
   main: "[List of Newspaper and Periodicals]"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

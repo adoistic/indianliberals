@@ -3,7 +3,8 @@ id: 367-jan-sangh-talks-next-week-on-party-orisis-times-of-india-10-09-1969
 title:
   main: "Jana Sangh tells next week on party crisis"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

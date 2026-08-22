@@ -3,7 +3,7 @@ id: 2637-india-under-an-unesco-exchange-program
 title:
   main: "[India Under An UNESCO Exchange Program]"
   subtitle: ""
-work_type: essay
+work_type: report
 work_type_source: summary
 purpose: report
 authors: []

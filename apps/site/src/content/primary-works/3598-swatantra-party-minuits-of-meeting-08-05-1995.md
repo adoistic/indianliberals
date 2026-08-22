@@ -3,7 +3,8 @@ id: 3598-swatantra-party-minuits-of-meeting-08-05-1995
 title:
   main: "Minutes of the Meeting of the Executive Committee of the Swatantra Party Maharashtra held on May 8th, 1995 in the party office at 143, Mahatma Gandhi Road, Bombay 400 023."
   subtitle: ""
-work_type: occasional_paper
+work_type: report
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

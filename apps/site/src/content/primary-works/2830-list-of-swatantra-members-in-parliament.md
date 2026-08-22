@@ -3,7 +3,8 @@ id: 2830-list-of-swatantra-members-in-parliament
 title:
   main: "List of Swatantra Members in Parliament"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

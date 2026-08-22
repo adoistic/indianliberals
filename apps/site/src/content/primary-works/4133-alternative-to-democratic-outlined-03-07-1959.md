@@ -3,7 +3,7 @@ id: 4133-alternative-to-democratic-outlined-03-07-1959
 title:
   main: "Alternative To Democracy Outlined"
   subtitle: ""
-work_type: essay
+work_type: report
 work_type_source: summary
 authors: []
 editors: []

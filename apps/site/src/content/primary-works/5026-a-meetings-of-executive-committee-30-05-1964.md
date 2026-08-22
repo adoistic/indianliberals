@@ -3,7 +3,8 @@ id: 5026-a-meetings-of-executive-committee-30-05-1964
 title:
   main: "[A Meetings of Executive Committee]"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

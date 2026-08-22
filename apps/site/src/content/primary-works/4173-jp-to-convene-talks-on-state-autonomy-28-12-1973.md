@@ -3,7 +3,8 @@ id: 4173-jp-to-convene-talks-on-state-autonomy-28-12-1973
 title:
   main: "JP to convene talks on state autonomy"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

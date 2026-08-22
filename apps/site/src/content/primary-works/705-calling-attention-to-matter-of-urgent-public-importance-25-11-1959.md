@@ -3,7 +3,8 @@ id: 705-calling-attention-to-matter-of-urgent-public-importance-25-11-1959
 title:
   main: "CALLING ATTENTION TO MATTER OF URGENT PUBLIC IMPORTANCE"
   subtitle: "LAWLESSNESS AND INSECURITY IN DELHI"
-work_type: occasional_paper
+work_type: report
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

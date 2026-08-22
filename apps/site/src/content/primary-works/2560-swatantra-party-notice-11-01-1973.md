@@ -3,7 +3,8 @@ id: 2560-swatantra-party-notice-11-01-1973
 title:
   main: "notice."
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

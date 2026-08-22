@@ -3,7 +3,8 @@ id: 4162-in-the-high-court-of-judicature-at-bombay
 title:
   main: "[In the High Court of judicature at Bombay]"
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

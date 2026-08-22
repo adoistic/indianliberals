@@ -3,7 +3,7 @@ id: 6345-pheruman-group-wants-sant-to-quit-politics-times-of-india-10-04-1971
 title:
   main: "Pheruman group wants Sant to quit politics"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

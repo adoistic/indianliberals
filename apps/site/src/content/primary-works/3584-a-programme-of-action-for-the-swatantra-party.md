@@ -3,7 +3,8 @@ id: 3584-a-programme-of-action-for-the-swatantra-party
 title:
   main: "A PROGRAMME OF ACTION FOR THE SWATANTRA PARTY"
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 purpose: working_paper
 authors: []
 editors: []

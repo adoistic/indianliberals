@@ -3,7 +3,7 @@ id: 4101-swatantra-party-notice-09-02-1971
 title:
   main: "[Swatantra party notice]"
   subtitle: ""
-work_type: minutes
+work_type: office_record
 work_type_source: summary
 authors: []
 editors: []

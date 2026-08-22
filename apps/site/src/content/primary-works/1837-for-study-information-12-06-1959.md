@@ -3,7 +3,7 @@ id: 1837-for-study-information-12-06-1959
 title:
   main: "For Study and Information"
   subtitle: "Socialism"
-work_type: essay
+work_type: office_record
 work_type_source: summary
 purpose: working_paper
 authors: []

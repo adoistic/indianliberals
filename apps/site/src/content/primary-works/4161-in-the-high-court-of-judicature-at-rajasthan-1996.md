@@ -3,7 +3,8 @@ id: 4161-in-the-high-court-of-judicature-at-rajasthan-1996
 title:
   main: "KARPOOR CHANDRA KULISH Versus UNION OF INDIA"
   subtitle: ""
-work_type: occasional_paper
+work_type: constitution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

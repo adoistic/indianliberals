@@ -3,7 +3,8 @@ id: 4426-invitation-card
 title:
   main: "बाबू जगजीवनराम जिन्दाबाद"
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

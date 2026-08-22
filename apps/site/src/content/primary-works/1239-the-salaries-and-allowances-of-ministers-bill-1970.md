@@ -3,7 +3,8 @@ id: 1239-the-salaries-and-allowances-of-ministers-bill-1970
 title:
   main: "Corrigenda to The Salaries and Allowances of Ministers Bill, 1970"
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 purpose: working_paper
 authors:
   - n-dandekar

@@ -3,7 +3,8 @@ id: 3482-swatantra-party-office-bearers-and-members-of-the-national-executive
 title:
   main: "Office Bearers and Members of the National Executive"
   subtitle: "1967-69"
-work_type: occasional_paper
+work_type: roster
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

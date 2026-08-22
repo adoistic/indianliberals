@@ -3,7 +3,8 @@ id: 41-reasons-for-mr-minoo-masani-defeat
 title:
   main: "REASONS FOR OUR DEFEAT: THE FRONT PROVED FATAL"
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

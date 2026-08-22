@@ -3,7 +3,8 @@ id: 2556-swatantra-party-notice-22-01-1973
 title:
   main: "N O T I C E."
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 1651-original-allocation-of-grants-to-the-regional-committees-in-the-state
 title:
   main: "Original allocation of grants to the Regional Committees in the States."
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

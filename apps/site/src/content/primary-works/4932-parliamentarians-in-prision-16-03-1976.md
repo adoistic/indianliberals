@@ -3,7 +3,7 @@ id: 4932-parliamentarians-in-prision-16-03-1976
 title:
   main: "PARLIAMENTARIANS IN PRISON"
   subtitle: ""
-work_type: essay
+work_type: report
 work_type_source: summary
 purpose: report
 authors: []

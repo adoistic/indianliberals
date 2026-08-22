@@ -3,7 +3,7 @@ id: 2966-all-india-poll-board
 title:
   main: "ALL-INDIA POLL BOARD"
   subtitle: ""
-work_type: essay
+work_type: report
 work_type_source: summary
 purpose: report
 authors: []

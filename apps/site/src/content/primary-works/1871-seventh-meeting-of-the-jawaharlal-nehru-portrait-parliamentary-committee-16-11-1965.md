@@ -3,7 +3,8 @@ id: 1871-seventh-meeting-of-the-jawaharlal-nehru-portrait-parliamentary-committe
 title:
   main: "[Seventh Meeting of the Jawaharlal Nehru Portrait Parliamentary Committee]"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

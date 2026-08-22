@@ -3,7 +3,7 @@ id: 5605-swatantra-unit-allowed-to-join-kutch-agitations-15-04-1968
 title:
   main: "[Swatantra unit allowed to join kutch Agitations]"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

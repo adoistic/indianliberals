@@ -3,7 +3,8 @@ id: 5439-the-farmers-federations-of-india
 title:
   main: "THE FARMERS' FEDERATION OF INDIA"
   subtitle: ""
-work_type: occasional_paper
+work_type: constitution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

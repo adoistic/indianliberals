@@ -3,7 +3,8 @@ id: 3494-election-of-national-executive
 title:
   main: "ELECTION OF NATIONAL EXECUTIVE"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

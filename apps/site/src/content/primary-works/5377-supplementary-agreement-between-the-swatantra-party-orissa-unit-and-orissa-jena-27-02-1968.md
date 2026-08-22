@@ -3,7 +3,8 @@ id: 5377-supplementary-agreement-between-the-swatantra-party-orissa-unit-and-ori
 title:
   main: "Supplementary agreement between the Swatantra Party, Orissa Unit, and the Orissa Jana Congress"
   subtitle: ""
-work_type: occasional_paper
+work_type: agreement
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

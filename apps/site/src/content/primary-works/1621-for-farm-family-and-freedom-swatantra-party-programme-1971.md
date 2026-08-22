@@ -3,7 +3,8 @@ id: 1621-for-farm-family-and-freedom-swatantra-party-programme-1971
 title:
   main: "For Farm Family and Freedom"
   subtitle: "Swatantra Party Programme for Prosperity 1971"
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 purpose: manifesto
 authors: []
 editors: []

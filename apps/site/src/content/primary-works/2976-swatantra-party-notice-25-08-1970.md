@@ -3,7 +3,8 @@ id: 2976-swatantra-party-notice-25-08-1970
 title:
   main: "[Swatantra Party Notice]"
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

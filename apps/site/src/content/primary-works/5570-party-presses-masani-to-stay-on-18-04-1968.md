@@ -3,7 +3,8 @@ id: 5570-party-presses-masani-to-stay-on-18-04-1968
 title:
   main: "Party presses Masani to stay on"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

@@ -3,7 +3,8 @@ id: 2856-motion-by-shri-jawaharlal-nehru-regarding-third-five-year-plan-19-08-19
 title:
   main: "MOTION BY SHRI JAWAHARLAL NEHRU REGARDING THIRD FIVE YEAR PLAN"
   subtitle: "Notice of Substitute Motions"
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors:
   - jawaharlal-nehru
 editors: []

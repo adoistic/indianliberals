@@ -3,7 +3,8 @@ id: 3391-emergent-meeting-of-the-working-committee-17-08-1961
 title:
   main: "Proceedings of an Emergent meeting of the Working Committee of the Bihar State Swatantra Party held at the Party Office, Patna, on 17-8-61 at 4 P.M."
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,7 @@ id: 5558-masani-firm-on-quitting-party-post-the-indian-express-15-05-1968
 title:
   main: "Masani firm on quitting party post"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

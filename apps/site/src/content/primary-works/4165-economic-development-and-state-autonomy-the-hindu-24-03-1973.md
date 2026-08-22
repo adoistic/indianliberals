@@ -3,7 +3,7 @@ id: 4165-economic-development-and-state-autonomy-the-hindu-24-03-1973
 title:
   main: "Economic Development and State Autonomy"
   subtitle: ""
-work_type: essay
+work_type: report
 work_type_source: summary
 purpose: report
 authors: []

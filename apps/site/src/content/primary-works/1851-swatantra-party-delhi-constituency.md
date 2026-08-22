@@ -3,7 +3,8 @@ id: 1851-swatantra-party-delhi-constituency
 title:
   main: "[Swatantra Party Delhi Constituency]"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

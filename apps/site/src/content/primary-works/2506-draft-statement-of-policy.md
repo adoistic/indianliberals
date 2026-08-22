@@ -3,7 +3,7 @@ id: 2506-draft-statement-of-policy
 title:
   main: "THE NATIONAL ALTERNATIVE"
   subtitle: "STATEMENT OF POLICY"
-work_type: essay
+work_type: programme
 work_type_source: summary
 purpose: position_paper
 authors: []

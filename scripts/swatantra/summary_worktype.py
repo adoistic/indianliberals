@@ -24,7 +24,23 @@ first clause. The window is the first 200 characters, which in practice is the
 import re
 
 # Ordered: the first match wins, so compounds precede their parts.
+#
+# The archival forms come FIRST. An affidavit that mentions a letter it
+# encloses is an affidavit; a receipt for a telegram is a receipt. The
+# publication-oriented patterns below assume the document is a piece of
+# writing, and would happily call either of those a letter.
 PATTERNS = [
+    (r"\bconstitution\b|\brules and regulations\b|\bbye-?laws\b", "constitution"),
+    (r"\bagreement\b|\bcoalition arrangement\b|\bmemorandum of understanding\b", "agreement"),
+    (r"\baffidavit\b|\bplaint\b|\bpetition(?:ers)?\b|\bwrit\b|\bjudg?ment\b|\binjunction\b|\bcourt\b", "legal_filing"),
+    (r"\breceipt\b|\bvoucher\b|\bsubscription\b|\bstatement of accounts\b|\bfinancial (?:calculation|statement)\b|\baccounts\b", "financial_record"),
+    (r"\bblank form\b|\bproforma\b|\b(?:application|membership|nomination|pledge|enrol?ment) form\b", "form"),
+    (r"\bprogramme\b|\binvitation\b|\bagenda\b|\bitinerary\b|\breception committee\b", "programme"),
+    (r"\bnotice\b|\bintimation\b|\bannounces\b|\bannouncing\b", "notice"),
+    (r"\broster\b|\blist of\b|\bregister of\b|\bdirectory\b|\bnames and addresses\b", "roster"),
+    (r"\bclipping\b|\bcutting\b|\bpress copy\b|\btimes of india\b|\bindian express\b|\bthe hindu\b|\bhindustan times\b|\bthe statesman\b", "press_clipping"),
+    (r"\bsynopsis\b|\bproceedings\b|\bdossier\b|\breport\b", "report"),
+    (r"\baide-?memoire\b|\bchecklist\b|\boffice[- ](?:paper|record|note)\b|\binternal record\b|\badministrative (?:record|sheet|note)\b|\bworking paper\b|\bmemo\b", "office_record"),
     (r"\bpress (?:note|statement|release)\b", "press_note"),
     (r"\bminutes\b", "minutes"),
     (r"\bcircular\b", "circular"),
@@ -42,13 +58,30 @@ PATTERNS = [
 
 WINDOW = 200
 
+# The archival forms get a much tighter window than the publication ones.
+#
+# "report", "notice", "programme" and the like are ordinary words: an essay
+# ABOUT a report mentions one in its second sentence. Matching them anywhere in
+# 200 characters dropped agreement with the model from 90.8% to 69.7% on works
+# it had already typed. The document's own form is named in its opening clause
+# -- "This one-page notice ...", "This two-page roster ..." -- so the archival
+# patterns only look there.
+# The opening CLAUSE, not a character count: "This two-page English roster,
+# titled ..." names the form before its first comma. A character window either
+# clips a long one or admits the sentence after it.
+ARCHIVAL = {
+    "constitution", "agreement", "legal_filing", "financial_record", "form",
+    "programme", "notice", "roster", "press_clipping", "report", "office_record",
+}
+
 
 def classify(summary):
     """Return (work_type, cue) inferred from a summary, or (None, None)."""
     if not summary:
         return None, None
-    head = " ".join(summary.split())[:WINDOW].lower()
+    flat = " ".join(summary.split()).lower()
+    head, opening = flat[:WINDOW], flat.split(",")[0][:WINDOW]
     for rx, wt in PATTERNS:
-        if re.search(rx, head):
+        if re.search(rx, opening if wt in ARCHIVAL else head):
             return wt, rx
     return None, None

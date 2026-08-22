@@ -3,7 +3,8 @@ id: 1446-plaint-under-order-vii-rule-icpg
 title:
   main: "Plaint under Order VII Rule 1 C.P.C."
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,7 @@ id: 551-for-favour-of-publication-15-09-1966
 title:
   main: "[For Favour of Publication]"
   subtitle: ""
-work_type: essay
+work_type: financial_record
 work_type_source: summary
 authors: []
 editors: []

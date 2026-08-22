@@ -3,7 +3,8 @@ id: 4998-lestle-sawhny-programme-18-02-1979
 title:
   main: "WEEK-END TRAINING CAMP FOR STUDENTS AT THE GRAND HOTEL, BOMBAY, ON 17TH AND 18TH FEBRUARY, 1979"
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

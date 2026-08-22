@@ -3,7 +3,8 @@ id: 1843-swatantra-party-madhya-pradesh-constituency
 title:
   main: "[Swatantra Party Madhya Pradesh Constituency]"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

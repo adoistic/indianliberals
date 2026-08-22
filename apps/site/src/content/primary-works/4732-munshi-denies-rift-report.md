@@ -3,7 +3,8 @@ id: 4732-munshi-denies-rift-report
 title:
   main: "Munshi denies rift reports"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

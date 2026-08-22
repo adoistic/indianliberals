@@ -3,7 +3,8 @@ id: 913-charan-back-strikers-17-05-1974
 title:
   main: "Charan backs strikers"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

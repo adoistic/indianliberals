@@ -3,7 +3,7 @@ id: 2766-swatantra-mlas-writ-admited-14-02-1975
 title:
   main: "Swatantra MLAs' writ admitted"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

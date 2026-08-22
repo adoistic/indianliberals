@@ -3,7 +3,8 @@ id: 5563-gujarat-swatantra-crisis-averted-22-04-1968
 title:
   main: "Gujarat Swatantra crisis averted"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 1750-proceeeding-of-an-informal-meeting-06-08-1959
 title:
   main: "Proceedings of en Informal meeting at Bangalore on 6th August 1959."
   subtitle: ""
-work_type: occasional_paper
+work_type: report
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

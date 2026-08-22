@@ -3,7 +3,7 @@ id: 972-swatantra-split-over-language-question-20-06-1963
 title:
   main: "Swatantra split over language question"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

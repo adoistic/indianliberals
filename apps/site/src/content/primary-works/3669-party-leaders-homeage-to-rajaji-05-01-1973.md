@@ -3,7 +3,7 @@ id: 3669-party-leaders-homeage-to-rajaji-05-01-1973
 title:
   main: "Party leaders' homage to Rajaji"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

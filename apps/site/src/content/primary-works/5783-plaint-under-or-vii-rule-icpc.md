@@ -3,7 +3,8 @@ id: 5783-plaint-under-or-vii-rule-icpc
 title:
   main: "[Plaint Under Or VII Rule ICPC]"
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 759-public-meeting-at-matunga-14-12-1974
 title:
   main: "Points discussed at the meeting of the Swatantra Party workers at 6.00 p.m. on 5th December 1974 at the Party office."
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

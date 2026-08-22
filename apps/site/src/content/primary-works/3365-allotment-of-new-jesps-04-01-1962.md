@@ -3,7 +3,8 @@ id: 3365-allotment-of-new-jesps-04-01-1962
 title:
   main: "ALLOTMENT OF NEW JEEPS"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

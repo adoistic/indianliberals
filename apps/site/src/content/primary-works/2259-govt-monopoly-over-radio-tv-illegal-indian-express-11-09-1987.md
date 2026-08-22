@@ -3,7 +3,7 @@ id: 2259-govt-monopoly-over-radio-tv-illegal-indian-express-11-09-1987
 title:
   main: "Govt monopoly over radio, TV ‘illegal’"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

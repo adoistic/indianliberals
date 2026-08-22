@@ -3,7 +3,8 @@ id: 2873-diffence-of-india-bill-1962
 title:
   main: "DEFENCE OF INDIA BILL, 1962."
   subtitle: "Notice of Amendments"
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

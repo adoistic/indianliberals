@@ -3,7 +3,8 @@ id: 2279-swatantra-party-constitution-14-04-1973
 title:
   main: "CONSTITUTION"
   subtitle: "As amended on April 14, 1973, by the Sixth National Convention in Rajajinagar, Madras"
-work_type: occasional_paper
+work_type: constitution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

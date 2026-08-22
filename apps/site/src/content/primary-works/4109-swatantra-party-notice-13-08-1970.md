@@ -3,7 +3,8 @@ id: 4109-swatantra-party-notice-13-08-1970
 title:
   main: "NOTICE"
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

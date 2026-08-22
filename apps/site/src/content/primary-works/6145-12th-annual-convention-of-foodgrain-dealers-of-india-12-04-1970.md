@@ -3,7 +3,8 @@ id: 6145-12th-annual-convention-of-foodgrain-dealers-of-india-12-04-1970
 title:
   main: "CONVENTION OF FOODGRAIN DEALERS OF INDIA"
   subtitle: ""
-work_type: occasional_paper
+work_type: report
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

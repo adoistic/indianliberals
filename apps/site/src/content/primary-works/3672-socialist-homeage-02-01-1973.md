@@ -3,7 +3,7 @@ id: 3672-socialist-homeage-02-01-1973
 title:
   main: "Socialist homage"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

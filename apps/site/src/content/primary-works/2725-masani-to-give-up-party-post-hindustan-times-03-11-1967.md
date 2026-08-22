@@ -3,7 +3,7 @@ id: 2725-masani-to-give-up-party-post-hindustan-times-03-11-1967
 title:
   main: "Masani to give up party post"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

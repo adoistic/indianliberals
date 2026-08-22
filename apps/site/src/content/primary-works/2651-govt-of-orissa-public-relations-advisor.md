@@ -3,7 +3,8 @@ id: 2651-govt-of-orissa-public-relations-advisor
 title:
   main: "Public Relations Advisor"
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

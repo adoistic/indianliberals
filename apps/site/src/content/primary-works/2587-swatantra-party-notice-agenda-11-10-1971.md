@@ -3,7 +3,8 @@ id: 2587-swatantra-party-notice-agenda-11-10-1971
 title:
   main: "[Swatantra Party Notice & Agenda]"
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,7 @@ id: 5607-masani-argued-not-to-resign
 title:
   main: "[Masani Argued not to resign]"
   subtitle: ""
-work_type: resolution
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

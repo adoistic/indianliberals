@@ -3,7 +3,8 @@ id: 5600-swatantra-decide-to-stay-neutral-up-trial-of-strength-15-08-1968
 title:
   main: "Swatantra decides to stay neutral in U.P. trial of strength"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

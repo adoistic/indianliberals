@@ -3,7 +3,8 @@ id: 4150-in-the-high-court-of-judicature-at-bombay
 title:
   main: "SWATANTRA PARTY (MAHARASHTRA) AND ANOTHER Versus UNION OF INDIA AND OTHERS"
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

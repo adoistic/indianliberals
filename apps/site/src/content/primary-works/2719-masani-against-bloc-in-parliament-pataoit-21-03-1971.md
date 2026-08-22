@@ -3,7 +3,8 @@ id: 2719-masani-against-bloc-in-parliament-pataoit-21-03-1971
 title:
   main: "MASANI AGAINST BLOC IN PARLIAMENT"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

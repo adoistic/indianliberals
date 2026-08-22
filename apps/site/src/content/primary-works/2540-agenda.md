@@ -3,7 +3,8 @@ id: 2540-agenda
 title:
   main: "AGENDA"
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

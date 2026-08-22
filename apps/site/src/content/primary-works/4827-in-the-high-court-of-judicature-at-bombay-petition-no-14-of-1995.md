@@ -3,7 +3,8 @@ id: 4827-in-the-high-court-of-judicature-at-bombay-petition-no-14-of-1995
 title:
   main: "NOTICE OF MOTION NO. 30 OF 1996"
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

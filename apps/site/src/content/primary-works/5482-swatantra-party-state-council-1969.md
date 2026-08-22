@@ -3,7 +3,8 @@ id: 5482-swatantra-party-state-council-1969
 title:
   main: "PRESIDENTS AND GENERAL SECRETARIES OF SWATANTRA PARTY STATE COUNCIL 1969"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

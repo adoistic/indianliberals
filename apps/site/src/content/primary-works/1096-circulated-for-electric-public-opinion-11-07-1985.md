@@ -3,7 +3,8 @@ id: 1096-circulated-for-electric-public-opinion-11-07-1985
 title:
   main: "A Bill to provide for civil and criminal immunity to physicians and surgeons withdrawing life sustaining treatment from patients suffering from terminal illness"
   subtitle: "L. C. Bill No. XIV of 1984"
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 purpose: working_paper
 authors: []
 editors: []

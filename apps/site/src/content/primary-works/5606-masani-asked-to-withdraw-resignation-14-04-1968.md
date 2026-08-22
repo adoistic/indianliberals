@@ -3,7 +3,8 @@ id: 5606-masani-asked-to-withdraw-resignation-14-04-1968
 title:
   main: "Masani asked to withdraw resignation"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

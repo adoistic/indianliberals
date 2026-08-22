@@ -3,7 +3,8 @@ id: 4955-citizen-for-democracy
 title:
   main: "[Citizen for Democracy]"
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

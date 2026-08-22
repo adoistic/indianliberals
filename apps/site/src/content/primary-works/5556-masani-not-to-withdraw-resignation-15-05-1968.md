@@ -3,7 +3,7 @@ id: 5556-masani-not-to-withdraw-resignation-15-05-1968
 title:
   main: "Masani not to withdraw resignation"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

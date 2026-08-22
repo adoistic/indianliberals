@@ -3,7 +3,8 @@ id: 1462-magistrate-order-14-08-1974
 title:
   main: "Summons to Accused"
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

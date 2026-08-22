@@ -3,7 +3,8 @@ id: 2019-constitution-of-sanyukt-sadachar-samiti
 title:
   main: "CONSTITUTION of SANYUKT SADACHAR SAMITI"
   subtitle: ""
-work_type: occasional_paper
+work_type: constitution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

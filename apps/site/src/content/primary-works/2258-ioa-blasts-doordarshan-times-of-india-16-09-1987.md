@@ -3,7 +3,8 @@ id: 2258-ioa-blasts-doordarshan-times-of-india-16-09-1987
 title:
   main: "IOA blasts Doordarshan"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

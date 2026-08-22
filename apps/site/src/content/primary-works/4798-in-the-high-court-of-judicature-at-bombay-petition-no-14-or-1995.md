@@ -3,7 +3,8 @@ id: 4798-in-the-high-court-of-judicature-at-bombay-petition-no-14-or-1995
 title:
   main: "Affidavit of Service"
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

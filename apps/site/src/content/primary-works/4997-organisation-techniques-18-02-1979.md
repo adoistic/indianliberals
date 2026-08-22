@@ -3,7 +3,8 @@ id: 4997-organisation-techniques-18-02-1979
 title:
   main: "Organisation Techniques"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 purpose: working_paper
 authors: []
 editors: []

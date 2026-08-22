@@ -3,7 +3,8 @@ id: 3925-swatantra-party-general-council
 title:
   main: "[Swatantra Party General Council]"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

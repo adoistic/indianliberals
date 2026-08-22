@@ -3,7 +3,8 @@ id: 4149-in-the-high-court-of-judicature-at-bombay
 title:
   main: "In the High-Court of Judicature at Bombay"
   subtitle: "Ordinary Original & Constitutional Jurisdiction; Writ Petition No.      of 1994"
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

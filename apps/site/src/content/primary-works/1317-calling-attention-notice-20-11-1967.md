@@ -3,7 +3,8 @@ id: 1317-calling-attention-notice-20-11-1967
 title:
   main: "CALLING ATTENTION NOTICE"
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors:
   - minoo-masani
 editors: []

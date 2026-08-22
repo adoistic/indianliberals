@@ -3,7 +3,8 @@ id: 3472-high-drama-national-herald-01-01-1971
 title:
   main: "HIGH DRAMA"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 2944-comments-and-suggestions-by-mr-k-n-taneja
 title:
   main: "Comments and Suggestions by Mr. K. N. Taneja (Ahmedabad)"
   subtitle: "For Consideration by the General Council"
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 purpose: working_paper
 authors: []
 editors: []

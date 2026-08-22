@@ -3,7 +3,8 @@ id: 5304-swatantra-party-notice-22-09-1959
 title:
   main: "NOTICE"
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

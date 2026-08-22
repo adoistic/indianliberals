@@ -3,7 +3,8 @@ id: 2272-the-high-court-of-judicature-at-bombay-civil-jurisdication-writ-petitio
 title:
   main: "[The High Court Of Judicature At Bombay Civil Jurisdication Writ Petition No-2955]"
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: summary
 authors:
   - minoo-masani
 editors: []

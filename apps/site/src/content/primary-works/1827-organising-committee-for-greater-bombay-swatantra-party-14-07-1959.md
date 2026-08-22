@@ -3,7 +3,7 @@ id: 1827-organising-committee-for-greater-bombay-swatantra-party-14-07-1959
 title:
   main: "Minutes"
   subtitle: ""
-work_type: minutes
+work_type: office_record
 work_type_source: summary
 authors: []
 editors: []

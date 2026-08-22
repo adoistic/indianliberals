@@ -3,7 +3,8 @@ id: 1355-meeting-of-the-speaker-with-the-leaders-of-uroups-17-03-1967
 title:
   main: "NOTICE"
   subtitle: "Meeting of the Speaker with the Leaders of Groups."
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

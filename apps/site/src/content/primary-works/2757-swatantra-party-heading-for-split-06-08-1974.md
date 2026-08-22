@@ -3,7 +3,8 @@ id: 2757-swatantra-party-heading-for-split-06-08-1974
 title:
   main: "Swatantra party heading for split"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

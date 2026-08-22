@@ -3,7 +3,8 @@ id: 5376-swatantra-jana-congress-common-programme-14-02-1967
 title:
   main: "SWATANTRA - JANA CONGRESS COMMON PROGRAMME"
   subtitle: ""
-work_type: occasional_paper
+work_type: agreement
+work_type_source: summary
 purpose: statement_of_principles
 authors: []
 editors: []

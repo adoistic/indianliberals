@@ -3,7 +3,8 @@ id: 1848-swatantra-party-orissa-constituency
 title:
   main: "[Swatantra Party Orissa Constituency]"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

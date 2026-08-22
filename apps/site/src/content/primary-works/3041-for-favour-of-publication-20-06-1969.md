@@ -3,7 +3,7 @@ id: 3041-for-favour-of-publication-20-06-1969
 title:
   main: "For Favour of Publication"
   subtitle: ""
-work_type: press_note
+work_type: office_record
 work_type_source: summary
 authors: []
 editors: []

@@ -3,7 +3,8 @@ id: 5154-in-the-supereme-court-of-india-original-jurisdiction
 title:
   main: "[In the Supereme Court of India Original Jurisdiction]"
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: summary
 authors:
   - minoo-masani
 editors: []

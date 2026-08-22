@@ -3,7 +3,8 @@ id: 1290-ministry-of-external-affairs
 title:
   main: "DEMANDS FOR GRANTS IN RESPECT OF GENERAL BUDGET, 1968-69"
   subtitle: "Notice of Motions for Reduction — MINISTRY OF EXTERNAL AFFAIRS (Demand Nos. 13 and 14)"
-work_type: occasional_paper
+work_type: notice
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

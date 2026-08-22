@@ -3,7 +3,8 @@ id: 2759-swatantra-split-indian-express
 title:
   main: "Notice of Resolution to be moved at the Seventh National Convention of the Swatantra Party on August 4 and 5, 1974 in New Delhi."
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 3481-swatantra-members-of-parliament-07-05-1968
 title:
   main: "SWATANTRA MEMBERS IN THE RAJYA SABHA"
   subtitle: "as from May 7, 1968"
-work_type: occasional_paper
+work_type: roster
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

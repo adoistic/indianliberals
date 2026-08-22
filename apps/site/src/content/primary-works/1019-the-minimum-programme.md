@@ -3,7 +3,8 @@ id: 1019-the-minimum-programme
 title:
   main: "The Minimum Programme"
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 purpose: position_paper
 authors: []
 editors: []

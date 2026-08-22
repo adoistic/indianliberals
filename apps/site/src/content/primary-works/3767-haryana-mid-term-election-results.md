@@ -3,7 +3,7 @@ id: 3767-haryana-mid-term-election-results
 title:
   main: "HARYANA MID-TERM ELECTION RESULTS"
   subtitle: ""
-work_type: essay
+work_type: report
 work_type_source: summary
 purpose: report
 authors: []

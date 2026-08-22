@@ -3,7 +3,8 @@ id: 2584-additional-agenda
 title:
   main: "Additional agenda with the permission of the Chair."
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

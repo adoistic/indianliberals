@@ -3,7 +3,8 @@ id: 4262-swatantra-as-elite-of-politics
 title:
   main: "Rajaji's Tour Programme"
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

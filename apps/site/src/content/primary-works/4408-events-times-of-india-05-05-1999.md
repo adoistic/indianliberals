@@ -3,7 +3,8 @@ id: 4408-events-times-of-india-05-05-1999
 title:
   main: "EVENTS"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

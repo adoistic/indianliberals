@@ -3,7 +3,8 @@ id: 1173-receipt-of-donation-02-11-1975
 title:
   main: "[Receipt of Donation]"
   subtitle: ""
-work_type: occasional_paper
+work_type: financial_record
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 3713-index
 title:
   main: "INDEX"
   subtitle: ""
-work_type: occasional_paper
+work_type: constitution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

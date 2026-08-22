@@ -3,7 +3,8 @@ id: 2939-swatantra-party-general-council-17-04-1971
 title:
   main: "Proposals by the State Council of the Andhra Unit of the Swatantra Party (at its meeting on March 29) for consideration by the General Council."
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 purpose: position_paper
 authors: []
 editors: []

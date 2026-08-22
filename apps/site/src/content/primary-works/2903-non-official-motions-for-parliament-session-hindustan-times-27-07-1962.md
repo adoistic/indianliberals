@@ -3,7 +3,7 @@ id: 2903-non-official-motions-for-parliament-session-hindustan-times-27-07-1962
 title:
   main: "Non-official motions for Parliament session"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

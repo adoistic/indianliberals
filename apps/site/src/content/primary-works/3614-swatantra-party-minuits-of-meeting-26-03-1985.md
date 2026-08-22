@@ -3,7 +3,8 @@ id: 3614-swatantra-party-minuits-of-meeting-26-03-1985
 title:
   main: "[Swatantra Party Minuits Of Meeting]"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

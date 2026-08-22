@@ -3,7 +3,7 @@ id: 993-report-to-the-central-organising-committee-on-their-visit-to-bihar
 title:
   main: "Report to the Central Organising Committee on their Visit to Bihar"
   subtitle: ""
-work_type: essay
+work_type: report
 work_type_source: summary
 purpose: report
 authors:

@@ -3,7 +3,8 @@ id: 3545-list-of-business-houses-industries-in-bombay-city
 title:
   main: "List of Business Houses & Industries in Bombay City"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

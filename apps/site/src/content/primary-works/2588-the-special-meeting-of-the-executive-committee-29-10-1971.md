@@ -3,7 +3,8 @@ id: 2588-the-special-meeting-of-the-executive-committee-29-10-1971
 title:
   main: "SPECIAL MEETING OF THE EXECUTIVE COMMITTEE OF SWATANTRA PARTY,BOMBAY REGION"
   subtitle: "on 29th Oct.1971"
-work_type: occasional_paper
+work_type: office_record
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

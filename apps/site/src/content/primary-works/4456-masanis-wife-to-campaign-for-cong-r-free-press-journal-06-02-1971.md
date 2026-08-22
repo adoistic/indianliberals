@@ -3,7 +3,7 @@ id: 4456-masanis-wife-to-campaign-for-cong-r-free-press-journal-06-02-1971
 title:
   main: "Masani’s wife to campaign for Cong(R)"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

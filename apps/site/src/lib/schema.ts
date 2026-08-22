@@ -105,6 +105,18 @@ const WORK_TYPE_TO_SCHEMA: Record<string, string> = {
   minutes: "Report",
   press_note: "Report",
   resolution: "CreativeWork",
+  // second archival tranche, 2026-08-22
+  notice: "Message",
+  programme: "CreativeWork",
+  report: "Report",
+  roster: "Dataset",
+  constitution: "Legislation",
+  agreement: "CreativeWork",
+  legal_filing: "Legislation",
+  financial_record: "CreativeWork",
+  form: "CreativeWork",
+  press_clipping: "Article",
+  office_record: "CreativeWork",
 };
 
 const clip = (s: string | undefined, n = 600): string | undefined => {

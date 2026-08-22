@@ -3,7 +3,8 @@ id: 3616-swatantra-party-minuits-of-meeting-06-04-1981
 title:
   main: "Draft Minutes of the meeting of the Executive Committee of the Swatantra Party, Maharashtra held on Monday, April 6, 1981 at 143, Mahatma Gandhi Road, Bombay 400 023."
   subtitle: ""
-work_type: occasional_paper
+work_type: report
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

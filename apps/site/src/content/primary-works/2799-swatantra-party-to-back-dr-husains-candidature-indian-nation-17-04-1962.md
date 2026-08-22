@@ -3,7 +3,8 @@ id: 2799-swatantra-party-to-back-dr-husains-candidature-indian-nation-17-04-1962
 title:
   main: "SWATANTRA PARTY TO BACK DR. HUSAIN'S CANDIDATURE"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

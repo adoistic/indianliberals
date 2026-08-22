@@ -3,7 +3,7 @@ id: 5185-swatantra-party-district-conference-16-10-1959
 title:
   main: "Swatantra Party District Conference, Coorg."
   subtitle: ""
-work_type: pamphlet
+work_type: programme
 work_type_source: summary
 purpose: report
 authors: []

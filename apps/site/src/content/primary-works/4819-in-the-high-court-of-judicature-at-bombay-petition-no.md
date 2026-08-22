@@ -3,7 +3,8 @@ id: 4819-in-the-high-court-of-judicature-at-bombay-petition-no
 title:
   main: "[In the High Court of judicature at Bombay Petition no]"
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: summary
 authors:
   - s-v-raju
 editors: []

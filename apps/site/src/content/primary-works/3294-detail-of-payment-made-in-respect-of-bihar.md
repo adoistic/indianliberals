@@ -3,7 +3,7 @@ id: 3294-detail-of-payment-made-in-respect-of-bihar
 title:
   main: "Statement showing details of payment made in respect of Bihar Credit."
   subtitle: ""
-work_type: essay
+work_type: financial_record
 work_type_source: summary
 authors: []
 editors: []

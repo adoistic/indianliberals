@@ -3,7 +3,8 @@ id: 4523-points-noted-by-mr-parameswar-during-the-general-council-meeting-of-the
 title:
   main: "POINTS NOTED BY MR. PARAMESWAR DURING THE GENERAL COUNCIL MEETING OF THE SWATANTRA PARTY HELD AT MADRAS ON 1.6.1968."
   subtitle: ""
-work_type: occasional_paper
+work_type: report
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

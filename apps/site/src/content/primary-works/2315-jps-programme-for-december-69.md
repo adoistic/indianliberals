@@ -3,7 +3,8 @@ id: 2315-jps-programme-for-december-69
 title:
   main: "JP'S PROGRAMME FOR DECEMBER 69"
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

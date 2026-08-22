@@ -3,7 +3,7 @@ id: 1597-swatantra-party-fourth-national-convention-13-12-1966
 title:
   main: "General Secretary’s Report"
   subtitle: "Fourth National Convention"
-work_type: essay
+work_type: report
 work_type_source: summary
 purpose: report
 authors: []

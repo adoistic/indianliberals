@@ -3,7 +3,7 @@ id: 5519-c-r-may-attempt-to-patch-up-swatantra-rift-the-times-of-india-30-05-196
 title:
   main: "C. R. may attempt to patch up Swatantra rift"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

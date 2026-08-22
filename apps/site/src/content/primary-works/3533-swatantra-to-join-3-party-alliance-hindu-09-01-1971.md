@@ -3,7 +3,7 @@ id: 3533-swatantra-to-join-3-party-alliance-hindu-09-01-1971
 title:
   main: "Swatantra to Join 3-Party Alliance"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

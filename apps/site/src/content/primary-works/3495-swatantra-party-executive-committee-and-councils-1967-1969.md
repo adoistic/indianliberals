@@ -3,7 +3,8 @@ id: 3495-swatantra-party-executive-committee-and-councils-1967-1969
 title:
   main: "Executive Committees and Councils at National and State/Regional Levels"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

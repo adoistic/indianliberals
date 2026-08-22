@@ -3,7 +3,7 @@ id: 6037-sethi-makes-another-dig-at-newsmen-13-04-1972
 title:
   main: "Sethi makes another dig at newsmen"
   subtitle: ""
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []

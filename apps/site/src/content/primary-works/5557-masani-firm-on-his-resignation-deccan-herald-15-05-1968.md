@@ -3,7 +3,7 @@ id: 5557-masani-firm-on-his-resignation-deccan-herald-15-05-1968
 title:
   main: "Masani firm on his resignation"
   subtitle: ""
-work_type: letter
+work_type: report
 work_type_source: summary
 authors: []
 editors: []

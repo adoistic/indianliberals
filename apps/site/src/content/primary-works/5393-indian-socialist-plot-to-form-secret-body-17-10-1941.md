@@ -3,7 +3,7 @@ id: 5393-indian-socialist-plot-to-form-secret-body-17-10-1941
 title:
   main: "INDIAN SOCIALIST PLOT TO FORM SECRET BODY"
   subtitle: "Revelation In Papers Seized from Jayaprakash Narain"
-work_type: essay
+work_type: press_clipping
 work_type_source: summary
 authors: []
 editors: []
