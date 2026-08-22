@@ -18,6 +18,7 @@ physical:
   pages_total: 20
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2928-the-wisest-man-in-india-aspects-of-c-rajagopalachari.pdf
+cover_image: "https://archive.indianliberals.in/covers/2928-the-wisest-man-in-india-aspects-of-c-rajagopalachari.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

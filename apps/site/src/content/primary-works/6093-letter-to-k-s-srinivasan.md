@@ -22,6 +22,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/6093-letter-to-k-s-srinivasan.pdf
+cover_image: "https://archive.indianliberals.in/covers/6093-letter-to-k-s-srinivasan.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

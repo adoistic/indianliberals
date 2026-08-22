@@ -19,6 +19,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3513-poll-result-in-respective-the-truth-about-mrs-gandhis-majority.pdf
+cover_image: "https://archive.indianliberals.in/covers/3513-poll-result-in-respective-the-truth-about-mrs-gandhis-majority.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

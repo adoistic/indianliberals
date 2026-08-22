@@ -25,6 +25,7 @@ physical:
   pages_total: 7
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4612-defeat-of-the-party-candidate-in-the-biennal-election-in-rajya-sabha.pdf
+cover_image: "https://archive.indianliberals.in/covers/4612-defeat-of-the-party-candidate-in-the-biennal-election-in-rajya-sabha.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -22,6 +22,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4870-resolution-on-the-17th-amendments-to-the-constitution.pdf
+cover_image: "https://archive.indianliberals.in/covers/4870-resolution-on-the-17th-amendments-to-the-constitution.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -21,6 +21,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4383-on-the-right-road-but-not-a-market-driven-economy-15-08-2005.pdf
+cover_image: "https://archive.indianliberals.in/covers/4383-on-the-right-road-but-not-a-market-driven-economy-15-08-2005.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2523-high-court-petition-no-14-of-1995-15-02-1996.pdf
+cover_image: "https://archive.indianliberals.in/covers/2523-high-court-petition-no-14-of-1995-15-02-1996.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

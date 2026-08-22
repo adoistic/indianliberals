@@ -19,6 +19,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5798-with-best-compliments-to-mr-arvind-deshpande.pdf
+cover_image: "https://archive.indianliberals.in/covers/5798-with-best-compliments-to-mr-arvind-deshpande.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

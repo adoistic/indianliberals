@@ -21,6 +21,7 @@ physical:
   pages_total: 7
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5398-letter-written-by-jawaharlal-from-allahabad-to-vallabhai-in-poona-01-10-1945.pdf
+cover_image: "https://archive.indianliberals.in/covers/5398-letter-written-by-jawaharlal-from-allahabad-to-vallabhai-in-poona-01-10-1945.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

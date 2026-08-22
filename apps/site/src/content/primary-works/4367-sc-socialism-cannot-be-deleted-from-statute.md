@@ -19,6 +19,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4367-sc-socialism-cannot-be-deleted-from-statute.pdf
+cover_image: "https://archive.indianliberals.in/covers/4367-sc-socialism-cannot-be-deleted-from-statute.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

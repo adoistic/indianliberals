@@ -21,6 +21,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2366-letter-to-the-collector-of-bombay-09-19-1979.pdf
+cover_image: "https://archive.indianliberals.in/covers/2366-letter-to-the-collector-of-bombay-09-19-1979.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

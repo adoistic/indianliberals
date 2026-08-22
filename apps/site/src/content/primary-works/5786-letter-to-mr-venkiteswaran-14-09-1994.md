@@ -20,6 +20,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5786-letter-to-mr-venkiteswaran-14-09-1994.pdf
+cover_image: "https://archive.indianliberals.in/covers/5786-letter-to-mr-venkiteswaran-14-09-1994.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

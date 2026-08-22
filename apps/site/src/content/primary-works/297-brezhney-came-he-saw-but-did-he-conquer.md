@@ -19,6 +19,7 @@ physical:
   pages_total: 13
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/297-brezhney-came-he-saw-but-did-he-conquer.pdf
+cover_image: "https://archive.indianliberals.in/covers/297-brezhney-came-he-saw-but-did-he-conquer.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

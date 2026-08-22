@@ -20,6 +20,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3519-hatao-call-not-ours-indian-express-12-03-1971.pdf
+cover_image: "https://archive.indianliberals.in/covers/3519-hatao-call-not-ours-indian-express-12-03-1971.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

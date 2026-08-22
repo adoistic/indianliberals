@@ -22,6 +22,7 @@ physical:
   pages_total: 10
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5444-general-secretarys-letter-no-282-27-07-1972.pdf
+cover_image: "https://archive.indianliberals.in/covers/5444-general-secretarys-letter-no-282-27-07-1972.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

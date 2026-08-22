@@ -21,6 +21,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4060-letter-to-mr-minoo-masani-19-06-1966.pdf
+cover_image: "https://archive.indianliberals.in/covers/4060-letter-to-mr-minoo-masani-19-06-1966.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

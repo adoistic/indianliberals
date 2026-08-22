@@ -19,6 +19,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5948-mass-meeting-held-in-capitals-of-all-states-and-union-territories.pdf
+cover_image: "https://archive.indianliberals.in/covers/5948-mass-meeting-held-in-capitals-of-all-states-and-union-territories.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -19,6 +19,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2944-comments-and-suggestions-by-mr-k-n-taneja.pdf
+cover_image: "https://archive.indianliberals.in/covers/2944-comments-and-suggestions-by-mr-k-n-taneja.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/134-morarjis-breakfast-nations-last-supper-march-of-the-nation-24-06-1967.pdf
+cover_image: "https://archive.indianliberals.in/covers/134-morarjis-breakfast-nations-last-supper-march-of-the-nation-24-06-1967.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

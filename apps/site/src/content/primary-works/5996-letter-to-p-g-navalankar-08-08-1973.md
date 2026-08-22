@@ -20,6 +20,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5996-letter-to-p-g-navalankar-08-08-1973.pdf
+cover_image: "https://archive.indianliberals.in/covers/5996-letter-to-p-g-navalankar-08-08-1973.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

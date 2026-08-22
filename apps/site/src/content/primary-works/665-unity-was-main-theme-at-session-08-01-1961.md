@@ -22,6 +22,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/665-unity-was-main-theme-at-session-08-01-1961.pdf
+cover_image: "https://archive.indianliberals.in/covers/665-unity-was-main-theme-at-session-08-01-1961.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

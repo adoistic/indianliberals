@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4913-memorandum-of-agreement.pdf
+cover_image: "https://archive.indianliberals.in/covers/4913-memorandum-of-agreement.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

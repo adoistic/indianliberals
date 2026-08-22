@@ -21,6 +21,7 @@ physical:
   pages_total: 9
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5837-extracts-from-mr-minoo-masani-speech-in-the-lok-sabha-on-the-finance-bill-17-04-1964.pdf
+cover_image: "https://archive.indianliberals.in/covers/5837-extracts-from-mr-minoo-masani-speech-in-the-lok-sabha-on-the-finance-bill-17-04-1964.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -23,6 +23,7 @@ physical:
   pages_total: 8
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4379-liberalism-and-liberalisation-19-03-2004.pdf
+cover_image: "https://archive.indianliberals.in/covers/4379-liberalism-and-liberalisation-19-03-2004.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

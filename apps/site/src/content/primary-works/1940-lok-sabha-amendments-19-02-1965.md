@@ -21,6 +21,7 @@ physical:
   pages_total: 7
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1940-lok-sabha-amendments-19-02-1965.pdf
+cover_image: "https://archive.indianliberals.in/covers/1940-lok-sabha-amendments-19-02-1965.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

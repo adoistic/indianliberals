@@ -23,6 +23,7 @@ physical:
   pages_total: 27
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/228-swatantra-answer-to-chinese-communist-challenge.pdf
+cover_image: "https://archive.indianliberals.in/covers/228-swatantra-answer-to-chinese-communist-challenge.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

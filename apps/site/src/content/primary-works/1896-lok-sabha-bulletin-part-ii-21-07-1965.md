@@ -19,6 +19,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1896-lok-sabha-bulletin-part-ii-21-07-1965.pdf
+cover_image: "https://archive.indianliberals.in/covers/1896-lok-sabha-bulletin-part-ii-21-07-1965.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

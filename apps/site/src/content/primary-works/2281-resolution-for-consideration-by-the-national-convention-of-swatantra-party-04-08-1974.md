@@ -23,6 +23,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2281-resolution-for-consideration-by-the-national-convention-of-swatantra-party-04-08-1974.pdf
+cover_image: "https://archive.indianliberals.in/covers/2281-resolution-for-consideration-by-the-national-convention-of-swatantra-party-04-08-1974.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

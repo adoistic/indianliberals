@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/194-foreign-aid-must-go-mysindia-28-05-1972.pdf
+cover_image: "https://archive.indianliberals.in/covers/194-foreign-aid-must-go-mysindia-28-05-1972.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

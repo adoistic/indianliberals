@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2923-dandekar-was-top-civil-servent-times-of-india-06-11-1980.pdf
+cover_image: "https://archive.indianliberals.in/covers/2923-dandekar-was-top-civil-servent-times-of-india-06-11-1980.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -18,6 +18,7 @@ physical:
   pages_total: 17
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/286-impact-of-democracy-on-industrial-efficiency-and-progress.pdf
+cover_image: "https://archive.indianliberals.in/covers/286-impact-of-democracy-on-industrial-efficiency-and-progress.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

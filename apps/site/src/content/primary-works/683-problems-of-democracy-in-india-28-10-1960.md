@@ -21,6 +21,7 @@ physical:
   pages_total: 15
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/683-problems-of-democracy-in-india-28-10-1960.pdf
+cover_image: "https://archive.indianliberals.in/covers/683-problems-of-democracy-in-india-28-10-1960.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

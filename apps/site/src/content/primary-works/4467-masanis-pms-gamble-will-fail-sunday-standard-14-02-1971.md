@@ -22,6 +22,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4467-masanis-pms-gamble-will-fail-sunday-standard-14-02-1971.pdf
+cover_image: "https://archive.indianliberals.in/covers/4467-masanis-pms-gamble-will-fail-sunday-standard-14-02-1971.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

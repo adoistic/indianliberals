@@ -21,6 +21,7 @@ physical:
   pages_total: 18
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2276-loaded-and-distorted-news.pdf
+cover_image: "https://archive.indianliberals.in/covers/2276-loaded-and-distorted-news.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

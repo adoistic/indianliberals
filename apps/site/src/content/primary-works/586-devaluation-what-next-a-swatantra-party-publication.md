@@ -24,6 +24,7 @@ physical:
   pages_total: 12
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/586-devaluation-what-next-a-swatantra-party-publication.pdf
+cover_image: "https://archive.indianliberals.in/covers/586-devaluation-what-next-a-swatantra-party-publication.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

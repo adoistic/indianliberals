@@ -22,6 +22,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4824-in-the-high-court-of-judicature-at-bombay-petition-no-14-of-1996.pdf
+cover_image: "https://archive.indianliberals.in/covers/4824-in-the-high-court-of-judicature-at-bombay-petition-no-14-of-1996.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

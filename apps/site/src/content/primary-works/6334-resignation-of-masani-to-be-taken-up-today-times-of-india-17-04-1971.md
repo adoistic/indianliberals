@@ -20,6 +20,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/6334-resignation-of-masani-to-be-taken-up-today-times-of-india-17-04-1971.pdf
+cover_image: "https://archive.indianliberals.in/covers/6334-resignation-of-masani-to-be-taken-up-today-times-of-india-17-04-1971.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

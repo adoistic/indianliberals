@@ -22,6 +22,7 @@ physical:
   pages_total: 36
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1605-the-swatantra-party-by-sv-raju.pdf
+cover_image: "https://archive.indianliberals.in/covers/1605-the-swatantra-party-by-sv-raju.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4929-letter-to-smt-indira-gandhi-18-01-1976.pdf
+cover_image: "https://archive.indianliberals.in/covers/4929-letter-to-smt-indira-gandhi-18-01-1976.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

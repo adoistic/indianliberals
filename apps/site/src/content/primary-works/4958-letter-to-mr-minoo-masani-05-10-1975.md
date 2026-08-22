@@ -21,6 +21,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4958-letter-to-mr-minoo-masani-05-10-1975.pdf
+cover_image: "https://archive.indianliberals.in/covers/4958-letter-to-mr-minoo-masani-05-10-1975.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

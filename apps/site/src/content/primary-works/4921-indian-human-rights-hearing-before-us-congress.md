@@ -20,6 +20,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4921-indian-human-rights-hearing-before-us-congress.pdf
+cover_image: "https://archive.indianliberals.in/covers/4921-indian-human-rights-hearing-before-us-congress.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

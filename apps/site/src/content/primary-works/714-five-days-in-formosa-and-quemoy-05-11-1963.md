@@ -20,6 +20,7 @@ physical:
   pages_total: 14
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/714-five-days-in-formosa-and-quemoy-05-11-1963.pdf
+cover_image: "https://archive.indianliberals.in/covers/714-five-days-in-formosa-and-quemoy-05-11-1963.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

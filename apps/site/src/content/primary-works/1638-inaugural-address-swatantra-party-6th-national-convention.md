@@ -24,6 +24,7 @@ physical:
   pages_total: 23
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1638-inaugural-address-swatantra-party-6th-national-convention.pdf
+cover_image: "https://archive.indianliberals.in/covers/1638-inaugural-address-swatantra-party-6th-national-convention.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

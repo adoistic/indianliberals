@@ -18,6 +18,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5622-lead-by-congress.pdf
+cover_image: "https://archive.indianliberals.in/covers/5622-lead-by-congress.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

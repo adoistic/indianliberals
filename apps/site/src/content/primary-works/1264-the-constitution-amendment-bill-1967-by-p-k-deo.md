@@ -21,6 +21,7 @@ physical:
   pages_total: 5
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1264-the-constitution-amendment-bill-1967-by-p-k-deo.pdf
+cover_image: "https://archive.indianliberals.in/covers/1264-the-constitution-amendment-bill-1967-by-p-k-deo.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

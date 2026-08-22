@@ -18,6 +18,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3512-indias-momentous-development-of-past-half-years.pdf
+cover_image: "https://archive.indianliberals.in/covers/3512-indias-momentous-development-of-past-half-years.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

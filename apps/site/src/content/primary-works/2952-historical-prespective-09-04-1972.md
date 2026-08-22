@@ -19,6 +19,7 @@ physical:
   pages_total: 5
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2952-historical-prespective-09-04-1972.pdf
+cover_image: "https://archive.indianliberals.in/covers/2952-historical-prespective-09-04-1972.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -20,6 +20,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1798-india-is-greater-than-hindi.pdf
+cover_image: "https://archive.indianliberals.in/covers/1798-india-is-greater-than-hindi.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

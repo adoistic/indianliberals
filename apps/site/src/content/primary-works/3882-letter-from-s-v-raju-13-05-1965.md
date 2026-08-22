@@ -23,6 +23,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3882-letter-from-s-v-raju-13-05-1965.pdf
+cover_image: "https://archive.indianliberals.in/covers/3882-letter-from-s-v-raju-13-05-1965.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

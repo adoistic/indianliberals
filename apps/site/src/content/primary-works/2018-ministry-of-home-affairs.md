@@ -19,6 +19,7 @@ physical:
   pages_total: 15
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2018-ministry-of-home-affairs.pdf
+cover_image: "https://archive.indianliberals.in/covers/2018-ministry-of-home-affairs.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

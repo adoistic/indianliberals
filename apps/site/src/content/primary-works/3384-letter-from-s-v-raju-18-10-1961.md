@@ -20,6 +20,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3384-letter-from-s-v-raju-18-10-1961.pdf
+cover_image: "https://archive.indianliberals.in/covers/3384-letter-from-s-v-raju-18-10-1961.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

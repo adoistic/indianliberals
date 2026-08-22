@@ -23,6 +23,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3946-general-secertarys-letter-no-161-08-08-1967.pdf
+cover_image: "https://archive.indianliberals.in/covers/3946-general-secertarys-letter-no-161-08-08-1967.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

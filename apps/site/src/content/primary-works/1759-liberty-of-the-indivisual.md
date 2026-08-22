@@ -21,6 +21,7 @@ physical:
   pages_total: 8
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1759-liberty-of-the-indivisual.pdf
+cover_image: "https://archive.indianliberals.in/covers/1759-liberty-of-the-indivisual.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

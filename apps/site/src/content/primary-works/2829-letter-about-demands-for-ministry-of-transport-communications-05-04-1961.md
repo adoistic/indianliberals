@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2829-letter-about-demands-for-ministry-of-transport-communications-05-04-1961.pdf
+cover_image: "https://archive.indianliberals.in/covers/2829-letter-about-demands-for-ministry-of-transport-communications-05-04-1961.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

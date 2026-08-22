@@ -22,6 +22,7 @@ physical:
   pages_total: 18
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/300-swatantra-newsletter-no-2-24-11-1959.pdf
+cover_image: "https://archive.indianliberals.in/covers/300-swatantra-newsletter-no-2-24-11-1959.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

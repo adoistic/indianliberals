@@ -23,6 +23,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/773-general-seceratary-s-circular-no-321-27-11-1974.pdf
+cover_image: "https://archive.indianliberals.in/covers/773-general-seceratary-s-circular-no-321-27-11-1974.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

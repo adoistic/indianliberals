@@ -20,6 +20,7 @@ physical:
   pages_total: 10
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4919-official-bulletin-of-the-lok-sabha-sengarsh-samiti-18-06-1976.pdf
+cover_image: "https://archive.indianliberals.in/covers/4919-official-bulletin-of-the-lok-sabha-sengarsh-samiti-18-06-1976.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

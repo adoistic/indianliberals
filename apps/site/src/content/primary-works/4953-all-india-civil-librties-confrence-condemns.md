@@ -19,6 +19,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4953-all-india-civil-librties-confrence-condemns.pdf
+cover_image: "https://archive.indianliberals.in/covers/4953-all-india-civil-librties-confrence-condemns.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

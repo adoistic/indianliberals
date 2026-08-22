@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5506-masani-worry-to-save-party-attack-national-executive.pdf
+cover_image: "https://archive.indianliberals.in/covers/5506-masani-worry-to-save-party-attack-national-executive.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

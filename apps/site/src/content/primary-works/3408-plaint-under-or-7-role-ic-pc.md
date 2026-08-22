@@ -21,6 +21,7 @@ physical:
   pages_total: 9
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3408-plaint-under-or-7-role-ic-pc.pdf
+cover_image: "https://archive.indianliberals.in/covers/3408-plaint-under-or-7-role-ic-pc.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

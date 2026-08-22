@@ -19,6 +19,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4818-department-of-telecommunications.pdf
+cover_image: "https://archive.indianliberals.in/covers/4818-department-of-telecommunications.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

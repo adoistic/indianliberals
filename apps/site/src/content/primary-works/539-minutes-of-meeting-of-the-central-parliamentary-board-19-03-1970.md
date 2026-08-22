@@ -22,6 +22,7 @@ physical:
   pages_total: 5
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/539-minutes-of-meeting-of-the-central-parliamentary-board-19-03-1970.pdf
+cover_image: "https://archive.indianliberals.in/covers/539-minutes-of-meeting-of-the-central-parliamentary-board-19-03-1970.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

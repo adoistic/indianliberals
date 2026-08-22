@@ -19,6 +19,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4778-swatantra-party-files-writ-against-socialism-clause-13-01-1994.pdf
+cover_image: "https://archive.indianliberals.in/covers/4778-swatantra-party-files-writ-against-socialism-clause-13-01-1994.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

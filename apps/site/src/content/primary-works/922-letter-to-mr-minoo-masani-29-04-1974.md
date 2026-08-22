@@ -20,6 +20,7 @@ physical:
   pages_total: 9
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/922-letter-to-mr-minoo-masani-29-04-1974.pdf
+cover_image: "https://archive.indianliberals.in/covers/922-letter-to-mr-minoo-masani-29-04-1974.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

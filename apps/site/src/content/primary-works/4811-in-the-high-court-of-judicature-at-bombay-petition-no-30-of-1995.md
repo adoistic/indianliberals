@@ -22,6 +22,7 @@ physical:
   pages_total: 18
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4811-in-the-high-court-of-judicature-at-bombay-petition-no-30-of-1995.pdf
+cover_image: "https://archive.indianliberals.in/covers/4811-in-the-high-court-of-judicature-at-bombay-petition-no-30-of-1995.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

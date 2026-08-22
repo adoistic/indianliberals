@@ -20,6 +20,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5203-the-living-gandhi-pure-gandhism-rajai-differences-on-foriegn-policy-12-11-1959.pdf
+cover_image: "https://archive.indianliberals.in/covers/5203-the-living-gandhi-pure-gandhism-rajai-differences-on-foriegn-policy-12-11-1959.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

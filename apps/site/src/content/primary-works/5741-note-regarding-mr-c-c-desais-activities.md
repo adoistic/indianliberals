@@ -20,6 +20,7 @@ physical:
   pages_total: 18
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5741-note-regarding-mr-c-c-desais-activities.pdf
+cover_image: "https://archive.indianliberals.in/covers/5741-note-regarding-mr-c-c-desais-activities.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -22,6 +22,7 @@ physical:
   pages_total: 8
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/304-swatantra-newsletter-no-6-april-may-1960.pdf
+cover_image: "https://archive.indianliberals.in/covers/304-swatantra-newsletter-no-6-april-may-1960.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

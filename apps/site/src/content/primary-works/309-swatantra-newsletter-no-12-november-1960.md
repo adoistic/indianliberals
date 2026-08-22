@@ -22,6 +22,7 @@ physical:
   pages_total: 10
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/309-swatantra-newsletter-no-12-november-1960.pdf
+cover_image: "https://archive.indianliberals.in/covers/309-swatantra-newsletter-no-12-november-1960.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

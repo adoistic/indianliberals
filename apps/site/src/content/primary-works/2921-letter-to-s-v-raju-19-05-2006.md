@@ -20,6 +20,7 @@ physical:
   pages_total: 10
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2921-letter-to-s-v-raju-19-05-2006.pdf
+cover_image: "https://archive.indianliberals.in/covers/2921-letter-to-s-v-raju-19-05-2006.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

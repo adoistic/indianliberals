@@ -22,6 +22,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3657-civic-tribute-to-cr-truman-times-of-india-09-01-1973.pdf
+cover_image: "https://archive.indianliberals.in/covers/3657-civic-tribute-to-cr-truman-times-of-india-09-01-1973.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

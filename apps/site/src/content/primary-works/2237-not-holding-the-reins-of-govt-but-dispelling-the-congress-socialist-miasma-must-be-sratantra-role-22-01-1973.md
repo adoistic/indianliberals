@@ -19,6 +19,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2237-not-holding-the-reins-of-govt-but-dispelling-the-congress-socialist-miasma-must-be-sratantra-role-22-01-1973.pdf
+cover_image: "https://archive.indianliberals.in/covers/2237-not-holding-the-reins-of-govt-but-dispelling-the-congress-socialist-miasma-must-be-sratantra-role-22-01-1973.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

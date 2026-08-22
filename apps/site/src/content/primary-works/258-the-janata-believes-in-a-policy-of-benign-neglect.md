@@ -19,6 +19,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/258-the-janata-believes-in-a-policy-of-benign-neglect.pdf
+cover_image: "https://archive.indianliberals.in/covers/258-the-janata-believes-in-a-policy-of-benign-neglect.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

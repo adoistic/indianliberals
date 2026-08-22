@@ -20,6 +20,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5970-letter-to-arvind-deshpandey.pdf
+cover_image: "https://archive.indianliberals.in/covers/5970-letter-to-arvind-deshpandey.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

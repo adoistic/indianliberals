@@ -18,6 +18,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5766-agenda-for-the-meeting-on-12th-points.pdf
+cover_image: "https://archive.indianliberals.in/covers/5766-agenda-for-the-meeting-on-12th-points.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

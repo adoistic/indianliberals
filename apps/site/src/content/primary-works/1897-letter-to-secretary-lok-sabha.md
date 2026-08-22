@@ -20,6 +20,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1897-letter-to-secretary-lok-sabha.pdf
+cover_image: "https://archive.indianliberals.in/covers/1897-letter-to-secretary-lok-sabha.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

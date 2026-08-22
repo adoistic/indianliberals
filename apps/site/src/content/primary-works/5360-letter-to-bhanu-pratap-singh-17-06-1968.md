@@ -23,6 +23,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5360-letter-to-bhanu-pratap-singh-17-06-1968.pdf
+cover_image: "https://archive.indianliberals.in/covers/5360-letter-to-bhanu-pratap-singh-17-06-1968.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

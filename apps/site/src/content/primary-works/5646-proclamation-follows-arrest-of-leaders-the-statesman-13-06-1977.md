@@ -21,6 +21,7 @@ physical:
   pages_total: 8
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5646-proclamation-follows-arrest-of-leaders-the-statesman-13-06-1977.pdf
+cover_image: "https://archive.indianliberals.in/covers/5646-proclamation-follows-arrest-of-leaders-the-statesman-13-06-1977.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

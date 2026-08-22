@@ -20,6 +20,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2364-letter-to-mr-p-k-deo-09-11-1979.pdf
+cover_image: "https://archive.indianliberals.in/covers/2364-letter-to-mr-p-k-deo-09-11-1979.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

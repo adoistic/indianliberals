@@ -20,6 +20,7 @@ physical:
   pages_total: 22
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/363-changing-circumstances-and-bharatiya-jana-sangh.pdf
+cover_image: "https://archive.indianliberals.in/covers/363-changing-circumstances-and-bharatiya-jana-sangh.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

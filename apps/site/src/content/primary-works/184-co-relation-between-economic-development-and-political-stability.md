@@ -19,6 +19,7 @@ physical:
   pages_total: 6
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/184-co-relation-between-economic-development-and-political-stability.pdf
+cover_image: "https://archive.indianliberals.in/covers/184-co-relation-between-economic-development-and-political-stability.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

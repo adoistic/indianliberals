@@ -20,6 +20,7 @@ physical:
   pages_total: 17
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/256-mr-minoo-masanis-speech-what-next.pdf
+cover_image: "https://archive.indianliberals.in/covers/256-mr-minoo-masanis-speech-what-next.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

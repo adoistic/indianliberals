@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2929-c-rajagopalachari-pictures-during-madras-visit-in-1955.pdf
+cover_image: "https://archive.indianliberals.in/covers/2929-c-rajagopalachari-pictures-during-madras-visit-in-1955.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

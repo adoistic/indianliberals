@@ -22,6 +22,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/648-the-first-tata-personnel-labour-officers-conference-09-02-1953.pdf
+cover_image: "https://archive.indianliberals.in/covers/648-the-first-tata-personnel-labour-officers-conference-09-02-1953.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

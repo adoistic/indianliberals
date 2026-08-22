@@ -24,6 +24,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/471-swatantra-party-minutes-of-meeting-12-03-1968.pdf
+cover_image: "https://archive.indianliberals.in/covers/471-swatantra-party-minutes-of-meeting-12-03-1968.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

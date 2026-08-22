@@ -20,6 +20,7 @@ physical:
   pages_total: 5
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1458-plaint-under-order-vii-rule-icpg.pdf
+cover_image: "https://archive.indianliberals.in/covers/1458-plaint-under-order-vii-rule-icpg.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -19,6 +19,7 @@ physical:
   pages_total: 6
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5417-in-soviet-russia-industrial-and-political-situations-07-11-1927.pdf
+cover_image: "https://archive.indianliberals.in/covers/5417-in-soviet-russia-industrial-and-political-situations-07-11-1927.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

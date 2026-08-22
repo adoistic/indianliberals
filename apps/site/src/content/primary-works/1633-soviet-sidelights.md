@@ -22,6 +22,7 @@ physical:
   pages_total: 100
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1633-soviet-sidelights.pdf
+cover_image: "https://archive.indianliberals.in/covers/1633-soviet-sidelights.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

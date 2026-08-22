@@ -20,6 +20,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2312-morals-by-legislation-the-illustrated-weekly-of-india-15-08-1954.pdf
+cover_image: "https://archive.indianliberals.in/covers/2312-morals-by-legislation-the-illustrated-weekly-of-india-15-08-1954.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

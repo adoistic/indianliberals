@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5790-registration-of-political-parties-under-section-29a-28-06-1994.pdf
+cover_image: "https://archive.indianliberals.in/covers/5790-registration-of-political-parties-under-section-29a-28-06-1994.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

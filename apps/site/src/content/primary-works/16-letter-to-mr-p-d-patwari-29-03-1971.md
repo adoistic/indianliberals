@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/16-letter-to-mr-p-d-patwari-29-03-1971.pdf
+cover_image: "https://archive.indianliberals.in/covers/16-letter-to-mr-p-d-patwari-29-03-1971.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

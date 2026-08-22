@@ -24,6 +24,7 @@ physical:
   pages_total: 7
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3839-central-office-circular-no-43-10-02-1966.pdf
+cover_image: "https://archive.indianliberals.in/covers/3839-central-office-circular-no-43-10-02-1966.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

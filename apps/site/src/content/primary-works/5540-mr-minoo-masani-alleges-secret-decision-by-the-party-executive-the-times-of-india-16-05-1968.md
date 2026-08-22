@@ -22,6 +22,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5540-mr-minoo-masani-alleges-secret-decision-by-the-party-executive-the-times-of-india-16-05-1968.pdf
+cover_image: "https://archive.indianliberals.in/covers/5540-mr-minoo-masani-alleges-secret-decision-by-the-party-executive-the-times-of-india-16-05-1968.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

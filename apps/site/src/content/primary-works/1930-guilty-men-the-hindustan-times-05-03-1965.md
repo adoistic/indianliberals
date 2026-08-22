@@ -20,6 +20,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1930-guilty-men-the-hindustan-times-05-03-1965.pdf
+cover_image: "https://archive.indianliberals.in/covers/1930-guilty-men-the-hindustan-times-05-03-1965.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -23,6 +23,7 @@ physical:
   pages_total: 5
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2128-meeting-of-the-national-executive-of-the-swatantra-party-29-06-1976.pdf
+cover_image: "https://archive.indianliberals.in/covers/2128-meeting-of-the-national-executive-of-the-swatantra-party-29-06-1976.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -22,6 +22,7 @@ physical:
   pages_total: 71
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1634-picture-of-a-plan.pdf
+cover_image: "https://archive.indianliberals.in/covers/1634-picture-of-a-plan.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

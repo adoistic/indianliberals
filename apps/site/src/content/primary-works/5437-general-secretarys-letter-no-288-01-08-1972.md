@@ -22,6 +22,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5437-general-secretarys-letter-no-288-01-08-1972.pdf
+cover_image: "https://archive.indianliberals.in/covers/5437-general-secretarys-letter-no-288-01-08-1972.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -21,6 +21,7 @@ physical:
   pages_total: 6
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2411-letter-to-regional-transport-officer-07-02-1984.pdf
+cover_image: "https://archive.indianliberals.in/covers/2411-letter-to-regional-transport-officer-07-02-1984.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

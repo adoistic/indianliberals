@@ -22,6 +22,7 @@ physical:
   pages_total: 18
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/339-swatantra-newsletter-no-56-january-february-1966.pdf
+cover_image: "https://archive.indianliberals.in/covers/339-swatantra-newsletter-no-56-january-february-1966.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

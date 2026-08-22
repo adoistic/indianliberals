@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4941-letter-to-m-g-devashyam-12-11-1975.pdf
+cover_image: "https://archive.indianliberals.in/covers/4941-letter-to-m-g-devashyam-12-11-1975.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -20,6 +20,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3031-member-of-parliament.pdf
+cover_image: "https://archive.indianliberals.in/covers/3031-member-of-parliament.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

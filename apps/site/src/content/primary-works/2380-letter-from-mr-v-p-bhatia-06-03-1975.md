@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2380-letter-from-mr-v-p-bhatia-06-03-1975.pdf
+cover_image: "https://archive.indianliberals.in/covers/2380-letter-from-mr-v-p-bhatia-06-03-1975.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

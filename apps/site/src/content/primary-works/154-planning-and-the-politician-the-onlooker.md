@@ -21,6 +21,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/154-planning-and-the-politician-the-onlooker.pdf
+cover_image: "https://archive.indianliberals.in/covers/154-planning-and-the-politician-the-onlooker.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

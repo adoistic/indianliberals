@@ -21,6 +21,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5861-mr-minoo-masani-disscussion-on-the-preventive-detention-bill-in-the-lok-sabha-05-12-1960.pdf
+cover_image: "https://archive.indianliberals.in/covers/5861-mr-minoo-masani-disscussion-on-the-preventive-detention-bill-in-the-lok-sabha-05-12-1960.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

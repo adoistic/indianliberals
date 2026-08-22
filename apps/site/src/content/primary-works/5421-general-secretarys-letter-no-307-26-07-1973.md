@@ -22,6 +22,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5421-general-secretarys-letter-no-307-26-07-1973.pdf
+cover_image: "https://archive.indianliberals.in/covers/5421-general-secretarys-letter-no-307-26-07-1973.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -19,6 +19,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2344-national-govt-not-utopain-say-proposers.pdf
+cover_image: "https://archive.indianliberals.in/covers/2344-national-govt-not-utopain-say-proposers.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

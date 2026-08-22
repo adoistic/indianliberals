@@ -22,6 +22,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1592-swatantra-unites-parliament-against-government.pdf
+cover_image: "https://archive.indianliberals.in/covers/1592-swatantra-unites-parliament-against-government.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

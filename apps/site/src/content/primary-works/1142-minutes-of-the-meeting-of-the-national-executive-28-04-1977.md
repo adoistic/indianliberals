@@ -22,6 +22,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1142-minutes-of-the-meeting-of-the-national-executive-28-04-1977.pdf
+cover_image: "https://archive.indianliberals.in/covers/1142-minutes-of-the-meeting-of-the-national-executive-28-04-1977.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

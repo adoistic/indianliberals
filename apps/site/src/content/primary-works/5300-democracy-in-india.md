@@ -21,6 +21,7 @@ physical:
   pages_total: 12
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5300-democracy-in-india.pdf
+cover_image: "https://archive.indianliberals.in/covers/5300-democracy-in-india.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

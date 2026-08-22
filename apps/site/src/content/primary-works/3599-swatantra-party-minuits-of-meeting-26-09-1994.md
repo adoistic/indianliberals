@@ -24,6 +24,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3599-swatantra-party-minuits-of-meeting-26-09-1994.pdf
+cover_image: "https://archive.indianliberals.in/covers/3599-swatantra-party-minuits-of-meeting-26-09-1994.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

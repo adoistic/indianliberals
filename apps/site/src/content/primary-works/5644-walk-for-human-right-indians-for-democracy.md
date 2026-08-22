@@ -20,6 +20,7 @@ physical:
   pages_total: 12
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5644-walk-for-human-right-indians-for-democracy.pdf
+cover_image: "https://archive.indianliberals.in/covers/5644-walk-for-human-right-indians-for-democracy.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

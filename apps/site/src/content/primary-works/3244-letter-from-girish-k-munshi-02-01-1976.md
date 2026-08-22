@@ -22,6 +22,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3244-letter-from-girish-k-munshi-02-01-1976.pdf
+cover_image: "https://archive.indianliberals.in/covers/3244-letter-from-girish-k-munshi-02-01-1976.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

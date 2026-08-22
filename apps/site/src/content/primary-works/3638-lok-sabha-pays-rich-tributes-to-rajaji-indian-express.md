@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3638-lok-sabha-pays-rich-tributes-to-rajaji-indian-express.pdf
+cover_image: "https://archive.indianliberals.in/covers/3638-lok-sabha-pays-rich-tributes-to-rajaji-indian-express.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

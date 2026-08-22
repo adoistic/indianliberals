@@ -20,6 +20,7 @@ physical:
   pages_total: 5
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/268-an-open-letter-to-finance-minister-set-the-people-free.pdf
+cover_image: "https://archive.indianliberals.in/covers/268-an-open-letter-to-finance-minister-set-the-people-free.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

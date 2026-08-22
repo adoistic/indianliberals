@@ -19,6 +19,7 @@ physical:
   pages_total: 34
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5908-a-new-political-party-comes-into-being-in-india.pdf
+cover_image: "https://archive.indianliberals.in/covers/5908-a-new-political-party-comes-into-being-in-india.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

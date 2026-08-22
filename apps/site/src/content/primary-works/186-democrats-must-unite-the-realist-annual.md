@@ -20,6 +20,7 @@ physical:
   pages_total: 8
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/186-democrats-must-unite-the-realist-annual.pdf
+cover_image: "https://archive.indianliberals.in/covers/186-democrats-must-unite-the-realist-annual.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

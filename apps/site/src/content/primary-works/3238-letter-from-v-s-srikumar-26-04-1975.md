@@ -22,6 +22,7 @@ physical:
   pages_total: 14
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3238-letter-from-v-s-srikumar-26-04-1975.pdf
+cover_image: "https://archive.indianliberals.in/covers/3238-letter-from-v-s-srikumar-26-04-1975.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

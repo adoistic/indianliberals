@@ -23,6 +23,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3827-general-secretarys-letter-no-116-11-04-1966.pdf
+cover_image: "https://archive.indianliberals.in/covers/3827-general-secretarys-letter-no-116-11-04-1966.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

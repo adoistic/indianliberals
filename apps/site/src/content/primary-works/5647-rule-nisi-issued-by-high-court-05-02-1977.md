@@ -20,6 +20,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5647-rule-nisi-issued-by-high-court-05-02-1977.pdf
+cover_image: "https://archive.indianliberals.in/covers/5647-rule-nisi-issued-by-high-court-05-02-1977.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -20,6 +20,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5579-masani-firm-on-quitting.pdf
+cover_image: "https://archive.indianliberals.in/covers/5579-masani-firm-on-quitting.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

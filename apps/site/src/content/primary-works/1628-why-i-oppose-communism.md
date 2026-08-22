@@ -22,6 +22,7 @@ physical:
   pages_total: 56
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1628-why-i-oppose-communism.pdf
+cover_image: "https://archive.indianliberals.in/covers/1628-why-i-oppose-communism.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

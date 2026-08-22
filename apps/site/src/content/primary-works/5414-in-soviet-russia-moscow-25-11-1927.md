@@ -21,6 +21,7 @@ physical:
   pages_total: 12
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5414-in-soviet-russia-moscow-25-11-1927.pdf
+cover_image: "https://archive.indianliberals.in/covers/5414-in-soviet-russia-moscow-25-11-1927.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

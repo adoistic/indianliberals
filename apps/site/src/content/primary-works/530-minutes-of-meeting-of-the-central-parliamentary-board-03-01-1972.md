@@ -24,6 +24,7 @@ physical:
   pages_total: 6
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/530-minutes-of-meeting-of-the-central-parliamentary-board-03-01-1972.pdf
+cover_image: "https://archive.indianliberals.in/covers/530-minutes-of-meeting-of-the-central-parliamentary-board-03-01-1972.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

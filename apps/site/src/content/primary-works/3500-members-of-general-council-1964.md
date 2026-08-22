@@ -19,6 +19,7 @@ physical:
   pages_total: 25
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3500-members-of-general-council-1964.pdf
+cover_image: "https://archive.indianliberals.in/covers/3500-members-of-general-council-1964.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -19,6 +19,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/254-in-the-present-political-context-the-liberals-dilemma.pdf
+cover_image: "https://archive.indianliberals.in/covers/254-in-the-present-political-context-the-liberals-dilemma.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

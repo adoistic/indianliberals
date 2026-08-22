@@ -22,6 +22,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4423-towards-a-free-society-the-gandhian-alternative.pdf
+cover_image: "https://archive.indianliberals.in/covers/4423-towards-a-free-society-the-gandhian-alternative.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

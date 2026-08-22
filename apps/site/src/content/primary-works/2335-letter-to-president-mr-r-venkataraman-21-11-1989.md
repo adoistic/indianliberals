@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2335-letter-to-president-mr-r-venkataraman-21-11-1989.pdf
+cover_image: "https://archive.indianliberals.in/covers/2335-letter-to-president-mr-r-venkataraman-21-11-1989.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

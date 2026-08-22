@@ -24,6 +24,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/754-for-favour-of-publication-23-01-1975.pdf
+cover_image: "https://archive.indianliberals.in/covers/754-for-favour-of-publication-23-01-1975.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -24,6 +24,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3870-circular-letter-to-prospective-candidates-no-1-22-09-1965.pdf
+cover_image: "https://archive.indianliberals.in/covers/3870-circular-letter-to-prospective-candidates-no-1-22-09-1965.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

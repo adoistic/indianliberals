@@ -19,6 +19,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5686-merits-of-the-case.pdf
+cover_image: "https://archive.indianliberals.in/covers/5686-merits-of-the-case.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -21,6 +21,7 @@ physical:
   pages_total: 14
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5860-mr-minoo-masani-speech-discussion-on-the-finance-bill-20-04-1961.pdf
+cover_image: "https://archive.indianliberals.in/covers/5860-mr-minoo-masani-speech-discussion-on-the-finance-bill-20-04-1961.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

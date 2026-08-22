@@ -22,6 +22,7 @@ physical:
   pages_total: 6
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/336-swatantra-newsletter-no-53-july-august-1965.pdf
+cover_image: "https://archive.indianliberals.in/covers/336-swatantra-newsletter-no-53-july-august-1965.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

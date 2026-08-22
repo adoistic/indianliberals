@@ -20,6 +20,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4885-minutes-of-an-emergent-meeting-of-the-organisation-10-02-1963.pdf
+cover_image: "https://archive.indianliberals.in/covers/4885-minutes-of-an-emergent-meeting-of-the-organisation-10-02-1963.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

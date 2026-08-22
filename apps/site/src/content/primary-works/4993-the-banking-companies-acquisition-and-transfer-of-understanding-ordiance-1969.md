@@ -22,6 +22,7 @@ physical:
   pages_total: 22
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4993-the-banking-companies-acquisition-and-transfer-of-understanding-ordiance-1969.pdf
+cover_image: "https://archive.indianliberals.in/covers/4993-the-banking-companies-acquisition-and-transfer-of-understanding-ordiance-1969.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

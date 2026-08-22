@@ -18,6 +18,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4645-resolution-on-mr-minoo-masani-resignation-from-all-party-offices.pdf
+cover_image: "https://archive.indianliberals.in/covers/4645-resolution-on-mr-minoo-masani-resignation-from-all-party-offices.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

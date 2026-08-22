@@ -22,6 +22,7 @@ physical:
   pages_total: 12
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1577-central-meetings-in-bombay-june-1966.pdf
+cover_image: "https://archive.indianliberals.in/covers/1577-central-meetings-in-bombay-june-1966.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

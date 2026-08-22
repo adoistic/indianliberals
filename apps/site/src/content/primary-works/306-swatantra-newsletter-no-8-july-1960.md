@@ -22,6 +22,7 @@ physical:
   pages_total: 9
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/306-swatantra-newsletter-no-8-july-1960.pdf
+cover_image: "https://archive.indianliberals.in/covers/306-swatantra-newsletter-no-8-july-1960.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

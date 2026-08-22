@@ -18,6 +18,7 @@ physical:
   pages_total: 23
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/553-speech-of-mr-minoo-masani.pdf
+cover_image: "https://archive.indianliberals.in/covers/553-speech-of-mr-minoo-masani.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

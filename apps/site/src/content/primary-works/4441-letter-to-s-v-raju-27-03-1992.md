@@ -20,6 +20,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4441-letter-to-s-v-raju-27-03-1992.pdf
+cover_image: "https://archive.indianliberals.in/covers/4441-letter-to-s-v-raju-27-03-1992.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

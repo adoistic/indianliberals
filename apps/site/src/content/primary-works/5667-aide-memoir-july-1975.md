@@ -20,6 +20,7 @@ physical:
   pages_total: 55
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5667-aide-memoir-july-1975.pdf
+cover_image: "https://archive.indianliberals.in/covers/5667-aide-memoir-july-1975.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -21,6 +21,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2293-rent-and-electricity-charges-for-the-month-apr-1975-20-05-1975.pdf
+cover_image: "https://archive.indianliberals.in/covers/2293-rent-and-electricity-charges-for-the-month-apr-1975-20-05-1975.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

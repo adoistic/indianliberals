@@ -21,6 +21,7 @@ physical:
   pages_total: 14
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/597-allot-rs1500-crores-for-roads-in-fourth-plan-irtda-news-letter.pdf
+cover_image: "https://archive.indianliberals.in/covers/597-allot-rs1500-crores-for-roads-in-fourth-plan-irtda-news-letter.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

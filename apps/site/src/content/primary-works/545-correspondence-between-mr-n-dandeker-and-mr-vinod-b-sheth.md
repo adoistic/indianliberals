@@ -19,6 +19,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/545-correspondence-between-mr-n-dandeker-and-mr-vinod-b-sheth.pdf
+cover_image: "https://archive.indianliberals.in/covers/545-correspondence-between-mr-n-dandeker-and-mr-vinod-b-sheth.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

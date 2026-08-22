@@ -22,6 +22,7 @@ physical:
   pages_total: 20
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4804-letter-to-rajeev-patil.pdf
+cover_image: "https://archive.indianliberals.in/covers/4804-letter-to-rajeev-patil.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

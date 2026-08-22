@@ -19,6 +19,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/548-there-is-the-room-at-the-top.pdf
+cover_image: "https://archive.indianliberals.in/covers/548-there-is-the-room-at-the-top.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

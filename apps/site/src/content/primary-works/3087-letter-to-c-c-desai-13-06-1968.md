@@ -20,6 +20,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3087-letter-to-c-c-desai-13-06-1968.pdf
+cover_image: "https://archive.indianliberals.in/covers/3087-letter-to-c-c-desai-13-06-1968.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

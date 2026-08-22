@@ -18,6 +18,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4519-swatantra-at-the-cross-roads-by-v-t-sreenivasan.pdf
+cover_image: "https://archive.indianliberals.in/covers/4519-swatantra-at-the-cross-roads-by-v-t-sreenivasan.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

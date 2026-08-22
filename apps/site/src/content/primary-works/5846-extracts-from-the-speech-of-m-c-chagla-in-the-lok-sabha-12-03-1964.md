@@ -19,6 +19,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5846-extracts-from-the-speech-of-m-c-chagla-in-the-lok-sabha-12-03-1964.pdf
+cover_image: "https://archive.indianliberals.in/covers/5846-extracts-from-the-speech-of-m-c-chagla-in-the-lok-sabha-12-03-1964.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

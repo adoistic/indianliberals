@@ -23,6 +23,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4786-the-bhishma-of-indian-politics-h-m-patel.pdf
+cover_image: "https://archive.indianliberals.in/covers/4786-the-bhishma-of-indian-politics-h-m-patel.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5944-letter-to-jayaprakash-naryan-06-12-1974.pdf
+cover_image: "https://archive.indianliberals.in/covers/5944-letter-to-jayaprakash-naryan-06-12-1974.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -20,6 +20,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3475-ssp-day-long-efforts-pay.pdf
+cover_image: "https://archive.indianliberals.in/covers/3475-ssp-day-long-efforts-pay.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

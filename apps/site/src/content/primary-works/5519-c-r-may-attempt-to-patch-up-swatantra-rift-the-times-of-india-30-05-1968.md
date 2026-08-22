@@ -22,6 +22,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5519-c-r-may-attempt-to-patch-up-swatantra-rift-the-times-of-india-30-05-1968.pdf
+cover_image: "https://archive.indianliberals.in/covers/5519-c-r-may-attempt-to-patch-up-swatantra-rift-the-times-of-india-30-05-1968.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

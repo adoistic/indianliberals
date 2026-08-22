@@ -20,6 +20,7 @@ physical:
   pages_total: 21
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1862-letter-to-lal-bahadur-shstri-21-11-1965.pdf
+cover_image: "https://archive.indianliberals.in/covers/1862-letter-to-lal-bahadur-shstri-21-11-1965.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

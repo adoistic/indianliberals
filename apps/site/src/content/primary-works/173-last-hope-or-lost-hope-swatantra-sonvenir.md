@@ -21,6 +21,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/173-last-hope-or-lost-hope-swatantra-sonvenir.pdf
+cover_image: "https://archive.indianliberals.in/covers/173-last-hope-or-lost-hope-swatantra-sonvenir.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

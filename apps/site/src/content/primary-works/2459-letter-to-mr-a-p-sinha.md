@@ -21,6 +21,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2459-letter-to-mr-a-p-sinha.pdf
+cover_image: "https://archive.indianliberals.in/covers/2459-letter-to-mr-a-p-sinha.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

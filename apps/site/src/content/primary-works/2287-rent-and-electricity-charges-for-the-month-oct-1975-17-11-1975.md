@@ -21,6 +21,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2287-rent-and-electricity-charges-for-the-month-oct-1975-17-11-1975.pdf
+cover_image: "https://archive.indianliberals.in/covers/2287-rent-and-electricity-charges-for-the-month-oct-1975-17-11-1975.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

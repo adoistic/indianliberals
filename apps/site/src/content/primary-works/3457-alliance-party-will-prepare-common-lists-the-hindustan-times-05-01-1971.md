@@ -21,6 +21,7 @@ physical:
   pages_total: 5
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3457-alliance-party-will-prepare-common-lists-the-hindustan-times-05-01-1971.pdf
+cover_image: "https://archive.indianliberals.in/covers/3457-alliance-party-will-prepare-common-lists-the-hindustan-times-05-01-1971.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -22,6 +22,7 @@ physical:
   pages_total: 40
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5673-labours-friend-concress-or-swatantra.pdf
+cover_image: "https://archive.indianliberals.in/covers/5673-labours-friend-concress-or-swatantra.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

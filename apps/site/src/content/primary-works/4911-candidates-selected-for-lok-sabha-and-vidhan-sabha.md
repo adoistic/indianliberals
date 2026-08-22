@@ -21,6 +21,7 @@ physical:
   pages_total: 6
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4911-candidates-selected-for-lok-sabha-and-vidhan-sabha.pdf
+cover_image: "https://archive.indianliberals.in/covers/4911-candidates-selected-for-lok-sabha-and-vidhan-sabha.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

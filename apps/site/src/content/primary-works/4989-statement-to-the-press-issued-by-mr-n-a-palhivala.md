@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4989-statement-to-the-press-issued-by-mr-n-a-palhivala.pdf
+cover_image: "https://archive.indianliberals.in/covers/4989-statement-to-the-press-issued-by-mr-n-a-palhivala.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

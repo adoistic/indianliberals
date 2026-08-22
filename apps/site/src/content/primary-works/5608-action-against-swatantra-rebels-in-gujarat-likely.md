@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5608-action-against-swatantra-rebels-in-gujarat-likely.pdf
+cover_image: "https://archive.indianliberals.in/covers/5608-action-against-swatantra-rebels-in-gujarat-likely.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -22,6 +22,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1294-for-favour-of-publication-15-02-1968.pdf
+cover_image: "https://archive.indianliberals.in/covers/1294-for-favour-of-publication-15-02-1968.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

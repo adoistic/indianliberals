@@ -23,6 +23,7 @@ physical:
   pages_total: 6
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4673-copy-of-the-report-of-the-committee.pdf
+cover_image: "https://archive.indianliberals.in/covers/4673-copy-of-the-report-of-the-committee.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

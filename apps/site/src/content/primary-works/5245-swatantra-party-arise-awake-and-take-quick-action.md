@@ -22,6 +22,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5245-swatantra-party-arise-awake-and-take-quick-action.pdf
+cover_image: "https://archive.indianliberals.in/covers/5245-swatantra-party-arise-awake-and-take-quick-action.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

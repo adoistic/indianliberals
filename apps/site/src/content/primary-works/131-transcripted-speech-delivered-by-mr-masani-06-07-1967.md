@@ -20,6 +20,7 @@ physical:
   pages_total: 21
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/131-transcripted-speech-delivered-by-mr-masani-06-07-1967.pdf
+cover_image: "https://archive.indianliberals.in/covers/131-transcripted-speech-delivered-by-mr-masani-06-07-1967.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

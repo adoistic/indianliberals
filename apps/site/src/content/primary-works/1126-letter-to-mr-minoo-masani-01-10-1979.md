@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1126-letter-to-mr-minoo-masani-01-10-1979.pdf
+cover_image: "https://archive.indianliberals.in/covers/1126-letter-to-mr-minoo-masani-01-10-1979.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

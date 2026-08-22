@@ -20,6 +20,7 @@ physical:
   pages_total: 16
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4375-letter-to-s-v-raju-26-09-1977.pdf
+cover_image: "https://archive.indianliberals.in/covers/4375-letter-to-s-v-raju-26-09-1977.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

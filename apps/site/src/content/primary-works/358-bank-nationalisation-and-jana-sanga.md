@@ -20,6 +20,7 @@ physical:
   pages_total: 11
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/358-bank-nationalisation-and-jana-sanga.pdf
+cover_image: "https://archive.indianliberals.in/covers/358-bank-nationalisation-and-jana-sanga.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2354-letter-to-regional-transport-officer-regarding-jeep-no-mra4093-28-12-1984.pdf
+cover_image: "https://archive.indianliberals.in/covers/2354-letter-to-regional-transport-officer-regarding-jeep-no-mra4093-28-12-1984.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

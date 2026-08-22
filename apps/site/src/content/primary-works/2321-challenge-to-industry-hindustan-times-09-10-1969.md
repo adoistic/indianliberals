@@ -19,6 +19,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2321-challenge-to-industry-hindustan-times-09-10-1969.pdf
+cover_image: "https://archive.indianliberals.in/covers/2321-challenge-to-industry-hindustan-times-09-10-1969.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

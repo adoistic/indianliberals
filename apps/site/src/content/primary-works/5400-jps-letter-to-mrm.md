@@ -19,6 +19,7 @@ physical:
   pages_total: 6
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5400-jps-letter-to-mrm.pdf
+cover_image: "https://archive.indianliberals.in/covers/5400-jps-letter-to-mrm.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

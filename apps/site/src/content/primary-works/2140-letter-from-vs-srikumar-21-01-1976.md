@@ -22,6 +22,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2140-letter-from-vs-srikumar-21-01-1976.pdf
+cover_image: "https://archive.indianliberals.in/covers/2140-letter-from-vs-srikumar-21-01-1976.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

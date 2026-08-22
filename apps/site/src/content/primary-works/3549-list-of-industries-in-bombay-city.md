@@ -19,6 +19,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3549-list-of-industries-in-bombay-city.pdf
+cover_image: "https://archive.indianliberals.in/covers/3549-list-of-industries-in-bombay-city.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

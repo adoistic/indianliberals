@@ -237,6 +237,13 @@ def build_entry(name, inv_row, meta, summ, disagree, known_thinkers, vocab):
           "physical:", f"  pages_total: {inv_row['pages']}",
           "  pages_total_source: pypdfium2",
           f"pdf_url: {pdf_url}",
+          # Every listing on the site leads with a cover: /primary-works/, the
+          # series pages, the periodical runs, the Related strips. Without one
+          # the Swatantra works showed as a wall of blank tiles. These are page
+          # 1 of each scan, rendered by make-covers.py and served from the
+          # packed blob by apps/archive-root at the same URL shape the 1,463
+          # older individual covers use.
+          f'cover_image: "{ARCHIVE}/covers/{slug}.webp"',
           "rights:", "  status: takedown_on_request", "  license: in-copyright",
           "  license_url: null",
           "  rights_statement: Rights held by original depositors / Centre for "

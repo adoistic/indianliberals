@@ -20,6 +20,7 @@ physical:
   pages_total: 10
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2930-lok-sabha-elections-voting-trends.pdf
+cover_image: "https://archive.indianliberals.in/covers/2930-lok-sabha-elections-voting-trends.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

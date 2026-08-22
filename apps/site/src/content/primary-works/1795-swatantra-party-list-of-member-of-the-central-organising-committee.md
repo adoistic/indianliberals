@@ -19,6 +19,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1795-swatantra-party-list-of-member-of-the-central-organising-committee.pdf
+cover_image: "https://archive.indianliberals.in/covers/1795-swatantra-party-list-of-member-of-the-central-organising-committee.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

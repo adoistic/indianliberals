@@ -21,6 +21,7 @@ physical:
   pages_total: 14
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/638-the-role-of-taxation-in-planned-economy-31-05-1962.pdf
+cover_image: "https://archive.indianliberals.in/covers/638-the-role-of-taxation-in-planned-economy-31-05-1962.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

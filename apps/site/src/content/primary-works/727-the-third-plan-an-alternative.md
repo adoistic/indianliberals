@@ -19,6 +19,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/727-the-third-plan-an-alternative.pdf
+cover_image: "https://archive.indianliberals.in/covers/727-the-third-plan-an-alternative.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

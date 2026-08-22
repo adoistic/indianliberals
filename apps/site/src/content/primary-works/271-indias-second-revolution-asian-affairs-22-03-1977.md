@@ -20,6 +20,7 @@ physical:
   pages_total: 11
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/271-indias-second-revolution-asian-affairs-22-03-1977.pdf
+cover_image: "https://archive.indianliberals.in/covers/271-indias-second-revolution-asian-affairs-22-03-1977.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

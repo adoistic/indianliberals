@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4390-liberty-and-equality-freedom-is-the-supreme-value-the-times-of-india-19-07-2000.pdf
+cover_image: "https://archive.indianliberals.in/covers/4390-liberty-and-equality-freedom-is-the-supreme-value-the-times-of-india-19-07-2000.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

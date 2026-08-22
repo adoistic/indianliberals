@@ -24,6 +24,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3601-swatantra-party-minuits-of-meeting-16-11-1993.pdf
+cover_image: "https://archive.indianliberals.in/covers/3601-swatantra-party-minuits-of-meeting-16-11-1993.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

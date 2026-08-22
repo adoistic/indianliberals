@@ -22,6 +22,7 @@ physical:
   pages_total: 10
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/341-swatantra-newsletter-no-58-may-1966.pdf
+cover_image: "https://archive.indianliberals.in/covers/341-swatantra-newsletter-no-58-may-1966.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

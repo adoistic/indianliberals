@@ -21,6 +21,7 @@ physical:
   pages_total: 10
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/549-the-opposition-in-india-20-10-1966.pdf
+cover_image: "https://archive.indianliberals.in/covers/549-the-opposition-in-india-20-10-1966.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

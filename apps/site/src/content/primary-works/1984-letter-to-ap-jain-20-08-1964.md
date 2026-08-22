@@ -19,6 +19,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1984-letter-to-ap-jain-20-08-1964.pdf
+cover_image: "https://archive.indianliberals.in/covers/1984-letter-to-ap-jain-20-08-1964.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

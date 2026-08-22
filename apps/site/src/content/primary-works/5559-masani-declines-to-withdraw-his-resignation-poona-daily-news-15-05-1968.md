@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5559-masani-declines-to-withdraw-his-resignation-poona-daily-news-15-05-1968.pdf
+cover_image: "https://archive.indianliberals.in/covers/5559-masani-declines-to-withdraw-his-resignation-poona-daily-news-15-05-1968.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

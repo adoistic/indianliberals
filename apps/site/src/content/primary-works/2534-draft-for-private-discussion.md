@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2534-draft-for-private-discussion.pdf
+cover_image: "https://archive.indianliberals.in/covers/2534-draft-for-private-discussion.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

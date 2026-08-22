@@ -20,6 +20,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3664-india-without-rajaji-march-of-the-nation-06-01-1973.pdf
+cover_image: "https://archive.indianliberals.in/covers/3664-india-without-rajaji-march-of-the-nation-06-01-1973.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

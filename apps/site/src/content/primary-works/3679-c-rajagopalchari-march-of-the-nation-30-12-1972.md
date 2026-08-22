@@ -21,6 +21,7 @@ physical:
   pages_total: 8
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3679-c-rajagopalchari-march-of-the-nation-30-12-1972.pdf
+cover_image: "https://archive.indianliberals.in/covers/3679-c-rajagopalchari-march-of-the-nation-30-12-1972.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

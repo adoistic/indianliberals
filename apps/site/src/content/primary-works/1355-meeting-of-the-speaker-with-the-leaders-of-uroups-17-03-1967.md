@@ -20,6 +20,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1355-meeting-of-the-speaker-with-the-leaders-of-uroups-17-03-1967.pdf
+cover_image: "https://archive.indianliberals.in/covers/1355-meeting-of-the-speaker-with-the-leaders-of-uroups-17-03-1967.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

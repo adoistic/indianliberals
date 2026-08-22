@@ -22,6 +22,7 @@ physical:
   pages_total: 10
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/357-election-menifesto-bharatiya-kranti-dal.pdf
+cover_image: "https://archive.indianliberals.in/covers/357-election-menifesto-bharatiya-kranti-dal.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

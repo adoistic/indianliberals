@@ -23,6 +23,7 @@ physical:
   pages_total: 7
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5768-office-bearers-members-of-the-executive-committee-of-swatantra-party.pdf
+cover_image: "https://archive.indianliberals.in/covers/5768-office-bearers-members-of-the-executive-committee-of-swatantra-party.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

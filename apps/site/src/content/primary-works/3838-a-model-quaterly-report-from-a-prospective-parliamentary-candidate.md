@@ -23,6 +23,7 @@ physical:
   pages_total: 10
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3838-a-model-quaterly-report-from-a-prospective-parliamentary-candidate.pdf
+cover_image: "https://archive.indianliberals.in/covers/3838-a-model-quaterly-report-from-a-prospective-parliamentary-candidate.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

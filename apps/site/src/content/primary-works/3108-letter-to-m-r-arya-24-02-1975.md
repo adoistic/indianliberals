@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3108-letter-to-m-r-arya-24-02-1975.pdf
+cover_image: "https://archive.indianliberals.in/covers/3108-letter-to-m-r-arya-24-02-1975.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

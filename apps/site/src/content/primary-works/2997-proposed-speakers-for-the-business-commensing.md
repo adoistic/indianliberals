@@ -18,6 +18,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2997-proposed-speakers-for-the-business-commensing.pdf
+cover_image: "https://archive.indianliberals.in/covers/2997-proposed-speakers-for-the-business-commensing.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/83-letter-to-miss-kusumkumari-joshi-16-03-1791.pdf
+cover_image: "https://archive.indianliberals.in/covers/83-letter-to-miss-kusumkumari-joshi-16-03-1791.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

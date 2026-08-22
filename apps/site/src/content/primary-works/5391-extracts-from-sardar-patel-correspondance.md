@@ -19,6 +19,7 @@ physical:
   pages_total: 14
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5391-extracts-from-sardar-patel-correspondance.pdf
+cover_image: "https://archive.indianliberals.in/covers/5391-extracts-from-sardar-patel-correspondance.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

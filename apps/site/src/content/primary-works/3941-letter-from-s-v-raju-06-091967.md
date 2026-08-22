@@ -24,6 +24,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3941-letter-from-s-v-raju-06-091967.pdf
+cover_image: "https://archive.indianliberals.in/covers/3941-letter-from-s-v-raju-06-091967.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

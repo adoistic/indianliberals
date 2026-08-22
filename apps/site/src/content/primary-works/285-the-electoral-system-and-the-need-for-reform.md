@@ -18,6 +18,7 @@ physical:
   pages_total: 40
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/285-the-electoral-system-and-the-need-for-reform.pdf
+cover_image: "https://archive.indianliberals.in/covers/285-the-electoral-system-and-the-need-for-reform.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

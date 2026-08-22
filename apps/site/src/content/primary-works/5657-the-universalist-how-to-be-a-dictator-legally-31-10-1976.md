@@ -19,6 +19,7 @@ physical:
   pages_total: 16
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5657-the-universalist-how-to-be-a-dictator-legally-31-10-1976.pdf
+cover_image: "https://archive.indianliberals.in/covers/5657-the-universalist-how-to-be-a-dictator-legally-31-10-1976.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

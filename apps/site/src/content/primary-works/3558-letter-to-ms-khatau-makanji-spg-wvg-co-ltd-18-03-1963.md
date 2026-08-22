@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3558-letter-to-ms-khatau-makanji-spg-wvg-co-ltd-18-03-1963.pdf
+cover_image: "https://archive.indianliberals.in/covers/3558-letter-to-ms-khatau-makanji-spg-wvg-co-ltd-18-03-1963.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

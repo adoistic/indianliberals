@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2017-summary-record-of-the-proceedings-of-the-meeting-26-02-1964.pdf
+cover_image: "https://archive.indianliberals.in/covers/2017-summary-record-of-the-proceedings-of-the-meeting-26-02-1964.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

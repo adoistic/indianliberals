@@ -22,6 +22,7 @@ physical:
   pages_total: 6
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3585-letter-to-mr-n-k-ganapaiah-28-03-1971.pdf
+cover_image: "https://archive.indianliberals.in/covers/3585-letter-to-mr-n-k-ganapaiah-28-03-1971.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

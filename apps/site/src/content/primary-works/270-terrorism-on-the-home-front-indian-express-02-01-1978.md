@@ -20,6 +20,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/270-terrorism-on-the-home-front-indian-express-02-01-1978.pdf
+cover_image: "https://archive.indianliberals.in/covers/270-terrorism-on-the-home-front-indian-express-02-01-1978.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

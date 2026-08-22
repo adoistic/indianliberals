@@ -20,6 +20,7 @@ physical:
   pages_total: 7
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5868-mr-minoo-masani-disscussion-on-the-budget-in-the-lok-sabha-07-03-1960.pdf
+cover_image: "https://archive.indianliberals.in/covers/5868-mr-minoo-masani-disscussion-on-the-budget-in-the-lok-sabha-07-03-1960.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

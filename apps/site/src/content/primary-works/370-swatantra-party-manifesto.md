@@ -22,6 +22,7 @@ physical:
   pages_total: 48
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/370-swatantra-party-manifesto.pdf
+cover_image: "https://archive.indianliberals.in/covers/370-swatantra-party-manifesto.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -21,6 +21,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3611-swatantra-party-minuits-of-meeting-08-12-1986.pdf
+cover_image: "https://archive.indianliberals.in/covers/3611-swatantra-party-minuits-of-meeting-08-12-1986.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

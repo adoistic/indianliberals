@@ -20,6 +20,7 @@ physical:
   pages_total: 5
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/6120-letter-from-akhil-bhartiya-jain-s-m-sangh.pdf
+cover_image: "https://archive.indianliberals.in/covers/6120-letter-from-akhil-bhartiya-jain-s-m-sangh.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

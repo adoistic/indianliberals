@@ -23,6 +23,7 @@ physical:
   pages_total: 15
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4999-speech-delivered-by-mr-minoo-masani-01-10-1972.pdf
+cover_image: "https://archive.indianliberals.in/covers/4999-speech-delivered-by-mr-minoo-masani-01-10-1972.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

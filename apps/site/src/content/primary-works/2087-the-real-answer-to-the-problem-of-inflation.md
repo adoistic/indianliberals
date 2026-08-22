@@ -18,6 +18,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2087-the-real-answer-to-the-problem-of-inflation.pdf
+cover_image: "https://archive.indianliberals.in/covers/2087-the-real-answer-to-the-problem-of-inflation.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

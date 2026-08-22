@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/992-mr-masanis-supplementary-report-to-the-central-organising.pdf
+cover_image: "https://archive.indianliberals.in/covers/992-mr-masanis-supplementary-report-to-the-central-organising.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

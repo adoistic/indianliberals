@@ -21,6 +21,7 @@ physical:
   pages_total: 7
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/582-problem-of-nationalism-and-resonal-security-in-south-and-south-east-asia-quest.pdf
+cover_image: "https://archive.indianliberals.in/covers/582-problem-of-nationalism-and-resonal-security-in-south-and-south-east-asia-quest.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

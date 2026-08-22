@@ -21,6 +21,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5380-note-of-disscussion-with-charan-singh-15-06-1968.pdf
+cover_image: "https://archive.indianliberals.in/covers/5380-note-of-disscussion-with-charan-singh-15-06-1968.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

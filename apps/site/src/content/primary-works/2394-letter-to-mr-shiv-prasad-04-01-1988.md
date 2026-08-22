@@ -22,6 +22,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2394-letter-to-mr-shiv-prasad-04-01-1988.pdf
+cover_image: "https://archive.indianliberals.in/covers/2394-letter-to-mr-shiv-prasad-04-01-1988.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

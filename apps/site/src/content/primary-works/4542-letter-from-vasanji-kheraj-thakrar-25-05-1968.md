@@ -21,6 +21,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4542-letter-from-vasanji-kheraj-thakrar-25-05-1968.pdf
+cover_image: "https://archive.indianliberals.in/covers/4542-letter-from-vasanji-kheraj-thakrar-25-05-1968.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3608-swatantra-party-minuits-of-meeting-13-02-1989.pdf
+cover_image: "https://archive.indianliberals.in/covers/3608-swatantra-party-minuits-of-meeting-13-02-1989.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -20,6 +20,7 @@ physical:
   pages_total: 10
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/611-role-of-opposition-in-national-emergency-22-11-1962.pdf
+cover_image: "https://archive.indianliberals.in/covers/611-role-of-opposition-in-national-emergency-22-11-1962.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

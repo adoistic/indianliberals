@@ -24,6 +24,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5904-international-clipping-service-20-03-1985.pdf
+cover_image: "https://archive.indianliberals.in/covers/5904-international-clipping-service-20-03-1985.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

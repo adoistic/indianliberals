@@ -23,6 +23,7 @@ physical:
   pages_total: 5
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3863-resolution-of-the-national-executive-swatantra-party-01-11-1965.pdf
+cover_image: "https://archive.indianliberals.in/covers/3863-resolution-of-the-national-executive-swatantra-party-01-11-1965.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -23,6 +23,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3593-swatantra-party-minuits-of-meeting-18-06-1998.pdf
+cover_image: "https://archive.indianliberals.in/covers/3593-swatantra-party-minuits-of-meeting-18-06-1998.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

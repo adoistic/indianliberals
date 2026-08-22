@@ -20,6 +20,7 @@ physical:
   pages_total: 20
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4920-satya-samachar-26-06-1976.pdf
+cover_image: "https://archive.indianliberals.in/covers/4920-satya-samachar-26-06-1976.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

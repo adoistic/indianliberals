@@ -18,6 +18,7 @@ physical:
   pages_total: 14
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5663-a-note-on-the-press-in-india.pdf
+cover_image: "https://archive.indianliberals.in/covers/5663-a-note-on-the-press-in-india.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

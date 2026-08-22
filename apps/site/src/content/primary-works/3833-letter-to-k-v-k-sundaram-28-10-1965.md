@@ -22,6 +22,7 @@ physical:
   pages_total: 22
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3833-letter-to-k-v-k-sundaram-28-10-1965.pdf
+cover_image: "https://archive.indianliberals.in/covers/3833-letter-to-k-v-k-sundaram-28-10-1965.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

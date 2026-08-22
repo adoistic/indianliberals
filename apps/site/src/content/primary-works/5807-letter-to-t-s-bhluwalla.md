@@ -21,6 +21,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5807-letter-to-t-s-bhluwalla.pdf
+cover_image: "https://archive.indianliberals.in/covers/5807-letter-to-t-s-bhluwalla.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -18,6 +18,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1251-how-much-dows-cabinet-cost.pdf
+cover_image: "https://archive.indianliberals.in/covers/1251-how-much-dows-cabinet-cost.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

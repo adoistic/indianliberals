@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5211-letter-to-n-k-ganapaiah-09-11-1959.pdf
+cover_image: "https://archive.indianliberals.in/covers/5211-letter-to-n-k-ganapaiah-09-11-1959.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

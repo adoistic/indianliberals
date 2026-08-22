@@ -22,6 +22,7 @@ physical:
   pages_total: 21
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5154-in-the-supereme-court-of-india-original-jurisdiction.pdf
+cover_image: "https://archive.indianliberals.in/covers/5154-in-the-supereme-court-of-india-original-jurisdiction.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

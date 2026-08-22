@@ -21,6 +21,7 @@ physical:
   pages_total: 6
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/685-lecture-notes-for-ivor-youngs-dinner-discussion-11-10-1960.pdf
+cover_image: "https://archive.indianliberals.in/covers/685-lecture-notes-for-ivor-youngs-dinner-discussion-11-10-1960.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

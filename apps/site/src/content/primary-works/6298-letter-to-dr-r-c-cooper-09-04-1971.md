@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/6298-letter-to-dr-r-c-cooper-09-04-1971.pdf
+cover_image: "https://archive.indianliberals.in/covers/6298-letter-to-dr-r-c-cooper-09-04-1971.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

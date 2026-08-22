@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3351-telegram-to-mr-minoo-masani-16-01-1962.pdf
+cover_image: "https://archive.indianliberals.in/covers/3351-telegram-to-mr-minoo-masani-16-01-1962.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

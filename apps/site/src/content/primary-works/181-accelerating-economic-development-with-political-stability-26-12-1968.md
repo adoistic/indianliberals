@@ -21,6 +21,7 @@ physical:
   pages_total: 6
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/181-accelerating-economic-development-with-political-stability-26-12-1968.pdf
+cover_image: "https://archive.indianliberals.in/covers/181-accelerating-economic-development-with-political-stability-26-12-1968.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -19,6 +19,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3086-letter-to-n-dandeker-03-07-1968.pdf
+cover_image: "https://archive.indianliberals.in/covers/3086-letter-to-n-dandeker-03-07-1968.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

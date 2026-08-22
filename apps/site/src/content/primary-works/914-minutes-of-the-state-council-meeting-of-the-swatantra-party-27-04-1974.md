@@ -24,6 +24,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/914-minutes-of-the-state-council-meeting-of-the-swatantra-party-27-04-1974.pdf
+cover_image: "https://archive.indianliberals.in/covers/914-minutes-of-the-state-council-meeting-of-the-swatantra-party-27-04-1974.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

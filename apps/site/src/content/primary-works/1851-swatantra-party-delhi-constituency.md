@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1851-swatantra-party-delhi-constituency.pdf
+cover_image: "https://archive.indianliberals.in/covers/1851-swatantra-party-delhi-constituency.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

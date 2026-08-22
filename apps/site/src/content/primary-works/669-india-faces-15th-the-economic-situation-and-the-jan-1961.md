@@ -21,6 +21,7 @@ physical:
   pages_total: 8
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/669-india-faces-15th-the-economic-situation-and-the-jan-1961.pdf
+cover_image: "https://archive.indianliberals.in/covers/669-india-faces-15th-the-economic-situation-and-the-jan-1961.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

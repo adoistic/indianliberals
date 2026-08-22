@@ -22,6 +22,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3720-resolutions-passed-at-the-national-excutive-meeting-of-the-swatantra-party-06-04-1974.pdf
+cover_image: "https://archive.indianliberals.in/covers/3720-resolutions-passed-at-the-national-excutive-meeting-of-the-swatantra-party-06-04-1974.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

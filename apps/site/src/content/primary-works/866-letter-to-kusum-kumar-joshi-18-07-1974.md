@@ -20,6 +20,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/866-letter-to-kusum-kumar-joshi-18-07-1974.pdf
+cover_image: "https://archive.indianliberals.in/covers/866-letter-to-kusum-kumar-joshi-18-07-1974.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

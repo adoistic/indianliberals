@@ -19,6 +19,7 @@ physical:
   pages_total: 12
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/276-jp-s-last-will-and-testament-the-illustrated-weekly-of-india-17-09-1977.pdf
+cover_image: "https://archive.indianliberals.in/covers/276-jp-s-last-will-and-testament-the-illustrated-weekly-of-india-17-09-1977.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

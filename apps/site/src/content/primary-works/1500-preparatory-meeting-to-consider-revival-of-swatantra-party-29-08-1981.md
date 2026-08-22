@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1500-preparatory-meeting-to-consider-revival-of-swatantra-party-29-08-1981.pdf
+cover_image: "https://archive.indianliberals.in/covers/1500-preparatory-meeting-to-consider-revival-of-swatantra-party-29-08-1981.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

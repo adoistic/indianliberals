@@ -21,6 +21,7 @@ physical:
   pages_total: 5
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3498-office-bearers-and-members-of-national-executive.pdf
+cover_image: "https://archive.indianliberals.in/covers/3498-office-bearers-and-members-of-national-executive.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

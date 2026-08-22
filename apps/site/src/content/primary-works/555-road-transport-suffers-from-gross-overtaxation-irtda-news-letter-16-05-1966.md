@@ -21,6 +21,7 @@ physical:
   pages_total: 16
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/555-road-transport-suffers-from-gross-overtaxation-irtda-news-letter-16-05-1966.pdf
+cover_image: "https://archive.indianliberals.in/covers/555-road-transport-suffers-from-gross-overtaxation-irtda-news-letter-16-05-1966.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -22,6 +22,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5810-member-object-to-masani-remarks.pdf
+cover_image: "https://archive.indianliberals.in/covers/5810-member-object-to-masani-remarks.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

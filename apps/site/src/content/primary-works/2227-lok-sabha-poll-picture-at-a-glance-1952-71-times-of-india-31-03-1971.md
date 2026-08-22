@@ -20,6 +20,7 @@ physical:
   pages_total: 8
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2227-lok-sabha-poll-picture-at-a-glance-1952-71-times-of-india-31-03-1971.pdf
+cover_image: "https://archive.indianliberals.in/covers/2227-lok-sabha-poll-picture-at-a-glance-1952-71-times-of-india-31-03-1971.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

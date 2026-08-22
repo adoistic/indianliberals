@@ -19,6 +19,7 @@ physical:
   pages_total: 5
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/671-speech-at-the-elphinstone-college-23-12-1960.pdf
+cover_image: "https://archive.indianliberals.in/covers/671-speech-at-the-elphinstone-college-23-12-1960.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

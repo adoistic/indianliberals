@@ -23,6 +23,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3781-a-note-on-devaluation-and-the-measure-by-which-it-should-be-followed.pdf
+cover_image: "https://archive.indianliberals.in/covers/3781-a-note-on-devaluation-and-the-measure-by-which-it-should-be-followed.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

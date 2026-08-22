@@ -21,6 +21,7 @@ physical:
   pages_total: 7
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/610-notes-and-extracts-from-keesings-contemporary-archives.pdf
+cover_image: "https://archive.indianliberals.in/covers/610-notes-and-extracts-from-keesings-contemporary-archives.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

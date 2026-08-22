@@ -19,6 +19,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4663-letter-to-ratibhai-ukhaabhai-patel-18-03-1968.pdf
+cover_image: "https://archive.indianliberals.in/covers/4663-letter-to-ratibhai-ukhaabhai-patel-18-03-1968.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

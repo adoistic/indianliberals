@@ -20,6 +20,7 @@ physical:
   pages_total: 8
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5853-speech-of-mr-minoo-masani-for-opening-debate-on-mid-term-appraisal-in-the-lok-sabha-05-12-1963.pdf
+cover_image: "https://archive.indianliberals.in/covers/5853-speech-of-mr-minoo-masani-for-opening-debate-on-mid-term-appraisal-in-the-lok-sabha-05-12-1963.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

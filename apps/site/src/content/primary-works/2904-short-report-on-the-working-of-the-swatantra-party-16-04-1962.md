@@ -22,6 +22,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2904-short-report-on-the-working-of-the-swatantra-party-16-04-1962.pdf
+cover_image: "https://archive.indianliberals.in/covers/2904-short-report-on-the-working-of-the-swatantra-party-16-04-1962.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

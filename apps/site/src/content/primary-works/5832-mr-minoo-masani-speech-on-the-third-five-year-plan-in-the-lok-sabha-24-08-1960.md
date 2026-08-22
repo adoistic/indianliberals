@@ -21,6 +21,7 @@ physical:
   pages_total: 7
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5832-mr-minoo-masani-speech-on-the-third-five-year-plan-in-the-lok-sabha-24-08-1960.pdf
+cover_image: "https://archive.indianliberals.in/covers/5832-mr-minoo-masani-speech-on-the-third-five-year-plan-in-the-lok-sabha-24-08-1960.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

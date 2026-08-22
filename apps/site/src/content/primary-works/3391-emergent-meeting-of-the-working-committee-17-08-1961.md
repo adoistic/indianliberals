@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3391-emergent-meeting-of-the-working-committee-17-08-1961.pdf
+cover_image: "https://archive.indianliberals.in/covers/3391-emergent-meeting-of-the-working-committee-17-08-1961.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

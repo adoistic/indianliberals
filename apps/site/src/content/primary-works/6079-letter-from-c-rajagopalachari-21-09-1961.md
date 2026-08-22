@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/6079-letter-from-c-rajagopalachari-21-09-1961.pdf
+cover_image: "https://archive.indianliberals.in/covers/6079-letter-from-c-rajagopalachari-21-09-1961.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

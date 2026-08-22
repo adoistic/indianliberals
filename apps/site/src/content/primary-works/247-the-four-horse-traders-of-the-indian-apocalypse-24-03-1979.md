@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/247-the-four-horse-traders-of-the-indian-apocalypse-24-03-1979.pdf
+cover_image: "https://archive.indianliberals.in/covers/247-the-four-horse-traders-of-the-indian-apocalypse-24-03-1979.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

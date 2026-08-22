@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2600-letter-to-v-s-srikumar-27-06-1975.pdf
+cover_image: "https://archive.indianliberals.in/covers/2600-letter-to-v-s-srikumar-27-06-1975.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

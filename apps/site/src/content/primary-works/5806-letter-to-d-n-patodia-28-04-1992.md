@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5806-letter-to-d-n-patodia-28-04-1992.pdf
+cover_image: "https://archive.indianliberals.in/covers/5806-letter-to-d-n-patodia-28-04-1992.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

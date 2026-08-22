@@ -18,6 +18,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3485-number-of-general-council.pdf
+cover_image: "https://archive.indianliberals.in/covers/3485-number-of-general-council.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

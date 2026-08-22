@@ -23,6 +23,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5748-resolution-passed-at-the-national-executive-meeting-of-swatantra-party-06-04-1974.pdf
+cover_image: "https://archive.indianliberals.in/covers/5748-resolution-passed-at-the-national-executive-meeting-of-swatantra-party-06-04-1974.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

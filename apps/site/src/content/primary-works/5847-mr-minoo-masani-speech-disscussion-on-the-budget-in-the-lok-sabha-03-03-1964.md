@@ -21,6 +21,7 @@ physical:
   pages_total: 10
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5847-mr-minoo-masani-speech-disscussion-on-the-budget-in-the-lok-sabha-03-03-1964.pdf
+cover_image: "https://archive.indianliberals.in/covers/5847-mr-minoo-masani-speech-disscussion-on-the-budget-in-the-lok-sabha-03-03-1964.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -20,6 +20,7 @@ physical:
   pages_total: 12
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2646-letter-to-mr-s-mahapatra.pdf
+cover_image: "https://archive.indianliberals.in/covers/2646-letter-to-mr-s-mahapatra.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -24,6 +24,7 @@ physical:
   pages_total: 49
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4783-general-secretarys-report.pdf
+cover_image: "https://archive.indianliberals.in/covers/4783-general-secretarys-report.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

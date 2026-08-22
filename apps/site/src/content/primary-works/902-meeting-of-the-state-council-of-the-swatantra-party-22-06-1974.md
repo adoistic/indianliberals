@@ -23,6 +23,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/902-meeting-of-the-state-council-of-the-swatantra-party-22-06-1974.pdf
+cover_image: "https://archive.indianliberals.in/covers/902-meeting-of-the-state-council-of-the-swatantra-party-22-06-1974.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

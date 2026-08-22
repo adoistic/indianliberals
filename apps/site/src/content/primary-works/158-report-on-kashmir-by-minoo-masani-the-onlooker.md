@@ -21,6 +21,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/158-report-on-kashmir-by-minoo-masani-the-onlooker.pdf
+cover_image: "https://archive.indianliberals.in/covers/158-report-on-kashmir-by-minoo-masani-the-onlooker.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

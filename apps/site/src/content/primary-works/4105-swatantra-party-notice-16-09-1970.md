@@ -22,6 +22,7 @@ physical:
   pages_total: 6
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4105-swatantra-party-notice-16-09-1970.pdf
+cover_image: "https://archive.indianliberals.in/covers/4105-swatantra-party-notice-16-09-1970.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

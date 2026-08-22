@@ -21,6 +21,7 @@ physical:
   pages_total: 5
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2102-letter-to-sv-raju-03-01-1977.pdf
+cover_image: "https://archive.indianliberals.in/covers/2102-letter-to-sv-raju-03-01-1977.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

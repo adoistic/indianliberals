@@ -24,6 +24,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2469-minutes-of-the-meeting-of-the-maharashtra-state-council-27-04-1977.pdf
+cover_image: "https://archive.indianliberals.in/covers/2469-minutes-of-the-meeting-of-the-maharashtra-state-council-27-04-1977.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

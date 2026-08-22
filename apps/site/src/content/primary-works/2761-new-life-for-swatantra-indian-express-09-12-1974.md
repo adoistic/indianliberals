@@ -24,6 +24,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2761-new-life-for-swatantra-indian-express-09-12-1974.pdf
+cover_image: "https://archive.indianliberals.in/covers/2761-new-life-for-swatantra-indian-express-09-12-1974.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -19,6 +19,7 @@ physical:
   pages_total: 27
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/284-a-founding-fathers-review-03-04-1975.pdf
+cover_image: "https://archive.indianliberals.in/covers/284-a-founding-fathers-review-03-04-1975.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

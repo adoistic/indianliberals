@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/577-indias-problem-is-economic-solution-is-political-12-08-1966.pdf
+cover_image: "https://archive.indianliberals.in/covers/577-indias-problem-is-economic-solution-is-political-12-08-1966.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

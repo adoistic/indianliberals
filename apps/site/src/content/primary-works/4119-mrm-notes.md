@@ -20,6 +20,7 @@ physical:
   pages_total: 16
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4119-mrm-notes.pdf
+cover_image: "https://archive.indianliberals.in/covers/4119-mrm-notes.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

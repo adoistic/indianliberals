@@ -18,6 +18,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5389-socialism-and-communism-in-india-by-sankar-ghose.pdf
+cover_image: "https://archive.indianliberals.in/covers/5389-socialism-and-communism-in-india-by-sankar-ghose.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

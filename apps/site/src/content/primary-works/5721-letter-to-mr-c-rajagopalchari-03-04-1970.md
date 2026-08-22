@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5721-letter-to-mr-c-rajagopalchari-03-04-1970.pdf
+cover_image: "https://archive.indianliberals.in/covers/5721-letter-to-mr-c-rajagopalchari-03-04-1970.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

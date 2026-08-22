@@ -20,6 +20,7 @@ physical:
   pages_total: 25
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2506-draft-statement-of-policy.pdf
+cover_image: "https://archive.indianliberals.in/covers/2506-draft-statement-of-policy.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

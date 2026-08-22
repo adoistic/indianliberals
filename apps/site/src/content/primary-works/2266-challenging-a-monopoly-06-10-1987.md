@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2266-challenging-a-monopoly-06-10-1987.pdf
+cover_image: "https://archive.indianliberals.in/covers/2266-challenging-a-monopoly-06-10-1987.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

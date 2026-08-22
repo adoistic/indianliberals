@@ -24,6 +24,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3909-central-office-circular-no-87-06-12-1967.pdf
+cover_image: "https://archive.indianliberals.in/covers/3909-central-office-circular-no-87-06-12-1967.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

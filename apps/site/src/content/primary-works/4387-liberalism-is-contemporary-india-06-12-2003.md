@@ -23,6 +23,7 @@ physical:
   pages_total: 11
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4387-liberalism-is-contemporary-india-06-12-2003.pdf
+cover_image: "https://archive.indianliberals.in/covers/4387-liberalism-is-contemporary-india-06-12-2003.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

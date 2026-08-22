@@ -24,6 +24,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2476-draft-minutes-of-the-meeting-of-the-national-executive-of-the-swatantra-party-22-01-1975.pdf
+cover_image: "https://archive.indianliberals.in/covers/2476-draft-minutes-of-the-meeting-of-the-national-executive-of-the-swatantra-party-22-01-1975.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -20,6 +20,7 @@ physical:
   pages_total: 7
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/789-letter-to-p.pdf
+cover_image: "https://archive.indianliberals.in/covers/789-letter-to-p.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

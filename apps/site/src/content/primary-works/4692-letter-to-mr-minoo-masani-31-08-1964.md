@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4692-letter-to-mr-minoo-masani-31-08-1964.pdf
+cover_image: "https://archive.indianliberals.in/covers/4692-letter-to-mr-minoo-masani-31-08-1964.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

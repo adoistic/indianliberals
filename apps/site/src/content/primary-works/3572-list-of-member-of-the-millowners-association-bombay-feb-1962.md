@@ -20,6 +20,7 @@ physical:
   pages_total: 9
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3572-list-of-member-of-the-millowners-association-bombay-feb-1962.pdf
+cover_image: "https://archive.indianliberals.in/covers/3572-list-of-member-of-the-millowners-association-bombay-feb-1962.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

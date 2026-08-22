@@ -20,6 +20,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4232-letter-to-k-m-munshi-21-06-1964.pdf
+cover_image: "https://archive.indianliberals.in/covers/4232-letter-to-k-m-munshi-21-06-1964.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

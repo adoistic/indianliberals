@@ -18,6 +18,7 @@ physical:
   pages_total: 30
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4914-list-of-approved-of-endorsed-candidates.pdf
+cover_image: "https://archive.indianliberals.in/covers/4914-list-of-approved-of-endorsed-candidates.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

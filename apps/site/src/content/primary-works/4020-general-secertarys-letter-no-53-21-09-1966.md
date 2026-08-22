@@ -24,6 +24,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4020-general-secertarys-letter-no-53-21-09-1966.pdf
+cover_image: "https://archive.indianliberals.in/covers/4020-general-secertarys-letter-no-53-21-09-1966.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

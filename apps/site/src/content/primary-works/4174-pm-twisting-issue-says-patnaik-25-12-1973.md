@@ -19,6 +19,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4174-pm-twisting-issue-says-patnaik-25-12-1973.pdf
+cover_image: "https://archive.indianliberals.in/covers/4174-pm-twisting-issue-says-patnaik-25-12-1973.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -21,6 +21,7 @@ physical:
   pages_total: 6
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4400-public-services-and-the-new-role-of-the-state-and-government.pdf
+cover_image: "https://archive.indianliberals.in/covers/4400-public-services-and-the-new-role-of-the-state-and-government.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

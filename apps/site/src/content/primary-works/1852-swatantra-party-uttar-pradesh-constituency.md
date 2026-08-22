@@ -21,6 +21,7 @@ physical:
   pages_total: 5
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1852-swatantra-party-uttar-pradesh-constituency.pdf
+cover_image: "https://archive.indianliberals.in/covers/1852-swatantra-party-uttar-pradesh-constituency.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

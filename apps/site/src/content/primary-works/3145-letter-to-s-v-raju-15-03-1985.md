@@ -20,6 +20,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3145-letter-to-s-v-raju-15-03-1985.pdf
+cover_image: "https://archive.indianliberals.in/covers/3145-letter-to-s-v-raju-15-03-1985.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -19,6 +19,7 @@ physical:
   pages_total: 10
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/645-rotary-club-speech-on-un-day-24-10-1961.pdf
+cover_image: "https://archive.indianliberals.in/covers/645-rotary-club-speech-on-un-day-24-10-1961.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

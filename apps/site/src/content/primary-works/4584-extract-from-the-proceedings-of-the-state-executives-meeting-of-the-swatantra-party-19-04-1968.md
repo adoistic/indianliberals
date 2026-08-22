@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4584-extract-from-the-proceedings-of-the-state-executives-meeting-of-the-swatantra-party-19-04-1968.pdf
+cover_image: "https://archive.indianliberals.in/covers/4584-extract-from-the-proceedings-of-the-state-executives-meeting-of-the-swatantra-party-19-04-1968.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

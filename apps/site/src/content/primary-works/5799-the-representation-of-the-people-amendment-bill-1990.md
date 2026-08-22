@@ -20,6 +20,7 @@ physical:
   pages_total: 23
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5799-the-representation-of-the-people-amendment-bill-1990.pdf
+cover_image: "https://archive.indianliberals.in/covers/5799-the-representation-of-the-people-amendment-bill-1990.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

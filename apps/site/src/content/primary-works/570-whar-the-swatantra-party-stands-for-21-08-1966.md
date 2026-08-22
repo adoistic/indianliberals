@@ -20,6 +20,7 @@ physical:
   pages_total: 18
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/570-whar-the-swatantra-party-stands-for-21-08-1966.pdf
+cover_image: "https://archive.indianliberals.in/covers/570-whar-the-swatantra-party-stands-for-21-08-1966.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

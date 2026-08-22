@@ -19,6 +19,7 @@ physical:
   pages_total: 10
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/583-problem-of-resonal-security-in-south-and-south-east-asia-current-affairs.pdf
+cover_image: "https://archive.indianliberals.in/covers/583-problem-of-resonal-security-in-south-and-south-east-asia-current-affairs.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

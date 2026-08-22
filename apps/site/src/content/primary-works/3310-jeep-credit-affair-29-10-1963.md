@@ -23,6 +23,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3310-jeep-credit-affair-29-10-1963.pdf
+cover_image: "https://archive.indianliberals.in/covers/3310-jeep-credit-affair-29-10-1963.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

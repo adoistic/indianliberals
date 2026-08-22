@@ -23,6 +23,7 @@ physical:
   pages_total: 143
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1623-democracy-development.pdf
+cover_image: "https://archive.indianliberals.in/covers/1623-democracy-development.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

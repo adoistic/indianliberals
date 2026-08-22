@@ -22,6 +22,7 @@ physical:
   pages_total: 6
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5410-freedom-first-issue-1952.pdf
+cover_image: "https://archive.indianliberals.in/covers/5410-freedom-first-issue-1952.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

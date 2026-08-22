@@ -23,6 +23,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3322-position-regarding-bihar-jeep-credit-14-03-1962.pdf
+cover_image: "https://archive.indianliberals.in/covers/3322-position-regarding-bihar-jeep-credit-14-03-1962.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

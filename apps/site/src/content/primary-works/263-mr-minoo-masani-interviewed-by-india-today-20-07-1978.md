@@ -21,6 +21,7 @@ physical:
   pages_total: 6
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/263-mr-minoo-masani-interviewed-by-india-today-20-07-1978.pdf
+cover_image: "https://archive.indianliberals.in/covers/263-mr-minoo-masani-interviewed-by-india-today-20-07-1978.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

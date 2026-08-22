@@ -24,6 +24,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4041-a-note-on-devaluation.pdf
+cover_image: "https://archive.indianliberals.in/covers/4041-a-note-on-devaluation.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

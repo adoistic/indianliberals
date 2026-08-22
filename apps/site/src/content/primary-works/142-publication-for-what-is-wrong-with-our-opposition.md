@@ -19,6 +19,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/142-publication-for-what-is-wrong-with-our-opposition.pdf
+cover_image: "https://archive.indianliberals.in/covers/142-publication-for-what-is-wrong-with-our-opposition.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

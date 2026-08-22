@@ -21,6 +21,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/269-tio-drink-or-not-to-drink-the-illustrated-weekly-of-india-27-11-1977.pdf
+cover_image: "https://archive.indianliberals.in/covers/269-tio-drink-or-not-to-drink-the-illustrated-weekly-of-india-27-11-1977.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

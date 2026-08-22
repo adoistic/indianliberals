@@ -23,6 +23,7 @@ physical:
   pages_total: 17
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1621-for-farm-family-and-freedom-swatantra-party-programme-1971.pdf
+cover_image: "https://archive.indianliberals.in/covers/1621-for-farm-family-and-freedom-swatantra-party-programme-1971.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

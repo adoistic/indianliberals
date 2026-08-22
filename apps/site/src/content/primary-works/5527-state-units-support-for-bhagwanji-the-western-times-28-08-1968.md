@@ -21,6 +21,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5527-state-units-support-for-bhagwanji-the-western-times-28-08-1968.pdf
+cover_image: "https://archive.indianliberals.in/covers/5527-state-units-support-for-bhagwanji-the-western-times-28-08-1968.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

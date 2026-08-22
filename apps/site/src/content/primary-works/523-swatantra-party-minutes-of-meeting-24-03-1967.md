@@ -23,6 +23,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/523-swatantra-party-minutes-of-meeting-24-03-1967.pdf
+cover_image: "https://archive.indianliberals.in/covers/523-swatantra-party-minutes-of-meeting-24-03-1967.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -21,6 +21,7 @@ physical:
   pages_total: 25
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2277-the-fundamental-rights-under-the-constitution-and-the-supreme-court.pdf
+cover_image: "https://archive.indianliberals.in/covers/2277-the-fundamental-rights-under-the-constitution-and-the-supreme-court.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

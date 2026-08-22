@@ -23,6 +23,7 @@ physical:
   pages_total: 7
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2627-statement-of-swatantra-party-09-12-1978.pdf
+cover_image: "https://archive.indianliberals.in/covers/2627-statement-of-swatantra-party-09-12-1978.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -21,6 +21,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/360-bharatiya-kranti-dal-resolution.pdf
+cover_image: "https://archive.indianliberals.in/covers/360-bharatiya-kranti-dal-resolution.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

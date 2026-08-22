@@ -25,6 +25,7 @@ physical:
   pages_total: 7
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4527-defeat-of-the-partys-candidate-in-the-biennial-election-to-rajya-sabha-in-gujrat-march-1968.pdf
+cover_image: "https://archive.indianliberals.in/covers/4527-defeat-of-the-partys-candidate-in-the-biennial-election-to-rajya-sabha-in-gujrat-march-1968.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

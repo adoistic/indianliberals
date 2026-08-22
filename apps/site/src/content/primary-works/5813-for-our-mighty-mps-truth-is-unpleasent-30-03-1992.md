@@ -21,6 +21,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/5813-for-our-mighty-mps-truth-is-unpleasent-30-03-1992.pdf
+cover_image: "https://archive.indianliberals.in/covers/5813-for-our-mighty-mps-truth-is-unpleasent-30-03-1992.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

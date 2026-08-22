@@ -20,6 +20,7 @@ physical:
   pages_total: 8
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2947-correspondence-between-dr-r-c-cooper-rajaji-and-others-regarding-the-swatantra-party-and-its-future-28-03-1970.pdf
+cover_image: "https://archive.indianliberals.in/covers/2947-correspondence-between-dr-r-c-cooper-rajaji-and-others-regarding-the-swatantra-party-and-its-future-28-03-1970.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -21,6 +21,7 @@ physical:
   pages_total: 5
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3350-telegram-to-raja-ramgarh-10-01-1962.pdf
+cover_image: "https://archive.indianliberals.in/covers/3350-telegram-to-raja-ramgarh-10-01-1962.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

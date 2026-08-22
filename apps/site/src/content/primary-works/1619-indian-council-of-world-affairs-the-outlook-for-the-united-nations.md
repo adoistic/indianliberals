@@ -22,6 +22,7 @@ physical:
   pages_total: 22
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1619-indian-council-of-world-affairs-the-outlook-for-the-united-nations.pdf
+cover_image: "https://archive.indianliberals.in/covers/1619-indian-council-of-world-affairs-the-outlook-for-the-united-nations.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

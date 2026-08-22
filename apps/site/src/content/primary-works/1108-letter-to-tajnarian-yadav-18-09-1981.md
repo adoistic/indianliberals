@@ -20,6 +20,7 @@ physical:
   pages_total: 1
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/1108-letter-to-tajnarian-yadav-18-09-1981.pdf
+cover_image: "https://archive.indianliberals.in/covers/1108-letter-to-tajnarian-yadav-18-09-1981.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

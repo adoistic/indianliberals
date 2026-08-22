@@ -23,6 +23,7 @@ physical:
   pages_total: 6
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3784-swatantra-party-minutes-of-meeting-27-02-1966.pdf
+cover_image: "https://archive.indianliberals.in/covers/3784-swatantra-party-minutes-of-meeting-27-02-1966.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

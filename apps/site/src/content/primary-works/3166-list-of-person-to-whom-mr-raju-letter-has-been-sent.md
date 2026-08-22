@@ -19,6 +19,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3166-list-of-person-to-whom-mr-raju-letter-has-been-sent.pdf
+cover_image: "https://archive.indianliberals.in/covers/3166-list-of-person-to-whom-mr-raju-letter-has-been-sent.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

@@ -23,6 +23,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3668-rich-tributes-to-rajaji-times-of-india-05-01-1973.pdf
+cover_image: "https://archive.indianliberals.in/covers/3668-rich-tributes-to-rajaji-times-of-india-05-01-1973.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

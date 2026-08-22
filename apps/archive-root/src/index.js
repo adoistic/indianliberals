@@ -45,7 +45,24 @@ export default {
     if (rangeHeader) options.range = request.headers;
     if (hasPrecondition) options.onlyIf = request.headers;
 
-    const object = await env.ARCHIVE.get(key, options);
+    let object = await env.ARCHIVE.get(key, options);
+
+    // Cover thumbnails for the Swatantra papers are packed.
+    //
+    // 6,355 covers as individual objects is not the problem — R2 has no file
+    // cap — but PUTting them one at a time through wrangler is, at roughly a
+    // second of process startup each. They therefore live in one blob with an
+    // offset index, and are served from a byte range here so that the public
+    // URL is unchanged: archive.indianliberals.in/covers/<slug>.webp resolves
+    // whether the cover is an individual object (the 1,463 older ones) or a
+    // slice of the pack.
+    //
+    // Individual objects win, so a cover can always be replaced by uploading
+    // it normally without touching the pack.
+    if (object === null && key.startsWith("covers/") && key.endsWith(".webp")) {
+      const packed = await coverFromPack(env, key);
+      if (packed) return packed;
+    }
 
     if (object === null) {
       return new Response("Not Found", {
@@ -108,3 +125,36 @@ export default {
     return new Response(request.method === "HEAD" ? null : object.body, { status, headers });
   },
 };
+
+
+// ---------------------------------------------------------------------------
+// Packed cover lookup.
+//
+// The index is a flat { "covers/<slug>.webp": [offset, length] } map, small
+// enough to hold in module scope between requests on a warm isolate. A cold
+// isolate pays one extra GET.
+let coverIndex = null;
+
+async function coverFromPack(env, key) {
+  if (coverIndex === null) {
+    const idx = await env.ARCHIVE.get("covers/_pack.idx.json");
+    // Cache the miss as an empty map too: without the pack uploaded, every
+    // request for an un-covered work would otherwise re-fetch the index.
+    coverIndex = idx ? await idx.json() : {};
+  }
+  const entry = coverIndex[key];
+  if (!entry) return null;
+  const [offset, length] = entry;
+  const object = await env.ARCHIVE.get("covers/_pack.webpack", {
+    range: { offset, length },
+  });
+  if (!object) return null;
+  return new Response(object.body, {
+    status: 200,
+    headers: {
+      "content-type": "image/webp",
+      "cache-control": "public, max-age=31536000, immutable",
+      "access-control-allow-origin": "*",
+    },
+  });
+}

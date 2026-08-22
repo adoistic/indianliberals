@@ -23,6 +23,7 @@ physical:
   pages_total: 3
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3065-letter-to-n-dandeker-16-09-1698.pdf
+cover_image: "https://archive.indianliberals.in/covers/3065-letter-to-n-dandeker-16-09-1698.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

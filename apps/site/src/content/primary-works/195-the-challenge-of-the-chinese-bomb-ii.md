@@ -20,6 +20,7 @@ physical:
   pages_total: 11
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/195-the-challenge-of-the-chinese-bomb-ii.pdf
+cover_image: "https://archive.indianliberals.in/covers/195-the-challenge-of-the-chinese-bomb-ii.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

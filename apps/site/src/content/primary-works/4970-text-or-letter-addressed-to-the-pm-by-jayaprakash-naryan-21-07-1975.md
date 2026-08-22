@@ -20,6 +20,7 @@ physical:
   pages_total: 7
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/4970-text-or-letter-addressed-to-the-pm-by-jayaprakash-naryan-21-07-1975.pdf
+cover_image: "https://archive.indianliberals.in/covers/4970-text-or-letter-addressed-to-the-pm-by-jayaprakash-naryan-21-07-1975.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

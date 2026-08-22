@@ -22,6 +22,7 @@ physical:
   pages_total: 2
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3368-point-to-be-noted-for-four-lakh-credit.pdf
+cover_image: "https://archive.indianliberals.in/covers/3368-point-to-be-noted-for-four-lakh-credit.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

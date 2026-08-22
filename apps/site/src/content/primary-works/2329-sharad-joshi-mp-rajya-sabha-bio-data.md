@@ -20,6 +20,7 @@ physical:
   pages_total: 10
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2329-sharad-joshi-mp-rajya-sabha-bio-data.pdf
+cover_image: "https://archive.indianliberals.in/covers/2329-sharad-joshi-mp-rajya-sabha-bio-data.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

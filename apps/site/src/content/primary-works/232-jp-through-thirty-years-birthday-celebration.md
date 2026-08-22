@@ -19,6 +19,7 @@ physical:
   pages_total: 4
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/232-jp-through-thirty-years-birthday-celebration.pdf
+cover_image: "https://archive.indianliberals.in/covers/232-jp-through-thirty-years-birthday-celebration.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

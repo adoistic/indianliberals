@@ -18,6 +18,7 @@ physical:
   pages_total: 7
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/3504-mailing-list-of-dailies-and-weeklies-of-the-indian-express.pdf
+cover_image: "https://archive.indianliberals.in/covers/3504-mailing-list-of-dailies-and-weeklies-of-the-indian-express.webp"
 rights:
   status: takedown_on_request
   license: in-copyright

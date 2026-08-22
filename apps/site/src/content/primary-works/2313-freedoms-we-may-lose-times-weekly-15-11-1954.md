@@ -21,6 +21,7 @@ physical:
   pages_total: 8
   pages_total_source: pypdfium2
 pdf_url: https://archive.indianliberals.in/swatantra-party-papers/2313-freedoms-we-may-lose-times-weekly-15-11-1954.pdf
+cover_image: "https://archive.indianliberals.in/covers/2313-freedoms-we-may-lose-times-weekly-15-11-1954.webp"
 rights:
   status: takedown_on_request
   license: in-copyright
