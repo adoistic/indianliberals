@@ -109,7 +109,11 @@ export const SERIES_ORDER = [
   "shetkari-sanghatak",
   "liberal-times",
   "freedom-first",
+  "swatantra-newsletter",
   "indian-liberal-group",
+  // "other" is the sink and must stay last. A run missing from this list is
+  // not merely unordered — getPeriodicalSeries filters by it, so its issues
+  // render nowhere at all.
   "other",
 ];
 
