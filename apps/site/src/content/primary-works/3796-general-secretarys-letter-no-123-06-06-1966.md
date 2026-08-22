@@ -1,7 +1,7 @@
 ---
 id: 3796-general-secretarys-letter-no-123-06-06-1966
 title:
-  main: "[General Secretarys Letter no-123]"
+  main: "General Secretarys Letter no-123"
   subtitle: ""
 work_type: letter
 authors:

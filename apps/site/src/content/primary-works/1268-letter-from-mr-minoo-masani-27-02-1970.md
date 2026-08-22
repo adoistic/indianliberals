@@ -1,7 +1,7 @@
 ---
 id: 1268-letter-from-mr-minoo-masani-27-02-1970
 title:
-  main: "[Letter from Mr Minoo Masani]"
+  main: "Letter from Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

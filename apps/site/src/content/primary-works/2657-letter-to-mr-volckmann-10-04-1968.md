@@ -1,7 +1,7 @@
 ---
 id: 2657-letter-to-mr-volckmann-10-04-1968
 title:
-  main: "[Letter to Mr Volckmann]"
+  main: "Letter to Mr Volckmann"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 5822-letter-to-d-n-patodia-11-05-1992
 title:
-  main: "[Letter to D N Patodia]"
+  main: "Letter to D N Patodia"
   subtitle: ""
 work_type: correspondence
 authors: []

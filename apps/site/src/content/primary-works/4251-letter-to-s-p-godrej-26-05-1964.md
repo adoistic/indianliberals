@@ -1,7 +1,7 @@
 ---
 id: 4251-letter-to-s-p-godrej-26-05-1964
 title:
-  main: "[Letter to S P Godrej]"
+  main: "Letter to S P Godrej"
   subtitle: ""
 work_type: letter
 authors:

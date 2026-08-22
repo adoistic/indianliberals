@@ -1,7 +1,7 @@
 ---
 id: 3753-telegram-to-chief-election-commissioner-23-08-1974
 title:
-  main: "[Telegram to Chief Election Commissioner]"
+  main: "Telegram to Chief Election Commissioner"
   subtitle: ""
 work_type: telegram
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 5445-general-secretarys-letter-no-281-26-05-1972
 title:
-  main: "[General Secretarys letter no-281]"
+  main: "General Secretarys letter no-281"
   subtitle: ""
 work_type: letter
 authors: []

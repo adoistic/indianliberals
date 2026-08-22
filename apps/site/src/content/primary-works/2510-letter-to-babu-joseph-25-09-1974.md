@@ -1,7 +1,7 @@
 ---
 id: 2510-letter-to-babu-joseph-25-09-1974
 title:
-  main: "[Letter to Babu Joseph]"
+  main: "Letter to Babu Joseph"
   subtitle: ""
 work_type: letter
 authors: []

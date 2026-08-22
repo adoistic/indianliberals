@@ -1,7 +1,7 @@
 ---
 id: 5666-letter-to-p-n-dhar
 title:
-  main: "[Letter to P N Dhar]"
+  main: "Letter to P N Dhar"
   subtitle: ""
 work_type: letter
 authors: []

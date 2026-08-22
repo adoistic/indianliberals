@@ -1,7 +1,7 @@
 ---
 id: 2699-letter-to-mr-c-rajagopalchari-26-07-1967
 title:
-  main: "[Letter to Mr C Rajagopalchari]"
+  main: "Letter to Mr C Rajagopalchari"
   subtitle: ""
 work_type: letter
 authors:

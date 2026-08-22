@@ -1,7 +1,7 @@
 ---
 id: 1850-swatantra-party-madras-constituency
 title:
-  main: "[Swatantra Party Madras Constituency]"
+  main: "Swatantra Party Madras Constituency"
   subtitle: ""
 work_type: report
 work_type_source: summary

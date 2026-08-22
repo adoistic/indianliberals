@@ -1,7 +1,7 @@
 ---
 id: 3075-letter-to-dahyabhai-v-patel-25-07-1967
 title:
-  main: "[Letter to Dahyabhai V Patel]"
+  main: "Letter to Dahyabhai V Patel"
   subtitle: ""
 work_type: correspondence
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 4345-letter-to-p-k-deo-18-06-1964
 title:
-  main: "[Letter to P K Deo]"
+  main: "Letter to P K Deo"
   subtitle: ""
 work_type: letter
 authors: []

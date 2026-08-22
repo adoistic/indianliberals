@@ -1,7 +1,7 @@
 ---
 id: 6100-undergoing-treatment-jaslok-hospital-05-12-1975
 title:
-  main: "[Undergoing Treatment Jaslok Hospital]"
+  main: "Undergoing Treatment Jaslok Hospital"
   subtitle: ""
 work_type: essay
 work_type_source: summary

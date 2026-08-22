@@ -1,7 +1,7 @@
 ---
 id: 3109-letter-to-h-r-pasricha-24-02-1975
 title:
-  main: "[Letter to H R Pasricha]"
+  main: "Letter to H R Pasricha"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 5880-letter-to-k-c-ghia-17-10-1967
 title:
-  main: "[Letter to K C Ghia]"
+  main: "Letter to K C Ghia"
   subtitle: ""
 work_type: letter
 authors:

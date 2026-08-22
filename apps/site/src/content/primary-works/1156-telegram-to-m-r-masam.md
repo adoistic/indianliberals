@@ -1,7 +1,7 @@
 ---
 id: 1156-telegram-to-m-r-masam
 title:
-  main: "[Telegram to M R Masam]"
+  main: "Telegram to M R Masam"
   subtitle: ""
 work_type: telegram
 authors: []

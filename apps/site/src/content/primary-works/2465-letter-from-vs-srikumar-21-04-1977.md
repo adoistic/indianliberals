@@ -1,7 +1,7 @@
 ---
 id: 2465-letter-from-vs-srikumar-21-04-1977
 title:
-  main: "[Letter from VS Srikumar]"
+  main: "Letter from VS Srikumar"
   subtitle: ""
 work_type: letter
 authors: []

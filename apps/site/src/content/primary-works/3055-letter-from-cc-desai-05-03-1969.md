@@ -1,7 +1,7 @@
 ---
 id: 3055-letter-from-cc-desai-05-03-1969
 title:
-  main: "[Letter from CC Desai]"
+  main: "Letter from CC Desai"
   subtitle: ""
 work_type: correspondence
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 4316-letter-to-fazel-fazalbhoy-08-04-1964
 title:
-  main: "[Letter to Fazel Fazalbhoy]"
+  main: "Letter to Fazel Fazalbhoy"
   subtitle: ""
 work_type: letter
 authors:

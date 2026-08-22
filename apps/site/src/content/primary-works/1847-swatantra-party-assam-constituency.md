@@ -1,7 +1,7 @@
 ---
 id: 1847-swatantra-party-assam-constituency
 title:
-  main: "[Swatantra Party Assam Constituency]"
+  main: "Swatantra Party Assam Constituency"
   subtitle: ""
 work_type: office_record
 work_type_source: summary

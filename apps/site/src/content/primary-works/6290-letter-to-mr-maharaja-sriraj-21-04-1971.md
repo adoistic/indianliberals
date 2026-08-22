@@ -1,7 +1,7 @@
 ---
 id: 6290-letter-to-mr-maharaja-sriraj-21-04-1971
 title:
-  main: "[Letter to Mr Maharaja Sriraj]"
+  main: "Letter to Mr Maharaja Sriraj"
   subtitle: ""
 work_type: letter
 authors:

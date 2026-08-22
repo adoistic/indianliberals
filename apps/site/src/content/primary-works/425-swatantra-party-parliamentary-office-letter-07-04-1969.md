@@ -1,7 +1,7 @@
 ---
 id: 425-swatantra-party-parliamentary-office-letter-07-04-1969
 title:
-  main: "[Swatantra Party Parliamentary Office Letter]"
+  main: "Swatantra Party Parliamentary Office Letter"
   subtitle: ""
 work_type: letter
 work_type_source: filename

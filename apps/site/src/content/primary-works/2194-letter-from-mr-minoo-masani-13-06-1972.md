@@ -1,7 +1,7 @@
 ---
 id: 2194-letter-from-mr-minoo-masani-13-06-1972
 title:
-  main: "[Letter from Mr Minoo Masani]"
+  main: "Letter from Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

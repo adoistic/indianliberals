@@ -1,7 +1,7 @@
 ---
 id: 3920-for-favour-of-publication
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: telegram
 work_type_source: summary

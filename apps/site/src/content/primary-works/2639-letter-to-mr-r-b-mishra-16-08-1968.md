@@ -1,7 +1,7 @@
 ---
 id: 2639-letter-to-mr-r-b-mishra-16-08-1968
 title:
-  main: "[Letter to Mr R B Mishra]"
+  main: "Letter to Mr R B Mishra"
   subtitle: ""
 work_type: letter
 authors:

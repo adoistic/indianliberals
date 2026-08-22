@@ -1,7 +1,7 @@
 ---
 id: 6159-letter-from-s-v-raju-01-04-1970
 title:
-  main: "[Letter from S V Raju]"
+  main: "Letter from S V Raju"
   subtitle: ""
 work_type: telegram
 authors:

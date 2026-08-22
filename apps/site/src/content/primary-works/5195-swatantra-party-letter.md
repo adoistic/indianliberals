@@ -1,7 +1,7 @@
 ---
 id: 5195-swatantra-party-letter
 title:
-  main: "[Swatantra party Letter]"
+  main: "Swatantra party Letter"
   subtitle: ""
 work_type: letter
 work_type_source: filename

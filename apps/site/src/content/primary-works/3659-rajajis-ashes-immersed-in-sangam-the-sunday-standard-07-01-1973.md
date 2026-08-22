@@ -1,7 +1,7 @@
 ---
 id: 3659-rajajis-ashes-immersed-in-sangam-the-sunday-standard-07-01-1973
 title:
-  main: "[Rajajis Ashes Immersed In Sangam-The Sunday Standard]"
+  main: "Rajajis Ashes Immersed In Sangam-The Sunday Standard"
   subtitle: ""
 work_type: letter
 authors:

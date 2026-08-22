@@ -1,7 +1,7 @@
 ---
 id: 3436-letter-to-ashok-mehta-29-05-1970
 title:
-  main: "[Letter to Ashok Mehta]"
+  main: "Letter to Ashok Mehta"
   subtitle: ""
 work_type: letter
 authors:

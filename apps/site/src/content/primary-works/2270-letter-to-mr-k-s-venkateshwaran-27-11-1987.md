@@ -1,7 +1,7 @@
 ---
 id: 2270-letter-to-mr-k-s-venkateshwaran-27-11-1987
 title:
-  main: "[Letter to Mr K S Venkateshwaran]"
+  main: "Letter to Mr K S Venkateshwaran"
   subtitle: ""
 work_type: letter
 authors:

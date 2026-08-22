@@ -1,7 +1,7 @@
 ---
 id: 4726-letter-to-c-rajagopalachari-25-07-1963
 title:
-  main: "[Letter to C Rajagopalachari]"
+  main: "Letter to C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors:

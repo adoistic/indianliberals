@@ -1,7 +1,7 @@
 ---
 id: 3542-letter-to-mr-s-v-raju-09-02-1966
 title:
-  main: "[Letter to Mr S V Raju]"
+  main: "Letter to Mr S V Raju"
   subtitle: ""
 work_type: letter
 authors:

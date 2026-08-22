@@ -1,7 +1,7 @@
 ---
 id: 4928-important-judgement-relating-to-the-valadity-of-statutory-frecensorship-26-06-1975
 title:
-  main: "[Important judgement relating to the valadity of statutory Frecensorship]"
+  main: "Important judgement relating to the valadity of statutory Frecensorship"
   subtitle: ""
 work_type: report
 work_type_source: classifier

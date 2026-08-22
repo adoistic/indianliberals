@@ -1,7 +1,7 @@
 ---
 id: 3257-letter-to-s-k-d-paliwal-21-01-1963
 title:
-  main: "[Letter to S K D Paliwal]"
+  main: "Letter to S K D Paliwal"
   subtitle: ""
 work_type: letter
 authors:

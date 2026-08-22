@@ -1,7 +1,7 @@
 ---
 id: 1193-receipt-of-donation-no-111-16-05-1975
 title:
-  main: "[Receipt of Donation No-111]"
+  main: "Receipt of Donation No-111"
   subtitle: ""
 work_type: letter
 authors: []

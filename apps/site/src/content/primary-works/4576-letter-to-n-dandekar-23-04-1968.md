@@ -1,7 +1,7 @@
 ---
 id: 4576-letter-to-n-dandekar-23-04-1968
 title:
-  main: "[Letter to N Dandekar]"
+  main: "Letter to N Dandekar"
   subtitle: ""
 work_type: correspondence
 authors: []

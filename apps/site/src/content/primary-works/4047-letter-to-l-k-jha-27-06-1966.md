@@ -1,7 +1,7 @@
 ---
 id: 4047-letter-to-l-k-jha-27-06-1966
 title:
-  main: "[Letter to L K Jha]"
+  main: "Letter to L K Jha"
   subtitle: ""
 work_type: letter
 authors:

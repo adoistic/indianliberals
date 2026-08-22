@@ -1,7 +1,7 @@
 ---
 id: 2871-letter-to-satya-narayan-sinha-19-11-1962
 title:
-  main: "[Letter to Satya Narayan Sinha]"
+  main: "Letter to Satya Narayan Sinha"
   subtitle: ""
 work_type: letter
 authors: []

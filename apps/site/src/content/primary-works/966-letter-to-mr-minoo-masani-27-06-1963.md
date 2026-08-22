@@ -1,7 +1,7 @@
 ---
 id: 966-letter-to-mr-minoo-masani-27-06-1963
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 1662-letter-to-kaikhusru-07-11-1959
 title:
-  main: "[Letter to Kaikhusru]"
+  main: "Letter to Kaikhusru"
   subtitle: ""
 work_type: letter
 authors: []

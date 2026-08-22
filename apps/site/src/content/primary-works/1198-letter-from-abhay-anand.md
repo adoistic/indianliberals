@@ -1,7 +1,7 @@
 ---
 id: 1198-letter-from-abhay-anand
 title:
-  main: "[Letter from Abhay Anand]"
+  main: "Letter from Abhay Anand"
   subtitle: ""
 work_type: letter
 authors: []

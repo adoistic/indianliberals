@@ -1,7 +1,7 @@
 ---
 id: 4104-swatantra-party-notice-16-09-1970
 title:
-  main: "[Swatantra party notice]"
+  main: "Swatantra party notice"
   subtitle: ""
 work_type: minutes
 work_type_source: summary

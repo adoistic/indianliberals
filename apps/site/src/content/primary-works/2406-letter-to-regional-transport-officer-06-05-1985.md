@@ -1,7 +1,7 @@
 ---
 id: 2406-letter-to-regional-transport-officer-06-05-1985
 title:
-  main: "[Letter to Regional Transport Officer]"
+  main: "Letter to Regional Transport Officer"
   subtitle: ""
 work_type: letter
 authors:

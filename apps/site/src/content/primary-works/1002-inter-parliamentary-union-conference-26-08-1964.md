@@ -1,7 +1,7 @@
 ---
 id: 1002-inter-parliamentary-union-conference-26-08-1964
 title:
-  main: "[Inter Parliamentary Union Conference]"
+  main: "Inter Parliamentary Union Conference"
   subtitle: ""
 work_type: telegram
 authors:

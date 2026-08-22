@@ -1,7 +1,7 @@
 ---
 id: 5254-letter-to-kali-vakeal-22-10-1959
 title:
-  main: "[Letter to Kali Vakeal]"
+  main: "Letter to Kali Vakeal"
   subtitle: ""
 work_type: letter
 authors:

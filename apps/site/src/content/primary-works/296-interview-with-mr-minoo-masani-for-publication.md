@@ -1,7 +1,7 @@
 ---
 id: 296-interview-with-mr-minoo-masani-for-publication
 title:
-  main: "[Interview With Mr Minoo Masani For Publication]"
+  main: "Interview With Mr Minoo Masani For Publication"
   subtitle: ""
 work_type: interview
 work_type_source: filename

@@ -1,7 +1,7 @@
 ---
 id: 3136-letter-to-ghasiram-majhi-21-03-1985
 title:
-  main: "[Letter to Ghasiram Majhi]"
+  main: "Letter to Ghasiram Majhi"
   subtitle: ""
 work_type: letter
 authors:

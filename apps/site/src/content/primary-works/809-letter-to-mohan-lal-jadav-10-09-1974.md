@@ -1,7 +1,7 @@
 ---
 id: 809-letter-to-mohan-lal-jadav-10-09-1974
 title:
-  main: "[Letter to Mohan lal jadav]"
+  main: "Letter to Mohan lal jadav"
   subtitle: ""
 work_type: letter
 authors:

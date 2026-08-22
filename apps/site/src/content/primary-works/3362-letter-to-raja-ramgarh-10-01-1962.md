@@ -1,7 +1,7 @@
 ---
 id: 3362-letter-to-raja-ramgarh-10-01-1962
 title:
-  main: "[Letter to Raja Ramgarh]"
+  main: "Letter to Raja Ramgarh"
   subtitle: ""
 work_type: letter
 authors:

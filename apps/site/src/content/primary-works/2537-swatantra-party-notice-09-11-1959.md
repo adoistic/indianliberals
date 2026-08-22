@@ -1,7 +1,7 @@
 ---
 id: 2537-swatantra-party-notice-09-11-1959
 title:
-  main: "[Swatantra Party Notice]"
+  main: "Swatantra Party Notice"
   subtitle: ""
 work_type: circular
 authors: []

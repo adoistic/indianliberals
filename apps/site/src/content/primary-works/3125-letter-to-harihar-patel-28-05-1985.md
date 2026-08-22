@@ -1,7 +1,7 @@
 ---
 id: 3125-letter-to-harihar-patel-28-05-1985
 title:
-  main: "[Letter to Harihar patel]"
+  main: "Letter to Harihar patel"
   subtitle: ""
 work_type: correspondence
 authors:

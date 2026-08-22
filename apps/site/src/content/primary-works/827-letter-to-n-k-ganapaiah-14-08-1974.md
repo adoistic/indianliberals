@@ -1,7 +1,7 @@
 ---
 id: 827-letter-to-n-k-ganapaiah-14-08-1974
 title:
-  main: "[Letter to N K Ganapaiah]"
+  main: "Letter to N K Ganapaiah"
   subtitle: ""
 work_type: letter
 authors: []

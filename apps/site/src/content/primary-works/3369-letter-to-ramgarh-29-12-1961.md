@@ -1,7 +1,7 @@
 ---
 id: 3369-letter-to-ramgarh-29-12-1961
 title:
-  main: "[Letter to Ramgarh]"
+  main: "Letter to Ramgarh"
   subtitle: ""
 work_type: telegram
 authors: []

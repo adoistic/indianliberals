@@ -1,7 +1,7 @@
 ---
 id: 5798-with-best-compliments-to-mr-arvind-deshpande
 title:
-  main: "[With Best Compliments To Mr Arvind Deshpande]"
+  main: "With Best Compliments To Mr Arvind Deshpande"
   subtitle: ""
 work_type: letter
 authors: []

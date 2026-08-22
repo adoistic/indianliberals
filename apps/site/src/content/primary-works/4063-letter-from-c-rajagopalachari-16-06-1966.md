@@ -1,7 +1,7 @@
 ---
 id: 4063-letter-from-c-rajagopalachari-16-06-1966
 title:
-  main: "[Letter from C rajagopalachari]"
+  main: "Letter from C rajagopalachari"
   subtitle: ""
 work_type: letter
 authors: []

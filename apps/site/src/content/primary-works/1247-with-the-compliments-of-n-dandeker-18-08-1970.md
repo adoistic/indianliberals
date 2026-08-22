@@ -1,7 +1,7 @@
 ---
 id: 1247-with-the-compliments-of-n-dandeker-18-08-1970
 title:
-  main: "[With the Compliments of N Dandeker]"
+  main: "With the Compliments of N Dandeker"
   subtitle: ""
 work_type: letter
 authors: []

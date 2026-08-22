@@ -1,7 +1,7 @@
 ---
 id: 5781-department-of-telecommunication-india
 title:
-  main: "[Department of Telecommunication India]"
+  main: "Department of Telecommunication India"
   subtitle: ""
 work_type: telegram
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 2835-substitute-motion-to-the-motion-to-be-moved-by-of-planning-17-08-1960
 title:
-  main: "[Substitute Motion to the Motion to be Moved by of Planning]"
+  main: "Substitute Motion to the Motion to be Moved by of Planning"
   subtitle: ""
 work_type: essay
 work_type_source: classifier

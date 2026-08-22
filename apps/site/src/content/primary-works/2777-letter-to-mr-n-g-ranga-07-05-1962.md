@@ -1,7 +1,7 @@
 ---
 id: 2777-letter-to-mr-n-g-ranga-07-05-1962
 title:
-  main: "[Letter to Mr N G Ranga]"
+  main: "Letter to Mr N G Ranga"
   subtitle: ""
 work_type: letter
 authors:

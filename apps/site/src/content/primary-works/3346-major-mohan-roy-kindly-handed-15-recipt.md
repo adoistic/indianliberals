@@ -1,7 +1,7 @@
 ---
 id: 3346-major-mohan-roy-kindly-handed-15-recipt
 title:
-  main: "[Major Mohan Roy Kindly handed 15 recipt]"
+  main: "Major Mohan Roy Kindly handed 15 recipt"
   subtitle: ""
 work_type: letter
 authors:

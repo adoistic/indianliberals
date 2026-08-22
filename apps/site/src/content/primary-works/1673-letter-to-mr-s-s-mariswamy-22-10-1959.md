@@ -1,7 +1,7 @@
 ---
 id: 1673-letter-to-mr-s-s-mariswamy-22-10-1959
 title:
-  main: "[Letter to Mr S S Mariswamy]"
+  main: "Letter to Mr S S Mariswamy"
   subtitle: ""
 work_type: letter
 authors: []

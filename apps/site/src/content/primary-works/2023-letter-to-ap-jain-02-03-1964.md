@@ -1,7 +1,7 @@
 ---
 id: 2023-letter-to-ap-jain-02-03-1964
 title:
-  main: "[Letter to AP Jain]"
+  main: "Letter to AP Jain"
   subtitle: ""
 work_type: letter
 authors: []

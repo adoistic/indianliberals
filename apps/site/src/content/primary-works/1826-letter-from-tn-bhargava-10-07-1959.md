@@ -1,7 +1,7 @@
 ---
 id: 1826-letter-from-tn-bhargava-10-07-1959
 title:
-  main: "[Letter from TN Bhargava]"
+  main: "Letter from TN Bhargava"
   subtitle: ""
 work_type: letter
 authors: []

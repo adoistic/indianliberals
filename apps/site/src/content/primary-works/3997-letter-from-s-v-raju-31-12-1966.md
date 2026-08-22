@@ -1,7 +1,7 @@
 ---
 id: 3997-letter-from-s-v-raju-31-12-1966
 title:
-  main: "[Letter from S V Raju]"
+  main: "Letter from S V Raju"
   subtitle: ""
 work_type: letter
 authors:

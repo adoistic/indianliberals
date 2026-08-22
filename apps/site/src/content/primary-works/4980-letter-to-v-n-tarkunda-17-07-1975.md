@@ -1,7 +1,7 @@
 ---
 id: 4980-letter-to-v-n-tarkunda-17-07-1975
 title:
-  main: "[Letter to V N Tarkunda]"
+  main: "Letter to V N Tarkunda"
   subtitle: ""
 work_type: letter
 authors:

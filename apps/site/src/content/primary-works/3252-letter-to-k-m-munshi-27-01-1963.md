@@ -1,7 +1,7 @@
 ---
 id: 3252-letter-to-k-m-munshi-27-01-1963
 title:
-  main: "[Letter to K M Munshi]"
+  main: "Letter to K M Munshi"
   subtitle: ""
 work_type: letter
 authors: []

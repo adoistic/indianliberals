@@ -1,7 +1,7 @@
 ---
 id: 2670-letter-to-mr-i-s-bhargava-09-03-1968
 title:
-  main: "[Letter to Mr I S Bhargava]"
+  main: "Letter to Mr I S Bhargava"
   subtitle: ""
 work_type: letter
 authors:

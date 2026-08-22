@@ -1,7 +1,7 @@
 ---
 id: 5225-letter-to-s-usham-singh-nagoka
 title:
-  main: "[Letter to S Usham Singh Nagoka]"
+  main: "Letter to S Usham Singh Nagoka"
   subtitle: ""
 work_type: letter
 authors: []

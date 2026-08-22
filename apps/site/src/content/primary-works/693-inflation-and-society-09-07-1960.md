@@ -1,7 +1,7 @@
 ---
 id: 693-inflation-and-society-09-07-1960
 title:
-  main: "[Inflation and Society]"
+  main: "Inflation and Society"
   subtitle: ""
 work_type: essay
 authors: []

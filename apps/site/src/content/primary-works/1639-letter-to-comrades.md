@@ -1,7 +1,7 @@
 ---
 id: 1639-letter-to-comrades
 title:
-  main: "[Letter to Comrades]"
+  main: "Letter to Comrades"
   subtitle: ""
 work_type: pamphlet
 authors: []

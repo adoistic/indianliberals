@@ -1,7 +1,7 @@
 ---
 id: 5338-letter-ro-s-l-pareek-14-09-1959
 title:
-  main: "[Letter ro S L Pareek]"
+  main: "Letter ro S L Pareek"
   subtitle: ""
 work_type: letter
 authors: []

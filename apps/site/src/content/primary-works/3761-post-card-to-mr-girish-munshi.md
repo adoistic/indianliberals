@@ -1,7 +1,7 @@
 ---
 id: 3761-post-card-to-mr-girish-munshi
 title:
-  main: "[Post Card to Mr Girish Munshi]"
+  main: "Post Card to Mr Girish Munshi"
   subtitle: ""
 work_type: letter
 authors: []

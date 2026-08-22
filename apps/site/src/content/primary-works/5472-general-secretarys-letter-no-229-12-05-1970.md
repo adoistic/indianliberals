@@ -1,7 +1,7 @@
 ---
 id: 5472-general-secretarys-letter-no-229-12-05-1970
 title:
-  main: "[General Secretarys letter no-229]"
+  main: "General Secretarys letter no-229"
   subtitle: ""
 work_type: letter
 authors: []

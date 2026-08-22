@@ -1,7 +1,7 @@
 ---
 id: 1778-letter-to-raja-hutheesing-20-08-1959
 title:
-  main: "[Letter to Raja Hutheesing]"
+  main: "Letter to Raja Hutheesing"
   subtitle: ""
 work_type: letter
 authors: []

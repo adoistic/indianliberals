@@ -1,7 +1,7 @@
 ---
 id: 2541-swatantra-party-notice-15-10-1959
 title:
-  main: "[Swatantra Party Notice]"
+  main: "Swatantra Party Notice"
   subtitle: ""
 work_type: notice
 work_type_source: summary

@@ -1,7 +1,7 @@
 ---
 id: 2692-letter-to-mr-harihar-patel-25-08-1967
 title:
-  main: "[Letter to Mr Harihar Patel]"
+  main: "Letter to Mr Harihar Patel"
   subtitle: ""
 work_type: letter
 authors:

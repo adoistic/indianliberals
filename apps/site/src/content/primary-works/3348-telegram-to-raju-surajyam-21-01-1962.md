@@ -1,7 +1,7 @@
 ---
 id: 3348-telegram-to-raju-surajyam-21-01-1962
 title:
-  main: "[Telegram to Raju surajyam]"
+  main: "Telegram to Raju surajyam"
   subtitle: ""
 work_type: telegram
 authors: []

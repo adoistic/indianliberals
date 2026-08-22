@@ -1,7 +1,7 @@
 ---
 id: 18-letter-to-mr-ramchandra-m-barot-29-03-1971
 title:
-  main: "[Letter to Mr Ramchandra M Barot]"
+  main: "Letter to Mr Ramchandra M Barot"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 940-greeting-to-the-delegates-22-03-1974
 title:
-  main: "[Greeting to the Delegates]"
+  main: "Greeting to the Delegates"
   subtitle: ""
 work_type: letter
 authors: []

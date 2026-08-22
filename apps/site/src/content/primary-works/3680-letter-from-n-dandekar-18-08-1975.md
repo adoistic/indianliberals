@@ -1,7 +1,7 @@
 ---
 id: 3680-letter-from-n-dandekar-18-08-1975
 title:
-  main: "[Letter from N Dandekar]"
+  main: "Letter from N Dandekar"
   subtitle: ""
 work_type: letter
 authors:

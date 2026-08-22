@@ -1,7 +1,7 @@
 ---
 id: 6285-letter-to-mr-m-desai-29-04-1971
 title:
-  main: "[Letter to Mr M Desai]"
+  main: "Letter to Mr M Desai"
   subtitle: ""
 work_type: letter
 authors:

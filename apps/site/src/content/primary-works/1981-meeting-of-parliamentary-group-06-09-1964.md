@@ -1,7 +1,7 @@
 ---
 id: 1981-meeting-of-parliamentary-group-06-09-1964
 title:
-  main: "[Meeting of Parliamentary Group]"
+  main: "Meeting of Parliamentary Group"
   subtitle: ""
 work_type: circular
 work_type_source: summary

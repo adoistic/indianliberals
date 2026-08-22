@@ -1,7 +1,7 @@
 ---
 id: 5744-letter-to-mr-s-v-raju-08-11-1978
 title:
-  main: "[Letter to Mr S V Raju]"
+  main: "Letter to Mr S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

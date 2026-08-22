@@ -1,7 +1,7 @@
 ---
 id: 6070-letter-to-madhu-n-mehta-01-02-1965
 title:
-  main: "[Letter to Madhu N Mehta]"
+  main: "Letter to Madhu N Mehta"
   subtitle: ""
 work_type: letter
 authors:

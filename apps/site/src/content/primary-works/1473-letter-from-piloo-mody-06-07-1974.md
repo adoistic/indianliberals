@@ -1,7 +1,7 @@
 ---
 id: 1473-letter-from-piloo-mody-06-07-1974
 title:
-  main: "[Letter from Piloo Mody]"
+  main: "Letter from Piloo Mody"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 5179-letter-to-b-k-sen-25-11-1959
 title:
-  main: "[Letter to B K Sen]"
+  main: "Letter to B K Sen"
   subtitle: ""
 work_type: letter
 authors:

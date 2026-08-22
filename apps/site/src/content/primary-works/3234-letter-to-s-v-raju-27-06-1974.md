@@ -1,7 +1,7 @@
 ---
 id: 3234-letter-to-s-v-raju-27-06-1974
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

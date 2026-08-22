@@ -1,7 +1,7 @@
 ---
 id: 3137-letter-to-rajabhallav-mishra-19-03-1985
 title:
-  main: "[Letter to Rajabhallav Mishra]"
+  main: "Letter to Rajabhallav Mishra"
   subtitle: ""
 work_type: letter
 authors:

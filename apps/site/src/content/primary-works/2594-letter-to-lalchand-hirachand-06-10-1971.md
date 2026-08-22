@@ -1,7 +1,7 @@
 ---
 id: 2594-letter-to-lalchand-hirachand-06-10-1971
 title:
-  main: "[Letter to Lalchand Hirachand]"
+  main: "Letter to Lalchand Hirachand"
   subtitle: ""
 work_type: letter
 authors: []

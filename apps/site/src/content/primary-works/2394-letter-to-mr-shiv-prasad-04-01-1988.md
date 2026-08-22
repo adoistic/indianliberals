@@ -1,7 +1,7 @@
 ---
 id: 2394-letter-to-mr-shiv-prasad-04-01-1988
 title:
-  main: "[Letter to Mr Shiv Prasad]"
+  main: "Letter to Mr Shiv Prasad"
   subtitle: ""
 work_type: letter
 authors:

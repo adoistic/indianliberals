@@ -1,7 +1,7 @@
 ---
 id: 108-letter-to-mrs-dabeh-sawhny-04-03-1971
 title:
-  main: "[Letter to Mrs Dabeh Sawhny]"
+  main: "Letter to Mrs Dabeh Sawhny"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 3111-letter-to-v-s-srikumar-18-02-1975
 title:
-  main: "[Letter to V S Srikumar]"
+  main: "Letter to V S Srikumar"
   subtitle: ""
 work_type: letter
 authors:

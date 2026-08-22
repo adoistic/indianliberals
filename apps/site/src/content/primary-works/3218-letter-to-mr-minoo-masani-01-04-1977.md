@@ -1,7 +1,7 @@
 ---
 id: 3218-letter-to-mr-minoo-masani-01-04-1977
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 1288-letter-to-ng-ranga-03-06-1968
 title:
-  main: "[Letter to NG Ranga]"
+  main: "Letter to NG Ranga"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 36-letter-to-mr-k-v-verma-23-03-1971
 title:
-  main: "[Letter to Mr K V Verma]"
+  main: "Letter to Mr K V Verma"
   subtitle: ""
 work_type: letter
 authors:

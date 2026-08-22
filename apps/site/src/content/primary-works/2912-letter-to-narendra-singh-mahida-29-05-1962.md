@@ -1,7 +1,7 @@
 ---
 id: 2912-letter-to-narendra-singh-mahida-29-05-1962
 title:
-  main: "[Letter to Narendra Singh Mahida]"
+  main: "Letter to Narendra Singh Mahida"
   subtitle: ""
 work_type: letter
 authors:

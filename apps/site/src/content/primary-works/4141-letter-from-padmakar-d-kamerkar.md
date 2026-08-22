@@ -1,7 +1,7 @@
 ---
 id: 4141-letter-from-padmakar-d-kamerkar
 title:
-  main: "[Letter from Padmakar D Kamerkar]"
+  main: "Letter from Padmakar D Kamerkar"
   subtitle: ""
 work_type: letter
 authors: []

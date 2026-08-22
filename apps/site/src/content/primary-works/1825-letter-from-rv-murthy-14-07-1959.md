@@ -1,7 +1,7 @@
 ---
 id: 1825-letter-from-rv-murthy-14-07-1959
 title:
-  main: "[Letter from RV Murthy]"
+  main: "Letter from RV Murthy"
   subtitle: ""
 work_type: letter
 authors: []

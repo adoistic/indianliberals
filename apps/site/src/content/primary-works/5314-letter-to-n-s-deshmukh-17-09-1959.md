@@ -1,7 +1,7 @@
 ---
 id: 5314-letter-to-n-s-deshmukh-17-09-1959
 title:
-  main: "[Letter to N S Deshmukh]"
+  main: "Letter to N S Deshmukh"
   subtitle: ""
 work_type: letter
 authors: []

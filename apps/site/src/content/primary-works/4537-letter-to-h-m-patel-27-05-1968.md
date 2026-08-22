@@ -1,7 +1,7 @@
 ---
 id: 4537-letter-to-h-m-patel-27-05-1968
 title:
-  main: "[Letter to H M Patel]"
+  main: "Letter to H M Patel"
   subtitle: ""
 work_type: letter
 authors: []

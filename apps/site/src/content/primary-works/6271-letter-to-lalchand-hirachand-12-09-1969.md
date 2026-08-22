@@ -1,7 +1,7 @@
 ---
 id: 6271-letter-to-lalchand-hirachand-12-09-1969
 title:
-  main: "[Letter to Lalchand hirachand]"
+  main: "Letter to Lalchand hirachand"
   subtitle: ""
 work_type: letter
 authors:

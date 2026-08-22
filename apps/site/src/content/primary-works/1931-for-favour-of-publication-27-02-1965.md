@@ -1,7 +1,7 @@
 ---
 id: 1931-for-favour-of-publication-27-02-1965
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: press_note
 authors: []

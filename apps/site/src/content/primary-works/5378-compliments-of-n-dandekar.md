@@ -1,7 +1,7 @@
 ---
 id: 5378-compliments-of-n-dandekar
 title:
-  main: "[Compliments of N Dandekar]"
+  main: "Compliments of N Dandekar"
   subtitle: ""
 work_type: letter
 authors:

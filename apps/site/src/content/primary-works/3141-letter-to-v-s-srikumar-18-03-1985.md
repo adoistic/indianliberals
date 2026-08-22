@@ -1,7 +1,7 @@
 ---
 id: 3141-letter-to-v-s-srikumar-18-03-1985
 title:
-  main: "[Letter to V S Srikumar]"
+  main: "Letter to V S Srikumar"
   subtitle: ""
 work_type: correspondence
 authors:

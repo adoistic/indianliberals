@@ -1,7 +1,7 @@
 ---
 id: 1995-letter-to-babubhai-vaidya-13-06-1964
 title:
-  main: "[Letter to Babubhai Vaidya]"
+  main: "Letter to Babubhai Vaidya"
   subtitle: ""
 work_type: letter
 authors: []

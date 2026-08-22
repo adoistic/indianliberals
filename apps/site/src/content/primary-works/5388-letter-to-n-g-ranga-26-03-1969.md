@@ -1,7 +1,7 @@
 ---
 id: 5388-letter-to-n-g-ranga-26-03-1969
 title:
-  main: "[Letter to N G Ranga]"
+  main: "Letter to N G Ranga"
   subtitle: ""
 work_type: letter
 authors:

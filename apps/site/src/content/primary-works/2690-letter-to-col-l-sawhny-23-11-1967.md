@@ -1,7 +1,7 @@
 ---
 id: 2690-letter-to-col-l-sawhny-23-11-1967
 title:
-  main: "[Letter to Col L Sawhny]"
+  main: "Letter to Col L Sawhny"
   subtitle: ""
 work_type: letter
 authors:

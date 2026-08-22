@@ -1,7 +1,7 @@
 ---
 id: 617-yuvaj-samaj-vileparle-27-10-1962
 title:
-  main: "[Yuvaj Samaj Vileparle]"
+  main: "Yuvaj Samaj Vileparle"
   subtitle: ""
 work_type: office_record
 work_type_source: classifier

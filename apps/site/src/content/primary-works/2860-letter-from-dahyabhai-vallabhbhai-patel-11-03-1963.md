@@ -1,7 +1,7 @@
 ---
 id: 2860-letter-from-dahyabhai-vallabhbhai-patel-11-03-1963
 title:
-  main: "[Letter from Dahyabhai Vallabhbhai Patel]"
+  main: "Letter from Dahyabhai Vallabhbhai Patel"
   subtitle: ""
 work_type: letter
 authors: []

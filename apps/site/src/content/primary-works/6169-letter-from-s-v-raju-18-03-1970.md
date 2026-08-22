@@ -1,7 +1,7 @@
 ---
 id: 6169-letter-from-s-v-raju-18-03-1970
 title:
-  main: "[Letter from S V Raju]"
+  main: "Letter from S V Raju"
   subtitle: ""
 work_type: letter
 authors:

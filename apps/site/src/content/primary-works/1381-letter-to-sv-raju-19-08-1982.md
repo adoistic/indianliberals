@@ -1,7 +1,7 @@
 ---
 id: 1381-letter-to-sv-raju-19-08-1982
 title:
-  main: "[Letter to SV Raju]"
+  main: "Letter to SV Raju"
   subtitle: ""
 work_type: letter
 authors: []

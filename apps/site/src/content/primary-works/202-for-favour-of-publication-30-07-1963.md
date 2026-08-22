@@ -1,7 +1,7 @@
 ---
 id: 202-for-favour-of-publication-30-07-1963
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: essay
 work_type_source: summary

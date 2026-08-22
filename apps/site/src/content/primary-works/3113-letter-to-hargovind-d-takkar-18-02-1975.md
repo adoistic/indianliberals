@@ -1,7 +1,7 @@
 ---
 id: 3113-letter-to-hargovind-d-takkar-18-02-1975
 title:
-  main: "[Letter to Hargovind D Takkar]"
+  main: "Letter to Hargovind D Takkar"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 2148-statement-given-by-girish-munshi
 title:
-  main: "[Statement Given by Girish Munshi]"
+  main: "Statement Given by Girish Munshi"
   subtitle: ""
 work_type: press_note
 work_type_source: summary

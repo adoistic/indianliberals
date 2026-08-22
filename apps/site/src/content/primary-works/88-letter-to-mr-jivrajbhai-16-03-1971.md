@@ -1,7 +1,7 @@
 ---
 id: 88-letter-to-mr-jivrajbhai-16-03-1971
 title:
-  main: "[Letter to Mr Jivrajbhai]"
+  main: "Letter to Mr Jivrajbhai"
   subtitle: ""
 work_type: letter
 authors:

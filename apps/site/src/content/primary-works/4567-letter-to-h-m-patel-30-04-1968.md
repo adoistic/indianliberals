@@ -1,7 +1,7 @@
 ---
 id: 4567-letter-to-h-m-patel-30-04-1968
 title:
-  main: "[Letter to H M Patel]"
+  main: "Letter to H M Patel"
   subtitle: ""
 work_type: letter
 authors:

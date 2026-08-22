@@ -1,7 +1,7 @@
 ---
 id: 4197-letter-to-k-m-munshi-15-01-1964
 title:
-  main: "[Letter to K M Munshi]"
+  main: "Letter to K M Munshi"
   subtitle: ""
 work_type: letter
 authors:

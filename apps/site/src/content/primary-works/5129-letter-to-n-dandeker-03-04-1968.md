@@ -1,7 +1,7 @@
 ---
 id: 5129-letter-to-n-dandeker-03-04-1968
 title:
-  main: "[Letter to N Dandeker]"
+  main: "Letter to N Dandeker"
   subtitle: ""
 work_type: letter
 authors: []

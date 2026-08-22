@@ -1,7 +1,7 @@
 ---
 id: 2854-letter-to-a-p-jain-29-03-1963
 title:
-  main: "[Letter to A P Jain]"
+  main: "Letter to A P Jain"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 1225-letter-to-madhu-mehta-24-01-1975
 title:
-  main: "[Letter to Madhu Mehta]"
+  main: "Letter to Madhu Mehta"
   subtitle: ""
 work_type: letter
 authors:

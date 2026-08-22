@@ -1,7 +1,7 @@
 ---
 id: 5728-telex-message-from-minoo-masani-to-s-v-raju
 title:
-  main: "[Telex Message From Minoo Masani to S V Raju]"
+  main: "Telex Message From Minoo Masani to S V Raju"
   subtitle: ""
 work_type: telegram
 authors:

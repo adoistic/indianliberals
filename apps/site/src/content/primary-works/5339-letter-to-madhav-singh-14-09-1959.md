@@ -1,7 +1,7 @@
 ---
 id: 5339-letter-to-madhav-singh-14-09-1959
 title:
-  main: "[Letter to Madhav Singh]"
+  main: "Letter to Madhav Singh"
   subtitle: ""
 work_type: letter
 authors: []

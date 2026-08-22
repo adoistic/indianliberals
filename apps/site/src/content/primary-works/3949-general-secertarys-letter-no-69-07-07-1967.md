@@ -1,7 +1,7 @@
 ---
 id: 3949-general-secertarys-letter-no-69-07-07-1967
 title:
-  main: "[General Secertarys Letter no-69]"
+  main: "General Secertarys Letter no-69"
   subtitle: ""
 work_type: letter
 authors: []

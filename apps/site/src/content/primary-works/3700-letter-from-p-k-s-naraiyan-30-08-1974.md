@@ -1,7 +1,7 @@
 ---
 id: 3700-letter-from-p-k-s-naraiyan-30-08-1974
 title:
-  main: "[Letter from P K S Naraiyan]"
+  main: "Letter from P K S Naraiyan"
   subtitle: ""
 work_type: letter
 authors: []

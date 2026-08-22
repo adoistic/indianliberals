@@ -1,7 +1,7 @@
 ---
 id: 5289-letter-to-trikha-09-10-1959
 title:
-  main: "[Letter to Trikha]"
+  main: "Letter to Trikha"
   subtitle: ""
 work_type: letter
 authors:

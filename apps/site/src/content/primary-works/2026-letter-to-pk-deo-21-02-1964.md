@@ -1,7 +1,7 @@
 ---
 id: 2026-letter-to-pk-deo-21-02-1964
 title:
-  main: "[Letter to PK Deo]"
+  main: "Letter to PK Deo"
   subtitle: ""
 work_type: letter
 authors: []

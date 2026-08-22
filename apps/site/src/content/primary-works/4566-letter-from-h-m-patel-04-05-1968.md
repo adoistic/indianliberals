@@ -1,7 +1,7 @@
 ---
 id: 4566-letter-from-h-m-patel-04-05-1968
 title:
-  main: "[Letter from H M Patel]"
+  main: "Letter from H M Patel"
   subtitle: ""
 work_type: letter
 authors:

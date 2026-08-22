@@ -1,7 +1,7 @@
 ---
 id: 24-letter-to-sardar-gian-singh-rarewala-24-03-1971
 title:
-  main: "[Letter to Sardar Gian Singh Rarewala]"
+  main: "Letter to Sardar Gian Singh Rarewala"
   subtitle: ""
 work_type: letter
 authors:

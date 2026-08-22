@@ -1,7 +1,7 @@
 ---
 id: 495-swatantra-party-minutes-of-meeting-03-08-1967
 title:
-  main: "[Swatantra Party Minutes of Meeting]"
+  main: "Swatantra Party Minutes of Meeting"
   subtitle: ""
 work_type: minutes
 work_type_source: filename

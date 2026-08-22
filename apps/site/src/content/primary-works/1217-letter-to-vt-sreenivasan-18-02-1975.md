@@ -1,7 +1,7 @@
 ---
 id: 1217-letter-to-vt-sreenivasan-18-02-1975
 title:
-  main: "[Letter to VT Sreenivasan]"
+  main: "Letter to VT Sreenivasan"
   subtitle: ""
 work_type: letter
 authors:

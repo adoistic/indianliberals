@@ -1,7 +1,7 @@
 ---
 id: 3064-letter-to-r-j-amin-18-09-1968
 title:
-  main: "[Letter to R J Amin]"
+  main: "Letter to R J Amin"
   subtitle: ""
 work_type: letter
 authors:

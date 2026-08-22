@@ -1,7 +1,7 @@
 ---
 id: 2348-letter-to-regional-transport-officer-16-01-1989
 title:
-  main: "[Letter to Regional Transport Officer]"
+  main: "Letter to Regional Transport Officer"
   subtitle: ""
 work_type: letter
 authors:

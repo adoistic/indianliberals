@@ -1,7 +1,7 @@
 ---
 id: 3170-letter-to-t-sadasivan-15-11-1973
 title:
-  main: "[Letter to T Sadasivan]"
+  main: "Letter to T Sadasivan"
   subtitle: ""
 work_type: letter
 authors: []

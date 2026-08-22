@@ -1,7 +1,7 @@
 ---
 id: 4963-swatantra-party-opinion
 title:
-  main: "[Swatantra party Opinion]"
+  main: "Swatantra party Opinion"
   subtitle: ""
 work_type: essay
 work_type_source: classifier

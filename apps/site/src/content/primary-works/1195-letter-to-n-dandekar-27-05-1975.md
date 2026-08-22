@@ -1,7 +1,7 @@
 ---
 id: 1195-letter-to-n-dandekar-27-05-1975
 title:
-  main: "[Letter to N Dandekar]"
+  main: "Letter to N Dandekar"
   subtitle: ""
 work_type: letter
 authors:

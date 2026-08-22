@@ -1,7 +1,7 @@
 ---
 id: 968-letter-to-jayaprakash-narayan-27-06-1963
 title:
-  main: "[Letter to Jayaprakash Narayan]"
+  main: "Letter to Jayaprakash Narayan"
   subtitle: ""
 work_type: letter
 authors:

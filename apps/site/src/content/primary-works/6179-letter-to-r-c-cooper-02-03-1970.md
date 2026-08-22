@@ -1,7 +1,7 @@
 ---
 id: 6179-letter-to-r-c-cooper-02-03-1970
 title:
-  main: "[Letter to R C Cooper]"
+  main: "Letter to R C Cooper"
   subtitle: ""
 work_type: letter
 authors:

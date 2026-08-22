@@ -1,7 +1,7 @@
 ---
 id: 294-statement-of-mr-minoo-masani-for-publication
 title:
-  main: "[Statement of Mr Minoo Masani For Publication]"
+  main: "Statement of Mr Minoo Masani For Publication"
   subtitle: ""
 work_type: essay
 authors:

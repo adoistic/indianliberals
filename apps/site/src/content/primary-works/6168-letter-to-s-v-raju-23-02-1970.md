@@ -1,7 +1,7 @@
 ---
 id: 6168-letter-to-s-v-raju-23-02-1970
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

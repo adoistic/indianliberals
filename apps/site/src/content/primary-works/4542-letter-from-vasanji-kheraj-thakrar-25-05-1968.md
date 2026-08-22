@@ -1,7 +1,7 @@
 ---
 id: 4542-letter-from-vasanji-kheraj-thakrar-25-05-1968
 title:
-  main: "[Letter from Vasanji Kheraj Thakrar]"
+  main: "Letter from Vasanji Kheraj Thakrar"
   subtitle: ""
 work_type: letter
 authors: []

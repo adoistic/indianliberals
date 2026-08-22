@@ -1,7 +1,7 @@
 ---
 id: 3011-letter-to-pujaya-c-rajagopalachari-24-09-1969
 title:
-  main: "[Letter to Pujaya C Rajagopalachari]"
+  main: "Letter to Pujaya C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors: []

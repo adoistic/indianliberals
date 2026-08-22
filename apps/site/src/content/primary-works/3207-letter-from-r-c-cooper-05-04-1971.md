@@ -1,7 +1,7 @@
 ---
 id: 3207-letter-from-r-c-cooper-05-04-1971
 title:
-  main: "[Letter from R C Cooper]"
+  main: "Letter from R C Cooper"
   subtitle: ""
 work_type: letter
 work_type_source: filename

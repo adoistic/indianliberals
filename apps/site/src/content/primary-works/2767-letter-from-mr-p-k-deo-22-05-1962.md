@@ -1,7 +1,7 @@
 ---
 id: 2767-letter-from-mr-p-k-deo-22-05-1962
 title:
-  main: "[Letter From Mr P K Deo]"
+  main: "Letter From Mr P K Deo"
   subtitle: ""
 work_type: letter
 authors: []

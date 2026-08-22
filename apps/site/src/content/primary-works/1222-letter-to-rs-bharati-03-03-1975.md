@@ -1,7 +1,7 @@
 ---
 id: 1222-letter-to-rs-bharati-03-03-1975
 title:
-  main: "[Letter to RS Bharati]"
+  main: "Letter to RS Bharati"
   subtitle: ""
 work_type: letter
 authors:

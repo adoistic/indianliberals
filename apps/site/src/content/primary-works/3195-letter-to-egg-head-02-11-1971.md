@@ -1,7 +1,7 @@
 ---
 id: 3195-letter-to-egg-head-02-11-1971
 title:
-  main: "[Letter to Egg Head]"
+  main: "Letter to Egg Head"
   subtitle: ""
 work_type: letter
 authors: []

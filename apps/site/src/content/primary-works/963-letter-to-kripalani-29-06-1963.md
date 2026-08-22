@@ -1,7 +1,7 @@
 ---
 id: 963-letter-to-kripalani-29-06-1963
 title:
-  main: "[Letter to Kripalani]"
+  main: "Letter to Kripalani"
   subtitle: ""
 work_type: letter
 authors:

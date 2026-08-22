@@ -1,7 +1,7 @@
 ---
 id: 3091-the-first-meeting-of-new-executive-committee-01-05-1968
 title:
-  main: "[The First Meeting of New Executive Committee]"
+  main: "The First Meeting of New Executive Committee"
   subtitle: ""
 work_type: pamphlet
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 1160-letter-to-mr-minoo-masani-30-11-1976
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

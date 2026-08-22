@@ -1,7 +1,7 @@
 ---
 id: 3425-letter-to-c-rajagopalachari-26-06-1970
 title:
-  main: "[Letter to C Rajagopalachari]"
+  main: "Letter to C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors:

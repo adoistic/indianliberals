@@ -1,7 +1,7 @@
 ---
 id: 3575-letter-to-mr-s-khambata-16-07-1963
 title:
-  main: "[Letter to Mr S Khambata]"
+  main: "Letter to Mr S Khambata"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 3107-letter-to-r-r-singh-deo-24-02-1975
 title:
-  main: "[Letter to R R Singh Deo]"
+  main: "Letter to R R Singh Deo"
   subtitle: ""
 work_type: letter
 authors:

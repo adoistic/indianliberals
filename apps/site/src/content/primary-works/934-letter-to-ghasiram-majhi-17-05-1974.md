@@ -1,7 +1,7 @@
 ---
 id: 934-letter-to-ghasiram-majhi-17-05-1974
 title:
-  main: "[Letter to Ghasiram Majhi]"
+  main: "Letter to Ghasiram Majhi"
   subtitle: ""
 work_type: letter
 authors:

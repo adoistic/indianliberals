@@ -1,7 +1,7 @@
 ---
 id: 3566-letter-to-ms-m-l-dahanukar-co-pvt-ltd
 title:
-  main: "[Letter to MS M L Dahanukar & Co Pvt Ltd]"
+  main: "Letter to MS M L Dahanukar & Co Pvt Ltd"
   subtitle: ""
 work_type: letter
 authors: []

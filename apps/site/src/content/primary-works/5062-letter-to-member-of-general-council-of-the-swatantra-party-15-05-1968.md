@@ -1,7 +1,7 @@
 ---
 id: 5062-letter-to-member-of-general-council-of-the-swatantra-party-15-05-1968
 title:
-  main: "[Letter to Member of General Council of the Swatantra party]"
+  main: "Letter to Member of General Council of the Swatantra party"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 2182-letter-from-mr-girish-munshi-04-01-1975
 title:
-  main: "[letter from Mr Girish Munshi]"
+  main: "letter from Mr Girish Munshi"
   subtitle: ""
 work_type: letter
 authors: []

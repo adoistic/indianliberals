@@ -1,7 +1,7 @@
 ---
 id: 5432-general-secretarys-letter-no-294-06-01-1973
 title:
-  main: "[General Secretarys letter no-294]"
+  main: "General Secretarys letter no-294"
   subtitle: ""
 work_type: letter
 authors: []

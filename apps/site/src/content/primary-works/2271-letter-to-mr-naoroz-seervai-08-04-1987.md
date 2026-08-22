@@ -1,7 +1,7 @@
 ---
 id: 2271-letter-to-mr-naoroz-seervai-08-04-1987
 title:
-  main: "[Letter to Mr Naoroz Seervai]"
+  main: "Letter to Mr Naoroz Seervai"
   subtitle: ""
 work_type: letter
 authors:

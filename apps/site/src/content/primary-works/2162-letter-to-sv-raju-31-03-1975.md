@@ -1,7 +1,7 @@
 ---
 id: 2162-letter-to-sv-raju-31-03-1975
 title:
-  main: "[Letter to SV Raju]"
+  main: "Letter to SV Raju"
   subtitle: ""
 work_type: letter
 work_type_source: filename

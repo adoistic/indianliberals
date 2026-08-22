@@ -1,7 +1,7 @@
 ---
 id: 4525-letter-to-mr-pashabhai-patel-03-06-1968
 title:
-  main: "[Letter to Mr Pashabhai Patel]"
+  main: "Letter to Mr Pashabhai Patel"
   subtitle: ""
 work_type: letter
 authors:

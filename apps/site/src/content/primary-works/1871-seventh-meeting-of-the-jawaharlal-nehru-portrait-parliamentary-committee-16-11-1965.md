@@ -1,7 +1,7 @@
 ---
 id: 1871-seventh-meeting-of-the-jawaharlal-nehru-portrait-parliamentary-committee-16-11-1965
 title:
-  main: "[Seventh Meeting of the Jawaharlal Nehru Portrait Parliamentary Committee]"
+  main: "Seventh Meeting of the Jawaharlal Nehru Portrait Parliamentary Committee"
   subtitle: ""
 work_type: office_record
 work_type_source: summary

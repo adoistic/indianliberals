@@ -1,7 +1,7 @@
 ---
 id: 1074-letter-to-arvind-mafatlal-15-03-1963
 title:
-  main: "[Letter to Arvind Mafatlal]"
+  main: "Letter to Arvind Mafatlal"
   subtitle: ""
 work_type: letter
 authors:

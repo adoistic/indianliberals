@@ -1,7 +1,7 @@
 ---
 id: 1231-letter-from-vp-bhatia-09-01-1975
 title:
-  main: "[letter from VP Bhatia]"
+  main: "letter from VP Bhatia"
   subtitle: ""
 work_type: circular
 authors: []

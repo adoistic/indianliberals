@@ -1,7 +1,7 @@
 ---
 id: 639-forum-of-free-enterprise-press-release-01-06-1962
 title:
-  main: "[Forum of Free enterprise-Press Release]"
+  main: "Forum of Free enterprise-Press Release"
   subtitle: ""
 work_type: press_note
 work_type_source: filename

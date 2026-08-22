@@ -1,7 +1,7 @@
 ---
 id: 3826-details-regarding-reception-26-05-1966
 title:
-  main: "[Details Regarding Reception]"
+  main: "Details Regarding Reception"
   subtitle: ""
 work_type: circular
 authors: []

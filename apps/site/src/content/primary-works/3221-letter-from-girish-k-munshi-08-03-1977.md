@@ -1,7 +1,7 @@
 ---
 id: 3221-letter-from-girish-k-munshi-08-03-1977
 title:
-  main: "[Letter from Girish K Munshi]"
+  main: "Letter from Girish K Munshi"
   subtitle: ""
 work_type: letter
 authors: []

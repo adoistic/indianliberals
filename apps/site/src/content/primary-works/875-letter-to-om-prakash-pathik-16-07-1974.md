@@ -1,7 +1,7 @@
 ---
 id: 875-letter-to-om-prakash-pathik-16-07-1974
 title:
-  main: "[Letter to Om Prakash Pathik]"
+  main: "Letter to Om Prakash Pathik"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 3836-central-office-circular-no-44-11-02-1966
 title:
-  main: "[Central Office Circular no-44]"
+  main: "Central Office Circular no-44"
   subtitle: ""
 work_type: circular
 work_type_source: filename

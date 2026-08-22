@@ -1,7 +1,7 @@
 ---
 id: 1277-letter-to-acting-president-30-07-1969
 title:
-  main: "[Letter to Acting President]"
+  main: "Letter to Acting President"
   subtitle: ""
 work_type: letter
 authors: []

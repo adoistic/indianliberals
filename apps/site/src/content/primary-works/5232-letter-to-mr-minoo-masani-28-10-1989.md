@@ -1,7 +1,7 @@
 ---
 id: 5232-letter-to-mr-minoo-masani-28-10-1989
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 2892-letter-from-mr-minoo-masani-04-08-1962
 title:
-  main: "[Letter from Mr Minoo Masani]"
+  main: "Letter from Mr Minoo Masani"
   subtitle: ""
 work_type: telegram
 authors: []

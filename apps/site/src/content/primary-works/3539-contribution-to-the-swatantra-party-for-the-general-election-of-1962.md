@@ -1,7 +1,7 @@
 ---
 id: 3539-contribution-to-the-swatantra-party-for-the-general-election-of-1962
 title:
-  main: "[Contribution To The Swatantra Party For The General Election Of 1962]"
+  main: "Contribution To The Swatantra Party For The General Election Of 1962"
   subtitle: ""
 work_type: office_record
 work_type_source: summary

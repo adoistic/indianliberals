@@ -1,7 +1,7 @@
 ---
 id: 841-letter-to-r-kalamegham-14-08-1974
 title:
-  main: "[Letter to R kalamegham]"
+  main: "Letter to R kalamegham"
   subtitle: ""
 work_type: letter
 authors:

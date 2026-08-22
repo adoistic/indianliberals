@@ -1,7 +1,7 @@
 ---
 id: 754-for-favour-of-publication-23-01-1975
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: press_note
 work_type_source: summary

@@ -1,7 +1,7 @@
 ---
 id: 2178-letter-to-piloo-mody-15-01-1975
 title:
-  main: "[Letter to Piloo Mody]"
+  main: "Letter to Piloo Mody"
   subtitle: ""
 work_type: letter
 authors: []

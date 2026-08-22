@@ -1,7 +1,7 @@
 ---
 id: 3409-letter-to-paramchand-kejriwal-11-04-1975
 title:
-  main: "[Letter to Paramchand Kejriwal]"
+  main: "Letter to Paramchand Kejriwal"
   subtitle: ""
 work_type: letter
 authors: []

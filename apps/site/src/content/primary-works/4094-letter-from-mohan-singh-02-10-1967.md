@@ -1,7 +1,7 @@
 ---
 id: 4094-letter-from-mohan-singh-02-10-1967
 title:
-  main: "[Letter from Mohan Singh]"
+  main: "Letter from Mohan Singh"
   subtitle: ""
 work_type: letter
 authors: []

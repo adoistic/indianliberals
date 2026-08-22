@@ -1,7 +1,7 @@
 ---
 id: 3629-swatantra-party-minuits-of-meeting-10-02-1977
 title:
-  main: "[Swatantra Party Minuits Of Meeting]"
+  main: "Swatantra Party Minuits Of Meeting"
   subtitle: ""
 work_type: letter
 authors: []

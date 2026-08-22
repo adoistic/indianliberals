@@ -1,7 +1,7 @@
 ---
 id: 3206-letter-to-s-v-raju-15-05-1971
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

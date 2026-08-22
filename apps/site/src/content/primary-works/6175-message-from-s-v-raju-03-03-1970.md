@@ -1,7 +1,7 @@
 ---
 id: 6175-message-from-s-v-raju-03-03-1970
 title:
-  main: "[Message from S V RAJU]"
+  main: "Message from S V RAJU"
   subtitle: ""
 work_type: letter
 authors: []

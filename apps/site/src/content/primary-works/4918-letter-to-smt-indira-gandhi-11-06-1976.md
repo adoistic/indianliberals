@@ -1,7 +1,7 @@
 ---
 id: 4918-letter-to-smt-indira-gandhi-11-06-1976
 title:
-  main: "[Letter to Smt Indira Gandhi]"
+  main: "Letter to Smt Indira Gandhi"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 4605-letter-from-chandrakant-parikh-17-04-1968
 title:
-  main: "[Letter from Chandrakant Parikh]"
+  main: "Letter from Chandrakant Parikh"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 1011-telegram-to-ng-ranga-31-07-1964
 title:
-  main: "[Telegram to NG Ranga]"
+  main: "Telegram to NG Ranga"
   subtitle: ""
 work_type: telegram
 authors:

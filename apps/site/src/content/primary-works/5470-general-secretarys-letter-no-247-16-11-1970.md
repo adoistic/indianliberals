@@ -1,7 +1,7 @@
 ---
 id: 5470-general-secretarys-letter-no-247-16-11-1970
 title:
-  main: "[General Secretarys letter no-247]"
+  main: "General Secretarys letter no-247"
   subtitle: ""
 work_type: letter
 work_type_source: filename

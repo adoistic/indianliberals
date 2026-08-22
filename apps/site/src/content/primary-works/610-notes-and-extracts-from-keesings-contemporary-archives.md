@@ -1,7 +1,7 @@
 ---
 id: 610-notes-and-extracts-from-keesings-contemporary-archives
 title:
-  main: "[Notes and Extracts From Keesings Contemporary Archives]"
+  main: "Notes and Extracts From Keesings Contemporary Archives"
   subtitle: ""
 work_type: office_record
 work_type_source: summary

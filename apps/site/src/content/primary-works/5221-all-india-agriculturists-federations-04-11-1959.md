@@ -1,7 +1,7 @@
 ---
 id: 5221-all-india-agriculturists-federations-04-11-1959
 title:
-  main: "[All India Agriculturists Federations]"
+  main: "All India Agriculturists Federations"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 5785-swatantra-party-petitioners
 title:
-  main: "[Swatantra Party Petitioners]"
+  main: "Swatantra Party Petitioners"
   subtitle: ""
 work_type: legal_filing
 work_type_source: summary

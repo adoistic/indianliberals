@@ -1,7 +1,7 @@
 ---
 id: 975-letter-to-deendayal-upadhyaya-25-06-1963
 title:
-  main: "[Letter to Deendayal Upadhyaya]"
+  main: "Letter to Deendayal Upadhyaya"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 5934-letter-to-s-v-murthy-15-01-1975
 title:
-  main: "[Letter to S V Murthy]"
+  main: "Letter to S V Murthy"
   subtitle: ""
 work_type: letter
 authors:

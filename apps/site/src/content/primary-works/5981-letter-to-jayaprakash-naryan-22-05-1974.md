@@ -1,7 +1,7 @@
 ---
 id: 5981-letter-to-jayaprakash-naryan-22-05-1974
 title:
-  main: "[Letter to Jayaprakash Naryan]"
+  main: "Letter to Jayaprakash Naryan"
   subtitle: ""
 work_type: telegram
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 3250-letter-to-n-g-ranga-02-01-1963
 title:
-  main: "[Letter to N G Ranga]"
+  main: "Letter to N G Ranga"
   subtitle: ""
 work_type: letter
 authors:

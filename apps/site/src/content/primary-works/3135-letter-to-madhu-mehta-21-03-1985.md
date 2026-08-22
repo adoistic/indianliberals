@@ -1,7 +1,7 @@
 ---
 id: 3135-letter-to-madhu-mehta-21-03-1985
 title:
-  main: "[Letter to Madhu Mehta]"
+  main: "Letter to Madhu Mehta"
   subtitle: ""
 work_type: letter
 authors:

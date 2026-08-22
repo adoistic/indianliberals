@@ -1,7 +1,7 @@
 ---
 id: 2763-swatantra-to-function-as-before-times-of-india-09-12-1974
 title:
-  main: "[Swatantra to Function As Before-Times Of India]"
+  main: "Swatantra to Function As Before-Times Of India"
   subtitle: ""
 work_type: resolution
 work_type_source: classifier

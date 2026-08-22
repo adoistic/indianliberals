@@ -1,7 +1,7 @@
 ---
 id: 2295-letter-to-mr-girish-22-04-1975
 title:
-  main: "[Letter to Mr Girish]"
+  main: "Letter to Mr Girish"
   subtitle: ""
 work_type: letter
 authors: []

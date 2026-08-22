@@ -1,7 +1,7 @@
 ---
 id: 3401-letter-to-kamakhya-narain-singh-20-06-1961
 title:
-  main: "[Letter to kamakhya Narain Singh]"
+  main: "Letter to kamakhya Narain Singh"
   subtitle: ""
 work_type: letter
 authors:

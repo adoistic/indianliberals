@@ -1,7 +1,7 @@
 ---
 id: 2611-swatantra-party-national-convention-01-05-1975
 title:
-  main: "[Swatantra Party National Convention]"
+  main: "Swatantra Party National Convention"
   subtitle: ""
 work_type: circular
 work_type_source: summary

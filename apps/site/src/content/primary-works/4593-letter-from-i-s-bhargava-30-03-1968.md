@@ -1,7 +1,7 @@
 ---
 id: 4593-letter-from-i-s-bhargava-30-03-1968
 title:
-  main: "[Letter from I S Bhargava]"
+  main: "Letter from I S Bhargava"
   subtitle: ""
 work_type: letter
 authors: []

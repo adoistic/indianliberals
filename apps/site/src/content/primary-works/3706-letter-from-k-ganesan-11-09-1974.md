@@ -1,7 +1,7 @@
 ---
 id: 3706-letter-from-k-ganesan-11-09-1974
 title:
-  main: "[Letter from K Ganesan]"
+  main: "Letter from K Ganesan"
   subtitle: ""
 work_type: letter
 authors:

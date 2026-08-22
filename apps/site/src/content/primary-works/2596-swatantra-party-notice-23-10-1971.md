@@ -1,7 +1,7 @@
 ---
 id: 2596-swatantra-party-notice-23-10-1971
 title:
-  main: "[Swatantra Party Notice]"
+  main: "Swatantra Party Notice"
   subtitle: ""
 work_type: pamphlet
 authors: []

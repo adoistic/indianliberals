@@ -1,7 +1,7 @@
 ---
 id: 5891-form-of-free-enterprise-04-05-1968
 title:
-  main: "[Form of Free Enterprise]"
+  main: "Form of Free Enterprise"
   subtitle: ""
 work_type: letter
 authors:

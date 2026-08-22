@@ -1,7 +1,7 @@
 ---
 id: 3330-memorandum
 title:
-  main: "[Memorandum]"
+  main: "Memorandum"
   subtitle: ""
 work_type: pamphlet
 work_type_source: summary

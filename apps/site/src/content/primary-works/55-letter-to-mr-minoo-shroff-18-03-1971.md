@@ -1,7 +1,7 @@
 ---
 id: 55-letter-to-mr-minoo-shroff-18-03-1971
 title:
-  main: "[Letter to Mr Minoo Shroff]"
+  main: "Letter to Mr Minoo Shroff"
   subtitle: ""
 work_type: letter
 authors:

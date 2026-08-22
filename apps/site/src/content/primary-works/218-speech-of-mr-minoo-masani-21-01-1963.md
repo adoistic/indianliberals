@@ -1,7 +1,7 @@
 ---
 id: 218-speech-of-mr-minoo-masani-21-01-1963
 title:
-  main: "[Speech of Mr Minoo Masani]"
+  main: "Speech of Mr Minoo Masani"
   subtitle: ""
 work_type: speech
 purpose: convention_address

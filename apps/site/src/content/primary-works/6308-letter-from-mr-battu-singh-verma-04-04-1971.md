@@ -1,7 +1,7 @@
 ---
 id: 6308-letter-from-mr-battu-singh-verma-04-04-1971
 title:
-  main: "[Letter From Mr Battu Singh Verma]"
+  main: "Letter From Mr Battu Singh Verma"
   subtitle: ""
 work_type: letter
 authors: []

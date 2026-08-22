@@ -1,7 +1,7 @@
 ---
 id: 5164-letter-to-mohan-murari-01-12-1959
 title:
-  main: "[Letter to Mohan Murari]"
+  main: "Letter to Mohan Murari"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 5381-letter-to-bhanu-pratap-singh
 title:
-  main: "[Letter to Bhanu Pratap Singh]"
+  main: "Letter to Bhanu Pratap Singh"
   subtitle: ""
 work_type: letter
 authors:

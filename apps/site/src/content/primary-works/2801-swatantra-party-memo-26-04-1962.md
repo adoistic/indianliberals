@@ -1,7 +1,7 @@
 ---
 id: 2801-swatantra-party-memo-26-04-1962
 title:
-  main: "[Swatantra Party Memo]"
+  main: "Swatantra Party Memo"
   subtitle: ""
 work_type: letter
 authors:

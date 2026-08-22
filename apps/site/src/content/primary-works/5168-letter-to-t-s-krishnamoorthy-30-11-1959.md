@@ -1,7 +1,7 @@
 ---
 id: 5168-letter-to-t-s-krishnamoorthy-30-11-1959
 title:
-  main: "[Letter to T S Krishnamoorthy]"
+  main: "Letter to T S Krishnamoorthy"
   subtitle: ""
 work_type: letter
 authors:

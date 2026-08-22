@@ -1,7 +1,7 @@
 ---
 id: 1192-receipt-of-donation-no-113-14-07-1975
 title:
-  main: "[Receipt of Donation No-113]"
+  main: "Receipt of Donation No-113"
   subtitle: ""
 work_type: letter
 authors: []

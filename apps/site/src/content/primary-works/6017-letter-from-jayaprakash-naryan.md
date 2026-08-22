@@ -1,7 +1,7 @@
 ---
 id: 6017-letter-from-jayaprakash-naryan
 title:
-  main: "[Letter from Jayaprakash Naryan]"
+  main: "Letter from Jayaprakash Naryan"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 2813-letter-to-c-rajagopalachari-24-03-1962
 title:
-  main: "[Letter to C Rajagopalachari]"
+  main: "Letter to C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors:

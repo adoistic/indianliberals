@@ -1,7 +1,7 @@
 ---
 id: 6016-letter-from-jayaprakash-naryan-27-09-1972
 title:
-  main: "[Letter from Jayaprakash Naryan]"
+  main: "Letter from Jayaprakash Naryan"
   subtitle: ""
 work_type: edited_volume
 authors:

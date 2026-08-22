@@ -1,7 +1,7 @@
 ---
 id: 5656-swatantra-party-letter
 title:
-  main: "[Swatantra Party Letter]"
+  main: "Swatantra Party Letter"
   subtitle: ""
 work_type: letter
 authors:

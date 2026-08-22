@@ -1,7 +1,7 @@
 ---
 id: 4116-swatantra-party-notice-07-03-1970
 title:
-  main: "[Swatantra party notice]"
+  main: "Swatantra party notice"
   subtitle: ""
 work_type: minutes
 work_type_source: summary

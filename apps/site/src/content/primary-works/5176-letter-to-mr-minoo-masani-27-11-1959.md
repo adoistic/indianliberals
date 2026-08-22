@@ -1,7 +1,7 @@
 ---
 id: 5176-letter-to-mr-minoo-masani-27-11-1959
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

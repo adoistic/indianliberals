@@ -1,7 +1,7 @@
 ---
 id: 2380-letter-from-mr-v-p-bhatia-06-03-1975
 title:
-  main: "[Letter From Mr V P Bhatia]"
+  main: "Letter From Mr V P Bhatia"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 5335-letter-to-sant-kumar-chopra-14-09-1959
 title:
-  main: "[Letter to Sant Kumar Chopra]"
+  main: "Letter to Sant Kumar Chopra"
   subtitle: ""
 work_type: letter
 authors: []

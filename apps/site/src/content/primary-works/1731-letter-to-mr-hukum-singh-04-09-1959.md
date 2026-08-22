@@ -1,7 +1,7 @@
 ---
 id: 1731-letter-to-mr-hukum-singh-04-09-1959
 title:
-  main: "[Letter to Mr Hukum Singh]"
+  main: "Letter to Mr Hukum Singh"
   subtitle: ""
 work_type: letter
 authors: []

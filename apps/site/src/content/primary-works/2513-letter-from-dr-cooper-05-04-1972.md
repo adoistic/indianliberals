@@ -1,7 +1,7 @@
 ---
 id: 2513-letter-from-dr-cooper-05-04-1972
 title:
-  main: "[Letter from Dr Cooper]"
+  main: "Letter from Dr Cooper"
   subtitle: ""
 work_type: letter
 authors: []

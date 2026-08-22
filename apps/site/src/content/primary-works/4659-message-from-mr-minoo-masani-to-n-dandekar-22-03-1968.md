@@ -1,7 +1,7 @@
 ---
 id: 4659-message-from-mr-minoo-masani-to-n-dandekar-22-03-1968
 title:
-  main: "[Message from Mr Minoo Masani to N Dandekar]"
+  main: "Message from Mr Minoo Masani to N Dandekar"
   subtitle: ""
 work_type: letter
 authors:

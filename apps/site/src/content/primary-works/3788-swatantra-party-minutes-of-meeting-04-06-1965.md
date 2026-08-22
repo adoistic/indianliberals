@@ -1,7 +1,7 @@
 ---
 id: 3788-swatantra-party-minutes-of-meeting-04-06-1965
 title:
-  main: "[Swatantra Party Minutes of Meeting]"
+  main: "Swatantra Party Minutes of Meeting"
   subtitle: ""
 work_type: minutes
 work_type_source: filename

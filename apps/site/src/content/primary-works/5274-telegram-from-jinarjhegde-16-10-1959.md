@@ -1,7 +1,7 @@
 ---
 id: 5274-telegram-from-jinarjhegde-16-10-1959
 title:
-  main: "[Telegram from Jinarjhegde]"
+  main: "Telegram from Jinarjhegde"
   subtitle: ""
 work_type: telegram
 work_type_source: filename

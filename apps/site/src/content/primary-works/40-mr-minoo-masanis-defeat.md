@@ -1,7 +1,7 @@
 ---
 id: 40-mr-minoo-masanis-defeat
 title:
-  main: "[Mr Minoo Masanis Defeat]"
+  main: "Mr Minoo Masanis Defeat"
   subtitle: ""
 work_type: essay
 work_type_source: classifier

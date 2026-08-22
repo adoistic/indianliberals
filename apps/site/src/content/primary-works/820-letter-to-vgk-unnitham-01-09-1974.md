@@ -1,7 +1,7 @@
 ---
 id: 820-letter-to-vgk-unnitham-01-09-1974
 title:
-  main: "[Letter to VGK Unnitham]"
+  main: "Letter to VGK Unnitham"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 136-for-favour-of-publication-24-01-1968
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: essay
 work_type_source: summary

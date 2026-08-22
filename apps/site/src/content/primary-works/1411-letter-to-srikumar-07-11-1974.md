@@ -1,7 +1,7 @@
 ---
 id: 1411-letter-to-srikumar-07-11-1974
 title:
-  main: "[Letter to Srikumar]"
+  main: "Letter to Srikumar"
   subtitle: ""
 work_type: letter
 authors:

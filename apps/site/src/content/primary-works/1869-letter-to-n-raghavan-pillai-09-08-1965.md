@@ -1,7 +1,7 @@
 ---
 id: 1869-letter-to-n-raghavan-pillai-09-08-1965
 title:
-  main: "[Letter to N Raghavan Pillai]"
+  main: "Letter to N Raghavan Pillai"
   subtitle: ""
 work_type: letter
 authors:

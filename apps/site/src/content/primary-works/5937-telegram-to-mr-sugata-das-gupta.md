@@ -1,7 +1,7 @@
 ---
 id: 5937-telegram-to-mr-sugata-das-gupta
 title:
-  main: "[Telegram To Mr Sugata Das Gupta]"
+  main: "Telegram To Mr Sugata Das Gupta"
   subtitle: ""
 work_type: telegram
 work_type_source: filename

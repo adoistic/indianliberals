@@ -1,7 +1,7 @@
 ---
 id: 58-letter-to-mrs-sosan-panday-18-03-1971
 title:
-  main: "[Letter to Mrs Sosan Panday]"
+  main: "Letter to Mrs Sosan Panday"
   subtitle: ""
 work_type: letter
 authors:

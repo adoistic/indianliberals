@@ -1,7 +1,7 @@
 ---
 id: 818-letter-to-man-singh-09-09-1974
 title:
-  main: "[Letter to Man Singh]"
+  main: "Letter to Man Singh"
   subtitle: ""
 work_type: letter
 authors:

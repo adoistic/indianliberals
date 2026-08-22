@@ -1,7 +1,7 @@
 ---
 id: 2790-letter-to-mr-dahyabhi-patel-19-04-1962
 title:
-  main: "[Letter to Mr Dahyabhi Patel]"
+  main: "Letter to Mr Dahyabhi Patel"
   subtitle: ""
 work_type: letter
 authors:

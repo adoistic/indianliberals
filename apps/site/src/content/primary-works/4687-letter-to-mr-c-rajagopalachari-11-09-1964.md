@@ -1,7 +1,7 @@
 ---
 id: 4687-letter-to-mr-c-rajagopalachari-11-09-1964
 title:
-  main: "[Letter to Mr C Rajagopalachari]"
+  main: "Letter to Mr C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors:

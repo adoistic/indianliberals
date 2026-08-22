@@ -1,7 +1,7 @@
 ---
 id: 1461-registration-reciept-26-03-1974
 title:
-  main: "[Registration Reciept]"
+  main: "Registration Reciept"
   subtitle: ""
 work_type: letter
 authors: []

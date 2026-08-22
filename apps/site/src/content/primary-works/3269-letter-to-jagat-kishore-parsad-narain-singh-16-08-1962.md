@@ -1,7 +1,7 @@
 ---
 id: 3269-letter-to-jagat-kishore-parsad-narain-singh-16-08-1962
 title:
-  main: "[Letter to Jagat Kishore Parsad Narain Singh]"
+  main: "Letter to Jagat Kishore Parsad Narain Singh"
   subtitle: ""
 work_type: correspondence
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 4947-letter-to-inder-malohtra-22-10-1975
 title:
-  main: "[Letter to inder malohtra]"
+  main: "Letter to inder malohtra"
   subtitle: ""
 work_type: letter
 authors:

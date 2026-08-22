@@ -1,7 +1,7 @@
 ---
 id: 3279-letter-to-c-rajagopalachari-09-08-1962
 title:
-  main: "[Letter to C Rajagopalachari]"
+  main: "Letter to C Rajagopalachari"
   subtitle: ""
 work_type: telegram
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 3985-general-secertarys-letter-no-147-04-03-1967
 title:
-  main: "[General Secertarys Letter no-147]"
+  main: "General Secertarys Letter no-147"
   subtitle: ""
 work_type: letter
 authors:

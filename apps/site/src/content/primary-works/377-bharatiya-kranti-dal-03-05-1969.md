@@ -1,7 +1,7 @@
 ---
 id: 377-bharatiya-kranti-dal-03-05-1969
 title:
-  main: "[Bharatiya Kranti Dal]"
+  main: "Bharatiya Kranti Dal"
   subtitle: ""
 work_type: essay
 work_type_source: summary

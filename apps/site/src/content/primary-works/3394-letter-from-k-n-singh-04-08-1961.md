@@ -1,7 +1,7 @@
 ---
 id: 3394-letter-from-k-n-singh-04-08-1961
 title:
-  main: "[Letter from K N Singh]"
+  main: "Letter from K N Singh"
   subtitle: ""
 work_type: letter
 authors: []

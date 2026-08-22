@@ -1,7 +1,7 @@
 ---
 id: 4683-letter-to-piloo-mody-17-09-1964
 title:
-  main: "[Letter to Piloo Mody]"
+  main: "Letter to Piloo Mody"
   subtitle: ""
 work_type: letter
 authors:

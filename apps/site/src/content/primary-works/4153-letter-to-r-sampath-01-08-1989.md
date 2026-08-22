@@ -1,7 +1,7 @@
 ---
 id: 4153-letter-to-r-sampath-01-08-1989
 title:
-  main: "[Letter to R Sampath]"
+  main: "Letter to R Sampath"
   subtitle: ""
 work_type: letter
 authors: []

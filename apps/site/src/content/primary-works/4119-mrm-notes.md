@@ -1,7 +1,7 @@
 ---
 id: 4119-mrm-notes
 title:
-  main: "[Mrm Notes]"
+  main: "Mrm Notes"
   subtitle: ""
 work_type: office_record
 work_type_source: classifier

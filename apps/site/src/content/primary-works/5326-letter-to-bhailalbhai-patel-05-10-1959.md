@@ -1,7 +1,7 @@
 ---
 id: 5326-letter-to-bhailalbhai-patel-05-10-1959
 title:
-  main: "[Letter to Bhailalbhai Patel]"
+  main: "Letter to Bhailalbhai Patel"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 4941-letter-to-m-g-devashyam-12-11-1975
 title:
-  main: "[Letter to M G Devashyam]"
+  main: "Letter to M G Devashyam"
   subtitle: ""
 work_type: letter
 authors:

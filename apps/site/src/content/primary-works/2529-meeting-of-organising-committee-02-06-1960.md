@@ -1,7 +1,7 @@
 ---
 id: 2529-meeting-of-organising-committee-02-06-1960
 title:
-  main: "[Meeting of Organising Committee]"
+  main: "Meeting of Organising Committee"
   subtitle: ""
 work_type: minutes
 work_type_source: summary

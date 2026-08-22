@@ -1,7 +1,7 @@
 ---
 id: 3202-letter-to-s-v-raju-28-06-1971
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

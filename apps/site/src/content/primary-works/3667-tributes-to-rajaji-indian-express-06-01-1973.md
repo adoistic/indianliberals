@@ -1,7 +1,7 @@
 ---
 id: 3667-tributes-to-rajaji-indian-express-06-01-1973
 title:
-  main: "[Tributes to Rajaji-Indian Express]"
+  main: "Tributes to Rajaji-Indian Express"
   subtitle: ""
 work_type: letter
 authors:

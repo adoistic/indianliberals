@@ -1,7 +1,7 @@
 ---
 id: 2660-letter-to-mr-r-b-mishra-30-03-1968
 title:
-  main: "[Letter to Mr R B Mishra]"
+  main: "Letter to Mr R B Mishra"
   subtitle: ""
 work_type: letter
 authors: []

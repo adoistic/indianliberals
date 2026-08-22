@@ -1,7 +1,7 @@
 ---
 id: 2627-statement-of-swatantra-party-09-12-1978
 title:
-  main: "[Statement of Swatantra Party]"
+  main: "Statement of Swatantra Party"
   subtitle: ""
 work_type: essay
 work_type_source: summary

@@ -1,7 +1,7 @@
 ---
 id: 5208-letter-to-ishwardas-khare-10-11-1959
 title:
-  main: "[Letter to Ishwardas Khare]"
+  main: "Letter to Ishwardas Khare"
   subtitle: ""
 work_type: letter
 authors:

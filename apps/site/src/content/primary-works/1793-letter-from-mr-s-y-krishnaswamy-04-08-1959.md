@@ -1,7 +1,7 @@
 ---
 id: 1793-letter-from-mr-s-y-krishnaswamy-04-08-1959
 title:
-  main: "[Letter From Mr S Y Krishnaswamy]"
+  main: "Letter From Mr S Y Krishnaswamy"
   subtitle: ""
 work_type: letter
 authors: []

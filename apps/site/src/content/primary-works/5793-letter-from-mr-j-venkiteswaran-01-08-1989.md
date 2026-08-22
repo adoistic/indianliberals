@@ -1,7 +1,7 @@
 ---
 id: 5793-letter-from-mr-j-venkiteswaran-01-08-1989
 title:
-  main: "[Letter From Mr J Venkiteswaran]"
+  main: "Letter From Mr J Venkiteswaran"
   subtitle: ""
 work_type: letter
 authors: []

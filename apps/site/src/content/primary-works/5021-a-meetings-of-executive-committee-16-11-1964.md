@@ -1,7 +1,7 @@
 ---
 id: 5021-a-meetings-of-executive-committee-16-11-1964
 title:
-  main: "[A Meetings of Executive Committee]"
+  main: "A Meetings of Executive Committee"
   subtitle: ""
 work_type: legal_filing
 work_type_source: summary

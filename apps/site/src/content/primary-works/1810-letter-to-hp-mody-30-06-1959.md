@@ -1,7 +1,7 @@
 ---
 id: 1810-letter-to-hp-mody-30-06-1959
 title:
-  main: "[Letter to HP Mody]"
+  main: "Letter to HP Mody"
   subtitle: ""
 work_type: letter
 authors: []

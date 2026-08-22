@@ -1,7 +1,7 @@
 ---
 id: 2774-speech-of-mr-bula-singh-in-lok-sabha-08-05-1962
 title:
-  main: "[Speech Of Mr Bula Singh In Lok Sabha]"
+  main: "Speech Of Mr Bula Singh In Lok Sabha"
   subtitle: ""
 work_type: speech
 authors: []

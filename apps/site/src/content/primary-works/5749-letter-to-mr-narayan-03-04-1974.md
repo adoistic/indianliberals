@@ -1,7 +1,7 @@
 ---
 id: 5749-letter-to-mr-narayan-03-04-1974
 title:
-  main: "[Letter to Mr Narayan]"
+  main: "Letter to Mr Narayan"
   subtitle: ""
 work_type: letter
 authors: []

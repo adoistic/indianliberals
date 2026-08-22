@@ -1,7 +1,7 @@
 ---
 id: 3046-letter-to-n-g-ranga-22-04-1969
 title:
-  main: "[Letter to N G Ranga]"
+  main: "Letter to N G Ranga"
   subtitle: ""
 work_type: letter
 authors:

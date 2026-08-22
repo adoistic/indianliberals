@@ -1,7 +1,7 @@
 ---
 id: 4100-a-meeting-of-executive-committee-25-03-1971
 title:
-  main: "[A Meeting of Executive Committee]"
+  main: "A Meeting of Executive Committee"
   subtitle: ""
 work_type: programme
 work_type_source: summary

@@ -1,7 +1,7 @@
 ---
 id: 5933-letter-to-farrokh-s-nulla-17-01-1975
 title:
-  main: "[Letter to Farrokh S Nulla]"
+  main: "Letter to Farrokh S Nulla"
   subtitle: ""
 work_type: letter
 authors:

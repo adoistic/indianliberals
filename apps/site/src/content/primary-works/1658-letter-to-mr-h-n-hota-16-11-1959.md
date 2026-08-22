@@ -1,7 +1,7 @@
 ---
 id: 1658-letter-to-mr-h-n-hota-16-11-1959
 title:
-  main: "[Letter to Mr H N Hota]"
+  main: "Letter to Mr H N Hota"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 2370-letter-to-regional-transport-officer-23-11-1976
 title:
-  main: "[Letter to Regional Transport Officer]"
+  main: "Letter to Regional Transport Officer"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 811-letter-to-rs-bharati-10-09-1974
 title:
-  main: "[Letter to RS Bharati]"
+  main: "Letter to RS Bharati"
   subtitle: ""
 work_type: letter
 authors:

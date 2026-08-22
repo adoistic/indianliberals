@@ -1,7 +1,7 @@
 ---
 id: 2595-letter-to-f-c-cama-14-10-1971
 title:
-  main: "[Letter to F C Cama]"
+  main: "Letter to F C Cama"
   subtitle: ""
 work_type: letter
 authors: []

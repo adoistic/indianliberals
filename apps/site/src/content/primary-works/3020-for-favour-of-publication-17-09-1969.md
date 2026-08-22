@@ -1,7 +1,7 @@
 ---
 id: 3020-for-favour-of-publication-17-09-1969
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: office_record
 work_type_source: summary

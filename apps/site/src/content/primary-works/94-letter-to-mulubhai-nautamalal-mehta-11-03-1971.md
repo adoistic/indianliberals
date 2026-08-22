@@ -1,7 +1,7 @@
 ---
 id: 94-letter-to-mulubhai-nautamalal-mehta-11-03-1971
 title:
-  main: "[Letter to Mulubhai Nautamalal Mehta]"
+  main: "Letter to Mulubhai Nautamalal Mehta"
   subtitle: ""
 work_type: letter
 authors: []

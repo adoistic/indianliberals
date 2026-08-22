@@ -1,7 +1,7 @@
 ---
 id: 2582-letter-from-shantilal-l-thar-17-11-1971
 title:
-  main: "[Letter from Shantilal L Thar]"
+  main: "Letter from Shantilal L Thar"
   subtitle: ""
 work_type: letter
 authors: []

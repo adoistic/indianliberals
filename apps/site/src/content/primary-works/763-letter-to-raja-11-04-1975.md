@@ -1,7 +1,7 @@
 ---
 id: 763-letter-to-raja-11-04-1975
 title:
-  main: "[Letter to Raja]"
+  main: "Letter to Raja"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 643-state-enterprises-the-second-olompians-12-04-1962
 title:
-  main: "[State Enterprises The Second Olompians]"
+  main: "State Enterprises The Second Olompians"
   subtitle: ""
 work_type: pamphlet
 work_type_source: summary

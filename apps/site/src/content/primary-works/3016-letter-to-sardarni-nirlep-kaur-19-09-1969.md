@@ -1,7 +1,7 @@
 ---
 id: 3016-letter-to-sardarni-nirlep-kaur-19-09-1969
 title:
-  main: "[Letter to Sardarni Nirlep Kaur]"
+  main: "Letter to Sardarni Nirlep Kaur"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 3959-letter-from-n-dandekar-30-05-1967
 title:
-  main: "[Letter from N Dandekar]"
+  main: "Letter from N Dandekar"
   subtitle: ""
 work_type: letter
 authors:

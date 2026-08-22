@@ -1,7 +1,7 @@
 ---
 id: 6093-letter-to-k-s-srinivasan
 title:
-  main: "[Letter to K S Srinivasan]"
+  main: "Letter to K S Srinivasan"
   subtitle: ""
 work_type: letter
 authors:

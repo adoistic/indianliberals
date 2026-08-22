@@ -1,7 +1,7 @@
 ---
 id: 5925-letter-to-jayaprakash-naryan-17-03-1979
 title:
-  main: "[Letter to Jayaprakash Naryan]"
+  main: "Letter to Jayaprakash Naryan"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 5374-letter-to-charan-singh-19-06-1968
 title:
-  main: "[Letter to Charan Singh]"
+  main: "Letter to Charan Singh"
   subtitle: ""
 work_type: letter
 authors: []

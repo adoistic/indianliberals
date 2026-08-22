@@ -1,7 +1,7 @@
 ---
 id: 5884-letter-to-n-dandekar-07-09-1967
 title:
-  main: "[Letter to N Dandekar]"
+  main: "Letter to N Dandekar"
   subtitle: ""
 work_type: letter
 authors: []

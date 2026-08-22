@@ -1,7 +1,7 @@
 ---
 id: 2309-rent-and-electricity-charges-for-the-month-nov-1974-16-12-1974
 title:
-  main: "[Rent and Electricity Charges For The Month Nov-1974]"
+  main: "Rent and Electricity Charges For The Month Nov-1974"
   subtitle: ""
 work_type: letter
 authors: []

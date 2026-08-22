@@ -1,7 +1,7 @@
 ---
 id: 11-letter-to-mr-yaskov-morris-29-03-1971
 title:
-  main: "[Letter To Mr Yaskov Morris]"
+  main: "Letter To Mr Yaskov Morris"
   subtitle: ""
 work_type: letter
 authors:

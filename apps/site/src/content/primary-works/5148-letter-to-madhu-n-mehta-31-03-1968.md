@@ -1,7 +1,7 @@
 ---
 id: 5148-letter-to-madhu-n-mehta-31-03-1968
 title:
-  main: "[Letter to Madhu N Mehta]"
+  main: "Letter to Madhu N Mehta"
   subtitle: ""
 work_type: letter
 authors: []

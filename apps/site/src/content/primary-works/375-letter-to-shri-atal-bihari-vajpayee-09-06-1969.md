@@ -1,7 +1,7 @@
 ---
 id: 375-letter-to-shri-atal-bihari-vajpayee-09-06-1969
 title:
-  main: "[Letter to Shri Atal Bihari Vajpayee]"
+  main: "Letter to Shri Atal Bihari Vajpayee"
   subtitle: ""
 work_type: letter
 authors: []

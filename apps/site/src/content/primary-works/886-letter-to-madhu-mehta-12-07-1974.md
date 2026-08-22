@@ -1,7 +1,7 @@
 ---
 id: 886-letter-to-madhu-mehta-12-07-1974
 title:
-  main: "[Letter to Madhu Mehta]"
+  main: "Letter to Madhu Mehta"
   subtitle: ""
 work_type: letter
 authors:

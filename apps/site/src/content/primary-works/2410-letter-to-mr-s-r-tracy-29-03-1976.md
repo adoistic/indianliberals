@@ -1,7 +1,7 @@
 ---
 id: 2410-letter-to-mr-s-r-tracy-29-03-1976
 title:
-  main: "[Letter to Mr S R Tracy]"
+  main: "Letter to Mr S R Tracy"
   subtitle: ""
 work_type: letter
 authors: []

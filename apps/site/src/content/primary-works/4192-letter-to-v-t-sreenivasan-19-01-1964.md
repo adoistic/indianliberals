@@ -1,7 +1,7 @@
 ---
 id: 4192-letter-to-v-t-sreenivasan-19-01-1964
 title:
-  main: "[Letter to V T Sreenivasan]"
+  main: "Letter to V T Sreenivasan"
   subtitle: ""
 work_type: letter
 authors:

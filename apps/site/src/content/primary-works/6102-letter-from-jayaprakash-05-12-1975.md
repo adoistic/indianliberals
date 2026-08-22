@@ -1,7 +1,7 @@
 ---
 id: 6102-letter-from-jayaprakash-05-12-1975
 title:
-  main: "[Letter from Jayaprakash]"
+  main: "Letter from Jayaprakash"
   subtitle: ""
 work_type: letter
 authors: []

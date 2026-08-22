@@ -1,7 +1,7 @@
 ---
 id: 6167-letter-to-r-k-a-narayan-18-03-1970
 title:
-  main: "[Letter to R K A NARAYAN]"
+  main: "Letter to R K A NARAYAN"
   subtitle: ""
 work_type: letter
 authors:

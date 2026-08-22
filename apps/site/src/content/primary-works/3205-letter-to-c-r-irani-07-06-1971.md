@@ -1,7 +1,7 @@
 ---
 id: 3205-letter-to-c-r-irani-07-06-1971
 title:
-  main: "[Letter to C R Irani]"
+  main: "Letter to C R Irani"
   subtitle: ""
 work_type: letter
 authors: []

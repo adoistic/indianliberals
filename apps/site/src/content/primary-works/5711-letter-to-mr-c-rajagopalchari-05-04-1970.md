@@ -1,7 +1,7 @@
 ---
 id: 5711-letter-to-mr-c-rajagopalchari-05-04-1970
 title:
-  main: "[Letter to Mr C Rajagopalchari]"
+  main: "Letter to Mr C Rajagopalchari"
   subtitle: ""
 work_type: letter
 authors:

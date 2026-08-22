@@ -1,7 +1,7 @@
 ---
 id: 4550-letter-to-ratibhai-ukabhai-patel-21-05-1968
 title:
-  main: "[Letter to Ratibhai Ukabhai Patel]"
+  main: "Letter to Ratibhai Ukabhai Patel"
   subtitle: ""
 work_type: letter
 authors: []

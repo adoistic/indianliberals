@@ -1,7 +1,7 @@
 ---
 id: 3148-letter-to-babu-joseph-11-03-1985
 title:
-  main: "[Letter to Babu Joseph]"
+  main: "Letter to Babu Joseph"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 1267-letter-from-pk-patnaik-03-03-1970
 title:
-  main: "[Letter from PK Patnaik]"
+  main: "Letter from PK Patnaik"
   subtitle: ""
 work_type: letter
 authors: []

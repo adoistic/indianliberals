@@ -1,7 +1,7 @@
 ---
 id: 499-swatantra-party-meeting-notice-28-07-1967
 title:
-  main: "[Swatantra Party Meeting-Notice]"
+  main: "Swatantra Party Meeting-Notice"
   subtitle: ""
 work_type: circular
 authors: []

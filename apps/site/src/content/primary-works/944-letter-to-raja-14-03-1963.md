@@ -1,7 +1,7 @@
 ---
 id: 944-letter-to-raja-14-03-1963
 title:
-  main: "[Letter to Raja]"
+  main: "Letter to Raja"
   subtitle: ""
 work_type: letter
 authors: []

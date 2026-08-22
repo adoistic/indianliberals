@@ -1,7 +1,7 @@
 ---
 id: 1111-letter-to-s-sitaraman-02-10-1980
 title:
-  main: "[Letter to S Sitaraman]"
+  main: "Letter to S Sitaraman"
   subtitle: ""
 work_type: letter
 authors:

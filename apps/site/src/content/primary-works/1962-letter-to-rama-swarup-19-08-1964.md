@@ -1,7 +1,7 @@
 ---
 id: 1962-letter-to-rama-swarup-19-08-1964
 title:
-  main: "[Letter to Rama Swarup]"
+  main: "Letter to Rama Swarup"
   subtitle: ""
 work_type: letter
 authors: []

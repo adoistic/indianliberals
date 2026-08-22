@@ -1,7 +1,7 @@
 ---
 id: 79-letter-to-mr-a-d-rawal-16-03-1971
 title:
-  main: "[Letter to Mr A D Rawal]"
+  main: "Letter to Mr A D Rawal"
   subtitle: ""
 work_type: letter
 authors:

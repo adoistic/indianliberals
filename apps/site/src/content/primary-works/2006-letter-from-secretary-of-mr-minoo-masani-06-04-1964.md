@@ -1,7 +1,7 @@
 ---
 id: 2006-letter-from-secretary-of-mr-minoo-masani-06-04-1964
 title:
-  main: "[Letter from Secretary of Mr Minoo Masani]"
+  main: "Letter from Secretary of Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

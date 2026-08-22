@@ -1,7 +1,7 @@
 ---
 id: 4091-letter-to-s-v-raju-18-11-1967
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

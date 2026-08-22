@@ -1,7 +1,7 @@
 ---
 id: 2378-letter-to-mr-p-j-deshmukh-13-03-1975
 title:
-  main: "[Letter to Mr P J Deshmukh]"
+  main: "Letter to Mr P J Deshmukh"
   subtitle: ""
 work_type: letter
 authors:

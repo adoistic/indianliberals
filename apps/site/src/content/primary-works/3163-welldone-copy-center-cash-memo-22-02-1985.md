@@ -1,7 +1,7 @@
 ---
 id: 3163-welldone-copy-center-cash-memo-22-02-1985
 title:
-  main: "[Welldone Copy Center Cash Memo]"
+  main: "Welldone Copy Center Cash Memo"
   subtitle: ""
 work_type: office_record
 work_type_source: summary

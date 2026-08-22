@@ -1,7 +1,7 @@
 ---
 id: 4625-complments-of-n-dandekar
 title:
-  main: "[Complments of N Dandekar]"
+  main: "Complments of N Dandekar"
   subtitle: ""
 work_type: correspondence
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 778-letter-to-mr-minoo-masani-16-12-1974
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

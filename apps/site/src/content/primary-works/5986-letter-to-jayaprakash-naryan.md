@@ -1,7 +1,7 @@
 ---
 id: 5986-letter-to-jayaprakash-naryan
 title:
-  main: "[Letter to Jayaprakash Naryan]"
+  main: "Letter to Jayaprakash Naryan"
   subtitle: ""
 work_type: telegram
 authors: []

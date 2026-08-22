@@ -1,7 +1,7 @@
 ---
 id: 3994-authorisation-of-priority-important-on-trunk-calls-06-01-1967
 title:
-  main: "[Authorisation of Priority Important on Trunk calls]"
+  main: "Authorisation of Priority Important on Trunk calls"
   subtitle: ""
 work_type: circular
 work_type_source: summary

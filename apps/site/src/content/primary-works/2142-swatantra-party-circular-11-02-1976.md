@@ -1,7 +1,7 @@
 ---
 id: 2142-swatantra-party-circular-11-02-1976
 title:
-  main: "[Swatantra Party Circular]"
+  main: "Swatantra Party Circular"
   subtitle: ""
 work_type: circular
 authors: []

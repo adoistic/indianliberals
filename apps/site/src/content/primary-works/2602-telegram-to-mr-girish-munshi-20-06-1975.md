@@ -1,7 +1,7 @@
 ---
 id: 2602-telegram-to-mr-girish-munshi-20-06-1975
 title:
-  main: "[Telegram to Mr Girish Munshi]"
+  main: "Telegram to Mr Girish Munshi"
   subtitle: ""
 work_type: telegram
 authors: []

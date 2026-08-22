@@ -1,7 +1,7 @@
 ---
 id: 1676-letter-to-a-a-jasdenvala-20-10-1959
 title:
-  main: "[Letter to A A Jasdenvala]"
+  main: "Letter to A A Jasdenvala"
   subtitle: ""
 work_type: letter
 authors: []

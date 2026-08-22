@@ -1,7 +1,7 @@
 ---
 id: 3517-save-democracy-statesman-16-03-1971
 title:
-  main: "[Save Democracy-Statesman]"
+  main: "Save Democracy-Statesman"
   subtitle: ""
 work_type: letter
 authors: []

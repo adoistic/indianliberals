@@ -1,7 +1,7 @@
 ---
 id: 2700-letter-to-the-editor-the-times-of-india-21-07-1967
 title:
-  main: "[Letter to The Editor-The Times Of India]"
+  main: "Letter to The Editor-The Times Of India"
   subtitle: ""
 work_type: letter
 authors: []

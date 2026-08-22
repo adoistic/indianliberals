@@ -1,7 +1,7 @@
 ---
 id: 3583-swatantra-party-general-council-17-04-1971
 title:
-  main: "[Swatantra Party General Council]"
+  main: "Swatantra Party General Council"
   subtitle: ""
 work_type: essay
 work_type_source: classifier

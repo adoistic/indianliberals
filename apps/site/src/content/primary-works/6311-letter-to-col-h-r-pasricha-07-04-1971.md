@@ -1,7 +1,7 @@
 ---
 id: 6311-letter-to-col-h-r-pasricha-07-04-1971
 title:
-  main: "[Letter to Col H R Pasricha]"
+  main: "Letter to Col H R Pasricha"
   subtitle: ""
 work_type: letter
 authors:

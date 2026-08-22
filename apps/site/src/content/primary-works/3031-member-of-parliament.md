@@ -1,7 +1,7 @@
 ---
 id: 3031-member-of-parliament
 title:
-  main: "[Member of parliament]"
+  main: "Member of parliament"
   subtitle: ""
 work_type: letter
 authors:

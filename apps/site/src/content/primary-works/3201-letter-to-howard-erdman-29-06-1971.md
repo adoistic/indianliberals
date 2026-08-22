@@ -1,7 +1,7 @@
 ---
 id: 3201-letter-to-howard-erdman-29-06-1971
 title:
-  main: "[Letter to Howard Erdman]"
+  main: "Letter to Howard Erdman"
   subtitle: ""
 work_type: letter
 authors:

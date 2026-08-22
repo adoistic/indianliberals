@@ -1,7 +1,7 @@
 ---
 id: 3496-members-coopted-to-the-general-council
 title:
-  main: "[Members Coopted to the General Council]"
+  main: "Members Coopted to the General Council"
   subtitle: ""
 work_type: circular
 work_type_source: summary

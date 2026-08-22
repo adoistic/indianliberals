@@ -1,7 +1,7 @@
 ---
 id: 70-letter-to-mr-k-d-merchant-17-03-1971
 title:
-  main: "[Letter to Mr K D Merchant]"
+  main: "Letter to Mr K D Merchant"
   subtitle: ""
 work_type: letter
 authors:

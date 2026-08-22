@@ -1,7 +1,7 @@
 ---
 id: 3477-the-democratic-front-pladges-03-01-1971
 title:
-  main: "[The Democratic Front Pladges]"
+  main: "The Democratic Front Pladges"
   subtitle: ""
 work_type: programme
 work_type_source: summary

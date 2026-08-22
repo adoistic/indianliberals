@@ -1,7 +1,7 @@
 ---
 id: 1652-letter-to-hindustan-construction-co-ltd-15-10-1959
 title:
-  main: "[Letter to Hindustan Construction Co Ltd]"
+  main: "Letter to Hindustan Construction Co Ltd"
   subtitle: ""
 work_type: letter
 authors: []

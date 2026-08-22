@@ -1,7 +1,7 @@
 ---
 id: 2297-letter-to-swatantra-party-06-05-1975
 title:
-  main: "[Letter to Swatantra Party]"
+  main: "Letter to Swatantra Party"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 1313-letter-to-morarji-desai-10-11-1967
 title:
-  main: "[Letter to Morarji Desai]"
+  main: "Letter to Morarji Desai"
   subtitle: ""
 work_type: letter
 authors:

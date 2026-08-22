@@ -1,7 +1,7 @@
 ---
 id: 5476-general-secretarys-letter-no-221-12-02-1970
 title:
-  main: "[General Secretarys letter no-221]"
+  main: "General Secretarys letter no-221"
   subtitle: ""
 work_type: letter
 work_type_source: filename

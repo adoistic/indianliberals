@@ -1,7 +1,7 @@
 ---
 id: 43-letter-to-mr-u-m-trivedi-23-03-1971
 title:
-  main: "[Letter to Mr U M Trivedi]"
+  main: "Letter to Mr U M Trivedi"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 1858-letter-from-ms-sundaresan-23-11-1965
 title:
-  main: "[Letter from MS Sundaresan]"
+  main: "Letter from MS Sundaresan"
   subtitle: ""
 work_type: letter
 authors: []

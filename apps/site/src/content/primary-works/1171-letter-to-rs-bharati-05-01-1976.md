@@ -1,7 +1,7 @@
 ---
 id: 1171-letter-to-rs-bharati-05-01-1976
 title:
-  main: "[Letter to RS Bharati]"
+  main: "Letter to RS Bharati"
   subtitle: ""
 work_type: letter
 authors:

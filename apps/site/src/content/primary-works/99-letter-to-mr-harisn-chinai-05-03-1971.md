@@ -1,7 +1,7 @@
 ---
 id: 99-letter-to-mr-harisn-chinai-05-03-1971
 title:
-  main: "[Letter to Mr Harisn Chinai]"
+  main: "Letter to Mr Harisn Chinai"
   subtitle: ""
 work_type: letter
 authors:

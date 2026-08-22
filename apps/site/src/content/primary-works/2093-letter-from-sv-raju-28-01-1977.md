@@ -1,7 +1,7 @@
 ---
 id: 2093-letter-from-sv-raju-28-01-1977
 title:
-  main: "[Letter from SV Raju]"
+  main: "Letter from SV Raju"
   subtitle: ""
 work_type: letter
 authors:

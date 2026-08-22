@@ -1,7 +1,7 @@
 ---
 id: 47-letter-to-mr-avtar-singh-rikhy-22-03-1971
 title:
-  main: "[Letter to Mr Avtar Singh Rikhy]"
+  main: "Letter to Mr Avtar Singh Rikhy"
   subtitle: ""
 work_type: letter
 authors:

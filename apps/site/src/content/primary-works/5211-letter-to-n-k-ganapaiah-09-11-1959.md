@@ -1,7 +1,7 @@
 ---
 id: 5211-letter-to-n-k-ganapaiah-09-11-1959
 title:
-  main: "[Letter to N K Ganapaiah]"
+  main: "Letter to N K Ganapaiah"
   subtitle: ""
 work_type: letter
 authors:

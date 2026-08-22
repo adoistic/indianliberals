@@ -1,7 +1,7 @@
 ---
 id: 3288-letter-to-jagat-kishore-parsad-narain-singh-14-11-1961
 title:
-  main: "[Letter to Jagat Kishore Parsad Narain Singh]"
+  main: "Letter to Jagat Kishore Parsad Narain Singh"
   subtitle: ""
 work_type: letter
 authors:

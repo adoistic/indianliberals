@@ -1,7 +1,7 @@
 ---
 id: 2369-letter-to-regional-transport-officer-regarding-jeep-no-mra4092-mra4093-04-02-1977
 title:
-  main: "[Letter to Regional Transport Officer Regarding Jeep No-MRA4092 & MRA4093]"
+  main: "Letter to Regional Transport Officer Regarding Jeep No-MRA4092 & MRA4093"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 114-letter-to-mr-j-b-kripalani-03-03-1971
 title:
-  main: "[Letter to Mr J B Kripalani]"
+  main: "Letter to Mr J B Kripalani"
   subtitle: ""
 work_type: letter
 authors:

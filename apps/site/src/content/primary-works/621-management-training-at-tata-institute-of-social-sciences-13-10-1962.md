@@ -1,7 +1,7 @@
 ---
 id: 621-management-training-at-tata-institute-of-social-sciences-13-10-1962
 title:
-  main: "[Management Training at Tata Institute of Social Sciences]"
+  main: "Management Training at Tata Institute of Social Sciences"
   subtitle: ""
 work_type: office_record
 work_type_source: classifier

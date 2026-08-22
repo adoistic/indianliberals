@@ -1,7 +1,7 @@
 ---
 id: 3905-letter-from-p-b-meckoni-15-12-1967
 title:
-  main: "[Letter from P B Meckoni]"
+  main: "Letter from P B Meckoni"
   subtitle: ""
 work_type: letter
 authors: []

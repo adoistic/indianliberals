@@ -1,7 +1,7 @@
 ---
 id: 50-write-letters-to-bombay-and-rajkot
 title:
-  main: "[Write Letters to Bombay and Rajkot]"
+  main: "Write Letters to Bombay and Rajkot"
   subtitle: ""
 work_type: circular
 authors: []

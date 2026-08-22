@@ -1,7 +1,7 @@
 ---
 id: 436-swatantra-party-minutes-of-meeting-26-11-1968
 title:
-  main: "[Swatantra Party Minutes of Meeting]"
+  main: "Swatantra Party Minutes of Meeting"
   subtitle: ""
 work_type: press_note
 authors: []

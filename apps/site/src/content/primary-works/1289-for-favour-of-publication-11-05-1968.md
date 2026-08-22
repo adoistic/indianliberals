@@ -1,7 +1,7 @@
 ---
 id: 1289-for-favour-of-publication-11-05-1968
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: letter
 authors: []

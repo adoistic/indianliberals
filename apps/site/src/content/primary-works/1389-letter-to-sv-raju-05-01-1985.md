@@ -1,7 +1,7 @@
 ---
 id: 1389-letter-to-sv-raju-05-01-1985
 title:
-  main: "[Letter to SV Raju]"
+  main: "Letter to SV Raju"
   subtitle: ""
 work_type: letter
 authors:

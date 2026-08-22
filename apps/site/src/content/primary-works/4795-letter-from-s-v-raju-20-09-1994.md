@@ -1,7 +1,7 @@
 ---
 id: 4795-letter-from-s-v-raju-20-09-1994
 title:
-  main: "[Letter from S V Raju]"
+  main: "Letter from S V Raju"
   subtitle: ""
 work_type: letter
 authors:

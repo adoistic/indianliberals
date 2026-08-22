@@ -1,7 +1,7 @@
 ---
 id: 1788-letter-to-d-n-d-khandalavala-19-08-1959
 title:
-  main: "[Letter to D N D Khandalavala]"
+  main: "Letter to D N D Khandalavala"
   subtitle: ""
 work_type: letter
 authors: []

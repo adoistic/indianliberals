@@ -1,7 +1,7 @@
 ---
 id: 5236-letter-to-ms-dwivedi-20-10-1959
 title:
-  main: "[Letter to MS Dwivedi]"
+  main: "Letter to MS Dwivedi"
   subtitle: ""
 work_type: letter
 authors:

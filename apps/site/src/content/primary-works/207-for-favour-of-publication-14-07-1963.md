@@ -1,7 +1,7 @@
 ---
 id: 207-for-favour-of-publication-14-07-1963
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: press_note
 work_type_source: summary

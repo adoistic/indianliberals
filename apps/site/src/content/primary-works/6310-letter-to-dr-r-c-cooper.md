@@ -1,7 +1,7 @@
 ---
 id: 6310-letter-to-dr-r-c-cooper
 title:
-  main: "[Letter To Dr R C Cooper]"
+  main: "Letter To Dr R C Cooper"
   subtitle: ""
 work_type: letter
 authors: []

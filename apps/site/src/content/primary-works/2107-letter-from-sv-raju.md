@@ -1,7 +1,7 @@
 ---
 id: 2107-letter-from-sv-raju
 title:
-  main: "[Letter from SV Raju]"
+  main: "Letter from SV Raju"
   subtitle: ""
 work_type: letter
 authors:

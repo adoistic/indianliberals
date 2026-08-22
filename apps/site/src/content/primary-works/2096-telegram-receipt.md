@@ -1,7 +1,7 @@
 ---
 id: 2096-telegram-receipt
 title:
-  main: "[Telegram Receipt]"
+  main: "Telegram Receipt"
   subtitle: ""
 work_type: telegram
 authors: []

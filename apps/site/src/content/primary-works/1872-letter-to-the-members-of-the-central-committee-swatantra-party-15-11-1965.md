@@ -1,7 +1,7 @@
 ---
 id: 1872-letter-to-the-members-of-the-central-committee-swatantra-party-15-11-1965
 title:
-  main: "[Letter to The Members of the Central Committee Swatantra Party]"
+  main: "Letter to The Members of the Central Committee Swatantra Party"
   subtitle: ""
 work_type: letter
 authors:

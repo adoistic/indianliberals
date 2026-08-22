@@ -1,7 +1,7 @@
 ---
 id: 5311-letter-to-g-p-bhatnagar-18-09-1959
 title:
-  main: "[Letter to G P Bhatnagar]"
+  main: "Letter to G P Bhatnagar"
   subtitle: ""
 work_type: letter
 authors: []

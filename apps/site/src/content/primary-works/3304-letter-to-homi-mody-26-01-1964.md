@@ -1,7 +1,7 @@
 ---
 id: 3304-letter-to-homi-mody-26-01-1964
 title:
-  main: "[Letter to Homi Mody]"
+  main: "Letter to Homi Mody"
   subtitle: ""
 work_type: letter
 authors:

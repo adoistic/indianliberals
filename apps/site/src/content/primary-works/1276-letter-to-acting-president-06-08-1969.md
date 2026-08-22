@@ -1,7 +1,7 @@
 ---
 id: 1276-letter-to-acting-president-06-08-1969
 title:
-  main: "[Letter to Acting President]"
+  main: "Letter to Acting President"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 2780-letter-to-gayatri-devi-30-04-1962
 title:
-  main: "[Letter to Gayatri Devi]"
+  main: "Letter to Gayatri Devi"
   subtitle: ""
 work_type: letter
 authors:

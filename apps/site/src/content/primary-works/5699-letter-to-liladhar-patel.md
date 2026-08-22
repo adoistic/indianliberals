@@ -1,7 +1,7 @@
 ---
 id: 5699-letter-to-liladhar-patel
 title:
-  main: "[Letter to Liladhar Patel]"
+  main: "Letter to Liladhar Patel"
   subtitle: "Disciplinary proceedings against Mr. C.C. Desai."
 work_type: letter
 authors:

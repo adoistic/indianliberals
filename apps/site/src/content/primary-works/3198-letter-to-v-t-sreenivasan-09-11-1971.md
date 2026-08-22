@@ -1,7 +1,7 @@
 ---
 id: 3198-letter-to-v-t-sreenivasan-09-11-1971
 title:
-  main: "[Letter to V T Sreenivasan]"
+  main: "Letter to V T Sreenivasan"
   subtitle: ""
 work_type: letter
 authors:

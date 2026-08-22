@@ -1,7 +1,7 @@
 ---
 id: 2876-letter-to-n-g-ranga-15-11-1962
 title:
-  main: "[Letter to N G Ranga]"
+  main: "Letter to N G Ranga"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 808-letter-to-bhagwan-das-sharma-11-09-1974
 title:
-  main: "[Letter to Bhagwan Das Sharma]"
+  main: "Letter to Bhagwan Das Sharma"
   subtitle: ""
 work_type: letter
 authors:

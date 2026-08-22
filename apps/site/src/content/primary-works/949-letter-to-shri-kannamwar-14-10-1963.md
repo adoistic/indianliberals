@@ -1,7 +1,7 @@
 ---
 id: 949-letter-to-shri-kannamwar-14-10-1963
 title:
-  main: "[Letter to Shri Kannamwar]"
+  main: "Letter to Shri Kannamwar"
   subtitle: ""
 work_type: letter
 authors: []

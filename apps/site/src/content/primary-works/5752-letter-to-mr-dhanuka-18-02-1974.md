@@ -1,7 +1,7 @@
 ---
 id: 5752-letter-to-mr-dhanuka-18-02-1974
 title:
-  main: "[Letter to Mr Dhanuka]"
+  main: "Letter to Mr Dhanuka"
   subtitle: ""
 work_type: letter
 authors: []

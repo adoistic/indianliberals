@@ -1,7 +1,7 @@
 ---
 id: 4143-letter-to-j-venkiteswaran
 title:
-  main: "[Letter to J Venkiteswaran]"
+  main: "Letter to J Venkiteswaran"
   subtitle: ""
 work_type: letter
 authors: []

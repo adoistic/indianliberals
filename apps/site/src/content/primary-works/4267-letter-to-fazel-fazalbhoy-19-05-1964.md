@@ -1,7 +1,7 @@
 ---
 id: 4267-letter-to-fazel-fazalbhoy-19-05-1964
 title:
-  main: "[Letter to Fazel Fazalbhoy]"
+  main: "Letter to Fazel Fazalbhoy"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 5997-letter-to-jayaprakash-naryan-29-07-1973
 title:
-  main: "[Letter to Jayaprakash Naryan]"
+  main: "Letter to Jayaprakash Naryan"
   subtitle: ""
 work_type: letter
 authors: []

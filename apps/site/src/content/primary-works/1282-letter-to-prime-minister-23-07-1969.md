@@ -1,7 +1,7 @@
 ---
 id: 1282-letter-to-prime-minister-23-07-1969
 title:
-  main: "[Letter to Prime Minister]"
+  main: "Letter to Prime Minister"
   subtitle: ""
 work_type: letter
 authors:

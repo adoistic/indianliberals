@@ -1,7 +1,7 @@
 ---
 id: 2884-letter-from-mr-minoo-masani-17-08-1962
 title:
-  main: "[Letter from Mr Minoo Masani]"
+  main: "Letter from Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

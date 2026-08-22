@@ -1,7 +1,7 @@
 ---
 id: 5652-letter-from-bg-vergheese-19-10-1976
 title:
-  main: "[Letter from BG Vergheese]"
+  main: "Letter from BG Vergheese"
   subtitle: ""
 work_type: letter
 authors: []

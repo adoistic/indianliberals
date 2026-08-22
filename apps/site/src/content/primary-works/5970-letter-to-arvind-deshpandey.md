@@ -1,7 +1,7 @@
 ---
 id: 5970-letter-to-arvind-deshpandey
 title:
-  main: "[Letter to Arvind Deshpandey]"
+  main: "Letter to Arvind Deshpandey"
   subtitle: ""
 work_type: letter
 authors: []

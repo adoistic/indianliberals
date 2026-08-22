@@ -1,7 +1,7 @@
 ---
 id: 2974-letter-to-piloo-mody-15-09-1970
 title:
-  main: "[Letter to Piloo Mody]"
+  main: "Letter to Piloo Mody"
   subtitle: ""
 work_type: letter
 authors: []

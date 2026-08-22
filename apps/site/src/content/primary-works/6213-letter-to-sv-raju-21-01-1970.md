@@ -1,7 +1,7 @@
 ---
 id: 6213-letter-to-sv-raju-21-01-1970
 title:
-  main: "[Letter to SV Raju]"
+  main: "Letter to SV Raju"
   subtitle: ""
 work_type: letter
 authors: []

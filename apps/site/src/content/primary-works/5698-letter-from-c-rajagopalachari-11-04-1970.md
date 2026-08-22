@@ -1,7 +1,7 @@
 ---
 id: 5698-letter-from-c-rajagopalachari-11-04-1970
 title:
-  main: "[Letter from C Rajagopalachari]"
+  main: "Letter from C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors:

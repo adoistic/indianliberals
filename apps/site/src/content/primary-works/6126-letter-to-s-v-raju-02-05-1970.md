@@ -1,7 +1,7 @@
 ---
 id: 6126-letter-to-s-v-raju-02-05-1970
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors:

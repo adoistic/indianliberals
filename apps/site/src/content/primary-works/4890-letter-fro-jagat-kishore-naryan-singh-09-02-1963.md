@@ -1,7 +1,7 @@
 ---
 id: 4890-letter-fro-jagat-kishore-naryan-singh-09-02-1963
 title:
-  main: "[Letter fro Jagat kishore Naryan Singh]"
+  main: "Letter fro Jagat kishore Naryan Singh"
   subtitle: ""
 work_type: letter
 authors: []

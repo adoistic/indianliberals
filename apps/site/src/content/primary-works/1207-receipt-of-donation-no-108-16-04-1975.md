@@ -1,7 +1,7 @@
 ---
 id: 1207-receipt-of-donation-no-108-16-04-1975
 title:
-  main: "[Receipt of Donation No-108]"
+  main: "Receipt of Donation No-108"
   subtitle: ""
 work_type: letter
 authors: []

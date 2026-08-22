@@ -1,7 +1,7 @@
 ---
 id: 1743-letter-to-mr-raghavendra-pratap-singh-22-09-1959
 title:
-  main: "[Letter to Mr Raghavendra Pratap Singh]"
+  main: "Letter to Mr Raghavendra Pratap Singh"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 3123-letter-to-n-k-ganapiah-18-06-1985
 title:
-  main: "[Letter to N K Ganapiah]"
+  main: "Letter to N K Ganapiah"
   subtitle: ""
 work_type: letter
 authors:

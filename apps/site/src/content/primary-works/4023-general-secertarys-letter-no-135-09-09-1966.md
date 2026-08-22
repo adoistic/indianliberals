@@ -1,7 +1,7 @@
 ---
 id: 4023-general-secertarys-letter-no-135-09-09-1966
 title:
-  main: "[General Secertarys Letter no-135]"
+  main: "General Secertarys Letter no-135"
   subtitle: ""
 work_type: letter
 authors:

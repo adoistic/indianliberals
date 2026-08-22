@@ -1,7 +1,7 @@
 ---
 id: 6286-letter-to-mr-k-h-subramaniam-21-04-1971
 title:
-  main: "[Letter to Mr K H Subramaniam]"
+  main: "Letter to Mr K H Subramaniam"
   subtitle: ""
 work_type: letter
 authors:

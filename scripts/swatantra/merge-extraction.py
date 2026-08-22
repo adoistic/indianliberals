@@ -124,16 +124,21 @@ def supplied_title(name):
 
     D15 makes extraction return title.main: null for the office records that
     carry no printed title — correct, and the site schema still requires a
-    string. Square brackets are the standard archival marker for a title
-    supplied by the cataloguer rather than taken from the item, so the display
-    stays honest: `[Letter to Mr Suresh Singh]` reads as "we named this", and
-    `title_not_printed` remains in missing_metadata_flags.
+    string.
+
+    These titles were wrapped in square brackets, the archival marker for a
+    title supplied by the cataloguer rather than read off the item. At this
+    corpus's scale that is 3,783 of 7,935 works, and a listing page of mostly
+    bracketed titles reads as damaged rather than as scrupulous. The brackets
+    are gone; `title_not_printed` still sits in missing_metadata_flags, so the
+    distinction is kept in the data where it can be queried, rather than
+    imposed on every reader of every page.
     """
     stem = re.sub(r"\.pdf$", "", name, flags=re.I)
     stem = re.sub(r"^\d+[A-Za-z]?-", "", stem)
     stem = re.sub(r"_(\d{2})-(\d{2})-(\d{4})$", "", stem)
     stem = stem.replace("_", " ").strip()
-    return f"[{stem}]" if stem else "[Untitled document]"
+    return stem if stem else "Untitled document"
 
 
 def build_entry(name, inv_row, meta, summ, disagree, known_thinkers, vocab):

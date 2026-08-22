@@ -1,7 +1,7 @@
 ---
 id: 1991-letter-to-ap-jain-17-06-1964
 title:
-  main: "[Letter to AP Jain]"
+  main: "Letter to AP Jain"
   subtitle: ""
 work_type: letter
 authors:

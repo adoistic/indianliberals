@@ -1,7 +1,7 @@
 ---
 id: 4813-bombay-high-court-petition-no-14-1995
 title:
-  main: "[Bombay High Court petition no-14 1995]"
+  main: "Bombay High Court petition no-14 1995"
   subtitle: ""
 work_type: letter
 authors: []

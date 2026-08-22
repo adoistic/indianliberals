@@ -1,7 +1,7 @@
 ---
 id: 2656-letter-to-mr-n-dandekar-25-04-1968
 title:
-  main: "[Letter to Mr N Dandekar]"
+  main: "Letter to Mr N Dandekar"
   subtitle: ""
 work_type: letter
 authors: []

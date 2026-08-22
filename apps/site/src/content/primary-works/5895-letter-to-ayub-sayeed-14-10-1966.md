@@ -1,7 +1,7 @@
 ---
 id: 5895-letter-to-ayub-sayeed-14-10-1966
 title:
-  main: "[Letter to Ayub Sayeed]"
+  main: "Letter to Ayub Sayeed"
   subtitle: ""
 work_type: letter
 authors:

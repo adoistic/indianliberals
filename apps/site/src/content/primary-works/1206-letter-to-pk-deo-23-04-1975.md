@@ -1,7 +1,7 @@
 ---
 id: 1206-letter-to-pk-deo-23-04-1975
 title:
-  main: "[Letter to PK Deo]"
+  main: "Letter to PK Deo"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 5052-letter-to-prabhakar-s-koopiker-28-05-1968
 title:
-  main: "[Letter to Prabhakar S koopiker]"
+  main: "Letter to Prabhakar S koopiker"
   subtitle: ""
 work_type: letter
 authors: []

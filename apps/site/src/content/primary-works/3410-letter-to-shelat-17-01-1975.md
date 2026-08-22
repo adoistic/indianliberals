@@ -1,7 +1,7 @@
 ---
 id: 3410-letter-to-shelat-17-01-1975
 title:
-  main: "[Letter to Shelat]"
+  main: "Letter to Shelat"
   subtitle: ""
 work_type: letter
 authors: []

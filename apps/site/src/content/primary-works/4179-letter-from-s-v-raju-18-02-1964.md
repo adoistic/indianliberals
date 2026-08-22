@@ -1,7 +1,7 @@
 ---
 id: 4179-letter-from-s-v-raju-18-02-1964
 title:
-  main: "[Letter from S V Raju]"
+  main: "Letter from S V Raju"
   subtitle: ""
 work_type: correspondence
 authors:

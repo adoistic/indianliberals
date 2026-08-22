@@ -1,7 +1,7 @@
 ---
 id: 2044-letter-to-ap-jain-07-08-1963
 title:
-  main: "[Letter to AP Jain]"
+  main: "Letter to AP Jain"
   subtitle: ""
 work_type: letter
 authors:

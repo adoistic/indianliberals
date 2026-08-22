@@ -1,7 +1,7 @@
 ---
 id: 5340-letter-to-b-r-trikha-14-09-1959
 title:
-  main: "[Letter to B R Trikha]"
+  main: "Letter to B R Trikha"
   subtitle: ""
 work_type: letter
 authors: []

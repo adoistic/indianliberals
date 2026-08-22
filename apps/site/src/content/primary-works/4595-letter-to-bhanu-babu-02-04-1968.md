@@ -1,7 +1,7 @@
 ---
 id: 4595-letter-to-bhanu-babu-02-04-1968
 title:
-  main: "[Letter to Bhanu Babu]"
+  main: "Letter to Bhanu Babu"
   subtitle: ""
 work_type: letter
 authors: []

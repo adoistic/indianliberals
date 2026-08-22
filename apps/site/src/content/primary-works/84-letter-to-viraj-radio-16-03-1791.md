@@ -1,7 +1,7 @@
 ---
 id: 84-letter-to-viraj-radio-16-03-1791
 title:
-  main: "[Letter to Viraj Radio]"
+  main: "Letter to Viraj Radio"
   subtitle: ""
 work_type: letter
 authors:

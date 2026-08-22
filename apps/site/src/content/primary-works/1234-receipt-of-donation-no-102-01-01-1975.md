@@ -1,7 +1,7 @@
 ---
 id: 1234-receipt-of-donation-no-102-01-01-1975
 title:
-  main: "[Receipt of Donation No-102]"
+  main: "Receipt of Donation No-102"
   subtitle: ""
 work_type: letter
 authors: []

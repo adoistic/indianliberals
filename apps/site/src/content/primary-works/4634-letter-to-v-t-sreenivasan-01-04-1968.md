@@ -1,7 +1,7 @@
 ---
 id: 4634-letter-to-v-t-sreenivasan-01-04-1968
 title:
-  main: "[Letter to V T Sreenivasan]"
+  main: "Letter to V T Sreenivasan"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 5167-letter-to-g-n-manjanasthya-30-11-1959
 title:
-  main: "[Letter to G N Manjanasthya]"
+  main: "Letter to G N Manjanasthya"
   subtitle: ""
 work_type: letter
 authors:

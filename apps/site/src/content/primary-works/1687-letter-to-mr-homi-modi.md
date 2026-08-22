@@ -1,7 +1,7 @@
 ---
 id: 1687-letter-to-mr-homi-modi
 title:
-  main: "[Letter to Mr Homi Modi]"
+  main: "Letter to Mr Homi Modi"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 2399-letter-to-mr-minoo-masani-06-04-1987
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

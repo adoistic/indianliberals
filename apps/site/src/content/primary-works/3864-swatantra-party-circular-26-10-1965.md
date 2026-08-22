@@ -1,7 +1,7 @@
 ---
 id: 3864-swatantra-party-circular-26-10-1965
 title:
-  main: "[Swatantra party Circular]"
+  main: "Swatantra party Circular"
   subtitle: ""
 work_type: circular
 authors: []

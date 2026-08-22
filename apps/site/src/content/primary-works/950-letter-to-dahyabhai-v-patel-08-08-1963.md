@@ -1,7 +1,7 @@
 ---
 id: 950-letter-to-dahyabhai-v-patel-08-08-1963
 title:
-  main: "[Letter to Dahyabhai V Patel]"
+  main: "Letter to Dahyabhai V Patel"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 1833-letter-to-tm-mathew-15-06-1959
 title:
-  main: "[Letter to TM Mathew]"
+  main: "Letter to TM Mathew"
   subtitle: ""
 work_type: correspondence
 authors: []

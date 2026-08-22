@@ -1,7 +1,7 @@
 ---
 id: 5735-letter-to-mr-c-c-desai-31-03-1970
 title:
-  main: "[Letter to Mr C C Desai]"
+  main: "Letter to Mr C C Desai"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 3004-letter-to-ap-jain-15-10-1969
 title:
-  main: "[Letter to AP Jain]"
+  main: "Letter to AP Jain"
   subtitle: ""
 work_type: letter
 authors:

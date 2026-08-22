@@ -1,7 +1,7 @@
 ---
 id: 29-letter-to-mr-shantilal-k-devmurari-23-03-1971
 title:
-  main: "[Letter to Mr Shantilal K Devmurari]"
+  main: "Letter to Mr Shantilal K Devmurari"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 25-letter-to-ms-kusum-kumari-joshi-24-03-1971
 title:
-  main: "[Letter to Ms Kusum Kumari Joshi]"
+  main: "Letter to Ms Kusum Kumari Joshi"
   subtitle: ""
 work_type: letter
 authors:

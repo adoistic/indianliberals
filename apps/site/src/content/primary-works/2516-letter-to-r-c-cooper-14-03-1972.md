@@ -1,7 +1,7 @@
 ---
 id: 2516-letter-to-r-c-cooper-14-03-1972
 title:
-  main: "[Letter to R C Cooper]"
+  main: "Letter to R C Cooper"
   subtitle: ""
 work_type: letter
 authors: []

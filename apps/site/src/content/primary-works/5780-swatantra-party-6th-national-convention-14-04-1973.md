@@ -1,7 +1,7 @@
 ---
 id: 5780-swatantra-party-6th-national-convention-14-04-1973
 title:
-  main: "[Swatantra Party 6th National Convention]"
+  main: "Swatantra Party 6th National Convention"
   subtitle: ""
 work_type: roster
 work_type_source: classifier

@@ -1,7 +1,7 @@
 ---
 id: 42-letter-to-mr-suresh-pratap-singh-23-03-1971
 title:
-  main: "[Letter to Mr Suresh Pratap Singh]"
+  main: "Letter to Mr Suresh Pratap Singh"
   subtitle: ""
 work_type: letter
 authors:

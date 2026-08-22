@@ -1,7 +1,7 @@
 ---
 id: 871-letter-about-national-convention-16-07-1974
 title:
-  main: "[Letter About national Convention]"
+  main: "Letter About national Convention"
   subtitle: ""
 work_type: letter
 authors: []

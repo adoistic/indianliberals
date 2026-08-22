@@ -1,7 +1,7 @@
 ---
 id: 3334-letter-to-basant-narain-singh-09-07-1962
 title:
-  main: "[Letter to Basant Narain Singh]"
+  main: "Letter to Basant Narain Singh"
   subtitle: ""
 work_type: letter
 authors:

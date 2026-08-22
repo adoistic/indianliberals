@@ -1,7 +1,7 @@
 ---
 id: 648-the-first-tata-personnel-labour-officers-conference-09-02-1953
 title:
-  main: "[The First Tata Personnel & Labour Officers Conference]"
+  main: "The First Tata Personnel & Labour Officers Conference"
   subtitle: ""
 work_type: pamphlet
 work_type_source: summary

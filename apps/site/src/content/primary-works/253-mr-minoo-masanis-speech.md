@@ -1,7 +1,7 @@
 ---
 id: 253-mr-minoo-masanis-speech
 title:
-  main: "[Mr Minoo Masanis Speech]"
+  main: "Mr Minoo Masanis Speech"
   subtitle: ""
 work_type: essay
 authors:

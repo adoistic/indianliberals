@@ -1,7 +1,7 @@
 ---
 id: 5220-letter-to-ishwar-das-khera-05-11-1959
 title:
-  main: "[Letter to Ishwar Das Khera]"
+  main: "Letter to Ishwar Das Khera"
   subtitle: ""
 work_type: letter
 authors:

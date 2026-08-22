@@ -1,7 +1,7 @@
 ---
 id: 1693-letter-to-mr-kalayan-singh-06-10-1959
 title:
-  main: "[Letter to Mr Kalayan Singh]"
+  main: "Letter to Mr Kalayan Singh"
   subtitle: ""
 work_type: letter
 authors:

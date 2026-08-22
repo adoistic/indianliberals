@@ -1,7 +1,7 @@
 ---
 id: 3238-letter-from-v-s-srikumar-26-04-1975
 title:
-  main: "[Letter from V S Srikumar]"
+  main: "Letter from V S Srikumar"
   subtitle: ""
 work_type: letter
 authors: []

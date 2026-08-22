@@ -1,7 +1,7 @@
 ---
 id: 2621-letter-to-mr-m-r-arya-20-05-1975
 title:
-  main: "[Letter to Mr M R Arya]"
+  main: "Letter to Mr M R Arya"
   subtitle: ""
 work_type: letter
 authors:

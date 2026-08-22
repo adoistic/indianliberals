@@ -1,7 +1,7 @@
 ---
 id: 93-letter-to-fali-wadia-15-03-1971
 title:
-  main: "[Letter To Fali Wadia]"
+  main: "Letter To Fali Wadia"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 5743-letter-from-mr-girish-munshi-06-02-1979
 title:
-  main: "[Letter From Mr Girish Munshi]"
+  main: "Letter From Mr Girish Munshi"
   subtitle: ""
 work_type: letter
 work_type_source: filename

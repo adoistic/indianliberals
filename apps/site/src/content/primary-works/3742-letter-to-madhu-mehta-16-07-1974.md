@@ -1,7 +1,7 @@
 ---
 id: 3742-letter-to-madhu-mehta-16-07-1974
 title:
-  main: "[Letter to Madhu Mehta]"
+  main: "Letter to Madhu Mehta"
   subtitle: ""
 work_type: letter
 authors: []

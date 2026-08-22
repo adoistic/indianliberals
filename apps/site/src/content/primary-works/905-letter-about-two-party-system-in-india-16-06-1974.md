@@ -1,7 +1,7 @@
 ---
 id: 905-letter-about-two-party-system-in-india-16-06-1974
 title:
-  main: "[Letter About Two Party System in India]"
+  main: "Letter About Two Party System in India"
   subtitle: ""
 work_type: letter
 authors:

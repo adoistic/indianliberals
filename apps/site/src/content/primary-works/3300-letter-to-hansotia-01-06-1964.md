@@ -1,7 +1,7 @@
 ---
 id: 3300-letter-to-hansotia-01-06-1964
 title:
-  main: "[Letter to Hansotia]"
+  main: "Letter to Hansotia"
   subtitle: ""
 work_type: letter
 authors:

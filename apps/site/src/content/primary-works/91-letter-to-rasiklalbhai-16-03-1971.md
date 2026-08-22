@@ -1,7 +1,7 @@
 ---
 id: 91-letter-to-rasiklalbhai-16-03-1971
 title:
-  main: "[Letter to Rasiklalbhai]"
+  main: "Letter to Rasiklalbhai"
   subtitle: ""
 work_type: letter
 authors:

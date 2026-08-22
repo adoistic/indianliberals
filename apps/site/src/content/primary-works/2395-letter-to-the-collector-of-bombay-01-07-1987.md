@@ -1,7 +1,7 @@
 ---
 id: 2395-letter-to-the-collector-of-bombay-01-07-1987
 title:
-  main: "[Letter to The Collector Of Bombay]"
+  main: "Letter to The Collector Of Bombay"
   subtitle: ""
 work_type: letter
 authors:

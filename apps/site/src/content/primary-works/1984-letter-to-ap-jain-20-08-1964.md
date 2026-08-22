@@ -1,7 +1,7 @@
 ---
 id: 1984-letter-to-ap-jain-20-08-1964
 title:
-  main: "[Letter to AP Jain]"
+  main: "Letter to AP Jain"
   subtitle: ""
 work_type: telegram
 authors: []

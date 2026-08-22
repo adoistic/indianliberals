@@ -1,7 +1,7 @@
 ---
 id: 1879-swatantra-party-circular-03-09-1965
 title:
-  main: "[Swatantra Party Circular]"
+  main: "Swatantra Party Circular"
   subtitle: ""
 work_type: circular
 work_type_source: filename

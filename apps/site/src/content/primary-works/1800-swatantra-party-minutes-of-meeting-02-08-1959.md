@@ -1,7 +1,7 @@
 ---
 id: 1800-swatantra-party-minutes-of-meeting-02-08-1959
 title:
-  main: "[Swatantra Party Minutes of Meeting]"
+  main: "Swatantra Party Minutes of Meeting"
   subtitle: ""
 work_type: minutes
 work_type_source: filename

@@ -1,7 +1,7 @@
 ---
 id: 5299-letter-to-s-v-pattabhy-26-09-1959
 title:
-  main: "[Letter to S V pattabhy]"
+  main: "Letter to S V pattabhy"
   subtitle: ""
 work_type: letter
 authors: []

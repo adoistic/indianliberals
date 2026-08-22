@@ -1,7 +1,7 @@
 ---
 id: 1842-swatantra-party-mysore-constituency
 title:
-  main: "[Swatantra Party Mysore Constituency]"
+  main: "Swatantra Party Mysore Constituency"
   subtitle: ""
 work_type: roster
 work_type_source: classifier

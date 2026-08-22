@@ -1,7 +1,7 @@
 ---
 id: 783-letter-to-gk-sundaram-04-12-1974
 title:
-  main: "[Letter to GK Sundaram]"
+  main: "Letter to GK Sundaram"
   subtitle: ""
 work_type: correspondence
 authors:

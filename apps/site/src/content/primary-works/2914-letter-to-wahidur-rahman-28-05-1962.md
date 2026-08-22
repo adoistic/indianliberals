@@ -1,7 +1,7 @@
 ---
 id: 2914-letter-to-wahidur-rahman-28-05-1962
 title:
-  main: "[Letter to Wahidur Rahman]"
+  main: "Letter to Wahidur Rahman"
   subtitle: ""
 work_type: letter
 authors:

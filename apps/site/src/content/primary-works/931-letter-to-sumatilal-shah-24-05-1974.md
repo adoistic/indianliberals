@@ -1,7 +1,7 @@
 ---
 id: 931-letter-to-sumatilal-shah-24-05-1974
 title:
-  main: "[Letter to Sumatilal Shah]"
+  main: "Letter to Sumatilal Shah"
   subtitle: ""
 work_type: letter
 authors:

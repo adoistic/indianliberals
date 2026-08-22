@@ -1,7 +1,7 @@
 ---
 id: 5210-letter-to-raja-bahadur-kamkhya-narain-singh-09-11-1959
 title:
-  main: "[Letter to Raja Bahadur Kamkhya Narain Singh]"
+  main: "Letter to Raja Bahadur Kamkhya Narain Singh"
   subtitle: ""
 work_type: letter
 authors:

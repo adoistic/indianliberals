@@ -1,7 +1,7 @@
 ---
 id: 2804-letter-from-m-s-aney-29-03-1962
 title:
-  main: "[Letter from M S Aney]"
+  main: "Letter from M S Aney"
   subtitle: ""
 work_type: letter
 authors: []

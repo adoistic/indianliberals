@@ -1,7 +1,7 @@
 ---
 id: 223-annexure-b
 title:
-  main: "[Annexure-B]"
+  main: "Annexure-B"
   subtitle: ""
 work_type: resolution
 work_type_source: classifier

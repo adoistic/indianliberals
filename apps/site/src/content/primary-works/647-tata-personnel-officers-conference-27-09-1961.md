@@ -1,7 +1,7 @@
 ---
 id: 647-tata-personnel-officers-conference-27-09-1961
 title:
-  main: "[Tata Personnel Officers Conference]"
+  main: "Tata Personnel Officers Conference"
   subtitle: ""
 work_type: speech
 work_type_source: classifier

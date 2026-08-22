@@ -1,7 +1,7 @@
 ---
 id: 3179-letter-to-harihar-patel-22-06-1973
 title:
-  main: "[Letter to Harihar patel]"
+  main: "Letter to Harihar patel"
   subtitle: ""
 work_type: letter
 authors:

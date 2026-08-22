@@ -1,7 +1,7 @@
 ---
 id: 4446-letter-to-j-r-d-tata-14-06-1961
 title:
-  main: "[Letter to J R D Tata]"
+  main: "Letter to J R D Tata"
   subtitle: ""
 work_type: letter
 authors: []

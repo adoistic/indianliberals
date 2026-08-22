@@ -1,7 +1,7 @@
 ---
 id: 3169-letter-to-v-t-sreenivasan-29-11-1973
 title:
-  main: "[Letter to V T Sreenivasan]"
+  main: "Letter to V T Sreenivasan"
   subtitle: ""
 work_type: letter
 authors:

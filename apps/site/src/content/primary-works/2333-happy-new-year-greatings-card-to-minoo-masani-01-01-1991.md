@@ -1,7 +1,7 @@
 ---
 id: 2333-happy-new-year-greatings-card-to-minoo-masani-01-01-1991
 title:
-  main: "[Happy New Year Greatings Card to Minoo Masani]"
+  main: "Happy New Year Greatings Card to Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

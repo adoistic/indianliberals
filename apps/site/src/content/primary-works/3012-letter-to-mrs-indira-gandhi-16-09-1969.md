@@ -1,7 +1,7 @@
 ---
 id: 3012-letter-to-mrs-indira-gandhi-16-09-1969
 title:
-  main: "[Letter to Mrs indira Gandhi]"
+  main: "Letter to Mrs indira Gandhi"
   subtitle: ""
 work_type: letter
 authors:

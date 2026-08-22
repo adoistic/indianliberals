@@ -1,7 +1,7 @@
 ---
 id: 5323-letter-to-t-p-daver-17-09-1959
 title:
-  main: "[Letter to T P Daver]"
+  main: "Letter to T P Daver"
   subtitle: ""
 work_type: letter
 authors: []

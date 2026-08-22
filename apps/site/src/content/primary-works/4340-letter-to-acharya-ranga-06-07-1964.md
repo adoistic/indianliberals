@@ -1,7 +1,7 @@
 ---
 id: 4340-letter-to-acharya-ranga-06-07-1964
 title:
-  main: "[Letter to Acharya Ranga]"
+  main: "Letter to Acharya Ranga"
   subtitle: ""
 work_type: letter
 authors:

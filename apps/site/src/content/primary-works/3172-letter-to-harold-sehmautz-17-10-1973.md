@@ -1,7 +1,7 @@
 ---
 id: 3172-letter-to-harold-sehmautz-17-10-1973
 title:
-  main: "[Letter to Harold Sehmautz]"
+  main: "Letter to Harold Sehmautz"
   subtitle: ""
 work_type: letter
 authors:

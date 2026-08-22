@@ -1,7 +1,7 @@
 ---
 id: 2527-meeting-of-organising-committee-18-08-1960
 title:
-  main: "[Meeting of Organising Committee]"
+  main: "Meeting of Organising Committee"
   subtitle: ""
 work_type: office_record
 work_type_source: summary

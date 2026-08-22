@@ -1,7 +1,7 @@
 ---
 id: 6202-letter-to-b-bhatnagar-06-02-1970
 title:
-  main: "[Letter to B Bhatnagar]"
+  main: "Letter to B Bhatnagar"
   subtitle: ""
 work_type: letter
 authors:

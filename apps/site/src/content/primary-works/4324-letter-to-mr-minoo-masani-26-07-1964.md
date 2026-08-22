@@ -1,7 +1,7 @@
 ---
 id: 4324-letter-to-mr-minoo-masani-26-07-1964
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

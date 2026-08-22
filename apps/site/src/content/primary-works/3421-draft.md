@@ -1,7 +1,7 @@
 ---
 id: 3421-draft
 title:
-  main: "[Draft]"
+  main: "Draft"
   subtitle: ""
 work_type: essay
 work_type_source: classifier

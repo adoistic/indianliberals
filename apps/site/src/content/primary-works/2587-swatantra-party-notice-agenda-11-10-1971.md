@@ -1,7 +1,7 @@
 ---
 id: 2587-swatantra-party-notice-agenda-11-10-1971
 title:
-  main: "[Swatantra Party Notice & Agenda]"
+  main: "Swatantra Party Notice & Agenda"
   subtitle: ""
 work_type: notice
 work_type_source: summary

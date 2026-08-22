@@ -1,7 +1,7 @@
 ---
 id: 1220-receipt-of-donation-no-106-07-02-1975
 title:
-  main: "[Receipt of Donation No-106]"
+  main: "Receipt of Donation No-106"
   subtitle: ""
 work_type: letter
 authors: []

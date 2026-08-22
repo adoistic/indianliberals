@@ -1,7 +1,7 @@
 ---
 id: 4043-letter-to-mr-minoo-masani-06-07-1966
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

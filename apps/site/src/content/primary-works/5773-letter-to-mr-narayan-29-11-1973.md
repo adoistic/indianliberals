@@ -1,7 +1,7 @@
 ---
 id: 5773-letter-to-mr-narayan-29-11-1973
 title:
-  main: "[Letter to Mr Narayan]"
+  main: "Letter to Mr Narayan"
   subtitle: ""
 work_type: letter
 authors: []

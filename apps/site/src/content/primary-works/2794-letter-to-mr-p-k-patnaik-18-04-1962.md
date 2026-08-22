@@ -1,7 +1,7 @@
 ---
 id: 2794-letter-to-mr-p-k-patnaik-18-04-1962
 title:
-  main: "[Letter to Mr P K Patnaik]"
+  main: "Letter to Mr P K Patnaik"
   subtitle: ""
 work_type: letter
 authors:

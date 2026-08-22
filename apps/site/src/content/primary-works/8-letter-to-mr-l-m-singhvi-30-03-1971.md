@@ -1,7 +1,7 @@
 ---
 id: 8-letter-to-mr-l-m-singhvi-30-03-1971
 title:
-  main: "[Letter to Mr L M Singhvi]"
+  main: "Letter to Mr L M Singhvi"
   subtitle: ""
 work_type: letter
 authors:

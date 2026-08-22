@@ -1,7 +1,7 @@
 ---
 id: 5818-parliamentary-notice-office-15-03-1992
 title:
-  main: "[Parliamentary Notice Office]"
+  main: "Parliamentary Notice Office"
   subtitle: ""
 work_type: letter
 authors: []

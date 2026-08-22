@@ -1,7 +1,7 @@
 ---
 id: 1758-letter-to-mr-c-v-ramanatha-30-05-1959
 title:
-  main: "[Letter to Mr C V Ramanatha]"
+  main: "Letter to Mr C V Ramanatha"
   subtitle: ""
 work_type: letter
 authors: []

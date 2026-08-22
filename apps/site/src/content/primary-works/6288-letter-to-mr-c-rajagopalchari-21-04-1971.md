@@ -1,7 +1,7 @@
 ---
 id: 6288-letter-to-mr-c-rajagopalchari-21-04-1971
 title:
-  main: "[Letter to Mr C Rajagopalchari]"
+  main: "Letter to Mr C Rajagopalchari"
   subtitle: ""
 work_type: letter
 authors:

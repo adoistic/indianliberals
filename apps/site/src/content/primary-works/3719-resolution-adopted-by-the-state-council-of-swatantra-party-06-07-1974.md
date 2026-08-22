@@ -1,7 +1,7 @@
 ---
 id: 3719-resolution-adopted-by-the-state-council-of-swatantra-party-06-07-1974
 title:
-  main: "[Resolution Adopted by the State Council of Swatantra Party]"
+  main: "Resolution Adopted by the State Council of Swatantra Party"
   subtitle: ""
 work_type: resolution
 work_type_source: filename

@@ -1,7 +1,7 @@
 ---
 id: 5029-a-meetings-of-executive-committee-22-04-1964
 title:
-  main: "[A Meetings of Executive Committee]"
+  main: "A Meetings of Executive Committee"
   subtitle: ""
 work_type: minutes
 work_type_source: classifier

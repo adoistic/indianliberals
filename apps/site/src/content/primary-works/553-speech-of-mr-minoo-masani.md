@@ -1,7 +1,7 @@
 ---
 id: 553-speech-of-mr-minoo-masani
 title:
-  main: "[Speech of Mr Minoo Masani]"
+  main: "Speech of Mr Minoo Masani"
   subtitle: ""
 work_type: essay
 authors: []

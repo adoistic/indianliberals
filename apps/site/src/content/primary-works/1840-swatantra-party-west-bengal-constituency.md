@@ -1,7 +1,7 @@
 ---
 id: 1840-swatantra-party-west-bengal-constituency
 title:
-  main: "[Swatantra Party West Bengal Constituency]"
+  main: "Swatantra Party West Bengal Constituency"
   subtitle: ""
 work_type: roster
 work_type_source: classifier

@@ -1,7 +1,7 @@
 ---
 id: 2284-letter-to-mr-g-k-munshi-06-05-1975
 title:
-  main: "[Letter to Mr G K Munshi]"
+  main: "Letter to Mr G K Munshi"
   subtitle: ""
 work_type: letter
 authors: []

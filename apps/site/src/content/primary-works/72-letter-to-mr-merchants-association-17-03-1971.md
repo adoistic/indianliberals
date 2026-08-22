@@ -1,7 +1,7 @@
 ---
 id: 72-letter-to-mr-merchants-association-17-03-1971
 title:
-  main: "[Letter to Mr Merchants Association]"
+  main: "Letter to Mr Merchants Association"
   subtitle: ""
 work_type: letter
 authors:

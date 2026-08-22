@@ -1,7 +1,7 @@
 ---
 id: 3568-letter-to-mr-g-t-kamdar-10-08-1963
 title:
-  main: "[Letter to MR G T Kamdar]"
+  main: "Letter to MR G T Kamdar"
   subtitle: ""
 work_type: letter
 authors:

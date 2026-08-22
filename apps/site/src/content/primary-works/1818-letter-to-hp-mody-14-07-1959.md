@@ -1,7 +1,7 @@
 ---
 id: 1818-letter-to-hp-mody-14-07-1959
 title:
-  main: "[Letter to HP Mody]"
+  main: "Letter to HP Mody"
   subtitle: ""
 work_type: letter
 authors: []

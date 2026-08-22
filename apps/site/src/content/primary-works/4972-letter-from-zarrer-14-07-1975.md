@@ -1,7 +1,7 @@
 ---
 id: 4972-letter-from-zarrer-14-07-1975
 title:
-  main: "[Letter from Zarrer]"
+  main: "Letter from Zarrer"
   subtitle: ""
 work_type: letter
 authors: []

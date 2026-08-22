@@ -1,7 +1,7 @@
 ---
 id: 6280-letter-to-mr-b-satyanarayana-20-07-1971
 title:
-  main: "[Letter to Mr B Satyanarayana]"
+  main: "Letter to Mr B Satyanarayana"
   subtitle: ""
 work_type: letter
 authors:

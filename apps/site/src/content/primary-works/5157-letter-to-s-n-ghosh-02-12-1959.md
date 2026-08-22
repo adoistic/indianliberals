@@ -1,7 +1,7 @@
 ---
 id: 5157-letter-to-s-n-ghosh-02-12-1959
 title:
-  main: "[Letter to S N Ghosh]"
+  main: "Letter to S N Ghosh"
   subtitle: ""
 work_type: letter
 authors:

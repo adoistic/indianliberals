@@ -1,7 +1,7 @@
 ---
 id: 3193-letter-to-s-v-raju-30-04-1971
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors:

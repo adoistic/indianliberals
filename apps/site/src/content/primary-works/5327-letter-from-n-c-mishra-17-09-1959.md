@@ -1,7 +1,7 @@
 ---
 id: 5327-letter-from-n-c-mishra-17-09-1959
 title:
-  main: "[Letter from N C Mishra]"
+  main: "Letter from N C Mishra"
   subtitle: ""
 work_type: letter
 authors: []

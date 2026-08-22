@@ -1,7 +1,7 @@
 ---
 id: 1657-letter-to-ram-rai-munshi-16-11-1959
 title:
-  main: "[Letter to Ram Rai Munshi]"
+  main: "Letter to Ram Rai Munshi"
   subtitle: ""
 work_type: letter
 authors: []

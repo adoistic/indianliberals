@@ -1,7 +1,7 @@
 ---
 id: 2543-letter-from-victor-paran-08-10-1959
 title:
-  main: "[Letter from Victor Paran]"
+  main: "Letter from Victor Paran"
   subtitle: ""
 work_type: letter
 authors: []

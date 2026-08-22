@@ -1,7 +1,7 @@
 ---
 id: 5993-letter-from-nisula-eskiel-24-08-1973
 title:
-  main: "[Letter from Nisula Eskiel]"
+  main: "Letter from Nisula Eskiel"
   subtitle: ""
 work_type: letter
 authors:

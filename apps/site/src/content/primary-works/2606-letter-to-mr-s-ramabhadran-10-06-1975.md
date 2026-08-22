@@ -1,7 +1,7 @@
 ---
 id: 2606-letter-to-mr-s-ramabhadran-10-06-1975
 title:
-  main: "[Letter to Mr S Ramabhadran]"
+  main: "Letter to Mr S Ramabhadran"
   subtitle: ""
 work_type: letter
 authors: []

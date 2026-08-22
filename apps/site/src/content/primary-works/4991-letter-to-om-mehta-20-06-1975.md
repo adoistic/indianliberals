@@ -1,7 +1,7 @@
 ---
 id: 4991-letter-to-om-mehta-20-06-1975
 title:
-  main: "[Letter to Om Mehta]"
+  main: "Letter to Om Mehta"
   subtitle: ""
 work_type: letter
 authors:

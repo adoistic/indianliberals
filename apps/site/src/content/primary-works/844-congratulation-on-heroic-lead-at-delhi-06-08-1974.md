@@ -1,7 +1,7 @@
 ---
 id: 844-congratulation-on-heroic-lead-at-delhi-06-08-1974
 title:
-  main: "[Congratulation on Heroic Lead at Delhi]"
+  main: "Congratulation on Heroic Lead at Delhi"
   subtitle: ""
 work_type: letter
 authors: []

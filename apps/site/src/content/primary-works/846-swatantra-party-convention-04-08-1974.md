@@ -1,7 +1,7 @@
 ---
 id: 846-swatantra-party-convention-04-08-1974
 title:
-  main: "[Swatantra party Convention]"
+  main: "Swatantra party Convention"
   subtitle: ""
 work_type: letter
 authors:

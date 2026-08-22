@@ -1,7 +1,7 @@
 ---
 id: 2936-letter-to-r-c-cooper-22-03-1971
 title:
-  main: "[Letter to R C Cooper]"
+  main: "Letter to R C Cooper"
   subtitle: ""
 work_type: letter
 authors: []

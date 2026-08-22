@@ -1,7 +1,7 @@
 ---
 id: 3062-letter-to-j-mohammed-imam-23-10-1968
 title:
-  main: "[Letter to J Mohammed Imam]"
+  main: "Letter to J Mohammed Imam"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 567-all-india-radio-by-mr-minoo-masani-15-08-1965
 title:
-  main: "[All India Radio by Mr Minoo Masani]"
+  main: "All India Radio by Mr Minoo Masani"
   subtitle: ""
 work_type: essay
 authors:

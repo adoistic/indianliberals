@@ -1,7 +1,7 @@
 ---
 id: 5786-letter-to-mr-venkiteswaran-14-09-1994
 title:
-  main: "[Letter to Mr Venkiteswaran]"
+  main: "Letter to Mr Venkiteswaran"
   subtitle: ""
 work_type: letter
 authors: []

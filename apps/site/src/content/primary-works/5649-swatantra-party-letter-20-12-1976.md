@@ -1,7 +1,7 @@
 ---
 id: 5649-swatantra-party-letter-20-12-1976
 title:
-  main: "[Swatantra Party Letter]"
+  main: "Swatantra Party Letter"
   subtitle: ""
 work_type: letter
 authors: []

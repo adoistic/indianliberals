@@ -1,7 +1,7 @@
 ---
 id: 2566-letter-to-mrs-sarla-datar-18-11-1972
 title:
-  main: "[Letter to Mrs Sarla Datar]"
+  main: "Letter to Mrs Sarla Datar"
   subtitle: ""
 work_type: letter
 authors: []

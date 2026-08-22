@@ -1,7 +1,7 @@
 ---
 id: 2829-letter-about-demands-for-ministry-of-transport-communications-05-04-1961
 title:
-  main: "[Letter About Demands for Ministry of Transport & Communications]"
+  main: "Letter About Demands for Ministry of Transport & Communications"
   subtitle: ""
 work_type: letter
 authors: []

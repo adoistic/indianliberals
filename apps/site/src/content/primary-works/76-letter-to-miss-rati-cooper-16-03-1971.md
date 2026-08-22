@@ -1,7 +1,7 @@
 ---
 id: 76-letter-to-miss-rati-cooper-16-03-1971
 title:
-  main: "[Letter to Miss Rati Cooper]"
+  main: "Letter to Miss Rati Cooper"
   subtitle: ""
 work_type: letter
 authors:

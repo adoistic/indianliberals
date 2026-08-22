@@ -1,7 +1,7 @@
 ---
 id: 102-letter-to-mr-n-dandeker-04-03-1971
 title:
-  main: "[Letter to Mr N Dandeker]"
+  main: "Letter to Mr N Dandeker"
   subtitle: ""
 work_type: letter
 authors:

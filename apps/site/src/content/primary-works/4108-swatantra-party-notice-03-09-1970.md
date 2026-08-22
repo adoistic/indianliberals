@@ -1,7 +1,7 @@
 ---
 id: 4108-swatantra-party-notice-03-09-1970
 title:
-  main: "[Swatantra party notice]"
+  main: "Swatantra party notice"
   subtitle: ""
 work_type: circular
 authors: []

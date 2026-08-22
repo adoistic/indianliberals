@@ -1,7 +1,7 @@
 ---
 id: 2411-letter-to-regional-transport-officer-07-02-1984
 title:
-  main: "[Letter to Regional Transport Officer]"
+  main: "Letter to Regional Transport Officer"
   subtitle: ""
 work_type: letter
 authors:

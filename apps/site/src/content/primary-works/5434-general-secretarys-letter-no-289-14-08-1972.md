@@ -1,7 +1,7 @@
 ---
 id: 5434-general-secretarys-letter-no-289-14-08-1972
 title:
-  main: "[General Secretarys letter no-289]"
+  main: "General Secretarys letter no-289"
   subtitle: ""
 work_type: letter
 authors: []

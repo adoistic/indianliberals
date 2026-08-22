@@ -1,7 +1,7 @@
 ---
 id: 1390-letter-from-sv-raju-15-10-1985
 title:
-  main: "[Letter from SV Raju]"
+  main: "Letter from SV Raju"
   subtitle: ""
 work_type: letter
 authors:

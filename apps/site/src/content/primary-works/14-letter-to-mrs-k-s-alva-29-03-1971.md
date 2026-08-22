@@ -1,7 +1,7 @@
 ---
 id: 14-letter-to-mrs-k-s-alva-29-03-1971
 title:
-  main: "[Letter to Mrs K S Alva]"
+  main: "Letter to Mrs K S Alva"
   subtitle: ""
 work_type: letter
 authors:

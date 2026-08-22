@@ -1,7 +1,7 @@
 ---
 id: 5387-letter-to-d-k-kunte-05-06-1968
 title:
-  main: "[Letter to D K Kunte]"
+  main: "Letter to D K Kunte"
   subtitle: ""
 work_type: letter
 authors:

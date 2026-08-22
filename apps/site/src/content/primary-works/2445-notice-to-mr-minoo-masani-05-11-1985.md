@@ -1,7 +1,7 @@
 ---
 id: 2445-notice-to-mr-minoo-masani-05-11-1985
 title:
-  main: "[Notice To Mr Minoo Masani]"
+  main: "Notice To Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

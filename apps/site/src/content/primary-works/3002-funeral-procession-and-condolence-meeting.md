@@ -1,7 +1,7 @@
 ---
 id: 3002-funeral-procession-and-condolence-meeting
 title:
-  main: "[Funeral procession and Condolence Meeting]"
+  main: "Funeral procession and Condolence Meeting"
   subtitle: ""
 work_type: essay
 work_type_source: summary

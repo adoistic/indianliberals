@@ -1,7 +1,7 @@
 ---
 id: 5328-letter-to-bhrama-swaroop-gupta-15-09-1959
 title:
-  main: "[Letter to Bhrama Swaroop Gupta]"
+  main: "Letter to Bhrama Swaroop Gupta"
   subtitle: ""
 work_type: letter
 authors: []

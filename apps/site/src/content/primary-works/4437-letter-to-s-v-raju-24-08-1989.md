@@ -1,7 +1,7 @@
 ---
 id: 4437-letter-to-s-v-raju-24-08-1989
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

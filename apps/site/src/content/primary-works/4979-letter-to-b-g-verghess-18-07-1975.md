@@ -1,7 +1,7 @@
 ---
 id: 4979-letter-to-b-g-verghess-18-07-1975
 title:
-  main: "[Letter to B G Verghess]"
+  main: "Letter to B G Verghess"
   subtitle: ""
 work_type: letter
 authors:

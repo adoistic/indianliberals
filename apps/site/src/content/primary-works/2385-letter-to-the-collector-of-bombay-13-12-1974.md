@@ -1,7 +1,7 @@
 ---
 id: 2385-letter-to-the-collector-of-bombay-13-12-1974
 title:
-  main: "[Letter to The Collector Of Bombay]"
+  main: "Letter to The Collector Of Bombay"
   subtitle: ""
 work_type: letter
 authors:

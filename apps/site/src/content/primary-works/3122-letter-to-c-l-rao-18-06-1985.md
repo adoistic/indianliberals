@@ -1,7 +1,7 @@
 ---
 id: 3122-letter-to-c-l-rao-18-06-1985
 title:
-  main: "[Letter to C L Rao]"
+  main: "Letter to C L Rao"
   subtitle: ""
 work_type: letter
 authors:

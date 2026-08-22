@@ -1,7 +1,7 @@
 ---
 id: 5881-letter-to-balram-tandon-06-10-1967
 title:
-  main: "[Letter to Balram Tandon]"
+  main: "Letter to Balram Tandon"
   subtitle: ""
 work_type: letter
 authors:

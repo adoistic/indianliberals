@@ -1,7 +1,7 @@
 ---
 id: 997-letter-about-discuss-affairs-in-rajasthan-and-about-party-in-general-02-09-1964
 title:
-  main: "[Letter About Discuss Affairs in Rajasthan and About Party in General]"
+  main: "Letter About Discuss Affairs in Rajasthan and About Party in General"
   subtitle: ""
 work_type: letter
 authors:

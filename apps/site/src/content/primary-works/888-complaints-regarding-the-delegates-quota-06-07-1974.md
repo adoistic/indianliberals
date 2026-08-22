@@ -1,7 +1,7 @@
 ---
 id: 888-complaints-regarding-the-delegates-quota-06-07-1974
 title:
-  main: "[Complaints Regarding the Delegates Quota]"
+  main: "Complaints Regarding the Delegates Quota"
   subtitle: ""
 work_type: letter
 authors:

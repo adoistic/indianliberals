@@ -1,7 +1,7 @@
 ---
 id: 4649-letter-to-babubhai-vaidya-30-03-1968
 title:
-  main: "[Letter to Babubhai Vaidya]"
+  main: "Letter to Babubhai Vaidya"
   subtitle: ""
 work_type: letter
 authors: []

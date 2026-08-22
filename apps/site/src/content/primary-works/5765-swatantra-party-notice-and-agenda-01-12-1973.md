@@ -1,7 +1,7 @@
 ---
 id: 5765-swatantra-party-notice-and-agenda-01-12-1973
 title:
-  main: "[Swatantra Party Notice And Agenda]"
+  main: "Swatantra Party Notice And Agenda"
   subtitle: ""
 work_type: circular
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 3092-sub-committee-of-three-members
 title:
-  main: "[Sub-Committee of Three Members]"
+  main: "Sub-Committee of Three Members"
   subtitle: ""
 work_type: programme
 work_type_source: summary

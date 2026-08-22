@@ -1,7 +1,7 @@
 ---
 id: 1660-letter-to-dr-cooper-16-11-1959
 title:
-  main: "[Letter to Dr Cooper]"
+  main: "Letter to Dr Cooper"
   subtitle: ""
 work_type: letter
 authors: []

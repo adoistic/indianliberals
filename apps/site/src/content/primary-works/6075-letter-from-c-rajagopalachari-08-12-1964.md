@@ -1,7 +1,7 @@
 ---
 id: 6075-letter-from-c-rajagopalachari-08-12-1964
 title:
-  main: "[Letter from C Rajagopalachari]"
+  main: "Letter from C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors:

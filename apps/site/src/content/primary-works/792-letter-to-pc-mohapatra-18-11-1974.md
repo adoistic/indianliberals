@@ -1,7 +1,7 @@
 ---
 id: 792-letter-to-pc-mohapatra-18-11-1974
 title:
-  main: "[Letter to PC Mohapatra]"
+  main: "Letter to PC Mohapatra"
   subtitle: ""
 work_type: letter
 authors:

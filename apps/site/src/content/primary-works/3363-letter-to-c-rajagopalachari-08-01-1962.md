@@ -1,7 +1,7 @@
 ---
 id: 3363-letter-to-c-rajagopalachari-08-01-1962
 title:
-  main: "[Letter to C Rajagopalachari]"
+  main: "Letter to C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors:

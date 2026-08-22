@@ -1,7 +1,7 @@
 ---
 id: 1712-letter-to-mr-n-c-zamindar-14-09-1959
 title:
-  main: "[Letter to Mr N C Zamindar]"
+  main: "Letter to Mr N C Zamindar"
   subtitle: ""
 work_type: letter
 authors: []

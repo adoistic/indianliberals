@@ -1,7 +1,7 @@
 ---
 id: 1972-letter-to-yashpal-singh-22-09-1964
 title:
-  main: "[Letter to Yashpal Singh]"
+  main: "Letter to Yashpal Singh"
   subtitle: ""
 work_type: letter
 authors: []

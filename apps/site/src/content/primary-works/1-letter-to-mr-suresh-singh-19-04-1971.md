@@ -1,7 +1,7 @@
 ---
 id: 1-letter-to-mr-suresh-singh-19-04-1971
 title:
-  main: "[Letter to Mr Suresh Singh]"
+  main: "Letter to Mr Suresh Singh"
   subtitle: ""
 work_type: letter
 authors:

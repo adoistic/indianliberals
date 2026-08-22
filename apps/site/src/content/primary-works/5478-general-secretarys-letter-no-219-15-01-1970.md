@@ -1,7 +1,7 @@
 ---
 id: 5478-general-secretarys-letter-no-219-15-01-1970
 title:
-  main: "[General Secretarys letter no-219]"
+  main: "General Secretarys letter no-219"
   subtitle: ""
 work_type: correspondence
 authors: []

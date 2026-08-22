@@ -1,7 +1,7 @@
 ---
 id: 5317-letter-to-b-s-mirza-17-09-1959
 title:
-  main: "[Letter to B S Mirza]"
+  main: "Letter to B S Mirza"
   subtitle: ""
 work_type: letter
 authors: []

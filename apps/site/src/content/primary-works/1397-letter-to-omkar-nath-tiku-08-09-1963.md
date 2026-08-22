@@ -1,7 +1,7 @@
 ---
 id: 1397-letter-to-omkar-nath-tiku-08-09-1963
 title:
-  main: "[Letter to Omkar Nath Tiku]"
+  main: "Letter to Omkar Nath Tiku"
   subtitle: ""
 work_type: letter
 authors: []

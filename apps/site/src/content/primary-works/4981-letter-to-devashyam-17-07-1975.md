@@ -1,7 +1,7 @@
 ---
 id: 4981-letter-to-devashyam-17-07-1975
 title:
-  main: "[Letter to Devashyam]"
+  main: "Letter to Devashyam"
   subtitle: ""
 work_type: letter
 authors:

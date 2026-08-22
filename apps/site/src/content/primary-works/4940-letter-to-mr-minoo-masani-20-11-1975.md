@@ -1,7 +1,7 @@
 ---
 id: 4940-letter-to-mr-minoo-masani-20-11-1975
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

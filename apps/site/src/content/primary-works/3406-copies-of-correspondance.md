@@ -1,7 +1,7 @@
 ---
 id: 3406-copies-of-correspondance
 title:
-  main: "[Copies of Correspondance]"
+  main: "Copies of Correspondance"
   subtitle: ""
 work_type: correspondence
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 4760-letter-to-mr-n-g-ranga-19-04-1963
 title:
-  main: "[Letter to Mr N G Ranga]"
+  main: "Letter to Mr N G Ranga"
   subtitle: ""
 work_type: letter
 authors:

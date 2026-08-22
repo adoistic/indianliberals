@@ -1,7 +1,7 @@
 ---
 id: 571-speech-of-mr-minoo-masani-21-08-1966
 title:
-  main: "[Speech of Mr Minoo Masani]"
+  main: "Speech of Mr Minoo Masani"
   subtitle: ""
 work_type: speech
 authors: []

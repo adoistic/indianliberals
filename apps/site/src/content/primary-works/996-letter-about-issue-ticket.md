@@ -1,7 +1,7 @@
 ---
 id: 996-letter-about-issue-ticket
 title:
-  main: "[Letter About Issue Ticket]"
+  main: "Letter About Issue Ticket"
   subtitle: ""
 work_type: telegram
 authors:

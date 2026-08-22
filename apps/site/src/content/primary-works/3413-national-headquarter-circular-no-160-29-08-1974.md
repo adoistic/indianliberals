@@ -1,7 +1,7 @@
 ---
 id: 3413-national-headquarter-circular-no-160-29-08-1974
 title:
-  main: "[National Headquarter Circular no 160]"
+  main: "National Headquarter Circular no 160"
   subtitle: ""
 work_type: circular
 work_type_source: filename

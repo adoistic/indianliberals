@@ -1,7 +1,7 @@
 ---
 id: 1380-letter-to-sv-raju-29-12-1981
 title:
-  main: "[Letter to SV Raju]"
+  main: "Letter to SV Raju"
   subtitle: ""
 work_type: letter
 authors:

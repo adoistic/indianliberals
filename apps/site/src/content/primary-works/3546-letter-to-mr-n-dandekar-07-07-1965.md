@@ -1,7 +1,7 @@
 ---
 id: 3546-letter-to-mr-n-dandekar-07-07-1965
 title:
-  main: "[Letter to Mr N Dandekar]"
+  main: "Letter to Mr N Dandekar"
   subtitle: ""
 work_type: letter
 authors:

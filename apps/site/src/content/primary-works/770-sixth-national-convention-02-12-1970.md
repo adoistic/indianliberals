@@ -1,7 +1,7 @@
 ---
 id: 770-sixth-national-convention-02-12-1970
 title:
-  main: "[Sixth National Convention]"
+  main: "Sixth National Convention"
   subtitle: ""
 work_type: circular
 work_type_source: classifier

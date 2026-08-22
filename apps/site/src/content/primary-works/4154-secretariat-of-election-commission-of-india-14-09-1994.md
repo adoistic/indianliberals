@@ -1,7 +1,7 @@
 ---
 id: 4154-secretariat-of-election-commission-of-india-14-09-1994
 title:
-  main: "[Secretariat of Election Commission of India]"
+  main: "Secretariat of Election Commission of India"
   subtitle: ""
 work_type: letter
 authors: []

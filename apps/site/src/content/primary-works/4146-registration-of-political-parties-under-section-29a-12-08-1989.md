@@ -1,7 +1,7 @@
 ---
 id: 4146-registration-of-political-parties-under-section-29a-12-08-1989
 title:
-  main: "[Registration of political parties under section 29A]"
+  main: "Registration of political parties under section 29A"
   subtitle: ""
 work_type: letter
 authors: []

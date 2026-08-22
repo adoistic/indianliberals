@@ -1,7 +1,7 @@
 ---
 id: 4045-letter-to-j-r-d-tata-27-06-1966
 title:
-  main: "[Letter to J R D Tata]"
+  main: "Letter to J R D Tata"
   subtitle: ""
 work_type: letter
 authors:

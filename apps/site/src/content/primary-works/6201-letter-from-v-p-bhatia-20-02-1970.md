@@ -1,7 +1,7 @@
 ---
 id: 6201-letter-from-v-p-bhatia-20-02-1970
 title:
-  main: "[Letter from V P Bhatia]"
+  main: "Letter from V P Bhatia"
   subtitle: ""
 work_type: letter
 authors: []

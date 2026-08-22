@@ -1,7 +1,7 @@
 ---
 id: 74-letter-to-mrs-durga-joshi-17-03-1971
 title:
-  main: "[Letter to Mrs Durga Joshi]"
+  main: "Letter to Mrs Durga Joshi"
   subtitle: ""
 work_type: letter
 authors:

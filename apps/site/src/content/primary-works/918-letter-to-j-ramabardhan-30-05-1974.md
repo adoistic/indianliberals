@@ -1,7 +1,7 @@
 ---
 id: 918-letter-to-j-ramabardhan-30-05-1974
 title:
-  main: "[Letter to J Ramabardhan]"
+  main: "Letter to J Ramabardhan"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 5871-letter-to-k-v-murthy-11-11-1967
 title:
-  main: "[Letter to K V Murthy]"
+  main: "Letter to K V Murthy"
   subtitle: ""
 work_type: letter
 authors:

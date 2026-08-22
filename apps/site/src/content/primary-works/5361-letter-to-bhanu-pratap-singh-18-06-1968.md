@@ -1,7 +1,7 @@
 ---
 id: 5361-letter-to-bhanu-pratap-singh-18-06-1968
 title:
-  main: "[Letter to Bhanu Pratap Singh]"
+  main: "Letter to Bhanu Pratap Singh"
   subtitle: ""
 work_type: letter
 authors:

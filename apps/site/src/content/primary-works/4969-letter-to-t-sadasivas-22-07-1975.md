@@ -1,7 +1,7 @@
 ---
 id: 4969-letter-to-t-sadasivas-22-07-1975
 title:
-  main: "[Letter to T Sadasivas]"
+  main: "Letter to T Sadasivas"
   subtitle: ""
 work_type: letter
 authors:

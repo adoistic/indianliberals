@@ -1,7 +1,7 @@
 ---
 id: 5098-letter-to-n-dandeker-10-04-1968
 title:
-  main: "[Letter to N Dandeker]"
+  main: "Letter to N Dandeker"
   subtitle: ""
 work_type: letter
 authors: []

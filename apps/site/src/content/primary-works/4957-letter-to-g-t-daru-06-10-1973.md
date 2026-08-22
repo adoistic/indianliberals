@@ -1,7 +1,7 @@
 ---
 id: 4957-letter-to-g-t-daru-06-10-1973
 title:
-  main: "[Letter to G T Daru]"
+  main: "Letter to G T Daru"
   subtitle: ""
 work_type: letter
 authors:

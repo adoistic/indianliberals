@@ -1,7 +1,7 @@
 ---
 id: 2448-letter-to-regional-transport-officer-regarding-jeep-no-mrg2347-06-05-1985
 title:
-  main: "[Letter to Regional Transport Officer Regarding Jeep No-MRG2347]"
+  main: "Letter to Regional Transport Officer Regarding Jeep No-MRG2347"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 2921-letter-to-s-v-raju-19-05-2006
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

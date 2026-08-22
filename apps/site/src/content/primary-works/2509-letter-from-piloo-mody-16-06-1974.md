@@ -1,7 +1,7 @@
 ---
 id: 2509-letter-from-piloo-mody-16-06-1974
 title:
-  main: "[Letter from Piloo Mody]"
+  main: "Letter from Piloo Mody"
   subtitle: ""
 work_type: letter
 authors:

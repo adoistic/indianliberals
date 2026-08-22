@@ -1,7 +1,7 @@
 ---
 id: 6265-letter-to-mr-minoo-masni-25-11-1969
 title:
-  main: "[Letter to Mr Minoo Masni]"
+  main: "Letter to Mr Minoo Masni"
   subtitle: ""
 work_type: letter
 authors:

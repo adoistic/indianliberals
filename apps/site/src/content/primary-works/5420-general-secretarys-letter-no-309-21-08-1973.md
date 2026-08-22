@@ -1,7 +1,7 @@
 ---
 id: 5420-general-secretarys-letter-no-309-21-08-1973
 title:
-  main: "[General Secretarys letter no-309]"
+  main: "General Secretarys letter no-309"
   subtitle: ""
 work_type: letter
 authors: []

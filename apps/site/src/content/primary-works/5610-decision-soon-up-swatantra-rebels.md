@@ -1,7 +1,7 @@
 ---
 id: 5610-decision-soon-up-swatantra-rebels
 title:
-  main: "[Decision soon up Swatantra rebels]"
+  main: "Decision soon up Swatantra rebels"
   subtitle: ""
 work_type: resolution
 work_type_source: summary

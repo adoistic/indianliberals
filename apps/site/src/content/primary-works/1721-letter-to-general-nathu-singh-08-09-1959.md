@@ -1,7 +1,7 @@
 ---
 id: 1721-letter-to-general-nathu-singh-08-09-1959
 title:
-  main: "[Letter to General Nathu Singh]"
+  main: "Letter to General Nathu Singh"
   subtitle: ""
 work_type: letter
 authors: []

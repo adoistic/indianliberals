@@ -1,7 +1,7 @@
 ---
 id: 2791-letter-to-raja-raghavendra-pratap-singh-19-04-1962
 title:
-  main: "[Letter to Raja Raghavendra Pratap Singh]"
+  main: "Letter to Raja Raghavendra Pratap Singh"
   subtitle: ""
 work_type: letter
 authors: []

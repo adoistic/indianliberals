@@ -1,7 +1,7 @@
 ---
 id: 927-letter-to-s-gopalkrishnan-28-05-1974
 title:
-  main: "[Letter to S GopalKrishnan]"
+  main: "Letter to S GopalKrishnan"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 5332-letter-to-braham-p-bharucha-14-09-1959
 title:
-  main: "[Letter to Braham P Bharucha]"
+  main: "Letter to Braham P Bharucha"
   subtitle: ""
 work_type: letter
 authors: []

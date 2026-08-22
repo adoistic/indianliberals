@@ -1,7 +1,7 @@
 ---
 id: 3778-letter-to-c-rajagopalachari-10-11-1966
 title:
-  main: "[Letter to C Rajagopalachari]"
+  main: "Letter to C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors: []

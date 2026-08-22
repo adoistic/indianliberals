@@ -1,7 +1,7 @@
 ---
 id: 3057-swatanra-party-minutes-of-meeting
 title:
-  main: "[Swatanra Party Minutes of Meeting]"
+  main: "Swatanra Party Minutes of Meeting"
   subtitle: ""
 work_type: minutes
 work_type_source: filename

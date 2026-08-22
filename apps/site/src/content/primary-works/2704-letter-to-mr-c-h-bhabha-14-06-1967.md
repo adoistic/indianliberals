@@ -1,7 +1,7 @@
 ---
 id: 2704-letter-to-mr-c-h-bhabha-14-06-1967
 title:
-  main: "[Letter to Mr C H Bhabha]"
+  main: "Letter to Mr C H Bhabha"
   subtitle: ""
 work_type: letter
 authors:

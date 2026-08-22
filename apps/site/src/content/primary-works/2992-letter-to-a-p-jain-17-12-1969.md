@@ -1,7 +1,7 @@
 ---
 id: 2992-letter-to-a-p-jain-17-12-1969
 title:
-  main: "[Letter to A P Jain]"
+  main: "Letter to A P Jain"
   subtitle: ""
 work_type: letter
 authors:

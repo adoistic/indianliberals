@@ -1,7 +1,7 @@
 ---
 id: 3037-letter-to-r-c-cooper-23-05-1969
 title:
-  main: "[Letter to R C Cooper]"
+  main: "Letter to R C Cooper"
   subtitle: ""
 work_type: letter
 authors:

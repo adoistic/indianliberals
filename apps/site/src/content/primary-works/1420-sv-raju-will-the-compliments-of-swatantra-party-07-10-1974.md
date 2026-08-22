@@ -1,7 +1,7 @@
 ---
 id: 1420-sv-raju-will-the-compliments-of-swatantra-party-07-10-1974
 title:
-  main: "[SV Raju will the Compliments of Swatantra Party]"
+  main: "SV Raju will the Compliments of Swatantra Party"
   subtitle: ""
 work_type: letter
 authors: []

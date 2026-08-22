@@ -1,7 +1,7 @@
 ---
 id: 3353-telegram-of-swatantra-party
 title:
-  main: "[Telegram of Swatantra Party]"
+  main: "Telegram of Swatantra Party"
   subtitle: ""
 work_type: telegram
 authors: []

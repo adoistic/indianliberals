@@ -1,7 +1,7 @@
 ---
 id: 580-for-favour-of-publication-10-08-1965
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: report
 work_type_source: classifier

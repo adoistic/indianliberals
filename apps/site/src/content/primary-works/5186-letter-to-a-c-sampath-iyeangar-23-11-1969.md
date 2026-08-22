@@ -1,7 +1,7 @@
 ---
 id: 5186-letter-to-a-c-sampath-iyeangar-23-11-1969
 title:
-  main: "[Letter to A C Sampath Iyeangar]"
+  main: "Letter to A C Sampath Iyeangar"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 3102-letter-to-budhi-prakash-12-03-1975
 title:
-  main: "[Letter to Budhi Prakash]"
+  main: "Letter to Budhi Prakash"
   subtitle: ""
 work_type: letter
 authors:

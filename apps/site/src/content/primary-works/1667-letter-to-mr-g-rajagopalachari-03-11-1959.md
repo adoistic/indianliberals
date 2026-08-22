@@ -1,7 +1,7 @@
 ---
 id: 1667-letter-to-mr-g-rajagopalachari-03-11-1959
 title:
-  main: "[Letter to Mr G Rajagopalachari]"
+  main: "Letter to Mr G Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors: []

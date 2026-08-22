@@ -1,7 +1,7 @@
 ---
 id: 3430-letter-to-morarji-desai-19-06-1970
 title:
-  main: "[Letter to Morarji Desai]"
+  main: "Letter to Morarji Desai"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 4097-a-meeting-of-executive-committee-22-06-1971
 title:
-  main: "[A Meeting of Executive Committee]"
+  main: "A Meeting of Executive Committee"
   subtitle: ""
 work_type: circular
 authors: []

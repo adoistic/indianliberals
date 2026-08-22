@@ -1,7 +1,7 @@
 ---
 id: 5958-letter-to-jayaprakash-naryan-19-08-1974
 title:
-  main: "[Letter to Jayaprakash Naryan]"
+  main: "Letter to Jayaprakash Naryan"
   subtitle: ""
 work_type: letter
 authors:

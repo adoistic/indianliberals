@@ -1,7 +1,7 @@
 ---
 id: 1181-telegram-to-mr-mathani-05-10-1975
 title:
-  main: "[Telegram to MR Mathani]"
+  main: "Telegram to MR Mathani"
   subtitle: ""
 work_type: telegram
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 2208-letter-from-mr-minoo-masani-02-11-1971
 title:
-  main: "[Letter from Mr Minoo Masani]"
+  main: "Letter from Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

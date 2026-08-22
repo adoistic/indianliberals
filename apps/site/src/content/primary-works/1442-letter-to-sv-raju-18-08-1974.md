@@ -1,7 +1,7 @@
 ---
 id: 1442-letter-to-sv-raju-18-08-1974
 title:
-  main: "[Letter to SV Raju]"
+  main: "Letter to SV Raju"
   subtitle: ""
 work_type: letter
 authors: []

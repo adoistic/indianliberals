@@ -1,7 +1,7 @@
 ---
 id: 5172-letter-to-r-n-rai-30-11-1959
 title:
-  main: "[Letter to R N Rai]"
+  main: "Letter to R N Rai"
   subtitle: ""
 work_type: letter
 authors:

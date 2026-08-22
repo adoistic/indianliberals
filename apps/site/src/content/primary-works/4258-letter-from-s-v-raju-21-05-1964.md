@@ -1,7 +1,7 @@
 ---
 id: 4258-letter-from-s-v-raju-21-05-1964
 title:
-  main: "[Letter from S V Raju]"
+  main: "Letter from S V Raju"
   subtitle: ""
 work_type: letter
 authors:

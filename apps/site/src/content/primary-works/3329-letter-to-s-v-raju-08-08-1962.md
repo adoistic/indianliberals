@@ -1,7 +1,7 @@
 ---
 id: 3329-letter-to-s-v-raju-08-08-1962
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

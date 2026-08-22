@@ -1,7 +1,7 @@
 ---
 id: 2953-swatantra-party-justice-2-09-04-1972
 title:
-  main: "[Swatantra Party Justice-2]"
+  main: "Swatantra Party Justice-2"
   subtitle: ""
 work_type: office_record
 work_type_source: classifier

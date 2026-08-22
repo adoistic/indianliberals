@@ -1,7 +1,7 @@
 ---
 id: 6236-telegram-to-mr-minoo-masani-08-01-1970
 title:
-  main: "[Telegram to Mr Minoo Masani]"
+  main: "Telegram to Mr Minoo Masani"
   subtitle: ""
 work_type: telegram
 work_type_source: filename

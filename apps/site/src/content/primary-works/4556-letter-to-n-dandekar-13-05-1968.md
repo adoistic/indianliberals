@@ -1,7 +1,7 @@
 ---
 id: 4556-letter-to-n-dandekar-13-05-1968
 title:
-  main: "[Letter to N Dandekar]"
+  main: "Letter to N Dandekar"
   subtitle: ""
 work_type: letter
 authors:

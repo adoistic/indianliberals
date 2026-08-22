@@ -1,7 +1,7 @@
 ---
 id: 702-mr-masani-speech-in-parliament-25-12-1959
 title:
-  main: "[Mr Masani Speech in Parliament]"
+  main: "Mr Masani Speech in Parliament"
   subtitle: ""
 work_type: speech
 purpose: parliamentary

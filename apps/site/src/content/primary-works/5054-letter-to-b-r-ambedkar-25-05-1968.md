@@ -1,7 +1,7 @@
 ---
 id: 5054-letter-to-b-r-ambedkar-25-05-1968
 title:
-  main: "[Letter to B R Ambedkar]"
+  main: "Letter to B R Ambedkar"
   subtitle: ""
 work_type: letter
 authors: []

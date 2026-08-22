@@ -1,7 +1,7 @@
 ---
 id: 2374-letter-from-associated-cement-companies-11-03-1976
 title:
-  main: "[Letter From Associated Cement Companies]"
+  main: "Letter From Associated Cement Companies"
   subtitle: ""
 work_type: letter
 authors: []

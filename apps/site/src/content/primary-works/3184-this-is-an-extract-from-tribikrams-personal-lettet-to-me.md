@@ -1,7 +1,7 @@
 ---
 id: 3184-this-is-an-extract-from-tribikrams-personal-lettet-to-me
 title:
-  main: "[This is an extract from Tribikrams personal lettet to me]"
+  main: "This is an extract from Tribikrams personal lettet to me"
   subtitle: ""
 work_type: letter
 authors: []

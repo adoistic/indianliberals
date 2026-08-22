@@ -1,7 +1,7 @@
 ---
 id: 4050-letter-to-b-r-shenoy-23-06-1966
 title:
-  main: "[Letter to B R Shenoy]"
+  main: "Letter to B R Shenoy"
   subtitle: ""
 work_type: letter
 authors:

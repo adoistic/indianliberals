@@ -1,7 +1,7 @@
 ---
 id: 3411-in-the-bombay-city-civil-court-at-bombay
 title:
-  main: "[In the Bombay City Civil Court at Bombay]"
+  main: "In the Bombay City Civil Court at Bombay"
   subtitle: ""
 work_type: legal_filing
 work_type_source: summary

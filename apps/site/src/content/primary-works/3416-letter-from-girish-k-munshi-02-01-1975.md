@@ -1,7 +1,7 @@
 ---
 id: 3416-letter-from-girish-k-munshi-02-01-1975
 title:
-  main: "[Letter from Girish K Munshi]"
+  main: "Letter from Girish K Munshi"
   subtitle: ""
 work_type: letter
 authors: []

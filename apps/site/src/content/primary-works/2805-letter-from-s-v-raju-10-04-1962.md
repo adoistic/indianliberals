@@ -1,7 +1,7 @@
 ---
 id: 2805-letter-from-s-v-raju-10-04-1962
 title:
-  main: "[Letter from S V Raju]"
+  main: "Letter from S V Raju"
   subtitle: ""
 work_type: letter
 authors:

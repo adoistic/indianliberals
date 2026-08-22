@@ -1,7 +1,7 @@
 ---
 id: 795-kerla-state-council-of-swatantra-party-10-11-1974
 title:
-  main: "[Kerla State Council of Swatantra party]"
+  main: "Kerla State Council of Swatantra party"
   subtitle: ""
 work_type: resolution
 work_type_source: summary

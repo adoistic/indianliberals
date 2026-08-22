@@ -1,7 +1,7 @@
 ---
 id: 3656-rajaji-an-assessment-indian-express-12-01-1973
 title:
-  main: "[Rajaji-An Assessment-Indian Express]"
+  main: "Rajaji-An Assessment-Indian Express"
   subtitle: ""
 work_type: letter
 authors:

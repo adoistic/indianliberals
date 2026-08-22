@@ -1,7 +1,7 @@
 ---
 id: 1684-letter-to-mr-a-d-shroff-15-10-1959
 title:
-  main: "[Letter to Mr A D Shroff]"
+  main: "Letter to Mr A D Shroff"
   subtitle: ""
 work_type: letter
 authors: []

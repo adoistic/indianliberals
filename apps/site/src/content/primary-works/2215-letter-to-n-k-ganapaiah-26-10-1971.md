@@ -1,7 +1,7 @@
 ---
 id: 2215-letter-to-n-k-ganapaiah-26-10-1971
 title:
-  main: "[Letter to N K Ganapaiah]"
+  main: "Letter to N K Ganapaiah"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 865-national-executive-of-swatantra-party-09-07-1974
 title:
-  main: "[National Executive of Swatantra party]"
+  main: "National Executive of Swatantra party"
   subtitle: ""
 work_type: letter
 authors: []

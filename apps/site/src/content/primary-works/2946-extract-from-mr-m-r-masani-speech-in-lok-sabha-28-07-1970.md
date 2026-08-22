@@ -1,7 +1,7 @@
 ---
 id: 2946-extract-from-mr-m-r-masani-speech-in-lok-sabha-28-07-1970
 title:
-  main: "[Extract from Mr M R Masani Speech in Lok Sabha]"
+  main: "Extract from Mr M R Masani Speech in Lok Sabha"
   subtitle: ""
 work_type: speech
 work_type_source: filename

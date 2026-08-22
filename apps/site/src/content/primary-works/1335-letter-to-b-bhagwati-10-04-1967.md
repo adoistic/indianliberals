@@ -1,7 +1,7 @@
 ---
 id: 1335-letter-to-b-bhagwati-10-04-1967
 title:
-  main: "[Letter to B Bhagwati]"
+  main: "Letter to B Bhagwati"
   subtitle: ""
 work_type: letter
 authors:

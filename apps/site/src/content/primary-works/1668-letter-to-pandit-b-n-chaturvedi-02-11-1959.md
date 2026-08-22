@@ -1,7 +1,7 @@
 ---
 id: 1668-letter-to-pandit-b-n-chaturvedi-02-11-1959
 title:
-  main: "[Letter to Pandit B N Chaturvedi]"
+  main: "Letter to Pandit B N Chaturvedi"
   subtitle: ""
 work_type: letter
 authors: []

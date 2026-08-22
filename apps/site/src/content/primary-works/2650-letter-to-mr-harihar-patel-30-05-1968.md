@@ -1,7 +1,7 @@
 ---
 id: 2650-letter-to-mr-harihar-patel-30-05-1968
 title:
-  main: "[Letter to Mr Harihar Patel]"
+  main: "Letter to Mr Harihar Patel"
   subtitle: ""
 work_type: letter
 authors:

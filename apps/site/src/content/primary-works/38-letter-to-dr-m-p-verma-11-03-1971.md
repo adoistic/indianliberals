@@ -1,7 +1,7 @@
 ---
 id: 38-letter-to-dr-m-p-verma-11-03-1971
 title:
-  main: "[Letter to Dr M P Verma]"
+  main: "Letter to Dr M P Verma"
   subtitle: ""
 work_type: letter
 authors:

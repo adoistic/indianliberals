@@ -1,7 +1,7 @@
 ---
 id: 2561-letter-to-dr-r-c-cooper-15-11-1972
 title:
-  main: "[Letter to Dr R C Cooper]"
+  main: "Letter to Dr R C Cooper"
   subtitle: ""
 work_type: letter
 authors: []

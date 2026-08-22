@@ -1,7 +1,7 @@
 ---
 id: 3691-letter-about-national-convention-04-08-1974
 title:
-  main: "[Letter About National Convention]"
+  main: "Letter About National Convention"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 904-letter-to-jairam-26-06-1968
 title:
-  main: "[Letter to Jairam]"
+  main: "Letter to Jairam"
   subtitle: ""
 work_type: letter
 authors: []

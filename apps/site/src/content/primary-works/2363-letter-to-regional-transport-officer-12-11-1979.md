@@ -1,7 +1,7 @@
 ---
 id: 2363-letter-to-regional-transport-officer-12-11-1979
 title:
-  main: "[Letter to Regional Transport Officer]"
+  main: "Letter to Regional Transport Officer"
   subtitle: ""
 work_type: letter
 authors:

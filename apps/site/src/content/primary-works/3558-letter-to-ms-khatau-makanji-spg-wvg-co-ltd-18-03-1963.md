@@ -1,7 +1,7 @@
 ---
 id: 3558-letter-to-ms-khatau-makanji-spg-wvg-co-ltd-18-03-1963
 title:
-  main: "[Letter to MS Khatau Makanji Spg & Wvg Co Ltd]"
+  main: "Letter to MS Khatau Makanji Spg & Wvg Co Ltd"
   subtitle: ""
 work_type: letter
 authors:

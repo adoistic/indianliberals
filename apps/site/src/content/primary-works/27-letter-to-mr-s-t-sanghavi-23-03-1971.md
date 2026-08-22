@@ -1,7 +1,7 @@
 ---
 id: 27-letter-to-mr-s-t-sanghavi-23-03-1971
 title:
-  main: "[Letter to Mr S T Sanghavi]"
+  main: "Letter to Mr S T Sanghavi"
   subtitle: ""
 work_type: letter
 authors:

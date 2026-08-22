@@ -1,7 +1,7 @@
 ---
 id: 5888-letter-to-mr-minoo-masani-26-08-1968
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

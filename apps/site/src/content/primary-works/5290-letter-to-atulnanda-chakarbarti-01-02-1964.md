@@ -1,7 +1,7 @@
 ---
 id: 5290-letter-to-atulnanda-chakarbarti-01-02-1964
 title:
-  main: "[Letter to Atulnanda Chakarbarti]"
+  main: "Letter to Atulnanda Chakarbarti"
   subtitle: ""
 work_type: letter
 authors:

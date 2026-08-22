@@ -1,7 +1,7 @@
 ---
 id: 980-letter-to-sardar-kapur-singhjee-20-06-1963
 title:
-  main: "[Letter to Sardar Kapur Singhjee]"
+  main: "Letter to Sardar Kapur Singhjee"
   subtitle: ""
 work_type: letter
 authors: []

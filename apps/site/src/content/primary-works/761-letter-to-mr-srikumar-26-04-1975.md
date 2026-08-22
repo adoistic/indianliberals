@@ -1,7 +1,7 @@
 ---
 id: 761-letter-to-mr-srikumar-26-04-1975
 title:
-  main: "[Letter to Mr Srikumar]"
+  main: "Letter to Mr Srikumar"
   subtitle: ""
 work_type: letter
 authors: []

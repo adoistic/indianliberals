@@ -1,7 +1,7 @@
 ---
 id: 1457-letter-to-mr-arya-26-07-1974
 title:
-  main: "[Letter to MR Arya]"
+  main: "Letter to MR Arya"
   subtitle: ""
 work_type: letter
 authors: []

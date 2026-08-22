@@ -1,7 +1,7 @@
 ---
 id: 4747-letter-from-c-rajagopalachari
 title:
-  main: "[Letter from C Rajagopalachari`]"
+  main: "Letter from C Rajagopalachari`"
   subtitle: ""
 work_type: letter
 authors: []

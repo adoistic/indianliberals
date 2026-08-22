@@ -1,7 +1,7 @@
 ---
 id: 2112-criminal-appeal-no-414-1976
 title:
-  main: "[Criminal Appeal No-414 1976]"
+  main: "Criminal Appeal No-414 1976"
   subtitle: ""
 work_type: letter
 authors: []

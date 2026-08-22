@@ -1,7 +1,7 @@
 ---
 id: 5101-letter-from-c-pathik-05-04-1968
 title:
-  main: "[Letter from C Pathik]"
+  main: "Letter from C Pathik"
   subtitle: ""
 work_type: letter
 authors: []

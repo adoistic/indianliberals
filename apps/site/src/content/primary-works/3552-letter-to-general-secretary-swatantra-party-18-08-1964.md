@@ -1,7 +1,7 @@
 ---
 id: 3552-letter-to-general-secretary-swatantra-party-18-08-1964
 title:
-  main: "[Letter to General Secretary Swatantra Party]"
+  main: "Letter to General Secretary Swatantra Party"
   subtitle: ""
 work_type: letter
 authors: []

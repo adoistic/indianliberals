@@ -1,7 +1,7 @@
 ---
 id: 5973-letter-to-manumantra-rao-14-06-1974
 title:
-  main: "[Letter to Manumantra Rao]"
+  main: "Letter to Manumantra Rao"
   subtitle: ""
 work_type: telegram
 authors: []

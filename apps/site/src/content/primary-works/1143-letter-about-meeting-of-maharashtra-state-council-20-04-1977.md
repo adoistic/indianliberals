@@ -1,7 +1,7 @@
 ---
 id: 1143-letter-about-meeting-of-maharashtra-state-council-20-04-1977
 title:
-  main: "[Letter About Meeting of Maharashtra State Council]"
+  main: "Letter About Meeting of Maharashtra State Council"
   subtitle: ""
 work_type: circular
 authors: []

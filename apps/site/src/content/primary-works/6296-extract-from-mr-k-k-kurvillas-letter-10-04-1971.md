@@ -1,7 +1,7 @@
 ---
 id: 6296-extract-from-mr-k-k-kurvillas-letter-10-04-1971
 title:
-  main: "[Extract From Mr K K Kurvillas Letter]"
+  main: "Extract From Mr K K Kurvillas Letter"
   subtitle: ""
 work_type: letter
 authors: []

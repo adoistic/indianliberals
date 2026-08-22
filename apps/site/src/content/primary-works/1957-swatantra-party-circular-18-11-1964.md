@@ -1,7 +1,7 @@
 ---
 id: 1957-swatantra-party-circular-18-11-1964
 title:
-  main: "[Swatantra Party Circular]"
+  main: "Swatantra Party Circular"
   subtitle: ""
 work_type: circular
 work_type_source: filename

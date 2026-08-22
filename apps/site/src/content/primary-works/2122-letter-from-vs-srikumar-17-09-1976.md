@@ -1,7 +1,7 @@
 ---
 id: 2122-letter-from-vs-srikumar-17-09-1976
 title:
-  main: "[Letter from VS Srikumar]"
+  main: "Letter from VS Srikumar"
   subtitle: ""
 work_type: letter
 authors: []

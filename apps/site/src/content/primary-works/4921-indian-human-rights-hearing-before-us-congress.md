@@ -1,7 +1,7 @@
 ---
 id: 4921-indian-human-rights-hearing-before-us-congress
 title:
-  main: "[Indian Human Rights hearing before US Congress]"
+  main: "Indian Human Rights hearing before US Congress"
   subtitle: ""
 work_type: report
 work_type_source: classifier

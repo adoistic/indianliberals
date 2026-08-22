@@ -1,7 +1,7 @@
 ---
 id: 1875-letter-from-kn-krishnan-01-11-1965
 title:
-  main: "[Letter from KN Krishnan]"
+  main: "Letter from KN Krishnan"
   subtitle: ""
 work_type: letter
 authors: []

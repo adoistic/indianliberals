@@ -1,7 +1,7 @@
 ---
 id: 5753-letter-to-mr-navin-t-khandwalla-18-02-1974
 title:
-  main: "[Letter to Mr Navin T Khandwalla]"
+  main: "Letter to Mr Navin T Khandwalla"
   subtitle: ""
 work_type: letter
 authors: []

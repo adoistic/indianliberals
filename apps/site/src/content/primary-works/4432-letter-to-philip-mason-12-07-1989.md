@@ -1,7 +1,7 @@
 ---
 id: 4432-letter-to-philip-mason-12-07-1989
 title:
-  main: "[Letter to Philip Mason]"
+  main: "Letter to Philip Mason"
   subtitle: ""
 work_type: letter
 authors:

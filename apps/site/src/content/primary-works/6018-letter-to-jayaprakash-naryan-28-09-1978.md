@@ -1,7 +1,7 @@
 ---
 id: 6018-letter-to-jayaprakash-naryan-28-09-1978
 title:
-  main: "[Letter to Jayaprakash Naryan]"
+  main: "Letter to Jayaprakash Naryan"
   subtitle: ""
 work_type: letter
 authors:

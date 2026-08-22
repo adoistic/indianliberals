@@ -1,7 +1,7 @@
 ---
 id: 3561-ms-khatau-makanji-spg-wvg-co-ltd-memo-07-08-1963
 title:
-  main: "[MS Khatau Makanji Spg & Wvg Co Ltd Memo]"
+  main: "MS Khatau Makanji Spg & Wvg Co Ltd Memo"
   subtitle: ""
 work_type: office_record
 work_type_source: summary

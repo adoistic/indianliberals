@@ -1,7 +1,7 @@
 ---
 id: 5191-letter-to-a-c-sampath-iyeangar-19-11-1959
 title:
-  main: "[Letter to A C Sampath Iyeangar]"
+  main: "Letter to A C Sampath Iyeangar"
   subtitle: ""
 work_type: letter
 authors:

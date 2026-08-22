@@ -1,7 +1,7 @@
 ---
 id: 3370-letter-to-k-m-munshi-26-12-1961
 title:
-  main: "[Letter to K M Munshi]"
+  main: "Letter to K M Munshi"
   subtitle: ""
 work_type: letter
 authors:

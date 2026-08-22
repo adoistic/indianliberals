@@ -1,7 +1,7 @@
 ---
 id: 4662-letter-to-mr-shenoy-18-03-1968
 title:
-  main: "[Letter to Mr Shenoy]"
+  main: "Letter to Mr Shenoy"
   subtitle: ""
 work_type: letter
 authors: []

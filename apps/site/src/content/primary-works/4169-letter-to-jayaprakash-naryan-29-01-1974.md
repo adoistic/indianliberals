@@ -1,7 +1,7 @@
 ---
 id: 4169-letter-to-jayaprakash-naryan-29-01-1974
 title:
-  main: "[Letter to Jayaprakash Naryan]"
+  main: "Letter to Jayaprakash Naryan"
   subtitle: ""
 work_type: letter
 authors:

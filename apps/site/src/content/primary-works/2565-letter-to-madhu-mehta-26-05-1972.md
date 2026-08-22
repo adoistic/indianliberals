@@ -1,7 +1,7 @@
 ---
 id: 2565-letter-to-madhu-mehta-26-05-1972
 title:
-  main: "[Letter to Madhu Mehta]"
+  main: "Letter to Madhu Mehta"
   subtitle: ""
 work_type: letter
 authors: []

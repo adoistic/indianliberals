@@ -1,7 +1,7 @@
 ---
 id: 2694-letter-to-mr-r-n-singh-deo-09-08-1967
 title:
-  main: "[Letter to Mr R N Singh Deo]"
+  main: "Letter to Mr R N Singh Deo"
   subtitle: ""
 work_type: letter
 authors:

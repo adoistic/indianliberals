@@ -1,7 +1,7 @@
 ---
 id: 3852-general-secretarys-letter-no-113-30-12-1965
 title:
-  main: "[General Secretarys Letter no-113]"
+  main: "General Secretarys Letter no-113"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 3028-letter-to-a-p-jain-08-09-1969
 title:
-  main: "[Letter to A P Jain]"
+  main: "Letter to A P Jain"
   subtitle: ""
 work_type: letter
 authors:

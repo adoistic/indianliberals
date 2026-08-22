@@ -1,7 +1,7 @@
 ---
 id: 23-letter-to-a-e-gunawardena-25-03-1971
 title:
-  main: "[Letter to A E Gunawardena]"
+  main: "Letter to A E Gunawardena"
   subtitle: ""
 work_type: letter
 authors: []

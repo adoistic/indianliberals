@@ -1,7 +1,7 @@
 ---
 id: 1999-letter-about-swatantra-party-bills-03-05-1964
 title:
-  main: "[Letter About Swatantra Party Bills]"
+  main: "Letter About Swatantra Party Bills"
   subtitle: ""
 work_type: letter
 authors: []

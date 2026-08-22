@@ -1,7 +1,7 @@
 ---
 id: 1996-letter-to-mr-minoo-masani-25-05-1964
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: correspondence
 authors:

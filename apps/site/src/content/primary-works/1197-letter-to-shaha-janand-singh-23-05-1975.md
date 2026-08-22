@@ -1,7 +1,7 @@
 ---
 id: 1197-letter-to-shaha-janand-singh-23-05-1975
 title:
-  main: "[Letter to Shaha Janand Singh]"
+  main: "Letter to Shaha Janand Singh"
   subtitle: ""
 work_type: letter
 authors:

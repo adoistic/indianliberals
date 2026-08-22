@@ -1,7 +1,7 @@
 ---
 id: 1932-letter-from-tan-singh-26-02-1965
 title:
-  main: "[Letter from Tan Singh]"
+  main: "Letter from Tan Singh"
   subtitle: ""
 work_type: letter
 authors: []

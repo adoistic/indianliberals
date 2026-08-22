@@ -1,7 +1,7 @@
 ---
 id: 2421-letter-to-regional-transport-officer-17-11-1970
 title:
-  main: "[Letter to Regional Transport Officer]"
+  main: "Letter to Regional Transport Officer"
   subtitle: ""
 work_type: letter
 authors: []

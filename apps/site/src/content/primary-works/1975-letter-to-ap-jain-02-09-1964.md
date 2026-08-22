@@ -1,7 +1,7 @@
 ---
 id: 1975-letter-to-ap-jain-02-09-1964
 title:
-  main: "[Letter to AP Jain]"
+  main: "Letter to AP Jain"
   subtitle: ""
 work_type: letter
 authors:

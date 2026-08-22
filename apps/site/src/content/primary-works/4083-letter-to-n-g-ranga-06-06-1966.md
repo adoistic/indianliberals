@@ -1,7 +1,7 @@
 ---
 id: 4083-letter-to-n-g-ranga-06-06-1966
 title:
-  main: "[Letter to N G Ranga]"
+  main: "Letter to N G Ranga"
   subtitle: ""
 work_type: letter
 authors:

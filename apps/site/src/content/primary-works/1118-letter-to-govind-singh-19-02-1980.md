@@ -1,7 +1,7 @@
 ---
 id: 1118-letter-to-govind-singh-19-02-1980
 title:
-  main: "[Letter to Govind Singh]"
+  main: "Letter to Govind Singh"
   subtitle: ""
 work_type: letter
 authors:

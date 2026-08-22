@@ -1,7 +1,7 @@
 ---
 id: 1498-letter-to-gopal-krishna-08-03-1974
 title:
-  main: "[Letter to Gopal Krishna]"
+  main: "Letter to Gopal Krishna"
   subtitle: ""
 work_type: letter
 authors: []

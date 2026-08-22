@@ -1,7 +1,7 @@
 ---
 id: 423-for-favour-of-publication-11-04-1969
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: letter
 work_type_source: summary

@@ -1,7 +1,7 @@
 ---
 id: 6125-letter-to-george-fernanded-04-05-1970
 title:
-  main: "[Letter to George Fernanded]"
+  main: "Letter to George Fernanded"
   subtitle: ""
 work_type: letter
 authors: []

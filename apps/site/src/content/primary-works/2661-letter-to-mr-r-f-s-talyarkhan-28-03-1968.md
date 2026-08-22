@@ -1,7 +1,7 @@
 ---
 id: 2661-letter-to-mr-r-f-s-talyarkhan-28-03-1968
 title:
-  main: "[Letter to Mr R F S Talyarkhan]"
+  main: "Letter to Mr R F S Talyarkhan"
   subtitle: ""
 work_type: letter
 authors:

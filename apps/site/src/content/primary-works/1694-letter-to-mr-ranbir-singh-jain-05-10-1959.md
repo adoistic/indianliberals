@@ -1,7 +1,7 @@
 ---
 id: 1694-letter-to-mr-ranbir-singh-jain-05-10-1959
 title:
-  main: "[Letter to Mr Ranbir Singh Jain]"
+  main: "Letter to Mr Ranbir Singh Jain"
   subtitle: ""
 work_type: letter
 authors: []

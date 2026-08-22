@@ -1,7 +1,7 @@
 ---
 id: 3182-letter-to-v-t-sreenivasan-31-05-1973
 title:
-  main: "[Letter to V T Sreenivasan]"
+  main: "Letter to V T Sreenivasan"
   subtitle: ""
 work_type: correspondence
 authors:

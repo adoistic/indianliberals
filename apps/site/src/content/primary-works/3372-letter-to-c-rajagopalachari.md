@@ -1,7 +1,7 @@
 ---
 id: 3372-letter-to-c-rajagopalachari
 title:
-  main: "[Letter to C Rajagopalachari]"
+  main: "Letter to C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors:

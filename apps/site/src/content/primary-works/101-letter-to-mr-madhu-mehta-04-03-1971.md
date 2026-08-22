@@ -1,7 +1,7 @@
 ---
 id: 101-letter-to-mr-madhu-mehta-04-03-1971
 title:
-  main: "[Letter to Mr Madhu Mehta]"
+  main: "Letter to Mr Madhu Mehta"
   subtitle: ""
 work_type: letter
 authors:

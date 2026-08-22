@@ -1,7 +1,7 @@
 ---
 id: 2033-swatantra-party-circular-06-12-1963
 title:
-  main: "[Swatantra Party Circular]"
+  main: "Swatantra Party Circular"
   subtitle: ""
 work_type: circular
 work_type_source: filename

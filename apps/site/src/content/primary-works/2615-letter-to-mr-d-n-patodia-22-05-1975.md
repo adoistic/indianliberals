@@ -1,7 +1,7 @@
 ---
 id: 2615-letter-to-mr-d-n-patodia-22-05-1975
 title:
-  main: "[Letter to Mr D N Patodia]"
+  main: "Letter to Mr D N Patodia"
   subtitle: ""
 work_type: letter
 authors:

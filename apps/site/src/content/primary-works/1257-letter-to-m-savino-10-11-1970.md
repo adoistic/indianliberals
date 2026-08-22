@@ -1,7 +1,7 @@
 ---
 id: 1257-letter-to-m-savino-10-11-1970
 title:
-  main: "[Letter to M Savino]"
+  main: "Letter to M Savino"
   subtitle: ""
 work_type: letter
 authors:

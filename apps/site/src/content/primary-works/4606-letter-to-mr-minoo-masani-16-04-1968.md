@@ -1,7 +1,7 @@
 ---
 id: 4606-letter-to-mr-minoo-masani-16-04-1968
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

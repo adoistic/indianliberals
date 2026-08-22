@@ -1,7 +1,7 @@
 ---
 id: 13-letter-to-mr-nagen-bakshi-29-03-1971
 title:
-  main: "[Letter to Mr Nagen Bakshi]"
+  main: "Letter to Mr Nagen Bakshi"
   subtitle: ""
 work_type: letter
 authors:

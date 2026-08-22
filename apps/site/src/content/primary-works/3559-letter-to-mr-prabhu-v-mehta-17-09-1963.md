@@ -1,7 +1,7 @@
 ---
 id: 3559-letter-to-mr-prabhu-v-mehta-17-09-1963
 title:
-  main: "[Letter to Mr Prabhu V Mehta]"
+  main: "Letter to Mr Prabhu V Mehta"
   subtitle: ""
 work_type: letter
 authors:

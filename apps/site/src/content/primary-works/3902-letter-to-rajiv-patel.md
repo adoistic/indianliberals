@@ -1,7 +1,7 @@
 ---
 id: 3902-letter-to-rajiv-patel
 title:
-  main: "[Letter to Rajiv Patel]"
+  main: "Letter to Rajiv Patel"
   subtitle: ""
 work_type: letter
 work_type_source: filename

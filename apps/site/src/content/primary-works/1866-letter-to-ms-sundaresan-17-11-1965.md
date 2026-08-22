@@ -1,7 +1,7 @@
 ---
 id: 1866-letter-to-ms-sundaresan-17-11-1965
 title:
-  main: "[Letter to MS Sundaresan]"
+  main: "Letter to MS Sundaresan"
   subtitle: ""
 work_type: letter
 authors:

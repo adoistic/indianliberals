@@ -1,7 +1,7 @@
 ---
 id: 5028-swatantra-party-minutes-of-meeting-28-04-1964
 title:
-  main: "[Swatantra Party Minutes of Meeting]"
+  main: "Swatantra Party Minutes of Meeting"
   subtitle: ""
 work_type: minutes
 work_type_source: filename

@@ -1,7 +1,7 @@
 ---
 id: 2362-letter-to-mr-s-v-raju-22-11-1979
 title:
-  main: "[Letter to Mr S V Raju]"
+  main: "Letter to Mr S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 3912-general-secretarys-letter-no-166-04-12-1967
 title:
-  main: "[General Secretarys Letter no-166]"
+  main: "General Secretarys Letter no-166"
   subtitle: ""
 work_type: letter
 work_type_source: filename

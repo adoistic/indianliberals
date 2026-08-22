@@ -1,7 +1,7 @@
 ---
 id: 2025-swatantra-party-circular-29-02-1964
 title:
-  main: "[Swatantra Party Circular]"
+  main: "Swatantra Party Circular"
   subtitle: ""
 work_type: circular
 work_type_source: filename

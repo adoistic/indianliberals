@@ -1,7 +1,7 @@
 ---
 id: 66-letter-to-mr-p-b-meckoni-17-03-1971
 title:
-  main: "[Letter to Mr P B Meckoni]"
+  main: "Letter to Mr P B Meckoni"
   subtitle: ""
 work_type: letter
 authors:

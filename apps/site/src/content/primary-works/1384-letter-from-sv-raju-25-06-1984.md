@@ -1,7 +1,7 @@
 ---
 id: 1384-letter-from-sv-raju-25-06-1984
 title:
-  main: "[Letter from SV Raju]"
+  main: "Letter from SV Raju"
   subtitle: ""
 work_type: letter
 authors:

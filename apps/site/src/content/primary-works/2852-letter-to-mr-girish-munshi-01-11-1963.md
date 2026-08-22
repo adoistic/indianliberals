@@ -1,7 +1,7 @@
 ---
 id: 2852-letter-to-mr-girish-munshi-01-11-1963
 title:
-  main: "[Letter to Mr Girish Munshi]"
+  main: "Letter to Mr Girish Munshi"
   subtitle: ""
 work_type: letter
 authors: []

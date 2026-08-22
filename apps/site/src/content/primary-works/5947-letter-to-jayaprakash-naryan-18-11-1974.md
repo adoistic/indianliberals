@@ -1,7 +1,7 @@
 ---
 id: 5947-letter-to-jayaprakash-naryan-18-11-1974
 title:
-  main: "[Letter to Jayaprakash Naryan]"
+  main: "Letter to Jayaprakash Naryan"
   subtitle: ""
 work_type: telegram
 authors:

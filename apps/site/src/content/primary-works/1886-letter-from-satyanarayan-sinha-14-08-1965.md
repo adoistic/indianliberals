@@ -1,7 +1,7 @@
 ---
 id: 1886-letter-from-satyanarayan-sinha-14-08-1965
 title:
-  main: "[Letter from Satyanarayan Sinha]"
+  main: "Letter from Satyanarayan Sinha"
   subtitle: ""
 work_type: letter
 authors: []

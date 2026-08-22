@@ -1,7 +1,7 @@
 ---
 id: 3683-letter-to-mrs-n-dandekar-28-07-1975
 title:
-  main: "[Letter to Mrs N Dandekar]"
+  main: "Letter to Mrs N Dandekar"
   subtitle: ""
 work_type: letter
 authors: []

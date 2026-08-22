@@ -1,7 +1,7 @@
 ---
 id: 3140-letter-to-p-s-sridhara-murthy-19-03-1985
 title:
-  main: "[Letter to P S Sridhara Murthy]"
+  main: "Letter to P S Sridhara Murthy"
   subtitle: ""
 work_type: letter
 authors:

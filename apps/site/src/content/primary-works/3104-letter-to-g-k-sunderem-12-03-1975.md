@@ -1,7 +1,7 @@
 ---
 id: 3104-letter-to-g-k-sunderem-12-03-1975
 title:
-  main: "[Letter to G K Sunderem]"
+  main: "Letter to G K Sunderem"
   subtitle: ""
 work_type: letter
 authors:

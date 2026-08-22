@@ -1,7 +1,7 @@
 ---
 id: 1781-letter-to-mr-homi-modi-16-08-1959
 title:
-  main: "[Letter to Mr Homi Modi]"
+  main: "Letter to Mr Homi Modi"
   subtitle: ""
 work_type: letter
 authors: []

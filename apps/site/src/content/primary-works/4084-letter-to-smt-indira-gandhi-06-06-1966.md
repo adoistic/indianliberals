@@ -1,7 +1,7 @@
 ---
 id: 4084-letter-to-smt-indira-gandhi-06-06-1966
 title:
-  main: "[Letter to Smt Indira Gandhi]"
+  main: "Letter to Smt Indira Gandhi"
   subtitle: ""
 work_type: letter
 authors:

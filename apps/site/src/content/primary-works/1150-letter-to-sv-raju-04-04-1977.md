@@ -1,7 +1,7 @@
 ---
 id: 1150-letter-to-sv-raju-04-04-1977
 title:
-  main: "[Letter to SV Raju]"
+  main: "Letter to SV Raju"
   subtitle: ""
 work_type: letter
 authors:

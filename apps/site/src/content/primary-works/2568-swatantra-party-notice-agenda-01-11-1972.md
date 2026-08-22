@@ -1,7 +1,7 @@
 ---
 id: 2568-swatantra-party-notice-agenda-01-11-1972
 title:
-  main: "[Swatantra Party Notice & Agenda]"
+  main: "Swatantra Party Notice & Agenda"
   subtitle: ""
 work_type: notice
 work_type_source: summary

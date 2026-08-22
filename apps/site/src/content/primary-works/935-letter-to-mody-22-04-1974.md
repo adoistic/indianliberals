@@ -1,7 +1,7 @@
 ---
 id: 935-letter-to-mody-22-04-1974
 title:
-  main: "[Letter to Mody]"
+  main: "Letter to Mody"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 4811-in-the-high-court-of-judicature-at-bombay-petition-no-30-of-1995
 title:
-  main: "[In the High Court of judicature at Bombay Petition no-30 of 1995]"
+  main: "In the High Court of judicature at Bombay Petition no-30 of 1995"
   subtitle: ""
 work_type: legal_filing
 work_type_source: summary

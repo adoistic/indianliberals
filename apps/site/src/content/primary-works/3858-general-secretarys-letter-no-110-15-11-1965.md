@@ -1,7 +1,7 @@
 ---
 id: 3858-general-secretarys-letter-no-110-15-11-1965
 title:
-  main: "[General Secretarys Letter no-110]"
+  main: "General Secretarys Letter no-110"
   subtitle: ""
 work_type: letter
 work_type_source: filename

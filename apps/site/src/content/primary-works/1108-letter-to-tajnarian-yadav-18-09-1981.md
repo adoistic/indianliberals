@@ -1,7 +1,7 @@
 ---
 id: 1108-letter-to-tajnarian-yadav-18-09-1981
 title:
-  main: "[Letter to Tajnarian yadav]"
+  main: "Letter to Tajnarian yadav"
   subtitle: ""
 work_type: letter
 authors:

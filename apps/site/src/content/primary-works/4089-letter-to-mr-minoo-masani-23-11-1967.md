@@ -1,7 +1,7 @@
 ---
 id: 4089-letter-to-mr-minoo-masani-23-11-1967
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

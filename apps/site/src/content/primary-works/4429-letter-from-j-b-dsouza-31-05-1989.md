@@ -1,7 +1,7 @@
 ---
 id: 4429-letter-from-j-b-dsouza-31-05-1989
 title:
-  main: "[Letter from J B Dsouza]"
+  main: "Letter from J B Dsouza"
   subtitle: ""
 work_type: letter
 authors: []

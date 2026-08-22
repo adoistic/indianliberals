@@ -1,7 +1,7 @@
 ---
 id: 5256-letter-to-mr-minoo-masani-31-10-1959
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: telegram
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 5308-letter-to-s-l-pareak-21-09-1959
 title:
-  main: "[Letter to S L Pareak]"
+  main: "Letter to S L Pareak"
   subtitle: ""
 work_type: letter
 authors: []

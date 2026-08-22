@@ -1,7 +1,7 @@
 ---
 id: 3096-letter-from-cc-desai-29-02-1968
 title:
-  main: "[Letter from CC Desai]"
+  main: "Letter from CC Desai"
   subtitle: ""
 work_type: letter
 authors: []

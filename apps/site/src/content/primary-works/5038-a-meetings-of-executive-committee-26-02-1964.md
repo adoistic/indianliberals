@@ -1,7 +1,7 @@
 ---
 id: 5038-a-meetings-of-executive-committee-26-02-1964
 title:
-  main: "[A Meetings of Executive Committee]"
+  main: "A Meetings of Executive Committee"
   subtitle: ""
 work_type: office_record
 work_type_source: summary

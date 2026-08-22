@@ -1,7 +1,7 @@
 ---
 id: 5873-letter-to-b-p-prem-07-11-1967
 title:
-  main: "[Letter to B P Prem]"
+  main: "Letter to B P Prem"
   subtitle: ""
 work_type: letter
 authors:

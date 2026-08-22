@@ -1,7 +1,7 @@
 ---
 id: 1819-letter-to-hh-maharawal-16-07-1959
 title:
-  main: "[Letter to HH Maharawal]"
+  main: "Letter to HH Maharawal"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 2381-letter-to-mr-lingappa-05-03-1975
 title:
-  main: "[Letter to Mr Lingappa]"
+  main: "Letter to Mr Lingappa"
   subtitle: ""
 work_type: letter
 authors: []

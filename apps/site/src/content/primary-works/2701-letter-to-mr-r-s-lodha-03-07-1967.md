@@ -1,7 +1,7 @@
 ---
 id: 2701-letter-to-mr-r-s-lodha-03-07-1967
 title:
-  main: "[Letter to Mr R S Lodha]"
+  main: "Letter to Mr R S Lodha"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 4158-letter-to-mohan-singh-04-06-1999
 title:
-  main: "[Letter to Mohan Singh]"
+  main: "Letter to Mohan Singh"
   subtitle: ""
 work_type: letter
 authors:

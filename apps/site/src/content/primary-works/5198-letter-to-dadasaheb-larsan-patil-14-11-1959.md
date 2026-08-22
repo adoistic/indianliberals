@@ -1,7 +1,7 @@
 ---
 id: 5198-letter-to-dadasaheb-larsan-patil-14-11-1959
 title:
-  main: "[Letter to Dadasaheb Larsan Patil]"
+  main: "Letter to Dadasaheb Larsan Patil"
   subtitle: ""
 work_type: letter
 authors:

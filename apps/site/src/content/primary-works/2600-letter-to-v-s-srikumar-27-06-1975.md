@@ -1,7 +1,7 @@
 ---
 id: 2600-letter-to-v-s-srikumar-27-06-1975
 title:
-  main: "[Letter to V S Srikumar]"
+  main: "Letter to V S Srikumar"
   subtitle: ""
 work_type: letter
 authors: []

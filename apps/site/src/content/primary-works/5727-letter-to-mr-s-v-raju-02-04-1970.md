@@ -1,7 +1,7 @@
 ---
 id: 5727-letter-to-mr-s-v-raju-02-04-1970
 title:
-  main: "[Letter to Mr S V Raju]"
+  main: "Letter to Mr S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 1114-letter-to-j-venkiteswaran-24-03-1980
 title:
-  main: "[Letter to J Venkiteswaran]"
+  main: "Letter to J Venkiteswaran"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 5726-telex-message-from-s-v-raju-to-minoo-masani-02-04-1970
 title:
-  main: "[Telex Message From S V Raju to Minoo Masani]"
+  main: "Telex Message From S V Raju to Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

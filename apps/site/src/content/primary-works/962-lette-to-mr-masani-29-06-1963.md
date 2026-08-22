@@ -1,7 +1,7 @@
 ---
 id: 962-lette-to-mr-masani-29-06-1963
 title:
-  main: "[Lette to Mr Masani]"
+  main: "Lette to Mr Masani"
   subtitle: ""
 work_type: letter
 authors: []

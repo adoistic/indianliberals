@@ -1,7 +1,7 @@
 ---
 id: 5396-herald-wilson-sold-his-memorie-to-sunday-times
 title:
-  main: "[Herald Wilson sold his memorie to Sunday Times]"
+  main: "Herald Wilson sold his memorie to Sunday Times"
   subtitle: ""
 work_type: press_clipping
 work_type_source: summary

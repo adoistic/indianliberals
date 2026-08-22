@@ -1,7 +1,7 @@
 ---
 id: 5336-letter-to-praduman-kumar-14-09-1959
 title:
-  main: "[Letter to Praduman kumar]"
+  main: "Letter to Praduman kumar"
   subtitle: ""
 work_type: letter
 authors: []

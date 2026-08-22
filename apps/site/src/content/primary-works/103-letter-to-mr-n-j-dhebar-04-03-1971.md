@@ -1,7 +1,7 @@
 ---
 id: 103-letter-to-mr-n-j-dhebar-04-03-1971
 title:
-  main: "[Letter to Mr N J Dhebar]"
+  main: "Letter to Mr N J Dhebar"
   subtitle: ""
 work_type: letter
 authors:

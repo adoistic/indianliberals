@@ -1,7 +1,7 @@
 ---
 id: 1362-letter-from-sv-raju-11-07-1977
 title:
-  main: "[Letter from SV Raju]"
+  main: "Letter from SV Raju"
   subtitle: ""
 work_type: letter
 authors:

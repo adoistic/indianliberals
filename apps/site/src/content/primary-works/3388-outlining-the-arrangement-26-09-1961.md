@@ -1,7 +1,7 @@
 ---
 id: 3388-outlining-the-arrangement-26-09-1961
 title:
-  main: "[Outlining the Arrangement]"
+  main: "Outlining the Arrangement"
   subtitle: ""
 work_type: letter
 authors: []

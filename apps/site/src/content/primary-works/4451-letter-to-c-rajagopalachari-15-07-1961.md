@@ -1,7 +1,7 @@
 ---
 id: 4451-letter-to-c-rajagopalachari-15-07-1961
 title:
-  main: "[Letter to C Rajagopalachari]"
+  main: "Letter to C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors:

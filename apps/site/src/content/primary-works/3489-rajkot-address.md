@@ -1,7 +1,7 @@
 ---
 id: 3489-rajkot-address
 title:
-  main: "[Rajkot Address]"
+  main: "Rajkot Address"
   subtitle: ""
 work_type: roster
 work_type_source: classifier

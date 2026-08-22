@@ -1,7 +1,7 @@
 ---
 id: 4978-letter-to-k-santhanam-18-07-1975
 title:
-  main: "[Letter to K Santhanam]"
+  main: "Letter to K Santhanam"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 3176-letter-to-s-v-raju-10-09-1962
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors:

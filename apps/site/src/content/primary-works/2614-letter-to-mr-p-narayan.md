@@ -1,7 +1,7 @@
 ---
 id: 2614-letter-to-mr-p-narayan
 title:
-  main: "[Letter to Mr P Narayan]"
+  main: "Letter to Mr P Narayan"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 5066-letter-to-p-s-koppikar-26-04-1968
 title:
-  main: "[Letter to P S Koppikar]"
+  main: "Letter to P S Koppikar"
   subtitle: ""
 work_type: letter
 authors:

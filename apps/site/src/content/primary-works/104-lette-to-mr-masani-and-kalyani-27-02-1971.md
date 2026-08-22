@@ -1,7 +1,7 @@
 ---
 id: 104-lette-to-mr-masani-and-kalyani-27-02-1971
 title:
-  main: "[Lette to Mr Masani and Kalyani]"
+  main: "Lette to Mr Masani and Kalyani"
   subtitle: ""
 work_type: letter
 authors: []

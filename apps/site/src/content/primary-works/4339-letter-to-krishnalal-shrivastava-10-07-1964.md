@@ -1,7 +1,7 @@
 ---
 id: 4339-letter-to-krishnalal-shrivastava-10-07-1964
 title:
-  main: "[Letter to Krishnalal Shrivastava]"
+  main: "Letter to Krishnalal Shrivastava"
   subtitle: ""
 work_type: letter
 authors: []

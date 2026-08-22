@@ -1,7 +1,7 @@
 ---
 id: 5714-letter-to-mr-k-sundaram-04-04-1970
 title:
-  main: "[Letter to Mr K Sundaram]"
+  main: "Letter to Mr K Sundaram"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 2511-letter-to-k-c-joseph
 title:
-  main: "[Letter to K C Joseph]"
+  main: "Letter to K C Joseph"
   subtitle: ""
 work_type: letter
 authors: []

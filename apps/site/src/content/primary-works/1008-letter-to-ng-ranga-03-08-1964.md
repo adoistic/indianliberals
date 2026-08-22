@@ -1,7 +1,7 @@
 ---
 id: 1008-letter-to-ng-ranga-03-08-1964
 title:
-  main: "[Letter to NG Ranga]"
+  main: "Letter to NG Ranga"
   subtitle: ""
 work_type: letter
 authors:

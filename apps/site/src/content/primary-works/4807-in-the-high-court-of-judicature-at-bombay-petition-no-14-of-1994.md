@@ -1,7 +1,7 @@
 ---
 id: 4807-in-the-high-court-of-judicature-at-bombay-petition-no-14-of-1994
 title:
-  main: "[In the High Court of judicature at Bombay Petition no-14 of 1994]"
+  main: "In the High Court of judicature at Bombay Petition no-14 of 1994"
   subtitle: ""
 work_type: legal_filing
 work_type_source: summary

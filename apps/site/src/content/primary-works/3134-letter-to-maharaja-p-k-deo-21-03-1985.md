@@ -1,7 +1,7 @@
 ---
 id: 3134-letter-to-maharaja-p-k-deo-21-03-1985
 title:
-  main: "[Letter to Maharaja P K Deo]"
+  main: "Letter to Maharaja P K Deo"
   subtitle: ""
 work_type: correspondence
 authors:

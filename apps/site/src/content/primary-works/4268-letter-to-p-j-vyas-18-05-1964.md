@@ -1,7 +1,7 @@
 ---
 id: 4268-letter-to-p-j-vyas-18-05-1964
 title:
-  main: "[Letter to P J Vyas]"
+  main: "Letter to P J Vyas"
   subtitle: ""
 work_type: letter
 authors:

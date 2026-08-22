@@ -1,7 +1,7 @@
 ---
 id: 4975-a-speech-delivered-at-chatham-home-11-07-1975
 title:
-  main: "[A Speech Delivered at Chatham home]"
+  main: "A Speech Delivered at Chatham home"
   subtitle: ""
 work_type: speech
 authors: []

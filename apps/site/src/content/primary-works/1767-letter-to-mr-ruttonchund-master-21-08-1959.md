@@ -1,7 +1,7 @@
 ---
 id: 1767-letter-to-mr-ruttonchund-master-21-08-1959
 title:
-  main: "[Letter to Mr Ruttonchund Master]"
+  main: "Letter to Mr Ruttonchund Master"
   subtitle: ""
 work_type: letter
 authors: []

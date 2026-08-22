@@ -1,7 +1,7 @@
 ---
 id: 1852-swatantra-party-uttar-pradesh-constituency
 title:
-  main: "[Swatantra Party Uttar Pradesh Constituency]"
+  main: "Swatantra Party Uttar Pradesh Constituency"
   subtitle: ""
 work_type: roster
 work_type_source: summary

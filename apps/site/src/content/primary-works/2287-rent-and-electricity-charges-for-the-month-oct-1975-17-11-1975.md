@@ -1,7 +1,7 @@
 ---
 id: 2287-rent-and-electricity-charges-for-the-month-oct-1975-17-11-1975
 title:
-  main: "[Rent and Electricity Charges For The Month Oct-1975]"
+  main: "Rent and Electricity Charges For The Month Oct-1975"
   subtitle: ""
 work_type: letter
 authors: []

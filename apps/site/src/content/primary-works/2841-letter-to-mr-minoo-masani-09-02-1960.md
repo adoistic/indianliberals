@@ -1,7 +1,7 @@
 ---
 id: 2841-letter-to-mr-minoo-masani-09-02-1960
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

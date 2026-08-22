@@ -1,7 +1,7 @@
 ---
 id: 3093-letter-to-n-g-ranga-26-04-1968
 title:
-  main: "[Letter to N G Ranga]"
+  main: "Letter to N G Ranga"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 1027-letter-to-shanu-pratap-singh-25-03-1963
 title:
-  main: "[Letter to Shanu pratap Singh]"
+  main: "Letter to Shanu pratap Singh"
   subtitle: ""
 work_type: letter
 authors:

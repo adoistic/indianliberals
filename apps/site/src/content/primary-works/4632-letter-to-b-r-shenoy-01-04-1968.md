@@ -1,7 +1,7 @@
 ---
 id: 4632-letter-to-b-r-shenoy-01-04-1968
 title:
-  main: "[Letter to B R Shenoy]"
+  main: "Letter to B R Shenoy"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 5243-letter-to-a-d-shroff
 title:
-  main: "[Letter to A D Shroff]"
+  main: "Letter to A D Shroff"
   subtitle: ""
 work_type: letter
 authors:

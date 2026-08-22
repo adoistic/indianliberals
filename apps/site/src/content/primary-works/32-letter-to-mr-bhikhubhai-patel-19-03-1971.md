@@ -1,7 +1,7 @@
 ---
 id: 32-letter-to-mr-bhikhubhai-patel-19-03-1971
 title:
-  main: "[Letter to Mr Bhikhubhai Patel]"
+  main: "Letter to Mr Bhikhubhai Patel"
   subtitle: ""
 work_type: letter
 authors: []

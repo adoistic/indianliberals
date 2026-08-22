@@ -1,7 +1,7 @@
 ---
 id: 5162-letter-to-sam-seghal-01-12-1959
 title:
-  main: "[Letter to Sam Seghal]"
+  main: "Letter to Sam Seghal"
   subtitle: ""
 work_type: letter
 authors:

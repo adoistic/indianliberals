@@ -1,7 +1,7 @@
 ---
 id: 4977-letter-to-mr-minoo-masani-15-07-1975
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

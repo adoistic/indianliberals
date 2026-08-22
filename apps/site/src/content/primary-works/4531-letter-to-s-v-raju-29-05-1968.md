@@ -1,7 +1,7 @@
 ---
 id: 4531-letter-to-s-v-raju-29-05-1968
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: telegram
 authors: []

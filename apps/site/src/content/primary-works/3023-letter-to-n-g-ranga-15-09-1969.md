@@ -1,7 +1,7 @@
 ---
 id: 3023-letter-to-n-g-ranga-15-09-1969
 title:
-  main: "[Letter to N G Ranga]"
+  main: "Letter to N G Ranga"
   subtitle: ""
 work_type: letter
 authors: []

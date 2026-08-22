@@ -1,7 +1,7 @@
 ---
 id: 804-letter-to-bd-pandey-11-09-1974
 title:
-  main: "[Letter to BD Pandey]"
+  main: "Letter to BD Pandey"
   subtitle: ""
 work_type: letter
 authors:

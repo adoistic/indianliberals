@@ -1,7 +1,7 @@
 ---
 id: 6105-letter-to-g-mahadevan-25-06-1970
 title:
-  main: "[Letter to G Mahadevan]"
+  main: "Letter to G Mahadevan"
   subtitle: ""
 work_type: letter
 authors:

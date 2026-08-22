@@ -1,7 +1,7 @@
 ---
 id: 2359-letter-to-the-deputy-commissioner-of-police-19-03-1980
 title:
-  main: "[Letter to The Deputy Commissioner Of Police]"
+  main: "Letter to The Deputy Commissioner Of Police"
   subtitle: ""
 work_type: letter
 authors:

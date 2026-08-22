@@ -1,7 +1,7 @@
 ---
 id: 719-for-favour-of-publication-04-04-1964
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: press_note
 work_type_source: classifier

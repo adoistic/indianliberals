@@ -1,7 +1,7 @@
 ---
 id: 3044-members-who-have-expressed-three-financial-comittee
 title:
-  main: "[Members who have Expressed Three Financial Comittee]"
+  main: "Members who have Expressed Three Financial Comittee"
   subtitle: ""
 work_type: roster
 work_type_source: classifier

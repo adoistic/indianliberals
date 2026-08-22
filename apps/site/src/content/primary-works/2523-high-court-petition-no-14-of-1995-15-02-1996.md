@@ -1,7 +1,7 @@
 ---
 id: 2523-high-court-petition-no-14-of-1995-15-02-1996
 title:
-  main: "[High Court Petition No 14 of 1995]"
+  main: "High Court Petition No 14 of 1995"
   subtitle: ""
 work_type: letter
 authors: []

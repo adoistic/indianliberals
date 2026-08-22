@@ -1,7 +1,7 @@
 ---
 id: 1679-letter-to-mr-c-rajagopalachari-20-10-1959
 title:
-  main: "[Letter to Mr C Rajagopalachari]"
+  main: "Letter to Mr C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors:

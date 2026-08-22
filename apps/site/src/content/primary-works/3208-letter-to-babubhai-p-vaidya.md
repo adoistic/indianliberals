@@ -1,7 +1,7 @@
 ---
 id: 3208-letter-to-babubhai-p-vaidya
 title:
-  main: "[Letter to Babubhai P Vaidya]"
+  main: "Letter to Babubhai P Vaidya"
   subtitle: ""
 work_type: letter
 authors: []

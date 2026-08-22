@@ -1,7 +1,7 @@
 ---
 id: 1185-mr-basudu-ray-of-statesman-who-was-leaving-for-calcutta-26-11-1975
 title:
-  main: "[Mr Basudu Ray of Statesman who was Leaving for Calcutta]"
+  main: "Mr Basudu Ray of Statesman who was Leaving for Calcutta"
   subtitle: ""
 work_type: telegram
 authors:

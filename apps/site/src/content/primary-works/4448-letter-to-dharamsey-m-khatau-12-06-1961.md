@@ -1,7 +1,7 @@
 ---
 id: 4448-letter-to-dharamsey-m-khatau-12-06-1961
 title:
-  main: "[Letter to Dharamsey M Khatau]"
+  main: "Letter to Dharamsey M Khatau"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 1691-letter-to-raja-bahadur-singh-07-10-1959
 title:
-  main: "[Letter to Raja Bahadur Singh]"
+  main: "Letter to Raja Bahadur Singh"
   subtitle: ""
 work_type: letter
 authors: []

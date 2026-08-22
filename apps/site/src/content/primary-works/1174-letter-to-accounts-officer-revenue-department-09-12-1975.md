@@ -1,7 +1,7 @@
 ---
 id: 1174-letter-to-accounts-officer-revenue-department-09-12-1975
 title:
-  main: "[Letter to Accounts Officer Revenue Department]"
+  main: "Letter to Accounts Officer Revenue Department"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 1338-letter-to-ram-subhag-singh-04-04-1967
 title:
-  main: "[Letter to Ram Subhag Singh]"
+  main: "Letter to Ram Subhag Singh"
   subtitle: ""
 work_type: letter
 authors:

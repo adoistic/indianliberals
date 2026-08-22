@@ -1,7 +1,7 @@
 ---
 id: 924-letter-to-mathu-mehta-20-05-1974
 title:
-  main: "[Letter to Mathu Mehta]"
+  main: "Letter to Mathu Mehta"
   subtitle: ""
 work_type: letter
 authors: []

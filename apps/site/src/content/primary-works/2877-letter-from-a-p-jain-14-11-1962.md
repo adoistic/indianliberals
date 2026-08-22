@@ -1,7 +1,7 @@
 ---
 id: 2877-letter-from-a-p-jain-14-11-1962
 title:
-  main: "[letter from A P Jain]"
+  main: "letter from A P Jain"
   subtitle: ""
 work_type: letter
 authors: []

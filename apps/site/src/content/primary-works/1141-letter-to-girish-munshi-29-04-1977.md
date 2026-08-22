@@ -1,7 +1,7 @@
 ---
 id: 1141-letter-to-girish-munshi-29-04-1977
 title:
-  main: "[Letter to Girish Munshi]"
+  main: "Letter to Girish Munshi"
   subtitle: ""
 work_type: letter
 authors:

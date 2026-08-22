@@ -1,7 +1,7 @@
 ---
 id: 5720-letter-to-mr-n-g-ranga-01-04-1970
 title:
-  main: "[Letter to Mr N G Ranga]"
+  main: "Letter to Mr N G Ranga"
   subtitle: ""
 work_type: letter
 authors: []

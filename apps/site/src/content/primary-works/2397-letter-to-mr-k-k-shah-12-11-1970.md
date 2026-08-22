@@ -1,7 +1,7 @@
 ---
 id: 2397-letter-to-mr-k-k-shah-12-11-1970
 title:
-  main: "[Letter to Mr K K Shah]"
+  main: "Letter to Mr K K Shah"
   subtitle: ""
 work_type: letter
 authors:

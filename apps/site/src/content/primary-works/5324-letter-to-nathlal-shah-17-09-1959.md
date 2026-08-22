@@ -1,7 +1,7 @@
 ---
 id: 5324-letter-to-nathlal-shah-17-09-1959
 title:
-  main: "[Letter to Nathlal Shah]"
+  main: "Letter to Nathlal Shah"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 4160-letter-to-s-v-raju-04-07-1997
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

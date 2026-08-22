@@ -1,7 +1,7 @@
 ---
 id: 5651-letter-to-b-g-verghese-28-10-1976
 title:
-  main: "[Letter to B G Verghese]"
+  main: "Letter to B G Verghese"
   subtitle: ""
 work_type: letter
 authors:

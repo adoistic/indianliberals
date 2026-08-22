@@ -1,7 +1,7 @@
 ---
 id: 2457-letter-to-mr-a-p-sinha
 title:
-  main: "[Letter to Mr A P Sinha]"
+  main: "Letter to Mr A P Sinha"
   subtitle: ""
 work_type: letter
 authors:

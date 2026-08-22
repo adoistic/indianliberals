@@ -1,7 +1,7 @@
 ---
 id: 2360-letter-to-shri-ghasirambabu-majhi-07-12-1979
 title:
-  main: "[Letter to Shri Ghasirambabu Majhi]"
+  main: "Letter to Shri Ghasirambabu Majhi"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 2311-rent-and-electricity-charges-for-the-month-sep-1974-30-10-1974
 title:
-  main: "[Rent and Electricity Charges For The Month Sep-1974]"
+  main: "Rent and Electricity Charges For The Month Sep-1974"
   subtitle: ""
 work_type: financial_record
 work_type_source: classifier

@@ -1,7 +1,7 @@
 ---
 id: 1893-letter-to-ap-jain-05-08-1965
 title:
-  main: "[Letter to AP Jain]"
+  main: "Letter to AP Jain"
   subtitle: ""
 work_type: letter
 authors:

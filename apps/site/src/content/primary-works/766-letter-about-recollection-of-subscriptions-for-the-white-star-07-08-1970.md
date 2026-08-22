@@ -1,7 +1,7 @@
 ---
 id: 766-letter-about-recollection-of-subscriptions-for-the-white-star-07-08-1970
 title:
-  main: "[Letter About Recollection of Subscriptions for the White Star]"
+  main: "Letter About Recollection of Subscriptions for the White Star"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 2751-letter-to-mr-n-g-ranga-02-11-1967
 title:
-  main: "[Letter to Mr N G Ranga]"
+  main: "Letter to Mr N G Ranga"
   subtitle: ""
 work_type: letter
 authors:

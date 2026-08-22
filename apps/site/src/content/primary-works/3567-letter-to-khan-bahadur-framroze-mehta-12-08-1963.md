@@ -1,7 +1,7 @@
 ---
 id: 3567-letter-to-khan-bahadur-framroze-mehta-12-08-1963
 title:
-  main: "[Letter to Khan Bahadur Framroze Mehta]"
+  main: "Letter to Khan Bahadur Framroze Mehta"
   subtitle: ""
 work_type: letter
 authors:

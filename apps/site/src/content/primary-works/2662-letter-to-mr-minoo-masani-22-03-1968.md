@@ -1,7 +1,7 @@
 ---
 id: 2662-letter-to-mr-minoo-masani-22-03-1968
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

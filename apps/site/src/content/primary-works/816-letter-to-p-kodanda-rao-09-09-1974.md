@@ -1,7 +1,7 @@
 ---
 id: 816-letter-to-p-kodanda-rao-09-09-1974
 title:
-  main: "[Letter to P kodanda Rao]"
+  main: "Letter to P kodanda Rao"
   subtitle: ""
 work_type: letter
 authors:

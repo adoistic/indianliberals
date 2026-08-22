@@ -1,7 +1,7 @@
 ---
 id: 2816-letter-to-m-s-aney
 title:
-  main: "[Letter to M S Aney]"
+  main: "Letter to M S Aney"
   subtitle: ""
 work_type: letter
 authors: []

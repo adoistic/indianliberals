@@ -1,7 +1,7 @@
 ---
 id: 6103-letter-to-k-venkatraman-26-06-1970
 title:
-  main: "[Letter to K Venkatraman]"
+  main: "Letter to K Venkatraman"
   subtitle: ""
 work_type: letter
 authors:

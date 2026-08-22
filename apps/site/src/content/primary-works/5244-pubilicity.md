@@ -1,7 +1,7 @@
 ---
 id: 5244-pubilicity
 title:
-  main: "[Pubilicity]"
+  main: "Pubilicity"
   subtitle: ""
 work_type: essay
 work_type_source: classifier

@@ -1,7 +1,7 @@
 ---
 id: 6061-letter-to-the-members-of-the-committee-12-07-1969
 title:
-  main: "[Letter to the Members of the Committee]"
+  main: "Letter to the Members of the Committee"
   subtitle: ""
 work_type: letter
 authors: []

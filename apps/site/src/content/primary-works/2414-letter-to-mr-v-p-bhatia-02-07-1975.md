@@ -1,7 +1,7 @@
 ---
 id: 2414-letter-to-mr-v-p-bhatia-02-07-1975
 title:
-  main: "[Letter to Mr V P Bhatia]"
+  main: "Letter to Mr V P Bhatia"
   subtitle: ""
 work_type: letter
 authors:

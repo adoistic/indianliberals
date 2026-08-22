@@ -1,7 +1,7 @@
 ---
 id: 3175-regarding-income-tax-deduction
 title:
-  main: "[Regarding Income Tax Deduction]"
+  main: "Regarding Income Tax Deduction"
   subtitle: ""
 work_type: financial_record
 work_type_source: classifier

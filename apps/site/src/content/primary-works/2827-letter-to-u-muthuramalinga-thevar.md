@@ -1,7 +1,7 @@
 ---
 id: 2827-letter-to-u-muthuramalinga-thevar
 title:
-  main: "[Letter to U Muthuramalinga Thevar]"
+  main: "Letter to U Muthuramalinga Thevar"
   subtitle: ""
 work_type: letter
 authors: []

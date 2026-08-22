@@ -1,7 +1,7 @@
 ---
 id: 1898-letter-to-mr-minoo-masani-03-08-1965
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

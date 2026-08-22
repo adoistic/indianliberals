@@ -1,7 +1,7 @@
 ---
 id: 2030-letter-to-ap-jain-21-01-1964
 title:
-  main: "[Letter to AP Jain]"
+  main: "Letter to AP Jain"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 4521-letter-to-j-r-d-tata-10-06-1968
 title:
-  main: "[Letter to J R D Tata]"
+  main: "Letter to J R D Tata"
   subtitle: ""
 work_type: letter
 authors:

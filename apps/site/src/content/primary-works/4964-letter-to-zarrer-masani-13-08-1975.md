@@ -1,7 +1,7 @@
 ---
 id: 4964-letter-to-zarrer-masani-13-08-1975
 title:
-  main: "[Letter to Zarrer Masani]"
+  main: "Letter to Zarrer Masani"
   subtitle: ""
 work_type: letter
 authors: []

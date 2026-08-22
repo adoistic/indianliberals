@@ -1,7 +1,7 @@
 ---
 id: 6276-telegram-to-s-v-raju
 title:
-  main: "[Telegram to S V Raju]"
+  main: "Telegram to S V Raju"
   subtitle: ""
 work_type: telegram
 authors: []

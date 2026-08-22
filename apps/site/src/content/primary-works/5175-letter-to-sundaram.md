@@ -1,7 +1,7 @@
 ---
 id: 5175-letter-to-sundaram
 title:
-  main: "[Letter to Sundaram]"
+  main: "Letter to Sundaram"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 1846-swatantra-party-bihar-constituency
 title:
-  main: "[Swatantra Party Bihar Constituency]"
+  main: "Swatantra Party Bihar Constituency"
   subtitle: ""
 work_type: office_record
 work_type_source: summary

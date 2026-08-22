@@ -1,7 +1,7 @@
 ---
 id: 2855-reducing-profits-artificially
 title:
-  main: "[Reducing Profits Artificially]"
+  main: "Reducing Profits Artificially"
   subtitle: ""
 work_type: essay
 authors: []

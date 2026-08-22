@@ -1,7 +1,7 @@
 ---
 id: 3435-letter-to-atal-bihari-bajpayee-29-05-1970
 title:
-  main: "[Letter to Atal Bihari Bajpayee]"
+  main: "Letter to Atal Bihari Bajpayee"
   subtitle: ""
 work_type: letter
 authors:

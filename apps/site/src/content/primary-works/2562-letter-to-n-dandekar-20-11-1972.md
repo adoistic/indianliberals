@@ -1,7 +1,7 @@
 ---
 id: 2562-letter-to-n-dandekar-20-11-1972
 title:
-  main: "[Letter to N Dandekar]"
+  main: "Letter to N Dandekar"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 4180-for-favour-of-publication-18-02-1964
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: letter
 authors:

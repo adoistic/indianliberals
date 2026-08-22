@@ -1,7 +1,7 @@
 ---
 id: 1427-letter-to-is-bhargava-17-09-1974
 title:
-  main: "[Letter to IS Bhargava]"
+  main: "Letter to IS Bhargava"
   subtitle: ""
 work_type: letter
 authors:

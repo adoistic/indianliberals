@@ -1,7 +1,7 @@
 ---
 id: 2350-letter-to-regional-transport-officer-regarding-jeep-no-mrz8939-09-12-1986
 title:
-  main: "[Letter to Regional Transport Officer Regarding Jeep No-MRZ8939]"
+  main: "Letter to Regional Transport Officer Regarding Jeep No-MRZ8939"
   subtitle: ""
 work_type: letter
 authors:

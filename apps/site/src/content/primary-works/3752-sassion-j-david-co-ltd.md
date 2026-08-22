@@ -1,7 +1,7 @@
 ---
 id: 3752-sassion-j-david-co-ltd
 title:
-  main: "[Sassion J David & Co Ltd]"
+  main: "Sassion J David & Co Ltd"
   subtitle: ""
 work_type: letter
 authors: []

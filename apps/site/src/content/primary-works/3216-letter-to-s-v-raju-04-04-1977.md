@@ -1,7 +1,7 @@
 ---
 id: 3216-letter-to-s-v-raju-04-04-1977
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 1412-letter-to-cn-sudhan-04-11-1974
 title:
-  main: "[Letter to CN Sudhan]"
+  main: "Letter to CN Sudhan"
   subtitle: ""
 work_type: letter
 authors:

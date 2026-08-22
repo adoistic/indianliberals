@@ -1,7 +1,7 @@
 ---
 id: 1117-indian-express-27-02-1980
 title:
-  main: "[Indian Express]"
+  main: "Indian Express"
   subtitle: ""
 work_type: letter
 authors: []

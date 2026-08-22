@@ -1,7 +1,7 @@
 ---
 id: 2156-letter-to-radhakrishna-07-04-1975
 title:
-  main: "[Letter to Radhakrishna]"
+  main: "Letter to Radhakrishna"
   subtitle: ""
 work_type: letter
 authors: []

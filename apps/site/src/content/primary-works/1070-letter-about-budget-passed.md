@@ -1,7 +1,7 @@
 ---
 id: 1070-letter-about-budget-passed
 title:
-  main: "[Letter About Budget Passed]"
+  main: "Letter About Budget Passed"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 5334-letter-to-nurgesh-kothwala-14-09-1959
 title:
-  main: "[Letter to Nurgesh kothwala]"
+  main: "Letter to Nurgesh kothwala"
   subtitle: ""
 work_type: letter
 authors: []

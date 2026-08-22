@@ -1,7 +1,7 @@
 ---
 id: 4272-letter-to-jawaharlal-nehru-08-05-1964
 title:
-  main: "[Letter to Jawaharlal Nehru]"
+  main: "Letter to Jawaharlal Nehru"
   subtitle: ""
 work_type: letter
 authors:

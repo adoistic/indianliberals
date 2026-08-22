@@ -1,7 +1,7 @@
 ---
 id: 1489-letter-to-piloo-mody-06-06-1974
 title:
-  main: "[Letter to Piloo Mody]"
+  main: "Letter to Piloo Mody"
   subtitle: ""
 work_type: letter
 authors:

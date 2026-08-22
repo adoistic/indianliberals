@@ -1,7 +1,7 @@
 ---
 id: 3645-homage-to-c-r-the-times-of-india-13-02-1973
 title:
-  main: "[Homage To C R-The Times Of India]"
+  main: "Homage To C R-The Times Of India"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 4734-letter-to-c-rajagopalachari-22-06-1963
 title:
-  main: "[Letter to C Rajagopalachari]"
+  main: "Letter to C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors:

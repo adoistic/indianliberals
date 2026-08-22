@@ -1,7 +1,7 @@
 ---
 id: 86-letter-to-mr-nautamlal-16-03-1971
 title:
-  main: "[Letter to Mr Nautamlal]"
+  main: "Letter to Mr Nautamlal"
   subtitle: ""
 work_type: letter
 authors:

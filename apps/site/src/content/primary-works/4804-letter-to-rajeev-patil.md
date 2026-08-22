@@ -1,7 +1,7 @@
 ---
 id: 4804-letter-to-rajeev-patil
 title:
-  main: "[Letter to Rajeev Patil]"
+  main: "Letter to Rajeev Patil"
   subtitle: ""
 work_type: letter
 work_type_source: filename

@@ -1,7 +1,7 @@
 ---
 id: 1467-letter-from-madhu-mehta-13-07-1974
 title:
-  main: "[Letter from Madhu Mehta]"
+  main: "Letter from Madhu Mehta"
   subtitle: ""
 work_type: letter
 work_type_source: filename

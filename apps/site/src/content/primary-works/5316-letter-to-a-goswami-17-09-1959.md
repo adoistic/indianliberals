@@ -1,7 +1,7 @@
 ---
 id: 5316-letter-to-a-goswami-17-09-1959
 title:
-  main: "[Letter to A Goswami]"
+  main: "Letter to A Goswami"
   subtitle: ""
 work_type: letter
 authors: []

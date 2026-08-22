@@ -1,7 +1,7 @@
 ---
 id: 4148-letter-to-rajiv-patel-10-01-1995
 title:
-  main: "[Letter to Rajiv Patel]"
+  main: "Letter to Rajiv Patel"
   subtitle: ""
 work_type: letter
 authors: []

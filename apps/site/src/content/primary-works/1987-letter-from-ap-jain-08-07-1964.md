@@ -1,7 +1,7 @@
 ---
 id: 1987-letter-from-ap-jain-08-07-1964
 title:
-  main: "[letter from AP Jain]"
+  main: "letter from AP Jain"
   subtitle: ""
 work_type: letter
 authors: []

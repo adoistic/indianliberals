@@ -1,7 +1,7 @@
 ---
 id: 1241-letter-from-n-dandekar-16-11-1970
 title:
-  main: "[Letter from N Dandekar]"
+  main: "Letter from N Dandekar"
   subtitle: ""
 work_type: letter
 authors: []

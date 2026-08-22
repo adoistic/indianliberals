@@ -1,7 +1,7 @@
 ---
 id: 806-letter-to-md-joseph-11-09-1974
 title:
-  main: "[Letter to MD Joseph]"
+  main: "Letter to MD Joseph"
   subtitle: ""
 work_type: letter
 authors:

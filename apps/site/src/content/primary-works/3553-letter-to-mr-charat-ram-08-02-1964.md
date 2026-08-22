@@ -1,7 +1,7 @@
 ---
 id: 3553-letter-to-mr-charat-ram-08-02-1964
 title:
-  main: "[Letter to Mr Charat Ram]"
+  main: "Letter to Mr Charat Ram"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 3110-letter-to-i-s-bhargava-18-02-1975
 title:
-  main: "[Letter to I S Bhargava]"
+  main: "Letter to I S Bhargava"
   subtitle: ""
 work_type: letter
 authors:

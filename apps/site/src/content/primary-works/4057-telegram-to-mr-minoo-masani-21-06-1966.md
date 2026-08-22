@@ -1,7 +1,7 @@
 ---
 id: 4057-telegram-to-mr-minoo-masani-21-06-1966
 title:
-  main: "[Telegram to Mr Minoo Masani]"
+  main: "Telegram to Mr Minoo Masani"
   subtitle: ""
 work_type: telegram
 authors:

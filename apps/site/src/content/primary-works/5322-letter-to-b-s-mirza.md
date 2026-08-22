@@ -1,7 +1,7 @@
 ---
 id: 5322-letter-to-b-s-mirza
 title:
-  main: "[Letter to B S Mirza]"
+  main: "Letter to B S Mirza"
   subtitle: ""
 work_type: letter
 authors:

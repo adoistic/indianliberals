@@ -1,7 +1,7 @@
 ---
 id: 3911-general-secretarys-letter-no-65-04-12-1697
 title:
-  main: "[General Secretarys Letter no-65]"
+  main: "General Secretarys Letter no-65"
   subtitle: ""
 work_type: letter
 authors:

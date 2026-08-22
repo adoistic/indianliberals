@@ -1,7 +1,7 @@
 ---
 id: 916-letter-to-k-sundaram-30-05-1974
 title:
-  main: "[Letter to K Sundaram]"
+  main: "Letter to K Sundaram"
   subtitle: ""
 work_type: letter
 authors:

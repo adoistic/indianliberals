@@ -1,7 +1,7 @@
 ---
 id: 4099-letter-from-p-s-koppiker-06-04-1971
 title:
-  main: "[Letter from P S Koppiker]"
+  main: "Letter from P S Koppiker"
   subtitle: ""
 work_type: letter
 authors: []

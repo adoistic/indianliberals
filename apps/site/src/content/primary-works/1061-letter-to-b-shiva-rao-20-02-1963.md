@@ -1,7 +1,7 @@
 ---
 id: 1061-letter-to-b-shiva-rao-20-02-1963
 title:
-  main: "[Letter to B Shiva Rao]"
+  main: "Letter to B Shiva Rao"
   subtitle: ""
 work_type: letter
 authors:

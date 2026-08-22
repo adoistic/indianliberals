@@ -1,7 +1,7 @@
 ---
 id: 825-letter-to-sridharmurthy-21-08-1974
 title:
-  main: "[Letter to Sridharmurthy]"
+  main: "Letter to Sridharmurthy"
   subtitle: ""
 work_type: letter
 authors:

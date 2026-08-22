@@ -1,7 +1,7 @@
 ---
 id: 3383-second-installment-of-rs20000
 title:
-  main: "[Second Installment of Rs20000]"
+  main: "Second Installment of Rs20000"
   subtitle: ""
 work_type: letter
 authors:

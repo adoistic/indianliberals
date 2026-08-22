@@ -1,7 +1,7 @@
 ---
 id: 3114-letter-to-g-k-sunderem-08-02-1975
 title:
-  main: "[Letter to G K Sunderem]"
+  main: "Letter to G K Sunderem"
   subtitle: ""
 work_type: letter
 authors:

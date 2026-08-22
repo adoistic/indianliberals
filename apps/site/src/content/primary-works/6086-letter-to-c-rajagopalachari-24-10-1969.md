@@ -1,7 +1,7 @@
 ---
 id: 6086-letter-to-c-rajagopalachari-24-10-1969
 title:
-  main: "[Letter to C Rajagopalachari]"
+  main: "Letter to C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors:

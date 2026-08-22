@@ -1,7 +1,7 @@
 ---
 id: 3871-swatantra-party-circular-15-09-1965
 title:
-  main: "[Swatantra party Circular]"
+  main: "Swatantra party Circular"
   subtitle: ""
 work_type: circular
 authors: []

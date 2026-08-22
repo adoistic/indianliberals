@@ -1,7 +1,7 @@
 ---
 id: 1145-letter-to-the-enforcement-officer-11-04-1977
 title:
-  main: "[Letter to the Enforcement Officer]"
+  main: "Letter to the Enforcement Officer"
   subtitle: ""
 work_type: letter
 authors: []

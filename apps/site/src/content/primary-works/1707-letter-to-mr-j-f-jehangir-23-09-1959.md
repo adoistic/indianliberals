@@ -1,7 +1,7 @@
 ---
 id: 1707-letter-to-mr-j-f-jehangir-23-09-1959
 title:
-  main: "[Letter to Mr J F Jehangir]"
+  main: "Letter to Mr J F Jehangir"
   subtitle: ""
 work_type: letter
 authors: []

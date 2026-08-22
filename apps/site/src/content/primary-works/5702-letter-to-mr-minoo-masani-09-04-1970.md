@@ -1,7 +1,7 @@
 ---
 id: 5702-letter-to-mr-minoo-masani-09-04-1970
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

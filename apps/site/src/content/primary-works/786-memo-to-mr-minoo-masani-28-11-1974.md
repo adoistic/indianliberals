@@ -1,7 +1,7 @@
 ---
 id: 786-memo-to-mr-minoo-masani-28-11-1974
 title:
-  main: "[Memo to Mr Minoo Masani]"
+  main: "Memo to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

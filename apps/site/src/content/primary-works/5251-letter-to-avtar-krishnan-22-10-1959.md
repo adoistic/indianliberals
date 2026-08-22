@@ -1,7 +1,7 @@
 ---
 id: 5251-letter-to-avtar-krishnan-22-10-1959
 title:
-  main: "[Letter to Avtar krishnan]"
+  main: "Letter to Avtar krishnan"
   subtitle: ""
 work_type: letter
 authors:

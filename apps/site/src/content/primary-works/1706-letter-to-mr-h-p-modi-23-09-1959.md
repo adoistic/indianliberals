@@ -1,7 +1,7 @@
 ---
 id: 1706-letter-to-mr-h-p-modi-23-09-1959
 title:
-  main: "[Letter to Mr H P Modi]"
+  main: "Letter to Mr H P Modi"
   subtitle: ""
 work_type: letter
 authors:

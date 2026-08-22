@@ -1,7 +1,7 @@
 ---
 id: 6013-letter-to-jayaprakash-naryan-27-11-1972
 title:
-  main: "[Letter to Jayaprakash Naryan]"
+  main: "Letter to Jayaprakash Naryan"
   subtitle: ""
 work_type: letter
 authors: []

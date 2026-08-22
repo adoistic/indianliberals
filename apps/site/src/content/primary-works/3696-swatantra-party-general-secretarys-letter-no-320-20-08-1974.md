@@ -1,7 +1,7 @@
 ---
 id: 3696-swatantra-party-general-secretarys-letter-no-320-20-08-1974
 title:
-  main: "[Swatantra Party General Secretarys Letter No-320]"
+  main: "Swatantra Party General Secretarys Letter No-320"
   subtitle: ""
 work_type: letter
 authors: []

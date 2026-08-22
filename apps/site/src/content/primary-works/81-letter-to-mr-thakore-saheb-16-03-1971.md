@@ -1,7 +1,7 @@
 ---
 id: 81-letter-to-mr-thakore-saheb-16-03-1971
 title:
-  main: "[Letter to Mr Thakore Saheb]"
+  main: "Letter to Mr Thakore Saheb"
   subtitle: ""
 work_type: letter
 authors:

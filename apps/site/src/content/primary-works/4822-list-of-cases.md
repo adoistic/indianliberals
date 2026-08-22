@@ -1,7 +1,7 @@
 ---
 id: 4822-list-of-cases
 title:
-  main: "[List of Cases]"
+  main: "List of Cases"
   subtitle: ""
 work_type: reference
 work_type_source: classifier

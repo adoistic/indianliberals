@@ -1,7 +1,7 @@
 ---
 id: 1021-letter-to-hr-pashricha-11-06-1963
 title:
-  main: "[Letter to HR Pashricha]"
+  main: "Letter to HR Pashricha"
   subtitle: ""
 work_type: letter
 authors:

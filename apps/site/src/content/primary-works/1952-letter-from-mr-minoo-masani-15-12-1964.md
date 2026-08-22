@@ -1,7 +1,7 @@
 ---
 id: 1952-letter-from-mr-minoo-masani-15-12-1964
 title:
-  main: "[Letter from Mr Minoo Masani]"
+  main: "Letter from Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

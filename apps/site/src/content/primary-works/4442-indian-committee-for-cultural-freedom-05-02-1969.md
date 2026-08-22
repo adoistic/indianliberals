@@ -1,7 +1,7 @@
 ---
 id: 4442-indian-committee-for-cultural-freedom-05-02-1969
 title:
-  main: "[Indian Committee for Cultural Freedom]"
+  main: "Indian Committee for Cultural Freedom"
   subtitle: ""
 work_type: financial_record
 work_type_source: classifier

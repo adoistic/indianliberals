@@ -1,7 +1,7 @@
 ---
 id: 834-letter-to-minoo-tata-21-08-1974
 title:
-  main: "[Letter to Minoo Tata]"
+  main: "Letter to Minoo Tata"
   subtitle: ""
 work_type: letter
 authors:

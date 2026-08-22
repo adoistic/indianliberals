@@ -1,7 +1,7 @@
 ---
 id: 5589-swatantra-paid-penalty-for-lack-of-effort-in-rajasthan-01-05-1968
 title:
-  main: "[Swatantra paid Penalty for lack of effort in Rajasthan]"
+  main: "Swatantra paid Penalty for lack of effort in Rajasthan"
   subtitle: ""
 work_type: letter
 authors: []

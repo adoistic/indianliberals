@@ -1,7 +1,7 @@
 ---
 id: 2831-letter-from-mr-minoo-masani-10-01-1961
 title:
-  main: "[Letter from Mr Minoo Masani]"
+  main: "Letter from Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

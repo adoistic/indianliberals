@@ -1,7 +1,7 @@
 ---
 id: 602-interview-with-mr-minoo-masani-bbc-19-01-1965
 title:
-  main: "[Interview With Mr Minoo Masani-BBC]"
+  main: "Interview With Mr Minoo Masani-BBC"
   subtitle: ""
 work_type: interview
 work_type_source: filename

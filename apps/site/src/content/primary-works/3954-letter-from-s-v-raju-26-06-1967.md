@@ -1,7 +1,7 @@
 ---
 id: 3954-letter-from-s-v-raju-26-06-1967
 title:
-  main: "[Letter from S V Raju]"
+  main: "Letter from S V Raju"
   subtitle: ""
 work_type: letter
 authors:

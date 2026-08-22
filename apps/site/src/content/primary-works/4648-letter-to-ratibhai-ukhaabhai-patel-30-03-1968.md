@@ -1,7 +1,7 @@
 ---
 id: 4648-letter-to-ratibhai-ukhaabhai-patel-30-03-1968
 title:
-  main: "[Letter to Ratibhai Ukhaabhai Patel]"
+  main: "Letter to Ratibhai Ukhaabhai Patel"
   subtitle: ""
 work_type: letter
 authors:

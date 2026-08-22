@@ -1,7 +1,7 @@
 ---
 id: 5474-general-secretarys-letter-no-223-23-02-1970
 title:
-  main: "[General Secretarys letter no-223]"
+  main: "General Secretarys letter no-223"
   subtitle: ""
 work_type: letter
 work_type_source: filename

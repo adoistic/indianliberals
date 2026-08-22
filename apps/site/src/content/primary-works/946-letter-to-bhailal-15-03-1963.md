@@ -1,7 +1,7 @@
 ---
 id: 946-letter-to-bhailal-15-03-1963
 title:
-  main: "[Letter to bhailal]"
+  main: "Letter to bhailal"
   subtitle: ""
 work_type: letter
 authors:

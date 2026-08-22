@@ -1,7 +1,7 @@
 ---
 id: 3285-letter-to-mr-minoo-masani-23-12-1961
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

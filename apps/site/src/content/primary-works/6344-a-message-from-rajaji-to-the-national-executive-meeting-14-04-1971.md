@@ -1,7 +1,7 @@
 ---
 id: 6344-a-message-from-rajaji-to-the-national-executive-meeting-14-04-1971
 title:
-  main: "[A Message From Rajaji To The National Executive Meeting]"
+  main: "A Message From Rajaji To The National Executive Meeting"
   subtitle: ""
 work_type: letter
 authors:

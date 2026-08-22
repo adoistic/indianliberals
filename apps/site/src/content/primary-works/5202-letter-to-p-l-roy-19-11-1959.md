@@ -1,7 +1,7 @@
 ---
 id: 5202-letter-to-p-l-roy-19-11-1959
 title:
-  main: "[Letter to P L Roy]"
+  main: "Letter to P L Roy"
   subtitle: ""
 work_type: letter
 authors:

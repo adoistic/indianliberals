@@ -1,7 +1,7 @@
 ---
 id: 229-speech-of-mr-minoo-masani-25-09-1962
 title:
-  main: "[Speech of Mr Minoo Masani]"
+  main: "Speech of Mr Minoo Masani"
   subtitle: ""
 work_type: speech
 authors: []

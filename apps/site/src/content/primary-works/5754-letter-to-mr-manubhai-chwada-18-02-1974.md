@@ -1,7 +1,7 @@
 ---
 id: 5754-letter-to-mr-manubhai-chwada-18-02-1974
 title:
-  main: "[Letter to Mr Manubhai Chwada]"
+  main: "Letter to Mr Manubhai Chwada"
   subtitle: ""
 work_type: letter
 authors: []

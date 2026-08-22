@@ -1,7 +1,7 @@
 ---
 id: 5613-kutch-issue
 title:
-  main: "[Kutch Issue]"
+  main: "Kutch Issue"
   subtitle: ""
 work_type: resolution
 authors: []

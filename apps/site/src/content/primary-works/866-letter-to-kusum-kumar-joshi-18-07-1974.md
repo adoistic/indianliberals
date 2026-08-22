@@ -1,7 +1,7 @@
 ---
 id: 866-letter-to-kusum-kumar-joshi-18-07-1974
 title:
-  main: "[Letter to Kusum Kumar Joshi]"
+  main: "Letter to Kusum Kumar Joshi"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 3544-advertisement-revenue-through-swatantra-souvenir-1961
 title:
-  main: "[Advertisement Revenue Through Swatantra Souvenir-1961]"
+  main: "Advertisement Revenue Through Swatantra Souvenir-1961"
   subtitle: ""
 work_type: financial_record
 work_type_source: classifier

@@ -1,7 +1,7 @@
 ---
 id: 1015-letter-to-c-rajagopalachari-16-06-1963
 title:
-  main: "[Letter to C Rajagopalachari]"
+  main: "Letter to C Rajagopalachari"
   subtitle: ""
 work_type: telegram
 authors:

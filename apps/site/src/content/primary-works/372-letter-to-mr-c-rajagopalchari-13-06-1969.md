@@ -1,7 +1,7 @@
 ---
 id: 372-letter-to-mr-c-rajagopalchari-13-06-1969
 title:
-  main: "[Letter to Mr C Rajagopalchari]"
+  main: "Letter to Mr C Rajagopalchari"
   subtitle: ""
 work_type: letter
 authors:

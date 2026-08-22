@@ -1,7 +1,7 @@
 ---
 id: 5820-letter-to-s-c-rastogi-11-04-1992
 title:
-  main: "[Letter to S C Rastogi]"
+  main: "Letter to S C Rastogi"
   subtitle: ""
 work_type: letter
 authors: []

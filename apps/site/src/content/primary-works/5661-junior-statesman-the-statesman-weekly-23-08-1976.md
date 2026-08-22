@@ -1,7 +1,7 @@
 ---
 id: 5661-junior-statesman-the-statesman-weekly-23-08-1976
 title:
-  main: "[Junior Statesman-The Statesman Weekly]"
+  main: "Junior Statesman-The Statesman Weekly"
   subtitle: ""
 work_type: letter
 authors: []

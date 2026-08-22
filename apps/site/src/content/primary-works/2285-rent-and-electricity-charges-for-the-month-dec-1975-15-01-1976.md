@@ -1,7 +1,7 @@
 ---
 id: 2285-rent-and-electricity-charges-for-the-month-dec-1975-15-01-1976
 title:
-  main: "[Rent and Electricity Charges For The Month Dec-1975]"
+  main: "Rent and Electricity Charges For The Month Dec-1975"
   subtitle: ""
 work_type: financial_record
 work_type_source: classifier

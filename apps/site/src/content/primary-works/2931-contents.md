@@ -1,7 +1,7 @@
 ---
 id: 2931-contents
 title:
-  main: "[Contents]"
+  main: "Contents"
   subtitle: ""
 work_type: report
 work_type_source: summary

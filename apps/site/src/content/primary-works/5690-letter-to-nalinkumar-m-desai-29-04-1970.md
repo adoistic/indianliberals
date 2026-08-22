@@ -1,7 +1,7 @@
 ---
 id: 5690-letter-to-nalinkumar-m-desai-29-04-1970
 title:
-  main: "[Letter to Nalinkumar M Desai]"
+  main: "Letter to Nalinkumar M Desai"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 90-letter-to-harjivanbhai-sheth-16-03-1971
 title:
-  main: "[Letter to Harjivanbhai Sheth]"
+  main: "Letter to Harjivanbhai Sheth"
   subtitle: ""
 work_type: letter
 authors:

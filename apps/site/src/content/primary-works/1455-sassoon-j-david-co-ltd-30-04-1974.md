@@ -1,7 +1,7 @@
 ---
 id: 1455-sassoon-j-david-co-ltd-30-04-1974
 title:
-  main: "[Sassoon J David & Co Ltd]"
+  main: "Sassoon J David & Co Ltd"
   subtitle: ""
 work_type: financial_record
 work_type_source: summary

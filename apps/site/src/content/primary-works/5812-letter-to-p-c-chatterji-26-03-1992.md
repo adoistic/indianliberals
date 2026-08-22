@@ -1,7 +1,7 @@
 ---
 id: 5812-letter-to-p-c-chatterji-26-03-1992
 title:
-  main: "[Letter to P C Chatterji]"
+  main: "Letter to P C Chatterji"
   subtitle: ""
 work_type: letter
 authors:

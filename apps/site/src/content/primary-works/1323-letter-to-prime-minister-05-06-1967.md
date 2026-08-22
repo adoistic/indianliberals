@@ -1,7 +1,7 @@
 ---
 id: 1323-letter-to-prime-minister-05-06-1967
 title:
-  main: "[Letter to Prime Minister]"
+  main: "Letter to Prime Minister"
   subtitle: ""
 work_type: letter
 authors: []

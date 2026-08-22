@@ -1,7 +1,7 @@
 ---
 id: 5465-general-secretarys-letter-no-251-14-01-1970
 title:
-  main: "[General Secretarys letter no-251]"
+  main: "General Secretarys letter no-251"
   subtitle: ""
 work_type: circular
 authors: []

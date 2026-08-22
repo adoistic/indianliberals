@@ -1,7 +1,7 @@
 ---
 id: 1700-letter-to-mr-lynn-28-09-1959
 title:
-  main: "[Letter to Mr Lynn]"
+  main: "Letter to Mr Lynn"
   subtitle: ""
 work_type: letter
 authors: []

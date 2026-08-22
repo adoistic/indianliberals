@@ -1,7 +1,7 @@
 ---
 id: 6115-letter-to-maganlal-b-joshi-15-05-1970
 title:
-  main: "[Letter to Maganlal B Joshi]"
+  main: "Letter to Maganlal B Joshi"
   subtitle: ""
 work_type: letter
 authors:

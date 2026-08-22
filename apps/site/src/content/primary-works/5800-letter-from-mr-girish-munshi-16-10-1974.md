@@ -1,7 +1,7 @@
 ---
 id: 5800-letter-from-mr-girish-munshi-16-10-1974
 title:
-  main: "[Letter From Mr Girish Munshi]"
+  main: "Letter From Mr Girish Munshi"
   subtitle: ""
 work_type: letter
 work_type_source: filename

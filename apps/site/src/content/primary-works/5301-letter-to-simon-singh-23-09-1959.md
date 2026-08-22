@@ -1,7 +1,7 @@
 ---
 id: 5301-letter-to-simon-singh-23-09-1959
 title:
-  main: "[Letter to Simon Singh]"
+  main: "Letter to Simon Singh"
   subtitle: ""
 work_type: letter
 authors: []

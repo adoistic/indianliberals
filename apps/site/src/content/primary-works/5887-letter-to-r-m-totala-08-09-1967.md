@@ -1,7 +1,7 @@
 ---
 id: 5887-letter-to-r-m-totala-08-09-1967
 title:
-  main: "[Letter to R M Totala]"
+  main: "Letter to R M Totala"
   subtitle: ""
 work_type: letter
 authors:

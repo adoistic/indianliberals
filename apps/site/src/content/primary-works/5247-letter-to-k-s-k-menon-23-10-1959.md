@@ -1,7 +1,7 @@
 ---
 id: 5247-letter-to-k-s-k-menon-23-10-1959
 title:
-  main: "[Letter to K S K Menon]"
+  main: "Letter to K S K Menon"
   subtitle: ""
 work_type: letter
 authors:

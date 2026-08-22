@@ -1,7 +1,7 @@
 ---
 id: 1157-letter-to-srikumar-20-01-1977
 title:
-  main: "[Letter to SriKumar]"
+  main: "Letter to SriKumar"
   subtitle: ""
 work_type: telegram
 authors:

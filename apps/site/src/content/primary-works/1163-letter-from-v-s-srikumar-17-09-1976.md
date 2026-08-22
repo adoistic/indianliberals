@@ -1,7 +1,7 @@
 ---
 id: 1163-letter-from-v-s-srikumar-17-09-1976
 title:
-  main: "[Letter from V S Srikumar]"
+  main: "Letter from V S Srikumar"
   subtitle: ""
 work_type: circular
 authors: []

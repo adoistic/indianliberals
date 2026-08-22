@@ -1,7 +1,7 @@
 ---
 id: 945-letter-to-raja-16-03-1963
 title:
-  main: "[Letter to Raja]"
+  main: "Letter to Raja"
   subtitle: ""
 work_type: letter
 authors: []

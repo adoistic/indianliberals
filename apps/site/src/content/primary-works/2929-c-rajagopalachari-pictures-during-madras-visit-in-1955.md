@@ -1,7 +1,7 @@
 ---
 id: 2929-c-rajagopalachari-pictures-during-madras-visit-in-1955
 title:
-  main: "[C Rajagopalachari Pictures During Madras Visit in 1955]"
+  main: "C Rajagopalachari Pictures During Madras Visit in 1955"
   subtitle: ""
 work_type: reference
 authors: []

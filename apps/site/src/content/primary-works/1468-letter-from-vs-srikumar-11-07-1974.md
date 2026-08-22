@@ -1,7 +1,7 @@
 ---
 id: 1468-letter-from-vs-srikumar-11-07-1974
 title:
-  main: "[Letter from VS Srikumar]"
+  main: "Letter from VS Srikumar"
   subtitle: ""
 work_type: letter
 work_type_source: filename

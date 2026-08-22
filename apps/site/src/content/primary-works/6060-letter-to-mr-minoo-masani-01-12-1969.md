@@ -1,7 +1,7 @@
 ---
 id: 6060-letter-to-mr-minoo-masani-01-12-1969
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

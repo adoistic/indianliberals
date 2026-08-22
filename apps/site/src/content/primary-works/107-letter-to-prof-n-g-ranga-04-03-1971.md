@@ -1,7 +1,7 @@
 ---
 id: 107-letter-to-prof-n-g-ranga-04-03-1971
 title:
-  main: "[Letter to Prof N G Ranga]"
+  main: "Letter to Prof N G Ranga"
   subtitle: ""
 work_type: letter
 authors:

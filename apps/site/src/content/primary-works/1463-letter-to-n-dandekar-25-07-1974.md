@@ -1,7 +1,7 @@
 ---
 id: 1463-letter-to-n-dandekar-25-07-1974
 title:
-  main: "[Letter to N Dandekar]"
+  main: "Letter to N Dandekar"
   subtitle: ""
 work_type: letter
 authors:

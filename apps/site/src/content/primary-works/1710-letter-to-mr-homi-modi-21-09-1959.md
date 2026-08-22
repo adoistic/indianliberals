@@ -1,7 +1,7 @@
 ---
 id: 1710-letter-to-mr-homi-modi-21-09-1959
 title:
-  main: "[Letter to Mr Homi Modi]"
+  main: "Letter to Mr Homi Modi"
   subtitle: ""
 work_type: letter
 authors:

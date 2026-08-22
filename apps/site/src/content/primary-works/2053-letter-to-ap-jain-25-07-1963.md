@@ -1,7 +1,7 @@
 ---
 id: 2053-letter-to-ap-jain-25-07-1963
 title:
-  main: "[Letter to AP Jain]"
+  main: "Letter to AP Jain"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 898-letter-to-piloo-mody-01-07-1974
 title:
-  main: "[Letter to Piloo Mody]"
+  main: "Letter to Piloo Mody"
   subtitle: ""
 work_type: letter
 authors:

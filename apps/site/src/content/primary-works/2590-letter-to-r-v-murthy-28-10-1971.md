@@ -1,7 +1,7 @@
 ---
 id: 2590-letter-to-r-v-murthy-28-10-1971
 title:
-  main: "[Letter to R V Murthy]"
+  main: "Letter to R V Murthy"
   subtitle: ""
 work_type: letter
 authors: []

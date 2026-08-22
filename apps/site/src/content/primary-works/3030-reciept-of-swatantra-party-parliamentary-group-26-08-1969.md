@@ -1,7 +1,7 @@
 ---
 id: 3030-reciept-of-swatantra-party-parliamentary-group-26-08-1969
 title:
-  main: "[Reciept of Swatantra Party Parliamentary Group]"
+  main: "Reciept of Swatantra Party Parliamentary Group"
   subtitle: ""
 work_type: financial_record
 work_type_source: summary

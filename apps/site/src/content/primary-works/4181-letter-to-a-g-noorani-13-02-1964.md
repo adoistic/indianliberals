@@ -1,7 +1,7 @@
 ---
 id: 4181-letter-to-a-g-noorani-13-02-1964
 title:
-  main: "[Letter to A G Noorani]"
+  main: "Letter to A G Noorani"
   subtitle: ""
 work_type: letter
 authors:

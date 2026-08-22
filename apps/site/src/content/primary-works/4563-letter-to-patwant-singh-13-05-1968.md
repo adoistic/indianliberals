@@ -1,7 +1,7 @@
 ---
 id: 4563-letter-to-patwant-singh-13-05-1968
 title:
-  main: "[Letter to Patwant Singh]"
+  main: "Letter to Patwant Singh"
   subtitle: ""
 work_type: letter
 authors:

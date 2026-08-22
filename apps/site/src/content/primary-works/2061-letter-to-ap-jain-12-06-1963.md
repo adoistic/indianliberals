@@ -1,7 +1,7 @@
 ---
 id: 2061-letter-to-ap-jain-12-06-1963
 title:
-  main: "[Letter to AP Jain]"
+  main: "Letter to AP Jain"
   subtitle: ""
 work_type: letter
 authors:

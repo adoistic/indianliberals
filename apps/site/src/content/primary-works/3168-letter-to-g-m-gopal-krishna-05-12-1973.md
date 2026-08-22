@@ -1,7 +1,7 @@
 ---
 id: 3168-letter-to-g-m-gopal-krishna-05-12-1973
 title:
-  main: "[Letter to G M Gopal Krishna]"
+  main: "Letter to G M Gopal Krishna"
   subtitle: ""
 work_type: letter
 authors:

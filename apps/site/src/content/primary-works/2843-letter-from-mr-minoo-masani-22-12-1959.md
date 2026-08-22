@@ -1,7 +1,7 @@
 ---
 id: 2843-letter-from-mr-minoo-masani-22-12-1959
 title:
-  main: "[Letter from Mr Minoo Masani]"
+  main: "Letter from Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

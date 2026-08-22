@@ -1,7 +1,7 @@
 ---
 id: 3378-a-third-installment-of-rs20000
 title:
-  main: "[A Third Installment of Rs20000]"
+  main: "A Third Installment of Rs20000"
   subtitle: ""
 work_type: letter
 authors: []

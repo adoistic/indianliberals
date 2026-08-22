@@ -1,7 +1,7 @@
 ---
 id: 98-letter-to-miss-rati-cooper-04-03-1971
 title:
-  main: "[Letter to Miss Rati Cooper]"
+  main: "Letter to Miss Rati Cooper"
   subtitle: ""
 work_type: letter
 authors:

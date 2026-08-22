@@ -1,7 +1,7 @@
 ---
 id: 1406-letter-to-sv-raju-21-11-1974
 title:
-  main: "[Letter to SV Raju]"
+  main: "Letter to SV Raju"
   subtitle: ""
 work_type: letter
 authors: []

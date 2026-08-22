@@ -1,7 +1,7 @@
 ---
 id: 1677-letter-to-jal-j-gazdar-20-10-1959
 title:
-  main: "[Letter to Jal J Gazdar]"
+  main: "Letter to Jal J Gazdar"
   subtitle: ""
 work_type: letter
 authors: []

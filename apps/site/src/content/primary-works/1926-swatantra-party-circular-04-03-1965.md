@@ -1,7 +1,7 @@
 ---
 id: 1926-swatantra-party-circular-04-03-1965
 title:
-  main: "[Swatantra Party Circular]"
+  main: "Swatantra Party Circular"
   subtitle: ""
 work_type: circular
 work_type_source: filename

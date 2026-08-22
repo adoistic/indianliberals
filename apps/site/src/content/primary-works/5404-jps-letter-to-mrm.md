@@ -1,7 +1,7 @@
 ---
 id: 5404-jps-letter-to-mrm
 title:
-  main: "[JPS letter to MRM]"
+  main: "JPS letter to MRM"
   subtitle: ""
 work_type: letter
 authors:

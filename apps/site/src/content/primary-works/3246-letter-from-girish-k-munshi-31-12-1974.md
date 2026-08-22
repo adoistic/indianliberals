@@ -1,7 +1,7 @@
 ---
 id: 3246-letter-from-girish-k-munshi-31-12-1974
 title:
-  main: "[Letter from Girish K Munshi]"
+  main: "Letter from Girish K Munshi"
   subtitle: ""
 work_type: letter
 authors: []

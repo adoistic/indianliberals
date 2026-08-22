@@ -1,7 +1,7 @@
 ---
 id: 4953-all-india-civil-librties-confrence-condemns
 title:
-  main: "[All India Civil Librties Confrence Condemns]"
+  main: "All India Civil Librties Confrence Condemns"
   subtitle: ""
 work_type: essay
 work_type_source: summary

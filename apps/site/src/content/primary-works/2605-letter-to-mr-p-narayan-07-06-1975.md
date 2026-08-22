@@ -1,7 +1,7 @@
 ---
 id: 2605-letter-to-mr-p-narayan-07-06-1975
 title:
-  main: "[Letter to Mr P Narayan]"
+  main: "Letter to Mr P Narayan"
   subtitle: ""
 work_type: letter
 authors: []

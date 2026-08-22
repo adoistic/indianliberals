@@ -1,7 +1,7 @@
 ---
 id: 5444-general-secretarys-letter-no-282-27-07-1972
 title:
-  main: "[General Secretarys letter no-282]"
+  main: "General Secretarys letter no-282"
   subtitle: ""
 work_type: letter
 authors: []

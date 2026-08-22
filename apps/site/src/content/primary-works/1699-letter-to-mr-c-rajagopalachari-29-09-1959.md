@@ -1,7 +1,7 @@
 ---
 id: 1699-letter-to-mr-c-rajagopalachari-29-09-1959
 title:
-  main: "[Letter to Mr C Rajagopalachari]"
+  main: "Letter to Mr C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors: []

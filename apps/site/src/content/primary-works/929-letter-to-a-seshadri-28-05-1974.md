@@ -1,7 +1,7 @@
 ---
 id: 929-letter-to-a-seshadri-28-05-1974
 title:
-  main: "[Letter to A Seshadri]"
+  main: "Letter to A Seshadri"
   subtitle: ""
 work_type: letter
 authors:

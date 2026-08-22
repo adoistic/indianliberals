@@ -1,7 +1,7 @@
 ---
 id: 4685-letter-to-mr-minoo-masani-21-09-1964
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

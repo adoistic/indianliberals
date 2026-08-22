@@ -1,7 +1,7 @@
 ---
 id: 3289-letter-to-c-rajagopalachari-11-11-1961
 title:
-  main: "[Letter to C Rajagopalachari]"
+  main: "Letter to C Rajagopalachari"
   subtitle: ""
 work_type: correspondence
 authors:

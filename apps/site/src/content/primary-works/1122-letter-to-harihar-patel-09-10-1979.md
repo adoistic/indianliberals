@@ -1,7 +1,7 @@
 ---
 id: 1122-letter-to-harihar-patel-09-10-1979
 title:
-  main: "[Letter to Harihar Patel]"
+  main: "Letter to Harihar Patel"
   subtitle: ""
 work_type: letter
 authors:

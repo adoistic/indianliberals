@@ -1,7 +1,7 @@
 ---
 id: 2838-committee-present-position-with-suggestion
 title:
-  main: "[Committee Present Position with Suggestion]"
+  main: "Committee Present Position with Suggestion"
   subtitle: ""
 work_type: pamphlet
 work_type_source: summary

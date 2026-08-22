@@ -1,7 +1,7 @@
 ---
 id: 227-for-favour-of-publication-31-10-1962
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: press_note
 work_type_source: classifier

@@ -1,7 +1,7 @@
 ---
 id: 6131-letter-to-r-k-narayan-29-04-1970
 title:
-  main: "[Letter to R K Narayan]"
+  main: "Letter to R K Narayan"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 4189-letter-to-n-g-ranga-29-01-1964
 title:
-  main: "[Letter to N G Ranga]"
+  main: "Letter to N G Ranga"
   subtitle: ""
 work_type: letter
 work_type_source: filename

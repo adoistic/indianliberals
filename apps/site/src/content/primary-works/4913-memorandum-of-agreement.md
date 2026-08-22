@@ -1,7 +1,7 @@
 ---
 id: 4913-memorandum-of-agreement
 title:
-  main: "[Memorandum of Agreement]"
+  main: "Memorandum of Agreement"
   subtitle: ""
 work_type: agreement
 work_type_source: summary

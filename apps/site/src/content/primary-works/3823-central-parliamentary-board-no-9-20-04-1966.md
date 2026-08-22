@@ -1,7 +1,7 @@
 ---
 id: 3823-central-parliamentary-board-no-9-20-04-1966
 title:
-  main: "[Central Parliamentary Board no-9]"
+  main: "Central Parliamentary Board no-9"
   subtitle: ""
 work_type: circular
 work_type_source: summary

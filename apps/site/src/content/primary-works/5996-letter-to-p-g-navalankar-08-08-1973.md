@@ -1,7 +1,7 @@
 ---
 id: 5996-letter-to-p-g-navalankar-08-08-1973
 title:
-  main: "[Letter to P G Navalankar]"
+  main: "Letter to P G Navalankar"
   subtitle: ""
 work_type: letter
 authors:

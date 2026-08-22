@@ -1,7 +1,7 @@
 ---
 id: 77-letter-to-mr-arvind-parakh-16-03-1971
 title:
-  main: "[Letter to Mr Arvind Parakh]"
+  main: "Letter to Mr Arvind Parakh"
   subtitle: ""
 work_type: letter
 authors:

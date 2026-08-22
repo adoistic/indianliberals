@@ -1,7 +1,7 @@
 ---
 id: 994-letter-to-sk-kooka-31-08-1964
 title:
-  main: "[Letter to SK Kooka]"
+  main: "Letter to SK Kooka"
   subtitle: ""
 work_type: letter
 authors:

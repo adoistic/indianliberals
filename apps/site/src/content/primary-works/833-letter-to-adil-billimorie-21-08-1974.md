@@ -1,7 +1,7 @@
 ---
 id: 833-letter-to-adil-billimorie-21-08-1974
 title:
-  main: "[Letter to Adil Billimorie]"
+  main: "Letter to Adil Billimorie"
   subtitle: ""
 work_type: letter
 authors:

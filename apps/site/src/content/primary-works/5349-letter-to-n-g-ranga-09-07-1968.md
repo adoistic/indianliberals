@@ -1,7 +1,7 @@
 ---
 id: 5349-letter-to-n-g-ranga-09-07-1968
 title:
-  main: "[Letter to N G Ranga]"
+  main: "Letter to N G Ranga"
   subtitle: ""
 work_type: letter
 authors:

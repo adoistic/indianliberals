@@ -1,7 +1,7 @@
 ---
 id: 1817-letter-to-yd-tyagi-22-07-1959
 title:
-  main: "[Letter to YD Tyagi]"
+  main: "Letter to YD Tyagi"
   subtitle: ""
 work_type: letter
 authors: []

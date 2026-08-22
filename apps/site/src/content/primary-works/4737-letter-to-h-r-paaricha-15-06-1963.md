@@ -1,7 +1,7 @@
 ---
 id: 4737-letter-to-h-r-paaricha-15-06-1963
 title:
-  main: "[Letter to H R Paaricha]"
+  main: "Letter to H R Paaricha"
   subtitle: ""
 work_type: letter
 authors:

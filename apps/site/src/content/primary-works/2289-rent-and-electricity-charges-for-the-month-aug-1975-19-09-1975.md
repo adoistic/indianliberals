@@ -1,7 +1,7 @@
 ---
 id: 2289-rent-and-electricity-charges-for-the-month-aug-1975-19-09-1975
 title:
-  main: "[Rent and Electricity Charges For The Month Aug-1975]"
+  main: "Rent and Electricity Charges For The Month Aug-1975"
   subtitle: ""
 work_type: essay
 work_type_source: summary

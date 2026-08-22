@@ -1,7 +1,7 @@
 ---
 id: 16-letter-to-mr-p-d-patwari-29-03-1971
 title:
-  main: "[Letter to Mr P D Patwari]"
+  main: "Letter to Mr P D Patwari"
   subtitle: ""
 work_type: letter
 authors:

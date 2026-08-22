@@ -1,7 +1,7 @@
 ---
 id: 2463-letter-to-parmanand-kejriwal-25-04-1977
 title:
-  main: "[Letter to Parmanand Kejriwal]"
+  main: "Letter to Parmanand Kejriwal"
   subtitle: ""
 work_type: letter
 authors: []

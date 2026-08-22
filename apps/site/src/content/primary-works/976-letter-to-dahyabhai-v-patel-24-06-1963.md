@@ -1,7 +1,7 @@
 ---
 id: 976-letter-to-dahyabhai-v-patel-24-06-1963
 title:
-  main: "[Letter to Dahyabhai V Patel]"
+  main: "Letter to Dahyabhai V Patel"
   subtitle: ""
 work_type: letter
 authors:

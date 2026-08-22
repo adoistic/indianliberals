@@ -1,7 +1,7 @@
 ---
 id: 764-letter-about-residential-telephone-connection-12-04-1975
 title:
-  main: "[Letter About Residential Telephone Connection]"
+  main: "Letter About Residential Telephone Connection"
   subtitle: ""
 work_type: letter
 authors: []

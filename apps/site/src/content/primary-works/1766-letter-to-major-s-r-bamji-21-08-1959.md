@@ -1,7 +1,7 @@
 ---
 id: 1766-letter-to-major-s-r-bamji-21-08-1959
 title:
-  main: "[Letter to Major S R Bamji]"
+  main: "Letter to Major S R Bamji"
   subtitle: ""
 work_type: letter
 authors: []

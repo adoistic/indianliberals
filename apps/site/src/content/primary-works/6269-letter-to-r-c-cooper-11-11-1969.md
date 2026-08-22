@@ -1,7 +1,7 @@
 ---
 id: 6269-letter-to-r-c-cooper-11-11-1969
 title:
-  main: "[Letter to R C Cooper]"
+  main: "Letter to R C Cooper"
   subtitle: ""
 work_type: letter
 authors:

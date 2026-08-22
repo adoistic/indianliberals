@@ -1,7 +1,7 @@
 ---
 id: 5795-letter-to-mr-navroz-seervai-21-07-1989
 title:
-  main: "[Letter to Mr Navroz Seervai]"
+  main: "Letter to Mr Navroz Seervai"
   subtitle: ""
 work_type: letter
 authors:

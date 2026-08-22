@@ -1,7 +1,7 @@
 ---
 id: 3576-letter-from-mr-s-v-raju-15-07-1963
 title:
-  main: "[Letter From Mr S V Raju]"
+  main: "Letter From Mr S V Raju"
   subtitle: ""
 work_type: letter
 authors:

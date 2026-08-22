@@ -1,7 +1,7 @@
 ---
 id: 4937-in-the-court-of-the-addl-cheif-metropolian-magistrats
 title:
-  main: "[In the Court of the Addl Cheif Metropolian Magistrats]"
+  main: "In the Court of the Addl Cheif Metropolian Magistrats"
   subtitle: ""
 work_type: legal_filing
 work_type_source: summary

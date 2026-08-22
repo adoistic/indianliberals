@@ -1,7 +1,7 @@
 ---
 id: 4361-letter-from-lalit-kumar-09-06-1964
 title:
-  main: "[Letter from Lalit Kumar]"
+  main: "Letter from Lalit Kumar"
   subtitle: ""
 work_type: letter
 authors: []

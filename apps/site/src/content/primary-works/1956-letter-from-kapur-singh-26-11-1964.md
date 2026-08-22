@@ -1,7 +1,7 @@
 ---
 id: 1956-letter-from-kapur-singh-26-11-1964
 title:
-  main: "[Letter from Kapur Singh]"
+  main: "Letter from Kapur Singh"
   subtitle: ""
 work_type: letter
 authors: []

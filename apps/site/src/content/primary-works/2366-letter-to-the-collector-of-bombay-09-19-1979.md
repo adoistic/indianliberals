@@ -1,7 +1,7 @@
 ---
 id: 2366-letter-to-the-collector-of-bombay-09-19-1979
 title:
-  main: "[Letter to The Collector Of Bombay]"
+  main: "Letter to The Collector Of Bombay"
   subtitle: ""
 work_type: letter
 authors:

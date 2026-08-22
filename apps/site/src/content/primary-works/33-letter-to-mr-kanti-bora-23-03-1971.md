@@ -1,7 +1,7 @@
 ---
 id: 33-letter-to-mr-kanti-bora-23-03-1971
 title:
-  main: "[Letter to Mr Kanti Bora]"
+  main: "Letter to Mr Kanti Bora"
   subtitle: ""
 work_type: letter
 authors:

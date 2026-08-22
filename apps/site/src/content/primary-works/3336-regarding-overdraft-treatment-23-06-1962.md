@@ -1,7 +1,7 @@
 ---
 id: 3336-regarding-overdraft-treatment-23-06-1962
 title:
-  main: "[Regarding Overdraft Treatment]"
+  main: "Regarding Overdraft Treatment"
   subtitle: ""
 work_type: letter
 authors: []

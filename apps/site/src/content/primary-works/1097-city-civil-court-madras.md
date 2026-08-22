@@ -1,7 +1,7 @@
 ---
 id: 1097-city-civil-court-madras
 title:
-  main: "[City Civil Court Madras]"
+  main: "City Civil Court Madras"
   subtitle: ""
 work_type: pamphlet
 authors: []

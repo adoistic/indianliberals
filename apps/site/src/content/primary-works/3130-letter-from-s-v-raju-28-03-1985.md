@@ -1,7 +1,7 @@
 ---
 id: 3130-letter-from-s-v-raju-28-03-1985
 title:
-  main: "[Letter from S V Raju]"
+  main: "Letter from S V Raju"
   subtitle: ""
 work_type: letter
 authors:

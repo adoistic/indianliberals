@@ -1,7 +1,7 @@
 ---
 id: 5948-mass-meeting-held-in-capitals-of-all-states-and-union-territories
 title:
-  main: "[Mass Meeting Held In Capitals Of All States And Union Territories]"
+  main: "Mass Meeting Held In Capitals Of All States And Union Territories"
   subtitle: ""
 work_type: circular
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 3737-letter-from-mr-girish-munshi-09-07-1974
 title:
-  main: "[letter from Mr Girish Munshi]"
+  main: "letter from Mr Girish Munshi"
   subtitle: ""
 work_type: letter
 authors: []

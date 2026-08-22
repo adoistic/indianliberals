@@ -1,7 +1,7 @@
 ---
 id: 2132-letter-to-sv-raju-26-06-1976
 title:
-  main: "[Letter to SV Raju]"
+  main: "Letter to SV Raju"
   subtitle: ""
 work_type: letter
 authors:

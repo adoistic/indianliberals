@@ -1,7 +1,7 @@
 ---
 id: 6184-letter-to-mr-minoo-masani-28-02-1970
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: telegram
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 4319-letter-to-c-rajagopalachari-29-07-1964
 title:
-  main: "[Letter to C Rajagopalachari]"
+  main: "Letter to C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors:

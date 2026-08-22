@@ -1,7 +1,7 @@
 ---
 id: 2986-letter-to-k-raghuramaiah-20-03-1970
 title:
-  main: "[Letter to K Raghuramaiah]"
+  main: "Letter to K Raghuramaiah"
   subtitle: ""
 work_type: letter
 authors: []

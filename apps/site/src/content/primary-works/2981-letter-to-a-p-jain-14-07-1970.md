@@ -1,7 +1,7 @@
 ---
 id: 2981-letter-to-a-p-jain-14-07-1970
 title:
-  main: "[Letter to A P Jain]"
+  main: "Letter to A P Jain"
   subtitle: ""
 work_type: correspondence
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 1911-letter-to-mohida-15-06-1965
 title:
-  main: "[Letter to Mohida]"
+  main: "Letter to Mohida"
   subtitle: ""
 work_type: letter
 authors: []

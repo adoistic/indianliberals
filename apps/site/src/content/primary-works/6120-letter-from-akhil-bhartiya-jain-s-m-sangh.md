@@ -1,7 +1,7 @@
 ---
 id: 6120-letter-from-akhil-bhartiya-jain-s-m-sangh
 title:
-  main: "[Letter from Akhil Bhartiya Jain S M Sangh]"
+  main: "Letter from Akhil Bhartiya Jain S M Sangh"
   subtitle: ""
 work_type: letter
 authors: []

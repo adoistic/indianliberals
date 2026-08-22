@@ -1,7 +1,7 @@
 ---
 id: 3682-letter-from-madhu-mehta-21-07-1975
 title:
-  main: "[Letter from Madhu Mehta]"
+  main: "Letter from Madhu Mehta"
   subtitle: ""
 work_type: letter
 authors: []

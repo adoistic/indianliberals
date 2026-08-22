@@ -1,7 +1,7 @@
 ---
 id: 3177-letter-to-piloo-mody-18-03-1974
 title:
-  main: "[Letter to Piloo Mody]"
+  main: "Letter to Piloo Mody"
   subtitle: ""
 work_type: letter
 authors:

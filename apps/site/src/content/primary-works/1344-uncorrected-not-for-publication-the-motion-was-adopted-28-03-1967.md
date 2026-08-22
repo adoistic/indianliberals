@@ -1,7 +1,7 @@
 ---
 id: 1344-uncorrected-not-for-publication-the-motion-was-adopted-28-03-1967
 title:
-  main: "[Uncorrected-Not for Publication-The Motion was Adopted]"
+  main: "Uncorrected-Not for Publication-The Motion was Adopted"
   subtitle: ""
 work_type: minutes
 work_type_source: classifier

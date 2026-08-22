@@ -1,7 +1,7 @@
 ---
 id: 2685-letter-to-mr-r-n-singh-deo-24-01-1968
 title:
-  main: "[Letter to Mr R N Singh Deo]"
+  main: "Letter to Mr R N Singh Deo"
   subtitle: ""
 work_type: letter
 authors:

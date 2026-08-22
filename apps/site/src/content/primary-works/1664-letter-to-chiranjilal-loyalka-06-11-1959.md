@@ -1,7 +1,7 @@
 ---
 id: 1664-letter-to-chiranjilal-loyalka-06-11-1959
 title:
-  main: "[Letter to Chiranjilal Loyalka]"
+  main: "Letter to Chiranjilal Loyalka"
   subtitle: ""
 work_type: letter
 authors: []

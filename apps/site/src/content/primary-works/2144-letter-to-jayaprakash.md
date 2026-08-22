@@ -1,7 +1,7 @@
 ---
 id: 2144-letter-to-jayaprakash
 title:
-  main: "[Letter to Jayaprakash]"
+  main: "Letter to Jayaprakash"
   subtitle: ""
 work_type: letter
 authors:

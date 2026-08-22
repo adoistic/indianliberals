@@ -1,7 +1,7 @@
 ---
 id: 5665-letter-to-shridhar-20-07-1976
 title:
-  main: "[Letter to Shridhar]"
+  main: "Letter to Shridhar"
   subtitle: ""
 work_type: letter
 authors: []

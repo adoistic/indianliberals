@@ -1,7 +1,7 @@
 ---
 id: 2563-letter-from-r-v-murthy-16-08-1972
 title:
-  main: "[Letter from R V Murthy]"
+  main: "Letter from R V Murthy"
   subtitle: ""
 work_type: letter
 authors: []

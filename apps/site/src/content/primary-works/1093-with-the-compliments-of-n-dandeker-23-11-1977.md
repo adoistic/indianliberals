@@ -1,7 +1,7 @@
 ---
 id: 1093-with-the-compliments-of-n-dandeker-23-11-1977
 title:
-  main: "[With the Compliments of N Dandeker]"
+  main: "With the Compliments of N Dandeker"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 4214-letter-to-abdul-ganidhar-18-11-1963
 title:
-  main: "[Letter to Abdul Ganidhar]"
+  main: "Letter to Abdul Ganidhar"
   subtitle: ""
 work_type: telegram
 authors:

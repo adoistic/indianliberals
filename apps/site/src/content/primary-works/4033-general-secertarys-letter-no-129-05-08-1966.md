@@ -1,7 +1,7 @@
 ---
 id: 4033-general-secertarys-letter-no-129-05-08-1966
 title:
-  main: "[General Secertarys Letter no-129]"
+  main: "General Secertarys Letter no-129"
   subtitle: ""
 work_type: letter
 authors:

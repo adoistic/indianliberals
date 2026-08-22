@@ -1,7 +1,7 @@
 ---
 id: 2793-letter-to-mr-narendra-singh-mahida-19-04-1962
 title:
-  main: "[Letter to Mr Narendra Singh Mahida]"
+  main: "Letter to Mr Narendra Singh Mahida"
   subtitle: ""
 work_type: telegram
 authors: []

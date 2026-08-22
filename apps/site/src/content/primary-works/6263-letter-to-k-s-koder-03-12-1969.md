@@ -1,7 +1,7 @@
 ---
 id: 6263-letter-to-k-s-koder-03-12-1969
 title:
-  main: "[Letter to K S Koder]"
+  main: "Letter to K S Koder"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 6284-letter-to-mr-b-satyanarayana-29-04-1971
 title:
-  main: "[Letter to Mr B Satyanarayana]"
+  main: "Letter to Mr B Satyanarayana"
   subtitle: ""
 work_type: letter
 authors:

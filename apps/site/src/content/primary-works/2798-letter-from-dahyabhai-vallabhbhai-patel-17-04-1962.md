@@ -1,7 +1,7 @@
 ---
 id: 2798-letter-from-dahyabhai-vallabhbhai-patel-17-04-1962
 title:
-  main: "[Letter from Dahyabhai Vallabhbhai Patel]"
+  main: "Letter from Dahyabhai Vallabhbhai Patel"
   subtitle: ""
 work_type: letter
 authors: []

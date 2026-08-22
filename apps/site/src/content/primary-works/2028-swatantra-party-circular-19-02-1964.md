@@ -1,7 +1,7 @@
 ---
 id: 2028-swatantra-party-circular-19-02-1964
 title:
-  main: "[Swatantra Party Circular]"
+  main: "Swatantra Party Circular"
   subtitle: ""
 work_type: circular
 work_type_source: filename

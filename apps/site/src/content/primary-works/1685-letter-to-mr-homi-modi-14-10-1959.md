@@ -1,7 +1,7 @@
 ---
 id: 1685-letter-to-mr-homi-modi-14-10-1959
 title:
-  main: "[Letter to Mr Homi Modi]"
+  main: "Letter to Mr Homi Modi"
   subtitle: ""
 work_type: speech
 purpose: convention_address

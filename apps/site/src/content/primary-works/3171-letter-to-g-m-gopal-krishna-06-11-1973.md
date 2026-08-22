@@ -1,7 +1,7 @@
 ---
 id: 3171-letter-to-g-m-gopal-krishna-06-11-1973
 title:
-  main: "[Letter to G M Gopal Krishna]"
+  main: "Letter to G M Gopal Krishna"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 771-letter-to-mrs-sharayu-a-daftary-25-11-1970
 title:
-  main: "[Letter to Mrs Sharayu A Daftary]"
+  main: "Letter to Mrs Sharayu A Daftary"
   subtitle: ""
 work_type: letter
 authors:

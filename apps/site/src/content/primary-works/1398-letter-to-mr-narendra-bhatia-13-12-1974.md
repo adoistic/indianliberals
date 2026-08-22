@@ -1,7 +1,7 @@
 ---
 id: 1398-letter-to-mr-narendra-bhatia-13-12-1974
 title:
-  main: "[Letter to Mr Narendra Bhatia]"
+  main: "Letter to Mr Narendra Bhatia"
   subtitle: ""
 work_type: letter
 authors:

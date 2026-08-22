@@ -1,7 +1,7 @@
 ---
 id: 20-letter-to-mr-bhikshu-jannadas-26-03-1971
 title:
-  main: "[Letter to Mr Bhikshu Jannadas]"
+  main: "Letter to Mr Bhikshu Jannadas"
   subtitle: ""
 work_type: letter
 authors:

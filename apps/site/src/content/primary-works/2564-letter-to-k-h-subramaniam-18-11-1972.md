@@ -1,7 +1,7 @@
 ---
 id: 2564-letter-to-k-h-subramaniam-18-11-1972
 title:
-  main: "[Letter to K H Subramaniam]"
+  main: "Letter to K H Subramaniam"
   subtitle: ""
 work_type: letter
 authors: []

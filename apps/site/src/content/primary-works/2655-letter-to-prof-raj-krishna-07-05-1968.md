@@ -1,7 +1,7 @@
 ---
 id: 2655-letter-to-prof-raj-krishna-07-05-1968
 title:
-  main: "[Letter to Prof Raj Krishna]"
+  main: "Letter to Prof Raj Krishna"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 2724-letter-form-mr-minoo-masani-01-11-1967
 title:
-  main: "[Letter Form Mr Minoo Masani]"
+  main: "Letter Form Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

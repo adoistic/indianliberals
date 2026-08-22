@@ -1,7 +1,7 @@
 ---
 id: 673-attached-note-on-education-16-12-1960
 title:
-  main: "[Attached Note On Education]"
+  main: "Attached Note On Education"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 4013-general-secertarys-letter-no-140-15-10-1966
 title:
-  main: "[General Secertarys Letter no-140]"
+  main: "General Secertarys Letter no-140"
   subtitle: ""
 work_type: letter
 authors:

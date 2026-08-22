@@ -1,7 +1,7 @@
 ---
 id: 5215-letter-to-jinraja-hegda-07-11-1959
 title:
-  main: "[Letter to Jinraja Hegda]"
+  main: "Letter to Jinraja Hegda"
   subtitle: ""
 work_type: letter
 authors:

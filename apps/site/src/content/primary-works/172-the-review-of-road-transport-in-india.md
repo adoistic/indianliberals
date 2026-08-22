@@ -1,7 +1,7 @@
 ---
 id: 172-the-review-of-road-transport-in-india
 title:
-  main: "[The Review of Road Transport in India]"
+  main: "The Review of Road Transport in India"
   subtitle: ""
 work_type: essay
 authors: []

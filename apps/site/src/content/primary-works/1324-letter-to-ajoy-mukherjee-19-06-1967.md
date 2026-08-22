@@ -1,7 +1,7 @@
 ---
 id: 1324-letter-to-ajoy-mukherjee-19-06-1967
 title:
-  main: "[Letter to Ajoy Mukherjee]"
+  main: "Letter to Ajoy Mukherjee"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 5694-letter-to-general-secertary-15-04-1970
 title:
-  main: "[Letter to General Secertary]"
+  main: "Letter to General Secertary"
   subtitle: ""
 work_type: letter
 authors: []

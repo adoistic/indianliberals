@@ -1,7 +1,7 @@
 ---
 id: 2638-letter-to-galbraith-13-05-1968
 title:
-  main: "[Letter to Galbraith]"
+  main: "Letter to Galbraith"
   subtitle: ""
 work_type: letter
 authors:

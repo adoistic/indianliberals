@@ -1,7 +1,7 @@
 ---
 id: 3228-letter-from-s-v-raju-13-06-1975
 title:
-  main: "[Letter from S V Raju]"
+  main: "Letter from S V Raju"
   subtitle: ""
 work_type: letter
 authors:

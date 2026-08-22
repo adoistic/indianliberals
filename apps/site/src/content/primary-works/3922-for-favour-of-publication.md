@@ -1,7 +1,7 @@
 ---
 id: 3922-for-favour-of-publication
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: essay
 work_type_source: classifier

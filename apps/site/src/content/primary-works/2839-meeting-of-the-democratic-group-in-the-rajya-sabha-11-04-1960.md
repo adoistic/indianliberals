@@ -1,7 +1,7 @@
 ---
 id: 2839-meeting-of-the-democratic-group-in-the-rajya-sabha-11-04-1960
 title:
-  main: "[Meeting of the Democratic Group in the Rajya Sabha]"
+  main: "Meeting of the Democratic Group in the Rajya Sabha"
   subtitle: ""
 work_type: minutes
 work_type_source: summary

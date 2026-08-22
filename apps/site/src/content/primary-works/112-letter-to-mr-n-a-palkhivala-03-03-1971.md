@@ -1,7 +1,7 @@
 ---
 id: 112-letter-to-mr-n-a-palkhivala-03-03-1971
 title:
-  main: "[Letter to Mr N A Palkhivala]"
+  main: "Letter to Mr N A Palkhivala"
   subtitle: ""
 work_type: letter
 authors:

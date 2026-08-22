@@ -1,7 +1,7 @@
 ---
 id: 4187-letter-to-c-rajagopalachari-23-01-1964
 title:
-  main: "[Letter to C Rajagopalachari]"
+  main: "Letter to C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors:

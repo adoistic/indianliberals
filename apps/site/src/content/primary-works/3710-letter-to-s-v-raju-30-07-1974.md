@@ -1,7 +1,7 @@
 ---
 id: 3710-letter-to-s-v-raju-30-07-1974
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 1100-letter-to-mr-roy-02-04-1984
 title:
-  main: "[Letter to Mr Roy]"
+  main: "Letter to Mr Roy"
   subtitle: ""
 work_type: letter
 authors:

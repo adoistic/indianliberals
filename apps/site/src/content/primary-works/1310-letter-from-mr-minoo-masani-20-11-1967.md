@@ -1,7 +1,7 @@
 ---
 id: 1310-letter-from-mr-minoo-masani-20-11-1967
 title:
-  main: "[Letter from Mr Minoo Masani]"
+  main: "Letter from Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

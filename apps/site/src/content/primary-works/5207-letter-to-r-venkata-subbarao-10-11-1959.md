@@ -1,7 +1,7 @@
 ---
 id: 5207-letter-to-r-venkata-subbarao-10-11-1959
 title:
-  main: "[Letter to R Venkata Subbarao]"
+  main: "Letter to R Venkata Subbarao"
   subtitle: ""
 work_type: letter
 authors:

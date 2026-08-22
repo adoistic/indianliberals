@@ -1,7 +1,7 @@
 ---
 id: 4145-letter-to-the-l-r-sampath
 title:
-  main: "[Letter to the L R Sampath]"
+  main: "Letter to the L R Sampath"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 1791-letter-to-mrs-lynn-06-08-1959
 title:
-  main: "[Letter to Mrs Lynn]"
+  main: "Letter to Mrs Lynn"
   subtitle: ""
 work_type: letter
 authors: []

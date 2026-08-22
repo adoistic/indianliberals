@@ -1,7 +1,7 @@
 ---
 id: 4748-letter-to-bhailalbhai-patel-05-06-1963
 title:
-  main: "[Letter to Bhailalbhai Patel]"
+  main: "Letter to Bhailalbhai Patel"
   subtitle: ""
 work_type: letter
 authors:

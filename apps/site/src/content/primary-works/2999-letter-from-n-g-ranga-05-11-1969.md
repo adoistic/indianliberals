@@ -1,7 +1,7 @@
 ---
 id: 2999-letter-from-n-g-ranga-05-11-1969
 title:
-  main: "[Letter from N G Ranga]"
+  main: "Letter from N G Ranga"
   subtitle: ""
 work_type: letter
 authors: []

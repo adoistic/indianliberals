@@ -1,7 +1,7 @@
 ---
 id: 5423-general-secretarys-letter-no-306-20-06-1973
 title:
-  main: "[General Secretarys letter no-306]"
+  main: "General Secretarys letter no-306"
   subtitle: ""
 work_type: letter
 work_type_source: filename

@@ -1,7 +1,7 @@
 ---
 id: 2645-letter-to-mr-s-mahapatra-20-06-1968
 title:
-  main: "[Letter to Mr S Mahapatra]"
+  main: "Letter to Mr S Mahapatra"
   subtitle: ""
 work_type: letter
 authors:

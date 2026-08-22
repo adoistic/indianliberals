@@ -1,7 +1,7 @@
 ---
 id: 4839-swatantra-party-minutes-of-meeting-12-04-1970
 title:
-  main: "[Swatantra Party Minutes of Meeting]"
+  main: "Swatantra Party Minutes of Meeting"
   subtitle: ""
 work_type: minutes
 work_type_source: filename

@@ -1,7 +1,7 @@
 ---
 id: 5914-letter-to-n-d-prabhu-27-10-1962
 title:
-  main: "[Letter to N D Prabhu]"
+  main: "Letter to N D Prabhu"
   subtitle: ""
 work_type: letter
 authors:

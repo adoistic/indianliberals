@@ -1,7 +1,7 @@
 ---
 id: 2413-letter-to-the-deputy-commissioner-of-police-02-07-1975
 title:
-  main: "[Letter to The Deputy Commissioner Of Police]"
+  main: "Letter to The Deputy Commissioner Of Police"
   subtitle: ""
 work_type: letter
 authors:

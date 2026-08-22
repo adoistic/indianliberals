@@ -1,7 +1,7 @@
 ---
 id: 1016-letter-to-bhailal-13-06-1963
 title:
-  main: "[Letter to Bhailal]"
+  main: "Letter to Bhailal"
   subtitle: ""
 work_type: letter
 authors:

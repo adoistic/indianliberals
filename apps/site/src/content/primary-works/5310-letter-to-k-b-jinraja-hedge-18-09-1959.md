@@ -1,7 +1,7 @@
 ---
 id: 5310-letter-to-k-b-jinraja-hedge-18-09-1959
 title:
-  main: "[Letter to K B Jinraja Hedge]"
+  main: "Letter to K B Jinraja Hedge"
   subtitle: ""
 work_type: letter
 authors: []

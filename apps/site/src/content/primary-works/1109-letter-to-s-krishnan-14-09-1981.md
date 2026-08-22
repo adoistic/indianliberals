@@ -1,7 +1,7 @@
 ---
 id: 1109-letter-to-s-krishnan-14-09-1981
 title:
-  main: "[Letter to S Krishnan]"
+  main: "Letter to S Krishnan"
   subtitle: ""
 work_type: telegram
 authors:

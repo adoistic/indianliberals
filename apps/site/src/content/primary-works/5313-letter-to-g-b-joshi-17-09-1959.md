@@ -1,7 +1,7 @@
 ---
 id: 5313-letter-to-g-b-joshi-17-09-1959
 title:
-  main: "[Letter to G B Joshi]"
+  main: "Letter to G B Joshi"
   subtitle: ""
 work_type: letter
 authors: []

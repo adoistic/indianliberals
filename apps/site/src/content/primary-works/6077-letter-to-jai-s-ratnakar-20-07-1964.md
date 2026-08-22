@@ -1,7 +1,7 @@
 ---
 id: 6077-letter-to-jai-s-ratnakar-20-07-1964
 title:
-  main: "[Letter to Jai S Ratnakar]"
+  main: "Letter to Jai S Ratnakar"
   subtitle: ""
 work_type: letter
 authors: []

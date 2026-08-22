@@ -1,7 +1,7 @@
 ---
 id: 5784-letter-from-mr-rajiv-patil
 title:
-  main: "[Letter From Mr Rajiv Patil]"
+  main: "Letter From Mr Rajiv Patil"
   subtitle: ""
 work_type: letter
 authors: []

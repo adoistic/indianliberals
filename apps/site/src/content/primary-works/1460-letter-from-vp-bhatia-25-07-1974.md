@@ -1,7 +1,7 @@
 ---
 id: 1460-letter-from-vp-bhatia-25-07-1974
 title:
-  main: "[letter from VP Bhatia]"
+  main: "letter from VP Bhatia"
   subtitle: ""
 work_type: letter
 authors: []

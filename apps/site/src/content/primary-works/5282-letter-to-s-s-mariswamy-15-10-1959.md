@@ -1,7 +1,7 @@
 ---
 id: 5282-letter-to-s-s-mariswamy-15-10-1959
 title:
-  main: "[Letter to S S Mariswamy]"
+  main: "Letter to S S Mariswamy"
   subtitle: ""
 work_type: letter
 authors:

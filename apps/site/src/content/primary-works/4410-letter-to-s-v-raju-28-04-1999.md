@@ -1,7 +1,7 @@
 ---
 id: 4410-letter-to-s-v-raju-28-04-1999
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

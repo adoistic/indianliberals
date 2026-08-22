@@ -1,7 +1,7 @@
 ---
 id: 3108-letter-to-m-r-arya-24-02-1975
 title:
-  main: "[Letter to M R Arya]"
+  main: "Letter to M R Arya"
   subtitle: ""
 work_type: letter
 authors:

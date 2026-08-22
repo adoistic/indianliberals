@@ -1,7 +1,7 @@
 ---
 id: 4250-letter-to-mr-c-rajagopalachari-27-05-1964
 title:
-  main: "[Letter to Mr C Rajagopalachari]"
+  main: "Letter to Mr C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors: []

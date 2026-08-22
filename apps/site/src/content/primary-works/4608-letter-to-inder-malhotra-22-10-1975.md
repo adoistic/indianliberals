@@ -1,7 +1,7 @@
 ---
 id: 4608-letter-to-inder-malhotra-22-10-1975
 title:
-  main: "[Letter to Inder Malhotra]"
+  main: "Letter to Inder Malhotra"
   subtitle: ""
 work_type: letter
 work_type_source: filename

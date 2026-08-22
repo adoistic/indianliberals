@@ -1,7 +1,7 @@
 ---
 id: 6221-letter-to-d-n-patodia-16-01-1970
 title:
-  main: "[Letter to D N Patodia]"
+  main: "Letter to D N Patodia"
   subtitle: ""
 work_type: letter
 authors: []

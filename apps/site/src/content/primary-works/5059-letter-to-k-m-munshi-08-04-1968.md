@@ -1,7 +1,7 @@
 ---
 id: 5059-letter-to-k-m-munshi-08-04-1968
 title:
-  main: "[Letter to K M Munshi]"
+  main: "Letter to K M Munshi"
   subtitle: ""
 work_type: correspondence
 authors:

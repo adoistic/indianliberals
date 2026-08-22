@@ -1,7 +1,7 @@
 ---
 id: 5364-press-report-published-in-the-pioneer-20-06-1968
 title:
-  main: "[Press Report Published in the Pioneer]"
+  main: "Press Report Published in the Pioneer"
   subtitle: ""
 work_type: report
 work_type_source: summary

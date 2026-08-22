@@ -1,7 +1,7 @@
 ---
 id: 2996-swatantra-party-receipt-08-11-1969
 title:
-  main: "[Swatantra Party Receipt]"
+  main: "Swatantra Party Receipt"
   subtitle: ""
 work_type: financial_record
 work_type_source: classifier

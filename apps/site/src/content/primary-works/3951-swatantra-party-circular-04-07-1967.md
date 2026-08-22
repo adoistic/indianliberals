@@ -1,7 +1,7 @@
 ---
 id: 3951-swatantra-party-circular-04-07-1967
 title:
-  main: "[Swatantra party Circular]"
+  main: "Swatantra party Circular"
   subtitle: ""
 work_type: circular
 work_type_source: filename

@@ -1,7 +1,7 @@
 ---
 id: 1274-letter-to-the-speaker-lok-sabha-03-12-1969
 title:
-  main: "[Letter to The Speaker-Lok Sabha]"
+  main: "Letter to The Speaker-Lok Sabha"
   subtitle: ""
 work_type: letter
 authors: []

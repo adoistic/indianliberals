@@ -1,7 +1,7 @@
 ---
 id: 2114-letter-from-sv-raju-12-11-1976
 title:
-  main: "[Letter from SV Raju]"
+  main: "Letter from SV Raju"
   subtitle: ""
 work_type: letter
 authors:

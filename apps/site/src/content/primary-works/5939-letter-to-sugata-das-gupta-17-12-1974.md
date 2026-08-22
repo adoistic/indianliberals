@@ -1,7 +1,7 @@
 ---
 id: 5939-letter-to-sugata-das-gupta-17-12-1974
 title:
-  main: "[Letter to Sugata Das Gupta]"
+  main: "Letter to Sugata Das Gupta"
   subtitle: ""
 work_type: letter
 authors:

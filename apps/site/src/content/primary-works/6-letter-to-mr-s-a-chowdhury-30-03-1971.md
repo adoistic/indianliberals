@@ -1,7 +1,7 @@
 ---
 id: 6-letter-to-mr-s-a-chowdhury-30-03-1971
 title:
-  main: "[Letter to Mr S A Chowdhury]"
+  main: "Letter to Mr S A Chowdhury"
   subtitle: ""
 work_type: letter
 authors:

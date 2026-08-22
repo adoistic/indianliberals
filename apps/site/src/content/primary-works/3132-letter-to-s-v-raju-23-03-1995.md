@@ -1,7 +1,7 @@
 ---
 id: 3132-letter-to-s-v-raju-23-03-1995
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

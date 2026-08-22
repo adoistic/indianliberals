@@ -1,7 +1,7 @@
 ---
 id: 749-under-certificate-of-posting-21-09-1974
 title:
-  main: "[Under Certificate of Posting]"
+  main: "Under Certificate of Posting"
   subtitle: ""
 work_type: letter
 authors: []

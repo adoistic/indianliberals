@@ -1,7 +1,7 @@
 ---
 id: 5715-letter-to-mr-r-c-cooper-04-04-1970
 title:
-  main: "[Letter to Mr R C Cooper]"
+  main: "Letter to Mr R C Cooper"
   subtitle: ""
 work_type: letter
 authors:

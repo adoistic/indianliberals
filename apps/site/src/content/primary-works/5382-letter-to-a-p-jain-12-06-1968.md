@@ -1,7 +1,7 @@
 ---
 id: 5382-letter-to-a-p-jain-12-06-1968
 title:
-  main: "[Letter to A P Jain]"
+  main: "Letter to A P Jain"
   subtitle: ""
 work_type: letter
 authors:

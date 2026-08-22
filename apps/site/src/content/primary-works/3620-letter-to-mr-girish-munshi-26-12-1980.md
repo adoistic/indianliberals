@@ -1,7 +1,7 @@
 ---
 id: 3620-letter-to-mr-girish-munshi-26-12-1980
 title:
-  main: "[Letter to Mr Girish Munshi]"
+  main: "Letter to Mr Girish Munshi"
   subtitle: ""
 work_type: letter
 authors: []

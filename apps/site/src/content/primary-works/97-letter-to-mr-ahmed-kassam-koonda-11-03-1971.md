@@ -1,7 +1,7 @@
 ---
 id: 97-letter-to-mr-ahmed-kassam-koonda-11-03-1971
 title:
-  main: "[Letter to Mr Ahmed Kassam Koonda]"
+  main: "Letter to Mr Ahmed Kassam Koonda"
   subtitle: ""
 work_type: letter
 authors:

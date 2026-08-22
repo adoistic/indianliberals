@@ -1,7 +1,7 @@
 ---
 id: 1780-letter-to-r-v-murthy-20-08-1959
 title:
-  main: "[Letter to R V Murthy]"
+  main: "Letter to R V Murthy"
   subtitle: ""
 work_type: correspondence
 authors: []

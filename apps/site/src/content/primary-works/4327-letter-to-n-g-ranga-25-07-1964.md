@@ -1,7 +1,7 @@
 ---
 id: 4327-letter-to-n-g-ranga-25-07-1964
 title:
-  main: "[Letter to N G Ranga]"
+  main: "Letter to N G Ranga"
   subtitle: ""
 work_type: letter
 authors:

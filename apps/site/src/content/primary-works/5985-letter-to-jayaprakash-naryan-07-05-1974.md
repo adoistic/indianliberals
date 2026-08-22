@@ -1,7 +1,7 @@
 ---
 id: 5985-letter-to-jayaprakash-naryan-07-05-1974
 title:
-  main: "[Letter to Jayaprakash Naryan]"
+  main: "Letter to Jayaprakash Naryan"
   subtitle: ""
 work_type: letter
 authors:

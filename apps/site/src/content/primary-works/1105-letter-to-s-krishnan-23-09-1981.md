@@ -1,7 +1,7 @@
 ---
 id: 1105-letter-to-s-krishnan-23-09-1981
 title:
-  main: "[Letter to S Krishnan]"
+  main: "Letter to S Krishnan"
   subtitle: ""
 work_type: letter
 authors:

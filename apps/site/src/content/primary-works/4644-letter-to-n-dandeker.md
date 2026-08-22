@@ -1,7 +1,7 @@
 ---
 id: 4644-letter-to-n-dandeker
 title:
-  main: "[Letter to N Dandeker]"
+  main: "Letter to N Dandeker"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 5268-the-tripclane-cultural-academy-1959-60
 title:
-  main: "[The Tripclane Cultural Academy-1959-60]"
+  main: "The Tripclane Cultural Academy-1959-60"
   subtitle: ""
 work_type: letter
 authors: []

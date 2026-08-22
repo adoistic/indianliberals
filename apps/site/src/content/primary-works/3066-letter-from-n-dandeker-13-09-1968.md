@@ -1,7 +1,7 @@
 ---
 id: 3066-letter-from-n-dandeker-13-09-1968
 title:
-  main: "[Letter from N Dandeker]"
+  main: "Letter from N Dandeker"
   subtitle: ""
 work_type: letter
 authors:

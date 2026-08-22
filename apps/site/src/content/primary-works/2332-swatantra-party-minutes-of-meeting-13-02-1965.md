@@ -1,7 +1,7 @@
 ---
 id: 2332-swatantra-party-minutes-of-meeting-13-02-1965
 title:
-  main: "[Swatantra Party Minutes of Meeting]"
+  main: "Swatantra Party Minutes of Meeting"
   subtitle: ""
 work_type: minutes
 work_type_source: filename

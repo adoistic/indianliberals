@@ -1,7 +1,7 @@
 ---
 id: 5911-letter-to-ashok-padbidri-23-07-1963
 title:
-  main: "[Letter to Ashok Padbidri]"
+  main: "Letter to Ashok Padbidri"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 2569-letter-to-maryam-18-09-1972
 title:
-  main: "[Letter to Maryam]"
+  main: "Letter to Maryam"
   subtitle: ""
 work_type: letter
 authors: []

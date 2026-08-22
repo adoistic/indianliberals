@@ -1,7 +1,7 @@
 ---
 id: 5312-letter-to-george-a-floris-17-09-1959
 title:
-  main: "[Letter to George A Floris]"
+  main: "Letter to George A Floris"
   subtitle: ""
 work_type: letter
 authors: []

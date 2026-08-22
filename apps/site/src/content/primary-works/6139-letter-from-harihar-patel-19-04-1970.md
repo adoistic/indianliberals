@@ -1,7 +1,7 @@
 ---
 id: 6139-letter-from-harihar-patel-19-04-1970
 title:
-  main: "[Letter from Harihar Patel]"
+  main: "Letter from Harihar Patel"
   subtitle: ""
 work_type: letter
 authors: []

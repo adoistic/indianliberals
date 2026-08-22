@@ -1,7 +1,7 @@
 ---
 id: 110-letter-to-tony-03-03-1971
 title:
-  main: "[Letter to Tony]"
+  main: "Letter to Tony"
   subtitle: ""
 work_type: letter
 authors:

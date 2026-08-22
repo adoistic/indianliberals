@@ -1,7 +1,7 @@
 ---
 id: 2146-letter-to-sv-raju-01-12-1975
 title:
-  main: "[Letter to SV Raju]"
+  main: "Letter to SV Raju"
   subtitle: ""
 work_type: letter
 authors: []

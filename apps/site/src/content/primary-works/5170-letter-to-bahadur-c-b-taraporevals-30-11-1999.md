@@ -1,7 +1,7 @@
 ---
 id: 5170-letter-to-bahadur-c-b-taraporevals-30-11-1999
 title:
-  main: "[Letter to Bahadur C B Taraporevals]"
+  main: "Letter to Bahadur C B Taraporevals"
   subtitle: ""
 work_type: letter
 authors:

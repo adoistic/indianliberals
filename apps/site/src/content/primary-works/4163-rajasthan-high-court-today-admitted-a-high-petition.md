@@ -1,7 +1,7 @@
 ---
 id: 4163-rajasthan-high-court-today-admitted-a-high-petition
 title:
-  main: "[Rajasthan high court today admitted a high petition]"
+  main: "Rajasthan high court today admitted a high petition"
   subtitle: ""
 work_type: report
 work_type_source: summary

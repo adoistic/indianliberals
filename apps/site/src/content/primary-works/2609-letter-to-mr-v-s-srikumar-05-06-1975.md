@@ -1,7 +1,7 @@
 ---
 id: 2609-letter-to-mr-v-s-srikumar-05-06-1975
 title:
-  main: "[Letter to Mr V S Srikumar]"
+  main: "Letter to Mr V S Srikumar"
   subtitle: ""
 work_type: letter
 authors: []

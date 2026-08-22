@@ -1,7 +1,7 @@
 ---
 id: 5043-swatantra-party-minutes-of-meeting-31-11-1963
 title:
-  main: "[Swatantra Party Minutes of Meeting]"
+  main: "Swatantra Party Minutes of Meeting"
   subtitle: ""
 work_type: minutes
 work_type_source: filename

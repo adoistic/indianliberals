@@ -1,7 +1,7 @@
 ---
 id: 5876-letter-to-a-madhwa-warrier-02-11-1967
 title:
-  main: "[Letter to A Madhwa Warrier]"
+  main: "Letter to A Madhwa Warrier"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 3106-shaka-sharvana
 title:
-  main: "[Shaka Sharvana]"
+  main: "Shaka Sharvana"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 3048-letter-from-m-c-chagla-01-04-1969
 title:
-  main: "[Letter from M C Chagla]"
+  main: "Letter from M C Chagla"
   subtitle: ""
 work_type: letter
 authors:

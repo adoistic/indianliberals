@@ -1,7 +1,7 @@
 ---
 id: 2302-letter-to-mr-piloo-mody-22-02-1975
 title:
-  main: "[Letter to Mr Piloo Mody]"
+  main: "Letter to Mr Piloo Mody"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 2398-letter-to-mr-a-p-sinha-29-04-1987
 title:
-  main: "[Letter to Mr A P Sinha]"
+  main: "Letter to Mr A P Sinha"
   subtitle: ""
 work_type: letter
 authors:

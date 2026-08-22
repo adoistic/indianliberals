@@ -1,7 +1,7 @@
 ---
 id: 938-letter-to-dahyabhai-v-patel-17-05-1974
 title:
-  main: "[Letter to Dahyabhai V Patel]"
+  main: "Letter to Dahyabhai V Patel"
   subtitle: ""
 work_type: letter
 authors:

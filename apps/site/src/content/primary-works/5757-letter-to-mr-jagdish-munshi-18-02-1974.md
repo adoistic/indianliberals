@@ -1,7 +1,7 @@
 ---
 id: 5757-letter-to-mr-jagdish-munshi-18-02-1974
 title:
-  main: "[Letter to Mr Jagdish Munshi]"
+  main: "Letter to Mr Jagdish Munshi"
   subtitle: ""
 work_type: letter
 authors: []

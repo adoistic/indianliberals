@@ -1,7 +1,7 @@
 ---
 id: 620-for-favour-of-publication-25-10-1962
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: essay
 work_type_source: summary

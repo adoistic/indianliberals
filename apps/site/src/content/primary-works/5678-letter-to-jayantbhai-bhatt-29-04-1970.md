@@ -1,7 +1,7 @@
 ---
 id: 5678-letter-to-jayantbhai-bhatt-29-04-1970
 title:
-  main: "[Letter to Jayantbhai bhatt`]"
+  main: "Letter to Jayantbhai bhatt`"
   subtitle: ""
 work_type: letter
 authors:

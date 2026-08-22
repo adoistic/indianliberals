@@ -1,7 +1,7 @@
 ---
 id: 5053-list-for-emergency-meeting-for-the-general-council
 title:
-  main: "[List for Emergency Meeting for the General Council]"
+  main: "List for Emergency Meeting for the General Council"
   subtitle: ""
 work_type: office_record
 work_type_source: summary

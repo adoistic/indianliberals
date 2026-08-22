@@ -1,7 +1,7 @@
 ---
 id: 46-letter-to-mr-sri-prakash-22-03-1971
 title:
-  main: "[Letter to Mr Sri Prakash]"
+  main: "Letter to Mr Sri Prakash"
   subtitle: ""
 work_type: letter
 authors:

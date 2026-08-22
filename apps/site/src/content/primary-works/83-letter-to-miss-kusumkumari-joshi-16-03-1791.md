@@ -1,7 +1,7 @@
 ---
 id: 83-letter-to-miss-kusumkumari-joshi-16-03-1791
 title:
-  main: "[Letter to Miss Kusumkumari Joshi]"
+  main: "Letter to Miss Kusumkumari Joshi"
   subtitle: ""
 work_type: letter
 authors:

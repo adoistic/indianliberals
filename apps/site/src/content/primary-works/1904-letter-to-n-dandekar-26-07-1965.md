@@ -1,7 +1,7 @@
 ---
 id: 1904-letter-to-n-dandekar-26-07-1965
 title:
-  main: "[Letter to N Dandekar]"
+  main: "Letter to N Dandekar"
   subtitle: ""
 work_type: letter
 authors: []

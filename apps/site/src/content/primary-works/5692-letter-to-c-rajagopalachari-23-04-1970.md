@@ -1,7 +1,7 @@
 ---
 id: 5692-letter-to-c-rajagopalachari-23-04-1970
 title:
-  main: "[Letter to C Rajagopalachari]"
+  main: "Letter to C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors:

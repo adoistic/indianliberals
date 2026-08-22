@@ -1,7 +1,7 @@
 ---
 id: 3187-letter-to-dilip-chitre-10-01-1973
 title:
-  main: "[Letter to Dilip Chitre]"
+  main: "Letter to Dilip Chitre"
   subtitle: ""
 work_type: letter
 authors: []

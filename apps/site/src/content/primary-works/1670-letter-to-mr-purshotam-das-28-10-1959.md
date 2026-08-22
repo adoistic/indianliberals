@@ -1,7 +1,7 @@
 ---
 id: 1670-letter-to-mr-purshotam-das-28-10-1959
 title:
-  main: "[Letter to Mr Purshotam Das]"
+  main: "Letter to Mr Purshotam Das"
   subtitle: ""
 work_type: letter
 authors: []

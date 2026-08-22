@@ -1,7 +1,7 @@
 ---
 id: 1894-telegram-from-mr-minoo-masani
 title:
-  main: "[Telegram from Mr Minoo Masani]"
+  main: "Telegram from Mr Minoo Masani"
   subtitle: ""
 work_type: telegram
 authors: []

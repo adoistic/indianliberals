@@ -1,7 +1,7 @@
 ---
 id: 1399-national-alternative-to-congress-14-12-1974
 title:
-  main: "[National Alternative to Congress]"
+  main: "National Alternative to Congress"
   subtitle: ""
 work_type: periodical_issue
 authors: []

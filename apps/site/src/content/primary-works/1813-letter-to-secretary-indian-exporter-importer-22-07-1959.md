@@ -1,7 +1,7 @@
 ---
 id: 1813-letter-to-secretary-indian-exporter-importer-22-07-1959
 title:
-  main: "[Letter to Secretary-Indian Exporter & Importer]"
+  main: "Letter to Secretary-Indian Exporter & Importer"
   subtitle: ""
 work_type: letter
 authors: []

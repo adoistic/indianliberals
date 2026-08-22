@@ -1,7 +1,7 @@
 ---
 id: 790-letter-to-a-duraisamy-18-11-1974
 title:
-  main: "[Letter to A Duraisamy]"
+  main: "Letter to A Duraisamy"
   subtitle: ""
 work_type: letter
 authors:

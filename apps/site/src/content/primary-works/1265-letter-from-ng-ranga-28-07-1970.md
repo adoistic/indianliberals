@@ -1,7 +1,7 @@
 ---
 id: 1265-letter-from-ng-ranga-28-07-1970
 title:
-  main: "[Letter from NG Ranga]"
+  main: "Letter from NG Ranga"
   subtitle: ""
 work_type: letter
 authors:

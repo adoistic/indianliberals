@@ -1,7 +1,7 @@
 ---
 id: 6291-letter-to-mr-yaswant-kumar-choudhary-21-04-1971
 title:
-  main: "[Letter to Mr Yaswant Kumar Choudhary]"
+  main: "Letter to Mr Yaswant Kumar Choudhary"
   subtitle: ""
 work_type: letter
 authors:

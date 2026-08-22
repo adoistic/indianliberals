@@ -1,7 +1,7 @@
 ---
 id: 3833-letter-to-k-v-k-sundaram-28-10-1965
 title:
-  main: "[Letter to K V K Sundaram]"
+  main: "Letter to K V K Sundaram"
   subtitle: ""
 work_type: letter
 authors:

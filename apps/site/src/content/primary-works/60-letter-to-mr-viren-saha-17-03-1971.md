@@ -1,7 +1,7 @@
 ---
 id: 60-letter-to-mr-viren-saha-17-03-1971
 title:
-  main: "[Letter to Mr Viren Saha]"
+  main: "Letter to Mr Viren Saha"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 3036-letter-to-r-c-cooper-04-07-1969
 title:
-  main: "[Letter to R C Cooper]"
+  main: "Letter to R C Cooper"
   subtitle: ""
 work_type: letter
 authors:

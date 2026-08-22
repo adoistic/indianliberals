@@ -1,7 +1,7 @@
 ---
 id: 1779-letter-to-mr-b-b-kapasi-20-08-1959
 title:
-  main: "[Letter to Mr B B Kapasi]"
+  main: "Letter to Mr B B Kapasi"
   subtitle: ""
 work_type: letter
 authors: []

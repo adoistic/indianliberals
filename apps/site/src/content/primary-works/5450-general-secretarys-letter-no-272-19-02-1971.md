@@ -1,7 +1,7 @@
 ---
 id: 5450-general-secretarys-letter-no-272-19-02-1971
 title:
-  main: "[General Secretarys letter no-272]"
+  main: "General Secretarys letter no-272"
   subtitle: ""
 work_type: letter
 authors: []

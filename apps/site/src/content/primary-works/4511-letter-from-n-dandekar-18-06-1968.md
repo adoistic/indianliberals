@@ -1,7 +1,7 @@
 ---
 id: 4511-letter-from-n-dandekar-18-06-1968
 title:
-  main: "[Letter from N Dandekar]"
+  main: "Letter from N Dandekar"
   subtitle: ""
 work_type: letter
 authors:

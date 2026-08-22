@@ -1,7 +1,7 @@
 ---
 id: 2307-rent-and-electricity-charges-for-the-month-dec-1974-16-01-1975
 title:
-  main: "[Rent and Electricity Charges For The Month Dec-1974]"
+  main: "Rent and Electricity Charges For The Month Dec-1974"
   subtitle: ""
 work_type: letter
 authors: []

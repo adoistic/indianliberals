@@ -1,7 +1,7 @@
 ---
 id: 3230-letter-from-s-v-raju-17-12-1974
 title:
-  main: "[Letter from S V Raju]"
+  main: "Letter from S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 6076-c-rajagopalachari-programme
 title:
-  main: "[C Rajagopalachari Programme]"
+  main: "C Rajagopalachari Programme"
   subtitle: ""
 work_type: programme
 work_type_source: classifier

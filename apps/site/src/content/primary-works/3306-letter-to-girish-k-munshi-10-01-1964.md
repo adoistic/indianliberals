@@ -1,7 +1,7 @@
 ---
 id: 3306-letter-to-girish-k-munshi-10-01-1964
 title:
-  main: "[Letter to Girish K Munshi]"
+  main: "Letter to Girish K Munshi"
   subtitle: ""
 work_type: letter
 authors:

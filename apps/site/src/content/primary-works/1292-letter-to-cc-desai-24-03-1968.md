@@ -1,7 +1,7 @@
 ---
 id: 1292-letter-to-cc-desai-24-03-1968
 title:
-  main: "[Letter to CC Desai]"
+  main: "Letter to CC Desai"
   subtitle: ""
 work_type: letter
 authors: []

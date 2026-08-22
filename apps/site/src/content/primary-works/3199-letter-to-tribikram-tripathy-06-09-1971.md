@@ -1,7 +1,7 @@
 ---
 id: 3199-letter-to-tribikram-tripathy-06-09-1971
 title:
-  main: "[Letter to Tribikram Tripathy]"
+  main: "Letter to Tribikram Tripathy"
   subtitle: ""
 work_type: letter
 authors:

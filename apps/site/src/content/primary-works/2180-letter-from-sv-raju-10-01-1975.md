@@ -1,7 +1,7 @@
 ---
 id: 2180-letter-from-sv-raju-10-01-1975
 title:
-  main: "[Letter from SV Raju]"
+  main: "Letter from SV Raju"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 4609-for-favour-of-publication-12-04-1968
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: resolution
 work_type_source: summary

@@ -1,7 +1,7 @@
 ---
 id: 1431-letter-to-piloo-mody-13-09-1974
 title:
-  main: "[Letter to Piloo Mody]"
+  main: "Letter to Piloo Mody"
   subtitle: ""
 work_type: letter
 authors: []

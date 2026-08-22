@@ -1,7 +1,7 @@
 ---
 id: 4338-letter-to-s-v-raju-14-07-1964
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

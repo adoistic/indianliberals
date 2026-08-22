@@ -1,7 +1,7 @@
 ---
 id: 1219-receipt-of-donation-no-104-11-02-1975
 title:
-  main: "[Receipt of Donation No-104]"
+  main: "Receipt of Donation No-104"
   subtitle: ""
 work_type: letter
 authors: []

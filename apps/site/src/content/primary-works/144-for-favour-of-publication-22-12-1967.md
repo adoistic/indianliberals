@@ -1,7 +1,7 @@
 ---
 id: 144-for-favour-of-publication-22-12-1967
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: press_note
 authors: []

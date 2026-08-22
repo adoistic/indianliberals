@@ -1,7 +1,7 @@
 ---
 id: 5354-letter-to-charan-singh-07-07-1975
 title:
-  main: "[Letter to Charan Singh]"
+  main: "Letter to Charan Singh"
   subtitle: ""
 work_type: letter
 authors: []

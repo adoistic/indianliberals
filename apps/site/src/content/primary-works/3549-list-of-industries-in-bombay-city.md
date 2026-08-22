@@ -1,7 +1,7 @@
 ---
 id: 3549-list-of-industries-in-bombay-city
 title:
-  main: "[List Of Industries In Bombay City]"
+  main: "List Of Industries In Bombay City"
   subtitle: ""
 work_type: reference
 authors: []

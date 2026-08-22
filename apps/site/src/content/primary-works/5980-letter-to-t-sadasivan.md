@@ -1,7 +1,7 @@
 ---
 id: 5980-letter-to-t-sadasivan
 title:
-  main: "[Letter to T Sadasivan]"
+  main: "Letter to T Sadasivan"
   subtitle: ""
 work_type: letter
 authors:

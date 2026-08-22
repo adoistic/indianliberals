@@ -1,7 +1,7 @@
 ---
 id: 4796-affadavit
 title:
-  main: "[Affadavit]"
+  main: "Affadavit"
   subtitle: ""
 work_type: legal_filing
 work_type_source: summary

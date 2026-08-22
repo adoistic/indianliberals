@@ -1,7 +1,7 @@
 ---
 id: 113-letter-to-mr-jairam-patel-03-03-1971
 title:
-  main: "[Letter to Mr Jairam Patel]"
+  main: "Letter to Mr Jairam Patel"
   subtitle: ""
 work_type: letter
 authors:

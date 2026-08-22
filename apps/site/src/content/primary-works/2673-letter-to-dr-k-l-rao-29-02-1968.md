@@ -1,7 +1,7 @@
 ---
 id: 2673-letter-to-dr-k-l-rao-29-02-1968
 title:
-  main: "[Letter to Dr K L Rao]"
+  main: "Letter to Dr K L Rao"
   subtitle: ""
 work_type: letter
 authors:

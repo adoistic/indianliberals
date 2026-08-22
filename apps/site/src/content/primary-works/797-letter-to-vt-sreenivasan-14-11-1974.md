@@ -1,7 +1,7 @@
 ---
 id: 797-letter-to-vt-sreenivasan-14-11-1974
 title:
-  main: "[Letter to VT Sreenivasan]"
+  main: "Letter to VT Sreenivasan"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 6058-letter-to-jayaprakash-naryan-18-11-1971
 title:
-  main: "[Letter to Jayaprakash Naryan]"
+  main: "Letter to Jayaprakash Naryan"
   subtitle: ""
 work_type: letter
 authors:

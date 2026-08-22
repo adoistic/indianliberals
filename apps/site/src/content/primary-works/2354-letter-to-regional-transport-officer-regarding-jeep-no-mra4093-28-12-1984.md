@@ -1,7 +1,7 @@
 ---
 id: 2354-letter-to-regional-transport-officer-regarding-jeep-no-mra4093-28-12-1984
 title:
-  main: "[Letter to Regional Transport Officer Regarding Jeep No-MRA4093]"
+  main: "Letter to Regional Transport Officer Regarding Jeep No-MRA4093"
   subtitle: ""
 work_type: letter
 authors:

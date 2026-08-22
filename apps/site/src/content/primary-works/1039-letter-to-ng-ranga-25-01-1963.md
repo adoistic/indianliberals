@@ -1,7 +1,7 @@
 ---
 id: 1039-letter-to-ng-ranga-25-01-1963
 title:
-  main: "[Letter to NG Ranga]"
+  main: "Letter to NG Ranga"
   subtitle: ""
 work_type: letter
 authors:

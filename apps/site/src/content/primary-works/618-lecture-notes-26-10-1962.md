@@ -1,7 +1,7 @@
 ---
 id: 618-lecture-notes-26-10-1962
 title:
-  main: "[Lecture Notes]"
+  main: "Lecture Notes"
   subtitle: ""
 work_type: lecture
 work_type_source: filename

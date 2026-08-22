@@ -1,7 +1,7 @@
 ---
 id: 5446-general-secretarys-letter-no-279-21-03-1972
 title:
-  main: "[General Secretarys letter no-279]"
+  main: "General Secretarys letter no-279"
   subtitle: ""
 work_type: letter
 authors: []

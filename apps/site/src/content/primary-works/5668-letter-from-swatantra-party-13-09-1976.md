@@ -1,7 +1,7 @@
 ---
 id: 5668-letter-from-swatantra-party-13-09-1976
 title:
-  main: "[Letter from Swatantra Party]"
+  main: "Letter from Swatantra Party"
   subtitle: ""
 work_type: letter
 authors: []

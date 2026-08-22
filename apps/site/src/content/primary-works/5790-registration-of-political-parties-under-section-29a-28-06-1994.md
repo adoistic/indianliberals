@@ -1,7 +1,7 @@
 ---
 id: 5790-registration-of-political-parties-under-section-29a-28-06-1994
 title:
-  main: "[Registration Of Political Parties Under Section 29A]"
+  main: "Registration Of Political Parties Under Section 29A"
   subtitle: ""
 work_type: letter
 authors: []

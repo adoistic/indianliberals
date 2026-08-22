@@ -1,7 +1,7 @@
 ---
 id: 3882-letter-from-s-v-raju-13-05-1965
 title:
-  main: "[Letter from S V Raju]"
+  main: "Letter from S V Raju"
   subtitle: ""
 work_type: letter
 authors:

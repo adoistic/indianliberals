@@ -1,7 +1,7 @@
 ---
 id: 2626-letter-to-mr-doraisamy-nadar-09-05-1975
 title:
-  main: "[Letter to Mr Doraisamy Nadar]"
+  main: "Letter to Mr Doraisamy Nadar"
   subtitle: ""
 work_type: correspondence
 authors: []

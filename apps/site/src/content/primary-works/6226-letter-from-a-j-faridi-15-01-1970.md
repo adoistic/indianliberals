@@ -1,7 +1,7 @@
 ---
 id: 6226-letter-from-a-j-faridi-15-01-1970
 title:
-  main: "[Letter from A J Faridi]"
+  main: "Letter from A J Faridi"
   subtitle: ""
 work_type: letter
 authors: []

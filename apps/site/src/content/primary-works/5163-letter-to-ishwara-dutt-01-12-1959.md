@@ -1,7 +1,7 @@
 ---
 id: 5163-letter-to-ishwara-dutt-01-12-1959
 title:
-  main: "[Letter to Ishwara Dutt]"
+  main: "Letter to Ishwara Dutt"
   subtitle: ""
 work_type: letter
 authors:

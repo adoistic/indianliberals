@@ -1,7 +1,7 @@
 ---
 id: 6079-letter-from-c-rajagopalachari-21-09-1961
 title:
-  main: "[Letter from C Rajagopalachari]"
+  main: "Letter from C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 248-a-stude-stuf-to-gentlemen-07-12-1979
 title:
-  main: "[A Stude Stuf to Gentlemen]"
+  main: "A Stude Stuf to Gentlemen"
   subtitle: ""
 work_type: essay
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 2206-letter-to-dhyan-s-makhija-29-11-1971
 title:
-  main: "[Letter to Dhyan S Makhija]"
+  main: "Letter to Dhyan S Makhija"
   subtitle: ""
 work_type: letter
 authors: []

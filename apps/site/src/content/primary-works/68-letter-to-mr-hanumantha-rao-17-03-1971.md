@@ -1,7 +1,7 @@
 ---
 id: 68-letter-to-mr-hanumantha-rao-17-03-1971
 title:
-  main: "[Letter to Mr Hanumantha Rao]"
+  main: "Letter to Mr Hanumantha Rao"
   subtitle: ""
 work_type: letter
 authors:

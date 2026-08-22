@@ -1,7 +1,7 @@
 ---
 id: 855-letter-to-rd-patel-30-07-1974
 title:
-  main: "[Letter to RD Patel]"
+  main: "Letter to RD Patel"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 5165-letter-to-k-r-koshti-01-12-1959
 title:
-  main: "[Letter to K R Koshti]"
+  main: "Letter to K R Koshti"
   subtitle: ""
 work_type: letter
 authors:

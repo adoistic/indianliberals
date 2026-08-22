@@ -1,7 +1,7 @@
 ---
 id: 5655-hindustani-movement-indians-in-service-of-india-06-11-1976
 title:
-  main: "[Hindustani Movement Indians in Service of India]"
+  main: "Hindustani Movement Indians in Service of India"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 3324-letter-to-bateshwar-prasad-singh-09-10-1962
 title:
-  main: "[Letter to Bateshwar Prasad Singh]"
+  main: "Letter to Bateshwar Prasad Singh"
   subtitle: ""
 work_type: letter
 authors:

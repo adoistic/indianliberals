@@ -1,7 +1,7 @@
 ---
 id: 4431-letter-to-h-m-patel-07-07-1989
 title:
-  main: "[Letter to H M Patel]"
+  main: "Letter to H M Patel"
   subtitle: ""
 work_type: letter
 authors:

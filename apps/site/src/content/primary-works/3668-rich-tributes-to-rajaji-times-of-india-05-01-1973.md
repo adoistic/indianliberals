@@ -1,7 +1,7 @@
 ---
 id: 3668-rich-tributes-to-rajaji-times-of-india-05-01-1973
 title:
-  main: "[Rich Tributes To Rajaji-Times Of India]"
+  main: "Rich Tributes To Rajaji-Times Of India"
   subtitle: ""
 work_type: letter
 authors:

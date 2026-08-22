@@ -1,7 +1,7 @@
 ---
 id: 2840-letter-to-the-editor-16-02-1960
 title:
-  main: "[Letter to the Editor]"
+  main: "Letter to the Editor"
   subtitle: ""
 work_type: letter
 authors: []

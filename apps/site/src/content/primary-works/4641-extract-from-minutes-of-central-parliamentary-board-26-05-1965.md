@@ -1,7 +1,7 @@
 ---
 id: 4641-extract-from-minutes-of-central-parliamentary-board-26-05-1965
 title:
-  main: "[Extract from Minutes of Central Parliamentary Board]"
+  main: "Extract from Minutes of Central Parliamentary Board"
   subtitle: ""
 work_type: minutes
 work_type_source: filename

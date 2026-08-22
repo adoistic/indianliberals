@@ -1,7 +1,7 @@
 ---
 id: 4971-letter-to-t-sadasivas-18-07-1975
 title:
-  main: "[Letter to T Sadasivas]"
+  main: "Letter to T Sadasivas"
   subtitle: ""
 work_type: letter
 authors: []

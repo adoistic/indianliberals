@@ -1,7 +1,7 @@
 ---
 id: 4818-department-of-telecommunications
 title:
-  main: "[Department of Telecommunications]"
+  main: "Department of Telecommunications"
   subtitle: ""
 work_type: telegram
 authors: []

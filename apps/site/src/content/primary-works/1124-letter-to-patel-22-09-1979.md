@@ -1,7 +1,7 @@
 ---
 id: 1124-letter-to-patel-22-09-1979
 title:
-  main: "[Letter to Patel]"
+  main: "Letter to Patel"
   subtitle: ""
 work_type: letter
 authors:

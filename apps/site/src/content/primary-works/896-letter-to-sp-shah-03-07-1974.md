@@ -1,7 +1,7 @@
 ---
 id: 896-letter-to-sp-shah-03-07-1974
 title:
-  main: "[Letter to SP Shah]"
+  main: "Letter to SP Shah"
   subtitle: ""
 work_type: letter
 authors:

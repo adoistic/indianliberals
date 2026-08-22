@@ -1,7 +1,7 @@
 ---
 id: 899-letter-to-gk-sundaram-27-06-1974
 title:
-  main: "[Letter to GK Sundaram]"
+  main: "Letter to GK Sundaram"
   subtitle: ""
 work_type: letter
 authors:

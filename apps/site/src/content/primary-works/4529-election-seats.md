@@ -1,7 +1,7 @@
 ---
 id: 4529-election-seats
 title:
-  main: "[Election Seats]"
+  main: "Election Seats"
   subtitle: ""
 work_type: periodical_issue
 authors: []

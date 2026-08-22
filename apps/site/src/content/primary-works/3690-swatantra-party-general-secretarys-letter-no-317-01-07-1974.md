@@ -1,7 +1,7 @@
 ---
 id: 3690-swatantra-party-general-secretarys-letter-no-317-01-07-1974
 title:
-  main: "[Swatantra Party General Secretarys Letter No-317]"
+  main: "Swatantra Party General Secretarys Letter No-317"
   subtitle: ""
 work_type: letter
 authors: []

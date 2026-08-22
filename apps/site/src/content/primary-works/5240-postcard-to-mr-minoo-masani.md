@@ -1,7 +1,7 @@
 ---
 id: 5240-postcard-to-mr-minoo-masani
 title:
-  main: "[Postcard to Mr Minoo Masani]"
+  main: "Postcard to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

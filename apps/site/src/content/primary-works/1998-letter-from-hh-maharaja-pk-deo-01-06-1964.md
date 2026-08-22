@@ -1,7 +1,7 @@
 ---
 id: 1998-letter-from-hh-maharaja-pk-deo-01-06-1964
 title:
-  main: "[Letter from HH Maharaja PK Deo]"
+  main: "Letter from HH Maharaja PK Deo"
   subtitle: ""
 work_type: letter
 authors: []

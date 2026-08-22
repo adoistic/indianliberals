@@ -1,7 +1,7 @@
 ---
 id: 3290-letter-to-c-rajagopalachari-26-09-1961
 title:
-  main: "[Letter to C Rajagopalachari]"
+  main: "Letter to C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors:

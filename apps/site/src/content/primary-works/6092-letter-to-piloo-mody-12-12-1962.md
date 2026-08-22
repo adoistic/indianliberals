@@ -1,7 +1,7 @@
 ---
 id: 6092-letter-to-piloo-mody-12-12-1962
 title:
-  main: "[Letter to Piloo Mody]"
+  main: "Letter to Piloo Mody"
   subtitle: ""
 work_type: letter
 authors:

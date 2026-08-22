@@ -1,7 +1,7 @@
 ---
 id: 2760-swatantra-dissolution-not-possible-indian-express-20-08-1974
 title:
-  main: "[Swatantra Dissolution Not Possible-Indian Express]"
+  main: "Swatantra Dissolution Not Possible-Indian Express"
   subtitle: ""
 work_type: resolution
 authors: []

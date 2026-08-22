@@ -1,7 +1,7 @@
 ---
 id: 5990-letter-to-jayaprakash-naryan-18-03-1974
 title:
-  main: "[Letter to Jayaprakash Naryan]"
+  main: "Letter to Jayaprakash Naryan"
   subtitle: ""
 work_type: letter
 authors:

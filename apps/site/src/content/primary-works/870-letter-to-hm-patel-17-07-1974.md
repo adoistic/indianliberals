@@ -1,7 +1,7 @@
 ---
 id: 870-letter-to-hm-patel-17-07-1974
 title:
-  main: "[Letter to HM Patel]"
+  main: "Letter to HM Patel"
   subtitle: ""
 work_type: letter
 authors:

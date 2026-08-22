@@ -1,7 +1,7 @@
 ---
 id: 2310-rent-and-electricity-charges-for-the-month-oct-1974-26-11-1974
 title:
-  main: "[Rent and Electricity Charges For The Month Oct-1974]"
+  main: "Rent and Electricity Charges For The Month Oct-1974"
   subtitle: ""
 work_type: essay
 work_type_source: summary

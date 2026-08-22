@@ -1,7 +1,7 @@
 ---
 id: 1890-letter-from-mr-minoo-masani-09-08-1965
 title:
-  main: "[Letter from Mr Minoo Masani]"
+  main: "Letter from Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

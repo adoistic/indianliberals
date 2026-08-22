@@ -1,7 +1,7 @@
 ---
 id: 6094-letter-to-the-secretary
 title:
-  main: "[Letter to the secretary]"
+  main: "Letter to the secretary"
   subtitle: ""
 work_type: letter
 authors:

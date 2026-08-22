@@ -1,7 +1,7 @@
 ---
 id: 1812-letter-to-bb-kapashi-22-07-1959
 title:
-  main: "[Letter to BB Kapashi]"
+  main: "Letter to BB Kapashi"
   subtitle: ""
 work_type: letter
 authors: []

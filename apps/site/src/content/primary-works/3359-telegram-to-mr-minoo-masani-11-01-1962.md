@@ -1,7 +1,7 @@
 ---
 id: 3359-telegram-to-mr-minoo-masani-11-01-1962
 title:
-  main: "[Telegram to Mr Minoo Masani]"
+  main: "Telegram to Mr Minoo Masani"
   subtitle: ""
 work_type: telegram
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 1897-letter-to-secretary-lok-sabha
 title:
-  main: "[Letter to Secretary-Lok Sabha]"
+  main: "Letter to Secretary-Lok Sabha"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 2895-letter-from-mr-minoo-masani-03-04-1962
 title:
-  main: "[Letter from Mr Minoo Masani]"
+  main: "Letter from Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 5248-letter-to-j-r-manjari-22-10-1975
 title:
-  main: "[Letter to J R Manjari]"
+  main: "Letter to J R Manjari"
   subtitle: ""
 work_type: letter
 authors:

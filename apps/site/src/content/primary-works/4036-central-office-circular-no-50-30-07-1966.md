@@ -1,7 +1,7 @@
 ---
 id: 4036-central-office-circular-no-50-30-07-1966
 title:
-  main: "[Central Office Circular no-50]"
+  main: "Central Office Circular no-50"
   subtitle: ""
 work_type: circular
 work_type_source: filename

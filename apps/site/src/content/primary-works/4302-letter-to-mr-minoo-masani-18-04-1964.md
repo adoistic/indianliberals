@@ -1,7 +1,7 @@
 ---
 id: 4302-letter-to-mr-minoo-masani-18-04-1964
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

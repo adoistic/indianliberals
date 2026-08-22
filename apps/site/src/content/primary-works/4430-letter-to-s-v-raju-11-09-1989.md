@@ -1,7 +1,7 @@
 ---
 id: 4430-letter-to-s-v-raju-11-09-1989
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: correspondence
 authors:

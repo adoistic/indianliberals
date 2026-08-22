@@ -1,7 +1,7 @@
 ---
 id: 3512-indias-momentous-development-of-past-half-years
 title:
-  main: "[Indias Momentous Development Of Past Half Years]"
+  main: "Indias Momentous Development Of Past Half Years"
   subtitle: ""
 work_type: essay
 authors: []

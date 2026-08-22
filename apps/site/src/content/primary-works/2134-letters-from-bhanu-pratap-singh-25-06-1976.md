@@ -1,7 +1,7 @@
 ---
 id: 2134-letters-from-bhanu-pratap-singh-25-06-1976
 title:
-  main: "[Letters from bhanu Pratap Singh]"
+  main: "Letters from bhanu Pratap Singh"
   subtitle: ""
 work_type: letter
 authors:

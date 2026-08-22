@@ -1,7 +1,7 @@
 ---
 id: 5298-letter-to-s-p-khanna-26-09-1959
 title:
-  main: "[Letter to S P Khanna]"
+  main: "Letter to S P Khanna"
   subtitle: ""
 work_type: letter
 authors: []

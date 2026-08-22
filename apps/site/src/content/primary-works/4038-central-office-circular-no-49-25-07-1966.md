@@ -1,7 +1,7 @@
 ---
 id: 4038-central-office-circular-no-49-25-07-1966
 title:
-  main: "[Central Office Circular no-49]"
+  main: "Central Office Circular no-49"
   subtitle: ""
 work_type: circular
 work_type_source: filename

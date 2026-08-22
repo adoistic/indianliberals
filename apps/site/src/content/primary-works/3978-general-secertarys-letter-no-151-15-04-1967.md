@@ -1,7 +1,7 @@
 ---
 id: 3978-general-secertarys-letter-no-151-15-04-1967
 title:
-  main: "[General Secertarys Letter no-151]"
+  main: "General Secertarys Letter no-151"
   subtitle: ""
 work_type: letter
 authors:

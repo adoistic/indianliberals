@@ -1,7 +1,7 @@
 ---
 id: 2959-letter-to-h-m-patel-28-03-1972
 title:
-  main: "[Letter to H M Patel]"
+  main: "Letter to H M Patel"
   subtitle: ""
 work_type: letter
 authors: []

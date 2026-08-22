@@ -1,7 +1,7 @@
 ---
 id: 4433-letter-to-william-f-buckley-jr-12-07-1989
 title:
-  main: "[Letter to William F Buckley Jr]"
+  main: "Letter to William F Buckley Jr"
   subtitle: ""
 work_type: letter
 authors:

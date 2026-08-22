@@ -1,7 +1,7 @@
 ---
 id: 2910-letter-to-dahyabhai-v-patel-01-06-1962
 title:
-  main: "[Letter to Dahyabhai V Patel]"
+  main: "Letter to Dahyabhai V Patel"
   subtitle: ""
 work_type: letter
 authors:

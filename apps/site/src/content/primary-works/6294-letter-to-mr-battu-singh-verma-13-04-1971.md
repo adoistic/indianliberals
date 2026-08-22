@@ -1,7 +1,7 @@
 ---
 id: 6294-letter-to-mr-battu-singh-verma-13-04-1971
 title:
-  main: "[Letter to Mr Battu Singh Verma]"
+  main: "Letter to Mr Battu Singh Verma"
   subtitle: ""
 work_type: letter
 authors: []

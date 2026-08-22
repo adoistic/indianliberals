@@ -1,7 +1,7 @@
 ---
 id: 5927-telegraph-to-jayaprakash-naryan-13-03-1975
 title:
-  main: "[Telegraph to Jayaprakash Naryan]"
+  main: "Telegraph to Jayaprakash Naryan"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 3133-letter-to-harihar-patel-21-03-1985
 title:
-  main: "[Letter to Harihar patel]"
+  main: "Letter to Harihar patel"
   subtitle: ""
 work_type: letter
 authors:

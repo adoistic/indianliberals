@@ -1,7 +1,7 @@
 ---
 id: 887-letter-to-girish-munshi-11-07-1974
 title:
-  main: "[Letter to Girish Munshi]"
+  main: "Letter to Girish Munshi"
   subtitle: ""
 work_type: letter
 authors: []

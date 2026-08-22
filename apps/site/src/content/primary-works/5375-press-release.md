@@ -1,7 +1,7 @@
 ---
 id: 5375-press-release
 title:
-  main: "[Press Release]"
+  main: "Press Release"
   subtitle: ""
 work_type: press_note
 work_type_source: filename

@@ -1,7 +1,7 @@
 ---
 id: 109-letter-to-mr-i-t-mirchandani-04-03-1971
 title:
-  main: "[Letter to Mr I T Mirchandani]"
+  main: "Letter to Mr I T Mirchandani"
   subtitle: ""
 work_type: letter
 authors:

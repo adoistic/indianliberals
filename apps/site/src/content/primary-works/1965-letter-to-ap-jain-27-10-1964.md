@@ -1,7 +1,7 @@
 ---
 id: 1965-letter-to-ap-jain-27-10-1964
 title:
-  main: "[Letter to AP Jain]"
+  main: "Letter to AP Jain"
   subtitle: ""
 work_type: letter
 authors:

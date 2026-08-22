@@ -1,7 +1,7 @@
 ---
 id: 2881-letter-from-a-p-jain-18-09-1962
 title:
-  main: "[letter from A P Jain]"
+  main: "letter from A P Jain"
   subtitle: ""
 work_type: letter
 authors: []

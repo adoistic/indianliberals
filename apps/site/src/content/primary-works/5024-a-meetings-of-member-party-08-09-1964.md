@@ -1,7 +1,7 @@
 ---
 id: 5024-a-meetings-of-member-party-08-09-1964
 title:
-  main: "[A Meetings of Member Party]"
+  main: "A Meetings of Member Party"
   subtitle: ""
 work_type: office_record
 work_type_source: summary

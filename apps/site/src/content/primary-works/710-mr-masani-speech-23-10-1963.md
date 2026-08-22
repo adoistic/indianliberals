@@ -1,7 +1,7 @@
 ---
 id: 710-mr-masani-speech-23-10-1963
 title:
-  main: "[Mr Masani Speech]"
+  main: "Mr Masani Speech"
   subtitle: ""
 work_type: speech
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 2417-letter-to-mr-n-w-sawant-11-03-1975
 title:
-  main: "[Letter to Mr N W Sawant]"
+  main: "Letter to Mr N W Sawant"
   subtitle: ""
 work_type: letter
 authors:

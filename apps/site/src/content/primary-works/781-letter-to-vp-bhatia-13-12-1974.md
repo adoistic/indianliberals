@@ -1,7 +1,7 @@
 ---
 id: 781-letter-to-vp-bhatia-13-12-1974
 title:
-  main: "[Letter to VP Bhatia]"
+  main: "Letter to VP Bhatia"
   subtitle: ""
 work_type: letter
 authors:

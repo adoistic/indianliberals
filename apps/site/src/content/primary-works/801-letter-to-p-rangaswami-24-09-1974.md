@@ -1,7 +1,7 @@
 ---
 id: 801-letter-to-p-rangaswami-24-09-1974
 title:
-  main: "[Letter to P Rangaswami]"
+  main: "Letter to P Rangaswami"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 1210-meeting-of-the-state-council-of-the-swatantra-party-31-03-1975
 title:
-  main: "[Meeting of the State Council of the Swatantra party]"
+  main: "Meeting of the State Council of the Swatantra party"
   subtitle: ""
 work_type: circular
 authors: []

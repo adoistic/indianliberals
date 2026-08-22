@@ -1,7 +1,7 @@
 ---
 id: 2358-letter-to-the-deputy-commissioner-of-police-30-03-1982
 title:
-  main: "[Letter to The Deputy Commissioner Of Police]"
+  main: "Letter to The Deputy Commissioner Of Police"
   subtitle: ""
 work_type: letter
 authors:

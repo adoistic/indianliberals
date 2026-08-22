@@ -1,7 +1,7 @@
 ---
 id: 3555-letter-to-mr-jimmy-mehta-13-11-1963
 title:
-  main: "[Letter to Mr Jimmy Mehta]"
+  main: "Letter to Mr Jimmy Mehta"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 6261-letter-from-mr-minoo-masni-23-12-1969
 title:
-  main: "[Letter from Mr Minoo Masni]"
+  main: "Letter from Mr Minoo Masni"
   subtitle: ""
 work_type: telegram
 authors: []

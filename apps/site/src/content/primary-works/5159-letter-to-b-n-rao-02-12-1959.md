@@ -1,7 +1,7 @@
 ---
 id: 5159-letter-to-b-n-rao-02-12-1959
 title:
-  main: "[Letter to B N Rao]"
+  main: "Letter to B N Rao"
   subtitle: ""
 work_type: letter
 authors:

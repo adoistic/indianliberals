@@ -1,7 +1,7 @@
 ---
 id: 2689-letter-to-mr-j-r-d-tata-23-11-1967
 title:
-  main: "[Letter to Mr J R D Tata]"
+  main: "Letter to Mr J R D Tata"
   subtitle: ""
 work_type: letter
 authors:

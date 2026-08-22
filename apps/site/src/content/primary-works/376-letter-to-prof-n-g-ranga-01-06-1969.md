@@ -1,7 +1,7 @@
 ---
 id: 376-letter-to-prof-n-g-ranga-01-06-1969
 title:
-  main: "[Letter to Prof N G Ranga]"
+  main: "Letter to Prof N G Ranga"
   subtitle: ""
 work_type: letter
 authors:

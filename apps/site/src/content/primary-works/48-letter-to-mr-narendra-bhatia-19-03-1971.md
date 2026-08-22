@@ -1,7 +1,7 @@
 ---
 id: 48-letter-to-mr-narendra-bhatia-19-03-1971
 title:
-  main: "[Letter to Mr Narendra Bhatia]"
+  main: "Letter to Mr Narendra Bhatia"
   subtitle: ""
 work_type: letter
 authors:

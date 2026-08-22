@@ -1,7 +1,7 @@
 ---
 id: 4090-letter-to-c-c-desai-22-11-1969
 title:
-  main: "[Letter to C C Desai]"
+  main: "Letter to C C Desai"
   subtitle: ""
 work_type: letter
 authors:

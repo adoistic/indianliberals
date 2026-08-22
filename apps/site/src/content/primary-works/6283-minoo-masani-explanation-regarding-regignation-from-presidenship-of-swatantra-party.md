@@ -1,7 +1,7 @@
 ---
 id: 6283-minoo-masani-explanation-regarding-regignation-from-presidenship-of-swatantra-party
 title:
-  main: "[Minoo Masani Explanation Regarding Regignation From Presidenship of Swatantra Party]"
+  main: "Minoo Masani Explanation Regarding Regignation From Presidenship of Swatantra Party"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 2174-letter-to-sv-raju-05-02-1975
 title:
-  main: "[Letter to SV Raju]"
+  main: "Letter to SV Raju"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 2957-letter-to-r-c-cooper-04-04-1972
 title:
-  main: "[Letter to R C Cooper]"
+  main: "Letter to R C Cooper"
   subtitle: ""
 work_type: letter
 authors:

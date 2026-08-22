@@ -1,7 +1,7 @@
 ---
 id: 2988-letter-to-mr-chacko-01-03-1970
 title:
-  main: "[Letter to Mr Chacko]"
+  main: "Letter to Mr Chacko"
   subtitle: ""
 work_type: letter
 authors: []

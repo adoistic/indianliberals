@@ -1,7 +1,7 @@
 ---
 id: 4376-the-rajaji-foundation
 title:
-  main: "[The Rajaji Foundation]"
+  main: "The Rajaji Foundation"
   subtitle: ""
 work_type: notice
 work_type_source: summary

@@ -1,7 +1,7 @@
 ---
 id: 3180-letter-to-harihar-patel-22-06-193
 title:
-  main: "[Letter to Harihar patel 22-06-193]"
+  main: "Letter to Harihar patel 22-06-193"
   subtitle: ""
 work_type: letter
 authors:

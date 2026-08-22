@@ -1,7 +1,7 @@
 ---
 id: 2968-letter-to-n-g-ranga-18-11-1970
 title:
-  main: "[Letter to N G Ranga]"
+  main: "Letter to N G Ranga"
   subtitle: ""
 work_type: letter
 authors:

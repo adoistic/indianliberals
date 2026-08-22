@@ -1,7 +1,7 @@
 ---
 id: 768-letter-to-sharayu-daftary-10-11-1970
 title:
-  main: "[Letter to Sharayu Daftary]"
+  main: "Letter to Sharayu Daftary"
   subtitle: ""
 work_type: letter
 authors: []

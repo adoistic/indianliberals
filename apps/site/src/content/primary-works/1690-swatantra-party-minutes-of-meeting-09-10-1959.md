@@ -1,7 +1,7 @@
 ---
 id: 1690-swatantra-party-minutes-of-meeting-09-10-1959
 title:
-  main: "[Swatantra Party Minutes of Meeting]"
+  main: "Swatantra Party Minutes of Meeting"
   subtitle: ""
 work_type: minutes
 work_type_source: filename

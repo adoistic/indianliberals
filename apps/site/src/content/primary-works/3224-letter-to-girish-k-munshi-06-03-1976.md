@@ -1,7 +1,7 @@
 ---
 id: 3224-letter-to-girish-k-munshi-06-03-1976
 title:
-  main: "[Letter to Girish K Munshi]"
+  main: "Letter to Girish K Munshi"
   subtitle: ""
 work_type: letter
 authors:

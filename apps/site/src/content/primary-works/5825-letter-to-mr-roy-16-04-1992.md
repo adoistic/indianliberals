@@ -1,7 +1,7 @@
 ---
 id: 5825-letter-to-mr-roy-16-04-1992
 title:
-  main: "[Letter to Mr Roy]"
+  main: "Letter to Mr Roy"
   subtitle: ""
 work_type: letter
 authors:

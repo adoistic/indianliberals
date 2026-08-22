@@ -1,7 +1,7 @@
 ---
 id: 1689-letter-to-chimanlal-b-parikh-12-10-1959
 title:
-  main: "[Letter to Chimanlal B Parikh]"
+  main: "Letter to Chimanlal B Parikh"
   subtitle: ""
 work_type: letter
 authors: []

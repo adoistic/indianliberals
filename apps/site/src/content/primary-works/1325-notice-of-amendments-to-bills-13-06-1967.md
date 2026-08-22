@@ -1,7 +1,7 @@
 ---
 id: 1325-notice-of-amendments-to-bills-13-06-1967
 title:
-  main: "[Notice of Amendments to Bills]"
+  main: "Notice of Amendments to Bills"
   subtitle: ""
 work_type: letter
 authors: []

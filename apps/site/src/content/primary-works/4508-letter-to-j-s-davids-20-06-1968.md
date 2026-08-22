@@ -1,7 +1,7 @@
 ---
 id: 4508-letter-to-j-s-davids-20-06-1968
 title:
-  main: "[Letter to J S Davids]"
+  main: "Letter to J S Davids"
   subtitle: ""
 work_type: letter
 authors:

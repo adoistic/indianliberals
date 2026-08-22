@@ -1,7 +1,7 @@
 ---
 id: 1125-letter-to-b-satyanaryan-05-10-1979
 title:
-  main: "[Letter to B Satyanaryan]"
+  main: "Letter to B Satyanaryan"
   subtitle: ""
 work_type: letter
 authors:

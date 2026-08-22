@@ -1,7 +1,7 @@
 ---
 id: 3350-telegram-to-raja-ramgarh-10-01-1962
 title:
-  main: "[Telegram to Raja Ramgarh]"
+  main: "Telegram to Raja Ramgarh"
   subtitle: ""
 work_type: telegram
 work_type_source: filename

@@ -1,7 +1,7 @@
 ---
 id: 52-letter-to-mr-jj-singh-18-03-1971
 title:
-  main: "[Letter to Mr JJ Singh]"
+  main: "Letter to Mr JJ Singh"
   subtitle: ""
 work_type: letter
 authors:

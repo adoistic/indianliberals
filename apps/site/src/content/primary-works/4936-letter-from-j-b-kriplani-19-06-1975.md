@@ -1,7 +1,7 @@
 ---
 id: 4936-letter-from-j-b-kriplani-19-06-1975
 title:
-  main: "[Letter from J B Kriplani]"
+  main: "Letter from J B Kriplani"
   subtitle: ""
 work_type: correspondence
 authors: []

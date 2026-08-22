@@ -1,7 +1,7 @@
 ---
 id: 2361-letter-to-mr-p-k-deo-07-12-1979
 title:
-  main: "[Letter to Mr P K Deo]"
+  main: "Letter to Mr P K Deo"
   subtitle: ""
 work_type: letter
 authors:

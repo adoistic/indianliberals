@@ -1,7 +1,7 @@
 ---
 id: 2443-notice-to-mr-minoo-masani-18-11-1976
 title:
-  main: "[Notice To Mr Minoo Masani]"
+  main: "Notice To Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 3014-letter-to-mr-minoo-masani-19-09-1969
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

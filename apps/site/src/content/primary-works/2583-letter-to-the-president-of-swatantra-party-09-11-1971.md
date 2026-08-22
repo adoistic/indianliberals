@@ -1,7 +1,7 @@
 ---
 id: 2583-letter-to-the-president-of-swatantra-party-09-11-1971
 title:
-  main: "[Letter to the President of Swatantra Party]"
+  main: "Letter to the President of Swatantra Party"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 3562-list-of-business-houses-industries-in-bombay-city
 title:
-  main: "[List Of Business Houses & Industries In Bombay City]"
+  main: "List Of Business Houses & Industries In Bombay City"
   subtitle: ""
 work_type: reference
 authors: []

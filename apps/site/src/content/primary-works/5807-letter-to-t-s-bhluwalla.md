@@ -1,7 +1,7 @@
 ---
 id: 5807-letter-to-t-s-bhluwalla
 title:
-  main: "[Letter to T S Bhluwalla]"
+  main: "Letter to T S Bhluwalla"
   subtitle: ""
 work_type: letter
 authors:

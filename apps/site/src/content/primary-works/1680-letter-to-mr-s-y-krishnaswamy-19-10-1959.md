@@ -1,7 +1,7 @@
 ---
 id: 1680-letter-to-mr-s-y-krishnaswamy-19-10-1959
 title:
-  main: "[Letter to Mr S Y Krishnaswamy]"
+  main: "Letter to Mr S Y Krishnaswamy"
   subtitle: ""
 work_type: letter
 authors: []

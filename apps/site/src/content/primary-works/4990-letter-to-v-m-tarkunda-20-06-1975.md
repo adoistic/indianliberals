@@ -1,7 +1,7 @@
 ---
 id: 4990-letter-to-v-m-tarkunda-20-06-1975
 title:
-  main: "[Letter to V M Tarkunda]"
+  main: "Letter to V M Tarkunda"
   subtitle: ""
 work_type: letter
 authors:

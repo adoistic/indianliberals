@@ -1,7 +1,7 @@
 ---
 id: 5074-letter-from-k-m-panigraphy
 title:
-  main: "[Letter from K M Panigraphy]"
+  main: "Letter from K M Panigraphy"
   subtitle: ""
 work_type: letter
 authors: []

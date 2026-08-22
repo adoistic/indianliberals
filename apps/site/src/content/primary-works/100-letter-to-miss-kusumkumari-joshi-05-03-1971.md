@@ -1,7 +1,7 @@
 ---
 id: 100-letter-to-miss-kusumkumari-joshi-05-03-1971
 title:
-  main: "[Letter to Miss Kusumkumari Joshi]"
+  main: "Letter to Miss Kusumkumari Joshi"
   subtitle: ""
 work_type: letter
 authors:

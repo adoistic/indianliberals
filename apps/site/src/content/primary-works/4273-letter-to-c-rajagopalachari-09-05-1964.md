@@ -1,7 +1,7 @@
 ---
 id: 4273-letter-to-c-rajagopalachari-09-05-1964
 title:
-  main: "[Letter to C Rajagopalachari]"
+  main: "Letter to C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors: []

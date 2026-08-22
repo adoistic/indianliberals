@@ -1,7 +1,7 @@
 ---
 id: 3299-mr-bhalla-of-new-india-insurance-company
 title:
-  main: "[Mr Bhalla of New India Insurance Company]"
+  main: "Mr Bhalla of New India Insurance Company"
   subtitle: ""
 work_type: letter
 authors: []

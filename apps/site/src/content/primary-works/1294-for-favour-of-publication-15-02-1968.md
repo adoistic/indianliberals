@@ -1,7 +1,7 @@
 ---
 id: 1294-for-favour-of-publication-15-02-1968
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: office_record
 work_type_source: summary

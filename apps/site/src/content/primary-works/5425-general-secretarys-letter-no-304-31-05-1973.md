@@ -1,7 +1,7 @@
 ---
 id: 5425-general-secretarys-letter-no-304-31-05-1973
 title:
-  main: "[General Secretarys letter no-304]"
+  main: "General Secretarys letter no-304"
   subtitle: ""
 work_type: letter
 authors: []

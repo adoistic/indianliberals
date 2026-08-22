@@ -1,7 +1,7 @@
 ---
 id: 5922-letter-to-m-k-tata-10-08-1975
 title:
-  main: "[Letter to M K Tata]"
+  main: "Letter to M K Tata"
   subtitle: ""
 work_type: letter
 authors: []

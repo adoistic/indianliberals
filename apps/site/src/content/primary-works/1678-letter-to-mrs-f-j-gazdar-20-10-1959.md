@@ -1,7 +1,7 @@
 ---
 id: 1678-letter-to-mrs-f-j-gazdar-20-10-1959
 title:
-  main: "[Letter to Mrs F J Gazdar]"
+  main: "Letter to Mrs F J Gazdar"
   subtitle: ""
 work_type: letter
 authors: []

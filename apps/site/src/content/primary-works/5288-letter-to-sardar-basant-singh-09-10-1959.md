@@ -1,7 +1,7 @@
 ---
 id: 5288-letter-to-sardar-basant-singh-09-10-1959
 title:
-  main: "[Letter to Sardar Basant Singh]"
+  main: "Letter to Sardar Basant Singh"
   subtitle: ""
 work_type: letter
 authors:

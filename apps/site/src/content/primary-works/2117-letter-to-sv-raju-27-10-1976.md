@@ -1,7 +1,7 @@
 ---
 id: 2117-letter-to-sv-raju-27-10-1976
 title:
-  main: "[Letter to SV Raju]"
+  main: "Letter to SV Raju"
   subtitle: ""
 work_type: letter
 authors: []

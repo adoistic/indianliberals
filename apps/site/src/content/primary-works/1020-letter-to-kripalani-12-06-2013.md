@@ -1,7 +1,7 @@
 ---
 id: 1020-letter-to-kripalani-12-06-2013
 title:
-  main: "[Letter to Kripalani]"
+  main: "Letter to Kripalani"
   subtitle: ""
 work_type: letter
 authors:

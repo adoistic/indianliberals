@@ -1,7 +1,7 @@
 ---
 id: 789-letter-to-p
 title:
-  main: "[Letter to P]"
+  main: "Letter to P"
   subtitle: ""
 work_type: letter
 authors: []

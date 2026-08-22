@@ -1,7 +1,7 @@
 ---
 id: 5273-telegram-from-jinarjhegde
 title:
-  main: "[Telegram from Jinarjhegde]"
+  main: "Telegram from Jinarjhegde"
   subtitle: ""
 work_type: telegram
 work_type_source: filename

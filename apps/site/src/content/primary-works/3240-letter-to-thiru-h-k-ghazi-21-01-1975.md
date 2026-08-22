@@ -1,7 +1,7 @@
 ---
 id: 3240-letter-to-thiru-h-k-ghazi-21-01-1975
 title:
-  main: "[Letter to Thiru H K Ghazi]"
+  main: "Letter to Thiru H K Ghazi"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 5679-letter-to-ramchandra-asin-30-04-1970
 title:
-  main: "[Letter to Ramchandra Asin]"
+  main: "Letter to Ramchandra Asin"
   subtitle: ""
 work_type: letter
 authors: []

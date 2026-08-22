@@ -1,7 +1,7 @@
 ---
 id: 836-karnataka-swantara-party-workers-meeting-19-08-1974
 title:
-  main: "[Karnataka Swantara Party Workers Meeting]"
+  main: "Karnataka Swantara Party Workers Meeting"
   subtitle: ""
 work_type: telegram
 authors: []

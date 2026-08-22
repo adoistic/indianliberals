@@ -1,7 +1,7 @@
 ---
 id: 4151-swatantra-party-maharashtra-28-06-1994
 title:
-  main: "[Swatantra party Maharashtra]"
+  main: "Swatantra party Maharashtra"
   subtitle: ""
 work_type: letter
 authors: []

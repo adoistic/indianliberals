@@ -1,7 +1,7 @@
 ---
 id: 1402-letter-to-vs-srikumar-06-12-1974
 title:
-  main: "[Letter to VS Srikumar]"
+  main: "Letter to VS Srikumar"
   subtitle: ""
 work_type: letter
 authors:

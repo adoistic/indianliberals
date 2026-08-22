@@ -1,7 +1,7 @@
 ---
 id: 4416-letter-to-rajmata-gayatri-devi-18-07-1989
 title:
-  main: "[Letter to Rajmata Gayatri Devi]"
+  main: "Letter to Rajmata Gayatri Devi"
   subtitle: ""
 work_type: letter
 authors:

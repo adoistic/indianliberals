@@ -1,7 +1,7 @@
 ---
 id: 6073-letter-to-c-rajagopalachari-29-01-1965
 title:
-  main: "[Letter to C Rajagopalachari]"
+  main: "Letter to C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors: []

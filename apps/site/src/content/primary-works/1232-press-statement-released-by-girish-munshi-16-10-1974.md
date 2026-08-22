@@ -1,7 +1,7 @@
 ---
 id: 1232-press-statement-released-by-girish-munshi-16-10-1974
 title:
-  main: "[Press Statement Released by Girish Munshi]"
+  main: "Press Statement Released by Girish Munshi"
   subtitle: ""
 work_type: press_note
 authors: []

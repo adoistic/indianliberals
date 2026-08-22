@@ -1,7 +1,7 @@
 ---
 id: 3087-letter-to-c-c-desai-13-06-1968
 title:
-  main: "[Letter to C C Desai]"
+  main: "Letter to C C Desai"
   subtitle: ""
 work_type: letter
 authors: []

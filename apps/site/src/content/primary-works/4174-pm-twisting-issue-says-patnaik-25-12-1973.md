@@ -1,7 +1,7 @@
 ---
 id: 4174-pm-twisting-issue-says-patnaik-25-12-1973
 title:
-  main: "[Pm twisting issue says Patnaik]"
+  main: "Pm twisting issue says Patnaik"
   subtitle: ""
 work_type: reference
 authors: []

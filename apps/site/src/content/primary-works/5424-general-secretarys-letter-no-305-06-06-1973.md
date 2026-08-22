@@ -1,7 +1,7 @@
 ---
 id: 5424-general-secretarys-letter-no-305-06-06-1973
 title:
-  main: "[General Secretarys letter no-305]"
+  main: "General Secretarys letter no-305"
   subtitle: ""
 work_type: letter
 authors: []

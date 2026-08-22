@@ -1,7 +1,7 @@
 ---
 id: 2902-letter-from-john-deng-28-06-1962
 title:
-  main: "[Letter from John Deng]"
+  main: "Letter from John Deng"
   subtitle: ""
 work_type: letter
 authors: []

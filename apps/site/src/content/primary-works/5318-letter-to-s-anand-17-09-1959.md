@@ -1,7 +1,7 @@
 ---
 id: 5318-letter-to-s-anand-17-09-1959
 title:
-  main: "[Letter to S Anand]"
+  main: "Letter to S Anand"
   subtitle: ""
 work_type: letter
 authors: []

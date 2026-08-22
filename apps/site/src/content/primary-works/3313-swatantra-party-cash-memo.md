@@ -1,7 +1,7 @@
 ---
 id: 3313-swatantra-party-cash-memo
 title:
-  main: "[Swatantra Party Cash Memo]"
+  main: "Swatantra Party Cash Memo"
   subtitle: ""
 work_type: office_record
 work_type_source: summary

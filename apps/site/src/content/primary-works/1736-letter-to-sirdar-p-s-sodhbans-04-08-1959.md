@@ -1,7 +1,7 @@
 ---
 id: 1736-letter-to-sirdar-p-s-sodhbans-04-08-1959
 title:
-  main: "[Letter to Sirdar P S Sodhbans]"
+  main: "Letter to Sirdar P S Sodhbans"
   subtitle: ""
 work_type: letter
 authors: []

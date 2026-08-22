@@ -1,7 +1,7 @@
 ---
 id: 4290-letter-to-lal-bahadur-shastri-29-04-1964
 title:
-  main: "[Letter to Lal Bahadur Shastri]"
+  main: "Letter to Lal Bahadur Shastri"
   subtitle: ""
 work_type: letter
 authors: []

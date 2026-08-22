@@ -1,7 +1,7 @@
 ---
 id: 5320-letter-to-t-a-koshy-17-09-1959
 title:
-  main: "[Letter to T A koshy]"
+  main: "Letter to T A koshy"
   subtitle: ""
 work_type: letter
 authors: []

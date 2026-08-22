@@ -1,7 +1,7 @@
 ---
 id: 859-letter-to-ss-ahuja-24-07-1974
 title:
-  main: "[Letter to SS Ahuja]"
+  main: "Letter to SS Ahuja"
   subtitle: ""
 work_type: letter
 authors:

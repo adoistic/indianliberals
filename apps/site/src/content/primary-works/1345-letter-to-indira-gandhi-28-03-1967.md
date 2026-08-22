@@ -1,7 +1,7 @@
 ---
 id: 1345-letter-to-indira-gandhi-28-03-1967
 title:
-  main: "[Letter to Indira Gandhi]"
+  main: "Letter to Indira Gandhi"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 4619-letter-to-k-m-munshi-06-04-1968
 title:
-  main: "[Letter to K M Munshi]"
+  main: "Letter to K M Munshi"
   subtitle: ""
 work_type: letter
 authors:

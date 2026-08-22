@@ -1,7 +1,7 @@
 ---
 id: 57-letter-to-mr-gunvant-dave-18-03-1971
 title:
-  main: "[Letter to Mr Gunvant Dave]"
+  main: "Letter to Mr Gunvant Dave"
   subtitle: ""
 work_type: letter
 authors:

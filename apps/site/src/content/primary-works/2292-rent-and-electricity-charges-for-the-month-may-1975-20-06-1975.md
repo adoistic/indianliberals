@@ -1,7 +1,7 @@
 ---
 id: 2292-rent-and-electricity-charges-for-the-month-may-1975-20-06-1975
 title:
-  main: "[Rent and Electricity Charges For The Month May-1975]"
+  main: "Rent and Electricity Charges For The Month May-1975"
   subtitle: ""
 work_type: letter
 work_type_source: summary

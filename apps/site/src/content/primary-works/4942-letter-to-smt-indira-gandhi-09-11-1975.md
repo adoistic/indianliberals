@@ -1,7 +1,7 @@
 ---
 id: 4942-letter-to-smt-indira-gandhi-09-11-1975
 title:
-  main: "[Letter to Smt Indira Gandhi]"
+  main: "Letter to Smt Indira Gandhi"
   subtitle: ""
 work_type: letter
 authors: []

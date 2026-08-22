@@ -1,7 +1,7 @@
 ---
 id: 1215-letter-to-bd-pandey-03-03-1975
 title:
-  main: "[Letter to BD Pandey]"
+  main: "Letter to BD Pandey"
   subtitle: ""
 work_type: letter
 authors:

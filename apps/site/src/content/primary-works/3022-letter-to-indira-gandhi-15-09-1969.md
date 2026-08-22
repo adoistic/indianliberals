@@ -1,7 +1,7 @@
 ---
 id: 3022-letter-to-indira-gandhi-15-09-1969
 title:
-  main: "[Letter to Indira Gandhi]"
+  main: "Letter to Indira Gandhi"
   subtitle: ""
 work_type: letter
 authors: []

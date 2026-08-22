@@ -1,7 +1,7 @@
 ---
 id: 3681-letter-from-k-ganesan-04-01-1975
 title:
-  main: "[Letter from K Ganesan]"
+  main: "Letter from K Ganesan"
   subtitle: ""
 work_type: letter
 work_type_source: filename

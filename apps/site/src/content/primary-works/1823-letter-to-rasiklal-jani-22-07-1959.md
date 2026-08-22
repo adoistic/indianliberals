@@ -1,7 +1,7 @@
 ---
 id: 1823-letter-to-rasiklal-jani-22-07-1959
 title:
-  main: "[Letter to Rasiklal Jani]"
+  main: "Letter to Rasiklal Jani"
   subtitle: ""
 work_type: correspondence
 authors: []

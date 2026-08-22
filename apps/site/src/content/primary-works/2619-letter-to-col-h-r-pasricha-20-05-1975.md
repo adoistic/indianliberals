@@ -1,7 +1,7 @@
 ---
 id: 2619-letter-to-col-h-r-pasricha-20-05-1975
 title:
-  main: "[Letter to Col H R Pasricha]"
+  main: "Letter to Col H R Pasricha"
   subtitle: ""
 work_type: letter
 authors:

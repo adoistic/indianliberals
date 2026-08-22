@@ -1,7 +1,7 @@
 ---
 id: 5659-letter-to-b-b-chavas-21-09-1976
 title:
-  main: "[Letter to B B Chavas]"
+  main: "Letter to B B Chavas"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 374-letter-to-dr-r-c-cooper-13-06-1969
 title:
-  main: "[Letter to Dr R C Cooper]"
+  main: "Letter to Dr R C Cooper"
   subtitle: ""
 work_type: letter
 authors:

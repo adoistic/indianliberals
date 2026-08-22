@@ -1,7 +1,7 @@
 ---
 id: 6101-letter-from-george-fernandes-05-12-1975
 title:
-  main: "[Letter from George Fernandes]"
+  main: "Letter from George Fernandes"
   subtitle: ""
 work_type: letter
 work_type_source: filename

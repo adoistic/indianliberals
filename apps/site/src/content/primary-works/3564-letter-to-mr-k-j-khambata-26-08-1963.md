@@ -1,7 +1,7 @@
 ---
 id: 3564-letter-to-mr-k-j-khambata-26-08-1963
 title:
-  main: "[Letter to Mr K J Khambata]"
+  main: "Letter to Mr K J Khambata"
   subtitle: ""
 work_type: letter
 authors:

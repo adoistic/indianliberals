@@ -1,7 +1,7 @@
 ---
 id: 5161-letter-to-moshe-kol-01-12-1959
 title:
-  main: "[Letter to Moshe Kol]"
+  main: "Letter to Moshe Kol"
   subtitle: ""
 work_type: letter
 authors:

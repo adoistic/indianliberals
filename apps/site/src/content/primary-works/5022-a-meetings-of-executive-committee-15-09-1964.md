@@ -1,7 +1,7 @@
 ---
 id: 5022-a-meetings-of-executive-committee-15-09-1964
 title:
-  main: "[A Meetings of Executive Committee]"
+  main: "A Meetings of Executive Committee"
   subtitle: ""
 work_type: pamphlet
 work_type_source: summary

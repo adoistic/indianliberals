@@ -1,7 +1,7 @@
 ---
 id: 5774-letter-to-mr-madhu
 title:
-  main: "[Letter to Mr Madhu]"
+  main: "Letter to Mr Madhu"
   subtitle: ""
 work_type: letter
 authors: []

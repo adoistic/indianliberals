@@ -1,7 +1,7 @@
 ---
 id: 6074-letter-to-piloo-mody-10-12-1964
 title:
-  main: "[Letter to Piloo Mody]"
+  main: "Letter to Piloo Mody"
   subtitle: ""
 work_type: letter
 authors:

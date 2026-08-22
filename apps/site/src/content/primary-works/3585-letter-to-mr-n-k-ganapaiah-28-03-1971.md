@@ -1,7 +1,7 @@
 ---
 id: 3585-letter-to-mr-n-k-ganapaiah-28-03-1971
 title:
-  main: "[Letter to Mr N K Ganapaiah]"
+  main: "Letter to Mr N K Ganapaiah"
   subtitle: ""
 work_type: letter
 authors: []

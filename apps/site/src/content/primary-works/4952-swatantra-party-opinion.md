@@ -1,7 +1,7 @@
 ---
 id: 4952-swatantra-party-opinion
 title:
-  main: "[Swatantra party Opinion]"
+  main: "Swatantra party Opinion"
   subtitle: ""
 work_type: resolution
 work_type_source: summary

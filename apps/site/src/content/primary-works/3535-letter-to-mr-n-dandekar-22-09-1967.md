@@ -1,7 +1,7 @@
 ---
 id: 3535-letter-to-mr-n-dandekar-22-09-1967
 title:
-  main: "[Letter to Mr N Dandekar]"
+  main: "Letter to Mr N Dandekar"
   subtitle: ""
 work_type: letter
 authors: []

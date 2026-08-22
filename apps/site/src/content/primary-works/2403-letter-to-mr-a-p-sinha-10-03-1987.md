@@ -1,7 +1,7 @@
 ---
 id: 2403-letter-to-mr-a-p-sinha-10-03-1987
 title:
-  main: "[Letter to Mr A P Sinha]"
+  main: "Letter to Mr A P Sinha"
   subtitle: ""
 work_type: letter
 authors:

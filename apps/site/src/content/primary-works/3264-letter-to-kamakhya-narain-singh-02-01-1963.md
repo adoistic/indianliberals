@@ -1,7 +1,7 @@
 ---
 id: 3264-letter-to-kamakhya-narain-singh-02-01-1963
 title:
-  main: "[Letter to kamakhya Narain Singh]"
+  main: "Letter to kamakhya Narain Singh"
   subtitle: ""
 work_type: letter
 authors:

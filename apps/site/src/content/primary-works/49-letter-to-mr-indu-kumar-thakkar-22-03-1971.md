@@ -1,7 +1,7 @@
 ---
 id: 49-letter-to-mr-indu-kumar-thakkar-22-03-1971
 title:
-  main: "[Letter to Mr Indu Kumar Thakkar]"
+  main: "Letter to Mr Indu Kumar Thakkar"
   subtitle: ""
 work_type: letter
 authors:

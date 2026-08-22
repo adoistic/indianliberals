@@ -1,7 +1,7 @@
 ---
 id: 2797-minutes-of-meeting-of-lok-sabha-and-rajya-sabha-16-04-1962
 title:
-  main: "[Minutes of Meeting of Lok Sabha and Rajya Sabha]"
+  main: "Minutes of Meeting of Lok Sabha and Rajya Sabha"
   subtitle: ""
 work_type: minutes
 work_type_source: filename

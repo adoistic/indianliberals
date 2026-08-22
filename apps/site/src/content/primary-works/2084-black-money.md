@@ -1,7 +1,7 @@
 ---
 id: 2084-black-money
 title:
-  main: "[Black Money]"
+  main: "Black Money"
   subtitle: ""
 work_type: essay
 work_type_source: classifier

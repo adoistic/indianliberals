@@ -1,7 +1,7 @@
 ---
 id: 1444-letter-to-mr-minoo-masani-10-08-1974
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

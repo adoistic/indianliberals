@@ -1,7 +1,7 @@
 ---
 id: 5406-the-endless-crisis
 title:
-  main: "[The Endless Crisis]"
+  main: "The Endless Crisis"
   subtitle: ""
 work_type: reference
 work_type_source: classifier

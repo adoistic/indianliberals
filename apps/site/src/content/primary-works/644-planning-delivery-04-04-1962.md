@@ -1,7 +1,7 @@
 ---
 id: 644-planning-delivery-04-04-1962
 title:
-  main: "[Planning & Delivery]"
+  main: "Planning & Delivery"
   subtitle: ""
 work_type: essay
 work_type_source: classifier

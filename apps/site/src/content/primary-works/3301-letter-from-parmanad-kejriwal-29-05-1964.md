@@ -1,7 +1,7 @@
 ---
 id: 3301-letter-from-parmanad-kejriwal-29-05-1964
 title:
-  main: "[Letter from Parmanad Kejriwal]"
+  main: "Letter from Parmanad Kejriwal"
   subtitle: ""
 work_type: letter
 authors: []

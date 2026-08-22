@@ -1,7 +1,7 @@
 ---
 id: 6059-letter-to-jayaprakash-naryan-29-01-1971
 title:
-  main: "[Letter to Jayaprakash Naryan]"
+  main: "Letter to Jayaprakash Naryan"
   subtitle: ""
 work_type: correspondence
 authors: []

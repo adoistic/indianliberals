@@ -1,7 +1,7 @@
 ---
 id: 5859-typed-text-of-mr-minoo-masanis-speech-07-06-1961
 title:
-  main: "[Typed Text Of Mr Minoo Masanis Speech]"
+  main: "Typed Text Of Mr Minoo Masanis Speech"
   subtitle: ""
 work_type: speech
 authors: []

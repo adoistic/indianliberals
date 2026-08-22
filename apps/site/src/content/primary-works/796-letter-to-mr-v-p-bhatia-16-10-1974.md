@@ -1,7 +1,7 @@
 ---
 id: 796-letter-to-mr-v-p-bhatia-16-10-1974
 title:
-  main: "[Letter to Mr V P Bhatia]"
+  main: "Letter to Mr V P Bhatia"
   subtitle: ""
 work_type: letter
 authors:

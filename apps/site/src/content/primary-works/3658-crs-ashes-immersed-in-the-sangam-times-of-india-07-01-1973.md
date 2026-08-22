@@ -1,7 +1,7 @@
 ---
 id: 3658-crs-ashes-immersed-in-the-sangam-times-of-india-07-01-1973
 title:
-  main: "[CRs Ashes Immersed In The Sangam-Times Of India]"
+  main: "CRs Ashes Immersed In The Sangam-Times Of India"
   subtitle: ""
 work_type: letter
 authors:

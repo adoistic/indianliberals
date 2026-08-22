@@ -1,7 +1,7 @@
 ---
 id: 4490-the-fault-dear-brutus-is-not-in-ourselves-but-in-our-stars-indian-express-17-03-1971
 title:
-  main: "[The Fault Dear Brutus is not in Ourselves but in our Stars-Indian Express]"
+  main: "The Fault Dear Brutus is not in Ourselves but in our Stars-Indian Express"
   subtitle: ""
 work_type: press_clipping
 work_type_source: summary

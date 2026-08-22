@@ -1,7 +1,7 @@
 ---
 id: 3573-letter-to-mr-d-p-sethna-24-07-1963
 title:
-  main: "[Letter to Mr D P Sethna]"
+  main: "Letter to Mr D P Sethna"
   subtitle: ""
 work_type: letter
 authors:

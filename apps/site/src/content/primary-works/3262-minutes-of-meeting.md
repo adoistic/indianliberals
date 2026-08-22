@@ -1,7 +1,7 @@
 ---
 id: 3262-minutes-of-meeting
 title:
-  main: "[Minutes of Meeting]"
+  main: "Minutes of Meeting"
   subtitle: ""
 work_type: minutes
 work_type_source: filename

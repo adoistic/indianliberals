@@ -1,7 +1,7 @@
 ---
 id: 3557-letter-to-swatantra-party-09-11-1963
 title:
-  main: "[Letter To Swatantra Party]"
+  main: "Letter To Swatantra Party"
   subtitle: ""
 work_type: letter
 authors: []

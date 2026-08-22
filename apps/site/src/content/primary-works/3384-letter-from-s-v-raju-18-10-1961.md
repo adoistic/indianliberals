@@ -1,7 +1,7 @@
 ---
 id: 3384-letter-from-s-v-raju-18-10-1961
 title:
-  main: "[Letter from S V Raju]"
+  main: "Letter from S V Raju"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 4443-letter-to-s-v-raju-19-04-2007
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

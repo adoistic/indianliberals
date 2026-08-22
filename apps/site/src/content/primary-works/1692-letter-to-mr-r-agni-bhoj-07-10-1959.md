@@ -1,7 +1,7 @@
 ---
 id: 1692-letter-to-mr-r-agni-bhoj-07-10-1959
 title:
-  main: "[Letter to Mr R Agni Bhoj]"
+  main: "Letter to Mr R Agni Bhoj"
   subtitle: ""
 work_type: letter
 authors:

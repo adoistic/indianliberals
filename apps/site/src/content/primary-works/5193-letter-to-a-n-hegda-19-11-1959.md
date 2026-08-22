@@ -1,7 +1,7 @@
 ---
 id: 5193-letter-to-a-n-hegda-19-11-1959
 title:
-  main: "[Letter to A N Hegda]"
+  main: "Letter to A N Hegda"
   subtitle: ""
 work_type: letter
 authors:

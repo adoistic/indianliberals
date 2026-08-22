@@ -1,7 +1,7 @@
 ---
 id: 6195-telegram-to-s-v-raju-25-02-1970
 title:
-  main: "[Telegram to S V Raju]"
+  main: "Telegram to S V Raju"
   subtitle: ""
 work_type: telegram
 authors: []

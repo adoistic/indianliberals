@@ -1,7 +1,7 @@
 ---
 id: 1967-letter-from-n-dandekar-03-10-1964
 title:
-  main: "[Letter from N Dandekar]"
+  main: "Letter from N Dandekar"
   subtitle: ""
 work_type: letter
 authors:

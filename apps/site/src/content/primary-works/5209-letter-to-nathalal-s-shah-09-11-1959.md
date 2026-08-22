@@ -1,7 +1,7 @@
 ---
 id: 5209-letter-to-nathalal-s-shah-09-11-1959
 title:
-  main: "[Letter to Nathalal S Shah]"
+  main: "Letter to Nathalal S Shah"
   subtitle: ""
 work_type: letter
 authors:

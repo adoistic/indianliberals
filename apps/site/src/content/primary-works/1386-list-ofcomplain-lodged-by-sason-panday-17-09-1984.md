@@ -1,7 +1,7 @@
 ---
 id: 1386-list-ofcomplain-lodged-by-sason-panday-17-09-1984
 title:
-  main: "[List ofComplain Lodged by Sason Panday]"
+  main: "List ofComplain Lodged by Sason Panday"
   subtitle: ""
 work_type: letter
 authors: []

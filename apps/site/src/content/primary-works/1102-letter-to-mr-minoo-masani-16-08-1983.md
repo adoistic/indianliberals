@@ -1,7 +1,7 @@
 ---
 id: 1102-letter-to-mr-minoo-masani-16-08-1983
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

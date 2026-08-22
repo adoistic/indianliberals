@@ -1,7 +1,7 @@
 ---
 id: 812-letter-to-jg-tiwari-10-09-1974
 title:
-  main: "[Letter to JG Tiwari]"
+  main: "Letter to JG Tiwari"
   subtitle: ""
 work_type: letter
 authors:

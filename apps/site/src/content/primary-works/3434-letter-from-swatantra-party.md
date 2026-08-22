@@ -1,7 +1,7 @@
 ---
 id: 3434-letter-from-swatantra-party
 title:
-  main: "[Letter from Swatantra party]"
+  main: "Letter from Swatantra party"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 5341-letter-to-j-r-manjari-14-09-1959
 title:
-  main: "[Letter to J R Manjari]"
+  main: "Letter to J R Manjari"
   subtitle: ""
 work_type: letter
 authors: []

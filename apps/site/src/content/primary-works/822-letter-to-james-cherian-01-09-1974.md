@@ -1,7 +1,7 @@
 ---
 id: 822-letter-to-james-cherian-01-09-1974
 title:
-  main: "[Letter to James Cherian]"
+  main: "Letter to James Cherian"
   subtitle: ""
 work_type: letter
 authors:

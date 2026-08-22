@@ -1,7 +1,7 @@
 ---
 id: 2808-letter-from-basant-singh-30-03-1962
 title:
-  main: "[Letter from Basant Singh]"
+  main: "Letter from Basant Singh"
   subtitle: ""
 work_type: letter
 authors: []

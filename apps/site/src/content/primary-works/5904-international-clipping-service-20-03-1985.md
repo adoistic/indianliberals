@@ -1,7 +1,7 @@
 ---
 id: 5904-international-clipping-service-20-03-1985
 title:
-  main: "[International Clipping Service]"
+  main: "International Clipping Service"
   subtitle: ""
 work_type: press_clipping
 work_type_source: summary

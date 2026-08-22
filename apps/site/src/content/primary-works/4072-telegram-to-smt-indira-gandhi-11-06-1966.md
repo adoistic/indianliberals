@@ -1,7 +1,7 @@
 ---
 id: 4072-telegram-to-smt-indira-gandhi-11-06-1966
 title:
-  main: "[Telegram to Smt Indira Gandhi]"
+  main: "Telegram to Smt Indira Gandhi"
   subtitle: ""
 work_type: telegram
 authors:

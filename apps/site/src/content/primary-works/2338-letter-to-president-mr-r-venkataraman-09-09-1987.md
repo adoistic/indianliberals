@@ -1,7 +1,7 @@
 ---
 id: 2338-letter-to-president-mr-r-venkataraman-09-09-1987
 title:
-  main: "[Letter to President Mr R Venkataraman]"
+  main: "Letter to President Mr R Venkataraman"
   subtitle: ""
 work_type: letter
 authors:

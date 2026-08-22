@@ -1,7 +1,7 @@
 ---
 id: 1796-letter-to-isaac-mathai-06-08-1959
 title:
-  main: "[Letter to Isaac Mathai]"
+  main: "Letter to Isaac Mathai"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 5883-letter-to-mr-minoo-masani-24-09-1967
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

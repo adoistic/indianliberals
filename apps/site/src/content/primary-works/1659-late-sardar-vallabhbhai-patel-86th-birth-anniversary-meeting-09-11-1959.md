@@ -1,7 +1,7 @@
 ---
 id: 1659-late-sardar-vallabhbhai-patel-86th-birth-anniversary-meeting-09-11-1959
 title:
-  main: "[Late Sardar Vallabhbhai Patel 86th Birth Anniversary Meeting]"
+  main: "Late Sardar Vallabhbhai Patel 86th Birth Anniversary Meeting"
   subtitle: ""
 work_type: programme
 work_type_source: summary

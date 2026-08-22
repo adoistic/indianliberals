@@ -1,7 +1,7 @@
 ---
 id: 2748-letter-to-mr-c-rajagopalchari-15-10-1967
 title:
-  main: "[Letter to Mr C Rajagopalchari]"
+  main: "Letter to Mr C Rajagopalchari"
   subtitle: ""
 work_type: letter
 authors:

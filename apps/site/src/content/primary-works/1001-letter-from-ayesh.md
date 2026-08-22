@@ -1,7 +1,7 @@
 ---
 id: 1001-letter-from-ayesh
 title:
-  main: "[Letter from Ayesh]"
+  main: "Letter from Ayesh"
   subtitle: ""
 work_type: letter
 authors: []

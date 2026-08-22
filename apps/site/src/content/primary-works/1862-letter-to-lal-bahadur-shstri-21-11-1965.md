@@ -1,7 +1,7 @@
 ---
 id: 1862-letter-to-lal-bahadur-shstri-21-11-1965
 title:
-  main: "[Letter to Lal bahadur Shstri]"
+  main: "Letter to Lal bahadur Shstri"
   subtitle: ""
 work_type: correspondence
 authors: []

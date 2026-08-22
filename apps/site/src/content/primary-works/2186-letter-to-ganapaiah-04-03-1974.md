@@ -1,7 +1,7 @@
 ---
 id: 2186-letter-to-ganapaiah-04-03-1974
 title:
-  main: "[Letter to Ganapaiah]"
+  main: "Letter to Ganapaiah"
   subtitle: ""
 work_type: letter
 authors: []

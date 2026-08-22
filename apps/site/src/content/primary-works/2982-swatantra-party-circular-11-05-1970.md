@@ -1,7 +1,7 @@
 ---
 id: 2982-swatantra-party-circular-11-05-1970
 title:
-  main: "[Swatantra Party Circular]"
+  main: "Swatantra Party Circular"
   subtitle: ""
 work_type: circular
 work_type_source: filename

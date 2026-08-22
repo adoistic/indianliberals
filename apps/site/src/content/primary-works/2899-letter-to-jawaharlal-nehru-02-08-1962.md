@@ -1,7 +1,7 @@
 ---
 id: 2899-letter-to-jawaharlal-nehru-02-08-1962
 title:
-  main: "[Letter to Jawaharlal Nehru]"
+  main: "Letter to Jawaharlal Nehru"
   subtitle: ""
 work_type: telegram
 authors: []

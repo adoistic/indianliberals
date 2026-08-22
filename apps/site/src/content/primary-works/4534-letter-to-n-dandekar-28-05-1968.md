@@ -1,7 +1,7 @@
 ---
 id: 4534-letter-to-n-dandekar-28-05-1968
 title:
-  main: "[Letter to N Dandekar]"
+  main: "Letter to N Dandekar"
   subtitle: ""
 work_type: letter
 authors:

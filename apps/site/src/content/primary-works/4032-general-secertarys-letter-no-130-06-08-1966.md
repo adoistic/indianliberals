@@ -1,7 +1,7 @@
 ---
 id: 4032-general-secertarys-letter-no-130-06-08-1966
 title:
-  main: "[General Secertarys Letter no-130]"
+  main: "General Secertarys Letter no-130"
   subtitle: ""
 work_type: letter
 authors:

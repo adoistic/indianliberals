@@ -1,7 +1,7 @@
 ---
 id: 1208-letter-to-badal-gangopadhya-15-04-1975
 title:
-  main: "[Letter to Badal Gangopadhya]"
+  main: "Letter to Badal Gangopadhya"
   subtitle: ""
 work_type: letter
 authors:

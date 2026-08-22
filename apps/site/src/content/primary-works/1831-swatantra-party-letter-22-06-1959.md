@@ -1,7 +1,7 @@
 ---
 id: 1831-swatantra-party-letter-22-06-1959
 title:
-  main: "[Swatantra Party Letter]"
+  main: "Swatantra Party Letter"
   subtitle: ""
 work_type: letter
 authors: []

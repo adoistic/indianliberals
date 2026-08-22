@@ -1,7 +1,7 @@
 ---
 id: 4547-letter-to-members-of-the-general-council-21-05-1968
 title:
-  main: "[Letter to Members of the General Council]"
+  main: "Letter to Members of the General Council"
   subtitle: ""
 work_type: letter
 authors:

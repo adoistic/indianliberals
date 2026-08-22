@@ -1,7 +1,7 @@
 ---
 id: 2367-arrears-of-municipal-tax-in-respect-of-vehicle-mra4096-08-02-1977
 title:
-  main: "[Arrears Of Municipal Tax In Respect Of Vehicle MRA4096]"
+  main: "Arrears Of Municipal Tax In Respect Of Vehicle MRA4096"
   subtitle: ""
 work_type: letter
 authors:

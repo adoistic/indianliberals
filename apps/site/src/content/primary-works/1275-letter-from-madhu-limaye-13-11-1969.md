@@ -1,7 +1,7 @@
 ---
 id: 1275-letter-from-madhu-limaye-13-11-1969
 title:
-  main: "[Letter from Madhu Limaye]"
+  main: "Letter from Madhu Limaye"
   subtitle: ""
 work_type: letter
 authors: []

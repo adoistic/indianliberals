@@ -1,7 +1,7 @@
 ---
 id: 6099-letter-to-jayaprakash-naryan-04-12-1975
 title:
-  main: "[Letter to Jayaprakash Naryan]"
+  main: "Letter to Jayaprakash Naryan"
   subtitle: ""
 work_type: letter
 authors:

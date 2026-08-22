@@ -1,7 +1,7 @@
 ---
 id: 124-telegram-to-mr-minoo-masani-28-02-1971
 title:
-  main: "[Telegram to Mr Minoo Masani]"
+  main: "Telegram to Mr Minoo Masani"
   subtitle: ""
 work_type: telegram
 authors: []

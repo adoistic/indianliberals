@@ -1,7 +1,7 @@
 ---
 id: 1321-letter-from-morarji-desai-24-07-1967
 title:
-  main: "[Letter from Morarji Desai]"
+  main: "Letter from Morarji Desai"
   subtitle: ""
 work_type: letter
 authors: []

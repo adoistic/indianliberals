@@ -1,7 +1,7 @@
 ---
 id: 1923-letter-to-fredie-letter-09-03-1965
 title:
-  main: "[Letter to Fredie Letter]"
+  main: "Letter to Fredie Letter"
   subtitle: ""
 work_type: letter
 authors:

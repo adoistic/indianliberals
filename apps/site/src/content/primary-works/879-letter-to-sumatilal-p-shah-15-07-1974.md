@@ -1,7 +1,7 @@
 ---
 id: 879-letter-to-sumatilal-p-shah-15-07-1974
 title:
-  main: "[Letter to Sumatilal P Shah]"
+  main: "Letter to Sumatilal P Shah"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 4868-timetable-for-party-election
 title:
-  main: "[Timetable for party Election]"
+  main: "Timetable for party Election"
   subtitle: ""
 work_type: notice
 work_type_source: summary

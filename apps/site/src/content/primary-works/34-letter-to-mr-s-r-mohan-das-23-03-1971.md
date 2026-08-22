@@ -1,7 +1,7 @@
 ---
 id: 34-letter-to-mr-s-r-mohan-das-23-03-1971
 title:
-  main: "[Letter to Mr S R Mohan Das]"
+  main: "Letter to Mr S R Mohan Das"
   subtitle: ""
 work_type: letter
 authors:

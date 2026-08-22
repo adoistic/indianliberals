@@ -1,7 +1,7 @@
 ---
 id: 1204-letter-to-nabakrusha-choudhury-04-04-1975
 title:
-  main: "[Letter to Nabakrusha Choudhury]"
+  main: "Letter to Nabakrusha Choudhury"
   subtitle: ""
 work_type: letter
 authors: []

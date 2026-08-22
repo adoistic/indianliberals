@@ -1,7 +1,7 @@
 ---
 id: 3101-letter-from-s-v-raju-02-05-1975
 title:
-  main: "[Letter from S V Raju]"
+  main: "Letter from S V Raju"
   subtitle: ""
 work_type: letter
 authors:

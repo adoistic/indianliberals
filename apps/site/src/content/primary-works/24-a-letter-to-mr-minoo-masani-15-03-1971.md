@@ -1,7 +1,7 @@
 ---
 id: 24-a-letter-to-mr-minoo-masani-15-03-1971
 title:
-  main: "[A-Letter to Mr Minoo Masani]"
+  main: "A-Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors: []

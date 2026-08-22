@@ -1,7 +1,7 @@
 ---
 id: 5325-letter-to-k-n-gulatia-17-09-1959
 title:
-  main: "[Letter to K N Gulatia]"
+  main: "Letter to K N Gulatia"
   subtitle: ""
 work_type: letter
 authors: []

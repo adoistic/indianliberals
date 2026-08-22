@@ -1,7 +1,7 @@
 ---
 id: 483-swatantra-party-minutes-of-meeting-conclusion-14-12-1967
 title:
-  main: "[Swatantra Party Minutes of Meeting-Conclusion]"
+  main: "Swatantra Party Minutes of Meeting-Conclusion"
   subtitle: ""
 work_type: minutes
 work_type_source: filename

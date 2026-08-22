@@ -1,7 +1,7 @@
 ---
 id: 1202-letter-to-harihar-patel-05-05-1975
 title:
-  main: "[Letter to Harihar Patel]"
+  main: "Letter to Harihar Patel"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 2828-for-favour-of-publication-20-04-1961
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: essay
 work_type_source: summary

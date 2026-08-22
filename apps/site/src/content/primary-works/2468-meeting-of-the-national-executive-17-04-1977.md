@@ -1,7 +1,7 @@
 ---
 id: 2468-meeting-of-the-national-executive-17-04-1977
 title:
-  main: "[Meeting of the National Executive]"
+  main: "Meeting of the National Executive"
   subtitle: ""
 work_type: office_record
 work_type_source: summary

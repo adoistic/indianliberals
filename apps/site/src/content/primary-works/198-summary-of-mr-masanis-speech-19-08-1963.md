@@ -1,7 +1,7 @@
 ---
 id: 198-summary-of-mr-masanis-speech-19-08-1963
 title:
-  main: "[Summary of Mr Masanis Speech]"
+  main: "Summary of Mr Masanis Speech"
   subtitle: ""
 work_type: speech
 work_type_source: filename

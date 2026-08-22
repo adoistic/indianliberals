@@ -1,7 +1,7 @@
 ---
 id: 3003-best-complments-of-dahyabhai-v-patel
 title:
-  main: "[Best Complments of Dahyabhai V Patel]"
+  main: "Best Complments of Dahyabhai V Patel"
   subtitle: ""
 work_type: letter
 authors: []

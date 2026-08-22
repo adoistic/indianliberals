@@ -1,7 +1,7 @@
 ---
 id: 3711-letter-from-madhu-mehta-18-04-1972
 title:
-  main: "[Letter from Madhu Mehta]"
+  main: "Letter from Madhu Mehta"
   subtitle: ""
 work_type: letter
 authors: []

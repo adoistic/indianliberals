@@ -1,7 +1,7 @@
 ---
 id: 5249-letter-to-j-s-naryan-22-10-1959
 title:
-  main: "[Letter to J S Naryan]"
+  main: "Letter to J S Naryan"
   subtitle: ""
 work_type: letter
 authors:

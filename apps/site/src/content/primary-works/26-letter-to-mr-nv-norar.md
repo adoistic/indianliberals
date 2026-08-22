@@ -1,7 +1,7 @@
 ---
 id: 26-letter-to-mr-nv-norar
 title:
-  main: "[Letter to Mr NV Norar]"
+  main: "Letter to Mr NV Norar"
   subtitle: ""
 work_type: letter
 authors: []

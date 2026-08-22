@@ -1,7 +1,7 @@
 ---
 id: 3476-national-press-on-the-stand
 title:
-  main: "[National Press on the Stand]"
+  main: "National Press on the Stand"
   subtitle: ""
 work_type: report
 work_type_source: summary

@@ -1,7 +1,7 @@
 ---
 id: 3181-letter-to-s-v-raju-12-06-1973
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

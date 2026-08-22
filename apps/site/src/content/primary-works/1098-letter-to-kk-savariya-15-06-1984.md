@@ -1,7 +1,7 @@
 ---
 id: 1098-letter-to-kk-savariya-15-06-1984
 title:
-  main: "[Letter to KK Savariya]"
+  main: "Letter to KK Savariya"
   subtitle: ""
 work_type: letter
 authors:

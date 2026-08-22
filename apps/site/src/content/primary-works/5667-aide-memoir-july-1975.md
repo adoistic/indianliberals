@@ -1,7 +1,7 @@
 ---
 id: 5667-aide-memoir-july-1975
 title:
-  main: "[Aide Memoir July-1975]"
+  main: "Aide Memoir July-1975"
   subtitle: ""
 work_type: office_record
 work_type_source: summary

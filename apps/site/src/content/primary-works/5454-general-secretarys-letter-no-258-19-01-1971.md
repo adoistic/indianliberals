@@ -1,7 +1,7 @@
 ---
 id: 5454-general-secretarys-letter-no-258-19-01-1971
 title:
-  main: "[General Secretarys letter no-258]"
+  main: "General Secretarys letter no-258"
   subtitle: ""
 work_type: letter
 authors: []

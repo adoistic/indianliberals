@@ -1,7 +1,7 @@
 ---
 id: 2963-letter-from-c-rajagopalachari-01-04-1972
 title:
-  main: "[Letter from C Rajagopalachari]"
+  main: "Letter from C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 2228-letter-to-mr-maharaja-natwarsingh-05-11-1971
 title:
-  main: "[Letter to Mr Maharaja Natwarsingh]"
+  main: "Letter to Mr Maharaja Natwarsingh"
   subtitle: ""
 work_type: letter
 authors:

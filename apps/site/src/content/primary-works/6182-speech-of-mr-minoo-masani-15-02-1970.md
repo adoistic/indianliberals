@@ -1,7 +1,7 @@
 ---
 id: 6182-speech-of-mr-minoo-masani-15-02-1970
 title:
-  main: "[Speech of Mr Minoo Masani]"
+  main: "Speech of Mr Minoo Masani"
   subtitle: ""
 work_type: speech
 purpose: convention_address

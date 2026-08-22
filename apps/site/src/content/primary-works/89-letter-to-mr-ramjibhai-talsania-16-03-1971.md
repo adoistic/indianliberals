@@ -1,7 +1,7 @@
 ---
 id: 89-letter-to-mr-ramjibhai-talsania-16-03-1971
 title:
-  main: "[Letter to Mr Ramjibhai Talsania]"
+  main: "Letter to Mr Ramjibhai Talsania"
   subtitle: ""
 work_type: letter
 authors:

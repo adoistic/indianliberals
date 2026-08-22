@@ -1,7 +1,7 @@
 ---
 id: 4749-letter-to-bhailalbhai-patel-04-06-1963
 title:
-  main: "[Letter to Bhailalbhai Patel]"
+  main: "Letter to Bhailalbhai Patel"
   subtitle: ""
 work_type: letter
 authors:

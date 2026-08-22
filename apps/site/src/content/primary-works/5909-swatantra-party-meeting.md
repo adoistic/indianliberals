@@ -1,7 +1,7 @@
 ---
 id: 5909-swatantra-party-meeting
 title:
-  main: "[Swatantra Party Meeting]"
+  main: "Swatantra Party Meeting"
   subtitle: ""
 work_type: speech
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 5878-letter-from-mr-s-v-raju
 title:
-  main: "[Letter From Mr S V Raju]"
+  main: "Letter From Mr S V Raju"
   subtitle: ""
 work_type: letter
 authors:

@@ -1,7 +1,7 @@
 ---
 id: 1190-receipt-of-donation-no-118-12-09-1975
 title:
-  main: "[Receipt of Donation No-118]"
+  main: "Receipt of Donation No-118"
   subtitle: ""
 work_type: financial_record
 work_type_source: summary

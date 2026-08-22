@@ -1,7 +1,7 @@
 ---
 id: 208-mr-masanis-speech-at-sundarbai-hall
 title:
-  main: "[Mr Masanis Speech At Sundarbai Hall]"
+  main: "Mr Masanis Speech At Sundarbai Hall"
   subtitle: ""
 work_type: speech
 authors: []

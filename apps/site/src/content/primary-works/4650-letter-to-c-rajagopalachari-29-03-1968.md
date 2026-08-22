@@ -1,7 +1,7 @@
 ---
 id: 4650-letter-to-c-rajagopalachari-29-03-1968
 title:
-  main: "[Letter to C Rajagopalachari]"
+  main: "Letter to C Rajagopalachari"
   subtitle: ""
 work_type: letter
 authors:

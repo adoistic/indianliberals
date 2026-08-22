@@ -1,7 +1,7 @@
 ---
 id: 1099-letter-to-r-hawkins-05-04-1984
 title:
-  main: "[Letter to R Hawkins]"
+  main: "Letter to R Hawkins"
   subtitle: ""
 work_type: letter
 authors:

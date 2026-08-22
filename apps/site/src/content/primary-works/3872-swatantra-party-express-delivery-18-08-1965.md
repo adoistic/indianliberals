@@ -1,7 +1,7 @@
 ---
 id: 3872-swatantra-party-express-delivery-18-08-1965
 title:
-  main: "[Swatantra party Express Delivery]"
+  main: "Swatantra party Express Delivery"
   subtitle: ""
 work_type: circular
 work_type_source: summary

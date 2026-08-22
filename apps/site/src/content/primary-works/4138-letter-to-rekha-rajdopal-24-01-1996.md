@@ -1,7 +1,7 @@
 ---
 id: 4138-letter-to-rekha-rajdopal-24-01-1996
 title:
-  main: "[Letter to Rekha Rajdopal]"
+  main: "Letter to Rekha Rajdopal"
   subtitle: ""
 work_type: letter
 authors: []

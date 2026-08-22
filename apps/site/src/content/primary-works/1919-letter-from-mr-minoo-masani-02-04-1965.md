@@ -1,7 +1,7 @@
 ---
 id: 1919-letter-from-mr-minoo-masani-02-04-1965
 title:
-  main: "[Letter from Mr Minoo Masani]"
+  main: "Letter from Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

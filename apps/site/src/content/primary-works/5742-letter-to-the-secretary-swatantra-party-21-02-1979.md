@@ -1,7 +1,7 @@
 ---
 id: 5742-letter-to-the-secretary-swatantra-party-21-02-1979
 title:
-  main: "[Letter to The Secretary Swatantra Party]"
+  main: "Letter to The Secretary Swatantra Party"
   subtitle: ""
 work_type: letter
 authors: []

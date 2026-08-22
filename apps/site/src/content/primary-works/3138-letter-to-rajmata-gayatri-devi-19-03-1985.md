@@ -1,7 +1,7 @@
 ---
 id: 3138-letter-to-rajmata-gayatri-devi-19-03-1985
 title:
-  main: "[Letter to Rajmata Gayatri Devi]"
+  main: "Letter to Rajmata Gayatri Devi"
   subtitle: ""
 work_type: correspondence
 authors:

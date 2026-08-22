@@ -1,7 +1,7 @@
 ---
 id: 3186-letter-from-executive-swatantra-party-25-01-1972
 title:
-  main: "[Letter from Executive Swatantra Party]"
+  main: "Letter from Executive Swatantra Party"
   subtitle: ""
 work_type: letter
 authors: []

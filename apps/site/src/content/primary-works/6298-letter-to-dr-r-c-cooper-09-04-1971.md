@@ -1,7 +1,7 @@
 ---
 id: 6298-letter-to-dr-r-c-cooper-09-04-1971
 title:
-  main: "[Letter To Dr R C Cooper]"
+  main: "Letter To Dr R C Cooper"
   subtitle: ""
 work_type: letter
 authors: []

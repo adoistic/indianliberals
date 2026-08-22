@@ -1,7 +1,7 @@
 ---
 id: 6000-letter-to-mr-minoo-masani-25-06-1973
 title:
-  main: "[Letter to Mr Minoo Masani]"
+  main: "Letter to Mr Minoo Masani"
   subtitle: ""
 work_type: letter
 authors:

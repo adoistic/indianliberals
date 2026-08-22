@@ -1,7 +1,7 @@
 ---
 id: 613-speech-of-mr-minoo-masani-07-11-1962
 title:
-  main: "[Speech of Mr Minoo Masani]"
+  main: "Speech of Mr Minoo Masani"
   subtitle: ""
 work_type: speech
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 2883-letter-to-narendra-singh-mahida-04-09-1962
 title:
-  main: "[Letter to Narendra Singh Mahida]"
+  main: "Letter to Narendra Singh Mahida"
   subtitle: ""
 work_type: correspondence
 authors:

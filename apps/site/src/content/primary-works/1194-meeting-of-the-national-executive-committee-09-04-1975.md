@@ -1,7 +1,7 @@
 ---
 id: 1194-meeting-of-the-national-executive-committee-09-04-1975
 title:
-  main: "[Meeting of the National Executive Committee]"
+  main: "Meeting of the National Executive Committee"
   subtitle: ""
 work_type: minutes
 authors: []

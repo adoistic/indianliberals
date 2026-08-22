@@ -1,7 +1,7 @@
 ---
 id: 1238-letter-from-kc-pant-08-12-1970
 title:
-  main: "[Letter from KC Pant]"
+  main: "Letter from KC Pant"
   subtitle: ""
 work_type: letter
 authors: []

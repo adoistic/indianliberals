@@ -1,7 +1,7 @@
 ---
 id: 4983-letter-to-jay-prakash-naryan-17-07-1975
 title:
-  main: "[Letter to Jay Prakash Naryan]"
+  main: "Letter to Jay Prakash Naryan"
   subtitle: ""
 work_type: letter
 authors:

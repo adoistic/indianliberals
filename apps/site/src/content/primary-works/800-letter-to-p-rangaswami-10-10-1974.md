@@ -1,7 +1,7 @@
 ---
 id: 800-letter-to-p-rangaswami-10-10-1974
 title:
-  main: "[Letter to P Rangaswami]"
+  main: "Letter to P Rangaswami"
   subtitle: ""
 work_type: letter
 authors:

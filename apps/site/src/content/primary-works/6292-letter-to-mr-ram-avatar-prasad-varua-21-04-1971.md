@@ -1,7 +1,7 @@
 ---
 id: 6292-letter-to-mr-ram-avatar-prasad-varua-21-04-1971
 title:
-  main: "[Letter to Mr Ram Avatar Prasad Varua]"
+  main: "Letter to Mr Ram Avatar Prasad Varua"
   subtitle: ""
 work_type: letter
 authors:

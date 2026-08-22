@@ -1,7 +1,7 @@
 ---
 id: 6214-letter-from-vijay-mehta-20-01-1970
 title:
-  main: "[Letter from Vijay Mehta]"
+  main: "Letter from Vijay Mehta"
   subtitle: ""
 work_type: letter
 authors: []

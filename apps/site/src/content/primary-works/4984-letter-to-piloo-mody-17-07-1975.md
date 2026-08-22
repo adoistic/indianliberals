@@ -1,7 +1,7 @@
 ---
 id: 4984-letter-to-piloo-mody-17-07-1975
 title:
-  main: "[Letter to Piloo Mody]"
+  main: "Letter to Piloo Mody"
   subtitle: ""
 work_type: letter
 authors:

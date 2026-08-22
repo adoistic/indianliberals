@@ -1,7 +1,7 @@
 ---
 id: 2474-minutes-of-the-executive-committee-24-02-1975
 title:
-  main: "[Minutes of the Executive Committee]"
+  main: "Minutes of the Executive Committee"
   subtitle: ""
 work_type: minutes
 work_type_source: filename

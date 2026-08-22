@@ -1,7 +1,7 @@
 ---
 id: 3537-letter-to-mr-c-rai-10-02-1966
 title:
-  main: "[Letter to Mr C Rai]"
+  main: "Letter to Mr C Rai"
   subtitle: ""
 work_type: letter
 authors:

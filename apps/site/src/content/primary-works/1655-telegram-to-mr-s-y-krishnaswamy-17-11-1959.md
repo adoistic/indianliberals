@@ -1,7 +1,7 @@
 ---
 id: 1655-telegram-to-mr-s-y-krishnaswamy-17-11-1959
 title:
-  main: "[Telegram to Mr S Y Krishnaswamy]"
+  main: "Telegram to Mr S Y Krishnaswamy"
   subtitle: ""
 work_type: telegram
 work_type_source: filename

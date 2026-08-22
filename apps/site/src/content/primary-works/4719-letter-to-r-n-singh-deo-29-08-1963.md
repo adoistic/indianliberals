@@ -1,7 +1,7 @@
 ---
 id: 4719-letter-to-r-n-singh-deo-29-08-1963
 title:
-  main: "[Letter to R N Singh Deo]"
+  main: "Letter to R N Singh Deo"
   subtitle: ""
 work_type: letter
 authors:

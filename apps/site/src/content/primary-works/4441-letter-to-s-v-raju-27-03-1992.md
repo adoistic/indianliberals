@@ -1,7 +1,7 @@
 ---
 id: 4441-letter-to-s-v-raju-27-03-1992
 title:
-  main: "[Letter to S V Raju]"
+  main: "Letter to S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

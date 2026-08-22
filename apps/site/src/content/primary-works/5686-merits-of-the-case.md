@@ -1,7 +1,7 @@
 ---
 id: 5686-merits-of-the-case
 title:
-  main: "[Merits of the Case]"
+  main: "Merits of the Case"
   subtitle: ""
 work_type: pamphlet
 work_type_source: summary

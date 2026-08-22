@@ -1,7 +1,7 @@
 ---
 id: 1844-swatantra-party-kerala-constituency
 title:
-  main: "[Swatantra Party Kerala Constituency]"
+  main: "Swatantra Party Kerala Constituency"
   subtitle: ""
 work_type: office_record
 work_type_source: summary

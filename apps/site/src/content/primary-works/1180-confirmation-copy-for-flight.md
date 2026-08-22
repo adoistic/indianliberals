@@ -1,7 +1,7 @@
 ---
 id: 1180-confirmation-copy-for-flight
 title:
-  main: "[Confirmation copy for Flight]"
+  main: "Confirmation copy for Flight"
   subtitle: ""
 work_type: telegram
 authors: []

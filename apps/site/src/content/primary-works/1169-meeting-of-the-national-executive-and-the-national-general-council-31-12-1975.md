@@ -1,7 +1,7 @@
 ---
 id: 1169-meeting-of-the-national-executive-and-the-national-general-council-31-12-1975
 title:
-  main: "[Meeting of the National Executive and the National General Council]"
+  main: "Meeting of the National Executive and the National General Council"
   subtitle: ""
 work_type: minutes
 authors: []

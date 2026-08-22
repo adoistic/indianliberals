@@ -1,7 +1,7 @@
 ---
 id: 1906-letter-to-secretary-lok-sabha-24-07-1965
 title:
-  main: "[Letter to Secretary-Lok Sabha]"
+  main: "Letter to Secretary-Lok Sabha"
   subtitle: ""
 work_type: letter
 authors:

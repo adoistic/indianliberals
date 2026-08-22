@@ -1,7 +1,7 @@
 ---
 id: 1938-swatantra-party-circular-20-02-1965
 title:
-  main: "[Swatantra Party Circular]"
+  main: "Swatantra Party Circular"
   subtitle: ""
 work_type: circular
 work_type_source: filename

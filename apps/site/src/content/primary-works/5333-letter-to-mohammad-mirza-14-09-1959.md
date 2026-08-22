@@ -1,7 +1,7 @@
 ---
 id: 5333-letter-to-mohammad-mirza-14-09-1959
 title:
-  main: "[Letter to Mohammad mirza]"
+  main: "Letter to Mohammad mirza"
   subtitle: ""
 work_type: letter
 authors: []

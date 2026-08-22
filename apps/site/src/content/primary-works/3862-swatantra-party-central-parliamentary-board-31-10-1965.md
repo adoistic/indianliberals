@@ -1,7 +1,7 @@
 ---
 id: 3862-swatantra-party-central-parliamentary-board-31-10-1965
 title:
-  main: "[Swatantra Party Central Parliamentary Board]"
+  main: "Swatantra Party Central Parliamentary Board"
   subtitle: ""
 work_type: office_record
 work_type_source: summary

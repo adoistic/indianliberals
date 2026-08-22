@@ -1,7 +1,7 @@
 ---
 id: 5755-letter-to-mr-dhirubhai-patel-18-02-1974
 title:
-  main: "[Letter to Mr Dhirubhai Patel]"
+  main: "Letter to Mr Dhirubhai Patel"
   subtitle: ""
 work_type: letter
 authors: []

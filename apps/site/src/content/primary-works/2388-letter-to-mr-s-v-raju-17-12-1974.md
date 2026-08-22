@@ -1,7 +1,7 @@
 ---
 id: 2388-letter-to-mr-s-v-raju-17-12-1974
 title:
-  main: "[Letter to Mr S V Raju]"
+  main: "Letter to Mr S V Raju"
   subtitle: ""
 work_type: letter
 authors: []

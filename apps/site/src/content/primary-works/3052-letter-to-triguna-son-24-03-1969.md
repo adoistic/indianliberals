@@ -1,7 +1,7 @@
 ---
 id: 3052-letter-to-triguna-son-24-03-1969
 title:
-  main: "[Letter to Triguna Son]"
+  main: "Letter to Triguna Son"
   subtitle: ""
 work_type: letter
 authors: []

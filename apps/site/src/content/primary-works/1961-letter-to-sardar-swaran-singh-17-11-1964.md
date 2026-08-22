@@ -1,7 +1,7 @@
 ---
 id: 1961-letter-to-sardar-swaran-singh-17-11-1964
 title:
-  main: "[Letter to Sardar Swaran Singh]"
+  main: "Letter to Sardar Swaran Singh"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 5246-letter-to-n-parthasarthy-23-10-1959
 title:
-  main: "[Letter to N Parthasarthy]"
+  main: "Letter to N Parthasarthy"
   subtitle: ""
 work_type: letter
 authors:

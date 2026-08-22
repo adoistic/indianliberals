@@ -1,7 +1,7 @@
 ---
 id: 6140-letter-from-r-n-singh-deo-18-04-1970
 title:
-  main: "[Letter from R N Singh Deo]"
+  main: "Letter from R N Singh Deo"
   subtitle: ""
 work_type: letter
 authors: []

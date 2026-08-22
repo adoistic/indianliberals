@@ -1,7 +1,7 @@
 ---
 id: 788-letter-to-mr-shahajanand-singh-19-11-1974
 title:
-  main: "[Letter to Mr Shahajanand Singh]"
+  main: "Letter to Mr Shahajanand Singh"
   subtitle: ""
 work_type: letter
 authors:

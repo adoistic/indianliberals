@@ -1,7 +1,7 @@
 ---
 id: 4903-swatantra-party-minutes-of-meeting-07-04-1968
 title:
-  main: "[Swatantra Party Minutes of Meeting]"
+  main: "Swatantra Party Minutes of Meeting"
   subtitle: ""
 work_type: minutes
 work_type_source: filename

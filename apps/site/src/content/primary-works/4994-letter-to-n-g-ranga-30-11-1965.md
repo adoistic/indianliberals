@@ -1,7 +1,7 @@
 ---
 id: 4994-letter-to-n-g-ranga-30-11-1965
 title:
-  main: "[Letter to N G Ranga]"
+  main: "Letter to N G Ranga"
   subtitle: ""
 work_type: letter
 authors: []

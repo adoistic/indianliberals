@@ -1,7 +1,7 @@
 ---
 id: 6243-letter-to-d-nanda-05-01-1970
 title:
-  main: "[Letter to D Nanda]"
+  main: "Letter to D Nanda"
   subtitle: ""
 work_type: letter
 authors:

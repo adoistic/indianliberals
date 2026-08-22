@@ -1,7 +1,7 @@
 ---
 id: 3940-letter-from-s-v-raju-06-09-1967
 title:
-  main: "[Letter from S V Raju]"
+  main: "Letter from S V Raju"
   subtitle: ""
 work_type: letter
 work_type_source: filename

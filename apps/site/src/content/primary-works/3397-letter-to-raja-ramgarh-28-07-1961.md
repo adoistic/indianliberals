@@ -1,7 +1,7 @@
 ---
 id: 3397-letter-to-raja-ramgarh-28-07-1961
 title:
-  main: "[Letter to Raja Ramgarh]"
+  main: "Letter to Raja Ramgarh"
   subtitle: ""
 work_type: telegram
 authors: []

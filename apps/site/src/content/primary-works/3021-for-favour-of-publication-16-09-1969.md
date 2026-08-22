@@ -1,7 +1,7 @@
 ---
 id: 3021-for-favour-of-publication-16-09-1969
 title:
-  main: "[For Favour of Publication]"
+  main: "For Favour of Publication"
   subtitle: ""
 work_type: press_note
 authors: []

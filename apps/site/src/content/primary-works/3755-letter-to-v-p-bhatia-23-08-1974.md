@@ -1,7 +1,7 @@
 ---
 id: 3755-letter-to-v-p-bhatia-23-08-1974
 title:
-  main: "[Letter to V P Bhatia]"
+  main: "Letter to V P Bhatia"
   subtitle: ""
 work_type: letter
 authors: []

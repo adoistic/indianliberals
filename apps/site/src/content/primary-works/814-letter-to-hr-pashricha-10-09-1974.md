@@ -1,7 +1,7 @@
 ---
 id: 814-letter-to-hr-pashricha-10-09-1974
 title:
-  main: "[Letter to HR Pashricha]"
+  main: "Letter to HR Pashricha"
   subtitle: ""
 work_type: letter
 authors:

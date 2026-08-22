@@ -1,7 +1,7 @@
 ---
 id: 5664-letter-from-anil-agarwal-20-08-1975
 title:
-  main: "[Letter From Anil Agarwal]"
+  main: "Letter From Anil Agarwal"
   subtitle: ""
 work_type: letter
 authors: []

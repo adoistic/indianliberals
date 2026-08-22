@@ -1,7 +1,7 @@
 ---
 id: 1029-letter-to-masani-18-03-1963
 title:
-  main: "[Letter to Masani]"
+  main: "Letter to Masani"
   subtitle: ""
 work_type: letter
 authors: []

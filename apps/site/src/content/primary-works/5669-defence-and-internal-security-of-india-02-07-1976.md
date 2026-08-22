@@ -1,7 +1,7 @@
 ---
 id: 5669-defence-and-internal-security-of-india-02-07-1976
 title:
-  main: "[Defence and internal Security of India]"
+  main: "Defence and internal Security of India"
   subtitle: ""
 work_type: occasional_paper
 authors: []

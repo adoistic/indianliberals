@@ -1,7 +1,7 @@
 ---
 id: 642-some-world-trends-27-04-1962
 title:
-  main: "[Some World Trends]"
+  main: "Some World Trends"
   subtitle: ""
 work_type: office_record
 work_type_source: classifier

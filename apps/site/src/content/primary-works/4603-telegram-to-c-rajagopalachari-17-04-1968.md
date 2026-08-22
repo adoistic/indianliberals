@@ -1,7 +1,7 @@
 ---
 id: 4603-telegram-to-c-rajagopalachari-17-04-1968
 title:
-  main: "[Telegram to C Rajagopalachari]"
+  main: "Telegram to C Rajagopalachari"
   subtitle: ""
 work_type: telegram
 authors: []

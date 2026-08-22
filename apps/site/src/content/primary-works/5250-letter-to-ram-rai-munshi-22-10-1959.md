@@ -1,7 +1,7 @@
 ---
 id: 5250-letter-to-ram-rai-munshi-22-10-1959
 title:
-  main: "[Letter to Ram Rai Munshi]"
+  main: "Letter to Ram Rai Munshi"
   subtitle: ""
 work_type: letter
 authors:

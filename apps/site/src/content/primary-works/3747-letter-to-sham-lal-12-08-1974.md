@@ -1,7 +1,7 @@
 ---
 id: 3747-letter-to-sham-lal-12-08-1974
 title:
-  main: "[Letter to Sham Lal]"
+  main: "Letter to Sham Lal"
   subtitle: ""
 work_type: letter
 authors: []

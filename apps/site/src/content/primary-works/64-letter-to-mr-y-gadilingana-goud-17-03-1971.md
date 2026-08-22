@@ -1,7 +1,7 @@
 ---
 id: 64-letter-to-mr-y-gadilingana-goud-17-03-1971
 title:
-  main: "[Letter to Mr Y Gadilingana Goud]"
+  main: "Letter to Mr Y Gadilingana Goud"
   subtitle: ""
 work_type: letter
 authors:

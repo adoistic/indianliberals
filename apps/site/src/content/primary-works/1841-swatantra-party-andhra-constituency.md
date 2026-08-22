@@ -1,7 +1,7 @@
 ---
 id: 1841-swatantra-party-andhra-constituency
 title:
-  main: "[Swatantra Party Andhra Constituency]"
+  main: "Swatantra Party Andhra Constituency"
   subtitle: ""
 work_type: roster
 work_type_source: classifier

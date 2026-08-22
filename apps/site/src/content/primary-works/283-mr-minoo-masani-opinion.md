@@ -1,7 +1,7 @@
 ---
 id: 283-mr-minoo-masani-opinion
 title:
-  main: "[Mr Minoo Masani Opinion]"
+  main: "Mr Minoo Masani Opinion"
   subtitle: ""
 work_type: essay
 authors:

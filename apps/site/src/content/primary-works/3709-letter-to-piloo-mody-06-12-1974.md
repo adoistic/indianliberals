@@ -1,7 +1,7 @@
 ---
 id: 3709-letter-to-piloo-mody-06-12-1974
 title:
-  main: "[Letter to Piloo Mody]"
+  main: "Letter to Piloo Mody"
   subtitle: ""
 work_type: letter
 authors: []

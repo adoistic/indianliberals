@@ -1,7 +1,7 @@
 ---
 id: 1705-letter-to-mr-k-n-munshi-25-09-1959
 title:
-  main: "[Letter to Mr K N Munshi]"
+  main: "Letter to Mr K N Munshi"
   subtitle: ""
 work_type: letter
 authors: []

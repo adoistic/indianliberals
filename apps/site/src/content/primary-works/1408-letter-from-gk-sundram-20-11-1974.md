@@ -1,7 +1,7 @@
 ---
 id: 1408-letter-from-gk-sundram-20-11-1974
 title:
-  main: "[Letter from GK Sundram]"
+  main: "Letter from GK Sundram"
   subtitle: ""
 work_type: letter
 authors: []

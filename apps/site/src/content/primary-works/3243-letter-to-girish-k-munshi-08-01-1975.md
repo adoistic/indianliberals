@@ -1,7 +1,7 @@
 ---
 id: 3243-letter-to-girish-k-munshi-08-01-1975
 title:
-  main: "[Letter to Girish K Munshi]"
+  main: "Letter to Girish K Munshi"
   subtitle: ""
 work_type: letter
 authors: []

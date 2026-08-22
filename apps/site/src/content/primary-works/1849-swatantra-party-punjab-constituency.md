@@ -1,7 +1,7 @@
 ---
 id: 1849-swatantra-party-punjab-constituency
 title:
-  main: "[Swatantra Party Punjab Constituency]"
+  main: "Swatantra Party Punjab Constituency"
   subtitle: ""
 work_type: roster
 work_type_source: classifier

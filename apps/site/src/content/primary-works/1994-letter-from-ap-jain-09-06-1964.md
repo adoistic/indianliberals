@@ -1,7 +1,7 @@
 ---
 id: 1994-letter-from-ap-jain-09-06-1964
 title:
-  main: "[letter from AP Jain]"
+  main: "letter from AP Jain"
   subtitle: ""
 work_type: letter
 authors: []

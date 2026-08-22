@@ -1,7 +1,7 @@
 ---
 id: 5615-is-woos-swatantra-rebels-12-04-1968
 title:
-  main: "[Is Woos Swatantra rebels]"
+  main: "Is Woos Swatantra rebels"
   subtitle: ""
 work_type: press_clipping
 work_type_source: summary

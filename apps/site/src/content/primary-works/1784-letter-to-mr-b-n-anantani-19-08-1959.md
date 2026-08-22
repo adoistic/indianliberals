@@ -1,7 +1,7 @@
 ---
 id: 1784-letter-to-mr-b-n-anantani-19-08-1959
 title:
-  main: "[Letter to Mr B N Anantani]"
+  main: "Letter to Mr B N Anantani"
   subtitle: ""
 work_type: letter
 authors: []

@@ -1,7 +1,7 @@
 ---
 id: 1422-letter-to-sv-raju-26-09-1974
 title:
-  main: "[Letter to SV Raju]"
+  main: "Letter to SV Raju"
   subtitle: ""
 work_type: letter
 authors: []

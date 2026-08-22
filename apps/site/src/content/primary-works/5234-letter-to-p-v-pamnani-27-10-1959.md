@@ -1,7 +1,7 @@
 ---
 id: 5234-letter-to-p-v-pamnani-27-10-1959
 title:
-  main: "[Letter to P V Pamnani]"
+  main: "Letter to P V Pamnani"
   subtitle: ""
 work_type: letter
 authors:

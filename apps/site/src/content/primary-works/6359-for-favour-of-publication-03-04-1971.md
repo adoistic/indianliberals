@@ -1,7 +1,7 @@
 ---
 id: 6359-for-favour-of-publication-03-04-1971
 title:
-  main: "[For Favour Of Publication]"
+  main: "For Favour Of Publication"
   subtitle: ""
 work_type: essay
 work_type_source: summary

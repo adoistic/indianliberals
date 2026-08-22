@@ -1,7 +1,7 @@
 ---
 id: 3550-letter-to-ms-walchand-co-pvt-ltd-21-08-1964
 title:
-  main: "[Letter To MS Walchand & Co Pvt Ltd]"
+  main: "Letter To MS Walchand & Co Pvt Ltd"
   subtitle: ""
 work_type: letter
 authors:

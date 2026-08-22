@@ -1,7 +1,7 @@
 ---
 id: 106-letter-to-mr-a-latif-04-03-1971
 title:
-  main: "[Letter to Mr A Latif]"
+  main: "Letter to Mr A Latif"
   subtitle: ""
 work_type: letter
 authors:

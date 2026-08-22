@@ -1,7 +1,7 @@
 ---
 id: 767-letter-to-ks-srinivasan-28-10-1970
 title:
-  main: "[Letter to KS Srinivasan]"
+  main: "Letter to KS Srinivasan"
   subtitle: ""
 work_type: letter
 authors: []

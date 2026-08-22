@@ -1,7 +1,7 @@
 ---
 id: 4246-letter-to-r-v-s-mani-09-06-1964
 title:
-  main: "[Letter to R V S Mani]"
+  main: "Letter to R V S Mani"
   subtitle: ""
 work_type: letter
 authors:

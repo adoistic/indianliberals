@@ -1,7 +1,7 @@
 ---
 id: 1330-letter-to-piloo-h-mody-26-04-1967
 title:
-  main: "[Letter to Piloo H Mody]"
+  main: "Letter to Piloo H Mody"
   subtitle: ""
 work_type: letter
 authors:
