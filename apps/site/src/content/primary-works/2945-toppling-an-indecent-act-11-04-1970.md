@@ -3,7 +3,8 @@ id: 2945-toppling-an-indecent-act-11-04-1970
 title:
   main: "\"Toppling—An Indecent Act\""
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

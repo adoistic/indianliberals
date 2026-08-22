@@ -3,7 +3,8 @@ id: 2075-the-natural-order-of-economic-growth
 title:
   main: "THE NATURAL ORDER OF ECONOMIC GROWTH"
   subtitle: "THE DEVELOPMENT OF AGRICULTURE WHICH IS OUR BASIC ASSET SHOULD COME FIRST . . ."
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

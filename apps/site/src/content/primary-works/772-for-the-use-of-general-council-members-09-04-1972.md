@@ -3,7 +3,8 @@ id: 772-for-the-use-of-general-council-members-09-04-1972
 title:
   main: "[For the use of General Council Members]"
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

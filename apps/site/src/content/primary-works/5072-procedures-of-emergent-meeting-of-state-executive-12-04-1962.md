@@ -3,7 +3,8 @@ id: 5072-procedures-of-emergent-meeting-of-state-executive-12-04-1962
 title:
   main: "Proceedings of the Emergent meeting of the State Executive"
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

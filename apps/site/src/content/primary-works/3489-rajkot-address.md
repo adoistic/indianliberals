@@ -3,7 +3,8 @@ id: 3489-rajkot-address
 title:
   main: "[Rajkot Address]"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

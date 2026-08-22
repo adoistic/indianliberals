@@ -3,7 +3,8 @@ id: 3917-list-of-office-bearers-and-members-1967-69
 title:
   main: "List of Office Bearers and members of the newly elected National Executive for the period 1967-69"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

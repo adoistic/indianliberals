@@ -3,7 +3,8 @@ id: 1379-indemnity-bond-04-06-1987
 title:
   main: "INDEMNITY BOND"
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

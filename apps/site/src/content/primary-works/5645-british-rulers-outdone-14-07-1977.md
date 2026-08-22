@@ -3,7 +3,8 @@ id: 5645-british-rulers-outdone-14-07-1977
 title:
   main: "British rulers outdone"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

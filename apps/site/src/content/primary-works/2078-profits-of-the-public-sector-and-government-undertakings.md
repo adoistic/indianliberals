@@ -3,7 +3,8 @@ id: 2078-profits-of-the-public-sector-and-government-undertakings
 title:
   main: "DEFICIT FINANCING"
   subtitle: "THE PRINTING OF NOTES"
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

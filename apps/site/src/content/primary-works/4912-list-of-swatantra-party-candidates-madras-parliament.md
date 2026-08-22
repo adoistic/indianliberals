@@ -3,7 +3,8 @@ id: 4912-list-of-swatantra-party-candidates-madras-parliament
 title:
   main: "LIST OF SWATANTRA PARTY CANDIDATES - MADRAS"
   subtitle: "(PARLIAMENT)"
-work_type: occasional_paper
+work_type: roster
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

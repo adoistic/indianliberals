@@ -3,7 +3,8 @@ id: 5852-for-the-favour-of-publication-09-11-1963
 title:
   main: "Minute of Dissent by Mr. M.R. Masani, M.P. & Mr. R.V. Bade, M.P."
   subtitle: "Select Committee on Companies (Amendment) Bill, 1962"
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 authors:
   - minoo-masani
 editors: []

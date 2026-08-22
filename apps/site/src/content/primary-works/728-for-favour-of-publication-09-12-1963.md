@@ -3,7 +3,8 @@ id: 728-for-favour-of-publication-09-12-1963
 title:
   main: "Select Committee on Companies (Amendment) Bill, 1963"
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: classifier
 purpose: position_paper
 authors:
   - minoo-masani

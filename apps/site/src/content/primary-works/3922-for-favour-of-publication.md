@@ -3,7 +3,8 @@ id: 3922-for-favour-of-publication
 title:
   main: "[For Favour of Publication]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 authors:
   - minoo-masani
 editors: []

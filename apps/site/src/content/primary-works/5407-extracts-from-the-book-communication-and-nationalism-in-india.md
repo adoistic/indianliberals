@@ -3,7 +3,8 @@ id: 5407-extracts-from-the-book-communication-and-nationalism-in-india
 title:
   main: "Extracts from the book, \"Communism And Nationalism In India\" by John Haithcox."
   subtitle: ""
-work_type: occasional_paper
+work_type: book
+work_type_source: classifier
 purpose: working_paper
 authors: []
 editors: []

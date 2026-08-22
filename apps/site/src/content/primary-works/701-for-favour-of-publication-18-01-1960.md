@@ -3,7 +3,8 @@ id: 701-for-favour-of-publication-18-01-1960
 title:
   main: "[For Favour of Publication]"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

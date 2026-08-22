@@ -3,7 +3,8 @@ id: 5395-statement-about-sir-frank-roberts-03-04-1971
 title:
   main: "[Statement about Sir Frank Roberts]"
   subtitle: ""
-work_type: occasional_paper
+work_type: speech
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

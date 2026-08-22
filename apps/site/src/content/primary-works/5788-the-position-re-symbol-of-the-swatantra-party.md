@@ -3,7 +3,8 @@ id: 5788-the-position-re-symbol-of-the-swatantra-party
 title:
   main: "[The Position Re Symbol Of The Swatantra Party]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

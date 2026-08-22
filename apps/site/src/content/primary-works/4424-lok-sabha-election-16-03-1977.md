@@ -3,7 +3,8 @@ id: 4424-lok-sabha-election-16-03-1977
 title:
   main: "LOK SABHA ELECTION"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

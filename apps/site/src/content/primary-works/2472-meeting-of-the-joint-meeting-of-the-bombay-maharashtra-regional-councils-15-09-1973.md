@@ -3,7 +3,8 @@ id: 2472-meeting-of-the-joint-meeting-of-the-bombay-maharashtra-regional-council
 title:
   main: "Minutes of the joint meeting of the Bombay and Maharashtra Regional Councils of the Swatantra Party held at Bombay on 15th September 1973"
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

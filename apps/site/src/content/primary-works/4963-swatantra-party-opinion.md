@@ -3,7 +3,8 @@ id: 4963-swatantra-party-opinion
 title:
   main: "[Swatantra party Opinion]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

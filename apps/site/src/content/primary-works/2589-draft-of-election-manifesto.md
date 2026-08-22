@@ -3,7 +3,8 @@ id: 2589-draft-of-election-manifesto
 title:
   main: "DRAFT OF ELECTION MANIFESTO"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 purpose: manifesto
 authors: []
 editors: []

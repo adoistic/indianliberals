@@ -3,7 +3,8 @@ id: 1838-the-aicc-planning-seminar-17-06-1959
 title:
   main: "Extracts from the official hand-out on the proceedings of the A.I.C.C. Planning Seminar at Ooty"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

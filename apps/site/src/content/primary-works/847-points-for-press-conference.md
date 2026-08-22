@@ -3,7 +3,8 @@ id: 847-points-for-press-conference
 title:
   main: "POINTS FOR PRESS CONFERENCE"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: classifier
 purpose: position_paper
 authors: []
 editors: []

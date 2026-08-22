@@ -3,7 +3,8 @@ id: 2092-meeting-of-swatantra-party-24-01-1977
 title:
   main: "Decisions taken at the meeting of Swatantra Party Workers Maharashtra, on Monday, 24th January 1977."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

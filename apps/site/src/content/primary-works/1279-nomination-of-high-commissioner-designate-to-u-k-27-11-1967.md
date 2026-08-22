@@ -3,7 +3,8 @@ id: 1279-nomination-of-high-commissioner-designate-to-u-k-27-11-1967
 title:
   main: "Nomination of High Commissioner Designate to U. K."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

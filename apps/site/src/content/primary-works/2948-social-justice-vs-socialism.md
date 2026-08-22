@@ -3,7 +3,8 @@ id: 2948-social-justice-vs-socialism
 title:
   main: "SOCIAL JUSTICE vs. SOCIALISM"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 authors:
   - c-rajagopalachari
 editors: []

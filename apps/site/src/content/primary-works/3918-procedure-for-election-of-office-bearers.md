@@ -3,7 +3,8 @@ id: 3918-procedure-for-election-of-office-bearers
 title:
   main: "PROCEDURE FOR ELECTION OF OFFICE BEARERS AND MEMBERS OF THE NATIONAL EXECUTIVE"
   subtitle: "GENERAL SECRETARY'S PROPOSALS"
-work_type: occasional_paper
+work_type: office_record
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

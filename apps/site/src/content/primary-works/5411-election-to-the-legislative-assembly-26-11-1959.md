@@ -3,7 +3,8 @@ id: 5411-election-to-the-legislative-assembly-26-11-1959
 title:
   main: "Elections to the Central Legislative Assembly"
   subtitle: "Extracted from \"The Times of India\""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

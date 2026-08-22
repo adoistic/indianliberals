@@ -3,7 +3,8 @@ id: 5015-generals-information-relating-to-parliamentary-and-other-matters-29-11-
 title:
   main: "BULLETIN—PART II"
   subtitle: "General Information relating to Parliamentary and other matters"
-work_type: occasional_paper
+work_type: notice
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

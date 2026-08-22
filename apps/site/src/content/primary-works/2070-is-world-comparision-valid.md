@@ -3,7 +3,8 @@ id: 2070-is-world-comparision-valid
 title:
   main: "IS WORLD COMPARISION VALID"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

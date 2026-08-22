@@ -3,7 +3,8 @@ id: 1094-questionnaire-of-committee-on-poll-express
 title:
   main: "Answers to Questionnaire of Committee on Poll Expenses"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: position_paper
 authors: []
 editors: []

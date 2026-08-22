@@ -3,7 +3,8 @@ id: 874-the-move-to-dissolve-the-swatantra-party-16-07-1974
 title:
   main: "Some Points"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

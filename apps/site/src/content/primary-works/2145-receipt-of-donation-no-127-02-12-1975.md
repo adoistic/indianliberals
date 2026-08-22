@@ -3,7 +3,8 @@ id: 2145-receipt-of-donation-no-127-02-12-1975
 title:
   main: "[Receipt of Donation No-127]"
   subtitle: ""
-work_type: occasional_paper
+work_type: financial_record
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

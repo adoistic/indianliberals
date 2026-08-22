@@ -3,7 +3,8 @@ id: 4996-techniques-of-organising-institution
 title:
   main: "Techniques of Organising Institutions"
   subtitle: "(LSP - Grand Hotel - Feb. 17th)"
-work_type: occasional_paper
+work_type: office_record
+work_type_source: classifier
 purpose: working_paper
 authors: []
 editors: []

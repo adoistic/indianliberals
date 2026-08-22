@@ -3,7 +3,8 @@ id: 4119-mrm-notes
 title:
   main: "[Mrm Notes]"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: classifier
 purpose: working_paper
 authors: []
 editors: []

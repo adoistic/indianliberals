@@ -3,7 +3,8 @@ id: 5658-a-note-on-the-press-in-india
 title:
   main: "A Note on the Press in India"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

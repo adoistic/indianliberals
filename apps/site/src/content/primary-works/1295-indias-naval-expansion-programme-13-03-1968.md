@@ -3,7 +3,8 @@ id: 1295-indias-naval-expansion-programme-13-03-1968
 title:
   main: "INDIA'S NAVAL EXPANSION PROGRAMME"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: classifier
 authors:
   - minoo-masani
   - n-dandekar

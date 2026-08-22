@@ -3,7 +3,8 @@ id: 1940-lok-sabha-amendments-19-02-1965
 title:
   main: "MOTION ON ADDRESS BY THE PRESIDENT"
   subtitle: "Amendments moved on 19th February, 1965"
-work_type: occasional_paper
+work_type: office_record
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

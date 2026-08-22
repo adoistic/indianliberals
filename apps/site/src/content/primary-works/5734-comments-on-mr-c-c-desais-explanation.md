@@ -3,7 +3,8 @@ id: 5734-comments-on-mr-c-c-desais-explanation
 title:
   main: "COMMENTS ON MR. C.C. DESAI'S EXPLANATION."
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 authors:
   - n-dandekar
 editors: []

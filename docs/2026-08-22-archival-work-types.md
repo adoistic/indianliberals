@@ -63,13 +63,50 @@ because `office_record` did not. Agreement with a vocabulary the model could
 not choose from is the wrong yardstick. The safety property that matters is
 structural — nothing but `occasional_paper` is ever overwritten.
 
+## The last mile: asking instead of matching
+
+231 works still had no form named in their opening clause. They read:
+
+    "This untitled, undated draft argues that India entered the 1970s ..."
+    "These typewritten notes record a 15 February 1961 meeting ..."
+    "In the rendered pages, the petitioners challenge ..."
+
+A person reads those instantly. The regexes could not, and the honest
+conclusion was not that the documents resist classification — it was that
+pattern matching was the wrong instrument for the last mile.
+
+`scripts/swatantra/classify-worktype.py` sends the summary and the vocabulary
+to gpt-5-6-luna and takes back a term plus a one-line reason. Text only, no
+page images, so it costs a fraction of the extraction pass.
+
+Measured before it was trusted: on 150 works the model had already typed, it
+agrees **80%** of the time. Twelve of the thirty disagreements are
+`essay -> press_clipping`, where it is very likely correct and the original
+label only said `essay` because `press_clipping` did not exist. Excluding that
+category, agreement is 88%.
+
+Same structural guarantee as everything else here: it is consulted ONLY where
+`work_type` is still `occasional_paper`, so it can never overwrite a real
+answer. Results are kept in `data/swatantra-papers/worktype-llm.json` with the
+reasoning, so a human can audit any single call.
+
 ## What is left
 
-231 works remain `occasional_paper`, down from 949. Their summaries do not name
-a form in the opening clause: an illustrated argument, an untitled draft, a
-document reproducing the Universal Declaration of Human Rights. Some are
-genuinely miscellaneous; others would need a human to look at the page. They
-are honestly labelled as unresolved rather than forced into a category.
+**Four** works remain `occasional_paper`, down from 949 — 0.1% of the corpus.
+These are the ones the classifier itself declined to name, having been told to
+prefer any specific term and to fall back only when nothing fits. Four
+genuinely miscellaneous documents in an archive of 6,355 is a fair place to
+stop.
+
+Resolution by stage:
+
+| Stage | Works |
+|---|---:|
+| model, from the page | 4,709 |
+| filename cue | 701 |
+| summary opening clause | 718 |
+| classifier | 227 |
+| unresolved | 4 |
 
 ## Downstream
 

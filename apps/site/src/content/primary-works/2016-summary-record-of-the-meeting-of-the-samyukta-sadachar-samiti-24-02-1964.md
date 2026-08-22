@@ -3,7 +3,8 @@ id: 2016-summary-record-of-the-meeting-of-the-samyukta-sadachar-samiti-24-02-196
 title:
   main: "SUMMARY RECORD OF THE MEETING OF THE SAMYUKTA SADACHAR SAMITI HELD ON 24-2-1964 AT 6.30 P.M. (ROOM NO. 104) SOUTH BLOCK, NEW DELHI."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

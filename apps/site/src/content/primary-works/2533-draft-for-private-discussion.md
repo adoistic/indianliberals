@@ -3,7 +3,8 @@ id: 2533-draft-for-private-discussion
 title:
   main: "DRAFT FOR PRIVATE DISCUSSION"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

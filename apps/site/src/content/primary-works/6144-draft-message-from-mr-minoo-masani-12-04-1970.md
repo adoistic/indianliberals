@@ -3,7 +3,8 @@ id: 6144-draft-message-from-mr-minoo-masani-12-04-1970
 title:
   main: "Draft Message from Mr.M.R.Masani, President, All India Swatantra Party to the Foodgrain Dealers Convention"
   subtitle: ""
-work_type: occasional_paper
+work_type: speech
+work_type_source: classifier
 authors:
   - minoo-masani
 editors: []

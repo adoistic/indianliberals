@@ -3,7 +3,8 @@ id: 5671-swatantra-party-statement-of-principles
 title:
   main: "STATEMENT OF PRINCIPLES"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 purpose: statement_of_principles
 authors: []
 editors: []

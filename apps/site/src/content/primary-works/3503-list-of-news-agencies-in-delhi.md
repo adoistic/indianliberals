@@ -3,7 +3,8 @@ id: 3503-list-of-news-agencies-in-delhi
 title:
   main: "List of News Agencies in Delhi."
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

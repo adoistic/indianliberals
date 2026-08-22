@@ -3,7 +3,8 @@ id: 2085-nationalisation-the-third-suggested-remedy
 title:
   main: "NATIONALISATION"
   subtitle: "The third suggested remedy"
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: position_paper
 authors: []
 editors: []

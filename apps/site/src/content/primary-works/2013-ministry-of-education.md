@@ -3,7 +3,8 @@ id: 2013-ministry-of-education
 title:
   main: "[Ministry of Education]"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

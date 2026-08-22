@@ -3,7 +3,8 @@ id: 2141-meeting-of-the-national-executive-and-the-national-general-council-29-1
 title:
   main: "MINUTES."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

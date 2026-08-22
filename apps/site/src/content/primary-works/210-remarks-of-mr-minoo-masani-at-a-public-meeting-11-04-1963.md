@@ -3,7 +3,8 @@ id: 210-remarks-of-mr-minoo-masani-at-a-public-meeting-11-04-1963
 title:
   main: "Summary of the remarks of Mr. M.R. Masani, General Secretary of the Swatantra Party, at a public meeting in Sarnu House."
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

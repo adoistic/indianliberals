@@ -3,7 +3,8 @@ id: 3502-swatantra-party-periodicals
 title:
   main: "SWATANTRA PARTY PERIODICALS"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

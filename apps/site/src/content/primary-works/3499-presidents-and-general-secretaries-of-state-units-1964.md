@@ -3,7 +3,8 @@ id: 3499-presidents-and-general-secretaries-of-state-units-1964
 title:
   main: "Presidents and General Secretaries of State Units elected by the State Council in December 1964."
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

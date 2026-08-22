@@ -3,7 +3,8 @@ id: 3891-functioning-of-organisers-in-parliamentary-constituencies
 title:
   main: "FUNCTIONING OF ORGANISERS IN PARLIAMENTARY CONSTITUENCIES"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

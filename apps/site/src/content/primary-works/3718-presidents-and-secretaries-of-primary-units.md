@@ -3,7 +3,8 @@ id: 3718-presidents-and-secretaries-of-primary-units
 title:
   main: "[Presidents and Secretaries of Primary Units]"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

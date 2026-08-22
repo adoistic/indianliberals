@@ -3,7 +3,8 @@ id: 1888-lok-sabha-summons-05-06-1965
 title:
   main: "SUMMONS"
   subtitle: ""
-work_type: occasional_paper
+work_type: notice
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

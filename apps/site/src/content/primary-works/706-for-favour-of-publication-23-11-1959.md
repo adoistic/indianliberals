@@ -3,7 +3,8 @@ id: 706-for-favour-of-publication-23-11-1959
 title:
   main: "[For Favour of Publication]"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

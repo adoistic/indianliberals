@@ -3,7 +3,8 @@ id: 2071-price-rise-in-india-cannot-be-compared-with-the-price-elsewhere-in-the-
 title:
   main: "THE PRICE RISE IN INDIA CANNOT BE COMPARED WITH THE PRICE RISE ELSEWHERE IN THE WORLD FOR THE FOLLOWING REASONS. . ."
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

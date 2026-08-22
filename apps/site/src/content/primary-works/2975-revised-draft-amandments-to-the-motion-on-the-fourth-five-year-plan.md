@@ -3,7 +3,8 @@ id: 2975-revised-draft-amandments-to-the-motion-on-the-fourth-five-year-plan
 title:
   main: "Revised draft amendments to the Motion on the Fourth Five Year Plan given notice of by the Prime Minister in the Lok Sabha"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: position_paper
 authors: []
 editors: []

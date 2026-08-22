@@ -3,7 +3,8 @@ id: 2534-draft-for-private-discussion
 title:
   main: "Swatantra Party and International Questions:"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: working_paper
 authors: []
 editors: []

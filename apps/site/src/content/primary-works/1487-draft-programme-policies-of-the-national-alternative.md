@@ -3,7 +3,8 @@ id: 1487-draft-programme-policies-of-the-national-alternative
 title:
   main: "Draft Programme & Policies Of The National Alternative"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: statement_of_principles
 authors: []
 editors: []

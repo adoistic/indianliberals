@@ -3,7 +3,8 @@ id: 6076-c-rajagopalachari-programme
 title:
   main: "[C Rajagopalachari Programme]"
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

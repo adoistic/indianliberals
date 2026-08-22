@@ -3,7 +3,8 @@ id: 655-ministry-of-transport-and-communications-05-04-1961
 title:
   main: "[Ministry of Transport and Communications]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 4536-transalation-of-report-in-the-jan-satta-26-05-1968
 title:
   main: "Transalation of report in The JAN SATTA,"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

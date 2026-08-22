@@ -3,7 +3,8 @@ id: 359-election-menifesto-swatantra-party-1967
 title:
   main: "Election Manifesto"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 purpose: manifesto
 authors: []
 editors: []

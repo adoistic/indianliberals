@@ -3,7 +3,8 @@ id: 4225-draft-time-table-for-party-election
 title:
   main: "DRAFT TIMETABLE FOR PARTY ELECTIONS"
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

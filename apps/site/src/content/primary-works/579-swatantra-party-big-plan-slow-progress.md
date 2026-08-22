@@ -3,7 +3,8 @@ id: 579-swatantra-party-big-plan-slow-progress
 title:
   main: "BIG PLANS - SLOW PROGRESS"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: position_paper
 authors:
   - minoo-masani

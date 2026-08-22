@@ -3,7 +3,8 @@ id: 1248-the-salaries-and-allowances-of-ministers-bill-1970
 title:
   main: "The Salaries and Allowances of Ministers Bill, 1970"
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: classifier
 authors:
   - minoo-masani
   - n-dandekar

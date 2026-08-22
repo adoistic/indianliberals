@@ -3,7 +3,8 @@ id: 4584-extract-from-the-proceedings-of-the-state-executives-meeting-of-the-swa
 title:
   main: "Extract From the Proceedings of the Meeting of the Andhra Pradesh Swatantra Party held at Bapatla on 19th April, 1968"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

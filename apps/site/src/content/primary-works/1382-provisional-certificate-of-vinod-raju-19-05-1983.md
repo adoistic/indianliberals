@@ -3,7 +3,8 @@ id: 1382-provisional-certificate-of-vinod-raju-19-05-1983
 title:
   main: "Provisional Certificate"
   subtitle: "Provisional Eligibility Certificate for Admission to First year of the Junior College (Higher Secondary Std. XI)"
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

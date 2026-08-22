@@ -3,7 +3,8 @@ id: 1319-release-of-sheikh-abdullah-15-11-1967
 title:
   main: "RELEASE OF SHEIKH ABDULLAH"
   subtitle: ""
-work_type: occasional_paper
+work_type: report
+work_type_source: classifier
 authors:
   - minoo-masani
 editors: []

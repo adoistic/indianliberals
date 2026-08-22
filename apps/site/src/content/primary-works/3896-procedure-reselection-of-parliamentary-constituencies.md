@@ -3,7 +3,8 @@ id: 3896-procedure-reselection-of-parliamentary-constituencies
 title:
   main: "Procedure re. selection of Parliamentary constituencies and nomination of prospective candidates"
   subtitle: ""
-work_type: occasional_paper
+work_type: circular
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

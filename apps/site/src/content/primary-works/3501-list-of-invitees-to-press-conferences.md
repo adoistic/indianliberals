@@ -3,7 +3,8 @@ id: 3501-list-of-invitees-to-press-conferences
 title:
   main: "LIST OF INVITEES TO PRESS CONFERENCES."
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

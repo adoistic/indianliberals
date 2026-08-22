@@ -3,7 +3,8 @@ id: 3043-list-of-members-of-lok-sabha
 title:
   main: "List of the Members of the Lok Sabha representing the Party on various Standing, Government Committees and Select & Joint Select Committees"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

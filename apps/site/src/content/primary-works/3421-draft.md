@@ -3,7 +3,8 @@ id: 3421-draft
 title:
   main: "[Draft]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

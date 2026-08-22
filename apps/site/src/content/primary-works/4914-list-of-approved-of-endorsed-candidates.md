@@ -3,7 +3,8 @@ id: 4914-list-of-approved-of-endorsed-candidates
 title:
   main: "List of approved or endorsed candidates — Bihar other than the districts of Darbhanga, Purnea and Muzaffarpur."
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

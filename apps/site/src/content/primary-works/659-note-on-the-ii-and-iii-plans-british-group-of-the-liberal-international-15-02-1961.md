@@ -3,7 +3,8 @@ id: 659-note-on-the-ii-and-iii-plans-british-group-of-the-liberal-international-
 title:
   main: "Notes on the II and III Plans for use at the Meeting of the British Group of the Liberal International on 15th February, 1961."
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: classifier
 purpose: working_paper
 authors: []
 editors: []

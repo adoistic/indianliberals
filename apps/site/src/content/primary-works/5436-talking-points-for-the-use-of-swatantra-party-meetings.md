@@ -3,7 +3,8 @@ id: 5436-talking-points-for-the-use-of-swatantra-party-meetings
 title:
   main: "TALKING POINTS FOR THE USE OF SWANTRA PARTY MEMBERS"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: statement_of_principles
 authors: []
 editors: []

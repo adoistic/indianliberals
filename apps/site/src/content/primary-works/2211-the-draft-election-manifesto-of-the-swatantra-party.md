@@ -3,7 +3,8 @@ id: 2211-the-draft-election-manifesto-of-the-swatantra-party
 title:
   main: "Draft Election Manifesto"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 purpose: manifesto
 authors: []
 editors: []

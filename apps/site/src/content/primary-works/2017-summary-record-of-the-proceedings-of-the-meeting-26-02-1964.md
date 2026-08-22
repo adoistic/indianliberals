@@ -3,7 +3,8 @@ id: 2017-summary-record-of-the-proceedings-of-the-meeting-26-02-1964
 title:
   main: "SUMMARY RECORD OF THE PROCEEDINGS OF THE MEETING HELD BY HOME MINISTER WITH LEADERS OF POLITICAL PARTIES ON 26TH FEBRUARY, 1964."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

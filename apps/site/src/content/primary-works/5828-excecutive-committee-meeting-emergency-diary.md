@@ -3,7 +3,8 @@ id: 5828-excecutive-committee-meeting-emergency-diary
 title:
   main: "EMERGENCY DIARY"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

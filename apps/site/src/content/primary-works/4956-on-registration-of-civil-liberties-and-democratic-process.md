@@ -3,7 +3,8 @@ id: 4956-on-registration-of-civil-liberties-and-democratic-process
 title:
   main: "On Restoration of Civil Liberties and Democratic Processes"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: position_paper
 authors: []
 editors: []

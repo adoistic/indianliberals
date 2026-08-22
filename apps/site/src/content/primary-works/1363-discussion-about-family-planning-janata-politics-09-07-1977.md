@@ -3,7 +3,8 @@ id: 1363-discussion-about-family-planning-janata-politics-09-07-1977
 title:
   main: "[Discussion About Family Planning & Janata Politics]"
   subtitle: ""
-work_type: occasional_paper
+work_type: interview
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

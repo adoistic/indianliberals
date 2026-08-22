@@ -3,7 +3,8 @@ id: 644-planning-delivery-04-04-1962
 title:
   main: "[Planning & Delivery]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: working_paper
 authors: []
 editors: []

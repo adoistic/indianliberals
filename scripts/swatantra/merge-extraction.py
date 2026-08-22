@@ -55,6 +55,17 @@ from filename_worktype import apply as fw_apply  # noqa: E402
 from filename_year import apply as fy_apply  # noqa: E402
 from summary_worktype import classify as sw_classify  # noqa: E402
 
+# The last mile of work_type. Pattern matching resolves a work when its summary
+# opens by naming the form; 231 did not — "This untitled, undated draft argues
+# ...", "In the rendered pages, the petitioners challenge ...". A person reads
+# those instantly, so the answer was not that they resist classification but
+# that regexes were the wrong instrument. classify-worktype.py asked a model,
+# scoring 80% against works already typed (and most of the gap is the model
+# calling a newspaper article an essay because press_clipping did not exist).
+_LLM_WT_FILE = REPO / "data/swatantra-papers/worktype-llm.json"
+LLM_WORK_TYPE = (json.loads(_LLM_WT_FILE.read_text(encoding="utf-8"))
+                 if _LLM_WT_FILE.exists() else {})
+
 CONSISTENCY = ("work_type", "year", "title", "publisher", "byline", "thinker_ids")
 
 
@@ -153,6 +164,10 @@ def build_entry(name, inv_row, meta, summ, disagree, known_thinkers, vocab):
         inferred, _cue = sw_classify((summ or {}).get("summary") or "")
         if inferred and inferred != "occasional_paper":
             work_type, wt_source = inferred, "summary"
+    if work_type == "occasional_paper":
+        guess = LLM_WORK_TYPE.get(slug) or {}
+        if guess.get("work_type") and guess["work_type"] != "occasional_paper":
+            work_type, wt_source = guess["work_type"], "classifier"
     purpose = meta.get("purpose")
     year = scalar(dig(meta, "publication.year"))
     # The cataloguer typed the date into the filename for most of this corpus,
@@ -210,7 +225,7 @@ def build_entry(name, inv_row, meta, summ, disagree, known_thinkers, vocab):
     L.append(f"  main: {y(title)}")
     L.append(f"  subtitle: {y(subtitle)}")
     L.append(f"work_type: {work_type}")
-    if wt_source in ("filename", "summary"):
+    if wt_source in ("filename", "summary", "classifier"):
         L.append(f"work_type_source: {wt_source}")
     if purpose:
         L.append(f"purpose: {purpose}")

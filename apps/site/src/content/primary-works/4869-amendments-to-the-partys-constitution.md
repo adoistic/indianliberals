@@ -3,7 +3,8 @@ id: 4869-amendments-to-the-partys-constitution
 title:
   main: "AMENDMENTS TO THE PARTY'S CONSTITUTION"
   subtitle: ""
-work_type: occasional_paper
+work_type: constitution
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

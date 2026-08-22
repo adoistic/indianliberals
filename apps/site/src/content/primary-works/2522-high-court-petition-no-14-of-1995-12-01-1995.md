@@ -3,7 +3,8 @@ id: 2522-high-court-petition-no-14-of-1995-12-01-1995
 title:
   main: "SWATANTRA PARTY (MAHARASHTRA) AND ANOTHER Versus UNION OF INDIA AND OTHERS"
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

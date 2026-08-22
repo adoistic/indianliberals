@@ -3,7 +3,8 @@ id: 4425-chagla-call-to-vote-for-freedom-democracy
 title:
   main: "Chagla Call To Vote For Freedom, Democracy"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

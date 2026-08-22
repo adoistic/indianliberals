@@ -3,7 +3,8 @@ id: 5896-mr-minoo-masani-massage-printed-in-the-souvenir-issued-by-the-praja
 title:
   main: "Mr. M.R. Masani's message printed in the Souvenir issued by the Praja Socialist Party on the occasion of the Silver Jubilee Conference in 1969"
   subtitle: ""
-work_type: occasional_paper
+work_type: speech
+work_type_source: classifier
 authors:
   - minoo-masani
 editors: []

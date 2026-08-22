@@ -3,7 +3,8 @@ id: 2084-black-money
 title:
   main: "[Black Money]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: position_paper
 authors: []
 editors: []

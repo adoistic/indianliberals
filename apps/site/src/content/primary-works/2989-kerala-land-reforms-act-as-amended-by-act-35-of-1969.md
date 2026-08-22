@@ -3,7 +3,8 @@ id: 2989-kerala-land-reforms-act-as-amended-by-act-35-of-1969
 title:
   main: "Kerala Land Reforms Act as amended by Act 35 of 1969"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: position_paper
 authors: []
 editors: []

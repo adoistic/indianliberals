@@ -3,7 +3,8 @@ id: 223-annexure-b
 title:
   main: "[Annexure-B]"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

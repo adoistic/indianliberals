@@ -3,7 +3,8 @@ id: 3490-list-of-swatantra-mla-mlc
 title:
   main: "List of Swatantra M.L.As & M.L.Cs in U.P."
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

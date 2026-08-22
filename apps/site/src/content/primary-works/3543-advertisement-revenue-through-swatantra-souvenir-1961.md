@@ -3,7 +3,8 @@ id: 3543-advertisement-revenue-through-swatantra-souvenir-1961
 title:
   main: "ADVERTISEMENT REVENUE THROUGH SWATANTRA SOUVENIR - 1961"
   subtitle: ""
-work_type: occasional_paper
+work_type: financial_record
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

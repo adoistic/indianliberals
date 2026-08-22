@@ -3,7 +3,8 @@ id: 2086-consumer-resistance
 title:
   main: "CONSUMER RESISTANCE"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 2020-sanyukt-sadachar-samiti-pledge
 title:
   main: "SANYUKTA SADACHAR SAMITI PLEDGE"
   subtitle: ""
-work_type: occasional_paper
+work_type: form
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 2210-the-draft-election-manifesto-of-the-swatantra-party-march-1960
 title:
   main: "Draft Amendments proposed by Mr.M.R.Masani to the draft Election Manifesto of the Swatantra Party"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: manifesto
 authors: []
 editors: []

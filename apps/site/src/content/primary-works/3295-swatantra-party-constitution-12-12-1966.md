@@ -3,7 +3,8 @@ id: 3295-swatantra-party-constitution-12-12-1966
 title:
   main: "Swatantra Party"
   subtitle: "CONSTITUTION"
-work_type: occasional_paper
+work_type: constitution
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

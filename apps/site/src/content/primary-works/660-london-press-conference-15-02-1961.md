@@ -3,7 +3,8 @@ id: 660-london-press-conference-15-02-1961
 title:
   main: "LONDON PRESS CONFERENCE"
   subtitle: "(Morning of 15th Feb.61)"
-work_type: occasional_paper
+work_type: press_note
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

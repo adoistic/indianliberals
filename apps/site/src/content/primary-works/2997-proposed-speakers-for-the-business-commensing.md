@@ -3,7 +3,8 @@ id: 2997-proposed-speakers-for-the-business-commensing
 title:
   main: "Proposed speakers for the business commencing during this week"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 2845-meeting-of-the-members-of-the-swatantra-party-22-12-1959
 title:
   main: "PROCEEDINGS OF THE MEETING OF MEMBERS OF THE SWATANTRA PARTY IN THE LOK SABHA ON 22-12-59."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

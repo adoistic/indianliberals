@@ -3,7 +3,8 @@ id: 2074-centralised-comprehensive-planning
 title:
   main: "CENTRALISED COMPREHENSIVE PLANNING"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

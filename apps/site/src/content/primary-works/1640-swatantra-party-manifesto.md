@@ -3,7 +3,8 @@ id: 1640-swatantra-party-manifesto
 title:
   main: "சுதந்திரக் கட்சி தேர்தல் அறிக்கை"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 purpose: manifesto
 authors: []
 editors: []

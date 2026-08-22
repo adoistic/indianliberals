@@ -3,7 +3,8 @@ id: 2079-return-on-state-investments
 title:
   main: "RETURN ON STATE INVESTMENTS"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

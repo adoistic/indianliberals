@@ -3,7 +3,8 @@ id: 2072-whereas-in-india
 title:
   main: "WHEREAS, IN INDIA..."
   subtitle: "THE PEOPLE HAVE TO FEND FOR THEMSELVES..."
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

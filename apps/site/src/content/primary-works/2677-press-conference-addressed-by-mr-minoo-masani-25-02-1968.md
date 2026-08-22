@@ -3,7 +3,8 @@ id: 2677-press-conference-addressed-by-mr-minoo-masani-25-02-1968
 title:
   main: "PRESS CONFERENCE ADDRESSED BY MR. M.R. MASANI AT BHUBANESWAR ON 25.2.68 (11.00 A.M.)"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: classifier
 authors:
   - minoo-masani
 editors: []

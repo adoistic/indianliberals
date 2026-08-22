@@ -3,7 +3,8 @@ id: 4954-registration-of-public-opinions
 title:
   main: "Registration of Public Opinion."
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

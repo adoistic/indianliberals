@@ -3,7 +3,8 @@ id: 4782-swatantra-party-election-manifesto-1972
 title:
   main: "ELECTION MANIFESTO"
   subtitle: "Assembly Elections, March 1972"
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 purpose: manifesto
 authors: []
 editors: []

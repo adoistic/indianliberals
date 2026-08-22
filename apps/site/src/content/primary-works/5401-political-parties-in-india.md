@@ -3,7 +3,8 @@ id: 5401-political-parties-in-india
 title:
   main: "Political Parties In India"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

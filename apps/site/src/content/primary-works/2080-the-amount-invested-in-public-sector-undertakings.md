@@ -3,7 +3,8 @@ id: 2080-the-amount-invested-in-public-sector-undertakings
 title:
   main: "THE AMOUNT INVESTED IN PUBLIC SECTOR UNDERTAKINGS HAVE NOT PROVED TO BE PRODUCTIVE BUT HAS RESULTED IN AGGRAVATING INFLATION"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: position_paper
 authors: []
 editors: []

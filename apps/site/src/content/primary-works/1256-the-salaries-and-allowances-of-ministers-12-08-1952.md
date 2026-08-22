@@ -3,7 +3,8 @@ id: 1256-the-salaries-and-allowances-of-ministers-12-08-1952
 title:
   main: "THE SALARIES AND ALLOWANCES OF MINISTERS ACT, 1952."
   subtitle: ""
-work_type: occasional_paper
+work_type: reference
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

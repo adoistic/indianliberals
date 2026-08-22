@@ -3,7 +3,8 @@ id: 744-for-favour-of-publication-10-09-1964
 title:
   main: "[For Favour of Publication]"
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: classifier
 authors:
   - minoo-masani
 editors: []

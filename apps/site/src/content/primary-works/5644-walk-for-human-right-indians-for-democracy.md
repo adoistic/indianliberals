@@ -3,7 +3,8 @@ id: 5644-walk-for-human-right-indians-for-democracy
 title:
   main: "WALK FOR HUMAN RIGHTS Indians FOR DEMOCRACY"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: position_paper
 authors: []
 editors: []

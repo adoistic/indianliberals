@@ -3,7 +3,8 @@ id: 1822-prime-ministers-press-conference-07-07-1959
 title:
   main: "Extracts from the transcript of the Prime Minister's Press Conference held at Vigyan Bhavan on July 7, 1959."
   subtitle: ""
-work_type: occasional_paper
+work_type: interview
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

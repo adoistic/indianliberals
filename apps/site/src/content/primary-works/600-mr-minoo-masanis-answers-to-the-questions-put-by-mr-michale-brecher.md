@@ -3,7 +3,8 @@ id: 600-mr-minoo-masanis-answers-to-the-questions-put-by-mr-michale-brecher
 title:
   main: "Mr. M.R. Masani's Answers to the questions put by Mr. Michael Brecher, Professor of Political Science, McGill University."
   subtitle: ""
-work_type: occasional_paper
+work_type: interview
+work_type_source: classifier
 authors:
   - minoo-masani
 editors: []

@@ -3,7 +3,8 @@ id: 2089-foundation-of-economic-growth-savings
 title:
   main: "[Foundation of Economic Growth Savings]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

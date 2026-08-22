@@ -3,7 +3,8 @@ id: 3776-swatantra-party-candidates-to-the-gujarat-state-assembly
 title:
   main: "Candidates to the Gujarat State Assembly Approved by the Central Parliamentary Board."
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

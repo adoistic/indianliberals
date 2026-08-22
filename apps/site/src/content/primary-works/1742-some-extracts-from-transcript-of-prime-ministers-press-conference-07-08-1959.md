@@ -3,7 +3,8 @@ id: 1742-some-extracts-from-transcript-of-prime-ministers-press-conference-07-08
 title:
   main: "SOME EXTRACTS FROM TRANSCRIPT OF PRIME MINISTER'S PRESS CONFERENCE HELD AT VIGYAN BHAVAN ON 7-8-1959."
   subtitle: ""
-work_type: occasional_paper
+work_type: interview
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

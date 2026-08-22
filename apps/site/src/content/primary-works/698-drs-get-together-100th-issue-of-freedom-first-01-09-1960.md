@@ -3,7 +3,8 @@ id: 698-drs-get-together-100th-issue-of-freedom-first-01-09-1960
 title:
   main: "DRS Get Together – 100th issue of Freedom First"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

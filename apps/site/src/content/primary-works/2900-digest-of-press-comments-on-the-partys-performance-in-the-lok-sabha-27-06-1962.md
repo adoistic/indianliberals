@@ -3,7 +3,8 @@ id: 2900-digest-of-press-comments-on-the-partys-performance-in-the-lok-sabha-27-
 title:
   main: "DIGEST OF PRESS COMMENTS"
   subtitle: "ON THE PARTY'S PERFORMANCE IN THE LOK SABHA:"
-work_type: occasional_paper
+work_type: report
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

@@ -3,7 +3,8 @@ id: 5406-the-endless-crisis
 title:
   main: "[The Endless Crisis]"
   subtitle: ""
-work_type: occasional_paper
+work_type: reference
+work_type_source: classifier
 purpose: working_paper
 authors: []
 editors: []

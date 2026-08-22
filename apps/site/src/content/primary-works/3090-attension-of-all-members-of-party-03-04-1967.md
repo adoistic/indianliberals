@@ -3,7 +3,8 @@ id: 3090-attension-of-all-members-of-party-03-04-1967
 title:
   main: "WHIP"
   subtitle: ""
-work_type: occasional_paper
+work_type: circular
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

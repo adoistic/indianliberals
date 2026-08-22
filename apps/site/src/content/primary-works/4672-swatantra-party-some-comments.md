@@ -3,7 +3,8 @@ id: 4672-swatantra-party-some-comments
 title:
   main: "Some Comments"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 1140-list-of-invitees-for-the-discussion-29-07-1977
 title:
   main: "List of Invitees for the Discussion to be held on 29.7.77"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: classifier
 purpose: working_paper
 authors: []
 editors: []

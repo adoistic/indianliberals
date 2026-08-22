@@ -3,7 +3,8 @@ id: 646-universal-declaration-of-human-rights
 title:
   main: "UNIVERSAL DECLARATION OF HUMAN RIGHTS"
   subtitle: ""
-work_type: occasional_paper
+work_type: reference
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

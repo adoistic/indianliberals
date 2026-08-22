@@ -3,7 +3,8 @@ id: 4311-demand-in-lok-sabha-to-convene-asian-nation-10-04-1964
 title:
   main: "DEMAND IN LOK SABHA TO CONVENE ASIAN NATIONS' MEET"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_clipping
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

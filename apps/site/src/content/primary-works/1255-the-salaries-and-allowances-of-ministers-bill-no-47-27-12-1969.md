@@ -3,7 +3,8 @@ id: 1255-the-salaries-and-allowances-of-ministers-bill-no-47-27-12-1969
 title:
   main: "The Salaries and Allowances of Ministers (Amendment) Act, 1969"
   subtitle: "No. 47 of 1969"
-work_type: occasional_paper
+work_type: reference
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 657-meeting-of-the-british-group-of-liberal-international-15-02-1961
 title:
   main: "Meeting of the British Group of Liberal International on 15th February, 1961 at 7.30 p.m."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

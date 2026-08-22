@@ -3,7 +3,8 @@ id: 180-monopolies-and-restrietive-trade-discussion-on-parliament-03-08-1968
 title:
   main: "MINORITY VIEW ALY. IN THE CHAIR."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: classifier
 authors:
   - minoo-masani
 editors: []

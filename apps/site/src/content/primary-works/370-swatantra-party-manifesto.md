@@ -3,7 +3,8 @@ id: 370-swatantra-party-manifesto
 title:
   main: "SWATANTRA PARTY MANIFESTO"
   subtitle: "TO PROSPERITY THROUGH FREEDOM"
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 purpose: manifesto
 authors: []
 editors: []

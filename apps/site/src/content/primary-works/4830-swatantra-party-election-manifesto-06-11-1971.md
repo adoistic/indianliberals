@@ -3,7 +3,8 @@ id: 4830-swatantra-party-election-manifesto-06-11-1971
 title:
   main: "ELECTION MANIFESTO"
   subtitle: "For the Assembly Elections in several States in February 1972"
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 purpose: manifesto
 authors: []
 editors: []

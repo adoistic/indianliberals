@@ -3,7 +3,8 @@ id: 5121-copy-of-tele-message-04-04-1968
 title:
   main: "[Copy of Tele Message]"
   subtitle: ""
-work_type: occasional_paper
+work_type: telegram
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

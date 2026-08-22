@@ -3,7 +3,8 @@ id: 747-bombay-regions-delegate-representation
 title:
   main: "Bombay Region's delegate representation for the National Convention of the Party on the basis of Membership"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

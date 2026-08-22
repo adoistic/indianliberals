@@ -3,7 +3,8 @@ id: 5777-proposals-for-party-development-in-maharashtra
 title:
   main: "Proposals for Party Development in Maharashtra"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: classifier
 purpose: working_paper
 authors: []
 editors: []

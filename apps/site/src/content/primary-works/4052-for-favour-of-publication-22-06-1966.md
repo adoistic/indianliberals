@@ -3,7 +3,8 @@ id: 4052-for-favour-of-publication-22-06-1966
 title:
   main: "FOR FAVOUR OF PUBLICATION"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

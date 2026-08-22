@@ -3,7 +3,8 @@ id: 2081-short-term-causes
 title:
   main: "SHORT TERM CAUSES"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

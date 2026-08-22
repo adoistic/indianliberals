@@ -3,7 +3,8 @@ id: 2090-tax-reduction
 title:
   main: "TAX REDUCTION"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

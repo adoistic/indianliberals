@@ -3,7 +3,8 @@ id: 635-plan-dominates-budget-07-06-1962
 title:
   main: "[Plan Dominates Budget]"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

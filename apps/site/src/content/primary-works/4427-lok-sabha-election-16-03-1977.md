@@ -3,7 +3,8 @@ id: 4427-lok-sabha-election-16-03-1977
 title:
   main: "LOK SABHA ELECTION"
   subtitle: "16th March 1977 / SOUTH-BOMBAY CONSTITUENCY"
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: classifier
 purpose: manifesto
 authors: []
 editors: []

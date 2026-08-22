@@ -3,7 +3,8 @@ id: 5775-agenda-for-todays-party-meeting-28-11-1973
 title:
   main: "Agenda for today's Party Meeting"
   subtitle: ""
-work_type: occasional_paper
+work_type: programme
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

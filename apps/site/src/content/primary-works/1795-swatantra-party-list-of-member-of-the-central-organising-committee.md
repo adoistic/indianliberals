@@ -3,7 +3,8 @@ id: 1795-swatantra-party-list-of-member-of-the-central-organising-committee
 title:
   main: "List of Members of the CENTRAL ORGANISING COMMITTEE."
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

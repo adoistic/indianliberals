@@ -3,7 +3,8 @@ id: 4053-a-note-on-devaluation-and-the-measures
 title:
   main: "A Note on Devaluation and the measures by which It should be followed"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: position_paper
 authors: []
 editors: []

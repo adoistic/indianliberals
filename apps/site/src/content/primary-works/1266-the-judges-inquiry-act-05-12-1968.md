@@ -3,7 +3,8 @@ id: 1266-the-judges-inquiry-act-05-12-1968
 title:
   main: "THE JUDGES (INQUIRY) ACT, 1968"
   subtitle: ""
-work_type: occasional_paper
+work_type: reference
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

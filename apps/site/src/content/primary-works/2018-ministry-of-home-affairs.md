@@ -3,7 +3,8 @@ id: 2018-ministry-of-home-affairs
 title:
   main: "A draft Code to regulate the relationship between Members of Parliament and of State Legislatures and the Administration."
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 5244-pubilicity
 title:
   main: "[Pubilicity]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 authors:
   - k-m-munshi
 editors: []

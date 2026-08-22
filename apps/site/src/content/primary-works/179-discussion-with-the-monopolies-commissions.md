@@ -3,7 +3,8 @@ id: 179-discussion-with-the-monopolies-commissions
 title:
   main: "Notes for discussion with the Monopolies Commission"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: position_paper
 authors: []
 editors: []

@@ -3,7 +3,8 @@ id: 2262-the-high-court-of-judicature-at-bombay-civil-jurisdication-writ-petitio
 title:
   main: "WRIT PETITION NO 2955 OF 1987"
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: classifier
 authors:
   - minoo-masani
 editors: []

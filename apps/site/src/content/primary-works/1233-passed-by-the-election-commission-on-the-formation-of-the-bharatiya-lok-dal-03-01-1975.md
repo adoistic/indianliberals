@@ -3,7 +3,8 @@ id: 1233-passed-by-the-election-commission-on-the-formation-of-the-bharatiya-lok
 title:
   main: "EXCERPTS OF THE ORDER DATED 3 JANUARY, 1975 PASSED BY THE ELECTION COMMISSION ON THE FORMATION OF THE BHARATIYA LOK DAL"
   subtitle: ""
-work_type: occasional_paper
+work_type: reference
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

@@ -3,7 +3,8 @@ id: 1318-deficit-financing-16-11-1967
 title:
   main: "DEFICIT FINANCING"
   subtitle: ""
-work_type: occasional_paper
+work_type: office_record
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

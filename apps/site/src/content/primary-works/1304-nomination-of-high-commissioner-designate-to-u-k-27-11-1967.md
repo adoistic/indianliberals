@@ -3,7 +3,8 @@ id: 1304-nomination-of-high-commissioner-designate-to-u-k-27-11-1967
 title:
   main: "NOMINATION OF HIGH COMMISSIONER DESIGNATE TO U.K."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: classifier
 purpose: report
 authors:
   - minoo-masani

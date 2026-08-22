@@ -3,7 +3,8 @@ id: 546-minute-of-dissent-tabled-by-mr-masani-and-mr-dahyabhai
 title:
   main: "Minute of Dissent tabled by Mr. M.R.Masani, M.P. and Mr. Dahyabhai V. Patel, M.P., to the Report of the Joint Select Committee on the Patents Bill"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: position_paper
 authors:
   - minoo-masani

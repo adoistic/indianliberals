@@ -3,7 +3,8 @@ id: 5906-the-swatantra-party-establishment
 title:
   main: "The Swatantra Party"
   subtitle: ""
-work_type: occasional_paper
+work_type: report
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

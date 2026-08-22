@@ -3,7 +3,8 @@ id: 4911-candidates-selected-for-lok-sabha-and-vidhan-sabha
 title:
   main: "CANDIDATES SELECTED FOR LOK SABHA AND VIDHAN SABHA"
   subtitle: ""
-work_type: occasional_paper
+work_type: roster
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []

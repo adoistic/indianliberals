@@ -3,7 +3,8 @@ id: 5390-lord-reiths-autobiography-into-the-wind
 title:
   main: "The following passages extracted from Lord Reith's autobiography Into The Wind."
   subtitle: ""
-work_type: occasional_paper
+work_type: book
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

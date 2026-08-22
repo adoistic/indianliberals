@@ -3,7 +3,8 @@ id: 5799-the-representation-of-the-people-amendment-bill-1990
 title:
   main: "THE REPRESENTATION OF THE PEOPLE (AMENDMENT) BILL, 1990"
   subtitle: ""
-work_type: occasional_paper
+work_type: legal_filing
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

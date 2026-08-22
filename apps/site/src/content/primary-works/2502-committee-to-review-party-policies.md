@@ -3,7 +3,8 @@ id: 2502-committee-to-review-party-policies
 title:
   main: "COMMITTEE TO REVIEW PARTY POLICIES"
   subtitle: ""
-work_type: occasional_paper
+work_type: form
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

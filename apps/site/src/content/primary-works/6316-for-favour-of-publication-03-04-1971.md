@@ -3,7 +3,8 @@ id: 6316-for-favour-of-publication-03-04-1971
 title:
   main: "For favour of publication"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

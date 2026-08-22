@@ -3,7 +3,8 @@ id: 3615-swatantra-party-minuits-of-meeting-31-08-1981
 title:
   main: "DRAFT MINUTES"
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

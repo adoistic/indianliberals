@@ -3,7 +3,8 @@ id: 5417-in-soviet-russia-industrial-and-political-situations-07-11-1927
 title:
   main: "In Soviet Russia"
   subtitle: "Industrial & Political Situation"
-work_type: occasional_paper
+work_type: report
+work_type_source: classifier
 authors: []
 editors: []
 contributors: []

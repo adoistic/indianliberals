@@ -3,7 +3,8 @@ id: 4420-getting-the-facts-straight
 title:
   main: "GETTING THE FACTS STRAIGHT"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: position_paper
 authors: []
 editors: []

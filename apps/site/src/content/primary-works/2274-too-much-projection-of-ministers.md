@@ -3,7 +3,8 @@ id: 2274-too-much-projection-of-ministers
 title:
   main: "TOO MUCH PROJECTION OF MINISTERS"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: classifier
 purpose: position_paper
 authors: []
 editors: []

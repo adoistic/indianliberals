@@ -3,7 +3,8 @@ id: 368-division-in-the-lok-sabha-on-social-economic-issues-1967-1968
 title:
   main: "DIVISIONS IN THE LOK SABHA ON SOCIO-ECONOMIC ISSUES"
   subtitle: "SINCE 1967 TO 1968"
-work_type: occasional_paper
+work_type: report
+work_type_source: classifier
 purpose: report
 authors: []
 editors: []
