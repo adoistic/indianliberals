@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/true-democracy-can-only-be-attained-through-free-market-economy-g-n-lawande/1010867/) on 2026-08-22. Originally published 2026-08-08. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/true-democracy-can-only-be-attained-through-free-market-economy-g-n-lawande/1010867/) on 2026-08-29. Originally published 2026-08-08. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # असली लोकतंत्र सिर्फ मुक्त बाज़ार अर्थव्यवस्था के ज़रिए ही हासिल किया जा सकता है: जी. एन. लवांडे
 

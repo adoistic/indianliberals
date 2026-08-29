@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/govt-autonomy-higher-education-institutes-gd-parikh/2932764/) on 2026-08-22. Originally published 2026-05-16. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/govt-autonomy-higher-education-institutes-gd-parikh/2932764/) on 2026-08-29. Originally published 2026-05-16. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # Govt should respect the autonomy of higher education institutes: GD Parikh
 

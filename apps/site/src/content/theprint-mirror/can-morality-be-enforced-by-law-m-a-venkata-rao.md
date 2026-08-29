@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/can-morality-be-enforced-by-law-m-a-venkata-rao/956758/) on 2026-08-22. Originally published 2026-04-11. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/can-morality-be-enforced-by-law-m-a-venkata-rao/956758/) on 2026-08-29. Originally published 2026-04-11. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # शराबबंदी और व्यक्तिगत स्वतंत्रता: क्या नैतिकता को कानून से लागू किया जा सकता है?—एमए वेंकट राव
 
