@@ -1,0 +1,324 @@
+---
+// The pop-up notice: one poster, one sentence, one button, on every page.
+//
+// Three things had to be true at once, and the order matters.
+//
+// 1. It must reach a screen reader as a piece of the page, not as a trap.
+//    So this is not a <dialog>, nothing is aria-modal, nothing takes focus
+//    on load, and the rest of the page is never hidden from the
+//    accessibility tree. It is a complementary landmark carrying a
+//    heading, a sentence and a link, sitting first in the document. A
+//    reader hears it, acts on it or walks past it. The overlay is a coat
+//    of paint on top of that, for people who navigate by looking.
+//
+// 2. It must be trivial to dismiss: a labelled Close button that is the
+//    first thing you reach, the Escape key, a click anywhere off the card,
+//    and, for a keyboard user, simply tabbing past it. Dismissal is
+//    remembered per notice, so closing it means closed.
+//
+// 3. It must survive having no JavaScript and no picture. Without
+//    JavaScript the same markup renders as a banner at the top of the
+//    page, which is why the overlay styling is a class the script adds
+//    rather than the default. Without the poster the sentence still says
+//    what is happening and the button still goes where it goes.
+//
+// The build leaves out anything already finished; the browser hides what
+// finishes between builds. See lib/announcements.ts for the two clocks.
+
+import { liveAnnouncement } from "~/lib/announcements";
+
+const notice = await liveAnnouncement();
+---
+
+{
+  notice && (
+    <>
+      {/* Runs before the notice is parsed, so a reader who has already
+          closed it, or who arrives after it has finished, never sees it
+          flash on the way to being removed. */}
+      <script
+        is:inline
+        define:vars={{
+          noticeId: notice.id,
+          startsAt: notice.startsAt,
+          endsAt: notice.endsAt,
+        }}
+      >
+        (function () {
+          var over = Date.now() > endsAt || Date.now() < startsAt;
+          var closed = false;
+          try {
+            closed = localStorage.getItem("il-notice:" + noticeId) === "closed";
+          } catch (e) {
+            /* private mode, blocked storage: show it rather than swallow it */
+          }
+          if (over || closed) {
+            document.documentElement.classList.add("il-notice-done");
+          }
+        })();
+      </script>
+
+      <aside
+        id="il-notice"
+        class="il-notice mx-auto mb-2 w-full max-w-5xl px-4 pt-4"
+        aria-labelledby="il-notice-headline"
+        data-notice={notice.id}
+        data-ends={notice.endsAt}
+      >
+        <div class="il-notice-card relative flex flex-col gap-0 overflow-hidden rounded-lg border border-(--color-border) bg-(--color-bg) shadow-sm sm:flex-row">
+          <button
+            type="button"
+            class="il-notice-close absolute top-3 right-3 z-10 inline-flex items-center gap-1.5 rounded-full border border-(--color-border) bg-(--color-bg) px-4 py-2 font-(family-name:--font-ui) text-sm font-semibold text-(--color-fg-muted) shadow-sm transition-colors hover:border-(--color-fg) hover:text-(--color-fg) focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-(--color-fg)"
+            data-close
+          >
+            <span aria-hidden="true">&times;</span>
+            Close
+          </button>
+
+          {notice.image && (
+            <div
+              class="il-notice-figure relative shrink-0 overflow-hidden bg-(--color-bg-muted) sm:w-2/5"
+              style={`--poster: url("${notice.image}")`}
+            >
+              {/* Decorative on purpose. Everything the poster says is said
+                  again in the headline and the sentence beside it, and a
+                  screen reader should hear that once, not twice. The poster
+                  is not a link either: the button below is the one way in,
+                  so nobody has to hear an unnamed link. A pointer can still
+                  click the picture, which the script arranges. */}
+              <img
+                src={notice.image}
+                alt=""
+                class="il-notice-image relative h-full w-full object-contain object-center"
+                decoding="async"
+              />
+            </div>
+          )}
+
+          <div class="flex flex-1 flex-col justify-center gap-3 p-5 sm:p-7">
+            <p class="font-(family-name:--font-ui) text-xs font-bold tracking-[0.14em] text-(--color-saffron-700) uppercase">
+              Announcement
+            </p>
+            <h2
+              id="il-notice-headline"
+              class="font-(family-name:--font-display) text-2xl leading-tight font-bold text-balance text-(--color-fg) sm:text-3xl"
+            >
+              {notice.headline}
+            </h2>
+            <p class="text-base leading-relaxed text-pretty text-(--color-fg-muted)">
+              {notice.message}
+            </p>
+            {notice.linkUrl && (
+              <p class="mt-1">
+                <a
+                  class="il-notice-cta inline-flex items-center gap-2 rounded-full bg-(--color-fg) px-6 py-3 font-(family-name:--font-ui) text-sm font-semibold text-white! no-underline transition-colors hover:bg-(--color-forest-700) focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-(--color-fg)"
+                  href={notice.linkUrl}
+                >
+                  {notice.linkLabel}
+                  <span aria-hidden="true">&rarr;</span>
+                </a>
+              </p>
+            )}
+          </div>
+        </div>
+      </aside>
+
+      {/* Two rules about the document itself rather than about anything in
+          this component, so they are written globally: scoped styles are
+          rewritten to match this component's own elements, and a rule about
+          <html> has nothing here to match. */}
+      <style is:global>
+        /* Closed, finished, or not yet due: the script above has decided
+           before the notice was parsed, and it never paints. */
+        html.il-notice-done .il-notice {
+          display: none;
+        }
+
+        /* While the overlay is up, the page behind it stays put. */
+        html.il-notice-open {
+          overflow: hidden;
+        }
+      </style>
+
+      <style>
+        /* With no JavaScript there is nothing to close and nothing needing
+           closing: the notice is simply the first thing on the page. A
+           button that did nothing would be worse than no button. */
+        .il-notice:not(.is-overlay) .il-notice-close {
+          display: none;
+        }
+
+        .il-notice-image {
+          /* The poster is the whole message for a sighted reader, so it is
+             never cropped; it fits itself into whatever room there is. In
+             the flow of the page it keeps to a band, so that a reader with
+             no JavaScript is not pushed a screenful down to the site. */
+          max-height: 16rem;
+        }
+
+        /* A poster is never the shape of the space it is given, and white
+           bars either side of it look like something failed to load. The
+           gap is filled with the poster itself, blown up and blurred, so
+           the card takes its colour from whatever was uploaded. */
+        .il-notice-figure::before {
+          content: "";
+          position: absolute;
+          inset: 0;
+          background-image: var(--poster);
+          background-size: cover;
+          background-position: center;
+          filter: blur(2rem) saturate(1.25);
+          transform: scale(1.15);
+          opacity: 0.55;
+        }
+
+        /* ── The overlay, added by the script ─────────────────────────────
+           Everything above renders as a banner in the flow of the page,
+           which is what a reader with no JavaScript gets. The class below
+           lifts that same markup over the page for everyone else. */
+
+        .il-notice.is-overlay {
+          position: fixed;
+          inset: 0;
+          z-index: 60;
+          display: grid;
+          place-items: center;
+          /* When the card is taller than the screen the overlay scrolls, and
+             safe centring keeps the top of the card reachable rather than
+             pushing it off the edge nothing can scroll back to. */
+          place-items: safe center;
+          margin: 0;
+          max-width: none;
+          padding: clamp(0.75rem, 3vw, 2rem);
+          background: color-mix(in oklab, var(--color-slate-900) 62%, transparent);
+          overflow-y: auto;
+        }
+
+        .il-notice.is-overlay .il-notice-card {
+          width: min(56rem, 100%);
+          box-shadow: 0 1.5rem 3rem -1rem color-mix(in oklab, var(--color-slate-900) 55%, transparent);
+        }
+
+        /* On a phone the poster takes a third of the screen at most, so the
+           sentence and the button are on it too, without scrolling. */
+        .il-notice.is-overlay .il-notice-image {
+          max-height: 34svh;
+        }
+
+        @media (min-width: 640px) {
+          .il-notice.is-overlay .il-notice-image {
+            max-height: min(82svh, 42rem);
+          }
+        }
+
+        @media (prefers-reduced-motion: no-preference) {
+          .il-notice.is-overlay {
+            animation: il-notice-scrim 0.18s ease both;
+          }
+          .il-notice.is-overlay .il-notice-card {
+            animation: il-notice-card 0.22s cubic-bezier(0.2, 0.7, 0.3, 1) both;
+          }
+          @keyframes il-notice-scrim {
+            from {
+              opacity: 0;
+            }
+            to {
+              opacity: 1;
+            }
+          }
+          @keyframes il-notice-card {
+            from {
+              opacity: 0;
+              transform: translateY(0.75rem) scale(0.985);
+            }
+            to {
+              opacity: 1;
+              transform: none;
+            }
+          }
+        }
+      </style>
+
+      <script is:inline>
+        (function () {
+          var notice = document.getElementById("il-notice");
+          if (!notice) return;
+          var card = notice.querySelector(".il-notice-card");
+          var id = notice.dataset.notice;
+
+          // Already closed, already over, or not yet due. The stylesheet has
+          // kept it out of sight; take it out of the page as well, so that
+          // nothing depends on a stylesheet having loaded.
+          if (document.documentElement.classList.contains("il-notice-done")) {
+            notice.remove();
+            return;
+          }
+
+          // Paint it as an overlay. Deliberately not a modal: no focus is
+          // stolen, no aria-modal, nothing behind it is hidden. A screen
+          // reader meets the same landmark it would have met in the flow of
+          // the page; only the pixels have moved.
+          notice.classList.add("is-overlay");
+          document.documentElement.classList.add("il-notice-open");
+
+          function close() {
+            notice.remove();
+            document.documentElement.classList.remove("il-notice-open");
+            document.removeEventListener("keydown", onKey, true);
+            try {
+              localStorage.setItem("il-notice:" + id, "closed");
+            } catch (e) {
+              /* nothing to remember it with; it will greet them again */
+            }
+          }
+
+          function onKey(event) {
+            if (event.key === "Escape" || event.key === "Esc") close();
+          }
+
+          // The poster is a picture, not a link, so that a screen reader is
+          // not read an unnamed one. A mouse still expects it to be
+          // clickable, and here it is: the same button, one place further up.
+          var cta = notice.querySelector(".il-notice-cta");
+          var figure = notice.querySelector(".il-notice-figure");
+          if (cta && figure) {
+            figure.style.cursor = "pointer";
+            figure.addEventListener("click", function () {
+              cta.click();
+            });
+          }
+
+          notice.querySelectorAll("[data-close]").forEach(function (button) {
+            button.addEventListener("click", close);
+          });
+
+          // Anywhere off the card.
+          notice.addEventListener("click", function (event) {
+            if (!card.contains(event.target)) close();
+          });
+
+          document.addEventListener("keydown", onKey, true);
+
+          // A keyboard reader who tabs past the last control has finished
+          // with it, and should not be left tabbing around behind a scrim.
+          notice.addEventListener("focusout", function (event) {
+            var next = event.relatedTarget;
+            if (next && !notice.contains(next)) close();
+          });
+
+          // The notice outlives the page it was built into: if a reader
+          // leaves a tab open past the closing time, retire it there too.
+          var endsAt = Number(notice.dataset.ends || 0);
+          if (endsAt) {
+            var left = endsAt - Date.now();
+            if (left > 0 && left < 86400000) {
+              setTimeout(function () {
+                notice.remove();
+              }, left);
+            }
+          }
+        })();
+      </script>
+    </>
+  )
+}

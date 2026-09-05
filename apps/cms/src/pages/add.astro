@@ -622,6 +622,7 @@ import { COLLECTIONS } from '../lib/collections';
       const input = el('input', { id });
       if (field.kind === 'number' || field.kind === 'year') input.type = 'number';
       else if (field.kind === 'date') input.type = 'date';
+      else if (field.kind === 'datetime') input.type = 'datetime-local';
       else if (field.kind === 'url') input.type = 'url';
       else input.type = 'text';
       if (field.placeholder) input.placeholder = field.placeholder;
@@ -1151,11 +1152,22 @@ import { COLLECTIONS } from '../lib/collections';
       document: ['primary-works'],
       person: ['thinkers', 'organisations', 'contributors'],
       writing: ['musings', 'opinions'],
+      popup: ['announcements'],
     };
 
     const job = new URLSearchParams(location.search).get('job') ?? '';
     const wanted = JOBS[job];
-    if (wanted) {
+
+    // A pop-up notice has no document to upload and nothing for a model to
+    // read: it is a poster, a sentence and a date. The first three steps
+    // would all be questions with one answer, so it opens on the form.
+    if (job === 'popup' && choose('announcements', false)) {
+      for (const step of ['step-1', 'step-2', 'step-3']) {
+        document.getElementById(step)?.setAttribute('hidden', '');
+      }
+      startForm({}, '');
+      show('step-4');
+    } else if (wanted) {
       if (wanted.length === 1) {
         // One obvious answer, so do not ask the question at all.
         choose(wanted[0]);

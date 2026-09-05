@@ -34,7 +34,7 @@
 
 export type FieldKind =
   | 'text' | 'textarea' | 'markdown' | 'number' | 'year' | 'boolean'
-  | 'select' | 'multiselect' | 'date' | 'url' | 'slug'
+  | 'select' | 'multiselect' | 'date' | 'datetime' | 'url' | 'slug'
   | 'reference'        // points at another collection
   | 'reference-list'   // many of them
   | 'string-list'      // free text tags
@@ -980,6 +980,101 @@ const series: CollectionDef = {
   ],
 };
 
+const announcements: CollectionDef = {
+  id: 'announcements',
+  label: 'Pop-up notices',
+  singular: 'Pop-up notice',
+  description:
+    'A notice that greets every reader on every page until the day it is over: a poster, a sentence and a button. Use it for a lecture, an event or an appeal, not for anything permanent.',
+  path: 'apps/site/src/content/announcements',
+  titleField: 'headline',
+  slugFrom: 'headline',
+  hasBody: false,
+  fields: [
+    {
+      name: 'id',
+      label: 'File name',
+      kind: 'slug',
+      required: true,
+      group: 'essential',
+      placeholder: 'indian-liberals-lecture-2026',
+      hint:
+        'A short name for this notice, lowercase words joined by hyphens. Readers never see it, but their browsers remember it: rename it after the notice is live and everyone who closed it will be shown it again.',
+    },
+    {
+      name: 'headline',
+      label: 'Headline',
+      kind: 'text',
+      required: true,
+      group: 'essential',
+      placeholder: '5th Indian Liberals Annual Lecture',
+      hint: 'The first line, in a few words. Say what the thing is, not that it is an announcement.',
+    },
+    {
+      name: 'message',
+      label: 'The message',
+      kind: 'textarea',
+      required: true,
+      group: 'essential',
+      hint:
+        'One or two sentences: who, what, where and when. Write everything the poster says here as well. Somebody using a screen reader, and somebody whose pictures have not loaded, get this sentence and nothing else, so it has to stand on its own.',
+    },
+    {
+      name: 'image',
+      label: 'The poster',
+      kind: 'image',
+      required: false,
+      group: 'essential',
+      image: { store: 'repo', dir: '/announcements' },
+      hint:
+        'Drop the poster here. Tall or wide both work; it is shown whole rather than cropped. A notice with no poster is still a perfectly good notice.',
+    },
+    {
+      name: 'link_url',
+      label: 'Where the button goes',
+      kind: 'url',
+      required: false,
+      group: 'essential',
+      placeholder: 'https://ccs.in/...',
+      hint: 'The registration or booking page. Paste the whole address, starting with https.',
+    },
+    {
+      name: 'link_label',
+      label: 'What the button says',
+      kind: 'text',
+      required: false,
+      group: 'essential',
+      placeholder: 'Register for the lecture',
+      hint: 'A few words naming the action. Leave it empty and the button reads "Read more".',
+    },
+    {
+      name: 'ends',
+      label: 'Stop showing it at',
+      kind: 'datetime',
+      required: true,
+      group: 'essential',
+      hint:
+        'The moment the notice stops being true, usually when the event begins. Indian Standard Time. The notice takes itself down then, in the reader\'s own browser, with nobody having to remember to remove it.',
+    },
+    {
+      name: 'starts',
+      label: 'Start showing it at',
+      kind: 'datetime',
+      required: false,
+      group: 'essential',
+      hint: 'Leave this empty to start as soon as you save. Fill it in to line a notice up in advance.',
+    },
+    {
+      name: 'draft',
+      label: 'Hold this notice back',
+      kind: 'boolean',
+      required: false,
+      group: 'essential',
+      hint: 'Tick this to write a notice now and not show it to anybody yet. Untick it when you are ready.',
+    },
+  ],
+};
+
 const themes: CollectionDef = {
   id: 'themes',
   label: 'Themes',
@@ -1137,7 +1232,7 @@ const graphEdges: CollectionDef = {
 // the canonical article lives at ThePrint and every record cites back to it.
 // Maintaining those pages is a job for the ingest, not for an editor.
 
-// What the CMS offers, and why it is seven things rather than thirteen.
+// What the CMS offers, and why it is eight things rather than fourteen.
 //
 // A first screen listing every collection in the schema reads as a quiz. Worse,
 // five of those choices could not be completed:
@@ -1157,6 +1252,10 @@ const graphEdges: CollectionDef = {
 // still describe them, and out of COLLECTIONS so nobody is asked to choose one.
 //
 // ThePrint mirror is absent for a different reason: see the note above.
+//
+// Pop-up notices are the one thing here that is not an archive record. They
+// are offered all the same, because putting a lecture in front of readers is
+// a job an editor has, and the alternative is asking us to edit a file.
 
 export const COLLECTIONS: CollectionDef[] = [
   primaryWorks,
@@ -1166,6 +1265,7 @@ export const COLLECTIONS: CollectionDef[] = [
   organisations,
   contributors,
   series,
+  announcements,
 ];
 
 /**

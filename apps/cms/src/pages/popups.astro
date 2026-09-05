@@ -1,0 +1,286 @@
+---
+import Shell from '../layouts/Shell.astro';
+
+/**
+ * Pop-up notices, all of them, with the only thing that matters about one
+ * said in the first line of its card: is it on the site right now.
+ *
+ * A pop-up is the one thing an editor makes here that every reader meets
+ * head on, so the two questions it has to answer without being asked are
+ * "what is showing" and "how do I stop it". Hence a list rather than a
+ * search box: there are never more than a handful, and every one of them
+ * is either running, waiting its turn, held back, or over.
+ *
+ * The cards are read straight out of the repository, one file at a time.
+ * That is a request per notice, which would be indefensible for six
+ * hundred works and costs nothing for three notices.
+ */
+---
+
+<Shell title="Pop-up notices">
+  <div class="head">
+    <p class="eyebrow">The site</p>
+    <h1>Pop-up notices</h1>
+    <hr class="rule" />
+    <p class="lede">
+      A notice that greets every reader on every page: a poster, a sentence and a button. Say
+      when it is over and it takes itself down then, without anybody having to remember. Readers
+      can close it, and once they have, it stays closed for them.
+    </p>
+    <div class="row">
+      <a class="btn btn-primary" href="/add?job=popup">Make a pop-up notice</a>
+    </div>
+  </div>
+
+  <div id="stage"><p class="muted">Looking for notices.</p></div>
+  <div id="list"></div>
+
+  <style is:global>
+    .head { max-width: 44rem; }
+    .head .row { margin-top: 1.25rem; }
+    .lede { font-size: 1.05rem; }
+
+    .notice-card {
+      display: grid;
+      grid-template-columns: 7rem 1fr auto;
+      gap: 1.25rem;
+      align-items: start;
+      background: var(--card);
+      border: 1px solid var(--line2);
+      padding: 1.1rem 1.25rem;
+      margin-bottom: 0.85rem;
+    }
+    .notice-card.live { border-color: var(--sand); background: var(--cream); }
+    .notice-card .poster {
+      width: 7rem;
+      aspect-ratio: 4 / 5;
+      object-fit: contain;
+      background: var(--tile);
+    }
+    .notice-card .nothing {
+      width: 7rem;
+      aspect-ratio: 4 / 5;
+      background: var(--tile);
+      display: grid;
+      place-items: center;
+      font-size: 0.75rem;
+      color: var(--body);
+      text-align: center;
+      padding: 0.5rem;
+    }
+    .notice-card h2 { font-size: 1.15rem; margin: 0 0 0.35rem; }
+    .notice-card p { margin: 0 0 0.35rem; font-size: 0.9rem; }
+    .notice-card .says { color: var(--body); }
+    .notice-card .doing { display: flex; flex-direction: column; gap: 0.5rem; }
+    .notice-card .doing .btn { white-space: nowrap; }
+
+    .state {
+      display: inline-block;
+      font-size: 11px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      font-weight: 700;
+      padding: 0.12rem 0.45rem;
+      background: var(--tile);
+      color: var(--body);
+      margin-bottom: 0.45rem;
+    }
+    .state.on { background: var(--ink); color: var(--paper); }
+
+    @media (max-width: 640px) {
+      .notice-card { grid-template-columns: 5rem 1fr; }
+      .notice-card .poster, .notice-card .nothing { width: 5rem; }
+      .notice-card .doing { grid-column: 2; flex-direction: row; }
+    }
+  </style>
+
+  <script>
+    import { watchUser, roleFor } from '../lib/firebase';
+    import type { User } from 'firebase/auth';
+
+    const $ = (id: string) => document.getElementById(id);
+    const esc = (value: string) =>
+      value.replace(/[&<>"']/g, (c) =>
+        ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]!,
+      );
+
+    /**
+     * A time an editor typed, as milliseconds.
+     *
+     * The site is the authority on this and does the same thing in
+     * apps/site/src/lib/announcements.ts: a bare time is Indian Standard
+     * Time, and a bare date means the end of that day. Kept in step by
+     * hand, because the two apps do not share code.
+     */
+    function whenIST(value: string, endOfDay = false): number {
+      const text = (value ?? '').trim();
+      if (!text) return NaN;
+      if (/(?:Z|[+-]\d{2}:?\d{2})$/i.test(text)) return Date.parse(text);
+      const IST = 5.5 * 60 * 60 * 1000;
+      if (/^\d{4}-\d{2}-\d{2}$/.test(text)) {
+        return Date.parse(`${text}T${endOfDay ? '23:59:59' : '00:00:00'}Z`) - IST;
+      }
+      const naive = /^(\d{4}-\d{2}-\d{2})T(\d{2}:\d{2})(:\d{2})?$/.exec(text);
+      if (naive) return Date.parse(`${text}${naive[3] ? '' : ':00'}Z`) - IST;
+      return Date.parse(text);
+    }
+
+    const WHEN = new Intl.DateTimeFormat('en-IN', {
+      dateStyle: 'medium',
+      timeStyle: 'short',
+      timeZone: 'Asia/Kolkata',
+    });
+
+    function said(at: number): string {
+      return Number.isFinite(at) ? WHEN.format(new Date(at)) : 'a date nobody can read';
+    }
+
+    /**
+     * The few keys this screen shows, read off the top of the file.
+     *
+     * Not a YAML parser and not pretending to be one: a pop-up notice is
+     * flat, and anything this misses is only missing from a summary line.
+     * The edit screen has the real reader.
+     */
+    function peek(content: string): Record<string, string> {
+      const match = /^---\n([\s\S]*?)\n---/.exec(content);
+      const out: Record<string, string> = {};
+      if (!match) return out;
+      for (const line of match[1].split('\n')) {
+        const row = /^([a-z_]+):\s*(.*)$/.exec(line);
+        if (!row) continue;
+        out[row[1]] = row[2].trim().replace(/^["'](.*)["']$/, '$1');
+      }
+      return out;
+    }
+
+    interface Notice {
+      slug: string;
+      headline: string;
+      message: string;
+      image: string;
+      startsAt: number;
+      endsAt: number;
+      held: boolean;
+    }
+
+    function stateOf(notice: Notice, now: number): { label: string; on: boolean; line: string } {
+      if (notice.held) {
+        return {
+          label: 'Held back',
+          on: false,
+          line: 'Nobody can see this. Untick "Hold this notice back" to put it up.',
+        };
+      }
+      if (Number.isFinite(notice.endsAt) && notice.endsAt <= now) {
+        return {
+          label: 'Finished',
+          on: false,
+          line: `It stopped showing on ${said(notice.endsAt)} and readers no longer see it.`,
+        };
+      }
+      if (notice.startsAt && notice.startsAt > now) {
+        return {
+          label: 'Waiting',
+          on: false,
+          line: `Goes up on ${said(notice.startsAt)} and comes down on ${said(notice.endsAt)}.`,
+        };
+      }
+      return {
+        label: 'Showing now',
+        on: true,
+        line: `On every page until ${said(notice.endsAt)}.`,
+      };
+    }
+
+    function cardHtml(notice: Notice, now: number): string {
+      const state = stateOf(notice, now);
+      const picture = notice.image
+        ? `<img class="poster" src="https://indianliberals.in${esc(notice.image)}" alt="" />`
+        : '<div class="nothing">No poster</div>';
+      return `
+        <article class="notice-card${state.on ? ' live' : ''}">
+          ${picture}
+          <div>
+            <span class="state${state.on ? ' on' : ''}">${esc(state.label)}</span>
+            <h2>${esc(notice.headline || notice.slug)}</h2>
+            <p>${esc(state.line)}</p>
+            <p class="says">${esc(notice.message)}</p>
+          </div>
+          <div class="doing">
+            <a class="btn btn-quiet" href="/edit?collection=announcements&slug=${encodeURIComponent(
+              notice.slug,
+            )}">Open it</a>
+          </div>
+        </article>`;
+    }
+
+    async function load(user: User): Promise<void> {
+      const token = await user.getIdToken();
+      const headers = { Authorization: `Bearer ${token}` };
+
+      const listed = await fetch('/api/list?collection=announcements', { headers });
+      if (!listed.ok) throw new Error(`the archive said ${listed.status}`);
+      const { entries } = (await listed.json()) as { entries: { slug: string }[] };
+
+      const notices: Notice[] = [];
+      for (const entry of entries ?? []) {
+        const got = await fetch(
+          `/api/entry?collection=announcements&slug=${encodeURIComponent(entry.slug)}`,
+          { headers },
+        );
+        if (!got.ok) continue;
+        const { content } = (await got.json()) as { content?: string };
+        const front = peek(content ?? '');
+        notices.push({
+          slug: entry.slug,
+          headline: front.headline ?? '',
+          message: front.message ?? '',
+          image: front.image ?? '',
+          startsAt: front.starts ? whenIST(front.starts) : 0,
+          endsAt: whenIST(front.ends ?? '', true),
+          held: front.draft === 'true',
+        });
+      }
+
+      const now = Date.now();
+      // Whatever a reader is meeting right now belongs at the top.
+      notices.sort((a, b) => {
+        const rank = (n: Notice) => (stateOf(n, now).on ? 0 : n.held ? 1 : n.endsAt > now ? 1 : 2);
+        return rank(a) - rank(b) || (b.endsAt || 0) - (a.endsAt || 0);
+      });
+
+      $('stage')?.setAttribute('hidden', '');
+      const list = $('list');
+      if (!list) return;
+      list.innerHTML = notices.length
+        ? notices.map((notice) => cardHtml(notice, now)).join('')
+        : `<section class="card">
+             <h2>No notices yet</h2>
+             <hr class="rule" />
+             <p>
+               Nothing is popping up on the site. Make one when there is a lecture or an event
+               readers should know about.
+             </p>
+           </section>`;
+    }
+
+    watchUser(async (user) => {
+      if (!user) return;
+      if (!(await roleFor(user))) {
+        location.href = '/no-access';
+        return;
+      }
+      try {
+        await load(user);
+      } catch (error) {
+        const stage = $('stage');
+        if (stage) {
+          stage.innerHTML = `<div class="notice" style="border-color:var(--stop)">Could not read the notices: ${esc(
+            (error as Error).message,
+          )}. Reload to try again.</div>`;
+        }
+      }
+    });
+  </script>
+</Shell>

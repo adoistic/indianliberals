@@ -74,6 +74,23 @@ a separate class of record.
    and the document are both theirs. Never sent to us.
 3. **Type it in.** Every field, with a hint explaining what belongs there.
 
+## Pop-up notices
+
+`/popups` lists every notice and says which one readers are meeting right now;
+"Make a pop-up notice" opens the ordinary entry form with the upload and AI
+steps skipped, because a notice is a poster, a sentence and a date.
+
+They are ordinary content files, under `apps/site/src/content/announcements/`,
+and the site shows whichever one is live on every page. Two clocks decide that
+(`apps/site/src/lib/announcements.ts`): the build leaves out anything finished,
+held back or not yet due, and the reader's own browser hides the notice the
+moment `ends` passes, so a lecture notice comes down at six on the evening of
+the lecture without anybody rebuilding the site. Times are typed plainly,
+`2026-09-18T18:00`, and read as Indian Standard Time.
+
+Readers can close a notice, and their browser remembers that against the
+notice's `id`, so renaming a live notice shows it again to everyone.
+
 ## Deploying
 
 ```bash

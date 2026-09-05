@@ -935,8 +935,37 @@ const site = defineCollection({
   }),
 });
 
+// ─── Announcements: the pop-up notice ──────────────────────────────────
+//
+// One entry per notice an editor wants readers to see on every page: a
+// poster, a sentence, a link, and the moment it stops being true. The
+// component reads whichever entry is live at build time and the browser
+// hides it once `ends` has passed, so a notice retires itself even if
+// nobody rebuilds the site that evening.
+//
+// Times are written the way an editor types them — 2026-09-18T18:00 — and
+// read as Indian Standard Time unless they carry an offset of their own.
+
+const announcements = defineCollection({
+  loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/announcements' }),
+  schema: z.object({
+    id: z.string(),
+    headline: z.string(),
+    message: z.string(),
+    image: z.string().optional(),
+    link_url: z.string().optional(),
+    link_label: z.string().optional(),
+    starts: z.string().optional(),
+    ends: z.string(),
+    // Held back rather than deleted: the same word the rest of the archive
+    // uses for something written but not yet shown.
+    draft: z.boolean().default(false),
+  }),
+});
+
 export const collections = {
   site,
+  announcements,
   thinkers,
   contributors,
   organisations,

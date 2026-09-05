@@ -253,6 +253,16 @@ import { COLLECTIONS } from '../lib/collections';
     // pretending a search box works when it has nothing to search.
     const NO_SOURCE = new Set(['contributors', 'series']);
 
+    // Pop-up notices are not catalogue records and are never searched for:
+    // there are three of them and what matters is which one is showing. That
+    // is a different screen, so this tab points at it rather than repeating it.
+    const ELSEWHERE: Record<string, { href: string; says: string }> = {
+      announcements: {
+        href: '/popups',
+        says: 'Pop-up notices have a screen of their own, where you can see which one readers are meeting right now.',
+      },
+    };
+
     const WINDOW = 60;
 
     const tabs = document.getElementById('tabs')!;
@@ -482,6 +492,16 @@ import { COLLECTIONS } from '../lib/collections';
 
       const collection = collectionById(current);
       about.textContent = collection?.description ?? '';
+
+      const elsewhere = ELSEWHERE[current];
+      if (elsewhere) {
+        count.textContent = '';
+        status.innerHTML = `<p class="notice">${escape(elsewhere.says)} <a href="${
+          elsewhere.href
+        }">Open it</a>.</p>`;
+        grid.innerHTML = '';
+        return;
+      }
 
       if (NO_SOURCE.has(current)) {
         count.textContent = '';

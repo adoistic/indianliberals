@@ -701,6 +701,14 @@ import Shell from '../layouts/Shell.astro';
       else if (field.kind === 'url') type = 'url';
       else if (field.kind === 'date' && (shown === '' || /^\d{4}-\d{2}-\d{2}$/.test(shown))) {
         type = 'date';
+      } else if (
+        // A calendar and a clock, but only when what is stored is a shape the
+        // picker can hold. Anything else stays a text box rather than being
+        // silently emptied by a control that cannot show it.
+        field.kind === 'datetime' &&
+        (shown === '' || /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}$/.test(shown))
+      ) {
+        type = 'datetime-local';
       }
       const list =
         field.kind === 'reference' && field.collection

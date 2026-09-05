@@ -147,6 +147,14 @@ of the extraction plan, scoped but not run.
   description and a live build-time count. WAI-ARIA disclosure pattern: real
   buttons, `aria-expanded`/`aria-controls`, Escape closes and restores focus,
   focus-out and click-outside close, hover is a convenience layered on top.
+- **Pop-up notices.** One editable notice, poster and sentence and button, on
+  every page until the moment it is over. Not a modal: a complementary landmark
+  first in the document, nothing aria-modal, no focus stolen and no focus trap,
+  so a screen reader meets it as a piece of the page. Close it with the button,
+  Escape, a click off the card, or by tabbing past it; the browser remembers.
+  With no JavaScript the same markup is a banner at the top of the page. The
+  build drops a finished notice and the reader's own clock retires one that
+  finishes between builds (`apps/site/src/lib/announcements.ts`).
 - **Dark mode**, responsive layout, mobile filter and sort affordances.
 - **Typography.** Source Serif 4 and Source Sans 3, with Noto Serif Devanagari
   and Noto Serif Gujarati for Indic scripts.
@@ -293,6 +301,7 @@ finish something you started.
 | `/browse` | The catalogue as a reader sees it — titles, authors, covers — searchable per collection, click through to edit |
 | `/edit` | Full field editor, grouped, with hints |
 | `/drafts` | The shelf: anything begun and put down, plus everything a batch has read. Nothing here is public and nothing here triggers a build |
+| `/popups` | Pop-up notices: which one readers are meeting now, which are waiting, which are over, and a button to make another |
 | `/people` | Role management, with each role's powers spelled out |
 | `/signin`, `/finish-signin`, `/no-access` | Auth flow |
 
