@@ -7,6 +7,7 @@ cd "<repo root>"                       # NOT apps/site — see "Functions" below
 npm --prefix apps/site run build       # lint gates + astro build + pagefind
 node scripts/deploy/pack-agent-surfaces.mjs
 node scripts/deploy/upload-agent-surfaces.mjs
+node scripts/deploy/publish-llms-full.mjs
 npx wrangler pages deploy apps/site/dist --project-name indianliberals --branch main
 ```
 
@@ -45,6 +46,21 @@ respond exactly as before.
 
 Skipping the pack step means the upload is rejected. Skipping the upload step
 means those URLs return 503 while every page still works.
+
+## The one file too big to ship
+
+`/llms-full.txt` is the whole corpus in one file. It was 29 MB when it was
+first moved to R2 and is over 35 MB now, and Pages refuses any single file
+above 25 MiB. The refusal comes at the end of the upload, so the minute spent
+sending 19,000 files is spent before anything says why.
+
+`publish-llms-full.mjs` puts it on R2 at `agent/llms-full.txt` and deletes it
+from `dist`; `functions/llms-full.txt.js` serves that object at the original
+URL and forwards range requests. The script refuses to publish a file under
+10 MB, because a truncated build would otherwise replace a good copy of a URL
+that SKILL.md advertises.
+
+Every build writes the file again, so this runs on every deploy.
 
 ## Verifying before you deploy
 
