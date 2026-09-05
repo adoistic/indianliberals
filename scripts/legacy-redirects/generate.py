@@ -21,8 +21,13 @@ exact redirects:
 
     python3 scripts/legacy-redirects/generate.py
 
-The existing map.json's manual entries (fallback/gone) are preserved unless
-a better exact match is found.
+Re-running is safe. An entry already in map.json is only rewritten when the
+legacy slug is itself a work's slug, which is a one-to-one match; a PDF-path
+join or a fuzzy match may fill a slug that has no entry yet, but neither
+overrules one that has. That
+rule is what keeps a re-run from churning decided redirects every time the
+archive grows, since difflib compares against every work in it. The summary
+line at the end says how many entries were added, corrected and declined.
 """
 import json
 import os
@@ -79,8 +84,15 @@ def pdf_path(u):
 
 
 def load_collections():
-    """slug/norm-slug → new path, plus primary-work pdf paths and basenames."""
+    """slug/norm-slug → new path, plus primary-work pdf paths and basenames.
+
+    `real_slugs` is kept apart from `slug_map`: it holds only the slugs works
+    actually have, each with every collection it occurs in, and it is the one
+    structure here whose matches are one to one. `slug_map` mixes those with
+    normalised forms, where a whole run of a periodical shares one key.
+    """
     slug_map, md_by_pdf, md_base = {}, {}, {}
+    real_slugs = {}
     for coll, prefix in COLLECTIONS.items():
         d = os.path.join(CONTENT, coll)
         if not os.path.isdir(d):
@@ -92,6 +104,7 @@ def load_collections():
             path = prefix + slug + "/"
             slug_map.setdefault(slug, path)
             slug_map.setdefault(norm(slug), path)
+            real_slugs.setdefault(slug, []).append(path)
             if coll == "primary-works":
                 head = open(os.path.join(d, fn), encoding="utf-8").read(4000)
                 m = re.search(r"^pdf_url:\s*(\S+)", head, re.M)
@@ -99,11 +112,11 @@ def load_collections():
                     pp = pdf_path(m.group(1))
                     md_by_pdf[pp] = path
                     md_base[path] = re.sub(r"\.pdf$", "", pp.rsplit("/", 1)[-1])
-    return slug_map, md_by_pdf, md_base
+    return slug_map, md_by_pdf, md_base, real_slugs
 
 
 def main():
-    slug_map, md_by_pdf, md_base = load_collections()
+    slug_map, md_by_pdf, md_base, real_slugs = load_collections()
     keys = list(slug_map.keys())
 
     prev = {"exact": {}, "fallback": {}, "gone": [], "translated": []}
@@ -127,6 +140,25 @@ def main():
     exact, fallback = {}, dict(prev.get("fallback", {}))
     gone = set(prev.get("gone", []))
     unmatched_with_pdf = {}
+    # Slugs whose target this run guessed with difflib rather than joined on
+    # a PDF path or a slug. A guess is good enough to fill an empty space and
+    # never good enough to overrule a decision already in the map: see the
+    # merge below, and the note at the top of this file.
+    guessed = set()
+    # Slugs matched to a work because the legacy slug is the work's slug.
+    # That join is the only one here that is one to one, and it is therefore
+    # the only one allowed to correct an entry already in the map.
+    #
+    # The other two collapse. A PDF-path join maps several old pages onto one
+    # work whenever they carried the same PDF link. And norm() strips the
+    # trailing month and year, so every issue of a run normalises to the same
+    # key: `shetkari-sanghatak-dec-6-1993` and `-june-6-1993` both become
+    # `shetkari-sanghatak`, and the lookup returns whichever issue happens to
+    # hold that key. That is how twelve Shetkari Sanghatak slugs and three
+    # Indian Libertarian slugs came to point at one unrelated issue each.
+    # Both joins still fill a slug that has nothing, where any issue of the
+    # right run beats a 404.
+    joined_by_slug = set()
 
     for ps in sorted(legacy):
         if ps in gone:
@@ -134,20 +166,26 @@ def main():
         d = inv_by_slug.get(ps, {})
         pp = pdf_path(d.get("pdf_url"))
         n = norm(ps)
-        target = (
-            md_by_pdf.get(pp)
-            or slug_map.get(ps)
-            or slug_map.get(n)
-        )
+        # One to one only when the legacy slug is a slug some work really
+        # has, and only one work has it. Two collections holding the same
+        # slug is a tie this script cannot break, so it leaves the standing
+        # entry alone rather than picking by directory order.
+        hits = real_slugs.get(ps, [])
+        by_slug = hits[0] if len(hits) == 1 else None
+        target = md_by_pdf.get(pp) or slug_map.get(ps) or slug_map.get(n)
+        if by_slug and target == by_slug:
+            joined_by_slug.add(ps)
         if not target:
             hits = difflib.get_close_matches(n, keys, n=1, cutoff=0.87)
             if hits:
                 target = slug_map[hits[0]]
+                guessed.add(ps)
         if not target and pp:
             base = re.sub(r"\.pdf$", "", pp.rsplit("/", 1)[-1])
             hits = difflib.get_close_matches(base, list(md_base.values()), n=1, cutoff=0.85)
             if hits:
                 target = next(p for p, b in md_base.items() if b == hits[0])
+                guessed.add(ps)
         if target:
             exact[ps] = target
         elif pp:
@@ -176,9 +214,44 @@ def main():
                 if d.get("periodical") in FALLBACK_LANDING:
                     fallback.setdefault(ps, FALLBACK_LANDING[d["periodical"]])
 
-    # keep prior exact entries (manual fixes) that this run didn't reproduce
-    for k, v in prev.get("exact", {}).items():
-        exact.setdefault(k, v)
+    # ── Merge with what is already in the map ────────────────────────
+    #
+    # Every entry in the map is a decision that somebody has, at minimum,
+    # lived with. Re-running this script must therefore add and correct, and
+    # must not reshuffle. The difference that matters is how a target was
+    # arrived at:
+    #
+    #   by slug  the legacy slug is the work's slug. One to one, so it is
+    #            good enough to correct an entry that is already there.
+    #   collapsed a PDF-path or normalised-slug join. Both map many legacy
+    #            slugs onto one work, so they fill an empty slot and must not
+    #            overrule a standing entry.
+    #   guessed  difflib found something within its cutoff. Good enough for
+    #            a slug with nothing at all, never good enough to overrule.
+    #
+    # Without this distinction a re-run rewrites decided entries with fresh
+    # guesses, and because difflib compares against every work in the
+    # archive, the guesses move every time content is ingested. One run in
+    # September 2026 changed sixty entries this way, several for the worse:
+    # a Freedom First issue was re-pointed at the Forum of Free Enterprise,
+    # and three Shetkari Sanghatak issues to a fourth issue's page.
+    prev_exact = prev.get("exact", {})
+    prev_fallback = prev.get("fallback", {})
+    decided = set(prev_exact) | set(prev_fallback)
+
+    added, upgraded, kept_guess = 0, 0, 0
+    merged = dict(prev_exact)
+    for k, v in exact.items():
+        if k not in decided:
+            merged[k] = v
+            added += 1
+        elif k not in joined_by_slug:
+            kept_guess += 1                      # leave the standing entry alone
+        elif prev_exact.get(k) != v:
+            merged[k] = v
+            upgraded += 1
+    exact = merged
+
     # an exact match beats a stale fallback
     for k in list(fallback):
         if k in exact:
@@ -202,6 +275,8 @@ def main():
     json.dump(out, open(MAP_PATH, "w"), indent=0, sort_keys=True)
     print(f"map.json: {len(exact)} exact, {len(fallback)} fallback, "
           f"{len(gone)} gone, {len(translated)} translated")
+    print(f"  this run: {added} newly matched, {upgraded} corrected by a slug join, "
+          f"{kept_guess} weaker matches declined in favour of the standing entry")
 
 
 if __name__ == "__main__":
