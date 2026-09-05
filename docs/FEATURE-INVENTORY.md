@@ -151,7 +151,8 @@ of the extraction plan, scoped but not run.
   every page until the moment it is over. Not a modal: a complementary landmark
   first in the document, nothing aria-modal, no focus stolen and no focus trap,
   so a screen reader meets it as a piece of the page. Close it with the button,
-  Escape, a click off the card, or by tabbing past it; the browser remembers.
+  Escape, a click off the card, or by tabbing past it; the browser remembers
+  for 48 hours, so a dismissal holds without losing the notice.
   With no JavaScript the same markup is a banner at the top of the page. The
   build drops a finished notice and the reader's own clock retires one that
   finishes between builds (`apps/site/src/lib/announcements.ts`).

@@ -89,7 +89,10 @@ the lecture without anybody rebuilding the site. Times are typed plainly,
 `2026-09-18T18:00`, and read as Indian Standard Time.
 
 Readers can close a notice, and their browser remembers that against the
-notice's `id`, so renaming a live notice shows it again to everyone.
+notice's `id` for 48 hours, after which a notice that is still running comes
+back once. Closing therefore means closed, without meaning lost: somebody who
+waves a lecture away on Monday can still be reminded on Wednesday. Renaming a
+live notice shows it again to everyone, since the memory is keyed on the id.
 
 ## Deploying
 

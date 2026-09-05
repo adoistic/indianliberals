@@ -27,6 +27,19 @@
 
 import { liveAnnouncement } from "~/lib/announcements";
 
+/**
+ * How long a reader's dismissal is honoured, in milliseconds.
+ *
+ * Closing a notice has to mean closed, or dismissing it would be no relief
+ * at all. But it should not mean closed forever: somebody who waves the
+ * lecture away on Monday morning may want it on Wednesday, and a notice
+ * nobody can get back is a notice they have lost. Two days is long enough
+ * that it does not nag and short enough that it comes back while it is
+ * still true. The end date still governs: a notice that has finished never
+ * returns, whatever this says.
+ */
+const FORGET_AFTER_MS = 48 * 60 * 60 * 1000;
+
 const notice = await liveAnnouncement();
 ---
 
@@ -42,13 +55,18 @@ const notice = await liveAnnouncement();
           noticeId: notice.id,
           startsAt: notice.startsAt,
           endsAt: notice.endsAt,
+          FORGET_AFTER_MS: FORGET_AFTER_MS,
         }}
       >
         (function () {
           var over = Date.now() > endsAt || Date.now() < startsAt;
           var closed = false;
           try {
-            closed = localStorage.getItem("il-notice:" + noticeId) === "closed";
+            // Closing puts the moment of closing in storage, not a flag, so
+            // that a dismissal lapses. Anything unreadable, including the
+            // plain flag an earlier version wrote, counts as not closed.
+            var shut = Number(localStorage.getItem("il-notice:" + noticeId));
+            closed = shut > 0 && Date.now() - shut < FORGET_AFTER_MS;
           } catch (e) {
             /* private mode, blocked storage: show it rather than swallow it */
           }
@@ -266,7 +284,9 @@ const notice = await liveAnnouncement();
             document.documentElement.classList.remove("il-notice-open");
             document.removeEventListener("keydown", onKey, true);
             try {
-              localStorage.setItem("il-notice:" + id, "closed");
+              // The moment, so that the dismissal can lapse. See the head
+              // script above, which is what reads it back.
+              localStorage.setItem("il-notice:" + id, String(Date.now()));
             } catch (e) {
               /* nothing to remember it with; it will greet them again */
             }
