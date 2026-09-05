@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/worker-in-socialist-society-india-ma-venkata-rao/2913464/) on 2026-08-29. Originally published 2026-04-25. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/worker-in-socialist-society-india-ma-venkata-rao/2913464/) on 2026-09-05. Originally published 2026-04-25. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # Worker has no freedom in socialist society. India is moving in that direction: MA Venkata Rao
 

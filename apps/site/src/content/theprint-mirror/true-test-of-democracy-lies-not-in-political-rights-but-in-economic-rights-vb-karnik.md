@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/true-test-of-democracy-lies-not-in-political-rights-but-in-economic-rights-vb-karnik/998034/) on 2026-08-29. Originally published 2026-07-11. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/true-test-of-democracy-lies-not-in-political-rights-but-in-economic-rights-vb-karnik/998034/) on 2026-09-05. Originally published 2026-07-11. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # लोकतंत्र की असली परीक्षा राजनीतिक नहीं, आर्थिक अधिकार हैं—वीबी कर्णिक
 

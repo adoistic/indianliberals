@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/indira-gandhi-knew-newspapers-cant-be-independent-without-money-wrote-cushrow-r-irani/1020727/) on 2026-08-29. Originally published 2026-08-29. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/indira-gandhi-knew-newspapers-cant-be-independent-without-money-wrote-cushrow-r-irani/1020727/) on 2026-09-05. Originally published 2026-08-29. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # इंदिरा गांधी जानती थीं—पैसे के बिना अखबार स्वतंत्र नहीं रह सकते: कुशरो आर. ईरानी
 

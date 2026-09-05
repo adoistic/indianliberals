@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/m-r-masani-initiates-debate-on-euthanasia/1017435/) on 2026-08-29. Originally published 2026-08-22. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/m-r-masani-initiates-debate-on-euthanasia/1017435/) on 2026-09-05. Originally published 2026-08-22. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # ‘मरने का अधिकार भी जीने के अधिकार जितना ही मौलिक है’ : एम.आर. मसानी ने छेड़ी इच्छामृत्यु पर बहस
 

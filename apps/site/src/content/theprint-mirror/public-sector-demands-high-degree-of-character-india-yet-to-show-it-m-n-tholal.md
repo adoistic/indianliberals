@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/public-sector-demands-high-degree-of-character-india-yet-to-show-it-m-n-tholal/1014019/) on 2026-08-29. Originally published 2026-08-15. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/public-sector-demands-high-degree-of-character-india-yet-to-show-it-m-n-tholal/1014019/) on 2026-09-05. Originally published 2026-08-15. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # पब्लिक सेक्टर के लिए ऊंचे स्तर के चरित्र की जरूरत और भारत ने अभी तक ऐसा नहीं दिखाया है: एम एन थोलाल
 

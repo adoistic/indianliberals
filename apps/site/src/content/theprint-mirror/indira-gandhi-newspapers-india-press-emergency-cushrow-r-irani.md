@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/indira-gandhi-newspapers-india-press-emergency-cushrow-r-irani/3027980/) on 2026-08-29. Originally published 2026-08-29. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/indira-gandhi-newspapers-india-press-emergency-cushrow-r-irani/3027980/) on 2026-09-05. Originally published 2026-08-29. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # Indira Gandhi knew newspapers can’t be independent without money, wrote Cushrow R Irani
 

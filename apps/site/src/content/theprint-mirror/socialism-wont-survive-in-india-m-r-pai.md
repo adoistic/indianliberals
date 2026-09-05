@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/socialism-wont-survive-in-india-m-r-pai/2964818/) on 2026-08-29. Originally published 2026-06-20. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/socialism-wont-survive-in-india-m-r-pai/2964818/) on 2026-09-05. Originally published 2026-06-20. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # Socialism has failed everywhere, it won’t survive in India: M. R. Pai
 
