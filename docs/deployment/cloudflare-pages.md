@@ -1,5 +1,11 @@
 # Cloudflare Pages deployment
 
+> **Superseded (September 2026).** The corpus outgrew the Pages git build
+> (which is terminated at its time limit) and the Pages upload caps. The site
+> now deploys from `.github/workflows/deploy.yml` on every push to `main`.
+> `docs/DEPLOYING.md` is the current runbook; what follows is the original
+> setup guide, kept for the project settings it records.
+
 This is the deployment guide for indianliberals.in on **Cloudflare Pages**. The site is fully static (Astro 5 + Pagefind), so deployment is "ship the `dist/` folder" — no SSR runtime, no adapter, no workers.
 
 There are two paths:

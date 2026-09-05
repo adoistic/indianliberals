@@ -23,6 +23,8 @@ concurrency:
 
 permissions:
   contents: write
+  # To start the deploy workflow after a push (see the last step).
+  actions: write
 
 jobs:
   ingest:
@@ -58,21 +60,31 @@ jobs:
         run: npm run ingest:repo
 
       - name: Commit new mirror files
+        id: commit
         run: |
           git config user.name "theprint-ingest-bot"
           git config user.email "theprint-ingest@indianliberals.in"
           if [ -n "$(git status --porcelain apps/site/src/content/theprint-mirror)" ]; then
             git add apps/site/src/content/theprint-mirror
-            # NO [skip ci] here. The site auto-deploys via the git-connected
-            # Cloudflare Pages project (indianliberals.in), and Cloudflare Pages
-            # honours [skip ci] in the commit message — with it, the ingest
-            # pushed the new column pieces to the repo but the production build
-            # never ran, so the live "Latest from ThePrint" column never
-            # refreshed. Dropping the marker lets the weekly ingest trigger a
-            # Pages deploy. This workflow only runs on schedule/dispatch (never
-            # on: push), so the push can't re-trigger it (Adnan, 2026-07).
             git commit -m "chore(theprint-ingest): weekly mirror update"
             git push
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
           else
             echo "No new or changed ThePrint pieces."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
           fi
+
+      # This push is made with the workflow's own token, and GitHub does not
+      # let a push made that way start another workflow. So the deploy is
+      # started by hand, and only when something was actually committed: a
+      # weekly build for "no new pieces" would be forty minutes for nothing.
+      #
+      # (Until September 2026 this relied on the git-connected Cloudflare
+      # Pages build instead, which is why the commit message carries no
+      # [skip ci]. That build has not finished since 22 August; the deploy
+      # workflow is the path that works. See the header of deploy.yml.)
+      - name: Start the site deploy
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml -R "$GITHUB_REPOSITORY" --ref main

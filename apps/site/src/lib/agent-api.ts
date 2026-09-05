@@ -447,6 +447,11 @@ export async function buildMeta(siteOrigin: string) {
     name: 'Indian Liberals — agent data plane',
     site: siteOrigin,
     generated_at: new Date().toISOString(),
+    // The commit this build was made from. The deploy workflow reads it back
+    // from the live domain to confirm the upload actually landed, and the CMS
+    // shows it to editors so they can see whether their save is live yet.
+    // Null in a local build, which has no single commit to speak of.
+    commit: process.env.GITHUB_SHA || null,
     schema_version: 1,
     counts: {
       primary_works: works.length,

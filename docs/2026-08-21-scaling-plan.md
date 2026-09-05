@@ -221,6 +221,9 @@ rebuilding.
 
 - `dist/.wrangler/` (4 files, 144 KB) is local `wrangler dev` state landing in
   the build output. It should never be uploaded. Add to the build's ignore.
-- Git-integrated Pages builds fail until Phase 2. Every content edit pushed to
-  `main` therefore needs a direct upload, and nothing surfaces the failure.
-  Until then, treat a green `main` as meaning nothing.
+- Git-integrated Pages builds fail until Phase 2, and should be switched off in
+  the dashboard. Since 6 September 2026 the direct upload is done by
+  `.github/workflows/deploy.yml` on every push to `main`, where the job limit
+  is six hours; see `docs/DEPLOYING.md`. A green `main` still means only that
+  the schema passed; the deploy workflow's own status is what says the site
+  updated, and it opens an issue when it does not.

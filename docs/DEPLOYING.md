@@ -2,6 +2,63 @@
 
 ## The short version
 
+Push to `main`. `.github/workflows/deploy.yml` builds the site and uploads it
+as a production deployment, taking about an hour end to end. A CMS save is a
+push, so editors need nobody. Progress is on the Actions tab, and the CMS home
+page reports whether the newest save is live yet.
+
+If a deploy fails, the workflow opens a GitHub issue labelled `deploy-failed`
+assigned to Adnan, and closes it when a later deploy succeeds. Production keeps
+serving the previous build in between.
+
+## Why it is a workflow and not the Pages git build
+
+`indianliberals` is a git-integrated Pages project, so pushing to `main`
+*should* build and deploy on Cloudflare's side. It cannot, and has not since the
+Swatantra Party papers landed on 22 August 2026: every build is terminated
+around 36 minutes in for exceeding the build time limit, and a failed build
+does not deploy. Every push since then shows `Failure` in the Pages deployment
+list, including every CMS save. Production kept serving the last direct upload
+from Adnan's laptop, and nothing surfaced the failure to anyone.
+
+The build cannot be made short enough, so it runs where the ceiling is six
+hours instead: GitHub Actions, on every push to `main`, following exactly the
+recipe below. Runs are serialised and coalesced (`concurrency`), so a burst of
+CMS saves costs at most two builds, and a running deploy is never cancelled.
+
+The Pages git build still fires on every push and still fails. That is
+harmless but noisy, and would become a race if it ever succeeded. Turn it off
+in the dashboard: the `indianliberals` project, Settings, Builds & deployments,
+Production branch control, disable automatic deployments. Direct uploads keep
+working with it off.
+
+### One-time setup
+
+The workflow needs one repository secret, `CLOUDFLARE_API_TOKEN`: a token on
+the appsadoistic@gmail.com account with **Account → Cloudflare Pages → Edit**
+and **Account → Workers R2 Storage → Edit** (R2 for the pack and llms-full
+steps, Pages for the upload). Create it at dash.cloudflare.com → My Profile →
+API Tokens → Create Token → Custom token, then:
+
+```bash
+gh secret set CLOUDFLARE_API_TOKEN
+```
+
+The workflow refuses in its first step, before building anything, while that
+secret is missing. Re-run it from the Actions tab (`Run workflow`) once the
+secret is set. The account id is not a secret and is in the workflow.
+
+### Pushes that do not trigger it
+
+GitHub does not start a workflow from a push made with another workflow's
+token. The weekly ThePrint ingest pushes that way, so `theprint-ingest.yml`
+dispatches the deploy itself after it commits. CMS pushes come from a GitHub
+App and do trigger it; so do Adnan's.
+
+## Deploying by hand
+
+The same steps, for when Actions is down or a deploy must go out from a laptop.
+
 ```bash
 cd "<repo root>"                       # NOT apps/site — see "Functions" below
 npm --prefix apps/site run build       # lint gates + astro build + pagefind
@@ -11,17 +68,9 @@ node scripts/deploy/publish-llms-full.mjs
 npx wrangler pages deploy apps/site/dist --project-name indianliberals --branch main
 ```
 
-## Why not just push to main
-
-`indianliberals` is a git-integrated Pages project, so pushing to `main`
-*should* build and deploy. It cannot, and has not since the Swatantra Party
-papers landed: five consecutive builds were terminated at 35.8–36.7 minutes for
-exceeding the build time limit. A failed build does not deploy, so production
-keeps serving the last good version and **nothing surfaces the failure**.
-
-Treat a green `main` as meaning nothing until the SSR work in
-`docs/2026-08-21-scaling-plan.md` lands. Every content change needs a direct
-upload.
+A hand build has no `GITHUB_SHA`, so `/api/meta.json` reports `commit: null`
+and the CMS home page says the site was built by hand. Set
+`GITHUB_SHA=$(git rev-parse HEAD)` before `npm run build` if that matters.
 
 ## Functions: run from the repository root
 
@@ -87,7 +136,8 @@ Also check by hand, because these have broken silently before:
 ## Rollback
 
 Deployments stay addressable. Roll back by promoting the previous deployment id
-in the dashboard rather than rebuilding:
+in the dashboard rather than rebuilding. Note that the next push to `main`
+deploys again, so also revert the commit that needed rolling back:
 
 ```bash
 npx wrangler pages deployment list --project-name indianliberals

@@ -1,0 +1,200 @@
+name: Deploy site
+
+# The link that was missing between a CMS save and the live site.
+#
+# indianliberals is a git-integrated Cloudflare Pages project, so every push
+# to main starts a build on Cloudflare's side. Since the Swatantra papers took
+# the corpus from 1,577 works to 7,932 (22 August 2026), that build has not
+# once finished: Pages terminates it at its build-time limit, around 36
+# minutes in, and a build that does not finish does not deploy. Production
+# kept serving whatever was last uploaded by hand from Adnan's laptop, and
+# every save made in the CMS in between was committed to the repository and
+# went no further. Nothing told the editor.
+#
+# This workflow runs the same recipe as docs/DEPLOYING.md, here, where the
+# job limit is six hours rather than twenty minutes: build the site, pack the
+# per-work agent surfaces and the corpus dump off to R2 (the raw output is
+# over the 20,000-file and 25 MiB-per-file caps Pages enforces on upload),
+# then upload dist as a production deployment. The build is as slow as it is;
+# this does not try to make it faster, only to let it finish.
+#
+# Two things it deliberately does at the edges:
+#
+#   * It refuses immediately if the Cloudflare token is missing, rather than
+#     discovering that after a forty-minute build.
+#   * On failure it opens (or updates) a GitHub issue assigned to Adnan, and
+#     on the next success it closes it. A failed deploy leaves the site
+#     looking healthy, so silence is the one outcome this must not have.
+#
+# Pushes come from three places: Adnan, the CMS (a GitHub App, whose pushes
+# do trigger this), and the weekly ThePrint ingest (which pushes with the
+# workflow token, whose pushes do NOT trigger anything, so that workflow
+# dispatches this one by hand after it commits).
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "docs/**"
+      - "*.md"
+      - ".github/CODEOWNERS"
+  workflow_dispatch:
+
+# One deploy at a time, and at most one waiting. A run that is queued behind
+# a running one builds whatever main is by the time it starts, so a burst of
+# CMS saves costs two builds, not one per save. Never cancel a running
+# deploy: a half-finished upload helps nobody, and the queued run will carry
+# every later commit anyway.
+concurrency:
+  group: deploy-production
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  issues: write
+
+env:
+  CLOUDFLARE_ACCOUNT_ID: 463bdbff3b53cfdd017602e4598b4de2
+  PAGES_PROJECT: indianliberals
+  SITE_ORIGIN: https://indianliberals.in
+
+jobs:
+  deploy:
+    name: Build and publish to Cloudflare Pages
+    runs-on: ubuntu-latest
+    # The build alone is about half an hour on a laptop and slower here.
+    # Generous, because the only cost of a high ceiling is that a genuinely
+    # hung build is reported late, and the cost of a low one is a site that
+    # never updates.
+    timeout-minutes: 150
+
+    steps:
+      - name: Refuse early if Cloudflare cannot be reached
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ]; then
+            echo "::error::The CLOUDFLARE_API_TOKEN repository secret is not set."
+            echo "Without it nothing can be uploaded, so there is no point building."
+            echo "Create an API token with Account > Cloudflare Pages: Edit and"
+            echo "Account > Workers R2 Storage: Edit, then:"
+            echo "  gh secret set CLOUDFLARE_API_TOKEN"
+            echo "See docs/DEPLOYING.md."
+            exit 1
+          fi
+
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: apps/site/package-lock.json
+
+      - name: Install site dependencies
+        working-directory: apps/site
+        run: npm ci --no-audit --no-fund
+
+      # The deploy scripts call `npx wrangler` from the repository root, where
+      # there is no package.json. A global install is what makes that resolve
+      # to a known version instead of whatever npx feels like fetching.
+      - name: Install wrangler
+        run: npm install -g --no-audit --no-fund wrangler@4
+
+      - name: Build the site
+        working-directory: apps/site
+        env:
+          # Stamped into /api/meta.json so the deploy can be verified, and so
+          # the CMS can tell an editor which commit the live site is built from.
+          GITHUB_SHA: ${{ github.sha }}
+        run: npm run build
+
+      # Pages allows 20,000 files per deployment and 25 MiB per file. The raw
+      # build is well over both. These three steps are the ones from
+      # docs/DEPLOYING.md, in the order that document gives, and each of them
+      # exits non-zero if the thing it guards is still wrong.
+      - name: Pack the per-work agent surfaces
+        run: node scripts/deploy/pack-agent-surfaces.mjs
+
+      - name: Upload the packed surfaces to R2
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: node scripts/deploy/upload-agent-surfaces.mjs
+
+      - name: Publish llms-full.txt to R2
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: node scripts/deploy/publish-llms-full.mjs
+
+      # From the repository root, not apps/site: Pages Functions are read from
+      # ./functions relative to where this runs, and the legacy redirect map
+      # lives there. Deploying from apps/site ships the site without it, which
+      # went unnoticed for months once already.
+      - name: Deploy to Cloudflare Pages
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          SUBJECT="$(git log -1 --format=%s "$GITHUB_SHA")"
+          npx wrangler pages deploy apps/site/dist \
+            --project-name "$PAGES_PROJECT" \
+            --branch main \
+            --commit-hash "$GITHUB_SHA" \
+            --commit-message "$SUBJECT" \
+            --commit-dirty=true
+
+      # "Deployment complete" from wrangler means the upload finished. This
+      # checks the thing that matters: that a reader fetching the live domain
+      # now gets this commit. The cache-busting query keeps the CDN out of it.
+      - name: Confirm the live site is serving this commit
+        run: |
+          for i in $(seq 1 40); do
+            LIVE="$(curl -sf -H 'Cache-Control: no-cache' "$SITE_ORIGIN/api/meta.json?deploy=$GITHUB_SHA" | python3 -c 'import sys,json; print(json.load(sys.stdin).get("commit") or "")' || true)"
+            if [ "$LIVE" = "$GITHUB_SHA" ]; then
+              echo "Live: $SITE_ORIGIN is serving $GITHUB_SHA."
+              exit 0
+            fi
+            echo "Attempt $i: live site reports '${LIVE:-nothing}', waiting."
+            sleep 15
+          done
+          echo "::error::Upload finished but $SITE_ORIGIN/api/meta.json never reported $GITHUB_SHA."
+          exit 1
+
+      # ── Telling someone ────────────────────────────────────────────────
+      #
+      # The commit author is an editor with no GitHub account, and the pusher
+      # is a bot, so GitHub's own failure emails reach nobody. An issue
+      # assigned to Adnan does.
+      - name: Report the failure as an issue
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          RUN_URL="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          SHORT="${GITHUB_SHA:0:8}"
+          SUBJECT="$(git log -1 --format=%s "$GITHUB_SHA" 2>/dev/null || echo "(no checkout)")"
+          BODY="The production deploy for \`$SHORT\` (\"$SUBJECT\") failed.
+
+          Run: $RUN_URL
+
+          Until a deploy succeeds, indianliberals.in keeps serving the previous build and every change saved in the CMS since then stays unpublished. The log names the step that failed; docs/DEPLOYING.md says what each step guards."
+          EXISTING="$(gh issue list -R "$GITHUB_REPOSITORY" --label deploy-failed --state open --json number --jq '.[0].number // empty')"
+          if [ -n "$EXISTING" ]; then
+            gh issue comment -R "$GITHUB_REPOSITORY" "$EXISTING" --body "$BODY"
+          else
+            gh label create -R "$GITHUB_REPOSITORY" deploy-failed --color B60205 --description "A production deploy did not finish" --force >/dev/null 2>&1 || true
+            gh issue create -R "$GITHUB_REPOSITORY" \
+              --title "Production deploy is failing (from $SHORT)" \
+              --label deploy-failed \
+              --assignee adoistic \
+              --body "$BODY"
+          fi
+
+      - name: Close the failure issue now that a deploy has landed
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          RUN_URL="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          for n in $(gh issue list -R "$GITHUB_REPOSITORY" --label deploy-failed --state open --json number --jq '.[].number'); do
+            gh issue close -R "$GITHUB_REPOSITORY" "$n" --comment "A deploy has succeeded: \`${GITHUB_SHA:0:8}\` is live. $RUN_URL"
+          done
