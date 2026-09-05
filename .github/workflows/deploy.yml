@@ -107,6 +107,11 @@ jobs:
           # Stamped into /api/meta.json so the deploy can be verified, and so
           # the CMS can tell an editor which commit the live site is built from.
           GITHUB_SHA: ${{ github.sha }}
+          # Measured 2026-09-06 on a laptop: 40.5 minutes wall, 5.2 GB peak
+          # resident, 9,109 pages. Node's default heap ceiling is about 4 GB
+          # and the build stayed under it there, but a runner has 16 GB and no
+          # reason to be tighter than the laptop was.
+          NODE_OPTIONS: --max-old-space-size=8192
         run: npm run build
 
       # Pages allows 20,000 files per deployment and 25 MiB per file. The raw
