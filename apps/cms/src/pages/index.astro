@@ -79,6 +79,11 @@ const jobs = [
     }
   </div>
 
+  <section class="publishing">
+    <h2 class="small">Is my change on the site yet</h2>
+    <div class="status" id="publishing"><p class="muted">Checking.</p></div>
+  </section>
+
   <section class="holdings">
     <h2 class="small">What is in the archive</h2>
     <div class="counts" id="counts"><p class="muted">Counting.</p></div>
@@ -107,6 +112,9 @@ const jobs = [
       color: var(--gold);
       margin-bottom: .5rem;
     }
+    .publishing { margin-top: 3rem; max-width: 46rem; }
+    .status p { margin: 0 0 .5rem; }
+    .status .when { font-variant-numeric: tabular-nums; }
     .holdings { margin-top: 3rem; }
     .small { font-size: 1.05rem; margin-bottom: 1rem; }
     .counts { display: grid; gap: .6rem; grid-template-columns: repeat(auto-fit, minmax(8rem, 1fr)); }
@@ -121,6 +129,79 @@ const jobs = [
   </style>
 
   <script>
+    // Whether what has been saved is what readers see.
+    //
+    // A save is a commit; a commit becomes the live site only when a build
+    // finishes, and the build takes the better part of an hour. For weeks in
+    // August 2026 it did not finish at all, and nobody in the CMS could tell:
+    // the editor saw "Saved", the site looked healthy, and the change was in
+    // neither place they could check. So this compares three things that are
+    // all public: the commit the live site says it was built from, the newest
+    // commit in the repository, and the deploy workflow's recent runs.
+    const REPO = 'adoistic/indianliberals';
+    const SITE = 'https://indianliberals.in';
+    const status = document.getElementById('publishing')!;
+
+    const when = (iso: string) =>
+      `<span class="when">${new Date(iso).toLocaleString('en-IN', { dateStyle: 'medium', timeStyle: 'short' })}</span>`;
+    const short = (sha: string) => `<code>${sha.slice(0, 8)}</code>`;
+
+    interface Run {
+      status: string;
+      conclusion: string | null;
+      head_sha: string;
+      created_at: string;
+      updated_at: string;
+      html_url: string;
+    }
+
+    Promise.all([
+      fetch(`${SITE}/api/meta.json?t=${Date.now()}`, { cache: 'no-store' }).then(
+        (r) => r.json() as Promise<{ commit: string | null; generated_at: string }>,
+      ),
+      fetch(`https://api.github.com/repos/${REPO}/commits/main`, {
+        headers: { Accept: 'application/vnd.github+json' },
+      }).then((r) => r.json() as Promise<{ sha: string; commit: { committer: { date: string } } }>),
+      fetch(`https://api.github.com/repos/${REPO}/actions/workflows/deploy.yml/runs?branch=main&per_page=5`, {
+        headers: { Accept: 'application/vnd.github+json' },
+      }).then((r) => r.json() as Promise<{ workflow_runs: Run[] }>),
+    ])
+      .then(([live, head, runs]) => {
+        const all = runs.workflow_runs ?? [];
+        const active = all.find((r) => r.status !== 'completed');
+        const last = all.find((r) => r.status === 'completed');
+        const lines: string[] = [];
+
+        lines.push(
+          live.commit
+            ? `The live site was built at ${when(live.generated_at)} from change ${short(live.commit)}.`
+            : `The live site was built at ${when(live.generated_at)}, by hand, before builds started recording which change they came from.`,
+        );
+
+        if (live.commit && live.commit === head.sha) {
+          lines.push('Everything saved so far is on the site.');
+        } else if (active) {
+          lines.push(
+            `Changes saved since then are being published now (started ${when(active.created_at)}). ` +
+              `It usually takes about an hour. <a href="${active.html_url}">Watch it</a>.`,
+          );
+        } else if (last && last.conclusion !== 'success' && last.created_at > live.generated_at) {
+          lines.push(
+            `The last attempt to publish, at ${when(last.created_at)}, did not finish. ` +
+              `Adnan has been told. Readers keep seeing the previous version until it is fixed. ` +
+              `<a href="${last.html_url}">What went wrong</a>.`,
+          );
+        } else {
+          lines.push(
+            `The newest change was saved at ${when(head.commit.committer.date)} and is waiting to be published.`,
+          );
+        }
+        status.innerHTML = lines.map((l) => `<p>${l}</p>`).join('');
+      })
+      .catch(() => {
+        status.innerHTML = '<p class="muted">Could not check just now. Saving still works; this is only the report.</p>';
+      });
+
     // Counted from the live site rather than the repository, so this reflects
     // what a reader can actually see today.
     const LABELS: Record<string, string> = {
