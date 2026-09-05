@@ -1,1 +1,1 @@
-export { onRequestGet } from '../../apps/site/functions/content_tag/[[path]].js';
+export { onRequestGet, onRequestHead } from '../../apps/site/functions/content_tag/[[path]].js';

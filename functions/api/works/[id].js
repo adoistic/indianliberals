@@ -11,3 +11,10 @@ export async function onRequestGet({ params }) {
   const res = await serveFromPack("api-works", `/api/works/${id}`, "application/json; charset=utf-8");
   return res ?? new Response("Not found", { status: 404 });
 }
+
+// HEAD has to agree with GET, or a client checking whether a record exists is
+// told it does not. See the note in functions/llms-full.txt.js.
+export async function onRequestHead(context) {
+  const res = await onRequestGet(context);
+  return new Response(null, { status: res.status, headers: res.headers });
+}

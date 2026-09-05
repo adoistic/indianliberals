@@ -27,3 +27,11 @@ export async function onRequestGet({ request }) {
   }
   return new Response(upstream.body, { status: upstream.status, headers });
 }
+
+// A client that asks how big the file is before pulling 35 MB deserves an
+// answer. Without this, HEAD falls through to the static 404 while GET
+// returns the file, which tells a crawler the document does not exist.
+export async function onRequestHead(context) {
+  const res = await onRequestGet(context);
+  return new Response(null, { status: res.status, headers: res.headers });
+}

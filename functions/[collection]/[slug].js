@@ -23,3 +23,12 @@ export async function onRequestGet(context) {
   const res = await serveFromPack("pages-md", `/${collection}/${slug}`, "text/markdown; charset=utf-8");
   return res ?? next();
 }
+
+// HEAD has to agree with GET. A response that came from next() is passed back
+// as it is, since that one already carries whatever the deployment would have
+// said. See the note in functions/llms-full.txt.js.
+export async function onRequestHead(context) {
+  const res = await onRequestGet(context);
+  if (!res || !res.body) return res;
+  return new Response(null, { status: res.status, headers: res.headers });
+}

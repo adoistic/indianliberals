@@ -1,1 +1,1 @@
-export { onRequestGet } from '../../apps/site/functions/travel/[[path]].js';
+export { onRequestGet, onRequestHead } from '../../apps/site/functions/travel/[[path]].js';
