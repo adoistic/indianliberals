@@ -31,6 +31,24 @@ a mononym. Multi-word bylines are never touched.
 Removing the aliases themselves would be the wrong fix: it would break mention
 resolution corpus-wide, where they are doing their job.
 
+GENUINELY AMBIGUOUS ALIASES — for editorial review, not automatic handling
+Two single-token aliases are ambiguous in a way "Nehru" and "Masani" are not,
+because more than one real person answers to them:
+  "Indira"  -> indira-gandhi   Quest QT011's Marathi poet also published as
+                               "Indira". The rule above catches this one.
+  "Polanyi" -> karl-polanyi    Michael Polanyi, Karl's brother, is in this
+                               corpus in his own right: he wrote on the
+                               Hungarian Revolution for Quest and signed the
+                               Congress for Cultural Freedom's 1956 cable to
+                               Nehru. A bare "Polanyi" in body text may mean
+                               either brother. This rule does NOT catch that —
+                               it governs bylines only, so a MENTION of
+                               "Polanyi" still resolves to Karl. An agent
+                               reading Quest QT017 correctly refused to resolve
+                               "Michael Polanyi" to him. Corpus exposure today
+                               is one work.
+Worth CCS deciding whether aliases like these should be qualified or dropped.
+
 Usage:
     guard-byline-aliases.py --audit              # whole corpus, report only
     guard-byline-aliases.py --fix <slug> [...]   # rewrite those works
