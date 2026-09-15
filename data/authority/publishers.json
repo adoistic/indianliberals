@@ -60,6 +60,12 @@
       "publication_type": "periodical"
     },
     {
+      "id": "quest",
+      "name": "Quest",
+      "place": "Bombay",
+      "publication_type": "periodical"
+    },
+    {
       "id": "asia-publishing-house",
       "name": "Asia Publishing House",
       "place": "Bombay"

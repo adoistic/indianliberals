@@ -30,6 +30,7 @@ const ORG_SERIES: Record<string, string> = {
   "liberal-times": "liberal-times",
   "indian-liberal-group": "indian-liberal-group",
   "freedom-first": "freedom-first",
+  quest: "quest",
   // The party's own newsletter — 167 issues, run monthly through the 1960s.
   // Without this they fall to "other", which is where genuine one-off press
   // clippings live, so the site's largest periodical run after Freedom First
@@ -91,6 +92,11 @@ export const SERIES_META: Record<string, SeriesMeta> = {
     blurb:
       "The English-language liberal monthly founded in 1952 by Minoo Masani and the Democratic Research Service, one of India's longest-running liberal journals, making the case for individual liberty and the market economy through and beyond the licence-permit raj.",
   },
+  quest: {
+    name: "Quest",
+    blurb:
+      "The journal of ideas sponsored by the Indian Committee for Cultural Freedom, launched in August 1955 under Nissim Ezekiel and later edited by Abu Sayeed Ayyub and Amlan Datta. Bi-monthly at first and quarterly from 1958, it carried literary criticism, philosophy and political argument, and gave the Indian liberal intelligentsia its most serious forum for debating Marxism, nationalism and the modern condition.",
+  },
   "indian-liberal-group": {
     name: "The Liberal Position",
     blurb:
@@ -109,6 +115,7 @@ export const SERIES_ORDER = [
   "shetkari-sanghatak",
   "liberal-times",
   "freedom-first",
+  "quest",
   "swatantra-newsletter",
   "indian-liberal-group",
   // "other" is the sink and must stay last. A run missing from this list is
