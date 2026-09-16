@@ -43,5 +43,9 @@ if p.exists():
     t = re.sub(r'^(  series: )([0-9]+)\s*$', lambda m: f'{m.group(1)}"{m.group(2)}"', t, count=1, flags=re.M)
     p.write_text(t, encoding="utf-8"); print(f"  normalised {p.name}")
 PY
+# One organisation id in related_thinkers blocks the deploy for the whole
+# site: check-references.mjs runs before astro build and calls a dangling
+# reference an error. QT051 resolved "Indian National Congress" there.
+python3 .claude/quest-ingest/strip_nonthinker_refs.py "$slug"
 python3 scripts/synthesis/guard-byline-aliases.py --fix "$QT"
 python3 .claude/quest-ingest/carry_scan_defects.py "$QT"
