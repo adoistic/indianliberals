@@ -13,7 +13,7 @@ leaves, or damage. provenance.notes is the schema's own home for this.
 
 Usage: carry_scan_defects.py <QT0NN> [...]
 """
-import json, re, sys
+import json, re, subprocess, sys
 from pathlib import Path
 REPO = Path("/Users/siraj/Indian Liberals Website")
 WORKS = REPO / "apps/site/src/content/primary-works"
@@ -71,20 +71,17 @@ for qt in sys.argv[1:]:
             continue
         hits.append(s)
     if not hits: print(f"{qt}: no physical defect noted"); continue
-    text = md.read_text(encoding="utf-8")
-    if "scan defect:" in text: print(f"{qt}: already carried"); continue
-    note = ("scan defect: " + " ".join(hits)).replace('"', "'").replace("\n", " ")
-    lines = text.split("\n")
-    i = next((k for k, l in enumerate(lines) if l == "provenance:"), None)
-    if i is None: print(f"{qt}: no provenance block"); continue
-    j = i + 1
-    while j < len(lines) and (lines[j].startswith("  ") or lines[j] == ""): j += 1
-    block = [l for l in lines[i+1:j] if not re.match(r"\s*notes:", l)]
-    block.append(f'  notes: "{note}"')
+    if "scan defect:" in md.read_text(encoding="utf-8"):
+        print(f"{qt}: already carried"); continue
+    # Write through set_provenance_note.py, which dumps the note with a YAML
+    # library and re-parses before saving. This used to build the line by hand
+    # and replace every double quote with a single one to stay safe - which
+    # silently altered quoted matter in an archive that promises verbatim
+    # transcription, and still broke qt041.md when a note was written by hand.
+    note = "scan defect: " + " ".join(hits).replace("\n", " ")
     grade = "poor" if any(SEVERE.search(h) for h in hits) else "fair"
-    if any(re.match(r"\s*scan_quality:", l) for l in block):
-        block = [re.sub(r"^(\s*scan_quality:).*$", rf"\1 {grade}", l) for l in block]
-    else:
-        block.append(f"  scan_quality: {grade}")
-    md.write_text("\n".join(lines[:i+1] + block + lines[j:]), encoding="utf-8")
+    r = subprocess.run([sys.executable, str(Path(__file__).with_name("set_provenance_note.py")),
+                        qt.lower(), note], capture_output=True, text=True)
+    if r.returncode != 0:
+        print(f"{qt}: FAILED to write note: {r.stdout}{r.stderr}"); continue
     print(f"{qt}: carried [{grade}] -> {note[:100]}")
