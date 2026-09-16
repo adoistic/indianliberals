@@ -36,3 +36,12 @@ biography, so they sit in `self_authored_excerpt` and do NOT feed author
 profiles: four correspondence letters (S. Ookerjee, David Mark, P. K. Saha,
 Nissim Ezekiel) and one Einstein quotation. See
 .claude/quest-ingest/check_note_shape.py.
+
+## Two pseudonyms one letter apart (QT023, QT028, QT029)
+- **'Sanjoy'** signs the Koestler review in QT029 (signature verified against the
+  rendered page).
+- **'Sanjaya'** is a different spelling belonging to the QT028 writer whom Vinod
+  Sena answers in QT029's correspondence.
+They are recorded as two people and must not be merged without editorial
+evidence. Both are held back from profile-building anyway — a single-token name
+with no printed biography gets no page — so a decision is not yet blocking.
