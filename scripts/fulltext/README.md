@@ -26,11 +26,22 @@ python3 scripts/fulltext/export-works-meta.py works_meta.json
 # 3. Build the Pagefind bundle
 node scripts/fulltext/build-index.mjs works_meta.json fulltext.jsonl search_bundle
 
-# 4. Upload to R2 (upload_search.sh in the scratchpad: parallel wrangler puts
-#    of every file under search/, resumable via uploaded_search.tsv)
+# 4. Upload to R2. Shards first, entrypoints only if every shard landed;
+#    resumable via uploaded_search.tsv in the working directory.
+scripts/fulltext/upload_search.sh search_bundle
 ```
 
 Notes that matter:
+
+- `upload_search.sh` uploads in TWO PHASES and that is not cosmetic. The
+  `/search/` page was degraded for about thirty minutes once because an ad-hoc
+  uploader went in directory order: a `pkill` killed the xargs doing the shards,
+  the parent script carried on, and the entrypoints went up while 1,436
+  fragment and index shards were missing. A fresh entrypoint naming absent
+  shards is worse than a stale one naming the old bundle, because the old
+  bundle still serves. If any shard fails the script exits 2 and never touches
+  the entrypoints. It lives in the repo now; the previous version was lost with
+  a wiped scratchpad.
 
 - `build-index.mjs` forces a single language shard (`forceLanguage: "en"`).
   Without it Pagefind shards per language and the client only searches the
