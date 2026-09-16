@@ -76,3 +76,17 @@ sentence does supply the vocation that QT016's truncated note for him is missing
 because compose_body cites the issue that a record belongs to, and pasting
 QT039's sentence under a QT016 page reference would cite the wrong page.
 An editor completing his profile can take it from here.
+
+## Probably one person, never stated (QT051)
+D. Anjaneyulu quotes a "Dr. Punyasloka Roy" at folio 55; a "Punya Sloka Ray"
+signs the Secularism letter at folio 109. Very likely the same person — Punya
+Sloka Ray is a frequent Quest contributor across the run — but QT051 never says
+so, so it was NOT recorded as a name variant. Recording it would merge two
+identities on an inference. An editor can settle it.
+Separately: this name must never resolve to `m-n-roy`.
+
+## Two reviewers signed only by initials (QT051)
+"A. M." and "L. F." reviewed books in QT051 and appear in neither notes block.
+The profile builder holds initials-only bylines back by design, so they get no
+page; "L. F." would in any case split Laeeq Futehally, who has a profile from
+her named bylines and who held the Assistant Reviews Editor post in this issue.
