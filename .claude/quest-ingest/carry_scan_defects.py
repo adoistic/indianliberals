@@ -26,7 +26,21 @@ for qt in sys.argv[1:]:
     if not (md.exists() and mj.exists()): print(f"SKIP {qt}"); continue
     notes = json.loads(mj.read_text(encoding="utf-8")).get("notes") or ""
     if isinstance(notes, dict): notes = json.dumps(notes, ensure_ascii=False)
-    hits = [s.strip() for s in re.split(r"(?<=\.)\s+", notes) if DEFECT.search(s)]
+    # A negated sentence reports the ABSENCE of a defect and must not be carried:
+    # QT021's agent wrote "No leaves appear bound out of sequence", which the
+    # bare keyword match turned into a "scan defect" note saying there isn't one,
+    # and marked the scan fair.
+    NEG = re.compile(r"\b(no|not|none|nothing|never|without|free of|did not|does not|"
+                     r"weren't|wasn't|isn't|aren't)\b", re.I)
+    hits = []
+    for s in re.split(r"(?<=\.)\s+", notes):
+        s = s.strip()
+        if not DEFECT.search(s):
+            continue
+        head = s[:max(0, DEFECT.search(s).start())]
+        if NEG.search(head):
+            continue
+        hits.append(s)
     if not hits: print(f"{qt}: no physical defect noted"); continue
     text = md.read_text(encoding="utf-8")
     if "scan defect:" in text: print(f"{qt}: already carried"); continue
