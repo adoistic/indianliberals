@@ -16,7 +16,9 @@ Freedom. By this point in the run it prints "A Quarterly of Inquiry, Criticism
 and Ideas" on its contents page and "An Adventure of Ideas" on the cover — two
 different genuine self-descriptions — is edited by Abu Sayeed Ayyub and Amlan
 Datta with advisory editors, and numbers issues sequentially with no volume
-number. DO NOT ASSUME ANY OF IT: read masthead, self-description, cadence,
+number. DO NOT ASSUME ANY OF IT — the masthead CHANGES mid-run: the reviews
+desk passed from Nissim Ezekiel to Indira Talyarkhan and back within QT028-031,
+and an assistant reviews editor appears at QT031. read masthead, self-description, cadence,
 editors and board off this issue and report what you actually find. (The cover
 and contents page also sometimes give DIFFERENT dates — QT027 says "autumn 1960"
 on the cover and "OCT./DEC. 1960" inside. Record both.)
@@ -49,7 +51,11 @@ WORKING DIRECTORY: {DIR}
    OUT OF SEQUENCE (printed pp.22-41 relocated), detected because a sentence
    continued across non-adjacent PDF pages; QT024's text layer INTERLEAVED two
    reviews sitting in adjacent columns on the SAME page, which is an OCR
-   artefact, not a binding defect. Diagnose before reporting.
+   artefact, not a binding defect. Diagnose before reporting. A THIRD
+   look-alike is a folio DIGIT MISREAD: QT029's text layer gave "100" where
+   the page prints 103, and QT031's gave "86" and "88" for 36 and 83. Each
+   would have broken an otherwise constant offset; each was settled by
+   rendering the page header. Never revise an offset on the text layer alone.
 6. Render any page whose text is garbled, empty or visual. A near-empty text
    block usually means a plate, photograph or advertisement. Quest often carries
    visual material with NO contents entry — found so far: M. F. Husain drawings,
@@ -168,6 +174,11 @@ CRITICAL, learned from a failed mechanical recovery:
 - Do not sanitise the historical record. Transcribe dated or offensive language
   as printed and flag it in your report, noting whether it is the author's own
   view or something they report in order to criticise.
+
+Also report anything an editor should know about the issue as an artefact:
+QT031 reviews a book by its own co-editor (S. Natarajan on Amlan Datta) with no
+printed note of the relationship, which is the kind of thing a reader of the
+archive should be told.
 
 Finally report: masthead self-description and cadence AS PRINTED, issue number,
 cover date(s), editors and board, the offset range(s) and how verified, printed
