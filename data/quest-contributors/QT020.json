@@ -1,0 +1,553 @@
+[
+  {
+    "byline_verbatim": "Nirad C. Chaudhuri",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": true,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Sudhin Datta",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": "Amaresh Datta, Lecturer in the department of English Literature, University of Saugor, has just finished a book on Shakespeare's Tragic Vision and Art. The International Association of Poetry in Rome is publishing some of his poems in their J ou1·nal of Poets.",
+    "note_printed_page": 106,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": true,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Laxmanshastri Joshi",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": true,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "A. B. Shah",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": true,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Miss Sheela Singh",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "other"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": "Gurbachan Singh Talib, Principal, Khalsa College, Bombay, is a member of the Sahitya Akademi.",
+    "note_printed_page": 106,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Michael Polanyi",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      1
+    ],
+    "note_verbatim": "Michael Polanyi, F.R.S. and Sibnarayan Ray were contributors to our last issue.",
+    "note_printed_page": 106,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "P. Spratt",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      2
+    ],
+    "note_verbatim": "Philip Spratt of Meerut Conspiracy Case fame was sent by the British Communist party in the middle twenties to guide the Communist party of India in its forma tive phase. Since then he has made India his home. Later he moved \"beyond communism\" (name of a book of which he was joint author with M. N. Roy), and is now counted amongst its ablest critics. At present he edits Mysindia from Ban galore.",
+    "note_printed_page": 106,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Humayun Kabir",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      3
+    ],
+    "note_verbatim": "Humayun Kabir, the Union minister of scientific research and cultural affairs, is a frequent contributor to Quest. The article in this issue formed the text of his lecture at the Harold Laski Institute of Political Science, Ahmedabad.",
+    "note_printed_page": 106,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "P. C. Chatterji",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      4
+    ],
+    "note_verbatim": "P. C. Chatterji is a station-director of the All India Radio who spends his leisure in philosophical study and writing . He has recently published An Int1·oduction to PhiLosophical AnaLysis.",
+    "note_printed_page": 106,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Gurbachan Singh Talib",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      5
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "M. S. Kalyanasundaram",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      6
+    ],
+    "note_verbatim": "M. S. Kalyanasundaram, Hindi Prabhakar of the Punjab University, has brought out several Hindi primers and collaborated in the production of Hindi-Tamil Dictionary.",
+    "note_printed_page": 106,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Punya Sloka Ray",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      7
+    ],
+    "note_verbatim": "Punya Sloka Ray lectures on Philosophy at the Utkal University, Cuttak.",
+    "note_printed_page": 106,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Sibnarayan Ray",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      8
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Amiya Chakravarti",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      9
+    ],
+    "note_verbatim": "Amiya Chakravarti, one of the closest associates of Rabindranath Tagore and a leading poet of Bengal for the last two decades, is at present professor of Comparative Oriental Religions and Literature at Boston University. He holds a doctorate from Oxford on modern English poetry.",
+    "note_printed_page": 106,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Jeremy Nelson",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "translator"
+    ],
+    "toc_indexes": [
+      9
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Abu Sayeed Ayyub",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "translator"
+    ],
+    "toc_indexes": [
+      9
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Evelyn Wood",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      10
+    ],
+    "note_verbatim": "Evelyn Wood describes himself as \"ethnically Celtic, legally British\". He has been resident in India for the last 34 years, and has contributed to many periodicals beginning with early issues of London Mercury. Professionally, mechanical and hydraulic engineer and consultant in communications.",
+    "note_printed_page": 106,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Chong Mong-ju, etc",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      11
+    ],
+    "note_verbatim": "those who hate you, etc. In that case I have nothing to say.",
+    "note_printed_page": 78,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Peter Hyun",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "translator"
+    ],
+    "toc_indexes": [
+      11
+    ],
+    "note_verbatim": "Peter Hyun, educated in ·Seoul, New York, Madrid and Paris, has contributed verses and articles to New World Writing, The W estminister Red ew, !'Express etc.",
+    "note_printed_page": 106,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Amaresh Datta",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      12
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "F. R. Stanley",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      13
+    ],
+    "note_verbatim": "F. R. Stanley is L ecturer in English, Madras Christian College, Tambaram.",
+    "note_printed_page": 106,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "A. D.",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      14
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Benjamin Polk",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      15
+    ],
+    "note_verbatim": "Benjamin Polk is a member of the Indian architectural and town planning professional institutes, also of the American Institute of Architects and the Town Planning Institute of England.",
+    "note_printed_page": 106,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Shankar Trivedi",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      16
+    ],
+    "note_verbatim": "Shankar Trivedi such pillage. But are we to disarm ourselves in the hope that we are after all going to be protected by the armed forces of other nations? That may be good policy but not good morals. And surely Rajaji is · basing his whole plea on high moral grounds, not on shrewd diplomatic calculations. Therefore his exhortation for unilateral disarmament as far as it affects India implies one of two things. Either he is reckoning that India's self-denying moral example will so overwhelm the big generals of Pakistan and Portugal (to mention only two of the likely predatory powers) that they would turn into little Asokas; or he wants India to give up her moderate natural resources and quite possibly her political independence to whoever may covet them and be 'civilised', rather than live in the enjoyment of her natural and artificial wealth and political independence but in a state of 'savagery' (i.e., maintain}ing he.r armed forces because afraid to lose her possessions). Rajaji speaks of a 'heroic undertaking of risk' -by which I take him to mean the alternatives given above. That is to say, if the risk turns out well, then the first alternative would be realised; if not, then we just have to face the second. I only want to be sure and clear as to his meaning. Or perhaps, his advice is not meant at all to be considered as a serious practical step for the morrow; it is only one of those well-intentioned high-principled moral precepts like: be absolutely pure in heart and deed; love",
+    "note_printed_page": 78,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "C. Rajagopalachari",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      17
+    ],
+    "note_verbatim": "Sri C. Rajagopalachari ·writes: I thank you for sending me Shri Shankar Trivedi's criticism of my article. Your letter came when I was ill and unable to do anything by way of reading or thinking. Even now I am just able to acknowledge your letter. As I should not be the cause of delaying the publication of Shri Trivedi's criticism, I write to say that his disagreement is based on a basic difference in ideology. All that I would have to say in answer to Shri Trivedi has been said with great clarity and irrefutable authority by many, for instance, Professor P. A. Sorokin of Harvard University in his book Reconstruction of Humanity. Shri Trivedi's view that we must race in armaments with Pakistan may be popular, but my opinion is that it will ruin India and place it at the mercy of more powerful nations than Pakistan. My ill health prevents me from writing anything more now to refute Shri",
+    "note_printed_page": 78,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Herbert Luthy",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      18
+    ],
+    "note_verbatim": "Herbert Luthy, historian and essayist, is generally recognised as one of the foremost journalists of Europe. He hails from Switzerland and has recently published a volume on modern French politics.",
+    "note_printed_page": 106,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Nissim Ezekiel",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      19
+    ],
+    "note_verbatim": "Nissim Ezekiel, Ex-editor of Quest; two of his collections of poems have already been published, contributes to a number of periodicals and journals. S. Ookerji, teaches Philosophy at Wilson College, Bombay; a contributor of Quest. QUEST",
+    "note_printed_page": 106,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Pandharinath Prabhu",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      20
+    ],
+    "note_verbatim": "Pandharinath Prabhu, Professor of Psychology, Gujarat University; was attached to the Tata Institute of Social Science as Professor of Psychology until recently.",
+    "note_printed_page": 106,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "C. L. Nahal",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      21
+    ],
+    "note_verbatim": "C. L .. Nahal, teaches English Literature in a New Delhi College and the University of Delhi. A. M. Ghose, who wrote on the \"Necessity of English in India \" in our last issue is a lecturer in philosophy at the Maharaja's College, Jaipur. Devdatta Dabholkar teaches Economics at the Bombay College.",
+    "note_printed_page": 106,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "S. Ookerjee",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      22
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "V. D. Rao",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      23
+    ],
+    "note_verbatim": "V. D. Rao, Dean of the Faculty of Arts, University of Bombay; teaches History at Ramnarain Ruia College, Bombay.",
+    "note_printed_page": 106,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Devdatta Dabhalkar",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      24
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Vasant Palshikar",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      25
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  }
+]

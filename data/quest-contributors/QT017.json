@@ -1,0 +1,402 @@
+[
+  {
+    "byline_verbatim": "Bishnu Dey",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      2
+    ],
+    "note_verbatim": "Bishnu Dey, one of the major poets of Bengal after Tagore, teaches English Literature a t Central College, Calcutta. His publications include half a dozen books of verse, two volumes of essays in literary criticism, two books of translation from Western poets, including one from T. S. Eliot.",
+    "note_printed_page": 97,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Daya Krishna",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      3
+    ],
+    "note_verbatim": "Day a Krishna teaches Philosophy at the University of Saugor. His articles have appeared in some of the best philosophical and sociological journals of Europe and America. Author of The Nature of Philosophy.",
+    "note_printed_page": 97,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "R. de Loyola Furtado",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      4
+    ],
+    "note_verbatim": "R. de Loyola Furtado is Lecturer in English Literature at Punjab University. His collection of poems The Centre has been published by Cromlech Press, England; Shelly :Concept of Nature, a book of literary criticism, is now in the press .",
+    "note_printed_page": 97,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Abu Sayeed Ayyub",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author",
+      "editor"
+    ],
+    "toc_indexes": [
+      5
+    ],
+    "note_verbatim": "Abu Sayeed Ayyub has taught Philosophy at the Universities of Calcutta and Visvabharati. His book The Nature of Intrinsic Value is awaiting publication. He h as e dited two anthologies of contemporary Bengali poetry.",
+    "note_printed_page": 97,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": true,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Robert Antoine",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      6
+    ],
+    "note_verbatim": "Robert Antoine S. J., after completing his philosophical studies at Louvain, came to India in 1939 and has lived in Calcutta since then as teacher of Sanskrit at St. Xavier's; at present he is also a lecturer in the Dept. of Comparative Literature, Jadavpur University. Author of a Sanskrit manual and a monograph on comparative religion.",
+    "note_printed_page": 97,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "K. Raghavendra Rao",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      7
+    ],
+    "note_verbatim": "Raghavendra Rao is Lecturer in Political Science at the University of Gauhati. His poems have appeared in Poetry, Chicago.",
+    "note_printed_page": 97,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Humayun Kabir",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      8
+    ],
+    "note_verbatim": "Humayun Kabir, at present Minister of Culture and Scientific Research in the Government of India, has taught Philosophy at the Universities of Andhra and Calcutta. His publications include Art, Monad and Society; Studies in Kant; Science, Democracy and Islam and other Essays.",
+    "note_printed_page": 97,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Lila Ray",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      9
+    ],
+    "note_verbatim": "Lila Ray has earned reputation by her English translation of Bengali short stories. Her poetry has recently appeared in The Atlantic.",
+    "note_printed_page": 97,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Shyamsvarup Jalota",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      10
+    ],
+    "note_verbatim": "Shyamsvarup Jalota is Reader in Philosophy and Psychology at the University of Banaras. Author of Personnel Selection Pmcedure.",
+    "note_printed_page": 97,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Iqbal Ahmad",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      11
+    ],
+    "note_verbatim": "Iqbal Ahmad is Lecturer in English Literature, University of Allahabad.",
+    "note_printed_page": 97,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Martin S. Dworkin",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      12
+    ],
+    "note_verbatim": "Martin S. Dworkin is a wellknown New York fllm-critic.",
+    "note_printed_page": 97,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Emily Polk",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      13
+    ],
+    "note_verbatim": "Emily Polk hails from the United States but lives in Calcutta. Her collection of poems The Invisible Queen is shortly to be published in England.",
+    "note_printed_page": 97,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "A.D.",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      14
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Amlan Datta",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": ".Jyo1Jirmoy Datta is a poet, critic and journalist.",
+    "note_printed_page": 97,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": true,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Jyotirmoy Datta",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      15,
+      16
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Ashok Desai",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      17
+    ],
+    "note_verbatim": "Ashok Desai, a practising Barrister in the Bombay High Court, is a keen student of political and economic affairs. /",
+    "note_printed_page": 97,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Lola Chatterji",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      18
+    ],
+    "note_verbatim": "Lola Chatterji teaches English Literature at Loreto College, Calcutta.",
+    "note_printed_page": 97,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Ramakanta Rath",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      19
+    ],
+    "note_verbatim": "Ramakanta Rath is a young poet from Orissa, who is at present undergoing training for the Indian Administrative Service.",
+    "note_printed_page": 97,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Ramaswamy R. Iyer",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      20
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "P. C. Chatterji",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      21
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Nirad C. Chaudhuri",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": true,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Sudin Datta",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": true,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Laxmanshastri Joshi",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": true,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Miss Sheela Singh",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "other"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  }
+]

@@ -1,0 +1,468 @@
+[
+  {
+    "byline_verbatim": "C. R. M. RAO",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      1
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "ELIEZER LIVNEH",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      2
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "KA NAA SUBRAMANYAM",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      3
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "R. B. JOSHI",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      4
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "S. J. JOSHI",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      5
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Mangesh Padki",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "translator"
+    ],
+    "toc_indexes": [
+      5
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "M. S. KALYANASUNDARAM",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      6
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "M. S. Kalyanasundaram (the Author)",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "translator"
+    ],
+    "toc_indexes": [
+      6
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "A. K. RAMANUJAN",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      7,
+      8
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "P. C.",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      9,
+      17
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "NISSIM EZEKIEL",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor",
+      "reviewer"
+    ],
+    "toc_indexes": [
+      10
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": true,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "D. G. NADKARNI",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor",
+      "reviewer"
+    ],
+    "toc_indexes": [
+      11
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": true,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "S. NATARAJAN",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      12
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "H. SOMJEE",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      13
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "N. L. K.",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      14
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "SANTOSH SEN GUPTA",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      15
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "A. D. GORWALA",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      16
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "IQBAL LUKMANI",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      18
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "A. A.",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      19
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "M. K. HALDAR",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      20
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "B. A. OLKAR",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      21
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "NIRAD C. CHAUDHURI",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": true,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "SUDHIN DATTA",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": true,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Mrs. LAEEQ FUTEHALLY",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "other"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Miss SHEELA SINGH",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "other"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "R. J. CHINWALLA",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "illustrator"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "SHYAM MANOHAR",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "illustrator"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "DHRUVA N. CHAUDHURI",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "illustrator"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  }
+]

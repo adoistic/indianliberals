@@ -1,0 +1,402 @@
+[
+  {
+    "byline_verbatim": "Ignazio Silone",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      1
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Ellen Roy",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      2
+    ],
+    "note_verbatim": "Ellen Roy has played a leading role by the side of her illustrious husband lvf. N. Hoy in the development of the theory and practice of Radical Humanism. Currently she is co-editor of the weekly organ of the movement; joint author of In Man's Own Image. Amlan Dat.t a teaches Economics at Calcutta University. Author of For Democracy, An Essay on Soviet Economic Development, Essays on Economic Development, The u;ay to Co-operative Socialism.",
+    "note_printed_page": 93,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Amlan Datta",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author",
+      "editor"
+    ],
+    "toc_indexes": [
+      3
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": true,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Humayun Kabir",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      4,
+      18
+    ],
+    "note_verbatim": "Humayun Kabir, distinguished philosopher, litterateur and statesman, was a contributor to our previous number.",
+    "note_printed_page": 93,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Attar Singh",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      5
+    ],
+    "note_verbatim": "Attar Singh lectures on Punjabi Language and Literature at Mahendra College, Patiala, to its under-graduate as well as post-graduate classes . He has published several research papers on the development of Punjabi Literature.",
+    "note_printed_page": 93,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Pratima Bowes",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      6
+    ],
+    "note_verbatim": "Pratima Bowes, principal of a Calcutta college, did her doctorate at the Universitv of London. Her thesis on 'The Concept of i\\•I on;lity' is shortly to be published in England.",
+    "note_printed_page": 93,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "R. L. Nigam",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      7
+    ],
+    "note_verbatim": "R. L. Nigam teaches English Literature at D.A.V. ~-8ollege, Dehra Dun. He was a regular contributor to M. N. Roy's The Ilwnanist W'ay.",
+    "note_printed_page": 93,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Annada Shankar Ray",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      8
+    ],
+    "note_verbatim": "Annada Sankar Ray, an eminent Bengali littc·atcur, retired from the Indian Civil Service to Jcvote all hi s time to the service of literature. His publications include two epic novels, many collet;tions of short stories, two books of verse, and several volumes of personal essays.",
+    "note_printed_page": 93,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Bishnu Dey",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      9
+    ],
+    "note_verbatim": "Bishnu Dey, the leading Marxist poet of Bengal, was introduced in our previous issue.",
+    "note_printed_page": 93,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "C. L. Proudfoot",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      10
+    ],
+    "note_verbatim": "Major C. L. Proudfoot, poet, cartoonist, .h umorous essayist and short story writer, is an officer of the Indian Army (\"·and since this is a land of castes and subcastes you can consider me an Anglo-Indian', he writes). His first collection of poems Grains of Sand was lJublished privately in 1952.",
+    "note_printed_page": 93,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Buddhadeva Bose",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      11
+    ],
+    "note_verbatim": "Buddhadeva Bose, Head of the Department of Comparative Literature, Jadavpur University, poet, . novelist, short story writer, critic and essayist-is a major figure in Bengali letters. He has been editing the standard poetry quarterly in Bengali ( Kavita) for the last twenty years.",
+    "note_printed_page": 93,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "S. Balu Rao",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      12
+    ],
+    "note_verbatim": "S. Balu Rao · is PublicatiOJi Assistant, Sahitya Akadami, Ex-Editor, Lekhaka ( Bangalore).",
+    "note_printed_page": 93,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "\"Andal\"",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      13
+    ],
+    "note_verbatim": "\"Andal\" is the pseudonym of Mrs. S. H.ajee. She is a well-known short story writer in Tamil, and is now at work on her second novel. A collection of her English poems is 'to be published shortly.",
+    "note_printed_page": 93,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Ashis Barman",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      14
+    ],
+    "note_verbatim": "Ashis Barman, film critic and short story writer, has just published his first novel. He was one of the Assistant Directors in the film Patlwr Panclwli .",
+    "note_printed_page": 93,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "C. L. Nahal",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      15
+    ],
+    "note_verbatim": "C. L. Nahal teaches English Literature in a New Delhi College and the University of Delhi. David McCutlchion graduated with honours in JVIodern Languages from Cambridge and is at present teaching English Literature at Vishwa Bharati University, Santiniketan. L. Chatterji is Lecturer in English Literature, Loretto College, Calcutta.",
+    "note_printed_page": 93,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "L. Chatterjee",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      16
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "David McChutchion",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      17
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "H. H. Price",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      18
+    ],
+    "note_verbatim": "H. H. Price, \\Vykeham Professor of Logic in University of Oxford is one of England's leading philosophers today. ~ '' ,' / DAURALA' . II · CllliE ~l/GAR } £a~y to buy I thrift!:! to uSJe. DCM · 1434",
+    "note_printed_page": 93,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Saroj Kumar Das",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      19
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Abu Sayeed Ayyub",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": true,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Nirad C. Chaudhuri",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": true,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Sudin Datta",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": true,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Laxmanshastri Joshi",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": true,
+    "_provenance": "recovered_by_extraction"
+  },
+  {
+    "byline_verbatim": "Miss Sheela Singh",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "other"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "_provenance": "recovered_by_extraction"
+  }
+]
