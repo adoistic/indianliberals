@@ -25,7 +25,23 @@ WORKS = Path("/Users/siraj/Indian Liberals Website/apps/site/src/content/primary
 FM = re.compile(r"^---\n([\s\S]*?)\n---\n([\s\S]*)$")
 SEVERE = re.compile(r"out of sequence|out of order|mis-?bound|misbind|scanned out|"
                     r"missing page|missing lea|duplicate(d)? (page|lea)|"
+                    r"relocat(ed|ion)|reading order is wrong|"
                     r"illegible|unreadable", re.I)
+# A severity word inside a NEGATED clause means the opposite. This grader had
+# no such guard and read "Nothing in the issue is illegible" as grounds for
+# grading QT047 "poor" - the same mistake carry_scan_defects.py made once with
+# "No leaves appear bound out of sequence".
+NEG = re.compile(r"\b(no|not|none|nothing|never|without|free of|did not|does not|"
+                 r"weren't|wasn't|isn't|aren't)\b", re.I)
+
+
+def severity(note: str) -> str:
+    """poor when the defect breaks reading order, fair when it is localised."""
+    for sentence in re.split(r"(?<=[.;])\s+", note):
+        m = SEVERE.search(sentence)
+        if m and not NEG.search(sentence[:m.start()]):
+            return "poor"
+    return "fair"
 
 
 def frontmatter(p: Path):
@@ -59,7 +75,7 @@ def main() -> int:
     doc = yaml.safe_load(raw)
     prov = doc.setdefault("provenance", {})
     prov["notes"] = note
-    prov["scan_quality"] = "poor" if SEVERE.search(note) else "fair"
+    prov["scan_quality"] = severity(note)
     out = yaml.safe_dump(doc, allow_unicode=True, sort_keys=False,
                          default_flow_style=False, width=100000)
     text = f"---\n{out}---\n{body}"

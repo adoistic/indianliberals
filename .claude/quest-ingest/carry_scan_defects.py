@@ -41,6 +41,7 @@ AS_PRINTED = re.compile(r"\b(printed|prints|as printed|in the original|original 
 # same grade as QT020's twenty relocated pages.
 SEVERE = re.compile(r"out of sequence|out of order|mis-?bound|misbind|scanned out|"
                     r"missing page|missing lea|duplicate(d)? (page|lea)|"
+                    r"relocat(ed|ion)|reading order is wrong|"
                     r"illegible|unreadable", re.I)
 for qt in sys.argv[1:]:
     qt = qt.upper(); md = WORKS / f"{qt.lower()}.md"; mj = BAKE / qt / "metadata.a.json"
