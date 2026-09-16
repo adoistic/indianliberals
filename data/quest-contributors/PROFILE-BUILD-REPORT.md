@@ -1,0 +1,539 @@
+# Quest author profiles — build report
+
+Generated 2026-09-16 from `data/quest-contributors/` (793 records, 406 people).
+
+`tradition` and `canon_status` are left **unclassified** on every new profile: Quest published poets, musicologists and French art critics, and CCS has a thinker-classification round-trip for this.
+
+## Held back — 26 bylines, no page written
+
+**initials only** (15)
+
+- `A. A` — QT013
+- `A.h.d` — QT015
+- `D. C` — QT002
+- `D. K` — QT012
+- `K. G. P` — QT006, QT012
+- `K. K. S` — QT007
+- `N. J. N` — QT004, QT005, QT006
+- `N. L. K` — QT013
+- `N.e` — QT006, QT007, QT010
+- `P. C` — QT013
+- `R. C` — QT012
+- `S. N` — QT016
+- `S. S. K` — QT010
+- `S. T` — QT014
+- `T. R. A` — QT004
+
+**names no person** (1)
+
+- `Anonymous` — QT023
+
+**one byline names several people** (1)
+
+- `Advisory Editors: Nirad C. Chaudhuri, Sudhin Datta, D. G. Nadkarni` — QT012
+
+**single-token name with no printed biography** (9)
+
+- `Anil` — QT011
+- `Indira` — QT011
+- `Kautuhali` — QT009, QT010
+- `Kusumagraj` — QT011
+- `Magyarorszag` — QT016
+- `Pad` — QT011
+- `Sanjaya` — QT023, QT028
+- `Sanjeevani` — QT011
+- `Shantaram` — QT011
+
+An initials-only page would be junk and would merge everyone sharing the initials; "L.F." would also split Laeeq Futehally, who has a profile from her named bylines. A single-token name with no printed biography is too thin to attach to a person.
+
+## Look-alike clusters — 28 pairs, for review
+
+These may be one person under two spellings, but no single harvest record listed both forms, so they were NOT merged. Merging on similarity alone would be worse: "S. P. Aiyar"/"S. P. Aiyer" is one person, "K. Mukerji"/"Arati Mukerji" is two.
+
+- `A. H. Somjee` / `H. Somjee`
+- `Arun Kolatkar` / `Arun Kolhatkar`
+- `Ashis Barman` / `Ashis Burman`
+- `Attar Singh` / `Natwar Singh`
+- `B. B. Borkar` / `Barry Barker`
+- `D. A. Dabholkar` / `Devdatta Dabhalkar`
+- `Dietmar Rothermund` / `Dietmur Rothermund`
+- `K. B. Rao` / `K. Raghavendra Rao`
+- `K. K. Sinha` / `Krishna Nandan Sinha`
+- `K. Mukerji` / `Kshitimohan Mukerji`
+- `L. Chatterjee` / `Lola Chatterjee`
+- `L. Chatterjee` / `Lola Chatterji`
+- `Lola Chatterjee` / `Lola Chatterji`
+- `M. D. Hatkanangalekar` / `M. D. Hatkananglekar`
+- `M. D. Hatkanangalekar` / `M. D. Hatkangalekar`
+- `M. G. Desai` / `Mahesh Desai`
+- `P. C. Chatterji` / `Paresh C. Chatterjee`
+- `P. C. Chatterji` / `Pratap Chatterjee`
+- `P. Kodanda Rao` / `Padma S. Rao`
+- `P. Kodanda Rao` / `Punya Sloka Ray`
+- `P. Mahadevan` / `T. M. P. Mahadevan`
+- `S. Balu Rao` / `Sibnarayan Ray`
+- `S. Balu Rao` / `Srinarayan Ray`
+- `S. Balu Rao` / `Sunanda K. Datta-Ray`
+- `S. S. Kapur` / `Shiv S. Kapur`
+- `Sibnarayan Ray` / `Srinarayan Ray`
+- `Sudhin Datta` / `Sudin Datta`
+- `V. D. Rao` / `Vatsala Rao`
+
+## Merged from name variants — 41 people
+
+Merged because a single harvest record listed both forms. Surnames are not required to agree; several Quest contributors published under two.
+
+- **A. B. Shah** ← `A. B. SHAH`, `PROF. SHAH` (QT003, QT006, QT008, QT012, QT014, QT019, QT020, QT022, QT023, QT024, QT025, QT027)
+- **A. H. Somjee** ← `A. H. SOMJEE`, `A. H. SOMJI` (QT008, QT014, QT015, QT016, QT019, QT022, QT024, QT026, QT027, QT028)
+- **Abu Sayeed Ayyub** ← `Abu Sayeed Ayyub`, `A. S. Ayyub`, `A. Sayeed Ayyub` (QT017, QT018, QT019, QT020, QT022, QT023, QT024, QT025, QT026, QT027)
+- **Amlan Datta** ← `AMLAN DATTA`, `A.D.` (QT009, QT017, QT018, QT019, QT020, QT022, QT023, QT024, QT025, QT026, QT027)
+- **Annada Shankar Ray** ← `Annada Shankar Ray`, `Annada Sankar Ray` (QT018)
+- **Ashapurna Gupta** ← `Ashapurna Devi`, `ASHAPURNA GUPTA` (QT022)
+- **Barbara Astington** ← `B.A.`, `Barbara Astington` (QT028)
+- **David McCutchion** ← `David McChutchion`, `David McCutchion`, `D. McCutchion`, `D.J. McCutchion` (QT018, QT021, QT023, QT024, QT025, QT027)
+- **Devdatta Dabhalkar** ← `Devdatta Dabhalkar`, `Devdatta Dabholkar` (QT020)
+- **Feroze F. Moos** ← `Feroze F. Moos`, `Feroze Moos` (QT024, QT027)
+- **Feroze F. Moos** ← `Feroze F. Moos`, `Feroze Moos` (same person, one form carries a middle initial)
+- **Foy Nissen** ← `Foy Nissen`, `FoY NrssEN` (QT002, QT004, QT007, QT015, QT016, QT026)
+- **Jagadish N. Hattangadi** ← `J. N. Hattangadi`, `Jagadish N. Hattangadi` (QT021)
+- **K. Mukerji** ← `K. Mukerji`, `K. Mukerfi` (QT028)
+- **Kirti N. Chaudhuri** ← `Kirti N. Chaudhuri`, `K. N. Chaudhuri` (QT026)
+- **Kshitimohan Mukerji** ← `Kshitimohan Mukerji`, `K. M. Mukerji` (QT025)
+- **L. Chatterjee** ← `L. Chatterjee`, `L. Chatterji` (QT018)
+- **L. Kolakowski** ← `L. Kolakowski`, `Kolakowski` (QT026)
+- **Laeeq Futehally** ← `LAEEQ FUTEHALLY`, `L.F.`, `REVIEWS EDITOR: MRS. LAEEQ FUTEHALLY` (QT001, QT002, QT003, QT004, QT005, QT006, QT007, QT008, QT009, QT010, QT011, QT012, QT013, QT014, QT015, QT016)
+- **Madhao B. Achwal** ← `Madhao B. Achwal`, `Madhao Achwal` (QT026, QT028)
+- **Mahadeoshastri Joshi** ← `M. Joshi`, `Mahadeoshastri Joshi` (QT012)
+- **Monika Var** ← `Monika Varma`, `Monika Verma` (QT007, QT012)
+- **P. J. Chaudhury** ← `P. J. Chaudhury`, `Pravas Jivan Chaudhury` (QT023)
+- **Paul David Devanandan** ← `P. D. Devanandan`, `Paul David Devanandan` (QT021)
+- **Philip Spratt** ← `PHILIP SPRATT`, `P. Spratt` (QT008, QT020)
+- **Purnendubikash Bhattacharya** ← `Purnendubikas Bhattacharya`, `Purnendubikash Bhattacharya` (QT019)
+- **R. Das** ← `R. Das`, `RASHBEHARI DAS` (QT022, QT023)
+- **R. de Loyola Furtado** ← `R. de Loyola Furtado`, `R. DEL. FuK1ADO` (QT017, QT021, QT026)
+- **Ramaswamy R. Iyer** ← `RAMASWAMY R. IYER`, `Ramaswamy Iyer` (QT005, QT015, QT017)
+- **S. Ookerjee** ← `S. OOKERJEE`, `S. OOKERJI` (QT001, QT004, QT005, QT006, QT010, QT015, QT020, QT025)
+- **S. P. Aiyar** ← `S. P. Aiyar`, `S. P. Aiyer` (QT025)
+- **Sachin K. Roy** ← `Sachin K. Roy`, `S. K. Ray` (QT023)
+- **Sadhan Kumar Ghosh** ← `SADHAN KUMAR GHOSH`, `Sadhan Ghosh`, `S. K. Ghosh` (QT001, QT002, QT007, QT024, QT025, QT026, QT027, QT028)
+- **Sheela Singh** ← `Miss SHEELA SINGH`, `BUSINESS MANAGER: MISS SHEELA SINGH`, `Miss Shela Singh` (QT010, QT011, QT012, QT013, QT014, QT015, QT016, QT017, QT018, QT019, QT020, QT022, QT023, QT024, QT025, QT027)
+- **Sibnarayan Ray** ← `Sibnarayan Ray`, `S. N. Ray` (QT019, QT020, QT025)
+- **Sudhin Datta** ← `Sudhin Datta`, `Sudhindranath Datta`, `Sudhin` (QT007, QT008, QT009, QT010, QT011, QT012, QT013, QT014, QT015, QT016, QT019, QT020, QT022, QT023, QT024, QT025, QT026, QT027)
+- **Sunanda K. Datta-Ray** ← `S. K. Datta-Ray`, `Sunanda K. Datta-Ray` (QT021)
+- **Sushil Dey** ← `Sushil Dey`, `Sushi! Dey` (QT026, QT028)
+- **Swami Agehananda Bharati** ← `Swami Agehananda Bharati`, `Swami Agehananda Bharathi` (QT025)
+- **Tulsi Narayan Singh** ← `Tulsi Narayan Singh`, `Tulsinarayan Singh` (QT019)
+- **Vyankatesh Madgulkar** ← `Vyankatesh Madgulkar`, `V. Madgulkar` (QT011, QT012)
+
+## Already in the archive — 17 people
+
+These keep their existing page. Their Quest name variants are added to the authority file as aliases so future emits resolve them.
+
+- A. B. Shah → `a-b-shah` (QT003, QT006, QT008, QT012, QT014, QT019, QT020, QT022, QT023, QT024, QT025, QT027)
+- A. Ranganathan → `a-ranganathan` (QT008, QT009, QT016, QT022)
+- Amlan Datta → `amlan-datta` (QT009, QT017, QT018, QT019, QT020, QT022, QT023, QT024, QT025, QT026, QT027)
+- Ashok Desai → `ashok-desai` (QT014, QT015, QT017)
+- C. L. Gheevala → `c-l-gheevala` (QT016)
+- C. Rajagopalachari → `c-rajagopalachari` (QT019, QT020, QT021, QT022, QT023)
+- G. N. Lawande → `g-n-lawande` (QT010)
+- Gangadhar Gadgil → `gangadhar-gadgil` (QT008, QT011, QT022, QT024, QT026)
+- J. Vijayatunga → `v-vijayatunga` (QT002)
+- Jayaprakash Narayan → `jayaprakash-narayan` (QT009)
+- M. R. Masani → `minoo-masani` (QT016)
+- P. Kodanda Rao → `p-kodanda-rao` (QT008)
+- Piloo Mody → `piloo-mody` (QT025)
+- Salvador de Madariaga → `salvador-de-madariaga` (QT009)
+- V. B. Karnik → `v-b-karnik` (QT016, QT027)
+- V. V. John → `v-v-john` (QT010, QT015, QT021)
+- Zafar Futehally → `zafar-futehally` (QT002)
+
+## New profiles — 364
+
+260 carry a biography Quest printed, quoted verbatim with the issue cited. 104 have no printed note and are marked `ai_drafted_stub`.
+
+320 have no printed nationality evidence, so the `nationality` key is omitted and the schema's `india` default applies. That default is the archive's existing behaviour for all 718 earlier thinkers; it is recorded here rather than asserted.
+
+
+### Nationality evidence printed but not classified — 14
+
+A phrase was printed but it does not state an origin in a form this script will act on, so no `nationality` was set and the schema default applies. Worth a human eye: Robert Antoine is here, whose note says only that he studied at Louvain and came to India in 1939.
+
+- **Andal** — "of Madras"
+- **C. R. M. Rao** — "He is at present in Delhi"
+- **David McCutchion** — "graduated with honours in Modern Languages from Cambridge"
+- **Eugene Kamenka** — "a graduate of Sydney University"
+- **H. H. Price** — "Wykeham Professor of Logic in University of Oxford is one of England's leading philosophers today"
+- **Leon Emery** — "is a writer and musicologist and former professor at the University of Lyon"
+- **M. G. Bailur** — "of Rajkot, Saurashtra"
+- **Mangesh Padki** — "was born in 1923 in Karwar, lives in Poona"
+- **Nissim Ezekiel** — "an eminent Indo-English poet"
+- **R. B. Joshi** — "(Bombay)"
+- **Robert Antoine** — "after completing his philosophical studies at Louvain, came to India in 1939 and has lived in Calcutta since then"
+- **S. Y. Krishnaswamy** — "Retired from the Indian Civil Service in 1957"
+- **Shiru Limaye** — "Praja Socialist leader of Maharastra"
+- **Uma Vasudev** — "Delhi"
+
+- **A. A. A. Fyzee** — `a-a-a-fyzee`; 1 issue(s)
+- **A. D. Gorwala** — `a-d-gorwala`; 1 issue(s)
+- **A. H. Somjee** — `a-h-somjee`; vocations political_scientist, professor; 10 issue(s)
+- **A. K. Bhagwat** — `a-k-bhagwat`; vocations professor; 2 issue(s)
+- **A. K. Ramanujan** — `a-k-ramanujan`; vocations professor; 6 issue(s)
+- **A. L. Khatib** — `a-l-khatib`; 1 issue(s)
+- **A. M. Abraham** — `a-m-abraham`; nationality **uk** ← "lives in London"; 1 issue(s)
+- **A. M. Davierwalla** — `a-m-davierwalla`; 1 issue(s)
+- **A. M. Ghose** — `a-m-ghose`; vocations philosopher, professor; 5 issue(s)
+- **A. Subbiah** — `a-subbiah`; 3 issue(s)
+- **A. Wilber Stevens** — `a-wilber-stevens`; nationality **usa** ← "as a member of the American delegation"; vocations professor, editor; 1 issue(s)
+- **Aamir Ali** — `aamir-ali`; vocations writer; 6 issue(s)
+- **Abu Sayeed Ayyub** — `abu-sayeed-ayyub`; vocations poet, philosopher, professor, editor; 10 issue(s)
+- **Adam Adil** — `adam-adil`; 1 issue(s)
+- **Adam Schaff** — `adam-schaff`; nationality **poland** ← "a member of the Central Committee of the Polish Communist Party"; vocations philosopher, professor; 1 issue(s)
+- **Akkamahadevi** — `akkamahadevi`; 1 issue(s)
+- **Albert Einstein** — `albert-einstein`; 1 issue(s)
+- **Alfred Eisenstaedt** — `alfred-eisenstaedt`; 1 issue(s)
+- **Amaresh Datta** — `amaresh-datta`; vocations professor; 3 issue(s)
+- **Amiya Chakravarti** — `amiya-chakravarti`; vocations professor; 1 issue(s)
+- **Anant Kanekar** — `anant-kanekar`; 1 issue(s)
+- **Andal** — `andal`; vocations writer; 4 issue(s)
+- **Aniruddha Gupta** — `aniruddha-gupta`; vocations historian, professor; 1 issue(s)
+- **Anish Ghatak** — `anish-ghatak`; 1 issue(s)
+- **Anita Desai** — `anita-desai`; vocations writer; 2 issue(s)
+- **Annada Shankar Ray** — `annada-shankar-ray`; vocations civil_servant; 1 issue(s)
+- **Arati Mukerji** — `arati-mukerji`; 2 issue(s)
+- **Aron Tamasi** — `aron-tamasi`; nationality **hungary** ← "is one of the major figures in Hungarian short story and drama ... member of ... the Hungarian Parliament ... awarded the Kossuth Prize during the New Course in Hungary"; vocations writer; 1 issue(s)
+- **Arthur Koestler** — `arthur-koestler`; vocations historian; 1 issue(s)
+- **Arun Kolatkar** — `arun-kolatkar`; vocations poet; 2 issue(s)
+- **Arun Kolhatkar** — `arun-kolhatkar`; nationality **india** ← "was born in Kolhapur"; 1 issue(s)
+- **Asha Bhende** — `asha-bhende`; 1 issue(s)
+- **Ashapurna Gupta** — `ashapurna-gupta`; vocations writer; 1 issue(s)
+- **Ashis Barman** — `ashis-barman`; vocations writer, artist; 1 issue(s)
+- **Ashis Burman** — `ashis-burman`; vocations editor, artist; 1 issue(s)
+- **Ashoka Nanavaty** — `ashoka-nanavaty`; 1 issue(s)
+- **Asoke Vijay Raha** — `asoke-vijay-raha`; 2 issue(s)
+- **Attar Singh** — `attar-singh`; 1 issue(s)
+- **B. A. Olkar** — `b-a-olkar`; 1 issue(s)
+- **B. B. Borkar** — `b-b-borkar`; vocations poet; 1 issue(s)
+- **B. G. Verghese** — `b-g-verghese`; vocations journalist; 1 issue(s)
+- **B. M. Kulkarni** — `b-m-kulkarni`; 1 issue(s)
+- **B. S. Mardhekar** — `b-s-mardhekar`; 1 issue(s)
+- **Bal Patil** — `bal-patil`; 1 issue(s)
+- **Balraj Komal** — `balraj-komal`; vocations poet; 1 issue(s)
+- **Barbara Astington** — `barbara-astington`; vocations writer; 1 issue(s)
+- **Barry Barker** — `barry-barker`; vocations poet; 1 issue(s)
+- **Benjamin Polk** — `benjamin-polk`; 1 issue(s)
+- **Bertold Brecht** — `bertold-brecht`; nationality **germany** ← "German (per the East German Press description quoted, 'the greatest German')"; vocations writer; 1 issue(s)
+- **Bishnu Dey** — `bishnu-dey`; nationality **india** ← "the eminent Bengali poet and critic"; vocations poet, professor; 5 issue(s)
+- **Buddhadeva Bose** — `buddhadeva-bose`; vocations poet, writer, editor; 3 issue(s)
+- **C. L. Miglani** — `c-l-miglani`; vocations reformer; 1 issue(s)
+- **C. L. Nahal** — `c-l-nahal`; vocations professor, writer; 5 issue(s)
+- **C. L. Proudfoot** — `c-l-proudfoot`; nationality **india** ← "consider me an Anglo-Indian"; vocations military_officer; 1 issue(s)
+- **C. R. M. Rao** — `c-r-m-rao`; vocations journalist; 2 issue(s)
+- **Charles Fabri** — `charles-fabri`; 1 issue(s)
+- **Charles Higham** — `charles-higham`; 1 issue(s)
+- **Chaturbhai P. Patel** — `chaturbhai-p-patel`; 1 issue(s)
+- **Chetan Karnani** — `chetan-karnani`; 1 issue(s)
+- **Chitragupta** — `chitragupta`; vocations journalist; 1 issue(s)
+- **Chong Mong-ju** — `chong-mong-ju`; 1 issue(s)
+- **Comolata Dutt** — `comolata-dutt`; 1 issue(s)
+- **D. A. Dabholkar** — `d-a-dabholkar`; vocations economist, professor; 2 issue(s)
+- **D. B. Mokashi** — `d-b-mokashi`; vocations writer; 1 issue(s)
+- **D. B. Vohra** — `d-b-vohra`; vocations historian; 1 issue(s)
+- **D. D. Karve** — `d-d-karve`; 3 issue(s)
+- **D. G. Nadkarni** — `d-g-nadkarni`; vocations professor, writer; 13 issue(s)
+- **D. K. Bedekar** — `d-k-bedekar`; 1 issue(s)
+- **D. L. Pham-xuan-Luong** — `d-l-pham-xuan-luong`; nationality **vietnam** ← "We publish this brief contribution with our warm greetings to Mr. Pham-xuan-Luong and the people of Vietnam who are celebrating the happy festival of Tet."; vocations professor, editor; 1 issue(s)
+- **D. N. Deshpande** — `d-n-deshpande`; 1 issue(s)
+- **D. R. Gadgil** — `d-r-gadgil`; vocations economist; 1 issue(s)
+- **D. V. Kumar** — `d-v-kumar`; 1 issue(s)
+- **Dan Jacobson** — `dan-jacobson`; nationality **south-africa** ← "was born in South Africa but now lives in England"; vocations writer; 1 issue(s)
+- **Daniel Bell** — `daniel-bell`; vocations sociologist, professor; 1 issue(s)
+- **David Mark** — `david-mark`; 1 issue(s)
+- **David McCutchion** — `david-mccutchion`; vocations professor; 6 issue(s)
+- **Daya Krishna** — `daya-krishna`; vocations philosopher, professor; 3 issue(s)
+- **Deb Kumar Das** — `deb-kumar-das`; 1 issue(s)
+- **Denis de Rougemont** — `denis-de-rougemont`; nationality **switzerland** ← "a citizen of Geneva"; vocations writer; 3 issue(s)
+- **Devdatta Dabhalkar** — `devdatta-dabhalkar`; vocations economist, professor; 1 issue(s)
+- **Devendra Prasad Singh** — `devendra-prasad-singh`; vocations legal_scholar; 1 issue(s)
+- **Dhruva N. Chaudhuri** — `dhruva-n-chaudhuri`; 1 issue(s)
+- **Dietmar Rothermund** — `dietmar-rothermund`; nationality **germany** ← "is a young German student now at the University of Pennsylvania"; 1 issue(s)
+- **Dietmur Rothermund** — `dietmur-rothermund`; 1 issue(s)
+- **Dom Moraes** — `dom-moraes`; vocations poet; 2 issue(s)
+- **Dorothy Norman** — `dorothy-norman`; 1 issue(s)
+- **Durga Bhagwat** — `durga-bhagwat`; 1 issue(s)
+- **Edward Shils** — `edward-shils`; nationality **usa** ← "a distinguished American sociologist"; vocations philosopher, sociologist, professor, writer; 3 issue(s)
+- **Eliezer Livneh** — `eliezer-livneh`; nationality **russia** ← "born in Russia 1902, has lived in Israel since 1920"; vocations editor; 2 issue(s)
+- **Ellen Roy** — `ellen-roy`; vocations editor; 4 issue(s)
+- **Emily Polk** — `emily-polk`; nationality **usa** ← "hails from the United States but lives in Calcutta"; vocations poet; 2 issue(s)
+- **Eugene Kamenka** — `eugene-kamenka`; vocations philosopher, professor; 1 issue(s)
+- **Evelyn Wood** — `evelyn-wood`; nationality **uk** ← "describes himself as "ethnically Celtic, legally British". He has been resident in India for the last 34 years"; vocations engineer; 1 issue(s)
+- **F. R. Stanley** — `f-r-stanley`; vocations professor; 2 issue(s)
+- **Feroze F. Moos** — `feroze-f-moos`; 2 issue(s)
+- **Foy Nissen** — `foy-nissen`; 6 issue(s)
+- **Francis Newton Souza** — `francis-newton-souza`; 1 issue(s)
+- **Fritz Sternberg** — `fritz-sternberg`; vocations economist; 1 issue(s)
+- **G. C. Chatterji** — `g-c-chatterji`; 1 issue(s)
+- **G. D. Parikh** — `g-d-parikh`; vocations economist, professor; 1 issue(s)
+- **G. P. Pradhan** — `g-p-pradhan`; 3 issue(s)
+- **G. Sukumaran Nair** — `g-sukumaran-nair`; vocations philosopher; 2 issue(s)
+- **G. V. Viswanath** — `g-v-viswanath`; nationality **india** ← "a young member of the Indian Administrative Service"; 2 issue(s)
+- **Georges Friedmann** — `georges-friedmann`; nationality **france** ← "one of the most eminent contemporary French sociologists"; vocations sociologist, writer; 1 issue(s)
+- **Gurbachan Singh Talib** — `gurbachan-singh-talib`; 1 issue(s)
+- **H. D. Sankalia** — `h-d-sankalia`; nationality **india** ← "eminent Indian Archaeologist"; 1 issue(s)
+- **H. H. Price** — `h-h-price`; vocations professor; 1 issue(s)
+- **H. Somjee** — `h-somjee`; 1 issue(s)
+- **Haig Khatchadourian** — `haig-khatchadourian`; vocations philosopher, professor; 1 issue(s)
+- **Hamdi Bey** — `hamdi-bey`; vocations writer, editor, journalist; 3 issue(s)
+- **Harry Roskolenko** — `harry-roskolenko`; nationality **usa** ← "is an American author"; vocations writer; 1 issue(s)
+- **Hephzibah Jesudasan** — `hephzibah-jesudasan`; vocations professor; 1 issue(s)
+- **Herbert Luthy** — `herbert-luthy`; nationality **switzerland** ← "He hails from Switzerland"; vocations historian, writer; 2 issue(s)
+- **Humayun Kabir** — `humayun-kabir`; vocations statesman; 3 issue(s)
+- **Ignazio Silone** — `ignazio-silone`; nationality **italy** ← "was born in the Italian region of the Abruzzi... He lives in Rome"; 2 issue(s)
+- **Indira Talyarkhan** — `indira-talyarkhan`; vocations editor; 3 issue(s)
+- **Indrani Rahman** — `indrani-rahman`; 1 issue(s)
+- **Indu P. Saraiya** — `indu-p-saraiya`; 6 issue(s)
+- **Iqbal Ahmad** — `iqbal-ahmad`; vocations professor; 1 issue(s)
+- **Iqbal Lukmani** — `iqbal-lukmani`; vocations poet; 4 issue(s)
+- **Ithuriel** — `ithuriel`; vocations journalist; 1 issue(s)
+- **J. B. H. Wadia** — `j-b-h-wadia`; 1 issue(s)
+- **J. K. Chowdhury** — `j-k-chowdhury`; 1 issue(s)
+- **J. N. Bhat** — `j-n-bhat`; 1 issue(s)
+- **J. N. Chubb** — `j-n-chubb`; vocations philosopher, professor; 2 issue(s)
+- **Jagadish N. Hattangadi** — `jagadish-n-hattangadi`; 1 issue(s)
+- **Jagannath Banerjee** — `jagannath-banerjee`; 1 issue(s)
+- **Jai Nimbkar** — `jai-nimbkar`; vocations sociologist; 1 issue(s)
+- **Jai Ratan** — `jai-ratan`; 1 issue(s)
+- **James T. Farrell** — `james-t-farrell`; 2 issue(s)
+- **Jane Drew** — `jane-drew`; 1 issue(s)
+- **Jean Bouret** — `jean-bouret`; 1 issue(s)
+- **Jean Herman** — `jean-herman`; 1 issue(s)
+- **Jean Stein** — `jean-stein`; 1 issue(s)
+- **Jehangir Sabavala** — `jehangir-sabavala`; 1 issue(s)
+- **Jeremy Nelson** — `jeremy-nelson`; nationality **australia** ← "is a young poet from Australia"; vocations political_scientist; 3 issue(s)
+- **Jibanananda Das** — `jibanananda-das`; 1 issue(s)
+- **John Clement** — `john-clement`; 1 issue(s)
+- **John Smithard** — `john-smithard`; 1 issue(s)
+- **Joseph Roggendorf** — `joseph-roggendorf`; nationality **germany** ← "is a German scholar and linguist who has lived for 20 years in Japan"; 1 issue(s)
+- **Jyotirmoy Datta** — `jyotirmoy-datta`; vocations poet, writer, journalist; 4 issue(s)
+- **Jyotiswarup Saxena** — `jyotiswarup-saxena`; vocations professor; 1 issue(s)
+- **K. B. Rao** — `k-b-rao`; 2 issue(s)
+- **K. D. Katrak** — `k-d-katrak`; 1 issue(s)
+- **K. Guru Dutt** — `k-guru-dutt`; vocations journalist; 2 issue(s)
+- **K. Hazareesingh** — `k-hazareesingh`; nationality **mauritius** ← "Port Louis, Mauritius"; vocations editor, civil_servant; 1 issue(s)
+- **K. K. Sinha** — `k-k-sinha`; vocations editor; 3 issue(s)
+- **K. Mukerji** — `k-mukerji`; 1 issue(s)
+- **K. Raghavendra Rao** — `k-raghavendra-rao`; nationality **india** ← "hails from Mysore"; vocations poet, political_scientist, professor, editor; 4 issue(s)
+- **Ka Naa Subramanyam** — `ka-naa-subramanyam`; vocations writer; 3 issue(s)
+- **Keshev Malik** — `keshev-malik`; 1 issue(s)
+- **Kironmoy Raha** — `kironmoy-raha`; 2 issue(s)
+- **Kirti N. Chaudhuri** — `kirti-n-chaudhuri`; vocations historian; 1 issue(s)
+- **Kobita Sarkar** — `kobita-sarkar`; vocations writer; 3 issue(s)
+- **Krishan Sondhi** — `krishan-sondhi`; 1 issue(s)
+- **Krishna Nandan Sinha** — `krishna-nandan-sinha`; 1 issue(s)
+- **Krishnanath** — `krishnanath`; 1 issue(s)
+- **Kshitimohan Mukerji** — `kshitimohan-mukerji`; vocations economist, activist; 1 issue(s)
+- **Kusumavati Deshpande** — `kusumavati-deshpande`; 1 issue(s)
+- **L. Chatterjee** — `l-chatterjee`; vocations professor; 1 issue(s)
+- **L. Kolakowski** — `l-kolakowski`; vocations philosopher, professor; 1 issue(s)
+- **LAURENCE LeGUAY** — `laurence-leguay`; 1 issue(s)
+- **Laeeq Futehally** — `laeeq-futehally`; 16 issue(s)
+- **Laxman Pai** — `laxman-pai`; 1 issue(s)
+- **Laxmanshastri Joshi** — `laxmanshastri-joshi`; vocations editor; 10 issue(s)
+- **Le Corbusier** — `le-corbusier`; 1 issue(s)
+- **Leon Emery** — `leon-emery`; vocations professor, writer, artist; 1 issue(s)
+- **Lila Ray** — `lila-ray`; nationality **usa** ← "hails from the United States"; vocations writer; 5 issue(s)
+- **Lola Chatterjee** — `lola-chatterjee`; vocations professor; 1 issue(s)
+- **Lola Chatterji** — `lola-chatterji`; nationality **usa** ← "hails from the U.S.A."; vocations professor; 5 issue(s)
+- **Lou Bernstein** — `lou-bernstein`; 1 issue(s)
+- **M. A. Venkata Rao** — `m-a-venkata-rao`; vocations philosopher, professor; 1 issue(s)
+- **M. D. Hatkanangalekar** — `m-d-hatkanangalekar`; 1 issue(s)
+- **M. D. Hatkananglekar** — `m-d-hatkananglekar`; vocations poet, professor; 2 issue(s)
+- **M. D. Hatkangalekar** — `m-d-hatkangalekar`; 1 issue(s)
+- **M. F. Husain** — `m-f-husain`; 1 issue(s)
+- **M. G. Bailur** — `m-g-bailur`; vocations editor; 1 issue(s)
+- **M. G. Bhate** — `m-g-bhate`; 1 issue(s)
+- **M. G. Desai** — `m-g-desai`; vocations professor; 2 issue(s)
+- **M. K. Haldar** — `m-k-haldar`; vocations philosopher, professor; 6 issue(s)
+- **M. K. Naik** — `m-k-naik`; vocations professor; 1 issue(s)
+- **M. Krishnan** — `m-krishnan`; nationality **india** ← "is from Mylapore, Madras"; 1 issue(s)
+- **M. P. Rege** — `m-p-rege`; 1 issue(s)
+- **M. S. Kalyanasundaram** — `m-s-kalyanasundaram`; nationality **india** ← "was born in Madura in 1901"; vocations writer; 3 issue(s)
+- **M. V. Namjoshi** — `m-v-namjoshi`; vocations economist, historian; 1 issue(s)
+- **M. V. Rajadhyaksha** — `m-v-rajadhyaksha`; 1 issue(s)
+- **M. V. Sastry** — `m-v-sastry`; 1 issue(s)
+- **Madhao B. Achwal** — `madhao-b-achwal`; vocations professor, writer; 2 issue(s)
+- **Mahadeoshastri Joshi** — `mahadeoshastri-joshi`; 1 issue(s)
+- **Mahesh Desai** — `mahesh-desai`; vocations activist; 2 issue(s)
+- **Manashi Das Gupta** — `manashi-das-gupta`; 1 issue(s)
+- **Mangesh Padgaonkar** — `mangesh-padgaonkar`; 1 issue(s)
+- **Mangesh Padki** — `mangesh-padki`; vocations writer; 3 issue(s)
+- **Marie Seton** — `marie-seton`; 1 issue(s)
+- **Martin S. Dworkin** — `martin-s-dworkin`; nationality **usa** ← "New York"; vocations journalist, artist; 2 issue(s)
+- **Matilda Strimpfel** — `matilda-strimpfel`; vocations artist; 1 issue(s)
+- **Maxwell Fry** — `maxwell-fry`; 1 issue(s)
+- **Michael Polanyi** — `michael-polanyi`; nationality **hungary** ← "was born in Budapest. He resigned his life-membership of Kaiser Wilhelm Institute fur Physikalische Chemie in 1933 in protest to anti-Jewish legislation."; vocations professor; 2 issue(s)
+- **Molly Daniels** — `molly-daniels`; nationality **india** ← "was born in Travancore. Her mother tongue is Malayalam but she writes only in English. Lives in Bombay."; 1 issue(s)
+- **Monika Var** — `monika-var`; vocations poet, writer; 2 issue(s)
+- **N. A. Nikam** — `n-a-nikam`; 1 issue(s)
+- **N. G. Deshpande** — `n-g-deshpande`; vocations poet; 1 issue(s)
+- **N. K. Devaraja** — `n-k-devaraja`; vocations philosopher, professor; 1 issue(s)
+- **N. L. Khanolkar** — `n-l-khanolkar`; 2 issue(s)
+- **N. V. Haldankar** — `n-v-haldankar`; 1 issue(s)
+- **Narendra Mitra** — `narendra-mitra`; vocations writer; 1 issue(s)
+- **Natwar Singh** — `natwar-singh`; 1 issue(s)
+- **Nazura Sattar** — `nazura-sattar`; 1 issue(s)
+- **Neville Braybrooke** — `neville-braybrooke`; nationality **uk** ← "a young British writer"; vocations editor; 1 issue(s)
+- **Nicolas Nabokov** — `nicolas-nabokov`; 2 issue(s)
+- **Nirad C. Chaudhuri** — `nirad-c-chaudhuri`; vocations writer, editor; 20 issue(s)
+- **Nirendranath Chakravarti** — `nirendranath-chakravarti`; vocations editor; 1 issue(s)
+- **Nissim Ezekiel** — `nissim-ezekiel`; vocations poet, editor; 18 issue(s)
+- **P. B. Bhave** — `p-b-bhave`; 1 issue(s)
+- **P. C. Chatterji** — `p-c-chatterji`; 5 issue(s)
+- **P. J. Chaudhury** — `p-j-chaudhury`; vocations philosopher, professor, writer; 1 issue(s)
+- **P. Jeanneret** — `p-jeanneret`; 1 issue(s)
+- **P. K. Saha** — `p-k-saha`; 2 issue(s)
+- **P. L. Stephen** — `p-l-stephen`; vocations professor; 1 issue(s)
+- **P. Lal** — `p-lal`; vocations poet, professor; 4 issue(s)
+- **P. Mahadevan** — `p-mahadevan`; vocations poet, professor, writer; 1 issue(s)
+- **P. S. Rege** — `p-s-rege`; 1 issue(s)
+- **Padma S. Rao** — `padma-s-rao`; 1 issue(s)
+- **Pandharinath Prabhu** — `pandharinath-prabhu`; vocations professor; 1 issue(s)
+- **Paresh C. Chatterjee** — `paresh-c-chatterjee`; vocations economist, professor; 1 issue(s)
+- **Paul David Devanandan** — `paul-david-devanandan`; vocations writer, editor; 1 issue(s)
+- **Paul Tabori** — `paul-tabori`; nationality **hungary** ← "is Hungarian by birth. He obtained his Ph.D. at Berlin University. He settled in England in 1937."; vocations writer, artist; 1 issue(s)
+- **Perin C. Mehta** — `perin-c-mehta`; 1 issue(s)
+- **Peter Hyun** — `peter-hyun`; 1 issue(s)
+- **Philip Spratt** — `philip-spratt`; nationality **uk** ← "as an envoy of the British Communist Party"; vocations editor; 2 issue(s)
+- **Prabhakar Padhye** — `prabhakar-padhye`; vocations writer; 5 issue(s)
+- **Pradip Sen** — `pradip-sen`; nationality **india** ← "is a Bengali but he writes exclusively in English"; 3 issue(s)
+- **Pratap Chatterjee** — `pratap-chatterjee`; 2 issue(s)
+- **Pratima Bowes** — `pratima-bowes`; 2 issue(s)
+- **Prema Anand** — `prema-anand`; 1 issue(s)
+- **Premendra Mitra** — `premendra-mitra`; vocations poet, writer; 1 issue(s)
+- **Pudumaippithan** — `pudumaippithan`; vocations writer; 1 issue(s)
+- **Punya Sloka Ray** — `punya-sloka-ray`; vocations philosopher, professor; 5 issue(s)
+- **Purnendubikash Bhattacharya** — `purnendubikash-bhattacharya`; vocations professor; 1 issue(s)
+- **R. B. Joshi** — `r-b-joshi`; vocations writer; 3 issue(s)
+- **R. Choksi** — `r-choksi`; vocations professor; 3 issue(s)
+- **R. Das** — `r-das`; vocations philosopher, professor; 2 issue(s)
+- **R. E. Hawkins** — `r-e-hawkins`; 2 issue(s)
+- **R. J. Chinwalla** — `r-j-chinwalla`; 1 issue(s)
+- **R. L. Nigam** — `r-l-nigam`; vocations professor; 1 issue(s)
+- **R. N. Gadre** — `r-n-gadre`; vocations professor; 1 issue(s)
+- **R. P. Masani** — `r-p-masani`; 1 issue(s)
+- **R. P. Sirkar** — `r-p-sirkar`; 1 issue(s)
+- **R. Parthasarathy** — `r-parthasarathy`; 1 issue(s)
+- **R. R. Crossette-Thambiah** — `r-r-crossette-thambiah`; 1 issue(s)
+- **R. Ramani** — `r-ramani`; vocations journalist; 2 issue(s)
+- **R. Ramaswamy** — `r-ramaswamy`; 1 issue(s)
+- **R. S. Chaturvedi** — `r-s-chaturvedi`; vocations professor; 1 issue(s)
+- **R. Sivaraman** — `r-sivaraman`; 1 issue(s)
+- **R. de Loyola Furtado** — `r-de-loyola-furtado`; vocations professor; 3 issue(s)
+- **Rajni Kothari** — `rajni-kothari`; vocations economist, political_scientist, professor; 1 issue(s)
+- **Ramakanta Rath** — `ramakanta-rath`; vocations poet; 1 issue(s)
+- **Ramaswamy R. Iyer** — `ramaswamy-r-iyer`; 3 issue(s)
+- **Rani Sinha** — `rani-sinha`; 1 issue(s)
+- **Ranjani Rao** — `ranjani-rao`; vocations poet; 3 issue(s)
+- **Rasik Raval** — `rasik-raval`; vocations artist; 1 issue(s)
+- **Ravindra Pinge** — `ravindra-pinge`; 1 issue(s)
+- **Raymond Aron** — `raymond-aron`; nationality **france** ← "a noted French political philosopher"; vocations philosopher, historian, professor, writer; 1 issue(s)
+- **Rene Tavernier** — `rene-tavernier`; vocations editor, journalist; 6 issue(s)
+- **Rhona Ghate** — `rhona-ghate`; vocations economist; 3 issue(s)
+- **Richard Lannoy** — `richard-lannoy`; 1 issue(s)
+- **Rita Rudra** — `rita-rudra`; vocations philosopher, professor; 1 issue(s)
+- **Robert Antoine** — `robert-antoine`; vocations professor; 1 issue(s)
+- **Robert Flynn** — `robert-flynn`; 1 issue(s)
+- **Roop Kathak** — `roop-kathak`; vocations writer; 1 issue(s)
+- **S. B. Cooper** — `s-b-cooper`; 1 issue(s)
+- **S. Balu Rao** — `s-balu-rao`; vocations editor; 1 issue(s)
+- **S. D. Deshmukh** — `s-d-deshmukh`; vocations writer; 2 issue(s)
+- **S. H. Dixit** — `s-h-dixit`; vocations philosopher, professor; 1 issue(s)
+- **S. H. Raza** — `s-h-raza`; 1 issue(s)
+- **S. J. Joshi** — `s-j-joshi`; nationality **india** ← "was born in Poona"; 1 issue(s)
+- **S. K. Chaubey** — `s-k-chaubey`; 1 issue(s)
+- **S. Kant** — `s-kant`; 1 issue(s)
+- **S. Natarajan** — `s-natarajan`; vocations editor; 8 issue(s)
+- **S. Nedumaran** — `s-nedumaran`; 1 issue(s)
+- **S. Ookerjee** — `s-ookerjee`; vocations philosopher, professor; 8 issue(s)
+- **S. P. Aiyar** — `s-p-aiyar`; 1 issue(s)
+- **S. P. Sethna** — `s-p-sethna`; 1 issue(s)
+- **S. R. Tikekar** — `s-r-tikekar`; vocations writer; 2 issue(s)
+- **S. S. Kapur** — `s-s-kapur`; 1 issue(s)
+- **S. S. Saha** — `s-s-saha`; 1 issue(s)
+- **S. Y. Krishnaswamy** — `s-y-krishnaswamy`; vocations writer; 1 issue(s)
+- **Sachin K. Roy** — `sachin-k-roy`; vocations legal_scholar; 1 issue(s)
+- **Sadanand Bhatkal** — `sadanand-bhatkal`; 1 issue(s)
+- **Sadanand Rege** — `sadanand-rege`; 1 issue(s)
+- **Sadashiv Athavale** — `sadashiv-athavale`; vocations poet, philosopher, historian, writer; 1 issue(s)
+- **Sadhan Kumar Ghosh** — `sadhan-kumar-ghosh`; vocations professor; 8 issue(s)
+- **Saif Tyabji** — `saif-tyabji`; 1 issue(s)
+- **Sailesh Kumar Roy** — `sailesh-kumar-roy`; 1 issue(s)
+- **Samaren Roy** — `samaren-roy`; vocations editor; 1 issue(s)
+- **Sanjoy** — `sanjoy`; vocations writer; 1 issue(s)
+- **Santosh Sen Gupta** — `santosh-sen-gupta`; 1 issue(s)
+- **Sardar Mahomed** — `sardar-mahomed`; 1 issue(s)
+- **Saroj Kumar Das** — `saroj-kumar-das`; 1 issue(s)
+- **Sasthibrata Chakravarti** — `sasthibrata-chakravarti`; 1 issue(s)
+- **Satindra Singh** — `satindra-singh`; vocations editor; 2 issue(s)
+- **Satindranath Chakravarti** — `satindranath-chakravarti`; vocations philosopher; 1 issue(s)
+- **Satyajit Roy** — `satyajit-roy`; 1 issue(s)
+- **Sean Purcell** — `sean-purcell`; nationality **ireland** ← "comes of a poor rural family in Southern Ireland"; 1 issue(s)
+- **Shankar Trivedi** — `shankar-trivedi`; 1 issue(s)
+- **Sharatchandra Muktibodh** — `sharatchandra-muktibodh`; 1 issue(s)
+- **Sheela Singh** — `sheela-singh`; nationality **india** ← "Nationality: Indian (stated twice, for Printer and for Publisher, in the printed Form IV 'Statement about Ownership')"; vocations editor, industrialist, military_officer; 16 issue(s)
+- **Shirin Sabavala** — `shirin-sabavala`; vocations sociologist; 1 issue(s)
+- **Shiru Limaye** — `shiru-limaye`; 1 issue(s)
+- **Shiv K. Kumar** — `shiv-k-kumar`; 1 issue(s)
+- **Shiv S. Kapur** — `shiv-s-kapur`; 1 issue(s)
+- **Shyam Manohar** — `shyam-manohar`; 1 issue(s)
+- **Shyamasree Devi** — `shyamasree-devi`; 1 issue(s)
+- **Shyamsvarup Jalota** — `shyamsvarup-jalota`; vocations philosopher, professor; 1 issue(s)
+- **Sibnarayan Ray** — `sibnarayan-ray`; vocations professor, writer, editor; 3 issue(s)
+- **Siddhartha Sen** — `siddhartha-sen`; vocations economist; 2 issue(s)
+- **Sidney Hook** — `sidney-hook`; vocations philosopher, professor; 1 issue(s)
+- **Sigmund Freud** — `sigmund-freud`; 1 issue(s)
+- **Srinarayan Ray** — `srinarayan-ray`; 1 issue(s)
+- **Srinivas Rayaprol** — `srinivas-rayaprol`; 1 issue(s)
+- **Stephen Spender** — `stephen-spender`; 1 issue(s)
+- **Sterling P. Lamprecht** — `sterling-p-lamprecht`; vocations philosopher, professor; 1 issue(s)
+- **Subramanya Bharathi** — `subramanya-bharathi`; 1 issue(s)
+- **Sudhin Datta** — `sudhin-datta`; vocations poet, writer, editor; 18 issue(s)
+- **Sudin Datta** — `sudin-datta`; 2 issue(s)
+- **Sunanda K. Datta-Ray** — `sunanda-k-datta-ray`; 1 issue(s)
+- **Sunil Janah** — `sunil-janah`; 1 issue(s)
+- **Sunil Mukherji** — `sunil-mukherji`; 1 issue(s)
+- **Sushil Dey** — `sushil-dey`; vocations economist, civil_servant; 2 issue(s)
+- **Swami Agehananda** — `agehananda`; nationality **austria** ← "is an Austrian by birth"; vocations philosopher; 4 issue(s)
+- **Swami Agehananda Bharati** — `agehananda-bharati`; 1 issue(s)
+- **T. Andhyarujina** — `t-andhyarujina`; 1 issue(s)
+- **T. G. Mainkar** — `t-g-mainkar`; vocations professor; 1 issue(s)
+- **T. K. Doraiswamy** — `t-k-doraiswamy`; vocations professor; 2 issue(s)
+- **T. M. P. Mahadevan** — `t-m-p-mahadevan`; 1 issue(s)
+- **T. R. Rajasekharaiah** — `t-r-rajasekharaiah`; 1 issue(s)
+- **T. R. Ramanathan** — `t-r-ramanathan`; nationality **ceylon** ← "is Ceylonese but has stayed in India for eight years"; vocations editor; 1 issue(s)
+- **T. R. Ramiah** — `t-r-ramiah`; 2 issue(s)
+- **Tibor Meray** — `tibor-meray`; 1 issue(s)
+- **To Thuy Yen** — `to-thuy-yen`; nationality **vietnam** ← "in his country (Vietnam)"; vocations poet, writer; 1 issue(s)
+- **Tomoo Otaka** — `tomoo-otaka`; 1 issue(s)
+- **Tulsi Narayan Singh** — `tulsi-narayan-singh`; vocations professor; 1 issue(s)
+- **Uma Anand** — `uma-anand`; vocations journalist; 5 issue(s)
+- **Uma Vasudev** — `uma-vasudev`; vocations editor, artist; 1 issue(s)
+- **Urmila Chowdhury** — `urmila-chowdhury`; 1 issue(s)
+- **V. A. Shahane** — `v-a-shahane`; vocations writer; 1 issue(s)
+- **V. Anant** — `v-anant`; 1 issue(s)
+- **V. D. Rao** — `v-d-rao`; vocations professor; 1 issue(s)
+- **V. K. Bawa** — `v-k-bawa`; 1 issue(s)
+- **V. M. Goatly** — `v-m-goatly`; 1 issue(s)
+- **V. P. Raman** — `v-p-raman`; vocations legal_scholar; 1 issue(s)
+- **V. S. Maniam** — `v-s-maniam`; 1 issue(s)
+- **V. Y. Kantak** — `v-y-kantak`; 1 issue(s)
+- **Vasant Bapat** — `vasant-bapat`; 1 issue(s)
+- **Vasant Palshikar** — `vasant-palshikar`; vocations writer; 2 issue(s)
+- **Vatsala Rao** — `vatsala-rao`; vocations economist, sociologist; 1 issue(s)
+- **Victor Paranjoti** — `victor-paranjoti`; 1 issue(s)
+- **Vinda Karandikar** — `vinda-karandikar`; 1 issue(s)
+- **Vinod Sena** — `vinod-sena`; vocations professor; 1 issue(s)
+- **Vyankatesh Madgulkar** — `vyankatesh-madgulkar`; vocations writer; 2 issue(s)
+- **W. L. Kulkarni** — `w-l-kulkarni`; 1 issue(s)
+- **Walter Z. Laqueur** — `walter-z-laqueur`; vocations journalist; 1 issue(s)
+- **William Phillips** — `william-phillips`; vocations writer, editor; 1 issue(s)
+- **Yogendra Chopra** — `yogendra-chopra`; 2 issue(s)
