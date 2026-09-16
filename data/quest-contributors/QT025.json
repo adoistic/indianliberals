@@ -1,0 +1,567 @@
+[
+  {
+    "byline_verbatim": "Sibnarayan Ray",
+    "name_as_in_contributor_note": "Sibnarayan Ray",
+    "name_variants": [
+      "S. N. Ray"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      1
+    ],
+    "note_verbatim": "SIBNARAYAN RAY is a distinguished critic and essayist in Bengali and English. Author of Explorations, a collection of essays in literary and philosophical criticism (1956), and co-editor of the weekly, Radical Humanist.",
+    "note_printed_page": 103,
+    "nationality_evidence": null,
+    "vocation_evidence": "a distinguished critic and essayist in Bengali and English... co-editor of the weekly, Radical Humanist",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "A. B. Shah",
+    "name_as_in_contributor_note": "A. B. Shah",
+    "name_variants": [],
+    "roles": [
+      "author",
+      "editor"
+    ],
+    "toc_indexes": [
+      2
+    ],
+    "note_verbatim": "A. B. SHAH teaches mathematics at Fergusson College and Poona University. He is 'interested in all that is human, and should like to study the philosophy of science, ethics and political theory.'",
+    "note_printed_page": 103,
+    "nationality_evidence": null,
+    "vocation_evidence": "teaches mathematics at Fergusson College and Poona University",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "Abu Sayeed Ayyub",
+    "name_as_in_contributor_note": "Abu Sayeed Ayyub",
+    "name_variants": [],
+    "roles": [
+      "author",
+      "editor"
+    ],
+    "toc_indexes": [
+      3
+    ],
+    "note_verbatim": "ABU SAYEED AYYUB has taught philosophy at the universities of Calcutta and Viswa-Bharati, and edited two anthologies of modern Bengali poetry.",
+    "note_printed_page": 103,
+    "nationality_evidence": null,
+    "vocation_evidence": "has taught philosophy at the universities of Calcutta and Viswa-Bharati, and edited two anthologies of modern Bengali poetry",
+    "is_editor_of_issue": true
+  },
+  {
+    "byline_verbatim": "Amlan Datta",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": true
+  },
+  {
+    "byline_verbatim": "Nirad C. Chaudhuri",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "Sudhin Datta",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "Laxmanshastri Joshi",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "Miss Sheela Singh",
+    "name_as_in_contributor_note": "Sheela Singh",
+    "name_variants": [
+      "Miss Shela Singh"
+    ],
+    "roles": [
+      "business manager",
+      "publisher",
+      "printer"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": 104,
+    "nationality_evidence": "Nationality: Indian (stated twice, for Printer and for Publisher, in the printed Form IV 'Statement about Ownership')",
+    "vocation_evidence": "Printed masthead role 'Business Manager'; Form IV names her Printer and Publisher, address '65, Nepean Sea Road, Bombay'; colophon: 'Printed and published by Miss Sheela Singh for the Indian Committee for Cultural Freedom... at Inland Printers... Bombay 7.'",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "Edward Shils",
+    "name_as_in_contributor_note": "Edward Shils",
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      4
+    ],
+    "note_verbatim": "EDWARD SHILS, a distinguished American Sociologist, is professor at the Social Science and Research Centre, University of Chicago.",
+    "note_printed_page": 103,
+    "nationality_evidence": "a distinguished American Sociologist",
+    "vocation_evidence": "professor at the Social Science and Research Centre, University of Chicago",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "R. S. Chaturvedi",
+    "name_as_in_contributor_note": "R. S. Chaturvedi",
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      5
+    ],
+    "note_verbatim": "R. S. CHATURVEDI is a lecturer in Hindi literature at Allahabad University.",
+    "note_printed_page": 103,
+    "nationality_evidence": null,
+    "vocation_evidence": "a lecturer in Hindi literature at Allahabad University",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "David McCutchion",
+    "name_as_in_contributor_note": "David McCutchion",
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      6
+    ],
+    "note_verbatim": "DAVID McCUTCHION is a frequent contributor to Quest.",
+    "note_printed_page": 103,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "Nissim Ezekiel",
+    "name_as_in_contributor_note": "Nissim Ezekiel",
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      7
+    ],
+    "note_verbatim": "NISSIM EZEKIEL is one of the best-known poets of the group of Indian writers who are known by the weird name of 'Indo-Anglians'. His last book of verse The Third was published last year. His next The Unfinished Man is scheduled for appearance in March 1960.",
+    "note_printed_page": 103,
+    "nationality_evidence": null,
+    "vocation_evidence": "one of the best-known poets of the group of Indian writers who are known... as 'Indo-Anglians'",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "Jibanananda Das",
+    "name_as_in_contributor_note": "Jibanananda Das",
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      8
+    ],
+    "note_verbatim": "JIBANANANDA DAS's deservedly famous poem 'Banalata Sen' has been translated before. This translation is by another important Indo-Anglian poet, P. Lal, who teaches English literature at a Calcutta college.",
+    "note_printed_page": 103,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "notes": "The printed note filed under Das's name is almost entirely about the translator P. Lal, not a biography of Das himself -- flagged rather than silently treated as Das's own biography; see the separate P. Lal entry below, which draws vocation evidence from this same paragraph."
+  },
+  {
+    "byline_verbatim": "P. Lal",
+    "name_as_in_contributor_note": "P. Lal",
+    "name_variants": [
+      "Sri P. Lal"
+    ],
+    "roles": [
+      "translator"
+    ],
+    "toc_indexes": [
+      8
+    ],
+    "note_verbatim": "This translation is by another important Indo-Anglian poet, P. Lal, who teaches English literature at a Calcutta college.",
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": "an important Indo-Anglian poet... teaches English literature at a Calcutta college",
+    "is_editor_of_issue": false,
+    "notes": "This sentence appears embedded within the 'Jibanananda Das' contributor-note paragraph rather than under its own heading; also appears elsewhere in the issue as a seminar participant ('Sri P. Lal') and as co-editor, with K. Raghavendra Rao, of 'Modern Indo-Anglian Poetry' (per the Raghavendra Rao note)."
+  },
+  {
+    "byline_verbatim": "Shyamasree Devi",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "translator"
+    ],
+    "toc_indexes": [
+      8
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "To Thuy Yen",
+    "name_as_in_contributor_note": "To Thuy Yen",
+    "name_variants": [],
+    "roles": [
+      "author",
+      "translator"
+    ],
+    "toc_indexes": [
+      9
+    ],
+    "note_verbatim": "TO THUY YEN, poet, short story writer and critic, is a frequent contributor to literary periodicals in his country (Vietnam). He is 23.",
+    "note_printed_page": 103,
+    "nationality_evidence": "in his country (Vietnam)",
+    "vocation_evidence": "poet, short story writer and critic",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "K. Raghavendra Rao",
+    "name_as_in_contributor_note": "K. Raghavendra Rao",
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      10
+    ],
+    "note_verbatim": "K. RAGHAVENDRA RAO teaches politics at the Karnatak University, Dharwar. His poems have been published in India and abroad. He and P. Lal were co-editors of Modern Indo-Anglian Poetry.",
+    "note_printed_page": 103,
+    "nationality_evidence": null,
+    "vocation_evidence": "teaches politics at the Karnatak University, Dharwar",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "Perin C. Mehta",
+    "name_as_in_contributor_note": "Mrs. Perin C. Mehta",
+    "name_variants": [
+      "Mrs. Perin C. Mehta"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      11
+    ],
+    "note_verbatim": "MRS. PERIN C. MEHTA is principal of Jamshedpur Women's College.",
+    "note_printed_page": 103,
+    "nationality_evidence": null,
+    "vocation_evidence": "principal of Jamshedpur Women's College",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "Premendra Mitra",
+    "name_as_in_contributor_note": "Premendra Mitra",
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      12
+    ],
+    "note_verbatim": "PREMENDRA MITRA is one of the foremost writers of short stories in Bengal today and an eminent poet. Had he been equally successful as a film producer, Bengali literature would probably have been the poorer for it.",
+    "note_printed_page": 103,
+    "nationality_evidence": null,
+    "vocation_evidence": "one of the foremost writers of short stories in Bengal today and an eminent poet",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "Kironmoy Raha",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "translator"
+    ],
+    "toc_indexes": [
+      12
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "notes": "Credited only at the foot of 'The Discovery of Telenapota' ('Translated from the Bengali by Kironmoy Raha'); no biography printed."
+  },
+  {
+    "byline_verbatim": "Sean Purcell",
+    "name_as_in_contributor_note": "Sean Purcell",
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      13
+    ],
+    "note_verbatim": "SEAN PURCELL, 'is 24, comes of a poor rural family in Southern Ireland. The Distant Signal is his first work of fiction to be published.'",
+    "note_printed_page": 103,
+    "nationality_evidence": "comes of a poor rural family in Southern Ireland",
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "notes": "The note itself is printed inside quotation marks, suggesting it may reproduce the contributor's own self-description rather than editorial third-person prose."
+  },
+  {
+    "byline_verbatim": "Bishnu Dey",
+    "name_as_in_contributor_note": "Bishnu Dey",
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      14
+    ],
+    "note_verbatim": "BISHNU DEY, a distinguished Bengali poet and critic, is head of the English department, Calcutta Central College.",
+    "note_printed_page": 103,
+    "nationality_evidence": null,
+    "vocation_evidence": "a distinguished Bengali poet and critic, is head of the English department, Calcutta Central College",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "Piloo Mody",
+    "name_as_in_contributor_note": "Piloo Mody",
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      15
+    ],
+    "note_verbatim": "PILOO MODY is a practising Bombay architect who studied architecture at the University of California.",
+    "note_printed_page": 103,
+    "nationality_evidence": null,
+    "vocation_evidence": "a practising Bombay architect who studied architecture at the University of California",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "M. V. Sastry",
+    "name_as_in_contributor_note": "M. V. Sastry",
+    "name_variants": [],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      16
+    ],
+    "note_verbatim": "M. V. SASTRY, MLC (Andhra), was a former co-worker of M. N. Roy to whose Independent India he contributed regularly.",
+    "note_printed_page": 103,
+    "nationality_evidence": null,
+    "vocation_evidence": "MLC (Andhra); former co-worker of M. N. Roy, contributed regularly to Independent India",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "Sadhan Kumar Ghosh",
+    "name_as_in_contributor_note": null,
+    "name_variants": [
+      "Sadhan Ghosh"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      17
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "notes": "No biography printed in 'Our Contributors' (page 103) despite being the author of a full column; the front cover shortens his byline to 'Sadhan Ghosh' (dropping 'Kumar')."
+  },
+  {
+    "byline_verbatim": "Swami Agehananda Bharati",
+    "name_as_in_contributor_note": "Swami Agehananda Bharati",
+    "name_variants": [
+      "Swami Agehananda Bharathi"
+    ],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      18
+    ],
+    "note_verbatim": "SWAMI AGEHANANDA BHARATI is at present attached to the University of Washington. He has often contributed to Quest.",
+    "note_printed_page": 101,
+    "nationality_evidence": null,
+    "vocation_evidence": "at present attached to the University of Washington",
+    "is_editor_of_issue": false,
+    "notes": "Spelled 'Bharathi' (with an extra 'h') in the contents-page TOC line but 'Bharati' consistently in his review's own byline and in this Reviewers note; no nationality is stated in this issue (contrast a different Quest issue's note describing him as 'an Austrian by birth', which does not appear here)."
+  },
+  {
+    "byline_verbatim": "T. G. Mainkar",
+    "name_as_in_contributor_note": "T. G. Mainkar",
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      19
+    ],
+    "note_verbatim": "T. G. MAINKAR teaches Sanskrit at Fergusson College and Poona University. His study of mysticism in the Rgveda is in press.",
+    "note_printed_page": 101,
+    "nationality_evidence": null,
+    "vocation_evidence": "teaches Sanskrit at Fergusson College and Poona University",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "Kshitimohan Mukerji",
+    "name_as_in_contributor_note": "K. M. Mukerji",
+    "name_variants": [
+      "K. M. Mukerji"
+    ],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      20
+    ],
+    "note_verbatim": "K. M. MUKERJI was active in the trade union movement in Calcutta before settling down with research in planning and economic growth at Gokhale Institute of Politics & Economics, Poona.",
+    "note_printed_page": 101,
+    "nationality_evidence": null,
+    "vocation_evidence": "active in the trade union movement in Calcutta... research in planning and economic growth at Gokhale Institute of Politics & Economics, Poona",
+    "is_editor_of_issue": false,
+    "notes": "TOC and the review's own byline give the fuller form 'Kshitimohan Mukerji'; the Reviewers note abbreviates to 'K. M. Mukerji'."
+  },
+  {
+    "byline_verbatim": "K. B. Rao",
+    "name_as_in_contributor_note": "K. B. Rao",
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      21
+    ],
+    "note_verbatim": "K. B. RAO reviewed Shudha Mazumdar's Ramayana in Quest 21.",
+    "note_printed_page": 101,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "notes": "Distinct person from 'K. Raghavendra Rao' (poet, toc_index 10, teaches politics at Karnatak University) despite the shared surname."
+  },
+  {
+    "byline_verbatim": "M. G. Desai",
+    "name_as_in_contributor_note": "M. G. Desai",
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      22
+    ],
+    "note_verbatim": "M. G. DESAI's review of Lawrence Clark's Kingdom Come appeared in Quest 22.",
+    "note_printed_page": 101,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "M. K. Haldar",
+    "name_as_in_contributor_note": "M. K. Haldar",
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      23
+    ],
+    "note_verbatim": "M. K. HALDAR is a frequent contributor to Thought of Delhi, has worked on Whitehead and admires Wittgenstein. He teaches philosophy at Delhi College and Delhi University.",
+    "note_printed_page": 101,
+    "nationality_evidence": null,
+    "vocation_evidence": "teaches philosophy at Delhi College and Delhi University",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "S. Ookerjee",
+    "name_as_in_contributor_note": "S. Ookerjee",
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      24
+    ],
+    "note_verbatim": "S. OOKERJEE teaches Philosophy at Wilson College and Bombay University.",
+    "note_printed_page": 101,
+    "nationality_evidence": null,
+    "vocation_evidence": "teaches Philosophy at Wilson College and Bombay University",
+    "is_editor_of_issue": false,
+    "notes": "Spelled consistently 'Ookerjee' throughout this issue (TOC, review byline, and Reviewers note); the archive-known variant 'Ookerji' does not occur here."
+  },
+  {
+    "byline_verbatim": "D. A. Dabholkar",
+    "name_as_in_contributor_note": "D. A. Dabholkar",
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      25
+    ],
+    "note_verbatim": "D. A. DABHOLKAR's review of S. Chandrashekhar's China's Population appears in Quest 24.",
+    "note_printed_page": 101,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "S. P. Aiyar",
+    "name_as_in_contributor_note": null,
+    "name_variants": [
+      "S. P. Aiyer"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      26
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false,
+    "notes": "No printed biography anywhere in the issue (correspondents commonly go unnoted). The TOC spells the byline 'S. P. Aiyar'; the letter itself is signed 'S. P. AIYER' at its foot -- a genuine spelling variant between two locations in the same issue, not an OCR artefact (both forms are clearly legible in the text layer)."
+  }
+]

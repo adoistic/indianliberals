@@ -50,8 +50,18 @@ for qt in [a for a in sys.argv[1:] if not a.startswith("--")]:
         forms += [v for v in (r.get("name_variants") or []) if isinstance(v, str)]
         surs = {norm(f).split()[-1] for f in forms if norm(f)}
         lead = set(norm(" ".join(n.split()[:8])).split())
-        if surs and not (surs & lead):
-            hits.append(r)
+        if not surs or (surs & lead):
+            continue
+        # Opening with the name is the usual shape, but not the only valid one.
+        # A biography of B can sit inside A's note: Jibanananda Das's note in
+        # QT025 continues "This translation is by another important Indo-Anglian
+        # poet, P. Lal, who teaches..." — third-person biography of P. Lal that
+        # simply starts elsewhere. Only move text that never names the person at
+        # all, which is what a letter or a quotation by them looks like.
+        body = set(norm(n).split())
+        if surs & body:
+            continue
+        hits.append(r)
     for r in hits:
         moved += 1
         if FIX:
