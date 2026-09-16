@@ -35,6 +35,12 @@ if p.exists():
     t = re.sub(r'^(\s*publisher_id:).*$', r'\1 quest', t, count=1, flags=re.M)
     t = re.sub(r'^(\s*issuer_id:).*$', r'\1 quest', t, count=1, flags=re.M)
     t = re.sub(r'^(authors|editors|related_thinkers):\s*$(?!\n\s+-)', r'\1: []', t, flags=re.M)
+    # publication.series is z.string() in the schema, but an agent reading a
+    # bare-numbered issue ("No. 46") emits the integer 46 and nothing coerced
+    # it. Six works shipped that way and Content check failed on every commit
+    # for five hours - astro sync rejects the collection, and a rejected
+    # collection blocks the deploy for the WHOLE site, not just that page.
+    t = re.sub(r'^(  series: )([0-9]+)\s*$', lambda m: f'{m.group(1)}"{m.group(2)}"', t, count=1, flags=re.M)
     p.write_text(t, encoding="utf-8"); print(f"  normalised {p.name}")
 PY
 python3 scripts/synthesis/guard-byline-aliases.py --fix "$QT"
