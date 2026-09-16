@@ -20,7 +20,21 @@ WORKS = REPO / "apps/site/src/content/primary-works"
 BAKE = REPO / "data/bake-off-output"
 DEFECT = re.compile(r"out of sequence|out of order|mis-?bound|misbind|scanned out|"
                     r"illegible|unreadable|missing page|missing lea|duplicate(d)? (page|lea)|"
-                    r"torn|damaged|cropped|cut off", re.I)
+                    r"torn|damaged|cropped|cut off|"
+                    # QT035's four tipped-in Kanchanjangha plates include two
+                    # leaves scanned sideways: the images and their captions
+                    # read vertically. Nothing is lost, but a reader meets two
+                    # pages turned 90 degrees, so it belongs in provenance.
+                    r"rotat(ed|ion)|sideways|upside[- ]down|90 ?(degrees|\u00b0)", re.I)
+# Rotation is the one defect word that also describes a PERFECTLY GOOD original:
+# QT036's Konarak plate is a landscape sheet, "four drawings printed sideways",
+# which is how Quest printed it. So a rotation hit only counts when the sentence
+# also talks about the ARTEFACT - the scan, the PDF, the leaf, the binding - and
+# never when "printed" or "original" is what is being described.
+ROT = re.compile(r"rotat(ed|ion)|sideways|upside[- ]down|90 ?(degrees|\u00b0)", re.I)
+ARTEFACT = re.compile(r"\b(scan|scans|scanned|pdf|leaf|leaves|bound|binding|capture[d]?)\b", re.I)
+AS_PRINTED = re.compile(r"\b(printed|prints|as printed|in the original|original layout|"
+                        r"landscape plate|laid out)\b", re.I)
 for qt in sys.argv[1:]:
     qt = qt.upper(); md = WORKS / f"{qt.lower()}.md"; mj = BAKE / qt / "metadata.a.json"
     if not (md.exists() and mj.exists()): print(f"SKIP {qt}"); continue
@@ -39,6 +53,14 @@ for qt in sys.argv[1:]:
             continue
         head = s[:max(0, DEFECT.search(s).start())]
         if NEG.search(head):
+            continue
+        # a rotation claim needs artefact context and must not be about the print
+        if ROT.search(s) and not DEFECT.sub("", ROT.sub("", s)).strip(" .,;:"):
+            pass
+        if ROT.search(s) and not ARTEFACT.search(s):
+            continue
+        if ROT.search(s) and AS_PRINTED.search(s) and not re.search(
+                r"\b(scan|scanned|pdf)\b", s, re.I):
             continue
         hits.append(s)
     if not hits: print(f"{qt}: no physical defect noted"); continue

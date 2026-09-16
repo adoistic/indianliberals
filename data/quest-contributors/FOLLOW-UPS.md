@@ -45,3 +45,19 @@ Nissim Ezekiel) and one Einstein quotation. See
 They are recorded as two people and must not be merged without editorial
 evidence. Both are held back from profile-building anyway — a single-token name
 with no printed biography gets no page — so a decision is not yet blocking.
+
+## A USIS officer among the contributors (QT034)
+Robert Gilkey's printed note says he "has just terminated his post as Cultural
+Affairs Officer, USIS, Calcutta". Recorded verbatim in his vocation evidence,
+with nationality left null (a posting is not an origin). Flagged because the
+Congress for Cultural Freedom's funding history makes the affiliation of a
+Quest contributor something a reader of the archive should be able to see, not
+something for the archive to decide quietly either way.
+
+## Reported speakers who are not bylines (QT034)
+The ICCF meeting reportage quotes P. Lal, Kazi Abdul Wadud, Hirankumar Sanyal
+and chairman Jayantanuja Bandopadhyaya, but the contents line covers them with
+"and others". They are recorded as mentions, not bylines, so they get no author
+profile. An editorial call is available either way: the record is a revised
+account drafted by K. K. Sinha, not a verbatim transcript, which is the reason
+for leaving it as it stands.

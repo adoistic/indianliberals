@@ -1,0 +1,709 @@
+[
+  {
+    "byline_verbatim": "G. V. KARANDIKAR",
+    "name_as_in_contributor_note": "G. V. KARANDIKAR",
+    "name_variants": [
+      "G. V. Karandikar"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      1
+    ],
+    "note_verbatim": "G. V. KARANDIKAR, a noted Marathi poet, teaches English Literature at the S.I.E.S. College, Bombay. His article is based on the paper he contributed to the All-India Writers' Conference recently held at Bombay.",
+    "note_printed_page": 108,
+    "nationality_evidence": null,
+    "vocation_evidence": "a noted Marathi poet, teaches English Literature at the S.I.E.S. College, Bombay",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "AGEHANANDA BHARATI",
+    "name_as_in_contributor_note": "AGEHANANDA BHARATI",
+    "name_variants": [
+      "Agehananda Bharati",
+      "A. Bharati"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      2
+    ],
+    "note_verbatim": "AGEHANANDA BHARATI, a Viennese Indologist, was Reader in Philosophy at the Banaras Hindu University from 1951 to 1954 and is at present Associate Professor of Anthropology at Syracuse University, New York. His controversial book The Ochre Robe was published by George Allen & Unwin in 1961.",
+    "note_printed_page": 108,
+    "nationality_evidence": "\"a Viennese Indologist\" (contributor note, p.108); and in his own article, \"A. Bharati, a native of Vienna, Austria, criticizes certain cultural patterns of India\" (p.15). Evidenced as non-Indian.",
+    "vocation_evidence": "a Viennese Indologist, was Reader in Philosophy at the Banaras Hindu University from 1951 to 1954 and is at present Associate Professor of Anthropology at Syracuse University, New York",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "H. R. PASRICHA",
+    "name_as_in_contributor_note": "H. R. PASRICHA",
+    "name_variants": [
+      "H. R. Pasricha"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      3
+    ],
+    "note_verbatim": "H. R. PASRICHA says \"I am afraid to disappoint you and others but I am no writer\". He held the rank of Lt. Colonel in the army as Consulting Surgeon to Western Command from which position he retired at his request to resume private practice as an orthopaedic surgeon.",
+    "note_printed_page": 108,
+    "nationality_evidence": null,
+    "vocation_evidence": "He held the rank of Lt. Colonel in the army as Consulting Surgeon to Western Command from which position he retired at his request to resume private practice as an orthopaedic surgeon.",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "J. A. RAMSARAN",
+    "name_as_in_contributor_note": "JOHN A. RAMSARAN",
+    "name_variants": [
+      "J. A. Ramsaran",
+      "JOHN A. RAMSARAN"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      4
+    ],
+    "note_verbatim": "JOHN A. RAMSARAN was born and educated in Trinidad and later joined the King's College, University of London, from where he took his M.A. degree. He is at present a lecturer in English Literature at the University College, Ibadan, Nigeria.",
+    "note_printed_page": 108,
+    "nationality_evidence": "\"was born and educated in Trinidad\" (contributor note, p.108). Evidenced as non-Indian. The London and Ibadan references are education and employment, not origin.",
+    "vocation_evidence": "He is at present a lecturer in English Literature at the University College, Ibadan, Nigeria.",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "HEPHZIBAH }ESUDASAN",
+    "name_as_in_contributor_note": "HEPHZIBAH JESUDASAN",
+    "name_variants": [
+      "Hephzibah Jesudasan",
+      "HEPHZIBAH JESUDASAN"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      5
+    ],
+    "note_verbatim": "HEPHZIBAH JESUDASAN teaches English at the College for Women, Trivandrum. She has published, besides a collection of her own poems in English, a book of translations from Subramania Bharati (The Song of the Cuckoo and other poems), and the History of Tamil Literature written in collaboration with her husband.",
+    "note_printed_page": 108,
+    "nationality_evidence": null,
+    "vocation_evidence": "teaches English at the College for Women, Trivandrum. She has published, besides a collection of her own poems in English, a book of translations from Subramania Bharati ... and the History of Tamil Literature written in collaboration with her husband.",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "P. R. DASWANI",
+    "name_as_in_contributor_note": null,
+    "name_variants": [
+      "P. R. Daswani",
+      "P; R. Daswani"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      6
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "RAJENDRA AvASTHI",
+    "name_as_in_contributor_note": "RAJENDRA AVASTHI",
+    "name_variants": [
+      "Rajendra Avasthi",
+      "Rajendra A vasthi",
+      "RAJENDRA AVASTHI"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      7
+    ],
+    "note_verbatim": "RAJENDRA AVASTHI is Assistant Professor of Political Science at the University of Lucknow.",
+    "note_printed_page": 108,
+    "nationality_evidence": null,
+    "vocation_evidence": "is Assistant Professor of Political Science at the University of Lucknow",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "WILLIAM PHILLIPS",
+    "name_as_in_contributor_note": "WILLIAM PHILLIPS",
+    "name_variants": [
+      "William Phillips"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      8
+    ],
+    "note_verbatim": "WILLIAM PHILLIPS is a wellknown American writer and editor of the distinguished quartely Partisan Review. These letters from New York are exclusive to Quest.",
+    "note_printed_page": 108,
+    "nationality_evidence": "\"is a wellknown American writer\" (contributor note, p.108). Evidenced as non-Indian.",
+    "vocation_evidence": "a wellknown American writer and editor of the distinguished quartely Partisan Review",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "}YOTIRMOY DATTA",
+    "name_as_in_contributor_note": "JYOTIRMOY DATTA",
+    "name_variants": [
+      "Jyotirmoy Datta",
+      "JYOTIRMOY DATTA"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      9
+    ],
+    "note_verbatim": "JYOTIRMOY DATTA, Calcutta poet, critic and journalist, is a regular contributor to Quest.",
+    "note_printed_page": 108,
+    "nationality_evidence": null,
+    "vocation_evidence": "Calcutta poet, critic and journalist, is a regular contributor to Quest",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "CHATURSEN SHASTRI",
+    "name_as_in_contributor_note": null,
+    "name_variants": [
+      "Chatursen Shastri"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      10
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "N. N. BANERJI",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "translator"
+    ],
+    "toc_indexes": [
+      10
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "NISSIM EZEKIEL",
+    "name_as_in_contributor_note": null,
+    "name_variants": [
+      "Nissim Ezekiel",
+      "NISSIM EzEKIEL"
+    ],
+    "roles": [
+      "author",
+      "editor"
+    ],
+    "toc_indexes": [
+      11,
+      12
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": "\"Reviews Editor : NISSIM EZEKIEL\" (masthead, contents page). Not a biography; a masthead credit.",
+    "is_editor_of_issue": true
+  },
+  {
+    "byline_verbatim": "IRA DE",
+    "name_as_in_contributor_note": "IRA DE",
+    "name_variants": [
+      "Ira De"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      13
+    ],
+    "note_verbatim": "IRA DE is a New Delhi housewife and wishes to be publicised like that-writes a friend through whom we received her poem.",
+    "note_printed_page": 108,
+    "nationality_evidence": null,
+    "vocation_evidence": "is a New Delhi housewife and wishes to be publicised like that",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "G. C. S. MARAR",
+    "name_as_in_contributor_note": "G. C. S. MARAR",
+    "name_variants": [
+      "G. C. S. Marar",
+      "G. c. s. MARAR"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      14
+    ],
+    "note_verbatim": "G. C. S. MARAR has contributed verse to Extension, Atlantic and Poetry of U.S.A.",
+    "note_printed_page": 108,
+    "nationality_evidence": null,
+    "vocation_evidence": "has contributed verse to Extension, Atlantic and Poetry of U.S.A.",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "S. R. RA.JAN",
+    "name_as_in_contributor_note": null,
+    "name_variants": [
+      "S. R. Rajan",
+      "S. R. RAJAN"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      15
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "M. RUTHNASWAMY",
+    "name_as_in_contributor_note": "MARIADAS RUTHNASWAMY",
+    "name_variants": [
+      "M. Ruthnaswamy",
+      "MARIADAS RUTHNASWAMY"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      16
+    ],
+    "note_verbatim": "MARIADAS RUTHNASWAMY has been professor of history, principal, vice-chancellor, legislator and editor; he was actively associated with several Catholic associations of which he founded the Catholic Union of India in 1945.",
+    "note_printed_page": 108,
+    "nationality_evidence": null,
+    "vocation_evidence": "has been professor of history, principal, vice-chancellor, legislator and editor; he was actively associated with several Catholic associations of which he founded the Catholic Union of India in 1945",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "SATISH c. SABERWAL",
+    "name_as_in_contributor_note": "SATISH C. SABERWAL",
+    "name_variants": [
+      "Satish C. Saberwal",
+      "SATISH SABERWAL",
+      "SATISH c. SABERWAL"
+    ],
+    "roles": [
+      "author",
+      "reviewer"
+    ],
+    "toc_indexes": [
+      17,
+      21
+    ],
+    "note_verbatim": "SATISH C. SABERWAL is working for his Ph.D. in anthropology at Cornell University, New York.",
+    "note_printed_page": 108,
+    "additional_note_verbatim": "SATISH SABERWAL is attached to Cornell University, U.S.A.",
+    "additional_note_printed_page": 107,
+    "nationality_evidence": null,
+    "vocation_evidence": "is working for his Ph.D. in anthropology at Cornell University, New York (p.108); \"is attached to Cornell University, U.S.A.\" (p.107). Both are education/affiliation, not origin.",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "SUDHIR CHANDRA",
+    "name_as_in_contributor_note": "SUDHIR CHANDRA",
+    "name_variants": [
+      "Sudhir Chandra"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      18
+    ],
+    "note_verbatim": "SUDHIR CHANDRA writes that this will be his \"first article to be published in other than college and hostel magazines\".",
+    "note_printed_page": 108,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "SADHAN KUMAR GHOSH",
+    "name_as_in_contributor_note": null,
+    "name_variants": [
+      "Sadhan Kumar Ghosh"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      19
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "P. LAL",
+    "name_as_in_contributor_note": "P. LAL",
+    "name_variants": [
+      "P. Lal"
+    ],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      20
+    ],
+    "note_verbatim": "P. LAL is a poet who teaches English at St. Xaviers College, Calcutta.",
+    "note_printed_page": 107,
+    "nationality_evidence": null,
+    "vocation_evidence": "is a poet who teaches English at St. Xaviers College, Calcutta",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "S. R. TIKEKAR",
+    "name_as_in_contributor_note": "S. R. TIKEKER",
+    "name_variants": [
+      "S. R. Tikekar",
+      "S. R. TIKEKER",
+      "s. R. TIKEKAR"
+    ],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      22
+    ],
+    "note_verbatim": "S. R. TIKEKER is a free lance journalist of Bombay.",
+    "note_printed_page": 107,
+    "nationality_evidence": null,
+    "vocation_evidence": "is a free lance journalist of Bombay",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "S. NATARAJAN",
+    "name_as_in_contributor_note": "S. NATARAJAN",
+    "name_variants": [
+      "S. Natarajan"
+    ],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      23
+    ],
+    "note_verbatim": "S. NATARAJAN is the Secretary of the Council for Economic Affairs, Bombay.",
+    "note_printed_page": 107,
+    "nationality_evidence": null,
+    "vocation_evidence": "is the Secretary of the Council for Economic Affairs, Bombay",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "MAHESH DESAI",
+    "name_as_in_contributor_note": "MAHESH DESAI",
+    "name_variants": [
+      "Mahesh Desai"
+    ],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      24
+    ],
+    "note_verbatim": "MAHESH DESAI is a Trade Unionist of Jharia, Bihar.",
+    "note_printed_page": 107,
+    "nationality_evidence": null,
+    "vocation_evidence": "is a Trade Unionist of Jharia, Bihar",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "FARROKH K. R. MEHTA",
+    "name_as_in_contributor_note": "FARROKH MEHTA",
+    "name_variants": [
+      "Ferrokh K. R. Mehta",
+      "FARROKH MEHTA",
+      "F ARROKH K . R. MEHTA"
+    ],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      25
+    ],
+    "note_verbatim": "FARROKH MEHTA works for an advertising firm of Bombay.",
+    "note_printed_page": 107,
+    "nationality_evidence": null,
+    "vocation_evidence": "works for an advertising firm of Bombay",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "DAv:m McCuTCHION",
+    "name_as_in_contributor_note": "DAVID McCUTCHION",
+    "name_variants": [
+      "David McCutchion",
+      "DAVID McCUTCHION",
+      "D. McCutchion"
+    ],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      26
+    ],
+    "note_verbatim": "DAVID McCUTCHION teaches English at Vishwa Bharati University.",
+    "note_printed_page": 107,
+    "nationality_evidence": null,
+    "vocation_evidence": "teaches English at Vishwa Bharati University",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "LINA MAYADAS",
+    "name_as_in_contributor_note": "LINA MAYADAS",
+    "name_variants": [
+      "Lina Mayadas"
+    ],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      27
+    ],
+    "note_verbatim": "LINA MAYADAS. A Bombay housewife who is a free lance writer.",
+    "note_printed_page": 107,
+    "nationality_evidence": null,
+    "vocation_evidence": "A Bombay housewife who is a free lance writer",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "K. D. VALICHA",
+    "name_as_in_contributor_note": "K. D. VALICHA",
+    "name_variants": [
+      "K. D. Valicha"
+    ],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      28
+    ],
+    "note_verbatim": "K. D. VALICHA teaches Philosophy in a Bombay College.",
+    "note_printed_page": 107,
+    "nationality_evidence": null,
+    "vocation_evidence": "teaches Philosophy in a Bombay College",
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "A. A.",
+    "name_as_in_contributor_note": null,
+    "name_variants": [
+      "A.A."
+    ],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      29
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "J. BANDYOPADHYAYA",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      30
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "N.E.",
+    "name_as_in_contributor_note": null,
+    "name_variants": [],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "L.F.",
+    "name_as_in_contributor_note": null,
+    "name_variants": [
+      "L. F."
+    ],
+    "roles": [
+      "reviewer"
+    ],
+    "toc_indexes": [
+      36,
+      37
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "-RABINDRANATH TAGORE",
+    "name_as_in_contributor_note": null,
+    "name_variants": [
+      "RABINDRANATH TAGORE",
+      "Rabindranath Tagore"
+    ],
+    "roles": [
+      "author"
+    ],
+    "toc_indexes": [
+      39
+    ],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": null,
+    "is_editor_of_issue": false
+  },
+  {
+    "byline_verbatim": "ABU SAYEED AYYUB",
+    "name_as_in_contributor_note": null,
+    "name_variants": [
+      "Abu Sayeed Ayyub",
+      "ABu SAYEED AYYUB"
+    ],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": "Form IV statement, printed p.111: \"5. Editor's Name: ABU SAYEED AYYUB & AMLAN DATTA / Nationality: Indians / Address: 5, Pearl Road, Calcutta 17.\" This is a printed statement of nationality, not an inference.",
+    "vocation_evidence": "\"Edited by ABU SAYEED AYYUB and AMLAN DATTA\" (contents page) and \"Editor's Name\" in the Form IV statement, p.111. Masthead and statutory credits, not a biography.",
+    "is_editor_of_issue": true
+  },
+  {
+    "byline_verbatim": "AMLAN DATTA",
+    "name_as_in_contributor_note": null,
+    "name_variants": [
+      "Amlan Datta",
+      "AMLAN DATTA"
+    ],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": "Form IV statement, printed p.111: \"5. Editor's Name: ABU SAYEED AYYUB & AMLAN DATTA / Nationality: Indians / Address: 5, Pearl Road, Calcutta 17.\" This is a printed statement of nationality, not an inference.",
+    "vocation_evidence": "\"Edited by ABU SAYEED AYYUB and AMLAN DATTA\" (contents page) and \"Editor's Name\" in the Form IV statement, p.111. Masthead and statutory credits, not a biography.",
+    "is_editor_of_issue": true
+  },
+  {
+    "byline_verbatim": "NIRAD C. CHAUDHURI",
+    "name_as_in_contributor_note": null,
+    "name_variants": [
+      "Nirad C. Chaudhuri",
+      "Nirad Chaudhuri",
+      "NmAD C. CHAUDHURI"
+    ],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": "\"Advisory Editors : NIRAD C. CHAUDHURI and LAXMANSHASTRI JOSHI\" (contents page). A masthead credit, not a biography.",
+    "is_editor_of_issue": true
+  },
+  {
+    "byline_verbatim": "LAXMANSHASTRI JOSHI",
+    "name_as_in_contributor_note": null,
+    "name_variants": [
+      "Laxmanshastri Joshi",
+      "LAXMANSHASTRI JOSHI"
+    ],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": "\"Advisory Editors : NIRAD C. CHAUDHURI and LAXMANSHASTRI JOSHI\" (contents page). A masthead credit, not a biography.",
+    "is_editor_of_issue": true
+  },
+  {
+    "byline_verbatim": "MRS. LAEEQ FUTEHALLY",
+    "name_as_in_contributor_note": null,
+    "name_variants": [
+      "Mrs. Laeeq Futehally",
+      "MRs. LAEEQ FUTEHALLY",
+      "Laeeq Futehally"
+    ],
+    "roles": [
+      "editor"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": null,
+    "vocation_evidence": "\"Astt. Reviews Editor : MRS. LAEEQ FUTEHALLY\" (masthead, contents page). A masthead credit, not a biography.",
+    "is_editor_of_issue": true
+  },
+  {
+    "byline_verbatim": "MISS SHEELA SINGH",
+    "name_as_in_contributor_note": null,
+    "name_variants": [
+      "Miss Sheela Singh",
+      "MISS SHEELA SINCH",
+      "(MISS) SHEELA SINGH",
+      "SHEELA SINGH"
+    ],
+    "roles": [
+      "other"
+    ],
+    "toc_indexes": [],
+    "note_verbatim": null,
+    "note_printed_page": null,
+    "nationality_evidence": "Form IV statement, printed p.111: \"3. Printer's Name (MISS) SHEELA SINGH / Nationality Indian / Address Amalfi, Nepean Road, Bombay\", repeated for \"4. Publisher's Name\". A printed statement of nationality, not an inference.",
+    "vocation_evidence": "\"Business Manager : MISS SHEELA SINGH\" (masthead, contents page); Printer and Publisher in the Form IV statement, p.111; and \"Printed and published by MISS SHEELA SINGH for the Indian Committee for Cultural Freedom\" in the colophon, p.123. Machinery imprints and a masthead credit, not a biography.",
+    "is_editor_of_issue": false
+  }
+]

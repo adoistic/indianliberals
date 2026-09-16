@@ -656,14 +656,19 @@ def compose_body(canonical: str, recs: list[tuple[str, dict]], labels: dict[str,
 
     quotes = []
     for qt, r in recs:
-        note = (r.get("note_verbatim") or "").strip()
-        if not note:
-            continue
-        page = r.get("note_printed_page")
-        cite = labels.get(qt, qt) + (f", p. {page}" if page else "")
-        block = "\n".join("> " + ln.strip() for ln in note.splitlines() if ln.strip())
-        quotes.append(f"*Quest*'s contributor note in {cite} reads:\n\n{block}")
-        if len(quotes) == 2:                   # two printed notes are enough
+        # One issue can print the same person twice — QT033 gives Satish
+        # Saberwal a biography in BOTH the contributors and the reviewers
+        # block, and the harvest keeps the second as additional_note_verbatim.
+        for key, pkey in (("note_verbatim", "note_printed_page"),
+                          ("additional_note_verbatim", "additional_note_printed_page")):
+            note = (r.get(key) or "").strip()
+            if not note:
+                continue
+            page = r.get(pkey)
+            cite = labels.get(qt, qt) + (f", p. {page}" if page else "")
+            block = "\n".join("> " + ln.strip() for ln in note.splitlines() if ln.strip())
+            quotes.append(f"*Quest*'s contributor note in {cite} reads:\n\n{block}")
+        if len(quotes) >= 2:                   # two printed notes are enough
             break
 
     parts = [lead]
@@ -682,6 +687,7 @@ def compose_frontmatter(slug: str, canonical: str, forms: list[str],
     ev_voc = [r.get("vocation_evidence") for _, r in recs]
     ev_nat = [r.get("nationality_evidence") for _, r in recs]
     notes = [r.get("note_verbatim") for _, r in recs]
+    notes += [r.get("additional_note_verbatim") for _, r in recs]
     has_note = any(n for n in notes)
 
     aka = [f for f in forms if norm(f) != norm(canonical)]
